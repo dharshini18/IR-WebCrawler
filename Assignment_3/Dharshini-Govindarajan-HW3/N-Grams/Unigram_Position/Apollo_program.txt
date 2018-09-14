@@ -1,0 +1,2398 @@
+limited Apollo_program.txt 2 533 4283 
+1,800 Apollo_program.txt 1 9469 
+magnetic Apollo_program.txt 3 10024 10032 10042 
+reactants Apollo_program.txt 1 3391 
+four Apollo_program.txt 6 2404 3773 3986 4167 4257 7767 
+facilities Apollo_program.txt 3 1635 1856 8778 
+assembled Apollo_program.txt 1 2019 
+looking Apollo_program.txt 2 8844 9398 
+patches Apollo_program.txt 2 6765 7212 
+51,300 Apollo_program.txt 1 3447 
+basaltic Apollo_program.txt 1 8223 
+under Apollo_program.txt 6 1696 2122 2214 2313 7964 8017 
+updated Apollo_program.txt 1 7437 
+risk Apollo_program.txt 2 2392 9349 
+geology Apollo_program.txt 1 4854 
+test-fired Apollo_program.txt 1 6546 
+fishbowl Apollo_program.txt 1 5332 
+every Apollo_program.txt 2 8559 8578 
+jack Apollo_program.txt 1 7359 
+frailty Apollo_program.txt 1 9760 
+vast Apollo_program.txt 2 9766 9838 
+prize Apollo_program.txt 2 9101 9110 
+skills Apollo_program.txt 2 1785 2131 
+supports Apollo_program.txt 1 8445 
+eisenhowers Apollo_program.txt 1 47 
+venus Apollo_program.txt 1 8975 
+cmp Apollo_program.txt 2 5300 7529 
+aeronautics Apollo_program.txt 2 24 10289 
+force Apollo_program.txt 6 1632 2248 2267 2350 9498 9544 
+kreep Apollo_program.txt 2 8318 8330 
+run-out Apollo_program.txt 1 8614 
+man-rating Apollo_program.txt 1 6445 
+direct Apollo_program.txt 3 2414 2424 3849 
+batch Apollo_program.txt 1 7463 
+feasibility Apollo_program.txt 4 623 630 688 1347 
+surrounding Apollo_program.txt 1 9150 
+likely Apollo_program.txt 2 1110 9935 
+rigorous Apollo_program.txt 1 5878 
+estimated Apollo_program.txt 3 8810 9639 9664 
+incompatible Apollo_program.txt 1 10002 
+even Apollo_program.txt 9 1284 1299 1884 2449 2706 2784 2815 3819 9312 
+established Apollo_program.txt 1 1505 
+cosmonauts Apollo_program.txt 1 6938 
+deferred Apollo_program.txt 1 916 
+specification Apollo_program.txt 1 1386 
+selected Apollo_program.txt 1 5367 
+while Apollo_program.txt 17 141 412 522 2390 2517 3453 3570 5231 6015 6253 7166 7449 7540 8651 9158 9171 9539 
+causes Apollo_program.txt 1 6095 
+above Apollo_program.txt 2 9160 9177 
+designing Apollo_program.txt 1 2383 
+new Apollo_program.txt 9 1161 1583 1640 3208 5312 5501 7728 8801 9275 
+increasing Apollo_program.txt 1 7569 
+ever Apollo_program.txt 2 1473 9584 
+consisting Apollo_program.txt 2 5432 7103 
+specialist Apollo_program.txt 1 9979 
+deemed Apollo_program.txt 1 1378 
+lms Apollo_program.txt 1 7068 
+simultaneously Apollo_program.txt 1 6579 
+men Apollo_program.txt 5 183 1443 2745 3225 6751 
+met Apollo_program.txt 1 1295 
+pratt Apollo_program.txt 1 4139 
+anorthite Apollo_program.txt 1 8303 
+possibility Apollo_program.txt 1 9359 
+represented Apollo_program.txt 2 2572 9811 
+path Apollo_program.txt 1 3328 
+100 Apollo_program.txt 1 5960 
+107 Apollo_program.txt 1 1468 
+tapes Apollo_program.txt 8 9884 9917 9931 10026 10043 10087 10094 10185 
+study Apollo_program.txt 8 631 689 698 1348 3041 3299 3551 8903 
+changed Apollo_program.txt 3 3192 4077 7795 
+reports Apollo_program.txt 2 2508 10302 
+sla Apollo_program.txt 1 8881 
+military Apollo_program.txt 1 813 
+theres Apollo_program.txt 1 9279 
+changes Apollo_program.txt 3 3290 6085 6099 
+cancellation Apollo_program.txt 1 271 
+appropriately Apollo_program.txt 1 3130 
+digitally Apollo_program.txt 1 9899 
+campaign Apollo_program.txt 1 758 
+a-001 Apollo_program.txt 1 3990 
+replace Apollo_program.txt 2 2201 3903 
+visible Apollo_program.txt 1 9318 
+hindsight Apollo_program.txt 1 9952 
+total Apollo_program.txt 5 7134 8025 8103 8621 8668 
+spoke Apollo_program.txt 1 2521 
+would Apollo_program.txt 51 538 985 1114 1344 1524 1546 1619 1644 1851 1887 2017 2453 2966 3060 3159 3222 3564 3577 3872 3931 3965 4280 5227 5234 5242 5260 5280 5308 5343 5481 5491 5775 5853 5872 6179 6191 6241 6315 6370 6379 6399 6534 6600 6846 6897 7516 7561 7786 8566 8890 9372 
+deke Apollo_program.txt 2 4630 5348 
+liftoff Apollo_program.txt 1 7576 
+delayedthe Apollo_program.txt 1 9651 
+20:17:40 Apollo_program.txt 1 7125 
+music Apollo_program.txt 1 568 
+therefore Apollo_program.txt 2 1377 6318 
+recommend Apollo_program.txt 1 2561 
+survive Apollo_program.txt 2 3286 6481 
+type Apollo_program.txt 1 5333 
+until Apollo_program.txt 3 2334 2858 6945 
+cutbacks Apollo_program.txt 2 7602 7741 
+ferrying Apollo_program.txt 1 545 
+michoud Apollo_program.txt 1 7724 
+successful Apollo_program.txt 5 283 5870 6946 7666 7833 
+award Apollo_program.txt 1 4966 
+midst Apollo_program.txt 1 3825 
+hold Apollo_program.txt 3 1182 5938 5945 
+rl-10 Apollo_program.txt 2 4141 4158 
+1995 Apollo_program.txt 1 10251 
+room Apollo_program.txt 1 1375 
+1996 Apollo_program.txt 1 10254 
+1998 Apollo_program.txt 1 10261 
+work Apollo_program.txt 2 3806 9546 
+mi Apollo_program.txt 1 9176 
+refusing Apollo_program.txt 1 997 
+theories Apollo_program.txt 1 9867 
+deficiencies Apollo_program.txt 1 6030 
+hansen Apollo_program.txt 1 2939 
+my Apollo_program.txt 4 589 9586 9588 9599 
+example Apollo_program.txt 1 8657 
+surveyor Apollo_program.txt 2 7256 7320 
+vulnerability Apollo_program.txt 1 9761 
+validated Apollo_program.txt 1 5101 
+altitudes Apollo_program.txt 1 2098 
+rescue Apollo_program.txt 1 5989 
+5,560 Apollo_program.txt 1 3357 
+end Apollo_program.txt 4 94 1449 1878 2973 
+pogo Apollo_program.txt 1 6656 
+provide Apollo_program.txt 1 309 
+as-202 Apollo_program.txt 4 5075 5180 5556 5590 
+as-201 Apollo_program.txt 1 5046 
+as-200 Apollo_program.txt 1 4423 
+as-206 Apollo_program.txt 1 5257 
+as-205 Apollo_program.txt 4 5210 5466 5471 5490 
+as-204 Apollo_program.txt 5 5208 5423 5558 5621 6509 
+cone-shaped Apollo_program.txt 1 3114 
+rookie Apollo_program.txt 5 5385 5442 5453 6959 7240 
+symposium Apollo_program.txt 1 8724 
+winslow Apollo_program.txt 1 2995 
+36,200 Apollo_program.txt 1 3732 
+mueller Apollo_program.txt 10 2141 2147 2240 2251 2325 5706 5746 5756 6222 6270 
+merritt Apollo_program.txt 2 1919 7713 
+minority Apollo_program.txt 1 2949 
+replacing Apollo_program.txt 3 1323 6069 7637 
+ladder Apollo_program.txt 1 7069 
+after Apollo_program.txt 21 245 562 756 968 1124 1831 2344 2707 3033 3176 3979 4592 4731 5251 5785 6084 6087 7196 7874 9353 9910 
+wrong Apollo_program.txt 1 9963 
+reassess Apollo_program.txt 1 7746 
+president Apollo_program.txt 17 71 755 810 861 1008 1038 1652 1963 2735 2827 2977 5737 7881 8468 8520 8596 9778 
+types Apollo_program.txt 3 6276 6408 7522 
+severity Apollo_program.txt 1 4246 
+as-20x Apollo_program.txt 1 4046 
+cosmonaut Apollo_program.txt 1 928 
+third Apollo_program.txt 9 13 4154 4384 4559 4566 5113 6673 6693 6754 
+amid Apollo_program.txt 1 9764 
+descends Apollo_program.txt 1 7066 
+discontinued Apollo_program.txt 1 6160 
+greek Apollo_program.txt 1 564 
+operate Apollo_program.txt 1 7531 
+order Apollo_program.txt 6 1338 1968 2117 6284 7753 9822 
+wine Apollo_program.txt 1 6911 
+operations Apollo_program.txt 7 1837 1911 2060 2234 4622 5360 8786 
+senators Apollo_program.txt 1 796 
+office Apollo_program.txt 7 2178 2652 2737 2904 6063 7896 8794 
+over Apollo_program.txt 16 763 1494 3468 3731 3741 3883 4395 7556 7973 8027 8093 8099 8158 9237 9468 10054 
+japan Apollo_program.txt 1 9138 
+before Apollo_program.txt 14 1020 1202 2733 3031 3423 3503 3790 5179 5582 5996 6081 6125 6298 8515 
+10.1 Apollo_program.txt 1 4501 
+personal Apollo_program.txt 1 4885 
+50,000 Apollo_program.txt 1 7056 
+exhibits Apollo_program.txt 1 7704 
+crew Apollo_program.txt 32 240 321 3099 3158 3204 3257 3698 4607 4621 4660 4664 4918 5214 5259 5291 5359 5371 5420 5431 5464 5535 5548 5914 5991 6177 6262 7102 7389 7866 8000 9032 9604 
+destroyed Apollo_program.txt 1 303 
+production Apollo_program.txt 3 7202 7207 9517 
+400 Apollo_program.txt 1 4146 
+hidden Apollo_program.txt 1 10305 
+eugene Apollo_program.txt 3 7046 8048 9706 
+then Apollo_program.txt 5 2026 2166 2202 4906 5929 
+them Apollo_program.txt 7 3232 3627 4069 4713 4727 4967 7549 
+affected Apollo_program.txt 1 9712 
+combination Apollo_program.txt 2 4039 7418 
+prevented Apollo_program.txt 1 291 
+publicizing Apollo_program.txt 1 2619 
+they Apollo_program.txt 14 1380 1722 1762 1767 5824 6930 7131 7304 7316 7328 7978 8212 8244 10121 
+roosa Apollo_program.txt 1 7824 
+eisenhower Apollo_program.txt 2 511 811 
+saddened Apollo_program.txt 1 9941 
+rhetoric Apollo_program.txt 1 842 
+oxygen Apollo_program.txt 8 294 3077 3390 4114 5961 6124 7379 7451 
+reasonably Apollo_program.txt 1 8602 
+debus Apollo_program.txt 3 1934 1948 2236 
+l Apollo_program.txt 4 639 710 5444 7242 
+rocks Apollo_program.txt 7 441 8137 8165 8192 8202 8358 8381 
+good Apollo_program.txt 3 1419 2839 6728 
+reasonable Apollo_program.txt 1 3053 
+each Apollo_program.txt 6 3672 5019 5278 6291 6313 9195 
+went Apollo_program.txt 2 5122 9695 
+375 Apollo_program.txt 1 8703 
+prohibit Apollo_program.txt 1 3061 
+financial Apollo_program.txt 2 880 9557 
+telescope Apollo_program.txt 2 8942 9028 
+series Apollo_program.txt 9 650 2504 3816 3822 4040 4424 4468 7781 8861 
+250,000 Apollo_program.txt 1 2101 
+worded Apollo_program.txt 1 5743 
+navy Apollo_program.txt 2 9541 9592 
+laboratory Apollo_program.txt 4 7632 8172 8186 8887 
+precisely Apollo_program.txt 1 8499 
+driving Apollo_program.txt 2 7598 9497 
+god Apollo_program.txt 1 565 
+lift-class Apollo_program.txt 1 1519 
+cameras Apollo_program.txt 1 7539 
+crucial Apollo_program.txt 1 9521 
+laid Apollo_program.txt 2 460 659 
+precision Apollo_program.txt 1 7246 
+got Apollo_program.txt 1 2270 
+newly Apollo_program.txt 2 890 2646 
+engineer Apollo_program.txt 1 5239 
+foundation Apollo_program.txt 3 462 8710 9102 
+splashed Apollo_program.txt 1 5061 
+arizona Apollo_program.txt 1 2996 
+turning Apollo_program.txt 1 2574 
+associate Apollo_program.txt 4 2169 2194 2203 2513 
+canaveral Apollo_program.txt 4 1630 1854 1917 1979 
+little Apollo_program.txt 6 864 3780 3918 3924 3963 3970 
+fred Apollo_program.txt 1 7362 
+7,120 Apollo_program.txt 1 4338 
+formation Apollo_program.txt 1 7372 
+encountering Apollo_program.txt 1 5766 
+sensors Apollo_program.txt 2 5168 7537 
+wanted Apollo_program.txt 1 6588 
+3.91 Apollo_program.txt 2 3348 3436 
+restarting Apollo_program.txt 1 6702 
+created Apollo_program.txt 1 8454 
+days Apollo_program.txt 7 1123 3743 7375 7558 7966 8019 8095 
+1970s Apollo_program.txt 1 9717 
+corrections Apollo_program.txt 1 5725 
+onto Apollo_program.txt 2 5981 7198 
+already Apollo_program.txt 2 1865 6142 
+contractors Apollo_program.txt 1 2889 
+subcontractor Apollo_program.txt 1 7429 
+astronautics Apollo_program.txt 1 965 
+another Apollo_program.txt 5 409 1388 6649 6859 7402 
+feldspar Apollo_program.txt 1 8301 
+thick Apollo_program.txt 1 8385 
+payload Apollo_program.txt 5 3880 4278 4518 5151 7507 
+170 Apollo_program.txt 2 7983 8742 
+mercury Apollo_program.txt 11 58 521 524 1673 3930 4025 4636 4773 4790 5352 7818 
+rated Apollo_program.txt 2 1417 4541 
+service Apollo_program.txt 16 305 1360 3122 3361 3370 3418 3511 4875 4880 4943 4970 5103 6490 6644 6713 7384 
+top Apollo_program.txt 1 3865 
+historian Apollo_program.txt 1 2937 
+approximately Apollo_program.txt 4 1067 3354 3446 3712 
+needed Apollo_program.txt 2 1889 5135 
+observations Apollo_program.txt 1 9083 
+john Apollo_program.txt 7 72 750 2357 2462 7043 7707 8004 
+40th Apollo_program.txt 1 9890 
+genesis Apollo_program.txt 3 8140 8276 9633 
+dramatized Apollo_program.txt 1 10247 
+serve Apollo_program.txt 2 727 1774 
+took Apollo_program.txt 5 2681 2736 7051 8644 9856 
+somewhat Apollo_program.txt 2 2522 8550 
+kennedys Apollo_program.txt 12 110 841 889 1262 1290 1961 2718 2903 2919 2978 3141 9779 
+distance Apollo_program.txt 1 7253 
+quasi-political Apollo_program.txt 1 9870 
+target Apollo_program.txt 1 2979 
+enabled Apollo_program.txt 2 3898 6439 
+second Apollo_program.txt 9 3486 4133 4346 4435 4557 5074 5648 6590 6671 
+nations Apollo_program.txt 2 1563 9072 
+project Apollo_program.txt 14 9 57 372 520 1224 1672 2129 3763 4073 4272 4772 8726 9052 9877 
+matter Apollo_program.txt 1 2867 
+fly-by Apollo_program.txt 1 8976 
+historical Apollo_program.txt 1 10179 
+k Apollo_program.txt 1 4629 
+acquisition Apollo_program.txt 1 1902 
+manned Apollo_program.txt 47 213 222 364 394 405 426 494 555 885 1098 1128 1135 1321 1529 1564 1587 1897 2180 2197 2221 2339 2634 2654 2729 4081 4258 4306 4669 5196 5200 5600 5701 5779 5788 5822 6162 6236 6288 6344 6357 6403 6602 6757 6762 7208 8847 9198 
+objects Apollo_program.txt 1 9132 
+ran Apollo_program.txt 1 205 
+ram Apollo_program.txt 1 6494 
+seen Apollo_program.txt 1 8378 
+1970 Apollo_program.txt 3 7366 7448 8714 
+contents Apollo_program.txt 1 501 
+relatively Apollo_program.txt 1 3945 
+slayton Apollo_program.txt 4 4631 4651 5349 5411 
+1968 Apollo_program.txt 11 216 4021 4707 6080 6528 6609 6786 6819 6922 9580 9637 
+1969 Apollo_program.txt 16 39 134 203 1451 2343 4456 4905 6890 7036 7086 7097 7130 7233 7617 8606 8699 
+7,610,000 Apollo_program.txt 1 4552 
+1964 Apollo_program.txt 5 2333 3039 3548 4003 4215 
+1965 Apollo_program.txt 4 2054 4217 4267 5698 
+1966 Apollo_program.txt 9 4006 4269 5039 5374 5427 5469 5611 5667 8659 
+1967 Apollo_program.txt 11 231 5524 5629 5670 5782 5905 6221 6269 6471 7266 7525 
+1960 Apollo_program.txt 7 515 601 634 749 781 1503 2481 
+1961 Apollo_program.txt 14 109 207 926 1028 1121 1396 1400 1613 1907 2420 2423 2483 2559 2627 
+1962 Apollo_program.txt 12 1660 1667 1959 2630 2704 2799 2935 2952 3891 4252 4645 8526 
+1963 Apollo_program.txt 7 1297 1817 1972 2187 3982 4297 9507 
+recommended Apollo_program.txt 2 2598 6086 
+hatch Apollo_program.txt 3 5928 5998 6151 
+blue Apollo_program.txt 2 9683 9736 
+400,000 Apollo_program.txt 1 1487 
+complexes Apollo_program.txt 1 1863 
+letter Apollo_program.txt 2 5734 5744 
+entry Apollo_program.txt 1 3327 
+the Apollo_program.txt 772 3 12 22 32 36 55 61 83 90 93 96 115 138 149 171 173 186 193 211 226 238 246 270 278 286 300 304 313 320 328 369 403 413 419 424 432 449 452 458 461 504 510 523 558 563 570 584 593 610 615 619 642 671 708 735 764 768 778 788 801 807 828 852 855 866 870 878 920 932 951 958 995 1006 1018 1047 1060 1105 1111 1125 1134 1143 1183 1200 1212 1219 1238 1259 1316 1324 1346 1363 1385 1410 1445 1448 1453 1461 1483 1491 1506 1517 1543 1548 1562 1586 1608 1648 1677 1692 1713 1728 1736 1743 1750 1757 1779 1811 1822 1853 1859 1869 1876 1891 1896 1921 1927 1951 1975 1984 2010 2055 2082 2150 2177 2217 2220 2232 2263 2288 2316 2337 2360 2373 2380 2428 2469 2477 2487 2498 2510 2527 2540 2569 2585 2593 2620 2623 2633 2645 2651 2665 2679 2734 2741 2747 2772 2794 2806 2813 2817 2826 2843 2861 2866 2896 2907 2911 2925 2930 2953 2960 2972 2975 2989 2997 3001 3005 3015 3021 3034 3043 3064 3081 3086 3098 3132 3157 3161 3169 3173 3185 3193 3197 3203 3210 3227 3234 3250 3255 3278 3282 3292 3296 3338 3365 3402 3406 3417 3425 3440 3477 3481 3485 3489 3497 3504 3510 3518 3521 3530 3544 3554 3573 3579 3586 3605 3607 3623 3634 3642 3677 3683 3693 3697 3707 3744 3751 3762 3791 3814 3818 3824 3834 3842 3847 3854 3861 3888 3899 3904 3907 3912 3961 3969 3996 4079 4086 4106 4131 4165 4188 4218 4225 4235 4238 4243 4262 4274 4284 4291 4300 4317 4325 4328 4333 4342 4345 4349 4352 4378 4383 4387 4390 4411 4431 4434 4438 4475 4480 4495 4528 4533 4556 4565 4573 4587 4624 4634 4667 4691 4703 4717 4721 4736 4743 4761 4765 4771 4798 4805 4829 4841 4844 4852 4859 4873 4891 4894 4908 4917 4921 4939 4950 4958 4968 4984 5015 5041 5044 5070 5073 5096 5102 5107 5129 5137 5146 5153 5158 5188 5211 5224 5232 5240 5248 5262 5288 5306 5323 5338 5350 5362 5368 5398 5418 5429 5462 5470 5476 5479 5485 5505 5513 5532 5544 5552 5555 5567 5587 5598 5614 5619 5639 5644 5658 5671 5686 5688 5753 5769 5786 5820 5837 5841 5861 5884 5895 5900 5913 5924 5927 5933 5940 5951 5957 5968 5971 5977 5982 5990 5992 5997 6016 6021 6025 6041 6074 6088 6094 6097 6103 6110 6138 6147 6161 6167 6195 6207 6239 6248 6255 6261 6287 6299 6325 6339 6350 6355 6381 6386 6401 6405 6430 6433 6437 6446 6455 6460 6472 6475 6489 6497 6502 6511 6530 6541 6557 6562 6583 6596 6625 6643 6652 6670 6682 6689 6692 6712 6719 6727 6739 6745 6772 6788 6805 6814 6837 6844 6855 6868 6877 6881 6885 6893 6899 6903 6917 6934 6939 6963 6978 6989 7009 7022 7024 7052 7061 7067 7073 7077 7087 7116 7120 7141 7150 7154 7174 7199 7219 7228 7255 7268 7272 7287 7302 7319 7332 7335 7340 7369 7383 7388 7392 7410 7422 7425 7445 7450 7461 7492 7495 7500 7506 7510 7518 7524 7528 7545 7553 7564 7570 7578 7581 7588 7599 7610 7613 7629 7635 7638 7665 7677 7680 7686 7697 7706 7740 7747 7756 7765 7776 7779 7797 7830 7844 7860 7868 7877 7886 7914 7930 7970 7992 7999 8021 8034 8037 8042 8071 8080 8089 8117 8131 8135 8139 8154 8169 8178 8183 8191 8195 8222 8227 8239 8253 8256 8270 8275 8287 8299 8311 8332 8341 8345 8357 8384 8406 8423 8442 8446 8451 8463 8472 8510 8531 8563 8584 8592 8595 8613 8617 8620 8629 8646 8676 8680 8707 8733 8756 8807 8813 8846 8858 8873 8876 8894 8900 8928 8933 8940 8949 8953 8959 8978 8983 8993 9003 9014 9034 9041 9045 9049 9058 9065 9074 9092 9099 9106 9125 9134 9148 9151 9161 9178 9182 9185 9190 9204 9210 9213 9223 9226 9230 9243 9249 9256 9274 9287 9291 9314 9320 9323 9328 9333 9348 9354 9358 9370 9376 9402 9406 9431 9447 9453 9475 9482 9490 9496 9514 9520 9524 9529 9540 9554 9591 9594 9603 9609 9615 9618 9626 9630 9643 9646 9656 9660 9668 9671 9674 9678 9682 9698 9704 9708 9716 9723 9725 9730 9735 9752 9765 9772 9784 9788 9804 9807 9813 9815 9818 9825 9827 9830 9849 9853 9858 9901 9905 9919 9923 9929 9958 9969 9985 10017 10028 10045 10063 10069 10085 10093 10146 10166 10181 10188 10200 10229 10233 10239 10256 10259 10262 10287 
+csms Apollo_program.txt 5 314 3194 4100 4207 5030 
+maria Apollo_program.txt 1 8229 
+dummy Apollo_program.txt 2 4182 5680 
+lose Apollo_program.txt 1 2677 
+m Apollo_program.txt 7 3344 3349 3431 3437 4502 4510 4930 
+stating Apollo_program.txt 1 2864 
+reputation Apollo_program.txt 1 2282 
+enterprise Apollo_program.txt 1 1163 
+responded Apollo_program.txt 1 1066 
+came Apollo_program.txt 2 1300 8622 
+incorporate Apollo_program.txt 1 3578 
+chariot Apollo_program.txt 1 608 
+mattingly Apollo_program.txt 1 8008 
+reductions Apollo_program.txt 1 2472 
+visitor Apollo_program.txt 1 2992 
+reorganize Apollo_program.txt 1 2176 
+probe Apollo_program.txt 2 7260 9144 
+attempts Apollo_program.txt 1 5987 
+chartered Apollo_program.txt 1 8471 
+gauge Apollo_program.txt 1 730 
+eventual Apollo_program.txt 1 554 
+stepping Apollo_program.txt 1 7197 
+7.5 Apollo_program.txt 1 3430 
+earth Apollo_program.txt 36 91 159 324 398 430 445 534 1189 1220 1678 2417 2451 3273 3648 4103 4307 4402 4799 4923 6346 6374 6519 6988 7001 7173 7331 7401 8205 8264 8380 8464 8870 9616 9622 9705 10257 
+lessons Apollo_program.txt 1 3587 
+orleans Apollo_program.txt 1 7729 
+proposed Apollo_program.txt 5 100 620 1133 7884 8864 
+delays Apollo_program.txt 3 5550 5585 5653 
+ocb Apollo_program.txt 1 2064 
+workplayed Apollo_program.txt 1 2614 
+rice Apollo_program.txt 4 1602 1656 1700 8529 
+grissom Apollo_program.txt 5 4613 4746 4900 5376 5804 
+predecessor Apollo_program.txt 1 1441 
+do Apollo_program.txt 1 1756 
+mixture Apollo_program.txt 1 6120 
+consumables Apollo_program.txt 1 3688 
+television Apollo_program.txt 6 6975 7170 7292 10019 10071 10135 
+cracks Apollo_program.txt 1 9970 
+despite Apollo_program.txt 4 225 840 6549 9846 
+report Apollo_program.txt 1 8795 
+saturn Apollo_program.txt 68 339 1520 1870 2773 3490 3783 3785 3788 3815 3900 3913 4007 4012 4015 4044 4048 4053 4084 4163 4168 4263 4302 4310 4315 4318 4326 4388 4391 4413 4429 4439 4442 4447 4450 4457 4473 4478 4482 5042 5114 5138 5286 5508 5645 5661 6174 6212 6330 6340 6351 6366 6449 6461 6531 6653 6746 6829 6834 6856 7466 7511 7625 7648 7700 8695 8760 8922 9020 
+dr Apollo_program.txt 4 1938 2138 4823 8059 
+14 Apollo_program.txt 2 7812 9325 
+sailing Apollo_program.txt 1 2717 
+fields Apollo_program.txt 1 769 
+method Apollo_program.txt 2 2999 3035 
+twice Apollo_program.txt 3 3529 4714 5396 
+erupt Apollo_program.txt 1 5980 
+three-year Apollo_program.txt 1 9913 
+reference Apollo_program.txt 1 8121 
+testing Apollo_program.txt 3 3569 3953 6385 
+1960s Apollo_program.txt 2 97 2976 
+recruit Apollo_program.txt 1 2274 
+observed Apollo_program.txt 1 9145 
+csm/lm Apollo_program.txt 2 6358 6376 
+pads Apollo_program.txt 2 2036 2041 
+decided Apollo_program.txt 5 1335 4964 5808 6595 7620 
+result Apollo_program.txt 1 8430 
+best Apollo_program.txt 1 1780 
+subject Apollo_program.txt 1 2870 
+pete Apollo_program.txt 1 7237 
+said Apollo_program.txt 1 579 
+capacity Apollo_program.txt 2 4279 7508 
+propulsion Apollo_program.txt 7 315 680 3090 3125 3183 3371 3512 
+wikipedia Apollo_program.txt 1 2 
+artificial Apollo_program.txt 1 9131 
+reassigned Apollo_program.txt 3 5542 6059 7809 
+r Apollo_program.txt 1 1552 
+cooperation Apollo_program.txt 1 9069 
+drawn Apollo_program.txt 1 3777 
+approach Apollo_program.txt 2 2479 2624 
+363 Apollo_program.txt 1 4507 
+reiterate Apollo_program.txt 1 1702 
+never Apollo_program.txt 2 4160 8377 
+1,142.9 Apollo_program.txt 1 5083 
+382 Apollo_program.txt 2 437 8159 
+cut Apollo_program.txt 1 6555 
+wear Apollo_program.txt 2 5243 6182 
+news Apollo_program.txt 2 996 10190 
+times Apollo_program.txt 1 9277 
+faced Apollo_program.txt 1 2378 
+received Apollo_program.txt 1 2073 
+essentially Apollo_program.txt 1 6717 
+accident Apollo_program.txt 2 6006 6022 
+reported Apollo_program.txt 2 2238 8635 
+country Apollo_program.txt 1 1085 
+adapter Apollo_program.txt 1 8880 
+7,500,000 Apollo_program.txt 1 4544 
+dryden Apollo_program.txt 2 640 1423 
+tortoises Apollo_program.txt 1 6909 
+109 Apollo_program.txt 1 8825 
+planned Apollo_program.txt 13 2043 4095 4151 4254 4986 5207 5521 5620 5849 6811 7485 7749 7773 
+contribution Apollo_program.txt 1 4886 
+collecting Apollo_program.txt 1 7158 
+prepared Apollo_program.txt 1 8608 
+telecommunications Apollo_program.txt 1 498 
+fra Apollo_program.txt 2 7370 7805 
+proceeded Apollo_program.txt 2 3909 4990 
+engines Apollo_program.txt 7 3318 4122 4142 4159 6543 6677 6684 
+union Apollo_program.txt 5 377 766 953 6905 9786 
+micrometeoroid Apollo_program.txt 1 8372 
+three Apollo_program.txt 16 155 273 363 540 697 736 2040 3262 4220 4711 4820 6250 7557 7800 8018 8094 
+been Apollo_program.txt 11 784 1560 2447 2969 5493 6536 7772 8336 9451 9936 10246 
+quickly Apollo_program.txt 2 1342 5955 
+much Apollo_program.txt 2 2675 9534 
+ferroan Apollo_program.txt 1 8146 
+duties Apollo_program.txt 1 5230 
+life Apollo_program.txt 6 317 2395 3094 7017 7396 9587 
+lift Apollo_program.txt 4 3166 3517 4090 9366 
+child Apollo_program.txt 1 8582 
+catch Apollo_program.txt 3 986 1063 6442 
+aviation Apollo_program.txt 4 1407 3475 5565 5632 
+worked Apollo_program.txt 2 2167 10078 
+propellants Apollo_program.txt 1 3377 
+exception Apollo_program.txt 1 9224 
+tank Apollo_program.txt 6 295 3078 7380 7423 7433 7452 
+publicly Apollo_program.txt 1 6944 
+launcher Apollo_program.txt 2 2023 3876 
+launches Apollo_program.txt 5 4018 4204 4452 5007 7650 
+air Apollo_program.txt 5 1631 2247 2266 2349 9543 
+lesser Apollo_program.txt 1 4940 
+near Apollo_program.txt 2 7958 8415 
+melted Apollo_program.txt 1 8414 
+reconnaissance Apollo_program.txt 2 9094 9169 
+voice Apollo_program.txt 1 2525 
+employees Apollo_program.txt 1 1287 
+launched Apollo_program.txt 12 4173 4196 5032 5047 5118 5282 6521 6780 6826 7357 7938 9010 
+twenty-four Apollo_program.txt 1 4694 
+seven Apollo_program.txt 1 4637 
+deferring Apollo_program.txt 1 6880 
+is Apollo_program.txt 14 1086 1151 1205 1789 2106 2985 8273 8294 8305 8376 9293 9330 9389 9734 
+it Apollo_program.txt 49 217 389 1108 1116 1150 1343 1401 1428 1538 1614 1818 1845 2335 2389 2712 2965 3276 3664 4497 4730 5140 5774 6306 6495 6576 6700 6797 6839 6927 7295 7322 7618 7643 7793 8517 8643 8652 8660 8991 8998 9022 9361 9379 9415 9422 9793 9966 9975 10099 
+expenses Apollo_program.txt 1 8776 
+ii Apollo_program.txt 13 3572 3782 3920 3926 3972 5265 5290 6076 6105 6140 6187 6197 7583 
+exterior Apollo_program.txt 1 3302 
+in Apollo_program.txt 196 64 101 145 148 175 178 215 297 366 380 392 485 513 600 632 747 767 937 946 991 1104 1138 1174 1178 1225 1237 1269 1337 1394 1429 1470 1478 1512 1595 1636 1647 1665 1687 1705 1752 1815 1825 1834 1857 1905 1957 1980 2008 2052 2088 2116 2132 2157 2262 2341 2421 2431 2450 2457 2526 2537 2557 2568 2576 2599 2618 2625 2840 2853 2902 2933 2951 2988 2994 3014 3155 3247 3350 3438 3589 3823 3938 4072 4101 4117 4214 4250 4295 4455 4503 4643 4690 4758 4836 4851 4904 4961 5038 5069 5095 5269 5372 5467 5654 5683 5696 5730 5781 5836 5919 5939 5950 5956 6032 6078 6102 6267 6283 6388 6432 6518 6567 6669 6817 6836 6850 6888 6971 7000 7034 7070 7095 7231 7264 7364 7424 7523 7616 7644 7662 7721 7727 7737 7752 7814 7870 7972 7991 8041 8045 8173 8189 8214 8252 8583 8604 8641 8658 8682 8698 8719 8737 8746 8811 8827 8832 8875 8916 9007 9011 9047 9073 9088 9096 9136 9164 9253 9268 9319 9338 9457 9480 9629 9701 9715 9746 9776 9787 9821 9892 9957 9999 10008 10186 10204 10248 
+ic Apollo_program.txt 1 9505 
+ib Apollo_program.txt 18 1873 3786 4016 4049 4303 4311 4316 4319 4392 4414 5043 5115 5287 5509 6341 6352 6532 7649 
+id Apollo_program.txt 1 587 
+if Apollo_program.txt 5 836 1083 5869 9296 9421 
+damaged Apollo_program.txt 2 6666 7297 
+descent Apollo_program.txt 7 3335 3668 3678 3684 3869 6559 6584 
+things Apollo_program.txt 1 1759 
+make Apollo_program.txt 7 827 999 1340 7673 8990 9305 9308 
+format Apollo_program.txt 1 10001 
+undergarment Apollo_program.txt 1 5347 
+complex Apollo_program.txt 2 1988 6024 
+descend Apollo_program.txt 1 3614 
+several Apollo_program.txt 5 384 2034 3121 7647 8852 
+spaceless Apollo_program.txt 1 1270 
+satellite Apollo_program.txt 1 10057 
+lyndon Apollo_program.txt 3 1039 1828 7732 
+opportunity Apollo_program.txt 1 1061 
+kept Apollo_program.txt 1 2811 
+1979 Apollo_program.txt 2 8190 9048 
+programs Apollo_program.txt 4 1055 5366 9081 9531 
+1975 Apollo_program.txt 1 381 
+1974 Apollo_program.txt 1 9039 
+1973 Apollo_program.txt 4 1835 8642 8820 9012 
+1972 Apollo_program.txt 7 41 177 209 4710 7998 8047 9690 
+1971 Apollo_program.txt 4 7685 7816 7872 7942 
+ocean Apollo_program.txt 5 3274 5072 5098 7269 8354 
+materials Apollo_program.txt 2 6137 8413 
+greatest Apollo_program.txt 1 9454 
+simulated Apollo_program.txt 2 5941 6639 
+claims Apollo_program.txt 1 9863 
+alabama Apollo_program.txt 2 1514 7723 
+maxime Apollo_program.txt 1 724 
+plaque Apollo_program.txt 1 7927 
+left Apollo_program.txt 10 944 2753 3080 4697 6082 7792 7928 9188 9208 9228 
+spurred Apollo_program.txt 1 483 
+departed Apollo_program.txt 1 9033 
+just Apollo_program.txt 12 3067 3422 3467 7195 7873 7963 8016 8092 8098 9413 10109 10122 
+diameter Apollo_program.txt 3 3351 3439 4504 
+moonwalk Apollo_program.txt 3 9681 9909 9926 
+crewed Apollo_program.txt 3 6791 6820 7345 
+assigned Apollo_program.txt 2 4686 10160 
+judge Apollo_program.txt 1 732 
+identify Apollo_program.txt 1 5724 
+human Apollo_program.txt 7 16 386 466 2394 6937 9403 9458 
+anders Apollo_program.txt 1 6961 
+yet Apollo_program.txt 1 1278 
+dissenters Apollo_program.txt 1 2460 
+candidate Apollo_program.txt 1 2884 
+equipment Apollo_program.txt 4 682 3581 3692 5575 
+had Apollo_program.txt 32 783 798 1267 1276 1408 1559 1675 1680 2125 2369 2446 2674 2724 2739 2752 3000 3311 3804 5404 5578 5676 6278 6293 6840 6906 7262 7671 7771 9356 9932 9950 10012 
+spread Apollo_program.txt 1 5954 
+board Apollo_program.txt 4 6008 6027 7405 8995 
+easy Apollo_program.txt 1 1764 
+technological Apollo_program.txt 3 948 1458 9455 
+20-20 Apollo_program.txt 1 9951 
+has Apollo_program.txt 2 8325 9450 
+designate Apollo_program.txt 1 4061 
+advances Apollo_program.txt 1 484 
+disagreement Apollo_program.txt 1 2818 
+possible Apollo_program.txt 2 542 2405 
+possibly Apollo_program.txt 1 8496 
+cultural Apollo_program.txt 1 9568 
+charred Apollo_program.txt 1 5799 
+background Apollo_program.txt 1 502 
+clustered Apollo_program.txt 1 4119 
+cape Apollo_program.txt 2 1629 1978 
+highly Apollo_program.txt 1 8426 
+advanced Apollo_program.txt 1 4530 
+shoulder Apollo_program.txt 1 5395 
+33,900 Apollo_program.txt 1 4554 
+unnecessary Apollo_program.txt 1 1379 
+theyre Apollo_program.txt 1 9943 
+renamed Apollo_program.txt 1 1820 
+steps Apollo_program.txt 1 7075 
+officer Apollo_program.txt 1 2297 
+follows Apollo_program.txt 2 4992 8628 
+webb Apollo_program.txt 14 896 1422 1606 2113 2165 2188 2785 2802 2851 2874 2922 6046 6057 8502 
+incidental Apollo_program.txt 1 490 
+old Apollo_program.txt 1 8199 
+people Apollo_program.txt 1 1488 
+successfully Apollo_program.txt 5 6281 6296 6545 6998 7028 
+begin Apollo_program.txt 1 5309 
+50 Apollo_program.txt 2 8573 9173 
+donald Apollo_program.txt 1 4628 
+election Apollo_program.txt 1 779 
+escape Apollo_program.txt 1 3935 
+absent Apollo_program.txt 1 8262 
+orbiter Apollo_program.txt 2 9095 9170 
+10,200 Apollo_program.txt 1 4276 
+for Apollo_program.txt 104 253 260 334 349 463 661 903 976 1158 1165 1387 1390 1527 1868 1890 1895 1908 2142 2196 2283 2413 2486 2881 2900 2921 3131 3172 3398 3494 3533 3541 3567 3682 3746 3809 3916 3950 4032 4043 4047 4052 4304 4405 4527 4539 4589 4654 4760 4878 5136 5192 5195 5334 5361 5422 5465 5522 5554 5638 5643 5778 5850 6020 6144 6172 6233 6419 6426 6538 6703 7072 7185 7191 7368 7444 7470 7499 7555 7587 7597 7676 7859 8067 8076 8091 8221 8235 8555 8577 8656 8662 8777 8784 8803 8855 8964 8973 9057 9067 9114 9537 9915 10016 10164 
+companions Apollo_program.txt 1 7542 
+contributing Apollo_program.txt 1 447 
+everything Apollo_program.txt 2 9581 9593 
+asking Apollo_program.txt 1 1042 
+orbited Apollo_program.txt 1 1676 
+ics Apollo_program.txt 1 9519 
+spaceflights Apollo_program.txt 1 181 
+christmas Apollo_program.txt 3 6982 9635 9652 
+bold Apollo_program.txt 1 6869 
+soft-landed Apollo_program.txt 1 3178 
+12,250 Apollo_program.txt 1 3355 
+brecciated Apollo_program.txt 1 8427 
+dollars Apollo_program.txt 5 1472 8739 8748 8829 8834 
+army Apollo_program.txt 1 3835 
+costs Apollo_program.txt 7 2121 8465 8727 8736 8755 8774 8783 
+plus Apollo_program.txt 2 4777 8769 
+commit Apollo_program.txt 1 1196 
+permission Apollo_program.txt 1 2272 
+nixon Apollo_program.txt 2 7883 7911 
+considerations Apollo_program.txt 1 3656 
+managers Apollo_program.txt 1 2255 
+facility Apollo_program.txt 4 1694 1886 7726 8187 
+marshall Apollo_program.txt 6 1507 2225 2668 2829 3843 7718 
+43,900 Apollo_program.txt 1 4515 
+administer Apollo_program.txt 1 2163 
+donated Apollo_program.txt 1 1600 
+fuselage Apollo_program.txt 1 3650 
+earth-orbit Apollo_program.txt 1 378 
+existed Apollo_program.txt 1 6031 
+polaris Apollo_program.txt 1 9491 
+free-market Apollo_program.txt 1 9808 
+support Apollo_program.txt 10 318 528 975 1492 2642 2920 3095 5126 7018 8771 
+initial Apollo_program.txt 5 3441 3555 3708 3848 5672 
+nova Apollo_program.txt 2 3821 3905 
+joseph Apollo_program.txt 2 2657 6066 
+way Apollo_program.txt 2 1697 9066 
+crews Apollo_program.txt 4 546 4792 4862 4909 
+resulted Apollo_program.txt 1 10007 
+schweickart Apollo_program.txt 4 5446 5528 6825 7007 
+was Apollo_program.txt 147 11 67 112 290 402 507 560 582 612 691 753 874 989 1101 1109 1366 1402 1415 1574 1593 1615 1695 1813 1819 1903 1929 1949 2426 2588 2692 2713 2868 3029 3036 3047 3254 3277 3303 3340 3396 3415 3420 3427 3500 3514 3525 3538 3611 3651 3658 3754 3764 3831 3948 3973 4076 4093 4195 4200 4293 4320 4380 4484 4498 4549 4568 4627 4640 4652 4738 4828 5087 5152 5182 5327 5473 5510 5624 5633 5764 5848 5908 6023 6204 6307 6334 6343 6354 6454 6485 6510 6565 6577 6604 6630 6696 6787 6798 6810 6928 6941 7027 7090 7276 7296 7406 7441 7453 7459 7585 7619 7688 7794 7808 7832 7856 7905 7937 8001 8033 8064 8319 8347 8453 8483 8535 8634 8653 8673 8788 8904 8935 8982 8999 9023 9235 9487 9509 9532 9565 9597 9741 9989 10100 10108 10155 10168 
+happy Apollo_program.txt 1 9973 
+head Apollo_program.txt 1 5714 
+offer Apollo_program.txt 1 1058 
+attempted Apollo_program.txt 1 2448 
+deny Apollo_program.txt 1 9851 
+landing Apollo_program.txt 41 31 79 224 248 289 422 887 1100 1137 1208 1322 1442 2340 2366 3138 3143 3182 3275 4670 4732 4861 4988 6290 6393 6404 7118 7210 7247 7472 7486 7615 7667 7750 7890 8040 8083 8474 9118 9289 9861 9987 
+failure Apollo_program.txt 5 3019 3055 3070 3943 9560 
+heat Apollo_program.txt 3 3308 5110 6478 
+solar Apollo_program.txt 1 8257 
+houbolts Apollo_program.txt 1 2612 
+removed Apollo_program.txt 2 6049 7324 
+rocketdyne Apollo_program.txt 1 4120 
+492.1 Apollo_program.txt 1 5058 
+bypassing Apollo_program.txt 1 2497 
+builds Apollo_program.txt 1 741 
+3.7 Apollo_program.txt 1 2000 
+spaceflight Apollo_program.txt 6 17 387 467 495 1129 2730 
+bids Apollo_program.txt 1 1393 
+maximum Apollo_program.txt 1 1077 
+617.1 Apollo_program.txt 1 5080 
+prematurely Apollo_program.txt 1 6680 
+stages Apollo_program.txt 6 3671 4180 4184 4560 6674 9017 
+long-distance Apollo_program.txt 1 3399 
+proved Apollo_program.txt 2 8487 8599 
+insistence Apollo_program.txt 1 6042 
+evidence Apollo_program.txt 4 8360 9146 9847 10114 
+fixes Apollo_program.txt 1 6737 
+gemini Apollo_program.txt 15 2067 4074 4273 4657 4775 4788 4821 5249 5363 5434 5616 6951 7038 7234 7277 
+exist Apollo_program.txt 2 10095 10124 
+promised Apollo_program.txt 1 760 
+enhancements Apollo_program.txt 1 10211 
+door Apollo_program.txt 1 6158 
+ship Apollo_program.txt 1 3023 
+widows Apollo_program.txt 1 6265 
+trip Apollo_program.txt 1 3175 
+constructed Apollo_program.txt 1 9000 
+pledging Apollo_program.txt 1 825 
+no Apollo_program.txt 7 1221 2836 2838 3051 3539 5500 8326 
+agreeing Apollo_program.txt 1 1303 
+generally Apollo_program.txt 1 2427 
+reality Apollo_program.txt 1 10131 
+role Apollo_program.txt 3 1173 2617 3195 
+ambitious Apollo_program.txt 2 1291 8961 
+digital Apollo_program.txt 2 10163 10210 
+test Apollo_program.txt 19 244 371 2983 3984 3988 4170 4757 4925 5116 5255 5847 5881 5897 6514 6574 6592 6621 6756 9051 
+unwilling Apollo_program.txt 2 1800 2893 
+shrink Apollo_program.txt 1 7661 
+intend Apollo_program.txt 1 1806 
+felt Apollo_program.txt 3 604 797 9352 
+concurrent Apollo_program.txt 1 4270 
+intent Apollo_program.txt 1 6626 
+mercury-atlas Apollo_program.txt 1 4058 
+transporter Apollo_program.txt 1 2030 
+billion Apollo_program.txt 15 1467 1469 8219 8233 8482 8514 8537 8625 8640 8670 8743 8745 8823 8826 8831 
+reorganization Apollo_program.txt 2 2159 2216 
+longer Apollo_program.txt 3 1155 1435 2682 
+assume Apollo_program.txt 1 5228 
+modules Apollo_program.txt 7 306 3123 6477 8765 8768 9128 9486 
+time Apollo_program.txt 13 1152 1157 1164 1260 1670 4080 4974 6851 7611 7829 7869 8593 9432 
+restored Apollo_program.txt 1 10201 
+concept Apollo_program.txt 1 2362 
+managed Apollo_program.txt 1 2329 
+resources Apollo_program.txt 2 1465 9835 
+focus Apollo_program.txt 1 5818 
+three-stage Apollo_program.txt 1 4481 
+chair Apollo_program.txt 1 2756 
+devoted Apollo_program.txt 1 5494 
+certainly Apollo_program.txt 1 2964 
+zond Apollo_program.txt 1 6924 
+aspo Apollo_program.txt 2 6064 6863 
+crater Apollo_program.txt 3 2991 8418 9157 
+environment Apollo_program.txt 1 4240 
+finally Apollo_program.txt 2 2891 3048 
+compensate Apollo_program.txt 1 6688 
+veterans Apollo_program.txt 6 4776 4791 4822 5435 6952 7039 
+charles Apollo_program.txt 2 7236 8010 
+advantage Apollo_program.txt 2 3002 3584 
+choice Apollo_program.txt 2 2596 3187 
+stays Apollo_program.txt 2 3720 3739 
+emphasized Apollo_program.txt 1 2468 
+blast Apollo_program.txt 1 9156 
+jettison Apollo_program.txt 1 6581 
+roving Apollo_program.txt 2 7566 7921 
+fire-resistant Apollo_program.txt 1 6184 
+cunningham Apollo_program.txt 4 4936 5455 5540 6796 
+impressive Apollo_program.txt 1 1231 
+presented Apollo_program.txt 1 8729 
+did Apollo_program.txt 3 844 9961 10213 
+accidentally Apollo_program.txt 2 7299 9937 
+gus Apollo_program.txt 2 4612 4745 
+p Apollo_program.txt 1 7041 
+settle Apollo_program.txt 1 2895 
+team Apollo_program.txt 4 1947 3800 5717 10064 
+propellant Apollo_program.txt 2 3685 3701 
+upper Apollo_program.txt 3 4183 5131 8923 
+findings Apollo_program.txt 1 5729 
+depictions Apollo_program.txt 1 10219 
+cost Apollo_program.txt 8 2396 8478 8542 8615 8631 8700 8814 9558 
+photographed Apollo_program.txt 2 7321 9194 
+s-ivb Apollo_program.txt 6 4379 4574 5130 8921 8968 8979 
+stands Apollo_program.txt 1 390 
+economist Apollo_program.txt 1 9773 
+contracted Apollo_program.txt 1 7462 
+melt Apollo_program.txt 1 8412 
+sequential Apollo_program.txt 1 6231 
+international Apollo_program.txt 1 9078 
+filled Apollo_program.txt 1 4185 
+totalling Apollo_program.txt 1 7850 
+explosion Apollo_program.txt 2 296 3079 
+understanding Apollo_program.txt 1 450 
+water Apollo_program.txt 1 4187 
+groups Apollo_program.txt 1 4782 
+address Apollo_program.txt 1 103 
+alone Apollo_program.txt 2 391 2441 
+along Apollo_program.txt 4 2307 3205 7504 9488 
+change Apollo_program.txt 1 8509 
+sending Apollo_program.txt 3 393 6872 7168 
+golovin Apollo_program.txt 2 2556 2750 
+funded Apollo_program.txt 1 470 
+marble Apollo_program.txt 2 9684 9737 
+accomplished Apollo_program.txt 6 30 113 2970 5483 6282 6297 
+studies Apollo_program.txt 3 624 721 2538 
+dick Apollo_program.txt 1 9976 
+useful Apollo_program.txt 1 1371 
+extra Apollo_program.txt 2 1374 7457 
+merely Apollo_program.txt 1 9434 
+marked Apollo_program.txt 1 418 
+flexibility Apollo_program.txt 1 7594 
+operational Apollo_program.txt 1 6108 
+crisis Apollo_program.txt 1 2915 
+russell Apollo_program.txt 1 5443 
+prove Apollo_program.txt 1 3026 
+visit Apollo_program.txt 1 2824 
+live Apollo_program.txt 8 4178 4193 7082 9611 9649 9675 9907 10018 
+as-500 Apollo_program.txt 1 4467 
+opposed Apollo_program.txt 2 2740 7906 
+as-502 Apollo_program.txt 1 6613 
+films Apollo_program.txt 1 10227 
+msc Apollo_program.txt 5 1590 1649 1693 1812 3040 
+today Apollo_program.txt 2 8175 10096 
+high-speed Apollo_program.txt 1 6650 
+employed Apollo_program.txt 3 1486 3112 8688 
+omsf Apollo_program.txt 2 2183 2292 
+effort Apollo_program.txt 3 1078 1314 9897 
+fly Apollo_program.txt 7 936 1735 3640 4688 4835 5261 6750 
+originally Apollo_program.txt 1 8065 
+modified Apollo_program.txt 3 4570 5245 6183 
+believed Apollo_program.txt 2 6929 8306 
+making Apollo_program.txt 5 1076 2816 4655 6967 7431 
+ibs Apollo_program.txt 1 6835 
+as-50x Apollo_program.txt 1 4051 
+heart Apollo_program.txt 1 4649 
+dedicated Apollo_program.txt 1 69 
+december Apollo_program.txt 9 176 4706 4709 5468 5732 6818 8046 9578 9688 
+sps Apollo_program.txt 1 3065 
+lowry Apollo_program.txt 1 10162 
+sample Apollo_program.txt 2 7760 8185 
+abort Apollo_program.txt 2 6568 6641 
+performed Apollo_program.txt 3 715 6304 7115 
+allowed Apollo_program.txt 3 3718 3737 7339 
+hydrogen Apollo_program.txt 4 3387 4362 4563 5156 
+requirements Apollo_program.txt 1 9525 
+houbolt Apollo_program.txt 4 2358 2463 2484 2529 
+cernan Apollo_program.txt 5 7047 7050 8049 8084 9707 
+1 Apollo_program.txt 13 233 1502 2213 4606 4763 5546 5792 5798 5801 5814 6090 6257 6540 
+pure Apollo_program.txt 1 6123 
+asphyxiated Apollo_program.txt 1 5995 
+speaks Apollo_program.txt 1 1654 
+terrestrial Apollo_program.txt 1 8328 
+micrometeorite Apollo_program.txt 1 4248 
+designer Apollo_program.txt 1 10137 
+may Apollo_program.txt 9 107 1026 1119 1181 1723 2956 4002 7035 9380 
+spacesuits Apollo_program.txt 1 5921 
+5.2 Apollo_program.txt 1 8669 
+3.48 Apollo_program.txt 1 3343 
+applications Apollo_program.txt 5 352 8836 8842 8854 8930 
+produce Apollo_program.txt 2 4124 4367 
+mankind Apollo_program.txt 2 1233 7192 
+date Apollo_program.txt 2 2980 5623 
+such Apollo_program.txt 3 3068 8243 9294 
+data Apollo_program.txt 6 7762 9875 9930 9988 10058 10151 
+grow Apollo_program.txt 1 1578 
+man Apollo_program.txt 5 81 1016 1210 7187 8579 
+close-up Apollo_program.txt 1 9122 
+johnson Apollo_program.txt 10 474 1041 1043 1065 1535 1829 1964 7734 8521 10197 
+long-range Apollo_program.txt 1 1239 
+irwin Apollo_program.txt 3 7950 7953 8285 
+as-203 Apollo_program.txt 2 5117 5594 
+downrange Apollo_program.txt 2 5068 5094 
+so Apollo_program.txt 9 1247 1572 1638 1900 2135 2268 3968 4290 10088 
+sm Apollo_program.txt 1 3363 
+tall Apollo_program.txt 2 3345 4511 
+kurt Apollo_program.txt 1 1932 
+shield Apollo_program.txt 3 3309 5111 6479 
+duke Apollo_program.txt 2 8011 8014 
+pointed Apollo_program.txt 1 7300 
+years Apollo_program.txt 6 1733 8220 8234 9418 9427 10030 
+ended Apollo_program.txt 1 2860 
+experiments Apollo_program.txt 1 5497 
+statistical Apollo_program.txt 1 8120 
+cuts Apollo_program.txt 1 268 
+spinoff Apollo_program.txt 1 9470 
+still Apollo_program.txt 5 2804 2869 2957 9219 9423 
+supplemented Apollo_program.txt 1 8938 
+group Apollo_program.txt 2 654 1557 
+monitor Apollo_program.txt 2 734 2764 
+shepard Apollo_program.txt 2 7821 7834 
+how Apollo_program.txt 1 6309 
+as-207/208 Apollo_program.txt 1 5275 
+23,300 Apollo_program.txt 1 3449 
+platform Apollo_program.txt 1 2024 
+main Apollo_program.txt 20 626 743 1533 1840 3104 3239 3596 3922 4010 4313 4445 4599 5016 5795 6773 7220 7604 8108 8127 8839 
+into Apollo_program.txt 13 1046 1054 1282 1581 4212 4400 5123 6496 7301 8927 9401 9502 9868 
+texas Apollo_program.txt 2 1597 7739 
+happened Apollo_program.txt 1 3071 
+thereby Apollo_program.txt 1 9802 
+nation Apollo_program.txt 4 1167 1194 1477 9061 
+records Apollo_program.txt 1 10049 
+half Apollo_program.txt 1 4715 
+not Apollo_program.txt 17 830 845 1277 1416 1760 2534 2967 3637 5636 5783 6210 6847 6942 7430 8495 9944 10214 
+now Apollo_program.txt 3 1149 5516 9302 
+provision Apollo_program.txt 1 3540 
+killed Apollo_program.txt 2 237 4753 
+nor Apollo_program.txt 1 1079 
+down Apollo_program.txt 2 5062 6679 
+name Apollo_program.txt 3 588 594 5810 
+january Apollo_program.txt 9 2332 4005 5373 5409 5851 5903 6079 6526 8605 
+24.6 Apollo_program.txt 1 3428 
+47 Apollo_program.txt 1 1663 
+rock Apollo_program.txt 6 8130 8141 8149 8267 8277 8293 
+quarter Apollo_program.txt 1 9641 
+domain Apollo_program.txt 1 10280 
+fired Apollo_program.txt 1 6566 
+ed Apollo_program.txt 2 4608 4747 
+revised Apollo_program.txt 1 7586 
+directing Apollo_program.txt 1 1561 
+astrophysical Apollo_program.txt 1 265 
+year Apollo_program.txt 2 8560 8713 
+naming Apollo_program.txt 1 583 
+summary Apollo_program.txt 1 8106 
+haise Apollo_program.txt 1 7363 
+ultimately Apollo_program.txt 1 8598 
+accomplish Apollo_program.txt 1 1252 
+opened Apollo_program.txt 1 6001 
+space Apollo_program.txt 60 26 65 359 475 479 549 652 745 771 871 938 1051 1175 1223 1242 1329 1508 1536 1555 1565 1686 1843 2011 2181 2198 2226 2655 2669 2759 2830 2936 3133 3844 4033 4837 5496 5569 5702 5843 6135 6188 7682 7710 7719 7735 8533 8804 8808 8874 9008 9062 9075 9079 9769 9789 9982 10198 10234 10265 10291 
+irony Apollo_program.txt 1 9819 
+factory Apollo_program.txt 1 7426 
+increase Apollo_program.txt 2 902 7491 
+contained Apollo_program.txt 2 3680 3696 
+nominal Apollo_program.txt 1 4985 
+receiving Apollo_program.txt 1 8171 
+viable Apollo_program.txt 1 2493 
+inaction Apollo_program.txt 1 808 
+eagle Apollo_program.txt 1 9355 
+theory Apollo_program.txt 1 3028 
+lmp Apollo_program.txt 1 5305 
+million Apollo_program.txt 4 1997 2001 8704 8718 
+non-steady Apollo_program.txt 1 6662 
+recordings Apollo_program.txt 1 10194 
+yuri Apollo_program.txt 1 929 
+follow-on Apollo_program.txt 2 255 6410 
+remainder Apollo_program.txt 1 7446 
+high-gain Apollo_program.txt 1 3393 
+training Apollo_program.txt 2 4855 5401 
+milestones Apollo_program.txt 1 388 
+workmanship Apollo_program.txt 1 6036 
+programming Apollo_program.txt 1 6552 
+fagets Apollo_program.txt 3 1358 1382 3108 
+thing Apollo_program.txt 1 10103 
+stafford Apollo_program.txt 2 7042 7048 
+place Apollo_program.txt 2 5684 9857 
+massive Apollo_program.txt 2 879 10039 
+altitude Apollo_program.txt 3 5053 5085 5838 
+first Apollo_program.txt 52 33 42 62 212 247 404 831 833 835 838 933 1117 1126 1953 2338 4087 4108 4166 4179 4189 4330 4535 4668 4806 4830 4922 5045 5263 5369 5487 5599 5659 5787 5821 5912 6249 6356 6382 6402 6456 6512 6558 7074 7117 7288 7336 7614 7798 8056 8470 9059 9610 
+surviving Apollo_program.txt 1 10147 
+one Apollo_program.txt 24 529 597 966 1068 1265 1790 1797 1804 2032 3119 4029 4632 4734 7182 7188 7315 7458 8265 8674 8985 9227 9388 9640 9665 
+americans Apollo_program.txt 3 63 1434 5721 
+directly Apollo_program.txt 2 3859 9399 
+carry Apollo_program.txt 4 539 3261 3459 7563 
+message Apollo_program.txt 1 1141 
+ways Apollo_program.txt 1 1180 
+v-2 Apollo_program.txt 1 1944 
+george Apollo_program.txt 6 2139 5705 6072 6593 6865 7716 
+accommodate Apollo_program.txt 1 5318 
+size Apollo_program.txt 1 3958 
+rented Apollo_program.txt 1 1685 
+earths Apollo_program.txt 3 3643 4698 9759 
+given Apollo_program.txt 2 1575 4877 
+anyone Apollo_program.txt 1 9956 
+2 Apollo_program.txt 2 4432 7145 
+alfred Apollo_program.txt 1 7946 
+workability Apollo_program.txt 1 2621 
+white Apollo_program.txt 7 3997 4609 4748 4901 5380 5805 10207 
+participated Apollo_program.txt 1 4850 
+speaking Apollo_program.txt 1 785 
+18,100 Apollo_program.txt 1 4398 
+that Apollo_program.txt 57 236 361 580 759 791 983 1056 1072 1096 1107 1192 1336 1404 1541 1771 1787 1791 1849 2115 2152 2318 2386 2438 2473 2519 2531 2584 2865 2941 3059 3553 4919 5970 6029 6533 6776 6843 7223 8259 8340 8398 8450 8562 8672 9239 9295 9360 9383 9582 9820 9852 9942 10011 10065 10092 10115 10120 
+retrieved Apollo_program.txt 1 8278 
+memo Apollo_program.txt 2 1035 1094 
+braun Apollo_program.txt 7 1941 2230 2697 2850 2857 3797 3830 
+alan Apollo_program.txt 2 7241 7820 
+expanse Apollo_program.txt 1 9767 
+broadcast Apollo_program.txt 4 9874 10004 10020 10150 
+released Apollo_program.txt 1 9742 
+eliminated Apollo_program.txt 2 5596 7652 
+representing Apollo_program.txt 1 4887 
+than Apollo_program.txt 10 1271 3960 4028 4067 6501 6853 8552 8572 9006 9934 
+population Apollo_program.txt 2 9644 9669 
+11 Apollo_program.txt 17 117 200 2798 3890 4454 4663 4811 6785 7094 9232 9408 9680 9873 9882 9925 10154 10253 
+10 Apollo_program.txt 1 7033 
+13 Apollo_program.txt 4 288 3074 7356 10250 
+12 Apollo_program.txt 6 925 1659 4814 7250 8323 8766 
+15 Apollo_program.txt 11 3245 6921 7058 7465 7770 7879 7936 8145 8289 8759 9153 
+effective Apollo_program.txt 3 2211 2285 7758 
+17 Apollo_program.txt 8 416 1661 4848 7895 7934 8032 9693 9732 
+16 Apollo_program.txt 6 3602 7893 7989 8153 8763 9271 
+wiesner Apollo_program.txt 4 2722 2810 2833 2890 
+18 Apollo_program.txt 3 7694 7974 8069 
+require Apollo_program.txt 2 3873 3932 
+transferred Apollo_program.txt 1 3832 
+future Apollo_program.txt 3 1106 1187 9068 
+were Apollo_program.txt 47 346 658 700 1864 2042 2050 2071 2377 2408 2474 3330 3993 4172 4419 4463 4685 4752 4768 4785 4896 4937 5031 5206 5216 5293 5456 5529 5541 5560 5693 5994 6100 6115 6320 6328 6544 6685 6708 6997 7468 7543 9216 9299 9393 9425 9939 10183 
+miles Apollo_program.txt 4 5057 5065 5082 5091 
+hydrogen-fueled Apollo_program.txt 1 4138 
+and Apollo_program.txt 285 25 85 123 135 153 264 316 368 423 442 455 469 477 493 499 553 569 675 678 681 693 707 733 773 793 803 834 873 964 1053 1214 1243 1331 1353 1355 1376 1424 1439 1460 1489 1498 1604 1689 1721 1755 1777 1784 1803 1872 1880 1924 1977 1994 2015 2025 2048 2061 2068 2231 2327 2397 2401 2416 2482 2494 2507 2597 2628 2738 2777 2783 2800 2854 2877 2899 2916 3032 3093 3126 3136 3165 3230 3269 3310 3323 3352 3373 3378 3388 3433 3483 3523 3582 3625 3657 3669 3689 3702 3717 3736 3748 3761 3787 3798 3817 3838 3906 4004 4050 4062 4216 4245 4417 4430 4461 4474 4492 4505 4558 4564 4583 4614 4658 4678 4700 4708 4749 4774 4812 4838 4884 4902 4934 4978 5060 5086 5106 5149 5166 5169 5209 5222 5267 5301 5337 5364 5384 5403 5438 5452 5489 5498 5527 5536 5539 5557 5595 5652 5723 5747 5757 5806 5826 5835 5891 5906 5935 5953 5985 6037 6083 6107 6126 6129 6134 6190 6214 6305 6397 6424 6448 6547 6618 6672 6733 6795 6824 6891 6913 6926 6955 6958 6984 6995 7006 7045 7049 7109 7113 7143 7161 7239 7284 7311 7323 7361 7386 7427 7455 7497 7520 7538 7547 7573 7595 7668 7695 7731 7761 7825 7835 7840 7846 7894 7899 7909 7948 7952 7961 8009 8013 8054 8085 8096 8166 8283 8304 8331 8500 8538 8557 8581 8685 8687 8753 8772 8779 8782 8925 9009 9040 9077 9103 9129 9193 9246 9369 9429 9439 9484 9492 9528 9542 9556 9617 9623 9662 9700 9762 9791 9798 9801 9971 10021 10048 10067 10126 10159 10174 10192 10206 10212 10232 10268 10290 
+mated Apollo_program.txt 1 2077 
+remained Apollo_program.txt 2 144 252 
+turned Apollo_program.txt 1 7413 
+pre-built Apollo_program.txt 1 7633 
+say Apollo_program.txt 2 1712 2156 
+conspiracy Apollo_program.txt 1 9866 
+earth-orbiting Apollo_program.txt 1 6861 
+any Apollo_program.txt 1 1476 
+conversion Apollo_program.txt 2 1609 2691 
+cigarettes Apollo_program.txt 1 8556 
+veteran Apollo_program.txt 6 5448 7101 7235 7278 7349 7819 
+upgrading Apollo_program.txt 1 8781 
+shocked Apollo_program.txt 1 8589 
+phillips Apollo_program.txt 7 2278 2295 2304 2319 2328 5712 5726 
+take Apollo_program.txt 5 1154 1169 3223 3583 3626 
+interior Apollo_program.txt 1 5803 
+performance Apollo_program.txt 1 6729 
+ironically Apollo_program.txt 1 3066 
+multiple Apollo_program.txt 1 8435 
+206 Apollo_program.txt 1 8744 
+track Apollo_program.txt 1 6902 
+knew Apollo_program.txt 2 863 9585 
+rehearsal Apollo_program.txt 1 6396 
+25.4 Apollo_program.txt 1 8639 
+america Apollo_program.txt 1 984 
+cuban Apollo_program.txt 1 2913 
+1,500,000 Apollo_program.txt 1 4125 
+considered Apollo_program.txt 1 2409 
+later Apollo_program.txt 8 68 578 1070 2171 3215 3455 4529 4780 
+medically Apollo_program.txt 1 4641 
+ostensibly Apollo_program.txt 1 2762 
+subsequent Apollo_program.txt 3 164 465 7790 
+senior Apollo_program.txt 3 5220 5225 5382 
+duplication Apollo_program.txt 1 1312 
+sequence Apollo_program.txt 2 6240 6273 
+walking Apollo_program.txt 3 7152 7252 9300 
+show Apollo_program.txt 2 8359 8388 
+sites Apollo_program.txt 3 7487 7751 9290 
+discovered Apollo_program.txt 2 8320 9703 
+spacer Apollo_program.txt 1 5681 
+a7l Apollo_program.txt 1 6185 
+soviets Apollo_program.txt 2 802 1007 
+fifth Apollo_program.txt 1 9666 
+ground Apollo_program.txt 3 4756 7636 9004 
+slow Apollo_program.txt 1 3333 
+12.83 Apollo_program.txt 2 3346 3434 
+storms Apollo_program.txt 2 6051 7271 
+enough Apollo_program.txt 4 1103 5695 5966 7469 
+hierarchy Apollo_program.txt 1 2500 
+only Apollo_program.txt 10 527 1264 1370 2044 3279 4177 5637 6171 7788 8984 
+11.42 Apollo_program.txt 1 3341 
+black Apollo_program.txt 1 10205 
+equipped Apollo_program.txt 2 4099 9024 
+command/service Apollo_program.txt 6 150 3152 3236 3242 3857 8764 
+congressional Apollo_program.txt 1 8792 
+dispute Apollo_program.txt 1 2897 
+get Apollo_program.txt 1 3097 
+contracts Apollo_program.txt 1 699 
+assistant Apollo_program.txt 1 2553 
+wistful Apollo_program.txt 1 9282 
+samuel Apollo_program.txt 2 2276 5711 
+designated Apollo_program.txt 5 2046 4208 4420 4464 6193 
+h-1 Apollo_program.txt 2 4121 4343 
+soon Apollo_program.txt 5 1620 1830 5608 6932 8567 
+nearly Apollo_program.txt 1 2107 
+hedge Apollo_program.txt 1 2805 
+post-lunar Apollo_program.txt 1 8853 
+prime Apollo_program.txt 3 5463 5533 5634 
+ad-hoc Apollo_program.txt 1 2546 
+morning Apollo_program.txt 1 5901 
+scientist Apollo_program.txt 1 4832 
+roger Apollo_program.txt 2 4615 4750 
+scott Apollo_program.txt 6 5440 5526 6823 7945 7951 8282 
+where Apollo_program.txt 3 6575 9197 9414 
+vision Apollo_program.txt 1 8802 
+declared Apollo_program.txt 1 6744 
+burst Apollo_program.txt 2 1456 5975 
+attached Apollo_program.txt 1 8947 
+elected Apollo_program.txt 1 754 
+eliminating Apollo_program.txt 2 5772 6892 
+parking Apollo_program.txt 1 4595 
+surgery Apollo_program.txt 1 5407 
+managing Apollo_program.txt 1 1542 
+jumped Apollo_program.txt 1 2852 
+review Apollo_program.txt 5 2873 6007 6026 7404 8809 
+representatives Apollo_program.txt 1 647 
+3 Apollo_program.txt 3 3742 4057 7257 
+seamans Apollo_program.txt 6 1426 2174 2516 2542 2782 5761 
+between Apollo_program.txt 4 800 4001 4705 9523 
+reading Apollo_program.txt 1 10296 
+across Apollo_program.txt 1 609 
+oversized Apollo_program.txt 1 3526 
+august Apollo_program.txt 5 685 3981 5077 5523 7871 
+vertical Apollo_program.txt 1 2004 
+legitimacy Apollo_program.txt 1 10180 
+molten Apollo_program.txt 1 8350 
+faget Apollo_program.txt 1 725 
+jr Apollo_program.txt 1 7282 
+article Apollo_program.txt 22 627 744 1534 1841 3105 3240 3597 3923 4011 4314 4446 4600 5017 5796 6622 6774 7221 7605 8109 8128 8840 10277 
+come Apollo_program.txt 3 847 2639 9396 
+reaction Apollo_program.txt 2 3314 3704 
+missions Apollo_program.txt 40 166 281 365 395 543 1626 3139 3409 4034 4065 4689 4784 4912 5026 5205 5559 6327 6423 6759 7342 7473 7503 7515 7560 7590 7608 7693 7768 7782 7791 7802 7891 7916 7918 8113 9215 9240 9341 9906 10244 
+many Apollo_program.txt 10 486 794 971 1179 2435 6310 8365 8387 8590 9462 
+region Apollo_program.txt 1 8044 
+according Apollo_program.txt 2 7435 9770 
+contract Apollo_program.txt 3 1411 3478 3745 
+s Apollo_program.txt 7 75 1554 1942 4953 8711 9142 9206 
+duty Apollo_program.txt 1 2351 
+among Apollo_program.txt 1 2259 
+color Apollo_program.txt 1 7291 
+opined Apollo_program.txt 1 9278 
+period Apollo_program.txt 3 839 1227 8251 
+anorthosite Apollo_program.txt 2 8147 8292 
+60 Apollo_program.txt 2 8664 9511 
+cancel Apollo_program.txt 1 7692 
+boat Apollo_program.txt 1 7397 
+capable Apollo_program.txt 1 2092 
+lobbied Apollo_program.txt 1 8075 
+workshop Apollo_program.txt 4 8888 8912 8934 8981 
+engine Apollo_program.txt 13 3372 3513 3676 4344 4359 4588 5105 6492 6564 6646 6663 6695 6715 
+colors Apollo_program.txt 1 9265 
+gagarin Apollo_program.txt 1 930 
+offered Apollo_program.txt 1 2475 
+formed Apollo_program.txt 1 799 
+tiger Apollo_program.txt 1 5716 
+photos Apollo_program.txt 2 9321 9720 
+external Apollo_program.txt 1 10298 
+those Apollo_program.txt 2 9339 9844 
+pilot Apollo_program.txt 14 4611 4675 4680 5219 5221 5223 5226 5233 5299 5304 5379 5383 5390 7275 
+case Apollo_program.txt 1 3939 
+these Apollo_program.txt 14 179 275 335 3827 4222 4696 4868 5099 5584 7513 7559 8987 9260 9284 
+mount Apollo_program.txt 2 8943 9029 
+telemetry Apollo_program.txt 1 10025 
+single Apollo_program.txt 6 1222 3052 4357 6365 7348 8694 
+editorial Apollo_program.txt 1 9273 
+plug-type Apollo_program.txt 1 6150 
+13,900 Apollo_program.txt 1 5089 
+conferences Apollo_program.txt 1 655 
+eventually Apollo_program.txt 1 5618 
+cislunar Apollo_program.txt 1 3135 
+commander Apollo_program.txt 3 4671 5295 7351 
+canceled Apollo_program.txt 2 5474 7606 
+sudden Apollo_program.txt 1 1455 
+commanded Apollo_program.txt 4 4786 7813 8002 8050 
+technology Apollo_program.txt 4 489 818 2400 9465 
+helmet Apollo_program.txt 1 5326 
+missiles Apollo_program.txt 1 9553 
+verified Apollo_program.txt 1 4234 
+media Apollo_program.txt 1 1651 
+archive Apollo_program.txt 1 10191 
+speech Apollo_program.txt 2 1708 8527 
+reminder Apollo_program.txt 1 9346 
+events Apollo_program.txt 2 8403 8437 
+week Apollo_program.txt 3 1069 8549 8576 
+extended Apollo_program.txt 5 261 3407 3727 7589 7917 
+director Apollo_program.txt 9 1954 2324 2649 3840 4618 4952 5356 5710 7902 
+16,400 Apollo_program.txt 1 3734 
+fire-in-the-hole Apollo_program.txt 1 6573 
+totally Apollo_program.txt 1 3653 
+booster Apollo_program.txt 1 913 
+82,000 Apollo_program.txt 1 3886 
+gordon Apollo_program.txt 1 7281 
+modes Apollo_program.txt 1 2407 
+largely Apollo_program.txt 1 8261 
+rp-1 Apollo_program.txt 1 4111 
+roughly Apollo_program.txt 1 8741 
+severe Apollo_program.txt 2 5694 6698 
+without Apollo_program.txt 6 2942 3083 3287 3654 6392 10177 
+congressmen Apollo_program.txt 1 972 
+radiometric Apollo_program.txt 1 8209 
+very Apollo_program.txt 2 3810 8249 
+model Apollo_program.txt 1 3710 
+230,000 Apollo_program.txt 2 4579 10145 
+consisted Apollo_program.txt 2 355 3665 
+lc-34 Apollo_program.txt 5 1879 4175 5034 5859 6782 
+summer Apollo_program.txt 1 6838 
+lc-37 Apollo_program.txt 2 1881 4198 
+77 Apollo_program.txt 1 7981 
+being Apollo_program.txt 7 943 1866 2076 3177 8391 8432 8654 
+when Apollo_program.txt 6 119 888 3075 7298 8467 8522 
+ninth Apollo_program.txt 2 425 9657 
+wally Apollo_program.txt 1 5449 
+kc135 Apollo_program.txt 1 5399 
+harrison Apollo_program.txt 3 4824 6050 8060 
+speed Apollo_program.txt 1 6506 
+apollosoyuz Apollo_program.txt 1 370 
+announcement Apollo_program.txt 1 2792 
+death Apollo_program.txt 2 1833 1962 
+budgetary Apollo_program.txt 1 8797 
+grounded Apollo_program.txt 3 4642 5351 7442 
+rose Apollo_program.txt 1 5964 
+reentry Apollo_program.txt 3 6484 6505 6651 
+except Apollo_program.txt 1 4797 
+geological Apollo_program.txt 4 263 456 7759 8073 
+instrument Apollo_program.txt 2 3413 3464 
+bigger Apollo_program.txt 2 1885 3959 
+samples Apollo_program.txt 11 7160 8124 8179 8224 8236 8246 8334 8366 8408 8420 8444 
+weinberger Apollo_program.txt 1 7904 
+scheduled Apollo_program.txt 1 8066 
+around Apollo_program.txt 5 2640 3723 4702 6916 9547 
+lift-off Apollo_program.txt 1 9241 
+read Apollo_program.txt 4 5014 6771 7218 9624 
+early Apollo_program.txt 10 514 599 2410 2422 2629 3297 3502 3568 8250 9500 
+spacecraft-launch Apollo_program.txt 1 4037 
+preference Apollo_program.txt 1 1430 
+mealworms Apollo_program.txt 1 6910 
+vacuum Apollo_program.txt 2 2090 2109 
+using Apollo_program.txt 12 327 6166 6230 6338 6349 6363 6488 6642 8872 8965 9013 9510 
+accepted Apollo_program.txt 1 2148 
+plugs-out Apollo_program.txt 2 5846 5896 
+pounds Apollo_program.txt 9 436 3356 3448 3470 3714 3733 3885 4397 4524 
+yearly Apollo_program.txt 1 7656 
+discarded Apollo_program.txt 1 3421 
+chamber Apollo_program.txt 1 5839 
+superiority Apollo_program.txt 2 762 9805 
+fully Apollo_program.txt 2 3451 4489 
+twelve Apollo_program.txt 1 182 
+satisfactory Apollo_program.txt 1 6736 
+competition Apollo_program.txt 3 690 949 1389 
+imaged Apollo_program.txt 1 9087 
+magma Apollo_program.txt 1 8353 
+images Apollo_program.txt 2 9123 10182 
+ascent Apollo_program.txt 8 2415 2425 3670 3694 3700 3850 6563 8950 
+provided Apollo_program.txt 1 3089 
+recorded Apollo_program.txt 3 9990 9998 10053 
+moon Apollo_program.txt 51 37 84 172 187 194 301 421 886 1019 1099 1136 1213 1308 1446 1714 1744 1751 2365 2748 2961 3142 3522 3606 3624 4496 4704 4842 6878 6918 7229 7554 7931 8129 8136 8148 8196 8346 8424 8452 8473 8564 9179 9211 9377 9619 9661 9699 9854 9860 9986 10260 
+lunar Apollo_program.txt 96 128 139 146 223 262 329 440 556 1898 2458 2885 3087 3137 3170 3189 3211 3218 3228 3248 3267 3403 3408 3442 3461 3507 3545 3575 3593 3599 3608 3616 3728 3752 3862 3879 3895 4517 4531 4853 4980 4987 5302 5319 5339 5770 6289 6383 6389 6411 6416 6420 6428 6969 6979 7011 7062 7078 7203 7209 7259 7289 7471 7535 7565 7865 7889 7920 7986 8072 8082 8164 8170 8184 8228 8352 8443 8767 8848 8878 8954 9093 9108 9117 9127 9154 9162 9168 9191 9244 9254 9409 9483 10009 10070 10134 10149 
+measuring Apollo_program.txt 1 4242 
+squabble Apollo_program.txt 1 2862 
+assembly Apollo_program.txt 3 2005 5673 7725 
+scientific Apollo_program.txt 3 3412 3463 7164 
+power Apollo_program.txt 7 311 814 3085 3092 3128 3382 5868 
+relented Apollo_program.txt 1 2892 
+sixth Apollo_program.txt 1 420 
+a6l Apollo_program.txt 1 5314 
+leadership Apollo_program.txt 1 1092 
+francis Apollo_program.txt 1 6067 
+session Apollo_program.txt 1 1023 
+on Apollo_program.txt 132 35 82 106 114 131 137 158 160 170 185 192 198 531 684 694 851 919 923 962 1002 1017 1029 1118 1145 1188 1211 1397 1444 1500 1598 1610 1969 2020 2149 2184 2208 2242 2246 2315 2399 2509 2701 2746 2771 2796 2986 3072 3401 3405 3604 3622 3807 3864 4162 4261 4720 4793 4809 4840 4843 5009 5035 5048 5076 5176 5283 5408 5424 5458 5484 5819 5858 5899 6206 6218 6444 6468 6525 6606 6726 6767 6783 6827 6858 6901 6919 6981 7003 7031 7076 7083 7092 7127 7140 7153 7178 7214 7227 7248 7267 7314 7544 7552 7634 7712 7843 7924 7929 7939 7955 7969 7995 8020 8079 8088 8204 8263 8379 8725 8790 9002 9036 9133 9189 9209 9375 9577 9634 9687 9783 10023 10220 
+15,100 Apollo_program.txt 1 3715 
+package Apollo_program.txt 3 3414 3465 7533 
+island Apollo_program.txt 2 1920 7714 
+industry Apollo_program.txt 3 646 737 2244 
+discussed Apollo_program.txt 1 3030 
+reinforcing Apollo_program.txt 1 939 
+practical Apollo_program.txt 1 2495 
+greatly Apollo_program.txt 1 446 
+backup Apollo_program.txt 2 5430 5547 
+or Apollo_program.txt 14 1234 1249 3645 4410 4789 4882 5276 5519 6209 6237 8824 9650 10242 10284 
+moonshot Apollo_program.txt 1 10269 
+burning Apollo_program.txt 1 4360 
+inclusion Apollo_program.txt 1 8078 
+two-day Apollo_program.txt 1 2822 
+instruments Apollo_program.txt 1 7165 
+image Apollo_program.txt 2 5012 9739 
+skilled Apollo_program.txt 1 2254 
+involvement Apollo_program.txt 1 2909 
+determine Apollo_program.txt 1 7409 
+loc Apollo_program.txt 4 1913 1976 1985 2056 
+apollos Apollo_program.txt 2 7925 9533 
+legacy Apollo_program.txt 1 9436 
+area Apollo_program.txt 2 5984 7572 
+there Apollo_program.txt 7 3537 7785 9301 9405 9842 9945 10107 
+lor Apollo_program.txt 8 2361 2478 2490 2532 2643 2664 2778 2998 
+start Apollo_program.txt 1 6242 
+schirra Apollo_program.txt 5 4931 4977 5450 5537 6793 
+low Apollo_program.txt 7 397 429 4102 4401 6073 6594 6866 
+dislocated Apollo_program.txt 1 5393 
+lox Apollo_program.txt 2 4115 4365 
+complete Apollo_program.txt 1 9001 
+tranquility Apollo_program.txt 2 7123 9085 
+delayed Apollo_program.txt 2 5183 5923 
+14-day Apollo_program.txt 1 5486 
+grumman Apollo_program.txt 4 2928 3757 5763 6587 
+calcium-rich Apollo_program.txt 1 8300 
+technologies Apollo_program.txt 1 9446 
+with Apollo_program.txt 74 195 210 257 664 950 1315 1357 1437 2168 2308 2379 2910 3206 3305 3368 3376 3385 3543 3633 3673 3877 4112 4143 4156 4176 4186 4191 4271 4351 4364 4421 4465 4512 4575 4949 5040 5164 5329 5375 5414 5428 5441 5571 5613 5690 5740 5768 5860 5888 5910 6071 6153 6243 6580 6936 7014 7346 7352 7488 7505 7822 7943 8006 8023 8371 8462 9025 9070 9222 9489 10003 10055 10079 10141 
+october Apollo_program.txt 7 695 1395 2053 2912 4296 4962 6784 
+detailed Apollo_program.txt 1 3147 
+all-gemini Apollo_program.txt 1 7100 
+celestial Apollo_program.txt 1 410 
+certain Apollo_program.txt 1 10243 
+totaling Apollo_program.txt 1 7308 
+33,300 Apollo_program.txt 1 3713 
+moved Apollo_program.txt 2 1681 2027 
+an Apollo_program.txt 47 102 293 350 908 1280 1373 1883 1966 2059 2545 2589 2615 2981 3076 3272 3306 3374 3410 3660 3726 3980 4321 4422 4466 5052 5252 5946 6005 6224 6799 7099 7456 7623 8416 8488 8609 8730 8919 8966 8970 9026 9562 9638 9663 9896 9911 10110 
+cbs Apollo_program.txt 1 10189 
+as Apollo_program.txt 63 8 49 331 342 516 728 819 1372 1384 1418 1420 1718 2192 2291 2491 2523 2611 2808 2929 3011 3045 3291 3560 4071 4382 4426 4470 4991 5236 5274 5377 5381 5389 5461 5543 5607 5609 5650 5815 6052 6571 6623 7080 7350 7394 8206 8242 8428 8506 8543 8627 8638 8740 8821 8896 8969 9390 9392 9420 9472 9755 9810 9885 
+reliability Apollo_program.txt 2 9538 9548 
+at Apollo_program.txt 31 595 648 954 981 1258 1480 1655 1875 1918 2038 2097 2433 2464 2667 2698 3995 4816 5832 5840 6040 6499 7119 7124 7705 7867 8182 8528 8591 10073 10097 10196 
+follow-up Apollo_program.txt 1 518 
+watched Apollo_program.txt 1 9673 
+film Apollo_program.txt 1 10221 
+again Apollo_program.txt 2 7443 9368 
+4.6 Apollo_program.txt 1 8232 
+antenna Apollo_program.txt 1 3395 
+rocketry Apollo_program.txt 1 492 
+retiring Apollo_program.txt 1 6254 
+storage Apollo_program.txt 1 3681 
+5 Apollo_program.txt 4 4476 5178 6508 6925 
+you Apollo_program.txt 1 10127 
+forcing Apollo_program.txt 3 2780 2801 7387 
+lifeforms Apollo_program.txt 1 6915 
+requested Apollo_program.txt 1 897 
+congress Apollo_program.txt 6 105 1025 1144 1824 6014 8637 
+separate Apollo_program.txt 3 669 3667 5285 
+symbol Apollo_program.txt 2 821 9750 
+narrative Apollo_program.txt 1 9871 
+locs Apollo_program.txt 1 1952 
+important Apollo_program.txt 6 1236 2470 2590 2616 6112 8266 
+peak Apollo_program.txt 1 1482 
+planners Apollo_program.txt 2 2376 7744 
+included Apollo_program.txt 7 544 1646 1986 2058 4289 4815 8750 
+building Apollo_program.txt 2 2006 2063 
+websites Apollo_program.txt 1 10283 
+directors Apollo_program.txt 1 2218 
+mass Apollo_program.txt 1 7493 
+doubted Apollo_program.txt 1 1288 
+muellers Apollo_program.txt 1 2190 
+original Apollo_program.txt 7 1943 4635 7639 7748 9264 9920 10148 
+represent Apollo_program.txt 1 8245 
+all Apollo_program.txt 20 154 2901 4064 4305 4656 4783 4794 4857 4865 4911 6234 8356 8419 8751 9202 9351 9430 9940 9947 10098 
+descartes Apollo_program.txt 1 7993 
+caused Apollo_program.txt 4 5586 6435 6660 9331 
+mcdivitt Apollo_program.txt 3 5437 5525 6822 
+month Apollo_program.txt 1 1273 
+spacecraft Apollo_program.txt 36 52 406 585 622 629 663 719 1391 1530 1588 2016 2070 2084 2222 2385 2635 3007 3102 3107 3209 3284 3576 5148 5190 5279 5506 5553 5831 5862 5890 6061 6106 6170 7151 8877 8972 
+dish Apollo_program.txt 1 10263 
+follow Apollo_program.txt 1 54 
+decisions Apollo_program.txt 1 2770 
+jerome Apollo_program.txt 1 2721 
+tv Apollo_program.txt 4 5171 9978 9995 10005 
+pledged Apollo_program.txt 1 973 
+removal Apollo_program.txt 1 6130 
+to Apollo_program.txt 281 40 53 70 89 104 208 299 308 323 407 444 448 491 519 547 614 645 702 726 731 777 806 826 848 935 994 998 1005 1013 1036 1044 1062 1087 1142 1153 1168 1185 1198 1218 1232 1251 1302 1304 1310 1339 1368 1432 1577 1684 1701 1740 1742 1747 1749 1775 1795 1801 1807 1973 2031 2065 2075 2078 2100 2118 2126 2161 2175 2200 2239 2273 2302 2305 2348 2393 2512 2560 2565 2638 2641 2676 2683 2728 2731 2743 2755 2763 2767 2786 2793 2803 2828 2871 2883 2894 3008 3096 3196 3201 3217 3226 3233 3260 3266 3271 3285 3319 3332 3336 3458 3479 3516 3527 3613 3618 3629 3631 3639 3647 3722 3756 3778 3836 3852 3860 3893 3902 3910 4060 4096 4123 4255 4298 4335 4366 4486 4494 4522 4551 4578 4585 4647 4687 4729 4834 4890 4899 4907 4965 4976 5013 5125 5317 5405 5495 5512 5531 5566 5579 5591 5605 5626 5668 5677 5699 5707 5713 5718 5735 5755 5809 5866 5883 5979 5988 6092 6246 6259 6279 6285 6294 6413 6441 6480 6493 6631 6647 6687 6691 6710 6716 6738 6749 6770 6812 6875 6884 6987 7054 7172 7217 7318 7330 7343 7390 7398 7400 7408 7415 7436 7490 7530 7550 7591 7621 7627 7641 7660 7672 7690 7745 7754 7774 7796 7810 7907 7912 8168 8201 8230 8307 8338 8368 8383 8393 8434 8508 8512 8518 8570 8600 8623 8636 8702 8706 8819 8866 8869 8882 8892 8899 8913 8936 8948 8989 9111 9218 9248 9258 9365 9395 9397 9467 9621 9696 9719 9771 9823 9848 9898 10013 10037 10051 10081 10083 10104 10118 10129 10161 10170 10258 
+automated Apollo_program.txt 1 7163 
+program Apollo_program.txt 51 1 5 18 353 433 459 506 559 621 644 857 872 914 979 1052 1485 1545 1566 2290 2293 2323 2571 3293 3549 3793 4227 4626 4693 5549 5709 6055 6062 6165 6900 8039 8156 8272 8475 8565 8619 8735 8770 8837 8843 8931 9187 9449 9710 9828 10231 10241 
+presentation Apollo_program.txt 2 2847 5751 
+sound Apollo_program.txt 1 10216 
+pad-supplied Apollo_program.txt 1 5865 
+woman Apollo_program.txt 1 8580 
+appointment Apollo_program.txt 1 2191 
+returned Apollo_program.txt 12 322 434 2347 4728 7176 7329 8125 8142 8150 8157 8407 8421 
+returning Apollo_program.txt 3 86 1215 6985 
+far Apollo_program.txt 2 1102 2714 
+documentaries Apollo_program.txt 1 10223 
+difference Apollo_program.txt 1 9522 
+condition Apollo_program.txt 2 2151 2317 
+extended-stay Apollo_program.txt 1 6427 
+worden Apollo_program.txt 1 7947 
+ceaseless Apollo_program.txt 1 2613 
+list Apollo_program.txt 6 4601 5023 6406 7481 7526 8110 
+manager Apollo_program.txt 4 574 6056 6065 6864 
+large Apollo_program.txt 4 912 3811 3868 8459 
+small Apollo_program.txt 3 3946 7183 8885 
+titled Apollo_program.txt 2 5217 5294 
+portable Apollo_program.txt 1 7016 
+ten Apollo_program.txt 1 6968 
+past Apollo_program.txt 1 9404 
+19 Apollo_program.txt 4 1612 5733 7696 7967 
+titles Apollo_program.txt 1 6198 
+design Apollo_program.txt 15 720 1362 1383 1922 3111 3148 3499 3556 3747 5127 6035 6141 7438 8907 9478 
+silverstein Apollo_program.txt 2 576 591 
+further Apollo_program.txt 3 4223 9442 10295 
+investment Apollo_program.txt 1 8678 
+cigars Apollo_program.txt 1 8558 
+what Apollo_program.txt 1 8493 
+stood Apollo_program.txt 1 4506 
+abe Apollo_program.txt 1 575 
+richard Apollo_program.txt 2 7279 7882 
+sun Apollo_program.txt 3 571 611 7303 
+crust Apollo_program.txt 2 8241 8313 
+anniversary Apollo_program.txt 1 9891 
+version Apollo_program.txt 6 3444 3456 4323 4376 4571 5246 
+scientists Apollo_program.txt 1 8692 
+learned Apollo_program.txt 1 3588 
+public Apollo_program.txt 3 2819 9834 10279 
+movement Apollo_program.txt 1 9754 
+full Apollo_program.txt 3 1253 1809 7010 
+component Apollo_program.txt 3 3280 7434 8316 
+minuteman Apollo_program.txt 2 2289 9493 
+hours Apollo_program.txt 11 3725 6973 7137 7146 7310 7839 7852 7968 7975 8029 8101 
+cylindrical Apollo_program.txt 1 3360 
+concluding Apollo_program.txt 1 1071 
+november Apollo_program.txt 10 748 1398 1958 1970 2934 5610 5669 6469 7232 9270 
+search Apollo_program.txt 1 9914 
+wistfulness Apollo_program.txt 1 9329 
+experience Apollo_program.txt 1 2245 
+prior Apollo_program.txt 1 2074 
+amount Apollo_program.txt 1 10112 
+published Apollo_program.txt 1 6223 
+sealing Apollo_program.txt 1 5925 
+via Apollo_program.txt 1 8956 
+followed Apollo_program.txt 5 4201 5874 6605 6635 8905 
+murmur Apollo_program.txt 1 4650 
+family Apollo_program.txt 3 340 3915 4441 
+47,000 Apollo_program.txt 1 4525 
+transit Apollo_program.txt 1 298 
+ask Apollo_program.txt 1 1725 
+aimed Apollo_program.txt 1 980 
+trained Apollo_program.txt 2 4740 5825 
+memos Apollo_program.txt 1 2506 
+estimate Apollo_program.txt 5 8479 8511 8588 8611 8731 
+countdown Apollo_program.txt 3 5857 5879 5942 
+proceed Apollo_program.txt 1 1356 
+contains Apollo_program.txt 1 10208 
+two Apollo_program.txt 25 1671 1860 2045 2089 3224 3620 4157 4779 4807 4818 5027 5199 6675 6833 6908 7306 7337 7353 7374 7698 7789 7848 7887 7965 9015 
+archives Apollo_program.txt 1 10047 
+6 Apollo_program.txt 4 4059 6612 6732 6741 
+taken Apollo_program.txt 4 9573 9686 9721 9728 
+achieving Apollo_program.txt 2 1080 1199 
+more Apollo_program.txt 10 1230 1235 1325 4027 5877 6697 7484 8571 9552 9933 
+lander Apollo_program.txt 1 3006 
+incorporates Apollo_program.txt 1 10278 
+company Apollo_program.txt 1 712 
+corrected Apollo_program.txt 1 5581 
+tested Apollo_program.txt 3 2087 6804 7008 
+landed Apollo_program.txt 10 126 156 168 4839 7263 7954 7990 9201 9357 9416 
+controlling Apollo_program.txt 1 1625 
+known Apollo_program.txt 4 7 5273 6570 8327 
+hardware Apollo_program.txt 3 251 8857 9056 
+none Apollo_program.txt 2 1244 4725 
+science Apollo_program.txt 5 963 2719 8683 8709 9438 
+nine Apollo_program.txt 1 254 
+sent Apollo_program.txt 5 1033 1279 2502 6907 9608 
+evolved Apollo_program.txt 1 3294 
+v Apollo_program.txt 30 2774 3491 3789 3901 4054 4389 4443 4448 4451 4458 4479 4483 5139 5646 5662 6175 6213 6331 6367 6450 6462 6654 6747 6830 6857 7512 7626 8696 8761 9021 
+excursion Apollo_program.txt 2 2886 3212 
+history Apollo_program.txt 3 457 4997 9459 
+compare Apollo_program.txt 1 4055 
+translunar Apollo_program.txt 4 3198 3534 4239 4590 
+impacts Apollo_program.txt 1 4249 
+accept Apollo_program.txt 3 1796 10105 10130 
+northernmost Apollo_program.txt 1 1877 
+states Apollo_program.txt 6 15 1113 2265 2955 8586 9516 
+pushed Apollo_program.txt 2 5625 5657 
+numbers Apollo_program.txt 5 4041 6232 6324 8118 10040 
+sense Apollo_program.txt 1 9334 
+dress Apollo_program.txt 1 6395 
+csm Apollo_program.txt 25 152 3054 3082 3154 3235 3246 3482 3498 3519 4259 4409 4491 4801 5204 5266 5480 5641 5789 6345 6434 6467 6617 6806 7496 8895 
+information Apollo_program.txt 1 9443 
+needs Apollo_program.txt 1 1148 
+5.4 Apollo_program.txt 1 8536 
+goal Apollo_program.txt 12 77 111 220 1201 1292 1318 1720 1772 2372 3144 9780 9826 
+rather Apollo_program.txt 3 4066 6852 9005 
+hugh Apollo_program.txt 1 638 
+american Apollo_program.txt 12 761 940 1162 1266 1406 3474 5564 5631 5692 5834 6048 8691 
+stayed Apollo_program.txt 1 8087 
+docudramas Apollo_program.txt 1 10237 
+acknowledging Apollo_program.txt 1 2518 
+orbital Apollo_program.txt 11 535 3411 4308 4924 5201 6421 7536 7631 8886 8911 8980 
+plans Apollo_program.txt 4 3808 3828 7489 8988 
+derived Apollo_program.txt 2 8225 8237 
+orbits Apollo_program.txt 1 6970 
+langley Apollo_program.txt 2 1569 2465 
+tries Apollo_program.txt 1 6311 
+waves Apollo_program.txt 1 8397 
+develop Apollo_program.txt 2 2127 3911 
+pleaded Apollo_program.txt 1 2530 
+response Apollo_program.txt 2 993 1004 
+a Apollo_program.txt 200 50 80 230 242 258 332 358 373 517 532 548 649 662 665 679 687 729 757 820 849 884 898 917 947 955 977 1000 1015 1021 1034 1089 1097 1139 1159 1170 1209 1272 1305 1320 1582 1591 1639 1706 1909 1935 1990 1995 2021 2029 2047 2108 2143 2155 2281 2299 2309 2353 2371 2384 2439 2442 2492 2503 2524 2562 2573 2602 2661 2699 2821 2846 2879 3012 3018 3038 3069 3113 3151 3180 3207 3359 3369 3379 3392 3454 3460 3547 3703 3867 3874 3878 3933 3941 3944 3957 4014 4150 4192 4356 4374 4406 4449 4488 4540 4569 4594 4648 4739 4755 4826 5010 5112 5142 5170 5237 5244 5258 5270 5284 5311 5330 5345 5679 5715 5731 5741 5750 5816 5845 5855 5876 5916 5937 6118 6154 6202 6272 6326 6364 6372 6394 6464 6482 6550 6572 6589 6616 6619 6638 6658 6753 6768 6828 7133 7186 7215 7245 7347 7377 7395 7417 7428 7432 7479 7532 7857 7864 8024 8119 8248 8314 8429 8458 8476 8575 8693 8723 8791 8796 8884 8897 8909 8957 8974 9019 9115 9269 9345 9384 9744 9749 9756 9796 9837 9869 9992 10000 10031 10101 10142 
+short Apollo_program.txt 1 6556 
+footsteps Apollo_program.txt 1 9311 
+crippling Apollo_program.txt 1 312 
+responsibility Apollo_program.txt 1 6019 
+as-278 Apollo_program.txt 1 5277 
+pay Apollo_program.txt 1 8554 
+remnants Apollo_program.txt 1 9183 
+september Apollo_program.txt 13 1611 1658 1666 1816 2212 2823 4251 4644 5459 6268 6920 8805 9097 
+developed Apollo_program.txt 1 8655 
+lrv Apollo_program.txt 2 7568 7600 
+mission Apollo_program.txt 59 118 379 417 427 536 666 1309 1364 1641 1899 2354 2375 2406 2429 2578 3164 4764 4846 4893 4926 4981 4989 5006 5020 5272 5472 5515 5601 5617 6227 6275 6314 6384 6629 6706 6764 6777 6790 6816 6862 6883 6887 6895 7026 7089 7211 7224 7601 7743 7807 7831 7880 8105 8290 8977 9119 9233 9250 9564 
+setback Apollo_program.txt 1 228 
+held Apollo_program.txt 3 2875 2948 8722 
+attitude Apollo_program.txt 1 3322 
+organize Apollo_program.txt 1 1776 
+through Apollo_program.txt 8 3641 3991 4210 4268 4804 7474 8455 9968 
+4 Apollo_program.txt 4 6245 6452 6608 6724 
+committee Apollo_program.txt 3 961 2547 2582 
+signs Apollo_program.txt 1 8389 
+its Apollo_program.txt 25 219 473 716 1413 1440 1481 1622 1628 2606 2687 2790 3301 3312 3321 3325 3334 3649 3674 4513 4519 4870 5150 5507 7015 9344 
+24 Apollo_program.txt 6 162 4718 6220 7180 7853 9579 
+25 Apollo_program.txt 6 108 696 1027 1120 1466 5078 
+26 Apollo_program.txt 2 5050 7941 
+27 Apollo_program.txt 2 5410 5904 
+20 Apollo_program.txt 10 133 1031 6972 7085 7129 7476 7654 7997 8028 8513 
+21 Apollo_program.txt 4 5426 5628 5886 7136 
+22 Apollo_program.txt 1 6527 
+23 Apollo_program.txt 2 2186 8100 
+energies Apollo_program.txt 1 1783 
+28 Apollo_program.txt 1 1399 
+29 Apollo_program.txt 2 1971 5460 
+actually Apollo_program.txt 1 2766 
+late Apollo_program.txt 4 2626 4266 5666 5697 
+environmentalism Apollo_program.txt 1 9747 
+parts Apollo_program.txt 1 7326 
+systems Apollo_program.txt 5 319 4285 5238 6807 9495 
+pad Apollo_program.txt 3 5120 5983 6523 
+might Apollo_program.txt 3 5602 6931 9362 
+evening Apollo_program.txt 1 598 
+return Apollo_program.txt 5 3174 3231 3646 7399 9247 
+severely Apollo_program.txt 1 4282 
+rp-1/lox Apollo_program.txt 1 4538 
+pegasus Apollo_program.txt 1 4231 
+foot Apollo_program.txt 1 1999 
+flammable Apollo_program.txt 1 6132 
+videotapes Apollo_program.txt 1 9903 
+association Apollo_program.txt 1 1436 
+three-man Apollo_program.txt 2 51 3855 
+designation Apollo_program.txt 1 6258 
+s-v Apollo_program.txt 1 4153 
+assemblies Apollo_program.txt 1 3776 
+capability Apollo_program.txt 7 307 468 3881 4520 4584 5134 6473 
+s-i Apollo_program.txt 1 4107 
+eva Apollo_program.txt 7 5322 5341 7012 7862 7977 8030 8104 
+found Apollo_program.txt 4 2258 8203 8268 9217 
+heavy Apollo_program.txt 2 1518 4089 
+status Apollo_program.txt 2 853 1048 
+neil Apollo_program.txt 7 121 196 4672 7064 7105 7193 9297 
+documentary Apollo_program.txt 1 10226 
+weight Apollo_program.txt 1 2471 
+generation Apollo_program.txt 1 3383 
+house Apollo_program.txt 2 960 8883 
+hard Apollo_program.txt 2 1769 10102 
+40,000 Apollo_program.txt 1 4396 
+investigated Apollo_program.txt 1 8851 
+beyond Apollo_program.txt 4 396 428 812 8845 
+event Apollo_program.txt 1 3016 
+aldrin Apollo_program.txt 5 125 189 4682 7111 7114 
+really Apollo_program.txt 1 9424 
+20.4 Apollo_program.txt 1 8822 
+chaffee Apollo_program.txt 5 4616 4751 4903 5415 5807 
+robert Apollo_program.txt 4 1425 1551 2515 5760 
+since Apollo_program.txt 5 3927 4022 5475 7784 9433 
+research Apollo_program.txt 5 1570 2466 8684 8752 9501 
+safety Apollo_program.txt 1 4236 
+7 Apollo_program.txt 9 1131 2703 4020 4928 6779 6950 7309 8481 9689 
+issue Apollo_program.txt 2 922 2511 
+story Apollo_program.txt 1 9628 
+houses Apollo_program.txt 1 6012 
+base Apollo_program.txt 1 9086 
+members Apollo_program.txt 2 2631 6178 
+put Apollo_program.txt 3 60 875 1014 
+kinescope Apollo_program.txt 1 10193 
+definition Apollo_program.txt 1 3550 
+launch Apollo_program.txt 38 343 1521 1634 1836 1855 1862 1910 1987 1991 2013 2035 2080 2233 2563 2594 2775 3265 3492 3770 3812 3934 3942 4030 4091 4097 4256 4415 4459 5011 5588 5606 5856 5887 5892 6128 6368 7628 8697 
+computers Apollo_program.txt 1 500 
+americas Apollo_program.txt 2 1003 1050 
+terribly Apollo_program.txt 1 9281 
+conducted Apollo_program.txt 2 1930 5827 
+twenty Apollo_program.txt 1 1122 
+unmanned Apollo_program.txt 15 4999 5004 5253 5660 6173 6211 6238 6251 6329 6335 6457 6513 6591 6755 7258 
+undergo Apollo_program.txt 1 5406 
+major Apollo_program.txt 3 227 385 3288 
+dont Apollo_program.txt 3 9954 10090 10123 
+slipped Apollo_program.txt 1 9967 
+robotic Apollo_program.txt 2 9116 9167 
+number Apollo_program.txt 2 4425 4469 
+feet Apollo_program.txt 8 2102 3342 3347 3429 3435 4500 4508 7057 
+construct Apollo_program.txt 1 7642 
+donn Apollo_program.txt 2 4932 5386 
+guess Apollo_program.txt 1 8491 
+temperature Apollo_program.txt 1 5165 
+rookies Apollo_program.txt 1 7354 
+leading Apollo_program.txt 2 1172 9466 
+least Apollo_program.txt 2 2039 4817 
+station Apollo_program.txt 8 360 550 1633 3134 8901 9035 9042 9080 
+pitted Apollo_program.txt 1 8370 
+scheme Apollo_program.txt 1 6229 
+photographing Apollo_program.txt 1 9181 
+recovered Apollo_program.txt 2 5088 8138 
+too Apollo_program.txt 1 9343 
+one-man Apollo_program.txt 1 56 
+option Apollo_program.txt 1 2496 
+boilerplate Apollo_program.txt 1 4206 
+behind Apollo_program.txt 4 945 5593 9499 9598 
+exploded Apollo_program.txt 1 7381 
+lebar Apollo_program.txt 2 10060 10133 
+part Apollo_program.txt 2 2591 9886 
+off Apollo_program.txt 5 876 3167 3520 8992 9367 
+believe Apollo_program.txt 3 1191 10091 10119 
+convinced Apollo_program.txt 1 2685 
+b Apollo_program.txt 4 1040 2049 6333 7733 
+rendezvouslet Apollo_program.txt 1 2440 
+determined Apollo_program.txt 2 1367 8498 
+contrary Apollo_program.txt 1 9850 
+2021 Apollo_program.txt 1 202 
+canceling Apollo_program.txt 1 7885 
+substantial Apollo_program.txt 1 4888 
+orders Apollo_program.txt 1 4954 
+showcased Apollo_program.txt 1 9803 
+mountain Apollo_program.txt 1 1730 
+built Apollo_program.txt 5 1867 3974 8188 8915 10068 
+spin-off Apollo_program.txt 1 9445 
+itemized Apollo_program.txt 2 8610 8626 
+officers Apollo_program.txt 2 2261 2312 
+lit Apollo_program.txt 1 6578 
+also Apollo_program.txt 27 6 167 347 482 1616 1846 2057 2364 3484 3536 4229 5022 5748 5765 6058 6180 7562 7580 7658 7670 7691 9053 9381 9711 9880 10077 10272 
+internal Apollo_program.txt 2 2710 5867 
+19691972 Apollo_program.txt 1 7230 
+build Apollo_program.txt 1 3480 
+re-entry Apollo_program.txt 2 676 3424 
+play Apollo_program.txt 1 1650 
+experienced Apollo_program.txt 1 6655 
+electric Apollo_program.txt 3 706 10075 10139 
+54,000 Apollo_program.txt 1 3469 
+reach Apollo_program.txt 1 1088 
+quick-release Apollo_program.txt 1 6155 
+most Apollo_program.txt 6 1454 6111 7757 8132 8960 9726 
+75 Apollo_program.txt 1 8176 
+nasas Apollo_program.txt 13 464 911 1568 2577 2769 2943 4617 7655 8055 8649 8667 8800 9166 
+plan Apollo_program.txt 5 259 3851 4063 7640 8962 
+significant Apollo_program.txt 1 9799 
+prestige Apollo_program.txt 1 824 
+extremely Apollo_program.txt 4 2455 3661 8198 8489 
+approved Apollo_program.txt 1 6271 
+achievement Apollo_program.txt 3 1176 9456 9800 
+appear Apollo_program.txt 1 8367 
+kg Apollo_program.txt 12 438 3358 3450 3472 3716 3735 3887 4277 4399 4516 4526 8160 
+mineral Apollo_program.txt 1 8302 
+mobile Apollo_program.txt 1 2022 
+convened Apollo_program.txt 2 6004 7407 
+clear Apollo_program.txt 6 1317 1540 1617 1848 5331 6842 
+sometimes Apollo_program.txt 1 4819 
+cover Apollo_program.txt 3 6152 6247 10228 
+kn Apollo_program.txt 7 4128 4147 4339 4371 4547 4555 4582 
+km Apollo_program.txt 6 2104 5059 5067 5084 5093 7059 
+traditional Apollo_program.txt 1 5324 
+mammoth Apollo_program.txt 1 1892 
+4,577 Apollo_program.txt 1 5063 
+thomas Apollo_program.txt 2 3767 7040 
+think Apollo_program.txt 2 9955 9965 
+defended Apollo_program.txt 1 2855 
+minimizing Apollo_program.txt 1 2391 
+cdr Apollo_program.txt 1 5296 
+wernher Apollo_program.txt 3 1939 2695 3795 
+completion Apollo_program.txt 1 6947 
+giant Apollo_program.txt 2 7189 8447 
+simulating Apollo_program.txt 1 2094 
+unrealistic Apollo_program.txt 1 8490 
+transmitting Apollo_program.txt 1 6974 
+flights Apollo_program.txt 20 552 1333 3404 3989 4082 4171 4260 4309 4418 4462 4796 4803 5037 5100 5790 6176 6235 6252 8868 9200 
+8 Apollo_program.txt 7 401 4915 6809 6874 9038 9576 9607 
+265.7 Apollo_program.txt 1 5055 
+his Apollo_program.txt 24 607 904 992 1011 1093 1579 1682 1703 1832 2133 2209 2243 2284 2550 2726 2757 3799 5394 5728 7541 8077 8504 8525 9310 
+meanwhile Apollo_program.txt 2 713 5762 
+compiled Apollo_program.txt 1 10156 
+famous Apollo_program.txt 3 1707 8133 9727 
+capsule Apollo_program.txt 2 525 2984 
+grew Apollo_program.txt 2 4521 8926 
+longest Apollo_program.txt 1 7861 
+dockingneither Apollo_program.txt 1 2443 
+during Apollo_program.txt 20 44 241 509 2820 2845 4623 4754 4955 5943 6127 8269 8286 8401 9212 9229 9238 9655 9691 9743 10027 
+him Apollo_program.txt 6 87 1216 2314 5413 6070 9306 
+restart Apollo_program.txt 2 4586 5133 
+197374 Apollo_program.txt 1 367 
+gilruth Apollo_program.txt 4 1553 1573 1679 2224 
+unburned Apollo_program.txt 1 5154 
+plss Apollo_program.txt 1 7020 
+remove Apollo_program.txt 2 10038 10171 
+investigate Apollo_program.txt 1 5719 
+activity Apollo_program.txt 1 5321 
+x Apollo_program.txt 3 8863 9100 9109 
+set Apollo_program.txt 1 383 
+achieved Apollo_program.txt 4 218 282 2336 7091 
+see Apollo_program.txt 5 2363 5021 8351 9879 10271 
+defense Apollo_program.txt 1 775 
+sec Apollo_program.txt 1 1664 
+are Apollo_program.txt 12 1074 1763 1768 1793 1799 8180 8197 8260 8399 8409 8425 9843 
+sea Apollo_program.txt 1 7121 
+close Apollo_program.txt 2 1301 9391 
+outward Apollo_program.txt 1 6156 
+deploying Apollo_program.txt 2 7162 9551 
+feared Apollo_program.txt 1 2437 
+preparation Apollo_program.txt 3 4759 5194 7071 
+pictures Apollo_program.txt 2 6976 9613 
+won Apollo_program.txt 2 1409 3476 
+captured Apollo_program.txt 1 6962 
+orbiting Apollo_program.txt 2 9159 9172 
+burned Apollo_program.txt 3 4110 4537 4561 
+numerous Apollo_program.txt 1 10225 
+pictured Apollo_program.txt 1 190 
+aap Apollo_program.txt 1 8932 
+cancelling Apollo_program.txt 1 6752 
+440 Apollo_program.txt 1 8717 
+missing Apollo_program.txt 3 9883 9916 10086 
+initially Apollo_program.txt 2 2072 4094 
+attention Apollo_program.txt 1 6965 
+craters Apollo_program.txt 1 8374 
+peacetime Apollo_program.txt 1 1479 
+aircraft Apollo_program.txt 2 3758 5402 
+moonwalkers Apollo_program.txt 1 4737 
+opposition Apollo_program.txt 1 2727 
+both Apollo_program.txt 3 5889 6011 9481 
+c Apollo_program.txt 4 2277 6342 6789 7717 
+last Apollo_program.txt 8 174 4219 4845 5615 7501 7777 8035 9031 
+annual Apollo_program.txt 1 8532 
+swigert Apollo_program.txt 1 7360 
+became Apollo_program.txt 9 860 931 1539 1847 2660 3145 5355 7702 9748 
+posthumously Apollo_program.txt 2 4898 4975 
+buzz Apollo_program.txt 4 124 188 4681 7110 
+geochemical Apollo_program.txt 1 8315 
+whole Apollo_program.txt 1 9595 
+upgraded Apollo_program.txt 2 4322 4550 
+flies Apollo_program.txt 1 6912 
+onward Apollo_program.txt 1 4916 
+point Apollo_program.txt 1 2575 
+simple Apollo_program.txt 2 6860 9336 
+loan Apollo_program.txt 1 2303 
+kilometers Apollo_program.txt 1 9174 
+community Apollo_program.txt 1 8074 
+aerodynamic Apollo_program.txt 1 3655 
+throughout Apollo_program.txt 1 2480 
+expensive Apollo_program.txt 1 1250 
+caspar Apollo_program.txt 1 7903 
+described Apollo_program.txt 1 8540 
+raise Apollo_program.txt 1 8568 
+westinghouse Apollo_program.txt 2 10074 10138 
+political Apollo_program.txt 2 739 9555 
+due Apollo_program.txt 5 805 1431 4646 8382 9718 
+extravehicular Apollo_program.txt 1 5320 
+collected Apollo_program.txt 2 7979 8193 
+combine Apollo_program.txt 1 7517 
+meeting Apollo_program.txt 1 956 
+empty Apollo_program.txt 2 8920 8967 
+walter Apollo_program.txt 3 4929 4935 5454 
+firm Apollo_program.txt 1 2876 
+flight Apollo_program.txt 46 214 250 970 1509 2182 2199 2227 2656 2670 2831 3443 3535 3845 3952 3985 4190 4620 4951 4957 5000 5174 5193 5197 5256 5358 5488 5583 5622 5663 5703 5780 5812 5823 6208 6359 6377 6458 6515 6599 6720 6802 6993 8785 9063 9476 9983 
+champion Apollo_program.txt 1 2662 
+restartable Apollo_program.txt 1 4375 
+fire Apollo_program.txt 8 235 5793 5948 5969 5978 6091 6098 6438 
+transferring Apollo_program.txt 1 5863 
+39 Apollo_program.txt 1 1989 
+gap Apollo_program.txt 1 790 
+determination Apollo_program.txt 1 6017 
+whitney Apollo_program.txt 1 4140 
+spearheaded Apollo_program.txt 1 9895 
+look Apollo_program.txt 1 1045 
+budget Apollo_program.txt 10 267 901 7657 7900 8534 8650 8671 8715 8793 10143 
+33 Apollo_program.txt 2 4499 7838 
+parachutes Apollo_program.txt 1 3329 
+replaced Apollo_program.txt 4 4348 5328 5412 6361 
+behavior Apollo_program.txt 1 5159 
+error Apollo_program.txt 1 6553 
+schriever Apollo_program.txt 1 2300 
+mitchell Apollo_program.txt 2 7827 7836 
+engineers Apollo_program.txt 4 2436 2666 3803 5162 
+shortened Apollo_program.txt 1 3216 
+concurrently Apollo_program.txt 1 5612 
+overseen Apollo_program.txt 2 3765 6009 
+blurted Apollo_program.txt 1 2834 
+cents Apollo_program.txt 2 8545 8574 
+von Apollo_program.txt 7 1940 2229 2696 2849 2856 3796 3829 
+hoax Apollo_program.txt 1 9862 
+itself Apollo_program.txt 2 1197 9043 
+stubbornly Apollo_program.txt 1 2947 
+ready Apollo_program.txt 5 5191 5604 5777 6748 6849 
+convair Apollo_program.txt 2 1351 3978 
+anymore Apollo_program.txt 1 10125 
+stimulated Apollo_program.txt 1 9461 
+grand Apollo_program.txt 1 616 
+9 Apollo_program.txt 3 6470 7005 7851 
+products Apollo_program.txt 1 9471 
+composition Apollo_program.txt 2 454 8440 
+higher Apollo_program.txt 2 6373 6500 
+890 Apollo_program.txt 1 4370 
+used Apollo_program.txt 20 338 348 816 1381 2567 3010 3200 3397 3566 4026 4036 4135 4381 6321 6537 7923 8337 8503 9054 9479 
+forced Apollo_program.txt 3 269 5936 7742 
+helped Apollo_program.txt 1 9864 
+flown Apollo_program.txt 1 1268 
+004 Apollo_program.txt 1 3992 
+recent Apollo_program.txt 1 9082 
+lower Apollo_program.txt 1 9016 
+task Apollo_program.txt 2 653 1556 
+navigation Apollo_program.txt 1 5229 
+redesigned Apollo_program.txt 1 7454 
+spent Apollo_program.txt 6 7132 7144 7837 7962 8015 8097 
+analysis Apollo_program.txt 2 8438 8798 
+person Apollo_program.txt 2 934 8547 
+flags Apollo_program.txt 2 9207 9261 
+kelly Apollo_program.txt 1 3769 
+organization Apollo_program.txt 6 1580 1683 2110 2134 9831 9960 
+spend Apollo_program.txt 1 3160 
+oscillation Apollo_program.txt 1 6657 
+composed Apollo_program.txt 1 8295 
+responsible Apollo_program.txt 1 4653 
+plagued Apollo_program.txt 1 5909 
+world Apollo_program.txt 3 9596 9647 9672 
+regardless Apollo_program.txt 1 6199 
+discipline Apollo_program.txt 1 4947 
+retirement Apollo_program.txt 1 2210 
+majority Apollo_program.txt 1 8647 
+exclusively Apollo_program.txt 2 6181 8297 
+contractor Apollo_program.txt 2 2932 5635 
+source Apollo_program.txt 1 8114 
+weightlessness Apollo_program.txt 1 5400 
+presidents Apollo_program.txt 1 2908 
+remaining Apollo_program.txt 7 279 6683 7341 7766 7888 7915 10203 
+1,600,000 Apollo_program.txt 1 4336 
+australia Apollo_program.txt 1 10187 
+march Apollo_program.txt 4 5425 6889 6991 9089 
+demands Apollo_program.txt 1 2398 
+bid Apollo_program.txt 1 1414 
+as-205/208 Apollo_program.txt 1 5518 
+high-ranking Apollo_program.txt 1 2260 
+aerospace Apollo_program.txt 2 817 9139 
+damage Apollo_program.txt 2 6690 7420 
+projects Apollo_program.txt 1 2250 
+formal Apollo_program.txt 1 2791 
+d Apollo_program.txt 5 46 2205 6353 6815 6882 
+s-ivb-200 Apollo_program.txt 1 4353 
+kennedy Apollo_program.txt 23 74 478 752 782 815 906 988 1009 1032 1132 1298 1653 1698 1842 1983 2368 2732 2859 5568 5842 7709 8469 8523 
+as-258 Apollo_program.txt 3 5520 5534 6362 
+communications Apollo_program.txt 2 3400 5930 
+continue Apollo_program.txt 1 8891 
+google Apollo_program.txt 2 9104 9107 
+creation Apollo_program.txt 1 9627 
+some Apollo_program.txt 6 1285 1711 2253 3024 7325 8404 
+back Apollo_program.txt 5 3270 3628 7171 9400 9620 
+urgent Apollo_program.txt 1 1146 
+added Apollo_program.txt 1 7460 
+3.2 Apollo_program.txt 1 8218 
+delivered Apollo_program.txt 1 5561 
+scale Apollo_program.txt 2 617 3779 
+decision Apollo_program.txt 10 850 918 2580 2680 2742 2807 3892 4292 6940 7687 
+though Apollo_program.txt 1 4724 
+per Apollo_program.txt 3 6263 8546 8548 
+eliminate Apollo_program.txt 1 1311 
+as-10x Apollo_program.txt 1 4042 
+dating Apollo_program.txt 1 8210 
+be Apollo_program.txt 56 1229 1246 1294 1369 1525 1645 1888 2018 2086 2257 2320 2454 2535 2566 3009 3057 3558 3565 3966 4288 5281 5482 5580 5603 5776 5873 6000 6192 6280 6295 6303 6316 6371 6380 6400 6601 6813 6848 7344 7416 7775 7787 8308 8369 8497 8601 8914 8937 8946 9112 9220 9363 9373 9382 10014 10052 
+odor Apollo_program.txt 1 5918 
+martin Apollo_program.txt 2 711 1354 
+agreement Apollo_program.txt 1 2711 
+step Apollo_program.txt 3 6292 6870 7184 
+by Apollo_program.txt 74 21 92 292 326 572 723 877 883 1296 1447 1475 1601 1668 1821 1931 2028 2476 2549 2694 2779 2825 2848 2863 2971 3118 3179 3766 3975 4078 4202 4228 4241 4340 4355 4787 4972 5562 5745 5875 6010 6194 6436 6487 6529 6610 6637 6661 6792 6821 6966 7037 7098 7684 7817 7863 7932 8003 8116 8208 8279 8321 8906 8939 9091 9332 9506 9550 9574 9722 9729 9794 9812 9991 10157 
+unused Apollo_program.txt 1 7699 
+anything Apollo_program.txt 1 9962 
+76 Apollo_program.txt 1 2103 
+firing Apollo_program.txt 1 6561 
+simulation Apollo_program.txt 1 5880 
+as-101 Apollo_program.txt 1 4209 
+range Apollo_program.txt 2 4000 8213 
+hired Apollo_program.txt 2 2647 2749 
+as-105 Apollo_program.txt 1 4211 
+stuart Apollo_program.txt 1 7823 
+dwight Apollo_program.txt 1 45 
+block Apollo_program.txt 18 3561 3571 3590 5028 5202 5212 5264 5289 6075 6104 6139 6148 6163 6168 6186 6196 6465 7582 
+david Apollo_program.txt 3 5439 7944 8281 
+1,020 Apollo_program.txt 1 4581 
+within Apollo_program.txt 3 7055 7251 9836 
+appropriate Apollo_program.txt 1 613 
+33,400 Apollo_program.txt 1 4546 
+eisele Apollo_program.txt 7 4933 4979 5388 5392 5451 5538 6794 
+mercury-redstone Apollo_program.txt 1 4056 
+measured Apollo_program.txt 2 5163 8207 
+brainerd Apollo_program.txt 1 2206 
+question Apollo_program.txt 1 2541 
+long Apollo_program.txt 3 3432 5572 5784 
+oxidizer Apollo_program.txt 1 4116 
+suit Apollo_program.txt 3 5342 6136 7013 
+as-501 Apollo_program.txt 3 5664 5675 6453 
+motivational Apollo_program.txt 1 5817 
+atlantic Apollo_program.txt 2 1737 5071 
+pacific Apollo_program.txt 1 5097 
+newer Apollo_program.txt 1 10056 
+hopes Apollo_program.txt 2 5597 5773 
+injection Apollo_program.txt 3 4591 6634 6705 
+6,670 Apollo_program.txt 1 4127 
+exhaustive Apollo_program.txt 1 9912 
+utc Apollo_program.txt 1 7126 
+restarted Apollo_program.txt 1 6548 
+circuits Apollo_program.txt 1 9504 
+checkout Apollo_program.txt 1 2062 
+transmits Apollo_program.txt 1 9121 
+up Apollo_program.txt 10 776 987 1064 2099 2812 3721 6443 8645 8701 8865 
+us Apollo_program.txt 9 375 829 959 1127 1823 4088 8681 9814 10117 
+exploration Apollo_program.txt 7 266 772 1240 3691 6412 7571 9140 
+continuously Apollo_program.txt 1 7167 
+called Apollo_program.txt 4 6143 8317 8963 9452 
+armstrong Apollo_program.txt 8 122 197 4673 7065 7106 7112 7194 9298 
+defined Apollo_program.txt 1 2370 
+water-cooled Apollo_program.txt 1 5346 
+engineering Apollo_program.txt 4 1946 3759 5502 9440 
+nautical Apollo_program.txt 4 5056 5064 5081 5090 
+naa Apollo_program.txt 2 3962 5736 
+tentative Apollo_program.txt 1 2809 
+fears Apollo_program.txt 1 941 
+preventing Apollo_program.txt 1 6699 
+accounted Apollo_program.txt 1 8661 
+electrical Apollo_program.txt 5 310 3084 3091 3127 5947 
+recognition Apollo_program.txt 1 2488 
+explaining Apollo_program.txt 1 2359 
+evas Apollo_program.txt 2 7307 7849 
+problems Apollo_program.txt 10 4948 5186 5576 5689 5722 5767 5911 5931 6742 9549 
+thirty-two Apollo_program.txt 1 4683 
+william Apollo_program.txt 1 6960 
+generated Apollo_program.txt 2 8400 8484 
+restoration Apollo_program.txt 2 9876 10165 
+allowing Apollo_program.txt 5 3004 5976 7527 7548 7574 
+ago Apollo_program.txt 3 1734 9419 9428 
+land Apollo_program.txt 4 1599 1901 2744 3619 
+e Apollo_program.txt 6 895 2140 2555 6369 6894 8052 
+vice Apollo_program.txt 2 1037 8519 
+age Apollo_program.txt 1 8215 
+required Apollo_program.txt 9 882 1452 1490 1526 1894 3532 3949 3967 9829 
+orbit Apollo_program.txt 34 147 399 408 431 1283 2418 2452 2459 3190 3249 3268 3462 3508 3617 3630 3896 4104 4213 4403 4596 4699 4800 5124 6347 6375 6390 6520 6876 7002 7645 8871 8917 9255 9658 
+walked Apollo_program.txt 5 136 184 191 4719 7317 
+uprating Apollo_program.txt 1 4341 
+2000 Apollo_program.txt 1 10264 
+nasa Apollo_program.txt 49 28 573 635 714 892 1059 1255 1275 1286 1334 1438 1504 1584 1618 2158 2306 2434 2499 2708 2754 2923 3495 3837 4035 4253 4831 4863 4892 4941 4959 5416 6002 6044 6159 6440 6743 7403 7477 7669 8607 8721 8850 9444 9894 9927 9959 9980 10036 10301 
+2007 Apollo_program.txt 1 9098 
+2004 Apollo_program.txt 2 8123 8806 
+2005 Apollo_program.txt 2 8738 10267 
+2008 Apollo_program.txt 2 4963 9137 
+2009 Apollo_program.txt 5 8720 9165 9272 9893 10270 
+once Apollo_program.txt 6 858 2367 2898 3140 4733 8348 
+nafzger Apollo_program.txt 3 9977 10080 10158 
+issued Apollo_program.txt 2 1965 2878 
+results Apollo_program.txt 2 1081 5754 
+astronauts Apollo_program.txt 22 120 169 541 1674 3263 3621 4597 4604 4638 4684 4767 4869 5241 5307 5934 5993 7175 8280 8889 9371 9724 9733 
+existing Apollo_program.txt 2 7624 9902 
+ge Apollo_program.txt 1 1352 
+broader Apollo_program.txt 1 921 
+go Apollo_program.txt 2 1741 1748 
+conservative Apollo_program.txt 1 10209 
+young Apollo_program.txt 3 7044 8005 8012 
+send Apollo_program.txt 3 3853 4394 4487 
+suits Apollo_program.txt 1 6189 
+include Apollo_program.txt 3 5344 6414 10215 
+indicating Apollo_program.txt 4 4427 4433 4471 4477 
+random Apollo_program.txt 1 10172 
+outside Apollo_program.txt 2 7021 7149 
+spool Apollo_program.txt 1 5682 
+wishes Apollo_program.txt 1 6266 
+continued Apollo_program.txt 1 3559 
+categories Apollo_program.txt 2 10304 10306 
+entire Apollo_program.txt 2 239 3162 
+transmission Apollo_program.txt 2 9654 9676 
+positions Apollo_program.txt 2 5215 5292 
+notes Apollo_program.txt 1 10274 
+shock Apollo_program.txt 1 8396 
+michael Apollo_program.txt 3 142 4676 7107 
+eve Apollo_program.txt 3 6983 9636 9653 
+try Apollo_program.txt 1 10082 
+assignments Apollo_program.txt 1 4661 
+race Apollo_program.txt 4 746 9790 10235 10266 
+rack Apollo_program.txt 1 8958 
+concluded Apollo_program.txt 5 1095 3042 3552 6028 9928 
+video Apollo_program.txt 3 9921 10167 10202 
+concludes Apollo_program.txt 1 2940 
+dynamics Apollo_program.txt 1 3977 
+click Apollo_program.txt 3 5008 6766 7213 
+universities Apollo_program.txt 1 1499 
+skylab Apollo_program.txt 3 357 7630 8997 
+splashdown Apollo_program.txt 1 3337 
+giving Apollo_program.txt 1 8516 
+multimedia Apollo_program.txt 1 10303 
+expressed Apollo_program.txt 1 2725 
+cell Apollo_program.txt 1 3381 
+collins Apollo_program.txt 3 143 4677 7108 
+firms Apollo_program.txt 1 1497 
+nicholas Apollo_program.txt 1 2554 
+body Apollo_program.txt 2 411 8461 
+impact Apollo_program.txt 9 8362 8373 8402 8411 8417 8436 8448 8456 9569 
+led Apollo_program.txt 3 722 10062 10116 
+chose Apollo_program.txt 2 592 1427 
+degree Apollo_program.txt 1 9257 
+anorthositic Apollo_program.txt 1 8333 
+lem Apollo_program.txt 3 2888 2931 3214 
+following Apollo_program.txt 2 6990 10029 
+explore Apollo_program.txt 1 9697 
+les Apollo_program.txt 2 3937 3987 
+ferry Apollo_program.txt 2 3199 8898 
+consideration Apollo_program.txt 1 2607 
+great Apollo_program.txt 1 1160 
+technical Apollo_program.txt 2 867 2552 
+32 Apollo_program.txt 2 4744 4866 
+31 Apollo_program.txt 3 7147 7841 9175 
+30 Apollo_program.txt 4 686 899 7957 8867 
+37 Apollo_program.txt 2 5121 6524 
+36 Apollo_program.txt 1 7138 
+35 Apollo_program.txt 1 1732 
+34 Apollo_program.txt 1 3724 
+survey Apollo_program.txt 1 6422 
+opinion Apollo_program.txt 1 2950 
+climb Apollo_program.txt 1 1727 
+honor Apollo_program.txt 4 1826 1981 4872 6260 
+thats Apollo_program.txt 2 2837 7181 
+holmes Apollo_program.txt 1 2207 
+redesignated Apollo_program.txt 1 5517 
+named Apollo_program.txt 2 561 1950 
+avionics Apollo_program.txt 1 497 
+11s Apollo_program.txt 1 9889 
+deputy Apollo_program.txt 6 636 2172 2193 2648 5758 7901 
+win Apollo_program.txt 1 1808 
+black-and-white Apollo_program.txt 1 7169 
+aboard Apollo_program.txt 2 5397 6923 
+standing Apollo_program.txt 1 9221 
+use Apollo_program.txt 9 3062 3894 4299 5678 6116 6711 7391 7622 8893 
+from Apollo_program.txt 46 38 206 670 1567 1627 2331 2678 2715 3168 3264 3295 3615 3833 4174 4197 4265 4770 4778 4913 5033 5119 5665 5864 5967 6522 6701 6781 7646 7764 8143 8151 8194 8216 8226 8238 8247 8422 8817 8918 9242 9625 10044 10152 10184 10255 10282 
+remains Apollo_program.txt 1 9266 
+next Apollo_program.txt 3 6300 6597 6886 
+camera Apollo_program.txt 6 5172 7293 9996 10072 10136 10175 
+vehicle Apollo_program.txt 13 2012 2014 2564 2595 2760 2776 3493 4031 4038 4092 5893 7567 7922 
+geologist Apollo_program.txt 3 4741 4827 8058 
+themselves Apollo_program.txt 2 804 2788 
+stage Apollo_program.txt 21 3487 3679 3695 3871 4109 4134 4155 4331 4347 4385 4536 4567 5132 5649 5656 5687 6560 6585 6694 8924 8951 
+bureaucracy Apollo_program.txt 1 9841 
+upcoming Apollo_program.txt 1 7681 
+started Apollo_program.txt 3 1904 3501 3805 
+occurred Apollo_program.txt 1 5175 
+visibility Apollo_program.txt 2 5336 7596 
+missile Apollo_program.txt 7 774 789 2249 2914 3999 9494 9530 
+carrying Apollo_program.txt 3 4181 4230 6463 
+baby Apollo_program.txt 1 590 
+disabling Apollo_program.txt 1 7382 
+appointed Apollo_program.txt 1 891 
+842 Apollo_program.txt 2 435 8161 
+depiction Apollo_program.txt 1 9757 
+f Apollo_program.txt 7 73 751 5387 6378 7025 7280 7708 
+this Apollo_program.txt 36 1084 1166 1193 1203 1226 1717 1753 2581 2946 3027 3955 4075 4199 4973 5173 5655 5871 5944 6360 6603 6628 6896 7651 7828 7908 8291 8486 8541 8569 8749 8787 8902 9387 9738 10006 10276 
+challenge Apollo_program.txt 3 1704 1788 2381 
+stations Apollo_program.txt 1 1330 
+of Apollo_program.txt 268 78 95 221 229 272 274 277 356 439 451 472 488 566 618 651 770 780 809 822 854 869 910 957 1024 1049 1091 1207 1241 1261 1313 1319 1328 1350 1450 1457 1464 1493 1550 1624 1691 1781 1827 1916 1926 1937 1982 2033 2093 2179 2219 2287 2311 2382 2444 2489 2505 2539 2544 2592 2601 2608 2622 2632 2650 2653 2663 2686 2842 2906 2918 2927 2945 2974 3003 3017 3020 3063 3120 3150 3188 3281 3488 3506 3585 3659 3666 3740 3750 3801 3826 3841 3866 3882 3940 3954 4129 4148 4205 4221 4237 4247 4324 4372 4377 4386 4437 4543 4572 4602 4619 4633 4695 4712 4716 4726 4735 4742 4856 4858 4867 4910 4946 5024 5054 5128 5145 5160 5185 5247 5357 5433 5478 5574 5589 5674 5685 5752 5829 5902 5926 6013 6018 6043 6096 6113 6117 6122 6131 6146 6200 6274 6312 6323 6407 6459 6474 6516 6582 6627 6722 6730 6735 6832 6871 6948 6977 7060 7104 7122 7135 7254 7270 7334 7419 7421 7447 7464 7482 7494 7509 7534 7577 7612 7664 7679 7778 7799 7876 7897 7976 7985 8026 8036 8102 8111 8134 8163 8177 8255 8298 8310 8344 8361 8390 8405 8410 8431 8439 8441 8457 8480 8492 8612 8616 8632 8648 8666 8675 8679 8690 8716 8732 8758 8799 8815 8908 8952 8986 9018 9124 9147 9184 9203 9225 9286 9322 9335 9347 9464 9473 9513 9518 9526 9559 9561 9605 9614 9632 9642 9645 9659 9667 9670 9677 9751 9758 9768 9781 9806 9832 9887 9904 9918 9922 10041 10113 10144 10286 
+industrial Apollo_program.txt 1 1496 
+meet Apollo_program.txt 1 2388 
+apollo-soyuz Apollo_program.txt 1 9050 
+dropped Apollo_program.txt 1 3049 
+control Apollo_program.txt 7 1642 1992 2123 3315 3320 3705 6039 
+wearing Apollo_program.txt 1 5310 
+links Apollo_program.txt 1 10299 
+process Apollo_program.txt 1 8363 
+high Apollo_program.txt 5 2144 5958 5965 8394 9567 
+effectively Apollo_program.txt 2 2162 2237 
+something Apollo_program.txt 1 9280 
+slip Apollo_program.txt 1 5592 
+united Apollo_program.txt 6 14 1112 2264 2954 8585 9515 
+docking Apollo_program.txt 3 3542 3580 6996 
+destroying Apollo_program.txt 1 10178 
+six Apollo_program.txt 3 180 280 4136 
+s-ii Apollo_program.txt 2 5647 6676 
+delay Apollo_program.txt 1 6431 
+instead Apollo_program.txt 5 5144 6121 6322 6831 6879 
+establishment Apollo_program.txt 1 2543 
+profile Apollo_program.txt 3 4982 4993 6721 
+administrator Apollo_program.txt 14 637 893 1605 2112 2170 2173 2195 2204 2514 4960 5704 5759 6045 8507 
+singular Apollo_program.txt 1 9797 
+specifications Apollo_program.txt 2 657 7439 
+collection Apollo_program.txt 1 7763 
+ronald Apollo_program.txt 1 8051 
+s-ib Apollo_program.txt 1 4329 
+footpath Apollo_program.txt 1 9316 
+realized Apollo_program.txt 2 2114 2252 
+highlands Apollo_program.txt 2 7994 8240 
+martins Apollo_program.txt 1 1421 
+light Apollo_program.txt 2 567 7663 
+lines Apollo_program.txt 1 6668 
+remedy Apollo_program.txt 1 6093 
+courage Apollo_program.txt 1 4883 
+allow Apollo_program.txt 1 7592 
+96,800-pound Apollo_program.txt 1 4514 
+rille Apollo_program.txt 1 7960 
+houston Apollo_program.txt 4 1596 1688 7738 8174 
+closely Apollo_program.txt 1 6636 
+in-house Apollo_program.txt 1 718 
+meter Apollo_program.txt 1 2003 
+hadley Apollo_program.txt 1 7959 
+130 Apollo_program.txt 1 1996 
+including Apollo_program.txt 5 496 2461 2644 8594 10236 
+superior Apollo_program.txt 1 2296 
+lb Apollo_program.txt 2 7984 8162 
+chosen Apollo_program.txt 4 1594 2586 3037 4769 
+lm Apollo_program.txt 27 130 3044 3220 3603 3610 3709 4412 4493 4679 5254 5268 6203 6215 6336 6387 6447 6517 6542 6598 6620 6845 6992 7023 7053 7393 7498 7579 
+scientist-astronaut Apollo_program.txt 1 8057 
+willing Apollo_program.txt 1 1794 
+choose Apollo_program.txt 3 1716 1739 1746 
+2015 Apollo_program.txt 1 9474 
+covered Apollo_program.txt 2 3304 6409 
+2016 Apollo_program.txt 3 1471 8747 8833 
+2010 Apollo_program.txt 2 8812 8828 
+2012 Apollo_program.txt 1 9090 
+designs Apollo_program.txt 3 738 1349 3300 
+campaigned Apollo_program.txt 1 2485 
+crash Apollo_program.txt 1 978 
+greater Apollo_program.txt 4 2128 5335 7593 9535 
+practice Apollo_program.txt 1 1623 
+flew Apollo_program.txt 3 4161 4701 4920 
+13s Apollo_program.txt 1 7804 
+direct-ascent Apollo_program.txt 1 3163 
+front Apollo_program.txt 1 2841 
+documented Apollo_program.txt 1 5727 
+day Apollo_program.txt 1 967 
+landings Apollo_program.txt 12 256 284 557 4532 4808 6417 6429 7204 7226 7338 8849 9855 
+worlds Apollo_program.txt 1 6964 
+february Apollo_program.txt 5 5049 5627 5885 7815 9037 
+edit Apollo_program.txt 46 503 625 742 1257 1532 1839 2111 2356 3103 3238 3595 3772 3921 4009 4312 4444 4598 4983 4995 4998 5002 5198 5551 5794 6217 6760 7205 7603 7919 8107 8126 8466 8838 9084 9437 9441 9570 9878 10222 10224 10238 10273 10275 10294 10297 10300 
+university Apollo_program.txt 3 1603 1657 8530 
+identified Apollo_program.txt 1 3058 
+rockets Apollo_program.txt 3 341 1874 8762 
+mode Apollo_program.txt 6 2355 2430 2579 2587 2605 6569 
+shortage Apollo_program.txt 1 10034 
+references Apollo_program.txt 1 10293 
+ablative Apollo_program.txt 1 3307 
+frequency Apollo_program.txt 1 4244 
+sands Apollo_program.txt 1 3998 
+measure Apollo_program.txt 1 1778 
+skylabs Apollo_program.txt 1 9030 
+our Apollo_program.txt 3 1186 1719 1782 
+patch Apollo_program.txt 2 6769 7216 
+special Apollo_program.txt 3 1140 2551 9993 
+out Apollo_program.txt 10 20 660 786 1206 2835 7030 7376 7414 9307 9309 
+defend Apollo_program.txt 1 2787 
+postpone Apollo_program.txt 1 1802 
+cause Apollo_program.txt 2 5700 7411 
+integrated Apollo_program.txt 1 9503 
+announced Apollo_program.txt 11 641 692 1403 1607 2189 2693 2924 5417 5457 6943 9105 
+shut Apollo_program.txt 1 6678 
+frank Apollo_program.txt 1 6953 
+interplanetary Apollo_program.txt 1 8971 
+completely Apollo_program.txt 1 8349 
+york Apollo_program.txt 1 9276 
+advisor Apollo_program.txt 1 2720 
+thrust Apollo_program.txt 7 3531 4130 4149 4334 4373 4542 4576 
+20,000 Apollo_program.txt 1 1495 
+eor-lor Apollo_program.txt 1 2604 
+g Apollo_program.txt 2 6398 7088 
+fueled Apollo_program.txt 4 3452 4408 4490 5894 
+dubbed Apollo_program.txt 2 8274 8996 
+could Apollo_program.txt 15 526 1057 1293 2085 2256 2387 3056 4287 4393 5999 6302 8494 8945 9304 9545 
+florida Apollo_program.txt 3 1637 1858 7715 
+keep Apollo_program.txt 3 2119 6898 7913 
+counterpart Apollo_program.txt 1 8329 
+qualification Apollo_program.txt 2 3951 3983 
+retain Apollo_program.txt 1 9262 
+designed Apollo_program.txt 9 1516 3259 3457 3612 3638 3652 4485 5316 10066 
+evans Apollo_program.txt 1 8053 
+blown Apollo_program.txt 1 9236 
+improvements Apollo_program.txt 1 10218 
+reached Apollo_program.txt 4 2709 2959 5051 5079 
+awarded Apollo_program.txt 6 701 3755 4864 4897 4938 9113 
+quality Apollo_program.txt 2 6038 10217 
+management Apollo_program.txt 5 2130 2145 2286 7898 8773 
+publication Apollo_program.txt 1 9816 
+unknown Apollo_program.txt 2 6308 9267 
+system Apollo_program.txt 8 3316 3384 3706 3936 3956 7019 8258 9809 
+their Apollo_program.txt 11 127 974 2079 2690 4956 5811 5830 5920 6264 8780 9263 
+nitrogen/oxygen Apollo_program.txt 1 6119 
+final Apollo_program.txt 7 414 2872 3186 5419 7514 8081 8630 
+cabin Apollo_program.txt 9 234 668 677 3258 3699 5802 5952 5972 6133 
+completed Apollo_program.txt 3 1814 2051 7847 
+lists Apollo_program.txt 1 5573 
+environmental Apollo_program.txt 2 9713 9753 
+simulate Apollo_program.txt 1 5854 
+july Apollo_program.txt 17 132 161 201 633 1501 1906 2185 2342 2558 2797 5177 7084 7096 7128 7179 7940 7956 
+overwhelming Apollo_program.txt 1 10111 
+loved Apollo_program.txt 1 9589 
+photograph Apollo_program.txt 3 9385 9572 9685 
+liquid Apollo_program.txt 8 3386 3389 4113 4137 4361 4562 5155 7378 
+isolation Apollo_program.txt 1 9763 
+circumspect Apollo_program.txt 1 990 
+110.6 Apollo_program.txt 1 4509 
+briefing Apollo_program.txt 1 2700 
+visited Apollo_program.txt 1 1699 
+providing Apollo_program.txt 1 3124 
+distinguished Apollo_program.txt 3 4874 4879 4969 
+steer Apollo_program.txt 1 3324 
+exhibit Apollo_program.txt 1 2987 
+re-entered Apollo_program.txt 1 9044 
+have Apollo_program.txt 9 2154 2958 2968 4281 5492 6535 8335 10128 10245 
+chambers Apollo_program.txt 1 2091 
+need Apollo_program.txt 1 9536 
+clearly Apollo_program.txt 2 1171 9317 
+acceleration Apollo_program.txt 1 909 
+documents Apollo_program.txt 2 3025 10285 
+min Apollo_program.txt 1 1662 
+agency Apollo_program.txt 2 905 9141 
+able Apollo_program.txt 3 6686 6709 9394 
+which Apollo_program.txt 46 29 59 98 302 345 354 1177 1523 1558 1669 2009 2066 2105 2345 2445 2673 3156 3221 3563 4233 4286 4548 5161 5181 5577 5852 5922 6114 6277 6554 6614 6665 6803 7261 7327 7412 7855 8324 8375 8728 8944 9120 9234 9259 9740 9997 
+techniques Apollo_program.txt 1 8211 
+visor Apollo_program.txt 1 5325 
+medals Apollo_program.txt 2 4895 4971 
+who Apollo_program.txt 10 577 2279 2659 2723 2751 4639 4665 5354 9845 10061 
+earlierand Apollo_program.txt 1 1274 
+combustion Apollo_program.txt 1 6664 
+eight Apollo_program.txt 2 4118 7483 
+preliminary Apollo_program.txt 4 656 3109 7480 8477 
+spacesuit Apollo_program.txt 4 5250 5315 6077 7584 
+medal Apollo_program.txt 2 4876 4944 
+why Apollo_program.txt 4 1710 1715 1726 1731 
+lee Apollo_program.txt 1 5738 
+pounds-force Apollo_program.txt 7 4126 4145 4337 4369 4545 4553 4580 
+stranded Apollo_program.txt 1 9374 
+request Apollo_program.txt 1 2880 
+atwood Apollo_program.txt 1 5739 
+nobodys Apollo_program.txt 1 9972 
+rendezvous Apollo_program.txt 6 2419 3191 3509 3632 3897 6994 
+j-2 Apollo_program.txt 1 4358 
+fact Apollo_program.txt 1 9702 
+atmosphere Apollo_program.txt 5 3644 5962 6498 8386 9046 
+selection Apollo_program.txt 3 2926 3505 5421 
+text Apollo_program.txt 2 1254 1810 
+agreed Apollo_program.txt 2 2301 2326 
+supported Apollo_program.txt 5 362 907 3117 3364 4224 
+centralized Apollo_program.txt 1 9839 
+prelaunch Apollo_program.txt 1 243 
+edgar Apollo_program.txt 1 7826 
+parked Apollo_program.txt 1 9412 
+fear Apollo_program.txt 1 2917 
+feat Apollo_program.txt 1 6935 
+decade Apollo_program.txt 2 1204 1754 
+staff Apollo_program.txt 1 2310 
+apollo Apollo_program.txt 176 0 4 10 66 116 165 199 204 232 287 337 351 382 400 415 481 505 537 605 628 643 856 1484 1528 1544 1850 2069 2083 2120 2164 2322 2330 2374 2411 2570 2982 3073 3106 3110 3241 3244 3283 3298 3598 3601 3774 3792 3856 3917 3928 4019 4023 4226 4428 4453 4472 4603 4605 4625 4659 4662 4692 4762 4766 4810 4813 4847 4860 4914 4927 5003 5025 5147 5189 5313 5365 5370 5545 5640 5791 5797 5800 5813 6060 6089 6226 6244 6256 6451 6507 6539 6611 6723 6731 6740 6761 6778 6808 6873 6949 7004 7032 7093 7206 7225 7249 7355 7440 7475 7607 7653 7769 7803 7811 7878 7892 7933 7935 7988 8031 8038 8068 8112 8115 8144 8152 8155 8271 8288 8322 8618 8633 8734 8816 8835 8841 8856 8859 8862 8929 8941 9027 9055 9126 9152 9186 9199 9214 9231 9288 9324 9340 9407 9448 9460 9508 9527 9563 9575 9606 9679 9692 9709 9731 9774 9859 9872 9881 9888 9924 9994 10153 10230 10240 10249 10252 
+based Apollo_program.txt 3 2241 6725 8789 
+knowledge Apollo_program.txt 1 5503 
+should Apollo_program.txt 3 1195 2533 3557 
+bernard Apollo_program.txt 1 2298 
+unable Apollo_program.txt 1 9364 
+tape Apollo_program.txt 1 10033 
+orloff Apollo_program.txt 1 8122 
+fuel Apollo_program.txt 4 3380 4363 5157 6667 
+riding Apollo_program.txt 1 606 
+he Apollo_program.txt 14 99 603 792 843 859 862 2124 2136 2153 2269 2346 2501 2520 8539 
+thousands Apollo_program.txt 1 8689 
+astronomical Apollo_program.txt 1 8460 
+achieve Apollo_program.txt 6 1115 6286 6632 6648 7755 9824 
+photographs Apollo_program.txt 2 7157 9285 
+exceptional Apollo_program.txt 1 4942 
+beat Apollo_program.txt 1 9792 
+succeeded Apollo_program.txt 1 9775 
+vehicles Apollo_program.txt 7 344 1522 2081 3771 3813 4416 4460 
+120 Apollo_program.txt 1 8830 
+joint Apollo_program.txt 4 374 1022 1306 9060 
+bean Apollo_program.txt 2 7243 7285 
+ones Apollo_program.txt 2 6301 9590 
+procedures Apollo_program.txt 1 6109 
+areas Apollo_program.txt 2 487 9463 
+unacceptably Apollo_program.txt 1 9566 
+h Apollo_program.txt 4 1933 6415 7780 8061 
+uprated Apollo_program.txt 1 4301 
+subjected Apollo_program.txt 2 8392 8433 
+processed Apollo_program.txt 1 10169 
+nosecone Apollo_program.txt 1 5143 
+available Apollo_program.txt 1 7675 
+official Apollo_program.txt 2 3146 6225 
+variations Apollo_program.txt 1 4994 
+national Apollo_program.txt 7 23 76 823 1147 8708 10046 10288 
+shake Apollo_program.txt 1 10176 
+humans Apollo_program.txt 1 34 
+we Apollo_program.txt 12 1073 1738 1745 1792 1798 1805 8553 9303 9350 9694 9946 9949 
+module Apollo_program.txt 48 129 151 330 667 673 683 1361 1365 2887 3088 3116 3153 3184 3213 3219 3237 3243 3252 3339 3362 3367 3419 3426 3546 3594 3600 3609 3636 3729 3753 3858 5104 5109 5298 5303 5771 6034 6054 6491 6645 6714 7274 7385 8879 8955 9155 9252 9410 
+computer Apollo_program.txt 2 6551 9477 
+merits Apollo_program.txt 1 2688 
+goddard Apollo_program.txt 1 9981 
+closer Apollo_program.txt 1 5882 
+televised Apollo_program.txt 4 7081 7575 9612 9908 
+thumb Apollo_program.txt 1 9600 
+favor Apollo_program.txt 2 2432 2600 
+identification Apollo_program.txt 1 6734 
+progress Apollo_program.txt 2 1341 4889 
+neither Apollo_program.txt 1 1075 
+frustrated Apollo_program.txt 1 5932 
+ken Apollo_program.txt 1 8007 
+ability Apollo_program.txt 1 4881 
+opening Apollo_program.txt 1 6157 
+strides Apollo_program.txt 1 1156 
+job Apollo_program.txt 1 2146 
+hypothesis Apollo_program.txt 1 8449 
+joe Apollo_program.txt 5 3781 3919 3925 3964 3971 
+key Apollo_program.txt 1 1184 
+selene Apollo_program.txt 1 9143 
+outer Apollo_program.txt 1 8342 
+configuration Apollo_program.txt 2 2412 3289 
+s-band Apollo_program.txt 1 3394 
+lifeboat Apollo_program.txt 3 333 3013 3046 
+taking Apollo_program.txt 2 7156 9782 
+april Apollo_program.txt 7 924 1030 6219 6607 7265 7365 7996 
+direct-return Apollo_program.txt 1 6640 
+publicized Apollo_program.txt 1 7478 
+22,500-pound Apollo_program.txt 1 4275 
+mercury/gemini Apollo_program.txt 1 5447 
+webbs Apollo_program.txt 3 2215 2271 8587 
+highland Apollo_program.txt 1 8312 
+safely Apollo_program.txt 7 88 157 325 1217 3101 6986 7177 
+strongly Apollo_program.txt 1 5742 
+jim Apollo_program.txt 1 6956 
+cm Apollo_program.txt 2 3253 4674 
+wall Apollo_program.txt 1 5974 
+gave Apollo_program.txt 1 5749 
+allocated Apollo_program.txt 1 5511 
+erased Apollo_program.txt 1 9938 
+accomplishing Apollo_program.txt 2 9777 9795 
+rusty Apollo_program.txt 1 5445 
+powered Apollo_program.txt 1 4354 
+tremendous Apollo_program.txt 1 9833 
+proposal Apollo_program.txt 3 1012 1263 2882 
+waste Apollo_program.txt 1 6854 
+louisiana Apollo_program.txt 1 7730 
+ballast Apollo_program.txt 1 6624 
+suggested Apollo_program.txt 1 6867 
+huntsville Apollo_program.txt 2 1513 7722 
+sufficient Apollo_program.txt 2 249 4404 
+earth-orbital Apollo_program.txt 2 6504 6801 
+controller Apollo_program.txt 1 2294 
+ensuring Apollo_program.txt 1 982 
+general Apollo_program.txt 4 703 705 2275 3976 
+us-ussr Apollo_program.txt 1 1307 
+present Apollo_program.txt 1 6205 
+atmospheric Apollo_program.txt 2 2095 3326 
+will Apollo_program.txt 3 1228 1245 1773 
+180,000 Apollo_program.txt 1 3884 
+11-day Apollo_program.txt 1 6800 
+promoted Apollo_program.txt 1 5530 
+1517 Apollo_program.txt 1 7926 
+frustrating Apollo_program.txt 1 5986 
+piloting Apollo_program.txt 1 674 
+rename Apollo_program.txt 1 1974 
+noticed Apollo_program.txt 1 5915 
+almost Apollo_program.txt 3 2963 8296 8355 
+delaying Apollo_program.txt 1 2789 
+thus Apollo_program.txt 1 3524 
+site Apollo_program.txt 3 1592 9196 9326 
+surface Apollo_program.txt 26 140 3171 3229 3686 3690 3719 3738 3863 4723 5340 6980 7063 7079 7142 7155 7201 7290 7546 7845 7971 8022 8090 9135 9163 9192 9245 
+weighed Apollo_program.txt 5 3353 3445 3466 3711 3730 
+vs Apollo_program.txt 2 7467 7701 
+against Apollo_program.txt 1 787 
+dual Apollo_program.txt 2 5271 5514 
+lightweight Apollo_program.txt 1 3662 
+sits Apollo_program.txt 1 9411 
+conical Apollo_program.txt 1 3256 
+sequentially Apollo_program.txt 1 4070 
+perhaps Apollo_program.txt 2 9327 9342 
+began Apollo_program.txt 9 1956 2637 3149 3794 4083 5898 5949 7659 9180 
+administration Apollo_program.txt 5 27 48 512 10050 10292 
+member Apollo_program.txt 2 1936 4436 
+strange Apollo_program.txt 1 5917 
+largest Apollo_program.txt 1 1462 
+shuttle Apollo_program.txt 2 7683 9076 
+infer Apollo_program.txt 1 8339 
+grandeur Apollo_program.txt 1 9337 
+difficult Apollo_program.txt 2 1248 2456 
+material Apollo_program.txt 3 7159 7987 10281 
+cubic Apollo_program.txt 2 1998 2002 
+conceived Apollo_program.txt 2 43 508 
+upon Apollo_program.txt 1 1960 
+controllers Apollo_program.txt 1 6707 
+paving Apollo_program.txt 1 9064 
+suborbital Apollo_program.txt 1 5036 
+judgment Apollo_program.txt 1 8505 
+moons Apollo_program.txt 3 453 4722 7200 
+discounted Apollo_program.txt 1 2536 
+center Apollo_program.txt 30 476 480 1510 1531 1537 1571 1585 1589 1643 1838 1844 1912 1928 1993 2223 2228 2235 2467 2636 2671 2832 2993 3846 5570 5844 7711 7720 7736 9984 10199 
+i Apollo_program.txt 27 581 1190 1871 3562 3591 3784 4008 4013 4045 4085 4164 4169 4264 4327 5029 5203 5213 6149 6164 6169 6418 6466 7519 9583 9953 9964 10089 
+well Apollo_program.txt 3 1724 2610 5651 
+nebulous Apollo_program.txt 1 1326 
+procurement Apollo_program.txt 2 1392 8757 
+command Apollo_program.txt 18 672 1359 3022 3115 3251 3366 3635 4610 5108 5218 5297 5378 6033 6053 6476 7273 9251 9485 
+103,600 Apollo_program.txt 1 4523 
+position Apollo_program.txt 1 1090 
+outgrow Apollo_program.txt 2 1621 1852 
+soviet Apollo_program.txt 6 376 765 927 952 6904 9785 
+drawing Apollo_program.txt 1 8994 
+usual Apollo_program.txt 1 6503 
+restore Apollo_program.txt 1 9900 
+newest Apollo_program.txt 1 1861 
+rocket Apollo_program.txt 9 1893 1945 3775 3802 3870 3914 3947 4017 4440 
+less Apollo_program.txt 1 8551 
+hybrid Apollo_program.txt 1 2603 
+accurate Apollo_program.txt 1 8603 
+executive Apollo_program.txt 1 1967 
+numbering Apollo_program.txt 2 4068 6228 
+dynamics/convair Apollo_program.txt 1 704 
+satellites Apollo_program.txt 1 4232 
+stored Apollo_program.txt 2 8181 10022 
+skill Apollo_program.txt 1 2403 
+1959 Apollo_program.txt 1 8818 
+circumlunar Apollo_program.txt 2 551 1332 
+headed Apollo_program.txt 2 2548 7367 
+capabilities Apollo_program.txt 1 1549 
+8,477 Apollo_program.txt 1 5066 
+book Apollo_program.txt 1 9631 
+adoption Apollo_program.txt 1 2944 
+halo Apollo_program.txt 1 9149 
+astronaut Apollo_program.txt 7 530 1281 2402 4781 4833 5353 9315 
+25,700 Apollo_program.txt 1 5092 
+borman Apollo_program.txt 1 6954 
+tests Apollo_program.txt 4 4105 5001 5828 6216 
+increased Apollo_program.txt 2 4332 4577 
+government Apollo_program.txt 1 9840 
+msfc Apollo_program.txt 4 1511 1515 2672 3908 
+nova-class Apollo_program.txt 1 3875 
+five Apollo_program.txt 4 163 276 4203 7502 
+press Apollo_program.txt 2 2795 2844 
+immediately Apollo_program.txt 4 846 1914 5907 6003 
+necessary Apollo_program.txt 3 1082 2160 6317 
+like Apollo_program.txt 5 586 3929 4024 9313 9386 
+success Apollo_program.txt 1 7333 
+schmitt Apollo_program.txt 5 4825 4849 8062 8063 8086 
+noted Apollo_program.txt 1 9817 
+sized Apollo_program.txt 2 3129 3515 
+james Apollo_program.txt 7 894 2938 5436 7949 8284 8501 9601 
+become Apollo_program.txt 2 2684 6841 
+conrad Apollo_program.txt 2 7238 7283 
+saweither Apollo_program.txt 1 9648 
+trans-lunar Apollo_program.txt 3 6483 6633 6704 
+replacement Apollo_program.txt 1 6145 
+exceed Apollo_program.txt 1 1547 
+because Apollo_program.txt 10 602 1761 1766 1770 1786 2905 3050 3496 4945 5184 
+propel Apollo_program.txt 1 9865 
+shea Apollo_program.txt 3 2658 2781 6068 
+footage Apollo_program.txt 1 10010 
+authority Apollo_program.txt 1 1576 
+choosing Apollo_program.txt 1 2352 
+home Apollo_program.txt 2 596 3100 
+transport Apollo_program.txt 1 3202 
+leap Apollo_program.txt 1 7190 
+demonstrated Apollo_program.txt 2 6486 6999 
+locate Apollo_program.txt 1 10084 
+taurus-littrow Apollo_program.txt 1 8043 
+noise Apollo_program.txt 1 10173 
+reaching Apollo_program.txt 1 4593 
+centaur Apollo_program.txt 1 4152 
+expansion Apollo_program.txt 1 1256 
+pressure Apollo_program.txt 7 740 2096 2814 5167 5959 5963 8395 
+although Apollo_program.txt 3 1412 2037 6586 
+90,000 Apollo_program.txt 1 4144 
+imaginary Apollo_program.txt 1 9435 
+loras Apollo_program.txt 1 2609 
+panel Apollo_program.txt 1 2761 
+gained Apollo_program.txt 1 2280 
+about Apollo_program.txt 14 865 942 3528 5018 5504 6775 7222 7609 7980 8217 8231 8663 9283 9974 
+actual Apollo_program.txt 1 3574 
+carried Apollo_program.txt 7 19 3331 3416 5141 6615 7029 7286 
+extension Apollo_program.txt 1 8860 
+getting Apollo_program.txt 1 5187 
+freedom Apollo_program.txt 1 1130 
+s-iv Apollo_program.txt 3 4132 4194 4350 
+recognized Apollo_program.txt 1 2583 
+surge Apollo_program.txt 1 9745 
+gagarins Apollo_program.txt 1 969 
+s-ic Apollo_program.txt 1 4534 
+discard Apollo_program.txt 1 1345 
+persuaded Apollo_program.txt 1 7910 
+23.9 Apollo_program.txt 1 8624 
+own Apollo_program.txt 4 717 2758 3313 3675 
+letters Apollo_program.txt 1 6319 
+wilderness Apollo_program.txt 1 2528 
+glenn Apollo_program.txt 1 709 
+creativity Apollo_program.txt 1 1459 
+commitment Apollo_program.txt 3 881 1001 1463 
+stan Apollo_program.txt 2 10059 10132 
+lovell Apollo_program.txt 3 6957 7358 9602 
+prompted Apollo_program.txt 1 10035 
+second-guess Apollo_program.txt 1 2768 
+vab Apollo_program.txt 1 2007 
+museum Apollo_program.txt 1 7703 
+soil Apollo_program.txt 2 443 8167 
+rcs Apollo_program.txt 2 3317 3375 
+development Apollo_program.txt 12 1923 3592 4795 4802 4996 5005 6758 6763 7678 8254 8686 8754 
+inner Apollo_program.txt 1 5973 
+biggest Apollo_program.txt 1 8677 
+recruited Apollo_program.txt 1 2137 
+function Apollo_program.txt 1 5235 
+fiscal Apollo_program.txt 1 8712 
+north Apollo_program.txt 10 1405 1433 1915 3473 5563 5630 5691 5720 5833 6047 
+effects Apollo_program.txt 1 8364 
+funds Apollo_program.txt 1 7674 
+earthrise Apollo_program.txt 1 9571 
+but Apollo_program.txt 24 285 832 837 915 1709 1765 1882 2689 2705 2765 2962 5391 5642 6391 6681 7294 7373 7783 8070 8485 8561 8597 9378 10106 
+construction Apollo_program.txt 7 471 1690 1925 1955 3663 3749 8775 
+goals Apollo_program.txt 1 1327 
+larger Apollo_program.txt 3 3181 3820 8910 
+delivers Apollo_program.txt 1 1010 
+highest Apollo_program.txt 2 1729 4871 
+partially Apollo_program.txt 2 4098 4407 
+made Apollo_program.txt 12 1474 2321 3839 3994 4294 4666 6101 7244 7305 7689 8524 10195 
+whether Apollo_program.txt 2 1289 6201 
+wish Apollo_program.txt 1 9948 
+j Apollo_program.txt 4 3768 6425 7521 7801 
+smooth Apollo_program.txt 1 2716 
+record Apollo_program.txt 1 7858 
+converted Apollo_program.txt 1 10015 
+200,000 Apollo_program.txt 1 4368 
+problem Apollo_program.txt 1 6659 
+minutes Apollo_program.txt 5 7139 7148 7313 7842 7854 
+contribute Apollo_program.txt 1 5499 
+mauro Apollo_program.txt 2 7371 7806 
+functions Apollo_program.txt 1 336 
+compared Apollo_program.txt 2 8200 8705 
+corporation Apollo_program.txt 3 3760 10076 10140 
+45 Apollo_program.txt 1 7312 
+percent Apollo_program.txt 3 900 8665 9512 
+detail Apollo_program.txt 1 9292 
+40 Apollo_program.txt 3 8544 9417 9426 
+kilograms Apollo_program.txt 1 7982 
+other Apollo_program.txt 5 795 1758 6914 9071 9130 
+details Apollo_program.txt 1 868 
+meteor Apollo_program.txt 1 2990 
+u Apollo_program.txt 1 9205 
+conclusion Apollo_program.txt 1 7875 
+repeat Apollo_program.txt 2 6718 6933 
+june Apollo_program.txt 2 2702 3889 
+stay Apollo_program.txt 2 3687 7551 
+24,000 Apollo_program.txt 1 3471 
+appoint Apollo_program.txt 1 5708 
+portion Apollo_program.txt 1 8343 
+validation Apollo_program.txt 4 5477 6332 6337 6348 
+activism Apollo_program.txt 1 9714 
+representative Apollo_program.txt 1 8309 

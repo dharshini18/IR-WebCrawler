@@ -1,0 +1,386 @@
+all Bow_shock.txt 1 312 
+planetary Bow_shock.txt 1 992 
+suns Bow_shock.txt 1 301 
+magnetic Bow_shock.txt 15 43 73 189 205 769 779 813 885 895 904 963 996 1007 1022 1038 
+lack Bow_shock.txt 1 471 
+results Bow_shock.txt 1 480 
+spacecraft Bow_shock.txt 2 457 484 
+follow Bow_shock.txt 1 201 
+magnetospheres Bow_shock.txt 1 993 
+gyrates Bow_shock.txt 1 215 
+to Bow_shock.txt 16 108 151 224 266 358 432 668 674 688 701 738 755 765 824 986 1005 
+spitzer/wise Bow_shock.txt 1 665 
+far Bow_shock.txt 1 541 
+ionospheres Bow_shock.txt 1 917 
+wave Bow_shock.txt 1 139 
+condition Bow_shock.txt 1 820 
+did Bow_shock.txt 1 661 
+notes Bow_shock.txt 1 1055 
+shock Bow_shock.txt 18 8 12 138 250 295 322 348 362 394 425 429 451 476 500 544 555 607 913 
+large Bow_shock.txt 1 847 
+venus Bow_shock.txt 2 804 921 
+findings Bow_shock.txt 1 486 
+draping Bow_shock.txt 5 770 780 811 964 1039 
+surrounding Bow_shock.txt 2 374 869 
+slowed Bow_shock.txt 1 878 
+further Bow_shock.txt 1 603 
+what Bow_shock.txt 1 794 
+sun Bow_shock.txt 4 342 381 442 512 
+bow-shocks Bow_shock.txt 2 691 732 
+current Bow_shock.txt 1 492 
+flowing Bow_shock.txt 3 53 62 937 
+shocks Bow_shock.txt 6 1 27 309 560 592 989 
+body Bow_shock.txt 1 945 
+component Bow_shock.txt 1 261 
+objects Bow_shock.txt 2 569 856 
+along Bow_shock.txt 3 204 477 815 
+obtained Bow_shock.txt 1 460 
+drops Bow_shock.txt 3 101 148 275 
+larger Bow_shock.txt 3 677 697 838 
+bow Bow_shock.txt 22 0 7 11 26 78 249 294 308 321 347 361 424 428 475 499 543 554 559 591 606 912 988 
+milky Bow_shock.txt 1 684 
+narrow Bow_shock.txt 1 981 
+hydrae Bow_shock.txt 2 552 558 
+visible Bow_shock.txt 1 595 
+from Bow_shock.txt 10 6 149 337 379 440 463 481 581 609 722 
+links Bow_shock.txt 1 1060 
+would Bow_shock.txt 1 421 
+theoretical Bow_shock.txt 1 490 
+more Bow_shock.txt 1 443 
+becomes Bow_shock.txt 3 389 419 1003 
+heliosphere Bow_shock.txt 3 346 368 533 
+known Bow_shock.txt 1 776 
+producing Bow_shock.txt 1 589 
+1995 Bow_shock.txt 1 25 
+this Bow_shock.txt 5 39 113 426 696 766 
+science Bow_shock.txt 1 682 
+mi Bow_shock.txt 2 328 336 
+can Bow_shock.txt 2 220 631 
+following Bow_shock.txt 1 600 
+making Bow_shock.txt 1 196 
+56,000 Bow_shock.txt 1 335 
+example Bow_shock.txt 4 57 291 915 950 
+impacts Bow_shock.txt 1 788 
+ambient Bow_shock.txt 3 36 54 858 
+super-alfvenic Bow_shock.txt 2 785 826 
+indicates Bow_shock.txt 1 469 
+orion Bow_shock.txt 2 14 616 
+230 Bow_shock.txt 1 438 
+occur Bow_shock.txt 1 310 
+provide Bow_shock.txt 1 922 
+get Bow_shock.txt 1 675 
+feature Bow_shock.txt 1 565 
+located Bow_shock.txt 1 331 
+criterion Bow_shock.txt 1 135 
+ordinary Bow_shock.txt 2 230 235 
+map Bow_shock.txt 1 689 
+galactic Bow_shock.txt 2 507 694 
+explorer Bow_shock.txt 1 467 
+spitzer Bow_shock.txt 2 648 724 
+alfven Bow_shock.txt 1 842 
+catalog Bow_shock.txt 3 667 679 698 
+plane Bow_shock.txt 1 695 
+date Bow_shock.txt 1 669 
+such Bow_shock.txt 3 315 792 871 
+data Bow_shock.txt 1 459 
+parallel Bow_shock.txt 1 265 
+a Bow_shock.txt 26 32 64 77 103 137 179 188 217 225 293 360 435 498 516 540 563 572 623 627 676 717 773 784 846 911 980 
+supersonic Bow_shock.txt 1 150 
+lines Bow_shock.txt 3 207 269 967 
+order Bow_shock.txt 1 68 
+wind Bow_shock.txt 14 18 61 99 125 200 257 302 354 387 403 705 799 932 954 
+wavelengths Bow_shock.txt 1 598 
+help Bow_shock.txt 1 700 
+w3/w4-channels Bow_shock.txt 1 653 
+thermal Bow_shock.txt 2 226 239 
+through Bow_shock.txt 1 509 
+existence Bow_shock.txt 1 608 
+its Bow_shock.txt 1 106 
+24 Bow_shock.txt 1 640 
+ll Bow_shock.txt 1 9 
+forms Bow_shock.txt 1 81 
+detected Bow_shock.txt 2 546 1042 
+categories Bow_shock.txt 1 1062 
+400 Bow_shock.txt 1 69 
+2016 Bow_shock.txt 1 657 
+defining Bow_shock.txt 1 134 
+image Bow_shock.txt 1 720 
+2012 Bow_shock.txt 1 462 
+them Bow_shock.txt 1 736 
+motivated Bow_shock.txt 1 488 
+combination Bow_shock.txt 1 517 
+prevented Bow_shock.txt 1 502 
+not Bow_shock.txt 1 763 
+association Bow_shock.txt 2 741 768 
+kilometres Bow_shock.txt 2 326 334 
+edit Bow_shock.txt 10 132 288 343 537 621 772 1054 1056 1058 1061 
+each Bow_shock.txt 1 211 
+side Bow_shock.txt 1 975 
+mean Bow_shock.txt 1 238 
+haro Bow_shock.txt 1 568 
+telescope Bow_shock.txt 2 650 726 
+astrophysical Bow_shock.txt 1 47 
+unmagnetized Bow_shock.txt 2 790 852 
+ionosphere Bow_shock.txt 3 802 935 961 
+et Bow_shock.txt 1 659 
+ic2602 Bow_shock.txt 1 751 
+description Bow_shock.txt 1 131 
+space Bow_shock.txt 2 649 725 
+particles Bow_shock.txt 3 195 273 282 
+induced Bow_shock.txt 1 899 
+occurs Bow_shock.txt 3 40 782 948 
+8m Bow_shock.txt 1 645 
+galaxies Bow_shock.txt 1 1051 
+bowshock Bow_shock.txt 1 715 
+formation Bow_shock.txt 1 496 
+brightest Bow_shock.txt 1 748 
+generate Bow_shock.txt 1 903 
+hubble Bow_shock.txt 1 24 
+interaction Bow_shock.txt 1 928 
+corroborating Bow_shock.txt 1 479 
+creates Bow_shock.txt 1 860 
+turn Bow_shock.txt 1 902 
+massive Bow_shock.txt 4 619 624 707 718 
+number Bow_shock.txt 1 850 
+reaches Bow_shock.txt 1 800 
+thick Bow_shock.txt 1 329 
+centaurus-crux Bow_shock.txt 1 758 
+earths Bow_shock.txt 1 320 
+similarly Bow_shock.txt 1 223 
+leading Bow_shock.txt 1 974 
+least Bow_shock.txt 1 504 
+advection Bow_shock.txt 1 897 
+which Bow_shock.txt 10 93 258 271 280 510 571 745 844 958 983 
+wrapped Bow_shock.txt 1 969 
+persei Bow_shock.txt 1 761 
+way Bow_shock.txt 1 685 
+that Bow_shock.txt 8 141 297 495 593 636 828 872 906 
+draped Bow_shock.txt 2 971 1021 
+forward Bow_shock.txt 1 253 
+optical Bow_shock.txt 1 597 
+than Bow_shock.txt 3 444 839 890 
+11 Bow_shock.txt 1 327 
+distance Bow_shock.txt 2 436 447 
+17 Bow_shock.txt 1 325 
+aims Bow_shock.txt 1 687 
+project Bow_shock.txt 2 683 686 
+r Bow_shock.txt 2 551 557 
+treated Bow_shock.txt 1 222 
+are Bow_shock.txt 5 283 561 594 733 968 
+and Bow_shock.txt 21 34 84 172 232 330 401 409 526 579 612 642 742 835 853 866 877 920 970 1027 1035 1050 
+ram Bow_shock.txt 1 1001 
+have Bow_shock.txt 1 487 
+any Bow_shock.txt 1 473 
+contents Bow_shock.txt 1 130 
+scorpiuscentaurus Bow_shock.txt 1 740 
+paths Bow_shock.txt 1 203 
+strength Bow_shock.txt 1 520 
+latter Bow_shock.txt 1 947 
+instance Bow_shock.txt 1 192 
+without Bow_shock.txt 1 933 
+absorbed Bow_shock.txt 1 941 
+ibex Bow_shock.txt 1 468 
+kobulnicky Bow_shock.txt 1 658 
+electric Bow_shock.txt 1 861 
+object Bow_shock.txt 8 48 791 810 836 865 978 1026 1037 
+heliopause Bow_shock.txt 1 408 
+most Bow_shock.txt 2 713 734 
+nasas Bow_shock.txt 1 464 
+mach Bow_shock.txt 1 849 
+outflow Bow_shock.txt 1 576 
+sometimes Bow_shock.txt 1 643 
+stronger Bow_shock.txt 1 574 
+redirected Bow_shock.txt 1 5 
+charged Bow_shock.txt 1 194 
+typically Bow_shock.txt 1 116 
+ophiuchi Bow_shock.txt 1 710 
+show Bow_shock.txt 1 602 
+infrared Bow_shock.txt 4 542 634 690 731 
+bright Bow_shock.txt 1 590 
+earth Bow_shock.txt 4 76 83 287 304 
+alfvenic Bow_shock.txt 1 848 
+ratio Bow_shock.txt 1 165 
+candidates Bow_shock.txt 1 673 
+local Bow_shock.txt 2 523 841 
+magnetopause Bow_shock.txt 2 110 306 
+means Bow_shock.txt 2 827 845 
+moons Bow_shock.txt 1 1045 
+famous Bow_shock.txt 1 714 
+magnetic-field Bow_shock.txt 1 525 
+saturn Bow_shock.txt 1 319 
+heats Bow_shock.txt 1 168 
+approach Bow_shock.txt 1 107 
+twice Bow_shock.txt 1 445 
+common Bow_shock.txt 2 180 564 
+where Bow_shock.txt 9 122 153 162 299 369 384 397 412 1012 
+around Bow_shock.txt 11 216 285 311 340 437 534 556 618 808 972 1043 
+relative Bow_shock.txt 4 65 529 830 1030 
+see Bow_shock.txt 1 1052 
+result Bow_shock.txt 1 104 
+away Bow_shock.txt 1 378 
+nebula Bow_shock.txt 3 15 22 617 
+wikipedia Bow_shock.txt 1 4 
+pressures Bow_shock.txt 1 404 
+between Bow_shock.txt 3 31 832 1032 
+conductive Bow_shock.txt 2 855 924 
+theta Bow_shock.txt 1 743 
+boundary Bow_shock.txt 5 30 80 91 114 466 
+encounters Bow_shock.txt 2 71 303 
+comparable Bow_shock.txt 1 1004 
+creating Bow_shock.txt 2 910 979 
+however Bow_shock.txt 1 458 
+article Bow_shock.txt 1 345 
+abruptly Bow_shock.txt 1 100 
+concentrated Bow_shock.txt 1 995 
+c Bow_shock.txt 1 158 
+region Bow_shock.txt 1 508 
+s Bow_shock.txt 1 305 
+passing Bow_shock.txt 1 514 
+magnetosphere Bow_shock.txt 1 33 
+best-studied Bow_shock.txt 1 290 
+nearby Bow_shock.txt 1 52 
+fields Bow_shock.txt 1 905 
+point Bow_shock.txt 3 383 396 411 
+environments Bow_shock.txt 1 925 
+deflected Bow_shock.txt 1 876 
+zeta Bow_shock.txt 1 709 
+runaway Bow_shock.txt 1 628 
+complication Bow_shock.txt 1 181 
+collides Bow_shock.txt 2 19 371 
+create Bow_shock.txt 1 662 
+been Bow_shock.txt 2 356 1041 
+magnetized Bow_shock.txt 4 37 86 313 938 
+much Bow_shock.txt 2 573 888 
+mars Bow_shock.txt 1 919 
+gas Bow_shock.txt 3 231 236 578 
+bulk Bow_shock.txt 2 143 252 
+wake Bow_shock.txt 1 817 
+external Bow_shock.txt 1 1059 
+an Bow_shock.txt 7 35 46 229 234 633 789 934 
+sound Bow_shock.txt 2 157 246 
+main Bow_shock.txt 1 344 
+these Bow_shock.txt 1 485 
+might Bow_shock.txt 1 752 
+will Bow_shock.txt 1 699 
+near Bow_shock.txt 2 547 1024 
+balance Bow_shock.txt 1 405 
+is Bow_shock.txt 30 89 115 140 159 163 169 173 184 241 259 296 323 391 406 494 501 513 626 637 711 721 746 837 875 887 940 984 1013 1019 1028 
+it Bow_shock.txt 4 88 214 370 630 
+encountered Bow_shock.txt 1 453 
+in Bow_shock.txt 19 2 13 182 228 233 461 505 538 566 570 614 639 644 656 692 901 962 990 1009 
+interacts Bow_shock.txt 3 49 584 955 
+currents Bow_shock.txt 2 862 900 
+if Bow_shock.txt 1 622 
+belong Bow_shock.txt 3 737 754 764 
+orionis Bow_shock.txt 1 10 
+largest Bow_shock.txt 1 664 
+several Bow_shock.txt 1 350 
+voyager Bow_shock.txt 2 456 483 
+meets Bow_shock.txt 1 126 
+closest Bow_shock.txt 1 728 
+lie Bow_shock.txt 1 433 
+effect Bow_shock.txt 3 771 775 781 
+deflect Bow_shock.txt 1 907 
+moving Bow_shock.txt 1 377 
+dust Bow_shock.txt 1 580 
+deflects Bow_shock.txt 1 807 
+lower Bow_shock.txt 1 757 
+roughly Bow_shock.txt 1 242 
+thought Bow_shock.txt 2 357 431 
+edge Bow_shock.txt 2 118 365 
+km/s Bow_shock.txt 1 70 
+termination Bow_shock.txt 2 393 450 
+the Bow_shock.txt 132 16 21 29 42 51 59 72 90 94 97 109 117 120 123 127 133 142 146 154 164 170 174 177 185 193 198 208 237 243 248 251 256 260 263 267 272 277 281 286 289 300 338 341 352 364 367 373 380 382 385 392 395 398 407 410 413 416 423 441 446 449 455 470 482 506 511 519 522 528 532 548 553 582 586 599 615 647 652 663 680 693 703 712 723 727 739 747 756 778 797 801 805 809 812 816 819 822 829 833 840 857 864 868 873 881 891 898 908 916 923 927 930 936 943 946 952 965 973 977 987 991 994 1000 1006 1010 1014 1017 1020 1025 1029 1033 1036 
+subgroup Bow_shock.txt 1 759 
+shape Bow_shock.txt 1 79 
+speed Bow_shock.txt 6 66 95 155 244 278 1031 
+density Bow_shock.txt 2 175 1015 
+thinking Bow_shock.txt 1 493 
+citizen Bow_shock.txt 1 681 
+bow-shock Bow_shock.txt 4 635 666 672 678 
+has Bow_shock.txt 3 355 959 1040 
+plasma Bow_shock.txt 9 55 147 178 613 786 870 939 1018 1034 
+astrosphere Bow_shock.txt 1 121 
+increases Bow_shock.txt 1 998 
+gyrating Bow_shock.txt 1 284 
+occurring Bow_shock.txt 1 298 
+particle Bow_shock.txt 1 212 
+specific Bow_shock.txt 1 167 
+herbig Bow_shock.txt 1 567 
+some Bow_shock.txt 1 489 
+ejections Bow_shock.txt 1 1049 
+jupiter Bow_shock.txt 1 317 
+images Bow_shock.txt 1 601 
+happens Bow_shock.txt 1 795 
+scale Bow_shock.txt 2 883 893 
+dense Bow_shock.txt 1 610 
+for Bow_shock.txt 10 56 82 111 191 349 821 851 914 926 949 
+moon Bow_shock.txt 1 957 
+flow Bow_shock.txt 10 23 388 414 787 806 818 823 834 874 909 
+does Bow_shock.txt 1 762 
+be Bow_shock.txt 3 221 422 825 
+electrically Bow_shock.txt 1 854 
+stellar Bow_shock.txt 4 98 124 704 767 
+pressure Bow_shock.txt 3 171 1002 1008 
+although Bow_shock.txt 1 307 
+90,000 Bow_shock.txt 1 333 
+by Bow_shock.txt 4 161 454 515 942 
+about Bow_shock.txt 3 270 324 332 
+of Bow_shock.txt 40 45 67 75 96 105 119 136 145 156 166 176 187 210 245 255 262 292 366 415 448 472 497 518 521 527 531 577 605 646 654 706 716 735 750 803 884 894 918 976 1016 
+or Bow_shock.txt 2 318 651 
+carinae Bow_shock.txt 1 744 
+presence Bow_shock.txt 1 186 
+into Bow_shock.txt 1 867 
+interstellar Bow_shock.txt 7 128 375 399 417 465 524 587 
+down Bow_shock.txt 1 879 
+non-conductive Bow_shock.txt 1 944 
+references Bow_shock.txt 1 1057 
+mass Bow_shock.txt 1 1048 
+709 Bow_shock.txt 1 671 
+refinements Bow_shock.txt 1 491 
+spiral Bow_shock.txt 1 202 
+gases Bow_shock.txt 1 611 
+collimated Bow_shock.txt 1 575 
+detectable Bow_shock.txt 1 638 
+stars Bow_shock.txt 6 17 112 536 620 708 729 
+astrophysics Bow_shock.txt 2 3 183 
+was Bow_shock.txt 2 430 545 
+medium Bow_shock.txt 6 38 129 376 400 418 588 
+form Bow_shock.txt 3 28 359 632 
+epsilon Bow_shock.txt 1 760 
+solar Bow_shock.txt 11 60 199 353 386 402 427 474 798 931 953 1046 
+line Bow_shock.txt 1 219 
+with Bow_shock.txt 10 20 50 63 372 478 585 670 730 929 956 
+decades Bow_shock.txt 1 351 
+also Bow_shock.txt 3 562 753 1053 
+wise Bow_shock.txt 1 655 
+inside Bow_shock.txt 1 863 
+up Bow_shock.txt 1 197 
+until Bow_shock.txt 1 999 
+planet Bow_shock.txt 1 339 
+below Bow_shock.txt 1 276 
+similar Bow_shock.txt 2 774 985 
+defined Bow_shock.txt 1 160 
+m Bow_shock.txt 1 641 
+al Bow_shock.txt 1 660 
+evidence Bow_shock.txt 1 604 
+as Bow_shock.txt 7 102 213 316 452 777 793 880 
+au Bow_shock.txt 1 439 
+at Bow_shock.txt 7 92 247 279 363 434 503 596 
+planets Bow_shock.txt 3 87 314 1044 
+sheath Bow_shock.txt 2 982 1011 
+no Bow_shock.txt 1 960 
+when Bow_shock.txt 5 41 58 783 796 951 
+subsonic Bow_shock.txt 3 152 390 420 
+field Bow_shock.txt 12 44 74 190 206 218 268 814 859 896 966 997 1023 
+other Bow_shock.txt 2 85 535 
+gyrate Bow_shock.txt 1 274 
+star Bow_shock.txt 6 550 583 625 629 719 749 
+coronal Bow_shock.txt 1 1047 
+velocity Bow_shock.txt 9 144 209 227 240 254 264 530 831 843 
+dissipation Bow_shock.txt 1 886 
+longer Bow_shock.txt 1 889 
+agb Bow_shock.txt 1 549 
+2006 Bow_shock.txt 1 539 
+time Bow_shock.txt 2 882 892 
+understand Bow_shock.txt 1 702 

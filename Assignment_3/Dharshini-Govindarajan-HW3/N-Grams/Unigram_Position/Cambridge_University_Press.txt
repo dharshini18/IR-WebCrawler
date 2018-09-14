@@ -1,0 +1,857 @@
+represent Cambridge_University_Press.txt 1 1241 
+all Cambridge_University_Press.txt 10 367 588 641 750 1181 1272 1440 1556 1635 2116 
+chinese Cambridge_University_Press.txt 2 1930 2023 
+licence Cambridge_University_Press.txt 1 2106 
+issued Cambridge_University_Press.txt 2 1028 1722 
+global Cambridge_University_Press.txt 4 111 1363 1862 2190 
+00755e Cambridge_University_Press.txt 1 2235 
+focus Cambridge_University_Press.txt 1 1934 
+khalid Cambridge_University_Press.txt 1 1668 
+four Cambridge_University_Press.txt 1 387 
+stature Cambridge_University_Press.txt 1 1066 
+jihad Cambridge_University_Press.txt 5 1619 1625 1644 1675 1731 
+assessment Cambridge_University_Press.txt 4 1260 1276 1293 1453 
+mill Cambridge_University_Press.txt 1 798 
+oldest Cambridge_University_Press.txt 4 39 176 184 1132 
+contributions Cambridge_University_Press.txt 1 1008 
+children Cambridge_University_Press.txt 1 1590 
+content Cambridge_University_Press.txt 2 1517 1546 
+52.1882n Cambridge_University_Press.txt 1 2236 
+centres Cambridge_University_Press.txt 1 2121 
+appointee Cambridge_University_Press.txt 1 2028 
+technique Cambridge_University_Press.txt 1 722 
+languages Cambridge_University_Press.txt 1 1470 
+to Cambridge_University_Press.txt 48 67 164 193 357 365 430 442 462 507 510 602 625 719 748 785 841 874 938 947 1009 1060 1081 1165 1179 1195 1257 1278 1345 1406 1454 1462 1506 1575 1583 1633 1697 1701 1725 1744 1867 1990 2017 2054 2088 2093 2125 2182 2194 
+stationers Cambridge_University_Press.txt 3 290 341 425 
+asking Cambridge_University_Press.txt 1 1699 
+under Cambridge_University_Press.txt 2 828 2099 
+quarterly Cambridge_University_Press.txt 1 1927 
+lord Cambridge_University_Press.txt 2 685 991 
+include Cambridge_University_Press.txt 1 1573 
+resources Cambridge_University_Press.txt 1 1438 
+hill Cambridge_University_Press.txt 1 1146 
+censorship Cambridge_University_Press.txt 1 1906 
+appointment Cambridge_University_Press.txt 1 950 
+bibles Cambridge_University_Press.txt 1 1395 
+infringement Cambridge_University_Press.txt 1 1903 
+billionaire Cambridge_University_Press.txt 1 1667 
+regional Cambridge_University_Press.txt 1 2119 
+medicine Cambridge_University_Press.txt 1 1386 
+formula Cambridge_University_Press.txt 1 1581 
+categories Cambridge_University_Press.txt 2 2240 2242 
+school Cambridge_University_Press.txt 1 1589 
+scholar Cambridge_University_Press.txt 1 435 
+immediately Cambridge_University_Press.txt 1 1978 
+did Cambridge_University_Press.txt 2 426 1766 
+rights Cambridge_University_Press.txt 1 2105 
+list Cambridge_University_Press.txt 2 868 1054 
+large Cambridge_University_Press.txt 1 765 
+race Cambridge_University_Press.txt 1 1574 
+excellence Cambridge_University_Press.txt 1 89 
+saudi Cambridge_University_Press.txt 1 1666 
+alms Cambridge_University_Press.txt 5 1617 1623 1642 1673 1729 
+phillips Cambridge_University_Press.txt 1 1351 
+charter Cambridge_University_Press.txt 1 364 
+employing Cambridge_University_Press.txt 1 783 
+mahfouz Cambridge_University_Press.txt 1 1670 
+hitachi Cambridge_University_Press.txt 1 1602 
+titles Cambridge_University_Press.txt 2 127 1684 
+booth Cambridge_University_Press.txt 1 2042 
+equal Cambridge_University_Press.txt 1 1044 
+growing Cambridge_University_Press.txt 1 1986 
+further Cambridge_University_Press.txt 1 68 
+chair Cambridge_University_Press.txt 2 1319 2021 
+even Cambridge_University_Press.txt 1 1124 
+what Cambridge_University_Press.txt 3 270 872 925 
+settlement Cambridge_University_Press.txt 2 1660 1824 
+stands Cambridge_University_Press.txt 1 285 
+richard Cambridge_University_Press.txt 1 436 
+incompatible Cambridge_University_Press.txt 1 1784 
+access Cambridge_University_Press.txt 3 2174 2197 2206 
+deleted Cambridge_University_Press.txt 1 1919 
+version Cambridge_University_Press.txt 4 399 402 897 1417 
+new Cambridge_University_Press.txt 2 404 1808 
+public Cambridge_University_Press.txt 1 2065 
+can Cambridge_University_Press.txt 1 2140 
+body Cambridge_University_Press.txt 1 493 
+edited Cambridge_University_Press.txt 1 1035 
+tibet Cambridge_University_Press.txt 1 1963 
+honour Cambridge_University_Press.txt 2 611 822 
+inauguration Cambridge_University_Press.txt 1 865 
+men Cambridge_University_Press.txt 1 1063 
+hours Cambridge_University_Press.txt 1 1672 
+hubs Cambridge_University_Press.txt 1 115 
+china Cambridge_University_Press.txt 3 1926 1937 2010 
+pursuit Cambridge_University_Press.txt 1 77 
+yards Cambridge_University_Press.txt 1 278 
+ernest Cambridge_University_Press.txt 1 1071 
+100 Cambridge_University_Press.txt 3 132 479 1680 
+octavo Cambridge_University_Press.txt 1 332 
+publishes Cambridge_University_Press.txt 5 124 1090 1378 1394 1432 
+publisher Cambridge_University_Press.txt 2 108 1863 
+great Cambridge_University_Press.txt 1 989 
+bible Cambridge_University_Press.txt 10 330 338 351 379 393 406 411 734 900 1420 
+daughter Cambridge_University_Press.txt 1 2004 
+ventures Cambridge_University_Press.txt 1 1572 
+involved Cambridge_University_Press.txt 1 694 
+through Cambridge_University_Press.txt 2 1547 1592 
+controversy Cambridge_University_Press.txt 3 1628 1748 1992 
+prior Cambridge_University_Press.txt 1 1989 
+1534 Cambridge_University_Press.txt 2 34 202 
+products Cambridge_University_Press.txt 2 1480 1526 
+oversees Cambridge_University_Press.txt 1 1295 
+published Cambridge_University_Press.txt 5 232 1018 1562 1591 2226 
+mid-eighteenth Cambridge_University_Press.txt 1 550 
+changes Cambridge_University_Press.txt 1 1508 
+options Cambridge_University_Press.txt 1 2169 
+tiananmen Cambridge_University_Press.txt 1 1944 
+marked Cambridge_University_Press.txt 1 963 
+brought Cambridge_University_Press.txt 2 937 1664 
+1902 Cambridge_University_Press.txt 1 1020 
+market Cambridge_University_Press.txt 2 1145 1367 
+announced Cambridge_University_Press.txt 1 1971 
+publishingthe Cambridge_University_Press.txt 1 1010 
+use Cambridge_University_Press.txt 2 665 720 
+fee Cambridge_University_Press.txt 1 2149 
+from Cambridge_University_Press.txt 10 130 189 279 500 711 839 1704 1924 2002 2115 
+russell Cambridge_University_Press.txt 1 244 
+would Cambridge_University_Press.txt 1 621 
+monographs Cambridge_University_Press.txt 1 139 
+two Cambridge_University_Press.txt 5 222 784 988 1305 1403 
+governance Cambridge_University_Press.txt 1 1186 
+intense Cambridge_University_Press.txt 1 1734 
+occupying Cambridge_University_Press.txt 1 790 
+few Cambridge_University_Press.txt 1 277 
+recommend Cambridge_University_Press.txt 1 1752 
+scope Cambridge_University_Press.txt 1 1045 
+type Cambridge_University_Press.txt 2 643 706 
+until Cambridge_University_Press.txt 2 433 1050 
+today Cambridge_University_Press.txt 1 1088 
+more Cambridge_University_Press.txt 1 119 
+unlatched Cambridge_University_Press.txt 1 2187 
+successful Cambridge_University_Press.txt 1 729 
+readers Cambridge_University_Press.txt 1 1743 
+company Cambridge_University_Press.txt 1 291 
+curriculum Cambridge_University_Press.txt 1 1577 
+it Cambridge_University_Press.txt 18 35 54 123 187 484 682 762 910 984 1089 1130 1782 1797 1837 1853 1859 1972 2061 
+basically Cambridge_University_Press.txt 1 1826 
+teaching Cambridge_University_Press.txt 6 145 1154 1287 1426 1435 1609 
+known Cambridge_University_Press.txt 4 499 876 1133 1225 
+aligned Cambridge_University_Press.txt 1 1461 
+producing Cambridge_University_Press.txt 2 206 654 
+appointed Cambridge_University_Press.txt 1 506 
+charity Cambridge_University_Press.txt 1 1645 
+me Cambridge_University_Press.txt 1 613 
+account Cambridge_University_Press.txt 1 1531 
+1992 Cambridge_University_Press.txt 1 1095 
+f Cambridge_University_Press.txt 1 994 
+this Cambridge_University_Press.txt 8 693 721 861 913 1117 1376 1889 1991 
+science Cambridge_University_Press.txt 2 1056 1384 
+originally Cambridge_University_Press.txt 1 1224 
+work Cambridge_University_Press.txt 2 586 2038 
+believes Cambridge_University_Press.txt 1 1523 
+printing Cambridge_University_Press.txt 10 249 264 299 315 352 467 567 571 635 1170 
+nine Cambridge_University_Press.txt 1 1023 
+publications Cambridge_University_Press.txt 2 148 1185 
+henry Cambridge_University_Press.txt 3 31 199 743 
+following Cambridge_University_Press.txt 1 1158 
+making Cambridge_University_Press.txt 3 689 695 1129 
+my Cambridge_University_Press.txt 2 589 594 
+history Cambridge_University_Press.txt 2 168 1016 
+indicated Cambridge_University_Press.txt 1 1798 
+stated Cambridge_University_Press.txt 1 2063 
+stanhope Cambridge_University_Press.txt 1 686 
+states Cambridge_University_Press.txt 2 1692 1817 
+guarded Cambridge_University_Press.txt 1 295 
+sought Cambridge_University_Press.txt 1 1682 
+keep Cambridge_University_Press.txt 1 1756 
+association Cambridge_University_Press.txt 2 1721 2209 
+educational Cambridge_University_Press.txt 4 107 854 1479 2077 
+english-language Cambridge_University_Press.txt 1 144 
+end Cambridge_University_Press.txt 2 432 1166 
+democracy Cambridge_University_Press.txt 1 1956 
+provide Cambridge_University_Press.txt 3 1180 1308 1455 
+holds Cambridge_University_Press.txt 1 56 
+patton Cambridge_University_Press.txt 2 1879 1887 
+stewardship Cambridge_University_Press.txt 1 830 
+1696 Cambridge_University_Press.txt 1 449 
+1697 Cambridge_University_Press.txt 1 452 
+freshly Cambridge_University_Press.txt 1 1034 
+bentleys Cambridge_University_Press.txt 1 487 
+explains Cambridge_University_Press.txt 1 302 
+1698 Cambridge_University_Press.txt 2 490 1217 
+mould Cambridge_University_Press.txt 2 697 713 
+badly Cambridge_University_Press.txt 1 679 
+buildings Cambridge_University_Press.txt 1 792 
+after Cambridge_University_Press.txt 3 50 1171 1683 
+hong Cambridge_University_Press.txt 1 1952 
+islamic Cambridge_University_Press.txt 1 1650 
+membership Cambridge_University_Press.txt 1 2148 
+united Cambridge_University_Press.txt 2 1691 1816 
+involvement Cambridge_University_Press.txt 1 2056 
+congressman Cambridge_University_Press.txt 1 1818 
+date Cambridge_University_Press.txt 1 307 
+president Cambridge_University_Press.txt 1 2008 
+1885 Cambridge_University_Press.txt 1 909 
+journals Cambridge_University_Press.txt 4 138 1093 1382 1559 
+response Cambridge_University_Press.txt 1 355 
+engineering Cambridge_University_Press.txt 1 1604 
+a Cambridge_University_Press.txt 35 94 110 153 263 276 380 445 458 492 527 658 675 696 703 889 932 971 976 1040 1207 1242 1258 1362 1594 1662 1695 1723 1807 1827 1861 1865 2145 2154 2189 2201 
+syndicates Cambridge_University_Press.txt 1 519 
+third Cambridge_University_Press.txt 1 1177 
+occasions Cambridge_University_Press.txt 1 2050 
+headquarters Cambridge_University_Press.txt 1 1198 
+perhaps Cambridge_University_Press.txt 1 1123 
+chief Cambridge_University_Press.txt 1 1348 
+responsibility Cambridge_University_Press.txt 2 1336 2059 
+allow Cambridge_University_Press.txt 1 745 
+subsequently Cambridge_University_Press.txt 2 1073 1707 
+software Cambridge_University_Press.txt 3 1578 1603 1607 
+began Cambridge_University_Press.txt 4 250 372 1059 1084 
+produces Cambridge_University_Press.txt 1 1606 
+over Cambridge_University_Press.txt 6 125 131 386 1091 1630 1920 
+mission Cambridge_University_Press.txt 2 65 71 
+murray Cambridge_University_Press.txt 1 942 
+years Cambridge_University_Press.txt 3 1024 1173 1555 
+produced Cambridge_University_Press.txt 1 726 
+cambridge Cambridge_University_Press.txt 41 0 9 13 25 90 100 149 170 197 217 234 252 329 418 732 739 939 1007 1011 1014 1110 1192 1200 1239 1275 1333 1358 1423 1429 1450 1522 1541 1550 1598 1848 1875 1883 1915 1997 2034 2230 
+london Cambridge_University_Press.txt 3 293 340 424 
+text-to-speech Cambridge_University_Press.txt 1 2164 
+committee Cambridge_University_Press.txt 6 521 1266 1268 1271 1282 1290 
+protests Cambridge_University_Press.txt 1 1988 
+still Cambridge_University_Press.txt 8 522 532 645 663 669 771 807 1727 
+its Cambridge_University_Press.txt 17 134 160 296 363 530 851 867 1099 1183 1255 1535 1639 1843 1850 1929 2052 2118 
+before Cambridge_University_Press.txt 1 944 
+delay Cambridge_University_Press.txt 1 304 
+27 Cambridge_University_Press.txt 1 1144 
+group Cambridge_University_Press.txt 6 1377 1392 1431 1446 1477 1585 
+21 Cambridge_University_Press.txt 1 1966 
+50,000 Cambridge_University_Press.txt 1 126 
+coordinates Cambridge_University_Press.txt 1 2233 
+production Cambridge_University_Press.txt 1 556 
+isaac Cambridge_University_Press.txt 1 241 
+re-post Cambridge_University_Press.txt 1 1979 
+2017 Cambridge_University_Press.txt 2 1914 1968 
+main Cambridge_University_Press.txt 4 575 1500 1621 1881 
+2010 Cambridge_University_Press.txt 2 1540 2087 
+2012 Cambridge_University_Press.txt 2 1161 1994 
+then Cambridge_University_Press.txt 1 708 
+them Cambridge_University_Press.txt 2 1700 2152 
+registrary Cambridge_University_Press.txt 1 474 
+material Cambridge_University_Press.txt 1 1909 
+commitment Cambridge_University_Press.txt 1 2053 
+framework Cambridge_University_Press.txt 1 1466 
+qualified Cambridge_University_Press.txt 2 2096 2134 
+they Cambridge_University_Press.txt 1 346 
+oxford Cambridge_University_Press.txt 5 51 228 894 929 948 
+now Cambridge_University_Press.txt 3 284 1175 1204 
+provision Cambridge_University_Press.txt 1 361 
+day Cambridge_University_Press.txt 1 659 
+developments Cambridge_University_Press.txt 1 1496 
+successor Cambridge_University_Press.txt 1 323 
+worlds Cambridge_University_Press.txt 1 38 
+edit Cambridge_University_Press.txt 18 169 1187 1357 1375 1427 1474 1497 1616 1620 1880 1910 2039 2175 2212 2214 2216 2218 2221 
+james Cambridge_University_Press.txt 3 472 941 1416 
+university Cambridge_University_Press.txt 36 1 10 14 23 45 52 91 98 150 166 171 185 195 212 229 248 257 464 477 512 546 570 608 740 837 1201 1237 1331 1359 1599 1876 1884 1901 1916 1995 2231 
+wooden Cambridge_University_Press.txt 1 650 
+undertook Cambridge_University_Press.txt 1 888 
+found Cambridge_University_Press.txt 1 623 
+entirely Cambridge_University_Press.txt 1 616 
+european Cambridge_University_Press.txt 1 1465 
+errata Cambridge_University_Press.txt 1 1713 
+individually Cambridge_University_Press.txt 1 671 
+development Cambridge_University_Press.txt 2 969 2024 
+financial Cambridge_University_Press.txt 1 1298 
+bentley Cambridge_University_Press.txt 1 437 
+house Cambridge_University_Press.txt 7 41 178 265 274 468 572 636 
+centuries Cambridge_University_Press.txt 1 388 
+bookshop Cambridge_University_Press.txt 3 283 1101 1134 
+breakthrough Cambridge_University_Press.txt 1 677 
+books Cambridge_University_Press.txt 14 207 370 561 667 753 1111 1380 1515 1551 1773 2091 2114 2143 2198 
+practising Cambridge_University_Press.txt 1 256 
+thirteen Cambridge_University_Press.txt 1 2180 
+begun Cambridge_University_Press.txt 2 903 1892 
+year Cambridge_University_Press.txt 2 528 1159 
+et Cambridge_University_Press.txt 1 1896 
+operation Cambridge_University_Press.txt 1 856 
+out Cambridge_University_Press.txt 3 359 1709 1832 
+much-reprinted Cambridge_University_Press.txt 1 731 
+freedom Cambridge_University_Press.txt 2 1786 1791 
+funding Cambridge_University_Press.txt 1 2195 
+opened Cambridge_University_Press.txt 2 1098 1156 
+electronic Cambridge_University_Press.txt 2 1493 1544 
+since Cambridge_University_Press.txt 4 209 1119 1216 1539 
+publish Cambridge_University_Press.txt 1 1407 
+research Cambridge_University_Press.txt 1 82 
+increase Cambridge_University_Press.txt 1 862 
+encourage Cambridge_University_Press.txt 1 1584 
+nominal Cambridge_University_Press.txt 1 2146 
+favours Cambridge_University_Press.txt 1 619 
+7 Cambridge_University_Press.txt 1 1813 
+print Cambridge_University_Press.txt 5 366 749 1184 2097 2135 
+surprise Cambridge_University_Press.txt 1 626 
+u.s Cambridge_University_Press.txt 1 1754 
+assurance Cambridge_University_Press.txt 1 1310 
+dictionary Cambridge_University_Press.txt 1 931 
+frank Cambridge_University_Press.txt 1 1819 
+million Cambridge_University_Press.txt 1 2001 
+eternal Cambridge_University_Press.txt 1 596 
+assistive Cambridge_University_Press.txt 1 2158 
+york Cambridge_University_Press.txt 1 1809 
+members Cambridge_University_Press.txt 1 1234 
+amazon.com Cambridge_University_Press.txt 1 1686 
+backed Cambridge_University_Press.txt 1 1974 
+delegated Cambridge_University_Press.txt 2 1254 1341 
+rutherford Cambridge_University_Press.txt 1 1072 
+beginning Cambridge_University_Press.txt 2 389 965 
+bookshare Cambridge_University_Press.txt 3 2085 2126 2147 
+language Cambridge_University_Press.txt 6 1153 1286 1425 1434 1452 1459 
+could Cambridge_University_Press.txt 1 1530 
+script Cambridge_University_Press.txt 1 769 
+days Cambridge_University_Press.txt 1 288 
+times Cambridge_University_Press.txt 2 526 1810 
+ministries Cambridge_University_Press.txt 1 1491 
+american Cambridge_University_Press.txt 1 1719 
+place Cambridge_University_Press.txt 1 1510 
+w Cambridge_University_Press.txt 1 995 
+support Cambridge_University_Press.txt 1 1770 
+first Cambridge_University_Press.txt 8 211 255 318 328 718 766 1030 1749 
+finest Cambridge_University_Press.txt 1 559 
+wikisource Cambridge_University_Press.txt 1 2222 
+remuneration Cambridge_University_Press.txt 1 1267 
+ethnic Cambridge_University_Press.txt 1 1958 
+primary Cambridge_University_Press.txt 2 1484 1588 
+one Cambridge_University_Press.txt 7 219 803 1002 1400 1582 1677 2178 
+revolution Cambridge_University_Press.txt 1 1951 
+done Cambridge_University_Press.txt 1 612 
+1870 Cambridge_University_Press.txt 1 905 
+cups Cambridge_University_Press.txt 1 1631 
+quality Cambridge_University_Press.txt 1 1309 
+size Cambridge_University_Press.txt 1 847 
+received Cambridge_University_Press.txt 1 1999 
+given Cambridge_University_Press.txt 2 439 1732 
+sheet Cambridge_University_Press.txt 1 1714 
+their Cambridge_University_Press.txt 4 618 1148 1761 2090 
+tensions Cambridge_University_Press.txt 1 1959 
+engagement Cambridge_University_Press.txt 1 2066 
+least Cambridge_University_Press.txt 1 1121 
+scholars Cambridge_University_Press.txt 1 496 
+cefr Cambridge_University_Press.txt 1 1472 
+needed Cambridge_University_Press.txt 1 680 
+mao Cambridge_University_Press.txt 1 1946 
+1505 Cambridge_University_Press.txt 1 1128 
+john Cambridge_University_Press.txt 3 237 324 543 
+hua Cambridge_University_Press.txt 1 2020 
+geneva Cambridge_University_Press.txt 2 337 392 
+that Cambridge_University_Press.txt 21 156 345 382 491 606 712 804 917 1046 1457 1514 1524 1579 1605 1753 1796 1799 1833 1835 1858 2064 
+completed Cambridge_University_Press.txt 1 907 
+baskervilles Cambridge_University_Press.txt 1 552 
+albert Cambridge_University_Press.txt 1 1068 
+part Cambridge_University_Press.txt 3 158 1657 2070 
+authors Cambridge_University_Press.txt 4 129 231 1076 1774 
+july Cambridge_University_Press.txt 1 451 
+1912 Cambridge_University_Press.txt 1 1022 
+chong Cambridge_University_Press.txt 1 2019 
+than Cambridge_University_Press.txt 1 120 
+milton Cambridge_University_Press.txt 1 238 
+king Cambridge_University_Press.txt 2 30 1415 
+hundred Cambridge_University_Press.txt 1 787 
+18 Cambridge_University_Press.txt 2 1232 1912 
+ebay Cambridge_University_Press.txt 1 1688 
+project Cambridge_University_Press.txt 1 1041 
+street Cambridge_University_Press.txt 2 796 1105 
+2020 Cambridge_University_Press.txt 1 1538 
+venture Cambridge_University_Press.txt 2 892 1596 
+were Cambridge_University_Press.txt 3 662 668 1803 
+distinctive Cambridge_University_Press.txt 1 1006 
+powers Cambridge_University_Press.txt 1 1256 
+interactive Cambridge_University_Press.txt 1 1611 
+and Cambridge_University_Press.txt 77 42 81 101 106 116 143 146 182 203 245 313 394 407 414 469 471 529 536 566 666 681 707 723 730 763 789 797 820 848 853 906 981 993 1021 1057 1070 1087 1151 1174 1203 1247 1269 1277 1283 1300 1311 1352 1381 1388 1396 1413 1437 1481 1486 1489 1494 1516 1520 1528 1568 1601 1646 1654 1687 1739 1775 1789 1795 1857 1957 1962 1976 2057 2060 2079 2112 2150 
+topics Cambridge_University_Press.txt 1 1936 
+occupies Cambridge_University_Press.txt 1 808 
+turned Cambridge_University_Press.txt 2 923 946 
+already Cambridge_University_Press.txt 1 1839 
+manner Cambridge_University_Press.txt 2 368 751 
+have Cambridge_University_Press.txt 5 235 622 1112 1560 1768 
+regards Cambridge_University_Press.txt 1 1938 
+clearly Cambridge_University_Press.txt 1 977 
+contents Cambridge_University_Press.txt 1 167 
+forced Cambridge_University_Press.txt 1 416 
+conversion Cambridge_University_Press.txt 1 2128 
+jealously Cambridge_University_Press.txt 1 294 
+built Cambridge_University_Press.txt 1 815 
+1966 Cambridge_University_Press.txt 1 1051 
+responsible Cambridge_University_Press.txt 1 509 
+consortium Cambridge_University_Press.txt 1 2192 
+also Cambridge_University_Press.txt 5 55 601 887 1393 2211 
+articles Cambridge_University_Press.txt 3 1923 1933 1981 
+subjects Cambridge_University_Press.txt 1 1246 
+f.c Cambridge_University_Press.txt 1 12 
+which Cambridge_University_Press.txt 6 300 813 901 935 1193 1262 
+online Cambridge_University_Press.txt 2 1552 1569 
+destroy Cambridge_University_Press.txt 1 1634 
+1882 Cambridge_University_Press.txt 1 842 
+techniques Cambridge_University_Press.txt 1 568 
+becoming Cambridge_University_Press.txt 1 1074 
+worldwide Cambridge_University_Press.txt 1 1492 
+200 Cambridge_University_Press.txt 1 461 
+towards Cambridge_University_Press.txt 1 465 
+centre Cambridge_University_Press.txt 2 1108 1209 
+who Cambridge_University_Press.txt 4 835 997 1240 1780 
+most Cambridge_University_Press.txt 3 1005 1681 1841 
+donation Cambridge_University_Press.txt 1 2014 
+nolan Cambridge_University_Press.txt 1 2036 
+printed Cambridge_University_Press.txt 2 216 326 
+sheets Cambridge_University_Press.txt 1 657 
+nothing Cambridge_University_Press.txt 1 624 
+0.1320 Cambridge_University_Press.txt 1 2239 
+queens Cambridge_University_Press.txt 1 61 
+lawn Cambridge_University_Press.txt 1 275 
+cambridges Cambridge_University_Press.txt 2 1558 1823 
+professor Cambridge_University_Press.txt 2 1325 2032 
+later Cambridge_University_Press.txt 2 926 1025 
+face Cambridge_University_Press.txt 1 1984 
+1,000 Cambridge_University_Press.txt 1 656 
+charitable Cambridge_University_Press.txt 1 154 
+reputation Cambridge_University_Press.txt 1 597 
+sources Cambridge_University_Press.txt 1 2217 
+enterprise Cambridge_University_Press.txt 1 155 
+senior Cambridge_University_Press.txt 2 495 1233 
+came Cambridge_University_Press.txt 2 683 873 
+laws Cambridge_University_Press.txt 2 1802 1870 
+shop Cambridge_University_Press.txt 2 1141 1155 
+saying Cambridge_University_Press.txt 1 1852 
+thomas Cambridge_University_Press.txt 2 259 260 
+surplus Cambridge_University_Press.txt 1 162 
+two-thirds Cambridge_University_Press.txt 1 1533 
+defended Cambridge_University_Press.txt 1 1849 
+halman Cambridge_University_Press.txt 1 473 
+solutions Cambridge_University_Press.txt 3 1456 1482 1529 
+participate Cambridge_University_Press.txt 1 2183 
+fine Cambridge_University_Press.txt 1 755 
+delivers Cambridge_University_Press.txt 2 1478 2110 
+make Cambridge_University_Press.txt 1 2089 
+presss Cambridge_University_Press.txt 12 64 282 374 515 540 634 968 1053 1078 1297 1347 2073 
+copy Cambridge_University_Press.txt 1 1566 
+knowledge Cambridge_University_Press.txt 2 74 2186 
+copyright Cambridge_University_Press.txt 1 1905 
+excessively Cambridge_University_Press.txt 1 1804 
+histories Cambridge_University_Press.txt 1 1012 
+operational Cambridge_University_Press.txt 2 1301 1335 
+cambridgehitachi Cambridge_University_Press.txt 1 1593 
+only Cambridge_University_Press.txt 3 592 655 1402 
+presse Cambridge_University_Press.txt 1 470 
+factor Cambridge_University_Press.txt 1 859 
+pointed Cambridge_University_Press.txt 1 1831 
+hope Cambridge_University_Press.txt 1 600 
+dispute Cambridge_University_Press.txt 1 421 
+regularly Cambridge_University_Press.txt 1 524 
+his Cambridge_University_Press.txt 1 563 
+wide Cambridge_University_Press.txt 1 1243 
+massacre Cambridge_University_Press.txt 1 1945 
+criticized Cambridge_University_Press.txt 1 1777 
+joint Cambridge_University_Press.txt 1 1595 
+october Cambridge_University_Press.txt 1 1814 
+nearly Cambridge_University_Press.txt 1 1043 
+closely Cambridge_University_Press.txt 1 1448 
+international Cambridge_University_Press.txt 3 86 1487 1987 
+during Cambridge_University_Press.txt 1 882 
+him Cambridge_University_Press.txt 1 627 
+areas Cambridge_University_Press.txt 1 1248 
+partnered Cambridge_University_Press.txt 1 2083 
+xinjiang Cambridge_University_Press.txt 1 1961 
+committees Cambridge_University_Press.txt 1 1307 
+countries Cambridge_University_Press.txt 3 122 133 1874 
+textbooks Cambridge_University_Press.txt 1 142 
+52.1882 Cambridge_University_Press.txt 1 2238 
+remove Cambridge_University_Press.txt 1 1702 
+common Cambridge_University_Press.txt 2 1411 1464 
+including Cambridge_University_Press.txt 3 801 871 1941 
+where Cambridge_University_Press.txt 2 280 1147 
+wrote Cambridge_University_Press.txt 1 581 
+secretary Cambridge_University_Press.txt 1 956 
+available Cambridge_University_Press.txt 1 1759 
+set Cambridge_University_Press.txt 3 261 443 647 
+toope Cambridge_University_Press.txt 1 1327 
+reference Cambridge_University_Press.txt 2 140 1468 
+specialist Cambridge_University_Press.txt 1 1149 
+catastrophic Cambridge_University_Press.txt 1 1949 
+eighteenth Cambridge_University_Press.txt 1 639 
+around Cambridge_University_Press.txt 2 1442 2137 
+edition Cambridge_University_Press.txt 1 333 
+see Cambridge_University_Press.txt 2 8 2210 
+decided Cambridge_University_Press.txt 1 1164 
+are Cambridge_University_Press.txt 3 770 1372 1518 
+0.1320e Cambridge_University_Press.txt 1 2237 
+portrait Cambridge_University_Press.txt 1 760 
+best Cambridge_University_Press.txt 1 661 
+concern Cambridge_University_Press.txt 1 553 
+politically-sensitive Cambridge_University_Press.txt 1 1922 
+computer Cambridge_University_Press.txt 1 2155 
+harvey Cambridge_University_Press.txt 1 240 
+review Cambridge_University_Press.txt 2 535 1812 
+currently Cambridge_University_Press.txt 1 1324 
+wikipedia Cambridge_University_Press.txt 1 3 
+libraries Cambridge_University_Press.txt 3 1698 1726 1755 
+importance Cambridge_University_Press.txt 1 583 
+state Cambridge_University_Press.txt 1 1900 
+r Cambridge_University_Press.txt 2 952 1820 
+between Cambridge_University_Press.txt 3 305 1019 1597 
+approach Cambridge_University_Press.txt 1 2193 
+across Cambridge_University_Press.txt 1 1383 
+thrive Cambridge_University_Press.txt 1 1061 
+bought Cambridge_University_Press.txt 1 1519 
+sciences Cambridge_University_Press.txt 1 1390 
+publishers Cambridge_University_Press.txt 4 1404 1764 2181 2208 
+we Cambridge_University_Press.txt 1 1751 
+zedong Cambridge_University_Press.txt 1 1947 
+terms Cambridge_University_Press.txt 1 2101 
+august Cambridge_University_Press.txt 2 1913 1967 
+1833 Cambridge_University_Press.txt 1 812 
+originated Cambridge_University_Press.txt 1 188 
+sold Cambridge_University_Press.txt 2 1114 1840 
+attention Cambridge_University_Press.txt 1 590 
+however Cambridge_University_Press.txt 1 1964 
+historians Cambridge_University_Press.txt 1 990 
+accessed Cambridge_University_Press.txt 1 1521 
+approval Cambridge_University_Press.txt 2 537 1313 
+come Cambridge_University_Press.txt 1 429 
+improve Cambridge_University_Press.txt 1 1458 
+both Cambridge_University_Press.txt 3 103 174 1564 
+c Cambridge_University_Press.txt 1 832 
+discernible Cambridge_University_Press.txt 1 772 
+policy Cambridge_University_Press.txt 1 980 
+many Cambridge_University_Press.txt 2 1554 1872 
+taking Cambridge_University_Press.txt 1 1509 
+annual Cambridge_University_Press.txt 1 161 
+second-largest Cambridge_University_Press.txt 1 44 
+s Cambridge_University_Press.txt 1 1948 
+became Cambridge_University_Press.txt 4 271 545 927 1676 
+planned Cambridge_University_Press.txt 1 541 
+contribution Cambridge_University_Press.txt 1 1080 
+whole Cambridge_University_Press.txt 1 700 
+duty Cambridge_University_Press.txt 1 1866 
+groups Cambridge_University_Press.txt 1 1370 
+point Cambridge_University_Press.txt 1 358 
+loan Cambridge_University_Press.txt 1 459 
+period Cambridge_University_Press.txt 1 914 
+community Cambridge_University_Press.txt 2 2037 2055 
+learning Cambridge_University_Press.txt 2 80 147 
+article Cambridge_University_Press.txt 2 1622 1882 
+kings Cambridge_University_Press.txt 1 759 
+conference Cambridge_University_Press.txt 2 1208 2041 
+described Cambridge_University_Press.txt 1 1822 
+publishing Cambridge_University_Press.txt 17 19 40 114 135 177 377 520 855 973 1083 1281 1289 1306 1316 1369 1374 2120 
+capable Cambridge_University_Press.txt 1 652 
+bertrand Cambridge_University_Press.txt 1 243 
+lawsuit Cambridge_University_Press.txt 1 1663 
+create Cambridge_University_Press.txt 1 2018 
+1581 Cambridge_University_Press.txt 1 1122 
+three Cambridge_University_Press.txt 2 786 1366 
+been Cambridge_University_Press.txt 5 205 1113 1218 1561 2046 
+strategy Cambridge_University_Press.txt 1 1317 
+citations Cambridge_University_Press.txt 1 2215 
+hawking Cambridge_University_Press.txt 1 247 
+proposal Cambridge_University_Press.txt 1 933 
+trinity Cambridge_University_Press.txt 1 1104 
+website Cambridge_University_Press.txt 2 1549 1931 
+compromises Cambridge_University_Press.txt 1 415 
+modern Cambridge_University_Press.txt 2 972 1015 
+partly Cambridge_University_Press.txt 1 301 
+restrictions Cambridge_University_Press.txt 1 413 
+ages Cambridge_University_Press.txt 1 1441 
+al Cambridge_University_Press.txt 1 1897 
+stephen Cambridge_University_Press.txt 2 246 1326 
+finished Cambridge_University_Press.txt 1 1049 
+observe Cambridge_University_Press.txt 1 1868 
+co-publishing Cambridge_University_Press.txt 1 891 
+former Cambridge_University_Press.txt 2 2007 2031 
+those Cambridge_University_Press.txt 1 287 
+pilot Cambridge_University_Press.txt 1 2188 
+case Cambridge_University_Press.txt 1 1891 
+presses Cambridge_University_Press.txt 3 224 651 782 
+georgia Cambridge_University_Press.txt 1 1899 
+these Cambridge_University_Press.txt 1 1371 
+expanded Cambridge_University_Press.txt 1 1142 
+britain Cambridge_University_Press.txt 1 1137 
+will Cambridge_University_Press.txt 1 1977 
+while Cambridge_University_Press.txt 1 1303 
+ongoing Cambridge_University_Press.txt 1 1890 
+viii Cambridge_University_Press.txt 3 32 200 744 
+editorial Cambridge_University_Press.txt 1 979 
+formats Cambridge_University_Press.txt 1 2131 
+thomass Cambridge_University_Press.txt 1 322 
+expertise Cambridge_University_Press.txt 1 1250 
+endured Cambridge_University_Press.txt 1 384 
+voice Cambridge_University_Press.txt 1 2161 
+inaugural Cambridge_University_Press.txt 1 2027 
+sizeable Cambridge_University_Press.txt 1 890 
+century Cambridge_University_Press.txt 2 551 640 
+is Cambridge_University_Press.txt 16 17 36 66 93 102 152 173 218 1323 1340 1361 1399 1860 2067 2177 2200 
+thus Cambridge_University_Press.txt 1 371 
+site Cambridge_University_Press.txt 5 268 576 1118 1135 1501 
+surface Cambridge_University_Press.txt 1 701 
+pitt Cambridge_University_Press.txt 4 810 825 879 1189 
+eighteen Cambridge_University_Press.txt 1 525 
+owing Cambridge_University_Press.txt 1 1505 
+in Cambridge_University_Press.txt 53 33 47 75 118 179 201 251 286 292 320 362 448 450 486 489 548 609 637 664 724 793 821 860 904 908 912 961 1055 1085 1094 1106 1136 1138 1160 1191 1421 1511 1563 1587 1613 1626 1648 1689 1736 1806 1888 1893 1960 1982 1993 2022 2086 2184 
+claimed Cambridge_University_Press.txt 1 1781 
+schoolbooks Cambridge_University_Press.txt 1 870 
+technology Cambridge_University_Press.txt 3 1385 2159 2165 
+if Cambridge_University_Press.txt 1 628 
+different Cambridge_University_Press.txt 1 1873 
+open Cambridge_University_Press.txt 3 2173 2196 2205 
+patent Cambridge_University_Press.txt 5 28 58 191 312 737 
+granted Cambridge_University_Press.txt 2 26 192 
+format Cambridge_University_Press.txt 1 1567 
+administration Cambridge_University_Press.txt 1 884 
+same Cambridge_University_Press.txt 1 482 
+member Cambridge_University_Press.txt 1 2202 
+speech Cambridge_University_Press.txt 1 1788 
+plates Cambridge_University_Press.txt 2 692 710 
+terrorism Cambridge_University_Press.txt 1 1647 
+several Cambridge_University_Press.txt 2 791 2049 
+privileged Cambridge_University_Press.txt 1 223 
+entitled Cambridge_University_Press.txt 1 1405 
+disseminating Cambridge_University_Press.txt 1 73 
+meets Cambridge_University_Press.txt 1 523 
+used Cambridge_University_Press.txt 2 1194 2016 
+curators Cambridge_University_Press.txt 2 498 1228 
+affairs Cambridge_University_Press.txt 2 516 1302 
+521118n Cambridge_University_Press.txt 1 2234 
+new-style Cambridge_University_Press.txt 1 446 
+upon Cambridge_University_Press.txt 1 417 
+hand Cambridge_University_Press.txt 3 649 674 1750 
+proficiency Cambridge_University_Press.txt 1 1460 
+levels Cambridge_University_Press.txt 1 87 
+uses Cambridge_University_Press.txt 2 1176 1580 
+purpose Cambridge_University_Press.txt 1 483 
+tradition Cambridge_University_Press.txt 3 375 381 1168 
+recent Cambridge_University_Press.txt 1 1571 
+audit Cambridge_University_Press.txt 1 1265 
+whose Cambridge_University_Press.txt 1 2026 
+i Cambridge_University_Press.txt 1 599 
+studies Cambridge_University_Press.txt 1 2025 
+humanities Cambridge_University_Press.txt 1 1387 
+well Cambridge_University_Press.txt 2 916 2167 
+academic Cambridge_University_Press.txt 8 105 137 852 1280 1373 1379 1908 2111 
+1 Cambridge_University_Press.txt 1 1103 
+services Cambridge_University_Press.txt 1 1527 
+english Cambridge_University_Press.txt 10 405 410 930 1152 1285 1424 1430 1433 1451 1800 
+organization Cambridge_University_Press.txt 1 1364 
+the Cambridge_University_Press.txt 194 5 18 22 37 43 48 60 63 69 76 84 97 165 175 180 183 194 210 221 225 254 267 272 281 289 303 306 309 314 317 327 335 339 348 353 360 373 378 391 397 400 403 408 412 420 423 434 440 453 463 466 476 481 497 503 511 514 517 534 539 549 555 558 569 574 578 582 585 604 607 610 633 638 642 688 699 714 717 727 735 746 754 758 764 774 776 794 802 805 809 818 826 829 843 846 864 878 885 895 899 918 921 928 949 958 964 967 999 1004 1013 1026 1029 1033 1052 1065 1077 1096 1107 1131 1140 1157 1162 1167 1188 1197 1211 1213 1221 1227 1236 1251 1291 1296 1304 1315 1318 1321 1330 1334 1338 1343 1346 1353 1391 1397 1408 1414 1419 1428 1443 1445 1463 1475 1499 1503 1507 1512 1548 1649 1659 1679 1690 1716 1718 1733 1737 1740 1747 1757 1763 1769 1772 1793 1846 1869 1925 1932 1942 1969 1983 2003 2006 2013 2043 2072 2081 2100 2103 2108 2123 2138 2142 2185 2204 
+being Cambridge_University_Press.txt 3 227 646 670 
+when Cambridge_University_Press.txt 2 253 684 
+newton Cambridge_University_Press.txt 1 242 
+actions Cambridge_University_Press.txt 1 1851 
+not Cambridge_University_Press.txt 5 427 591 615 1048 1767 
+scholarly Cambridge_University_Press.txt 2 2113 2207 
+world Cambridge_University_Press.txt 7 49 181 605 1444 1651 2124 2139 
+strenuously Cambridge_University_Press.txt 1 343 
+vice-chancellor Cambridge_University_Press.txt 1 1328 
+cup Cambridge_University_Press.txt 7 16 1693 1706 1830 1895 2176 2199 
+undertaking Cambridge_University_Press.txt 1 2076 
+had Cambridge_University_Press.txt 4 347 630 1838 1854 
+wen Cambridge_University_Press.txt 1 2011 
+silver Cambridge_University_Press.txt 1 795 
+wright Cambridge_University_Press.txt 2 954 986 
+book Cambridge_University_Press.txt 11 214 319 1409 1545 1641 1717 1738 1758 1811 1828 1847 
+board Cambridge_University_Press.txt 3 1261 1294 1355 
+impressive Cambridge_University_Press.txt 1 1079 
+technological Cambridge_University_Press.txt 1 676 
+executive Cambridge_University_Press.txt 1 1349 
+has Cambridge_University_Press.txt 13 204 383 614 1215 1253 1263 1542 1918 1973 1998 2045 2062 2223 
+administrative Cambridge_University_Press.txt 1 982 
+remaining Cambridge_University_Press.txt 1 1636 
+bin Cambridge_University_Press.txt 1 1669 
+casting Cambridge_University_Press.txt 1 709 
+increased Cambridge_University_Press.txt 1 845 
+demands Cambridge_University_Press.txt 1 587 
+read Cambridge_University_Press.txt 1 2151 
+devised Cambridge_University_Press.txt 1 998 
+responsibly Cambridge_University_Press.txt 1 1856 
+possible Cambridge_University_Press.txt 1 560 
+early Cambridge_University_Press.txt 1 1126 
+cultural Cambridge_University_Press.txt 1 1950 
+press Cambridge_University_Press.txt 50 2 11 15 46 53 92 151 172 186 213 230 447 518 579 715 741 747 777 806 819 844 880 886 922 959 1027 1075 1097 1163 1202 1212 1214 1222 1259 1292 1339 1354 1360 1398 1504 1600 1794 1877 1885 1917 1970 2044 2082 2109 2232 
+using Cambridge_University_Press.txt 3 562 779 2153 
+projects Cambridge_University_Press.txt 1 2078 
+formal Cambridge_University_Press.txt 1 1312 
+desire Cambridge_University_Press.txt 1 1741 
+schools Cambridge_University_Press.txt 2 1488 1614 
+arose Cambridge_University_Press.txt 1 1629 
+serves Cambridge_University_Press.txt 1 1205 
+clays Cambridge_University_Press.txt 1 883 
+facing Cambridge_University_Press.txt 1 1368 
+offices Cambridge_University_Press.txt 1 117 
+t Cambridge_University_Press.txt 1 953 
+clay Cambridge_University_Press.txt 1 834 
+popular Cambridge_University_Press.txt 1 336 
+output Cambridge_University_Press.txt 1 542 
+works Cambridge_University_Press.txt 4 141 1037 1447 2225 
+page Cambridge_University_Press.txt 1 704 
+accessible Cambridge_University_Press.txt 2 2092 2130 
+interest Cambridge_University_Press.txt 1 1735 
+stereotype Cambridge_University_Press.txt 2 691 733 
+people Cambridge_University_Press.txt 3 788 2094 2132 
+senate Cambridge_University_Press.txt 1 273 
+some Cambridge_University_Press.txt 1 1779 
+back Cambridge_University_Press.txt 1 163 
+library Cambridge_University_Press.txt 2 1720 2191 
+3.7 Cambridge_University_Press.txt 1 2000 
+printer Cambridge_University_Press.txt 4 62 258 547 838 
+learn Cambridge_University_Press.txt 2 1576 1745 
+recommendation Cambridge_University_Press.txt 1 1724 
+peter Cambridge_University_Press.txt 2 1350 2035 
+perfected Cambridge_University_Press.txt 1 687 
+strategic Cambridge_University_Press.txt 1 1299 
+provided Cambridge_University_Press.txt 1 1543 
+scale Cambridge_University_Press.txt 1 849 
+for Cambridge_University_Press.txt 27 4 385 480 513 593 817 934 1001 1210 1439 1469 1483 1532 1553 1608 1618 1624 1643 1674 1715 1730 1760 1955 2051 2127 2144 2170 
+courses Cambridge_University_Press.txt 1 1436 
+objected Cambridge_University_Press.txt 1 342 
+1854 Cambridge_University_Press.txt 1 840 
+428 Cambridge_University_Press.txt 1 1172 
+machine Cambridge_University_Press.txt 1 781 
+shakespeare Cambridge_University_Press.txt 1 1039 
+baskerville Cambridge_University_Press.txt 2 544 580 
+legate Cambridge_University_Press.txt 1 325 
+younger Cambridge_University_Press.txt 1 827 
+be Cambridge_University_Press.txt 3 508 875 1196 
+business Cambridge_University_Press.txt 2 20 974 
+300 Cambridge_University_Press.txt 2 1092 1921 
+journal Cambridge_University_Press.txt 2 1082 1980 
+continuing Cambridge_University_Press.txt 1 395 
+agreement Cambridge_University_Press.txt 1 2107 
+references Cambridge_University_Press.txt 1 2213 
+burr Cambridge_University_Press.txt 1 1653 
+taboo Cambridge_University_Press.txt 1 1940 
+by Cambridge_University_Press.txt 20 29 72 128 198 233 419 648 673 742 773 940 1220 1342 1537 1652 1665 1778 2075 2163 2227 
+on Cambridge_University_Press.txt 13 266 350 573 1116 1498 1610 1685 1911 1928 1935 1965 2048 2122 
+about Cambridge_University_Press.txt 2 1746 2229 
+hidden Cambridge_University_Press.txt 1 2241 
+hard Cambridge_University_Press.txt 1 1565 
+working Cambridge_University_Press.txt 1 1586 
+braille Cambridge_University_Press.txt 1 2172 
+of Cambridge_University_Press.txt 93 21 24 78 88 96 99 159 196 220 269 298 308 316 334 369 376 455 460 475 494 538 557 577 584 653 690 698 702 705 738 752 768 823 831 850 866 869 898 920 951 957 966 1003 1032 1038 1042 1064 1067 1109 1169 1182 1199 1231 1235 1238 1245 1249 1314 1320 1329 1332 1337 1401 1410 1418 1467 1502 1534 1557 1638 1658 1661 1678 1711 1742 1771 1787 1792 1842 1845 1871 1902 1904 1907 1985 1996 2005 2009 2071 2102 2117 2179 2203 
+disabilities Cambridge_University_Press.txt 2 2098 2136 
+recognized Cambridge_University_Press.txt 1 2047 
+wolf Cambridge_University_Press.txt 1 1821 
+shared Cambridge_University_Press.txt 1 1273 
+or Cambridge_University_Press.txt 3 1471 2156 2228 
+misplaced Cambridge_University_Press.txt 1 617 
+duke Cambridge_University_Press.txt 1 454 
+own Cambridge_University_Press.txt 3 564 595 1100 
+letters Cambridge_University_Press.txt 5 27 57 190 311 736 
+letter Cambridge_University_Press.txt 1 1696 
+burning Cambridge_University_Press.txt 1 1829 
+presence Cambridge_University_Press.txt 1 113 
+fundraising Cambridge_University_Press.txt 1 2080 
+into Cambridge_University_Press.txt 3 632 1143 2129 
+within Cambridge_University_Press.txt 1 1671 
+collins Cambridge_University_Press.txt 1 1655 
+bound Cambridge_University_Press.txt 1 672 
+copies Cambridge_University_Press.txt 4 1637 1703 1710 1844 
+down Cambridge_University_Press.txt 2 924 1975 
+caxton Cambridge_University_Press.txt 1 620 
+parties Cambridge_University_Press.txt 1 1178 
+controversies Cambridge_University_Press.txt 1 1615 
+einstein Cambridge_University_Press.txt 1 1069 
+england Cambridge_University_Press.txt 1 1422 
+technically Cambridge_University_Press.txt 1 728 
+accused Cambridge_University_Press.txt 1 1898 
+steam-powered Cambridge_University_Press.txt 1 780 
+her Cambridge_University_Press.txt 1 2030 
+area Cambridge_University_Press.txt 1 800 
+governed Cambridge_University_Press.txt 1 1219 
+1733 Cambridge_University_Press.txt 1 501 
+initial Cambridge_University_Press.txt 1 756 
+specifically Cambridge_University_Press.txt 1 816 
+1989 Cambridge_University_Press.txt 1 1943 
+strict Cambridge_University_Press.txt 1 1805 
+authorized Cambridge_University_Press.txt 1 398 
+way Cambridge_University_Press.txt 1 1513 
+series Cambridge_University_Press.txt 1 881 
+somerset Cambridge_University_Press.txt 1 456 
+was Cambridge_University_Press.txt 23 215 356 438 485 505 554 644 678 716 778 814 836 863 902 911 936 985 1017 1047 1776 1783 2015 2029 
+revised Cambridge_University_Press.txt 3 401 409 896 
+complete Cambridge_University_Press.txt 1 1036 
+jiabao Cambridge_University_Press.txt 1 2012 
+syndics Cambridge_University_Press.txt 4 504 919 1223 1344 
+libel Cambridge_University_Press.txt 1 1801 
+lane Cambridge_University_Press.txt 1 799 
+but Cambridge_University_Press.txt 1 598 
+1591 Cambridge_University_Press.txt 1 321 
+syndicate Cambridge_University_Press.txt 3 960 1252 1322 
+universitys Cambridge_University_Press.txt 3 70 310 354 
+line Cambridge_University_Press.txt 1 767 
+highest Cambridge_University_Press.txt 1 85 
+with Cambridge_University_Press.txt 19 109 390 396 422 757 893 975 987 1062 1274 1365 1449 1785 1790 1864 2084 2095 2133 2160 
+sent Cambridge_University_Press.txt 2 1694 1708 
+he Cambridge_University_Press.txt 2 629 945 
+made Cambridge_University_Press.txt 2 457 1229 
+circulation Cambridge_University_Press.txt 1 1705 
+monopoly Cambridge_University_Press.txt 2 297 349 
+maitland Cambridge_University_Press.txt 1 996 
+inside Cambridge_University_Press.txt 1 761 
+j Cambridge_University_Press.txt 1 833 
+social Cambridge_University_Press.txt 2 1389 2058 
+up Cambridge_University_Press.txt 3 262 444 1230 
+fight Cambridge_University_Press.txt 1 1954 
+1850s Cambridge_University_Press.txt 1 775 
+convince Cambridge_University_Press.txt 1 603 
+download Cambridge_University_Press.txt 1 2141 
+continuously Cambridge_University_Press.txt 2 208 1115 
+nominations Cambridge_University_Press.txt 1 1270 
+v Cambridge_University_Press.txt 2 1878 1886 
+links Cambridge_University_Press.txt 1 2220 
+defined Cambridge_University_Press.txt 1 978 
+kongs Cambridge_University_Press.txt 1 1953 
+sales Cambridge_University_Press.txt 2 112 1536 
+an Cambridge_University_Press.txt 9 104 331 431 857 1264 1279 1284 1712 2068 
+as Cambridge_University_Press.txt 15 59 502 877 915 955 970 1125 1127 1206 1226 1656 1825 1939 2166 2168 
+type-design Cambridge_University_Press.txt 1 565 
+at Cambridge_University_Press.txt 6 83 660 1102 1120 1834 2033 
+prayer Cambridge_University_Press.txt 1 1412 
+plan Cambridge_University_Press.txt 1 1000 
+education Cambridge_University_Press.txt 6 79 1150 1288 1473 1476 1490 
+1892 Cambridge_University_Press.txt 1 962 
+1893 Cambridge_University_Press.txt 1 1086 
+whiteboards Cambridge_University_Press.txt 1 1612 
+variety Cambridge_University_Press.txt 1 1244 
+claiming Cambridge_University_Press.txt 1 344 
+40 Cambridge_University_Press.txt 1 121 
+power Cambridge_University_Press.txt 1 441 
+club Cambridge_University_Press.txt 1 7 
+acton Cambridge_University_Press.txt 1 992 
+other Cambridge_University_Press.txt 3 226 1570 2157 
+role Cambridge_University_Press.txt 2 531 2074 
+holding Cambridge_University_Press.txt 1 1728 
+digital Cambridge_University_Press.txt 4 1495 1525 2104 2171 
+department Cambridge_University_Press.txt 1 95 
+mathematics Cambridge_University_Press.txt 1 1058 
+really Cambridge_University_Press.txt 1 428 
+users Cambridge_University_Press.txt 1 1762 
+lexicographer Cambridge_University_Press.txt 1 943 
+football Cambridge_University_Press.txt 1 6 
+includes Cambridge_University_Press.txt 2 136 533 
+william Cambridge_University_Press.txt 2 239 824 
+generated Cambridge_University_Press.txt 1 2162 
+important Cambridge_University_Press.txt 2 858 2069 
+secondary Cambridge_University_Press.txt 1 1485 
+lent Cambridge_University_Press.txt 1 478 
+included Cambridge_University_Press.txt 1 236 
+transfers Cambridge_University_Press.txt 1 157 
+acted Cambridge_University_Press.txt 1 1855 
+structure Cambridge_University_Press.txt 2 983 1356 
+building Cambridge_University_Press.txt 2 811 1190 
+1805 Cambridge_University_Press.txt 1 725 
+walked Cambridge_University_Press.txt 1 631 
+original Cambridge_University_Press.txt 1 2224 
+2006 Cambridge_University_Press.txt 1 1640 
+2007 Cambridge_University_Press.txt 2 1627 1815 
+volumes Cambridge_University_Press.txt 1 1031 
+time Cambridge_University_Press.txt 2 488 1836 
+2008 Cambridge_University_Press.txt 3 1139 1894 2040 
+decision Cambridge_University_Press.txt 2 1632 1765 
+external Cambridge_University_Press.txt 1 2219 

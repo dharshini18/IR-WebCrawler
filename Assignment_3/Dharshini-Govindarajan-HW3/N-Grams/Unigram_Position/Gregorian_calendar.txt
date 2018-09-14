@@ -1,0 +1,1224 @@
+all Gregorian_calendar.txt 7 189 1127 1143 1397 1988 2983 4510 
+customary Gregorian_calendar.txt 1 779 
+suns Gregorian_calendar.txt 1 1862 
+demand Gregorian_calendar.txt 1 2627 
+europeans Gregorian_calendar.txt 1 4412 
+results Gregorian_calendar.txt 1 2068 
+month Gregorian_calendar.txt 6 789 915 926 2526 4423 4687 
+four Gregorian_calendar.txt 6 282 351 1489 1810 1821 2981 
+licentia Gregorian_calendar.txt 1 2600 
+comments Gregorian_calendar.txt 1 1745 
+computation Gregorian_calendar.txt 1 2785 
+consists Gregorian_calendar.txt 1 698 
+adjustment Gregorian_calendar.txt 2 1036 4114 
+religious Gregorian_calendar.txt 2 7 203 
+issues Gregorian_calendar.txt 1 1161 
+whose Gregorian_calendar.txt 1 1360 
+careful Gregorian_calendar.txt 1 3199 
+calculate Gregorian_calendar.txt 1 252 
+knuckle Gregorian_calendar.txt 3 4472 4539 4573 
+avoid Gregorian_calendar.txt 1 4292 
+thursday Gregorian_calendar.txt 3 2384 2705 4753 
+black Gregorian_calendar.txt 1 4640 
+skipping Gregorian_calendar.txt 1 4828 
+to Gregorian_calendar.txt 114 53 75 84 101 109 143 178 207 230 251 271 286 328 398 416 496 531 569 602 625 639 719 780 827 941 1038 1047 1084 1091 1175 1249 1308 1365 1387 1447 1452 1554 1572 1632 1673 1687 1707 1712 1737 1814 1855 1993 2015 2028 2174 2244 2305 2429 2453 2473 2542 2553 2622 2644 2737 2753 2756 2768 2776 2802 2831 2872 2933 3028 3111 3148 3172 3192 3196 3209 3288 3319 3350 3393 3466 3487 3507 3532 3569 3714 3727 3746 3781 3834 3905 3907 3951 3969 3987 3993 4023 4049 4073 4086 4281 4398 4415 4445 4490 4607 4618 4675 4861 4898 4921 4963 4995 5169 5179 
+helps Gregorian_calendar.txt 1 94 
+342 Gregorian_calendar.txt 1 1243 
+under Gregorian_calendar.txt 3 1656 3333 4189 
+can Gregorian_calendar.txt 4 3636 3957 4157 4592 
+reforms Gregorian_calendar.txt 3 3594 5194 5199 
+include Gregorian_calendar.txt 1 2934 
+sent Gregorian_calendar.txt 2 1631 1736 
+shakespeare Gregorian_calendar.txt 2 4242 4258 
+protestants Gregorian_calendar.txt 2 137 2743 
+division Gregorian_calendar.txt 1 3102 
+worse Gregorian_calendar.txt 1 1440 
+outside Gregorian_calendar.txt 1 1740 
+very Gregorian_calendar.txt 1 4696 
+innovation Gregorian_calendar.txt 1 2741 
+seemingly Gregorian_calendar.txt 1 4245 
+1492 Gregorian_calendar.txt 1 3386 
+perihelion Gregorian_calendar.txt 1 4887 
+every Gregorian_calendar.txt 13 281 344 729 743 847 1469 2076 2311 2897 2980 4834 4924 4971 
+fall Gregorian_calendar.txt 4 1269 1279 1309 1337 
+difference Gregorian_calendar.txt 7 445 2953 2968 3055 3062 3077 5077 
+continued Gregorian_calendar.txt 5 142 638 3287 4397 4718 
+latinate Gregorian_calendar.txt 1 4405 
+categories Gregorian_calendar.txt 2 5216 5218 
+1700 Gregorian_calendar.txt 3 383 2334 5154 
+believed Gregorian_calendar.txt 1 1756 
+1704 Gregorian_calendar.txt 1 4205 
+epacts Gregorian_calendar.txt 2 313 1840 
+hath Gregorian_calendar.txt 2 4434 4507 
+did Gregorian_calendar.txt 3 763 3380 3451 
+12th Gregorian_calendar.txt 1 3414 
+notes Gregorian_calendar.txt 3 2585 3858 5211 
+omitting Gregorian_calendar.txt 1 4579 
+proposals Gregorian_calendar.txt 1 2019 
+solution Gregorian_calendar.txt 1 2010 
+fewer Gregorian_calendar.txt 1 4562 
+convenience Gregorian_calendar.txt 1 170 
+adjust Gregorian_calendar.txt 1 3460 
+dealt Gregorian_calendar.txt 1 441 
+probably Gregorian_calendar.txt 1 4522 
+deleting Gregorian_calendar.txt 1 2148 
+noted Gregorian_calendar.txt 3 1427 1873 1926 
+vincenzo Gregorian_calendar.txt 1 2572 
+500s Gregorian_calendar.txt 1 3124 
+prevent Gregorian_calendar.txt 1 1713 
+july Gregorian_calendar.txt 2 4586 4606 
+approximately Gregorian_calendar.txt 1 59 
+ten Gregorian_calendar.txt 4 529 2157 2561 4260 
+consistent Gregorian_calendar.txt 2 1722 1930 
+8601 Gregorian_calendar.txt 4 4320 4366 4384 4771 
+bacon Gregorian_calendar.txt 1 1526 
+semitones Gregorian_calendar.txt 1 4625 
+decreed Gregorian_calendar.txt 2 2529 2638 
+approximation Gregorian_calendar.txt 4 1461 2228 4821 4848 
+go Gregorian_calendar.txt 1 1555 
+second Gregorian_calendar.txt 2 2223 5061 
+customarily Gregorian_calendar.txt 1 3866 
+trent Gregorian_calendar.txt 1 1668 
+further Gregorian_calendar.txt 3 1165 1435 2137 
+ruled Gregorian_calendar.txt 1 2682 
+estimated Gregorian_calendar.txt 1 1530 
+canonical Gregorian_calendar.txt 1 450 
+even Gregorian_calendar.txt 6 607 1434 2998 3300 3827 3975 
+established Gregorian_calendar.txt 1 2783 
+what Gregorian_calendar.txt 2 2814 3952 
+memorizing Gregorian_calendar.txt 1 4425 
+solemn Gregorian_calendar.txt 1 2425 
+sun Gregorian_calendar.txt 2 1767 1884 
+section Gregorian_calendar.txt 3 965 2989 3590 
+celebrated Gregorian_calendar.txt 6 119 825 1056 1197 2518 3408 
+drifted Gregorian_calendar.txt 1 1433 
+brief Gregorian_calendar.txt 2 2536 2609 
+uniform Gregorian_calendar.txt 1 5068 
+current Gregorian_calendar.txt 1 4863 
+prevailed Gregorian_calendar.txt 1 2219 
+19th Gregorian_calendar.txt 1 4955 
+makes Gregorian_calendar.txt 1 5049 
+belongs Gregorian_calendar.txt 1 4444 
+long-standing Gregorian_calendar.txt 2 326 1853 
+new Gregorian_calendar.txt 17 542 583 633 2342 2354 2692 2746 2779 3298 3389 3404 3505 3600 3881 3889 3899 4104 
+falling Gregorian_calendar.txt 1 2116 
+officially Gregorian_calendar.txt 1 5024 
+method Gregorian_calendar.txt 2 1775 2343 
+contrast Gregorian_calendar.txt 1 3718 
+publications Gregorian_calendar.txt 1 1617 
+giambattista Gregorian_calendar.txt 1 1751 
+full Gregorian_calendar.txt 2 490 3701 
+led Gregorian_calendar.txt 1 1083 
+copernicus Gregorian_calendar.txt 2 1946 1984 
+error Gregorian_calendar.txt 12 1066 1102 1465 1516 1532 2361 4851 4895 4919 4944 5072 5118 
+component Gregorian_calendar.txt 1 2224 
+equals Gregorian_calendar.txt 1 851 
+french Gregorian_calendar.txt 1 4442 
+hours Gregorian_calendar.txt 3 415 422 888 
+refinement Gregorian_calendar.txt 1 52 
+annunciation Gregorian_calendar.txt 1 3364 
+excess Gregorian_calendar.txt 1 1963 
+i.e Gregorian_calendar.txt 1 2333 
+100 Gregorian_calendar.txt 4 285 364 1813 2281 
+n.s Gregorian_calendar.txt 2 585 3563 
+appears Gregorian_calendar.txt 1 4437 
+change Gregorian_calendar.txt 3 400 765 2640 
+celebration Gregorian_calendar.txt 1 1044 
+obtained Gregorian_calendar.txt 1 3003 
+365.24219 Gregorian_calendar.txt 1 2039 
+1750/51 Gregorian_calendar.txt 1 3802 
+copyright Gregorian_calendar.txt 1 4289 
+ahead Gregorian_calendar.txt 2 3047 3068 
+involved Gregorian_calendar.txt 1 4499 
+31 Gregorian_calendar.txt 3 942 3695 4550 
+changed Gregorian_calendar.txt 4 3307 3481 3499 3526 
+14:33 Gregorian_calendar.txt 1 1996 
+bissextum Gregorian_calendar.txt 1 3009 
+later Gregorian_calendar.txt 8 1287 1310 1345 2193 2611 2724 3458 3572 
+popes Gregorian_calendar.txt 1 980 
+prior Gregorian_calendar.txt 3 229 2830 4048 
+cervantes Gregorian_calendar.txt 2 4244 4256 
+resulting Gregorian_calendar.txt 1 2111 
+weekday Gregorian_calendar.txt 2 4677 4685 
+supputatio Gregorian_calendar.txt 1 3741 
+usually Gregorian_calendar.txt 2 4100 4181 
+opinion Gregorian_calendar.txt 1 2202 
+adopting Gregorian_calendar.txt 2 1149 2738 
+changes Gregorian_calendar.txt 2 2446 2452 
+282 Gregorian_calendar.txt 1 3545 
+reckoned Gregorian_calendar.txt 1 1442 
+named Gregorian_calendar.txt 2 38 1022 
+alexandria Gregorian_calendar.txt 2 1156 1196 
+followed Gregorian_calendar.txt 4 2389 2710 2722 2827 
+os Gregorian_calendar.txt 4 3874 3897 3985 3997 
+heart Gregorian_calendar.txt 1 4532 
+requiring Gregorian_calendar.txt 1 1677 
+rule-based Gregorian_calendar.txt 1 2236 
+histories Gregorian_calendar.txt 3 3459 4174 4186 
+solsticeabout Gregorian_calendar.txt 1 5183 
+names Gregorian_calendar.txt 1 4406 
+movement Gregorian_calendar.txt 1 4884 
+counts Gregorian_calendar.txt 1 648 
+1903 Gregorian_calendar.txt 1 5168 
+1900 Gregorian_calendar.txt 3 386 2336 5156 
+plot Gregorian_calendar.txt 1 2752 
+use Gregorian_calendar.txt 13 144 614 640 2359 2893 2926 2935 3088 3289 3979 4000 4297 4774 
+superiori Gregorian_calendar.txt 1 2602 
+from Gregorian_calendar.txt 24 284 409 650 784 938 1095 1761 1812 1974 2641 2909 3157 3194 3270 3276 3321 3412 3659 3735 4233 4570 4603 4626 4671 
+would Gregorian_calendar.txt 12 105 1717 1970 2011 2135 2192 2230 2282 2907 4983 4990 5000 
+0 Gregorian_calendar.txt 2 4335 4375 
+sake Gregorian_calendar.txt 1 168 
+subtract Gregorian_calendar.txt 1 3163 
+etc Gregorian_calendar.txt 1 2338 
+two Gregorian_calendar.txt 10 219 551 1371 1994 2021 3058 3593 3683 3868 4565 
+france Gregorian_calendar.txt 1 3367 
+discrepancies Gregorian_calendar.txt 1 1903 
+papal Gregorian_calendar.txt 7 973 1024 2443 2594 2608 2689 3667 
+explicitly Gregorian_calendar.txt 2 2773 3673 
+6 Gregorian_calendar.txt 2 414 3570 
+taken Gregorian_calendar.txt 1 1647 
+scope Gregorian_calendar.txt 1 909 
+doubling Gregorian_calendar.txt 2 756 3005 
+0.002 Gregorian_calendar.txt 1 60 
+today Gregorian_calendar.txt 1 684 
+more Gregorian_calendar.txt 6 1521 1614 1721 3166 4935 5067 
+parodied Gregorian_calendar.txt 1 4503 
+corrected Gregorian_calendar.txt 3 2146 2307 2373 
+mnemonics Gregorian_calendar.txt 1 4500 
+cant Gregorian_calendar.txt 1 4514 
+aware Gregorian_calendar.txt 2 1496 1543 
+backwards Gregorian_calendar.txt 1 4022 
+labelled Gregorian_calendar.txt 1 3690 
+365.2425 Gregorian_calendar.txt 4 417 882 2087 4842 
+known Gregorian_calendar.txt 1 672 
+iv Gregorian_calendar.txt 1 1566 
+iii Gregorian_calendar.txt 2 1672 4216 
+97 Gregorian_calendar.txt 6 287 866 879 1815 1909 2262 
+states Gregorian_calendar.txt 3 2444 2690 2819 
+computus Gregorian_calendar.txt 1 1167 
+left Gregorian_calendar.txt 2 4789 4808 
+f Gregorian_calendar.txt 1 4628 
+this Gregorian_calendar.txt 21 15 668 833 1291 1358 1576 1716 1998 2216 2648 2889 2988 3227 3512 4277 4293 4847 4989 5013 5073 5147 
+originally Gregorian_calendar.txt 2 659 2890 
+work Gregorian_calendar.txt 2 2178 2198 
+modified Gregorian_calendar.txt 1 334 
+longitude Gregorian_calendar.txt 2 1864 1979 
+column Gregorian_calendar.txt 2 4790 4809 
+itself Gregorian_calendar.txt 2 913 2014 
+values Gregorian_calendar.txt 1 1989 
+era Gregorian_calendar.txt 4 644 675 678 2842 
+969 Gregorian_calendar.txt 1 4968 
+following Gregorian_calendar.txt 3 1620 3033 5196 
+making Gregorian_calendar.txt 2 289 1817 
+considering Gregorian_calendar.txt 1 4541 
+example Gregorian_calendar.txt 9 380 2761 3431 3497 3799 4078 4194 4214 4721 
+mnemonic Gregorian_calendar.txt 3 4473 4540 4616 
+nearest Gregorian_calendar.txt 1 3113 
+august Gregorian_calendar.txt 3 4204 4588 4610 
+citizens Gregorian_calendar.txt 1 4529 
+links Gregorian_calendar.txt 1 5215 
+give Gregorian_calendar.txt 2 570 3173 
+calculation Gregorian_calendar.txt 1 1108 
+december Gregorian_calendar.txt 7 943 3320 3357 3696 5167 5173 5177 
+allowed Gregorian_calendar.txt 2 1307 1364 
+tax Gregorian_calendar.txt 1 3554 
+purposes Gregorian_calendar.txt 7 164 214 509 2845 2852 2938 4042 
+now Gregorian_calendar.txt 1 2816 
+tabular Gregorian_calendar.txt 1 1774 
+caution Gregorian_calendar.txt 1 4039 
+numbers Gregorian_calendar.txt 5 842 948 4341 4378 4409 
+council Gregorian_calendar.txt 6 1120 1666 1698 2108 2250 2369 
+exiguus Gregorian_calendar.txt 1 667 
+scheduling Gregorian_calendar.txt 1 1725 
+unhelpfulness Gregorian_calendar.txt 1 4496 
+keep Gregorian_calendar.txt 1 2623 
+occur Gregorian_calendar.txt 1 279 
+biography Gregorian_calendar.txt 1 3853 
+axis Gregorian_calendar.txt 2 5088 5097 
+parliamentary Gregorian_calendar.txt 1 3433 
+information Gregorian_calendar.txt 1 1166 
+available Gregorian_calendar.txt 1 2428 
+united Gregorian_calendar.txt 1 2818 
+end Gregorian_calendar.txt 3 457 1606 3453 
+varied Gregorian_calendar.txt 2 1295 3644 
+rather Gregorian_calendar.txt 5 630 1770 2266 2918 4004 
+purpose Gregorian_calendar.txt 1 1577 
+dionysian Gregorian_calendar.txt 1 674 
+pressing Gregorian_calendar.txt 1 1615 
+delay Gregorian_calendar.txt 2 834 2729 
+till Gregorian_calendar.txt 1 3564 
+sunday Gregorian_calendar.txt 2 1201 1352 
+astronomers Gregorian_calendar.txt 2 2017 4291 
+criterion Gregorian_calendar.txt 1 4929 
+instead Gregorian_calendar.txt 6 298 1825 2122 4337 4974 5009 
+camillo Gregorian_calendar.txt 1 983 
+1753 Gregorian_calendar.txt 1 2829 
+1752 Gregorian_calendar.txt 4 2825 3536 3574 4155 
+1751 Gregorian_calendar.txt 2 3417 3538 
+1750 Gregorian_calendar.txt 3 2782 3603 3929 
+orbital Gregorian_calendar.txt 1 4892 
+lunario Gregorian_calendar.txt 1 2564 
+description Gregorian_calendar.txt 1 686 
+sir Gregorian_calendar.txt 1 4957 
+may Gregorian_calendar.txt 2 3264 4568 
+broad Gregorian_calendar.txt 1 4447 
+advice Gregorian_calendar.txt 1 2217 
+after Gregorian_calendar.txt 12 39 157 815 1017 1202 1218 1353 1589 2527 2582 3861 4230 
+scotland Gregorian_calendar.txt 1 3498 
+mapping Gregorian_calendar.txt 1 4102 
+tied Gregorian_calendar.txt 1 1174 
+customs Gregorian_calendar.txt 2 3643 3664 
+reflect Gregorian_calendar.txt 1 832 
+islamic Gregorian_calendar.txt 2 200 2837 
+birthday Gregorian_calendar.txt 1 1322 
+designed Gregorian_calendar.txt 1 1711 
+date Gregorian_calendar.txt 37 97 254 321 501 513 535 557 564 623 653 767 896 1041 1086 1111 1170 1189 1680 1848 2127 2347 2698 2788 2984 3228 3677 3732 3784 3826 3917 3991 4251 4674 4736 4751 5091 5106 
+such Gregorian_calendar.txt 5 1558 3410 3624 3675 4498 
+law Gregorian_calendar.txt 2 2483 3611 
+tomb Gregorian_calendar.txt 1 981 
+365.24237 Gregorian_calendar.txt 1 4915 
+a Gregorian_calendar.txt 85 51 158 221 237 260 263 325 353 427 534 555 615 622 691 694 711 714 725 737 873 894 952 1002 1080 1115 1246 1326 1379 1457 1548 1559 1624 1629 1720 1733 1773 1786 1789 1852 2026 2047 2070 2101 2160 2168 2186 2241 2257 2341 2375 2505 2525 2535 2558 2739 2751 2784 3060 3517 3540 3626 3630 3676 3980 3990 4030 4110 4333 4373 4446 4465 4533 4599 4614 4621 4660 4664 4672 4683 4811 4961 5066 5122 5125 5149 
+short Gregorian_calendar.txt 2 3518 3541 
+attempt Gregorian_calendar.txt 2 1553 4414 
+remember Gregorian_calendar.txt 4 3171 3210 4416 4515 
+third Gregorian_calendar.txt 1 460 
+6th Gregorian_calendar.txt 1 663 
+ordinary Gregorian_calendar.txt 3 4041 4528 5132 
+1900/400 Gregorian_calendar.txt 1 3119 
+june Gregorian_calendar.txt 2 5093 5111 
+interrupted Gregorian_calendar.txt 1 1582 
+provide Gregorian_calendar.txt 1 2231 
+agincourt Gregorian_calendar.txt 1 4082 
+so Gregorian_calendar.txt 6 1381 1472 2898 3381 3429 3537 
+metonic Gregorian_calendar.txt 1 1212 
+1475 Gregorian_calendar.txt 1 1569 
+taking Gregorian_calendar.txt 1 4630 
+christopher Gregorian_calendar.txt 2 1865 2183 
+1577 Gregorian_calendar.txt 1 1732 
+equation Gregorian_calendar.txt 1 3034 
+exclusive Gregorian_calendar.txt 1 2551 
+1300 Gregorian_calendar.txt 1 1541 
+produces Gregorian_calendar.txt 1 4029 
+september Gregorian_calendar.txt 8 2615 2632 3377 3395 3576 4154 4435 4508 
+restored Gregorian_calendar.txt 1 1686 
+astronomical Gregorian_calendar.txt 6 1597 3083 4368 4900 5039 5084 
+move Gregorian_calendar.txt 3 2212 3193 4619 
+displayed Gregorian_calendar.txt 1 3312 
+permissu Gregorian_calendar.txt 1 2604 
+years Gregorian_calendar.txt 57 16 277 295 297 301 341 358 368 371 382 390 477 553 649 710 731 745 823 836 853 857 861 869 1471 1808 1823 1828 1911 1914 1957 2078 2164 2263 2278 2285 2315 2320 2326 2332 2562 2896 3094 3131 3135 3405 4346 4836 4858 4926 4943 4973 5032 5101 5130 5133 5146 5153 
+produced Gregorian_calendar.txt 3 304 1373 1831 
+held Gregorian_calendar.txt 1 1691 
+mathematicians Gregorian_calendar.txt 1 1739 
+paper Gregorian_calendar.txt 1 1630 
+including Gregorian_calendar.txt 2 1750 2809 
+motions Gregorian_calendar.txt 1 1764 
+during Gregorian_calendar.txt 5 3116 3122 3241 3329 3755 
+argued Gregorian_calendar.txt 1 2188 
+converting Gregorian_calendar.txt 2 3156 3185 
+still Gregorian_calendar.txt 4 831 1233 1415 3822 
+its Gregorian_calendar.txt 11 1071 1275 1428 2156 3313 3373 3670 3711 3922 4026 4148 
+before Gregorian_calendar.txt 11 800 991 1141 3025 3030 3265 3490 3828 4124 4305 4379 
+24 Gregorian_calendar.txt 5 757 1029 3006 3230 3455 
+1 Gregorian_calendar.txt 33 605 931 939 2269 2863 2910 2922 3091 3263 3274 3290 3376 3383 3394 3399 3467 3488 3508 3533 3621 3631 3706 3715 3747 3817 3972 4068 4308 4342 4358 4361 4922 4939 
+style Gregorian_calendar.txt 12 540 543 580 584 2780 3601 3879 3882 3887 3890 3896 3900 
+conjunction Gregorian_calendar.txt 1 4652 
+20 Gregorian_calendar.txt 3 469 2614 5176 
+21 Gregorian_calendar.txt 8 472 505 1226 1273 1312 1421 2129 2175 
+internationally Gregorian_calendar.txt 1 29 
+la Gregorian_calendar.txt 1 2567 
+masses Gregorian_calendar.txt 1 824 
+solving Gregorian_calendar.txt 2 324 1851 
+28 Gregorian_calendar.txt 1 3149 
+29 Gregorian_calendar.txt 5 791 2631 2996 3206 3212 
+writing Gregorian_calendar.txt 3 1507 1539 3850 
+forms Gregorian_calendar.txt 1 2427 
+writers Gregorian_calendar.txt 1 3865 
+365.24225 Gregorian_calendar.txt 1 4996 
+systems Gregorian_calendar.txt 1 1372 
+400 Gregorian_calendar.txt 12 378 744 852 856 880 1913 2077 2265 2292 2314 4835 5139 
+weeks Gregorian_calendar.txt 2 4646 4663 
+holiday Gregorian_calendar.txt 1 108 
+decades Gregorian_calendar.txt 1 1621 
+setting Gregorian_calendar.txt 1 4231 
+happened Gregorian_calendar.txt 1 4123 
+eventually Gregorian_calendar.txt 1 2860 
+them Gregorian_calendar.txt 3 1628 2755 4557 
+return Gregorian_calendar.txt 2 2170 2754 
+deletion Gregorian_calendar.txt 1 2376 
+salamanca Gregorian_calendar.txt 1 1639 
+orthodox Gregorian_calendar.txt 3 140 2499 2502 
+died Gregorian_calendar.txt 1 4246 
+similar Gregorian_calendar.txt 1 4615 
+commended Gregorian_calendar.txt 1 2013 
+instance Gregorian_calendar.txt 1 5162 
+1900s Gregorian_calendar.txt 1 3118 
+precession Gregorian_calendar.txt 1 4874 
+monday1 Gregorian_calendar.txt 1 4778 
+they Gregorian_calendar.txt 10 373 1223 1969 2288 2463 3491 3956 4057 5135 5143 
+hands Gregorian_calendar.txt 2 4546 4566 
+not Gregorian_calendar.txt 17 188 388 495 599 764 1306 1646 1780 2407 2493 2765 3104 3141 3452 4331 4695 4880 
+genuflecting Gregorian_calendar.txt 1 990 
+rotation Gregorian_calendar.txt 1 5048 
+parilia Gregorian_calendar.txt 1 1320 
+regiomontanus Gregorian_calendar.txt 2 1571 1587 
+day Gregorian_calendar.txt 42 716 739 752 771 799 820 923 1135 1205 1238 1252 1263 1277 1317 1331 1356 1362 1392 1468 1519 2152 2259 2310 2383 2393 2994 3014 3160 3165 3257 3295 3406 3428 4099 4290 4301 4690 4855 4923 4940 5051 5126 
+nor Gregorian_calendar.txt 2 1890 3669 
+enacted Gregorian_calendar.txt 1 2421 
+jump Gregorian_calendar.txt 1 2908 
+february Gregorian_calendar.txt 13 720 758 792 813 1030 2997 3007 3150 3174 3207 3213 3231 3801 
+netherlands Gregorian_calendar.txt 1 4235 
+double Gregorian_calendar.txt 1 3836 
+name Gregorian_calendar.txt 1 918 
+sundays Gregorian_calendar.txt 2 4794 4805 
+january Gregorian_calendar.txt 20 606 940 2923 3275 3291 3318 3400 3443 3468 3489 3509 3534 3622 3707 3716 3748 3818 3973 4069 4575 
+university Gregorian_calendar.txt 1 1637 
+pitatus Gregorian_calendar.txt 2 1920 2009 
+feast Gregorian_calendar.txt 1 1728 
+identified Gregorian_calendar.txt 3 838 916 3638 
+ones Gregorian_calendar.txt 2 4545 4645 
+entered Gregorian_calendar.txt 1 3261 
+each Gregorian_calendar.txt 6 2154 2471 4422 4713 5050 5102 
+annexe Gregorian_calendar.txt 1 2775 
+quarter Gregorian_calendar.txt 1 5123 
+mean Gregorian_calendar.txt 13 403 874 1863 1896 1942 1955 1978 2002 2035 2063 3955 4843 4867 
+commonwealth Gregorian_calendar.txt 1 2681 
+week Gregorian_calendar.txt 3 4650 4693 4769 
+republican Gregorian_calendar.txt 1 3324 
+1600 Gregorian_calendar.txt 1 3511 
+england Gregorian_calendar.txt 5 3422 3520 3549 4218 4223 
+another Gregorian_calendar.txt 1 3698 
+latin Gregorian_calendar.txt 1 4439 
+list Gregorian_calendar.txt 1 4784 
+began Gregorian_calendar.txt 4 3254 3283 3372 3423 
+reduce Gregorian_calendar.txt 2 272 4991 
+unreformed Gregorian_calendar.txt 1 2133 
+related Gregorian_calendar.txt 1 2515 
+alteration Gregorian_calendar.txt 1 1706 
+goose Gregorian_calendar.txt 1 4487 
+lilius Gregorian_calendar.txt 4 268 302 1797 2138 
+extended Gregorian_calendar.txt 1 2932 
+year Gregorian_calendar.txt 92 13 21 68 114 345 355 393 408 435 482 567 595 619 697 713 727 841 876 902 935 947 964 1051 1081 1455 1898 1907 1934 1944 2007 2033 2037 2049 2055 2065 2085 2270 2858 2867 2875 2882 2888 2906 2915 2944 3081 3084 3089 3235 3237 3252 3299 3303 3310 3349 3374 3390 3420 3450 3465 3486 3506 3519 3531 3542 3555 3618 3628 3650 3702 3806 3815 3831 3845 3935 3965 3984 4065 4113 4307 4334 4369 4374 4482 4840 4869 4950 4994 5003 5064 5116 5128 
+seven-day Gregorian_calendar.txt 1 4649 
+et Gregorian_calendar.txt 1 2603 
+beyond Gregorian_calendar.txt 2 907 2437 
+event Gregorian_calendar.txt 3 3787 4210 5192 
+14,33,11,12 Gregorian_calendar.txt 1 1983 
+out Gregorian_calendar.txt 3 291 1481 1819 
+2.35 Gregorian_calendar.txt 1 5184 
+decree Gregorian_calendar.txt 1 3609 
+nuova Gregorian_calendar.txt 1 2568 
+2500 Gregorian_calendar.txt 1 2319 
+space Gregorian_calendar.txt 1 4581 
+2300 Gregorian_calendar.txt 1 5160 
+defend Gregorian_calendar.txt 1 2194 
+since Gregorian_calendar.txt 7 1260 1501 2106 2248 2367 2960 5019 
+forty Gregorian_calendar.txt 1 2163 
+publish Gregorian_calendar.txt 1 2554 
+increase Gregorian_calendar.txt 1 1595 
+contained Gregorian_calendar.txt 1 218 
+oriental Gregorian_calendar.txt 1 2501 
+churches Gregorian_calendar.txt 6 1384 1398 2497 2500 2503 2522 
+aligned Gregorian_calendar.txt 1 3938 
+forth Gregorian_calendar.txt 1 3654 
+occurs Gregorian_calendar.txt 2 728 4207 
+shows Gregorian_calendar.txt 2 4679 5075 
+romana Gregorian_calendar.txt 1 3742 
+earlier Gregorian_calendar.txt 3 1281 1339 3740 
+sixtus Gregorian_calendar.txt 1 1565 
+drifting Gregorian_calendar.txt 1 1094 
+derived Gregorian_calendar.txt 1 3734 
+friday Gregorian_calendar.txt 3 2398 2713 4745 
+little Gregorian_calendar.txt 1 4118 
+standard Gregorian_calendar.txt 2 683 4318 
+completely Gregorian_calendar.txt 1 846 
+x Gregorian_calendar.txt 1 5096 
+put Gregorian_calendar.txt 2 1916 2357 
+o.s Gregorian_calendar.txt 2 581 3560 
+philip Gregorian_calendar.txt 2 2634 2656 
+earliest Gregorian_calendar.txt 4 512 1271 4452 5182 
+beginning Gregorian_calendar.txt 4 786 961 3232 3812 
+universally Gregorian_calendar.txt 1 4084 
+cycles Gregorian_calendar.txt 1 844 
+poem Gregorian_calendar.txt 2 4458 4526 
+language Gregorian_calendar.txt 2 4173 4185 
+english Gregorian_calendar.txt 4 3863 4172 4184 4461 
+starts Gregorian_calendar.txt 2 4776 4800 
+could Gregorian_calendar.txt 4 1268 1278 1336 2764 
+transition Gregorian_calendar.txt 1 100 
+days Gregorian_calendar.txt 48 411 413 418 420 530 701 783 849 864 872 881 883 886 1078 1490 1524 1537 1966 2040 2052 2075 2088 2105 2379 2510 2979 3039 3179 3191 3546 3688 4261 4411 4420 4433 4476 4506 4551 4563 4766 4832 4845 4916 4952 4970 4978 4997 5185 
+british Gregorian_calendar.txt 6 2763 2807 3524 3586 3940 4169 
+times Gregorian_calendar.txt 2 946 2317 
+introduction Gregorian_calendar.txt 5 2962 4028 4126 4138 4149 
+length Gregorian_calendar.txt 6 64 404 1893 2003 2030 2045 
+place Gregorian_calendar.txt 1 2209 
+undesirable Gregorian_calendar.txt 1 1192 
+assumed Gregorian_calendar.txt 1 3027 
+corrections Gregorian_calendar.txt 2 2323 5164 
+uses Gregorian_calendar.txt 2 4338 4367 
+omits Gregorian_calendar.txt 1 736 
+onto Gregorian_calendar.txt 1 4106 
+intercalary Gregorian_calendar.txt 1 2993 
+first Gregorian_calendar.txt 14 969 1119 1276 1330 1552 1697 2392 2577 3260 3294 3762 4137 4609 4788 
+key Gregorian_calendar.txt 1 4629 
+already Gregorian_calendar.txt 3 1426 2099 3811 
+number Gregorian_calendar.txt 11 274 781 920 1805 2868 2902 2941 3037 3177 4302 4418 
+feasts Gregorian_calendar.txt 1 814 
+one Gregorian_calendar.txt 15 154 156 819 1467 2211 2309 2574 3159 3164 3351 3689 3873 3876 4567 4854 
+nativity Gregorian_calendar.txt 2 656 3359 
+norm Gregorian_calendar.txt 1 3635 
+adopted Gregorian_calendar.txt 12 129 150 1410 1781 1784 2820 3492 3764 3775 4711 4730 5025 
+proposing Gregorian_calendar.txt 1 2450 
+spanish Gregorian_calendar.txt 1 2718 
+970 Gregorian_calendar.txt 1 4976 
+electronic Gregorian_calendar.txt 1 4667 
+maintains Gregorian_calendar.txt 1 5065 
+continental Gregorian_calendar.txt 2 4164 4177 
+given Gregorian_calendar.txt 5 556 3918 4201 4673 4684 
+ancient Gregorian_calendar.txt 1 1858 
+222 Gregorian_calendar.txt 2 3266 3271 
+their Gregorian_calendar.txt 4 2777 3813 3871 4074 
+festival Gregorian_calendar.txt 1 1328 
+23 Gregorian_calendar.txt 3 4252 4283 5166 
+hegira Gregorian_calendar.txt 2 2841 2874 
+system Gregorian_calendar.txt 9 646 670 1259 2772 3738 3912 4655 4661 4705 
+least Gregorian_calendar.txt 1 161 
+tradition Gregorian_calendar.txt 1 4449 
+solstice Gregorian_calendar.txt 2 5112 5174 
+indicate Gregorian_calendar.txt 4 587 3782 3958 3988 
+assumption Gregorian_calendar.txt 1 1072 
+compromise Gregorian_calendar.txt 1 1380 
+observations Gregorian_calendar.txt 1 1603 
+passed Gregorian_calendar.txt 1 1885 
+dee Gregorian_calendar.txt 1 3856 
+fought Gregorian_calendar.txt 1 4089 
+white Gregorian_calendar.txt 1 4632 
+scheme Gregorian_calendar.txt 4 309 338 906 1836 
+gives Gregorian_calendar.txt 2 550 3035 
+saint Gregorian_calendar.txt 2 3686 4096 
+that Gregorian_calendar.txt 43 191 278 346 359 488 589 621 1073 1126 1146 1214 1293 1314 1382 1444 1460 1513 1678 1688 1704 1874 1927 2140 2204 2277 2327 2447 2589 2791 3042 3086 3096 3211 3514 3613 3703 3859 3959 3989 4122 4729 4979 5114 
+1599 Gregorian_calendar.txt 1 3515 
+completed Gregorian_calendar.txt 1 985 
+exactly Gregorian_calendar.txt 5 348 361 375 1076 4248 
+took Gregorian_calendar.txt 1 1137 
+lists Gregorian_calendar.txt 1 3435 
+consuls Gregorian_calendar.txt 1 3259 
+resulted Gregorian_calendar.txt 1 2081 
+part Gregorian_calendar.txt 2 2749 2812 
+western Gregorian_calendar.txt 4 3341 3478 4165 4178 
+somewhat Gregorian_calendar.txt 1 2723 
+discounted Gregorian_calendar.txt 1 3215 
+occurring Gregorian_calendar.txt 3 3445 3474 4047 
+than Gregorian_calendar.txt 15 631 1282 1288 1311 1340 1346 1522 1771 2061 2267 2885 2919 3167 4005 4937 
+specify Gregorian_calendar.txt 1 533 
+11 Gregorian_calendar.txt 3 2058 2120 4237 
+10 Gregorian_calendar.txt 4 430 2104 2118 2378 
+13 Gregorian_calendar.txt 2 2365 4203 
+12 Gregorian_calendar.txt 2 425 892 
+15 Gregorian_calendar.txt 6 2399 2714 3268 4050 4144 4746 
+14 Gregorian_calendar.txt 1 4153 
+showed Gregorian_calendar.txt 1 1512 
+fold Gregorian_calendar.txt 1 2759 
+divisible Gregorian_calendar.txt 6 349 362 376 2279 2290 5137 
+conforms Gregorian_calendar.txt 2 624 3992 
+rusconi Gregorian_calendar.txt 1 984 
+lilio Gregorian_calendar.txt 6 988 1799 2544 2549 2598 2619 
+project Gregorian_calendar.txt 2 1580 1644 
+sweden Gregorian_calendar.txt 1 2826 
+r Gregorian_calendar.txt 1 1660 
+architect Gregorian_calendar.txt 1 1868 
+supposed Gregorian_calendar.txt 1 3358 
+were Gregorian_calendar.txt 10 453 949 1385 1779 1980 2289 2451 2517 3595 3821 
+10th Gregorian_calendar.txt 1 1395 
+russia Gregorian_calendar.txt 1 3379 
+result Gregorian_calendar.txt 2 2795 3099 
+and Gregorian_calendar.txt 102 9 87 138 149 165 236 307 385 510 541 574 582 759 790 865 891 921 1099 1244 1285 1299 1325 1343 1599 1653 1703 1723 1753 1768 1834 1939 1949 1985 1997 2131 2196 2213 2253 2441 2504 2514 2596 2664 2686 2719 2805 2846 2865 2939 2956 2971 3078 3245 3273 3378 3407 3469 3522 3584 3645 3653 3657 3697 3768 3793 3875 3880 3888 3892 3898 3921 3936 4070 4147 4167 4243 4288 4336 4348 4362 4376 4391 4407 4441 4443 4488 4552 4576 4587 4611 4638 4678 4686 4793 4882 5005 5059 5082 5094 5107 5159 5175 
+motivation Gregorian_calendar.txt 2 70 1033 
+fashion Gregorian_calendar.txt 1 3656 
+remained Gregorian_calendar.txt 1 3556 
+14,33,9,57 Gregorian_calendar.txt 1 1981 
+julian Gregorian_calendar.txt 45 55 147 196 225 249 336 573 594 628 706 723 748 1006 1069 1454 2048 2054 2150 2381 2643 2704 2848 2920 2957 2972 3050 3065 3138 3195 3208 3280 3721 3791 3964 3995 4061 4228 4275 4300 4328 4401 4757 4825 4830 4947 
+correction Gregorian_calendar.txt 5 61 2027 2206 2243 5150 
+modern Gregorian_calendar.txt 1 774 
+ages Gregorian_calendar.txt 2 3019 3332 
+few Gregorian_calendar.txt 2 2506 4727 
+formula Gregorian_calendar.txt 1 2239 
+variable Gregorian_calendar.txt 1 4904 
+have Gregorian_calendar.txt 8 192 205 1971 2012 2474 4087 4332 4404 
+need Gregorian_calendar.txt 1 1546 
+keyboard Gregorian_calendar.txt 1 4623 
+border Gregorian_calendar.txt 1 1404 
+any Gregorian_calendar.txt 2 3700 4928 
+contents Gregorian_calendar.txt 1 685 
+acceleration Gregorian_calendar.txt 1 5058 
+catholic Gregorian_calendar.txt 10 133 810 1181 2439 2486 2653 2740 2758 2771 3338 
+conversion Gregorian_calendar.txt 2 4072 4670 
+documents Gregorian_calendar.txt 2 609 3978 
+1969 Gregorian_calendar.txt 1 802 
+depending Gregorian_calendar.txt 1 474 
+1616 Gregorian_calendar.txt 1 4254 
+improves Gregorian_calendar.txt 1 4819 
+1540s Gregorian_calendar.txt 1 1652 
+able Gregorian_calendar.txt 1 1386 
+nicaea Gregorian_calendar.txt 5 1122 1700 2110 2252 2371 
+also Gregorian_calendar.txt 11 303 440 671 1830 1901 2000 2304 3709 3937 4519 5205 
+without Gregorian_calendar.txt 1 2799 
+take Gregorian_calendar.txt 1 2208 
+which Gregorian_calendar.txt 27 93 116 647 850 1053 1162 1222 1414 1689 2218 2229 2458 2512 3132 3253 3282 3692 3723 3909 4033 4094 4371 4403 4803 4878 4888 5141 
+325 Gregorian_calendar.txt 2 1124 1702 
+objective Gregorian_calendar.txt 1 1147 
+10-day Gregorian_calendar.txt 2 2142 2242 
+iso Gregorian_calendar.txt 4 4319 4365 4383 4770 
+encouraged Gregorian_calendar.txt 1 4279 
+accuracy Gregorian_calendar.txt 2 2090 4815 
+worldwide Gregorian_calendar.txt 1 4775 
+added Gregorian_calendar.txt 2 718 3904 
+altered Gregorian_calendar.txt 1 3930 
+allow Gregorian_calendar.txt 1 1718 
+though Gregorian_calendar.txt 6 608 2999 3301 3547 3678 3976 
+who Gregorian_calendar.txt 3 43 269 1567 
+festivals25 Gregorian_calendar.txt 1 3356 
+falls Gregorian_calendar.txt 2 1215 5036 
+liturgical Gregorian_calendar.txt 1 12 
+most Gregorian_calendar.txt 5 31 2424 2950 3477 4527 
+regular Gregorian_calendar.txt 2 695 860 
+eight Gregorian_calendar.txt 1 1536 
+printed Gregorian_calendar.txt 4 996 2570 2579 4779 
+letter Gregorian_calendar.txt 1 3864 
+undertaken Gregorian_calendar.txt 1 1562 
+phase Gregorian_calendar.txt 1 1483 
+seasons Gregorian_calendar.txt 2 5040 5085 
+15721585 Gregorian_calendar.txt 1 1661 
+inserted Gregorian_calendar.txt 2 754 4463 
+14,33,9,24 Gregorian_calendar.txt 1 1986 
+cause Gregorian_calendar.txt 1 5165 
+2200 Gregorian_calendar.txt 1 5158 
+considered Gregorian_calendar.txt 3 795 1183 4085 
+calculated Gregorian_calendar.txt 3 660 3169 3219 
+sometimes Gregorian_calendar.txt 4 546 3832 3903 4413 
+7,700 Gregorian_calendar.txt 1 4925 
+order Gregorian_calendar.txt 1 3317 
+traditional Gregorian_calendar.txt 5 146 652 4322 4352 4430 
+giving Gregorian_calendar.txt 1 4837 
+near Gregorian_calendar.txt 1 4912 
+built Gregorian_calendar.txt 1 1462 
+benedetti Gregorian_calendar.txt 1 1752 
+typically Gregorian_calendar.txt 1 794 
+fact Gregorian_calendar.txt 1 2340 
+sail Gregorian_calendar.txt 1 4232 
+herschels Gregorian_calendar.txt 1 4998 
+pope Gregorian_calendar.txt 8 40 231 993 1014 1564 1657 1670 2533 
+opinions Gregorian_calendar.txt 1 4759 
+agreed Gregorian_calendar.txt 1 1877 
+charles Gregorian_calendar.txt 1 3439 
+contemporary Gregorian_calendar.txt 1 3977 
+brother Gregorian_calendar.txt 1 2546 
+notations Gregorian_calendar.txt 1 586 
+bring Gregorian_calendar.txt 2 1039 2766 
+spaces Gregorian_calendar.txt 1 4555 
+battle Gregorian_calendar.txt 2 4080 4196 
+attested Gregorian_calendar.txt 1 4454 
+rounded Gregorian_calendar.txt 1 3109 
+line Gregorian_calendar.txt 2 4354 4386 
+precursors Gregorian_calendar.txt 1 5206 
+subtracting Gregorian_calendar.txt 1 3190 
+1545 Gregorian_calendar.txt 1 1664 
+based Gregorian_calendar.txt 1 950 
+knowledge Gregorian_calendar.txt 1 1598 
+northern Gregorian_calendar.txt 1 90 
+true Gregorian_calendar.txt 1 1763 
+verse Gregorian_calendar.txt 1 4431 
+saints Gregorian_calendar.txt 1 4468 
+3 Gregorian_calendar.txt 2 290 2538 
+15271608/9 Gregorian_calendar.txt 1 3857 
+should Gregorian_calendar.txt 6 1129 1758 2144 2207 3619 4034 
+only Gregorian_calendar.txt 5 1655 2261 2286 3544 4524 
+unable Gregorian_calendar.txt 1 2621 
+implemented Gregorian_calendar.txt 3 1654 2695 3596 
+1917 Gregorian_calendar.txt 2 2832 2912 
+ambiguity Gregorian_calendar.txt 1 4294 
+gradual Gregorian_calendar.txt 1 2169 
+equivalents Gregorian_calendar.txt 1 4076 
+8 Gregorian_calendar.txt 2 1283 2316 
+piano Gregorian_calendar.txt 1 4622 
+500/400 Gregorian_calendar.txt 1 3125 
+thousands Gregorian_calendar.txt 1 5030 
+over Gregorian_calendar.txt 7 1618 1964 2159 2457 2662 4985 5054 
+meant Gregorian_calendar.txt 1 1292 
+begins Gregorian_calendar.txt 1 3704 
+his Gregorian_calendar.txt 5 995 1518 1590 2195 3852 
+claviuss Gregorian_calendar.txt 1 2201 
+revolutionibus Gregorian_calendar.txt 1 1948 
+means Gregorian_calendar.txt 3 3063 3095 3513 
+vary Gregorian_calendar.txt 1 4760 
+secular Gregorian_calendar.txt 2 3054 3076 
+de Gregorian_calendar.txt 2 1947 2725 
+stop Gregorian_calendar.txt 1 76 
+crispin Gregorian_calendar.txt 1 4097 
+clavius Gregorian_calendar.txt 2 1866 2184 
+october Gregorian_calendar.txt 10 47 2386 2400 2707 2715 4051 4092 4145 4747 4755 
+moleto Gregorian_calendar.txt 1 1755 
+negative Gregorian_calendar.txt 2 3061 4377 
+closely Gregorian_calendar.txt 1 2187 
+international Gregorian_calendar.txt 3 172 682 4317 
+128 Gregorian_calendar.txt 1 4942 
+2 Gregorian_calendar.txt 5 1347 3126 4343 4356 4364 
+trade Gregorian_calendar.txt 1 173 
+him Gregorian_calendar.txt 1 2803 
+celebrate Gregorian_calendar.txt 2 1130 1388 
+gravissimas Gregorian_calendar.txt 3 976 1027 2480 
+runs Gregorian_calendar.txt 1 937 
+late Gregorian_calendar.txt 1 3017 
+countries Gregorian_calendar.txt 16 134 141 190 2734 2952 3343 3480 3606 3625 3641 3661 3763 3810 3848 4003 4728 
+numerous Gregorian_calendar.txt 1 1616 
+dante Gregorian_calendar.txt 1 1538 
+irregularities Gregorian_calendar.txt 1 4701 
+twice Gregorian_calendar.txt 1 3010 
+roger Gregorian_calendar.txt 1 1525 
+common Gregorian_calendar.txt 8 20 296 677 1824 3397 4534 4773 5008 
+recommendations Gregorian_calendar.txt 1 1778 
+through Gregorian_calendar.txt 2 1886 4613 
+fixed Gregorian_calendar.txt 5 503 517 1451 2126 2861 
+where Gregorian_calendar.txt 4 1369 3073 3803 3924 
+14th Gregorian_calendar.txt 3 1204 1262 1361 
+year-numbering Gregorian_calendar.txt 2 645 669 
+arrival Gregorian_calendar.txt 1 1591 
+set Gregorian_calendar.txt 1 95 
+equinox Gregorian_calendar.txt 14 92 465 499 1089 1178 1221 1241 1368 1419 1684 1889 2115 2173 4902 
+computed Gregorian_calendar.txt 2 1209 1760 
+reference Gregorian_calendar.txt 1 3911 
+achieved Gregorian_calendar.txt 2 1145 2792 
+variations Gregorian_calendar.txt 1 4483 
+dionysius Gregorian_calendar.txt 1 666 
+310 Gregorian_calendar.txt 1 1470 
+instituted Gregorian_calendar.txt 1 1010 
+observed Gregorian_calendar.txt 1 1097 
+see Gregorian_calendar.txt 9 11 19 959 1157 2089 2876 3588 5056 5204 
+1923 Gregorian_calendar.txt 2 185 3769 
+are Gregorian_calendar.txt 23 360 369 374 387 545 837 859 867 1075 1990 2328 2986 3133 3155 3184 3189 3902 4053 4180 5131 5136 5144 5197 
+1926 Gregorian_calendar.txt 1 2924 
+greece Gregorian_calendar.txt 1 183 
+christian Gregorian_calendar.txt 2 2521 3355 
+calendar Gregorian_calendar.txt 124 1 5 18 27 35 56 67 81 104 148 197 211 226 250 329 407 438 523 629 637 643 689 693 707 724 735 749 807 830 875 895 912 934 958 997 1000 1007 1020 1070 1093 1479 1499 1549 1625 1676 1709 1856 1872 2237 2302 2355 2382 2397 2416 2456 2556 2647 2693 2747 2778 2823 2838 2849 2878 2930 2958 2966 2973 3022 3045 3051 3066 3072 3139 3153 3182 3281 3495 3579 3599 3722 3767 3792 3797 3910 3926 3941 3945 3996 4008 4012 4017 4021 4032 4062 4130 4142 4192 4229 4241 4270 4276 4313 4325 4329 4396 4466 4668 4709 4733 4758 4781 4813 4818 4826 4932 4948 4966 4982 5035 5070 5081 5100 5203 
+alternative Gregorian_calendar.txt 1 4536 
+feared Gregorian_calendar.txt 1 2744 
+closer Gregorian_calendar.txt 1 4920 
+preparation Gregorian_calendar.txt 1 1662 
+herschel Gregorian_calendar.txt 1 4959 
+imposition Gregorian_calendar.txt 1 2255 
+expert Gregorian_calendar.txt 1 1738 
+reform Gregorian_calendar.txt 26 73 127 153 181 217 222 238 258 330 333 439 762 968 1003 1550 1560 1626 1674 1742 1783 1857 2096 2419 2531 2584 5210 
+speed Gregorian_calendar.txt 1 4893 
+currently Gregorian_calendar.txt 2 936 4453 
+wikipedia Gregorian_calendar.txt 1 2 
+canons Gregorian_calendar.txt 1 3672 
+alphonsine Gregorian_calendar.txt 1 1982 
+liliuss Gregorian_calendar.txt 6 1800 2018 2079 2177 2197 2238 
+written Gregorian_calendar.txt 1 610 
+future Gregorian_calendar.txt 1 1714 
+proleptic Gregorian_calendar.txt 6 3024 4010 4015 4031 4311 4323 
+multiples Gregorian_calendar.txt 1 5006 
+john Gregorian_calendar.txt 2 3855 4958 
+between Gregorian_calendar.txt 12 446 1296 2954 2969 3056 3758 4135 4161 4556 4582 4909 5078 
+366 Gregorian_calendar.txt 1 871 
+consecutive Gregorian_calendar.txt 2 552 840 
+neither Gregorian_calendar.txt 2 1878 3665 
+365 Gregorian_calendar.txt 7 412 419 700 863 878 885 1965 
+conditions Gregorian_calendar.txt 1 526 
+across Gregorian_calendar.txt 1 4578 
+15th Gregorian_calendar.txt 2 1355 1609 
+europe Gregorian_calendar.txt 4 136 2654 4166 4179 
+ends Gregorian_calendar.txt 1 3693 
+various Gregorian_calendar.txt 2 3663 3847 
+terms Gregorian_calendar.txt 1 3954 
+reproduced Gregorian_calendar.txt 1 524 
+relative Gregorian_calendar.txt 3 3713 3726 3745 
+25 Gregorian_calendar.txt 6 1235 1300 3362 3425 3558 4091 
+initially Gregorian_calendar.txt 2 130 2735 
+confusion Gregorian_calendar.txt 4 3949 4119 4160 4206 
+pinkie Gregorian_calendar.txt 1 4572 
+however Gregorian_calendar.txt 3 1228 1578 4870 
+aloysius Gregorian_calendar.txt 2 267 1796 
+365.25 Gregorian_calendar.txt 4 410 1077 2051 4951 
+gregorian Gregorian_calendar.txt 69 0 17 26 103 152 210 216 332 437 522 576 634 636 688 696 734 761 835 967 999 1871 1905 2006 2396 2415 2646 2712 2822 2917 2929 2955 2965 2970 3021 3044 3071 3143 3197 3203 3224 3494 3578 3766 3796 3944 4007 4011 4016 4020 4075 4129 4141 4191 4240 4269 4312 4324 4395 4704 4708 4817 4931 4965 4981 5034 5080 5099 5202 5209 
+centurial Gregorian_calendar.txt 4 294 367 1822 5129 
+prutenic Gregorian_calendar.txt 1 1951 
+article Gregorian_calendar.txt 4 2411 3752 4014 4648 
+3,030 Gregorian_calendar.txt 1 4857 
+come Gregorian_calendar.txt 1 206 
+brahe Gregorian_calendar.txt 1 1900 
+1648 Gregorian_calendar.txt 1 3447 
+both Gregorian_calendar.txt 5 571 1383 3789 4212 4344 
+dates Gregorian_calendar.txt 19 544 577 1375 2959 2974 3041 3240 3306 3869 3883 3891 3906 4024 4044 4105 4108 4304 4681 4792 
+providing Gregorian_calendar.txt 1 2166 
+last Gregorian_calendar.txt 4 175 3772 4605 4797 
+22 Gregorian_calendar.txt 3 519 1297 3728 
+irregular Gregorian_calendar.txt 1 4408 
+always Gregorian_calendar.txt 4 2990 3002 3311 4200 
+country Gregorian_calendar.txt 4 177 2472 3774 4714 
+invited Gregorian_calendar.txt 1 1570 
+annual Gregorian_calendar.txt 2 320 1847 
+escape Gregorian_calendar.txt 1 2895 
+according Gregorian_calendar.txt 2 826 1090 
+against Gregorian_calendar.txt 1 2199 
+april Gregorian_calendar.txt 9 1290 1301 1313 1348 2539 3562 3571 4253 4284 
+roman Gregorian_calendar.txt 7 806 809 1180 2652 3243 3247 3323 
+became Gregorian_calendar.txt 4 2481 2916 2945 3633 
+present Gregorian_calendar.txt 1 3328 
+dated Gregorian_calendar.txt 2 1028 3837 
+fix Gregorian_calendar.txt 1 3674 
+referring Gregorian_calendar.txt 1 2801 
+con Gregorian_calendar.txt 1 2599 
+among Gregorian_calendar.txt 1 1627 
+adjusted Gregorian_calendar.txt 2 601 3968 
+sunday0 Gregorian_calendar.txt 1 4802 
+necessary Gregorian_calendar.txt 1 3780 
+point Gregorian_calendar.txt 2 955 5103 
+simple Gregorian_calendar.txt 2 2235 4697 
+others Gregorian_calendar.txt 2 2507 3820 
+period Gregorian_calendar.txt 8 775 1505 2161 2559 3325 3757 4134 4988 
+coincidence Gregorian_calendar.txt 1 4278 
+reported Gregorian_calendar.txt 1 4182 
+church Gregorian_calendar.txt 12 125 246 811 1064 1154 1182 1194 1230 2431 2440 2487 3339 
+respect Gregorian_calendar.txt 3 83 4860 4897 
+actually Gregorian_calendar.txt 2 2800 3040 
+along Gregorian_calendar.txt 1 2321 
+turkey Gregorian_calendar.txt 1 2833 
+rumi Gregorian_calendar.txt 1 2877 
+1425 Gregorian_calendar.txt 1 4470 
+1582 Gregorian_calendar.txt 21 48 1012 1031 2387 2401 2489 2540 2616 2633 2708 2716 3026 3031 3691 3759 3829 3862 4052 4146 4748 4756 
+pagan Gregorian_calendar.txt 1 1327 
+inclusive Gregorian_calendar.txt 1 2987 
+three Gregorian_calendar.txt 7 741 1523 1818 1954 2074 2978 4829 
+been Gregorian_calendar.txt 11 600 1104 1494 1972 2100 3967 4088 4502 4520 5017 5023 
+references Gregorian_calendar.txt 1 5213 
+tropical Gregorian_calendar.txt 7 1897 1933 1943 1956 2036 2064 4868 
+whom Gregorian_calendar.txt 1 1018 
+reduction Gregorian_calendar.txt 1 428 
+recognised Gregorian_calendar.txt 1 2494 
+ireland Gregorian_calendar.txt 1 3521 
+proposal Gregorian_calendar.txt 5 264 1790 1801 2080 4999 
+slightly Gregorian_calendar.txt 1 5052 
+bissextile Gregorian_calendar.txt 1 3013 
+earths Gregorian_calendar.txt 2 4891 5047 
+important Gregorian_calendar.txt 1 3354 
+0000 Gregorian_calendar.txt 1 4389 
+0001 Gregorian_calendar.txt 2 4388 4390 
+0002 Gregorian_calendar.txt 1 4392 
+eastern Gregorian_calendar.txt 4 139 1403 2498 2811 
+influence Gregorian_calendar.txt 2 3335 3658 
+c Gregorian_calendar.txt 3 1528 1540 4469 
+tycho Gregorian_calendar.txt 1 1899 
+occurrences Gregorian_calendar.txt 1 2158 
+external Gregorian_calendar.txt 1 5214 
+bull Gregorian_calendar.txt 6 974 1025 2433 2478 2702 3668 
+reinhold Gregorian_calendar.txt 2 1950 1987 
+general Gregorian_calendar.txt 3 2844 2937 3128 
+hidden Gregorian_calendar.txt 1 5217 
+spain Gregorian_calendar.txt 3 2637 2663 4266 
+revoked Gregorian_calendar.txt 1 2612 
+case Gregorian_calendar.txt 2 4724 5142 
+main Gregorian_calendar.txt 5 2410 3751 3884 4013 4647 
+thirty Gregorian_calendar.txt 2 4432 4505 
+unlike Gregorian_calendar.txt 1 4309 
+these Gregorian_calendar.txt 10 366 447 525 855 1748 1777 2673 3592 3953 5163 
+expanded Gregorian_calendar.txt 1 2180 
+britain Gregorian_calendar.txt 5 2804 3583 3920 4151 4272 
+value Gregorian_calendar.txt 3 3170 3220 4864 
+act Gregorian_calendar.txt 3 2781 3602 3927 
+employ Gregorian_calendar.txt 1 4399 
+petrus Gregorian_calendar.txt 1 1919 
+while Gregorian_calendar.txt 5 3121 3368 3819 5012 5062 
+consular Gregorian_calendar.txt 1 3251 
+many Gregorian_calendar.txt 4 186 2732 3340 4002 
+1515 Gregorian_calendar.txt 1 1641 
+exist Gregorian_calendar.txt 1 3029 
+vernal Gregorian_calendar.txt 9 91 464 1220 1418 1683 1888 2114 4901 4910 
+2100 Gregorian_calendar.txt 2 2337 5157 
+precede Gregorian_calendar.txt 2 497 1366 
+procedure Gregorian_calendar.txt 1 4591 
+periods Gregorian_calendar.txt 1 10 
+seven Gregorian_calendar.txt 1 1534 
+30 Gregorian_calendar.txt 1 3442 
+portugal Gregorian_calendar.txt 1 2665 
+century Gregorian_calendar.txt 9 461 664 1396 1439 1476 1511 1610 3415 4956 
+almost Gregorian_calendar.txt 2 1138 2057 
+1649 Gregorian_calendar.txt 1 3476 
+is Gregorian_calendar.txt 50 28 37 347 352 395 679 690 717 793 877 897 989 1929 1999 2038 2050 2056 2815 2883 3023 3046 3067 3074 3079 3087 3103 3108 3144 3214 3221 3229 3680 3913 3947 4083 4095 4199 4355 4387 4459 4537 4617 4659 4694 4879 4903 4933 5089 5098 5104 
+thus Gregorian_calendar.txt 6 1100 2008 3115 3216 4350 4381 
+it Gregorian_calendar.txt 28 36 45 49 117 776 1008 1054 1058 1136 1690 1928 2134 2214 2491 2590 3000 3107 3567 3679 3708 3725 3744 3776 3777 4380 4436 4517 5020 
+discrepancy Gregorian_calendar.txt 1 2067 
+1723 Gregorian_calendar.txt 1 986 
+ii Gregorian_calendar.txt 1 2635 
+middle Gregorian_calendar.txt 2 3018 3331 
+jagiellon Gregorian_calendar.txt 1 2685 
+obstacle Gregorian_calendar.txt 2 327 1854 
+experts Gregorian_calendar.txt 1 1749 
+marginalia Gregorian_calendar.txt 1 4462 
+dual Gregorian_calendar.txt 6 536 548 3749 3753 3805 3893 
+in Gregorian_calendar.txt 117 46 62 115 171 184 280 396 401 479 561 661 704 708 721 740 746 772 821 1011 1052 1067 1079 1123 1187 1256 1302 1430 1508 1517 1527 1568 1592 1640 1663 1701 1731 1809 1912 1923 1958 2069 2082 2112 2185 2210 2260 2264 2268 2271 2318 2339 2358 2363 2422 2470 2488 2580 2672 2678 2687 2730 2824 2828 2949 3130 3136 3151 3239 3284 3315 3396 3421 3446 3475 3510 3535 3548 3573 3575 3604 3639 3717 3788 3794 3846 3851 3919 3999 4001 4059 4150 4163 4168 4171 4176 4183 4222 4262 4315 4421 4438 4485 4624 4651 4702 4722 4772 4786 4795 4806 4833 4941 4953 5092 5113 5140 5151 
+affected Gregorian_calendar.txt 2 2408 2649 
+sixteenth-century Gregorian_calendar.txt 1 4525 
+if Gregorian_calendar.txt 5 372 2132 2287 3097 3217 
+sequentially Gregorian_calendar.txt 1 928 
+different Gregorian_calendar.txt 7 616 953 1247 1374 2520 3841 3981 
+italy Gregorian_calendar.txt 1 2671 
+thereby Gregorian_calendar.txt 1 2165 
+considerable Gregorian_calendar.txt 1 4159 
+doctor Gregorian_calendar.txt 1 1795 
+lengths Gregorian_calendar.txt 1 448 
+granted Gregorian_calendar.txt 1 2541 
+s Gregorian_calendar.txt 3 234 3687 4098 
+same Gregorian_calendar.txt 8 1134 1391 1992 2794 2947 4250 4590 4987 
+shorter Gregorian_calendar.txt 1 4644 
+shifts Gregorian_calendar.txt 1 5119 
+300 Gregorian_calendar.txt 1 2312 
+parts Gregorian_calendar.txt 1 220 
+virtually Gregorian_calendar.txt 1 1142 
+widely Gregorian_calendar.txt 1 32 
+ruler Gregorian_calendar.txt 1 2661 
+modification Gregorian_calendar.txt 4 261 1787 4962 5014 
+colonies Gregorian_calendar.txt 4 2721 3525 3587 3923 
+several Gregorian_calendar.txt 1 3353 
+woolley Gregorian_calendar.txt 1 3849 
+events Gregorian_calendar.txt 4 4046 4121 4162 4175 
+european Gregorian_calendar.txt 5 176 1491 3342 3479 3773 
+ordinal Gregorian_calendar.txt 1 4340 
+monthly Gregorian_calendar.txt 2 4780 4812 
+thereof Gregorian_calendar.txt 1 5007 
+used Gregorian_calendar.txt 17 33 194 228 243 547 1245 1446 2298 2834 3238 3304 3867 3914 4036 4267 4273 4314 
+y Gregorian_calendar.txt 1 5087 
+centuries Gregorian_calendar.txt 5 283 1140 1811 2366 2982 
+keys Gregorian_calendar.txt 2 4633 4641 
+gregorys Gregorian_calendar.txt 3 2095 2418 2797 
+upon Gregorian_calendar.txt 1 2181 
+effect Gregorian_calendar.txt 1 2476 
+holidays Gregorian_calendar.txt 2 8 2516 
+average Gregorian_calendar.txt 6 2044 2084 4839 4907 4949 4993 
+traditionally Gregorian_calendar.txt 1 193 
+arrived Gregorian_calendar.txt 1 4219 
+arose Gregorian_calendar.txt 1 1163 
+never Gregorian_calendar.txt 1 5022 
+january-year Gregorian_calendar.txt 1 3632 
+nonverbal Gregorian_calendar.txt 1 4535 
+scholars Gregorian_calendar.txt 1 1492 
+single Gregorian_calendar.txt 1 4600 
+cycle Gregorian_calendar.txt 8 242 483 1213 1248 1459 2297 2403 4717 
+numbered Gregorian_calendar.txt 3 903 927 3814 
+compendium Gregorian_calendar.txt 1 1734 
+lower Gregorian_calendar.txt 1 4554 
+shortly Gregorian_calendar.txt 1 1588 
+i Gregorian_calendar.txt 2 3440 4513 
+antonii Gregorian_calendar.txt 1 2605 
+no Gregorian_calendar.txt 8 1280 1286 1338 1344 2329 2435 2461 4071 
+well Gregorian_calendar.txt 5 1495 2294 2667 2676 4116 
+roughly Gregorian_calendar.txt 1 2870 
+antonio Gregorian_calendar.txt 3 987 2543 2618 
+4000 Gregorian_calendar.txt 2 4972 5004 
+rome Gregorian_calendar.txt 5 1232 1303 1324 1593 2581 
+epact Gregorian_calendar.txt 1 3712 
+components Gregorian_calendar.txt 1 2022 
+territories Gregorian_calendar.txt 1 2674 
+firstly Gregorian_calendar.txt 1 2023 
+position Gregorian_calendar.txt 1 478 
+the Gregorian_calendar.txt 548 4 25 30 54 63 66 69 72 77 80 85 89 96 102 107 110 113 123 126 132 145 151 167 174 180 195 199 209 215 224 240 245 248 253 257 273 312 315 319 331 335 381 392 399 402 406 436 443 449 456 459 463 476 480 485 489 498 500 511 521 562 566 572 575 578 590 593 612 626 632 635 641 651 655 662 680 687 705 722 733 747 750 760 766 769 773 782 785 788 797 801 805 808 816 828 843 901 908 911 914 922 925 933 957 960 963 972 979 992 998 1005 1019 1032 1035 1040 1043 1048 1062 1065 1068 1085 1088 1092 1096 1107 1110 1118 1133 1150 1153 1160 1169 1176 1179 1184 1188 1193 1200 1203 1207 1211 1219 1229 1240 1251 1254 1257 1261 1265 1316 1319 1329 1333 1351 1354 1367 1370 1390 1394 1402 1406 1411 1417 1437 1441 1453 1474 1477 1485 1498 1502 1509 1514 1531 1545 1551 1573 1579 1584 1594 1600 1605 1608 1612 1619 1633 1636 1643 1651 1665 1675 1679 1682 1693 1696 1708 1727 1741 1762 1766 1782 1793 1804 1839 1842 1846 1861 1867 1870 1875 1880 1883 1887 1892 1895 1904 1932 1936 1941 1953 1962 1967 1975 1991 2001 2005 2016 2029 2032 2034 2043 2053 2062 2066 2092 2107 2113 2124 2141 2149 2172 2205 2222 2246 2249 2254 2273 2295 2300 2325 2346 2353 2360 2364 2368 2380 2391 2395 2402 2414 2423 2430 2432 2438 2442 2445 2454 2467 2477 2482 2485 2509 2530 2532 2545 2550 2555 2563 2576 2583 2587 2607 2626 2639 2642 2645 2659 2679 2688 2691 2697 2701 2717 2745 2757 2762 2770 2774 2787 2793 2806 2810 2817 2821 2835 2840 2847 2853 2856 2866 2873 2880 2886 2892 2901 2904 2913 2925 2928 2940 2943 2946 2961 2964 2967 2992 3008 3016 3020 3032 3036 3043 3049 3053 3057 3064 3070 3075 3080 3098 3101 3112 3117 3123 3127 3137 3142 3152 3168 3175 3181 3202 3218 3223 3234 3236 3242 3246 3250 3256 3279 3293 3297 3302 3308 3316 3322 3327 3330 3334 3337 3345 3348 3369 3388 3413 3418 3432 3436 3449 3461 3464 3471 3482 3485 3493 3500 3503 3523 3527 3530 3550 3553 3577 3585 3589 3598 3614 3617 3634 3642 3646 3649 3666 3720 3730 3736 3739 3756 3761 3765 3771 3783 3790 3795 3804 3830 3840 3844 3916 3925 3931 3934 3939 3943 3960 3963 3994 4006 4019 4043 4060 4064 4079 4101 4125 4128 4133 4136 4140 4190 4195 4234 4249 4268 4274 4285 4296 4299 4306 4310 4316 4321 4327 4339 4351 4382 4394 4400 4417 4429 4451 4457 4460 4471 4475 4478 4481 4495 4511 4523 4538 4542 4553 4559 4580 4583 4589 4596 4604 4608 4631 4635 4639 4643 4654 4676 4689 4692 4700 4703 4707 4715 4723 4726 4731 4735 4742 4749 4762 4765 4768 4787 4796 4807 4816 4820 4824 4862 4866 4873 4876 4883 4886 4890 4894 4899 4906 4930 4938 4946 4954 4964 4980 4986 4992 5002 5033 5038 5042 5046 5063 5076 5079 5083 5086 5090 5095 5105 5110 5117 5152 5171 5181 5190 5195 5201 5208 
+16th Gregorian_calendar.txt 2 1438 1475 
+1688 Gregorian_calendar.txt 2 4227 4239 
+consisted Gregorian_calendar.txt 1 2225 
+seasonal Gregorian_calendar.txt 3 1185 5071 5191 
+restore Gregorian_calendar.txt 1 106 
+world Gregorian_calendar.txt 1 4286 
+facto Gregorian_calendar.txt 1 2726 
+proposed Gregorian_calendar.txt 9 270 2025 2139 2274 4737 4960 5018 5193 5198 
+less Gregorian_calendar.txt 1 3161 
+being Gregorian_calendar.txt 2 1315 2709 
+generally Gregorian_calendar.txt 2 1378 4054 
+accurate Gregorian_calendar.txt 3 1724 2233 4936 
+numbering Gregorian_calendar.txt 3 3085 4370 4763 
+rest Gregorian_calendar.txt 1 4512 
+schools Gregorian_calendar.txt 1 4494 
+beginnings Gregorian_calendar.txt 1 3842 
+identify Gregorian_calendar.txt 1 3908 
+behind Gregorian_calendar.txt 1 5037 
+legal Gregorian_calendar.txt 2 2475 3419 
+paul Gregorian_calendar.txt 1 1671 
+lilij Gregorian_calendar.txt 1 2606 
+yet Gregorian_calendar.txt 1 2234 
+november Gregorian_calendar.txt 2 4226 4238 
+previous Gregorian_calendar.txt 3 642 829 945 
+tables Gregorian_calendar.txt 7 452 1859 1876 1938 1952 1976 3684 
+predeceased Gregorian_calendar.txt 1 4257 
+death Gregorian_calendar.txt 1 1585 
+integer Gregorian_calendar.txt 2 3106 3114 
+extracted Gregorian_calendar.txt 1 1973 
+revert Gregorian_calendar.txt 1 2245 
+regarded Gregorian_calendar.txt 2 1234 3402 
+scales Gregorian_calendar.txt 1 5028 
+had Gregorian_calendar.txt 11 1082 1103 1409 1425 1432 1493 2020 2098 2434 2460 3833 
+except Gregorian_calendar.txt 2 356 1399 
+appeared Gregorian_calendar.txt 2 4058 4484 
+add Gregorian_calendar.txt 1 3158 
+other Gregorian_calendar.txt 5 202 2951 3640 3660 3825 
+adoption Gregorian_calendar.txt 5 2409 2412 2465 3591 4744 
+4 Gregorian_calendar.txt 8 293 730 2272 2385 2706 3120 3222 4754 
+usage Gregorian_calendar.txt 1 3398 
+republic Gregorian_calendar.txt 1 3244 
+has Gregorian_calendar.txt 10 596 598 777 2975 3966 4501 4518 4849 5015 5021 
+easter Gregorian_calendar.txt 27 99 256 323 451 493 515 1046 1113 1131 1158 1172 1191 1198 1266 1294 1304 1334 1349 1413 1449 1730 1757 1850 2349 2513 2790 3366 
+latest Gregorian_calendar.txt 1 5172 
+reformed Gregorian_calendar.txt 1 4732 
+real Gregorian_calendar.txt 2 1486 4263 
+book Gregorian_calendar.txt 1 4287 
+march Gregorian_calendar.txt 23 470 473 506 520 1227 1236 1274 1284 1298 1342 1422 2121 2130 2176 2864 2911 3269 3363 3384 3426 3456 3559 3729 
+increased Gregorian_calendar.txt 1 2976 
+articles Gregorian_calendar.txt 1 3885 
+rules Gregorian_calendar.txt 2 1151 2798 
+devised Gregorian_calendar.txt 1 454 
+calendars Gregorian_calendar.txt 5 204 337 2578 3059 4743 
+early Gregorian_calendar.txt 3 124 1063 1503 
+five Gregorian_calendar.txt 1 1139 
+know Gregorian_calendar.txt 1 4530 
+background Gregorian_calendar.txt 1 1164 
+using Gregorian_calendar.txt 7 1210 1772 3082 3823 4564 4595 4905 
+execution Gregorian_calendar.txt 2 3437 3472 
+lady Gregorian_calendar.txt 2 1237 3427 
+domains Gregorian_calendar.txt 1 4170 
+babylonian Gregorian_calendar.txt 1 1959 
+insert Gregorian_calendar.txt 1 4984 
+weekdays Gregorian_calendar.txt 1 2405 
+like Gregorian_calendar.txt 1 4326 
+follows Gregorian_calendar.txt 2 343 3146 
+specific Gregorian_calendar.txt 1 3627 
+continue Gregorian_calendar.txt 1 4489 
+either Gregorian_calendar.txt 3 467 588 4571 
+fully Gregorian_calendar.txt 1 898 
+become Gregorian_calendar.txt 1 778 
+giuseppe Gregorian_calendar.txt 1 1754 
+inter Gregorian_calendar.txt 3 975 1026 2479 
+page Gregorian_calendar.txt 2 970 4814 
+italian Gregorian_calendar.txt 1 4440 
+specifies Gregorian_calendar.txt 1 3710 
+portuguese Gregorian_calendar.txt 1 2720 
+because Gregorian_calendar.txt 8 558 1168 2617 2727 3838 4698 4871 5041 
+old Gregorian_calendar.txt 8 539 579 627 3731 3878 3886 3895 4107 
+often Gregorian_calendar.txt 5 2899 3779 4783 4799 5016 
+grids Gregorian_calendar.txt 1 4782 
+spring Gregorian_calendar.txt 1 1177 
+scottish Gregorian_calendar.txt 1 3504 
+some Gregorian_calendar.txt 11 905 1400 1746 2742 3605 3786 3809 3824 3948 4038 4426 
+back Gregorian_calendar.txt 1 3652 
+authority Gregorian_calendar.txt 2 2436 2462 
+towards Gregorian_calendar.txt 1 1604 
+specified Gregorian_calendar.txt 6 899 1125 2699 3612 3724 3743 
+duration Gregorian_calendar.txt 1 5069 
+multiple Gregorian_calendar.txt 1 4680 
+empire Gregorian_calendar.txt 4 1408 2808 3248 3371 
+mother Gregorian_calendar.txt 1 4486 
+provided Gregorian_calendar.txt 1 1860 
+particular Gregorian_calendar.txt 1 5115 
+throughout Gregorian_calendar.txt 1 3582 
+monday Gregorian_calendar.txt 1 24 
+for Gregorian_calendar.txt 55 3 14 71 98 162 166 212 310 357 379 507 514 554 1034 1042 1159 1575 1623 1719 1744 1837 2167 2299 2324 2344 2557 2628 2760 2786 2843 2850 2936 3092 3180 3305 3430 3496 3623 3699 3798 3808 3915 4040 4077 4120 4132 4193 4213 4303 4345 4474 4682 4720 4741 5161 
+bottom Gregorian_calendar.txt 1 2588 
+affects Gregorian_calendar.txt 2 4211 4889 
+objected Gregorian_calendar.txt 1 2736 
+verona Gregorian_calendar.txt 1 1922 
+ecclesiastically Gregorian_calendar.txt 1 2125 
+per Gregorian_calendar.txt 3 434 4856 5127 
+moon Gregorian_calendar.txt 11 316 491 1208 1255 1267 1335 1359 1443 1487 1769 1843 
+anno Gregorian_calendar.txt 1 657 
+leap Gregorian_calendar.txt 31 276 300 340 354 370 389 481 712 715 726 738 751 770 798 822 868 1807 1827 1906 1910 2151 2258 2284 2331 3134 4831 4969 4977 5011 5060 5145 
+does Gregorian_calendar.txt 1 4330 
+lunar Gregorian_calendar.txt 5 241 1478 2301 2836 2887 
+provides Gregorian_calendar.txt 1 4669 
+23rd Gregorian_calendar.txt 1 817 
+dating Gregorian_calendar.txt 5 537 549 3750 3754 3894 
+anna Gregorian_calendar.txt 1 2684 
+officeprobably Gregorian_calendar.txt 1 3262 
+be Gregorian_calendar.txt 16 1685 1710 1759 2145 2283 2306 3198 3620 3637 3835 4035 4158 4491 4593 5170 5180 
+uninterrupted Gregorian_calendar.txt 1 4719 
+medieval Gregorian_calendar.txt 1 1504 
+calabrian Gregorian_calendar.txt 1 1794 
+bc Gregorian_calendar.txt 9 3090 3093 3267 3272 3278 3286 4349 4357 4359 
+seconds Gregorian_calendar.txt 3 426 433 893 
+sixth Gregorian_calendar.txt 1 3011 
+equivalent Gregorian_calendar.txt 3 2871 3204 3225 
+303 Gregorian_calendar.txt 1 858 
+continuing Gregorian_calendar.txt 1 4612 
+immediately Gregorian_calendar.txt 1 3860 
+interval Gregorian_calendar.txt 1 4908 
+secondo Gregorian_calendar.txt 1 2566 
+although Gregorian_calendar.txt 5 932 1114 1423 2417 3457 
+tidal Gregorian_calendar.txt 1 5057 
+includes Gregorian_calendar.txt 1 4372 
+146,097 Gregorian_calendar.txt 1 848 
+by Gregorian_calendar.txt 63 122 131 155 244 266 288 350 363 377 527 665 755 818 839 900 904 917 982 1013 1023 1061 1148 1393 1436 1456 1473 1488 1563 1583 1635 1792 1816 1918 2147 2182 2280 2291 2308 2374 2390 2466 2495 2519 2571 2597 2683 2700 2711 2977 3004 3597 3682 4259 4295 4424 4531 4712 4738 4823 4827 4927 5120 5138 
+on Gregorian_calendar.txt 42 23 468 475 604 951 1132 1199 1216 1225 1272 1389 1401 1420 1879 1891 2117 2153 2511 2613 2630 2696 2921 2995 3255 3375 3382 3424 3441 3694 3705 3816 3870 3971 4067 4090 4143 4152 4224 4236 4247 4734 5026 
+about Gregorian_calendar.txt 4 2073 4761 4853 5121 
+works Gregorian_calendar.txt 1 4115 
+unesco Gregorian_calendar.txt 1 4280 
+extending Gregorian_calendar.txt 1 4018 
+entailed Gregorian_calendar.txt 1 2891 
+of Gregorian_calendar.txt 206 6 65 79 112 135 169 223 239 255 262 275 292 299 314 322 339 405 429 458 559 565 592 618 654 699 742 768 787 804 854 862 870 910 924 962 971 978 1004 1045 1050 1087 1109 1112 1117 1121 1152 1155 1171 1190 1195 1206 1231 1253 1264 1318 1323 1332 1357 1405 1466 1482 1497 1544 1547 1586 1596 1602 1607 1638 1667 1681 1695 1699 1726 1729 1747 1765 1788 1806 1820 1826 1841 1849 1869 1894 1921 1935 1945 1977 2004 2031 2046 2072 2086 2094 2103 2109 2123 2128 2155 2162 2171 2226 2251 2256 2348 2370 2377 2394 2404 2413 2426 2484 2537 2547 2560 2575 2636 2651 2670 2728 2750 2789 2813 2855 2894 2903 2927 2942 2963 3038 3048 3069 3100 3178 3205 3226 3233 3296 3336 3347 3352 3360 3438 3463 3484 3502 3529 3552 3616 3648 3685 3785 3839 3843 3854 3928 3933 3962 3983 4045 4081 4103 4112 4127 4139 4197 4217 4298 4410 4419 4428 4456 4467 4477 4480 4497 4544 4598 4656 4662 4691 4699 4725 4764 4767 4791 4810 4841 4852 4865 4872 4875 4885 4914 4945 4975 5010 5029 5031 5045 5109 5124 5186 5200 5207 
+months Gregorian_calendar.txt 8 3314 4393 4402 4479 4548 4560 4637 4657 
+ranges Gregorian_calendar.txt 1 2985 
+1415 Gregorian_calendar.txt 1 4093 
+practical Gregorian_calendar.txt 2 308 1835 
+addition Gregorian_calendar.txt 1 397 
+happening Gregorian_calendar.txt 1 4188 
+involving Gregorian_calendar.txt 1 57 
+800-page Gregorian_calendar.txt 1 2189 
+done Gregorian_calendar.txt 1 4594 
+luigi Gregorian_calendar.txt 1 2548 
+gregory Gregorian_calendar.txt 6 41 232 1015 1658 2221 4739 
+introduced Gregorian_calendar.txt 6 44 121 1060 1105 2351 3581 
+consequently Gregorian_calendar.txt 1 2508 
+or Gregorian_calendar.txt 22 198 201 471 538 568 597 620 676 884 919 1217 1321 1535 1798 2119 2313 3012 3162 3365 3610 3986 4666 
+software Gregorian_calendar.txt 1 4798 
+computational Gregorian_calendar.txt 1 508 
+letters Gregorian_calendar.txt 1 3872 
+formerly Gregorian_calendar.txt 1 3998 
+citations Gregorian_calendar.txt 1 5212 
+civil Gregorian_calendar.txt 6 34 163 213 2455 2468 3309 
+communication Gregorian_calendar.txt 1 2731 
+into Gregorian_calendar.txt 3 1106 3186 4464 
+within Gregorian_calendar.txt 1 956 
+copies Gregorian_calendar.txt 1 2629 
+down Gregorian_calendar.txt 2 3110 5044 
+authorities Gregorian_calendar.txt 1 2469 
+appropriate Gregorian_calendar.txt 1 3176 
+right Gregorian_calendar.txt 1 2552 
+sexagesimals Gregorian_calendar.txt 1 1960 
+returning Gregorian_calendar.txt 1 4602 
+accumulated Gregorian_calendar.txt 3 444 1515 2362 
+reducing Gregorian_calendar.txt 1 1803 
+novo Gregorian_calendar.txt 1 2565 
+blenheim Gregorian_calendar.txt 1 4198 
+knuckles Gregorian_calendar.txt 3 4543 4585 4597 
+delli Gregorian_calendar.txt 1 2601 
+commission Gregorian_calendar.txt 1 1743 
+removing Gregorian_calendar.txt 1 528 
+there Gregorian_calendar.txt 6 1074 1376 2097 3946 4156 4658 
+question Gregorian_calendar.txt 1 1613 
+long Gregorian_calendar.txt 2 2041 4846 
+noticed Gregorian_calendar.txt 1 1902 
+10/21 Gregorian_calendar.txt 1 3800 
+start Gregorian_calendar.txt 18 591 603 617 2854 3346 3462 3483 3501 3528 3551 3615 3647 3932 3961 3970 3982 4111 4569 
+much Gregorian_calendar.txt 2 2650 2669 
+mondays Gregorian_calendar.txt 1 4785 
+authorized Gregorian_calendar.txt 1 1669 
+way Gregorian_calendar.txt 1 1968 
+causes Gregorian_calendar.txt 1 5148 
+forward Gregorian_calendar.txt 2 1556 1917 
+was Gregorian_calendar.txt 66 50 74 118 128 182 259 487 494 502 516 753 1001 1009 1021 1037 1055 1059 1173 1305 1350 1363 1377 1445 1450 1480 1520 1542 1561 1581 1645 1735 1785 1915 2179 2203 2215 2240 2276 2303 2350 2356 2372 2388 2406 2420 2449 2492 2591 2610 2657 2694 2748 2859 2869 2931 3001 3249 3391 3401 3516 3539 3580 3733 3778 4710 4752 
+alexandrian Gregorian_calendar.txt 2 1258 1412 
+record Gregorian_calendar.txt 2 3434 3470 
+byzantine Gregorian_calendar.txt 2 1407 3370 
+form Gregorian_calendar.txt 2 4427 4455 
+adjusting Gregorian_calendar.txt 2 311 1838 
+differences Gregorian_calendar.txt 1 560 
+delayed Gregorian_calendar.txt 1 812 
+but Gregorian_calendar.txt 16 187 365 391 702 732 1642 1776 2490 3140 3411 4131 4255 4271 4450 4509 4516 
+volume Gregorian_calendar.txt 1 2190 
+greek Gregorian_calendar.txt 1 3737 
+solar Gregorian_calendar.txt 3 692 2881 4844 
+solsticesparticularly Gregorian_calendar.txt 1 88 
+with Gregorian_calendar.txt 30 82 247 442 1484 1557 1931 1940 2220 2322 2534 2593 2625 2703 2839 3543 3719 3942 4037 4063 4109 4117 4549 4561 4653 4777 4801 4859 4896 4967 5189 
+themselves Gregorian_calendar.txt 1 2767 
+he Gregorian_calendar.txt 6 1829 1925 2024 2191 2448 2459 
+count Gregorian_calendar.txt 1 4577 
+protestant Gregorian_calendar.txt 2 2496 2733 
+made Gregorian_calendar.txt 4 265 1611 1791 4822 
+compute Gregorian_calendar.txt 2 1250 1448 
+places Gregorian_calendar.txt 3 1995 2991 4804 
+official Gregorian_calendar.txt 2 3608 4027 
+attached Gregorian_calendar.txt 1 3671 
+up Gregorian_calendar.txt 5 1463 1648 2624 3147 4620 
+signed Gregorian_calendar.txt 1 2592 
+until Gregorian_calendar.txt 7 1242 1650 3015 3326 3385 3416 3454 
+placed Gregorian_calendar.txt 2 1224 1416 
+below Gregorian_calendar.txt 1 966 
+taught Gregorian_calendar.txt 1 4492 
+authorization Gregorian_calendar.txt 1 2595 
+hand Gregorian_calendar.txt 1 4601 
+vatican Gregorian_calendar.txt 2 1574 1634 
+minutes Gregorian_calendar.txt 4 424 431 890 2059 
+called Gregorian_calendar.txt 3 1622 3052 4521 
+153 Gregorian_calendar.txt 1 3277 
+adopt Gregorian_calendar.txt 3 179 208 2769 
+proved Gregorian_calendar.txt 1 2620 
+ad Gregorian_calendar.txt 3 4347 4360 4363 
+computing Gregorian_calendar.txt 1 2345 
+certain Gregorian_calendar.txt 1 709 
+recommendation Gregorian_calendar.txt 1 1116 
+domini Gregorian_calendar.txt 1 658 
+1200 Gregorian_calendar.txt 1 1529 
+slowing Gregorian_calendar.txt 1 5043 
+an Gregorian_calendar.txt 16 58 305 1101 1464 1705 1832 2083 2227 2232 3105 3607 4209 4627 4838 4850 4918 
+substantially Gregorian_calendar.txt 1 4934 
+as Gregorian_calendar.txt 37 227 342 484 673 703 796 1239 1961 2042 2293 2655 2666 2668 2675 2677 2796 2879 2948 3145 3292 3403 3409 3444 3448 3473 3655 3950 4056 4187 4202 4265 4504 4547 4558 4574 4634 4642 
+xiii Gregorian_calendar.txt 5 42 233 1016 1659 4740 
+diverged Gregorian_calendar.txt 1 2524 
+at Gregorian_calendar.txt 17 160 455 504 518 611 930 944 1270 1533 1692 2091 2586 2658 2862 3557 4220 4493 
+alfonsine Gregorian_calendar.txt 1 1937 
+2096 Gregorian_calendar.txt 1 5178 
+725it Gregorian_calendar.txt 1 1431 
+physical Gregorian_calendar.txt 1 4665 
+again Gregorian_calendar.txt 2 1649 2523 
+compared Gregorian_calendar.txt 1 5188 
+jesus Gregorian_calendar.txt 1 3361 
+48 Gregorian_calendar.txt 1 432 
+49 Gregorian_calendar.txt 2 423 889 
+brixham Gregorian_calendar.txt 1 4221 
+index Gregorian_calendar.txt 1 4584 
+polishlithuanian Gregorian_calendar.txt 1 2680 
+45 Gregorian_calendar.txt 1 3285 
+when Gregorian_calendar.txt 18 120 317 462 1057 1844 1882 2352 2900 3187 3200 3258 3387 3566 3629 3760 3770 4208 4706 
+detail Gregorian_calendar.txt 1 977 
+reality Gregorian_calendar.txt 1 1098 
+dictated Gregorian_calendar.txt 1 3662 
+unambiguously Gregorian_calendar.txt 1 532 
+5 Gregorian_calendar.txt 6 421 887 1289 1341 3561 4225 
+make Gregorian_calendar.txt 2 4282 5001 
+1560 Gregorian_calendar.txt 1 1924 
+you Gregorian_calendar.txt 3 3154 3183 3188 
+ns Gregorian_calendar.txt 4 3877 3901 3974 4009 
+predominant Gregorian_calendar.txt 1 681 
+revision Gregorian_calendar.txt 1 803 
+repeat Gregorian_calendar.txt 1 845 
+accolti Gregorian_calendar.txt 1 2573 
+calculating Gregorian_calendar.txt 4 318 1845 3201 4688 
+preceding Gregorian_calendar.txt 3 492 4025 4750 
+detractors Gregorian_calendar.txt 1 2200 
+drift Gregorian_calendar.txt 10 78 1186 1429 1500 1715 2071 2102 2136 2143 2247 
+shown Gregorian_calendar.txt 1 4055 
+variation Gregorian_calendar.txt 1 5187 
+precision Gregorian_calendar.txt 1 1601 
+william Gregorian_calendar.txt 1 4215 
+weekly Gregorian_calendar.txt 1 4716 
+fell Gregorian_calendar.txt 1 466 
+accounts Gregorian_calendar.txt 1 3807 
+riforma Gregorian_calendar.txt 1 2569 
+included Gregorian_calendar.txt 1 1802 
+unless Gregorian_calendar.txt 1 5134 
+christians Gregorian_calendar.txt 2 1128 1144 
+19-year Gregorian_calendar.txt 2 1458 2296 
+fiscal Gregorian_calendar.txt 4 2851 2857 2905 2914 
+constant Gregorian_calendar.txt 1 4881 
+implies Gregorian_calendar.txt 1 4917 
+longer Gregorian_calendar.txt 5 2060 2330 2884 4636 5053 
+bede Gregorian_calendar.txt 2 1424 1506 
+1800 Gregorian_calendar.txt 4 384 2335 3565 5155 
+oral Gregorian_calendar.txt 1 4448 
+moved Gregorian_calendar.txt 4 3344 3392 3568 3651 
+required Gregorian_calendar.txt 1 2464 
+rule Gregorian_calendar.txt 4 486 1908 2275 3129 
+having Gregorian_calendar.txt 1 2528 
+2000 Gregorian_calendar.txt 2 394 4913 
+implied Gregorian_calendar.txt 1 3681 
+presenting Gregorian_calendar.txt 1 994 
+image Gregorian_calendar.txt 1 5074 
+time Gregorian_calendar.txt 15 111 159 235 613 1049 1694 1881 2093 2660 4264 4353 4385 5027 5055 5108 
+starting Gregorian_calendar.txt 5 22 563 929 954 4066 
+original Gregorian_calendar.txt 2 306 1833 
+equinoxes Gregorian_calendar.txt 3 86 4877 4911 
+8th Gregorian_calendar.txt 1 1510 

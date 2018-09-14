@@ -1,0 +1,169 @@
+words Orbital_node.txt 1 348 
+cauda Orbital_node.txt 1 282 
+years Orbital_node.txt 1 401 
+symbols Orbital_node.txt 1 233 
+through Orbital_node.txt 3 113 130 229 
+heliocentric Orbital_node.txt 1 98 
+unicode Orbital_node.txt 2 244 254 
+non-inclined Orbital_node.txt 1 35 
+earth Orbital_node.txt 1 366 
+its Orbital_node.txt 1 389 
+causes Orbital_node.txt 1 388 
+al-jauzahar Orbital_node.txt 1 277 
+system Orbital_node.txt 1 141 
+parameters Orbital_node.txt 1 184 
+sky Orbital_node.txt 1 304 
+outside Orbital_node.txt 1 138 
+to Orbital_node.txt 7 29 84 289 324 345 371 391 
+tail Orbital_node.txt 1 280 
+other Orbital_node.txt 1 86 
+elliptic Orbital_node.txt 1 67 
+nodes Orbital_node.txt 10 46 64 91 213 232 266 329 342 353 390 
+include Orbital_node.txt 1 56 
+around Orbital_node.txt 1 365 
+geocentric Orbital_node.txt 1 96 
+early Orbital_node.txt 1 259 
+precess Orbital_node.txt 1 393 
+descending Orbital_node.txt 5 120 159 251 265 341 
+caput Orbital_node.txt 1 273 
+not Orbital_node.txt 1 375 
+intersection Orbital_node.txt 1 216 
+categories Orbital_node.txt 2 407 409 
+secondary Orbital_node.txt 1 151 
+term Orbital_node.txt 1 310 
+edit Orbital_node.txt 6 51 61 236 354 404 406 
+u+260b Orbital_node.txt 1 255 
+common Orbital_node.txt 1 52 
+references Orbital_node.txt 1 405 
+where Orbital_node.txt 5 21 107 126 148 164 
+side Orbital_node.txt 1 78 
+referred Orbital_node.txt 1 288 
+set Orbital_node.txt 1 182 
+reference Orbital_node.txt 8 28 42 50 55 74 83 117 226 
+used Orbital_node.txt 3 177 319 336 
+see Orbital_node.txt 1 402 
+elements Orbital_node.txt 2 11 187 
+click Orbital_node.txt 1 69 
+gradually Orbital_node.txt 1 392 
+westward Orbital_node.txt 1 394 
+for Orbital_node.txt 3 95 337 359 
+giving Orbital_node.txt 1 343 
+sun Orbital_node.txt 2 301 384 
+away Orbital_node.txt 1 153 
+wikipedia Orbital_node.txt 1 2 
+moon Orbital_node.txt 3 294 364 387 
+contained Orbital_node.txt 1 39 
+lunar Orbital_node.txt 2 352 357 
+orbiting Orbital_node.txt 2 109 150 
+either Orbital_node.txt 2 16 326 
+be Orbital_node.txt 3 93 176 372 
+object Orbital_node.txt 1 110 
+terms Orbital_node.txt 2 286 332 
+medieval Orbital_node.txt 2 257 322 
+respectively Orbital_node.txt 1 284 
+were Orbital_node.txt 3 267 318 334 
+ascending Orbital_node.txt 7 4 101 143 201 241 263 339 
+ecliptic Orbital_node.txt 1 374 
+objects Orbital_node.txt 2 137 219 
+path Orbital_node.txt 1 298 
+by Orbital_node.txt 1 195 
+about Orbital_node.txt 1 63 
+of Orbital_node.txt 25 8 17 27 49 54 65 79 82 116 136 172 180 183 199 207 212 217 225 239 249 299 307 327 362 382 
+completing Orbital_node.txt 1 395 
+zeuzahar Orbital_node.txt 1 317 
+nomenclature Orbital_node.txt 1 235 
+distinguished Orbital_node.txt 1 94 
+distinction Orbital_node.txt 1 60 
+onto Orbital_node.txt 1 70 
+or Orbital_node.txt 3 103 122 203 
+south Orbital_node.txt 2 123 129 
+image Orbital_node.txt 1 71 
+one Orbital_node.txt 3 7 77 179 
+done Orbital_node.txt 1 194 
+article Orbital_node.txt 1 356 
+passes Orbital_node.txt 2 152 228 
+from Orbital_node.txt 2 76 154 
+observer Orbital_node.txt 2 156 169 
+west Orbital_node.txt 1 323 
+two Orbital_node.txt 4 19 66 90 231 
+approximately Orbital_node.txt 1 399 
+taken Orbital_node.txt 1 370 
+cycle Orbital_node.txt 1 397 
+main Orbital_node.txt 1 355 
+direction Orbital_node.txt 1 75 
+modern Orbital_node.txt 1 260 
+north Orbital_node.txt 2 104 112 
+inclined Orbital_node.txt 1 33 
+apparent Orbital_node.txt 1 297 
+solar Orbital_node.txt 1 140 
+line Orbital_node.txt 1 211 
+dragons Orbital_node.txt 2 270 279 
+with Orbital_node.txt 1 222 
+hidden Orbital_node.txt 1 408 
+case Orbital_node.txt 1 135 
+pull Orbital_node.txt 1 381 
+has Orbital_node.txt 1 44 
+geuzaar Orbital_node.txt 1 315 
+this Orbital_node.txt 1 192 
+originally Orbital_node.txt 1 287 
+u+260a Orbital_node.txt 1 245 
+gravitational Orbital_node.txt 1 380 
+longitude Orbital_node.txt 2 198 206 
+catabibazon Orbital_node.txt 1 351 
+crossed Orbital_node.txt 1 295 
+can Orbital_node.txt 1 92 
+planes Orbital_node.txt 2 48 53 
+following Orbital_node.txt 1 58 
+latin Orbital_node.txt 2 272 281 
+called Orbital_node.txt 2 185 268 
+18.6 Orbital_node.txt 1 400 
+and Orbital_node.txt 12 97 118 157 234 246 258 264 278 316 333 340 350 
+intersects Orbital_node.txt 1 24 
+defined Orbital_node.txt 1 88 
+is Orbital_node.txt 14 6 15 32 38 87 106 125 145 161 193 214 243 253 369 
+describe Orbital_node.txt 1 189 
+it Orbital_node.txt 4 31 127 165 227 
+an Orbital_node.txt 2 12 22 
+as Orbital_node.txt 2 178 312 
+ras Orbital_node.txt 1 276 
+in Orbital_node.txt 6 40 133 256 302 320 398 
+arabic Orbital_node.txt 2 275 309 
+moves Orbital_node.txt 3 111 128 166 
+corruptions Orbital_node.txt 1 306 
+contents Orbital_node.txt 1 47 
+if Orbital_node.txt 1 72 
+orbital Orbital_node.txt 5 0 10 13 186 220 
+these Orbital_node.txt 1 285 
+no Orbital_node.txt 1 45 
+when Orbital_node.txt 1 292 
+draconis Orbital_node.txt 2 274 283 
+anabibazon Orbital_node.txt 1 349 
+also Orbital_node.txt 3 305 335 403 
+animation Orbital_node.txt 1 62 
+which Orbital_node.txt 3 30 37 188 
+several Orbital_node.txt 1 9 
+ganzaar Orbital_node.txt 1 313 
+node Orbital_node.txt 18 1 5 14 59 102 105 121 124 144 147 160 163 174 202 209 242 252 358 
+towards Orbital_node.txt 1 167 
+denote Orbital_node.txt 1 325 
+may Orbital_node.txt 1 175 
+symbol Orbital_node.txt 2 238 248 
+trajectories Orbital_node.txt 1 68 
+upon Orbital_node.txt 1 385 
+orbits Orbital_node.txt 1 99 
+rise Orbital_node.txt 1 344 
+plane Orbital_node.txt 9 26 43 81 115 132 221 224 368 378 
+head Orbital_node.txt 1 271 
+such Orbital_node.txt 1 311 
+genzahar Orbital_node.txt 1 314 
+times Orbital_node.txt 2 261 291 
+a Orbital_node.txt 5 25 34 73 181 396 
+equatorial Orbital_node.txt 1 377 
+sometimes Orbital_node.txt 1 204 
+orbit Orbital_node.txt 4 23 36 191 361 
+greek Orbital_node.txt 1 331 
+points Orbital_node.txt 1 20 
+specifying Orbital_node.txt 1 196 
+english Orbital_node.txt 1 347 
+position Orbital_node.txt 1 171 
+the Orbital_node.txt 58 3 18 41 57 80 85 89 100 108 114 119 131 134 139 142 146 149 155 158 162 168 170 173 190 197 200 205 208 210 215 218 223 230 237 240 247 250 262 269 290 293 296 300 303 308 321 328 330 338 346 360 363 367 373 376 379 383 386 

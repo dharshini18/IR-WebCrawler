@@ -1,0 +1,409 @@
+all Estudios_San_Miguel.txt 1 810 
+founded Estudios_San_Miguel.txt 3 123 163 432 
+ceased Estudios_San_Miguel.txt 1 112 
+cinematogrfica Estudios_San_Miguel.txt 2 411 435 
+decisions Estudios_San_Miguel.txt 1 543 
+1948 Estudios_San_Miguel.txt 1 345 
+1949 Estudios_San_Miguel.txt 1 439 
+1942 Estudios_San_Miguel.txt 5 66 312 318 381 492 
+1943 Estudios_San_Miguel.txt 3 76 609 653 
+1940 Estudios_San_Miguel.txt 1 217 
+1946 Estudios_San_Miguel.txt 1 806 
+young Estudios_San_Miguel.txt 1 429 
+1944 Estudios_San_Miguel.txt 5 324 361 488 620 670 
+1945 Estudios_San_Miguel.txt 5 105 657 695 793 820 
+to Estudios_San_Miguel.txt 18 52 87 139 176 210 263 362 367 400 510 524 546 717 732 771 781 812 815 
+193945 Estudios_San_Miguel.txt 1 693 
+libertad Estudios_San_Miguel.txt 1 714 
+me Estudios_San_Miguel.txt 1 341 
+vlasta Estudios_San_Miguel.txt 1 285 
+very Estudios_San_Miguel.txt 2 146 428 
+categories Estudios_San_Miguel.txt 2 886 888 
+governments Estudios_San_Miguel.txt 1 787 
+eva Estudios_San_Miguel.txt 6 84 95 729 734 747 795 
+notes Estudios_San_Miguel.txt 1 879 
+gaucha Estudios_San_Miguel.txt 4 62 311 380 491 
+companies Estudios_San_Miguel.txt 1 255 
+joined Estudios_San_Miguel.txt 2 389 422 
+large Estudios_San_Miguel.txt 1 149 
+solid Estudios_San_Miguel.txt 1 213 
+1940s Estudios_San_Miguel.txt 1 20 
+noted Estudios_San_Miguel.txt 1 476 
+the Estudios_San_Miguel.txt 74 19 27 41 63 73 89 101 106 155 164 178 183 188 200 235 239 246 251 256 271 278 297 306 327 333 346 358 382 390 415 423 433 452 465 503 512 532 536 548 558 565 574 578 583 608 619 626 629 636 645 647 662 667 679 694 701 708 712 720 725 739 752 757 765 768 785 801 816 821 827 850 853 861 870 
+murat Estudios_San_Miguel.txt 1 604 
+productora Estudios_San_Miguel.txt 1 434 
+17th-century Estudios_San_Miguel.txt 1 841 
+assisted Estudios_San_Miguel.txt 1 281 
+asociados Estudios_San_Miguel.txt 3 71 403 508 
+ranged Estudios_San_Miguel.txt 1 48 
+drew Estudios_San_Miguel.txt 1 722 
+pedro Estudios_San_Miguel.txt 1 845 
+studio Estudios_San_Miguel.txt 15 14 107 189 247 272 279 334 359 391 424 466 646 663 753 822 
+active Estudios_San_Miguel.txt 1 17 
+luis Estudios_San_Miguel.txt 1 836 
+great Estudios_San_Miguel.txt 1 236 
+technical Estudios_San_Miguel.txt 1 355 
+31 Estudios_San_Miguel.txt 1 462 
+casino Estudios_San_Miguel.txt 1 156 
+military Estudios_San_Miguel.txt 1 786 
+furias Estudios_San_Miguel.txt 1 291 
+golden Estudios_San_Miguel.txt 1 28 
+family Estudios_San_Miguel.txt 1 144 
+presidents Estudios_San_Miguel.txt 1 817 
+1947 Estudios_San_Miguel.txt 2 322 396 
+establish Estudios_San_Miguel.txt 1 211 
+from Estudios_San_Miguel.txt 5 49 134 360 570 784 
+links Estudios_San_Miguel.txt 1 884 
+would Estudios_San_Miguel.txt 2 748 755 
+manzior Estudios_San_Miguel.txt 1 607 
+garcs Estudios_San_Miguel.txt 2 483 857 
+catranis Estudios_San_Miguel.txt 1 283 
+aries Estudios_San_Miguel.txt 1 410 
+films Estudios_San_Miguel.txt 4 58 103 207 477 
+minor Estudios_San_Miguel.txt 1 745 
+more Estudios_San_Miguel.txt 1 471 
+on Estudios_San_Miguel.txt 3 764 803 839 
+company Estudios_San_Miguel.txt 1 165 
+award Estudios_San_Miguel.txt 2 632 650 
+phone Estudios_San_Miguel.txt 1 766 
+amelia Estudios_San_Miguel.txt 1 375 
+town Estudios_San_Miguel.txt 1 184 
+rights Estudios_San_Miguel.txt 2 534 811 
+this Estudios_San_Miguel.txt 1 813 
+gaucho Estudios_San_Miguel.txt 2 56 64 
+ministry Estudios_San_Miguel.txt 1 788 
+del Estudios_San_Miguel.txt 2 159 699 
+three Estudios_San_Miguel.txt 1 586 
+pioneered Estudios_San_Miguel.txt 1 199 
+arrive Estudios_San_Miguel.txt 1 749 
+history Estudios_San_Miguel.txt 1 117 
+estate Estudios_San_Miguel.txt 1 151 
+adviser Estudios_San_Miguel.txt 1 356 
+december Estudios_San_Miguel.txt 1 463 
+pern Estudios_San_Miguel.txt 2 96 735 
+sociedad Estudios_San_Miguel.txt 1 192 
+allowed Estudios_San_Miguel.txt 1 544 
+enrique Estudios_San_Miguel.txt 2 420 479 
+huge Estudios_San_Miguel.txt 1 723 
+end Estudios_San_Miguel.txt 1 677 
+daring Estudios_San_Miguel.txt 1 770 
+querida Estudios_San_Miguel.txt 1 343 
+six Estudios_San_Miguel.txt 1 473 
+buenos Estudios_San_Miguel.txt 2 45 316 
+comedy Estudios_San_Miguel.txt 3 51 74 843 
+designer Estudios_San_Miguel.txt 1 299 
+paramount Estudios_San_Miguel.txt 1 368 
+critics Estudios_San_Miguel.txt 1 623 
+earlier Estudios_San_Miguel.txt 1 538 
+designed Estudios_San_Miguel.txt 1 305 
+president Estudios_San_Miguel.txt 1 740 
+splurging Estudios_San_Miguel.txt 1 557 
+las Estudios_San_Miguel.txt 2 290 294 
+a Estudios_San_Miguel.txt 12 132 204 212 244 354 407 468 497 551 705 744 840 
+began Estudios_San_Miguel.txt 1 175 
+producer Estudios_San_Miguel.txt 2 384 417 
+over Estudios_San_Miguel.txt 2 671 809 
+soon Estudios_San_Miguel.txt 2 86 731 
+produced Estudios_San_Miguel.txt 2 823 830 
+demare Estudios_San_Miguel.txt 1 596 
+including Estudios_San_Miguel.txt 2 590 869 
+costume Estudios_San_Miguel.txt 1 53 
+its Estudios_San_Miguel.txt 2 36 222 
+18991975 Estudios_San_Miguel.txt 1 129 
+la Estudios_San_Miguel.txt 13 60 309 378 448 485 489 581 654 675 697 799 824 848 
+estudios Estudios_San_Miguel.txt 5 0 4 119 218 566 
+madre Estudios_San_Miguel.txt 1 342 
+production Estudios_San_Miguel.txt 3 113 224 455 
+argentina Estudios_San_Miguel.txt 7 33 93 140 264 412 686 742 
+fin Estudios_San_Miguel.txt 1 673 
+argentine Estudios_San_Miguel.txt 6 12 240 253 621 637 859 
+then Estudios_San_Miguel.txt 1 405 
+them Estudios_San_Miguel.txt 1 545 
+emigrated Estudios_San_Miguel.txt 2 138 262 
+1956 Estudios_San_Miguel.txt 1 414 
+1951 Estudios_San_Miguel.txt 2 451 661 
+effects Estudios_San_Miguel.txt 1 330 
+1953 Estudios_San_Miguel.txt 1 363 
+wealthy Estudios_San_Miguel.txt 1 147 
+belt-tightening Estudios_San_Miguel.txt 1 554 
+republican Estudios_San_Miguel.txt 1 867 
+silver Estudios_San_Miguel.txt 2 587 630 
+association Estudios_San_Miguel.txt 1 624 
+edit Estudios_San_Miguel.txt 6 118 478 878 880 882 885 
+pobre Estudios_San_Miguel.txt 1 340 
+entirely Estudios_San_Miguel.txt 1 563 
+side Estudios_San_Miguel.txt 1 191 
+overextended Estudios_San_Miguel.txt 1 109 
+studios Estudios_San_Miguel.txt 6 9 43 102 179 453 529 
+en Estudios_San_Miguel.txt 1 313 
+impresora Estudios_San_Miguel.txt 1 193 
+mar Estudios_San_Miguel.txt 1 158 
+artistas Estudios_San_Miguel.txt 3 69 401 506 
+lah Estudios_San_Miguel.txt 1 286 
+special Estudios_San_Miguel.txt 1 329 
+ro Estudios_San_Miguel.txt 1 579 
+after Estudios_San_Miguel.txt 1 114 
+olivera Estudios_San_Miguel.txt 1 388 
+million Estudios_San_Miguel.txt 1 474 
+unamuno Estudios_San_Miguel.txt 1 502 
+difficulty Estudios_San_Miguel.txt 1 665 
+viejo Estudios_San_Miguel.txt 1 315 
+wanted Estudios_San_Miguel.txt 1 763 
+juvenilia Estudios_San_Miguel.txt 3 75 611 652 
+barca Estudios_San_Miguel.txt 1 849 
+created Estudios_San_Miguel.txt 1 326 
+tigre Estudios_San_Miguel.txt 1 575 
+prodigal Estudios_San_Miguel.txt 1 802 
+first Estudios_San_Miguel.txt 4 90 223 328 443 
+major Estudios_San_Miguel.txt 2 42 82 
+homero Estudios_San_Miguel.txt 2 337 606 
+owned Estudios_San_Miguel.txt 1 125 
+one Estudios_San_Miguel.txt 3 39 233 249 
+spanish Estudios_San_Miguel.txt 1 866 
+co-founder Estudios_San_Miguel.txt 1 408 
+little Estudios_San_Miguel.txt 1 552 
+script Estudios_San_Miguel.txt 1 871 
+leading Estudios_San_Miguel.txt 1 854 
+tango Estudios_San_Miguel.txt 1 201 
+their Estudios_San_Miguel.txt 1 515 
+circo Estudios_San_Miguel.txt 1 700 
+hollywood Estudios_San_Miguel.txt 1 371 
+that Estudios_San_Miguel.txt 1 15 
+academy Estudios_San_Miguel.txt 1 638 
+released Estudios_San_Miguel.txt 1 457 
+1915 Estudios_San_Miguel.txt 1 142 
+than Estudios_San_Miguel.txt 1 472 
+scenes Estudios_San_Miguel.txt 1 572 
+future Estudios_San_Miguel.txt 1 383 
+were Estudios_San_Miguel.txt 2 280 858 
+delia Estudios_San_Miguel.txt 2 482 856 
+san Estudios_San_Miguel.txt 7 1 5 7 120 219 527 567 
+nazi Estudios_San_Miguel.txt 1 684 
+any Estudios_San_Miguel.txt 1 759 
+contents Estudios_San_Miguel.txt 1 116 
+screenplay Estudios_San_Miguel.txt 1 600 
+1960 Estudios_San_Miguel.txt 1 292 
+1963 Estudios_San_Miguel.txt 1 296 
+sciences Estudios_San_Miguel.txt 1 643 
+absorbed Estudios_San_Miguel.txt 1 190 
+build Estudios_San_Miguel.txt 1 177 
+which Estudios_San_Miguel.txt 3 79 197 681 
+performance Estudios_San_Miguel.txt 1 719 
+mir Estudios_San_Miguel.txt 1 352 
+who Estudios_San_Miguel.txt 3 136 261 287 
+aires Estudios_San_Miguel.txt 2 46 317 
+narciso Estudios_San_Miguel.txt 1 171 
+model Estudios_San_Miguel.txt 1 215 
+thriller Estudios_San_Miguel.txt 1 57 
+later Estudios_San_Miguel.txt 5 288 301 397 431 791 
+machinandiarena Estudios_San_Miguel.txt 7 128 130 162 231 780 807 832 
+musical Estudios_San_Miguel.txt 2 50 696 
+artistic Estudios_San_Miguel.txt 1 268 
+movie Estudios_San_Miguel.txt 1 537 
+cloak-and-dagger Estudios_San_Miguel.txt 1 842 
+shot Estudios_San_Miguel.txt 1 561 
+wikipedia Estudios_San_Miguel.txt 1 3 
+principal Estudios_San_Miguel.txt 1 875 
+partners Estudios_San_Miguel.txt 1 504 
+based Estudios_San_Miguel.txt 1 838 
+condor Estudios_San_Miguel.txt 2 588 631 
+failed Estudios_San_Miguel.txt 1 209 
+undersell Estudios_San_Miguel.txt 1 531 
+bovary Estudios_San_Miguel.txt 1 321 
+his Estudios_San_Miguel.txt 3 143 169 442 
+plata Estudios_San_Miguel.txt 2 160 582 
+filmography Estudios_San_Miguel.txt 1 877 
+assistant Estudios_San_Miguel.txt 1 394 
+de Estudios_San_Miguel.txt 8 157 194 447 501 580 603 674 847 
+during Estudios_San_Miguel.txt 2 26 689 
+areas Estudios_San_Miguel.txt 1 541 
+sources Estudios_San_Miguel.txt 1 881 
+she Estudios_San_Miguel.txt 1 761 
+navarre Estudios_San_Miguel.txt 1 135 
+set Estudios_San_Miguel.txt 1 298 
+guerra Estudios_San_Miguel.txt 4 61 310 379 490 
+decided Estudios_San_Miguel.txt 1 509 
+best Estudios_San_Miguel.txt 5 591 593 598 634 648 
+pictures Estudios_San_Miguel.txt 1 369 
+ralph Estudios_San_Miguel.txt 1 303 
+3 Estudios_San_Miguel.txt 1 804 
+won Estudios_San_Miguel.txt 3 80 585 628 
+august Estudios_San_Miguel.txt 1 805 
+however Estudios_San_Miguel.txt 1 773 
+awards Estudios_San_Miguel.txt 3 83 589 625 
+isleros Estudios_San_Miguel.txt 1 660 
+debt Estudios_San_Miguel.txt 1 469 
+both Estudios_San_Miguel.txt 1 77 
+last Estudios_San_Miguel.txt 1 454 
+s Estudios_San_Miguel.txt 1 229 
+became Estudios_San_Miguel.txt 3 108 267 406 
+adapted Estudios_San_Miguel.txt 1 599 
+otherwise Estudios_San_Miguel.txt 1 860 
+and Estudios_San_Miguel.txt 32 21 34 55 72 111 124 153 172 174 180 274 293 300 319 336 349 374 385 404 418 440 481 521 530 597 605 642 658 754 833 852 874 
+appeared Estudios_San_Miguel.txt 1 97 
+comedy-drama Estudios_San_Miguel.txt 1 610 
+anti Estudios_San_Miguel.txt 1 683 
+adaptation Estudios_San_Miguel.txt 1 495 
+basque Estudios_San_Miguel.txt 1 133 
+late Estudios_San_Miguel.txt 1 750 
+arts Estudios_San_Miguel.txt 1 641 
+mara Estudios_San_Miguel.txt 1 794 
+lamarque Estudios_San_Miguel.txt 1 715 
+celluloid Estudios_San_Miguel.txt 1 783 
+trilogy Estudios_San_Miguel.txt 1 205 
+due Estudios_San_Miguel.txt 1 716 
+electrofnicos Estudios_San_Miguel.txt 1 196 
+poet Estudios_San_Miguel.txt 1 348 
+dama Estudios_San_Miguel.txt 3 486 655 825 
+belgrano Estudios_San_Miguel.txt 1 437 
+controlled Estudios_San_Miguel.txt 1 154 
+1950s Estudios_San_Miguel.txt 1 23 
+external Estudios_San_Miguel.txt 1 883 
+an Estudios_San_Miguel.txt 3 11 393 494 
+hidden Estudios_San_Miguel.txt 1 887 
+augusto Estudios_San_Miguel.txt 1 615 
+novel Estudios_San_Miguel.txt 1 498 
+these Estudios_San_Miguel.txt 2 518 542 
+censors Estudios_San_Miguel.txt 1 668 
+while Estudios_San_Miguel.txt 2 245 685 
+launched Estudios_San_Miguel.txt 1 221 
+almost Estudios_San_Miguel.txt 1 562 
+it Estudios_San_Miguel.txt 2 24 777 
+ii Estudios_San_Miguel.txt 1 692 
+cabalgata Estudios_San_Miguel.txt 1 698 
+audiences Estudios_San_Miguel.txt 1 724 
+in Estudios_San_Miguel.txt 27 18 44 98 104 141 166 182 216 265 323 344 370 377 395 413 438 450 458 484 539 573 577 669 743 792 798 819 
+partner Estudios_San_Miguel.txt 1 525 
+decor Estudios_San_Miguel.txt 1 872 
+author Estudios_San_Miguel.txt 1 350 
+make Estudios_San_Miguel.txt 2 511 547 
+mucamo Estudios_San_Miguel.txt 1 446 
+bella Estudios_San_Miguel.txt 1 186 
+sebastin Estudios_San_Miguel.txt 1 372 
+diosdado Estudios_San_Miguel.txt 1 480 
+largest Estudios_San_Miguel.txt 1 252 
+several Estudios_San_Miguel.txt 1 81 
+promoters Estudios_San_Miguel.txt 1 237 
+nia Estudios_San_Miguel.txt 1 449 
+vista Estudios_San_Miguel.txt 1 187 
+director Estudios_San_Miguel.txt 8 258 269 302 386 419 594 769 851 
+moment Estudios_San_Miguel.txt 1 713 
+arturo Estudios_San_Miguel.txt 1 228 
+lucas Estudios_San_Miguel.txt 1 595 
+1954 Estudios_San_Miguel.txt 1 464 
+without Estudios_San_Miguel.txt 2 556 767 
+sets Estudios_San_Miguel.txt 1 307 
+chiola Estudios_San_Miguel.txt 1 373 
+laboratories Estudios_San_Miguel.txt 1 181 
+investments Estudios_San_Miguel.txt 1 152 
+saslavsky Estudios_San_Miguel.txt 1 837 
+they Estudios_San_Miguel.txt 1 522 
+less Estudios_San_Miguel.txt 1 553 
+1952 Estudios_San_Miguel.txt 2 115 459 
+obtain Estudios_San_Miguel.txt 1 782 
+interrupt Estudios_San_Miguel.txt 1 756 
+financially Estudios_San_Miguel.txt 1 110 
+catrani Estudios_San_Miguel.txt 1 260 
+catrano Estudios_San_Miguel.txt 1 259 
+bence Estudios_San_Miguel.txt 1 376 
+manzi Estudios_San_Miguel.txt 1 338 
+also Estudios_San_Miguel.txt 1 727 
+had Estudios_San_Miguel.txt 6 137 148 198 467 523 664 
+complain Estudios_San_Miguel.txt 1 772 
+exhibition Estudios_San_Miguel.txt 1 533 
+actors Estudios_San_Miguel.txt 1 876 
+gave Estudios_San_Miguel.txt 1 644 
+real Estudios_San_Miguel.txt 1 150 
+petrleo Estudios_San_Miguel.txt 1 225 
+format Estudios_San_Miguel.txt 1 202 
+possible Estudios_San_Miguel.txt 1 778 
+early Estudios_San_Miguel.txt 1 22 
+mom Estudios_San_Miguel.txt 1 230 
+world Estudios_San_Miguel.txt 1 690 
+lady Estudios_San_Miguel.txt 3 91 829 855 
+apart Estudios_San_Miguel.txt 1 569 
+communications Estudios_San_Miguel.txt 1 790 
+night Estudios_San_Miguel.txt 1 680 
+become Estudios_San_Miguel.txt 2 88 733 
+starred Estudios_San_Miguel.txt 1 797 
+refugees Estudios_San_Miguel.txt 1 868 
+italian Estudios_San_Miguel.txt 1 257 
+scriptwriter Estudios_San_Miguel.txt 1 416 
+some Estudios_San_Miguel.txt 1 540 
+star Estudios_San_Miguel.txt 1 710 
+cavalcade Estudios_San_Miguel.txt 1 703 
+for Estudios_San_Miguel.txt 7 243 332 535 633 651 707 779 
+csar Estudios_San_Miguel.txt 2 351 616 
+participation Estudios_San_Miguel.txt 1 775 
+discos Estudios_San_Miguel.txt 1 195 
+business Estudios_San_Miguel.txt 1 214 
+co-produced Estudios_San_Miguel.txt 1 67 
+1937 Estudios_San_Miguel.txt 2 167 266 
+by Estudios_San_Miguel.txt 9 126 227 282 499 614 831 835 844 865 
+vatteone Estudios_San_Miguel.txt 1 617 
+ulyses Estudios_San_Miguel.txt 1 601 
+flourished Estudios_San_Miguel.txt 1 25 
+of Estudios_San_Miguel.txt 23 30 32 40 78 92 100 185 206 234 238 250 270 308 409 461 470 496 639 678 711 738 741 789 
+industry Estudios_San_Miguel.txt 1 242 
+madame Estudios_San_Miguel.txt 1 320 
+drama Estudios_San_Miguel.txt 1 54 
+insufficient Estudios_San_Miguel.txt 1 520 
+own Estudios_San_Miguel.txt 1 516 
+el Estudios_San_Miguel.txt 3 314 445 672 
+within Estudios_San_Miguel.txt 1 564 
+two Estudios_San_Miguel.txt 2 99 571 
+duarte Estudios_San_Miguel.txt 3 85 730 796 
+female Estudios_San_Miguel.txt 1 709 
+her Estudios_San_Miguel.txt 1 718 
+los Estudios_San_Miguel.txt 1 659 
+silvestre Estudios_San_Miguel.txt 1 173 
+was Estudios_San_Miguel.txt 19 10 16 38 122 131 145 232 248 353 427 456 493 560 612 682 687 704 762 863 
+war Estudios_San_Miguel.txt 2 65 691 
+funds Estudios_San_Miguel.txt 1 517 
+vehicle Estudios_San_Miguel.txt 1 706 
+but Estudios_San_Miguel.txt 2 208 555 
+neutral Estudios_San_Miguel.txt 1 688 
+delta Estudios_San_Miguel.txt 1 576 
+with Estudios_San_Miguel.txt 7 68 168 203 514 526 550 666 
+he Estudios_San_Miguel.txt 5 273 365 398 426 430 
+directed Estudios_San_Miguel.txt 5 226 289 441 613 834 
+made Estudios_San_Miguel.txt 3 339 776 864 
+signed Estudios_San_Miguel.txt 1 808 
+miguel Estudios_San_Miguel.txt 10 2 6 8 121 127 161 220 500 528 568 
+pesos Estudios_San_Miguel.txt 1 475 
+modelos Estudios_San_Miguel.txt 1 295 
+proved Estudios_San_Miguel.txt 1 519 
+cinema Estudios_San_Miguel.txt 1 31 
+peruvian Estudios_San_Miguel.txt 1 347 
+petit Estudios_San_Miguel.txt 1 602 
+circus Estudios_San_Miguel.txt 1 702 
+moved Estudios_San_Miguel.txt 2 366 399 
+argentinos Estudios_San_Miguel.txt 3 70 402 507 
+general Estudios_San_Miguel.txt 1 436 
+as Estudios_San_Miguel.txt 4 94 392 460 736 
+at Estudios_San_Miguel.txt 6 35 277 357 505 618 751 
+shooting Estudios_San_Miguel.txt 1 758 
+film Estudios_San_Miguel.txt 16 13 241 254 444 513 549 559 584 592 622 627 635 721 726 814 862 
+phantom Estudios_San_Miguel.txt 1 828 
+genres Estudios_San_Miguel.txt 1 47 
+hector Estudios_San_Miguel.txt 1 387 
+when Estudios_San_Miguel.txt 2 364 425 
+cinematography Estudios_San_Miguel.txt 2 640 873 
+other Estudios_San_Miguel.txt 1 275 
+role Estudios_San_Miguel.txt 1 746 
+department Estudios_San_Miguel.txt 1 331 
+duende Estudios_San_Miguel.txt 3 487 656 826 
+pappier Estudios_San_Miguel.txt 3 304 325 335 
+picture Estudios_San_Miguel.txt 1 649 
+noche Estudios_San_Miguel.txt 1 676 
+brothers Estudios_San_Miguel.txt 1 170 
+evas Estudios_San_Miguel.txt 1 774 
+peak Estudios_San_Miguel.txt 1 37 
+caldern Estudios_San_Miguel.txt 1 846 
+included Estudios_San_Miguel.txt 2 59 728 
+prdiga Estudios_San_Miguel.txt 1 800 
+wife Estudios_San_Miguel.txt 3 284 737 818 
+age Estudios_San_Miguel.txt 1 29 
+carreras Estudios_San_Miguel.txt 1 421 
+directors Estudios_San_Miguel.txt 1 276 
+time Estudios_San_Miguel.txt 1 760 

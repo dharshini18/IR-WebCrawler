@@ -1,0 +1,805 @@
+neighbors Ancient_Greek.txt 1 794 
+represent Ancient_Greek.txt 2 1149 1190 
+all Ancient_Greek.txt 10 533 768 1083 1143 1256 1370 1608 1784 2053 2087 
+trabzon Ancient_Greek.txt 1 2273 
+evidence Ancient_Greek.txt 1 364 
+orthography Ancient_Greek.txt 1 1722 
+lack Ancient_Greek.txt 1 361 
+results Ancient_Greek.txt 1 579 
+four Ancient_Greek.txt 2 1306 1371 
+prefix Ancient_Greek.txt 3 1419 1552 1567 
+preface Ancient_Greek.txt 1 2160 
+morphology Ancient_Greek.txt 1 1238 
+lelpha Ancient_Greek.txt 1 1666 
+wholly Ancient_Greek.txt 1 2246 
+15,000 Ancient_Greek.txt 1 1971 
+milk Ancient_Greek.txt 2 1020 1024 
+prefixes Ancient_Greek.txt 1 1500 
+inflected Ancient_Greek.txt 1 1264 
+literary Ancient_Greek.txt 2 273 295 
+to Ancient_Greek.txt 42 64 79 98 161 196 418 489 497 501 577 667 722 730 921 941 947 952 955 966 1118 1180 1221 1230 1398 1448 1459 1493 1514 1577 1862 1967 1979 2037 2050 2064 2153 2190 2214 2265 2285 2300 2326 
+invaders Ancient_Greek.txt 1 484 
+preserved Ancient_Greek.txt 1 686 
+masculine Ancient_Greek.txt 1 1293 
+alphabetic Ancient_Greek.txt 1 468 
+imperative Ancient_Greek.txt 3 1309 1383 1392 
+classical-era Ancient_Greek.txt 1 336 
+oversight Ancient_Greek.txt 1 552 
+syllabic Ancient_Greek.txt 2 1485 1489 
+division Ancient_Greek.txt 2 569 601 
+breathing Ancient_Greek.txt 1 1772 
+organizations Ancient_Greek.txt 1 2207 
+far Ancient_Greek.txt 1 561 
+regional Ancient_Greek.txt 1 174 
+iliad Ancient_Greek.txt 2 312 1796 
+puzzles Ancient_Greek.txt 1 2139 
+verb Ancient_Greek.txt 2 1571 1623 
+genitive Ancient_Greek.txt 2 1025 1286 
+exact Ancient_Greek.txt 1 925 
+categories Ancient_Greek.txt 2 2388 2390 
+linguists Ancient_Greek.txt 2 1178 2317 
+reduplication Ancient_Greek.txt 5 1602 1605 1647 1680 1712 
+issue Ancient_Greek.txt 1 2145 
+diphthongs Ancient_Greek.txt 3 1066 1092 1108 
+list Ancient_Greek.txt 1 15 
+aorists Ancient_Greek.txt 1 1641 
+standards Ancient_Greek.txt 1 2067 
+phonology Ancient_Greek.txt 2 977 1044 
+sand Ancient_Greek.txt 1 461 
+harry Ancient_Greek.txt 1 2112 
+small Ancient_Greek.txt 1 676 
+settlers Ancient_Greek.txt 1 792 
+20th Ancient_Greek.txt 1 1879 
+attic-ionic Ancient_Greek.txt 2 504 609 
+attic Ancient_Greek.txt 7 149 254 333 840 971 1150 1817 
+past Ancient_Greek.txt 1 1412 
+surrounding Ancient_Greek.txt 1 727 
+imply Ancient_Greek.txt 1 429 
+further Ancient_Greek.txt 2 718 2376 
+scientific Ancient_Greek.txt 2 2363 2369 
+universities Ancient_Greek.txt 1 2015 
+will Ancient_Greek.txt 2 2026 2043 
+what Ancient_Greek.txt 1 369 
+adds Ancient_Greek.txt 1 1414 
+contributed Ancient_Greek.txt 1 193 
+near Ancient_Greek.txt 1 2272 
+version Ancient_Greek.txt 1 1837 
+optional Ancient_Greek.txt 2 1890 1946 
+above Ancient_Greek.txt 1 716 
+new Ancient_Greek.txt 1 827 
+boost Ancient_Greek.txt 2 2038 2065 
+consisting Ancient_Greek.txt 1 1697 
+degree Ancient_Greek.txt 1 670 
+spacing Ancient_Greek.txt 1 1775 
+here Ancient_Greek.txt 1 23 
+believed Ancient_Greek.txt 1 526 
+reduplicate Ancient_Greek.txt 3 1617 1635 1642 
+groups Ancient_Greek.txt 6 13 252 372 433 447 770 
+others Ancient_Greek.txt 1 279 
+represented Ancient_Greek.txt 1 772 
+standard Ancient_Greek.txt 3 203 585 1755 
+antedated Ancient_Greek.txt 1 105 
+great Ancient_Greek.txt 1 819 
+cretan Ancient_Greek.txt 1 745 
+14 Ancient_Greek.txt 1 1966 
+technical Ancient_Greek.txt 1 2339 
+study Ancient_Greek.txt 2 206 1853 
+changed Ancient_Greek.txt 1 1117 
+doric Ancient_Greek.txt 9 260 704 733 743 746 749 759 858 875 
+prior Ancient_Greek.txt 1 160 
+exemplifies Ancient_Greek.txt 2 1797 1816 
+descended Ancient_Greek.txt 1 628 
+koine Ancient_Greek.txt 7 93 128 130 163 832 896 1130 
+usually Ancient_Greek.txt 2 1767 1953 
+changes Ancient_Greek.txt 2 1125 1145 
+involves Ancient_Greek.txt 1 1520 
+accusative Ancient_Greek.txt 1 1288 
+ipa Ancient_Greek.txt 1 1828 
+followed Ancient_Greek.txt 1 1703 
+1935 Ancient_Greek.txt 1 2178 
+family Ancient_Greek.txt 1 353 
+explained Ancient_Greek.txt 1 1539 
+marked Ancient_Greek.txt 1 598 
+highly Ancient_Greek.txt 2 1263 1267 
+spanish Ancient_Greek.txt 2 2005 2074 
+visible Ancient_Greek.txt 1 1683 
+austria Ancient_Greek.txt 1 1930 
+pamphylian Ancient_Greek.txt 1 671 
+rarely Ancient_Greek.txt 1 2095 
+languages Ancient_Greek.txt 5 904 959 995 1261 2344 
+use Ancient_Greek.txt 3 1846 2223 2228 
+from Ancient_Greek.txt 17 58 302 331 383 409 562 631 808 845 980 990 1053 1166 1819 1871 1962 2056 
+phonemic Ancient_Greek.txt 2 1035 1037 
+would Ancient_Greek.txt 1 478 
+lyceums Ancient_Greek.txt 1 2090 
+aso Ancient_Greek.txt 1 1940 
+contains Ancient_Greek.txt 1 220 
+two Ancient_Greek.txt 1 1478 
+few Ancient_Greek.txt 2 1628 2309 
+arcadian Ancient_Greek.txt 1 554 
+ionians Ancient_Greek.txt 1 538 
+until Ancient_Greek.txt 1 1874 
+more Ancient_Greek.txt 2 629 1808 
+standardized Ancient_Greek.txt 1 272 
+initial Ancient_Greek.txt 2 1619 1701 
+under Ancient_Greek.txt 3 642 662 788 
+occurred Ancient_Greek.txt 1 1193 
+slamban Ancient_Greek.txt 1 1671 
+known Ancient_Greek.txt 4 126 496 806 830 
+cases Ancient_Greek.txt 1 1284 
+circumstances Ancient_Greek.txt 1 425 
+sample Ancient_Greek.txt 1 1788 
+word Ancient_Greek.txt 2 1430 1563 
+augment Ancient_Greek.txt 10 1407 1423 1445 1481 1490 1511 1526 1554 1587 1598 
+this Ancient_Greek.txt 9 3 217 410 524 568 848 1424 2225 2227 
+kesadlo Ancient_Greek.txt 1 2102 
+originally Ancient_Greek.txt 2 1427 1670 
+theories Ancient_Greek.txt 1 366 
+can Ancient_Greek.txt 4 649 1537 1651 2244 
+9th Ancient_Greek.txt 2 61 78 
+island Ancient_Greek.txt 2 732 742 
+exceptions Ancient_Greek.txt 1 811 
+root Ancient_Greek.txt 1 1658 
+example Ancient_Greek.txt 2 1573 1656 
+history Ancient_Greek.txt 2 338 2163 
+links Ancient_Greek.txt 1 2380 
+reconstructed Ancient_Greek.txt 1 1161 
+numbers Ancient_Greek.txt 1 1299 
+species Ancient_Greek.txt 1 2366 
+native Ancient_Greek.txt 1 708 
+information Ancient_Greek.txt 1 221 
+educational Ancient_Greek.txt 1 208 
+united Ancient_Greek.txt 1 1909 
+end Ancient_Greek.txt 1 1005 
+kechiasmena Ancient_Greek.txt 1 2131 
+divided Ancient_Greek.txt 2 73 245 
+poetry Ancient_Greek.txt 3 1593 1596 2105 
+regions Ancient_Greek.txt 1 505 
+very Ancient_Greek.txt 1 1051 
+vocative Ancient_Greek.txt 1 1290 
+dialect Ancient_Greek.txt 16 251 371 408 446 558 657 695 713 753 764 829 849 859 935 962 2315 
+singular Ancient_Greek.txt 1 1300 
+may Ancient_Greek.txt 2 373 689 
+vowels Ancient_Greek.txt 6 1064 1084 1090 1226 1518 1547 
+after Ancient_Greek.txt 3 813 1710 1958 
+southern Ancient_Greek.txt 1 747 
+aeolic Ancient_Greek.txt 5 257 305 611 615 766 
+lab Ancient_Greek.txt 1 1659 
+reflect Ancient_Greek.txt 1 1142 
+4th Ancient_Greek.txt 4 87 100 823 1235 
+metamorphosized Ancient_Greek.txt 1 899 
+2006/07 Ancient_Greek.txt 1 1970 
+invasion Ancient_Greek.txt 3 460 477 494 
+pontic Ancient_Greek.txt 1 2278 
+data Ancient_Greek.txt 1 932 
+lesbian Ancient_Greek.txt 1 763 
+types Ancient_Greek.txt 1 1645 
+a Ancient_Greek.txt 37 134 202 242 294 360 643 655 668 675 692 706 723 826 934 938 944 1008 1077 1119 1360 1418 1428 1551 1627 1637 1695 1706 1835 1887 1955 1995 2047 2061 2083 2159 2161 2287 
+phrygian Ancient_Greek.txt 1 958 
+short Ancient_Greek.txt 3 1063 1088 2162 
+outline Ancient_Greek.txt 1 397 
+succeeded Ancient_Greek.txt 1 115 
+nationalistic Ancient_Greek.txt 1 2233 
+6th Ancient_Greek.txt 3 66 80 892 
+correspond Ancient_Greek.txt 1 1397 
+greek Ancient_Greek.txt 86 1 11 18 21 34 43 49 94 113 118 150 159 165 177 237 240 292 299 323 341 414 444 534 566 594 625 634 646 664 672 701 767 797 835 841 888 902 922 937 942 948 972 988 1002 1027 1043 1049 1057 1059 1082 1131 1138 1151 1165 1243 1254 1277 1483 1721 1724 1738 1764 1803 1806 1818 1825 1856 1882 1975 2008 2078 2099 2128 2142 2175 2202 2211 2257 2263 2279 2290 2302 2328 2330 2349 2355 
+subdivisions Ancient_Greek.txt 2 266 719 
+april Ancient_Greek.txt 1 2148 
+word-initial Ancient_Greek.txt 1 1216 
+conquests Ancient_Greek.txt 1 815 
+irregularity Ancient_Greek.txt 1 1536 
+non-greek Ancient_Greek.txt 1 707 
+closely Ancient_Greek.txt 3 147 630 919 
+office Ancient_Greek.txt 1 1983 
+developed Ancient_Greek.txt 3 448 784 836 
+distinctly Ancient_Greek.txt 1 1095 
+mainly Ancient_Greek.txt 2 807 2210 
+own Ancient_Greek.txt 2 140 544 
+including Ancient_Greek.txt 5 539 744 750 760 1279 
+statistical Ancient_Greek.txt 1 1982 
+pitch Ancient_Greek.txt 2 1078 1114 
+differs Ancient_Greek.txt 1 989 
+still Ancient_Greek.txt 2 1884 2245 
+its Ancient_Greek.txt 11 139 143 153 416 726 880 924 1270 2143 2266 2298 
+proto-greek Ancient_Greek.txt 1 985 
+before Ancient_Greek.txt 3 1202 1209 1223 
+perfect Ancient_Greek.txt 7 1362 1366 1612 1616 1632 1662 1673 
+write Ancient_Greek.txt 1 2096 
+style Ancient_Greek.txt 1 1751 
+group Ancient_Greek.txt 2 696 804 
+voiceless Ancient_Greek.txt 2 1072 1214 
+terminations Ancient_Greek.txt 1 882 
+pluricentric Ancient_Greek.txt 1 243 
+writing Ancient_Greek.txt 3 469 1134 1716 
+forms Ancient_Greek.txt 11 47 274 290 1274 1332 1464 1470 1609 1630 2254 2352 
+compensatory Ancient_Greek.txt 1 1678 
+differed Ancient_Greek.txt 1 1033 
+2015 Ancient_Greek.txt 1 2149 
+2014 Ancient_Greek.txt 1 2057 
+hidden Ancient_Greek.txt 1 2389 
+main Ancient_Greek.txt 7 234 250 908 983 1040 1240 1719 
+defining Ancient_Greek.txt 1 545 
+ionic-attic Ancient_Greek.txt 2 607 619 
+then Ancient_Greek.txt 1 1434 
+them Ancient_Greek.txt 1 263 
+iotacism Ancient_Greek.txt 1 1100 
+descendants Ancient_Greek.txt 1 510 
+practice Ancient_Greek.txt 1 1585 
+interword Ancient_Greek.txt 1 1774 
+they Ancient_Greek.txt 2 392 1783 
+compound Ancient_Greek.txt 1 1851 
+not Ancient_Greek.txt 10 355 449 479 1141 1458 1557 1590 1634 1665 2303 
+documented Ancient_Greek.txt 1 1171 
+finite Ancient_Greek.txt 1 1400 
+grammar Ancient_Greek.txt 4 328 1244 1905 2382 
+name Ancient_Greek.txt 1 1248 
+edit Ancient_Greek.txt 20 233 339 907 978 982 1039 1192 1227 1239 1408 1606 1718 1790 1847 2373 2375 2378 2381 2384 2387 
+inventory Ancient_Greek.txt 2 1036 1038 
+skills Ancient_Greek.txt 1 2041 
+each Ancient_Greek.txt 1 541 
+found Ancient_Greek.txt 2 270 2284 
+ei Ancient_Greek.txt 1 1534 
+rahlfshanhart Ancient_Greek.txt 1 2194 
+dorians Ancient_Greek.txt 2 492 520 
+gymnasium Ancient_Greek.txt 2 1922 1950 
+related Ancient_Greek.txt 3 903 920 951 
+living Ancient_Greek.txt 1 2324 
+used Ancient_Greek.txt 7 50 275 306 1201 2205 2333 2358 
+variety Ancient_Greek.txt 1 2288 
+beyond Ancient_Greek.txt 1 775 
+er Ancient_Greek.txt 1 1508 
+respects Ancient_Greek.txt 1 652 
+3rd Ancient_Greek.txt 1 95 
+hellenistic Ancient_Greek.txt 3 91 123 975 
+greeks Ancient_Greek.txt 2 522 2243 
+occupied Ancient_Greek.txt 1 1864 
+since Ancient_Greek.txt 1 214 
+aspectual Ancient_Greek.txt 1 1442 
+investigation Ancient_Greek.txt 1 583 
+millennium Ancient_Greek.txt 1 109 
+assimilated Ancient_Greek.txt 1 1220 
+plural Ancient_Greek.txt 1 1303 
+shows Ancient_Greek.txt 1 2258 
+earlier Ancient_Greek.txt 1 170 
+linear Ancient_Greek.txt 1 1729 
+state Ancient_Greek.txt 1 2031 
+derived Ancient_Greek.txt 1 300 
+divergence Ancient_Greek.txt 1 378 
+differ Ancient_Greek.txt 1 399 
+quite Ancient_Greek.txt 1 575 
+approaches Ancient_Greek.txt 1 157 
+poems Ancient_Greek.txt 2 310 318 
+earliest Ancient_Greek.txt 2 144 600 
+beginning Ancient_Greek.txt 7 36 1495 1503 1516 1792 1811 1876 
+peloponnesus Ancient_Greek.txt 2 748 758 
+language Ancient_Greek.txt 24 8 44 120 180 230 244 342 352 387 573 865 912 918 940 964 986 1957 2040 2049 2110 2198 2226 2264 2325 
+persons Ancient_Greek.txt 1 1324 
+overlaid Ancient_Greek.txt 1 702 
+could Ancient_Greek.txt 1 1004 
+times Ancient_Greek.txt 1 428 
+place Ancient_Greek.txt 2 1127 1867 
+stone Ancient_Greek.txt 1 2117 
+ionic Ancient_Greek.txt 3 256 303 803 
+first Ancient_Greek.txt 4 464 1325 2134 2144 
+origin Ancient_Greek.txt 1 2350 
+major Ancient_Greek.txt 5 442 530 694 2014 2062 
+already Ancient_Greek.txt 1 434 
+nouns Ancient_Greek.txt 2 1278 1281 
+spoken Ancient_Greek.txt 3 673 868 2281 
+potter Ancient_Greek.txt 1 2113 
+primary Ancient_Greek.txt 2 2032 2054 
+preservation Ancient_Greek.txt 1 1271 
+one Ancient_Greek.txt 1 584 
+such Ancient_Greek.txt 1 1900 
+sounds Ancient_Greek.txt 1 1186 
+corinthian Ancient_Greek.txt 1 761 
+little Ancient_Greek.txt 2 685 1175 
+ancient Ancient_Greek.txt 41 0 10 17 42 52 56 176 236 239 340 443 910 913 987 1001 1026 1042 1048 1058 1157 1242 1276 1723 1763 1802 1824 1855 1881 1974 2007 2077 2098 2127 2141 2174 2201 2256 2301 2327 2329 2354 
+syllabus Ancient_Greek.txt 1 1870 
+together Ancient_Greek.txt 1 2068 
+5th Ancient_Greek.txt 2 85 1154 
+accent Ancient_Greek.txt 3 1079 1115 1121 
+system Ancient_Greek.txt 2 1135 1717 
+least Ancient_Greek.txt 1 1417 
+compulsory Ancient_Greek.txt 4 1888 1913 1996 2084 
+their Ancient_Greek.txt 4 463 543 551 2216 
+attack Ancient_Greek.txt 1 1575 
+intermediate Ancient_Greek.txt 1 737 
+listed Ancient_Greek.txt 1 715 
+passed Ancient_Greek.txt 1 878 
+scheme Ancient_Greek.txt 1 1841 
+final Ancient_Greek.txt 1 1014 
+speaking Ancient_Greek.txt 1 795 
+imperfect Ancient_Greek.txt 4 1351 1388 1454 1473 
+alfred Ancient_Greek.txt 1 2156 
+relationship Ancient_Greek.txt 3 417 488 926 
+that Ancient_Greek.txt 10 430 441 462 1054 1187 1199 1626 2241 2291 2319 
+stress Ancient_Greek.txt 1 1120 
+hebdomada Ancient_Greek.txt 1 2154 
+part Ancient_Greek.txt 2 2022 2059 
+western Ancient_Greek.txt 1 212 
+authors Ancient_Greek.txt 2 321 2094 
+consonant Ancient_Greek.txt 1 1702 
+believe Ancient_Greek.txt 1 2318 
+elite Ancient_Greek.txt 1 1896 
+than Ancient_Greek.txt 1 451 
+population Ancient_Greek.txt 3 12 500 513 
+inscriptions Ancient_Greek.txt 3 284 688 809 
+b Ancient_Greek.txt 1 1730 
+third Ancient_Greek.txt 2 1328 1956 
+irregularly Ancient_Greek.txt 1 1527 
+double Ancient_Greek.txt 1 1067 
+older Ancient_Greek.txt 2 855 1259 
+second Ancient_Greek.txt 2 108 1326 
+matter Ancient_Greek.txt 1 2171 
+r Ancient_Greek.txt 3 1013 1211 1505 
+historical Ancient_Greek.txt 5 136 289 420 424 491 
+were Ancient_Greek.txt 4 528 771 1016 1785 
+genders Ancient_Greek.txt 1 1292 
+speak Ancient_Greek.txt 2 2286 2313 
+and Ancient_Greek.txt 85 54 86 90 114 151 169 183 189 199 225 255 259 304 313 315 329 334 347 388 422 537 546 559 572 599 610 616 648 684 725 756 780 949 957 992 1062 1068 1073 1076 1085 1091 1105 1112 1172 1204 1289 1295 1297 1302 1311 1313 1318 1327 1329 1341 1350 1364 1373 1395 1405 1455 1474 1486 1498 1519 1568 1614 1771 1778 1904 1943 1960 1986 2042 2075 2089 2106 2111 2114 2118 2138 2168 2208 2296 2367 
+disambiguation Ancient_Greek.txt 1 35 
+modern Ancient_Greek.txt 13 581 873 1056 1081 1137 1760 1776 1836 1845 2093 2242 2262 2338 
+voices Ancient_Greek.txt 2 1315 1375 
+mycenaean Ancient_Greek.txt 4 112 413 633 700 
+have Ancient_Greek.txt 8 374 393 498 967 1109 1282 1305 2123 
+voiced Ancient_Greek.txt 2 1071 1224 
+cousin Ancient_Greek.txt 1 946 
+apparently Ancient_Greek.txt 1 627 
+any Ancient_Greek.txt 2 1460 2237 
+contents Ancient_Greek.txt 1 231 
+mountain Ancient_Greek.txt 1 557 
+transliterated Ancient_Greek.txt 1 1829 
+thessalian Ancient_Greek.txt 1 658 
+aspirated Ancient_Greek.txt 1 1074 
+isolated Ancient_Greek.txt 1 2270 
+note Ancient_Greek.txt 1 1625 
+also Ancient_Greek.txt 12 287 877 1032 1384 1682 1849 2010 2027 2080 2185 2204 2372 
+supplanted Ancient_Greek.txt 1 969 
+which Ancient_Greek.txt 1 866 
+diachronically Ancient_Greek.txt 2 1540 1654 
+worldwide Ancient_Greek.txt 1 2016 
+indo-european Ancient_Greek.txt 3 917 994 1260 
+added Ancient_Greek.txt 4 1435 1447 1492 1513 
+unless Ancient_Greek.txt 1 482 
+phonotactics Ancient_Greek.txt 1 1000 
+though Ancient_Greek.txt 2 666 2100 
+syllable Ancient_Greek.txt 2 1620 1696 
+perfective Ancient_Greek.txt 1 1358 
+who Ancient_Greek.txt 2 506 2212 
+nasal Ancient_Greek.txt 1 1707 
+took Ancient_Greek.txt 1 1126 
+bachillerato Ancient_Greek.txt 1 2006 
+most Ancient_Greek.txt 6 710 852 884 1367 1529 2013 
+ostracon Ancient_Greek.txt 1 1245 
+germany Ancient_Greek.txt 3 1952 1977 1985 
+significant Ancient_Greek.txt 1 325 
+quantitative Ancient_Greek.txt 2 1487 1510 
+phase Ancient_Greek.txt 1 124 
+future Ancient_Greek.txt 4 1349 1365 1380 1615 
+especially Ancient_Greek.txt 2 1594 1892 
+considered Ancient_Greek.txt 2 654 2231 
+later Ancient_Greek.txt 4 317 450 503 1787 
+drive Ancient_Greek.txt 1 2063 
+traditional Ancient_Greek.txt 1 1894 
+federal Ancient_Greek.txt 1 1981 
+latest Ancient_Greek.txt 1 154 
+attested Ancient_Greek.txt 2 281 407 
+institutions Ancient_Greek.txt 1 209 
+fact Ancient_Greek.txt 1 2240 
+precise Ancient_Greek.txt 1 467 
+german Ancient_Greek.txt 1 2073 
+text Ancient_Greek.txt 1 2167 
+southwestern Ancient_Greek.txt 1 680 
+fifth Ancient_Greek.txt 1 693 
+coinage Ancient_Greek.txt 1 2336 
+based Ancient_Greek.txt 1 838 
+northern Ancient_Greek.txt 1 757 
+front Ancient_Greek.txt 1 2170 
+asterix Ancient_Greek.txt 1 2122 
+gimnazija Ancient_Greek.txt 1 1935 
+written Ancient_Greek.txt 6 1217 1727 1735 1748 1768 2251 
+jan Ancient_Greek.txt 1 2101 
+velars Ancient_Greek.txt 1 1203 
+only Ancient_Greek.txt 3 282 406 1006 
+local Ancient_Greek.txt 1 785 
+predecessor Ancient_Greek.txt 1 2268 
+do Ancient_Greek.txt 1 1633 
+thracian Ancient_Greek.txt 1 956 
+his Ancient_Greek.txt 1 2177 
+goes Ancient_Greek.txt 1 1576 
+plato Ancient_Greek.txt 1 1815 
+overall Ancient_Greek.txt 1 432 
+seslpha Ancient_Greek.txt 1 1674 
+coast Ancient_Greek.txt 1 681 
+marks Ancient_Greek.txt 1 1773 
+crosswords Ancient_Greek.txt 1 2137 
+cannot Ancient_Greek.txt 1 1159 
+5,000 Ancient_Greek.txt 1 2311 
+words Ancient_Greek.txt 3 195 1003 2347 
+international Ancient_Greek.txt 1 828 
+combinations Ancient_Greek.txt 2 1338 1401 
+during Ancient_Greek.txt 1 1756 
+stoa Ancient_Greek.txt 1 1251 
+alexander Ancient_Greek.txt 1 817 
+following Ancient_Greek.txt 1 1582 
+humanistisches Ancient_Greek.txt 1 1949 
+transitional Ancient_Greek.txt 1 656 
+countries Ancient_Greek.txt 1 1859 
+public Ancient_Greek.txt 1 1902 
+arcadocypriot Ancient_Greek.txt 3 258 613 626 
+revised Ancient_Greek.txt 1 2193 
+city-state Ancient_Greek.txt 1 724 
+croatia Ancient_Greek.txt 1 1932 
+common Ancient_Greek.txt 4 129 385 834 1530 
+18 Ancient_Greek.txt 1 1968 
+through Ancient_Greek.txt 2 1336 1677 
+obscure Ancient_Greek.txt 1 556 
+where Ancient_Greek.txt 1 2277 
+wrote Ancient_Greek.txt 1 2103 
+europe Ancient_Greek.txt 1 1899 
+archaeological-linguistic Ancient_Greek.txt 1 582 
+culture Ancient_Greek.txt 1 26 
+see Ancient_Greek.txt 8 14 27 33 1603 1804 1848 2345 2371 
+are Ancient_Greek.txt 15 253 269 280 286 354 805 1087 1096 1334 1352 1484 1648 1747 1766 2357 
+greece Ancient_Greek.txt 4 29 53 776 2092 
+close Ancient_Greek.txt 1 945 
+stop Ancient_Greek.txt 1 1708 
+subject Ancient_Greek.txt 4 204 1891 1997 2085 
+rahlfs Ancient_Greek.txt 1 2157 
+phases Ancient_Greek.txt 1 227 
+placed Ancient_Greek.txt 1 1556 
+ways Ancient_Greek.txt 1 998 
+distinctive Ancient_Greek.txt 1 547 
+wikipedia Ancient_Greek.txt 1 2 
+case Ancient_Greek.txt 2 1781 2238 
+outside Ancient_Greek.txt 1 801 
+verbs Ancient_Greek.txt 7 885 1304 1333 1525 1549 1691 1715 
+various Ancient_Greek.txt 1 1330 
+roots Ancient_Greek.txt 2 1700 2356 
+between Ancient_Greek.txt 3 376 1546 1565 
+mandarin Ancient_Greek.txt 1 2071 
+probably Ancient_Greek.txt 3 1213 1232 1426 
+reading Ancient_Greek.txt 1 2377 
+consonants Ancient_Greek.txt 5 1070 1086 1191 1225 1497 
+latin Ancient_Greek.txt 6 1832 1863 1959 1999 2020 2070 
+terms Ancient_Greek.txt 1 2340 
+parallels Ancient_Greek.txt 1 2293 
+nature Ancient_Greek.txt 1 1183 
+handful Ancient_Greek.txt 1 1638 
+however Ancient_Greek.txt 2 1139 1506 
+french Ancient_Greek.txt 1 2072 
+historians Ancient_Greek.txt 1 187 
+hanhart Ancient_Greek.txt 1 2184 
+article Ancient_Greek.txt 8 4 218 235 909 984 1041 1241 1720 
+come Ancient_Greek.txt 2 641 661 
+bronze Ancient_Greek.txt 1 637 
+laconian Ancient_Greek.txt 1 751 
+pluperfect Ancient_Greek.txt 4 1363 1456 1475 1613 
+many Ancient_Greek.txt 7 194 247 261 1065 1089 1122 2360 
+region Ancient_Greek.txt 1 871 
+according Ancient_Greek.txt 1 1978 
+display Ancient_Greek.txt 1 1369 
+infinitives Ancient_Greek.txt 1 1394 
+s Ancient_Greek.txt 6 39 1012 1218 1545 1584 1795 
+became Ancient_Greek.txt 1 1754 
+among Ancient_Greek.txt 2 1177 1743 
+unclear Ancient_Greek.txt 1 928 
+extent Ancient_Greek.txt 1 954 
+appeared Ancient_Greek.txt 1 2146 
+period Ancient_Greek.txt 15 77 84 92 164 391 411 445 525 976 1031 1132 1168 1759 1800 1822 
+community Ancient_Greek.txt 1 2271 
+active Ancient_Greek.txt 1 1316 
+simply Ancient_Greek.txt 2 1344 1499 
+learning Ancient_Greek.txt 1 2383 
+contemporaneous Ancient_Greek.txt 1 363 
+respect Ancient_Greek.txt 1 2217 
+throughout Ancient_Greek.txt 1 1898 
+ad Ancient_Greek.txt 3 68 102 894 
+turkey Ancient_Greek.txt 1 2274 
+late Ancient_Greek.txt 1 822 
+playwrights Ancient_Greek.txt 1 188 
+addition Ancient_Greek.txt 1 1861 
+west Ancient_Greek.txt 1 591 
+varieties Ancient_Greek.txt 1 2307 
+three Ancient_Greek.txt 7 529 1291 1298 1314 1323 1374 1644 
+been Ancient_Greek.txt 4 201 968 2124 2283 
+appears Ancient_Greek.txt 2 965 1709 
+slowly Ancient_Greek.txt 2 850 898 
+combined Ancient_Greek.txt 1 2018 
+certain Ancient_Greek.txt 2 997 1690 
+affinity Ancient_Greek.txt 1 2260 
+territory Ancient_Greek.txt 1 728 
+graphical Ancient_Greek.txt 1 2232 
+alongside Ancient_Greek.txt 1 1998 
+partly Ancient_Greek.txt 1 2248 
+both Ancient_Greek.txt 1 2294 
+offered Ancient_Greek.txt 1 2045 
+demotic Ancient_Greek.txt 1 887 
+external Ancient_Greek.txt 1 2379 
+stems Ancient_Greek.txt 5 1494 1502 1515 1688 1693 
+peopledorians Ancient_Greek.txt 1 535 
+general Ancient_Greek.txt 2 396 1182 
+glides Ancient_Greek.txt 1 1106 
+odyssey Ancient_Greek.txt 2 40 314 
+present Ancient_Greek.txt 4 1348 1361 1686 2304 
+homer Ancient_Greek.txt 4 38 182 1583 1794 
+divisions Ancient_Greek.txt 2 531 738 
+has Ancient_Greek.txt 8 192 200 860 876 1116 1660 2282 2292 
+aeolians Ancient_Greek.txt 1 536 
+irregular Ancient_Greek.txt 3 1629 1640 1649 
+subsets Ancient_Greek.txt 1 605 
+these Ancient_Greek.txt 2 781 1692 
+athenians Ancient_Greek.txt 1 540 
+n Ancient_Greek.txt 2 1011 1198 
+lesser Ancient_Greek.txt 1 669 
+while Ancient_Greek.txt 1 278 
+replaced Ancient_Greek.txt 1 851 
+voice Ancient_Greek.txt 1 1406 
+greek-like Ancient_Greek.txt 1 381 
+at Ancient_Greek.txt 5 454 1416 1558 1893 2012 
+seven Ancient_Greek.txt 1 1337 
+studied Ancient_Greek.txt 2 1973 1989 
+eilpha Ancient_Greek.txt 2 1664 1676 
+century Ancient_Greek.txt 10 62 67 96 101 474 824 893 1155 1236 1880 
+almost Ancient_Greek.txt 1 1607 
+characteristics Ancient_Greek.txt 1 786 
+is Ancient_Greek.txt 40 5 70 104 125 131 293 412 495 574 590 595 622 699 867 927 1169 1174 1262 1266 1378 1386 1446 1491 1512 1532 1555 1588 1681 1883 1912 1945 1994 2009 2079 2132 2203 2229 2280 2321 2331 
+it Ancient_Greek.txt 15 69 103 146 156 191 698 1265 1668 1733 1911 1944 1990 1993 2025 2320 
+lamban Ancient_Greek.txt 1 1657 
+middle Ancient_Greek.txt 1 1317 
+vs Ancient_Greek.txt 3 592 612 618 
+dual Ancient_Greek.txt 1 1301 
+in Ancient_Greek.txt 84 51 106 142 152 207 271 276 283 307 316 327 400 436 471 604 650 674 687 820 862 869 973 996 999 1007 1019 1034 1080 1107 1128 1152 1269 1275 1354 1438 1482 1548 1579 1592 1684 1713 1728 1736 1749 1857 1860 1868 1907 1914 1918 1920 1923 1926 1929 1931 1933 1936 1939 1941 1947 1951 1969 1976 1991 2000 2030 2034 2052 2086 2091 2097 2108 2140 2147 2176 2196 2236 2252 2297 2305 2334 2341 2359 2368 
+prose Ancient_Greek.txt 1 2107 
+pronounced Ancient_Greek.txt 2 1094 1097 
+foreign Ancient_Greek.txt 1 2048 
+subjunctive Ancient_Greek.txt 3 1310 1381 1389 
+funny Ancient_Greek.txt 1 2235 
+different Ancient_Greek.txt 2 796 1052 
+italy Ancient_Greek.txt 2 1919 1992 
+dative Ancient_Greek.txt 1 1287 
+perhaps Ancient_Greek.txt 1 950 
+alphabet Ancient_Greek.txt 2 1739 1833 
+began Ancient_Greek.txt 1 470 
+punctuation Ancient_Greek.txt 1 1777 
+same Ancient_Greek.txt 1 395 
+non-west Ancient_Greek.txt 3 593 603 621 
+speech Ancient_Greek.txt 1 382 
+northwest Ancient_Greek.txt 2 645 663 
+lengthening Ancient_Greek.txt 2 1521 1679 
+colonies Ancient_Greek.txt 2 774 782 
+several Ancient_Greek.txt 5 173 265 288 365 736 
+european Ancient_Greek.txt 2 1858 2343 
+development Ancient_Greek.txt 1 348 
+literature Ancient_Greek.txt 1 277 
+centuries Ancient_Greek.txt 2 81 88 
+closest Ancient_Greek.txt 1 2323 
+appearances Ancient_Greek.txt 1 465 
+structurally Ancient_Greek.txt 1 2295 
+renaissance Ancient_Greek.txt 2 216 1873 
+cimon Ancient_Greek.txt 1 1250 
+uses Ancient_Greek.txt 1 32 
+vowel Ancient_Greek.txt 2 1009 1523 
+scholars Ancient_Greek.txt 1 439 
+single Ancient_Greek.txt 1 1069 
+pupils Ancient_Greek.txt 3 1972 1988 2051 
+center Ancient_Greek.txt 1 564 
+largely Ancient_Greek.txt 1 837 
+i Ancient_Greek.txt 3 1099 1574 1705 
+studies Ancient_Greek.txt 1 1938 
+humanities Ancient_Greek.txt 1 2002 
+well Ancient_Greek.txt 6 356 740 779 1170 1321 2200 
+roughly Ancient_Greek.txt 1 72 
+robert Ancient_Greek.txt 1 2183 
+athenian Ancient_Greek.txt 1 186 
+boustrophedon Ancient_Greek.txt 1 1750 
+english Ancient_Greek.txt 4 197 1844 1961 2346 
+firstly Ancient_Greek.txt 1 1726 
+indicative Ancient_Greek.txt 3 1308 1410 1450 
+the Ancient_Greek.txt 159 7 25 41 46 55 60 65 75 99 107 119 122 162 167 179 211 215 223 229 249 308 311 343 350 377 384 389 394 403 405 419 423 427 431 455 458 472 476 483 490 493 502 512 519 521 563 578 588 596 632 636 679 712 752 762 769 789 799 802 814 818 821 854 863 870 891 895 960 974 1029 1045 1103 1113 1124 1129 1133 1146 1153 1167 1181 1185 1188 1234 1247 1258 1347 1356 1393 1399 1409 1422 1444 1449 1452 1462 1466 1472 1477 1488 1509 1522 1528 1535 1542 1553 1559 1562 1566 1569 1580 1586 1597 1611 1618 1622 1643 1661 1685 1699 1711 1737 1757 1791 1798 1810 1820 1827 1831 1839 1852 1869 1872 1875 1878 1908 1915 1921 1924 1948 1963 1980 2001 2035 2109 2115 2133 2165 2181 2187 2191 2197 2222 2239 2259 2314 2322 2335 2342 2362 
+scholarship Ancient_Greek.txt 1 567 
+280,000 Ancient_Greek.txt 1 1987 
+redirects Ancient_Greek.txt 1 22 
+being Ancient_Greek.txt 1 812 
+when Ancient_Greek.txt 1 1215 
+macedonian Ancient_Greek.txt 3 911 914 961 
+aspect Ancient_Greek.txt 4 1342 1355 1359 1404 
+using Ancient_Greek.txt 2 1826 1834 
+fricatives Ancient_Greek.txt 1 1111 
+afterwards Ancient_Greek.txt 1 1732 
+aenigmatum Ancient_Greek.txt 1 2155 
+sparta Ancient_Greek.txt 2 755 874 
+regarded Ancient_Greek.txt 2 132 507 
+had Ancient_Greek.txt 9 324 485 640 660 717 735 897 1060 1440 
+passive Ancient_Greek.txt 1 1319 
+add Ancient_Greek.txt 2 1507 1694 
+conjugated Ancient_Greek.txt 1 1335 
+non-archaic Ancient_Greek.txt 1 2253 
+1120 Ancient_Greek.txt 1 452 
+east Ancient_Greek.txt 1 624 
+imperfective Ancient_Greek.txt 1 1353 
+kingdom Ancient_Greek.txt 1 1910 
+around Ancient_Greek.txt 1 59 
+tenses Ancient_Greek.txt 5 1340 1346 1368 1413 1437 
+latinized Ancient_Greek.txt 1 2351 
+allophone Ancient_Greek.txt 2 1196 1207 
+disagreement Ancient_Greek.txt 1 1176 
+early Ancient_Greek.txt 3 345 380 1745 
+possibly Ancient_Greek.txt 1 933 
+cultural Ancient_Greek.txt 1 487 
+netherlands Ancient_Greek.txt 1 1925 
+five Ancient_Greek.txt 1 1283 
+moods Ancient_Greek.txt 2 1307 1372 
+belgium Ancient_Greek.txt 1 1942 
+world Ancient_Greek.txt 2 57 213 
+loss Ancient_Greek.txt 1 1543 
+displaced Ancient_Greek.txt 2 499 514 
+like Ancient_Greek.txt 2 1255 1433 
+lost Ancient_Greek.txt 1 1017 
+texts Ancient_Greek.txt 5 1746 1765 1789 2250 2386 
+schools Ancient_Greek.txt 5 1897 1903 1906 2033 2055 
+preference Ancient_Greek.txt 1 2220 
+individuals Ancient_Greek.txt 1 2209 
+either Ancient_Greek.txt 1 691 
+translated Ancient_Greek.txt 3 1842 2125 2172 
+tribes Ancient_Greek.txt 1 19 
+nominative Ancient_Greek.txt 1 1285 
+terminology Ancient_Greek.txt 1 2370 
+italian Ancient_Greek.txt 1 2076 
+because Ancient_Greek.txt 4 358 929 1436 1667 
+often Ancient_Greek.txt 5 71 620 787 2017 2332 
+classical Ancient_Greek.txt 11 20 28 83 226 332 390 1030 1821 1850 1937 2385 
+people Ancient_Greek.txt 2 571 2312 
+understand Ancient_Greek.txt 1 2249 
+some Ancient_Greek.txt 13 267 401 437 486 651 953 1101 1524 1714 1741 1927 2104 2119 
+understood Ancient_Greek.txt 2 357 1653 
+strongest Ancient_Greek.txt 1 597 
+dorian Ancient_Greek.txt 2 459 481 
+examples Ancient_Greek.txt 1 1147 
+klasina Ancient_Greek.txt 1 1934 
+participles Ancient_Greek.txt 1 1396 
+proper Ancient_Greek.txt 2 777 1280 
+classes Ancient_Greek.txt 1 1928 
+anatolia Ancient_Greek.txt 1 683 
+aorist Ancient_Greek.txt 5 881 1357 1453 1467 1581 
+onomata Ancient_Greek.txt 1 2130 
+for Ancient_Greek.txt 10 9 24 30 550 587 1572 1601 1655 1807 2221 
+annex Ancient_Greek.txt 1 2152 
+stops Ancient_Greek.txt 3 1015 1075 1104 
+edition Ancient_Greek.txt 2 2179 2195 
+liceo Ancient_Greek.txt 1 1916 
+does Ancient_Greek.txt 1 1140 
+arcado-cypriot Ancient_Greek.txt 1 617 
+epic Ancient_Greek.txt 3 224 309 1595 
+be Ancient_Greek.txt 8 480 653 690 1160 1538 1652 2028 2044 
+left-to-right Ancient_Greek.txt 1 1753 
+substitutes Ancient_Greek.txt 1 1600 
+medieval Ancient_Greek.txt 3 117 158 901 
+bc Ancient_Greek.txt 10 63 82 89 97 110 453 475 825 1156 1237 
+equivalent Ancient_Greek.txt 1 721 
+notable Ancient_Greek.txt 1 810 
+erasmian Ancient_Greek.txt 1 1840 
+stem Ancient_Greek.txt 2 1624 1663 
+notably Ancient_Greek.txt 1 734 
+although Ancient_Greek.txt 3 141 857 1376 
+become Ancient_Greek.txt 1 1110 
+by Ancient_Greek.txt 13 111 116 319 515 703 773 889 970 1233 1541 1704 1814 2206 
+stage Ancient_Greek.txt 1 137 
+on Ancient_Greek.txt 2 678 839 
+about Ancient_Greek.txt 4 6 222 368 890 
+origins Ancient_Greek.txt 1 344 
+classico Ancient_Greek.txt 1 1917 
+hellenic Ancient_Greek.txt 2 351 370 
+of Ancient_Greek.txt 96 16 37 48 121 138 166 181 184 205 210 228 262 297 349 359 362 379 402 426 457 511 523 532 553 565 570 580 606 635 682 711 754 791 816 853 872 886 930 936 1023 1028 1047 1055 1102 1123 1136 1184 1197 1208 1249 1252 1257 1272 1339 1402 1411 1451 1461 1465 1471 1480 1544 1561 1610 1621 1631 1639 1646 1689 1698 1762 1793 1801 1812 1823 1838 1854 1877 1965 1984 2004 2023 2060 2121 2136 2164 2180 2224 2255 2261 2289 2337 2348 2353 2361 2365 
+certainty Ancient_Greek.txt 1 1163 
+o Ancient_Greek.txt 2 1228 1578 
+magazine Ancient_Greek.txt 1 2135 
+homeric Ancient_Greek.txt 3 291 322 1805 
+attalos Ancient_Greek.txt 1 1253 
+mixed Ancient_Greek.txt 1 1780 
+insufficient Ancient_Greek.txt 1 931 
+introduced Ancient_Greek.txt 1 1786 
+denote Ancient_Greek.txt 1 2215 
+or Ancient_Greek.txt 18 516 608 614 697 729 793 833 905 943 963 1010 1382 1391 1889 1895 2219 2234 2247 
+raised Ancient_Greek.txt 1 1229 
+contending Ancient_Greek.txt 1 517 
+letters Ancient_Greek.txt 1 1189 
+childrens Ancient_Greek.txt 1 2039 
+into Ancient_Greek.txt 9 74 246 741 883 900 1830 1843 2126 2173 
+down Ancient_Greek.txt 1 879 
+classics Ancient_Greek.txt 1 2024 
+references Ancient_Greek.txt 1 2374 
+primarily Ancient_Greek.txt 3 219 301 1441 
+conceptually Ancient_Greek.txt 1 1415 
+optative Ancient_Greek.txt 2 1312 1390 
+existed Ancient_Greek.txt 2 375 435 
+proto-indo-european Ancient_Greek.txt 4 386 981 991 1273 
+area Ancient_Greek.txt 2 677 2276 
+septuagint Ancient_Greek.txt 2 2166 2182 
+there Ancient_Greek.txt 5 285 527 1173 1377 1385 
+long Ancient_Greek.txt 1 1061 
+start Ancient_Greek.txt 1 1560 
+pronunciation Ancient_Greek.txt 4 330 1046 1144 1158 
+strong Ancient_Greek.txt 1 644 
+editions Ancient_Greek.txt 1 1761 
+was Ancient_Greek.txt 12 178 241 765 915 1050 1200 1212 1219 1425 1669 1725 1734 
+gymnasiums Ancient_Greek.txt 1 2088 
+names Ancient_Greek.txt 1 2364 
+form Ancient_Greek.txt 5 145 155 296 346 438 
+something Ancient_Greek.txt 1 1432 
+fifth-century Ancient_Greek.txt 1 185 
+becoming Ancient_Greek.txt 1 1675 
+differences Ancient_Greek.txt 2 326 979 
+boeotian Ancient_Greek.txt 1 639 
+but Ancient_Greek.txt 11 398 415 842 923 1164 1457 1564 1731 1752 1782 2316 
+philosophers Ancient_Greek.txt 2 190 2116 
+feminine Ancient_Greek.txt 1 1294 
+archaic Ancient_Greek.txt 4 76 298 1268 1799 
+survived Ancient_Greek.txt 1 861 
+with Ancient_Greek.txt 17 264 518 542 602 705 843 1022 1162 1496 1504 1517 1550 1672 1740 1769 2019 2069 
+themselves Ancient_Greek.txt 1 508 
+admiration Ancient_Greek.txt 1 2218 
+made Ancient_Greek.txt 1 1591 
+wish Ancient_Greek.txt 1 2213 
+ancestral Ancient_Greek.txt 1 2267 
+tsakonian Ancient_Greek.txt 1 864 
+below Ancient_Greek.txt 2 1148 1604 
+taught Ancient_Greek.txt 4 1885 2011 2029 2081 
+uk Ancient_Greek.txt 1 2036 
+z Ancient_Greek.txt 1 1222 
+similar Ancient_Greek.txt 1 576 
+called Ancient_Greek.txt 3 623 1345 1421 
+bearing Ancient_Greek.txt 1 1246 
+sometimes Ancient_Greek.txt 4 1589 1599 1779 2230 
+cypriot Ancient_Greek.txt 1 560 
+classic Ancient_Greek.txt 2 168 1758 
+likewise Ancient_Greek.txt 1 659 
+accents Ancient_Greek.txt 1 1770 
+influence Ancient_Greek.txt 5 647 665 709 790 844 
+pie Ancient_Greek.txt 1 1439 
+an Ancient_Greek.txt 9 555 731 916 1195 1206 1865 2151 2269 2275 
+sibling Ancient_Greek.txt 1 939 
+as Ancient_Greek.txt 25 127 133 466 509 739 778 831 1018 1098 1179 1194 1205 1320 1322 1886 1901 1954 2021 2046 2058 2082 2150 2199 2308 2310 
+exist Ancient_Greek.txt 2 367 1476 
+periods Ancient_Greek.txt 1 171 
+formulation Ancient_Greek.txt 1 586 
+education Ancient_Greek.txt 1 2066 
+k Ancient_Greek.txt 1 2129 
+compared Ancient_Greek.txt 1 1021 
+no Ancient_Greek.txt 3 1379 1387 1468 
+whereas Ancient_Greek.txt 1 1636 
+generally Ancient_Greek.txt 3 720 783 1343 
+detail Ancient_Greek.txt 1 404 
+other Ancient_Greek.txt 10 31 320 335 846 993 1331 1463 1469 2169 2306 
+remarks Ancient_Greek.txt 1 2189 
+details Ancient_Greek.txt 1 1809 
+branch Ancient_Greek.txt 1 2003 
+2006 Ancient_Greek.txt 1 2192 
+introductory Ancient_Greek.txt 1 2188 
+kinds Ancient_Greek.txt 1 1479 
+vocabulary Ancient_Greek.txt 2 198 2299 
+separate Ancient_Greek.txt 2 135 1429 
+time Ancient_Greek.txt 1 456 
+sub-groups Ancient_Greek.txt 1 714 
+variation Ancient_Greek.txt 2 1531 1742 
+includes Ancient_Greek.txt 1 45 
+meaning Ancient_Greek.txt 2 1431 1443 
+important Ancient_Greek.txt 1 1866 
+allowing Ancient_Greek.txt 1 549 
+included Ancient_Greek.txt 3 172 2158 2186 
+resembled Ancient_Greek.txt 1 148 
+duplication Ancient_Greek.txt 1 1650 
+e Ancient_Greek.txt 3 1420 1501 1533 
+apology Ancient_Greek.txt 1 1813 
+neuter Ancient_Greek.txt 1 1296 
+assume Ancient_Greek.txt 1 440 
+age Ancient_Greek.txt 2 638 1964 
+nasals Ancient_Greek.txt 1 1210 
+u Ancient_Greek.txt 1 1231 
+volumes Ancient_Greek.txt 1 2120 
+dialects Ancient_Greek.txt 15 175 232 238 248 268 337 421 548 589 798 800 847 856 906 1744 
+tense Ancient_Greek.txt 2 1403 1687 
+once Ancient_Greek.txt 1 1093 
+original Ancient_Greek.txt 1 1570 
+8th Ancient_Greek.txt 1 473 

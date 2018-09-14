@@ -1,0 +1,830 @@
+pointing Lunar_soil.txt 1 1330 
+caused Lunar_soil.txt 2 85 928 
+magnetic Lunar_soil.txt 3 801 1070 1876 
+astronauts Lunar_soil.txt 8 1112 1227 1262 1619 1823 1895 1999 2030 
+seals Lunar_soil.txt 1 1935 
+spacecraft Lunar_soil.txt 1 1175 
+tenuous Lunar_soil.txt 1 834 
+leam Lunar_soil.txt 4 1290 1335 1409 1438 
+disintegration Lunar_soil.txt 1 79 
+electrically-charged Lunar_soil.txt 1 1405 
+content Lunar_soil.txt 1 172 
+depend Lunar_soil.txt 1 686 
+glows Lunar_soil.txt 1 1507 
+disposal Lunar_soil.txt 1 678 
+vacuum-packed Lunar_soil.txt 1 1917 
+crater Lunar_soil.txt 1 359 
+to Lunar_soil.txt 46 113 124 159 185 203 302 339 384 587 680 716 746 809 847 853 876 900 907 947 985 1045 1144 1274 1300 1369 1385 1408 1426 1488 1566 1599 1613 1661 1667 1683 1714 1745 1753 1806 1817 1847 1884 2011 2060 2086 2129 
+finally Lunar_soil.txt 1 2008 
+basaltic Lunar_soil.txt 1 81 
+present Lunar_soil.txt 1 1890 
+patina Lunar_soil.txt 1 1965 
+health Lunar_soil.txt 2 1545 1754 
+include Lunar_soil.txt 3 784 1688 1851 
+returned Lunar_soil.txt 1 1181 
+geology Lunar_soil.txt 1 277 
+very Lunar_soil.txt 2 529 766 
+rise Lunar_soil.txt 1 852 
+amorphous Lunar_soil.txt 1 1503 
+gritty Lunar_soil.txt 1 1929 
+ultraviolet Lunar_soil.txt 1 940 
+fall Lunar_soil.txt 1 998 
+affect Lunar_soil.txt 1 778 
+difference Lunar_soil.txt 1 557 
+minerals Lunar_soil.txt 1 535 
+encounter Lunar_soil.txt 1 2001 
+believed Lunar_soil.txt 1 2128 
+respiratory Lunar_soil.txt 2 1802 1814 
+reddish Lunar_soil.txt 1 1504 
+presented Lunar_soil.txt 1 1143 
+did Lunar_soil.txt 1 1207 
+three-stage Lunar_soil.txt 1 1694 
+humidity Lunar_soil.txt 2 136 1959 
+large Lunar_soil.txt 2 785 1338 
+item Lunar_soil.txt 2 2035 2048 
+dusky Lunar_soil.txt 1 1511 
+small Lunar_soil.txt 3 333 344 1307 
+biological Lunar_soil.txt 1 145 
+glassy Lunar_soil.txt 1 461 
+slower Lunar_soil.txt 1 1356 
+direct Lunar_soil.txt 1 1757 
+second Lunar_soil.txt 1 556 
+design Lunar_soil.txt 1 709 
+reflected Lunar_soil.txt 1 1420 
+further Lunar_soil.txt 3 275 1054 1560 
+even Lunar_soil.txt 2 226 1509 
+what Lunar_soil.txt 3 238 1237 1997 
+giving Lunar_soil.txt 1 851 
+centimeter Lunar_soil.txt 1 217 
+crust Lunar_soil.txt 2 563 575 
+near Lunar_soil.txt 1 1370 
+hazy Lunar_soil.txt 1 1512 
+availability Lunar_soil.txt 1 1891 
+extraterrestrial Lunar_soil.txt 1 917 
+haze Lunar_soil.txt 1 1224 
+experiment Lunar_soil.txt 2 1284 1415 
+above Lunar_soil.txt 1 1352 
+scientists Lunar_soil.txt 3 183 1423 1594 
+falling Lunar_soil.txt 2 337 845 
+bootprint Lunar_soil.txt 1 31 
+public Lunar_soil.txt 1 2013 
+can Lunar_soil.txt 2 59 342 
+kicked Lunar_soil.txt 1 1304 
+transportation Lunar_soil.txt 1 674 
+estate Lunar_soil.txt 1 2085 
+leaping Lunar_soil.txt 1 841 
+here Lunar_soil.txt 1 5 
+atoms Lunar_soil.txt 1 952 
+water Lunar_soil.txt 3 537 888 1976 
+reported Lunar_soil.txt 1 1260 
+separation Lunar_soil.txt 1 1877 
+others Lunar_soil.txt 2 254 1499 
+i.e Lunar_soil.txt 1 597 
+100 Lunar_soil.txt 1 1371 
+change Lunar_soil.txt 2 303 1515 
+dry Lunar_soil.txt 1 530 
+great Lunar_soil.txt 2 486 666 
+luggage Lunar_soil.txt 1 2057 
+auction Lunar_soil.txt 2 2091 2106 
+involved Lunar_soil.txt 1 284 
+study Lunar_soil.txt 3 1554 1561 1581 
+larger Lunar_soil.txt 1 1778 
+reports Lunar_soil.txt 1 1463 
+suggests Lunar_soil.txt 1 1027 
+chemical Lunar_soil.txt 4 1791 1925 1981 1987 
+resulting Lunar_soil.txt 1 1095 
+definitively Lunar_soil.txt 1 1603 
+published Lunar_soil.txt 1 1131 
+studies Lunar_soil.txt 1 1734 
+composed Lunar_soil.txt 4 213 406 862 1781 
+diameter Lunar_soil.txt 2 219 253 
+sticking Lunar_soil.txt 1 1407 
+claim Lunar_soil.txt 1 2112 
+private Lunar_soil.txt 2 2024 2088 
+strap Lunar_soil.txt 1 2058 
+brought Lunar_soil.txt 2 1896 1947 
+visible Lunar_soil.txt 1 1490 
+addressed Lunar_soil.txt 1 1623 
+removal Lunar_soil.txt 1 1703 
+unit Lunar_soil.txt 1 1383 
+use Lunar_soil.txt 4 1861 1868 1873 1880 
+from Lunar_soil.txt 20 62 485 519 552 601 692 843 977 983 1140 1346 1456 1532 1547 1717 1756 1906 1949 2126 2132 
+stream Lunar_soil.txt 2 884 905 
+would Lunar_soil.txt 2 1032 1212 
+0 Lunar_soil.txt 1 618 
+positive Lunar_soil.txt 1 959 
+contains Lunar_soil.txt 1 2115 
+two Lunar_soil.txt 1 508 
+by Lunar_soil.txt 21 19 86 92 129 364 374 437 477 880 913 929 1017 1109 1119 1261 1306 1605 1955 2029 2083 2097 
+few Lunar_soil.txt 2 683 1375 
+program Lunar_soil.txt 1 1445 
+differentials Lunar_soil.txt 1 787 
+bedrock Lunar_soil.txt 1 504 
+then Lunar_soil.txt 1 2032 
+until Lunar_soil.txt 1 963 
+reflects Lunar_soil.txt 1 501 
+more Lunar_soil.txt 3 1076 1773 1812 
+rust Lunar_soil.txt 1 1967 
+lungs Lunar_soil.txt 1 1798 
+becomes Lunar_soil.txt 1 765 
+glass Lunar_soil.txt 3 273 334 370 
+transient Lunar_soil.txt 1 1473 
+8 Lunar_soil.txt 1 1265 
+known Lunar_soil.txt 4 317 474 1471 1730 
+weathering Lunar_soil.txt 2 106 320 
+sample Lunar_soil.txt 1 1946 
+none Lunar_soil.txt 1 177 
+this Lunar_soil.txt 11 120 314 582 878 926 1050 1113 1163 1398 1767 1911 
+science Lunar_soil.txt 2 1120 1134 
+challenge Lunar_soil.txt 1 1577 
+protons Lunar_soil.txt 1 596 
+g/cm Lunar_soil.txt 1 762 
+anywhere Lunar_soil.txt 1 982 
+thin Lunar_soil.txt 1 735 
+anorthositic Lunar_soil.txt 1 83 
+following Lunar_soil.txt 1 892 
+control Lunar_soil.txt 1 1684 
+analysisthe Lunar_soil.txt 1 1928 
+references Lunar_soil.txt 1 2138 
+impacts Lunar_soil.txt 2 439 719 
+process Lunar_soil.txt 4 100 315 473 1005 
+pieces Lunar_soil.txt 1 2122 
+high Lunar_soil.txt 2 987 1853 
+surveyor Lunar_soil.txt 2 1169 1174 
+celsius Lunar_soil.txt 1 1373 
+urged Lunar_soil.txt 1 1580 
+flashesnow Lunar_soil.txt 1 1485 
+darkening Lunar_soil.txt 1 1410 
+story Lunar_soil.txt 1 1128 
+hydrogen Lunar_soil.txt 1 598 
+terrestrial Lunar_soil.txt 4 65 125 520 1975 
+information Lunar_soil.txt 1 276 
+rays Lunar_soil.txt 4 1107 1245 1257 1276 
+rather Lunar_soil.txt 2 567 1418 
+altitudes Lunar_soil.txt 2 995 1049 
+returning Lunar_soil.txt 1 1606 
+links Lunar_soil.txt 1 2141 
+1 Lunar_soil.txt 2 971 1576 
+glowing Lunar_soil.txt 1 1466 
+adjacent Lunar_soil.txt 1 446 
+significance Lunar_soil.txt 1 656 
+answer Lunar_soil.txt 1 1600 
+if Lunar_soil.txt 2 1761 1789 
+parameter Lunar_soil.txt 1 706 
+silicosis Lunar_soil.txt 1 1818 
+micrometeorite Lunar_soil.txt 1 438 
+may Lunar_soil.txt 7 777 831 1270 1524 1687 1800 1809 
+spacesuits Lunar_soil.txt 1 1824 
+after Lunar_soil.txt 3 1194 1377 2046 
+mineralogy Lunar_soil.txt 1 399 
+fe Lunar_soil.txt 1 455 
+coming Lunar_soil.txt 1 1345 
+such Lunar_soil.txt 5 351 491 543 711 1256 
+horizontal Lunar_soil.txt 2 1085 1097 
+data Lunar_soil.txt 1 690 
+types Lunar_soil.txt 1 409 
+a Lunar_soil.txt 34 140 472 532 641 645 682 734 791 798 833 854 890 893 908 1100 1136 1217 1337 1374 1402 1428 1527 1551 1567 1693 1700 1710 1811 1863 1964 1970 2056 2069 2087 
+short Lunar_soil.txt 3 642 1127 1291 
+micrometres Lunar_soil.txt 1 251 
+regolith Lunar_soil.txt 12 35 49 199 209 516 561 581 651 758 773 1139 1889 
+think Lunar_soil.txt 1 1595 
+analogy Lunar_soil.txt 1 881 
+green Lunar_soil.txt 1 369 
+specks Lunar_soil.txt 1 451 
+highgrade Lunar_soil.txt 1 1875 
+every Lunar_soil.txt 2 1342 1945 
+wind Lunar_soil.txt 4 138 604 807 1022 
+six Lunar_soil.txt 1 1907 
+cutoff Lunar_soil.txt 1 246 
+indeed Lunar_soil.txt 1 1023 
+over Lunar_soil.txt 8 97 118 312 463 1189 1519 1764 2050 
+mission Lunar_soil.txt 2 40 2080 
+ejecta Lunar_soil.txt 2 1294 1362 
+years Lunar_soil.txt 1 98 
+produced Lunar_soil.txt 1 2038 
+ended Lunar_soil.txt 1 1446 
+experiments Lunar_soil.txt 1 1366 
+including Lunar_soil.txt 2 412 422 
+looks Lunar_soil.txt 1 858 
+knock Lunar_soil.txt 1 948 
+argued Lunar_soil.txt 1 149 
+its Lunar_soil.txt 4 57 1411 1583 1980 
+before Lunar_soil.txt 6 336 1250 1442 1562 1616 1702 
+kilograms Lunar_soil.txt 1 1900 
+horizontally Lunar_soil.txt 1 471 
+20 Lunar_soil.txt 2 726 1556 
+presence Lunar_soil.txt 2 131 789 
+clement Lunar_soil.txt 1 1124 
+absence Lunar_soil.txt 1 796 
+degrees Lunar_soil.txt 1 1372 
+systems Lunar_soil.txt 2 679 1592 
+constitutes Lunar_soil.txt 1 241 
+orange Lunar_soil.txt 2 263 354 
+covered Lunar_soil.txt 1 732 
+2017 Lunar_soil.txt 1 2093 
+main Lunar_soil.txt 1 1542 
+finer Lunar_soil.txt 4 114 116 206 227 
+eventually Lunar_soil.txt 1 996 
+greater Lunar_soil.txt 2 1034 1751 
+thereby Lunar_soil.txt 2 803 1677 
+material Lunar_soil.txt 4 465 484 1912 2025 
+unusable Lunar_soil.txt 1 1922 
+processes Lunar_soil.txt 5 146 261 283 293 479 
+anticipated Lunar_soil.txt 1 1116 
+knife-edge Lunar_soil.txt 1 1933 
+1956 Lunar_soil.txt 1 1118 
+effects Lunar_soil.txt 3 1537 1546 1644 
+they Lunar_soil.txt 4 299 997 1238 1799 
+not Lunar_soil.txt 4 155 294 1208 1728 
+now Lunar_soil.txt 1 1921 
+twilight Lunar_soil.txt 3 1106 1186 1244 
+day Lunar_soil.txt 2 1039 1091 
+kilometres Lunar_soil.txt 1 986 
+term Lunar_soil.txt 3 152 190 870 
+name Lunar_soil.txt 1 681 
+oxygen Lunar_soil.txt 2 134 1978 
+profound Lunar_soil.txt 1 509 
+edit Lunar_soil.txt 9 262 402 638 823 1541 1892 2137 2139 2142 
+rocks Lunar_soil.txt 1 1905 
+capability Lunar_soil.txt 1 699 
+ventilation Lunar_soil.txt 1 1708 
+deteriorated Lunar_soil.txt 1 1931 
+electrically Lunar_soil.txt 1 742 
+found Lunar_soil.txt 8 50 265 356 371 614 628 1636 1737 
+beneath Lunar_soil.txt 1 768 
+agglutinates Lunar_soil.txt 1 431 
+side Lunar_soil.txt 4 935 1011 1031 1040 
+glasses Lunar_soil.txt 1 421 
+neil Lunar_soil.txt 1 2098 
+significantly Lunar_soil.txt 2 61 570 
+energy Lunar_soil.txt 1 1322 
+hard Lunar_soil.txt 1 792 
+principles Lunar_soil.txt 1 1654 
+whitish Lunar_soil.txt 1 1506 
+static Lunar_soil.txt 2 859 898 
+sketched Lunar_soil.txt 2 1108 1236 
+jagged Lunar_soil.txt 1 1784 
+laboratory Lunar_soil.txt 1 915 
+load-carrying Lunar_soil.txt 1 698 
+sunrise Lunar_soil.txt 2 1252 1380 
+small-scale Lunar_soil.txt 1 442 
+album Lunar_soil.txt 2 18 24 
+magnet Lunar_soil.txt 1 1701 
+fundamentally Lunar_soil.txt 1 123 
+space Lunar_soil.txt 2 319 923 
+since Lunar_soil.txt 1 2031 
+particles Lunar_soil.txt 15 96 110 411 424 460 808 839 865 966 991 1044 1327 1341 1793 1930 
+mediated Lunar_soil.txt 1 128 
+fountain Lunar_soil.txt 3 872 891 1025 
+7 Lunar_soil.txt 1 1170 
+cause Lunar_soil.txt 4 441 1642 1801 1810 
+correct Lunar_soil.txt 1 156 
+chemically Lunar_soil.txt 2 565 1774 
+meteoric Lunar_soil.txt 1 88 
+model Lunar_soil.txt 2 909 1026 
+passes Lunar_soil.txt 1 1065 
+given Lunar_soil.txt 1 498 
+standard Lunar_soil.txt 1 179 
+formation Lunar_soil.txt 3 127 260 287 
+members Lunar_soil.txt 1 1652 
+acute Lunar_soil.txt 1 1759 
+put Lunar_soil.txt 1 2103 
+sensors Lunar_soil.txt 1 1316 
+definition Lunar_soil.txt 1 236 
+organic Lunar_soil.txt 1 171 
+could Lunar_soil.txt 5 1052 1082 1318 1399 1641 
+motion Lunar_soil.txt 1 868 
+place Lunar_soil.txt 1 244 
+aboard Lunar_soil.txt 1 1263 
+consequence Lunar_soil.txt 1 606 
+chronic Lunar_soil.txt 1 1766 
+exhibited Lunar_soil.txt 1 1149 
+speeds Lunar_soil.txt 1 1358 
+first Lunar_soil.txt 1 523 
+origin Lunar_soil.txt 1 387 
+major Lunar_soil.txt 1 282 
+constantly Lunar_soil.txt 1 840 
+belowand Lunar_soil.txt 1 1354 
+number Lunar_soil.txt 1 1339 
+owned Lunar_soil.txt 1 2026 
+one Lunar_soil.txt 5 103 216 605 1328 2034 
+smaller Lunar_soil.txt 1 974 
+astronautics Lunar_soil.txt 1 1155 
+long Lunar_soil.txt 1 1984 
+suspended Lunar_soil.txt 1 1533 
+overheating Lunar_soil.txt 1 1393 
+array Lunar_soil.txt 1 142 
+size Lunar_soil.txt 2 117 239 
+earths Lunar_soil.txt 3 574 1067 1956 
+differ Lunar_soil.txt 1 60 
+temperature Lunar_soil.txt 2 786 1367 
+top Lunar_soil.txt 1 770 
+night Lunar_soil.txt 3 1010 1030 1093 
+fiction Lunar_soil.txt 2 1121 1135 
+their Lunar_soil.txt 2 541 2113 
+2 Lunar_soil.txt 2 620 632 
+ballistic Lunar_soil.txt 1 894 
+listed Lunar_soil.txt 1 1555 
+storm Lunar_soil.txt 1 1104 
+rates Lunar_soil.txt 1 1856 
+molecular Lunar_soil.txt 1 133 
+structures Lunar_soil.txt 2 672 712 
+filter Lunar_soil.txt 1 1713 
+low Lunar_soil.txt 1 1188 
+watch-makers Lunar_soil.txt 1 2111 
+shell Lunar_soil.txt 2 462 1865 
+way Lunar_soil.txt 1 1598 
+mostly Lunar_soil.txt 2 1344 1355 
+that Lunar_soil.txt 19 150 187 210 440 492 525 559 608 828 857 1028 1176 1317 1397 1450 1514 1558 1621 1743 
+moscow Lunar_soil.txt 1 1157 
+continuous Lunar_soil.txt 1 87 
+shorty Lunar_soil.txt 1 358 
+released Lunar_soil.txt 1 1835 
+part Lunar_soil.txt 2 539 586 
+momentary Lunar_soil.txt 1 1484 
+than Lunar_soil.txt 9 229 249 257 568 1037 1351 1357 1419 1786 
+center Lunar_soil.txt 1 925 
+11 Lunar_soil.txt 1 1142 
+10 Lunar_soil.txt 3 258 1248 1266 
+12 Lunar_soil.txt 1 2079 
+15 Lunar_soil.txt 2 376 1268 
+17 Lunar_soil.txt 6 39 268 366 1111 1226 1280 
+16 Lunar_soil.txt 1 653 
+double Lunar_soil.txt 1 1864 
+unmistakable Lunar_soil.txt 1 1185 
+future Lunar_soil.txt 1 1998 
+risks Lunar_soil.txt 3 1557 1664 1752 
+iron Lunar_soil.txt 3 454 609 626 
+were Lunar_soil.txt 2 1258 1424 
+video Lunar_soil.txt 3 10 14 643 
+negatively Lunar_soil.txt 1 1015 
+toward Lunar_soil.txt 1 1000 
+result Lunar_soil.txt 7 76 270 533 1403 1528 1749 1971 
+and Lunar_soil.txt 52 82 90 115 139 306 330 367 400 417 425 427 470 517 547 562 619 633 676 744 794 820 844 941 953 973 980 1048 1092 1148 1171 1205 1235 1267 1295 1323 1333 1571 1588 1611 1650 1676 1704 1760 1776 1878 1886 1958 1968 1977 1988 2027 2110 
+1.5 Lunar_soil.txt 1 761 
+manned Lunar_soil.txt 1 1647 
+grittiness Lunar_soil.txt 1 1587 
+turned Lunar_soil.txt 1 1387 
+locations Lunar_soil.txt 2 350 395 
+spent Lunar_soil.txt 1 2049 
+purchaser Lunar_soil.txt 1 2089 
+have Lunar_soil.txt 11 148 832 1213 1271 1400 1453 1461 1480 1500 1525 2130 
+crew Lunar_soil.txt 1 1651 
+saw Lunar_soil.txt 2 1234 1336 
+any Lunar_soil.txt 4 497 747 1618 1646 
+contents Lunar_soil.txt 1 259 
+relatively Lunar_soil.txt 1 489 
+bombardment Lunar_soil.txt 2 91 590 
+genuine Lunar_soil.txt 1 2042 
+1969 Lunar_soil.txt 1 2101 
+isolated Lunar_soil.txt 1 1915 
+metallic Lunar_soil.txt 2 453 617 
+also Lunar_soil.txt 5 300 382 1259 1281 2136 
+phencyclidine Lunar_soil.txt 1 30 
+potential Lunar_soil.txt 1 668 
+absorbed Lunar_soil.txt 1 1417 
+build Lunar_soil.txt 1 961 
+which Lunar_soil.txt 4 108 211 444 776 
+so Lunar_soil.txt 2 1381 1413 
+many Lunar_soil.txt 1 2108 
+play Lunar_soil.txt 1 639 
+electric Lunar_soil.txt 1 1086 
+measures Lunar_soil.txt 1 1682 
+harmful Lunar_soil.txt 3 1536 1643 1722 
+most Lunar_soil.txt 2 1593 1680 
+impacting Lunar_soil.txt 1 1494 
+but Lunar_soil.txt 4 200 345 860 1498 
+significant Lunar_soil.txt 2 799 1084 
+contrasts Lunar_soil.txt 1 122 
+the Lunar_soil.txt 161 7 17 20 26 44 48 52 55 67 75 99 109 130 151 160 164 174 189 205 245 269 279 281 286 304 310 340 353 361 368 386 397 430 434 481 493 502 512 522 526 553 555 573 577 580 588 592 602 611 616 631 655 667 697 701 708 723 728 739 754 763 769 779 788 795 812 815 829 848 869 883 901 904 914 933 937 956 964 978 989 993 1001 1004 1009 1012 1020 1024 1029 1038 1057 1060 1073 1079 1090 1145 1151 1166 1179 1190 1195 1200 1229 1286 1310 1320 1347 1365 1382 1414 1432 1435 1443 1469 1495 1575 1578 1596 1601 1626 1634 1638 1653 1663 1673 1679 1690 1697 1718 1721 1790 1797 1807 1822 1831 1837 1840 1844 1858 1860 1867 1872 1879 1888 1893 1932 1937 1950 1960 1986 1992 2003 2012 2017 2021 2047 2054 2061 2064 2077 2118 2133 
+glow Lunar_soil.txt 1 1187 
+constancy Lunar_soil.txt 1 902 
+mitigate Lunar_soil.txt 1 1848 
+800 Lunar_soil.txt 1 1901 
+removed Lunar_soil.txt 1 1843 
+disease Lunar_soil.txt 2 1803 1815 
+optical Lunar_soil.txt 1 307 
+electrons Lunar_soil.txt 2 949 1018 
+mechanical Lunar_soil.txt 4 78 105 1584 1927 
+typically Lunar_soil.txt 1 201 
+atmosphere Lunar_soil.txt 4 835 856 1720 1838 
+phenomenon Lunar_soil.txt 1 1475 
+definite Lunar_soil.txt 1 1429 
+charles Lunar_soil.txt 1 2072 
+determine Lunar_soil.txt 1 1678 
+melt Lunar_soil.txt 1 1887 
+earth Lunar_soil.txt 8 165 625 714 1278 1457 1614 1739 1787 
+fine Lunar_soil.txt 1 45 
+networks Lunar_soil.txt 1 675 
+ground Lunar_soil.txt 2 112 673 
+impact Lunar_soil.txt 3 89 428 478 
+highest Lunar_soil.txt 1 994 
+based Lunar_soil.txt 1 1732 
+knowledge Lunar_soil.txt 1 660 
+lights Lunar_soil.txt 1 1467 
+storms Lunar_soil.txt 1 1452 
+3 Lunar_soil.txt 1 634 
+should Lunar_soil.txt 2 1564 1658 
+reactive Lunar_soil.txt 2 1775 1792 
+only Lunar_soil.txt 6 204 295 1440 1597 2033 2120 
+unable Lunar_soil.txt 1 1425 
+molecules Lunar_soil.txt 3 886 954 1979 
+various Lunar_soil.txt 2 408 418 
+local Lunar_soil.txt 2 503 1706 
+achieve Lunar_soil.txt 1 1033 
+photographs Lunar_soil.txt 1 1182 
+his Lunar_soil.txt 2 1126 2084 
+hit Lunar_soil.txt 1 811 
+between Lunar_soil.txt 2 1089 1203 
+report Lunar_soil.txt 2 1579 1622 
+during Lunar_soil.txt 4 37 1056 1670 1819 
+items Lunar_soil.txt 1 2007 
+areas Lunar_soil.txt 2 1094 1780 
+beads Lunar_soil.txt 3 274 335 380 
+h Lunar_soil.txt 1 599 
+remove Lunar_soil.txt 1 1715 
+morning Lunar_soil.txt 1 1343 
+contain Lunar_soil.txt 1 2121 
+through Lunar_soil.txt 1 1066 
+particulate Lunar_soil.txt 1 1712 
+where Lunar_soil.txt 3 1003 1063 1219 
+valid Lunar_soil.txt 1 1630 
+voltage Lunar_soil.txt 1 1035 
+spotted Lunar_soil.txt 1 1455 
+set Lunar_soil.txt 1 1198 
+questions Lunar_soil.txt 1 1602 
+reference Lunar_soil.txt 1 158 
+acquired Lunar_soil.txt 1 1963 
+testing Lunar_soil.txt 1 693 
+humans Lunar_soil.txt 1 1563 
+1960s Lunar_soil.txt 1 1168 
+observed Lunar_soil.txt 1 1482 
+see Lunar_soil.txt 5 12 22 29 1069 2135 
+electrostatic Lunar_soil.txt 3 821 930 1989 
+are Lunar_soil.txt 12 73 111 291 381 507 549 564 975 1628 1727 1794 1842 
+enhanced Lunar_soil.txt 1 1055 
+operated Lunar_soil.txt 1 1439 
+categories Lunar_soil.txt 2 2143 2145 
+goddard Lunar_soil.txt 1 922 
+pete Lunar_soil.txt 1 2073 
+designed Lunar_soil.txt 1 1299 
+record Lunar_soil.txt 1 1319 
+wikipedia Lunar_soil.txt 1 2 
+sites Lunar_soil.txt 1 1909 
+materials Lunar_soil.txt 3 228 447 521 
+originated Lunar_soil.txt 1 2131 
+state Lunar_soil.txt 2 622 636 
+smallest Lunar_soil.txt 1 990 
+myriad Lunar_soil.txt 1 717 
+moons Lunar_soil.txt 5 849 1061 1287 1311 1674 
+orbiting Lunar_soil.txt 1 1228 
+contaminated Lunar_soil.txt 2 1827 1954 
+suits Lunar_soil.txt 1 1841 
+shields Lunar_soil.txt 1 1871 
+360 Lunar_soil.txt 1 1899 
+available Lunar_soil.txt 1 2010 
+conrads Lunar_soil.txt 1 2074 
+magnetotail Lunar_soil.txt 1 1068 
+interchangeably Lunar_soil.txt 1 196 
+oxidation Lunar_soil.txt 2 621 635 
+sold Lunar_soil.txt 1 2082 
+prior Lunar_soil.txt 1 1173 
+however Lunar_soil.txt 4 178 480 1422 1731 
+vacuuming Lunar_soil.txt 1 1696 
+lofted Lunar_soil.txt 2 329 981 
+kicking Lunar_soil.txt 1 648 
+ranked Lunar_soil.txt 1 1572 
+article Lunar_soil.txt 1 1543 
+both Lunar_soil.txt 2 468 1755 
+providing Lunar_soil.txt 1 1852 
+acquiring Lunar_soil.txt 1 658 
+meteorites Lunar_soil.txt 2 1296 2127 
+minutes Lunar_soil.txt 1 1522 
+hours Lunar_soil.txt 3 1376 2052 2068 
+according Lunar_soil.txt 1 906 
+drug Lunar_soil.txt 1 28 
+regions Lunar_soil.txt 1 1513 
+s Lunar_soil.txt 1 921 
+became Lunar_soil.txt 1 2009 
+x-ray Lunar_soil.txt 1 942 
+long-term Lunar_soil.txt 1 1804 
+distinction Lunar_soil.txt 1 188 
+contribution Lunar_soil.txt 1 482 
+experimental Lunar_soil.txt 1 689 
+reactivity Lunar_soil.txt 1 1982 
+among Lunar_soil.txt 1 181 
+volcanic Lunar_soil.txt 4 272 326 379 426 
+fields Lunar_soil.txt 1 1087 
+rag Lunar_soil.txt 1 1130 
+appeared Lunar_soil.txt 1 1501 
+sky Lunar_soil.txt 1 1206 
+each Lunar_soil.txt 3 458 1329 1378 
+hygiene Lunar_soil.txt 1 1657 
+64 Lunar_soil.txt 1 9 
+moreover Lunar_soil.txt 1 1199 
+connotes Lunar_soil.txt 1 225 
+tiniest Lunar_soil.txt 1 965 
+fountains Lunar_soil.txt 1 819 
+source Lunar_soil.txt 1 1433 
+addition Lunar_soil.txt 2 322 1364 
+trajectory Lunar_soil.txt 1 895 
+create Lunar_soil.txt 1 343 
+expedition Lunar_soil.txt 1 1570 
+due Lunar_soil.txt 3 584 715 899 
+tiny Lunar_soil.txt 2 450 1326 
+hitting Lunar_soil.txt 1 1309 
+fuses Lunar_soil.txt 1 445 
+deposited Lunar_soil.txt 1 1795 
+mars Lunar_soil.txt 1 1569 
+collected Lunar_soil.txt 4 36 2028 2045 2096 
+waste Lunar_soil.txt 1 677 
+obtained Lunar_soil.txt 1 691 
+direction Lunar_soil.txt 1 1324 
+flight Lunar_soil.txt 1 924 
+fire Lunar_soil.txt 1 323 
+agglutinate Lunar_soil.txt 1 423 
+spherules Lunar_soil.txt 1 429 
+determination Lunar_soil.txt 1 1430 
+external Lunar_soil.txt 1 2140 
+2014 Lunar_soil.txt 1 2015 
+evidence Lunar_soil.txt 3 827 1161 1491 
+hidden Lunar_soil.txt 1 2144 
+those Lunar_soil.txt 2 63 534 
+case Lunar_soil.txt 1 578 
+east Lunar_soil.txt 2 1332 1348 
+atmospheric Lunar_soil.txt 2 137 1223 
+look Lunar_soil.txt 2 1209 1301 
+grains Lunar_soil.txt 1 215 
+these Lunar_soil.txt 5 292 1269 1451 1523 1686 
+air Lunar_soil.txt 3 1854 1940 1957 
+will Lunar_soil.txt 6 685 1748 1825 1833 1850 2000 
+while Lunar_soil.txt 2 896 2107 
+landing Lunar_soil.txt 1 1908 
+situation Lunar_soil.txt 1 121 
+micrometre Lunar_soil.txt 1 972 
+layer Lunar_soil.txt 2 736 771 
+fountaining Lunar_soil.txt 1 324 
+soil Lunar_soil.txt 27 1 34 42 66 72 126 153 166 192 231 264 290 298 311 355 404 494 518 663 695 702 764 783 958 1610 1993 2095 
+is Lunar_soil.txt 41 43 101 154 167 184 193 212 233 316 328 405 466 488 524 528 558 583 607 613 627 665 703 731 741 759 825 861 927 944 1006 1014 1159 1395 1448 1604 1741 1763 1768 1772 1920 1983 
+it Lunar_soil.txt 9 749 1064 1297 1313 1391 1394 1447 1740 1919 
+surface Lunar_soil.txt 17 53 341 436 594 730 748 813 850 979 1002 1288 1312 1412 1497 1640 1675 1779 
+dust-contaminated Lunar_soil.txt 1 2006 
+terminator Lunar_soil.txt 1 1080 
+in Lunar_soil.txt 42 107 157 218 252 285 321 348 360 393 457 511 576 585 615 630 707 722 751 866 889 911 955 1019 1096 1117 1125 1132 1150 1156 1165 1216 1231 1363 1692 1750 1796 1857 1916 1944 2014 2092 2100 
+technology Lunar_soil.txt 1 1649 
+disappear Lunar_soil.txt 1 1518 
+increased Lunar_soil.txt 1 1368 
+memorial Lunar_soil.txt 1 1152 
+bottles Lunar_soil.txt 2 1918 1939 
+cools Lunar_soil.txt 1 331 
+media Lunar_soil.txt 1 640 
+make Lunar_soil.txt 1 1427 
+government Lunar_soil.txt 1 2019 
+radiation Lunar_soil.txt 1 943 
+lava Lunar_soil.txt 1 327 
+adverse Lunar_soil.txt 1 1544 
+strange Lunar_soil.txt 1 1465 
+highefficiency Lunar_soil.txt 1 1711 
+several Lunar_soil.txt 1 1172 
+composition Lunar_soil.txt 3 401 495 505 
+higher Lunar_soil.txt 1 1046 
+exhaust Lunar_soil.txt 1 1707 
+used Lunar_soil.txt 4 195 875 1660 1846 
+centuries Lunar_soil.txt 1 1459 
+effect Lunar_soil.txt 5 879 1051 1114 1164 1589 
+edges Lunar_soil.txt 1 1785 
+moving Lunar_soil.txt 1 837 
+dust Lunar_soil.txt 37 223 242 459 738 740 818 838 855 864 969 1013 1043 1098 1129 1303 1535 1540 1549 1573 1625 1633 1635 1669 1716 1726 1736 1747 1771 1788 1808 1830 1832 1870 1961 2044 2117 2125 
+robust Lunar_soil.txt 1 141 
+totally Lunar_soil.txt 1 550 
+airlock Lunar_soil.txt 2 1695 1859 
+early Lunar_soil.txt 1 1167 
+off Lunar_soil.txt 1 1388 
+whereby Lunar_soil.txt 1 325 
+largely Lunar_soil.txt 2 102 500 
+charges Lunar_soil.txt 1 960 
+well Lunar_soil.txt 2 1615 1729 
+1972 Lunar_soil.txt 2 654 1232 
+thought Lunar_soil.txt 1 383 
+contact Lunar_soil.txt 1 752 
+comes Lunar_soil.txt 1 750 
+km/s Lunar_soil.txt 1 727 
+taurus-littrow Lunar_soil.txt 1 362 
+chemistry Lunar_soil.txt 1 513 
+soviet Lunar_soil.txt 1 1146 
+charged Lunar_soil.txt 4 94 743 805 1016 
+distances Lunar_soil.txt 1 487 
+redirects Lunar_soil.txt 1 4 
+commodore Lunar_soil.txt 1 8 
+proposed Lunar_soil.txt 1 910 
+less Lunar_soil.txt 3 221 248 256 
+being Lunar_soil.txt 1 569 
+when Lunar_soil.txt 2 1839 2016 
+recirculation Lunar_soil.txt 1 1855 
+product Lunar_soil.txt 1 2114 
+westrather Lunar_soil.txt 1 1350 
+shape Lunar_soil.txt 1 1516 
+distant Lunar_soil.txt 1 1201 
+atomic Lunar_soil.txt 1 95 
+human Lunar_soil.txt 1 1568 
+sinter Lunar_soil.txt 1 1885 
+32 Lunar_soil.txt 2 2051 2067 
+speed Lunar_soil.txt 1 1321 
+rover Lunar_soil.txt 1 647 
+hal Lunar_soil.txt 1 1123 
+density Lunar_soil.txt 1 755 
+products Lunar_soil.txt 1 2119 
+had Lunar_soil.txt 3 1197 1314 1384 
+deposits Lunar_soil.txt 3 347 377 391 
+spacecrafts Lunar_soil.txt 1 1719 
+meteorite Lunar_soil.txt 1 718 
+concerns Lunar_soil.txt 1 1627 
+location Lunar_soil.txt 1 499 
+samples Lunar_soil.txt 2 696 1607 
+usage Lunar_soil.txt 1 180 
+has Lunar_soil.txt 8 176 873 1777 1913 1941 1952 1962 2036 
+match Lunar_soil.txt 1 1996 
+crepuscular Lunar_soil.txt 1 1275 
+around Lunar_soil.txt 1 396 
+vertically Lunar_soil.txt 1 469 
+bands Lunar_soil.txt 1 1241 
+showing Lunar_soil.txt 1 1183 
+moondust Lunar_soil.txt 4 3 13 23 1406 
+possible Lunar_soil.txt 1 1449 
+dark Lunar_soil.txt 1 389 
+possibly Lunar_soil.txt 1 1041 
+game Lunar_soil.txt 2 11 15 
+vacuum Lunar_soil.txt 3 793 1218 1938 
+using Lunar_soil.txt 1 1705 
+accepted Lunar_soil.txt 1 1487 
+melting Lunar_soil.txt 1 443 
+appearing Lunar_soil.txt 1 897 
+like Lunar_soil.txt 1 572 
+pounds Lunar_soil.txt 1 1902 
+velocities Lunar_soil.txt 2 721 1047 
+50 Lunar_soil.txt 1 250 
+ignore Lunar_soil.txt 1 186 
+flux Lunar_soil.txt 1 1883 
+continue Lunar_soil.txt 1 301 
+clay Lunar_soil.txt 1 545 
+become Lunar_soil.txt 1 1826 
+indium Lunar_soil.txt 1 1934 
+reduced Lunar_soil.txt 1 566 
+razor-sharp Lunar_soil.txt 1 1210 
+because Lunar_soil.txt 3 162 1390 1769 
+gardening Lunar_soil.txt 1 476 
+often Lunar_soil.txt 1 194 
+exposed Lunar_soil.txt 1 2059 
+some Lunar_soil.txt 7 147 243 349 826 1160 1478 1898 
+back Lunar_soil.txt 5 338 846 999 1897 1948 
+metres Lunar_soil.txt 1 984 
+streamers Lunar_soil.txt 1 1242 
+daylit Lunar_soil.txt 1 934 
+examples Lunar_soil.txt 1 684 
+transport Lunar_soil.txt 1 1099 
+energetic Lunar_soil.txt 1 945 
+dense Lunar_soil.txt 1 767 
+jewelry Lunar_soil.txt 1 2109 
+for Lunar_soil.txt 16 6 16 25 669 916 1075 1162 1246 1292 1302 1360 1458 1923 2039 2066 2105 
+moon Lunar_soil.txt 26 56 161 175 280 398 527 554 612 816 817 830 871 938 1074 1103 1180 1230 1470 1951 2004 2005 2043 2055 2065 2116 2134 
+contributing Lunar_soil.txt 1 144 
+meteoroids Lunar_soil.txt 2 1308 1493 
+lunar Lunar_soil.txt 48 0 33 41 71 182 191 198 222 230 289 297 403 435 515 560 593 646 650 662 694 729 757 782 800 957 968 1105 1191 1251 1254 1293 1361 1379 1474 1496 1534 1539 1548 1632 1639 1668 1725 1746 1770 1820 1829 1904 2094 
+fragments Lunar_soil.txt 2 414 416 
+levitation Lunar_soil.txt 2 822 931 
+measuring Lunar_soil.txt 1 970 
+be Lunar_soil.txt 7 385 1053 1083 1386 1489 1659 1834 
+reaching Lunar_soil.txt 1 992 
+seconds Lunar_soil.txt 2 1249 1520 
+real-world Lunar_soil.txt 1 688 
+soft-landed Lunar_soil.txt 1 1177 
+rock Lunar_soil.txt 3 84 413 1612 
+although Lunar_soil.txt 2 1620 1910 
+tlps Lunar_soil.txt 2 1477 1479 
+refers Lunar_soil.txt 1 202 
+properties Lunar_soil.txt 9 58 69 308 637 664 780 1585 1723 1990 
+on Lunar_soil.txt 24 32 51 163 266 610 624 687 713 932 1008 1078 1178 1277 1285 1468 1590 1637 1645 1672 1733 1738 2002 2053 2076 
+about Lunar_soil.txt 2 760 1247 
+sharper Lunar_soil.txt 1 1783 
+package Lunar_soil.txt 1 1416 
+of Lunar_soil.txt 83 47 54 64 70 77 80 104 132 143 208 214 237 271 278 288 309 378 388 407 410 420 452 483 514 540 579 591 644 657 661 671 700 710 725 737 756 772 781 790 797 814 836 863 885 887 903 936 951 967 1059 1072 1102 1138 1154 1325 1340 1404 1431 1434 1464 1492 1529 1538 1582 1608 1655 1665 1724 1735 1782 1862 1869 1874 1881 1903 1936 1966 1972 1991 2023 2063 2071 2123 
+corrosiveness Lunar_soil.txt 1 1586 
+o Lunar_soil.txt 1 135 
+union Lunar_soil.txt 1 1147 
+range Lunar_soil.txt 1 724 
+horizon Lunar_soil.txt 2 1192 1202 
+west Lunar_soil.txt 1 1334 
+mixed Lunar_soil.txt 1 467 
+commit Lunar_soil.txt 1 1565 
+or Lunar_soil.txt 12 220 1243 1253 1349 1353 1476 1505 1508 1517 1521 1926 2124 
+hadley-apennine Lunar_soil.txt 1 373 
+equally Lunar_soil.txt 1 1629 
+mantle Lunar_soil.txt 1 390 
+into Lunar_soil.txt 2 332 1836 
+interstellar Lunar_soil.txt 1 93 
+three Lunar_soil.txt 1 1315 
+assess Lunar_soil.txt 1 1662 
+spacesuit Lunar_soil.txt 3 1691 1866 2075 
+appropriate Lunar_soil.txt 2 659 1681 
+amphiboles Lunar_soil.txt 1 548 
+been Lunar_soil.txt 11 874 1214 1272 1401 1454 1462 1481 1526 1914 1953 2037 
+primarily Lunar_soil.txt 2 74 629 
+speculated Lunar_soil.txt 1 1396 
+variously Lunar_soil.txt 1 1239 
+methods Lunar_soil.txt 1 1845 
+oxidized Lunar_soil.txt 1 571 
+removing Lunar_soil.txt 1 1689 
+museum Lunar_soil.txt 1 1153 
+there Lunar_soil.txt 7 232 506 824 1081 1158 1220 1460 
+sunlight Lunar_soil.txt 2 1421 1530 
+approved Lunar_soil.txt 1 2020 
+author Lunar_soil.txt 1 1122 
+fraction Lunar_soil.txt 3 46 207 240 
+suit Lunar_soil.txt 1 1698 
+slowly Lunar_soil.txt 1 1942 
+sale Lunar_soil.txt 2 2022 2040 
+valley Lunar_soil.txt 1 363 
+was Lunar_soil.txt 6 1115 1221 1298 1392 2081 2102 
+launching Lunar_soil.txt 2 1042 1617 
+form Lunar_soil.txt 3 296 432 1101 
+enough Lunar_soil.txt 1 946 
+forming Lunar_soil.txt 1 1088 
+differences Lunar_soil.txt 2 510 1036 
+psychoactive Lunar_soil.txt 1 27 
+expected Lunar_soil.txt 3 1215 1359 1742 
+repeated Lunar_soil.txt 1 1007 
+construction Lunar_soil.txt 1 670 
+repeatedly Lunar_soil.txt 1 1233 
+solar Lunar_soil.txt 5 603 806 939 1021 1882 
+sun Lunar_soil.txt 1 1196 
+apollo Lunar_soil.txt 13 38 267 365 375 652 1110 1141 1225 1264 1279 1444 1894 2078 
+with Lunar_soil.txt 14 197 449 536 595 720 733 753 882 988 1699 1709 1828 1974 2041 
+outpost Lunar_soil.txt 1 1648 
+mica Lunar_soil.txt 1 546 
+leaked Lunar_soil.txt 1 1943 
+absent Lunar_soil.txt 1 551 
+persisting Lunar_soil.txt 1 1193 
+dmd Lunar_soil.txt 1 392 
+embedded Lunar_soil.txt 1 456 
+official Lunar_soil.txt 1 235 
+up Lunar_soil.txt 6 649 842 962 1305 1331 2104 
+us Lunar_soil.txt 1 2018 
+placed Lunar_soil.txt 1 1282 
+martian Lunar_soil.txt 2 1609 1624 
+exploration Lunar_soil.txt 2 1671 1821 
+minor Lunar_soil.txt 1 490 
+continuously Lunar_soil.txt 1 810 
+problem Lunar_soil.txt 1 1436 
+piece Lunar_soil.txt 2 1137 2070 
+similar Lunar_soil.txt 2 1273 1816 
+called Lunar_soil.txt 2 1240 1289 
+mono-mineralic Lunar_soil.txt 1 415 
+detailed Lunar_soil.txt 1 1924 
+gone Lunar_soil.txt 1 1985 
+required Lunar_soil.txt 1 1559 
+constant Lunar_soil.txt 2 589 867 
+sticks Lunar_soil.txt 1 745 
+armstrong Lunar_soil.txt 1 2099 
+repelled Lunar_soil.txt 1 976 
+defined Lunar_soil.txt 1 168 
+describe Lunar_soil.txt 1 877 
+an Lunar_soil.txt 3 704 1184 1283 
+as Lunar_soil.txt 15 169 318 352 475 531 538 544 1211 1437 1472 1483 1502 1510 1574 1969 
+at Lunar_soil.txt 8 247 255 357 372 433 496 919 2090 
+reflecting Lunar_soil.txt 1 1531 
+physical Lunar_soil.txt 2 68 305 
+no Lunar_soil.txt 3 234 1222 1994 
+whereas Lunar_soil.txt 2 173 623 
+generally Lunar_soil.txt 2 224 1486 
+detail Lunar_soil.txt 1 1077 
+field Lunar_soil.txt 2 802 1071 
+other Lunar_soil.txt 2 394 774 
+electrical Lunar_soil.txt 1 1591 
+sunset Lunar_soil.txt 1 1255 
+out Lunar_soil.txt 1 950 
+concerning Lunar_soil.txt 1 1631 
+briefly Lunar_soil.txt 1 1441 
+elements Lunar_soil.txt 1 2062 
+kinds Lunar_soil.txt 1 419 
+pillows Lunar_soil.txt 1 21 
+2005 Lunar_soil.txt 2 912 1552 
+astounding Lunar_soil.txt 1 1133 
+bonding Lunar_soil.txt 1 1973 
+important Lunar_soil.txt 2 346 705 
+allowing Lunar_soil.txt 1 804 
+structure Lunar_soil.txt 1 542 
+exposure Lunar_soil.txt 8 1550 1666 1685 1744 1758 1762 1805 1849 
+land Lunar_soil.txt 1 1204 
+longer Lunar_soil.txt 1 1995 
+physics Lunar_soil.txt 1 918 
+factors Lunar_soil.txt 1 775 
+orbit Lunar_soil.txt 1 1062 
+together Lunar_soil.txt 1 448 
+portion Lunar_soil.txt 1 1058 
+nasa Lunar_soil.txt 2 920 1553 
+time Lunar_soil.txt 4 119 313 464 1765 
+serious Lunar_soil.txt 1 1813 
+nuclei Lunar_soil.txt 1 600 
+temporarily Lunar_soil.txt 1 1389 
+having Lunar_soil.txt 1 170 
+astronautical Lunar_soil.txt 1 1656 

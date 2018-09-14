@@ -1,0 +1,297 @@
+partial Diamond_ring_effect.txt 1 306 
+phenomenon Diamond_ring_effect.txt 3 57 152 615 
+less Diamond_ring_effect.txt 1 310 
+being Diamond_ring_effect.txt 1 562 
+suns Diamond_ring_effect.txt 1 315 
+over Diamond_ring_effect.txt 1 342 
+discovered Diamond_ring_effect.txt 1 455 
+not Diamond_ring_effect.txt 2 54 139 
+bright Diamond_ring_effect.txt 2 175 379 
+through Diamond_ring_effect.txt 2 134 382 
+extremeties Diamond_ring_effect.txt 1 534 
+filters Diamond_ring_effect.txt 2 302 353 
+chromos Diamond_ring_effect.txt 1 419 
+radiation Diamond_ring_effect.txt 1 427 
+fine Diamond_ring_effect.txt 2 531 579 
+before Diamond_ring_effect.txt 2 13 516 
+observational Diamond_ring_effect.txt 1 445 
+whose Diamond_ring_effect.txt 2 533 573 
+emits Diamond_ring_effect.txt 1 438 
+like Diamond_ring_effect.txt 1 544 
+1836 Diamond_ring_effect.txt 1 154 
+21 Diamond_ring_effect.txt 2 21 34 
+tv Diamond_ring_effect.txt 1 626 
+show Diamond_ring_effect.txt 1 627 
+royal Diamond_ring_effect.txt 1 511 
+29 Diamond_ring_effect.txt 1 87 
+than Diamond_ring_effect.txt 1 311 
+late Diamond_ring_effect.txt 1 499 
+to Diamond_ring_effect.txt 9 132 240 297 431 453 528 536 541 597 
+only Diamond_ring_effect.txt 1 162 
+parts Diamond_ring_effect.txt 1 565 
+baily Diamond_ring_effect.txt 2 148 449 
+4 Diamond_ring_effect.txt 1 11 
+kalimantan Diamond_ring_effect.txt 1 73 
+gradual Diamond_ring_effect.txt 1 332 
+2017 Diamond_ring_effect.txt 2 22 35 
+2016 Diamond_ring_effect.txt 1 69 
+thousands Diamond_ring_effect.txt 1 439 
+remaining Diamond_ring_effect.txt 1 521 
+round Diamond_ring_effect.txt 1 543 
+photographed Diamond_ring_effect.txt 1 10 
+briefly Diamond_ring_effect.txt 1 252 
+then Diamond_ring_effect.txt 1 309 
+good Diamond_ring_effect.txt 1 230 
+march Diamond_ring_effect.txt 2 67 86 
+around Diamond_ring_effect.txt 1 177 
+contents Diamond_ring_effect.txt 1 444 
+very Diamond_ring_effect.txt 1 530 
+safe Diamond_ring_effect.txt 1 296 
+emanating Diamond_ring_effect.txt 1 42 
+edmond Diamond_ring_effect.txt 1 466 
+photosphere Diamond_ring_effect.txt 3 316 359 380 
+12 Diamond_ring_effect.txt 1 278 
+bead Diamond_ring_effect.txt 1 164 
+during Diamond_ring_effect.txt 8 27 61 81 117 304 476 618 636 
+bit Diamond_ring_effect.txt 1 357 
+categories Diamond_ring_effect.txt 2 663 665 
+name Diamond_ring_effect.txt 1 464 
+beads Diamond_ring_effect.txt 13 1 9 59 96 129 239 249 290 371 394 402 475 614 
+spikes Diamond_ring_effect.txt 1 41 
+appearing Diamond_ring_effect.txt 1 167 
+hour Diamond_ring_effect.txt 1 344 
+tangentially Diamond_ring_effect.txt 1 43 
+covering Diamond_ring_effect.txt 1 333 
+edit Diamond_ring_effect.txt 6 447 587 655 657 659 662 
+notes Diamond_ring_effect.txt 1 656 
+pole Diamond_ring_effect.txt 1 571 
+irregularities Diamond_ring_effect.txt 1 199 
+realistic Diamond_ring_effect.txt 1 595 
+lose Diamond_ring_effect.txt 1 537 
+albeit Diamond_ring_effect.txt 1 645 
+become Diamond_ring_effect.txt 1 542 
+optics Diamond_ring_effect.txt 1 53 
+chromosphere Diamond_ring_effect.txt 2 416 436 
+lasting Diamond_ring_effect.txt 1 277 
+voyager Diamond_ring_effect.txt 1 644 
+set Diamond_ring_effect.txt 1 172 
+often Diamond_ring_effect.txt 1 451 
+burst Diamond_ring_effect.txt 1 363 
+appearance Diamond_ring_effect.txt 1 547 
+some Diamond_ring_effect.txt 2 136 563 
+idea Diamond_ring_effect.txt 1 231 
+horn Diamond_ring_effect.txt 1 532 
+society Diamond_ring_effect.txt 1 512 
+see Diamond_ring_effect.txt 1 329 
+are Diamond_ring_effect.txt 4 47 215 250 295 
+duration Diamond_ring_effect.txt 1 265 
+kamyzyak Diamond_ring_effect.txt 1 92 
+shining Diamond_ring_effect.txt 1 170 
+spectral Diamond_ring_effect.txt 1 442 
+phases Diamond_ring_effect.txt 1 307 
+said Diamond_ring_effect.txt 1 452 
+appear Diamond_ring_effect.txt 2 241 372 
+bailys Diamond_ring_effect.txt 9 0 8 58 95 248 289 393 474 613 
+space Diamond_ring_effect.txt 1 653 
+sun Diamond_ring_effect.txt 4 116 336 504 525 
+reddish Diamond_ring_effect.txt 2 412 425 
+wikipedia Diamond_ring_effect.txt 1 2 
+near Diamond_ring_effect.txt 2 268 567 
+moon Diamond_ring_effect.txt 3 113 209 390 
+behind Diamond_ring_effect.txt 1 396 
+lunar Diamond_ring_effect.txt 6 126 179 181 202 339 399 
+correctly Diamond_ring_effect.txt 1 487 
+maximized Diamond_ring_effect.txt 1 267 
+probably Diamond_ring_effect.txt 1 592 
+seemed Diamond_ring_effect.txt 1 535 
+cause Diamond_ring_effect.txt 4 237 457 490 553 
+1715 Diamond_ring_effect.txt 1 483 
+halley Diamond_ring_effect.txt 2 467 484 
+body Diamond_ring_effect.txt 1 650 
+who Diamond_ring_effect.txt 1 149 
+august Diamond_ring_effect.txt 2 20 33 
+eye Diamond_ring_effect.txt 1 434 
+seconds Diamond_ring_effect.txt 2 12 256 
+annular Diamond_ring_effect.txt 1 108 
+baileys Diamond_ring_effect.txt 1 370 
+craters Diamond_ring_effect.txt 1 192 
+reduced Diamond_ring_effect.txt 1 527 
+cosmas Diamond_ring_effect.txt 1 588 
+although Diamond_ring_effect.txt 1 448 
+others Diamond_ring_effect.txt 1 141 
+path Diamond_ring_effect.txt 3 263 273 322 
+asam Diamond_ring_effect.txt 1 590 
+francis Diamond_ring_effect.txt 1 147 
+occultations Diamond_ring_effect.txt 1 222 
+by Diamond_ring_effect.txt 4 308 337 346 572 
+proceed Diamond_ring_effect.txt 1 549 
+shine Diamond_ring_effect.txt 2 133 381 
+advance Diamond_ring_effect.txt 1 243 
+about Diamond_ring_effect.txt 1 513 
+hidden Diamond_ring_effect.txt 1 664 
+last Diamond_ring_effect.txt 2 356 375 
+reappear Diamond_ring_effect.txt 1 404 
+of Diamond_ring_effect.txt 42 15 19 32 50 66 85 105 124 130 187 190 200 207 220 223 244 260 271 274 313 323 325 334 358 364 377 388 408 440 458 473 480 491 497 502 509 523 557 576 581 623 641 
+could Diamond_ring_effect.txt 1 548 
+allows Diamond_ring_effect.txt 1 128 
+called Diamond_ring_effect.txt 1 414 
+credit Diamond_ring_effect.txt 2 620 638 
+citations Diamond_ring_effect.txt 1 658 
+view Diamond_ring_effect.txt 1 298 
+disappears Diamond_ring_effect.txt 1 360 
+or Diamond_ring_effect.txt 1 98 
+first Diamond_ring_effect.txt 2 330 470 
+named Diamond_ring_effect.txt 1 145 
+topography Diamond_ring_effect.txt 2 123 182 
+followed Diamond_ring_effect.txt 1 345 
+features Diamond_ring_effect.txt 1 197 
+presence Diamond_ring_effect.txt 1 189 
+color Diamond_ring_effect.txt 1 421 
+explained Diamond_ring_effect.txt 1 150 
+thereof Diamond_ring_effect.txt 1 566 
+one Diamond_ring_effect.txt 1 163 
+visible Diamond_ring_effect.txt 4 26 318 351 430 
+philosophical Diamond_ring_effect.txt 1 507 
+because Diamond_ring_effect.txt 1 186 
+references Diamond_ring_effect.txt 1 654 
+elevated Diamond_ring_effect.txt 1 564 
+limb Diamond_ring_effect.txt 2 127 203 
+ring Diamond_ring_effect.txt 11 6 24 79 100 157 176 283 349 368 605 632 
+total Diamond_ring_effect.txt 6 29 63 106 500 518 600 
+grazing Diamond_ring_effect.txt 1 221 
+extrasolar Diamond_ring_effect.txt 1 649 
+earliest Diamond_ring_effect.txt 1 594 
+from Diamond_ring_effect.txt 10 4 44 72 91 212 218 366 550 646 652 
+additional Diamond_ring_effect.txt 1 441 
+their Diamond_ring_effect.txt 2 264 538 
+bears Diamond_ring_effect.txt 1 462 
+unaided Diamond_ring_effect.txt 1 433 
+there Diamond_ring_effect.txt 1 561 
+1735 Diamond_ring_effect.txt 1 611 
+two Diamond_ring_effect.txt 1 514 
+sunlight Diamond_ring_effect.txt 1 131 
+appears Diamond_ring_effect.txt 1 422 
+few Diamond_ring_effect.txt 1 255 
+camera Diamond_ring_effect.txt 1 52 
+sequence Diamond_ring_effect.txt 2 622 640 
+observations Diamond_ring_effect.txt 3 219 472 496 
+totality Diamond_ring_effect.txt 4 14 293 324 409 
+bits Diamond_ring_effect.txt 1 376 
+known Diamond_ring_effect.txt 1 216 
+0.001 Diamond_ring_effect.txt 1 312 
+mountains Diamond_ring_effect.txt 2 191 233 
+diamond Diamond_ring_effect.txt 11 5 23 46 78 99 156 171 282 348 604 631 
+stars Diamond_ring_effect.txt 2 224 545 
+that Diamond_ring_effect.txt 1 577 
+immersion Diamond_ring_effect.txt 1 519 
+accurately Diamond_ring_effect.txt 1 217 
+artifact Diamond_ring_effect.txt 1 49 
+observers Diamond_ring_effect.txt 1 319 
+exceedingly Diamond_ring_effect.txt 1 578 
+finished Diamond_ring_effect.txt 1 609 
+part Diamond_ring_effect.txt 2 522 575 
+surface Diamond_ring_effect.txt 1 560 
+solar Diamond_ring_effect.txt 10 17 30 64 83 109 119 301 327 478 601 
+valleys Diamond_ring_effect.txt 3 193 235 383 
+aligned Diamond_ring_effect.txt 1 384 
+damian Diamond_ring_effect.txt 1 589 
+considerable Diamond_ring_effect.txt 1 184 
+painter Diamond_ring_effect.txt 1 596 
+center Diamond_ring_effect.txt 1 259 
+fades Diamond_ring_effect.txt 1 369 
+distance Diamond_ring_effect.txt 1 214 
+trek Diamond_ring_effect.txt 1 643 
+has Diamond_ring_effect.txt 2 183 285 
+rugged Diamond_ring_effect.txt 1 122 
+places Diamond_ring_effect.txt 1 137 
+was Diamond_ring_effect.txt 4 526 583 591 608 
+interposition Diamond_ring_effect.txt 1 574 
+eclipse Diamond_ring_effect.txt 11 18 31 65 84 120 246 262 328 479 501 602 
+intercepted Diamond_ring_effect.txt 1 584 
+will Diamond_ring_effect.txt 1 236 
+while Diamond_ring_effect.txt 3 138 247 629 
+nebraska Diamond_ring_effect.txt 1 38 
+thin Diamond_ring_effect.txt 1 411 
+transactions Diamond_ring_effect.txt 1 508 
+eclipses Diamond_ring_effect.txt 1 110 
+minutes Diamond_ring_effect.txt 2 279 515 
+russia Diamond_ring_effect.txt 1 93 
+history Diamond_ring_effect.txt 1 446 
+and Diamond_ring_effect.txt 7 107 194 234 292 486 540 603 
+external Diamond_ring_effect.txt 1 660 
+links Diamond_ring_effect.txt 1 661 
+diminished Diamond_ring_effect.txt 1 286 
+is Diamond_ring_effect.txt 10 102 144 159 165 266 317 428 450 616 634 
+thus Diamond_ring_effect.txt 1 226 
+covers Diamond_ring_effect.txt 1 114 
+an Diamond_ring_effect.txt 2 48 343 
+nbc Diamond_ring_effect.txt 1 625 
+as Diamond_ring_effect.txt 9 70 89 111 168 210 354 361 373 391 
+his Diamond_ring_effect.txt 3 463 495 606 
+at Diamond_ring_effect.txt 3 257 385 405 
+have Diamond_ring_effect.txt 2 227 454 
+in Diamond_ring_effect.txt 11 36 135 140 153 173 242 320 494 505 585 610 
+seen Diamond_ring_effect.txt 8 71 90 160 211 251 617 635 651 
+made Diamond_ring_effect.txt 1 468 
+hydrogen Diamond_ring_effect.txt 1 426 
+disappear Diamond_ring_effect.txt 1 395 
+sir Diamond_ring_effect.txt 1 465 
+recorded Diamond_ring_effect.txt 1 471 
+silhouette Diamond_ring_effect.txt 2 180 340 
+ravenna Diamond_ring_effect.txt 1 37 
+no Diamond_ring_effect.txt 1 551 
+media Diamond_ring_effect.txt 2 76 586 
+topographical Diamond_ring_effect.txt 1 196 
+when Diamond_ring_effect.txt 1 161 
+feature Diamond_ring_effect.txt 2 104 460 
+umbra Diamond_ring_effect.txt 1 276 
+astronomers Diamond_ring_effect.txt 1 225 
+also Diamond_ring_effect.txt 2 403 437 
+other Diamond_ring_effect.txt 2 195 552 
+advancing Diamond_ring_effect.txt 1 398 
+which Diamond_ring_effect.txt 3 232 461 546 
+9 Diamond_ring_effect.txt 1 68 
+acuteness Diamond_ring_effect.txt 1 539 
+filament Diamond_ring_effect.txt 1 580 
+profile Diamond_ring_effect.txt 1 204 
+fairly Diamond_ring_effect.txt 1 229 
+play Diamond_ring_effect.txt 1 75 
+used Diamond_ring_effect.txt 1 303 
+star Diamond_ring_effect.txt 1 642 
+though Diamond_ring_effect.txt 1 423 
+may Diamond_ring_effect.txt 1 482 
+after Diamond_ring_effect.txt 2 146 280 
+southern Diamond_ring_effect.txt 1 570 
+effect Diamond_ring_effect.txt 13 7 25 60 80 97 101 143 158 284 291 350 493 633 
+3 Diamond_ring_effect.txt 1 481 
+most Diamond_ring_effect.txt 1 429 
+meaning Diamond_ring_effect.txt 1 420 
+edges Diamond_ring_effect.txt 1 270 
+but Diamond_ring_effect.txt 1 554 
+opening Diamond_ring_effect.txt 2 621 639 
+phase Diamond_ring_effect.txt 1 294 
+end Diamond_ring_effect.txt 1 407 
+heroes Diamond_ring_effect.txt 1 628 
+moons Diamond_ring_effect.txt 2 559 569 
+inequalities Diamond_ring_effect.txt 1 556 
+a Diamond_ring_effect.txt 14 55 103 118 169 174 213 228 254 326 331 410 529 599 647 
+fictitious Diamond_ring_effect.txt 1 648 
+natural Diamond_ring_effect.txt 1 56 
+for Diamond_ring_effect.txt 2 253 341 
+described Diamond_ring_effect.txt 1 485 
+lines Diamond_ring_effect.txt 1 443 
+light Diamond_ring_effect.txt 2 365 582 
+indonesia Diamond_ring_effect.txt 1 74 
+diffraction Diamond_ring_effect.txt 1 40 
+without Diamond_ring_effect.txt 2 299 352 
+greek Diamond_ring_effect.txt 1 418 
+ascertained Diamond_ring_effect.txt 1 488 
+edge Diamond_ring_effect.txt 4 206 387 400 413 
+2006 Diamond_ring_effect.txt 1 88 
+relief Diamond_ring_effect.txt 1 185 
+subsequent Diamond_ring_effect.txt 1 288 
+redirected Diamond_ring_effect.txt 1 3 
+the Diamond_ring_effect.txt 76 16 28 39 45 51 62 77 82 94 112 115 121 125 142 151 155 178 188 198 201 205 208 238 245 258 261 269 272 275 281 287 300 305 314 321 335 338 347 355 362 367 374 378 386 389 392 397 401 406 415 417 424 432 435 456 459 469 477 489 492 498 503 506 510 517 520 524 555 558 568 593 612 619 624 630 637 
+painting Diamond_ring_effect.txt 1 607 
+depict Diamond_ring_effect.txt 1 598 
+left Diamond_ring_effect.txt 1 166 

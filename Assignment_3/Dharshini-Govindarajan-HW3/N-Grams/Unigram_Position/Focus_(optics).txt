@@ -1,0 +1,150 @@
+distances Focus_(optics).txt 1 35 
+all Focus_(optics).txt 1 13 
+caused Focus_(optics).txt 2 100 124 
+both Focus_(optics).txt 1 305 
+focus Focus_(optics).txt 18 0 5 32 44 49 57 79 86 160 179 201 208 217 226 280 295 304 344 
+converge Focus_(optics).txt 1 76 
+front Focus_(optics).txt 2 325 363 
+disc Focus_(optics).txt 1 121 
+through Focus_(optics).txt 1 241 
+principal Focus_(optics).txt 1 200 
+rooftop Focus_(optics).txt 1 37 
+appears Focus_(optics).txt 1 234 
+to Focus_(optics).txt 5 33 134 221 235 260 
+absence Focus_(optics).txt 1 109 
+degrees Focus_(optics).txt 1 52 
+systems Focus_(optics).txt 1 130 
+parabolic Focus_(optics).txt 1 251 
+circle Focus_(optics).txt 4 94 117 145 195 
+has Focus_(optics).txt 1 87 
+image Focus_(optics).txt 5 39 61 152 154 175 
+do Focus_(optics).txt 1 215 
+worse Focus_(optics).txt 1 136 
+get Focus_(optics).txt 1 135 
+photography Focus_(optics).txt 1 31 
+between Focus_(optics).txt 1 188 
+possible Focus_(optics).txt 2 115 172 
+geometrical Focus_(optics).txt 1 54 
+beam Focus_(optics).txt 3 220 256 284 
+increases Focus_(optics).txt 1 141 
+they Focus_(optics).txt 1 331 
+not Focus_(optics).txt 2 183 216 
+using Focus_(optics).txt 1 193 
+categories Focus_(optics).txt 2 377 379 
+and Focus_(optics).txt 2 176 212 
+diverging Focus_(optics).txt 1 209 
+large Focus_(optics).txt 1 149 
+these Focus_(optics).txt 1 189 
+bamboo Focus_(optics).txt 1 36 
+where Focus_(optics).txt 1 66 
+telescope Focus_(optics).txt 1 371 
+physically Focus_(optics).txt 1 84 
+non-ideal Focus_(optics).txt 1 96 
+see Focus_(optics).txt 2 6 372 
+are Focus_(optics).txt 1 308 
+convex Focus_(optics).txt 4 213 250 286 313 
+collects Focus_(optics).txt 1 12 
+special Focus_(optics).txt 1 207 
+out Focus_(optics).txt 2 47 177 
+travels Focus_(optics).txt 1 240 
+appear Focus_(optics).txt 1 263 
+for Focus_(optics).txt 2 3 148 
+wikipedia Focus_(optics).txt 1 2 
+tend Focus_(optics).txt 1 133 
+behind Focus_(optics).txt 3 309 338 353 
+smallest Focus_(optics).txt 2 114 147 
+blur Focus_(optics).txt 2 93 116 
+be Focus_(optics).txt 2 99 236 
+after Focus_(optics).txt 1 238 
+confusion Focus_(optics).txt 1 197 
+imaging Focus_(optics).txt 1 105 
+extent Focus_(optics).txt 1 90 
+from Focus_(optics).txt 10 16 70 127 163 230 246 269 301 320 334 
+by Focus_(optics).txt 2 101 125 
+on Focus_(optics).txt 3 19 26 73 
+of Focus_(optics).txt 10 30 48 103 110 178 196 257 306 326 364 
+region Focus_(optics).txt 1 157 
+or Focus_(optics).txt 5 153 156 202 244 273 
+lenses Focus_(optics).txt 1 211 
+diameter Focus_(optics).txt 1 140 
+although Focus_(optics).txt 1 77 
+point Focus_(optics).txt 15 18 25 62 65 72 83 155 204 223 229 272 323 337 350 359 
+into Focus_(optics).txt 1 22 
+one Focus_(optics).txt 1 294 
+references Focus_(optics).txt 1 375 
+conceptually Focus_(optics).txt 1 81 
+eye Focus_(optics).txt 3 4 8 9 
+hyperbolic Focus_(optics).txt 1 314 
+negative Focus_(optics).txt 1 210 
+accommodation Focus_(optics).txt 1 7 
+defined Focus_(optics).txt 1 192 
+collimated Focus_(optics).txt 3 219 258 283 
+much Focus_(optics).txt 1 170 
+aperture Focus_(optics).txt 2 131 139 
+airy Focus_(optics).txt 2 120 144 
+reflects Focus_(optics).txt 1 245 
+corresponding Focus_(optics).txt 1 24 
+elliptical Focus_(optics).txt 1 287 
+mostly Focus_(optics).txt 1 46 
+that Focus_(optics).txt 3 40 351 360 
+retina Focus_(optics).txt 1 28 
+edit Focus_(optics).txt 2 374 376 
+but Focus_(optics).txt 1 45 
+optics Focus_(optics).txt 3 1 55 106 
+optical Focus_(optics).txt 1 129 
+varying Focus_(optics).txt 1 51 
+focusing Focus_(optics).txt 2 10 97 
+hidden Focus_(optics).txt 1 378 
+partially Focus_(optics).txt 1 42 
+directed Focus_(optics).txt 3 277 292 346 
+cassegrain Focus_(optics).txt 1 370 
+this Focus_(optics).txt 1 95 
+will Focus_(optics).txt 3 253 289 316 
+while Focus_(optics).txt 1 142 
+can Focus_(optics).txt 1 343 
+were Focus_(optics).txt 3 267 299 332 
+toward Focus_(optics).txt 1 278 
+called Focus_(optics).txt 2 59 91 
+originating Focus_(optics).txt 1 69 
+mirrors Focus_(optics).txt 1 214 
+almost Focus_(optics).txt 1 168 
+well Focus_(optics).txt 1 184 
+is Focus_(optics).txt 14 41 63 80 118 123 146 158 166 182 190 205 227 352 361 
+mirror Focus_(optics).txt 9 248 252 288 311 315 328 340 355 366 
+it Focus_(optics).txt 5 239 262 266 298 342 
+an Focus_(optics).txt 4 20 38 60 151 
+as Focus_(optics).txt 8 137 169 171 264 281 296 329 367 
+at Focus_(optics).txt 1 347 
+in Focus_(optics).txt 9 43 50 53 107 159 173 324 362 368 
+conversely Focus_(optics).txt 2 274 341 
+demonstration Focus_(optics).txt 1 29 
+if Focus_(optics).txt 5 161 180 265 297 330 
+different Focus_(optics).txt 1 34 
+rays Focus_(optics).txt 5 15 68 276 318 345 
+ideally Focus_(optics).txt 1 11 
+border Focus_(optics).txt 1 187 
+make Focus_(optics).txt 1 261 
+also Focus_(optics).txt 2 58 373 
+other Focus_(optics).txt 1 303 
+criterion Focus_(optics).txt 1 198 
+which Focus_(optics).txt 3 122 231 307 
+spatial Focus_(optics).txt 1 89 
+converged Focus_(optics).txt 2 167 185 
+instead Focus_(optics).txt 1 224 
+towards Focus_(optics).txt 2 293 356 
+may Focus_(optics).txt 1 98 
+object Focus_(optics).txt 3 21 75 164 
+emanating Focus_(optics).txt 3 237 319 333 
+lens Focus_(optics).txt 1 243 
+significant Focus_(optics).txt 1 111 
+focal Focus_(optics).txt 6 203 271 322 336 349 358 
+aberrations Focus_(optics).txt 3 102 112 132 
+a Focus_(optics).txt 17 17 23 56 71 82 88 194 199 206 218 222 249 255 282 285 312 369 
+radiating Focus_(optics).txt 2 268 300 
+light Focus_(optics).txt 7 14 67 162 181 233 259 291 
+apertures Focus_(optics).txt 1 150 
+sometimes Focus_(optics).txt 1 191 
+diffraction Focus_(optics).txt 1 126 
+points Focus_(optics).txt 1 165 
+reflect Focus_(optics).txt 4 254 275 290 317 
+the Focus_(optics).txt 32 27 64 74 78 85 92 104 108 113 119 128 138 143 174 186 225 228 232 242 247 270 279 302 310 321 327 335 339 348 354 357 365 

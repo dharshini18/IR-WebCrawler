@@ -1,0 +1,102 @@
+-----------
+Question4
+-----------
+
+Task1 - Brief Report
+
+BFS - crawl
+------------
+
+Number of Pages with no in-links (Sources) - 0
+Number of pages with no out-links (Sinks) - 6
+
+DFS - crawl
+------------
+
+Number of Pages with no in-links (Sources) - 0
+Number of pages with no out-links (Sinks) - 0
+
+The BFS crawl consits of the crawled URL- article ID as the first entry and the entries following are the inlinks to that particular node seperated by spaces.
+
+The DFS crawl consits of the crawled URL- article ID as the first entry and the entries following are the inlinks to that particular node seperated by spaces.
+
+The number of sources for both the graphs G1 and G2 i.e the BFS and DFS crawling respectively is zero. The reason being, we are building a graph using the links crawled and the links
+that point to the links being crawled. So there is no possiblity for a link to be a part of the graph if it does not consist of any in-links.
+
+
+The number of sink nodes, i.e nodes without out-links for G1 and G2 i.e BFS and DFS crawling respectively is 6 and 0. The sink nodes in the BFS crawl are relatively higher when compared to the
+DFS crawl. This could be because, the BFS technique crawls links at the same depth, so the possiblity of a link being an in-link for one of the crawled links is a little less when compared to the
+DFS crawl. Whereas in DFS, the links at adjacent depths could be closely realted to each other since they orginate from the same node/depth.
+
+--------------------
+Task 2C - Question1
+--------------------
+
+Comparision of resulting pagerank using a damping factor of d = 0.55 to the baseline
+
+Baseline - Baseline.txt
+
+BFS_File = PageRankG1_D2.txt
+DFS_File = PageRankG2_D2.txt
+
+Comparision of Baseline and BFS_File
+1) Obeserving the DocID and score in this scenario, it is evident that the scores in baseline file are higher
+   than the scores in the BFS_File
+2) Also, the links in the BFS_File are not consistent with the Baseline
+3) Teleportation or the order in which the links of the BFS_File are visited are different when compared to the
+   Baseline file
+4) Documents are visited in an order that seems fit with the damping factor. The factor is included
+   to avoid sinks. The chance of being on a certain page changes as the damping factor is changed
+   
+Comparision of Baseline and DFS_File
+1) The DFS_file is extremely different when compared to the Baseline file
+2) The crawling techniques are different, hence the order in which the graph is constructed or the order in which
+   the links appear differs
+3) The links that are common between the baseline and the DFS_Fil, have scores where the DFS_File has higher score
+   than the baseline
+4) Documents are visited in an order that seems fit with the damping factor. The factor is included
+   to avoid sinks. The chance of being on a certain page changes as the damping factor is changed
+5) At least on some graphs, arbitrarily small variations in the damping factor can completely reverse the ranking of the top k nodes  
+
+--------------------   
+Task 2C - Question2
+--------------------
+
+Baseline - Baseline.txt
+
+BFS_File - PageRank2B_G1.txt
+DFS_File - PageRank2B_G2.txt
+
+Comparision of Baseline and BFS_File
+1) Observing the two files, it is evident that the links that are visited, the Baseline file has scores realtively lesser
+   than the scores in the BFS_File
+2) Bunch of links in the Baseline file are visited by the teleportation technique higher up when compared to the BFS_File   
+3) StrongRank, i.e the links that are relevant to the seed URL seem to appear almost in the same order as the Baseline
+4) WeakRanked, i.e the files that are ranked lowest are visited in different orders by the Baseline and the BFS_File
+
+Comparision of Baseline and DFS_File
+1) Observing the files its evident that the links are by far very different
+2) The PageRanks of links in the Baseline are lesser when compared to the scores in the DFS_File
+3) For links that are almost similar, the pagerank of DFS_File is greater compared to the Baseline
+
+--------------------
+Task 2C - Question3
+--------------------
+
+Baseline - Baseline.txt
+
+BFS_File - InLinksSortG1.txt
+DFS_File - InLinksSortG2.txt
+
+Pros
+-----
+1) The calculation of in-links counts to a particular Document is easier/faster when compared to the calculation of the Page Rank
+2) Every count.in-link to page is considered a vote of support. The page is likely to be visited first than the pages without many in-links
+   Links relevant to the seed URL are visited as top choices
+
+Cons
+-----
+1) A page can be considered important even if there are spam links pointing to the page, without any relevant content
+2) If the Document has more in-links, the algorithm considers it important but there could be other
+   pages that are more important (According to PageRank calculation)
+3) Page Rank takes into consideration both the damping_factor and the in_links theyby increasing the importance of the page   

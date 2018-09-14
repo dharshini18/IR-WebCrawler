@@ -1,0 +1,695 @@
+limited X-ray_telescope.txt 2 295 679 
+all X-ray_telescope.txt 2 1537 1620 
+concept X-ray_telescope.txt 1 6 
+mwpc X-ray_telescope.txt 1 887 
+ceramic X-ray_telescope.txt 1 258 
+dynamic X-ray_telescope.txt 1 1101 
+focus X-ray_telescope.txt 3 187 1075 1404 
+0.210 X-ray_telescope.txt 1 1065 
+existing X-ray_telescope.txt 2 97 211 
+four X-ray_telescope.txt 2 638 871 
+spiders X-ray_telescope.txt 1 1325 
+oso X-ray_telescope.txt 1 604 
+consists X-ray_telescope.txt 1 1309 
+layers X-ray_telescope.txt 1 356 
+whose X-ray_telescope.txt 1 112 
+inverse X-ray_telescope.txt 1 301 
+technique X-ray_telescope.txt 1 404 
+nasa/goddard X-ray_telescope.txt 1 1646 
+to X-ray_telescope.txt 25 17 27 36 130 186 246 346 350 500 684 855 862 1074 1085 1117 1148 1212 1238 1260 1343 1416 1477 1531 1631 1679 
+ti X-ray_telescope.txt 1 1689 
+36.049 X-ray_telescope.txt 1 556 
+returning X-ray_telescope.txt 1 1611 
+modes X-ray_telescope.txt 1 728 
+results X-ray_telescope.txt 1 418 
+electron X-ray_telescope.txt 1 1199 
+categories X-ray_telescope.txt 2 1715 1717 
+scintillators X-ray_telescope.txt 1 499 
+2070 X-ray_telescope.txt 1 1139 
+internally X-ray_telescope.txt 1 1253 
+level X-ray_telescope.txt 1 354 
+list X-ray_telescope.txt 1 539 
+tubes X-ray_telescope.txt 1 1194 
+large X-ray_telescope.txt 1 1557 
+solid X-ray_telescope.txt 1 1017 
+optics X-ray_telescope.txt 15 59 134 139 147 228 248 250 371 423 453 589 1206 1447 1468 1574 
+mm X-ray_telescope.txt 4 1163 1218 1336 1345 
+limitations X-ray_telescope.txt 1 222 
+encloses X-ray_telescope.txt 1 1281 
+employing X-ray_telescope.txt 2 533 1463 
+191 X-ray_telescope.txt 1 1342 
+post-processing X-ray_telescope.txt 1 469 
+design X-ray_telescope.txt 2 220 417 
+assembly X-ray_telescope.txt 1 1288 
+barrier X-ray_telescope.txt 1 1259 
+opaque X-ray_telescope.txt 1 35 
+sun X-ray_telescope.txt 1 1483 
+section X-ray_telescope.txt 1 561 
+sts-35 X-ray_telescope.txt 1 971 
+launch X-ray_telescope.txt 1 566 
+seconds X-ray_telescope.txt 2 1122 1140 
+experiment X-ray_telescope.txt 1 1474 
+above X-ray_telescope.txt 1 29 
+new X-ray_telescope.txt 1 332 
+consisting X-ray_telescope.txt 1 879 
+counters X-ray_telescope.txt 3 492 497 642 
+coefficient X-ray_telescope.txt 1 1242 
+nustar X-ray_telescope.txt 4 158 341 1648 1676 
+degree X-ray_telescope.txt 1 238 
+arcsec X-ray_telescope.txt 3 1372 1398 1433 
+respectively X-ray_telescope.txt 1 928 
+salyut X-ray_telescope.txt 1 634 
+ionization X-ray_telescope.txt 1 494 
+magnetism X-ray_telescope.txt 1 1695 
+objects X-ray_telescope.txt 2 20 1624 
+focused X-ray_telescope.txt 1 163 
+mcrab X-ray_telescope.txt 1 942 
+others X-ray_telescope.txt 1 1552 
+active X-ray_telescope.txt 1 1561 
+layout X-ray_telescope.txt 1 549 
+along X-ray_telescope.txt 1 722 
+extreme X-ray_telescope.txt 1 1694 
+obtained X-ray_telescope.txt 1 1521 
+great X-ray_telescope.txt 1 520 
+high-resolution X-ray_telescope.txt 2 1522 1617 
+study X-ray_telescope.txt 1 1132 
+larger X-ray_telescope.txt 2 439 753 
+37 X-ray_telescope.txt 1 669 
+ineffective X-ray_telescope.txt 1 455 
+survey X-ray_telescope.txt 1 734 
+contaminants X-ray_telescope.txt 1 1269 
+diameter X-ray_telescope.txt 5 1032 1037 1166 1219 1375 
+0.312 X-ray_telescope.txt 1 991 
+layer X-ray_telescope.txt 1 266 
+magnitude X-ray_telescope.txt 1 1109 
+apj X-ray_telescope.txt 2 1488 1516 
+visible X-ray_telescope.txt 1 240 
+2000s X-ray_telescope.txt 1 317 
+resolutions X-ray_telescope.txt 1 919 
+total X-ray_telescope.txt 5 285 307 648 1029 1038 
+orientation X-ray_telescope.txt 2 730 732 
+3.15.9 X-ray_telescope.txt 1 744 
+use X-ray_telescope.txt 1 509 
+from X-ray_telescope.txt 9 491 824 1141 1341 1529 1562 1629 1639 1686 
+would X-ray_telescope.txt 1 1697 
+multi-layered X-ray_telescope.txt 1 333 
+351300 X-ray_telescope.txt 1 785 
+two X-ray_telescope.txt 4 579 594 1010 1229 
+supermassive X-ray_telescope.txt 1 167 
+camera X-ray_telescope.txt 3 840 1208 1301 
+totality X-ray_telescope.txt 1 209 
+6 X-ray_telescope.txt 2 926 1007 
+aperture X-ray_telescope.txt 3 376 401 408 
+7550 X-ray_telescope.txt 1 615 
+type X-ray_telescope.txt 3 225 1465 1509 
+0.001 X-ray_telescope.txt 1 935 
+more X-ray_telescope.txt 3 1104 1419 1602 
+flat X-ray_telescope.txt 1 407 
+ester X-ray_telescope.txt 1 1227 
+door X-ray_telescope.txt 1 1287 
+composite X-ray_telescope.txt 2 1025 1249 
+occurred X-ray_telescope.txt 1 721 
+missile X-ray_telescope.txt 1 571 
+glass X-ray_telescope.txt 1 355 
+carrying X-ray_telescope.txt 1 557 
+8 X-ray_telescope.txt 1 815 
+known X-ray_telescope.txt 1 1497 
+90 X-ray_telescope.txt 1 998 
+hole X-ray_telescope.txt 1 169 
+mounted X-ray_telescope.txt 2 42 693 
+producing X-ray_telescope.txt 1 904 
+must X-ray_telescope.txt 1 40 
+1991 X-ray_telescope.txt 1 575 
+high X-ray_telescope.txt 3 44 1608 1674 
+kirkpartick-baez X-ray_telescope.txt 1 198 
+trackers X-ray_telescope.txt 1 1291 
+this X-ray_telescope.txt 7 224 278 292 344 353 403 416 
+inertial X-ray_telescope.txt 1 729 
+work X-ray_telescope.txt 1 280 
+iridium X-ray_telescope.txt 1 274 
+erg X-ray_telescope.txt 1 1383 
+thin X-ray_telescope.txt 1 265 
+ms X-ray_telescope.txt 2 922 953 
+metal X-ray_telescope.txt 1 260 
+history X-ray_telescope.txt 2 1448 1455 
+point X-ray_telescope.txt 1 1391 
+heart X-ray_telescope.txt 1 172 
+links X-ray_telescope.txt 1 1713 
+mirrors X-ray_telescope.txt 9 151 156 184 253 275 335 1283 1317 1329 
+0.1 X-ray_telescope.txt 1 1530 
+0.2 X-ray_telescope.txt 1 763 
+0.5 X-ray_telescope.txt 2 1613 1630 
+discovery X-ray_telescope.txt 1 1143 
+reconstructed X-ray_telescope.txt 1 467 
+pushed X-ray_telescope.txt 1 343 
+slit X-ray_telescope.txt 1 682 
+employs X-ray_telescope.txt 2 213 399 
+230 X-ray_telescope.txt 1 1517 
+midex X-ray_telescope.txt 2 1055 1063 
+1977-1979 X-ray_telescope.txt 1 1547 
+rather X-ray_telescope.txt 1 466 
+co-aligned X-ray_telescope.txt 1 1011 
+sic X-ray_telescope.txt 1 369 
+elliptical X-ray_telescope.txt 1 1609 
+aft X-ray_telescope.txt 2 1192 1294 
+5.99.6 X-ray_telescope.txt 1 746 
+142 X-ray_telescope.txt 1 1489 
+baffles X-ray_telescope.txt 1 1305 
+may X-ray_telescope.txt 1 574 
+earlier X-ray_telescope.txt 1 378 
+derived X-ray_telescope.txt 1 823 
+high-energy X-ray_telescope.txt 2 177 1667 
+reflect X-ray_telescope.txt 1 351 
+hence X-ray_telescope.txt 1 1428 
+plane X-ray_telescope.txt 3 194 596 1300 
+designed X-ray_telescope.txt 3 16 1084 1237 
+spectrometer X-ray_telescope.txt 1 1019 
+data X-ray_telescope.txt 1 735 
+types X-ray_telescope.txt 1 1538 
+a X-ray_telescope.txt 36 12 81 109 264 268 406 438 607 647 681 795 828 832 881 890 905 932 987 994 1014 1022 1070 1078 1099 1127 1158 1165 1277 1359 1396 1418 1472 1507 1566 1607 1666 
+effective X-ray_telescope.txt 6 612 622 666 789 898 1351 
+light X-ray_telescope.txt 4 179 288 330 349 
+counter X-ray_telescope.txt 1 886 
+element X-ray_telescope.txt 1 1173 
+provide X-ray_telescope.txt 1 1417 
+si X-ray_telescope.txt 1 363 
+allow X-ray_telescope.txt 1 251 
+lined X-ray_telescope.txt 1 1252 
+order X-ray_telescope.txt 1 26 
+typical X-ray_telescope.txt 1 1128 
+remnants X-ray_telescope.txt 1 1540 
+over X-ray_telescope.txt 2 986 1098 
+electroformed X-ray_telescope.txt 1 1332 
+mission X-ray_telescope.txt 2 1056 1064 
+years X-ray_telescope.txt 1 1605 
+timing X-ray_telescope.txt 1 868 
+6.5 X-ray_telescope.txt 1 621 
+filters X-ray_telescope.txt 1 125 
+japan X-ray_telescope.txt 1 1595 
+fwhm X-ray_telescope.txt 1 687 
+its X-ray_telescope.txt 2 611 819 
+galaxy X-ray_telescope.txt 1 175 
+exosat X-ray_telescope.txt 2 576 584 
+1 X-ray_telescope.txt 3 237 941 1001 
+outer X-ray_telescope.txt 1 1232 
+monitor X-ray_telescope.txt 1 1205 
+22 X-ray_telescope.txt 1 924 
+decay X-ray_telescope.txt 1 1687 
+energies X-ray_telescope.txt 1 449 
+temporal X-ray_telescope.txt 1 916 
+filin X-ray_telescope.txt 2 626 630 
+offers X-ray_telescope.txt 1 437 
+covered X-ray_telescope.txt 2 781 850 
+weeks X-ray_telescope.txt 1 1149 
+main X-ray_telescope.txt 4 136 373 475 537 
+pixel X-ray_telescope.txt 1 1034 
+2012 X-ray_telescope.txt 2 1660 1706 
+designs X-ray_telescope.txt 1 85 
+views X-ray_telescope.txt 1 164 
+material X-ray_telescope.txt 1 270 
+outgassing X-ray_telescope.txt 1 1263 
+layup X-ray_telescope.txt 1 1235 
+band X-ray_telescope.txt 1 960 
+front X-ray_telescope.txt 3 412 1183 1322 
+nested X-ray_telescope.txt 1 1312 
+association X-ray_telescope.txt 1 826 
+structural X-ray_telescope.txt 1 1172 
+eight-hour X-ray_telescope.txt 1 945 
+edit X-ray_telescope.txt 17 135 157 372 474 536 577 601 628 772 845 957 1057 1438 1452 1709 1711 1714 
+capability X-ray_telescope.txt 1 516 
+bursts X-ray_telescope.txt 1 1094 
+rockets X-ray_telescope.txt 1 46 
+each X-ray_telescope.txt 4 117 878 894 1020 
+heavy X-ray_telescope.txt 1 1567 
+shuttle X-ray_telescope.txt 1 969 
+telescope X-ray_telescope.txt 29 1 9 13 56 69 342 600 610 627 631 771 780 844 849 877 956 962 984 1073 1152 1186 1193 1220 1272 1275 1437 1462 1511 1662 
+gamma-ray X-ray_telescope.txt 2 778 1093 
+energy X-ray_telescope.txt 15 297 311 523 613 656 740 783 812 852 918 989 996 1067 1527 1627 
+hard X-ray_telescope.txt 3 598 608 774 
+grbs X-ray_telescope.txt 3 1095 1116 1137 
+sands X-ray_telescope.txt 1 570 
+entering X-ray_telescope.txt 1 67 
+geiger X-ray_telescope.txt 1 496 
+our X-ray_telescope.txt 1 174 
+operation X-ray_telescope.txt 1 725 
+ev X-ray_telescope.txt 2 999 1005 
+space X-ray_telescope.txt 5 542 968 1569 1591 1655 
+payload X-ray_telescope.txt 1 977 
+7 X-ray_telescope.txt 3 605 1049 1106 
+1979-1981 X-ray_telescope.txt 1 1550 
+supports X-ray_telescope.txt 3 1188 1285 1297 
+fiber X-ray_telescope.txt 1 1234 
+multi-coated X-ray_telescope.txt 1 358 
+state X-ray_telescope.txt 1 1018 
+1274 X-ray_telescope.txt 1 1490 
+galaxies X-ray_telescope.txt 2 1541 1545 
+imaging X-ray_telescope.txt 6 425 458 501 581 820 859 
+sensors X-ray_telescope.txt 2 507 692 
+beginning X-ray_telescope.txt 1 1138 
+telescopes X-ray_telescope.txt 12 39 98 212 243 380 489 535 543 582 1012 1451 1656 
+collimators X-ray_telescope.txt 2 388 390 
+e.g X-ray_telescope.txt 2 197 386 
+shells X-ray_telescope.txt 1 1334 
+days X-ray_telescope.txt 2 398 1147 
+silicon X-ray_telescope.txt 2 362 367 
+length X-ray_telescope.txt 2 1153 1160 
+flown X-ray_telescope.txt 1 965 
+place X-ray_telescope.txt 1 1320 
+aboard X-ray_telescope.txt 1 633 
+w X-ray_telescope.txt 1 361 
+511 X-ray_telescope.txt 1 817 
+onto X-ray_telescope.txt 1 1077 
+wolter X-ray_telescope.txt 6 218 586 1071 1313 1464 1508 
+first X-ray_telescope.txt 4 162 981 1460 1502 
+thermoelectrically X-ray_telescope.txt 1 1079 
+rocket-borne X-ray_telescope.txt 1 1473 
+450 X-ray_telescope.txt 1 652 
+primary X-ray_telescope.txt 1 1171 
+one X-ray_telescope.txt 2 661 1650 
+channels X-ray_telescope.txt 1 741 
+smaller X-ray_telescope.txt 1 756 
+another X-ray_telescope.txt 1 1556 
+discriminator X-ray_telescope.txt 1 759 
+fluxes X-ray_telescope.txt 1 1088 
+quality X-ray_telescope.txt 1 426 
+angular X-ray_telescope.txt 3 806 911 1368 
+earths X-ray_telescope.txt 1 31 
+utilization X-ray_telescope.txt 1 181 
+top X-ray_telescope.txt 1 563 
+burst X-ray_telescope.txt 1 1142 
+system X-ray_telescope.txt 1 111 
+approximately X-ray_telescope.txt 1 901 
+einstein X-ray_telescope.txt 1 1493 
+station X-ray_telescope.txt 2 699 714 
+white X-ray_telescope.txt 1 569 
+ranging X-ray_telescope.txt 2 490 1340 
+x-rays X-ray_telescope.txt 2 37 1076 
+that X-ray_telescope.txt 6 14 63 127 512 1187 1554 
+direct X-ray_telescope.txt 1 461 
+optical X-ray_telescope.txt 3 691 1177 1304 
+focusing X-ray_telescope.txt 7 60 155 249 422 954 982 1572 
+than X-ray_telescope.txt 4 239 421 1105 1603 
+detector-telescope X-ray_telescope.txt 1 110 
+10 X-ray_telescope.txt 5 686 1121 1382 1387 1604 
+observatory X-ray_telescope.txt 6 5 1215 1494 1505 1570 1578 
+15 X-ray_telescope.txt 3 326 809 1397 
+target X-ray_telescope.txt 1 1124 
+sections X-ray_telescope.txt 1 1230 
+project X-ray_telescope.txt 1 1558 
+minimize X-ray_telescope.txt 1 1239 
+future X-ray_telescope.txt 1 530 
+1.15 X-ray_telescope.txt 1 1357 
+were X-ray_telescope.txt 9 357 381 591 711 736 822 870 920 1551 
+0.95 X-ray_telescope.txt 1 768 
+measure X-ray_telescope.txt 1 1086 
+russia X-ray_telescope.txt 1 1597 
+acquisition X-ray_telescope.txt 1 1125 
+result X-ray_telescope.txt 1 229 
+and X-ray_telescope.txt 48 70 79 86 119 152 309 320 424 427 443 590 660 708 733 748 767 776 794 831 860 867 917 923 1003 1023 1045 1090 1096 1130 1144 1164 1191 1201 1207 1284 1289 1292 1302 1323 1367 1542 1548 1588 1596 1616 1672 1682 1693 
+1.5 X-ray_telescope.txt 2 1043 1406 
+spectra X-ray_telescope.txt 2 1089 1618 
+1.8 X-ray_telescope.txt 2 908 909 
+spectrum X-ray_telescope.txt 1 24 
+defocused X-ray_telescope.txt 1 1412 
+have X-ray_telescope.txt 4 88 201 482 1698 
+chambers X-ray_telescope.txt 1 495 
+anger X-ray_telescope.txt 1 839 
+seen X-ray_telescope.txt 1 1643 
+sounding X-ray_telescope.txt 1 554 
+orders X-ray_telescope.txt 1 1107 
+contents X-ray_telescope.txt 1 133 
+instrumentation X-ray_telescope.txt 1 689 
+angle X-ray_telescope.txt 1 305 
+1965 X-ray_telescope.txt 2 1476 1491 
+gravity X-ray_telescope.txt 1 1692 
+silvery X-ray_telescope.txt 1 560 
+polarization X-ray_telescope.txt 1 1701 
+also X-ray_telescope.txt 4 456 1454 1496 1708 
+internal X-ray_telescope.txt 2 1203 1303 
+which X-ray_telescope.txt 7 33 74 645 663 1280 1296 1564 
+interior X-ray_telescope.txt 1 1273 
+xrt X-ray_telescope.txt 6 10 553 1051 1059 1113 1415 
+detector X-ray_telescope.txt 7 72 193 415 479 757 835 1021 
+accuracy X-ray_telescope.txt 2 521 1119 
+added X-ray_telescope.txt 1 515 
+multiple X-ray_telescope.txt 1 104 
+multi-wire X-ray_telescope.txt 1 884 
+normal X-ray_telescope.txt 2 1434 1443 
+incidence X-ray_telescope.txt 6 150 291 452 1316 1435 1444 
+micro-calorimeters X-ray_telescope.txt 1 511 
+most X-ray_telescope.txt 2 141 393 
+ccd X-ray_telescope.txt 1 1081 
+measured X-ray_telescope.txt 2 80 1699 
+79 X-ray_telescope.txt 2 347 1670 
+78 X-ray_telescope.txt 1 1683 
+patterned X-ray_telescope.txt 1 409 
+vapor X-ray_telescope.txt 2 1258 1266 
+ura X-ray_telescope.txt 1 891 
+xmm-newton X-ray_telescope.txt 1 321 
+into X-ray_telescope.txt 1 1270 
+flow X-ray_telescope.txt 1 640 
+agencies X-ray_telescope.txt 1 1592 
+part X-ray_telescope.txt 1 973 
+principle X-ray_telescope.txt 1 841 
+latest X-ray_telescope.txt 1 1653 
+sigma X-ray_telescope.txt 3 544 770 779 
+atmosphere X-ray_telescope.txt 1 32 
+nebula X-ray_telescope.txt 1 939 
+grb X-ray_telescope.txt 1 1129 
+gold X-ray_telescope.txt 1 272 
+longitudinal X-ray_telescope.txt 1 1241 
+rotating X-ray_telescope.txt 1 387 
+relation X-ray_telescope.txt 1 302 
+afterglows X-ray_telescope.txt 1 1097 
+ccds X-ray_telescope.txt 1 504 
+uniform X-ray_telescope.txt 1 1420 
+ground X-ray_telescope.txt 1 715 
+based X-ray_telescope.txt 3 276 716 836 
+210 X-ray_telescope.txt 1 658 
+outside X-ray_telescope.txt 1 696 
+540 X-ray_telescope.txt 1 1518 
+black X-ray_telescope.txt 1 168 
+removable X-ray_telescope.txt 1 123 
+equipped X-ray_telescope.txt 1 592 
+employed X-ray_telescope.txt 4 205 446 484 1470 
+thousands X-ray_telescope.txt 1 1612 
+astronomical X-ray_telescope.txt 1 1623 
+compounded X-ray_telescope.txt 1 102 
+get X-ray_telescope.txt 1 28 
+on-axis X-ray_telescope.txt 1 1403 
+modules X-ray_telescope.txt 1 873 
+overall X-ray_telescope.txt 1 1151 
+120 X-ray_telescope.txt 1 1354 
+orbiting X-ray_telescope.txt 1 1503 
+b X-ray_telescope.txt 1 1024 
+international X-ray_telescope.txt 1 3 
+tungsten X-ray_telescope.txt 1 360 
+sili X-ray_telescope.txt 1 1016 
+onboard X-ray_telescope.txt 1 583 
+geometries X-ray_telescope.txt 1 196 
+aluminum X-ray_telescope.txt 2 1176 1256 
+covering X-ray_telescope.txt 1 1103 
+fields X-ray_telescope.txt 1 233 
+thermal X-ray_telescope.txt 1 1244 
+common X-ray_telescope.txt 1 142 
+18 X-ray_telescope.txt 2 1371 1432 
+fixed X-ray_telescope.txt 1 121 
+where X-ray_telescope.txt 1 450 
+view X-ray_telescope.txt 6 235 442 619 800 1362 1427 
+set X-ray_telescope.txt 1 761 
+achieved X-ray_telescope.txt 1 931 
+sensitivity X-ray_telescope.txt 3 797 933 1379 
+module X-ray_telescope.txt 3 895 1197 1308 
+maximum X-ray_telescope.txt 3 796 805 948 
+detection X-ray_telescope.txt 2 649 1378 
+see X-ray_telescope.txt 2 1453 1707 
+electronvolt X-ray_telescope.txt 1 328 
+are X-ray_telescope.txt 4 57 101 148 1330 
+operated X-ray_telescope.txt 1 1600 
+collects X-ray_telescope.txt 1 64 
+best X-ray_telescope.txt 1 1402 
+techniques X-ray_telescope.txt 1 385 
+wire X-ray_telescope.txt 1 389 
+currently X-ray_telescope.txt 1 394 
+wikipedia X-ray_telescope.txt 1 2 
+artificial X-ray_telescope.txt 1 49 
+3 X-ray_telescope.txt 2 685 1669 
+r X-ray_telescope.txt 2 1484 1512 
+identification X-ray_telescope.txt 1 428 
+in-flight X-ray_telescope.txt 1 724 
+between X-ray_telescope.txt 1 303 
+19781981 X-ray_telescope.txt 1 1495 
+graphite X-ray_telescope.txt 2 1225 1233 
+supernova X-ray_telescope.txt 1 1539 
+wide X-ray_telescope.txt 1 1100 
+europe X-ray_telescope.txt 1 1594 
+spectrometers X-ray_telescope.txt 1 126 
+complement X-ray_telescope.txt 1 116 
+points X-ray_telescope.txt 1 1211 
+however X-ray_telescope.txt 1 435 
+poorer X-ray_telescope.txt 1 434 
+incident X-ray_telescope.txt 1 189 
+interface X-ray_telescope.txt 1 1179 
+article X-ray_telescope.txt 4 137 374 476 538 
+swift X-ray_telescope.txt 4 552 1054 1062 1214 
+pixels X-ray_telescope.txt 1 1028 
+suggested X-ray_telescope.txt 1 203 
+water X-ray_telescope.txt 1 1265 
+missions X-ray_telescope.txt 2 531 532 
+many X-ray_telescope.txt 2 94 1634 
+against X-ray_telescope.txt 1 1262 
+sensitive X-ray_telescope.txt 4 420 834 883 1678 
+s X-ray_telescope.txt 2 1385 1388 
+planned X-ray_telescope.txt 1 528 
+operating X-ray_telescope.txt 1 985 
+kinds X-ray_telescope.txt 1 1621 
+among X-ray_telescope.txt 1 1580 
+passively X-ray_telescope.txt 1 1327 
+cm X-ray_telescope.txt 9 625 653 670 793 903 1041 1047 1355 1384 
+can X-ray_telescope.txt 5 254 444 1114 1131 1641 
+simple X-ray_telescope.txt 1 383 
+narrower X-ray_telescope.txt 1 232 
+60 X-ray_telescope.txt 1 856 
+64 X-ray_telescope.txt 1 624 
+gold-coated X-ray_telescope.txt 1 1331 
+kev X-ray_telescope.txt 29 329 348 616 659 675 743 745 747 750 764 766 769 786 818 857 864 927 992 1002 1008 1044 1050 1066 1358 1407 1533 1633 1671 1684 
+68 X-ray_telescope.txt 1 1681 
+observatories X-ray_telescope.txt 2 323 1584 
+grazing X-ray_telescope.txt 4 149 290 451 1315 
+platinum X-ray_telescope.txt 1 365 
+8.0 X-ray_telescope.txt 1 1632 
+pt X-ray_telescope.txt 1 366 
+basis X-ray_telescope.txt 1 283 
+mounting X-ray_telescope.txt 1 1210 
+three X-ray_telescope.txt 2 643 727 
+been X-ray_telescope.txt 3 89 202 483 
+much X-ray_telescope.txt 2 231 433 
+508 X-ray_telescope.txt 1 1217 
+basic X-ray_telescope.txt 1 52 
+collected X-ray_telescope.txt 2 78 737 
+reflective X-ray_telescope.txt 2 269 1445 
+4 X-ray_telescope.txt 7 635 739 854 861 952 1036 1532 
+website X-ray_telescope.txt 1 1647 
+nickel X-ray_telescope.txt 1 1333 
+100 X-ray_telescope.txt 1 863 
+gas X-ray_telescope.txt 1 639 
+grille X-ray_telescope.txt 1 410 
+observe X-ray_telescope.txt 1 18 
+external X-ray_telescope.txt 1 1712 
+clusters X-ray_telescope.txt 1 1543 
+an X-ray_telescope.txt 9 7 665 788 897 944 1175 1255 1293 1350 
+hidden X-ray_telescope.txt 1 1716 
+present X-ray_telescope.txt 1 397 
+bbxrt X-ray_telescope.txt 2 963 978 
+supernovae X-ray_telescope.txt 1 1691 
+these X-ray_telescope.txt 2 92 161 
+while X-ray_telescope.txt 1 377 
+launched X-ray_telescope.txt 2 1585 1657 
+collimator X-ray_telescope.txt 1 683 
+low-energy X-ray_telescope.txt 2 580 777 
+almost X-ray_telescope.txt 1 207 
+allows X-ray_telescope.txt 1 185 
+is X-ray_telescope.txt 19 11 15 34 77 294 432 459 465 527 1154 1174 1222 1236 1251 1380 1410 1579 1649 1677 
+it X-ray_telescope.txt 3 436 1082 1520 
+surface X-ray_telescope.txt 2 650 667 
+canceled X-ray_telescope.txt 1 1704 
+in X-ray_telescope.txt 29 21 25 145 176 230 296 314 411 573 654 726 738 751 943 1110 1228 1319 1386 1413 1471 1475 1525 1553 1606 1625 1658 1665 1690 1705 
+technology X-ray_telescope.txt 2 293 392 
+arc-second X-ray_telescope.txt 1 1614 
+orbital X-ray_telescope.txt 1 731 
+different X-ray_telescope.txt 2 84 195 
+radiation X-ray_telescope.txt 6 66 76 190 310 526 1664 
+17.4 X-ray_telescope.txt 1 1031 
+units X-ray_telescope.txt 1 710 
+several X-ray_telescope.txt 1 480 
+higher X-ray_telescope.txt 1 448 
+satellite X-ray_telescope.txt 1 1583 
+used X-ray_telescope.txt 5 90 144 395 585 1442 
+columbia X-ray_telescope.txt 1 970 
+psf X-ray_telescope.txt 3 1394 1421 1431 
+rail X-ray_telescope.txt 1 567 
+counterparts X-ray_telescope.txt 1 1135 
+levels X-ray_telescope.txt 1 760 
+uses X-ray_telescope.txt 2 405 1069 
+focal X-ray_telescope.txt 3 595 1159 1299 
+recent X-ray_telescope.txt 1 1582 
+reflection X-ray_telescope.txt 2 286 308 
+functionalities X-ray_telescope.txt 1 129 
+i X-ray_telescope.txt 6 219 587 1072 1314 1466 1510 
+calibration X-ray_telescope.txt 1 717 
+segmented X-ray_telescope.txt 1 1015 
+masks X-ray_telescope.txt 1 402 
+position X-ray_telescope.txt 3 431 833 882 
+the X-ray_telescope.txt 120 22 30 51 55 58 65 68 71 75 96 131 140 166 171 180 188 192 208 217 221 252 282 300 312 315 336 340 391 414 457 463 471 508 514 522 525 548 551 558 565 578 629 655 672 676 688 695 698 702 705 713 719 752 755 773 782 804 811 825 838 846 851 875 910 929 937 947 958 967 975 980 1009 1053 1058 1061 1087 1112 1133 1150 1170 1182 1185 1189 1195 1198 1202 1213 1216 1231 1240 1247 1271 1274 1282 1286 1298 1306 1326 1346 1377 1389 1401 1408 1414 1423 1429 1459 1482 1492 1501 1526 1575 1581 1590 1626 1636 1645 1652 1661 1680 
+800 X-ray_telescope.txt 1 792 
+heao-2 X-ray_telescope.txt 1 1499 
+collimating X-ray_telescope.txt 3 62 370 384 
+consisted X-ray_telescope.txt 1 636 
+rocket X-ray_telescope.txt 1 555 
+less X-ray_telescope.txt 1 419 
+obtain X-ray_telescope.txt 1 1478 
+765 X-ray_telescope.txt 1 1040 
+satellites X-ray_telescope.txt 2 50 100 
+kilo X-ray_telescope.txt 1 327 
+art-p X-ray_telescope.txt 4 546 842 847 876 
+captured X-ray_telescope.txt 1 160 
+gems X-ray_telescope.txt 1 1696 
+entire X-ray_telescope.txt 1 1424 
+1979 X-ray_telescope.txt 1 1519 
+supply X-ray_telescope.txt 1 707 
+had X-ray_telescope.txt 3 646 758 896 
+capabilities X-ray_telescope.txt 2 113 821 
+bench X-ray_telescope.txt 1 1178 
+signals X-ray_telescope.txt 1 1685 
+instrument X-ray_telescope.txt 5 132 545 547 930 1430 
+add X-ray_telescope.txt 2 114 128 
+spread X-ray_telescope.txt 1 1392 
+board X-ray_telescope.txt 1 603 
+5 X-ray_telescope.txt 3 802 803 914 
+alignment X-ray_telescope.txt 1 1204 
+has X-ray_telescope.txt 6 159 664 1276 1349 1395 1599 
+balloons X-ray_telescope.txt 1 47 
+identical X-ray_telescope.txt 1 872 
+spectacular X-ray_telescope.txt 1 1637 
+measurement X-ray_telescope.txt 1 709 
+early X-ray_telescope.txt 1 316 
+fiber/cyanate X-ray_telescope.txt 1 1226 
+2 X-ray_telescope.txt 1 1381 
+five X-ray_telescope.txt 1 1027 
+0.51 X-ray_telescope.txt 1 1168 
+using X-ray_telescope.txt 2 331 382 
+0.55 X-ray_telescope.txt 1 765 
+rear X-ray_telescope.txt 1 1324 
+like X-ray_telescope.txt 3 493 503 1439 
+signal X-ray_telescope.txt 1 472 
+flux X-ray_telescope.txt 1 1111 
+epoxy X-ray_telescope.txt 1 1268 
+become X-ray_telescope.txt 1 454 
+cooled X-ray_telescope.txt 1 1080 
+methods X-ray_telescope.txt 1 143 
+some X-ray_telescope.txt 1 214 
+nixt X-ray_telescope.txt 1 1441 
+respect X-ray_telescope.txt 1 245 
+images X-ray_telescope.txt 4 1480 1524 1615 1638 
+imager X-ray_telescope.txt 1 1348 
+3.9 X-ray_telescope.txt 1 921 
+fov X-ray_telescope.txt 5 620 677 906 1030 1035 
+pinpoint X-ray_telescope.txt 1 1115 
+for X-ray_telescope.txt 12 91 306 339 487 529 671 858 865 1126 1146 1422 1601 
+deflector X-ray_telescope.txt 1 1200 
+broad X-ray_telescope.txt 2 959 988 
+tube X-ray_telescope.txt 4 1221 1250 1279 1295 
+0.22 X-ray_telescope.txt 1 674 
+critical X-ray_telescope.txt 1 304 
+3.500 X-ray_telescope.txt 1 1162 
+1990-1999 X-ray_telescope.txt 1 1563 
+lobster-eye X-ray_telescope.txt 1 200 
+chandra X-ray_telescope.txt 4 319 1576 1598 1640 
+moderate X-ray_telescope.txt 1 995 
+measuring X-ray_telescope.txt 1 518 
+be X-ray_telescope.txt 4 41 255 445 1642 
+coated X-ray_telescope.txt 2 262 334 
+power X-ray_telescope.txt 1 706 
+300 X-ray_telescope.txt 2 1046 1344 
+rosat X-ray_telescope.txt 1 1560 
+continuing X-ray_telescope.txt 1 1145 
+expansion X-ray_telescope.txt 1 1245 
+flange X-ray_telescope.txt 1 1180 
+4.67 X-ray_telescope.txt 1 1155 
+carbide X-ray_telescope.txt 1 368 
+by X-ray_telescope.txt 6 299 468 680 1321 1586 1589 
+on X-ray_telescope.txt 16 43 73 99 191 277 281 396 485 564 602 694 837 966 1052 1060 1644 
+about X-ray_telescope.txt 1 325 
+central X-ray_telescope.txt 1 1033 
+carried X-ray_telescope.txt 1 632 
+of X-ray_telescope.txt 74 54 83 95 103 108 165 173 182 210 216 223 226 234 257 267 284 287 413 429 441 470 510 517 524 540 550 618 637 644 651 662 668 697 718 791 799 801 827 874 880 900 907 934 936 974 1026 1092 1108 1123 1136 1161 1167 1184 1224 1243 1264 1310 1353 1361 1363 1370 1426 1449 1456 1481 1534 1536 1544 1593 1619 1622 1635 1651 1688 
+arcmin X-ray_telescope.txt 3 810 915 1366 
+23.6 X-ray_telescope.txt 2 1364 1365 
+range X-ray_telescope.txt 13 298 572 614 657 673 784 853 990 1068 1102 1528 1628 1668 
+plus X-ray_telescope.txt 1 1209 
+23.1 X-ray_telescope.txt 1 742 
+slightly X-ray_telescope.txt 1 1411 
+or X-ray_telescope.txt 14 48 61 106 115 122 199 204 241 259 273 364 498 505 1267 
+5-arcsec X-ray_telescope.txt 1 1118 
+grazing-incidence X-ray_telescope.txt 1 1467 
+image X-ray_telescope.txt 1 464 
+within X-ray_telescope.txt 1 1120 
+copies X-ray_telescope.txt 1 105 
+guard X-ray_telescope.txt 1 1261 
+references X-ray_telescope.txt 1 1710 
+heated X-ray_telescope.txt 1 1328 
+proportional X-ray_telescope.txt 2 641 885 
+diameters X-ray_telescope.txt 1 1339 
+29.6 X-ray_telescope.txt 1 749 
+additional X-ray_telescope.txt 1 120 
+area X-ray_telescope.txt 5 623 790 899 1039 1352 
+multilayer X-ray_telescope.txt 1 1446 
+altitude X-ray_telescope.txt 1 45 
+there X-ray_telescope.txt 1 869 
+long X-ray_telescope.txt 1 1337 
+collimated X-ray_telescope.txt 2 153 247 
+inner X-ray_telescope.txt 1 1248 
+stars X-ray_telescope.txt 1 1535 
+series X-ray_telescope.txt 1 1555 
+forward X-ray_telescope.txt 2 1190 1278 
+exposure X-ray_telescope.txt 1 946 
+was X-ray_telescope.txt 15 324 606 678 808 814 913 951 964 979 1083 1469 1500 1559 1565 1703 
+function X-ray_telescope.txt 1 1393 
+crab X-ray_telescope.txt 1 938 
+offer X-ray_telescope.txt 1 513 
+but X-ray_telescope.txt 3 206 462 1702 
+giacconi X-ray_telescope.txt 2 1485 1513 
+construction X-ray_telescope.txt 1 279 
+observes X-ray_telescope.txt 1 1663 
+technologies X-ray_telescope.txt 2 87 481 
+with X-ray_telescope.txt 18 244 263 318 359 519 593 701 723 787 889 993 1013 1157 1254 1338 1506 1571 1673 
+made X-ray_telescope.txt 2 256 1223 
+inside X-ray_telescope.txt 1 712 
+uv X-ray_telescope.txt 1 242 
+variations X-ray_telescope.txt 1 107 
+up X-ray_telescope.txt 1 345 
+limit X-ray_telescope.txt 1 313 
+spectroscopy X-ray_telescope.txt 1 866 
+lightcurves X-ray_telescope.txt 1 1091 
+x-ray X-ray_telescope.txt 41 0 4 8 23 38 138 146 178 183 227 322 337 379 477 488 534 541 588 599 609 703 775 843 848 955 961 983 1134 1347 1436 1450 1457 1461 1479 1504 1523 1568 1573 1577 1654 1700 
+astro-1 X-ray_telescope.txt 1 976 
+150 X-ray_telescope.txt 1 1004 
+600 X-ray_telescope.txt 2 902 1335 
+detectors X-ray_telescope.txt 7 473 486 502 597 704 720 754 
+mirror X-ray_telescope.txt 5 338 1196 1307 1390 1409 
+al X-ray_telescope.txt 2 1487 1515 
+mssta X-ray_telescope.txt 2 559 1440 
+as X-ray_telescope.txt 2 972 1498 
+held X-ray_telescope.txt 1 1318 
+at X-ray_telescope.txt 18 170 289 352 447 562 568 762 816 925 1000 1006 1042 1048 1181 1356 1373 1400 1405 
+et X-ray_telescope.txt 2 1486 1514 
+cmos X-ray_telescope.txt 1 506 
+variety X-ray_telescope.txt 1 82 
+not X-ray_telescope.txt 1 460 
+heao-1 X-ray_telescope.txt 1 1546 
+whereas X-ray_telescope.txt 1 1246 
+heao-3 X-ray_telescope.txt 1 1549 
+field X-ray_telescope.txt 5 440 617 798 1360 1425 
+other X-ray_telescope.txt 1 118 
+coded X-ray_telescope.txt 4 375 400 829 892 
+hpd X-ray_telescope.txt 2 1376 1399 
+elements X-ray_telescope.txt 3 53 93 124 
+star X-ray_telescope.txt 1 1290 
+june X-ray_telescope.txt 1 1659 
+m X-ray_telescope.txt 2 1156 1169 
+variation X-ray_telescope.txt 1 215 
+half-power X-ray_telescope.txt 1 1374 
+foil X-ray_telescope.txt 2 261 1257 
+included X-ray_telescope.txt 1 690 
+astronomy X-ray_telescope.txt 2 478 1458 
+source X-ray_telescope.txt 2 430 940 
+remote X-ray_telescope.txt 1 19 
+typically X-ray_telescope.txt 2 236 271 
+apertures X-ray_telescope.txt 1 154 
+mask X-ray_telescope.txt 2 830 893 
+orbit X-ray_telescope.txt 1 1610 
+together X-ray_telescope.txt 2 700 888 
+nasa X-ray_telescope.txt 1 1587 
+time X-ray_telescope.txt 1 949 
+12 X-ray_telescope.txt 1 1311 
+resolution X-ray_telescope.txt 7 807 813 912 950 997 1369 1675 

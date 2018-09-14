@@ -1,0 +1,169 @@
+slope Lunar_dome.txt 1 62 
+rounded Lunar_dome.txt 1 56 
+shield Lunar_dome.txt 1 19 
+vent Lunar_dome.txt 2 187 195 
+hortensius Lunar_dome.txt 1 231 
+results Lunar_dome.txt 1 157 
+through Lunar_dome.txt 2 173 184 
+mechanism Lunar_dome.txt 1 123 
+differs Lunar_dome.txt 1 125 
+earth Lunar_dome.txt 1 29 
+craterlet Lunar_dome.txt 1 95 
+localized Lunar_dome.txt 1 45 
+solitary Lunar_dome.txt 1 245 
+slow Lunar_dome.txt 1 50 
+20 Lunar_dome.txt 1 85 
+hills Lunar_dome.txt 1 211 
+including Lunar_dome.txt 1 251 
+crater Lunar_dome.txt 2 196 283 
+examples Lunar_dome.txt 1 304 
+to Lunar_dome.txt 4 70 84 106 146 
+rich Lunar_dome.txt 1 41 
+crack Lunar_dome.txt 1 175 
+vents Lunar_dome.txt 1 46 
+812 Lunar_dome.txt 1 76 
+case Lunar_dome.txt 1 152 
+elevation Lunar_dome.txt 1 65 
+was Lunar_dome.txt 1 212 
+possible Lunar_dome.txt 1 216 
+possibly Lunar_dome.txt 1 39 
+they Lunar_dome.txt 3 32 73 117 
+15 Lunar_dome.txt 1 221 
+one Lunar_dome.txt 1 185 
+categories Lunar_dome.txt 1 311 
+mare-forming Lunar_dome.txt 1 128 
+fecunditatis Lunar_dome.txt 1 244 
+edit Lunar_dome.txt 3 305 307 310 
+chamber Lunar_dome.txt 1 142 
+t Lunar_dome.txt 1 233 
+contain Lunar_dome.txt 1 92 
+small Lunar_dome.txt 1 94 
+volcano Lunar_dome.txt 1 20 
+two Lunar_dome.txt 1 298 
+smaller Lunar_dome.txt 1 140 
+some Lunar_dome.txt 3 88 99 122 
+magma Lunar_dome.txt 2 141 170 
+meters Lunar_dome.txt 1 69 
+are Lunar_dome.txt 8 33 54 74 136 223 248 288 297 
+marius Lunar_dome.txt 1 210 
+closer Lunar_dome.txt 1 145 
+shown Lunar_dome.txt 1 105 
+for Lunar_dome.txt 1 153 
+wikipedia Lunar_dome.txt 1 2 
+moon Lunar_dome.txt 1 31 
+lunar Lunar_dome.txt 8 0 4 13 52 114 206 226 246 
+then Lunar_dome.txt 1 191 
+across Lunar_dome.txt 3 11 87 235 
+be Lunar_dome.txt 2 82 119 
+found Lunar_dome.txt 2 23 250 
+midpoint Lunar_dome.txt 1 72 
+dome Lunar_dome.txt 4 1 5 14 202 
+craters Lunar_dome.txt 2 230 265 
+pressure Lunar_dome.txt 1 161 
+wells Lunar_dome.txt 1 171 
+references Lunar_dome.txt 1 306 
+same Lunar_dome.txt 1 110 
+by Lunar_dome.txt 3 36 48 121 
+on Lunar_dome.txt 1 24 
+about Lunar_dome.txt 1 8 
+created Lunar_dome.txt 1 120 
+of Lunar_dome.txt 12 18 27 89 100 108 200 205 219 225 238 279 301 
+could Lunar_dome.txt 1 118 
+domes Lunar_dome.txt 11 53 91 102 135 207 227 247 262 280 290 299 
+s Lunar_dome.txt 1 30 
+mons Lunar_dome.txt 3 239 256 302 
+concentrates Lunar_dome.txt 1 183 
+concentrations Lunar_dome.txt 1 224 
+gambart Lunar_dome.txt 1 266 
+gamma Lunar_dome.txt 1 258 
+diameter Lunar_dome.txt 1 79 
+followed Lunar_dome.txt 1 47 
+features Lunar_dome.txt 1 58 
+primary Lunar_dome.txt 1 186 
+highly Lunar_dome.txt 1 37 
+rising Lunar_dome.txt 1 63 
+mare Lunar_dome.txt 2 155 243 
+from Lunar_dome.txt 3 44 126 138 
+top Lunar_dome.txt 1 237 
+there Lunar_dome.txt 2 222 296 
+beer Lunar_dome.txt 1 268 
+been Lunar_dome.txt 1 104 
+few Lunar_dome.txt 1 67 
+cooling Lunar_dome.txt 1 51 
+cauchy Lunar_dome.txt 3 272 275 284 
+slowly Lunar_dome.txt 1 168 
+rmker Lunar_dome.txt 1 240 
+hundred Lunar_dome.txt 1 68 
+type Lunar_dome.txt 1 17 
+more Lunar_dome.txt 1 167 
+esam Lunar_dome.txt 1 303 
+form Lunar_dome.txt 1 276 
+that Lunar_dome.txt 4 21 124 133 143 
+formed Lunar_dome.txt 2 35 137 
+c Lunar_dome.txt 1 267 
+but Lunar_dome.txt 2 80 179 
+site Lunar_dome.txt 1 218 
+external Lunar_dome.txt 1 308 
+delta Lunar_dome.txt 1 260 
+arago Lunar_dome.txt 3 287 291 294 
+apollo Lunar_dome.txt 1 220 
+with Lunar_dome.txt 1 59 
+than Lunar_dome.txt 1 149 
+11 Lunar_dome.txt 1 9 
+wide Lunar_dome.txt 1 55 
+pi Lunar_dome.txt 3 7 253 255 
+landing Lunar_dome.txt 1 217 
+consist Lunar_dome.txt 1 107 
+cluster Lunar_dome.txt 1 204 
+these Lunar_dome.txt 1 134 
+viscous Lunar_dome.txt 1 38 
+this Lunar_dome.txt 2 156 188 
+up Lunar_dome.txt 2 83 172 
+near Lunar_dome.txt 4 228 263 281 286 
+can Lunar_dome.txt 2 81 190 
+result Lunar_dome.txt 1 192 
+and Lunar_dome.txt 8 162 232 241 259 261 269 273 293 
+tau Lunar_dome.txt 1 274 
+erupting Lunar_dome.txt 1 43 
+links Lunar_dome.txt 1 309 
+eventually Lunar_dome.txt 1 182 
+likewise Lunar_dome.txt 1 285 
+is Lunar_dome.txt 5 15 22 131 144 150 
+thus Lunar_dome.txt 1 116 
+it Lunar_dome.txt 1 130 
+surface Lunar_dome.txt 3 26 148 178 
+gentle Lunar_dome.txt 1 61 
+as Lunar_dome.txt 2 112 214 
+at Lunar_dome.txt 3 96 197 208 
+have Lunar_dome.txt 1 103 
+in Lunar_dome.txt 6 64 78 158 176 193 242 
+concentration Lunar_dome.txt 1 189 
+milichius Lunar_dome.txt 2 6 254 
+relatively Lunar_dome.txt 1 49 
+lava Lunar_dome.txt 2 42 165 
+also Lunar_dome.txt 1 249 
+mayer Lunar_dome.txt 1 234 
+circular Lunar_dome.txt 1 57 
+gruithuisen Lunar_dome.txt 1 257 
+kies Lunar_dome.txt 1 252 
+flows Lunar_dome.txt 2 129 166 
+beta Lunar_dome.txt 1 295 
+peak Lunar_dome.txt 2 98 199 
+pair Lunar_dome.txt 1 278 
+alpha Lunar_dome.txt 1 292 
+omega Lunar_dome.txt 1 271 
+maria Lunar_dome.txt 1 115 
+a Lunar_dome.txt 12 12 16 60 66 93 139 154 159 174 194 215 277 
+lower Lunar_dome.txt 1 160 
+considered Lunar_dome.txt 1 213 
+flow Lunar_dome.txt 1 181 
+km Lunar_dome.txt 3 10 77 86 
+thought Lunar_dome.txt 1 132 
+materials Lunar_dome.txt 1 111 
+so Lunar_dome.txt 1 163 
+south Lunar_dome.txt 1 300 
+capuanus Lunar_dome.txt 1 270 
+the Lunar_dome.txt 24 25 28 71 90 97 101 109 113 127 147 151 164 169 177 180 198 201 203 209 229 236 264 282 289 
+silica Lunar_dome.txt 1 40 
+typically Lunar_dome.txt 2 34 75 
+typical Lunar_dome.txt 1 3 

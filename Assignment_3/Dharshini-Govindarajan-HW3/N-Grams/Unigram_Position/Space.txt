@@ -1,0 +1,913 @@
+essay Space.txt 1 309 
+all Space.txt 5 355 749 1416 1587 2650 
+concept Space.txt 3 92 1558 1850 
+evidence Space.txt 1 2160 
+consider Space.txt 3 76 1291 2519 
+worldthey Space.txt 1 339 
+results Space.txt 1 526 
+leads Space.txt 1 2216 
+managed Space.txt 1 2638 
+decisions Space.txt 1 2543 
+synthetic Space.txt 2 919 927 
+inverse Space.txt 1 1871 
+depend Space.txt 1 1874 
+hunting Space.txt 1 2793 
+immanuel Space.txt 3 319 892 901 
+concerned Space.txt 3 2397 2727 2746 
+contained Space.txt 1 1026 
+extraneous Space.txt 1 2701 
+to Space.txt 87 42 80 97 102 145 148 300 353 359 388 405 585 598 659 673 702 754 783 798 812 838 870 921 967 979 1008 1093 1199 1272 1290 1359 1366 1371 1387 1409 1440 1444 1509 1533 1556 1598 1606 1616 1627 1638 1644 1656 1701 1747 1756 1789 1905 1954 1960 2002 2034 2105 2130 2179 2217 2264 2270 2407 2409 2423 2431 2441 2445 2464 2497 2513 2586 2605 2609 2618 2626 2649 2678 2680 2699 2711 2783 2787 2792 2841 2853 2859 
+permanently Space.txt 1 249 
+manifolds Space.txt 1 1782 
+late Space.txt 1 1348 
+include Space.txt 2 1158 2770 
+land-level Space.txt 1 2541 
+very Space.txt 2 1840 2267 
+continues Space.txt 3 111 811 837 
+geometrical Space.txt 2 188 1297 
+telling Space.txt 1 653 
+specific Space.txt 1 2415 
+difference Space.txt 3 627 669 726 
+categories Space.txt 2 2875 2877 
+perceived Space.txt 2 2717 2759 
+17th Space.txt 1 226 
+riemann Space.txt 1 1210 
+made Space.txt 1 2544 
+positions Space.txt 1 44 
+rights Space.txt 2 2481 2512 
+travels Space.txt 1 734 
+discrete Space.txt 1 575 
+vector Space.txt 1 1822 
+small Space.txt 1 1331 
+radio Space.txt 1 2611 
+20th Space.txt 1 384 
+still Space.txt 1 2501 
+force Space.txt 1 1684 
+three-dimensional Space.txt 5 37 51 1753 1881 2835 
+infancy Space.txt 1 2845 
+discover Space.txt 1 1367 
+second Space.txt 2 2352 2361 
+perception Space.txt 4 2742 2772 2777 2869 
+design Space.txt 1 2572 
+enclosed Space.txt 1 2830 
+pass Space.txt 2 1174 1223 
+fear Space.txt 3 2815 2821 2828 
+linear Space.txt 1 70 
+will Space.txt 4 1602 1622 2491 2568 
+what Space.txt 3 161 488 2222 
+plays Space.txt 1 2376 
+appear Space.txt 1 1596 
+clock Space.txt 1 1626 
+sum Space.txt 3 1181 1309 1447 
+timaeus Space.txt 1 152 
+near Space.txt 1 2129 
+19th Space.txt 4 382 1100 1349 2723 
+experiment Space.txt 2 1374 1975 
+bernhard Space.txt 1 1209 
+above Space.txt 1 501 
+scientists Space.txt 5 1382 1438 1473 1727 2193 
+new Space.txt 1 312 
+learned Space.txt 1 2843 
+ever Space.txt 1 2250 
+method Space.txt 1 2533 
+impact Space.txt 2 2554 2569 
+led Space.txt 1 1555 
+behavior Space.txt 2 2559 2692 
+human Space.txt 1 2556 
+geostatistics Space.txt 1 2437 
+french Space.txt 1 1342 
+understanding Space.txt 2 104 2833 
+water Space.txt 5 778 787 818 832 857 
+reported Space.txt 1 2194 
+objects Space.txt 11 55 279 518 538 619 709 756 1417 1641 1815 2752 
+berkeley Space.txt 1 298 
+i.e Space.txt 2 166 182 
+along Space.txt 1 2043 
+equations Space.txt 1 2143 
+appears Space.txt 1 2233 
+stellar Space.txt 1 1316 
+substance Space.txt 1 961 
+study Space.txt 1 2712 
+studied Space.txt 2 1729 2769 
+experience Space.txt 2 361 997 
+gravitationally Space.txt 1 2131 
+relationist Space.txt 1 720 
+survival Space.txt 1 2788 
+published Space.txt 2 1148 1548 
+usually Space.txt 2 75 1745 
+suitable Space.txt 1 1432 
+spacetime Space.txt 9 90 1572 1677 1688 1698 1749 1889 2017 2111 
+ratio Space.txt 2 1193 1238 
+diameter Space.txt 1 1201 
+via Space.txt 2 1934 1972 
+inference Space.txt 1 2848 
+carl Space.txt 2 1249 1281 
+family Space.txt 2 589 595 
+lobachevsky Space.txt 1 1146 
+namely Space.txt 1 147 
+interactions Space.txt 1 2757 
+private Space.txt 1 2652 
+replace Space.txt 1 1848 
+analyzing Space.txt 1 2740 
+apply Space.txt 1 2438 
+1905 Space.txt 1 1545 
+seventeenth Space.txt 1 451 
+delegated Space.txt 1 2643 
+experimentation Space.txt 1 717 
+formalised Space.txt 1 1269 
+use Space.txt 4 352 1441 2537 2667 
+from Space.txt 10 286 334 418 527 556 793 1130 1842 2141 2231 
+rapidly Space.txt 1 2268 
+would Space.txt 4 647 665 1380 1529 
+surroundings Space.txt 1 2779 
+remains Space.txt 1 833 
+continuous Space.txt 1 571 
+coupled Space.txt 1 2355 
+single Space.txt 1 1568 
+two Space.txt 4 484 629 690 1593 
+properties Space.txt 2 1397 1795 
+few Space.txt 2 1102 1923 
+therefore Space.txt 3 567 694 844 
+expanding Space.txt 2 2249 2266 
+taken Space.txt 2 529 1408 
+australian Space.txt 1 2506 
+type Space.txt 1 1152 
+until Space.txt 1 1098 
+more Space.txt 8 510 704 1231 1629 1707 1855 1939 2766 
+flat Space.txt 2 403 803 
+becomes Space.txt 1 819 
+company Space.txt 1 2663 
+postulated Space.txt 1 2122 
+falloff Space.txt 1 1433 
+visibility Space.txt 1 303 
+purposes Space.txt 1 2429 
+visual Space.txt 2 2763 2857 
+opposing Space.txt 1 485 
+virtue Space.txt 1 938 
+particular Space.txt 2 1396 1600 
+known Space.txt 6 88 1398 1570 1942 2259 2263 
+inhabit Space.txt 2 1462 1480 
+must Space.txt 6 573 693 770 862 886 957 
+debates Space.txt 1 131 
+viewed Space.txt 4 1565 1884 1993 2059 
+henri Space.txt 2 1252 1339 
+this Space.txt 7 2 1166 1227 1403 1574 2137 2353 
+science Space.txt 1 2396 
+inertial Space.txt 1 728 
+work Space.txt 2 950 1985 
+theories Space.txt 2 486 1740 
+can Space.txt 10 722 913 1455 1563 1951 1969 2010 2067 2460 2552 
+concepts Space.txt 2 324 2440 
+making Space.txt 1 1304 
+modifies Space.txt 1 1693 
+specialized Space.txt 1 2767 
+example Space.txt 5 776 1821 2176 2608 2762 
+numbers Space.txt 1 1831 
+heart Space.txt 1 470 
+references Space.txt 1 2872 
+cosmological Space.txt 1 2219 
+relativistic Space.txt 1 1987 
+proportions Space.txt 1 1423 
+confused Space.txt 1 1758 
+studies Space.txt 1 2730 
+states Space.txt 1 1054 
+sphere Space.txt 4 1013 1394 1429 1484 
+lorentz Space.txt 1 2035 
+bend Space.txt 1 1719 
+sense Space.txt 1 245 
+1/299,792,458 Space.txt 1 2349 
+rods Space.txt 1 1443 
+create Space.txt 1 2446 
+absolute Space.txt 1 772 
+rays Space.txt 1 1716 
+rather Space.txt 4 401 491 1465 2508 
+nearness Space.txt 1 1859 
+regions Space.txt 1 532 
+necessary Space.txt 2 1116 2785 
+pure Space.txt 2 368 374 
+elliptical Space.txt 2 1009 1216 
+instead Space.txt 5 268 858 964 1109 1678 
+cyberspace Space.txt 1 2619 
+buildings Space.txt 1 2574 
+abstraction Space.txt 1 555 
+may Space.txt 1 1828 
+waters Space.txt 1 2593 
+philosophy Space.txt 2 441 454 
+derived Space.txt 2 333 1129 
+different Space.txt 4 1425 1779 1841 2101 
+collection Space.txt 2 275 513 
+minkowski Space.txt 3 1891 2041 2064 
+wrong Space.txt 1 696 
+plane Space.txt 4 1058 1083 1464 1482 
+deviates Space.txt 1 417 
+waves Space.txt 4 2157 2163 2183 2202 
+date Space.txt 1 143 
+fi Space.txt 1 202 
+data Space.txt 1 2444 
+parallel Space.txt 6 1022 1040 1092 1160 1172 1221 
+types Space.txt 1 1780 
+locational Space.txt 1 2435 
+a Space.txt 69 35 84 121 128 274 311 372 375 432 461 582 626 719 780 789 794 802 806 864 904 916 960 993 1012 1017 1063 1068 1124 1151 1185 1195 1237 1257 1284 1305 1327 1330 1341 1400 1413 1431 1452 1463 1467 1481 1513 1567 1581 1624 1663 1670 1683 1724 1836 1854 2326 2341 2344 2351 2380 2434 2462 2494 2532 2623 2673 2681 2695 2734 
+introduced Space.txt 1 1351 
+natural Space.txt 1 262 
+sets Space.txt 1 1769 
+light Space.txt 4 1579 1718 2339 2375 
+lines Space.txt 3 1023 1173 1222 
+cosmology Space.txt 1 2207 
+provide Space.txt 1 431 
+si Space.txt 1 2300 
+18th Space.txt 1 291 
+fundamental Space.txt 6 100 1924 1940 1956 1962 2381 
+mapping Space.txt 1 2420 
+subsequently Space.txt 1 1659 
+turns Space.txt 1 2019 
+closely Space.txt 1 2851 
+september Space.txt 1 2205 
+essence Space.txt 1 135 
+over Space.txt 4 114 499 1112 1495 
+insight Space.txt 1 1354 
+vary Space.txt 1 1410 
+hyperbolic-orthogonal Space.txt 1 1904 
+meter Space.txt 2 2328 2331 
+entity Space.txt 2 120 495 
+held Space.txt 1 505 
+mathematicians Space.txt 2 386 1049 
+experiments Space.txt 1 2177 
+through Space.txt 3 1086 1175 1224 
+motions Space.txt 2 759 2169 
+keyboard Space.txt 1 24 
+argued Space.txt 4 611 762 860 1487 
+existence Space.txt 1 140 
+poincar Space.txt 4 1248 1253 1340 1486 
+its Space.txt 4 469 1200 2756 2784 
+before Space.txt 1 1982 
+observational Space.txt 1 650 
+1830 Space.txt 1 1135 
+outer Space.txt 1 20 
+internationally Space.txt 1 2596 
+how Space.txt 2 1673 2748 
+theologian Space.txt 1 296 
+masses Space.txt 1 2133 
+relativity Space.txt 14 412 425 1553 1667 1895 1976 1981 2003 2087 2099 2119 2146 2214 2369 
+coordinates Space.txt 1 2080 
+actually Space.txt 1 1324 
+better Space.txt 2 433 2425 
+11th-century Space.txt 1 206 
+differently Space.txt 1 2083 
+isaac Space.txt 3 237 477 697 
+hidden Space.txt 1 2876 
+main Space.txt 6 1000 1751 1914 1977 2208 2276 
+connectedness Space.txt 1 1801 
+then Space.txt 4 222 550 657 827 
+them Space.txt 3 540 671 1639 
+greater Space.txt 1 1203 
+material Space.txt 2 639 708 
+framework Space.txt 4 8 130 347 994 
+bang Space.txt 1 2241 
+try Space.txt 2 1439 2408 
+preservation Space.txt 1 2796 
+german Space.txt 3 474 899 1285 
+not Space.txt 18 330 569 604 615 846 934 975 1071 1157 1276 1502 1603 1755 2030 2057 2073 2258 2584 
+antiquity Space.txt 1 146 
+possess Space.txt 1 350 
+term Space.txt 2 2624 2674 
+phobias Space.txt 1 2808 
+name Space.txt 2 2049 2641 
+mathematician Space.txt 2 1286 1343 
+always Space.txt 1 1530 
+concave Space.txt 3 820 834 841 
+spinning Space.txt 2 781 824 
+stopped Space.txt 1 826 
+mode Space.txt 1 138 
+truth Space.txt 1 1105 
+each Space.txt 2 642 1906 
+found Space.txt 1 2166 
+characterized Space.txt 1 2684 
+referred Space.txt 1 358 
+square Space.txt 1 1872 
+directly Space.txt 1 2180 
+p Space.txt 4 1070 1089 1178 1225 
+ligo Space.txt 2 2188 2192 
+idea Space.txt 3 1857 1897 2802 
+related Space.txt 3 597 1953 2852 
+ball Space.txt 1 1018 
+measure Space.txt 2 1623 2181 
+our Space.txt 2 1880 2006 
+kant Space.txt 7 320 357 891 893 902 922 951 
+beyond Space.txt 1 16 
+special Space.txt 4 1550 1894 2086 2366 
+out Space.txt 3 483 1326 2020 
+large Space.txt 1 1393 
+psychology Space.txt 2 2707 2738 
+space Space.txt 81 0 15 21 27 33 46 47 64 94 142 167 193 241 260 270 326 363 396 413 420 439 443 456 489 507 522 551 576 613 682 701 871 885 912 925 932 956 971 1278 1300 1372 1498 1511 1560 1754 1760 1791 1844 1882 1892 1918 1968 1991 2007 2024 2054 2071 2079 2108 2229 2235 2256 2261 2283 2314 2323 2386 2453 2469 2539 2551 2582 2621 2671 2683 2715 2744 2764 2805 2824 2836 
+spectrum Space.txt 1 2616 
+greeks Space.txt 1 163 
+furthermore Space.txt 1 2113 
+since Space.txt 5 645 748 764 1517 2251 
+communal Space.txt 1 2495 
+boundless Space.txt 2 50 85 
+investigation Space.txt 1 1294 
+emerged Space.txt 1 459 
+issue Space.txt 1 463 
+khra Space.txt 1 165 
+architecture Space.txt 1 2565 
+kantian Space.txt 1 1259 
+after Space.txt 1 805 
+theory Space.txt 15 313 409 680 905 1125 1214 1551 1575 1665 1671 1704 1979 2117 2215 2367 
+reformulated Space.txt 1 223 
+passes Space.txt 1 1085 
+activity Space.txt 1 2690 
+standard Space.txt 2 2322 2327 
+qua Space.txt 1 194 
+reason Space.txt 2 369 678 
+members Space.txt 1 590 
+estimate Space.txt 1 2448 
+measurement Space.txt 4 1973 2275 2278 2280 
+axioms Space.txt 1 1133 
+definition Space.txt 3 179 2354 2358 
+enormous Space.txt 1 1315 
+created Space.txt 1 2237 
+geometry Space.txt 16 999 1003 1005 1010 1035 1154 1164 1167 1217 1228 1369 1506 1519 1524 1537 1743 
+starts Space.txt 1 800 
+could Space.txt 6 536 568 577 614 687 1127 
+hyperbolic Space.txt 1 1163 
+cosmic Space.txt 1 2272 
+motion Space.txt 6 729 740 766 851 868 2005 
+explored Space.txt 1 1971 
+place Space.txt 3 183 191 200 
+due Space.txt 3 2001 2269 2782 
+forms Space.txt 1 2598 
+consequence Space.txt 1 2135 
+moving Space.txt 4 1613 1625 1653 2151 
+deceived Space.txt 1 1457 
+first Space.txt 3 1289 2196 2709 
+intuition Space.txt 1 379 
+already Space.txt 1 344 
+features Space.txt 1 982 
+variables Space.txt 1 2702 
+number Space.txt 1 1170 
+owned Space.txt 3 2525 2633 2658 
+one Space.txt 11 287 599 1036 1077 1599 1617 1632 1920 2015 2066 2134 
+philosophical Space.txt 1 214 
+construct Space.txt 1 1569 
+another Space.txt 4 288 600 1607 1618 
+such Space.txt 8 1412 1824 1867 2197 2504 2645 2703 2729 
+triangulating Space.txt 1 1334 
+open Space.txt 2 2648 2817 
+george Space.txt 1 297 
+earths Space.txt 1 17 
+given Space.txt 2 280 345 
+cartesian Space.txt 1 38 
+temperature Space.txt 2 1406 1435 
+indicate Space.txt 1 43 
+system Space.txt 4 40 2174 2297 2306 
+relations Space.txt 7 277 516 544 558 587 602 706 
+their Space.txt 5 282 563 758 2640 2665 
+180 Space.txt 2 1190 1233 
+expand Space.txt 1 1418 
+statement Space.txt 1 947 
+convention Space.txt 1 1516 
+postulate Space.txt 4 1041 1108 1161 2138 
+farming Space.txt 1 2579 
+structures Space.txt 1 2576 
+hypothetical Space.txt 1 2682 
+relationship Space.txt 2 122 2517 
+that Space.txt 45 246 269 322 348 391 428 496 506 524 535 612 624 683 685 763 884 929 955 970 1029 1055 1084 1126 1155 1241 1322 1379 1415 1460 1559 1592 1595 1633 1650 1691 1786 1804 1816 1901 1929 2000 2021 2123 2234 2520 
+centered Space.txt 1 1111 
+terrain Space.txt 1 2705 
+tool Space.txt 1 2697 
+exactly Space.txt 4 631 1076 2061 2348 
+albert Space.txt 3 406 1542 1546 
+took Space.txt 1 700 
+rejected Space.txt 1 952 
+prediction Space.txt 1 2149 
+part Space.txt 3 82 126 991 
+attempt Space.txt 1 1365 
+than Space.txt 12 402 492 511 705 1189 1204 1232 1244 1466 1522 1631 2509 
+distance Space.txt 5 10 283 1839 1852 2336 
+14 Space.txt 1 2204 
+showed Space.txt 1 1999 
+einsteins Space.txt 3 1739 1997 2115 
+collaborations Space.txt 1 2191 
+seen Space.txt 1 2471 
+physicist-mathematician Space.txt 1 481 
+bolyai Space.txt 1 1140 
+matter Space.txt 4 257 503 890 1514 
+decided Space.txt 1 2595 
+were Space.txt 3 216 1385 1992 
+sphere-world Space.txt 1 1401 
+treated Space.txt 1 2082 
+result Space.txt 3 848 865 1591 
+and Space.txt 70 11 56 61 136 221 250 284 295 327 351 383 445 457 466 476 500 541 566 710 716 738 757 796 855 918 972 1067 1090 1141 1191 1234 1247 1318 1344 1419 1485 1561 1640 1715 1741 1792 1835 1845 1966 1974 1990 2008 2053 2078 2096 2107 2189 2227 2246 2315 2400 2430 2459 2518 2548 2557 2575 2577 2591 2637 2668 2773 2794 2825 2849 
+nikolai Space.txt 1 1144 
+disambiguation Space.txt 1 34 
+modern Space.txt 2 73 1763 
+idealised Space.txt 1 554 
+locations Space.txt 2 565 2416 
+direct Space.txt 1 2198 
+alike Space.txt 1 632 
+have Space.txt 10 58 426 537 1230 1236 1728 1829 2461 2601 2809 
+distorted Space.txt 1 2127 
+curved Space.txt 3 400 1280 2128 
+regards Space.txt 1 2791 
+apparently Space.txt 1 845 
+metaphysics Space.txt 1 467 
+contents Space.txt 1 440 
+mountain Space.txt 1 1335 
+refute Space.txt 1 301 
+permanence Space.txt 1 2775 
+self Space.txt 1 2795 
+gravity Space.txt 2 1674 1681 
+other Space.txt 15 30 261 502 546 755 1132 1935 1948 1955 1961 2489 2502 2597 2606 2765 
+invert Space.txt 1 2515 
+which Space.txt 17 54 395 525 731 742 909 1060 1219 1356 1368 1505 1554 1668 1783 2139 2371 2468 
+objective Space.txt 1 981 
+wonder Space.txt 1 1273 
+circles Space.txt 1 1235 
+towards Space.txt 1 310 
+allow Space.txt 1 2424 
+non-euclidean Space.txt 7 393 429 998 1002 1265 1523 1742 
+object Space.txt 3 733 2016 2774 
+most Space.txt 1 2304 
+experiences Space.txt 2 335 356 
+gauss Space.txt 3 1246 1251 1283 
+significant Space.txt 1 2132 
+pleasure Space.txt 1 2669 
+nothing Space.txt 1 1938 
+measured Space.txt 1 1643 
+the Space.txt 174 6 14 23 49 91 106 133 137 151 162 170 178 186 197 205 219 225 230 244 259 290 293 302 317 323 337 360 381 436 450 453 473 479 512 520 557 586 594 601 608 621 635 638 660 674 732 743 775 809 814 817 822 828 831 840 847 853 856 876 895 898 940 943 946 953 968 984 1014 1031 1039 1044 1082 1087 1094 1099 1104 1107 1131 1137 1142 1159 1176 1180 1192 1207 1262 1288 1296 1308 1311 1347 1361 1377 1388 1405 1428 1437 1446 1449 1472 1488 1493 1527 1535 1539 1557 1576 1584 1590 1610 1648 1657 1694 1702 1721 1730 1736 1794 1807 1849 1863 1869 1896 1908 1922 1944 1947 2048 2142 2148 2168 2171 2187 2195 2212 2218 2224 2239 2252 2271 2279 2295 2303 2311 2321 2335 2360 2365 2372 2377 2393 2402 2419 2480 2483 2516 2527 2536 2571 2610 2614 2635 2655 2713 2719 2722 2741 2776 2814 2820 2827 2832 2856 2861 
+planning Space.txt 1 2530 
+subjective Space.txt 1 373 
+areas Space.txt 1 2628 
+observation Space.txt 2 715 2199 
+considered Space.txt 5 96 880 1376 2092 2456 
+later Space.txt 2 187 316 
+behaviour Space.txt 1 1731 
+amodal Space.txt 1 2771 
+face Space.txt 1 1381 
+points Space.txt 1 1803 
+principle Space.txt 2 675 1476 
+velocity Space.txt 2 737 744 
+physics Space.txt 6 171 1860 1866 1879 1927 1988 
+notion Space.txt 1 1837 
+fact Space.txt 3 273 1471 2524 
+laws Space.txt 2 1864 1873 
+spherical Space.txt 2 1004 1468 
+atmosphere Space.txt 1 18 
+particularly Space.txt 1 228 
+leibniz Space.txt 7 266 444 448 472 504 549 610 
+right-handed Space.txt 1 36 
+discovered Space.txt 1 976 
+spaces Space.txt 10 1765 1785 1819 1823 1827 1847 2422 2646 2818 2831 
+relation Space.txt 2 963 2463 
+earth Space.txt 1 2403 
+especially Space.txt 1 2789 
+debate Space.txt 3 1047 1110 1494 
+geography Space.txt 2 2391 2677 
+postulates Space.txt 1 1028 
+based Space.txt 2 711 2363 
+knowledge Space.txt 3 907 910 923 
+true Space.txt 3 936 1491 1536 
+behind Space.txt 1 1898 
+topological Space.txt 1 1846 
+should Space.txt 1 2056 
+virgo Space.txt 1 2190 
+entities Space.txt 2 124 561 
+developed Space.txt 3 903 1211 2292 
+various Space.txt 1 1870 
+circle Space.txt 1 1196 
+local Space.txt 1 1800 
+axiom Space.txt 1 1119 
+awareness Space.txt 1 2406 
+do Space.txt 1 603 
+his Space.txt 7 158 308 365 712 785 949 1549 
+triangle Space.txt 3 1186 1317 1453 
+goes Space.txt 1 1706 
+hungarian Space.txt 1 1138 
+plato Space.txt 1 154 
+overall Space.txt 1 2253 
+perceive Space.txt 1 2860 
+ones Space.txt 2 332 2801 
+words Space.txt 1 944 
+international Space.txt 2 2296 2549 
+during Space.txt 3 229 2343 2844 
+years Space.txt 1 2244 
+him Space.txt 1 1504 
+societies Space.txt 1 2290 
+bar Space.txt 1 28 
+continuum Space.txt 1 87 
+fields Space.txt 1 416 
+jnos Space.txt 1 1139 
+public Space.txt 1 2620 
+common Space.txt 1 2305 
+though Space.txt 1 1136 
+forces Space.txt 1 768 
+including Space.txt 1 2812 
+where Space.txt 5 1793 2088 2100 2228 2566 
+vision Space.txt 1 315 
+view Space.txt 2 240 954 
+set Space.txt 2 482 797 
+statistical Space.txt 1 2439 
+exists Space.txt 1 498 
+circumference-to-diameter Space.txt 1 1240 
+national Space.txt 1 2547 
+signs Space.txt 1 2102 
+humans Space.txt 3 349 978 2838 
+eighteenth Space.txt 1 896 
+relative Space.txt 4 59 753 850 869 
+collectively Space.txt 1 2632 
+see Space.txt 7 19 26 32 1893 2387 2760 2870 
+individual Space.txt 3 560 2484 2661 
+geometrically Space.txt 1 2126 
+are Space.txt 27 329 340 392 533 596 752 933 974 1020 1320 1612 1642 1652 1766 1775 1784 1796 1810 1817 2029 2081 2103 2184 2522 2647 2745 2758 
+recently Space.txt 1 2603 
+subject Space.txt 1 1045 
+euclids Space.txt 1 1024 
+said Space.txt 1 321 
+attempting Space.txt 1 2178 
+currently Space.txt 1 2320 
+wikipedia Space.txt 1 1 
+justifies Space.txt 1 2047 
+outside Space.txt 1 338 
+polymath Space.txt 1 208 
+between Space.txt 11 112 123 278 517 559 588 628 670 707 727 852 
+conceptual Space.txt 2 129 2696 
+invariant Space.txt 1 2031 
+geometric Space.txt 1 1695 
+approach Space.txt 1 2496 
+arewhich Space.txt 1 2046 
+unobserved Space.txt 1 2450 
+terms Space.txt 1 2486 
+ability Space.txt 1 2858 
+unconscious Space.txt 1 2847 
+nature Space.txt 2 134 2384 
+importance Space.txt 1 101 
+buckets Space.txt 1 823 
+however Space.txt 2 109 1811 
+physicist Space.txt 1 1345 
+regional Space.txt 1 2546 
+navigation Space.txt 1 2426 
+key Space.txt 1 25 
+article Space.txt 7 3 1001 1752 1915 1978 2209 2277 
+observer Space.txt 4 1601 1608 1621 1658 
+suggested Space.txt 1 1690 
+both Space.txt 2 915 2084 
+circumference Space.txt 1 1198 
+psychologists Space.txt 2 2708 2739 
+many Space.txt 4 210 1051 1812 1861 
+metaphysician Space.txt 1 318 
+according Space.txt 5 404 658 672 920 1700 
+contract Space.txt 1 1420 
+personal Space.txt 1 2804 
+s Space.txt 4 239 408 1197 1984 
+present Space.txt 2 1945 2357 
+experimental Space.txt 1 421 
+among Space.txt 1 1048 
+extent Space.txt 1 52 
+point Space.txt 3 1069 1088 1177 
+community Space.txt 1 2636 
+space-related Space.txt 1 2807 
+celestial Space.txt 1 2823 
+simply Space.txt 3 935 2330 2800 
+modeling Space.txt 1 2689 
+respect Space.txt 4 1615 1637 1655 2033 
+futility Space.txt 1 1362 
+epistemology Space.txt 1 465 
+described Space.txt 1 1777 
+transformations Space.txt 1 2037 
+geometries Space.txt 3 390 430 1266 
+basis Space.txt 1 1032 
+addition Space.txt 1 2051 
+qawl Space.txt 1 201 
+locally Space.txt 1 1787 
+three Space.txt 4 69 1877 1909 2864 
+been Space.txt 7 1043 1268 2165 2248 2286 2602 2810 
+slowly Space.txt 2 1630 1708 
+combined Space.txt 1 2013 
+collected Space.txt 1 2442 
+utilizing Space.txt 1 2404 
+pi Space.txt 2 1205 1245 
+topics Space.txt 1 2768 
+systems Space.txt 1 2294 
+direction Space.txt 4 12 62 285 1649 
+restricted Space.txt 1 2585 
+quantities Space.txt 4 1925 1936 1957 1963 
+sufficient Space.txt 1 677 
+argument Space.txt 2 786 878 
+observers Space.txt 1 1611 
+2015 Space.txt 1 2206 
+understand Space.txt 1 2410 
+external Space.txt 1 2873 
+systematic Space.txt 1 346 
+worked Space.txt 1 1661 
+general Space.txt 8 7 411 424 1664 1703 2098 2116 2145 
+spin Space.txt 3 799 813 839 
+former Space.txt 1 1528 
+those Space.txt 2 534 2725 
+predicament Space.txt 1 1378 
+conception Space.txt 1 189 
+these Space.txt 6 212 654 689 1038 2162 2182 
+straight Space.txt 3 1064 1078 1095 
+appearance Space.txt 1 2754 
+empirical Space.txt 2 331 1293 
+rope Space.txt 1 795 
+euclidean Space.txt 6 419 1034 1500 1518 1790 1843 
+while Space.txt 5 807 2158 2476 2500 2651 
+ongoing Space.txt 1 2185 
+cannot Space.txt 2 1474 1931 
+applies Space.txt 1 1370 
+property Space.txt 2 2473 2653 
+discoveries Space.txt 1 1998 
+shortened Space.txt 1 1646 
+hand-eye Space.txt 1 2854 
+century Space.txt 7 227 292 452 897 1101 1350 2724 
+almost Space.txt 1 2317 
+is Space.txt 61 4 48 65 95 117 397 490 508 523 791 825 843 926 1006 1062 1075 1091 1187 1202 1242 1279 1407 1490 1499 1520 1583 1634 1669 1744 1883 1900 1903 1919 1941 2090 2121 2125 2147 2226 2257 2262 2301 2316 2332 2362 2392 2418 2454 2470 2531 2583 2594 2622 2654 2672 2694 2716 2780 2839 2850 2866 
+thus Space.txt 3 542 1958 2076 
+it Space.txt 18 77 116 247 769 836 861 1053 1114 1122 1692 1930 1950 2018 2120 2232 2567 2693 2732 
+surface Space.txt 7 804 815 829 842 1015 1389 1469 
+iv Space.txt 1 175 
+middle Space.txt 1 2720 
+itself Space.txt 3 118 872 1699 
+reports Space.txt 1 1321 
+13.8 Space.txt 1 2242 
+in Space.txt 87 45 53 68 157 169 177 185 196 218 224 236 258 272 289 307 364 380 394 449 464 519 539 581 593 620 641 730 741 779 788 882 894 908 928 945 948 1165 1184 1206 1218 1226 1337 1355 1402 1411 1421 1424 1434 1451 1470 1475 1544 1573 1580 1647 1687 1720 1762 1878 1887 1926 2023 2026 2040 2050 2063 2070 2074 2085 2097 2114 2167 2238 2310 2340 2370 2414 2467 2485 2523 2564 2639 2676 2706 2718 2837 2863 
+interacts Space.txt 1 1675 
+if Space.txt 4 821 1383 1436 1609 
+absolutein Space.txt 1 243 
+binary Space.txt 2 1733 2173 
+confirmed Space.txt 1 427 
+confirming Space.txt 1 1735 
+things Space.txt 1 2412 
+began Space.txt 3 387 1271 2710 
+same Space.txt 2 1489 1585 
+any Space.txt 4 256 679 1057 1364 
+discourse Space.txt 1 198 
+simultaneous Space.txt 2 1597 1605 
+triangles Space.txt 1 1229 
+geographical Space.txt 2 2385 2452 
+bands Space.txt 1 2612 
+units Space.txt 2 2299 2308 
+several Space.txt 2 874 2806 
+events Space.txt 2 57 1594 
+development Space.txt 1 232 
+independent Space.txt 2 1833 1995 
+used Space.txt 10 41 774 1508 1532 1746 2309 2319 2625 2675 2698 
+centuries Space.txt 3 385 875 1052 
+lie Space.txt 1 1805 
+conceived Space.txt 2 67 398 
+tops Space.txt 1 1336 
+hand Space.txt 1 1949 
+renaissance Space.txt 1 220 
+viewing Space.txt 1 1680 
+levels Space.txt 1 2550 
+uses Space.txt 1 31 
+ownership Space.txt 7 2465 2488 2499 2511 2580 2588 2600 
+potentials Space.txt 1 1714 
+infinite Space.txt 2 1169 1830 
+frequently Space.txt 1 1776 
+identity Space.txt 1 661 
+early Space.txt 1 231 
+lower Space.txt 1 1712 
+largely Space.txt 1 1798 
+changes Space.txt 1 745 
+astrophobia Space.txt 1 2819 
+well Space.txt 1 2798 
+analysis Space.txt 1 2390 
+thought Space.txt 4 267 579 1302 2840 
+regulating Space.txt 1 2535 
+components Space.txt 1 2109 
+english Space.txt 1 480 
+coordinate Space.txt 3 39 2036 2095 
+position Space.txt 2 60 713 
+model Space.txt 1 434 
+dimension Space.txt 1 1876 
+bodies Space.txt 1 2644 
+four-dimensional Space.txt 2 86 1888 
+distances Space.txt 2 2022 2039 
+universally Space.txt 1 2318 
+manifold Space.txt 1 1808 
+they Space.txt 7 1384 1454 1461 1479 1651 1774 2521 
+less Space.txt 2 1188 1243 
+being Space.txt 3 371 493 2560 
+topos Space.txt 1 181 
+newton Space.txt 7 238 446 478 698 699 761 859 
+homogeneity Space.txt 1 2687 
+assigned Space.txt 1 2104 
+shape Space.txt 4 437 2210 2223 2254 
+intervals Space.txt 1 2045 
+identify Space.txt 1 2492 
+questions Space.txt 1 215 
+using Space.txt 1 2846 
+speed Space.txt 2 1577 2373 
+coordination Space.txt 1 2855 
+move Space.txt 1 2069 
+visualization Space.txt 1 2428 
+metric Space.txt 1 2112 
+now Space.txt 2 2302 2726 
+airspace Space.txt 1 2590 
+also Space.txt 3 2388 2553 2871 
+thinking Space.txt 1 1459 
+had Space.txt 2 1267 2291 
+except Space.txt 1 633 
+branch Space.txt 2 2394 2736 
+mathematically Space.txt 1 2012 
+friedrich Space.txt 2 1250 1282 
+book Space.txt 1 174 
+location Space.txt 1 636 
+usage Space.txt 1 2466 
+has Space.txt 5 1042 1589 2164 2247 2284 
+real Space.txt 3 668 725 1497 
+hulsetaylor Space.txt 1 2172 
+tests Space.txt 1 422 
+ripples Space.txt 1 2152 
+around Space.txt 2 414 1134 
+big Space.txt 1 2240 
+showing Space.txt 1 883 
+disagreement Space.txt 1 110 
+possible Space.txt 2 564 691 
+arab Space.txt 1 207 
+cultural Space.txt 1 2558 
+inflation Space.txt 1 2273 
+five Space.txt 1 1027 
+culturally Space.txt 1 2657 
+vacuum Space.txt 2 1582 2342 
+confined Space.txt 1 1386 
+world Space.txt 7 521 622 640 985 1404 1540 2862 
+tick Space.txt 1 1628 
+apart Space.txt 1 656 
+phenomena Space.txt 1 2451 
+imposed Space.txt 1 987 
+like Space.txt 2 150 1964 
+identifying Space.txt 1 2399 
+follows Space.txt 1 2140 
+separately Space.txt 2 1147 2028 
+either Space.txt 1 959 
+hung Space.txt 1 792 
+conclusion Space.txt 1 969 
+stationary Space.txt 1 1635 
+mathematical Space.txt 1 1814 
+because Space.txt 2 623 1937 
+ivanovich Space.txt 1 1145 
+often Space.txt 2 66 2455 
+classical Space.txt 4 213 234 1912 1916 
+people Space.txt 2 592 609 
+angles Space.txt 3 1183 1312 1450 
+back Space.txt 1 144 
+l Space.txt 4 1066 1073 1080 1097 
+added Space.txt 1 1772 
+moreover Space.txt 1 1619 
+critique Space.txt 1 366 
+universes Space.txt 3 630 655 692 
+indirect Space.txt 1 2159 
+organizing Space.txt 1 996 
+recognition Space.txt 1 2749 
+consensus Space.txt 1 1260 
+asserted Space.txt 1 2604 
+scale Space.txt 1 1332 
+describing Space.txt 1 2401 
+dimensions Space.txt 6 71 1834 1911 1996 2055 2865 
+for Space.txt 21 13 22 29 435 548 634 718 873 995 1033 1050 1492 1503 1586 1820 2161 2175 2427 2449 2664 2761 
+electromagnetic Space.txt 1 2615 
+measurements Space.txt 1 751 
+philosopher Space.txt 2 294 900 
+does Space.txt 1 1156 
+claustrophobia Space.txt 1 2826 
+refer Space.txt 1 2679 
+measuring Space.txt 3 1442 2293 2312 
+be Space.txt 30 81 98 570 574 578 648 666 688 695 703 723 771 863 914 958 980 1128 1456 1531 1564 1604 1645 1757 1932 1952 1970 2011 2058 2265 2842 
+equivalent Space.txt 2 1213 2062 
+of Space.txt 140 9 83 93 99 105 127 139 141 153 172 180 190 204 211 233 252 276 304 314 325 336 342 362 367 378 410 423 438 442 455 487 514 580 607 618 637 652 662 676 681 777 816 830 849 866 889 906 939 942 983 992 1016 1037 1046 1106 1153 1171 1182 1194 1215 1239 1295 1299 1303 1307 1310 1313 1346 1363 1390 1448 1515 1538 1552 1578 1666 1672 1679 1697 1717 1723 1732 1738 1781 1802 1832 1838 1851 1858 1862 1865 1907 1921 1980 2004 2110 2118 2136 2144 2150 2153 2170 2200 2211 2221 2255 2281 2298 2307 2313 2347 2350 2359 2368 2374 2379 2383 2395 2421 2482 2487 2534 2538 2573 2581 2589 2592 2599 2613 2629 2721 2737 2743 2750 2778 2803 2816 2822 2829 2834 
+notably Space.txt 1 264 
+although Space.txt 4 72 591 1254 2288 
+spacesfor Space.txt 1 2607 
+imaginary Space.txt 2 1392 2094 
+by Space.txt 12 281 937 977 988 1333 1373 2338 2526 2634 2642 2659 2685 
+earlier Space.txt 1 2289 
+simpler Space.txt 1 1521 
+on Space.txt 22 160 199 714 1011 1056 1059 1072 1081 1150 1329 1427 1662 1799 1806 1875 1946 1986 2203 2364 2555 2570 2578 
+about Space.txt 4 5 911 924 931 
+asserting Space.txt 1 2510 
+central Space.txt 1 462 
+carried Space.txt 1 1325 
+extension Space.txt 1 195 
+universe Space.txt 4 108 643 2213 2225 
+discussed Space.txt 1 217 
+aboriginals Space.txt 1 2507 
+distinct Space.txt 1 2735 
+act Space.txt 1 2432 
+germany Space.txt 1 1338 
+prevailing Space.txt 1 1258 
+consequently Space.txt 1 1179 
+or Space.txt 17 125 155 168 184 562 962 1120 1275 1483 1501 2025 2329 2474 2617 2662 2691 2755 
+own Space.txt 1 2666 
+statements Space.txt 1 930 
+presence Space.txt 1 1722 
+into Space.txt 2 1458 2014 
+predictions Space.txt 1 1737 
+device Space.txt 1 2436 
+philosopher-mathematician Space.txt 1 475 
+cartography Space.txt 1 2417 
+non-inertial Space.txt 3 739 765 867 
+determine Space.txt 2 1445 1477 
+einstein Space.txt 7 407 1541 1543 1547 1660 1689 1983 
+factor Space.txt 1 2563 
+existed Space.txt 1 248 
+assumed Space.txt 1 1526 
+there Space.txt 11 254 646 664 686 721 1019 1061 1074 1255 1319 1809 
+question Space.txt 1 2220 
+approximate Space.txt 1 1788 
+long Space.txt 1 2285 
+why Space.txt 1 2411 
+physicists Space.txt 1 74 
+way Space.txt 4 584 651 1414 2714 
+cultures Space.txt 3 2478 2490 2503 
+decisive Space.txt 1 881 
+was Space.txt 12 242 255 271 552 879 1115 1123 1256 1287 1507 1512 2236 
+function Space.txt 1 1826 
+ago Space.txt 1 2245 
+complete Space.txt 1 2686 
+form Space.txt 2 377 1030 
+relevance Space.txt 1 2786 
+attempted Space.txt 2 299 1358 
+regard Space.txt 1 2731 
+but Space.txt 7 572 644 760 986 2038 2072 2260 
+philosophers Space.txt 2 113 263 
+delta Space.txt 1 176 
+russian Space.txt 1 1143 
+line Space.txt 3 1065 1079 1096 
+with Space.txt 23 78 545 735 746 801 1395 1430 1614 1636 1654 1676 1711 1759 1770 1853 2032 2356 2398 2493 2542 2728 2747 2790 
+he Space.txt 7 773 965 1301 1323 1357 1375 1525 
+traveled Space.txt 1 2337 
+space-time Space.txt 6 1899 2042 2044 2065 2124 2154 
+territory Space.txt 1 2475 
+places Space.txt 4 528 547 1426 1710 
+whether Space.txt 7 115 253 1113 1121 1274 1478 1496 
+pulsars Space.txt 1 1734 
+gravitational Space.txt 5 415 1713 1725 2156 2201 
+bucket Space.txt 5 782 790 810 854 877 
+gottfried Space.txt 3 265 447 471 
+us Space.txt 1 989 
+1850s Space.txt 1 1208 
+limit Space.txt 1 2700 
+embedded Space.txt 1 1886 
+acting Space.txt 1 1686 
+demonstrate Space.txt 2 784 1360 
+define Space.txt 1 2627 
+similar Space.txt 4 583 1007 1422 1959 
+called Space.txt 7 164 1162 1818 1890 2155 2325 2867 
+mechanics Space.txt 3 235 1913 1917 
+sometimes Space.txt 1 2091 
+constant Space.txt 2 736 2382 
+links Space.txt 1 2874 
+defined Space.txt 4 1767 1797 1933 2333 
+abstract Space.txt 2 1856 2670 
+describe Space.txt 3 1510 1534 1748 
+an Space.txt 18 103 119 343 494 553 1118 1168 1212 1292 1314 1352 1391 1620 2093 2447 2561 2660 2751 
+indiscernibles Space.txt 1 663 
+examine Space.txt 1 389 
+diverse Space.txt 1 1813 
+exist Space.txt 4 605 616 887 2413 
+at Space.txt 7 468 1261 1709 1943 2186 2540 2545 
+aristotle Space.txt 1 173 
+some Space.txt 3 1270 1771 2477 
+observerswhich Space.txt 1 1588 
+as Space.txt 30 89 192 370 399 460 808 835 990 1117 1399 1566 1571 1682 1768 1778 1825 1868 1885 1994 2060 2334 2433 2457 2472 2505 2631 2704 2733 2797 2799 
+physical Space.txt 5 63 107 1277 2282 2753 
+identified Space.txt 1 2811 
+no Space.txt 6 509 649 667 724 1021 1220 
+unoccupied Space.txt 1 531 
+when Space.txt 1 2688 
+socrates Space.txt 1 156 
+field Space.txt 2 1685 1726 
+priori Space.txt 2 376 917 
+role Space.txt 1 2378 
+agoraphobia Space.txt 1 2813 
+alhazen Space.txt 1 209 
+spatial Space.txt 10 305 515 543 750 1910 2274 2389 2405 2443 2529 
+test Space.txt 2 1306 1328 
+mathematics Space.txt 3 1750 1761 1764 
+concerning Space.txt 1 132 
+reflections Space.txt 1 159 
+elements Space.txt 2 341 1025 
+generates Space.txt 1 767 
+meaning Space.txt 2 941 1928 
+important Space.txt 4 1353 2287 2562 2781 
+al-makan Space.txt 1 203 
+structure Space.txt 4 354 1298 1696 1773 
+freely Space.txt 1 2068 
+billion Space.txt 1 2243 
+assert Space.txt 1 2479 
+independently Space.txt 5 251 497 606 617 888 
+land Space.txt 7 2458 2498 2514 2528 2587 2630 2656 
+implies Space.txt 1 625 
+interval Space.txt 2 2324 2346 
+together Space.txt 1 530 
+depth Space.txt 2 306 2868 
+implied Space.txt 1 684 
+mass Space.txt 1 1967 
+came Space.txt 2 966 2230 
+doubted Space.txt 1 1103 
+time Space.txt 19 79 328 458 747 973 1263 1562 1705 1902 1965 1989 2009 2027 2052 2075 2077 2089 2106 2345 
+treatises Space.txt 2 149 1149 
+once Space.txt 1 1264 

@@ -1,0 +1,404 @@
+chinese Metonic_cycle.txt 1 275 
+11-year Metonic_cycle.txt 1 966 
+71r Metonic_cycle.txt 1 37 
+month Metonic_cycle.txt 6 116 222 569 580 601 610 
+four Metonic_cycle.txt 1 1057 
+known Metonic_cycle.txt 4 250 510 847 907 
+6,940 Metonic_cycle.txt 2 147 1029 
+enneadecaeteris Metonic_cycle.txt 1 87 
+computation Metonic_cycle.txt 2 256 697 
+oldest Metonic_cycle.txt 1 905 
+to Metonic_cycle.txt 30 99 137 143 177 207 225 428 435 474 480 502 507 556 582 591 607 621 630 680 733 749 802 810 816 857 923 956 973 1006 1025 
+callippic Metonic_cycle.txt 1 1054 
+very Metonic_cycle.txt 1 97 
+every Metonic_cycle.txt 3 412 554 822 
+fall Metonic_cycle.txt 1 774 
+difference Metonic_cycle.txt 2 150 562 
+categories Metonic_cycle.txt 2 1080 1082 
+meton Metonic_cycle.txt 5 120 240 341 641 1019 
+13-month Metonic_cycle.txt 1 668 
+small Metonic_cycle.txt 1 59 
+occurrence Metonic_cycle.txt 1 881 
+14456 Metonic_cycle.txt 1 35 
+invention Metonic_cycle.txt 1 863 
+further Metonic_cycle.txt 1 948 
+established Metonic_cycle.txt 1 932 
+sun Metonic_cycle.txt 2 499 782 
+current Metonic_cycle.txt 1 328 
+seconds Metonic_cycle.txt 1 999 
+axial Metonic_cycle.txt 1 342 
+new Metonic_cycle.txt 1 22 
+ever Metonic_cycle.txt 1 975 
+full Metonic_cycle.txt 6 46 71 144 410 567 898 
+hours Metonic_cycle.txt 2 166 397 
+twentieth Metonic_cycle.txt 2 769 790 
+intercalary Metonic_cycle.txt 3 220 299 760 
+i.e Metonic_cycle.txt 1 285 
+observing Metonic_cycle.txt 1 895 
+appears Metonic_cycle.txt 1 856 
+obtained Metonic_cycle.txt 1 1032 
+30 Metonic_cycle.txt 1 1038 
+commonly Metonic_cycle.txt 1 370 
+draconic Metonic_cycle.txt 1 437 
+432 Metonic_cycle.txt 1 245 
+although Metonic_cycle.txt 1 1002 
+extra Metonic_cycle.txt 1 578 
+visible Metonic_cycle.txt 1 63 
+365.256363 Metonic_cycle.txt 1 358 
+counts Metonic_cycle.txt 1 146 
+from Metonic_cycle.txt 5 24 88 783 912 925 
+takes Metonic_cycle.txt 1 792 
+would Metonic_cycle.txt 1 223 
+athens Metonic_cycle.txt 2 122 1021 
+livy Metonic_cycle.txt 1 750 
+next Metonic_cycle.txt 1 1049 
+comparing Metonic_cycle.txt 1 64 
+therefore Metonic_cycle.txt 2 408 549 
+6 Metonic_cycle.txt 1 658 
+more Metonic_cycle.txt 5 195 202 430 564 976 
+computistic Metonic_cycle.txt 1 27 
+started Metonic_cycle.txt 1 787 
+3:2 Metonic_cycle.txt 1 526 
+nineteen Metonic_cycle.txt 3 91 391 794 
+high Metonic_cycle.txt 1 828 
+computus Metonic_cycle.txt 1 284 
+hour Metonic_cycle.txt 1 994 
+this Metonic_cycle.txt 8 180 477 633 674 800 864 985 1003 
+originally Metonic_cycle.txt 1 730 
+eclipse Metonic_cycle.txt 1 444 
+can Metonic_cycle.txt 1 677 
+believed Metonic_cycle.txt 2 501 922 
+example Metonic_cycle.txt 3 39 514 980 
+links Metonic_cycle.txt 1 1076 
+predict Metonic_cycle.txt 1 681 
+in Metonic_cycle.txt 9 30 213 270 643 762 767 775 995 1009 
+depiction Metonic_cycle.txt 1 3 
+numbers Metonic_cycle.txt 1 964 
+235 Metonic_cycle.txt 4 138 159 235 400 
+keep Metonic_cycle.txt 1 208 
+swedish Metonic_cycle.txt 1 862 
+needs Metonic_cycle.txt 1 581 
+winter Metonic_cycle.txt 1 902 
+astronomers Metonic_cycle.txt 1 253 
+instead Metonic_cycle.txt 2 602 736 
+may Metonic_cycle.txt 1 729 
+after Metonic_cycle.txt 2 796 900 
+numa Metonic_cycle.txt 1 755 
+date Metonic_cycle.txt 4 18 290 700 924 
+such Metonic_cycle.txt 1 763 
+horizontal Metonic_cycle.txt 1 60 
+a Metonic_cycle.txt 32 13 25 58 67 94 105 128 164 175 184 209 254 433 461 482 516 529 551 561 566 594 599 609 623 764 837 849 860 1000 1026 1061 1065 
+short Metonic_cycle.txt 2 543 1042 
+st Metonic_cycle.txt 1 31 
+greek Metonic_cycle.txt 3 90 118 688 
+maintain Metonic_cycle.txt 1 381 
+so Metonic_cycle.txt 1 439 
+metonic Metonic_cycle.txt 12 0 10 43 84 310 329 404 462 672 806 844 952 
+octon Metonic_cycle.txt 1 458 
+687 Metonic_cycle.txt 1 996 
+125 Metonic_cycle.txt 1 1034 
+rounded Metonic_cycle.txt 1 142 
+developed Metonic_cycle.txt 1 1052 
+years Metonic_cycle.txt 21 7 92 101 132 157 356 362 393 414 468 558 575 656 669 735 739 795 824 884 947 997 
+unrounded Metonic_cycle.txt 1 191 
+its Metonic_cycle.txt 1 525 
+365-day Metonic_cycle.txt 1 546 
+before Metonic_cycle.txt 1 640 
+clm Metonic_cycle.txt 1 34 
+20 Metonic_cycle.txt 1 473 
+29 Metonic_cycle.txt 1 1045 
+abbey Metonic_cycle.txt 1 33 
+forms Metonic_cycle.txt 1 683 
+systems Metonic_cycle.txt 2 277 317 
+2014 Metonic_cycle.txt 1 332 
+hidden Metonic_cycle.txt 1 1081 
+babylonians Metonic_cycle.txt 2 628 706 
+propose Metonic_cycle.txt 1 622 
+they Metonic_cycle.txt 2 718 785 
+half Metonic_cycle.txt 2 432 992 
+not Metonic_cycle.txt 5 345 352 506 590 867 
+day Metonic_cycle.txt 3 53 411 434 
+edit Metonic_cycle.txt 6 336 646 950 1074 1077 1079 
+occasions Metonic_cycle.txt 1 230 
+each Metonic_cycle.txt 3 389 703 892 
+referred Metonic_cycle.txt 1 732 
+related Metonic_cycle.txt 1 955 
+year Metonic_cycle.txt 20 111 173 176 185 212 218 325 379 390 531 548 704 770 791 799 877 893 1001 1015 1067 
+approximated Metonic_cycle.txt 1 1022 
+1711 Metonic_cycle.txt 1 55 
+2300 Metonic_cycle.txt 1 57 
+since Metonic_cycle.txt 1 711 
+6,940-day Metonic_cycle.txt 1 181 
+7 Metonic_cycle.txt 1 238 
+antikythera Metonic_cycle.txt 1 264 
+red Metonic_cycle.txt 1 68 
+shows Metonic_cycle.txt 2 70 983 
+million Metonic_cycle.txt 1 419 
+beginning Metonic_cycle.txt 1 890 
+generate Metonic_cycle.txt 1 974 
+definition Metonic_cycle.txt 1 170 
+could Metonic_cycle.txt 1 351 
+days Metonic_cycle.txt 13 145 148 189 201 359 365 539 542 772 1031 1039 1046 1071 
+times Metonic_cycle.txt 1 388 
+motion Metonic_cycle.txt 1 722 
+length Metonic_cycle.txt 2 186 1011 
+place Metonic_cycle.txt 1 793 
+repeats Metonic_cycle.txt 1 48 
+first Metonic_cycle.txt 3 324 798 897 
+already Metonic_cycle.txt 1 249 
+manuscript Metonic_cycle.txt 1 28 
+number Metonic_cycle.txt 1 1028 
+one Metonic_cycle.txt 3 409 906 911 
+mercury Metonic_cycle.txt 1 523 
+earths Metonic_cycle.txt 1 495 
+ancient Metonic_cycle.txt 2 89 274 
+their Metonic_cycle.txt 1 65 
+approximately Metonic_cycle.txt 1 540 
+solstice Metonic_cycle.txt 1 903 
+indicate Metonic_cycle.txt 1 803 
+2 Metonic_cycle.txt 1 555 
+scheme Metonic_cycle.txt 2 626 634 
+gives Metonic_cycle.txt 2 183 986 
+way Metonic_cycle.txt 1 765 
+relationship Metonic_cycle.txt 1 728 
+that Metonic_cycle.txt 7 73 102 127 421 766 804 984 
+exactly Metonic_cycle.txt 2 135 1069 
+studies Metonic_cycle.txt 1 82 
+solar Metonic_cycle.txt 4 110 217 547 574 
+somewhat Metonic_cycle.txt 1 429 
+than Metonic_cycle.txt 4 203 399 431 565 
+11 Metonic_cycle.txt 3 200 541 660 
+king Metonic_cycle.txt 1 752 
+12 Metonic_cycle.txt 3 204 237 533 
+14 Metonic_cycle.txt 1 661 
+17 Metonic_cycle.txt 1 662 
+19 Metonic_cycle.txt 8 6 100 131 156 236 664 823 946 
+see Metonic_cycle.txt 1 1072 
+visited Metonic_cycle.txt 1 818 
+19-year-long Metonic_cycle.txt 1 843 
+and Metonic_cycle.txt 22 56 80 112 141 158 281 349 360 380 469 493 505 573 576 651 663 689 692 908 967 1016 1040 
+julian Metonic_cycle.txt 1 17 
+modern Metonic_cycle.txt 1 303 
+ages Metonic_cycle.txt 1 915 
+13th Metonic_cycle.txt 3 221 600 927 
+have Metonic_cycle.txt 7 224 508 592 631 731 817 858 
+seem Metonic_cycle.txt 2 589 629 
+any Metonic_cycle.txt 1 509 
+contents Metonic_cycle.txt 1 333 
+traditionally Metonic_cycle.txt 1 647 
+built Metonic_cycle.txt 1 261 
+depending Metonic_cycle.txt 1 167 
+mechanism Metonic_cycle.txt 1 265 
+note Metonic_cycle.txt 1 420 
+also Metonic_cycle.txt 6 75 426 442 846 941 1073 
+354 Metonic_cycle.txt 1 538 
+which Metonic_cycle.txt 6 197 314 446 676 784 920 
+added Metonic_cycle.txt 1 227 
+multiple Metonic_cycle.txt 1 107 
+numas Metonic_cycle.txt 1 811 
+most Metonic_cycle.txt 1 366 
+regular Metonic_cycle.txt 2 595 624 
+seasons Metonic_cycle.txt 1 383 
+measured Metonic_cycle.txt 1 719 
+traditional Metonic_cycle.txt 1 644 
+mechanical Metonic_cycle.txt 1 255 
+callippus Metonic_cycle.txt 1 1051 
+recurrences Metonic_cycle.txt 1 454 
+discovered Metonic_cycle.txt 1 348 
+runic Metonic_cycle.txt 2 834 853 
+earth Metonic_cycle.txt 1 492 
+metons Metonic_cycle.txt 1 616 
+fifth Metonic_cycle.txt 1 123 
+staff Metonic_cycle.txt 2 851 919 
+based Metonic_cycle.txt 3 375 840 942 
+knowledge Metonic_cycle.txt 1 870 
+19th Metonic_cycle.txt 1 938 
+should Metonic_cycle.txt 1 773 
+only Metonic_cycle.txt 4 163 448 910 990 
+8 Metonic_cycle.txt 1 659 
+means Metonic_cycle.txt 1 596 
+secular Metonic_cycle.txt 1 1007 
+between Metonic_cycle.txt 4 54 151 354 570 
+nearly Metonic_cycle.txt 1 104 
+during Metonic_cycle.txt 3 231 933 1047 
+precession Metonic_cycle.txt 1 343 
+rune Metonic_cycle.txt 1 850 
+common Metonic_cycle.txt 1 106 
+cycles Metonic_cycle.txt 4 405 476 944 978 
+bah Metonic_cycle.txt 1 930 
+365.242190 Metonic_cycle.txt 1 364 
+set Metonic_cycle.txt 1 887 
+12.4 Metonic_cycle.txt 1 416 
+observed Metonic_cycle.txt 1 126 
+depends Metonic_cycle.txt 1 312 
+decided Metonic_cycle.txt 1 612 
+are Metonic_cycle.txt 5 74 374 394 500 665 
+close Metonic_cycle.txt 2 98 427 
+calendar Metonic_cycle.txt 12 81 273 276 305 373 387 553 812 835 839 865 931 
+2.5 Metonic_cycle.txt 1 998 
+subject Metonic_cycle.txt 1 1005 
+said Metonic_cycle.txt 1 815 
+currently Metonic_cycle.txt 2 357 363 
+wikipedia Metonic_cycle.txt 1 2 
+3 Metonic_cycle.txt 2 557 657 
+various Metonic_cycle.txt 1 746 
+non-coincidental Metonic_cycle.txt 1 517 
+moons Metonic_cycle.txt 3 72 488 721 
+365 Metonic_cycle.txt 1 188 
+discovery Metonic_cycle.txt 1 617 
+25 Metonic_cycle.txt 1 475 
+initially Metonic_cycle.txt 1 588 
+365.25 Metonic_cycle.txt 1 1070 
+gregorian Metonic_cycle.txt 1 372 
+distinguish Metonic_cycle.txt 1 353 
+according Metonic_cycle.txt 1 748 
+against Metonic_cycle.txt 1 723 
+mean Metonic_cycle.txt 1 1066 
+whole Metonic_cycle.txt 1 1027 
+presumably Metonic_cycle.txt 1 825 
+regulates Metonic_cycle.txt 1 294 
+point Metonic_cycle.txt 1 829 
+color Metonic_cycle.txt 1 69 
+seems Metonic_cycle.txt 2 479 801 
+period Metonic_cycle.txt 3 95 129 234 
+coincidence Metonic_cycle.txt 1 483 
+255 Metonic_cycle.txt 1 436 
+considering Metonic_cycle.txt 1 174 
+late Metonic_cycle.txt 1 713 
+basis Metonic_cycle.txt 2 335 685 
+been Metonic_cycle.txt 3 347 743 859 
+tropical Metonic_cycle.txt 6 361 378 392 738 876 1014 
+much Metonic_cycle.txt 1 194 
+500 Metonic_cycle.txt 1 636 
+external Metonic_cycle.txt 1 1075 
+applied Metonic_cycle.txt 2 707 809 
+these Metonic_cycle.txt 1 316 
+9th-century Metonic_cycle.txt 1 26 
+athenians Metonic_cycle.txt 1 587 
+pace Metonic_cycle.txt 1 214 
+near Metonic_cycle.txt 1 51 
+error Metonic_cycle.txt 2 406 988 
+eclipses Metonic_cycle.txt 3 77 456 682 
+periods Metonic_cycle.txt 4 154 485 969 1059 
+seven Metonic_cycle.txt 1 229 
+century Metonic_cycle.txt 5 124 715 928 939 1050 
+almost Metonic_cycle.txt 1 134 
+is Metonic_cycle.txt 26 62 93 103 133 162 193 198 260 318 331 407 425 441 459 519 536 560 693 836 886 916 921 940 954 971 1004 
+thus Metonic_cycle.txt 1 638 
+it Metonic_cycle.txt 9 247 293 440 470 619 741 855 885 970 
+equal Metonic_cycle.txt 1 136 
+middle Metonic_cycle.txt 2 914 935 
+hebrew Metonic_cycle.txt 3 304 652 690 
+synodic Metonic_cycle.txt 7 114 139 160 205 401 465 534 
+nykping Metonic_cycle.txt 1 918 
+spin-orbit Metonic_cycle.txt 1 527 
+same Metonic_cycle.txt 2 386 778 
+shorter Metonic_cycle.txt 1 398 
+parts Metonic_cycle.txt 1 417 
+wheel Metonic_cycle.txt 1 14 
+independent Metonic_cycle.txt 1 504 
+calculation Metonic_cycle.txt 1 287 
+used Metonic_cycle.txt 6 269 320 371 679 694 744 
+appearances Metonic_cycle.txt 1 66 
+12-month Metonic_cycle.txt 1 210 
+resonance Metonic_cycle.txt 2 512 528 
+753-673 Metonic_cycle.txt 1 757 
+sidereal Metonic_cycle.txt 2 355 734 
+pompilius Metonic_cycle.txt 1 756 
+intercalating Metonic_cycle.txt 1 598 
+well Metonic_cycle.txt 1 639 
+hyperboreans Metonic_cycle.txt 1 820 
+rome Metonic_cycle.txt 1 754 
+position Metonic_cycle.txt 1 779 
+the Metonic_cycle.txt 99 5 9 16 20 41 45 83 109 113 117 149 152 169 172 190 216 232 242 258 263 266 271 278 282 286 289 295 302 306 309 323 327 338 369 377 382 385 403 422 457 484 487 491 494 498 520 545 571 586 603 627 649 655 666 671 684 687 696 699 705 708 712 720 724 726 751 768 771 777 781 789 797 805 819 827 831 833 842 872 875 880 889 896 901 904 909 913 917 926 929 934 937 951 1010 1013 1017 1023 1048 1053 
+less Metonic_cycle.txt 1 958 
+being Metonic_cycle.txt 1 319 
+accurate Metonic_cycle.txt 3 196 959 977 
+lunation Metonic_cycle.txt 1 1018 
+219 Metonic_cycle.txt 1 413 
+yet Metonic_cycle.txt 1 346 
+76-year Metonic_cycle.txt 1 1062 
+had Metonic_cycle.txt 3 344 593 786 
+simple Metonic_cycle.txt 1 981 
+add Metonic_cycle.txt 1 608 
+4 Metonic_cycle.txt 1 451 
+has Metonic_cycle.txt 1 742 
+easter Metonic_cycle.txt 4 21 292 322 702 
+around Metonic_cycle.txt 4 244 490 497 635 
+calendars Metonic_cycle.txt 5 367 645 654 691 747 
+possible Metonic_cycle.txt 2 620 972 
+recurs Metonic_cycle.txt 1 471 
+babylonian Metonic_cycle.txt 3 252 272 650 
+embolismic Metonic_cycle.txt 1 579 
+like Metonic_cycle.txt 1 368 
+perpetual Metonic_cycle.txt 1 838 
+mathematical Metonic_cycle.txt 1 334 
+astronomer Metonic_cycle.txt 1 119 
+110 Metonic_cycle.txt 1 1041 
+duration Metonic_cycle.txt 1 873 
+3.8 Metonic_cycle.txt 1 467 
+for Metonic_cycle.txt 10 38 78 321 449 550 648 695 745 979 1060 
+per Metonic_cycle.txt 1 418 
+moon Metonic_cycle.txt 3 23 47 899 
+leap Metonic_cycle.txt 1 883 
+does Metonic_cycle.txt 1 866 
+lunar Metonic_cycle.txt 6 76 115 211 530 568 572 
+fol Metonic_cycle.txt 1 36 
+christmas Metonic_cycle.txt 1 52 
+be Metonic_cycle.txt 6 178 226 481 503 583 678 
+medieval Metonic_cycle.txt 2 283 861 
+bc Metonic_cycle.txt 5 125 246 637 716 758 
+lunisolar Metonic_cycle.txt 2 552 653 
+sixth Metonic_cycle.txt 1 714 
+lasts Metonic_cycle.txt 1 447 
+by Metonic_cycle.txt 6 40 251 613 894 961 1033 
+on Metonic_cycle.txt 8 49 168 228 313 376 841 869 943 
+about Metonic_cycle.txt 6 199 395 450 472 537 991 
+of Metonic_cycle.txt 54 4 8 19 96 108 121 130 155 171 179 187 257 288 291 298 301 308 315 326 340 455 460 486 515 522 532 544 563 597 605 670 686 698 701 737 753 780 830 871 874 879 882 891 936 945 965 989 1012 1020 1030 1037 1044 1056 1068 
+months Metonic_cycle.txt 11 140 161 206 300 402 438 466 535 761 1036 1043 
+emmerams Metonic_cycle.txt 1 32 
+introduced Metonic_cycle.txt 2 241 632 
+or Metonic_cycle.txt 6 50 86 415 452 852 878 
+into Metonic_cycle.txt 1 262 
+two Metonic_cycle.txt 3 153 396 957 
+appropriate Metonic_cycle.txt 1 963 
+references Metonic_cycle.txt 1 1078 
+rely Metonic_cycle.txt 1 868 
+few Metonic_cycle.txt 1 165 
+inserted Metonic_cycle.txt 2 584 759 
+there Metonic_cycle.txt 1 559 
+question Metonic_cycle.txt 1 604 
+libration Metonic_cycle.txt 1 61 
+long Metonic_cycle.txt 2 667 1035 
+start Metonic_cycle.txt 1 307 
+stars Metonic_cycle.txt 1 725 
+was Metonic_cycle.txt 5 248 268 611 808 814 
+cycle Metonic_cycle.txt 28 1 11 44 85 182 192 243 259 267 280 297 311 330 424 445 463 478 518 673 675 710 807 832 845 953 1024 1055 1063 
+apollo Metonic_cycle.txt 1 813 
+with Metonic_cycle.txt 5 15 215 524 776 1064 
+he Metonic_cycle.txt 1 350 
+made Metonic_cycle.txt 2 29 618 
+subcycles Metonic_cycle.txt 1 960 
+official Metonic_cycle.txt 1 615 
+combining Metonic_cycle.txt 1 962 
+an Metonic_cycle.txt 7 219 443 513 577 614 987 993 
+as Metonic_cycle.txt 5 12 717 740 788 848 
+at Metonic_cycle.txt 4 337 384 826 888 
+physical Metonic_cycle.txt 1 511 
+intercalation Metonic_cycle.txt 2 585 625 
+47 Metonic_cycle.txt 1 464 
+when Metonic_cycle.txt 2 239 606 
+application Metonic_cycle.txt 1 642 
+5 Metonic_cycle.txt 1 453 
+details Metonic_cycle.txt 1 949 
+235:19 Metonic_cycle.txt 1 727 
+arithmetic Metonic_cycle.txt 1 982 
+variation Metonic_cycle.txt 1 1008 
+nineteen-year Metonic_cycle.txt 1 233 
+astronomy Metonic_cycle.txt 1 79 
+19-year Metonic_cycle.txt 6 42 296 423 709 968 1058 
+orbit Metonic_cycle.txt 3 489 496 521 
+rule Metonic_cycle.txt 1 279 
+almanac Metonic_cycle.txt 1 854 
+time Metonic_cycle.txt 1 339 
+once Metonic_cycle.txt 1 821 

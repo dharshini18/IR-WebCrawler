@@ -1,0 +1,701 @@
+all Lunation.txt 3 393 465 1350 
+chinese Lunation.txt 5 1207 1640 1654 1658 1716 
+suns Lunation.txt 1 207 
+maasa-kendha Lunation.txt 1 1028 
+month Lunation.txt 12 150 192 219 327 1190 1213 1421 1443 1558 1651 1671 1688 
+four Lunation.txt 2 634 1838 
+computation Lunation.txt 1 631 
+ecliptical Lunation.txt 3 546 554 1145 
+expressions Lunation.txt 1 604 
+disk Lunation.txt 1 45 
+whose Lunation.txt 1 1495 
+depend Lunation.txt 1 1165 
+referring Lunation.txt 1 1939 
+tt Lunation.txt 2 351 506 
+ruet-e-hilal Lunation.txt 2 1493 1527 
+to Lunation.txt 40 49 159 197 201 221 234 259 283 355 374 421 467 485 566 629 685 697 701 788 863 924 942 1066 1133 1252 1264 1308 1340 1346 1434 1552 1569 1714 1756 1835 1882 1940 2008 2012 2015 
+does Lunation.txt 1 1163 
+marks Lunation.txt 1 1185 
+must Lunation.txt 1 1618 
+mufti Lunation.txt 1 1498 
+brown Lunation.txt 3 580 809 912 
+rikta Lunation.txt 2 1294 1331 
+bibles Lunation.txt 1 1868 
+very Lunation.txt 2 80 1808 
+every Lunation.txt 2 1549 1686 
+difference Lunation.txt 4 402 451 733 1823 
+exact Lunation.txt 1 1449 
+categories Lunation.txt 3 1290 2029 2031 
+notes Lunation.txt 1 2022 
+large Lunation.txt 2 730 1906 
+these Lunation.txt 5 389 611 735 1283 1623 
+convenience Lunation.txt 1 648 
+saudi Lunation.txt 2 1462 1609 
+smaller Lunation.txt 2 448 692 
+force Lunation.txt 1 1373 
+controversial Lunation.txt 1 1531 
+incremented Lunation.txt 1 320 
+dealing Lunation.txt 1 1328 
+prediction Lunation.txt 1 719 
+sabbath Lunation.txt 2 1858 1875 
+shahadats Lunation.txt 1 1537 
+second Lunation.txt 2 640 1967 
+crescent Lunation.txt 7 82 119 129 1070 1184 1425 1470 
+meeuss Lunation.txt 1 623 
+will Lunation.txt 5 1113 1444 1454 1959 1997 
+adds Lunation.txt 1 1833 
+clock Lunation.txt 2 365 1478 
+waning Lunation.txt 1 1281 
+sun Lunation.txt 9 34 93 127 293 558 774 868 1078 1149 
+section Lunation.txt 1 519 
+abdullah Lunation.txt 1 1467 
+brief Lunation.txt 1 1088 
+expressed Lunation.txt 2 359 663 
+witnesses Lunation.txt 1 1536 
+lunisolar Lunation.txt 3 1198 1711 1774 
+29.833 Lunation.txt 1 433 
+above Lunation.txt 4 136 379 655 1180 
+fractional Lunation.txt 1 627 
+new Lunation.txt 40 0 10 17 23 72 105 157 239 289 311 394 419 424 490 822 852 891 936 1063 1108 1125 1221 1237 1250 1268 1365 1416 1420 1465 1515 1550 1599 1644 1665 1680 1848 1854 1878 1975 1980 
+method Lunation.txt 1 484 
+thin Lunation.txt 1 81 
+full Lunation.txt 4 477 938 1231 1668 
+iran Lunation.txt 1 1542 
+17038 Lunation.txt 1 1021 
+respectively Lunation.txt 1 279 
+hours Lunation.txt 4 179 1839 1903 1910 
+groups Lunation.txt 1 1564 
+making Lunation.txt 1 1431 
+i.e Lunation.txt 2 415 435 
+fifteen Lunation.txt 2 1272 1284 
+change Lunation.txt 2 382 466 
+extreme Lunation.txt 1 274 
+obtained Lunation.txt 1 378 
+gln Lunation.txt 1 959 
+vegetarian Lunation.txt 1 1661 
+commonly Lunation.txt 1 805 
+periodic Lunation.txt 2 380 462 
+within Lunation.txt 1 1911 
+published Lunation.txt 1 619 
+calculators Lunation.txt 1 574 
+46:1 Lunation.txt 1 1886 
+changes Lunation.txt 1 702 
+onwards Lunation.txt 1 1934 
+reckoned Lunation.txt 1 342 
+named Lunation.txt 1 1400 
+ephemerides Lunation.txt 2 354 578 
+bahullh Lunation.txt 1 1958 
+rule-based Lunation.txt 1 1710 
+explained Lunation.txt 1 715 
+marked Lunation.txt 1 1215 
+visible Lunation.txt 4 48 118 133 1069 
+1st Lunation.txt 1 588 
+festivals Lunation.txt 1 1759 
+rarely Lunation.txt 1 86 
+singing Lunation.txt 1 1919 
+muneeb-ur-rehman Lunation.txt 1 1499 
+1900 Lunation.txt 1 584 
+use Lunation.txt 2 802 1791 
+eye Lunation.txt 1 52 
+takes Lunation.txt 1 1080 
+0 Lunation.txt 4 307 885 947 1031 
+distinct Lunation.txt 1 1733 
+two Lunation.txt 1 1941 
+next Lunation.txt 2 161 423 
+mid-october Lunation.txt 1 2011 
+therefore Lunation.txt 2 1095 1629 
+peru Lunation.txt 1 1851 
+6 Lunation.txt 1 902 
+theoretical Lunation.txt 1 682 
+minor Lunation.txt 1 1696 
+more Lunation.txt 1 492 
+fractions Lunation.txt 1 338 
+chapront Lunation.txt 2 606 615 
+holy Lunation.txt 2 1937 1943 
+advance Lunation.txt 3 1438 1460 1985 
+started Lunation.txt 1 1387 
+becomes Lunation.txt 1 1637 
+apparent Lunation.txt 1 755 
+occurred Lunation.txt 2 844 896 
+varying Lunation.txt 1 864 
+known Lunation.txt 3 347 1128 1458 
+central Lunation.txt 2 1492 1526 
+outdated Lunation.txt 1 614 
+chapronts Lunation.txt 1 659 
+circumstances Lunation.txt 1 1171 
+ii Lunation.txt 1 1781 
+graphic Lunation.txt 1 14 
+sanctified Lunation.txt 1 1872 
+this Lunation.txt 18 41 128 357 428 445 568 895 907 1079 1111 1158 1388 1481 1559 1772 1788 1822 1996 
+1998 Lunation.txt 1 610 
+torques Lunation.txt 1 865 
+work Lunation.txt 3 1269 1351 1889 
+eclipse Lunation.txt 3 59 98 1177 
+longitude Lunation.txt 4 39 547 555 1146 
+vs Lunation.txt 1 1813 
+values Lunation.txt 2 391 736 
+can Lunation.txt 8 193 227 536 955 985 1015 1046 1624 
+starts Lunation.txt 1 1360 
+following Lunation.txt 4 371 671 1616 1969 
+ernest Lunation.txt 1 829 
+71234 Lunation.txt 1 991 
+history Lunation.txt 1 797 
+links Lunation.txt 1 2027 
+calculation Lunation.txt 2 1600 1789 
+hebrew Lunation.txt 4 963 973 1203 1700 
+states Lunation.txt 1 1382 
+council Lunation.txt 2 1584 1591 
+times Lunation.txt 1 1842 
+occur Lunation.txt 2 854 1604 
+terrestrial Lunation.txt 1 349 
+influenced Lunation.txt 1 1115 
+january Lunation.txt 3 849 901 950 
+imminent Lunation.txt 1 1634 
+divided Lunation.txt 1 1286 
+1 Lunation.txt 7 322 502 765 816 843 977 1007 
+varies Lunation.txt 1 426 
+browns Lunation.txt 1 831 
+parameter Lunation.txt 1 560 
+may Lunation.txt 2 727 1890 
+after Lunation.txt 7 123 141 1074 1363 1401 1621 1977 
+islamic Lunation.txt 6 993 1003 1193 1403 1407 1738 
+designed Lunation.txt 1 1755 
+date Lunation.txt 3 1102 1450 1694 
+such Lunation.txt 2 264 1200 
+eighth Lunation.txt 1 1974 
+a Lunation.txt 34 13 57 79 96 146 170 215 222 230 248 413 481 626 639 665 785 793 1087 1175 1371 1393 1441 1477 1491 1543 1573 1630 1660 1709 1793 1814 1831 1857 1905 
+attempt Lunation.txt 1 1568 
+effective Lunation.txt 1 1931 
+14h13m Lunation.txt 1 406 
+maybe Lunation.txt 1 750 
+algorithms Lunation.txt 1 592 
+allow Lunation.txt 1 630 
+keeps Lunation.txt 1 1852 
+order Lunation.txt 1 1303 
+j2000.0 Lunation.txt 1 164 
+buddhist Lunation.txt 1 1657 
+astronomical Lunation.txt 5 571 591 840 1124 1987 
+vary Lunation.txt 1 194 
+major Lunation.txt 1 838 
+years Lunation.txt 1 1727 
+0.5"/cy Lunation.txt 1 751 
+through Lunation.txt 1 1300 
+committee Lunation.txt 4 1494 1528 1545 1560 
+still Lunation.txt 2 109 1807 
+its Lunation.txt 2 254 1518 
+before Lunation.txt 2 144 1605 
+observational Lunation.txt 1 1412 
+group Lunation.txt 1 1846 
+16843 Lunation.txt 1 1052 
+22 Lunation.txt 1 1041 
+ln Lunation.txt 5 917 960 990 1020 1051 
+birthdays Lunation.txt 2 1938 2005 
+29 Lunation.txt 1 176 
+actually Lunation.txt 1 1428 
+2401 Lunation.txt 1 399 
+2015 Lunation.txt 1 1933 
+hidden Lunation.txt 1 2030 
+main Lunation.txt 2 635 1675 
+good Lunation.txt 1 1375 
+amavasya Lunation.txt 1 1367 
+babylonians Lunation.txt 1 1804 
+seventh-day Lunation.txt 1 1874 
+02:41 Lunation.txt 1 847 
+effects Lunation.txt 1 204 
+front Lunation.txt 1 90 
+rotation Lunation.txt 1 722 
+now Lunation.txt 1 613 
+day Lunation.txt 7 1354 1362 1389 1396 1617 1832 1968 
+easily Lunation.txt 1 537 
+term Lunation.txt 3 104 678 680 
+0.302d Lunation.txt 1 440 
+edit Lunation.txt 13 244 530 777 1055 1235 1405 1642 1674 1926 2021 2023 2025 2028 
+2000-01-01 Lunation.txt 1 340 
+0.5"/s Lunation.txt 1 764 
+each Lunation.txt 7 218 224 324 789 1276 1557 1670 
+side Lunation.txt 1 69 
+mean Lunation.txt 8 286 390 453 534 545 553 756 1794 
+status Lunation.txt 1 1523 
+observance Lunation.txt 1 2001 
+another Lunation.txt 1 869 
+29.272 Lunation.txt 1 431 
+related Lunation.txt 2 1318 1339 
+conventions Lunation.txt 1 799 
+hln Lunation.txt 1 989 
+year Lunation.txt 5 315 827 1981 2007 2009 
+et Lunation.txt 2 607 616 
+special Lunation.txt 1 1544 
+announces Lunation.txt 1 1510 
+since Lunation.txt 4 339 516 1517 1840 
+research Lunation.txt 1 1595 
+bln Lunation.txt 2 812 916 
+7 Lunation.txt 1 981 
+reader Lunation.txt 1 651 
+formula Lunation.txt 7 243 282 499 529 624 653 905 
+1651 Lunation.txt 1 944 
+occurs Lunation.txt 1 1136 
+theory Lunation.txt 1 833 
+ecliptic Lunation.txt 1 38 
+springtime Lunation.txt 1 1771 
+beginning Lunation.txt 11 791 818 887 948 978 1009 1033 1187 1210 1555 1648 
+definition Lunation.txt 3 1112 1138 1413 
+fixed Lunation.txt 1 1773 
+retained Lunation.txt 1 1410 
+silhouetted Lunation.txt 1 55 
+determining Lunation.txt 1 238 
+days Lunation.txt 10 174 177 199 253 336 405 434 1812 1821 1944 
+praises Lunation.txt 1 1920 
+keep Lunation.txt 1 1659 
+18:14 Lunation.txt 1 899 
+length Lunation.txt 4 168 187 246 1796 
+place Lunation.txt 2 1081 1620 
+moving Lunation.txt 1 2006 
+1001 Lunation.txt 2 940 952 
+first Lunation.txt 10 27 117 310 821 890 1068 1183 1353 1424 1964 
+622 Lunation.txt 1 1013 
+meeus Lunation.txt 2 563 882 
+powerful Lunation.txt 1 1372 
+number Lunation.txt 15 233 334 776 780 786 811 873 878 909 914 922 965 995 1025 1907 
+one Lunation.txt 5 156 190 459 795 1562 
+done Lunation.txt 1 1892 
+adopted Lunation.txt 2 1579 1638 
+directly Lunation.txt 1 88 
+impossible Lunation.txt 1 1433 
+precisely Lunation.txt 1 1626 
+angular Lunation.txt 1 757 
+temples Lunation.txt 1 1916 
+passes Lunation.txt 1 87 
+given Lunation.txt 3 654 787 860 
+reference Lunation.txt 1 1995 
+approximately Lunation.txt 3 501 846 898 
+their Lunation.txt 2 468 1763 
+perturbations Lunation.txt 1 381 
+observations Lunation.txt 2 1471 1547 
+hundred Lunation.txt 1 1563 
+mostly Lunation.txt 1 699 
+that Lunation.txt 8 64 318 1302 1383 1602 1612 1758 1870 
+season Lunation.txt 1 1765 
+explanation Lunation.txt 2 520 526 
+accurately Lunation.txt 1 493 
+elp2000-85 Lunation.txt 1 596 
+elp2000-82 Lunation.txt 1 601 
+western Lunation.txt 2 138 1084 
+tehran Lunation.txt 1 1990 
+july Lunation.txt 1 1011 
+than Lunation.txt 2 443 449 
+11 Lunation.txt 4 508 737 951 1902 
+king Lunation.txt 1 1466 
+12 Lunation.txt 1 178 
+17 Lunation.txt 1 850 
+16 Lunation.txt 1 1012 
+project Lunation.txt 1 1486 
+1923 Lunation.txt 2 825 851 
+lunations Lunation.txt 2 970 1000 
+minus Lunation.txt 1 551 
+result Lunation.txt 4 330 369 376 1998 
+and Lunation.txt 47 33 143 182 270 276 294 317 328 337 398 432 454 507 581 585 637 662 669 937 954 1092 1094 1099 1162 1168 1195 1280 1295 1324 1430 1472 1588 1594 1611 1628 1667 1689 1695 1732 1740 1782 1800 1876 1897 1918 1954 1965 
+addressing Lunation.txt 1 1480 
+julian Lunation.txt 2 856 1043 
+disambiguation Lunation.txt 1 12 
+modern Lunation.txt 1 1703 
+have Lunation.txt 2 35 674 
+seen Lunation.txt 1 1429 
+any Lunation.txt 1 189 
+contents Lunation.txt 1 237 
+angle Lunation.txt 1 723 
+gravity Lunation.txt 1 208 
+predominantly Lunation.txt 1 1742 
+purna Lunation.txt 2 1296 1342 
+also Lunation.txt 5 622 1057 1224 1392 2020 
+take Lunation.txt 1 1619 
+which Lunation.txt 8 107 813 1297 1368 1390 1452 1509 1805 
+worldwide Lunation.txt 2 1576 1639 
+even Lunation.txt 1 1100 
+begin Lunation.txt 3 1253 1445 1455 
+added Lunation.txt 1 676 
+opposite Lunation.txt 1 470 
+falls Lunation.txt 1 1768 
+most Lunation.txt 1 804 
+ensure Lunation.txt 1 1757 
+significant Lunation.txt 1 1240 
+formulae Lunation.txt 3 523 565 572 
+phase Lunation.txt 4 19 29 42 76 
+america Lunation.txt 1 1587 
+measured Lunation.txt 1 1728 
+the Lunation.txt 200 16 22 26 31 36 43 50 62 67 71 74 84 92 99 103 116 121 126 137 152 160 163 166 186 202 206 210 245 266 273 285 309 314 329 333 344 368 375 383 400 410 416 422 450 461 473 476 487 494 498 522 528 531 544 549 552 557 577 595 597 633 643 647 650 652 670 681 691 704 707 710 725 732 739 742 745 754 760 768 773 778 803 808 820 826 837 859 867 876 889 904 911 919 925 962 967 972 992 997 1002 1022 1035 1067 1072 1077 1083 1096 1101 1104 1107 1117 1121 1123 1130 1140 1148 1151 1156 1179 1182 1186 1189 1192 1202 1206 1209 1212 1217 1220 1230 1236 1242 1249 1256 1260 1278 1352 1356 1361 1364 1378 1384 1398 1406 1415 1419 1423 1448 1464 1505 1511 1514 1522 1525 1535 1554 1582 1589 1598 1615 1643 1647 1650 1653 1664 1679 1683 1699 1702 1706 1715 1735 1741 1746 1770 1785 1843 1847 1853 1867 1873 1877 1898 1912 1915 1922 1928 1935 1946 1949 1952 1955 1963 1966 1970 1973 1992 2000 2003 2016 
+fiqh Lunation.txt 1 1583 
+considered Lunation.txt 6 1263 1307 1334 1345 1370 1691 
+average Lunation.txt 3 153 167 444 
+sometimes Lunation.txt 2 110 1127 
+coincides Lunation.txt 1 1173 
+goldstine Lunation.txt 2 920 931 
+spend Lunation.txt 1 1908 
+traditional Lunation.txt 1 1764 
+sunset Lunation.txt 4 142 1091 1606 1622 
+velocity Lunation.txt 1 758 
+assisted Lunation.txt 1 1500 
+favorable Lunation.txt 3 1266 1310 1348 
+precise Lunation.txt 2 255 1097 
+gates Lunation.txt 1 1913 
+purely Lunation.txt 1 1736 
+earth Lunation.txt 3 708 726 1157 
+faith Lunation.txt 1 1930 
+thai Lunation.txt 1 1023 
+based Lunation.txt 4 575 593 657 1751 
+parameters Lunation.txt 2 621 661 
+with Lunation.txt 15 125 306 602 664 772 858 910 945 975 1005 1076 1147 1174 1319 1329 
+increasingly Lunation.txt 1 870 
+only Lunation.txt 4 749 1336 1825 1837 
+over Lunation.txt 1 1082 
+his Lunation.txt 3 570 587 933 
+naw-rz Lunation.txt 1 1978 
+hillel Lunation.txt 1 1780 
+numbering Lunation.txt 1 927 
+secular Lunation.txt 1 644 
+moons Lunation.txt 6 211 240 395 853 939 1879 
+ramadan Lunation.txt 1 1453 
+cannot Lunation.txt 1 464 
+rest Lunation.txt 1 1860 
+international Lunation.txt 1 1484 
+during Lunation.txt 2 56 458 
+conjunction Lunation.txt 9 124 291 387 456 535 771 1075 1143 1603 
+well Lunation.txt 1 1725 
+29.26 Lunation.txt 1 196 
+sects Lunation.txt 1 1540 
+generally Lunation.txt 1 1246 
+cycled Lunation.txt 1 1299 
+cycles Lunation.txt 2 1723 1731 
+where Lunation.txt 1 300 
+bah Lunation.txt 4 1924 1929 1947 1979 
+computed Lunation.txt 1 539 
+observer Lunation.txt 1 1122 
+national Lunation.txt 1 839 
+delauney Lunation.txt 1 559 
+observed Lunation.txt 3 693 1761 1961 
+edition Lunation.txt 2 589 599 
+see Lunation.txt 7 9 472 518 1056 1817 1884 2019 
+2.8 Lunation.txt 1 183 
+are Lunation.txt 8 612 800 1271 1298 1306 1333 1344 1760 
+calendar Lunation.txt 30 217 974 1004 1037 1044 1059 1194 1204 1208 1234 1244 1359 1404 1408 1577 1632 1641 1655 1673 1701 1707 1712 1717 1739 1745 1748 1775 1925 1948 2018 
+chodesh Lunation.txt 1 1678 
+mecca Lunation.txt 1 1608 
+phases Lunation.txt 1 636 
+mid-november Lunation.txt 1 2013 
+wikipedia Lunation.txt 1 2 
+3 Lunation.txt 1 1887 
+determined Lunation.txt 1 1983 
+between Lunation.txt 7 268 292 396 430 452 734 1090 
+astrology Lunation.txt 1 1227 
+a.d Lunation.txt 1 943 
+24 Lunation.txt 1 1909 
+terms Lunation.txt 3 463 645 673 
+god Lunation.txt 1 1871 
+nature Lunation.txt 1 263 
+confusion Lunation.txt 1 1135 
+however Lunation.txt 1 185 
+gregorian Lunation.txt 2 1744 2017 
+invisible Lunation.txt 1 1154 
+article Lunation.txt 2 474 1676 
+both Lunation.txt 1 1581 
+dates Lunation.txt 8 857 1274 1285 1305 1315 1326 1332 1343 
+improved Lunation.txt 2 603 620 
+always Lunation.txt 1 1767 
+iln Lunation.txt 1 1019 
+many Lunation.txt 1 260 
+uncertainty Lunation.txt 2 716 861 
+according Lunation.txt 1 2014 
+receives Lunation.txt 1 1546 
+long-term Lunation.txt 1 495 
+contribution Lunation.txt 1 684 
+expression Lunation.txt 1 542 
+tln Lunation.txt 1 1050 
+pakistan Lunation.txt 2 1488 1506 
+point Lunation.txt 1 1993 
+simple Lunation.txt 1 483 
+jaya Lunation.txt 2 1293 1325 
+ca Lunation.txt 2 583 1810 
+period Lunation.txt 3 429 1089 1258 
+community Lunation.txt 1 1320 
+2nd Lunation.txt 1 598 
+cy Lunation.txt 3 503 509 513 
+simply Lunation.txt 1 874 
+6h12m Lunation.txt 1 437 
+church Lunation.txt 1 1864 
+observatories Lunation.txt 1 1503 
+throughout Lunation.txt 1 1921 
+29.530594 Lunation.txt 1 1811 
+sunday Lunation.txt 1 1039 
+addition Lunation.txt 1 1881 
+unaided Lunation.txt 1 51 
+due Lunation.txt 3 200 700 862 
+been Lunation.txt 2 675 1530 
+earthlight Lunation.txt 1 63 
+mars Lunation.txt 1 1402 
+wait Lunation.txt 1 1247 
+correction Lunation.txt 1 373 
+direction Lunation.txt 1 409 
+638 Lunation.txt 1 1042 
+cruelty Lunation.txt 1 1341 
+observers Lunation.txt 1 1566 
+external Lunation.txt 1 2026 
+present Lunation.txt 1 1815 
+evangelical Lunation.txt 1 1863 
+holiday Lunation.txt 1 1697 
+unify Lunation.txt 1 1570 
+contexts Lunation.txt 2 114 1062 
+appearance Lunation.txt 1 1105 
+single Lunation.txt 1 666 
+value Lunation.txt 3 471 694 1816 
+n Lunation.txt 1 301 
+neap Lunation.txt 1 271 
+error Lunation.txt 2 496 740 
+periods Lunation.txt 1 1282 
+29.80 Lunation.txt 1 198 
+century Lunation.txt 1 1787 
+is Lunation.txt 47 25 46 77 108 131 151 172 250 257 299 302 319 332 403 447 500 514 656 687 695 712 748 762 784 807 915 966 996 1026 1153 1160 1214 1223 1229 1239 1262 1369 1427 1456 1490 1497 1633 1646 1690 1708 1749 1806 
+it Lunation.txt 10 236 984 1014 1045 1172 1432 1533 1636 1865 1883 
+discrepancy Lunation.txt 1 711 
+sleeping Lunation.txt 1 1917 
+bhadra Lunation.txt 2 1292 1314 
+itself Lunation.txt 1 747 
+in Lunation.txt 59 20 89 95 112 162 214 262 313 343 353 360 407 427 505 511 569 586 609 703 741 767 796 801 836 932 971 1001 1060 1086 1144 1169 1178 1191 1196 1205 1226 1241 1301 1437 1446 1459 1461 1474 1487 1520 1541 1596 1607 1652 1698 1721 1729 1762 1769 1880 1927 1945 1984 1999 
+arabia Lunation.txt 2 1463 1610 
+synodic Lunation.txt 3 149 191 326 
+if Lunation.txt 1 1635 
+scientifically Lunation.txt 1 1574 
+00:00:00 Lunation.txt 1 341 
+same Lunation.txt 1 37 
+linked Lunation.txt 1 258 
+shorter Lunation.txt 1 438 
+epoch Lunation.txt 1 165 
+geographical Lunation.txt 1 1118 
+several Lunation.txt 1 798 
+conflict Lunation.txt 1 1330 
+european Lunation.txt 1 1590 
+week Lunation.txt 1 1399 
+fairly Lunation.txt 1 482 
+used Lunation.txt 5 111 352 806 928 1797 
+centuries Lunation.txt 1 515 
+dusk Lunation.txt 2 1894 1896 
+eccentric Lunation.txt 1 212 
+meteorological Lunation.txt 1 1507 
+social Lunation.txt 1 1321 
+marking Lunation.txt 1 1418 
+evil Lunation.txt 1 1377 
+usually Lunation.txt 1 78 
+moment Lunation.txt 5 358 488 532 1141 1159 
+uses Lunation.txt 5 8 600 625 638 1561 
+mangalvaar Lunation.txt 1 1395 
+cycle Lunation.txt 3 226 479 783 
+shortly Lunation.txt 1 140 
+1601 Lunation.txt 1 397 
+makes Lunation.txt 1 1790 
+1974 Lunation.txt 1 1521 
+1973 Lunation.txt 1 934 
+thought Lunation.txt 1 696 
+b.c Lunation.txt 1 941 
+position Lunation.txt 1 743 
+jean Lunation.txt 2 562 881 
+953 Lunation.txt 1 918 
+latest Lunation.txt 1 660 
+unified Lunation.txt 1 1631 
+from Lunation.txt 16 4 155 195 388 418 540 605 792 866 1155 1538 1734 1803 1893 1932 2010 
+moments Lunation.txt 1 287 
+when Lunation.txt 7 30 54 134 828 1150 1422 1440 
+accurate Lunation.txt 1 1809 
+lunation Lunation.txt 30 5 147 171 223 232 249 414 460 775 779 782 790 810 815 842 872 877 884 908 913 921 926 946 964 976 994 1006 1024 1030 1795 
+obtain Lunation.txt 1 356 
+ninth Lunation.txt 1 1786 
+makkah Lunation.txt 1 1475 
+assigned Lunation.txt 1 229 
+not Lunation.txt 4 47 713 1164 1457 
+shape Lunation.txt 1 705 
+identify Lunation.txt 1 235 
+world Lunation.txt 1 364 
+tables Lunation.txt 1 1988 
+rosh Lunation.txt 1 1677 
+family Lunation.txt 1 1322 
+except Lunation.txt 2 53 94 
+add Lunation.txt 1 367 
+book Lunation.txt 1 935 
+location Lunation.txt 2 1119 1167 
+has Lunation.txt 3 1409 1476 1529 
+tuesday Lunation.txt 1 1394 
+gave Lunation.txt 1 564 
+3761 Lunation.txt 1 982 
+march Lunation.txt 1 1040 
+rules Lunation.txt 2 1754 1777 
+calendars Lunation.txt 2 1054 1199 
+corresponds Lunation.txt 1 220 
+dark Lunation.txt 3 68 1131 1218 
+auspicious Lunation.txt 1 1312 
+five Lunation.txt 2 1289 1828 
+birth Lunation.txt 2 1950 1956 
+integer Lunation.txt 2 304 667 
+unique Lunation.txt 2 231 1161 
+projects Lunation.txt 1 1254 
+nanda Lunation.txt 2 1291 1304 
+d Lunation.txt 3 331 377 561 
+almanacs Lunation.txt 1 841 
+follows Lunation.txt 2 1776 1866 
+twin Lunation.txt 2 1936 2004 
+specific Lunation.txt 1 1442 
+millionths Lunation.txt 1 1829 
+37105 Lunation.txt 1 961 
+either Lunation.txt 1 408 
+fully Lunation.txt 1 714 
+popular Lunation.txt 1 871 
+works Lunation.txt 3 1313 1317 1338 
+mathematical Lunation.txt 1 1753 
+beneficial Lunation.txt 1 1335 
+because Lunation.txt 4 83 457 709 753 
+people Lunation.txt 1 1245 
+spring Lunation.txt 1 269 
+creation Lunation.txt 1 1519 
+phenomena Lunation.txt 1 261 
+calculated Lunation.txt 7 957 987 1017 1048 1575 1627 1750 
+daylight Lunation.txt 1 60 
+fatwa Lunation.txt 1 1593 
+duration Lunation.txt 2 256 411 
+pentecostal Lunation.txt 1 1845 
+29.53 Lunation.txt 1 252 
+scale Lunation.txt 1 346 
+for Lunation.txt 24 6 296 308 323 392 480 524 543 573 642 646 1248 1267 1275 1311 1316 1327 1337 1349 1374 1469 1479 1592 1901 
+teachings Lunation.txt 1 1869 
+avoid Lunation.txt 1 1134 
+centre Lunation.txt 1 1468 
+moon Lunation.txt 47 1 11 18 24 32 73 85 106 122 130 158 290 295 312 420 425 478 491 550 746 761 823 892 1064 1073 1109 1126 1132 1152 1219 1222 1232 1238 1251 1261 1273 1366 1417 1426 1516 1551 1645 1666 1669 1681 1855 1976 
+29.530589 Lunation.txt 1 1820 
+29.530588 Lunation.txt 1 173 
+lunar Lunation.txt 10 28 44 216 225 832 1053 1058 1357 1722 1737 
+newcomb Lunation.txt 1 582 
+epic Lunation.txt 1 1380 
+t Lunation.txt 1 686 
+measuring Lunation.txt 1 1718 
+be Lunation.txt 16 228 538 698 728 956 986 1016 1047 1114 1265 1309 1347 1435 1625 1891 1960 
+particular Lunation.txt 1 1447 
+run Lunation.txt 1 1900 
+scientific Lunation.txt 1 1485 
+bb Lunation.txt 1 1953 
+bc Lunation.txt 2 953 983 
+seconds Lunation.txt 3 184 504 510 
+night Lunation.txt 1 1923 
+mahabharatha Lunation.txt 1 1381 
+refused Lunation.txt 1 1534 
+diet Lunation.txt 1 1662 
+although Lunation.txt 1 1904 
+tidal Lunation.txt 1 683 
+relating Lunation.txt 1 906 
+refers Lunation.txt 2 923 1065 
+by Lunation.txt 12 321 880 929 1110 1116 1137 1216 1501 1580 1779 1798 1986 
+on Lunation.txt 18 209 475 576 594 658 855 888 949 979 1010 1038 1166 1451 1572 1614 1663 1752 1962 
+about Lunation.txt 4 251 688 763 1836 
+actual Lunation.txt 1 75 
+passover Lunation.txt 1 1766 
+of Lunation.txt 71 70 91 102 120 169 188 205 247 288 335 370 385 412 489 497 521 527 533 548 556 579 590 632 649 706 717 720 724 744 759 770 824 893 969 999 1034 1071 1103 1106 1120 1142 1188 1211 1259 1277 1355 1397 1414 1439 1504 1513 1524 1548 1556 1565 1585 1649 1685 1705 1792 1819 1824 1830 1850 1859 1914 1951 1957 1972 1994 2002 
+months Lunation.txt 2 298 1719 
+messianic Lunation.txt 1 1844 
+outshines Lunation.txt 1 61 
+range Lunation.txt 1 446 
+muslims Lunation.txt 1 1571 
+southeast-asian Lunation.txt 1 1036 
+sighting Lunation.txt 1 1512 
+horizon Lunation.txt 2 139 1085 
+hindu Lunation.txt 4 1233 1243 1358 1379 
+introduced Lunation.txt 3 835 879 1778 
+or Lunation.txt 7 148 175 439 752 781 1376 1827 
+s/cy Lunation.txt 3 690 738 766 
+into Lunation.txt 1 1288 
+successive Lunation.txt 3 297 325 1942 
+7h15m Lunation.txt 1 441 
+down Lunation.txt 1 1802 
+services Lunation.txt 1 1899 
+perturbing Lunation.txt 1 203 
+references Lunation.txt 1 2024 
+determine Lunation.txt 1 1553 
+refined Lunation.txt 1 1783 
+additional Lunation.txt 1 672 
+ptolemy Lunation.txt 1 1799 
+there Lunation.txt 2 1270 1489 
+approximate Lunation.txt 3 242 281 372 
+signifies Lunation.txt 1 1682 
+herman Lunation.txt 1 930 
+start Lunation.txt 1 1684 
+quadratic Lunation.txt 1 679 
+low Lunation.txt 1 135 
+was Lunation.txt 4 115 834 1391 1578 
+war Lunation.txt 1 1386 
+lowest Lunation.txt 1 277 
+head Lunation.txt 1 1496 
+north Lunation.txt 1 1586 
+form Lunation.txt 1 1704 
+jewish Lunation.txt 3 1672 1687 1747 
+some Lunation.txt 2 1197 1656 
+illuminates Lunation.txt 1 66 
+solar Lunation.txt 5 58 97 1176 1730 1743 
+highest Lunation.txt 1 275 
+true Lunation.txt 2 386 455 
+count Lunation.txt 2 968 998 
+utc Lunation.txt 2 848 900 
+october Lunation.txt 1 980 
+compute Lunation.txt 3 284 486 567 
+israelites Lunation.txt 1 1849 
+ut Lunation.txt 3 363 512 721 
+maximum Lunation.txt 2 401 469 
+until Lunation.txt 2 1784 1895 
+below Lunation.txt 1 1818 
+minutes Lunation.txt 1 181 
+called Lunation.txt 2 875 1027 
+150 Lunation.txt 1 1502 
+constant Lunation.txt 1 677 
+up Lunation.txt 1 1834 
+defined Lunation.txt 1 1720 
+certain Lunation.txt 3 794 1170 1436 
+universal Lunation.txt 1 361 
+akin Lunation.txt 1 1713 
+al Lunation.txt 2 608 617 
+ezekiel Lunation.txt 1 1885 
+an Lunation.txt 9 241 280 303 541 1411 1483 1567 1692 1862 
+as Lunation.txt 20 265 348 729 731 817 886 1008 1032 1129 1201 1228 1255 1482 1532 1724 1726 1856 1861 1982 1991 
+at Lunation.txt 5 40 819 845 897 1139 
+0.0000005 Lunation.txt 1 1826 
+our Lunation.txt 1 718 
+0.259d Lunation.txt 1 436 
+babylonian Lunation.txt 1 1841 
+defines Lunation.txt 3 814 883 1029 
+dimly Lunation.txt 1 65 
+no Lunation.txt 1 1888 
+44 Lunation.txt 1 180 
+42 Lunation.txt 1 689 
+waxing Lunation.txt 2 1257 1279 
+handed Lunation.txt 1 1801 
+other Lunation.txt 2 7 1539 
+details Lunation.txt 1 525 
+department Lunation.txt 1 1508 
+briefly Lunation.txt 1 132 
+tides Lunation.txt 2 272 278 
+0.592 Lunation.txt 1 404 
+variation Lunation.txt 1 267 
+william Lunation.txt 1 830 
+meaning Lunation.txt 2 101 1181 
+important Lunation.txt 2 1225 1693 
+kurukshetra Lunation.txt 1 1385 
+redirected Lunation.txt 1 3 
+variable Lunation.txt 3 628 641 668 
+depicting Lunation.txt 1 15 
+astronomy Lunation.txt 2 21 1473 
+friends Lunation.txt 1 1323 
+occurrence Lunation.txt 1 1971 
+longer Lunation.txt 1 442 
+using Lunation.txt 5 958 988 1018 1049 1989 
+requires Lunation.txt 1 1601 
+moonset Lunation.txt 3 145 1093 1613 
+orbit Lunation.txt 1 213 
+2002 Lunation.txt 1 618 
+2000 Lunation.txt 4 316 517 894 903 
+non-astronomical Lunation.txt 2 113 1061 
+2007 Lunation.txt 1 1597 
+time Lunation.txt 9 154 345 350 362 366 384 417 769 1098 
+starting Lunation.txt 1 305 
+original Lunation.txt 1 100 
+evenly Lunation.txt 1 1287 

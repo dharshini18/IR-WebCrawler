@@ -1,0 +1,419 @@
+all Spectroscope.txt 2 406 924 
+caused Spectroscope.txt 2 281 325 
+particular Spectroscope.txt 2 167 511 
+invent Spectroscope.txt 1 448 
+four Spectroscope.txt 2 833 845 
+per Spectroscope.txt 3 769 803 826 
+to Spectroscope.txt 20 20 38 74 90 133 185 224 243 257 447 464 471 496 516 559 627 793 887 978 990 
+far Spectroscope.txt 2 126 704 
+frequencies Spectroscope.txt 3 194 201 513 
+rise Spectroscope.txt 1 515 
+wave Spectroscope.txt 1 875 
+electron Spectroscope.txt 1 83 
+yellow Spectroscope.txt 1 540 
+exact Spectroscope.txt 1 968 
+categories Spectroscope.txt 2 1009 1011 
+caesium Spectroscope.txt 1 473 
+589.5924 Spectroscope.txt 1 550 
+small Spectroscope.txt 1 173 
+optics Spectroscope.txt 3 364 366 368 
+discover Spectroscope.txt 1 472 
+design Spectroscope.txt 1 574 
+spectrograph Spectroscope.txt 6 13 660 857 867 940 982 
+machines Spectroscope.txt 1 885 
+spectral Spectroscope.txt 10 100 158 267 279 435 645 721 756 827 909 
+polychromator Spectroscope.txt 1 986 
+expressed Spectroscope.txt 1 798 
+lights Spectroscope.txt 1 48 
+19th Spectroscope.txt 1 578 
+can Spectroscope.txt 2 524 958 
+makeup Spectroscope.txt 2 347 507 
+ranges Spectroscope.txt 1 757 
+objects Spectroscope.txt 2 230 334 
+incoming Spectroscope.txt 1 874 
+photomultiplier Spectroscope.txt 1 693 
+allows Spectroscope.txt 1 255 
+through Spectroscope.txt 3 336 602 634 
+usually Spectroscope.txt 2 63 608 
+named Spectroscope.txt 1 290 
+classification Spectroscope.txt 1 910 
+monochromator Spectroscope.txt 1 991 
+visible Spectroscope.txt 4 162 753 839 963 
+analyzing Spectroscope.txt 1 732 
+counts Spectroscope.txt 1 825 
+total Spectroscope.txt 1 177 
+cloud Spectroscope.txt 1 339 
+use Spectroscope.txt 2 394 951 
+from Spectroscope.txt 6 4 119 228 247 332 352 
+links Spectroscope.txt 1 1000 
+properties Spectroscope.txt 1 22 
+approach Spectroscope.txt 1 470 
+curlie Spectroscope.txt 1 1005 
+is Spectroscope.txt 15 16 44 62 94 131 146 196 205 272 494 502 760 815 868 983 
+more Spectroscope.txt 2 658 948 
+separates Spectroscope.txt 1 872 
+comparison Spectroscope.txt 3 357 830 842 
+pigment Spectroscope.txt 1 934 
+hubble Spectroscope.txt 1 921 
+sharply Spectroscope.txt 1 517 
+real-time Spectroscope.txt 1 700 
+known Spectroscope.txt 1 542 
+cases Spectroscope.txt 1 812 
+producing Spectroscope.txt 1 99 
+this Spectroscope.txt 4 176 254 469 629 
+theories Spectroscope.txt 1 746 
+thin Spectroscope.txt 1 593 
+universe Spectroscope.txt 1 350 
+example Spectroscope.txt 2 218 531 
+indicated Spectroscope.txt 1 786 
+give Spectroscope.txt 1 514 
+choice Spectroscope.txt 1 969 
+slit Spectroscope.txt 3 400 426 583 
+hydrogen Spectroscope.txt 1 300 
+simple Spectroscope.txt 1 860 
+absolute Spectroscope.txt 1 138 
+rays Spectroscope.txt 2 121 597 
+rather Spectroscope.txt 1 140 
+regions Spectroscope.txt 1 159 
+very Spectroscope.txt 2 537 859 
+glowing Spectroscope.txt 2 273 284 
+astronomers Spectroscope.txt 1 256 
+centimeters Spectroscope.txt 1 81 
+if Spectroscope.txt 2 128 269 
+plant Spectroscope.txt 1 933 
+may Spectroscope.txt 2 109 308 
+movable Spectroscope.txt 1 399 
+designed Spectroscope.txt 1 132 
+waves Spectroscope.txt 1 897 
+hubbles Spectroscope.txt 1 917 
+spectrometer Spectroscope.txt 6 1 7 11 93 236 1003 
+law Spectroscope.txt 1 918 
+parallel Spectroscope.txt 1 596 
+types Spectroscope.txt 2 835 847 
+a Spectroscope.txt 38 26 70 87 92 113 149 172 206 238 241 248 252 337 395 398 411 423 430 482 492 536 564 582 585 592 603 617 635 638 676 829 841 858 864 866 877 939 981 
+transposed Spectroscope.txt 1 642 
+branches Spectroscope.txt 1 377 
+light Spectroscope.txt 12 24 68 246 331 390 500 512 580 590 599 966 977 
+spectra Spectroscope.txt 3 353 487 795 
+lines Spectroscope.txt 5 101 280 288 305 490 
+element Spectroscope.txt 1 533 
+vapor Spectroscope.txt 1 568 
+wavelengths Spectroscope.txt 5 105 118 388 621 975 
+volts Spectroscope.txt 1 84 
+over Spectroscope.txt 3 25 112 171 
+displayed Spectroscope.txt 1 816 
+years Spectroscope.txt 1 686 
+paper Spectroscope.txt 2 903 931 
+including Spectroscope.txt 1 488 
+d-lines Spectroscope.txt 1 546 
+chemical Spectroscope.txt 6 233 262 306 346 465 483 
+sodium Spectroscope.txt 3 534 545 567 
+lamp Spectroscope.txt 1 569 
+systems Spectroscope.txt 1 719 
+hidden Spectroscope.txt 1 1010 
+main Spectroscope.txt 2 855 915 
+image Spectroscope.txt 2 630 646 
+then Spectroscope.txt 3 144 600 632 
+them Spectroscope.txt 1 296 
+bunsens Spectroscope.txt 1 478 
+material Spectroscope.txt 3 493 510 737 
+band Spectroscope.txt 1 541 
+they Spectroscope.txt 1 219 
+edit Spectroscope.txt 6 356 854 994 996 998 1001 
+identified Spectroscope.txt 1 311 
+went Spectroscope.txt 1 445 
+referred Spectroscope.txt 1 886 
+telescope Spectroscope.txt 1 428 
+nanometers Spectroscope.txt 1 551 
+energy Spectroscope.txt 3 77 327 781 
+related Spectroscope.txt 1 208 
+prisms Spectroscope.txt 1 384 
+frequency Spectroscope.txt 2 778 878 
+measurement Spectroscope.txt 1 650 
+our Spectroscope.txt 1 342 
+ev Spectroscope.txt 1 782 
+hand-held Spectroscope.txt 1 606 
+living Spectroscope.txt 1 943 
+by Spectroscope.txt 8 264 274 282 312 326 410 421 787 
+robert Spectroscope.txt 2 454 457 
+cause Spectroscope.txt 1 295 
+watts Spectroscope.txt 1 802 
+created Spectroscope.txt 1 662 
+could Spectroscope.txt 1 51 
+place Spectroscope.txt 2 679 714 
+uses Spectroscope.txt 1 237 
+first Spectroscope.txt 3 418 450 899 
+number Spectroscope.txt 1 768 
+directly Spectroscope.txt 1 72 
+such Spectroscope.txt 5 78 297 720 822 954 
+electronic Spectroscope.txt 3 209 688 952 
+passes Spectroscope.txt 1 335 
+given Spectroscope.txt 1 762 
+spectrophotometers Spectroscope.txt 1 154 
+unknown Spectroscope.txt 1 736 
+anyone Spectroscope.txt 1 560 
+their Spectroscope.txt 2 104 265 
+passed Spectroscope.txt 1 601 
+x-rays Spectroscope.txt 1 123 
+relationship Spectroscope.txt 1 89 
+that Spectroscope.txt 8 195 432 501 612 640 871 928 941 
+explanation Spectroscope.txt 1 484 
+direct Spectroscope.txt 1 649 
+optical Spectroscope.txt 4 0 10 193 1002 
+photographic Spectroscope.txt 3 655 902 930 
+than Spectroscope.txt 1 141 
+thz Spectroscope.txt 1 779 
+wide Spectroscope.txt 1 114 
+kind Spectroscope.txt 1 403 
+double Spectroscope.txt 1 539 
+enabled Spectroscope.txt 1 481 
+depends Spectroscope.txt 1 972 
+intensities Spectroscope.txt 1 107 
+were Spectroscope.txt 3 382 622 923 
+and Spectroscope.txt 23 102 106 122 199 231 303 375 401 408 427 437 456 467 474 477 549 584 738 743 754 911 919 964 
+modern Spectroscope.txt 3 391 419 748 
+locations Spectroscope.txt 1 321 
+manner Spectroscope.txt 1 431 
+have Spectroscope.txt 1 695 
+seen Spectroscope.txt 1 563 
+any Spectroscope.txt 1 166 
+contents Spectroscope.txt 1 354 
+built Spectroscope.txt 1 690 
+depending Spectroscope.txt 1 890 
+studying Spectroscope.txt 1 740 
+mid Spectroscope.txt 1 792 
+polarization Spectroscope.txt 1 57 
+also Spectroscope.txt 7 52 110 309 444 480 711 993 
+absorbed Spectroscope.txt 1 329 
+which Spectroscope.txt 5 85 294 523 555 957 
+detector Spectroscope.txt 3 906 947 971 
+tool Spectroscope.txt 1 730 
+channel Spectroscope.txt 1 828 
+accuracy Spectroscope.txt 1 706 
+who Spectroscope.txt 1 561 
+spectroscopes Spectroscope.txt 6 355 369 381 392 463 607 
+most Spectroscope.txt 1 45 
+beta Spectroscope.txt 1 302 
+device Spectroscope.txt 1 210 
+alpha Spectroscope.txt 1 301 
+measured Spectroscope.txt 1 43 
+laboratories Spectroscope.txt 1 442 
+sometimes Spectroscope.txt 1 984 
+m Spectroscope.txt 3 774 776 806 
+principle Spectroscope.txt 1 669 
+analogy Spectroscope.txt 1 989 
+redirected Spectroscope.txt 1 3 
+typically Spectroscope.txt 6 33 147 314 797 836 848 
+wavenumber Spectroscope.txt 2 775 808 
+precise Spectroscope.txt 1 893 
+show Spectroscope.txt 1 278 
+infrared Spectroscope.txt 2 127 851 
+discovered Spectroscope.txt 2 459 937 
+radio Spectroscope.txt 1 200 
+ccds Spectroscope.txt 1 956 
+photodetector Spectroscope.txt 1 405 
+based Spectroscope.txt 4 361 665 862 1006 
+knowledge Spectroscope.txt 1 343 
+spectrographs Spectroscope.txt 6 749 853 889 900 927 950 
+developed Spectroscope.txt 1 416 
+astronomical Spectroscope.txt 3 229 741 745 
+familiar Spectroscope.txt 1 558 
+beam Spectroscope.txt 2 594 615 
+amici Spectroscope.txt 1 610 
+closely Spectroscope.txt 1 207 
+spectrographic Spectroscope.txt 2 701 718 
+fields Spectroscope.txt 1 216 
+arrays Spectroscope.txt 1 707 
+distant Spectroscope.txt 1 249 
+bunsen Spectroscope.txt 1 458 
+testing Spectroscope.txt 1 744 
+around Spectroscope.txt 1 691 
+relative Spectroscope.txt 1 142 
+intensity Spectroscope.txt 1 49 
+computer Spectroscope.txt 1 412 
+are Spectroscope.txt 9 155 212 220 289 316 370 710 796 881 
+techniques Spectroscope.txt 1 183 
+instance Spectroscope.txt 1 54 
+detect Spectroscope.txt 1 258 
+photosensors Spectroscope.txt 1 709 
+compounds Spectroscope.txt 1 307 
+wikipedia Spectroscope.txt 1 2 
+its Spectroscope.txt 1 648 
+state Spectroscope.txt 1 58 
+reproducible Spectroscope.txt 1 439 
+spectrophotometer Spectroscope.txt 2 12 150 
+discovery Spectroscope.txt 1 912 
+spectrometers Spectroscope.txt 5 108 211 362 840 852 
+nature Spectroscope.txt 1 894 
+combining Spectroscope.txt 1 422 
+analyzer Spectroscope.txt 1 204 
+spectroscopic Spectroscope.txt 1 36 
+far-ir Spectroscope.txt 1 794 
+article Spectroscope.txt 1 856 
+both Spectroscope.txt 1 962 
+many Spectroscope.txt 3 215 259 811 
+enabling Spectroscope.txt 1 647 
+refraction Spectroscope.txt 1 365 
+comes Spectroscope.txt 1 351 
+cm Spectroscope.txt 2 777 809 
+color Spectroscope.txt 1 553 
+simply Spectroscope.txt 1 383 
+due Spectroscope.txt 1 626 
+much Spectroscope.txt 1 340 
+entered Spectroscope.txt 1 581 
+controlled Spectroscope.txt 1 409 
+photon Spectroscope.txt 2 76 767 
+spectrum Spectroscope.txt 11 32 136 163 191 203 253 324 618 759 814 879 
+external Spectroscope.txt 1 999 
+an Spectroscope.txt 7 9 17 609 727 869 873 988 
+plants Spectroscope.txt 1 944 
+reciprocal Spectroscope.txt 2 80 88 
+these Spectroscope.txt 2 287 315 
+will Spectroscope.txt 3 169 277 556 
+near Spectroscope.txt 1 160 
+replaced Spectroscope.txt 1 696 
+non-optical Spectroscope.txt 1 117 
+operate Spectroscope.txt 2 111 170 
+century Spectroscope.txt 1 579 
+von Spectroscope.txt 1 414 
+it Spectroscope.txt 5 145 276 498 663 674 
+itself Spectroscope.txt 2 275 286 
+in Spectroscope.txt 25 35 96 137 157 164 214 222 319 322 373 429 440 570 575 605 678 684 713 717 747 750 763 790 799 810 
+greater Spectroscope.txt 1 705 
+different Spectroscope.txt 5 182 187 359 620 624 
+fiber/integrated Spectroscope.txt 1 367 
+radiation Spectroscope.txt 1 227 
+same Spectroscope.txt 1 668 
+viewed Spectroscope.txt 1 633 
+schematic Spectroscope.txt 1 8 
+units Spectroscope.txt 5 139 143 785 800 819 
+several Spectroscope.txt 1 882 
+composition Spectroscope.txt 2 234 734 
+development Spectroscope.txt 1 653 
+independent Spectroscope.txt 1 60 
+used Spectroscope.txt 16 19 34 95 156 184 213 221 372 468 712 837 849 901 929 942 960 
+see Spectroscope.txt 1 992 
+camera Spectroscope.txt 2 677 698 
+upon Spectroscope.txt 1 643 
+viewing Spectroscope.txt 1 682 
+graduations Spectroscope.txt 1 386 
+recent Spectroscope.txt 2 685 949 
+early Spectroscope.txt 2 380 577 
+reflection Spectroscope.txt 1 363 
+analysis Spectroscope.txt 5 37 466 479 702 722 
+thought Spectroscope.txt 1 526 
+materials Spectroscope.txt 1 40 
+the Spectroscope.txt 73 30 41 47 56 59 64 67 75 125 129 135 151 161 181 190 202 226 235 245 261 270 283 292 299 323 345 349 417 434 449 460 505 509 521 532 544 552 571 576 589 598 614 644 652 657 667 671 681 687 692 697 733 751 758 764 784 788 791 813 818 832 844 892 896 898 905 907 914 920 932 946 967 974 
+chemistry Spectroscope.txt 1 379 
+collimating Spectroscope.txt 1 586 
+left Spectroscope.txt 1 820 
+being Spectroscope.txt 1 328 
+when Spectroscope.txt 1 491 
+accurate Spectroscope.txt 1 659 
+identify Spectroscope.txt 1 39 
+atomic Spectroscope.txt 1 506 
+bibliography Spectroscope.txt 1 997 
+majority Spectroscope.txt 1 152 
+absorption Spectroscope.txt 1 313 
+had Spectroscope.txt 1 675 
+instrument Spectroscope.txt 4 18 130 168 870 
+spread Spectroscope.txt 1 244 
+transformed Spectroscope.txt 1 588 
+grating Spectroscope.txt 3 6 242 397 
+has Spectroscope.txt 4 86 535 562 725 
+gustav Spectroscope.txt 1 453 
+increased Spectroscope.txt 1 433 
+bands Spectroscope.txt 2 318 519 
+dark Spectroscope.txt 1 317 
+using Spectroscope.txt 1 938 
+fingerprints Spectroscope.txt 2 268 529 
+specific Spectroscope.txt 2 27 320 
+become Spectroscope.txt 1 726 
+refracted Spectroscope.txt 2 613 623 
+because Spectroscope.txt 2 179 619 
+often Spectroscope.txt 2 46 371 
+sequence Spectroscope.txt 2 916 922 
+some Spectroscope.txt 2 376 402 
+deduce Spectroscope.txt 1 232 
+star Spectroscope.txt 1 908 
+phytochrome Spectroscope.txt 1 935 
+scale Spectroscope.txt 2 522 639 
+for Spectroscope.txt 10 53 98 217 291 530 731 739 838 850 961 
+electromagnetic Spectroscope.txt 1 31 
+tube Spectroscope.txt 3 636 683 694 
+recorded Spectroscope.txt 1 980 
+microwave Spectroscope.txt 1 198 
+unit Spectroscope.txt 3 71 770 804 
+near-ir Spectroscope.txt 1 755 
+measuring Spectroscope.txt 1 103 
+be Spectroscope.txt 6 55 310 525 557 959 979 
+incandescence Spectroscope.txt 1 497 
+object Spectroscope.txt 2 250 271 
+scientific Spectroscope.txt 1 729 
+stellar Spectroscope.txt 1 486 
+pressure Spectroscope.txt 1 566 
+emits Spectroscope.txt 1 499 
+on Spectroscope.txt 7 446 520 666 863 891 973 1007 
+of Spectroscope.txt 37 23 29 66 116 153 175 180 189 260 341 344 348 358 378 389 404 462 485 504 508 527 554 595 654 680 708 715 735 766 801 831 843 884 895 913 970 976 
+range Spectroscope.txt 2 115 178 
+or Spectroscope.txt 8 14 69 82 240 723 773 780 807 
+gamma Spectroscope.txt 2 120 304 
+into Spectroscope.txt 5 124 251 591 616 876 
+rubidium Spectroscope.txt 1 475 
+references Spectroscope.txt 1 995 
+heated Spectroscope.txt 1 495 
+proportional Spectroscope.txt 1 73 
+there Spectroscope.txt 1 880 
+dispersion Spectroscope.txt 1 628 
+joseph Spectroscope.txt 1 413 
+low Spectroscope.txt 1 565 
+analyze Spectroscope.txt 1 225 
+was Spectroscope.txt 6 438 631 641 661 664 936 
+588.9950 Spectroscope.txt 1 548 
+form Spectroscope.txt 1 765 
+fraunhofer Spectroscope.txt 3 415 443 489 
+phenomena Spectroscope.txt 1 742 
+but Spectroscope.txt 2 50 673 
+automated Spectroscope.txt 1 407 
+with Spectroscope.txt 7 385 637 651 703 783 817 926 
+dmoz Spectroscope.txt 1 1008 
+made Spectroscope.txt 1 925 
+portions Spectroscope.txt 1 188 
+circuits Spectroscope.txt 1 689 
+characteristic Spectroscope.txt 3 266 503 538 
+spectroscope Spectroscope.txt 7 5 15 420 452 573 672 861 
+uv Spectroscope.txt 2 752 965 
+below Spectroscope.txt 1 192 
+spectroscopy Spectroscope.txt 2 97 724 
+called Spectroscope.txt 2 148 985 
+defined Spectroscope.txt 1 518 
+detectors Spectroscope.txt 1 953 
+measure Spectroscope.txt 3 21 134 186 
+general Spectroscope.txt 1 165 
+as Spectroscope.txt 12 79 298 330 528 543 670 823 888 904 945 955 987 
+at Spectroscope.txt 3 197 547 1004 
+wavelength Spectroscope.txt 4 65 91 771 805 
+film Spectroscope.txt 2 656 716 
+marking Spectroscope.txt 1 387 
+nm Spectroscope.txt 1 772 
+amounts Spectroscope.txt 1 625 
+generally Spectroscope.txt 2 393 761 
+application Spectroscope.txt 1 461 
+prism Spectroscope.txt 5 239 424 604 611 865 
+other Spectroscope.txt 2 333 441 
+digital Spectroscope.txt 1 824 
+elements Spectroscope.txt 2 263 293 
+kinds Spectroscope.txt 1 883 
+gas Spectroscope.txt 2 285 338 
+kirchhoff Spectroscope.txt 2 455 476 
+lens Spectroscope.txt 1 587 
+important Spectroscope.txt 1 728 
+allowing Spectroscope.txt 1 699 
+variable Spectroscope.txt 2 42 61 
+astronomy Spectroscope.txt 2 223 374 
+abscissa Spectroscope.txt 3 789 834 846 
+diffraction Spectroscope.txt 4 360 396 425 451 
+portion Spectroscope.txt 2 28 174 
+implied Spectroscope.txt 1 821 
+resolution Spectroscope.txt 1 436 
+original Spectroscope.txt 1 572 

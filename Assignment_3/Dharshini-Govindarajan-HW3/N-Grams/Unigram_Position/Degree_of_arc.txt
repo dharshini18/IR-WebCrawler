@@ -1,0 +1,410 @@
+trigonometric Degree_of_arc.txt 1 794 
+brochure Degree_of_arc.txt 1 77 
+lining Degree_of_arc.txt 1 1003 
+to Degree_of_arc.txt 23 93 146 179 215 278 304 312 331 454 481 507 532 750 762 825 832 862 880 899 920 961 966 990 
+finally Degree_of_arc.txt 1 489 
+petersburg Degree_of_arc.txt 1 1020 
+division Degree_of_arc.txt 1 355 
+continues Degree_of_arc.txt 1 679 
+every Degree_of_arc.txt 1 450 
+word Degree_of_arc.txt 1 746 
+continued Degree_of_arc.txt 1 919 
+minute Degree_of_arc.txt 3 615 717 739 
+hipparchus Degree_of_arc.txt 2 302 325 
+notes Degree_of_arc.txt 1 1027 
+small Degree_of_arc.txt 1 552 
+tenths Degree_of_arc.txt 1 989 
+revolution Degree_of_arc.txt 2 846 975 
+ten Degree_of_arc.txt 1 875 
+second Degree_of_arc.txt 3 723 741 747 
+invention Degree_of_arc.txt 1 866 
+samos Degree_of_arc.txt 1 300 
+further Degree_of_arc.txt 1 242 
+blue Degree_of_arc.txt 1 19 
+established Degree_of_arc.txt 1 485 
+sun Degree_of_arc.txt 2 165 522 
+expressed Degree_of_arc.txt 1 806 
+above Degree_of_arc.txt 1 541 
+scientists Degree_of_arc.txt 1 311 
+numeral Degree_of_arc.txt 1 705 
+movement Degree_of_arc.txt 1 519 
+subdivided Degree_of_arc.txt 2 227 243 
+full Degree_of_arc.txt 6 23 49 84 847 849 907 
+degree Degree_of_arc.txt 17 0 5 9 21 25 29 36 90 116 129 187 297 549 577 587 605 837 
+respectively Degree_of_arc.txt 1 638 
+component Degree_of_arc.txt 1 670 
+equals Degree_of_arc.txt 1 86 
+french Degree_of_arc.txt 1 936 
+represented Degree_of_arc.txt 1 639 
+path Degree_of_arc.txt 2 171 183 
+100 Degree_of_arc.txt 1 900 
+divisibility Degree_of_arc.txt 1 814 
+convert Degree_of_arc.txt 1 763 
+usually Degree_of_arc.txt 1 32 
+military Degree_of_arc.txt 1 951 
+successors Degree_of_arc.txt 1 265 
+useful Degree_of_arc.txt 1 462 
+divide Degree_of_arc.txt 1 332 
+replace Degree_of_arc.txt 1 881 
+al-kashi Degree_of_arc.txt 1 687 
+rarely Degree_of_arc.txt 1 694 
+unit Degree_of_arc.txt 7 59 63 81 132 240 599 682 
+readily Degree_of_arc.txt 1 415 
+use Degree_of_arc.txt 3 205 217 621 
+from Degree_of_arc.txt 4 4 452 960 1014 
+army Degree_of_arc.txt 1 981 
+properties Degree_of_arc.txt 1 801 
+metric Degree_of_arc.txt 1 869 
+today Degree_of_arc.txt 1 696 
+more Degree_of_arc.txt 3 438 496 799 
+apparent Degree_of_arc.txt 1 518 
+occurred Degree_of_arc.txt 1 363 
+known Degree_of_arc.txt 1 330 
+a072938 Degree_of_arc.txt 1 441 
+equilateral Degree_of_arc.txt 3 106 235 984 
+fourths Degree_of_arc.txt 1 676 
+this Degree_of_arc.txt 8 112 289 381 458 562 751 784 997 
+science Degree_of_arc.txt 1 857 
+work Degree_of_arc.txt 1 771 
+longitude Degree_of_arc.txt 2 480 576 
+nine Degree_of_arc.txt 1 15 
+can Degree_of_arc.txt 3 379 601 662 
+following Degree_of_arc.txt 1 249 
+making Degree_of_arc.txt 1 421 
+example Degree_of_arc.txt 3 593 647 792 
+history Degree_of_arc.txt 1 97 
+links Degree_of_arc.txt 1 1032 
+give Degree_of_arc.txt 1 991 
+cited Degree_of_arc.txt 1 540 
+artillery Degree_of_arc.txt 3 937 1012 1023 
+india Degree_of_arc.txt 1 366 
+purposes Degree_of_arc.txt 1 547 
+states Degree_of_arc.txt 1 141 
+sphere Degree_of_arc.txt 1 526 
+numbers Degree_of_arc.txt 2 220 427 
+provide Degree_of_arc.txt 1 558 
+divided Degree_of_arc.txt 2 607 987 
+six Degree_of_arc.txt 1 117 
+1 Degree_of_arc.txt 7 453 713 720 724 728 842 909 
+astronomers Degree_of_arc.txt 3 161 261 691 
+fourth Degree_of_arc.txt 1 731 
+may Degree_of_arc.txt 5 212 409 491 579 998 
+eighty Degree_of_arc.txt 1 14 
+applications Degree_of_arc.txt 2 463 952 
+plane Degree_of_arc.txt 2 43 1004 
+such Degree_of_arc.txt 4 118 193 428 464 
+a Degree_of_arc.txt 34 20 24 39 42 48 83 102 115 131 158 202 207 271 273 282 296 344 349 548 551 641 715 722 726 730 760 787 839 894 906 970 974 992 1002 
+natural Degree_of_arc.txt 2 283 800 
+third Degree_of_arc.txt 1 727 
+st Degree_of_arc.txt 1 1019 
+rather Degree_of_arc.txt 1 781 
+subdivisions Degree_of_arc.txt 4 542 600 630 698 
+so Degree_of_arc.txt 2 46 828 
+geographic Degree_of_arc.txt 1 572 
+superscript Degree_of_arc.txt 1 712 
+archimedes Degree_of_arc.txt 1 323 
+rounded Degree_of_arc.txt 1 531 
+considerations Degree_of_arc.txt 1 810 
+over Degree_of_arc.txt 1 172 
+symbols Degree_of_arc.txt 1 736 
+course Degree_of_arc.txt 1 174 
+through Degree_of_arc.txt 1 168 
+shake Degree_of_arc.txt 1 394 
+mentioned Degree_of_arc.txt 1 73 
+its Degree_of_arc.txt 1 182 
+24 Degree_of_arc.txt 2 419 470 
+arcminute Degree_of_arc.txt 1 634 
+coordinates Degree_of_arc.txt 1 573 
+comprehend Degree_of_arc.txt 1 380 
+degrees Degree_of_arc.txt 9 16 53 337 557 584 765 783 882 885 
+categories Degree_of_arc.txt 2 1034 1036 
+400 Degree_of_arc.txt 1 903 
+latitude Degree_of_arc.txt 1 574 
+hidden Degree_of_arc.txt 1 1035 
+them Degree_of_arc.txt 1 931 
+babylonians Degree_of_arc.txt 1 226 
+they Degree_of_arc.txt 1 393 
+not Degree_of_arc.txt 3 56 395 564 
+rotation Degree_of_arc.txt 3 50 85 850 
+day Degree_of_arc.txt 2 189 487 
+pegs Degree_of_arc.txt 1 392 
+outweigh Degree_of_arc.txt 1 811 
+edit Degree_of_arc.txt 7 98 543 755 1026 1028 1030 1033 
+decimal Degree_of_arc.txt 2 583 884 
+radians Degree_of_arc.txt 7 88 95 767 780 808 827 833 
+radian Degree_of_arc.txt 1 69 
+each Degree_of_arc.txt 2 188 473 
+arcdegree Degree_of_arc.txt 1 31 
+idea Degree_of_arc.txt 1 913 
+related Degree_of_arc.txt 2 145 214 
+persian Degree_of_arc.txt 1 196 
+year Degree_of_arc.txt 3 159 177 203 
+beyond Degree_of_arc.txt 1 772 
+shown Degree_of_arc.txt 2 10 17 
+gon Degree_of_arc.txt 4 889 901 904 910 
+factors Degree_of_arc.txt 1 501 
+greeks Degree_of_arc.txt 1 329 
+furthermore Degree_of_arc.txt 1 445 
+navels Degree_of_arc.txt 1 376 
+7 Degree_of_arc.txt 2 426 457 
+denoted Degree_of_arc.txt 2 33 700 
+red Degree_of_arc.txt 2 12 108 
+oeis Degree_of_arc.txt 1 444 
+theory Degree_of_arc.txt 3 140 222 509 
+written Degree_of_arc.txt 1 581 
+standard Degree_of_arc.txt 1 292 
+ecliptic Degree_of_arc.txt 1 170 
+base Degree_of_arc.txt 1 284 
+earliest Degree_of_arc.txt 1 255 
+advance Degree_of_arc.txt 1 180 
+geometry Degree_of_arc.txt 1 774 
+where Degree_of_arc.txt 2 890 982 
+days Degree_of_arc.txt 3 156 200 211 
+turn Degree_of_arc.txt 3 821 844 859 
+length Degree_of_arc.txt 1 276 
+hence Degree_of_arc.txt 1 733 
+museum Degree_of_arc.txt 1 1021 
+first Degree_of_arc.txt 2 309 328 
+number Degree_of_arc.txt 8 154 407 431 451 511 708 817 892 
+one Degree_of_arc.txt 14 8 89 109 139 186 286 374 423 498 604 614 819 858 967 
+spokes Degree_of_arc.txt 1 373 
+another Degree_of_arc.txt 2 221 402 
+imperial Degree_of_arc.txt 1 979 
+angular Degree_of_arc.txt 2 65 944 
+ancient Degree_of_arc.txt 4 160 191 365 690 
+unknown Degree_of_arc.txt 1 138 
+system Degree_of_arc.txt 5 253 347 673 752 870 
+approximately Degree_of_arc.txt 4 152 185 513 964 
+their Degree_of_arc.txt 4 250 263 291 803 
+180 Degree_of_arc.txt 2 94 829 
+2 Degree_of_arc.txt 2 87 826 
+convention Degree_of_arc.txt 1 488 
+hundred Degree_of_arc.txt 1 388 
+ranging Degree_of_arc.txt 1 959 
+aristillus Degree_of_arc.txt 1 322 
+that Degree_of_arc.txt 12 47 142 149 163 224 412 429 495 508 528 555 912 
+attempt Degree_of_arc.txt 1 879 
+than Degree_of_arc.txt 3 433 497 782 
+11 Degree_of_arc.txt 2 650 658 
+10 Degree_of_arc.txt 1 455 
+15 Degree_of_arc.txt 3 478 651 659 
+correlate Degree_of_arc.txt 1 482 
+divisible Degree_of_arc.txt 2 416 448 
+double Degree_of_arc.txt 1 644 
+war Degree_of_arc.txt 1 941 
+were Degree_of_arc.txt 3 326 699 933 
+powers Degree_of_arc.txt 1 873 
+and Degree_of_arc.txt 20 13 135 241 262 301 317 324 389 527 575 613 635 643 688 740 744 766 798 856 926 
+motivation Degree_of_arc.txt 2 125 403 
+modern Degree_of_arc.txt 1 735 
+measure Degree_of_arc.txt 1 66 
+have Degree_of_arc.txt 3 305 410 796 
+seen Degree_of_arc.txt 1 1000 
+seem Degree_of_arc.txt 1 303 
+contents Degree_of_arc.txt 1 96 
+angle Degree_of_arc.txt 5 1 44 232 554 896 
+mil Degree_of_arc.txt 2 945 971 
+greek Degree_of_arc.txt 2 264 310 
+convenient Degree_of_arc.txt 1 813 
+latter Degree_of_arc.txt 1 245 
+si Degree_of_arc.txt 3 58 62 76 
+also Degree_of_arc.txt 7 100 362 625 631 748 757 1025 
+which Degree_of_arc.txt 4 166 475 678 946 
+play Degree_of_arc.txt 1 505 
+who Degree_of_arc.txt 1 378 
+arcsecond Degree_of_arc.txt 1 636 
+most Degree_of_arc.txt 2 769 948 
+device Degree_of_arc.txt 1 1007 
+measured Degree_of_arc.txt 1 778 
+traditional Degree_of_arc.txt 1 597 
+redirected Degree_of_arc.txt 1 3 
+typically Degree_of_arc.txt 1 777 
+fact Degree_of_arc.txt 1 148 
+quantity Degree_of_arc.txt 1 285 
+thirds Degree_of_arc.txt 1 675 
+nominally Degree_of_arc.txt 1 477 
+based Degree_of_arc.txt 2 267 871 
+knowledge Degree_of_arc.txt 1 316 
+dividing Degree_of_arc.txt 2 348 466 
+enough Degree_of_arc.txt 1 553 
+only Degree_of_arc.txt 1 425 
+arcseconds Degree_of_arc.txt 1 669 
+decigrades Degree_of_arc.txt 1 932 
+circle Degree_of_arc.txt 10 103 122 229 272 334 350 358 848 908 993 
+astronomical Degree_of_arc.txt 1 315 
+triangle Degree_of_arc.txt 1 236 
+notation Degree_of_arc.txt 1 628 
+prime Degree_of_arc.txt 2 645 716 
+fields Degree_of_arc.txt 1 925 
+twice Degree_of_arc.txt 1 434 
+grad Degree_of_arc.txt 1 887 
+zones Degree_of_arc.txt 1 472 
+see Degree_of_arc.txt 3 99 756 1024 
+arc Degree_of_arc.txt 9 7 27 28 113 340 612 620 719 743 
+radius Degree_of_arc.txt 1 280 
+are Degree_of_arc.txt 4 384 637 776 805 
+calendar Degree_of_arc.txt 2 197 208 
+techniques Degree_of_arc.txt 1 318 
+wikipedia Degree_of_arc.txt 1 2 
+behind Degree_of_arc.txt 1 589 
+between Degree_of_arc.txt 1 764 
+365 Degree_of_arc.txt 1 514 
+360 Degree_of_arc.txt 12 52 150 199 210 336 360 408 417 533 818 822 863 
+originated Degree_of_arc.txt 1 976 
+dirghatamas Degree_of_arc.txt 1 399 
+come Degree_of_arc.txt 1 503 
+c Degree_of_arc.txt 1 969 
+many Degree_of_arc.txt 3 461 545 927 
+according Degree_of_arc.txt 1 506 
+against Degree_of_arc.txt 1 523 
+trigonometry Degree_of_arc.txt 1 256 
+etc Degree_of_arc.txt 2 677 732 
+roman Degree_of_arc.txt 1 704 
+whole Degree_of_arc.txt 1 556 
+sixtieths Degree_of_arc.txt 1 710 
+among Degree_of_arc.txt 1 307 
+reasons Degree_of_arc.txt 2 539 790 
+60 Degree_of_arc.txt 5 247 339 352 609 617 
+exploit Degree_of_arc.txt 1 313 
+writing Degree_of_arc.txt 1 702 
+three Degree_of_arc.txt 3 377 387 956 
+been Degree_of_arc.txt 2 306 411 
+mark Degree_of_arc.txt 1 655 
+much Degree_of_arc.txt 1 436 
+basic Degree_of_arc.txt 1 239 
+fire Degree_of_arc.txt 1 1011 
+sufficient Degree_of_arc.txt 1 559 
+1.164.48 Degree_of_arc.txt 1 401 
+external Degree_of_arc.txt 1 1031 
+angles Degree_of_arc.txt 3 136 759 775 
+napoleon Degree_of_arc.txt 1 917 
+quotation Degree_of_arc.txt 1 654 
+case Degree_of_arc.txt 2 494 566 
+divisions Degree_of_arc.txt 1 294 
+abandoned Degree_of_arc.txt 1 915 
+these Degree_of_arc.txt 4 500 629 697 809 
+as Degree_of_arc.txt 9 60 78 130 194 237 367 435 465 567 
+rigveda Degree_of_arc.txt 2 371 400 
+property Degree_of_arc.txt 1 459 
+is Degree_of_arc.txt 29 38 51 55 67 72 91 114 137 144 151 223 414 447 476 512 550 563 606 624 693 785 823 830 838 852 860 897 947 963 
+it Degree_of_arc.txt 10 54 71 143 383 413 422 446 490 529 962 
+equal Degree_of_arc.txt 6 277 824 831 861 898 965 
+in Degree_of_arc.txt 24 11 18 22 74 157 181 335 364 369 396 442 568 711 768 779 807 854 893 905 923 939 950 977 1017 
+technology Degree_of_arc.txt 1 855 
+decans Degree_of_arc.txt 1 101 
+parts Degree_of_arc.txt 3 248 353 361 
+arguments Degree_of_arc.txt 1 804 
+units Degree_of_arc.txt 2 754 996 
+several Degree_of_arc.txt 1 924 
+wheel Degree_of_arc.txt 1 375 
+used Degree_of_arc.txt 10 198 257 343 603 685 695 853 922 934 949 
+calculators Degree_of_arc.txt 1 929 
+characters Degree_of_arc.txt 1 656 
+cycle Degree_of_arc.txt 1 851 
+least Degree_of_arc.txt 2 398 955 
+older Degree_of_arc.txt 1 672 
+i Degree_of_arc.txt 1 942 
+decimals Degree_of_arc.txt 2 591 666 
+no Degree_of_arc.txt 1 430 
+sixtieth Degree_of_arc.txt 2 110 287 
+the Degree_of_arc.txt 64 35 61 68 75 121 123 128 147 153 164 169 173 176 195 204 216 225 228 231 238 244 254 259 279 308 327 333 354 357 370 397 406 443 467 484 493 510 517 521 524 537 565 586 590 596 633 668 671 680 703 707 734 738 745 793 812 816 836 843 865 868 891 978 1018 
+chord Degree_of_arc.txt 3 107 274 985 
+less Degree_of_arc.txt 1 432 
+sights Degree_of_arc.txt 1 938 
+grades Degree_of_arc.txt 1 918 
+world Degree_of_arc.txt 2 468 940 
+alternative Degree_of_arc.txt 1 753 
+aiming Degree_of_arc.txt 1 1009 
+seems Degree_of_arc.txt 1 178 
+except Degree_of_arc.txt 1 456 
+evidenced Degree_of_arc.txt 1 368 
+has Degree_of_arc.txt 5 418 437 460 502 953 
+calendars Degree_of_arc.txt 1 192 
+milliradian Degree_of_arc.txt 1 968 
+early Degree_of_arc.txt 1 1006 
+using Degree_of_arc.txt 5 230 290 582 653 665 
+variants Degree_of_arc.txt 1 958 
+accepted Degree_of_arc.txt 1 80 
+babylonian Degree_of_arc.txt 2 260 314 
+like Degree_of_arc.txt 1 391 
+systematically Degree_of_arc.txt 1 319 
+follows Degree_of_arc.txt 1 167 
+specific Degree_of_arc.txt 1 957 
+alternatively Degree_of_arc.txt 1 595 
+aristarchus Degree_of_arc.txt 2 298 321 
+twelve Degree_of_arc.txt 1 372 
+because Degree_of_arc.txt 2 82 515 
+sequence Degree_of_arc.txt 1 440 
+some Degree_of_arc.txt 2 190 535 
+choosing Degree_of_arc.txt 2 127 405 
+indirect Degree_of_arc.txt 1 1010 
+provided Degree_of_arc.txt 1 664 
+for Degree_of_arc.txt 18 126 201 404 534 544 571 592 646 667 706 714 721 725 729 737 786 791 1008 
+measurements Degree_of_arc.txt 1 578 
+1900 Degree_of_arc.txt 1 1016 
+dating Degree_of_arc.txt 1 1013 
+refer Degree_of_arc.txt 1 749 
+measuring Degree_of_arc.txt 2 758 972 
+be Degree_of_arc.txt 7 213 492 580 602 663 921 999 
+scientific Degree_of_arc.txt 1 928 
+seconds Degree_of_arc.txt 1 618 
+equivalent Degree_of_arc.txt 1 92 
+24-hour Degree_of_arc.txt 1 486 
+chart Degree_of_arc.txt 1 761 
+although Degree_of_arc.txt 1 911 
+sixty Degree_of_arc.txt 1 390 
+by Degree_of_arc.txt 9 34 184 258 449 640 686 701 883 916 
+simpler Degree_of_arc.txt 2 345 797 
+on Degree_of_arc.txt 4 268 382 872 1001 
+about Degree_of_arc.txt 1 1015 
+of Degree_of_arc.txt 38 6 26 41 64 111 133 155 175 206 218 233 270 275 288 299 338 356 424 474 479 499 516 520 536 611 619 622 674 709 718 742 789 815 867 874 973 994 1022 
+practical Degree_of_arc.txt 2 546 773 
+or Degree_of_arc.txt 6 30 570 652 834 845 888 
+mathematical Degree_of_arc.txt 3 538 770 840 
+into Degree_of_arc.txt 8 246 351 359 469 504 608 616 988 
+rotations Degree_of_arc.txt 1 134 
+right Degree_of_arc.txt 1 895 
+references Degree_of_arc.txt 1 1029 
+additional Degree_of_arc.txt 1 660 
+support Degree_of_arc.txt 1 930 
+there Degree_of_arc.txt 1 876 
+noticed Degree_of_arc.txt 1 162 
+was Degree_of_arc.txt 7 266 295 530 684 877 914 986 
+eratosthenes Degree_of_arc.txt 1 342 
+complete Degree_of_arc.txt 2 120 820 
+but Degree_of_arc.txt 2 70 692 
+numeric Degree_of_arc.txt 1 252 
+russian Degree_of_arc.txt 1 980 
+with Degree_of_arc.txt 7 104 209 483 585 864 902 935 
+divisors Degree_of_arc.txt 2 420 439 
+made Degree_of_arc.txt 1 281 
+timocharis Degree_of_arc.txt 1 320 
+placed Degree_of_arc.txt 1 385 
+dms Degree_of_arc.txt 1 627 
+minutes Degree_of_arc.txt 2 341 610 
+called Degree_of_arc.txt 3 626 632 886 
+celestial Degree_of_arc.txt 1 525 
+constant Degree_of_arc.txt 1 841 
+600 Degree_of_arc.txt 1 995 
+defined Degree_of_arc.txt 1 45 
+measurement Degree_of_arc.txt 1 40 
+an Degree_of_arc.txt 8 57 79 105 234 878 943 983 1005 
+single Degree_of_arc.txt 1 642 
+at Degree_of_arc.txt 1 954 
+functions Degree_of_arc.txt 1 795 
+variety Degree_of_arc.txt 1 788 
+when Degree_of_arc.txt 2 561 802 
+40 Degree_of_arc.txt 2 649 657 
+sexagesimal Degree_of_arc.txt 6 219 251 293 346 598 681 
+other Degree_of_arc.txt 1 689 
+degrees-minutes-seconds Degree_of_arc.txt 1 623 
+symbol Degree_of_arc.txt 2 37 588 
+precision Degree_of_arc.txt 2 560 661 
+astronomy Degree_of_arc.txt 1 569 
+subdivision Degree_of_arc.txt 1 683 
+chords Degree_of_arc.txt 2 119 269 
+40.1875 Degree_of_arc.txt 2 594 648 
+together Degree_of_arc.txt 1 386 
+equivalently Degree_of_arc.txt 1 835 
+time Degree_of_arc.txt 1 471 
+original Degree_of_arc.txt 1 124 

@@ -1,0 +1,470 @@
+all Coronal_radiative_losses.txt 3 477 1207 1238 
+suns Coronal_radiative_losses.txt 2 513 978 
+magnetic Coronal_radiative_losses.txt 3 163 186 986 
+particular Coronal_radiative_losses.txt 1 40 
+splitting Coronal_radiative_losses.txt 1 995 
+yellow Coronal_radiative_losses.txt 1 372 
+bremsstrahlung Coronal_radiative_losses.txt 1 1074 
+depend Coronal_radiative_losses.txt 2 917 1247 
+calculate Coronal_radiative_losses.txt 1 1312 
+to Coronal_radiative_losses.txt 27 78 184 278 302 501 535 667 685 732 759 781 814 823 945 959 970 992 997 1052 1062 1081 1152 1164 1183 1192 1311 1328 
+charge Coronal_radiative_losses.txt 1 1179 
+according Coronal_radiative_losses.txt 1 1182 
+outwards Coronal_radiative_losses.txt 1 217 
+include Coronal_radiative_losses.txt 1 1298 
+forbidden Coronal_radiative_losses.txt 3 747 812 832 
+applied Coronal_radiative_losses.txt 1 1327 
+very Coronal_radiative_losses.txt 5 127 316 462 570 633 
+electron Coronal_radiative_losses.txt 1 1166 
+every Coronal_radiative_losses.txt 2 1085 1177 
+categories Coronal_radiative_losses.txt 2 1359 1361 
+level Coronal_radiative_losses.txt 4 671 784 1101 1111 
+leave Coronal_radiative_losses.txt 1 481 
+small Coronal_radiative_losses.txt 1 287 
+upper Coronal_radiative_losses.txt 1 669 
+squared Coronal_radiative_losses.txt 2 1250 1256 
+force Coronal_radiative_losses.txt 1 1176 
+approximation Coronal_radiative_losses.txt 2 880 1092 
+photospheric Coronal_radiative_losses.txt 1 73 
+mk Coronal_radiative_losses.txt 1 1203 
+further Coronal_radiative_losses.txt 1 117 
+dynamics Coronal_radiative_losses.txt 1 154 
+even Coronal_radiative_losses.txt 1 170 
+skylab Coronal_radiative_losses.txt 1 447 
+sun Coronal_radiative_losses.txt 8 29 96 190 205 253 296 355 483 
+section Coronal_radiative_losses.txt 1 340 
+expressed Coronal_radiative_losses.txt 2 1022 1226 
+above Coronal_radiative_losses.txt 2 491 1201 
+chromosphere Coronal_radiative_losses.txt 3 33 66 232 
+can Coronal_radiative_losses.txt 13 480 716 745 756 874 942 956 967 988 1020 1224 1321 1347 
+coefficient Coronal_radiative_losses.txt 1 1057 
+de-excite Coronal_radiative_losses.txt 1 776 
+atoms Coronal_radiative_losses.txt 2 700 1156 
+ionization Coronal_radiative_losses.txt 1 885 
+active Coronal_radiative_losses.txt 2 200 239 
+along Coronal_radiative_losses.txt 2 902 1258 
+strong Coronal_radiative_losses.txt 1 167 
+widening Coronal_radiative_losses.txt 1 941 
+great Coronal_radiative_losses.txt 1 983 
+6000 Coronal_radiative_losses.txt 1 76 
+shift Coronal_radiative_losses.txt 1 894 
+k Coronal_radiative_losses.txt 2 77 83 
+losses Coronal_radiative_losses.txt 4 2 11 276 1068 
+allows Coronal_radiative_losses.txt 1 848 
+maxwellboltzmann Coronal_radiative_losses.txt 1 920 
+amount Coronal_radiative_losses.txt 1 222 
+principally Coronal_radiative_losses.txt 1 653 
+changes Coronal_radiative_losses.txt 1 198 
+blackbody Coronal_radiative_losses.txt 2 361 619 
+highly Coronal_radiative_losses.txt 1 698 
+visible Coronal_radiative_losses.txt 1 392 
+total Coronal_radiative_losses.txt 1 291 
+planck Coronal_radiative_losses.txt 1 1043 
+unit Coronal_radiative_losses.txt 3 1036 1141 1339 
+use Coronal_radiative_losses.txt 1 1308 
+from Coronal_radiative_losses.txt 16 23 49 71 122 195 294 325 378 393 532 647 655 834 1150 1215 1316 
+remains Coronal_radiative_losses.txt 1 796 
+next Coronal_radiative_losses.txt 1 339 
+discrepancies Coronal_radiative_losses.txt 1 1284 
+comparing Coronal_radiative_losses.txt 1 859 
+therefore Coronal_radiative_losses.txt 2 724 1016 
+6 Coronal_radiative_losses.txt 1 442 
+taken Coronal_radiative_losses.txt 2 135 144 
+until Coronal_radiative_losses.txt 1 801 
+more Coronal_radiative_losses.txt 2 791 1227 
+populations Coronal_radiative_losses.txt 1 603 
+emission Coronal_radiative_losses.txt 11 506 609 675 714 831 1003 1083 1122 1130 1219 1265 
+basically Coronal_radiative_losses.txt 1 1246 
+8 Coronal_radiative_losses.txt 3 257 269 444 
+high Coronal_radiative_losses.txt 1 177 
+account Coronal_radiative_losses.txt 1 1206 
+this Coronal_radiative_losses.txt 6 298 388 794 818 962 1186 
+equation Coronal_radiative_losses.txt 1 891 
+protons Coronal_radiative_losses.txt 2 586 1169 
+g/cm Coronal_radiative_losses.txt 1 470 
+erg Coronal_radiative_losses.txt 4 247 260 271 1341 
+thin Coronal_radiative_losses.txt 1 536 
+universe Coronal_radiative_losses.txt 1 531 
+root Coronal_radiative_losses.txt 1 580 
+example Coronal_radiative_losses.txt 1 519 
+ions Coronal_radiative_losses.txt 8 588 656 680 758 767 866 1151 1171 
+figure Coronal_radiative_losses.txt 1 140 
+states Coronal_radiative_losses.txt 6 761 836 883 1097 1106 1217 
+minimum Coronal_radiative_losses.txt 1 80 
+allowed Coronal_radiative_losses.txt 1 779 
+gas Coronal_radiative_losses.txt 1 765 
+occur Coronal_radiative_losses.txt 1 630 
+divided Coronal_radiative_losses.txt 1 31 
+regions Coronal_radiative_losses.txt 2 201 240 
+hot Coronal_radiative_losses.txt 1 524 
+galactic Coronal_radiative_losses.txt 1 537 
+plane Coronal_radiative_losses.txt 1 912 
+waves Coronal_radiative_losses.txt 1 376 
+a Coronal_radiative_losses.txt 13 119 286 574 596 618 632 686 763 804 878 896 982 1090 
+de-excitation Coronal_radiative_losses.txt 1 1060 
+effective Coronal_radiative_losses.txt 1 351 
+light Coronal_radiative_losses.txt 2 416 463 
+spectra Coronal_radiative_losses.txt 1 729 
+lines Coronal_radiative_losses.txt 12 637 645 652 673 676 694 715 744 842 863 1214 1296 
+lost Coronal_radiative_losses.txt 1 707 
+corona Coronal_radiative_losses.txt 13 15 37 52 114 157 197 348 381 409 428 498 788 847 
+element Coronal_radiative_losses.txt 1 870 
+accelerated Coronal_radiative_losses.txt 1 1178 
+maintain Coronal_radiative_losses.txt 1 303 
+so Coronal_radiative_losses.txt 2 473 774 
+halos Coronal_radiative_losses.txt 1 538 
+order Coronal_radiative_losses.txt 1 1310 
+wind Coronal_radiative_losses.txt 1 281 
+mainly Coronal_radiative_losses.txt 1 384 
+years Coronal_radiative_losses.txt 1 425 
+produced Coronal_radiative_losses.txt 1 677 
+thermal Coronal_radiative_losses.txt 2 94 930 
+through Coronal_radiative_losses.txt 1 233 
+looks Coronal_radiative_losses.txt 1 126 
+spontaneous Coronal_radiative_losses.txt 2 1121 1129 
+still Coronal_radiative_losses.txt 1 1286 
+its Coronal_radiative_losses.txt 3 176 464 798 
+before Coronal_radiative_losses.txt 1 403 
+superior Coronal_radiative_losses.txt 2 687 1100 
+emits Coronal_radiative_losses.txt 1 1180 
+derive Coronal_radiative_losses.txt 1 1291 
+fit Coronal_radiative_losses.txt 1 613 
+decreases Coronal_radiative_losses.txt 1 70 
+actually Coronal_radiative_losses.txt 1 210 
+production Coronal_radiative_losses.txt 1 44 
+degrees Coronal_radiative_losses.txt 2 181 311 
+hidden Coronal_radiative_losses.txt 1 1360 
+euv Coronal_radiative_losses.txt 1 434 
+good Coronal_radiative_losses.txt 3 879 897 1091 
+collide Coronal_radiative_losses.txt 1 769 
+they Coronal_radiative_losses.txt 3 775 1297 1307 
+not Coronal_radiative_losses.txt 6 391 516 556 590 612 908 
+transparent Coronal_radiative_losses.txt 1 500 
+represents Coronal_radiative_losses.txt 1 359 
+term Coronal_radiative_losses.txt 3 1078 1133 1161 
+edit Coronal_radiative_losses.txt 5 349 1004 1354 1356 1358 
+each Coronal_radiative_losses.txt 1 599 
+mean Coronal_radiative_losses.txt 1 581 
+square Coronal_radiative_losses.txt 1 579 
+telescope Coronal_radiative_losses.txt 1 107 
+energy Coronal_radiative_losses.txt 10 20 192 214 225 242 299 670 1054 1110 1138 
+related Coronal_radiative_losses.txt 1 1352 
+inhomogeneous Coronal_radiative_losses.txt 1 130 
+frequency Coronal_radiative_losses.txt 4 663 809 828 1046 
+measurement Coronal_radiative_losses.txt 1 898 
+et Coronal_radiative_losses.txt 1 1334 
+approximated Coronal_radiative_losses.txt 1 1349 
+transitions Coronal_radiative_losses.txt 1 833 
+shown Coronal_radiative_losses.txt 1 334 
+jump Coronal_radiative_losses.txt 1 1055 
+since Coronal_radiative_losses.txt 2 312 523 
+induces Coronal_radiative_losses.txt 1 820 
+particles Coronal_radiative_losses.txt 5 471 566 755 772 951 
+collisions Coronal_radiative_losses.txt 3 564 753 949 
+smm Coronal_radiative_losses.txt 1 448 
+dominated Coronal_radiative_losses.txt 1 159 
+7 Coronal_radiative_losses.txt 1 443 
+doppler Coronal_radiative_losses.txt 1 893 
+linear Coronal_radiative_losses.txt 1 1325 
+million Coronal_radiative_losses.txt 2 180 310 
+mechanisms Coronal_radiative_losses.txt 1 1241 
+free Coronal_radiative_losses.txt 1 1146 
+completely Coronal_radiative_losses.txt 1 459 
+formation Coronal_radiative_losses.txt 1 929 
+estimate Coronal_radiative_losses.txt 1 971 
+optically-thin Coronal_radiative_losses.txt 7 60 511 551 1001 1013 1222 1318 
+saha Coronal_radiative_losses.txt 1 890 
+could Coronal_radiative_losses.txt 1 410 
+transition Coronal_radiative_losses.txt 8 34 54 236 666 780 813 1065 1126 
+rosner Coronal_radiative_losses.txt 1 1333 
+conducted Coronal_radiative_losses.txt 1 228 
+dielectronic Coronal_radiative_losses.txt 1 1157 
+frequent Coronal_radiative_losses.txt 1 953 
+first Coronal_radiative_losses.txt 2 405 1077 
+probability Coronal_radiative_losses.txt 1 1127 
+coming Coronal_radiative_losses.txt 3 48 377 646 
+number Coronal_radiative_losses.txt 4 1032 1040 1094 1104 
+given Coronal_radiative_losses.txt 1 1113 
+temperature Coronal_radiative_losses.txt 9 69 178 308 352 597 735 871 926 1235 
+approximately Coronal_radiative_losses.txt 1 219 
+their Coronal_radiative_losses.txt 3 710 725 1300 
+intermediate Coronal_radiative_losses.txt 1 783 
+calculations Coronal_radiative_losses.txt 2 1289 1331 
+white Coronal_radiative_losses.txt 1 415 
+gives Coronal_radiative_losses.txt 2 895 1188 
+x-rays Coronal_radiative_losses.txt 4 100 133 387 436 
+that Coronal_radiative_losses.txt 4 169 475 607 793 
+relative Coronal_radiative_losses.txt 1 1061 
+optical Coronal_radiative_losses.txt 1 85 
+authors Coronal_radiative_losses.txt 1 1281 
+than Coronal_radiative_losses.txt 2 118 938 
+10 Coronal_radiative_losses.txt 8 246 258 259 268 270 468 469 1202 
+15 Coronal_radiative_losses.txt 1 110 
+third Coronal_radiative_losses.txt 1 1160 
+require Coronal_radiative_losses.txt 1 1242 
+grey Coronal_radiative_losses.txt 1 357 
+matter Coronal_radiative_losses.txt 3 490 554 575 
+contrary Coronal_radiative_losses.txt 1 63 
+iron Coronal_radiative_losses.txt 1 704 
+recombination Coronal_radiative_losses.txt 1 1071 
+sec Coronal_radiative_losses.txt 3 249 262 273 
+steep Coronal_radiative_losses.txt 1 235 
+result Coronal_radiative_losses.txt 1 605 
+and Coronal_radiative_losses.txt 29 6 36 38 53 90 125 129 153 206 263 318 435 461 504 567 572 587 703 723 773 872 1072 1102 1120 1143 1170 1245 1267 1302 
+spectrum Coronal_radiative_losses.txt 4 371 610 641 1195 
+have Coronal_radiative_losses.txt 1 706 
+seen Coronal_radiative_losses.txt 1 102 
+occupied Coronal_radiative_losses.txt 1 1096 
+linked Coronal_radiative_losses.txt 1 183 
+contents Coronal_radiative_losses.txt 1 341 
+traditionally Coronal_radiative_losses.txt 1 30 
+responsible Coronal_radiative_losses.txt 1 174 
+isolated Coronal_radiative_losses.txt 1 474 
+mechanism Coronal_radiative_losses.txt 1 173 
+fraunhofer Coronal_radiative_losses.txt 2 636 644 
+fitting Coronal_radiative_losses.txt 1 1326 
+without Coronal_radiative_losses.txt 1 486 
+which Coronal_radiative_losses.txt 4 629 657 681 705 
+photosphere Coronal_radiative_losses.txt 4 124 330 493 649 
+xrt Coronal_radiative_losses.txt 2 108 147 
+spectral Coronal_radiative_losses.txt 5 615 693 743 1087 1295 
+towards Coronal_radiative_losses.txt 1 230 
+trace Coronal_radiative_losses.txt 1 452 
+rarefied Coronal_radiative_losses.txt 1 634 
+most Coronal_radiative_losses.txt 2 708 1006 
+measured Coronal_radiative_losses.txt 2 876 990 
+model Coronal_radiative_losses.txt 1 1330 
+probable Coronal_radiative_losses.txt 1 792 
+calculated Coronal_radiative_losses.txt 1 1135 
+metal Coronal_radiative_losses.txt 1 679 
+part Coronal_radiative_losses.txt 1 211 
+electrons Coronal_radiative_losses.txt 4 585 712 1034 1147 
+soho Coronal_radiative_losses.txt 1 451 
+velocity Coronal_radiative_losses.txt 2 582 974 
+sum Coronal_radiative_losses.txt 1 1025 
+fact Coronal_radiative_losses.txt 3 577 752 1237 
+atmosphere Coronal_radiative_losses.txt 3 26 402 514 
+intensity Coronal_radiative_losses.txt 1 861 
+fifty Coronal_radiative_losses.txt 1 424 
+earth Coronal_radiative_losses.txt 2 395 750 
+parameters Coronal_radiative_losses.txt 2 854 1306 
+enough Coronal_radiative_losses.txt 1 301 
+should Coronal_radiative_losses.txt 2 594 916 
+only Coronal_radiative_losses.txt 5 413 624 719 1196 1232 
+emitting Coronal_radiative_losses.txt 3 455 738 857 
+oct Coronal_radiative_losses.txt 1 111 
+inferior Coronal_radiative_losses.txt 1 1109 
+equilibrium Coronal_radiative_losses.txt 2 559 1116 
+meant Coronal_radiative_losses.txt 1 18 
+dominant Coronal_radiative_losses.txt 1 1209 
+ionized Coronal_radiative_losses.txt 2 460 699 
+words Coronal_radiative_losses.txt 1 496 
+during Coronal_radiative_losses.txt 1 417 
+collisional Coronal_radiative_losses.txt 5 627 690 1059 1118 1243 
+processes Coronal_radiative_losses.txt 8 42 320 342 628 691 1008 1211 1244 
+continuum Coronal_radiative_losses.txt 1 1194 
+4400 Coronal_radiative_losses.txt 1 82 
+predicted Coronal_radiative_losses.txt 1 939 
+including Coronal_radiative_losses.txt 2 274 1212 
+where Coronal_radiative_losses.txt 5 56 67 1029 1123 1230 
+atomic Coronal_radiative_losses.txt 1 1305 
+observed Coronal_radiative_losses.txt 1 412 
+depends Coronal_radiative_losses.txt 2 623 1231 
+radius Coronal_radiative_losses.txt 1 121 
+are Coronal_radiative_losses.txt 18 158 166 323 382 472 526 542 569 650 674 695 837 886 952 1015 1112 1148 1285 
+subject Coronal_radiative_losses.txt 1 544 
+interacting Coronal_radiative_losses.txt 1 487 
+scattering Coronal_radiative_losses.txt 1 1167 
+wikipedia Coronal_radiative_losses.txt 1 3 
+state Coronal_radiative_losses.txt 3 688 800 817 
+between Coronal_radiative_losses.txt 4 565 754 950 1117 
+encounters Coronal_radiative_losses.txt 1 803 
+we Coronal_radiative_losses.txt 1 593 
+terms Coronal_radiative_losses.txt 1 1028 
+emitted Coronal_radiative_losses.txt 5 383 654 696 1049 1139 
+essentially Coronal_radiative_losses.txt 1 1292 
+last Coronal_radiative_losses.txt 1 423 
+missions Coronal_radiative_losses.txt 1 407 
+many Coronal_radiative_losses.txt 5 438 692 852 1280 1283 
+region Coronal_radiative_losses.txt 3 35 55 237 
+uncertainty Coronal_radiative_losses.txt 1 984 
+heating Coronal_radiative_losses.txt 1 172 
+zeeman Coronal_radiative_losses.txt 1 999 
+emit Coronal_radiative_losses.txt 1 824 
+s Coronal_radiative_losses.txt 2 484 1343 
+absorption Coronal_radiative_losses.txt 1 651 
+contribution Coronal_radiative_losses.txt 2 1075 1191 
+cm Coronal_radiative_losses.txt 4 248 261 272 1342 
+hinode Coronal_radiative_losses.txt 3 105 150 453 
+environments Coronal_radiative_losses.txt 1 541 
+individuation Coronal_radiative_losses.txt 1 726 
+regulated Coronal_radiative_losses.txt 1 887 
+broadening Coronal_radiative_losses.txt 2 932 947 
+second Coronal_radiative_losses.txt 1 1132 
+radiative Coronal_radiative_losses.txt 6 1 10 366 1018 1067 1314 
+due Coronal_radiative_losses.txt 6 277 944 958 996 1080 1163 
+been Coronal_radiative_losses.txt 3 430 683 1277 
+much Coronal_radiative_losses.txt 1 116 
+define Coronal_radiative_losses.txt 1 595 
+yohkoh Coronal_radiative_losses.txt 1 450 
+recombinate Coronal_radiative_losses.txt 1 1153 
+corresponding Coronal_radiative_losses.txt 1 1051 
+sufficient Coronal_radiative_losses.txt 1 731 
+formed Coronal_radiative_losses.txt 1 718 
+excite Coronal_radiative_losses.txt 1 757 
+determination Coronal_radiative_losses.txt 1 850 
+external Coronal_radiative_losses.txt 2 25 711 
+plasmas Coronal_radiative_losses.txt 1 525 
+present Coronal_radiative_losses.txt 1 527 
+case Coronal_radiative_losses.txt 1 963 
+these Coronal_radiative_losses.txt 6 539 601 713 742 766 1288 
+single Coronal_radiative_losses.txt 1 1086 
+value Coronal_radiative_losses.txt 1 74 
+calcium Coronal_radiative_losses.txt 1 702 
+while Coronal_radiative_losses.txt 4 420 642 785 933 
+elettrodynamics Coronal_radiative_losses.txt 1 1185 
+eclipses Coronal_radiative_losses.txt 1 419 
+taking Coronal_radiative_losses.txt 1 1204 
+larger Coronal_radiative_losses.txt 1 937 
+almost Coronal_radiative_losses.txt 2 458 476 
+wherever Coronal_radiative_losses.txt 1 528 
+is Coronal_radiative_losses.txt 33 17 59 87 93 182 215 227 244 255 285 300 315 333 390 398 457 466 499 510 515 555 589 606 730 790 935 1030 1079 1124 1134 1162 1263 1268 
+it Coronal_radiative_losses.txt 10 16 254 332 397 622 789 802 934 955 1320 
+surface Coronal_radiative_losses.txt 2 485 979 
+quiet Coronal_radiative_losses.txt 2 204 252 
+in Coronal_radiative_losses.txt 41 4 7 39 64 97 131 199 202 207 238 250 264 328 335 337 385 414 421 432 494 529 549 557 631 638 727 751 762 786 797 862 909 961 1084 1236 1271 1287 1299 1309 1337 1340 
+capture Coronal_radiative_losses.txt 1 1158 
+different Coronal_radiative_losses.txt 3 324 865 882 
+radiation Coronal_radiative_losses.txt 14 47 92 322 344 362 389 503 562 620 1010 1050 1181 1210 1240 
+same Coronal_radiative_losses.txt 7 221 365 592 662 808 827 869 
+stimulated Coronal_radiative_losses.txt 1 830 
+complex Coronal_radiative_losses.txt 1 128 
+9 Coronal_radiative_losses.txt 1 445 
+filtered Coronal_radiative_losses.txt 1 399 
+satellite Coronal_radiative_losses.txt 2 841 1213 
+used Coronal_radiative_losses.txt 3 969 1270 1323 
+see Coronal_radiative_losses.txt 1 138 
+absorb Coronal_radiative_losses.txt 1 658 
+effect Coronal_radiative_losses.txt 2 1000 1187 
+ion Coronal_radiative_losses.txt 4 795 822 1039 1064 
+appreciable Coronal_radiative_losses.txt 1 1190 
+lower Coronal_radiative_losses.txt 1 816 
+1978 Coronal_radiative_losses.txt 1 1336 
+modeled Coronal_radiative_losses.txt 1 1278 
+roughly Coronal_radiative_losses.txt 1 256 
+1 Coronal_radiative_losses.txt 1 89 
+the Coronal_radiative_losses.txt 168 13 19 24 28 41 46 50 57 62 65 68 72 79 84 91 95 98 104 113 123 132 139 142 146 151 156 161 171 185 189 191 196 203 213 220 224 231 234 241 251 275 279 282 290 295 304 307 313 319 329 338 346 350 354 356 360 364 369 374 379 386 394 401 404 408 418 422 426 433 454 478 482 489 492 497 502 505 508 512 517 530 543 546 553 561 578 591 604 608 614 639 643 648 661 665 734 737 749 787 807 811 815 821 826 843 846 849 856 860 868 881 889 892 900 903 910 913 919 925 940 964 972 977 985 993 998 1005 1017 1024 1031 1038 1042 1045 1048 1053 1056 1063 1066 1073 1076 1082 1093 1099 1103 1108 1115 1125 1131 1137 1159 1165 1174 1193 1198 1208 1218 1234 1239 1249 1252 1255 1259 1274 1294 1304 1313 1324 1344 
+rocket Coronal_radiative_losses.txt 1 406 
+satellites Coronal_radiative_losses.txt 2 137 439 
+thanks Coronal_radiative_losses.txt 1 991 
+turbulence Coronal_radiative_losses.txt 1 960 
+macroscopic Coronal_radiative_losses.txt 1 973 
+captured Coronal_radiative_losses.txt 1 1149 
+bibliography Coronal_radiative_losses.txt 1 1357 
+density Coronal_radiative_losses.txt 6 314 465 873 1041 1251 1257 
+irradiated Coronal_radiative_losses.txt 4 22 194 216 293 
+photons Coronal_radiative_losses.txt 4 479 568 584 659 
+had Coronal_radiative_losses.txt 1 682 
+evidences Coronal_radiative_losses.txt 1 168 
+source Coronal_radiative_losses.txt 1 522 
+extends Coronal_radiative_losses.txt 1 115 
+board Coronal_radiative_losses.txt 1 149 
+has Coronal_radiative_losses.txt 2 429 1276 
+plasma Coronal_radiative_losses.txt 13 58 305 456 509 552 635 739 858 1002 1014 1070 1223 1319 
+excited Coronal_radiative_losses.txt 1 684 
+photographed Coronal_radiative_losses.txt 1 431 
+articles Coronal_radiative_losses.txt 1 1353 
+immediately Coronal_radiative_losses.txt 1 768 
+unique Coronal_radiative_losses.txt 1 518 
+occurring Coronal_radiative_losses.txt 1 327 
+like Coronal_radiative_losses.txt 1 701 
+particle Coronal_radiative_losses.txt 1 602 
+velocities Coronal_radiative_losses.txt 2 901 923 
+flux Coronal_radiative_losses.txt 8 21 193 226 243 292 367 1019 1315 
+simply Coronal_radiative_losses.txt 1 1228 
+soft Coronal_radiative_losses.txt 1 99 
+right Coronal_radiative_losses.txt 1 143 
+often Coronal_radiative_losses.txt 3 838 936 1269 
+classical Coronal_radiative_losses.txt 1 1184 
+some Coronal_radiative_losses.txt 2 740 1329 
+back Coronal_radiative_losses.txt 1 229 
+sight Coronal_radiative_losses.txt 2 906 1262 
+images Coronal_radiative_losses.txt 1 134 
+dense Coronal_radiative_losses.txt 1 764 
+for Coronal_radiative_losses.txt 5 9 175 598 1011 1069 
+electromagnetic Coronal_radiative_losses.txt 1 375 
+per Coronal_radiative_losses.txt 2 1035 1140 
+pioneer Coronal_radiative_losses.txt 1 440 
+does Coronal_radiative_losses.txt 1 611 
+be Coronal_radiative_losses.txt 12 411 717 746 875 943 957 968 989 1021 1225 1322 1348 
+power Coronal_radiative_losses.txt 1 284 
+perpendicular Coronal_radiative_losses.txt 1 911 
+stellar Coronal_radiative_losses.txt 2 533 540 
+pressure Coronal_radiative_losses.txt 1 946 
+by Coronal_radiative_losses.txt 15 103 136 145 160 400 437 678 689 697 829 888 1114 1168 1279 1332 
+on Coronal_radiative_losses.txt 12 61 109 141 148 625 748 918 976 1233 1248 1293 1303 
+about Coronal_radiative_losses.txt 3 88 245 467 
+rare Coronal_radiative_losses.txt 1 571 
+pt Coronal_radiative_losses.txt 1 1346 
+of Coronal_radiative_losses.txt 54 12 27 43 45 75 81 155 179 188 212 223 289 309 321 343 345 353 368 507 520 545 576 583 600 617 660 664 709 736 741 806 810 845 851 855 864 867 884 899 905 922 927 1009 1026 1033 1047 1058 1095 1105 1128 1173 1220 1254 1261 
+important Coronal_radiative_losses.txt 1 1007 
+or Coronal_radiative_losses.txt 1 954 
+into Coronal_radiative_losses.txt 3 32 1154 1205 
+integral Coronal_radiative_losses.txt 1 1253 
+three Coronal_radiative_losses.txt 1 1027 
+because Coronal_radiative_losses.txt 3 396 563 1172 
+references Coronal_radiative_losses.txt 1 1355 
+determine Coronal_radiative_losses.txt 1 733 
+c.g.s Coronal_radiative_losses.txt 1 1338 
+area Coronal_radiative_losses.txt 2 358 373 
+there Coronal_radiative_losses.txt 1 165 
+width Coronal_radiative_losses.txt 2 915 966 
+low Coronal_radiative_losses.txt 1 317 
+fraction Coronal_radiative_losses.txt 1 288 
+astrophysics Coronal_radiative_losses.txt 1 8 
+function Coronal_radiative_losses.txt 2 1275 1345 
+metastable Coronal_radiative_losses.txt 4 760 799 835 1216 
+differences Coronal_radiative_losses.txt 1 1290 
+but Coronal_radiative_losses.txt 6 218 297 621 907 980 1282 
+volume Coronal_radiative_losses.txt 2 1037 1142 
+neutral Coronal_radiative_losses.txt 1 1155 
+solar Coronal_radiative_losses.txt 11 14 51 120 162 280 347 370 380 427 640 728 
+line Coronal_radiative_losses.txt 8 904 914 928 931 965 994 1088 1260 
+highest Coronal_radiative_losses.txt 1 1199 
+with Coronal_radiative_losses.txt 9 363 488 560 770 777 825 877 981 1089 
+also Coronal_radiative_losses.txt 1 975 
+helios Coronal_radiative_losses.txt 1 446 
+those Coronal_radiative_losses.txt 2 326 626 
+spectroscopy Coronal_radiative_losses.txt 1 844 
+distribution Coronal_radiative_losses.txt 2 616 921 
+called Coronal_radiative_losses.txt 2 839 1264 
+x-ray Coronal_radiative_losses.txt 4 106 521 547 1272 
+constant Coronal_radiative_losses.txt 1 1044 
+certain Coronal_radiative_losses.txt 1 721 
+measure Coronal_radiative_losses.txt 1 1266 
+al Coronal_radiative_losses.txt 1 1335 
+an Coronal_radiative_losses.txt 8 550 668 778 782 1012 1189 1221 1317 
+as Coronal_radiative_losses.txt 8 101 331 573 840 1023 1136 1229 1350 
+at Coronal_radiative_losses.txt 6 306 720 924 1098 1107 1197 
+physical Coronal_radiative_losses.txt 1 853 
+thermodynamical Coronal_radiative_losses.txt 1 558 
+when Coronal_radiative_losses.txt 2 948 1145 
+detail Coronal_radiative_losses.txt 1 336 
+field Coronal_radiative_losses.txt 3 164 187 987 
+other Coronal_radiative_losses.txt 3 495 771 1351 
+5 Coronal_radiative_losses.txt 2 267 441 
+nixt Coronal_radiative_losses.txt 1 449 
+excitation Coronal_radiative_losses.txt 1 1119 
+temperatures Coronal_radiative_losses.txt 2 722 1200 
+models Coronal_radiative_losses.txt 1 1301 
+photon Coronal_radiative_losses.txt 2 805 819 
+coronal Coronal_radiative_losses.txt 4 0 208 265 672 
+coronae Coronal_radiative_losses.txt 1 534 
+astronomy Coronal_radiative_losses.txt 3 5 548 1273 
+structure Coronal_radiative_losses.txt 1 152 
+coulomb Coronal_radiative_losses.txt 1 1175 
+required Coronal_radiative_losses.txt 1 283 
+holes Coronal_radiative_losses.txt 2 209 266 
+depth Coronal_radiative_losses.txt 1 86 
+time Coronal_radiative_losses.txt 1 1144 
+2009 Coronal_radiative_losses.txt 1 112 

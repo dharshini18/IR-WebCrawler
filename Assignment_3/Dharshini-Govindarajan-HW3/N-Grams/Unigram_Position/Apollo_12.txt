@@ -1,0 +1,868 @@
+all Apollo_12.txt 5 322 378 1897 2201 2245 
+measurements Apollo_12.txt 2 1504 1518 
+pointing Apollo_12.txt 1 153 
+switched Apollo_12.txt 1 485 
+sce Apollo_12.txt 4 458 481 487 532 
+caused Apollo_12.txt 5 423 613 628 780 2005 
+magnetic Apollo_12.txt 1 1513 
+hampton Apollo_12.txt 2 2070 2090 
+astronauts Apollo_12.txt 8 694 1221 1491 1535 1563 1706 1899 1977 
+four Apollo_12.txt 2 37 1968 
+manager Apollo_12.txt 1 434 
+functioned Apollo_12.txt 1 702 
+saved Apollo_12.txt 1 554 
+griffin Apollo_12.txt 1 503 
+peter Apollo_12.txt 1 2271 
+corps Apollo_12.txt 1 1990 
+tv Apollo_12.txt 1 1412 
+removal Apollo_12.txt 1 1243 
+environment Apollo_12.txt 1 1469 
+to Apollo_12.txt 49 19 134 173 298 362 391 428 465 482 488 636 648 677 691 719 736 740 783 793 849 1038 1043 1088 1098 1102 1146 1229 1317 1332 1336 1370 1380 1434 1438 1453 1461 1519 1539 1558 1601 1758 1790 1854 1872 2012 2111 2208 2216 2239 
+aaron Apollo_12.txt 3 437 476 564 
+program Apollo_12.txt 1 15 
+rejoined Apollo_12.txt 1 1679 
+under Apollo_12.txt 1 1133 
+aux Apollo_12.txt 1 483 
+suffered Apollo_12.txt 1 1838 
+sent Apollo_12.txt 1 1101 
+eliminate Apollo_12.txt 1 1147 
+activities Apollo_12.txt 1 204 
+probe Apollo_12.txt 7 119 1073 1100 1185 1204 1425 1433 
+returned Apollo_12.txt 2 1789 2207 
+22:17:17.7 Apollo_12.txt 1 2156 
+differently Apollo_12.txt 1 1630 
+lro Apollo_12.txt 3 2129 2178 2206 
+me Apollo_12.txt 1 1284 
+electron Apollo_12.txt 1 1395 
+every Apollo_12.txt 2 415 1223 
+malfunctioned Apollo_12.txt 1 451 
+continued Apollo_12.txt 2 361 586 
+electronics Apollo_12.txt 1 457 
+categories Apollo_12.txt 2 2307 2309 
+discovered Apollo_12.txt 2 832 2099 
+mild Apollo_12.txt 1 1840 
+transmission Apollo_12.txt 1 143 
+eva Apollo_12.txt 4 207 216 224 233 
+accidentally Apollo_12.txt 2 148 1455 
+try Apollo_12.txt 1 480 
+mm Apollo_12.txt 1 1821 
+dramatized Apollo_12.txt 1 2232 
+vector Apollo_12.txt 1 774 
+quick Apollo_12.txt 1 549 
+loads Apollo_12.txt 1 396 
+shows Apollo_12.txt 1 1892 
+aeronautics Apollo_12.txt 1 2295 
+samoa Apollo_12.txt 1 1816 
+alsep Apollo_12.txt 2 1530 2193 
+trails Apollo_12.txt 1 1927 
+direct Apollo_12.txt 2 1044 1231 
+past Apollo_12.txt 2 742 785 
+second Apollo_12.txt 3 18 337 994 
+displays Apollo_12.txt 1 472 
+seismicity Apollo_12.txt 1 1508 
+s-ivb Apollo_12.txt 5 603 716 725 782 2114 
+approached Apollo_12.txt 1 751 
+blue Apollo_12.txt 2 1955 1957 
+depiction Apollo_12.txt 2 1621 2221 
+what Apollo_12.txt 3 555 1316 2032 
+splashdown Apollo_12.txt 3 184 1785 1818 
+richard Apollo_12.txt 2 70 282 
+witnessed Apollo_12.txt 1 1769 
+sun Apollo_12.txt 3 157 1391 1784 
+stars Apollo_12.txt 1 1969 
+parachutes Apollo_12.txt 1 699 
+seconds Apollo_12.txt 2 285 341 
+experiment Apollo_12.txt 1 2191 
+above Apollo_12.txt 1 859 
+international Apollo_12.txt 2 934 1857 
+2009 Apollo_12.txt 1 2173 
+exercise Apollo_12.txt 1 999 
+kicked Apollo_12.txt 1 1154 
+reporter Apollo_12.txt 1 1298 
+respectively Apollo_12.txt 1 2262 
+never Apollo_12.txt 1 1330 
+hours Apollo_12.txt 3 61 1743 1753 
+ranger Apollo_12.txt 1 931 
+slow Apollo_12.txt 1 737 
+separation Apollo_12.txt 1 714 
+textured Apollo_12.txt 1 1629 
+november Apollo_12.txt 12 28 179 210 219 227 236 255 810 903 1688 1793 2152 
+remark Apollo_12.txt 1 1290 
+strewn Apollo_12.txt 1 1054 
+impacted Apollo_12.txt 2 1684 2149 
+31 Apollo_12.txt 2 827 1739 
+reports Apollo_12.txt 2 1484 2305 
+leaving Apollo_12.txt 1 1761 
+prior Apollo_12.txt 1 1460 
+airport Apollo_12.txt 1 1858 
+resulting Apollo_12.txt 1 2015 
+struck Apollo_12.txt 1 1828 
+guidance Apollo_12.txt 1 778 
+thats Apollo_12.txt 2 1279 2244 
+trainer Apollo_12.txt 1 2011 
+hst Apollo_12.txt 1 1802 
+extra Apollo_12.txt 1 1725 
+collected Apollo_12.txt 1 1496 
+layer Apollo_12.txt 1 1210 
+visible Apollo_12.txt 1 2202 
+names Apollo_12.txt 1 1945 
+trained Apollo_12.txt 1 2020 
+off-the-cuff Apollo_12.txt 1 1289 
+touchdown Apollo_12.txt 2 988 1169 
+total Apollo_12.txt 2 1734 1746 
+unit Apollo_12.txt 1 374 
+standing Apollo_12.txt 1 2144 
+use Apollo_12.txt 1 1039 
+from Apollo_12.txt 14 31 251 263 443 463 534 1138 1162 1175 1343 1543 1825 2236 2288 
+figure Apollo_12.txt 1 678 
+would Apollo_12.txt 7 659 759 963 1004 1302 2033 2040 
+representing Apollo_12.txt 1 1919 
+two Apollo_12.txt 2 161 1471 
+8-ball Apollo_12.txt 1 347 
+few Apollo_12.txt 1 1026 
+camera Apollo_12.txt 8 133 151 1348 1357 1369 1413 1459 1823 
+call Apollo_12.txt 1 479 
+vehicle Apollo_12.txt 2 289 360 
+strike Apollo_12.txt 2 338 625 
+stage Apollo_12.txt 6 605 763 1604 1669 2116 2190 
+tell Apollo_12.txt 1 692 
+more Apollo_12.txt 2 1194 1717 
+flat Apollo_12.txt 1 1658 
+formally Apollo_12.txt 1 978 
+relay Apollo_12.txt 1 1540 
+successful Apollo_12.txt 1 183 
+robbins Apollo_12.txt 1 1885 
+it Apollo_12.txt 23 24 154 270 514 619 738 798 813 830 840 846 1121 1186 1197 1213 1378 1387 1442 1615 1627 1683 1910 1971 
+landed Apollo_12.txt 5 122 901 1076 1109 1417 
+known Apollo_12.txt 1 944 
+disabling Apollo_12.txt 1 639 
+fly Apollo_12.txt 4 363 720 741 784 
+states Apollo_12.txt 2 13 1936 
+hour Apollo_12.txt 1 1720 
+f Apollo_12.txt 1 71 
+this Apollo_12.txt 10 683 938 940 1083 1285 1402 1467 1477 1776 2282 
+eclipse Apollo_12.txt 1 1774 
+longitude Apollo_12.txt 1 959 
+streptococcus Apollo_12.txt 2 1449 1486 
+thin Apollo_12.txt 1 1209 
+v Apollo_12.txt 2 372 2122 
+knocked Apollo_12.txt 1 344 
+performed Apollo_12.txt 1 54 
+control Apollo_12.txt 4 355 420 1019 1042 
+stream Apollo_12.txt 1 352 
+garbled Apollo_12.txt 1 357 
+near Apollo_12.txt 1 1373 
+pieces Apollo_12.txt 1 1430 
+parachute Apollo_12.txt 2 634 646 
+surveyor Apollo_12.txt 10 116 166 928 1071 1139 1164 1176 1201 1423 2194 
+protective Apollo_12.txt 1 306 
+rainstorm Apollo_12.txt 1 269 
+dropped Apollo_12.txt 2 407 1671 
+station Apollo_12.txt 1 1531 
+tan Apollo_12.txt 1 1215 
+csm Apollo_12.txt 3 334 384 454 
+united Apollo_12.txt 2 12 1935 
+end Apollo_12.txt 3 218 235 706 
+recovery Apollo_12.txt 2 1663 1847 
+destroying Apollo_12.txt 1 1392 
+six Apollo_12.txt 1 1844 
+damage Apollo_12.txt 1 617 
+stayed Apollo_12.txt 1 1723 
+1 Apollo_12.txt 2 208 217 
+located Apollo_12.txt 1 84 
+astronomers Apollo_12.txt 1 2094 
+75-ampere Apollo_12.txt 1 394 
+whoopie Apollo_12.txt 1 1267 
+intended Apollo_12.txt 3 718 987 1064 
+may Apollo_12.txt 1 1270 
+designated Apollo_12.txt 1 2106 
+earlier Apollo_12.txt 3 445 540 921 
+stainless Apollo_12.txt 2 1639 1651 
+crashed Apollo_12.txt 1 661 
+plane Apollo_12.txt 1 1871 
+oceanus Apollo_12.txt 1 915 
+date Apollo_12.txt 1 1089 
+president Apollo_12.txt 1 281 
+data Apollo_12.txt 1 1542 
+aviator Apollo_12.txt 1 1991 
+man Apollo_12.txt 2 571 1268 
+a Apollo_12.txt 42 105 182 268 291 336 448 478 489 535 538 568 768 801 1099 1131 1141 1208 1214 1273 1280 1294 1346 1473 1616 1620 1733 1741 1745 1772 1819 1839 1862 1868 1912 1948 1953 1987 2002 2017 2132 2213 2268 
+thought Apollo_12.txt 1 2095 
+short Apollo_12.txt 1 1115 
+third Apollo_12.txt 2 604 2115 
+light Apollo_12.txt 1 417 
+nuclear-powered Apollo_12.txt 1 1529 
+c-141 Apollo_12.txt 1 1869 
+switch Apollo_12.txt 2 494 533 
+maintain Apollo_12.txt 1 392 
+series Apollo_12.txt 1 2126 
+sm Apollo_12.txt 1 316 
+media Apollo_12.txt 2 2125 2223 
+operate Apollo_12.txt 1 1559 
+documents Apollo_12.txt 1 2291 
+wind Apollo_12.txt 1 1510 
+indeed Apollo_12.txt 1 654 
+over Apollo_12.txt 1 56 
+mission Apollo_12.txt 19 42 82 176 197 241 354 508 561 709 877 900 1403 1878 1890 1905 1938 1981 2038 2230 
+years Apollo_12.txt 2 828 1475 
+disabled Apollo_12.txt 1 655 
+ended Apollo_12.txt 1 177 
+attitude Apollo_12.txt 1 348 
+through Apollo_12.txt 3 294 301 1241 
+still Apollo_12.txt 1 2143 
+its Apollo_12.txt 1 1063 
+before Apollo_12.txt 3 600 845 1864 
+24 Apollo_12.txt 2 180 1794 
+356s Apollo_12.txt 2 1692 2161 
+20 Apollo_12.txt 5 125 228 237 1689 2153 
+maps Apollo_12.txt 1 972 
+chosen Apollo_12.txt 1 1145 
+highlights Apollo_12.txt 1 242 
+border Apollo_12.txt 1 1951 
+lm Apollo_12.txt 1 713 
+coordinates Apollo_12.txt 1 948 
+crew Apollo_12.txt 9 186 189 192 594 670 1722 1765 1944 2030 
+destroyed Apollo_12.txt 1 149 
+detected Apollo_12.txt 1 318 
+permanent Apollo_12.txt 1 616 
+systems Apollo_12.txt 1 528 
+latitude Apollo_12.txt 1 956 
+covered Apollo_12.txt 1 1206 
+hidden Apollo_12.txt 1 2308 
+secondary Apollo_12.txt 1 1394 
+2011 Apollo_12.txt 2 896 2204 
+image Apollo_12.txt 1 866 
+instantly Apollo_12.txt 1 671 
+then Apollo_12.txt 1 760 
+them Apollo_12.txt 1 650 
+return Apollo_12.txt 3 172 1659 1756 
+1,180 Apollo_12.txt 1 1134 
+material Apollo_12.txt 1 2287 
+flew Apollo_12.txt 1 1979 
+anticipated Apollo_12.txt 1 1128 
+rougher Apollo_12.txt 1 1123 
+aborted Apollo_12.txt 1 560 
+half Apollo_12.txt 2 1474 1742 
+not Apollo_12.txt 7 368 682 690 977 1287 1553 1618 
+day Apollo_12.txt 3 58 1726 2133 
+nor Apollo_12.txt 1 507 
+stunts Apollo_12.txt 1 1874 
+term Apollo_12.txt 1 1561 
+name Apollo_12.txt 2 979 1939 
+designation Apollo_12.txt 1 843 
+edit Apollo_12.txt 25 187 190 193 196 199 202 206 215 223 232 240 243 247 856 1248 1660 1786 1877 1880 2053 2224 2279 2281 2300 2303 
+always Apollo_12.txt 1 750 
+october Apollo_12.txt 1 1998 
+l Apollo_12.txt 1 52 
+space-flown Apollo_12.txt 1 1883 
+rocks Apollo_12.txt 1 1497 
+did Apollo_12.txt 3 976 1178 1617 
+vibrations Apollo_12.txt 1 1715 
+each Apollo_12.txt 1 1973 
+found Apollo_12.txt 1 1452 
+entirely Apollo_12.txt 1 385 
+entitled Apollo_12.txt 1 2243 
+malfunction Apollo_12.txt 1 429 
+seismometers Apollo_12.txt 1 1704 
+storage Apollo_12.txt 1 1826 
+neil Apollo_12.txt 4 1035 1256 1277 1314 
+fired Apollo_12.txt 1 730 
+hundred Apollo_12.txt 1 1027 
+him Apollo_12.txt 1 1834 
+year Apollo_12.txt 1 539 
+statio Apollo_12.txt 1 968 
+out Apollo_12.txt 4 345 597 679 2110 
+shown Apollo_12.txt 1 881 
+20:58 Apollo_12.txt 1 1797 
+space Apollo_12.txt 6 34 253 265 2067 2087 2297 
+arriving Apollo_12.txt 1 1915 
+quality Apollo_12.txt 1 1339 
+since Apollo_12.txt 2 672 1480 
+1.75 Apollo_12.txt 2 884 886 
+7 Apollo_12.txt 1 932 
+offline Apollo_12.txt 2 326 408 
+stitches Apollo_12.txt 1 1845 
+cause Apollo_12.txt 1 1179 
+common Apollo_12.txt 1 1447 
+attended Apollo_12.txt 1 276 
+disputed Apollo_12.txt 1 1482 
+bolts Apollo_12.txt 1 642 
+580 Apollo_12.txt 1 1111 
+carr Apollo_12.txt 1 506 
+voltages Apollo_12.txt 1 467 
+possibility Apollo_12.txt 2 697 1149 
+standard Apollo_12.txt 1 466 
+capcom Apollo_12.txt 1 504 
+conditioning Apollo_12.txt 1 456 
+put Apollo_12.txt 2 382 573 
+responding Apollo_12.txt 1 2014 
+marine Apollo_12.txt 1 1989 
+incorporates Apollo_12.txt 1 2284 
+training Apollo_12.txt 1 536 
+3.94 Apollo_12.txt 2 1696 2165 
+launch Apollo_12.txt 6 244 275 343 395 585 1462 
+where Apollo_12.txt 2 1034 1377 
+could Apollo_12.txt 2 556 626 
+computers Apollo_12.txt 1 1050 
+florida Apollo_12.txt 1 36 
+xii Apollo_12.txt 1 1941 
+10:58am Apollo_12.txt 1 1801 
+american Apollo_12.txt 1 1815 
+flown Apollo_12.txt 2 1853 1866 
+place Apollo_12.txt 1 1372 
+gordon Apollo_12.txt 5 72 1582 1680 2024 2249 
+w Apollo_12.txt 1 958 
+assumed Apollo_12.txt 1 1020 
+unmanned Apollo_12.txt 2 118 924 
+high-resolution Apollo_12.txt 1 862 
+altitude Apollo_12.txt 2 792 2215 
+silver Apollo_12.txt 1 1884 
+first Apollo_12.txt 7 96 130 273 1086 1264 1527 2275 
+there Apollo_12.txt 2 673 2246 
+features Apollo_12.txt 1 1911 
+thereafter Apollo_12.txt 1 964 
+one Apollo_12.txt 8 57 159 402 1275 1282 1777 1972 1983 
+feet Apollo_12.txt 4 1028 1112 1135 1172 
+time-lapse Apollo_12.txt 1 2128 
+another Apollo_12.txt 2 1105 2100 
+lmcsm Apollo_12.txt 1 200 
+177 Apollo_12.txt 1 1113 
+open Apollo_12.txt 1 644 
+engineer Apollo_12.txt 1 529 
+little Apollo_12.txt 1 1132 
+checked Apollo_12.txt 1 596 
+service Apollo_12.txt 1 314 
+needed Apollo_12.txt 2 1006 1843 
+leading Apollo_12.txt 1 754 
+caught Apollo_12.txt 1 1096 
+lightened Apollo_12.txt 1 1234 
+flag Apollo_12.txt 2 1932 2142 
+system Apollo_12.txt 2 728 779 
+approximately Apollo_12.txt 2 883 1807 
+their Apollo_12.txt 3 109 598 980 
+2 Apollo_12.txt 2 225 234 
+too Apollo_12.txt 1 789 
+tom Apollo_12.txt 1 2257 
+re-igniting Apollo_12.txt 1 601 
+white Apollo_12.txt 1 1239 
+john Apollo_12.txt 1 436 
+final Apollo_12.txt 2 1025 1125 
+williams Apollo_12.txt 1 1986 
+listed Apollo_12.txt 1 966 
+hue Apollo_12.txt 1 1216 
+miniseries Apollo_12.txt 1 2235 
+lot Apollo_12.txt 2 992 1119 
+that Apollo_12.txt 12 622 643 917 1143 1190 1211 1269 1358 1445 1502 1610 2108 
+public Apollo_12.txt 1 2285 
+oriana Apollo_12.txt 1 1299 
+took Apollo_12.txt 4 321 1503 1565 1591 
+alan Apollo_12.txt 2 51 518 
+environmental Apollo_12.txt 1 431 
+part Apollo_12.txt 2 1524 2026 
+somewhat Apollo_12.txt 1 1253 
+brushed Apollo_12.txt 1 1657 
+than Apollo_12.txt 4 1127 1196 1255 1718 
+11 Apollo_12.txt 5 41 100 1033 1363 1551 
+distance Apollo_12.txt 3 1068 1142 1420 
+television Apollo_12.txt 3 132 1341 1399 
+12 Apollo_12.txt 23 1 4 249 259 870 899 1058 1353 1415 1644 1662 1699 1768 1882 1889 2050 2055 2074 2120 2137 2168 2182 2229 
+14 Apollo_12.txt 2 29 256 
+16 Apollo_12.txt 1 1820 
+19 Apollo_12.txt 3 211 220 904 
+18 Apollo_12.txt 1 811 
+determined Apollo_12.txt 2 848 1189 
+moonwalks Apollo_12.txt 1 162 
+were Apollo_12.txt 9 389 653 953 1266 1523 1552 1852 1906 2252 
+visited Apollo_12.txt 2 164 920 
+toward Apollo_12.txt 1 1236 
+bet Apollo_12.txt 1 1296 
+and Apollo_12.txt 51 16 47 59 102 167 245 296 320 422 432 473 498 551 562 580 667 701 731 930 974 1087 1129 1222 1427 1463 1472 1493 1498 1512 1515 1625 1677 1740 1744 1770 1827 1842 1875 1929 1942 1958 1982 1992 2023 2039 2066 2086 2197 2250 2259 2296 
+pointed Apollo_12.txt 1 1386 
+03:54:45 Apollo_12.txt 1 230 
+remained Apollo_12.txt 2 73 799 
+turned Apollo_12.txt 1 2109 
+raw Apollo_12.txt 1 461 
+say Apollo_12.txt 2 1303 1318 
+analysis Apollo_12.txt 1 1441 
+have Apollo_12.txt 9 557 627 660 1095 1271 1454 1619 2041 2098 
+monochrome Apollo_12.txt 1 1356 
+us$500 Apollo_12.txt 1 1295 
+multi-spectral Apollo_12.txt 1 1592 
+contents Apollo_12.txt 1 185 
+instrumentation Apollo_12.txt 3 335 427 464 
+u.s Apollo_12.txt 3 1907 1962 1988 
+1969 Apollo_12.txt 9 30 212 229 257 812 905 1690 1795 2154 
+bacterium Apollo_12.txt 1 1448 
+1967 Apollo_12.txt 3 126 1082 2000 
+able Apollo_12.txt 1 1331 
+gravity Apollo_12.txt 1 758 
+mechanism Apollo_12.txt 1 635 
+instructed Apollo_12.txt 1 1313 
+lit Apollo_12.txt 1 413 
+also Apollo_12.txt 4 1410 1495 1564 2278 
+high Apollo_12.txt 2 790 1180 
+take Apollo_12.txt 1 2217 
+which Apollo_12.txt 9 120 388 459 484 1003 1052 1074 1093 2104 
+3:58pm Apollo_12.txt 1 1799 
+finding Apollo_12.txt 1 1478 
+play Apollo_12.txt 1 2124 
+j002e3 Apollo_12.txt 2 844 2107 
+deploy Apollo_12.txt 1 649 
+footpaths Apollo_12.txt 1 2199 
+who Apollo_12.txt 4 838 1251 1978 1994 
+crash Apollo_12.txt 1 2018 
+most Apollo_12.txt 1 1011 
+strikes Apollo_12.txt 2 366 611 
+future Apollo_12.txt 1 1008 
+episode Apollo_12.txt 2 2242 2276 
+later Apollo_12.txt 3 829 1188 1326 
+m Apollo_12.txt 3 1114 1137 1174 
+km Apollo_12.txt 2 887 1812 
+looked Apollo_12.txt 1 1122 
+reputation Apollo_12.txt 1 566 
+sandblasting Apollo_12.txt 3 1182 1192 1232 
+propulsion Apollo_12.txt 1 727 
+velocity Apollo_12.txt 2 797 1181 
+normally Apollo_12.txt 1 703 
+precise Apollo_12.txt 1 106 
+walking Apollo_12.txt 2 1067 1419 
+multimedia Apollo_12.txt 1 2306 
+survived Apollo_12.txt 1 1464 
+gold Apollo_12.txt 2 1950 1959 
+charles Apollo_12.txt 1 44 
+aarons Apollo_12.txt 1 548 
+colors Apollo_12.txt 1 1964 
+planning Apollo_12.txt 1 878 
+carefully Apollo_12.txt 1 595 
+earth Apollo_12.txt 15 174 300 590 795 803 816 825 1439 1520 1624 1759 1781 1791 2103 2238 
+21.20 Apollo_12.txt 2 1697 2166 
+line Apollo_12.txt 1 579 
+ground Apollo_12.txt 1 687 
+impact Apollo_12.txt 2 1702 2171 
+indicator Apollo_12.txt 1 349 
+apollo Apollo_12.txt 35 0 3 14 40 99 140 248 258 748 869 898 1009 1032 1057 1352 1362 1411 1414 1550 1643 1661 1698 1767 1881 1888 1940 2036 2049 2054 2073 2119 2136 2167 2181 2228 
+rocket Apollo_12.txt 2 274 2123 
+parameters Apollo_12.txt 1 198 
+earned Apollo_12.txt 1 563 
+conduction Apollo_12.txt 1 1396 
+escaped Apollo_12.txt 1 815 
+plume Apollo_12.txt 1 305 
+storms Apollo_12.txt 2 93 913 
+state Apollo_12.txt 1 773 
+controls Apollo_12.txt 1 2007 
+only Apollo_12.txt 1 1090 
+black Apollo_12.txt 1 1635 
+money Apollo_12.txt 1 1335 
+fuel Apollo_12.txt 4 310 324 380 575 
+b Apollo_12.txt 1 1626 
+command/service Apollo_12.txt 1 332 
+astronomical Apollo_12.txt 1 935 
+achieve Apollo_12.txt 1 794 
+photographs Apollo_12.txt 4 1566 1593 1731 2220 
+steel Apollo_12.txt 2 1640 1652 
+his Apollo_12.txt 3 1045 1263 2009 
+meanwhile Apollo_12.txt 1 1581 
+succeeded Apollo_12.txt 1 1059 
+consumables Apollo_12.txt 1 433 
+stop Apollo_12.txt 1 2013 
+dc Apollo_12.txt 1 400 
+bean Apollo_12.txt 13 53 103 147 519 572 975 1366 1428 1494 1570 1678 1829 2251 
+ionized Apollo_12.txt 1 304 
+nearly Apollo_12.txt 1 414 
+words Apollo_12.txt 2 1265 1305 
+during Apollo_12.txt 5 267 1023 1124 1160 1817 
+saturn Apollo_12.txt 2 371 2121 
+procedures Apollo_12.txt 1 1674 
+steely-eyed Apollo_12.txt 1 569 
+target Apollo_12.txt 2 1051 1065 
+queried Apollo_12.txt 1 1309 
+harsh Apollo_12.txt 1 1468 
+links Apollo_12.txt 1 2302 
+covering Apollo_12.txt 1 1163 
+patch Apollo_12.txt 2 1891 1966 
+whether Apollo_12.txt 2 680 1310 
+miles Apollo_12.txt 1 1810 
+she Apollo_12.txt 1 1307 
+though Apollo_12.txt 2 983 1775 
+activity Apollo_12.txt 1 65 
+x Apollo_12.txt 1 885 
+obscure Apollo_12.txt 1 497 
+yeung Apollo_12.txt 1 837 
+automatic Apollo_12.txt 1 1016 
+lettering Apollo_12.txt 2 1636 1648 
+set Apollo_12.txt 3 1382 1499 1532 
+achieved Apollo_12.txt 1 104 
+national Apollo_12.txt 1 2294 
+humans Apollo_12.txt 1 1094 
+module Apollo_12.txt 18 49 68 315 333 516 631 658 712 858 1376 1701 1922 2046 2057 2076 2147 2170 2188 
+seat Apollo_12.txt 1 524 
+observed Apollo_12.txt 1 1218 
+see Apollo_12.txt 3 1409 1483 2277 
+decided Apollo_12.txt 1 689 
+cognitum Apollo_12.txt 2 943 969 
+are Apollo_12.txt 4 1946 1960 2200 2231 
+sea Apollo_12.txt 1 945 
+parking Apollo_12.txt 3 591 991 1118 
+procellarum Apollo_12.txt 1 916 
+vented Apollo_12.txt 1 735 
+feared Apollo_12.txt 1 621 
+pete Apollo_12.txt 2 45 510 
+said Apollo_12.txt 1 1327 
+onto Apollo_12.txt 3 1199 1259 1322 
+pattern Apollo_12.txt 1 442 
+wikipedia Apollo_12.txt 1 2 
+artificial Apollo_12.txt 1 852 
+3 Apollo_12.txt 9 117 865 929 1072 1140 1165 1177 1424 2195 
+unable Apollo_12.txt 1 390 
+correctly Apollo_12.txt 1 364 
+moons Apollo_12.txt 4 744 753 757 1507 
+orbiting Apollo_12.txt 1 2102 
+neither Apollo_12.txt 1 499 
+contaminated Apollo_12.txt 1 1456 
+approach Apollo_12.txt 1 1126 
+360 Apollo_12.txt 1 1136 
+wide Apollo_12.txt 1 1949 
+latin Apollo_12.txt 1 914 
+explosive Apollo_12.txt 1 641 
+unconscious Apollo_12.txt 1 1836 
+initially Apollo_12.txt 1 618 
+slingshot Apollo_12.txt 1 761 
+however Apollo_12.txt 3 358 767 1476 
+incident Apollo_12.txt 1 537 
+medallion Apollo_12.txt 1 1886 
+article Apollo_12.txt 1 2283 
+improve Apollo_12.txt 1 1337 
+eecom Apollo_12.txt 1 435 
+accident Apollo_12.txt 1 1569 
+missions Apollo_12.txt 2 925 1010 
+region Apollo_12.txt 1 941 
+boulders Apollo_12.txt 1 1056 
+april Apollo_12.txt 2 124 1081 
+s Apollo_12.txt 2 632 955 
+gerald Apollo_12.txt 2 502 505 
+long-term Apollo_12.txt 1 1541 
+passing Apollo_12.txt 1 806 
+might Apollo_12.txt 1 2097 
+southeastern Apollo_12.txt 1 87 
+trim Apollo_12.txt 1 1956 
+flies Apollo_12.txt 1 1930 
+3.94s Apollo_12.txt 2 1694 2163 
+cm Apollo_12.txt 1 633 
+supply Apollo_12.txt 3 411 450 492 
+color Apollo_12.txt 3 131 1240 1347 
+concussion Apollo_12.txt 1 1841 
+scolari Apollo_12.txt 1 2272 
+manned Apollo_12.txt 1 8 
+actually Apollo_12.txt 1 1108 
+along Apollo_12.txt 1 327 
+christened Apollo_12.txt 1 939 
+mare Apollo_12.txt 1 942 
+finally Apollo_12.txt 1 814 
+targeting Apollo_12.txt 1 1002 
+union Apollo_12.txt 1 936 
+recaptured Apollo_12.txt 1 823 
+three Apollo_12.txt 4 323 379 1898 1976 
+been Apollo_12.txt 7 546 558 919 1272 1481 2042 2265 
+extravehicular Apollo_12.txt 1 203 
+expected Apollo_12.txt 1 110 
+500 Apollo_12.txt 1 1808 
+board Apollo_12.txt 1 1584 
+engine Apollo_12.txt 1 1159 
+verica Apollo_12.txt 1 2258 
+flight Apollo_12.txt 5 9 141 194 500 1757 
+fire Apollo_12.txt 2 638 1928 
+designed Apollo_12.txt 1 1557 
+precision Apollo_12.txt 1 1001 
+dave Apollo_12.txt 1 2260 
+external Apollo_12.txt 1 2301 
+honolulu Apollo_12.txt 1 1873 
+propellants Apollo_12.txt 1 734 
+pilot Apollo_12.txt 4 50 69 517 2047 
+case Apollo_12.txt 1 686 
+east Apollo_12.txt 1 1813 
+landing Apollo_12.txt 15 78 97 107 855 871 888 951 961 981 996 1061 1161 2138 2183 2210 
+unlike Apollo_12.txt 4 94 1031 1354 1611 
+these Apollo_12.txt 2 409 1304 
+launches Apollo_12.txt 1 250 
+bill Apollo_12.txt 1 836 
+mccrane Apollo_12.txt 1 2256 
+air Apollo_12.txt 2 2065 2085 
+while Apollo_12.txt 3 66 1641 1653 
+error Apollo_12.txt 1 770 
+tafuna Apollo_12.txt 1 1860 
+pictures Apollo_12.txt 1 1342 
+reconnaissance Apollo_12.txt 2 893 2176 
+photographed Apollo_12.txt 3 890 1771 2179 
+taking Apollo_12.txt 1 1730 
+launched Apollo_12.txt 2 26 260 
+seven Apollo_12.txt 1 60 
+almost Apollo_12.txt 1 1407 
+inverters Apollo_12.txt 1 406 
+is Apollo_12.txt 5 882 1443 1607 2079 2247 
+thus Apollo_12.txt 1 1405 
+site Apollo_12.txt 10 79 113 872 889 952 962 982 2139 2184 2211 
+surface Apollo_12.txt 9 64 137 1227 1262 1546 1580 1596 1712 1736 
+commander Apollo_12.txt 2 43 509 
+itself Apollo_12.txt 1 295 
+in Apollo_12.txt 37 10 74 85 312 452 521 589 771 775 800 818 824 876 895 1000 1060 1080 1092 1466 1588 1609 1649 1681 1727 1748 1803 1830 1859 2016 2069 2089 2092 2172 2203 2222 2233 2273 
+claimed Apollo_12.txt 1 1444 
+affected Apollo_12.txt 1 369 
+astronaut Apollo_12.txt 2 1993 2198 
+if Apollo_12.txt 1 651 
+spacecraft Apollo_12.txt 6 470 527 599 749 2051 2196 
+descent Apollo_12.txt 5 1014 1030 1158 1603 2189 
+183 Apollo_12.txt 1 1173 
+plaques Apollo_12.txt 2 1614 1633 
+administration Apollo_12.txt 1 2298 
+same Apollo_12.txt 1 543 
+shorter Apollo_12.txt 1 1254 
+downrange Apollo_12.txt 1 1047 
+parts Apollo_12.txt 1 170 
+incumbent Apollo_12.txt 1 279 
+9 Apollo_12.txt 1 2037 
+stepped Apollo_12.txt 2 1258 1321 
+several Apollo_12.txt 2 923 1572 
+higher Apollo_12.txt 1 2218 
+fairly Apollo_12.txt 1 496 
+used Apollo_12.txt 2 875 1360 
+temporary Apollo_12.txt 1 842 
+inadvertently Apollo_12.txt 1 1385 
+3.01239 Apollo_12.txt 1 954 
+director Apollo_12.txt 1 501 
+intrepid Apollo_12.txt 6 1110 1606 1700 2148 2169 2186 
+spacecrafts Apollo_12.txt 1 1458 
+dust Apollo_12.txt 3 1152 1195 1246 
+21.20w Apollo_12.txt 2 1695 2164 
+lower Apollo_12.txt 1 2214 
+center Apollo_12.txt 6 35 254 266 874 2068 2088 
+relayed Apollo_12.txt 1 1516 
+1971 Apollo_12.txt 1 819 
+ocean Apollo_12.txt 4 91 666 911 1806 
+eighty-nine Apollo_12.txt 1 1752 
+directly Apollo_12.txt 1 1388 
+edge Apollo_12.txt 2 746 755 
+command Apollo_12.txt 6 67 630 657 1921 2056 2075 
+simulated Apollo_12.txt 1 547 
+the Apollo_12.txt 191 6 11 17 22 32 77 81 86 90 95 112 115 129 135 150 156 165 175 272 288 299 302 309 313 331 346 350 359 365 370 375 383 398 404 419 426 439 453 469 486 493 522 526 531 542 565 574 584 593 602 609 623 629 640 645 656 664 669 685 693 696 698 705 708 715 724 732 743 747 752 756 762 772 776 781 786 807 841 860 868 879 897 910 933 946 950 960 986 993 1013 1024 1040 1049 1070 1078 1085 1148 1167 1184 1191 1200 1203 1220 1226 1230 1237 1242 1260 1323 1334 1338 1344 1355 1368 1371 1374 1390 1393 1422 1432 1446 1457 1489 1506 1517 1521 1526 1537 1544 1547 1562 1578 1585 1595 1597 1602 1612 1623 1631 1642 1647 1654 1685 1703 1705 1710 1714 1721 1755 1764 1780 1783 1804 1831 1887 1893 1901 1904 1917 1920 1925 1931 1934 1937 1943 1965 1975 1980 2006 2028 2035 2063 2072 2083 2113 2118 2135 2141 2145 2150 2174 2180 2185 2205 2209 2227 2234 2237 2240 2274 2293 
+800 Apollo_12.txt 1 1811 
+plaque Apollo_12.txt 2 1599 1645 
+left Apollo_12.txt 2 1571 1708 
+unfortunately Apollo_12.txt 1 1364 
+sec Apollo_12.txt 1 1397 
+thirty-six-and-a-half Apollo_12.txt 1 284 
+they Apollo_12.txt 6 127 163 652 1851 2096 2105 
+just Apollo_12.txt 1 55 
+being Apollo_12.txt 2 1153 1865 
+telemetry Apollo_12.txt 4 351 440 474 582 
+docking Apollo_12.txt 1 201 
+assigned Apollo_12.txt 1 2043 
+nicknamed Apollo_12.txt 1 985 
+batteries Apollo_12.txt 1 387 
+world Apollo_12.txt 1 1106 
+paul Apollo_12.txt 1 2255 
+cargo Apollo_12.txt 1 1870 
+portrayed Apollo_12.txt 2 2253 2266 
+taken Apollo_12.txt 1 1436 
+clipper Apollo_12.txt 6 1587 1788 1913 1924 2059 2078 
+saturns Apollo_12.txt 2 303 777 
+bibliography Apollo_12.txt 1 2299 
+equipment Apollo_12.txt 1 1501 
+thinking Apollo_12.txt 1 550 
+had Apollo_12.txt 14 121 367 545 612 918 1037 1075 1292 1308 1312 1634 1646 1707 2264 
+recognizing Apollo_12.txt 1 937 
+killed Apollo_12.txt 2 668 1996 
+signals Apollo_12.txt 1 462 
+instrument Apollo_12.txt 2 373 471 
+other Apollo_12.txt 2 1613 1632 
+location Apollo_12.txt 2 111 2052 
+5 Apollo_12.txt 2 927 1999 
+extensive Apollo_12.txt 1 1555 
+has Apollo_12.txt 2 1479 1967 
+remaining Apollo_12.txt 1 733 
+gave Apollo_12.txt 2 839 1212 
+lift-off Apollo_12.txt 1 287 
+showing Apollo_12.txt 1 2131 
+virginia Apollo_12.txt 4 2064 2071 2084 2091 
+background Apollo_12.txt 2 1655 1896 
+immediately Apollo_12.txt 2 512 1408 
+unique Apollo_12.txt 1 1608 
+loss Apollo_12.txt 1 376 
+dislodged Apollo_12.txt 1 1824 
+lost Apollo_12.txt 1 145 
+kennedy Apollo_12.txt 3 33 252 264 
+signal Apollo_12.txt 1 455 
+commanders Apollo_12.txt 1 1909 
+manual Apollo_12.txt 2 1018 1041 
+lightning Apollo_12.txt 3 292 610 624 
+controllers Apollo_12.txt 1 688 
+collect Apollo_12.txt 1 1333 
+pago Apollo_12.txt 2 1855 1856 
+conrad Apollo_12.txt 16 46 101 511 973 984 1022 1107 1250 1291 1325 1426 1492 1676 2022 2248 2263 
+trans-lunar Apollo_12.txt 1 607 
+right Apollo_12.txt 1 523 
+23.42157 Apollo_12.txt 1 957 
+exposed Apollo_12.txt 2 1228 1575 
+successfully Apollo_12.txt 2 587 1416 
+some Apollo_12.txt 1 169 
+back Apollo_12.txt 3 577 1235 1437 
+pacific Apollo_12.txt 2 665 1805 
+astronomer Apollo_12.txt 1 835 
+escape Apollo_12.txt 1 796 
+images Apollo_12.txt 1 2130 
+small Apollo_12.txt 3 769 1274 1954 
+petes Apollo_12.txt 2 990 1117 
+52 Apollo_12.txt 1 340 
+ascent Apollo_12.txt 1 1668 
+28-volt Apollo_12.txt 1 399 
+delivered Apollo_12.txt 1 1198 
+orbiter Apollo_12.txt 3 864 894 2177 
+est Apollo_12.txt 2 1800 2160 
+for Apollo_12.txt 16 80 171 468 606 1007 1276 1283 1440 1470 1716 1732 1861 1974 1984 2031 2048 
+flux Apollo_12.txt 1 1511 
+5:17 Apollo_12.txt 1 2158 
+tube Apollo_12.txt 1 1398 
+normal Apollo_12.txt 2 393 1673 
+per Apollo_12.txt 1 1672 
+moon Apollo_12.txt 15 23 787 808 854 861 1079 1324 1345 1490 1538 1686 1918 2101 2151 2241 
+mementos Apollo_12.txt 1 1876 
+lunar Apollo_12.txt 29 48 63 75 136 515 711 857 863 892 947 971 995 1151 1245 1261 1375 1545 1579 1589 1598 1711 1728 1735 1749 1762 2045 2146 2175 2187 
+forehead Apollo_12.txt 1 1832 
+2112w Apollo_12.txt 2 1693 2162 
+foley Apollo_12.txt 1 2261 
+be Apollo_12.txt 7 850 965 1005 1381 1435 2034 2112 
+object Apollo_12.txt 1 853 
+power Apollo_12.txt 3 410 449 491 
+schedule Apollo_12.txt 1 262 
+remembered Apollo_12.txt 2 438 530 
+sixth Apollo_12.txt 1 7 
+semi-stable Apollo_12.txt 1 802 
+although Apollo_12.txt 1 1567 
+07:44:00 Apollo_12.txt 1 238 
+t-38 Apollo_12.txt 1 2010 
+by Apollo_12.txt 15 152 277 833 891 922 1021 1156 1207 1219 1534 1568 1664 1848 2254 2267 
+after Apollo_12.txt 11 39 146 286 342 710 805 1306 1675 1760 1846 2001 
+panel Apollo_12.txt 1 421 
+dormant Apollo_12.txt 1 1465 
+on Apollo_12.txt 37 21 27 98 123 138 158 178 261 308 386 397 418 578 809 902 906 970 1077 1104 1351 1361 1488 1536 1549 1577 1583 1637 1687 1709 1754 1792 1867 1947 1970 1997 2060 2080 
+about Apollo_12.txt 1 695 
+actual Apollo_12.txt 1 1168 
+carried Apollo_12.txt 3 128 1350 1367 
+package Apollo_12.txt 1 2192 
+of Apollo_12.txt 48 62 89 92 114 160 330 377 403 425 567 707 867 909 912 949 1012 1029 1048 1069 1116 1150 1183 1225 1244 1340 1401 1421 1431 1485 1505 1525 1574 1594 1605 1622 1738 1751 1766 1779 1814 1903 1933 2008 2027 2117 2127 2226 2292 
+months Apollo_12.txt 1 38 
+recognized Apollo_12.txt 1 513 
+fallaci Apollo_12.txt 1 1300 
+beans Apollo_12.txt 1 552 
+backup Apollo_12.txt 3 188 490 2029 
+or Apollo_12.txt 3 681 1556 2290 
+nixon Apollo_12.txt 1 283 
+polished Apollo_12.txt 2 1638 1650 
+overloads Apollo_12.txt 1 319 
+instruments Apollo_12.txt 2 1522 1548 
+into Apollo_12.txt 4 663 721 764 1389 
+within Apollo_12.txt 2 1066 1418 
+clifton Apollo_12.txt 1 1985 
+domain Apollo_12.txt 1 2286 
+down Apollo_12.txt 2 297 739 
+rendering Apollo_12.txt 1 1833 
+luna Apollo_12.txt 1 926 
+because Apollo_12.txt 2 1120 1202 
+references Apollo_12.txt 1 2280 
+rolls Apollo_12.txt 1 1573 
+yankee Apollo_12.txt 5 1586 1787 1923 2058 2077 
+terminated Apollo_12.txt 1 1406 
+uncontrollably Apollo_12.txt 1 662 
+area Apollo_12.txt 3 880 908 989 
+transfer Apollo_12.txt 1 246 
+support Apollo_12.txt 1 191 
+flying Apollo_12.txt 1 520 
+long Apollo_12.txt 2 1281 1560 
+start Apollo_12.txt 2 209 226 
+much Apollo_12.txt 2 329 424 
+way Apollo_12.txt 1 676 
+crews Apollo_12.txt 1 1894 
+uss Apollo_12.txt 2 1665 1849 
+was Apollo_12.txt 37 5 25 83 144 271 356 495 620 674 684 717 729 821 831 847 997 1015 1053 1084 1130 1144 1187 1205 1233 1252 1286 1329 1349 1359 1379 1404 1451 1628 1656 1670 1778 1995 
+amateur Apollo_12.txt 1 834 
+complete Apollo_12.txt 1 1528 
+triggered Apollo_12.txt 1 290 
+11:32:35 Apollo_12.txt 1 213 
+bus Apollo_12.txt 1 401 
+registered Apollo_12.txt 1 1713 
+memory Apollo_12.txt 1 553 
+but Apollo_12.txt 4 142 820 1166 1278 
+mitis Apollo_12.txt 2 1450 1487 
+failure Apollo_12.txt 3 441 544 2004 
+solar Apollo_12.txt 4 722 765 1509 1773 
+injection Apollo_12.txt 1 608 
+removed Apollo_12.txt 3 168 1193 1429 
+with Apollo_12.txt 9 181 328 581 1017 1055 1297 1952 2021 2140 
+deployed Apollo_12.txt 1 700 
+he Apollo_12.txt 6 1301 1320 1328 1384 1837 2019 
+utc Apollo_12.txt 5 214 222 231 239 1798 
+made Apollo_12.txt 2 477 1293 
+portions Apollo_12.txt 1 2225 
+circuits Apollo_12.txt 1 307 
+ut Apollo_12.txt 1 2157 
+cells Apollo_12.txt 4 311 325 381 576 
+attached Apollo_12.txt 1 1600 
+up Apollo_12.txt 5 1097 1155 1383 1500 1533 
+us Apollo_12.txt 1 280 
+different Apollo_12.txt 1 2269 
+converted Apollo_12.txt 1 460 
+prematurely Apollo_12.txt 1 637 
+pm Apollo_12.txt 1 2159 
+display Apollo_12.txt 2 2061 2081 
+hornet Apollo_12.txt 2 1666 1850 
+insignia Apollo_12.txt 1 1879 
+ac Apollo_12.txt 1 405 
+600 Apollo_12.txt 1 1171 
+armstrong Apollo_12.txt 3 1036 1257 1315 
+compartment Apollo_12.txt 1 647 
+an Apollo_12.txt 11 139 278 444 559 791 851 907 998 1288 1719 1724 
+navy Apollo_12.txt 3 1895 1908 1963 
+as Apollo_12.txt 7 525 967 1217 1319 1554 2025 2044 
+warning Apollo_12.txt 1 416 
+at Apollo_12.txt 17 108 155 339 353 704 788 873 1062 1691 1796 1900 1916 2062 2082 2134 2155 2212 
+nautical Apollo_12.txt 1 1809 
+lander Apollo_12.txt 1 1046 
+ship Apollo_12.txt 2 1914 1926 
+trailing Apollo_12.txt 1 745 
+film Apollo_12.txt 2 1576 1822 
+traditional Apollo_12.txt 1 1961 
+encoders Apollo_12.txt 1 475 
+no Apollo_12.txt 2 614 675 
+when Apollo_12.txt 4 447 541 1249 1365 
+portion Apollo_12.txt 2 88 1224 
+actor Apollo_12.txt 1 2270 
+field Apollo_12.txt 1 1514 
+falsely Apollo_12.txt 1 317 
+electrical Apollo_12.txt 1 430 
+test Apollo_12.txt 1 446 
+intrepids Apollo_12.txt 2 1157 1667 
+briefly Apollo_12.txt 2 822 1835 
+evas Apollo_12.txt 2 205 1247 
+mechanical Apollo_12.txt 1 2003 
+problems Apollo_12.txt 1 412 
+stay Apollo_12.txt 1 1737 
+15:28:38 Apollo_12.txt 1 221 
+coverage Apollo_12.txt 1 1400 
+occasion Apollo_12.txt 1 1091 
+discharge Apollo_12.txt 1 293 
+missile Apollo_12.txt 1 570 
+nasa Apollo_12.txt 2 1311 2304 
+land Apollo_12.txt 2 20 1103 
+auxiliary Apollo_12.txt 1 726 
+orbit Apollo_12.txt 12 76 592 723 766 804 817 826 1590 1682 1729 1750 1763 
+websites Apollo_12.txt 1 2289 
+2002 Apollo_12.txt 1 2093 
+directors Apollo_12.txt 1 195 
+pointapproximately Apollo_12.txt 1 1170 
+reception Apollo_12.txt 1 1863 
+time Apollo_12.txt 2 1747 1902 
+serious Apollo_12.txt 1 615 
+eclipsing Apollo_12.txt 1 1782 
+resolution Apollo_12.txt 1 2219 
+original Apollo_12.txt 1 1238 
+restored Apollo_12.txt 1 583 
+once Apollo_12.txt 1 588 

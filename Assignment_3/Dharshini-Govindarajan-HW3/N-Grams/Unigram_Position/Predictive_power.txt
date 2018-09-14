@@ -1,0 +1,234 @@
+precise Predictive_power.txt 1 304 
+bending Predictive_power.txt 1 338 
+concept Predictive_power.txt 1 26 
+just Predictive_power.txt 1 202 
+accurate Predictive_power.txt 1 301 
+charles Predictive_power.txt 1 141 
+years Predictive_power.txt 1 187 
+satellites Predictive_power.txt 1 354 
+mathematicians Predictive_power.txt 1 86 
+selection Predictive_power.txt 1 152 
+radio Predictive_power.txt 1 308 
+atomic Predictive_power.txt 1 134 
+predicts Predictive_power.txt 2 336 343 
+during Predictive_power.txt 1 255 
+differs Predictive_power.txt 1 30 
+its Predictive_power.txt 1 167 
+seemed Predictive_power.txt 1 271 
+le Predictive_power.txt 1 92 
+based Predictive_power.txt 1 94 
+knowledge Predictive_power.txt 1 147 
+field Predictive_power.txt 1 233 
+masses Predictive_power.txt 1 135 
+relativity Predictive_power.txt 2 218 333 
+explanatory Predictive_power.txt 1 32 
+29 Predictive_power.txt 1 261 
+examples Predictive_power.txt 2 62 101 
+to Predictive_power.txt 9 118 153 180 241 251 272 313 330 366 
+must Predictive_power.txt 1 177 
+hidden Predictive_power.txt 1 390 
+include Predictive_power.txt 1 109 
+his Predictive_power.txt 3 115 146 189 
+descriptive Predictive_power.txt 1 34 
+successfully-measured Predictive_power.txt 1 358 
+criticized Predictive_power.txt 1 281 
+cannot Predictive_power.txt 1 379 
+closely Predictive_power.txt 1 328 
+not Predictive_power.txt 1 334 
+experimentally Predictive_power.txt 1 236 
+now Predictive_power.txt 1 360 
+spur Predictive_power.txt 1 165 
+categories Predictive_power.txt 2 389 391 
+pollinate Predictive_power.txt 1 184 
+evolution Predictive_power.txt 1 149 
+adams Predictive_power.txt 1 89 
+called Predictive_power.txt 1 20 
+edit Predictive_power.txt 4 63 320 386 388 
+positions Predictive_power.txt 2 254 368 
+urbain Predictive_power.txt 1 91 
+via Predictive_power.txt 1 369 
+method Predictive_power.txt 1 364 
+did Predictive_power.txt 1 201 
+arthur Predictive_power.txt 1 269 
+found Predictive_power.txt 1 199 
+path Predictive_power.txt 1 221 
+gps Predictive_power.txt 1 370 
+where Predictive_power.txt 1 36 
+predictive Predictive_power.txt 7 0 28 69 103 207 322 376 
+because Predictive_power.txt 1 156 
+verrier Predictive_power.txt 1 93 
+morganii Predictive_power.txt 1 192 
+phenomena Predictive_power.txt 2 37 346 
+prediction Predictive_power.txt 3 15 211 359 
+related Predictive_power.txt 1 329 
+relative Predictive_power.txt 1 133 
+darwin Predictive_power.txt 1 142 
+see Predictive_power.txt 1 384 
+used Predictive_power.txt 2 365 381 
+expedition Predictive_power.txt 1 240 
+are Predictive_power.txt 2 39 42 
+measure Predictive_power.txt 1 252 
+proper Predictive_power.txt 1 351 
+brazil Predictive_power.txt 1 244 
+moth Predictive_power.txt 1 197 
+gravitation Predictive_power.txt 1 17 
+degree Predictive_power.txt 1 316 
+for Predictive_power.txt 1 382 
+space Predictive_power.txt 1 19 
+measurements Predictive_power.txt 2 278 305 
+wikipedia Predictive_power.txt 1 2 
+angraecum Predictive_power.txt 1 161 
+may Predictive_power.txt 1 260 
+new Predictive_power.txt 1 4 
+eddingtons Predictive_power.txt 1 295 
+correct Predictive_power.txt 1 129 
+discovery Predictive_power.txt 1 76 
+be Predictive_power.txt 1 380 
+misjudged Predictive_power.txt 1 131 
+recently Predictive_power.txt 1 347 
+theory Predictive_power.txt 6 50 73 97 216 326 373 
+power Predictive_power.txt 8 1 29 35 70 104 208 323 377 
+complementary Predictive_power.txt 1 170 
+given Predictive_power.txt 1 49 
+prncipe Predictive_power.txt 1 250 
+understanding Predictive_power.txt 1 60 
+reported Predictive_power.txt 1 11 
+applications Predictive_power.txt 3 319 331 383 
+death Predictive_power.txt 1 190 
+york Predictive_power.txt 1 5 
+although Predictive_power.txt 1 276 
+mendeleev Predictive_power.txt 1 111 
+described Predictive_power.txt 1 46 
+november Predictive_power.txt 1 8 
+strong Predictive_power.txt 1 231 
+by Predictive_power.txt 7 47 85 150 238 266 282 307 
+calculate Predictive_power.txt 1 367 
+on Predictive_power.txt 4 12 18 95 182 
+astrophysicist Predictive_power.txt 1 268 
+xanthopan Predictive_power.txt 1 191 
+of Predictive_power.txt 30 7 16 27 58 67 71 77 82 98 102 105 114 136 145 148 195 206 212 217 222 229 249 259 290 297 317 324 339 350 353 
+30 Predictive_power.txt 1 174 
+allows Predictive_power.txt 1 54 
+times Predictive_power.txt 1 6 
+suggests Predictive_power.txt 1 293 
+s Predictive_power.txt 3 112 143 214 
+periodic Predictive_power.txt 1 116 
+incorporated Predictive_power.txt 1 361 
+or Predictive_power.txt 2 45 107 
+feed Predictive_power.txt 1 181 
+prospective Predictive_power.txt 1 56 
+already Predictive_power.txt 1 40 
+cm Predictive_power.txt 1 175 
+presence Predictive_power.txt 1 228 
+previously Predictive_power.txt 1 120 
+into Predictive_power.txt 1 362 
+explained Predictive_power.txt 1 44 
+newtons Predictive_power.txt 1 96 
+references Predictive_power.txt 1 387 
+been Predictive_power.txt 2 280 356 
+another Predictive_power.txt 1 204 
+einstein Predictive_power.txt 1 213 
+table Predictive_power.txt 1 117 
+eddington Predictive_power.txt 1 270 
+existed Predictive_power.txt 1 158 
+use Predictive_power.txt 2 113 144 
+reanalysis Predictive_power.txt 1 289 
+from Predictive_power.txt 1 31 
+would Predictive_power.txt 1 224 
+undiscovered Predictive_power.txt 1 121 
+twenty Predictive_power.txt 1 186 
+there Predictive_power.txt 1 157 
+predictions Predictive_power.txt 3 83 275 312 
+long Predictive_power.txt 1 164 
+properties Predictive_power.txt 1 126 
+their Predictive_power.txt 1 125 
+flawed Predictive_power.txt 1 286 
+observations Predictive_power.txt 1 264 
+which Predictive_power.txt 1 200 
+taken Predictive_power.txt 1 306 
+utilizing Predictive_power.txt 1 285 
+john Predictive_power.txt 1 87 
+was Predictive_power.txt 3 198 235 300 
+theoretical Predictive_power.txt 1 59 
+more Predictive_power.txt 1 303 
+only Predictive_power.txt 1 335 
+an Predictive_power.txt 1 239 
+form Predictive_power.txt 1 194 
+that Predictive_power.txt 6 38 52 155 203 219 294 
+some Predictive_power.txt 1 283 
+has Predictive_power.txt 2 355 374 
+but Predictive_power.txt 1 341 
+1919 Predictive_power.txt 2 10 262 
+atlantic Predictive_power.txt 1 247 
+solar Predictive_power.txt 1 257 
+known Predictive_power.txt 1 41 
+flowers Predictive_power.txt 1 168 
+with Predictive_power.txt 2 162 172 
+he Predictive_power.txt 1 130 
+10 Predictive_power.txt 1 9 
+made Predictive_power.txt 2 84 265 
+einsteins Predictive_power.txt 2 13 274 
+this Predictive_power.txt 1 234 
+gravitational Predictive_power.txt 2 22 232 
+dmitri Predictive_power.txt 1 110 
+eclipse Predictive_power.txt 1 258 
+theories Predictive_power.txt 1 106 
+island Predictive_power.txt 1 248 
+interferometry Predictive_power.txt 1 309 
+example Predictive_power.txt 2 66 205 
+result Predictive_power.txt 1 81 
+and Predictive_power.txt 7 33 90 124 138 140 183 245 
+later Predictive_power.txt 1 302 
+iodine Predictive_power.txt 1 139 
+classic Predictive_power.txt 1 65 
+predict Predictive_power.txt 2 119 154 
+calculation Predictive_power.txt 1 349 
+is Predictive_power.txt 3 74 209 327 
+modern Predictive_power.txt 1 288 
+it Predictive_power.txt 3 53 185 378 
+general Predictive_power.txt 2 215 332 
+high Predictive_power.txt 1 315 
+as Predictive_power.txt 2 79 284 
+exist Predictive_power.txt 1 179 
+bend Predictive_power.txt 1 225 
+have Predictive_power.txt 1 279 
+in Predictive_power.txt 4 51 166 226 243 
+contents Predictive_power.txt 1 61 
+if Predictive_power.txt 1 371 
+confirmed Predictive_power.txt 2 14 310 
+verified Predictive_power.txt 1 237 
+no Predictive_power.txt 1 375 
+when Predictive_power.txt 1 263 
+gravity Predictive_power.txt 1 99 
+couch Predictive_power.txt 1 88 
+chemical Predictive_power.txt 1 122 
+also Predictive_power.txt 3 178 342 385 
+methodology Predictive_power.txt 1 287 
+other Predictive_power.txt 2 100 345 
+sobral Predictive_power.txt 1 242 
+animal Predictive_power.txt 1 171 
+test Predictive_power.txt 1 57 
+several Predictive_power.txt 1 344 
+accuracy Predictive_power.txt 1 318 
+plant Predictive_power.txt 1 160 
+elements Predictive_power.txt 1 123 
+star Predictive_power.txt 1 253 
+though Predictive_power.txt 1 127 
+models Predictive_power.txt 1 108 
+after Predictive_power.txt 1 188 
+effect Predictive_power.txt 1 24 
+lens Predictive_power.txt 1 23 
+retrospectively Predictive_power.txt 1 43 
+hawk Predictive_power.txt 1 196 
+data Predictive_power.txt 2 292 299 
+a Predictive_power.txt 15 48 55 64 72 80 159 163 169 173 193 230 314 325 357 372 
+proboscis Predictive_power.txt 1 176 
+natural Predictive_power.txt 1 151 
+largely Predictive_power.txt 1 128 
+light Predictive_power.txt 2 223 340 
+confirm Predictive_power.txt 1 273 
+neptune Predictive_power.txt 1 78 
+analysis Predictive_power.txt 1 296 
+tellurium Predictive_power.txt 1 137 
+time Predictive_power.txt 1 352 
+the Predictive_power.txt 20 3 21 25 68 75 132 210 220 227 246 256 267 277 291 298 311 321 337 348 363 

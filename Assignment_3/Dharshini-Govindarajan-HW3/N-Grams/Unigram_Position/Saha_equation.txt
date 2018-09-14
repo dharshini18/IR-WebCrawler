@@ -1,0 +1,361 @@
+magnetic Saha_equation.txt 1 165 
+ionize Saha_equation.txt 2 99 382 
+to Saha_equation.txt 20 32 54 119 277 305 381 457 477 495 510 562 631 634 686 712 743 759 779 831 850 
+must Saha_equation.txt 1 881 
+edward Saha_equation.txt 1 532 
+determinations Saha_equation.txt 1 816 
+include Saha_equation.txt 1 511 
+belonging Saha_equation.txt 1 561 
+very Saha_equation.txt 2 435 812 
+electron Saha_equation.txt 4 134 280 391 692 
+condition Saha_equation.txt 1 362 
+level Saha_equation.txt 1 287 
+did Saha_equation.txt 1 766 
+large Saha_equation.txt 1 217 
+round Saha_equation.txt 1 701 
+surrounding Saha_equation.txt 1 140 
+rigorous Saha_equation.txt 1 460 
+further Saha_equation.txt 2 522 678 
+langmuir Saha_equation.txt 1 78 
+spectral Saha_equation.txt 1 57 
+meghnad Saha_equation.txt 1 69 
+giving Saha_equation.txt 1 574 
+sahalangmuir Saha_equation.txt 1 16 
+indian Saha_equation.txt 1 67 
+net Saha_equation.txt 1 411 
+increasing Saha_equation.txt 1 673 
+method Saha_equation.txt 1 437 
+can Saha_equation.txt 1 353 
+degree Saha_equation.txt 1 180 
+here Saha_equation.txt 1 876 
+atoms Saha_equation.txt 8 97 103 147 201 480 519 742 757 
+ionization Saha_equation.txt 16 1 10 24 182 197 243 289 311 330 378 396 414 464 478 674 879 
+astrophysicist Saha_equation.txt 1 68 
+consideration Saha_equation.txt 1 731 
+change Saha_equation.txt 1 412 
+obtained Saha_equation.txt 1 472 
+k Saha_equation.txt 1 786 
+composed Saha_equation.txt 1 259 
+useful Saha_equation.txt 2 319 334 
+classification Saha_equation.txt 1 58 
+suddenly Saha_equation.txt 1 710 
+marginal Saha_equation.txt 2 592 645 
+explained Saha_equation.txt 1 728 
+marked Saha_equation.txt 1 524 
+total Saha_equation.txt 1 297 
+cloud Saha_equation.txt 1 136 
+readily Saha_equation.txt 1 727 
+disappearances Saha_equation.txt 1 648 
+from Saha_equation.txt 3 5 636 822 
+working Saha_equation.txt 1 446 
+two Saha_equation.txt 1 328 
+properties Saha_equation.txt 1 451 
+few Saha_equation.txt 2 740 755 
+therefore Saha_equation.txt 2 253 403 
+type Saha_equation.txt 1 791 
+more Saha_equation.txt 3 111 571 842 
+lowering Saha_equation.txt 1 240 
+occurred Saha_equation.txt 1 711 
+known Saha_equation.txt 2 13 488 
+saha Saha_equation.txt 17 0 6 9 70 176 203 266 302 316 338 351 470 504 587 614 640 856 
+me Saha_equation.txt 1 713 
+high Saha_equation.txt 1 87 
+this Saha_equation.txt 8 150 218 341 367 456 708 810 852 
+equation Saha_equation.txt 14 2 7 11 17 38 177 204 267 303 317 339 352 368 505 
+temperatures Saha_equation.txt 2 736 751 
+determining Saha_equation.txt 1 321 
+following Saha_equation.txt 1 615 
+making Saha_equation.txt 2 104 162 
+my Saha_equation.txt 1 702 
+example Saha_equation.txt 2 676 725 
+ions Saha_equation.txt 4 144 228 233 521 
+links Saha_equation.txt 1 899 
+give Saha_equation.txt 2 744 760 
+0.1 Saha_equation.txt 1 632 
+states Saha_equation.txt 3 370 517 880 
+collision Saha_equation.txt 1 889 
+disbelieve Saha_equation.txt 1 851 
+hydrogen Saha_equation.txt 1 723 
+species Saha_equation.txt 1 264 
+creates Saha_equation.txt 1 168 
+provide Saha_equation.txt 1 458 
+holds Saha_equation.txt 1 206 
+occur Saha_equation.txt 1 416 
+1 Saha_equation.txt 1 630 
+criterion Saha_equation.txt 3 553 584 601 
+justifiably Saha_equation.txt 1 476 
+information Saha_equation.txt 1 575 
+thermodynamic Saha_equation.txt 1 865 
+earlier Saha_equation.txt 1 469 
+orbits Saha_equation.txt 1 123 
+a Saha_equation.txt 22 27 40 83 86 163 190 257 261 357 434 442 459 499 539 566 624 638 665 767 782 800 833 
+hasty Saha_equation.txt 1 768 
+recombination Saha_equation.txt 1 891 
+lines Saha_equation.txt 5 560 598 651 721 796 
+corona Saha_equation.txt 1 875 
+discussing Saha_equation.txt 1 707 
+negligible Saha_equation.txt 2 237 255 
+order Saha_equation.txt 5 628 658 769 804 837 
+galton Saha_equation.txt 1 431 
+developed Saha_equation.txt 2 64 433 
+astronomical Saha_equation.txt 1 548 
+whilst Saha_equation.txt 1 747 
+thermal Saha_equation.txt 3 30 93 187 
+paper Saha_equation.txt 1 540 
+statistical Saha_equation.txt 3 49 439 886 
+its Saha_equation.txt 1 493 
+chemical Saha_equation.txt 1 365 
+energies Saha_equation.txt 1 198 
+fruitful Saha_equation.txt 1 572 
+categories Saha_equation.txt 1 901 
+defining Saha_equation.txt 1 295 
+evening Saha_equation.txt 1 764 
+they Saha_equation.txt 1 130 
+not Saha_equation.txt 1 869 
+day Saha_equation.txt 1 699 
+edit Saha_equation.txt 7 81 314 419 855 895 897 900 
+magnitude Saha_equation.txt 2 660 771 
+found Saha_equation.txt 1 777 
+series Saha_equation.txt 2 564 691 
+energy Saha_equation.txt 2 275 309 
+society Saha_equation.txt 1 549 
+owing Saha_equation.txt 1 685 
+begun Saha_equation.txt 1 846 
+combining Saha_equation.txt 1 43 
+quantum Saha_equation.txt 1 46 
+relates Saha_equation.txt 1 22 
+out Saha_equation.txt 1 447 
+denotes Saha_equation.txt 1 346 
+collisions Saha_equation.txt 1 94 
+formula Saha_equation.txt 1 465 
+stamping Saha_equation.txt 1 700 
+written Saha_equation.txt 1 269 
+standard Saha_equation.txt 1 815 
+optically-thin Saha_equation.txt 1 874 
+interaction Saha_equation.txt 1 226 
+derivation Saha_equation.txt 2 80 461 
+widths Saha_equation.txt 1 827 
+motion Saha_equation.txt 1 157 
+turn Saha_equation.txt 1 149 
+length Saha_equation.txt 1 215 
+purpose Saha_equation.txt 1 342 
+simplifies Saha_equation.txt 1 304 
+powerful Saha_equation.txt 1 436 
+one Saha_equation.txt 3 286 698 839 
+temperature Saha_equation.txt 5 34 89 194 671 783 
+their Saha_equation.txt 1 798 
+system Saha_equation.txt 1 405 
+indicate Saha_equation.txt 1 832 
+twenties Saha_equation.txt 1 423 
+rates Saha_equation.txt 1 892 
+too Saha_equation.txt 2 739 754 
+molecular Saha_equation.txt 1 496 
+that Saha_equation.txt 9 21 115 220 371 551 714 732 763 778 
+notices Saha_equation.txt 1 544 
+than Saha_equation.txt 1 582 
+10 Saha_equation.txt 1 806 
+showed Saha_equation.txt 1 550 
+see Saha_equation.txt 1 893 
+matter Saha_equation.txt 2 172 453 
+supposed Saha_equation.txt 1 830 
+were Saha_equation.txt 2 697 738 
+result Saha_equation.txt 1 41 
+and Saha_equation.txt 26 35 48 51 73 145 167 196 229 234 245 294 392 409 445 475 520 535 613 647 668 695 706 776 825 843 890 
+have Saha_equation.txt 2 293 797 
+subordinate Saha_equation.txt 1 563 
+seen Saha_equation.txt 1 355 
+any Saha_equation.txt 2 184 761 
+contents Saha_equation.txt 1 79 
+estimated Saha_equation.txt 1 883 
+latter Saha_equation.txt 1 600 
+ideas Saha_equation.txt 1 44 
+also Saha_equation.txt 4 12 254 498 894 
+potential Saha_equation.txt 2 373 388 
+which Saha_equation.txt 4 212 466 588 867 
+electric Saha_equation.txt 1 153 
+quote Saha_equation.txt 1 635 
+collaboration Saha_equation.txt 1 428 
+hoff Saha_equation.txt 1 486 
+extending Saha_equation.txt 1 474 
+significant Saha_equation.txt 1 500 
+prevails Saha_equation.txt 1 858 
+partition Saha_equation.txt 2 250 348 
+electrons Saha_equation.txt 3 114 230 235 
+fowler Saha_equation.txt 4 426 508 537 694 
+redirected Saha_equation.txt 1 4 
+consisted Saha_equation.txt 1 589 
+normally Saha_equation.txt 1 117 
+atmosphere Saha_equation.txt 4 633 667 807 840 
+ralph Saha_equation.txt 1 424 
+charles Saha_equation.txt 1 430 
+ratio Saha_equation.txt 1 323 
+knowledge Saha_equation.txt 1 604 
+parameters Saha_equation.txt 1 578 
+explain Saha_equation.txt 1 55 
+state Saha_equation.txt 4 25 170 379 397 
+only Saha_equation.txt 2 205 285 
+screening Saha_equation.txt 1 222 
+employed Saha_equation.txt 1 585 
+darwin Saha_equation.txt 1 432 
+local Saha_equation.txt 1 864 
+equilibrium Saha_equation.txt 8 31 188 361 408 450 857 866 878 
+means Saha_equation.txt 1 219 
+ionized Saha_equation.txt 2 106 209 
+densities Saha_equation.txt 2 313 326 
+h Saha_equation.txt 1 425 
+remove Saha_equation.txt 1 278 
+where Saha_equation.txt 7 155 270 284 306 344 672 793 
+view Saha_equation.txt 1 619 
+1920 Saha_equation.txt 1 72 
+intensity Saha_equation.txt 2 557 717 
+1923 Saha_equation.txt 2 75 531 
+are Saha_equation.txt 4 116 128 401 753 
+subsequent Saha_equation.txt 1 239 
+wikipedia Saha_equation.txt 1 3 
+pressures Saha_equation.txt 2 608 818 
+enough Saha_equation.txt 1 88 
+we Saha_equation.txt 1 292 
+concentrated Saha_equation.txt 1 642 
+equal Saha_equation.txt 1 402 
+called Saha_equation.txt 1 173 
+expression Saha_equation.txt 3 20 62 272 
+grounds Saha_equation.txt 1 849 
+detailed Saha_equation.txt 1 885 
+relevant Saha_equation.txt 1 607 
+royal Saha_equation.txt 1 547 
+simply Saha_equation.txt 1 369 
+described Saha_equation.txt 1 468 
+monthly Saha_equation.txt 1 543 
+been Saha_equation.txt 1 829 
+describes Saha_equation.txt 1 178 
+trinity Saha_equation.txt 1 705 
+field Saha_equation.txt 2 154 166 
+i+1 Saha_equation.txt 1 398 
+gas Saha_equation.txt 7 28 84 107 135 141 185 258 
+irving Saha_equation.txt 1 77 
+external Saha_equation.txt 1 898 
+systematic Saha_equation.txt 1 443 
+plasmas Saha_equation.txt 1 210 
+case Saha_equation.txt 2 283 871 
+appearance Saha_equation.txt 1 593 
+as Saha_equation.txt 7 14 189 300 356 386 467 693 
+value Saha_equation.txt 1 625 
+n Saha_equation.txt 1 299 
+will Saha_equation.txt 2 98 415 
+10000 Saha_equation.txt 1 785 
+is Saha_equation.txt 16 18 39 52 216 236 252 268 273 290 307 318 343 383 406 862 868 
+it Saha_equation.txt 2 523 709 
+in Saha_equation.txt 25 29 71 122 148 186 281 407 420 427 438 489 502 530 538 541 573 590 609 652 664 683 704 819 863 872 
+currents Saha_equation.txt 1 161 
+different Saha_equation.txt 1 329 
+same Saha_equation.txt 1 385 
+shifts Saha_equation.txt 1 824 
+several Saha_equation.txt 1 109 
+higher Saha_equation.txt 1 750 
+independent Saha_equation.txt 1 133 
+calculation Saha_equation.txt 2 772 887 
+used Saha_equation.txt 2 53 455 
+appearances Saha_equation.txt 1 646 
+effect Saha_equation.txt 2 513 775 
+levels Saha_equation.txt 1 331 
+appreciable Saha_equation.txt 1 745 
+potentials Saha_equation.txt 3 244 366 400 
+lower Saha_equation.txt 1 735 
+weakly Saha_equation.txt 1 208 
+i Saha_equation.txt 4 380 696 765 844 
+well Saha_equation.txt 1 487 
+the Saha_equation.txt 90 8 15 23 33 37 56 61 66 92 96 102 113 120 125 139 156 169 175 179 193 200 202 213 221 224 238 242 246 249 265 271 274 279 282 296 301 308 315 322 332 337 347 350 360 364 372 384 387 399 404 421 449 463 481 503 512 515 542 546 552 555 583 591 599 606 610 616 621 627 644 653 662 670 681 687 690 715 719 730 734 749 774 788 794 803 836 860 870 873 877 
+chemistry Saha_equation.txt 1 491 
+left Saha_equation.txt 1 758 
+when Saha_equation.txt 3 108 529 859 
+atomic Saha_equation.txt 3 126 143 263 
+dissociation Saha_equation.txt 1 497 
+density Saha_equation.txt 3 91 195 298 
+absorption Saha_equation.txt 6 559 597 650 679 746 762 
+had Saha_equation.txt 4 471 641 828 845 
+improvement Saha_equation.txt 1 501 
+theorem Saha_equation.txt 1 482 
+plasma Saha_equation.txt 2 174 861 
+excited Saha_equation.txt 2 516 741 
+around Saha_equation.txt 1 124 
+disappearance Saha_equation.txt 1 595 
+early Saha_equation.txt 1 422 
+accepted Saha_equation.txt 1 618 
+atmospheres Saha_equation.txt 4 418 581 612 821 
+loss Saha_equation.txt 1 688 
+particle Saha_equation.txt 2 312 325 
+arthur Saha_equation.txt 1 533 
+t Saha_equation.txt 1 485 
+r.h Saha_equation.txt 1 536 
+sequence Saha_equation.txt 1 655 
+some Saha_equation.txt 2 100 603 
+debye Saha_equation.txt 1 214 
+and/or Saha_equation.txt 1 90 
+charges Saha_equation.txt 1 159 
+for Saha_equation.txt 16 82 183 207 211 256 320 327 340 363 374 389 492 661 675 724 787 
+exposition Saha_equation.txt 1 444 
+assuming Saha_equation.txt 1 656 
+freed Saha_equation.txt 1 129 
+be Saha_equation.txt 2 354 882 
+co-existing Saha_equation.txt 1 137 
+stellar Saha_equation.txt 7 417 580 611 654 666 820 853 
+pressure Saha_equation.txt 4 36 663 801 834 
+step Saha_equation.txt 1 527 
+exciting Saha_equation.txt 1 813 
+by Saha_equation.txt 8 65 76 231 473 507 586 729 884 
+on Saha_equation.txt 2 643 847 
+about Saha_equation.txt 1 576 
+most Saha_equation.txt 1 333 
+of Saha_equation.txt 58 26 42 45 59 95 101 112 142 158 171 181 192 199 223 227 241 248 260 288 310 324 336 359 377 395 413 448 452 462 479 483 514 518 545 554 558 565 579 596 605 626 629 649 659 680 689 718 722 770 773 784 790 802 805 817 835 838 888 
+introduced Saha_equation.txt 1 506 
+or Saha_equation.txt 3 110 594 841 
+cutoff Saha_equation.txt 1 247 
+localised Saha_equation.txt 1 164 
+bound Saha_equation.txt 1 118 
+because Saha_equation.txt 1 814 
+references Saha_equation.txt 1 896 
+restatement Saha_equation.txt 1 358 
+van Saha_equation.txt 1 484 
+assumed Saha_equation.txt 1 623 
+there Saha_equation.txt 2 737 752 
+question Saha_equation.txt 1 684 
+much Saha_equation.txt 1 570 
+milne Saha_equation.txt 2 534 639 
+stars Saha_equation.txt 2 60 789 
+forward Saha_equation.txt 1 528 
+was Saha_equation.txt 6 63 509 569 726 808 811 
+function Saha_equation.txt 3 191 251 349 
+form Saha_equation.txt 2 131 335 
+neutral Saha_equation.txt 3 146 567 756 
+atom Saha_equation.txt 4 121 376 394 568 
+line Saha_equation.txt 3 682 823 826 
+with Saha_equation.txt 3 138 429 781 
+he Saha_equation.txt 1 454 
+rooms Saha_equation.txt 1 703 
+maximum Saha_equation.txt 3 556 716 799 
+z Saha_equation.txt 1 345 
+agree Saha_equation.txt 1 780 
+mechanics Saha_equation.txt 3 47 50 440 
+later Saha_equation.txt 1 74 
+an Saha_equation.txt 9 19 105 132 152 375 390 393 525 657 
+balmer Saha_equation.txt 2 720 795 
+single Saha_equation.txt 1 262 
+at Saha_equation.txt 4 85 620 733 748 
+physical Saha_equation.txt 2 490 577 
+no Saha_equation.txt 1 410 
+generally Saha_equation.txt 1 617 
+application Saha_equation.txt 1 494 
+other Saha_equation.txt 2 232 848 
+permitting Saha_equation.txt 1 441 
+generates Saha_equation.txt 2 151 160 
+calculating Saha_equation.txt 1 669 
+a0 Saha_equation.txt 1 792 
+important Saha_equation.txt 2 291 526 
+nucleus Saha_equation.txt 1 127 
+coronae Saha_equation.txt 1 854 
+e Saha_equation.txt 1 637 
+coulomb Saha_equation.txt 1 225 
+required Saha_equation.txt 2 276 809 
+inhibited Saha_equation.txt 1 677 
+time Saha_equation.txt 1 622 
+requires Saha_equation.txt 1 602 

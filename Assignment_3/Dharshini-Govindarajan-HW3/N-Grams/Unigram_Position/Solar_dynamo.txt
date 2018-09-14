@@ -1,0 +1,207 @@
+pairs Solar_dynamo.txt 2 356 371 
+phenomenon Solar_dynamo.txt 1 377 
+produces Solar_dynamo.txt 1 29 
+suns Solar_dynamo.txt 3 27 219 481 
+magnetic Solar_dynamo.txt 15 15 34 103 113 138 190 226 295 304 348 364 367 395 437 483 
+through Solar_dynamo.txt 3 105 319 350 
+during Solar_dynamo.txt 2 383 430 
+kinetic Solar_dynamo.txt 1 81 
+tend Solar_dynamo.txt 1 257 
+its Solar_dynamo.txt 4 136 254 308 327 
+previous Solar_dynamo.txt 1 455 
+polarity Solar_dynamo.txt 3 368 449 478 
+diffusive Solar_dynamo.txt 1 146 
+equator Solar_dynamo.txt 1 264 
+amplification Solar_dynamo.txt 1 143 
+patches Solar_dynamo.txt 1 216 
+generator Solar_dynamo.txt 1 24 
+decay Solar_dynamo.txt 1 149 
+11-year Solar_dynamo.txt 3 197 269 469 
+to Solar_dynamo.txt 12 111 172 194 223 258 261 284 355 397 443 453 473 
+systems Solar_dynamo.txt 1 151 
+convective Solar_dynamo.txt 1 164 
+hidden Solar_dynamo.txt 1 491 
+main Solar_dynamo.txt 1 178 
+shear Solar_dynamo.txt 1 91 
+do Solar_dynamo.txt 1 241 
+forces Solar_dynamo.txt 1 343 
+rise Solar_dynamo.txt 1 354 
+fluid Solar_dynamo.txt 5 89 108 120 128 142 
+distort Solar_dynamo.txt 1 122 
+corresponds Solar_dynamo.txt 2 283 472 
+dark Solar_dynamo.txt 1 215 
+photosphere Solar_dynamo.txt 2 220 352 
+balancing Solar_dynamo.txt 1 145 
+half Solar_dynamo.txt 1 273 
+not Solar_dynamo.txt 1 66 
+turbulence Solar_dynamo.txt 1 98 
+rotation Solar_dynamo.txt 3 168 321 435 
+progresses Solar_dynamo.txt 1 252 
+categories Solar_dynamo.txt 2 490 492 
+occurring Solar_dynamo.txt 1 22 
+edit Solar_dynamo.txt 4 77 177 487 489 
+fields Solar_dynamo.txt 1 296 
+ohmic Solar_dynamo.txt 1 148 
+appear Solar_dynamo.txt 1 242 
+sufficiently Solar_dynamo.txt 1 131 
+differential Solar_dynamo.txt 3 167 320 434 
+toroidal Solar_dynamo.txt 6 291 315 347 394 411 445 
+electrically Solar_dynamo.txt 1 87 
+references Solar_dynamo.txt 1 488 
+cycles Solar_dynamo.txt 1 386 
+characterized Solar_dynamo.txt 1 200 
+large-scale Solar_dynamo.txt 1 482 
+temporarily Solar_dynamo.txt 1 100 
+energy Solar_dynamo.txt 6 82 85 174 289 389 438 
+back Solar_dynamo.txt 1 439 
+related Solar_dynamo.txt 1 193 
+relative Solar_dynamo.txt 1 110 
+see Solar_dynamo.txt 1 485 
+towards Solar_dynamo.txt 1 253 
+ampre Solar_dynamo.txt 1 40 
+are Solar_dynamo.txt 5 152 212 237 243 419 
+electric-magnetic Solar_dynamo.txt 2 84 173 
+generates Solar_dynamo.txt 1 11 
+closer Solar_dynamo.txt 1 260 
+lenzs Solar_dynamo.txt 1 106 
+sunspots Solar_dynamo.txt 7 210 211 236 256 358 403 418 
+giving Solar_dynamo.txt 1 353 
+sun Solar_dynamo.txt 3 13 157 171 
+wikipedia Solar_dynamo.txt 1 2 
+research Solar_dynamo.txt 1 74 
+current Solar_dynamo.txt 1 73 
+sustain Solar_dynamo.txt 1 135 
+between Solar_dynamo.txt 1 290 
+increasing Solar_dynamo.txt 1 203 
+22-year Solar_dynamo.txt 1 276 
+exchange Solar_dynamo.txt 1 287 
+each Solar_dynamo.txt 1 468 
+sunspot Solar_dynamo.txt 3 270 370 470 
+babcock Solar_dynamo.txt 1 277 
+dynamo Solar_dynamo.txt 8 1 5 18 64 79 161 280 335 
+if Solar_dynamo.txt 1 126 
+article Solar_dynamo.txt 1 179 
+by Solar_dynamo.txt 1 201 
+declining Solar_dynamo.txt 1 387 
+on Solar_dynamo.txt 2 217 460 
+conducting Solar_dynamo.txt 1 88 
+rare Solar_dynamo.txt 1 421 
+zone Solar_dynamo.txt 1 342 
+of Solar_dynamo.txt 14 39 49 56 61 72 187 209 225 274 288 345 357 369 479 
+latitudes Solar_dynamo.txt 1 247 
+motion Solar_dynamo.txt 4 95 109 129 165 
+s Solar_dynamo.txt 1 14 
+concentrations Solar_dynamo.txt 1 224 
+complicated Solar_dynamo.txt 2 94 132 
+or Solar_dynamo.txt 3 92 147 234 
+detailed Solar_dynamo.txt 1 59 
+own Solar_dynamo.txt 1 137 
+point Solar_dynamo.txt 1 332 
+into Solar_dynamo.txt 1 83 
+within Solar_dynamo.txt 3 169 322 339 
+upwelling Solar_dynamo.txt 1 338 
+number Solar_dynamo.txt 2 206 406 
+visible Solar_dynamo.txt 2 213 238 
+simplified Solar_dynamo.txt 1 466 
+faraday Solar_dynamo.txt 1 41 
+prominent Solar_dynamo.txt 1 184 
+alternates Solar_dynamo.txt 1 372 
+size Solar_dynamo.txt 1 208 
+from Solar_dynamo.txt 2 391 440 
+quadrupolar Solar_dynamo.txt 1 316 
+initial Solar_dynamo.txt 1 124 
+poloidal Solar_dynamo.txt 5 293 302 400 424 442 
+sprers Solar_dynamo.txt 1 266 
+leighton Solar_dynamo.txt 1 278 
+next Solar_dynamo.txt 1 432 
+hale Solar_dynamo.txt 1 381 
+few Solar_dynamo.txt 1 233 
+change Solar_dynamo.txt 1 475 
+cycle Solar_dynamo.txt 12 176 181 199 251 271 281 336 375 382 433 456 471 
+naturally Solar_dynamo.txt 1 21 
+continuously Solar_dynamo.txt 1 461 
+emergence Solar_dynamo.txt 1 344 
+form Solar_dynamo.txt 2 53 259 
+that Solar_dynamo.txt 5 10 121 162 240 450 
+essentially Solar_dynamo.txt 2 19 144 
+but Solar_dynamo.txt 1 312 
+idealized Solar_dynamo.txt 1 465 
+correspondingly Solar_dynamo.txt 1 414 
+external Solar_dynamo.txt 2 301 399 
+solar Solar_dynamo.txt 16 0 4 63 175 180 189 198 231 246 250 263 279 294 374 385 408 
+dynamo-cycle Solar_dynamo.txt 1 309 
+known Solar_dynamo.txt 2 67 378 
+diminish Solar_dynamo.txt 1 404 
+aligned Solar_dynamo.txt 1 360 
+with Solar_dynamo.txt 4 90 140 362 447 
+those Solar_dynamo.txt 1 239 
+amplify Solar_dynamo.txt 1 101 
+also Solar_dynamo.txt 1 486 
+this Solar_dynamo.txt 1 331 
+maximum Solar_dynamo.txt 4 255 299 328 428 
+near Solar_dynamo.txt 2 307 326 
+can Solar_dynamo.txt 2 99 134 
+following Solar_dynamo.txt 2 36 265 
+advective Solar_dynamo.txt 1 141 
+more Solar_dynamo.txt 1 93 
+called Solar_dynamo.txt 1 153 
+and Solar_dynamo.txt 11 32 42 68 166 204 207 221 292 402 422 462 
+ohm Solar_dynamo.txt 1 43 
+process Solar_dynamo.txt 2 9 458 
+is Solar_dynamo.txt 12 6 65 69 130 158 192 272 306 325 413 426 451 
+it Solar_dynamo.txt 1 133 
+dynamos Solar_dynamo.txt 1 155 
+an Solar_dynamo.txt 5 86 202 285 313 464 
+high Solar_dynamo.txt 1 245 
+as Solar_dynamo.txt 6 44 46 97 214 248 379 
+minimum Solar_dynamo.txt 4 232 310 409 416 
+converts Solar_dynamo.txt 3 80 163 436 
+at Solar_dynamo.txt 7 228 244 297 330 407 415 427 
+in Solar_dynamo.txt 6 25 118 333 405 463 476 
+convection Solar_dynamo.txt 1 341 
+currents Solar_dynamo.txt 2 31 117 
+physical Solar_dynamo.txt 1 8 
+strength Solar_dynamo.txt 4 311 329 417 429 
+tachocline Solar_dynamo.txt 1 324 
+no Solar_dynamo.txt 1 235 
+buoyant Solar_dynamo.txt 1 337 
+solar-cycle Solar_dynamo.txt 1 298 
+mechanism Solar_dynamo.txt 2 60 76 
+field Solar_dynamo.txt 17 16 35 104 114 125 139 191 227 305 317 349 396 401 412 425 446 484 
+internal Solar_dynamo.txt 2 314 393 
+contents Solar_dynamo.txt 1 75 
+which Solar_dynamo.txt 2 51 282 
+shifts Solar_dynamo.txt 1 390 
+interior Solar_dynamo.txt 1 28 
+eastwest Solar_dynamo.txt 1 361 
+subject Solar_dynamo.txt 1 71 
+oscillatory Solar_dynamo.txt 1 286 
+induces Solar_dynamo.txt 1 115 
+relatively Solar_dynamo.txt 1 420 
+electric Solar_dynamo.txt 3 23 30 116 
+opposite Solar_dynamo.txt 2 363 452 
+decreasing Solar_dynamo.txt 1 205 
+quasi-periodic Solar_dynamo.txt 1 196 
+variation Solar_dynamo.txt 1 186 
+self-sustaining Solar_dynamo.txt 2 154 160 
+most Solar_dynamo.txt 1 183 
+generated Solar_dynamo.txt 1 318 
+dipolar Solar_dynamo.txt 1 303 
+hydrodynamics Solar_dynamo.txt 1 50 
+phase Solar_dynamo.txt 1 388 
+such Solar_dynamo.txt 2 96 150 
+law Solar_dynamo.txt 2 107 267 
+carries Solar_dynamo.txt 1 459 
+polarities Solar_dynamo.txt 1 365 
+magnetohydrodynamics Solar_dynamo.txt 1 57 
+a Solar_dynamo.txt 12 17 20 33 78 102 112 159 229 275 376 448 474 
+scenario Solar_dynamo.txt 1 467 
+well Solar_dynamo.txt 1 45 
+correspond Solar_dynamo.txt 1 222 
+together Solar_dynamo.txt 1 52 
+time Solar_dynamo.txt 1 185 
+every Solar_dynamo.txt 1 373 
+the Solar_dynamo.txt 42 3 7 12 26 37 47 54 58 62 70 119 123 127 156 170 182 188 195 218 249 262 268 300 323 334 340 346 351 366 380 384 392 398 410 423 431 441 444 454 457 477 480 
+typical Solar_dynamo.txt 1 230 
+roughly Solar_dynamo.txt 1 359 
+laws Solar_dynamo.txt 3 38 48 55 

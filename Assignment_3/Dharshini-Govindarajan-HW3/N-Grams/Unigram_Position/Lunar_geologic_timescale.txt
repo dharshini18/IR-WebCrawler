@@ -1,0 +1,432 @@
+represent Lunar_geologic_timescale.txt 1 187 
+all Lunar_geologic_timescale.txt 1 592 
+concept Lunar_geologic_timescale.txt 1 489 
+particular Lunar_geologic_timescale.txt 3 1034 1238 1294 
+ga Lunar_geologic_timescale.txt 12 213 222 224 660 665 683 732 742 817 833 946 1153 
+morphology Lunar_geologic_timescale.txt 1 265 
+oldest Lunar_geologic_timescale.txt 2 551 1221 
+copernicus Lunar_geologic_timescale.txt 1 1133 
+terms Lunar_geologic_timescale.txt 1 1341 
+subjected Lunar_geologic_timescale.txt 1 1008 
+crater Lunar_geologic_timescale.txt 5 54 1014 1040 1096 1132 
+to Lunar_geologic_timescale.txt 21 42 169 216 285 340 395 403 407 424 449 509 633 727 1009 1024 1099 1126 1162 1204 1251 1283 
+far Lunar_geologic_timescale.txt 1 233 
+blanket Lunar_geologic_timescale.txt 1 535 
+landforms Lunar_geologic_timescale.txt 1 268 
+closeup Lunar_geologic_timescale.txt 1 487 
+continued Lunar_geologic_timescale.txt 1 253 
+categories Lunar_geologic_timescale.txt 2 1362 1364 
+bright Lunar_geologic_timescale.txt 6 969 999 1017 1049 1062 1090 
+large Lunar_geologic_timescale.txt 2 43 760 
+unrelated Lunar_geologic_timescale.txt 1 1023 
+venus Lunar_geologic_timescale.txt 1 1264 
+upper Lunar_geologic_timescale.txt 2 820 855 
+consistent Lunar_geologic_timescale.txt 1 1319 
+surrounding Lunar_geologic_timescale.txt 1 1093 
+imply Lunar_geologic_timescale.txt 2 341 1211 
+bombardment Lunar_geologic_timescale.txt 1 129 
+even Lunar_geologic_timescale.txt 1 1063 
+crust Lunar_geologic_timescale.txt 1 507 
+remain Lunar_geologic_timescale.txt 1 1061 
+above Lunar_geologic_timescale.txt 2 1106 1322 
+superposed Lunar_geologic_timescale.txt 2 66 841 
+body Lunar_geologic_timescale.txt 1 368 
+subdivided Lunar_geologic_timescale.txt 4 314 565 698 1303 
+notable Lunar_geologic_timescale.txt 1 1272 
+modify Lunar_geologic_timescale.txt 1 263 
+youngest Lunar_geologic_timescale.txt 1 1079 
+groups Lunar_geologic_timescale.txt 3 571 1308 1333 
+change Lunar_geologic_timescale.txt 1 1214 
+obtained Lunar_geologic_timescale.txt 2 84 390 
+30 Lunar_geologic_timescale.txt 1 542 
+commonly Lunar_geologic_timescale.txt 2 940 1148 
+amount Lunar_geologic_timescale.txt 1 1026 
+opinion Lunar_geologic_timescale.txt 1 736 
+changes Lunar_geologic_timescale.txt 2 52 345 
+criticism Lunar_geologic_timescale.txt 1 1011 
+topography Lunar_geologic_timescale.txt 1 477 
+useful Lunar_geologic_timescale.txt 3 236 539 1192 
+while Lunar_geologic_timescale.txt 1 1187 
+highly Lunar_geologic_timescale.txt 1 122 
+visible Lunar_geologic_timescale.txt 1 476 
+marker Lunar_geologic_timescale.txt 1 541 
+unit Lunar_geologic_timescale.txt 2 191 893 
+from Lunar_geologic_timescale.txt 5 85 391 500 545 1038 
+selenological Lunar_geologic_timescale.txt 1 9 
+objectives Lunar_geologic_timescale.txt 1 626 
+two Lunar_geologic_timescale.txt 1 316 
+intense Lunar_geologic_timescale.txt 1 126 
+few Lunar_geologic_timescale.txt 1 1183 
+taken Lunar_geologic_timescale.txt 1 339 
+until Lunar_geologic_timescale.txt 1 1157 
+minor Lunar_geologic_timescale.txt 1 924 
+occurred Lunar_geologic_timescale.txt 2 350 595 
+hadean Lunar_geologic_timescale.txt 2 1286 1301 
+informally Lunar_geologic_timescale.txt 1 564 
+known Lunar_geologic_timescale.txt 2 381 396 
+weathering Lunar_geologic_timescale.txt 2 982 1029 
+must Lunar_geologic_timescale.txt 1 812 
+this Lunar_geologic_timescale.txt 11 37 546 559 738 765 932 951 985 1002 1107 1314 
+originally Lunar_geologic_timescale.txt 2 988 1085 
+work Lunar_geologic_timescale.txt 1 1274 
+modified Lunar_geologic_timescale.txt 2 48 145 
+labeled Lunar_geologic_timescale.txt 1 461 
+can Lunar_geologic_timescale.txt 1 281 
+anorthositic Lunar_geologic_timescale.txt 1 1050 
+believed Lunar_geologic_timescale.txt 1 726 
+history Lunar_geologic_timescale.txt 2 13 127 
+process Lunar_geologic_timescale.txt 1 207 
+cited Lunar_geologic_timescale.txt 2 656 1358 
+agent Lunar_geologic_timescale.txt 1 910 
+numbers Lunar_geologic_timescale.txt 1 657 
+occur Lunar_geologic_timescale.txt 1 57 
+absolute Lunar_geologic_timescale.txt 3 71 405 929 
+terrestrial Lunar_geologic_timescale.txt 1 1259 
+rays Lunar_geologic_timescale.txt 1 1015 
+cratering Lunar_geologic_timescale.txt 3 151 257 916 
+divided Lunar_geologic_timescale.txt 1 297 
+regions Lunar_geologic_timescale.txt 1 444 
+maps Lunar_geologic_timescale.txt 2 582 1348 
+freshly Lunar_geologic_timescale.txt 1 960 
+divides Lunar_geologic_timescale.txt 1 11 
+minority Lunar_geologic_timescale.txt 1 735 
+after Lunar_geologic_timescale.txt 2 764 1064 
+oceanus Lunar_geologic_timescale.txt 1 466 
+date Lunar_geologic_timescale.txt 1 634 
+such Lunar_geologic_timescale.txt 4 160 334 418 1261 
+law Lunar_geologic_timescale.txt 1 163 
+imbrian Lunar_geologic_timescale.txt 13 26 303 312 684 689 692 694 706 755 769 821 856 1313 
+a Lunar_geologic_timescale.txt 21 188 193 239 249 270 279 287 380 519 538 734 789 891 895 923 978 1039 1089 1147 1182 1198 
+highlands Lunar_geologic_timescale.txt 1 1044 
+attempt Lunar_geologic_timescale.txt 1 419 
+regolith Lunar_geologic_timescale.txt 1 105 
+correspond Lunar_geologic_timescale.txt 2 1125 1250 
+fundamental Lunar_geologic_timescale.txt 2 344 1213 
+order Lunar_geologic_timescale.txt 1 170 
+over Lunar_geologic_timescale.txt 2 258 975 
+mission Lunar_geologic_timescale.txt 1 631 
+ejecta Lunar_geologic_timescale.txt 3 534 844 1037 
+years Lunar_geologic_timescale.txt 2 136 227 
+through Lunar_geologic_timescale.txt 1 58 
+mentioned Lunar_geologic_timescale.txt 1 1105 
+still Lunar_geologic_timescale.txt 1 92 
+its Lunar_geologic_timescale.txt 1 533 
+before Lunar_geologic_timescale.txt 1 137 
+1 Lunar_geologic_timescale.txt 3 223 225 482 
+encompasses Lunar_geologic_timescale.txt 1 591 
+eratosthenian Lunar_geologic_timescale.txt 5 25 304 871 875 880 
+late Lunar_geologic_timescale.txt 5 27 219 688 700 768 
+systems Lunar_geologic_timescale.txt 2 1001 1116 
+2014 Lunar_geologic_timescale.txt 1 483 
+hidden Lunar_geologic_timescale.txt 1 1363 
+main Lunar_geologic_timescale.txt 5 492 585 686 873 1070 
+might Lunar_geologic_timescale.txt 1 186 
+affected Lunar_geologic_timescale.txt 1 123 
+material Lunar_geologic_timescale.txt 1 635 
+number Lunar_geologic_timescale.txt 1 1150 
+units Lunar_geologic_timescale.txt 4 69 109 398 1102 
+effects Lunar_geologic_timescale.txt 1 254 
+they Lunar_geologic_timescale.txt 4 243 335 972 1030 
+not Lunar_geologic_timescale.txt 11 337 447 577 806 935 1124 1143 1210 1249 1317 1344 
+now Lunar_geologic_timescale.txt 1 199 
+day Lunar_geologic_timescale.txt 1 1160 
+possess Lunar_geologic_timescale.txt 1 376 
+represents Lunar_geologic_timescale.txt 1 416 
+edit Lunar_geologic_timescale.txt 9 133 491 584 685 872 1069 1167 1355 1357 
+filling Lunar_geologic_timescale.txt 1 863 
+rock Lunar_geologic_timescale.txt 1 377 
+found Lunar_geologic_timescale.txt 1 1298 
+entirely Lunar_geologic_timescale.txt 1 1318 
+side Lunar_geologic_timescale.txt 1 528 
+series Lunar_geologic_timescale.txt 1 857 
+principles Lunar_geologic_timescale.txt 1 159 
+related Lunar_geologic_timescale.txt 1 41 
+event Lunar_geologic_timescale.txt 3 516 739 1255 
+space Lunar_geologic_timescale.txt 3 981 1028 1066 
+furthermore Lunar_geologic_timescale.txt 1 1218 
+millions Lunar_geologic_timescale.txt 1 134 
+disputed Lunar_geologic_timescale.txt 1 439 
+timeline Lunar_geologic_timescale.txt 1 414 
+standard Lunar_geologic_timescale.txt 1 157 
+completely Lunar_geologic_timescale.txt 1 902 
+base Lunar_geologic_timescale.txt 3 877 1118 1138 
+formation Lunar_geologic_timescale.txt 4 598 714 777 1128 
+beginning Lunar_geologic_timescale.txt 1 208 
+definition Lunar_geologic_timescale.txt 1 1003 
+3.92 Lunar_geologic_timescale.txt 1 659 
+schrdinger Lunar_geologic_timescale.txt 1 744 
+could Lunar_geologic_timescale.txt 3 675 827 921 
+times Lunar_geologic_timescale.txt 1 1232 
+assign Lunar_geologic_timescale.txt 2 286 404 
+south Lunar_geologic_timescale.txt 1 556 
+primary Lunar_geologic_timescale.txt 1 140 
+one Lunar_geologic_timescale.txt 5 177 308 417 622 1271 
+directly Lunar_geologic_timescale.txt 1 808 
+size Lunar_geologic_timescale.txt 2 791 897 
+mercury Lunar_geologic_timescale.txt 1 1263 
+earths Lunar_geologic_timescale.txt 2 1163 1289 
+ancient Lunar_geologic_timescale.txt 2 471 484 
+ordering Lunar_geologic_timescale.txt 1 1194 
+system Lunar_geologic_timescale.txt 2 361 1092 
+least Lunar_geologic_timescale.txt 1 1270 
+their Lunar_geologic_timescale.txt 1 998 
+erupted Lunar_geologic_timescale.txt 1 852 
+low Lunar_geologic_timescale.txt 1 1056 
+relationship Lunar_geologic_timescale.txt 1 1161 
+that Lunar_geologic_timescale.txt 19 46 56 143 182 201 342 363 430 523 594 671 752 959 971 1021 1206 1299 1328 1342 
+somewhat Lunar_geologic_timescale.txt 1 650 
+advocated Lunar_geologic_timescale.txt 1 1276 
+than Lunar_geologic_timescale.txt 2 370 815 
+relative Lunar_geologic_timescale.txt 2 288 1199 
+12 Lunar_geologic_timescale.txt 1 606 
+16 Lunar_geologic_timescale.txt 1 630 
+likely Lunar_geologic_timescale.txt 1 1248 
+determined Lunar_geologic_timescale.txt 1 809 
+result Lunar_geologic_timescale.txt 1 979 
+and Lunar_geologic_timescale.txt 28 28 32 60 115 152 154 214 246 273 305 332 453 456 532 569 602 619 661 690 701 718 758 782 826 970 1241 1311 1331 
+contentious Lunar_geologic_timescale.txt 1 651 
+1.1 Lunar_geologic_timescale.txt 1 1152 
+1.2 Lunar_geologic_timescale.txt 1 221 
+ages Lunar_geologic_timescale.txt 7 72 97 119 387 406 434 822 
+manner Lunar_geologic_timescale.txt 1 1200 
+have Lunar_geologic_timescale.txt 9 47 76 120 144 349 728 793 899 1031 
+constrained Lunar_geologic_timescale.txt 2 78 1145 
+any Lunar_geologic_timescale.txt 4 343 580 1212 1252 
+contents Lunar_geologic_timescale.txt 1 130 
+ray Lunar_geologic_timescale.txt 3 1000 1091 1115 
+copernican Lunar_geologic_timescale.txt 9 24 306 1068 1072 1075 1101 1121 1141 1155 
+convenient Lunar_geologic_timescale.txt 2 329 1184 
+gravity Lunar_geologic_timescale.txt 1 479 
+note Lunar_geologic_timescale.txt 1 425 
+also Lunar_geologic_timescale.txt 2 282 1354 
+which Lunar_geologic_timescale.txt 8 374 504 553 786 888 994 1045 1337 
+correlating Lunar_geologic_timescale.txt 2 103 385 
+play Lunar_geologic_timescale.txt 1 922 
+though Lunar_geologic_timescale.txt 3 733 810 918 
+most Lunar_geologic_timescale.txt 4 116 235 654 1247 
+extremely Lunar_geologic_timescale.txt 1 1191 
+sometimes Lunar_geologic_timescale.txt 2 460 1297 
+fact Lunar_geologic_timescale.txt 1 678 
+3.72 Lunar_geologic_timescale.txt 1 816 
+3.77 Lunar_geologic_timescale.txt 1 741 
+imbrium Lunar_geologic_timescale.txt 4 603 717 723 1240 
+earth Lunar_geologic_timescale.txt 3 15 372 1265 
+debate Lunar_geologic_timescale.txt 1 94 
+principal Lunar_geologic_timescale.txt 1 908 
+impact Lunar_geologic_timescale.txt 17 44 150 229 256 515 521 543 604 608 640 720 869 915 995 1095 1131 1235 
+based Lunar_geologic_timescale.txt 6 324 818 834 955 1177 1228 
+quoted Lunar_geologic_timescale.txt 2 941 1149 
+storms Lunar_geologic_timescale.txt 1 470 
+should Lunar_geologic_timescale.txt 1 336 
+only Lunar_geologic_timescale.txt 3 367 748 1339 
+do Lunar_geologic_timescale.txt 1 1209 
+notation Lunar_geologic_timescale.txt 1 1315 
+moons Lunar_geologic_timescale.txt 1 849 
+processes Lunar_geologic_timescale.txt 6 142 348 798 906 983 1217 
+volcanism Lunar_geologic_timescale.txt 2 153 203 
+including Lunar_geologic_timescale.txt 1 616 
+epochs Lunar_geologic_timescale.txt 3 30 317 703 
+see Lunar_geologic_timescale.txt 1 1353 
+individual Lunar_geologic_timescale.txt 1 1234 
+are Lunar_geologic_timescale.txt 18 40 149 231 244 323 435 459 548 576 610 967 1016 1022 1176 1190 1227 1338 1343 
+procellarum Lunar_geologic_timescale.txt 1 467 
+geologic Lunar_geologic_timescale.txt 6 1 1164 1173 1290 1324 1347 
+wikipedia Lunar_geologic_timescale.txt 1 3 
+boundaries Lunar_geologic_timescale.txt 3 35 353 1208 
+state Lunar_geologic_timescale.txt 1 275 
+between Lunar_geologic_timescale.txt 4 451 596 712 775 
+boundary Lunar_geologic_timescale.txt 2 933 949 
+numerous Lunar_geologic_timescale.txt 1 245 
+we Lunar_geologic_timescale.txt 1 375 
+recently Lunar_geologic_timescale.txt 2 666 1006 
+however Lunar_geologic_timescale.txt 2 89 1004 
+craters Lunar_geologic_timescale.txt 5 65 787 840 889 996 
+basalts Lunar_geologic_timescale.txt 3 185 825 851 
+key Lunar_geologic_timescale.txt 1 100 
+distinguish Lunar_geologic_timescale.txt 1 450 
+article Lunar_geologic_timescale.txt 4 493 586 874 1071 
+suggested Lunar_geologic_timescale.txt 1 670 
+both Lunar_geologic_timescale.txt 1 1335 
+cryptic Lunar_geologic_timescale.txt 3 568 1306 1330 
+instant Lunar_geologic_timescale.txt 1 251 
+missions Lunar_geologic_timescale.txt 1 394 
+many Lunar_geologic_timescale.txt 2 441 859 
+pre-imbrian Lunar_geologic_timescale.txt 1 464 
+s Lunar_geologic_timescale.txt 1 16 
+geomorphological Lunar_geologic_timescale.txt 2 330 1185 
+landform Lunar_geologic_timescale.txt 1 280 
+grail Lunar_geologic_timescale.txt 1 478 
+highland Lunar_geologic_timescale.txt 1 443 
+crisium Lunar_geologic_timescale.txt 1 620 
+timescale Lunar_geologic_timescale.txt 3 2 7 10 
+point Lunar_geologic_timescale.txt 1 502 
+basins Lunar_geologic_timescale.txt 7 544 605 609 621 721 762 870 
+period Lunar_geologic_timescale.txt 14 497 547 561 590 615 695 881 952 986 1073 1076 1081 1122 1352 
+stratigraphy Lunar_geologic_timescale.txt 2 132 241 
+exclusively Lunar_geologic_timescale.txt 1 1229 
+mare Lunar_geologic_timescale.txt 5 184 202 824 850 1058 
+3.85 Lunar_geologic_timescale.txt 2 664 731 
+3.84 Lunar_geologic_timescale.txt 1 832 
+been Lunar_geologic_timescale.txt 11 77 121 296 401 563 669 697 794 807 900 1007 
+much Lunar_geologic_timescale.txt 2 93 679 
+deposited Lunar_geologic_timescale.txt 1 1053 
+mars Lunar_geologic_timescale.txt 1 1267 
+basin Lunar_geologic_timescale.txt 13 522 558 570 641 648 674 724 745 751 781 804 1307 1332 
+define Lunar_geologic_timescale.txt 1 1100 
+concerning Lunar_geologic_timescale.txt 1 95 
+formed Lunar_geologic_timescale.txt 5 508 524 729 763 1041 
+general Lunar_geologic_timescale.txt 1 1360 
+present Lunar_geologic_timescale.txt 2 138 1159 
+divisions Lunar_geologic_timescale.txt 4 319 575 1169 1189 
+uncertain Lunar_geologic_timescale.txt 1 437 
+these Lunar_geologic_timescale.txt 11 74 171 310 318 352 410 457 574 861 1188 1243 
+defining Lunar_geologic_timescale.txt 1 238 
+single Lunar_geologic_timescale.txt 1 189 
+rectangular Lunar_geologic_timescale.txt 1 474 
+will Lunar_geologic_timescale.txt 2 1060 1246 
+near Lunar_geologic_timescale.txt 2 527 944 
+ongoing Lunar_geologic_timescale.txt 1 206 
+at Lunar_geologic_timescale.txt 10 176 351 503 681 730 740 785 887 993 1269 
+almost Lunar_geologic_timescale.txt 1 901 
+is Lunar_geologic_timescale.txt 33 91 113 167 198 356 365 422 427 446 498 518 554 649 707 725 746 753 770 882 914 934 939 953 1046 1052 1077 1108 1142 1151 1202 1296 1302 1316 
+it Lunar_geologic_timescale.txt 12 166 179 197 364 399 421 445 667 811 1059 1201 1295 
+surface Lunar_geologic_timescale.txt 4 51 88 148 966 
+serenitatis Lunar_geologic_timescale.txt 1 618 
+itself Lunar_geologic_timescale.txt 1 917 
+in Lunar_geologic_timescale.txt 18 53 174 248 269 346 358 362 440 612 677 756 1033 1042 1197 1237 1293 1327 1346 
+if Lunar_geologic_timescale.txt 1 1035 
+perhaps Lunar_geologic_timescale.txt 1 217 
+multi-ring Lunar_geologic_timescale.txt 4 520 607 750 761 
+albedo Lunar_geologic_timescale.txt 1 1057 
+epoch Lunar_geologic_timescale.txt 1 766 
+modification Lunar_geologic_timescale.txt 1 920 
+events Lunar_geologic_timescale.txt 8 45 101 173 230 593 1196 1236 1245 
+difficult Lunar_geologic_timescale.txt 1 114 
+1-9 Lunar_geologic_timescale.txt 3 572 1309 1334 
+used Lunar_geologic_timescale.txt 4 284 578 1098 1345 
+context Lunar_geologic_timescale.txt 1 383 
+excavated Lunar_geologic_timescale.txt 2 636 961 
+size-frequency Lunar_geologic_timescale.txt 2 62 837 
+frequently Lunar_geologic_timescale.txt 2 655 663 
+rift Lunar_geologic_timescale.txt 2 472 485 
+lower Lunar_geologic_timescale.txt 1 754 
+older Lunar_geologic_timescale.txt 3 680 814 868 
+nevertheless Lunar_geologic_timescale.txt 2 642 1268 
+4.2 Lunar_geologic_timescale.txt 1 212 
+well Lunar_geologic_timescale.txt 3 927 936 1144 
+ocean Lunar_geologic_timescale.txt 1 468 
+thought Lunar_geologic_timescale.txt 1 181 
+materials Lunar_geologic_timescale.txt 3 455 962 1051 
+quantitative Lunar_geologic_timescale.txt 1 271 
+the Lunar_geologic_timescale.txt 113 4 12 23 34 49 61 70 86 96 111 139 146 162 183 234 252 264 274 290 311 326 354 359 366 371 386 392 413 433 495 501 505 510 513 526 530 550 555 567 588 597 600 613 617 624 628 638 643 646 653 672 693 704 710 713 716 722 743 747 767 773 776 779 783 799 802 836 848 854 864 876 879 885 907 912 928 947 957 964 991 1025 1036 1043 1055 1074 1078 1083 1086 1111 1117 1120 1127 1130 1134 1137 1140 1154 1158 1168 1171 1179 1207 1220 1225 1231 1257 1278 1285 1300 1305 1321 1329 1350 
+comprise Lunar_geologic_timescale.txt 1 1349 
+composed Lunar_geologic_timescale.txt 1 1047 
+just Lunar_geologic_timescale.txt 1 463 
+less Lunar_geologic_timescale.txt 1 662 
+being Lunar_geologic_timescale.txt 4 313 658 943 1065 
+radiometric Lunar_geologic_timescale.txt 2 80 118 
+informal Lunar_geologic_timescale.txt 1 1340 
+deposits Lunar_geologic_timescale.txt 1 458 
+geological Lunar_geologic_timescale.txt 21 6 68 108 141 172 250 292 321 347 382 397 411 560 581 892 1080 1195 1216 1222 1254 1280 
+realize Lunar_geologic_timescale.txt 1 1205 
+reasons Lunar_geologic_timescale.txt 1 1020 
+extends Lunar_geologic_timescale.txt 1 1156 
+samples Lunar_geologic_timescale.txt 4 83 106 378 389 
+has Lunar_geologic_timescale.txt 8 295 400 562 668 696 805 1005 1275 
+articles Lunar_geologic_timescale.txt 1 687 
+punctual Lunar_geologic_timescale.txt 1 1244 
+possible Lunar_geologic_timescale.txt 3 168 402 448 
+early Lunar_geologic_timescale.txt 6 29 210 691 702 705 1312 
+five Lunar_geologic_timescale.txt 2 19 299 
+using Lunar_geologic_timescale.txt 2 156 1277 
+unique Lunar_geologic_timescale.txt 2 194 357 
+d Lunar_geologic_timescale.txt 2 792 898 
+lost Lunar_geologic_timescale.txt 1 997 
+serves Lunar_geologic_timescale.txt 1 536 
+specific Lunar_geologic_timescale.txt 1 1253 
+either Lunar_geologic_timescale.txt 1 436 
+become Lunar_geologic_timescale.txt 1 973 
+because Lunar_geologic_timescale.txt 1 102 
+old Lunar_geologic_timescale.txt 1 830 
+some Lunar_geologic_timescale.txt 4 408 431 1010 1013 
+3.2 Lunar_geologic_timescale.txt 1 945 
+recognition Lunar_geologic_timescale.txt 3 327 958 1180 
+scale Lunar_geologic_timescale.txt 7 39 294 1166 1175 1282 1292 1326 
+for Lunar_geologic_timescale.txt 5 73 237 373 1018 1193 
+markers Lunar_geologic_timescale.txt 2 331 1186 
+moon Lunar_geologic_timescale.txt 8 17 112 355 465 531 913 1084 1226 
+does Lunar_geologic_timescale.txt 1 1123 
+lunar Lunar_geologic_timescale.txt 17 0 5 50 87 104 117 131 147 240 267 291 442 506 965 1172 1279 1323 
+dating Lunar_geologic_timescale.txt 1 81 
+be Lunar_geologic_timescale.txt 5 283 338 676 813 828 
+depressions Lunar_geologic_timescale.txt 1 865 
+scientific Lunar_geologic_timescale.txt 2 625 1273 
+continuing Lunar_geologic_timescale.txt 1 215 
+erosional Lunar_geologic_timescale.txt 3 797 905 909 
+by Lunar_geologic_timescale.txt 10 79 124 155 232 384 637 796 884 904 1110 
+on Lunar_geologic_timescale.txt 16 67 110 325 525 579 819 835 842 890 911 956 963 1054 1178 1230 1256 
+about Lunar_geologic_timescale.txt 1 845 
+of Lunar_geologic_timescale.txt 56 14 36 64 82 98 128 135 164 255 261 266 276 278 309 320 328 388 409 432 469 512 529 552 599 623 627 645 715 778 788 801 823 839 847 860 878 894 931 950 980 1027 1048 1082 1088 1113 1119 1129 1136 1139 1170 1181 1215 1224 1233 1288 1336 
+discussed Lunar_geologic_timescale.txt 1 428 
+recognized Lunar_geologic_timescale.txt 4 21 200 549 611 
+nectaris Lunar_geologic_timescale.txt 7 514 517 601 639 647 673 1239 
+or Lunar_geologic_timescale.txt 3 8 438 1266 
+presence Lunar_geologic_timescale.txt 2 1087 1112 
+lavas Lunar_geologic_timescale.txt 1 862 
+into Lunar_geologic_timescale.txt 6 18 298 315 566 699 1304 
+within Lunar_geologic_timescale.txt 1 853 
+obliterated Lunar_geologic_timescale.txt 2 795 903 
+valleys Lunar_geologic_timescale.txt 2 473 486 
+references Lunar_geologic_timescale.txt 3 1356 1359 1361 
+artists Lunar_geologic_timescale.txt 1 488 
+nectarian Lunar_geologic_timescale.txt 8 31 302 452 583 587 589 614 1310 
+poleaitken Lunar_geologic_timescale.txt 1 557 
+weathered Lunar_geologic_timescale.txt 1 1067 
+there Lunar_geologic_timescale.txt 1 90 
+subdivide Lunar_geologic_timescale.txt 1 1284 
+long Lunar_geologic_timescale.txt 1 259 
+incurred Lunar_geologic_timescale.txt 1 1032 
+way Lunar_geologic_timescale.txt 1 272 
+was Lunar_geologic_timescale.txt 5 180 204 632 987 1097 
+billion Lunar_geologic_timescale.txt 1 226 
+form Lunar_geologic_timescale.txt 2 55 247 
+but Lunar_geologic_timescale.txt 6 196 420 573 938 1103 1146 
+solar Lunar_geologic_timescale.txt 1 360 
+two-thirds Lunar_geologic_timescale.txt 1 846 
+orientale Lunar_geologic_timescale.txt 5 719 780 803 843 1242 
+apollo Lunar_geologic_timescale.txt 2 393 629 
+with Lunar_geologic_timescale.txt 8 107 192 307 379 652 858 867 1320 
+october Lunar_geologic_timescale.txt 1 481 
+places Lunar_geologic_timescale.txt 1 737 
+compositional Lunar_geologic_timescale.txt 2 1019 1114 
+below Lunar_geologic_timescale.txt 2 415 429 
+operationally Lunar_geologic_timescale.txt 1 984 
+distribution Lunar_geologic_timescale.txt 1 63 
+darker Lunar_geologic_timescale.txt 1 974 
+associated Lunar_geologic_timescale.txt 1 866 
+complicated Lunar_geologic_timescale.txt 1 1109 
+defined Lunar_geologic_timescale.txt 7 499 708 771 883 937 954 989 
+certain Lunar_geologic_timescale.txt 3 99 790 896 
+an Lunar_geologic_timescale.txt 3 125 205 1094 
+as Lunar_geologic_timescale.txt 22 161 209 211 218 220 242 333 426 462 537 709 772 829 831 926 942 977 990 1012 1104 1219 1262 
+periods Lunar_geologic_timescale.txt 6 22 75 260 300 412 1223 
+planets Lunar_geologic_timescale.txt 1 1260 
+gradients Lunar_geologic_timescale.txt 1 480 
+distributions Lunar_geologic_timescale.txt 1 838 
+4.1 Lunar_geologic_timescale.txt 1 682 
+no Lunar_geologic_timescale.txt 1 759 
+generally Lunar_geologic_timescale.txt 2 20 968 
+other Lunar_geologic_timescale.txt 3 369 749 1258 
+role Lunar_geologic_timescale.txt 1 925 
+erosion Lunar_geologic_timescale.txt 1 277 
+pre-nectarian Lunar_geologic_timescale.txt 7 33 301 454 490 494 496 1351 
+superposition Lunar_geologic_timescale.txt 1 165 
+important Lunar_geologic_timescale.txt 2 423 1203 
+stratigraphic Lunar_geologic_timescale.txt 3 158 190 540 
+seismic Lunar_geologic_timescale.txt 1 919 
+structure Lunar_geologic_timescale.txt 1 475 
+ago Lunar_geologic_timescale.txt 1 228 
+younger Lunar_geologic_timescale.txt 1 948 
+age Lunar_geologic_timescale.txt 7 195 289 644 757 800 930 1135 
+eon Lunar_geologic_timescale.txt 1 1287 
+time Lunar_geologic_timescale.txt 19 38 59 175 178 262 293 322 511 711 774 784 886 976 992 1165 1174 1281 1291 1325 

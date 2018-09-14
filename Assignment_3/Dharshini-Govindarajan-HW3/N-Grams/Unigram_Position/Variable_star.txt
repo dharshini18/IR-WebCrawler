@@ -1,0 +1,1299 @@
+gw Variable_star.txt 2 2988 2999 
+argelander Variable_star.txt 1 868 
+all Variable_star.txt 3 643 1535 5407 
+valve Variable_star.txt 1 1562 
+evidence Variable_star.txt 1 611 
+consider Variable_star.txt 1 1064 
+11-year Variable_star.txt 1 88 
+accretions Variable_star.txt 1 5311 
+caused Variable_star.txt 10 42 1204 1384 1547 2782 2857 3139 3785 4006 5001 
+magnetic Variable_star.txt 11 4426 4477 4488 4525 4558 4569 4721 4724 4937 4979 5006 
+invariable Variable_star.txt 1 187 
+truncated Variable_star.txt 1 4466 
+helium-rich Variable_star.txt 1 4644 
+yellow Variable_star.txt 6 1371 1693 2692 3510 3515 3633 
+pulsing Variable_star.txt 1 2266 
+disc Variable_star.txt 1 5315 
+subclass Variable_star.txt 1 3668 
+stochastically Variable_star.txt 1 3046 
+consists Variable_star.txt 1 1528 
+sct Variable_star.txt 1 1957 
+kirch Variable_star.txt 1 252 
+oldest Variable_star.txt 1 111 
+dq Variable_star.txt 2 4402 4410 
+asteroseismology Variable_star.txt 2 1196 3091 
+causes Variable_star.txt 3 3705 4038 5201 
+poorly Variable_star.txt 1 2381 
+layers Variable_star.txt 4 697 711 3052 4051 
+whose Variable_star.txt 1 28 
+recur Variable_star.txt 1 4321 
+zone Variable_star.txt 1 1421 
+prefixed Variable_star.txt 1 943 
+serpentis Variable_star.txt 2 5269 5273 
+young Variable_star.txt 3 1689 3176 3243 
+deneb Variable_star.txt 1 2867 
+protostars Variable_star.txt 3 3168 3174 3196 
+to Variable_star.txt 116 205 220 296 376 418 454 570 600 647 671 677 687 715 742 754 793 815 827 831 897 920 1067 1136 1162 1184 1252 1319 1323 1330 1410 1437 1447 1454 1489 1569 1624 1637 1707 1743 1798 1835 1858 1877 1889 1900 1929 1941 1961 1986 2004 2040 2043 2073 2152 2185 2206 2227 2260 2263 2326 2345 2419 2458 2503 2789 2824 2833 2901 2938 2947 3059 3115 3123 3153 3191 3222 3225 3278 3399 3433 3460 3524 3546 3615 3621 3627 3680 3702 3734 3768 3776 3834 3849 3897 3910 3919 4026 4041 4217 4230 4234 4326 4392 4423 4744 4765 4968 4972 4975 5009 5049 5092 5205 5258 5290 5347 
+dov Variable_star.txt 1 3006 
+1930s Variable_star.txt 1 652 
+preserved Variable_star.txt 1 112 
+under Variable_star.txt 1 4290 
+stochastic Variable_star.txt 2 1186 3736 
+include Variable_star.txt 3 2959 3437 5400 
+alternating Variable_star.txt 1 2710 
+belonging Variable_star.txt 1 1876 
+random Variable_star.txt 1 1181 
+amplitudes Variable_star.txt 9 2118 2223 2558 2605 2725 2838 2912 3256 4617 
+egyptian Variable_star.txt 1 96 
+very Variable_star.txt 14 434 564 1545 1619 1699 2220 2342 2559 2797 3017 3820 4337 4755 5210 
+frequencies Variable_star.txt 1 1156 
+images Variable_star.txt 1 3941 
+end Variable_star.txt 2 4145 5264 
+binaries Variable_star.txt 9 4415 4637 4757 5065 5072 5075 5143 5236 5282 
+cataclysmic Variable_star.txt 6 3166 3925 3933 3966 4515 4520 
+every Variable_star.txt 1 2071 
+fall Variable_star.txt 1 1335 
+difference Variable_star.txt 1 2351 
+exact Variable_star.txt 1 5261 
+alpha-2 Variable_star.txt 3 4940 4947 4951 
+cool Variable_star.txt 3 716 1324 2140 
+pulsators Variable_star.txt 2 2623 3100 
+entire Variable_star.txt 2 1041 3988 
+1704 Variable_star.txt 1 257 
+unlike Variable_star.txt 2 4265 4278 
+level Variable_star.txt 1 1359 
+eruptive Variable_star.txt 4 3126 3130 3583 3801 
+occurs Variable_star.txt 4 1355 1417 1434 1468 
+large Variable_star.txt 5 2221 3022 3387 3540 4248 
+p Variable_star.txt 1 3442 
+1669 Variable_star.txt 1 232 
+tenths Variable_star.txt 1 4836 
+30100 Variable_star.txt 1 2722 
+veritable Variable_star.txt 1 3193 
+strongly Variable_star.txt 1 1269 
+revolution Variable_star.txt 1 208 
+force Variable_star.txt 5 1209 1220 1442 1453 1496 
+occurrence Variable_star.txt 1 1892 
+ten Variable_star.txt 2 264 3353 
+core Variable_star.txt 4 4014 4103 4156 4164 
+among Variable_star.txt 2 3407 3809 
+fusion Variable_star.txt 3 1231 4160 4288 
+impostors Variable_star.txt 1 3501 
+second Variable_star.txt 2 217 4033 
+v393 Variable_star.txt 1 5218 
+zz Variable_star.txt 2 898 2963 
+pass Variable_star.txt 1 5374 
+further Variable_star.txt 3 790 960 1325 
+situated Variable_star.txt 1 5346 
+addition Variable_star.txt 1 3679 
+spectral Variable_star.txt 13 370 593 2017 2037 2090 2821 2898 2971 2984 3365 4867 4921 4960 
+established Variable_star.txt 3 436 1609 1909 
+disk Variable_star.txt 5 576 4453 4484 4507 4548 
+varying Variable_star.txt 1 4739 
+appear Variable_star.txt 2 646 3733 
+opaque Variable_star.txt 1 777 
+sun Variable_star.txt 4 79 3014 3043 4142 
+probably Variable_star.txt 1 3700 
+contributed Variable_star.txt 1 204 
+near Variable_star.txt 2 2764 4567 
+shares Variable_star.txt 1 539 
+lengthy Variable_star.txt 1 3323 
+seconds Variable_star.txt 3 2941 3844 5052 
+poles Variable_star.txt 1 4722 
+pulsating Variable_star.txt 21 614 649 1014 1023 1140 1215 1506 1533 1565 2353 2526 2533 2537 2561 2818 2894 2920 2926 2931 2953 3108 
+scientists Variable_star.txt 1 1063 
+sixfold Variable_star.txt 1 2184 
+increasing Variable_star.txt 1 1341 
+method Variable_star.txt 1 1636 
+temperatures Variable_star.txt 1 1256 
+subdivided Variable_star.txt 1 3004 
+venaticorum Variable_star.txt 6 3873 3880 4630 4942 4949 4953 
+simultaneously Variable_star.txt 1 1153 
+dwarf Variable_star.txt 21 977 1976 2928 2955 2958 4010 4110 4189 4310 4367 4372 4374 4382 4400 4428 4431 4459 4470 4566 4641 4650 
+degree Variable_star.txt 3 691 723 767 
+channeled Variable_star.txt 1 4553 
+mechanisms Variable_star.txt 1 2787 
+1987a Variable_star.txt 1 4245 
+component Variable_star.txt 3 4306 4318 4389 
+sunspot Variable_star.txt 1 3922 
+hundreds Variable_star.txt 1 2937 
+ionization Variable_star.txt 5 693 725 769 822 1313 
+believed Variable_star.txt 2 1568 3896 
+magnetism Variable_star.txt 1 4500 
+objects Variable_star.txt 1 3177 
+china Variable_star.txt 1 4096 
+compressed Variable_star.txt 1 761 
+groups Variable_star.txt 1 4679 
+others Variable_star.txt 2 2390 3738 
+active Variable_star.txt 2 3085 3889 
+accretion Variable_star.txt 5 4452 4506 4547 4550 4576 
+100 Variable_star.txt 2 2065 4849 
+strong Variable_star.txt 4 2674 4529 4874 5307 
+equations Variable_star.txt 1 661 
+change Variable_star.txt 11 45 1932 2007 2066 2188 2331 2426 2505 3772 4934 5031 
+contraction Variable_star.txt 3 1457 2515 3186 
+chaotic Variable_star.txt 1 2394 
+draconis Variable_star.txt 2 4912 4917 
+study Variable_star.txt 4 479 1188 3032 3074 
+30 Variable_star.txt 2 2186 2504 
+reason Variable_star.txt 1 3396 
+extreme Variable_star.txt 2 2678 4495 
+discoveries Variable_star.txt 2 904 909 
+brighten Variable_star.txt 1 2176 
+simultaneous Variable_star.txt 1 2598 
+resulting Variable_star.txt 1 1349 
+milky Variable_star.txt 1 323 
+usually Variable_star.txt 5 970 1228 2020 3247 4454 
+resonance Variable_star.txt 1 1553 
+history Variable_star.txt 1 4363 
+changes Variable_star.txt 15 347 359 371 412 602 1363 2243 2253 2851 3112 3544 4733 4782 4976 5003 
+plotted Variable_star.txt 1 417 
+composed Variable_star.txt 2 103 4594 
+fourfold Variable_star.txt 1 3771 
+named Variable_star.txt 5 146 971 1654 1667 5237 
+useful Variable_star.txt 3 477 1620 1916 
+pulsator Variable_star.txt 1 3104 
+classification Variable_star.txt 1 946 
+exhibit Variable_star.txt 6 2053 3197 3536 3717 4994 5196 
+suddenly Variable_star.txt 1 3609 
+334 Variable_star.txt 1 929 
+offset Variable_star.txt 1 1825 
+pulsar Variable_star.txt 3 4119 5019 5063 
+aquilae Variable_star.txt 1 1720 
+vir Variable_star.txt 2 2989 3000 
+visible Variable_star.txt 3 1412 1427 5026 
+iron Variable_star.txt 2 4155 4163 
+sizeable Variable_star.txt 1 4694 
+canis Variable_star.txt 1 2480 
+apb Variable_star.txt 1 2539 
+monocerotis Variable_star.txt 1 3956 
+long-period Variable_star.txt 1 2402 
+seventeenth Variable_star.txt 1 214 
+cloud Variable_star.txt 2 4250 4607 
+eddington Variable_star.txt 3 656 1561 3463 
+from Variable_star.txt 31 32 451 533 546 555 630 825 1229 1237 2202 2322 2830 3144 3187 3907 4089 4129 4159 4183 4190 4204 4282 4313 4481 4574 4646 4792 5047 5123 5301 5310 
+links Variable_star.txt 1 5425 
+prove Variable_star.txt 1 1638 
+chi Variable_star.txt 1 244 
+contains Variable_star.txt 1 18 
+two Variable_star.txt 4 3835 4677 5115 5164 
+by Variable_star.txt 54 6 43 50 83 164 228 250 258 262 300 363 483 506 818 865 887 1205 1266 1385 1393 1548 1555 1746 1924 2177 2427 2659 2783 2858 2994 3047 3111 3140 3321 3331 3350 3611 3635 3766 3786 3832 3900 3991 4007 4467 4473 4911 4916 4928 5002 5088 5167 5306 5415 
+tauri Variable_star.txt 5 2682 2688 3269 3274 3381 
+few Variable_star.txt 12 565 1750 2115 2121 2246 2594 2608 3486 3843 4835 5020 5051 
+mass/density Variable_star.txt 1 4018 
+noting Variable_star.txt 1 512 
+therefore Variable_star.txt 1 4176 
+crab Variable_star.txt 2 4085 5062 
+6 Variable_star.txt 1 3318 
+non-supergiant Variable_star.txt 1 3756 
+inner Variable_star.txt 1 4483 
+themselves Variable_star.txt 1 958 
+type Variable_star.txt 28 682 1091 1098 1753 1759 1762 1793 1806 1810 1838 1873 1885 2018 2038 2091 2448 2638 2676 2747 2755 2770 2776 2972 2985 3366 3507 3964 4214 
+until Variable_star.txt 3 1326 4491 4561 
+0.001 Variable_star.txt 1 2946 
+more Variable_star.txt 12 316 732 776 1317 1332 1945 2297 2438 2773 3212 3992 5293 
+majoris Variable_star.txt 3 2481 5320 5327 
+double-peaked Variable_star.txt 1 2716 
+b-type Variable_star.txt 2 2527 2534 
+becomes Variable_star.txt 2 781 1316 
+apparent Variable_star.txt 1 35 
+mira Variable_star.txt 7 147 2155 2160 2162 2191 2248 2346 
+clue Variable_star.txt 1 598 
+visual Variable_star.txt 4 518 2222 2234 3471 
+0.7 Variable_star.txt 1 2062 
+b8a7 Variable_star.txt 1 4962 
+particular Variable_star.txt 4 358 380 1253 1405 
+known Variable_star.txt 17 268 283 464 470 503 814 1723 1974 2194 2950 3037 3421 3431 3564 3814 5058 5215 
+including Variable_star.txt 4 3706 3865 3891 5283 
+cases Variable_star.txt 7 566 1170 1235 1493 2247 3150 4496 
+blocking Variable_star.txt 2 53 1387 
+clumps Variable_star.txt 3 3227 3286 3712 
+must Variable_star.txt 2 1202 1401 
+holwarda Variable_star.txt 1 140 
+account Variable_star.txt 1 1570 
+rotational Variable_star.txt 1 3789 
+recovering Variable_star.txt 1 3620 
+hour Variable_star.txt 2 3855 4066 
+f Variable_star.txt 2 2748 2900 
+this Variable_star.txt 34 38 169 197 728 746 772 786 859 1353 1400 1478 1501 1526 1635 2447 2519 2576 2635 2715 2731 2877 3395 3434 4034 4045 4150 4162 4212 4784 4992 5103 5176 5246 5332 
+thousands Variable_star.txt 2 2939 4062 
+supergiant Variable_star.txt 2 2693 5287 
+post-agb Variable_star.txt 2 2698 3641 
+eclipse Variable_star.txt 2 5129 5267 
+trifid Variable_star.txt 1 16 
+regions Variable_star.txt 2 3784 4463 
+can Variable_star.txt 11 415 432 475 520 1462 2304 3980 4127 4227 4443 4578 
+evolved Variable_star.txt 3 2141 3519 4656 
+flare Variable_star.txt 4 3790 3795 3811 3863 
+following Variable_star.txt 2 551 559 
+making Variable_star.txt 1 5254 
+drops Variable_star.txt 1 1314 
+example Variable_star.txt 10 81 610 976 1365 2313 3348 3565 4078 5059 5216 
+initial Variable_star.txt 1 3623 
+f0 Variable_star.txt 1 2095 
+giants Variable_star.txt 6 2167 2284 2370 2411 3383 3408 
+events Variable_star.txt 2 3162 3974 
+f5 Variable_star.txt 2 2024 2041 
+impacts Variable_star.txt 1 4563 
+0.1 Variable_star.txt 6 85 2651 2847 2918 4969 4999 
+enveloped Variable_star.txt 1 4604 
+0.3 Variable_star.txt 1 2003 
+0.2 Variable_star.txt 3 2325 2948 3114 
+0.5 Variable_star.txt 1 4931 
+confused Variable_star.txt 1 1788 
+spectrophotometry Variable_star.txt 1 406 
+involve Variable_star.txt 1 346 
+10,000 Variable_star.txt 2 328 334 
+orion Variable_star.txt 4 3233 3238 3240 3264 
+minimum Variable_star.txt 2 2514 2760 
+bp Variable_star.txt 1 2639 
+something Variable_star.txt 1 51 
+degenerate Variable_star.txt 1 4295 
+magnitudes Variable_star.txt 24 501 1927 2002 2182 2324 2429 2501 2728 2848 2919 2949 3117 3259 3319 3333 3613 3770 3836 3995 4584 4621 4838 4932 4970 
+supernova Variable_star.txt 7 3500 3936 3979 4003 4074 4091 4179 
+times Variable_star.txt 7 3335 3354 3617 3838 4000 4138 4665 
+robinson Variable_star.txt 1 12 
+occur Variable_star.txt 4 356 604 1402 4718 
+forms Variable_star.txt 1 4455 
+absolute Variable_star.txt 2 1589 4209 
+terrestrial Variable_star.txt 1 5089 
+huge Variable_star.txt 1 3892 
+1054 Variable_star.txt 1 4101 
+hydrogen Variable_star.txt 1 2662 
+divided Variable_star.txt 1 961 
+six Variable_star.txt 2 3334 3837 
+globular Variable_star.txt 2 1894 2050 
+cygni Variable_star.txt 7 245 2804 2810 2813 3346 3443 4355 
+surpassed Variable_star.txt 1 4203 
+unlucky Variable_star.txt 1 101 
+till Variable_star.txt 1 4171 
+varies Variable_star.txt 5 82 1268 2199 2321 3924 
+occasionally Variable_star.txt 2 1898 2094 
+subdwarf Variable_star.txt 3 2563 2569 2585 
+surpasses Variable_star.txt 1 4173 
+rphs Variable_star.txt 1 2619 
+flares Variable_star.txt 2 3827 3895 
+if Variable_star.txt 4 1414 1431 1465 5371 
+secular Variable_star.txt 1 3556 
+enormous Variable_star.txt 1 4046 
+rise Variable_star.txt 1 4391 
+blocks Variable_star.txt 1 1293 
+fu Variable_star.txt 3 3292 3298 3360 
+beamed Variable_star.txt 1 4573 
+proxima Variable_star.txt 1 3866 
+may Variable_star.txt 23 40 108 444 578 669 950 1122 2289 2391 2425 2597 2734 3002 3503 4070 4111 4180 4320 4696 4730 4821 5128 5366 
+db Variable_star.txt 1 2986 
+after Variable_star.txt 5 290 972 984 1668 5238 
+derived Variable_star.txt 2 554 562 
+long Variable_star.txt 6 2126 2132 2136 2395 2405 5211 
+edwin Variable_star.txt 1 1632 
+diagram Variable_star.txt 2 1004 1250 
+permanent Variable_star.txt 1 3446 
+produce Variable_star.txt 1 419 
+arietis Variable_star.txt 2 4982 4988 
+outbursts Variable_star.txt 2 4394 4615 
+such Variable_star.txt 2 531 4080 
+da Variable_star.txt 1 2973 
+data Variable_star.txt 5 367 541 552 560 594 
+types Variable_star.txt 7 352 964 1000 1007 2951 4398 4868 
+a Variable_star.txt 129 8 22 26 44 119 150 162 379 388 517 574 597 606 613 667 675 798 841 877 1047 1074 1109 1126 1132 1137 1145 1176 1180 1197 1200 1211 1287 1381 1396 1404 1419 1449 1460 1470 1475 1504 1583 1594 1660 1749 1776 1823 1907 1936 1942 2011 2092 2096 2114 2120 2124 2183 2213 2245 2255 2291 2311 2315 2328 2355 2582 2593 2607 2611 2642 2675 2796 2825 2903 3021 3101 3107 3188 3192 3260 3322 3340 3367 3485 3505 3667 3675 3842 3950 3978 4008 4012 4016 4029 4032 4076 4081 4090 4114 4118 4153 4178 4187 4191 4195 4308 4380 4418 4424 4448 4568 4596 4600 4606 4639 4651 4834 4887 4908 5050 5108 5118 5133 5209 5278 5284 5291 5314 5339 
+sz Variable_star.txt 1 895 
+sx Variable_star.txt 4 2025 2031 4981 4987 
+natural Variable_star.txt 1 1110 
+accelerates Variable_star.txt 1 4297 
+pulsations Variable_star.txt 15 1021 1033 1066 1072 1172 1194 1352 1413 1573 1697 1774 2459 2489 2780 3456 
+famous Variable_star.txt 1 5141 
+ss Variable_star.txt 1 893 
+pulsate Variable_star.txt 7 678 1124 1152 1510 2144 2589 2599 
+ordinary Variable_star.txt 1 4316 
+spectra Variable_star.txt 3 2656 2744 3721 
+lines Variable_star.txt 5 2671 3728 4490 4560 4877 
+orionis Variable_star.txt 3 3293 3299 3361 
+fraction Variable_star.txt 1 4030 
+explosively Variable_star.txt 1 4298 
+so Variable_star.txt 12 56 1784 1830 1913 2070 3338 3492 3494 4223 4528 5112 5344 
+speeds Variable_star.txt 2 4059 5012 
+fundamental Variable_star.txt 2 1112 1557 
+decreasing Variable_star.txt 1 720 
+1572 Variable_star.txt 1 176 
+geminiano Variable_star.txt 1 229 
+order Variable_star.txt 7 937 1704 2060 2492 2845 2916 3316 
+typical Variable_star.txt 2 1994 3119 
+ignite Variable_star.txt 1 4281 
+exclusive Variable_star.txt 1 1082 
+tagged Variable_star.txt 1 3499 
+evolutionary Variable_star.txt 1 3374 
+interpretation Variable_star.txt 1 585 
+feedback Variable_star.txt 1 1212 
+borealis Variable_star.txt 3 3571 3578 3656 
+september Variable_star.txt 1 1710 
+developed Variable_star.txt 1 864 
+over Variable_star.txt 15 86 333 447 1930 1935 2168 2254 2416 2738 3339 3625 3996 4088 4322 5208 
+dy Variable_star.txt 1 3663 
+vary Variable_star.txt 7 445 1088 1923 4822 4927 5076 5206 
+reflection Variable_star.txt 1 3305 
+years Variable_star.txt 7 106 2154 2742 3344 3454 3628 3920 
+supergiants Variable_star.txt 9 1694 2286 2372 2413 2640 2819 3385 3410 3634 
+thermal Variable_star.txt 1 2265 
+130 Variable_star.txt 1 2006 
+through Variable_star.txt 8 854 891 894 913 916 922 1278 3368 
+4 Variable_star.txt 1 4620 
+nitrogen Variable_star.txt 1 3724 
+left Variable_star.txt 1 4087 
+exchange Variable_star.txt 1 5199 
+its Variable_star.txt 16 34 240 430 583 619 623 637 709 744 1102 1312 1342 3050 3462 4220 4461 
+galaxy Variable_star.txt 1 3989 
+before Variable_star.txt 1 3619 
+astronomers Variable_star.txt 3 129 372 474 
+equator Variable_star.txt 1 4853 
+rapidly Variable_star.txt 4 288 2076 2083 2560 
+chandrasekhar Variable_star.txt 3 4021 4169 4200 
+termed Variable_star.txt 1 1766 
+28 Variable_star.txt 1 3214 
+hot Variable_star.txt 5 2542 2562 3244 3694 4601 
+decreases Variable_star.txt 1 727 
+actually Variable_star.txt 2 2695 3640 
+late Variable_star.txt 1 2902 
+estimating Variable_star.txt 1 507 
+detected Variable_star.txt 4 1715 4446 5024 5414 
+complex Variable_star.txt 3 1158 1990 4661 
+dwarfs Variable_star.txt 7 2922 3861 4476 4499 4524 4535 4557 
+convective Variable_star.txt 2 696 1420 
+clusters Variable_star.txt 2 1895 2051 
+weeks Variable_star.txt 2 2151 2835 
+main Variable_star.txt 51 835 1018 1522 1675 1757 1848 1950 2029 2081 2104 2130 2158 2277 2362 2400 2468 2530 2567 2628 2685 2807 2883 2924 3082 3095 3170 3205 3236 3296 3415 3513 3574 3686 3746 3793 3876 3931 4253 4370 4406 4512 4626 4678 4945 4985 5017 5067 5153 5188 5224 5323 
+decades Variable_star.txt 2 2258 4325 
+easier Variable_star.txt 1 738 
+split Variable_star.txt 1 1036 
+then Variable_star.txt 4 253 1422 3329 3846 
+them Variable_star.txt 2 714 1079 
+planetary Variable_star.txt 1 5360 
+thereby Variable_star.txt 2 760 1340 
+dim Variable_star.txt 1 3330 
+material Variable_star.txt 8 1277 1362 1394 3141 4480 4645 5289 5317 
+innermost Variable_star.txt 1 4462 
+pigott Variable_star.txt 1 1714 
+primary Variable_star.txt 1 2440 
+dav Variable_star.txt 1 2961 
+cet Variable_star.txt 1 2198 
+they Variable_star.txt 37 1086 1151 1786 1869 1896 1904 1971 1978 2052 2106 2173 2508 2588 2603 2620 2762 2793 3251 3328 3444 3496 3535 3595 3608 3638 3716 3828 4299 4612 4659 4703 4737 4855 4860 4900 5035 5296 
+cep Variable_star.txt 1 2475 
+not Variable_star.txt 10 185 885 1174 1862 2452 3160 3180 3588 4268 4803 
+rotation Variable_star.txt 4 2463 4893 5011 5041 
+echo Variable_star.txt 1 3948 
+transparent Variable_star.txt 2 733 1318 
+association Variable_star.txt 1 525 
+above Variable_star.txt 1 3530 
+easily Variable_star.txt 1 3393 
+term Variable_star.txt 1 3054 
+several Variable_star.txt 14 1530 1939 2153 2417 2420 2428 2741 2831 2834 3258 3703 3858 4347 4583 
+name Variable_star.txt 1 3157 
+designation Variable_star.txt 1 839 
+brightness Variable_star.txt 30 29 349 414 639 1030 2057 2201 2424 2761 3137 3199 3327 3472 3593 3603 3624 3831 3851 4701 4735 4789 4824 4831 4995 5033 5042 5078 5085 5136 5369 
+edit Variable_star.txt 72 93 339 387 588 834 947 997 1017 1521 1674 1756 1847 1949 2028 2080 2129 2157 2276 2361 2399 2467 2529 2566 2627 2684 2806 2882 2923 3012 3094 3129 3169 3204 3235 3295 3386 3414 3512 3573 3685 3745 3792 3875 3930 3958 4252 4369 4405 4511 4588 4625 4674 4691 4749 4752 4796 4843 4915 4939 4944 4984 5016 5066 5152 5187 5223 5271 5322 5362 5421 5423 5426 
+always Variable_star.txt 1 1833 
+classified Variable_star.txt 2 60 3631 
+fluctuate Variable_star.txt 1 3764 
+identified Variable_star.txt 2 135 247 
+doradus Variable_star.txt 4 2880 2886 2889 3425 
+explode Variable_star.txt 1 4042 
+ashes Variable_star.txt 1 4161 
+magnitude Variable_star.txt 13 36 510 1590 2063 2125 2205 2211 2584 2612 2652 3352 4366 5000 
+maraldi Variable_star.txt 1 261 
+instabilities Variable_star.txt 1 672 
+found Variable_star.txt 4 617 1536 2047 2101 
+transferring Variable_star.txt 1 5288 
+photometry Variable_star.txt 1 405 
+interfering Variable_star.txt 1 1166 
+characterized Variable_star.txt 1 3110 
+referred Variable_star.txt 2 1183 1899 
+significantly Variable_star.txt 1 4435 
+fairly Variable_star.txt 1 3405 
+energy Variable_star.txt 9 75 745 1224 1239 1265 1391 2231 3985 4047 
+strip Variable_star.txt 5 1376 1540 1581 2767 3533 
+spider Variable_star.txt 1 11 
+related Variable_star.txt 5 686 2262 2344 2788 4216 
+group Variable_star.txt 3 1527 1629 5333 
+impossible Variable_star.txt 1 5257 
+frequency Variable_star.txt 5 635 1113 1134 1178 1558 
+combining Variable_star.txt 2 364 589 
+our Variable_star.txt 1 78 
+synchronizes Variable_star.txt 1 4532 
+beyond Variable_star.txt 1 1631 
+ceti Variable_star.txt 4 144 2197 2964 3818 
+special Variable_star.txt 1 1075 
+category Variable_star.txt 1 1792 
+naked Variable_star.txt 1 4348 
+rv Variable_star.txt 2 2681 2687 
+1.5 Variable_star.txt 1 3769 
+rr Variable_star.txt 4 890 906 1844 1850 
+rs Variable_star.txt 2 3871 3878 
+robert Variable_star.txt 1 7 
+since Variable_star.txt 2 278 1085 
+rz Variable_star.txt 1 892 
+research Variable_star.txt 1 3086 
+increase Variable_star.txt 2 3489 3829 
+participants Variable_star.txt 1 534 
+categorised Variable_star.txt 1 4332 
+dominated Variable_star.txt 1 2993 
+com Variable_star.txt 1 4881 
+how Variable_star.txt 1 5073 
+non-fusible Variable_star.txt 1 4154 
+cause Variable_star.txt 3 674 3457 4579 
+correct Variable_star.txt 1 237 
+red Variable_star.txt 8 2166 2283 2369 2410 3647 3860 3951 4597 
+centauri Variable_star.txt 1 3867 
+berenices Variable_star.txt 1 4841 
+ionisation Variable_star.txt 2 1358 1367 
+fluctuates Variable_star.txt 1 37 
+interactions Variable_star.txt 1 3708 
+million Variable_star.txt 1 3999 
+galaxies Variable_star.txt 4 331 1625 1648 4236 
+little Variable_star.txt 1 2374 
+like Variable_star.txt 2 1780 4812 
+completely Variable_star.txt 2 1661 4122 
+bayer Variable_star.txt 1 888 
+brightest Variable_star.txt 2 2512 4359 
+intermediate Variable_star.txt 1 4408 
+detecting Variable_star.txt 1 337 
+unnamed Variable_star.txt 1 874 
+nebulae Variable_star.txt 3 1643 3306 4072 
+hubble Variable_star.txt 1 1633 
+g Variable_star.txt 5 251 259 2750 3369 4869 
+e.g Variable_star.txt 2 856 905 
+determining Variable_star.txt 1 1622 
+affects Variable_star.txt 1 4787 
+area Variable_star.txt 1 4774 
+days Variable_star.txt 9 102 1706 2015 2218 2422 2495 2723 2832 3908 
+david Variable_star.txt 1 165 
+turn Variable_star.txt 2 748 4786 
+american Variable_star.txt 1 524 
+massive Variable_star.txt 7 1690 3213 3518 3693 4135 4151 5292 
+w Variable_star.txt 6 867 1767 5268 5272 5318 5325 
+transfer Variable_star.txt 2 4185 4386 
+hence Variable_star.txt 2 1299 4854 
+undergo Variable_star.txt 7 1696 2486 3589 3825 4613 4660 5159 
+onto Variable_star.txt 1 4186 
+outwards Variable_star.txt 1 1243 
+convection Variable_star.txt 1 3048 
+first Variable_star.txt 8 131 845 872 883 986 1608 1722 5054 
+edward Variable_star.txt 1 1713 
+major Variable_star.txt 1 3800 
+scuti Variable_star.txt 6 1947 1953 1956 1995 2044 2099 
+cepheid Variable_star.txt 5 19 1524 1672 1678 1729 
+peculiar Variable_star.txt 1 2658 
+blown Variable_star.txt 1 4056 
+omitted Variable_star.txt 1 926 
+variables Variable_star.txt 81 336 424 509 933 1520 1566 1665 1673 1685 1730 1783 1846 1948 1958 2027 2045 2079 2100 2128 2138 2156 2163 2249 2275 2288 2340 2347 2360 2384 2398 2466 2476 2482 2572 2626 2683 2805 2815 2881 2891 3093 3167 3234 3241 3265 3270 3294 3362 3413 3426 3572 3584 3665 3672 3684 3744 3754 3819 3874 4404 4510 4521 4587 4624 4634 4682 4751 4842 4943 4955 4983 5080 5151 5158 5186 5195 5222 5232 5250 5270 5321 
+sn Variable_star.txt 1 4244 
+number Variable_star.txt 2 281 3023 
+one Variable_star.txt 13 452 1052 1090 1513 2908 3079 3997 4237 4305 5096 5126 5137 5162 
+well-known Variable_star.txt 3 2312 3261 4077 
+smaller Variable_star.txt 2 2435 5384 
+acoustic Variable_star.txt 1 1482 
+nova Variable_star.txt 5 163 4255 4354 4373 4401 
+another Variable_star.txt 2 1059 4648 
+ursae Variable_star.txt 2 5319 5326 
+radiate Variable_star.txt 1 743 
+wolfrayet Variable_star.txt 3 3683 3688 3690 
+size Variable_star.txt 1 1257 
+ultrashort Variable_star.txt 1 4669 
+given Variable_star.txt 3 842 1012 2615 
+ancient Variable_star.txt 2 95 192 
+temperature Variable_star.txt 4 721 1274 1343 2239 
+non-radial Variable_star.txt 2 1050 1065 
+leading Variable_star.txt 1 791 
+extrinsic Variable_star.txt 4 955 4671 4681 5079 
+0.01 Variable_star.txt 1 4967 
+system Variable_star.txt 2 860 4198 
+least Variable_star.txt 2 69 2335 
+t Variable_star.txt 3 3268 3273 3380 
+categories Variable_star.txt 2 5427 5429 
+their Variable_star.txt 34 411 973 1029 1193 1890 2016 2056 2511 2655 2706 2743 2779 2801 2827 2837 2904 2911 3312 3390 3525 3599 3622 3681 3782 4344 4742 4766 4776 4788 4978 5005 5084 5351 5372 
+2 Variable_star.txt 2 2074 3332 
+observations Variable_star.txt 4 386 532 587 5398 
+articles Variable_star.txt 1 3932 
+white Variable_star.txt 20 2921 2927 2954 4009 4109 4188 4309 4381 4427 4430 4458 4469 4475 4498 4523 4534 4556 4565 4640 4649 
+john Variable_star.txt 3 233 269 1747 
+0.010.2 Variable_star.txt 1 2014 
+gives Variable_star.txt 2 596 4390 
+sixteenth Variable_star.txt 1 211 
+persei Variable_star.txt 2 3664 5148 
+way Variable_star.txt 3 198 324 3071 
+relationship Variable_star.txt 4 1585 1606 1829 1911 
+that Variable_star.txt 26 142 180 603 658 662 673 968 1291 1541 1639 1650 2143 2303 3065 3178 3495 3673 3696 3763 4092 4224 4530 4899 4963 5113 5350 
+predictably Variable_star.txt 1 5207 
+highly Variable_star.txt 2 3888 4425 
+explanation Variable_star.txt 2 238 4889 
+shallow Variable_star.txt 1 2713 
+lists Variable_star.txt 1 315 
+g-mode Variable_star.txt 1 1505 
+larger Variable_star.txt 2 2557 3552 
+part Variable_star.txt 2 1053 1060 
+cyg Variable_star.txt 1 2814 
+too Variable_star.txt 3 1435 1445 4820 
+somewhat Variable_star.txt 3 1813 1819 1856 
+brightnesses Variable_star.txt 1 458 
+70 Variable_star.txt 1 4933 
+minutes Variable_star.txt 4 2116 2595 3030 3125 
+than Variable_star.txt 13 317 1803 1872 1884 2548 2769 2775 3993 4140 4437 4930 5338 5385 
+population Variable_star.txt 3 1687 1800 1878 
+11 Variable_star.txt 2 153 2181 
+10 Variable_star.txt 2 1711 4973 
+kind Variable_star.txt 1 2520 
+hundred Variable_star.txt 2 2418 3998 
+determines Variable_star.txt 1 1115 
+namesake Variable_star.txt 1 1733 
+showed Variable_star.txt 1 657 
+irregularly Variable_star.txt 1 3765 
+19 Variable_star.txt 1 3612 
+double Variable_star.txt 5 4196 4377 5184 5190 5193 
+largely Variable_star.txt 1 3479 
+photogenic Variable_star.txt 1 389 
+matter Variable_star.txt 7 3391 3780 4069 4207 4296 4312 4385 
+r Variable_star.txt 10 254 853 857 881 3569 3576 3651 3654 3657 3670 
+amplitude Variable_star.txt 5 431 1999 2498 2649 3019 
+were Variable_star.txt 4 267 849 1787 1972 
+k Variable_star.txt 3 2756 4871 4923 
+algol Variable_star.txt 7 125 227 5145 5150 5155 5157 5179 
+toward Variable_star.txt 1 627 
+pulsation Variable_star.txt 9 810 1100 1198 1382 1450 1461 1467 1487 2523 
+distinguished Variable_star.txt 1 5300 
+kilometers Variable_star.txt 1 4064 
+betelgeuse Variable_star.txt 1 2319 
+and Variable_star.txt 115 10 100 177 190 212 275 332 407 429 504 511 538 628 734 765 778 802 805 829 918 1026 1031 1044 1049 1101 1157 1258 1298 1303 1315 1334 1344 1477 1500 1518 1543 1588 1598 1613 1630 1691 1775 1822 1865 1912 1966 2010 2023 2117 2175 2180 2235 2412 2461 2556 2596 2613 2647 2669 2712 2724 2754 2836 2910 2969 2982 2987 2997 3007 3072 3284 3307 3370 3384 3401 3409 3441 3465 3502 3528 3534 3542 3550 3648 3709 3726 3845 3868 3894 3914 3937 4037 4043 4097 4175 4319 4442 4599 4610 4685 4705 4783 4809 4870 4872 4884 4926 5055 5263 5299 5377 5391 5403 5406 5411 
+cas Variable_star.txt 1 3753 
+thousandths Variable_star.txt 1 2122 
+shrinks Variable_star.txt 2 1045 1061 
+1.2 Variable_star.txt 1 2327 
+gas-dust Variable_star.txt 2 3226 3285 
+bounces Variable_star.txt 1 4036 
+unchanged Variable_star.txt 1 3480 
+modern Variable_star.txt 1 128 
+spectrum Variable_star.txt 4 362 557 621 1032 
+curves Variable_star.txt 3 421 591 5244 
+roughly Variable_star.txt 1 2216 
+kepler Variable_star.txt 1 5417 
+suns Variable_star.txt 1 4814 
+perseus Variable_star.txt 1 5183 
+have Variable_star.txt 19 67 1144 1175 1770 1812 1866 1906 2107 2604 2709 2933 3179 3252 3445 3497 3674 4351 5022 5081 
+collects Variable_star.txt 1 530 
+close Variable_star.txt 8 1436 2865 3884 3902 3909 4302 4756 5235 
+seen Variable_star.txt 5 31 4791 5087 5122 5387 
+seem Variable_star.txt 1 2854 
+apparently Variable_star.txt 1 4862 
+luminous Variable_star.txt 8 1692 1864 2547 2703 2774 3411 3417 3429 
+contents Variable_star.txt 1 91 
+relatively Variable_star.txt 1 3392 
+lie Variable_star.txt 1 2763 
+gcvs Variable_star.txt 1 2617 
+lib Variable_star.txt 1 4886 
+depending Variable_star.txt 2 1095 4339 
+4000 Variable_star.txt 1 3616 
+convenient Variable_star.txt 1 1084 
+latter Variable_star.txt 2 1791 4213 
+v777 Variable_star.txt 1 2976 
+able Variable_star.txt 1 375 
+gravity Variable_star.txt 1 1499 
+mechanism Variable_star.txt 2 1213 1563 
+contact Variable_star.txt 2 4909 5356 
+note Variable_star.txt 1 1649 
+also Variable_star.txt 16 355 726 1123 1905 1915 2193 3420 3813 3916 4181 4258 4277 4717 4731 5367 5420 
+high Variable_star.txt 8 1290 1397 1616 3447 3526 3547 4292 5010 
+causing Variable_star.txt 4 713 1179 4023 5132 
+best Variable_star.txt 3 3563 5057 5214 
+which Variable_star.txt 16 499 1114 1130 1279 1695 1837 1984 2320 2708 2852 3824 4289 4384 4417 4761 5200 
+interior Variable_star.txt 1 665 
+completed Variable_star.txt 1 3182 
+infalling Variable_star.txt 1 4206 
+even Variable_star.txt 1 450 
+towards Variable_star.txt 2 4167 4779 
+multiple Variable_star.txt 6 1155 2309 2387 2522 2601 3740 
+km/s Variable_star.txt 1 4850 
+though Variable_star.txt 1 441 
+andromedae Variable_star.txt 2 858 4586 
+who Variable_star.txt 1 869 
+troughs Variable_star.txt 1 468 
+transits Variable_star.txt 1 5361 
+most Variable_star.txt 14 65 341 680 2270 2702 3195 3428 3597 3629 3962 3972 4240 5099 5140 
+beta Variable_star.txt 11 276 1669 2464 2470 2473 2479 2550 5147 5220 5226 5229 
+regular Variable_star.txt 6 423 1351 1700 1772 3826 4393 
+letter Variable_star.txt 2 880 884 
+accreting Variable_star.txt 2 4311 4643 
+phase Variable_star.txt 5 708 1379 1458 3324 3375 
+alpha Variable_star.txt 3 2803 2809 2812 
+faint Variable_star.txt 2 2208 3821 
+america Variable_star.txt 1 4099 
+intrinsic Variable_star.txt 3 953 994 998 
+why Variable_star.txt 1 378 
+involving Variable_star.txt 1 4379 
+sunspots Variable_star.txt 2 3893 4695 
+so-called Variable_star.txt 1 1641 
+non-radially Variable_star.txt 2 2893 2930 
+chemistry Variable_star.txt 1 1260 
+observation Variable_star.txt 1 516 
+199178 Variable_star.txt 1 4883 
+average Variable_star.txt 1 2654 
+later Variable_star.txt 3 145 908 1752 
+flow Variable_star.txt 3 1263 1392 4551 
+brought Variable_star.txt 1 4712 
+spend Variable_star.txt 1 3596 
+formation Variable_star.txt 1 4503 
+1686 Variable_star.txt 1 249 
+dor Variable_star.txt 1 2890 
+everything Variable_star.txt 1 1069 
+maxima Variable_star.txt 1 466 
+typically Variable_star.txt 4 1509 2718 2842 2913 
+fact Variable_star.txt 1 1646 
+quantity Variable_star.txt 1 4048 
+pushed Variable_star.txt 1 4166 
+show Variable_star.txt 16 579 1980 2250 2290 2299 2414 3133 3308 3698 3739 4697 4732 4873 4964 5334 5368 
+absorbing Variable_star.txt 1 1296 
+swelling Variable_star.txt 2 707 804 
+delta Variable_star.txt 8 273 1611 1657 1683 1740 1946 1952 1955 
+lbvs Variable_star.txt 1 3487 
+discovered Variable_star.txt 3 272 848 1742 
+cvn Variable_star.txt 3 4623 4633 4954 
+bright Variable_star.txt 2 4715 4805 
+relation Variable_star.txt 2 1595 1778 
+superimposed Variable_star.txt 3 1982 2443 2729 
+earth Variable_star.txt 3 33 4793 5376 
+pulsars Variable_star.txt 2 5015 5021 
+longer Variable_star.txt 1 2554 
+dbv Variable_star.txt 1 2974 
+giant Variable_star.txt 5 3481 3650 4598 4864 5285 
+slow Variable_star.txt 5 2358 2364 3537 4335 4338 
+destruction Variable_star.txt 1 4272 
+explain Variable_star.txt 1 377 
+millennia Variable_star.txt 1 4329 
+enough Variable_star.txt 1 1329 
+short Variable_star.txt 2 2487 2934 
+helium-dominated Variable_star.txt 1 2980 
+only Variable_star.txt 5 1512 1655 2350 3808 5393 
+candidates Variable_star.txt 1 5413 
+eruptions Variable_star.txt 4 3400 3482 3553 3682 
+factor Variable_star.txt 1 2329 
+he Variable_star.txt 3 826 828 832 
+local Variable_star.txt 1 1628 
+astronomical Variable_star.txt 1 207 
+regularly Variable_star.txt 1 1546 
+do Variable_star.txt 6 476 1173 1804 3488 3587 4267 
+explosion Variable_star.txt 2 4004 4125 
+p-mode Variable_star.txt 2 1490 2622 
+means Variable_star.txt 1 301 
+explosions Variable_star.txt 1 4263 
+mainly Variable_star.txt 2 2048 2225 
+photography Variable_star.txt 1 303 
+chromosphere Variable_star.txt 1 4819 
+designated Variable_star.txt 2 850 980 
+lucky Variable_star.txt 1 99 
+enhanced Variable_star.txt 1 3899 
+divisions Variable_star.txt 1 1010 
+orbiting Variable_star.txt 2 3228 3287 
+b Variable_star.txt 6 2538 2564 2570 2586 2823 3758 
+nearly Variable_star.txt 1 5170 
+subgroups Variable_star.txt 2 957 1577 
+despite Variable_star.txt 1 3155 
+combinations Variable_star.txt 2 930 1254 
+during Variable_star.txt 2 2513 3356 
+secondary Variable_star.txt 2 2396 2406 
+qq Variable_star.txt 1 921 
+establish Variable_star.txt 1 4231 
+heinlein Variable_star.txt 1 9 
+premain-sequence Variable_star.txt 2 3172 3245 
+luminosity Variable_star.txt 19 73 1617 1777 1821 1828 1934 2009 2068 2190 2333 2507 3313 3477 3491 3527 3636 3774 4210 4936 
+areas Variable_star.txt 4 3083 4707 4740 4811 
+qz Variable_star.txt 1 923 
+shape Variable_star.txt 1 4859 
+fast-rotating Variable_star.txt 1 3757 
+crb Variable_star.txt 3 3652 3658 3671 
+subtype Variable_star.txt 1 3262 
+intervals Variable_star.txt 2 3452 3607 
+common Variable_star.txt 6 342 681 1891 3406 3807 5100 
+activity Variable_star.txt 1 3923 
+fainter Variable_star.txt 1 1965 
+distant Variable_star.txt 1 1647 
+fixed Variable_star.txt 1 1584 
+where Variable_star.txt 3 1039 1051 4638 
+inside Variable_star.txt 1 1474 
+chromospheres Variable_star.txt 1 3890 
+view Variable_star.txt 2 497 4714 
+fields Variable_star.txt 3 4938 4980 5007 
+temporarily Variable_star.txt 1 780 
+observer Variable_star.txt 2 4746 4781 
+maximum Variable_star.txt 2 2752 3602 
+observed Variable_star.txt 5 174 369 1843 3483 4094 
+edition Variable_star.txt 1 306 
+see Variable_star.txt 2 13 5419 
+are Variable_star.txt 97 59 373 401 463 469 502 553 561 899 931 934 959 969 979 1011 1034 1644 1653 1686 1855 1861 1870 1897 1914 1959 2046 2139 2164 2224 2282 2341 2368 2380 2442 2451 2509 2541 2614 2621 2637 2657 2672 2691 2745 2781 2794 2816 2841 2856 2892 2906 3044 3066 3159 3164 3175 3242 3266 3363 3371 3521 3630 3639 3645 3666 3692 3755 3862 3883 3960 4055 4257 4331 4376 4396 4413 4464 4593 4635 4676 4711 4754 4762 4856 4861 4879 4901 4919 4956 5044 5233 5251 5297 5343 5353 5382 5392 
+oxygen Variable_star.txt 2 2998 3727 
+cyclotron Variable_star.txt 1 4571 
+stanley Variable_star.txt 1 655 
+calendar Variable_star.txt 1 97 
+constellation Variable_star.txt 4 843 878 2870 5182 
+outward Variable_star.txt 1 1262 
+2.5 Variable_star.txt 4 2179 2330 3351 3614 
+surfaces Variable_star.txt 2 4743 5352 
+progenitor Variable_star.txt 1 4275 
+gravitation Variable_star.txt 1 4768 
+interacting Variable_star.txt 1 4414 
+02652-01324 Variable_star.txt 1 5405 
+pictures Variable_star.txt 1 572 
+away Variable_star.txt 2 629 4057 
+nebula Variable_star.txt 5 17 398 3190 4082 4086 
+wikipedia Variable_star.txt 1 2 
+propagates Variable_star.txt 1 1242 
+nebulosity Variable_star.txt 1 3250 
+catalogue Variable_star.txt 1 310 
+semiregular Variable_star.txt 5 2274 2279 2287 2316 2383 
+lose Variable_star.txt 1 3389 
+between Variable_star.txt 7 1586 1596 2021 2178 2233 4387 5375 
+affecting Variable_star.txt 1 1028 
+nuclear Variable_star.txt 1 1230 
+conditions Variable_star.txt 1 4294 
+semi-regular Variable_star.txt 2 2339 3136 
+15th Variable_star.txt 1 2583 
+discovery Variable_star.txt 5 92 117 170 200 939 
+europe Variable_star.txt 1 2485 
+variability Variable_star.txt 12 241 338 345 354 1717 3210 3271 3397 3677 3699 3802 3904 
+we Variable_star.txt 1 4829 
+low-mass Variable_star.txt 1 4419 
+explosive Variable_star.txt 2 3161 3927 
+historical Variable_star.txt 1 113 
+rotating Variable_star.txt 3 3710 4683 4688 
+eye Variable_star.txt 1 4349 
+initially Variable_star.txt 1 1785 
+omicron Variable_star.txt 2 143 2196 
+emitted Variable_star.txt 1 47 
+weak Variable_star.txt 2 1446 2661 
+however Variable_star.txt 1 1731 
+ascribed Variable_star.txt 1 2457 
+spectroscopic Variable_star.txt 1 3543 
+death Variable_star.txt 1 4131 
+sheliak Variable_star.txt 1 5241 
+recent Variable_star.txt 1 4362 
+outer Variable_star.txt 4 695 710 3051 4050 
+hours Variable_star.txt 2 1940 2075 
+10th Variable_star.txt 1 2210 
+irregular Variable_star.txt 7 2359 2365 2855 3134 3198 3253 3606 
+many Variable_star.txt 10 63 438 1981 2171 2408 2516 2862 3343 4061 4137 
+lyrae Variable_star.txt 7 277 907 1845 1851 5221 5227 5230 
+helioseismology Variable_star.txt 1 3039 
+nomenclature Variable_star.txt 2 833 862 
+contract Variable_star.txt 1 755 
+emit Variable_star.txt 2 3982 4044 
+characterised Variable_star.txt 1 5298 
+s Variable_star.txt 1 3424 
+became Variable_star.txt 1 294 
+present Variable_star.txt 1 4738 
+nonradially Variable_star.txt 1 2817 
+long-term Variable_star.txt 1 2736 
+behaviour Variable_star.txt 1 4342 
+passing Variable_star.txt 1 1282 
+whole Variable_star.txt 1 1048 
+nearby Variable_star.txt 1 3859 
+reside Variable_star.txt 1 3303 
+minima Variable_star.txt 3 472 2714 5165 
+magnetically Variable_star.txt 1 4465 
+timescale Variable_star.txt 1 3561 
+periodic Variable_star.txt 5 3590 3676 5185 5191 5194 
+simple Variable_star.txt 1 1498 
+sky Variable_star.txt 1 183 
+cepheid-like Variable_star.txt 2 1519 1572 
+each Variable_star.txt 4 1574 5266 5348 5358 
+period Variable_star.txt 29 426 453 1117 1139 1148 1587 1597 1826 1937 2012 2127 2133 2137 2214 2252 2256 2293 2397 2488 2643 3341 3359 3913 4433 4441 4537 4542 5204 5212 
+community Variable_star.txt 1 545 
+2nd Variable_star.txt 2 2204 4365 
+maintained Variable_star.txt 1 808 
+thermonuclear Variable_star.txt 1 4287 
+simply Variable_star.txt 1 2392 
+exhibits Variable_star.txt 1 2521 
+article Variable_star.txt 47 836 1019 1523 1676 1758 1849 1951 2030 2082 2131 2159 2278 2363 2401 2469 2531 2568 2629 2686 2808 2884 2925 3096 3171 3206 3237 3297 3416 3514 3575 3687 3747 3794 3877 4254 4371 4407 4513 4627 4946 4986 5018 5068 5154 5189 5225 5324 
+proved Variable_star.txt 1 179 
+circumstellar Variable_star.txt 2 3231 3290 
+mission Variable_star.txt 1 5418 
+along Variable_star.txt 2 4486 4554 
+considering Variable_star.txt 1 1078 
+v361 Variable_star.txt 1 2580 
+companion Variable_star.txt 3 3903 4193 5110 
+light Variable_star.txt 17 48 55 365 420 461 548 590 1773 1991 2753 2850 3947 4221 4345 5027 5172 5243 
+described Variable_star.txt 2 160 222 
+fabricius Variable_star.txt 1 166 
+carina Variable_star.txt 1 397 
+herculis Variable_star.txt 3 4403 4411 4509 
+a-type Variable_star.txt 1 1921 
+disintegrate Variable_star.txt 1 4121 
+create Variable_star.txt 3 1411 1448 1455 
+v838 Variable_star.txt 1 3955 
+due Variable_star.txt 13 1888 2226 3224 3277 3398 3523 3545 3701 3775 4764 4974 5008 5091 
+been Variable_star.txt 4 159 3498 4352 5023 
+johannes Variable_star.txt 1 139 
+defined Variable_star.txt 1 1177 
+reduction Variable_star.txt 1 5134 
+much Variable_star.txt 8 1779 1816 1964 1968 2434 3493 3984 5383 
+slowly Variable_star.txt 4 446 2525 2532 2536 
+combined Variable_star.txt 2 171 3554 
+basic Variable_star.txt 1 2786 
+indicators Variable_star.txt 1 1919 
+pre-white Variable_star.txt 1 2957 
+prototype Variable_star.txt 6 974 2574 2875 3661 5174 5276 
+thousandfold Variable_star.txt 1 2187 
+500 Variable_star.txt 1 1931 
+systems Variable_star.txt 5 3886 4304 4412 4592 5305 
+life Variable_star.txt 2 3378 4148 
+partly Variable_star.txt 1 52 
+fade Variable_star.txt 3 2174 3610 3847 
+observable Variable_star.txt 1 3560 
+quantities Variable_star.txt 1 443 
+thousand Variable_star.txt 1 2421 
+formed Variable_star.txt 1 4158 
+gas Variable_star.txt 8 731 758 775 785 789 3189 3711 4609 
+cyclical Variable_star.txt 1 5197 
+locations Variable_star.txt 1 1246 
+observers Variable_star.txt 2 529 5090 
+dramatic Variable_star.txt 3 2251 3963 4262 
+0.11 Variable_star.txt 1 2645 
+representative Variable_star.txt 1 1724 
+angles Variable_star.txt 1 5125 
+brightening Variable_star.txt 1 3990 
+suspected Variable_star.txt 1 335 
+companions Variable_star.txt 1 5390 
+an Variable_star.txt 19 87 94 1206 1481 1988 1998 2497 2648 3357 3373 3559 3854 3987 4065 4133 4451 4505 4546 4655 
+spin Variable_star.txt 2 4432 4536 
+hidden Variable_star.txt 1 5428 
+those Variable_star.txt 3 928 3163 5386 
+case Variable_star.txt 1 1076 
+3,200 Variable_star.txt 1 105 
+novel Variable_star.txt 1 5 
+supernovae Variable_star.txt 8 173 3957 3959 4126 4226 4242 4266 4279 
+gradual Variable_star.txt 1 3309 
+these Variable_star.txt 28 442 577 956 1009 1515 1853 1920 2034 2087 2281 2367 2690 2929 3034 3076 3158 3301 3517 3585 3882 4053 4225 4519 4589 4753 4844 5028 5380 
+ejection Variable_star.txt 1 3778 
+single Variable_star.txt 2 1146 4863 
+expelled Variable_star.txt 1 4068 
+will Variable_star.txt 3 749 1425 1443 
+while Variable_star.txt 6 467 1058 1659 2663 3580 3737 
+suppose Variable_star.txt 1 701 
+eclipses Variable_star.txt 2 3918 5160 
+taking Variable_star.txt 1 152 
+periods Variable_star.txt 29 1167 1701 1868 1970 1983 2112 2146 2169 2310 2388 2407 2524 2555 2591 2602 2720 2739 2828 2866 2905 2935 3027 3120 3254 3741 4323 4670 5168 5335 
+layer Variable_star.txt 4 1288 1292 1307 1472 
+studied Variable_star.txt 2 2382 4241 
+planets Variable_star.txt 3 5365 5373 5410 
+eventually Variable_star.txt 1 1310 
+almost Variable_star.txt 3 2203 5256 5354 
+blap Variable_star.txt 3 3092 3097 3105 
+is Variable_star.txt 63 25 382 568 616 685 704 759 763 807 813 1083 1108 1131 1160 1195 1221 1281 1289 1383 1479 1497 1502 1567 1666 1737 1832 1841 2019 2318 2432 2579 2873 3036 3057 3078 3106 3220 3276 3404 3478 3566 3659 3803 3806 4005 4083 4157 4165 4202 4215 4243 4434 4527 4552 4642 4802 4898 5060 5104 5144 5178 5217 5274 
+chromospheric Variable_star.txt 1 4875 
+thus Variable_star.txt 2 735 797 
+it Variable_star.txt 22 293 567 737 762 792 1241 1280 1297 1300 1309 1322 1327 1831 2431 3154 3805 4172 4174 4492 4531 4562 5255 
+surface Variable_star.txt 8 584 624 1430 1439 3283 4710 4777 4798 
+canum Variable_star.txt 6 3872 3879 4629 4941 4948 4952 
+ii Variable_star.txt 9 1754 1760 1763 1794 1801 1811 1879 1886 2777 
+cluster Variable_star.txt 1 1902 
+itself Variable_star.txt 1 2192 
+properties Variable_star.txt 1 4218 
+in Variable_star.txt 118 46 72 136 149 167 175 196 231 242 248 256 321 329 348 357 360 395 413 459 563 605 618 650 689 694 705 747 783 820 840 876 936 989 1001 1125 1168 1199 1214 1233 1350 1370 1469 1491 1511 1645 1893 1933 2008 2049 2055 2058 2067 2147 2189 2200 2244 2332 2354 2484 2490 2506 2634 2868 3020 3041 3049 3062 3068 3087 3148 3229 3249 3288 3304 3311 3314 3376 3484 3592 3678 3730 3773 3797 3830 3840 3852 3975 4028 4095 4100 4123 4194 4246 4270 4301 4360 4383 4416 4494 4518 4605 4700 4734 4785 4823 4858 4935 4977 4991 5004 5025 5032 5077 5083 5135 5180 5331 5355 
+ia Variable_star.txt 1 2826 
+carbon Variable_star.txt 3 2668 2996 3725 
+34 Variable_star.txt 1 2727 
+helium Variable_star.txt 8 824 1369 2670 2679 2790 2995 3723 4652 
+around Variable_star.txt 5 535 2907 3028 3713 4456 
+orbital Variable_star.txt 5 3912 4440 4541 4580 5203 
+binary Variable_star.txt 11 124 3707 3885 4303 4439 4540 4591 4910 5069 5109 5119 
+different Variable_star.txt 4 2356 2798 3506 3704 
+az Variable_star.txt 1 914 
+cools Variable_star.txt 2 1311 1328 
+make Variable_star.txt 2 571 750 
+belong Variable_star.txt 2 1797 3432 
+radiation Variable_star.txt 5 779 1267 1295 1320 4572 
+same Variable_star.txt 4 493 634 2785 3070 
+clearly Variable_star.txt 1 2453 
+shorter Variable_star.txt 4 1138 1867 1969 4436 
+compact Variable_star.txt 1 5294 
+eta Variable_star.txt 2 392 1719 
+novae Variable_star.txt 8 978 4251 4256 4280 4330 4350 4368 4375 
+classed Variable_star.txt 1 3581 
+heavier Variable_star.txt 1 4139 
+document Variable_star.txt 1 114 
+grows Variable_star.txt 1 1301 
+neutron Variable_star.txt 2 4115 5029 
+higher Variable_star.txt 1 1133 
+visually Variable_star.txt 1 484 
+used Variable_star.txt 6 886 900 910 1634 3058 4229 
+centuries Variable_star.txt 2 215 4327 
+main-sequence Variable_star.txt 6 2543 2895 3798 3822 4657 4957 
+swell Variable_star.txt 2 1025 1542 
+blue Variable_star.txt 6 3098 3102 3412 3418 3649 4602 
+hand Variable_star.txt 1 2667 
+driven Variable_star.txt 2 817 3045 
+v1057 Variable_star.txt 1 3345 
+dust Variable_star.txt 1 4611 
+changing Variable_star.txt 2 638 5253 
+expand Variable_star.txt 3 712 794 1057 
+cycle Variable_star.txt 5 90 151 799 1347 2267 
+numbered Variable_star.txt 1 935 
+209458 Variable_star.txt 1 5402 
+lower Variable_star.txt 4 1814 1817 1820 1882 
+ellipsoidal Variable_star.txt 3 4728 4750 4857 
+ae/be Variable_star.txt 3 3202 3208 3218 
+modes Variable_star.txt 2 1516 3025 
+older Variable_star.txt 2 1799 1871 
+i Variable_star.txt 4 1688 1807 1874 2771 
+makes Variable_star.txt 4 729 736 773 1614 
+1975 Variable_star.txt 1 4356 
+0.10.6 Variable_star.txt 1 2494 
+well Variable_star.txt 4 326 435 1592 1908 
+1604 Variable_star.txt 1 178 
+analysis Variable_star.txt 1 1159 
+thought Variable_star.txt 2 2259 3221 
+gsc Variable_star.txt 1 5404 
+1 Variable_star.txt 3 2072 2502 4971 
+comae Variable_star.txt 2 4840 4896 
+components Variable_star.txt 1 4759 
+position Variable_star.txt 1 3529 
+the Variable_star.txt 293 4 54 74 110 116 122 127 130 155 181 199 206 210 216 224 236 280 304 308 322 340 361 396 425 455 460 486 492 500 508 513 523 536 540 543 547 550 556 558 601 633 651 659 664 679 690 699 702 706 719 722 730 740 751 757 766 774 784 788 809 821 844 871 879 882 902 942 985 990 1002 1022 1040 1055 1093 1097 1105 1116 1119 1164 1171 1187 1218 1222 1226 1248 1261 1271 1276 1284 1294 1306 1338 1346 1357 1361 1366 1374 1377 1386 1389 1408 1415 1429 1432 1438 1440 1451 1456 1466 1494 1538 1549 1556 1560 1576 1579 1602 1604 1615 1627 1640 1651 1703 1716 1721 1726 1732 1738 1781 1790 1805 1809 1993 2059 2103 2135 2148 2219 2228 2238 2241 2264 2269 2338 2349 2423 2437 2444 2491 2549 2573 2616 2665 2701 2765 2784 2844 2849 2859 2869 2874 2915 2960 2970 2983 3013 3031 3042 3053 3069 3073 3081 3088 3145 3156 3165 3183 3230 3267 3281 3289 3315 3377 3423 3427 3438 3458 3466 3475 3490 3531 3562 3660 3714 3777 3787 3810 3816 3901 3911 3943 3946 3954 3961 3971 3976 4002 4020 4024 4039 4049 4067 4084 4102 4105 4108 4124 4130 4141 4144 4147 4168 4199 4205 4208 4232 4239 4247 4259 4271 4274 4283 4314 4341 4358 4361 4388 4429 4438 4457 4468 4474 4479 4482 4487 4497 4502 4522 4533 4539 4549 4555 4564 4575 4709 4720 4745 4758 4770 4773 4780 4797 4800 4813 4817 4826 4852 4891 4902 4905 5039 5053 5056 5061 5098 5105 5114 5130 5139 5173 5181 5202 5213 5239 5242 5260 5275 5302 5329 5341 5378 5409 5416 
+hydrae Variable_star.txt 2 255 2581 
+cepheids Variable_star.txt 20 812 1517 1612 1618 1652 1681 1736 1755 1761 1764 1795 1808 1859 1875 1887 1903 1962 1977 2772 2778 
+359 Variable_star.txt 1 3870 
+latest Variable_star.txt 1 305 
+distances Variable_star.txt 1 1623 
+just Variable_star.txt 2 1236 3841 
+less Variable_star.txt 5 2300 2546 3857 4929 5337 
+being Variable_star.txt 8 1842 2352 2455 3142 3151 3968 4307 4357 
+when Variable_star.txt 4 138 292 1283 5121 
+significant Variable_star.txt 1 4698 
+half Variable_star.txt 1 3853 
+1784 Variable_star.txt 2 243 1712 
+non-spherical Variable_star.txt 2 4747 4763 
+1786 Variable_star.txt 1 263 
+verses Variable_star.txt 1 1827 
+solar-like Variable_star.txt 2 3010 3055 
+stored Variable_star.txt 1 1238 
+identify Variable_star.txt 1 297 
+dimmed Variable_star.txt 1 3349 
+using Variable_star.txt 2 404 1192 
+followed Variable_star.txt 1 3320 
+rotates Variable_star.txt 1 4828 
+yet Variable_star.txt 1 3181 
+captured Variable_star.txt 2 782 4472 
+eleven-year Variable_star.txt 1 3358 
+onset Variable_star.txt 2 4285 5262 
+polar Variable_star.txt 2 4409 4514 
+rapid Variable_star.txt 5 2109 2439 3788 4892 5040 
+density Variable_star.txt 2 1272 1600 
+hundredths Variable_star.txt 1 2609 
+extra Variable_star.txt 1 2673 
+had Variable_star.txt 2 157 194 
+accretes Variable_star.txt 1 4493 
+scorpii Variable_star.txt 1 5219 
+day Variable_star.txt 4 1943 2646 2909 5340 
+friedrich Variable_star.txt 1 866 
+onwards Variable_star.txt 1 945 
+combine Variable_star.txt 1 1985 
+location Variable_star.txt 1 1103 
+collapse Variable_star.txt 2 4027 4035 
+line-type Variable_star.txt 1 3761 
+has Variable_star.txt 5 286 1582 1997 2719 4807 
+excited Variable_star.txt 1 3067 
+periodicity Variable_star.txt 2 2378 4450 
+gave Variable_star.txt 2 235 870 
+resolved Variable_star.txt 1 2307 
+eternally Variable_star.txt 1 186 
+photometric Variable_star.txt 2 3541 4449 
+hydrogen-dominated Variable_star.txt 1 2967 
+increased Variable_star.txt 1 287 
+cassiopeiae Variable_star.txt 4 3568 3743 3749 3752 
+showing Variable_star.txt 1 3942 
+possible Variable_star.txt 3 295 569 4888 
+harmonic Variable_star.txt 2 1127 2357 
+early Variable_star.txt 1 213 
+possibly Variable_star.txt 3 64 2348 3372 
+increases Variable_star.txt 5 771 3310 3469 3473 3591 
+sudden Variable_star.txt 1 4284 
+non-degenerate Variable_star.txt 1 1471 
+0.4 Variable_star.txt 1 3116 
+world Variable_star.txt 1 537 
+accurate Variable_star.txt 1 5397 
+332 Variable_star.txt 1 2217 
+advanced Variable_star.txt 1 2271 
+virginis Variable_star.txt 1 1768 
+atmospheres Variable_star.txt 3 2968 2981 2992 
+loss Variable_star.txt 4 3403 3449 3468 3549 
+rotate Variable_star.txt 4 4704 4772 4846 5036 
+presented Variable_star.txt 1 4778 
+d Variable_star.txt 1 260 
+lost Variable_star.txt 1 3143 
+cooler Variable_star.txt 1 2768 
+starry Variable_star.txt 1 182 
+external Variable_star.txt 2 5094 5424 
+disks Variable_star.txt 2 3232 3291 
+pole Variable_star.txt 1 4570 
+universe Variable_star.txt 1 3977 
+specific Variable_star.txt 1 963 
+arthur Variable_star.txt 1 654 
+unstable Variable_star.txt 1 3522 
+either Variable_star.txt 4 62 952 4112 4647 
+cygnus Variable_star.txt 1 2872 
+region Variable_star.txt 1 4577 
+output Variable_star.txt 2 76 2232 
+0.010.3 Variable_star.txt 1 2500 
+hypergiants Variable_star.txt 2 3439 3511 
+overtone Variable_star.txt 1 1129 
+mathematical Variable_star.txt 1 660 
+optically Variable_star.txt 1 5013 
+exceed Variable_star.txt 1 3461 
+because Variable_star.txt 3 622 717 5037 
+often Variable_star.txt 8 374 595 1150 1979 2298 2385 2433 2853 
+classical Variable_star.txt 4 1671 1677 1680 1735 
+sequence Variable_star.txt 1 2105 
+variously Variable_star.txt 1 2456 
+herbig Variable_star.txt 3 3201 3207 3217 
+some Variable_star.txt 13 70 104 1062 1169 1234 2336 2379 3149 3731 3969 4619 4998 5093 
+back Variable_star.txt 3 830 1336 3848 
+pnnv Variable_star.txt 1 3008 
+driving Variable_star.txt 2 1208 1219 
+separated Variable_star.txt 1 5166 
+understood Variable_star.txt 1 2454 
+astronomer Variable_star.txt 1 653 
+examples Variable_star.txt 4 1005 3436 4878 5399 
+nova-like Variable_star.txt 1 4614 
+oscillations Variable_star.txt 9 688 819 2863 3011 3035 3040 3056 3061 3077 
+star Variable_star.txt 81 1 15 24 27 121 133 156 219 381 385 391 487 528 608 615 668 676 700 703 741 752 838 988 1042 1056 1106 1120 1201 1227 1339 1409 1476 1603 1739 1840 1996 2086 2242 2404 2535 2571 2587 2680 3109 3146 3173 3194 3300 3459 3662 3689 3715 3796 3935 3940 3953 4013 4040 4106 4116 4136 4152 4192 4197 4276 4317 4420 4517 4603 4631 4653 4658 4801 4827 5070 5111 5120 5127 5240 5295 5379 
+classes Variable_star.txt 2 2822 2899 
+reasons Variable_star.txt 2 2445 5101 
+energetic Variable_star.txt 1 3973 
+scales Variable_star.txt 1 3905 
+shapes Variable_star.txt 1 4729 
+dense Variable_star.txt 1 1333 
+both Variable_star.txt 1 3646 
+for Variable_star.txt 21 3 80 422 437 609 612 739 901 975 1364 1564 1571 1610 1621 1656 1734 2446 3347 3394 4890 5102 
+1850 Variable_star.txt 1 279 
+broad Variable_star.txt 1 3718 
+oscillates Variable_star.txt 1 3015 
+measurements Variable_star.txt 1 409 
+recorded Variable_star.txt 1 4353 
+0.22 Variable_star.txt 1 1926 
+constantly Variable_star.txt 1 5252 
+v335 Variable_star.txt 1 944 
+20 Variable_star.txt 3 1928 3122 3994 
+hotter Variable_star.txt 1 1302 
+closely Variable_star.txt 2 2343 5345 
+restoring Variable_star.txt 3 1441 1452 1495 
+mode Variable_star.txt 1 1485 
+be Variable_star.txt 25 41 109 221 416 433 521 648 816 951 1203 1426 1444 1463 1744 2261 2306 2393 2735 3003 3223 3504 3735 3898 4228 4445 
+process Variable_star.txt 1 3184 
+object Variable_star.txt 1 4025 
+scientific Variable_star.txt 2 478 544 
+goodricke Variable_star.txt 3 234 270 1748 
+reaching Variable_star.txt 2 4015 4364 
+acronym Variable_star.txt 1 2618 
+uniformly Variable_star.txt 1 4804 
+radial Variable_star.txt 2 1038 1071 
+oscillating Variable_star.txt 2 2077 2084 
+analysed Variable_star.txt 1 403 
+expansion Variable_star.txt 5 801 1378 1416 1433 3944 
+stellar Variable_star.txt 7 575 1020 1190 2462 3282 4794 5389 
+pressure Variable_star.txt 3 1464 1484 4293 
+remnants Variable_star.txt 1 4075 
+shifting Variable_star.txt 2 620 2229 
+although Variable_star.txt 3 2430 3474 3637 
+instability Variable_star.txt 6 684 1375 1539 1580 2766 3532 
+pv Variable_star.txt 2 2624 2630 
+periodically Variable_star.txt 1 625 
+bz Variable_star.txt 1 917 
+stage Variable_star.txt 2 2704 2799 
+fk Variable_star.txt 3 4839 4880 4895 
+on Variable_star.txt 17 582 1096 1247 1373 1537 1578 1702 1709 2102 2294 2653 2664 2730 3280 3558 4340 5313 
+about Variable_star.txt 6 84 640 1925 2005 2064 2323 
+rare Variable_star.txt 1 2577 
+pulsated Variable_star.txt 1 148 
+a0 Variable_star.txt 1 2022 
+of Variable_star.txt 197 77 98 115 118 126 201 209 239 282 302 307 311 344 353 410 427 480 496 498 515 526 573 586 642 666 683 692 698 718 724 768 800 811 823 861 938 965 1006 1054 1099 1118 1189 1225 1255 1264 1275 1286 1360 1368 1380 1388 1407 1459 1486 1514 1529 1532 1575 1601 1664 1705 1718 1725 1728 1839 1881 1938 2000 2013 2036 2061 2089 2098 2113 2119 2123 2150 2170 2215 2230 2240 2257 2268 2314 2337 2449 2493 2499 2518 2575 2592 2606 2610 2644 2650 2677 2705 2721 2726 2740 2746 2800 2820 2839 2843 2846 2861 2871 2876 2897 2914 2917 2936 2940 2945 2952 3024 3033 3075 3080 3084 3090 3113 3121 3185 3211 3257 3263 3272 3317 3325 3342 3364 3379 3453 3508 3598 3669 3779 3945 3949 3965 3970 4031 4052 4060 4063 4079 4104 4132 4146 4149 4211 4219 4238 4261 4273 4286 4324 4343 4399 4504 4544 4582 4595 4608 4618 4680 4708 4723 4741 4760 4775 4799 4833 4837 4894 4904 4907 4920 4959 4966 4997 5038 5097 5107 5138 5169 5175 5245 5248 5265 5277 5280 5316 5336 5408 
+months Variable_star.txt 5 154 1708 1751 2172 3626 
+ranges Variable_star.txt 1 3906 
+recognized Variable_star.txt 1 987 
+merger Variable_star.txt 1 4906 
+mutually Variable_star.txt 1 1081 
+range Variable_star.txt 2 2149 2829 
+a2 Variable_star.txt 1 2039 
+wolf Variable_star.txt 1 3869 
+together Variable_star.txt 1 5116 
+mean Variable_star.txt 1 1599 
+slightly Variable_star.txt 2 1824 2545 
+or Variable_star.txt 36 49 449 954 1092 1111 1128 1273 1483 1682 1944 2069 2093 2285 2371 2375 2749 2757 2956 2962 2975 3135 3147 3337 3856 3926 4011 4107 4120 4328 4336 4654 4663 4924 5146 5163 5286 
+gamma Variable_star.txt 6 2879 2885 2888 3742 3748 3751 
+allowing Variable_star.txt 1 1321 
+carinae Variable_star.txt 2 393 3440 
+own Variable_star.txt 1 1551 
+letters Variable_star.txt 3 852 889 911 
+rho Variable_star.txt 1 3567 
+presence Variable_star.txt 1 5106 
+previously Variable_star.txt 2 158 873 
+into Variable_star.txt 6 962 1037 1337 2308 3005 4713 
+within Variable_star.txt 4 491 1008 1104 1626 
+0.0030.9 Variable_star.txt 1 2001 
+three Variable_star.txt 1 4397 
+geminorum Variable_star.txt 2 982 993 
+north Variable_star.txt 1 4098 
+tiny Variable_star.txt 1 2943 
+determine Variable_star.txt 2 1163 5259 
+heated Variable_star.txt 1 764 
+next Variable_star.txt 2 456 903 
+shrinking Variable_star.txt 1 806 
+mass Variable_star.txt 12 1552 1818 1883 2697 3216 3402 3448 3467 3548 4184 4422 5198 
+travels Variable_star.txt 1 4485 
+per Variable_star.txt 1 5149 
+large-amplitude Variable_star.txt 2 3099 3103 
+fast Variable_star.txt 3 4334 4848 5046 
+compression Variable_star.txt 1 803 
+her Variable_star.txt 1 2977 
+comparing Variable_star.txt 1 485 
+1638 Variable_star.txt 1 137 
+extremely Variable_star.txt 8 1771 1989 2108 4134 4847 5045 5234 5396 
+there Variable_star.txt 5 1107 2733 3644 4395 4675 
+spiral Variable_star.txt 1 1642 
+spots Variable_star.txt 5 581 3279 4716 4795 4816 
+noticed Variable_star.txt 1 141 
+semi-detached Variable_star.txt 1 5281 
+start Variable_star.txt 1 753 
+detectable Variable_star.txt 2 2377 5394 
+sub-class Variable_star.txt 1 2097 
+low Variable_star.txt 2 2696 3018 
+stars Variable_star.txt 102 21 58 66 203 266 285 299 313 320 400 440 482 490 645 847 949 967 983 996 1016 1024 1121 1142 1217 1372 1508 1534 1550 1769 1796 1802 1854 1922 2035 2088 2142 2273 2517 2528 2540 2544 2552 2565 2633 2694 2699 2896 2932 2965 2978 2990 3001 3009 3064 3128 3132 3203 3209 3219 3246 3275 3302 3382 3388 3430 3520 3586 3642 3653 3691 3695 3732 3762 3791 3799 3812 3823 3864 3929 4054 4378 4673 4684 4687 4690 4692 4725 4726 4748 4771 4818 4845 4865 4897 4914 4918 4958 4990 5030 5330 5342 5363 
+exceptional Variable_star.txt 1 3804 
+was Variable_star.txt 7 134 184 223 246 863 1607 4093 
+hotspots Variable_star.txt 1 5312 
+himself Variable_star.txt 1 271 
+amateur Variable_star.txt 1 473 
+form Variable_star.txt 4 1987 4071 4300 5117 
+equatorial Variable_star.txt 1 3783 
+hr Variable_star.txt 1 1249 
+forming Variable_star.txt 1 4545 
+uv Variable_star.txt 2 3817 5308 
+hertzsprungrussell Variable_star.txt 1 1003 
+but Variable_star.txt 18 350 1077 1149 1232 1399 1860 1880 1963 2296 2389 2792 3450 3538 3604 3643 4264 4460 4806 
+philosophers Variable_star.txt 1 193 
+1596 Variable_star.txt 1 168 
+solar Variable_star.txt 3 89 3215 4815 
+two-thirds Variable_star.txt 1 641 
+magellanic Variable_star.txt 1 4249 
+line Variable_star.txt 1 3720 
+phoenicis Variable_star.txt 2 2026 2032 
+with Variable_star.txt 52 172 368 488 542 592 632 851 924 941 1070 1089 1154 1210 1270 1395 1698 1789 1967 2111 2145 2212 2373 2386 2436 2496 2553 2590 2600 2641 2864 2942 2966 2979 2991 3016 3118 3255 3555 3722 3887 3917 4538 4616 4668 4693 4727 4866 5161 5357 5364 5388 5395 
+collapses Variable_star.txt 1 4177 
+hd Variable_star.txt 2 4882 5401 
+especially Variable_star.txt 2 289 2483 
+embedded Variable_star.txt 2 394 3248 
+uz Variable_star.txt 1 4885 
+prevents Variable_star.txt 1 4501 
+interiors Variable_star.txt 1 1191 
+j Variable_star.txt 1 925 
+variations Variable_star.txt 17 2110 2302 2415 2441 2737 3138 3200 3729 4581 4662 4667 4699 4832 5043 5082 5370 5381 
+up Variable_star.txt 4 896 919 3767 3833 
+us Variable_star.txt 1 631 
+historically Variable_star.txt 1 1765 
+planet Variable_star.txt 1 5412 
+below Variable_star.txt 2 1013 1418 
+taught Variable_star.txt 1 195 
+limit Variable_star.txt 5 3464 4019 4022 4170 4201 
+milliseconds Variable_star.txt 1 5048 
+spectroscopy Variable_star.txt 1 408 
+fluctuations Variable_star.txt 4 2054 2944 4965 4996 
+z Variable_star.txt 2 855 4585 
+similar Variable_star.txt 4 1857 1960 2042 5303 
+called Variable_star.txt 4 1480 1503 2478 4073 
+period-luminosity Variable_star.txt 2 1605 1910 
+darker Variable_star.txt 2 580 4808 
+aa Variable_star.txt 1 912 
+instead Variable_star.txt 2 3594 4543 
+result Variable_star.txt 5 4128 4182 4260 4269 4903 
+sometimes Variable_star.txt 7 1143 2305 2477 3539 3697 3915 4444 
+constant Variable_star.txt 3 505 3326 5171 
+lyr Variable_star.txt 2 5231 5304 
+exhausted Variable_star.txt 1 932 
+certain Variable_star.txt 4 1245 4017 4291 5124 
+describe Variable_star.txt 2 663 3060 
+am Variable_star.txt 4 4508 4622 4628 4632 
+expands Variable_star.txt 3 1043 1304 1308 
+deep Variable_star.txt 2 1473 2711 
+general Variable_star.txt 1 309 
+46,000 Variable_star.txt 1 318 
+ap Variable_star.txt 2 2078 2085 
+as Variable_star.txt 45 30 61 161 188 325 327 465 471 599 636 756 1046 1073 1080 1185 1240 1305 1356 1591 1593 1863 1901 1917 1975 2195 2207 2209 2237 3038 3422 3582 3632 3815 3921 3983 3986 4333 4447 4702 4736 4769 4790 4825 5034 5086 
+definite Variable_star.txt 1 2292 
+well-defined Variable_star.txt 2 1147 2301 
+at Variable_star.txt 19 68 1244 1403 1428 2334 2510 2700 2751 2759 2795 3451 3601 3605 3781 4058 4143 4664 4719 4851 
+aristotle Variable_star.txt 1 189 
+corresponding Variable_star.txt 2 1135 1251 
+encompass Variable_star.txt 1 1068 
+moves Variable_star.txt 1 626 
+1890 Variable_star.txt 1 291 
+internal Variable_star.txt 4 1223 1259 1390 3455 
+constructed Variable_star.txt 1 522 
+again Variable_star.txt 3 770 796 1348 
+mutual Variable_star.txt 1 4767 
+cephei Variable_star.txt 10 274 1658 1670 1684 1741 1782 2465 2471 2474 2551 
+brighter Variable_star.txt 4 3839 4001 4706 4810 
+know Variable_star.txt 1 1836 
+no Variable_star.txt 3 1423 2376 4666 
+references Variable_star.txt 1 5422 
+generally Variable_star.txt 7 402 1035 1087 1354 1554 1559 4117 
+40 Variable_star.txt 1 3124 
+event Variable_star.txt 1 3509 
+occasional Variable_star.txt 1 3551 
+field Variable_star.txt 6 495 3089 4478 4489 4526 4559 
+other Variable_star.txt 13 191 330 351 489 1094 1492 2666 3063 4235 4315 5131 5349 5359 
+5 Variable_star.txt 1 3029 
+normal Variable_star.txt 1 3850 
+dimmer Variable_star.txt 3 3336 3355 3618 
+u Variable_star.txt 2 981 992 
+shrink Variable_star.txt 2 1027 1544 
+unbalanced Variable_star.txt 1 1207 
+opacity Variable_star.txt 3 1285 1398 2791 
+infra-red Variable_star.txt 1 2236 
+briefly Variable_star.txt 1 3981 
+hypergiant Variable_star.txt 1 3516 
+kinds Variable_star.txt 2 343 1531 
+superposition Variable_star.txt 1 2860 
+abbreviated Variable_star.txt 1 1488 
+separate Variable_star.txt 2 1165 1662 
+montanari Variable_star.txt 1 230 
+become Variable_star.txt 2 1331 4113 
+distance Variable_star.txt 2 1918 4233 
+m Variable_star.txt 2 2758 4925 
+variation Variable_star.txt 10 39 71 428 1182 1424 2450 2717 2732 2840 3557 
+emission Variable_star.txt 4 3719 3760 4876 5309 
+class Variable_star.txt 14 991 1663 1727 2578 2636 2878 3435 3759 4922 4961 4993 5177 5247 5279 
+metallicity Variable_star.txt 1 1815 
+important Variable_star.txt 1 1834 
+peak Variable_star.txt 1 457 
+overall Variable_star.txt 1 3476 
+occasion Variable_star.txt 1 2295 
+variable Variable_star.txt 76 0 14 20 23 57 120 132 202 218 226 265 284 298 312 319 383 384 390 399 439 481 527 607 644 837 846 875 948 966 995 999 1015 1141 1216 1507 1525 1679 1745 1852 1954 2033 2134 2161 2280 2317 2366 2403 2409 2472 2632 2689 2811 2887 3127 3131 3239 3419 3579 3750 3881 3928 3934 3939 3952 3967 4516 4672 4689 4913 4950 4989 5014 5156 5192 5228 5328 
+transfers Variable_star.txt 1 4421 
+coronae Variable_star.txt 3 3570 3577 3655 
+lightcurve Variable_star.txt 1 519 
+binarity Variable_star.txt 1 2460 
+source Variable_star.txt 1 5095 
+ago Variable_star.txt 1 107 
+telescopii Variable_star.txt 2 2625 2631 
+lead Variable_star.txt 1 670 
+telescopic Variable_star.txt 1 494 
+required Variable_star.txt 1 1161 
+curve Variable_star.txt 6 366 462 549 1992 4222 4346 
+agb Variable_star.txt 2 2165 2272 
+symbiotic Variable_star.txt 3 3938 4590 4636 
+accreted Variable_star.txt 1 3152 
+bb Variable_star.txt 1 915 
+depth Variable_star.txt 1 1406 
+observe Variable_star.txt 1 4830 
+heats Variable_star.txt 1 787 
+hugely Variable_star.txt 1 3470 
+time Variable_star.txt 3 448 514 3600 
+lives Variable_star.txt 2 2707 2802 
+2008 Variable_star.txt 1 314 
+once Variable_star.txt 4 795 927 1973 4471 
+starting Variable_star.txt 2 940 1345 
+having Variable_star.txt 2 2660 3026 
+eclipsing Variable_star.txt 8 123 225 4686 5064 5071 5074 5142 5249 

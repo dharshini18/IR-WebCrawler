@@ -1,0 +1,1284 @@
+magnetically Solar_variation.txt 1 1117 
+irradiance Solar_variation.txt 11 2390 2602 2607 2611 2717 2726 2896 2935 2964 3732 3790 
+all Solar_variation.txt 4 555 767 2075 2160 
+leighton Solar_variation.txt 1 3905 
+evidence Solar_variation.txt 1 1957 
+11-year Solar_variation.txt 4 175 562 3896 4096 
+suns Solar_variation.txt 7 217 639 1149 2066 3056 4108 4126 
+magnetic Solar_variation.txt 42 168 515 526 537 588 611 641 662 756 1114 1251 1354 1383 1427 1445 1461 1499 1805 1872 1885 2062 2067 2186 2246 2348 2785 2929 3075 3227 3922 3931 3975 3991 3994 4022 4064 4110 4128 4148 4155 4209 4217 
+varying Solar_variation.txt 2 2590 2921 
+spatiotemporal Solar_variation.txt 2 587 2087 
+yellow Solar_variation.txt 1 2232 
+month Solar_variation.txt 2 1323 1325 
+leads Solar_variation.txt 1 3537 
+spacecraft Solar_variation.txt 1 2266 
+28-year Solar_variation.txt 1 16 
+per Solar_variation.txt 1 3243 
+controversial Solar_variation.txt 2 964 2675 
+anticorrelated Solar_variation.txt 1 2481 
+consists Solar_variation.txt 1 4188 
+follow Solar_variation.txt 1 1121 
+minuscule Solar_variation.txt 1 3161 
+localized Solar_variation.txt 1 1496 
+polarity Solar_variation.txt 8 527 560 624 2222 2249 3995 4076 4105 
+particles Solar_variation.txt 3 1512 3417 3427 
+forces Solar_variation.txt 1 3970 
+measurable Solar_variation.txt 1 2092 
+depend Solar_variation.txt 1 1604 
+zone Solar_variation.txt 1 3969 
+9,000 Solar_variation.txt 1 739 
+graph Solar_variation.txt 1 2238 
+illustrates Solar_variation.txt 1 3096 
+overlying Solar_variation.txt 1 3229 
+diffuse Solar_variation.txt 1 3282 
+environment Solar_variation.txt 2 1527 1670 
+to Solar_variation.txt 71 287 300 340 384 390 428 548 559 614 806 934 946 979 1012 1214 1218 1270 1326 1451 1484 1588 1684 1688 1702 1750 1880 1973 2090 2101 2147 2176 2208 2290 2333 2366 2368 2405 2517 2648 2656 2760 2774 2811 2971 2975 3016 3093 3120 3221 3336 3421 3428 3471 3501 3538 3549 3620 3684 3693 3705 3714 3852 3911 3982 4024 4070 4080 4100 4119 4123 4198 
+edward Solar_variation.txt 1 450 
+stable Solar_variation.txt 1 786 
+weather Solar_variation.txt 3 1539 3707 3885 
+analogous Solar_variation.txt 1 1365 
+include Solar_variation.txt 2 2525 3400 
+retreat Solar_variation.txt 1 2367 
+worth Solar_variation.txt 1 2996 
+alternating Solar_variation.txt 1 676 
+ionizing Solar_variation.txt 1 3196 
+updated Solar_variation.txt 2 1342 1405 
+14-based Solar_variation.txt 1 2017 
+amplitudes Solar_variation.txt 4 1682 1696 1698 2173 
+satellite-era Solar_variation.txt 1 2837 
+returning Solar_variation.txt 1 547 
+very Solar_variation.txt 2 977 1628 
+frequencies Solar_variation.txt 3 2737 3326 3635 
+peaks Solar_variation.txt 1 3578 
+continues Solar_variation.txt 1 427 
+tung Solar_variation.txt 1 3786 
+focus Solar_variation.txt 1 567 
+5460 Solar_variation.txt 1 861 
+reconstructions Solar_variation.txt 2 389 2558 
+7040 Solar_variation.txt 1 873 
+affect Solar_variation.txt 3 3199 3658 3685 
+difference Solar_variation.txt 1 2712 
+correlates Solar_variation.txt 2 3298 3791 
+categories Solar_variation.txt 2 4237 4239 
+visualized Solar_variation.txt 1 1283 
+clouds Solar_variation.txt 3 3382 3407 3449 
+facilitate Solar_variation.txt 1 3608 
+level Solar_variation.txt 8 97 721 754 2485 2563 2951 3365 3878 
+eruptive Solar_variation.txt 2 1514 2448 
+cme Solar_variation.txt 2 2329 2376 
+cooler Solar_variation.txt 2 2856 2901 
+list Solar_variation.txt 1 827 
+speculations Solar_variation.txt 1 3396 
+cosmogenic Solar_variation.txt 3 1819 1852 1905 
+large Solar_variation.txt 7 1196 1222 1572 1620 2816 2823 3426 
+debris Solar_variation.txt 1 2404 
+elsewhere Solar_variation.txt 1 2440 
+team Solar_variation.txt 1 574 
+small Solar_variation.txt 2 2841 3776 
+outer Solar_variation.txt 2 2073 2464 
+1390 Solar_variation.txt 1 843 
+1940s Solar_variation.txt 1 728 
+noted Solar_variation.txt 2 460 477 
+290 Solar_variation.txt 1 792 
+upper Solar_variation.txt 6 1523 2043 2624 3052 3067 3179 
+smaller Solar_variation.txt 4 1369 1695 3831 3847 
+18161893 Solar_variation.txt 1 329 
+periodicity Solar_variation.txt 2 646 1924 
+309 Solar_variation.txt 1 908 
+trend Solar_variation.txt 1 2709 
+prediction Solar_variation.txt 3 36 986 1709 
+maintain Solar_variation.txt 1 4146 
+past Solar_variation.txt 4 710 763 2556 2580 
+10.7 Solar_variation.txt 2 3250 3372 
+second Solar_variation.txt 4 85 119 466 1041 
+noise Solar_variation.txt 1 3352 
+timescales Solar_variation.txt 1 2918 
+link Solar_variation.txt 1 3696 
+gleissberg Solar_variation.txt 1 1742 
+estimated Solar_variation.txt 2 805 2743 
+blue Solar_variation.txt 1 2230 
+established Solar_variation.txt 1 580 
+what Solar_variation.txt 1 1534 
+indicator Solar_variation.txt 1 3291 
+sunspots Solar_variation.txt 25 204 326 370 395 442 481 507 607 1072 1099 1126 1131 1161 1199 1260 1307 1360 1394 2182 2853 2869 2905 3985 4030 4045 
+wolfs Solar_variation.txt 1 406 
+giving Solar_variation.txt 3 914 1432 3980 
+sun Solar_variation.txt 10 179 234 266 593 748 1295 1363 3213 3536 4158 
+reaching Solar_variation.txt 1 3487 
+near Solar_variation.txt 4 1629 3252 3934 3953 
+expressed Solar_variation.txt 1 3264 
+current Solar_variation.txt 4 35 139 994 3815 
+aperiodic Solar_variation.txt 1 255 
+churned Solar_variation.txt 1 2196 
+reconstruction Solar_variation.txt 3 335 689 2548 
+fractional Solar_variation.txt 1 1304 
+suggesting Solar_variation.txt 1 2031 
+peak-to-peak Solar_variation.txt 1 1179 
+method Solar_variation.txt 1 2378 
+can Solar_variation.txt 8 987 1253 1516 1728 2286 2301 2540 3606 
+layers Solar_variation.txt 3 2050 2074 3053 
+degree Solar_variation.txt 3 2169 2178 2457 
+exchange Solar_variation.txt 2 654 3914 
+respectively Solar_variation.txt 1 286 
+pushing Solar_variation.txt 1 387 
+component Solar_variation.txt 3 1379 2242 2325 
+sunspot Solar_variation.txt 36 12 28 38 44 58 77 122 148 293 420 529 632 681 706 1017 1067 1137 1147 1223 1332 1659 1772 1878 1900 1933 1966 2128 2817 2916 3009 3304 3333 3770 3897 3997 4097 
+understanding Solar_variation.txt 2 1910 3880 
+hypothetical Solar_variation.txt 1 3762 
+magnetism Solar_variation.txt 3 263 2180 2758 
+twentieth Solar_variation.txt 1 2572 
+groups Solar_variation.txt 3 1197 1224 2818 
+galileo Solar_variation.txt 1 397 
+ratio Solar_variation.txt 1 2771 
+101 Solar_variation.txt 1 1046 
+equations Solar_variation.txt 1 1875 
+appears Solar_variation.txt 2 1962 2759 
+change Solar_variation.txt 2 176 4102 
+105 Solar_variation.txt 1 1993 
+reversals Solar_variation.txt 1 625 
+1843 Solar_variation.txt 1 350 
+involved Solar_variation.txt 1 2936 
+k Solar_variation.txt 3 3035 3797 3799 
+larger Solar_variation.txt 2 125 1680 
+0.32 Solar_variation.txt 1 3800 
+later Solar_variation.txt 1 3401 
+regenerated Solar_variation.txt 1 3514 
+credit Solar_variation.txt 1 3020 
+amount Solar_variation.txt 2 2615 3479 
+periodic Solar_variation.txt 2 174 363 
+products Solar_variation.txt 2 2214 2524 
+permit Solar_variation.txt 1 2148 
+action Solar_variation.txt 1 1466 
+maunder Solar_variation.txt 3 32 447 452 
+makes Solar_variation.txt 1 144 
+plotted Solar_variation.txt 1 1312 
+named Solar_variation.txt 1 1744 
+via Solar_variation.txt 1 3408 
+limited Solar_variation.txt 1 3709 
+modulates Solar_variation.txt 1 2037 
+11.6 Solar_variation.txt 1 1053 
+explained Solar_variation.txt 1 3414 
+marked Solar_variation.txt 1 705 
+1970s Solar_variation.txt 1 2647 
+affected Solar_variation.txt 2 3329 3647 
+visible Solar_variation.txt 4 1397 1437 2734 2775 
+modulated Solar_variation.txt 2 1551 2451 
+overplotting Solar_variation.txt 1 2149 
+2000s Solar_variation.txt 1 2650 
+names Solar_variation.txt 1 1674 
+1908 Solar_variation.txt 1 504 
+broadcasters Solar_variation.txt 1 3631 
+1906 Solar_variation.txt 1 162 
+counts Solar_variation.txt 2 294 682 
+total Solar_variation.txt 4 1093 2609 2725 3164 
+seventeenth Solar_variation.txt 2 342 403 
+1900 Solar_variation.txt 1 823 
+unnamed Solar_variation.txt 1 1982 
+from Solar_variation.txt 19 4 297 890 976 1230 1887 1952 2009 2439 2645 2654 3011 3109 3211 3534 3728 4018 4067 4196 
+indicated Solar_variation.txt 1 4142 
+failed Solar_variation.txt 1 3420 
+remains Solar_variation.txt 1 565 
+carrington Solar_variation.txt 1 473 
+210 Solar_variation.txt 1 1940 
+contains Solar_variation.txt 1 3073 
+eastwest Solar_variation.txt 1 3988 
+two Solar_variation.txt 5 540 666 937 944 4174 
+tightly Solar_variation.txt 1 2163 
+next Solar_variation.txt 3 302 1765 4059 
+few Solar_variation.txt 3 441 1580 1591 
+mediate Solar_variation.txt 1 3764 
+skywave Solar_variation.txt 3 3559 3560 3614 
+therefore Solar_variation.txt 1 2358 
+6 Solar_variation.txt 3 1215 3018 3122 
+inner Solar_variation.txt 1 2477 
+themselves Solar_variation.txt 1 1601 
+attempts Solar_variation.txt 1 3713 
+until Solar_variation.txt 3 1005 1273 2630 
+today Solar_variation.txt 2 431 1228 
+more Solar_variation.txt 6 1155 1160 1564 1736 2407 3062 
+anticorrelation Solar_variation.txt 1 2490 
+composite Solar_variation.txt 1 2687 
+becomes Solar_variation.txt 1 3585 
+operators Solar_variation.txt 1 3628 
+apparent Solar_variation.txt 1 1150 
+envelope Solar_variation.txt 4 2396 4167 4193 4225 
+occurred Solar_variation.txt 3 737 1624 2593 
+99 Solar_variation.txt 1 1036 
+effect Solar_variation.txt 2 1673 3309 
+warm Solar_variation.txt 1 744 
+8 Solar_variation.txt 1 951 
+known Solar_variation.txt 3 444 2280 4005 
+aligned Solar_variation.txt 1 3987 
+isas Solar_variation.txt 1 3025 
+96 Solar_variation.txt 1 2765 
+1991 Solar_variation.txt 2 3015 3113 
+reconstructed Solar_variation.txt 1 715 
+rotational Solar_variation.txt 1 2914 
+locked Solar_variation.txt 1 2164 
+left Solar_variation.txt 1 3095 
+1996 Solar_variation.txt 1 1058 
+this Solar_variation.txt 24 7 73 84 112 145 456 609 621 1050 1101 1279 1310 1328 1335 1948 2191 2489 2710 2861 3097 3433 3594 3958 4134 
+decay Solar_variation.txt 2 2184 2213 
+averaged Solar_variation.txt 2 1073 1385 
+protons Solar_variation.txt 1 2278 
+forcing Solar_variation.txt 1 3850 
+sudden Solar_variation.txt 1 1495 
+values Solar_variation.txt 1 821 
+22-year Solar_variation.txt 2 670 3903 
+following Solar_variation.txt 2 405 1791 
+dwarfs Solar_variation.txt 2 4140 4180 
+dec Solar_variation.txt 1 1636 
+example Solar_variation.txt 3 796 3147 3741 
+history Solar_variation.txt 4 29 304 308 687 
+2860 Solar_variation.txt 1 845 
+continuity Solar_variation.txt 1 1874 
+references Solar_variation.txt 2 4229 4232 
+weaker Solar_variation.txt 1 610 
+challenging Solar_variation.txt 1 3692 
+impacts Solar_variation.txt 4 2713 3724 3768 3883 
+chernobyl Solar_variation.txt 1 3443 
+process Solar_variation.txt 3 589 1320 4085 
+december Solar_variation.txt 1 1626 
+0.3 Solar_variation.txt 2 1190 2812 
+double-peaked Solar_variation.txt 1 1029 
+modes Solar_variation.txt 2 3561 3615 
+3630 Solar_variation.txt 1 851 
+high Solar_variation.txt 6 74 699 753 2216 3330 3638 
+10,000 Solar_variation.txt 1 2581 
+minimum Solar_variation.txt 18 33 284 292 299 448 1089 1276 1571 1595 1631 1787 2263 2756 3527 3813 3937 4036 4043 
+caused Solar_variation.txt 5 1493 2814 2863 2966 3359 
+numbers Solar_variation.txt 2 707 1879 
+every Solar_variation.txt 2 1590 4000 
+poleward Solar_variation.txt 1 2976 
+occur Solar_variation.txt 3 258 897 1576 
+232 Solar_variation.txt 1 1995 
+axis Solar_variation.txt 1 2154 
+terrestrial Solar_variation.txt 3 1823 3380 3450 
+information Solar_variation.txt 1 1227 
+x9.0 Solar_variation.txt 1 1633 
+monitoring Solar_variation.txt 1 1163 
+varied Solar_variation.txt 1 2653 
+2300-year Solar_variation.txt 1 2033 
+buoyant Solar_variation.txt 1 3964 
+3340 Solar_variation.txt 1 847 
+exceptional Solar_variation.txt 1 730 
+damage Solar_variation.txt 1 2289 
+surpassed Solar_variation.txt 1 95 
+1 Solar_variation.txt 2 415 3271 
+how Solar_variation.txt 1 2228 
+varies Solar_variation.txt 5 2718 2777 2779 3085 3490 
+occasionally Solar_variation.txt 1 2519 
+opposite Solar_variation.txt 2 3990 4079 
+instead Solar_variation.txt 1 1779 
+schwabe Solar_variation.txt 4 314 354 1173 1757 
+southern Solar_variation.txt 1 3756 
+displacements Solar_variation.txt 1 2977 
+proven Solar_variation.txt 1 3691 
+1699 Solar_variation.txt 1 911 
+oscillatory Solar_variation.txt 3 640 653 3913 
+0.008%/decade Solar_variation.txt 1 2707 
+de Solar_variation.txt 1 1945 
+interplanetary Solar_variation.txt 2 1489 2421 
+whereas Solar_variation.txt 1 3870 
+influenced Solar_variation.txt 1 3201 
+may Solar_variation.txt 3 1057 1984 4151 
+earlier Solar_variation.txt 2 768 1706 
+derived Solar_variation.txt 1 2008 
+high-energy Solar_variation.txt 4 2277 2324 2432 2504 
+diagram Solar_variation.txt 5 1291 1330 1334 1375 1401 
+produce Solar_variation.txt 3 1327 2272 3422 
+studies Solar_variation.txt 1 1954 
+demonstrating Solar_variation.txt 1 3001 
+waves Solar_variation.txt 1 3570 
+such Solar_variation.txt 7 225 1242 1825 2370 2527 2557 2873 
+core Solar_variation.txt 2 4162 4197 
+wave Solar_variation.txt 2 3322 3601 
+revealed Solar_variation.txt 2 533 1167 
+response Solar_variation.txt 1 1450 
+polarities Solar_variation.txt 1 3992 
+a Solar_variation.txt 66 42 155 362 418 438 586 595 617 644 751 826 1028 1075 1092 1133 1136 1168 1178 1192 1232 1274 1315 1518 1579 1582 1613 1733 1769 1794 1908 2032 2273 2336 2355 2360 2375 2469 2547 2637 2706 2830 2988 2991 3008 3031 3039 3160 3187 3236 3247 3279 3307 3437 3525 3539 3663 3793 3830 3902 4003 4075 4101 4160 4165 4190 4203 
+hallstatt Solar_variation.txt 2 1917 1969 
+dynamical Solar_variation.txt 1 2111 
+correlate Solar_variation.txt 2 3706 3715 
+interpolated Solar_variation.txt 1 2683 
+light Solar_variation.txt 4 2776 3483 3523 3532 
+corona Solar_variation.txt 4 1431 1809 2080 3060 
+fraction Solar_variation.txt 1 3162 
+spectral Solar_variation.txt 1 3731 
+ionized Solar_variation.txt 1 3587 
+so Solar_variation.txt 1 65 
+suggest Solar_variation.txt 2 779 3787 
+ultraviolet Solar_variation.txt 7 1504 2773 3046 3079 3481 3522 3531 
+operate Solar_variation.txt 1 3565 
+order Solar_variation.txt 1 616 
+wind Solar_variation.txt 2 2085 2983 
+longest Solar_variation.txt 1 928 
+chronobiology Solar_variation.txt 1 3467 
+magnetogram Solar_variation.txt 1 1246 
+waldmeier Solar_variation.txt 1 1672 
+september Solar_variation.txt 2 3017 3121 
+developed Solar_variation.txt 1 2374 
+over Solar_variation.txt 14 87 132 591 693 701 708 1074 1386 1986 2595 2720 3087 3388 3496 
+move Solar_variation.txt 1 1266 
+mission Solar_variation.txt 4 2338 2351 2357 3023 
+ejecta Solar_variation.txt 1 2419 
+years Solar_variation.txt 25 134 279 358 545 649 695 703 712 740 765 794 809 892 909 920 952 1054 1978 1988 2001 2027 2047 2060 2582 2995 
+produced Solar_variation.txt 3 1463 2344 2698 
+131 Solar_variation.txt 1 1994 
+including Solar_variation.txt 4 30 182 1125 1938 
+motions Solar_variation.txt 1 1453 
+2001 Solar_variation.txt 2 3019 3123 
+japan Solar_variation.txt 1 3026 
+uvb Solar_variation.txt 2 3482 3548 
+boreal Solar_variation.txt 1 745 
+its Solar_variation.txt 8 549 1434 2070 2086 2703 2729 3935 3954 
+galaxy Solar_variation.txt 1 2443 
+before Solar_variation.txt 1 546 
+observational Solar_variation.txt 1 303 
+25 Solar_variation.txt 2 957 974 
+equator Solar_variation.txt 1 1272 
+group Solar_variation.txt 4 1346 1409 2673 2702 
+21 Solar_variation.txt 1 2122 
+22 Solar_variation.txt 4 544 648 2123 3119 
+23 Solar_variation.txt 3 1048 2125 3129 
+temporal Solar_variation.txt 1 2157 
+28 Solar_variation.txt 1 903 
+decreases Solar_variation.txt 2 1185 2322 
+5620 Solar_variation.txt 1 863 
+late Solar_variation.txt 2 52 2635 
+1370 Solar_variation.txt 1 2657 
+detected Solar_variation.txt 2 1814 2493 
+complex Solar_variation.txt 2 1443 3603 
+systems Solar_variation.txt 1 2984 
+convective Solar_variation.txt 3 4166 4192 4224 
+400 Solar_variation.txt 2 26 3495 
+latitude Solar_variation.txt 1 1374 
+covered Solar_variation.txt 1 651 
+a.k.a Solar_variation.txt 1 1944 
+main Solar_variation.txt 7 306 1105 1145 1420 2604 3557 3891 
+2011 Solar_variation.txt 1 1038 
+2010 Solar_variation.txt 3 1007 1778 1780 
+2013 Solar_variation.txt 2 55 64 
+2012 Solar_variation.txt 1 105 
+eventually Solar_variation.txt 3 386 2183 2219 
+designs Solar_variation.txt 1 2352 
+mechanisms Solar_variation.txt 2 2206 3763 
+greater Solar_variation.txt 1 1720 
+re-enter Solar_variation.txt 1 2406 
+entire Solar_variation.txt 1 1362 
+wolfgang Solar_variation.txt 1 1746 
+material Solar_variation.txt 1 194 
+collide Solar_variation.txt 1 2510 
+investigated Solar_variation.txt 1 3465 
+primary Solar_variation.txt 3 1531 2763 2907 
+records Solar_variation.txt 2 778 1021 
+hale Solar_variation.txt 2 499 4008 
+effects Solar_variation.txt 6 236 2116 2945 3357 3395 3779 
+they Solar_variation.txt 7 209 522 597 2891 3345 4144 4201 
+half Solar_variation.txt 2 467 3900 
+not Solar_variation.txt 8 673 824 1473 1603 3070 3412 3445 3862 
+rotation Solar_variation.txt 3 1389 3948 4062 
+now Solar_variation.txt 2 94 1536 
+euv Solar_variation.txt 4 3047 3081 3142 3172 
+day Solar_variation.txt 1 1583 
+above Solar_variation.txt 3 2239 3049 3869 
+represents Solar_variation.txt 1 3278 
+february Solar_variation.txt 2 104 160 
+profound Solar_variation.txt 1 3182 
+edit Solar_variation.txt 33 269 305 688 955 958 992 1049 1104 1132 1419 1647 1923 2064 2117 2119 2181 2265 2267 2413 2600 2603 2987 3209 3383 3451 3453 3556 3673 3890 4228 4230 4233 4236 
+january Solar_variation.txt 2 999 1062 
+astronauts Solar_variation.txt 2 2334 2365 
+5260 Solar_variation.txt 1 859 
+7310 Solar_variation.txt 1 875 
+sufficiently Solar_variation.txt 1 3425 
+7520 Solar_variation.txt 1 877 
+magnitude Solar_variation.txt 4 736 981 1370 3840 
+toroidal Solar_variation.txt 7 660 3918 3942 3974 4021 4038 4072 
+luminosity Solar_variation.txt 4 1166 1176 1184 2740 
+2,241 Solar_variation.txt 1 2000 
+0.037%/decade Solar_variation.txt 1 2689 
+1750 Solar_variation.txt 1 1024 
+decreasing Solar_variation.txt 1 1726 
+side Solar_variation.txt 1 2387 
+homogeneous Solar_variation.txt 1 3071 
+reactions Solar_variation.txt 1 2522 
+mdi Solar_variation.txt 1 1245 
+significantly Solar_variation.txt 1 3198 
+hales Solar_variation.txt 1 531 
+undetectable Solar_variation.txt 1 2629 
+series Solar_variation.txt 3 2638 2692 2704 
+energy Solar_variation.txt 8 656 1500 2108 2619 2931 3916 4016 4065 
+hard Solar_variation.txt 1 2511 
+communication Solar_variation.txt 2 3555 3564 
+related Solar_variation.txt 1 2100 
+7030 Solar_variation.txt 1 1798 
+88 Solar_variation.txt 1 2026 
+extended Solar_variation.txt 1 323 
+2,500 Solar_variation.txt 1 2059 
+year Solar_variation.txt 5 27 1739 1741 1916 1941 
+ionosphere Solar_variation.txt 4 3200 3371 3575 3584 
+galactic Solar_variation.txt 3 1661 2316 2409 
+beyond Solar_variation.txt 1 517 
+suggested Solar_variation.txt 1 4214 
+event Solar_variation.txt 2 458 2372 
+out Solar_variation.txt 1 333 
+canada Solar_variation.txt 1 3754 
+stands Solar_variation.txt 2 1638 2574 
+shown Solar_variation.txt 1 825 
+occurrence Solar_variation.txt 1 1541 
+10.7cm Solar_variation.txt 1 2132 
+network Solar_variation.txt 2 2828 2882 
+1715 Solar_variation.txt 1 437 
+space Solar_variation.txt 11 238 1238 1350 1413 1490 1526 1538 2264 2337 2403 2422 
+spectrum Solar_variation.txt 1 3643 
+quantify Solar_variation.txt 2 1881 3694 
+since Solar_variation.txt 8 150 822 884 1019 2567 3065 3837 4200 
+research Solar_variation.txt 4 569 923 3703 4131 
+increase Solar_variation.txt 3 1206 2965 3347 
+modulation Solar_variation.txt 1 1754 
+settle Solar_variation.txt 1 2533 
+health Solar_variation.txt 1 3477 
+amplitude Solar_variation.txt 4 894 1180 1753 2790 
+120.8 Solar_variation.txt 1 1084 
+electronics Solar_variation.txt 2 2291 2308 
+induced Solar_variation.txt 1 3448 
+cause Solar_variation.txt 5 235 2287 2302 2518 2764 
+u.s Solar_variation.txt 1 3746 
+shows Solar_variation.txt 2 1654 2705 
+harold Solar_variation.txt 1 576 
+after Solar_variation.txt 9 356 449 1324 1745 1783 3012 3110 3436 3442 
+risen Solar_variation.txt 1 3874 
+beryllium-10 Solar_variation.txt 1 1818 
+castile Solar_variation.txt 1 2054 
+11.04 Solar_variation.txt 1 919 
+correspondingly Solar_variation.txt 1 4041 
+million Solar_variation.txt 2 793 2046 
+horaces Solar_variation.txt 1 634 
+little Solar_variation.txt 1 1956 
+isotope Solar_variation.txt 1 1853 
+standard Solar_variation.txt 1 419 
+babcock Solar_variation.txt 3 579 635 3904 
+formation Solar_variation.txt 2 2055 3432 
+brightest Solar_variation.txt 1 1643 
+trends Solar_variation.txt 2 1727 2844 
+earliest Solar_variation.txt 1 392 
+beginning Solar_variation.txt 2 725 1055 
+temperature Solar_variation.txt 4 3032 3202 3720 3808 
+2010s Solar_variation.txt 1 3860 
+definition Solar_variation.txt 1 268 
+pairs Solar_variation.txt 3 530 3983 3998 
+created Solar_variation.txt 2 417 2051 
+sorces Solar_variation.txt 1 3730 
+flare Solar_variation.txt 2 1634 2136 
+latitudes Solar_variation.txt 3 485 1400 2218 
+cosmic Solar_variation.txt 13 1662 2283 2317 2410 2433 2459 2472 2495 2505 3385 3398 3409 3592 
+days Solar_variation.txt 2 1096 1592 
+horace Solar_variation.txt 1 578 
+times Solar_variation.txt 3 1439 1563 1581 
+colder Solar_variation.txt 1 3742 
+length Solar_variation.txt 2 799 917 
+w Solar_variation.txt 1 3274 
+signature Solar_variation.txt 1 1392 
+consequence Solar_variation.txt 1 2470 
+global Solar_variation.txt 5 3686 3719 3807 3835 3871 
+rudolf Solar_variation.txt 2 327 371 
+f10.7 Solar_variation.txt 2 3233 3261 
+frequent Solar_variation.txt 1 1565 
+first Solar_variation.txt 8 100 115 128 459 512 615 900 1033 
+reversing Solar_variation.txt 1 2220 
+number Solar_variation.txt 12 45 59 78 123 200 368 421 1068 1070 1773 2129 4033 
+reaches Solar_variation.txt 1 2257 
+one Solar_variation.txt 5 298 941 1589 1640 2662 
+production Solar_variation.txt 3 2938 2969 3405 
+featured Solar_variation.txt 1 1027 
+general Solar_variation.txt 1 4231 
+simplified Solar_variation.txt 1 4093 
+approximately Solar_variation.txt 1 1976 
+another Solar_variation.txt 1 2691 
+reached Solar_variation.txt 3 60 1035 1278 
+researched Solar_variation.txt 1 455 
+size Solar_variation.txt 4 143 202 1559 1597 
+earths Solar_variation.txt 12 244 1203 1522 2347 2399 2501 2508 2536 2623 3178 3552 3782 
+given Solar_variation.txt 1 1558 
+marine Solar_variation.txt 1 3622 
+suess Solar_variation.txt 2 1942 1960 
+similarly Solar_variation.txt 1 752 
+leading Solar_variation.txt 2 1483 2970 
+top Solar_variation.txt 1 1889 
+14530 Solar_variation.txt 1 1776 
+system Solar_variation.txt 3 2438 2466 2479 
+least Solar_variation.txt 2 72 789 
+0.05 Solar_variation.txt 2 1211 2821 
+208-year Solar_variation.txt 1 2039 
+their Solar_variation.txt 3 1690 2538 4186 
+ionospheric Solar_variation.txt 2 3354 3652 
+detectable Solar_variation.txt 2 2843 3778 
+0.08 Solar_variation.txt 1 3798 
+observations Solar_variation.txt 12 324 360 379 393 532 885 1836 1901 2632 3435 3441 4137 
+aiding Solar_variation.txt 1 1708 
+scheme Solar_variation.txt 1 408 
+structures Solar_variation.txt 6 1429 1447 1480 2069 2866 2930 
+smoothed Solar_variation.txt 5 43 57 76 1066 1771 
+gives Solar_variation.txt 1 41 
+relies Solar_variation.txt 1 2380 
+excellent Solar_variation.txt 1 3290 
+storm Solar_variation.txt 3 1839 2362 3440 
+relationship Solar_variation.txt 2 1170 1656 
+that Solar_variation.txt 36 506 524 534 581 599 608 620 780 902 926 940 1623 1677 1763 1789 1870 1899 2036 2379 2427 2532 2560 2584 2596 2883 3404 3605 3644 3735 3788 3820 3825 4077 4143 4194 4215 
+wavelength Solar_variation.txt 2 3217 3248 
+relative Solar_variation.txt 1 2730 
+emit Solar_variation.txt 1 3061 
+direct Solar_variation.txt 1 1169 
+1919 Solar_variation.txt 1 521 
+employ Solar_variation.txt 1 1871 
+assumption Solar_variation.txt 1 4135 
+dynamo-cycle Solar_variation.txt 1 3936 
+stratospheric Solar_variation.txt 3 2972 2980 3191 
+diminish Solar_variation.txt 1 4031 
+peculiar Solar_variation.txt 1 457 
+quantity Solar_variation.txt 1 2143 
+radionuclides Solar_variation.txt 1 2526 
+11 Solar_variation.txt 1 278 
+observed Solar_variation.txt 10 142 212 598 1078 1877 2004 3103 3134 3145 3257 
+6400 Solar_variation.txt 1 871 
+john Solar_variation.txt 1 1142 
+14 Solar_variation.txt 1 152 
+showed Solar_variation.txt 3 505 523 925 
+double Solar_variation.txt 1 109 
+marshall Solar_variation.txt 2 1349 1412 
+1978 Solar_variation.txt 1 2636 
+tree Solar_variation.txt 1 1830 
+photospheric Solar_variation.txt 2 2757 2922 
+hz Solar_variation.txt 1 3276 
+5710 Solar_variation.txt 1 865 
+reconstructing Solar_variation.txt 1 380 
+future Solar_variation.txt 1 2350 
+historical Solar_variation.txt 2 334 829 
+were Solar_variation.txt 4 508 771 2628 2641 
+dynamo Solar_variation.txt 5 1465 3889 3894 3907 3962 
+negatively Solar_variation.txt 1 1700 
+19891991 Solar_variation.txt 1 2676 
+and Solar_variation.txt 106 92 141 190 195 201 206 219 242 282 291 374 377 398 436 474 500 577 619 659 881 912 1039 1059 1087 1127 1175 1205 1240 1264 1268 1301 1318 1340 1403 1458 1505 1525 1528 1547 1664 1712 1725 1788 1810 1817 1829 1832 1855 1876 1894 1904 1999 2013 2019 2025 2072 2081 2110 2124 2135 2195 2200 2231 2256 2292 2530 2583 2727 2735 2819 2825 2876 2915 2939 2974 2981 3027 3048 3059 3072 3082 3173 3193 3203 3297 3323 3353 3424 3591 3623 3629 3651 3676 3700 3747 3750 3755 3785 3812 3919 4029 4049 4089 4150 4168 4184 
+bridge Solar_variation.txt 1 1842 
+1.7 Solar_variation.txt 1 1091 
+julian Solar_variation.txt 1 20 
+modern Solar_variation.txt 2 1336 1859 
+emits Solar_variation.txt 1 3038 
+worcester Solar_variation.txt 1 1144 
+auroras Solar_variation.txt 1 227 
+stratosphere Solar_variation.txt 1 3510 
+medium Solar_variation.txt 2 2018 3321 
+nonradiative Solar_variation.txt 1 3283 
+have Solar_variation.txt 19 210 272 713 888 935 947 1013 1517 1768 1793 1812 1864 2002 2144 2592 2943 3392 3472 4141 
+seen Solar_variation.txt 3 222 1255 2126 
+concentration Solar_variation.txt 2 2539 3543 
+x-class Solar_variation.txt 1 1621 
+clearly Solar_variation.txt 2 1396 2492 
+contents Solar_variation.txt 1 267 
+ray Solar_variation.txt 5 2411 2460 2473 2496 3386 
+geomagnetic Solar_variation.txt 2 1838 1902 
+traditionally Solar_variation.txt 1 413 
+output Solar_variation.txt 1 3657 
+efficient Solar_variation.txt 1 2429 
+climate Solar_variation.txt 7 2714 3672 3687 3701 3726 3767 3783 
+agency Solar_variation.txt 1 1239 
+1961 Solar_variation.txt 1 571 
+also Solar_variation.txt 10 257 896 1714 2300 3328 3346 3723 3855 4145 4227 
+causing Solar_variation.txt 1 2401 
+take Solar_variation.txt 1 1685 
+which Solar_variation.txt 6 117 153 426 1841 2104 3909 
+attempted Solar_variation.txt 1 3704 
+photosphere Solar_variation.txt 6 1153 2190 2860 2890 3037 3979 
+10-day Solar_variation.txt 1 1193 
+conductivity Solar_variation.txt 1 3205 
+quadrupolar Solar_variation.txt 1 3943 
+butterfly Solar_variation.txt 3 1290 1333 1391 
+even Solar_variation.txt 2 2851 3154 
+play Solar_variation.txt 2 259 3829 
+towards Solar_variation.txt 1 83 
+relatively Solar_variation.txt 1 4047 
+permian Solar_variation.txt 2 803 2044 
+trace Solar_variation.txt 1 3152 
+index Solar_variation.txt 5 422 425 2130 2137 3234 
+track Solar_variation.txt 1 1011 
+208 Solar_variation.txt 1 2024 
+4230 Solar_variation.txt 1 855 
+who Solar_variation.txt 4 355 453 502 2339 
+reach Solar_variation.txt 2 1689 3550 
+overdensities Solar_variation.txt 1 2424 
+most Solar_variation.txt 2 3646 3818 
+7-10-day Solar_variation.txt 1 2831 
+near-space Solar_variation.txt 1 1669 
+significant Solar_variation.txt 4 893 1519 3074 3393 
+successive Solar_variation.txt 1 1387 
+phase Solar_variation.txt 5 1608 2166 2781 2955 4015 
+chromosphere Solar_variation.txt 1 3058 
+occupy Solar_variation.txt 1 3634 
+measured Solar_variation.txt 3 2542 3805 3839 
+the Solar_variation.txt 318 11 15 19 31 34 51 56 66 75 88 96 99 114 118 127 138 146 163 172 178 185 199 216 230 233 240 249 265 301 319 341 344 366 381 391 401 409 423 432 446 465 469 478 490 492 511 518 525 535 561 566 572 582 592 600 627 631 638 652 665 669 683 709 720 727 731 743 747 762 774 781 790 797 801 907 927 943 971 993 1014 1025 1032 1040 1064 1080 1088 1110 1122 1139 1148 1152 1172 1202 1225 1236 1244 1248 1271 1285 1288 1294 1302 1319 1331 1344 1361 1377 1381 1390 1407 1425 1430 1455 1468 1530 1540 1553 1596 1607 1610 1618 1642 1655 1658 1665 1671 1675 1703 1737 1756 1759 1764 1784 1790 1808 1843 1847 1850 1856 1882 1888 1891 1896 1932 1939 1959 1964 1968 2038 2042 2053 2065 2076 2079 2083 2102 2107 2114 2138 2151 2168 2189 2209 2221 2224 2229 2236 2240 2244 2251 2261 2310 2312 2323 2342 2346 2385 2388 2395 2398 2414 2436 2442 2444 2453 2456 2463 2471 2476 2483 2500 2535 2554 2561 2568 2571 2576 2579 2608 2614 2622 2646 2649 2664 2666 2671 2674 2700 2721 2738 2748 2753 2762 2770 2783 2802 2807 2826 2858 2880 2888 2895 2900 2906 2920 2946 2979 3002 3021 3036 3044 3055 3066 3077 3088 3090 3094 3105 3115 3125 3136 3149 3167 3177 3212 3226 3232 3239 3253 3256 3317 3348 3363 3370 3384 3389 3454 3457 3478 3488 3497 3504 3509 3516 3528 3535 3542 3551 3574 3577 3580 3583 3596 3599 3637 3659 3666 3695 3721 3729 3745 3769 3781 3814 3822 3838 3849 3859 3866 3877 3895 3927 3950 3961 3967 3973 3978 3993 4007 4011 4019 4025 4037 4050 4058 4068 4071 4081 4084 4104 4107 4113 4121 4125 4157 4170 4176 4223 
+appear Solar_variation.txt 1 1261 
+so-called Solar_variation.txt 1 1289 
+episode Solar_variation.txt 1 776 
+richard Solar_variation.txt 1 472 
+low-orbiting Solar_variation.txt 1 2402 
+montage Solar_variation.txt 2 2992 3092 
+average Solar_variation.txt 9 274 367 916 1578 2796 2808 2859 2889 3806 
+sometimes Solar_variation.txt 2 1478 2279 
+upset Solar_variation.txt 1 2304 
+questioned Solar_variation.txt 1 4133 
+yohkoh Solar_variation.txt 3 2998 3022 3108 
+trapped Solar_variation.txt 1 3224 
+soho Solar_variation.txt 2 1231 3150 
+nuclear Solar_variation.txt 1 2520 
+warming Solar_variation.txt 2 3836 3872 
+redirected Solar_variation.txt 1 3 
+nineteenth Solar_variation.txt 1 470 
+maxima Solar_variation.txt 3 1691 1711 2872 
+typically Solar_variation.txt 1 675 
+then Solar_variation.txt 1 1265 
+came Solar_variation.txt 1 835 
+400-year Solar_variation.txt 1 1965 
+shielding Solar_variation.txt 1 2343 
+incorporate Solar_variation.txt 1 2359 
+atmosphere Solar_variation.txt 10 241 1524 1893 2071 2400 2509 2625 3057 3068 3180 
+otherwise Solar_variation.txt 1 3876 
+particularly Solar_variation.txt 1 3315 
+phenomenon Solar_variation.txt 1 4004 
+show Solar_variation.txt 5 678 2056 2840 3446 3734 
+german Solar_variation.txt 1 316 
+definite Solar_variation.txt 1 985 
+0.1 Solar_variation.txt 3 1183 2793 3774 
+ending Solar_variation.txt 1 1060 
+discovered Solar_variation.txt 2 318 348 
+bright Solar_variation.txt 2 2827 2881 
+radio Solar_variation.txt 13 2133 3207 3216 3241 3259 3313 3554 3563 3569 3600 3627 3642 4136 
+greenhouse Solar_variation.txt 1 3853 
+earth Solar_variation.txt 3 224 519 3489 
+longer Solar_variation.txt 1 1930 
+data Solar_variation.txt 3 1854 1861 2696 
+indicate Solar_variation.txt 1 2559 
+theorized Solar_variation.txt 1 3683 
+impact Solar_variation.txt 4 1520 3168 3361 3455 
+o Solar_variation.txt 1 3519 
+690 Solar_variation.txt 1 837 
+hathaway/nasa/msfc Solar_variation.txt 1 2237 
+based Solar_variation.txt 3 718 966 2693 
+proposed Solar_variation.txt 2 1937 2015 
+northern Solar_variation.txt 1 3748 
+hf Solar_variation.txt 1 3641 
+gases Solar_variation.txt 1 3854 
+produces Solar_variation.txt 1 3739 
+proportion Solar_variation.txt 1 3040 
+state Solar_variation.txt 2 551 1666 
+elucidated Solar_variation.txt 1 497 
+than Solar_variation.txt 13 126 773 950 1569 1692 1721 1931 2752 2857 2868 2887 3848 3864 
+terminal Solar_variation.txt 1 2754 
+brighter Solar_variation.txt 2 2746 2885 
+only Solar_variation.txt 3 759 3157 4220 
+version Solar_variation.txt 1 1337 
+accounts Solar_variation.txt 1 3158 
+molecules Solar_variation.txt 1 3520 
+constituents Solar_variation.txt 1 2516 
+8,000 Solar_variation.txt 1 702 
+constant Solar_variation.txt 1 2804 
+regional Solar_variation.txt 1 3725 
+regularly Solar_variation.txt 2 1341 1404 
+peaked Solar_variation.txt 1 110 
+dominant Solar_variation.txt 1 250 
+fossil Solar_variation.txt 1 777 
+10 Solar_variation.txt 2 760 3273 
+compiled Solar_variation.txt 1 373 
+connections Solar_variation.txt 1 3474 
+samuel Solar_variation.txt 2 312 352 
+overall Solar_variation.txt 3 2484 2562 3293 
+fluid Solar_variation.txt 1 1452 
+rings Solar_variation.txt 1 1831 
+nearly Solar_variation.txt 2 173 554 
+closely Solar_variation.txt 1 2099 
+during Solar_variation.txt 17 742 800 1079 1100 2041 2319 2369 2391 2747 2870 2959 3007 3524 3576 3758 4010 4057 
+spallation Solar_variation.txt 1 2521 
+exhibit Solar_variation.txt 1 1715 
+father-and-son Solar_variation.txt 1 573 
+stability Solar_variation.txt 1 1482 
+evolution Solar_variation.txt 1 261 
+increasing Solar_variation.txt 1 1724 
+bar Solar_variation.txt 1 1317 
+17 Solar_variation.txt 1 357 
+fields Solar_variation.txt 7 516 1806 2226 2233 3228 3923 4149 
+differential Solar_variation.txt 2 3947 4061 
+isotopes Solar_variation.txt 2 1820 1906 
+european Solar_variation.txt 1 1237 
+w/m Solar_variation.txt 2 2658 2801 
+predicted Solar_variation.txt 1 140 
+though Solar_variation.txt 2 2852 3155 
+activity Solar_variation.txt 34 169 181 254 338 692 700 724 757 811 834 1004 1018 1115 1840 1903 1913 1927 2120 2488 2551 2566 2588 2786 2958 3006 3295 3305 3334 3681 3717 3857 4156 4210 4218 
+release Solar_variation.txt 1 1497 
+through Solar_variation.txt 5 322 2078 3573 3946 3977 
+cycles Solar_variation.txt 26 107 271 295 493 542 677 887 904 938 954 1653 1678 1693 1707 1723 1785 1920 1922 1991 2007 2057 2121 2383 2961 4013 4153 
+where Solar_variation.txt 1 1247 
+cells Solar_variation.txt 1 2294 
+twelve-month Solar_variation.txt 1 1076 
+view Solar_variation.txt 1 1204 
+large-scale Solar_variation.txt 4 2202 4109 4127 4147 
+centimetric Solar_variation.txt 1 3215 
+seu Solar_variation.txt 1 2305 
+mid-latitudes Solar_variation.txt 1 1263 
+could Solar_variation.txt 2 3376 3411 
+exists Solar_variation.txt 1 4195 
+variability Solar_variation.txt 1 3738 
+3940 Solar_variation.txt 1 853 
+undergoes Solar_variation.txt 2 623 1364 
+66.9 Solar_variation.txt 1 102 
+turbulent Solar_variation.txt 1 2198 
+notice Solar_variation.txt 1 2227 
+up Solar_variation.txt 2 1213 2810 
+detection Solar_variation.txt 1 513 
+collectively Solar_variation.txt 1 2892 
+see Solar_variation.txt 5 22 2833 3466 3868 4226 
+actively Solar_variation.txt 1 1156 
+lack Solar_variation.txt 2 4181 4202 
+are Solar_variation.txt 25 108 130 557 672 960 1159 1296 1357 1529 1560 1617 1699 2098 2162 2340 2428 2813 2854 2884 3133 3327 3358 3645 3682 4046 
+calendar Solar_variation.txt 2 21 25 
+outward Solar_variation.txt 1 2415 
+best Solar_variation.txt 2 1226 1282 
+reproduced Solar_variation.txt 1 1867 
+closer Solar_variation.txt 2 1267 1269 
+radiates Solar_variation.txt 1 1154 
+still Solar_variation.txt 1 4206 
+vertical Solar_variation.txt 2 2139 2153 
+ways Solar_variation.txt 1 3604 
+pattern Solar_variation.txt 1 1280 
+currently Solar_variation.txt 1 131 
+wikipedia Solar_variation.txt 1 2 
+dipole Solar_variation.txt 2 618 622 
+fission Solar_variation.txt 1 2523 
+tend Solar_variation.txt 1 1683 
+nucleation Solar_variation.txt 1 3416 
+halves Solar_variation.txt 1 667 
+outside Solar_variation.txt 2 605 2341 
+smallest Solar_variation.txt 1 147 
+various Solar_variation.txt 2 1116 2091 
+markedly Solar_variation.txt 2 3086 3875 
+between Solar_variation.txt 10 434 657 910 1171 1657 1846 2679 3697 3809 3917 
+0.18 Solar_variation.txt 1 3796 
+consecutive Solar_variation.txt 1 2382 
+boundary Solar_variation.txt 1 4171 
+numerous Solar_variation.txt 1 2904 
+across Solar_variation.txt 2 1201 2659 
+360 Solar_variation.txt 1 839 
+emissions Solar_variation.txt 1 3303 
+faculae Solar_variation.txt 3 1219 2824 2875 
+24 Solar_variation.txt 3 40 137 991 
+we Solar_variation.txt 1 129 
+acrimsat Solar_variation.txt 1 2667 
+august Solar_variation.txt 3 63 3013 3111 
+extend Solar_variation.txt 2 1974 1985 
+e.g Solar_variation.txt 1 2353 
+commercial Solar_variation.txt 1 3621 
+role Solar_variation.txt 1 3832 
+2023 Solar_variation.txt 2 1800 2962 
+weak Solar_variation.txt 1 978 
+however Solar_variation.txt 3 552 3050 4178 
+interfere Solar_variation.txt 1 3377 
+continuously Solar_variation.txt 2 3513 4088 
+incident Solar_variation.txt 1 2620 
+385 Solar_variation.txt 1 1996 
+recent Solar_variation.txt 4 922 953 3842 4130 
+fluctuations Solar_variation.txt 2 256 1716 
+tropospheric Solar_variation.txt 1 2982 
+article Solar_variation.txt 8 8 307 1106 1146 1421 2605 3558 3892 
+users Solar_variation.txt 1 3633 
+electrical Solar_variation.txt 1 3204 
+suppressed Solar_variation.txt 1 2587 
+declining Solar_variation.txt 1 4014 
+monitor Solar_variation.txt 1 3733 
+1645 Solar_variation.txt 1 435 
+both Solar_variation.txt 2 2723 3674 
+collaborators Solar_variation.txt 1 501 
+vhf Solar_variation.txt 1 3325 
+last Solar_variation.txt 3 89 732 791 
+reverse Solar_variation.txt 1 2234 
+brown Solar_variation.txt 2 4139 4179 
+many Solar_variation.txt 2 106 961 
+tsi Solar_variation.txt 11 2131 2156 2612 2626 2651 2768 2778 2834 2838 2845 2910 
+non-overlapping Solar_variation.txt 1 2680 
+heating Solar_variation.txt 2 2973 3286 
+called Solar_variation.txt 1 1537 
+regions Solar_variation.txt 1 3231 
+propagation Solar_variation.txt 2 3339 3597 
+s Solar_variation.txt 1 180 
+manifestations Solar_variation.txt 2 208 556 
+usable Solar_variation.txt 3 1851 3661 3669 
+long-term Solar_variation.txt 1 3675 
+tachoclines Solar_variation.txt 1 4185 
+whole Solar_variation.txt 1 596 
+comes Solar_variation.txt 1 1229 
+albeit Solar_variation.txt 1 1367 
+minima Solar_variation.txt 3 831 1713 3760 
+adjusted Solar_variation.txt 1 2146 
+key Solar_variation.txt 1 4122 
+timescale Solar_variation.txt 2 1194 2832 
+point Solar_variation.txt 2 1616 3959 
+reasons Solar_variation.txt 1 1472 
+seems Solar_variation.txt 1 932 
+cmes Solar_variation.txt 1 2268 
+period Solar_variation.txt 9 433 629 696 733 746 817 1077 2035 2040 
+proton Solar_variation.txt 1 2298 
+height Solar_variation.txt 1 2953 
+active Solar_variation.txt 3 2877 2927 3230 
+acrim Solar_variation.txt 4 2672 2677 2686 2695 
+spans Solar_variation.txt 1 539 
+carbon Solar_variation.txt 1 2016 
+69 Solar_variation.txt 1 49 
+actually Solar_variation.txt 1 933 
+alternates Solar_variation.txt 1 3999 
+10.62 Solar_variation.txt 1 808 
+graphics Solar_variation.txt 1 2836 
+three Solar_variation.txt 3 1619 1651 3761 
+described Solar_variation.txt 1 637 
+basis Solar_variation.txt 1 495 
+monthly Solar_variation.txt 1 1069 
+poloidal Solar_variation.txt 6 658 3920 3929 4027 4051 4069 
+due Solar_variation.txt 4 1217 3219 3500 3851 
+been Solar_variation.txt 13 80 211 714 785 936 1813 1865 1936 2003 2145 3464 4117 4213 
+quickly Solar_variation.txt 1 2408 
+magnetized Solar_variation.txt 4 510 604 2212 2865 
+much Solar_variation.txt 4 1188 1209 3493 3846 
+interest Solar_variation.txt 1 3619 
+mars Solar_variation.txt 1 2356 
+504 Solar_variation.txt 1 1997 
+extreme Solar_variation.txt 1 3045 
+walter Solar_variation.txt 1 451 
+engine Solar_variation.txt 1 2112 
+concentrated Solar_variation.txt 1 1358 
+generating Solar_variation.txt 1 4124 
+flight Solar_variation.txt 2 1351 1414 
+ranging Solar_variation.txt 1 975 
+f Solar_variation.txt 2 3801 3803 
+received Solar_variation.txt 1 3533 
+quantities Solar_variation.txt 1 2161 
+sufficient Solar_variation.txt 1 3423 
+releasing Solar_variation.txt 1 2185 
+c Solar_variation.txt 1 2529 
+gap Solar_variation.txt 2 1845 2678 
+implied Solar_variation.txt 1 1762 
+gleiberg Solar_variation.txt 2 1747 2373 
+2014 Solar_variation.txt 1 1044 
+improved Solar_variation.txt 1 3337 
+convergent Solar_variation.txt 1 1909 
+former Solar_variation.txt 1 2115 
+present Solar_variation.txt 3 775 816 983 
+case Solar_variation.txt 1 1614 
+high-activity Solar_variation.txt 1 769 
+atmospheric Solar_variation.txt 5 2515 2599 2944 2949 3394 
+these Solar_variation.txt 14 376 388 930 1479 1513 1599 1862 2204 2285 2925 3356 3632 3649 4173 
+variances Solar_variation.txt 1 3653 
+ejection Solar_variation.txt 3 191 1418 1424 
+appearance Solar_variation.txt 2 196 218 
+value Solar_variation.txt 1 2797 
+refracting Solar_variation.txt 1 3568 
+will Solar_variation.txt 1 69 
+while Solar_variation.txt 2 246 1353 
+sxt Solar_variation.txt 1 2999 
+eclipses Solar_variation.txt 1 1442 
+launched Solar_variation.txt 2 2642 2669 
+at Solar_variation.txt 36 71 483 486 750 788 982 1045 1262 1347 1359 1398 1410 1438 1454 1566 1570 1584 1593 1717 2215 2260 2309 2430 2499 2848 3114 3124 3214 3246 3484 3924 3957 4034 4042 4054 4169 
+2,300 Solar_variation.txt 2 1915 1977 
+8220 Solar_variation.txt 1 879 
+layer Solar_variation.txt 1 3507 
+studied Solar_variation.txt 1 375 
+winters Solar_variation.txt 2 3743 3752 
+gnevyshev-ohl Solar_variation.txt 1 684 
+century Solar_variation.txt 5 343 404 471 1734 2573 
+almost Solar_variation.txt 1 766 
+molecular Solar_variation.txt 1 2514 
+is Solar_variation.txt 57 9 113 171 248 412 443 585 603 613 729 804 818 1009 1277 1281 1308 1311 1321 1338 1395 1535 1549 1748 1950 1971 2174 2193 2331 2450 2480 2491 2613 2697 2741 2846 2862 2919 3069 3181 3186 3218 3235 3262 3288 3512 3616 3824 3845 3886 3899 3933 3952 4040 4053 4078 4175 4219 
+it Solar_variation.txt 10 247 650 898 1008 1433 3156 3277 3287 3689 4211 
+surface Solar_variation.txt 11 245 602 1151 1250 1305 1457 2179 2502 2537 3553 4199 
+middle Solar_variation.txt 1 2569 
+unit Solar_variation.txt 1 3244 
+vs Solar_variation.txt 2 1372 2733 
+converts Solar_variation.txt 1 4063 
+centennial Solar_variation.txt 1 1802 
+in Solar_variation.txt 86 50 62 103 116 121 159 177 184 198 215 237 239 252 349 365 400 464 503 520 570 726 814 1023 1037 1042 1056 1061 1138 1284 1449 1467 1476 1615 1625 1777 1799 1804 1807 1822 1963 1989 2052 2127 2165 2172 2188 2235 2295 2441 2462 2475 2494 2543 2634 2724 2728 2780 2933 2937 2954 2978 3004 3043 3135 3195 3225 3265 3430 3503 3508 3530 3541 3602 3655 3679 3744 3753 3804 3833 3858 3865 3960 4032 4090 4103 4222 
+claimed Solar_variation.txt 1 3403 
+march Solar_variation.txt 1 1085 
+convection Solar_variation.txt 2 2199 3968 
+68.9 Solar_variation.txt 1 61 
+increased Solar_variation.txt 3 2389 3364 3547 
+result Solar_variation.txt 1 3429 
+different Solar_variation.txt 3 484 487 968 
+lengths Solar_variation.txt 1 1704 
+media Solar_variation.txt 1 260 
+began Solar_variation.txt 4 886 997 1022 2633 
+radiation Solar_variation.txt 15 189 1507 2274 2288 2318 2330 2986 3042 3064 3143 3166 3175 3197 3368 3572 
+5870 Solar_variation.txt 1 3034 
+same Solar_variation.txt 3 628 2152 2311 
+any Solar_variation.txt 2 1557 3447 
+shorter Solar_variation.txt 1 772 
+shifts Solar_variation.txt 1 4017 
+6220 Solar_variation.txt 1 869 
+parts Solar_variation.txt 1 488 
+potentially Solar_variation.txt 1 3391 
+grand Solar_variation.txt 1 830 
+damon Solar_variation.txt 1 2012 
+success Solar_variation.txt 1 3710 
+constructed Solar_variation.txt 2 1339 1402 
+epochs Solar_variation.txt 1 2585 
+events Solar_variation.txt 5 812 1600 2299 2306 2449 
+higher Solar_variation.txt 5 679 2847 2967 3341 3863 
+evolve Solar_variation.txt 1 1448 
+satellite Solar_variation.txt 4 1162 1860 2631 3107 
+used Solar_variation.txt 1 430 
+centuries Solar_variation.txt 1 229 
+1950s Solar_variation.txt 1 3867 
+cloud Solar_variation.txt 1 3431 
+driver Solar_variation.txt 2 2908 3189 
+sprer Solar_variation.txt 2 463 475 
+flows Solar_variation.txt 1 2203 
+driven Solar_variation.txt 1 1118 
+levels Solar_variation.txt 5 186 2552 3296 3331 3349 
+spanned Solar_variation.txt 1 906 
+changing Solar_variation.txt 1 2455 
+strength Solar_variation.txt 5 2259 3938 3956 4044 4056 
+11,400 Solar_variation.txt 3 694 711 764 
+ranged Solar_variation.txt 1 889 
+cycle Solar_variation.txt 75 1 13 17 24 39 136 149 151 165 170 321 346 382 411 491 538 564 584 633 671 686 783 798 956 973 990 996 1026 1047 1051 1082 1102 1112 1124 1174 1258 1554 1612 1660 1743 1758 1761 1767 1792 1934 1943 1947 1949 1961 1970 1983 2103 2454 2722 2787 2917 2990 3010 3089 3118 3128 3390 3459 3499 3582 3722 3771 3898 3908 3963 4002 4009 4060 4083 4098 
+numbered Solar_variation.txt 1 414 
+lower Solar_variation.txt 1 680 
+center Solar_variation.txt 2 1352 1415 
+upwelling Solar_variation.txt 1 3965 
+possibly Solar_variation.txt 1 2005 
+changes Solar_variation.txt 11 183 197 214 221 231 1356 1366 2911 2932 3387 3654 
+no Solar_variation.txt 2 984 1098 
+well Solar_variation.txt 3 1509 2029 3299 
+roughly Solar_variation.txt 1 3986 
+entering Solar_variation.txt 2 2435 2507 
+accumulation Solar_variation.txt 1 2210 
+thought Solar_variation.txt 3 901 1749 4118 
+patterns Solar_variation.txt 1 1646 
+64.2 Solar_variation.txt 1 158 
+historic Solar_variation.txt 1 1835 
+chronicles Solar_variation.txt 1 1140 
+components Solar_variation.txt 1 2731 
+swiss Solar_variation.txt 1 330 
+model Solar_variation.txt 1 636 
+chemistry Solar_variation.txt 1 3192 
+drawing Solar_variation.txt 1 1134 
+805 Solar_variation.txt 2 1095 1998 
+5990 Solar_variation.txt 1 867 
+bending Solar_variation.txt 1 3567 
+summer Solar_variation.txt 1 53 
+just Solar_variation.txt 1 1782 
+less Solar_variation.txt 3 949 1686 2903 
+hypothesized Solar_variation.txt 2 1921 1972 
+percent Solar_variation.txt 1 2745 
+accurate Solar_variation.txt 1 1020 
+numbering Solar_variation.txt 1 407 
+forecasting Solar_variation.txt 2 2377 3612 
+sources Solar_variation.txt 1 2011 
+shape Solar_variation.txt 1 1436 
+stored Solar_variation.txt 1 1821 
+distant Solar_variation.txt 1 2555 
+human Solar_variation.txt 1 3476 
+followed Solar_variation.txt 1 3711 
+scattering Solar_variation.txt 2 2431 2461 
+yet Solar_variation.txt 3 1474 1981 4205 
+previous Solar_variation.txt 1 4082 
+radiometers Solar_variation.txt 1 2640 
+claim Solar_variation.txt 1 3470 
+cm Solar_variation.txt 2 3251 3373 
+flares Solar_variation.txt 5 205 1492 1548 1555 1622 
+satellites Solar_variation.txt 6 2296 2644 2661 2665 2681 3153 
+scenario Solar_variation.txt 1 4094 
+photons Solar_variation.txt 1 3590 
+scales Solar_variation.txt 2 1719 2140 
+had Solar_variation.txt 5 154 905 945 1097 3873 
+17891875 Solar_variation.txt 1 315 
+source Solar_variation.txt 1 2109 
+internal Solar_variation.txt 2 3941 4020 
+4 Solar_variation.txt 1 1000 
+overview Solar_variation.txt 1 1649 
+1361.5 Solar_variation.txt 1 2800 
+overcompensate Solar_variation.txt 1 2893 
+has Solar_variation.txt 13 79 93 784 924 1935 3306 3463 3690 3775 4115 4132 4159 4212 
+plasma Solar_variation.txt 3 2426 3223 3285 
+divided Solar_variation.txt 1 1297 
+identical Solar_variation.txt 1 674 
+radiocarbon Solar_variation.txt 3 815 1953 2034 
+gustav Solar_variation.txt 1 462 
+insensitive Solar_variation.txt 1 558 
+around Solar_variation.txt 4 738 836 2250 2794 
+loss Solar_variation.txt 1 2940 
+bands Solar_variation.txt 2 3319 3343 
+showing Solar_variation.txt 2 1898 2688 
+point-to-point Solar_variation.txt 1 3379 
+results Solar_variation.txt 1 3419 
+4330 Solar_variation.txt 1 857 
+corresponds Solar_variation.txt 2 3910 4099 
+early Solar_variation.txt 5 402 802 1006 1043 3702 
+interior Solar_variation.txt 1 1470 
+increases Solar_variation.txt 1 3194 
+monthly-averaged Solar_variation.txt 1 1303 
+five Solar_variation.txt 2 90 133 
+sonett Solar_variation.txt 1 2014 
+shortwave Solar_variation.txt 2 3318 3630 
+using Solar_variation.txt 4 716 1815 1834 1868 
+emergence Solar_variation.txt 3 1459 1883 3971 
+gleisberg Solar_variation.txt 1 1760 
+carbon-14 Solar_variation.txt 3 717 1816 1990 
+vertically Solar_variation.txt 1 1313 
+rotate Solar_variation.txt 1 1200 
+appearing Solar_variation.txt 1 482 
+0.07 Solar_variation.txt 1 2744 
+particle Solar_variation.txt 1 2327 
+systematically Solar_variation.txt 1 2719 
+splitting Solar_variation.txt 1 3517 
+signal Solar_variation.txt 1 3338 
+50 Solar_variation.txt 1 1562 
+serves Solar_variation.txt 1 2105 
+units Solar_variation.txt 1 3270 
+ozone Solar_variation.txt 5 2942 2968 3506 3511 3545 
+flux Solar_variation.txt 19 1462 1873 1886 2134 2187 2192 2275 2314 2328 2412 2474 2497 3084 3137 3185 3208 3242 3269 3375 
+continue Solar_variation.txt 1 1729 
+either Solar_variation.txt 1 3607 
+lose Solar_variation.txt 1 1481 
+time-series Solar_variation.txt 1 1329 
+decrease Solar_variation.txt 2 3529 3540 
+downward Solar_variation.txt 1 2708 
+solar-cycle Solar_variation.txt 1 3925 
+soft Solar_variation.txt 1 3100 
+reduced Solar_variation.txt 1 2313 
+organisms Solar_variation.txt 2 3452 3462 
+because Solar_variation.txt 2 553 1109 
+often Solar_variation.txt 2 962 3263 
+surrounded Solar_variation.txt 1 4163 
+do Solar_variation.txt 2 3444 3828 
+affects Solar_variation.txt 1 3595 
+30 Solar_variation.txt 3 2947 3014 3112 
+successfully Solar_variation.txt 1 1866 
+phenomena Solar_variation.txt 7 479 1103 1108 1120 1515 2094 2097 
+back Solar_variation.txt 3 339 383 4066 
+japanese Solar_variation.txt 1 3106 
+understood Solar_variation.txt 1 1475 
+astronomer Solar_variation.txt 2 317 331 
+ejections Solar_variation.txt 5 1130 1487 1546 1575 2271 
+warmer Solar_variation.txt 1 3751 
+rise Solar_variation.txt 2 2690 3981 
+duration Solar_variation.txt 1 275 
+matching Solar_variation.txt 1 2006 
+transport Solar_variation.txt 1 2205 
+770 Solar_variation.txt 1 841 
+consensus Solar_variation.txt 1 3817 
+mid-cycle Solar_variation.txt 1 2749 
+amongst Solar_variation.txt 1 2575 
+for Solar_variation.txt 21 14 37 228 758 787 795 970 1212 1471 1730 1975 2113 2141 2354 2364 2894 3099 3146 3159 3670 3740 
+communications Solar_variation.txt 5 3314 3381 3611 3625 3671 
+electromagnetic Solar_variation.txt 1 3571 
+measurements Solar_variation.txt 3 2498 2652 3727 
+recorded Solar_variation.txt 3 813 1016 1951 
+extensively Solar_variation.txt 1 454 
+ice Solar_variation.txt 2 1827 2544 
+shelter Solar_variation.txt 1 2363 
+does Solar_variation.txt 1 1602 
+deficit Solar_variation.txt 1 2897 
+provides Solar_variation.txt 1 2423 
+914 Solar_variation.txt 1 891 
+hotter Solar_variation.txt 2 2886 3051 
+moderate Solar_variation.txt 1 980 
+minimal Solar_variation.txt 1 1003 
+refer Solar_variation.txt 1 285 
+hinder Solar_variation.txt 1 3610 
+be Solar_variation.txt 11 70 429 807 988 1254 1751 2531 2541 2761 3413 4120 
+specifically Solar_variation.txt 1 3819 
+sfu Solar_variation.txt 2 3266 3272 
+radial Solar_variation.txt 1 1378 
+scientific Solar_variation.txt 1 3816 
+bc Solar_variation.txt 22 840 842 844 846 848 850 852 854 856 858 860 862 864 866 868 870 872 874 876 878 880 883 
+300 Solar_variation.txt 1 3485 
+each Solar_variation.txt 3 1257 2142 4095 
+photo Solar_variation.txt 1 3091 
+expansion Solar_variation.txt 1 2416 
+6,000 Solar_variation.txt 1 1987 
+pressure Solar_variation.txt 1 2950 
+display Solar_variation.txt 2 4152 4207 
+0.045%/decade Solar_variation.txt 1 2711 
+protective Solar_variation.txt 1 3505 
+although Solar_variation.txt 4 1955 3320 3344 4112 
+found Solar_variation.txt 1 3473 
+major Solar_variation.txt 3 3188 3308 3438 
+includes Solar_variation.txt 1 3434 
+by Solar_variation.txt 35 213 220 351 396 461 498 1186 1207 1343 1406 1464 1494 1552 1833 2197 2345 2452 2670 2684 2699 2815 2822 2864 3104 3148 3360 3415 3491 3515 3521 3566 3588 3648 3712 4164 
+on Solar_variation.txt 35 223 232 243 264 819 967 998 1010 1191 1521 1577 1606 1635 1644 2150 2307 2335 2381 2384 2534 2621 2643 2694 2829 2912 3176 3310 3316 3340 3369 3460 3665 3780 3884 4087 
+about Solar_variation.txt 10 10 48 277 1182 1775 1797 2792 2799 2806 3397 
+hidden Solar_variation.txt 1 4238 
+rare Solar_variation.txt 1 4048 
+carried Solar_variation.txt 1 332 
+increasingly Solar_variation.txt 1 3586 
+3500 Solar_variation.txt 1 849 
+of Solar_variation.txt 166 18 47 54 98 157 161 187 192 203 262 276 289 309 325 336 359 369 394 440 468 480 489 514 528 568 575 606 647 655 668 690 697 722 734 755 761 828 832 918 929 942 1071 1094 1135 1141 1143 1164 1181 1198 1235 1287 1293 1306 1368 1376 1380 1393 1440 1460 1498 1503 1533 1543 1556 1598 1609 1641 1650 1667 1705 1732 1755 1774 1796 1837 1849 1858 1884 1890 1911 1925 1958 1992 2022 2058 2159 2170 2211 2223 2243 2253 2276 2315 2326 2397 2417 2425 2446 2458 2486 2549 2564 2570 2578 2586 2589 2616 2639 2663 2766 2772 2791 2798 2809 2820 2879 2909 2924 2941 2993 2997 3024 3033 3041 3054 3117 3127 3138 3163 3169 3190 3238 3249 3255 3281 3292 3332 3350 3362 3366 3406 3456 3480 3518 3544 3562 3579 3598 3613 3617 3773 3795 3821 3841 3879 3881 3901 3915 3972 3984 3996 4106 4138 4154 4172 4189 
+months Solar_variation.txt 2 91 1216 
+radiation-shielded Solar_variation.txt 1 2361 
+generated Solar_variation.txt 2 3945 4221 
+quasi-steady Solar_variation.txt 1 645 
+mutually Solar_variation.txt 1 963 
+carries Solar_variation.txt 1 4086 
+wolf Solar_variation.txt 4 328 372 416 424 
+positive Solar_variation.txt 1 2386 
+or Solar_variation.txt 9 166 543 1491 1735 3141 3151 3267 3609 3640 
+sensitively Solar_variation.txt 1 1605 
+allowing Solar_variation.txt 2 2546 3546 
+equally Solar_variation.txt 1 698 
+sheets Solar_variation.txt 1 1828 
+enough Solar_variation.txt 1 2512 
+radiative Solar_variation.txt 3 2618 4161 4182 
+into Solar_variation.txt 7 135 1298 1488 1895 2082 2420 2553 
+within Solar_variation.txt 3 3636 3949 3966 
+color-coded Solar_variation.txt 1 1316 
+predictions Solar_variation.txt 1 965 
+down Solar_variation.txt 1 1587 
+240 Solar_variation.txt 1 2045 
+right Solar_variation.txt 1 820 
+rising Solar_variation.txt 1 81 
+primarily Solar_variation.txt 1 3220 
+cycle-related Solar_variation.txt 1 3131 
+single-event Solar_variation.txt 1 2303 
+methods Solar_variation.txt 1 969 
+17551766 Solar_variation.txt 1 410 
+span Solar_variation.txt 2 296 2598 
+accelerator Solar_variation.txt 1 3418 
+17841799 Solar_variation.txt 1 931 
+there Solar_variation.txt 2 959 1158 
+long Solar_variation.txt 2 3311 4116 
+noticed Solar_variation.txt 1 361 
+short-wavelength Solar_variation.txt 2 2985 3063 
+start Solar_variation.txt 1 1857 
+accordingly Solar_variation.txt 1 2467 
+heliosphere Solar_variation.txt 2 1811 1897 
+low Solar_variation.txt 3 1399 3324 3887 
+way Solar_variation.txt 1 2077 
+cooperative Solar_variation.txt 1 1233 
+researchers Solar_variation.txt 1 3469 
+was Solar_variation.txt 11 124 347 496 749 899 1083 1090 1781 2668 2682 3861 
+ten Solar_variation.txt 2 2660 2994 
+lowest Solar_variation.txt 1 1015 
+project Solar_variation.txt 1 1234 
+mineral Solar_variation.txt 1 2049 
+dendroclimatology Solar_variation.txt 1 719 
+amateur Solar_variation.txt 1 3626 
+complete Solar_variation.txt 1 536 
+form Solar_variation.txt 1 1286 
+offer Solar_variation.txt 1 1907 
+aircraft Solar_variation.txt 1 3624 
+some Solar_variation.txt 4 1561 2177 2503 3468 
+uv Solar_variation.txt 9 2732 2934 2963 3080 3140 3171 3184 3302 3737 
+19962013 Solar_variation.txt 1 2767 
+but Solar_variation.txt 8 111 921 2167 2842 2902 3688 3777 3939 
+idealized Solar_variation.txt 1 4092 
+repeated Solar_variation.txt 1 1322 
+rays Solar_variation.txt 7 1663 2284 2434 2506 3399 3410 3593 
+repeatedly Solar_variation.txt 1 2594 
+solar Solar_variation.txt 142 0 5 23 164 167 188 193 253 270 280 283 310 320 337 345 541 563 583 601 661 691 723 782 810 833 972 995 1030 1081 1107 1111 1119 1123 1165 1249 1275 1345 1373 1382 1388 1408 1426 1441 1456 1469 1567 1585 1594 1611 1630 1652 1710 1722 1766 1786 1892 1912 1918 1926 2061 2084 2093 2096 2118 2201 2217 2245 2254 2262 2282 2293 2297 2320 2392 2418 2437 2447 2465 2478 2487 2550 2565 2601 2606 2610 2617 2716 2739 2750 2755 2784 2803 2849 2871 2913 2928 2957 2960 2989 3005 3078 3139 3165 3170 3183 3206 3240 3258 3268 3294 3301 3351 3367 3374 3439 3458 3498 3526 3581 3589 3650 3656 3680 3698 3716 3736 3759 3765 3789 3810 3826 3843 3856 3882 3888 3893 3906 3921 4001 4012 4035 4216 
+highest Solar_variation.txt 2 2577 3667 
+with Solar_variation.txt 23 626 643 1002 1177 1221 1679 1694 1928 2482 2513 2782 2788 2899 2956 3030 3300 3378 3475 3708 3718 3792 3989 4074 
+considerable Solar_variation.txt 1 3618 
+heinrich Solar_variation.txt 2 313 353 
+observation Solar_variation.txt 2 311 1676 
+begins Solar_variation.txt 1 1259 
+made Solar_variation.txt 1 989 
+characteristic Solar_variation.txt 1 1435 
+latitudinal Solar_variation.txt 1 1299 
+official Solar_variation.txt 1 67 
+variations Solar_variation.txt 15 895 1803 1863 1914 2021 2088 2158 2627 2805 2839 3132 3502 3678 3766 3827 
+maximum Solar_variation.txt 23 46 68 156 281 290 1031 1065 1568 1586 1681 1697 1770 1795 2255 2321 2393 2751 2850 3660 3811 3926 3955 4055 
+us Solar_variation.txt 1 3029 
+lead Solar_variation.txt 3 2089 2207 3335 
+record Solar_variation.txt 2 1645 1967 
+frequency Solar_variation.txt 7 1542 2445 3245 3342 3639 3662 3668 
+limit Solar_variation.txt 1 3664 
+reflects Solar_variation.txt 1 1113 
+disturbances Solar_variation.txt 1 3355 
+1745 Solar_variation.txt 1 385 
+radiatively Solar_variation.txt 1 2926 
+similar Solar_variation.txt 2 735 3130 
+calculated Solar_variation.txt 1 1309 
+x-ray Solar_variation.txt 4 1506 3083 3101 3174 
+darker Solar_variation.txt 1 2855 
+strongly Solar_variation.txt 2 509 1550 
+unfolding Solar_variation.txt 1 590 
+dangerous Solar_variation.txt 1 2332 
+associated Solar_variation.txt 3 1220 1801 2898 
+ad Solar_variation.txt 1 838 
+links Solar_variation.txt 1 4235 
+m Solar_variation.txt 1 3275 
+9170 Solar_variation.txt 1 882 
+measure Solar_variation.txt 2 3237 3280 
+strips Solar_variation.txt 1 1300 
+an Solar_variation.txt 15 273 915 1632 1648 1752 1979 2371 2685 2742 2789 2795 3289 3912 3940 4091 
+images Solar_variation.txt 2 1292 3000 
+as Solar_variation.txt 29 226 445 594 630 1187 1189 1208 1210 1243 1256 1314 1508 1510 1639 1826 1980 2028 2030 2106 2155 2281 2468 2528 2874 3102 3144 3492 3494 4006 
+reservoirs Solar_variation.txt 1 1824 
+periods Solar_variation.txt 5 288 770 1731 1929 2023 
+our Solar_variation.txt 1 1668 
+correlation Solar_variation.txt 1 2171 
+physical Solar_variation.txt 1 494 
+again Solar_variation.txt 1 82 
+camp Solar_variation.txt 1 3784 
+nm Solar_variation.txt 1 3486 
+tachocline Solar_variation.txt 4 3951 4114 4177 4204 
+ingredients Solar_variation.txt 1 664 
+pmod Solar_variation.txt 1 2701 
+drivers Solar_variation.txt 1 1532 
+when Solar_variation.txt 2 1157 1195 
+detail Solar_variation.txt 1 1477 
+87 Solar_variation.txt 1 1738 
+end Solar_variation.txt 1 1848 
+field Solar_variation.txt 22 612 642 663 1252 1355 1384 1428 1446 2063 2068 2247 2349 3932 3944 3976 4023 4028 4039 4052 4073 4111 4129 
+other Solar_variation.txt 6 207 378 2010 2095 2736 2867 
+5 Solar_variation.txt 1 1637 
+papers Solar_variation.txt 1 3402 
+dipolar Solar_variation.txt 2 2241 3930 
+2006 Solar_variation.txt 1 1627 
+hpa Solar_variation.txt 1 2948 
+short-term Solar_variation.txt 2 2020 3677 
+reverses Solar_variation.txt 1 2248 
+contemporaries Solar_variation.txt 1 399 
+polar Solar_variation.txt 1 2225 
+europe Solar_variation.txt 2 3749 3757 
+elements Solar_variation.txt 1 2878 
+energetic Solar_variation.txt 1 1511 
+living Solar_variation.txt 1 3461 
+models Solar_variation.txt 2 1869 2715 
+durations Solar_variation.txt 1 2591 
+distance Solar_variation.txt 1 3312 
+variation Solar_variation.txt 11 6 364 1919 2769 2835 3003 3098 3699 3772 3794 3844 
+emission Solar_variation.txt 3 1502 3210 3260 
+meaning Solar_variation.txt 1 939 
+coronal Solar_variation.txt 10 1128 1416 1422 1444 1485 1544 1573 2269 3222 3284 
+peak Solar_variation.txt 8 86 101 120 1034 2258 3116 3126 3254 
+coverage Solar_variation.txt 1 2923 
+solar-like Solar_variation.txt 2 4191 4208 
+variable Solar_variation.txt 2 251 2175 
+dispersed Solar_variation.txt 1 2194 
+structure Solar_variation.txt 2 3076 4187 
+ago Solar_variation.txt 3 704 741 2048 
+ipcc Solar_variation.txt 1 3823 
+independently Solar_variation.txt 1 476 
+correlated Solar_variation.txt 1 1701 
+driving Solar_variation.txt 2 1501 3834 
+0.14 Solar_variation.txt 1 3802 
+vries Solar_variation.txt 1 1946 
+changed Solar_variation.txt 1 2952 
+lasted Solar_variation.txt 2 948 1052 
+rule Solar_variation.txt 1 685 
+2000 Solar_variation.txt 1 1086 
+nasa Solar_variation.txt 4 1241 1348 1411 3028 
+mass Solar_variation.txt 7 1129 1417 1423 1486 1545 1574 2270 
+1360 Solar_variation.txt 1 2655 
+time Solar_variation.txt 7 439 1371 1687 1718 1844 2252 2597 
+cores Solar_variation.txt 2 2545 4183 
+2008 Solar_variation.txt 3 913 1001 1063 
+70100 Solar_variation.txt 1 1740 
+expands Solar_variation.txt 1 2394 
+original Solar_variation.txt 1 550 
+external Solar_variation.txt 3 3928 4026 4234 

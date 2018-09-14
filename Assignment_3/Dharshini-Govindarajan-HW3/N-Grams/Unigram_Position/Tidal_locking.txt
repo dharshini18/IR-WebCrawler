@@ -1,0 +1,698 @@
+all Tidal_locking.txt 2 65 1398 
+consider Tidal_locking.txt 1 375 
+caused Tidal_locking.txt 3 401 598 1574 
+magnetic Tidal_locking.txt 1 1918 
+asteroids Tidal_locking.txt 2 2084 2284 
+results Tidal_locking.txt 6 5 28 194 880 1377 1707 
+month Tidal_locking.txt 1 1052 
+eccentricity Tidal_locking.txt 3 188 1267 1584 
+spacecraft Tidal_locking.txt 1 1504 
+per Tidal_locking.txt 1 2106 
+faster Tidal_locking.txt 1 2177 
+centers Tidal_locking.txt 1 1621 
+poorly Tidal_locking.txt 1 1946 
+certainly Tidal_locking.txt 1 1894 
+to Tidal_locking.txt 66 20 56 75 248 257 269 296 311 390 395 437 483 505 525 538 555 594 609 612 726 759 797 807 951 1004 1066 1070 1106 1189 1213 1232 1273 1286 1366 1402 1423 1520 1527 1564 1582 1591 1598 1753 1757 1838 1852 1861 1865 1930 1962 2000 2004 2027 2038 2053 2071 2143 2246 2277 2317 2332 2336 2367 2384 2388 2392 
+finally Tidal_locking.txt 1 1147 
+present Tidal_locking.txt 1 2347 
+583.92-day Tidal_locking.txt 1 1747 
+case Tidal_locking.txt 5 184 302 898 1204 2149 
+synchronized Tidal_locking.txt 1 1815 
+orthogonal Tidal_locking.txt 1 482 
+far Tidal_locking.txt 3 73 1481 1497 
+frequencies Tidal_locking.txt 1 831 
+distort Tidal_locking.txt 1 455 
+resistance Tidal_locking.txt 1 593 
+every Tidal_locking.txt 3 1021 1700 2075 
+formula Tidal_locking.txt 1 1940 
+difference Tidal_locking.txt 1 278 
+categories Tidal_locking.txt 2 2401 2403 
+discovered Tidal_locking.txt 1 1800 
+list Tidal_locking.txt 1 2303 
+large Tidal_locking.txt 4 547 1344 1362 2173 
+these Tidal_locking.txt 2 498 2380 
+small Tidal_locking.txt 2 290 822 
+venus Tidal_locking.txt 1 1745 
+smaller Tidal_locking.txt 5 577 874 953 1164 2180 
+force Tidal_locking.txt 5 130 421 602 779 1316 
+occurrence Tidal_locking.txt 1 1268 
+ten Tidal_locking.txt 1 2007 
+zero Tidal_locking.txt 1 191 
+traveling Tidal_locking.txt 1 536 
+further Tidal_locking.txt 1 2008 
+dynamics Tidal_locking.txt 1 2291 
+estimated Tidal_locking.txt 1 1987 
+blue Tidal_locking.txt 1 358 
+appear Tidal_locking.txt 1 1519 
+rate Tidal_locking.txt 3 388 943 1908 
+giving Tidal_locking.txt 1 1966 
+sun Tidal_locking.txt 5 993 1075 1219 1667 1705 
+plutos Tidal_locking.txt 1 1386 
+while Tidal_locking.txt 1 77 
+current Tidal_locking.txt 2 981 1006 
+engulfs Tidal_locking.txt 1 1081 
+fossil Tidal_locking.txt 1 979 
+expresses Tidal_locking.txt 1 1819 
+net Tidal_locking.txt 3 157 361 783 
+rigidity Tidal_locking.txt 1 2302 
+body Tidal_locking.txt 18 240 272 346 365 369 393 398 461 542 921 937 1165 1188 1281 1929 2142 2156 2335 
+dwarf Tidal_locking.txt 1 1118 
+extrasolar Tidal_locking.txt 2 1846 2394 
+never Tidal_locking.txt 1 1283 
+here Tidal_locking.txt 1 1179 
+pluto Tidal_locking.txt 6 304 1120 1140 1347 1379 2151 
+hours Tidal_locking.txt 4 1003 1008 2077 2091 
+following Tidal_locking.txt 1 1939 
+objects Tidal_locking.txt 3 165 380 2119 
+directions Tidal_locking.txt 1 481 
+i.e Tidal_locking.txt 1 565 
+along Tidal_locking.txt 3 468 573 1595 
+strong Tidal_locking.txt 2 2131 2236 
+appears Tidal_locking.txt 1 1526 
+change Tidal_locking.txt 1 385 
+extreme Tidal_locking.txt 1 1352 
+obtained Tidal_locking.txt 2 1936 1997 
+chaotic Tidal_locking.txt 1 2248 
+parameters Tidal_locking.txt 2 1983 2157 
+noticeable Tidal_locking.txt 1 971 
+leaves Tidal_locking.txt 1 1981 
+larger Tidal_locking.txt 6 271 397 817 920 936 2217 
+allows Tidal_locking.txt 1 1589 
+experience Tidal_locking.txt 1 580 
+gravitationally Tidal_locking.txt 1 1300 
+bulges Tidal_locking.txt 11 343 410 493 499 519 535 622 669 692 698 788 
+periodic Tidal_locking.txt 1 596 
+resulting Tidal_locking.txt 1 784 
+usually Tidal_locking.txt 1 262 
+resonance Tidal_locking.txt 6 1145 1173 1223 1256 1695 1823 
+changes Tidal_locking.txt 1 811 
+elongated Tidal_locking.txt 3 467 487 572 
+lowers Tidal_locking.txt 1 914 
+diameter Tidal_locking.txt 1 771 
+importantly Tidal_locking.txt 1 2272 
+tau Tidal_locking.txt 1 1875 
+offset Tidal_locking.txt 1 1615 
+lengthen Tidal_locking.txt 1 996 
+increased Tidal_locking.txt 1 1045 
+visible Tidal_locking.txt 3 1135 1446 1767 
+total Tidal_locking.txt 1 1553 
+from Tidal_locking.txt 22 125 422 630 638 652 702 743 786 1000 1136 1199 1447 1469 1501 1512 1561 1601 1616 1768 2022 2187 2238 
+takes Tidal_locking.txt 2 19 244 
+would Tidal_locking.txt 2 67 1027 
+two Tidal_locking.txt 5 164 281 532 1057 1701 
+hydra Tidal_locking.txt 1 1397 
+depicted Tidal_locking.txt 1 833 
+asteroid Tidal_locking.txt 1 1412 
+overhead Tidal_locking.txt 1 545 
+distortions Tidal_locking.txt 1 488 
+taken Tidal_locking.txt 1 2112 
+is Tidal_locking.txt 62 47 53 146 154 189 226 233 266 300 309 400 513 544 571 585 607 662 689 757 790 816 844 864 931 948 959 1063 1116 1133 1154 1160 1194 1205 1211 1359 1414 1438 1445 1467 1477 1510 1604 1646 1755 1781 1792 1810 1880 1892 1915 1960 2035 2044 2065 2069 2128 2163 2204 2211 2225 2228 2295 
+more Tidal_locking.txt 5 156 1594 1637 1736 2271 
+comparison Tidal_locking.txt 2 1365 2326 
+becomes Tidal_locking.txt 2 970 1076 
+binary Tidal_locking.txt 1 1831 
+tandem Tidal_locking.txt 1 890 
+varying Tidal_locking.txt 1 1578 
+known Tidal_locking.txt 7 208 490 1203 1947 2305 2375 2378 
+cases Tidal_locking.txt 1 1150 
+must Tidal_locking.txt 1 1985 
+keeping Tidal_locking.txt 1 32 
+rotational Tidal_locking.txt 5 814 857 893 1541 2086 
+locked Tidal_locking.txt 28 239 268 295 321 517 1069 1105 1178 1212 1305 1385 1392 1426 1441 1457 1547 1812 1841 1864 1883 1933 2214 2307 2319 2369 2383 2387 2391 
+this Tidal_locking.txt 20 27 122 299 307 445 484 583 595 847 879 985 1026 1376 1588 1629 1668 1775 2039 2203 2227 
+venusian Tidal_locking.txt 1 1759 
+remain Tidal_locking.txt 1 1528 
+can Tidal_locking.txt 9 168 500 1244 1631 1903 1934 2050 2109 2158 
+reshaping Tidal_locking.txt 1 597 
+universe Tidal_locking.txt 1 1835 
+exceptions Tidal_locking.txt 1 1327 
+making Tidal_locking.txt 1 1762 
+example Tidal_locking.txt 7 213 956 1115 1246 1353 1869 2201 
+history Tidal_locking.txt 1 1732 
+nearest Tidal_locking.txt 1 435 
+weaker Tidal_locking.txt 1 949 
+figure Tidal_locking.txt 2 44 88 
+give Tidal_locking.txt 1 2054 
+process Tidal_locking.txt 1 848 
+lock Tidal_locking.txt 5 392 1357 1914 2176 2333 
+0.4 Tidal_locking.txt 1 507 
+dependence Tidal_locking.txt 2 2132 2269 
+high Tidal_locking.txt 2 533 2046 
+cube Tidal_locking.txt 1 2194 
+tidally Tidal_locking.txt 21 238 267 294 391 516 1068 1104 1177 1304 1384 1391 1425 1440 1456 1811 1840 1863 1882 1932 2213 2306 
+sense Tidal_locking.txt 1 749 
+conversely Tidal_locking.txt 1 475 
+axis Tidal_locking.txt 13 12 253 353 470 485 576 633 654 675 705 1537 2016 2135 
+terrestrial Tidal_locking.txt 1 1242 
+end Tidal_locking.txt 1 1167 
+rather Tidal_locking.txt 1 1174 
+divided Tidal_locking.txt 1 330 
+acts Tidal_locking.txt 3 725 745 796 
+1 Tidal_locking.txt 1 1636 
+very Tidal_locking.txt 4 1312 1373 1728 1945 
+hot Tidal_locking.txt 1 332 
+2:1 Tidal_locking.txt 1 1252 
+instead Tidal_locking.txt 2 693 1688 
+if Tidal_locking.txt 7 58 274 340 658 685 813 1887 
+displacements Tidal_locking.txt 1 502 
+circular Tidal_locking.txt 1 236 
+ft Tidal_locking.txt 1 510 
+proxima Tidal_locking.txt 2 1794 1808 
+may Tidal_locking.txt 9 292 1093 1102 1166 1555 1873 2017 2257 2274 
+lag Tidal_locking.txt 1 694 
+orbits Tidal_locking.txt 2 1804 2220 
+such Tidal_locking.txt 2 2169 2293 
+revealed Tidal_locking.txt 1 976 
+a Tidal_locking.txt 62 104 115 137 237 345 360 376 381 399 424 438 447 473 543 561 639 657 678 715 744 760 766 775 821 867 882 888 938 941 1029 1042 1050 1077 1110 1129 1170 1187 1201 1221 1240 1250 1320 1355 1360 1372 1605 1633 1692 1820 1877 1885 1906 1928 1955 2055 2140 2172 2179 2199 2222 2334 2361 
+whenever Tidal_locking.txt 1 1671 
+q Tidal_locking.txt 1 1989 
+inhabitants Tidal_locking.txt 1 1277 
+so Tidal_locking.txt 6 773 849 1461 1888 1991 2045 
+microseconds Tidal_locking.txt 1 1020 
+travel Tidal_locking.txt 1 520 
+rounded Tidal_locking.txt 1 1301 
+produces Tidal_locking.txt 1 560 
+astronomical Tidal_locking.txt 2 108 548 
+vary Tidal_locking.txt 1 428 
+meter Tidal_locking.txt 1 2107 
+distortion Tidal_locking.txt 3 559 581 584 
+course Tidal_locking.txt 1 177 
+already Tidal_locking.txt 2 624 1127 
+through Tidal_locking.txt 1 1619 
+motions Tidal_locking.txt 1 527 
+hyperion Tidal_locking.txt 2 2210 2233 
+cold Tidal_locking.txt 1 334 
+its Tidal_locking.txt 28 11 70 204 251 260 456 522 574 665 733 802 860 892 911 915 1122 1190 1214 1367 1535 1586 1596 1731 1743 2144 2244 2337 2346 
+before Tidal_locking.txt 1 1073 
+24 Tidal_locking.txt 1 1007 
+saturn Tidal_locking.txt 2 2207 2385 
+rapidly Tidal_locking.txt 1 1318 
+inward Tidal_locking.txt 1 1682 
+masses Tidal_locking.txt 1 2097 
+phenomena Tidal_locking.txt 1 1566 
+2016 Tidal_locking.txt 1 1802 
+then Tidal_locking.txt 1 789 
+them Tidal_locking.txt 3 287 713 1866 
+greater Tidal_locking.txt 1 2223 
+3 Tidal_locking.txt 2 1506 2114 
+material Tidal_locking.txt 1 589 
+number Tidal_locking.txt 1 2362 
+co-orbiting Tidal_locking.txt 3 107 133 379 
+effects Tidal_locking.txt 2 26 875 
+they Tidal_locking.txt 4 1125 1310 2265 2273 
+satellites Tidal_locking.txt 4 315 1289 1302 1332 
+rotation Tidal_locking.txt 21 97 112 211 243 387 636 660 683 687 729 800 826 878 912 958 1184 1207 1451 1664 1816 2245 
+now Tidal_locking.txt 1 700 
+1959 Tidal_locking.txt 1 1490 
+day Tidal_locking.txt 3 999 1015 1043 
+rocky Tidal_locking.txt 1 2118 
+stabilize Tidal_locking.txt 1 312 
+edit Tidal_locking.txt 18 339 812 922 1146 1269 1271 1434 1652 1829 1921 2309 2312 2314 2320 2323 2395 2398 2400 
+always Tidal_locking.txt 3 220 791 1478 
+alternately Tidal_locking.txt 1 68 
+sufficiently Tidal_locking.txt 1 138 
+newtons Tidal_locking.txt 1 2105 
+transmitted Tidal_locking.txt 1 1500 
+each Tidal_locking.txt 6 291 1107 1261 1459 1771 1843 
+found Tidal_locking.txt 1 1851 
+decreasing Tidal_locking.txt 1 1324 
+side Tidal_locking.txt 7 216 756 1444 1482 1498 1640 1680 
+significantly Tidal_locking.txt 1 2020 
+slowdown Tidal_locking.txt 1 894 
+frequency Tidal_locking.txt 3 815 820 2268 
+year Tidal_locking.txt 1 1022 
+our Tidal_locking.txt 1 1648 
+special Tidal_locking.txt 1 183 
+really Tidal_locking.txt 1 1956 
+shown Tidal_locking.txt 2 48 84 
+driving Tidal_locking.txt 1 2237 
+space Tidal_locking.txt 1 643 
+gradient Tidal_locking.txt 2 128 449 
+since Tidal_locking.txt 1 1897 
+squared Tidal_locking.txt 1 2108 
+rotationorbit Tidal_locking.txt 1 1144 
+acting Tidal_locking.txt 1 135 
+parallax Tidal_locking.txt 2 1570 1603 
+eccentric Tidal_locking.txt 1 1155 
+revolving Tidal_locking.txt 1 200 
+induced Tidal_locking.txt 1 413 
+forth Tidal_locking.txt 1 173 
+occurs Tidal_locking.txt 1 98 
+red Tidal_locking.txt 2 354 1078 
+centauri Tidal_locking.txt 2 1795 1809 
+after Tidal_locking.txt 1 1742 
+state Tidal_locking.txt 3 1130 1727 2082 
+million Tidal_locking.txt 1 1740 
+guess Tidal_locking.txt 1 2072 
+effect Tidal_locking.txt 9 123 207 308 604 930 947 1092 1159 1607 
+semi-major Tidal_locking.txt 2 2015 2134 
+approaches Tidal_locking.txt 1 1752 
+formation Tidal_locking.txt 1 1744 
+estimate Tidal_locking.txt 2 1923 1958 
+realignment Tidal_locking.txt 1 374 
+interaction Tidal_locking.txt 1 102 
+starts Tidal_locking.txt 1 901 
+latitudes Tidal_locking.txt 1 1911 
+positioning Tidal_locking.txt 1 1711 
+days Tidal_locking.txt 2 1761 2095 
+times Tidal_locking.txt 3 1698 1969 1996 
+creates Tidal_locking.txt 1 446 
+turn Tidal_locking.txt 1 328 
+length Tidal_locking.txt 2 1040 1048 
+place Tidal_locking.txt 1 1532 
+unknown Tidal_locking.txt 2 1416 1793 
+speeds Tidal_locking.txt 1 909 
+major Tidal_locking.txt 3 352 575 1293 
+there Tidal_locking.txt 5 153 167 225 870 2127 
+probability Tidal_locking.txt 1 1259 
+swapped Tidal_locking.txt 1 2160 
+primary Tidal_locking.txt 4 1368 2141 2155 2338 
+one Tidal_locking.txt 9 149 196 316 529 1137 1443 2059 2073 2161 
+well-known Tidal_locking.txt 1 1345 
+clear Tidal_locking.txt 1 2230 
+revolution Tidal_locking.txt 1 2074 
+simplified Tidal_locking.txt 1 2052 
+approximately Tidal_locking.txt 2 769 1763 
+slower Tidal_locking.txt 1 942 
+5.001444 Tidal_locking.txt 1 1758 
+angular Tidal_locking.txt 4 160 837 858 862 
+size Tidal_locking.txt 3 1090 1097 1975 
+mercury Tidal_locking.txt 6 1209 1660 1672 1690 1720 1827 
+earths Tidal_locking.txt 2 957 1014 
+given Tidal_locking.txt 1 1023 
+likely Tidal_locking.txt 3 1737 2316 2329 
+needed Tidal_locking.txt 1 2331 
+leading Tidal_locking.txt 1 805 
+system Tidal_locking.txt 6 843 1298 2208 2311 2322 2356 
+least Tidal_locking.txt 1 440 
+their Tidal_locking.txt 4 1307 1854 2299 2371 
+2 Tidal_locking.txt 2 2090 2094 
+rates Tidal_locking.txt 1 113 
+too Tidal_locking.txt 1 904 
+hypothetical Tidal_locking.txt 1 319 
+which Tidal_locking.txt 8 618 740 1210 1337 1706 1952 2219 2242 
+perfectly Tidal_locking.txt 1 235 
+observations Tidal_locking.txt 2 1560 1684 
+stars Tidal_locking.txt 4 1828 1832 1898 2281 
+relationship Tidal_locking.txt 1 1776 
+that Tidal_locking.txt 25 326 364 366 453 550 570 795 850 969 984 1013 1659 1689 1719 1803 1825 1848 1879 1902 1984 1992 2023 2062 2164 2285 
+exactly Tidal_locking.txt 1 1546 
+nearby Tidal_locking.txt 1 2240 
+somewhat Tidal_locking.txt 1 2056 
+probably Tidal_locking.txt 4 1881 2382 2386 2390 
+than Tidal_locking.txt 7 664 761 818 1175 1238 1342 2178 
+distance Tidal_locking.txt 7 285 430 628 767 1325 2186 2224 
+kind Tidal_locking.txt 1 1786 
+b Tidal_locking.txt 13 383 394 415 426 452 464 512 591 611 718 852 900 1796 
+15 Tidal_locking.txt 1 1019 
+things Tidal_locking.txt 1 2166 
+double Tidal_locking.txt 2 2280 2283 
+rubble Tidal_locking.txt 1 2287 
+slowed Tidal_locking.txt 1 962 
+matter Tidal_locking.txt 1 1463 
+were Tidal_locking.txt 2 61 1499 
+toward Tidal_locking.txt 5 37 370 472 656 677 
+result Tidal_locking.txt 1 1783 
+and Tidal_locking.txt 45 52 72 172 283 305 333 382 439 474 772 780 855 913 1035 1046 1080 1083 1100 1121 1141 1156 1314 1348 1369 1380 1396 1452 1542 1569 1624 1626 1735 1845 1942 1970 1976 1990 2031 2067 2092 2103 2120 2154 2171 2339 
+exert Tidal_locking.txt 1 359 
+neptune Tidal_locking.txt 1 2393 
+torque Tidal_locking.txt 7 362 404 716 720 781 785 823 
+have Tidal_locking.txt 5 623 1126 1849 2018 2085 
+seen Tidal_locking.txt 6 40 637 1479 1488 1557 1600 
+cumbersome Tidal_locking.txt 1 2058 
+any Tidal_locking.txt 1 1993 
+contents Tidal_locking.txt 1 337 
+relatively Tidal_locking.txt 3 289 1161 1361 
+acceleration Tidal_locking.txt 1 2030 
+misaligned Tidal_locking.txt 1 349 
+1965 Tidal_locking.txt 1 1686 
+able Tidal_locking.txt 1 1285 
+gravity Tidal_locking.txt 1 408 
+mechanism Tidal_locking.txt 1 338 
+oriented Tidal_locking.txt 3 471 655 676 
+also Tidal_locking.txt 9 91 579 872 924 932 1370 1859 2234 2397 
+take Tidal_locking.txt 1 1963 
+forces Tidal_locking.txt 3 357 418 2243 
+green Tidal_locking.txt 3 347 835 1290 
+primaries Tidal_locking.txt 2 1308 1855 
+even Tidal_locking.txt 3 1738 1972 2003 
+experienced Tidal_locking.txt 1 933 
+opposite Tidal_locking.txt 1 748 
+object Tidal_locking.txt 4 201 423 451 463 
+reach Tidal_locking.txt 1 501 
+most Tidal_locking.txt 6 443 1292 1494 1872 2083 2358 
+regular Tidal_locking.txt 1 587 
+experiences Tidal_locking.txt 2 774 2235 
+successive Tidal_locking.txt 1 1750 
+pair Tidal_locking.txt 2 105 377 
+extremely Tidal_locking.txt 3 1856 2036 2130 
+so-called Tidal_locking.txt 1 1171 
+especially Tidal_locking.txt 2 1226 1988 
+calculated Tidal_locking.txt 1 1994 
+stronger Tidal_locking.txt 1 777 
+repeated Tidal_locking.txt 1 1559 
+face Tidal_locking.txt 2 35 1766 
+points Tidal_locking.txt 2 645 1715 
+conservatively Tidal_locking.txt 1 1965 
+planetary Tidal_locking.txt 1 2359 
+show Tidal_locking.txt 2 69 1012 
+synchronous Tidal_locking.txt 4 210 242 925 1663 
+rotating Tidal_locking.txt 5 9 63 903 1533 1696 
+bring Tidal_locking.txt 1 727 
+uranus Tidal_locking.txt 1 2389 
+earth Tidal_locking.txt 21 22 38 76 80 223 497 998 1034 1062 1082 1448 1470 1509 1516 1562 1602 1612 1623 1754 1769 1791 
+rough Tidal_locking.txt 1 1957 
+giant Tidal_locking.txt 1 1079 
+ratio Tidal_locking.txt 2 117 1181 
+ellipsoid Tidal_locking.txt 1 569 
+enough Tidal_locking.txt 2 1024 2379 
+only Tidal_locking.txt 3 263 1134 1442 
+employed Tidal_locking.txt 1 310 
+local Tidal_locking.txt 1 1649 
+over Tidal_locking.txt 4 136 175 521 972 
+equilibrium Tidal_locking.txt 2 457 615 
+giants Tidal_locking.txt 1 1336 
+slows Tidal_locking.txt 1 853 
+above Tidal_locking.txt 2 2048 2250 
+10 Tidal_locking.txt 3 1739 2115 2122 
+dependent Tidal_locking.txt 1 1263 
+mainly Tidal_locking.txt 1 2297 
+between Tidal_locking.txt 9 103 131 162 279 286 1033 1749 2088 2327 
+ones Tidal_locking.txt 2 1229 2126 
+nearly Tidal_locking.txt 2 190 552 
+closely Tidal_locking.txt 3 1313 1418 1857 
+despite Tidal_locking.txt 1 1538 
+during Tidal_locking.txt 1 2009 
+years Tidal_locking.txt 1 1741 
+radar Tidal_locking.txt 1 1683 
+common Tidal_locking.txt 1 1961 
+where Tidal_locking.txt 9 185 541 899 1038 1131 1151 1941 1971 2209 
+view Tidal_locking.txt 1 51 
+self-gravitation Tidal_locking.txt 1 556 
+achieved Tidal_locking.txt 1 147 
+we Tidal_locking.txt 2 1613 1630 
+maximum Tidal_locking.txt 1 647 
+observed Tidal_locking.txt 3 1468 1511 2024 
+see Tidal_locking.txt 3 923 1287 2396 
+radius Tidal_locking.txt 1 2198 
+are Tidal_locking.txt 30 288 323 329 348 489 551 650 670 699 871 983 1058 1230 1303 1328 1350 1389 1421 1455 1572 1614 1836 1858 1899 1943 1998 2286 2365 2373 2381 
+close Tidal_locking.txt 5 537 1374 1751 1772 1830 
+best Tidal_locking.txt 1 1674 
+closer Tidal_locking.txt 1 758 
+axially Tidal_locking.txt 1 567 
+placed Tidal_locking.txt 1 1675 
+subsequent Tidal_locking.txt 1 2028 
+away Tidal_locking.txt 3 629 742 1341 
+currently Tidal_locking.txt 1 1009 
+wikipedia Tidal_locking.txt 1 2 
+artificial Tidal_locking.txt 1 314 
+symmetric Tidal_locking.txt 1 568 
+behind Tidal_locking.txt 1 695 
+moons Tidal_locking.txt 12 231 1270 1294 1346 1388 1413 1450 1540 1552 1577 2360 2364 
+orbiting Tidal_locking.txt 1 1419 
+drawn Tidal_locking.txt 1 55 
+geometric Tidal_locking.txt 1 1606 
+approach Tidal_locking.txt 1 1773 
+across Tidal_locking.txt 2 450 1522 
+knowing Tidal_locking.txt 1 1973 
+close-in Tidal_locking.txt 1 1228 
+comparable Tidal_locking.txt 2 1096 2349 
+weak Tidal_locking.txt 1 1162 
+however Tidal_locking.txt 6 273 750 1061 1896 2226 2370 
+outer Tidal_locking.txt 1 1331 
+overestimated Tidal_locking.txt 1 1967 
+faced Tidal_locking.txt 1 1681 
+both Tidal_locking.txt 5 275 787 908 1099 1101 
+irregular Tidal_locking.txt 1 1330 
+many Tidal_locking.txt 2 1224 1982 
+eyeball Tidal_locking.txt 2 324 335 
+equal Tidal_locking.txt 2 1756 2168 
+sensitive Tidal_locking.txt 1 2037 
+s Tidal_locking.txt 1 1746 
+faces Tidal_locking.txt 2 221 741 
+long-term Tidal_locking.txt 1 101 
+whole Tidal_locking.txt 1 841 
+otherwise Tidal_locking.txt 1 1818 
+photographs Tidal_locking.txt 1 1492 
+timescale Tidal_locking.txt 3 1113 1920 2254 
+point Tidal_locking.txt 2 540 641 
+simple Tidal_locking.txt 1 1196 
+harmonic Tidal_locking.txt 1 116 
+modeling Tidal_locking.txt 1 1716 
+throughout Tidal_locking.txt 1 1833 
+sensible Tidal_locking.txt 1 2070 
+unusual Tidal_locking.txt 1 1868 
+create Tidal_locking.txt 1 1028 
+1.3 Tidal_locking.txt 1 509 
+due Tidal_locking.txt 8 524 554 950 1272 1401 1563 1581 2026 
+been Tidal_locking.txt 4 625 1850 2019 2344 
+much Tidal_locking.txt 2 1111 1339 
+slowly Tidal_locking.txt 1 905 
+expected Tidal_locking.txt 5 1065 1231 1422 1837 1999 
+4 Tidal_locking.txt 1 2121 
+direction Tidal_locking.txt 3 372 681 794 
+arises Tidal_locking.txt 2 124 827 
+kilograms Tidal_locking.txt 1 2099 
+turned Tidal_locking.txt 1 36 
+kerberos Tidal_locking.txt 1 1395 
+gas Tidal_locking.txt 1 1335 
+observe Tidal_locking.txt 1 1632 
+hidden Tidal_locking.txt 1 2402 
+those Tidal_locking.txt 1 1713 
+applied Tidal_locking.txt 1 405 
+solid Tidal_locking.txt 1 496 
+viscous Tidal_locking.txt 1 2278 
+estimations Tidal_locking.txt 1 982 
+conserved Tidal_locking.txt 1 845 
+value Tidal_locking.txt 1 2040 
+will Tidal_locking.txt 5 427 454 465 1282 2175 
+near Tidal_locking.txt 1 71 
+situation Tidal_locking.txt 2 832 1410 
+periods Tidal_locking.txt 3 1454 1544 2087 
+shortened Tidal_locking.txt 1 1054 
+uncertainty Tidal_locking.txt 1 2043 
+styx Tidal_locking.txt 1 1393 
+eventually Tidal_locking.txt 2 806 828 
+almost Tidal_locking.txt 1 1893 
+prolate Tidal_locking.txt 1 563 
+it Tidal_locking.txt 9 18 66 255 411 1645 1653 1959 2068 2342 
+surface Tidal_locking.txt 4 436 523 1554 1610 
+helped Tidal_locking.txt 1 995 
+formulae Tidal_locking.txt 1 2251 
+in Tidal_locking.txt 48 6 13 29 41 49 81 85 181 195 241 327 386 478 480 603 642 679 712 730 746 792 834 846 881 889 977 1148 1169 1220 1234 1249 1295 1364 1378 1529 1662 1685 1708 1730 1801 1814 2078 2098 2101 2104 2147 2205 2345 
+partner Tidal_locking.txt 2 205 261 
+counteracting Tidal_locking.txt 1 824 
+orbital Tidal_locking.txt 15 120 187 526 666 734 803 810 819 861 1192 1266 1453 1543 1579 2185 
+spin-orbit Tidal_locking.txt 3 1172 1255 1822 
+different Tidal_locking.txt 4 1198 1907 1910 2021 
+revolutions Tidal_locking.txt 1 1702 
+perhaps Tidal_locking.txt 1 1964 
+reshape Tidal_locking.txt 1 610 
+locking Tidal_locking.txt 22 1 4 90 94 145 193 809 829 907 917 929 1032 1275 1409 1789 1891 1968 1995 2012 2033 2138 2256 
+amount Tidal_locking.txt 2 869 968 
+same Tidal_locking.txt 10 16 34 215 1060 1472 1531 1679 1710 1765 2184 
+orders Tidal_locking.txt 1 2261 
+shorter Tidal_locking.txt 2 663 1112 
+59 Tidal_locking.txt 1 1549 
+grows Tidal_locking.txt 1 2191 
+higher Tidal_locking.txt 1 1237 
+perimeter Tidal_locking.txt 1 1597 
+satellite Tidal_locking.txt 7 265 1123 1980 2064 2145 2153 2197 
+cubic Tidal_locking.txt 1 1321 
+boosted Tidal_locking.txt 1 865 
+upon Tidal_locking.txt 1 425 
+drives Tidal_locking.txt 1 110 
+nix Tidal_locking.txt 1 1394 
+moving Tidal_locking.txt 1 78 
+arose Tidal_locking.txt 1 1777 
+extra-solar Tidal_locking.txt 1 2313 
+vantage Tidal_locking.txt 1 640 
+off Tidal_locking.txt 2 902 2259 
+largely Tidal_locking.txt 1 1415 
+well Tidal_locking.txt 2 1202 1428 
+roughly Tidal_locking.txt 1 2111 
+thought Tidal_locking.txt 3 1655 1860 2366 
+contact Tidal_locking.txt 1 1430 
+greatest Tidal_locking.txt 1 432 
+the Tidal_locking.txt 183 7 15 30 33 42 45 59 86 100 111 119 126 132 151 163 176 182 186 199 214 218 222 230 264 270 276 280 284 297 301 341 351 355 368 371 384 396 403 419 434 442 460 469 486 495 518 531 539 557 588 600 613 620 631 644 653 668 674 680 691 697 703 710 719 722 737 747 751 754 762 782 793 825 830 836 840 896 919 927 935 964 978 988 992 997 1005 1036 1039 1047 1056 1059 1071 1074 1084 1091 1117 1152 1157 1163 1180 1183 1206 1218 1227 1258 1265 1276 1279 1288 1296 1299 1329 1334 1343 1403 1407 1432 1436 1449 1465 1471 1475 1480 1484 1496 1502 1508 1513 1515 1523 1530 1539 1551 1565 1576 1583 1609 1617 1620 1639 1642 1666 1678 1704 1709 1724 1764 1782 1797 1806 1834 1889 1912 1925 1938 1950 1974 1979 2010 2014 2032 2042 2047 2063 2079 2137 2148 2152 2183 2188 2193 2196 2206 2216 2239 2249 2253 2267 2289 2328 2340 2351 2354 
+binaries Tidal_locking.txt 3 1420 1431 2279 
+soviet Tidal_locking.txt 1 1503 
+dimension Tidal_locking.txt 1 479 
+bodies Tidal_locking.txt 11 109 134 152 282 549 578 1087 1901 2294 2308 2315 
+left Tidal_locking.txt 1 43 
+spherical Tidal_locking.txt 2 553 2066 
+distances Tidal_locking.txt 1 2100 
+mercury-like Tidal_locking.txt 1 1241 
+just Tidal_locking.txt 1 245 
+less Tidal_locking.txt 2 586 2057 
+being Tidal_locking.txt 7 431 961 1176 1262 1382 1545 2167 
+generally Tidal_locking.txt 1 1944 
+not Tidal_locking.txt 13 54 62 234 514 1064 1390 1487 1518 2212 2229 2301 2374 2377 
+shape Tidal_locking.txt 2 458 616 
+clocks Tidal_locking.txt 1 1011 
+distant Tidal_locking.txt 1 444 
+atomic Tidal_locking.txt 1 1010 
+using Tidal_locking.txt 1 1937 
+speed Tidal_locking.txt 1 1580 
+yet Tidal_locking.txt 1 515 
+captured Tidal_locking.txt 3 96 1248 1722 
+based Tidal_locking.txt 1 2324 
+cut Tidal_locking.txt 1 2231 
+farther Tidal_locking.txt 1 1340 
+density Tidal_locking.txt 1 1977 
+sky Tidal_locking.txt 1 1524 
+except Tidal_locking.txt 2 23 1948 
+geological Tidal_locking.txt 1 973 
+confirmed Tidal_locking.txt 1 1870 
+lengthens Tidal_locking.txt 1 1016 
+versa Tidal_locking.txt 1 1143 
+has Tidal_locking.txt 9 412 994 1044 1053 1371 1691 1717 1953 2343 
+momentum Tidal_locking.txt 4 161 838 859 863 
+around Tidal_locking.txt 8 79 250 259 506 1217 1638 1703 1805 
+1:1 Tidal_locking.txt 3 1200 1239 1439 
+possible Tidal_locking.txt 1 2200 
+period Tidal_locking.txt 9 121 140 661 667 688 735 804 1185 1193 
+early Tidal_locking.txt 1 1729 
+charon Tidal_locking.txt 7 306 1124 1132 1349 1358 1381 1406 
+increases Tidal_locking.txt 1 1317 
+spinorbit Tidal_locking.txt 4 1235 1694 1726 2290 
+bit Tidal_locking.txt 1 1634 
+5:2 Tidal_locking.txt 1 1254 
+displaced Tidal_locking.txt 2 651 701 
+rotate Tidal_locking.txt 3 249 1399 1904 
+necessary Tidal_locking.txt 1 389 
+like Tidal_locking.txt 1 1824 
+bulge Tidal_locking.txt 5 648 724 739 752 764 
+chaotically Tidal_locking.txt 1 1400 
+loses Tidal_locking.txt 1 856 
+facing Tidal_locking.txt 1 203 
+earth-like Tidal_locking.txt 1 1798 
+either Tidal_locking.txt 1 1813 
+become Tidal_locking.txt 5 466 1067 1103 1247 1931 
+reduced Tidal_locking.txt 1 477 
+right Tidal_locking.txt 1 87 
+formulas Tidal_locking.txt 1 2049 
+titan Tidal_locking.txt 1 2241 
+some Tidal_locking.txt 10 170 227 313 605 627 873 1149 1195 1657 1785 
+back Tidal_locking.txt 3 171 738 763 
+metres Tidal_locking.txt 1 508 
+meters Tidal_locking.txt 1 2102 
+spheroid Tidal_locking.txt 1 564 
+inapplicable Tidal_locking.txt 1 2276 
+3:2 Tidal_locking.txt 5 1222 1251 1693 1725 1821 
+ignore Tidal_locking.txt 1 2266 
+gradually Tidal_locking.txt 1 960 
+scale Tidal_locking.txt 1 57 
+for Tidal_locking.txt 23 24 148 212 303 494 546 895 955 1086 1098 1245 1411 1656 1676 1699 1927 1949 1954 2117 2124 2136 2252 2357 
+synchronize Tidal_locking.txt 1 798 
+resonances Tidal_locking.txt 1 1236 
+non-locked Tidal_locking.txt 1 2081 
+moon Tidal_locking.txt 21 8 31 46 60 219 965 1037 1072 1085 1363 1433 1437 1466 1476 1485 1514 1625 1643 1951 2174 2181 
+icy Tidal_locking.txt 1 2125 
+does Tidal_locking.txt 2 256 1517 
+lunar Tidal_locking.txt 1 1051 
+assuming Tidal_locking.txt 1 2061 
+demonstrated Tidal_locking.txt 2 1687 1718 
+be Tidal_locking.txt 22 169 293 1094 1233 1284 1424 1556 1599 1839 1862 1874 1935 1986 2001 2051 2110 2159 2247 2258 2275 2318 2368 
+inaccurate Tidal_locking.txt 1 2002 
+viscosity Tidal_locking.txt 1 2300 
+notable Tidal_locking.txt 1 1326 
+interval Tidal_locking.txt 1 1748 
+although Tidal_locking.txt 2 166 224 
+bs Tidal_locking.txt 9 635 659 686 728 770 799 885 945 952 
+tidal Tidal_locking.txt 29 0 3 89 129 144 192 320 342 356 417 492 534 558 601 808 906 928 989 1031 1158 1274 1315 1356 1408 1788 1890 1913 2011 2029 
+by Tidal_locking.txt 19 402 406 416 599 617 634 765 866 934 963 966 1017 1575 1778 1871 1884 2060 2260 2298 
+on Tidal_locking.txt 15 344 363 409 414 709 717 721 753 876 1109 1264 1534 1647 2133 2325 
+about Tidal_locking.txt 10 10 14 887 1001 1018 1548 1592 1635 2089 2093 
+central Tidal_locking.txt 1 1280 
+carried Tidal_locking.txt 2 626 671 
+extension Tidal_locking.txt 1 649 
+of Tidal_locking.txt 63 106 141 150 159 178 198 217 318 373 378 462 503 530 590 646 673 682 768 839 884 918 991 1041 1049 1088 1095 1139 1182 1186 1208 1260 1278 1333 1354 1405 1474 1483 1493 1495 1550 1567 1585 1611 1622 1628 1641 1784 1787 1826 1924 1978 2006 2139 2150 2195 2202 2255 2262 2270 2292 2304 2353 2363 
+librations Tidal_locking.txt 1 1571 
+factors Tidal_locking.txt 1 2005 
+mutually Tidal_locking.txt 1 1383 
+horizon Tidal_locking.txt 1 1650 
+a-facing Tidal_locking.txt 2 723 755 
+observation Tidal_locking.txt 2 1677 1714 
+slightly Tidal_locking.txt 4 459 476 562 776 
+or Tidal_locking.txt 6 95 1253 1780 1817 2282 2376 
+own Tidal_locking.txt 4 252 1191 1215 1536 
+into Tidal_locking.txt 3 114 331 1723 
+within Tidal_locking.txt 1 1733 
+rotations Tidal_locking.txt 1 2372 
+three Tidal_locking.txt 1 1697 
+down Tidal_locking.txt 1 854 
+phase Tidal_locking.txt 1 2013 
+luna Tidal_locking.txt 1 1505 
+because Tidal_locking.txt 12 229 696 944 1309 1435 1627 1670 2041 2190 2232 2264 2288 
+references Tidal_locking.txt 1 2399 
+primarily Tidal_locking.txt 1 1573 
+nowadays Tidal_locking.txt 1 2025 
+botis Tidal_locking.txt 2 1876 1917 
+iapetus Tidal_locking.txt 1 2218 
+area Tidal_locking.txt 1 1291 
+transfer Tidal_locking.txt 2 158 174 
+constantly Tidal_locking.txt 1 202 
+libration Tidal_locking.txt 3 25 228 1568 
+long Tidal_locking.txt 2 139 247 
+fraction Tidal_locking.txt 1 1197 
+forward Tidal_locking.txt 1 672 
+translate Tidal_locking.txt 1 1521 
+was Tidal_locking.txt 6 1486 1654 1661 1669 1673 1721 
+function Tidal_locking.txt 1 1322 
+gaseous Tidal_locking.txt 1 1900 
+form Tidal_locking.txt 1 317 
+forming Tidal_locking.txt 1 621 
+6 Tidal_locking.txt 2 1002 1593 
+but Tidal_locking.txt 4 582 939 1417 1525 
+hemisphere Tidal_locking.txt 3 197 1138 1473 
+magnitude Tidal_locking.txt 1 2263 
+solar Tidal_locking.txt 5 1297 1760 2310 2321 2355 
+line Tidal_locking.txt 2 731 1618 
+with Tidal_locking.txt 20 118 350 429 528 732 801 891 987 1257 1306 1323 1458 1558 1665 1790 1842 1905 1916 2096 2350 
+raising Tidal_locking.txt 1 883 
+exoplanets Tidal_locking.txt 1 1225 
+pull Tidal_locking.txt 1 708 
+whether Tidal_locking.txt 1 1774 
+gravitational Tidal_locking.txt 8 93 127 420 448 614 707 778 946 
+up Tidal_locking.txt 4 504 910 1168 1590 
+until Tidal_locking.txt 2 1055 1489 
+planet Tidal_locking.txt 5 1119 1243 1799 1886 2189 
+record Tidal_locking.txt 1 980 
+exerts Tidal_locking.txt 2 592 714 
+similar Tidal_locking.txt 2 868 1089 
+called Tidal_locking.txt 1 92 
+ab Tidal_locking.txt 3 632 704 842 
+defined Tidal_locking.txt 1 2296 
+influence Tidal_locking.txt 2 990 1404 
+an Tidal_locking.txt 9 179 206 566 967 1114 1351 1867 1922 2129 
+as Tidal_locking.txt 17 39 83 209 246 254 407 491 706 877 975 1319 1427 1429 2113 2146 2170 2192 
+initial Tidal_locking.txt 1 2080 
+at Tidal_locking.txt 10 64 433 441 940 1608 1712 1770 1909 2182 2221 
+planets Tidal_locking.txt 5 322 325 336 1651 1847 
+20 Tidal_locking.txt 1 1734 
+mutual Tidal_locking.txt 2 1030 1895 
+nm Tidal_locking.txt 2 2116 2123 
+no Tidal_locking.txt 2 155 1462 
+whereas Tidal_locking.txt 3 684 736 2215 
+when Tidal_locking.txt 7 99 511 851 1464 1491 1507 1644 
+field Tidal_locking.txt 1 1919 
+other Tidal_locking.txt 7 298 897 1108 1387 1460 1844 2165 
+conclusion Tidal_locking.txt 1 2162 
+polar Tidal_locking.txt 1 50 
+star Tidal_locking.txt 2 1807 1878 
+reached Tidal_locking.txt 1 1128 
+chance Tidal_locking.txt 1 1779 
+revolve Tidal_locking.txt 1 258 
+sides Tidal_locking.txt 1 74 
+longer Tidal_locking.txt 1 690 
+vice Tidal_locking.txt 1 1142 
+age Tidal_locking.txt 1 2352 
+required Tidal_locking.txt 1 608 
+orbit Tidal_locking.txt 15 21 82 180 232 886 916 926 1153 1216 1311 1338 1375 1587 1853 2348 
+together Tidal_locking.txt 1 986 
+mass Tidal_locking.txt 3 277 711 954 
+time Tidal_locking.txt 11 17 142 606 619 974 1025 1658 1926 2034 2330 2341 
+twists Tidal_locking.txt 1 367 
+12 Tidal_locking.txt 1 2076 
+once Tidal_locking.txt 1 143 

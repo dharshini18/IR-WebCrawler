@@ -1,0 +1,130 @@
+atmosphere Earthlight_(astronomy).txt 1 16 
+phenomenon Earthlight_(astronomy).txt 1 112 
+astronomical Earthlight_(astronomy).txt 1 121 
+bright Earthlight_(astronomy).txt 1 159 
+earth Earthlight_(astronomy).txt 5 10 36 61 117 206 
+disk Earthlight_(astronomy).txt 1 148 
+before Earthlight_(astronomy).txt 2 126 190 
+dawn Earthlight_(astronomy).txt 1 191 
+sky Earthlight_(astronomy).txt 2 176 189 
+sunlit Earthlight_(astronomy).txt 1 154 
+to Earthlight_(astronomy).txt 2 161 251 
+window Earthlight_(astronomy).txt 1 221 
+hidden Earthlight_(astronomy).txt 1 257 
+his Earthlight_(astronomy).txt 1 231 
+dim Earthlight_(astronomy).txt 1 47 
+dark Earthlight_(astronomy).txt 1 52 
+oxford Earthlight_(astronomy).txt 1 235 
+during Earthlight_(astronomy).txt 1 207 
+twilight Earthlight_(astronomy).txt 1 122 
+day Earthlight_(astronomy).txt 1 130 
+categories Earthlight_(astronomy).txt 2 256 258 
+entire Earthlight_(astronomy).txt 1 146 
+term Earthlight_(astronomy).txt 1 193 
+clouds Earthlight_(astronomy).txt 1 65 
+edit Earthlight_(astronomy).txt 3 243 245 248 
+ashen Earthlight_(astronomy).txt 1 78 
+spacecraft Earthlight_(astronomy).txt 1 217 
+these Earthlight_(astronomy).txt 1 143 
+arthur Earthlight_(astronomy).txt 1 222 
+night Earthlight_(astronomy).txt 2 119 210 
+unevenly Earthlight_(astronomy).txt 1 158 
+side Earthlight_(astronomy).txt 3 28 40 53 
+old Earthlight_(astronomy).txt 2 88 108 
+observer Earthlight_(astronomy).txt 1 201 
+direct Earthlight_(astronomy).txt 1 42 
+related Earthlight_(astronomy).txt 1 250 
+commons Earthlight_(astronomy).txt 1 255 
+see Earthlight_(astronomy).txt 4 17 72 162 241 
+earthshine Earthlight_(astronomy).txt 2 71 252 
+crescent Earthlight_(astronomy).txt 6 24 84 100 141 167 184 
+indirect Earthlight_(astronomy).txt 1 32 
+out Earthlight_(astronomy).txt 1 219 
+for Earthlight_(astronomy).txt 3 11 199 212 
+waning Earthlight_(astronomy).txt 2 99 183 
+wikipedia Earthlight_(astronomy).txt 1 2 
+moon Earthlight_(astronomy).txt 8 21 56 89 105 133 168 185 204 
+looking Earthlight_(astronomy).txt 1 218 
+enough Earthlight_(astronomy).txt 1 160 
+lunar Earthlight_(astronomy).txt 3 136 147 209 
+moons Earthlight_(astronomy).txt 3 77 93 109 
+new Earthlight_(astronomy).txt 3 92 104 132 
+be Earthlight_(astronomy).txt 1 197 
+dictionary Earthlight_(astronomy).txt 1 237 
+article Earthlight_(astronomy).txt 1 4 
+by Earthlight_(astronomy).txt 4 9 31 41 57 
+both Earthlight_(astronomy).txt 1 150 
+about Earthlight_(astronomy).txt 1 6 
+of Earthlight_(astronomy).txt 3 49 54 131 
+days Earthlight_(astronomy).txt 1 125 
+s Earthlight_(astronomy).txt 1 62 
+recognizes Earthlight_(astronomy).txt 1 238 
+suitable Earthlight_(astronomy).txt 1 198 
+or Earthlight_(astronomy).txt 4 75 120 127 211 
+otherwise Earthlight_(astronomy).txt 1 51 
+seeing Earthlight_(astronomy).txt 1 205 
+wikimedia Earthlight_(astronomy).txt 1 254 
+reflected Earthlight_(astronomy).txt 3 8 34 59 
+visible Earthlight_(astronomy).txt 1 115 
+references Earthlight_(astronomy).txt 1 244 
+directly Earthlight_(astronomy).txt 1 151 
+illumination Earthlight_(astronomy).txt 1 48 
+earths Earthlight_(astronomy).txt 1 15 
+astronomy Earthlight_(astronomy).txt 1 1 
+from Earthlight_(astronomy).txt 3 35 60 116 
+would Earthlight_(astronomy).txt 1 195 
+arms Earthlight_(astronomy).txt 2 94 110 
+sunlight Earthlight_(astronomy).txt 3 33 43 58 
+few Earthlight_(astronomy).txt 1 124 
+earthlight Earthlight_(astronomy).txt 6 0 44 80 163 194 233 
+illuminated Earthlight_(astronomy).txt 1 30 
+that Earthlight_(astronomy).txt 2 96 180 
+c Earthlight_(astronomy).txt 1 223 
+airglow Earthlight_(astronomy).txt 1 18 
+western Earthlight_(astronomy).txt 1 175 
+known Earthlight_(astronomy).txt 1 69 
+novel Earthlight_(astronomy).txt 1 232 
+word Earthlight_(astronomy).txt 1 240 
+this Earthlight_(astronomy).txt 3 3 111 228 
+inside Earthlight_(astronomy).txt 1 215 
+while Earthlight_(astronomy).txt 3 37 95 179 
+thin Earthlight_(astronomy).txt 1 140 
+planetshine Earthlight_(astronomy).txt 1 74 
+called Earthlight_(astronomy).txt 2 86 102 
+darker Earthlight_(astronomy).txt 1 27 
+and Earthlight_(astronomy).txt 3 64 152 155 
+links Earthlight_(astronomy).txt 1 247 
+is Earthlight_(astronomy).txt 12 5 22 29 45 67 85 101 113 138 149 156 169 
+sense Earthlight_(astronomy).txt 1 229 
+thus Earthlight_(astronomy).txt 1 157 
+it Earthlight_(astronomy).txt 2 66 226 
+surface Earthlight_(astronomy).txt 1 63 
+an Earthlight_(astronomy).txt 2 200 213 
+as Earthlight_(astronomy).txt 1 70 
+at Earthlight_(astronomy).txt 3 23 118 253 
+in Earthlight_(astronomy).txt 7 14 90 106 173 186 227 230 
+seen Earthlight_(astronomy).txt 1 172 
+clearly Earthlight_(astronomy).txt 1 171 
+nights Earthlight_(astronomy).txt 1 144 
+media Earthlight_(astronomy).txt 1 249 
+clarke Earthlight_(astronomy).txt 1 224 
+eastern Earthlight_(astronomy).txt 1 188 
+when Earthlight_(astronomy).txt 2 19 134 
+also Earthlight_(astronomy).txt 4 68 73 196 242 
+other Earthlight_(astronomy).txt 1 39 
+astronaut Earthlight_(astronomy).txt 1 214 
+dusk Earthlight_(astronomy).txt 1 178 
+after Earthlight_(astronomy).txt 2 128 177 
+most Earthlight_(astronomy).txt 2 114 170 
+generated Earthlight_(astronomy).txt 1 13 
+uses Earthlight_(astronomy).txt 1 225 
+phase Earthlight_(astronomy).txt 2 25 137 
+on Earthlight_(astronomy).txt 6 81 97 142 164 181 202 
+glow Earthlight_(astronomy).txt 1 79 
+a Earthlight_(astronomy).txt 7 82 98 123 139 165 182 216 
+light Earthlight_(astronomy).txt 2 7 12 
+waxing Earthlight_(astronomy).txt 2 83 166 
+english Earthlight_(astronomy).txt 1 236 
+the Earthlight_(astronomy).txt 22 20 26 38 46 50 55 76 87 91 103 107 129 135 145 174 187 192 203 208 220 234 239 
+indirectly Earthlight_(astronomy).txt 1 153 
+external Earthlight_(astronomy).txt 1 246 

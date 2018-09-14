@@ -1,0 +1,601 @@
+all Lunar_phase.txt 2 259 1020 
+partial Lunar_phase.txt 1 2204 
+two-dimensional Lunar_phase.txt 1 802 
+pointing Lunar_phase.txt 1 1108 
+suns Lunar_phase.txt 1 341 
+month Lunar_phase.txt 12 136 404 576 1318 1363 1378 1523 1626 1942 2017 2047 2076 
+four Lunar_phase.txt 5 225 309 1840 1933 2191 
+known Lunar_phase.txt 3 57 326 1604 
+follow Lunar_phase.txt 1 1477 
+causes Lunar_phase.txt 1 1508 
+phenomenon Lunar_phase.txt 2 867 1274 
+sunlit Lunar_phase.txt 3 114 180 193 
+to Lunar_phase.txt 33 68 205 240 448 507 565 581 688 703 727 741 755 767 832 851 1013 1019 1033 1038 1088 1267 1464 1501 1511 1549 1715 1773 1882 1892 1914 1997 2094 2119 
+outwards Lunar_phase.txt 1 842 
+nodes Lunar_phase.txt 1 2179 
+very Lunar_phase.txt 2 1193 2154 
+rise Lunar_phase.txt 1 1512 
+every Lunar_phase.txt 6 1340 1522 2016 2046 2054 2075 
+fall Lunar_phase.txt 1 2034 
+affect Lunar_phase.txt 1 1959 
+difference Lunar_phase.txt 2 1628 1702 
+vlt Lunar_phase.txt 1 1532 
+categories Lunar_phase.txt 2 2230 2232 
+obvious Lunar_phase.txt 1 1948 
+progression Lunar_phase.txt 1 1885 
+positions Lunar_phase.txt 1 143 
+1999 Lunar_phase.txt 1 1615 
+small Lunar_phase.txt 1 1938 
+upper Lunar_phase.txt 1 500 
+oscillation Lunar_phase.txt 2 1881 1927 
+direct Lunar_phase.txt 1 2126 
+non-western Lunar_phase.txt 1 591 
+270 Lunar_phase.txt 1 350 
+titles Lunar_phase.txt 1 28 
+video Lunar_phase.txt 1 541 
+crescent Lunar_phase.txt 17 380 521 674 699 860 863 1096 1107 1124 1135 1139 1166 1178 1197 1209 1233 1528 
+hourly Lunar_phase.txt 1 24 
+adds Lunar_phase.txt 1 1879 
+appear Lunar_phase.txt 4 1032 1045 1463 1891 
+clock Lunar_phase.txt 1 1720 
+waning Lunar_phase.txt 6 452 618 721 944 1190 1208 
+sun Lunar_phase.txt 17 154 570 622 651 738 1115 1133 1149 1163 1246 1503 1993 2026 2102 2132 2164 2211 
+while Lunar_phase.txt 2 762 1329 
+sequential Lunar_phase.txt 1 470 
+poles Lunar_phase.txt 1 255 
+above Lunar_phase.txt 5 523 1054 1117 1131 1161 
+new Lunar_phase.txt 17 203 316 447 637 672 704 711 748 950 1288 1296 1564 1605 1684 2029 2110 2144 
+increasing Lunar_phase.txt 1 666 
+movement Lunar_phase.txt 1 1498 
+specialist Lunar_phase.txt 1 1726 
+full Lunar_phase.txt 9 208 320 449 681 920 946 2055 2112 2147 
+respectively Lunar_phase.txt 2 351 1112 
+never Lunar_phase.txt 1 1929 
+here Lunar_phase.txt 2 519 1294 
+hours Lunar_phase.txt 5 1389 1693 1841 1876 1934 
+mayjune Lunar_phase.txt 1 1309 
+100 Lunar_phase.txt 1 206 
+appears Lunar_phase.txt 3 1116 1198 1913 
+change Lunar_phase.txt 2 62 129 
+shift Lunar_phase.txt 1 155 
+31 Lunar_phase.txt 1 1662 
+30 Lunar_phase.txt 1 610 
+allows Lunar_phase.txt 1 559 
+amount Lunar_phase.txt 1 657 
+usually Lunar_phase.txt 1 2117 
+narrow Lunar_phase.txt 1 1232 
+makes Lunar_phase.txt 1 1673 
+diameter Lunar_phase.txt 1 824 
+followed Lunar_phase.txt 1 270 
+lasts Lunar_phase.txt 2 1367 1539 
+visible Lunar_phase.txt 3 798 1146 1270 
+names Lunar_phase.txt 1 468 
+apply Lunar_phase.txt 1 1061 
+total Lunar_phase.txt 2 608 2205 
+1900 Lunar_phase.txt 1 1611 
+use Lunar_phase.txt 2 594 1716 
+from Lunar_phase.txt 27 44 91 121 200 249 283 363 446 481 495 515 663 786 885 1006 1073 1184 1228 1237 1261 1271 1559 1643 1755 1779 1788 2003 
+would Lunar_phase.txt 5 487 1410 1435 1822 2033 
+0 Lunar_phase.txt 2 201 346 
+third-quarter Lunar_phase.txt 2 697 760 
+variously Lunar_phase.txt 1 179 
+almost Lunar_phase.txt 2 1241 1357 
+camera Lunar_phase.txt 1 578 
+music Lunar_phase.txt 1 27 
+therefore Lunar_phase.txt 4 165 1172 1345 1687 
+6 Lunar_phase.txt 1 1422 
+taken Lunar_phase.txt 1 1437 
+until Lunar_phase.txt 1 731 
+reflects Lunar_phase.txt 1 881 
+more Lunar_phase.txt 3 1737 1894 1930 
+composite Lunar_phase.txt 1 1413 
+becomes Lunar_phase.txt 3 725 747 1696 
+apparent Lunar_phase.txt 6 51 64 376 442 872 1884 
+eccentricity Lunar_phase.txt 1 70 
+90 Lunar_phase.txt 1 347 
+aligned Lunar_phase.txt 1 626 
+waxes Lunar_phase.txt 1 655 
+supplemental Lunar_phase.txt 1 30 
+must Lunar_phase.txt 3 1159 1167 2150 
+account Lunar_phase.txt 1 1729 
+locked Lunar_phase.txt 2 161 580 
+this Lunar_phase.txt 18 3 175 196 236 529 540 1025 1092 1170 1273 1618 1665 1758 1878 1926 1994 2042 2180 
+eclipse Lunar_phase.txt 3 2040 2067 2135 
+longitude Lunar_phase.txt 2 338 343 
+descriptor Lunar_phase.txt 1 431 
+subtends Lunar_phase.txt 1 1746 
+can Lunar_phase.txt 5 198 1097 1590 1632 2136 
+following Lunar_phase.txt 1 467 
+example Lunar_phase.txt 2 602 1417 
+gravity Lunar_phase.txt 1 164 
+moonrise Lunar_phase.txt 3 1456 1468 1475 
+links Lunar_phase.txt 1 2223 
+wane Lunar_phase.txt 2 689 1036 
+calculation Lunar_phase.txt 2 1666 1739 
+december Lunar_phase.txt 1 1661 
+high Lunar_phase.txt 2 1065 1900 
+tidally Lunar_phase.txt 1 160 
+occur Lunar_phase.txt 4 356 1893 2114 2138 
+axis Lunar_phase.txt 1 819 
+educational Lunar_phase.txt 1 2227 
+january Lunar_phase.txt 1 1609 
+rather Lunar_phase.txt 1 420 
+feature Lunar_phase.txt 1 1493 
+1 Lunar_phase.txt 1 1610 
+how Lunar_phase.txt 1 546 
+varies Lunar_phase.txt 2 237 1546 
+elliptical Lunar_phase.txt 2 242 421 
+circular Lunar_phase.txt 1 1670 
+product Lunar_phase.txt 1 554 
+may Lunar_phase.txt 7 593 870 1419 1428 1441 1449 1688 
+after Lunar_phase.txt 2 1383 1446 
+southern Lunar_phase.txt 4 93 497 1000 1076 
+different Lunar_phase.txt 6 359 364 560 596 611 1787 
+diagram Lunar_phase.txt 1 504 
+plane Lunar_phase.txt 5 2079 2096 2104 2161 2169 
+date Lunar_phase.txt 3 1595 1706 1710 
+such Lunar_phase.txt 2 256 1607 
+horizontal Lunar_phase.txt 1 1046 
+footnotes Lunar_phase.txt 1 2218 
+a Lunar_phase.txt 39 134 297 402 520 553 575 595 607 720 787 801 859 862 1007 1231 1322 1364 1377 1408 1412 1433 1453 1492 1519 1527 1577 1603 1624 1668 1718 1736 1837 1937 1941 2028 2038 2065 2125 2196 
+third Lunar_phase.txt 1 323 
+darkened Lunar_phase.txt 1 220 
+so Lunar_phase.txt 6 422 1027 1483 1815 1855 2187 
+frequent Lunar_phase.txt 1 2214 
+order Lunar_phase.txt 1 471 
+subtracting Lunar_phase.txt 1 1636 
+gradual Lunar_phase.txt 1 61 
+over Lunar_phase.txt 3 130 571 1530 
+move Lunar_phase.txt 1 1915 
+vary Lunar_phase.txt 2 199 413 
+course Lunar_phase.txt 1 573 
+through Lunar_phase.txt 6 39 86 550 671 693 2128 
+looks Lunar_phase.txt 1 1999 
+horns Lunar_phase.txt 1 1104 
+its Lunar_phase.txt 10 40 87 189 551 556 563 778 1811 2031 2178 
+before Lunar_phase.txt 2 1399 1438 
+24 Lunar_phase.txt 2 535 1388 
+one-quarter Lunar_phase.txt 1 400 
+rapidly Lunar_phase.txt 1 586 
+21 Lunar_phase.txt 1 1450 
+crew Lunar_phase.txt 1 536 
+age Lunar_phase.txt 2 1569 1581 
+thinning Lunar_phase.txt 2 457 937 
+degrees Lunar_phase.txt 3 1752 1786 1809 
+2018 Lunar_phase.txt 1 13 
+listing Lunar_phase.txt 1 1455 
+latitude Lunar_phase.txt 1 889 
+hidden Lunar_phase.txt 1 2231 
+main Lunar_phase.txt 2 1219 1305 
+might Lunar_phase.txt 1 2011 
+2010 Lunar_phase.txt 1 530 
+2013 Lunar_phase.txt 1 22 
+happened Lunar_phase.txt 1 1686 
+then Lunar_phase.txt 5 686 835 854 905 932 
+them Lunar_phase.txt 1 392 
+evening Lunar_phase.txt 3 1051 1205 1382 
+reflected Lunar_phase.txt 2 884 1260 
+they Lunar_phase.txt 2 1821 1890 
+half Lunar_phase.txt 1 750 
+satellites Lunar_phase.txt 1 424 
+rotation Lunar_phase.txt 1 158 
+day Lunar_phase.txt 8 615 1359 1489 1515 1639 1680 1814 1838 
+nor Lunar_phase.txt 1 2048 
+easily Lunar_phase.txt 1 1269 
+term Lunar_phase.txt 1 764 
+edit Lunar_phase.txt 14 304 619 890 1218 1304 1526 1743 1969 2217 2219 2221 2224 2226 2229 
+always Lunar_phase.txt 2 172 972 
+concave Lunar_phase.txt 1 848 
+someone Lunar_phase.txt 1 1856 
+each Lunar_phase.txt 7 222 352 485 1361 1514 1533 1570 
+aligns Lunar_phase.txt 1 735 
+repeating Lunar_phase.txt 1 1386 
+quarter Lunar_phase.txt 4 319 324 329 765 
+side Lunar_phase.txt 13 171 177 277 290 630 640 876 899 926 963 979 990 1250 
+mean Lunar_phase.txt 1 756 
+tilted Lunar_phase.txt 1 2088 
+directly Lunar_phase.txt 1 113 
+undetectable Lunar_phase.txt 1 726 
+series Lunar_phase.txt 1 1404 
+positioned Lunar_phase.txt 1 2153 
+inverted Lunar_phase.txt 1 1009 
+precedes Lunar_phase.txt 1 1469 
+year Lunar_phase.txt 4 1324 1366 2185 2198 
+aids Lunar_phase.txt 1 2228 
+happen Lunar_phase.txt 1 2045 
+sunrise Lunar_phase.txt 1 1400 
+naked Lunar_phase.txt 1 729 
+shown Lunar_phase.txt 2 518 1424 
+reducing Lunar_phase.txt 1 1617 
+since Lunar_phase.txt 3 1052 1602 1660 
+looking Lunar_phase.txt 2 479 493 
+parallax Lunar_phase.txt 1 1742 
+7 Lunar_phase.txt 1 1541 
+occurs Lunar_phase.txt 1 865 
+shows Lunar_phase.txt 1 391 
+foreground Lunar_phase.txt 1 590 
+passes Lunar_phase.txt 3 549 692 2021 
+given Lunar_phase.txt 1 465 
+20 Lunar_phase.txt 1 1429 
+ecliptic Lunar_phase.txt 4 337 342 2009 2107 
+latitudes Lunar_phase.txt 3 1066 1077 1507 
+days Lunar_phase.txt 14 139 234 267 273 407 1328 1342 1370 1461 1542 1544 1557 1601 1659 
+times Lunar_phase.txt 4 360 1459 1830 1964 
+length Lunar_phase.txt 1 1622 
+hence Lunar_phase.txt 1 1586 
+wobbling Lunar_phase.txt 1 52 
+repeats Lunar_phase.txt 1 1339 
+south Lunar_phase.txt 1 2123 
+first Lunar_phase.txt 2 318 758 
+major Lunar_phase.txt 1 818 
+number Lunar_phase.txt 5 597 1555 1599 1640 1657 
+one Lunar_phase.txt 6 613 1358 1471 1642 1866 2176 
+instances Lunar_phase.txt 1 333 
+featured Lunar_phase.txt 1 527 
+another Lunar_phase.txt 1 78 
+blank Lunar_phase.txt 1 1431 
+open Lunar_phase.txt 2 1098 1168 
+size Lunar_phase.txt 1 65 
+earths Lunar_phase.txt 6 163 524 1987 2058 2098 2159 
+differ Lunar_phase.txt 2 344 1832 
+observer Lunar_phase.txt 2 1762 1795 
+similarly Lunar_phase.txt 1 1451 
+approximately Lunar_phase.txt 1 1540 
+their Lunar_phase.txt 1 411 
+180 Lunar_phase.txt 3 348 490 1012 
+intermediate Lunar_phase.txt 4 226 396 437 462 
+too Lunar_phase.txt 1 1484 
+calculations Lunar_phase.txt 1 1961 
+perfectly Lunar_phase.txt 1 1669 
+photographing Lunar_phase.txt 1 1371 
+that Lunar_phase.txt 15 295 796 953 970 974 1014 1028 1156 1644 1760 1782 1831 2014 2052 2173 
+picturesquely Lunar_phase.txt 1 1280 
+30.44 Lunar_phase.txt 1 1327 
+part Lunar_phase.txt 4 501 908 935 969 
+predictable Lunar_phase.txt 1 1520 
+western Lunar_phase.txt 4 306 1201 1802 1872 
+than Lunar_phase.txt 3 517 1904 1931 
+begins Lunar_phase.txt 1 740 
+past Lunar_phase.txt 1 945 
+photograph Lunar_phase.txt 1 531 
+12 Lunar_phase.txt 2 1808 1875 
+19 Lunar_phase.txt 1 1442 
+crescents Lunar_phase.txt 1 1191 
+assumes Lunar_phase.txt 1 1667 
+eastward Lunar_phase.txt 1 1497 
+were Lunar_phase.txt 1 1819 
+toward Lunar_phase.txt 2 919 949 
+perspective Lunar_phase.txt 1 1008 
+and Lunar_phase.txt 52 19 29 127 149 219 322 339 349 385 398 451 461 617 623 638 680 701 710 739 759 812 911 938 947 1018 1050 1067 1144 1164 1189 1206 1278 1385 1390 1394 1401 1443 1552 1585 1616 1672 1707 1733 1917 1985 2024 2069 2111 2131 2165 2186 2192 
+sees Lunar_phase.txt 5 1766 1777 1797 1858 1868 
+viewer Lunar_phase.txt 1 955 
+julian Lunar_phase.txt 1 1638 
+have Lunar_phase.txt 2 800 1946 
+seen Lunar_phase.txt 7 43 90 492 662 1183 1227 1754 
+clearly Lunar_phase.txt 1 1143 
+viewed Lunar_phase.txt 5 120 362 478 785 1236 
+complete Lunar_phase.txt 1 1571 
+angle Lunar_phase.txt 3 789 1748 1781 
+depending Lunar_phase.txt 1 181 
+aside Lunar_phase.txt 1 248 
+lit Lunar_phase.txt 2 992 1243 
+also Lunar_phase.txt 4 325 1695 2151 2216 
+animation Lunar_phase.txt 3 32 79 1995 
+which Lunar_phase.txt 10 558 723 744 815 1154 1176 1319 1504 1682 1935 
+circles Lunar_phase.txt 1 823 
+play Lunar_phase.txt 3 14 538 1970 
+towards Lunar_phase.txt 1 1070 
+first-quarter Lunar_phase.txt 1 676 
+opposite Lunar_phase.txt 1 1030 
+who Lunar_phase.txt 3 1765 1796 1857 
+falls Lunar_phase.txt 1 2060 
+most Lunar_phase.txt 5 166 1142 1181 1506 2199 
+eight Lunar_phase.txt 1 459 
+successive Lunar_phase.txt 1 1362 
+phase Lunar_phase.txt 10 1 102 104 438 486 1374 1525 1589 1724 1974 
+average Lunar_phase.txt 3 409 1344 1355 
+sometimes Lunar_phase.txt 2 286 1279 
+coincides Lunar_phase.txt 1 820 
+face Lunar_phase.txt 1 197 
+traditional Lunar_phase.txt 1 603 
+giving Lunar_phase.txt 1 1653 
+points Lunar_phase.txt 1 365 
+sunset Lunar_phase.txt 1 1384 
+latest Lunar_phase.txt 1 6 
+cyclically Lunar_phase.txt 1 128 
+bulging Lunar_phase.txt 1 841 
+southward Lunar_phase.txt 1 480 
+ending Lunar_phase.txt 1 1395 
+rotating Lunar_phase.txt 1 1853 
+bright Lunar_phase.txt 3 907 934 1265 
+relation Lunar_phase.txt 1 1500 
+7.4 Lunar_phase.txt 2 233 1543 
+earth Lunar_phase.txt 27 122 148 151 174 284 367 516 585 633 645 664 776 886 1229 1234 1262 1272 1745 1764 1854 1984 2002 2023 2036 2086 2130 2172 
+29.530588853 Lunar_phase.txt 1 1620 
+principal Lunar_phase.txt 3 310 372 460 
+northern Lunar_phase.txt 6 46 483 893 959 1017 1074 
+true Lunar_phase.txt 1 2051 
+brighter Lunar_phase.txt 1 997 
+only Lunar_phase.txt 2 1060 2137 
+tropics Lunar_phase.txt 2 1072 1186 
+8 Lunar_phase.txt 2 11 1420 
+circle Lunar_phase.txt 1 813 
+11 Lunar_phase.txt 1 1614 
+perigee Lunar_phase.txt 2 1553 1734 
+means Lunar_phase.txt 1 1759 
+midnight Lunar_phase.txt 4 1439 1447 1470 1478 
+moons Lunar_phase.txt 18 157 246 336 375 417 441 761 772 1289 1301 1336 1373 1496 1568 1978 2082 2113 2167 
+timing Lunar_phase.txt 1 1347 
+during Lunar_phase.txt 4 368 1047 2027 2053 
+morning Lunar_phase.txt 3 1049 1216 1398 
+hemispheres Lunar_phase.txt 1 221 
+twice Lunar_phase.txt 1 2183 
+cycles Lunar_phase.txt 2 38 85 
+where Lunar_phase.txt 1 873 
+farther Lunar_phase.txt 1 514 
+14.77 Lunar_phase.txt 2 266 272 
+modulo Lunar_phase.txt 1 1619 
+reference Lunar_phase.txt 1 1709 
+7.38 Lunar_phase.txt 1 406 
+observed Lunar_phase.txt 2 1005 2074 
+culture Lunar_phase.txt 2 307 605 
+see Lunar_phase.txt 5 229 264 1079 1823 2215 
+are Lunar_phase.txt 12 315 331 393 464 625 713 1650 1847 2072 2189 2203 2212 
+close Lunar_phase.txt 1 1772 
+calendar Lunar_phase.txt 8 1303 1308 1311 1317 1409 1418 1454 2197 
+one-sixth Lunar_phase.txt 1 1835 
+closer Lunar_phase.txt 1 1037 
+phases Lunar_phase.txt 26 18 41 88 125 228 300 311 355 373 397 463 473 552 600 612 669 1059 1314 1334 1351 1538 1574 1825 1889 1919 1967 
+said Lunar_phase.txt 1 687 
+away Lunar_phase.txt 1 282 
+wikipedia Lunar_phase.txt 1 2 
+enough Lunar_phase.txt 2 1266 1714 
+between Lunar_phase.txt 6 216 371 1629 1703 2022 2190 
+progress Lunar_phase.txt 1 670 
+boundary Lunar_phase.txt 1 215 
+pictured Lunar_phase.txt 1 1293 
+terms Lunar_phase.txt 1 707 
+august Lunar_phase.txt 1 1613 
+do Lunar_phase.txt 1 1920 
+however Lunar_phase.txt 3 410 1664 1956 
+craters Lunar_phase.txt 1 251 
+gregorian Lunar_phase.txt 1 1316 
+extent Lunar_phase.txt 1 769 
+interchangeable Lunar_phase.txt 1 715 
+dates Lunar_phase.txt 1 1631 
+last Lunar_phase.txt 2 328 399 
+minutes Lunar_phase.txt 1 1392 
+taking Lunar_phase.txt 1 1728 
+faces Lunar_phase.txt 1 173 
+allowance Lunar_phase.txt 1 1675 
+point Lunar_phase.txt 1 745 
+period Lunar_phase.txt 2 132 1338 
+pole Lunar_phase.txt 1 2006 
+article Lunar_phase.txt 4 1026 1093 1220 1306 
+respect Lunar_phase.txt 4 831 850 1087 2093 
+described Lunar_phase.txt 3 915 942 1281 
+west Lunar_phase.txt 1 925 
+create Lunar_phase.txt 1 1411 
+due Lunar_phase.txt 3 67 239 1548 
+tropical Lunar_phase.txt 1 1323 
+earthlight Lunar_phase.txt 1 1221 
+much Lunar_phase.txt 1 513 
+slowly Lunar_phase.txt 1 1895 
+arranging Lunar_phase.txt 1 1402 
+1899 Lunar_phase.txt 1 1663 
+eastern Lunar_phase.txt 3 1212 1775 1863 
+requires Lunar_phase.txt 1 1735 
+observers Lunar_phase.txt 3 1068 1818 1846 
+photos Lunar_phase.txt 1 1406 
+external Lunar_phase.txt 1 2222 
+graphics Lunar_phase.txt 1 31 
+general Lunar_phase.txt 1 2225 
+east Lunar_phase.txt 1 898 
+look Lunar_phase.txt 1 1192 
+these Lunar_phase.txt 5 330 354 383 1817 2201 
+appearance Lunar_phase.txt 1 1952 
+apogee Lunar_phase.txt 2 1551 1732 
+will Lunar_phase.txt 7 799 838 857 1044 1078 1462 1476 
+near Lunar_phase.txt 3 176 252 2155 
+eclipses Lunar_phase.txt 4 2071 2194 2202 2206 
+elaborate Lunar_phase.txt 1 1738 
+at Lunar_phase.txt 11 23 202 207 357 743 1062 1505 1681 1829 1865 2175 
+seven Lunar_phase.txt 1 2193 
+larger Lunar_phase.txt 1 1700 
+orientation Lunar_phase.txt 2 887 1174 
+eventually Lunar_phase.txt 1 724 
+equator Lunar_phase.txt 1 1040 
+is Lunar_phase.txt 74 4 56 66 76 98 108 159 178 213 231 285 296 378 419 427 433 444 456 505 512 526 579 636 646 665 685 719 752 784 797 828 847 903 909 914 930 936 941 956 967 971 975 980 984 991 995 1004 1130 1141 1150 1171 1180 1230 1240 1254 1264 1275 1320 1325 1430 1490 1566 1575 1712 1771 1783 1899 1907 1928 1936 2049 2087 2142 2174 
+thus Lunar_phase.txt 2 191 2108 
+it Lunar_phase.txt 16 37 84 691 734 746 1694 1711 1770 1778 1869 1906 1943 1957 2010 2050 2149 
+surface Lunar_phase.txt 3 564 660 1850 
+middle Lunar_phase.txt 1 1063 
+skipped Lunar_phase.txt 2 1466 1488 
+terminator Lunar_phase.txt 2 212 1043 
+in Lunar_phase.txt 32 21 48 63 95 188 305 469 528 588 814 891 957 998 1024 1091 1120 1175 1199 1203 1210 1214 1286 1298 1380 1396 1499 1717 1843 1901 1980 1989 2195 
+synodic Lunar_phase.txt 4 135 403 1337 1625 
+everyday Lunar_phase.txt 1 1375 
+if Lunar_phase.txt 8 491 825 844 895 922 976 987 1816 
+orbital Lunar_phase.txt 4 142 425 2160 2168 
+northward Lunar_phase.txt 1 494 
+media Lunar_phase.txt 3 15 539 1971 
+same Lunar_phase.txt 3 169 629 1922 
+any Lunar_phase.txt 2 1594 1947 
+member Lunar_phase.txt 1 537 
+shifts Lunar_phase.txt 1 1352 
+parts Lunar_phase.txt 2 260 561 
+contents Lunar_phase.txt 1 299 
+several Lunar_phase.txt 1 1692 
+sliver Lunar_phase.txt 1 722 
+used Lunar_phase.txt 2 434 754 
+effect Lunar_phase.txt 2 1740 1949 
+moment Lunar_phase.txt 2 733 1867 
+moving Lunar_phase.txt 1 1069 
+two Lunar_phase.txt 3 1630 1751 1785 
+jerkily Lunar_phase.txt 1 1916 
+cycle Lunar_phase.txt 3 773 1331 1572 
+amplitude Lunar_phase.txt 1 1924 
+fully Lunar_phase.txt 1 1242 
+roughly Lunar_phase.txt 1 1387 
+354 Lunar_phase.txt 1 1369 
+position Lunar_phase.txt 3 184 1979 1988 
+the Lunar_phase.txt 266 5 16 34 45 50 54 60 69 72 81 92 100 106 109 112 117 123 131 141 145 153 156 168 183 186 192 210 214 217 224 241 245 253 262 276 279 288 292 302 308 313 332 335 340 369 374 386 389 395 416 423 430 440 454 458 466 472 475 482 496 499 503 510 547 569 572 577 582 589 621 628 632 634 639 642 650 653 656 667 683 694 706 716 728 732 737 757 763 768 771 775 790 793 807 816 822 826 833 836 845 852 855 866 874 878 892 896 901 906 912 923 928 933 939 954 958 961 965 968 977 982 988 993 999 1002 1016 1022 1029 1039 1041 1048 1053 1057 1071 1080 1089 1094 1103 1106 1114 1118 1121 1123 1128 1132 1134 1138 1148 1152 1157 1162 1165 1173 1177 1185 1187 1195 1200 1204 1207 1211 1215 1224 1238 1245 1248 1252 1283 1287 1295 1299 1315 1330 1335 1346 1349 1372 1381 1397 1403 1416 1426 1444 1473 1480 1487 1495 1502 1509 1516 1531 1535 1554 1560 1563 1567 1579 1583 1587 1598 1621 1627 1637 1646 1656 1677 1683 1699 1701 1704 1708 1744 1756 1767 1774 1789 1798 1801 1804 1824 1827 1845 1849 1852 1859 1862 1871 1883 1887 1897 1902 1909 1911 1918 1921 1923 1951 1954 1963 1972 1977 1983 1986 1992 2004 2008 2019 2025 2057 2062 2078 2081 2085 2095 2101 2103 2106 2115 2120 2129 2140 2156 2163 2166 2171 2208 
+left Lunar_phase.txt 2 897 1427 
+just Lunar_phase.txt 1 1491 
+less Lunar_phase.txt 2 1697 2213 
+accurate Lunar_phase.txt 3 1698 1713 1960 
+rotated Lunar_phase.txt 3 489 1011 1082 
+reviewed Lunar_phase.txt 1 9 
+not Lunar_phase.txt 9 428 506 647 714 777 1945 1996 2044 2073 
+shape Lunar_phase.txt 9 110 243 377 443 455 779 803 837 856 
+intervals Lunar_phase.txt 2 25 370 
+librations Lunar_phase.txt 1 20 
+rotates Lunar_phase.txt 1 587 
+speed Lunar_phase.txt 1 426 
+intersection Lunar_phase.txt 2 808 2157 
+instance Lunar_phase.txt 1 1655 
+half-circle Lunar_phase.txt 2 834 853 
+sky Lunar_phase.txt 4 1122 1202 1213 1903 
+counted Lunar_phase.txt 1 1558 
+thickening Lunar_phase.txt 2 445 910 
+causing Lunar_phase.txt 2 2037 2064 
+4 Lunar_phase.txt 1 1536 
+usage Lunar_phase.txt 1 1727 
+shoemaker Lunar_phase.txt 1 258 
+has Lunar_phase.txt 1 606 
+march Lunar_phase.txt 1 12 
+around Lunar_phase.txt 10 147 152 232 265 774 1810 1982 1991 2084 2100 
+depends Lunar_phase.txt 1 1975 
+showing Lunar_phase.txt 1 1722 
+dark Lunar_phase.txt 5 289 904 931 981 1249 
+shadow Lunar_phase.txt 2 2032 2059 
+accepted Lunar_phase.txt 1 7 
+gibbous Lunar_phase.txt 4 382 678 695 840 
+like Lunar_phase.txt 1 1415 
+follows Lunar_phase.txt 1 1518 
+50 Lunar_phase.txt 1 1391 
+facing Lunar_phase.txt 2 281 644 
+either Lunar_phase.txt 2 379 2143 
+night Lunar_phase.txt 4 275 875 1472 1482 
+downward Lunar_phase.txt 2 1101 1126 
+stationary Lunar_phase.txt 1 1820 
+because Lunar_phase.txt 3 415 1432 2077 
+old Lunar_phase.txt 4 708 717 1284 1300 
+often Lunar_phase.txt 3 753 1182 1247 
+some Lunar_phase.txt 2 250 1460 
+back Lunar_phase.txt 1 702 
+calculated Lunar_phase.txt 2 1592 1634 
+daylight Lunar_phase.txt 1 269 
+earthshine Lunar_phase.txt 3 869 1217 1277 
+sight Lunar_phase.txt 1 1792 
+convex Lunar_phase.txt 1 829 
+images Lunar_phase.txt 2 1023 1090 
+indirect Lunar_phase.txt 2 882 1258 
+happens Lunar_phase.txt 1 2181 
+shapes Lunar_phase.txt 1 384 
+29.53 Lunar_phase.txt 2 138 1341 
+scale Lunar_phase.txt 2 508 1998 
+for Lunar_phase.txt 7 435 601 1360 1376 1593 1654 1676 
+novelty Lunar_phase.txt 1 1719 
+per Lunar_phase.txt 3 614 1813 2184 
+moon Lunar_phase.txt 88 35 55 82 107 118 146 187 204 209 263 280 293 303 314 317 321 390 450 476 511 522 548 583 624 635 643 654 673 675 677 679 682 684 696 698 700 705 709 712 718 751 864 879 902 913 921 929 940 951 966 983 994 1003 1081 1119 1129 1140 1158 1179 1225 1239 1253 1285 1297 1510 1517 1529 1565 1584 1606 1685 1723 1757 1768 1799 1805 1828 1860 1898 1912 1955 2020 2030 2056 2063 2116 2141 2209 
+does Lunar_phase.txt 3 1944 1958 2043 
+lunar Lunar_phase.txt 28 0 17 73 101 124 170 211 227 254 599 668 1042 1058 1095 1307 1313 1333 1350 1365 1537 1550 1731 1888 1966 1973 2066 2070 2148 
+provides Lunar_phase.txt 1 542 
+assuming Lunar_phase.txt 1 952 
+be Lunar_phase.txt 14 488 566 839 858 871 1160 1268 1436 1465 1591 1633 1689 2012 2152 
+illustration Lunar_phase.txt 1 544 
+shifting Lunar_phase.txt 2 918 948 
+although Lunar_phase.txt 2 294 2133 
+eye Lunar_phase.txt 1 730 
+refers Lunar_phase.txt 1 766 
+by Lunar_phase.txt 16 162 271 345 532 568 649 806 888 1244 1257 1353 1596 1635 1691 1833 2089 
+simpler Lunar_phase.txt 1 1651 
+on Lunar_phase.txt 22 10 182 366 408 627 1343 1407 1425 1440 1448 1452 1479 1763 1800 1848 1861 1870 1950 1976 2001 2035 2061 
+about Lunar_phase.txt 13 137 1326 1368 1750 1784 1807 1834 1874 1932 2090 2162 2170 2182 
+getting Lunar_phase.txt 1 996 
+of Lunar_phase.txt 89 33 53 71 80 105 111 116 133 144 150 167 185 195 223 244 261 268 274 278 291 301 312 353 401 474 502 545 555 562 574 598 609 631 641 658 770 792 809 868 877 900 927 964 1015 1021 1056 1105 1251 1312 1321 1332 1348 1356 1405 1494 1534 1556 1562 1573 1582 1600 1623 1641 1645 1658 1679 1730 1741 1749 1791 1793 1826 1836 1851 1886 1925 1940 1953 1962 1965 2007 2080 2097 2105 2124 2158 2177 2200 2207 
+horizon Lunar_phase.txt 7 525 1153 1776 1803 1864 1873 1910 
+upward Lunar_phase.txt 3 1099 1137 1169 
+slightly Lunar_phase.txt 4 238 358 414 1547 
+or Lunar_phase.txt 18 103 381 405 1010 1035 1064 1075 1084 1100 1110 1291 1457 1612 1648 1839 2122 2146 2210 
+image Lunar_phase.txt 1 1414 
+formulae Lunar_phase.txt 1 1652 
+arms Lunar_phase.txt 2 1290 1302 
+down Lunar_phase.txt 3 99 1111 2000 
+lies Lunar_phase.txt 1 2118 
+right Lunar_phase.txt 4 924 962 978 989 
+references Lunar_phase.txt 1 2220 
+next Lunar_phase.txt 3 1445 1474 1481 
+ellipse Lunar_phase.txt 1 811 
+anti-clockwise Lunar_phase.txt 1 1083 
+descriptions Lunar_phase.txt 1 1055 
+area Lunar_phase.txt 1 795 
+there Lunar_phase.txt 2 1649 2188 
+libration Lunar_phase.txt 1 59 
+sunlight Lunar_phase.txt 2 883 1259 
+fraction Lunar_phase.txt 1 1939 
+wax Lunar_phase.txt 2 742 1034 
+cultures Lunar_phase.txt 1 592 
+half-ellipse Lunar_phase.txt 2 827 846 
+opens Lunar_phase.txt 2 1125 1136 
+north Lunar_phase.txt 4 75 97 2005 2121 
+illuminated Lunar_phase.txt 7 218 567 648 659 782 794 1256 
+hawaiian Lunar_phase.txt 1 604 
+becoming Lunar_phase.txt 1 985 
+but Lunar_phase.txt 6 235 1263 1545 1725 1842 2041 
+expected Lunar_phase.txt 1 2013 
+hemisphere Lunar_phase.txt 8 47 94 484 498 783 894 960 1001 
+solar Lunar_phase.txt 3 2039 2068 2145 
+line Lunar_phase.txt 2 1790 2127 
+with Lunar_phase.txt 9 26 736 821 830 849 1086 1102 1485 2092 
+lunation Lunar_phase.txt 1 1578 
+up Lunar_phase.txt 2 77 1109 
+below Lunar_phase.txt 3 230 1151 1908 
+similar Lunar_phase.txt 1 1194 
+called Lunar_phase.txt 4 287 394 1276 1576 
+darker Lunar_phase.txt 1 986 
+brightly Lunar_phase.txt 1 1145 
+later Lunar_phase.txt 3 1393 1513 1877 
+constant Lunar_phase.txt 1 429 
+expedition Lunar_phase.txt 1 534 
+defined Lunar_phase.txt 1 805 
+certain Lunar_phase.txt 1 788 
+approximate Lunar_phase.txt 2 1580 1588 
+an Lunar_phase.txt 12 436 533 543 781 810 1354 1747 1761 1780 1794 1880 2134 
+as Lunar_phase.txt 23 36 42 58 83 89 119 140 257 327 477 509 584 652 661 690 804 916 943 1226 1235 1282 1292 1608 
+periods Lunar_phase.txt 1 387 
+moves Lunar_phase.txt 1 1806 
+incorrect Lunar_phase.txt 1 1690 
+again Lunar_phase.txt 1 749 
+dimly Lunar_phase.txt 2 880 1255 
+no Lunar_phase.txt 1 1674 
+whereas Lunar_phase.txt 1 843 
+when Lunar_phase.txt 20 334 361 388 439 453 620 780 861 1113 1127 1147 1223 1467 1753 1769 1896 1905 2018 2109 2139 
+portion Lunar_phase.txt 3 115 194 791 
+reality Lunar_phase.txt 1 1844 
+application Lunar_phase.txt 1 1721 
+other Lunar_phase.txt 1 1647 
+5 Lunar_phase.txt 1 2091 
+ellipses Lunar_phase.txt 1 817 
+misconceptions Lunar_phase.txt 1 1968 
+revision Lunar_phase.txt 1 8 
+picture Lunar_phase.txt 1 1434 
+calculating Lunar_phase.txt 2 1524 1597 
+durations Lunar_phase.txt 1 412 
+time Lunar_phase.txt 2 1561 1678 
+june Lunar_phase.txt 1 1421 
+gradually Lunar_phase.txt 1 126 
+astronomy Lunar_phase.txt 1 1222 
+sides Lunar_phase.txt 1 1031 
+implies Lunar_phase.txt 1 1155 
+starting Lunar_phase.txt 1 1379 
+moonset Lunar_phase.txt 2 1458 1486 
+required Lunar_phase.txt 1 1705 
+orbit Lunar_phase.txt 12 74 190 247 418 557 1521 1671 1812 1981 1990 2083 2099 
+waxing Lunar_phase.txt 6 432 616 917 973 1188 1196 
+2007 Lunar_phase.txt 2 49 96 
+2005 Lunar_phase.txt 2 1310 1423 
+clockwise Lunar_phase.txt 1 1085 
+misnomer Lunar_phase.txt 1 298 
+once Lunar_phase.txt 1 2015 

@@ -1,0 +1,992 @@
+represent Late_Heavy_Bombardment.txt 1 1317 
+all Late_Heavy_Bombardment.txt 5 747 833 934 1044 1069 
+partial Late_Heavy_Bombardment.txt 1 995 
+planetary Late_Heavy_Bombardment.txt 2 179 2590 
+melts Late_Heavy_Bombardment.txt 6 138 312 369 417 519 866 
+green Late_Heavy_Bombardment.txt 1 2178 
+asteroids Late_Heavy_Bombardment.txt 11 66 161 322 650 1445 2471 2480 2495 2775 2801 2804 
+astronauts Late_Heavy_Bombardment.txt 1 128 
+zircons Late_Heavy_Bombardment.txt 2 1355 2010 
+eccentricity Late_Heavy_Bombardment.txt 2 2331 2460 
+debris Late_Heavy_Bombardment.txt 2 2837 3260 
+ga Late_Heavy_Bombardment.txt 21 44 229 375 413 543 559 582 589 592 829 953 978 1020 1297 1455 1603 1691 1836 1845 1935 2014 
+common Late_Heavy_Bombardment.txt 1 3223 
+go Late_Heavy_Bombardment.txt 1 2277 
+perturbations Late_Heavy_Bombardment.txt 1 2754 
+oldest Late_Heavy_Bombardment.txt 5 1307 1394 1644 1657 1786 
+barberton Late_Heavy_Bombardment.txt 1 2114 
+causes Late_Heavy_Bombardment.txt 2 780 2157 
+uneven Late_Heavy_Bombardment.txt 1 2798 
+collisions Late_Heavy_Bombardment.txt 2 3182 3263 
+producing Late_Heavy_Bombardment.txt 3 2779 2988 3230 
+acasta Late_Heavy_Bombardment.txt 2 1413 1618 
+vs Late_Heavy_Bombardment.txt 1 2748 
+crater Late_Heavy_Bombardment.txt 4 685 1092 1113 2143 
+environment Late_Heavy_Bombardment.txt 1 1351 
+to Late_Heavy_Bombardment.txt 62 35 40 50 69 150 315 353 377 481 537 633 677 737 832 871 941 1073 1081 1264 1316 1401 1436 1459 1559 1601 1652 1699 1730 1857 2012 2019 2110 2134 2138 2256 2270 2302 2305 2337 2433 2452 2455 2522 2548 2581 2753 2762 2815 2818 2851 2861 2931 3008 3117 3145 3175 3181 3185 3220 3225 3227 3244 
+indicate Late_Heavy_Bombardment.txt 1 3215 
+arisen Late_Heavy_Bombardment.txt 1 1908 
+determinations Late_Heavy_Bombardment.txt 1 1084 
+under Late_Heavy_Bombardment.txt 2 1595 1887 
+include Late_Heavy_Bombardment.txt 1 1509 
+magnetic Late_Heavy_Bombardment.txt 1 2956 
+lack Late_Heavy_Bombardment.txt 4 820 1011 2865 3211 
+far Late_Heavy_Bombardment.txt 2 498 515 
+oceans Late_Heavy_Bombardment.txt 1 1760 
+conditions Late_Heavy_Bombardment.txt 3 1733 3259 3298 
+cataclysmic Late_Heavy_Bombardment.txt 2 224 1244 
+jack Late_Heavy_Bombardment.txt 4 1631 1666 1695 1972 
+fall Late_Heavy_Bombardment.txt 1 1435 
+resonant Late_Heavy_Bombardment.txt 1 2382 
+difference Late_Heavy_Bombardment.txt 1 1575 
+encounter Late_Heavy_Bombardment.txt 3 2402 2423 2517 
+cool Late_Heavy_Bombardment.txt 1 1789 
+conjunction Late_Heavy_Bombardment.txt 1 3208 
+multicellular Late_Heavy_Bombardment.txt 1 1155 
+gneisses Late_Heavy_Bombardment.txt 1 1628 
+immediately Late_Heavy_Bombardment.txt 1 1896 
+presented Late_Heavy_Bombardment.txt 1 1580 
+did Late_Heavy_Bombardment.txt 3 427 442 1037 
+thorsten Late_Heavy_Bombardment.txt 1 1985 
+sedimentary Late_Heavy_Bombardment.txt 1 1807 
+radii Late_Heavy_Bombardment.txt 1 3162 
+large Late_Heavy_Bombardment.txt 8 63 251 647 729 740 885 2898 3105 
+p Late_Heavy_Bombardment.txt 2 1186 1197 
+hypothetical Late_Heavy_Bombardment.txt 1 2724 
+team Late_Heavy_Bombardment.txt 2 2040 2612 
+small Late_Heavy_Bombardment.txt 2 1075 2003 
+venus Late_Heavy_Bombardment.txt 3 84 3098 3199 
+inclination Late_Heavy_Bombardment.txt 1 2467 
+configurations Late_Heavy_Bombardment.txt 1 2370 
+abbreviated Late_Heavy_Bombardment.txt 1 22 
+revolution Late_Heavy_Bombardment.txt 1 1703 
+controversial Late_Heavy_Bombardment.txt 4 456 471 790 3055 
+consistent Late_Heavy_Bombardment.txt 2 526 2371 
+sign Late_Heavy_Bombardment.txt 1 2026 
+past Late_Heavy_Bombardment.txt 1 1056 
+rate Late_Heavy_Bombardment.txt 6 259 405 1001 1543 1558 2995 
+bombardment Late_Heavy_Bombardment.txt 20 2 13 21 91 385 407 704 713 723 1124 1874 1901 2064 2575 2713 2783 2938 3034 3070 3284 
+temperate Late_Heavy_Bombardment.txt 1 1755 
+further Late_Heavy_Bombardment.txt 1 2162 
+estimated Late_Heavy_Bombardment.txt 1 2118 
+unlikely Late_Heavy_Bombardment.txt 1 3219 
+even Late_Heavy_Bombardment.txt 1 1335 
+disk Late_Heavy_Bombardment.txt 2 1471 1517 
+appear Late_Heavy_Bombardment.txt 1 1651 
+sun Late_Heavy_Bombardment.txt 2 1475 2793 
+crust Late_Heavy_Bombardment.txt 6 991 1500 1610 1679 1880 2053 
+while Late_Heavy_Bombardment.txt 3 469 764 863 
+melt Late_Heavy_Bombardment.txt 7 298 615 823 853 949 1014 1035 
+current Late_Heavy_Bombardment.txt 4 626 661 2918 3213 
+version Late_Heavy_Bombardment.txt 1 2827 
+above Late_Heavy_Bombardment.txt 2 14 638 
+scientists Late_Heavy_Bombardment.txt 2 180 2099 
+increasing Late_Heavy_Bombardment.txt 1 2973 
+jumping-jupiter Late_Heavy_Bombardment.txt 1 2436 
+body Late_Heavy_Bombardment.txt 3 1528 1555 3253 
+postulates Late_Heavy_Bombardment.txt 1 181 
+led Late_Heavy_Bombardment.txt 2 376 1698 
+heavily Late_Heavy_Bombardment.txt 1 2805 
+respectively Late_Heavy_Bombardment.txt 1 360 
+residual Late_Heavy_Bombardment.txt 1 3013 
+hundreds Late_Heavy_Bombardment.txt 1 332 
+youngest Late_Heavy_Bombardment.txt 3 728 739 903 
+meteorites Late_Heavy_Bombardment.txt 7 466 478 509 567 571 1170 1439 
+magnetism Late_Heavy_Bombardment.txt 1 3014 
+objects Late_Heavy_Bombardment.txt 7 194 656 2334 2934 2978 2982 3203 
+geisler Late_Heavy_Bombardment.txt 1 1986 
+separation Late_Heavy_Bombardment.txt 1 2443 
+kilometers Late_Heavy_Bombardment.txt 3 327 334 2136 
+represented Late_Heavy_Bombardment.txt 1 399 
+i.e Late_Heavy_Bombardment.txt 1 160 
+100 Late_Heavy_Bombardment.txt 2 1571 3149 
+standard Late_Heavy_Bombardment.txt 1 1086 
+change Late_Heavy_Bombardment.txt 2 3022 3047 
+three-dimensional Late_Heavy_Bombardment.txt 1 2031 
+solid Late_Heavy_Bombardment.txt 2 1527 1754 
+giant-planet Late_Heavy_Bombardment.txt 1 2159 
+single-celled Late_Heavy_Bombardment.txt 1 1151 
+institute Late_Heavy_Bombardment.txt 1 1989 
+shift Late_Heavy_Bombardment.txt 1 2197 
+study Late_Heavy_Bombardment.txt 1 1970 
+losses Late_Heavy_Bombardment.txt 1 997 
+37 Late_Heavy_Bombardment.txt 1 2133 
+36 Late_Heavy_Bombardment.txt 1 2139 
+commonly Late_Heavy_Bombardment.txt 1 869 
+leaving Late_Heavy_Bombardment.txt 1 2487 
+suggests Late_Heavy_Bombardment.txt 3 1094 1269 1883 
+earth-crossing Late_Heavy_Bombardment.txt 2 2777 2986 
+resulting Late_Heavy_Bombardment.txt 1 2838 
+scenario Late_Heavy_Bombardment.txt 2 2437 2473 
+action Late_Heavy_Bombardment.txt 1 1774 
+resonance Late_Heavy_Bombardment.txt 3 2184 2296 3155 
+narrow Late_Heavy_Bombardment.txt 1 143 
+studies Late_Heavy_Bombardment.txt 3 681 1914 1947 
+ratio Late_Heavy_Bombardment.txt 1 2016 
+criticism Late_Heavy_Bombardment.txt 3 846 969 1005 
+diameter Late_Heavy_Bombardment.txt 1 336 
+pre-imbrium Late_Heavy_Bombardment.txt 1 2925 
+via Late_Heavy_Bombardment.txt 1 2822 
+followed Late_Heavy_Bombardment.txt 4 717 993 2420 2951 
+although Late_Heavy_Bombardment.txt 1 2069 
+family Late_Heavy_Bombardment.txt 1 692 
+bombardment-like Late_Heavy_Bombardment.txt 1 3297 
+requiring Late_Heavy_Bombardment.txt 1 1569 
+multi-ring Late_Heavy_Bombardment.txt 1 908 
+explained Late_Heavy_Bombardment.txt 1 1117 
+kuiper Late_Heavy_Bombardment.txt 2 199 2323 
+brought Late_Heavy_Bombardment.txt 1 123 
+howardite Late_Heavy_Bombardment.txt 1 562 
+schidlowski Late_Heavy_Bombardment.txt 4 1796 1830 1863 1919 
+crisis Late_Heavy_Bombardment.txt 1 1176 
+spherule Late_Heavy_Bombardment.txt 1 2555 
+undergone Late_Heavy_Bombardment.txt 1 2353 
+from Late_Heavy_Bombardment.txt 30 120 248 292 420 464 496 499 512 573 580 624 875 893 927 959 1310 1515 1665 1682 1740 1764 1923 2144 2482 2540 2755 2839 3089 3166 3233 
+links Late_Heavy_Bombardment.txt 1 3310 
+would Late_Heavy_Bombardment.txt 11 667 1254 1276 1508 1890 2075 2315 2327 2545 2631 2927 
+0 Late_Heavy_Bombardment.txt 1 1149 
+breakup Late_Heavy_Bombardment.txt 1 3102 
+timeline Late_Heavy_Bombardment.txt 4 1136 1238 1241 1886 
+two Late_Heavy_Bombardment.txt 1 796 
+intense Late_Heavy_Bombardment.txt 1 384 
+few Late_Heavy_Bombardment.txt 4 2886 3000 3018 3138 
+asteroid Late_Heavy_Bombardment.txt 20 197 575 627 662 1432 2320 2485 2543 2564 2721 2745 2766 2810 2874 2900 2904 2920 2971 3108 3241 
+therefore Late_Heavy_Bombardment.txt 1 2644 
+spike Late_Heavy_Bombardment.txt 3 154 975 2990 
+taken Late_Heavy_Bombardment.txt 1 1859 
+0.003 Late_Heavy_Bombardment.txt 1 1404 
+until Late_Heavy_Bombardment.txt 3 1294 1373 2940 
+today Late_Heavy_Bombardment.txt 1 16 
+more Late_Heavy_Bombardment.txt 6 458 1389 1842 1903 1945 1966 
+sort Late_Heavy_Bombardment.txt 1 1980 
+gas-flows Late_Heavy_Bombardment.txt 1 2658 
+diamond Late_Heavy_Bombardment.txt 1 2006 
+ejected Late_Heavy_Bombardment.txt 1 2514 
+apparent Late_Heavy_Bombardment.txt 3 153 233 362 
+occurred Late_Heavy_Bombardment.txt 4 37 139 1248 2121 
+disruption Late_Heavy_Bombardment.txt 3 2871 2895 3236 
+observations Late_Heavy_Bombardment.txt 1 3214 
+geologists Late_Heavy_Bombardment.txt 1 1286 
+particular Late_Heavy_Bombardment.txt 2 1768 1793 
+known Late_Heavy_Bombardment.txt 3 26 1308 1395 
+central Late_Heavy_Bombardment.txt 1 913 
+transneptunians Late_Heavy_Bombardment.txt 1 2249 
+trojans Late_Heavy_Bombardment.txt 3 3085 3142 3201 
+high Late_Heavy_Bombardment.txt 2 643 2023 
+none Late_Heavy_Bombardment.txt 1 531 
+inclinations Late_Heavy_Bombardment.txt 1 644 
+eta Late_Heavy_Bombardment.txt 2 3288 3302 
+this Late_Heavy_Bombardment.txt 29 59 239 467 551 928 942 1024 1267 1298 1374 1506 1557 1593 1596 1669 1761 1889 2145 2236 2280 2472 2541 2637 2686 2823 2829 2901 3032 3038 
+originally Late_Heavy_Bombardment.txt 1 2739 
+zircon Late_Heavy_Bombardment.txt 3 1664 1697 1744 
+excessively Late_Heavy_Bombardment.txt 1 2457 
+can Late_Heavy_Bombardment.txt 1 1115 
+evolved Late_Heavy_Bombardment.txt 1 2984 
+v Late_Heavy_Bombardment.txt 7 2692 2698 2701 2729 2773 2785 2841 
+believed Late_Heavy_Bombardment.txt 2 314 480 
+field Late_Heavy_Bombardment.txt 1 2957 
+cryogenian Late_Heavy_Bombardment.txt 1 1223 
+my Late_Heavy_Bombardment.txt 1 2681 
+history Late_Heavy_Bombardment.txt 3 114 707 719 
+protoplanetary Late_Heavy_Bombardment.txt 1 1470 
+giants Late_Heavy_Bombardment.txt 1 2408 
+impacts Late_Heavy_Bombardment.txt 4 2539 2888 2926 2949 
+pieces Late_Heavy_Bombardment.txt 1 2004 
+sample Late_Heavy_Bombardment.txt 2 218 483 
+collision Late_Heavy_Bombardment.txt 1 320 
+assumptions Late_Heavy_Bombardment.txt 1 795 
+something Late_Heavy_Bombardment.txt 1 1700 
+isotopically Late_Heavy_Bombardment.txt 1 1954 
+occur Late_Heavy_Bombardment.txt 1 2397 
+axis Late_Heavy_Bombardment.txt 1 1227 
+terrestrial Late_Heavy_Bombardment.txt 8 75 210 2106 2347 2707 2726 3094 3171 
+information Late_Heavy_Bombardment.txt 1 2163 
+end Late_Heavy_Bombardment.txt 1 1926 
+cratering Late_Heavy_Bombardment.txt 5 225 262 1053 1245 1262 
+rather Late_Heavy_Bombardment.txt 1 142 
+jupiter-crossing Late_Heavy_Bombardment.txt 1 2418 
+formations Late_Heavy_Bombardment.txt 1 3091 
+regions Late_Heavy_Bombardment.txt 1 497 
+very Late_Heavy_Bombardment.txt 4 642 1566 1852 2599 
+2:1 Late_Heavy_Bombardment.txt 2 2183 2294 
+significance Late_Heavy_Bombardment.txt 1 1008 
+answer Late_Heavy_Bombardment.txt 1 1944 
+instead Late_Heavy_Bombardment.txt 1 890 
+if Late_Heavy_Bombardment.txt 5 414 705 1242 1862 2147 
+establishment Late_Heavy_Bombardment.txt 1 2587 
+pongola Late_Heavy_Bombardment.txt 1 1221 
+controversially Late_Heavy_Bombardment.txt 1 1748 
+stray Late_Heavy_Bombardment.txt 1 2248 
+may Late_Heavy_Bombardment.txt 3 1104 1673 2036 
+earlier Late_Heavy_Bombardment.txt 3 585 1382 1909 
+derived Late_Heavy_Bombardment.txt 3 419 874 892 
+orbits Late_Heavy_Bombardment.txt 6 203 654 2778 2987 3114 3206 
+huronian Late_Heavy_Bombardment.txt 1 1222 
+dinosaurs Late_Heavy_Bombardment.txt 1 1159 
+modest Late_Heavy_Bombardment.txt 1 1843 
+produce Late_Heavy_Bombardment.txt 1 2819 
+4500 Late_Heavy_Bombardment.txt 1 1140 
+date Late_Heavy_Bombardment.txt 4 552 1299 1375 2111 
+such Late_Heavy_Bombardment.txt 4 655 782 834 1074 
+derives Late_Heavy_Bombardment.txt 2 119 1763 
+data Late_Heavy_Bombardment.txt 2 219 459 
+a Late_Heavy_Bombardment.txt 75 47 61 141 223 249 279 288 348 400 435 783 812 884 960 1003 1030 1188 1208 1213 1216 1219 1243 1318 1448 1526 1581 1589 1663 1676 1687 1702 1719 1813 1841 1851 1869 1885 1968 2025 2039 2091 2173 2213 2223 2232 2244 2260 2293 2306 2368 2392 2417 2435 2488 2602 2648 2705 2731 2853 2864 2876 2897 2906 2909 2945 2965 2989 3021 3060 3104 3137 3153 3238 3248 3274 
+short Late_Heavy_Bombardment.txt 3 436 1853 1868 
+attempt Late_Heavy_Bombardment.txt 1 149 
+lhb Late_Heavy_Bombardment.txt 15 23 118 1169 1284 1587 1615 1655 1684 2505 2653 2690 2821 3229 3232 3278 
+imply Late_Heavy_Bombardment.txt 1 2669 
+following Late_Heavy_Bombardment.txt 2 1272 2515 
+light Late_Heavy_Bombardment.txt 2 1955 2204 
+depends Late_Heavy_Bombardment.txt 1 1548 
+hypotheses Late_Heavy_Bombardment.txt 1 148 
+greek Late_Heavy_Bombardment.txt 1 1742 
+so Late_Heavy_Bombardment.txt 2 192 441 
+multi-resonant Late_Heavy_Bombardment.txt 1 2369 
+theorized Late_Heavy_Bombardment.txt 1 68 
+1000 Late_Heavy_Bombardment.txt 2 1147 3249 
+order Late_Heavy_Bombardment.txt 1 2678 
+shield Late_Heavy_Bombardment.txt 1 1625 
+enter Late_Heavy_Bombardment.txt 1 2338 
+indeed Late_Heavy_Bombardment.txt 1 1922 
+over Late_Heavy_Bombardment.txt 6 1054 1681 1822 2601 3088 3165 
+toward Late_Heavy_Bombardment.txt 1 2807 
+ejecta Late_Heavy_Bombardment.txt 2 815 926 
+years Late_Heavy_Bombardment.txt 14 43 757 1059 1230 1406 1504 1573 2125 2266 2607 2943 2963 3140 3151 
+produced Late_Heavy_Bombardment.txt 2 986 3261 
+including Late_Heavy_Bombardment.txt 2 82 1340 
+argued Late_Heavy_Bombardment.txt 2 882 1797 
+40ar Late_Heavy_Bombardment.txt 1 996 
+still Late_Heavy_Bombardment.txt 4 109 470 789 2149 
+its Late_Heavy_Bombardment.txt 3 2357 2516 2715 
+before Late_Heavy_Bombardment.txt 3 1279 1781 2176 
+1 Late_Heavy_Bombardment.txt 1 800 
+saturn Late_Heavy_Bombardment.txt 4 2180 2291 2410 2447 
+outer Late_Heavy_Bombardment.txt 5 268 2168 2299 2625 2666 
+decay Late_Heavy_Bombardment.txt 1 709 
+chosen Late_Heavy_Bombardment.txt 1 346 
+inward Late_Heavy_Bombardment.txt 2 2272 2415 
+mineralogy Late_Heavy_Bombardment.txt 1 1991 
+late Late_Heavy_Bombardment.txt 18 0 11 19 89 702 711 721 1872 1899 2573 2576 2638 2711 2781 3033 3068 3282 3295 
+offers Late_Heavy_Bombardment.txt 1 1588 
+categories Late_Heavy_Bombardment.txt 2 3312 3314 
+cometary Late_Heavy_Bombardment.txt 1 2869 
+orange Late_Heavy_Bombardment.txt 2 1231 2181 
+covered Late_Heavy_Bombardment.txt 1 1757 
+hidden Late_Heavy_Bombardment.txt 1 3313 
+main Late_Heavy_Bombardment.txt 7 283 2484 2695 2919 3106 3239 3286 
+might Late_Heavy_Bombardment.txt 1 889 
+happened Late_Heavy_Bombardment.txt 1 92 
+uranus/neptune Late_Heavy_Bombardment.txt 1 2577 
+then Late_Heavy_Bombardment.txt 5 424 1478 2950 2959 2983 
+them Late_Heavy_Bombardment.txt 2 2255 2336 
+affected Late_Heavy_Bombardment.txt 2 1257 1349 
+eccentricities Late_Heavy_Bombardment.txt 1 648 
+northwestern Late_Heavy_Bombardment.txt 1 1420 
+fragment Late_Heavy_Bombardment.txt 1 1677 
+propose Late_Heavy_Bombardment.txt 1 2523 
+material Late_Heavy_Bombardment.txt 2 956 2622 
+projectiles Late_Heavy_Bombardment.txt 1 694 
+scaling Late_Heavy_Bombardment.txt 1 1556 
+band Late_Heavy_Bombardment.txt 1 2493 
+effects Late_Heavy_Bombardment.txt 1 1050 
+they Late_Heavy_Bombardment.txt 6 254 389 1650 1832 2117 3217 
+hundred Late_Heavy_Bombardment.txt 1 2264 
+sweeping Late_Heavy_Bombardment.txt 1 673 
+now Late_Heavy_Bombardment.txt 2 2489 3267 
+discuss Late_Heavy_Bombardment.txt 1 1138 
+cambrian Late_Heavy_Bombardment.txt 1 1182 
+term Late_Heavy_Bombardment.txt 1 3193 
+rocky Late_Heavy_Bombardment.txt 2 98 1554 
+oxygen Late_Heavy_Bombardment.txt 3 1172 1174 1175 
+edit Late_Heavy_Bombardment.txt 14 281 763 1134 1139 2158 2161 2579 2694 2875 3059 3285 3306 3308 3311 
+university Late_Heavy_Bombardment.txt 2 1994 2043 
+identified Late_Heavy_Bombardment.txt 2 778 979 
+rocks Late_Heavy_Bombardment.txt 18 133 299 824 854 1015 1036 1309 1325 1359 1423 1442 1490 1599 1787 1808 1828 1918 1974 
+altering Late_Heavy_Bombardment.txt 1 2458 
+migrate Late_Heavy_Bombardment.txt 2 2257 2271 
+water-based Late_Heavy_Bombardment.txt 1 1776 
+rock Late_Heavy_Bombardment.txt 2 1396 1693 
+crossing Late_Heavy_Bombardment.txt 1 653 
+found Late_Heavy_Bombardment.txt 15 536 910 1302 1329 1362 1426 1809 1920 1949 2155 2451 2537 3144 3243 3293 
+traces Late_Heavy_Bombardment.txt 2 1976 1998 
+side Late_Heavy_Bombardment.txt 1 516 
+referred Late_Heavy_Bombardment.txt 1 2432 
+heavy Late_Heavy_Bombardment.txt 15 1 12 20 90 703 712 722 1873 1900 2574 2712 2782 3069 3283 3296 
+volcanos Late_Heavy_Bombardment.txt 1 1724 
+significantly Late_Heavy_Bombardment.txt 3 265 669 2475 
+independent Late_Heavy_Bombardment.txt 1 3113 
+doing Late_Heavy_Bombardment.txt 1 191 
+series Late_Heavy_Bombardment.txt 2 2214 2393 
+energy Late_Heavy_Bombardment.txt 1 1533 
+700 Late_Heavy_Bombardment.txt 1 1502 
+related Late_Heavy_Bombardment.txt 1 831 
+configuration Late_Heavy_Bombardment.txt 4 2175 2235 2237 2383 
+measurement Late_Heavy_Bombardment.txt 1 1577 
+our Late_Heavy_Bombardment.txt 1 1705 
+vesta-sized Late_Heavy_Bombardment.txt 1 2970 
+beyond Late_Heavy_Bombardment.txt 1 1322 
+sexual Late_Heavy_Bombardment.txt 1 1178 
+event Late_Heavy_Bombardment.txt 8 33 226 929 963 1246 1670 2109 2146 
+canada Late_Heavy_Bombardment.txt 1 1421 
+craton Late_Heavy_Bombardment.txt 1 1418 
+ultimately Late_Heavy_Bombardment.txt 1 2787 
+2500 Late_Heavy_Bombardment.txt 1 1144 
+space Late_Heavy_Bombardment.txt 1 1492 
+furthermore Late_Heavy_Bombardment.txt 1 1060 
+since Late_Heavy_Bombardment.txt 1 2356 
+increase Late_Heavy_Bombardment.txt 4 402 600 2328 2441 
+27 Late_Heavy_Bombardment.txt 1 3160 
+contained Late_Heavy_Bombardment.txt 1 1685 
+suggesting Late_Heavy_Bombardment.txt 3 1831 1840 1936 
+cause Late_Heavy_Bombardment.txt 1 3044 
+correct Late_Heavy_Bombardment.txt 1 1865 
+shows Late_Heavy_Bombardment.txt 2 921 1975 
+harold Late_Heavy_Bombardment.txt 1 2608 
+after Late_Heavy_Bombardment.txt 7 93 1606 1897 2194 2207 2380 2768 
+theory Late_Heavy_Bombardment.txt 3 468 1285 1579 
+interactions Late_Heavy_Bombardment.txt 1 2387 
+retrieved Late_Heavy_Bombardment.txt 1 247 
+million Late_Heavy_Bombardment.txt 6 1229 1503 1572 2265 3139 3150 
+possibility Late_Heavy_Bombardment.txt 1 1939 
+quite Late_Heavy_Bombardment.txt 1 110 
+five Late_Heavy_Bombardment.txt 1 2530 
+reason Late_Heavy_Bombardment.txt 1 2650 
+ancient Late_Heavy_Bombardment.txt 1 2553 
+formation Late_Heavy_Bombardment.txt 7 992 1486 1783 2551 2578 2630 3168 
+reconfigure Late_Heavy_Bombardment.txt 1 2303 
+4540 Late_Heavy_Bombardment.txt 1 1164 
+earliest Late_Heavy_Bombardment.txt 7 1123 1162 1165 1167 1171 1177 1184 
+publication Late_Heavy_Bombardment.txt 1 2359 
+eucrite Late_Heavy_Bombardment.txt 1 563 
+hadean Late_Heavy_Bombardment.txt 7 1383 1477 1709 1716 1727 1751 1912 
+organic Late_Heavy_Bombardment.txt 2 1816 1983 
+created Late_Heavy_Bombardment.txt 1 2709 
+could Late_Heavy_Bombardment.txt 10 263 806 983 1068 1300 1326 1360 1424 2060 2085 
+times Late_Heavy_Bombardment.txt 1 618 
+40ar/39ar Late_Heavy_Bombardment.txt 1 981 
+american Late_Heavy_Bombardment.txt 1 1623 
+basin-forming Late_Heavy_Bombardment.txt 2 2887 2948 
+place Late_Heavy_Bombardment.txt 1 1860 
+matija Late_Heavy_Bombardment.txt 1 2880 
+leading Late_Heavy_Bombardment.txt 1 2520 
+onto Late_Heavy_Bombardment.txt 2 2416 2985 
+outwards Late_Heavy_Bombardment.txt 1 2278 
+first Late_Heavy_Bombardment.txt 2 845 1465 
+origin Late_Heavy_Bombardment.txt 1 849 
+borealis Late_Heavy_Bombardment.txt 1 2846 
+initial Late_Heavy_Bombardment.txt 2 2358 3258 
+caloris Late_Heavy_Bombardment.txt 1 732 
+number Late_Heavy_Bombardment.txt 4 64 1273 2855 3061 
+one Late_Heavy_Bombardment.txt 3 1021 2404 2582 
+minimum Late_Heavy_Bombardment.txt 1 3247 
+incubated Late_Heavy_Bombardment.txt 1 2087 
+approximately Late_Heavy_Bombardment.txt 2 38 2132 
+impossible Late_Heavy_Bombardment.txt 1 1080 
+causing Late_Heavy_Bombardment.txt 3 2254 2297 2760 
+size Late_Heavy_Bombardment.txt 2 686 1551 
+mercury Late_Heavy_Bombardment.txt 3 83 696 715 
+earths Late_Heavy_Bombardment.txt 4 113 1499 2052 2083 
+differ Late_Heavy_Bombardment.txt 1 264 
+archean Late_Heavy_Bombardment.txt 1 1386 
+swept Late_Heavy_Bombardment.txt 1 2317 
+likely Late_Heavy_Bombardment.txt 3 1904 1943 2789 
+plains Late_Heavy_Bombardment.txt 1 750 
+23 Late_Heavy_Bombardment.txt 1 2137 
+system Late_Heavy_Bombardment.txt 16 81 168 275 1129 1342 2193 2225 2284 2301 2309 2342 2379 2527 2591 2627 2668 
+least Late_Heavy_Bombardment.txt 2 489 1348 
+name Late_Heavy_Bombardment.txt 1 1726 
+their Late_Heavy_Bombardment.txt 7 106 351 533 840 1041 2065 2635 
+1500 Late_Heavy_Bombardment.txt 2 1146 3250 
+2 Late_Heavy_Bombardment.txt 1 817 
+rates Late_Heavy_Bombardment.txt 1 1263 
+too Late_Heavy_Bombardment.txt 2 1867 3178 
+calculations Late_Heavy_Bombardment.txt 2 1539 2656 
+neohadean Late_Heavy_Bombardment.txt 1 52 
+cooling Late_Heavy_Bombardment.txt 3 1521 1547 1568 
+low Late_Heavy_Bombardment.txt 2 2619 2854 
+1999 Late_Heavy_Bombardment.txt 1 1392 
+collapse Late_Heavy_Bombardment.txt 1 1545 
+that Late_Heavy_Bombardment.txt 45 135 182 215 231 257 300 379 397 610 689 799 818 855 883 922 972 1026 1033 1040 1064 1077 1095 1270 1289 1367 1434 1541 1715 1749 1771 1800 1881 1916 1958 2049 2068 2128 2524 2538 2562 2616 2670 2704 2883 3216 
+et Late_Heavy_Bombardment.txt 1 2219 
+explanation Late_Heavy_Bombardment.txt 2 1591 2687 
+continuous Late_Heavy_Bombardment.txt 1 1049 
+artifact Late_Heavy_Bombardment.txt 2 243 809 
+released Late_Heavy_Bombardment.txt 1 1537 
+narryer Late_Heavy_Bombardment.txt 1 1636 
+part Late_Heavy_Bombardment.txt 1 1410 
+colorado Late_Heavy_Bombardment.txt 1 2045 
+western Late_Heavy_Bombardment.txt 1 1640 
+flowers Late_Heavy_Bombardment.txt 1 1161 
+representing Late_Heavy_Bombardment.txt 1 598 
+than Late_Heavy_Bombardment.txt 6 540 754 826 1017 2734 2916 
+population Late_Heavy_Bombardment.txt 4 666 1114 2910 2975 
+10 Late_Heavy_Bombardment.txt 3 634 639 2680 
+ediacara Late_Heavy_Bombardment.txt 1 1180 
+b Late_Heavy_Bombardment.txt 1 2185 
+15 Late_Heavy_Bombardment.txt 1 339 
+cratonic Late_Heavy_Bombardment.txt 1 1624 
+17 Late_Heavy_Bombardment.txt 1 342 
+16 Late_Heavy_Bombardment.txt 1 340 
+require Late_Heavy_Bombardment.txt 3 222 641 3245 
+second Late_Heavy_Bombardment.txt 1 1004 
+rapidly Late_Heavy_Bombardment.txt 3 2304 2675 3179 
+i Late_Heavy_Bombardment.txt 2 1195 1206 
+nearside Late_Heavy_Bombardment.txt 1 914 
+reproduction Late_Heavy_Bombardment.txt 1 1179 
+were Late_Heavy_Bombardment.txt 13 301 345 418 856 1812 1833 1959 2889 3115 3131 3143 3173 3218 
+providing Late_Heavy_Bombardment.txt 1 2090 
+photosynthesis Late_Heavy_Bombardment.txt 1 1153 
+result Late_Heavy_Bombardment.txt 2 349 2891 
+and Late_Heavy_Bombardment.txt 68 15 24 53 86 96 102 162 189 204 230 269 341 357 373 395 487 517 557 564 568 583 697 744 746 791 816 904 918 965 1101 1239 1314 1347 1384 1408 1493 1518 1546 1578 1626 1756 1838 1861 1875 2007 2054 2127 2170 2179 2202 2290 2322 2343 2409 2446 2465 2557 2561 2596 2610 2738 2743 2863 3020 3042 3100 3130 3183 
+2014 Late_Heavy_Bombardment.txt 1 2098 
+remained Late_Heavy_Bombardment.txt 3 1292 1332 1371 
+re-melting Late_Heavy_Bombardment.txt 1 1877 
+neptune Late_Heavy_Bombardment.txt 2 2199 2597 
+half Late_Heavy_Bombardment.txt 1 2735 
+ages Late_Heavy_Bombardment.txt 13 237 295 365 381 534 546 579 593 805 841 950 1042 1234 
+randomly Late_Heavy_Bombardment.txt 1 482 
+depleted Late_Heavy_Bombardment.txt 2 2491 3177 
+have Late_Heavy_Bombardment.txt 23 36 70 316 494 522 777 867 1043 1070 1105 1255 1277 1858 1948 2061 2076 2086 2536 2613 2632 2928 3071 3221 
+close Late_Heavy_Bombardment.txt 1 2769 
+relic Late_Heavy_Bombardment.txt 1 1814 
+any Late_Heavy_Bombardment.txt 1 1119 
+contents Late_Heavy_Bombardment.txt 1 276 
+sterilized Late_Heavy_Bombardment.txt 1 2078 
+posits Late_Heavy_Bombardment.txt 2 2703 2882 
+general Late_Heavy_Bombardment.txt 1 1109 
+latter Late_Heavy_Bombardment.txt 1 1938 
+trapped Late_Heavy_Bombardment.txt 1 2001 
+mechanism Late_Heavy_Bombardment.txt 1 2824 
+stability Late_Heavy_Bombardment.txt 1 3194 
+note Late_Heavy_Bombardment.txt 1 256 
+majority Late_Heavy_Bombardment.txt 1 308 
+concerns Late_Heavy_Bombardment.txt 2 847 1006 
+declined Late_Heavy_Bombardment.txt 1 1002 
+which Late_Heavy_Bombardment.txt 12 1323 1376 1456 1888 2426 2448 2682 2832 2911 2953 2997 3029 
+1001000 Late_Heavy_Bombardment.txt 1 617 
+finding Late_Heavy_Bombardment.txt 1 2101 
+extrapolating Late_Heavy_Bombardment.txt 1 1260 
+blue Late_Heavy_Bombardment.txt 2 2201 2205 
+begin Late_Heavy_Bombardment.txt 1 2366 
+relatively Late_Heavy_Bombardment.txt 1 2618 
+solidified Late_Heavy_Bombardment.txt 1 1604 
+who Late_Heavy_Bombardment.txt 1 776 
+reach Late_Heavy_Bombardment.txt 1 2182 
+most Late_Heavy_Bombardment.txt 6 104 136 1345 1942 2922 3256 
+impacting Late_Heavy_Bombardment.txt 1 2842 
+but Late_Heavy_Bombardment.txt 8 108 169 440 553 664 1039 1671 2242 
+significant Late_Heavy_Bombardment.txt 1 923 
+claims Late_Heavy_Bombardment.txt 1 1965 
+extremely Late_Heavy_Bombardment.txt 1 2674 
+the Late_Heavy_Bombardment.txt 281 7 10 18 28 51 73 78 88 94 117 126 152 156 165 174 183 196 206 209 216 232 258 267 273 282 293 304 307 319 337 354 361 380 387 392 404 409 450 452 476 484 500 506 513 528 545 574 590 611 620 625 646 660 665 672 683 690 698 701 706 718 725 727 738 749 760 765 785 801 819 844 848 851 859 876 894 897 902 907 912 916 936 945 973 999 1007 1010 1048 1055 1096 1099 1111 1122 1126 1250 1252 1271 1280 1283 1290 1306 1312 1341 1344 1368 1378 1381 1393 1412 1416 1429 1441 1461 1464 1469 1473 1476 1480 1485 1494 1498 1510 1513 1516 1519 1523 1530 1542 1550 1553 1574 1584 1586 1598 1609 1614 1617 1621 1627 1630 1635 1643 1654 1656 1683 1694 1708 1725 1731 1738 1741 1750 1765 1773 1782 1785 1801 1823 1827 1871 1876 1879 1898 1911 1917 1924 1928 1937 1941 1953 1960 1963 1978 1988 1993 2015 2042 2055 2063 2070 2073 2082 2104 2113 2119 2129 2142 2190 2195 2227 2274 2282 2298 2319 2329 2333 2339 2346 2349 2363 2376 2381 2389 2406 2412 2428 2442 2459 2462 2466 2470 2477 2483 2497 2501 2504 2509 2525 2550 2558 2563 2569 2572 2586 2589 2592 2617 2624 2652 2665 2677 2689 2699 2710 2719 2723 2744 2756 2764 2780 2792 2803 2808 2820 2833 2845 2884 2890 2893 2917 2924 2936 2954 2969 2974 2992 2998 3009 3016 3024 3040 3043 3046 3049 3067 3090 3093 3101 3124 3157 3167 3170 3187 3191 3210 3228 3231 3234 3255 3277 3300 
+isotopic Late_Heavy_Bombardment.txt 3 129 1769 1803 
+observation Late_Heavy_Bombardment.txt 1 1025 
+consequences Late_Heavy_Bombardment.txt 1 1131 
+considered Late_Heavy_Bombardment.txt 2 455 1343 
+average Late_Heavy_Bombardment.txt 1 629 
+popularity Late_Heavy_Bombardment.txt 2 475 772 
+km Late_Heavy_Bombardment.txt 1 3251 
+points Late_Heavy_Bombardment.txt 1 3007 
+sources Late_Heavy_Bombardment.txt 2 3058 3065 
+velocity Late_Heavy_Bombardment.txt 1 622 
+left Late_Heavy_Bombardment.txt 3 1680 3087 3164 
+normally Late_Heavy_Bombardment.txt 1 2024 
+favorable Late_Heavy_Bombardment.txt 1 3257 
+precise Late_Heavy_Bombardment.txt 1 1824 
+impression Late_Heavy_Bombardment.txt 1 5 
+sanctuary Late_Heavy_Bombardment.txt 1 2092 
+particularly Late_Heavy_Bombardment.txt 2 463 773 
+phenomenon Late_Heavy_Bombardment.txt 1 784 
+show Late_Heavy_Bombardment.txt 2 1447 1714 
+trans-neptunian Late_Heavy_Bombardment.txt 2 2246 2390 
+labels Late_Heavy_Bombardment.txt 1 1232 
+scattered Late_Heavy_Bombardment.txt 1 193 
+discovered Late_Heavy_Bombardment.txt 1 731 
+orientale Late_Heavy_Bombardment.txt 1 743 
+imbrium Late_Heavy_Bombardment.txt 5 355 745 895 898 964 
+uranus Late_Heavy_Bombardment.txt 2 2203 2595 
+argues Late_Heavy_Bombardment.txt 1 971 
+earth Late_Heavy_Bombardment.txt 25 57 85 95 1133 1163 1253 1265 1291 1369 1398 1437 1444 1524 1563 1648 1662 1717 1736 1791 2074 3078 3096 3110 3161 3197 
+debate Late_Heavy_Bombardment.txt 1 1821 
+fifth Late_Heavy_Bombardment.txt 2 2706 2725 
+impact Late_Heavy_Bombardment.txt 31 137 252 261 297 311 330 368 416 431 518 602 614 621 636 804 822 852 865 899 948 962 1000 1013 1052 2108 2120 2344 2554 2967 2994 3002 
+giant Late_Heavy_Bombardment.txt 9 184 678 2228 2364 2414 2430 2511 2531 2857 
+slow Late_Heavy_Bombardment.txt 1 1520 
+based Late_Heavy_Bombardment.txt 2 445 792 
+carbon-13 Late_Heavy_Bombardment.txt 1 2020 
+explain Late_Heavy_Bombardment.txt 3 151 2549 2852 
+less Late_Heavy_Bombardment.txt 1 2733 
+enough Late_Heavy_Bombardment.txt 1 3224 
+should Late_Heavy_Bombardment.txt 2 493 930 
+only Late_Heavy_Bombardment.txt 3 426 1570 1605 
+rich Late_Heavy_Bombardment.txt 1 2245 
+developed Late_Heavy_Bombardment.txt 1 2034 
+accurate Late_Heavy_Bombardment.txt 1 1346 
+radically Late_Heavy_Bombardment.txt 1 2972 
+boulder Late_Heavy_Bombardment.txt 1 2047 
+do Late_Heavy_Bombardment.txt 2 220 547 
+his Late_Heavy_Bombardment.txt 1 2611 
+intersect Late_Heavy_Bombardment.txt 1 2763 
+3.44.1 Late_Heavy_Bombardment.txt 2 581 591 
+karoo Late_Heavy_Bombardment.txt 1 1225 
+hydrothermal Late_Heavy_Bombardment.txt 1 2079 
+truly Late_Heavy_Bombardment.txt 1 1247 
+orbiting Late_Heavy_Bombardment.txt 1 3080 
+nearly Late_Heavy_Bombardment.txt 1 2490 
+acidic Late_Heavy_Bombardment.txt 1 1759 
+timing Late_Heavy_Bombardment.txt 1 3041 
+during Late_Heavy_Bombardment.txt 12 9 58 303 318 700 1910 2259 2628 2952 2996 3031 3123 
+post-date Late_Heavy_Bombardment.txt 1 1653 
+interpreted Late_Heavy_Bombardment.txt 1 596 
+collisional Late_Heavy_Bombardment.txt 2 2894 3235 
+molten Late_Heavy_Bombardment.txt 3 1293 1372 1720 
+reveal Late_Heavy_Bombardment.txt 2 577 609 
+evolution Late_Heavy_Bombardment.txt 1 2355 
+showed Late_Heavy_Bombardment.txt 1 1540 
+belts Late_Heavy_Bombardment.txt 1 200 
+feldspathic Late_Heavy_Bombardment.txt 1 507 
+h Late_Heavy_Bombardment.txt 4 569 1187 1211 1215 
+greenstone Late_Heavy_Bombardment.txt 1 2115 
+abiogenesis Late_Heavy_Bombardment.txt 1 1856 
+miles Late_Heavy_Bombardment.txt 1 2140 
+predicted Late_Heavy_Bombardment.txt 1 2269 
+quaternary Late_Heavy_Bombardment.txt 1 1226 
+albeit Late_Heavy_Bombardment.txt 1 1747 
+through Late_Heavy_Bombardment.txt 1 2318 
+where Late_Heavy_Bombardment.txt 1 2226 
+view Late_Heavy_Bombardment.txt 1 1137 
+exists Late_Heavy_Bombardment.txt 2 173 2150 
+supporting Late_Heavy_Bombardment.txt 1 3037 
+catastrophic Late_Heavy_Bombardment.txt 1 2966 
+uranium-lead Late_Heavy_Bombardment.txt 1 1352 
+humans Late_Heavy_Bombardment.txt 1 1185 
+zones Late_Heavy_Bombardment.txt 1 271 
+collectively Late_Heavy_Bombardment.txt 1 1616 
+see Late_Heavy_Bombardment.txt 3 1236 1788 3304 
+computer Late_Heavy_Bombardment.txt 2 605 2032 
+survived Late_Heavy_Bombardment.txt 2 1905 2062 
+are Late_Heavy_Bombardment.txt 13 67 313 479 657 752 798 1642 1921 2230 2400 2836 3004 3076 
+explosion Late_Heavy_Bombardment.txt 1 1183 
+outward Late_Heavy_Bombardment.txt 1 2431 
+2.5 Late_Heavy_Bombardment.txt 1 556 
+parent Late_Heavy_Bombardment.txt 1 3252 
+gneiss Late_Heavy_Bombardment.txt 3 1414 1619 1637 
+arguably Late_Heavy_Bombardment.txt 1 1866 
+wikipedia Late_Heavy_Bombardment.txt 1 3 
+sites Late_Heavy_Bombardment.txt 4 344 503 862 939 
+initially Late_Heavy_Bombardment.txt 1 2912 
+3 Late_Heavy_Bombardment.txt 1 755 
+r Late_Heavy_Bombardment.txt 4 1191 1198 1202 1209 
+various Late_Heavy_Bombardment.txt 1 1337 
+captured Late_Heavy_Bombardment.txt 1 3120 
+between Late_Heavy_Bombardment.txt 9 266 370 555 1380 1484 1576 2403 2444 2741 
+tens Late_Heavy_Bombardment.txt 1 325 
+probably Late_Heavy_Bombardment.txt 2 510 2567 
+boundary Late_Heavy_Bombardment.txt 1 1379 
+numerous Late_Heavy_Bombardment.txt 1 578 
+across Late_Heavy_Bombardment.txt 2 328 1336 
+wide Late_Heavy_Bombardment.txt 2 2141 2307 
+available Late_Heavy_Bombardment.txt 1 462 
+comparable Late_Heavy_Bombardment.txt 1 734 
+recently Late_Heavy_Bombardment.txt 4 523 769 1390 1967 
+relative Late_Heavy_Bombardment.txt 1 2860 
+nature Late_Heavy_Bombardment.txt 1 1240 
+originated Late_Heavy_Bombardment.txt 2 495 511 
+weak Late_Heavy_Bombardment.txt 1 3010 
+however Late_Heavy_Bombardment.txt 3 1427 2535 2654 
+craters Late_Heavy_Bombardment.txt 5 331 1275 2862 3028 3053 
+jovian Late_Heavy_Bombardment.txt 2 2308 2671 
+rapid Late_Heavy_Bombardment.txt 1 1567 
+hypothesis Late_Heavy_Bombardment.txt 11 530 762 767 787 944 1022 2693 2702 2830 2877 3039 
+disproportionately Late_Heavy_Bombardment.txt 1 62 
+understanding Late_Heavy_Bombardment.txt 1 1706 
+predates Late_Heavy_Bombardment.txt 1 1668 
+suggested Late_Heavy_Bombardment.txt 4 1565 1746 2615 2646 
+water Late_Heavy_Bombardment.txt 2 1150 1166 
+c Late_Heavy_Bombardment.txt 4 1196 1207 1210 2206 
+z Late_Heavy_Bombardment.txt 2 1193 1204 
+last Late_Heavy_Bombardment.txt 4 2885 2999 3017 3188 
+missions Late_Heavy_Bombardment.txt 1 306 
+reported Late_Heavy_Bombardment.txt 1 2100 
+many Late_Heavy_Bombardment.txt 5 443 504 1304 2774 2979 
+postulate Late_Heavy_Bombardment.txt 1 2048 
+according Late_Heavy_Bombardment.txt 2 940 2580 
+attributed Late_Heavy_Bombardment.txt 1 870 
+april Late_Heavy_Bombardment.txt 1 2097 
+involve Late_Heavy_Bombardment.txt 1 1029 
+became Late_Heavy_Bombardment.txt 2 2285 2750 
+dated Late_Heavy_Bombardment.txt 3 525 1400 1660 
+highland Late_Heavy_Bombardment.txt 1 684 
+comes Late_Heavy_Bombardment.txt 1 291 
+grounds Late_Heavy_Bombardment.txt 1 448 
+among Late_Heavy_Bombardment.txt 5 178 774 2398 3074 3264 
+destabilized Late_Heavy_Bombardment.txt 2 2385 3147 
+point Late_Heavy_Bombardment.txt 2 1321 1451 
+basins Late_Heavy_Bombardment.txt 11 359 423 432 742 814 909 2560 2859 3003 3019 3190 
+others Late_Heavy_Bombardment.txt 2 444 1839 
+period Late_Heavy_Bombardment.txt 2 1481 2603 
+sampling Late_Heavy_Bombardment.txt 2 245 811 
+simply Late_Heavy_Bombardment.txt 2 954 1674 
+3000 Late_Heavy_Bombardment.txt 1 1143 
+pulverized Late_Heavy_Bombardment.txt 2 838 1072 
+path Late_Heavy_Bombardment.txt 1 207 
+runaway Late_Heavy_Bombardment.txt 1 2662 
+belt Late_Heavy_Bombardment.txt 19 576 628 663 2116 2172 2247 2321 2324 2391 2486 2544 2565 2722 2746 2767 2811 2921 3107 3240 
+destroyed Late_Heavy_Bombardment.txt 2 1612 3134 
+strong Late_Heavy_Bombardment.txt 2 1319 1449 
+58 Late_Heavy_Bombardment.txt 1 2135 
+3.85 Late_Heavy_Bombardment.txt 1 1934 
+basis Late_Heavy_Bombardment.txt 1 1961 
+due Late_Heavy_Bombardment.txt 4 676 2752 2930 3180 
+been Late_Heavy_Bombardment.txt 21 524 595 837 868 873 881 1045 1071 1106 1256 2077 2154 2450 2645 2813 2849 2929 3072 3222 3271 3292 
+quickly Late_Heavy_Bombardment.txt 2 2440 3119 
+conundrum Late_Heavy_Bombardment.txt 1 1582 
+collided Late_Heavy_Bombardment.txt 1 71 
+much Late_Heavy_Bombardment.txt 5 1607 1688 1820 2050 2914 
+hellish Late_Heavy_Bombardment.txt 1 1732 
+combined Late_Heavy_Bombardment.txt 1 2659 
+interest Late_Heavy_Bombardment.txt 1 1794 
+mars Late_Heavy_Bombardment.txt 5 87 1103 2737 2742 2843 
+collected Late_Heavy_Bombardment.txt 2 302 958 
+basin Late_Heavy_Bombardment.txt 6 253 730 878 896 900 2847 
+anomaly Late_Heavy_Bombardment.txt 1 1594 
+500 Late_Heavy_Bombardment.txt 1 1148 
+concentrated Late_Heavy_Bombardment.txt 1 2806 
+life Late_Heavy_Bombardment.txt 8 1135 1152 1156 1158 1168 1893 2030 2088 
+contribute Late_Heavy_Bombardment.txt 1 3226 
+corresponding Late_Heavy_Bombardment.txt 1 49 
+formed Late_Heavy_Bombardment.txt 9 101 317 1278 1467 1895 2598 2673 3005 3030 
+dates Late_Heavy_Bombardment.txt 1 1331 
+mars-crossing Late_Heavy_Bombardment.txt 4 2873 2899 2933 2977 
+dramatic Late_Heavy_Bombardment.txt 1 401 
+external Late_Heavy_Bombardment.txt 1 3309 
+vents Late_Heavy_Bombardment.txt 1 2080 
+evidence Late_Heavy_Bombardment.txt 8 115 277 286 1951 2102 2867 3036 3290 
+present Late_Heavy_Bombardment.txt 1 932 
+matter Late_Heavy_Bombardment.txt 1 1817 
+case Late_Heavy_Bombardment.txt 1 1848 
+has Late_Heavy_Bombardment.txt 13 460 472 594 768 880 2151 2352 2449 2643 2812 2848 3269 3291 
+atmospheric Late_Heavy_Bombardment.txt 1 1173 
+these Late_Heavy_Bombardment.txt 21 310 367 415 421 428 492 521 864 888 1065 1330 1488 2252 2311 2325 2399 2438 2641 2932 2981 3075 
+ejection Late_Heavy_Bombardment.txt 1 2208 
+appearance Late_Heavy_Bombardment.txt 1 2639 
+as Late_Heavy_Bombardment.txt 18 27 347 457 597 604 619 998 1258 1356 1438 1529 2310 2434 2496 2647 3035 3083 3273 
+density Late_Heavy_Bombardment.txt 1 2620 
+n Late_Heavy_Bombardment.txt 3 1189 1214 1220 
+near Late_Heavy_Bombardment.txt 4 227 238 951 2112 
+solidification Late_Heavy_Bombardment.txt 1 1496 
+lull Late_Heavy_Bombardment.txt 1 2946 
+comets Late_Heavy_Bombardment.txt 2 163 324 
+studied Late_Heavy_Bombardment.txt 1 1997 
+chondrite Late_Heavy_Bombardment.txt 1 570 
+is Late_Heavy_Bombardment.txt 17 31 241 733 788 830 901 1032 1062 1079 1409 1457 1940 2238 2268 2384 2512 3054 
+formulation Late_Heavy_Bombardment.txt 1 1281 
+thus Late_Heavy_Bombardment.txt 1 1110 
+it Late_Heavy_Bombardment.txt 13 391 398 879 1061 1078 1363 1672 1849 1882 1906 2059 2148 2761 
+surface Late_Heavy_Bombardment.txt 5 486 1721 1752 2071 2084 
+serenitatis Late_Heavy_Bombardment.txt 1 358 
+cluster Late_Heavy_Bombardment.txt 3 549 802 946 
+itself Late_Heavy_Bombardment.txt 2 1728 2240 
+eras Late_Heavy_Bombardment.txt 1 55 
+in Late_Heavy_Bombardment.txt 48 77 112 140 155 164 190 195 335 403 474 601 659 735 771 980 1108 1121 1303 1391 1419 1428 1468 1491 1620 1639 1704 1798 1810 1846 2002 2035 2058 2096 2231 2239 2360 2367 2506 2623 2664 2794 2831 2947 2991 3023 3048 3136 3207 
+carbon Late_Heavy_Bombardment.txt 3 1802 1956 2000 
+levison Late_Heavy_Bombardment.txt 1 2609 
+increased Late_Heavy_Bombardment.txt 1 670 
+orbital Late_Heavy_Bombardment.txt 6 187 2196 2234 2295 2330 3128 
+different Late_Heavy_Bombardment.txt 1 2649 
+suggest Late_Heavy_Bombardment.txt 4 688 1772 1915 2067 
+began Late_Heavy_Bombardment.txt 1 2528 
+same Late_Heavy_Bombardment.txt 2 691 1979 
+horseshoe Late_Heavy_Bombardment.txt 1 3205 
+heat-loving Late_Heavy_Bombardment.txt 1 2094 
+largest Late_Heavy_Bombardment.txt 2 905 2105 
+units Late_Heavy_Bombardment.txt 1 751 
+several Late_Heavy_Bombardment.txt 4 147 967 2263 2605 
+fairly Late_Heavy_Bombardment.txt 1 1333 
+investigated Late_Heavy_Bombardment.txt 1 3073 
+slave Late_Heavy_Bombardment.txt 1 1417 
+reinterpretation Late_Heavy_Bombardment.txt 1 1090 
+closest Late_Heavy_Bombardment.txt 1 877 
+eccentric Late_Heavy_Bombardment.txt 1 202 
+numerical Late_Heavy_Bombardment.txt 3 2373 2507 2795 
+drives Late_Heavy_Bombardment.txt 1 2427 
+postulation Late_Heavy_Bombardment.txt 1 378 
+size-frequency Late_Heavy_Bombardment.txt 2 3025 3050 
+moons Late_Heavy_Bombardment.txt 1 3125 
+recent Late_Heavy_Bombardment.txt 5 1913 1946 2361 2533 2655 
+dark Late_Heavy_Bombardment.txt 1 2200 
+lower Late_Heavy_Bombardment.txt 1 1107 
+argue Late_Heavy_Bombardment.txt 1 214 
+episodic Late_Heavy_Bombardment.txt 1 989 
+older Late_Heavy_Bombardment.txt 9 539 753 825 1016 1324 1358 1422 1711 1925 
+nevertheless Late_Heavy_Bombardment.txt 1 544 
+nonetheless Late_Heavy_Bombardment.txt 1 1388 
+well Late_Heavy_Bombardment.txt 1 1259 
+roughly Late_Heavy_Bombardment.txt 1 2960 
+without Late_Heavy_Bombardment.txt 1 1118 
+thought Late_Heavy_Bombardment.txt 1 34 
+4000 Late_Heavy_Bombardment.txt 1 1141 
+solids Late_Heavy_Bombardment.txt 1 1466 
+materials Late_Heavy_Bombardment.txt 1 246 
+tidally-driven Late_Heavy_Bombardment.txt 1 3127 
+km/s Late_Heavy_Bombardment.txt 3 632 635 640 
+quantitative Late_Heavy_Bombardment.txt 1 919 
+model Late_Heavy_Bombardment.txt 4 176 1597 2165 2351 
+chemistry Late_Heavy_Bombardment.txt 1 1777 
+researchers Late_Heavy_Bombardment.txt 1 213 
+latest Late_Heavy_Bombardment.txt 1 1089 
+accretion Late_Heavy_Bombardment.txt 3 1511 1535 2636 
+proposed Late_Heavy_Bombardment.txt 4 396 2850 2878 3272 
+planetesimals Late_Heavy_Bombardment.txt 4 2188 2210 3086 3163 
+being Late_Heavy_Bombardment.txt 2 842 957 
+when Late_Heavy_Bombardment.txt 4 1463 2288 2714 3156 
+proximity Late_Heavy_Bombardment.txt 1 352 
+sizes Late_Heavy_Bombardment.txt 1 1076 
+removed Late_Heavy_Bombardment.txt 1 2481 
+obtain Late_Heavy_Bombardment.txt 1 1082 
+hades Late_Heavy_Bombardment.txt 1 1743 
+not Late_Heavy_Bombardment.txt 9 221 425 548 966 1028 1327 2152 2568 2684 
+impactors Late_Heavy_Bombardment.txt 4 159 2502 2835 2870 
+human Late_Heavy_Bombardment.txt 1 1237 
+world Late_Heavy_Bombardment.txt 1 1313 
+alternative Late_Heavy_Bombardment.txt 1 943 
+scattering Late_Heavy_Bombardment.txt 1 2186 
+yet Late_Heavy_Bombardment.txt 4 172 1649 1659 2153 
+radiometric Late_Heavy_Bombardment.txt 2 294 1087 
+migration Late_Heavy_Bombardment.txt 4 188 680 2160 2281 
+sampled Late_Heavy_Bombardment.txt 1 857 
+like Late_Heavy_Bombardment.txt 1 1440 
+hills Late_Heavy_Bombardment.txt 4 1632 1667 1696 1973 
+also Late_Heavy_Bombardment.txt 11 25 255 716 970 984 1235 1446 2474 2614 3270 3305 
+satellites Late_Heavy_Bombardment.txt 2 3079 3111 
+1979 Late_Heavy_Bombardment.txt 1 1799 
+decayed Late_Heavy_Bombardment.txt 1 2958 
+alternate Late_Heavy_Bombardment.txt 1 2826 
+had Late_Heavy_Bombardment.txt 4 100 1370 1718 2730 
+geological Late_Heavy_Bombardment.txt 1 1130 
+2009 Late_Heavy_Bombardment.txt 1 2037 
+appeared Late_Heavy_Bombardment.txt 1 1315 
+potential Late_Heavy_Bombardment.txt 4 1532 1590 1982 3057 
+4 Late_Heavy_Bombardment.txt 1 1057 
+samples Late_Heavy_Bombardment.txt 3 122 835 1067 
+manfred Late_Heavy_Bombardment.txt 1 1795 
+stable Late_Heavy_Bombardment.txt 1 2241 
+struck Late_Heavy_Bombardment.txt 1 695 
+prominent Late_Heavy_Bombardment.txt 2 430 1723 
+australia Late_Heavy_Bombardment.txt 1 1641 
+around Late_Heavy_Bombardment.txt 4 411 1311 1472 3299 
+putative Late_Heavy_Bombardment.txt 1 1066 
+outermost Late_Heavy_Bombardment.txt 1 2593 
+showing Late_Heavy_Bombardment.txt 1 2167 
+possible Late_Heavy_Bombardment.txt 7 779 1063 1892 1929 2156 3064 3281 
+early Late_Heavy_Bombardment.txt 9 74 111 990 1489 1790 2174 2377 2937 3126 
+increases Late_Heavy_Bombardment.txt 2 616 623 
+cataclysm Late_Heavy_Bombardment.txt 9 30 280 290 394 529 761 766 786 1031 
+slowed Late_Heavy_Bombardment.txt 1 2634 
+disrupted Late_Heavy_Bombardment.txt 1 2968 
+carbon-12 Late_Heavy_Bombardment.txt 1 2018 
+using Late_Heavy_Bombardment.txt 2 607 1085 
+debatable Late_Heavy_Bombardment.txt 1 794 
+necessary Late_Heavy_Bombardment.txt 2 2454 2817 
+d Late_Heavy_Bombardment.txt 1 1217 
+lost Late_Heavy_Bombardment.txt 3 2788 3132 3268 
+dynamicists Late_Heavy_Bombardment.txt 1 775 
+reduces Late_Heavy_Bombardment.txt 1 2476 
+velocities Late_Heavy_Bombardment.txt 2 603 637 
+impactor Late_Heavy_Bombardment.txt 1 2130 
+exosystem Late_Heavy_Bombardment.txt 1 3279 
+catastrophically Late_Heavy_Bombardment.txt 1 2286 
+consensus Late_Heavy_Bombardment.txt 1 171 
+flux Late_Heavy_Bombardment.txt 2 157 1097 
+biota Late_Heavy_Bombardment.txt 1 1181 
+unstable Late_Heavy_Bombardment.txt 2 2287 2751 
+t Late_Heavy_Bombardment.txt 1 1200 
+vesta Late_Heavy_Bombardment.txt 1 2902 
+popular Late_Heavy_Bombardment.txt 1 177 
+become Late_Heavy_Bombardment.txt 1 461 
+ejections Late_Heavy_Bombardment.txt 1 3184 
+nice Late_Heavy_Bombardment.txt 3 175 2164 2350 
+greenland Late_Heavy_Bombardment.txt 1 1811 
+old Late_Heavy_Bombardment.txt 4 1034 1407 1692 1837 
+methods Late_Heavy_Bombardment.txt 2 1088 1339 
+underwent Late_Heavy_Bombardment.txt 1 186 
+some Late_Heavy_Bombardment.txt 6 490 1501 1779 1806 2354 2521 
+back Late_Heavy_Bombardment.txt 1 124 
+3.6 Late_Heavy_Bombardment.txt 1 1844 
+growth Late_Heavy_Bombardment.txt 1 2663 
+jupiter Late_Heavy_Bombardment.txt 6 2177 2267 2289 2425 2445 2519 
+corvi Late_Heavy_Bombardment.txt 2 3289 3303 
+3.8 Late_Heavy_Bombardment.txt 6 41 372 1296 1602 1690 1835 
+3.9 Late_Heavy_Bombardment.txt 7 228 412 542 558 952 977 2961 
+sized Late_Heavy_Bombardment.txt 1 2903 
+and/or Late_Heavy_Bombardment.txt 1 198 
+primary Late_Heavy_Bombardment.txt 1 2498 
+for Late_Heavy_Bombardment.txt 15 116 278 287 781 1023 1592 1737 1855 1952 1962 1990 2093 2651 2688 3294 
+resonances Late_Heavy_Bombardment.txt 4 675 2314 2326 3122 
+avoid Late_Heavy_Bombardment.txt 1 2456 
+recorded Late_Heavy_Bombardment.txt 1 1112 
+ice Late_Heavy_Bombardment.txt 5 1233 2407 2413 2429 2510 
+moon Late_Heavy_Bombardment.txt 10 8 132 388 410 699 726 917 1100 1251 3158 
+does Late_Heavy_Bombardment.txt 2 1027 2683 
+orbited Late_Heavy_Bombardment.txt 1 2740 
+lunar Late_Heavy_Bombardment.txt 21 29 121 217 289 393 465 477 485 508 514 741 1261 2559 2834 2858 2955 2993 3001 3084 3141 3189 
+provides Late_Heavy_Bombardment.txt 1 1884 
+assuming Late_Heavy_Bombardment.txt 1 2243 
+fragments Late_Heavy_Bombardment.txt 2 1433 1646 
+dating Late_Heavy_Bombardment.txt 9 130 560 982 1338 1353 1600 1745 1825 2011 
+either Late_Heavy_Bombardment.txt 2 1847 1894 
+be Late_Heavy_Bombardment.txt 22 538 668 807 891 931 985 1116 1301 1328 1361 1402 1425 1460 1675 1891 2316 2453 2546 2816 3118 3146 3176 
+object Late_Heavy_Bombardment.txt 1 1561 
+migrated Late_Heavy_Bombardment.txt 1 2313 
+processing Late_Heavy_Bombardment.txt 1 2028 
+terrane Late_Heavy_Bombardment.txt 1 1638 
+expansion Late_Heavy_Bombardment.txt 1 3129 
+co-orbitals Late_Heavy_Bombardment.txt 2 3099 3200 
+primordial Late_Heavy_Bombardment.txt 1 3196 
+ratios Late_Heavy_Bombardment.txt 3 1770 1804 1957 
+article Late_Heavy_Bombardment.txt 2 2696 3287 
+refers Late_Heavy_Bombardment.txt 1 1729 
+by Late_Heavy_Bombardment.txt 19 125 671 987 994 1047 1350 1613 1758 2029 2038 2089 2211 2217 2279 2386 2421 2879 3152 3262 
+gained Late_Heavy_Bombardment.txt 2 473 770 
+on Late_Heavy_Bombardment.txt 19 56 446 651 714 724 793 911 1098 1102 1132 1249 1397 1443 1549 1647 1661 1735 2676 3112 
+about Late_Heavy_Bombardment.txt 9 371 541 827 1018 1295 1453 1834 1933 2122 
+works Late_Heavy_Bombardment.txt 2 2362 2534 
+rare Late_Heavy_Bombardment.txt 1 658 
+extending Late_Heavy_Bombardment.txt 1 2939 
+3500 Late_Heavy_Bombardment.txt 1 1142 
+of Late_Heavy_Bombardment.txt 147 6 65 105 131 145 158 208 235 244 260 272 285 296 309 321 326 333 350 364 366 386 406 408 438 491 505 532 561 613 630 649 674 682 693 708 710 720 748 759 803 810 821 850 887 906 915 925 935 947 1009 1012 1051 1091 1125 1274 1282 1305 1354 1411 1415 1431 1482 1487 1497 1512 1522 1534 1544 1552 1562 1608 1634 1678 1701 1707 1767 1775 1784 1792 1805 1815 1826 1878 1927 1971 1977 1981 1987 1995 1999 2005 2017 2027 2044 2051 2072 2103 2187 2198 2209 2215 2262 2332 2375 2394 2405 2461 2469 2479 2494 2500 2503 2552 2571 2585 2588 2604 2621 2640 2657 2679 2736 2800 2828 2856 2866 2868 2872 2892 2896 2908 2923 2976 2980 3015 3027 3045 3052 3062 3066 3092 3103 3169 3195 3212 3237 3276 
+o Late_Heavy_Bombardment.txt 5 1192 1194 1199 1203 1205 
+simulation Late_Heavy_Bombardment.txt 2 2166 2584 
+plunging Late_Heavy_Bombardment.txt 1 2790 
+range Late_Heavy_Bombardment.txt 1 1931 
+greatly Late_Heavy_Bombardment.txt 1 2633 
+insufficient Late_Heavy_Bombardment.txt 1 2547 
+nectaris Late_Heavy_Bombardment.txt 1 356 
+or Late_Heavy_Bombardment.txt 10 323 645 839 1902 3011 3082 3097 3133 3198 3202 
+mnster Late_Heavy_Bombardment.txt 1 1996 
+eoarchean Late_Heavy_Bombardment.txt 1 54 
+cutoff Late_Heavy_Bombardment.txt 2 1320 1450 
+eukaryotes Late_Heavy_Bombardment.txt 1 1154 
+presence Late_Heavy_Bombardment.txt 1 1766 
+into Late_Heavy_Bombardment.txt 6 201 205 1525 2189 2791 3121 
+within Late_Heavy_Bombardment.txt 7 434 520 1629 1686 2009 3135 3148 
+mammals Late_Heavy_Bombardment.txt 1 1160 
+three Late_Heavy_Bombardment.txt 2 422 429 
+gomes Late_Heavy_Bombardment.txt 1 2218 
+references Late_Heavy_Bombardment.txt 2 1712 3307 
+artists Late_Heavy_Bombardment.txt 1 4 
+often Late_Heavy_Bombardment.txt 1 2513 
+clustering Late_Heavy_Bombardment.txt 2 234 363 
+criticisms Late_Heavy_Bombardment.txt 2 758 797 
+statistics Late_Heavy_Bombardment.txt 1 1093 
+span Late_Heavy_Bombardment.txt 1 554 
+additional Late_Heavy_Bombardment.txt 3 968 3077 3109 
+interacted Late_Heavy_Bombardment.txt 1 2250 
+assumed Late_Heavy_Bombardment.txt 4 1288 1366 1458 1734 
+support Late_Heavy_Bombardment.txt 1 2685 
+there Late_Heavy_Bombardment.txt 1 1818 
+long Late_Heavy_Bombardment.txt 1 3192 
+hed Late_Heavy_Bombardment.txt 1 566 
+start Late_Heavy_Bombardment.txt 1 2221 
+encounters Late_Heavy_Bombardment.txt 3 2396 2439 2770 
+inner Late_Heavy_Bombardment.txt 14 79 166 270 1127 2191 2340 2463 2492 2542 2720 2758 2765 2809 3265 
+fraction Late_Heavy_Bombardment.txt 1 2478 
+4.031 Late_Heavy_Bombardment.txt 1 1403 
+slowly Late_Heavy_Bombardment.txt 2 2258 2600 
+was Late_Heavy_Bombardment.txt 18 454 535 1364 1399 1479 1536 1611 1753 1819 1850 1864 2021 2131 2566 2786 2905 2913 3242 
+eons Late_Heavy_Bombardment.txt 1 1387 
+ago Late_Heavy_Bombardment.txt 4 45 2126 2944 2964 
+north Late_Heavy_Bombardment.txt 1 1622 
+form Late_Heavy_Bombardment.txt 3 433 1430 3186 
+forming Late_Heavy_Bombardment.txt 2 329 2844 
+diogenite Late_Heavy_Bombardment.txt 1 565 
+independently Late_Heavy_Bombardment.txt 1 3081 
+landing Late_Heavy_Bombardment.txt 4 343 502 861 938 
+volume Late_Heavy_Bombardment.txt 1 612 
+indicators Late_Heavy_Bombardment.txt 1 1984 
+solar Late_Heavy_Bombardment.txt 14 80 167 274 1128 2192 2224 2283 2300 2341 2378 2526 2626 2667 3154 
+larger Late_Heavy_Bombardment.txt 1 2915 
+hydrocode Late_Heavy_Bombardment.txt 1 608 
+e Late_Heavy_Bombardment.txt 4 1190 1201 1212 1218 
+apollo Late_Heavy_Bombardment.txt 6 127 305 338 501 860 937 
+with Late_Heavy_Bombardment.txt 20 72 527 1722 1829 2222 2251 2345 2372 2388 2424 2518 2529 2660 2771 2802 2935 3204 3209 3254 3280 
+entered Late_Heavy_Bombardment.txt 2 2718 2776 
+mineral Late_Heavy_Bombardment.txt 1 1658 
+reset Late_Heavy_Bombardment.txt 2 843 1046 
+absent Late_Heavy_Bombardment.txt 1 3012 
+impact-melt Late_Heavy_Bombardment.txt 1 236 
+gravitational Late_Heavy_Bombardment.txt 2 1531 2395 
+planet Late_Heavy_Bombardment.txt 13 652 679 2629 2691 2697 2700 2708 2727 2728 2747 2772 2784 2840 
+record Late_Heavy_Bombardment.txt 1 382 
+below Late_Heavy_Bombardment.txt 2 17 2081 
+remnant Late_Heavy_Bombardment.txt 1 2907 
+graphite Late_Heavy_Bombardment.txt 1 2008 
+reflects Late_Heavy_Bombardment.txt 1 955 
+uk Late_Heavy_Bombardment.txt 2 2881 3006 
+unusually Late_Heavy_Bombardment.txt 1 2022 
+distribution Late_Heavy_Bombardment.txt 4 2468 2799 3026 3051 
+piece Late_Heavy_Bombardment.txt 1 284 
+similar Late_Heavy_Bombardment.txt 1 1969 
+called Late_Heavy_Bombardment.txt 1 390 
+originating Late_Heavy_Bombardment.txt 1 572 
+later Late_Heavy_Bombardment.txt 3 1385 1505 1538 
+constant Late_Heavy_Bombardment.txt 1 1334 
+andean Late_Heavy_Bombardment.txt 1 1224 
+defined Late_Heavy_Bombardment.txt 1 1377 
+orbit Late_Heavy_Bombardment.txt 3 2419 2717 2749 
+al Late_Heavy_Bombardment.txt 1 2220 
+an Late_Heavy_Bombardment.txt 12 32 242 383 584 599 808 988 1560 2401 2422 2797 2825 
+single Late_Heavy_Bombardment.txt 3 250 813 961 
+exist Late_Heavy_Bombardment.txt 1 1038 
+at Late_Heavy_Bombardment.txt 17 46 449 488 550 587 858 933 976 1266 1452 1583 1778 1932 1992 2041 2046 3246 
+planets Late_Heavy_Bombardment.txt 22 76 99 185 211 1514 2169 2212 2229 2253 2276 2312 2348 2365 2464 2532 2594 2642 2672 2759 3095 3172 3266 
+simulations Late_Heavy_Bombardment.txt 4 606 2216 2508 2796 
+modeling Late_Heavy_Bombardment.txt 1 920 
+distributions Late_Heavy_Bombardment.txt 1 687 
+continental Late_Heavy_Bombardment.txt 1 1645 
+4.5 Late_Heavy_Bombardment.txt 1 588 
+meta-stable Late_Heavy_Bombardment.txt 1 2716 
+4.6 Late_Heavy_Bombardment.txt 1 1454 
+4.1 Late_Heavy_Bombardment.txt 5 39 374 828 1019 2941 
+eventual Late_Heavy_Bombardment.txt 1 1495 
+no Late_Heavy_Bombardment.txt 3 170 1357 1950 
+amounts Late_Heavy_Bombardment.txt 1 924 
+whereas Late_Heavy_Bombardment.txt 1 2273 
+generally Late_Heavy_Bombardment.txt 3 1287 1365 1713 
+2000 Late_Heavy_Bombardment.txt 1 1145 
+tight Late_Heavy_Bombardment.txt 1 2233 
+other Late_Heavy_Bombardment.txt 6 97 212 2275 2757 3056 3063 
+5 Late_Heavy_Bombardment.txt 1 631 
+meteor Late_Heavy_Bombardment.txt 1 2107 
+3.26 Late_Heavy_Bombardment.txt 1 2123 
+planetesimal Late_Heavy_Bombardment.txt 3 2171 2583 2661 
+conclusion Late_Heavy_Bombardment.txt 1 453 
+allowing Late_Heavy_Bombardment.txt 1 2335 
+picture Late_Heavy_Bombardment.txt 1 1762 
+star Late_Heavy_Bombardment.txt 1 3301 
+living Late_Heavy_Bombardment.txt 1 2057 
+models Late_Heavy_Bombardment.txt 3 2033 2066 2374 
+reached Late_Heavy_Bombardment.txt 2 2292 3159 
+shown Late_Heavy_Bombardment.txt 3 2814 3116 3174 
+scale Late_Heavy_Bombardment.txt 1 1228 
+peak Late_Heavy_Bombardment.txt 2 586 1120 
+propelling Late_Heavy_Bombardment.txt 1 2411 
+stratigraphic Late_Heavy_Bombardment.txt 1 447 
+4.25 Late_Heavy_Bombardment.txt 1 2013 
+source Late_Heavy_Bombardment.txt 3 2499 2570 3275 
+billion Late_Heavy_Bombardment.txt 8 42 756 1058 1405 2124 2606 2942 2962 
+younger Late_Heavy_Bombardment.txt 1 1689 
+land Late_Heavy_Bombardment.txt 1 1157 
+implies Late_Heavy_Bombardment.txt 1 134 
+microbes Late_Heavy_Bombardment.txt 2 2056 2095 
+age Late_Heavy_Bombardment.txt 4 736 974 1083 1930 
+interval Late_Heavy_Bombardment.txt 3 60 144 437 
+eon Late_Heavy_Bombardment.txt 1 1710 
+original Late_Heavy_Bombardment.txt 1 1964 
+beds Late_Heavy_Bombardment.txt 1 2556 
+portion Late_Heavy_Bombardment.txt 2 886 1633 
+mass Late_Heavy_Bombardment.txt 3 107 1564 2732 
+time Late_Heavy_Bombardment.txt 15 48 146 240 439 451 1268 1462 1483 1507 1585 1739 1780 1854 1870 2261 
+then-young Late_Heavy_Bombardment.txt 1 1474 
+accreted Late_Heavy_Bombardment.txt 1 103 
+having Late_Heavy_Bombardment.txt 3 836 872 1907 

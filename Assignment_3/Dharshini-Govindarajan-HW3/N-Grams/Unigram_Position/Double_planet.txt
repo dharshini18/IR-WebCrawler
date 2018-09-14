@@ -1,0 +1,498 @@
+all Double_planet.txt 4 333 338 452 1189 
+consider Double_planet.txt 1 783 
+suns Double_planet.txt 3 926 963 1070 
+asteroids Double_planet.txt 3 137 156 1535 
+earthmoon Double_planet.txt 5 190 611 671 1129 1262 
+four Double_planet.txt 1 1452 
+debris Double_planet.txt 1 1404 
+migrates Double_planet.txt 1 649 
+disk Double_planet.txt 2 1405 1493 
+careful Double_planet.txt 1 1121 
+to Double_planet.txt 40 4 126 148 186 194 204 213 222 228 257 265 274 311 316 382 402 426 447 451 511 522 528 625 629 690 719 744 751 806 821 1021 1139 1151 1167 1265 1342 1371 1383 1533 1566 
+excluded Double_planet.txt 1 336 
+under Double_planet.txt 3 572 607 1497 
+analogous Double_planet.txt 1 718 
+include Double_planet.txt 1 154 
+brown Double_planet.txt 1 741 
+plutocharon Double_planet.txt 1 371 
+every Double_planet.txt 1 1011 
+fall Double_planet.txt 1 1195 
+condition Double_planet.txt 2 1434 1506 
+look Double_planet.txt 1 1091 
+notes Double_planet.txt 1 1577 
+small Double_planet.txt 2 1315 1453 
+path Double_planet.txt 1 1225 
+pre-dating Double_planet.txt 1 115 
+revolution Double_planet.txt 1 633 
+force Double_planet.txt 2 795 808 
+rate Double_planet.txt 1 655 
+further Double_planet.txt 1 1581 
+estimated Double_planet.txt 1 1346 
+even Double_planet.txt 3 736 739 980 
+what Double_planet.txt 2 223 774 
+sun Double_planet.txt 16 707 816 840 851 902 994 1031 1046 1119 1165 1181 1188 1199 1231 1259 1271 
+section Double_planet.txt 1 1232 
+expressed Double_planet.txt 1 423 
+current Double_planet.txt 1 103 
+above Double_planet.txt 1 28 
+scientists Double_planet.txt 2 394 458 
+new Double_planet.txt 3 600 1411 1416 
+falling Double_planet.txt 1 1185 
+can Double_planet.txt 4 332 818 1444 1516 
+satisfy Double_planet.txt 2 242 259 
+dwarf Double_planet.txt 6 352 362 397 431 580 742 
+neptune-triton Double_planet.txt 1 1548 
+pluto Double_planet.txt 11 31 85 181 385 419 535 543 575 590 1457 1567 
+objects Double_planet.txt 2 49 166 
+ratio Double_planet.txt 8 286 296 376 440 504 533 792 1347 
+strong Double_planet.txt 2 923 960 
+noticeable Double_planet.txt 1 632 
+impacted Double_planet.txt 1 1396 
+31 Double_planet.txt 1 173 
+larger Double_planet.txt 4 803 832 897 1421 
+commonly Double_planet.txt 1 550 
+prior Double_planet.txt 1 401 
+resulting Double_planet.txt 1 1401 
+advertising Double_planet.txt 1 110 
+although Double_planet.txt 1 619 
+classification Double_planet.txt 1 71 
+win Double_planet.txt 1 1279 
+kuiper Double_planet.txt 2 164 1556 
+visible Double_planet.txt 1 592 
+from Double_planet.txt 10 232 500 596 651 895 900 1126 1197 1257 1269 
+impacts Double_planet.txt 2 1392 1443 
+would Double_planet.txt 8 299 505 681 1170 1278 1295 1306 1545 
+two Double_planet.txt 6 12 292 1368 1410 1436 1509 
+next Double_planet.txt 1 518 
+few Double_planet.txt 1 666 
+therefore Double_planet.txt 1 67 
+criteria Double_planet.txt 2 224 519 
+themselves Double_planet.txt 1 364 
+type Double_planet.txt 1 754 
+reflects Double_planet.txt 1 884 
+more Double_planet.txt 2 314 1242 
+on Double_planet.txt 12 773 797 810 872 891 917 928 953 965 995 1060 1253 
+0.4 Double_planet.txt 1 1352 
+visual Double_planet.txt 1 18 
+everywhere Double_planet.txt 1 1177 
+informally Double_planet.txt 2 146 202 
+90 Double_planet.txt 1 160 
+cases Double_planet.txt 1 1029 
+hold Double_planet.txt 6 916 927 952 964 991 1059 
+must Double_planet.txt 1 530 
+0.00025 Double_planet.txt 1 343 
+this Double_planet.txt 13 321 470 573 608 635 639 787 817 881 1073 1247 1312 1500 
+1998 Double_planet.txt 1 171 
+values Double_planet.txt 3 970 1003 1325 
+phoebe Double_planet.txt 3 941 954 966 
+following Double_planet.txt 1 237 
+example Double_planet.txt 3 1285 1322 1523 
+figure Double_planet.txt 1 905 
+confused Double_planet.txt 1 6 
+promotional Double_planet.txt 1 108 
+charon-to-pluto Double_planet.txt 1 374 
+1 Double_planet.txt 6 275 298 312 383 448 529 
+how Double_planet.txt 1 526 
+criterion Double_planet.txt 2 244 262 
+answer Double_planet.txt 1 523 
+minority Double_planet.txt 1 473 
+capture Double_planet.txt 1 1517 
+may Double_planet.txt 3 494 496 933 
+orbits Double_planet.txt 2 1157 1204 
+produce Double_planet.txt 1 1446 
+such Double_planet.txt 3 1442 1449 1541 
+footnotes Double_planet.txt 1 1575 
+a Double_planet.txt 54 8 15 37 44 82 91 132 206 233 246 268 294 416 424 434 464 472 481 508 554 585 616 631 654 665 684 713 723 737 740 763 777 944 988 1051 1086 1098 1105 1110 1153 1241 1359 1373 1388 1398 1403 1427 1432 1458 1495 1504 1542 1549 1555 
+attempt Double_planet.txt 1 521 
+slightly Double_planet.txt 1 989 
+so Double_planet.txt 2 950 1026 
+order Double_planet.txt 1 264 
+moonearth Double_planet.txt 1 513 
+considerations Double_planet.txt 1 239 
+astronomical Double_planet.txt 4 62 79 251 410 
+mission Double_planet.txt 1 113 
+years Double_planet.txt 1 669 
+through Double_planet.txt 3 1200 1407 1519 
+its Double_planet.txt 4 73 745 996 1113 
+superior Double_planet.txt 1 1211 
+outer Double_planet.txt 3 997 1316 1454 
+somewhere Double_planet.txt 1 483 
+interesting Double_planet.txt 1 689 
+masses Double_planet.txt 4 209 289 340 1338 
+actually Double_planet.txt 2 883 1468 
+better Double_planet.txt 1 990 
+systems Double_planet.txt 2 672 1380 
+2015 Double_planet.txt 1 606 
+defining Double_planet.txt 2 281 1508 
+happened Double_planet.txt 1 1264 
+then Double_planet.txt 2 1095 1276 
+greater Double_planet.txt 1 1023 
+effects Double_planet.txt 1 890 
+they Double_planet.txt 4 337 349 583 1207 
+half Double_planet.txt 1 1066 
+satellites Double_planet.txt 7 324 356 973 999 1192 1448 1455 
+now Double_planet.txt 1 1275 
+nor Double_planet.txt 1 1104 
+easily Double_planet.txt 1 334 
+term Double_planet.txt 1 55 
+1.05 Double_planet.txt 1 1297 
+edit Double_planet.txt 11 179 245 276 546 759 1358 1574 1576 1578 1580 1583 
+always Double_planet.txt 1 1184 
+concave Double_planet.txt 1 1178 
+found Double_planet.txt 1 1020 
+higher Double_planet.txt 1 1006 
+referred Double_planet.txt 3 125 147 203 
+individually Double_planet.txt 1 258 
+380 Double_planet.txt 2 911 920 
+idea Double_planet.txt 2 1474 1501 
+dysnomia Double_planet.txt 1 479 
+year Double_planet.txt 1 663 
+substantially Double_planet.txt 2 357 499 
+planetmoon Double_planet.txt 2 234 766 
+shown Double_planet.txt 1 820 
+space Double_planet.txt 2 122 602 
+since Double_planet.txt 3 582 1303 1552 
+eriss Double_planet.txt 1 501 
+formula Double_planet.txt 1 882 
+cause Double_planet.txt 1 626 
+million Double_planet.txt 1 668 
+qualify Double_planet.txt 1 1307 
+formation Double_planet.txt 1 1354 
+hermes Double_planet.txt 1 158 
+definition Double_planet.txt 11 104 119 175 247 322 405 552 574 609 1248 1544 
+pairs Double_planet.txt 1 1255 
+interaction Double_planet.txt 2 1499 1521 
+created Double_planet.txt 1 595 
+just Double_planet.txt 1 948 
+times Double_planet.txt 2 921 958 
+massive Double_planet.txt 2 359 623 
+neptunes Double_planet.txt 2 1314 1343 
+origin Double_planet.txt 1 1463 
+phobos Double_planet.txt 1 1528 
+lone Double_planet.txt 1 477 
+primary Double_planet.txt 4 804 830 863 1215 
+one Double_planet.txt 10 277 558 730 1008 1012 1025 1039 1107 1393 1415 
+smaller Double_planet.txt 6 799 812 847 859 879 893 
+size Double_planet.txt 1 1561 
+earths Double_planet.txt 3 1042 1058 1334 
+differ Double_planet.txt 1 498 
+their Double_planet.txt 4 784 1203 1214 1337 
+pluto-charon Double_planet.txt 1 1379 
+caught Double_planet.txt 1 1205 
+system Double_planet.txt 20 17 46 130 183 191 199 235 372 462 537 556 612 686 700 1130 1263 1357 1374 1490 1496 
+approximately Double_planet.txt 1 657 
+deimos Double_planet.txt 1 1530 
+indicate Double_planet.txt 1 300 
+intermediate Double_planet.txt 1 510 
+too Double_planet.txt 2 354 1502 
+calculations Double_planet.txt 1 1015 
+iau Double_planet.txt 3 64 117 412 
+hundred Double_planet.txt 1 667 
+structures Double_planet.txt 1 769 
+final Double_planet.txt 1 1360 
+that Double_planet.txt 18 84 384 485 692 710 729 733 865 914 937 979 1057 1067 1078 1172 1246 1332 1476 
+explanation Double_planet.txt 1 1244 
+exactly Double_planet.txt 1 1166 
+part Double_planet.txt 2 772 1201 
+than Double_planet.txt 9 188 342 360 992 1007 1024 1065 1272 1331 
+titans Double_planet.txt 1 930 
+distance Double_planet.txt 4 192 844 856 1256 
+showed Double_planet.txt 1 978 
+horizons Double_planet.txt 1 601 
+double Double_planet.txt 23 0 38 92 133 150 177 207 230 269 282 396 399 430 465 579 617 714 724 1250 1309 1439 1512 1550 
+depends Double_planet.txt 1 1252 
+future Double_planet.txt 1 435 
+wins Double_planet.txt 1 1047 
+toward Double_planet.txt 2 1179 1186 
+result Double_planet.txt 1 1389 
+and Double_planet.txt 30 25 30 65 86 114 159 162 170 305 330 386 514 576 748 767 849 852 861 899 1080 1161 1228 1319 1328 1351 1378 1406 1479 1529 1562 
+1.5 Double_planet.txt 2 660 1349 
+willingness Double_planet.txt 1 425 
+neptune Double_planet.txt 2 331 1571 
+argument Double_planet.txt 1 1313 
+have Double_planet.txt 6 339 355 388 1140 1323 1384 
+clearly Double_planet.txt 1 587 
+contents Double_planet.txt 1 174 
+lie Double_planet.txt 1 677 
+agency Double_planet.txt 1 123 
+note Double_planet.txt 3 691 864 1245 
+also Double_planet.txt 6 40 444 1298 1445 1546 1573 
+without Double_planet.txt 1 1193 
+charonpluto Double_planet.txt 1 515 
+which Double_planet.txt 9 348 560 564 680 780 912 942 1055 1366 
+0.117 Double_planet.txt 1 378 
+though Double_planet.txt 2 469 708 
+arguing Double_planet.txt 2 709 720 
+most Double_planet.txt 2 366 549 
+jupitersun Double_planet.txt 1 699 
+considered Double_planet.txt 2 81 1085 
+calculated Double_planet.txt 1 968 
+sometimes Double_planet.txt 2 145 201 
+m Double_planet.txt 2 824 834 
+69230 Double_planet.txt 1 157 
+came Double_planet.txt 1 1370 
+quantity Double_planet.txt 1 788 
+planetary Double_planet.txt 1 52 
+probe Double_planet.txt 1 603 
+discovered Double_planet.txt 1 1302 
+relation Double_planet.txt 1 886 
+uranus Double_planet.txt 1 329 
+0.46 Double_planet.txt 1 1054 
+earth Double_planet.txt 15 24 128 197 628 645 652 679 1079 1103 1125 1146 1160 1227 1277 1478 
+0.44 Double_planet.txt 1 1329 
+0.42 Double_planet.txt 1 1327 
+debate Double_planet.txt 1 220 
+impact Double_planet.txt 1 1429 
+giant Double_planet.txt 3 984 1391 1428 
+categories Double_planet.txt 1 1584 
+based Double_planet.txt 1 770 
+antiope Double_planet.txt 1 161 
+true Double_planet.txt 1 1099 
+earth-moon Double_planet.txt 2 461 1377 
+enough Double_planet.txt 2 381 624 
+should Double_planet.txt 2 225 1083 
+only Double_planet.txt 2 956 987 
+explicitly Double_planet.txt 1 422 
+his Double_planet.txt 1 1075 
+means Double_planet.txt 2 913 1056 
+simplest Double_planet.txt 1 1132 
+cannot Double_planet.txt 1 731 
+nearly Double_planet.txt 1 1010 
+international Double_planet.txt 3 61 78 409 
+saturn Double_planet.txt 1 328 
+reading Double_planet.txt 1 1582 
+densities Double_planet.txt 1 490 
+proto-planetary Double_planet.txt 1 1492 
+doubles Double_planet.txt 1 319 
+where Double_planet.txt 3 47 823 1044 
+view Double_planet.txt 2 459 474 
+body Double_planet.txt 14 800 805 813 833 848 860 880 894 898 1394 1400 1417 1422 1558 
+exerted Double_planet.txt 2 796 809 
+relative Double_planet.txt 1 785 
+see Double_planet.txt 3 1171 1223 1572 
+radius Double_planet.txt 1 482 
+are Double_planet.txt 10 50 144 210 238 313 578 1208 1339 1381 1531 
+close Double_planet.txt 3 380 446 527 
+outward Double_planet.txt 1 650 
+closer Double_planet.txt 3 185 273 310 
+away Double_planet.txt 2 1196 1268 
+currently Double_planet.txt 3 413 547 615 
+wikipedia Double_planet.txt 1 2 
+label Double_planet.txt 1 317 
+favor Double_planet.txt 1 100 
+outside Double_planet.txt 5 541 569 588 678 702 
+orbit-clearing Double_planet.txt 1 261 
+between Double_planet.txt 3 765 845 857 
+neither Double_planet.txt 1 1097 
+kbos Double_planet.txt 1 167 
+we Double_planet.txt 1 1089 
+were Double_planet.txt 1 1150 
+weak Double_planet.txt 1 1543 
+however Double_planet.txt 2 646 1426 
+ww Double_planet.txt 1 172 
+hypothesis Double_planet.txt 2 1460 1472 
+distinguish Double_planet.txt 1 229 
+article Double_planet.txt 1 1239 
+tug Double_planet.txt 1 1281 
+suggested Double_planet.txt 1 762 
+both Double_planet.txt 7 48 240 255 520 565 570 1375 
+many Double_planet.txt 1 393 
+region Double_planet.txt 1 1486 
+equal Double_planet.txt 3 142 303 822 
+s Double_planet.txt 2 476 1491 
+distinction Double_planet.txt 1 764 
+argue Double_planet.txt 1 732 
+cm Double_planet.txt 1 659 
+point Double_planet.txt 2 586 640 
+simply Double_planet.txt 1 790 
+consideration Double_planet.txt 2 279 1361 
+belt Double_planet.txt 2 165 1557 
+smart-1 Double_planet.txt 1 112 
+described Double_planet.txt 1 391 
+second Double_planet.txt 1 1399 
+union Double_planet.txt 3 63 80 411 
+due Double_planet.txt 1 743 
+been Double_planet.txt 2 390 1385 
+much Double_planet.txt 1 1005 
+make-up Double_planet.txt 1 493 
+proposal Double_planet.txt 3 83 96 1305 
+satellite-to-planet Double_planet.txt 1 454 
+sufficient Double_planet.txt 1 1433 
+formed Double_planet.txt 4 1386 1413 1418 1482 
+gas Double_planet.txt 1 983 
+isaac Double_planet.txt 2 760 1221 
+tug-of-war Double_planet.txt 13 757 778 867 904 931 945 969 1002 1017 1034 1049 1293 1324 
+reclassified Double_planet.txt 1 89 
+general Double_planet.txt 1 75 
+those Double_planet.txt 1 1028 
+exception Double_planet.txt 3 368 1040 1194 
+abandoned Double_planet.txt 1 98 
+these Double_planet.txt 1 153 
+might Double_planet.txt 1 1090 
+value Double_planet.txt 9 509 758 779 868 932 946 1018 1052 1294 
+will Double_planet.txt 1 676 
+near Double_planet.txt 1 507 
+situation Double_planet.txt 1 1137 
+79360 Double_planet.txt 1 168 
+picturing Double_planet.txt 1 1135 
+changed Double_planet.txt 1 1425 
+is Double_planet.txt 35 43 56 66 184 200 219 284 369 379 443 471 557 613 622 688 712 716 722 728 735 789 825 835 842 854 910 919 955 1063 1138 1176 1183 1362 1430 1503 
+it Double_planet.txt 4 683 687 1182 1273 
+surface Double_planet.txt 2 216 704 
+in Double_planet.txt 20 35 99 107 249 263 280 559 593 604 661 664 771 1009 1027 1112 1120 1233 1365 1402 1483 
+double-planet Double_planet.txt 5 16 555 685 768 1471 
+if Double_planet.txt 2 1148 1260 
+binary Double_planet.txt 7 41 45 136 155 163 187 1087 
+make Double_planet.txt 2 630 682 
+same Double_planet.txt 2 1485 1560 
+any Double_planet.txt 1 753 
+dysnomias Double_planet.txt 1 491 
+arguments Double_planet.txt 1 1077 
+largest Double_planet.txt 1 982 
+several Double_planet.txt 2 972 1299 
+composition Double_planet.txt 1 1565 
+european Double_planet.txt 1 121 
+satellite Double_planet.txt 4 417 478 877 1100 
+used Double_planet.txt 1 227 
+upon Double_planet.txt 1 1092 
+neso Double_planet.txt 1 1318 
+moving Double_planet.txt 1 1116 
+animations Double_planet.txt 1 594 
+frequently Double_planet.txt 1 389 
+silanunam Double_planet.txt 1 169 
+moons Double_planet.txt 6 1174 1292 1301 1317 1518 1525 
+center Double_planet.txt 3 636 673 694 
+nevertheless Double_planet.txt 1 641 
+well Double_planet.txt 2 468 643 
+roughly Double_planet.txt 2 141 211 
+thought Double_planet.txt 2 1382 1532 
+materials Double_planet.txt 1 109 
+components Double_planet.txt 1 139 
+inability Double_planet.txt 1 750 
+position Double_planet.txt 1 545 
+the Double_planet.txt 137 21 26 54 60 77 95 102 111 116 120 127 180 189 196 236 250 285 288 291 323 345 361 365 370 373 403 408 428 437 460 502 512 517 524 531 538 548 561 599 610 620 627 647 670 693 698 703 706 726 791 794 798 802 807 811 815 826 829 831 836 839 843 846 850 855 858 862 866 873 876 878 885 888 892 896 901 903 925 962 975 981 993 1016 1030 1033 1036 1038 1045 1048 1061 1069 1081 1093 1102 1118 1124 1128 1131 1136 1141 1145 1156 1159 1164 1173 1180 1187 1190 1198 1210 1219 1224 1234 1237 1254 1258 1261 1270 1280 1287 1291 1356 1363 1367 1376 1420 1451 1462 1465 1470 1473 1477 1480 1484 1488 1524 1559 
+bodies Double_planet.txt 12 241 256 293 301 306 429 566 571 1369 1412 1437 1510 
+accretion Double_planet.txt 1 1408 
+proposed Double_planet.txt 2 248 551 
+less Double_planet.txt 4 341 358 1064 1330 
+being Double_planet.txt 1 1438 
+not Double_planet.txt 13 3 57 68 193 215 497 614 717 782 870 1004 1218 1431 
+farther Double_planet.txt 1 1267 
+yet Double_planet.txt 1 1336 
+captured Double_planet.txt 4 998 1106 1536 1569 
+saturns Double_planet.txt 4 907 915 939 951 
+had Double_planet.txt 1 986 
+attractive Double_planet.txt 1 315 
+problematic Double_planet.txt 1 1505 
+has Double_planet.txt 3 421 480 943 
+remaining Double_planet.txt 1 1423 
+around Double_planet.txt 5 347 484 563 634 1230 
+charon Double_planet.txt 8 32 87 182 387 415 536 577 721 
+fusion Double_planet.txt 1 756 
+using Double_planet.txt 1 320 
+d Double_planet.txt 2 841 853 
+sizes Double_planet.txt 2 22 786 
+loses Double_planet.txt 1 1032 
+either Double_planet.txt 1 1409 
+center-of-mass Double_planet.txt 1 544 
+right Double_planet.txt 3 29 34 1115 
+titan Double_planet.txt 3 909 918 929 
+some Double_planet.txt 4 135 351 457 1000 
+3.5 Double_planet.txt 2 949 957 
+jupiter Double_planet.txt 4 327 711 734 985 
+barycenter Double_planet.txt 2 539 562 
+asimovs Double_planet.txt 2 1014 1304 
+images Double_planet.txt 1 597 
+star Double_planet.txt 3 9 715 738 
+3.8 Double_planet.txt 1 658 
+scale Double_planet.txt 2 195 1168 
+for Double_planet.txt 11 254 553 906 971 1240 1284 1321 1435 1461 1507 1522 
+per Double_planet.txt 1 662 
+moon Double_planet.txt 19 27 129 198 621 648 908 940 1043 1062 1082 1094 1142 1162 1220 1229 1238 1335 1466 1481 
+now-abandoned Double_planet.txt 1 1459 
+does Double_planet.txt 3 781 869 1274 
+orbited Double_planet.txt 1 10 
+assuming Double_planet.txt 1 488 
+be Double_planet.txt 13 5 88 226 266 335 506 534 819 934 1022 1084 1296 1534 
+assembly Double_planet.txt 1 76 
+journal Double_planet.txt 1 252 
+notable Double_planet.txt 1 367 
+notably Double_planet.txt 1 445 
+step Double_planet.txt 1 1122 
+ratios Double_planet.txt 4 272 309 455 516 
+by Double_planet.txt 10 11 59 392 801 814 1209 1311 1397 1539 1570 
+comparison Double_planet.txt 1 19 
+about Double_planet.txt 3 1117 1144 1163 
+asimov Double_planet.txt 4 761 967 1071 1222 
+of Double_planet.txt 60 20 23 51 101 105 140 176 287 290 297 302 325 344 377 406 418 441 486 542 589 598 637 656 674 695 697 705 755 793 828 838 875 887 938 947 974 1013 1053 1068 1101 1134 1155 1158 1202 1213 1226 1236 1249 1282 1289 1326 1333 1348 1355 1390 1456 1464 1487 1526 1563 
+recognized Double_planet.txt 1 58 
+consequently Double_planet.txt 1 456 
+or Double_planet.txt 2 495 1414 
+triton Double_planet.txt 1 1553 
+moon-to-earth Double_planet.txt 1 438 
+own Double_planet.txt 1 1114 
+within Double_planet.txt 2 644 1127 
+lies Double_planet.txt 4 540 568 642 701 
+because Double_planet.txt 2 1441 1514 
+references Double_planet.txt 1 1579 
+tiny Double_planet.txt 3 1300 1340 1447 
+proportional Double_planet.txt 1 212 
+rely Double_planet.txt 1 871 
+area Double_planet.txt 1 217 
+support Double_planet.txt 1 752 
+there Double_planet.txt 1 218 
+question Double_planet.txt 1 525 
+long Double_planet.txt 1 1537 
+low Double_planet.txt 1 746 
+way Double_planet.txt 2 1133 1364 
+was Double_planet.txt 7 97 1019 1041 1395 1467 1475 1554 
+war Double_planet.txt 1 1283 
+form Double_planet.txt 1 1372 
+forming Double_planet.txt 1 1494 
+mars Double_planet.txt 4 326 1290 1527 1540 
+but Double_planet.txt 6 94 420 1108 1147 1217 1424 
+solar Double_planet.txt 1 1489 
+with Double_planet.txt 11 7 138 307 936 1001 1035 1050 1074 1123 1344 1419 
+he Double_planet.txt 2 775 977 
+pull Double_planet.txt 1 1212 
+compositional Double_planet.txt 1 492 
+gravitational Double_planet.txt 3 889 1498 1520 
+official Double_planet.txt 1 70 
+planet Double_planet.txt 21 1 39 42 93 106 118 134 178 208 231 243 270 283 407 466 618 725 1088 1111 1251 1551 
+below Double_planet.txt 1 33 
+minor Double_planet.txt 1 151 
+problem Double_planet.txt 1 727 
+similar Double_planet.txt 2 489 1564 
+called Double_planet.txt 4 14 267 776 1469 
+detailed Double_planet.txt 1 1243 
+later Double_planet.txt 1 1568 
+associated Double_planet.txt 1 749 
+eris Double_planet.txt 2 475 487 
+an Double_planet.txt 3 69 260 1345 
+as Double_planet.txt 21 90 131 149 205 221 318 395 463 467 591 922 924 959 961 1096 1109 1206 1308 1387 1450 1511 
+deem Double_planet.txt 1 1547 
+at Double_planet.txt 4 72 433 653 1286 
+planets Double_planet.txt 16 13 152 346 353 363 398 400 432 581 976 1037 1216 1310 1440 1513 1515 
+0.01230 Double_planet.txt 1 442 
+compared Double_planet.txt 3 450 935 1341 
+when Double_planet.txt 1 449 
+other Double_planet.txt 3 453 1076 1191 
+2006 Double_planet.txt 2 74 404 
+you Double_planet.txt 2 1149 1169 
+10 Double_planet.txt 2 1350 1353 
+picture Double_planet.txt 1 1154 
+draw Double_planet.txt 1 1152 
+reconsider Double_planet.txt 1 427 
+june Double_planet.txt 1 605 
+important Double_planet.txt 1 278 
+included Double_planet.txt 1 1072 
+revolve Double_planet.txt 2 350 1143 
+astronomy Double_planet.txt 1 36 
+ago Double_planet.txt 1 1538 
+calls Double_planet.txt 2 253 414 
+psamathe Double_planet.txt 1 1320 
+orbit Double_planet.txt 6 567 584 1175 1235 1266 1288 
+mass Double_planet.txt 17 53 143 271 295 304 308 375 439 503 532 638 675 696 747 827 837 874 
+volumes Double_planet.txt 1 214 
+time Double_planet.txt 1 436 
+once Double_planet.txt 1 124 

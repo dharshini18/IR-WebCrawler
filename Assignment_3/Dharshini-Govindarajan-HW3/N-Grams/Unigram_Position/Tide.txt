@@ -1,0 +1,2012 @@
+limited Tide.txt 3 374 5493 5546 
+1867 Tide.txt 1 4441 
+dynamic Tide.txt 2 2528 2775 
+four Tide.txt 1 4846 
+heliocentric Tide.txt 1 4136 
+captain Tide.txt 1 4562 
+relationships Tide.txt 1 4241 
+whose Tide.txt 1 2338 
+pointing Tide.txt 2 1901 7842 
+paris Tide.txt 1 2556 
+suns Tide.txt 2 2108 6071 
+lord Tide.txt 2 4428 5570 
+downstream Tide.txt 1 6796 
+rise Tide.txt 2 163 1248 
+every Tide.txt 3 1432 1928 4848 
+upstream Tide.txt 1 6791 
+affect Tide.txt 5 678 3877 3987 5967 8605 
+00:00 Tide.txt 1 905 
+near-shore Tide.txt 1 233 
+prize Tide.txt 2 2559 2578 
+progression Tide.txt 1 4349 
+called Tide.txt 14 330 456 659 1122 1226 1302 1603 1700 4692 5370 5687 6057 8378 8768 
+vector Tide.txt 1 2900 
+venus Tide.txt 1 3026 
+force Tide.txt 26 979 993 1036 1050 1086 1091 1205 1281 1469 2055 2497 2598 2877 2905 2916 2937 2971 3055 3099 3191 3332 3524 5138 5250 5609 5861 
+consistent Tide.txt 2 575 4536 
+approximation Tide.txt 3 2478 3784 8034 
+surrounding Tide.txt 2 1590 8459 
+second Tide.txt 3 5670 7410 8054 
+charted Tide.txt 2 7887 7999 
+tangential Tide.txt 1 3109 
+estimated Tide.txt 1 7800 
+machines Tide.txt 1 4478 
+even Tide.txt 5 1463 6765 8182 8331 8430 
+employ Tide.txt 1 5335 
+errors Tide.txt 2 4801 7559 
+organisms Tide.txt 3 8129 8166 8290 
+contributed Tide.txt 1 2208 
+above Tide.txt 7 643 5875 6236 6656 7831 8208 8582 
+new Tide.txt 11 55 1183 1442 1450 1837 2019 3553 4227 5197 6306 7026 
+net Tide.txt 1 609 
+increasing Tide.txt 1 1630 
+anglo-saxon Tide.txt 1 1311 
+gyroscope Tide.txt 1 8616 
+simultaneously Tide.txt 2 1719 6709 
+behavior Tide.txt 2 5033 8593 
+lithosphere Tide.txt 1 3630 
+never Tide.txt 2 1064 1068 
+morphologys Tide.txt 1 3895 
+hundreds Tide.txt 1 5588 
+china Tide.txt 3 1382 4362 6189 
+calculate Tide.txt 2 7744 7992 
+dry Tide.txt 1 3823 
+stevin Tide.txt 2 2224 2251 
+0.39 Tide.txt 1 8483 
+elaborate Tide.txt 1 5433 
+ignoring Tide.txt 1 3087 
+saint Tide.txt 1 7455 
+lunitidal Tide.txt 2 3919 5689 
+sunwhich Tide.txt 1 8667 
+fourier Tide.txt 5 5336 5423 5520 5527 6040 
+changes Tide.txt 9 358 432 616 1095 3249 3836 5949 6000 6625 
+reckoned Tide.txt 1 2177 
+topography Tide.txt 1 8367 
+explained Tide.txt 2 2087 2097 
+replace Tide.txt 1 5731 
+visible Tide.txt 1 8188 
+ninety Tide.txt 1 6612 
+long-period Tide.txt 1 8755 
+plot Tide.txt 2 6235 6887 
+spoke Tide.txt 1 2268 
+would Tide.txt 12 107 1080 2484 2918 3399 3558 3606 3793 5538 5543 5553 7405 
+negative Tide.txt 2 6848 8257 
+overhead Tide.txt 2 894 3965 
+therefore Tide.txt 3 5178 7947 8123 
+m2 Tide.txt 1 749 
+type Tide.txt 1 8149 
+is Tide.txt 156 394 404 410 455 468 573 577 583 696 740 756 770 783 806 824 919 933 939 1025 1067 1121 1219 1225 1231 1257 1296 1301 1309 1345 1362 1416 1426 1470 1540 1592 1678 1684 1717 1764 1807 1817 1912 1946 1960 1978 1984 2181 2392 2502 2537 2604 2898 2941 2954 2966 2972 2993 3011 3018 3050 3057 3080 3100 3119 3192 3228 3253 3364 3383 3434 3479 3692 3844 3921 3927 4388 4655 4691 4727 4838 4890 4904 4918 5059 5106 5134 5307 5333 5379 5491 5610 5620 5626 5629 5647 5662 5686 5698 5717 5739 5753 5778 5794 5812 5855 5874 5901 6020 6064 6085 6295 6310 6352 6367 6491 6527 6609 6655 6682 6690 6699 6741 6761 6787 6811 6827 6917 6939 6968 6980 7028 7052 7142 7272 7385 7426 7498 7522 7538 7707 7741 7790 7828 7836 7847 7916 8030 8050 8088 8108 8117 8190 8504 8519 8668 8774 
+separated Tide.txt 1 1269 
+under Tide.txt 2 2595 6557 
+98 Tide.txt 1 3688 
+connecticut Tide.txt 4 6434 6439 6448 6457 
+correspondingly Tide.txt 1 3741 
+90 Tide.txt 2 1271 8752 
+93 Tide.txt 1 3560 
+aligned Tide.txt 2 3256 3551 
+must Tide.txt 3 1794 2522 6513 
+word Tide.txt 3 1240 1312 8798 
+henri Tide.txt 1 2819 
+mm Tide.txt 1 8514 
+1998 Tide.txt 1 4753 
+work Tide.txt 3 5579 6015 7871 
+mi Tide.txt 1 8581 
+theories Tide.txt 1 5114 
+tide-generating Tide.txt 6 2455 2496 2857 3054 5209 5291 
+example Tide.txt 9 397 3944 4000 4678 6380 6417 6430 7574 8414 
+sinusoidal Tide.txt 4 5344 5388 5410 5762 
+moonrise Tide.txt 1 131 
+indicated Tide.txt 2 1541 7840 
+keplers Tide.txt 1 2396 
+stressing Tide.txt 1 2280 
+indicates Tide.txt 1 7687 
+fanciful Tide.txt 1 4245 
+calibration Tide.txt 1 8672 
+altitudes Tide.txt 1 8549 
+end Tide.txt 3 6389 7327 7337 
+provide Tide.txt 1 2379 
+topographical Tide.txt 1 1713 
+drying Tide.txt 1 7957 
+feature Tide.txt 1 8189 
+astronomers Tide.txt 1 2136 
+how Tide.txt 2 1583 4327 
+boats Tide.txt 1 7588 
+ancestor Tide.txt 1 8352 
+beach Tide.txt 1 1387 
+oceans Tide.txt 5 225 377 2765 3078 3664 
+mouths Tide.txt 1 5957 
+arcs Tide.txt 1 1608 
+after Tide.txt 5 1234 1675 2694 4224 8764 
+hence Tide.txt 2 1736 8291 
+law Tide.txt 1 3190 
+types Tide.txt 2 422 1133 
+third Tide.txt 3 1262 8056 8452 
+summing Tide.txt 1 5936 
+metonic Tide.txt 1 6079 
+order Tide.txt 4 3592 3805 4132 4531 
+wind Tide.txt 3 354 2189 7482 
+over Tide.txt 13 306 584 617 1168 2717 3747 5065 6043 6534 6563 6728 6880 8364 
+vary Tide.txt 4 280 3998 6723 8145 
+satisfied Tide.txt 1 1818 
+london Tide.txt 1 4425 
+japan Tide.txt 1 4974 
+before Tide.txt 3 2460 3960 4226 
+16.3 Tide.txt 1 4767 
+16.2 Tide.txt 1 4806 
+weeks Tide.txt 1 2722 
+apogee Tide.txt 1 1428 
+overcome Tide.txt 1 7118 
+16.8 Tide.txt 1 4816 
+versus Tide.txt 1 6478 
+then Tide.txt 12 464 840 1220 3269 4080 4630 5278 5488 5733 6135 6659 6672 
+them Tide.txt 2 8731 8736 
+affected Tide.txt 1 405 
+seleucus Tide.txt 3 2110 4122 4178 
+effects Tide.txt 17 14 173 1486 2187 2630 3458 3896 5947 7291 7494 7607 7738 8258 8285 8525 8557 8740 
+they Tide.txt 4 6645 7564 7666 8368 
+rocky Tide.txt 1 8160 
+exaggerate Tide.txt 1 5984 
+less-extreme Tide.txt 1 1358 
+proceeding Tide.txt 1 6756 
+arrow Tide.txt 2 7682 7845 
+each Tide.txt 27 249 262 513 558 1106 1585 1619 3461 4412 5131 5147 5158 5170 5207 5259 5618 5807 5930 6237 6388 6393 6602 6927 7035 7654 7982 8206 
+side Tide.txt 8 982 997 6339 6484 7036 7149 7165 7185 
+mean Tide.txt 3 331 3872 7832 
+lifted Tide.txt 1 2696 
+series Tide.txt 6 29 36 5337 5424 5521 5528 
+taught Tide.txt 1 2158 
+navy Tide.txt 2 4500 7622 
+extract Tide.txt 1 5218 
+gradient Tide.txt 2 2965 3105 
+angular Tide.txt 3 3721 5631 8678 
+daniel Tide.txt 1 2567 
+rn Tide.txt 1 4564 
+twenty-five Tide.txt 1 6535 
+forth Tide.txt 1 1247 
+redevelop Tide.txt 1 6660 
+turning Tide.txt 1 472 
+barrier Tide.txt 1 2677 
+underfoot Tide.txt 1 898 
+little Tide.txt 1 1595 
+free Tide.txt 3 1026 3323 4839 
+standard Tide.txt 3 5331 5598 7733 
+coriolis Tide.txt 2 1964 3329 
+biological Tide.txt 4 7470 8064 8276 8293 
+created Tide.txt 1 962 
+days Tide.txt 6 665 3813 4223 4681 5067 7983 
+creates Tide.txt 1 3713 
+uses Tide.txt 4 39 5343 6055 7547 
+resetting Tide.txt 1 4468 
+speeds Tide.txt 1 6952 
+hewett Tide.txt 1 4563 
+features Tide.txt 1 3312 
+attractions Tide.txt 1 2449 
+primary Tide.txt 4 622 3059 6204 6908 
+channels Tide.txt 3 6739 6792 6797 
+179 Tide.txt 1 2944 
+similarly Tide.txt 3 553 3426 8612 
+approximately Tide.txt 4 1178 2022 3954 8279 
+heights Tide.txt 14 1110 1118 1412 5176 5243 5421 6325 6553 6641 6857 7569 7958 7969 7988 
+needed Tide.txt 2 2284 6021 
+annotates Tide.txt 1 5919 
+rates Tide.txt 1 7514 
+observations Tide.txt 2 2309 4215 
+hypothetical Tide.txt 2 95 1986 
+john Tide.txt 1 4394 
+ranging Tide.txt 1 283 
+predictably Tide.txt 1 3952 
+rejected Tide.txt 1 2395 
+predictable Tide.txt 1 3925 
+somewhat Tide.txt 1 3506 
+peculiar Tide.txt 1 5165 
+distance Tide.txt 11 968 1403 1631 1864 3147 3200 3212 4743 5994 7753 7781 
+tide-predicting Tide.txt 1 4450 
+enabled Tide.txt 1 5008 
+rate Tide.txt 3 3682 3788 8686 
+final Tide.txt 1 2519 
+stratified Tide.txt 1 8361 
+lunations Tide.txt 1 1434 
+perspective Tide.txt 1 2468 
+usages Tide.txt 1 8815 
+spiegheling Tide.txt 1 2229 
+disambiguation Tide.txt 4 42 44 47 51 
+modern Tide.txt 1 2853 
+torque Tide.txt 2 3714 3737 
+seen Tide.txt 4 414 6942 7316 8070 
+seem Tide.txt 1 5037 
+contents Tide.txt 1 420 
+dozen Tide.txt 1 1574 
+strength Tide.txt 1 4167 
+responsible Tide.txt 1 2263 
+predominantly Tide.txt 2 4008 4020 
+causing Tide.txt 2 1454 1473 
+forces Tide.txt 19 177 351 677 2035 2456 2534 2638 2874 3110 3186 3203 3668 4595 5031 5063 5235 5292 6599 8724 
+blue Tide.txt 1 1593 
+shallow Tide.txt 3 365 7581 8381 
+though Tide.txt 5 408 4237 6766 6853 6984 
+iceland Tide.txt 1 1839 
+object Tide.txt 2 2882 6748 
+viscosity Tide.txt 1 3368 
+extending Tide.txt 1 1724 
+regular Tide.txt 1 4997 
+mouth Tide.txt 2 2708 4421 
+locality Tide.txt 1 5168 
+phase Tide.txt 17 158 1532 1665 1698 1746 1970 1973 4110 5164 5256 5649 5676 5772 6254 6378 7045 8706 
+jean Tide.txt 1 2650 
+zealand Tide.txt 3 1838 6307 7027 
+observation Tide.txt 4 2325 4024 4068 6004 
+calculated Tide.txt 2 5268 7217 
+m Tide.txt 15 751 1536 1655 2742 2750 4873 4875 4888 4916 6206 6234 6285 6301 6408 8700 
+rotary Tide.txt 1 8389 
+points Tide.txt 11 92 1288 1605 1612 1634 1640 3938 4551 6265 6405 7719 
+principle Tide.txt 1 5110 
+notion Tide.txt 1 2210 
+dot Tide.txt 1 7808 
+dover Tide.txt 1 4049 
+incorporate Tide.txt 2 3309 7005 
+semidiurnal Tide.txt 1 6525 
+ending Tide.txt 2 4522 7876 
+attempts Tide.txt 1 2679 
+ever Tide.txt 1 5599 
+gauge Tide.txt 1 4512 
+solutions Tide.txt 1 2804 
+diminish Tide.txt 1 3145 
+earth Tide.txt 47 25 189 403 638 681 687 726 789 810 821 852 859 985 1005 1016 1041 1145 1193 1276 1408 1993 2494 2896 2940 2962 3160 3237 3415 3491 3500 3625 3639 3740 3755 5153 5322 5471 6068 6498 6512 6577 8437 8594 8598 8600 8696 8701 
+1546 Tide.txt 2 4031 4054 
+resemblance Tide.txt 1 8778 
+situations Tide.txt 1 6861 
+explain Tide.txt 2 2409 2444 
+completes Tide.txt 1 8406 
+50-hour Tide.txt 1 6443 
+ebbing Tide.txt 1 1941 
+north/south Tide.txt 1 8628 
+do Tide.txt 6 4012 4935 5943 6333 6868 7003 
+wide Tide.txt 1 6707 
+de Tide.txt 1 2228 
+watch Tide.txt 1 832 
+fluid Tide.txt 4 699 1024 1072 8592 
+preferred Tide.txt 1 6065 
+gorey Tide.txt 1 3820 
+despite Tide.txt 1 4273 
+report Tide.txt 1 7857 
+dr Tide.txt 2 7750 7775 
+bar Tide.txt 2 1396 7582 
+covering Tide.txt 1 2491 
+fields Tide.txt 1 3143 
+bay Tide.txt 10 59 71 4039 4718 4759 4791 4821 4824 4837 4852 
+twice Tide.txt 1 1179 
+gears Tide.txt 1 4469 
+corrosion Tide.txt 1 7468 
+analytical Tide.txt 1 5992 
+automatic Tide.txt 1 4510 
+respond Tide.txt 1 5156 
+above-mentioned Tide.txt 1 921 
+reference Tide.txt 4 325 1976 1982 7345 
+1960s Tide.txt 1 4483 
+impoundment Tide.txt 1 7412 
+observed Tide.txt 2 2714 6037 
+depends Tide.txt 2 4196 5865 
+result Tide.txt 10 610 1325 1356 2520 3509 3995 4444 5906 6616 7061 
+best Tide.txt 2 2562 7397 
+subject Tide.txt 1 349 
+oceanic Tide.txt 2 3377 8421 
+said Tide.txt 1 469 
+away Tide.txt 6 119 1847 1939 3345 5959 6989 
+wikipedia Tide.txt 1 1 
+propagates Tide.txt 2 6287 6303 
+continually Tide.txt 1 8396 
+approach Tide.txt 4 5332 5425 5522 5593 
+360 Tide.txt 1 1690 
+terms Tide.txt 10 2271 2798 5398 5541 5591 5617 5703 5806 5819 5850 
+parallels Tide.txt 1 8338 
+weak Tide.txt 1 1472 
+however Tide.txt 5 152 2355 3900 7395 7428 
+tide"two Tide.txt 1 266 
+extent Tide.txt 1 3293 
+388 Tide.txt 1 2864 
+389 Tide.txt 1 2957 
+greenwich Tide.txt 2 1999 6258 
+suggested Tide.txt 1 2294 
+ranges Tide.txt 1 1626 
+essentially Tide.txt 1 2608 
+rhythms Tide.txt 3 8277 8294 8313 
+country Tide.txt 1 7168 
+against Tide.txt 2 3974 5991 
+inverse-square Tide.txt 1 3189 
+confronted Tide.txt 1 5324 
+ease Tide.txt 1 2700 
+pulleys Tide.txt 2 4456 7852 
+royal Tide.txt 1 7621 
+2nd Tide.txt 1 4116 
+springs Tide.txt 4 1129 1368 2735 4670 
+1.1 Tide.txt 1 2995 
+basis Tide.txt 2 5348 5385 
+three Tide.txt 7 4415 5357 5816 5847 6558 6564 7129 
+been Tide.txt 4 3790 5294 5595 6125 
+much Tide.txt 6 697 1029 3288 6683 6691 8554 
+interest Tide.txt 2 5150 5173 
+basic Tide.txt 1 5913 
+expected Tide.txt 2 5245 6141 
+basin Tide.txt 3 1782 4280 4789 
+life Tide.txt 1 4304 
+30-day Tide.txt 1 6452 
+barque Tide.txt 1 2670 
+concerning Tide.txt 1 2332 
+catch Tide.txt 2 1074 6518 
+aviation Tide.txt 1 8548 
+worked Tide.txt 2 2463 6429 
+applied Tide.txt 1 2533 
+landless Tide.txt 1 1992 
+exception Tide.txt 2 1825 6351 
+has Tide.txt 25 892 3027 3163 3280 3585 3631 3768 3789 4007 4021 4071 4577 4862 4879 5293 5426 5594 6396 6426 6472 6712 6929 7175 7329 8283 
+n Tide.txt 1 1645 
+neap Tide.txt 8 1304 1308 2278 2724 3474 6614 6964 7701 
+near Tide.txt 6 368 477 6150 6161 7259 7283 
+applies Tide.txt 1 6704 
+aid Tide.txt 1 8273 
+geoid Tide.txt 1 3095 
+procedure Tide.txt 2 5088 7734 
+weakens Tide.txt 1 966 
+seven Tide.txt 1 2721 
+mexico Tide.txt 2 4970 6195 
+equator Tide.txt 11 586 646 1493 3338 3348 3621 4270 5882 6630 6635 6658 
+prolate Tide.txt 1 2606 
+it Tide.txt 22 865 891 972 1079 1230 1425 1834 2312 2925 3258 3605 4464 5035 5105 5552 5732 5765 5793 5900 6624 6985 8116 
+straits Tide.txt 4 7070 7139 7193 7226 
+in Tide.txt 178 57 70 123 215 360 364 381 390 550 692 708 720 734 816 853 885 910 1031 1096 1161 1174 1250 1289 1318 1326 1357 1388 1571 1643 1649 1659 1673 1687 1776 1902 1931 1949 1955 2001 2070 2153 2156 2171 2200 2225 2269 2288 2316 2328 2432 2486 2548 2555 2648 2665 2706 2728 2743 2751 2786 2797 2849 2859 2872 2892 3121 3274 3388 3418 3439 3471 3485 3521 3563 3730 3774 3860 4001 4037 4073 4114 4131 4164 4168 4246 4252 4299 4318 4361 4365 4378 4402 4440 4496 4502 4528 4530 4547 4559 4568 4616 4673 4751 4757 4784 4792 4858 4920 4966 5068 5099 5192 5299 5427 5458 5500 5547 5635 5643 6052 6077 6199 6232 6253 6267 6289 6376 6465 6493 6500 6551 6582 6638 6782 6803 6816 6828 6836 6858 6896 6982 7068 7079 7086 7107 7124 7262 7378 7408 7506 7560 7604 7619 7641 7652 7696 7776 7809 7823 8039 8041 8193 8298 8320 8359 8383 8393 8410 8418 8449 8486 8501 8565 8629 8657 8663 8670 8705 
+if Tide.txt 9 1083 2924 3402 3539 3599 5383 7563 7703 8026 
+confirmed Tide.txt 1 4556 
+descent Tide.txt 1 8345 
+make Tide.txt 2 295 4533 
+amount Tide.txt 1 7384 
+complex Tide.txt 3 2038 6860 6924 
+several Tide.txt 1 5616 
+satellite Tide.txt 1 8733 
+peaks Tide.txt 1 6540 
+nil Tide.txt 1 7274 
+permit Tide.txt 1 6319 
+differing Tide.txt 1 1550 
+hand Tide.txt 4 829 836 1900 6300 
+potentials Tide.txt 1 3104 
+nip Tide.txt 1 1320 
+cycle Tide.txt 17 519 1177 1292 1693 3184 3371 3448 4493 5366 6080 6883 7159 7178 7505 7956 8282 8324 
+1609 Tide.txt 1 2289 
+1608 Tide.txt 1 2227 
+suitable Tide.txt 1 5413 
+europes Tide.txt 1 4013 
+1979 Tide.txt 1 7237 
+possessed Tide.txt 1 3405 
+1972 Tide.txt 2 62 74 
+ocean Tide.txt 27 99 218 1021 1063 1386 1731 1775 2489 2540 2594 3088 3117 3214 3251 3285 3404 3584 3649 3834 3969 4611 4650 4697 4956 5081 8362 8636 
+ebbenvloet Tide.txt 1 2231 
+greatest Tide.txt 1 4258 
+the Tide.txt 840 2 10 16 18 21 24 27 58 66 77 88 94 114 121 141 162 171 175 180 183 186 190 203 206 211 216 220 224 227 230 324 338 376 398 402 416 435 448 451 462 488 522 533 536 541 546 554 561 566 570 581 585 589 593 597 608 625 628 631 637 639 644 679 683 694 709 712 721 737 741 748 771 779 784 788 795 803 809 813 817 820 827 834 848 851 854 858 877 882 886 913 920 928 937 946 949 953 959 964 970 981 984 987 995 998 1004 1008 1011 1014 1034 1040 1043 1048 1056 1062 1071 1077 1084 1119 1132 1140 1144 1147 1150 1156 1159 1189 1203 1208 1214 1216 1227 1235 1243 1255 1264 1275 1278 1284 1290 1293 1303 1315 1401 1405 1414 1420 1429 1435 1459 1487 1491 1497 1500 1503 1507 1511 1515 1524 1535 1545 1554 1579 1589 1606 1610 1614 1617 1644 1650 1654 1662 1671 1721 1726 1730 1741 1760 1777 1787 1801 1804 1823 1828 1854 1863 1875 1882 1891 1898 1903 1906 1915 1924 1932 1950 1956 1963 1966 1972 1979 1981 1985 1998 2002 2006 2012 2015 2033 2046 2071 2080 2089 2093 2101 2104 2107 2122 2127 2145 2167 2179 2186 2195 2198 2201 2209 2212 2217 2221 2232 2254 2257 2260 2265 2296 2299 2302 2333 2344 2350 2352 2361 2364 2370 2374 2383 2386 2399 2405 2412 2415 2424 2433 2445 2451 2454 2464 2467 2481 2492 2495 2525 2532 2542 2550 2561 2577 2596 2617 2622 2627 2636 2643 2646 2658 2675 2686 2692 2707 2710 2715 2736 2744 2752 2764 2772 2780 2830 2838 2841 2851 2856 2875 2899 2903 2908 2911 2914 2922 2929 2934 2939 2948 2952 2961 2968 2977 2981 2986 2990 2999 3004 3008 3019 3023 3028 3032 3038 3041 3047 3053 3058 3077 3094 3097 3103 3116 3126 3134 3152 3159 3170 3173 3181 3196 3199 3208 3211 3213 3219 3225 3233 3236 3243 3246 3250 3260 3264 3267 3275 3278 3295 3304 3310 3313 3320 3326 3328 3337 3340 3347 3350 3373 3381 3390 3396 3403 3414 3421 3424 3431 3444 3456 3476 3487 3490 3493 3496 3499 3511 3522 3532 3537 3541 3555 3583 3590 3596 3620 3624 3628 3645 3648 3651 3663 3716 3733 3739 3750 3754 3763 3775 3786 3804 3817 3827 3830 3833 3837 3851 3857 3861 3893 3905 3911 3918 3928 3940 3945 3961 3979 3988 4002 4004 4017 4038 4044 4059 4062 4077 4084 4091 4101 4109 4112 4115 4119 4127 4146 4152 4157 4172 4180 4186 4191 4194 4198 4203 4205 4210 4217 4235 4253 4261 4266 4269 4274 4282 4286 4290 4303 4311 4323 4328 4335 4340 4343 4347 4354 4357 4374 4379 4382 4419 4431 4442 4446 4482 4484 4499 4503 4539 4548 4569 4573 4593 4598 4610 4613 4619 4622 4625 4632 4638 4640 4644 4649 4659 4662 4668 4674 4683 4693 4696 4701 4717 4722 4732 4745 4758 4823 4831 4851 4859 4869 4872 4884 4887 4894 4898 4908 4915 4924 4928 4932 4944 4954 4963 4967 4978 4989 5052 5076 5080 5093 5100 5109 5112 5116 5152 5154 5174 5193 5204 5219 5227 5232 5241 5248 5271 5282 5285 5289 5296 5300 5303 5308 5314 5321 5330 5360 5373 5377 5384 5391 5417 5422 5435 5444 5459 5467 5470 5472 5475 5479 5503 5514 5518 5548 5556 5581 5587 5596 5602 5607 5622 5627 5630 5648 5654 5666 5673 5675 5679 5683 5688 5695 5701 5706 5710 5713 5744 5775 5780 5801 5813 5826 5835 5840 5844 5852 5859 5869 5872 5878 5881 5912 5916 5920 5927 5964 5968 5985 5996 6002 6024 6032 6036 6047 6053 6058 6067 6078 6090 6104 6107 6115 6129 6140 6148 6153 6187 6192 6200 6203 6216 6221 6224 6233 6248 6259 6263 6268 6284 6290 6298 6312 6320 6327 6331 6337 6343 6350 6357 6373 6407 6421 6468 6482 6489 6497 6501 6505 6511 6522 6538 6544 6572 6576 6587 6597 6606 6618 6629 6634 6636 6647 6650 6653 6657 6663 6676 6742 6762 6772 6790 6795 6817 6824 6833 6862 6872 6891 6907 6920 6966 6977 7012 7014 7021 7032 7038 7055 7069 7074 7087 7103 7112 7121 7125 7144 7147 7154 7163 7167 7170 7183 7189 7197 7235 7252 7263 7268 7276 7284 7292 7301 7306 7310 7320 7325 7335 7340 7379 7382 7389 7396 7403 7409 7411 7503 7516 7525 7528 7531 7584 7598 7613 7620 7626 7668 7674 7684 7688 7691 7721 7732 7758 7774 7777 7780 7782 7785 7793 7820 7824 7826 7844 7859 7862 7867 7870 7873 7885 7895 7903 7918 7922 7948 7954 7964 7968 7971 7975 7993 7998 8002 8020 8037 8042 8089 8094 8105 8125 8137 8140 8148 8153 8195 8278 8309 8322 8334 8343 8360 8400 8404 8415 8444 8451 8454 8499 8569 8584 8606 8622 8659 8666 8683 8698 8708 8722 8737 8742 8759 8780 8788 8797 8821 
+left Tide.txt 1 4042 
+just Tide.txt 3 5512 6556 6562 
+newton Tide.txt 3 2402 2457 5002 
+gravity Tide.txt 4 143 2091 2109 3043 
+farther Tide.txt 1 2959 
+human Tide.txt 1 8645 
+ecosystems Tide.txt 1 8092 
+rotates Tide.txt 3 860 1042 1922 
+yet Tide.txt 1 7072 
+biscay Tide.txt 1 4041 
+1770 Tide.txt 1 2666 
+equipment Tide.txt 1 6751 
+equator15 Tide.txt 1 8660 
+regarded Tide.txt 1 4243 
+had Tide.txt 1 4509 
+animation Tide.txt 1 1136 
+east Tide.txt 5 3351 4005 4723 6338 7184 
+gave Tide.txt 2 2346 4795 
+elevation Tide.txt 2 642 8207 
+bands Tide.txt 1 8201 
+possible Tide.txt 5 278 7499 7539 7924 7950 
+without-the-power Tide.txt 1 1322 
+cape Tide.txt 3 2031 7245 7260 
+highly Tide.txt 1 8169 
+occurring Tide.txt 1 4408 
+generated Tide.txt 1 7435 
+55 Tide.txt 2 4818 8654 
+54 Tide.txt 1 3385 
+57 Tide.txt 1 3637 
+56 Tide.txt 1 4779 
+50 Tide.txt 2 875 8578 
+53 Tide.txt 2 4769 4808 
+northward Tide.txt 2 6288 6335 
+specific Tide.txt 3 7718 7890 8203 
+400-day Tide.txt 1 6461 
+officer Tide.txt 1 7628 
+notorious Tide.txt 1 7285 
+174296e Tide.txt 1 7241 
+right Tide.txt 3 1151 4050 6913 
+dead Tide.txt 1 7746 
+bore Tide.txt 1 4377 
+short-term Tide.txt 1 342 
+ignore Tide.txt 2 309 7667 
+in/year Tide.txt 1 3761 
+for Tide.txt 69 26 37 93 396 428 787 1070 1768 1773 1878 2253 2264 2560 2657 2777 2803 3072 3531 3536 3611 3901 3943 3999 4369 4643 4677 4799 4843 4883 4962 5025 5089 5180 5222 5258 5414 5416 5486 5550 5665 5672 5682 5788 5980 6127 6379 6413 6432 6571 6961 7082 7090 7137 7233 7239 7446 7492 7500 7555 7573 7617 7678 7698 7942 8007 8017 8235 8413 8643 
+bottom Tide.txt 4 3327 3646 8164 8366 
+ice Tide.txt 1 4842 
+particular Tide.txt 6 717 1053 4709 5364 5921 7094 
+pose Tide.txt 1 7472 
+oscillating Tide.txt 2 438 8356 
+illustration Tide.txt 1 595 
+sunmoonearth Tide.txt 1 6586 
+takes Tide.txt 1 866 
+constantthe Tide.txt 1 1088 
+months Tide.txt 2 666 4847 
+plus Tide.txt 1 7766 
+islands Tide.txt 3 6313 6328 7024 
+slightly Tide.txt 7 867 975 991 1006 5726 6213 6515 
+presence Tide.txt 1 4990 
+civil Tide.txt 1 7544 
+float Tide.txt 1 7856 
+down Tide.txt 1 3272 
+coastal Tide.txt 4 429 3863 3894 4710 
+methods Tide.txt 1 2870 
+existed Tide.txt 1 2246 
+nodal Tide.txt 1 6094 
+support Tide.txt 2 4134 8591 
+constantly Tide.txt 1 1060 
+refloat Tide.txt 1 2683 
+accordingly Tide.txt 2 5712 5751 
+influencing Tide.txt 1 3171 
+way Tide.txt 1 3838 
+1/12 Tide.txt 2 8053 8063 
+was Tide.txt 21 2068 2129 2262 2313 2341 2356 2404 2430 2621 2703 3802 4154 4179 4263 4363 4445 4465 4494 5564 7608 7629 
+across Tide.txt 3 3319 3582 6383 
+lowest Tide.txt 5 594 1564 4919 7923 7976 
+head Tide.txt 1 4756 
+steers Tide.txt 1 3333 
+form Tide.txt 6 1194 2861 5339 5623 5926 6802 
+differences Tide.txt 3 1475 5924 7304 
+analyse Tide.txt 1 6687 
+peninsula Tide.txt 1 6276 
+hemisphere Tide.txt 6 1646 1652 1952 1958 6270 6292 
+lows Tide.txt 1 1565 
+solar Tide.txt 10 1279 1484 2448 2935 2969 3000 3039 6210 8634 8743 
+true Tide.txt 1 1766 
+prevents Tide.txt 1 7587 
+maximum Tide.txt 7 1223 1755 4764 4803 6552 6669 7281 
+until Tide.txt 3 4481 6644 7597 
+complications Tide.txt 1 5603 
+stages Tide.txt 1 437 
+emersed Tide.txt 1 8111 
+150 Tide.txt 1 2115 
+meteorologically Tide.txt 1 8493 
+1.1.9 Tide.txt 1 4177 
+covers Tide.txt 1 7656 
+convergent Tide.txt 1 1600 
+accounting Tide.txt 1 3071 
+ship Tide.txt 1 7424 
+constructed Tide.txt 1 6126 
+marking Tide.txt 1 4076 
+floor Tide.txt 1 3835 
+whereas Tide.txt 1 8112 
+generally Tide.txt 6 578 1627 1641 1844 1947 5015 
+flood Tide.txt 10 1756 2162 2237 2250 2274 6775 6825 6839 6866 6894 
+cavalleri Tide.txt 1 2575 
+dissipation Tide.txt 6 3358 3669 3678 3691 3697 3709 
+transfers Tide.txt 1 3720 
+diamonds Tide.txt 1 7715 
+died Tide.txt 1 4397 
+longer Tide.txt 3 807 3255 6167 
+bede Tide.txt 2 2173 4325 
+burntcoat Tide.txt 1 4755 
+interval Tide.txt 4 1366 3920 5690 5694 
+together Tide.txt 1 4459 
+time Tide.txt 33 307 391 621 773 785 890 954 1069 1343 1672 3372 3449 3749 3852 3883 3912 3929 4165 4348 4462 4620 4633 4641 4704 5184 5658 5725 5966 6005 6523 7205 7821 8830 
+neighbors Tide.txt 1 6246 
+precise Tide.txt 2 5070 8676 
+concept Tide.txt 1 1681 
+global Tide.txt 1 4526 
+datum Tide.txt 3 327 6050 7914 
+earthmoon Tide.txt 2 3515 3731 
+uneven Tide.txt 2 267 8365 
+zone Tide.txt 2 8085 8107 
+pytheas Tide.txt 1 4088 
+show Tide.txt 4 1613 2584 6251 7673 
+recurrence Tide.txt 1 4079 
+0 Tide.txt 2 1996 5660 
+finally Tide.txt 1 3356 
+syzygy Tide.txt 1 1202 
+analogous Tide.txt 2 825 1705 
+brown Tide.txt 1 2836 
+deforming Tide.txt 2 2602 2618 
+frequencies Tide.txt 12 2866 3992 5128 5263 5351 5455 5510 5832 5842 5915 6056 8374 
+in/out Tide.txt 1 8626 
+phasing Tide.txt 1 4474 
+gestation Tide.txt 1 8316 
+choice Tide.txt 1 5910 
+liability Tide.txt 1 6011 
+cotidal Tide.txt 16 1549 1701 1722 1733 1788 1810 1855 1909 1918 1936 1942 1969 2007 2049 6238 6369 
+cook Tide.txt 11 2668 2713 6354 6391 6466 7018 7138 7192 7225 7266 7296 
+exact Tide.txt 1 4703 
+minute Tide.txt 1 828 
+fortnightly Tide.txt 3 6174 6228 8280 
+introductorium Tide.txt 1 2155 
+level Tide.txt 10 305 328 333 591 714 3466 3478 4999 7920 8546 
+did Tide.txt 1 2661 
+12th Tide.txt 2 2146 2202 
+p Tide.txt 4 5646 5677 5773 7880 
+round Tide.txt 1 1143 
+upper Tide.txt 1 8220 
+three-dimensional Tide.txt 1 2610 
+oscillation Tide.txt 1 4925 
+two-week Tide.txt 1 1176 
+maclaurin Tide.txt 3 2572 2579 2620 
+prediction Tide.txt 3 4026 5240 5935 
+sign Tide.txt 3 6844 6849 7767 
+oort Tide.txt 1 8746 
+colin Tide.txt 1 2571 
+port Tide.txt 4 69 4629 4639 5198 
+appear Tide.txt 1 7640 
+uniform Tide.txt 1 3407 
+current Tide.txt 9 453 5087 6675 6680 6809 7231 7278 7368 7393 
+goes Tide.txt 1 1142 
+shared Tide.txt 1 2576 
+falling Tide.txt 1 7838 
+ground Tide.txt 2 6006 8545 
+muslim Tide.txt 1 2135 
+understanding Tide.txt 3 2125 5028 6113 
+water Tide.txt 57 50 304 417 458 474 479 482 501 544 549 564 569 1022 1342 1677 1716 1752 1869 1908 1917 1921 2367 2778 3855 3882 3975 4352 4407 4590 4636 4866 4998 5693 6365 6382 6386 6738 6972 7051 7058 7199 7202 7363 7374 7419 7663 7834 7919 7951 7987 7995 8049 8073 8104 8115 8210 8386 
+kilometers Tide.txt 1 707 
+galileo Tide.txt 2 2326 2394 
+dayabout Tide.txt 1 871 
+along Tide.txt 15 1007 1720 1740 2985 3003 3619 4353 4893 4977 6771 6890 6902 7162 7787 8099 
+change Tide.txt 8 4 1059 3505 6227 7011 7067 8254 8397 
+noticeable Tide.txt 1 4906 
+shift Tide.txt 2 159 7632 
+studied Tide.txt 2 2654 5201 
+commonly Tide.txt 4 504 3090 6941 7931 
+simultaneous Tide.txt 1 7053 
+usually Tide.txt 7 329 337 475 5187 5633 6145 7695 
+navigation Tide.txt 5 7425 7542 7556 7602 7740 
+co-tidal Tide.txt 3 4520 4544 4617 
+useful Tide.txt 3 1680 6121 6744 
+extra Tide.txt 1 6537 
+marked Tide.txt 1 7805 
+1st Tide.txt 1 2791 
+rarely Tide.txt 1 4855 
+isles Tide.txt 2 4093 4337 
+working Tide.txt 1 2339 
+positive Tide.txt 1 6843 
+predictions Tide.txt 3 3890 6994 6997 
+france Tide.txt 2 6281 7457 
+theoretical Tide.txt 7 2563 3374 3432 3465 3477 3526 3556 
+today Tide.txt 1 2788 
+menstrual Tide.txt 1 8323 
+introducing Tide.txt 2 5580 8249 
+entrance Tide.txt 1 7585 
+diurnal Tide.txt 5 255 516 1753 6164 6198 
+apparent Tide.txt 1 3261 
+cases Tide.txt 1 4716 
+rotational Tide.txt 3 1495 2629 3744 
+inertial Tide.txt 2 13 3331 
+longitude Tide.txt 1 1997 
+regions Tide.txt 1 8234 
+values Tide.txt 2 4797 7213 
+can Tide.txt 25 379 1885 3300 3360 4985 5266 5277 6099 6134 6722 7009 7314 7355 7433 7487 8010 8024 8240 8266 8387 8425 8432 8475 8489 8651 
+believed Tide.txt 2 4150 8749 
+nearest Tide.txt 3 940 3238 5997 
+figure Tide.txt 3 5730 5986 7825 
+predict Tide.txt 1 6139 
+arise Tide.txt 1 5604 
+tidally Tide.txt 1 2806 
+allowed Tide.txt 1 2802 
+conversely Tide.txt 1 662 
+occur Tide.txt 6 380 2485 4961 7562 8297 8763 
+tilt Tide.txt 1 1489 
+discussion Tide.txt 2 1761 4070 
+antoine Tide.txt 1 2574 
+1 Tide.txt 6 1552 3807 7743 7829 8479 8516 
+fourth Tide.txt 1 8058 
+eight Tide.txt 1 7098 
+divides Tide.txt 1 8197 
+map Tide.txt 2 430 1578 
+product Tide.txt 4 2413 5781 5802 5845 
+information Tide.txt 4 6420 6938 7232 8083 
+may Tide.txt 9 3886 5036 5983 6801 6986 7399 7937 7959 8144 
+southern Tide.txt 3 1951 4979 6291 
+produce Tide.txt 2 5141 6593 
+such Tide.txt 12 352 3112 3132 3865 6185 8247 8307 8337 8375 8470 8496 8532 
+data Tide.txt 4 320 6041 6689 7550 
+acadmie Tide.txt 1 2551 
+natural Tide.txt 4 1252 3587 3633 7418 
+remember Tide.txt 1 5939 
+liquid Tide.txt 1 8615 
+whenever Tide.txt 1 384 
+st Tide.txt 1 4400 
+so Tide.txt 16 702 864 909 1851 3259 3842 5409 6214 6271 6406 6520 7046 7119 7339 7439 8520 
+definitions Tide.txt 1 587 
+travel Tide.txt 3 4607 4647 7752 
+typical Tide.txt 1 8075 
+moonearth Tide.txt 1 2987 
+estuary Tide.txt 1 4505 
+constituents Tide.txt 15 604 606 623 661 675 729 1481 1747 4877 6061 6149 6155 6160 6169 6205 
+principia Tide.txt 1 2434 
+wishing Tide.txt 1 4371 
+years Tide.txt 6 287 668 3779 3798 6063 6083 
+course Tide.txt 1 598 
+counterclockwise Tide.txt 5 1642 1954 2010 6266 6304 
+differs Tide.txt 1 6240 
+still Tide.txt 6 951 1471 2245 2503 2785 7837 
+culmination Tide.txt 1 895 
+machine Tide.txt 1 4451 
+tending Tide.txt 1 5139 
+1831 Tide.txt 1 4497 
+1836 Tide.txt 1 4529 
+interesting Tide.txt 1 7030 
+decreases Tide.txt 1 3742 
+attraction Tide.txt 4 2258 2417 3656 4188 
+offers Tide.txt 1 7229 
+main Tide.txt 9 1152 4443 5297 6589 6863 7023 7349 8078 8596 
+meridian Tide.txt 1 2000 
+3 Tide.txt 1 7769 
+introduce Tide.txt 1 3677 
+records Tide.txt 2 297 4438 
+half Tide.txt 6 600 655 764 1170 1862 3958 
+not Tide.txt 28 373 411 532 574 845 934 1232 2662 3568 4936 5020 5199 5492 5511 5718 5848 5944 6528 6542 6781 6794 6869 7004 7211 7566 7708 8031 8403 
+now Tide.txt 3 3124 4242 5779 
+developments Tide.txt 1 2828 
+accommodate Tide.txt 1 5700 
+term Tide.txt 10 3359 5619 5664 5671 5685 5777 5799 5846 5933 6168 
+name Tide.txt 1 8773 
+james Tide.txt 1 2667 
+advent Tide.txt 1 7599 
+bangchuidao Tide.txt 1 1376 
+rock Tide.txt 1 8069 
+entirely Tide.txt 2 7117 7386 
+quarter Tide.txt 3 1260 1263 4688 
+repaired Tide.txt 1 2705 
+square Tide.txt 1 3197 
+significantly Tide.txt 1 494 
+challenges Tide.txt 1 7474 
+persian Tide.txt 1 4254 
+begun Tide.txt 1 5565 
+year Tide.txt 5 3815 4849 5191 6092 7875 
+wavelength Tide.txt 1 3614 
+approximated Tide.txt 1 3082 
+ep Tide.txt 1 7803 
+canada Tide.txt 1 4726 
+shown Tide.txt 3 4615 7822 7962 
+barometric Tide.txt 1 356 
+space Tide.txt 1 393 
+cancels Tide.txt 1 1283 
+increase Tide.txt 3 1628 3729 8038 
+investigation Tide.txt 1 2064 
+vlbi Tide.txt 1 8674 
+dominate Tide.txt 1 6870 
+dalembert Tide.txt 1 2653 
+notionally Tide.txt 1 5611 
+shows Tide.txt 1 7195 
+earlier Tide.txt 3 2170 4417 8822 
+karori Tide.txt 1 7286 
+theory Tide.txt 17 2057 2233 2354 2391 2439 2474 2507 2521 2582 2776 2824 2832 4137 5004 5461 5750 6349 
+million Tide.txt 2 3778 3797 
+california Tide.txt 2 1391 6275 
+bathymetry Tide.txt 8 234 648 3816 3868 4698 4740 5083 6734 
+marine Tide.txt 4 3694 8259 8289 8351 
+care Tide.txt 1 6019 
+advance Tide.txt 1 1739 
+fixed Tide.txt 2 301 3165 
+derivation Tide.txt 1 6117 
+british Tide.txt 3 4092 4336 4385 
+motion Tide.txt 5 1822 1843 2632 5143 8689 
+place Tide.txt 3 5148 5171 8448 
+massive Tide.txt 2 2881 3129 
+altitude Tide.txt 4 641 1372 1711 3909 
+substrates Tide.txt 1 8159 
+first Tide.txt 18 1259 2406 2623 2773 2852 4075 4102 4181 4358 4383 4432 4485 4518 5007 5680 7380 8051 8445 
+origin Tide.txt 2 2452 8566 
+whewell Tide.txt 1 4517 
+one Tide.txt 21 257 272 275 517 775 4332 5021 5355 5531 5663 6242 6480 6805 6830 7048 7080 7177 7318 7661 8186 8263 
+directly Tide.txt 3 1913 3964 8243 
+open Tide.txt 1 8385 
+horizontal Tide.txt 4 2639 2766 3292 8200 
+size Tide.txt 2 3989 6025 
+earths Tide.txt 24 81 626 645 1057 1492 1512 2371 2384 2526 2543 2628 2930 2991 3009 3024 3048 3174 3629 3674 6506 8455 8608 8623 8684 
+given Tide.txt 10 198 528 3903 5057 5612 5634 5786 6822 6842 8775 
+necessarily Tide.txt 1 935 
+t Tide.txt 3 5641 5659 5736 
+indicate Tide.txt 1 1556 
+2 Tide.txt 2 3772 7756 
+draft Tide.txt 1 7591 
+constants Tide.txt 1 5221 
+white Tide.txt 1 1546 
+circa Tide.txt 2 2151 2206 
+national Tide.txt 1 6048 
+gives Tide.txt 2 4631 7798 
+mostly Tide.txt 1 6829 
+that Tide.txt 70 388 450 1211 1239 1329 1336 1344 1762 1852 2117 2159 2178 2211 2244 2256 2281 2295 2475 2479 2483 2585 2635 2695 2917 3061 3144 3277 3398 3442 3718 3785 3795 3839 3849 3873 4141 4151 4161 4190 4392 4653 5038 5111 5145 5167 5342 5352 5477 5787 5796 5820 5858 5884 5903 5940 6120 6215 6272 6521 7047 7120 7143 7372 7480 7625 7679 8036 8395 8522 8762 
+season Tide.txt 2 1236 8832 
+surges Tide.txt 1 362 
+short Tide.txt 1 6729 
+deceleration Tide.txt 1 3787 
+baja Tide.txt 1 6274 
+than Tide.txt 17 317 654 808 869 977 1332 1339 1347 1353 2516 2642 2947 3290 4422 5189 5434 8783 
+11 Tide.txt 1 3484 
+10 Tide.txt 2 2996 3014 
+13 Tide.txt 1 8511 
+12 Tide.txt 6 758 923 1929 3451 6151 8411 
+14 Tide.txt 2 6171 6229 
+17 Tide.txt 1 4777 
+19 Tide.txt 1 6082 
+18 Tide.txt 1 3530 
+require Tide.txt 3 5072 5539 8680 
+modelled Tide.txt 2 3302 5394 
+protected Tide.txt 1 8260 
+were Tide.txt 16 1087 2096 2119 2164 2214 2680 2731 2926 3410 3416 3545 3601 4143 4479 4555 5014 
+outcome Tide.txt 1 7013 
+and Tide.txt 255 12 20 48 90 118 132 154 164 182 185 192 208 226 232 246 259 274 355 367 392 467 480 499 509 545 565 576 633 647 700 760 781 839 874 897 906 925 989 1045 1111 1130 1165 1185 1192 1266 1277 1349 1369 1407 1423 1494 1506 1533 1544 1647 1732 1735 1744 1759 1793 1813 1840 1867 1938 1953 1959 2039 2056 2076 2106 2161 2190 2236 2249 2267 2277 2310 2426 2436 2447 2458 2545 2573 2818 2829 2847 2913 3065 3115 3136 3148 3240 3322 3342 3370 3413 3495 3514 3525 3534 3543 3550 3574 3643 3650 3660 3726 3735 3832 3869 3884 3910 3924 3956 3968 3981 3985 4025 4043 4069 4086 4097 4166 4189 4228 4231 4289 4345 4414 4470 4475 4600 4664 4671 4686 4705 4741 4771 4810 4822 4874 4912 4931 4971 5022 5032 5084 5120 5129 5163 5216 5255 5264 5316 5376 5441 5474 5481 5534 5542 5572 5601 5645 5668 5746 5771 5791 5829 5837 5883 5896 5899 5923 5972 6070 6132 6176 6191 6208 6219 6247 6279 6318 6340 6403 6486 6499 6566 6579 6671 6688 6716 6727 6776 6832 6845 6865 6875 6893 6909 6933 6953 6963 7085 7187 7200 7204 7312 7391 7469 7545 7557 7577 7638 7664 7672 7690 7700 7730 7754 7768 7796 7835 7854 7894 7935 7945 7985 7989 8047 8096 8130 8171 8175 8181 8237 8252 8272 8288 8317 8398 8429 8436 8473 8530 8547 8563 8567 8633 8638 8673 8687 8732 8807 8818 
+san Tide.txt 1 1389 
+locations Tide.txt 5 252 486 736 1661 7891 
+say Tide.txt 1 5755 
+dredging Tide.txt 1 5955 
+any Tide.txt 6 197 1052 4939 5789 8528 8784 
+aside Tide.txt 2 7288 7462 
+sciences Tide.txt 1 2554 
+potential Tide.txt 3 2501 2858 3227 
+take Tide.txt 2 3607 8447 
+interior Tide.txt 1 8462 
+coincide Tide.txt 1 4937 
+channel Tide.txt 2 6760 6773 
+multiple Tide.txt 3 612 7430 8332 
+trace Tide.txt 1 6877 
+opposite Tide.txt 6 996 1914 3736 6329 6377 6783 
+track Tide.txt 1 800 
+falls Tide.txt 1 3822 
+visitors Tide.txt 1 4370 
+damage Tide.txt 1 8241 
+especially Tide.txt 4 363 7108 7282 7933 
+considered Tide.txt 1 8536 
+average Tide.txt 13 772 978 1333 1340 1348 1354 2943 2956 3681 5729 5757 7675 7692 
+later Tide.txt 2 2092 4411 
+drive Tide.txt 1 3703 
+link Tide.txt 3 4183 6361 8786 
+typically Tide.txt 2 531 7917 
+quantity Tide.txt 1 2512 
+slope Tide.txt 1 3273 
+3.75 Tide.txt 1 3685 
+maine Tide.txt 2 124 1398 
+fifth Tide.txt 1 8060 
+geography Tide.txt 1 4248 
+semi-liquid Tide.txt 1 8461 
+enfeebled Tide.txt 1 7106 
+nadir Tide.txt 1 944 
+gulf Tide.txt 3 4255 4968 6193 
+title Tide.txt 1 2340 
+daily Tide.txt 7 537 571 2084 2094 3074 3182 4078 
+amphidromic Tide.txt 12 221 1604 1611 1633 1802 1805 1876 1883 1925 2013 6264 6404 
+enough Tide.txt 1 6087 
+datums Tide.txt 1 7929 
+only Tide.txt 10 1767 3569 4844 5530 6103 6479 6804 6999 7176 7317 
+black Tide.txt 1 8808 
+alternation Tide.txt 1 6637 
+moons Tide.txt 8 640 1285 2090 2105 2191 3422 3858 4199 
+broadest Tide.txt 1 8154 
+cannot Tide.txt 2 2040 6410 
+nearly Tide.txt 4 243 4525 5407 8704 
+neither Tide.txt 1 7344 
+secondary Tide.txt 1 6910 
+shallow-water Tide.txt 1 1525 
+bearings Tide.txt 2 4033 6954 
+morning Tide.txt 1 2745 
+predicted Tide.txt 7 2042 4774 4813 5042 5280 6347 7490 
+mapped Tide.txt 1 4519 
+gps Tide.txt 1 8671 
+where Tide.txt 8 487 1557 3016 4543 5624 5737 6356 6976 
+declared Tide.txt 1 7624 
+burst Tide.txt 1 1246 
+seas Tide.txt 1 366 
+up Tide.txt 3 1075 6519 6757 
+relative Tide.txt 11 635 793 2193 3168 3176 3935 4201 6072 6217 6969 7910 
+1921 Tide.txt 1 2850 
+surfaces Tide.txt 1 7905 
+parent Tide.txt 1 1530 
+behind Tide.txt 1 4682 
+between Tide.txt 16 955 1163 1367 1865 2902 3907 4658 4871 4907 6524 7020 7305 7660 8045 8093 8127 
+reading Tide.txt 1 8837 
+deforms Tide.txt 1 1017 
+notice Tide.txt 1 1582 
+vertical Tide.txt 4 2644 3265 7762 8191 
+recedes Tide.txt 1 3752 
+brouscons Tide.txt 2 4028 4051 
+article Tide.txt 5 1153 6422 7350 8079 8597 
+come Tide.txt 1 7651 
+many Tide.txt 17 911 2427 4213 4240 4506 4582 5066 5450 5453 5463 5508 5540 5904 7460 7575 8304 8812 
+region Tide.txt 2 4922 6708 
+according Tide.txt 3 4057 4174 8146 
+laplace Tide.txt 5 2462 2755 2781 3305 5567 
+propagation Tide.txt 1 3581 
+s Tide.txt 7 1651 2318 2669 5003 6209 8553 8745 
+expression Tide.txt 1 5854 
+nearby Tide.txt 1 4993 
+among Tide.txt 1 8136 
+forecasting Tide.txt 1 3879 
+12:00 Tide.txt 2 838 907 
+moonearthsun Tide.txt 1 6608 
+color Tide.txt 2 1543 1591 
+period Tide.txt 19 674 755 914 947 1624 2719 3588 3598 3634 4943 5182 6046 6109 6231 6444 6453 6462 8303 8336 
+equilibriumthere Tide.txt 1 1066 
+boat Tide.txt 1 7786 
+save Tide.txt 1 7491 
+tidetwo Tide.txt 1 242 
+stretch Tide.txt 1 1003 
+west Tide.txt 5 3341 4018 6344 7164 7243 
+mark Tide.txt 1 7757 
+cosine Tide.txt 4 5784 5805 5818 5932 
+combined Tide.txt 2 172 6225 
+likewise Tide.txt 2 6570 6799 
+harmonics Tide.txt 3 5371 5443 5495 
+1213 Tide.txt 1 4403 
+direction Tide.txt 26 466 819 856 1046 1615 1904 1933 3262 3276 6294 6718 6768 6786 6807 6831 6838 6874 6935 7081 7089 7127 7689 7729 7755 7779 8402 
+enable Tide.txt 2 5203 5237 
+offered Tide.txt 2 2557 5023 
+connections Tide.txt 1 4952 
+external Tide.txt 2 3130 8838 
+careful Tide.txt 3 4566 5909 6039 
+hidden Tide.txt 1 8841 
+those Tide.txt 2 496 5961 
+case Tide.txt 5 96 5194 6819 6898 7381 
+these Tide.txt 23 319 539 1287 1482 1587 1599 1639 2827 3138 4534 4550 5367 5885 6143 6854 7209 7907 8184 8270 8439 8488 8533 8814 
+engineering Tide.txt 2 6014 7473 
+alter Tide.txt 1 3151 
+semi-diurnal Tide.txt 14 241 505 732 744 1125 1157 1743 1880 4009 6154 6178 6201 8649 8699 
+geodetic Tide.txt 1 7864 
+freely Tide.txt 1 3977 
+margin Tide.txt 1 4589 
+orientation Tide.txt 2 3167 4586 
+zenith Tide.txt 2 777 942 
+eventually Tide.txt 2 1081 1795 
+characteristics Tide.txt 3 421 3864 3876 
+strait Tide.txt 10 4288 4291 6355 6392 6467 7019 7039 7267 7297 7311 
+middle Tide.txt 1 7264 
+movements Tide.txt 1 419 
+different Tide.txt 8 1109 1117 4169 4578 5464 6324 6398 8138 
+theorized Tide.txt 2 2113 4140 
+same Tide.txt 15 67 534 818 855 883 3591 3941 4574 4885 4964 5814 6502 6648 6763 7126 
+poincar Tide.txt 1 2820 
+shifts Tide.txt 2 3266 8625 
+epoch Tide.txt 2 1980 6051 
+isle Tide.txt 1 4909 
+current-measuring Tide.txt 1 6750 
+extended Tide.txt 1 5577 
+centuries Tide.txt 1 6128 
+closest Tide.txt 3 1417 3548 5319 
+kelvin Tide.txt 5 2793 2813 2817 4429 5571 
+meteorological Tide.txt 1 7943 
+drives Tide.txt 2 2645 3062 
+bathymetric Tide.txt 1 7898 
+driven Tide.txt 1 2807 
+changing Tide.txt 3 1089 1402 3220 
+modes Tide.txt 1 4926 
+rance Tide.txt 1 7453 
+no Tide.txt 9 104 1597 3108 3254 3317 3411 3602 3845 4553 
+roughly Tide.txt 3 129 1889 8326 
+without Tide.txt 2 1314 6111 
+components Tide.txt 3 5230 5287 6416 
+model Tide.txt 2 144 3889 
+bodies Tide.txt 3 1013 3131 3139 
+being Tide.txt 5 1023 1568 2086 2704 5393 
+when Tide.txt 21 580 936 1100 1188 1254 1272 1413 1424 1827 3224 3245 4260 4621 5312 5323 6022 6575 6596 6605 6749 8355 
+actions Tide.txt 1 8246 
+speed Tide.txt 4 7530 7694 7731 7795 
+multiples Tide.txt 4 5368 5506 5537 8300 
+halfway Tide.txt 1 3622 
+ungava Tide.txt 3 4790 4820 4836 
+grounded Tide.txt 1 2673 
+hint Tide.txt 1 8341 
+rose Tide.txt 1 2738 
+seems Tide.txt 1 4098 
+4 Tide.txt 2 3811 8481 
+extensive Tide.txt 1 2894 
+momentum Tide.txt 1 3722 
+kingdom Tide.txt 2 4861 4900 
+aspects Tide.txt 1 8065 
+around Tide.txt 18 1182 1609 1638 1836 2011 2114 2373 3623 3978 4234 4320 4609 4648 6262 6305 6372 6496 6621 
+decomposed Tide.txt 1 5448 
+sums Tide.txt 1 5614 
+virginia Tide.txt 1 3950 
+early Tide.txt 1 2072 
+using Tide.txt 4 3303 4452 6102 8796 
+0.52 Tide.txt 1 3013 
+babylonian Tide.txt 1 4120 
+meaning Tide.txt 3 1244 1313 8823 
+particle Tide.txt 3 2888 2912 2923 
+epicycles Tide.txt 1 5747 
+velocities Tide.txt 3 6840 6847 7639 
+exploit Tide.txt 1 8183 
+facing Tide.txt 2 116 986 
+either Tide.txt 1 1448 
+reduced Tide.txt 1 3480 
+function Tide.txt 2 2514 5329 
+twelve Tide.txt 1 6529 
+superintendent Tide.txt 1 7860 
+exposed Tide.txt 2 7972 8109 
+competition Tide.txt 1 8223 
+astronomer Tide.txt 1 4121 
+provided Tide.txt 1 2476 
+dimensions Tide.txt 1 4592 
+1850 Tide.txt 1 4515 
+recorded Tide.txt 2 4364 4762 
+fluids Tide.txt 1 8450 
+moon Tide.txt 69 17 138 153 181 209 582 632 796 814 849 878 938 965 971 988 999 1141 1184 1187 1191 1215 1256 1267 1406 1415 1440 1453 2123 2168 2180 2261 2300 2842 2883 2909 3135 3244 3382 3445 3497 3533 3544 3554 3717 3751 3962 4063 4087 4113 4147 4230 4262 4312 4599 4663 4685 4689 5121 5317 5473 5667 5684 5870 6069 6490 6578 6619 6654 8709 
+lunar Tide.txt 23 78 731 743 767 776 804 1291 1371 1504 2446 2831 2949 2978 2982 3042 3908 4187 5460 6093 6207 6651 8328 8632 
+refer Tide.txt 1 8819 
+measuring Tide.txt 1 6745 
+scientific Tide.txt 1 8274 
+power Tide.txt 9 1316 7347 7352 7432 7448 7476 7483 7517 7536 
+sixth Tide.txt 1 8062 
+terawatts Tide.txt 1 3686 
+references Tide.txt 1 8835 
+accommodated Tide.txt 1 7567 
+royale Tide.txt 1 2552 
+leftover Tide.txt 1 7669 
+refers Tide.txt 2 7247 7256 
+comparison Tide.txt 1 3627 
+stations Tide.txt 2 302 4513 
+island Tide.txt 1 1832 
+discussed Tide.txt 2 2185 4297 
+brittany Tide.txt 1 4047 
+practical Tide.txt 1 5238 
+greatly Tide.txt 1 4699 
+act Tide.txt 3 3149 3971 6314 
+mixed Tide.txt 3 265 1124 4022 
+or Tide.txt 36 271 326 459 515 667 750 943 1261 1306 1451 1520 1596 1664 2498 2891 3915 3932 4225 5691 5871 5876 6173 6585 7099 7130 7369 7644 7749 7802 7940 8110 8119 8162 8515 8602 8809 
+variable Tide.txt 1 8170 
+newtons Tide.txt 1 2581 
+non-inertial Tide.txt 1 2488 
+determine Tide.txt 1 5122 
+liaoning Tide.txt 1 1380 
+accumulated Tide.txt 2 2527 5064 
+sloshing Tide.txt 1 2365 
+her Tide.txt 2 2684 2697 
+first/third Tide.txt 1 4687 
+there Tide.txt 15 106 484 1101 1361 3106 3409 3600 3843 4654 4712 5013 5133 5661 6157 7441 
+low Tide.txt 39 63 126 247 260 481 500 511 556 563 568 718 1113 1166 1334 1373 1383 1393 1814 1868 1916 3825 3916 3933 4881 4983 6364 6385 6573 7057 7201 7595 7833 7986 8046 8072 8095 8103 8209 8589 
+stars Tide.txt 1 8729 
+2/12 Tide.txt 2 8055 8061 
+treat Tide.txt 1 6919 
+regard Tide.txt 1 5652 
+with Tide.txt 59 103 135 314 650 967 1108 1146 1447 1458 1566 1629 1689 1811 1897 2079 2612 2699 3146 3257 3420 3446 3809 4339 4523 4938 4953 5160 5251 5269 5651 5724 5760 5769 5808 5893 5907 6255 6662 6725 6906 6958 6991 7054 7062 7102 7429 7589 7760 7806 7877 7892 8180 8216 8224 8372 8463 8617 8707 8710 
+sea-level Tide.txt 2 343 4487 
+circulation Tide.txt 1 2219 
+detailed Tide.txt 4 5027 5046 5073 6112 
+celestial Tide.txt 1 2077 
+ad Tide.txt 2 4322 4367 
+certain Tide.txt 1 618 
+equipotential Tide.txt 6 3068 3085 3156 3222 3248 3279 
+deep Tide.txt 2 217 2593 
+general Tide.txt 2 2218 3847 
+substantially Tide.txt 1 6724 
+as Tide.txt 68 353 412 415 445 672 747 857 1039 1139 1200 1249 1317 1833 2320 2358 2411 2450 2509 2517 2812 2974 2976 3052 3093 3133 3507 3595 3699 3781 3866 3926 3972 3993 4011 4244 4976 5346 5457 5525 5605 5815 5987 6165 6186 6315 6346 6504 6604 6617 6852 6923 6926 6947 6990 7031 7160 7181 7313 7839 8133 8135 8248 8308 8471 8497 8506 8531 8826 
+arises Tide.txt 1 3698 
+at Tide.txt 94 65 87 130 149 196 300 837 842 846 900 1051 1221 1258 1286 1297 1375 1385 1395 1418 1427 1464 1478 1584 1797 1808 1874 1995 2723 2734 2928 2989 3007 3022 3035 3046 3325 3389 3453 3473 3546 3552 3679 3756 3824 3948 4418 4424 4637 4707 4754 4787 5055 5130 5146 5157 5169 5206 5274 5657 5825 5831 5963 6257 6353 6387 6437 6446 6455 6649 6820 6912 6955 6973 7146 7151 7324 7334 7436 7454 7511 7583 7594 7819 7889 7921 7974 8071 8102 8113 8205 8339 8342 8544 8658 
+planets Tide.txt 2 3034 8431 
+moves Tide.txt 4 705 3216 6620 7784 
+cables Tide.txt 1 7853 
+blues Tide.txt 1 1567 
+incorrect Tide.txt 1 2357 
+again Tide.txt 3 841 6567 6674 
+assessing Tide.txt 1 6023 
+waxing Tide.txt 1 6666 
+field Tide.txt 4 387 961 2964 3045 
+valid Tide.txt 1 5555 
+5 Tide.txt 1 3535 
+underwater Tide.txt 2 3867 8118 
+spatial Tide.txt 1 3166 
+forcing Tide.txt 7 918 950 2513 3299 4576 4942 6108 
+polar Tide.txt 2 6886 8688 
+separate Tide.txt 1 6959 
+important Tide.txt 7 2069 7554 7572 7609 8142 8556 8669 
+napier Tide.txt 2 6487 7188 
+483 Tide.txt 1 7881 
+building Tide.txt 2 4447 7370 
+curve Tide.txt 1 8029 
+forganges Tide.txt 1 1319 
+mass Tide.txt 2 2933 8609 
+nelson Tide.txt 3 6471 7152 7328 
+once Tide.txt 7 792 896 899 1809 1927 5281 7623 
+starting Tide.txt 2 2143 4439 
+original Tide.txt 1 5827 
+equinoxes Tide.txt 1 4236 
+all Tide.txt 5 4271 4608 4892 5079 8347 
+vorticity Tide.txt 1 2800 
+consider Tide.txt 3 2524 3125 5856 
+ceases Tide.txt 1 454 
+caused Tide.txt 12 8 169 311 1961 2120 2165 2215 2301 2368 3379 4144 4867 
+month Tide.txt 6 602 1181 5898 6477 7180 8329 
+hatteras Tide.txt 1 2032 
+time-range Tide.txt 1 5549 
+springneap Tide.txt 2 4492 7157 
+follow Tide.txt 2 3187 5247 
+causes Tide.txt 4 1093 3180 3427 3518 
+polarity Tide.txt 1 6665 
+tv Tide.txt 2 28 35 
+release/admit Tide.txt 1 7373 
+to Tide.txt 160 140 286 289 294 323 350 375 470 592 636 671 790 794 826 879 881 941 1002 1027 1033 1073 1076 1207 1213 1441 1443 1706 1872 2194 2285 2363 2378 2408 2443 2505 2531 2583 2624 2682 2768 3092 3102 3150 3169 3177 3195 3207 3239 3297 3339 3367 3395 3460 3463 3481 3617 3666 3723 3892 3936 4048 4058 4083 4090 4099 4103 4108 4133 4175 4182 4185 4202 4316 4372 4390 4457 4472 4532 4597 4646 4730 4949 4988 5140 5166 5202 5211 5217 5236 5246 5284 5320 5334 5400 5429 5462 5494 5585 5640 5653 5699 5705 5743 5754 5822 5925 5950 6009 6088 6138 6277 6282 6322 6363 6517 6592 6611 6631 6667 6686 6694 6705 6732 6813 6918 6970 7249 7257 7416 7524 7610 7631 7723 7735 7742 7901 7911 7991 8001 8147 8178 8214 8268 8296 8420 8480 8484 8508 8512 8575 8579 8590 8613 8631 8665 8750 8779 8787 8793 8820 
+dominated Tide.txt 2 6146 6180 
+crest Tide.txt 1 4623 
+traditionally Tide.txt 1 7804 
+activities Tide.txt 1 8646 
+amplitudes Tide.txt 5 3504 3565 4476 6131 6401 
+puzzled Tide.txt 1 4294 
+very Tide.txt 3 4603 5406 8619 
+tide-raising Tide.txt 1 5608 
+hatching Tide.txt 1 8319 
+fall Tide.txt 2 165 4341 
+difference Tide.txt 5 1160 1967 2901 5838 6670 
+intertidals Tide.txt 1 8242 
+norfolk Tide.txt 2 2027 3949 
+alma Tide.txt 1 54 
+bridgeport Tide.txt 4 6433 6438 6447 6456 
+list Tide.txt 1 7981 
+large Tide.txt 9 2240 2975 4507 5124 8256 8284 8423 8468 8760 
+adjust Tide.txt 1 4473 
+small Tide.txt 6 579 2887 4276 4958 8427 8521 
+study Tide.txt 3 5557 8090 8124 
+ten Tide.txt 1 7100 
+sinusoid Tide.txt 1 5741 
+zero Tide.txt 4 1820 1873 5354 7064 
+timescales Tide.txt 1 282 
+quebec Tide.txt 1 4794 
+pneuma Tide.txt 1 4158 
+further Tide.txt 9 2282 2821 3661 5857 6419 6516 7135 8082 8836 
+clock Tide.txt 1 1895 
+sun Tide.txt 26 19 122 184 207 634 1148 1190 1209 1265 1516 2196 2375 2953 3137 3425 3494 3538 3542 4085 4204 4601 5119 5315 5674 5873 6580 
+sum Tide.txt 1 5836 
+crust Tide.txt 3 8458 8621 8624 
+brief Tide.txt 1 7541 
+abu Tide.txt 2 2148 2183 
+method Tide.txt 1 5094 
+contrast Tide.txt 1 693 
+movement Tide.txt 5 684 2372 2385 3696 5954 
+full Tide.txt 7 1186 1436 1439 1444 1452 4229 8408 
+component Tide.txt 4 2640 5127 5136 5260 
+hours Tide.txt 20 285 759 873 924 1674 1930 3452 3610 3773 3959 4416 5644 6152 6163 7084 7092 7101 8044 8412 8716 
+operating Tide.txt 1 7513 
+directions Tide.txt 4 6784 6905 6911 8394 
+november Tide.txt 2 4752 7207 
+strong Tide.txt 3 3141 4283 7059 
+equations Tide.txt 6 2656 2762 2783 2796 3284 3307 
+naval Tide.txt 1 7611 
+ahead Tide.txt 1 2025 
+1840 Tide.txt 1 4560 
+collates Tide.txt 1 4212 
+experience Tide.txt 8 239 253 3707 8167 8388 8426 8433 8476 
+bulges Tide.txt 3 112 148 3070 
+periodic Tide.txt 1 3 
+published Tide.txt 4 2431 2848 8003 8016 
+action Tide.txt 1 3064 
+mentions Tide.txt 1 4310 
+narrow Tide.txt 1 4951 
+via Tide.txt 2 434 5043 
+wallingford Tide.txt 1 4395 
+pliny Tide.txt 2 4209 4238 
+environment Tide.txt 2 8132 8174 
+proceed Tide.txt 2 433 6901 
+perigean Tide.txt 2 1455 5309 
+distinct Tide.txt 1 8199 
+two Tide.txt 33 146 506 510 523 555 1012 1103 1112 1529 2083 2334 3067 3073 3457 3955 4680 5016 5356 5783 5804 5841 5849 6473 6539 6545 6588 6598 7022 7307 7321 7359 8446 8715 
+al-bitruji Tide.txt 1 2204 
+taken Tide.txt 1 4642 
+brunswick Tide.txt 1 56 
+more Tide.txt 15 698 868 1030 2037 2098 2641 2979 3812 5188 5432 6684 6692 6859 7131 8555 
+presumes Tide.txt 1 8035 
+waterways Tide.txt 1 6753 
+surprisingly Tide.txt 1 6774 
+varying Tide.txt 3 3512 5328 5723 
+known Tide.txt 8 444 746 1199 2811 3051 4384 4486 5229 
+nineteen Tide.txt 1 6062 
+hour Tide.txt 10 835 902 1553 1899 2024 5638 6243 7659 7680 8052 
+der Tide.txt 1 2230 
+des Tide.txt 1 2553 
+malo Tide.txt 1 7456 
+remain Tide.txt 1 2871 
+history Tide.txt 2 2060 4027 
+immersed Tide.txt 1 8120 
+synchronized Tide.txt 1 1622 
+stated Tide.txt 1 4729 
+sphere Tide.txt 1 2588 
+minimum Tide.txt 2 1299 7949 
+numbers Tide.txt 1 6925 
+sense Tide.txt 2 710 6503 
+upriver Tide.txt 1 4423 
+species Tide.txt 5 8139 8204 8212 8226 8251 
+axis Tide.txt 5 863 1496 2614 2988 3006 
+terrestrial Tide.txt 3 3764 8603 8647 
+influenced Tide.txt 4 201 2538 7299 8694 
+1056 Tide.txt 1 4366 
+rather Tide.txt 2 2515 8782 
+5.9 Tide.txt 1 8662 
+acts Tide.txt 1 8611 
+dismissed Tide.txt 1 2238 
+maps Tide.txt 2 1714 4535 
+influences Tide.txt 3 613 4700 6590 
+centimeters Tide.txt 1 691 
+explains Tide.txt 1 3066 
+41139s Tide.txt 1 7240 
+ft Tide.txt 4 4770 4780 4809 4819 
+derived Tide.txt 3 2322 7221 8012 
+orbits Tide.txt 5 815 850 3488 5485 5711 
+sophistication Tide.txt 1 4074 
+plane Tide.txt 3 1501 4267 5879 
+waves Tide.txt 11 313 1531 1636 2810 2814 3355 4605 8371 8376 8761 8770 
+hoursa Tide.txt 1 6532 
+pleaded Tide.txt 1 2252 
+derives Tide.txt 1 1241 
+response Tide.txt 8 1032 2530 2536 3296 3665 5205 5283 8630 
+a Tide.txt 179 136 157 240 254 264 269 290 385 527 601 656 716 765 831 870 974 990 1018 1123 1171 1175 1180 1195 1197 1201 1251 1364 1449 1517 1573 1621 1667 1679 1769 1780 1785 1798 1879 1894 1975 1991 2239 2470 2487 2518 2558 2586 2591 2600 2605 2609 2718 2729 2757 2880 2886 3113 3164 3271 3357 3406 3447 3464 3508 3519 3586 3612 3632 3727 3782 3902 3957 3994 4221 4449 4453 4524 4628 4656 4708 4763 4772 4802 4811 4863 4992 4996 5018 5026 5044 5056 5123 5135 5181 5190 5196 5223 5252 5326 5338 5347 5363 5438 5497 5526 5625 5669 5716 5719 5735 5738 5759 5761 5768 5797 5863 5894 5897 5908 5976 5988 6027 6044 6316 6397 6427 6442 6451 6460 6508 6548 6668 6696 6700 6706 6710 6714 6717 6737 6754 6758 6821 6881 6885 6931 6934 6948 7093 7134 7330 7362 7366 7376 7520 7580 7645 7657 7704 7724 7745 7761 7765 7771 7807 7810 7855 7912 8068 8100 8168 8211 8327 8350 8407 8614 8618 8711 8827 8831 
+forth-going Tide.txt 1 1321 
+shore Tide.txt 2 8101 8161 
+negligible Tide.txt 2 8543 8642 
+fundamental Tide.txt 6 5365 5374 5454 5509 5515 5532 
+egg Tide.txt 1 8318 
+gauges Tide.txt 2 299 308 
+developed Tide.txt 2 2822 2846 
+installed Tide.txt 1 7444 
+thermal Tide.txt 1 8564 
+through Tide.txt 7 2140 4285 7017 7128 7206 7295 7375 
+existence Tide.txt 2 2081 4540 
+turbine Tide.txt 2 7364 7377 
+its Tide.txt 25 703 754 862 1222 1298 1465 1528 2499 2769 2963 3724 3743 4738 4742 4902 5442 5535 6245 6494 6622 6767 7280 8219 8228 8460 
+24 Tide.txt 3 872 6162 7670 
+25 Tide.txt 2 926 3436 
+21 Tide.txt 1 3387 
+22 Tide.txt 1 8656 
+termed Tide.txt 1 5380 
+inward Tide.txt 1 1792 
+29 Tide.txt 1 3482 
+harmonies Tide.txt 1 5504 
+systems Tide.txt 5 222 383 2337 7445 7484 
+isaac Tide.txt 2 2401 5001 
+might Tide.txt 3 6900 7096 7115 
+deformation Tide.txt 1 3162 
+new/full Tide.txt 1 4684 
+evening Tide.txt 1 2753 
+return Tide.txt 1 880 
+severely Tide.txt 1 5545 
+food Tide.txt 1 8236 
+humans Tide.txt 2 8231 8321 
+sunearth Tide.txt 1 3005 
+compound Tide.txt 2 1518 5798 
+communities Tide.txt 1 8265 
+suffice Tide.txt 1 8025 
+separately Tide.txt 1 7196 
+easily Tide.txt 2 413 8187 
+hereafter Tide.txt 2 2884 2897 
+fully Tide.txt 1 6428 
+presented Tide.txt 1 6946 
+semiannual Tide.txt 1 6177 
+inequality Tide.txt 2 538 572 
+boisterous Tide.txt 1 7109 
+found Tide.txt 3 4891 5295 7161 
+ports Tide.txt 2 4508 8019 
+referred Tide.txt 2 670 3091 
+another Tide.txt 3 5740 6837 7665 
+years-old Tide.txt 1 7223 
+generation Tide.txt 5 7348 7449 7485 7497 7537 
+energy Tide.txt 2 7354 7383 
+idea Tide.txt 1 2255 
+16421727 Tide.txt 1 2403 
+measurement Tide.txt 4 4558 4800 5965 5998 
+portland Tide.txt 2 4878 4913 
+dominates Tide.txt 1 1658 
+since Tide.txt 6 3096 3486 5600 5851 6001 7515 
+research Tide.txt 2 2283 8275 
+safety Tide.txt 1 5989 
+7 Tide.txt 2 1433 2739 
+denoted Tide.txt 1 1669 
+induced Tide.txt 1 8494 
+issue Tide.txt 1 7255 
+occurs Tide.txt 6 128 476 688 1826 3231 3953 
+risen Tide.txt 1 3281 
+reason Tide.txt 2 4886 4965 
+astronomiam Tide.txt 1 2157 
+coastline Tide.txt 6 231 1786 3321 3870 5085 6181 
+generate Tide.txt 2 4602 8369 
+lag Tide.txt 1 8712 
+pairs Tide.txt 1 6903 
+tsunamis Tide.txt 1 8758 
+e.g Tide.txt 2 4216 7150 
+reinforces Tide.txt 1 1210 
+noted Tide.txt 2 4160 4239 
+w Tide.txt 1 2835 
+knots Tide.txt 1 7697 
+major Tide.txt 4 2613 2774 6159 8018 
+relate Tide.txt 1 7717 
+number Tide.txt 7 291 2241 5125 5225 5583 5918 6702 
+feet Tide.txt 5 2740 2748 6559 6565 7830 
+elder Tide.txt 1 4211 
+done Tide.txt 1 6101 
+construct Tide.txt 1 7417 
+rond Tide.txt 1 2652 
+harbours Tide.txt 1 7578 
+passes Tide.txt 2 2018 3963 
+differ Tide.txt 4 493 3566 3887 6212 
+coasts Tide.txt 3 369 1850 4015 
+least Tide.txt 2 1569 8340 
+180 Tide.txt 1 6371 
+storm Tide.txt 2 361 8803 
+molecular Tide.txt 1 8585 
+too Tide.txt 1 8588 
+passed Tide.txt 1 893 
+relationship Tide.txt 2 3906 4082 
+trapped Tide.txt 2 2809 3354 
+terawhiti Tide.txt 2 7246 7261 
+part Tide.txt 2 400 6470 
+translation Tide.txt 1 2142 
+determines Tide.txt 2 952 8218 
+dam Tide.txt 1 6317 
+double Tide.txt 2 4864 4880 
+determined Tide.txt 3 5060 6788 7387 
+toward Tide.txt 3 117 2616 3349 
+laplaces Tide.txt 3 2795 2823 3282 
+886 Tide.txt 1 2152 
+organisations Tide.txt 1 5974 
+wellington Tide.txt 4 6485 7186 7258 7338 
+1:05 Tide.txt 1 844 
+1:00 Tide.txt 1 847 
+option Tide.txt 1 8264 
+lie Tide.txt 1 4827 
+u.s Tide.txt 6 125 1392 1399 3951 4003 6054 
+depending Tide.txt 1 4580 
+self Tide.txt 1 3655 
+officers Tide.txt 1 7612 
+also Tide.txt 25 108 277 348 725 745 1115 1409 1685 2053 2176 2292 2523 3578 3671 4651 4960 5722 5830 5866 5891 5948 6735 7571 7960 8834 
+internal Tide.txt 2 8370 8379 
+superior Tide.txt 1 8472 
+province Tide.txt 1 1381 
+added Tide.txt 3 3362 5402 5824 
+reach Tide.txt 3 1082 3559 8652 
+chart Tide.txt 10 4527 5000 7228 7655 7686 7706 7722 7759 7913 7965 
+depths Tide.txt 2 3286 7908 
+most Tide.txt 14 150 735 1466 1479 1560 1660 4905 6743 6940 7450 7501 7710 8141 8644 
+75 Tide.txt 1 8580 
+impacting Tide.txt 1 614 
+experiences Tide.txt 1 3270 
+significant Tide.txt 5 3659 4940 5208 7558 7590 
+70 Tide.txt 1 3796 
+overtide Tide.txt 1 1521 
+measured Tide.txt 6 1686 1749 1994 5179 5642 7212 
+79 Tide.txt 1 3468 
+southampton Tide.txt 1 4857 
+clear Tide.txt 4 2270 2698 5795 5902 
+antipodal Tide.txt 1 91 
+coincides Tide.txt 1 1446 
+waning Tide.txt 1 6673 
+organise Tide.txt 1 5586 
+1687 Tide.txt 1 2435 
+velocity Tide.txt 1 3745 
+coincided Tide.txt 1 4338 
+physics Tide.txt 3 2051 2063 2067 
+thomas Tide.txt 1 2844 
+particularly Tide.txt 2 1037 7029 
+phenomenon Tide.txt 1 4128 
+converge Tide.txt 1 1581 
+disputed Tide.txt 1 2393 
+heavens Tide.txt 1 2222 
+indicator Tide.txt 2 7813 7846 
+northern Tide.txt 3 1957 4793 6269 
+failed Tide.txt 1 2690 
+factor Tide.txt 1 5990 
+heliocentrism Tide.txt 1 2075 
+his Tide.txt 10 2154 2226 2329 2389 2421 2438 2869 4135 4247 7633 
+triangle Tide.txt 1 7811 
+notation Tide.txt 1 5584 
+tideonly Tide.txt 1 256 
+famous Tide.txt 1 4375 
+closely Tide.txt 1 3081 
+compass Tide.txt 1 4032 
+combinations Tide.txt 2 5465 5905 
+during Tide.txt 7 888 6441 6450 6459 7533 7872 7953 
+exhibiting Tide.txt 1 8074 
+continuum Tide.txt 1 8441 
+common Tide.txt 3 1799 7155 8344 
+x Tide.txt 1 5790 
+naturalis Tide.txt 1 4206 
+river Tide.txt 3 2712 4381 7815 
+seven-day Tide.txt 1 1365 
+set Tide.txt 2 5349 5386 
+equinox Tide.txt 1 6652 
+locale Tide.txt 1 199 
+vertebrates Tide.txt 1 8310 
+see Tide.txt 9 32 40 235 425 724 2052 3670 4373 8833 
+individual Tide.txt 1 3874 
+are Tide.txt 92 161 200 321 336 347 372 443 485 503 530 540 560 607 658 669 1102 1268 1330 1337 1548 1559 1602 1699 1704 1748 1857 2036 2784 3107 3204 3287 3501 3657 4220 4232 4679 4713 4947 5177 5244 5302 5318 5353 5369 5405 5412 5447 5505 5821 5834 6144 6158 6170 6196 6375 6541 6581 6600 6646 6779 6841 6855 7040 7210 7216 7298 7414 7421 7442 7540 7553 7565 7570 7909 7930 7946 7967 8156 8262 8377 8440 8535 8542 8560 8568 8693 8703 8721 8748 8766 8800 8816 
+sea Tide.txt 11 6 167 332 345 1097 4571 4676 4930 4934 4972 6190 
+close Tide.txt 2 4948 6610 
+2.1 Tide.txt 1 2741 
+geologic Tide.txt 1 3748 
+2.7 Tide.txt 1 2749 
+contour Tide.txt 3 713 1707 7899 
+analog Tide.txt 1 3366 
+unrelated Tide.txt 1 8792 
+gravitation Tide.txt 4 2297 2442 5006 8635 
+spirits Tide.txt 1 4317 
+misnomers Tide.txt 1 8757 
+various Tide.txt 1 8464 
+orbiting Tide.txt 1 8735 
+conditions Tide.txt 6 1360 3315 5952 7007 7111 8185 
+europe Tide.txt 2 2172 4319 
+latin Tide.txt 1 2141 
+both Tide.txt 9 2726 3540 3658 5313 6713 6719 6930 8561 8690 
+c Tide.txt 1 7817 
+last Tide.txt 3 3776 6003 7097 
+reverse Tide.txt 3 7088 7104 7113 
+became Tide.txt 1 2138 
+whole Tide.txt 2 2493 5853 
+soundings Tide.txt 2 4567 7893 
+point Tide.txt 14 1054 1790 1800 1803 1806 1877 1884 1926 2014 3392 4711 5999 6509 7478 
+simple Tide.txt 8 142 797 3846 5776 5817 5931 6701 6818 
+corresponds Tide.txt 1 3394 
+harbour Tide.txt 4 3818 5956 6975 7346 
+simply Tide.txt 1 7466 
+expensive Tide.txt 1 7415 
+complication Tide.txt 1 7136 
+described Tide.txt 6 2480 4126 4250 4326 4346 8505 
+raise Tide.txt 1 3642 
+monthly Tide.txt 1 6175 
+dams Tide.txt 1 7413 
+neaps Tide.txt 5 1131 1307 1355 1370 4672 
+due Tide.txt 9 288 1206 1212 3891 4596 4987 5704 6731 8664 
+johannes Tide.txt 1 2290 
+ecologists Tide.txt 1 8122 
+galilei Tide.txt 1 2327 
+amphidromes Tide.txt 2 4542 6374 
+dialogue Tide.txt 2 2331 2342 
+shoals Tide.txt 1 8417 
+systematic Tide.txt 1 4433 
+amphidrome Tide.txt 1 4994 
+classifications Tide.txt 1 8155 
+solid Tide.txt 4 399 686 1015 8457 
+qiantang Tide.txt 1 4380 
+while Tide.txt 10 334 2998 3472 4016 4850 7251 7275 7495 8222 8641 
+reliably Tide.txt 2 2043 7489 
+pack Tide.txt 1 4841 
+computed Tide.txt 1 7791 
+real Tide.txt 1 3564 
+larger Tide.txt 1 8524 
+century Tide.txt 3 2147 2203 4117 
+rip Tide.txt 2 7287 8801 
+timings Tide.txt 2 7248 7637 
+currents Tide.txt 10 439 1352 3089 4284 6359 7060 7294 7398 8358 8391 
+albans Tide.txt 1 4401 
+shorter Tide.txt 3 316 1346 3808 
+9 Tide.txt 1 2747 
+survey Tide.txt 1 7865 
+relatively Tide.txt 3 3922 4275 5395 
+higher Tide.txt 5 542 562 1331 6560 7941 
+development Tide.txt 2 2073 2854 
+calculation Tide.txt 2 6418 6431 
+used Tide.txt 6 2437 2580 4480 6137 6412 7932 
+paths Tide.txt 2 4614 5404 
+flows Tide.txt 9 3334 3343 3702 3705 6778 6867 6922 7078 7552 
+moment Tide.txt 2 449 929 
+levels Tide.txt 4 7 168 346 7486 
+moving Tide.txt 5 1846 3335 3344 3976 6492 
+lower Tide.txt 9 547 567 1338 3644 6554 6568 7512 7939 8229 
+analysis Tide.txt 15 4435 4995 5097 5215 5341 5382 5418 5490 5563 6042 6098 6810 6815 6850 6899 
+person Tide.txt 1 2407 
+edge Tide.txt 2 4748 4834 
+b.c Tide.txt 1 2116 
+distances Tide.txt 3 3516 4829 6730 
+endeavour Tide.txt 2 2672 2711 
+hypothesized Tide.txt 1 4538 
+shape Tide.txt 15 228 1509 1778 3153 3179 3828 3871 4739 5077 5086 5480 5708 6793 6798 7906 
+intervals Tide.txt 1 6957 
+world Tide.txt 2 2336 4173 
+overtopped Tide.txt 1 6017 
+alternative Tide.txt 1 6916 
+alignment Tide.txt 1 204 
+tables Tide.txt 4 552 6123 6960 7980 
+loading Tide.txt 1 8640 
+extracted Tide.txt 1 7357 
+alternate Tide.txt 1 6550 
+source Tide.txt 1 340 
+location Tide.txt 8 884 3875 3904 5058 5482 5864 5982 6823 
+euler Tide.txt 2 2570 2633 
+australia Tide.txt 1 4982 
+march Tide.txt 1 4785 
+showing Tide.txt 2 83 7866 
+forcings Tide.txt 1 5051 
+integer Tide.txt 1 5536 
+bit Tide.txt 2 1019 6533 
+ponds Tide.txt 2 7371 7431 
+modifications Tide.txt 1 8465 
+rotate Tide.txt 3 791 6261 6514 
+d Tide.txt 3 2150 2174 2205 
+follows Tide.txt 5 1763 5092 5606 7153 7343 
+shapes Tide.txt 1 3984 
+collect Tide.txt 1 6695 
+arthur Tide.txt 1 2843 
+almanach Tide.txt 2 4029 4052 
+spins Tide.txt 1 822 
+mathematical Tide.txt 1 6116 
+ecology Tide.txt 3 8067 8081 8087 
+often Tide.txt 3 4728 6780 8172 
+spring Tide.txt 17 30 33 1228 1253 1323 1456 2275 3454 4106 4218 5310 6474 6594 6962 7322 7332 7699 
+some Tide.txt 8 237 2867 4714 5728 5981 6183 6974 7496 
+metres Tide.txt 4 4768 4778 4807 4817 
+strongest Tide.txt 2 916 5228 
+towards Tide.txt 1 3336 
+examples Tide.txt 1 8314 
+oscillations Tide.txt 1 3676 
+3.8 Tide.txt 1 3758 
+gradually Tide.txt 1 3719 
+describing Tide.txt 2 2805 2837 
+affects Tide.txt 2 1410 8453 
+measurements Tide.txt 5 4749 4782 7224 8675 8679 
+per Tide.txt 6 520 1691 3814 5637 6476 7179 
+connecting Tide.txt 1 1010 
+tends Tide.txt 1 1001 
+inclination Tide.txt 1 1498 
+inserting Tide.txt 1 7361 
+be Tide.txt 36 109 471 1886 2041 2286 2919 3301 3361 3400 4100 4391 4986 5041 5212 5267 5279 5401 5430 5544 5554 5823 6016 6100 6136 6411 6987 7116 7315 7356 7400 7434 7488 7938 7961 8011 8490 
+bc Tide.txt 2 4096 4118 
+lose Tide.txt 1 7509 
+lakes Tide.txt 3 8424 8469 8534 
+step Tide.txt 2 3419 5697 
+lasts Tide.txt 1 8325 
+tidal Tide.txt 139 43 147 370 418 446 452 518 603 605 615 676 728 752 766 917 1035 1049 1085 1090 1154 1204 1280 1351 1359 1461 1474 1537 1625 1656 1682 1692 1697 1737 1771 1821 1842 2034 2054 2062 2066 2390 2506 2529 2597 2637 2655 2782 2865 2876 2970 2983 3001 3063 3069 3183 3202 3221 3226 3247 3283 3298 3306 3503 3523 3667 3672 3675 3695 3701 3711 3898 3991 3996 4055 4067 4214 4376 4437 4575 4594 4876 5030 5142 5220 5234 5249 5445 5860 5934 6049 6059 6095 6122 6358 6394 6463 6697 6814 6882 6921 6978 7015 7065 7075 7173 7219 7230 7269 7277 7302 7351 7353 7367 7392 7447 7475 7504 7549 7551 7568 7606 7635 7646 7676 7685 7714 7727 7737 7794 7812 7955 8014 8281 8335 8357 8373 8390 8723 8769 
+relating Tide.txt 1 2763 
+by Tide.txt 66 9 170 179 202 210 219 312 406 441 596 689 706 963 1270 1542 1551 1670 1784 1819 1962 2088 2100 2121 2166 2216 2369 2539 2590 2879 2907 3083 3380 3626 3693 3770 4145 4156 4467 4514 4557 4561 4868 5061 5102 5214 5325 5561 5566 5613 5734 6030 6147 6241 6348 6789 7300 7358 7388 7792 7841 7849 8492 8551 8695 8726 8776 
+analysing Tide.txt 1 5090 
+exaggerated Tide.txt 1 84 
+range Tide.txt 11 1127 1155 1158 1218 1295 1421 1430 1462 4259 4765 4804 
+involving Tide.txt 1 5800 
+lieutenants Tide.txt 1 7618 
+obstruct Tide.txt 1 7406 
+minutesfor Tide.txt 1 876 
+into Tide.txt 5 1729 2065 5449 7365 8198 
+within Tide.txt 1 8730 
+primarily Tide.txt 3 2130 4368 6197 
+proportional Tide.txt 3 3194 3206 7523 
+ellipse Tide.txt 1 6879 
+uncertainties Tide.txt 1 5993 
+madagascar Tide.txt 1 1841 
+ptolemy Tide.txt 1 2317 
+behaviour Tide.txt 3 5392 6979 7342 
+extremely Tide.txt 1 4957 
+long Tide.txt 6 673 1745 3613 4604 5186 6086 
+suit Tide.txt 1 5390 
+philostratus Tide.txt 2 4296 4309 
+considerably Tide.txt 1 3567 
+12.4206 Tide.txt 1 6531 
+elsewhere Tide.txt 1 4975 
+inches Tide.txt 3 1477 8510 8517 
+compressible Tide.txt 1 701 
+hoped Tide.txt 1 2377 
+atlantic Tide.txt 4 2004 2048 4014 4955 
+reef Tide.txt 1 2678 
+line Tide.txt 8 1009 1196 1910 1919 6239 6583 7772 7789 
+directed Tide.txt 1 2615 
+coastally Tide.txt 2 2808 3353 
+us Tide.txt 1 7543 
+diagrams Tide.txt 1 4056 
+continuously Tide.txt 1 6770 
+fluctuations Tide.txt 1 344 
+similar Tide.txt 9 2732 4477 4781 4796 4828 5742 6812 6981 8312 
+basin-scale Tide.txt 1 3700 
+sometimes Tide.txt 1 8767 
+constant Tide.txt 8 101 1696 1710 1860 3791 3923 5253 5720 
+subtracting Tide.txt 1 6031 
+flow Tide.txt 27 2767 3318 3899 6681 6711 6755 6764 6785 6806 6826 6835 6873 6937 6951 6996 7016 7122 7140 7521 7529 7636 7677 7693 7728 8363 8401 8405 
+influence Tide.txt 1 6678 
+u.s.a Tide.txt 4 6435 6440 6449 6458 
+3/12 Tide.txt 2 8057 8059 
+single Tide.txt 5 1770 2601 5439 5498 7658 
+nautical Tide.txt 4 6944 7227 7711 7882 
+1897 Tide.txt 2 7818 7879 
+east/west Tide.txt 1 8627 
+draw Tide.txt 1 7770 
+venerable Tide.txt 1 4324 
+calculating Tide.txt 1 7605 
+nineteen-year Tide.txt 1 6045 
+william Tide.txt 5 2789 4426 4516 5103 5568 
+drag Tide.txt 1 3712 
+seabed Tide.txt 1 7973 
+allowing Tide.txt 2 3352 4798 
+sides Tide.txt 4 115 6330 7049 7172 
+shorelines Tide.txt 1 238 
+ago Tide.txt 1 3799 
+furthest Tide.txt 2 3241 4264 
+land Tide.txt 3 105 3603 3966 
+e Tide.txt 1 2834 
+age Tide.txt 2 4060 4695 
+required Tide.txt 1 786 
+turbines Tide.txt 2 7404 7508 
+orbit Tide.txt 6 1505 1513 3423 3725 6495 6623 
+2002 Tide.txt 1 4786 
+depth Tide.txt 11 102 2541 3408 3572 6726 7888 7952 7996 8000 8006 8040 
+thames Tide.txt 2 4420 4504 
+2007 Tide.txt 1 7208 
+2004 Tide.txt 1 7254 
+far Tide.txt 2 6988 7440 
+international Tide.txt 1 5597 
+having Tide.txt 5 2321 4256 5350 5452 5529 
+evenly Tide.txt 1 2490 
+essay Tide.txt 1 2564 
+partial Tide.txt 1 2760 
+results Tide.txt 3 1522 4579 5071 
+incommensurable Tide.txt 1 5892 
+doodson Tide.txt 6 2845 2862 5576 5582 5917 6425 
+issues Tide.txt 1 7465 
+simon Tide.txt 1 2223 
+baron Tide.txt 1 2792 
+contours Tide.txt 1 1858 
+atlas Tide.txt 1 7648 
+include Tide.txt 6 624 1483 2663 5945 6089 8315 
+indicating Tide.txt 2 1594 1620 
+continues Tide.txt 1 7123 
+wave Tide.txt 4 3580 3616 4626 4645 
+categories Tide.txt 2 8840 8842 
+entire Tide.txt 3 680 4491 8607 
+recreation Tide.txt 1 8238 
+harbor Tide.txt 3 1397 2021 2028 
+positions Tide.txt 2 3549 6073 
+colors Tide.txt 1 1555 
+originally Tide.txt 1 2314 
+obliquity Tide.txt 1 1488 
+smaller Tide.txt 3 110 3289 6643 
+mediterranean Tide.txt 2 4279 4929 
+rivers Tide.txt 1 7576 
+jump Tide.txt 1 1245 
+imply Tide.txt 1 3794 
+enclosed Tide.txt 1 1783 
+dynamics Tide.txt 1 8571 
+hourly Tide.txt 1 6956 
+unavailable Tide.txt 1 7401 
+tetrabiblos Tide.txt 1 2319 
+flowing Tide.txt 1 8392 
+body Tide.txt 5 2603 2619 2895 3172 4591 
+shoreline Tide.txt 1 3831 
+respectively Tide.txt 1 908 
+following Tide.txt 4 436 2687 3311 4612 
+separation Tide.txt 1 3732 
+others Tide.txt 3 2459 2815 7056 
+extreme Tide.txt 5 1561 1570 4715 4775 4814 
+great Tide.txt 1 2676 
+38 Tide.txt 1 8513 
+parameters Tide.txt 1 7220 
+tyana Tide.txt 1 4308 
+involved Tide.txt 1 2182 
+31 Tide.txt 1 3470 
+30 Tide.txt 1 3609 
+37 Tide.txt 1 3562 
+alaska Tide.txt 1 6278 
+resulting Tide.txt 5 359 2353 5590 6130 7341 
+submerged Tide.txt 1 7904 
+named Tide.txt 1 1233 
+formulated Tide.txt 1 2756 
+offset Tide.txt 1 5650 
+mariners Tide.txt 1 6747 
+nantucket Tide.txt 1 8416 
+decrease Tide.txt 1 1871 
+oval Tide.txt 1 2611 
+apply Tide.txt 1 8267 
+clockwise Tide.txt 3 1648 1948 6296 
+cloud Tide.txt 1 8747 
+strabo Tide.txt 2 4176 4249 
+use Tide.txt 5 2787 2873 5436 7896 8232 
+from Tide.txt 51 120 284 495 588 778 969 1242 1274 1438 1523 1632 1725 1750 1754 1848 1940 1971 2144 2323 2466 2960 3242 3346 3753 3856 3888 4046 4064 4265 4565 4744 4830 5960 5995 6035 6244 6273 6280 6384 6626 7218 7222 7289 7463 7519 7592 7751 7773 8013 8349 8572 
+stream Tide.txt 1 7647 
+certificate Tide.txt 1 7614 
+sunearthmoon Tide.txt 1 6584 
+next Tide.txt 2 780 5696 
+few Tide.txt 3 4222 5396 7443 
+examination Tide.txt 1 7616 
+simpler Tide.txt 1 5519 
+historically Tide.txt 1 7934 
+on Tide.txt 69 113 281 526 830 861 980 994 1055 1149 1576 1712 1990 2045 2132 2197 2343 2565 2631 2674 2685 2826 2885 2890 2910 2921 2938 2942 2955 3111 3158 3232 3715 3738 3803 3897 3939 4197 4331 4342 4405 4498 4581 4667 4721 5108 5151 5862 5867 6297 6326 6336 6342 6423 6481 6510 6679 6884 6943 7000 7034 7182 7683 7720 7739 7963 8158 8286 8728 8741 
+becomes Tide.txt 2 6642 8587 
+opposing Tide.txt 1 6601 
+rare Tide.txt 1 1824 
+darwin Tide.txt 1 5574 
+animals Tide.txt 2 8306 8348 
+this Tide.txt 32 409 801 823 889 1224 1300 1468 1577 1758 1944 3056 3161 3178 3517 3690 3710 3792 4272 4690 4921 5592 6097 6293 6309 6366 6897 7788 7797 8033 8302 8518 8772 
+thin Tide.txt 2 8456 8620 
+of Tide.txt 275 5 15 23 60 72 76 80 97 100 145 166 174 188 194 205 213 223 229 292 341 401 423 490 497 599 611 620 630 652 664 685 711 715 904 915 930 948 983 1047 1116 1134 1137 1476 1490 1499 1502 1510 1514 1527 1586 1616 1666 1695 1709 1779 1859 1888 1893 1905 1934 1968 1974 2026 2030 2058 2061 2074 2082 2103 2111 2126 2134 2188 2220 2234 2242 2259 2298 2349 2366 2382 2388 2398 2414 2418 2423 2440 2453 2469 2599 2709 2720 2759 2799 2833 2840 2855 2868 2932 3031 3128 3154 3198 3210 3218 3235 3263 3376 3429 3441 3443 3450 3467 3489 3510 3528 3571 3589 3593 3635 3647 3683 3689 3806 3819 3829 3853 3913 3930 3990 4030 4034 4040 4053 4061 4111 4123 4129 4171 4193 4208 4268 4278 4292 4302 4305 4307 4334 4350 4393 4399 4436 4448 4455 4489 4541 4552 4624 4634 4661 4719 4725 4737 4760 4766 4776 4805 4815 4825 4840 4853 4897 4910 4927 4969 4973 4981 4991 5005 5011 5029 5048 5075 5078 5095 5115 5118 5126 5137 5149 5172 5183 5195 5226 5231 5288 5340 5362 5372 5387 5419 5437 5466 5469 5483 5496 5507 5513 5517 5558 5589 5615 5621 5678 5709 5715 5748 5766 5782 5803 5839 5843 5880 5911 5929 6026 6081 6106 6114 6194 6223 6390 6400 6628 6633 6720 6889 6904 6950 7025 7037 7044 7166 7191 7244 7265 7309 7319 7502 7527 7548 7600 7615 7843 7851 7858 7861 7869 7897 7970 8022 8091 8150 8202 8301 8333 8346 8478 8682 8691 8713 8754 8813 8824 8829 
+meet Tide.txt 2 1796 4546 
+proof Tide.txt 1 2381 
+weaker Tide.txt 2 992 2967 
+sandbank Tide.txt 1 5953 
+links Tide.txt 1 8839 
+process Tide.txt 1 5378 
+0.5 Tide.txt 1 8507 
+high Tide.txt 55 45 49 52 85 133 137 245 258 273 478 498 507 524 543 548 956 1104 1164 1327 1676 1715 1751 1812 1866 1907 1920 2016 3075 3229 3854 3881 3914 3931 3946 4035 4351 4406 4635 4865 5692 6362 6381 6546 6555 6561 6569 6639 6971 7050 7198 7535 7662 7984 8048 8114 
+slip Tide.txt 1 3324 
+dominant Tide.txt 1 8570 
+united Tide.txt 2 4860 4899 
+varied Tide.txt 2 3983 4163 
+protect Tide.txt 1 8269 
+six Tide.txt 4 4460 7083 7091 8043 
+delay Tide.txt 2 4657 5257 
+located Tide.txt 2 2889 2927 
+varies Tide.txt 3 389 1173 6769 
+adapted Tide.txt 1 8177 
+elliptical Tide.txt 3 1508 3502 5707 
+instead Tide.txt 3 6871 6888 7215 
+circular Tide.txt 2 1781 5408 
+y Tide.txt 1 5792 
+highs Tide.txt 1 1563 
+coast Tide.txt 14 1727 1742 3942 4006 4019 4045 4333 4356 4585 4724 4896 4980 6345 7863 
+realized Tide.txt 1 2634 
+anthropogenic Tide.txt 1 8245 
+lines Tide.txt 21 1547 1580 1694 1702 1708 1723 1734 1789 1856 1937 1943 2008 2050 4521 4545 6250 6260 6370 6895 7900 8098 
+mid-ocean Tide.txt 1 4549 
+non-tidal Tide.txt 1 8537 
+astronomical Tide.txt 18 2419 4941 5050 5062 5113 5233 5262 5290 5305 5655 5914 5941 5978 6033 7001 7925 7977 8677 
+move Tide.txt 2 1028 1637 
+produced Tide.txt 2 440 2878 
+whilst Tide.txt 1 2701 
+including Tide.txt 2 2816 4584 
+graph Tide.txt 1 7190 
+mentioned Tide.txt 1 2315 
+freezes Tide.txt 1 4856 
+write Tide.txt 1 2625 
+le Tide.txt 1 2651 
+outer Tide.txt 1 722 
+la Tide.txt 1 7452 
+chosen Tide.txt 1 7437 
+masses Tide.txt 3 2420 3604 3967 
+ships Tide.txt 1 7407 
+degrees Tide.txt 3 1688 5636 6613 
+2014 Tide.txt 1 1400 
+bernoulli Tide.txt 1 2568 
+practice Tide.txt 2 5428 7507 
+dock Tide.txt 1 4501 
+rotation Tide.txt 11 22 187 627 1945 2544 2664 3175 3597 6507 8409 8685 
+day Tide.txt 23 250 263 270 514 521 529 559 657 768 805 811 1107 1172 2730 3765 3766 3800 4413 5019 5895 6172 6230 6549 
+worlds Tide.txt 1 4733 
+scenic Tide.txt 1 1377 
+sufficiently Tide.txt 3 2592 5045 5185 
+magnitude Tide.txt 8 1044 3594 5767 5973 6715 6876 6932 7394 
+crossing Tide.txt 2 833 1853 
+rising Tide.txt 3 1935 3223 4329 
+giving Tide.txt 1 7726 
+prevailing Tide.txt 1 5962 
+globe Tide.txt 1 3980 
+programmed Tide.txt 1 4466 
+related Tide.txt 1 4105 
+frequency Tide.txt 14 5132 5159 5210 5361 5375 5440 5499 5516 5533 5632 5770 5811 5828 5928 
+static Tide.txt 1 2471 
+measure Tide.txt 1 303 
+separating Tide.txt 2 774 1404 
+80 Tide.txt 1 8574 
+pierre-simon Tide.txt 2 2461 2754 
+out Tide.txt 3 1728 7043 7479 
+mediated Tide.txt 1 4155 
+cause Tide.txt 1 8751 
+waters Tide.txt 12 508 512 525 557 1167 1328 1335 1815 3076 4036 4882 7886 
+red Tide.txt 1 8810 
+rewrote Tide.txt 1 2794 
+interactions Tide.txt 2 8126 8143 
+galaxies Tide.txt 2 8727 8734 
+sublunar Tide.txt 1 89 
+completely Tide.txt 3 7010 7422 8526 
+mashar Tide.txt 2 2149 2184 
+york Tide.txt 1 2020 
+interaction Tide.txt 4 1526 2102 4153 4870 
+hostile Tide.txt 1 8173 
+g Tide.txt 3 2997 3015 3017 
+could Tide.txt 1 5040 
+area Tide.txt 1 1378 
+times Tide.txt 11 191 2945 2958 3037 4066 5276 5359 7438 7532 7990 8009 
+counterpart Tide.txt 1 7331 
+length Tide.txt 2 3767 3801 
+barriers Tide.txt 1 3973 
+south Tide.txt 7 2029 4895 6188 6483 6632 7171 7336 
+prospective Tide.txt 1 7627 
+powerful Tide.txt 1 1467 
+reaches Tide.txt 3 1065 4627 7279 
+northumbrian Tide.txt 1 4355 
+reached Tide.txt 2 1718 3401 
+precisely Tide.txt 3 1765 2099 2980 
+avert Tide.txt 1 6010 
+ancient Tide.txt 3 2308 2324 4065 
+system Tide.txt 5 2472 2758 4454 7850 8744 
+their Tide.txt 14 3291 3547 3982 4257 4665 4950 5484 5523 5578 5809 5888 8131 8292 8777 
+intermediate Tide.txt 1 2511 
+9.8 Tide.txt 1 3438 
+travelled Tide.txt 1 4089 
+messina Tide.txt 1 4293 
+circulate Tide.txt 1 2009 
+fouling Tide.txt 1 7471 
+shelf Tide.txt 3 4588 4747 4833 
+explanation Tide.txt 4 2348 2397 2422 5010 
+exactly Tide.txt 3 763 6076 7042 
+desiccation Tide.txt 1 8217 
+environmental Tide.txt 1 7464 
+constituent Tide.txt 11 733 739 753 802 1538 1657 1772 1987 5937 6096 6395 
+reverses Tide.txt 1 465 
+bi-weekly Tide.txt 1 7156 
+slack Tide.txt 5 457 460 473 491 1341 
+counteract Tide.txt 1 7736 
+basinstheir Tide.txt 1 5082 
+inversely Tide.txt 2 3193 3205 
+amplitude Tide.txt 16 193 1534 1539 1861 3369 3375 3397 3433 3527 3557 4277 5162 5254 5628 6222 8650 
+distinguished Tide.txt 2 2863 5213 
+1.5 Tide.txt 2 3760 8509 
+1.6 Tide.txt 1 8485 
+dalian Tide.txt 1 1379 
+shrinks Tide.txt 1 1431 
+galactic Tide.txt 3 8717 8719 8738 
+curves Tide.txt 1 8015 
+tide Tide.txt 101 0 31 34 41 46 53 64 127 134 261 298 431 461 463 492 551 727 798 932 1126 1229 1305 1374 1384 1394 1411 1519 1598 1635 1668 1757 1829 1881 1977 1983 1989 2017 2276 2279 2647 2688 2693 3455 3475 3826 3878 3917 3934 3947 4330 4359 4386 4511 4554 4669 4889 4917 5054 5175 5239 5242 5272 5306 5311 5420 5559 5979 6034 6038 6226 6286 6302 6415 6640 6856 6936 6992 6995 7145 7158 7333 7596 7642 7649 7705 7783 7827 7926 7978 7979 8004 8500 8529 8599 8781 8789 8799 8802 8804 8806 8825 
+kepler Tide.txt 1 2291 
+have Tide.txt 11 156 3140 4104 4731 5887 6124 6323 7579 7713 8176 8255 
+dictate Tide.txt 1 3316 
+need Tide.txt 1 5399 
+curved Tide.txt 2 1607 6759 
+leonhard Tide.txt 1 2569 
+viewed Tide.txt 1 1273 
+acceleration Tide.txt 4 2984 3002 3021 3673 
+depict Tide.txt 1 7902 
+angle Tide.txt 2 903 6607 
+earthsun Tide.txt 1 3513 
+able Tide.txt 1 7630 
+chief Tide.txt 1 2335 
+mechanism Tide.txt 1 3060 
+instance Tide.txt 1 7234 
+which Tide.txt 37 769 1703 1816 1870 1911 2137 2304 2535 2660 2689 2801 3230 3308 3363 3393 3430 3641 3706 4606 5551 5752 5833 6084 6118 6703 6721 7008 7458 7534 7586 7716 7915 7966 8194 8583 8610 8692 
+325 Tide.txt 1 4095 
+competence Tide.txt 1 7603 
+0.000113 Tide.txt 1 3036 
+led Tide.txt 1 4430 
+who Tide.txt 1 4396 
+propagate Tide.txt 3 3618 3841 6334 
+twelfths Tide.txt 1 8023 
+representation Tide.txt 1 5524 
+why Tide.txt 1 5012 
+centimetres Tide.txt 8 3386 3437 3469 3483 3561 3759 8655 8661 
+stronger Tide.txt 3 976 1350 2946 
+face Tide.txt 2 1896 7459 
+mechanical Tide.txt 2 2380 8442 
+normally Tide.txt 1 7077 
+atmosphere Tide.txt 3 695 723 2659 
+high-water Tide.txt 1 8097 
+rotating Tide.txt 1 3417 
+superimposed Tide.txt 1 111 
+rough Tide.txt 1 8299 
+thicker Tide.txt 1 6249 
+principal Tide.txt 2 730 742 
+based Tide.txt 8 2044 2131 2306 2825 4404 5107 6998 8157 
+knowledge Tide.txt 4 5047 5074 6105 8681 
+should Tide.txt 1 6012 
+gradual Tide.txt 1 3728 
+partially Tide.txt 1 1282 
+local Tide.txt 2 5951 6733 
+hope Tide.txt 1 5024 
+equilibrium Tide.txt 4 1988 2473 3123 6256 
+cube Tide.txt 2 3209 7526 
+perigee Tide.txt 2 1419 1445 
+means Tide.txt 3 4652 6119 7360 
+michigan Tide.txt 1 8503 
+maritime Tide.txt 1 7546 
+120 Tide.txt 1 8576 
+words Tide.txt 1 5502 
+timing Tide.txt 6 236 426 4572 5971 6967 7390 
+thomson Tide.txt 4 2790 4427 5104 5569 
+areas Tide.txt 6 1601 6184 6202 8261 8271 8382 
+differential Tide.txt 2 2761 3044 
+whether Tide.txt 1 5868 
+she Tide.txt 1 2702 
+overexploitation Tide.txt 1 8239 
+proponents Tide.txt 1 7477 
+cycles Tide.txt 4 663 1437 5745 7420 
+available Tide.txt 4 2139 7518 7709 8032 
+motions Tide.txt 3 2839 5117 5468 
+ebb Tide.txt 9 2160 2235 2248 2273 6777 6834 6846 6864 6892 
+variations Tide.txt 4 310 649 3573 5411 
+exerted Tide.txt 4 178 2906 2920 8725 
+correlations Tide.txt 1 2311 
+turbulent Tide.txt 1 3708 
+edition Tide.txt 1 7238 
+phases Tide.txt 7 1738 2192 4660 5265 6133 6218 6402 
+pattern Tide.txt 6 212 1120 6399 6983 7141 7174 
+southward Tide.txt 1 6341 
+tend Tide.txt 1 8295 
+state Tide.txt 2 1078 5656 
+difficulties Tide.txt 1 7461 
+correctly Tide.txt 3 2293 4125 4139 
+crude Tide.txt 1 3783 
+progress Tide.txt 1 7868 
+boundary Tide.txt 1 3314 
+quoting Tide.txt 1 5975 
+ends Tide.txt 1 7308 
+george Tide.txt 1 5573 
+ability Tide.txt 1 8213 
+horizontally Tide.txt 1 1038 
+a.t Tide.txt 2 5575 6424 
+efficiency Tide.txt 1 7510 
+complicate Tide.txt 1 3662 
+configuration Tide.txt 1 1198 
+withstanding Tide.txt 1 7467 
+minutes Tide.txt 7 318 762 927 3638 4410 6536 7671 
+equal Tide.txt 4 244 3101 3734 6543 
+attributed Tide.txt 1 2360 
+etc Tide.txt 3 5358 5958 6008 
+streams Tide.txt 1 447 
+attributes Tide.txt 2 4314 5886 
+zonation Tide.txt 2 8077 8192 
+jersey Tide.txt 1 3821 
+otherwise Tide.txt 1 8384 
+relevant Tide.txt 1 2504 
+smaller-scale Tide.txt 1 3704 
+cm Tide.txt 1 8482 
+basins Tide.txt 1 3970 
+invasive Tide.txt 1 8250 
+seleucia Tide.txt 2 2112 4124 
+harmonic Tide.txt 13 660 2860 4434 4461 5096 5286 5381 5397 5489 5562 5681 5702 6060 
+table Tide.txt 4 4360 4387 6949 7725 
+600 Tide.txt 1 3777 
+powered Tide.txt 1 7848 
+addition Tide.txt 2 5069 8419 
+charts Tide.txt 6 4618 6945 7643 7650 7712 7883 
+730 Tide.txt 1 4321 
+18.613 Tide.txt 1 6091 
+736 Tide.txt 1 2175 
+define Tide.txt 1 5478 
+6-hour Tide.txt 1 1623 
+corresponding Tide.txt 4 139 2500 5456 5639 
+sufficient Tide.txt 1 5224 
+climate Tide.txt 1 8253 
+hms Tide.txt 1 2671 
+angles Tide.txt 2 5476 6914 
+covered Tide.txt 1 2589 
+an Tide.txt 26 98 901 1310 1774 1831 2023 2347 2477 2510 2893 3084 3155 3188 3365 3680 4490 5009 5161 5756 6013 6878 6915 7681 7799 8027 8330 
+present Tide.txt 1 395 
+encircles Tide.txt 1 1830 
+atmospheric Tide.txt 5 8434 8538 8540 8558 8639 
+unlike Tide.txt 1 7481 
+value Tide.txt 4 2387 5714 5758 6928 
+periods Tide.txt 6 315 619 651 5890 6211 7133 
+comets Tide.txt 1 8756 
+almost Tide.txt 5 1572 6075 7041 7063 7273 
+thus Tide.txt 8 782 1000 3120 3294 3746 5774 6220 8399 
+site Tide.txt 1 6746 
+surface Tide.txt 17 704 1058 1098 2770 2992 3010 3025 3049 3079 3086 3114 3118 3157 3215 3252 3268 3615 
+orbital Tide.txt 1 5403 
+cross Tide.txt 1 7763 
+cope Tide.txt 2 8179 8215 
+parts Tide.txt 3 3234 4170 5938 
+schematic Tide.txt 1 75 
+largest Tide.txt 5 339 738 1460 3029 4945 
+lengthening Tide.txt 1 3762 
+difficult Tide.txt 2 6685 6693 
+upon Tide.txt 1 2307 
+effect Tide.txt 7 1965 3030 3040 3127 3330 4666 4903 
+obstructs Tide.txt 1 6752 
+center Tide.txt 4 1892 2931 6740 7071 
+disrupted Tide.txt 2 7423 7427 
+nevertheless Tide.txt 1 6808 
+ptolemaic Tide.txt 1 5749 
+obstacles Tide.txt 1 3576 
+well Tide.txt 2 6166 8134 
+thought Tide.txt 2 1887 4389 
+patterns Tide.txt 5 3997 5298 5446 6409 6464 
+sets Tide.txt 2 7653 8227 
+position Tide.txt 6 629 3859 4200 7561 7748 7801 
+less Tide.txt 1 653 
+moments Tide.txt 1 489 
+accurate Tide.txt 2 296 8028 
+clocks Tide.txt 1 799 
+fishing Tide.txt 1 68 
+predicts Tide.txt 1 3850 
+reckoning Tide.txt 1 7747 
+density Tide.txt 1 8586 
+sky Tide.txt 2 887 3862 
+lake Tide.txt 2 8466 8502 
+reasons Tide.txt 1 7944 
+add Tide.txt 3 3459 4458 7997 
+other Tide.txt 24 38 251 382 1480 2428 2546 3033 3462 3937 4344 5275 5501 6299 6414 6603 6664 7928 8008 8225 8244 8305 8353 8523 8790 
+combine Tide.txt 1 6591 
+earthquakes Tide.txt 1 8765 
+increased Tide.txt 2 3769 4072 
+kilometres Tide.txt 1 8577 
+famously Tide.txt 1 7451 
+baltic Tide.txt 1 4933 
+historia Tide.txt 1 4207 
+increases Tide.txt 1 1422 
+historic Tide.txt 1 8817 
+five Tide.txt 1 4301 
+community Tide.txt 2 8152 8196 
+height Tide.txt 16 535 1099 1162 2771 3885 4192 4706 5273 5560 6698 6993 7066 7203 7270 7303 8005 
+like Tide.txt 3 1238 1890 7764 
+sizes Tide.txt 1 3986 
+january Tide.txt 2 7236 7253 
+works Tide.txt 1 2133 
+soft Tide.txt 1 8163 
+because Tide.txt 17 812 958 1653 2005 2951 3217 3570 3579 4736 4914 4923 5261 6066 6311 6368 6488 7402 
+phenomena Tide.txt 5 371 2429 8443 8495 8791 
+subsidence Tide.txt 1 6007 
+repeat Tide.txt 1 6074 
+spheroid Tide.txt 1 2607 
+apollonius Tide.txt 1 4306 
+leaf Tide.txt 1 4788 
+delaware Tide.txt 2 7814 7816 
+hurricane Tide.txt 1 8805 
+instantaneous Tide.txt 1 5049 
+does Tide.txt 1 1835 
+masked Tide.txt 2 8491 8550 
+assuming Tide.txt 1 3780 
+chains Tide.txt 1 4471 
+medieval Tide.txt 1 2124 
+june Tide.txt 1 7878 
+lessens Tide.txt 1 1845 
+pressure Tide.txt 2 357 719 
+intertidal Tide.txt 12 8066 8076 8080 8084 8086 8106 8121 8128 8151 8165 8233 8287 
+although Tide.txt 7 1061 2169 4148 5034 6736 7073 7927 
+lowis Tide.txt 1 276 
+periodically Tide.txt 2 5327 6360 
+stage Tide.txt 2 1663 1683 
+about Tide.txt 30 757 843 922 1169 1363 1923 2247 2272 2626 2994 3012 3384 3435 3492 3498 3529 3608 3636 3684 3687 3757 3771 3810 4094 4845 5727 5764 8573 8653 8714 
+25.2 Tide.txt 1 761 
+actual Tide.txt 6 3880 5053 5970 7293 7994 8785 
+certainty Tide.txt 1 5270 
+surge Tide.txt 6 6029 7076 7095 7105 7114 7132 
+introduced Tide.txt 1 5098 
+seiche Tide.txt 1 8498 
+own Tide.txt 3 3653 5810 5889 
+previously Tide.txt 1 5200 
+weather Tide.txt 7 5946 6028 7006 7110 7290 7493 8552 
+landmasses Tide.txt 1 3412 
+additions Tide.txt 1 5922 
+mere Tide.txt 1 690 
+1632 Tide.txt 1 2330 
+continental Tide.txt 5 1849 3575 4587 4746 4832 
+euripus Tide.txt 1 4287 
+rhythmic Tide.txt 1 1094 
+fiscal Tide.txt 1 7874 
+fundy Tide.txt 6 61 73 4720 4761 4826 4854 
+north Tide.txt 9 2003 2047 4570 4675 6469 6627 7148 7242 7326 
+ireland Tide.txt 1 6283 
+1860s Tide.txt 1 5101 
+but Tide.txt 29 378 483 682 945 1020 1237 2508 2691 2733 2746 2950 3201 3577 4313 4835 4901 5144 5721 6110 6156 6182 6308 6530 6661 7169 7214 8487 8771 8795 
+westport Tide.txt 1 7250 
+wight Tide.txt 1 4911 
+automated Tide.txt 1 7601 
+highest Tide.txt 10 590 931 1562 3391 4233 4734 4773 4812 5304 5977 
+he Tide.txt 7 2305 2359 2376 4138 4149 4159 4537 
+made Tide.txt 6 2287 2681 4495 4750 4783 5431 
+places Tide.txt 4 151 912 1575 1588 
+sinusoids Tide.txt 1 5451 
+gravitational Tide.txt 16 11 176 386 960 1485 2416 2904 2915 2936 3020 3098 3122 3142 3185 3654 8562 
+smooth Tide.txt 1 2587 
+record Tide.txt 1 4488 
+below Tide.txt 2 427 5877 
+exerts Tide.txt 1 973 
+limit Tide.txt 2 8221 8230 
+1744 Tide.txt 1 2649 
+problem Tide.txt 1 2465 
+1740 Tide.txt 1 2549 
+display Tide.txt 2 7884 8311 
+mechanics Tide.txt 1 2078 
+entering Tide.txt 1 7593 
+mask Tide.txt 1 8527 
+universal Tide.txt 1 2441 
+1204 Tide.txt 1 2207 
+abbot Tide.txt 1 4398 
+aristotle Tide.txt 1 4295 
+erie Tide.txt 1 8474 
+proceeds Tide.txt 1 6851 
+functions Tide.txt 3 4463 5345 5389 
+compared Tide.txt 1 322 
+48 Tide.txt 1 4409 
+nonetheless Tide.txt 1 1092 
+46 Tide.txt 2 2973 3440 
+percent Tide.txt 1 8753 
+book Tide.txt 1 4300 
+special Tide.txt 1 6018 
+misconceptions Tide.txt 1 2243 
+francisco Tide.txt 1 1390 
+tides Tide.txt 128 82 86 155 160 195 214 248 268 279 335 407 424 442 502 957 1105 1114 1135 1138 1217 1294 1324 1457 1558 1618 2059 2085 2095 2118 2128 2163 2199 2213 2266 2303 2345 2351 2362 2400 2410 2425 2482 2566 2716 2725 2727 2737 2779 3378 3428 3640 3652 3840 4010 4023 4081 4107 4130 4142 4162 4184 4195 4219 4251 4281 4298 4315 4694 4702 4735 4946 4959 4984 5017 5039 5091 5155 5301 5415 5487 5942 5969 6142 6179 6252 6321 6332 6436 6445 6454 6475 6526 6547 6574 6595 6615 6677 6965 7033 7194 7323 7634 7702 7778 7936 8354 8380 8422 8428 8435 8438 8467 8477 8539 8541 8559 8595 8601 8604 8637 8648 8697 8702 8718 8720 8739 8794 8811 
+radially Tide.txt 1 1791 
+variation Tide.txt 4 1128 3520 5763 7271 
+factors Tide.txt 5 293 2547 4583 5785 7002 
+rule Tide.txt 2 3848 8021 
+eddies Tide.txt 1 6800 
+portion Tide.txt 2 79 8828 

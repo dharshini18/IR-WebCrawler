@@ -1,0 +1,601 @@
+all Hertzsprung%E2%80%93Russell_diagram.txt 4 477 557 761 800 
+concept Hertzsprung%E2%80%93Russell_diagram.txt 1 1721 
+evidence Hertzsprung%E2%80%93Russell_diagram.txt 1 1469 
+remarkable Hertzsprung%E2%80%93Russell_diagram.txt 1 1584 
+incurred Hertzsprung%E2%80%93Russell_diagram.txt 1 1095 
+evidence-backed Hertzsprung%E2%80%93Russell_diagram.txt 1 1677 
+luminosities Hertzsprung%E2%80%93Russell_diagram.txt 2 159 1242 
+dynamic Hertzsprung%E2%80%93Russell_diagram.txt 1 225 
+invariably Hertzsprung%E2%80%93Russell_diagram.txt 1 835 
+go Hertzsprung%E2%80%93Russell_diagram.txt 1 958 
+subgiants Hertzsprung%E2%80%93Russell_diagram.txt 1 75 
+pre-supernova Hertzsprung%E2%80%93Russell_diagram.txt 1 1718 
+fusing Hertzsprung%E2%80%93Russell_diagram.txt 1 1141 
+graph Hertzsprung%E2%80%93Russell_diagram.txt 1 175 
+technique Hertzsprung%E2%80%93Russell_diagram.txt 1 1348 
+to Hertzsprung%E2%80%93Russell_diagram.txt 32 26 48 295 332 397 434 526 699 716 906 951 957 976 1000 1028 1032 1089 1262 1289 1327 1381 1399 1422 1504 1518 1607 1627 1681 1696 1705 1745 1758 
+1930s Hertzsprung%E2%80%93Russell_diagram.txt 2 1485 1666 
+presentation Hertzsprung%E2%80%93Russell_diagram.txt 1 1500 
+upper-left Hertzsprung%E2%80%93Russell_diagram.txt 1 44 
+g0 Hertzsprung%E2%80%93Russell_diagram.txt 1 1184 
+very Hertzsprung%E2%80%93Russell_diagram.txt 1 554 
+fall Hertzsprung%E2%80%93Russell_diagram.txt 2 27 1235 
+difference Hertzsprung%E2%80%93Russell_diagram.txt 2 749 1319 
+exact Hertzsprung%E2%80%93Russell_diagram.txt 1 947 
+categories Hertzsprung%E2%80%93Russell_diagram.txt 1 1785 
+cmd Hertzsprung%E2%80%93Russell_diagram.txt 1 684 
+culminating Hertzsprung%E2%80%93Russell_diagram.txt 1 259 
+relation Hertzsprung%E2%80%93Russell_diagram.txt 2 967 1024 
+1940s Hertzsprung%E2%80%93Russell_diagram.txt 1 1668 
+noted Hertzsprung%E2%80%93Russell_diagram.txt 1 287 
+20th Hertzsprung%E2%80%93Russell_diagram.txt 1 656 
+abbreviated Hertzsprung%E2%80%93Russell_diagram.txt 1 137 
+smaller Hertzsprung%E2%80%93Russell_diagram.txt 1 297 
+core Hertzsprung%E2%80%93Russell_diagram.txt 2 1160 1169 
+managed Hertzsprung%E2%80%93Russell_diagram.txt 1 1626 
+direct Hertzsprung%E2%80%93Russell_diagram.txt 2 1081 1340 
+jump Hertzsprung%E2%80%93Russell_diagram.txt 1 1585 
+surrounding Hertzsprung%E2%80%93Russell_diagram.txt 1 1167 
+diagrams Hertzsprung%E2%80%93Russell_diagram.txt 4 118 649 928 1362 
+spectral Hertzsprung%E2%80%93Russell_diagram.txt 11 101 251 284 306 368 384 594 612 623 642 1185 
+index Hertzsprung%E2%80%93Russell_diagram.txt 2 96 647 
+what Hertzsprung%E2%80%93Russell_diagram.txt 1 671 
+constitution Hertzsprung%E2%80%93Russell_diagram.txt 1 1537 
+norris Hertzsprung%E2%80%93Russell_diagram.txt 1 203 
+sun Hertzsprung%E2%80%93Russell_diagram.txt 2 80 1443 
+section Hertzsprung%E2%80%93Russell_diagram.txt 1 1224 
+above Hertzsprung%E2%80%93Russell_diagram.txt 1 69 
+scientists Hertzsprung%E2%80%93Russell_diagram.txt 1 1261 
+ever Hertzsprung%E2%80%93Russell_diagram.txt 1 871 
+method Hertzsprung%E2%80%93Russell_diagram.txt 1 522 
+temperatures Hertzsprung%E2%80%93Russell_diagram.txt 2 166 900 
+led Hertzsprung%E2%80%93Russell_diagram.txt 1 1379 
+dwarf Hertzsprung%E2%80%93Russell_diagram.txt 2 1400 1647 
+understanding Hertzsprung%E2%80%93Russell_diagram.txt 2 212 1671 
+objects Hertzsprung%E2%80%93Russell_diagram.txt 1 1035 
+groups Hertzsprung%E2%80%93Russell_diagram.txt 3 327 516 1331 
+others Hertzsprung%E2%80%93Russell_diagram.txt 1 302 
+i.e Hertzsprung%E2%80%93Russell_diagram.txt 2 1036 1194 
+along Hertzsprung%E2%80%93Russell_diagram.txt 2 1116 1405 
+fred Hertzsprung%E2%80%93Russell_diagram.txt 1 1725 
+g2v Hertzsprung%E2%80%93Russell_diagram.txt 1 103 
+k Hertzsprung%E2%80%93Russell_diagram.txt 2 100 360 
+step Hertzsprung%E2%80%93Russell_diagram.txt 1 209 
+ignoring Hertzsprung%E2%80%93Russell_diagram.txt 1 1345 
+suggestion Hertzsprung%E2%80%93Russell_diagram.txt 1 1391 
+milky Hertzsprung%E2%80%93Russell_diagram.txt 1 114 
+narrow Hertzsprung%E2%80%93Russell_diagram.txt 1 292 
+changes Hertzsprung%E2%80%93Russell_diagram.txt 1 228 
+plotted Hertzsprung%E2%80%93Russell_diagram.txt 2 10 902 
+composed Hertzsprung%E2%80%93Russell_diagram.txt 1 1615 
+rosenberg Hertzsprung%E2%80%93Russell_diagram.txt 2 340 781 
+explained Hertzsprung%E2%80%93Russell_diagram.txt 1 1542 
+gliese Hertzsprung%E2%80%93Russell_diagram.txt 1 19 
+replace Hertzsprung%E2%80%93Russell_diagram.txt 1 641 
+extinction Hertzsprung%E2%80%93Russell_diagram.txt 3 1061 1067 1346 
+eddington Hertzsprung%E2%80%93Russell_diagram.txt 3 1515 1625 1644 
+plot Hertzsprung%E2%80%93Russell_diagram.txt 4 147 409 725 839 
+use Hertzsprung%E2%80%93Russell_diagram.txt 1 1519 
+additive Hertzsprung%E2%80%93Russell_diagram.txt 1 747 
+russell Hertzsprung%E2%80%93Russell_diagram.txt 1 204 
+working Hertzsprung%E2%80%93Russell_diagram.txt 1 445 
+two Hertzsprung%E2%80%93Russell_diagram.txt 6 120 363 925 938 1314 1330 
+next Hertzsprung%E2%80%93Russell_diagram.txt 1 1147 
+few Hertzsprung%E2%80%93Russell_diagram.txt 1 789 
+therefore Hertzsprung%E2%80%93Russell_diagram.txt 1 1421 
+type Hertzsprung%E2%80%93Russell_diagram.txt 10 102 416 448 595 613 643 667 858 1186 1358 
+until Hertzsprung%E2%80%93Russell_diagram.txt 2 459 1312 
+today Hertzsprung%E2%80%93Russell_diagram.txt 1 422 
+more Hertzsprung%E2%80%93Russell_diagram.txt 3 167 1763 1767 
+comparison Hertzsprung%E2%80%93Russell_diagram.txt 1 1082 
+apparent Hertzsprung%E2%80%93Russell_diagram.txt 9 346 387 470 733 752 1001 1054 1071 1281 
+visual Hertzsprung%E2%80%93Russell_diagram.txt 2 605 1004 
+log-log Hertzsprung%E2%80%93Russell_diagram.txt 1 838 
+geologists Hertzsprung%E2%80%93Russell_diagram.txt 1 1466 
+known Hertzsprung%E2%80%93Russell_diagram.txt 7 110 698 975 1296 1350 1749 1752 
+cases Hertzsprung%E2%80%93Russell_diagram.txt 2 693 1688 
+producing Hertzsprung%E2%80%93Russell_diagram.txt 1 250 
+cluster Hertzsprung%E2%80%93Russell_diagram.txt 11 353 394 474 512 521 709 722 739 764 1270 1288 
+this Hertzsprung%E2%80%93Russell_diagram.txt 19 270 310 403 447 461 666 857 867 878 891 913 942 1220 1274 1347 1435 1478 1580 1629 
+work Hertzsprung%E2%80%93Russell_diagram.txt 1 271 
+remain Hertzsprung%E2%80%93Russell_diagram.txt 1 1649 
+publications Hertzsprung%E2%80%93Russell_diagram.txt 1 454 
+henry Hertzsprung%E2%80%93Russell_diagram.txt 2 202 263 
+following Hertzsprung%E2%80%93Russell_diagram.txt 2 1498 1684 
+scatter Hertzsprung%E2%80%93Russell_diagram.txt 1 146 
+links Hertzsprung%E2%80%93Russell_diagram.txt 1 1783 
+share Hertzsprung%E2%80%93Russell_diagram.txt 1 559 
+high Hertzsprung%E2%80%93Russell_diagram.txt 1 904 
+effectively Hertzsprung%E2%80%93Russell_diagram.txt 1 407 
+performed Hertzsprung%E2%80%93Russell_diagram.txt 1 245 
+22,000 Hertzsprung%E2%80%93Russell_diagram.txt 1 8 
+magnitudes Hertzsprung%E2%80%93Russell_diagram.txt 8 157 471 533 755 805 1193 1282 1292 
+sharp Hertzsprung%E2%80%93Russell_diagram.txt 1 934 
+hydrogen Hertzsprung%E2%80%93Russell_diagram.txt 6 364 1142 1162 1574 1617 1673 
+axis Hertzsprung%E2%80%93Russell_diagram.txt 4 601 610 730 824 
+needs Hertzsprung%E2%80%93Russell_diagram.txt 1 1027 
+feature Hertzsprung%E2%80%93Russell_diagram.txt 1 1172 
+regions Hertzsprung%E2%80%93Russell_diagram.txt 1 31 
+located Hertzsprung%E2%80%93Russell_diagram.txt 1 1177 
+hot Hertzsprung%E2%80%93Russell_diagram.txt 1 45 
+astronomers Hertzsprung%E2%80%93Russell_diagram.txt 3 931 1380 1462 
+thermodynamics Hertzsprung%E2%80%93Russell_diagram.txt 1 1635 
+pure Hertzsprung%E2%80%93Russell_diagram.txt 1 1730 
+instead Hertzsprung%E2%80%93Russell_diagram.txt 1 886 
+absolute Hertzsprung%E2%80%93Russell_diagram.txt 12 90 156 335 399 532 604 754 804 997 1003 1192 1291 
+map Hertzsprung%E2%80%93Russell_diagram.txt 1 187 
+may Hertzsprung%E2%80%93Russell_diagram.txt 2 1012 1014 
+lower-left Hertzsprung%E2%80%93Russell_diagram.txt 1 61 
+diagram Hertzsprung%E2%80%93Russell_diagram.txt 38 1 6 34 106 136 139 141 193 343 405 418 450 468 488 539 548 574 588 591 669 678 683 712 796 813 860 865 885 896 918 1115 1227 1245 1256 1378 1503 1551 1744 
+maurys Hertzsprung%E2%80%93Russell_diagram.txt 1 490 
+produce Hertzsprung%E2%80%93Russell_diagram.txt 1 850 
+such Hertzsprung%E2%80%93Russell_diagram.txt 1 704 
+horizontal Hertzsprung%E2%80%93Russell_diagram.txt 3 600 1154 1207 
+data Hertzsprung%E2%80%93Russell_diagram.txt 1 798 
+types Hertzsprung%E2%80%93Russell_diagram.txt 2 624 926 
+a Hertzsprung%E2%80%93Russell_diagram.txt 36 145 174 207 342 372 408 424 473 509 616 626 645 681 707 710 724 745 788 837 887 933 965 978 1008 1165 1223 1268 1339 1357 1452 1505 1522 1582 1595 1717 1720 
+effective Hertzsprung%E2%80%93Russell_diagram.txt 3 165 816 960 
+m67 Hertzsprung%E2%80%93Russell_diagram.txt 1 123 
+lines Hertzsprung%E2%80%93Russell_diagram.txt 4 285 293 366 369 
+so Hertzsprung%E2%80%93Russell_diagram.txt 1 402 
+color-temperature Hertzsprung%E2%80%93Russell_diagram.txt 2 966 1023 
+unsolved Hertzsprung%E2%80%93Russell_diagram.txt 1 1600 
+interpretation Hertzsprung%E2%80%93Russell_diagram.txt 1 1104 
+over Hertzsprung%E2%80%93Russell_diagram.txt 2 229 1454 
+insight Hertzsprung%E2%80%93Russell_diagram.txt 1 1587 
+displayed Hertzsprung%E2%80%93Russell_diagram.txt 1 592 
+years Hertzsprung%E2%80%93Russell_diagram.txt 2 790 1450 
+produced Hertzsprung%E2%80%93Russell_diagram.txt 1 782 
+course Hertzsprung%E2%80%93Russell_diagram.txt 1 1414 
+paper Hertzsprung%E2%80%93Russell_diagram.txt 1 1553 
+including Hertzsprung%E2%80%93Russell_diagram.txt 1 1064 
+motions Hertzsprung%E2%80%93Russell_diagram.txt 1 299 
+converting Hertzsprung%E2%80%93Russell_diagram.txt 2 994 1426 
+still Hertzsprung%E2%80%93Russell_diagram.txt 2 420 1599 
+its Hertzsprung%E2%80%93Russell_diagram.txt 2 181 1251 
+galaxy Hertzsprung%E2%80%93Russell_diagram.txt 1 116 
+observational Hertzsprung%E2%80%93Russell_diagram.txt 4 4 636 676 921 
+1 Hertzsprung%E2%80%93Russell_diagram.txt 2 89 1189 
+derive Hertzsprung%E2%80%93Russell_diagram.txt 1 527 
+group Hertzsprung%E2%80%93Russell_diagram.txt 1 1304 
+fit Hertzsprung%E2%80%93Russell_diagram.txt 1 1548 
+how Hertzsprung%E2%80%93Russell_diagram.txt 2 1265 1546 
+circumstellar Hertzsprung%E2%80%93Russell_diagram.txt 1 1076 
+forms Hertzsprung%E2%80%93Russell_diagram.txt 3 537 544 558 
+dwarfs Hertzsprung%E2%80%93Russell_diagram.txt 2 65 1698 
+bridged Hertzsprung%E2%80%93Russell_diagram.txt 1 1324 
+clusters Hertzsprung%E2%80%93Russell_diagram.txt 3 122 431 772 
+main Hertzsprung%E2%80%93Russell_diagram.txt 11 57 71 85 1121 1136 1200 1315 1352 1390 1410 1657 
+might Hertzsprung%E2%80%93Russell_diagram.txt 1 1385 
+versus Hertzsprung%E2%80%93Russell_diagram.txt 1 160 
+then Hertzsprung%E2%80%93Russell_diagram.txt 2 1306 1402 
+temperature-luminosity Hertzsprung%E2%80%93Russell_diagram.txt 1 864 
+affected Hertzsprung%E2%80%93Russell_diagram.txt 1 986 
+greater Hertzsprung%E2%80%93Russell_diagram.txt 2 315 566 
+thereby Hertzsprung%E2%80%93Russell_diagram.txt 1 530 
+3 Hertzsprung%E2%80%93Russell_diagram.txt 1 1191 
+processes Hertzsprung%E2%80%93Russell_diagram.txt 1 1740 
+anticipated Hertzsprung%E2%80%93Russell_diagram.txt 1 1554 
+1954 Hertzsprung%E2%80%93Russell_diagram.txt 1 1728 
+effects Hertzsprung%E2%80%93Russell_diagram.txt 1 1042 
+they Hertzsprung%E2%80%93Russell_diagram.txt 1 1139 
+not Hertzsprung%E2%80%93Russell_diagram.txt 8 186 458 553 615 955 1015 1604 1621 
+rotation Hertzsprung%E2%80%93Russell_diagram.txt 1 992 
+speculate Hertzsprung%E2%80%93Russell_diagram.txt 1 1382 
+represents Hertzsprung%E2%80%93Russell_diagram.txt 1 206 
+term Hertzsprung%E2%80%93Russell_diagram.txt 2 868 1700 
+brightness Hertzsprung%E2%80%93Russell_diagram.txt 1 179 
+edit Hertzsprung%E2%80%93Russell_diagram.txt 8 234 540 1105 1370 1777 1779 1781 1784 
+identified Hertzsprung%E2%80%93Russell_diagram.txt 2 493 1490 
+magnitude Hertzsprung%E2%80%93Russell_diagram.txt 11 91 336 347 388 400 606 734 999 1005 1055 1321 
+each Hertzsprung%E2%80%93Russell_diagram.txt 1 171 
+found Hertzsprung%E2%80%93Russell_diagram.txt 4 67 82 1133 1215 
+difficult Hertzsprung%E2%80%93Russell_diagram.txt 1 972 
+side Hertzsprung%E2%80%93Russell_diagram.txt 1 585 
+liberating Hertzsprung%E2%80%93Russell_diagram.txt 1 1577 
+series Hertzsprung%E2%80%93Russell_diagram.txt 1 628 
+energy Hertzsprung%E2%80%93Russell_diagram.txt 7 1424 1428 1496 1579 1597 1602 1640 
+society Hertzsprung%E2%80%93Russell_diagram.txt 1 1511 
+used Hertzsprung%E2%80%93Russell_diagram.txt 7 421 525 689 715 872 1259 1704 
+static Hertzsprung%E2%80%93Russell_diagram.txt 1 1653 
+measure Hertzsprung%E2%80%93Russell_diagram.txt 2 1264 1341 
+quantum Hertzsprung%E2%80%93Russell_diagram.txt 1 1732 
+aids Hertzsprung%E2%80%93Russell_diagram.txt 1 910 
+ultimately Hertzsprung%E2%80%93Russell_diagram.txt 1 260 
+rr Hertzsprung%E2%80%93Russell_diagram.txt 1 1209 
+factors Hertzsprung%E2%80%93Russell_diagram.txt 1 989 
+since Hertzsprung%E2%80%93Russell_diagram.txt 1 1588 
+parallax Hertzsprung%E2%80%93Russell_diagram.txt 1 1361 
+millions Hertzsprung%E2%80%93Russell_diagram.txt 1 1448 
+forth Hertzsprung%E2%80%93Russell_diagram.txt 1 1723 
+plotting Hertzsprung%E2%80%93Russell_diagram.txt 1 344 
+red Hertzsprung%E2%80%93Russell_diagram.txt 2 1397 1682 
+theory Hertzsprung%E2%80%93Russell_diagram.txt 1 1678 
+diagonal Hertzsprung%E2%80%93Russell_diagram.txt 1 40 
+effect Hertzsprung%E2%80%93Russell_diagram.txt 1 1058 
+reason Hertzsprung%E2%80%93Russell_diagram.txt 1 940 
+proxy Hertzsprung%E2%80%93Russell_diagram.txt 1 373 
+members Hertzsprung%E2%80%93Russell_diagram.txt 1 740 
+put Hertzsprung%E2%80%93Russell_diagram.txt 1 1722 
+estimate Hertzsprung%E2%80%93Russell_diagram.txt 1 333 
+annotated Hertzsprung%E2%80%93Russell_diagram.txt 1 1747 
+enormous Hertzsprung%E2%80%93Russell_diagram.txt 1 1578 
+contemplation Hertzsprung%E2%80%93Russell_diagram.txt 1 1375 
+created Hertzsprung%E2%80%93Russell_diagram.txt 1 195 
+could Hertzsprung%E2%80%93Russell_diagram.txt 3 523 806 861 
+undergo Hertzsprung%E2%80%93Russell_diagram.txt 1 222 
+first Hertzsprung%E2%80%93Russell_diagram.txt 2 453 784 
+major Hertzsprung%E2%80%93Russell_diagram.txt 1 208 
+already Hertzsprung%E2%80%93Russell_diagram.txt 1 443 
+cepheid Hertzsprung%E2%80%93Russell_diagram.txt 1 1232 
+radical Hertzsprung%E2%80%93Russell_diagram.txt 1 227 
+variables Hertzsprung%E2%80%93Russell_diagram.txt 1 1233 
+one Hertzsprung%E2%80%93Russell_diagram.txt 5 267 823 950 1006 1025 
+dust Hertzsprung%E2%80%93Russell_diagram.txt 1 1077 
+done Hertzsprung%E2%80%93Russell_diagram.txt 1 1277 
+another Hertzsprung%E2%80%93Russell_diagram.txt 2 809 1170 
+radiate Hertzsprung%E2%80%93Russell_diagram.txt 1 1423 
+open Hertzsprung%E2%80%93Russell_diagram.txt 3 121 511 771 
+constructing Hertzsprung%E2%80%93Russell_diagram.txt 1 969 
+surveys Hertzsprung%E2%80%93Russell_diagram.txt 1 241 
+temperature Hertzsprung%E2%80%93Russell_diagram.txt 10 98 182 376 413 580 634 818 905 908 961 
+narrow-line Hertzsprung%E2%80%93Russell_diagram.txt 1 319 
+concentrating Hertzsprung%E2%80%93Russell_diagram.txt 1 1632 
+top Hertzsprung%E2%80%93Russell_diagram.txt 2 571 1197 
+system Hertzsprung%E2%80%93Russell_diagram.txt 1 1460 
+ejnar Hertzsprung%E2%80%93Russell_diagram.txt 1 199 
+assumption Hertzsprung%E2%80%93Russell_diagram.txt 1 742 
+observations Hertzsprung%E2%80%93Russell_diagram.txt 3 856 1090 1103 
+calculations Hertzsprung%E2%80%93Russell_diagram.txt 1 841 
+white Hertzsprung%E2%80%93Russell_diagram.txt 2 64 1697 
+circa Hertzsprung%E2%80%93Russell_diagram.txt 1 196 
+shifted Hertzsprung%E2%80%93Russell_diagram.txt 1 1307 
+shell Hertzsprung%E2%80%93Russell_diagram.txt 1 1166 
+stars Hertzsprung%E2%80%93Russell_diagram.txt 50 9 23 24 111 149 155 178 191 221 243 258 278 289 320 349 390 429 476 492 498 505 536 564 576 597 665 696 719 737 766 801 849 1073 1109 1131 1150 1212 1285 1294 1301 1394 1401 1418 1540 1547 1566 1596 1612 1648 1768 
+relationship Hertzsprung%E2%80%93Russell_diagram.txt 1 152 
+that Hertzsprung%E2%80%93Russell_diagram.txt 16 288 629 763 852 898 945 970 1322 1383 1393 1470 1477 1564 1590 1611 1646 
+serve Hertzsprung%E2%80%93Russell_diagram.txt 1 370 
+took Hertzsprung%E2%80%93Russell_diagram.txt 1 309 
+cmds Hertzsprung%E2%80%93Russell_diagram.txt 1 785 
+1911 Hertzsprung%E2%80%93Russell_diagram.txt 1 460 
+1910 Hertzsprung%E2%80%93Russell_diagram.txt 2 197 338 
+1913 Hertzsprung%E2%80%93Russell_diagram.txt 1 484 
+1912 Hertzsprung%E2%80%93Russell_diagram.txt 1 1513 
+photographic Hertzsprung%E2%80%93Russell_diagram.txt 1 239 
+than Hertzsprung%E2%80%93Russell_diagram.txt 2 300 1476 
+distance Hertzsprung%E2%80%93Russell_diagram.txt 7 438 481 758 1031 1038 1335 1344 
+observatory Hertzsprung%E2%80%93Russell_diagram.txt 1 249 
+hoyle Hertzsprung%E2%80%93Russell_diagram.txt 1 1726 
+188 Hertzsprung%E2%80%93Russell_diagram.txt 1 126 
+determined Hertzsprung%E2%80%93Russell_diagram.txt 1 808 
+historical Hertzsprung%E2%80%93Russell_diagram.txt 1 232 
+were Hertzsprung%E2%80%93Russell_diagram.txt 4 244 457 1419 1686 
+toward Hertzsprung%E2%80%93Russell_diagram.txt 2 569 582 
+published Hertzsprung%E2%80%93Russell_diagram.txt 1 341 
+collecting Hertzsprung%E2%80%93Russell_diagram.txt 1 797 
+lower-right Hertzsprung%E2%80%93Russell_diagram.txt 1 50 
+largely Hertzsprung%E2%80%93Russell_diagram.txt 1 1614 
+correction Hertzsprung%E2%80%93Russell_diagram.txt 1 1010 
+modern Hertzsprung%E2%80%93Russell_diagram.txt 1 635 
+ages Hertzsprung%E2%80%93Russell_diagram.txt 1 133 
+locations Hertzsprung%E2%80%93Russell_diagram.txt 1 189 
+have Hertzsprung%E2%80%93Russell_diagram.txt 1 296 
+concentration Hertzsprung%E2%80%93Russell_diagram.txt 1 1148 
+their Hertzsprung%E2%80%93Russell_diagram.txt 10 161 283 334 398 437 751 1127 1144 1416 1662 
+contents Hertzsprung%E2%80%93Russell_diagram.txt 1 231 
+paths Hertzsprung%E2%80%93Russell_diagram.txt 1 1751 
+draper Hertzsprung%E2%80%93Russell_diagram.txt 1 264 
+nucleosynthesis Hertzsprung%E2%80%93Russell_diagram.txt 2 1374 1702 
+ideas Hertzsprung%E2%80%93Russell_diagram.txt 1 1526 
+mechanism Hertzsprung%E2%80%93Russell_diagram.txt 2 1434 1436 
+also Hertzsprung%E2%80%93Russell_diagram.txt 6 463 1026 1070 1234 1372 1776 
+ideal Hertzsprung%E2%80%93Russell_diagram.txt 1 1079 
+internal Hertzsprung%E2%80%93Russell_diagram.txt 1 1536 
+which Hertzsprung%E2%80%93Russell_diagram.txt 8 220 518 727 803 909 1011 1130 1685 
+meeting Hertzsprung%E2%80%93Russell_diagram.txt 1 1506 
+strengths Hertzsprung%E2%80%93Russell_diagram.txt 1 356 
+modulus Hertzsprung%E2%80%93Russell_diagram.txt 3 759 1039 1336 
+even Hertzsprung%E2%80%93Russell_diagram.txt 1 1610 
+towards Hertzsprung%E2%80%93Russell_diagram.txt 1 210 
+turn-off Hertzsprung%E2%80%93Russell_diagram.txt 1 130 
+who Hertzsprung%E2%80%93Russell_diagram.txt 1 1467 
+chart Hertzsprung%E2%80%93Russell_diagram.txt 1 640 
+parallaxes Hertzsprung%E2%80%93Russell_diagram.txt 2 324 500 
+most Hertzsprung%E2%80%93Russell_diagram.txt 4 36 658 1106 1660 
+bolometric Hertzsprung%E2%80%93Russell_diagram.txt 2 998 1009 
+significant Hertzsprung%E2%80%93Russell_diagram.txt 1 1075 
+measured Hertzsprung%E2%80%93Russell_diagram.txt 1 501 
+model Hertzsprung%E2%80%93Russell_diagram.txt 1 1300 
+considered Hertzsprung%E2%80%93Russell_diagram.txt 1 1774 
+inspired Hertzsprung%E2%80%93Russell_diagram.txt 1 1517 
+later Hertzsprung%E2%80%93Russell_diagram.txt 1 1556 
+order Hertzsprung%E2%80%93Russell_diagram.txt 1 1326 
+1,000 Hertzsprung%E2%80%93Russell_diagram.txt 1 16 
+mechanical Hertzsprung%E2%80%93Russell_diagram.txt 1 1736 
+obscuration Hertzsprung%E2%80%93Russell_diagram.txt 2 1045 1068 
+came Hertzsprung%E2%80%93Russell_diagram.txt 1 1675 
+quantity Hertzsprung%E2%80%93Russell_diagram.txt 1 618 
+analysed Hertzsprung%E2%80%93Russell_diagram.txt 1 1770 
+particularly Hertzsprung%E2%80%93Russell_diagram.txt 1 1583 
+thermonuclear Hertzsprung%E2%80%93Russell_diagram.txt 1 1601 
+h-r Hertzsprung%E2%80%93Russell_diagram.txt 1 1255 
+discovered Hertzsprung%E2%80%93Russell_diagram.txt 1 1624 
+bright Hertzsprung%E2%80%93Russell_diagram.txt 2 47 54 
+b-v Hertzsprung%E2%80%93Russell_diagram.txt 1 661 
+color-magnitude Hertzsprung%E2%80%93Russell_diagram.txt 2 682 711 
+earth Hertzsprung%E2%80%93Russell_diagram.txt 2 1273 1472 
+trivial Hertzsprung%E2%80%93Russell_diagram.txt 1 956 
+giant Hertzsprung%E2%80%93Russell_diagram.txt 1 491 
+layout Hertzsprung%E2%80%93Russell_diagram.txt 1 563 
+ngc Hertzsprung%E2%80%93Russell_diagram.txt 1 125 
+main-sequence Hertzsprung%E2%80%93Russell_diagram.txt 1 129 
+peculiar Hertzsprung%E2%80%93Russell_diagram.txt 1 888 
+only Hertzsprung%E2%80%93Russell_diagram.txt 3 28 1445 1481 
+going Hertzsprung%E2%80%93Russell_diagram.txt 1 41 
+hrd Hertzsprung%E2%80%93Russell_diagram.txt 1 143 
+thousands Hertzsprung%E2%80%93Russell_diagram.txt 1 256 
+astronomical Hertzsprung%E2%80%93Russell_diagram.txt 1 1510 
+hertzsprung Hertzsprung%E2%80%93Russell_diagram.txt 6 200 286 441 495 779 1175 
+giants Hertzsprung%E2%80%93Russell_diagram.txt 4 76 1204 1398 1683 
+his Hertzsprung%E2%80%93Russell_diagram.txt 2 452 1533 
+means Hertzsprung%E2%80%93Russell_diagram.txt 1 425 
+secular Hertzsprung%E2%80%93Russell_diagram.txt 1 323 
+supergiants Hertzsprung%E2%80%93Russell_diagram.txt 1 78 
+during Hertzsprung%E2%80%93Russell_diagram.txt 2 1123 1711 
+distortion Hertzsprung%E2%80%93Russell_diagram.txt 1 1063 
+him Hertzsprung%E2%80%93Russell_diagram.txt 1 331 
+evolution Hertzsprung%E2%80%93Russell_diagram.txt 6 215 847 1088 1388 1680 1713 
+luminosity Hertzsprung%E2%80%93Russell_diagram.txt 7 88 316 411 440 567 827 995 
+predicted Hertzsprung%E2%80%93Russell_diagram.txt 1 1645 
+through Hertzsprung%E2%80%93Russell_diagram.txt 1 1431 
+where Hertzsprung%E2%80%93Russell_diagram.txt 3 63 694 1056 
+occupy Hertzsprung%E2%80%93Russell_diagram.txt 1 1110 
+conversions Hertzsprung%E2%80%93Russell_diagram.txt 1 1098 
+computed Hertzsprung%E2%80%93Russell_diagram.txt 1 322 
+lifetimes Hertzsprung%E2%80%93Russell_diagram.txt 1 1417 
+tended Hertzsprung%E2%80%93Russell_diagram.txt 1 294 
+observed Hertzsprung%E2%80%93Russell_diagram.txt 2 1034 1303 
+see Hertzsprung%E2%80%93Russell_diagram.txt 3 1371 1618 1775 
+college Hertzsprung%E2%80%93Russell_diagram.txt 1 248 
+are Hertzsprung%E2%80%93Russell_diagram.txt 13 66 73 542 568 581 697 901 929 1069 1132 1140 1613 1769 
+1926 Hertzsprung%E2%80%93Russell_diagram.txt 1 1531 
+explosion Hertzsprung%E2%80%93Russell_diagram.txt 2 1690 1715 
+nuclear Hertzsprung%E2%80%93Russell_diagram.txt 2 1487 1559 
+away Hertzsprung%E2%80%93Russell_diagram.txt 1 1267 
+wikipedia Hertzsprung%E2%80%93Russell_diagram.txt 1 2 
+tend Hertzsprung%E2%80%93Russell_diagram.txt 1 25 
+catalogue Hertzsprung%E2%80%93Russell_diagram.txt 3 14 20 265 
+hipparcos Hertzsprung%E2%80%93Russell_diagram.txt 1 13 
+correctly Hertzsprung%E2%80%93Russell_diagram.txt 1 1562 
+between Hertzsprung%E2%80%93Russell_diagram.txt 9 153 750 936 959 1099 1181 1188 1195 1461 
+tens Hertzsprung%E2%80%93Russell_diagram.txt 2 254 1446 
+discovery Hertzsprung%E2%80%93Russell_diagram.txt 1 1557 
+creating Hertzsprung%E2%80%93Russell_diagram.txt 1 1451 
+vertical Hertzsprung%E2%80%93Russell_diagram.txt 3 609 729 1310 
+initially Hertzsprung%E2%80%93Russell_diagram.txt 1 435 
+supernova Hertzsprung%E2%80%93Russell_diagram.txt 1 1701 
+however Hertzsprung%E2%80%93Russell_diagram.txt 1 1497 
+spectroscopic Hertzsprung%E2%80%93Russell_diagram.txt 2 240 1360 
+harvard Hertzsprung%E2%80%93Russell_diagram.txt 1 247 
+rarer Hertzsprung%E2%80%93Russell_diagram.txt 1 1761 
+come Hertzsprung%E2%80%93Russell_diagram.txt 1 1016 
+both Hertzsprung%E2%80%93Russell_diagram.txt 1 1046 
+essentially Hertzsprung%E2%80%93Russell_diagram.txt 1 1652 
+influential Hertzsprung%E2%80%93Russell_diagram.txt 1 792 
+many Hertzsprung%E2%80%93Russell_diagram.txt 1 108 
+region Hertzsprung%E2%80%93Russell_diagram.txt 2 1112 1180 
+nomenclature Hertzsprung%E2%80%93Russell_diagram.txt 1 551 
+against Hertzsprung%E2%80%93Russell_diagram.txt 3 180 354 412 
+distinction Hertzsprung%E2%80%93Russell_diagram.txt 3 875 935 943 
+nearby Hertzsprung%E2%80%93Russell_diagram.txt 4 22 497 510 770 
+and Hertzsprung%E2%80%93Russell_diagram.txt 50 15 46 52 68 77 93 124 201 205 226 321 362 401 439 513 529 549 575 602 685 753 776 780 825 845 962 968 983 1040 1051 1066 1102 1161 1183 1187 1190 1202 1250 1337 1355 1463 1465 1561 1609 1667 1691 1714 1734 1762 1771 
+large-scale Hertzsprung%E2%80%93Russell_diagram.txt 1 238 
+color Hertzsprung%E2%80%93Russell_diagram.txt 7 95 183 646 662 963 1049 1062 
+royal Hertzsprung%E2%80%93Russell_diagram.txt 1 1509 
+simply Hertzsprung%E2%80%93Russell_diagram.txt 1 168 
+sequences Hertzsprung%E2%80%93Russell_diagram.txt 3 223 1316 1755 
+described Hertzsprung%E2%80%93Russell_diagram.txt 1 290 
+basis Hertzsprung%E2%80%93Russell_diagram.txt 1 1523 
+implosion Hertzsprung%E2%80%93Russell_diagram.txt 1 1692 
+radiative Hertzsprung%E2%80%93Russell_diagram.txt 1 1637 
+been Hertzsprung%E2%80%93Russell_diagram.txt 3 444 1605 1623 
+certain Hertzsprung%E2%80%93Russell_diagram.txt 1 30 
+hardly Hertzsprung%E2%80%93Russell_diagram.txt 1 870 
+direction Hertzsprung%E2%80%93Russell_diagram.txt 1 1311 
+sidestep Hertzsprung%E2%80%93Russell_diagram.txt 1 1628 
+quantities Hertzsprung%E2%80%93Russell_diagram.txt 1 1101 
+gap Hertzsprung%E2%80%93Russell_diagram.txt 2 1176 1221 
+observers Hertzsprung%E2%80%93Russell_diagram.txt 1 691 
+lives Hertzsprung%E2%80%93Russell_diagram.txt 2 1128 1663 
+external Hertzsprung%E2%80%93Russell_diagram.txt 1 1782 
+an Hertzsprung%E2%80%93Russell_diagram.txt 11 3 104 211 312 380 675 1243 1439 1651 1670 1676 
+those Hertzsprung%E2%80%93Russell_diagram.txt 3 496 535 854 
+reddening Hertzsprung%E2%80%93Russell_diagram.txt 2 1050 1065 
+divisions Hertzsprung%E2%80%93Russell_diagram.txt 1 275 
+classifications Hertzsprung%E2%80%93Russell_diagram.txt 2 163 252 
+developing Hertzsprung%E2%80%93Russell_diagram.txt 1 1525 
+these Hertzsprung%E2%80%93Russell_diagram.txt 2 329 367 
+as Hertzsprung%E2%80%93Russell_diagram.txt 10 311 371 423 705 1021 1351 1491 1521 1753 1766 
+can Hertzsprung%E2%80%93Russell_diagram.txt 4 984 1213 1257 1275 
+calcium Hertzsprung%E2%80%93Russell_diagram.txt 1 359 
+lyrae Hertzsprung%E2%80%93Russell_diagram.txt 1 1210 
+resolved Hertzsprung%E2%80%93Russell_diagram.txt 1 1482 
+century Hertzsprung%E2%80%93Russell_diagram.txt 1 657 
+almost Hertzsprung%E2%80%93Russell_diagram.txt 1 834 
+is Hertzsprung%E2%80%93Russell_diagram.txt 33 38 62 81 144 395 419 552 614 625 670 672 687 713 731 744 869 876 880 897 944 954 971 974 1059 1151 1173 1271 1305 1332 1338 1349 1356 1703 
+thus Hertzsprung%E2%80%93Russell_diagram.txt 1 1091 
+it Hertzsprung%E2%80%93Russell_diagram.txt 7 169 184 456 686 973 1384 1520 
+surface Hertzsprung%E2%80%93Russell_diagram.txt 3 579 633 817 
+middle Hertzsprung%E2%80%93Russell_diagram.txt 1 653 
+in Hertzsprung%E2%80%93Russell_diagram.txt 43 59 112 219 235 261 266 337 350 391 430 648 651 692 726 836 911 1047 1052 1072 1096 1113 1129 1143 1158 1164 1178 1205 1216 1286 1308 1320 1325 1364 1412 1438 1483 1512 1530 1532 1641 1650 1664 1727 
+helium Hertzsprung%E2%80%93Russell_diagram.txt 2 1156 1576 
+different Hertzsprung%E2%80%93Russell_diagram.txt 1 132 
+combination Hertzsprung%E2%80%93Russell_diagram.txt 1 1572 
+make Hertzsprung%E2%80%93Russell_diagram.txt 1 932 
+radiation Hertzsprung%E2%80%93Russell_diagram.txt 1 1430 
+same Hertzsprung%E2%80%93Russell_diagram.txt 6 305 393 415 480 561 1019 
+any Hertzsprung%E2%80%93Russell_diagram.txt 1 188 
+highlighted Hertzsprung%E2%80%93Russell_diagram.txt 1 1253 
+several Hertzsprung%E2%80%93Russell_diagram.txt 3 326 514 543 
+composition Hertzsprung%E2%80%93Russell_diagram.txt 1 982 
+conflict Hertzsprung%E2%80%93Russell_diagram.txt 2 1453 1479 
+higher Hertzsprung%E2%80%93Russell_diagram.txt 2 578 1241 
+development Hertzsprung%E2%80%93Russell_diagram.txt 1 1366 
+antedating Hertzsprung%E2%80%93Russell_diagram.txt 1 786 
+kelvinhelmholtz Hertzsprung%E2%80%93Russell_diagram.txt 1 1433 
+numerical Hertzsprung%E2%80%93Russell_diagram.txt 1 617 
+monotonic Hertzsprung%E2%80%93Russell_diagram.txt 1 627 
+moving Hertzsprung%E2%80%93Russell_diagram.txt 3 515 520 1403 
+hans Hertzsprung%E2%80%93Russell_diagram.txt 1 339 
+antonia Hertzsprung%E2%80%93Russell_diagram.txt 1 272 
+older Hertzsprung%E2%80%93Russell_diagram.txt 1 1475 
+studies Hertzsprung%E2%80%93Russell_diagram.txt 1 768 
+well Hertzsprung%E2%80%93Russell_diagram.txt 2 109 555 
+roughly Hertzsprung%E2%80%93Russell_diagram.txt 1 1263 
+thought Hertzsprung%E2%80%93Russell_diagram.txt 1 1420 
+nineteenth-century Hertzsprung%E2%80%93Russell_diagram.txt 1 237 
+without Hertzsprung%E2%80%93Russell_diagram.txt 1 432 
+components Hertzsprung%E2%80%93Russell_diagram.txt 1 1252 
+position Hertzsprung%E2%80%93Russell_diagram.txt 1 1654 
+the Hertzsprung%E2%80%93Russell_diagram.txt 171 12 18 33 35 39 43 49 56 60 70 74 79 84 113 128 134 151 154 177 192 217 236 262 277 280 301 304 318 345 351 355 358 375 378 386 392 414 428 464 467 479 487 503 507 519 546 550 560 570 573 583 587 589 593 599 603 608 611 620 631 639 652 655 660 664 695 718 721 728 732 736 757 774 783 795 812 815 820 826 829 832 846 874 882 894 899 916 920 924 937 939 946 952 1018 1022 1030 1033 1037 1041 1048 1053 1057 1078 1097 1108 1111 1114 1117 1120 1124 1135 1146 1153 1159 1168 1174 1179 1196 1199 1203 1206 1217 1226 1229 1237 1247 1254 1280 1284 1287 1290 1302 1309 1313 1318 1329 1334 1343 1365 1377 1389 1406 1409 1413 1432 1442 1455 1458 1471 1484 1492 1502 1508 1535 1539 1543 1550 1552 1555 1565 1571 1592 1634 1656 1665 1694 1699 1707 1712 1729 1742 
+left Hertzsprung%E2%80%93Russell_diagram.txt 2 584 1218 
+distances Hertzsprung%E2%80%93Russell_diagram.txt 3 528 703 1297 
+proposed Hertzsprung%E2%80%93Russell_diagram.txt 1 1563 
+less Hertzsprung%E2%80%93Russell_diagram.txt 1 53 
+being Hertzsprung%E2%80%93Russell_diagram.txt 1 1392 
+obtain Hertzsprung%E2%80%93Russell_diagram.txt 1 531 
+remnants Hertzsprung%E2%80%93Russell_diagram.txt 1 1695 
+yet Hertzsprung%E2%80%93Russell_diagram.txt 1 1622 
+bibliography Hertzsprung%E2%80%93Russell_diagram.txt 1 1780 
+classification Hertzsprung%E2%80%93Russell_diagram.txt 2 307 385 
+had Hertzsprung%E2%80%93Russell_diagram.txt 4 442 1468 1603 1620 
+fitting Hertzsprung%E2%80%93Russell_diagram.txt 1 1354 
+source Hertzsprung%E2%80%93Russell_diagram.txt 4 1020 1493 1567 1593 
+book Hertzsprung%E2%80%93Russell_diagram.txt 1 1534 
+has Hertzsprung%E2%80%93Russell_diagram.txt 1 1092 
+transformation Hertzsprung%E2%80%93Russell_diagram.txt 1 948 
+match Hertzsprung%E2%80%93Russell_diagram.txt 2 853 1328 
+identical Hertzsprung%E2%80%93Russell_diagram.txt 1 702 
+biologists Hertzsprung%E2%80%93Russell_diagram.txt 1 1464 
+showing Hertzsprung%E2%80%93Russell_diagram.txt 5 107 127 150 427 455 
+early Hertzsprung%E2%80%93Russell_diagram.txt 4 381 404 483 767 
+fusion Hertzsprung%E2%80%93Russell_diagram.txt 4 1157 1488 1560 1674 
+know Hertzsprung%E2%80%93Russell_diagram.txt 2 436 1029 
+background Hertzsprung%E2%80%93Russell_diagram.txt 1 233 
+using Hertzsprung%E2%80%93Russell_diagram.txt 1 469 
+prominent Hertzsprung%E2%80%93Russell_diagram.txt 2 37 1171 
+like Hertzsprung%E2%80%93Russell_diagram.txt 2 773 990 
+cooler Hertzsprung%E2%80%93Russell_diagram.txt 1 51 
+arthur Hertzsprung%E2%80%93Russell_diagram.txt 1 1514 
+continue Hertzsprung%E2%80%93Russell_diagram.txt 1 1757 
+indication Hertzsprung%E2%80%93Russell_diagram.txt 1 313 
+mathematical Hertzsprung%E2%80%93Russell_diagram.txt 2 1731 1772 
+often Hertzsprung%E2%80%93Russell_diagram.txt 4 659 673 688 714 
+classical Hertzsprung%E2%80%93Russell_diagram.txt 1 1735 
+sequence Hertzsprung%E2%80%93Russell_diagram.txt 10 58 72 86 621 1122 1137 1201 1353 1411 1658 
+creation Hertzsprung%E2%80%93Russell_diagram.txt 1 1708 
+added Hertzsprung%E2%80%93Russell_diagram.txt 1 1760 
+examples Hertzsprung%E2%80%93Russell_diagram.txt 1 1765 
+proper Hertzsprung%E2%80%93Russell_diagram.txt 1 298 
+transport Hertzsprung%E2%80%93Russell_diagram.txt 1 1638 
+pleiades Hertzsprung%E2%80%93Russell_diagram.txt 2 352 777 
+for Hertzsprung%E2%80%93Russell_diagram.txt 16 119 253 317 325 374 517 534 738 760 799 802 941 1342 1441 1524 1659 
+overlap Hertzsprung%E2%80%93Russell_diagram.txt 1 1317 
+does Hertzsprung%E2%80%93Russell_diagram.txt 1 185 
+measuring Hertzsprung%E2%80%93Russell_diagram.txt 1 176 
+be Hertzsprung%E2%80%93Russell_diagram.txt 11 524 700 807 862 977 985 1214 1258 1276 1746 1759 
+power Hertzsprung%E2%80%93Russell_diagram.txt 1 1569 
+equivalent Hertzsprung%E2%80%93Russell_diagram.txt 1 396 
+conventional Hertzsprung%E2%80%93Russell_diagram.txt 1 1750 
+stellar Hertzsprung%E2%80%93Russell_diagram.txt 15 162 214 632 843 981 991 1087 1368 1373 1387 1495 1528 1642 1739 1754 
+bv Hertzsprung%E2%80%93Russell_diagram.txt 1 94 
+although Hertzsprung%E2%80%93Russell_diagram.txt 1 923 
+instability Hertzsprung%E2%80%93Russell_diagram.txt 3 1230 1238 1248 
+plots Hertzsprung%E2%80%93Russell_diagram.txt 3 170 814 851 
+by Hertzsprung%E2%80%93Russell_diagram.txt 14 198 279 494 644 690 741 778 787 987 1260 1278 1425 1631 1724 
+stage Hertzsprung%E2%80%93Russell_diagram.txt 1 1125 
+on Hertzsprung%E2%80%93Russell_diagram.txt 14 83 173 598 607 822 831 1134 1152 1222 1236 1527 1549 1633 1655 
+of Hertzsprung%E2%80%93Russell_diagram.txt 99 21 32 148 190 213 224 242 255 257 269 276 282 303 314 328 348 357 377 383 389 410 417 426 449 466 472 475 486 538 545 565 572 586 596 622 638 654 663 668 720 735 762 765 769 794 811 819 828 842 848 859 890 893 915 927 980 1043 1080 1083 1086 1107 1126 1149 1198 1219 1225 1283 1293 1299 1359 1367 1376 1408 1415 1444 1447 1449 1457 1494 1501 1507 1538 1545 1558 1568 1573 1586 1594 1616 1636 1639 1661 1672 1679 1689 1693 1709 1716 1738 
+anomalous Hertzsprung%E2%80%93Russell_diagram.txt 1 1764 
+or Hertzsprung%E2%80%93Russell_diagram.txt 9 142 158 164 216 679 996 1002 1013 1298 
+burning Hertzsprung%E2%80%93Russell_diagram.txt 1 1163 
+into Hertzsprung%E2%80%93Russell_diagram.txt 3 29 1429 1575 
+within Hertzsprung%E2%80%93Russell_diagram.txt 1 706 
+interstellar Hertzsprung%E2%80%93Russell_diagram.txt 1 1044 
+predictions Hertzsprung%E2%80%93Russell_diagram.txt 1 1085 
+down Hertzsprung%E2%80%93Russell_diagram.txt 1 1404 
+variable Hertzsprung%E2%80%93Russell_diagram.txt 1 1211 
+references Hertzsprung%E2%80%93Russell_diagram.txt 1 1778 
+strip Hertzsprung%E2%80%93Russell_diagram.txt 3 1231 1239 1249 
+speculated Hertzsprung%E2%80%93Russell_diagram.txt 1 1687 
+uncertainties Hertzsprung%E2%80%93Russell_diagram.txt 1 1094 
+additional Hertzsprung%E2%80%93Russell_diagram.txt 1 1093 
+comparing Hertzsprung%E2%80%93Russell_diagram.txt 2 912 1279 
+segment Hertzsprung%E2%80%93Russell_diagram.txt 1 268 
+there Hertzsprung%E2%80%93Russell_diagram.txt 3 541 743 1756 
+specifically Hertzsprung%E2%80%93Russell_diagram.txt 1 680 
+width Hertzsprung%E2%80%93Russell_diagram.txt 1 281 
+5780 Hertzsprung%E2%80%93Russell_diagram.txt 1 99 
+low Hertzsprung%E2%80%93Russell_diagram.txt 1 907 
+way Hertzsprung%E2%80%93Russell_diagram.txt 2 115 218 
+resulted Hertzsprung%E2%80%93Russell_diagram.txt 1 1437 
+was Hertzsprung%E2%80%93Russell_diagram.txt 11 194 406 462 1323 1473 1480 1489 1516 1570 1581 1598 
+synthesis Hertzsprung%E2%80%93Russell_diagram.txt 1 793 
+function Hertzsprung%E2%80%93Russell_diagram.txt 1 979 
+from Hertzsprung%E2%80%93Russell_diagram.txt 10 11 17 42 506 855 903 949 1017 1272 1396 
+form Hertzsprung%E2%80%93Russell_diagram.txt 7 382 465 810 879 892 914 922 
+hr Hertzsprung%E2%80%93Russell_diagram.txt 7 105 117 138 140 895 917 1244 
+collapsed Hertzsprung%E2%80%93Russell_diagram.txt 1 1395 
+hertzsprungrussell Hertzsprung%E2%80%93Russell_diagram.txt 7 0 5 135 547 677 884 1743 
+but Hertzsprung%E2%80%93Russell_diagram.txt 3 451 619 866 
+solar Hertzsprung%E2%80%93Russell_diagram.txt 1 1459 
+line Hertzsprung%E2%80%93Russell_diagram.txt 4 361 1118 1138 1407 
+with Hertzsprung%E2%80%93Russell_diagram.txt 11 7 291 446 499 577 723 919 1246 1295 1669 1748 
+he Hertzsprung%E2%80%93Russell_diagram.txt 2 308 1541 
+made Hertzsprung%E2%80%93Russell_diagram.txt 2 650 877 
+versions Hertzsprung%E2%80%93Russell_diagram.txt 2 485 637 
+characteristic Hertzsprung%E2%80%93Russell_diagram.txt 1 889 
+gravitational Hertzsprung%E2%80%93Russell_diagram.txt 1 1427 
+theoretical Hertzsprung%E2%80%93Russell_diagram.txt 4 840 883 1084 1100 
+reflects Hertzsprung%E2%80%93Russell_diagram.txt 1 630 
+demonstrate Hertzsprung%E2%80%93Russell_diagram.txt 1 1386 
+problem Hertzsprung%E2%80%93Russell_diagram.txt 1 1630 
+similar Hertzsprung%E2%80%93Russell_diagram.txt 1 930 
+called Hertzsprung%E2%80%93Russell_diagram.txt 9 55 674 756 863 881 1060 1119 1228 1333 
+mechanics Hertzsprung%E2%80%93Russell_diagram.txt 1 1733 
+constant Hertzsprung%E2%80%93Russell_diagram.txt 1 748 
+defined Hertzsprung%E2%80%93Russell_diagram.txt 1 556 
+maury Hertzsprung%E2%80%93Russell_diagram.txt 1 273 
+describe Hertzsprung%E2%80%93Russell_diagram.txt 2 717 1706 
+proven Hertzsprung%E2%80%93Russell_diagram.txt 1 1606 
+general Hertzsprung%E2%80%93Russell_diagram.txt 1 562 
+balmer Hertzsprung%E2%80%93Russell_diagram.txt 1 365 
+single Hertzsprung%E2%80%93Russell_diagram.txt 1 746 
+enable Hertzsprung%E2%80%93Russell_diagram.txt 1 1741 
+exist Hertzsprung%E2%80%93Russell_diagram.txt 1 1608 
+at Hertzsprung%E2%80%93Russell_diagram.txt 8 87 131 246 478 502 701 1240 1589 
+0.66 Hertzsprung%E2%80%93Russell_diagram.txt 1 97 
+russells Hertzsprung%E2%80%93Russell_diagram.txt 3 482 791 1499 
+when Hertzsprung%E2%80%93Russell_diagram.txt 3 873 993 1486 
+4.8 Hertzsprung%E2%80%93Russell_diagram.txt 1 92 
+other Hertzsprung%E2%80%93Russell_diagram.txt 3 833 953 988 
+role Hertzsprung%E2%80%93Russell_diagram.txt 1 1363 
+branch Hertzsprung%E2%80%93Russell_diagram.txt 2 1155 1208 
+elements Hertzsprung%E2%80%93Russell_diagram.txt 1 1710 
+star Hertzsprung%E2%80%93Russell_diagram.txt 7 172 379 708 821 830 1269 1719 
+models Hertzsprung%E2%80%93Russell_diagram.txt 2 1737 1773 
+metallicity Hertzsprung%E2%80%93Russell_diagram.txt 1 1619 
+a5 Hertzsprung%E2%80%93Russell_diagram.txt 1 1182 
+allowing Hertzsprung%E2%80%93Russell_diagram.txt 1 330 
+included Hertzsprung%E2%80%93Russell_diagram.txt 2 274 489 
+hyades Hertzsprung%E2%80%93Russell_diagram.txt 2 508 775 
+structure Hertzsprung%E2%80%93Russell_diagram.txt 1 844 
+physics Hertzsprung%E2%80%93Russell_diagram.txt 3 1369 1529 1544 
+age Hertzsprung%E2%80%93Russell_diagram.txt 2 1440 1456 
+interiors Hertzsprung%E2%80%93Russell_diagram.txt 1 1643 
+having Hertzsprung%E2%80%93Russell_diagram.txt 2 433 1074 
+time Hertzsprung%E2%80%93Russell_diagram.txt 3 230 504 1591 
+far Hertzsprung%E2%80%93Russell_diagram.txt 2 1266 1474 
+cores Hertzsprung%E2%80%93Russell_diagram.txt 1 1145 
+requires Hertzsprung%E2%80%93Russell_diagram.txt 2 964 1007 
+original Hertzsprung%E2%80%93Russell_diagram.txt 1 590 

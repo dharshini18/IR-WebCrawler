@@ -1,0 +1,393 @@
+all Supermoon.txt 1 514 
+consider Supermoon.txt 1 163 
+00:03 Supermoon.txt 1 866 
+four Supermoon.txt 1 188 
+disk Supermoon.txt 1 61 
+causes Supermoon.txt 1 807 
+21st Supermoon.txt 1 245 
+inverse Supermoon.txt 2 411 426 
+graph Supermoon.txt 1 264 
+to Supermoon.txt 18 10 45 113 271 279 352 358 390 409 428 458 500 524 636 654 680 713 956 
+elliptic Supermoon.txt 1 49 
+syzygy Supermoon.txt 4 72 144 603 717 
+risk Supermoon.txt 1 124 
+oceans Supermoon.txt 1 899 
+dell Supermoon.txt 1 475 
+359,000 Supermoon.txt 1 662 
+every Supermoon.txt 1 732 
+espenak Supermoon.txt 1 739 
+difference Supermoon.txt 2 281 575 
+categories Supermoon.txt 2 961 963 
+notes Supermoon.txt 1 947 
+commons Supermoon.txt 1 960 
+large Supermoon.txt 1 853 
+speculation Supermoon.txt 1 821 
+force Supermoon.txt 2 919 935 
+occurrence Supermoon.txt 2 171 310 
+oscillation Supermoon.txt 1 292 
+mi Supermoon.txt 1 672 
+consistent Supermoon.txt 1 625 
+surrounding Supermoon.txt 1 849 
+likely Supermoon.txt 1 356 
+even Supermoon.txt 2 624 929 
+richard Supermoon.txt 2 470 526 
+sun Supermoon.txt 3 512 726 893 
+near Supermoon.txt 4 166 366 493 629 
+indian Supermoon.txt 1 836 
+scientists Supermoon.txt 2 883 884 
+new Supermoon.txt 13 32 82 164 181 275 482 590 642 735 760 788 863 909 
+full Supermoon.txt 16 28 80 179 209 273 331 438 484 588 632 655 733 748 758 786 911 
+led Supermoon.txt 1 112 
+chose Supermoon.txt 1 561 
+never Supermoon.txt 1 557 
+1948 Supermoon.txt 1 230 
+hours Supermoon.txt 2 765 794 
+astrophysicist Supermoon.txt 1 737 
+november Supermoon.txt 3 220 237 869 
+appears Supermoon.txt 1 335 
+technical Supermoon.txt 1 67 
+0.36 Supermoon.txt 1 459 
+31 Supermoon.txt 1 204 
+30 Supermoon.txt 1 397 
+fergus Supermoon.txt 1 554 
+commonly Supermoon.txt 1 195 
+amount Supermoon.txt 1 419 
+extremes Supermoon.txt 1 579 
+resulting Supermoon.txt 2 51 923 
+published Supermoon.txt 2 548 682 
+usually Supermoon.txt 1 185 
+changes Supermoon.txt 1 417 
+diameter Supermoon.txt 1 340 
+wikimedia Supermoon.txt 1 959 
+explained Supermoon.txt 1 564 
+marked Supermoon.txt 1 257 
+rarely Supermoon.txt 1 644 
+from Supermoon.txt 3 22 64 431 
+remains Supermoon.txt 1 383 
+next Supermoon.txt 2 208 319 
+comparing Supermoon.txt 1 677 
+overhead Supermoon.txt 1 451 
+6 Supermoon.txt 1 251 
+until Supermoon.txt 1 236 
+more Supermoon.txt 2 12 78 
+separated Supermoon.txt 1 791 
+apparent Supermoon.txt 2 56 377 
+occurred Supermoon.txt 1 201 
+90 Supermoon.txt 3 495 562 572 
+aligned Supermoon.txt 1 728 
+must Supermoon.txt 1 634 
+this Supermoon.txt 6 151 291 312 354 406 934 
+supermoons Supermoon.txt 3 169 193 253 
+eclipse Supermoon.txt 1 306 
+latitudes Supermoon.txt 1 442 
+history Supermoon.txt 1 544 
+nearest Supermoon.txt 2 259 522 
+links Supermoon.txt 1 952 
+december Supermoon.txt 3 16 214 250 
+occur Supermoon.txt 2 248 635 
+provide Supermoon.txt 1 456 
+surpassed Supermoon.txt 1 235 
+how Supermoon.txt 1 628 
+occasionally Supermoon.txt 1 298 
+widespread Supermoon.txt 1 156 
+horoscope Supermoon.txt 1 476 
+may Supermoon.txt 2 119 189 
+coined Supermoon.txt 2 467 776 
+after Supermoon.txt 1 361 
+apsis Supermoon.txt 1 578 
+preferring Supermoon.txt 1 744 
+such Supermoon.txt 2 134 825 
+law Supermoon.txt 1 413 
+temperate Supermoon.txt 1 441 
+stress Supermoon.txt 1 809 
+short Supermoon.txt 1 508 
+natural Supermoon.txt 1 823 
+light Supermoon.txt 2 415 421 
+prefers Supermoon.txt 1 665 
+perigee-syzygy Supermoon.txt 2 689 773 
+definitions Supermoon.txt 1 461 
+typical Supermoon.txt 1 436 
+tropics Supermoon.txt 1 454 
+astronomical Supermoon.txt 1 97 
+looks Supermoon.txt 1 350 
+still Supermoon.txt 1 937 
+its Supermoon.txt 7 48 375 401 497 521 711 931 
+24 Supermoon.txt 1 764 
+25 Supermoon.txt 1 238 
+26 Supermoon.txt 1 229 
+20 Supermoon.txt 1 17 
+22 Supermoon.txt 1 215 
+illuminance Supermoon.txt 1 394 
+hydrologist Supermoon.txt 1 553 
+2019 Supermoon.txt 1 324 
+2018 Supermoon.txt 3 205 216 316 
+hidden Supermoon.txt 1 962 
+2016 Supermoon.txt 2 222 871 
+2011 Supermoon.txt 3 7 566 828 
+apogee Supermoon.txt 4 143 343 405 609 
+them Supermoon.txt 1 353 
+outlined Supermoon.txt 1 558 
+practice Supermoon.txt 1 618 
+effects Supermoon.txt 1 797 
+not Supermoon.txt 3 154 162 233 
+strategic Supermoon.txt 1 536 
+association Supermoon.txt 1 101 
+kilometres Supermoon.txt 1 670 
+term Supermoon.txt 4 87 152 688 780 
+name Supermoon.txt 3 68 464 533 
+edit Supermoon.txt 7 172 326 462 800 948 950 953 
+january Supermoon.txt 4 203 228 315 323 
+classified Supermoon.txt 1 191 
+magnitude Supermoon.txt 1 855 
+each Supermoon.txt 1 183 
+found Supermoon.txt 1 138 
+square Supermoon.txt 1 412 
+telescope Supermoon.txt 1 651 
+related Supermoon.txt 1 955 
+year Supermoon.txt 2 184 583 
+disasters Supermoon.txt 1 824 
+since Supermoon.txt 1 227 
+micromoon Supermoon.txt 1 149 
+occurs Supermoon.txt 1 487 
+causally Supermoon.txt 1 842 
+fred Supermoon.txt 1 738 
+larger-than-usual Supermoon.txt 1 55 
+220,000 Supermoon.txt 1 671 
+definition Supermoon.txt 6 98 626 667 676 742 755 
+could Supermoon.txt 1 455 
+origin Supermoon.txt 1 92 
+powerful Supermoon.txt 1 933 
+reaches Supermoon.txt 1 44 
+one Supermoon.txt 2 210 218 
+directly Supermoon.txt 1 450 
+north-east Supermoon.txt 1 860 
+size Supermoon.txt 1 57 
+earths Supermoon.txt 1 898 
+given Supermoon.txt 1 504 
+2052 Supermoon.txt 1 252 
+system Supermoon.txt 1 76 
+approximately Supermoon.txt 1 35 
+their Supermoon.txt 1 678 
+observations Supermoon.txt 1 359 
+calculations Supermoon.txt 2 570 679 
+a Supermoon.txt 23 11 24 27 31 53 148 299 303 330 435 448 481 503 516 587 594 646 666 757 814 850 852 875 
+360,000 Supermoon.txt 1 669 
+that Supermoon.txt 9 34 41 115 347 567 804 822 887 913 
+somewhat Supermoon.txt 1 921 
+than Supermoon.txt 2 341 399 
+10 Supermoon.txt 1 793 
+13 Supermoon.txt 1 178 
+12 Supermoon.txt 2 176 846 
+15 Supermoon.txt 1 858 
+14 Supermoon.txt 4 221 295 337 870 
+19 Supermoon.txt 1 6 
+and Supermoon.txt 22 93 108 129 206 231 285 317 369 511 545 610 641 650 716 724 768 784 831 833 839 894 912 
+tide Supermoon.txt 1 901 
+have Supermoon.txt 2 879 885 
+seen Supermoon.txt 1 63 
+ocean Supermoon.txt 1 837 
+linked Supermoon.txt 1 843 
+viewed Supermoon.txt 1 21 
+relatively Supermoon.txt 1 938 
+also Supermoon.txt 6 159 769 775 802 818 872 
+causing Supermoon.txt 1 940 
+which Supermoon.txt 5 416 486 657 705 729 
+earthmoonsun Supermoon.txt 1 75 
+differences Supermoon.txt 1 942 
+though Supermoon.txt 1 150 
+most Supermoon.txt 5 198 308 376 932 946 
+why Supermoon.txt 1 559 
+zealand Supermoon.txt 1 864 
+considered Supermoon.txt 1 593 
+average Supermoon.txt 1 13 
+coincides Supermoon.txt 2 36 301 
+km Supermoon.txt 2 663 859 
+points Supermoon.txt 1 258 
+sunset Supermoon.txt 1 362 
+coincided Supermoon.txt 1 873 
+came Supermoon.txt 1 529 
+precise Supermoon.txt 1 96 
+luminance Supermoon.txt 1 382 
+phenomenon Supermoon.txt 2 118 141 
+7.5 Supermoon.txt 1 854 
+earth Supermoon.txt 11 23 46 65 392 424 501 509 525 715 721 799 
+based Supermoon.txt 1 569 
+proportion Supermoon.txt 1 427 
+brighter Supermoon.txt 1 398 
+only Supermoon.txt 1 444 
+wood Supermoon.txt 3 555 752 774 
+eruptions Supermoon.txt 1 131 
+do Supermoon.txt 1 161 
+perigee Supermoon.txt 13 71 85 167 334 506 616 630 691 700 751 767 783 916 
+anomalistic Supermoon.txt 1 286 
+distance Supermoon.txt 6 40 270 430 601 607 614 
+moons Supermoon.txt 4 165 182 380 643 
+preferred Supermoon.txt 1 695 
+words Supermoon.txt 1 586 
+during Supermoon.txt 2 810 914 
+nolles Supermoon.txt 2 675 741 
+miles Supermoon.txt 1 661 
+where Supermoon.txt 2 597 782 
+farthest Supermoon.txt 1 402 
+nolle Supermoon.txt 5 471 527 556 684 801 
+are Supermoon.txt 4 513 727 790 841 
+proxigee Supermoon.txt 1 781 
+closer Supermoon.txt 1 389 
+oceanic Supermoon.txt 1 107 
+lux Supermoon.txt 2 447 460 
+wikipedia Supermoon.txt 1 1 
+label Supermoon.txt 4 640 648 746 772 
+between Supermoon.txt 1 282 
+reading Supermoon.txt 1 535 
+approach Supermoon.txt 2 499 523 
+nature Supermoon.txt 1 267 
+weak Supermoon.txt 1 939 
+however Supermoon.txt 1 928 
+both Supermoon.txt 1 106 
+astrologer Supermoon.txt 1 469 
+many Supermoon.txt 1 344 
+perigean Supermoon.txt 2 539 925 
+comes Supermoon.txt 1 658 
+arbitrarily Supermoon.txt 1 478 
+volcanic Supermoon.txt 1 130 
+point Supermoon.txt 2 403 703 
+period Supermoon.txt 2 289 848 
+community Supermoon.txt 1 699 
+simply Supermoon.txt 1 79 
+culverden Supermoon.txt 1 862 
+due Supermoon.txt 3 278 357 408 
+been Supermoon.txt 4 137 146 819 880 
+earthquake Supermoon.txt 3 830 838 856 
+bloodmoon Supermoon.txt 1 329 
+combined Supermoon.txt 1 889 
+refuted Supermoon.txt 1 881 
+received Supermoon.txt 1 422 
+observers Supermoon.txt 1 345 
+external Supermoon.txt 1 951 
+these Supermoon.txt 1 877 
+appearance Supermoon.txt 1 325 
+2010 Supermoon.txt 1 18 
+will Supermoon.txt 5 211 232 247 254 320 
+receive Supermoon.txt 2 637 645 
+while Supermoon.txt 3 378 434 534 
+flooding Supermoon.txt 1 547 
+larger Supermoon.txt 1 338 
+century Supermoon.txt 1 246 
+is Supermoon.txt 25 26 69 89 153 277 293 355 365 373 388 395 407 592 598 604 611 620 694 701 708 718 902 907 920 936 
+it Supermoon.txt 1 387 
+surface Supermoon.txt 1 381 
+in Supermoon.txt 24 47 52 91 314 322 339 425 452 472 474 502 507 515 520 542 549 565 576 584 617 685 696 710 924 
+claimed Supermoon.txt 1 803 
+synodic Supermoon.txt 2 284 296 
+if Supermoon.txt 1 596 
+confirmed Supermoon.txt 1 886 
+media Supermoon.txt 2 820 954 
+same Supermoon.txt 1 385 
+2034 Supermoon.txt 1 239 
+contents Supermoon.txt 1 170 
+events Supermoon.txt 1 126 
+week Supermoon.txt 1 847 
+used Supermoon.txt 3 753 770 779 
+closest Supermoon.txt 5 39 225 241 498 709 
+effect Supermoon.txt 1 890 
+uses Supermoon.txt 2 674 740 
+recent Supermoon.txt 2 199 309 
+centred Supermoon.txt 1 857 
+shortly Supermoon.txt 1 360 
+crustal Supermoon.txt 1 109 
+1979 Supermoon.txt 1 473 
+1976 Supermoon.txt 1 550 
+roughly Supermoon.txt 2 294 336 
+0.05-0.1 Supermoon.txt 1 446 
+greatest Supermoon.txt 1 903 
+timeanddate.com Supermoon.txt 1 664 
+claims Supermoon.txt 2 114 878 
+the Supermoon.txt 76 2 38 42 59 66 70 74 86 99 103 116 139 174 197 207 217 224 240 244 256 260 263 265 269 272 280 283 288 307 318 348 367 370 379 384 391 393 410 418 429 432 453 463 489 532 574 581 599 605 612 631 638 687 697 702 706 714 720 722 725 745 754 771 777 785 805 811 827 834 845 888 892 897 900 905 917 
+left Supermoon.txt 1 19 
+summer Supermoon.txt 1 437 
+less Supermoon.txt 2 778 796 
+noaa Supermoon.txt 1 552 
+tables Supermoon.txt 1 681 
+sky Supermoon.txt 1 649 
+bigger Supermoon.txt 1 351 
+has Supermoon.txt 5 94 111 136 145 817 
+earthquakes Supermoon.txt 1 128 
+real Supermoon.txt 1 100 
+march Supermoon.txt 1 5 
+increased Supermoon.txt 1 123 
+possible Supermoon.txt 1 175 
+full/new Supermoon.txt 1 692 
+insist Supermoon.txt 1 346 
+occurring Supermoon.txt 1 762 
+like Supermoon.txt 1 127 
+tsunami Supermoon.txt 2 832 840 
+either Supermoon.txt 1 908 
+right Supermoon.txt 1 8 
+spring Supermoon.txt 2 540 926 
+some Supermoon.txt 1 160 
+supermoon Supermoon.txt 19 0 3 25 88 117 158 200 226 242 300 449 465 595 639 647 815 851 876 957 
+happens Supermoon.txt 1 730 
+total Supermoon.txt 1 304 
+for Supermoon.txt 1 580 
+bottom Supermoon.txt 1 261 
+opposite Supermoon.txt 1 140 
+moon Supermoon.txt 30 14 29 33 43 83 104 276 332 349 364 371 433 439 485 490 510 519 591 633 656 693 707 723 736 749 761 789 806 895 906 
+lunar Supermoon.txt 7 60 305 577 600 606 613 915 
+provides Supermoon.txt 1 443 
+be Supermoon.txt 6 120 190 212 234 255 321 
+scientific Supermoon.txt 1 698 
+oscillating Supermoon.txt 1 266 
+tidal Supermoon.txt 2 918 941 
+refers Supermoon.txt 1 653 
+super Supermoon.txt 1 327 
+by Supermoon.txt 5 468 551 683 792 882 
+on Supermoon.txt 9 202 213 219 249 423 571 798 868 896 
+about Supermoon.txt 2 396 445 
+of Supermoon.txt 26 4 15 58 73 102 125 173 243 262 268 290 311 414 420 496 538 573 627 668 747 756 766 813 861 891 943 
+months Supermoon.txt 2 287 297 
+magazine Supermoon.txt 2 477 652 
+horizon Supermoon.txt 1 368 
+slightly Supermoon.txt 1 54 
+or Supermoon.txt 18 30 77 81 177 180 187 274 404 483 492 589 623 690 734 759 787 795 910 
+within Supermoon.txt 3 494 659 763 
+three Supermoon.txt 1 186 
+because Supermoon.txt 1 386 
+references Supermoon.txt 1 949 
+coastal Supermoon.txt 1 546 
+thoku Supermoon.txt 1 829 
+there Supermoon.txt 2 619 816 
+nzdt Supermoon.txt 1 867 
+was Supermoon.txt 3 223 313 466 
+inches Supermoon.txt 1 944 
+frost Supermoon.txt 1 328 
+but Supermoon.txt 3 132 563 743 
+link Supermoon.txt 1 135 
+solar Supermoon.txt 1 582 
+line Supermoon.txt 1 517 
+with Supermoon.txt 9 37 105 122 302 488 518 531 844 874 
+he Supermoon.txt 3 528 560 568 
+official Supermoon.txt 1 622 
+up Supermoon.txt 2 457 530 
+called Supermoon.txt 1 147 
+associated Supermoon.txt 1 121 
+defined Supermoon.txt 2 196 479 
+stronger Supermoon.txt 1 922 
+an Supermoon.txt 1 142 
+as Supermoon.txt 9 20 62 155 157 168 192 194 480 826 
+geophysical Supermoon.txt 1 808 
+at Supermoon.txt 17 84 333 342 374 400 440 491 602 608 615 704 731 750 865 930 945 958 
+nautical Supermoon.txt 1 543 
+compared Supermoon.txt 1 9 
+no Supermoon.txt 3 95 133 621 
+when Supermoon.txt 3 363 719 904 
+other Supermoon.txt 1 585 
+role Supermoon.txt 1 537 
+astrological Supermoon.txt 1 90 
+223,000 Supermoon.txt 1 660 
+illusion Supermoon.txt 1 372 
+tides Supermoon.txt 3 110 541 927 
+earthsky Supermoon.txt 1 673 
+orbit Supermoon.txt 3 50 505 712 
+2000 Supermoon.txt 1 686 
+2004 Supermoon.txt 1 835 
+time Supermoon.txt 1 812 

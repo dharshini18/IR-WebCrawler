@@ -1,0 +1,266 @@
+atmosphere Magnetic_field_of_the_Moon.txt 3 316 321 401 
+magnetization Magnetic_field_of_the_Moon.txt 1 69 
+evidence Magnetic_field_of_the_Moon.txt 1 293 
+phenomenon Magnetic_field_of_the_Moon.txt 1 213 
+proposed Magnetic_field_of_the_Moon.txt 1 209 
+magnetic Magnetic_field_of_the_Moon.txt 9 0 7 26 54 119 172 234 479 484 
+atom Magnetic_field_of_the_Moon.txt 1 256 
+dynamic Magnetic_field_of_the_Moon.txt 1 416 
+results Magnetic_field_of_the_Moon.txt 1 282 
+astronauts Magnetic_field_of_the_Moon.txt 1 109 
+years Magnetic_field_of_the_Moon.txt 2 125 135 
+spacecraft Magnetic_field_of_the_Moon.txt 2 240 376 
+through Magnetic_field_of_the_Moon.txt 1 429 
+voltage Magnetic_field_of_the_Moon.txt 1 383 
+using Magnetic_field_of_the_Moon.txt 1 253 
+earth Magnetic_field_of_the_Moon.txt 2 40 106 
+named Magnetic_field_of_the_Moon.txt 1 482 
+still Magnetic_field_of_the_Moon.txt 2 96 370 
+fine Magnetic_field_of_the_Moon.txt 1 295 
+its Magnetic_field_of_the_Moon.txt 3 64 254 476 
+impact Magnetic_field_of_the_Moon.txt 2 179 204 
+giant Magnetic_field_of_the_Moon.txt 1 203 
+located Magnetic_field_of_the_Moon.txt 1 197 
+characterization Magnetic_field_of_the_Moon.txt 1 395 
+had Magnetic_field_of_the_Moon.txt 1 116 
+actually Magnetic_field_of_the_Moon.txt 1 300 
+environment Magnetic_field_of_the_Moon.txt 1 404 
+to Magnetic_field_of_the_Moon.txt 8 36 105 149 153 195 349 391 447 
+charge Magnetic_field_of_the_Moon.txt 1 337 
+does Magnetic_field_of_the_Moon.txt 1 48 
+promoting Magnetic_field_of_the_Moon.txt 1 150 
+hidden Magnetic_field_of_the_Moon.txt 1 494 
+has Magnetic_field_of_the_Moon.txt 2 186 207 
+plasma Magnetic_field_of_the_Moon.txt 4 223 279 411 433 
+2013 Magnetic_field_of_the_Moon.txt 1 409 
+then Magnetic_field_of_the_Moon.txt 1 128 
+global Magnetic_field_of_the_Moon.txt 1 336 
+around Magnetic_field_of_the_Moon.txt 2 225 288 
+very Magnetic_field_of_the_Moon.txt 2 32 415 
+flowing Magnetic_field_of_the_Moon.txt 1 287 
+possible Magnetic_field_of_the_Moon.txt 1 161 
+nightside Magnetic_field_of_the_Moon.txt 2 348 382 
+early Magnetic_field_of_the_Moon.txt 1 88 
+electron Magnetic_field_of_the_Moon.txt 1 22 
+antipode Magnetic_field_of_the_Moon.txt 1 247 
+not Magnetic_field_of_the_Moon.txt 1 49 
+during Magnetic_field_of_the_Moon.txt 2 177 384 
+categories Magnetic_field_of_the_Moon.txt 2 493 495 
+odyssey Magnetic_field_of_the_Moon.txt 1 458 
+sub-kev Magnetic_field_of_the_Moon.txt 1 255 
+edit Magnetic_field_of_the_Moon.txt 3 454 490 492 
+alternatively Magnetic_field_of_the_Moon.txt 1 158 
+rocks Magnetic_field_of_the_Moon.txt 1 103 
+large Magnetic_field_of_the_Moon.txt 1 178 
+flux Magnetic_field_of_the_Moon.txt 1 280 
+arthur Magnetic_field_of_the_Moon.txt 1 461 
+detected Magnetic_field_of_the_Moon.txt 1 377 
+fields Magnetic_field_of_the_Moon.txt 1 173 
+small Magnetic_field_of_the_Moon.txt 1 138 
+done Magnetic_field_of_the_Moon.txt 1 397 
+entirely Magnetic_field_of_the_Moon.txt 1 75 
+noted Magnetic_field_of_the_Moon.txt 1 188 
+lasting Magnetic_field_of_the_Moon.txt 1 443 
+sheet Magnetic_field_of_the_Moon.txt 2 412 434 
+strongly Magnetic_field_of_the_Moon.txt 1 346 
+monolith Magnetic_field_of_the_Moon.txt 1 465 
+be Magnetic_field_of_the_Moon.txt 4 58 175 196 359 
+acquired Magnetic_field_of_the_Moon.txt 1 87 
+km Magnetic_field_of_the_Moon.txt 1 265 
+strongest Magnetic_field_of_the_Moon.txt 1 360 
+electrostatic Magnetic_field_of_the_Moon.txt 1 308 
+are Magnetic_field_of_the_Moon.txt 2 44 369 
+enhanced Magnetic_field_of_the_Moon.txt 1 278 
+3.1 Magnetic_field_of_the_Moon.txt 1 133 
+further Magnetic_field_of_the_Moon.txt 1 394 
+tma-1 Magnetic_field_of_the_Moon.txt 1 487 
+even Magnetic_field_of_the_Moon.txt 1 450 
+fiction Magnetic_field_of_the_Moon.txt 1 453 
+orbiter Magnetic_field_of_the_Moon.txt 1 406 
+appear Magnetic_field_of_the_Moon.txt 1 194 
+for Magnetic_field_of_the_Moon.txt 1 236 
+space Magnetic_field_of_the_Moon.txt 1 457 
+currently Magnetic_field_of_the_Moon.txt 1 50 
+wikipedia Magnetic_field_of_the_Moon.txt 1 5 
+moon Magnetic_field_of_the_Moon.txt 10 4 15 30 47 102 113 170 227 427 470 
+particles Magnetic_field_of_the_Moon.txt 1 296 
+state Magnetic_field_of_the_Moon.txt 1 421 
+experiment Magnetic_field_of_the_Moon.txt 1 24 
+lunar Magnetic_field_of_the_Moon.txt 7 20 90 142 305 374 381 400 
+moons Magnetic_field_of_the_Moon.txt 2 250 363 
+drawn Magnetic_field_of_the_Moon.txt 1 332 
+encounters Magnetic_field_of_the_Moon.txt 1 442 
+across Magnetic_field_of_the_Moon.txt 2 266 437 
+360 Magnetic_field_of_the_Moon.txt 1 264 
+body Magnetic_field_of_the_Moon.txt 1 166 
+core Magnetic_field_of_the_Moon.txt 2 65 143 
+crossings Magnetic_field_of_the_Moon.txt 1 386 
+magnetotail Magnetic_field_of_the_Moon.txt 2 385 431 
+theory Magnetic_field_of_the_Moon.txt 1 157 
+mapped Magnetic_field_of_the_Moon.txt 1 241 
+weak Magnetic_field_of_the_Moon.txt 1 33 
+however Magnetic_field_of_the_Moon.txt 1 144 
+free Magnetic_field_of_the_Moon.txt 1 218 
+orbits Magnetic_field_of_the_Moon.txt 1 428 
+hours Magnetic_field_of_the_Moon.txt 1 448 
+diaphanous Magnetic_field_of_the_Moon.txt 1 330 
+hypothesis Magnetic_field_of_the_Moon.txt 2 80 152 
+expansion Magnetic_field_of_the_Moon.txt 1 219 
+references Magnetic_field_of_the_Moon.txt 1 491 
+found Magnetic_field_of_the_Moon.txt 1 467 
+geodynamo Magnetic_field_of_the_Moon.txt 2 62 94 
+strong Magnetic_field_of_the_Moon.txt 1 118 
+by Magnetic_field_of_the_Moon.txt 8 60 107 273 307 333 398 460 475 
+antipodes Magnetic_field_of_the_Moon.txt 1 200 
+comparison Magnetic_field_of_the_Moon.txt 1 35 
+c Magnetic_field_of_the_Moon.txt 1 462 
+of Magnetic_field_of_the_Moon.txt 17 2 13 28 38 100 140 156 183 201 220 231 277 297 317 329 366 422 
+could Magnetic_field_of_the_Moon.txt 3 174 214 311 
+diminished Magnetic_field_of_the_Moon.txt 1 130 
+days Magnetic_field_of_the_Moon.txt 1 451 
+side Magnetic_field_of_the_Moon.txt 1 252 
+motion Magnetic_field_of_the_Moon.txt 1 423 
+jumping Magnetic_field_of_the_Moon.txt 1 387 
+repulsion Magnetic_field_of_the_Moon.txt 1 309 
+operating Magnetic_field_of_the_Moon.txt 1 97 
+theres Magnetic_field_of_the_Moon.txt 1 291 
+changes Magnetic_field_of_the_Moon.txt 1 378 
+crisium Magnetic_field_of_the_Moon.txt 1 246 
+1000 Magnetic_field_of_the_Moon.txt 1 392 
+origin Magnetic_field_of_the_Moon.txt 1 78 
+300-km-thick Magnetic_field_of_the_Moon.txt 1 275 
+major Magnetic_field_of_the_Moon.txt 1 42 
+ago Magnetic_field_of_the_Moon.txt 2 126 136 
+presence Magnetic_field_of_the_Moon.txt 1 230 
+basins Magnetic_field_of_the_Moon.txt 1 205 
+into Magnetic_field_of_the_Moon.txt 1 326 
+float Magnetic_field_of_the_Moon.txt 1 301 
+powerful Magnetic_field_of_the_Moon.txt 1 478 
+sweep Magnetic_field_of_the_Moon.txt 1 436 
+one Magnetic_field_of_the_Moon.txt 1 79 
+brought Magnetic_field_of_the_Moon.txt 1 104 
+dust Magnetic_field_of_the_Moon.txt 4 318 340 355 403 
+dayside Magnetic_field_of_the_Moon.txt 1 353 
+been Magnetic_field_of_the_Moon.txt 2 187 208 
+total Magnetic_field_of_the_Moon.txt 1 6 
+cloud Magnetic_field_of_the_Moon.txt 1 224 
+size Magnetic_field_of_the_Moon.txt 1 139 
+late Magnetic_field_of_the_Moon.txt 1 408 
+or Magnetic_field_of_the_Moon.txt 1 449 
+from Magnetic_field_of_the_Moon.txt 7 18 216 283 303 344 388 445 
+would Magnetic_field_of_the_Moon.txt 3 57 341 358 
+instrument Magnetic_field_of_the_Moon.txt 1 260 
+terminator Magnetic_field_of_the_Moon.txt 1 364 
+support Magnetic_field_of_the_Moon.txt 1 182 
+sara Magnetic_field_of_the_Moon.txt 1 259 
+negative Magnetic_field_of_the_Moon.txt 2 347 352 
+least Magnetic_field_of_the_Moon.txt 1 122 
+prospector Magnetic_field_of_the_Moon.txt 2 21 375 
+reflectometer Magnetic_field_of_the_Moon.txt 1 23 
+magnetized Magnetic_field_of_the_Moon.txt 1 101 
+much Magnetic_field_of_the_Moon.txt 1 365 
+slowly Magnetic_field_of_the_Moon.txt 1 129 
+storm Magnetic_field_of_the_Moon.txt 1 356 
+series Magnetic_field_of_the_Moon.txt 1 459 
+anywhere Magnetic_field_of_the_Moon.txt 1 444 
+was Magnetic_field_of_the_Moon.txt 2 95 396 
+until Magnetic_field_of_the_Moon.txt 1 132 
+naturally Magnetic_field_of_the_Moon.txt 1 342 
+sort Magnetic_field_of_the_Moon.txt 1 328 
+a Magnetic_field_of_the_Moon.txt 13 52 61 93 117 146 212 242 274 313 327 414 419 464 
+that Magnetic_field_of_the_Moon.txt 11 37 45 70 82 111 151 162 189 210 281 294 
+differences Magnetic_field_of_the_Moon.txt 2 43 334 
+but Magnetic_field_of_the_Moon.txt 1 372 
+transient Magnetic_field_of_the_Moon.txt 1 171 
+solar Magnetic_field_of_the_Moon.txt 1 285 
+varying Magnetic_field_of_the_Moon.txt 1 68 
+apollo Magnetic_field_of_the_Moon.txt 1 108 
+with Magnetic_field_of_the_Moon.txt 1 441 
+potential Magnetic_field_of_the_Moon.txt 1 147 
+present Magnetic_field_of_the_Moon.txt 1 72 
+must Magnetic_field_of_the_Moon.txt 1 114 
+fly Magnetic_field_of_the_Moon.txt 1 343 
+also Magnetic_field_of_the_Moon.txt 2 323 489 
+showed Magnetic_field_of_the_Moon.txt 1 110 
+this Magnetic_field_of_the_Moon.txt 3 184 310 354 
+might Magnetic_field_of_the_Moon.txt 2 299 322 
+up Magnetic_field_of_the_Moon.txt 1 131 
+near Magnetic_field_of_the_Moon.txt 2 198 471 
+itself Magnetic_field_of_the_Moon.txt 1 325 
+can Magnetic_field_of_the_Moon.txt 1 435 
+were Magnetic_field_of_the_Moon.txt 1 86 
+growing Magnetic_field_of_the_Moon.txt 1 292 
+minutes Magnetic_field_of_the_Moon.txt 1 446 
+example Magnetic_field_of_the_Moon.txt 1 237 
+history Magnetic_field_of_the_Moon.txt 1 91 
+and Magnetic_field_of_the_Moon.txt 4 66 270 402 481 
+v Magnetic_field_of_the_Moon.txt 2 390 393 
+constant Magnetic_field_of_the_Moon.txt 1 420 
+almost Magnetic_field_of_the_Moon.txt 1 74 
+is Magnetic_field_of_the_Moon.txt 9 31 71 73 145 160 263 271 413 466 
+ambient Magnetic_field_of_the_Moon.txt 1 233 
+it Magnetic_field_of_the_Moon.txt 4 159 185 206 438 
+surface Magnetic_field_of_the_Moon.txt 3 12 269 306 
+an Magnetic_field_of_the_Moon.txt 4 98 164 221 232 
+analyzer Magnetic_field_of_the_Moon.txt 1 258 
+as Magnetic_field_of_the_Moon.txt 4 16 56 168 425 
+obstacle Magnetic_field_of_the_Moon.txt 1 148 
+at Magnetic_field_of_the_Moon.txt 5 10 121 244 267 361 
+have Magnetic_field_of_the_Moon.txt 2 51 115 
+in Magnetic_field_of_the_Moon.txt 12 34 63 77 89 181 228 335 379 407 418 452 455 
+mini-magnetosphere Magnetic_field_of_the_Moon.txt 3 243 262 290 
+create Magnetic_field_of_the_Moon.txt 1 312 
+floating Magnetic_field_of_the_Moon.txt 1 339 
+result Magnetic_field_of_the_Moon.txt 1 215 
+these Magnetic_field_of_the_Moon.txt 1 367 
+strength Magnetic_field_of_the_Moon.txt 1 9 
+surrounded Magnetic_field_of_the_Moon.txt 1 272 
+speculative Magnetic_field_of_the_Moon.txt 1 371 
+holds Magnetic_field_of_the_Moon.txt 1 81 
+when Magnetic_field_of_the_Moon.txt 1 92 
+impact-generated Magnetic_field_of_the_Moon.txt 1 222 
+1 Magnetic_field_of_the_Moon.txt 1 486 
+field Magnetic_field_of_the_Moon.txt 7 1 8 27 55 120 235 480 
+other Magnetic_field_of_the_Moon.txt 1 41 
+details Magnetic_field_of_the_Moon.txt 1 368 
+which Magnetic_field_of_the_Moon.txt 1 127 
+largest Magnetic_field_of_the_Moon.txt 1 191 
+dipolar Magnetic_field_of_the_Moon.txt 1 53 
+many Magnetic_field_of_the_Moon.txt 1 439 
+events Magnetic_field_of_the_Moon.txt 1 180 
+status Magnetic_field_of_the_Moon.txt 1 155 
+200 Magnetic_field_of_the_Moon.txt 1 389 
+moondust Magnetic_field_of_the_Moon.txt 2 298 320 
+temporary Magnetic_field_of_the_Moon.txt 1 314 
+explorer Magnetic_field_of_the_Moon.txt 1 405 
+see Magnetic_field_of_the_Moon.txt 1 488 
+crater Magnetic_field_of_the_Moon.txt 1 473 
+derived Magnetic_field_of_the_Moon.txt 1 17 
+effect Magnetic_field_of_the_Moon.txt 1 357 
+generated Magnetic_field_of_the_Moon.txt 2 59 176 
+chandrayaan-1 Magnetic_field_of_the_Moon.txt 1 239 
+tycho Magnetic_field_of_the_Moon.txt 2 474 483 
+unnaturally Magnetic_field_of_the_Moon.txt 1 477 
+magnetizations Magnetic_field_of_the_Moon.txt 2 85 193 
+airless Magnetic_field_of_the_Moon.txt 1 165 
+such Magnetic_field_of_the_Moon.txt 2 167 211 
+on Magnetic_field_of_the_Moon.txt 3 163 248 468 
+4.25 Magnetic_field_of_the_Moon.txt 1 123 
+structure Magnetic_field_of_the_Moon.txt 1 417 
+times Magnetic_field_of_the_Moon.txt 1 440 
+billion Magnetic_field_of_the_Moon.txt 2 124 134 
+ejected Magnetic_field_of_the_Moon.txt 1 302 
+weakly Magnetic_field_of_the_Moon.txt 1 351 
+crustal Magnetic_field_of_the_Moon.txt 3 76 84 192 
+gather Magnetic_field_of_the_Moon.txt 1 324 
+nighttime Magnetic_field_of_the_Moon.txt 1 315 
+analysis Magnetic_field_of_the_Moon.txt 1 99 
+accumulation Magnetic_field_of_the_Moon.txt 1 338 
+reflecting Magnetic_field_of_the_Moon.txt 1 257 
+so Magnetic_field_of_the_Moon.txt 1 424 
+anomaly Magnetic_field_of_the_Moon.txt 1 485 
+far Magnetic_field_of_the_Moon.txt 1 251 
+region Magnetic_field_of_the_Moon.txt 1 276 
+the Magnetic_field_of_the_Moon.txt 43 3 11 14 19 25 29 39 46 67 83 112 137 141 154 169 190 199 202 217 226 229 238 245 249 261 268 284 289 304 319 345 350 362 373 380 399 410 426 430 432 456 469 472 
+clarke Magnetic_field_of_the_Moon.txt 1 463 
+wind Magnetic_field_of_the_Moon.txt 2 286 331 

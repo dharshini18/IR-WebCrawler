@@ -1,0 +1,375 @@
+all Transit_of_Mercury.txt 1 990 
+partial Transit_of_Mercury.txt 1 837 
+month Transit_of_Mercury.txt 1 953 
+four Transit_of_Mercury.txt 1 154 
+disk Transit_of_Mercury.txt 6 90 104 265 302 309 882 
+transits Transit_of_Mercury.txt 33 108 120 144 155 224 356 368 378 400 441 443 489 494 523 635 651 661 662 676 682 704 710 738 747 761 768 774 781 824 838 907 933 992 
+transiting Transit_of_Mercury.txt 2 42 203 
+passage Transit_of_Mercury.txt 1 559 
+to Transit_of_Mercury.txt 12 113 136 252 259 269 284 618 737 855 876 945 957 
+nodes Transit_of_Mercury.txt 1 512 
+include Transit_of_Mercury.txt 2 765 778 
+solex Transit_of_Mercury.txt 1 834 
+categories Transit_of_Mercury.txt 2 1006 1008 
+did Transit_of_Mercury.txt 1 962 
+this Transit_of_Mercury.txt 2 4 743 
+small Transit_of_Mercury.txt 1 85 
+venus Transit_of_Mercury.txt 5 122 229 937 950 977 
+optics Transit_of_Mercury.txt 1 349 
+noted Transit_of_Mercury.txt 2 607 628 
+occurrence Transit_of_Mercury.txt 2 439 931 
+past Transit_of_Mercury.txt 1 904 
+further Transit_of_Mercury.txt 3 695 723 800 
+inaccurate Transit_of_Mercury.txt 1 958 
+south Transit_of_Mercury.txt 1 724 
+sunspots Transit_of_Mercury.txt 1 36 
+sun Transit_of_Mercury.txt 16 44 62 73 107 138 205 278 312 590 620 693 721 798 851 859 893 
+consistently Transit_of_Mercury.txt 1 622 
+increasing Transit_of_Mercury.txt 1 516 
+body Transit_of_Mercury.txt 1 219 
+hours Transit_of_Mercury.txt 1 190 
+path Transit_of_Mercury.txt 3 688 716 793 
+november Transit_of_Mercury.txt 16 32 151 158 164 176 182 407 429 474 493 650 675 760 790 842 919 
+appears Transit_of_Mercury.txt 3 95 268 854 
+deduced Transit_of_Mercury.txt 1 656 
+33 Transit_of_Mercury.txt 1 598 
+completely Transit_of_Mercury.txt 1 890 
+later Transit_of_Mercury.txt 1 954 
+diameter Transit_of_Mercury.txt 2 481 642 
+transit Transit_of_Mercury.txt 20 0 17 21 28 57 93 187 212 257 410 438 500 701 729 806 846 862 914 948 975 
+explained Transit_of_Mercury.txt 1 532 
+visible Transit_of_Mercury.txt 3 79 332 969 
+1st Transit_of_Mercury.txt 2 287 317 
+limb Transit_of_Mercury.txt 1 275 
+readily Transit_of_Mercury.txt 1 331 
+from Transit_of_Mercury.txt 7 216 411 567 883 896 970 995 
+takes Transit_of_Mercury.txt 1 63 
+would Transit_of_Mercury.txt 2 764 777 
+predictions Transit_of_Mercury.txt 1 822 
+next Transit_of_Mercury.txt 1 172 
+scenarios Transit_of_Mercury.txt 1 867 
+comparing Transit_of_Mercury.txt 1 636 
+6 Transit_of_Mercury.txt 1 595 
+until Transit_of_Mercury.txt 1 981 
+more Transit_of_Mercury.txt 3 117 142 222 
+occurred Transit_of_Mercury.txt 1 156 
+mercurys Transit_of_Mercury.txt 2 458 514 
+southwards Transit_of_Mercury.txt 1 626 
+aligned Transit_of_Mercury.txt 1 453 
+1999 Transit_of_Mercury.txt 3 160 409 844 
+longitude Transit_of_Mercury.txt 2 509 563 
+values Transit_of_Mercury.txt 1 572 
+can Transit_of_Mercury.txt 5 225 446 574 668 753 
+following Transit_of_Mercury.txt 1 653 
+deg Transit_of_Mercury.txt 1 520 
+links Transit_of_Mercury.txt 1 1004 
+numbers Transit_of_Mercury.txt 1 808 
+occur Transit_of_Mercury.txt 8 147 174 227 448 526 664 749 903 
+ratio Transit_of_Mercury.txt 1 569 
+northwards Transit_of_Mercury.txt 1 624 
+displacements Transit_of_Mercury.txt 3 630 632 638 
+explorer Transit_of_Mercury.txt 1 417 
+may Transit_of_Mercury.txt 12 25 149 161 168 435 469 488 646 654 703 773 788 
+orbits Transit_of_Mercury.txt 1 140 
+4th Transit_of_Mercury.txt 2 291 319 
+curiosity Transit_of_Mercury.txt 2 50 198 
+date Transit_of_Mercury.txt 1 497 
+1882 Transit_of_Mercury.txt 1 534 
+1881 Transit_of_Mercury.txt 1 360 
+a Transit_of_Mercury.txt 21 56 75 84 92 97 185 210 217 256 314 455 465 499 505 528 672 734 757 861 913 974 
+frequent Transit_of_Mercury.txt 1 118 
+874 Transit_of_Mercury.txt 1 684 
+typical Transit_of_Mercury.txt 1 186 
+passages Transit_of_Mercury.txt 1 540 
+astronomical Transit_of_Mercury.txt 2 9 959 
+years Transit_of_Mercury.txt 8 603 666 685 713 751 771 784 829 
+through Transit_of_Mercury.txt 2 543 560 
+135 Transit_of_Mercury.txt 1 767 
+its Transit_of_Mercury.txt 1 548 
+before Transit_of_Mercury.txt 1 940 
+superior Transit_of_Mercury.txt 1 76 
+359-420 Transit_of_Mercury.txt 1 391 
+rapidly Transit_of_Mercury.txt 1 143 
+detected Transit_of_Mercury.txt 1 324 
+2019 Transit_of_Mercury.txt 1 178 
+2014 Transit_of_Mercury.txt 2 55 194 
+hidden Transit_of_Mercury.txt 1 1007 
+2016 Transit_of_Mercury.txt 3 27 170 437 
+2032 Transit_of_Mercury.txt 1 184 
+then Transit_of_Mercury.txt 1 180 
+not Transit_of_Mercury.txt 4 810 963 968 979 
+day Transit_of_Mercury.txt 1 426 
+easily Transit_of_Mercury.txt 1 576 
+edit Transit_of_Mercury.txt 7 247 442 841 908 1000 1002 1005 
+fully Transit_of_Mercury.txt 2 306 878 
+drop Transit_of_Mercury.txt 1 339 
+each Transit_of_Mercury.txt 4 677 705 762 775 
+referred Transit_of_Mercury.txt 1 283 
+series Transit_of_Mercury.txt 9 673 678 706 735 758 763 776 791 807 
+investigated Transit_of_Mercury.txt 1 232 
+year Transit_of_Mercury.txt 1 820 
+46-year Transit_of_Mercury.txt 1 744 
+shown Transit_of_Mercury.txt 1 577 
+3rd Transit_of_Mercury.txt 4 289 297 328 374 
+quality Transit_of_Mercury.txt 1 346 
+7 Transit_of_Mercury.txt 3 162 596 920 
+occurs Transit_of_Mercury.txt 1 463 
+predicted Transit_of_Mercury.txt 1 929 
+jeremiah Transit_of_Mercury.txt 1 984 
+passes Transit_of_Mercury.txt 2 69 799 
+possibility Transit_of_Mercury.txt 1 869 
+ascending Transit_of_Mercury.txt 2 476 545 
+graze Transit_of_Mercury.txt 1 857 
+besides Transit_of_Mercury.txt 1 220 
+transition Transit_of_Mercury.txt 1 413 
+days Transit_of_Mercury.txt 3 467 552 566 
+times Transit_of_Mercury.txt 3 262 354 376 
+place Transit_of_Mercury.txt 1 64 
+due Transit_of_Mercury.txt 1 956 
+hence Transit_of_Mercury.txt 1 82 
+moving Transit_of_Mercury.txt 1 101 
+fourmilab Transit_of_Mercury.txt 1 836 
+first Transit_of_Mercury.txt 2 208 910 
+apods Transit_of_Mercury.txt 1 432 
+number Transit_of_Mercury.txt 2 585 736 
+one Transit_of_Mercury.txt 1 952 
+featured Transit_of_Mercury.txt 1 433 
+directly Transit_of_Mercury.txt 1 70 
+miss Transit_of_Mercury.txt 1 891 
+angular Transit_of_Mercury.txt 1 480 
+171 Transit_of_Mercury.txt 1 600 
+mercury Transit_of_Mercury.txt 33 2 19 23 30 41 59 68 94 110 133 146 202 267 304 370 402 445 483 525 542 579 616 690 718 795 826 840 848 853 873 916 935 994 
+earths Transit_of_Mercury.txt 1 558 
+given Transit_of_Mercury.txt 2 362 384 
+similarly Transit_of_Mercury.txt 1 746 
+europe Transit_of_Mercury.txt 1 973 
+observations Transit_of_Mercury.txt 1 246 
+hypothetical Transit_of_Mercury.txt 1 240 
+that Transit_of_Mercury.txt 8 461 561 578 608 663 748 941 965 
+accurately Transit_of_Mercury.txt 1 323 
+part Transit_of_Mercury.txt 1 131 
+authors Transit_of_Mercury.txt 1 731 
+than Transit_of_Mercury.txt 4 119 697 725 802 
+11 Transit_of_Mercury.txt 1 177 
+relative Transit_of_Mercury.txt 1 617 
+13 Transit_of_Mercury.txt 3 125 183 597 
+observatory Transit_of_Mercury.txt 1 388 
+15 Transit_of_Mercury.txt 3 159 408 843 
+14 Transit_of_Mercury.txt 1 127 
+19 Transit_of_Mercury.txt 1 430 
+future Transit_of_Mercury.txt 1 906 
+historical Transit_of_Mercury.txt 1 991 
+were Transit_of_Mercury.txt 2 231 420 
+result Transit_of_Mercury.txt 1 506 
+and Transit_of_Mercury.txt 26 39 74 81 139 167 179 230 290 296 318 327 344 359 373 381 415 473 490 553 601 647 789 835 889 905 936 
+1.1 Transit_of_Mercury.txt 1 519 
+1605 Transit_of_Mercury.txt 1 996 
+disambiguation Transit_of_Mercury.txt 1 20 
+kepler Transit_of_Mercury.txt 1 926 
+have Transit_of_Mercury.txt 2 732 809 
+seen Transit_of_Mercury.txt 2 875 895 
+viewed Transit_of_Mercury.txt 1 46 
+paths Transit_of_Mercury.txt 1 614 
+traditionally Transit_of_Mercury.txt 2 282 812 
+also Transit_of_Mercury.txt 2 226 999 
+trace Transit_of_Mercury.txt 1 418 
+investigations Transit_of_Mercury.txt 1 397 
+most Transit_of_Mercury.txt 2 249 971 
+regular Transit_of_Mercury.txt 1 529 
+successive Transit_of_Mercury.txt 1 613 
+observation Transit_of_Mercury.txt 2 251 911 
+average Transit_of_Mercury.txt 1 496 
+sometimes Transit_of_Mercury.txt 1 852 
+30,000 Transit_of_Mercury.txt 1 770 
+bulletin Transit_of_Mercury.txt 1 389 
+dot Transit_of_Mercury.txt 1 100 
+planetary Transit_of_Mercury.txt 1 211 
+phenomenon Transit_of_Mercury.txt 1 10 
+earth Transit_of_Mercury.txt 4 12 114 221 451 
+based Transit_of_Mercury.txt 1 398 
+observe Transit_of_Mercury.txt 1 946 
+only Transit_of_Mercury.txt 2 447 856 
+black Transit_of_Mercury.txt 2 99 338 
+8 Transit_of_Mercury.txt 3 33 165 470 
+over Transit_of_Mercury.txt 6 502 591 683 711 769 782 
+10 Transit_of_Mercury.txt 3 475 491 709 
+cannot Transit_of_Mercury.txt 2 321 902 
+during Transit_of_Mercury.txt 2 91 860 
+covering Transit_of_Mercury.txt 1 827 
+414 Transit_of_Mercury.txt 1 712 
+common Transit_of_Mercury.txt 1 250 
+921 Transit_of_Mercury.txt 1 37 
+922 Transit_of_Mercury.txt 1 38 
+923 Transit_of_Mercury.txt 1 40 
+where Transit_of_Mercury.txt 1 870 
+87.969 Transit_of_Mercury.txt 1 551 
+irradiation Transit_of_Mercury.txt 1 341 
+observed Transit_of_Mercury.txt 5 199 215 352 371 980 
+see Transit_of_Mercury.txt 2 16 998 
+are Transit_of_Mercury.txt 9 115 281 330 361 383 403 621 830 864 
+closer Transit_of_Mercury.txt 1 135 
+apod Transit_of_Mercury.txt 1 427 
+31.7 Transit_of_Mercury.txt 1 644 
+subsequent Transit_of_Mercury.txt 1 634 
+currently Transit_of_Mercury.txt 1 460 
+wikipedia Transit_of_Mercury.txt 1 3 
+3 Transit_of_Mercury.txt 2 54 193 
+between Transit_of_Mercury.txt 6 71 357 379 539 556 660 
+conditions Transit_of_Mercury.txt 1 343 
+across Transit_of_Mercury.txt 6 60 102 691 719 796 849 
+available Transit_of_Mercury.txt 1 831 
+tables Transit_of_Mercury.txt 1 960 
+however Transit_of_Mercury.txt 1 928 
+article Transit_of_Mercury.txt 1 5 
+both Transit_of_Mercury.txt 1 786 
+last Transit_of_Mercury.txt 1 153 
+many Transit_of_Mercury.txt 1 828 
+region Transit_of_Mercury.txt 1 414 
+against Transit_of_Mercury.txt 1 80 
+s Transit_of_Mercury.txt 1 364 
+context Transit_of_Mercury.txt 1 235 
+passing Transit_of_Mercury.txt 2 694 722 
+32.4 Transit_of_Mercury.txt 1 648 
+had Transit_of_Mercury.txt 1 927 
+newcombs Transit_of_Mercury.txt 1 365 
+2nd Transit_of_Mercury.txt 4 288 295 326 372 
+respect Transit_of_Mercury.txt 1 112 
+allocated Transit_of_Mercury.txt 2 733 813 
+basis Transit_of_Mercury.txt 3 530 741 816 
+three Transit_of_Mercury.txt 1 431 
+been Transit_of_Mercury.txt 2 214 811 
+johannes Transit_of_Mercury.txt 1 925 
+much Transit_of_Mercury.txt 1 116 
+mars Transit_of_Mercury.txt 2 52 196 
+vulcan Transit_of_Mercury.txt 1 243 
+external Transit_of_Mercury.txt 1 1003 
+obscuring Transit_of_Mercury.txt 1 83 
+general Transit_of_Mercury.txt 1 315 
+those Transit_of_Mercury.txt 1 279 
+20 Transit_of_Mercury.txt 1 681 
+has Transit_of_Mercury.txt 1 213 
+atmospheric Transit_of_Mercury.txt 1 342 
+these Transit_of_Mercury.txt 3 571 610 637 
+will Transit_of_Mercury.txt 2 173 580 
+while Transit_of_Mercury.txt 1 325 
+no.181 Transit_of_Mercury.txt 1 390 
+century Transit_of_Mercury.txt 2 129 522 
+almost Transit_of_Mercury.txt 1 583 
+is Transit_of_Mercury.txt 8 6 134 258 305 452 550 564 874 
+365.254 Transit_of_Mercury.txt 1 565 
+it Transit_of_Mercury.txt 3 141 573 966 
+in Transit_of_Mercury.txt 8 130 148 233 271 363 385 533 604 
+1677 Transit_of_Mercury.txt 2 358 380 
+revolutions Transit_of_Mercury.txt 1 587 
+make Transit_of_Mercury.txt 1 581 
+same Transit_of_Mercury.txt 1 562 
+crommelin Transit_of_Mercury.txt 1 606 
+parts Transit_of_Mercury.txt 2 885 898 
+contents Transit_of_Mercury.txt 1 244 
+9 Transit_of_Mercury.txt 3 26 169 436 
+several Transit_of_Mercury.txt 1 189 
+satellite Transit_of_Mercury.txt 1 419 
+used Transit_of_Mercury.txt 1 351 
+centuries Transit_of_Mercury.txt 1 503 
+effect Transit_of_Mercury.txt 1 340 
+horrocks Transit_of_Mercury.txt 1 985 
+uses Transit_of_Mercury.txt 1 15 
+1975 Transit_of_Mercury.txt 1 392 
+1973 Transit_of_Mercury.txt 1 382 
+analysis Transit_of_Mercury.txt 1 366 
+contact Transit_of_Mercury.txt 2 272 353 
+simulated Transit_of_Mercury.txt 1 845 
+the Transit_of_Mercury.txt 78 8 43 48 61 66 72 88 103 106 137 152 171 195 200 204 207 234 239 248 261 264 274 277 286 294 301 308 311 334 337 345 348 395 406 412 425 434 450 479 495 508 511 537 544 554 557 568 589 612 619 629 640 652 658 687 692 699 715 720 727 740 787 792 797 804 815 818 850 858 868 880 887 892 900 909 930 947 986 
+217 Transit_of_Mercury.txt 3 602 750 819 
+just Transit_of_Mercury.txt 1 951 
+being Transit_of_Mercury.txt 2 350 484 
+when Transit_of_Mercury.txt 4 65 263 300 449 
+intervals Transit_of_Mercury.txt 2 592 611 
+alignment Transit_of_Mercury.txt 1 462 
+previous Transit_of_Mercury.txt 3 700 728 805 
+rover Transit_of_Mercury.txt 2 49 197 
+greenwich Transit_of_Mercury.txt 1 387 
+royal Transit_of_Mercury.txt 1 386 
+realize Transit_of_Mercury.txt 1 964 
+4 Transit_of_Mercury.txt 1 594 
+occurring Transit_of_Mercury.txt 1 299 
+possible Transit_of_Mercury.txt 1 866 
+increases Transit_of_Mercury.txt 1 501 
+descending Transit_of_Mercury.txt 1 471 
+mid-transit Transit_of_Mercury.txt 1 872 
+world Transit_of_Mercury.txt 2 888 901 
+apart Transit_of_Mercury.txt 2 667 752 
+displaced Transit_of_Mercury.txt 1 623 
+grouping Transit_of_Mercury.txt 2 745 821 
+because Transit_of_Mercury.txt 1 132 
+some Transit_of_Mercury.txt 3 730 884 938 
+pierre Transit_of_Mercury.txt 1 923 
+110 Transit_of_Mercury.txt 1 780 
+table Transit_of_Mercury.txt 1 987 
+images Transit_of_Mercury.txt 1 404 
+for Transit_of_Mercury.txt 18 13 228 238 355 377 487 492 498 645 649 674 698 702 726 759 772 785 803 
+contacts Transit_of_Mercury.txt 6 280 292 298 320 329 375 
+per Transit_of_Mercury.txt 2 128 521 
+gassendi Transit_of_Mercury.txt 2 924 942 
+newcomb Transit_of_Mercury.txt 1 536 
+unsuccessfully Transit_of_Mercury.txt 1 943 
+be Transit_of_Mercury.txt 8 253 270 322 575 655 669 754 877 
+scientific Transit_of_Mercury.txt 2 245 396 
+lasts Transit_of_Mercury.txt 1 188 
+by Transit_of_Mercury.txt 5 47 517 535 922 983 
+on Transit_of_Mercury.txt 18 11 24 31 51 157 175 181 191 307 399 421 428 527 739 814 879 918 997 
+about Transit_of_Mercury.txt 11 7 124 485 518 588 643 657 680 708 766 779 
+of Transit_of_Mercury.txt 57 1 18 22 29 58 87 105 109 121 145 236 266 276 303 310 336 347 367 369 394 401 405 424 440 444 457 468 482 507 510 513 524 541 547 570 586 593 615 689 717 742 794 817 823 825 839 847 886 899 912 915 932 934 949 972 976 993 
+constraints Transit_of_Mercury.txt 1 335 
+or Transit_of_Mercury.txt 3 126 150 625 
+into Transit_of_Mercury.txt 2 671 756 
+within Transit_of_Mercury.txt 2 333 464 
+integral Transit_of_Mercury.txt 1 584 
+two Transit_of_Mercury.txt 1 865 
+references Transit_of_Mercury.txt 1 1001 
+tiny Transit_of_Mercury.txt 1 98 
+1631 Transit_of_Mercury.txt 1 921 
+few Transit_of_Mercury.txt 1 466 
+1639 Transit_of_Mercury.txt 1 982 
+there Transit_of_Mercury.txt 1 863 
+inner Transit_of_Mercury.txt 1 241 
+was Transit_of_Mercury.txt 3 917 967 978 
+north Transit_of_Mercury.txt 2 696 801 
+attempted Transit_of_Mercury.txt 1 944 
+becoming Transit_of_Mercury.txt 1 78 
+but Transit_of_Mercury.txt 1 955 
+searching Transit_of_Mercury.txt 1 237 
+solar Transit_of_Mercury.txt 3 89 641 881 
+with Transit_of_Mercury.txt 10 35 111 123 273 293 454 478 639 686 714 
+he Transit_of_Mercury.txt 2 627 961 
+made Transit_of_Mercury.txt 1 254 
+planet Transit_of_Mercury.txt 4 67 77 201 242 
+record Transit_of_Mercury.txt 1 260 
+below Transit_of_Mercury.txt 1 988 
+examples Transit_of_Mercury.txt 1 393 
+celestial Transit_of_Mercury.txt 1 218 
+an Transit_of_Mercury.txt 1 582 
+as Transit_of_Mercury.txt 8 45 96 285 313 504 531 631 894 
+at Transit_of_Mercury.txt 5 255 609 633 832 871 
+1894 Transit_of_Mercury.txt 1 605 
+marking Transit_of_Mercury.txt 1 206 
+46 Transit_of_Mercury.txt 2 599 665 
+generally Transit_of_Mercury.txt 1 223 
+grouped Transit_of_Mercury.txt 2 670 755 
+other Transit_of_Mercury.txt 2 14 897 
+node Transit_of_Mercury.txt 4 456 472 477 546 
+picture Transit_of_Mercury.txt 1 423 
+june Transit_of_Mercury.txt 2 53 192 
+includes Transit_of_Mercury.txt 3 679 707 989 
+coronal Transit_of_Mercury.txt 1 416 
+24,000 Transit_of_Mercury.txt 1 783 
+astronomy Transit_of_Mercury.txt 1 422 
+interval Transit_of_Mercury.txt 3 538 555 659 
+orbit Transit_of_Mercury.txt 3 459 515 549 
+rule Transit_of_Mercury.txt 1 316 
+2003 Transit_of_Mercury.txt 1 163 
+portion Transit_of_Mercury.txt 1 86 
+nasa Transit_of_Mercury.txt 1 833 
+2006 Transit_of_Mercury.txt 2 34 166 
+time Transit_of_Mercury.txt 2 209 939 
+12 Transit_of_Mercury.txt 1 486 

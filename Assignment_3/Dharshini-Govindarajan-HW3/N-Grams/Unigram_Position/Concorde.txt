@@ -1,0 +1,3054 @@
+aided Concorde.txt 1 12502 
+limited Concorde.txt 3 263 5011 5791 
+similarity Concorde.txt 1 11178 
+1,800 Concorde.txt 2 5942 6935 
+too-high Concorde.txt 1 11269 
+windscreen Concorde.txt 1 7056 
+seat/nmi Concorde.txt 3 8525 8532 8540 
+four Concorde.txt 7 2135 2215 3569 3728 4518 6702 7203 
+facilities Concorde.txt 1 10375 
+protest Concorde.txt 1 7421 
+consists Concorde.txt 1 3839 
+captain Concorde.txt 4 6537 9654 10322 10756 
+integrity Concorde.txt 1 6012 
+whose Concorde.txt 2 765 6284 
+votes Concorde.txt 1 12234 
+paris Concorde.txt 14 3418 3523 6160 7360 7397 7584 7898 8612 9083 9119 9196 9267 9973 11316 
+seriously Concorde.txt 1 11639 
+edward Concorde.txt 1 12316 
+under Concorde.txt 5 121 5341 6172 9999 12631 
+characterised Concorde.txt 1 3671 
+worth Concorde.txt 2 3481 7870 
+cruising Concorde.txt 4 5795 5946 6218 6268 
+risk Concorde.txt 1 2303 
+co-operation Concorde.txt 1 398 
+unsold Concorde.txt 1 8046 
+activation Concorde.txt 1 6806 
+regional Concorde.txt 1 3482 
+exception Concorde.txt 1 5302 
+every Concorde.txt 3 4934 8308 10361 
+affect Concorde.txt 2 4278 4352 
+seals Concorde.txt 1 10357 
+tickets Concorde.txt 2 3170 8677 
+plural Concorde.txt 1 12131 
+companies Concorde.txt 4 2267 2271 2666 12428 
+solution Concorde.txt 1 1060 
+subsidising Concorde.txt 1 8410 
+red Concorde.txt 1 12167 
+employees Concorde.txt 1 11042 
+5858 Concorde.txt 1 8429 
+forged Concorde.txt 1 11609 
+charter Concorde.txt 8 7803 8621 8631 10138 12031 12331 12516 12632 
+force Concorde.txt 5 1606 6406 7561 8013 8137 
+specially Concorde.txt 1 10925 
+1,600 Concorde.txt 1 6716 
+direct Concorde.txt 2 2477 11160 
+vortexes Concorde.txt 1 793 
+bannister Concorde.txt 4 9664 9706 10950 10961 
+likely Concorde.txt 6 2279 2519 3880 4350 4560 8110 
+louder Concorde.txt 1 7570 
+274 Concorde.txt 1 6386 
+maskell Concorde.txt 1 764 
+estimated Concorde.txt 4 2345 8485 9788 11871 
+machines Concorde.txt 1 11224 
+even Concorde.txt 3 1432 4482 11688 
+established Concorde.txt 1 8083 
+destaing Concorde.txt 1 12296 
+clocked Concorde.txt 1 12688 
+selected Concorde.txt 4 1486 2024 4022 12152 
+contributed Concorde.txt 3 523 772 4668 
+sinsheim Concorde.txt 5 9065 9258 9260 9276 11154 
+supplied Concorde.txt 1 4642 
+above Concorde.txt 6 2030 4039 4105 4120 4343 5975 
+new Concorde.txt 34 184 359 748 1107 2951 3103 3479 5687 5743 6157 7501 7588 7668 7722 7754 8578 8672 8733 9079 9372 9448 9544 9595 9657 9683 9869 10191 10461 11062 11611 12476 12579 12651 12726 
+officially Concorde.txt 1 2734 
+600,000 Concorde.txt 1 12696 
+evolving Concorde.txt 1 1727 
+simultaneously Concorde.txt 3 7456 8745 9547 
+flight50 Concorde.txt 1 10295 
+join Concorde.txt 1 9692 
+never Concorde.txt 1 10063 
+remanufactured Concorde.txt 1 10369 
+ramps Concorde.txt 2 4616 4794 
+bangkok Concorde.txt 2 12616 12669 
+met Concorde.txt 5 212 567 2225 2440 4565 
+china Concorde.txt 1 3577 
+represented Concorde.txt 2 1249 2793 
+path Concorde.txt 1 4591 
+100 Concorde.txt 4 1314 3192 7224 10466 
+101 Concorde.txt 1 7206 
+eclipses Concorde.txt 1 12447 
+stresses Concorde.txt 1 6630 
+tail-low Concorde.txt 1 10612 
+auction Concorde.txt 2 9105 9829 
+study Concorde.txt 3 559 1108 1391 
+pm/g Concorde.txt 3 3146 3151 3158 
+reports Concorde.txt 1 745 
+controversy Concorde.txt 1 11964 
+museums Concorde.txt 1 11120 
+donning Concorde.txt 1 6046 
+calculations Concorde.txt 1 11721 
+tu-144 Concorde.txt 13 94 3534 3757 9287 11135 11149 11168 11205 11216 11232 11296 11308 11331 
+permit Concorde.txt 1 7185 
+lucrative Concorde.txt 1 8636 
+suitable Concorde.txt 1 7170 
+changes Concorde.txt 9 1616 1693 1698 1956 4079 4081 5414 7807 11464 
+cancellation Concorde.txt 2 2681 7742 
+golden Concorde.txt 1 12004 
+projection Concorde.txt 1 8321 
+campaign Concorde.txt 1 7540 
+london-washington Concorde.txt 1 8437 
+1213 Concorde.txt 1 12567 
+highly Concorde.txt 6 2334 4449 5255 5598 10314 11894 
+visible Concorde.txt 1 5457 
+pound Concorde.txt 1 8888 
+ba9021c Concorde.txt 1 9536 
+burst-resistant Concorde.txt 1 10927 
+total Concorde.txt 2 12231 12460 
+heathrow Concorde.txt 14 344 3494 6918 7302 7310 8709 9403 9520 9652 9880 10938 12186 12481 12521 
+spoke Concorde.txt 1 2628 
+would Concorde.txt 55 684 928 945 978 1009 1175 1198 1209 1216 1232 1241 1297 1318 1337 1371 1382 1673 1989 2051 2173 2287 2292 2375 2405 2474 2504 2516 2588 2771 4088 4148 4403 4512 5538 5729 5828 5846 5901 5984 6013 6033 6039 6112 6121 6297 6412 6592 7049 7184 8195 8749 9793 9890 10365 10392 
+20,000 Concorde.txt 1 6463 
+negative Concorde.txt 2 2326 2365 
+brize Concorde.txt 1 10974 
+noting Concorde.txt 1 6099 
+call Concorde.txt 3 7374 7394 8690 
+therefore Concorde.txt 1 8207 
+super-caravelle Concorde.txt 1 1841 
+type Concorde.txt 7 416 466 1718 1736 1754 2884 3881 
+until Concorde.txt 4 27 6807 8567 10244 
+separated Concorde.txt 1 781 
+3.04c Concorde.txt 1 8523 
+muse Concorde.txt 1 9188 
+parade Concorde.txt 1 12000 
+glass Concorde.txt 2 7173 7216 
+planform Concorde.txt 5 750 1485 1707 1725 3309 
+90 Concorde.txt 1 1302 
+92 Concorde.txt 1 54 
+companys Concorde.txt 1 1880 
+overrun Concorde.txt 1 2353 
+1991 Concorde.txt 3 8549 12278 12363 
+1990 Concorde.txt 1 11978 
+intake Concorde.txt 19 3844 3849 3950 3952 4083 4255 4274 4280 4293 4319 4535 4594 4603 4640 4667 4769 4820 4836 11256 
+pride Concorde.txt 1 12141 
+word Concorde.txt 1 2714 
+1994 Concorde.txt 1 7487 
+1997 Concorde.txt 3 178 8644 11145 
+cheapest Concorde.txt 1 198 
+mm Concorde.txt 1 5131 
+1998 Concorde.txt 2 7331 12405 
+work Concorde.txt 6 1272 1496 1966 3281 9922 10066 
+mi Concorde.txt 1 5733 
+cancellations Concorde.txt 1 3521 
+grass-roots Concorde.txt 1 7539 
+temperatures Concorde.txt 4 4562 5104 6920 7220 
+experts Concorde.txt 1 11624 
+example Concorde.txt 3 176 12143 12399 
+fairey Concorde.txt 1 3300 
+indicated Concorde.txt 1 6625 
+mpg Concorde.txt 1 11994 
+nozzle Concorde.txt 4 3838 4630 4651 4653 
+53.6 Concorde.txt 1 3157 
+authorities Concorde.txt 1 12757 
+keep Concorde.txt 1 5187 
+47,000 Concorde.txt 1 5904 
+absolute Concorde.txt 1 6491 
+ceremony Concorde.txt 1 7288 
+end Concorde.txt 6 506 4948 5936 7511 7940 9150 
+thing Concorde.txt 2 6440 10344 
+provide Concorde.txt 5 698 4547 4571 4588 4831 
+7076 Concorde.txt 1 8424 
+damage Concorde.txt 3 7142 10891 11077 
+how Concorde.txt 1 257 
+amazing Concorde.txt 1 6520 
+adjacent Concorde.txt 4 4052 4101 4354 10653 
+symposium Concorde.txt 2 3858 4040 
+widespread Concorde.txt 1 12199 
+cpre Concorde.txt 1 11972 
+gordon Concorde.txt 1 8016 
+rise Concorde.txt 2 6593 7050 
+elizabeth Concorde.txt 1 12311 
+after Concorde.txt 25 473 497 732 1459 1906 2528 4495 4508 4878 5040 5646 6913 7098 7649 9148 9262 9443 9914 10297 10446 11010 11081 11371 11537 12206 
+dietrich Concorde.txt 1 736 
+modest Concorde.txt 1 5626 
+lay Concorde.txt 1 10695 
+curiosity Concorde.txt 1 846 
+president Concorde.txt 3 3678 10221 12417 
+arch Concorde.txt 1 1524 
+types Concorde.txt 1 1206 
+purchase Concorde.txt 2 147 8051 
+third Concorde.txt 1 4270 
+think Concorde.txt 1 6517 
+maintain Concorde.txt 2 7815 9803 
+operate Concorde.txt 6 312 921 8212 8576 8924 8964 
+order Concorde.txt 2 3222 3520 
+wind Concorde.txt 1 4298 
+operations Concorde.txt 6 3676 5361 7001 7495 8030 11045 
+restriction Concorde.txt 1 5338 
+responsible Concorde.txt 1 10855 
+deck Concorde.txt 3 3715 5150 5878 
+over Concorde.txt 27 34 922 2081 3012 3064 3191 3542 3656 3969 4999 5398 5723 5854 6369 6453 6880 7422 7778 7889 8955 9615 9636 10210 10258 10956 11965 12768 
+london Concorde.txt 16 187 458 7357 7586 7612 7896 8558 9402 9582 9637 9660 9843 10059 10937 12480 12520 
+biscay Concorde.txt 1 9619 
+12.5 Concorde.txt 1 7121 
+japan Concorde.txt 1 3230 
+mayor Concorde.txt 1 11066 
+before Concorde.txt 9 2061 6693 7168 7181 9647 10970 11021 11577 11689 
+faa Concorde.txt 2 6090 7183 
+50,000 Concorde.txt 1 5976 
+stopover Concorde.txt 1 8226 
+crew Concorde.txt 4 486 5974 10470 10567 
+per-unit Concorde.txt 1 288 
+16.5 Concorde.txt 1 8384 
+production Concorde.txt 7 236 1344 3834 7200 11330 11396 11727 
+400 Concorde.txt 2 6771 6830 
+hidden Concorde.txt 1 12820 
+easier Concorde.txt 1 4498 
+virtually Concorde.txt 1 4771 
+maximal Concorde.txt 1 7125 
+eventually Concorde.txt 5 220 262 1167 7692 8169 
+them Concorde.txt 10 2574 4331 6047 8885 8917 9526 10364 10384 10853 11747 
+affected Concorde.txt 1 247 
+combination Concorde.txt 2 5593 10795 
+spray Concorde.txt 1 6744 
+safe Concorde.txt 2 1178 6087 
+delta-wing Concorde.txt 1 6567 
+hypoxia Concorde.txt 1 6043 
+effects Concorde.txt 1 5268 
+they Concorde.txt 18 1208 1215 1553 1859 1988 1996 2500 2503 4568 4584 6485 8748 8755 8882 9228 9809 10726 11338 
+bonhams Concorde.txt 1 9826 
+slats Concorde.txt 1 5668 
+silver Concorde.txt 1 12342 
+bank Concorde.txt 1 4706 
+structural Concorde.txt 2 5362 11388 
+kevlar Concorde.txt 1 10918 
+grammar Concorde.txt 1 12075 
+oxygen Concorde.txt 2 6026 6125 
+tu-22 Concorde.txt 1 11559 
+regularly Concorde.txt 1 12300 
+maks Concorde.txt 1 12389 
+reasonably Concorde.txt 1 5710 
+chuck Concorde.txt 1 825 
+reasonable Concorde.txt 1 959 
+each Concorde.txt 14 279 1538 1833 3217 4314 6675 6697 6707 6892 8681 8903 9508 11095 11863 
+acoustic Concorde.txt 1 11951 
+went Concorde.txt 2 3378 5019 
+side Concorde.txt 6 4694 4751 6402 7636 7644 12527 
+mean Concorde.txt 2 2726 6473 
+signing Concorde.txt 1 2583 
+financial Concorde.txt 1 2379 
+enthusiasts Concorde.txt 1 12045 
+concord Concorde.txt 2 2723 2737 
+aerodynamics Concorde.txt 2 727 1551 
+hosted Concorde.txt 1 3863 
+substantially Concorde.txt 1 11219 
+first-class Concorde.txt 1 9021 
+saturday Concorde.txt 1 8590 
+shutdowns Concorde.txt 1 4600 
+fiction Concorde.txt 1 12803 
+lair Concorde.txt 1 9190 
+high-temperature Concorde.txt 1 7171 
+restricted Concorde.txt 1 11805 
+long-haul Concorde.txt 2 5814 8040 
+particles Concorde.txt 1 11890 
+safety Concorde.txt 1 10903 
+straight-edge Concorde.txt 1 1510 
+one-way Concorde.txt 1 12023 
+got Concorde.txt 1 10383 
+engineer Concorde.txt 2 5154 8843 
+disagreements Concorde.txt 1 2079 
+gate Concorde.txt 1 7980 
+perception Concorde.txt 1 11998 
+disputed Concorde.txt 1 10632 
+barrier Concorde.txt 1 2113 
+given Concorde.txt 8 1225 2829 4850 5731 8234 8884 9002 9603 
+commercially Concorde.txt 2 87 2931 
+small Concorde.txt 4 1251 1740 6659 11807 
+formation Concorde.txt 2 6363 12164 
+estimate Concorde.txt 1 208 
+obstructing Concorde.txt 1 6992 
+certified Concorde.txt 1 4114 
+droop Concorde.txt 4 6958 7021 7023 9215 
+enormous Concorde.txt 1 687 
+created Concorde.txt 1 2779 
+delta-shaped Concorde.txt 1 6342 
+moment Concorde.txt 2 1068 5485 
+creates Concorde.txt 1 4698 
+levels Concorde.txt 2 4550 11857 
+1970s Concorde.txt 3 5769 8789 11963 
+uses Concorde.txt 1 4 
+manslaughter Concorde.txt 1 10832 
+speeds Concorde.txt 19 594 678 963 1181 4104 4428 4453 4722 5340 5372 5404 5424 5536 5602 5675 6355 7575 7684 11285 
+already Concorde.txt 5 876 1356 1862 1986 4157 
+features Concorde.txt 2 3718 4604 
+featured Concorde.txt 1 5690 
+downside Concorde.txt 1 969 
+another Concorde.txt 5 243 3759 3936 8920 11320 
+199 Concorde.txt 1 6623 
+175 Concorde.txt 1 12505 
+payload Concorde.txt 2 5627 5741 
+escalation Concorde.txt 1 2864 
+traction Concorde.txt 1 6851 
+rated Concorde.txt 1 6760 
+service Concorde.txt 32 64 99 174 1236 1309 1329 6331 7444 7460 7476 7582 7646 7960 8117 8146 8152 8219 8317 8556 8593 8978 9152 9364 10129 10198 10218 10406 11060 11365 11381 11737 12175 
+top Concorde.txt 2 5013 11359 
+cooling Concorde.txt 2 5026 5031 
+g-axdn Concorde.txt 1 3836 
+needed Concorde.txt 7 701 1234 4357 6655 6833 7217 11274 
+rates Concorde.txt 2 3101 6095 
+too Concorde.txt 2 2418 5898 
+stifled Concorde.txt 1 8980 
+percentage Concorde.txt 1 1252 
+john Concorde.txt 11 353 6534 7590 8367 9450 10455 10748 10821 11658 12322 12365 
+consented Concorde.txt 1 9559 
+serve Concorde.txt 1 7188 
+took Concorde.txt 8 3590 6151 7888 9093 9748 10396 11013 12327 
+rejected Concorde.txt 2 2451 4376 
+extended Concorde.txt 1 5358 
+technik Concorde.txt 3 9063 9256 11152 
+honolulu Concorde.txt 2 12614 12674 
+entente Concorde.txt 1 2798 
+shortly Concorde.txt 1 11020 
+sulphur Concorde.txt 2 11896 11905 
+102 Concorde.txt 1 7207 
+norton Concorde.txt 1 10975 
+begins Concorde.txt 1 2045 
+distance Concorde.txt 1 5857 
+showed Concorde.txt 1 2965 
+enabled Concorde.txt 1 6975 
+rate Concorde.txt 5 5888 6057 6415 6816 10888 
+nations Concorde.txt 1 3570 
+project Concorde.txt 17 401 535 1077 1361 1721 2374 2429 2484 2515 2649 3017 3512 3798 10231 11418 11469 11534 
+idle Concorde.txt 1 4487 
+street Concorde.txt 1 12780 
+fly-by Concorde.txt 1 6139 
+10th Concorde.txt 1 8654 
+raf Concorde.txt 2 3391 10973 
+buron Concorde.txt 1 2234 
+rae Concorde.txt 4 550 740 1493 3921 
+ran Concorde.txt 2 2984 8479 
+boston Concorde.txt 1 9457 
+disambiguation Concorde.txt 1 7 
+modern Concorde.txt 1 1980 
+5,400 Concorde.txt 1 8680 
+talking Concorde.txt 1 6502 
+manner Concorde.txt 1 5506 
+seen Concorde.txt 4 619 4034 8033 9301 
+seem Concorde.txt 1 2116 
+ocean Concorde.txt 1 5578 
+tells Concorde.txt 1 6442 
+contents Concorde.txt 1 524 
+forced Concorde.txt 1 1568 
+quieter Concorde.txt 2 11667 11700 
+implemented Concorde.txt 1 7806 
+1968 Concorde.txt 1 1331 
+1969 Concorde.txt 5 61 3278 3371 3396 3415 
+1965 Concorde.txt 1 3345 
+1967 Concorde.txt 2 2759 2989 
+1960 Concorde.txt 4 1342 1467 1876 3872 
+1961 Concorde.txt 1 2161 
+1962 Concorde.txt 3 1348 2447 2690 
+predominantly Concorde.txt 1 5297 
+causing Concorde.txt 2 3068 4700 
+absorbed Concorde.txt 1 300 
+luxury Concorde.txt 2 173 7801 
+forces Concorde.txt 1 5374 
+davidson Concorde.txt 1 8017 
+blue Concorde.txt 1 5298 
+nobody Concorde.txt 1 10809 
+maiden Concorde.txt 1 10299 
+iceland Concorde.txt 1 10960 
+tu-22m Concorde.txt 1 11560 
+memorabilia Concorde.txt 1 9110 
+extending Concorde.txt 1 932 
+regular Concorde.txt 3 339 6330 8628 
+germany Concorde.txt 2 9261 11129 
+letter Concorde.txt 2 2809 9309 
+circled Concorde.txt 1 9635 
+phase Concorde.txt 1 1620 
+jean Concorde.txt 1 11241 
+overflight Concorde.txt 1 11684 
+observation Concorde.txt 2 7266 7272 
+ejector Concorde.txt 1 4654 
+professor Concorde.txt 1 3668 
+flow Concorde.txt 3 767 782 4664 
+treaty Concorde.txt 5 124 2219 2655 2684 2695 
+points Concorde.txt 1 8241 
+sources Concorde.txt 1 11980 
+seko Concorde.txt 1 12422 
+left Concorde.txt 4 9594 10538 10609 11147 
+responded Concorde.txt 1 1420 
+came Concorde.txt 4 1709 7508 8322 10727 
+reserve Concorde.txt 1 6067 
+advisory Concorde.txt 2 1080 1113 
+pope Concorde.txt 1 12364 
+departing Concorde.txt 1 10447 
+retire Concorde.txt 1 8750 
+chartered Concorde.txt 2 7834 12586 
+lethal Concorde.txt 1 10794 
+analogue Concorde.txt 3 3771 4884 8794 
+1,986 Concorde.txt 1 8428 
+thirds Concorde.txt 1 4264 
+departed Concorde.txt 2 9581 10935 
+layout Concorde.txt 5 944 1093 1615 3716 11458 
+ducted-fan Concorde.txt 1 3897 
+spite Concorde.txt 3 318 2179 7550 
+safest Concorde.txt 1 10865 
+delays Concorde.txt 1 216 
+low-bypass Concorde.txt 1 11265 
+appreciated Concorde.txt 1 838 
+here Concorde.txt 1 6522 
+540 Concorde.txt 1 6890 
+rich Concorde.txt 1 12018 
+pursuing Concorde.txt 1 9733 
+adequate Concorde.txt 1 4572 
+bahrain Concorde.txt 3 7358 7621 12618 
+do Concorde.txt 2 3226 8930 
+wide Concorde.txt 1 12256 
+de Concorde.txt 10 349 2562 2626 2749 7362 9055 9189 9367 10450 10505 
+dc Concorde.txt 1 7720 
+coast Concorde.txt 1 11604 
+competitive Concorde.txt 1 11337 
+despite Concorde.txt 4 2942 6044 8352 11756 
+report Concorde.txt 6 579 766 1936 2465 7557 10711 
+johanna Concorde.txt 1 733 
+dr Concorde.txt 2 3917 11885 
+14 Concorde.txt 2 9473 11990 
+runs Concorde.txt 2 673 9156 
+pearson Concorde.txt 1 9437 
+jaguar Concorde.txt 2 455 12250 
+bas Concorde.txt 5 7624 8018 8363 9041 9763 
+covering Concorde.txt 1 2978 
+ever Concorde.txt 1 6950 
+method Concorde.txt 2 5208 11397 
+twice Concorde.txt 6 35 5801 6204 6288 7709 11257 
+discs Concorde.txt 1 6896 
+bac Concorde.txt 5 9 120 521 3314 3355 
+18 Concorde.txt 2 6601 11111 
+ban Concorde.txt 3 7491 7507 7548 
+secretary Concorde.txt 1 7435 
+respond Concorde.txt 1 1369 
+bea Concorde.txt 2 10508 10710 
+swept Concorde.txt 1 896 
+expediency Concorde.txt 1 2541 
+fuel-hungry Concorde.txt 1 5700 
+testing Concorde.txt 7 3271 4076 4300 5089 8328 10390 10401 
+1960s Concorde.txt 1 6515 
+decided Concorde.txt 1 8210 
+projections Concorde.txt 1 3041 
+best Concorde.txt 1 6107 
+oceanic Concorde.txt 3 6232 6321 11825 
+said Concorde.txt 3 10224 10763 11887 
+capacity Concorde.txt 2 5632 5660 
+ambitions Concorde.txt 1 8280 
+lots Concorde.txt 1 9129 
+away Concorde.txt 1 2306 
+xb-70 Concorde.txt 2 11483 11569 
+wikipedia Concorde.txt 1 1 
+upgraded Concorde.txt 1 6834 
+future Concorde.txt 5 2509 3924 4408 8295 9233 
+olympics Concorde.txt 2 10060 12440 
+previous Concorde.txt 1 11088 
+approach Concorde.txt 1 6396 
+electorates Concorde.txt 1 11595 
+f-104 Concorde.txt 2 633 1191 
+we Concorde.txt 4 6500 6523 10240 10245 
+terms Concorde.txt 3 1549 1690 1925 
+nature Concorde.txt 3 779 866 6258 
+1015 Concorde.txt 2 5993 9795 
+20-minute Concorde.txt 1 10954 
+however Concorde.txt 7 2106 2625 2962 4211 8167 8263 10301 
+triplex Concorde.txt 1 7234 
+retirement Concorde.txt 3 8702 8828 9329 
+wear Concorde.txt 1 4504 
+carbon Concorde.txt 1 6879 
+improve Concorde.txt 2 855 5670 
+suggested Concorde.txt 9 721 840 924 1263 1291 1351 1811 3621 8992 
+hours Concorde.txt 12 5101 6153 6174 9378 9410 9717 12493 12535 12597 12657 12692 12733 
+essentially Concorde.txt 1 9938 
+accident Concorde.txt 4 10487 10859 11012 11083 
+accused Concorde.txt 1 8405 
+reported Concorde.txt 5 4207 4223 8474 10008 10157 
+heating Concorde.txt 5 4917 4970 5024 5038 5267 
+contribution Concorde.txt 1 2831 
+asked Concorde.txt 3 551 1102 2672 
+30th Concorde.txt 1 12679 
+15,000-foot Concorde.txt 1 6303 
+appeared Concorde.txt 1 2513 
+had Concorde.txt 80 30 819 834 875 919 1542 1771 1900 1942 1978 1985 1997 2006 2272 2614 3019 3030 3074 3090 3111 3171 3502 3535 3558 3631 4111 4124 4256 4316 4545 4569 4586 4716 5052 5241 5249 5879 6176 6227 6274 6572 7148 7165 7174 7409 7961 8069 8209 8303 8337 8688 8799 8840 8851 8961 9375 9731 10020 10105 10161 10208 10518 10526 10648 10672 10751 10788 10861 10880 11085 11182 11189 11234 11280 11309 11339 11384 11493 11694 12687 
+discontinued Concorde.txt 2 7648 7697 
+height Concorde.txt 1 6685 
+active Concorde.txt 2 5412 5442 
+tony Concorde.txt 2 2766 12325 
+250 Concorde.txt 2 6769 6826 
+november Concorde.txt 13 1140 2689 7486 7597 7729 8714 9122 9677 9752 10836 11049 11368 12721 
+contestants Concorde.txt 1 8687 
+engines Concorde.txt 23 1983 2136 2146 2201 2216 3730 3898 3945 4053 4374 4447 4485 4492 4519 4539 4747 4953 5595 5693 10024 11267 11347 11679 
+basis Concorde.txt 1 8629 
+union Concorde.txt 2 392 2730 
+commenced Concorde.txt 1 11366 
+three Concorde.txt 8 471 770 1505 1800 1837 7650 9632 9716 
+been Concorde.txt 29 85 820 836 877 1944 3632 3685 4150 5524 7166 8800 8991 9184 9732 9767 10162 10235 10288 10674 10772 10779 10791 10862 10881 11183 11434 11695 11781 11959 
+quickly Concorde.txt 1 6045 
+much Concorde.txt 9 239 892 1972 2042 2256 2417 5128 5231 11858 
+interest Concorde.txt 6 2944 2967 3510 7992 8057 12177 
+basic Concorde.txt 2 1506 1731 
+expected Concorde.txt 1 11669 
+entered Concorde.txt 4 63 4272 8157 10600 
+life Concorde.txt 2 5001 5097 
+short-span Concorde.txt 1 611 
+transatlantic Concorde.txt 8 340 1274 1295 1856 2097 3443 6168 12471 
+vulcan Concorde.txt 2 3739 4182 
+intakes Concorde.txt 3 4309 4544 6756 
+aviation Concorde.txt 17 112 495 1483 1759 1791 1794 1840 2242 2922 2992 5765 7146 8066 10193 10311 11244 11585 
+worked Concorde.txt 2 783 1554 
+160 Concorde.txt 1 10211 
+diverted Concorde.txt 1 4266 
+applied Concorde.txt 3 4527 5376 6856 
+ducted Concorde.txt 1 3967 
+scotsman Concorde.txt 1 2813 
+east Concorde.txt 5 3251 3463 7824 11603 12354 
+tank Concorde.txt 1 10555 
+d.c Concorde.txt 2 9325 9370 
+say Concorde.txt 1 11981 
+air Concorde.txt 72 135 307 477 808 2037 3208 3237 3239 3245 3419 3526 3581 4595 4635 4643 4768 4798 4819 4920 5107 5204 5290 5316 6003 6068 6074 6142 7314 7324 7332 7340 7378 7451 7471 7560 7705 7855 7881 8189 8414 8569 8610 8641 8740 8769 9047 9050 9058 9066 9088 9112 9238 9305 9319 9334 9359 9605 9865 9968 9988 10135 10417 10424 10436 10806 11317 12156 12381 12390 12563 12587 12627 
+employ Concorde.txt 2 3751 3790 
+rests Concorde.txt 1 9252 
+near Concorde.txt 1 9195 
+aeroplane Concorde.txt 2 6488 6505 
+stopping Concorde.txt 1 8561 
+turbojet Concorde.txt 8 19 3895 3971 3999 4170 4197 4386 11346 
+two-concorde Concorde.txt 1 8193 
+balance Concorde.txt 1 1598 
+k Concorde.txt 2 11 13 
+procedure Concorde.txt 1 6080 
+enforces Concorde.txt 1 6091 
+seven Concorde.txt 2 277 10397 
+changed Concorde.txt 2 863 2735 
+fencing Concorde.txt 1 11952 
+mexico Concorde.txt 4 7712 7757 7793 7837 
+undercarriage Concorde.txt 7 6545 6549 6571 6634 6671 6721 6790 
+is Concorde.txt 32 16 76 90 974 1622 2710 2825 2885 3721 3743 4473 4770 4964 5968 6005 6447 8473 8724 9172 9291 9380 9857 9896 9962 10034 10077 10085 10182 10252 11715 11804 11870 
+it Concorde.txt 83 29 75 224 374 586 918 1008 1057 1132 1257 1370 1567 1621 1675 1928 1962 2114 2166 2404 2470 2512 2609 2824 2842 2973 3640 3742 3783 3991 4165 4241 4262 4723 4838 4862 4879 5034 5080 5115 5183 5348 5496 5689 5704 5708 5819 6360 6495 6531 7268 7484 7661 8460 8472 8829 8989 9005 9379 9445 9792 9948 9977 9996 10006 10043 10084 10104 10124 10127 10155 10181 10207 10266 10395 10404 10482 10789 11181 11693 11714 11777 11779 12060 
+conditioned Concorde.txt 1 5997 
+ii Concorde.txt 2 12312 12367 
+violent Concorde.txt 1 10606 
+brake Concorde.txt 6 4502 6781 6805 6906 6908 6919 
+cone Concorde.txt 3 2836 3915 9838 
+in Concorde.txt 256 60 65 97 167 177 234 256 317 358 365 372 378 408 469 481 492 502 572 580 628 669 679 752 769 827 1213 1223 1308 1310 1330 1341 1347 1358 1388 1452 1466 1548 1676 1689 1769 1778 1874 1924 2008 2122 2178 2193 2275 2354 2360 2385 2466 2576 2741 2755 2757 2800 2827 2876 2879 2905 2912 2968 2985 3050 3056 3162 3165 3220 3277 3343 3474 3562 3617 3708 3735 3768 3902 3925 3932 4035 4159 4188 4203 4566 4707 4740 4858 4905 5109 5175 5288 5295 5306 5312 5393 5503 5686 5721 5751 5767 5866 5965 6015 6060 6144 6301 6329 6510 6526 6560 6635 6690 6715 6735 6940 7051 7064 7069 7221 7305 7312 7327 7330 7338 7346 7414 7477 7485 7498 7549 7599 7629 7673 7685 7698 7739 7903 7949 7952 7987 8058 8079 8291 8361 8396 8401 8493 8643 8732 8768 8787 8834 8871 8913 8942 8947 8977 9061 9074 9078 9118 9153 9159 9303 9323 9399 9415 9421 9431 9475 9649 9671 9789 9842 9868 9871 9904 9923 9945 9972 9974 10003 10046 10089 10096 10152 10201 10333 10407 10443 10460 10573 10620 10676 10718 10869 10872 10907 11027 11121 11144 11150 11159 11191 11200 11293 11326 11367 11535 11582 11705 11723 11736 11740 11752 11767 11793 11818 11829 11848 11854 11868 11897 11906 11946 11968 12006 12058 12073 12103 12119 12127 12163 12202 12277 12307 12329 12344 12346 12349 12355 12362 12371 12404 12441 12491 12570 12595 12637 12655 12672 12707 12720 12796 12802 
+seattle Concorde.txt 1 6561 
+trade Concorde.txt 1 11024 
+if Concorde.txt 7 1364 4714 5489 5893 8926 10381 11888 
+af/ba Concorde.txt 1 7924 
+descent Concorde.txt 5 6079 6094 6116 6417 10607 
+things Concorde.txt 1 11249 
+make Concorde.txt 4 9017 9798 10265 10852 
+amount Concorde.txt 1 1603 
+windsor Concorde.txt 1 9564 
+involuntary Concorde.txt 1 10831 
+pariss Concorde.txt 1 347 
+complex Concorde.txt 2 5612 11938 
+harmony Concorde.txt 3 390 2728 12111 
+success Concorde.txt 2 10989 11525 
+several Concorde.txt 4 2946 8614 9128 10705 
+infeasible Concorde.txt 1 718 
+bid Concorde.txt 1 8160 
+european Concorde.txt 7 2299 2312 2553 2631 7913 8624 11173 
+wheel Concorde.txt 9 6704 6740 6776 6784 6794 6893 6903 10540 10670 
+independent Concorde.txt 3 2425 8096 10663 
+circumnavigated Concorde.txt 2 12592 12647 
+social Concorde.txt 1 11636 
+differing Concorde.txt 1 5423 
+deflect Concorde.txt 1 5230 
+hand Concorde.txt 1 4906 
+delight Concorde.txt 1 6492 
+ownership Concorde.txt 1 9804 
+military Concorde.txt 1 11474 
+60,039 Concorde.txt 1 6184 
+kept Concorde.txt 2 9142 9209 
+1979 Concorde.txt 3 7313 7674 8271 
+1978 Concorde.txt 5 103 7727 7843 11328 11373 
+1977 Concorde.txt 8 101 3051 7500 7515 7598 7600 11369 12345 
+1976 Concorde.txt 7 66 3568 7300 7354 7466 8065 9416 
+1974 Concorde.txt 2 4213 7066 
+1973 Concorde.txt 7 3087 3475 3710 7243 7259 11315 12455 
+1972 Concorde.txt 3 3454 3499 8494 
+1971 Concorde.txt 5 3437 3618 8498 11536 11706 
+1970 Concorde.txt 1 1311 
+greatest Concorde.txt 2 5582 6540 
+qualities Concorde.txt 2 833 1003 
+the Concorde.txt 910 36 71 88 91 116 143 151 179 194 197 204 218 231 235 248 283 287 295 301 382 397 400 403 409 415 426 429 437 440 449 452 454 457 462 465 474 489 493 498 505 514 530 533 538 546 560 565 569 584 590 599 602 607 621 631 636 640 643 699 710 713 739 753 756 760 777 785 803 807 828 848 864 873 899 905 908 913 916 926 933 936 953 967 976 990 999 1019 1027 1031 1049 1059 1062 1071 1075 1083 1086 1090 1098 1110 1117 1134 1142 1148 1157 1161 1169 1190 1260 1312 1353 1365 1405 1412 1425 1428 1438 1442 1450 1460 1468 1492 1498 1508 1512 1526 1533 1580 1591 1602 1610 1613 1618 1625 1643 1660 1663 1671 1679 1683 1686 1705 1711 1716 1723 1730 1752 1779 1782 1788 1820 1836 1838 1843 1864 1870 1879 1897 1908 1914 1919 1933 1947 1958 1968 1976 1999 2009 2033 2036 2039 2062 2074 2077 2082 2086 2100 2112 2126 2137 2149 2155 2170 2205 2222 2238 2250 2253 2265 2268 2282 2285 2302 2315 2321 2329 2355 2357 2373 2382 2388 2396 2400 2410 2428 2431 2448 2452 2459 2483 2490 2514 2531 2543 2545 2552 2566 2571 2590 2599 2607 2616 2623 2630 2634 2640 2644 2647 2657 2675 2694 2697 2707 2712 2731 2752 2760 2773 2790 2834 2838 2848 2880 2883 2894 2913 2950 2969 2986 2996 3013 3039 3080 3086 3108 3141 3147 3153 3163 3183 3194 3198 3202 3211 3221 3256 3259 3262 3279 3290 3307 3313 3321 3326 3383 3406 3409 3417 3422 3441 3459 3467 3471 3478 3511 3522 3530 3543 3551 3586 3595 3605 3609 3635 3645 3657 3736 3746 3755 3762 3775 3785 3793 3797 3811 3837 3865 3879 3903 3920 3939 3963 3966 3970 3995 4019 4038 4055 4058 4092 4098 4128 4131 4134 4160 4167 4174 4180 4193 4209 4214 4220 4227 4238 4247 4251 4253 4268 4273 4279 4286 4292 4308 4312 4321 4340 4353 4371 4395 4399 4410 4421 4435 4463 4469 4478 4484 4489 4510 4522 4530 4534 4543 4601 4628 4637 4639 4645 4649 4652 4666 4688 4696 4701 4708 4711 4732 4749 4753 4759 4766 4781 4784 4789 4793 4797 4801 4832 4840 4866 4874 4883 4888 4903 4923 4927 4944 4947 4950 4954 4958 4965 4971 4981 4992 5000 5003 5012 5043 5057 5075 5090 5112 5120 5135 5148 5152 5158 5169 5180 5188 5193 5200 5203 5206 5211 5216 5220 5238 5244 5247 5262 5275 5279 5301 5304 5378 5390 5416 5428 5435 5439 5447 5452 5459 5467 5474 5487 5490 5498 5501 5527 5544 5549 5559 5576 5581 5634 5677 5681 5699 5724 5761 5768 5782 5802 5830 5837 5842 5855 5876 5887 5894 5934 6002 6023 6056 6061 6083 6089 6106 6128 6161 6167 6205 6238 6242 6250 6254 6278 6320 6324 6341 6362 6370 6377 6400 6404 6410 6414 6418 6425 6435 6438 6454 6487 6511 6527 6538 6556 6564 6570 6582 6606 6618 6629 6632 6643 6652 6669 6701 6718 6739 6754 6757 6766 6773 6789 6791 6799 6814 6820 6847 6853 6862 6868 6876 6946 6976 6993 7004 7009 7014 7018 7022 7034 7041 7047 7054 7070 7073 7079 7087 7100 7102 7111 7117 7129 7134 7139 7143 7151 7155 7159 7182 7194 7199 7202 7211 7258 7270 7285 7356 7371 7382 7389 7396 7406 7415 7428 7433 7489 7506 7517 7521 7534 7547 7555 7564 7622 7634 7642 7645 7658 7689 7701 7731 7743 7749 7779 7790 7823 7830 7891 7899 7905 7912 7926 7944 7956 7979 7988 7995 8024 8038 8062 8071 8119 8140 8148 8213 8270 8292 8294 8300 8316 8331 8335 8354 8370 8374 8378 8387 8406 8450 8455 8534 8577 8601 8609 8630 8653 8657 8661 8664 8716 8722 8729 8761 8766 8772 8788 8818 8823 8831 8835 8848 8853 8867 8878 8892 8914 8933 8936 8948 8965 8972 8999 9009 9014 9075 9149 9162 9167 9170 9187 9198 9205 9213 9254 9281 9292 9317 9327 9345 9348 9357 9384 9482 9510 9522 9557 9561 9616 9631 9653 9656 9665 9672 9693 9700 9726 9729 9741 9786 9851 9862 9876 9894 9901 9942 9954 9958 9981 10010 10023 10029 10037 10057 10065 10098 10118 10145 10165 10168 10177 10190 10225 10237 10255 10268 10273 10292 10310 10317 10342 10348 10359 10373 10408 10474 10480 10484 10492 10497 10509 10544 10553 10566 10589 10598 10614 10622 10629 10634 10640 10677 10683 10692 10709 10719 10729 10732 10738 10745 10765 10775 10802 10842 10858 10864 10870 10908 10911 10921 10929 10933 10952 10957 10976 10982 11000 11005 11011 11022 11028 11038 11070 11107 11122 11126 11155 11165 11192 11201 11204 11214 11222 11231 11278 11295 11307 11314 11350 11372 11375 11382 11413 11416 11423 11427 11449 11459 11468 11470 11478 11503 11506 11509 11517 11523 11528 11544 11557 11567 11583 11602 11606 11618 11633 11645 11673 11724 11770 11774 11794 11802 11806 11823 11830 11874 11898 11907 11911 11922 11930 11937 11948 11962 11969 11971 12017 12040 12046 12053 12069 12078 12086 12100 12105 12128 12145 12166 12170 12193 12196 12214 12217 12224 12227 12246 12254 12262 12268 12271 12279 12284 12335 12352 12359 12385 12406 12416 12431 12449 12459 12469 12487 12525 12529 12550 12555 12560 12573 12593 12619 12625 12638 12648 12703 12708 12716 12741 12747 12749 12755 12759 12762 12778 12782 12785 
+800 Concorde.txt 1 6477 
+805 Concorde.txt 1 5734 
+thorneycroft Concorde.txt 3 2244 2246 2463 
+wedging Concorde.txt 1 5179 
+barge Concorde.txt 1 9278 
+proposed Concorde.txt 1 4235 
+throttling Concorde.txt 2 4598 11676 
+mid Concorde.txt 1 6514 
+birmingham Concorde.txt 1 9487 
+32 Concorde.txt 1 12596 
+worldin Concorde.txt 1 12530 
+50th Concorde.txt 1 10146 
+secure Concorde.txt 1 10915 
+tailless Concorde.txt 1 3753 
+buyers Concorde.txt 2 3538 3574 
+belfast Concorde.txt 1 9491 
+ease Concorde.txt 1 4989 
+royal Concorde.txt 3 547 3866 12153 
+macdonald Concorde.txt 1 9035 
+n Concorde.txt 1 12 
+board Concorde.txt 2 1866 10473 
+easy Concorde.txt 1 1669 
+technological Concorde.txt 1 2308 
+fares Concorde.txt 1 8415 
+has Concorde.txt 10 2719 6840 6894 8990 9183 9284 10234 10287 11780 11973 
+gave Concorde.txt 1 7440 
+elevation Concorde.txt 1 5925 
+grounding Concorde.txt 1 9010 
+boasted Concorde.txt 1 3007 
+1155 Concorde.txt 1 6195 
+progressed Concorde.txt 1 3425 
+possible Concorde.txt 3 941 5711 5746 
+caps Concorde.txt 1 5174 
+interior Concorde.txt 1 5781 
+descending Concorde.txt 1 5047 
+birth Concorde.txt 1 1073 
+59 Concorde.txt 1 12496 
+apart Concorde.txt 1 10345 
+unique Concorde.txt 3 3781 6533 7384 
+advanced Concorde.txt 1 8784 
+cruise-climb Concorde.txt 1 6336 
+generated Concorde.txt 2 6568 6608 
+appearing Concorde.txt 1 6468 
+58 Concorde.txt 1 4976 
+55 Concorde.txt 2 9718 12734 
+performing Concorde.txt 1 6136 
+50 Concorde.txt 2 1321 7935 
+52 Concorde.txt 1 12494 
+specific Concorde.txt 1 5505 
+renamed Concorde.txt 1 3311 
+over-optimistic Concorde.txt 1 2393 
+cooled Concorde.txt 3 5079 5210 6899 
+guests Concorde.txt 1 9622 
+201 Concorde.txt 1 7208 
+right Concorde.txt 1 2075 
+schematics Concorde.txt 1 3847 
+deal Concorde.txt 4 2585 2608 3507 5309 
+people Concorde.txt 5 8701 9125 10478 11442 12191 
+proportionally Concorde.txt 1 5838 
+unnecessary Concorde.txt 1 5642 
+malaysia Concorde.txt 1 3649 
+caledonian Concorde.txt 2 7991 8007 
+lb/sq Concorde.txt 2 6714 6734 
+205 Concorde.txt 1 9343 
+2,180 Concorde.txt 1 46 
+toronto Concorde.txt 1 9436 
+smithsonians Concorde.txt 1 9385 
+for Concorde.txt 125 2 53 70 169 175 510 568 1328 1400 1427 1446 1624 1651 1938 2014 2204 2381 2489 2549 2592 2603 2673 2680 2764 2819 2837 2846 2851 2859 2863 2873 3001 3124 3190 3317 3408 3796 3814 3821 3884 4001 4023 4130 4146 4179 4406 4497 4537 4558 4575 4592 4835 4902 5088 5095 5199 5325 5352 5615 5995 6096 6308 6581 6798 6857 7057 7091 7124 7255 7442 7609 7890 7981 8037 8050 8055 8171 8296 8334 8344 8383 8503 8508 8511 8675 8877 8886 8967 8974 8986 8998 9111 9144 9211 9232 9235 9408 9569 9604 9736 9912 10056 10067 10111 10134 10164 10291 10757 10792 11142 11175 11276 11342 11419 11438 11653 12379 12398 12411 12426 12430 12434 12444 12458 12758 
+flux Concorde.txt 1 5803 
+exhausts Concorde.txt 1 11842 
+opposite Concorde.txt 1 12526 
+flagman Concorde.txt 1 12305 
+honoured Concorde.txt 1 9336 
+unit Concorde.txt 2 3045 6709 
+denied Concorde.txt 1 8935 
+beating Concorde.txt 2 443 12239 
+espionage Concorde.txt 1 11187 
+columbus Concorde.txt 1 12577 
+yorks Concorde.txt 3 7589 9449 9684 
+deflation Concorde.txt 1 6912 
+burn Concorde.txt 1 1210 
+6,000 Concorde.txt 2 5940 6933 
+losing Concorde.txt 1 6850 
+manufacturing Concorde.txt 2 10374 11404 
+permitted Concorde.txt 1 5785 
+tyres Concorde.txt 5 6705 6726 6758 6848 10928 
+attacks Concorde.txt 3 501 8775 11026 
+citizens Concorde.txt 1 3071 
+surround Concorde.txt 1 11943 
+costs Concorde.txt 9 303 323 1255 2343 3029 8329 8487 8500 8779 
+plus Concorde.txt 1 8386 
+shared Concorde.txt 1 7606 
+lacked Concorde.txt 1 3641 
+slightly Concorde.txt 3 1645 5657 5662 
+jacques Concorde.txt 1 10643 
+considerations Concorde.txt 2 2331 2456 
+raised Concorde.txt 7 7044 7107 7132 8465 9222 9849 10106 
+civil Concorde.txt 4 2434 6213 11584 12789 
+down Concorde.txt 7 2785 4745 5032 5050 5484 8351 10569 
+fuselage Concorde.txt 11 937 1664 2133 2143 5121 5449 5605 5777 5784 8723 10349 
+cardiff Concorde.txt 2 6956 9499 
+refined Concorde.txt 1 11335 
+paya Concorde.txt 1 7618 
+publics Concorde.txt 1 11923 
+coveted Concorde.txt 1 7429 
+compression Concorde.txt 2 4921 5108 
+altitude Concorde.txt 15 50 3698 5036 5796 5932 5947 6001 6088 6103 6180 6219 6261 9529 9646 10595 
+initial Concorde.txt 2 2943 4138 
+virgin Concorde.txt 2 8859 8895 
+influencing Concorde.txt 1 4339 
+way Concorde.txt 6 2372 2591 6565 6637 10784 12714 
+crews Concorde.txt 2 7880 7886 
+resulted Concorde.txt 5 668 706 2328 7738 11190 
+queens Concorde.txt 2 12003 12336 
+was Concorde.txt 165 25 105 153 188 225 255 290 326 393 467 587 595 843 910 1038 1144 1355 1393 1516 1530 1666 1726 1729 1738 1872 1883 1892 1929 2023 2073 2089 2167 2235 2370 2471 2496 2547 2557 2610 2650 2685 2733 2843 2974 3282 3303 3439 3513 3761 3780 3784 3799 3862 3906 3972 3992 4163 4166 4186 4234 4242 4265 4346 4388 4540 4778 4839 4863 4912 4941 5005 5065 5093 5141 5227 5318 5336 5345 5349 5456 5497 5513 5551 5589 5636 5654 5705 5709 5748 5820 5928 5948 6049 6170 6381 6398 6420 6428 6489 6507 6639 7025 7043 7113 7131 7250 7496 7569 7627 7647 7691 7915 8032 8060 8233 8356 8393 8422 8439 8457 8462 8633 8666 8782 8796 8830 8869 8909 8954 8995 9036 9114 9137 9356 9662 9702 9888 9927 9978 10007 10156 10331 10483 10511 10591 10631 10986 10991 11032 11164 11218 11377 11452 11666 11699 11710 11816 12010 12048 12061 12178 12212 12474 12622 12751 
+flying Concorde.txt 11 69 1276 1285 1816 4158 5100 5649 6452 9919 10055 11655 
+head Concorde.txt 1 3010 
+lowe Concorde.txt 2 9779 10329 
+economics Concorde.txt 2 1927 8399 
+offering Concorde.txt 1 958 
+manufacturers Concorde.txt 1 3693 
+fore Concorde.txt 3 1629 1646 1712 
+pierre Concorde.txt 2 1877 3800 
+failure Concorde.txt 7 3953 3962 4678 4730 4765 4777 4817 
+heat Concorde.txt 4 4930 5197 5201 5234 
+solar Concorde.txt 7 5859 7244 7260 7275 12446 12450 12461 
+223 Concorde.txt 2 1719 1755 
+221 Concorde.txt 1 3315 
+bypassing Concorde.txt 1 7670 
+happen Concorde.txt 1 10267 
+versions Concorde.txt 1 11332 
+prevents Concorde.txt 2 6804 6846 
+1973-74 Concorde.txt 1 3081 
+attached Concorde.txt 1 5433 
+maximum Concorde.txt 6 32 2017 4464 5945 6178 6763 
+xf-92 Concorde.txt 1 830 
+rafs Concorde.txt 1 3737 
+unusually Concorde.txt 1 6575 
+panels Concorde.txt 1 4940 
+optimisation Concorde.txt 1 3818 
+trim Concorde.txt 3 5367 5530 5568 
+150 Concorde.txt 2 2348 2411 
+adopt Concorde.txt 1 6347 
+proved Concorde.txt 2 2108 2273 
+classic Concorde.txt 1 1509 
+uk-built Concorde.txt 1 3385 
+evidence Concorde.txt 1 11719 
+mid-atlantic Concorde.txt 1 10958 
+simulations Concorde.txt 1 4736 
+adversely Concorde.txt 1 4277 
+trip Concorde.txt 1 12038 
+physical Concorde.txt 1 778 
+vertical Concorde.txt 1 11797 
+1,000 Concorde.txt 1 10688 
+no Concorde.txt 14 423 844 1667 1979 2371 2966 5326 5337 6211 6610 7966 9177 10253 11731 
+generally Concorde.txt 1 1575 
+warms Concorde.txt 1 2038 
+role Concorde.txt 1 8854 
+ambitious Concorde.txt 1 2929 
+papers Concorde.txt 1 862 
+test Concorde.txt 10 1041 1152 3364 3706 5063 8332 9918 10977 11324 12209 
+operators Concorde.txt 2 8619 10411 
+unbalanced Concorde.txt 1 10715 
+intend Concorde.txt 1 9991 
+17,824 Concorde.txt 1 9377 
+preceding Concorde.txt 1 3286 
+felt Concorde.txt 2 2565 2581 
+transported Concorde.txt 1 9930 
+fell Concorde.txt 2 1268 2536 
+intent Concorde.txt 1 10033 
+propelling Concorde.txt 1 4650 
+rolling Concorde.txt 2 4533 10608 
+honour Concorde.txt 1 9567 
+hawker Concorde.txt 2 1396 1455 
+died Concorde.txt 1 2784 
+billion Concorde.txt 2 223 11543 
+domingo Concorde.txt 1 12612 
+longer Concorde.txt 4 1668 2138 9178 10254 
+assume Concorde.txt 1 10338 
+deflector Concorde.txt 1 6745 
+concorde Concorde.txt 220 0 6 10 62 104 150 313 325 337 421 427 511 534 1076 2709 2715 2777 2867 2888 2895 2898 2904 2934 2983 3018 3077 3131 3273 3359 3386 3446 3447 3464 3489 3501 3625 3653 3675 3694 3713 3720 3760 3778 3809 3835 4024 4110 4147 4356 4454 4719 4742 4775 4808 5018 5091 5102 5191 5240 5579 5647 5651 5757 5780 5900 6048 6135 6175 6226 6296 6332 6345 6397 6536 6547 6553 6591 6832 6839 6928 6949 7060 7186 7240 7248 7295 7304 7316 7326 7334 7342 7373 7412 7443 7494 7504 7572 7608 7625 7680 7708 7781 7828 7947 7959 8000 8020 8029 8059 8097 8116 8135 8166 8297 8307 8413 8451 8480 8535 8555 8592 8727 8751 8781 8806 8875 8925 8976 8994 9012 9029 9046 9052 9060 9072 9091 9107 9135 9181 9240 9249 9315 9340 9361 9397 9485 9534 9587 9625 9670 9735 9746 9764 9781 9833 9887 9925 10013 10027 10049 10101 10119 10179 10205 10220 10230 10274 10321 10325 10489 10701 10733 10755 10860 10947 11079 11084 11103 11146 11163 11180 11195 11230 11240 11263 11303 11356 11448 11527 11552 11641 11665 11698 11748 11815 11845 11982 12009 12057 12065 12108 12125 12211 12238 12276 12288 12302 12328 12370 12374 12515 12544 12582 12589 12629 12634 12686 12774 12783 12804 
+daily Concorde.txt 3 6289 8144 8581 
+warm Concorde.txt 1 4942 
+time Concorde.txt 21 383 571 585 1228 1261 1436 1763 2165 2544 3257 3411 3990 4135 5333 5841 5987 6165 7565 9147 9714 12532 
+serious Concorde.txt 1 2258 
+necessitated Concorde.txt 1 7017 
+profits Concorde.txt 3 3603 8128 8390 
+precise Concorde.txt 1 5400 
+concept Concorde.txt 5 564 714 759 1408 1733 
+switched Concorde.txt 1 4438 
+lower-flying Concorde.txt 1 11786 
+varying Concorde.txt 1 5421 
+manager Concorde.txt 1 9784 
+skin Concorde.txt 4 5103 5280 5833 11878 
+3-hour Concorde.txt 1 10953 
+bomber Concorde.txt 3 3741 4183 11492 
+layers Concorde.txt 1 11803 
+21st Concorde.txt 1 6528 
+airframes Concorde.txt 2 278 2015 
+outdated Concorde.txt 1 8797 
+environment Concorde.txt 1 11931 
+silencers Concorde.txt 1 4216 
+finally Concorde.txt 1 2064 
+promoting Concorde.txt 1 2982 
+suffered Concorde.txt 1 11086 
+brown Concorde.txt 2 1044 1065 
+charles Concorde.txt 3 348 2561 2748 
+advantage Concorde.txt 1 3964 
+olympus Concorde.txt 8 2200 3729 3855 4168 4228 4385 5726 10017 
+1992 Concorde.txt 2 12438 12569 
+tanks Concorde.txt 2 10721 10923 
+advised Concorde.txt 1 5319 
+celebrations Concorde.txt 1 12397 
+locked Concorde.txt 2 1373 2506 
+suppressors Concorde.txt 1 4013 
+governments Concorde.txt 5 299 2701 3597 8064 11591 
+68,000 Concorde.txt 1 3700 
+perceived Concorde.txt 2 2745 12012 
+short-range Concorde.txt 3 1316 2960 2970 
+presented Concorde.txt 7 1030 1961 2319 2362 3120 3404 3546 
+did Concorde.txt 4 1258 4275 8138 10850 
+turns Concorde.txt 1 5383 
+1996 Concorde.txt 3 5289 7323 12485 
+leave Concorde.txt 2 1674 5985 
+solved Concorde.txt 1 4311 
+excellence Concorde.txt 1 2794 
+team Concorde.txt 6 641 644 761 1471 1899 2088 
+round Concorde.txt 1 9612 
+olympia Concorde.txt 1 9841 
+prevent Concorde.txt 6 268 4529 4552 5870 6667 6747 
+olympic Concorde.txt 2 3246 12435 
+unexpected Concorde.txt 1 6641 
+trend Concorde.txt 1 3161 
+eclipse Concorde.txt 5 7245 7261 7276 12451 12462 
+rolls-royce/snecma Concorde.txt 2 3854 5725 
+cost Concorde.txt 14 195 207 228 289 1298 1319 2413 3046 4987 5763 8320 8520 9794 11461 
+takeoff Concorde.txt 2 10431 10742 
+targets Concorde.txt 1 2941 
+appear Concorde.txt 2 1520 7977 
+favour Concorde.txt 2 1952 3166 
+extraterrestrial Concorde.txt 1 5805 
+deadening Concorde.txt 1 5696 
+international Concorde.txt 19 356 363 370 2654 2919 7448 7615 7716 7848 7874 8565 8597 9438 9453 9460 9470 10458 12653 12786 
+thereabouts Concorde.txt 1 6482 
+era Concorde.txt 1 8820 
+supporting Concorde.txt 1 2458 
+transportation Concorde.txt 1 7437 
+morgan Concorde.txt 5 553 1037 1103 1290 1349 
+tsr-2 Concorde.txt 2 2206 4161 
+18,000 Concorde.txt 3 5951 6317 10968 
+depressurisation Concorde.txt 1 5983 
+french Concorde.txt 26 286 296 1948 1977 2101 2226 2254 2624 2700 2713 2753 2849 7390 8617 9134 9163 9180 9248 10016 10030 10664 10700 10839 12074 12104 12304 
+understanding Concorde.txt 2 775 11924 
+water Concorde.txt 1 6749 
+corporation Concorde.txt 3 119 1465 4877 
+upgrade Concorde.txt 1 8805 
+jetstreams Concorde.txt 1 6295 
+address Concorde.txt 1 4089 
+plan-view Concorde.txt 1 1713 
+along Concorde.txt 2 935 5548 
+change Concorde.txt 1 2772 
+box Concorde.txt 1 12260 
+passengers Concorde.txt 14 57 158 484 5461 5798 5972 6038 7968 8452 9022 10467 11009 11039 11071 
+gulf Concorde.txt 1 7791 
+canadian Concorde.txt 2 12756 12770 
+shift Concorde.txt 3 3561 5510 5516 
+studied Concorde.txt 2 642 4405 
+guilty Concorde.txt 1 10829 
+trial Concorde.txt 1 10635 
+ineffective Concorde.txt 1 4226 
+usually Concorde.txt 3 5914 9001 12049 
+studies Concorde.txt 2 528 724 
+ipa Concorde.txt 1 2716 
+retired Concorde.txt 7 468 9101 9138 9175 9185 9585 9916 
+extra Concorde.txt 1 11460 
+marked Concorde.txt 1 1937 
+histories Concorde.txt 2 7242 11105 
+santo Concorde.txt 1 12611 
+thrust-by-wire Concorde.txt 1 4908 
+touchdown Concorde.txt 1 12501 
+illumination Concorde.txt 1 9562 
+should Concorde.txt 3 2485 10770 10777 
+crisis Concorde.txt 3 3089 7734 8273 
+market Concorde.txt 7 1378 2555 2594 2646 3000 3083 3181 
+soviet-built Concorde.txt 1 92 
+towards Concorde.txt 2 6674 10959 
+russell Concorde.txt 1 3805 
+positive Concorde.txt 3 2378 2478 6118 
+stated Concorde.txt 4 1194 2468 2788 9807 
+visit Concorde.txt 2 3469 3492 
+france Concorde.txt 45 136 308 407 478 1770 3209 3576 3582 5291 5317 7315 7325 7333 7341 7452 7472 7706 7856 7882 8190 8570 8611 8642 8741 9048 9051 9059 9067 9113 9239 9306 9335 9360 9989 10418 10425 10437 10445 10807 11125 11947 12059 12282 12588 12628 
+live Concorde.txt 1 10994 
+outright Concorde.txt 2 8286 8376 
+handley Concorde.txt 2 1170 3327 
+cited Concorde.txt 2 8756 9037 
+today Concorde.txt 1 8425 
+andr Concorde.txt 1 3374 
+flypasts Concorde.txt 1 12150 
+afford Concorde.txt 1 161 
+india Concorde.txt 3 3238 3647 7678 
+acceptable Concorde.txt 1 4009 
+equipped Concorde.txt 2 6050 7264 
+envelope Concorde.txt 1 3325 
+attained Concorde.txt 1 10962 
+dismal Concorde.txt 1 3026 
+industrys Concorde.txt 1 2389 
+government-owned Concorde.txt 1 1789 
+fly Concorde.txt 13 149 201 1220 2060 4359 5573 6155 6494 8670 9643 9812 10045 10782 
+valued Concorde.txt 1 8678 
+modernised Concorde.txt 1 8849 
+avoiding Concorde.txt 1 2104 
+originally Concorde.txt 1 2671 
+cap Concorde.txt 1 5181 
+modified Concorde.txt 2 3304 7251 
+aircrafts Concorde.txt 4 1592 5391 7383 9328 
+can Concorde.txt 9 790 1638 4032 6458 9217 9299 9997 10044 10262 
+believed Concorde.txt 2 1381 11902 
+making Concorde.txt 1 5742 
+claim Concorde.txt 1 10623 
+dedicated Concorde.txt 2 6231 6271 
+metallurgical Concorde.txt 2 5058 8327 
+fragment Concorde.txt 1 10532 
+december Concorde.txt 4 3871 7842 9824 10816 
+trouble Concorde.txt 1 10787 
+1980s Concorde.txt 1 2915 
+heard Concorde.txt 1 10241 
+celsius Concorde.txt 1 5287 
+dropped Concorde.txt 1 2975 
+acapulco Concorde.txt 3 7840 12613 12676 
+allowed Concorde.txt 4 2207 6361 7072 7812 
+conversely Concorde.txt 1 2511 
+232 Concorde.txt 1 6713 
+hsa.1000 Concorde.txt 1 1413 
+requirements Concorde.txt 2 4397 4610 
+winter Concorde.txt 2 8604 12439 
+tailwind Concorde.txt 1 12509 
+altitudes Concorde.txt 3 6269 6283 11776 
+secured Concorde.txt 2 3185 10209 
+1 Concorde.txt 11 1095 3381 3497 5133 7795 8901 9441 9823 10583 11542 11864 
+laviation Concorde.txt 1 10506 
+pure Concorde.txt 1 1745 
+optimal Concorde.txt 1 6988 
+coleman Concorde.txt 1 7439 
+1,8002,400 Concorde.txt 1 5923 
+map Concorde.txt 2 460 12253 
+designer Concorde.txt 1 3795 
+crashes Concorde.txt 1 11311 
+huge Concorde.txt 1 213 
+may Concorde.txt 8 2988 7465 7845 7950 9086 10004 11327 12372 
+leased Concorde.txt 2 7850 8176 
+spot Concorde.txt 1 9878 
+crashed Concorde.txt 1 10442 
+produce Concorde.txt 5 791 1018 2955 11788 11847 
+designed Concorde.txt 6 1901 5094 5500 5655 6509 7167 
+date Concorde.txt 4 536 7278 10233 10284 
+such Concorde.txt 19 447 616 942 971 1005 2276 3106 3175 3888 4936 5534 8821 8846 8939 11476 11944 12244 12333 12383 
+revealed Concorde.txt 3 1931 2248 8448 
+efforts Concorde.txt 4 2527 2900 7532 11188 
+supersonic Concorde.txt 52 21 81 252 258 561 593 726 868 949 1078 1111 2498 3299 3379 3549 3614 3654 3886 4002 4427 4721 4962 5042 5118 5167 5214 5270 5403 5426 5583 5601 5826 6163 7229 7683 7893 8077 8145 8218 8252 8279 9297 11157 11290 11411 11420 11548 11839 11915 12697 12705 12744 
+piloted Concorde.txt 4 3372 3397 9703 10943 
+noun Concorde.txt 2 12098 12107 
+remember Concorde.txt 1 6499 
+zaire Concorde.txt 1 12419 
+long-range Concorde.txt 2 2957 3195 
+jurez Concorde.txt 1 7715 
+explicit Concorde.txt 1 1118 
+tale Concorde.txt 1 2806 
+enquiry Concorde.txt 1 9165 
+switch Concorde.txt 1 6979 
+so Concorde.txt 13 294 1229 1564 1728 2025 2041 4153 4773 7688 8463 8931 9995 12179 
+3,050 Concorde.txt 1 8513 
+preproduction Concorde.txt 1 11223 
+tall Concorde.txt 1 6578 
+increase Concorde.txt 5 5829 5865 6413 8897 11873 
+travel Concorde.txt 1 8770 
+talk Concorde.txt 2 2816 10812 
+typical Concorde.txt 2 6613 6915 
+exclusive Concorde.txt 1 6228 
+serving Concorde.txt 1 2096 
+duke Concorde.txt 1 12272 
+pointed Concorde.txt 2 7011 11782 
+mainly Concorde.txt 3 155 2192 7417 
+unacceptable Concorde.txt 1 2575 
+years Concorde.txt 12 74 472 7955 8346 8389 8791 8969 10296 10398 10759 11446 12205 
+course Concorde.txt 1 10736 
+12,000 Concorde.txt 1 5960 
+recoup Concorde.txt 1 293 
+dismissed Concorde.txt 1 8891 
+nitrogen Concorde.txt 1 11750 
+pitch Concorde.txt 3 1609 5366 5483 
+still Concorde.txt 8 946 1025 2090 2486 5514 9218 10086 11113 
+jock Concorde.txt 2 9778 10328 
+26,200 Concorde.txt 1 8528 
+group Concorde.txt 8 566 711 1109 1440 2579 9985 10014 10050 
+maps Concorde.txt 1 11976 
+sorties Concorde.txt 1 1222 
+undermined Concorde.txt 1 9040 
+window Concorde.txt 2 7172 7213 
+policy Concorde.txt 1 8067 
+decreased Concorde.txt 1 6328 
+main Concorde.txt 15 232 2600 3852 6548 6633 6670 6703 6810 6961 10226 10422 10539 10679 11101 12799 
+parades Concorde.txt 1 12395 
+happened Concorde.txt 3 4717 5045 10064 
+halt Concorde.txt 1 6783 
+views Concorde.txt 1 3874 
+introduce Concorde.txt 1 12077 
+1955 Concorde.txt 1 582 
+1954 Concorde.txt 1 574 
+1956 Concorde.txt 2 1097 1141 
+wealthy Concorde.txt 1 157 
+not Concorde.txt 23 835 891 2109 2517 4243 4276 4513 4685 5350 6034 7694 7929 8357 8996 9811 9891 10079 10378 10673 10790 10851 11033 11957 
+kkd Concorde.txt 1 2717 
+now Concorde.txt 6 2344 6525 9173 9897 10249 11735 
+1959 Concorde.txt 2 1389 1454 
+hall Concorde.txt 1 543 
+maintaining Concorde.txt 2 5399 6375 
+blueprints Concorde.txt 1 11196 
+workload Concorde.txt 1 6437 
+name Concorde.txt 6 388 2708 2732 2850 12079 12094 
+suffixed Concorde.txt 1 2791 
+january Concorde.txt 2 7299 7353 
+drop Concorde.txt 2 11853 11867 
+arrows Concorde.txt 1 12168 
+leak Concorde.txt 1 10560 
+possibilities Concorde.txt 1 10707 
+paris-charles Concorde.txt 2 9054 10449 
+entirely Concorde.txt 1 8318 
+en Concorde.txt 1 10452 
+significantly Concorde.txt 4 2521 3116 6255 11236 
+populated Concorde.txt 1 273 
+benito Concorde.txt 1 7714 
+torch Concorde.txt 1 12436 
+owing Concorde.txt 1 5105 
+farewell Concorde.txt 2 9429 9479 
+begun Concorde.txt 1 10021 
+year Concorde.txt 2 8309 8754 
+et Concorde.txt 1 10500 
+naming Concorde.txt 1 2691 
+intended Concorde.txt 4 2953 8962 10183 10979 
+canada Concorde.txt 1 3240 
+l-2000 Concorde.txt 1 11429 
+ultimately Concorde.txt 3 1176 2450 2535 
+opened Concorde.txt 2 5145 8070 
+space Concorde.txt 5 2994 4869 9321 9866 9970 
+profit Concorde.txt 3 316 8483 9019 
+oklahoma Concorde.txt 1 11510 
+looking Concorde.txt 1 1445 
+contained Concorde.txt 1 3265 
+investigation Concorde.txt 2 10494 10666 
+emerged Concorde.txt 1 2189 
+suggesting Concorde.txt 1 2367 
+viable Concorde.txt 3 4365 7695 8036 
+shows Concorde.txt 4 7967 12157 12382 12391 
+earlier Concorde.txt 3 822 2000 10530 
+1995 Concorde.txt 3 10900 11819 12643 
+million Concorde.txt 14 211 1303 1324 2349 2412 3049 3055 8385 8700 8902 8957 9796 10110 10212 
+possibility Concorde.txt 3 7140 8025 8072 
+quite Concorde.txt 1 11499 
+advantages Concorde.txt 1 1545 
+besides Concorde.txt 1 4952 
+rolls-royce Concorde.txt 1 4123 
+fixed Concorde.txt 1 6275 
+brasil Concorde.txt 1 3227 
+ministry Concorde.txt 2 1099 2359 
+locations Concorde.txt 1 11004 
+british Concorde.txt 56 117 139 284 298 304 432 1463 1992 2698 2761 2902 3584 4875 5778 7290 7454 7481 7601 7638 7804 7860 7884 7957 7990 7998 8006 8063 8281 8301 8381 8391 8407 8411 8476 8550 8572 8586 8638 8645 8743 8836 8873 8889 8921 9393 9423 9583 9831 10011 10696 10761 12054 12117 12219 12241 12488 
+turn Concorde.txt 1 2415 
+archibald Concorde.txt 1 3804 
+place Concorde.txt 5 9094 9294 9749 10410 11014 
+massive Concorde.txt 1 4199 
+swing Concorde.txt 1 6673 
+routes Concorde.txt 9 377 2098 5745 6169 6243 6280 7366 7432 7741 
+promotion Concorde.txt 1 8665 
+support Concorde.txt 4 509 8985 9160 9819 
+first Concorde.txt 32 58 570 578 1136 2949 3260 3275 3363 3377 3384 3410 3442 3468 3763 3786 4177 4842 5030 6869 7160 7294 8388 8433 9358 9413 10150 10409 10930 11006 11215 12208 12578 
+origin Concorde.txt 1 2632 
+compound-rounded Concorde.txt 1 1531 
+toulouse Concorde.txt 6 2756 3351 3367 9103 9140 12667 
+revenue Concorde.txt 1 8126 
+clause Concorde.txt 3 2670 8912 8941 
+spiralled Concorde.txt 1 3031 
+parachutes Concorde.txt 1 11299 
+one Concorde.txt 18 77 1571 1576 2076 2139 2925 2956 2959 3744 4337 7562 8052 8165 8887 9956 10362 10823 11312 
+americans Concorde.txt 1 2063 
+gases Concorde.txt 1 11800 
+directly Concorde.txt 3 5236 6126 11643 
+overheating Concorde.txt 1 5261 
+carry Concorde.txt 1 3306 
+impossible Concorde.txt 2 291 3066 
+weight-saving Concorde.txt 2 3822 6886 
+open Concorde.txt 2 9363 9950 
+rudy Concorde.txt 1 11067 
+size Concorde.txt 1 2083 
+airbus Concorde.txt 2 513 9821 
+city Concorde.txt 7 7724 7758 7838 8735 9081 10463 11511 
+little Concorde.txt 3 662 8801 10587 
+ssts Concorde.txt 1 3566 
+caught Concorde.txt 2 10658 10685 
+uks Concorde.txt 2 2567 2641 
+plastic Concorde.txt 1 6024 
+runways Concorde.txt 2 695 9552 
+returns Concorde.txt 1 2380 
+2 Concorde.txt 18 1280 1827 2022 3302 3369 3452 4062 4461 4757 5274 5324 5360 5519 10572 11850 11882 12492 12683 
+draft Concorde.txt 1 2683 
+cost-effective Concorde.txt 1 8206 
+white Concorde.txt 2 5257 5276 
+1999 Concorde.txt 2 12466 12685 
+eyes Concorde.txt 1 1940 
+inefficient Concorde.txt 1 4450 
+that Concorde.txt 121 24 229 589 639 649 787 841 889 904 925 975 1052 1166 1188 1195 1264 1292 1352 1363 1379 1515 1529 1566 1829 1896 1932 2043 2068 2169 2190 2252 2284 2368 2387 2403 2469 2482 2493 2582 2613 2702 2769 2783 2789 3022 3486 3622 3989 3994 4057 4693 4882 4995 5067 5144 5163 5356 5451 5471 5707 5822 6022 6105 6441 6444 6448 6506 6638 6954 7031 7559 7736 7811 8061 8449 8454 8475 8747 8753 8839 8866 8881 8906 8950 8959 8993 9004 9013 9227 9337 9602 9791 9808 9875 9980 10009 10103 10158 10250 10517 10525 10624 10647 10667 10682 10708 10731 10764 10808 11091 11185 11261 11495 11521 11664 11697 11722 11784 11834 11942 12181 
+season Concorde.txt 1 8606 
+continuous Concorde.txt 1 6117 
+alan Concorde.txt 1 9034 
+callaghan Concorde.txt 1 12319 
+deceleration Concorde.txt 2 5556 7761 
+stratospheric Concorde.txt 1 11775 
+eliminated Concorde.txt 1 8852 
+than Concorde.txt 28 191 241 380 2262 2661 2893 3036 5328 5850 6203 6356 6484 6945 7571 7934 7983 8459 10896 11229 11239 11541 11668 11701 11733 11744 11860 12695 12700 
+11 Concorde.txt 7 500 5285 7851 8774 8856 11016 12465 
+10 Concorde.txt 3 7404 8686 8737 
+13 Concorde.txt 1 12511 
+12 Concorde.txt 3 9331 9721 12737 
+15 Concorde.txt 3 7298 9121 10758 
+effective Concorde.txt 1 6036 
+17 Concorde.txt 4 7513 10940 11985 12534 
+16 Concorde.txt 1 3269 
+rival Concorde.txt 1 3613 
+non-stop Concorde.txt 1 5574 
+r Concorde.txt 1 14 
+venture Concorde.txt 1 2278 
+were Concorde.txt 69 127 142 261 309 487 890 1444 1823 1830 1861 2080 2102 2255 2318 2332 2339 2351 2501 3210 3403 3665 3875 4206 4222 4324 4375 4437 4493 4810 4896 5086 5375 5396 5409 5441 5597 5913 6663 6867 6921 7106 7231 7746 7863 7901 7928 8044 8107 8254 8312 8488 8883 8979 9157 9848 10827 10905 11040 11092 11227 11333 11422 11431 11498 11587 12033 12183 12235 12408 
+outcome Concorde.txt 1 2480 
+and Concorde.txt 314 67 108 115 132 138 148 172 215 285 297 306 346 367 406 439 461 485 504 520 575 674 696 719 735 810 847 860 961 983 1126 1281 1306 1325 1362 1398 1414 1441 1458 1481 1489 1525 1546 1697 1766 1792 1806 1911 1921 1960 1984 2055 2084 2134 2144 2162 2183 2231 2245 2291 2301 2437 2445 2499 2596 2636 2667 2699 2797 2853 2861 2924 2958 2972 3006 3085 3102 3119 3152 3207 3253 3310 3352 3376 3431 3461 3539 3556 3578 3583 3648 3817 3823 3894 4025 4049 4054 4069 4080 4084 4097 4198 4267 4294 4320 4417 4425 4432 4500 4555 4578 4614 4623 4662 4705 4788 4805 4868 4891 4939 4988 5025 5048 5059 5077 5081 5124 5157 5224 5382 5384 5387 5418 5555 5610 5628 5633 5661 5697 5701 5738 5882 5973 6037 6076 6098 6186 6427 6498 6521 6530 6544 6577 6645 6724 6738 6809 6910 6986 6999 7016 7078 7093 7097 7104 7116 7177 7201 7209 7214 7263 7359 7386 7450 7453 7537 7576 7579 7585 7603 7613 7637 7696 7756 7772 7825 7839 7857 7871 7883 7897 7908 7931 7973 8127 8179 8222 8239 8310 8347 8436 8506 8533 8547 8559 8571 8603 8616 8640 8742 8776 8958 9109 9127 9141 9176 9221 9279 9320 9371 9374 9417 9465 9503 9517 9541 9572 9627 9707 9720 9773 9783 9805 9920 9929 9969 9983 10015 10083 10115 10125 10137 10305 10323 10346 10370 10380 10414 10468 10476 10547 10561 10579 10585 10610 10660 10681 10698 10722 10799 10820 10848 10886 10924 10965 10990 10996 11053 11057 11074 11130 11148 11264 11319 11336 11353 11357 11401 11406 11426 11486 11505 11566 11571 11592 11622 11635 11720 11738 11826 11929 12085 12116 12130 12158 12226 12261 12270 12283 12297 12313 12324 12348 12357 12388 12396 12443 12456 12538 12557 12591 12600 12617 12675 12736 
+questionable Concorde.txt 1 2335 
+remained Concorde.txt 1 3571 
+topics Concorde.txt 1 4041 
+exceeded Concorde.txt 1 9130 
+argument Concorde.txt 1 2530 
+lift-to-drag Concorde.txt 1 5618 
+stiffest Concorde.txt 1 5436 
+buried Concorde.txt 2 3892 3934 
+scotlands Concorde.txt 1 2830 
+saw Concorde.txt 1 3922 
+any Concorde.txt 13 411 2263 2295 2377 2476 3602 4407 4961 5353 5464 5586 7984 10229 
+speedbird Concorde.txt 1 7372 
+silhouette Concorde.txt 1 1714 
+form Concorde.txt 3 555 1105 10185 
+efficient Concorde.txt 3 3118 5599 6335 
+offer Concorde.txt 2 8899 8953 
+downwards Concorde.txt 1 4799 
+consortium Concorde.txt 2 2952 3184 
+shocked Concorde.txt 1 3536 
+fly-by-wire Concorde.txt 1 3772 
+potential Concorde.txt 2 3537 8090 
+take Concorde.txt 2 981 11632 
+objective Concorde.txt 1 5678 
+performance Concorde.txt 11 858 950 1088 1159 1201 3028 3337 3825 4574 5672 12793 
+coincide Concorde.txt 1 10143 
+concern Concorde.txt 5 1560 2421 3541 3659 3937 
+registered Concorde.txt 1 7902 
+46.4 Concorde.txt 1 3150 
+begin Concorde.txt 1 1340 
+202 Concorde.txt 1 7210 
+multiple Concorde.txt 2 6895 12424 
+normal Concorde.txt 4 1634 6378 7393 11043 
+azores Concorde.txt 1 7401 
+price Concorde.txt 4 166 182 333 8880 
+incidence Concorde.txt 1 11875 
+visitors Concorde.txt 1 9952 
+landing Concorde.txt 21 677 962 1015 3476 4496 4509 6379 6395 6916 6927 7000 7061 7110 7128 7580 9073 9648 9756 10724 11019 12581 
+complaints Concorde.txt 3 3069 7552 7656 
+cleared Concorde.txt 1 6300 
+pages Concorde.txt 1 2981 
+involving Concorde.txt 1 10488 
+icon Concorde.txt 1 2923 
+planforms Concorde.txt 2 888 1541 
+especially Concorde.txt 3 2336 2384 4541 
+considered Concorde.txt 6 712 2333 2488 3993 8093 8108 
+average Concorde.txt 3 6162 6188 6822 
+later Concorde.txt 7 113 1930 3666 8249 8752 8792 11329 
+implications Concorde.txt 1 3861 
+wing Concorde.txt 21 603 749 897 917 934 1528 1635 1644 1656 1672 1724 1748 2072 2150 4252 4257 5076 5613 6373 6607 11291 
+managing Concorde.txt 1 8364 
+non-fatal Concorde.txt 2 10884 11089 
+arguably Concorde.txt 1 10863 
+typically Concorde.txt 3 5955 7932 11983 
+jubilee Concorde.txt 2 12005 12343 
+laws Concorde.txt 1 4087 
+uninterested Concorde.txt 1 2274 
+show Concorde.txt 4 3420 3527 6143 11318 
+friction Concorde.txt 1 2034 
+spacer Concorde.txt 1 10671 
+mexican Concorde.txt 1 7702 
+hustler Concorde.txt 1 11489 
+ground Concorde.txt 3 10481 11001 11504 
+droop-nose Concorde.txt 1 6963 
+slow Concorde.txt 1 6310 
+ratio Concorde.txt 6 3295 5413 5609 5619 8720 11272 
+twin-wheel Concorde.txt 1 6719 
+true Concorde.txt 1 1072 
+investigators Concorde.txt 1 10697 
+behind Concorde.txt 4 1682 3947 4246 11447 
+fluid Concorde.txt 1 9772 
+overruns Concorde.txt 1 214 
+winged Concorde.txt 1 3725 
+only Concorde.txt 25 79 144 266 276 968 1941 2078 2148 2214 3580 3912 4342 4488 4686 5427 5624 5786 6439 7663 7945 9293 9910 10485 11156 11545 
+going Concorde.txt 4 2497 5041 6476 9853 
+treasury Concorde.txt 1 2358 
+charters Concorde.txt 1 12413 
+awareness Concorde.txt 1 11935 
+dispute Concorde.txt 1 7676 
+get Concorde.txt 2 10053 10403 
+contracts Concorde.txt 1 1345 
+sst Concorde.txt 18 563 681 717 1063 1124 1197 1296 1386 1720 1732 1776 1909 3016 4409 6272 11405 11417 11533 
+2707 Concorde.txt 3 3611 11425 11451 
+tilting Concorde.txt 1 3841 
+countered Concorde.txt 2 4779 5525 
+mission Concorde.txt 2 7246 7262 
+nearly Concorde.txt 1 11349 
+installed Concorde.txt 2 6028 10675 
+neither Concorde.txt 1 2004 
+secondary Concorde.txt 1 4663 
+prime Concorde.txt 1 12314 
+malaysian Concorde.txt 2 7659 7671 
+morning Concorde.txt 1 8591 
+miles Concorde.txt 5 3135 6383 6478 6827 11986 
+predicted Concorde.txt 4 2998 4737 4760 9132 
+2140 Concorde.txt 1 6197 
+where Concorde.txt 10 1036 5495 6408 9295 9881 9947 10042 10180 10691 11065 
+cordiale Concorde.txt 1 2799 
+ignored Concorde.txt 1 10712 
+declared Concorde.txt 2 7693 10987 
+imposing Concorde.txt 1 2677 
+20,700 Concorde.txt 1 3702 
+encouraged Concorde.txt 1 3633 
+surfaces Concorde.txt 4 623 797 4925 5217 
+suffer Concorde.txt 1 6041 
+rumours Concorde.txt 1 9226 
+position Concorde.txt 2 7090 7136 
+federal Concorde.txt 1 7145 
+review Concorde.txt 2 2426 8068 
+definite Concorde.txt 2 424 12070 
+forecast Concorde.txt 1 6292 
+low-speed Concorde.txt 3 1087 1158 11344 
+3 Concorde.txt 5 1819 11480 12536 12601 12732 
+bureau Concorde.txt 1 10498 
+between Concorde.txt 22 402 2443 2656 2665 2696 4051 4100 4330 4429 5151 5415 6980 7611 7751 7868 8220 8544 8557 9411 9725 11801 11927 
+across Concorde.txt 2 5575 11625 
+westbound Concorde.txt 1 12553 
+august Concorde.txt 3 6145 12464 12642 
+disadvantages Concorde.txt 1 1547 
+caac Concorde.txt 1 3249 
+killing Concorde.txt 1 10464 
+spitfire Concorde.txt 2 464 12264 
+jets Concorde.txt 3 4018 6032 6150 
+article Concorde.txt 8 425 2891 3853 6962 10423 11102 12071 12800 
+cities Concorde.txt 2 9523 9728 
+come Concorde.txt 1 8971 
+whitworth Concorde.txt 1 1418 
+jfk Concorde.txt 5 7336 7493 9685 11064 12478 
+reaction Concorde.txt 2 1047 2327 
+perceptions Concorde.txt 1 8471 
+installation Concorde.txt 3 3893 3905 3935 
+missions Concorde.txt 1 12266 
+efficiency Concorde.txt 7 4281 4369 4557 4672 5722 6990 11352 
+many Concorde.txt 10 625 3092 8968 10353 11115 11662 11702 11745 12289 12698 
+region Concorde.txt 1 7831 
+nomenclature Concorde.txt 1 2872 
+contract Concorde.txt 3 1165 1392 6689 
+tour Concorde.txt 5 3433 3457 7802 8618 9430 
+3.5 Concorde.txt 1 6173 
+wheels Concorde.txt 2 6662 6811 
+among Concorde.txt 1 334 
+cancer Concorde.txt 2 5834 11879 
+passenger Concorde.txt 11 22 98 1315 3134 4860 6031 8758 10867 10873 11364 11996 
+boac Concorde.txt 2 3206 3589 
+canards Concorde.txt 1 11341 
+period Concorde.txt 3 1226 1503 7737 
+maintained Concorde.txt 2 5915 8184 
+stretched Concorde.txt 1 2142 
+cancel Concorde.txt 1 8315 
+69 Concorde.txt 1 1185 
+considers Concorde.txt 1 1066 
+considering Concorde.txt 2 1504 1907 
+save Concorde.txt 2 10012 10048 
+unusual Concorde.txt 2 2871 5858 
+booms Concorde.txt 2 7424 11497 
+capable Concorde.txt 1 11500 
+7156 Concorde.txt 1 8441 
+locally Concorde.txt 1 7505 
+airliner Concorde.txt 10 23 1377 3764 5911 6541 6875 10038 10868 11158 12472 
+airlines Concorde.txt 23 145 2947 3093 3125 3174 3200 3219 3229 3231 3234 3236 3243 3252 3270 7307 7605 7631 8039 8464 8658 9015 10523 10819 
+mark Concorde.txt 2 3485 8652 
+sese Concorde.txt 1 12421 
+combined Concorde.txt 2 6616 12711 
+reflective Concorde.txt 1 5256 
+prototype Concorde.txt 4 4162 4889 7162 11217 
+500 Concorde.txt 2 5732 11838 
+engine Concorde.txt 27 688 3831 3961 4085 4145 4156 4176 4254 4315 4322 4348 4355 4553 4597 4638 4677 4697 4713 4764 4776 4802 4816 4909 5715 6755 10570 10581 
+bmc Concorde.txt 1 450 
+direction Concorde.txt 1 4709 
+bypass Concorde.txt 1 11271 
+unsafe Concorde.txt 1 11387 
+mk.622 Concorde.txt 1 4229 
+gander Concorde.txt 1 8229 
+reaching Concorde.txt 3 5237 7682 11502 
+observers Concorde.txt 1 3619 
+wake Concorde.txt 1 10909 
+minister Concorde.txt 3 2227 2240 2763 
+former Concorde.txt 5 1469 8019 9624 10320 10699 
+those Concorde.txt 5 618 3733 5809 6265 10260 
+pilot Concorde.txt 5 1042 9782 10641 10776 10948 
+case Concorde.txt 3 3770 3940 9154 
+grandstands Concorde.txt 1 12182 
+prompting Concorde.txt 1 8894 
+developing Concorde.txt 1 1121 
+these Concorde.txt 17 376 885 1540 1556 1573 2105 2338 3663 4609 5407 6270 6461 7862 8470 11430 11463 11889 
+engineering Concorde.txt 1 9033 
+arnold Concorde.txt 1 542 
+cast Concorde.txt 1 12236 
+cancelled Concorde.txt 5 3608 5749 7473 7483 11531 
+aluminium Concorde.txt 5 2026 2044 4978 4996 5263 
+then Concorde.txt 12 5037 5078 7782 7887 7974 8048 8379 8478 9634 9935 10604 11903 
+characteristics Concorde.txt 3 3292 6133 12792 
+telephone Concorde.txt 1 12259 
+according Concorde.txt 1 10490 
+middle Concorde.txt 3 3250 3460 12353 
+pressing Concorde.txt 1 2548 
+ambient Concorde.txt 1 4561 
+donating Concorde.txt 1 9339 
+technology Concorde.txt 5 2765 2995 4387 11623 11928 
+ship Concorde.txt 2 12030 12082 
+different Concorde.txt 3 893 2181 11220 
+missiles Concorde.txt 1 626 
+develop Concorde.txt 3 1305 1449 4142 
+pay Concorde.txt 1 163 
+granted Concorde.txt 2 10163 12752 
+s Concorde.txt 6 3681 5155 9458 9697 10645 11233 
+same Concorde.txt 12 657 900 1916 4750 5207 5856 6815 8819 8879 11518 12101 12626 
+shifts Concorde.txt 1 5478 
+pad Concorde.txt 1 4503 
+arguments Concorde.txt 1 2454 
+2,399 Concorde.txt 1 8423 
+buys Concorde.txt 1 8283 
+regime Concorde.txt 1 4424 
+events Concorde.txt 3 3073 9571 12154 
+pan Concorde.txt 2 3204 8403 
+week Concorde.txt 2 2993 9477 
+exhaust Concorde.txt 3 4221 4629 11754 
+oil Concorde.txt 3 3088 7703 8266 
+singapore Concorde.txt 5 3242 7306 7604 7614 7630 
+boosted Concorde.txt 1 11921 
+assist Concorde.txt 1 11199 
+director Concorde.txt 6 544 1882 8021 8365 9031 11709 
+running Concorde.txt 2 1657 11443 
+intrepid Concorde.txt 2 8730 9863 
+l/100 Concorde.txt 1 11991 
+advertisement Concorde.txt 2 2977 2997 
+flexed Concorde.txt 1 5454 
+3,500 Concorde.txt 1 8507 
+largely Concorde.txt 2 6422 11588 
+60,000 Concorde.txt 3 5949 6315 10966 
+pompidou Concorde.txt 1 12293 
+severe Concorde.txt 1 6020 
+without Concorde.txt 7 2889 3067 4072 4758 5698 6991 11961 
+launched Concorde.txt 1 8257 
+components Concorde.txt 1 2118 
+masks Concorde.txt 2 6027 6131 
+model Concorde.txt 4 1275 5653 9885 9895 
+consisted Concorde.txt 1 4611 
+anglo-french Concorde.txt 1 123 
+summer Concorde.txt 1 8602 
+210 Concorde.txt 1 7226 
+being Concorde.txt 19 238 280 1070 2202 2558 2620 3758 4189 4448 6508 6750 6942 6981 7038 7918 9208 9915 10087 12088 
+when Concorde.txt 18 541 2314 2786 4285 5046 5182 5463 6450 6699 6852 7040 7488 7516 8785 8907 9099 9679 10655 
+valuable Concorde.txt 1 3332 
+shorter-range Concorde.txt 2 1283 1430 
+pre-production Concorde.txt 1 7204 
+kill Concorde.txt 1 11467 
+m-50 Concorde.txt 1 11561 
+non-binding Concorde.txt 1 3188 
+touch Concorde.txt 1 4945 
+fineness Concorde.txt 2 5608 8719 
+speed Concorde.txt 30 33 37 171 666 857 1001 2018 2032 2050 2053 3323 3336 3816 5014 5119 5445 6190 6206 6380 6588 6764 6796 6824 7787 10597 10743 11360 11402 12564 12729 
+barbados Concorde.txt 4 373 8599 11131 12339 
+weekly Concorde.txt 1 7710 
+occasional Concorde.txt 1 12149 
+transonic Concorde.txt 1 4423 
+grounded Concorde.txt 1 9768 
+except Concorde.txt 2 4094 4282 
+airfield Concorde.txt 2 4044 4095 
+instrument Concorde.txt 1 5884 
+lets Concorde.txt 1 10337 
+setting Concorde.txt 1 8075 
+4 Concorde.txt 2 3435 10477 
+samples Concorde.txt 1 5083 
+extensive Concorde.txt 2 4074 4297 
+ross Concorde.txt 1 3670 
+kingdom Concorde.txt 5 405 2882 9484 11124 12286 
+aeroplanes Concorde.txt 2 705 6456 
+frown Concorde.txt 1 2293 
+spectacular Concorde.txt 1 9273 
+co-ordinates Concorde.txt 2 6276 6285 
+digital Concorde.txt 2 4828 4846 
+virginia Concorde.txt 1 366 
+early Concorde.txt 7 527 539 1435 2906 2914 3491 7954 
+department Concorde.txt 1 10804 
+e-type Concorde.txt 2 456 12251 
+pressurisation Concorde.txt 2 5909 5927 
+world Concorde.txt 11 3072 10871 11023 12255 12556 12561 12562 12580 12594 12649 12710 
+accepted Concorde.txt 1 11589 
+rear Concorde.txt 2 4615 5460 
+ruled Concorde.txt 1 3651 
+adams Concorde.txt 2 369 8596 
+kennedy Concorde.txt 5 355 7592 9452 10457 11660 
+hotel Concorde.txt 1 10619 
+airbuss Concorde.txt 1 8982 
+nose Concorde.txt 22 986 1680 2835 4966 6411 6720 6775 6793 6808 6959 6966 7012 7024 7035 7042 7080 7103 7118 7130 7212 9216 9837 
+occasions Concorde.txt 3 9237 12161 12425 
+recalls Concorde.txt 1 1045 
+stationary Concorde.txt 1 4515 
+reduced Concorde.txt 7 3973 4006 4231 5278 5839 8326 10741 
+kchemann Concorde.txt 4 737 1029 1488 1805 
+seating Concorde.txt 4 52 2184 5789 11437 
+competition Concorde.txt 3 1854 8080 11161 
+provided Concorde.txt 2 3331 6884 
+dimensions Concorde.txt 1 771 
+starfighter Concorde.txt 2 634 1192 
+tube Concorde.txt 2 459 12252 
+extensively Concorde.txt 1 2153 
+stops Concorde.txt 3 12543 12609 12665 
+critical Concorde.txt 2 4542 5468 
+exit Concorde.txt 1 4660 
+vc-137 Concorde.txt 1 7568 
+deaths-per-kilometres Concorde.txt 1 10874 
+45,000 Concorde.txt 2 5099 6313 
+replotted Concorde.txt 1 6287 
+restoring Concorde.txt 1 10068 
+refer Concorde.txt 1 12123 
+grantley Concorde.txt 2 368 8595 
+londons Concorde.txt 1 343 
+braking Concorde.txt 3 6801 6842 11298 
+assembly Concorde.txt 1 6741 
+scientific Concorde.txt 1 2435 
+power Concorde.txt 3 689 10002 10588 
+airways Concorde.txt 39 140 305 2903 3247 3585 5779 6233 7291 7455 7482 7602 7639 7805 7849 7861 7885 7958 7999 8282 8382 8392 8412 8477 8551 8573 8587 8639 8646 8744 8837 8874 8890 9394 9424 9584 9832 10762 12118 12489 
+seconds Concorde.txt 7 5994 9722 12497 12540 12602 12661 12738 
+manufactured Concorde.txt 1 109 
+equivalent Concorde.txt 5 2722 3052 5844 5919 6881 
+notable Concorde.txt 1 12794 
+york/jfk Concorde.txt 1 12652 
+notably Concorde.txt 1 823 
+trials Concorde.txt 2 9921 11580 
+leadership Concorde.txt 1 2309 
+references Concorde.txt 1 12808 
+found Concorde.txt 6 1971 4897 10246 10668 10828 11663 
+prepared Concorde.txt 1 9231 
+nmi Concorde.txt 1 8514 
+on Concorde.txt 146 272 399 620 708 746 794 879 1026 1056 1094 1138 1404 1497 1804 1863 1975 1998 2092 2294 2341 2433 2441 2687 3334 3368 3380 3393 3412 3428 3434 3451 3490 3496 3626 3732 3869 3878 4016 4681 4692 4748 4774 4922 5147 5160 5486 5811 6029 6166 6291 6399 6424 6631 6706 6765 6873 6953 7158 7198 7257 7297 7351 7355 7403 7427 7463 7492 7512 7595 7633 7641 7666 7794 7798 7832 7865 8118 8153 8216 8242 8416 8626 8712 8736 8855 9084 9095 9120 9241 9288 9330 9381 9440 9462 9472 9488 9492 9496 9500 9505 9530 9548 9553 9589 9675 9750 9822 9859 9898 9963 10276 10358 10432 10472 10479 10536 10651 10737 10767 10814 10834 10920 10939 10993 10999 11015 11047 11098 11117 11262 11601 11614 11717 12169 12340 12369 12423 12463 12482 12510 12524 12566 12640 12682 12712 12743 
+2.4c Concorde.txt 1 8530 
+origins Concorde.txt 1 531 
+747-400 Concorde.txt 1 8850 
+of Concorde.txt 325 38 78 196 209 250 319 384 414 476 507 517 532 545 601 609 624 715 744 776 780 801 867 898 915 1004 1022 1074 1089 1100 1120 1150 1160 1189 1227 1253 1270 1375 1462 1535 1539 1550 1570 1572 1583 1594 1604 1659 1662 1678 1691 1715 1835 1926 2011 2019 2180 2228 2241 2264 2304 2392 2399 2427 2457 2508 2629 2633 2807 2823 2832 2926 2991 3008 3047 3138 3167 3193 3201 3258 3293 3320 3339 3445 3458 3508 3519 3529 3565 3601 3628 3662 3688 3690 3699 3745 3819 3830 3833 3840 3882 3919 3930 3965 4037 4065 4091 4136 4173 4195 4250 4261 4291 4307 4336 4398 4458 4462 4612 4710 4731 4752 4783 4792 4826 4844 4854 4873 4949 4957 4960 4984 4990 5002 5023 5074 5084 5098 5111 5139 5232 5246 5303 5389 5406 5438 5470 5476 5492 5517 5529 5546 5561 5585 5594 5679 5756 5764 5775 5804 5832 5872 5889 5891 5937 5988 6010 6018 6058 6063 6181 6191 6207 6220 6230 6259 6351 6364 6389 6403 6416 6552 6558 6563 6584 6598 6661 6732 6768 6788 6825 6878 6887 6932 6955 6970 7007 7053 7141 7154 7223 7273 7292 7381 7436 7520 7551 7654 7792 7965 7997 8026 8073 8085 8125 8142 8201 8409 8443 8501 8656 8721 8811 8817 8938 8984 9011 9026 9032 9106 9151 9161 9204 9310 9350 9478 9550 9563 9618 9655 9668 9695 9715 9744 9762 9770 9785 9818 9830 9845 9886 9957 9986 10025 10074 10108 10148 10167 10189 10285 10309 10316 10355 10363 10389 10399 10550 10642 10786 10796 10805 10824 10830 10889 10910 11106 11194 11203 11209 11287 11355 11361 11380 11393 11462 11472 11501 11526 11605 11617 11628 11647 11657 11685 11746 11799 11822 11837 11876 11914 11925 11936 11950 12016 12042 12080 12099 12139 12173 12190 12216 12232 12273 12281 12400 12418 12452 12528 12533 12572 12576 12702 12718 12731 12761 12788 
+industry Concorde.txt 6 496 1128 2356 2460 3164 11586 
+drag Concorde.txt 9 591 3987 4384 4699 4807 5542 5643 6405 6985 
+slender Concorde.txt 9 728 757 1091 1162 1406 1499 1746 1808 5604 
+practical Concorde.txt 2 1123 1559 
+journey Concorde.txt 2 10300 12763 
+greatly Concorde.txt 2 815 8325 
+act Concorde.txt 1 3687 
+udvar-hazy Concorde.txt 2 9246 9388 
+siddeley Concorde.txt 2 1397 2199 
+road Concorde.txt 2 9280 9932 
+cambridge Concorde.txt 2 6971 6973 
+privatized Concorde.txt 1 8395 
+33.3 Concorde.txt 1 3145 
+instruments Concorde.txt 1 7267 
+lifted Concorde.txt 1 7497 
+variable Concorde.txt 3 4602 4659 6257 
+rising Concorde.txt 3 5762 8265 8777 
+heated Concorde.txt 3 5069 5122 5223 
+speculated Concorde.txt 2 5706 5821 
+anti-skid Concorde.txt 2 6800 6841 
+theoretically Concorde.txt 1 4724 
+her Concorde.txt 2 12135 12341 
+area Concorde.txt 2 4661 5437 
+assumed Concorde.txt 1 1860 
+there Concorde.txt 11 2369 2473 5335 5395 5512 8043 8798 10350 10379 10394 10879 
+alleged Concorde.txt 1 11184 
+strip Concorde.txt 3 10516 10627 10694 
+start Concorde.txt 1 3011 
+low Concorde.txt 20 665 856 1000 1183 2419 3294 3335 4452 4506 4548 4579 6007 6354 6366 6587 7469 8757 9528 9645 11284 
+series Concorde.txt 1 743 
+denqutes Concorde.txt 1 10499 
+complete Concorde.txt 2 1873 11114 
+enough Concorde.txt 2 6021 8340 
+farnborough Concorde.txt 2 7063 12386 
+sophisticated Concorde.txt 1 3928 
+ozone Concorde.txt 4 11771 11789 11856 11869 
+technologies Concorde.txt 1 3813 
+with Concorde.txt 85 51 217 275 422 784 1116 1343 1421 1475 1555 1632 1653 1742 1757 1846 1855 2035 2125 2140 2237 2297 2570 2586 2606 3097 3214 3455 3594 3727 3802 3911 3941 3977 3981 4077 4230 4326 4483 4516 4658 5253 5300 5310 5606 5638 5656 5665 5676 5694 5716 5790 6051 6210 6430 6617 7252 7265 7367 7677 8081 8104 8224 8324 8430 8696 9754 9850 10144 10580 10760 10876 10932 11008 11059 11162 11254 11268 11436 11620 11759 11841 12024 12165 12237 12693 
+hottest Concorde.txt 1 4955 
+faster Concorde.txt 1 6483 
+hire Concorde.txt 1 10139 
+october Concorde.txt 19 1096 2467 3382 7478 7514 8943 9432 9442 9464 9474 9490 9494 9498 9502 9507 9532 9555 9591 12568 
+arranged Concorde.txt 2 8170 12034 
+greeted Concorde.txt 1 11069 
+agree Concorde.txt 1 1974 
+strongly Concorde.txt 2 596 1350 
+wants Concorde.txt 2 1577 10810 
+taylor Concorde.txt 2 10822 10849 
+leaked Concorde.txt 1 2621 
+ad Concorde.txt 1 10242 
+af Concorde.txt 2 137 11054 
+certain Concorde.txt 1 11716 
+am Concorde.txt 1 3205 
+sales Concorde.txt 6 2899 2940 3027 3078 3430 5755 
+tsr.2 Concorde.txt 1 2401 
+an Concorde.txt 61 122 652 680 716 774 1196 1376 1422 1536 1743 2424 2538 2653 2720 2811 2870 2874 2890 2921 2976 3159 3686 3697 3722 3913 3951 4008 4154 4347 4589 4620 4763 4855 4977 5566 5714 5864 5883 5931 6141 6187 6334 6431 6479 6490 6504 6874 7510 7799 9104 9566 9828 10215 10247 10652 10662 10714 11255 11385 11394 12142 
+britain Concorde.txt 1 3575 
+212,000 Concorde.txt 1 12233 
+at Concorde.txt 119 40 48 314 583 592 664 738 798 1033 1133 1180 1259 1277 1286 1433 1491 1817 2542 2751 2909 2948 3043 3255 3350 3356 3416 3477 3988 4060 4103 4133 4415 4440 4451 4486 4505 4582 4720 4755 5117 5272 5322 5331 5339 5402 5422 5443 5533 5600 5673 5916 5933 5999 6140 6216 6266 6281 6353 6555 6586 6589 6621 6656 6813 6917 6972 7062 7228 7301 7309 7335 7343 7563 7573 7617 7978 8163 8227 8247 8258 8481 8562 8679 8685 8728 9053 9116 9191 9243 9253 9259 9383 9390 9401 9527 9644 9651 9757 9839 9861 9879 9900 9941 9965 10028 10120 10170 10278 10704 11002 11119 11283 11313 11773 12002 12151 12185 12610 12666 
+shut Concorde.txt 3 4744 8350 10568 
+watched Concorde.txt 1 10992 
+moves Concorde.txt 1 8311 
+operation Concorde.txt 1 11471 
+again Concorde.txt 5 5185 7114 9801 9813 12457 
+t-4 Concorde.txt 1 11563 
+retiring Concorde.txt 1 5166 
+hybrid Concorde.txt 1 3791 
+seattles Concorde.txt 1 9688 
+rubber Concorde.txt 1 10551 
+field Concorde.txt 1 9690 
+nasa Concorde.txt 1 11143 
+5 Concorde.txt 5 1139 7085 7135 8956 9676 
+pan-european Concorde.txt 1 2578 
+you Concorde.txt 7 2815 6443 6457 6466 6474 10339 10382 
+forcing Concorde.txt 1 7937 
+offered Concorde.txt 1 8684 
+2007 Concorde.txt 1 9872 
+gaining Concorde.txt 1 4803 
+requested Concorde.txt 1 1784 
+briefly Concorde.txt 1 5292 
+congress Concorde.txt 1 7408 
+separate Concorde.txt 1 6236 
+symbol Concorde.txt 1 12138 
+hydraulics Concorde.txt 1 5212 
+m Concorde.txt 12 3703 5907 5924 5943 5952 5961 5979 6225 6305 6318 6936 10969 
+important Concorde.txt 3 1565 2525 8053 
+coverage Concorde.txt 1 12201 
+included Concorde.txt 3 2668 3224 7759 
+tu-144fl Concorde.txt 1 11137 
+prudent Concorde.txt 1 2407 
+airworthy Concorde.txt 1 9800 
+overturned Concorde.txt 1 10841 
+network Concorde.txt 3 8041 8133 8246 
+booked Concorde.txt 2 7936 7970 
+values Concorde.txt 1 9133 
+qantas Concorde.txt 2 3177 3248 
+curve Concorde.txt 1 6407 
+restored Concorde.txt 1 9936 
+directory Concorde.txt 1 12787 
+transports Concorde.txt 1 82 
+original Concorde.txt 6 205 1735 1934 2617 2939 3040 
+external Concorde.txt 2 5773 12816 
+all Concorde.txt 17 251 413 483 1799 3650 4441 4517 4559 4608 5674 5971 6460 9761 10385 10465 11037 12701 
+since Concorde.txt 2 9739 11977 
+consider Concorde.txt 1 2409 
+founder Concorde.txt 1 8861 
+caused Concorde.txt 10 3173 4295 4727 4926 5385 8268 10512 10557 10628 11813 
+lack Concorde.txt 4 8810 8983 9025 9817 
+weights Concorde.txt 1 4507 
+ceased Concorde.txt 1 8928 
+disc Concorde.txt 1 6780 
+tours Concorde.txt 2 12584 12636 
+viability Concorde.txt 2 249 8141 
+talks Concorde.txt 1 1474 
+causes Concorde.txt 2 4679 5481 
+supersonic-transport Concorde.txt 1 3860 
+overturn Concorde.txt 1 7526 
+morgans Concorde.txt 1 1046 
+icons Concorde.txt 1 12243 
+tv Concorde.txt 2 10665 10995 
+lining Concorde.txt 1 10919 
+spirit Concorde.txt 2 12583 12635 
+to Concorde.txt 403 55 83 102 146 162 186 200 264 267 292 311 328 352 395 537 554 558 598 606 690 697 773 813 854 882 920 952 970 980 988 996 1012 1017 1048 1061 1104 1130 1146 1155 1203 1219 1235 1301 1304 1322 1332 1339 1368 1395 1448 1519 1562 1578 1590 1600 1608 1627 1649 1700 1710 1773 1832 1852 1885 1887 1894 1913 1946 1949 1957 1973 2046 2059 2110 2151 2158 2210 2249 2281 2310 2320 2346 2408 2414 2423 2520 2533 2537 2551 2622 2638 2704 2736 2743 2776 2936 2954 3024 3034 3053 3178 3305 3390 3405 3470 3484 3493 3588 3624 3696 3750 3765 3789 3956 4007 4028 4082 4112 4141 4191 4224 4236 4332 4351 4358 4362 4378 4390 4393 4418 4426 4445 4468 4477 4524 4528 4546 4551 4563 4570 4587 4606 4627 4636 4648 4669 4675 4703 4718 4813 4830 4848 4887 4898 4929 4943 4968 5015 5053 5106 5186 5229 5250 5259 5266 5284 5320 5369 5377 5434 5507 5557 5572 5640 5669 5683 5712 5718 5753 5760 5836 5863 5869 5885 5920 5930 5970 5992 6054 6071 6081 6085 6109 6127 6154 6159 6248 6253 6264 6314 6346 6433 6469 6493 6573 6579 6594 6604 6651 6666 6677 6682 6688 6695 6712 6729 6746 6761 6782 6819 6978 6983 7003 7020 7037 7045 7075 7081 7084 7109 7120 7133 7137 7150 7187 7193 7218 7277 7289 7376 7419 7445 7461 7468 7509 7525 7545 7587 7711 7728 7765 7768 7785 7808 7814 7822 7836 7844 7895 7939 7976 8022 8087 8111 8161 8174 8182 8204 8211 8235 8237 8255 8275 8314 8342 8359 8372 8377 8427 8468 8496 8575 8584 8594 8608 8623 8651 8669 8671 8682 8689 8694 8698 8710 8804 8808 8896 8900 8918 8923 8929 8963 8970 9028 9043 9102 9139 9186 9225 9268 9275 9312 9316 9344 9362 9365 9447 9521 9560 9597 9601 9629 9642 9659 9687 9691 9797 9815 9854 9951 9953 9992 10035 10039 10052 10070 10116 10128 10142 10174 10184 10197 10213 10217 10228 10232 10259 10271 10294 10303 10367 10402 10454 10491 10563 10575 10593 10728 10781 10811 10857 10901 10972 10980 11061 11078 11094 11179 11198 11247 11300 11399 11432 11440 11454 11466 11516 11551 11597 11631 11644 11672 11680 11765 11769 11844 11872 12035 12051 12067 12076 12090 12124 12338 12351 12358 12479 12500 12522 12633 12715 12740 12764 
+tail Concorde.txt 2 1684 6550 
+program Concorde.txt 2 206 219 
+tranquillity Concorde.txt 1 11975 
+nord Concorde.txt 2 1793 1810 
+sustain Concorde.txt 2 329 4998 
+presentation Concorde.txt 1 1050 
+sound Concorde.txt 2 39 5695 
+global Concorde.txt 1 11855 
+returned Concorde.txt 1 1801 
+returning Concorde.txt 1 10971 
+very Concorde.txt 13 320 610 612 661 985 1135 1903 1915 2325 2364 6006 10080 11251 
+mph Concorde.txt 5 44 1186 6201 6770 12506 
+oxides Concorde.txt 1 11751 
+fai Concorde.txt 1 12552 
+fan Concorde.txt 1 3968 
+ticket Concorde.txt 3 181 332 8466 
+soften Concorde.txt 1 2047 
+condition Concorde.txt 2 10041 10072 
+brooklands Concorde.txt 2 9902 9943 
+splitter Concorde.txt 1 4328 
+list Concorde.txt 1 3264 
+abatement Concorde.txt 1 11651 
+insufficiently Concorde.txt 1 4900 
+large Concorde.txt 6 704 1981 3517 5373 6365 11547 
+morien Concorde.txt 1 552 
+gaulle Concorde.txt 6 350 2563 2627 2750 9056 10451 
+referred Concorde.txt 1 12050 
+economically Concorde.txt 2 1243 4364 
+programme Concorde.txt 6 3288 3424 3616 4210 11213 11652 
+131.14 Concorde.txt 1 3054 
+titled Concorde.txt 1 3859 
+198 Concorde.txt 2 1416 1737 
+penalties Concorde.txt 2 2679 3980 
+191 Concorde.txt 1 6733 
+190 Concorde.txt 1 8676 
+past Concorde.txt 2 2390 4800 
+seddon Concorde.txt 1 3918 
+zero Concorde.txt 2 4772 10877 
+design Concorde.txt 39 433 441 682 869 973 1007 1125 1424 1619 1636 1696 1741 1815 1844 1849 1871 1993 2058 2095 2188 2209 2635 3280 3711 3754 4031 4078 4126 4139 4205 4396 4536 4657 11202 11292 11389 12220 12228 12242 
+displays Concorde.txt 1 10136 
+pass Concorde.txt 1 4419 
+further Concorde.txt 1 11409 
+supersonically Concorde.txt 2 3063 12767 
+situated Concorde.txt 2 3946 4245 
+what Concorde.txt 1 10387 
+sud Concorde.txt 9 111 1482 1758 1790 1839 1898 1953 2587 11243 
+advantageous Concorde.txt 1 1244 
+short-lived Concorde.txt 1 7318 
+section Concorde.txt 1 5073 
+anniversary Concorde.txt 5 8655 10147 12403 12575 12681 
+overload Concorde.txt 1 6907 
+certificated Concorde.txt 1 4030 
+witnesses Concorde.txt 1 10638 
+version Concorde.txt 6 1284 1317 2129 2961 2971 3196 
+scientists Concorde.txt 1 11621 
+certificates Concorde.txt 1 9776 
+claimed Concorde.txt 3 8905 9711 11696 
+public Concorde.txt 6 2229 3407 3540 3563 11997 12176 
+multitude Concorde.txt 1 11627 
+unsurprisingly Concorde.txt 1 1967 
+full Concorde.txt 5 2980 3129 4790 4851 7923 
+iran Concorde.txt 2 3244 3579 
+loose Concorde.txt 1 10723 
+supposedly Concorde.txt 1 11197 
+behaviour Concorde.txt 1 4335 
+tracks Concorde.txt 4 6235 6241 6273 11955 
+operating Concorde.txt 8 6102 6215 8306 8398 8486 8499 9045 10071 
+excess Concorde.txt 2 4593 7222 
+i.e Concorde.txt 1 3187 
+round-trip Concorde.txt 1 180 
+strong Concorde.txt 2 792 6576 
+observing Concorde.txt 1 12445 
+1516 Concorde.txt 1 12641 
+ahead Concorde.txt 4 2605 4260 4290 4306 
+afterburning Concorde.txt 1 11275 
+experience Concorde.txt 2 2007 11507 
+prior Concorde.txt 7 881 6603 7036 7108 8607 10856 10883 
+airport Concorde.txt 40 345 351 357 364 371 2911 3483 3495 3974 6957 6974 7101 7303 7311 7329 7337 7345 7449 7593 7616 7717 7875 8566 8598 9057 9194 9392 9404 9439 9454 9461 9471 9686 10173 10281 10459 11661 11725 12187 12654 
+london-new Concorde.txt 1 8420 
+published Concorde.txt 1 741 
+narrow Concorde.txt 2 5448 5783 
+options Concorde.txt 4 260 3189 3263 3267 
+via Concorde.txt 5 7364 7400 7620 7718 9277 
+followed Concorde.txt 2 3449 9270 
+requiring Concorde.txt 2 4521 7179 
+transit Concorde.txt 1 11798 
+thatcher Concorde.txt 1 12321 
+vip Concorde.txt 1 9621 
+trained Concorde.txt 1 4812 
+4-abreast Concorde.txt 1 5788 
+hiduminium Concorde.txt 1 4974 
+sensors Concorde.txt 1 6904 
+nauseam Concorde.txt 1 10243 
+conventional Concorde.txt 5 4682 5813 5852 6208 6357 
+twa Concorde.txt 1 3254 
+proceed Concorde.txt 1 2534 
+two Concorde.txt 23 80 1265 1822 1969 2171 2658 2979 3340 3596 3942 4263 4456 4490 5021 7161 8045 8172 9609 9727 10882 11087 11248 11310 
+concordski Concorde.txt 1 11170 
+6 Concorde.txt 2 5283 10815 
+taken Concorde.txt 3 5087 10527 11378 
+markets Concorde.txt 2 2510 5685 
+22,296 Concorde.txt 1 9409 
+minor Concorde.txt 1 1955 
+more Concorde.txt 22 190 1211 1221 2176 2196 2257 2524 3035 3117 3927 3944 5327 5691 6202 9018 9610 10914 11334 11540 11638 12694 12699 
+door Concorde.txt 2 4619 4787 
+around-the-world Concorde.txt 1 7800 
+ozone-layer Concorde.txt 1 11811 
+division Concorde.txt 1 4872 
+company Concorde.txt 4 516 2005 2300 8868 
+tested Concorde.txt 1 1085 
+landed Concorde.txt 3 6952 9546 10650 
+particular Concorde.txt 3 1238 2361 5472 
+known Concorde.txt 6 418 588 751 2886 10082 12062 
+producing Concorde.txt 3 3985 4382 10586 
+keeping Concorde.txt 1 8975 
+fatal Concorde.txt 1 10486 
+take-off Concorde.txt 14 672 960 3554 4416 4583 4674 6340 6823 6998 7094 7096 7578 10543 12499 
+hour Concorde.txt 4 6385 6480 6829 8492 
+telescopically Concorde.txt 1 6692 
+remain Concorde.txt 3 1242 4514 5321 
+sudden Concorde.txt 2 5963 5981 
+evolved Concorde.txt 1 1750 
+pioneered Concorde.txt 1 3810 
+56,000 Concorde.txt 1 6222 
+chirac Concorde.txt 1 10644 
+history Concorde.txt 2 2398 7236 
+flight-control Concorde.txt 1 3773 
+memoirs Concorde.txt 1 2802 
+747 Concorde.txt 5 3110 3149 8510 8527 8825 
+states Concorde.txt 12 3015 3473 3607 3637 7523 7907 9077 11030 11128 11608 11832 12361 
+sphere Concorde.txt 1 8084 
+minimum Concorde.txt 3 6092 6931 10747 
+numbers Concorde.txt 2 8759 12189 
+gallon Concorde.txt 2 3137 11989 
+airplane Concorde.txt 1 10360 
+information Concorde.txt 2 3333 11410 
+respective Concorde.txt 1 11594 
+parisle Concorde.txt 1 9192 
+court Concorde.txt 2 7519 10840 
+goal Concorde.txt 1 1119 
+drained Concorde.txt 1 9769 
+rather Concorde.txt 2 2660 2892 
+conducted Concorde.txt 3 5164 9425 10495 
+low-risk Concorde.txt 1 3122 
+aicus Concorde.txt 2 4823 4885 
+liveries Concorde.txt 1 7925 
+occasionally Concorde.txt 1 6449 
+b-58 Concorde.txt 1 11488 
+ft Concorde.txt 6 3701 5134 6185 6223 6316 10967 
+plans Concorde.txt 3 1777 2317 8098 
+sideslips Concorde.txt 1 4067 
+thickened Concorde.txt 1 4289 
+bumper Concorde.txt 1 6551 
+reflect Concorde.txt 1 396 
+f-btsc Concorde.txt 1 10441 
+plane Concorde.txt 3 5113 9701 10684 
+coming Concorde.txt 1 1912 
+horizontal Concorde.txt 3 7046 7089 7123 
+response Concorde.txt 4 2218 2742 6108 10574 
+bleak Concorde.txt 1 8299 
+a Concorde.txt 271 17 31 164 315 330 556 646 742 747 895 943 972 1006 1034 1106 1122 1151 1164 1224 1237 1250 1273 1282 1293 1359 1390 1522 1558 1633 1654 1739 1812 1847 1889 1902 1991 2016 2093 2131 2141 2186 2260 2277 2298 2311 2324 2363 2577 2584 2662 2669 2682 2744 2780 2805 2808 2897 2999 3044 3121 3128 3285 3298 3429 3456 3505 3516 3548 3560 3599 3705 3752 3767 3857 3885 3923 3926 3933 3948 3957 3998 4029 4117 4125 4143 4171 4196 4327 4617 4624 4728 4827 4845 4859 5028 5062 5071 5096 5142 5165 5196 5225 5254 5296 5307 5332 5482 5504 5515 5592 5603 5611 5616 5625 5629 5650 5739 5787 5812 5851 5880 5917 5962 5980 5986 5996 6008 6016 6064 6066 6077 6086 6114 6137 6177 6302 6309 6348 6394 6595 6636 6647 6658 6730 6743 6762 6778 6843 6885 6914 6930 7028 7067 7169 7274 7458 7527 7538 7566 7607 7667 7675 7760 7775 7962 7971 8011 8102 8115 8122 8143 8159 8198 8217 8225 8248 8319 8418 8431 8482 8504 8509 8512 8518 8526 8553 8589 8627 8648 8667 8691 8726 8809 8841 8911 8940 9024 9145 9202 9272 9285 9308 9314 9426 9476 9513 9537 9598 9669 9712 9723 9734 9745 9755 9816 9836 9882 9939 9984 10026 10040 10093 10112 10131 10186 10282 10514 10521 10534 10548 10558 10564 10576 10601 10605 10625 10669 10754 10793 10838 10887 10988 11034 11139 11207 11210 11235 11250 11270 11288 11322 11358 11391 11444 11455 11610 11626 11648 11835 11849 12014 12037 12081 12092 12096 12137 12230 12504 12514 12531 12725 
+short Concorde.txt 3 658 954 9146 
+resemble Concorde.txt 1 10981 
+quoted Concorde.txt 2 10332 11711 
+twisting Concorde.txt 1 5386 
+overnight Concorde.txt 1 871 
+negligible Concorde.txt 1 11817 
+media Concorde.txt 2 12200 12797 
+banks Concorde.txt 1 5381 
+replied Concorde.txt 1 2841 
+rounded Concorde.txt 1 1517 
+help Concorde.txt 1 10263 
+september Concorde.txt 10 499 1453 2446 3436 7065 7726 8773 10075 10202 11017 
+developed Concorde.txt 12 107 1410 2203 4244 4392 4864 4892 4913 6864 6967 7232 10926 
+subsonically Concorde.txt 2 7771 9023 
+soon Concorde.txt 5 731 1868 2247 5645 6040 
+distortion Concorde.txt 3 4549 4581 5388 
+held Concorde.txt 5 3504 8647 8674 9115 9827 
+logan Concorde.txt 1 9459 
+paper Concorde.txt 1 1959 
+through Concorde.txt 5 2160 4420 4644 5020 6130 
+committee Concorde.txt 5 557 1081 1114 2432 2449 
+signs Concorde.txt 1 7395 
+existence Concorde.txt 1 8937 
+radiation Concorde.txt 6 5770 5807 5868 5874 5892 5895 
+its Concorde.txt 42 832 1543 2938 3025 3058 3362 3612 3642 3982 4026 4317 4985 5370 6217 6518 6725 7293 7474 7941 7953 8243 8284 8484 8793 8827 9069 9263 9351 9412 9418 9586 10000 10257 10298 10768 10825 11176 11532 11753 12207 12678 12713 
+24 Concorde.txt 3 7464 9506 9590 
+25 Concorde.txt 3 5719 8762 10433 
+26 Concorde.txt 2 8713 9751 
+27 Concorde.txt 3 73 9096 12658 
+20 Concorde.txt 4 5329 8699 9489 11993 
+21 Concorde.txt 2 7352 9493 
+22 Concorde.txt 3 7596 9497 9531 
+23 Concorde.txt 3 3048 9501 9554 
+29 Concorde.txt 2 2688 2987 
+actually Concorde.txt 2 6951 8461 
+late Concorde.txt 3 1780 2758 6512 
+systems Concorde.txt 2 4870 9206 
+attended Concorde.txt 2 9126 12192 
+differed Concorde.txt 1 2191 
+travelling Concorde.txt 2 3062 5810 
+cool Concorde.txt 1 5190 
+might Concorde.txt 5 2115 2855 5861 11846 11956 
+good Concorde.txt 2 948 4670 
+return Concorde.txt 10 7651 8419 8435 8438 9514 10126 10196 10214 10293 12025 
+pre-delivery Concorde.txt 1 11323 
+anticipated Concorde.txt 1 242 
+oki Concorde.txt 1 12433 
+ozone-depleting Concorde.txt 1 11761 
+feet Concorde.txt 9 5905 5922 5941 5950 5959 5977 6464 6934 10689 
+headroom Concorde.txt 1 5792 
+redesign Concorde.txt 1 6649 
+fully Concorde.txt 2 837 9174 
+level Concorde.txt 3 4010 5896 8200 
+capability Concorde.txt 1 7019 
+inherent Concorde.txt 1 951 
+turbofan Concorde.txt 2 4373 11266 
+dulles Concorde.txt 7 362 7447 7462 7873 8564 9391 9469 
+heavy Concorde.txt 2 2678 11252 
+everyone Concorde.txt 2 2065 2494 
+england Concorde.txt 3 2795 2820 9906 
+weight Concorde.txt 1 10716 
+generation Concorde.txt 1 966 
+house Concorde.txt 1 10175 
+energy Concorde.txt 1 8272 
+reduce Concorde.txt 9 1601 4192 4237 5508 6055 6434 6984 11681 11910 
+idea Concorde.txt 2 1032 8893 
+40,000 Concorde.txt 1 5958 
+macmillan Concorde.txt 1 2740 
+finish Concorde.txt 1 5277 
+disembark Concorde.txt 1 12275 
+organised Concorde.txt 2 435 12222 
+dignitaries Concorde.txt 1 9574 
+inflated Concorde.txt 2 6711 6728 
+event Concorde.txt 2 6062 12197 
+standard Concorde.txt 3 6267 6279 7088 
+travels Concorde.txt 1 5827 
+funding Concorde.txt 1 2289 
+robert Concorde.txt 1 2233 
+bourget Concorde.txt 6 3525 9193 9967 10091 10122 10280 
+kensington Concorde.txt 1 9840 
+projected Concorde.txt 1 4218 
+douglas Concorde.txt 3 1479 3155 3669 
+research Concorde.txt 5 2436 2526 3287 8447 11140 
+acting Concorde.txt 1 5564 
+dominated Concorde.txt 1 1384 
+7 Concorde.txt 2 11048 12483 
+170 Concorde.txt 1 6382 
+issue Concorde.txt 1 2990 
+rech Concorde.txt 1 11242 
+airframe Concorde.txt 3 4733 5092 5473 
+belief Concorde.txt 2 2283 2612 
+housed Concorde.txt 1 10088 
+confidence Concorde.txt 1 4185 
+cockpit Concorde.txt 5 5221 5239 7055 7071 8795 
+reason Concorde.txt 3 2492 2602 8054 
+conditioning Concorde.txt 1 5205 
+members Concorde.txt 1 10471 
+airway Concorde.txt 1 6119 
+put Concorde.txt 3 3876 3907 10289 
+beginning Concorde.txt 1 11630 
+generate Concorde.txt 1 989 
+thrown Concorde.txt 1 6751 
+retained Concorde.txt 1 9893 
+launch Concorde.txt 3 3212 7426 7996 
+just Concorde.txt 4 6171 7410 10377 10649 
+diversion Concorde.txt 1 4576 
+american Concorde.txt 9 3233 3691 8245 8404 9428 11414 11482 11529 11568 
+aerodynamically Concorde.txt 1 4115 
+threat Concorde.txt 1 8091 
+leading Concorde.txt 3 4248 4303 5666 
+consequence Concorde.txt 1 11392 
+retracted Concorde.txt 3 7032 7077 7115 
+castle Concorde.txt 1 9565 
+pilots Concorde.txt 8 4809 6129 6436 6994 9626 10702 11674 12115 
+fallen Concorde.txt 1 10519 
+knots Concorde.txt 2 6196 6624 
+major Concorde.txt 7 244 3199 6648 8004 8123 12155 12323 
+webers Concorde.txt 2 861 1807 
+forwards Concorde.txt 1 6723 
+upper Concorde.txt 3 796 4422 6372 
+guam Concorde.txt 2 12615 12673 
+number Concorde.txt 4 3518 7964 10571 10582 
+well-known Concorde.txt 1 445 
+enlarged Concorde.txt 1 653 
+notify Concorde.txt 1 7377 
+cups Concorde.txt 1 3842 
+prohibitively Concorde.txt 1 4151 
+stage Concorde.txt 1 8250 
+protectionism Concorde.txt 1 3689 
+passes Concorde.txt 1 5466 
+story Concorde.txt 1 12784 
+heads Concorde.txt 1 12280 
+temperature Concorde.txt 3 4994 5281 6909 
+jet Concorde.txt 5 1824 1982 4232 4446 4474 
+introduction Concorde.txt 2 5818 11646 
+twenty Concorde.txt 2 125 11108 
+bay Concorde.txt 1 9617 
+moderately Concorde.txt 1 12043 
+valry Concorde.txt 1 12294 
+least Concorde.txt 1 8164 
+paint Concorde.txt 2 5258 5314 
+conflicts Concorde.txt 2 11926 11945 
+passed Concorde.txt 1 1945 
+hindered Concorde.txt 1 11522 
+majority Concorde.txt 3 5245 9852 12760 
+scheme Concorde.txt 1 5315 
+pushovers Concorde.txt 2 4066 4284 
+shifted Concorde.txt 1 5552 
+option Concorde.txt 2 199 3123 
+relationship Concorde.txt 1 2569 
+exploded Concorde.txt 1 10546 
+shelving Concorde.txt 1 8277 
+lebar Concorde.txt 1 7619 
+part Concorde.txt 3 2822 4956 5752 
+off Concorde.txt 5 692 982 4439 10528 10735 
+sign Concorde.txt 1 7375 
+convinced Concorde.txt 1 8369 
+king Concorde.txt 1 8368 
+grew Concorde.txt 1 1561 
+throttle Concorde.txt 2 4070 6426 
+powerplant Concorde.txt 7 3826 3883 4020 4059 4338 4372 11253 
+double Concorde.txt 2 3958 4815 
+aims Concorde.txt 1 10270 
+nevertheless Concorde.txt 1 5644 
+0.95 Concorde.txt 2 4431 7767 
+deciding Concorde.txt 1 2601 
+alongside Concorde.txt 1 11953 
+supermarine Concorde.txt 2 463 12263 
+livery Concorde.txt 7 2908 5242 5299 7308 7321 7632 7640 
+mitterrand Concorde.txt 1 12299 
+orders Concorde.txt 2 3186 3593 
+sell Concorde.txt 1 8373 
+u.s Concorde.txt 1 11988 
+built Concorde.txt 5 128 3347 5066 8338 11110 
+htelissimo Concorde.txt 1 10615 
+scotland Concorde.txt 2 2828 2852 
+cropped Concorde.txt 1 11456 
+port Concorde.txt 3 6792 7535 7635 
+also Concorde.txt 24 522 957 1010 1039 1419 2052 2844 2868 3075 3172 3330 3440 4585 4641 5209 5621 5759 6298 6686 7239 9283 12409 12545 12806 
+internal Concorde.txt 1 1423 
+build Concorde.txt 1 1131 
+finding Concorde.txt 1 1127 
+youre Concorde.txt 2 6445 6451 
+added Concorde.txt 2 2857 6664 
+dunlop Concorde.txt 1 6866 
+electric Concorde.txt 1 6901 
+english Concorde.txt 1 2721 
+reach Concorde.txt 1 5684 
+most Concorde.txt 6 1658 2928 4090 5136 6837 8109 
+75 Concorde.txt 1 1300 
+74 Concorde.txt 2 3266 7280 
+pitch-up Concorde.txt 1 10603 
+complementing Concorde.txt 1 8147 
+significant Concorde.txt 1 12188 
+70 Concorde.txt 1 210 
+services Concorde.txt 6 8001 8078 8236 8253 8542 8580 
+extremely Concorde.txt 2 670 8717 
+privatised Concorde.txt 1 8910 
+giscard Concorde.txt 1 12295 
+mach Concorde.txt 26 41 1279 1288 1818 1826 2021 4061 4106 4121 4344 4430 4433 4756 5016 5273 5323 5342 5359 5469 6192 7763 7766 7816 10963 11362 11479 
+kg Concorde.txt 1 6891 
+broadie Concorde.txt 1 9709 
+windows Concorde.txt 2 4938 6053 
+clear Concorde.txt 3 2168 4881 6696 
+sometimes Concorde.txt 2 12162 12375 
+km Concorde.txt 2 5735 11992 
+scurit Concorde.txt 1 10504 
+2.04 Concorde.txt 1 42 
+velocity Concorde.txt 1 4233 
+reheat Concorde.txt 1 4413 
+2.02 Concorde.txt 5 5017 6193 7764 7817 10964 
+hydraulic Concorde.txt 2 9771 10356 
+sector Concorde.txt 2 8517 8663 
+taxi Concorde.txt 3 6997 9155 9998 
+cdg Concorde.txt 1 7344 
+particularly Concorde.txt 2 8035 11600 
+restore Concorde.txt 3 9993 10036 10123 
+west-bound Concorde.txt 1 9578 
+high-heat Concorde.txt 1 2012 
+cruised Concorde.txt 1 11778 
+obstructed Concorde.txt 1 7013 
+routinely Concorde.txt 1 4811 
+find Concorde.txt 1 1895 
+costing Concorde.txt 1 221 
+impact Concorde.txt 4 2522 11573 11637 11913 
+tailstrikes Concorde.txt 1 6668 
+failed Concorde.txt 4 1367 2935 4712 7975 
+flights Concorde.txt 21 341 3655 5355 7283 7349 7369 7610 7652 7745 7835 7867 7894 7927 8622 9234 9480 11691 11792 12032 12332 12378 
+generators Concorde.txt 1 6797 
+factor Concorde.txt 2 233 245 
+8 Concorde.txt 2 3870 9463 
+boarding Concorde.txt 1 7982 
+his Concorde.txt 4 2801 3807 8951 10783 
+hit Concorde.txt 2 3514 10552 
+permission Concorde.txt 4 7441 9641 10160 12753 
+banned Concorde.txt 2 7411 7503 
+she Concorde.txt 1 12133 
+cheaper Concorde.txt 1 3168 
+yeager Concorde.txt 1 826 
+b Concorde.txt 1 5652 
+longest Concorde.txt 1 7271 
+theft Concorde.txt 1 11193 
+competing Concorde.txt 2 3531 8812 
+combinations Concorde.txt 1 4064 
+during Concorde.txt 34 1617 1695 1703 3032 3704 4208 4283 4596 4762 4932 5027 5213 5380 5553 5825 6319 6393 6642 6786 6860 6996 7577 7700 7735 8261 8600 9008 10430 10542 10633 10951 11321 11683 11790 
+resolve Concorde.txt 1 9042 
+nicknamed Concorde.txt 1 11169 
+well-off Concorde.txt 1 12044 
+alteration Concorde.txt 1 7180 
+state-owned Concorde.txt 1 8380 
+investigate Concorde.txt 1 8023 
+common Concorde.txt 8 1623 2117 2554 2593 2645 2877 12097 12106 
+activity Concorde.txt 1 5860 
+wrote Concorde.txt 1 8946 
+set Concorde.txt 7 5929 6660 8009 8113 12546 12623 12724 
+dump Concorde.txt 1 4618 
+achieved Concorde.txt 3 3132 5590 11960 
+outboard Concorde.txt 1 5419 
+see Concorde.txt 4 5 6459 7238 12805 
+are Concorde.txt 21 417 5432 6286 6475 6486 6501 6524 6710 6727 6759 6855 6898 9207 10313 10351 10376 11112 11116 11553 11763 11891 
+sea Concorde.txt 1 9864 
+lisbon Concorde.txt 1 12604 
+close Concorde.txt 2 1589 3828 
+filton Concorde.txt 5 3357 3389 9758 9934 10172 
+300400 Concorde.txt 1 6923 
+branson Concorde.txt 3 8864 8904 8945 
+outward Concorde.txt 1 11177 
+declined Concorde.txt 1 7524 
+ozone-destroying Concorde.txt 1 11912 
+visiting Concorde.txt 1 9573 
+2,426 Concorde.txt 1 8440 
+familiarity Concorde.txt 1 4986 
+rejecting Concorde.txt 1 7531 
+drooping Concorde.txt 1 6965 
+fans Concorde.txt 1 6902 
+won Concorde.txt 2 428 1842 
+various Concorde.txt 4 1687 2269 3873 8240 
+respectively Concorde.txt 1 8181 
+heathrows Concorde.txt 1 9551 
+downturn Concorde.txt 1 491 
+burned Concorde.txt 1 4455 
+donate Concorde.txt 1 9313 
+endure Concorde.txt 1 7219 
+europe Concorde.txt 1 2796 
+recently Concorde.txt 1 3112 
+creating Concorde.txt 1 7774 
+hutchinson Concorde.txt 2 6535 10749 
+initially Concorde.txt 2 3503 6640 
+aircraft Concorde.txt 107 118 126 134 152 548 629 880 977 1154 1174 1231 1387 1464 1480 1611 1614 1905 2172 2839 2875 3003 3096 3105 3115 3550 3692 3726 3749 3788 4119 4132 4400 4411 4511 4531 4684 4689 4702 4754 4861 4876 4890 4963 4982 5004 5162 5379 5453 5465 5488 5550 5587 5635 6084 6097 6209 6247 6358 6419 6614 6977 7205 7241 7623 7900 7986 8047 8173 8202 8215 8375 8813 8833 8845 9171 9355 9406 9511 9633 10133 10216 10590 10599 10646 11055 11097 11104 11109 11133 11141 11279 11376 11383 11475 11549 11654 11704 11734 11840 11966 12047 12084 12306 12407 12706 12790 12801 
+rapid Concorde.txt 3 6078 6115 10602 
+opposition Concorde.txt 2 3623 11596 
+distinguish Concorde.txt 1 12091 
+citys Concorde.txt 1 7713 
+both Concorde.txt 19 518 1437 1694 1787 2123 2724 3401 4746 5405 7904 8251 9296 9533 9549 10636 11003 11226 11615 12126 
+prospects Concorde.txt 1 3079 
+last Concorde.txt 7 7744 8343 8832 9264 9352 9577 10178 
+reverse Concorde.txt 1 5044 
+foreign Concorde.txt 1 12308 
+became Concorde.txt 6 230 2598 4880 5222 5897 9006 
+context Concorde.txt 1 11726 
+collection Concorde.txt 2 9699 9738 
+focused Concorde.txt 1 2091 
+whole Concorde.txt 1 10343 
+1,320 Concorde.txt 1 6736 
+experimental Concorde.txt 3 11562 11564 11570 
+load Concorde.txt 4 2195 3130 4466 6326 
+tgv Concorde.txt 1 11954 
+groups Concorde.txt 1 10019 
+mini Concorde.txt 3 451 12247 12248 
+simple Concorde.txt 1 2491 
+community Concorde.txt 1 10312 
+simply Concorde.txt 2 419 12056 
+consideration Concorde.txt 1 8232 
+throughout Concorde.txt 2 1501 4980 
+rearwards Concorde.txt 1 5479 
+expensive Concorde.txt 1 4152 
+described Concorde.txt 1 2916 
+create Concorde.txt 1 5713 
+political Concorde.txt 4 1765 1951 2540 11612 
+due Concorde.txt 23 1699 2280 4377 4444 4476 4967 5265 5368 5750 5835 6252 6650 6681 6818 7002 7418 7467 8807 9814 10302 11671 12066 12739 
+fairford Concorde.txt 1 3392 
+reduction Concorde.txt 1 5964 
+citations Concorde.txt 1 12812 
+complicated Concorde.txt 1 11757 
+supplying Concorde.txt 1 4634 
+maintenance Concorde.txt 5 322 508 8778 8988 10803 
+territory Concorde.txt 1 12771 
+meeting Concorde.txt 3 1035 1137 2236 
+empty Concorde.txt 1 7748 
+firm Concorde.txt 1 12432 
+flight Concorde.txt 73 479 1704 2918 3261 3276 3291 3318 3324 3365 3423 3707 3714 3820 4933 4951 5029 5149 5153 5168 5170 5215 5271 5815 5840 5853 5877 6132 6164 6337 6559 7230 7879 7972 8706 8842 9092 9265 9353 9414 9420 9515 9535 9580 9661 9667 9696 9713 9743 10151 10400 10419 10426 10428 10438 10475 10656 10931 10955 10978 11007 11036 11325 11579 12001 12028 12210 12473 12517 12646 12680 12691 12719 12750 
+1950s Concorde.txt 3 540 1781 6513 
+fire Concorde.txt 5 10565 10577 10659 10686 10766 
+citizen Concorde.txt 1 7420 
+medium-range Concorde.txt 1 1848 
+modelling Concorde.txt 1 5061 
+else Concorde.txt 1 2495 
+fund Concorde.txt 1 1147 
+demand Concorde.txt 1 7470 
+prices Concorde.txt 2 8267 8467 
+k2 Concorde.txt 1 12258 
+handling Concorde.txt 1 1002 
+valkyrie Concorde.txt 1 11484 
+bristols Concorde.txt 1 1734 
+judicial Concorde.txt 1 9164 
+expanded Concorde.txt 2 5125 5177 
+tolerate Concorde.txt 1 4063 
+g-bbdg Concorde.txt 1 9926 
+technical Concorde.txt 4 1881 10306 11708 11918 
+while Concorde.txt 14 956 1024 1722 2099 2221 3126 3140 3500 6147 7480 7788 7917 9608 11302 
+replaced Concorde.txt 1 10371 
+error Concorde.txt 1 10798 
+fleet Concorde.txt 11 7989 8194 8838 8876 8966 9588 9765 9787 11808 11836 12147 
+3,800 Concorde.txt 1 8489 
+engineers Concorde.txt 3 4972 5171 5499 
+scheduled Concorde.txt 5 5351 7282 7348 7581 8131 
+larger Concorde.txt 6 1753 3983 4380 5658 5663 11435 
+portugal Concorde.txt 1 12605 
+century Concorde.txt 1 6529 
+avro Concorde.txt 4 637 654 3738 4181 
+rip Concorde.txt 1 10341 
+rooftop Concorde.txt 1 7253 
+rio Concorde.txt 2 7361 9366 
+obstacle Concorde.txt 1 10227 
+triple Concorde.txt 1 3960 
+beautifully Concorde.txt 1 6497 
+ready Concorde.txt 1 1327 
+rig Concorde.txt 2 5064 8333 
+around Concorde.txt 8 2020 6922 7820 8289 9481 9846 12554 12559 
+convair Concorde.txt 2 829 11487 
+baseline Concorde.txt 1 647 
+james Concorde.txt 1 10223 
+hp.115 Concorde.txt 3 1084 1172 3329 
+shorter Concorde.txt 2 2127 11237 
+4590 Concorde.txt 6 480 10420 10427 10429 10439 10657 
+spade Concorde.txt 1 4215 
+9 Concorde.txt 2 3394 10469 
+overflying Concorde.txt 1 9525 
+higher Concorde.txt 5 6101 6349 8458 10895 11859 
+development Concorde.txt 17 133 302 525 1149 1336 2054 2223 2290 2342 2438 2648 3033 4027 4075 4172 6644 11212 
+used Concorde.txt 27 154 853 878 887 2029 2121 3316 3779 4015 4178 4412 4472 4973 5192 5228 5346 6244 6872 7157 7197 7864 9911 11304 12072 12089 12301 12410 
+blair Concorde.txt 1 12326 
+002 Concorde.txt 3 3353 3448 3465 
+001 Concorde.txt 5 3274 3346 3360 3426 7249 
+flown Concorde.txt 5 59 6423 7876 9376 12766 
+moving Concorde.txt 5 1642 1670 2604 6446 7029 
+wheres Concorde.txt 1 10236 
+recent Concorde.txt 1 2397 
+idling Concorde.txt 1 4520 
+lower Concorde.txt 5 806 2049 5935 6282 7528 
+task Concorde.txt 2 8012 8136 
+15.8 Concorde.txt 1 3133 
+redesigned Concorde.txt 2 7195 11453 
+spent Concorde.txt 1 11539 
+analysis Concorde.txt 1 11940 
+edge Concorde.txt 3 4249 4304 5667 
+14,000 Concorde.txt 1 5906 
+entry Concorde.txt 2 2595 2642 
+ionising Concorde.txt 1 5806 
+albertville Concorde.txt 1 12442 
+distances Concorde.txt 1 4361 
+abilities Concorde.txt 1 7385 
+cabins Concorde.txt 1 5912 
+technicians Concorde.txt 1 9990 
+shape Concorde.txt 2 1534 5614 
+tasks Concorde.txt 1 4904 
+questions Concorde.txt 1 997 
+using Concorde.txt 5 964 2130 4011 7370 7391 
+useful Concorde.txt 1 5989 
+metallic Concorde.txt 3 10515 10626 10693 
+profitable Concorde.txt 1 7930 
+cut Concorde.txt 1 3600 
+conclusions Concorde.txt 1 1917 
+admission Concorde.txt 1 2550 
+alternate Concorde.txt 1 4590 
+source Concorde.txt 1 8124 
+brand-new Concorde.txt 1 4144 
+deliberately Concorde.txt 3 852 1850 2103 
+sydney Concorde.txt 1 12523 
+presidents Concorde.txt 1 12291 
+remaining Concorde.txt 1 4269 
+surprised Concorde.txt 1 1893 
+city-to-seattle Concorde.txt 1 12728 
+customers Concorde.txt 2 2964 3213 
+march Concorde.txt 4 3370 8545 8548 12684 
+emergency Concorde.txt 2 6025 6093 
+dc-10 Concorde.txt 2 3156 10524 
+zrich Concorde.txt 2 7328 12401 
+quest Concorde.txt 2 434 12221 
+wings Concorde.txt 11 615 789 1581 3297 5305 5440 5502 5664 6343 6615 8336 
+projects Concorde.txt 1 2933 
+georges Concorde.txt 1 12292 
+skeptical Concorde.txt 1 10315 
+modifications Concorde.txt 2 4305 10934 
+rotate Concorde.txt 1 6812 
+d Concorde.txt 1 15 
+shaped Concorde.txt 1 2071 
+re-designed Concorde.txt 1 2154 
+shapes Concorde.txt 3 1507 1557 3931 
+uproar Concorde.txt 1 2782 
+continue Concorde.txt 3 7546 8360 9044 
+surging Concorde.txt 3 4073 4296 10584 
+bogie Concorde.txt 2 6708 10541 
+essential Concorde.txt 1 4856 
+often Concorde.txt 2 9524 12122 
+brakes Concorde.txt 8 4523 6543 6835 6854 6863 6871 6883 11306 
+absolutely Concorde.txt 1 6519 
+creation Concorde.txt 1 1461 
+some Concorde.txt 9 702 3661 5161 8259 10308 10687 10892 11979 12330 
+back Concorde.txt 6 2775 6401 7784 8323 9518 11677 
+metres Concorde.txt 2 5520 6183 
+understood Concorde.txt 1 11764 
+economic Concorde.txt 7 1200 1767 2330 2453 2479 3979 7733 
+bacs Concorde.txt 1 11707 
+danalyses Concorde.txt 1 10501 
+r.r Concorde.txt 1 4975 
+paris-lebourget Concorde.txt 1 12387 
+fanfare Concorde.txt 1 9599 
+delivered Concorde.txt 2 576 6123 
+gradually Concorde.txt 1 6327 
+scale Concorde.txt 1 9884 
+decision Concorde.txt 3 1143 2532 11939 
+integration Concorde.txt 1 3929 
+per Concorde.txt 12 3136 6384 6828 8490 8524 8531 8539 11851 11865 11883 11987 11995 
+carbon-based Concorde.txt 1 6870 
+either Concorde.txt 3 2208 8186 8228 
+be Concorde.txt 60 814 851 929 1217 1233 1307 1326 1372 1383 1639 2028 2111 2120 2152 2174 2211 2288 2347 2406 2475 2487 2505 2518 4005 4033 4113 4225 4363 4391 4404 4525 4564 4849 4899 5054 5251 5848 6035 6113 6299 6574 6678 7076 7082 7664 8175 8183 8205 8256 8349 8683 9219 9230 9300 9892 10368 10393 11730 11742 12765 
+radiometer Concorde.txt 1 5881 
+run Concorde.txt 2 237 4494 
+ba Concorde.txt 16 141 2907 7368 8074 8105 8178 8187 8908 8927 9396 9802 9873 10945 11041 11052 12146 
+300 Concorde.txt 2 5130 11441 
+continuing Concorde.txt 1 7892 
+agreement Concorde.txt 6 2664 2727 8915 9311 9338 12110 
+erected Concorde.txt 1 12184 
+restrictive Concorde.txt 1 7152 
+viewpoints Concorde.txt 1 5462 
+londonnew Concorde.txt 2 8515 10983 
+non-melanoma Concorde.txt 1 11877 
+lottery Concorde.txt 1 8668 
+carol Concorde.txt 1 7543 
+by Concorde.txt 89 110 156 282 436 512 824 912 931 1385 1641 1761 2163 2213 2430 2462 2560 2674 2738 2747 2917 3004 3284 3348 3354 3373 3398 3515 3547 3567 3634 3677 3864 4201 4212 4780 4865 4893 4914 4946 5126 5282 5411 5526 5591 6245 6865 6900 6968 7027 7233 7533 7542 7818 7877 7920 8015 8185 8269 8288 8637 8826 8981 9271 9704 9931 10140 10496 10513 10637 10661 10801 10846 10944 10997 11051 11171 11590 11814 11881 11893 12026 12052 12223 12415 12486 12503 12624 12677 12754 
+powerplants Concorde.txt 1 4102 
+handled Concorde.txt 1 6496 
+1,200 Concorde.txt 1 6888 
+cautious Concorde.txt 1 3094 
+usa Concorde.txt 1 12748 
+simplify Concorde.txt 1 11400 
+range Concorde.txt 10 2085 2128 2182 5570 5584 5682 5737 5939 11238 11354 
+750,000 Concorde.txt 1 9847 
+rb.169 Concorde.txt 1 4129 
+together Concorde.txt 2 9302 10386 
+bleus Concorde.txt 1 10618 
+airworthiness Concorde.txt 1 9775 
+block Concorde.txt 3 2639 6306 8491 
+pollution Concorde.txt 2 3557 3630 
+gatwick Concorde.txt 1 8221 
+jimmy Concorde.txt 1 3679 
+into Concorde.txt 14 725 1532 1751 2643 4219 5056 6753 7033 8158 8660 9166 9519 10405 10613 
+within Concorde.txt 3 8129 12039 12746 
+retaining Concorde.txt 1 7922 
+steven Concorde.txt 2 9244 9386 
+bcal Concorde.txt 7 8008 8092 8106 8156 8168 8208 8276 
+span Concorde.txt 4 600 659 901 955 
+famous Concorde.txt 1 9214 
+lower-speed Concorde.txt 1 1429 
+sequence Concorde.txt 1 9650 
+question Concorde.txt 2 3179 10239 
+long Concorde.txt 7 671 1014 1246 4360 5354 7010 11259 
+money?"a Concorde.txt 1 10238 
+suit Concorde.txt 1 3450 
+forward Concorde.txt 5 3877 3908 5218 10290 11920 
+78 Concorde.txt 1 3413 
+considerably Concorde.txt 2 2175 6943 
+ex-chief Concorde.txt 1 9780 
+relaxed Concorde.txt 1 3667 
+slump Concorde.txt 1 8767 
+hoped Concorde.txt 1 10051 
+atlantic Concorde.txt 6 5577 6240 6251 7431 8860 11619 
+repeatedly Concorde.txt 2 2352 5068 
+delta Concorde.txt 16 758 788 874 1092 1163 1407 1500 1511 1514 1655 1747 1809 3296 3301 3724 11457 
+russian Concorde.txt 1 11558 
+artefacts Concorde.txt 1 9834 
+considerable Concorde.txt 4 2529 3020 3978 4738 
+raising Concorde.txt 1 6409 
+maximised Concorde.txt 1 930 
+circuits Concorde.txt 1 3792 
+up Concorde.txt 18 3591 3829 4931 5039 5070 5123 5146 5717 5991 6752 8010 8076 8114 8339 8697 11403 11439 12689 
+us Concorde.txt 19 1354 1857 2266 2270 2307 2572 3646 7144 7189 7407 7416 7434 7490 7946 9673 10264 11473 12585 12639 
+paired Concorde.txt 1 4325 
+uk Concorde.txt 13 410 754 1366 1939 2087 2239 2322 2546 2676 8293 8615 9760 11970 
+continuously Concorde.txt 1 4526 
+similar Concorde.txt 10 1202 1360 1764 1831 1904 2177 7833 9600 11093 11843 
+nationalist Concorde.txt 1 2781 
+armstrong Concorde.txt 1 1417 
+prevented Concorde.txt 1 7679 
+metal Concorde.txt 2 2040 5085 
+influence Concorde.txt 1 8086 
+metals Concorde.txt 1 2013 
+single Concorde.txt 3 2187 3949 6779 
+warning Concorde.txt 1 10578 
+full-size Concorde.txt 1 5072 
+as Concorde.txt 87 420 448 617 755 938 940 1058 1069 1182 1184 1245 1247 1256 1411 1552 1612 1795 1797 1867 1869 1918 1963 1995 2003 2337 2652 2865 2887 2920 3107 3176 3312 3421 3572 3639 3683 3806 3889 3909 4014 4116 4631 4633 4937 5033 5114 5127 5129 5195 5565 5808 6323 7943 8034 8042 8099 8101 8635 8822 8847 9038 9575 10073 10092 10130 10753 11138 11206 11258 11260 11390 11477 11712 11900 11932 11934 12013 12055 12063 12132 12136 12245 12303 12334 12384 12392 12394 
+streamlining Concorde.txt 1 7059 
+caracas Concorde.txt 1 7398 
+tentative Concorde.txt 1 10283 
+aeronautical Concorde.txt 1 3867 
+peace Concorde.txt 1 12113 
+preventing Concorde.txt 1 7425 
+club Concorde.txt 4 10100 10204 10219 10324 
+bibliography Concorde.txt 1 12814 
+electrical Concorde.txt 1 10916 
+panair Concorde.txt 1 3225 
+dakar Concorde.txt 1 7365 
+mcdonnell Concorde.txt 1 3154 
+apparent Concorde.txt 1 9007 
+problems Concorde.txt 3 4680 4739 4918 
+visits Concorde.txt 1 12309 
+frances Concorde.txt 2 9089 9606 
+william Concorde.txt 2 7438 10327 
+lufthansa Concorde.txt 1 3232 
+meaning Concorde.txt 1 389 
+restoration Concorde.txt 1 9907 
+allowing Concorde.txt 1 6307 
+ess Concorde.txt 1 4871 
+podded Concorde.txt 2 3890 3904 
+sides Concorde.txt 1 11616 
+structure Concorde.txt 3 4959 5264 5392 
+land Concorde.txt 3 984 3065 11301 
+e Concorde.txt 5 2792 2818 2845 2858 2862 
+trubshaw Concorde.txt 1 3400 
+required Concorde.txt 17 686 991 1020 1607 4367 4605 4767 5357 5580 5622 6344 6646 6929 8197 8916 9158 11297 
+7,995 Concorde.txt 1 189 
+heath Concorde.txt 1 12317 
+2002 Concorde.txt 1 12008 
+2003 Concorde.txt 23 28 470 6542 7339 7347 8568 8585 8715 8739 8858 8944 9087 9098 9123 9333 9433 9556 9592 9678 9753 9825 12350 12722 
+2000 Concorde.txt 5 8764 9168 9422 10435 10902 
+2001 Concorde.txt 4 503 10942 11018 11050 
+2006 Concorde.txt 2 430 12203 
+fitted Concorde.txt 2 4886 6429 
+2004 Concorde.txt 1 9790 
+berman Concorde.txt 1 7544 
+far Concorde.txt 2 939 3462 
+having Concorde.txt 4 3684 9039 9638 11538 
+fahey Concorde.txt 2 11821 11886 
+surrey Concorde.txt 2 9905 9946 
+saying Concorde.txt 4 1051 10336 10844 11713 
+issued Concorde.txt 1 11974 
+existing Concorde.txt 4 694 1204 4155 8149 
+bulkhead Concorde.txt 1 5159 
+airliners Concorde.txt 7 386 5954 6838 8816 9298 10898 11787 
+served Concorde.txt 1 10752 
+winds Concorde.txt 1 6262 
+15,000 Concorde.txt 1 5978 
+issues Concorde.txt 4 3545 4093 5363 5408 
+500th Concorde.txt 1 12574 
+concerned Concorde.txt 1 2502 
+ramjet Concorde.txt 1 1813 
+rudder Concorde.txt 1 11080 
+outwards Concorde.txt 1 1518 
+breach Concorde.txt 2 6009 6065 
+include Concorde.txt 1 6905 
+dramatically Concorde.txt 1 5540 
+sent Concorde.txt 1 1884 
+queen Concorde.txt 3 9558 12269 12310 
+seized Concorde.txt 1 1055 
+continued Concorde.txt 7 68 722 1494 2157 2637 8574 8987 
+categories Concorde.txt 2 12819 12821 
+entire Concorde.txt 2 865 6371 
+descend Concorde.txt 1 5902 
+notes Concorde.txt 1 12810 
+f Concorde.txt 10 354 5009 6926 7227 7591 9245 9387 9451 10456 11659 
+fewer Concorde.txt 1 1230 
+prototypes Concorde.txt 4 131 3341 3402 11485 
+tunnel Concorde.txt 1 4299 
+noted Concorde.txt 2 903 7558 
+concluded Concorde.txt 2 1987 6104 
+593 Concorde.txt 3 3856 5727 10018 
+smaller Concorde.txt 3 240 1313 6052 
+carter Concorde.txt 1 3680 
+demonstrations Concorde.txt 2 10047 12380 
+located Concorde.txt 1 9889 
+layouts Concorde.txt 1 1688 
+go Concorde.txt 1 6470 
+dynamics Concorde.txt 1 1478 
+aerospaces Concorde.txt 1 2927 
+business Concorde.txt 1 8632 
+giving Concorde.txt 1 2305 
+slight Concorde.txt 1 2746 
+indian Concorde.txt 1 7686 
+currently Concorde.txt 4 9251 9858 10078 10275 
+capital Concorde.txt 1 12087 
+incidents Concorde.txt 3 5871 10415 11075 
+left-side Concorde.txt 1 10678 
+publications Concorde.txt 1 12121 
+completion Concorde.txt 1 9349 
+arospatiale Concorde.txt 5 8 114 519 3349 8180 
+1989 Concorde.txt 4 7797 9304 11082 12373 
+led Concorde.txt 14 605 995 1772 2422 2615 2703 3023 7192 7541 8274 9224 10562 11515 11642 
+eminently Concorde.txt 1 10773 
+exchange Concorde.txt 1 168 
+1334 Concorde.txt 1 6200 
+commercial Concorde.txt 14 494 2663 3748 3787 5744 6149 8802 9071 9579 11035 11044 11524 11690 12174 
+jointly Concorde.txt 1 106 
+youngest Concorde.txt 1 9959 
+following Concorde.txt 6 3812 6339 7095 7994 8760 8771 
+les Concorde.txt 2 9708 10616 
+let Concorde.txt 1 1346 
+sink Concorde.txt 1 5198 
+separation Concorde.txt 1 768 
+others Concorde.txt 2 1490 11407 
+aerodynamic Concorde.txt 5 4656 4969 5671 6989 7058 
+extreme Concorde.txt 1 227 
+great Concorde.txt 6 431 3506 4184 6684 12180 12218 
+british-french Concorde.txt 1 18 
+involved Concorde.txt 2 1357 2066 
+31 Concorde.txt 1 12656 
+30 Concorde.txt 7 192 8345 8790 9085 10835 10893 12454 
+37 Concorde.txt 1 12204 
+leaving Concorde.txt 1 2147 
+suggests Concorde.txt 1 2402 
+18,300 Concorde.txt 1 6182 
+4,600 Concorde.txt 1 6304 
+principally Concorde.txt 1 11556 
+opinion Concorde.txt 1 3564 
+climb Concorde.txt 1 6311 
+avionics Concorde.txt 1 3776 
+17,000 Concorde.txt 1 6224 
+airspace Concorde.txt 2 7672 7687 
+deputy Concorde.txt 1 3808 
+crashing Concorde.txt 1 10611 
+win Concorde.txt 1 1950 
+private Concorde.txt 2 8662 12412 
+extravagance Concorde.txt 1 2860 
+addressed Concorde.txt 1 1640 
+decrease Concorde.txt 1 5890 
+standing Concorde.txt 1 6748 
+technologically Concorde.txt 1 8783 
+use Concorde.txt 10 608 1702 2010 4825 4843 5528 6229 6877 7256 11949 
+taxiing Concorde.txt 3 4467 4499 7092 
+from Concorde.txt 66 100 183 342 693 894 907 1786 2711 2810 2945 3070 3197 3268 3366 3388 3997 4370 4532 4665 4673 5202 5219 5235 5269 5458 6042 6156 6237 6312 6849 7583 7657 7681 7725 7762 7841 7854 7859 8177 8582 8708 9030 9082 9266 9539 9543 9682 9820 9917 9933 9937 10448 10520 10690 10899 10936 11221 11508 12095 12144 12475 12498 12519 12603 12650 12777 
+consumption Concorde.txt 1 3100 
+remains Concorde.txt 3 5494 6532 9949 
+ministers Concorde.txt 1 12315 
+next Concorde.txt 1 72 
+few Concorde.txt 3 3747 9203 11445 
+expanding Concorde.txt 1 5680 
+noisy Concorde.txt 1 5702 
+sort Concorde.txt 1 10388 
+ogival Concorde.txt 2 1527 3723 
+1,835 Concorde.txt 1 8502 
+journalists Concorde.txt 1 11174 
+started Concorde.txt 2 1473 11692 
+occurred Concorde.txt 2 7296 9674 
+visibility Concorde.txt 2 7126 7153 
+carrying Concorde.txt 4 3127 5623 9020 9620 
+veered Concorde.txt 1 10734 
+anti-lock Concorde.txt 1 11305 
+2,258 Concorde.txt 1 8444 
+charity Concorde.txt 1 9855 
+customer Concorde.txt 1 3509 
+topic Concorde.txt 1 2442 
+account Concorde.txt 1 1650 
+augment Concorde.txt 1 6072 
+embarked Concorde.txt 1 3427 
+this Concorde.txt 65 202 226 604 656 683 709 817 842 883 1067 1173 1240 1334 1434 1502 1637 1652 1665 1762 2031 2048 2107 2164 2420 2597 2611 2778 3769 4366 4715 5051 5140 5176 5233 5313 5455 5480 5509 5521 5537 5588 5620 5728 5747 5823 5938 6390 6627 6939 7191 7740 7809 8031 8089 8154 8353 9223 9290 9354 9405 10062 10531 11031 11246 12644 
+plan Concorde.txt 2 10199 10318 
+athlete Concorde.txt 1 5998 
+pour Concorde.txt 1 10502 
+obvious Concorde.txt 1 5137 
+thin Concorde.txt 1 613 
+backwards Concorde.txt 1 6471 
+meet Concorde.txt 5 1333 2159 2937 4394 4607 
+1,300 Concorde.txt 1 9124 
+performed Concorde.txt 1 7269 
+control Concorde.txt 14 622 1179 1605 4086 4821 4837 4853 4910 5401 5569 6859 7380 11282 11345 
+reserved Concorde.txt 1 9568 
+links Concorde.txt 1 12817 
+plate Concorde.txt 1 4329 
+promotional Concorde.txt 4 5308 7319 8649 12645 
+high Concorde.txt 30 165 321 331 676 799 987 3098 3322 3815 4368 4479 4556 5371 5444 5535 5607 5617 5630 5794 5899 6260 6391 6596 6619 6653 6821 7005 7786 8199 8718 
+effectively Concorde.txt 1 5563 
+heritage Concorde.txt 2 10132 10194 
+cross-section Concorde.txt 2 3984 4381 
+serial Concorde.txt 1 9342 
+skirt Concorde.txt 1 12249 
+benn Concorde.txt 3 2767 2787 2840 
+sir Concorde.txt 3 3803 8366 8862 
+united Concorde.txt 18 404 2881 3014 3235 3472 3606 3636 7522 7906 9076 9483 11029 11123 11127 11607 11831 12285 12360 
+andersen Concorde.txt 1 12670 
+optimised Concorde.txt 1 4000 
+handover Concorde.txt 1 7287 
+six Concorde.txt 7 130 2145 3037 3215 7858 12607 12663 
+afb Concorde.txt 1 12671 
+regions Concorde.txt 1 5688 
+brian Concorde.txt 1 3399 
+aft Concorde.txt 3 1631 1648 6665 
+instead Concorde.txt 3 720 5543 8442 
+establishment Concorde.txt 1 549 
+stock Concorde.txt 1 3082 
+profile Concorde.txt 1 6338 
+hurdles Concorde.txt 1 10307 
+singular Concorde.txt 1 12129 
+specifications Concorde.txt 1 12772 
+factored Concorde.txt 1 5055 
+afterburners Concorde.txt 2 4414 4436 
+steeply Concorde.txt 1 8264 
+fatigue Concorde.txt 1 5060 
+christies Concorde.txt 1 9117 
+spelling Concorde.txt 2 2774 12102 
+degradation Concorde.txt 2 11768 11812 
+bombers Concorde.txt 1 11555 
+boeing Concorde.txt 10 1476 3109 3142 3148 3610 7567 8824 9689 11424 11450 
+objected Concorde.txt 1 7149 
+light Concorde.txt 2 2386 4036 
+or Concorde.txt 34 45 391 412 627 635 1586 1597 1630 1647 1681 2729 2896 3891 3896 3943 3959 4599 4655 6199 6234 6481 7721 7753 8188 8230 8522 8529 8537 10596 12022 12029 12083 12112 12134 
+chief Concorde.txt 1 10946 
+allow Concorde.txt 3 2056 6580 8919 
+tenure Concorde.txt 1 7942 
+alloy Concorde.txt 1 4979 
+subsequently Concorde.txt 1 8394 
+marshalls Concorde.txt 1 6969 
+fastest Concorde.txt 1 12470 
+houston Concorde.txt 1 8238 
+widebody Concorde.txt 1 8151 
+minimising Concorde.txt 1 4806 
+move Concorde.txt 3 1628 5558 8659 
+produced Concorde.txt 6 660 1168 3559 4481 11749 11892 
+satre Concorde.txt 2 1878 3801 
+cruder Concorde.txt 1 11228 
+including Concorde.txt 18 129 762 2395 2455 5425 9623 9835 10319 10639 10713 10913 12414 12429 12448 12541 12549 12606 12662 
+cruise Concorde.txt 10 49 1214 4003 4567 4577 4676 5956 6179 6189 11277 
+industries Concorde.txt 1 11629 
+negotiated Concorde.txt 1 2651 
+le Concorde.txt 7 3524 9966 10090 10121 10279 12064 12068 
+outer Concorde.txt 2 4491 4924 
+inlet Concorde.txt 2 3914 4622 
+reinstated Concorde.txt 1 7665 
+chosen Concorde.txt 3 394 4164 11398 
+flawed Concorde.txt 1 2932 
+estimating Concorde.txt 1 2394 
+permanent Concorde.txt 1 9698 
+degrees Concorde.txt 2 5286 6602 
+inspecting Concorde.txt 1 10022 
+2015 Concorde.txt 4 10076 10097 10154 10203 
+covered Concorde.txt 2 5252 7916 
+2016 Concorde.txt 2 3057 10335 
+crowds Concorde.txt 1 10998 
+2010 Concorde.txt 3 9976 10005 10817 
+weber Concorde.txt 3 734 839 902 
+2012 Concorde.txt 2 10058 10837 
+overflights Concorde.txt 1 12745 
+designs Concorde.txt 12 446 886 1266 1402 1451 1574 1785 1802 1828 1858 2124 11415 
+crucial Concorde.txt 1 10746 
+crash Concorde.txt 10 475 3084 3528 8613 8765 9169 10510 10630 10912 11374 
+greater Concorde.txt 3 5740 6858 7963 
+auto Concorde.txt 3 9062 9255 11151 
+outlined Concorde.txt 1 645 
+practice Concorde.txt 1 4741 
+innermost Concorde.txt 1 5429 
+flew Concorde.txt 14 338 375 3387 3695 7707 8552 8588 9407 9446 9681 11984 12287 12368 12518 
+functional Concorde.txt 3 9143 9179 9210 
+slamming Concorde.txt 1 4071 
+front Concorde.txt 4 1677 4613 5110 7052 
+rotation Concorde.txt 5 6590 6605 6622 6657 6785 
+investor Concorde.txt 1 10248 
+day Concorde.txt 3 3203 9509 12172 
+successor Concorde.txt 2 515 3587 
+landings Concorde.txt 2 7413 12195 
+worlds Concorde.txt 2 4841 6539 
+february Concorde.txt 6 573 3344 7499 9975 12484 12512 
+turbofans Concorde.txt 1 4402 
+airports Concorde.txt 3 3487 7190 12402 
+edit Concorde.txt 54 526 529 730 1082 1487 1760 2220 2692 2901 3272 3712 3719 3827 4919 5364 5571 5772 5910 6134 6546 6960 7237 7247 7284 7993 8287 8400 8543 8703 9049 9395 9908 10200 10412 10416 10421 11076 11100 11134 11136 11408 11574 11576 11999 12267 12468 12773 12798 12807 12809 12811 12813 12815 12818 
+warned Concorde.txt 1 11833 
+countries Concorde.txt 2 2659 7911 
+trimmed Concorde.txt 1 5637 
+crossing Concorde.txt 3 3444 6322 7789 
+accompanied Concorde.txt 1 7026 
+circular Concorde.txt 1 12021 
+fare Concorde.txt 1 8456 
+bcals Concorde.txt 5 8056 8082 8130 8134 8191 
+edinburgh Concorde.txt 3 9504 9630 12274 
+707 Concorde.txt 3 3143 8505 8519 
+related Concorde.txt 1 597 
+society Concorde.txt 1 3868 
+static Concorde.txt 1 10113 
+concordes Concorde.txt 35 170 387 2705 3009 3180 3216 3843 3848 4137 4538 4818 4907 5776 5793 5817 5926 5944 6000 6100 6566 6964 7163 7852 8285 8704 9201 9576 9960 10149 10537 11578 11598 11728 11917 12114 
+measure Concorde.txt 1 5886 
+80 Concorde.txt 1 1323 
+programmes Concorde.txt 1 254 
+special Concorde.txt 9 2568 8692 9236 9538 9640 12020 12160 12265 12377 
+out Concorde.txt 10 1269 1374 2416 2507 3652 9516 10785 11379 11656 11783 
+category Concorde.txt 1 1431 
+secretly Concorde.txt 1 1943 
+london-heathrow Concorde.txt 1 2910 
+criminally Concorde.txt 1 10854 
+dampened Concorde.txt 1 3076 
+electronics Concorde.txt 3 4867 4895 4916 
+cause Concorde.txt 1 811 
+announced Concorde.txt 8 2768 8746 8865 9874 9979 10102 10206 12213 
+harold Concorde.txt 1 2739 
+approached Concorde.txt 1 1456 
+interactions Concorde.txt 2 4050 11758 
+1985 Concorde.txt 1 12513 
+tupolev Concorde.txt 5 93 3533 3756 9286 11167 
+york Concorde.txt 22 185 360 6158 7502 7723 7755 8421 8516 8579 8673 8734 9080 9373 9545 9596 9658 9870 10462 10984 11063 12477 12727 
+thrust Concorde.txt 2 4480 4691 
+likelihood Concorde.txt 1 5831 
+bleed Concorde.txt 2 4626 4647 
+shortest Concorde.txt 1 6947 
+1983 Concorde.txt 1 8362 
+resumed Concorde.txt 1 11046 
+dismantled Concorde.txt 1 9928 
+interaction Concorde.txt 1 4099 
+spill Concorde.txt 1 4786 
+could Concorde.txt 15 160 850 2027 2119 3954 4004 4725 4743 4997 5522 7662 8348 9016 9229 10340 
+rushed Concorde.txt 1 11211 
+florida Concorde.txt 2 7770 7821 
+times Concorde.txt 5 193 3038 4443 10894 12290 
+keen Concorde.txt 1 8358 
+length Concorde.txt 4 914 1661 6691 6938 
+removing Concorde.txt 1 11904 
+relays Concorde.txt 1 12437 
+south Concorde.txt 2 7826 8244 
+prospective Concorde.txt 2 2963 3573 
+dallas-fort Concorde.txt 1 7869 
+powerful Concorde.txt 2 2197 5692 
+strategic Concorde.txt 3 3740 11490 11554 
+improvements Concorde.txt 1 10904 
+western Concorde.txt 2 11172 12709 
+reached Concorde.txt 1 3144 
+noticed Concorde.txt 1 821 
+co-founder Concorde.txt 1 10326 
+destinations Concorde.txt 2 336 8625 
+management Concorde.txt 2 3901 4048 
+retracts Concorde.txt 1 6722 
+data Concorde.txt 2 8341 12776 
+system Concorde.txt 9 3774 3777 3846 3851 4857 4911 6070 6802 6844 
+their Concorde.txt 25 577 795 1271 1495 1774 1964 2057 2464 3592 4379 5173 6683 7392 7909 8027 8094 8278 8898 9131 9737 9774 10032 11593 11678 11791 
+attack Concorde.txt 6 802 1023 6352 6585 6599 7008 
+travelled Concorde.txt 2 5116 10875 
+final Concorde.txt 9 8705 8952 9070 9090 9419 9666 9742 12171 12194 
+cabin Concorde.txt 7 4928 5189 5908 5966 5982 6011 6073 
+shell Concorde.txt 1 9940 
+gear Concorde.txt 3 1016 10680 10725 
+acquire Concorde.txt 1 8162 
+environmental Concorde.txt 4 3544 11519 11575 11634 
+chemicals Concorde.txt 1 11762 
+reflecting Concorde.txt 1 2693 
+suitability Concorde.txt 1 3182 
+manifestation Concorde.txt 1 5138 
+july Concorde.txt 6 2444 3498 8763 10153 10434 10941 
+retraction Concorde.txt 1 6787 
+steel Concorde.txt 1 6882 
+counteract Concorde.txt 1 8088 
+portholes Concorde.txt 1 7254 
+bed Concorde.txt 1 1153 
+punctured Concorde.txt 1 10533 
+visited Concorde.txt 5 7829 9435 9456 9467 9486 
+providing Concorde.txt 2 2833 11348 
+result Concorde.txt 3 6014 11208 11766 
+exhibit Concorde.txt 2 10095 10188 
+1.6 Concorde.txt 3 4107 4122 4345 
+1.7 Concorde.txt 2 4434 5343 
+1.2 Concorde.txt 1 1289 
+1.3 Concorde.txt 1 222 
+14,250 Concorde.txt 1 8536 
+partnership Concorde.txt 5 1756 1890 2261 2296 8103 
+unlikely Concorde.txt 2 2472 2539 
+have Concorde.txt 26 84 685 947 979 1013 1199 1579 2376 2856 3620 3766 4149 4726 5523 5539 5730 6122 8112 8196 9766 9806 10366 10771 10778 11433 11958 
+need Concorde.txt 3 1011 1338 6687 
+tu-160 Concorde.txt 1 11565 
+demonstration Concorde.txt 1 3432 
+viewed Concorde.txt 1 8634 
+oxidised Concorde.txt 1 11895 
+acceleration Concorde.txt 1 5554 
+documents Concorde.txt 1 2619 
+angle Concorde.txt 7 1021 6350 6392 6583 6597 6654 7006 
+studying Concorde.txt 2 1685 3289 
+snecma Concorde.txt 1 4202 
+able Concorde.txt 5 310 327 1218 4190 10780 
+gravity Concorde.txt 3 1595 5493 5562 
+purchasing Concorde.txt 1 8872 
+instance Concorde.txt 1 9212 
+320 Concorde.txt 1 4169 
+concerns Concorde.txt 4 1768 5397 5771 11520 
+which Concorde.txt 31 95 246 482 667 923 994 1409 2350 2439 2556 2718 3438 4042 4108 4217 4271 4310 4795 5010 5431 5596 6803 6845 6897 7164 8417 9444 10556 10740 11273 11755 
+miniskirt Concorde.txt 1 453 
+visor Concorde.txt 9 5226 7030 7048 7074 7105 7112 7156 7196 7215 
+accuracy Concorde.txt 1 4834 
+worldwide Concorde.txt 3 7732 9747 11880 
+agenda Concorde.txt 1 11613 
+centre Concorde.txt 5 1582 1593 5475 5491 5560 
+who Concorde.txt 7 159 2564 7969 9710 10261 10330 10750 
+eight Concorde.txt 1 6152 
+preliminary Concorde.txt 1 1401 
+cabinet Concorde.txt 4 2217 2251 2323 2580 
+class Concorde.txt 1 8434 
+franois Concorde.txt 1 12298 
+looked Concorde.txt 3 650 8298 10703 
+conviction Concorde.txt 1 10843 
+lowered Concorde.txt 4 7039 7083 7119 9220 
+normally Concorde.txt 2 5847 12011 
+ba002 Concorde.txt 1 9542 
+fact Concorde.txt 3 786 6941 11741 
+emerging Concorde.txt 1 3160 
+selection Concorde.txt 1 1569 
+chances Concorde.txt 1 8973 
+1,354 Concorde.txt 1 43 
+agreed Concorde.txt 1 2067 
+supported Concorde.txt 1 3283 
+anyway Concorde.txt 1 1994 
+bring Concorde.txt 2 6082 12036 
+planning Concorde.txt 1 10159 
+manchester Concorde.txt 2 9495 9540 
+economist Concorde.txt 1 8949 
+principal Concorde.txt 1 3794 
+partners Concorde.txt 2 1129 1447 
+based Concorde.txt 6 707 1403 1803 2340 3731 6290 
+winner Concorde.txt 1 12215 
+pressurised Concorde.txt 1 6124 
+controls Concorde.txt 2 5531 10917 
+operational Concorde.txt 4 1254 7235 10797 10866 
+unable Concorde.txt 1 10592 
+fuel Concorde.txt 24 700 1212 1248 1701 2194 3099 3139 4459 4465 4471 5194 5365 5547 5631 5659 5766 6325 10554 10559 10720 10922 11351 11899 11908 
+employed Concorde.txt 2 3734 6333 
+thousands Concorde.txt 2 10352 10354 
+interested Concorde.txt 1 8870 
+achieve Concorde.txt 1 6987 
+meant Concorde.txt 4 4109 5450 5797 11809 
+handle Concorde.txt 1 4814 
+means Concorde.txt 2 12041 12109 
+overall Concorde.txt 2 5843 11810 
+regimen Concorde.txt 1 10391 
+pave Concorde.txt 1 2589 
+120 Concorde.txt 1 10109 
+13,750 Concorde.txt 1 8521 
+b-1 Concorde.txt 1 11572 
+words Concorde.txt 1 2725 
+127 Concorde.txt 1 5006 
+128 Concorde.txt 1 56 
+areas Concorde.txt 2 274 11687 
+processes Concorde.txt 1 11941 
+teams Concorde.txt 4 1923 1970 2156 2224 
+refuelling Concorde.txt 3 12542 12608 12664 
+streamlined Concorde.txt 1 6982 
+roll-out Concorde.txt 2 2754 6861 
+cycles Concorde.txt 1 5022 
+view Concorde.txt 4 2366 5774 6995 7015 
+available Concorde.txt 3 4389 7176 8049 
+requirement Concorde.txt 1 4056 
+temporarily Concorde.txt 1 11675 
+acquired Concorde.txt 1 2869 
+catastrophic Concorde.txt 1 4729 
+national Concorde.txt 3 9318 11824 12140 
+computer Concorde.txt 1 4735 
+enhanced Concorde.txt 1 3824 
+operated Concorde.txt 6 26 86 96 281 7919 8620 
+afterburner Concorde.txt 1 5703 
+record Concorde.txt 4 2391 9724 12621 12730 
+clearing Concorde.txt 1 7099 
+horribly Concorde.txt 1 703 
+state Concorde.txt 2 7780 9570 
+difficulties Concorde.txt 2 3021 4761 
+routing Concorde.txt 2 7750 7810 
+tyre Concorde.txt 4 6911 10535 10545 10890 
+nuclear Concorde.txt 1 11491 
+boundary Concorde.txt 4 3899 4046 4258 4287 
+nacelles Concorde.txt 1 4323 
+comparable Concorde.txt 2 11132 11550 
+spares Concorde.txt 1 9913 
+opening Concorde.txt 2 3488 4782 
+strides Concorde.txt 1 4200 
+traffic Concorde.txt 2 6214 7379 
+key Concorde.txt 1 10187 
+lb Concorde.txt 1 6889 
+f-btsd Concorde.txt 12 5294 5344 7317 9182 9607 9961 9994 10054 10069 11058 12590 12630 
+configuration Concorde.txt 2 648 4021 
+distribution Concorde.txt 2 5545 10717 
+david Concorde.txt 1 11820 
+restrictions Concorde.txt 5 3664 3672 5243 7387 12742 
+money Concorde.txt 2 8305 10251 
+taking Concorde.txt 1 3598 
+la Concorde.txt 1 10503 
+ramp Concorde.txt 4 3845 3850 4625 4646 
+incident Concorde.txt 1 5867 
+attributed Concorde.txt 1 11245 
+trips Concorde.txt 2 9613 12337 
+april Concorde.txt 8 581 1875 3395 7322 7405 7796 8738 8857 
+bristol Concorde.txt 14 1399 1415 1470 1717 1886 1891 1920 2198 3358 4175 8711 9759 10171 10192 
+gonesse Concorde.txt 2 10444 10621 
+passing Concorde.txt 1 7819 
+organisation Concorde.txt 2 10099 10269 
+grounds Concorde.txt 1 3627 
+jim Concorde.txt 1 12318 
+pepsi Concorde.txt 2 5311 7320 
+wall Concorde.txt 1 12779 
+cg Concorde.txt 3 1596 1626 1692 
+sparsely-populated Concorde.txt 1 12769 
+deflected Concorde.txt 1 4796 
+cp Concorde.txt 1 1585 
+withdrawn Concorde.txt 2 8997 9777 
+second Concorde.txt 1 8214 
+powered Concorde.txt 4 20 1814 1825 2212 
+addition Concorde.txt 2 5394 11294 
+yaw Concorde.txt 1 4704 
+re-accelerated Concorde.txt 1 7783 
+bbc Concorde.txt 2 438 12225 
+cent Concorde.txt 3 11852 11866 11884 
+730 Concorde.txt 2 638 655 
+minimise Concorde.txt 1 4333 
+2019 Concorde.txt 2 10141 10286 
+proposal Concorde.txt 1 4127 
+killed Concorde.txt 1 488 
+define Concorde.txt 1 4302 
+mike Concorde.txt 3 9663 9705 10949 
+controlled Concorde.txt 1 2559 
+received Concorde.txt 3 5799 9639 12198 
+painted Concorde.txt 2 5293 7628 
+route Concorde.txt 11 203 259 1239 7399 7669 7690 8121 8132 8155 10453 10985 
+c Concorde.txt 3 5007 6924 7225 
+controller Concorde.txt 1 7068 
+angles Concorde.txt 1 800 
+atlanta Concorde.txt 1 8223 
+general Concorde.txt 5 490 1477 3717 11649 12791 
+present Concorde.txt 2 1040 11718 
+volunteer Concorde.txt 1 9987 
+holiday Concorde.txt 1 8605 
+atmospheric Concorde.txt 1 11827 
+unlike Concorde.txt 4 6277 6612 8814 9197 
+runway Concorde.txt 7 1028 4470 6767 6937 6948 10654 10739 
+examine Concorde.txt 1 1156 
+irate Concorde.txt 1 2812 
+rectangular Concorde.txt 1 614 
+will Concorde.txt 5 805 9810 11729 11739 11909 
+engine-face Concorde.txt 1 4580 
+eastbound Concorde.txt 2 12558 12620 
+ultra Concorde.txt 2 4894 4915 
+supply Concorde.txt 2 1101 6069 
+layer Concorde.txt 5 3900 4047 4259 4288 11772 
+britains Concorde.txt 1 8002 
+6660 Concorde.txt 1 8445 
+almost Concorde.txt 8 870 1744 4460 5132 5800 6467 6609 7747 
+thus Concorde.txt 2 6421 7178 
+surface Concorde.txt 3 4935 5248 6374 
+helped Concorde.txt 2 4301 11465 
+arrangements Concorde.txt 1 2185 
+gothic Concorde.txt 2 1513 1523 
+swinging Concorde.txt 1 6694 
+gatwicklagos Concorde.txt 1 8120 
+partner Concorde.txt 1 2313 
+perhaps Concorde.txt 2 1287 1320 
+began Concorde.txt 6 3342 5648 7350 7402 7457 7594 
+janeiro Concorde.txt 2 7363 9368 
+administration Concorde.txt 3 3682 7147 11828 
+cross Concorde.txt 2 6249 7769 
+proceeds Concorde.txt 1 9844 
+highlighted Concorde.txt 2 3938 4043 
+adverse Concorde.txt 1 4334 
+parts Concorde.txt 1 9108 
+units Concorde.txt 2 4822 6672 
+pull-ups Concorde.txt 1 4068 
+appearances Concorde.txt 1 12795 
+upon Concorde.txt 5 3674 5816 7127 9326 9347 
+effect Concorde.txt 3 818 849 927 
+4.5c Concorde.txt 1 8538 
+cosse Concorde.txt 1 2847 
+giuliani Concorde.txt 1 11068 
+survivable Concorde.txt 1 10774 
+dallas/fort Concorde.txt 1 3480 
+center Concorde.txt 3 9247 9389 11025 
+records Concorde.txt 3 12467 12548 12565 
+i Concorde.txt 3 2854 6472 6516 
+49 Concorde.txt 2 12598 12660 
+well Concorde.txt 7 1796 2866 4632 8100 10081 11933 12393 
+km/h Concorde.txt 6 47 6198 6387 6772 6831 12508 
+thought Concorde.txt 2 8453 11862 
+patterns Concorde.txt 1 6294 
+350 Concorde.txt 1 3002 
+starboard Concorde.txt 2 6774 7643 
+747s Concorde.txt 1 6462 
+soviet Concorde.txt 3 3532 11166 11186 
+drawing Concorde.txt 1 1865 
+braniff Concorde.txt 5 3241 7847 7878 7921 7938 
+deltas Concorde.txt 1 729 
+excessive Concorde.txt 3 3986 4383 5873 
+negligence Concorde.txt 1 10800 
+less Concorde.txt 6 379 4501 5849 6256 6944 7933 
+thrice-weekly Concorde.txt 2 7459 8554 
+storage Concorde.txt 1 9400 
+accurate Concorde.txt 1 4901 
+half Concorde.txt 1 381 
+dose Concorde.txt 1 5845 
+arriving Concorde.txt 1 3042 
+mistakes Concorde.txt 1 10845 
+40 Concorde.txt 1 9883 
+baden-baden Concorde.txt 1 9269 
+paul Concorde.txt 2 10222 12366 
+commemoration Concorde.txt 1 12571 
+low-level Concorde.txt 2 723 6138 
+web Concorde.txt 1 12257 
+disturbance Concorde.txt 1 271 
+console Concorde.txt 1 5156 
+density Concorde.txt 1 6004 
+caravelle Concorde.txt 1 2002 
+residential Concorde.txt 1 11686 
+point Concorde.txt 4 884 1588 1599 8260 
+regulatory Concorde.txt 1 10304 
+discuss Concorde.txt 1 1888 
+reasons Concorde.txt 1 9000 
+operator Concorde.txt 1 7948 
+other Concorde.txt 34 3 89 335 385 444 1821 1834 2523 3218 4341 4442 6030 6212 6246 6676 6698 7985 8003 8541 8815 8844 9199 10706 11072 11096 11546 11703 11760 11785 12027 12159 12240 12547 12704 
+developments Concorde.txt 1 11581 
+clipped Concorde.txt 1 2132 
+wide-body Concorde.txt 1 3104 
+usage Concorde.txt 2 2878 8203 
+stowed Concorde.txt 2 6679 6700 
+282 Concorde.txt 1 12507 
+match Concorde.txt 1 8469 
+resolved Concorde.txt 1 5410 
+sonic Concorde.txt 7 269 3059 3552 7423 7776 11496 11512 
+tests Concorde.txt 2 3319 11514 
+advertising Concorde.txt 2 9877 12427 
+increased Concorde.txt 4 816 911 5541 6628 
+government Concorde.txt 13 1443 1783 2286 2383 2762 3638 7660 8302 8355 8371 8408 8934 11530 
+frighteningly Concorde.txt 1 675 
+261 Concorde.txt 1 5008 
+five Concorde.txt 1 7853 
+immediately Concorde.txt 3 1054 1472 1708 
+570750 Concorde.txt 1 6925 
+loss Concorde.txt 3 6017 6059 6111 
+dubai Concorde.txt 1 12668 
+necessary Concorde.txt 1 4833 
+like Concorde.txt 4 630 651 1521 6836 
+lost Concorde.txt 1 8304 
+miami Concorde.txt 1 8560 
+sized Concorde.txt 1 1851 
+vortex Concorde.txt 4 804 909 965 992 
+lose Concorde.txt 1 4690 
+become Concorde.txt 2 1563 7175 
+troposphere Concorde.txt 1 11795 
+works Concorde.txt 1 2230 
+page Concorde.txt 2 1171 3328 
+poor Concorde.txt 2 5754 11281 
+because Concorde.txt 9 324 3782 4983 5347 6388 6562 7653 8330 11286 
+retractable Concorde.txt 1 11340 
+vortices Concorde.txt 1 6368 
+m-wing Concorde.txt 1 1426 
+authority Concorde.txt 2 4852 7536 
+g-boab Concorde.txt 1 9398 
+g-boac Concorde.txt 1 12775 
+g-boad Concorde.txt 4 7626 9455 9856 12490 
+g-boae Concorde.txt 2 9628 11056 
+g-boaf Concorde.txt 5 7813 8707 9614 9799 10176 
+g-boag Concorde.txt 6 6554 9434 9466 9593 9680 12723 
+proper Concorde.txt 1 12093 
+home Concorde.txt 1 7910 
+halifax Concorde.txt 1 8231 
+peter Concorde.txt 1 2243 
+transport Concorde.txt 11 253 562 1079 1112 2232 3615 3887 9274 11412 11421 11916 
+competitor Concorde.txt 1 3644 
+lead Concorde.txt 2 3955 5862 
+kpa Concorde.txt 2 6717 6737 
+autothrottle Concorde.txt 1 6432 
+avoid Concorde.txt 5 1853 5260 5641 7138 7773 
+airspeed Concorde.txt 2 6620 6626 
+ogee Concorde.txt 5 1484 1537 1706 2070 3308 
+leap Concorde.txt 1 11919 
+does Concorde.txt 1 4687 
+elevons Concorde.txt 2 5420 5430 
+150-passenger Concorde.txt 2 1294 2094 
+noise Concorde.txt 17 3555 3629 3658 3975 3996 4012 4045 4096 4194 4239 7554 7556 7655 11599 11650 11682 11967 
+schedule Concorde.txt 1 1335 
+journal Concorde.txt 1 12781 
+relais Concorde.txt 1 10617 
+expansion Concorde.txt 1 4671 
+pressure Concorde.txt 12 809 1584 5477 5918 5967 6019 6075 6110 6120 6367 6731 8803 
+although Concorde.txt 8 872 1207 3660 4401 4734 8780 9909 11640 
+a-1 Concorde.txt 1 4475 
+lockheed Concorde.txt 3 632 1457 11428 
+periodically Concorde.txt 2 5082 7827 
+simpler Concorde.txt 2 3910 11289 
+gained Concorde.txt 1 5035 
+about Concorde.txt 15 998 1187 1278 1299 2259 2817 3095 5518 6194 6221 6503 6600 7279 7553 10813 
+actual Concorde.txt 1 8497 
+extension Concorde.txt 1 4791 
+consciousness Concorde.txt 1 5990 
+ocean-crossing Concorde.txt 1 265 
+headed Concorde.txt 1 8014 
+surge Concorde.txt 2 4349 4554 
+carries Concorde.txt 3 6742 6777 6795 
+920,000 Concorde.txt 1 12690 
+introduced Concorde.txt 1 8786 
+shrank Concorde.txt 1 5184 
+own Concorde.txt 9 1544 1775 1965 3643 4318 8028 8095 10001 10769 
+previously Concorde.txt 1 11861 
+washington Concorde.txt 10 361 7446 7475 7719 7752 7872 8563 9324 9369 9468 
+commitment Concorde.txt 1 9027 
+civile Concorde.txt 1 10507 
+assess Concorde.txt 1 8139 
+ultrasound Concorde.txt 1 10347 
+weather Concorde.txt 1 6293 
+hotline Concorde.txt 1 8693 
+registration Concorde.txt 2 7914 10440 
+afoot Concorde.txt 1 8313 
+mere Concorde.txt 1 845 
+1987 Concorde.txt 3 8397 8583 12347 
+1984 Concorde.txt 4 8402 8546 9740 12356 
+processor Concorde.txt 2 4829 4847 
+1982 Concorde.txt 2 7479 7730 
+additional Concorde.txt 1 5736 
+1980 Concorde.txt 5 3005 7699 7846 7951 8262 
+1981 Concorde.txt 3 6146 8290 9924 
+museum Concorde.txt 24 442 6557 8731 9064 9200 9257 9282 9322 9346 9694 9730 9867 9903 9944 9955 9971 9982 10031 10094 10169 10195 11153 12229 12717 
+awarded Concorde.txt 1 1394 
+continental Concorde.txt 4 3228 10522 10818 10847 
+airline Concorde.txt 3 3169 8005 8922 
+naturally Concorde.txt 1 1267 
+buy Concorde.txt 3 1990 10117 10272 
+north Concorde.txt 4 6239 7430 9427 11481 
+funds Concorde.txt 1 10107 
+hazardous Concorde.txt 1 5969 
+but Concorde.txt 27 831 1749 2481 2821 2930 3916 3976 4140 4240 4695 5334 5511 5532 5758 6359 6680 7388 8932 9003 10061 10372 10833 10878 11225 11370 11796 12019 
+privilege Concorde.txt 1 12015 
+construction Concorde.txt 4 2706 3338 4991 10166 
+gain Concorde.txt 2 5720 10594 
+courts Concorde.txt 1 7529 
+automated Concorde.txt 1 11395 
+highest Concorde.txt 1 4993 
+he Concorde.txt 6 1053 1380 2770 2803 8960 11901 
+made Concorde.txt 18 1145 1954 2461 2573 2826 3061 3091 3113 3361 3466 3604 4824 9068 9512 9611 10906 12148 12376 
+evident Concorde.txt 1 8725 
+official Concorde.txt 4 7286 10493 12120 12551 
+signed Concorde.txt 2 2686 9307 
+placed Concorde.txt 3 3673 4187 5172 
+below Concorde.txt 6 5903 5957 6465 7086 7122 10744 
+ruling Concorde.txt 1 7530 
+demonstrate Concorde.txt 1 1177 
+problem Concorde.txt 4 1064 1910 4313 10256 
+piece Concorde.txt 1 10549 
+minutes Concorde.txt 9 5330 7281 9719 10529 12495 12537 12599 12659 12735 
+display Concorde.txt 10 9242 9289 9382 9860 9899 9964 10114 10277 11099 11118 
+mechanics Concorde.txt 1 10826 
+supreme Concorde.txt 1 7518 
+recounts Concorde.txt 1 2804 
+slowing Concorde.txt 1 5049 
+6,0008,000 Concorde.txt 1 5921 
+partly Concorde.txt 1 11670 
+twin-engined Concorde.txt 1 4118 
+eric Concorde.txt 2 763 1043 
+worse Concorde.txt 1 11732 
+kchemanns Concorde.txt 2 859 2069 
+compared Concorde.txt 3 6263 8426 8495 
+contest Concorde.txt 2 1845 8650 
+turcat Concorde.txt 1 3375 
+45 Concorde.txt 1 12539 
+claiming Concorde.txt 1 2814 
+subsonic Concorde.txt 15 1205 2001 3114 4017 4573 4683 5953 6148 6455 7574 7866 8150 8432 8446 10897 
+envisaged Concorde.txt 1 8192 
+book Concorde.txt 1 3223 
+boom Concorde.txt 6 270 3060 3553 7704 7777 11513 
+better Concorde.txt 2 11343 11743 
+conclusion Concorde.txt 1 10730 
+2.35 Concorde.txt 1 11363 
+dassault Concorde.txt 1 1798 
+june Concorde.txt 8 3414 3453 3709 9097 9332 10334 12007 12453 
+shown Concorde.txt 1 11494 
+inherently Concorde.txt 1 11386 
+precision Concorde.txt 1 5639 
+nozzles Concorde.txt 1 3832 
+margaret Concorde.txt 1 12320 
+stac Concorde.txt 8 1115 1193 1262 1439 1922 1935 2316 2618 
+additionally Concorde.txt 2 5446 6817 
+inboard Concorde.txt 1 5417 
+gap Concorde.txt 2 5143 5178 
+exposure Concorde.txt 2 5824 5875 
+auxiliary Concorde.txt 3 4621 4785 5567 
+silencer Concorde.txt 1 4204 
+f-bvfc Concorde.txt 2 9100 9136 
+f-bvfb Concorde.txt 1 9250 
+f-bvfa Concorde.txt 1 9341 
+lift Concorde.txt 10 663 691 812 906 993 1587 4804 6376 6569 6611 
+compete Concorde.txt 1 8695 
+tonnes Concorde.txt 1 4457 
+accidents Concorde.txt 4 10413 10885 11073 11090 
+mobutu Concorde.txt 1 12420 
+richard Concorde.txt 1 8863 

@@ -1,0 +1,1317 @@
+hinode Corona.txt 3 2634 4675 5263 
+all Corona.txt 3 784 3038 3628 
+measurements Corona.txt 3 1265 1286 4550 
+evidence Corona.txt 4 4389 4570 4600 4687 
+observational Corona.txt 1 5117 
+11-year Corona.txt 1 1386 
+suns Corona.txt 23 21 48 95 378 469 482 538 594 800 1152 1506 1558 1863 1908 2124 2466 2707 3148 3618 3703 3916 5209 5227 
+magnetic Corona.txt 52 371 470 492 579 609 622 630 730 791 903 934 963 980 1316 1322 1399 1431 1561 1567 1586 1607 1674 1740 1800 2189 2953 3231 3267 3288 3309 3355 3404 3419 3652 3950 4165 4699 4705 4715 4722 4758 4776 4793 4804 4860 4866 4877 4914 4925 4942 5055 5084 
+wreath Corona.txt 1 89 
+theoretical Corona.txt 1 5169 
+thomas Corona.txt 1 4318 
+yellow Corona.txt 1 3180 
+four Corona.txt 1 761 
+spacecraft Corona.txt 3 4528 4676 4683 
+disc Corona.txt 2 706 876 
+k-corona Corona.txt 1 224 
+edt Corona.txt 1 2133 
+morphology Corona.txt 1 2259 
+disk Corona.txt 4 1147 1347 1701 1991 
+contributions Corona.txt 1 1260 
+localized Corona.txt 1 4480 
+carpet Corona.txt 1 4943 
+polarity Corona.txt 2 731 1317 
+increase Corona.txt 2 2146 2220 
+gases Corona.txt 1 1553 
+number Corona.txt 2 1637 3105 
+violate Corona.txt 1 3823 
+zone Corona.txt 2 1671 1954 
+ergs Corona.txt 1 2512 
+1940 Corona.txt 1 149 
+technique Corona.txt 1 3677 
+focal Corona.txt 1 5252 
+young Corona.txt 1 2458 
+send Corona.txt 1 5110 
+containing Corona.txt 1 2391 
+to Corona.txt 104 27 109 252 300 322 388 407 411 490 524 572 586 750 770 789 977 994 1015 1044 1052 1060 1210 1231 1277 1407 1600 1664 1749 1832 1922 2075 2328 2524 2590 2619 2682 2703 2833 3005 3010 3060 3083 3102 3115 3247 3265 3272 3279 3317 3417 3534 3559 3613 3637 3681 3694 3720 3727 3755 3763 3800 3813 3846 3874 3966 4020 4024 4042 4055 4059 4067 4081 4110 4134 4172 4244 4258 4275 4279 4307 4325 4457 4472 4515 4530 4594 4663 4666 4688 4695 4724 4782 4832 4862 4864 4881 4936 5022 5030 5081 5087 5190 5268 5298 
+charge Corona.txt 1 3443 
+those Corona.txt 4 2319 4444 4492 4834 
+under Corona.txt 3 1012 4596 4850 
+analogous Corona.txt 1 4133 
+include Corona.txt 1 465 
+forbidden Corona.txt 1 343 
+sound Corona.txt 2 4135 4154 
+force Corona.txt 3 3275 3291 3314 
+very Corona.txt 19 301 839 1208 1304 1335 1498 2047 2160 2279 2663 2672 2815 2818 2928 3028 3076 3337 4592 4968 
+frequencies Corona.txt 2 4541 4576 
+conditions Corona.txt 1 4852 
+induce Corona.txt 1 4725 
+wave Corona.txt 14 851 3947 4087 4092 4144 4237 4334 4375 4461 4481 4511 4742 4872 5050 
+electron Corona.txt 4 3120 3383 3439 3446 
+ultraviolet Corona.txt 4 3133 4434 5000 5017 
+difficult Corona.txt 2 4306 4593 
+overcomes Corona.txt 1 3035 
+bubbles Corona.txt 1 1834 
+difference Corona.txt 2 1055 3885 
+exact Corona.txt 1 447 
+categories Corona.txt 2 5323 5325 
+cool Corona.txt 3 859 1131 2439 
+delivery Corona.txt 1 4240 
+believed Corona.txt 1 5107 
+granulation Corona.txt 3 4200 4203 4923 
+clouds Corona.txt 1 1551 
+1997 Corona.txt 1 4413 
+e-corona Corona.txt 1 316 
+accompanying Corona.txt 1 2354 
+did Corona.txt 1 5128 
+supports Corona.txt 1 4128 
+schatzman Corona.txt 1 4100 
+5303 Corona.txt 1 174 
+presences Corona.txt 1 4612 
+radii Corona.txt 1 4066 
+large Corona.txt 4 858 1457 2358 4348 
+coming Corona.txt 2 3013 3072 
+micro-flares Corona.txt 2 5011 5063 
+nasas Corona.txt 2 5244 5251 
+small Corona.txt 8 1694 1735 1829 2153 4906 4913 5013 5028 
+exhibits Corona.txt 1 2695 
+build-up Corona.txt 1 1121 
+system Corona.txt 1 4894 
+upper Corona.txt 1 5233 
+too Corona.txt 1 5024 
+smaller Corona.txt 1 2903 
+slower Corona.txt 1 2915 
+controversial Corona.txt 1 4997 
+thin Corona.txt 2 1856 3783 
+195 Corona.txt 1 3169 
+prominence Corona.txt 1 2402 
+direct Corona.txt 3 1308 4388 4399 
+past Corona.txt 1 3958 
+surrounding Corona.txt 2 1666 3844 
+likely Corona.txt 2 463 3945 
+ionisation Corona.txt 1 189 
+dissipation Corona.txt 1 4693 
+subtle Corona.txt 1 5228 
+further Corona.txt 1 5317 
+dynamics Corona.txt 7 1491 2035 2304 3594 4653 4712 5248 
+air Corona.txt 2 3843 4138 
+spectral Corona.txt 8 100 121 146 258 323 346 2487 2774 
+skylab Corona.txt 1 668 
+sunspots Corona.txt 5 616 780 802 1468 1682 
+giving Corona.txt 1 256 
+sun Corona.txt 21 43 207 307 396 512 647 1303 1403 1797 1870 1891 1948 1984 2383 2556 3929 4058 4117 4430 4637 4900 
+sum Corona.txt 1 1583 
+hovering Corona.txt 1 2121 
+expressed Corona.txt 1 3524 
+launch Corona.txt 1 4082 
+current Corona.txt 1 1215 
+19th Corona.txt 1 107 
+closed-magnetic Corona.txt 1 941 
+churned Corona.txt 1 4919 
+goes Corona.txt 1 767 
+chromosphere Corona.txt 13 445 816 820 835 1531 2806 3487 3897 3917 4113 4257 4270 4357 
+renders Corona.txt 1 1681 
+originate Corona.txt 1 4043 
+temperatures Corona.txt 7 1281 2522 3155 3717 3972 4021 5132 
+body Corona.txt 1 969 
+layers Corona.txt 3 910 2803 3203 
+led Corona.txt 1 103 
+sinks Corona.txt 1 1184 
+whose Corona.txt 1 2311 
+interplanetary Corona.txt 1 1808 
+even Corona.txt 4 2965 3379 3771 4814 
+component Corona.txt 2 1414 3306 
+sunspot Corona.txt 2 560 598 
+transferred Corona.txt 1 3808 
+understanding Corona.txt 2 1212 5216 
+hours Corona.txt 2 1171 2213 
+reported Corona.txt 1 4672 
+1949 Corona.txt 1 4097 
+groups Corona.txt 1 3667 
+excess Corona.txt 1 195 
+active Corona.txt 20 539 716 719 781 913 1360 1417 1423 1435 1470 1695 1880 1914 1960 2138 2837 4017 4643 4708 5096 
+i.e Corona.txt 1 1258 
+coronium Corona.txt 1 118 
+strong Corona.txt 2 2569 4568 
+table Corona.txt 1 2101 
+eclipses Corona.txt 1 4604 
+ii Corona.txt 2 5102 5182 
+extreme Corona.txt 6 2241 2500 3132 3970 4433 5016 
+ultra Corona.txt 1 4173 
+reconnect Corona.txt 1 4863 
+precursor Corona.txt 1 993 
+involved Corona.txt 1 3862 
+k Corona.txt 9 225 882 1014 1019 1748 1751 2491 2545 3754 
+larger Corona.txt 1 2407 
+unipolar Corona.txt 2 1321 1803 
+commonly Corona.txt 1 1886 
+expulsion Corona.txt 1 2194 
+amount Corona.txt 2 3870 3922 
+chemical Corona.txt 1 2743 
+launched Corona.txt 3 4195 4487 5246 
+published Corona.txt 1 4520 
+usually Corona.txt 6 709 887 1466 2235 2342 2830 
+fourier Corona.txt 1 3529 
+6374 Corona.txt 1 184 
+elongated Corona.txt 1 1833 
+inhibited Corona.txt 1 3408 
+lowers Corona.txt 1 1656 
+named Corona.txt 1 1976 
+suddenly Corona.txt 1 4736 
+moreton Corona.txt 1 850 
+explained Corona.txt 2 126 3225 
+highly Corona.txt 4 128 164 1222 2778 
+visible Corona.txt 5 26 392 432 1503 2163 
+aboard Corona.txt 2 3987 4565 
+limb Corona.txt 1 1153 
+conducting Corona.txt 1 3597 
+medium Corona.txt 1 3640 
+total Corona.txt 2 17 63 
+unit Corona.txt 4 3094 3099 3110 3523 
+use Corona.txt 2 3586 5078 
+eye Corona.txt 1 30 
+links Corona.txt 1 5321 
+would Corona.txt 2 3822 3833 
+remains Corona.txt 2 1245 4795 
+relates Corona.txt 1 3693 
+contains Corona.txt 1 286 
+two Corona.txt 6 743 759 1538 1919 2282 3938 
+tightly Corona.txt 1 3992 
+next Corona.txt 1 1292 
+almost Corona.txt 2 1405 1940 
+circumstances Corona.txt 1 4598 
+proposes Corona.txt 1 4101 
+therefore Corona.txt 6 1229 1945 2906 3016 3396 5065 
+taken Corona.txt 3 1487 2632 3135 
+inner Corona.txt 1 3201 
+reconnection Corona.txt 10 3951 4003 4700 4706 4716 4751 4878 4935 4950 5056 
+forces Corona.txt 1 1562 
+until Corona.txt 2 1986 4382 
+more Corona.txt 10 520 602 612 1307 1851 2462 2909 3113 3380 5060 
+separated Corona.txt 1 437 
+0.2 Corona.txt 1 3977 
+becomes Corona.txt 3 1390 3239 3545 
+stable Corona.txt 1 4442 
+emission Corona.txt 9 319 324 347 1764 2227 2254 2571 3058 3080 
+heightened Corona.txt 1 979 
+binary Corona.txt 1 3061 
+interaction Corona.txt 1 4183 
+everywhere Corona.txt 1 1594 
+basically Corona.txt 1 2874 
+particular Corona.txt 3 4800 4835 4999 
+known Corona.txt 4 1196 2519 3790 4507 
+hole Corona.txt 3 954 1327 1771 
+pieces Corona.txt 1 4784 
+potential Corona.txt 1 3642 
+origin Corona.txt 1 4073 
+must Corona.txt 4 1591 1613 3860 4931 
+logarithm Corona.txt 2 3449 3462 
+involve Corona.txt 2 783 2168 
+account Corona.txt 4 3967 4973 5031 5198 
+word Corona.txt 2 75 80 
+hour Corona.txt 2 2390 2426 
+f Corona.txt 2 269 2543 
+this Corona.txt 17 2 1134 1452 2585 2630 2916 2963 3290 3345 3600 3821 3832 4747 4941 5270 5283 5307 
+equation Corona.txt 4 1628 1651 2756 3530 
+work Corona.txt 1 138 
+eclipse Corona.txt 2 19 65 
+modified Corona.txt 2 4159 4181 
+mk Corona.txt 4 2526 3475 3765 3774 
+oct Corona.txt 1 1494 
+arches Corona.txt 1 1311 
+lorentz Corona.txt 2 3274 3313 
+obvious Corona.txt 1 1143 
+can Corona.txt 30 842 949 989 1187 1272 1339 1622 2070 2210 2287 2339 2409 2447 2959 2974 3384 3509 3678 3770 3879 4008 4193 4213 4284 4330 4346 4856 5008 5197 5235 
+following Corona.txt 5 136 574 679 2100 5116 
+metal Corona.txt 1 2911 
+uvcs Corona.txt 1 4563 
+example Corona.txt 2 1204 2468 
+something Corona.txt 1 3847 
+ions Corona.txt 5 328 2912 3086 3220 4556 
+august Corona.txt 1 2109 
+pushes Corona.txt 1 632 
+escapes Corona.txt 1 3927 
+0.1 Corona.txt 1 2832 
+december Corona.txt 1 3139 
+allowed Corona.txt 1 2783 
+0.6 Corona.txt 1 2834 
+high Corona.txt 17 91 186 302 656 897 1279 1811 2217 2664 2787 2952 3716 3975 3983 4543 4578 5273 
+collision Corona.txt 1 3395 
+minimum Corona.txt 5 571 575 1395 1944 1970 
+bend Corona.txt 1 3318 
+60,00080,000 Corona.txt 1 3171 
+arise Corona.txt 1 1917 
+hydrogen Corona.txt 1 2710 
+occur Corona.txt 2 794 805 
+information Corona.txt 1 355 
+available Corona.txt 1 4514 
+never-before-seen Corona.txt 1 902 
+varied Corona.txt 1 694 
+rather Corona.txt 2 3251 4122 
+oslo Corona.txt 1 5175 
+travel Corona.txt 2 2379 5187 
+spreads Corona.txt 1 247 
+carries Corona.txt 1 3353 
+braids Corona.txt 3 904 3994 4007 
+astronomers Corona.txt 1 708 
+how Corona.txt 2 2972 4509 
+hot Corona.txt 4 345 973 1578 2816 
+calculations Corona.txt 1 3547 
+currents Corona.txt 5 2950 4727 4733 4843 4855 
+answer Corona.txt 1 1271 
+instead Corona.txt 1 119 
+flares Corona.txt 13 825 837 996 2102 2107 2134 2195 2214 2236 2261 2356 4490 4887 
+ensemble Corona.txt 1 2691 
+filament Corona.txt 6 1483 1500 1509 1547 2114 2290 
+coronagraph Corona.txt 1 73 
+product Corona.txt 1 3117 
+kilowatt Corona.txt 1 3906 
+ubiquitous Corona.txt 1 2433 
+intended Corona.txt 1 4054 
+a-stars Corona.txt 1 2599 
+arcs Corona.txt 2 1337 1426 
+may Corona.txt 4 337 1109 1130 1156 
+after Corona.txt 2 1445 3393 
+southern Corona.txt 1 1507 
+long Corona.txt 8 1190 1336 1462 1499 1855 2113 3389 4437 
+tied Corona.txt 1 4781 
+impulsive Corona.txt 1 2197 
+diagram Corona.txt 1 2444 
+produce Corona.txt 1 2215 
+fe Corona.txt 3 133 172 182 
+demonstrating Corona.txt 1 366 
+waves Corona.txt 30 474 2956 2958 3590 3631 4046 4103 4132 4136 4147 4150 4152 4155 4169 4177 4192 4212 4227 4249 4283 4301 4329 4391 4402 4447 4486 4535 4574 4590 4615 
+such Corona.txt 6 1235 2724 4483 4614 4768 5002 
+fk Corona.txt 2 2469 2477 
+revealed Corona.txt 2 901 3991 
+parallel Corona.txt 3 749 1921 3246 
+types Corona.txt 5 2488 4130 4142 4190 4210 
+a Corona.txt 75 16 31 62 72 78 114 191 261 364 384 849 1053 1084 1120 1137 1177 1269 1318 1342 1374 1408 1412 1446 1497 1630 1713 1896 2014 2112 2144 2216 2293 2334 2386 2568 2666 2689 2696 2742 2811 2851 2865 2898 3093 3109 3128 3151 3185 3230 3257 3304 3386 3394 3470 3477 3521 3573 3639 3674 3835 3988 4060 4164 4343 4449 4458 4774 4799 4809 4952 4961 5093 5176 5213 5290 
+diffusion Corona.txt 1 3207 
+stress Corona.txt 1 5082 
+natural Corona.txt 1 4953 
+magneto-acoustic Corona.txt 4 4146 4151 4248 4446 
+together Corona.txt 1 4972 
+light Corona.txt 9 208 285 314 433 2230 2819 3836 3924 5018 
+ordinary Corona.txt 1 4124 
+elongation Corona.txt 1 303 
+lost Corona.txt 1 2732 
+corona Corona.txt 70 0 13 22 32 49 76 96 211 379 416 435 452 483 501 518 542 651 691 833 936 1030 1284 1382 2012 2042 2128 2157 2257 2628 2645 2768 2796 2808 2828 2981 2990 3190 3362 3426 3468 3556 3583 3704 3729 3759 3769 3780 3815 3868 3878 3997 4019 4035 4115 4260 4300 4341 4365 4396 4409 4475 4518 4731 4746 4930 4985 5038 5114 5219 5311 
+element Corona.txt 2 117 2744 
+accounted Corona.txt 1 5043 
+greek Corona.txt 1 86 
+complexity Corona.txt 1 2057 
+cannot Corona.txt 3 3806 4250 4497 
+so Corona.txt 8 249 426 884 3381 4126 4787 4944 5134 
+frequent Corona.txt 1 3338 
+media Corona.txt 1 3673 
+every Corona.txt 2 3343 3908 
+order Corona.txt 5 1161 1599 2677 3375 3501 
+wind Corona.txt 9 499 960 1482 1814 1845 4077 4560 4678 4682 
+typical Corona.txt 3 2079 2248 3044 
+wavelengths Corona.txt 6 2166 2243 2276 2299 2326 2615 
+lighter Corona.txt 1 3218 
+produces Corona.txt 1 427 
+radiation Corona.txt 7 1259 1790 2586 2982 2992 3008 3053 
+astronomical Corona.txt 2 7 2528 
+move Corona.txt 2 3222 3320 
+mainly Corona.txt 3 1816 2709 2993 
+mission Corona.txt 2 1293 4049 
+parts Corona.txt 1 3766 
+years Corona.txt 2 568 3960 
+produced Corona.txt 1 326 
+thermal Corona.txt 11 1138 2179 2182 2591 2937 3125 3191 3234 3422 3552 3893 
+already Corona.txt 1 2021 
+through Corona.txt 9 1023 3785 3898 3954 4219 4255 4355 4393 4406 
+motions Corona.txt 1 4623 
+signs Corona.txt 1 2498 
+practice Corona.txt 1 3507 
+kinetic Corona.txt 1 2888 
+still Corona.txt 3 456 2970 4996 
+its Corona.txt 7 284 1140 1956 2056 3006 3358 3850 
+before Corona.txt 3 1268 3390 4223 
+perfect Corona.txt 1 1631 
+regions Corona.txt 32 527 534 551 712 717 720 782 914 956 986 1313 1361 1418 1424 1436 1471 1523 1564 1667 1696 1737 1777 1819 1874 1881 1915 2083 2139 2154 2838 4644 4908 
+emits Corona.txt 1 2991 
+1.1x10 Corona.txt 1 1747 
+outer Corona.txt 5 478 909 2125 2581 5210 
+thence Corona.txt 1 3513 
+temporal Corona.txt 2 2303 5276 
+varies Corona.txt 1 1726 
+ionised Corona.txt 1 165 
+late Corona.txt 1 4384 
+platform Corona.txt 1 4425 
+detected Corona.txt 4 1365 1544 1707 2449 
+according Corona.txt 1 2681 
+degrees Corona.txt 2 3162 5301 
+2018 Corona.txt 1 4086 
+covered Corona.txt 2 1722 4902 
+match Corona.txt 1 4937 
+main Corona.txt 10 352 918 1768 2038 2104 2349 2984 3566 4029 4703 
+might Corona.txt 1 4982 
+image Corona.txt 2 1486 2631 
+2013 Corona.txt 1 893 
+2012 Corona.txt 2 2111 3974 
+then Corona.txt 3 672 4734 4813 
+them Corona.txt 5 248 255 2050 2405 3316 
+mechanisms Corona.txt 1 5080 
+greater Corona.txt 3 2714 3848 5215 
+3 Corona.txt 1 3764 
+surrounds Corona.txt 1 41 
+similar Corona.txt 5 1406 1831 2702 3612 4171 
+material Corona.txt 4 2117 2193 2377 2417 
+cover Corona.txt 1 1340 
+reflected Corona.txt 2 243 4277 
+seawater Corona.txt 1 4772 
+effects Corona.txt 1 2178 
+they Corona.txt 21 739 841 885 1362 1532 1574 1731 1785 1839 1853 1939 2158 2167 2606 2617 2884 2907 2973 3339 4273 4297 
+half Corona.txt 1 2440 
+not Corona.txt 16 503 1787 1877 2059 2181 2314 2562 2576 2601 2608 2863 2969 4290 4505 5042 5129 
+rotation Corona.txt 5 589 597 1898 1910 2496 
+hearing Corona.txt 1 4588 
+transparent Corona.txt 1 3004 
+nor Corona.txt 1 2623 
+easily Corona.txt 2 59 3880 
+term Corona.txt 1 8 
+one-to-one Corona.txt 1 5291 
+smoothly Corona.txt 1 5061 
+edit Corona.txt 25 363 718 917 1331 1419 1485 1690 1767 1871 2013 2103 2348 2429 2629 2983 3127 3565 3671 4090 4702 5103 5314 5316 5319 5322 
+always Corona.txt 5 504 1077 1916 1949 2914 
+university Corona.txt 1 5173 
+classified Corona.txt 1 702 
+saha Corona.txt 1 2755 
+identified Corona.txt 2 143 1887 
+accompanies Corona.txt 1 2404 
+events Corona.txt 5 1169 2086 2209 4493 5029 
+possibilities Corona.txt 1 464 
+kpa Corona.txt 1 2849 
+transmitted Corona.txt 1 2976 
+each Corona.txt 2 1943 3382 
+colleagues Corona.txt 1 4321 
+found Corona.txt 5 951 1697 2718 4626 5124 
+quarter Corona.txt 1 1343 
+characterized Corona.txt 1 2142 
+mean Corona.txt 3 3033 3367 3471 
+individually Corona.txt 1 4966 
+square Corona.txt 1 3909 
+another Corona.txt 2 1045 4372 
+1/40000 Corona.txt 1 3919 
+generation Corona.txt 1 2947 
+there Corona.txt 7 1108 1175 2004 3228 4533 4572 5020 
+energy Corona.txt 28 1181 2396 2889 3090 3719 3805 3858 3925 4105 4215 4231 4253 4287 4293 4351 4470 4512 4738 4743 4873 4946 4970 4977 5034 5041 5051 5059 5090 
+hard Corona.txt 1 2271 
+idea Corona.txt 1 4979 
+group Corona.txt 1 2540 
+frequency Corona.txt 3 3330 4175 4450 
+connect Corona.txt 1 4833 
+magnets Corona.txt 1 4823 
+1990s Corona.txt 1 4385 
+loops Corona.txt 17 619 620 738 916 925 927 938 961 988 1038 1155 1186 1203 1206 1220 1357 2374 
+our Corona.txt 3 1211 2555 4892 
+happen Corona.txt 1 830 
+transitions Corona.txt 1 154 
+event Corona.txt 1 2331 
+out Corona.txt 2 2023 4316 
+shown Corona.txt 3 2097 3549 4686 
+space Corona.txt 6 55 222 680 1809 2419 3000 
+non-thermal Corona.txt 1 3731 
+furthermore Corona.txt 2 2939 4895 
+since Corona.txt 6 124 151 576 649 1784 3300 
+induces Corona.txt 1 2945 
+research Corona.txt 4 3666 5097 5118 5151 
+particles Corona.txt 7 279 2693 2873 3065 3107 3301 3335 
+collisions Corona.txt 3 3062 3084 3332 
+contained Corona.txt 1 113 
+com Corona.txt 1 2478 
+induced Corona.txt 1 4846 
+induction Corona.txt 1 466 
+occurs Corona.txt 2 1078 3193 
+red Corona.txt 2 178 3174 
+exactly Corona.txt 3 1852 3114 4508 
+doppler Corona.txt 1 239 
+turning Corona.txt 1 4224 
+theory Corona.txt 6 3962 4089 4094 4701 4717 5136 
+brightenings Corona.txt 1 5014 
+interactions Corona.txt 1 3068 
+million Corona.txt 11 413 762 2387 2423 2668 2852 3161 3167 3177 4026 4038 
+kontinuierlich Corona.txt 1 227 
+free Corona.txt 1 237 
+quite Corona.txt 1 693 
+completely Corona.txt 1 253 
+base Corona.txt 1 4338 
+imaging Corona.txt 2 3980 5241 
+rises Corona.txt 1 1067 
+alfvnic Corona.txt 3 4622 4656 4669 
+generate Corona.txt 1 848 
+optically-thin Corona.txt 2 2767 3022 
+definition Corona.txt 1 2684 
+enormous Corona.txt 1 2373 
+poles Corona.txt 5 1867 2002 4836 4867 4915 
+exposing Corona.txt 1 637 
+g Corona.txt 2 2489 2544 
+created Corona.txt 2 232 273 
+simulations Corona.txt 1 4314 
+flare Corona.txt 7 1086 1168 1371 1447 2295 2338 2400 
+could Corona.txt 2 5045 5109 
+transition Corona.txt 5 822 1025 3793 3900 4359 
+days Corona.txt 1 1173 
+times Corona.txt 6 419 2046 2063 2394 2853 2902 
+motion Corona.txt 3 3359 3388 4939 
+length Corona.txt 1 3453 
+levels Corona.txt 1 158 
+place Corona.txt 4 2088 2136 3055 4247 
+thermodynamics Corona.txt 2 3738 3828 
+w Corona.txt 1 2515 
+assumed Corona.txt 2 3511 4041 
+hence Corona.txt 2 495 3853 
+moving Corona.txt 3 2595 2878 3260 
+undergo Corona.txt 1 4932 
+star Corona.txt 1 2482 
+support Corona.txt 1 4689 
+south Corona.txt 2 1866 4803 
+first Corona.txt 7 142 1364 1534 1706 3182 4398 4424 
+feed Corona.txt 1 1006 
+copper Corona.txt 1 3562 
+initial Corona.txt 1 1081 
+features Corona.txt 7 101 122 362 891 1450 2027 3049 
+peculiar Corona.txt 1 4755 
+perturb Corona.txt 1 844 
+450 Corona.txt 1 389 
+pa Corona.txt 1 2835 
+revealing Corona.txt 1 2793 
+primary Corona.txt 2 215 4011 
+one Corona.txt 5 410 1040 2020 3012 4234 
+clear Corona.txt 1 2971 
+sunlight Corona.txt 3 234 275 296 
+directly Corona.txt 2 787 3743 
+type Corona.txt 2 5101 5181 
+carry Corona.txt 6 4104 4214 4251 4285 4347 4464 
+impossible Corona.txt 1 1290 
+thick Corona.txt 1 3804 
+remotely Corona.txt 1 1252 
+open Corona.txt 1 491 
+171 Corona.txt 2 923 3164 
+millions Corona.txt 5 51 2413 3706 4904 5299 
+take Corona.txt 3 2087 2135 3054 
+earths Corona.txt 2 3615 5232 
+little Corona.txt 1 4969 
+ancient Corona.txt 1 85 
+spicule Corona.txt 1 5126 
+temperature Corona.txt 20 92 193 401 756 878 1645 1660 1744 1755 2225 2665 2749 2788 3435 3472 3490 3700 3788 3840 4553 
+their Corona.txt 5 877 1742 1926 2502 4230 
+unknown Corona.txt 1 116 
+top Corona.txt 2 1075 3158 
+behaves Corona.txt 1 2809 
+twisted Corona.txt 1 613 
+approximately Corona.txt 4 566 2850 3492 4063 
+heights Corona.txt 1 797 
+intense Corona.txt 2 1566 1673 
+indicate Corona.txt 3 190 3516 4531 
+hundreds Corona.txt 2 2411 3801 
+observations Corona.txt 7 1309 2265 2529 4477 4646 4679 5288 
+erupted Corona.txt 1 2129 
+white Corona.txt 1 2229 
+structures Corona.txt 13 725 861 931 1008 1248 1330 1333 1441 1460 1830 2039 2069 2286 
+national Corona.txt 1 5147 
+williams Corona.txt 1 4608 
+gives Corona.txt 1 97 
+x-rays Corona.txt 5 1518 1783 2247 2272 2996 
+fraction Corona.txt 1 1717 
+releases Corona.txt 1 5058 
+that Corona.txt 47 40 111 291 329 686 948 1005 1465 1652 1858 1912 2118 2378 2403 2542 2704 2717 2794 2883 2926 3011 3019 3550 3560 3711 3926 4001 4102 4156 4178 4228 4292 4327 4345 4463 4532 4571 4757 4788 4827 4844 4965 4980 5057 5125 5295 5305 
+asymmetric Corona.txt 1 1057 
+bouncing Corona.txt 1 276 
+explanation Corona.txt 1 1239 
+continuous Corona.txt 1 228 
+studies Corona.txt 2 3592 5141 
+plane Corona.txt 2 3281 5253 
+japanese Corona.txt 1 5262 
+released Corona.txt 3 2370 4947 5035 
+part Corona.txt 2 1878 2651 
+286 Corona.txt 1 3179 
+kelvins Corona.txt 7 414 763 2669 3437 3708 4027 4039 
+july Corona.txt 1 4084 
+than Corona.txt 15 202 390 1353 1900 2464 2716 2800 2855 2904 3219 3252 3710 3849 4123 5062 
+empties Corona.txt 1 1676 
+center Corona.txt 1 5148 
+11 Corona.txt 1 567 
+zones Corona.txt 9 698 744 1428 1512 1794 1903 2170 2566 2604 
+spicules Corona.txt 5 809 5100 5108 5180 5304 
+b Corona.txt 1 1328 
+15 Corona.txt 1 2203 
+showed Corona.txt 1 2541 
+16 Corona.txt 1 1495 
+well-up Corona.txt 1 965 
+require Corona.txt 1 3718 
+martins Corona.txt 1 5159 
+photospheric Corona.txt 2 244 2932 
+project Corona.txt 1 1859 
+matter Corona.txt 3 2647 4185 4786 
+plages Corona.txt 1 813 
+overlie Corona.txt 1 1467 
+contrary Corona.txt 2 854 3365 
+iron Corona.txt 3 130 2726 2782 
+were Corona.txt 5 1363 1533 1705 1840 4445 
+toward Corona.txt 2 1100 3895 
+distinguished Corona.txt 2 2289 2310 
+electrically Corona.txt 2 3596 4765 
+result Corona.txt 1 1905 
+and Corona.txt 121 23 44 56 280 349 425 472 494 549 671 676 695 760 779 803 812 821 824 826 834 847 883 957 970 997 1027 1042 1098 1183 1194 1227 1319 1389 1469 1519 1588 1642 1804 1865 1882 1925 1955 2000 2140 2175 2180 2183 2205 2218 2224 2244 2252 2270 2273 2277 2490 2497 2516 2538 2546 2550 2613 2670 2730 2750 2876 2951 3009 3030 3087 3122 3175 3221 3286 3319 3378 3407 3450 3476 3482 3494 3505 3620 3659 3778 3890 3949 4004 4071 4114 4148 4167 4201 4208 4271 4309 4320 4358 4361 4405 4417 4496 4632 4641 4661 4741 4802 4868 4871 4918 5005 5064 5091 5133 5161 5165 5193 5220 5250 5275 5302 
+1.5 Corona.txt 3 2422 3166 4037 
+pointed Corona.txt 2 1463 2022 
+false Corona.txt 1 3143 
+10kk Corona.txt 1 3493 
+lines Corona.txt 12 147 246 266 290 325 348 2191 2775 3250 3326 3406 4778 
+disambiguation Corona.txt 1 14 
+conventional Corona.txt 1 3817 
+spectrum Corona.txt 1 664 
+glass Corona.txt 1 3851 
+raw Corona.txt 1 295 
+say Corona.txt 1 3018 
+filamentary Corona.txt 1 2641 
+p.m Corona.txt 1 2132 
+manner Corona.txt 1 3856 
+have Corona.txt 23 123 699 1157 1601 2548 2563 2567 2577 2602 2620 2731 2885 2897 3303 3548 3934 3940 4157 4179 4624 4658 4684 5194 
+100 Corona.txt 3 2848 4545 5191 
+seen Corona.txt 7 60 293 685 1444 1837 2239 2296 
+seem Corona.txt 4 4324 4529 4662 5021 
+sounding Corona.txt 1 3989 
+apparently Corona.txt 1 1683 
+linked Corona.txt 1 788 
+contents Corona.txt 1 360 
+relatively Corona.txt 2 443 645 
+buffeted Corona.txt 1 4917 
+1968 Corona.txt 1 1370 
+1969 Corona.txt 1 1711 
+once Corona.txt 1 4296 
+general Corona.txt 1 3299 
+studying Corona.txt 2 2051 3577 
+responsible Corona.txt 1 3204 
+able Corona.txt 1 3965 
+aside Corona.txt 1 636 
+mechanism Corona.txt 2 448 4884 
+telescope Corona.txt 1 5259 
+also Corona.txt 13 69 176 843 1110 1543 1975 2333 2363 2598 2960 3302 4633 5313 
+causing Corona.txt 1 1119 
+foot Corona.txt 3 1047 1070 1117 
+which Corona.txt 21 102 450 747 793 862 1338 1513 1542 1778 1875 2043 2560 2694 2813 3215 3244 3276 3749 3786 5186 5265 
+interior Corona.txt 4 628 2708 3726 4109 
+green Corona.txt 2 168 3170 
+5800 Corona.txt 2 403 3753 
+quadrupolar Corona.txt 1 1413 
+butterfly Corona.txt 1 1977 
+vaiana Corona.txt 1 2537 
+play Corona.txt 1 3672 
+shallow Corona.txt 1 444 
+electric Corona.txt 6 2943 2949 3442 4726 4842 4854 
+trace Corona.txt 6 922 1237 2300 4527 5004 5071 
+opposite Corona.txt 3 729 1315 1430 
+lifespans Corona.txt 1 5196 
+collaboration Corona.txt 1 5155 
+enter Corona.txt 1 4298 
+reach Corona.txt 2 3772 5130 
+siphon Corona.txt 1 1049 
+falls Corona.txt 1 1099 
+rarefied Corona.txt 1 3029 
+most Corona.txt 8 58 555 2207 2508 2733 3944 3955 4140 
+boltzmann Corona.txt 2 1640 3431 
+detect Corona.txt 1 4595 
+propagate Corona.txt 1 2961 
+significant Corona.txt 2 1437 4659 
+phase Corona.txt 3 1082 2335 2346 
+enough Corona.txt 2 4286 4295 
+contain Corona.txt 1 1349 
+class Corona.txt 2 2479 5178 
+blobs Corona.txt 1 2597 
+in-situ Corona.txt 2 1264 1285 
+equatorial Corona.txt 4 526 548 1893 1953 
+stereo Corona.txt 2 3137 3181 
+give Corona.txt 1 4567 
+observation Corona.txt 2 1372 4400 
+radiating Corona.txt 1 1223 
+considered Corona.txt 2 888 1475 
+average Corona.txt 5 400 755 1743 2200 2891 
+later Corona.txt 1 673 
+flow Corona.txt 3 1050 1058 1113 
+heat Corona.txt 19 3211 3398 3519 3532 3740 3818 3875 4030 4233 4243 4371 4473 4502 4516 4740 4870 4958 4983 5111 
+km Corona.txt 1 4910 
+evry Corona.txt 1 4099 
+fraunhofer Corona.txt 2 271 288 
+points Corona.txt 9 727 1048 1071 1118 1689 1692 1704 1725 1996 
+electrons Corona.txt 7 238 2737 2877 2896 3088 3214 3371 
+soho Corona.txt 2 4566 5006 
+analogy Corona.txt 1 3830 
+velocity Corona.txt 3 2910 3285 3305 
+effect Corona.txt 1 1680 
+left Corona.txt 1 3159 
+physics Corona.txt 2 2625 3692 
+fact Corona.txt 3 1581 2917 3026 
+50 Corona.txt 1 3959 
+ambiguities Corona.txt 1 1255 
+atmosphere Corona.txt 10 2126 2174 2655 2760 3198 4222 4539 4631 5211 5234 
+parker Corona.txt 2 4050 4990 
+particularly Corona.txt 2 1391 2456 
+newer Corona.txt 1 5280 
+show Corona.txt 2 3146 4326 
+german Corona.txt 1 230 
+probe Corona.txt 3 1298 3638 4052 
+scattered Corona.txt 2 3341 3392 
+evaporation Corona.txt 1 1092 
+discovered Corona.txt 1 5183 
+area Corona.txt 1 3913 
+bright Corona.txt 5 1688 1691 1703 1724 1995 
+theories Corona.txt 3 3933 3939 4690 
+radio Corona.txt 1 4176 
+visualisation Corona.txt 1 3676 
+earth Corona.txt 1 2842 
+individuated Corona.txt 1 3282 
+tend Corona.txt 1 4274 
+fine Corona.txt 1 3657 
+debate Corona.txt 1 461 
+ground Corona.txt 1 161 
+henceforth Corona.txt 1 5238 
+slow Corona.txt 2 1480 3186 
+ensembles Corona.txt 1 722 
+6000 Corona.txt 1 1013 
+conduction Corona.txt 4 2938 3126 3192 3894 
+cousins Corona.txt 1 943 
+explain Corona.txt 1 4498 
+distributed Corona.txt 2 506 545 
+bipolar Corona.txt 1 1736 
+fluid Corona.txt 2 3603 4767 
+collapse Corona.txt 2 4735 4857 
+hypothesized Corona.txt 2 4000 4880 
+flights Corona.txt 1 1541 
+candidates Corona.txt 1 3946 
+factor Corona.txt 1 385 
+8 Corona.txt 2 1369 1710 
+constant Corona.txt 6 1593 1641 3432 3512 4922 4934 
+partially Corona.txt 1 2728 
+local Corona.txt 1 4696 
+over Corona.txt 5 546 1017 1341 1384 2385 
+equilibrium Corona.txt 2 1603 2764 
+giants Corona.txt 1 2485 
+do Corona.txt 7 1786 2561 2575 2600 2607 3385 4289 
+his Corona.txt 1 2539 
+dominant Corona.txt 1 2521 
+above Corona.txt 4 798 1521 1556 3226 
+longitudinal Corona.txt 1 3416 
+10 Corona.txt 14 418 769 771 1018 2393 2511 2514 2679 3480 3484 3503 3773 4467 4547 
+explosions Corona.txt 1 4890 
+vary Corona.txt 2 2071 2089 
+fe-xiv Corona.txt 2 131 169 
+kind Corona.txt 1 1453 
+arcing Corona.txt 1 4707 
+act Corona.txt 1 4009 
+conductive Corona.txt 1 4766 
+ionized Corona.txt 3 129 2729 2779 
+meter Corona.txt 1 3910 
+closely Corona.txt 1 1305 
+new Corona.txt 3 3574 3675 5177 
+during Corona.txt 15 15 61 373 513 536 1079 1373 1393 1712 1929 1942 1961 2292 2587 4602 
+m-stars Corona.txt 1 2547 
+collisional Corona.txt 1 2763 
+nearly Corona.txt 1 4933 
+areas Corona.txt 1 558 
+well Corona.txt 3 1016 4582 5068 
+evolution Corona.txt 1 2065 
+space-borne Corona.txt 1 4420 
+continuum Corona.txt 1 262 
+turbulence Corona.txt 1 4198 
+covering Corona.txt 1 531 
+h Corona.txt 4 810 868 1525 2275 
+seldom Corona.txt 1 2233 
+differential Corona.txt 2 596 1909 
+animation Corona.txt 1 3187 
+teams Corona.txt 1 4606 
+naked Corona.txt 1 29 
+investigate Corona.txt 1 4068 
+501,000 Corona.txt 1 4909 
+activity Corona.txt 5 561 599 746 981 2501 
+release Corona.txt 2 4869 5088 
+including Corona.txt 1 3042 
+obscure Corona.txt 1 254 
+shocks Corona.txt 1 2588 
+where Corona.txt 14 308 607 1174 1253 1524 1605 1633 1798 2003 2084 3350 3428 3488 4366 
+approaching Corona.txt 1 1968 
+reveals Corona.txt 1 2639 
+j Corona.txt 1 3526 
+computed Corona.txt 1 3536 
+lifetimes Corona.txt 1 1158 
+oscillations Corona.txt 2 4657 4670 
+conductivity Corona.txt 3 3235 3423 3553 
+we Corona.txt 2 3017 3515 
+around Corona.txt 2 3323 4826 
+maximum Corona.txt 3 606 1933 1963 
+observed Corona.txt 8 150 339 864 1251 1528 1535 2234 2341 
+see Corona.txt 2 12 5312 
+computer Corona.txt 1 4313 
+college Corona.txt 1 4609 
+are Corona.txt 77 25 292 330 484 617 721 748 838 857 863 886 928 939 1195 1207 1221 1228 1249 1256 1266 1287 1334 1425 1442 1454 1474 1511 1520 1527 1549 1575 1693 1732 1756 1774 1792 1835 1847 1854 1876 1885 2005 2141 2159 2196 2237 2308 2313 2368 2372 2432 2460 2484 2505 2727 2913 2927 3075 3212 3216 3336 3340 3635 4145 4153 4170 4304 4494 4534 4573 4591 4779 4806 4824 4845 4916 5092 
+enhanced Corona.txt 1 3401 
+1,000,000 Corona.txt 1 197 
+portrait Corona.txt 1 2015 
+luminous Corona.txt 2 2463 2509 
+outward Corona.txt 2 1860 2380 
+2.5 Corona.txt 1 3176 
+subject Corona.txt 3 458 3271 5094 
+micro-flare Corona.txt 1 5076 
+appear Corona.txt 2 2618 5067 
+phases Corona.txt 1 2307 
+results Corona.txt 1 4519 
+cap-like Corona.txt 1 1458 
+microflares Corona.txt 1 4964 
+speed Corona.txt 2 1812 1899 
+away Corona.txt 1 488 
+wikipedia Corona.txt 1 1 
+finally Corona.txt 1 4362 
+continually Corona.txt 1 582 
+symmetric Corona.txt 1 1112 
+state Corona.txt 4 1199 1627 2659 2740 
+various Corona.txt 1 3633 
+envelopes Corona.txt 1 2583 
+between Corona.txt 7 758 3063 3085 3333 3775 3886 5293 
+tens Corona.txt 1 3799 
+neither Corona.txt 2 2621 3961 
+reading Corona.txt 1 5318 
+approach Corona.txt 2 1301 4056 
+across Corona.txt 3 507 1504 4911 
+law Corona.txt 2 3736 3826 
+wide Corona.txt 2 1793 2185 
+faculae Corona.txt 1 804 
+variability Corona.txt 2 2009 2054 
+comparable Corona.txt 2 2315 3558 
+latin Corona.txt 2 33 79 
+recently Corona.txt 3 4621 4685 5245 
+creating Corona.txt 1 643 
+notoriously Corona.txt 1 4305 
+nature Corona.txt 1 2642 
+processes Corona.txt 4 2925 2934 3051 3732 
+emitted Corona.txt 3 2151 2776 3091 
+however Corona.txt 5 535 2281 2572 2860 5115 
+rapidly Corona.txt 4 1096 1132 2594 4294 
+leading Corona.txt 1 4694 
+hypothesis Corona.txt 2 5077 5271 
+ionization Corona.txt 2 2715 2739 
+clues Corona.txt 1 3680 
+distinguish Corona.txt 1 710 
+article Corona.txt 8 3 919 1769 2105 2350 2985 3567 4704 
+configuration Corona.txt 4 162 368 1410 1604 
+mercury Corona.txt 1 4770 
+observable Corona.txt 3 70 282 2997 
+c Corona.txt 4 3163 3168 3172 3178 
+planned Corona.txt 1 2530 
+last Corona.txt 2 1188 2211 
+philosophically Corona.txt 1 3608 
+instrument Corona.txt 1 4564 
+many Corona.txt 4 1254 2176 3930 4476 
+region Corona.txt 9 823 1026 1135 1894 3784 3794 3901 4360 4709 
+helioseismology Corona.txt 1 3619 
+quiet Corona.txt 6 516 1869 1890 1947 1983 4636 
+against Corona.txt 1 1144 
+emit Corona.txt 3 1788 2584 2609 
+april Corona.txt 1 1709 
+s Corona.txt 3 199 399 405 
+heliospheric Corona.txt 1 4418 
+aura Corona.txt 1 37 
+behaviour Corona.txt 1 2698 
+estimation Corona.txt 1 3648 
+whole Corona.txt 1 1990 
+discounted Corona.txt 1 5138 
+comes Corona.txt 1 212 
+among Corona.txt 3 2049 2434 2506 
+relevant Corona.txt 1 2919 
+fields Corona.txt 2 2954 4759 
+cm Corona.txt 1 774 
+point Corona.txt 1 1041 
+simple Corona.txt 1 1392 
+connection Corona.txt 2 4838 5292 
+kilometers Corona.txt 3 2388 2424 3803 
+cmes Corona.txt 1 1001 
+edln Corona.txt 1 135 
+proton Corona.txt 1 3123 
+height Corona.txt 1 3656 
+pathway Corona.txt 1 4344 
+jets Corona.txt 1 5203 
+tons Corona.txt 1 2415 
+regulated Corona.txt 1 2752 
+decreases Corona.txt 1 1661 
+spans Corona.txt 1 565 
+path Corona.txt 1 3294 
+hotter Corona.txt 6 201 382 634 2799 3197 3758 
+along Corona.txt 5 1261 3307 3321 3402 3538 
+second Corona.txt 4 3735 3825 4460 4548 
+broadening Corona.txt 1 240 
+unusual Corona.txt 1 99 
+bogdan Corona.txt 1 4319 
+described Corona.txt 2 714 2263 
+cavities Corona.txt 3 1484 1510 1548 
+berenices Corona.txt 1 2471 
+observing Corona.txt 1 4428 
+remained Corona.txt 1 3941 
+radiative Corona.txt 5 2149 2924 2933 2987 3888 
+due Corona.txt 10 321 489 585 976 1051 1059 1276 2589 3059 3082 
+been Corona.txt 12 125 653 684 700 2120 3662 3935 3964 4158 4180 4378 4625 
+magnetized Corona.txt 1 4907 
+much Corona.txt 12 200 381 431 1789 2461 2553 2713 2798 3217 3757 4510 5214 
+optical Corona.txt 1 5258 
+basic Corona.txt 2 930 2285 
+collected Corona.txt 1 4601 
+hottest Corona.txt 1 2518 
+prototype Corona.txt 1 2474 
+empty Corona.txt 1 1576 
+emphasized Corona.txt 1 2029 
+yohkoh Corona.txt 1 675 
+generating Corona.txt 1 496 
+arises Corona.txt 1 1815 
+flight Corona.txt 2 1376 1715 
+bengt Corona.txt 1 134 
+influence Corona.txt 1 5229 
+sufficient Corona.txt 1 4252 
+releasing Corona.txt 1 4737 
+observatory Corona.txt 7 1492 2534 4419 4422 4654 4713 5249 
+coincides Corona.txt 1 1950 
+observe Corona.txt 3 1232 2329 5009 
+determination Corona.txt 1 2784 
+covers Corona.txt 1 1988 
+angles Corona.txt 1 304 
+1869 Corona.txt 1 152 
+bulb Corona.txt 1 3837 
+plasmas Corona.txt 1 4303 
+diversified Corona.txt 1 2017 
+hidden Corona.txt 1 5324 
+present Corona.txt 4 331 1257 1289 4267 
+case Corona.txt 2 1166 3601 
+heavier Corona.txt 1 2722 
+euv Corona.txt 2 2298 4435 
+atmospheric Corona.txt 3 2844 5150 5240 
+look Corona.txt 3 1514 1569 1779 
+external Corona.txt 4 2650 2736 3196 5320 
+gradual Corona.txt 1 5054 
+these Corona.txt 24 120 185 912 937 983 1007 1037 1247 1440 1791 1818 1846 2371 2445 2483 2573 3142 3629 4589 4655 4912 5027 5202 5287 
+decades Corona.txt 1 5105 
+ejection Corona.txt 1 2353 
+appearance Corona.txt 1 259 
+single Corona.txt 1 4810 
+2010 Corona.txt 2 1496 5144 
+will Corona.txt 4 600 1035 1300 4830 
+institute Corona.txt 1 5167 
+while Corona.txt 4 764 1938 2839 3066 
+helicoidal Corona.txt 1 3387 
+telescopes Corona.txt 2 2452 5001 
+properly Corona.txt 1 2864 
+balance Corona.txt 1 1178 
+aia Corona.txt 1 4648 
+31 Corona.txt 2 2110 4085 
+loop Corona.txt 7 724 921 985 1074 1116 1126 1180 
+at Corona.txt 27 173 183 592 604 655 795 1288 2130 2164 2240 2297 2384 2420 2610 2662 2671 2820 2879 3150 3327 3751 3760 4204 4336 4540 4575 5145 
+supply Corona.txt 1 5286 
+erupting Corona.txt 1 2291 
+losses Corona.txt 2 2988 3889 
+performed Corona.txt 1 5142 
+century Corona.txt 1 108 
+equator Corona.txt 3 595 753 1924 
+is Corona.txt 97 4 35 57 68 77 231 272 281 310 320 350 380 402 417 436 453 455 502 519 543 554 581 611 692 757 879 1009 1088 1104 1176 1404 1502 1609 1634 1647 1802 1911 1958 2028 2058 2096 2231 2262 2278 2472 2656 2688 2701 2751 2797 2814 2829 2846 2862 2869 2968 3003 3021 3027 3081 3100 3229 3245 3270 3277 3372 3400 3427 3429 3433 3463 3491 3498 3557 3572 3604 3611 3705 3750 3781 3903 3999 4040 4053 4079 4118 4239 4504 4513 4749 4818 4839 4879 4901 4951 4995 5296 
+chromospheric Corona.txt 5 890 1091 1106 2251 4668 
+thus Corona.txt 3 642 2616 5212 
+it Corona.txt 28 67 98 112 309 336 553 682 1087 1103 1646 1987 2095 2687 2861 2868 2967 3020 3508 3795 3845 3902 3998 4078 4127 4367 4369 4503 5122 
+surface Corona.txt 15 204 393 509 801 1559 1721 1957 1992 2564 2859 3714 3748 3852 3912 4897 
+heating Corona.txt 17 1217 1243 3660 3669 3684 3688 3865 3891 3932 3948 4014 4070 4088 4093 4238 4376 4698 
+numerical Corona.txt 1 3546 
+sudden Corona.txt 1 2145 
+in Corona.txt 128 105 148 194 229 294 332 340 557 658 669 732 742 806 814 818 831 892 952 982 1124 1133 1159 1164 1179 1282 1324 1354 1366 1516 1529 1536 1571 1580 1598 1685 1754 1761 1781 1820 1842 1918 2045 2055 2090 2098 2122 2137 2228 2255 2266 2274 2437 2457 2593 2648 2657 2705 2719 2757 2765 2826 2836 2962 2979 2994 3025 3056 3096 3108 3188 3241 3253 3261 3298 3342 3347 3357 3360 3409 3413 3436 3466 3485 3506 3525 3599 3627 3646 3690 3863 3973 3995 4032 4096 4137 4186 4268 4302 4322 4412 4431 4521 4536 4557 4616 4627 4634 4638 4642 4728 4744 4761 4773 4847 4874 4891 4927 4991 4998 5015 5069 5098 5119 5143 5152 5154 5184 5222 
+convection Corona.txt 2 2565 2603 
+nanoflares Corona.txt 2 3953 4981 
+disappear Corona.txt 1 1941 
+if Corona.txt 7 836 2966 3331 3514 4798 4815 4821 
+helmet Corona.txt 1 1455 
+different Corona.txt 13 697 796 1434 2048 2068 2165 2306 2880 2929 3050 3154 3665 4555 
+cools Corona.txt 1 1097 
+perhaps Corona.txt 1 4959 
+suggest Corona.txt 2 110 4610 
+acquire Corona.txt 1 2908 
+wound Corona.txt 2 583 3993 
+uniform Corona.txt 1 4500 
+same Corona.txt 6 219 1678 2092 2822 2887 4797 
+any Corona.txt 2 4387 4764 
+shorter Corona.txt 1 5195 
+compact Corona.txt 1 1085 
+complex Corona.txt 3 696 2161 2280 
+largest Corona.txt 1 4889 
+transient Corona.txt 1 4495 
+spirals Corona.txt 1 3322 
+several Corona.txt 5 711 2076 2169 2212 4129 
+composition Corona.txt 2 359 2700 
+higher Corona.txt 4 1610 2854 3240 3709 
+quasi-neutral Corona.txt 1 2690 
+evolve Corona.txt 1 2044 
+satellite Corona.txt 2 667 5264 
+used Corona.txt 3 2327 3636 5267 
+peaks Corona.txt 1 1464 
+50008000 Corona.txt 1 881 
+kelvin Corona.txt 2 198 404 
+prominences Corona.txt 6 24 778 817 856 1149 2360 
+blue Corona.txt 1 3165 
+driver Corona.txt 1 1063 
+interconnections Corona.txt 2 1415 1421 
+ion Corona.txt 1 4697 
+squared Corona.txt 1 3104 
+edges Corona.txt 1 479 
+uses Corona.txt 1 11 
+scale Corona.txt 1 3655 
+supposing Corona.txt 1 2882 
+dust Corona.txt 1 278 
+free-path Corona.txt 2 3034 3368 
+mosaic Corona.txt 1 3129 
+cycle Corona.txt 8 376 564 1388 1730 1937 1967 1974 1978 
+relies Corona.txt 1 4718 
+lower Corona.txt 1 4629 
+drain Corona.txt 1 1043 
+off Corona.txt 3 236 277 1150 
+modes Corona.txt 1 4335 
+charges Corona.txt 1 2944 
+changes Corona.txt 2 1383 1760 
+1973 Corona.txt 1 670 
+roughly Corona.txt 4 2392 2421 2900 3464 
+analysis Corona.txt 1 2032 
+1970 Corona.txt 1 1539 
+1 Corona.txt 5 3160 3474 3762 3905 4453 
+comae Corona.txt 1 2470 
+km/s Corona.txt 1 5192 
+the Corona.txt 537 6 20 28 42 47 74 84 90 94 106 137 144 160 167 177 203 206 210 218 223 242 257 267 287 297 306 312 315 333 351 357 367 374 377 391 395 397 408 415 423 434 439 442 446 451 457 468 477 481 497 500 508 511 517 525 532 537 541 547 562 573 577 587 593 608 626 629 633 638 644 650 659 663 666 677 687 690 704 707 733 735 751 754 765 785 790 799 807 815 819 832 845 853 874 896 908 929 933 940 945 958 967 978 992 1002 1021 1024 1029 1032 1065 1069 1073 1080 1094 1101 1125 1128 1145 1151 1160 1165 1214 1241 1262 1278 1283 1291 1295 1302 1320 1325 1345 1355 1359 1367 1377 1381 1385 1394 1398 1402 1420 1479 1489 1505 1517 1522 1530 1537 1557 1563 1582 1585 1596 1606 1611 1619 1626 1635 1639 1643 1650 1653 1658 1665 1670 1677 1686 1699 1716 1719 1728 1739 1752 1762 1775 1782 1796 1799 1807 1810 1821 1825 1843 1848 1862 1868 1872 1889 1892 1901 1904 1907 1913 1923 1930 1935 1946 1952 1962 1965 1969 1972 1979 1982 1989 1998 2001 2006 2011 2019 2025 2031 2034 2037 2041 2052 2062 2067 2078 2082 2091 2099 2123 2127 2148 2156 2172 2188 2206 2222 2246 2250 2256 2258 2267 2316 2323 2330 2337 2382 2395 2398 2435 2438 2442 2465 2473 2476 2507 2517 2527 2532 2557 2580 2611 2627 2640 2644 2646 2649 2653 2658 2676 2683 2699 2706 2720 2735 2738 2748 2754 2758 2766 2770 2773 2786 2790 2795 2801 2805 2807 2821 2824 2827 2841 2843 2857 2886 2893 2931 2940 2946 2980 2989 2995 3001 3023 3031 3039 3043 3047 3057 3067 3070 3079 3089 3097 3103 3116 3119 3131 3147 3189 3195 3200 3206 3210 3213 3233 3237 3242 3248 3254 3262 3266 3273 3280 3284 3287 3293 3296 3308 3312 3324 3328 3334 3348 3351 3354 3361 3364 3366 3370 3374 3397 3403 3410 3414 3418 3421 3425 3430 3434 3438 3441 3445 3447 3451 3455 3460 3467 3486 3489 3495 3500 3518 3528 3539 3542 3551 3555 3578 3581 3585 3593 3602 3605 3614 3617 3641 3647 3650 3682 3686 3695 3699 3702 3713 3715 3724 3728 3734 3745 3756 3768 3776 3779 3782 3787 3792 3810 3814 3824 3839 3842 3864 3867 3869 3876 3884 3896 3899 3915 3921 3928 3943 3957 3969 3982 3996 4002 4016 4028 4033 4047 4057 4072 4075 4091 4107 4111 4116 4139 4161 4187 4197 4205 4220 4242 4245 4256 4259 4264 4269 4280 4299 4337 4340 4353 4356 4364 4379 4383 4394 4397 4407 4415 4423 4429 4432 4469 4474 4499 4517 4526 4537 4552 4558 4562 4584 4611 4617 4628 4635 4651 4667 4674 4681 4714 4720 4729 4732 4745 4754 4789 4792 4796 4816 4822 4837 4848 4853 4859 4875 4883 4888 4896 4899 4921 4924 4928 4938 4945 4949 4956 4975 4978 4984 4992 5033 5037 5039 5070 5075 5083 5089 5113 5120 5135 5146 5157 5166 5172 5200 5208 5218 5223 5226 5231 5239 5256 5261 5272 5279 5303 5310 
+magnetohydrodynamic Corona.txt 3 473 2955 3588 
+millihertz Corona.txt 1 4454 
+drawing Corona.txt 1 365 
+researchers Corona.txt 1 5106 
+charged Corona.txt 2 2872 3258 
+pole Corona.txt 1 4805 
+rocket Corona.txt 4 1375 1540 1714 3990 
+less Corona.txt 4 522 1351 1617 1959 
+being Corona.txt 3 486 1250 3391 
+when Corona.txt 6 1064 1093 1397 1657 1669 3227 
+distribute Corona.txt 1 741 
+sources Corona.txt 5 216 1182 1224 1477 4012 
+violent Corona.txt 1 840 
+human Corona.txt 1 4587 
+using Corona.txt 3 2450 4523 4645 
+zodiacal Corona.txt 1 313 
+scattering Corona.txt 1 235 
+yet Corona.txt 1 4506 
+rapid Corona.txt 2 2219 2495 
+candidate Corona.txt 1 4954 
+density Corona.txt 10 766 1638 2223 2674 3121 3124 3459 3478 3497 3654 
+absorption Corona.txt 3 245 265 289 
+photons Corona.txt 1 3071 
+large-scale Corona.txt 3 1329 1332 1378 
+had Corona.txt 2 1274 2119 
+improvement Corona.txt 1 5221 
+source Corona.txt 2 353 4031 
+internal Corona.txt 1 2802 
+extends Corona.txt 2 50 299 
+4 Corona.txt 2 3140 4025 
+easy Corona.txt 2 1230 2060 
+theorem Corona.txt 1 2895 
+plumes Corona.txt 1 1850 
+has Corona.txt 7 652 683 1895 2918 3661 3963 4377 
+plasma Corona.txt 44 39 192 335 640 906 975 1004 1034 1066 1095 1129 1226 1280 1350 1554 1579 1589 1612 1620 1644 1654 1659 2661 2686 2792 2964 3002 3064 3238 3352 3456 3579 3607 3625 4121 4188 4762 4775 4817 4849 5127 5206 5294 5308 
+flowing Corona.txt 1 3742 
+open-magnetic Corona.txt 1 946 
+photographed Corona.txt 1 654 
+scheduled Corona.txt 1 4080 
+atmospheres Corona.txt 1 3149 
+fe-x Corona.txt 1 179 
+definitive Corona.txt 1 1270 
+depends Corona.txt 1 2745 
+kilometres Corona.txt 2 53 3377 
+bands Corona.txt 1 1920 
+providing Corona.txt 1 4342 
+absence Corona.txt 1 4381 
+topology Corona.txt 1 4790 
+period Corona.txt 3 1396 4462 4549 
+dark Corona.txt 7 646 866 1141 1515 1570 1684 1780 
+photosphere Corona.txt 18 398 424 440 635 734 808 846 1022 1102 1687 2721 3349 3747 3777 3812 4207 4281 4354 
+increases Corona.txt 3 1928 1985 3789 
+provide Corona.txt 2 3679 4967 
+insert Corona.txt 2 5204 5306 
+confined Corona.txt 1 523 
+immediately Corona.txt 1 701 
+color Corona.txt 1 3144 
+prominent Corona.txt 1 556 
+particles/m Corona.txt 3 2680 3481 3504 
+alfvn Corona.txt 5 4149 4168 4282 4328 4485 
+phenomena Corona.txt 4 786 2162 2198 4482 
+appearing Corona.txt 1 870 
+like Corona.txt 3 871 2554 2810 
+particle Corona.txt 6 772 1636 3259 3297 3458 3496 
+sizes Corona.txt 2 2080 3045 
+cooler Corona.txt 5 639 1550 1615 3202 3811 
+pre-flare Corona.txt 1 2345 
+collective Corona.txt 1 2697 
+velocities Corona.txt 1 2881 
+streamers Corona.txt 3 1456 1473 1857 
+flux Corona.txt 8 372 493 623 631 942 947 964 2150 
+continue Corona.txt 1 4831 
+mhz Corona.txt 2 4455 4546 
+either Corona.txt 1 2922 
+january Corona.txt 1 2637 
+eugene Corona.txt 1 4989 
+giuseppe Corona.txt 1 2536 
+soft Corona.txt 2 2269 3978 
+mhd Corona.txt 4 2957 3589 3621 4045 
+towards Corona.txt 3 1072 1806 3199 
+depend Corona.txt 1 2321 
+transmute Corona.txt 1 4331 
+lmsal Corona.txt 1 5164 
+because Corona.txt 9 283 1573 2061 2867 3078 3733 4262 4272 4752 
+often Corona.txt 6 990 1031 1443 1757 1836 2551 
+propel Corona.txt 1 2410 
+200 Corona.txt 1 4580 
+maintained Corona.txt 1 4840 
+f-corona Corona.txt 2 268 298 
+crown Corona.txt 2 34 82 
+suspended Corona.txt 2 1555 1841 
+l Corona.txt 1 2510 
+certain Corona.txt 1 4851 
+calculated Corona.txt 2 1624 3882 
+ejections Corona.txt 4 829 1000 2367 2408 
+states Corona.txt 1 2780 
+debye Corona.txt 1 3452 
+respect Corona.txt 1 1663 
+images Corona.txt 6 894 1572 1823 3134 3145 3183 
+imager Corona.txt 2 900 3986 
+protons Corona.txt 2 2875 2905 
+resolutions Corona.txt 1 5277 
+happens Corona.txt 1 3346 
+pronounced Corona.txt 1 603 
+clockwise Corona.txt 1 3156 
+dense Corona.txt 4 421 860 1352 1618 
+both Corona.txt 4 1115 4189 4209 4261 
+for Corona.txt 25 9 226 270 318 1136 1189 2024 2302 2467 2475 2892 3205 3520 3907 3968 4216 4436 4955 4974 5032 5044 5104 5149 5199 5255 
+cavity Corona.txt 1 1501 
+broad Corona.txt 1 341 
+einstein Corona.txt 1 2533 
+though Corona.txt 1 552 
+fluids Corona.txt 1 3598 
+per Corona.txt 3 773 2389 5140 
+behave Corona.txt 1 4760 
+connecting Corona.txt 3 726 1312 1427 
+excluding Corona.txt 1 1993 
+propagating Corona.txt 2 4392 4403 
+preceding Corona.txt 1 2336 
+demonstrated Corona.txt 1 3663 
+o-b Corona.txt 1 2558 
+be Corona.txt 27 338 601 950 991 1111 1273 1592 1614 1623 2288 2340 2448 2975 3510 3535 3721 3807 3834 3861 3881 4194 4276 4664 4882 5023 5046 5236 
+process Corona.txt 3 3208 4748 4876 
+equipartition Corona.txt 1 2894 
+assembly Corona.txt 1 5242 
+1980s Corona.txt 2 4993 5121 
+snake-like Corona.txt 1 867 
+reveal Corona.txt 2 5282 5289 
+seconds Corona.txt 2 1163 2074 
+june Corona.txt 1 1368 
+instabilities Corona.txt 1 2592 
+304 Corona.txt 1 3173 
+perpendicular Corona.txt 3 3255 3264 3411 
+illustration Corona.txt 1 775 
+stellar Corona.txt 3 2427 2454 2582 
+pressure Corona.txt 8 1054 1587 1590 1621 1655 2825 2845 4266 
+dissipates Corona.txt 1 4368 
+instability Corona.txt 1 1139 
+filaments Corona.txt 4 811 872 1142 1526 
+from Corona.txt 47 83 155 171 181 209 213 217 305 386 438 475 569 625 768 895 966 1011 1020 1039 1068 1114 1649 1746 1817 1861 2073 2152 2381 2777 2930 2999 3014 3073 3092 3136 3157 3194 3723 3741 3744 3797 3809 4044 4106 4352 4525 4607 
+1939 Corona.txt 1 141 
+lockheed Corona.txt 1 5158 
+super Corona.txt 1 4202 
+by Corona.txt 43 127 233 274 327 383 441 449 467 665 674 1233 1488 1560 1625 1723 2030 2143 2264 2535 2633 2753 2762 3036 3283 3664 3730 3816 3892 4098 4160 4182 4196 4317 4488 4605 4710 4808 4841 4920 4948 4988 5049 5053 
+constrains Corona.txt 1 3315 
+on Corona.txt 27 703 852 873 1493 1595 1698 1708 1997 2108 2322 2635 2747 2840 2856 2890 2923 2936 3138 3363 3914 4083 4649 4719 5074 5230 5243 5260 
+about Corona.txt 12 5 356 428 880 2847 3483 3752 3761 3904 4036 4452 4466 
+photometry Corona.txt 1 4443 
+rare Corona.txt 1 3077 
+carried Corona.txt 2 3722 4315 
+extension Corona.txt 2 1927 1980 
+package Corona.txt 1 5254 
+of Corona.txt 211 38 52 93 139 159 163 188 196 205 221 241 260 354 369 394 459 480 510 515 590 621 662 689 723 728 745 905 911 932 944 962 1083 1122 1162 1167 1192 1213 1225 1240 1294 1314 1344 1358 1380 1401 1416 1422 1429 1433 1439 1451 1478 1552 1565 1577 1584 1629 1672 1718 1738 1795 1824 1879 1906 1932 1934 1964 1971 1981 2010 2033 2036 2040 2064 2066 2081 2115 2147 2155 2171 2187 2199 2202 2221 2249 2260 2284 2318 2325 2375 2397 2412 2414 2416 2441 2480 2486 2499 2626 2643 2652 2660 2675 2678 2685 2692 2734 2741 2772 2781 2785 2789 2804 2871 2942 2948 3046 3052 3106 3118 3130 3153 3209 3236 3295 3369 3373 3376 3424 3444 3454 3473 3479 3499 3502 3531 3541 3554 3561 3576 3580 3587 3595 3623 3632 3643 3649 3697 3701 3707 3712 3737 3767 3802 3827 3831 3841 3857 3866 3871 3911 3920 3923 3956 4006 4013 4015 4022 4062 4074 4120 4131 4143 4163 4191 4199 4211 4241 4263 4339 4350 4386 4390 4401 4427 4439 4451 4468 4479 4551 4554 4586 4613 4691 4753 4785 4791 4898 4905 4940 4963 5026 5095 5168 5171 5174 5179 5217 5225 5278 5300 
+months Corona.txt 1 2077 
+ranges Corona.txt 2 1745 3796 
+generated Corona.txt 1 2978 
+range Corona.txt 5 661 2324 3152 4585 4620 
+important Corona.txt 2 1209 4141 
+plus Corona.txt 2 1299 1411 
+greatly Corona.txt 1 250 
+eit Corona.txt 1 5007 
+transients Corona.txt 2 2347 2362 
+connected Corona.txt 2 4665 4807 
+upward Corona.txt 1 4254 
+or Corona.txt 23 132 342 344 521 1056 1148 1172 1200 1616 1668 2357 2401 2513 2935 2977 3112 3918 3952 4763 4771 4820 5052 5086 
+seismology Corona.txt 6 3564 3569 3571 3610 3616 3645 
+alfvn-cyclotron Corona.txt 1 4692 
+own Corona.txt 1 3007 
+grotrian Corona.txt 1 140 
+colorado Corona.txt 1 5153 
+presence Corona.txt 3 2771 2941 4162 
+previously Corona.txt 2 115 4671 
+instruments Corona.txt 3 681 1234 5281 
+into Corona.txt 13 54 1028 2245 2418 4225 4332 4363 4404 4583 5036 5112 5207 5309 
+within Corona.txt 1 907 
+upwelling Corona.txt 1 624 
+three Corona.txt 3 214 412 2305 
+variable Corona.txt 1 2481 
+appropriate Corona.txt 1 4246 
+doesnt Corona.txt 1 5066 
+references Corona.txt 1 5315 
+shock Corona.txt 1 4226 
+heated Corona.txt 4 454 1010 5205 5297 
+proportional Corona.txt 1 3101 
+one-millionth Corona.txt 1 429 
+reconnections Corona.txt 1 2186 
+coronae Corona.txt 7 2428 2446 2455 2504 2552 2578 2624 
+bends Corona.txt 1 3292 
+behind Corona.txt 1 4885 
+analytically Corona.txt 1 4311 
+fill Corona.txt 2 971 1036 
+additional Corona.txt 1 5040 
+few Corona.txt 2 2667 5025 
+transfer Corona.txt 4 3399 3533 3819 3859 
+strictly Corona.txt 1 2746 
+constantly Corona.txt 1 485 
+question Corona.txt 1 3696 
+spots Corona.txt 1 648 
+why Corona.txt 1 3698 
+los Corona.txt 1 1263 
+board Corona.txt 1 4650 
+heliosphere Corona.txt 1 1597 
+low Corona.txt 3 2673 4174 4265 
+stars Corona.txt 6 46 2431 2436 2459 2559 2574 
+series Corona.txt 1 4962 
+astrophysics Corona.txt 2 5162 5170 
+9.5 Corona.txt 1 4064 
+magnetohydrodynamics Corona.txt 1 3591 
+was Corona.txt 5 4410 4986 5123 5137 5266 
+knowledge Corona.txt 1 5224 
+opens Corona.txt 1 1805 
+lowest Corona.txt 1 2759 
+considerably Corona.txt 1 2072 
+only Corona.txt 7 2232 2238 2831 2998 3537 3798 4465 
+north Corona.txt 2 1864 4801 
+complete Corona.txt 1 4380 
+so-called Corona.txt 1 736 
+metastable Corona.txt 1 157 
+some Corona.txt 10 104 460 1061 1448 1828 1994 2406 2453 3854 4217 
+hertzsprungrussell Corona.txt 1 2443 
+but Corona.txt 18 66 175 462 1275 1348 2579 2605 2711 2761 2817 3937 4288 4312 4491 4599 4971 4994 5019 
+back Corona.txt 1 4278 
+volume Corona.txt 4 220 3095 3111 3522 
+expected Corona.txt 1 5237 
+hemisphere Corona.txt 2 1508 1999 
+correlated Corona.txt 1 1758 
+quiescent Corona.txt 3 855 1201 4034 
+solar Corona.txt 77 18 64 370 375 498 563 570 578 605 627 752 777 875 935 959 968 974 995 1003 1033 1146 1297 1346 1387 1481 1490 1700 1720 1729 1813 1844 1873 1936 1966 1973 2106 2116 2173 2294 2355 2359 2399 2654 2858 3582 3691 3725 3746 3877 4018 4051 4065 4076 4108 4112 4206 4221 4395 4408 4416 4421 4489 4538 4559 4603 4630 4652 4677 4711 4721 4730 4886 4893 4929 5160 5247 5257 
+photon Corona.txt 1 3032 
+line Corona.txt 7 170 180 3269 3311 3544 4812 4829 
+chromospheres Corona.txt 2 2549 2622 
+with Corona.txt 35 71 263 528 559 615 972 1461 1662 1727 1734 1759 1951 2192 2492 2520 2531 2712 3069 3457 3469 3517 3584 3981 4184 4236 4374 4414 4441 4448 4561 4647 4673 4680 4903 5156 
+raising Corona.txt 1 3838 
+low-lying Corona.txt 1 156 
+made Corona.txt 4 2870 4119 4411 5047 
+consequences Corona.txt 1 2921 
+evident Corona.txt 1 1648 
+prevents Corona.txt 1 3739 
+110 Corona.txt 1 4618 
+uv Corona.txt 4 1822 2242 2268 2612 
+variations Corona.txt 3 1438 1753 5073 
+up Corona.txt 5 584 2523 4023 5048 5189 
+devices Corona.txt 1 3626 
+historically Corona.txt 1 2769 
+below Corona.txt 5 476 641 715 3015 3074 
+spectroscopy Corona.txt 1 3622 
+approaches Corona.txt 1 3630 
+unusually Corona.txt 1 2494 
+problem Corona.txt 8 1218 1244 3670 3685 3689 4235 4373 5201 
+stages Corona.txt 1 187 
+minutes Corona.txt 2 1170 2204 
+called Corona.txt 6 311 1046 1105 2343 2364 4750 
+x-ray Corona.txt 8 660 1702 1763 2451 2503 2570 2614 3979 
+distance Corona.txt 2 4061 4218 
+hz Corona.txt 2 4581 4619 
+150 Corona.txt 1 387 
+sometimes Corona.txt 3 2184 2332 2369 
+associated Corona.txt 2 614 1733 
+4:36 Corona.txt 1 2131 
+defined Corona.txt 1 1089 
+steady Corona.txt 1 1198 
+unravelling Corona.txt 1 4005 
+describe Corona.txt 1 4310 
+moved Corona.txt 1 4825 
+direction Corona.txt 7 3243 3256 3263 3344 3412 3415 3540 
+metals Corona.txt 2 166 2723 
+an Corona.txt 7 36 1238 1602 2226 2425 2493 3829 
+duration Corona.txt 2 2201 2312 
+as Corona.txt 42 153 251 420 422 430 713 865 889 1076 1090 1197 1236 1246 1476 1838 1888 2016 2018 2094 2301 2344 2725 3184 3224 3791 3820 3883 3942 4010 4232 4370 4484 4542 4544 4577 4579 4739 4769 4960 5003 5012 5139 
+capable Corona.txt 1 4426 
+exist Corona.txt 1 4478 
+periods Corona.txt 6 514 540 1191 1931 2320 4438 
+laboratory Corona.txt 2 3624 5163 
+corresponding Corona.txt 1 4456 
+20 Corona.txt 1 3465 
+indirect Corona.txt 1 4569 
+physical Corona.txt 4 361 1679 2177 2920 
+1,000 Corona.txt 1 4459 
+compared Corona.txt 1 406 
+no Corona.txt 1 264 
+amounts Corona.txt 1 4349 
+way Corona.txt 3 2093 3575 4756 
+individual Corona.txt 2 4783 5010 
+generally Corona.txt 2 740 2309 
+40 Corona.txt 1 2525 
+power Corona.txt 2 3872 4660 
+field Corona.txt 33 471 580 610 792 1323 1400 1432 1568 1608 1675 1741 1801 2190 3232 3249 3268 3289 3310 3325 3356 3405 3420 3543 3653 4166 4723 4777 4794 4811 4828 4861 4926 5085 
+other Corona.txt 10 10 45 678 1062 1449 3040 3855 4333 4865 5079 
+normal Corona.txt 2 3278 4597 
+spatial Corona.txt 1 5274 
+dipolar Corona.txt 1 1409 
+2006 Corona.txt 1 3141 
+cyclotron Corona.txt 1 3329 
+ribbons Corona.txt 1 869 
+test Corona.txt 1 5269 
+length-scales Corona.txt 1 3041 
+dissipate Corona.txt 2 4229 4291 
+polar Corona.txt 5 533 550 955 1776 1902 
+korn Corona.txt 1 87 
+kinds Corona.txt 2 2283 3634 
+energetic Corona.txt 1 2208 
+garland Corona.txt 1 88 
+gas Corona.txt 6 1632 2596 2812 2866 3024 4125 
+durations Corona.txt 1 2317 
+2005 Corona.txt 1 5099 
+coronas Corona.txt 2 358 409 
+m Corona.txt 1 3527 
+transported Corona.txt 1 487 
+meaning Corona.txt 1 81 
+coronal Corona.txt 68 145 334 529 618 705 737 827 899 915 920 924 926 953 984 987 998 1154 1185 1202 1205 1216 1219 1242 1310 1326 1356 1459 1472 1545 1765 1770 1772 1826 1849 1883 2007 2026 2053 2085 2253 2351 2361 2365 2376 2430 2791 2986 3048 3563 3568 3570 3606 3609 3644 3651 3668 3683 3687 3887 3931 3971 3985 4069 4501 4639 4957 5131 5284 
+allowing Corona.txt 2 1306 4858 
+3.4x10 Corona.txt 1 1750 
+depicting Corona.txt 1 776 
+structure Corona.txt 4 688 1127 1379 3658 
+stirred Corona.txt 1 4819 
+condensation Corona.txt 1 1107 
+e Corona.txt 1 317 
+faster Corona.txt 4 588 1897 3223 5188 
+coulomb Corona.txt 2 3448 3461 
+1800 Corona.txt 1 2901 
+normally Corona.txt 1 4780 
+proposed Corona.txt 3 3936 4095 4987 
+required Corona.txt 4 1267 3873 4471 4976 
+holes Corona.txt 8 530 1546 1766 1773 1827 1884 2008 4640 
+data Corona.txt 2 4524 5072 
+2003 Corona.txt 1 4323 
+nasa Corona.txt 2 1296 4048 
+mass Corona.txt 9 591 828 999 1123 2352 2366 2899 3440 5285 
+2007 Corona.txt 2 2638 5185 
+2004 Corona.txt 1 4522 
+time Corona.txt 4 1193 2823 3098 4440 
+far Corona.txt 1 3037 
+understand Corona.txt 1 4308 
+12 Corona.txt 1 2636 
+resolution Corona.txt 4 657 898 3976 3984 
+evenly Corona.txt 2 505 544 

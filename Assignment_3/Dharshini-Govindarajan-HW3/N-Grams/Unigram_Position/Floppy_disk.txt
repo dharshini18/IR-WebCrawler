@@ -1,0 +1,1545 @@
+limited Floppy_disk.txt 2 177 1068 
+magnetic Floppy_disk.txt 20 58 597 2359 2380 2545 2746 2951 2957 2993 3043 3052 3072 3085 3245 3262 3275 3351 3450 3454 4642 
+cdrom Floppy_disk.txt 1 6104 
+prefix Floppy_disk.txt 1 5938 
+circuitry Floppy_disk.txt 1 5579 
+calculate Floppy_disk.txt 1 5812 
+160 Floppy_disk.txt 1 5557 
+bays Floppy_disk.txt 1 4167 
+under Floppy_disk.txt 2 3405 6118 
+updated Floppy_disk.txt 1 4470 
+double-folded Floppy_disk.txt 1 2424 
+rise Floppy_disk.txt 1 1459 
+dell Floppy_disk.txt 2 1671 1689 
+read-write Floppy_disk.txt 2 3226 3236 
+synthesizers Floppy_disk.txt 1 1789 
+every Floppy_disk.txt 1 1279 
+updates Floppy_disk.txt 2 1744 1761 
+supports Floppy_disk.txt 2 4407 6055 
+companies Floppy_disk.txt 3 302 567 4703 
+solution Floppy_disk.txt 1 1323 
+persisted Floppy_disk.txt 1 674 
+enhance Floppy_disk.txt 1 936 
+glued Floppy_disk.txt 1 2427 
+force Floppy_disk.txt 2 2834 2841 
+consistent Floppy_disk.txt 1 5953 
+likely Floppy_disk.txt 2 3002 5771 
+write-protected Floppy_disk.txt 2 2763 2784 
+virtualization Floppy_disk.txt 1 1843 
+estimated Floppy_disk.txt 1 911 
+machines Floppy_disk.txt 5 1792 1903 2859 5377 5605 
+even Floppy_disk.txt 6 675 1375 2213 2265 2930 5220 
+established Floppy_disk.txt 1 1144 
+errors Floppy_disk.txt 6 1277 3433 3582 3584 3598 4012 
+incompatible Floppy_disk.txt 3 1055 4040 5173 
+specification Floppy_disk.txt 1 5235 
+fingers Floppy_disk.txt 1 3699 
+supplied Floppy_disk.txt 1 5626 
+unobstructed Floppy_disk.txt 1 4896 
+above Floppy_disk.txt 1 2447 
+memorex Floppy_disk.txt 2 285 305 
+new Floppy_disk.txt 3 635 1120 1388 
+increasing Floppy_disk.txt 2 889 5362 
+never Floppy_disk.txt 2 434 1411 
+here Floppy_disk.txt 1 5 
+protection Floppy_disk.txt 3 607 753 4671 
+repurpose Floppy_disk.txt 1 2049 
+employees Floppy_disk.txt 1 1960 
+vulnerability Floppy_disk.txt 1 2929 
+permit Floppy_disk.txt 1 3529 
+settled Floppy_disk.txt 1 4705 
+diameter Floppy_disk.txt 2 263 4191 
+secure Floppy_disk.txt 2 1606 1923 
+replace Floppy_disk.txt 1 2090 
+visible Floppy_disk.txt 1 4664 
+total Floppy_disk.txt 2 5345 5813 
+unit Floppy_disk.txt 3 774 3224 3231 
+would Floppy_disk.txt 6 995 1087 1683 3824 4095 5478 
+music Floppy_disk.txt 1 1777 
+type Floppy_disk.txt 2 46 333 
+until Floppy_disk.txt 1 3320 
+standardized Floppy_disk.txt 1 4165 
+wary Floppy_disk.txt 1 1126 
+expose Floppy_disk.txt 1 2975 
+it Floppy_disk.txt 31 433 520 631 1255 1286 1312 1333 2365 2437 2448 2450 2547 2730 2766 2953 2976 3119 3134 3406 3431 3436 3866 3885 4224 4635 4933 4946 5052 5633 5757 6066 
+excellent Floppy_disk.txt 1 3216 
+90 Floppy_disk.txt 4 102 4712 5243 5248 
+hole Floppy_disk.txt 12 2313 2352 2369 2539 2595 2652 2726 3815 4593 4855 4881 4897 
+hold Floppy_disk.txt 2 1483 5967 
+must Floppy_disk.txt 1 2981 
+abundance Floppy_disk.txt 1 2039 
+word Floppy_disk.txt 2 4262 5149 
+1996 Floppy_disk.txt 1 907 
+mm Floppy_disk.txt 9 92 99 103 261 560 562 4713 5244 5249 
+1998 Floppy_disk.txt 1 1346 
+oxide Floppy_disk.txt 1 3451 
+example Floppy_disk.txt 8 3035 4117 5319 5382 5517 5748 5929 6051 
+motor-operated Floppy_disk.txt 1 3271 
+unreadable Floppy_disk.txt 2 4097 4477 
+2.88 Floppy_disk.txt 1 484 
+indicates Floppy_disk.txt 2 2814 4595 
+keep Floppy_disk.txt 1 2410 
+aging Floppy_disk.txt 1 1733 
+end Floppy_disk.txt 4 692 2135 3513 3569 
+recovery Floppy_disk.txt 1 1775 
+carriers Floppy_disk.txt 1 1491 
+provide Floppy_disk.txt 1 1016 
+damage Floppy_disk.txt 4 602 1158 3005 3077 
+machine Floppy_disk.txt 1 3122 
+very Floppy_disk.txt 3 436 949 3969 
+widespread Floppy_disk.txt 2 1437 1645 
+ibms Floppy_disk.txt 1 4226 
+one-part Floppy_disk.txt 1 2422 
+earlier Floppy_disk.txt 2 620 3058 
+wrong Floppy_disk.txt 1 3135 
+cmos-magview Floppy_disk.txt 1 3253 
+types Floppy_disk.txt 2 2627 3059 
+attempt Floppy_disk.txt 2 934 5674 
+third Floppy_disk.txt 1 787 
+upside Floppy_disk.txt 1 3192 
+order Floppy_disk.txt 2 1957 3455 
+operations Floppy_disk.txt 1 3289 
+executed Floppy_disk.txt 1 1754 
+office Floppy_disk.txt 2 2079 2263 
+over Floppy_disk.txt 8 575 588 2486 3949 4294 4557 4571 5285 
+vary Floppy_disk.txt 1 5355 
+lower-cost Floppy_disk.txt 1 4323 
+before Floppy_disk.txt 4 834 1332 2181 3834 
+difference Floppy_disk.txt 1 5727 
+fit Floppy_disk.txt 4 3214 4044 4164 5783 
+personal Floppy_disk.txt 1 824 
+writing Floppy_disk.txt 8 1294 1406 1417 2469 2481 2509 2702 4982 
+better Floppy_disk.txt 2 752 3530 
+400 Floppy_disk.txt 2 4786 5548 
+hidden Floppy_disk.txt 1 6154 
+eventually Floppy_disk.txt 4 992 4576 4704 5592 
+them Floppy_disk.txt 5 2411 4556 4904 5677 5731 
+combination Floppy_disk.txt 1 5918 
+incorrectly Floppy_disk.txt 1 1300 
+penetration Floppy_disk.txt 1 1096 
+they Floppy_disk.txt 10 185 264 568 1281 1694 3403 4068 5368 5401 5611 
+high-capacity Floppy_disk.txt 2 1389 4597 
+represents Floppy_disk.txt 1 6110 
+arrow Floppy_disk.txt 1 2810 
+each Floppy_disk.txt 8 2556 2579 3470 3540 5448 5465 5514 5825 
+side Floppy_disk.txt 8 2513 2716 3166 4550 5006 5339 5553 5853 
+schemes Floppy_disk.txt 1 380 
+adobe Floppy_disk.txt 1 898 
+used Floppy_disk.txt 30 141 618 847 1089 1335 1488 1728 1771 1861 1887 2112 2177 2247 2485 2549 2621 4204 4257 4265 4457 4530 4578 4779 5140 5184 5511 5572 5699 5983 6132 
+enclosure Floppy_disk.txt 1 66 
+network Floppy_disk.txt 1 1538 
+cds/dvds Floppy_disk.txt 1 987 
+particles Floppy_disk.txt 6 73 2402 3358 3390 3458 3465 
+sliding Floppy_disk.txt 4 585 605 3079 4866 
+turning Floppy_disk.txt 3 1254 4555 4570 
+linear Floppy_disk.txt 1 4822 
+little Floppy_disk.txt 2 1631 3149 
+3740 Floppy_disk.txt 1 4231 
+standard Floppy_disk.txt 15 914 969 1145 1480 1587 1666 1785 2791 2861 4251 5408 5753 5787 6015 6061 
+kit Floppy_disk.txt 1 1038 
+universally Floppy_disk.txt 1 4579 
+certified Floppy_disk.txt 1 4518 
+shipped Floppy_disk.txt 2 4750 4772 
+moving Floppy_disk.txt 2 3907 6117 
+loud Floppy_disk.txt 1 4003 
+cleaning Floppy_disk.txt 1 1037 
+industrial Floppy_disk.txt 4 182 1797 1805 1823 
+render Floppy_disk.txt 1 996 
+primary Floppy_disk.txt 2 2172 2191 
+spinning Floppy_disk.txt 3 2997 5433 5530 
+formatssome Floppy_disk.txt 1 2027 
+another Floppy_disk.txt 2 1442 2526 
+top Floppy_disk.txt 2 2797 2812 
+approximately Floppy_disk.txt 2 6006 6099 
+needed Floppy_disk.txt 4 1199 3932 4545 5125 
+too Floppy_disk.txt 1 523 
+ranging Floppy_disk.txt 1 6004 
+somewhat Floppy_disk.txt 1 6127 
+peculiar Floppy_disk.txt 1 5939 
+1978 Floppy_disk.txt 1 357 
+enabled Floppy_disk.txt 2 1642 2045 
+scenes Floppy_disk.txt 1 2070 
+idle Floppy_disk.txt 1 1339 
+feeling Floppy_disk.txt 1 1607 
+powers Floppy_disk.txt 2 5820 5888 
+minifloppy Floppy_disk.txt 1 4383 
+mini Floppy_disk.txt 2 4378 4380 
+disambiguation Floppy_disk.txt 1 11 
+modern Floppy_disk.txt 2 1014 2008 
+raw Floppy_disk.txt 2 6078 6114 
+seen Floppy_disk.txt 1 2212 
+contents Floppy_disk.txt 1 220 
+dozen Floppy_disk.txt 1 902 
+front-ends Floppy_disk.txt 1 2053 
+implemented Floppy_disk.txt 1 5523 
+convenient Floppy_disk.txt 1 1415 
+responsible Floppy_disk.txt 1 3987 
+pocket-sized Floppy_disk.txt 1 5122 
+contact Floppy_disk.txt 2 3300 3319 
+forces Floppy_disk.txt 1 2123 
+though Floppy_disk.txt 4 676 2266 5226 5247 
+coil Floppy_disk.txt 2 3341 3401 
+calculated Floppy_disk.txt 1 5903 
+metal Floppy_disk.txt 5 586 769 2709 2733 3080 
+enterprise Floppy_disk.txt 1 1950 
+dos Floppy_disk.txt 2 2646 4007 
+1760 Floppy_disk.txt 1 6009 
+came Floppy_disk.txt 3 709 1365 5566 
+labels Floppy_disk.txt 1 238 
+attempts Floppy_disk.txt 3 3615 3921 4111 
+solutions Floppy_disk.txt 1 543 
+stepping Floppy_disk.txt 1 4409 
+subtle Floppy_disk.txt 1 4079 
+availability Floppy_disk.txt 4 1498 1660 1838 4497 
+just Floppy_disk.txt 2 42 3821 
+guidance Floppy_disk.txt 1 958 
+do Floppy_disk.txt 6 1844 1905 2647 3133 3825 4415 
+8-inch Floppy_disk.txt 19 12 18 90 154 223 393 518 2107 2278 2285 2297 2461 4150 4179 4269 4284 4289 4334 4350 
+dvds Floppy_disk.txt 1 929 
+wide Floppy_disk.txt 1 4714 
+dual-head Floppy_disk.txt 1 4562 
+altogether Floppy_disk.txt 1 5051 
+report Floppy_disk.txt 1 2082 
+disadvantage Floppy_disk.txt 1 5569 
+countries Floppy_disk.txt 1 5222 
+fields Floppy_disk.txt 2 2958 6139 
+bad Floppy_disk.txt 2 1310 5665 
+discs Floppy_disk.txt 1 211 
+favors Floppy_disk.txt 1 5819 
+release Floppy_disk.txt 2 1100 2260 
+reference Floppy_disk.txt 2 3874 3981 
+1960s Floppy_disk.txt 1 256 
+depends Floppy_disk.txt 1 5732 
+radius Floppy_disk.txt 1 5317 
+result Floppy_disk.txt 2 5772 6001 
+corrupt Floppy_disk.txt 1 1765 
+microcode Floppy_disk.txt 1 4212 
+techniques Floppy_disk.txt 2 4357 6033 
+capacity Floppy_disk.txt 23 196 407 742 962 1377 1534 1977 4313 4346 4789 4802 4909 5202 5565 5709 5746 5814 5837 5901 5946 5975 6032 6059 
+rings Floppy_disk.txt 2 3488 5313 
+protected Floppy_disk.txt 2 2704 4193 
+solenoid Floppy_disk.txt 1 3311 
+360 Floppy_disk.txt 4 416 4392 4742 5070 
+terms Floppy_disk.txt 2 342 5261 
+however Floppy_disk.txt 4 760 1405 6068 6122 
+convertible Floppy_disk.txt 1 450 
+packages Floppy_disk.txt 2 894 923 
+protect Floppy_disk.txt 1 594 
+against Floppy_disk.txt 1 4630 
+appeared Floppy_disk.txt 2 315 5792 
+megabyte Floppy_disk.txt 1 5958 
+height Floppy_disk.txt 1 21 
+loaded Floppy_disk.txt 2 1818 3800 
+256 Floppy_disk.txt 1 5891 
+immobile Floppy_disk.txt 1 3873 
+clip Floppy_disk.txt 1 3811 
+three Floppy_disk.txt 1 4914 
+been Floppy_disk.txt 6 187 699 2065 2962 3022 5874 
+much Floppy_disk.txt 7 194 2020 4312 5196 5289 6035 6093 
+diskettes Floppy_disk.txt 4 157 235 487 2293 
+basic Floppy_disk.txt 1 866 
+flexible Floppy_disk.txt 2 57 4196 
+cutouts Floppy_disk.txt 1 3183 
+non-apple-macintosh Floppy_disk.txt 1 2858 
+affixed Floppy_disk.txt 1 239 
+catch Floppy_disk.txt 3 2401 3628 3686 
+spin Floppy_disk.txt 1 2362 
+applied Floppy_disk.txt 1 3239 
+has Floppy_disk.txt 15 1863 2000 2044 2233 2331 2691 2731 2821 2876 3021 3107 3446 3544 3900 4411 
+air Floppy_disk.txt 2 1164 1168 
+near Floppy_disk.txt 2 2530 5470 
+formatting Floppy_disk.txt 3 3460 5618 5687 
+study Floppy_disk.txt 1 3150 
+changed Floppy_disk.txt 1 2905 
+is Floppy_disk.txt 83 44 1198 1202 1208 1219 1228 1313 1319 1324 1334 1521 1853 1860 1920 1945 2245 2323 2388 2419 2438 2451 2465 2477 2548 2564 2599 2680 2762 2767 2803 2885 2894 2904 2927 2939 2954 2995 3001 3040 3090 3100 3127 3207 3238 3337 3369 3410 3499 3560 3625 3637 3722 3745 3856 3881 3886 3910 3942 3986 4384 4674 4883 4934 4955 4968 5053 5214 5229 5239 5250 5281 5300 5518 5619 5758 5830 5842 5902 5976 5987 6067 6091 6126 
+accessories Floppy_disk.txt 1 1361 
+ii Floppy_disk.txt 3 3959 4000 4093 
+cant Floppy_disk.txt 1 3162 
+in Floppy_disk.txt 108 62 96 253 262 268 282 316 324 347 412 418 453 465 477 488 536 649 782 820 868 906 917 944 1041 1050 1090 1094 1154 1295 1314 1345 1433 1445 1532 1552 1668 1718 1732 1822 1913 1956 1989 1992 2071 2314 2325 2336 2353 2383 2459 2471 2543 2727 2779 2804 2849 3055 3092 3173 3257 3342 3374 3391 3398 3523 3653 3664 3789 3830 3852 3876 4074 4157 4190 4221 4336 4371 4531 4682 4696 4751 4756 4773 4793 4842 4856 4898 4910 4978 5097 5133 5185 5218 5221 5231 5241 5260 5306 5464 5525 5728 5773 5857 5876 5897 5913 5985 6002 
+2-inch Floppy_disk.txt 2 5152 5174 
+if Floppy_disk.txt 7 1759 2449 2901 3131 3613 4860 4952 
+emergency Floppy_disk.txt 2 1597 1730 
+purchasable Floppy_disk.txt 1 1703 
+perform Floppy_disk.txt 1 1773 
+make Floppy_disk.txt 3 1896 5016 5056 
+accumulating Floppy_disk.txt 1 2413 
+entitled Floppy_disk.txt 1 5240 
+differing Floppy_disk.txt 1 2636 
+hand Floppy_disk.txt 1 3017 
+kib Floppy_disk.txt 2 5952 6010 
+programs Floppy_disk.txt 2 1750 1815 
+1976 Floppy_disk.txt 1 348 
+write-once Floppy_disk.txt 1 6070 
+1973 Floppy_disk.txt 2 325 4227 
+1972 Floppy_disk.txt 2 283 4222 
+1971 Floppy_disk.txt 1 269 
+1970 Floppy_disk.txt 1 321 
+materials Floppy_disk.txt 1 2748 
+the Floppy_disk.txt 422 115 118 122 244 247 254 311 332 336 341 352 388 392 399 404 409 426 441 456 462 500 505 517 526 576 589 595 615 622 627 645 663 667 670 691 694 717 725 729 733 736 771 783 816 840 871 885 888 937 942 945 1051 1062 1070 1076 1085 1105 1113 1117 1140 1143 1170 1177 1184 1193 1196 1200 1206 1211 1214 1217 1222 1225 1231 1234 1243 1245 1250 1263 1271 1316 1320 1322 1330 1343 1363 1386 1393 1422 1458 1469 1478 1496 1516 1553 1573 1604 1610 1616 1636 1644 1659 1677 1776 1908 1914 1924 1976 1984 1994 2004 2016 2038 2074 2085 2115 2119 2124 2131 2134 2137 2167 2171 2182 2190 2241 2259 2267 2284 2296 2315 2321 2341 2354 2358 2371 2379 2384 2386 2394 2397 2407 2415 2417 2454 2460 2463 2472 2475 2487 2491 2494 2511 2531 2534 2537 2544 2552 2562 2567 2602 2611 2617 2632 2650 2653 2661 2674 2677 2681 2684 2689 2706 2715 2720 2728 2738 2741 2753 2760 2777 2801 2805 2818 2828 2835 2839 2844 2847 2874 2907 2911 2919 2924 2936 2971 2989 2992 3007 3015 3018 3041 3071 3083 3088 3098 3103 3105 3121 3139 3143 3153 3170 3177 3185 3195 3203 3218 3235 3241 3258 3261 3274 3280 3283 3291 3297 3301 3315 3343 3346 3349 3354 3357 3361 3364 3367 3371 3375 3386 3389 3392 3399 3415 3421 3426 3438 3457 3461 3464 3476 3484 3490 3508 3512 3515 3524 3549 3553 3563 3568 3571 3576 3594 3602 3610 3618 3632 3635 3642 3648 3657 3662 3670 3681 3685 3696 3702 3715 3725 3728 3731 3742 3758 3766 3768 3772 3775 3779 3783 3787 3790 3817 3840 3849 3868 3879 3892 3898 3904 3917 3919 3924 3926 3944 3957 3977 3980 3989 3995 4002 4061 4065 4084 4118 4122 4126 4148 4169 4183 4230 4237 4245 4275 4286 4329 4333 4343 4348 4362 4372 4405 4496 4504 4509 4524 4600 4605 4613 4618 4621 4631 4638 4641 4656 4658 4669 4683 4760 4764 4775 4800 4806 4812 4821 4825 4863 4876 4879 4886 4888 4899 4913 4953 4964 4974 5001 5004 5024 5043 5083 5157 5181 5186 5227 5233 5279 5292 5320 5359 5365 5411 5431 5439 5442 5455 5461 5471 5482 5489 5493 5505 5531 5536 5540 5544 5570 5613 5628 5642 5652 5669 5690 5707 5717 5726 5734 5744 5833 5836 5843 5877 5907 5936 5980 5990 6030 6052 6077 6111 6119 6123 
+800 Floppy_disk.txt 1 4797 
+corporate Floppy_disk.txt 1 1891 
+investments Floppy_disk.txt 1 1130 
+left Floppy_disk.txt 3 2755 2813 4676 
+proposed Floppy_disk.txt 1 5117 
+laptop Floppy_disk.txt 1 451 
+distribute Floppy_disk.txt 1 827 
+rotated Floppy_disk.txt 1 3325 
+aftermarket Floppy_disk.txt 1 1706 
+identify Floppy_disk.txt 1 2218 
+incentive Floppy_disk.txt 1 1633 
+rotates Floppy_disk.txt 3 3260 3348 4636 
+visualization Floppy_disk.txt 1 3243 
+unique Floppy_disk.txt 2 5574 5607 
+had Floppy_disk.txt 8 681 698 721 1623 2575 4144 5094 5685 
+save Floppy_disk.txt 1 2160 
+3.5-inch Floppy_disk.txt 1 1032 
+usable Floppy_disk.txt 1 5973 
+dsed Floppy_disk.txt 1 486 
+possible Floppy_disk.txt 6 3115 3928 4936 4998 5054 6047 
+solid-state Floppy_disk.txt 1 988 
+highly Floppy_disk.txt 1 2940 
+advanced Floppy_disk.txt 1 877 
+apart Floppy_disk.txt 1 2775 
+air-gapping Floppy_disk.txt 1 1517 
+flaps Floppy_disk.txt 1 2426 
+floppy-disk Floppy_disk.txt 2 982 1878 
+outselling Floppy_disk.txt 1 666 
+right Floppy_disk.txt 3 2757 2798 5005 
+old Floppy_disk.txt 5 577 1122 2041 2058 2101 
+sends Floppy_disk.txt 1 3435 
+platters Floppy_disk.txt 1 5863 
+donald Floppy_disk.txt 1 3031 
+altered Floppy_disk.txt 1 5013 
+norman Floppy_disk.txt 1 3032 
+5-inch Floppy_disk.txt 24 13 19 97 153 354 389 410 506 628 668 696 719 772 2280 2292 2299 2473 3666 3707 4056 4086 4151 4330 4358 
+for Floppy_disk.txt 67 6 152 231 395 483 633 1019 1082 1152 1325 1455 1492 1593 1603 1647 1729 1737 1742 1836 1866 1888 1901 1928 1973 2054 2149 2162 2238 2317 2578 2656 2699 3024 3045 3432 3519 3695 3864 3913 3988 4089 4116 4176 4252 4258 4272 4281 4508 4534 4949 4990 5033 5119 5141 5164 5318 5343 5381 5499 5512 5655 5702 5747 5751 5928 6050 6133 
+bottom Floppy_disk.txt 1 2754 
+ubiquity Floppy_disk.txt 1 796 
+core Floppy_disk.txt 1 2675 
+disappeared Floppy_disk.txt 2 403 723 
+selectable Floppy_disk.txt 1 1700 
+accepts Floppy_disk.txt 1 808 
+eight Floppy_disk.txt 2 3114 3196 
+automatically Floppy_disk.txt 3 3095 3592 3713 
+down Floppy_disk.txt 1 3193 
+1990s Floppy_disk.txt 6 819 887 947 1049 1053 2183 
+reducing Floppy_disk.txt 1 4628 
+often Floppy_disk.txt 7 846 1954 2659 4264 5215 5386 5698 
+fabric Floppy_disk.txt 3 69 2377 2387 
+support Floppy_disk.txt 5 1018 1646 1736 1907 4731 
+width Floppy_disk.txt 1 4485 
+way Floppy_disk.txt 2 3178 4209 
+was Floppy_disk.txt 38 415 495 521 610 657 665 776 924 941 1067 1097 1399 1410 1630 2170 2665 3324 3330 4018 4187 4192 4200 4225 4279 4327 4512 4543 4547 4803 4827 4947 4997 5160 5176 5183 5538 5679 5777 
+war Floppy_disk.txt 1 974 
+head Floppy_disk.txt 24 590 957 1187 1218 1267 3010 3227 3237 3298 3344 3362 3400 3660 3846 3870 3880 3905 3925 3945 4363 4817 5537 6040 6121 
+medium Floppy_disk.txt 10 60 598 1223 2308 2322 2360 2381 2395 2938 3263 
+form Floppy_disk.txt 2 108 4110 
+manufacturers Floppy_disk.txt 6 363 656 1580 1654 4689 5742 
+attempted Floppy_disk.txt 1 4019 
+differences Floppy_disk.txt 1 5996 
+removes Floppy_disk.txt 1 71 
+failure Floppy_disk.txt 5 498 1093 2889 3608 3795 
+removed Floppy_disk.txt 4 29 2987 3804 4616 
+versions Floppy_disk.txt 3 377 1103 4298 
+inside Floppy_disk.txt 3 2283 2370 2931 
+maximum Floppy_disk.txt 2 3927 6079 
+devices Floppy_disk.txt 5 1435 1529 1868 2497 5123 
+3.54 Floppy_disk.txt 1 5253 
+computing Floppy_disk.txt 1 2179 
+request Floppy_disk.txt 1 5361 
+advancements Floppy_disk.txt 1 1432 
+sticky Floppy_disk.txt 1 1258 
+check Floppy_disk.txt 1 3558 
+physical Floppy_disk.txt 4 2268 2576 3984 5508 
+marking Floppy_disk.txt 1 2610 
+no Floppy_disk.txt 9 768 1352 1684 1850 1864 2143 3453 3497 3761 
+whereas Floppy_disk.txt 1 5815 
+when Floppy_disk.txt 18 1205 1311 1421 1537 1543 2825 2882 3087 3097 3366 3719 3757 3894 3973 4010 4615 5535 5694 
+power Floppy_disk.txt 2 3794 4127 
+holding Floppy_disk.txt 2 5284 5441 
+digital Floppy_disk.txt 1 1466 
+picture Floppy_disk.txt 1 2227 
+permitting Floppy_disk.txt 2 1936 5779 
+models Floppy_disk.txt 2 476 492 
+update Floppy_disk.txt 1 2128 
+billion Floppy_disk.txt 1 913 
+faster Floppy_disk.txt 1 1509 
+1,474,560 Floppy_disk.txt 1 5347 
+assume Floppy_disk.txt 1 1301 
+space-efficient Floppy_disk.txt 1 5476 
+together Floppy_disk.txt 3 2430 5273 5298 
+jacket Floppy_disk.txt 1 4198 
+cautioning Floppy_disk.txt 1 2970 
+backward Floppy_disk.txt 2 3169 3190 
+rom Floppy_disk.txt 2 212 869 
+fingernailis Floppy_disk.txt 1 2034 
+layers Floppy_disk.txt 1 2375 
+21st Floppy_disk.txt 2 123 1555 
+aligned Floppy_disk.txt 2 3467 3912 
+zone Floppy_disk.txt 1 5519 
+flash Floppy_disk.txt 8 200 202 989 1649 1889 1964 2012 2024 
+sneakernet Floppy_disk.txt 3 1490 1520 2203 
+advantage Floppy_disk.txt 1 1398 
+keeping Floppy_disk.txt 1 5502 
+locked Floppy_disk.txt 1 5662 
+nor Floppy_disk.txt 1 5959 
+did Floppy_disk.txt 3 3063 4147 4308 
+mb Floppy_disk.txt 17 428 458 485 965 4304 4370 4769 4839 4891 5391 5750 5781 5931 5969 6012 6024 6058 
+accidentally Floppy_disk.txt 1 3645 
+quick Floppy_disk.txt 1 5686 
+lever Floppy_disk.txt 3 3323 3630 3688 
+round Floppy_disk.txt 1 2306 
+prevent Floppy_disk.txt 5 1266 1959 3184 3641 4973 
+obsolete Floppy_disk.txt 5 1002 1392 1454 2273 5101 
+initializes Floppy_disk.txt 1 5645 
+cost Floppy_disk.txt 3 1618 1833 4511 
+port Floppy_disk.txt 1 1883 
+stirred-up Floppy_disk.txt 1 1226 
+current Floppy_disk.txt 3 1909 3336 3368 
+goes Floppy_disk.txt 1 3172 
+shared Floppy_disk.txt 1 570 
+address Floppy_disk.txt 1 5828 
+along Floppy_disk.txt 1 3279 
+change Floppy_disk.txt 1 2490 
+box Floppy_disk.txt 2 5267 5294 
+commonly Floppy_disk.txt 1 1487 
+accomplished Floppy_disk.txt 2 3307 3857 
+usually Floppy_disk.txt 7 165 781 2420 2820 4080 4506 5620 
+macintosh Floppy_disk.txt 5 3736 4123 4128 4777 5527 
+regardless Floppy_disk.txt 1 5450 
+extra Floppy_disk.txt 1 5556 
+marked Floppy_disk.txt 1 5663 
+rarely Floppy_disk.txt 1 129 
+market Floppy_disk.txt 4 624 640 1095 5197 
+non-standard Floppy_disk.txt 1 156 
+working Floppy_disk.txt 1 4977 
+msx Floppy_disk.txt 1 5414 
+memory Floppy_disk.txt 4 1965 2025 5277 5817 
+sharing Floppy_disk.txt 1 1462 
+clicking Floppy_disk.txt 1 3993 
+consoles Floppy_disk.txt 1 1796 
+rigid Floppy_disk.txt 2 581 748 
+cases Floppy_disk.txt 2 1092 5899 
+2,880 Floppy_disk.txt 1 5948 
+ibm Floppy_disk.txt 12 274 299 326 420 438 479 2102 2850 4135 4206 4244 5412 
+originally Floppy_disk.txt 2 510 3306 
+modified Floppy_disk.txt 1 2519 
+can Floppy_disk.txt 24 139 1156 1751 1768 1873 1885 2217 2456 3579 3588 3781 3802 3837 4043 4396 4438 4455 4869 4925 5011 5354 5660 5864 6000 
+lubricant Floppy_disk.txt 1 1253 
+usability Floppy_disk.txt 2 2921 3027 
+cost-saving Floppy_disk.txt 1 2669 
+1980s Floppy_disk.txt 4 502 695 817 4685 
+locks Floppy_disk.txt 1 3674 
+redundancy Floppy_disk.txt 1 3557 
+ls-240 Floppy_disk.txt 1 6053 
+1 Floppy_disk.txt 3 334 4247 4591 
+minicomputers Floppy_disk.txt 1 2104 
+product Floppy_disk.txt 1 5844 
+designer Floppy_disk.txt 1 3144 
+may Floppy_disk.txt 9 1261 1287 1807 1827 1894 2072 2483 2867 5369 
+sectored Floppy_disk.txt 2 2585 2589 
+applications Floppy_disk.txt 4 397 4307 4338 5384 
+mac Floppy_disk.txt 1 5582 
+produce Floppy_disk.txt 1 3968 
+designed Floppy_disk.txt 3 511 2389 2655 
+such Floppy_disk.txt 17 197 303 365 381 1022 1513 1800 2257 2518 2643 2657 3955 4416 5041 5799 5998 6027 
+data Floppy_disk.txt 32 110 190 532 830 951 1291 1423 1548 1813 1972 2195 2240 2348 2703 3013 3335 3382 3385 3429 3483 3498 3543 3573 3619 4232 4654 5098 5290 5299 5545 5974 6115 
+compatibility Floppy_disk.txt 1 5035 
+times Floppy_disk.txt 1 5287 
+succeeded Floppy_disk.txt 1 4332 
+switch Floppy_disk.txt 4 2444 2879 2893 4413 
+so Floppy_disk.txt 12 1137 1628 3000 3160 3574 3756 3883 4317 4819 5667 5682 5768 
+progressively Floppy_disk.txt 1 1657 
+representation Floppy_disk.txt 1 4649 
+se Floppy_disk.txt 1 4124 
+typical Floppy_disk.txt 1 2743 
+mainly Floppy_disk.txt 1 2666 
+years Floppy_disk.txt 2 120 1153 
+still Floppy_disk.txt 14 174 1010 1581 1696 1752 1781 1895 2111 2246 2996 3620 5169 5403 5606 
+adhesive Floppy_disk.txt 2 237 616 
+thumb Floppy_disk.txt 1 3697 
+how Floppy_disk.txt 1 3234 
+microcomputer Floppy_disk.txt 2 4306 5418 
+a.k.a Floppy_disk.txt 2 4377 4715 
+main Floppy_disk.txt 4 240 4022 5107 5204 
+decades Floppy_disk.txt 1 2166 
+thereby Floppy_disk.txt 1 5501 
+512-byte Floppy_disk.txt 1 5949 
+40track Floppy_disk.txt 6 4390 4401 4429 4453 4466 4480 
+drilling Floppy_disk.txt 1 4995 
+half Floppy_disk.txt 1 790 
+not Floppy_disk.txt 23 1110 1522 1808 1828 1845 1906 1921 2452 2561 2648 2973 2982 3064 3091 4309 4544 4663 5370 5585 5673 5715 5763 6045 
+now Floppy_disk.txt 1 5883 
+rattles Floppy_disk.txt 1 4004 
+term Floppy_disk.txt 2 312 671 
+january Floppy_disk.txt 1 1711 
+synchronize Floppy_disk.txt 1 3844 
+square Floppy_disk.txt 3 2327 3109 3157 
+gaps Floppy_disk.txt 2 3501 6135 
+year Floppy_disk.txt 1 2140 
+intended Floppy_disk.txt 2 4948 4989 
+shown Floppy_disk.txt 1 230 
+factors Floppy_disk.txt 1 2225 
+furthermore Floppy_disk.txt 1 2015 
+increase Floppy_disk.txt 1 5481 
+contained Floppy_disk.txt 3 1720 2324 4069 
+nominal Floppy_disk.txt 1 5153 
+internet Floppy_disk.txt 1 1503 
+hci Floppy_disk.txt 1 3029 
+sensor Floppy_disk.txt 5 2663 3862 3899 3918 3967 
+correct Floppy_disk.txt 4 2568 2806 3128 3208 
+shows Floppy_disk.txt 1 3151 
+after Floppy_disk.txt 2 1336 3622 
+variable-speed Floppy_disk.txt 1 5615 
+sideways Floppy_disk.txt 1 3141 
+mechanisms Floppy_disk.txt 2 3954 4073 
+overheads Floppy_disk.txt 1 6090 
+20 Floppy_disk.txt 1 1627 
+advantages Floppy_disk.txt 4 574 734 1531 1988 
+emulation Floppy_disk.txt 1 1841 
+wi-fi Floppy_disk.txt 1 1919 
+card Floppy_disk.txt 1 2026 
+care Floppy_disk.txt 1 5809 
+transition Floppy_disk.txt 1 4062 
+write-enabled Floppy_disk.txt 1 4862 
+motion Floppy_disk.txt 1 3941 
+turn Floppy_disk.txt 2 1446 5986 
+unformatted Floppy_disk.txt 4 3444 4101 5708 5745 
+fd Floppy_disk.txt 1 2158 
+512 Floppy_disk.txt 3 5328 5462 5893 
+first Floppy_disk.txt 7 119 248 329 353 4184 4776 4956 
+saving Floppy_disk.txt 2 2239 2255 
+striking Floppy_disk.txt 2 3871 3985 
+one Floppy_disk.txt 18 394 1426 2593 2917 3124 3198 3206 3212 3379 3823 4046 4266 4315 4549 4651 4857 5027 5275 
+fast Floppy_disk.txt 2 1413 1502 
+directly Floppy_disk.txt 1 3359 
+ring Floppy_disk.txt 1 2792 
+open Floppy_disk.txt 2 1235 2478 
+angular Floppy_disk.txt 5 2553 5308 5426 5459 5596 
+size Floppy_disk.txt 14 745 891 1563 4047 4320 4335 4351 5154 5213 5228 5460 5823 5847 5909 
+interchange Floppy_disk.txt 1 4254 
+given Floppy_disk.txt 1 4507 
+sheet Floppy_disk.txt 2 2423 4627 
+plastic Floppy_disk.txt 10 65 2307 2328 2711 2934 3057 3067 4197 4622 4644 
+indicate Floppy_disk.txt 1 2758 
+cooling Floppy_disk.txt 1 1165 
+2 Floppy_disk.txt 7 549 550 1714 4599 5749 5868 6023 
+circa Floppy_disk.txt 1 1047 
+bits Floppy_disk.txt 1 6116 
+hub Floppy_disk.txt 3 2734 3651 4601 
+that Floppy_disk.txt 42 70 791 807 859 1166 1302 1318 1444 1680 1862 1884 1904 2061 2083 2330 2436 2800 2824 2880 3147 3152 3211 3547 3575 3884 3938 4146 4235 4311 4387 4513 4594 4602 4611 4820 4882 4908 5124 5581 5668 5760 6101 
+floppy Floppy_disk.txt 114 0 3 10 16 27 34 39 74 82 86 133 137 146 171 245 250 313 343 346 370 430 672 679 688 731 800 811 843 882 915 1006 1035 1057 1147 1353 1358 1390 1394 1419 1429 1449 1484 1559 1583 1621 1662 1681 1722 1725 1757 1766 1786 1870 1899 1925 1985 1998 2017 2042 2059 2108 2151 2168 2187 2207 2220 2231 2242 2269 2286 2300 2862 2925 3020 3051 3061 3242 3248 3416 3740 3776 4024 4030 4036 4180 4185 4214 4240 4359 4581 4589 4679 4692 4709 4722 4782 4918 5059 5109 5114 5159 5175 5208 5211 5271 5304 5325 5600 5695 5712 5737 5756 6018 6085 
+continuous Floppy_disk.txt 1 1837 
+padding Floppy_disk.txt 1 3503 
+released Floppy_disk.txt 1 2080 
+eliminated Floppy_disk.txt 1 1401 
+than Floppy_disk.txt 14 361 516 614 1474 2003 2022 2032 2164 2723 4386 4945 4986 5867 5911 
+specify Floppy_disk.txt 1 5743 
+population Floppy_disk.txt 1 842 
+10 Floppy_disk.txt 2 362 2142 
+pre-formatted Floppy_disk.txt 1 5701 
+notcher Floppy_disk.txt 1 2289 
+18 Floppy_disk.txt 3 5332 5400 5496 
+require Floppy_disk.txt 3 3290 5808 6034 
+coats Floppy_disk.txt 1 1180 
+legacy Floppy_disk.txt 3 181 2091 2153 
+were Floppy_disk.txt 35 105 128 257 278 293 359 368 544 739 845 909 1059 1125 1486 1695 2184 2189 2498 2582 4058 4112 4155 4173 4422 4490 4517 4572 4791 4988 5116 5137 5385 5421 5697 5705 
+cards Floppy_disk.txt 1 204 
+accessed Floppy_disk.txt 1 3839 
+and Floppy_disk.txt 169 14 22 56 78 94 100 112 155 214 276 286 290 295 300 308 322 375 378 386 398 455 554 556 601 603 746 756 818 831 865 930 953 966 979 991 1012 1027 1033 1075 1107 1121 1133 1213 1265 1285 1407 1436 1451 1463 1501 1508 1535 1595 1651 1655 1702 1741 1748 1778 1794 1804 1814 1842 1912 1979 2014 2186 2211 2279 2298 2346 2349 2396 2400 2507 2558 2572 2581 2596 2624 2634 2695 2701 2756 2764 2808 2856 2906 2909 2945 3076 3094 3182 3209 3287 3296 3412 3434 3481 3510 3527 3566 3587 3601 3652 3673 3698 3709 3717 3909 4001 4008 4014 4027 4041 4055 4098 4133 4152 4199 4216 4291 4296 4325 4339 4355 4399 4432 4447 4468 4575 4660 4694 4734 4744 4753 4836 4928 4971 5020 5045 5076 5079 5088 5139 5148 5201 5225 5264 5310 5340 5415 5438 5554 5577 5644 5648 5719 5740 5804 5854 5896 5924 5993 6019 6048 6072 6087 6136 
+flash-based Floppy_disk.txt 1 1434 
+locations Floppy_disk.txt 1 1297 
+mates Floppy_disk.txt 1 2736 
+any Floppy_disk.txt 4 1367 2007 2872 4479 
+single-speed Floppy_disk.txt 1 6103 
+consortium Floppy_disk.txt 1 4700 
+equipment Floppy_disk.txt 7 169 184 1588 1667 1783 1799 1826 
+potential Floppy_disk.txt 1 3581 
+take Floppy_disk.txt 1 1968 
+online Floppy_disk.txt 2 931 993 
+performance Floppy_disk.txt 3 1536 5200 5774 
+200 Floppy_disk.txt 2 91 260 
+multiple Floppy_disk.txt 2 3614 5862 
+fdds Floppy_disk.txt 1 366 
+theatre Floppy_disk.txt 1 1779 
+opposite Floppy_disk.txt 3 3376 3726 4900 
+track Floppy_disk.txt 16 2557 3516 3860 3888 3902 3935 3950 3965 4015 4474 4484 5335 5449 5487 5720 5850 
+price Floppy_disk.txt 1 775 
+pair Floppy_disk.txt 1 2528 
+inserted Floppy_disk.txt 6 1209 2888 3101 3189 3626 3723 
+icon Floppy_disk.txt 1 2161 
+especially Floppy_disk.txt 2 179 5118 
+considered Floppy_disk.txt 1 1922 
+later Floppy_disk.txt 8 95 677 2587 3312 4297 4573 4831 5604 
+drive Floppy_disk.txt 64 84 148 225 482 801 806 1106 1171 1197 1251 1317 1331 1350 1354 1567 1622 1966 2721 2742 2819 2875 2908 2990 3009 3259 3526 3636 3767 3777 3797 3829 3841 3869 3896 3915 3953 3962 3992 4049 4050 4072 4166 4331 4376 4394 4437 4444 4454 4461 4467 4475 4606 4619 4681 4771 4887 5061 5075 5575 5739 5841 6039 6054 6076 
+federal Floppy_disk.txt 1 2095 
+mavica Floppy_disk.txt 1 5168 
+spaced Floppy_disk.txt 1 2772 
+friction Floppy_disk.txt 2 2392 4629 
+pre-installed Floppy_disk.txt 1 1687 
+spaces Floppy_disk.txt 1 3493 
+corner Floppy_disk.txt 2 4858 4901 
+ground Floppy_disk.txt 1 1220 
+slot Floppy_disk.txt 1 591 
+upgrade Floppy_disk.txt 1 2088 
+crime Floppy_disk.txt 1 2069 
+only Floppy_disk.txt 14 1713 1937 2063 2592 2631 2692 3123 3174 3205 3210 3754 4045 4951 5912 
+lauded Floppy_disk.txt 1 3023 
+equipped Floppy_disk.txt 1 710 
+closed Floppy_disk.txt 1 2933 
+emulators Floppy_disk.txt 1 1872 
+nearly Floppy_disk.txt 3 1239 5503 6022 
+reveal Floppy_disk.txt 1 4875 
+settings Floppy_disk.txt 1 5995 
+where Floppy_disk.txt 4 1084 1515 1918 3496 
+ignored Floppy_disk.txt 1 5048 
+connections Floppy_disk.txt 2 1504 1539 
+encouraged Floppy_disk.txt 1 1468 
+surfaces Floppy_disk.txt 1 1182 
+fails Floppy_disk.txt 1 2914 
+detect Floppy_disk.txt 2 2551 3580 
+commodores Floppy_disk.txt 1 2853 
+ways Floppy_disk.txt 2 3116 3197 
+label Floppy_disk.txt 1 2694 
+3 Floppy_disk.txt 5 551 552 553 3332 4608 
+between Floppy_disk.txt 12 977 1072 1119 2196 2393 3494 3507 4064 4083 5730 5997 6042 
+reading Floppy_disk.txt 2 2700 6148 
+checks Floppy_disk.txt 1 3430 
+affordable Floppy_disk.txt 1 838 
+notice Floppy_disk.txt 1 2916 
+infrastructure Floppy_disk.txt 1 1381 
+article Floppy_disk.txt 3 241 5108 5205 
+many Floppy_disk.txt 5 1013 4078 4305 4337 5683 
+according Floppy_disk.txt 1 2097 
+enabling Floppy_disk.txt 1 3475 
+s Floppy_disk.txt 2 558 6097 
+effective Floppy_disk.txt 1 6124 
+period Floppy_disk.txt 3 860 1340 4063 
+constant Floppy_disk.txt 7 4830 5316 5425 5436 5458 5504 5595 
+capable Floppy_disk.txt 1 5282 
+deposited Floppy_disk.txt 1 1229 
+direction Floppy_disk.txt 2 2815 3377 
+enable Floppy_disk.txt 3 2468 2480 2508 
+offered Floppy_disk.txt 1 564 
+laptops Floppy_disk.txt 1 1917 
+external Floppy_disk.txt 6 144 206 805 1003 2173 6150 
+drum Floppy_disk.txt 1 1791 
+those Floppy_disk.txt 1 5091 
+case Floppy_disk.txt 10 582 684 749 1163 1915 1991 3068 3154 3791 3878 
+bootable Floppy_disk.txt 2 1739 1756 
+single Floppy_disk.txt 2 2515 4487 
+situation Floppy_disk.txt 1 3833 
+orientation Floppy_disk.txt 1 2807 
+zenith Floppy_disk.txt 1 5187 
+then Floppy_disk.txt 7 277 658 919 1400 1817 4469 5791 
+metric Floppy_disk.txt 2 5224 5232 
+discrepancy Floppy_disk.txt 1 2836 
+middle Floppy_disk.txt 2 2368 2385 
+skipped Floppy_disk.txt 1 5689 
+punched Floppy_disk.txt 1 2780 
+ibm-compatible Floppy_disk.txt 2 4142 4911 
+engages Floppy_disk.txt 1 4603 
+technology Floppy_disk.txt 1 2132 
+binary Floppy_disk.txt 3 5805 5925 5961 
+different Floppy_disk.txt 3 1547 4033 4984 
+mebibyte Floppy_disk.txt 1 5962 
+media Floppy_disk.txt 24 93 330 530 1108 1244 1370 1550 1740 2994 3292 3303 3347 3365 3393 3427 3663 4324 4354 4525 4633 4695 4736 4932 5741 
+stepper Floppy_disk.txt 1 3270 
+same Floppy_disk.txt 7 1562 2618 2682 4344 4807 5084 5443 
+document Floppy_disk.txt 1 2100 
+screenshot Floppy_disk.txt 1 2155 
+driver Floppy_disk.txt 1 2148 
+drives Floppy_disk.txt 61 24 135 151 173 201 209 292 469 547 712 720 1008 1023 1081 1115 1149 1359 1384 1585 1650 1664 1682 1724 1767 1890 2043 2152 2319 2342 2619 2654 2864 3313 3534 3655 3667 3708 3712 3741 3818 3854 4145 4154 4218 4271 4285 4292 4326 4421 4426 4481 4533 4563 4693 4749 4924 5019 5735 5860 6043 6086 
+running Floppy_disk.txt 1 2105 
+delicate Floppy_disk.txt 2 596 3084 
+changing Floppy_disk.txt 1 1135 
+modes Floppy_disk.txt 1 4981 
+largely Floppy_disk.txt 2 761 2272 
+customized Floppy_disk.txt 1 1857 
+without Floppy_disk.txt 5 1366 3916 3963 4445 4569 
+solve Floppy_disk.txt 1 1846 
+coordinate Floppy_disk.txt 1 2114 
+model Floppy_disk.txt 3 425 678 802 
+dimension Floppy_disk.txt 1 1690 
+redirects Floppy_disk.txt 1 4 
+being Floppy_disk.txt 4 1109 2019 3188 4906 
+generally Floppy_disk.txt 6 669 2616 4740 5258 5301 5632 
+slime Floppy_disk.txt 1 1259 
+speed Floppy_disk.txt 10 1982 2569 3267 3521 4815 4823 4848 5437 6112 6125 
+multiples Floppy_disk.txt 2 5905 5921 
+spot-welded Floppy_disk.txt 1 2429 
+desktop Floppy_disk.txt 1 3784 
+4 Floppy_disk.txt 1 4620 
+extensive Floppy_disk.txt 1 2966 
+around Floppy_disk.txt 3 685 1626 3489 
+read Floppy_disk.txt 18 77 1276 2345 2623 3286 3384 3480 3595 3617 4131 4398 4566 4835 4926 5078 5375 5587 6120 
+4-inches Floppy_disk.txt 1 555 
+early Floppy_disk.txt 9 319 501 886 1048 1554 2570 4255 4684 5526 
+using Floppy_disk.txt 5 440 1962 4352 5223 5423 
+rear Floppy_disk.txt 1 1028 
+shutter Floppy_disk.txt 2 2848 4610 
+benefit Floppy_disk.txt 1 1525 
+either Floppy_disk.txt 1 3877 
+retailers Floppy_disk.txt 1 1656 
+reduced Floppy_disk.txt 1 1658 
+3-inch Floppy_disk.txt 44 15 23 26 101 136 228 233 445 664 702 726 737 794 939 970 1476 1566 2230 2671 2678 2744 3042 3711 4054 4138 4153 4580 4678 4708 4781 4850 4917 5058 5130 5136 5237 5324 5389 5754 5788 5932 6016 6062 6083 
+making Floppy_disk.txt 1 1128 
+exposed Floppy_disk.txt 1 1185 
+competition Floppy_disk.txt 1 1071 
+dual-sided Floppy_disk.txt 1 429 
+matching Floppy_disk.txt 1 6037 
+provided Floppy_disk.txt 7 751 1441 1505 1582 2842 3506 4404 
+micro Floppy_disk.txt 3 4716 4718 4721 
+recorded Floppy_disk.txt 1 3251 
+stops Floppy_disk.txt 1 3906 
+provides Floppy_disk.txt 2 1568 1927 
+re-trying Floppy_disk.txt 1 3593 
+business Floppy_disk.txt 1 4260 
+manufactured Floppy_disk.txt 3 130 4156 5138 
+utilities Floppy_disk.txt 2 5790 6026 
+soft-sector Floppy_disk.txt 1 376 
+broken Floppy_disk.txt 1 3471 
+manufacturer Floppy_disk.txt 1 5631 
+on Floppy_disk.txt 47 448 644 1192 1216 1278 1418 1425 1688 1949 2106 2250 2414 2510 2717 3014 3240 3247 3363 3552 3734 3782 4102 4314 4434 4451 4458 4464 4471 4478 4492 4520 4655 4665 4706 5003 5364 5376 5388 5410 5447 5559 5588 5598 5641 5733 6013 6060 
+of Floppy_disk.txt 163 47 51 54 109 121 243 273 408 504 528 542 573 626 655 693 713 735 785 792 873 921 963 1029 1101 1104 1127 1139 1242 1382 1439 1460 1471 1499 1511 1518 1577 1608 1619 1661 1710 1715 1898 1916 1932 1971 1983 1996 2006 2010 2028 2040 2118 2130 2136 2193 2223 2228 2261 2376 2403 2493 2514 2533 2555 2613 2628 2676 2740 2816 2833 2846 2890 2898 2918 2923 2968 3036 3050 3060 3125 3146 3176 3194 3244 3282 3318 3356 3381 3388 3423 3449 3463 3514 3542 3570 3634 3669 3730 3774 3792 3891 3930 3997 4005 4029 4035 4048 4160 4210 4229 4239 4288 4365 4388 4498 4523 4586 4650 4653 4688 4701 4741 4824 4878 4907 4916 5007 5028 5086 5192 5207 5236 5262 5268 5283 5295 5323 5346 5399 5445 5451 5484 5492 5507 5550 5651 5710 5722 5801 5821 5838 5845 5889 5906 5919 5922 5947 5979 6038 6082 6102 6106 6113 
+industry Floppy_disk.txt 2 337 4250 
+meaning Floppy_disk.txt 1 5580 
+practical Floppy_disk.txt 2 515 613 
+referred Floppy_disk.txt 1 5216 
+os Floppy_disk.txt 3 854 864 5630 
+or Floppy_disk.txt 37 41 345 897 904 1414 1427 1542 1763 1834 1855 2089 2428 2445 2560 2605 2710 2887 2986 3011 3191 3327 3629 3687 3796 4261 4267 4382 4410 4720 4874 4994 5030 5036 5072 5121 5970 6098 
+image Floppy_disk.txt 2 3250 3773 
+references Floppy_disk.txt 1 6145 
+compatibles Floppy_disk.txt 1 2852 
+elementary Floppy_disk.txt 1 863 
+financial Floppy_disk.txt 1 1632 
+area Floppy_disk.txt 2 539 3694 
+there Floppy_disk.txt 6 358 367 908 1629 3111 4076 
+start Floppy_disk.txt 2 2554 2612 
+low Floppy_disk.txt 1 1980 
+sealed Floppy_disk.txt 1 61 
+complete Floppy_disk.txt 2 3331 3943 
+reduce Floppy_disk.txt 1 2391 
+terminals/workstations Floppy_disk.txt 1 1952 
+unreliable Floppy_disk.txt 1 6049 
+technologies Floppy_disk.txt 3 1136 1141 1391 
+trying Floppy_disk.txt 1 3974 
+with Floppy_disk.txt 65 68 131 142 180 193 226 236 373 422 461 546 583 619 711 767 823 870 960 968 1112 1347 1374 1379 2309 2378 2425 2630 2830 2860 2949 2964 3252 3452 3492 3502 3532 3661 3727 3738 3826 3848 3858 3897 4052 4091 4283 4322 4604 4737 4785 4816 4845 4959 5082 5100 5166 5274 5378 5395 5430 5567 5602 5861 5954 6025 
+longer Floppy_disk.txt 4 1685 2144 3165 3762 
+grasp Floppy_disk.txt 1 3701 
+gone Floppy_disk.txt 1 1309 
+certain Floppy_disk.txt 1 3266 
+moved Floppy_disk.txt 2 3882 4871 
+1200 Floppy_disk.txt 1 5073 
+general Floppy_disk.txt 2 841 1605 
+as Floppy_disk.txt 65 89 198 270 304 318 320 331 382 525 724 1039 1362 1412 1416 1489 1564 1576 1586 1600 1602 1665 1698 1704 1709 1801 1946 2052 2159 2202 2258 2523 2644 2683 2773 2776 2948 3345 3402 3822 3956 4100 4105 4207 4248 4347 4537 4539 4634 4905 4963 5014 5026 5042 5067 5090 5156 5288 5291 5610 5664 5798 5904 6028 6092 6094 
+at Floppy_disk.txt 22 548 1043 1676 2566 2752 2796 2811 2871 3264 3511 3567 3631 3816 4114 4551 4805 4941 4983 5314 5358 5434 5539 
+file Floppy_disk.txt 4 1461 1493 1933 5637 
+corresponding Floppy_disk.txt 1 2662 
+moves Floppy_disk.txt 1 3273 
+incorrect Floppy_disk.txt 1 1296 
+drivers Floppy_disk.txt 1 1865 
+storage Floppy_disk.txt 22 49 59 111 191 203 215 990 994 1453 1528 1549 2013 2175 2952 4274 4345 5128 5363 5551 5638 5656 5729 
+field Floppy_disk.txt 1 3352 
+5 Floppy_disk.txt 2 3326 4624 
+2006 Floppy_disk.txt 1 126 
+you Floppy_disk.txt 1 3161 
+trash Floppy_disk.txt 1 3780 
+briefly Floppy_disk.txt 1 975 
+separate Floppy_disk.txt 1 4071 
+symbol Floppy_disk.txt 1 2244 
+time Floppy_disk.txt 9 706 1615 1678 2873 4295 4553 5143 5680 5826 
+includes Floppy_disk.txt 1 2145 
+ansi Floppy_disk.txt 1 5234 
+important Floppy_disk.txt 1 1524 
+a4 Floppy_disk.txt 1 2781 
+included Floppy_disk.txt 1 4120 
+fiscal Floppy_disk.txt 1 2139 
+condensation Floppy_disk.txt 1 2944 
+directory Floppy_disk.txt 1 5639 
+original Floppy_disk.txt 2 1114 4349 
+all Floppy_disk.txt 7 569 997 1181 1305 2950 3710 4849 
+lack Floppy_disk.txt 1 2660 
+debris Floppy_disk.txt 1 2404 
+disk Floppy_disk.txt 154 1 28 35 43 48 53 83 134 147 172 208 224 229 246 314 344 371 401 431 447 468 563 673 689 727 732 738 773 795 883 1000 1007 1036 1065 1148 1191 1207 1232 1280 1584 1663 1723 1871 1926 1986 1999 2018 2169 2221 2232 2243 2287 2288 2408 2434 2455 2462 2474 2495 2535 2546 2563 2603 2672 2679 2745 2761 2802 2829 2863 2866 2884 2899 2903 2926 2937 3008 3140 3249 3284 3302 3328 3417 3525 3533 3554 3577 3603 3624 3643 3671 3682 3703 3721 3788 3801 3836 3850 3893 4011 4025 4031 4171 4181 4186 4270 4316 4321 4360 4381 4430 4449 4582 4590 4598 4632 4645 4657 4680 4710 4719 4770 4813 4826 4864 4940 4954 4975 5010 5018 5025 5060 5110 5209 5212 5350 5352 5366 5432 5494 5509 5532 5562 5617 5643 5653 5713 5725 5738 5789 5840 5859 5900 5981 
+causes Floppy_disk.txt 1 1270 
+semiconductor Floppy_disk.txt 1 5816 
+removal Floppy_disk.txt 1 3705 
+prefixes Floppy_disk.txt 1 5803 
+to Floppy_disk.txt 123 160 339 473 512 637 763 788 826 839 848 935 1078 1161 1238 1274 1283 1290 1328 1572 1589 1625 1634 1772 1832 1876 1880 1941 1958 1967 2036 2048 2057 2087 2098 2113 2127 2254 2294 2339 2344 2356 2361 2390 2409 2467 2479 2489 2500 2504 2550 2622 2714 2737 2787 2838 2915 2942 2956 2974 2977 3003 3006 3117 3201 3293 3299 3333 3383 3414 3437 3456 3478 3517 3528 3536 3609 3616 3640 3700 3764 3778 3785 3843 3922 3933 3975 4109 4125 4163 4302 4341 4414 4441 4483 4724 4730 4829 4872 4937 5015 5055 5077 5135 5217 5252 5303 5373 5480 5497 5594 5608 5658 5675 5782 5795 5810 5832 5887 5916 5940 6008 6021 6130 
+program Floppy_disk.txt 1 5625 
+sitting Floppy_disk.txt 1 1150 
+far Floppy_disk.txt 2 611 2774 
+induce Floppy_disk.txt 1 3394 
+sony Floppy_disk.txt 4 557 646 4726 5163 
+front-panel Floppy_disk.txt 1 3322 
+list Floppy_disk.txt 2 4028 5206 
+large Floppy_disk.txt 7 524 623 653 893 1969 2311 2351 
+these Floppy_disk.txt 12 162 288 467 634 998 2224 2769 4790 5049 5193 5356 5965 
+booting Floppy_disk.txt 1 1020 
+small Floppy_disk.txt 7 2333 2432 2697 3048 3179 3408 3814 
+series/1 Floppy_disk.txt 1 2103 
+portable Floppy_disk.txt 3 205 5120 5189 
+90.0 Floppy_disk.txt 1 559 
+built-in Floppy_disk.txt 2 1721 3739 
+past Floppy_disk.txt 2 3979 5878 
+zero Floppy_disk.txt 7 3861 3889 3903 3936 3951 3966 4016 
+design Floppy_disk.txt 5 647 2274 3039 3217 4727 
+pass Floppy_disk.txt 1 3404 
+further Floppy_disk.txt 1 6147 
+what Floppy_disk.txt 2 3129 4758 
+consumers Floppy_disk.txt 1 1124 
+94.0 Floppy_disk.txt 1 561 
+version Floppy_disk.txt 1 460 
+higher-capacity Floppy_disk.txt 1 1102 
+abraded Floppy_disk.txt 1 2405 
+method Floppy_disk.txt 2 1510 2199 
+movement Floppy_disk.txt 1 1268 
+compresses Floppy_disk.txt 1 3672 
+full Floppy_disk.txt 1 20 
+component Floppy_disk.txt 1 272 
+tracks Floppy_disk.txt 11 952 3469 3485 3495 3851 4659 5087 5311 5337 5649 5851 
+operating Floppy_disk.txt 11 852 878 1851 1858 2638 2912 3611 3759 4277 5021 5670 
+compressed Floppy_disk.txt 1 5468 
+commercially Floppy_disk.txt 1 266 
+unproven Floppy_disk.txt 1 1132 
+amount Floppy_disk.txt 2 5444 5506 
+extremes Floppy_disk.txt 1 2947 
+emulator Floppy_disk.txt 1 1561 
+action Floppy_disk.txt 1 3305 
+narrow Floppy_disk.txt 1 950 
+technique Floppy_disk.txt 2 5477 6071 
+followed Floppy_disk.txt 1 4792 
+family Floppy_disk.txt 1 4287 
+binders Floppy_disk.txt 1 2793 
+requiring Floppy_disk.txt 1 1784 
+bidirectional Floppy_disk.txt 1 5034 
+add-on Floppy_disk.txt 1 1708 
+pulls Floppy_disk.txt 1 1174 
+read-only Floppy_disk.txt 2 2502 4202 
+flaws Floppy_disk.txt 1 5659 
+two Floppy_disk.txt 10 1428 2165 2374 2686 2750 4070 4085 5341 5822 5890 
+6 Floppy_disk.txt 1 4640 
+taken Floppy_disk.txt 1 4440 
+more Floppy_disk.txt 12 360 514 612 876 905 2163 4268 4499 4560 5469 5475 5533 
+ejected Floppy_disk.txt 2 2869 2886 
+company Floppy_disk.txt 2 1675 1910 
+controlling Floppy_disk.txt 1 3749 
+stick Floppy_disk.txt 2 5278 5280 
+varying Floppy_disk.txt 2 2831 4811 
+known Floppy_disk.txt 4 2200 2522 5155 5875 
+producing Floppy_disk.txt 1 364 
+hardware Floppy_disk.txt 3 1560 1869 2668 
+none Floppy_disk.txt 1 1138 
+sucks Floppy_disk.txt 1 1167 
+converts Floppy_disk.txt 2 2290 3420 
+specialized Floppy_disk.txt 1 4177 
+history Floppy_disk.txt 3 221 242 780 
+high-density Floppy_disk.txt 9 234 459 809 981 2768 2785 4368 4766 6017 
+share Floppy_disk.txt 2 625 641 
+states Floppy_disk.txt 2 2076 2121 
+pushed Floppy_disk.txt 1 2713 
+protects Floppy_disk.txt 3 3070 3082 4612 
+information Floppy_disk.txt 3 3246 4253 5446 
+needs Floppy_disk.txt 2 3763 3842 
+processors Floppy_disk.txt 1 5150 
+rather Floppy_disk.txt 2 2722 5910 
+backward-compatibility Floppy_disk.txt 1 967 
+ubiquitous Floppy_disk.txt 2 107 814 
+plans Floppy_disk.txt 1 2126 
+variant Floppy_disk.txt 1 643 
+lighting Floppy_disk.txt 1 1795 
+coming Floppy_disk.txt 1 5943 
+fm Floppy_disk.txt 1 383 
+a Floppy_disk.txt 182 25 33 38 45 52 63 81 106 271 481 496 537 540 571 580 584 604 642 652 682 786 789 793 850 875 881 901 954 961 972 1030 1190 1257 1326 1337 1348 1506 1519 1558 1565 1569 1620 1639 1672 1699 1774 1810 1856 1881 1929 1938 1963 1997 2033 2081 2146 2198 2214 2219 2226 2229 2303 2310 2318 2326 2332 2350 2421 2431 2442 2614 2667 2693 2696 2725 2732 2794 2822 2865 2877 2883 2895 2902 2932 3033 3037 3047 3078 3108 3148 3164 3222 3225 3229 3254 3265 3269 3309 3321 3340 3395 3442 3447 3545 3555 3607 3623 3627 3691 3720 3793 3799 3808 3813 3827 3831 3835 3859 3895 3914 3964 4103 4158 4195 4201 4208 4318 4389 4412 4417 4427 4448 4452 4465 4552 4587 4592 4596 4609 4625 4647 4677 4686 4699 4707 4725 4853 4865 4894 4939 4942 4960 5008 5057 5065 5068 5126 5142 5151 5266 5315 5344 5407 5424 5435 5474 5560 5568 5573 5623 5636 5711 5723 5752 5839 5917 5956 5960 5977 6014 6056 6069 
+onto Floppy_disk.txt 2 1230 5784 
+encased Floppy_disk.txt 1 3054 
+photoshop Floppy_disk.txt 1 899 
+1300 Floppy_disk.txt 1 6007 
+developed Floppy_disk.txt 4 252 545 4280 4340 
+installed Floppy_disk.txt 1 132 
+disabled Floppy_disk.txt 1 1955 
+held Floppy_disk.txt 1 3314 
+isnt Floppy_disk.txt 1 3156 
+paper Floppy_disk.txt 2 2782 3810 
+through Floppy_disk.txt 5 217 1169 1233 1293 3339 
+concentric Floppy_disk.txt 2 3487 5312 
+ejects Floppy_disk.txt 2 2827 3680 
+its Floppy_disk.txt 21 31 328 423 449 489 740 743 747 764 779 2367 2928 3025 3158 3845 4006 4442 5167 5646 5994 6074 
+rapidly Floppy_disk.txt 2 659 1134 
+21 Floppy_disk.txt 2 4702 5396 
+termed Floppy_disk.txt 1 2583 
+pcs Floppy_disk.txt 3 414 707 4912 
+actually Floppy_disk.txt 2 1157 4711 
+late Floppy_disk.txt 2 255 946 
+detected Floppy_disk.txt 1 2440 
+systems Floppy_disk.txt 9 1015 1734 2093 2639 2658 3539 4178 5022 5103 
+might Floppy_disk.txt 1 3199 
+microfloppy Floppy_disk.txt 1 446 
+80track Floppy_disk.txt 3 4367 4436 4460 
+good Floppy_disk.txt 1 3038 
+unusable Floppy_disk.txt 1 5654 
+spring-loaded Floppy_disk.txt 1 2708 
+commodore Floppy_disk.txt 1 4104 
+recordable Floppy_disk.txt 2 986 1372 
+always Floppy_disk.txt 2 5885 6046 
+assemblies Floppy_disk.txt 1 4051 
+altering Floppy_disk.txt 1 4993 
+radial Floppy_disk.txt 1 5452 
+aligns Floppy_disk.txt 2 3353 3373 
+ports Floppy_disk.txt 1 1948 
+investigators Floppy_disk.txt 1 2047 
+malfunction Floppy_disk.txt 1 3798 
+megabytes Floppy_disk.txt 1 5265 
+hard Floppy_disk.txt 8 207 374 683 835 2205 2584 3056 5858 
+positioned Floppy_disk.txt 1 3948 
+operation Floppy_disk.txt 2 3232 3596 
+really Floppy_disk.txt 1 3155 
+since Floppy_disk.txt 3 1745 2998 5766 
+backwards-compatible Floppy_disk.txt 1 4921 
+7 Floppy_disk.txt 1 4646 
+print Floppy_disk.txt 1 317 
+usb-connected Floppy_disk.txt 1 1357 
+dirt Floppy_disk.txt 1 755 
+reason Floppy_disk.txt 1 4505 
+acorn Floppy_disk.txt 1 5046 
+straightened Floppy_disk.txt 1 3809 
+beginning Floppy_disk.txt 1 281 
+e.g Floppy_disk.txt 1 1788 
+computers Floppy_disk.txt 20 127 825 851 857 1083 1155 1692 1716 2051 2197 3046 3737 4094 4143 4778 5040 5147 5528 5590 5704 
+w Floppy_disk.txt 1 1046 
+consequence Floppy_disk.txt 1 2002 
+fallen Floppy_disk.txt 1 1624 
+encoding Floppy_disk.txt 2 379 3378 
+number Floppy_disk.txt 7 541 572 654 3929 4687 5085 5483 
+done Floppy_disk.txt 2 4548 5621 
+blank Floppy_disk.txt 3 2959 3443 4428 
+file-transfer Floppy_disk.txt 1 1594 
+demagnetized Floppy_disk.txt 1 4958 
+heads Floppy_disk.txt 7 2343 2416 3277 3316 3350 3718 3978 
+temperature Floppy_disk.txt 1 2946 
+introduction Floppy_disk.txt 1 4228 
+leading Floppy_disk.txt 3 1237 1673 5915 
+kilobytes Floppy_disk.txt 1 5263 
+store Floppy_disk.txt 2 849 4300 
+option Floppy_disk.txt 2 872 1701 
+80-track Floppy_disk.txt 1 4420 
+optical Floppy_disk.txt 2 210 1452 
+cartridges Floppy_disk.txt 1 213 
+obstructed Floppy_disk.txt 1 4861 
+grew Floppy_disk.txt 1 531 
+cyclic Floppy_disk.txt 1 3556 
+double Floppy_disk.txt 4 4408 4501 4514 4754 
+recording Floppy_disk.txt 4 529 4356 4808 5521 
+headers Floppy_disk.txt 2 3565 6134 
+forensics Floppy_disk.txt 1 2046 
+risks Floppy_disk.txt 1 759 
+dos-based Floppy_disk.txt 1 413 
+toward Floppy_disk.txt 1 5488 
+treated Floppy_disk.txt 2 2985 4099 
+alongside Floppy_disk.txt 1 4168 
+roughly Floppy_disk.txt 1 2984 
+headings Floppy_disk.txt 1 5721 
+vulnerable Floppy_disk.txt 1 2955 
+sandwiched Floppy_disk.txt 1 2382 
+forensic Floppy_disk.txt 1 2055 
+software-driven Floppy_disk.txt 1 4081 
+internal Floppy_disk.txt 2 687 4584 
+disk-load Floppy_disk.txt 1 3310 
+added Floppy_disk.txt 2 472 5831 
+macs Floppy_disk.txt 1 4832 
+warnings Floppy_disk.txt 1 2969 
+reach Floppy_disk.txt 1 3934 
+unused Floppy_disk.txt 2 1151 2512 
+most Floppy_disk.txt 12 396 405 855 1475 1579 1746 2023 2178 4162 4761 5416 5770 
+significant Floppy_disk.txt 1 639 
+kb Floppy_disk.txt 11 417 443 4393 4743 4746 4787 4798 5071 5074 5549 5558 
+audio Floppy_disk.txt 1 6107 
+windows Floppy_disk.txt 2 896 2141 
+clear Floppy_disk.txt 1 509 
+sometimes Floppy_disk.txt 2 1769 4991 
+cover Floppy_disk.txt 7 587 2329 2372 2399 2418 2712 3081 
+part Floppy_disk.txt 3 3175 4877 5242 
+clean Floppy_disk.txt 1 1329 
+velocity Floppy_disk.txt 2 5427 5597 
+notch Floppy_disk.txt 5 2433 2464 2476 2488 2795 
+microsoft Floppy_disk.txt 2 2262 5383 
+sector Floppy_disk.txt 17 2580 2597 2615 3541 3550 3564 4652 5331 5466 5515 5718 5806 5846 5871 5880 5908 5926 
+hyper Floppy_disk.txt 1 4425 
+particularly Floppy_disk.txt 1 5144 
+cds Floppy_disk.txt 3 1373 1404 1409 
+networks Floppy_disk.txt 3 219 1544 1911 
+dividing Floppy_disk.txt 1 1116 
+distributed Floppy_disk.txt 2 2963 5387 
+removable Floppy_disk.txt 5 999 1369 1527 2011 4273 
+8 Floppy_disk.txt 3 258 4188 4668 
+circle Floppy_disk.txt 1 3049 
+shugart Floppy_disk.txt 2 306 349 
+5.25-inch Floppy_disk.txt 2 1034 4419 
+diskette Floppy_disk.txt 14 40 227 335 3044 3089 3099 3106 3171 3186 3204 3445 4246 4379 4717 
+synchronization Floppy_disk.txt 1 4017 
+competing Floppy_disk.txt 1 369 
+during Floppy_disk.txt 6 704 815 3459 3704 3994 4060 
+3inch Floppy_disk.txt 5 3019 3223 3230 4588 5009 
+disregarding Floppy_disk.txt 1 6089 
+bytes Floppy_disk.txt 7 3504 5329 5348 5463 5892 5894 5914 
+crc Floppy_disk.txt 1 3559 
+common Floppy_disk.txt 4 406 2896 4170 4762 
+doubles Floppy_disk.txt 1 5824 
+approaching Floppy_disk.txt 1 3887 
+set Floppy_disk.txt 3 2967 5259 5886 
+achieved Floppy_disk.txt 2 4804 5195 
+see Floppy_disk.txt 3 9 1275 6140 
+user-interface Floppy_disk.txt 1 2251 
+mechanically Floppy_disk.txt 2 1054 4039 
+expert Floppy_disk.txt 1 3030 
+superseded Floppy_disk.txt 2 188 700 
+formatted Floppy_disk.txt 10 4088 4431 4450 4738 4788 5255 5394 5724 5797 5879 
+determined Floppy_disk.txt 2 2600 5988 
+various Floppy_disk.txt 2 566 4697 
+incompatibility Floppy_disk.txt 1 4486 
+conditions Floppy_disk.txt 1 2979 
+corruption Floppy_disk.txt 2 1292 2900 
+available Floppy_disk.txt 6 216 267 1011 1697 4059 4220 
+recently Floppy_disk.txt 1 2064 
+initially Floppy_disk.txt 1 88 
+sold Floppy_disk.txt 5 279 1040 1717 2499 5706 
+interface Floppy_disk.txt 4 1571 1812 1877 2236 
+both Floppy_disk.txt 11 714 1448 1533 2337 2626 3285 4053 4493 4521 4567 4732 
+double-sided Floppy_disk.txt 6 2295 4526 4735 4765 4796 5561 
+improved Floppy_disk.txt 2 296 4729 
+reverse Floppy_disk.txt 1 4149 
+density Floppy_disk.txt 7 4809 4923 4931 4944 4966 4980 5032 
+sensitive Floppy_disk.txt 1 2941 
+became Floppy_disk.txt 11 265 435 508 728 813 837 1142 2521 4219 4577 4759 
+context Floppy_disk.txt 1 5942 
+superdisk Floppy_disk.txt 2 943 978 
+simple Floppy_disk.txt 1 3034 
+megapixel Floppy_disk.txt 1 1465 
+header Floppy_disk.txt 1 3546 
+incompatibilities Floppy_disk.txt 1 4082 
+slots Floppy_disk.txt 1 4057 
+throughout Floppy_disk.txt 2 499 778 
+expensive Floppy_disk.txt 4 1080 1387 4500 4561 
+decline Floppy_disk.txt 1 1024 
+ensures Floppy_disk.txt 1 2799 
+create Floppy_disk.txt 1 832 
+due Floppy_disk.txt 7 762 1160 1831 2837 4482 5657 6129 
+re-writeable Floppy_disk.txt 1 1403 
+transferring Floppy_disk.txt 2 1512 2194 
+precision Floppy_disk.txt 1 956 
+imac Floppy_disk.txt 2 1344 1364 
+gap Floppy_disk.txt 1 4364 
+demand Floppy_disk.txt 1 1592 
+despite Floppy_disk.txt 1 4495 
+while Floppy_disk.txt 7 170 1224 2470 2991 3268 3863 5542 
+replaced Floppy_disk.txt 3 926 1830 3746 
+pressed Floppy_disk.txt 1 2826 
+formats Floppy_disk.txt 10 163 372 636 1001 1074 4032 4698 5210 5616 5999 
+30 Floppy_disk.txt 1 5498 
+costly Floppy_disk.txt 1 1129 
+century Floppy_disk.txt 2 124 1556 
+hard-sectored Floppy_disk.txt 1 400 
+itself Floppy_disk.txt 1 522 
+mixtures Floppy_disk.txt 1 5800 
+virtually Floppy_disk.txt 1 722 
+higher Floppy_disk.txt 6 741 4510 4801 4922 5029 5564 
+disk-change Floppy_disk.txt 1 2878 
+unlabeled Floppy_disk.txt 1 4673 
+uses Floppy_disk.txt 3 8 178 5327 
+user Floppy_disk.txt 7 1273 1574 1591 2216 2972 3572 3769 
+lower Floppy_disk.txt 5 777 4930 4943 4979 5031 
+older Floppy_disk.txt 5 168 474 1902 2050 5614 
+edge Floppy_disk.txt 2 5491 5541 
+machinery Floppy_disk.txt 1 1803 
+thoroughly Floppy_disk.txt 1 4957 
+entry Floppy_disk.txt 2 2718 4233 
+firmware Floppy_disk.txt 2 1017 1749 
+decimal Floppy_disk.txt 3 5802 5920 5957 
+shape Floppy_disk.txt 1 3110 
+alternative Floppy_disk.txt 1 1443 
+loading Floppy_disk.txt 3 874 1189 4211 
+also Floppy_disk.txt 7 36 1247 1288 4423 4834 4935 6141 
+source Floppy_disk.txt 1 2897 
+location Floppy_disk.txt 2 3551 5453 
+clamping Floppy_disk.txt 1 3650 
+remaining Floppy_disk.txt 1 1396 
+australia Floppy_disk.txt 1 1042 
+lacking Floppy_disk.txt 1 1735 
+format Floppy_disk.txt 23 390 402 411 507 519 578 629 973 4026 4134 4137 4374 4397 4763 4844 4929 4938 4967 5322 5429 5571 5982 6138 
+microcomputers Floppy_disk.txt 2 4256 4282 
+big Floppy_disk.txt 1 1045 
+capacities Floppy_disk.txt 3 4739 5256 6003 
+bit Floppy_disk.txt 2 3380 5520 
+reusability Floppy_disk.txt 1 1397 
+should Floppy_disk.txt 1 5762 
+signal Floppy_disk.txt 3 3409 3606 4542 
+disks Floppy_disk.txt 94 17 75 87 138 251 289 621 680 697 703 810 812 836 844 903 916 1058 1086 1159 1307 1395 1420 1430 1450 1477 1481 1485 1726 1758 1787 1820 1900 2060 2109 2188 2206 2208 2270 2281 2301 2503 2517 2520 2525 2574 2586 2590 2629 2633 2687 2960 2980 3062 4037 4042 4087 4139 4215 4241 4290 4402 4462 4489 4503 4516 4527 4536 4559 4667 4783 4841 4851 4892 4919 4987 5081 5092 5131 5238 5272 5296 5305 5326 5393 5420 5472 5583 5601 5696 5700 5794 5934 5966 6064 
+separately Floppy_disk.txt 1 280 
+popular Floppy_disk.txt 3 437 1360 5703 
+methods Floppy_disk.txt 1 192 
+spring Floppy_disk.txt 2 2845 3677 
+some Floppy_disk.txt 17 176 1091 1298 1456 2068 2129 2637 3583 3665 3853 3952 4532 5017 5039 5095 5351 5898 
+3.5 Floppy_disk.txt 1 5245 
+flippy Floppy_disk.txt 2 2524 4558 
+gradually Floppy_disk.txt 1 925 
+scale Floppy_disk.txt 1 232 
+per Floppy_disk.txt 9 2541 5330 5334 5338 5349 5486 5552 5849 5852 
+inserting Floppy_disk.txt 2 3138 3807 
+be Floppy_disk.txt 38 140 471 513 534 1088 1686 1753 1770 1829 1874 1886 1942 2457 2484 2788 2868 2983 3294 3589 3803 3838 3947 4096 4439 4456 4529 4870 5012 5062 5371 5374 5404 5479 5586 5661 5764 5796 5865 
+processing Floppy_disk.txt 1 4263 
+forming Floppy_disk.txt 1 3468 
+oem Floppy_disk.txt 1 1707 
+metaphor Floppy_disk.txt 1 2237 
+by Floppy_disk.txt 50 80 125 167 189 284 298 356 565 651 661 690 701 716 884 927 1069 1099 1402 1613 1643 1935 2133 2248 2363 2441 2601 2705 2843 3028 3308 3591 3747 3806 4194 4205 4243 4554 4795 4810 4885 4992 5064 5145 5162 5178 5406 5529 5622 5627 5989 
+handled Floppy_disk.txt 2 166 2210 
+mid-1990s Floppy_disk.txt 1 718 
+samplers Floppy_disk.txt 1 1790 
+range Floppy_disk.txt 1 784 
+block Floppy_disk.txt 1 4873 
+71 Floppy_disk.txt 1 6105 
+iomega Floppy_disk.txt 1 1063 
+into Floppy_disk.txt 15 117 1131 1176 1210 1221 1249 1256 2719 2790 3102 3120 3428 3473 3562 3812 
+within Floppy_disk.txt 2 2094 4637 
+retailer Floppy_disk.txt 1 1044 
+long Floppy_disk.txt 2 1338 4538 
+accountability Floppy_disk.txt 1 2078 
+bios Floppy_disk.txt 4 1652 1743 1747 1760 
+1,440 Floppy_disk.txt 1 5951 
+opens Floppy_disk.txt 1 3096 
+files Floppy_disk.txt 4 1472 1514 1940 2256 
+inches Floppy_disk.txt 4 259 4189 5219 5254 
+shuttera Floppy_disk.txt 1 2707 
+phototransistor Floppy_disk.txt 1 2446 
+properly Floppy_disk.txt 2 3479 5811 
+newer Floppy_disk.txt 1 3706 
+line Floppy_disk.txt 1 464 
+shutters Floppy_disk.txt 1 1236 
+fdd Floppy_disk.txt 3 85 355 5991 
+characteristic Floppy_disk.txt 1 3970 
+enables Floppy_disk.txt 1 3690 
+up Floppy_disk.txt 5 1204 3472 4301 5635 6020 
+error-free Floppy_disk.txt 1 4519 
+similar Floppy_disk.txt 4 3538 3832 4723 5132 
+called Floppy_disk.txt 4 37 4242 4424 5180 
+storing Floppy_disk.txt 1 5513 
+associated Floppy_disk.txt 1 291 
+defined Floppy_disk.txt 1 5230 
+m Floppy_disk.txt 1 5937 
+engineering Floppy_disk.txt 1 4259 
+associates Floppy_disk.txt 2 307 350 
+two-sided Floppy_disk.txt 1 3654 
+ps/2 Floppy_disk.txt 3 463 491 5044 
+amounts Floppy_disk.txt 1 1970 
+rewriting Floppy_disk.txt 1 1408 
+application Floppy_disk.txt 2 5096 5736 
+elements Floppy_disk.txt 1 2252 
+users Floppy_disk.txt 3 1118 1299 5360 
+sided Floppy_disk.txt 5 2516 4488 4502 4515 4755 
+problems Floppy_disk.txt 3 2922 4446 5775 
+robots Floppy_disk.txt 1 1806 
+drag Floppy_disk.txt 1 3771 
+allowing Floppy_disk.txt 3 2783 5547 5793 
+depicting Floppy_disk.txt 1 2156 
+sides Floppy_disk.txt 6 2338 4494 4522 4568 5342 5855 
+structure Floppy_disk.txt 1 2276 
+cd-rom Floppy_disk.txt 3 1349 1383 3828 
+required Floppy_disk.txt 1 900 
+holes Floppy_disk.txt 7 2577 2751 2770 2778 4996 5002 5050 
+2002 Floppy_disk.txt 1 1578 
+2003 Floppy_disk.txt 1 1670 
+circuit Floppy_disk.txt 1 5835 
+implied Floppy_disk.txt 1 5759 
+lans Floppy_disk.txt 1 1500 
+2007 Floppy_disk.txt 1 1712 
+requires Floppy_disk.txt 1 6073 
+having Floppy_disk.txt 2 1609 2724 
+once Floppy_disk.txt 2 2540 3939 
+magnetically Floppy_disk.txt 2 2304 4969 
+existing Floppy_disk.txt 3 938 1380 1839 
+amplified Floppy_disk.txt 1 3411 
+minisport Floppy_disk.txt 1 5188 
+include Floppy_disk.txt 1 5716 
+sent Floppy_disk.txt 2 3338 3413 
+g3 Floppy_disk.txt 1 4129 
+2m/2mgui Floppy_disk.txt 1 6029 
+continued Floppy_disk.txt 1 338 
+categories Floppy_disk.txt 2 6153 6155 
+entire Floppy_disk.txt 1 5293 
+positions Floppy_disk.txt 1 3931 
+button Floppy_disk.txt 3 2823 3733 3744 
+try Floppy_disk.txt 4 1282 3137 3168 3200 
+smaller Floppy_disk.txt 9 538 744 2031 3692 4319 4385 4691 5113 5127 
+boots Floppy_disk.txt 1 1731 
+cav Floppy_disk.txt 1 5428 
+video Floppy_disk.txt 2 5158 5170 
+insertion Floppy_disk.txt 3 2817 3329 3668 
+index Floppy_disk.txt 4 2538 2594 2651 4541 
+unavailable Floppy_disk.txt 1 1541 
+rate Floppy_disk.txt 2 5546 6081 
+slight Floppy_disk.txt 1 3520 
+access Floppy_disk.txt 2 2056 3765 
+exchange Floppy_disk.txt 2 113 5099 
+respectively Floppy_disk.txt 1 4747 
+commercial Floppy_disk.txt 2 249 497 
+punch Floppy_disk.txt 1 2496 
+others Floppy_disk.txt 2 287 3865 
+non-classical Floppy_disk.txt 1 4174 
+convert Floppy_disk.txt 1 2501 
+engage Floppy_disk.txt 3 3647 3656 3714 
+parameters Floppy_disk.txt 1 5357 
+32 Floppy_disk.txt 1 6057 
+larger Floppy_disk.txt 3 922 1473 2021 
+products Floppy_disk.txt 2 275 983 
+involves Floppy_disk.txt 1 3867 
+composed Floppy_disk.txt 1 50 
+apple Floppy_disk.txt 10 1341 2645 2854 3735 3958 3999 4092 5522 5591 5609 
+motor Floppy_disk.txt 4 3220 3256 3752 4607 
+use Floppy_disk.txt 14 340 822 918 1284 1470 1551 1782 1897 1975 2649 3093 4090 5165 5676 
+from Floppy_disk.txt 28 30 114 599 754 858 880 1021 1638 1755 1819 1961 2067 2366 2412 2608 2988 3074 3187 3221 3228 3425 3644 4121 4617 4976 5495 5944 6005 
+usb Floppy_disk.txt 14 145 150 199 799 1004 1440 1570 1648 1811 1867 1882 1947 2150 5276 
+zip Floppy_disk.txt 1 1064 
+few Floppy_disk.txt 2 1939 4141 
+camera Floppy_disk.txt 1 5171 
+ii/iiis Floppy_disk.txt 1 2855 
+panel Floppy_disk.txt 1 3820 
+lt-1 Floppy_disk.txt 1 5182 
+started Floppy_disk.txt 1 439 
+occurred Floppy_disk.txt 2 976 4013 
+informally Floppy_disk.txt 1 2201 
+rare Floppy_disk.txt 2 159 1194 
+detects Floppy_disk.txt 2 2536 2881 
+mid-1970s Floppy_disk.txt 1 116 
+this Floppy_disk.txt 27 494 705 1173 1269 1303 1355 1614 1825 1847 1944 1990 2099 2664 2891 3066 3407 3689 3855 3940 3983 4546 5093 5524 5563 5678 5761 6109 
+thin Floppy_disk.txt 1 55 
+1.44 Floppy_disk.txt 5 457 4768 4838 4890 5930 
+1.47 Floppy_disk.txt 1 5968 
+1.41 Floppy_disk.txt 1 5971 
+control Floppy_disk.txt 1 5578 
+proprietary Floppy_disk.txt 1 1073 
+links Floppy_disk.txt 1 6151 
+process Floppy_disk.txt 2 4418 5693 
+purposes Floppy_disk.txt 1 1457 
+high Floppy_disk.txt 2 955 4965 
+something Floppy_disk.txt 1 6044 
+tab Floppy_disk.txt 2 608 4672 
+native Floppy_disk.txt 1 4443 
+burroughs Floppy_disk.txt 1 309 
+united Floppy_disk.txt 2 2075 2120 
+noises Floppy_disk.txt 1 3972 
+located Floppy_disk.txt 1 2529 
+gcr Floppy_disk.txt 1 387 
+instead Floppy_disk.txt 1 5398 
+establishment Floppy_disk.txt 1 4238 
+circular Floppy_disk.txt 1 2312 
+blocks Floppy_disk.txt 1 5309 
+double-density Floppy_disk.txt 2 444 4391 
+damageable Floppy_disk.txt 1 1821 
+abuse Floppy_disk.txt 1 3075 
+magnetizations Floppy_disk.txt 1 3462 
+fits Floppy_disk.txt 1 1424 
+chief Floppy_disk.txt 1 2920 
+allow Floppy_disk.txt 3 2340 2357 3518 
+subsequently Floppy_disk.txt 1 1641 
+lined Floppy_disk.txt 1 67 
+archimedes Floppy_disk.txt 1 5047 
+move Floppy_disk.txt 2 3923 3976 
+133 Floppy_disk.txt 1 98 
+130 Floppy_disk.txt 1 5286 
+pulses Floppy_disk.txt 1 3424 
+1.80 Floppy_disk.txt 1 6011 
+industries Floppy_disk.txt 1 1780 
+write Floppy_disk.txt 12 606 2347 2625 3288 3334 3482 4132 4400 4670 4837 4927 5080 
+outer Floppy_disk.txt 2 2398 5490 
+fujifilm Floppy_disk.txt 1 5179 
+permanent Floppy_disk.txt 1 3600 
+degrees Floppy_disk.txt 1 2832 
+covered Floppy_disk.txt 2 2084 2466 
+2017 Floppy_disk.txt 1 2138 
+2016 Floppy_disk.txt 1 2073 
+2013 Floppy_disk.txt 1 2264 
+designs Floppy_disk.txt 1 940 
+greater Floppy_disk.txt 3 195 1376 5866 
+material Floppy_disk.txt 2 3053 3073 
+front Floppy_disk.txt 4 1026 2690 3633 3819 
+rotation Floppy_disk.txt 3 2542 4814 4847 
+articles Floppy_disk.txt 1 4023 
+february Floppy_disk.txt 1 1669 
+edit Floppy_disk.txt 21 222 797 1025 1557 2154 2275 2277 2282 2673 3233 4021 4182 4361 4583 5106 5203 6142 6144 6146 6149 6152 
+concave Floppy_disk.txt 1 3693 
+read/write Floppy_disk.txt 4 1186 3276 3659 4213 
+transmitted Floppy_disk.txt 1 1943 
+mode Floppy_disk.txt 1 2492 
+identifies Floppy_disk.txt 3 2435 3548 4903 
+exacerbated Floppy_disk.txt 1 1098 
+doing Floppy_disk.txt 3 2999 3724 5767 
+related Floppy_disk.txt 1 2253 
+measure Floppy_disk.txt 1 2670 
+83 Floppy_disk.txt 1 6100 
+80 Floppy_disk.txt 3 4473 5270 5336 
+out Floppy_disk.txt 1 3317 
+kilobits Floppy_disk.txt 1 6096 
+cd-roms Floppy_disk.txt 1 928 
+cause Floppy_disk.txt 1 3004 
+integrated Floppy_disk.txt 1 5834 
+announced Floppy_disk.txt 2 327 1679 
+oblong Floppy_disk.txt 1 2334 
+1982 Floppy_disk.txt 1 650 
+top-of-the-line Floppy_disk.txt 1 490 
+geometry Floppy_disk.txt 1 6041 
+deprecated Floppy_disk.txt 1 5000 
+could Floppy_disk.txt 11 470 533 1482 3770 4130 4299 4528 4565 4833 5402 5584 
+put Floppy_disk.txt 1 5297 
+feasible Floppy_disk.txt 1 4328 
+hence Floppy_disk.txt 2 2910 5964 
+retail Floppy_disk.txt 2 1031 1617 
+reached Floppy_disk.txt 1 3901 
+quality Floppy_disk.txt 1 527 
+system Floppy_disk.txt 14 853 879 1640 1852 1859 2913 3441 3612 3760 4234 4278 5066 5640 5671 
+adopted Floppy_disk.txt 1 660 
+their Floppy_disk.txt 6 821 1306 4217 5603 5941 5945 
+programmable Floppy_disk.txt 1 1802 
+fouling Floppy_disk.txt 1 1241 
+reversed Floppy_disk.txt 1 3370 
+environmental Floppy_disk.txt 1 758 
+01946 Floppy_disk.txt 1 803 
+sectors Floppy_disk.txt 16 2642 3474 3509 4661 5089 5307 5333 5397 5440 5456 5485 5647 5666 5848 5923 5950 
+are Floppy_disk.txt 31 76 158 164 1009 1540 1545 1727 1816 1953 1987 2030 2110 2209 2271 2373 2620 2749 2771 3112 3466 3486 3505 3585 3599 4038 4077 4662 4920 5257 5467 5882 
+1.2 Floppy_disk.txt 3 427 4303 4369 
+tabs Floppy_disk.txt 1 617 
+fail Floppy_disk.txt 2 1762 3621 
+have Floppy_disk.txt 15 175 186 861 1308 1530 1809 2062 2591 2961 3065 4852 4893 5457 5873 5935 
+need Floppy_disk.txt 3 1077 2086 4310 
+apparently Floppy_disk.txt 1 3113 
+mib Floppy_disk.txt 2 5963 5972 
+able Floppy_disk.txt 1 5372 
+mid Floppy_disk.txt 1 1052 
+mechanism Floppy_disk.txt 8 959 1178 1212 1252 1264 3272 3920 5576 
+instance Floppy_disk.txt 1 5500 
+which Floppy_disk.txt 18 592 609 750 1179 1260 2029 2735 3069 3126 3419 3678 3753 4564 4859 4902 5688 5856 5984 
+connected Floppy_disk.txt 1 3535 
+device Floppy_disk.txt 7 1371 1599 1612 1637 2176 4203 5129 
+polyester Floppy_disk.txt 1 4626 
+backward-compatible Floppy_disk.txt 1 1111 
+eject Floppy_disk.txt 2 3732 3786 
+stronger Floppy_disk.txt 1 4970 
+1,000 Floppy_disk.txt 1 6095 
+construction Floppy_disk.txt 2 766 5134 
+mechanical Floppy_disk.txt 4 2443 2892 3026 3971 
+occasion Floppy_disk.txt 1 1195 
+fact Floppy_disk.txt 1 1315 
+emerging Floppy_disk.txt 1 3646 
+wikipedia Floppy_disk.txt 1 2 
+supported Floppy_disk.txt 1 5612 
+rotating Floppy_disk.txt 3 2364 2565 3295 
+spindle Floppy_disk.txt 6 2320 2739 3219 3255 3649 3716 
+openings Floppy_disk.txt 1 1172 
+based Floppy_disk.txt 1 1005 
+operational Floppy_disk.txt 1 2116 
+jam Floppy_disk.txt 1 1262 
+tape Floppy_disk.txt 1 2482 
+notes Floppy_disk.txt 1 6143 
+meant Floppy_disk.txt 1 892 
+8inch Floppy_disk.txt 1 2571 
+loss Floppy_disk.txt 2 1995 2005 
+means Floppy_disk.txt 3 1304 1931 2192 
+indentations Floppy_disk.txt 1 3181 
+familiar Floppy_disk.txt 1 1611 
+photography Floppy_disk.txt 1 1467 
+120 Floppy_disk.txt 1 964 
+ones Floppy_disk.txt 1 2506 
+interoperability Floppy_disk.txt 1 3531 
+areas Floppy_disk.txt 1 5650 
+produced Floppy_disk.txt 3 294 4574 5177 
+densities Floppy_disk.txt 2 4915 4985 
+unauthorized Floppy_disk.txt 1 1974 
+upper Floppy_disk.txt 1 4675 
+contain Floppy_disk.txt 1 2302 
+including Floppy_disk.txt 2 579 1183 
+fixed Floppy_disk.txt 1 4846 
+knowing Floppy_disk.txt 1 3937 
+requirement Floppy_disk.txt 1 1835 
+writable Floppy_disk.txt 4 1368 2174 2439 2505 
+computer Floppy_disk.txt 14 183 218 452 1162 1272 1674 1892 1951 2092 3104 3440 4106 5190 5629 
+closer Floppy_disk.txt 2 4828 5251 
+error Floppy_disk.txt 1 5691 
+nuclear Floppy_disk.txt 1 2122 
+written Floppy_disk.txt 8 79 2458 3500 3561 4433 4463 5302 5422 
+correctly Floppy_disk.txt 1 3911 
+detented Floppy_disk.txt 1 4867 
+neither Floppy_disk.txt 2 5191 5955 
+interfaces Floppy_disk.txt 1 6088 
+opening Floppy_disk.txt 3 2335 2698 3684 
+agencies Floppy_disk.txt 1 2096 
+non-networked Floppy_disk.txt 1 2185 
+led/photo-transistor Floppy_disk.txt 1 2527 
+distribution Floppy_disk.txt 2 920 932 
+instant Floppy_disk.txt 1 1240 
+etc Floppy_disk.txt 1 5895 
+streams Floppy_disk.txt 1 3422 
+otherwise Floppy_disk.txt 1 5786 
+environments Floppy_disk.txt 4 1824 1893 2180 5684 
+cd Floppy_disk.txt 1 6108 
+higher-density Floppy_disk.txt 2 1056 4353 
+unearthed Floppy_disk.txt 1 2066 
+second Floppy_disk.txt 2 3658 4895 
+addition Floppy_disk.txt 2 1993 4075 
+slowly Floppy_disk.txt 1 5534 
+treat Floppy_disk.txt 1 5023 
+eraser Floppy_disk.txt 1 4962 
+ah Floppy_disk.txt 1 3142 
+utilizing Floppy_disk.txt 2 948 2640 
+prodos Floppy_disk.txt 1 4009 
+controlled Floppy_disk.txt 1 1930 
+bulk Floppy_disk.txt 1 4961 
+controller Floppy_disk.txt 8 2604 3418 3477 3578 3604 4406 5409 5992 
+sensed Floppy_disk.txt 1 4884 
+imation Floppy_disk.txt 1 798 
+an Floppy_disk.txt 30 143 686 804 862 910 933 1523 1596 1705 2157 2235 2809 2965 3215 3304 3675 3750 3872 3998 4249 4366 4435 4459 4472 4540 5172 5516 5555 5785 5827 
+present Floppy_disk.txt 2 1854 2453 
+multi Floppy_disk.txt 1 1464 
+sequencers Floppy_disk.txt 1 1793 
+unlike Floppy_disk.txt 1 2204 
+ejection Floppy_disk.txt 4 2840 3676 3743 3751 
+harder Floppy_disk.txt 1 2035 
+rectangular Floppy_disk.txt 4 64 3159 4854 4880 
+will Floppy_disk.txt 5 3213 3605 3946 4972 5769 
+pc-at Floppy_disk.txt 1 424 
+manually Floppy_disk.txt 3 2870 3638 3805 
+almost Floppy_disk.txt 1 5884 
+coating Floppy_disk.txt 2 2747 3448 
+surface Floppy_disk.txt 5 3086 3281 3875 3982 4614 
+helped Floppy_disk.txt 1 593 
+generic Floppy_disk.txt 1 2147 
+began Floppy_disk.txt 2 4108 4236 
+parts Floppy_disk.txt 2 770 4585 
+schematic Floppy_disk.txt 1 4648 
+inch Floppy_disk.txt 3 3961 3991 5246 
+gets Floppy_disk.txt 1 1248 
+difficult Floppy_disk.txt 1 632 
+upon Floppy_disk.txt 3 297 1188 3683 
+automation Floppy_disk.txt 1 1798 
+dust Floppy_disk.txt 8 72 600 1175 1201 1215 1227 1246 2943 
+frequently Floppy_disk.txt 1 708 
+tighter Floppy_disk.txt 1 6036 
+off Floppy_disk.txt 1 2406 
+center Floppy_disk.txt 6 2316 2355 2532 2729 3491 5473 
+i Floppy_disk.txt 3 3132 3136 3167 
+nonetheless Floppy_disk.txt 1 1575 
+well Floppy_disk.txt 2 1601 4403 
+thought Floppy_disk.txt 1 3145 
+patterns Floppy_disk.txt 1 2609 
+sets Floppy_disk.txt 1 5634 
+position Floppy_disk.txt 4 2598 3847 3890 4818 
+1.68 Floppy_disk.txt 2 5390 5780 
+meet Floppy_disk.txt 1 1590 
+magnetization Floppy_disk.txt 3 3355 3372 3387 
+stores Floppy_disk.txt 1 1719 
+less Floppy_disk.txt 2 2001 6128 
+novice Floppy_disk.txt 1 2215 
+mfm Floppy_disk.txt 3 384 385 4373 
+stored Floppy_disk.txt 3 535 867 3012 
+voltage Floppy_disk.txt 1 3397 
+interchangeability Floppy_disk.txt 1 4115 
+low-level Floppy_disk.txt 1 2606 
+omit Floppy_disk.txt 1 1635 
+reasons Floppy_disk.txt 1 5038 
+adoption Floppy_disk.txt 2 1066 1438 
+maintaining Floppy_disk.txt 1 5543 
+clipped Floppy_disk.txt 1 2789 
+reverted Floppy_disk.txt 1 5593 
+5inch Floppy_disk.txt 3 2573 4375 5069 
+resolved Floppy_disk.txt 1 3590 
+increased Floppy_disk.txt 1 4293 
+government Floppy_disk.txt 2 2077 2125 
+checking Floppy_disk.txt 1 5692 
+five Floppy_disk.txt 1 912 
+press Floppy_disk.txt 1 3729 
+immediately Floppy_disk.txt 1 3908 
+variants Floppy_disk.txt 1 5111 
+insert Floppy_disk.txt 3 3118 3163 3202 
+displaced Floppy_disk.txt 1 391 
+like Floppy_disk.txt 2 895 1061 
+success Floppy_disk.txt 1 5198 
+sizes Floppy_disk.txt 16 104 715 4020 4034 4066 4161 4172 4175 5105 5115 5194 5199 5807 5872 5881 5927 
+controllers Floppy_disk.txt 4 1879 2635 5353 5380 
+lose Floppy_disk.txt 1 2037 
+become Floppy_disk.txt 3 1764 2234 4476 
+soft Floppy_disk.txt 3 2588 2641 3586 
+single-sided Floppy_disk.txt 5 2291 4535 4733 4748 4780 
+because Floppy_disk.txt 3 1849 2222 5454 
+platforms Floppy_disk.txt 2 4107 5419 
+home Floppy_disk.txt 2 856 1691 
+happens Floppy_disk.txt 1 3130 
+lead Floppy_disk.txt 1 1289 
+broad Floppy_disk.txt 1 1497 
+superdrive Floppy_disk.txt 1 4119 
+does Floppy_disk.txt 3 3755 5672 5714 
+economical Floppy_disk.txt 1 5037 
+limitations Floppy_disk.txt 1 503 
+coated Floppy_disk.txt 3 2305 4491 4643 
+amstrad Floppy_disk.txt 1 5146 
+consuming Floppy_disk.txt 1 5681 
+host Floppy_disk.txt 1 3439 
+although Floppy_disk.txt 5 323 984 1693 5367 5869 
+simpler Floppy_disk.txt 2 765 1507 
+about Floppy_disk.txt 2 4342 5269 
+actual Floppy_disk.txt 1 4666 
+recognized Floppy_disk.txt 2 5063 5405 
+compatible Floppy_disk.txt 1 1378 
+introduced Floppy_disk.txt 9 351 421 480 648 1060 1342 4690 5161 5778 
+software Floppy_disk.txt 6 828 890 1840 2249 2607 3748 
+own Floppy_disk.txt 1 6075 
+adopters Floppy_disk.txt 1 1123 
+little-used Floppy_disk.txt 1 1146 
+largest-capacity Floppy_disk.txt 1 1479 
+5.25 Floppy_disk.txt 2 3960 3990 
+tiny Floppy_disk.txt 1 3396 
+backups Floppy_disk.txt 1 833 
+utility Floppy_disk.txt 1 5624 
+1986 Floppy_disk.txt 3 454 4774 4794 
+1987 Floppy_disk.txt 1 466 
+1984 Floppy_disk.txt 2 419 4757 
+networking Floppy_disk.txt 1 1431 
+1983 Floppy_disk.txt 1 4752 
+pc Floppy_disk.txt 5 475 2851 4136 4843 5413 
+transfer Floppy_disk.txt 5 829 1494 1934 1981 6080 
+housing Floppy_disk.txt 4 32 2935 4623 4639 
+1988 Floppy_disk.txt 2 478 662 
+naturally Floppy_disk.txt 1 5818 
+function Floppy_disk.txt 1 5978 
+buy Floppy_disk.txt 1 1079 
+but Floppy_disk.txt 15 149 432 493 1351 1495 2688 4067 4140 4223 4395 4728 4784 4950 4999 6065 
+lowered Floppy_disk.txt 1 3639 
+gain Floppy_disk.txt 1 638 
+protrusions Floppy_disk.txt 1 3180 
+technician Floppy_disk.txt 1 1327 
+highest Floppy_disk.txt 1 6031 
+hd Floppy_disk.txt 9 4767 4840 4889 5321 5599 5755 5933 6063 6084 
+partially Floppy_disk.txt 1 3679 
+made Floppy_disk.txt 6 630 1356 1385 1447 1875 4113 
+dmf Floppy_disk.txt 2 5392 5776 
+whether Floppy_disk.txt 3 2559 2759 2765 
+dangerous Floppy_disk.txt 1 2978 
+variations Floppy_disk.txt 1 3522 
+below Floppy_disk.txt 1 3360 
+limit Floppy_disk.txt 1 1978 
+720 Floppy_disk.txt 2 442 4745 
+problem Floppy_disk.txt 2 1321 1848 
+piece Floppy_disk.txt 2 2009 4868 
+non-existent Floppy_disk.txt 1 161 
+cp/m Floppy_disk.txt 2 4276 5102 
+pin Floppy_disk.txt 1 5829 
+inadequate Floppy_disk.txt 1 1546 
+exceeded Floppy_disk.txt 1 5765 
+functions Floppy_disk.txt 1 2117 
+variety Floppy_disk.txt 1 4159 
+corporation Floppy_disk.txt 1 310 
+boot Floppy_disk.txt 3 1598 1653 3996 
+other Floppy_disk.txt 18 7 301 757 980 1526 1738 2685 2857 3016 3537 3597 5104 5112 5379 5417 5589 5870 6137 
+predominant Floppy_disk.txt 1 730 
+floppies Floppy_disk.txt 3 971 2786 4799 
+radially Floppy_disk.txt 1 3278 
+ultimately Floppy_disk.txt 1 985 
+stirred Floppy_disk.txt 1 1203 
+space Floppy_disk.txt 2 5510 6131 

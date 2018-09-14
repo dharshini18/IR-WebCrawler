@@ -1,0 +1,155 @@
+wavelengths TRACE.txt 1 171 
+atmosphere TRACE.txt 1 72 
+rocket TRACE.txt 1 231 
+magnetic TRACE.txt 1 27 
+focus TRACE.txt 2 56 205 
+spacecraft TRACE.txt 1 77 
+through TRACE.txt 1 175 
+range TRACE.txt 1 169 
+fine TRACE.txt 1 63 
+its TRACE.txt 2 90 106 
+technique TRACE.txt 2 203 211 
+late TRACE.txt 1 220 
+instrument TRACE.txt 1 60 
+program TRACE.txt 1 82 
+minute TRACE.txt 1 155 
+hidden TRACE.txt 1 249 
+main TRACE.txt 1 55 
+plasma TRACE.txt 2 32 189 
+image TRACE.txt 2 93 233 
+payloads TRACE.txt 1 232 
+far TRACE.txt 1 181 
+smithsonian TRACE.txt 1 134 
+12 TRACE.txt 1 144 
+ultraviolet TRACE.txt 1 182 
+advanced TRACE.txt 1 118 
+difficult-to-reflect TRACE.txt 1 207 
+edit TRACE.txt 3 235 237 240 
+fields TRACE.txt 1 28 
+commons TRACE.txt 1 247 
+investigate TRACE.txt 1 22 
+martin TRACE.txt 1 116 
+small TRACE.txt 1 80 
+optics TRACE.txt 2 122 198 
+related TRACE.txt 1 242 
+view TRACE.txt 1 158 
+telescope TRACE.txt 3 107 139 160 
+special TRACE.txt 1 201 
+used TRACE.txt 1 214 
+connections TRACE.txt 1 24 
+see TRACE.txt 1 5 
+astrophysical TRACE.txt 1 135 
+1990s TRACE.txt 1 223 
+loops TRACE.txt 1 67 
+wavelength TRACE.txt 1 185 
+goddard TRACE.txt 1 102 
+4,000 TRACE.txt 1 193 
+for TRACE.txt 2 2 215 
+space TRACE.txt 1 103 
+giving TRACE.txt 1 151 
+sun TRACE.txt 1 36 
+wikipedia TRACE.txt 1 1 
+between TRACE.txt 1 25 
+led TRACE.txt 1 113 
+notably TRACE.txt 1 224 
+imaging TRACE.txt 1 217 
+10241024 TRACE.txt 1 148 
+from TRACE.txt 2 172 192 
+lockheed TRACE.txt 1 115 
+by TRACE.txt 6 37 100 110 114 132 225 
+obtained TRACE.txt 1 89 
+on TRACE.txt 2 34 84 
+last TRACE.txt 1 91 
+of TRACE.txt 5 44 57 65 157 170 
+region TRACE.txt 2 8 50 
+transition TRACE.txt 2 7 49 
+april TRACE.txt 1 85 
+s TRACE.txt 1 117 
+coronal TRACE.txt 2 10 66 
+observation TRACE.txt 1 43 
+first TRACE.txt 1 213 
+cm TRACE.txt 1 143 
+wikimedia TRACE.txt 1 246 
+heliophysics TRACE.txt 1 16 
+visible TRACE.txt 1 173 
+references TRACE.txt 1 236 
+sao TRACE.txt 1 137 
+nixt TRACE.txt 1 229 
+has TRACE.txt 1 140 
+use TRACE.txt 1 199 
+8.5 TRACE.txt 1 153 
+lyman TRACE.txt 1 177 
+to TRACE.txt 8 21 127 163 180 188 194 204 243 
+multilayer TRACE.txt 1 202 
+2 TRACE.txt 1 86 
+low TRACE.txt 1 68 
+aperture TRACE.txt 1 146 
+was TRACE.txt 4 13 98 108 212 
+passbands TRACE.txt 1 186 
+flight TRACE.txt 1 104 
+emission TRACE.txt 1 190 
+fine-scale TRACE.txt 1 26 
+external TRACE.txt 1 238 
+solar TRACE.txt 4 18 46 71 216 
+line TRACE.txt 1 179 
+mssta TRACE.txt 1 227 
+1998 TRACE.txt 1 87 
+1980s TRACE.txt 1 221 
+observatory TRACE.txt 2 19 136 
+structures TRACE.txt 1 33 
+science TRACE.txt 1 92 
+2010 TRACE.txt 1 95 
+arc TRACE.txt 1 154 
+temperatures TRACE.txt 1 191 
+were TRACE.txt 1 123 
+k TRACE.txt 1 196 
+providing TRACE.txt 1 38 
+4,000,000 TRACE.txt 1 195 
+launched TRACE.txt 1 83 
+and TRACE.txt 10 9 17 29 42 51 88 125 147 222 228 
+30 TRACE.txt 1 142 
+associated TRACE.txt 1 31 
+links TRACE.txt 1 239 
+is TRACE.txt 3 61 74 161 
+surface TRACE.txt 1 130 
+an TRACE.txt 1 152 
+high TRACE.txt 1 39 
+images TRACE.txt 2 41 166 
+at TRACE.txt 1 245 
+in TRACE.txt 6 69 78 94 145 167 218 
+sounding TRACE.txt 1 230 
+technology TRACE.txt 1 119 
+constructed TRACE.txt 1 109 
+different TRACE.txt 1 184 
+built TRACE.txt 2 99 126 
+media TRACE.txt 1 241 
+consortium TRACE.txt 1 112 
+field TRACE.txt 1 156 
+other TRACE.txt 1 3 
+take TRACE.txt 1 164 
+fourth TRACE.txt 1 76 
+photosphere TRACE.txt 1 47 
+detector TRACE.txt 1 150 
+euv TRACE.txt 1 208 
+satellite TRACE.txt 1 97 
+finish TRACE.txt 1 131 
+explorer TRACE.txt 2 11 81 
+trace TRACE.txt 6 0 6 12 59 73 244 
+categories TRACE.txt 2 248 250 
+state-of-the-art TRACE.txt 1 129 
+nasas TRACE.txt 1 101 
+uses TRACE.txt 1 4 
+designed TRACE.txt 3 20 124 162 
+alpha TRACE.txt 1 178 
+gallery TRACE.txt 1 234 
+structure TRACE.txt 1 64 
+a TRACE.txt 7 14 54 111 128 141 168 200 
+correlated TRACE.txt 1 165 
+center TRACE.txt 2 105 120 
+light TRACE.txt 2 174 209 
+correspond TRACE.txt 1 187 
+corona TRACE.txt 1 53 
+nasa TRACE.txt 1 15 
+ccd TRACE.txt 1 149 
+the TRACE.txt 23 23 30 35 45 48 52 58 62 70 75 79 96 121 133 138 159 176 183 197 206 210 219 226 
+resolution TRACE.txt 1 40 

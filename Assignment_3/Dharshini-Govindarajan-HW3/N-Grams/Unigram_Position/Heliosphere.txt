@@ -1,0 +1,846 @@
+limited Heliosphere.txt 1 159 
+all Heliosphere.txt 1 832 
+concept Heliosphere.txt 1 2237 
+pointing Heliosphere.txt 1 1793 
+represent Heliosphere.txt 1 1528 
+suns Heliosphere.txt 9 13 236 717 1292 1393 1805 2052 2263 2525 
+magnetic Heliosphere.txt 17 482 520 594 690 702 718 730 772 925 1253 1509 1518 1537 1617 1709 1719 2734 
+results Heliosphere.txt 6 643 1316 2346 2680 2739 2805 
+month Heliosphere.txt 1 1647 
+spacecraft Heliosphere.txt 10 97 246 1230 1320 1428 2141 2310 2629 2644 2903 
+debris Heliosphere.txt 1 2580 
+per Heliosphere.txt 1 2603 
+tenuous Heliosphere.txt 1 1172 
+suspected Heliosphere.txt 1 2149 
+consists Heliosphere.txt 1 677 
+disk Heliosphere.txt 2 1163 1181 
+revealed Heliosphere.txt 2 644 2752 
+causes Heliosphere.txt 1 917 
+particles Heliosphere.txt 15 329 679 968 1103 1266 1609 1841 1874 1894 1897 1905 1952 2111 2366 2383 
+1.13 Heliosphere.txt 1 581 
+zone Heliosphere.txt 2 487 1883 
+94 Heliosphere.txt 1 1242 
+environment Heliosphere.txt 1 2778 
+to Heliosphere.txt 55 178 259 337 342 348 355 364 389 398 461 474 517 559 744 794 862 901 905 936 939 1049 1072 1170 1204 1357 1391 1405 1451 1569 1658 1701 1728 1772 1889 1919 1954 2063 2194 2293 2312 2331 2490 2523 2529 2576 2623 2634 2671 2690 2694 2762 2835 2895 2940 2944 
+tail Heliosphere.txt 11 647 1758 1767 1774 1781 1799 1844 1885 1915 1941 2581 
+does Heliosphere.txt 3 1782 2505 2816 
+outwards Heliosphere.txt 2 334 1289 
+marks Heliosphere.txt 1 231 
+analogous Heliosphere.txt 2 1169 1203 
+include Heliosphere.txt 3 2947 2996 3020 
+magnetopause Heliosphere.txt 1 2409 
+returning Heliosphere.txt 1 1265 
+far Heliosphere.txt 4 37 1036 2295 2780 
+circa Heliosphere.txt 1 2904 
+continues Heliosphere.txt 1 388 
+mph Heliosphere.txt 1 345 
+wave Heliosphere.txt 8 470 1081 1159 1201 2241 2399 2439 2893 
+ultraviolet Heliosphere.txt 1 673 
+fall Heliosphere.txt 1 1669 
+cognisant Heliosphere.txt 1 2357 
+bubbles Heliosphere.txt 4 483 1474 1496 1505 
+exact Heliosphere.txt 1 992 
+categories Heliosphere.txt 2 3039 3041 
+slowed Heliosphere.txt 1 1337 
+presented Heliosphere.txt 1 1210 
+diverging Heliosphere.txt 1 1167 
+notes Heliosphere.txt 1 3034 
+shock Heliosphere.txt 27 90 109 384 415 439 877 881 888 933 955 963 1080 1088 1183 1192 1234 1332 1744 1985 2212 2318 2398 2421 2438 2487 2590 2886 
+list Heliosphere.txt 1 2950 
+insufficiently Heliosphere.txt 1 2356 
+large Heliosphere.txt 1 2117 
+hypothetical Heliosphere.txt 1 1980 
+announced Heliosphere.txt 5 204 566 616 1456 1673 
+smaller Heliosphere.txt 1 2253 
+slower Heliosphere.txt 2 374 1197 
+evaporating Heliosphere.txt 1 1816 
+trails Heliosphere.txt 1 1382 
+mira Heliosphere.txt 1 2568 
+depictions Heliosphere.txt 1 3019 
+stellar-wind Heliosphere.txt 1 21 
+jump Heliosphere.txt 1 1137 
+winds Heliosphere.txt 5 819 1447 1562 1574 1926 
+zero Heliosphere.txt 2 518 1452 
+traveling Heliosphere.txt 2 147 2657 
+pass Heliosphere.txt 1 2666 
+further Heliosphere.txt 3 1082 1943 2423 
+230 Heliosphere.txt 1 2495 
+estimated Heliosphere.txt 1 1404 
+observatories Heliosphere.txt 2 2969 2995 
+ribbon Heliosphere.txt 3 2758 2802 2864 
+even Heliosphere.txt 1 2018 
+what Heliosphere.txt 2 2794 2809 
+complexities Heliosphere.txt 1 2361 
+sun Heliosphere.txt 36 34 48 85 152 301 451 586 604 664 694 776 830 849 907 945 952 973 1032 1041 1085 1246 1275 1353 1549 1699 1797 1921 1947 2013 2114 2370 2435 2459 2468 2556 2626 
+while Heliosphere.txt 2 978 2379 
+thickness Heliosphere.txt 1 1402 
+current Heliosphere.txt 6 741 750 756 760 2276 2302 
+experiment Heliosphere.txt 1 2987 
+poles Heliosphere.txt 1 1929 
+flowing Heliosphere.txt 1 1146 
+new Heliosphere.txt 5 476 589 1958 2512 2651 
+contrast Heliosphere.txt 1 1260 
+shocks Heliosphere.txt 2 1112 2426 
+maintains Heliosphere.txt 1 56 
+led Heliosphere.txt 1 473 
+2.9 Heliosphere.txt 1 349 
+exchange Heliosphere.txt 1 1820 
+respectively Heliosphere.txt 1 1501 
+here Heliosphere.txt 2 1333 2186 
+pluto Heliosphere.txt 1 42 
+water Heliosphere.txt 4 1129 1147 1188 1195 
+following Heliosphere.txt 1 1648 
+red Heliosphere.txt 1 2565 
+studio Heliosphere.txt 1 281 
+sink Heliosphere.txt 3 884 1133 1144 
+meet Heliosphere.txt 1 863 
+directions Heliosphere.txt 1 833 
+path Heliosphere.txt 1 1394 
+100 Heliosphere.txt 4 989 1358 1410 1472 
+appears Heliosphere.txt 1 2689 
+change Heliosphere.txt 3 922 1251 1611 
+sending Heliosphere.txt 1 1922 
+great Heliosphere.txt 1 1567 
+study Heliosphere.txt 3 2315 2624 2897 
+studied Heliosphere.txt 3 1430 2235 2931 
+bow Heliosphere.txt 10 438 469 1984 2211 2240 2420 2425 2486 2885 2892 
+credit Heliosphere.txt 1 273 
+milky Heliosphere.txt 2 75 2084 
+narrow Heliosphere.txt 1 2757 
+makes Heliosphere.txt 1 1949 
+composed Heliosphere.txt 1 2219 
+via Heliosphere.txt 1 2982 
+followed Heliosphere.txt 2 956 1090 
+storms Heliosphere.txt 1 731 
+highly Heliosphere.txt 1 2390 
+cassini Heliosphere.txt 2 629 2679 
+total Heliosphere.txt 1 2956 
+cloud Heliosphere.txt 1 2069 
+ulysses Heliosphere.txt 1 2534 
+use Heliosphere.txt 1 191 
+charge Heliosphere.txt 1 1819 
+from Heliosphere.txt 40 46 83 299 315 442 527 584 682 828 847 943 971 1019 1030 1039 1083 1244 1256 1273 1317 1351 1534 1655 1697 1704 1795 1945 2008 2015 2112 2163 2166 2335 2349 2466 2511 2584 2696 2743 2966 
+takes Heliosphere.txt 1 871 
+would Heliosphere.txt 1 2448 
+brighter Heliosphere.txt 1 2765 
+distinct Heliosphere.txt 1 2589 
+gregor Heliosphere.txt 1 3004 
+two Heliosphere.txt 3 1096 2339 2761 
+camera Heliosphere.txt 1 2701 
+therefore Heliosphere.txt 1 1848 
+6 Heliosphere.txt 1 2866 
+taken Heliosphere.txt 1 1255 
+reconnection Heliosphere.txt 1 1510 
+until Heliosphere.txt 1 86 
+more Heliosphere.txt 6 467 1650 1937 2729 2781 2963 
+knows Heliosphere.txt 1 2793 
+definition Heliosphere.txt 1 2402 
+becomes Heliosphere.txt 1 373 
+fast-moving Heliosphere.txt 1 305 
+apparent Heliosphere.txt 1 555 
+stone Heliosphere.txt 1 1224 
+virtue Heliosphere.txt 1 1248 
+particular Heliosphere.txt 2 689 2907 
+known Heliosphere.txt 5 49 1732 1991 2204 2292 
+90 Heliosphere.txt 1 940 
+aligned Heliosphere.txt 1 1715 
+easiest Heliosphere.txt 1 1121 
+must Heliosphere.txt 1 859 
+word Heliosphere.txt 2 174 194 
+indicates Heliosphere.txt 1 1707 
+this Heliosphere.txt 12 8 57 856 870 916 1279 1303 1579 1686 2508 2542 2827 
+galaxys Heliosphere.txt 1 2417 
+launch Heliosphere.txt 1 2344 
+mi Heliosphere.txt 3 503 544 583 
+voyagers Heliosphere.txt 1 1459 
+theories Heliosphere.txt 1 172 
+crossed Heliosphere.txt 2 950 1678 
+can Heliosphere.txt 8 256 311 728 1052 1113 1769 1916 2961 
+believed Heliosphere.txt 2 935 2790 
+under Heliosphere.txt 1 599 
+detached Heliosphere.txt 1 1533 
+drops Heliosphere.txt 2 516 1048 
+galex Heliosphere.txt 1 2562 
+tap Heliosphere.txt 1 1130 
+bubble-like Heliosphere.txt 2 27 1966 
+links Heliosphere.txt 1 3037 
+escapes Heliosphere.txt 1 1812 
+december Heliosphere.txt 2 563 1236 
+pushed Heliosphere.txt 1 1296 
+orion Heliosphere.txt 1 2080 
+assumptions Heliosphere.txt 1 2354 
+dropped Heliosphere.txt 1 1450 
+sharp Heliosphere.txt 1 1602 
+skirt Heliosphere.txt 1 798 
+occur Heliosphere.txt 2 2449 2492 
+terrestrial Heliosphere.txt 1 1117 
+creates Heliosphere.txt 2 54 2480 
+ones Heliosphere.txt 1 2375 
+rays Heliosphere.txt 5 304 553 1628 1641 2122 
+scorpius Heliosphere.txt 1 2169 
+rather Heliosphere.txt 2 2682 2704 
+hydrogen Heliosphere.txt 8 68 1981 2180 2183 2191 2203 2207 2243 
+spreads Heliosphere.txt 1 1148 
+regions Heliosphere.txt 1 284 
+very Heliosphere.txt 2 1005 2756 
+hot Heliosphere.txt 2 322 2202 
+astronomers Heliosphere.txt 1 1455 
+if Heliosphere.txt 1 2450 
+map Heliosphere.txt 2 270 1974 
+galactic Heliosphere.txt 2 1626 2120 
+explorer Heliosphere.txt 4 445 1832 2326 2746 
+information Heliosphere.txt 1 2424 
+may Heliosphere.txt 10 464 534 1122 1220 1277 1284 1419 1630 2270 3023 
+coined Heliosphere.txt 1 181 
+1970s Heliosphere.txt 1 2179 
+high-energy Heliosphere.txt 1 525 
+reflect Heliosphere.txt 1 3025 
+produce Heliosphere.txt 1 729 
+newer Heliosphere.txt 1 3003 
+floor Heliosphere.txt 1 1141 
+coming Heliosphere.txt 1 2162 
+such Heliosphere.txt 4 247 287 1639 2645 
+data Heliosphere.txt 9 160 441 472 632 1703 2695 2742 2877 2942 
+types Heliosphere.txt 1 2109 
+a Heliosphere.txt 63 114 218 245 365 399 437 466 475 485 548 588 645 668 712 763 796 879 883 921 1011 1079 1128 1132 1135 1151 1162 1182 1212 1366 1379 1439 1601 1610 1635 1642 1646 1649 1689 1730 1776 1779 1801 1837 1957 2030 2076 2092 2101 2116 2199 2239 2397 2437 2481 2485 2579 2588 2620 2684 2753 2884 2891 2955 
+supersonic Heliosphere.txt 3 857 1056 1173 
+sectors Heliosphere.txt 1 1514 
+resemble Heliosphere.txt 1 795 
+corona Heliosphere.txt 3 326 685 2960 
+maintain Heliosphere.txt 1 1055 
+so Heliosphere.txt 1 2019 
+south Heliosphere.txt 1 1300 
+every Heliosphere.txt 1 698 
+wind Heliosphere.txt 37 53 80 238 328 372 387 410 514 654 659 676 708 726 816 825 858 898 967 1022 1047 1070 1102 1175 1335 1482 1523 1552 1589 1722 1807 1933 2281 2463 2473 2714 2976 2985 
+least Heliosphere.txt 1 2138 
+produces Heliosphere.txt 1 2436 
+september Heliosphere.txt 1 200 
+gradual Heliosphere.txt 1 1651 
+astronomical Heliosphere.txt 2 941 1359 
+vary Heliosphere.txt 1 2272 
+mission Heliosphere.txt 2 2303 2328 
+ejecta Heliosphere.txt 1 2583 
+years Heliosphere.txt 1 2340 
+130 Heliosphere.txt 1 2601 
+structuring Heliosphere.txt 1 2784 
+100-fold Heliosphere.txt 1 531 
+through Heliosphere.txt 10 107 143 394 452 1395 1969 2266 2597 2659 2667 
+astrospheres Heliosphere.txt 1 16 
+during Heliosphere.txt 2 2954 2970 
+existence Heliosphere.txt 1 2882 
+still Heliosphere.txt 2 598 2641 
+its Heliosphere.txt 14 361 1074 1343 1349 1363 1398 1401 1928 1935 2342 2441 2461 2595 2917 
+galaxy Heliosphere.txt 7 77 244 529 1713 2086 2268 2854 
+observational Heliosphere.txt 1 2605 
+25 Heliosphere.txt 5 213 627 699 1654 1684 
+outer Heliosphere.txt 3 101 799 803 
+maps Heliosphere.txt 3 2722 2815 2839 
+inward Heliosphere.txt 1 1297 
+28 Heliosphere.txt 1 1312 
+vicinity Heliosphere.txt 1 843 
+decreases Heliosphere.txt 1 1023 
+late Heliosphere.txt 2 569 1434 
+detected Heliosphere.txt 6 505 547 1634 2034 2044 2861 
+according Heliosphere.txt 3 2193 2693 2894 
+degrees Heliosphere.txt 1 2176 
+systems Heliosphere.txt 5 651 1118 1766 1881 2413 
+400 Heliosphere.txt 1 976 
+hidden Heliosphere.txt 1 3040 
+main Heliosphere.txt 2 656 753 
+2011 Heliosphere.txt 2 1454 2905 
+2010 Heliosphere.txt 3 510 1435 2857 
+2013 Heliosphere.txt 8 202 614 641 1313 1671 2144 2146 2234 
+2012 Heliosphere.txt 9 214 535 564 571 628 1631 1660 1685 2499 
+eventually Heliosphere.txt 1 2665 
+heliotail Heliosphere.txt 5 635 1752 1755 1825 1864 
+material Heliosphere.txt 4 297 2004 2053 2222 
+9 Heliosphere.txt 1 1643 
+they Heliosphere.txt 3 591 1526 2376 
+not Heliosphere.txt 9 155 1466 1783 1846 2007 2506 2817 2879 3024 
+now Heliosphere.txt 1 2559 
+26.3 Heliosphere.txt 1 2531 
+articles Heliosphere.txt 1 657 
+several Heliosphere.txt 4 837 874 1383 2175 
+1.05 Heliosphere.txt 1 501 
+edit Heliosphere.txt 23 266 655 738 752 801 878 1302 1540 1753 1964 2182 2422 2607 2630 2681 2740 2899 3015 3017 3031 3033 3035 3038 
+always Heliosphere.txt 1 1792 
+drop Heliosphere.txt 1 1603 
+oppositely Heliosphere.txt 1 1512 
+did Heliosphere.txt 1 2878 
+stopped Heliosphere.txt 2 1105 1554 
+h Heliosphere.txt 1 2609 
+crossing Heliosphere.txt 1 1593 
+found Heliosphere.txt 1 1827 
+side Heliosphere.txt 3 1400 1901 2256 
+square Heliosphere.txt 1 1026 
+telescope Heliosphere.txt 3 2563 3000 3006 
+nanometers Heliosphere.txt 1 672 
+challenged Heliosphere.txt 1 633 
+bump Heliosphere.txt 1 2371 
+hundred Heliosphere.txt 1 838 
+energy Heliosphere.txt 3 1868 2381 2736 
+related Heliosphere.txt 1 2943 
+entering Heliosphere.txt 1 111 
+ripple Heliosphere.txt 1 764 
+wavelength Heliosphere.txt 1 669 
+80 Heliosphere.txt 1 1356 
+beyond Heliosphere.txt 5 38 432 851 1329 1961 
+out Heliosphere.txt 4 45 743 1149 1923 
+travels Heliosphere.txt 1 2442 
+ultimately Heliosphere.txt 1 1811 
+high-temperature Heliosphere.txt 1 2959 
+space Heliosphere.txt 10 30 263 276 623 822 1396 1960 1999 2598 2617 
+since Heliosphere.txt 2 2177 2460 
+forty Heliosphere.txt 1 226 
+hydraulic Heliosphere.txt 1 1136 
+increase Heliosphere.txt 9 220 530 550 1621 1637 1644 1652 2094 2118 
+collisions Heliosphere.txt 2 1877 2710 
+dominated Heliosphere.txt 3 31 295 2707 
+suggesting Heliosphere.txt 1 1661 
+cetus Heliosphere.txt 1 2572 
+newly Heliosphere.txt 1 1826 
+1.79 Heliosphere.txt 1 343 
+highway Heliosphere.txt 1 595 
+lism Heliosphere.txt 1 2518 
+clover Heliosphere.txt 1 1839 
+after Heliosphere.txt 1 2865 
+theory Heliosphere.txt 2 477 636 
+fluctuates Heliosphere.txt 1 999 
+interactions Heliosphere.txt 2 812 910 
+timeline Heliosphere.txt 1 3014 
+million Heliosphere.txt 2 344 350 
+interplanetary Heliosphere.txt 2 661 1536 
+encountering Heliosphere.txt 1 87 
+mcmathpierce Heliosphere.txt 1 2998 
+mimi Heliosphere.txt 1 2702 
+detecting Heliosphere.txt 2 1264 1492 
+incorporates Heliosphere.txt 1 1315 
+interaction Heliosphere.txt 4 1344 2726 2912 2920 
+created Heliosphere.txt 3 768 1475 1875 
+could Heliosphere.txt 1 2251 
+cosmic Heliosphere.txt 6 303 309 552 1627 1640 2121 
+days Heliosphere.txt 1 700 
+times Heliosphere.txt 3 227 1384 2764 
+motion Heliosphere.txt 2 92 2265 
+turn Heliosphere.txt 1 120 
+american Heliosphere.txt 1 1216 
+explored Heliosphere.txt 1 99 
+place Heliosphere.txt 1 872 
+ism Heliosphere.txt 1 2129 
+signature Heliosphere.txt 1 556 
+moving Heliosphere.txt 2 1968 2455 
+support Heliosphere.txt 1 2880 
+speeds Heliosphere.txt 1 835 
+first Heliosphere.txt 2 190 1860 
+initial Heliosphere.txt 3 2345 2741 2772 
+features Heliosphere.txt 1 3021 
+blown Heliosphere.txt 1 44 
+radical Heliosphere.txt 1 2102 
+number Heliosphere.txt 1 1624 
+reaches Heliosphere.txt 1 102 
+one Heliosphere.txt 6 232 1034 2195 2230 2792 2896 
+fast Heliosphere.txt 3 1891 1904 1924 
+another Heliosphere.txt 1 2245 
+reached Heliosphere.txt 3 261 621 1438 
+earths Heliosphere.txt 5 663 734 842 2164 2911 
+cannot Heliosphere.txt 1 1850 
+long Heliosphere.txt 1 2431 
+sheet Heliosphere.txt 4 742 751 757 761 
+temperature Heliosphere.txt 1 1606 
+leading Heliosphere.txt 1 397 
+interact Heliosphere.txt 2 356 1727 
+contact Heliosphere.txt 1 2670 
+system Heliosphere.txt 6 790 930 2260 2550 2662 2927 
+approximately Heliosphere.txt 2 697 1355 
+anyone Heliosphere.txt 1 2788 
+their Heliosphere.txt 1 2393 
+2 Heliosphere.txt 7 425 959 1262 1427 1490 2309 2655 
+too Heliosphere.txt 1 457 
+passed Heliosphere.txt 1 1231 
+which Heliosphere.txt 8 35 117 144 251 998 1066 1948 2074 
+wrapped Heliosphere.txt 1 710 
+perfectly Heliosphere.txt 1 156 
+structures Heliosphere.txt 2 167 1530 
+final Heliosphere.txt 1 1990 
+observations Heliosphere.txt 3 1413 1861 2875 
+stars Heliosphere.txt 4 19 1578 2017 2552 
+big Heliosphere.txt 1 3010 
+that Heliosphere.txt 28 72 205 431 478 567 617 1153 1226 1281 1370 1385 1417 1457 1462 1531 1674 1835 2000 2150 2248 2352 2404 2433 2724 2759 2775 2936 3022 
+shallow Heliosphere.txt 1 1165 
+released Heliosphere.txt 2 1309 2232 
+optical Heliosphere.txt 1 1855 
+july Heliosphere.txt 1 640 
+than Heliosphere.txt 8 375 1156 1198 2554 2683 2705 2766 2787 
+begins Heliosphere.txt 1 354 
+10 Heliosphere.txt 9 499 502 540 543 579 582 1408 2648 2673 
+12 Heliosphere.txt 1 201 
+showed Heliosphere.txt 1 1416 
+surrounding Heliosphere.txt 1 1577 
+horizons Heliosphere.txt 1 2652 
+bubble Heliosphere.txt 4 22 58 2027 2073 
+see Heliosphere.txt 5 5 20 2190 2948 3029 
+determined Heliosphere.txt 3 809 1461 2502 
+contrary Heliosphere.txt 1 1700 
+were Heliosphere.txt 1 2860 
+interacts Heliosphere.txt 1 2851 
+toward Heliosphere.txt 1 2457 
+perspective Heliosphere.txt 1 2165 
+and Heliosphere.txt 62 55 69 110 153 162 239 308 408 423 484 524 630 660 686 727 791 817 920 1100 1295 1314 1339 1381 1409 1425 1483 1489 1499 1587 1619 1723 1745 1762 1810 1892 1902 1930 1983 1996 2115 2213 2242 2282 2308 2314 2320 2386 2415 2479 2587 2616 2635 2653 2663 2674 2699 2715 2733 2840 2848 2919 3007 
+1.1 Heliosphere.txt 1 542 
+neptune Heliosphere.txt 2 855 2300 
+disambiguation Heliosphere.txt 2 7 2192 
+1.8 Heliosphere.txt 1 539 
+astrosphere Heliosphere.txt 1 14 
+gentle Heliosphere.txt 1 468 
+have Heliosphere.txt 9 98 168 179 260 1429 1532 2577 2928 2937 
+seen Heliosphere.txt 4 666 1115 1124 1852 
+linked Heliosphere.txt 1 1918 
+contents Heliosphere.txt 1 264 
+acceleration Heliosphere.txt 1 2395 
+lie Heliosphere.txt 1 2294 
+strength Heliosphere.txt 1 1563 
+depending Heliosphere.txt 1 2273 
+arm Heliosphere.txt 1 2081 
+oriented Heliosphere.txt 1 1513 
+also Heliosphere.txt 5 2100 2271 2929 2949 3030 
+edge Heliosphere.txt 2 125 2226 
+ibex Heliosphere.txt 13 272 631 642 1833 1857 2327 2350 2536 2738 2747 2804 2874 2876 
+begin Heliosphere.txt 1 1953 
+cassinis Heliosphere.txt 1 2697 
+opposite Heliosphere.txt 1 1390 
+who Heliosphere.txt 1 186 
+reach Heliosphere.txt 1 330 
+astrophysics Heliosphere.txt 1 2428 
+extending Heliosphere.txt 1 777 
+75 Heliosphere.txt 1 938 
+nasas Heliosphere.txt 2 1829 2558 
+significant Heliosphere.txt 1 2858 
+contain Heliosphere.txt 1 1890 
+extremely Heliosphere.txt 1 321 
+model Heliosphere.txt 2 1368 1418 
+especially Heliosphere.txt 1 2005 
+heliosheath Heliosphere.txt 12 113 396 480 493 1301 1322 1372 1432 1443 1464 1736 2319 
+considered Heliosphere.txt 1 783 
+flow Heliosphere.txt 5 1057 1168 2124 2155 2161 
+hemisphere Heliosphere.txt 1 1294 
+km Heliosphere.txt 4 500 541 580 1696 
+bubble-shaped Heliosphere.txt 1 2692 
+electrons Heliosphere.txt 1 526 
+velocity Heliosphere.txt 7 332 362 448 515 1448 2277 2515 
+heliopause."-nasa Heliosphere.txt 1 1751 
+charged Heliosphere.txt 2 1608 1951 
+review Heliosphere.txt 1 2836 
+precise Heliosphere.txt 1 2632 
+phenomenon Heliosphere.txt 1 2543 
+bulging Heliosphere.txt 1 1288 
+detection Heliosphere.txt 2 2106 2627 
+probe Heliosphere.txt 1 2622 
+rotating Heliosphere.txt 1 771 
+earth Heliosphere.txt 3 2336 2967 2991 
+find Heliosphere.txt 1 2313 
+impact Heliosphere.txt 1 1478 
+giant Heliosphere.txt 1 2566 
+slow Heliosphere.txt 6 390 860 1893 1896 1931 2377 
+based Heliosphere.txt 2 2868 2993 
+just Heliosphere.txt 2 2020 2038 
+northern Heliosphere.txt 1 1293 
+true Heliosphere.txt 1 2360 
+credited Heliosphere.txt 1 188 
+enough Heliosphere.txt 2 1037 1568 
+should Heliosphere.txt 1 1597 
+jan Heliosphere.txt 2 1656 1659 
+being Heliosphere.txt 1 2706 
+only Heliosphere.txt 1 1270 
+air Heliosphere.txt 1 2615 
+local Heliosphere.txt 7 913 1158 1200 2067 2072 2284 2519 
+over Heliosphere.txt 2 2158 2600 
+do Heliosphere.txt 1 1845 
+slows Heliosphere.txt 7 93 363 899 1071 1524 1808 2478 
+distance Heliosphere.txt 6 846 1029 1350 1386 1690 2633 
+october Heliosphere.txt 3 2347 2750 2856 
+stop Heliosphere.txt 1 366 
+bear Heliosphere.txt 1 3011 
+truly Heliosphere.txt 1 2807 
+120 Heliosphere.txt 1 537 
+121 Heliosphere.txt 1 1692 
+122 Heliosphere.txt 1 576 
+ionized Heliosphere.txt 1 680 
+negative Heliosphere.txt 1 2394 
+penetrate Heliosphere.txt 1 312 
+1.83 Heliosphere.txt 1 578 
+alexander Heliosphere.txt 1 183 
+transitional Heliosphere.txt 2 115 2031 
+fields Heliosphere.txt 2 687 691 
+morph Heliosphere.txt 1 1955 
+summary Heliosphere.txt 1 265 
+traversed Heliosphere.txt 1 417 
+filled Heliosphere.txt 2 1470 2002 
+18 Heliosphere.txt 1 1694 
+doubles Heliosphere.txt 1 523 
+movement Heliosphere.txt 1 2596 
+where Heliosphere.txt 11 91 369 404 895 1050 1094 1444 1547 1559 1583 1803 
+approaching Heliosphere.txt 1 1664 
+ballerinas Heliosphere.txt 1 797 
+set Heliosphere.txt 1 2872 
+exists Heliosphere.txt 1 2198 
+smooth Heliosphere.txt 1 1467 
+national Heliosphere.txt 1 2614 
+turbulent Heliosphere.txt 1 1341 
+we Heliosphere.txt 2 2810 2844 
+relative Heliosphere.txt 2 904 2522 
+irregularly Heliosphere.txt 1 1286 
+intensity Heliosphere.txt 1 522 
+are Heliosphere.txt 10 720 969 1104 1506 1898 1906 2355 2656 2806 2811 
+constellation Heliosphere.txt 2 2168 2571 
+outward Heliosphere.txt 3 82 722 2658 
+goddard Heliosphere.txt 1 275 
+creating Heliosphere.txt 3 1134 2396 2796 
+permeates Heliosphere.txt 1 73 
+said Heliosphere.txt 3 177 258 793 
+clover-shaped Heliosphere.txt 1 1940 
+interacting Heliosphere.txt 1 2223 
+attempting Heliosphere.txt 1 2330 
+away Heliosphere.txt 5 827 1038 1794 1944 2465 
+wikipedia Heliosphere.txt 1 1 
+pressures Heliosphere.txt 3 411 1097 1590 
+outside Heliosphere.txt 8 61 317 1190 1748 2021 2087 2296 2547 
+between Heliosphere.txt 8 234 813 1407 1511 1993 2209 2410 2711 
+probably Heliosphere.txt 4 1503 1527 2171 2504 
+boundary Heliosphere.txt 10 233 400 444 1546 1582 1831 1882 1992 2325 2745 
+previous Heliosphere.txt 2 2353 2823 
+approach Heliosphere.txt 1 558 
+available Heliosphere.txt 1 161 
+stagnation Heliosphere.txt 2 486 489 
+recently Heliosphere.txt 1 1938 
+august Heliosphere.txt 4 212 570 626 1683 
+nature Heliosphere.txt 1 164 
+emitted Heliosphere.txt 2 970 2367 
+however Heliosphere.txt 2 1412 1778 
+rapidly Heliosphere.txt 1 1166 
+hypothesis Heliosphere.txt 2 2196 2246 
+no Heliosphere.txt 3 1053 1565 2791 
+extent Heliosphere.txt 1 2918 
+coma Heliosphere.txt 1 1377 
+article Heliosphere.txt 2 9 754 
+atoms Heliosphere.txt 5 269 307 681 1872 2801 
+abruptly Heliosphere.txt 1 94 
+suggested Heliosphere.txt 1 446 
+both Heliosphere.txt 1 2578 
+hits Heliosphere.txt 1 2474 
+million-mile-wide Heliosphere.txt 1 1473 
+missions Heliosphere.txt 2 2935 2953 
+4-lobed Heliosphere.txt 1 646 
+many Heliosphere.txt 2 171 2382 
+region Heliosphere.txt 13 28 116 490 590 1325 1440 1731 1802 2032 2077 2200 2482 2828 
+heating Heliosphere.txt 1 919 
+against Heliosphere.txt 2 59 1058 
+display Heliosphere.txt 1 2611 
+s Heliosphere.txt 2 953 1550 
+heliospheric Heliosphere.txt 4 740 749 755 759 
+streams Heliosphere.txt 1 826 
+comet Heliosphere.txt 2 1380 1777 
+passing Heliosphere.txt 1 106 
+magnetosphere Heliosphere.txt 2 736 2414 
+1.69 Heliosphere.txt 1 498 
+compressed Heliosphere.txt 1 1338 
+reside Heliosphere.txt 1 2064 
+point Heliosphere.txt 4 368 891 1067 1365 
+wall Heliosphere.txt 7 1186 1982 2181 2184 2208 2217 2244 
+sky Heliosphere.txt 1 2771 
+heliophysics Heliosphere.txt 2 2902 2952 
+kilometers Heliosphere.txt 1 2602 
+simply Heliosphere.txt 1 1126 
+i.e Heliosphere.txt 1 2024 
+associated Heliosphere.txt 1 1014 
+throughout Heliosphere.txt 1 778 
+second Heliosphere.txt 2 2604 2871 
+forms Heliosphere.txt 1 1189 
+most Heliosphere.txt 1 3026 
+remarkable Heliosphere.txt 1 2808 
+seeps Heliosphere.txt 1 2054 
+union Heliosphere.txt 1 1218 
+create Heliosphere.txt 1 1729 
+locally Heliosphere.txt 1 2898 
+three Heliosphere.txt 1 2763 
+been Heliosphere.txt 7 180 1887 2134 2545 2574 2677 2930 
+hitting Heliosphere.txt 1 1139 
+reduction Heliosphere.txt 1 2103 
+heliosphere Heliosphere.txt 35 0 6 24 105 128 136 175 210 255 293 314 652 767 780 807 894 1283 1307 1328 1761 1814 1963 1967 1995 2023 2060 2089 2132 2229 2476 2688 2786 2847 2915 2946 
+slowly Heliosphere.txt 1 1815 
+interest Heliosphere.txt 1 2908 
+four-leaf Heliosphere.txt 1 1838 
+entered Heliosphere.txt 1 587 
+meeting Heliosphere.txt 1 1213 
+topics Heliosphere.txt 1 2189 
+location Heliosphere.txt 1 1977 
+direction Heliosphere.txt 5 1389 1614 2152 2173 2593 
+arises Heliosphere.txt 1 964 
+controlled Heliosphere.txt 2 138 2728 
+thousand Heliosphere.txt 1 341 
+formed Heliosphere.txt 1 1507 
+gas Heliosphere.txt 1 71 
+interpretations Heliosphere.txt 1 2773 
+readings Heliosphere.txt 1 1254 
+dramatic Heliosphere.txt 1 608 
+understand Heliosphere.txt 1 2845 
+external Heliosphere.txt 1 3036 
+sausage-shaped Heliosphere.txt 1 1504 
+evidence Heliosphere.txt 2 1209 1493 
+sound Heliosphere.txt 3 379 982 1077 
+encompassed Heliosphere.txt 1 1907 
+uncertain Heliosphere.txt 1 2642 
+these Heliosphere.txt 4 166 2814 2837 3018 
+might Heliosphere.txt 1 2889 
+supersonically Heliosphere.txt 2 2456 2469 
+will Heliosphere.txt 2 2664 2830 
+near Heliosphere.txt 3 285 1927 1934 
+exist Heliosphere.txt 1 2507 
+balance Heliosphere.txt 2 412 1591 
+passes Heliosphere.txt 1 393 
+launched Heliosphere.txt 1 2748 
+comets Heliosphere.txt 2 291 1780 
+changed Heliosphere.txt 2 2157 2172 
+orientation Heliosphere.txt 1 1959 
+19.3 Heliosphere.txt 1 671 
+equator Heliosphere.txt 1 1936 
+is Heliosphere.txt 55 10 25 118 137 146 154 176 187 294 380 456 762 782 792 808 889 934 987 1089 1154 1323 1336 1354 1373 1403 1465 1469 1543 1553 1564 1580 1714 1756 1791 1800 1834 1988 2001 2029 2061 2075 2091 2099 2218 2291 2311 2329 2403 2407 2454 2640 2727 2760 2795 2909 
+thus Heliosphere.txt 1 1763 
+it Heliosphere.txt 29 145 216 353 392 428 460 463 781 1016 1051 1239 1268 1662 1768 1786 1788 1790 1849 2147 2269 2290 2429 2447 2477 2500 2503 2538 2829 2850 
+surface Heliosphere.txt 2 323 2992 
+equal Heliosphere.txt 1 1099 
+canceled Heliosphere.txt 1 2621 
+sudden Heliosphere.txt 2 219 549 
+in Heliosphere.txt 72 119 170 195 221 421 426 509 533 551 562 568 610 637 639 688 715 732 765 787 831 840 866 873 882 892 923 927 946 960 983 1007 1116 1219 1235 1252 1259 1276 1290 1298 1387 1414 1433 1453 1497 1604 1612 1622 1629 1638 1645 1667 1842 1878 1908 2065 2078 2095 2104 2119 2233 2385 2427 2440 2498 2569 2591 2749 2769 2813 2855 2862 2924 
+helium Heliosphere.txt 1 70 
+currents Heliosphere.txt 1 2419 
+around Heliosphere.txt 4 495 1176 2387 2551 
+orbital Heliosphere.txt 2 2264 2561 
+different Heliosphere.txt 1 2140 
+suggests Heliosphere.txt 2 1225 2247 
+perhaps Heliosphere.txt 1 1119 
+suggest Heliosphere.txt 3 2351 2723 2774 
+began Heliosphere.txt 2 1263 1491 
+any Heliosphere.txt 1 2820 
+inca Heliosphere.txt 2 2703 2720 
+largest Heliosphere.txt 1 785 
+units Heliosphere.txt 2 942 1360 
+gets Heliosphere.txt 1 709 
+composition Heliosphere.txt 1 2986 
+higher Heliosphere.txt 1 1155 
+voyager Heliosphere.txt 25 96 206 249 419 424 471 507 545 572 618 948 958 1228 1261 1319 1423 1426 1436 1487 1632 1675 1705 2036 2306 2654 
+literature Heliosphere.txt 1 198 
+closest Heliosphere.txt 1 1364 
+upon Heliosphere.txt 1 1138 
+flows Heliosphere.txt 1 81 
+671 Heliosphere.txt 1 340 
+ion Heliosphere.txt 1 2698 
+running Heliosphere.txt 1 1127 
+uses Heliosphere.txt 1 4 
+dust Heliosphere.txt 1 310 
+recent Heliosphere.txt 1 3027 
+center Heliosphere.txt 2 278 1910 
+accumulate Heliosphere.txt 1 2384 
+changes Heliosphere.txt 1 2859 
+obstacles Heliosphere.txt 1 286 
+well Heliosphere.txt 2 149 850 
+km/h Heliosphere.txt 1 351 
+forty-fold Heliosphere.txt 1 2093 
+thought Heliosphere.txt 3 430 2062 2489 
+1 Heliosphere.txt 18 207 250 347 420 508 546 573 619 949 1229 1424 1437 1488 1633 1676 1706 2037 2307 
+km/s Heliosphere.txt 6 339 839 977 990 2532 2541 
+termination Heliosphere.txt 14 89 383 414 876 880 887 932 954 1087 1111 1233 1331 1743 2317 
+the Heliosphere.txt 350 12 23 26 33 39 47 51 60 64 67 74 78 84 88 95 100 104 108 112 123 127 130 132 135 140 151 158 173 193 196 209 229 235 240 243 254 292 300 313 316 320 325 358 367 370 376 382 385 395 402 405 413 433 447 450 453 479 488 492 512 519 528 560 585 593 600 603 611 634 649 674 683 693 701 706 716 724 733 739 745 758 766 770 775 779 784 788 802 806 811 814 818 823 829 841 848 852 864 867 886 890 893 896 906 912 924 928 931 944 951 962 972 979 984 991 996 1001 1017 1020 1025 1028 1031 1040 1042 1045 1059 1062 1068 1084 1086 1092 1095 1107 1120 1140 1143 1145 1157 1171 1177 1180 1191 1194 1199 1205 1215 1227 1232 1245 1250 1257 1274 1282 1291 1299 1306 1318 1321 1324 1327 1330 1334 1346 1352 1371 1376 1388 1392 1422 1431 1442 1445 1458 1463 1477 1480 1484 1495 1502 1516 1521 1535 1541 1544 1548 1556 1560 1572 1576 1581 1584 1592 1595 1605 1613 1616 1623 1665 1668 1679 1698 1708 1712 1717 1724 1734 1739 1742 1747 1750 1754 1757 1760 1764 1773 1796 1798 1804 1813 1821 1824 1840 1843 1859 1863 1867 1879 1884 1895 1900 1903 1909 1911 1914 1920 1939 1946 1950 1962 1965 1970 1976 1979 1986 1989 1994 1997 2012 2022 2025 2051 2056 2059 2066 2071 2079 2083 2088 2105 2113 2123 2126 2131 2151 2154 2160 2167 2178 2206 2210 2214 2216 2225 2228 2236 2249 2255 2258 2262 2267 2275 2279 2283 2287 2297 2301 2305 2316 2323 2333 2359 2363 2369 2373 2388 2405 2408 2411 2416 2434 2444 2451 2458 2467 2471 2475 2514 2517 2524 2548 2555 2564 2570 2585 2592 2613 2625 2631 2638 2660 2668 2687 2709 2712 2716 2719 2725 2770 2776 2785 2797 2803 2822 2842 2853 2863 2870 2881 2910 2914 2925 2945 2958 2971 2974 2980 2983 2997 3002 3008 
+800 Heliosphere.txt 1 338 
+whereas Heliosphere.txt 1 2535 
+bodies Heliosphere.txt 1 2923 
+left Heliosphere.txt 1 208 
+spherical Heliosphere.txt 1 157 
+summer Heliosphere.txt 1 612 
+redirects Heliosphere.txt 1 2185 
+departed Heliosphere.txt 1 253 
+proposed Heliosphere.txt 1 1367 
+hypothesized Heliosphere.txt 1 2432 
+observed Heliosphere.txt 2 2546 2965 
+rest Heliosphere.txt 1 241 
+front Heliosphere.txt 2 1184 1193 
+shape Heliosphere.txt 5 133 1822 1912 2636 2686 
+behind Heliosphere.txt 1 1785 
+retired Heliosphere.txt 1 2560 
+alternative Heliosphere.txt 1 2401 
+rotates Heliosphere.txt 1 695 
+speed Heliosphere.txt 8 377 903 980 993 1075 1152 1160 1202 
+hypothesizes Heliosphere.txt 1 1369 
+visualization Heliosphere.txt 1 280 
+rapid Heliosphere.txt 1 1636 
+density Heliosphere.txt 6 223 997 1008 2097 2285 2737 
+had Heliosphere.txt 5 620 1449 1460 1677 2156 
+except Heliosphere.txt 1 282 
+causing Heliosphere.txt 1 1078 
+extends Heliosphere.txt 1 36 
+inner Heliosphere.txt 1 1735 
+overview Heliosphere.txt 1 2900 
+has Heliosphere.txt 10 252 481 1010 1886 2133 2170 2544 2573 2676 2779 
+plasma Heliosphere.txt 5 43 222 2006 2096 2418 
+match Heliosphere.txt 1 2818 
+heliopause Heliosphere.txt 21 131 230 403 434 561 1093 1539 1542 1596 1666 1680 1987 2215 2250 2321 2334 2364 2389 2406 2639 2669 
+depends Heliosphere.txt 1 994 
+outermost Heliosphere.txt 1 124 
+emanating Heliosphere.txt 1 298 
+early Heliosphere.txt 1 2046 
+possibly Heliosphere.txt 1 2491 
+turbulence Heliosphere.txt 1 2484 
+like Heliosphere.txt 1 1375 
+lost Heliosphere.txt 1 2678 
+shaped Heliosphere.txt 2 1287 1374 
+self-contained Heliosphere.txt 1 1529 
+facing Heliosphere.txt 1 2261 
+collect Heliosphere.txt 1 2941 
+continue Heliosphere.txt 1 2939 
+become Heliosphere.txt 1 1098 
+unexplored Heliosphere.txt 1 163 
+because Heliosphere.txt 5 228 692 908 965 1817 
+methods Heliosphere.txt 1 2606 
+windward Heliosphere.txt 1 1399 
+some Heliosphere.txt 6 607 845 2040 2049 2932 2988 
+back Heliosphere.txt 1 1571 
+streaming Heliosphere.txt 1 333 
+jupiter Heliosphere.txt 1 748 
+examples Heliosphere.txt 2 2933 2989 
+113 Heliosphere.txt 1 496 
+escape Heliosphere.txt 1 331 
+for Heliosphere.txt 7 2 15 283 459 1494 2187 2833 
+measurements Heliosphere.txt 1 2513 
+signaled Heliosphere.txt 1 1599 
+moon Heliosphere.txt 1 2981 
+pioneer Heliosphere.txt 4 2608 2647 2649 2672 
+dessler Heliosphere.txt 1 185 
+periphery Heliosphere.txt 1 1178 
+readily Heliosphere.txt 1 2964 
+scientists Heliosphere.txt 1 2834 
+measuring Heliosphere.txt 1 1866 
+be Heliosphere.txt 18 257 465 937 1114 1123 1285 1406 1420 1598 1770 1851 1917 2252 2530 2691 2831 2890 2962 
+scientific Heliosphere.txt 2 197 279 
+300 Heliosphere.txt 1 336 
+conventional Heliosphere.txt 1 1854 
+stellar Heliosphere.txt 1 1573 
+pressure Heliosphere.txt 7 62 1013 1018 1043 1060 2042 2732 
+although Heliosphere.txt 2 302 1004 
+exciting Heliosphere.txt 1 2832 
+by Heliosphere.txt 39 32 122 139 182 271 296 418 506 705 723 769 810 957 1091 1106 1125 1222 1247 1342 1476 1508 1555 1600 1741 1749 1828 1865 1876 2035 2136 2145 2174 2368 2392 2533 2557 2628 2708 2730 
+shine Heliosphere.txt 1 1847 
+on Heliosphere.txt 14 199 211 648 995 1310 1738 1746 1899 2254 2274 2610 2783 2869 2979 
+about Heliosphere.txt 8 11 225 575 975 988 1241 1305 2494 
+carried Heliosphere.txt 1 721 
+anything Heliosphere.txt 1 2767 
+76 Heliosphere.txt 1 1271 
+of Heliosphere.txt 95 17 29 41 63 103 126 134 165 192 224 242 324 378 449 557 602 613 625 670 678 747 774 805 820 836 854 909 981 1027 1044 1061 1076 1142 1164 1179 1187 1214 1249 1326 1378 1441 1479 1515 1575 1594 1607 1615 1625 1653 1670 1682 1691 1711 1759 1775 1818 1823 1836 1862 1869 1913 1978 2050 2082 2107 2110 2125 2143 2153 2201 2220 2227 2238 2257 2278 2286 2299 2304 2341 2358 2362 2483 2516 2582 2594 2637 2821 2826 2873 2883 2901 2906 2934 2951 2990 
+craft Heliosphere.txt 1 1258 
+months Heliosphere.txt 1 2867 
+stretch Heliosphere.txt 1 1784 
+23.2 Heliosphere.txt 1 2540 
+or Heliosphere.txt 5 290 346 1185 2938 3001 
+revise Heliosphere.txt 1 2841 
+seeing Heliosphere.txt 1 2812 
+own Heliosphere.txt 2 735 2010 
+interplanetary/interstellar Heliosphere.txt 1 2643 
+previously Heliosphere.txt 3 2527 2754 2789 
+instruments Heliosphere.txt 1 1856 
+into Heliosphere.txt 6 711 1131 1956 2055 2130 2372 
+within Heliosphere.txt 3 491 2338 2443 
+interstellar Heliosphere.txt 39 65 141 262 359 406 443 454 622 821 868 914 985 1002 1063 1108 1207 1347 1485 1557 1585 1725 1830 1971 1998 2041 2057 2068 2127 2221 2288 2324 2374 2445 2452 2472 2520 2717 2744 2777 
+observatory Heliosphere.txt 1 3013 
+predictions Heliosphere.txt 1 1702 
+down Heliosphere.txt 5 861 900 1525 1809 2378 
+geophysical Heliosphere.txt 1 1217 
+references Heliosphere.txt 1 3032 
+paper Heliosphere.txt 1 2231 
+energised Heliosphere.txt 1 2391 
+compression Heliosphere.txt 1 918 
+area Heliosphere.txt 1 597 
+measured Heliosphere.txt 5 217 2135 2528 2537 2978 
+museum Heliosphere.txt 1 2618 
+there Heliosphere.txt 7 435 511 2028 2090 2098 2197 2888 
+spiral Heliosphere.txt 1 713 
+gases Heliosphere.txt 1 865 
+gallery Heliosphere.txt 1 3016 
+low Heliosphere.txt 2 458 1006 
+way Heliosphere.txt 3 76 2085 2843 
+ed Heliosphere.txt 1 1223 
+resulted Heliosphere.txt 2 169 2510 
+refurbished Heliosphere.txt 1 3009 
+was Heliosphere.txt 17 416 429 436 504 1240 1269 1308 1663 1687 2043 2148 2430 2488 2501 2526 2619 2977 
+considerably Heliosphere.txt 1 1000 
+medium Heliosphere.txt 26 66 142 360 407 455 662 869 915 986 1003 1064 1109 1208 1348 1486 1558 1586 1726 1972 2058 2128 2289 2446 2453 2521 2718 
+form Heliosphere.txt 1 462 
+forming Heliosphere.txt 1 1161 
+differences Heliosphere.txt 1 609 
+but Heliosphere.txt 7 440 605 1468 2014 2497 2887 2916 
+neutral Heliosphere.txt 6 268 306 1871 1873 2700 2800 
+solar Heliosphere.txt 57 52 79 237 327 371 386 409 513 650 653 658 675 684 707 725 789 815 824 897 929 966 1021 1046 1069 1101 1174 1446 1481 1517 1522 1551 1561 1588 1718 1721 1765 1806 1880 1925 1932 1973 2026 2259 2280 2412 2462 2549 2661 2713 2926 2968 2975 2984 2994 2999 3005 3012 
+unpredicted Heliosphere.txt 1 2755 
+apollo Heliosphere.txt 1 2972 
+with Heliosphere.txt 17 189 357 606 911 1015 1024 1345 1471 1716 1853 1975 2003 2224 2819 2852 2913 2921 
+basin Heliosphere.txt 1 885 
+made Heliosphere.txt 2 1340 1858 
+inside Heliosphere.txt 2 1740 2070 
+j Heliosphere.txt 1 184 
+variations Heliosphere.txt 1 714 
+particle Heliosphere.txt 1 2731 
+theoretical Heliosphere.txt 2 1545 2824 
+below Heliosphere.txt 1 1073 
+how Heliosphere.txt 1 2849 
+stages Heliosphere.txt 1 875 
+called Heliosphere.txt 4 129 381 401 592 
+originating Heliosphere.txt 1 318 
+constant Heliosphere.txt 1 1012 
+certain Heliosphere.txt 1 2108 
+influence Heliosphere.txt 2 601 2782 
+an Heliosphere.txt 4 554 596 1620 2400 
+meanwhile Heliosphere.txt 1 2322 
+as Heliosphere.txt 21 50 148 150 248 288 352 391 624 665 1033 1520 1681 1733 1787 2033 2039 2045 2047 2142 2205 2646 
+au Heliosphere.txt 9 497 538 577 1243 1272 1361 1411 1693 2496 
+at Heliosphere.txt 19 319 335 536 574 667 834 844 974 1065 1150 1211 1362 1397 1688 2137 2493 2539 2599 2612 
+planets Heliosphere.txt 1 289 
+our Heliosphere.txt 2 2009 2846 
+flight Heliosphere.txt 1 277 
+moves Heliosphere.txt 5 1035 1196 1789 1942 2464 
+incorrect Heliosphere.txt 1 1421 
+11 Heliosphere.txt 3 2139 2650 2675 
+compared Heliosphere.txt 1 1771 
+nonetheless Heliosphere.txt 1 1009 
+image Heliosphere.txt 1 2332 
+when Heliosphere.txt 5 215 1238 1267 2365 2470 
+subsonic Heliosphere.txt 2 902 1206 
+field Heliosphere.txt 11 521 703 719 773 926 1519 1538 1618 1710 1720 2735 
+other Heliosphere.txt 7 3 18 1110 2016 2188 2553 2922 
+program Heliosphere.txt 1 2973 
+eclipse Heliosphere.txt 1 2957 
+conclusion Heliosphere.txt 1 2509 
+picture Heliosphere.txt 1 1304 
+releasing Heliosphere.txt 1 2380 
+star Heliosphere.txt 3 2011 2567 2586 
+energetic Heliosphere.txt 3 267 1870 2799 
+models Heliosphere.txt 2 2825 3028 
+time Heliosphere.txt 1 2159 
+june Heliosphere.txt 1 1311 
+shown Heliosphere.txt 2 1888 2575 
+transported Heliosphere.txt 1 704 
+comet-like Heliosphere.txt 1 2685 
+bounded Heliosphere.txt 2 121 1737 
+else Heliosphere.txt 1 2768 
+structure Heliosphere.txt 4 737 786 800 804 
+billion Heliosphere.txt 1 1695 
+implies Heliosphere.txt 1 1280 
+longer Heliosphere.txt 2 1054 1566 
+orbit Heliosphere.txt 5 40 746 853 2298 2337 
+ena Heliosphere.txt 3 2721 2798 2838 
+nasa Heliosphere.txt 5 203 274 565 615 1672 
+2006 Heliosphere.txt 1 1278 
+2007 Heliosphere.txt 3 427 961 1498 
+2004 Heliosphere.txt 4 422 947 1237 2048 
+2005 Heliosphere.txt 1 1221 
+push Heliosphere.txt 1 1570 
+2008 Heliosphere.txt 3 1500 2343 2751 
+2009 Heliosphere.txt 4 638 1415 1657 2348 
+starting Heliosphere.txt 2 494 532 
+once Heliosphere.txt 1 696 

@@ -1,0 +1,369 @@
+all Fine_structure.txt 1 1024 
+magnetic Fine_structure.txt 4 550 558 568 1082 
+splitting Fine_structure.txt 3 8 27 154 
+depend Fine_structure.txt 1 116 
+calculate Fine_structure.txt 2 367 396 
+to Fine_structure.txt 22 35 41 156 182 199 210 218 225 356 374 394 447 561 589 617 662 761 853 855 1037 1040 1062 
+edward Fine_structure.txt 1 60 
+worth Fine_structure.txt 1 968 
+rise Fine_structure.txt 1 588 
+wave Fine_structure.txt 2 381 692 
+electron Fine_structure.txt 16 36 243 291 333 468 478 494 515 523 554 696 757 769 822 1009 1087 
+exact Fine_structure.txt 1 1015 
+categories Fine_structure.txt 2 1099 1101 
+morley Fine_structure.txt 1 62 
+hamiltonian Fine_structure.txt 7 212 279 358 386 631 929 936 
+laying Fine_structure.txt 1 65 
+lines Fine_structure.txt 2 31 147 
+degeneracy Fine_structure.txt 1 138 
+smaller Fine_structure.txt 1 884 
+second Fine_structure.txt 1 325 
+cost Fine_structure.txt 1 580 
+value Fine_structure.txt 1 628 
+further Fine_structure.txt 2 395 883 
+estimated Fine_structure.txt 2 791 835 
+spectral Fine_structure.txt 2 30 146 
+s-state Fine_structure.txt 3 877 905 917 
+current Fine_structure.txt 1 542 
+above Fine_structure.txt 1 860 
+ground Fine_structure.txt 1 449 
+full Fine_structure.txt 1 928 
+orbitals Fine_structure.txt 1 687 
+atoms Fine_structure.txt 1 33 
+smearing Fine_structure.txt 1 749 
+i.e Fine_structure.txt 1 985 
+obtained Fine_structure.txt 5 194 249 944 975 999 
+shift Fine_structure.txt 3 881 914 1078 
+vectors Fine_structure.txt 1 569 
+changes Fine_structure.txt 2 615 736 
+via Fine_structure.txt 1 301 
+talon Fine_structure.txt 1 18 
+diracs Fine_structure.txt 1 259 
+total Fine_structure.txt 5 320 924 942 960 994 
+use Fine_structure.txt 2 306 391 
+from Fine_structure.txt 9 234 250 495 507 610 621 937 1046 1070 
+takes Fine_structure.txt 1 128 
+recalling Fine_structure.txt 1 383 
+contains Fine_structure.txt 1 1023 
+two Fine_structure.txt 1 567 
+classically Fine_structure.txt 1 272 
+noting Fine_structure.txt 1 969 
+therefore Fine_structure.txt 1 421 
+relativistic Fine_structure.txt 12 39 131 184 216 269 308 321 375 398 425 445 612 
+theoretical Fine_structure.txt 1 70 
+more Fine_structure.txt 2 125 296 
+introducing Fine_structure.txt 1 75 
+interaction Fine_structure.txt 3 458 754 940 
+must Fine_structure.txt 2 204 305 
+account Fine_structure.txt 1 130 
+this Fine_structure.txt 16 201 340 361 392 533 586 688 770 803 818 845 866 971 1006 1020 1050 
+equation Fine_structure.txt 5 45 257 658 1004 1051 
+protons Fine_structure.txt 1 464 
+can Fine_structure.txt 10 192 246 366 390 502 744 771 800 833 996 
+following Fine_structure.txt 1 955 
+example Fine_structure.txt 1 710 
+compare Fine_structure.txt 1 856 
+links Fine_structure.txt 1 1097 
+give Fine_structure.txt 1 1041 
+calculation Fine_structure.txt 4 202 438 613 777 
+expanding Fine_structure.txt 1 339 
+confused Fine_structure.txt 1 895 
+hydrogen Fine_structure.txt 3 53 402 429 
+lamb Fine_structure.txt 3 880 913 1077 
+instead Fine_structure.txt 1 529 
+sommerfeld Fine_structure.txt 2 74 978 
+derived Fine_structure.txt 2 671 1045 
+orbits Fine_structure.txt 2 516 530 
+hence Fine_structure.txt 1 702 
+coming Fine_structure.txt 1 233 
+1887 Fine_structure.txt 1 64 
+such Fine_structure.txt 1 1074 
+a Fine_structure.txt 23 10 16 57 107 124 178 295 307 342 346 363 460 549 557 577 600 748 775 789 820 825 882 977 
+short Fine_structure.txt 1 776 
+effective Fine_structure.txt 2 541 738 
+light Fine_structure.txt 1 338 
+spectra Fine_structure.txt 2 90 94 
+electron-positron Fine_structure.txt 1 786 
+summing Fine_structure.txt 1 946 
+so Fine_structure.txt 1 573 
+allow Fine_structure.txt 1 780 
+order Fine_structure.txt 9 164 215 354 370 424 440 635 1026 1039 
+galton Fine_structure.txt 1 674 
+over Fine_structure.txt 1 837 
+move Fine_structure.txt 1 801 
+interpreted Fine_structure.txt 1 746 
+through Fine_structure.txt 1 15 
+kinetic Fine_structure.txt 4 220 267 274 312 
+its Fine_structure.txt 1 562 
+before Fine_structure.txt 1 986 
+energies Fine_structure.txt 2 160 1016 
+relativity Fine_structure.txt 2 263 303 
+hidden Fine_structure.txt 1 1100 
+main Fine_structure.txt 1 455 
+then Fine_structure.txt 1 351 
+break Fine_structure.txt 1 136 
+effects Fine_structure.txt 2 134 376 
+not Fine_structure.txt 3 893 1053 1089 
+term Fine_structure.txt 12 232 276 317 326 472 644 650 666 682 735 899 902 
+2p Fine_structure.txt 1 721 
+2s Fine_structure.txt 2 714 726 
+edit Fine_structure.txt 10 81 84 186 271 454 645 926 1093 1095 1098 
+fringes Fine_structure.txt 1 4 
+referred Fine_structure.txt 1 661 
+series Fine_structure.txt 2 344 348 
+energy Fine_structure.txt 16 113 141 190 221 268 275 313 322 330 371 579 591 718 910 920 1043 
+quantum Fine_structure.txt 10 98 120 236 413 419 765 778 889 989 1071 
+wavelength Fine_structure.txt 1 808 
+ev Fine_structure.txt 1 732 
+special Fine_structure.txt 1 302 
+out Fine_structure.txt 2 750 1031 
+since Fine_structure.txt 2 258 625 
+interference Fine_structure.txt 1 3 
+michelson Fine_structure.txt 1 58 
+particles Fine_structure.txt 1 799 
+theory Fine_structure.txt 6 198 260 298 984 1048 1073 
+interactions Fine_structure.txt 2 266 1063 
+standard Fine_structure.txt 1 509 
+generate Fine_structure.txt 1 548 
+incorporates Fine_structure.txt 1 262 
+pairs Fine_structure.txt 2 787 817 
+schrdinger Fine_structure.txt 1 44 
+motion Fine_structure.txt 1 238 
+turn Fine_structure.txt 1 546 
+w Fine_structure.txt 1 61 
+corrections Fine_structure.txt 8 40 185 191 245 372 1044 1058 1069 
+first Fine_structure.txt 8 48 316 353 369 423 670 974 1038 
+origin Fine_structure.txt 1 701 
+number Fine_structure.txt 5 121 172 180 414 420 
+one Fine_structure.txt 3 203 520 648 
+another Fine_structure.txt 1 871 
+precisely Fine_structure.txt 1 50 
+angular Fine_structure.txt 2 564 961 
+given Fine_structure.txt 5 474 678 931 952 1018 
+perturbation Fine_structure.txt 4 197 364 848 1047 
+leading Fine_structure.txt 1 214 
+interact Fine_structure.txt 1 814 
+approximately Fine_structure.txt 1 183 
+their Fine_structure.txt 1 583 
+2 Fine_structure.txt 1 603 
+calculations Fine_structure.txt 1 1035 
+final Fine_structure.txt 1 437 
+gives Fine_structure.txt 4 587 712 840 903 
+that Fine_structure.txt 8 574 597 614 873 886 891 970 1028 
+albert Fine_structure.txt 1 56 
+than Fine_structure.txt 1 921 
+10 Fine_structure.txt 1 731 
+were Fine_structure.txt 1 1029 
+treated Fine_structure.txt 1 1011 
+are Fine_structure.txt 3 1017 1060 1088 
+and Fine_structure.txt 20 38 59 132 143 173 229 264 285 323 404 415 467 484 526 570 676 758 906 964 1079 
+electrodynamics Fine_structure.txt 1 890 
+correction Fine_structure.txt 10 217 223 270 355 399 426 446 501 592 885 
+modern Fine_structure.txt 1 988 
+have Fine_structure.txt 1 434 
+viewed Fine_structure.txt 1 14 
+depending Fine_structure.txt 1 581 
+mechanism Fine_structure.txt 1 872 
+g-factor Fine_structure.txt 1 488 
+potential Fine_structure.txt 5 739 832 843 851 865 
+which Fine_structure.txt 5 135 544 608 1022 1059 
+non-relativistic Fine_structure.txt 5 43 101 252 653 1013 
+unperturbed Fine_structure.txt 2 380 385 
+intrinsic Fine_structure.txt 1 563 
+model Fine_structure.txt 1 127 
+average Fine_structure.txt 1 842 
+deuterium Fine_structure.txt 1 12 
+electrons Fine_structure.txt 3 102 619 810 
+principle Fine_structure.txt 1 795 
+physics Fine_structure.txt 1 21 
+thomas Fine_structure.txt 1 606 
+charles Fine_structure.txt 1 673 
+fine Fine_structure.txt 5 0 6 23 152 188 
+find Fine_structure.txt 1 350 
+principal Fine_structure.txt 2 119 412 
+based Fine_structure.txt 1 979 
+should Fine_structure.txt 1 892 
+only Fine_structure.txt 4 115 684 868 875 
+factor Fine_structure.txt 1 601 
+darwin Fine_structure.txt 8 231 643 665 675 681 734 898 901 
+6977145109124427590 Fine_structure.txt 1 729 
+distance Fine_structure.txt 2 491 797 
+expectation Fine_structure.txt 1 627 
+during Fine_structure.txt 1 802 
+precession Fine_structure.txt 1 607 
+predicted Fine_structure.txt 1 95 
+contain Fine_structure.txt 1 1054 
+where Fine_structure.txt 10 167 281 314 377 405 432 513 521 933 957 
+spin-orbital Fine_structure.txt 1 640 
+reference Fine_structure.txt 1 512 
+frame Fine_structure.txt 3 510 620 624 
+we Fine_structure.txt 6 304 349 365 387 389 433 
+relative Fine_structure.txt 2 155 584 
+see Fine_structure.txt 2 388 1091 
+electrostatic Fine_structure.txt 1 753 
+radius Fine_structure.txt 1 409 
+result Fine_structure.txt 1 393 
+nuclear Fine_structure.txt 1 1066 
+wikipedia Fine_structure.txt 1 2 
+dipole Fine_structure.txt 1 1083 
+state Fine_structure.txt 2 450 727 
+between Fine_structure.txt 1 755 
+orbiting Fine_structure.txt 1 536 
+notice Fine_structure.txt 1 596 
+terms Fine_structure.txt 2 209 1027 
+nature Fine_structure.txt 1 300 
+however Fine_structure.txt 4 123 292 552 1049 
+hydrogenic Fine_structure.txt 1 108 
+article Fine_structure.txt 1 456 
+last Fine_structure.txt 1 649 
+uncertainty Fine_structure.txt 1 794 
+equal Fine_structure.txt 1 181 
+s Fine_structure.txt 1 686 
+expression Fine_structure.txt 4 859 956 972 1021 
+comes Fine_structure.txt 1 609 
+otherwise Fine_structure.txt 1 965 
+considering Fine_structure.txt 1 294 
+basis Fine_structure.txt 1 67 
+three Fine_structure.txt 2 207 948 
+describes Fine_structure.txt 1 25 
+azimuthal Fine_structure.txt 1 418 
+arises Fine_structure.txt 1 887 
+external Fine_structure.txt 1 1096 
+spin Fine_structure.txt 8 37 105 133 265 469 487 499 1067 
+those Fine_structure.txt 1 816 
+case Fine_structure.txt 2 534 1007 
+these Fine_structure.txt 1 244 
+arnold Fine_structure.txt 1 73 
+n Fine_structure.txt 1 122 
+will Fine_structure.txt 1 547 
+loop Fine_structure.txt 1 543 
+compton Fine_structure.txt 1 807 
+orientation Fine_structure.txt 1 585 
+averaging Fine_structure.txt 1 836 
+is Fine_structure.txt 40 91 161 169 174 280 282 286 318 327 334 359 378 406 410 416 431 451 473 476 480 485 489 524 576 599 632 642 647 660 677 689 805 867 878 930 934 951 958 967 1010 
+thus Fine_structure.txt 1 633 
+it Fine_structure.txt 7 46 531 659 668 711 743 966 
+itself Fine_structure.txt 1 555 
+in Fine_structure.txt 11 19 63 341 532 545 651 862 888 919 1005 1032 
+if Fine_structure.txt 1 963 
+orbital Fine_structure.txt 3 465 715 722 
+spin-orbit Fine_structure.txt 4 227 452 457 471 
+different Fine_structure.txt 1 870 
+contents Fine_structure.txt 1 79 
+perform Fine_structure.txt 1 200 
+same Fine_structure.txt 2 717 909 
+split Fine_structure.txt 1 144 
+dimensionless Fine_structure.txt 1 179 
+couple Fine_structure.txt 1 571 
+higher Fine_structure.txt 2 918 1025 
+used Fine_structure.txt 1 435 
+effect Fine_structure.txt 5 708 829 925 943 995 
+moment Fine_structure.txt 2 559 1084 
+levels Fine_structure.txt 2 114 142 
+makes Fine_structure.txt 1 915 
+bohr Fine_structure.txt 2 408 983 
+does Fine_structure.txt 1 1052 
+components Fine_structure.txt 1 949 
+position Fine_structure.txt 1 823 
+the Fine_structure.txt 149 22 26 29 42 52 66 69 76 85 92 97 110 118 137 140 145 148 151 157 163 170 175 187 206 211 213 219 222 226 230 235 242 251 255 273 278 283 287 290 311 315 319 324 328 332 335 352 357 368 379 384 397 401 407 411 417 422 428 439 444 448 470 477 481 486 490 493 496 498 508 514 517 522 527 535 553 566 590 594 605 611 618 622 626 630 634 639 652 656 664 680 685 691 700 703 713 716 720 725 733 737 741 752 756 768 782 793 796 798 806 809 812 828 831 838 841 847 850 858 863 876 879 897 900 904 908 912 916 922 927 935 938 941 947 954 959 981 987 993 1002 1008 1014 1033 1042 1055 1065 1076 1080 1086 
+left Fine_structure.txt 1 1030 
+accurate Fine_structure.txt 2 126 297 
+rest Fine_structure.txt 1 329 
+fabry-prot Fine_structure.txt 1 17 
+formulated Fine_structure.txt 1 992 
+atomic Fine_structure.txt 2 20 171 
+speed Fine_structure.txt 1 336 
+rapid Fine_structure.txt 1 764 
+also Fine_structure.txt 3 247 997 1092 
+source Fine_structure.txt 1 13 
+add Fine_structure.txt 1 205 
+treatment Fine_structure.txt 1 71 
+has Fine_structure.txt 2 556 706 
+momentum Fine_structure.txt 4 284 466 565 962 
+fluctuating Fine_structure.txt 2 237 821 
+showing Fine_structure.txt 1 5 
+9.057 Fine_structure.txt 1 730 
+background Fine_structure.txt 1 80 
+vacuum Fine_structure.txt 1 482 
+using Fine_structure.txt 4 196 360 824 1001 
+yields Fine_structure.txt 2 819 846 
+zitterbewegung Fine_structure.txt 2 240 762 
+hyperfine Fine_structure.txt 1 1056 
+stationary Fine_structure.txt 1 525 
+cooled Fine_structure.txt 1 11 
+because Fine_structure.txt 1 690 
+old Fine_structure.txt 1 982 
+creation Fine_structure.txt 1 783 
+back Fine_structure.txt 1 616 
+understood Fine_structure.txt 1 504 
+oscillations Fine_structure.txt 1 766 
+gross Fine_structure.txt 4 82 86 111 158 
+scale Fine_structure.txt 1 149 
+for Fine_structure.txt 11 51 68 106 400 427 443 459 629 638 709 781 
+affects Fine_structure.txt 2 683 874 
+magnitude Fine_structure.txt 2 442 637 
+demonstrated Fine_structure.txt 1 773 
+be Fine_structure.txt 8 193 248 503 745 772 834 894 998 
+expansion Fine_structure.txt 2 654 827 
+binomial Fine_structure.txt 1 347 
+shifting Fine_structure.txt 1 506 
+approximating Fine_structure.txt 1 844 
+by Fine_structure.txt 18 55 72 96 195 475 505 672 679 723 728 774 792 932 945 953 976 1000 1019 
+plug Fine_structure.txt 1 861 
+on Fine_structure.txt 6 117 162 436 582 830 980 
+of Fine_structure.txt 30 9 28 32 88 100 139 150 165 241 254 277 289 299 310 331 337 441 492 511 593 602 636 655 694 751 767 784 811 849 1085 
+anomalous Fine_structure.txt 1 1081 
+p-state Fine_structure.txt 2 907 923 
+permittivity Fine_structure.txt 1 483 
+slightly Fine_structure.txt 1 869 
+or Fine_structure.txt 2 239 763 
+into Fine_structure.txt 2 129 519 
+due Fine_structure.txt 7 34 224 373 560 760 852 1061 
+references Fine_structure.txt 1 1094 
+measured Fine_structure.txt 1 49 
+there Fine_structure.txt 3 575 598 646 
+specifically Fine_structure.txt 1 345 
+was Fine_structure.txt 4 47 669 973 991 
+naturally Fine_structure.txt 1 261 
+function Fine_structure.txt 3 382 693 705 
+form Fine_structure.txt 2 309 595 
+but Fine_structure.txt 1 911 
+atom Fine_structure.txt 6 54 109 403 430 462 813 
+line Fine_structure.txt 2 89 93 
+with Fine_structure.txt 8 103 463 697 788 815 857 896 1064 
+raising Fine_structure.txt 1 724 
+up Fine_structure.txt 1 950 
+limit Fine_structure.txt 1 253 
+fluctuations Fine_structure.txt 3 779 839 854 
+z Fine_structure.txt 2 166 168 
+called Fine_structure.txt 1 604 
+mechanics Fine_structure.txt 2 99 990 
+taylor Fine_structure.txt 2 343 826 
+constant Fine_structure.txt 2 78 177 
+corrective Fine_structure.txt 1 208 
+certain Fine_structure.txt 1 578 
+hydrogen-like Fine_structure.txt 1 461 
+an Fine_structure.txt 2 540 695 
+dirac Fine_structure.txt 3 256 657 1003 
+as Fine_structure.txt 8 362 539 663 667 719 747 1012 1075 
+at Fine_structure.txt 2 699 740 
+lifetime Fine_structure.txt 1 790 
+functions Fine_structure.txt 1 538 
+no Fine_structure.txt 2 104 707 
+when Fine_structure.txt 1 293 
+vanishes Fine_structure.txt 1 698 
+virtual Fine_structure.txt 1 785 
+field Fine_structure.txt 2 551 1072 
+fine-structure Fine_structure.txt 2 77 176 
+other Fine_structure.txt 2 1034 1068 
+nucleus Fine_structure.txt 7 497 518 528 537 623 742 759 
+included Fine_structure.txt 1 1090 
+structure Fine_structure.txt 10 1 7 24 83 87 112 153 159 189 1057 
+coupling Fine_structure.txt 3 228 453 641 
+coulomb Fine_structure.txt 2 864 939 
+orbit Fine_structure.txt 1 500 
+together Fine_structure.txt 1 572 
+delta Fine_structure.txt 1 704 
+mass Fine_structure.txt 2 288 479 
+time Fine_structure.txt 1 804 
+expands Fine_structure.txt 1 1036 

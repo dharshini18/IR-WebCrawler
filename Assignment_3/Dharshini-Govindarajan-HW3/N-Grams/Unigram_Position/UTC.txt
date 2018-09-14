@@ -1,0 +1,1008 @@
+limited UTC.txt 1 563 
+all UTC.txt 10 382 500 614 748 763 822 887 1651 1917 2656 
+suns UTC.txt 1 3481 
+rob UTC.txt 1 3429 
+particular UTC.txt 1 1500 
+results UTC.txt 1 3500 
+month UTC.txt 2 3370 3397 
+four UTC.txt 4 1786 2942 2956 3338 
+rapid UTC.txt 1 1218 
+spacecraft UTC.txt 1 1250 
+per UTC.txt 4 2886 3101 3261 3424 
+controversial UTC.txt 1 2076 
+itu-r UTC.txt 1 287 
+decisions UTC.txt 1 775 
+1.72.3 UTC.txt 1 3017 
+millisecond UTC.txt 1 752 
+86,401 UTC.txt 1 3413 
+21st UTC.txt 1 3268 
+simon UTC.txt 1 2740 
+consensus UTC.txt 1 3607 
+zone UTC.txt 11 455 466 1413 1502 1541 1560 1586 1605 1618 1700 1758 
+paris UTC.txt 1 3555 
+graph UTC.txt 6 2665 3122 3142 3170 3208 3222 
+segments UTC.txt 4 2677 3145 3183 3223 
+opportunities UTC.txt 1 3315 
+utc+14 UTC.txt 1 495 
+0 UTC.txt 2 72 1827 
+compensate UTC.txt 1 309 
+utc+12 UTC.txt 1 469 
+under UTC.txt 1 674 
+quarterly UTC.txt 1 3349 
+analogous UTC.txt 1 3488 
+1958 UTC.txt 2 2143 2360 
+convening UTC.txt 1 3655 
+7 UTC.txt 2 3598 3624 
+far UTC.txt 1 808 
+frequencies UTC.txt 2 194 652 
+ticked UTC.txt 1 2445 
+continues UTC.txt 1 3239 
+every UTC.txt 10 2282 2634 2893 2941 2955 2964 2981 3279 3305 3344 
+govern UTC.txt 1 2181 
+word UTC.txt 1 1625 
+difference UTC.txt 12 239 1067 1376 2553 2668 2823 3068 3080 3094 3177 3193 3577 
+exact UTC.txt 1 1258 
+minute UTC.txt 5 722 761 836 853 899 
+caesium UTC.txt 4 1970 2152 2330 2483 
+positions UTC.txt 1 2203 
+notes UTC.txt 1 3709 
+proposals UTC.txt 1 247 
+standards UTC.txt 2 516 1999 
+large UTC.txt 1 670 
+persisted UTC.txt 1 1895 
+small UTC.txt 1 1384 
+relation UTC.txt 1 1233 
+half-hours UTC.txt 1 1488 
+accumulation UTC.txt 2 3077 3174 
+20th UTC.txt 3 2790 2866 3091 
+louis UTC.txt 1 2477 
+correct UTC.txt 1 3058 
+abbreviated UTC.txt 2 23 45 
+time-signal UTC.txt 1 291 
+century UTC.txt 9 2760 2791 2867 3009 3092 3262 3269 3298 3337 
+coordonn UTC.txt 1 401 
+sync UTC.txt 1 3471 
+approximation UTC.txt 6 983 1108 1122 2312 2428 2603 
+second UTC.txt 37 66 211 731 746 780 866 871 896 1052 1375 2159 2162 2238 2319 2336 2344 2370 2377 2381 2413 2515 2520 2618 2707 2715 2747 2890 2963 2980 2999 3100 3112 3116 3234 3314 3423 3665 
+picked UTC.txt 1 655 
+further UTC.txt 2 3468 3701 
+defines UTC.txt 1 3684 
+implemented UTC.txt 2 173 1012 
+linear UTC.txt 1 998 
+even UTC.txt 1 3376 
+established UTC.txt 2 1478 2155 
+clock UTC.txt 5 1211 1661 1972 2332 2485 
+sun UTC.txt 1 2852 
+section UTC.txt 1 339 
+tf.460-6 UTC.txt 1 288 
+crust UTC.txt 1 3161 
+brief UTC.txt 1 149 
+expressed UTC.txt 1 434 
+current UTC.txt 10 39 276 334 571 1495 1698 2610 3067 3308 3348 
+version UTC.txt 1 277 
+decade UTC.txt 1 3153 
+above UTC.txt 3 2874 3125 3130 
+fractional UTC.txt 2 933 1374 
+new UTC.txt 2 166 256 
+jumps UTC.txt 3 2296 2454 2470 
+contrast UTC.txt 1 1850 
+movement UTC.txt 1 2183 
+body UTC.txt 1 3682 
+86,400 UTC.txt 6 827 847 2771 2783 2838 3133 
+here UTC.txt 2 9 1432 
+analysed UTC.txt 1 2738 
+hours UTC.txt 13 460 472 685 709 1458 1513 1609 1780 1787 1828 1858 1878 3592 
+tracks UTC.txt 1 1063 
+slow UTC.txt 1 3241 
+excess UTC.txt 4 2825 2831 3127 3228 
+alone UTC.txt 2 2424 3026 
+decision UTC.txt 3 265 2077 3689 
+along UTC.txt 3 131 2507 3548 
+invented UTC.txt 1 1974 
+observing UTC.txt 1 2212 
+change UTC.txt 6 177 1741 1744 1754 3254 3518 
+publishes UTC.txt 1 1065 
+great UTC.txt 1 1845 
+naval UTC.txt 2 2002 2037 
+ahead UTC.txt 4 473 2858 2891 3538 
+transition UTC.txt 1 2153 
+shift UTC.txt 2 3478 3491 
+k UTC.txt 4 1137 1139 1185 1187 
+larger UTC.txt 1 764 
+brtzmann UTC.txt 1 1438 
+commonly UTC.txt 1 1338 
+ms/day UTC.txt 1 2829 
+resulting UTC.txt 2 2063 3476 
+published UTC.txt 1 2146 
+usually UTC.txt 2 724 1447 
+military UTC.txt 1 1674 
+postponed UTC.txt 1 3644 
+changes UTC.txt 3 995 2058 2288 
+options UTC.txt 2 3328 3350 
+0.9 UTC.txt 3 326 1087 1089 
+named UTC.txt 1 2024 
+regardless UTC.txt 1 1653 
+extra UTC.txt 2 865 880 
+requiring UTC.txt 2 2600 3276 
+namely UTC.txt 1 2374 
+lengthen UTC.txt 1 2996 
+marked UTC.txt 1 1588 
+replace UTC.txt 1 252 
+2000s UTC.txt 1 3152 
+names UTC.txt 1 1708 
+issue UTC.txt 1 3697 
+total UTC.txt 2 877 2655 
+languages UTC.txt 1 383 
+use UTC.txt 7 377 552 615 1332 1726 2101 3309 
+reconsidered UTC.txt 1 3703 
+from UTC.txt 16 5 363 440 492 573 589 953 996 1115 1228 1451 1491 1523 1826 2111 3501 
+would UTC.txt 12 259 499 1465 2240 2394 2416 3465 3513 3523 3533 3542 3562 
+to UTC.txt 92 46 182 205 222 251 266 308 322 347 376 410 494 522 617 776 812 860 906 910 979 984 987 1002 1039 1081 1234 1239 1255 1286 1402 1467 1528 1555 1603 1682 1701 1820 1939 1941 2005 2069 2086 2108 2127 2198 2229 2300 2307 2313 2342 2400 2419 2425 2458 2517 2574 2581 2591 2679 2724 2750 2853 2907 2929 2995 3023 3049 3110 3136 3172 3185 3189 3198 3216 3226 3240 3331 3358 3385 3417 3443 3455 3484 3489 3495 3567 3605 3610 3614 3626 3630 3690 
+remains UTC.txt 1 1350 
+positive UTC.txt 3 436 2657 3242 
+abbreviations UTC.txt 1 415 
+contains UTC.txt 2 707 713 
+negative UTC.txt 1 438 
+permitted UTC.txt 1 905 
+process UTC.txt 1 2260 
+depicted UTC.txt 1 3205 
+therefore UTC.txt 4 1226 1320 3103 3214 
+means UTC.txt 1 3008 
+25th UTC.txt 1 3336 
+until UTC.txt 8 139 164 273 1866 1888 1949 2277 3648 
+milliseconds UTC.txt 1 884 
+more UTC.txt 8 557 1984 1987 2776 3248 3419 3535 3537 
+formally UTC.txt 1 2270 
+advance UTC.txt 4 788 810 3611 3627 
+started UTC.txt 3 2004 2580 2590 
+1/800 UTC.txt 1 3097 
+operators UTC.txt 1 640 
+stable UTC.txt 1 1985 
+occurred UTC.txt 5 1024 1276 2281 2619 2629 
+retarding UTC.txt 1 2905 
+informally UTC.txt 2 110 2067 
+known UTC.txt 5 1097 1232 1633 2438 2800 
+radiocommunications UTC.txt 2 3617 3633 
+must UTC.txt 1 1112 
+rotational UTC.txt 2 2683 2917 
+1995 UTC.txt 1 477 
+hour UTC.txt 3 712 767 3585 
+this UTC.txt 25 16 176 186 360 1398 1637 1649 1832 1975 2224 2303 2348 2431 2502 2693 2813 2903 3010 3048 3079 3093 3176 3191 3207 3512 
+avoiding UTC.txt 1 1663 
+originally UTC.txt 1 386 
+clients UTC.txt 2 567 584 
+longitude UTC.txt 1 73 
+can UTC.txt 7 568 585 653 701 1503 1710 2720 
+ms UTC.txt 6 2126 2302 2457 2873 2885 3260 
+of UTC.txt 143 38 67 120 127 208 246 278 313 328 336 343 416 419 446 474 481 485 526 576 718 756 772 816 818 854 878 886 900 915 972 1000 1009 1017 1029 1044 1149 1157 1169 1176 1178 1206 1249 1290 1305 1312 1328 1416 1425 1457 1462 1487 1512 1535 1579 1597 1607 1654 1673 1745 1774 1844 1862 1882 1916 1964 1979 1998 2080 2090 2102 2166 2178 2184 2196 2204 2211 2217 2235 2247 2292 2324 2335 2345 2369 2429 2455 2481 2498 2511 2524 2532 2561 2570 2604 2612 2645 2690 2697 2704 2713 2716 2752 2788 2794 2804 2827 2832 2859 2864 2960 3003 3016 3033 3078 3084 3089 3098 3123 3128 3140 3155 3159 3175 3211 3219 3253 3255 3266 3287 3310 3362 3368 3395 3402 3404 3431 3470 3479 3492 3539 3621 3640 3661 
+making UTC.txt 1 2551 
+example UTC.txt 2 1309 1767 
+history UTC.txt 2 1619 1795 
+control UTC.txt 1 608 
+quarter-hours UTC.txt 1 1490 
+links UTC.txt 1 3712 
+stated UTC.txt 1 190 
+predict UTC.txt 1 2200 
+december UTC.txt 3 1032 2643 3319 
+0.5 UTC.txt 1 3584 
+purposes UTC.txt 2 83 1372 
+states UTC.txt 1 1777 
+wwv UTC.txt 1 2021 
+numbers UTC.txt 1 700 
+allowed UTC.txt 3 2107 2226 3442 
+synchronise UTC.txt 1 523 
+keep UTC.txt 4 323 1082 2908 3199 
+tai UTC.txt 20 300 957 1001 1093 1184 1313 1333 1335 1355 2358 2384 2451 2519 2535 2549 2557 2577 2663 2820 3532 
+information UTC.txt 1 236 
+united UTC.txt 1 1776 
+end UTC.txt 10 1028 1043 2291 2523 2787 2863 3088 3265 3367 3394 
+winter UTC.txt 2 1396 1784 
+provide UTC.txt 1 1240 
+six UTC.txt 1 785 
+800 UTC.txt 4 2894 2965 2982 3106 
+1 UTC.txt 8 65 113 220 1867 2499 2539 2545 3111 
+maps UTC.txt 3 613 1705 1920 
+varies UTC.txt 1 2919 
+occasionally UTC.txt 2 850 990 
+get UTC.txt 1 3467 
+instead UTC.txt 2 738 1334 
+movements UTC.txt 1 3482 
+divides UTC.txt 1 681 
+1750 UTC.txt 1 2735 
+map UTC.txt 1 37 
+de UTC.txt 1 2254 
+plans UTC.txt 1 604 
+may UTC.txt 5 733 1151 1162 1300 1753 
+after UTC.txt 3 1859 3104 3586 
+jump UTC.txt 1 2531 
+applications UTC.txt 2 1323 2599 
+designed UTC.txt 1 521 
+inconsequentially UTC.txt 1 1383 
+insufficient UTC.txt 3 3322 3353 3380 
+date UTC.txt 3 348 1865 1885 
+such UTC.txt 6 1125 1132 1246 2136 2923 3462 
+1884 UTC.txt 3 1798 1905 1908 
+data UTC.txt 1 2144 
+provisionally UTC.txt 2 1153 2355 
+a UTC.txt 57 148 165 192 244 255 364 548 574 635 721 778 855 869 901 960 981 1014 1051 1116 1209 1231 1268 1291 1499 1553 1567 1590 1743 1756 1977 2075 2227 2309 2329 2386 2402 2436 2528 2601 2726 2743 2753 2889 2938 2961 2979 2991 3001 3082 3099 3114 3156 3396 3399 3453 3515 3549 
+physical UTC.txt 1 2047 
+ut1r UTC.txt 1 425 
+correspond UTC.txt 3 204 2678 3184 
+rather UTC.txt 4 2584 2932 3075 3447 
+si UTC.txt 9 210 828 848 2318 2380 2412 2706 2746 2772 
+maintain UTC.txt 5 223 980 1222 2401 2426 
+so UTC.txt 5 496 2053 2337 2537 3346 
+allow UTC.txt 1 1696 
+decreasing UTC.txt 1 2688 
+putting UTC.txt 1 2658 
+geographic UTC.txt 1 3569 
+order UTC.txt 1 978 
+september UTC.txt 2 1047 3327 
+gradual UTC.txt 1 3477 
+astronomical UTC.txt 5 374 1851 1937 1990 2275 
+coordinating UTC.txt 1 2257 
+midnight UTC.txt 4 1831 1861 1881 1948 
+soon UTC.txt 1 2363 
+years UTC.txt 6 2943 2957 2989 3056 3375 3405 
+produced UTC.txt 1 792 
+held UTC.txt 1 1802 
+6.5 UTC.txt 1 3591 
+reached UTC.txt 1 3695 
+including UTC.txt 1 147 
+during UTC.txt 3 1277 1394 1783 
+mentioned UTC.txt 1 1902 
+itu UTC.txt 1 3647 
+desynchronised UTC.txt 1 2855 
+its UTC.txt 2 486 3564 
+before UTC.txt 2 1879 2140 
+24 UTC.txt 1 708 
+27 UTC.txt 1 2651 
+20 UTC.txt 2 2125 3635 
+internationally UTC.txt 1 2261 
+how UTC.txt 1 1272 
+chosen UTC.txt 2 1819 2231 
+recognised UTC.txt 1 2364 
+50,000 UTC.txt 1 2988 
+coordinates UTC.txt 1 3570 
+clearances UTC.txt 1 609 
+better UTC.txt 1 2396 
+age UTC.txt 1 3044 
+broadcasts UTC.txt 2 2031 2052 
+systems UTC.txt 3 800 1060 1341 
+2015 UTC.txt 2 3654 3670 
+coordinated UTC.txt 11 0 42 106 128 355 390 2049 2060 2071 2265 3685 
+tai/utc UTC.txt 1 1182 
+main UTC.txt 2 1410 1733 
+meridian UTC.txt 5 1800 1911 1924 3550 3575 
+2012 UTC.txt 3 3616 3632 3637 
+then UTC.txt 4 2093 2625 3063 3118 
+them UTC.txt 3 268 1038 2032 
+affected UTC.txt 1 1359 
+introduce UTC.txt 1 777 
+primary UTC.txt 1 50 
+1955 UTC.txt 1 1968 
+transmissions UTC.txt 1 649 
+1956 UTC.txt 1 1993 
+hamilton UTC.txt 1 1441 
+1950 UTC.txt 1 1571 
+not UTC.txt 16 76 137 923 937 1212 1221 1253 1284 1725 1740 2269 2945 2968 3065 3391 3505 
+scandinavia UTC.txt 1 3036 
+rotation UTC.txt 6 315 797 817 1057 1963 3238 
+now UTC.txt 4 1316 2608 2721 2817 
+provision UTC.txt 1 1036 
+day UTC.txt 26 505 699 706 768 842 857 903 929 1016 1824 1945 2701 2732 2756 2767 2798 2805 2846 2887 2940 2954 2974 2994 3102 3165 3425 
+maintaining UTC.txt 1 2512 
+articles UTC.txt 1 1411 
+term UTC.txt 2 1928 2914 
+name UTC.txt 2 126 2264 
+january UTC.txt 6 114 1868 2540 2546 2646 3636 
+limits UTC.txt 1 2210 
+identified UTC.txt 2 692 1575 
+unpredictable UTC.txt 2 814 2921 
+each UTC.txt 6 705 711 835 885 1463 2293 
+phonetic UTC.txt 1 1623 
+references UTC.txt 1 3708 
+mean UTC.txt 23 68 90 840 889 931 1386 1808 1830 1837 1855 1860 1875 1880 2699 2730 2754 2765 2796 2851 2946 2972 2992 3546 
+r UTC.txt 1 2489 
+england UTC.txt 1 1817 
+significantly UTC.txt 1 2117 
+list UTC.txt 4 445 1424 1534 1672 
+idea UTC.txt 2 2388 2510 
+group UTC.txt 2 3597 3623 
+utc1 UTC.txt 1 31 
+measurement UTC.txt 1 1327 
+eu UTC.txt 1 675 
+laboratory UTC.txt 3 1118 1146 2048 
+happen UTC.txt 1 1040 
+synchronised UTC.txt 3 2460 2848 2910 
+easternmost UTC.txt 1 464 
+description UTC.txt 1 1606 
+album UTC.txt 1 1435 
+network UTC.txt 1 518 
+space UTC.txt 1 629 
+types UTC.txt 1 2368 
+tried UTC.txt 1 2433 
+since UTC.txt 9 892 942 1569 1614 1620 1847 2359 2624 3040 
+2099-12-31 UTC.txt 1 1318 
+etymology UTC.txt 1 350 
+tachographs UTC.txt 1 667 
+emerged UTC.txt 1 405 
+internet UTC.txt 3 511 530 578 
+denoted UTC.txt 2 1546 1565 
+newly UTC.txt 1 2154 
+cause UTC.txt 1 2193 
+u.s UTC.txt 3 1995 2001 2036 
+announced UTC.txt 1 782 
+common UTC.txt 1 1369 
+earlier UTC.txt 1 2762 
+aetr UTC.txt 1 677 
+telecommunication UTC.txt 1 369 
+fluctuates UTC.txt 1 3012 
+offsets UTC.txt 3 439 1428 1538 
+divergence UTC.txt 1 2115 
+diagonal UTC.txt 1 3221 
+possibility UTC.txt 3 914 3361 3660 
+standard UTC.txt 8 22 52 232 597 637 1210 1391 1648 
+temps UTC.txt 1 399 
+reason UTC.txt 2 2814 3059 
+regulatory UTC.txt 1 3681 
+kiribati UTC.txt 2 482 498 
+universally UTC.txt 1 549 
+definition UTC.txt 1 207 
+utc00:00 UTC.txt 2 35 1547 
+g UTC.txt 1 2487 
+e.g UTC.txt 1 601 
+could UTC.txt 1 3582 
+computers UTC.txt 1 527 
+days UTC.txt 10 684 689 824 891 935 2895 2966 2983 3107 3281 
+times UTC.txt 2 146 532 
+motion UTC.txt 5 1219 2179 2197 2248 2926 
+59 UTC.txt 2 737 908 
+length UTC.txt 10 881 1019 2219 2234 2334 2696 2703 2793 2803 3511 
+corrections UTC.txt 1 1161 
+23:59:59 UTC.txt 1 1319 
+pilots UTC.txt 1 1652 
+frequent UTC.txt 1 2469 
+first UTC.txt 2 105 2616 
+origin UTC.txt 1 1598 
+temporarily UTC.txt 2 3046 3162 
+flying UTC.txt 1 1666 
+saving UTC.txt 7 79 625 1728 1731 1736 1762 1791 
+00:00:10 UTC.txt 1 2548 
+thereafter UTC.txt 2 2285 3354 
+number UTC.txt 12 245 335 342 575 717 1304 1311 1456 1486 1511 2560 2611 
+one UTC.txt 5 997 1156 2953 2998 3421 
+ranges UTC.txt 1 1522 
+smaller UTC.txt 1 749 
+least UTC.txt 2 784 1887 
+another UTC.txt 1 1003 
+slower UTC.txt 1 2818 
+precisely UTC.txt 2 98 3506 
+electronic UTC.txt 1 1692 
+size UTC.txt 1 2299 
+earths UTC.txt 4 314 2682 3160 3237 
+differ UTC.txt 1 1482 
+twenty-nine UTC.txt 1 2135 
+publication UTC.txt 2 1175 2225 
+service UTC.txt 3 801 1061 2437 
+their UTC.txt 3 643 1922 2050 
+unknown UTC.txt 1 1303 
+hidden UTC.txt 1 3714 
+system UTC.txt 8 142 257 536 1357 2192 2206 2503 3561 
+adopted UTC.txt 5 111 138 169 179 2271 
+needed UTC.txt 1 566 
+station UTC.txt 2 630 2029 
+compromise UTC.txt 1 403 
+observations UTC.txt 1 1991 
+consistent UTC.txt 1 2403 
+national UTC.txt 3 1996 2046 3433 
+gps UTC.txt 2 1127 1347 
+shifted UTC.txt 1 2122 
+relationship UTC.txt 1 2727 
+that UTC.txt 32 191 258 404 497 544 921 932 1270 1278 1294 1324 1342 1481 1694 1981 2030 2168 2180 2239 2352 2365 2392 2406 2407 2494 2538 2970 3377 3389 3438 3463 3499 
+relative UTC.txt 2 3483 3494 
+exactly UTC.txt 7 219 826 831 1351 2533 2550 2575 
+accurately UTC.txt 1 2199 
+lists UTC.txt 1 1415 
+required UTC.txt 5 1243 1474 3247 3304 3343 
+broadcast UTC.txt 3 156 1952 2592 
+utc+14:00 UTC.txt 1 1529 
+optical UTC.txt 1 3434 
+deceleration UTC.txt 1 2692 
+drifting UTC.txt 1 3551 
+than UTC.txt 13 559 846 1689 1989 2585 2606 2770 2782 2819 2881 2933 3420 3448 
+population UTC.txt 1 1407 
+linking UTC.txt 1 2147 
+wide UTC.txt 1 514 
+b UTC.txt 1 212 
+22nd UTC.txt 1 3297 
+19 UTC.txt 2 1352 2635 
+conforms UTC.txt 1 409 
+require UTC.txt 3 1106 1325 3418 
+drift UTC.txt 1 2109 
+rate UTC.txt 8 815 2089 2449 2569 3002 3011 3021 3252 
+final UTC.txt 1 2529 
+future UTC.txt 3 184 1298 3230 
+eastward UTC.txt 1 3553 
+2023 UTC.txt 2 274 3705 
+chairman UTC.txt 1 3620 
+1925 UTC.txt 1 1869 
+and UTC.txt 82 32 59 122 159 172 195 202 230 242 263 290 293 371 512 541 605 612 623 676 687 710 747 762 798 1046 1058 1064 1070 1076 1171 1183 1299 1317 1370 1379 1397 1403 1414 1423 1439 1514 1582 1723 1919 1959 1986 2000 2043 2056 2061 2105 2187 2286 2378 2405 2452 2473 2486 2556 2672 2719 2736 2774 2856 2927 3035 3071 3113 3180 3224 3318 3323 3326 3381 3458 3531 3536 3556 3580 3590 3599 3702 
+1.7 UTC.txt 2 3050 3259 
+insertion UTC.txt 1 2959 
+7a UTC.txt 1 3602 
+1.3 UTC.txt 3 2828 2872 2884 
+ran UTC.txt 1 2879 
+julian UTC.txt 2 698 934 
+disambiguation UTC.txt 1 15 
+categories UTC.txt 2 3713 3715 
+locations UTC.txt 1 1245 
+sub-second UTC.txt 1 1471 
+2.3 UTC.txt 1 3029 
+referred UTC.txt 1 2068 
+have UTC.txt 10 248 861 1023 1466 1477 2628 2649 2725 3330 3384 
+100 UTC.txt 1 2301 
+seen UTC.txt 1 2723 
+any UTC.txt 1 3369 
+contents UTC.txt 1 349 
+sat UTC.txt 3 163 2443 2474 
+acceleration UTC.txt 1 3158 
+speakers UTC.txt 2 385 395 
+estimated UTC.txt 1 1189 
+1968 UTC.txt 1 2476 
+zero UTC.txt 1 1608 
+convenient UTC.txt 1 1988 
+1967 UTC.txt 3 140 2278 2316 
+1960 UTC.txt 3 115 2034 2141 
+1961 UTC.txt 1 2250 
+mechanism UTC.txt 1 679 
+mid19th UTC.txt 1 2759 
+also UTC.txt 13 178 594 631 663 702 1337 1420 1601 2465 2579 2799 3232 3707 
+utc12 UTC.txt 1 457 
+calibrated UTC.txt 1 2709 
+take UTC.txt 3 1006 2986 3524 
+which UTC.txt 11 54 408 958 1119 1521 1562 1610 1718 2444 3677 3683 
+online UTC.txt 1 539 
+coincide UTC.txt 1 3543 
+canonical UTC.txt 1 1181 
+accuracy UTC.txt 2 1472 2213 
+200 UTC.txt 1 2456 
+added UTC.txt 3 304 3119 3445 
+track UTC.txt 1 2582 
+iceland UTC.txt 1 1717 
+who UTC.txt 1 1105 
+reach UTC.txt 2 3583 3606 
+simplify UTC.txt 1 183 
+microsecond UTC.txt 1 753 
+but UTC.txt 14 93 116 697 726 759 920 1747 1785 1894 2092 2262 3074 3522 3638 
+letter UTC.txt 2 1551 1600 
+successive UTC.txt 1 1577 
+services UTC.txt 1 540 
+seasons UTC.txt 2 1746 3493 
+inserted UTC.txt 3 319 346 2900 
+approved UTC.txt 1 2506 
+laboratories UTC.txt 1 1195 
+thousands UTC.txt 1 3403 
+especially UTC.txt 1 1639 
+considered UTC.txt 2 86 3667 
+calculated UTC.txt 1 946 
+later UTC.txt 2 1160 1897 
+cover UTC.txt 1 911 
+counted UTC.txt 1 1825 
+near UTC.txt 3 2785 2861 3086 
+five UTC.txt 1 1779 
+redirected UTC.txt 1 4 
+effect UTC.txt 1 3525 
+0.107758 UTC.txt 1 2534 
+bulletin UTC.txt 1 790 
+laws UTC.txt 4 1461 2177 2195 2246 
+precise UTC.txt 1 1326 
+reykjavk UTC.txt 1 1716 
+selected UTC.txt 1 1712 
+agreed UTC.txt 1 1833 
+jurisdiction UTC.txt 2 1464 1759 
+friction UTC.txt 1 3025 
+rotating UTC.txt 2 918 970 
+bring UTC.txt 1 2128 
+radio UTC.txt 7 154 639 644 1129 2028 2051 3651 
+supplied UTC.txt 1 2327 
+itur UTC.txt 1 3595 
+earth UTC.txt 6 796 820 917 974 1056 1966 
+indicate UTC.txt 1 2969 
+dilation UTC.txt 1 1208 
+subtracting UTC.txt 2 948 1509 
+redefined UTC.txt 1 2321 
+based UTC.txt 3 295 1956 3571 
+just UTC.txt 1 2935 
+timekeeping UTC.txt 2 1980 3521 
+true UTC.txt 1 1640 
+should UTC.txt 6 198 203 217 234 2409 2496 
+entities UTC.txt 1 543 
+only UTC.txt 6 562 1025 1096 1695 2501 3311 
+unable UTC.txt 1 3604 
+corresponds UTC.txt 3 3135 3171 3215 
+inventor UTC.txt 1 2480 
+local UTC.txt 4 1748 1768 1807 3545 
+over UTC.txt 8 528 2835 2841 3052 3081 3178 3282 3527 
+bipm UTC.txt 1 1173 
+do UTC.txt 1 936 
+handle UTC.txt 1 1344 
+notation UTC.txt 1 1399 
+year UTC.txt 7 2294 2948 3306 3345 3504 3510 3588 
+familiar UTC.txt 1 1401 
+1920 UTC.txt 1 1615 
+moons UTC.txt 1 2188 
+designated UTC.txt 1 1135 
+coast UTC.txt 1 1773 
+sundials UTC.txt 1 3464 
+cannot UTC.txt 2 805 1343 
+nearly UTC.txt 1 821 
+altogether UTC.txt 1 269 
+timing UTC.txt 1 3407 
+2 UTC.txt 3 883 3004 3657 
+prime UTC.txt 1 1923 
+noon UTC.txt 2 1856 1876 
+remove UTC.txt 1 267 
+standard-frequency UTC.txt 1 289 
+twice UTC.txt 1 3449 
+bad UTC.txt 1 2387 
+intervals UTC.txt 3 197 307 1331 
+assembly UTC.txt 2 3618 3634 
+predicted UTC.txt 1 807 
+contain UTC.txt 3 235 825 907 
+fixed UTC.txt 1 3565 
+where UTC.txt 5 151 993 1138 1643 3006 
+approximations UTC.txt 2 1133 1159 
+redefine UTC.txt 1 3456 
+set UTC.txt 1 2085 
+computed UTC.txt 1 2934 
+reference UTC.txt 3 799 1059 1554 
+observes UTC.txt 1 1760 
+configured UTC.txt 1 1703 
+86,400.0013 UTC.txt 1 2810 
+zones UTC.txt 13 41 429 448 622 660 1409 1418 1445 1480 1573 1669 1676 1687 
+elected UTC.txt 1 3625 
+see UTC.txt 11 13 34 332 1196 1419 1442 1533 1616 1670 3231 3706 
+computer UTC.txt 1 537 
+are UTC.txt 13 318 433 690 755 771 781 1134 1446 1656 2216 2221 3196 3390 
+1928 UTC.txt 1 1926 
+close UTC.txt 3 982 2311 2749 
+calendar UTC.txt 3 696 3498 3503 
+techniques UTC.txt 1 1124 
+closer UTC.txt 1 2602 
+westernmost UTC.txt 1 453 
+sub-microsecond UTC.txt 1 582 
+roughly UTC.txt 2 2892 3273 
+pattern UTC.txt 1 412 
+away UTC.txt 1 2110 
+ensures UTC.txt 1 1650 
+wikipedia UTC.txt 1 3 
+increased UTC.txt 1 2297 
+yet UTC.txt 1 924 
+behind UTC.txt 5 461 1354 1781 1788 2662 
+determined UTC.txt 1 1505 
+bureau UTC.txt 3 1168 1997 2252 
+between UTC.txt 14 30 240 1068 1180 1262 1315 1377 1667 2554 2670 2734 3069 3143 3578 
+tens UTC.txt 1 3401 
+neither UTC.txt 1 1356 
+atolls UTC.txt 1 487 
+utc12:00 UTC.txt 1 1524 
+ends UTC.txt 1 1295 
+terms UTC.txt 1 2323 
+utc-10 UTC.txt 1 493 
+tables UTC.txt 1 1177 
+initially UTC.txt 2 2084 2847 
+confusion UTC.txt 2 619 1664 
+were UTC.txt 7 1574 1955 2016 2059 2138 2899 3603 
+however UTC.txt 1 837 
+utc+1 UTC.txt 1 33 
+french UTC.txt 2 134 394 
+article UTC.txt 3 17 1198 1734 
+tuc UTC.txt 1 397 
+both UTC.txt 3 157 1983 2491 
+c UTC.txt 2 231 791 
+last UTC.txt 4 852 898 3042 3054 
+irregular UTC.txt 4 306 928 1018 2530 
+many UTC.txt 4 510 658 1273 1321 
+hence UTC.txt 1 1960 
+against UTC.txt 1 1155 
+participating UTC.txt 1 1194 
+etc UTC.txt 3 426 754 770 
+s UTC.txt 9 221 1088 1090 2500 2811 2839 3134 3275 3414 
+lheure UTC.txt 1 2255 
+long-term UTC.txt 1 3251 
+gregorian UTC.txt 1 695 
+yearly UTC.txt 2 3450 3497 
+adjusted UTC.txt 2 144 859 
+regulates UTC.txt 1 57 
+very UTC.txt 2 2310 2686 
+study UTC.txt 2 3596 3622 
+point UTC.txt 1 1596 
+had UTC.txt 1 2353 
+period UTC.txt 3 150 2918 3083 
+community UTC.txt 1 103 
+60 UTC.txt 3 714 725 832 
+61 UTC.txt 2 735 862 
+maintained UTC.txt 1 200 
+celestial UTC.txt 1 2245 
+simply UTC.txt 1 2801 
+adding UTC.txt 2 1507 2937 
+interchangeable UTC.txt 1 87 
+table UTC.txt 1 1269 
+250 UTC.txt 1 3280 
+suppressing UTC.txt 1 3662 
+telecommunications UTC.txt 1 284 
+conference UTC.txt 4 1801 1906 3652 3675 
+caspar UTC.txt 1 1437 
+86,400.004 UTC.txt 1 3274 
+much UTC.txt 1 1896 
+basis UTC.txt 1 2712 
+union UTC.txt 5 285 370 375 1938 2276 
+west UTC.txt 1 1527 
+due UTC.txt 2 811 3022 
+been UTC.txt 7 249 271 925 1564 1612 2354 2650 
+shortening UTC.txt 1 3163 
+tropical UTC.txt 1 3509 
+describes UTC.txt 1 1271 
+slowly UTC.txt 4 2687 3466 3526 3552 
+deliberately UTC.txt 1 2106 
+proposal UTC.txt 3 3454 3613 3642 
+correction UTC.txt 1 2595 
+define UTC.txt 1 1821 
+generating UTC.txt 1 2019 
+flight UTC.txt 1 603 
+retrospect UTC.txt 1 1103 
+dut1 UTC.txt 6 1073 1083 2594 2669 3124 3200 
+suppress UTC.txt 1 3691 
+thousand UTC.txt 1 3374 
+observatory UTC.txt 5 1814 2003 2038 2042 3436 
+460 UTC.txt 1 189 
+reaching UTC.txt 1 3554 
+dissatisfaction UTC.txt 1 2466 
+observe UTC.txt 1 77 
+ice UTC.txt 1 3043 
+aviation UTC.txt 2 600 1642 
+lgv UTC.txt 1 673 
+2017 UTC.txt 1 2647 
+those UTC.txt 2 484 1248 
+applied UTC.txt 1 1164 
+east UTC.txt 2 1532 1772 
+uncertain UTC.txt 1 3409 
+d.c UTC.txt 1 1805 
+external UTC.txt 1 3711 
+these UTC.txt 3 1004 1158 2013 
+britain UTC.txt 2 1393 1846 
+value UTC.txt 2 2228 2877 
+air UTC.txt 1 606 
+will UTC.txt 15 1220 2985 3245 3271 3290 3302 3320 3329 3341 3351 3356 3378 3383 3411 3698 
+deferred UTC.txt 1 272 
+while UTC.txt 3 393 1789 3019 
+geoid UTC.txt 3 976 1215 1236 
+changed UTC.txt 1 2573 
+eventually UTC.txt 1 2505 
+1847 UTC.txt 1 1848 
+is UTC.txt 53 18 48 62 85 95 280 294 358 507 556 565 593 662 723 843 858 867 904 945 959 1035 1095 1140 1237 1252 1283 1336 1358 1382 1388 1400 1544 1628 1631 1638 1645 1719 1778 1792 2163 2685 2748 2780 2816 2949 2975 3027 3064 3257 3408 3452 3487 3678 
+thus UTC.txt 6 739 1662 2414 2896 3225 3558 
+it UTC.txt 22 61 74 555 732 872 994 1114 1251 1282 1593 1900 2129 2361 2389 2393 2415 2779 2860 2909 2984 3108 3541 
+surface UTC.txt 1 971 
+equal UTC.txt 2 2341 2516 
+need UTC.txt 1 3357 
+in UTC.txt 73 170 174 381 443 476 488 509 599 646 665 720 740 787 789 809 834 977 1021 1084 1102 1109 1190 1217 1296 1365 1392 1498 1525 1530 1641 1680 1684 1803 1816 1849 1890 1907 1925 1967 1992 2018 2033 2074 2142 2175 2189 2249 2298 2315 2322 2357 2383 2435 2471 2475 2654 2674 2757 2761 2775 2911 3120 3150 3295 3316 3334 3371 3398 3426 3519 3653 3668 3704 
+uplift UTC.txt 1 3032 
+ephemeris UTC.txt 5 2158 2161 2214 2346 2717 
+if UTC.txt 3 561 1470 1755 
+result UTC.txt 1 2744 
+different UTC.txt 1 2372 
+develop UTC.txt 1 2006 
+ms/cy UTC.txt 4 3005 3018 3030 3051 
+april UTC.txt 1 3427 
+lengths UTC.txt 2 930 2373 
+alphabet UTC.txt 2 1581 1624 
+began UTC.txt 3 1853 1873 2256 
+00:00:00 UTC.txt 1 2542 
+connection UTC.txt 1 3566 
+same UTC.txt 8 379 504 1659 1864 1884 2097 2448 2565 
+shorter UTC.txt 1 2769 
+became UTC.txt 1 3148 
+grand UTC.txt 1 876 
+units UTC.txt 2 751 766 
+party UTC.txt 1 3601 
+stepped UTC.txt 3 160 2123 2440 
+several UTC.txt 5 145 1475 3038 3283 3528 
+events UTC.txt 1 1150 
+week UTC.txt 1 769 
+independent UTC.txt 1 2173 
+satellite UTC.txt 1 590 
+used UTC.txt 19 508 598 664 668 704 1238 1339 1404 1613 1679 1840 1913 2017 2139 2170 2356 2382 2453 3333 
+centuries UTC.txt 4 2763 2778 3284 3529 
+permit UTC.txt 1 2308 
+differing UTC.txt 1 1450 
+forecasts UTC.txt 1 611 
+average UTC.txt 1 2631 
+ccir UTC.txt 1 187 
+uses UTC.txt 5 12 427 456 468 632 
+arose UTC.txt 1 362 
+intended UTC.txt 1 2306 
+frequently UTC.txt 1 3249 
+nation UTC.txt 1 480 
+consulted UTC.txt 1 1469 
+recent UTC.txt 1 2777 
+tracking UTC.txt 1 964 
+kept UTC.txt 1 2094 
+well UTC.txt 1 1049 
+1972 UTC.txt 5 175 943 2541 2547 2623 
+1971 UTC.txt 1 2525 
+1970 UTC.txt 1 171 
+thought UTC.txt 1 2391 
+without UTC.txt 1 1266 
+english UTC.txt 2 125 384 
+coordinate UTC.txt 1 961 
+addition UTC.txt 1 1681 
+the UTC.txt 279 20 27 49 55 101 104 117 123 133 141 206 209 238 264 275 311 333 341 351 367 372 378 402 411 414 417 431 444 452 463 478 489 503 517 524 529 534 570 587 595 627 694 716 741 745 760 794 802 813 819 839 851 864 875 879 888 893 897 912 916 927 949 969 973 975 1007 1027 1042 1054 1066 1085 1099 1144 1147 1166 1197 1214 1235 1257 1288 1297 1310 1361 1373 1389 1395 1406 1434 1460 1510 1518 1526 1531 1539 1550 1556 1580 1583 1595 1599 1604 1621 1646 1658 1671 1697 1771 1775 1797 1806 1812 1822 1842 1863 1883 1891 1904 1909 1927 1935 1944 1950 1962 1965 1969 1994 2020 2026 2035 2039 2044 2062 2078 2081 2088 2096 2100 2114 2118 2148 2151 2157 2160 2164 2172 2176 2182 2185 2190 2194 2201 2209 2233 2236 2244 2251 2258 2263 2273 2290 2295 2317 2325 2333 2343 2350 2375 2379 2411 2427 2447 2468 2479 2482 2509 2513 2518 2522 2552 2564 2567 2593 2615 2667 2695 2698 2702 2705 2711 2714 2729 2745 2758 2764 2786 2789 2792 2795 2822 2830 2833 2836 2844 2850 2862 2865 2869 2875 2912 2915 2947 2958 2971 3014 3020 3031 3041 3053 3057 3066 3076 3087 3090 3121 3126 3131 3137 3141 3146 3151 3164 3169 3173 3181 3202 3209 3217 3220 3227 3236 3250 3264 3267 3285 3296 3307 3312 3324 3335 3347 3360 3366 3393 3406 3432 3475 3480 3490 3496 3502 3508 3559 3568 3573 3576 3587 3612 3615 3619 3628 3631 3641 3646 3649 3659 3663 3672 3679 3696 
+disseminates UTC.txt 1 1120 
+legal-trade UTC.txt 1 1371 
+bodies UTC.txt 1 2207 
+1/86400 UTC.txt 1 2751 
+summer UTC.txt 1 1764 
+redirects UTC.txt 2 8 1431 
+jurisdictions UTC.txt 1 1476 
+protocol UTC.txt 1 520 
+proposed UTC.txt 4 387 396 2493 3437 
+winkler UTC.txt 1 2490 
+being UTC.txt 2 458 470 
+telemetry UTC.txt 1 1227 
+observed UTC.txt 4 1793 2202 2733 2931 
+adjustments UTC.txt 2 185 214 
+obtain UTC.txt 3 569 586 1113 
+iers UTC.txt 2 1062 3574 
+abbreviation UTC.txt 5 119 353 361 380 1142 
+position UTC.txt 1 3167 
+clocks UTC.txt 4 58 525 1229 2104 
+notional UTC.txt 1 965 
+atomic UTC.txt 12 161 298 955 1201 1971 2007 2103 2222 2237 2331 2441 2484 
+world UTC.txt 6 36 56 432 513 3650 3673 
+speed UTC.txt 1 2684 
+coordination UTC.txt 1 153 
+november UTC.txt 2 3658 3669 
+previous UTC.txt 1 894 
+web UTC.txt 1 515 
+cut UTC.txt 1 388 
+bibliography UTC.txt 1 3710 
+greenwich UTC.txt 8 89 1385 1584 1690 1815 1836 1910 2041 
+integer UTC.txt 3 1455 1485 2559 
+1959 UTC.txt 1 2012 
+scales UTC.txt 2 2010 2015 
+royal UTC.txt 3 1813 1892 2040 
+sometimes UTC.txt 2 1545 1632 
+signals UTC.txt 9 155 233 591 1131 1954 2023 2082 2399 2589 
+multi-year UTC.txt 1 1330 
+causing UTC.txt 2 2843 3415 
+nato UTC.txt 1 1622 
+location UTC.txt 1 1655 
+problematic UTC.txt 1 3292 
+31 UTC.txt 1 2642 
+consideration UTC.txt 1 3639 
+has UTC.txt 7 270 922 991 1563 1611 2928 3045 
+city UTC.txt 1 1707 
+match UTC.txt 4 2087 2410 2576 3190 
+gmt UTC.txt 10 92 94 560 988 1381 1561 1839 1852 1872 1942 
+real UTC.txt 2 1110 1191 
+march UTC.txt 2 1045 3325 
+around UTC.txt 2 430 3593 
+zulu UTC.txt 4 1429 1629 1635 1644 
+rules UTC.txt 1 678 
+showing UTC.txt 1 2666 
+possible UTC.txt 2 1254 1285 
+elapsed UTC.txt 1 1261 
+increases UTC.txt 1 2694 
+traffic UTC.txt 1 607 
+preference UTC.txt 1 1053 
+30 UTC.txt 2 2621 2639 
+shortwave UTC.txt 1 2027 
+using UTC.txt 8 435 533 693 1123 1165 1542 1657 1704 
+variants UTC.txt 1 418 
+accepted UTC.txt 1 550 
+desire UTC.txt 1 365 
+necessary UTC.txt 4 216 321 926 2418 
+signal UTC.txt 1 2119 
+cy UTC.txt 1 3007 
+specific UTC.txt 1 558 
+steps UTC.txt 5 2055 2137 2280 2423 2495 
+37 UTC.txt 1 2660 
+experimentally UTC.txt 1 2434 
+always UTC.txt 3 1349 1720 2637 
+become UTC.txt 2 2854 3291 
+downward UTC.txt 1 3138 
+page UTC.txt 1 1440 
+two UTC.txt 4 1263 2367 3299 3373 
+twelve UTC.txt 2 459 471 
+exceed UTC.txt 1 3412 
+because UTC.txt 6 648 838 1205 1899 2689 3154 
+often UTC.txt 1 641 
+universel UTC.txt 1 400 
+discontinuities UTC.txt 4 992 1005 1020 1078 
+some UTC.txt 3 651 2587 3293 
+back UTC.txt 1 2130 
+metres UTC.txt 1 3039 
+radiocommunication UTC.txt 1 3674 
+daylight UTC.txt 7 78 624 1727 1730 1735 1761 1790 
+recommendation UTC.txt 2 188 286 
+duration UTC.txt 4 758 774 1289 2165 
+matching UTC.txt 1 3507 
+users UTC.txt 1 1104 
+provided UTC.txt 2 1976 2609 
+scale UTC.txt 3 744 963 2065 
+for UTC.txt 30 10 26 81 310 340 354 389 398 413 581 602 874 1037 1143 1203 1308 1367 1433 1626 1677 1766 1914 2025 2150 2232 2397 2598 2812 2990 3060 
+contacts UTC.txt 1 645 
+avoid UTC.txt 1 618 
+synchronicity UTC.txt 1 1223 
+recorded UTC.txt 1 1154 
+seaman UTC.txt 1 3430 
+legal UTC.txt 1 1390 
+leap UTC.txt 44 180 261 302 316 337 344 730 779 803 870 895 951 1010 1274 1306 1345 1362 2613 2617 2626 2652 2680 2897 2939 2962 3061 3115 3186 3194 3212 3233 3243 3277 3288 3300 3313 3339 3363 3387 3422 3439 3460 3664 3692 
+does UTC.txt 5 75 1724 1739 2944 2967 
+eliminate UTC.txt 1 260 
+timestamps UTC.txt 1 1265 
+newcomb UTC.txt 1 2741 
+refer UTC.txt 1 1940 
+be UTC.txt 34 199 218 501 654 703 734 806 1152 1163 1468 1504 1702 1711 2230 2395 2417 2497 2722 2930 3246 3272 3303 3321 3332 3342 3352 3359 3379 3386 3441 3444 3514 3534 3699 
+measures UTC.txt 1 1172 
+run UTC.txt 1 2857 
+scientific UTC.txt 2 102 1322 
+schedule UTC.txt 1 642 
+seconds UTC.txt 50 181 262 303 317 327 338 345 688 719 804 829 833 849 863 909 952 1011 1275 1307 1314 1346 1353 1363 2215 2223 2536 2562 2614 2627 2653 2661 2675 2681 2773 2784 2898 3062 3187 3195 3213 3244 3278 3289 3301 3340 3364 3388 3440 3461 3693 
+selecting UTC.txt 1 1715 
+equivalent UTC.txt 3 135 986 1557 
+lose UTC.txt 1 3563 
+agreement UTC.txt 2 225 2132 
+24-hour UTC.txt 1 1660 
+step UTC.txt 1 213 
+although UTC.txt 2 1033 1459 
+offset UTC.txt 4 29 451 1422 1520 
+tidal UTC.txt 2 2691 3024 
+major UTC.txt 1 3516 
+refers UTC.txt 1 1602 
+by UTC.txt 39 53 100 282 366 449 657 793 947 1013 1193 1280 1340 1360 1405 1436 1453 1483 1506 1517 1549 1566 1576 1589 1714 1934 2011 2099 2124 2272 2328 2739 2821 2883 2952 2978 2997 3037 3206 3645 
+2600 UTC.txt 1 3589 
+on UTC.txt 27 112 237 296 502 546 650 669 968 1199 1213 1244 1691 1721 1770 1841 1957 1961 2421 2620 2630 2638 2710 2920 3168 3572 3608 3656 
+about UTC.txt 11 19 64 620 882 1570 2632 2987 3028 3096 3105 3372 
+goods UTC.txt 1 671 
+actual UTC.txt 2 2916 3070 
+working UTC.txt 1 3600 
+extension UTC.txt 1 1281 
+most UTC.txt 2 82 1368 
+island UTC.txt 2 479 1843 
+months UTC.txt 3 786 2284 2636 
+introduces UTC.txt 1 1077 
+factors UTC.txt 1 2922 
+reduced UTC.txt 1 3047 
+practical UTC.txt 1 3517 
+monthly UTC.txt 2 1174 3446 
+range UTC.txt 2 3015 3204 
+carrier UTC.txt 1 193 
+islands UTC.txt 1 491 
+introduced UTC.txt 3 1364 1933 3188 
+slightly UTC.txt 1 844 
+or UTC.txt 14 437 736 1031 1128 1216 1489 1493 1508 1548 1706 1750 2641 2806 2824 
+consulting UTC.txt 1 1267 
+letters UTC.txt 2 1578 1678 
+rationale UTC.txt 1 2664 
+civil UTC.txt 6 1496 1751 1835 3473 3485 3520 
+into UTC.txt 3 683 1079 2131 
+within UTC.txt 5 63 325 2208 3013 3201 
+washington UTC.txt 1 1804 
+accumulates UTC.txt 1 2840 
+servers UTC.txt 2 538 580 
+phase UTC.txt 1 2121 
+weather UTC.txt 1 610 
+accounts UTC.txt 1 873 
+approximately UTC.txt 3 2809 2902 3258 
+accumulated UTC.txt 3 950 3109 3192 
+essen UTC.txt 1 2478 
+theoretically UTC.txt 1 467 
+rely UTC.txt 2 545 2420 
+lod UTC.txt 10 2807 2826 2834 2870 3073 3129 3229 3256 3270 3410 
+few UTC.txt 2 2283 3400 
+qualifying UTC.txt 1 1685 
+there UTC.txt 8 1034 1794 2463 2526 2648 3355 3382 3451 
+question UTC.txt 1 3629 
+approximate UTC.txt 1 224 
+long UTC.txt 2 1329 2913 
+ut2 UTC.txt 4 424 2314 2462 2586 
+ut0 UTC.txt 1 422 
+ut1 UTC.txt 9 331 423 985 1074 1492 2583 2596 2605 2671 
+charts UTC.txt 1 1918 
+timed UTC.txt 1 3197 
+grew UTC.txt 1 2116 
+was UTC.txt 40 109 136 143 168 406 1473 1587 1594 1818 1901 1912 1932 1973 1982 2066 2083 2120 2145 2268 2305 2320 2339 2349 2362 2385 2390 2432 2464 2504 2527 2544 2572 2708 2768 2808 3095 3117 3643 3666 3694 
+slight UTC.txt 1 3157 
+function UTC.txt 1 999 
+amateur UTC.txt 1 638 
+elsewhere UTC.txt 1 1898 
+form UTC.txt 2 1008 1978 
+differences UTC.txt 1 1179 
+independently UTC.txt 1 2492 
+encodes UTC.txt 1 531 
+properly UTC.txt 2 939 2242 
+solar UTC.txt 13 69 841 890 1809 2191 2205 2700 2731 2755 2766 2797 2973 2993 
+two-thirds UTC.txt 1 1915 
+line UTC.txt 1 490 
+highest UTC.txt 1 1100 
+with UTC.txt 27 88 132 226 254 301 727 830 940 1092 1098 1224 1230 1742 1834 1943 2133 2156 2243 2371 2461 2467 2508 2728 2849 2868 3472 3544 
+4600 UTC.txt 1 3594 
+faster UTC.txt 2 919 2880 
+utc UTC.txt 82 6 7 14 25 47 84 121 158 167 241 253 279 324 359 407 441 450 462 475 506 535 553 572 579 592 616 633 647 661 680 742 823 856 902 941 944 989 1015 1022 1069 1075 1080 1094 1136 1186 1225 1241 1264 1366 1378 1421 1426 1452 1494 1519 1536 1543 1630 1709 1722 1738 1782 2259 2304 2376 2472 2514 2543 2555 2571 2578 2597 2607 2659 2673 2845 2878 2906 3416 3457 3530 3579 
+made UTC.txt 1 250 
+compute UTC.txt 2 1256 1287 
+slope UTC.txt 3 3139 3147 3218 
+whether UTC.txt 1 3609 
+ut UTC.txt 13 229 243 1380 1931 1958 2091 2112 2134 2430 2815 2882 3540 3581 
+official UTC.txt 4 118 124 352 577 
+up UTC.txt 1 656 
+devices UTC.txt 1 1693 
+frequency UTC.txt 12 2008 2057 2079 2098 2149 2287 2326 2351 2404 2408 3210 3286 
+emissions UTC.txt 1 292 
+uk UTC.txt 1 2045 
+wrc-15 UTC.txt 1 3676 
+z UTC.txt 5 1552 1568 1591 1627 1683 
+minutes UTC.txt 3 686 715 1515 
+called UTC.txt 1 868 
+interval UTC.txt 5 1086 1260 1279 1293 2904 
+constant UTC.txt 3 201 757 2218 
+tectonic UTC.txt 1 2925 
+defined UTC.txt 4 99 281 1448 2338 
+m UTC.txt 1 2488 
+universal UTC.txt 16 1 43 107 129 227 329 356 391 420 1071 1647 1823 1929 2072 2266 3686 
+specified UTC.txt 1 1516 
+moved UTC.txt 1 483 
+slowing UTC.txt 1 312 
+an UTC.txt 8 728 1107 1121 1141 1302 1454 1484 2558 
+proper UTC.txt 1 966 
+as UTC.txt 26 24 320 442 554 634 1048 1050 1091 1126 1188 1247 1449 1592 1634 1921 2070 2171 2220 2439 2450 2644 2742 2802 2924 2936 3235 
+at UTC.txt 25 71 305 783 1026 1041 1796 1811 1829 1854 1874 1886 1903 1947 2095 2289 2446 2521 2563 2871 2901 3000 3263 3365 3392 3671 
+planets UTC.txt 1 2186 
+nautical UTC.txt 2 1558 1871 
+encompass UTC.txt 1 1301 
+work UTC.txt 2 938 2241 
+zulutime UTC.txt 1 1443 
+1892 UTC.txt 1 2737 
+1950s UTC.txt 1 1951 
+vertical UTC.txt 5 2676 3144 3166 3182 3203 
+tick UTC.txt 1 2568 
+beyond UTC.txt 1 3557 
+no UTC.txt 2 96 3688 
+whereas UTC.txt 1 1870 
+when UTC.txt 5 215 1242 1665 2113 2169 
+abolish UTC.txt 1 3459 
+occasional UTC.txt 1 729 
+other UTC.txt 3 11 542 1688 
+details UTC.txt 1 1204 
+digital UTC.txt 1 666 
+shallower UTC.txt 1 3149 
+out UTC.txt 1 3469 
+nominal UTC.txt 4 2837 2876 3072 3132 
+canada UTC.txt 1 3034 
+2,700 UTC.txt 1 3055 
+conventionally UTC.txt 1 691 
+getting UTC.txt 3 2888 2950 2976 
+june UTC.txt 4 1030 2622 2640 3317 
+precision UTC.txt 3 564 583 1101 
+studied UTC.txt 1 3700 
+variable UTC.txt 2 773 2174 
+astronomy UTC.txt 1 3435 
+1805 UTC.txt 1 1889 
+remote UTC.txt 1 913 
+longer UTC.txt 5 97 845 2781 2951 2977 
+practically UTC.txt 1 2340 
+navy UTC.txt 1 1893 
+vehicles UTC.txt 1 672 
+stay UTC.txt 1 2459 
+indirectly UTC.txt 1 1713 
+2001 UTC.txt 1 3428 
+weights UTC.txt 1 1170 
+time UTC.txt 111 2 21 28 40 44 51 60 70 80 91 108 130 152 162 196 228 299 330 357 392 421 428 447 454 465 519 551 588 596 621 626 636 659 682 743 750 765 956 962 967 1072 1111 1117 1130 1145 1148 1192 1202 1207 1259 1292 1348 1387 1408 1412 1417 1427 1430 1444 1479 1497 1501 1537 1540 1559 1572 1585 1617 1636 1668 1675 1686 1699 1729 1732 1737 1749 1752 1757 1763 1765 1769 1810 1838 1930 1953 2009 2014 2022 2054 2064 2073 2167 2267 2279 2347 2398 2422 2442 2566 2588 2718 2842 3085 3179 3294 3474 3486 3547 3560 3687 
+international UTC.txt 15 283 297 368 373 628 795 954 1055 1167 1200 1799 1936 2253 2274 3680 
+12 UTC.txt 2 1857 1877 
+starting UTC.txt 1 1946 
+having UTC.txt 2 547 2366 
+once UTC.txt 1 2633 

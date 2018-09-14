@@ -1,0 +1,684 @@
+limited Occultation.txt 1 576 
+all Occultation.txt 1 1191 
+partial Occultation.txt 1 656 
+lagrangian Occultation.txt 1 1695 
+lack Occultation.txt 1 253 
+dynamic Occultation.txt 1 467 
+results Occultation.txt 2 1106 1273 
+spacecraft Occultation.txt 1 1412 
+disc Occultation.txt 1 1756 
+tenuous Occultation.txt 1 821 
+consists Occultation.txt 1 1564 
+disk Occultation.txt 1 674 
+transits Occultation.txt 1 725 
+arcsec Occultation.txt 1 189 
+predawn Occultation.txt 1 44 
+to Occultation.txt 27 79 104 150 184 249 259 271 307 340 419 489 521 823 913 970 983 1078 1100 1163 1254 1314 1407 1556 1583 1612 1733 1766 
+weather Occultation.txt 1 1234 
+include Occultation.txt 1 1248 
+updated Occultation.txt 1 1741 
+asteroids Occultation.txt 4 866 1002 1244 1331 
+street Occultation.txt 1 1400 
+presently Occultation.txt 1 329 
+very Occultation.txt 3 196 523 1568 
+newburgh Occultation.txt 1 1218 
+every Occultation.txt 2 950 963 
+exact Occultation.txt 1 567 
+categories Occultation.txt 2 1798 1800 
+common Occultation.txt 1 1328 
+positions Occultation.txt 1 568 
+large Occultation.txt 2 1461 1567 
+reappearing Occultation.txt 1 435 
+small Occultation.txt 1 1507 
+venus Occultation.txt 3 763 777 1527 
+round Occultation.txt 1 906 
+tenths Occultation.txt 1 495 
+configurations Occultation.txt 1 1675 
+upper Occultation.txt 2 391 1297 
+work Occultation.txt 3 1550 1682 1712 
+slower Occultation.txt 1 1316 
+portable Occultation.txt 1 1414 
+ixion Occultation.txt 1 1268 
+varuna Occultation.txt 1 1271 
+191 Occultation.txt 1 1069 
+direct Occultation.txt 1 581 
+past Occultation.txt 2 370 444 
+second Occultation.txt 2 498 1698 
+273 Occultation.txt 1 595 
+video Occultation.txt 2 25 911 
+crescent Occultation.txt 1 40 
+regulus Occultation.txt 4 321 765 775 1131 
+pass Occultation.txt 2 338 840 
+further Occultation.txt 1 1784 
+even Occultation.txt 1 1024 
+what Occultation.txt 1 448 
+waning Occultation.txt 1 39 
+sun Occultation.txt 2 690 717 
+trans-neptunian Occultation.txt 1 1259 
+rome Occultation.txt 1 1220 
+300 Occultation.txt 1 1266 
+spaceprobe Occultation.txt 1 747 
+version Occultation.txt 1 1742 
+3c Occultation.txt 1 594 
+new Occultation.txt 2 1193 1213 
+ever Occultation.txt 1 1161 
+can Occultation.txt 9 76 378 626 685 839 1007 1023 1448 1501 
+body Occultation.txt 1 1447 
+simultaneously Occultation.txt 1 1496 
+dwarf Occultation.txt 3 880 1282 1343 
+exchange Occultation.txt 1 984 
+2448 Occultation.txt 1 1064 
+here Occultation.txt 1 909 
+pluto Occultation.txt 2 811 1312 
+hours Occultation.txt 1 1398 
+objects Occultation.txt 6 117 120 373 1260 1340 1485 
+thrusters Occultation.txt 1 1576 
+path Occultation.txt 3 417 874 1207 
+100 Occultation.txt 1 1182 
+appears Occultation.txt 1 849 
+2044 Occultation.txt 1 781 
+38 Occultation.txt 1 1115 
+zone Occultation.txt 2 650 669 
+involved Occultation.txt 1 1382 
+studied Occultation.txt 1 825 
+allows Occultation.txt 1 256 
+social Occultation.txt 2 12 15 
+usually Occultation.txt 1 627 
+narrow Occultation.txt 2 649 668 
+changes Occultation.txt 1 125 
+york Occultation.txt 2 1194 1214 
+diameter Occultation.txt 4 204 1257 1301 1463 
+topography Occultation.txt 1 510 
+useful Occultation.txt 2 544 994 
+campaign Occultation.txt 1 1381 
+laetitia Occultation.txt 1 1110 
+transit Occultation.txt 1 1351 
+collaborating Occultation.txt 1 979 
+highly Occultation.txt 1 1705 
+movement Occultation.txt 1 1317 
+limb Occultation.txt 5 36 235 244 439 828 
+total Occultation.txt 1 704 
+from Occultation.txt 13 24 90 109 456 653 743 944 955 1107 1384 1505 1605 1659 
+links Occultation.txt 1 1788 
+would Occultation.txt 9 1075 1549 1581 1600 1618 1663 1681 1699 1727 
+faint Occultation.txt 1 888 
+two Occultation.txt 4 1397 1483 1487 1673 
+next Occultation.txt 1 768 
+few Occultation.txt 3 394 408 494 
+asteroid Occultation.txt 7 918 923 991 1022 1136 1159 1173 
+therefore Occultation.txt 1 702 
+6 Occultation.txt 1 1276 
+rhea Occultation.txt 1 732 
+type Occultation.txt 1 1517 
+minor Occultation.txt 2 927 1048 
+more Occultation.txt 6 260 853 925 1004 1665 1791 
+euraster Occultation.txt 1 1108 
+aldebaran Occultation.txt 3 29 327 339 
+inclined Occultation.txt 1 270 
+sister Occultation.txt 1 1796 
+visual Occultation.txt 2 106 525 
+8 Occultation.txt 1 1047 
+wikipedias Occultation.txt 1 1795 
+particular Occultation.txt 2 247 957 
+known Occultation.txt 1 450 
+actual Occultation.txt 1 895 
+cases Occultation.txt 1 836 
+effort Occultation.txt 1 1435 
+blocking Occultation.txt 1 939 
+1997 Occultation.txt 1 20 
+maarten Occultation.txt 1 608 
+this Occultation.txt 9 18 43 99 583 870 910 1155 1677 1744 
+1998 Occultation.txt 3 1102 1123 1522 
+governments Occultation.txt 1 1390 
+e.g Occultation.txt 1 1486 
+eclipse Occultation.txt 2 701 706 
+remain Occultation.txt 1 1728 
+thin Occultation.txt 1 197 
+mechanic Occultation.txt 1 684 
+island Occultation.txt 1 1534 
+following Occultation.txt 1 1208 
+making Occultation.txt 1 1305 
+example Occultation.txt 2 1040 1098 
+history Occultation.txt 1 1430 
+challenging Occultation.txt 1 1425 
+cosmological Occultation.txt 1 614 
+0.1 Occultation.txt 1 226 
+in Occultation.txt 38 17 42 73 82 86 95 98 160 225 354 367 389 504 761 780 794 802 814 834 841 890 930 1117 1126 1139 1153 1175 1290 1332 1348 1405 1422 1428 1433 1551 1642 1703 1713 
+generically Occultation.txt 1 926 
+effectively Occultation.txt 1 708 
+performed Occultation.txt 1 480 
+sense Occultation.txt 1 101 
+ascension Occultation.txt 1 1533 
+spanning Occultation.txt 1 1436 
+occur Occultation.txt 4 662 948 961 1164 
+erigone Occultation.txt 1 1138 
+january Occultation.txt 1 1354 
+six Occultation.txt 1 1437 
+astronomers Occultation.txt 2 485 554 
+located Occultation.txt 1 665 
+rad/s Occultation.txt 1 193 
+anacostia Occultation.txt 1 1063 
+elliptical Occultation.txt 1 1706 
+coronagraph Occultation.txt 1 1755 
+profile Occultation.txt 1 1016 
+blocks Occultation.txt 1 89 
+may Occultation.txt 4 292 312 428 749 
+southern Occultation.txt 1 424 
+unmanned Occultation.txt 1 746 
+waves Occultation.txt 1 575 
+such Occultation.txt 5 374 959 1261 1376 1516 
+starlight Occultation.txt 1 1670 
+a Occultation.txt 58 138 163 195 213 393 407 452 493 497 604 632 648 655 699 703 728 733 771 792 860 887 933 936 968 988 1014 1028 1081 1089 1094 1151 1166 1209 1275 1286 1349 1357 1363 1391 1490 1494 1506 1545 1554 1566 1572 1584 1595 1620 1627 1649 1654 1684 1704 1716 1752 1757 1764 
+reappeared Occultation.txt 1 32 
+imagery Occultation.txt 1 114 
+effective Occultation.txt 1 547 
+light Occultation.txt 3 941 1409 1650 
+fundamental Occultation.txt 1 605 
+maneuver Occultation.txt 2 1582 1634 
+pollution Occultation.txt 1 1410 
+order Occultation.txt 1 1406 
+over Occultation.txt 5 126 952 980 1114 1165 
+produced Occultation.txt 1 1240 
+course Occultation.txt 1 167 
+6.5 Occultation.txt 1 290 
+panopaea Occultation.txt 1 1061 
+through Occultation.txt 2 580 1318 
+preliminary Occultation.txt 1 1272 
+november Occultation.txt 1 1277 
+still Occultation.txt 1 21 
+its Occultation.txt 7 169 421 601 820 940 1180 1459 
+before Occultation.txt 2 396 1223 
+observational Occultation.txt 1 458 
+conjunction Occultation.txt 2 1552 1714 
+20 Occultation.txt 1 1145 
+21 Occultation.txt 1 1353 
+23 Occultation.txt 1 1520 
+occulted Occultation.txt 12 217 294 314 381 398 752 764 791 812 1133 1366 1526 
+28 Occultation.txt 1 809 
+oneonta Occultation.txt 1 1219 
+detected Occultation.txt 1 1378 
+degrees Occultation.txt 1 291 
+systems Occultation.txt 1 1579 
+latitude Occultation.txt 1 285 
+2014 Occultation.txt 2 1146 1372 
+hidden Occultation.txt 2 57 1799 
+main Occultation.txt 2 722 1171 
+2011 Occultation.txt 1 892 
+2010 Occultation.txt 1 1278 
+someone Occultation.txt 1 623 
+pollux Occultation.txt 2 349 360 
+100,000 Occultation.txt 1 1657 
+number Occultation.txt 2 1029 1473 
+they Occultation.txt 2 311 365 
+front Occultation.txt 5 161 803 842 931 1176 
+1959 Occultation.txt 1 762 
+day Occultation.txt 1 951 
+nor Occultation.txt 1 345 
+occult Occultation.txt 3 1079 1449 1767 
+kilometres Occultation.txt 1 409 
+term Occultation.txt 2 69 144 
+edit Occultation.txt 11 133 721 833 867 1341 1441 1537 1781 1783 1786 1789 
+occasions Occultation.txt 1 155 
+preclude Occultation.txt 1 1408 
+l Occultation.txt 1 1694 
+sufficiently Occultation.txt 1 305 
+0.057 Occultation.txt 1 208 
+crossing Occultation.txt 1 1224 
+found Occultation.txt 1 555 
+referred Occultation.txt 1 418 
+telescope Occultation.txt 6 969 1555 1593 1661 1686 1718 
+populated Occultation.txt 1 1167 
+globe Occultation.txt 2 977 1087 
+positioned Occultation.txt 2 1652 1689 
+year Occultation.txt 1 622 
+our Occultation.txt 1 506 
+kolga Occultation.txt 1 1070 
+event Occultation.txt 5 50 711 857 1478 1514 
+85 Occultation.txt 1 1052 
+canada Occultation.txt 1 1226 
+shown Occultation.txt 1 908 
+space Occultation.txt 1 1685 
+since Occultation.txt 2 175 634 
+crucial Occultation.txt 1 585 
+eriss Occultation.txt 1 1300 
+28978 Occultation.txt 1 1267 
+internet Occultation.txt 1 982 
+cetus Occultation.txt 1 1294 
+size Occultation.txt 2 998 1310 
+occurs Occultation.txt 2 52 920 
+highway Occultation.txt 1 1393 
+shows Occultation.txt 1 872 
+foreground Occultation.txt 2 88 116 
+belief Occultation.txt 1 6 
+city Occultation.txt 2 1195 1215 
+ecliptic Occultation.txt 3 273 284 309 
+247 Occultation.txt 1 1054 
+brightest Occultation.txt 1 1158 
+estimate Occultation.txt 1 1255 
+telescopes Occultation.txt 1 1416 
+steerable Occultation.txt 2 1541 1775 
+islamic Occultation.txt 1 5 
+determining Occultation.txt 2 546 565 
+could Occultation.txt 1 670 
+times Occultation.txt 2 619 1739 
+motion Occultation.txt 1 171 
+belleville Occultation.txt 1 1228 
+place Occultation.txt 4 239 958 1084 1700 
+timed Occultation.txt 2 265 488 
+uses Occultation.txt 2 502 1751 
+frequent Occultation.txt 1 154 
+first Occultation.txt 5 300 786 1148 1375 1680 
+major Occultation.txt 1 1392 
+dione Occultation.txt 1 740 
+scene Occultation.txt 2 107 124 
+one Occultation.txt 5 54 837 855 1072 1118 
+set Occultation.txt 1 1573 
+done Occultation.txt 1 1009 
+disappearing Occultation.txt 1 433 
+another Occultation.txt 4 59 738 844 1445 
+ring Occultation.txt 1 1358 
+precisely Occultation.txt 1 1005 
+angular Occultation.txt 5 180 203 530 640 1462 
+illustrate Occultation.txt 1 914 
+passes Occultation.txt 3 62 159 929 
+given Occultation.txt 1 1468 
+sheet Occultation.txt 2 1570 1647 
+swept Occultation.txt 1 1185 
+jet Occultation.txt 1 602 
+plains Occultation.txt 1 1217 
+5th Occultation.txt 1 806 
+bay Occultation.txt 1 1231 
+indeterminate Occultation.txt 1 1472 
+airborne Occultation.txt 1 1420 
+their Occultation.txt 3 566 985 1315 
+passed Occultation.txt 2 801 1174 
+white Occultation.txt 1 1216 
+that Occultation.txt 9 51 61 215 237 303 310 667 789 1548 
+exactly Occultation.txt 1 905 
+resulted Occultation.txt 1 1125 
+optical Occultation.txt 1 598 
+july Occultation.txt 2 19 798 
+than Occultation.txt 5 288 851 1006 1329 1666 
+eukrate Occultation.txt 1 1055 
+professionals Occultation.txt 1 972 
+12 Occultation.txt 1 1042 
+17 Occultation.txt 1 1288 
+16 Occultation.txt 1 403 
+double Occultation.txt 1 1439 
+require Occultation.txt 1 967 
+likely Occultation.txt 1 1688 
+future Occultation.txt 1 357 
+were Occultation.txt 4 366 785 1046 1402 
+design Occultation.txt 1 1745 
+and Occultation.txt 34 65 199 264 279 318 323 434 459 468 600 603 726 766 817 973 999 1068 1083 1092 1188 1196 1221 1229 1269 1399 1417 1493 1500 1528 1571 1577 1594 1633 1711 
+rad Occultation.txt 1 212 
+haumea Occultation.txt 1 1345 
+dynamically Occultation.txt 1 121 
+turned Occultation.txt 1 1403 
+locations Occultation.txt 1 1035 
+have Occultation.txt 8 201 499 516 534 638 1239 1250 1619 
+seen Occultation.txt 3 687 943 1503 
+sounding Occultation.txt 1 829 
+any Occultation.txt 6 80 280 956 1011 1071 1467 
+contents Occultation.txt 1 128 
+relatively Occultation.txt 3 153 1460 1729 
+lightweight Occultation.txt 1 1569 
+constellation Occultation.txt 1 1292 
+ground-based Occultation.txt 1 1415 
+note Occultation.txt 1 893 
+also Occultation.txt 8 77 379 517 750 774 1251 1761 1780 
+animation Occultation.txt 1 871 
+take Occultation.txt 1 238 
+which Occultation.txt 5 83 542 654 1124 1750 
+accuracy Occultation.txt 1 491 
+201 Occultation.txt 1 1058 
+play Occultation.txt 2 134 868 
+multiple Occultation.txt 1 1450 
+object Occultation.txt 6 55 60 85 94 388 1371 
+most Occultation.txt 6 147 207 466 966 1424 1687 
+nasas Occultation.txt 1 1418 
+significant Occultation.txt 1 639 
+70 Occultation.txt 3 1060 1623 1625 
+measured Occultation.txt 1 536 
+kg Occultation.txt 1 1632 
+observation Occultation.txt 2 582 986 
+m Occultation.txt 2 1624 1626 
+drive Occultation.txt 1 1640 
+km Occultation.txt 3 1183 1304 1658 
+part Occultation.txt 1 1508 
+refining Occultation.txt 1 505 
+occulations Occultation.txt 1 1050 
+planetary Occultation.txt 4 344 724 831 862 
+atmosphere Occultation.txt 2 198 822 
+sail Occultation.txt 1 1651 
+particularly Occultation.txt 1 503 
+phenomenon Occultation.txt 2 13 916 
+wikipedia Occultation.txt 1 1 
+discovered Occultation.txt 2 518 787 
+bright Occultation.txt 7 27 387 757 772 1484 1491 1768 
+radio Occultation.txt 4 553 558 574 592 
+uranus Occultation.txt 1 782 
+earth Occultation.txt 8 174 625 652 694 901 945 1692 1710 
+find Occultation.txt 1 1790 
+ground Occultation.txt 2 1717 1735 
+nearer Occultation.txt 1 847 
+knowledge Occultation.txt 1 507 
+northern Occultation.txt 1 422 
+lights Occultation.txt 1 1401 
+occultation Occultation.txt 25 0 9 16 45 47 102 136 145 455 657 718 730 769 863 885 919 1038 1105 1119 1160 1237 1279 1377 1427 1793 
+grazes Occultation.txt 1 463 
+only Occultation.txt 2 330 1504 
+arcseconds Occultation.txt 1 209 
+various Occultation.txt 1 500 
+local Occultation.txt 1 1389 
+regularly Occultation.txt 1 481 
+cassinihuygens Occultation.txt 1 745 
+means Occultation.txt 2 1013 1636 
+between Occultation.txt 2 63 1591 
+joint Occultation.txt 1 989 
+ones Occultation.txt 1 1247 
+photoelectric Occultation.txt 1 511 
+nearly Occultation.txt 1 949 
+asteroidal Occultation.txt 1 1104 
+timing Occultation.txt 2 475 538 
+during Occultation.txt 3 165 620 883 
+saturn Occultation.txt 2 736 800 
+reading Occultation.txt 1 1785 
+morning Occultation.txt 1 1142 
+bad Occultation.txt 1 1233 
+predicted Occultation.txt 3 416 1149 1162 
+brouwer Occultation.txt 1 1067 
+including Occultation.txt 2 1051 1388 
+obscure Occultation.txt 1 118 
+river Occultation.txt 1 1199 
+where Occultation.txt 1 691 
+view Occultation.txt 2 91 696 
+temporarily Occultation.txt 1 938 
+observer Occultation.txt 3 67 427 664 
+frame Occultation.txt 1 22 
+comparable Occultation.txt 1 1758 
+deep-sky Occultation.txt 1 372 
+observed Occultation.txt 5 108 263 1112 1347 1614 
+see Occultation.txt 6 7 14 274 429 971 1779 
+are Occultation.txt 11 245 298 304 328 350 464 759 978 993 1325 1672 
+close Occultation.txt 2 306 524 
+2.7 Occultation.txt 1 192 
+detect Occultation.txt 1 1557 
+currently Occultation.txt 1 351 
+rings Occultation.txt 1 784 
+3 Occultation.txt 3 797 1121 1361 
+determined Occultation.txt 2 1026 1130 
+identification Occultation.txt 1 589 
+cooperation Occultation.txt 1 1383 
+moons Occultation.txt 3 232 242 267 
+orbiting Occultation.txt 1 1610 
+neither Occultation.txt 1 343 
+blocked Occultation.txt 1 676 
+across Occultation.txt 1 1186 
+discovery Occultation.txt 1 611 
+available Occultation.txt 1 579 
+24 Occultation.txt 1 1413 
+main-belt Occultation.txt 1 1334 
+creating Occultation.txt 1 447 
+occults Occultation.txt 4 92 935 1470 1482 
+nature Occultation.txt 1 615 
+however Occultation.txt 2 353 1476 
+boss Occultation.txt 1 1543 
+spectroscopic Occultation.txt 1 527 
+aircraft Occultation.txt 1 111 
+shaped Occultation.txt 1 1754 
+article Occultation.txt 1 723 
+tnos Occultation.txt 1 1324 
+last Occultation.txt 1 1513 
+irregular Occultation.txt 1 438 
+many Occultation.txt 2 1127 1243 
+according Occultation.txt 1 1099 
+april Occultation.txt 2 891 1521 
+s Occultation.txt 4 190 610 783 1693 
+interesting Occultation.txt 1 469 
+tx Occultation.txt 1 1265 
+nearby Occultation.txt 2 1034 1596 
+point Occultation.txt 1 1696 
+cross-sectional Occultation.txt 1 1015 
+respect Occultation.txt 2 183 1732 
+grazing Occultation.txt 2 453 729 
+belt Occultation.txt 3 1172 1339 1370 
+union Occultation.txt 1 1057 
+create Occultation.txt 1 647 
+three Occultation.txt 2 299 1411 
+been Occultation.txt 2 535 1252 
+1585 Occultation.txt 1 1056 
+much Occultation.txt 1 1003 
+slowly Occultation.txt 1 679 
+interest Occultation.txt 1 248 
+amateur Occultation.txt 1 484 
+proposal Occultation.txt 1 1759 
+closed Occultation.txt 1 1395 
+engine Occultation.txt 1 1641 
+shia Occultation.txt 1 4 
+partly Occultation.txt 1 675 
+observatory Occultation.txt 1 1421 
+39 Occultation.txt 1 1109 
+observers Occultation.txt 4 250 692 1031 1531 
+observe Occultation.txt 3 628 671 1036 
+argentinian Occultation.txt 1 1386 
+an Occultation.txt 23 46 49 84 93 179 202 283 414 426 457 490 663 884 917 922 1021 1296 1434 1471 1477 1638 1740 1772 
+2017 Occultation.txt 2 1355 1362 
+those Occultation.txt 2 152 550 
+163 Occultation.txt 1 1137 
+schmidt Occultation.txt 1 609 
+atmospheric Occultation.txt 1 827 
+unlike Occultation.txt 1 636 
+these Occultation.txt 3 257 462 1074 
+apogee Occultation.txt 1 1721 
+will Occultation.txt 7 221 361 646 661 695 778 902 
+near Occultation.txt 2 1227 1690 
+applies Occultation.txt 1 103 
+situation Occultation.txt 1 81 
+larger Occultation.txt 1 850 
+almost Occultation.txt 2 962 1307 
+is Occultation.txt 14 48 56 70 146 216 269 449 479 543 707 858 912 1497 1746 
+it Occultation.txt 6 64 296 697 1306 1580 1662 
+multi-faceted Occultation.txt 1 1380 
+io Occultation.txt 1 1053 
+quasars Occultation.txt 1 617 
+disappear Occultation.txt 1 222 
+if Occultation.txt 2 845 1027 
+orbital Occultation.txt 1 170 
+different Occultation.txt 1 1033 
+thereby Occultation.txt 1 1601 
+makemake Occultation.txt 1 882 
+media Occultation.txt 2 135 869 
+government Occultation.txt 1 1387 
+radiation Occultation.txt 1 1604 
+amateurs Occultation.txt 1 974 
+same Occultation.txt 4 683 710 1309 1455 
+big Occultation.txt 1 1539 
+several Occultation.txt 2 618 946 
+events Occultation.txt 3 236 947 960 
+prerequisite Occultation.txt 1 606 
+european Occultation.txt 1 1103 
+satellite Occultation.txt 10 1542 1547 1563 1599 1617 1678 1702 1726 1765 1776 
+used Occultation.txt 3 72 149 1253 
+ion Occultation.txt 1 1639 
+moving Occultation.txt 1 680 
+along Occultation.txt 1 1586 
+frequently Occultation.txt 1 148 
+early Occultation.txt 2 552 1141 
+off Occultation.txt 1 1404 
+center Occultation.txt 1 1203 
+1977 Occultation.txt 1 795 
+navigation Occultation.txt 1 1578 
+roughly Occultation.txt 1 1211 
+analysis Occultation.txt 2 512 990 
+edge Occultation.txt 2 233 412 
+position Occultation.txt 2 1000 1585 
+the Occultation.txt 134 3 8 11 26 34 38 66 68 87 96 105 123 131 141 143 157 166 173 176 185 219 231 241 252 266 272 277 308 316 333 336 341 355 368 376 383 386 390 400 411 430 437 441 445 465 473 561 570 577 587 591 597 613 621 629 659 672 678 682 689 709 713 716 744 767 805 846 852 856 873 876 879 894 898 915 953 976 981 997 1018 1037 1086 1101 1135 1140 1157 1170 1178 1197 1202 1205 1236 1256 1281 1291 1308 1319 1333 1342 1368 1374 1379 1385 1423 1429 1442 1454 1464 1480 1510 1512 1524 1538 1562 1587 1592 1598 1603 1606 1609 1615 1646 1660 1669 1679 1691 1697 1701 1709 1720 1723 1725 1734 1748 
+binaries Occultation.txt 1 528 
+dimension Occultation.txt 1 1621 
+bodies Occultation.txt 1 1452 
+99.998 Occultation.txt 1 1667 
+just Occultation.txt 1 31 
+less Occultation.txt 3 229 287 1327 
+being Occultation.txt 2 397 1129 
+quasar Occultation.txt 1 599 
+accurate Occultation.txt 1 474 
+sofia Occultation.txt 1 1419 
+valuable Occultation.txt 1 563 
+suffolk Occultation.txt 1 1189 
+sources Occultation.txt 2 559 1770 
+shape Occultation.txt 2 896 1019 
+via Occultation.txt 1 826 
+distant Occultation.txt 3 119 854 1560 
+using Occultation.txt 1 1645 
+speed Occultation.txt 1 181 
+captured Occultation.txt 1 23 
+pulaski Occultation.txt 1 1222 
+2320 Occultation.txt 1 1303 
+sunflower Occultation.txt 1 1753 
+satellites Occultation.txt 1 1536 
+sky Occultation.txt 1 1321 
+outlines Occultation.txt 1 1241 
+source Occultation.txt 1 593 
+has Occultation.txt 2 30 194 
+photographed Occultation.txt 1 742 
+march Occultation.txt 3 1043 1122 1144 
+around Occultation.txt 3 172 975 1559 
+easily Occultation.txt 1 261 
+kuiper Occultation.txt 2 1338 1369 
+combination Occultation.txt 1 1643 
+possible Occultation.txt 4 331 352 363 1674 
+dark Occultation.txt 2 35 243 
+background Occultation.txt 1 97 
+world Occultation.txt 2 954 1511 
+shadow Occultation.txt 4 877 899 1184 1206 
+0.55 Occultation.txt 1 188 
+projects Occultation.txt 1 1797 
+1988 Occultation.txt 1 815 
+sizes Occultation.txt 1 641 
+identifying Occultation.txt 1 1356 
+intermittently Occultation.txt 1 432 
+night Occultation.txt 2 964 1320 
+67-mile-wide Occultation.txt 1 1181 
+stationary Occultation.txt 1 1730 
+because Occultation.txt 4 251 335 569 1457 
+glare Occultation.txt 1 255 
+often Occultation.txt 1 71 
+55636 Occultation.txt 1 1263 
+980 Occultation.txt 1 1062 
+some Occultation.txt 4 371 519 529 1245 
+jupiter Occultation.txt 2 385 1529 
+sight Occultation.txt 1 1590 
+observatories Occultation.txt 1 1116 
+maneuvering Occultation.txt 1 1575 
+mu69 Occultation.txt 1 1373 
+pleiades Occultation.txt 1 377 
+0.28 Occultation.txt 1 211 
+for Occultation.txt 13 2 10 545 564 586 607 987 995 1039 1097 1396 1530 1763 
+moon Occultation.txt 22 41 132 142 158 177 220 278 317 334 384 401 442 562 630 681 714 734 739 1443 1465 1481 1525 
+magnitude Occultation.txt 4 301 807 1091 1287 
+connecting Occultation.txt 1 1212 
+lunar Occultation.txt 9 346 454 471 477 486 509 514 540 642 
+refer Occultation.txt 1 78 
+measuring Occultation.txt 1 996 
+be Occultation.txt 16 262 293 313 362 380 522 686 751 779 824 904 1008 1025 1076 1502 1613 
+scientific Occultation.txt 2 460 501 
+seconds Occultation.txt 1 227 
+notable Occultation.txt 1 1246 
+stellar Occultation.txt 3 1335 1350 1426 
+although Occultation.txt 1 965 
+standpoint Occultation.txt 1 461 
+obscured Occultation.txt 1 1235 
+occultations Occultation.txt 23 129 258 325 347 358 415 472 478 487 515 541 556 643 727 755 832 864 992 1238 1249 1322 1336 1440 
+by Occultation.txt 29 58 130 140 218 295 315 319 332 382 399 482 537 560 677 719 737 753 776 865 1010 1113 1134 1150 1280 1323 1330 1337 1367 1635 
+counties Occultation.txt 1 1190 
+on Occultation.txt 17 33 230 240 402 624 651 693 796 900 1041 1085 1120 1299 1352 1359 1519 1532 
+about Occultation.txt 4 289 1630 1708 1792 
+rare Occultation.txt 3 760 835 1499 
+reappear Occultation.txt 1 224 
+of Occultation.txt 74 37 137 162 168 187 205 246 254 276 286 326 348 359 410 413 440 470 476 492 496 508 513 532 539 549 557 573 590 612 616 644 658 731 735 756 770 804 843 875 878 886 897 932 1001 1017 1020 1030 1073 1143 1177 1192 1204 1242 1258 1274 1285 1293 1302 1431 1458 1474 1509 1515 1565 1574 1589 1622 1629 1637 1656 1668 1676 1722 1743 
+months Occultation.txt 1 1438 
+or Occultation.txt 12 112 191 210 223 228 234 423 526 924 1444 1489 1777 
+block Occultation.txt 2 1602 1664 
+allowing Occultation.txt 2 819 1736 
+hudson Occultation.txt 1 1198 
+xoss Occultation.txt 1 1778 
+into Occultation.txt 1 1225 
+within Occultation.txt 2 406 666 
+due Occultation.txt 1 1313 
+penelope Occultation.txt 1 1059 
+right Occultation.txt 1 392 
+references Occultation.txt 1 1782 
+primarily Occultation.txt 1 483 
+unambiguous Occultation.txt 1 588 
+diameters Occultation.txt 1 531 
+ontario Occultation.txt 1 1232 
+area Occultation.txt 1 1168 
+extremely Occultation.txt 1 1498 
+there Occultation.txt 3 297 1045 1671 
+long Occultation.txt 1 571 
+1989 Occultation.txt 1 799 
+stars Occultation.txt 13 186 200 281 302 520 533 551 637 748 758 813 1475 1561 
+occulting Occultation.txt 5 631 715 1535 1540 1774 
+starshade Occultation.txt 1 1749 
+valley Occultation.txt 1 1200 
+was Occultation.txt 10 584 1111 1132 1156 1346 1365 1394 1518 1544 1760 
+north Occultation.txt 2 342 1230 
+but Occultation.txt 1 75 
+expected Occultation.txt 1 1077 
+solar Occultation.txt 2 700 705 
+nassau Occultation.txt 1 1187 
+line Occultation.txt 2 1210 1588 
+spica Occultation.txt 1 322 
+with Occultation.txt 12 178 182 282 596 688 1093 1201 1553 1644 1683 1715 1731 
+made Occultation.txt 1 1762 
+sagittarii Occultation.txt 1 810 
+planet Occultation.txt 11 633 660 790 838 848 881 928 1049 1283 1344 1495 
+placed Occultation.txt 1 1295 
+limit Occultation.txt 2 425 1298 
+1746 Occultation.txt 1 1066 
+minutes Occultation.txt 1 395 
+called Occultation.txt 3 859 1747 1771 
+x-ray Occultation.txt 2 1769 1773 
+distance Occultation.txt 1 1655 
+celestial Occultation.txt 2 1446 1451 
+600 Occultation.txt 1 1631 
+low-flying Occultation.txt 1 110 
+certain Occultation.txt 2 1090 1095 
+describe Occultation.txt 1 151 
+eris Occultation.txt 1 1284 
+general Occultation.txt 1 100 
+as Occultation.txt 16 122 364 375 420 436 451 698 712 741 907 942 1147 1169 1262 1311 1648 
+sholokhov Occultation.txt 1 1065 
+at Occultation.txt 9 206 1032 1080 1088 1453 1466 1653 1719 1794 
+planets Occultation.txt 10 320 337 635 645 673 720 754 1488 1558 1611 
+wavelength Occultation.txt 1 572 
+moves Occultation.txt 1 443 
+mutual Occultation.txt 2 830 861 
+not Occultation.txt 1 903 
+when Occultation.txt 7 53 115 156 788 921 1479 1523 
+other Occultation.txt 1 1012 
+mass Occultation.txt 1 1628 
+vitagliano Occultation.txt 1 1152 
+20000 Occultation.txt 1 1270 
+permitting Occultation.txt 1 1608 
+star Occultation.txt 19 28 139 164 214 431 446 773 793 808 889 934 937 1096 1179 1289 1364 1492 1597 1607 
+computer-generated Occultation.txt 1 113 
+temperatures Occultation.txt 1 548 
+time Occultation.txt 4 127 1082 1456 1469 
+june Occultation.txt 2 404 1360 
+antares Occultation.txt 1 324 
+astronomy Occultation.txt 2 74 1432 
+exposure Occultation.txt 1 1738 
+longer Occultation.txt 1 1737 
+chords Occultation.txt 1 1128 
+proposed Occultation.txt 2 1546 1616 
+orbit Occultation.txt 4 268 275 1707 1724 
+2002 Occultation.txt 2 816 1264 
+2006 Occultation.txt 1 818 
+2004 Occultation.txt 1 1154 
+2005 Occultation.txt 1 405 
+far Occultation.txt 3 356 369 1326 
+2009 Occultation.txt 1 1044 
+resolution Occultation.txt 1 578 
+external Occultation.txt 1 1787 

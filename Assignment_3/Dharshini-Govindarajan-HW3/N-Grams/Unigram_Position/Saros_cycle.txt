@@ -1,0 +1,533 @@
+now Saros_cycle.txt 1 1514 
+partial Saros_cycle.txt 4 1081 1576 1636 1649 
+earthmoon Saros_cycle.txt 1 878 
+month Saros_cycle.txt 6 379 382 386 566 661 833 
+known Saros_cycle.txt 3 115 133 1020 
+row Saros_cycle.txt 1 1961 
+to Saros_cycle.txt 35 35 55 76 134 145 192 254 272 374 396 476 505 558 603 634 739 761 813 825 862 1117 1282 1289 1294 1356 1363 1373 1388 1428 1477 1483 1591 1608 1798 1926 
+nodes Saros_cycle.txt 3 538 588 1488 
+case Saros_cycle.txt 2 922 968 
+returning Saros_cycle.txt 1 557 
+continues Saros_cycle.txt 1 253 
+every Saros_cycle.txt 1 590 
+exact Saros_cycle.txt 1 1126 
+condition Saros_cycle.txt 1 511 
+hipparchus Saros_cycle.txt 1 135 
+chaldean Saros_cycle.txt 1 121 
+says Saros_cycle.txt 1 169 
+three-dimensional Saros_cycle.txt 1 572 
+till Saros_cycle.txt 1 1305 
+second Saros_cycle.txt 1 1766 
+19,755.96 Saros_cycle.txt 1 1017 
+odd Saros_cycle.txt 2 305 1437 
+even Saros_cycle.txt 4 835 1046 1292 1452 
+what Saros_cycle.txt 2 73 113 
+sun Saros_cycle.txt 10 40 50 408 421 597 758 928 1083 1147 1444 
+11.321 Saros_cycle.txt 1 347 
+chaldeans Saros_cycle.txt 2 179 194 
+above Saros_cycle.txt 1 992 
+new Saros_cycle.txt 5 436 465 518 579 1788 
+3d Saros_cycle.txt 1 681 
+body Saros_cycle.txt 1 484 
+full Saros_cycle.txt 4 438 463 516 581 
+27.5545 Saros_cycle.txt 1 670 
+respectively Saros_cycle.txt 1 439 
+hours Saros_cycle.txt 4 30 915 1732 1759 
+active Saros_cycle.txt 2 1501 1516 
+path Saros_cycle.txt 4 327 1067 1096 1602 
+november Saros_cycle.txt 1 1179 
+table Saros_cycle.txt 1 1552 
+39 Saros_cycle.txt 1 1387 
+shift Saros_cycle.txt 1 937 
+leaves Saros_cycle.txt 1 1148 
+extremes Saros_cycle.txt 1 1369 
+negative Saros_cycle.txt 2 1290 1311 
+draconic Saros_cycle.txt 4 381 565 696 1129 
+makes Saros_cycle.txt 1 200 
+useful Saros_cycle.txt 1 359 
+visible Saros_cycle.txt 2 959 981 
+pliny Saros_cycle.txt 1 136 
+limb Saros_cycle.txt 3 1060 1868 1897 
+total Saros_cycle.txt 8 1403 1615 1625 1659 1700 1754 1910 1915 
+from Saros_cycle.txt 15 4 157 229 262 448 729 756 960 982 1361 1371 1386 1536 1746 1795 
+takes Saros_cycle.txt 1 1343 
+contains Saros_cycle.txt 1 897 
+two Saros_cycle.txt 4 537 549 624 953 
+next Saros_cycle.txt 2 976 1252 
+predict Saros_cycle.txt 1 36 
+inex Saros_cycle.txt 1 1230 
+therefore Saros_cycle.txt 1 834 
+6 Saros_cycle.txt 2 209 593 
+type Saros_cycle.txt 1 1430 
+minor Saros_cycle.txt 1 1805 
+separated Saros_cycle.txt 1 95 
+caesarea Saros_cycle.txt 1 235 
+inclined Saros_cycle.txt 1 504 
+occurred Saros_cycle.txt 2 1729 1756 
+visibility Saros_cycle.txt 5 935 1679 1707 1777 1793 
+visual Saros_cycle.txt 1 1955 
+terminates Saros_cycle.txt 1 1146 
+particular Saros_cycle.txt 1 1242 
+eccentricity Saros_cycle.txt 1 666 
+producing Saros_cycle.txt 1 453 
+must Saros_cycle.txt 2 401 416 
+1990 Saros_cycle.txt 1 1181 
+word Saros_cycle.txt 2 259 265 
+1994 Saros_cycle.txt 1 1217 
+hour Saros_cycle.txt 1 1133 
+this Saros_cycle.txt 13 428 510 787 929 1013 1171 1339 1551 1567 1639 1790 1921 1958 
+eclipse Saros_cycle.txt 50 48 69 79 147 311 395 412 427 576 622 652 775 782 867 907 925 971 977 998 1007 1052 1082 1169 1177 1209 1228 1239 1257 1308 1432 1480 1538 1568 1577 1616 1631 1637 1650 1682 1701 1725 1755 1767 1832 1843 1875 1884 1912 1917 1952 
+can Saros_cycle.txt 4 32 429 783 1521 
+following Saros_cycle.txt 3 1301 1622 1724 
+example Saros_cycle.txt 7 1186 1255 1541 1545 1810 1859 1956 
+history Saros_cycle.txt 1 105 
+suda Saros_cycle.txt 3 159 168 221 
+links Saros_cycle.txt 1 1972 
+calculation Saros_cycle.txt 1 282 
+numbers Saros_cycle.txt 5 308 1049 1287 1291 1520 
+counting Saros_cycle.txt 1 1525 
+occur Saros_cycle.txt 10 71 370 397 486 1627 1641 1655 1845 1886 1920 
+axis Saros_cycle.txt 1 873 
+information Saros_cycle.txt 1 218 
+end Saros_cycle.txt 3 1087 1505 1800 
+5.5 Saros_cycle.txt 3 1837 1879 1906 
+american Saros_cycle.txt 1 280 
+2220 Saros_cycle.txt 2 184 1645 
+astronomers Saros_cycle.txt 1 123 
+located Saros_cycle.txt 2 403 418 
+1691 Saros_cycle.txt 1 153 
+1756 Saros_cycle.txt 1 249 
+description Saros_cycle.txt 1 293 
+earth-sun-moon Saros_cycle.txt 1 706 
+southern Saros_cycle.txt 5 318 1059 1580 1867 1896 
+orbits Saros_cycle.txt 2 452 820 
+saroi Saros_cycle.txt 1 182 
+catalog Saros_cycle.txt 1 1539 
+stars Saros_cycle.txt 2 828 864 
+saros Saros_cycle.txt 62 0 5 8 44 88 98 102 118 141 171 199 285 306 333 335 391 625 651 678 684 736 777 806 850 870 888 910 997 1015 1024 1033 1047 1074 1076 1094 1122 1157 1163 1190 1196 1205 1243 1266 1269 1285 1312 1325 1354 1415 1421 1517 1534 1549 1564 1598 1663 1677 1695 1813 1816 1823 1841 
+date Saros_cycle.txt 1 772 
+such Saros_cycle.txt 1 313 
+a Saros_cycle.txt 47 14 61 66 81 87 89 101 160 173 176 336 410 425 492 515 567 610 674 779 801 814 849 856 869 881 902 909 1022 1080 1241 1248 1310 1353 1395 1547 1575 1676 1689 1808 1827 1839 1873 1882 1909 1914 1928 1954 
+short Saros_cycle.txt 1 1134 
+1280 Saros_cycle.txt 1 1667 
+third Saros_cycle.txt 2 944 1753 
+greek Saros_cycle.txt 3 142 258 1027 
+allow Saros_cycle.txt 1 1370 
+began Saros_cycle.txt 1 1570 
+indeed Saros_cycle.txt 1 197 
+over Saros_cycle.txt 1 1531 
+years Saros_cycle.txt 20 26 185 186 207 212 343 346 352 355 741 809 886 1232 1300 1348 1624 1668 1835 1877 1904 
+freeth Saros_cycle.txt 1 274 
+course Saros_cycle.txt 1 1272 
+131 Saros_cycle.txt 3 1566 1665 1697 
+through Saros_cycle.txt 2 316 553 
+136 Saros_cycle.txt 1 1817 
+mentioned Saros_cycle.txt 1 1424 
+still Saros_cycle.txt 1 979 
+its Saros_cycle.txt 3 1592 1705 1775 
+before Saros_cycle.txt 1 1275 
+perfect Saros_cycle.txt 1 815 
+1 Saros_cycle.txt 3 1165 1192 1223 
+26 Saros_cycle.txt 1 1260 
+le Saros_cycle.txt 1 240 
+20 Saros_cycle.txt 1 1235 
+termed Saros_cycle.txt 1 563 
+29 Saros_cycle.txt 1 1231 
+exhibits Saros_cycle.txt 1 880 
+categories Saros_cycle.txt 2 1974 1976 
+covered Saros_cycle.txt 1 1893 
+hidden Saros_cycle.txt 1 1975 
+might Saros_cycle.txt 1 978 
+earthsunmoon Saros_cycle.txt 1 842 
+return Saros_cycle.txt 1 54 
+edmond Saros_cycle.txt 1 150 
+1950 Saros_cycle.txt 2 1619 1703 
+half Saros_cycle.txt 2 85 1840 
+not Saros_cycle.txt 4 811 890 957 1124 
+rotation Saros_cycle.txt 1 875 
+reckoning Saros_cycle.txt 1 195 
+day Saros_cycle.txt 6 569 903 919 1004 1736 1763 
+viewers Saros_cycle.txt 2 1709 1779 
+articles Saros_cycle.txt 1 1340 
+february Saros_cycle.txt 1 1215 
+name Saros_cycle.txt 2 140 252 
+edit Saros_cycle.txt 8 106 294 1035 1542 1825 1968 1970 1973 
+each Saros_cycle.txt 14 331 390 647 866 905 1054 1072 1075 1092 1377 1472 1596 1681 1960 
+accounts Saros_cycle.txt 1 1944 
+went Saros_cycle.txt 1 1273 
+berossus Saros_cycle.txt 1 238 
+referred Saros_cycle.txt 2 75 1925 
+tilted Saros_cycle.txt 1 760 
+series Saros_cycle.txt 44 90 103 307 314 871 911 1034 1048 1055 1077 1145 1158 1164 1172 1191 1197 1206 1244 1253 1267 1270 1286 1326 1355 1378 1380 1397 1416 1422 1439 1454 1466 1473 1494 1502 1518 1550 1565 1569 1653 1664 1696 1728 1803 
+globe Saros_cycle.txt 1 950 
+related Saros_cycle.txt 1 373 
+18.59992 Saros_cycle.txt 1 885 
+fortnight Saros_cycle.txt 2 1941 1943 
+measure Saros_cycle.txt 1 174 
+happen Saros_cycle.txt 1 430 
+event Saros_cycle.txt 1 648 
+peaks Saros_cycle.txt 1 1474 
+periodicities Saros_cycle.txt 1 372 
+antikythera Saros_cycle.txt 1 291 
+occurs Saros_cycle.txt 4 512 589 912 1913 
+common Saros_cycle.txt 2 342 351 
+after Saros_cycle.txt 8 46 682 848 1237 1638 1826 1833 1908 
+earths Saros_cycle.txt 5 322 1359 1584 1610 1900 
+derived Saros_cycle.txt 2 225 1523 
+differ Saros_cycle.txt 1 1684 
+ascending Saros_cycle.txt 4 301 540 1114 1448 
+ecliptic Saros_cycle.txt 2 525 555 
+members Saros_cycle.txt 1 1351 
+242 Saros_cycle.txt 1 701 
+earliest Saros_cycle.txt 1 108 
+beginning Saros_cycle.txt 1 1150 
+backwards Saros_cycle.txt 1 1288 
+geometry Saros_cycle.txt 5 60 573 707 804 839 
+starts Saros_cycle.txt 2 1056 1078 
+days Saros_cycle.txt 16 23 28 340 348 357 460 671 746 831 895 1018 1236 1674 1838 1880 1907 
+times Saros_cycle.txt 1 363 
+turn Saros_cycle.txt 2 223 1028 
+length Saros_cycle.txt 1 743 
+plane Saros_cycle.txt 3 498 526 556 
+place Saros_cycle.txt 2 798 963 
+repeats Saros_cycle.txt 1 1794 
+south Saros_cycle.txt 3 480 1364 1750 
+first Saros_cycle.txt 6 310 1051 1084 1614 1635 1699 
+1226 Saros_cycle.txt 1 1345 
+number Saros_cycle.txt 8 177 269 693 817 893 1222 1313 1527 
+one Saros_cycle.txt 15 43 84 97 534 585 677 683 776 805 943 1132 1229 1484 1940 1963 
+occurrences Saros_cycle.txt 1 442 
+directly Saros_cycle.txt 1 226 
+between Saros_cycle.txt 8 404 419 637 1330 1344 1496 1819 1948 
+passes Saros_cycle.txt 2 315 552 
+given Saros_cycle.txt 9 304 770 995 1045 1337 1396 1410 1690 1828 
+2054 Saros_cycle.txt 1 1507 
+ordering Saros_cycle.txt 1 1463 
+system Saros_cycle.txt 2 843 879 
+approximately Saros_cycle.txt 4 17 21 56 1412 
+annular-total Saros_cycle.txt 1 1407 
+58.5 Saros_cycle.txt 1 1211 
+2 Saros_cycle.txt 1 1268 
+listed Saros_cycle.txt 1 1530 
+perfectly Saros_cycle.txt 1 389 
+final Saros_cycle.txt 1 1648 
+listen Saros_cycle.txt 1 12 
+shifted Saros_cycle.txt 4 329 1069 1101 1604 
+1367 Saros_cycle.txt 1 1315 
+way Saros_cycle.txt 1 947 
+mostly Saros_cycle.txt 1 1390 
+that Saros_cycle.txt 10 31 93 243 506 527 617 931 1120 1401 1846 
+season Saros_cycle.txt 1 769 
+completed Saros_cycle.txt 1 689 
+took Saros_cycle.txt 1 155 
+western Saros_cycle.txt 1 1782 
+somewhat Saros_cycle.txt 1 802 
+than Saros_cycle.txt 1 1764 
+11 Saros_cycle.txt 2 27 745 
+distance Saros_cycle.txt 3 636 728 755 
+13 Saros_cycle.txt 1 350 
+12 Saros_cycle.txt 2 188 214 
+determines Saros_cycle.txt 1 1467 
+14 Saros_cycle.txt 1 341 
+16 Saros_cycle.txt 1 1180 
+18 Saros_cycle.txt 3 25 206 740 
+seen Saros_cycle.txt 1 1745 
+halleys Saros_cycle.txt 1 244 
+r Saros_cycle.txt 1 10 
+20:44 Saros_cycle.txt 1 1721 
+historical Saros_cycle.txt 1 110 
+10.321 Saros_cycle.txt 1 356 
+gives Saros_cycle.txt 1 1553 
+minus Saros_cycle.txt 1 1233 
+result Saros_cycle.txt 1 447 
+and Saros_cycle.txt 43 41 52 65 137 175 208 324 383 407 422 440 450 464 606 631 640 697 702 704 719 725 759 794 951 1064 1091 1143 1200 1278 1333 1346 1498 1646 1713 1742 1749 1773 1787 1821 1836 1878 1905 1950 
+18.03 Saros_cycle.txt 1 808 
+plus Saros_cycle.txt 1 1939 
+julian Saros_cycle.txt 1 1183 
+westward Saros_cycle.txt 1 938 
+have Saros_cycle.txt 4 627 688 715 1381 
+sar Saros_cycle.txt 4 82 1824 1929 1964 
+apparently Saros_cycle.txt 1 260 
+calendar Saros_cycle.txt 1 1184 
+contents Saros_cycle.txt 1 104 
+complete Saros_cycle.txt 1 1324 
+built Saros_cycle.txt 1 288 
+1961 Saros_cycle.txt 1 1261 
+mechanism Saros_cycle.txt 1 292 
+also Saros_cycle.txt 4 608 655 1919 1967 
+take Saros_cycle.txt 1 797 
+which Saros_cycle.txt 6 204 236 365 1471 1475 1888 
+equaling Saros_cycle.txt 1 807 
+coincide Saros_cycle.txt 1 387 
+exeligmos Saros_cycle.txt 1 1026 
+111.5 Saros_cycle.txt 1 1932 
+though Saros_cycle.txt 1 836 
+who Saros_cycle.txt 1 154 
+chart Saros_cycle.txt 1 1959 
+falls Saros_cycle.txt 1 475 
+most Saros_cycle.txt 2 462 1379 
+72 Saros_cycle.txt 2 1384 1560 
+71 Saros_cycle.txt 1 1382 
+successive Saros_cycle.txt 6 332 550 906 1073 1093 1597 
+phase Saros_cycle.txt 1 718 
+america Saros_cycle.txt 2 1748 1751 
+zealand Saros_cycle.txt 1 1789 
+chronicle Saros_cycle.txt 1 231 
+later Saros_cycle.txt 6 132 778 916 1733 1760 1881 
+mechanical Saros_cycle.txt 1 281 
+redirected Saros_cycle.txt 1 3 
+then Saros_cycle.txt 1 1245 
+fact Saros_cycle.txt 1 1119 
+lexicon Saros_cycle.txt 1 162 
+southward Saros_cycle.txt 1 1110 
+discovered Saros_cycle.txt 1 109 
+9-year Saros_cycle.txt 1 1922 
+asia Saros_cycle.txt 1 1785 
+earth Saros_cycle.txt 12 51 406 415 472 509 639 731 749 821 965 1063 1871 
+just Saros_cycle.txt 1 1293 
+223 Saros_cycle.txt 2 18 700 
+only Saros_cycle.txt 2 431 513 
+8 Saros_cycle.txt 4 29 914 1731 1758 
+local Saros_cycle.txt 1 1001 
+alternation Saros_cycle.txt 1 1947 
+penumbra Saros_cycle.txt 2 1863 1901 
+anomalistic Saros_cycle.txt 3 385 660 698 
+means Saros_cycle.txt 1 930 
+2707 Saros_cycle.txt 1 1657 
+27.32166 Saros_cycle.txt 1 830 
+designated Saros_cycle.txt 1 1160 
+kind Saros_cycle.txt 1 1442 
+120 Saros_cycle.txt 2 181 940 
+nearly Saros_cycle.txt 10 67 366 493 643 710 752 764 780 846 1010 
+during Saros_cycle.txt 3 461 786 1872 
+conjunction Saros_cycle.txt 1 600 
+29.53059 Saros_cycle.txt 1 459 
+precession Saros_cycle.txt 1 882 
+generally Saros_cycle.txt 1 1461 
+twice Saros_cycle.txt 1 620 
+predicted Saros_cycle.txt 1 785 
+fixed Saros_cycle.txt 1 827 
+traverse Saros_cycle.txt 1 1357 
+observer Saros_cycle.txt 1 1687 
+locale Saros_cycle.txt 1 1691 
+59 Saros_cycle.txt 1 1389 
+relative Saros_cycle.txt 2 59 838 
+see Saros_cycle.txt 3 1814 1957 1966 
+are Saros_cycle.txt 10 94 205 303 1044 1139 1194 1336 1425 1500 1513 
+close Saros_cycle.txt 2 738 1590 
+11th Saros_cycle.txt 1 165 
+best Saros_cycle.txt 3 1706 1744 1776 
+phases Saros_cycle.txt 1 446 
+wikipedia Saros_cycle.txt 1 2 
+sites Saros_cycle.txt 1 1540 
+moons Saros_cycle.txt 8 300 326 455 466 614 1041 1600 1862 
+progress Saros_cycle.txt 1 1420 
+europe Saros_cycle.txt 1 1712 
+extend Saros_cycle.txt 1 1283 
+era Saros_cycle.txt 1 1329 
+however Saros_cycle.txt 1 467 
+opposition Saros_cycle.txt 1 602 
+article Saros_cycle.txt 1 277 
+dates Saros_cycle.txt 2 1277 1555 
+last Saros_cycle.txt 2 126 1307 
+region Saros_cycle.txt 1 933 
+23 Saros_cycle.txt 1 1216 
+according Saros_cycle.txt 3 191 271 1427 
+s Saros_cycle.txt 2 9 11 
+comes Saros_cycle.txt 1 261 
+otherwise Saros_cycle.txt 1 228 
+among Saros_cycle.txt 1 178 
+point Saros_cycle.txt 1 1137 
+period Saros_cycle.txt 12 15 45 337 457 545 570 663 675 789 883 1535 1923 
+ce Saros_cycle.txt 1 1335 
+3000 Saros_cycle.txt 1 1334 
+i.e Saros_cycle.txt 1 211 
+tony Saros_cycle.txt 1 273 
+respect Saros_cycle.txt 3 824 861 1607 
+1427 Saros_cycle.txt 1 1573 
+addition Saros_cycle.txt 1 733 
+due Saros_cycle.txt 2 633 1116 
+4 Saros_cycle.txt 1 344 
+gentil Saros_cycle.txt 1 241 
+eastern Saros_cycle.txt 1 1711 
+finished Saros_cycle.txt 1 1174 
+external Saros_cycle.txt 1 1971 
+applied Saros_cycle.txt 1 144 
+has Saros_cycle.txt 1 1173 
+these Saros_cycle.txt 5 444 1276 1368 1465 1519 
+straight Saros_cycle.txt 2 63 494 
+appearance Saros_cycle.txt 1 630 
+compilers Saros_cycle.txt 1 1167 
+will Saros_cycle.txt 20 70 369 687 708 714 750 844 853 936 955 1008 1398 1417 1504 1640 1654 1683 1844 1885 1918 
+near Saros_cycle.txt 10 62 298 521 584 609 1039 1105 1112 1446 1457 
+halley Saros_cycle.txt 1 151 
+eclipses Saros_cycle.txt 22 37 92 296 368 485 626 796 954 1037 1066 1138 1202 1296 1319 1375 1385 1393 1491 1511 1529 1562 1626 
+at Saros_cycle.txt 13 364 533 616 721 1057 1135 1408 1470 1578 1688 1720 1739 1770 
+orientation Saros_cycle.txt 1 767 
+century Saros_cycle.txt 1 166 
+almost Saros_cycle.txt 1 388 
+is Saros_cycle.txt 42 13 74 83 99 114 119 172 287 328 358 435 503 520 528 532 562 583 598 654 737 810 889 991 1019 1068 1100 1123 1187 1226 1247 1263 1280 1402 1445 1456 1481 1603 1666 1847 1891 1924 1962 
+thus Saros_cycle.txt 2 904 956 
+it Saros_cycle.txt 8 130 156 762 1246 1279 1342 1455 1930 
+surface Saros_cycle.txt 1 1360 
+equal Saros_cycle.txt 1 812 
+middle Saros_cycle.txt 1 1715 
+properties Saros_cycle.txt 1 1857 
+triple Saros_cycle.txt 1 1023 
+in Saros_cycle.txt 44 72 124 152 219 222 248 275 312 523 599 680 732 742 763 855 868 908 917 920 966 1188 1264 1298 1314 1338 1376 1394 1419 1436 1451 1506 1571 1595 1618 1632 1642 1656 1675 1710 1726 1734 1761 1780 1887 
+claimed Saros_cycle.txt 1 242 
+synodic Saros_cycle.txt 7 19 378 456 695 1212 1933 1937 
+if Saros_cycle.txt 3 196 1224 1860 
+orbital Saros_cycle.txt 1 1601 
+different Saros_cycle.txt 4 803 858 1195 1414 
+revolutions Saros_cycle.txt 1 822 
+make Saros_cycle.txt 1 183 
+same Saros_cycle.txt 13 58 560 629 645 717 723 727 754 766 768 962 984 1012 
+any Saros_cycle.txt 1 1409 
+member Saros_cycle.txt 1 1249 
+9 Saros_cycle.txt 3 1834 1876 1903 
+several Saros_cycle.txt 1 127 
+wheel Saros_cycle.txt 1 1031 
+used Saros_cycle.txt 2 34 256 
+centuries Saros_cycle.txt 1 128 
+closest Saros_cycle.txt 1 1482 
+single Saros_cycle.txt 1 1548 
+cycle Saros_cycle.txt 9 6 80 148 286 392 653 679 1032 1791 
+numbered Saros_cycle.txt 4 1426 1438 1453 1495 
+sidereal Saros_cycle.txt 1 832 
+roughly Saros_cycle.txt 1 690 
+edge Saros_cycle.txt 2 319 1581 
+position Saros_cycle.txt 1 859 
+the Saros_cycle.txt 186 7 39 49 57 107 117 125 139 146 158 164 167 170 193 198 217 220 230 251 257 263 268 284 290 299 309 317 321 325 334 362 377 380 384 399 405 414 420 433 454 468 471 477 482 488 497 500 508 524 530 536 539 544 554 559 564 571 578 587 596 604 613 628 635 638 644 650 659 662 665 685 705 712 716 722 726 730 735 748 753 757 765 771 826 837 841 851 863 872 877 887 898 918 921 927 932 946 949 952 961 967 973 975 983 989 993 1000 1011 1030 1040 1050 1058 1062 1065 1086 1089 1095 1098 1106 1113 1118 1121 1144 1149 1152 1176 1207 1221 1251 1256 1284 1299 1306 1320 1323 1328 1350 1358 1429 1443 1447 1458 1462 1468 1486 1492 1526 1537 1554 1559 1579 1583 1587 1599 1609 1613 1621 1629 1634 1643 1647 1652 1658 1671 1678 1693 1698 1714 1723 1727 1735 1752 1762 1765 1781 1796 1799 1802 1861 1866 1870 1889 1895 1899 1942 1946 
+bodies Saros_cycle.txt 1 490 
+quoted Saros_cycle.txt 1 237 
+mid-eclipse Saros_cycle.txt 3 1718 1738 1769 
+being Saros_cycle.txt 1 642 
+hybrid Saros_cycle.txt 1 1406 
+12:43 Saros_cycle.txt 1 1771 
+assigned Saros_cycle.txt 1 1220 
+intervals Saros_cycle.txt 1 999 
+41 Saros_cycle.txt 1 1515 
+visualization Saros_cycle.txt 1 672 
+enters Saros_cycle.txt 1 1085 
+had Saros_cycle.txt 2 1704 1774 
+location Saros_cycle.txt 1 985 
+versa Saros_cycle.txt 2 1367 1854 
+usage Saros_cycle.txt 1 245 
+occurring Saros_cycle.txt 5 297 1038 1210 1297 1617 
+identical Saros_cycle.txt 5 68 367 711 781 847 
+australia Saros_cycle.txt 1 1786 
+around Saros_cycle.txt 1 948 
+4:47 Saros_cycle.txt 1 1740 
+possible Saros_cycle.txt 1 1142 
+corresponds Saros_cycle.txt 1 1476 
+descending Saros_cycle.txt 5 542 1042 1107 1459 1593 
+integer Saros_cycle.txt 5 657 692 816 892 1127 
+shadow Saros_cycle.txt 4 323 469 1585 1611 
+babylonian Saros_cycle.txt 1 264 
+1550 Saros_cycle.txt 1 1347 
+necessary Saros_cycle.txt 1 1281 
+northward Saros_cycle.txt 4 330 1070 1103 1605 
+either Saros_cycle.txt 3 398 1102 1441 
+arbitrary Saros_cycle.txt 1 1155 
+because Saros_cycle.txt 5 496 649 734 1669 1717 
+some Saros_cycle.txt 2 1136 1557 
+pacific Saros_cycle.txt 1 1783 
+252 Saros_cycle.txt 1 1623 
+117 Saros_cycle.txt 2 1497 1503 
+111 Saros_cycle.txt 1 1936 
+69 Saros_cycle.txt 1 1372 
+duration Saros_cycle.txt 1 632 
+6585.3211 Saros_cycle.txt 2 22 339 
+for Saros_cycle.txt 29 180 278 360 393 409 424 548 646 865 1185 1198 1203 1254 1317 1322 1349 1489 1509 1563 1620 1685 1692 1708 1778 1807 1811 1858 1945 1953 
+per Saros_cycle.txt 1 621 
+moon Saros_cycle.txt 19 42 53 400 423 434 474 519 531 582 605 641 686 713 852 974 990 1099 1588 1890 
+leap Saros_cycle.txt 2 345 354 
+2078 Saros_cycle.txt 1 1633 
+lunar Saros_cycle.txt 28 189 202 215 295 375 426 445 451 501 551 668 795 819 1201 1204 1208 1433 1487 1510 1561 1662 1694 1820 1829 1848 1883 1916 1951 
+guillaume Saros_cycle.txt 1 239 
+be Saros_cycle.txt 16 33 255 402 417 709 720 751 784 845 854 958 980 1009 1399 1418 1522 
+scientific Saros_cycle.txt 1 279 
+bc Saros_cycle.txt 5 129 1182 1218 1262 1316 
+predicting Saros_cycle.txt 1 361 
+annular Saros_cycle.txt 1 1404 
+relationship Saros_cycle.txt 1 1818 
+by Saros_cycle.txt 6 96 120 149 1166 1524 1894 
+earlier Saros_cycle.txt 1 1214 
+on Saros_cycle.txt 2 964 1274 
+about Saros_cycle.txt 10 744 790 913 939 942 1131 1234 1391 1730 1757 
+central Saros_cycle.txt 2 1400 1630 
+of Saros_cycle.txt 82 16 38 86 91 112 163 187 213 232 234 283 320 338 443 458 470 481 499 507 535 546 574 586 612 658 664 667 673 676 694 773 818 829 840 874 876 884 894 900 901 923 926 934 945 969 972 1003 1005 1029 1053 1061 1088 1097 1128 1151 1168 1178 1240 1250 1258 1271 1352 1431 1440 1464 1485 1528 1546 1556 1558 1582 1651 1661 1670 1673 1680 1702 1792 1801 1850 1869 1898 
+months Saros_cycle.txt 10 20 190 203 210 216 594 1130 1213 1934 1938 
+eusebius Saros_cycle.txt 1 233 
+neo-babylonian Saros_cycle.txt 1 122 
+horizon Saros_cycle.txt 1 994 
+sru Saros_cycle.txt 1 266 
+slightly Saros_cycle.txt 1 857 
+or Saros_cycle.txt 24 24 227 349 413 437 473 479 517 522 541 580 592 601 619 941 1025 1109 1365 1383 1405 1434 1830 1852 1935 
+into Saros_cycle.txt 1 289 
+within Saros_cycle.txt 1 1327 
+three Saros_cycle.txt 4 371 489 996 1014 
+accommodate Saros_cycle.txt 1 1295 
+references Saros_cycle.txt 2 1341 1969 
+east Saros_cycle.txt 2 1716 1784 
+statistics Saros_cycle.txt 2 1170 1321 
+ptolemy Saros_cycle.txt 1 138 
+there Saros_cycle.txt 3 1193 1225 1512 
+long Saros_cycle.txt 1 987 
+start Saros_cycle.txt 1 1797 
+fraction Saros_cycle.txt 2 899 1672 
+was Saros_cycle.txt 9 131 143 224 246 1159 1219 1589 1719 1743 
+3600 Saros_cycle.txt 1 270 
+north Saros_cycle.txt 3 478 1362 1747 
+byzantine Saros_cycle.txt 1 161 
+form Saros_cycle.txt 1 491 
+but Saros_cycle.txt 4 250 799 896 1175 
+solar Saros_cycle.txt 20 411 449 793 1036 1156 1162 1189 1199 1265 1318 1435 1490 1812 1815 1822 1831 1851 1874 1911 1949 
+line Saros_cycle.txt 2 64 495 
+with Saros_cycle.txt 14 800 823 860 1071 1079 1309 1574 1606 1612 1628 1737 1768 1804 1855 
+222 Saros_cycle.txt 1 201 
+partially Saros_cycle.txt 2 1864 1892 
+october Saros_cycle.txt 1 1259 
+ut Saros_cycle.txt 3 1722 1741 1772 
+variations Saros_cycle.txt 1 1806 
+up Saros_cycle.txt 1 1304 
+18-year Saros_cycle.txt 2 788 1533 
+record Saros_cycle.txt 1 111 
+similar Saros_cycle.txt 2 1809 1856 
+called Saros_cycle.txt 1 100 
+instead Saros_cycle.txt 1 1849 
+ad Saros_cycle.txt 1 1572 
+156 Saros_cycle.txt 1 1499 
+likewise Saros_cycle.txt 1 1902 
+year Saros_cycle.txt 2 623 1644 
+covers Saros_cycle.txt 1 1865 
+an Saros_cycle.txt 21 47 78 276 394 575 656 691 774 891 924 970 1006 1125 1154 1227 1238 1479 1532 1544 1686 1842 
+as Saros_cycle.txt 9 77 116 986 988 1021 1161 1423 1543 1927 
+periods Saros_cycle.txt 1 699 
+lifetime Saros_cycle.txt 1 1660 
+incorrect Saros_cycle.txt 1 247 
+no Saros_cycle.txt 1 1140 
+whereas Saros_cycle.txt 2 1450 1508 
+when Saros_cycle.txt 10 432 487 514 529 577 595 1104 1111 1478 1586 
+43 Saros_cycle.txt 1 1392 
+40 Saros_cycle.txt 3 791 1413 1493 
+87 Saros_cycle.txt 1 1374 
+other Saros_cycle.txt 2 483 792 
+5 Saros_cycle.txt 2 353 591 
+node Saros_cycle.txt 13 302 543 561 611 724 1043 1090 1108 1115 1153 1449 1460 1594 
+repeat Saros_cycle.txt 1 441 
+239 Saros_cycle.txt 1 703 
+includes Saros_cycle.txt 1 1931 
+meaning Saros_cycle.txt 1 267 
+27.21222 Saros_cycle.txt 1 568 
+astronomy Saros_cycle.txt 1 1 
+longer Saros_cycle.txt 2 747 1141 
+vice Saros_cycle.txt 2 1366 1853 
+bce Saros_cycle.txt 2 1303 1332 
+interval Saros_cycle.txt 1 1016 
+orbit Saros_cycle.txt 4 376 502 615 669 
+coincidentally Saros_cycle.txt 1 607 
+2000 Saros_cycle.txt 2 1302 1331 
+apart Saros_cycle.txt 1 1965 
+time Saros_cycle.txt 5 547 618 1002 1411 1469 

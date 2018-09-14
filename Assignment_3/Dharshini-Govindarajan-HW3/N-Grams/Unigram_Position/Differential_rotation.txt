@@ -1,0 +1,395 @@
+all Differential_rotation.txt 1 831 
+caused Differential_rotation.txt 3 135 474 564 
+magnetic Differential_rotation.txt 2 359 497 
+leads Differential_rotation.txt 1 49 
+winds Differential_rotation.txt 1 184 
+disk Differential_rotation.txt 1 884 
+causes Differential_rotation.txt 1 577 
+layers Differential_rotation.txt 1 482 
+depend Differential_rotation.txt 1 290 
+calculate Differential_rotation.txt 1 206 
+zone Differential_rotation.txt 1 595 
+protostars Differential_rotation.txt 1 54 
+to Differential_rotation.txt 14 50 147 178 203 211 240 365 393 488 527 596 765 817 867 
+outwards Differential_rotation.txt 1 154 
+include Differential_rotation.txt 1 64 
+far Differential_rotation.txt 1 172 
+frequencies Differential_rotation.txt 1 263 
+modes Differential_rotation.txt 1 251 
+every Differential_rotation.txt 2 753 759 
+mixing Differential_rotation.txt 2 540 544 
+difference Differential_rotation.txt 1 635 
+categories Differential_rotation.txt 2 935 937 
+entire Differential_rotation.txt 1 820 
+magnetograms Differential_rotation.txt 1 350 
+these Differential_rotation.txt 2 405 510 
+concluded Differential_rotation.txt 1 441 
+smaller Differential_rotation.txt 1 800 
+core Differential_rotation.txt 1 153 
+oort Differential_rotation.txt 1 882 
+direct Differential_rotation.txt 1 809 
+rate Differential_rotation.txt 1 628 
+further Differential_rotation.txt 1 929 
+dynamics Differential_rotation.txt 1 784 
+even Differential_rotation.txt 1 171 
+sunspots Differential_rotation.txt 2 77 616 
+sun Differential_rotation.txt 10 66 84 92 246 430 670 676 700 727 792 
+uniform Differential_rotation.txt 1 687 
+poles Differential_rotation.txt 4 99 338 665 749 
+values Differential_rotation.txt 1 109 
+movement Differential_rotation.txt 1 143 
+body Differential_rotation.txt 1 29 
+simultaneously Differential_rotation.txt 1 257 
+dwarf Differential_rotation.txt 1 387 
+galaxies Differential_rotation.txt 2 52 885 
+component Differential_rotation.txt 1 316 
+sunspot Differential_rotation.txt 1 463 
+reported Differential_rotation.txt 1 89 
+objects Differential_rotation.txt 1 43 
+sini Differential_rotation.txt 1 293 
+galileo Differential_rotation.txt 1 74 
+accretion Differential_rotation.txt 2 46 121 
+galilei Differential_rotation.txt 1 75 
+study Differential_rotation.txt 2 310 702 
+ultracool Differential_rotation.txt 1 386 
+milky Differential_rotation.txt 2 874 879 
+usually Differential_rotation.txt 1 55 
+fourier Differential_rotation.txt 1 322 
+changes Differential_rotation.txt 2 396 589 
+scales Differential_rotation.txt 2 789 823 
+explained Differential_rotation.txt 1 447 
+highly Differential_rotation.txt 1 771 
+plot Differential_rotation.txt 1 341 
+from Differential_rotation.txt 6 151 321 590 607 655 663 
+would Differential_rotation.txt 1 815 
+two Differential_rotation.txt 1 511 
+equator Differential_rotation.txt 6 103 336 631 642 657 758 
+m9 Differential_rotation.txt 1 385 
+envelope Differential_rotation.txt 2 725 807 
+emission Differential_rotation.txt 1 377 
+doppler-shifted Differential_rotation.txt 1 569 
+must Differential_rotation.txt 1 836 
+rotational Differential_rotation.txt 3 95 313 648 
+this Differential_rotation.txt 8 33 48 155 272 318 443 583 819 
+equation Differential_rotation.txt 1 329 
+obvious Differential_rotation.txt 1 222 
+can Differential_rotation.txt 4 264 412 620 856 
+v Differential_rotation.txt 3 292 317 333 
+links Differential_rotation.txt 1 933 
+involve Differential_rotation.txt 1 837 
+indicates Differential_rotation.txt 1 34 
+interpreted Differential_rotation.txt 1 911 
+axis Differential_rotation.txt 1 307 
+rather Differential_rotation.txt 1 892 
+six Differential_rotation.txt 1 796 
+range Differential_rotation.txt 1 821 
+astronomers Differential_rotation.txt 1 390 
+very Differential_rotation.txt 1 248 
+varies Differential_rotation.txt 1 273 
+adjacent Differential_rotation.txt 1 193 
+if Differential_rotation.txt 1 213 
+helioseismological Differential_rotation.txt 1 232 
+profile Differential_rotation.txt 1 918 
+may Differential_rotation.txt 1 362 
+0.71 Differential_rotation.txt 1 604 
+waves Differential_rotation.txt 2 404 411 
+such Differential_rotation.txt 2 44 457 
+revealed Differential_rotation.txt 1 705 
+constants Differential_rotation.txt 1 883 
+a Differential_rotation.txt 13 11 142 158 420 424 484 490 585 808 899 905 913 920 
+spectra Differential_rotation.txt 1 560 
+lines Differential_rotation.txt 2 285 566 
+over Differential_rotation.txt 1 423 
+move Differential_rotation.txt 1 14 
+solid-body Differential_rotation.txt 1 598 
+years Differential_rotation.txt 2 380 427 
+through Differential_rotation.txt 2 499 561 
+motions Differential_rotation.txt 1 847 
+its Differential_rotation.txt 1 736 
+galaxy Differential_rotation.txt 1 921 
+regions Differential_rotation.txt 4 194 432 450 512 
+complicate Differential_rotation.txt 1 782 
+outer Differential_rotation.txt 2 505 682 
+decreases Differential_rotation.txt 1 744 
+differently Differential_rotation.txt 1 568 
+convective Differential_rotation.txt 4 481 683 724 806 
+latitude Differential_rotation.txt 4 279 653 721 747 
+hidden Differential_rotation.txt 1 936 
+main Differential_rotation.txt 1 491 
+shear Differential_rotation.txt 2 578 649 
+good Differential_rotation.txt 1 105 
+regarding Differential_rotation.txt 1 840 
+sooner Differential_rotation.txt 1 416 
+effects Differential_rotation.txt 1 465 
+not Differential_rotation.txt 2 39 850 
+rotation Differential_rotation.txt 41 1 4 21 58 81 115 129 133 186 197 208 244 267 306 345 468 473 516 534 554 576 588 599 612 619 627 667 673 679 688 697 707 731 738 752 769 781 834 871 896 906 
+inversion Differential_rotation.txt 1 260 
+edit Differential_rotation.txt 10 116 198 469 613 671 876 926 928 931 934 
+velocitys Differential_rotation.txt 1 314 
+classified Differential_rotation.txt 1 858 
+magnitude Differential_rotation.txt 1 799 
+each Differential_rotation.txt 1 825 
+acoustic Differential_rotation.txt 1 250 
+doing Differential_rotation.txt 1 231 
+measure Differential_rotation.txt 3 204 366 394 
+shearing Differential_rotation.txt 1 51 
+out Differential_rotation.txt 1 174 
+7 Differential_rotation.txt 1 379 
+induced Differential_rotation.txt 2 131 779 
+cause Differential_rotation.txt 1 112 
+occurs Differential_rotation.txt 1 459 
+numerical Differential_rotation.txt 1 810 
+large-eddy Differential_rotation.txt 1 864 
+mechanisms Differential_rotation.txt 1 502 
+approaches Differential_rotation.txt 1 855 
+latitudes Differential_rotation.txt 3 24 215 456 
+days Differential_rotation.txt 2 755 761 
+times Differential_rotation.txt 1 400 
+dont Differential_rotation.txt 1 886 
+christoph Differential_rotation.txt 1 87 
+number Differential_rotation.txt 1 425 
+one Differential_rotation.txt 2 536 751 
+disappearing Differential_rotation.txt 1 453 
+angular Differential_rotation.txt 11 17 127 163 168 180 218 472 476 515 637 742 
+temperature Differential_rotation.txt 2 149 190 
+redistributing Differential_rotation.txt 1 166 
+system Differential_rotation.txt 1 63 
+least Differential_rotation.txt 1 795 
+their Differential_rotation.txt 1 262 
+2 Differential_rotation.txt 3 330 342 734 
+rates Differential_rotation.txt 1 19 
+observations Differential_rotation.txt 1 382 
+molecular Differential_rotation.txt 1 787 
+way Differential_rotation.txt 2 875 880 
+that Differential_rotation.txt 9 35 90 252 371 408 442 706 740 848 
+turbulent Differential_rotation.txt 2 772 846 
+optical Differential_rotation.txt 2 288 557 
+than Differential_rotation.txt 1 801 
+sidereal Differential_rotation.txt 1 768 
+relative Differential_rotation.txt 1 764 
+12 Differential_rotation.txt 1 414 
+approximations Differential_rotation.txt 2 839 869 
+see Differential_rotation.txt 5 212 339 694 877 924 
+were Differential_rotation.txt 1 391 
+dynamo Differential_rotation.txt 2 501 523 
+steep Differential_rotation.txt 1 148 
+and Differential_rotation.txt 24 53 68 78 100 123 205 258 277 304 337 355 452 520 547 632 641 685 716 720 756 777 842 881 908 
+fashion Differential_rotation.txt 1 422 
+modern Differential_rotation.txt 1 108 
+spectrum Differential_rotation.txt 1 289 
+have Differential_rotation.txt 2 216 816 
+seen Differential_rotation.txt 2 6 348 
+orders Differential_rotation.txt 1 797 
+contents Differential_rotation.txt 1 110 
+strength Differential_rotation.txt 2 354 645 
+angle Differential_rotation.txt 1 298 
+efficient Differential_rotation.txt 1 530 
+able Differential_rotation.txt 1 392 
+1610 Differential_rotation.txt 1 73 
+also Differential_rotation.txt 5 340 347 695 878 925 
+internal Differential_rotation.txt 1 672 
+which Differential_rotation.txt 1 140 
+interior Differential_rotation.txt 4 256 271 602 715 
+object Differential_rotation.txt 2 13 37 
+depths Differential_rotation.txt 1 26 
+most Differential_rotation.txt 2 221 529 
+phase Differential_rotation.txt 1 122 
+measured Differential_rotation.txt 3 654 662 763 
+equatorial Differential_rotation.txt 1 730 
+especially Differential_rotation.txt 1 278 
+calculated Differential_rotation.txt 3 79 320 622 
+later Differential_rotation.txt 1 418 
+part Differential_rotation.txt 1 537 
+bodies Differential_rotation.txt 1 890 
+velocity Differential_rotation.txt 4 169 181 638 743 
+emerging Differential_rotation.txt 1 451 
+show Differential_rotation.txt 1 56 
+rotating Differential_rotation.txt 1 12 
+radii Differential_rotation.txt 1 606 
+radio Differential_rotation.txt 4 376 403 410 437 
+subtle Differential_rotation.txt 1 395 
+explicitly Differential_rotation.txt 1 851 
+oscillate Differential_rotation.txt 1 253 
+regularly Differential_rotation.txt 1 372 
+mean-field Differential_rotation.txt 1 861 
+heat/energy Differential_rotation.txt 1 549 
+fluid Differential_rotation.txt 1 42 
+line-of-sight Differential_rotation.txt 1 315 
+co-latitude Differential_rotation.txt 1 661 
+nearly Differential_rotation.txt 1 597 
+during Differential_rotation.txt 1 460 
+saturn Differential_rotation.txt 1 69 
+tvlm Differential_rotation.txt 1 388 
+processes Differential_rotation.txt 2 524 541 
+resolve Differential_rotation.txt 1 818 
+fields Differential_rotation.txt 1 360 
+differential Differential_rotation.txt 23 0 3 57 114 132 185 196 207 243 344 368 467 533 553 575 591 611 618 666 678 737 833 870 
+yield Differential_rotation.txt 1 265 
+common Differential_rotation.txt 1 434 
+where Differential_rotation.txt 7 294 514 522 587 624 658 923 
+computed Differential_rotation.txt 1 852 
+34.3 Differential_rotation.txt 1 754 
+observed Differential_rotation.txt 2 76 615 
+depends Differential_rotation.txt 1 188 
+radius Differential_rotation.txt 2 719 902 
+are Differential_rotation.txt 7 200 433 486 518 525 793 849 
+best Differential_rotation.txt 1 446 
+ways Differential_rotation.txt 1 202 
+wikipedia Differential_rotation.txt 1 2 
+enough Differential_rotation.txt 1 173 
+envelopes Differential_rotation.txt 1 506 
+between Differential_rotation.txt 3 299 509 639 
+reading Differential_rotation.txt 1 930 
+across Differential_rotation.txt 1 570 
+arrival Differential_rotation.txt 1 399 
+nature Differential_rotation.txt 1 773 
+interface Differential_rotation.txt 1 508 
+modeling Differential_rotation.txt 2 786 854 
+both Differential_rotation.txt 1 275 
+magneto-hydrodynamical Differential_rotation.txt 1 500 
+many Differential_rotation.txt 2 201 249 
+region Differential_rotation.txt 3 586 684 693 
+according Differential_rotation.txt 1 866 
+emit Differential_rotation.txt 1 373 
+whole Differential_rotation.txt 1 713 
+large-scale Differential_rotation.txt 1 496 
+active Differential_rotation.txt 2 431 449 
+pole Differential_rotation.txt 1 640 
+broadening Differential_rotation.txt 1 563 
+513-46546 Differential_rotation.txt 1 389 
+radiative Differential_rotation.txt 2 692 714 
+due Differential_rotation.txt 1 146 
+expected Differential_rotation.txt 2 487 526 
+generating Differential_rotation.txt 1 494 
+external Differential_rotation.txt 1 932 
+systematic Differential_rotation.txt 1 421 
+pre-stellar Differential_rotation.txt 1 120 
+solid Differential_rotation.txt 2 40 889 
+at Differential_rotation.txt 9 22 97 101 334 454 579 603 629 794 
+almost Differential_rotation.txt 1 686 
+is Differential_rotation.txt 19 5 38 130 134 141 238 296 319 346 513 535 584 625 633 650 659 708 903 909 
+thus Differential_rotation.txt 4 165 187 521 853 
+it Differential_rotation.txt 2 237 361 
+surface Differential_rotation.txt 2 229 573 
+in Differential_rotation.txt 24 31 41 60 85 104 138 182 192 209 254 286 349 397 419 471 503 542 592 600 636 674 680 689 824 
+convection Differential_rotation.txt 4 137 594 776 814 
+increased Differential_rotation.txt 1 746 
+different Differential_rotation.txt 7 8 16 23 94 214 217 455 
+make Differential_rotation.txt 1 750 
+parts Differential_rotation.txt 1 9 
+arrives Differential_rotation.txt 1 413 
+scheiner Differential_rotation.txt 1 88 
+driver Differential_rotation.txt 1 492 
+effect Differential_rotation.txt 1 444 
+cycle Differential_rotation.txt 1 464 
+tracking Differential_rotation.txt 1 224 
+center Differential_rotation.txt 1 609 
+i Differential_rotation.txt 1 295 
+roughly Differential_rotation.txt 1 709 
+materials Differential_rotation.txt 1 546 
+km/s Differential_rotation.txt 1 735 
+the Differential_rotation.txt 89 28 36 61 65 71 80 83 91 98 102 111 119 124 152 161 167 176 220 227 242 245 255 259 266 269 280 287 297 300 305 309 312 325 335 353 367 384 398 402 409 429 439 461 480 495 504 507 531 539 545 548 551 571 580 593 601 608 617 626 630 634 644 647 651 656 660 664 669 675 681 690 699 701 712 723 726 741 748 757 770 783 791 802 805 827 868 873 895 916 
+redistribution Differential_rotation.txt 1 478 
+researchers Differential_rotation.txt 1 440 
+being Differential_rotation.txt 2 223 567 
+sources Differential_rotation.txt 1 435 
+distant Differential_rotation.txt 1 766 
+transforms Differential_rotation.txt 1 323 
+speed Differential_rotation.txt 2 732 897 
+flares Differential_rotation.txt 2 374 438 
+absorption Differential_rotation.txt 2 284 558 
+had Differential_rotation.txt 1 93 
+location Differential_rotation.txt 1 356 
+has Differential_rotation.txt 2 247 728 
+momentum Differential_rotation.txt 4 128 164 477 841 
+around Differential_rotation.txt 1 70 
+showing Differential_rotation.txt 2 352 677 
+measurement Differential_rotation.txt 1 914 
+possible Differential_rotation.txt 2 239 364 
+possibly Differential_rotation.txt 1 170 
+using Differential_rotation.txt 2 328 378 
+rotate Differential_rotation.txt 2 887 893 
+p-modes Differential_rotation.txt 1 236 
+like Differential_rotation.txt 1 888 
+velocities Differential_rotation.txt 2 18 219 
+shapes Differential_rotation.txt 2 282 327 
+either Differential_rotation.txt 1 860 
+lose Differential_rotation.txt 1 179 
+differentially Differential_rotation.txt 1 894 
+disks Differential_rotation.txt 1 47 
+heliographic Differential_rotation.txt 1 652 
+some Differential_rotation.txt 1 838 
+deduce Differential_rotation.txt 1 241 
+jupiter Differential_rotation.txt 1 67 
+examples Differential_rotation.txt 1 59 
+sight Differential_rotation.txt 1 303 
+oscillations Differential_rotation.txt 1 704 
+transport Differential_rotation.txt 1 844 
+anisotropies Differential_rotation.txt 1 778 
+and/or Differential_rotation.txt 2 25 30 
+dimensions Differential_rotation.txt 1 829 
+for Differential_rotation.txt 4 175 332 493 614 
+affects Differential_rotation.txt 1 555 
+measurements Differential_rotation.txt 2 233 406 
+measuring Differential_rotation.txt 1 195 
+be Differential_rotation.txt 5 363 489 528 621 857 
+seconds Differential_rotation.txt 1 415 
+agreement Differential_rotation.txt 1 106 
+stellar Differential_rotation.txt 4 183 228 556 572 
+by Differential_rotation.txt 7 136 230 448 475 565 780 845 
+on Differential_rotation.txt 6 189 226 291 428 698 790 
+central Differential_rotation.txt 1 691 
+of Differential_rotation.txt 43 10 20 27 82 113 118 126 144 160 234 261 268 283 302 311 324 357 369 375 381 383 401 426 436 466 483 538 550 646 668 703 733 774 785 798 804 812 822 826 872 901 915 919 
+simulation Differential_rotation.txt 1 811 
+carries Differential_rotation.txt 1 157 
+consequently Differential_rotation.txt 1 830 
+or Differential_rotation.txt 2 417 863 
+within Differential_rotation.txt 3 479 711 722 
+three Differential_rotation.txt 1 828 
+variable Differential_rotation.txt 1 717 
+because Differential_rotation.txt 1 117 
+references Differential_rotation.txt 1 927 
+often Differential_rotation.txt 1 910 
+1630 Differential_rotation.txt 1 86 
+there Differential_rotation.txt 1 199 
+spots Differential_rotation.txt 1 225 
+conservation Differential_rotation.txt 1 125 
+inner Differential_rotation.txt 1 532 
+stars Differential_rotation.txt 7 139 162 210 370 543 552 767 
+was Differential_rotation.txt 1 445 
+function Differential_rotation.txt 1 900 
+so-called Differential_rotation.txt 1 581 
+differences Differential_rotation.txt 1 191 
+but Differential_rotation.txt 1 891 
+heat Differential_rotation.txt 1 843 
+solar Differential_rotation.txt 12 62 235 270 343 358 462 574 605 696 775 813 832 
+line Differential_rotation.txt 4 301 326 559 562 
+with Differential_rotation.txt 5 15 107 274 718 745 
+strongest Differential_rotation.txt 1 519 
+below Differential_rotation.txt 1 331 
+demonstrate Differential_rotation.txt 1 407 
+called Differential_rotation.txt 2 643 904 
+broadened Differential_rotation.txt 1 281 
+constant Differential_rotation.txt 1 710 
+year Differential_rotation.txt 1 72 
+an Differential_rotation.txt 1 729 
+images Differential_rotation.txt 1 351 
+as Differential_rotation.txt 8 45 458 623 762 859 898 912 922 
+periods Differential_rotation.txt 1 96 
+simulations Differential_rotation.txt 1 865 
+gradients Differential_rotation.txt 3 150 470 517 
+tachocline Differential_rotation.txt 1 582 
+when Differential_rotation.txt 1 7 
+portion Differential_rotation.txt 1 159 
+field Differential_rotation.txt 1 498 
+permitting Differential_rotation.txt 1 308 
+star Differential_rotation.txt 2 177 485 
+calculating Differential_rotation.txt 1 610 
+models Differential_rotation.txt 2 835 862 
+dissipation Differential_rotation.txt 1 788 
+25.05 Differential_rotation.txt 1 760 
+implies Differential_rotation.txt 1 739 
+curve Differential_rotation.txt 1 907 
+depth Differential_rotation.txt 2 276 803 
+mass Differential_rotation.txt 3 145 156 917 
+time Differential_rotation.txt 1 32 

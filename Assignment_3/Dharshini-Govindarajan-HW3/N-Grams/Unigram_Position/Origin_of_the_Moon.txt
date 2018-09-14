@@ -1,0 +1,616 @@
+synestia Origin_of_the_Moon.txt 2 1009 1027 
+abundances Origin_of_the_Moon.txt 1 688 
+concept Origin_of_the_Moon.txt 1 1240 
+consolidated Origin_of_the_Moon.txt 1 349 
+lack Origin_of_the_Moon.txt 1 557 
+results Origin_of_the_Moon.txt 1 1292 
+earthmoon Origin_of_the_Moon.txt 1 710 
+debris Origin_of_the_Moon.txt 5 30 103 887 1151 1201 
+forged Origin_of_the_Moon.txt 1 1144 
+zinc Origin_of_the_Moon.txt 1 920 
+disk Origin_of_the_Moon.txt 1 1525 
+causes Origin_of_the_Moon.txt 2 466 493 
+whose Origin_of_the_Moon.txt 1 246 
+longstanding Origin_of_the_Moon.txt 1 235 
+young Origin_of_the_Moon.txt 1 1458 
+to Origin_of_the_Moon.txt 32 18 65 110 136 140 198 233 401 425 430 448 452 472 496 535 591 600 637 651 770 789 795 859 1033 1068 1106 1189 1302 1362 1559 1567 1658 
+1980s Origin_of_the_Moon.txt 1 1262 
+ti Origin_of_the_Moon.txt 2 193 194 
+include Origin_of_the_Moon.txt 2 71 1271 
+charles Origin_of_the_Moon.txt 1 1399 
+geology Origin_of_the_Moon.txt 1 690 
+very Origin_of_the_Moon.txt 2 149 823 
+continues Origin_of_the_Moon.txt 1 67 
+trillions Origin_of_the_Moon.txt 1 514 
+closeup Origin_of_the_Moon.txt 1 1238 
+blast Origin_of_the_Moon.txt 1 1181 
+aerobraking Origin_of_the_Moon.txt 1 1325 
+encounter Origin_of_the_Moon.txt 1 1288 
+cool Origin_of_the_Moon.txt 1 1032 
+impressive Origin_of_the_Moon.txt 1 512 
+presented Origin_of_the_Moon.txt 1 1629 
+cause Origin_of_the_Moon.txt 1 1425 
+notes Origin_of_the_Moon.txt 1 1667 
+large Origin_of_the_Moon.txt 6 102 293 594 884 1210 1309 
+settle Origin_of_the_Moon.txt 1 497 
+small Origin_of_the_Moon.txt 5 543 674 824 1192 1555 
+venus Origin_of_the_Moon.txt 1 1642 
+unexpected Origin_of_the_Moon.txt 1 802 
+be Origin_of_the_Moon.txt 5 19 66 137 147 1659 
+likely Origin_of_the_Moon.txt 4 214 248 257 1172 
+video Origin_of_the_Moon.txt 1 1583 
+zircon Origin_of_the_Moon.txt 1 1650 
+crust Origin_of_the_Moon.txt 2 1449 1479 
+melt Origin_of_the_Moon.txt 1 592 
+current Origin_of_the_Moon.txt 1 433 
+liberated Origin_of_the_Moon.txt 1 577 
+volatile Origin_of_the_Moon.txt 1 723 
+shared Origin_of_the_Moon.txt 2 682 1058 
+movement Origin_of_the_Moon.txt 1 1319 
+body Origin_of_the_Moon.txt 8 24 73 95 161 245 353 368 396 
+led Origin_of_the_Moon.txt 1 1105 
+18,000 Origin_of_the_Moon.txt 1 538 
+understanding Origin_of_the_Moon.txt 1 1282 
+water Origin_of_the_Moon.txt 1 943 
+growing Origin_of_the_Moon.txt 1 974 
+possibility Origin_of_the_Moon.txt 2 1043 1633 
+represented Origin_of_the_Moon.txt 1 1436 
+along Origin_of_the_Moon.txt 1 642 
+reaccreation Origin_of_the_Moon.txt 1 580 
+appears Origin_of_the_Moon.txt 1 195 
+institute Origin_of_the_Moon.txt 1 1129 
+vaporized Origin_of_the_Moon.txt 2 522 1013 
+study Origin_of_the_Moon.txt 2 915 937 
+brutal Origin_of_the_Moon.txt 1 1147 
+later Origin_of_the_Moon.txt 1 1605 
+suggests Origin_of_the_Moon.txt 3 92 1140 1508 
+amount Origin_of_the_Moon.txt 1 332 
+resulting Origin_of_the_Moon.txt 1 423 
+published Origin_of_the_Moon.txt 3 759 827 867 
+usually Origin_of_the_Moon.txt 1 16 
+complicated Origin_of_the_Moon.txt 1 981 
+makes Origin_of_the_Moon.txt 1 1451 
+diameter Origin_of_the_Moon.txt 1 380 
+via Origin_of_the_Moon.txt 1 906 
+ratios Origin_of_the_Moon.txt 3 134 144 1354 
+storms Origin_of_the_Moon.txt 1 1217 
+explained Origin_of_the_Moon.txt 2 547 566 
+conflicts Origin_of_the_Moon.txt 1 850 
+from Origin_of_the_Moon.txt 13 82 179 253 336 631 731 775 797 806 856 949 1521 1641 
+impacts Origin_of_the_Moon.txt 2 1169 1196 
+would Origin_of_the_Moon.txt 12 171 182 249 258 439 519 532 587 667 680 1095 1316 
+distinct Origin_of_the_Moon.txt 1 155 
+weizmann Origin_of_the_Moon.txt 1 1128 
+two Origin_of_the_Moon.txt 2 872 1357 
+prospector Origin_of_the_Moon.txt 1 1501 
+scenarios Origin_of_the_Moon.txt 1 70 
+few Origin_of_the_Moon.txt 1 716 
+uraniumlead Origin_of_the_Moon.txt 1 1645 
+until Origin_of_the_Moon.txt 2 1260 1408 
+today Origin_of_the_Moon.txt 2 620 1442 
+more Origin_of_the_Moon.txt 6 697 980 1054 1084 1173 1198 
+theias Origin_of_the_Moon.txt 1 549 
+israel Origin_of_the_Moon.txt 1 1134 
+ejected Origin_of_the_Moon.txt 2 184 329 
+rehovot Origin_of_the_Moon.txt 1 1133 
+moonlets Origin_of_the_Moon.txt 1 1203 
+volatiles Origin_of_the_Moon.txt 1 559 
+it Origin_of_the_Moon.txt 10 169 328 618 1006 1100 1327 1429 1443 1537 1592 
+basically Origin_of_the_Moon.txt 1 309 
+known Origin_of_the_Moon.txt 2 278 1445 
+90 Origin_of_the_Moon.txt 1 370 
+sample Origin_of_the_Moon.txt 1 275 
+balls Origin_of_the_Moon.txt 1 1199 
+locked Origin_of_the_Moon.txt 1 650 
+f Origin_of_the_Moon.txt 1 539 
+this Origin_of_the_Moon.txt 19 50 114 341 414 494 509 703 799 1104 1246 1257 1269 1300 1343 1370 1388 1440 1453 1533 
+science Origin_of_the_Moon.txt 1 1131 
+theories Origin_of_the_Moon.txt 3 87 283 1573 
+following Origin_of_the_Moon.txt 2 489 1061 
+making Origin_of_the_Moon.txt 2 28 1099 
+indicated Origin_of_the_Moon.txt 1 941 
+stated Origin_of_the_Moon.txt 1 286 
+process Origin_of_the_Moon.txt 1 1618 
+escaped Origin_of_the_Moon.txt 1 343 
+10,000 Origin_of_the_Moon.txt 1 536 
+tidally Origin_of_the_Moon.txt 1 649 
+sense Origin_of_the_Moon.txt 1 975 
+scar Origin_of_the_Moon.txt 1 1438 
+axis Origin_of_the_Moon.txt 1 122 
+terrestrial Origin_of_the_Moon.txt 1 386 
+creates Origin_of_the_Moon.txt 1 1007 
+chemical Origin_of_the_Moon.txt 1 267 
+how Origin_of_the_Moon.txt 1 61 
+explains Origin_of_the_Moon.txt 1 705 
+may Origin_of_the_Moon.txt 2 146 1332 
+orbits Origin_of_the_Moon.txt 1 1338 
+concentrations Origin_of_the_Moon.txt 1 1493 
+oceanus Origin_of_the_Moon.txt 1 1213 
+demonstrating Origin_of_the_Moon.txt 1 995 
+such Origin_of_the_Moon.txt 4 324 436 719 732 
+a Origin_of_the_Moon.txt 45 21 29 36 45 101 152 166 174 242 325 330 351 364 367 389 459 462 467 474 593 604 715 864 883 900 907 913 936 973 1001 1008 1010 1019 1136 1146 1165 1191 1286 1308 1383 1518 1553 1596 1613 1632 
+natural Origin_of_the_Moon.txt 2 38 1324 
+collision Origin_of_the_Moon.txt 9 86 115 239 365 491 510 574 1003 1295 
+hypotheses Origin_of_the_Moon.txt 1 1242 
+greek Origin_of_the_Moon.txt 1 412 
+so Origin_of_the_Moon.txt 3 196 653 1121 
+glancing Origin_of_the_Moon.txt 1 463 
+things Origin_of_the_Moon.txt 1 1265 
+ampherer Origin_of_the_Moon.txt 1 1414 
+order Origin_of_the_Moon.txt 1 420 
+origin Origin_of_the_Moon.txt 3 0 11 928 
+help Origin_of_the_Moon.txt 1 860 
+september Origin_of_the_Moon.txt 1 970 
+developed Origin_of_the_Moon.txt 1 992 
+over Origin_of_the_Moon.txt 2 1158 1206 
+ejecta Origin_of_the_Moon.txt 1 342 
+years Origin_of_the_Moon.txt 5 305 1161 1462 1602 1663 
+paper Origin_of_the_Moon.txt 1 896 
+including Origin_of_the_Moon.txt 1 686 
+same Origin_of_the_Moon.txt 3 845 955 1115 
+austrian Origin_of_the_Moon.txt 1 1411 
+still Origin_of_the_Moon.txt 1 714 
+its Origin_of_the_Moon.txt 5 392 1059 1090 1386 1564 
+before Origin_of_the_Moon.txt 2 1046 1326 
+1 Origin_of_the_Moon.txt 2 825 1229 
+proto-earth Origin_of_the_Moon.txt 1 1488 
+rapidly Origin_of_the_Moon.txt 1 1379 
+better Origin_of_the_Moon.txt 1 277 
+primordial Origin_of_the_Moon.txt 1 1523 
+2018 Origin_of_the_Moon.txt 1 983 
+differed Origin_of_the_Moon.txt 1 251 
+covered Origin_of_the_Moon.txt 1 1110 
+2017 Origin_of_the_Moon.txt 2 1124 1643 
+main Origin_of_the_Moon.txt 2 224 503 
+might Origin_of_the_Moon.txt 1 1305 
+pixel Origin_of_the_Moon.txt 1 1367 
+2013 Origin_of_the_Moon.txt 3 935 971 1625 
+2012 Origin_of_the_Moon.txt 4 829 869 914 1587 
+eventually Origin_of_the_Moon.txt 4 33 450 889 1029 
+them Origin_of_the_Moon.txt 1 1079 
+greater Origin_of_the_Moon.txt 1 1098 
+material Origin_of_the_Moon.txt 10 186 334 443 478 495 518 582 784 1112 1483 
+asymmetrical Origin_of_the_Moon.txt 1 484 
+they Origin_of_the_Moon.txt 2 270 1162 
+half Origin_of_the_Moon.txt 1 383 
+satellites Origin_of_the_Moon.txt 5 676 1056 1072 1089 1119 
+rotation Origin_of_the_Moon.txt 1 647 
+now Origin_of_the_Moon.txt 1 1373 
+oxygen Origin_of_the_Moon.txt 4 132 142 176 1352 
+edit Origin_of_the_Moon.txt 13 223 1243 1245 1369 1503 1576 1589 1626 1644 1666 1668 1670 1673 
+university Origin_of_the_Moon.txt 1 989 
+rocks Origin_of_the_Moon.txt 3 757 772 1184 
+merge Origin_of_the_Moon.txt 1 1205 
+cratered Origin_of_the_Moon.txt 1 8 
+each Origin_of_the_Moon.txt 1 158 
+transferring Origin_of_the_Moon.txt 1 628 
+side Origin_of_the_Moon.txt 1 656 
+referred Origin_of_the_Moon.txt 1 400 
+tilted Origin_of_the_Moon.txt 1 121 
+challenged Origin_of_the_Moon.txt 1 968 
+generation Origin_of_the_Moon.txt 1 602 
+series Origin_of_the_Moon.txt 1 1166 
+energy Origin_of_the_Moon.txt 3 506 571 576 
+challenges Origin_of_the_Moon.txt 1 232 
+measurement Origin_of_the_Moon.txt 1 749 
+substantially Origin_of_the_Moon.txt 1 252 
+beyond Origin_of_the_Moon.txt 1 1022 
+tenth Origin_of_the_Moon.txt 1 390 
+event Origin_of_the_Moon.txt 1 1441 
+space Origin_of_the_Moon.txt 1 345 
+since Origin_of_the_Moon.txt 1 695 
+research Origin_of_the_Moon.txt 1 59 
+collisions Origin_of_the_Moon.txt 1 80 
+newly Origin_of_the_Moon.txt 1 608 
+millions Origin_of_the_Moon.txt 1 1159 
+issue Origin_of_the_Moon.txt 1 737 
+shows Origin_of_the_Moon.txt 1 1652 
+model Origin_of_the_Moon.txt 1 1270 
+theory Origin_of_the_Moon.txt 4 78 236 866 1138 
+risen Origin_of_the_Moon.txt 1 534 
+dirt Origin_of_the_Moon.txt 1 1186 
+million Origin_of_the_Moon.txt 1 1461 
+theia Origin_of_the_Moon.txt 6 97 163 313 403 798 813 
+isotope Origin_of_the_Moon.txt 3 191 742 1353 
+standard Origin_of_the_Moon.txt 1 89 
+difficulty Origin_of_the_Moon.txt 1 1347 
+formation Origin_of_the_Moon.txt 3 222 298 1621 
+put Origin_of_the_Moon.txt 1 441 
+likelihood Origin_of_the_Moon.txt 1 811 
+compositions Origin_of_the_Moon.txt 1 268 
+unresolved Origin_of_the_Moon.txt 1 717 
+retained Origin_of_the_Moon.txt 1 1405 
+created Origin_of_the_Moon.txt 1 1197 
+could Origin_of_the_Moon.txt 4 213 1180 1204 1328 
+cosmic Origin_of_the_Moon.txt 1 1150 
+times Origin_of_the_Moon.txt 1 875 
+motion Origin_of_the_Moon.txt 1 641 
+massive Origin_of_the_Moon.txt 1 1085 
+incorporated Origin_of_the_Moon.txt 1 672 
+signature Origin_of_the_Moon.txt 4 156 178 768 818 
+spiraled Origin_of_the_Moon.txt 2 622 1075 
+shears Origin_of_the_Moon.txt 1 481 
+number Origin_of_the_Moon.txt 1 46 
+one Origin_of_the_Moon.txt 7 229 655 997 1052 1209 1279 1627 
+spinning Origin_of_the_Moon.txt 1 1380 
+smaller Origin_of_the_Moon.txt 1 1168 
+another Origin_of_the_Moon.txt 3 378 736 1042 
+compared Origin_of_the_Moon.txt 2 1558 1566 
+ring Origin_of_the_Moon.txt 2 31 104 
+precisely Origin_of_the_Moon.txt 1 150 
+angular Origin_of_the_Moon.txt 3 428 629 1542 
+size Origin_of_the_Moon.txt 5 318 374 415 877 1274 
+earths Origin_of_the_Moon.txt 4 141 200 684 857 
+little Origin_of_the_Moon.txt 1 205 
+ancient Origin_of_the_Moon.txt 4 1218 1231 1235 1378 
+temperature Origin_of_the_Moon.txt 1 531 
+leading Origin_of_the_Moon.txt 1 599 
+system Origin_of_the_Moon.txt 9 160 302 424 711 778 1179 1520 1529 1547 
+needed Origin_of_the_Moon.txt 1 418 
+accretion Origin_of_the_Moon.txt 4 1502 1507 1524 1617 
+california Origin_of_the_Moon.txt 1 991 
+bodys Origin_of_the_Moon.txt 1 211 
+circa Origin_of_the_Moon.txt 1 1586 
+that Origin_of_the_Moon.txt 37 20 32 204 241 254 287 327 479 553 617 654 785 809 840 871 888 940 942 957 976 996 1005 1045 1057 1139 1152 1164 1249 1330 1376 1432 1446 1450 1509 1536 1595 1635 
+61016 Origin_of_the_Moon.txt 1 276 
+released Origin_of_the_Moon.txt 1 939 
+part Origin_of_the_Moon.txt 3 217 568 1614 
+muley Origin_of_the_Moon.txt 1 281 
+distance Origin_of_the_Moon.txt 1 616 
+14 Origin_of_the_Moon.txt 1 1649 
+showed Origin_of_the_Moon.txt 2 808 839 
+double Origin_of_the_Moon.txt 1 1519 
+second Origin_of_the_Moon.txt 1 1597 
+states Origin_of_the_Moon.txt 1 1248 
+determined Origin_of_the_Moon.txt 1 1163 
+iron Origin_of_the_Moon.txt 2 544 1556 
+were Origin_of_the_Moon.txt 1 1171 
+toward Origin_of_the_Moon.txt 1 662 
+1925 Origin_of_the_Moon.txt 1 1416 
+and Origin_of_the_Moon.txt 29 58 85 154 262 311 377 388 523 621 671 740 892 931 952 987 1015 1031 1037 1073 1120 1185 1263 1276 1341 1360 1404 1512 1574 1604 
+pre-existing Origin_of_the_Moon.txt 1 675 
+marscollided Origin_of_the_Moon.txt 1 879 
+categories Origin_of_the_Moon.txt 2 1674 1676 
+depleted Origin_of_the_Moon.txt 1 728 
+have Origin_of_the_Moon.txt 15 172 215 250 259 284 426 440 449 520 533 588 668 681 1096 1306 
+procellarum Origin_of_the_Moon.txt 1 1214 
+need Origin_of_the_Moon.txt 1 460 
+seem Origin_of_the_Moon.txt 1 135 
+impacted Origin_of_the_Moon.txt 2 98 1040 
+any Origin_of_the_Moon.txt 2 207 673 
+contents Origin_of_the_Moon.txt 1 221 
+relatively Origin_of_the_Moon.txt 3 542 1457 1554 
+gravity Origin_of_the_Moon.txt 1 1226 
+mechanism Origin_of_the_Moon.txt 1 1285 
+outward Origin_of_the_Moon.txt 3 623 1076 1102 
+also Origin_of_the_Moon.txt 8 116 187 565 664 1333 1345 1417 1665 
+causing Origin_of_the_Moon.txt 1 127 
+which Origin_of_the_Moon.txt 10 107 145 269 465 679 849 1017 1170 1315 1484 
+200 Origin_of_the_Moon.txt 1 1460 
+posits Origin_of_the_Moon.txt 1 870 
+altered Origin_of_the_Moon.txt 1 1297 
+normal Origin_of_the_Moon.txt 1 1055 
+took Origin_of_the_Moon.txt 1 1638 
+most Origin_of_the_Moon.txt 2 747 781 
+impacting Origin_of_the_Moon.txt 1 244 
+accreting Origin_of_the_Moon.txt 1 551 
+seasons Origin_of_the_Moon.txt 1 129 
+colliding Origin_of_the_Moon.txt 3 210 395 1077 
+measured Origin_of_the_Moon.txt 1 148 
+chondrites Origin_of_the_Moon.txt 1 951 
+isotopic Origin_of_the_Moon.txt 8 133 143 177 687 753 767 817 961 
+observation Origin_of_the_Moon.txt 1 800 
+went Origin_of_the_Moon.txt 1 786 
+sometimes Origin_of_the_Moon.txt 1 398 
+metal Origin_of_the_Moon.txt 1 1016 
+km Origin_of_the_Moon.txt 1 1365 
+researchers Origin_of_the_Moon.txt 3 805 984 1126 
+typically Origin_of_the_Moon.txt 1 1291 
+came Origin_of_the_Moon.txt 1 64 
+precise Origin_of_the_Moon.txt 1 748 
+planetary Origin_of_the_Moon.txt 2 1002 1125 
+atmosphere Origin_of_the_Moon.txt 1 1310 
+signatures Origin_of_the_Moon.txt 1 754 
+show Origin_of_the_Moon.txt 1 458 
+supported Origin_of_the_Moon.txt 1 925 
+friction Origin_of_the_Moon.txt 1 627 
+earth Origin_of_the_Moon.txt 44 27 99 106 125 180 256 261 290 307 322 337 357 376 447 488 529 555 586 652 663 678 701 741 771 821 848 891 930 959 1050 1069 1094 1122 1157 1183 1256 1290 1314 1359 1381 1511 1561 1571 1637 
+torus Origin_of_the_Moon.txt 1 1020 
+impact Origin_of_the_Moon.txt 7 227 438 735 909 1049 1063 1608 
+giant Origin_of_the_Moon.txt 3 226 908 1048 
+slow Origin_of_the_Moon.txt 1 1317 
+ratio Origin_of_the_Moon.txt 2 192 416 
+explain Origin_of_the_Moon.txt 2 1334 1540 
+less Origin_of_the_Moon.txt 1 1465 
+proportion Origin_of_the_Moon.txt 1 339 
+than Origin_of_the_Moon.txt 2 1070 1086 
+only Origin_of_the_Moon.txt 1 1630 
+geologist Origin_of_the_Moon.txt 1 1412 
+darwin Origin_of_the_Moon.txt 2 1393 1400 
+hit Origin_of_the_Moon.txt 1 321 
+between Origin_of_the_Moon.txt 1 366 
+famous Origin_of_the_Moon.txt 1 1397 
+nearly Origin_of_the_Moon.txt 1 953 
+new Origin_of_the_Moon.txt 2 865 1137 
+during Origin_of_the_Moon.txt 1 578 
+saturn Origin_of_the_Moon.txt 1 1342 
+evolution Origin_of_the_Moon.txt 1 1579 
+resolve Origin_of_the_Moon.txt 1 861 
+yield Origin_of_the_Moon.txt 1 151 
+common Origin_of_the_Moon.txt 1 1174 
+mapped Origin_of_the_Moon.txt 1 1498 
+explanations Origin_of_the_Moon.txt 1 57 
+see Origin_of_the_Moon.txt 1 1664 
+computer Origin_of_the_Moon.txt 2 456 993 
+radius Origin_of_the_Moon.txt 2 387 1565 
+are Origin_of_the_Moon.txt 4 44 271 713 979 
+close Origin_of_the_Moon.txt 2 197 1287 
+arm Origin_of_the_Moon.txt 1 476 
+closer Origin_of_the_Moon.txt 1 1067 
+oceanic Origin_of_the_Moon.txt 2 1448 1478 
+reform Origin_of_the_Moon.txt 1 1038 
+away Origin_of_the_Moon.txt 1 335 
+wikipedia Origin_of_the_Moon.txt 1 4 
+fission Origin_of_the_Moon.txt 2 74 1368 
+continually Origin_of_the_Moon.txt 1 660 
+favor Origin_of_the_Moon.txt 1 1267 
+enough Origin_of_the_Moon.txt 2 442 1182 
+moons Origin_of_the_Moon.txt 9 6 131 189 294 541 639 646 722 1273 
+probably Origin_of_the_Moon.txt 1 170 
+george Origin_of_the_Moon.txt 1 1392 
+creating Origin_of_the_Moon.txt 2 100 358 
+25 Origin_of_the_Moon.txt 1 1562 
+originated Origin_of_the_Moon.txt 1 1485 
+theorized Origin_of_the_Moon.txt 1 1594 
+harvard Origin_of_the_Moon.txt 1 986 
+hypothesis Origin_of_the_Moon.txt 14 52 91 228 362 704 965 1247 1301 1331 1344 1375 1505 1534 1628 
+selene Origin_of_the_Moon.txt 1 407 
+article Origin_of_the_Moon.txt 1 225 
+configuration Origin_of_the_Moon.txt 1 435 
+come Origin_of_the_Moon.txt 1 796 
+isotopes Origin_of_the_Moon.txt 2 834 921 
+both Origin_of_the_Moon.txt 1 635 
+c Origin_of_the_Moon.txt 1 537 
+outcome Origin_of_the_Moon.txt 1 999 
+irregular Origin_of_the_Moon.txt 1 1336 
+many Origin_of_the_Moon.txt 1 706 
+canup Origin_of_the_Moon.txt 1 912 
+became Origin_of_the_Moon.txt 1 648 
+grail Origin_of_the_Moon.txt 1 1225 
+faces Origin_of_the_Moon.txt 1 661 
+son Origin_of_the_Moon.txt 1 1394 
+tons Origin_of_the_Moon.txt 1 516 
+offered Origin_of_the_Moon.txt 1 1135 
+collider Origin_of_the_Moon.txt 1 471 
+create Origin_of_the_Moon.txt 1 1034 
+been Origin_of_the_Moon.txt 9 165 216 285 399 521 589 696 1097 1307 
+collided Origin_of_the_Moon.txt 1 669 
+much Origin_of_the_Moon.txt 1 1470 
+mars Origin_of_the_Moon.txt 3 22 320 382 
+collected Origin_of_the_Moon.txt 1 34 
+basin Origin_of_the_Moon.txt 1 1455 
+500 Origin_of_the_Moon.txt 1 1364 
+suggested Origin_of_the_Moon.txt 1 1418 
+sufficient Origin_of_the_Moon.txt 2 427 590 
+formed Origin_of_the_Moon.txt 6 75 81 609 890 1066 1515 
+essentially Origin_of_the_Moon.txt 2 138 1350 
+titanium Origin_of_the_Moon.txt 2 190 833 
+external Origin_of_the_Moon.txt 1 1671 
+2014 Origin_of_the_Moon.txt 1 1230 
+hidden Origin_of_the_Moon.txt 1 1675 
+present Origin_of_the_Moon.txt 1 373 
+these Origin_of_the_Moon.txt 2 862 1071 
+2011 Origin_of_the_Moon.txt 2 1588 1591 
+single Origin_of_the_Moon.txt 2 37 352 
+rectangular Origin_of_the_Moon.txt 1 1221 
+will Origin_of_the_Moon.txt 1 1028 
+giant-impact Origin_of_the_Moon.txt 4 51 90 927 964 
+melted Origin_of_the_Moon.txt 1 524 
+match Origin_of_the_Moon.txt 1 431 
+involved Origin_of_the_Moon.txt 1 507 
+mythology Origin_of_the_Moon.txt 1 413 
+then Origin_of_the_Moon.txt 5 108 480 492 880 1074 
+is Origin_of_the_Moon.txt 17 15 240 417 511 546 564 738 822 947 1004 1044 1281 1371 1444 1456 1469 1535 
+thus Origin_of_the_Moon.txt 1 126 
+surprisingly Origin_of_the_Moon.txt 1 760 
+moonlet Origin_of_the_Moon.txt 1 1193 
+in Origin_of_the_Moon.txt 32 118 296 323 354 411 419 508 525 560 567 583 744 803 828 835 868 934 944 960 969 982 1123 1132 1145 1175 1266 1293 1401 1415 1489 1590 1619 
+4.51 Origin_of_the_Moon.txt 1 1661 
+if Origin_of_the_Moon.txt 3 162 206 1080 
+orbital Origin_of_the_Moon.txt 2 434 640 
+capture Origin_of_the_Moon.txt 2 1244 1284 
+different Origin_of_the_Moon.txt 3 175 266 774 
+goddess Origin_of_the_Moon.txt 1 410 
+locking Origin_of_the_Moon.txt 1 1278 
+indistinguishable Origin_of_the_Moon.txt 1 948 
+lava Origin_of_the_Moon.txt 1 312 
+parts Origin_of_the_Moon.txt 1 526 
+otto Origin_of_the_Moon.txt 1 1413 
+composition Origin_of_the_Moon.txt 7 247 685 846 905 962 1060 1116 
+disc Origin_of_the_Moon.txt 1 885 
+independent Origin_of_the_Moon.txt 1 698 
+satellite Origin_of_the_Moon.txt 3 39 1036 1337 
+context Origin_of_the_Moon.txt 1 1234 
+trajectories Origin_of_the_Moon.txt 1 1298 
+effect Origin_of_the_Moon.txt 1 1092 
+rain Origin_of_the_Moon.txt 1 1148 
+earth-moon Origin_of_the_Moon.txt 1 1546 
+discredited Origin_of_the_Moon.txt 1 1374 
+rift Origin_of_the_Moon.txt 3 1219 1232 1236 
+thorium Origin_of_the_Moon.txt 1 1492 
+off Origin_of_the_Moon.txt 1 482 
+older Origin_of_the_Moon.txt 1 1471 
+studies Origin_of_the_Moon.txt 1 1575 
+well Origin_of_the_Moon.txt 1 54 
+analysis Origin_of_the_Moon.txt 1 831 
+ocean Origin_of_the_Moon.txt 4 606 1215 1435 1454 
+thought Origin_of_the_Moon.txt 2 17 794 
+media Origin_of_the_Moon.txt 1 1578 
+mother Origin_of_the_Moon.txt 1 405 
+comparisons Origin_of_the_Moon.txt 1 743 
+the Origin_of_the_Moon.txt 151 2 5 10 13 26 40 62 88 93 112 119 124 128 130 183 188 199 209 219 231 234 238 263 289 297 300 317 347 359 361 372 379 385 394 404 408 422 432 454 470 483 487 490 502 505 528 530 540 556 561 570 573 575 579 597 601 607 615 632 638 643 645 658 665 683 689 692 700 709 721 746 752 761 783 791 810 820 841 844 852 876 893 895 917 923 926 932 954 963 988 1023 1026 1035 1039 1047 1062 1064 1081 1087 1107 1114 1118 1141 1155 1176 1202 1250 1255 1261 1272 1283 1312 1318 1321 1335 1349 1356 1372 1396 1402 1410 1419 1422 1433 1437 1447 1467 1472 1487 1490 1495 1504 1510 1513 1522 1527 1530 1541 1545 1550 1560 1570 1581 1610 1616 1620 1623 1636 1639 1653 1656 
+bodies Origin_of_the_Moon.txt 4 84 636 779 1358 
+left Origin_of_the_Moon.txt 1 260 
+proposed Origin_of_the_Moon.txt 3 69 1390 1431 
+heavily Origin_of_the_Moon.txt 1 7 
+being Origin_of_the_Moon.txt 3 308 726 1109 
+rest Origin_of_the_Moon.txt 1 348 
+not Origin_of_the_Moon.txt 4 272 725 1475 1539 
+shape Origin_of_the_Moon.txt 1 485 
+topography Origin_of_the_Moon.txt 1 1224 
+re-collided Origin_of_the_Moon.txt 1 881 
+biologist Origin_of_the_Moon.txt 1 1398 
+yet Origin_of_the_Moon.txt 1 750 
+captured Origin_of_the_Moon.txt 2 72 1253 
+1800s Origin_of_the_Moon.txt 1 1403 
+blow Origin_of_the_Moon.txt 1 464 
+emerging Origin_of_the_Moon.txt 1 1420 
+alternate Origin_of_the_Moon.txt 1 56 
+had Origin_of_the_Moon.txt 5 164 173 291 1051 1606 
+precambrian Origin_of_the_Moon.txt 1 1491 
+caltech Origin_of_the_Moon.txt 1 807 
+4 Origin_of_the_Moon.txt 1 202 
+samples Origin_of_the_Moon.txt 3 563 764 838 
+struck Origin_of_the_Moon.txt 1 25 
+has Origin_of_the_Moon.txt 5 397 694 843 1346 1552 
+expelled Origin_of_the_Moon.txt 1 1382 
+momentum Origin_of_the_Moon.txt 3 429 630 1543 
+nasa Origin_of_the_Moon.txt 2 273 1585 
+identical Origin_of_the_Moon.txt 4 139 769 816 1351 
+aspects Origin_of_the_Moon.txt 1 707 
+around Origin_of_the_Moon.txt 5 105 446 501 585 1311 
+big Origin_of_the_Moon.txt 1 280 
+possible Origin_of_the_Moon.txt 1 998 
+early Origin_of_the_Moon.txt 3 295 315 1177 
+possibly Origin_of_the_Moon.txt 1 513 
+five Origin_of_the_Moon.txt 1 874 
+presume Origin_of_the_Moon.txt 1 288 
+unique Origin_of_the_Moon.txt 1 153 
+visible Origin_of_the_Moon.txt 1 1223 
+50 Origin_of_the_Moon.txt 1 1568 
+sized Origin_of_the_Moon.txt 1 23 
+earth-like Origin_of_the_Moon.txt 1 904 
+either Origin_of_the_Moon.txt 1 1294 
+popular Origin_of_the_Moon.txt 1 1259 
+because Origin_of_the_Moon.txt 2 624 780 
+old Origin_of_the_Moon.txt 1 1463 
+r.m Origin_of_the_Moon.txt 1 911 
+some Origin_of_the_Moon.txt 4 282 338 1264 1406 
+play Origin_of_the_Moon.txt 1 1577 
+pacific Origin_of_the_Moon.txt 1 1434 
+magma Origin_of_the_Moon.txt 2 605 946 
+jupiter Origin_of_the_Moon.txt 1 1340 
+escape Origin_of_the_Moon.txt 1 1329 
+planetesimal Origin_of_the_Moon.txt 1 79 
+scale Origin_of_the_Moon.txt 1 1363 
+for Origin_of_the_Moon.txt 7 157 421 461 929 1299 1426 1569 
+per Origin_of_the_Moon.txt 1 1366 
+moon Origin_of_the_Moon.txt 44 3 14 41 63 113 220 264 360 409 455 598 610 659 666 693 756 792 842 853 894 901 924 933 1065 1082 1108 1142 1211 1212 1251 1322 1361 1423 1468 1473 1496 1514 1551 1582 1598 1611 1624 1640 1657 
+depletion Origin_of_the_Moon.txt 1 918 
+does Origin_of_the_Moon.txt 3 619 1474 1538 
+orbited Origin_of_the_Moon.txt 1 611 
+lunar Origin_of_the_Moon.txt 9 274 562 739 763 837 945 977 1024 1500 
+fragments Origin_of_the_Moon.txt 1 1651 
+dating Origin_of_the_Moon.txt 1 1646 
+core Origin_of_the_Moon.txt 3 545 550 1557 
+one-tenth Origin_of_the_Moon.txt 1 614 
+protoplanet Origin_of_the_Moon.txt 2 168 316 
+drift Origin_of_the_Moon.txt 1 1428 
+rock Origin_of_the_Moon.txt 2 310 1014 
+far-side Origin_of_the_Moon.txt 1 9 
+although Origin_of_the_Moon.txt 1 702 
+tidal Origin_of_the_Moon.txt 3 626 1091 1277 
+by Origin_of_the_Moon.txt 8 548 569 910 1254 1323 1391 1499 1584 
+on Origin_of_the_Moon.txt 5 49 916 922 1093 1494 
+about Origin_of_the_Moon.txt 5 356 369 613 1459 1660 
+carried Origin_of_the_Moon.txt 1 765 
+origins Origin_of_the_Moon.txt 1 978 
+extending Origin_of_the_Moon.txt 1 1021 
+of Origin_of_the_Moon.txt 75 1 12 47 123 208 218 230 237 255 299 319 333 340 371 375 381 384 391 406 469 477 486 515 517 527 554 558 572 581 596 603 625 634 657 677 691 699 708 751 755 782 812 832 878 886 919 958 990 1000 1012 1130 1149 1160 1167 1200 1216 1268 1320 1339 1355 1385 1395 1421 1439 1477 1481 1506 1526 1544 1563 1580 1615 1622 1647 1655 
+23.5 Origin_of_the_Moon.txt 1 120 
+mixed Origin_of_the_Moon.txt 1 185 
+or Origin_of_the_Moon.txt 4 1053 1296 1464 1548 
+primitive Origin_of_the_Moon.txt 1 1313 
+mantle Origin_of_the_Moon.txt 1 1482 
+into Origin_of_the_Moon.txt 10 35 60 344 350 444 498 552 787 1187 1208 
+within Origin_of_the_Moon.txt 1 201 
+rotations Origin_of_the_Moon.txt 1 633 
+ppm Origin_of_the_Moon.txt 1 203 
+hammered Origin_of_the_Moon.txt 1 1154 
+asteroid-like Origin_of_the_Moon.txt 1 83 
+valleys Origin_of_the_Moon.txt 3 1220 1233 1237 
+references Origin_of_the_Moon.txt 1 1669 
+artists Origin_of_the_Moon.txt 1 1239 
+accumulated Origin_of_the_Moon.txt 1 451 
+existed Origin_of_the_Moon.txt 1 1599 
+additional Origin_of_the_Moon.txt 1 1572 
+there Origin_of_the_Moon.txt 3 43 712 1304 
+spiral Origin_of_the_Moon.txt 1 1101 
+long Origin_of_the_Moon.txt 1 475 
+why Origin_of_the_Moon.txt 1 1549 
+continental Origin_of_the_Moon.txt 1 1427 
+way Origin_of_the_Moon.txt 2 326 644 
+resulted Origin_of_the_Moon.txt 1 117 
+was Origin_of_the_Moon.txt 14 758 793 801 897 938 966 1083 1143 1252 1258 1389 1430 1593 1634 
+function Origin_of_the_Moon.txt 1 1303 
+billion Origin_of_the_Moon.txt 3 304 1601 1662 
+form Origin_of_the_Moon.txt 6 111 453 473 790 1018 1190 
+forming Origin_of_the_Moon.txt 3 854 882 899 
+but Origin_of_the_Moon.txt 4 42 346 773 1480 
+expected Origin_of_the_Moon.txt 1 730 
+repeated Origin_of_the_Moon.txt 1 1195 
+repeatedly Origin_of_the_Moon.txt 1 1153 
+solar Origin_of_the_Moon.txt 5 159 301 777 1178 1528 
+apollo Origin_of_the_Moon.txt 4 762 836 1409 1648 
+with Origin_of_the_Moon.txt 11 265 670 851 902 972 1078 1111 1113 1289 1532 1609 
+considerable Origin_of_the_Moon.txt 1 331 
+october Origin_of_the_Moon.txt 1 1228 
+consist Origin_of_the_Moon.txt 1 1476 
+inside Origin_of_the_Moon.txt 1 1486 
+variations Origin_of_the_Moon.txt 1 48 
+up Origin_of_the_Moon.txt 1 1452 
+planet Origin_of_the_Moon.txt 1 1041 
+problem Origin_of_the_Moon.txt 2 1280 1531 
+piece Origin_of_the_Moon.txt 1 1384 
+called Origin_of_the_Moon.txt 2 96 898 
+popularity Origin_of_the_Moon.txt 1 1407 
+links Origin_of_the_Moon.txt 1 1672 
+an Origin_of_the_Moon.txt 10 314 437 499 733 766 815 830 903 1377 1607 
+as Origin_of_the_Moon.txt 18 53 55 181 279 402 720 727 729 819 847 956 1117 1194 1424 1497 1517 1612 1631 
+at Origin_of_the_Moon.txt 3 612 985 1127 
+simulations Origin_of_the_Moon.txt 1 457 
+gradients Origin_of_the_Moon.txt 1 1227 
+4.5 Origin_of_the_Moon.txt 1 1600 
+again Origin_of_the_Moon.txt 1 967 
+4.6 Origin_of_the_Moon.txt 1 303 
+no Origin_of_the_Moon.txt 1 292 
+whereas Origin_of_the_Moon.txt 1 1466 
+percent Origin_of_the_Moon.txt 1 826 
+other Origin_of_the_Moon.txt 4 68 776 1088 1241 
+carbonaceous Origin_of_the_Moon.txt 1 950 
+fledgling Origin_of_the_Moon.txt 1 1156 
+shrink Origin_of_the_Moon.txt 1 1030 
+explaining Origin_of_the_Moon.txt 1 1348 
+elements Origin_of_the_Moon.txt 1 724 
+energetic Origin_of_the_Moon.txt 1 734 
+separate Origin_of_the_Moon.txt 1 167 
+models Origin_of_the_Moon.txt 1 994 
+problems Origin_of_the_Moon.txt 2 718 863 
+mars-sized Origin_of_the_Moon.txt 2 94 243 
+structure Origin_of_the_Moon.txt 1 1222 
+ago Origin_of_the_Moon.txt 2 306 1603 
+condensation Origin_of_the_Moon.txt 1 77 
+faster Origin_of_the_Moon.txt 1 1103 
+age Origin_of_the_Moon.txt 1 1654 
+orbit Origin_of_the_Moon.txt 9 355 445 500 584 788 858 1025 1188 1275 
+together Origin_of_the_Moon.txt 2 76 1516 
+bodieseach Origin_of_the_Moon.txt 1 873 
+portion Origin_of_the_Moon.txt 2 468 595 
+2001 Origin_of_the_Moon.txt 1 745 
+mass Origin_of_the_Moon.txt 5 212 393 504 1011 1387 
+2007 Origin_of_the_Moon.txt 1 804 
+time Origin_of_the_Moon.txt 1 1207 
+far Origin_of_the_Moon.txt 1 855 
+accreted Origin_of_the_Moon.txt 1 109 
+requires Origin_of_the_Moon.txt 1 363 
+having Origin_of_the_Moon.txt 1 814 

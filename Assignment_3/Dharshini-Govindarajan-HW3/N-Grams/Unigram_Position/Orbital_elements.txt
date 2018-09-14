@@ -1,0 +1,505 @@
+represent Orbital_elements.txt 2 366 591 
+all Orbital_elements.txt 2 1224 1473 
+focus Orbital_elements.txt 1 206 
+yellow Orbital_elements.txt 1 107 
+eccentricity Orbital_elements.txt 4 466 478 495 864 
+during Orbital_elements.txt 1 1598 
+gm Orbital_elements.txt 1 769 
+inverse Orbital_elements.txt 3 1114 1139 1149 
+depend Orbital_elements.txt 2 296 949 
+simplify Orbital_elements.txt 1 1575 
+passage Orbital_elements.txt 1 934 
+languages Orbital_elements.txt 1 1208 
+to Orbital_elements.txt 29 9 38 73 351 381 444 481 531 551 590 624 643 651 660 674 743 850 880 938 983 1011 1050 1102 1142 1182 1329 1361 1543 1574 
+finally Orbital_elements.txt 1 332 
+under Orbital_elements.txt 1 1212 
+nodes Orbital_elements.txt 2 143 156 
+connects Orbital_elements.txt 1 146 
+choice Orbital_elements.txt 1 299 
+perihelion Orbital_elements.txt 1 933 
+matrices Orbital_elements.txt 2 1158 1168 
+categories Orbital_elements.txt 2 1615 1617 
+positions Orbital_elements.txt 1 1499 
+fewer Orbital_elements.txt 1 1053 
+p Orbital_elements.txt 1 1068 
+vector Orbital_elements.txt 1 692 
+semi-major Orbital_elements.txt 3 750 869 964 
+study Orbital_elements.txt 1 1600 
+originally Orbital_elements.txt 1 1448 
+three-dimensional Orbital_elements.txt 1 691 
+prediction Orbital_elements.txt 1 1210 
+approximation Orbital_elements.txt 1 92 
+zero Orbital_elements.txt 5 488 635 661 831 1222 
+n Orbital_elements.txt 2 1022 1273 
+286.9047 Orbital_elements.txt 1 1532 
+0025931 Orbital_elements.txt 1 1530 
+even Orbital_elements.txt 1 285 
+appear Orbital_elements.txt 1 1049 
+clock Orbital_elements.txt 1 676 
+while Orbital_elements.txt 1 1583 
+expressed Orbital_elements.txt 2 995 1040 
+establishes Orbital_elements.txt 1 165 
+sixth Orbital_elements.txt 1 646 
+method Orbital_elements.txt 1 1014 
+body Orbital_elements.txt 7 231 251 261 268 384 775 1220 
+14.81909376225249 Orbital_elements.txt 1 1533 
+objects Orbital_elements.txt 1 78 
+represented Orbital_elements.txt 1 1136 
+along Orbital_elements.txt 1 1566 
+ascending Orbital_elements.txt 4 153 423 893 1564 
+equations Orbital_elements.txt 2 1399 1401 
+obtained Orbital_elements.txt 2 685 1160 
+k Orbital_elements.txt 1 1099 
+vectors Orbital_elements.txt 2 582 689 
+commonly Orbital_elements.txt 3 56 600 1541 
+leaving Orbital_elements.txt 1 843 
+usually Orbital_elements.txt 1 120 
+changes Orbital_elements.txt 2 69 1236 
+uniquely Orbital_elements.txt 1 10 
+useful Orbital_elements.txt 1 1363 
+sgp Orbital_elements.txt 1 1507 
+merely Orbital_elements.txt 2 88 657 
+scaled Orbital_elements.txt 1 1240 
+rarely Orbital_elements.txt 1 792 
+linearly Orbital_elements.txt 2 343 1237 
+use Orbital_elements.txt 2 1451 1459 
+from Orbital_elements.txt 9 189 215 686 714 761 1097 1180 1489 1503 
+takes Orbital_elements.txt 1 1326 
+0 Orbital_elements.txt 1 1524 
+distinct Orbital_elements.txt 1 198 
+contains Orbital_elements.txt 1 544 
+two Orbital_elements.txt 5 193 243 305 316 731 
+predictions Orbital_elements.txt 1 1364 
+more Orbital_elements.txt 2 279 1043 
+apparent Orbital_elements.txt 1 233 
+keplerian Orbital_elements.txt 14 85 98 176 234 246 597 681 716 753 1294 1311 1355 1380 1422 
+particular Orbital_elements.txt 1 95 
+known Orbital_elements.txt 4 734 941 967 977 
+must Orbital_elements.txt 1 815 
+this Orbital_elements.txt 4 102 539 584 1013 
+inertial Orbital_elements.txt 2 191 513 
+longitude Orbital_elements.txt 6 420 788 905 919 993 1561 
+can Orbital_elements.txt 15 357 429 576 683 711 758 1058 1196 1357 1373 1391 1425 1468 1495 1500 
+of Orbital_elements.txt 65 49 52 82 142 149 184 201 211 222 228 245 257 290 300 313 321 374 388 418 421 427 440 515 547 572 615 631 638 669 748 777 806 840 855 875 886 891 901 906 911 932 1015 1028 1064 1083 1089 1145 1151 1154 1165 1173 1215 1310 1322 1333 1341 1379 1433 1438 1513 1551 1554 1562 1601 1604 
+apoapsis Orbital_elements.txt 1 722 
+example Orbital_elements.txt 3 801 1512 1582 
+03004a Orbital_elements.txt 1 1519 
+links Orbital_elements.txt 1 1613 
+relativistic Orbital_elements.txt 1 1346 
+07083.49636287 Orbital_elements.txt 1 1520 
+axis Orbital_elements.txt 3 751 870 965 
+rather Orbital_elements.txt 1 612 
+six Orbital_elements.txt 4 53 175 527 545 
+algorithms Orbital_elements.txt 1 1511 
+sgp4 Orbital_elements.txt 1 1508 
+1 Orbital_elements.txt 1 1517 
+varies Orbital_elements.txt 1 342 
+instead Orbital_elements.txt 4 602 747 776 805 
+parameter Orbital_elements.txt 3 611 647 768 
+two-body Orbital_elements.txt 2 25 1285 
+product Orbital_elements.txt 1 1153 
+algebra Orbital_elements.txt 1 1147 
+after Orbital_elements.txt 1 178 
+derived Orbital_elements.txt 1 1488 
+orbits Orbital_elements.txt 5 130 463 1287 1303 1381 
+diagram Orbital_elements.txt 2 103 408 
+plane Orbital_elements.txt 9 106 111 118 124 135 159 324 373 916 
+designed Orbital_elements.txt 1 1449 
+such Orbital_elements.txt 1 718 
+data Orbital_elements.txt 2 1475 1487 
+constants Orbital_elements.txt 1 1232 
+a Orbital_elements.txt 29 12 28 50 63 84 94 109 166 216 337 352 474 506 521 563 608 690 819 871 940 1006 1042 1216 1256 1270 1307 1377 1431 1514 
+introduced Orbital_elements.txt 1 1594 
+correspond Orbital_elements.txt 2 350 550 
+element Orbital_elements.txt 4 754 822 1055 1516 
+q Orbital_elements.txt 1 877 
+so Orbital_elements.txt 3 1292 1306 1353 
+order Orbital_elements.txt 1 1164 
+developed Orbital_elements.txt 1 1407 
+over Orbital_elements.txt 1 70 
+through Orbital_elements.txt 1 1505 
+signs Orbital_elements.txt 1 1172 
+nonsphericity Orbital_elements.txt 1 1340 
+still Orbital_elements.txt 2 649 1457 
+its Orbital_elements.txt 3 67 205 915 
+relativity Orbital_elements.txt 1 83 
+coordinates Orbital_elements.txt 3 1120 1130 1549 
+forms Orbital_elements.txt 1 1406 
+degrees Orbital_elements.txt 1 546 
+systems Orbital_elements.txt 2 26 1591 
+hidden Orbital_elements.txt 1 1616 
+main Orbital_elements.txt 3 304 1280 1418 
+defining Orbital_elements.txt 1 437 
+apogee Orbital_elements.txt 1 737 
+then Orbital_elements.txt 2 1094 1259 
+them Orbital_elements.txt 1 1439 
+norad Orbital_elements.txt 1 1443 
+greater Orbital_elements.txt 1 468 
+parabola Orbital_elements.txt 2 507 1299 
+3 Orbital_elements.txt 3 1119 1127 1156 
+number Orbital_elements.txt 2 637 1432 
+effects Orbital_elements.txt 2 81 1347 
+kiss Orbital_elements.txt 1 1384 
+not Orbital_elements.txt 5 276 349 414 457 462 
+rotation Orbital_elements.txt 1 1157 
+possess Orbital_elements.txt 1 278 
+easily Orbital_elements.txt 1 1471 
+edit Orbital_elements.txt 11 100 510 680 1072 1211 1279 1417 1536 1609 1611 1614 
+always Orbital_elements.txt 1 1289 
+l Orbital_elements.txt 4 922 994 1001 1036 
+conic Orbital_elements.txt 1 1290 
+each Orbital_elements.txt 4 47 200 571 757 
+references Orbital_elements.txt 1 1610 
+mean Orbital_elements.txt 18 334 411 779 784 787 803 807 828 924 970 987 992 1020 1056 1229 1234 1243 1557 
+consolidate Orbital_elements.txt 1 1018 
+schemes Orbital_elements.txt 1 46 
+directly Orbital_elements.txt 1 996 
+out Orbital_elements.txt 1 197 
+shown Orbital_elements.txt 2 401 415 
+matrix Orbital_elements.txt 3 1140 1146 1150 
+00000119 Orbital_elements.txt 1 1521 
+hill Orbital_elements.txt 1 1414 
+red Orbital_elements.txt 1 404 
+seventh Orbital_elements.txt 2 609 820 
+quite Orbital_elements.txt 1 981 
+ecliptic Orbital_elements.txt 1 134 
+cartesian Orbital_elements.txt 1 564 
+complicated Orbital_elements.txt 1 1044 
+definition Orbital_elements.txt 2 668 839 
+programming Orbital_elements.txt 1 1207 
+days Orbital_elements.txt 1 1494 
+times Orbital_elements.txt 1 1366 
+motion Orbital_elements.txt 6 186 971 1021 1057 1244 1603 
+produce Orbital_elements.txt 1 1362 
+place Orbital_elements.txt 1 1327 
+hence Orbital_elements.txt 1 1245 
+variables Orbital_elements.txt 2 1535 1546 
+primary Orbital_elements.txt 6 265 274 302 961 1338 1343 
+one Orbital_elements.txt 7 221 470 482 497 630 1027 1052 
+i-j-k Orbital_elements.txt 1 1123 
+another Orbital_elements.txt 1 697 
+action-angle Orbital_elements.txt 1 1548 
+angular Orbital_elements.txt 2 485 501 
+size Orbital_elements.txt 2 312 885 
+earths Orbital_elements.txt 1 122 
+given Orbital_elements.txt 6 394 511 771 1125 1267 1308 
+necessarily Orbital_elements.txt 1 277 
+system Orbital_elements.txt 5 448 566 1092 1124 1134 
+unspecified Orbital_elements.txt 1 639 
+their Orbital_elements.txt 1 1568 
+perturbations Orbital_elements.txt 4 75 1223 1275 1305 
+calculations Orbital_elements.txt 1 1577 
+convention Orbital_elements.txt 1 663 
+inconvenient Orbital_elements.txt 1 588 
+perfectly Orbital_elements.txt 1 1217 
+that Orbital_elements.txt 8 307 450 812 827 1035 1084 1195 1382 
+exactly Orbital_elements.txt 1 526 
+accurately Orbital_elements.txt 1 1313 
+part Orbital_elements.txt 1 614 
+than Orbital_elements.txt 5 281 469 613 1336 1492 
+specify Orbital_elements.txt 4 744 881 908 939 
+distance Orbital_elements.txt 1 874 
+see Orbital_elements.txt 2 984 1607 
+were Orbital_elements.txt 1 1593 
+cards Orbital_elements.txt 1 1455 
+2692 Orbital_elements.txt 1 1525 
+perturbative Orbital_elements.txt 1 1576 
+and Orbital_elements.txt 31 60 66 79 125 154 181 284 311 331 385 409 425 459 483 498 517 536 696 723 738 866 884 898 972 1169 1221 1276 1352 1467 1483 1559 
+modern Orbital_elements.txt 1 1474 
+argument Orbital_elements.txt 4 426 900 1194 1553 
+kepler Orbital_elements.txt 2 29 180 
+manner Orbital_elements.txt 1 1045 
+have Orbital_elements.txt 1 1304 
+earth-orbiting Orbital_elements.txt 1 114 
+need Orbital_elements.txt 1 1051 
+any Orbital_elements.txt 2 393 1248 
+contents Orbital_elements.txt 1 97 
+angle Orbital_elements.txt 6 340 355 370 405 890 1070 
+depending Orbital_elements.txt 2 248 1479 
+convenient Orbital_elements.txt 1 339 
+note Orbital_elements.txt 1 449 
+also Orbital_elements.txt 6 430 453 980 1059 1392 1608 
+ideal Orbital_elements.txt 1 1213 
+which Orbital_elements.txt 9 250 326 341 347 364 556 594 1116 1402 
+perturbation Orbital_elements.txt 1 1282 
+switching Orbital_elements.txt 1 1170 
+unperturbed Orbital_elements.txt 2 537 1284 
+trace Orbital_elements.txt 1 196 
+opposite Orbital_elements.txt 1 230 
+object Orbital_elements.txt 2 391 1484 
+coordinate Orbital_elements.txt 4 447 565 1091 1100 
+gauss Orbital_elements.txt 1 1410 
+position Orbital_elements.txt 3 387 558 695 
+why Orbital_elements.txt 1 596 
+equatorial Orbital_elements.txt 1 123 
+considered Orbital_elements.txt 2 22 607 
+calculated Orbital_elements.txt 1 1502 
+sometimes Orbital_elements.txt 2 603 823 
+m Orbital_elements.txt 7 786 928 989 999 1038 1258 1272 
+traditional Orbital_elements.txt 1 170 
+two-line Orbital_elements.txt 4 1415 1420 1444 1515 
+velocity Orbital_elements.txt 2 569 700 
+laws Orbital_elements.txt 1 183 
+planetary Orbital_elements.txt 2 185 1398 
+text Orbital_elements.txt 1 1429 
+notations Orbital_elements.txt 1 1082 
+unreliable Orbital_elements.txt 1 1497 
+earth Orbital_elements.txt 1 728 
+parameters Orbital_elements.txt 7 7 54 509 528 710 1253 1424 
+with Orbital_elements.txt 12 151 161 344 672 705 1009 1080 1106 1199 1238 1452 1567 
+state Orbital_elements.txt 2 581 688 
+either Orbital_elements.txt 4 867 917 985 998 
+only Orbital_elements.txt 3 225 844 1317 
+coefficients Orbital_elements.txt 1 1030 
+sgp8/sdp8 Orbital_elements.txt 1 1510 
+astronomical Orbital_elements.txt 1 861 
+kozailidov Orbital_elements.txt 1 1586 
+his Orbital_elements.txt 2 182 1599 
+perigee Orbital_elements.txt 1 739 
+means Orbital_elements.txt 1 811 
+2 Orbital_elements.txt 2 1129 1526 
+secondary Orbital_elements.txt 2 272 283 
+gray Orbital_elements.txt 1 112 
+evolution Orbital_elements.txt 1 1321 
+conditions Orbital_elements.txt 1 1214 
+differential Orbital_elements.txt 1 1400 
+consisting Orbital_elements.txt 2 48 1550 
+common Orbital_elements.txt 5 209 742 982 1437 1465 
+x Orbital_elements.txt 4 559 1104 1181 1189 
+where Orbital_elements.txt 4 27 1093 1112 1187 
+set Orbital_elements.txt 3 51 659 1309 
+equinox Orbital_elements.txt 1 953 
+computed Orbital_elements.txt 3 713 760 1198 
+reference Orbital_elements.txt 10 110 117 158 167 258 260 446 516 617 962 
+frame Orbital_elements.txt 7 168 192 218 514 618 1101 1105 
+relative Orbital_elements.txt 1 443 
+computes Orbital_elements.txt 1 1117 
+computer Orbital_elements.txt 1 706 
+are Orbital_elements.txt 23 5 20 34 55 173 289 456 460 529 599 733 857 878 936 957 976 1039 1076 1231 1254 1288 1547 1572 
+arg Orbital_elements.txt 1 1188 
+momenta Orbital_elements.txt 1 1570 
+ways Orbital_elements.txt 1 37 
+wikipedia Orbital_elements.txt 1 2 
+behind Orbital_elements.txt 1 1062 
+various Orbital_elements.txt 1 860 
+closed Orbital_elements.txt 1 458 
+between Orbital_elements.txt 1 377 
+orbiting Orbital_elements.txt 3 194 390 726 
+geometric Orbital_elements.txt 2 354 369 
+approach Orbital_elements.txt 1 380 
+available Orbital_elements.txt 1 1204 
+we Orbital_elements.txt 1 1047 
+terms Orbital_elements.txt 1 732 
+article Orbital_elements.txt 3 1085 1281 1419 
+come Orbital_elements.txt 1 1403 
+periapsis Orbital_elements.txt 7 378 428 724 876 902 907 1555 
+last Orbital_elements.txt 1 730 
+many Orbital_elements.txt 2 35 1206 
+equal Orbital_elements.txt 2 291 480 
+tle Orbital_elements.txt 1 1446 
+variance Orbital_elements.txt 1 1278 
+expression Orbital_elements.txt 1 1016 
+27651u Orbital_elements.txt 1 1518 
+00000-0 Orbital_elements.txt 1 1522 
+point Orbital_elements.txt 4 164 256 523 942 
+period Orbital_elements.txt 3 721 746 1067 
+lagrange Orbital_elements.txt 1 1409 
+polynomial Orbital_elements.txt 2 1007 1025 
+respect Orbital_elements.txt 2 673 1010 
+described Orbital_elements.txt 3 432 578 1394 
+transformations Orbital_elements.txt 2 703 1071 
+trajectory Orbital_elements.txt 5 227 472 490 504 1389 
+three Orbital_elements.txt 3 553 1167 1175 
+johannes Orbital_elements.txt 1 179 
+citations Orbital_elements.txt 1 1063 
+039.9951 Orbital_elements.txt 1 1528 
+anomaly Orbital_elements.txt 16 335 363 399 412 780 785 790 795 804 808 829 925 988 1230 1235 1558 
+define Orbital_elements.txt 6 308 318 533 557 652 1296 
+external Orbital_elements.txt 1 1612 
+angles Orbital_elements.txt 7 417 436 1074 1079 1109 1177 1184 
+instant Orbital_elements.txt 1 1249 
+standard Orbital_elements.txt 2 766 1201 
+atmospheric Orbital_elements.txt 1 1344 
+these Orbital_elements.txt 6 18 202 237 549 573 575 
+might Orbital_elements.txt 1 796 
+appearance Orbital_elements.txt 1 1032 
+choices Orbital_elements.txt 1 947 
+will Orbital_elements.txt 3 1017 1033 1048 
+near Orbital_elements.txt 1 1367 
+momentum Orbital_elements.txt 2 486 502 
+formats Orbital_elements.txt 1 1434 
+charles-eugne Orbital_elements.txt 1 1596 
+investigating Orbital_elements.txt 1 1584 
+vernal Orbital_elements.txt 2 163 952 
+27651 Orbital_elements.txt 1 1527 
+characterizing Orbital_elements.txt 1 1086 
+30 Orbital_elements.txt 1 1493 
+orientation Orbital_elements.txt 4 320 439 910 1088 
+is Orbital_elements.txt 43 31 87 119 132 138 232 252 262 269 329 336 400 413 467 473 479 487 491 496 500 505 540 585 595 606 622 634 641 648 656 741 770 825 830 966 979 1111 1135 1159 1186 1266 1440 1462 
+conjugate Orbital_elements.txt 1 1569 
+thus Orbital_elements.txt 2 396 461 
+it Orbital_elements.txt 8 131 145 356 655 740 824 978 1461 
+according Orbital_elements.txt 1 1141 
+punched Orbital_elements.txt 1 1454 
+triple Orbital_elements.txt 1 1590 
+in Orbital_elements.txt 23 15 23 58 101 128 325 371 406 524 562 570 752 914 943 1041 1121 1131 1205 1404 1430 1458 1578 1588 
+hyperbola Orbital_elements.txt 2 475 1301 
+if Orbital_elements.txt 6 464 476 493 619 968 1246 
+orbital Orbital_elements.txt 20 0 3 61 105 171 294 323 580 610 687 709 821 848 1054 1066 1225 1252 1324 1498 1539 
+different Orbital_elements.txt 3 36 853 1405 
+sdp4 Orbital_elements.txt 1 1509 
+radiation Orbital_elements.txt 1 1348 
+same Orbital_elements.txt 1 42 
+poincar Orbital_elements.txt 1 1412 
+epoch Orbital_elements.txt 12 520 605 621 671 782 810 834 842 921 927 1320 1369 
+viewed Orbital_elements.txt 2 188 214 
+intermediary Orbital_elements.txt 1 1003 
+used Orbital_elements.txt 11 32 57 253 601 798 858 879 937 958 1360 1573 
+closest Orbital_elements.txt 1 379 
+eccentric Orbital_elements.txt 1 794 
+trajectories Orbital_elements.txt 5 199 203 239 452 1372 
+moment Orbital_elements.txt 1 628 
+centred Orbital_elements.txt 1 219 
+center Orbital_elements.txt 2 148 210 
+older Orbital_elements.txt 1 1491 
+i Orbital_elements.txt 6 897 1075 1110 1185 1257 1271 
+modeled Orbital_elements.txt 1 1375 
+well Orbital_elements.txt 1 1478 
+without Orbital_elements.txt 1 997 
+sets Orbital_elements.txt 3 244 755 854 
+y Orbital_elements.txt 2 560 1190 
+five Orbital_elements.txt 2 644 846 
+the Orbital_elements.txt 178 6 41 80 104 116 121 133 136 140 147 152 157 162 169 174 208 223 226 229 255 259 264 266 271 273 282 287 293 298 301 303 309 314 319 322 327 333 361 367 372 375 382 386 389 397 403 407 410 416 422 434 438 441 445 465 471 477 484 489 494 503 542 552 568 604 616 620 627 632 636 645 653 667 670 694 699 715 720 727 729 736 745 749 762 765 773 778 783 793 802 833 837 841 845 863 868 873 882 889 892 895 899 904 909 912 918 923 930 944 946 951 955 960 963 969 973 986 991 1019 1024 1029 1031 1065 1073 1077 1081 1087 1090 1095 1098 1103 1107 1113 1118 1122 1126 1132 1138 1143 1148 1152 1155 1163 1166 1171 1174 1178 1192 1200 1228 1233 1242 1251 1260 1293 1319 1323 1330 1337 1339 1342 1368 1387 1396 1435 1441 1463 1481 1486 1506 1537 1552 1556 1560 1563 1585 1602 1605 
+bodies Orbital_elements.txt 5 195 224 288 862 1334 
+spherical Orbital_elements.txt 1 1218 
+they Orbital_elements.txt 3 1390 1571 1592 
+generally Orbital_elements.txt 1 21 
+satellites Orbital_elements.txt 2 115 127 
+shape Orbital_elements.txt 2 310 883 
+identify Orbital_elements.txt 1 11 
+touch Orbital_elements.txt 1 1386 
+alternative Orbital_elements.txt 1 678 
+except Orbital_elements.txt 1 1227 
+mathematically Orbital_elements.txt 2 39 338 
+other Orbital_elements.txt 6 77 267 708 763 847 1335 
+has Orbital_elements.txt 2 204 242 
+transformation Orbital_elements.txt 3 1096 1115 1179 
+euler Orbital_elements.txt 6 435 1069 1078 1108 1176 1183 
+real Orbital_elements.txt 6 64 353 368 1302 1371 1388 
+forces Orbital_elements.txt 1 1351 
+format Orbital_elements.txt 2 1447 1466 
+rules Orbital_elements.txt 1 1144 
+descending Orbital_elements.txt 1 155 
+using Orbital_elements.txt 1 799 
+intersection Orbital_elements.txt 1 137 
+necessary Orbital_elements.txt 2 530 650 
+tles Orbital_elements.txt 2 1490 1504 
+alternatively Orbital_elements.txt 1 1370 
+manual Orbital_elements.txt 1 702 
+specific Orbital_elements.txt 1 13 
+steps Orbital_elements.txt 1 1004 
+t Orbital_elements.txt 6 814 935 1250 1264 1265 1274 
+arbitrary Orbital_elements.txt 2 519 535 
+become Orbital_elements.txt 1 1496 
+delaunay Orbital_elements.txt 5 1411 1534 1538 1545 1597 
+reduced Orbital_elements.txt 1 642 
+mathematical Orbital_elements.txt 1 91 
+because Orbital_elements.txt 2 541 1460 
+parametrizations Orbital_elements.txt 1 679 
+classical Orbital_elements.txt 1 24 
+sequence Orbital_elements.txt 1 1378 
+non-elliptic Orbital_elements.txt 1 451 
+choosing Orbital_elements.txt 1 836 
+specified Orbital_elements.txt 3 522 817 852 
+oscillations Orbital_elements.txt 1 1587 
+provided Orbital_elements.txt 1 764 
+dimensions Orbital_elements.txt 2 555 574 
+for Orbital_elements.txt 9 113 126 693 698 772 800 859 1450 1581 
+electromagnetic Orbital_elements.txt 1 1350 
+moon Orbital_elements.txt 1 1606 
+does Orbital_elements.txt 3 275 348 365 
+osculate Orbital_elements.txt 1 1383 
+inclination Orbital_elements.txt 2 419 896 
+be Orbital_elements.txt 19 358 431 577 625 684 712 759 797 816 851 1034 1060 1197 1359 1374 1393 1426 1469 1501 
+real-world Orbital_elements.txt 1 675 
+radial Orbital_elements.txt 1 492 
+pressure Orbital_elements.txt 1 1349 
+obscured Orbital_elements.txt 1 1061 
+by Orbital_elements.txt 12 76 662 701 835 1137 1161 1241 1268 1395 1408 1472 1595 
+handled Orbital_elements.txt 1 1470 
+on Orbital_elements.txt 5 220 249 297 1354 1480 
+central Orbital_elements.txt 3 383 774 1219 
+most Orbital_elements.txt 2 1436 1464 
+freedom Orbital_elements.txt 1 548 
+plus Orbital_elements.txt 1 567 
+referred Orbital_elements.txt 1 1542 
+or Orbital_elements.txt 14 664 704 791 872 903 929 954 990 1000 1037 1128 1300 1385 1413 
+software Orbital_elements.txt 1 707 
+into Orbital_elements.txt 3 360 666 1023 
+numerically Orbital_elements.txt 1 658 
+due Orbital_elements.txt 2 72 1328 
+appropriate Orbital_elements.txt 1 838 
+non-inertial Orbital_elements.txt 2 217 238 
+inverting Orbital_elements.txt 1 1162 
+ellipse Orbital_elements.txt 4 315 328 376 1298 
+often Orbital_elements.txt 2 586 1358 
+assumed Orbital_elements.txt 1 826 
+there Orbital_elements.txt 2 33 499 
+signifies Orbital_elements.txt 1 1191 
+describes Orbital_elements.txt 1 1314 
+way Orbital_elements.txt 1 589 
+sections Orbital_elements.txt 1 1291 
+function Orbital_elements.txt 2 1008 1202 
+newtonian Orbital_elements.txt 1 1286 
+so-called Orbital_elements.txt 1 1397 
+but Orbital_elements.txt 6 44 346 455 583 1046 1456 
+idealized Orbital_elements.txt 1 90 
+x-y-z Orbital_elements.txt 1 1133 
+hierarchical Orbital_elements.txt 1 1589 
+solar Orbital_elements.txt 1 129 
+encoded Orbital_elements.txt 1 1427 
+line Orbital_elements.txt 1 141 
+true Orbital_elements.txt 3 362 398 789 
+pull Orbital_elements.txt 1 1332 
+made Orbital_elements.txt 1 948 
+embedded Orbital_elements.txt 1 330 
+whether Orbital_elements.txt 1 950 
+gravitational Orbital_elements.txt 4 74 767 974 1331 
+converted Orbital_elements.txt 1 359 
+80-column Orbital_elements.txt 1 1453 
+problem Orbital_elements.txt 1 543 
+z Orbital_elements.txt 1 561 
+called Orbital_elements.txt 3 139 263 270 
+mechanics Orbital_elements.txt 3 17 62 1580 
+celestial Orbital_elements.txt 2 16 1579 
+intersects Orbital_elements.txt 1 108 
+defined Orbital_elements.txt 1 623 
+certain Orbital_elements.txt 1 45 
+describe Orbital_elements.txt 2 40 236 
+moved Orbital_elements.txt 1 665 
+an Orbital_elements.txt 11 89 190 240 512 518 534 587 592 887 1297 1315 
+as Orbital_elements.txt 17 144 254 402 433 579 719 735 756 818 959 1002 1005 1026 1376 1428 1477 1544 
+exist Orbital_elements.txt 1 454 
+at Orbital_elements.txt 13 93 207 392 626 781 809 832 920 926 1247 1262 1318 1365 
+30706-4 Orbital_elements.txt 1 1523 
+when Orbital_elements.txt 5 187 213 286 629 725 
+elemental Orbital_elements.txt 1 1277 
+application Orbital_elements.txt 1 1482 
+unambiguously Orbital_elements.txt 1 532 
+spatial Orbital_elements.txt 1 554 
+atan2y,x Orbital_elements.txt 1 1203 
+storages Orbital_elements.txt 1 1476 
+node Orbital_elements.txt 4 424 894 956 1565 
+polar Orbital_elements.txt 1 1193 
+elements Orbital_elements.txt 30 1 4 19 68 99 172 177 235 247 295 306 317 598 633 640 682 717 849 856 1226 1261 1295 1312 1325 1356 1416 1421 1423 1445 1540 
+073.4582 Orbital_elements.txt 1 1531 
+drag Orbital_elements.txt 1 1345 
+astronomy Orbital_elements.txt 2 59 1283 
+e Orbital_elements.txt 3 865 1255 1269 
+required Orbital_elements.txt 2 8 508 
+orbit Orbital_elements.txt 16 14 30 43 65 86 241 442 538 593 654 888 913 945 1209 1316 1485 
+together Orbital_elements.txt 1 160 
+nasa Orbital_elements.txt 1 1442 
+mass Orbital_elements.txt 5 150 212 280 292 975 
+time Orbital_elements.txt 11 71 96 345 395 525 677 813 931 1012 1239 1263 
+132.2059 Orbital_elements.txt 1 1529 

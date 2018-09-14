@@ -1,0 +1,1283 @@
+magnetically Solar_cycle.txt 1 1113 
+irradiance Solar_cycle.txt 11 2386 2598 2603 2607 2713 2722 2892 2931 2960 3728 3786 
+all Solar_cycle.txt 4 551 763 2071 2156 
+leighton Solar_cycle.txt 1 3901 
+evidence Solar_cycle.txt 1 1953 
+11-year Solar_cycle.txt 4 171 558 3892 4092 
+suns Solar_cycle.txt 7 213 635 1145 2062 3052 4104 4122 
+magnetic Solar_cycle.txt 42 164 511 522 533 584 607 637 658 752 1110 1247 1350 1379 1423 1441 1457 1495 1801 1868 1881 2058 2063 2182 2242 2344 2781 2925 3071 3223 3918 3927 3971 3987 3990 4018 4060 4106 4124 4144 4151 4205 4213 
+varying Solar_cycle.txt 2 2586 2917 
+spatiotemporal Solar_cycle.txt 2 583 2083 
+yellow Solar_cycle.txt 1 2228 
+month Solar_cycle.txt 2 1319 1321 
+leads Solar_cycle.txt 1 3533 
+spacecraft Solar_cycle.txt 1 2262 
+28-year Solar_cycle.txt 1 12 
+per Solar_cycle.txt 1 3239 
+controversial Solar_cycle.txt 2 960 2671 
+anticorrelated Solar_cycle.txt 1 2477 
+consists Solar_cycle.txt 1 4184 
+follow Solar_cycle.txt 1 1117 
+minuscule Solar_cycle.txt 1 3157 
+localized Solar_cycle.txt 1 1492 
+polarity Solar_cycle.txt 8 523 556 620 2218 2245 3991 4072 4101 
+particles Solar_cycle.txt 3 1508 3413 3423 
+forces Solar_cycle.txt 1 3966 
+measurable Solar_cycle.txt 1 2088 
+depend Solar_cycle.txt 1 1600 
+zone Solar_cycle.txt 1 3965 
+9,000 Solar_cycle.txt 1 735 
+graph Solar_cycle.txt 1 2234 
+illustrates Solar_cycle.txt 1 3092 
+overlying Solar_cycle.txt 1 3225 
+diffuse Solar_cycle.txt 1 3278 
+environment Solar_cycle.txt 2 1523 1666 
+to Solar_cycle.txt 71 283 296 336 380 386 424 544 555 610 802 930 942 975 1008 1210 1214 1266 1322 1447 1480 1584 1680 1684 1698 1746 1876 1969 2086 2097 2143 2172 2204 2286 2329 2362 2364 2401 2513 2644 2652 2756 2770 2807 2967 2971 3012 3089 3116 3217 3332 3417 3424 3467 3497 3534 3545 3616 3680 3689 3701 3710 3848 3907 3978 4020 4066 4076 4096 4115 4119 4194 
+edward Solar_cycle.txt 1 446 
+stable Solar_cycle.txt 1 782 
+weather Solar_cycle.txt 3 1535 3703 3881 
+analogous Solar_cycle.txt 1 1361 
+include Solar_cycle.txt 2 2521 3396 
+retreat Solar_cycle.txt 1 2363 
+worth Solar_cycle.txt 1 2992 
+alternating Solar_cycle.txt 1 672 
+ionizing Solar_cycle.txt 1 3192 
+updated Solar_cycle.txt 2 1338 1401 
+14-based Solar_cycle.txt 1 2013 
+amplitudes Solar_cycle.txt 4 1678 1692 1694 2169 
+satellite-era Solar_cycle.txt 1 2833 
+returning Solar_cycle.txt 1 543 
+very Solar_cycle.txt 2 973 1624 
+frequencies Solar_cycle.txt 3 2733 3322 3631 
+peaks Solar_cycle.txt 1 3574 
+continues Solar_cycle.txt 1 423 
+tung Solar_cycle.txt 1 3782 
+focus Solar_cycle.txt 1 563 
+5460 Solar_cycle.txt 1 857 
+reconstructions Solar_cycle.txt 2 385 2554 
+7040 Solar_cycle.txt 1 869 
+affect Solar_cycle.txt 3 3195 3654 3681 
+difference Solar_cycle.txt 1 2708 
+correlates Solar_cycle.txt 2 3294 3787 
+categories Solar_cycle.txt 2 4233 4235 
+visualized Solar_cycle.txt 1 1279 
+clouds Solar_cycle.txt 3 3378 3403 3445 
+facilitate Solar_cycle.txt 1 3604 
+level Solar_cycle.txt 8 93 717 750 2481 2559 2947 3361 3874 
+eruptive Solar_cycle.txt 2 1510 2444 
+cme Solar_cycle.txt 2 2325 2372 
+cooler Solar_cycle.txt 2 2852 2897 
+list Solar_cycle.txt 1 823 
+speculations Solar_cycle.txt 1 3392 
+cosmogenic Solar_cycle.txt 3 1815 1848 1901 
+large Solar_cycle.txt 7 1192 1218 1568 1616 2812 2819 3422 
+debris Solar_cycle.txt 1 2400 
+elsewhere Solar_cycle.txt 1 2436 
+team Solar_cycle.txt 1 570 
+small Solar_cycle.txt 2 2837 3772 
+outer Solar_cycle.txt 2 2069 2460 
+1390 Solar_cycle.txt 1 839 
+1940s Solar_cycle.txt 1 724 
+noted Solar_cycle.txt 2 456 473 
+290 Solar_cycle.txt 1 788 
+upper Solar_cycle.txt 6 1519 2039 2620 3048 3063 3175 
+smaller Solar_cycle.txt 4 1365 1691 3827 3843 
+18161893 Solar_cycle.txt 1 325 
+periodicity Solar_cycle.txt 2 642 1920 
+309 Solar_cycle.txt 1 904 
+trend Solar_cycle.txt 1 2705 
+prediction Solar_cycle.txt 3 32 982 1705 
+maintain Solar_cycle.txt 1 4142 
+past Solar_cycle.txt 4 706 759 2552 2576 
+10.7 Solar_cycle.txt 2 3246 3368 
+second Solar_cycle.txt 4 81 115 462 1037 
+noise Solar_cycle.txt 1 3348 
+timescales Solar_cycle.txt 1 2914 
+gleissberg Solar_cycle.txt 1 1738 
+estimated Solar_cycle.txt 2 801 2739 
+blue Solar_cycle.txt 1 2226 
+established Solar_cycle.txt 1 576 
+what Solar_cycle.txt 1 1530 
+indicator Solar_cycle.txt 1 3287 
+sunspots Solar_cycle.txt 25 200 322 366 391 438 477 503 603 1068 1095 1122 1127 1157 1195 1256 1303 1356 1390 2178 2849 2865 2901 3981 4026 4041 
+wolfs Solar_cycle.txt 1 402 
+giving Solar_cycle.txt 3 910 1428 3976 
+sun Solar_cycle.txt 10 175 230 262 589 744 1291 1359 3209 3532 4154 
+reaching Solar_cycle.txt 1 3483 
+near Solar_cycle.txt 4 1625 3248 3930 3949 
+expressed Solar_cycle.txt 1 3260 
+current Solar_cycle.txt 4 31 135 990 3811 
+aperiodic Solar_cycle.txt 1 251 
+churned Solar_cycle.txt 1 2192 
+reconstruction Solar_cycle.txt 3 331 685 2544 
+fractional Solar_cycle.txt 1 1300 
+suggesting Solar_cycle.txt 1 2027 
+peak-to-peak Solar_cycle.txt 1 1175 
+method Solar_cycle.txt 1 2374 
+can Solar_cycle.txt 8 983 1249 1512 1724 2282 2297 2536 3602 
+layers Solar_cycle.txt 3 2046 2070 3049 
+degree Solar_cycle.txt 3 2165 2174 2453 
+exchange Solar_cycle.txt 2 650 3910 
+respectively Solar_cycle.txt 1 282 
+pushing Solar_cycle.txt 1 383 
+component Solar_cycle.txt 3 1375 2238 2321 
+sunspot Solar_cycle.txt 36 8 24 34 40 54 73 118 144 289 416 525 628 677 702 1013 1063 1133 1143 1219 1328 1655 1768 1874 1896 1929 1962 2124 2813 2912 3005 3300 3329 3766 3893 3993 4093 
+understanding Solar_cycle.txt 2 1906 3876 
+hypothetical Solar_cycle.txt 1 3758 
+magnetism Solar_cycle.txt 3 259 2176 2754 
+twentieth Solar_cycle.txt 1 2568 
+groups Solar_cycle.txt 3 1193 1220 2814 
+galileo Solar_cycle.txt 1 393 
+ratio Solar_cycle.txt 1 2767 
+101 Solar_cycle.txt 1 1042 
+equations Solar_cycle.txt 1 1871 
+appears Solar_cycle.txt 2 1958 2755 
+change Solar_cycle.txt 2 172 4098 
+105 Solar_cycle.txt 1 1989 
+reversals Solar_cycle.txt 1 621 
+1843 Solar_cycle.txt 1 346 
+involved Solar_cycle.txt 1 2932 
+k Solar_cycle.txt 3 3031 3793 3795 
+larger Solar_cycle.txt 2 121 1676 
+0.32 Solar_cycle.txt 1 3796 
+later Solar_cycle.txt 1 3397 
+regenerated Solar_cycle.txt 1 3510 
+credit Solar_cycle.txt 1 3016 
+amount Solar_cycle.txt 2 2611 3475 
+periodic Solar_cycle.txt 2 170 359 
+products Solar_cycle.txt 2 2210 2520 
+permit Solar_cycle.txt 1 2144 
+action Solar_cycle.txt 1 1462 
+maunder Solar_cycle.txt 3 28 443 448 
+makes Solar_cycle.txt 1 140 
+plotted Solar_cycle.txt 1 1308 
+named Solar_cycle.txt 1 1740 
+via Solar_cycle.txt 1 3404 
+limited Solar_cycle.txt 1 3705 
+modulates Solar_cycle.txt 1 2033 
+11.6 Solar_cycle.txt 1 1049 
+explained Solar_cycle.txt 1 3410 
+marked Solar_cycle.txt 1 701 
+1970s Solar_cycle.txt 1 2643 
+affected Solar_cycle.txt 2 3325 3643 
+visible Solar_cycle.txt 4 1393 1433 2730 2771 
+modulated Solar_cycle.txt 2 1547 2447 
+overplotting Solar_cycle.txt 1 2145 
+2000s Solar_cycle.txt 1 2646 
+names Solar_cycle.txt 1 1670 
+1908 Solar_cycle.txt 1 500 
+broadcasters Solar_cycle.txt 1 3627 
+1906 Solar_cycle.txt 1 158 
+counts Solar_cycle.txt 2 290 678 
+total Solar_cycle.txt 4 1089 2605 2721 3160 
+seventeenth Solar_cycle.txt 2 338 399 
+1900 Solar_cycle.txt 1 819 
+unnamed Solar_cycle.txt 1 1978 
+from Solar_cycle.txt 18 293 886 972 1226 1883 1948 2005 2435 2641 2650 3007 3105 3207 3530 3724 4014 4063 4192 
+indicated Solar_cycle.txt 1 4138 
+failed Solar_cycle.txt 1 3416 
+remains Solar_cycle.txt 1 561 
+carrington Solar_cycle.txt 1 469 
+210 Solar_cycle.txt 1 1936 
+contains Solar_cycle.txt 1 3069 
+eastwest Solar_cycle.txt 1 3984 
+two Solar_cycle.txt 5 536 662 933 940 4170 
+tightly Solar_cycle.txt 1 2159 
+next Solar_cycle.txt 3 298 1761 4055 
+few Solar_cycle.txt 3 437 1576 1587 
+mediate Solar_cycle.txt 1 3760 
+skywave Solar_cycle.txt 3 3555 3556 3610 
+therefore Solar_cycle.txt 1 2354 
+6 Solar_cycle.txt 3 1211 3014 3118 
+inner Solar_cycle.txt 1 2473 
+themselves Solar_cycle.txt 1 1597 
+attempts Solar_cycle.txt 1 3709 
+until Solar_cycle.txt 3 1001 1269 2626 
+today Solar_cycle.txt 2 427 1224 
+more Solar_cycle.txt 6 1151 1156 1560 1732 2403 3058 
+anticorrelation Solar_cycle.txt 1 2486 
+composite Solar_cycle.txt 1 2683 
+becomes Solar_cycle.txt 1 3581 
+operators Solar_cycle.txt 1 3624 
+apparent Solar_cycle.txt 1 1146 
+envelope Solar_cycle.txt 4 2392 4163 4189 4221 
+occurred Solar_cycle.txt 3 733 1620 2589 
+99 Solar_cycle.txt 1 1032 
+effect Solar_cycle.txt 2 1669 3305 
+warm Solar_cycle.txt 1 740 
+8 Solar_cycle.txt 1 947 
+known Solar_cycle.txt 3 440 2276 4001 
+aligned Solar_cycle.txt 1 3983 
+isas Solar_cycle.txt 1 3021 
+96 Solar_cycle.txt 1 2761 
+1991 Solar_cycle.txt 2 3011 3109 
+reconstructed Solar_cycle.txt 1 711 
+rotational Solar_cycle.txt 1 2910 
+locked Solar_cycle.txt 1 2160 
+left Solar_cycle.txt 1 3091 
+1996 Solar_cycle.txt 1 1054 
+this Solar_cycle.txt 24 3 69 80 108 141 452 605 617 1046 1097 1275 1306 1324 1331 1944 2187 2485 2706 2857 3093 3429 3590 3954 4130 
+decay Solar_cycle.txt 2 2180 2209 
+averaged Solar_cycle.txt 2 1069 1381 
+protons Solar_cycle.txt 1 2274 
+forcing Solar_cycle.txt 1 3846 
+sudden Solar_cycle.txt 1 1491 
+values Solar_cycle.txt 1 817 
+22-year Solar_cycle.txt 2 666 3899 
+following Solar_cycle.txt 2 401 1787 
+dwarfs Solar_cycle.txt 2 4136 4176 
+dec Solar_cycle.txt 1 1632 
+example Solar_cycle.txt 3 792 3143 3737 
+history Solar_cycle.txt 4 25 300 304 683 
+2860 Solar_cycle.txt 1 841 
+continuity Solar_cycle.txt 1 1870 
+references Solar_cycle.txt 2 4225 4228 
+weaker Solar_cycle.txt 1 606 
+challenging Solar_cycle.txt 1 3688 
+impacts Solar_cycle.txt 4 2709 3720 3764 3879 
+chernobyl Solar_cycle.txt 1 3439 
+process Solar_cycle.txt 3 585 1316 4081 
+december Solar_cycle.txt 1 1622 
+0.3 Solar_cycle.txt 2 1186 2808 
+double-peaked Solar_cycle.txt 1 1025 
+modes Solar_cycle.txt 2 3557 3611 
+3630 Solar_cycle.txt 1 847 
+high Solar_cycle.txt 6 70 695 749 2212 3326 3634 
+10,000 Solar_cycle.txt 1 2577 
+minimum Solar_cycle.txt 18 29 280 288 295 444 1085 1272 1567 1591 1627 1783 2259 2752 3523 3809 3933 4032 4039 
+caused Solar_cycle.txt 5 1489 2810 2859 2962 3355 
+numbers Solar_cycle.txt 2 703 1875 
+every Solar_cycle.txt 2 1586 3996 
+poleward Solar_cycle.txt 1 2972 
+occur Solar_cycle.txt 3 254 893 1572 
+232 Solar_cycle.txt 1 1991 
+axis Solar_cycle.txt 1 2150 
+terrestrial Solar_cycle.txt 3 1819 3376 3446 
+information Solar_cycle.txt 1 1223 
+x9.0 Solar_cycle.txt 1 1629 
+monitoring Solar_cycle.txt 1 1159 
+varied Solar_cycle.txt 1 2649 
+2300-year Solar_cycle.txt 1 2029 
+buoyant Solar_cycle.txt 1 3960 
+3340 Solar_cycle.txt 1 843 
+exceptional Solar_cycle.txt 1 726 
+damage Solar_cycle.txt 1 2285 
+surpassed Solar_cycle.txt 1 91 
+1 Solar_cycle.txt 2 411 3267 
+how Solar_cycle.txt 1 2224 
+varies Solar_cycle.txt 5 2714 2773 2775 3081 3486 
+occasionally Solar_cycle.txt 1 2515 
+opposite Solar_cycle.txt 2 3986 4075 
+instead Solar_cycle.txt 1 1775 
+schwabe Solar_cycle.txt 4 310 350 1169 1753 
+southern Solar_cycle.txt 1 3752 
+displacements Solar_cycle.txt 1 2973 
+proven Solar_cycle.txt 1 3687 
+1699 Solar_cycle.txt 1 907 
+oscillatory Solar_cycle.txt 3 636 649 3909 
+0.008%/decade Solar_cycle.txt 1 2703 
+de Solar_cycle.txt 1 1941 
+interplanetary Solar_cycle.txt 2 1485 2417 
+whereas Solar_cycle.txt 1 3866 
+influenced Solar_cycle.txt 1 3197 
+may Solar_cycle.txt 3 1053 1980 4147 
+earlier Solar_cycle.txt 2 764 1702 
+derived Solar_cycle.txt 1 2004 
+high-energy Solar_cycle.txt 4 2273 2320 2428 2500 
+diagram Solar_cycle.txt 5 1287 1326 1330 1371 1397 
+produce Solar_cycle.txt 3 1323 2268 3418 
+studies Solar_cycle.txt 1 1950 
+demonstrating Solar_cycle.txt 1 2997 
+waves Solar_cycle.txt 1 3566 
+such Solar_cycle.txt 7 221 1238 1821 2366 2523 2553 2869 
+core Solar_cycle.txt 2 4158 4193 
+wave Solar_cycle.txt 2 3318 3597 
+revealed Solar_cycle.txt 2 529 1163 
+response Solar_cycle.txt 1 1446 
+polarities Solar_cycle.txt 1 3988 
+a Solar_cycle.txt 66 38 151 358 414 434 582 591 613 640 747 822 1024 1071 1088 1129 1132 1164 1174 1188 1228 1270 1311 1514 1575 1578 1609 1729 1765 1790 1904 2028 2269 2332 2351 2356 2371 2465 2543 2633 2702 2826 2984 2987 3004 3027 3035 3156 3183 3232 3243 3275 3303 3433 3521 3535 3659 3789 3826 3898 3999 4071 4097 4156 4161 4186 4199 
+hallstatt Solar_cycle.txt 2 1913 1965 
+dynamical Solar_cycle.txt 1 2107 
+correlate Solar_cycle.txt 2 3702 3711 
+interpolated Solar_cycle.txt 1 2679 
+light Solar_cycle.txt 4 2772 3479 3519 3528 
+corona Solar_cycle.txt 4 1427 1805 2076 3056 
+fraction Solar_cycle.txt 1 3158 
+spectral Solar_cycle.txt 1 3727 
+ionized Solar_cycle.txt 1 3583 
+so Solar_cycle.txt 1 61 
+suggest Solar_cycle.txt 2 775 3783 
+ultraviolet Solar_cycle.txt 7 1500 2769 3042 3075 3477 3518 3527 
+operate Solar_cycle.txt 1 3561 
+order Solar_cycle.txt 1 612 
+wind Solar_cycle.txt 2 2081 2979 
+longest Solar_cycle.txt 1 924 
+chronobiology Solar_cycle.txt 1 3463 
+magnetogram Solar_cycle.txt 1 1242 
+waldmeier Solar_cycle.txt 1 1668 
+september Solar_cycle.txt 2 3013 3117 
+developed Solar_cycle.txt 1 2370 
+over Solar_cycle.txt 14 83 128 587 689 697 704 1070 1382 1982 2591 2716 3083 3384 3492 
+move Solar_cycle.txt 1 1262 
+mission Solar_cycle.txt 4 2334 2347 2353 3019 
+ejecta Solar_cycle.txt 1 2415 
+years Solar_cycle.txt 25 130 275 354 541 645 691 699 708 736 761 790 805 888 905 916 948 1050 1974 1984 1997 2023 2043 2056 2578 2991 
+produced Solar_cycle.txt 3 1459 2340 2694 
+131 Solar_cycle.txt 1 1990 
+including Solar_cycle.txt 4 26 178 1121 1934 
+motions Solar_cycle.txt 1 1449 
+2001 Solar_cycle.txt 2 3015 3119 
+japan Solar_cycle.txt 1 3022 
+uvb Solar_cycle.txt 2 3478 3544 
+boreal Solar_cycle.txt 1 741 
+its Solar_cycle.txt 8 545 1430 2066 2082 2699 2725 3931 3950 
+galaxy Solar_cycle.txt 1 2439 
+before Solar_cycle.txt 1 542 
+observational Solar_cycle.txt 1 299 
+25 Solar_cycle.txt 2 953 970 
+equator Solar_cycle.txt 1 1268 
+group Solar_cycle.txt 4 1342 1405 2669 2698 
+21 Solar_cycle.txt 1 2118 
+22 Solar_cycle.txt 4 540 644 2119 3115 
+23 Solar_cycle.txt 3 1044 2121 3125 
+temporal Solar_cycle.txt 1 2153 
+28 Solar_cycle.txt 1 899 
+decreases Solar_cycle.txt 2 1181 2318 
+5620 Solar_cycle.txt 1 859 
+late Solar_cycle.txt 2 48 2631 
+1370 Solar_cycle.txt 1 2653 
+detected Solar_cycle.txt 2 1810 2489 
+complex Solar_cycle.txt 2 1439 3599 
+systems Solar_cycle.txt 1 2980 
+convective Solar_cycle.txt 3 4162 4188 4220 
+400 Solar_cycle.txt 2 22 3491 
+latitude Solar_cycle.txt 1 1370 
+covered Solar_cycle.txt 1 647 
+a.k.a Solar_cycle.txt 1 1940 
+main Solar_cycle.txt 7 302 1101 1141 1416 2600 3553 3887 
+2011 Solar_cycle.txt 1 1034 
+2010 Solar_cycle.txt 3 1003 1774 1776 
+2013 Solar_cycle.txt 2 51 60 
+2012 Solar_cycle.txt 1 101 
+eventually Solar_cycle.txt 3 382 2179 2215 
+designs Solar_cycle.txt 1 2348 
+mechanisms Solar_cycle.txt 2 2202 3759 
+greater Solar_cycle.txt 1 1716 
+re-enter Solar_cycle.txt 1 2402 
+entire Solar_cycle.txt 1 1358 
+wolfgang Solar_cycle.txt 1 1742 
+material Solar_cycle.txt 1 190 
+collide Solar_cycle.txt 1 2506 
+investigated Solar_cycle.txt 1 3461 
+primary Solar_cycle.txt 3 1527 2759 2903 
+records Solar_cycle.txt 2 774 1017 
+hale Solar_cycle.txt 2 495 4004 
+effects Solar_cycle.txt 6 232 2112 2941 3353 3391 3775 
+they Solar_cycle.txt 7 205 518 593 2887 3341 4140 4197 
+half Solar_cycle.txt 2 463 3896 
+not Solar_cycle.txt 8 669 820 1469 1599 3066 3408 3441 3858 
+rotation Solar_cycle.txt 3 1385 3944 4058 
+now Solar_cycle.txt 2 90 1532 
+euv Solar_cycle.txt 4 3043 3077 3138 3168 
+day Solar_cycle.txt 1 1579 
+above Solar_cycle.txt 3 2235 3045 3865 
+represents Solar_cycle.txt 1 3274 
+february Solar_cycle.txt 2 100 156 
+profound Solar_cycle.txt 1 3178 
+edit Solar_cycle.txt 33 265 301 684 951 954 988 1045 1100 1128 1415 1643 1919 2060 2113 2115 2177 2261 2263 2409 2596 2599 2983 3205 3379 3447 3449 3552 3669 3886 4224 4226 4229 4232 
+january Solar_cycle.txt 2 995 1058 
+astronauts Solar_cycle.txt 2 2330 2361 
+5260 Solar_cycle.txt 1 855 
+7310 Solar_cycle.txt 1 871 
+sufficiently Solar_cycle.txt 1 3421 
+7520 Solar_cycle.txt 1 873 
+magnitude Solar_cycle.txt 4 732 977 1366 3836 
+toroidal Solar_cycle.txt 7 656 3914 3938 3970 4017 4034 4068 
+luminosity Solar_cycle.txt 4 1162 1172 1180 2736 
+2,241 Solar_cycle.txt 1 1996 
+0.037%/decade Solar_cycle.txt 1 2685 
+1750 Solar_cycle.txt 1 1020 
+decreasing Solar_cycle.txt 1 1722 
+side Solar_cycle.txt 1 2383 
+homogeneous Solar_cycle.txt 1 3067 
+reactions Solar_cycle.txt 1 2518 
+mdi Solar_cycle.txt 1 1241 
+significantly Solar_cycle.txt 1 3194 
+hales Solar_cycle.txt 1 527 
+undetectable Solar_cycle.txt 1 2625 
+series Solar_cycle.txt 3 2634 2688 2700 
+energy Solar_cycle.txt 8 652 1496 2104 2615 2927 3912 4012 4061 
+hard Solar_cycle.txt 1 2507 
+communication Solar_cycle.txt 2 3551 3560 
+related Solar_cycle.txt 1 2096 
+7030 Solar_cycle.txt 1 1794 
+88 Solar_cycle.txt 1 2022 
+extended Solar_cycle.txt 1 319 
+2,500 Solar_cycle.txt 1 2055 
+year Solar_cycle.txt 5 23 1735 1737 1912 1937 
+ionosphere Solar_cycle.txt 4 3196 3367 3571 3580 
+galactic Solar_cycle.txt 3 1657 2312 2405 
+beyond Solar_cycle.txt 1 513 
+suggested Solar_cycle.txt 1 4210 
+event Solar_cycle.txt 2 454 2368 
+out Solar_cycle.txt 1 329 
+canada Solar_cycle.txt 1 3750 
+stands Solar_cycle.txt 2 1634 2570 
+shown Solar_cycle.txt 1 821 
+occurrence Solar_cycle.txt 1 1537 
+10.7cm Solar_cycle.txt 1 2128 
+network Solar_cycle.txt 2 2824 2878 
+1715 Solar_cycle.txt 1 433 
+space Solar_cycle.txt 11 234 1234 1346 1409 1486 1522 1534 2260 2333 2399 2418 
+spectrum Solar_cycle.txt 1 3639 
+quantify Solar_cycle.txt 2 1877 3690 
+since Solar_cycle.txt 8 146 818 880 1015 2563 3061 3833 4196 
+research Solar_cycle.txt 4 565 919 3699 4127 
+increase Solar_cycle.txt 3 1202 2961 3343 
+modulation Solar_cycle.txt 1 1750 
+settle Solar_cycle.txt 1 2529 
+health Solar_cycle.txt 1 3473 
+amplitude Solar_cycle.txt 4 890 1176 1749 2786 
+120.8 Solar_cycle.txt 1 1080 
+electronics Solar_cycle.txt 2 2287 2304 
+induced Solar_cycle.txt 1 3444 
+cause Solar_cycle.txt 5 231 2283 2298 2514 2760 
+u.s Solar_cycle.txt 1 3742 
+shows Solar_cycle.txt 2 1650 2701 
+harold Solar_cycle.txt 1 572 
+after Solar_cycle.txt 9 352 445 1320 1741 1779 3008 3106 3432 3438 
+risen Solar_cycle.txt 1 3870 
+beryllium-10 Solar_cycle.txt 1 1814 
+castile Solar_cycle.txt 1 2050 
+11.04 Solar_cycle.txt 1 915 
+correspondingly Solar_cycle.txt 1 4037 
+million Solar_cycle.txt 2 789 2042 
+horaces Solar_cycle.txt 1 630 
+little Solar_cycle.txt 1 1952 
+isotope Solar_cycle.txt 1 1849 
+standard Solar_cycle.txt 1 415 
+babcock Solar_cycle.txt 3 575 631 3900 
+formation Solar_cycle.txt 2 2051 3428 
+brightest Solar_cycle.txt 1 1639 
+trends Solar_cycle.txt 2 1723 2840 
+earliest Solar_cycle.txt 1 388 
+beginning Solar_cycle.txt 2 721 1051 
+temperature Solar_cycle.txt 4 3028 3198 3716 3804 
+2010s Solar_cycle.txt 1 3856 
+definition Solar_cycle.txt 1 264 
+pairs Solar_cycle.txt 3 526 3979 3994 
+created Solar_cycle.txt 2 413 2047 
+sorces Solar_cycle.txt 1 3726 
+flare Solar_cycle.txt 2 1630 2132 
+latitudes Solar_cycle.txt 3 481 1396 2214 
+cosmic Solar_cycle.txt 13 1658 2279 2313 2406 2429 2455 2468 2491 2501 3381 3394 3405 3588 
+days Solar_cycle.txt 2 1092 1588 
+horace Solar_cycle.txt 1 574 
+times Solar_cycle.txt 3 1435 1559 1577 
+colder Solar_cycle.txt 1 3738 
+length Solar_cycle.txt 2 795 913 
+w Solar_cycle.txt 1 3270 
+signature Solar_cycle.txt 1 1388 
+consequence Solar_cycle.txt 1 2466 
+global Solar_cycle.txt 5 3682 3715 3803 3831 3867 
+rudolf Solar_cycle.txt 2 323 367 
+f10.7 Solar_cycle.txt 2 3229 3257 
+frequent Solar_cycle.txt 1 1561 
+first Solar_cycle.txt 8 96 111 124 455 508 611 896 1029 
+reversing Solar_cycle.txt 1 2216 
+number Solar_cycle.txt 12 41 55 74 119 196 364 417 1064 1066 1769 2125 4029 
+reaches Solar_cycle.txt 1 2253 
+one Solar_cycle.txt 5 294 937 1585 1636 2658 
+production Solar_cycle.txt 3 2934 2965 3401 
+featured Solar_cycle.txt 1 1023 
+general Solar_cycle.txt 1 4227 
+simplified Solar_cycle.txt 1 4089 
+approximately Solar_cycle.txt 1 1972 
+another Solar_cycle.txt 1 2687 
+reached Solar_cycle.txt 3 56 1031 1274 
+researched Solar_cycle.txt 1 451 
+size Solar_cycle.txt 4 139 198 1555 1593 
+earths Solar_cycle.txt 12 240 1199 1518 2343 2395 2497 2504 2532 2619 3174 3548 3778 
+given Solar_cycle.txt 1 1554 
+marine Solar_cycle.txt 1 3618 
+suess Solar_cycle.txt 2 1938 1956 
+similarly Solar_cycle.txt 1 748 
+leading Solar_cycle.txt 2 1479 2966 
+top Solar_cycle.txt 1 1885 
+14530 Solar_cycle.txt 1 1772 
+system Solar_cycle.txt 3 2434 2462 2475 
+least Solar_cycle.txt 2 68 785 
+0.05 Solar_cycle.txt 2 1207 2817 
+208-year Solar_cycle.txt 1 2035 
+their Solar_cycle.txt 3 1686 2534 4182 
+ionospheric Solar_cycle.txt 2 3350 3648 
+detectable Solar_cycle.txt 2 2839 3774 
+0.08 Solar_cycle.txt 1 3794 
+observations Solar_cycle.txt 12 320 356 375 389 528 881 1832 1897 2628 3431 3437 4133 
+aiding Solar_cycle.txt 1 1704 
+scheme Solar_cycle.txt 1 404 
+structures Solar_cycle.txt 6 1425 1443 1476 2065 2862 2926 
+smoothed Solar_cycle.txt 5 39 53 72 1062 1767 
+gives Solar_cycle.txt 1 37 
+relies Solar_cycle.txt 1 2376 
+excellent Solar_cycle.txt 1 3286 
+storm Solar_cycle.txt 3 1835 2358 3436 
+relationship Solar_cycle.txt 2 1166 1652 
+that Solar_cycle.txt 36 502 520 530 577 595 604 616 776 898 922 936 1619 1673 1759 1785 1866 1895 2032 2375 2423 2528 2556 2580 2592 2879 3400 3601 3640 3731 3784 3816 3821 4073 4139 4190 4211 
+wavelength Solar_cycle.txt 2 3213 3244 
+relative Solar_cycle.txt 1 2726 
+emit Solar_cycle.txt 1 3057 
+direct Solar_cycle.txt 1 1165 
+1919 Solar_cycle.txt 1 517 
+employ Solar_cycle.txt 1 1867 
+assumption Solar_cycle.txt 1 4131 
+dynamo-cycle Solar_cycle.txt 1 3932 
+stratospheric Solar_cycle.txt 3 2968 2976 3187 
+diminish Solar_cycle.txt 1 4027 
+peculiar Solar_cycle.txt 1 453 
+quantity Solar_cycle.txt 1 2139 
+radionuclides Solar_cycle.txt 1 2522 
+11 Solar_cycle.txt 1 274 
+observed Solar_cycle.txt 10 138 208 594 1074 1873 2000 3099 3130 3141 3253 
+6400 Solar_cycle.txt 1 867 
+john Solar_cycle.txt 1 1138 
+14 Solar_cycle.txt 1 148 
+showed Solar_cycle.txt 3 501 519 921 
+double Solar_cycle.txt 1 105 
+marshall Solar_cycle.txt 2 1345 1408 
+1978 Solar_cycle.txt 1 2632 
+tree Solar_cycle.txt 1 1826 
+photospheric Solar_cycle.txt 2 2753 2918 
+hz Solar_cycle.txt 1 3272 
+5710 Solar_cycle.txt 1 861 
+reconstructing Solar_cycle.txt 1 376 
+future Solar_cycle.txt 1 2346 
+historical Solar_cycle.txt 2 330 825 
+were Solar_cycle.txt 4 504 767 2624 2637 
+dynamo Solar_cycle.txt 5 1461 3885 3890 3903 3958 
+negatively Solar_cycle.txt 1 1696 
+19891991 Solar_cycle.txt 1 2672 
+and Solar_cycle.txt 106 88 137 186 191 197 202 215 238 278 287 370 373 394 432 470 496 573 615 655 877 908 1035 1055 1083 1123 1171 1201 1236 1260 1264 1297 1314 1336 1399 1454 1501 1521 1524 1543 1660 1708 1721 1784 1806 1813 1825 1828 1851 1872 1890 1900 1995 2009 2015 2021 2068 2077 2106 2120 2131 2191 2196 2227 2252 2288 2526 2579 2723 2731 2815 2821 2872 2911 2935 2970 2977 3023 3044 3055 3068 3078 3169 3189 3199 3293 3319 3349 3420 3587 3619 3625 3647 3672 3696 3743 3746 3751 3781 3808 3915 4025 4045 4085 4146 4164 4180 
+bridge Solar_cycle.txt 1 1838 
+1.7 Solar_cycle.txt 1 1087 
+julian Solar_cycle.txt 1 16 
+modern Solar_cycle.txt 2 1332 1855 
+emits Solar_cycle.txt 1 3034 
+worcester Solar_cycle.txt 1 1140 
+auroras Solar_cycle.txt 1 223 
+stratosphere Solar_cycle.txt 1 3506 
+medium Solar_cycle.txt 2 2014 3317 
+nonradiative Solar_cycle.txt 1 3279 
+have Solar_cycle.txt 19 206 268 709 884 931 943 1009 1513 1764 1789 1808 1860 1998 2140 2588 2939 3388 3468 4137 
+seen Solar_cycle.txt 3 218 1251 2122 
+concentration Solar_cycle.txt 2 2535 3539 
+x-class Solar_cycle.txt 1 1617 
+clearly Solar_cycle.txt 2 1392 2488 
+contents Solar_cycle.txt 1 263 
+ray Solar_cycle.txt 5 2407 2456 2469 2492 3382 
+geomagnetic Solar_cycle.txt 2 1834 1898 
+traditionally Solar_cycle.txt 1 409 
+output Solar_cycle.txt 1 3653 
+efficient Solar_cycle.txt 1 2425 
+climate Solar_cycle.txt 7 2710 3668 3683 3697 3722 3763 3779 
+agency Solar_cycle.txt 1 1235 
+1961 Solar_cycle.txt 1 567 
+also Solar_cycle.txt 10 253 892 1710 2296 3324 3342 3719 3851 4141 4223 
+causing Solar_cycle.txt 1 2397 
+take Solar_cycle.txt 1 1681 
+which Solar_cycle.txt 6 113 149 422 1837 2100 3905 
+attempted Solar_cycle.txt 1 3700 
+photosphere Solar_cycle.txt 6 1149 2186 2856 2886 3033 3975 
+10-day Solar_cycle.txt 1 1189 
+conductivity Solar_cycle.txt 1 3201 
+quadrupolar Solar_cycle.txt 1 3939 
+butterfly Solar_cycle.txt 3 1286 1329 1387 
+even Solar_cycle.txt 2 2847 3150 
+play Solar_cycle.txt 2 255 3825 
+towards Solar_cycle.txt 1 79 
+relatively Solar_cycle.txt 1 4043 
+permian Solar_cycle.txt 2 799 2040 
+trace Solar_cycle.txt 1 3148 
+index Solar_cycle.txt 5 418 421 2126 2133 3230 
+track Solar_cycle.txt 1 1007 
+208 Solar_cycle.txt 1 2020 
+4230 Solar_cycle.txt 1 851 
+who Solar_cycle.txt 4 351 449 498 2335 
+reach Solar_cycle.txt 2 1685 3546 
+overdensities Solar_cycle.txt 1 2420 
+most Solar_cycle.txt 2 3642 3814 
+7-10-day Solar_cycle.txt 1 2827 
+near-space Solar_cycle.txt 1 1665 
+significant Solar_cycle.txt 4 889 1515 3070 3389 
+successive Solar_cycle.txt 1 1383 
+phase Solar_cycle.txt 5 1604 2162 2777 2951 4011 
+chromosphere Solar_cycle.txt 1 3054 
+occupy Solar_cycle.txt 1 3630 
+measured Solar_cycle.txt 3 2538 3801 3835 
+the Solar_cycle.txt 318 7 11 15 27 30 47 52 62 71 84 92 95 110 114 123 134 142 159 168 174 181 195 212 226 229 236 245 261 297 315 337 340 362 377 387 397 405 419 428 442 461 465 474 486 488 507 514 521 531 557 562 568 578 588 596 623 627 634 648 661 665 679 705 716 723 727 739 743 758 770 777 786 793 797 903 923 939 967 989 1010 1021 1028 1036 1060 1076 1084 1106 1118 1135 1144 1148 1168 1198 1221 1232 1240 1244 1267 1281 1284 1290 1298 1315 1327 1340 1357 1373 1377 1386 1403 1421 1426 1451 1464 1526 1536 1549 1592 1603 1606 1614 1638 1651 1654 1661 1667 1671 1699 1733 1752 1755 1760 1780 1786 1804 1839 1843 1846 1852 1878 1884 1887 1892 1928 1935 1955 1960 1964 2034 2038 2049 2061 2072 2075 2079 2098 2103 2110 2134 2147 2164 2185 2205 2217 2220 2225 2232 2236 2240 2247 2257 2306 2308 2319 2338 2342 2381 2384 2391 2394 2410 2432 2438 2440 2449 2452 2459 2467 2472 2479 2496 2531 2550 2557 2564 2567 2572 2575 2604 2610 2618 2642 2645 2660 2662 2667 2670 2696 2717 2734 2744 2749 2758 2766 2779 2798 2803 2822 2854 2876 2884 2891 2896 2902 2916 2942 2975 2998 3017 3032 3040 3051 3062 3073 3084 3086 3090 3101 3111 3121 3132 3145 3163 3173 3208 3222 3228 3235 3249 3252 3313 3344 3359 3366 3380 3385 3450 3453 3474 3484 3493 3500 3505 3512 3524 3531 3538 3547 3570 3573 3576 3579 3592 3595 3633 3655 3662 3691 3717 3725 3741 3765 3777 3810 3818 3834 3845 3855 3862 3873 3891 3923 3946 3957 3963 3969 3974 3989 4003 4007 4015 4021 4033 4046 4054 4064 4067 4077 4080 4100 4103 4109 4117 4121 4153 4166 4172 4219 
+appear Solar_cycle.txt 1 1257 
+so-called Solar_cycle.txt 1 1285 
+episode Solar_cycle.txt 1 772 
+richard Solar_cycle.txt 1 468 
+low-orbiting Solar_cycle.txt 1 2398 
+montage Solar_cycle.txt 2 2988 3088 
+average Solar_cycle.txt 9 270 363 912 1574 2792 2804 2855 2885 3802 
+sometimes Solar_cycle.txt 2 1474 2275 
+upset Solar_cycle.txt 1 2300 
+questioned Solar_cycle.txt 1 4129 
+yohkoh Solar_cycle.txt 3 2994 3018 3104 
+trapped Solar_cycle.txt 1 3220 
+soho Solar_cycle.txt 2 1227 3146 
+nuclear Solar_cycle.txt 1 2516 
+warming Solar_cycle.txt 2 3832 3868 
+link Solar_cycle.txt 1 3692 
+nineteenth Solar_cycle.txt 1 466 
+maxima Solar_cycle.txt 3 1687 1707 2868 
+typically Solar_cycle.txt 1 671 
+then Solar_cycle.txt 1 1261 
+came Solar_cycle.txt 1 831 
+400-year Solar_cycle.txt 1 1961 
+shielding Solar_cycle.txt 1 2339 
+incorporate Solar_cycle.txt 1 2355 
+atmosphere Solar_cycle.txt 10 237 1520 1889 2067 2396 2505 2621 3053 3064 3176 
+otherwise Solar_cycle.txt 1 3872 
+particularly Solar_cycle.txt 1 3311 
+phenomenon Solar_cycle.txt 1 4000 
+show Solar_cycle.txt 5 674 2052 2836 3442 3730 
+german Solar_cycle.txt 1 312 
+definite Solar_cycle.txt 1 981 
+0.1 Solar_cycle.txt 3 1179 2789 3770 
+ending Solar_cycle.txt 1 1056 
+discovered Solar_cycle.txt 2 314 344 
+bright Solar_cycle.txt 2 2823 2877 
+radio Solar_cycle.txt 13 2129 3203 3212 3237 3255 3309 3550 3559 3565 3596 3623 3638 4132 
+greenhouse Solar_cycle.txt 1 3849 
+earth Solar_cycle.txt 3 220 515 3485 
+longer Solar_cycle.txt 1 1926 
+data Solar_cycle.txt 3 1850 1857 2692 
+indicate Solar_cycle.txt 1 2555 
+theorized Solar_cycle.txt 1 3679 
+impact Solar_cycle.txt 4 1516 3164 3357 3451 
+o Solar_cycle.txt 1 3515 
+690 Solar_cycle.txt 1 833 
+hathaway/nasa/msfc Solar_cycle.txt 1 2233 
+based Solar_cycle.txt 3 714 962 2689 
+proposed Solar_cycle.txt 2 1933 2011 
+northern Solar_cycle.txt 1 3744 
+hf Solar_cycle.txt 1 3637 
+gases Solar_cycle.txt 1 3850 
+produces Solar_cycle.txt 1 3735 
+proportion Solar_cycle.txt 1 3036 
+state Solar_cycle.txt 2 547 1662 
+elucidated Solar_cycle.txt 1 493 
+than Solar_cycle.txt 13 122 769 946 1565 1688 1717 1927 2748 2853 2864 2883 3844 3860 
+terminal Solar_cycle.txt 1 2750 
+brighter Solar_cycle.txt 2 2742 2881 
+only Solar_cycle.txt 3 755 3153 4216 
+version Solar_cycle.txt 1 1333 
+accounts Solar_cycle.txt 1 3154 
+molecules Solar_cycle.txt 1 3516 
+constituents Solar_cycle.txt 1 2512 
+8,000 Solar_cycle.txt 1 698 
+constant Solar_cycle.txt 1 2800 
+regional Solar_cycle.txt 1 3721 
+regularly Solar_cycle.txt 2 1337 1400 
+peaked Solar_cycle.txt 1 106 
+dominant Solar_cycle.txt 1 246 
+fossil Solar_cycle.txt 1 773 
+10 Solar_cycle.txt 2 756 3269 
+compiled Solar_cycle.txt 1 369 
+connections Solar_cycle.txt 1 3470 
+samuel Solar_cycle.txt 2 308 348 
+overall Solar_cycle.txt 3 2480 2558 3289 
+fluid Solar_cycle.txt 1 1448 
+rings Solar_cycle.txt 1 1827 
+nearly Solar_cycle.txt 2 169 550 
+closely Solar_cycle.txt 1 2095 
+during Solar_cycle.txt 17 738 796 1075 1096 2037 2315 2365 2387 2743 2866 2955 3003 3520 3572 3754 4006 4053 
+spallation Solar_cycle.txt 1 2517 
+exhibit Solar_cycle.txt 1 1711 
+father-and-son Solar_cycle.txt 1 569 
+stability Solar_cycle.txt 1 1478 
+evolution Solar_cycle.txt 1 257 
+increasing Solar_cycle.txt 1 1720 
+bar Solar_cycle.txt 1 1313 
+17 Solar_cycle.txt 1 353 
+fields Solar_cycle.txt 7 512 1802 2222 2229 3224 3919 4145 
+differential Solar_cycle.txt 2 3943 4057 
+isotopes Solar_cycle.txt 2 1816 1902 
+european Solar_cycle.txt 1 1233 
+w/m Solar_cycle.txt 2 2654 2797 
+predicted Solar_cycle.txt 1 136 
+though Solar_cycle.txt 2 2848 3151 
+activity Solar_cycle.txt 34 165 177 250 334 688 696 720 753 807 830 1000 1014 1111 1836 1899 1909 1923 2116 2484 2547 2562 2584 2782 2954 3002 3291 3301 3330 3677 3713 3853 4152 4206 4214 
+release Solar_cycle.txt 1 1493 
+through Solar_cycle.txt 5 318 2074 3569 3942 3973 
+cycles Solar_cycle.txt 26 103 267 291 489 538 673 883 900 934 950 1649 1674 1689 1703 1719 1781 1916 1918 1987 2003 2053 2117 2379 2957 4009 4149 
+where Solar_cycle.txt 1 1243 
+cells Solar_cycle.txt 1 2290 
+twelve-month Solar_cycle.txt 1 1072 
+view Solar_cycle.txt 1 1200 
+large-scale Solar_cycle.txt 4 2198 4105 4123 4143 
+centimetric Solar_cycle.txt 1 3211 
+seu Solar_cycle.txt 1 2301 
+mid-latitudes Solar_cycle.txt 1 1259 
+could Solar_cycle.txt 2 3372 3407 
+exists Solar_cycle.txt 1 4191 
+variability Solar_cycle.txt 1 3734 
+3940 Solar_cycle.txt 1 849 
+undergoes Solar_cycle.txt 2 619 1360 
+66.9 Solar_cycle.txt 1 98 
+turbulent Solar_cycle.txt 1 2194 
+notice Solar_cycle.txt 1 2223 
+up Solar_cycle.txt 2 1209 2806 
+detection Solar_cycle.txt 1 509 
+collectively Solar_cycle.txt 1 2888 
+see Solar_cycle.txt 5 18 2829 3462 3864 4222 
+actively Solar_cycle.txt 1 1152 
+lack Solar_cycle.txt 2 4177 4198 
+are Solar_cycle.txt 25 104 126 553 668 956 1155 1292 1353 1525 1556 1613 1695 2094 2158 2336 2424 2809 2850 2880 3129 3323 3354 3641 3678 4042 
+calendar Solar_cycle.txt 2 17 21 
+outward Solar_cycle.txt 1 2411 
+best Solar_cycle.txt 2 1222 1278 
+reproduced Solar_cycle.txt 1 1863 
+closer Solar_cycle.txt 2 1263 1265 
+radiates Solar_cycle.txt 1 1150 
+still Solar_cycle.txt 1 4202 
+vertical Solar_cycle.txt 2 2135 2149 
+ways Solar_cycle.txt 1 3600 
+pattern Solar_cycle.txt 1 1276 
+currently Solar_cycle.txt 1 127 
+wikipedia Solar_cycle.txt 1 2 
+dipole Solar_cycle.txt 2 614 618 
+fission Solar_cycle.txt 1 2519 
+tend Solar_cycle.txt 1 1679 
+nucleation Solar_cycle.txt 1 3412 
+halves Solar_cycle.txt 1 663 
+outside Solar_cycle.txt 2 601 2337 
+smallest Solar_cycle.txt 1 143 
+various Solar_cycle.txt 2 1112 2087 
+markedly Solar_cycle.txt 2 3082 3871 
+between Solar_cycle.txt 10 430 653 906 1167 1653 1842 2675 3693 3805 3913 
+0.18 Solar_cycle.txt 1 3792 
+consecutive Solar_cycle.txt 1 2378 
+boundary Solar_cycle.txt 1 4167 
+numerous Solar_cycle.txt 1 2900 
+across Solar_cycle.txt 2 1197 2655 
+360 Solar_cycle.txt 1 835 
+emissions Solar_cycle.txt 1 3299 
+faculae Solar_cycle.txt 3 1215 2820 2871 
+24 Solar_cycle.txt 3 36 133 987 
+we Solar_cycle.txt 1 125 
+acrimsat Solar_cycle.txt 1 2663 
+august Solar_cycle.txt 3 59 3009 3107 
+extend Solar_cycle.txt 2 1970 1981 
+e.g Solar_cycle.txt 1 2349 
+commercial Solar_cycle.txt 1 3617 
+role Solar_cycle.txt 1 3828 
+2023 Solar_cycle.txt 2 1796 2958 
+weak Solar_cycle.txt 1 974 
+however Solar_cycle.txt 3 548 3046 4174 
+interfere Solar_cycle.txt 1 3373 
+continuously Solar_cycle.txt 2 3509 4084 
+incident Solar_cycle.txt 1 2616 
+385 Solar_cycle.txt 1 1992 
+recent Solar_cycle.txt 4 918 949 3838 4126 
+fluctuations Solar_cycle.txt 2 252 1712 
+tropospheric Solar_cycle.txt 1 2978 
+article Solar_cycle.txt 8 4 303 1102 1142 1417 2601 3554 3888 
+users Solar_cycle.txt 1 3629 
+electrical Solar_cycle.txt 1 3200 
+suppressed Solar_cycle.txt 1 2583 
+declining Solar_cycle.txt 1 4010 
+monitor Solar_cycle.txt 1 3729 
+1645 Solar_cycle.txt 1 431 
+both Solar_cycle.txt 2 2719 3670 
+collaborators Solar_cycle.txt 1 497 
+vhf Solar_cycle.txt 1 3321 
+last Solar_cycle.txt 3 85 728 787 
+reverse Solar_cycle.txt 1 2230 
+brown Solar_cycle.txt 2 4135 4175 
+many Solar_cycle.txt 2 102 957 
+tsi Solar_cycle.txt 11 2127 2152 2608 2622 2647 2764 2774 2830 2834 2841 2906 
+non-overlapping Solar_cycle.txt 1 2676 
+heating Solar_cycle.txt 2 2969 3282 
+called Solar_cycle.txt 1 1533 
+regions Solar_cycle.txt 1 3227 
+propagation Solar_cycle.txt 2 3335 3593 
+s Solar_cycle.txt 1 176 
+manifestations Solar_cycle.txt 2 204 552 
+usable Solar_cycle.txt 3 1847 3657 3665 
+long-term Solar_cycle.txt 1 3671 
+tachoclines Solar_cycle.txt 1 4181 
+whole Solar_cycle.txt 1 592 
+comes Solar_cycle.txt 1 1225 
+albeit Solar_cycle.txt 1 1363 
+minima Solar_cycle.txt 3 827 1709 3756 
+adjusted Solar_cycle.txt 1 2142 
+key Solar_cycle.txt 1 4118 
+timescale Solar_cycle.txt 2 1190 2828 
+point Solar_cycle.txt 2 1612 3955 
+reasons Solar_cycle.txt 1 1468 
+seems Solar_cycle.txt 1 928 
+cmes Solar_cycle.txt 1 2264 
+period Solar_cycle.txt 9 429 625 692 729 742 813 1073 2031 2036 
+proton Solar_cycle.txt 1 2294 
+height Solar_cycle.txt 1 2949 
+active Solar_cycle.txt 3 2873 2923 3226 
+acrim Solar_cycle.txt 4 2668 2673 2682 2691 
+spans Solar_cycle.txt 1 535 
+carbon Solar_cycle.txt 1 2012 
+69 Solar_cycle.txt 1 45 
+actually Solar_cycle.txt 1 929 
+alternates Solar_cycle.txt 1 3995 
+10.62 Solar_cycle.txt 1 804 
+graphics Solar_cycle.txt 1 2832 
+three Solar_cycle.txt 3 1615 1647 3757 
+described Solar_cycle.txt 1 633 
+basis Solar_cycle.txt 1 491 
+monthly Solar_cycle.txt 1 1065 
+poloidal Solar_cycle.txt 6 654 3916 3925 4023 4047 4065 
+due Solar_cycle.txt 4 1213 3215 3496 3847 
+been Solar_cycle.txt 13 76 207 710 781 932 1809 1861 1932 1999 2141 3460 4113 4209 
+quickly Solar_cycle.txt 1 2404 
+magnetized Solar_cycle.txt 4 506 600 2208 2861 
+much Solar_cycle.txt 4 1184 1205 3489 3842 
+interest Solar_cycle.txt 1 3615 
+mars Solar_cycle.txt 1 2352 
+504 Solar_cycle.txt 1 1993 
+extreme Solar_cycle.txt 1 3041 
+walter Solar_cycle.txt 1 447 
+engine Solar_cycle.txt 1 2108 
+concentrated Solar_cycle.txt 1 1354 
+generating Solar_cycle.txt 1 4120 
+flight Solar_cycle.txt 2 1347 1410 
+ranging Solar_cycle.txt 1 971 
+f Solar_cycle.txt 2 3797 3799 
+received Solar_cycle.txt 1 3529 
+quantities Solar_cycle.txt 1 2157 
+sufficient Solar_cycle.txt 1 3419 
+releasing Solar_cycle.txt 1 2181 
+c Solar_cycle.txt 1 2525 
+gap Solar_cycle.txt 2 1841 2674 
+implied Solar_cycle.txt 1 1758 
+gleiberg Solar_cycle.txt 2 1743 2369 
+2014 Solar_cycle.txt 1 1040 
+improved Solar_cycle.txt 1 3333 
+convergent Solar_cycle.txt 1 1905 
+former Solar_cycle.txt 1 2111 
+present Solar_cycle.txt 3 771 812 979 
+case Solar_cycle.txt 1 1610 
+high-activity Solar_cycle.txt 1 765 
+atmospheric Solar_cycle.txt 5 2511 2595 2940 2945 3390 
+these Solar_cycle.txt 14 372 384 926 1475 1509 1595 1858 2200 2281 2921 3352 3628 3645 4169 
+variances Solar_cycle.txt 1 3649 
+ejection Solar_cycle.txt 3 187 1414 1420 
+appearance Solar_cycle.txt 2 192 214 
+value Solar_cycle.txt 1 2793 
+refracting Solar_cycle.txt 1 3564 
+will Solar_cycle.txt 1 65 
+while Solar_cycle.txt 2 242 1349 
+sxt Solar_cycle.txt 1 2995 
+eclipses Solar_cycle.txt 1 1438 
+launched Solar_cycle.txt 2 2638 2665 
+at Solar_cycle.txt 36 67 479 482 746 784 978 1041 1258 1343 1355 1394 1406 1434 1450 1562 1566 1580 1589 1713 2211 2256 2305 2426 2495 2844 3110 3120 3210 3242 3480 3920 3953 4030 4038 4050 4165 
+2,300 Solar_cycle.txt 2 1911 1973 
+8220 Solar_cycle.txt 1 875 
+layer Solar_cycle.txt 1 3503 
+studied Solar_cycle.txt 1 371 
+winters Solar_cycle.txt 2 3739 3748 
+gnevyshev-ohl Solar_cycle.txt 1 680 
+century Solar_cycle.txt 5 339 400 467 1730 2569 
+almost Solar_cycle.txt 1 762 
+molecular Solar_cycle.txt 1 2510 
+is Solar_cycle.txt 57 5 109 167 244 408 439 581 599 609 725 800 814 1005 1273 1277 1304 1307 1317 1334 1391 1531 1545 1744 1946 1967 2170 2189 2327 2446 2476 2487 2609 2693 2737 2842 2858 2915 3065 3177 3182 3214 3231 3258 3284 3508 3612 3820 3841 3882 3895 3929 3948 4036 4049 4074 4171 4215 
+it Solar_cycle.txt 10 243 646 894 1004 1429 3152 3273 3283 3685 4207 
+surface Solar_cycle.txt 11 241 598 1147 1246 1301 1453 2175 2498 2533 3549 4195 
+middle Solar_cycle.txt 1 2565 
+unit Solar_cycle.txt 1 3240 
+vs Solar_cycle.txt 2 1368 2729 
+converts Solar_cycle.txt 1 4059 
+centennial Solar_cycle.txt 1 1798 
+in Solar_cycle.txt 86 46 58 99 112 117 155 173 180 194 211 233 235 248 345 361 396 460 499 516 566 722 810 1019 1033 1038 1052 1057 1134 1280 1445 1463 1472 1611 1621 1773 1795 1800 1803 1818 1959 1985 2048 2123 2161 2168 2184 2231 2291 2437 2458 2471 2490 2539 2630 2720 2724 2776 2929 2933 2950 2974 3000 3039 3131 3191 3221 3261 3426 3499 3504 3526 3537 3598 3651 3675 3740 3749 3800 3829 3854 3861 3956 4028 4086 4099 4218 
+claimed Solar_cycle.txt 1 3399 
+march Solar_cycle.txt 1 1081 
+convection Solar_cycle.txt 2 2195 3964 
+68.9 Solar_cycle.txt 1 57 
+increased Solar_cycle.txt 3 2385 3360 3543 
+result Solar_cycle.txt 1 3425 
+different Solar_cycle.txt 3 480 483 964 
+lengths Solar_cycle.txt 1 1700 
+media Solar_cycle.txt 1 256 
+began Solar_cycle.txt 4 882 993 1018 2629 
+radiation Solar_cycle.txt 15 185 1503 2270 2284 2314 2326 2982 3038 3060 3139 3162 3171 3193 3364 3568 
+5870 Solar_cycle.txt 1 3030 
+same Solar_cycle.txt 3 624 2148 2307 
+any Solar_cycle.txt 2 1553 3443 
+shorter Solar_cycle.txt 1 768 
+shifts Solar_cycle.txt 1 4013 
+6220 Solar_cycle.txt 1 865 
+parts Solar_cycle.txt 1 484 
+potentially Solar_cycle.txt 1 3387 
+grand Solar_cycle.txt 1 826 
+damon Solar_cycle.txt 1 2008 
+success Solar_cycle.txt 1 3706 
+constructed Solar_cycle.txt 2 1335 1398 
+epochs Solar_cycle.txt 1 2581 
+events Solar_cycle.txt 5 808 1596 2295 2302 2445 
+higher Solar_cycle.txt 5 675 2843 2963 3337 3859 
+evolve Solar_cycle.txt 1 1444 
+satellite Solar_cycle.txt 4 1158 1856 2627 3103 
+used Solar_cycle.txt 1 426 
+centuries Solar_cycle.txt 1 225 
+1950s Solar_cycle.txt 1 3863 
+cloud Solar_cycle.txt 1 3427 
+driver Solar_cycle.txt 2 2904 3185 
+sprer Solar_cycle.txt 2 459 471 
+flows Solar_cycle.txt 1 2199 
+driven Solar_cycle.txt 1 1114 
+levels Solar_cycle.txt 5 182 2548 3292 3327 3345 
+spanned Solar_cycle.txt 1 902 
+changing Solar_cycle.txt 1 2451 
+strength Solar_cycle.txt 5 2255 3934 3952 4040 4052 
+11,400 Solar_cycle.txt 3 690 707 760 
+ranged Solar_cycle.txt 1 885 
+cycle Solar_cycle.txt 75 1 9 13 20 35 132 145 147 161 166 317 342 378 407 487 534 560 580 629 667 682 779 794 952 969 986 992 1022 1043 1047 1078 1098 1108 1120 1170 1254 1550 1608 1656 1739 1754 1757 1763 1788 1930 1939 1943 1945 1957 1966 1979 2099 2450 2718 2783 2913 2986 3006 3085 3114 3124 3386 3455 3495 3578 3718 3767 3894 3904 3959 3998 4005 4056 4079 4094 
+numbered Solar_cycle.txt 1 410 
+lower Solar_cycle.txt 1 676 
+center Solar_cycle.txt 2 1348 1411 
+upwelling Solar_cycle.txt 1 3961 
+possibly Solar_cycle.txt 1 2001 
+changes Solar_cycle.txt 11 179 193 210 217 227 1352 1362 2907 2928 3383 3650 
+no Solar_cycle.txt 2 980 1094 
+well Solar_cycle.txt 3 1505 2025 3295 
+roughly Solar_cycle.txt 1 3982 
+entering Solar_cycle.txt 2 2431 2503 
+accumulation Solar_cycle.txt 1 2206 
+thought Solar_cycle.txt 3 897 1745 4114 
+patterns Solar_cycle.txt 1 1642 
+64.2 Solar_cycle.txt 1 154 
+historic Solar_cycle.txt 1 1831 
+chronicles Solar_cycle.txt 1 1136 
+components Solar_cycle.txt 1 2727 
+swiss Solar_cycle.txt 1 326 
+model Solar_cycle.txt 1 632 
+chemistry Solar_cycle.txt 1 3188 
+drawing Solar_cycle.txt 1 1130 
+805 Solar_cycle.txt 2 1091 1994 
+5990 Solar_cycle.txt 1 863 
+bending Solar_cycle.txt 1 3563 
+summer Solar_cycle.txt 1 49 
+just Solar_cycle.txt 1 1778 
+less Solar_cycle.txt 3 945 1682 2899 
+hypothesized Solar_cycle.txt 2 1917 1968 
+percent Solar_cycle.txt 1 2741 
+accurate Solar_cycle.txt 1 1016 
+numbering Solar_cycle.txt 1 403 
+forecasting Solar_cycle.txt 2 2373 3608 
+sources Solar_cycle.txt 1 2007 
+shape Solar_cycle.txt 1 1432 
+stored Solar_cycle.txt 1 1817 
+distant Solar_cycle.txt 1 2551 
+human Solar_cycle.txt 1 3472 
+followed Solar_cycle.txt 1 3707 
+scattering Solar_cycle.txt 2 2427 2457 
+yet Solar_cycle.txt 3 1470 1977 4201 
+previous Solar_cycle.txt 1 4078 
+radiometers Solar_cycle.txt 1 2636 
+claim Solar_cycle.txt 1 3466 
+cm Solar_cycle.txt 2 3247 3369 
+flares Solar_cycle.txt 5 201 1488 1544 1551 1618 
+satellites Solar_cycle.txt 6 2292 2640 2657 2661 2677 3149 
+scenario Solar_cycle.txt 1 4090 
+photons Solar_cycle.txt 1 3586 
+scales Solar_cycle.txt 2 1715 2136 
+had Solar_cycle.txt 5 150 901 941 1093 3869 
+17891875 Solar_cycle.txt 1 311 
+source Solar_cycle.txt 1 2105 
+internal Solar_cycle.txt 2 3937 4016 
+4 Solar_cycle.txt 1 996 
+overview Solar_cycle.txt 1 1645 
+1361.5 Solar_cycle.txt 1 2796 
+overcompensate Solar_cycle.txt 1 2889 
+has Solar_cycle.txt 13 75 89 780 920 1931 3302 3459 3686 3771 4111 4128 4155 4208 
+plasma Solar_cycle.txt 3 2422 3219 3281 
+divided Solar_cycle.txt 1 1293 
+identical Solar_cycle.txt 1 670 
+radiocarbon Solar_cycle.txt 3 811 1949 2030 
+gustav Solar_cycle.txt 1 458 
+insensitive Solar_cycle.txt 1 554 
+around Solar_cycle.txt 4 734 832 2246 2790 
+loss Solar_cycle.txt 1 2936 
+bands Solar_cycle.txt 2 3315 3339 
+showing Solar_cycle.txt 2 1894 2684 
+point-to-point Solar_cycle.txt 1 3375 
+results Solar_cycle.txt 1 3415 
+4330 Solar_cycle.txt 1 853 
+corresponds Solar_cycle.txt 2 3906 4095 
+early Solar_cycle.txt 5 398 798 1002 1039 3698 
+interior Solar_cycle.txt 1 1466 
+increases Solar_cycle.txt 1 3190 
+monthly-averaged Solar_cycle.txt 1 1299 
+five Solar_cycle.txt 2 86 129 
+sonett Solar_cycle.txt 1 2010 
+shortwave Solar_cycle.txt 2 3314 3626 
+using Solar_cycle.txt 4 712 1811 1830 1864 
+emergence Solar_cycle.txt 3 1455 1879 3967 
+gleisberg Solar_cycle.txt 1 1756 
+carbon-14 Solar_cycle.txt 3 713 1812 1986 
+vertically Solar_cycle.txt 1 1309 
+rotate Solar_cycle.txt 1 1196 
+appearing Solar_cycle.txt 1 478 
+0.07 Solar_cycle.txt 1 2740 
+particle Solar_cycle.txt 1 2323 
+systematically Solar_cycle.txt 1 2715 
+splitting Solar_cycle.txt 1 3513 
+signal Solar_cycle.txt 1 3334 
+50 Solar_cycle.txt 1 1558 
+serves Solar_cycle.txt 1 2101 
+units Solar_cycle.txt 1 3266 
+ozone Solar_cycle.txt 5 2938 2964 3502 3507 3541 
+flux Solar_cycle.txt 19 1458 1869 1882 2130 2183 2188 2271 2310 2324 2408 2470 2493 3080 3133 3181 3204 3238 3265 3371 
+continue Solar_cycle.txt 1 1725 
+either Solar_cycle.txt 1 3603 
+lose Solar_cycle.txt 1 1477 
+time-series Solar_cycle.txt 1 1325 
+decrease Solar_cycle.txt 2 3525 3536 
+downward Solar_cycle.txt 1 2704 
+solar-cycle Solar_cycle.txt 1 3921 
+soft Solar_cycle.txt 1 3096 
+reduced Solar_cycle.txt 1 2309 
+organisms Solar_cycle.txt 2 3448 3458 
+because Solar_cycle.txt 2 549 1105 
+often Solar_cycle.txt 2 958 3259 
+surrounded Solar_cycle.txt 1 4159 
+do Solar_cycle.txt 2 3440 3824 
+affects Solar_cycle.txt 1 3591 
+30 Solar_cycle.txt 3 2943 3010 3108 
+successfully Solar_cycle.txt 1 1862 
+phenomena Solar_cycle.txt 7 475 1099 1104 1116 1511 2090 2093 
+back Solar_cycle.txt 3 335 379 4062 
+japanese Solar_cycle.txt 1 3102 
+understood Solar_cycle.txt 1 1471 
+astronomer Solar_cycle.txt 2 313 327 
+ejections Solar_cycle.txt 5 1126 1483 1542 1571 2267 
+warmer Solar_cycle.txt 1 3747 
+rise Solar_cycle.txt 2 2686 3977 
+duration Solar_cycle.txt 1 271 
+matching Solar_cycle.txt 1 2002 
+transport Solar_cycle.txt 1 2201 
+770 Solar_cycle.txt 1 837 
+consensus Solar_cycle.txt 1 3813 
+mid-cycle Solar_cycle.txt 1 2745 
+amongst Solar_cycle.txt 1 2571 
+for Solar_cycle.txt 21 10 33 224 754 783 791 966 1208 1467 1726 1971 2109 2137 2350 2360 2890 3095 3142 3155 3666 3736 
+communications Solar_cycle.txt 5 3310 3377 3607 3621 3667 
+electromagnetic Solar_cycle.txt 1 3567 
+measurements Solar_cycle.txt 3 2494 2648 3723 
+recorded Solar_cycle.txt 3 809 1012 1947 
+extensively Solar_cycle.txt 1 450 
+ice Solar_cycle.txt 2 1823 2540 
+shelter Solar_cycle.txt 1 2359 
+does Solar_cycle.txt 1 1598 
+deficit Solar_cycle.txt 1 2893 
+provides Solar_cycle.txt 1 2419 
+914 Solar_cycle.txt 1 887 
+hotter Solar_cycle.txt 2 2882 3047 
+moderate Solar_cycle.txt 1 976 
+minimal Solar_cycle.txt 1 999 
+refer Solar_cycle.txt 1 281 
+hinder Solar_cycle.txt 1 3606 
+be Solar_cycle.txt 11 66 425 803 984 1250 1747 2527 2537 2757 3409 4116 
+specifically Solar_cycle.txt 1 3815 
+sfu Solar_cycle.txt 2 3262 3268 
+radial Solar_cycle.txt 1 1374 
+scientific Solar_cycle.txt 1 3812 
+bc Solar_cycle.txt 22 836 838 840 842 844 846 848 850 852 854 856 858 860 862 864 866 868 870 872 874 876 879 
+300 Solar_cycle.txt 1 3481 
+each Solar_cycle.txt 3 1253 2138 4091 
+photo Solar_cycle.txt 1 3087 
+expansion Solar_cycle.txt 1 2412 
+6,000 Solar_cycle.txt 1 1983 
+pressure Solar_cycle.txt 1 2946 
+display Solar_cycle.txt 2 4148 4203 
+0.045%/decade Solar_cycle.txt 1 2707 
+protective Solar_cycle.txt 1 3501 
+although Solar_cycle.txt 4 1951 3316 3340 4108 
+found Solar_cycle.txt 1 3469 
+major Solar_cycle.txt 3 3184 3304 3434 
+includes Solar_cycle.txt 1 3430 
+by Solar_cycle.txt 35 209 216 347 392 457 494 1182 1203 1339 1402 1460 1490 1548 1829 2193 2341 2448 2666 2680 2695 2811 2818 2860 3100 3144 3356 3411 3487 3511 3517 3562 3584 3644 3708 4160 
+on Solar_cycle.txt 35 219 228 239 260 815 963 994 1006 1187 1517 1573 1602 1631 1640 2146 2303 2331 2377 2380 2530 2617 2639 2690 2825 2908 3172 3306 3312 3336 3365 3456 3661 3776 3880 4083 
+about Solar_cycle.txt 10 6 44 273 1178 1771 1793 2788 2795 2802 3393 
+hidden Solar_cycle.txt 1 4234 
+rare Solar_cycle.txt 1 4044 
+carried Solar_cycle.txt 1 328 
+increasingly Solar_cycle.txt 1 3582 
+3500 Solar_cycle.txt 1 845 
+of Solar_cycle.txt 166 14 43 50 94 153 157 183 188 199 258 272 285 305 321 332 355 365 390 436 464 476 485 510 524 564 571 602 643 651 664 686 693 718 730 751 757 824 828 914 925 938 1067 1090 1131 1137 1139 1160 1177 1194 1231 1283 1289 1302 1364 1372 1376 1389 1436 1456 1494 1499 1529 1539 1552 1594 1605 1637 1646 1663 1701 1728 1751 1770 1792 1833 1845 1854 1880 1886 1907 1921 1954 1988 2018 2054 2155 2166 2207 2219 2239 2249 2272 2311 2322 2393 2413 2421 2442 2454 2482 2545 2560 2566 2574 2582 2585 2612 2635 2659 2762 2768 2787 2794 2805 2816 2875 2905 2920 2937 2989 2993 3020 3029 3037 3050 3113 3123 3134 3159 3165 3186 3234 3245 3251 3277 3288 3328 3346 3358 3362 3402 3452 3476 3514 3540 3558 3575 3594 3609 3613 3769 3791 3817 3837 3875 3877 3897 3911 3968 3980 3992 4102 4134 4150 4168 4185 
+months Solar_cycle.txt 2 87 1212 
+radiation-shielded Solar_cycle.txt 1 2357 
+generated Solar_cycle.txt 2 3941 4217 
+quasi-steady Solar_cycle.txt 1 641 
+mutually Solar_cycle.txt 1 959 
+carries Solar_cycle.txt 1 4082 
+wolf Solar_cycle.txt 4 324 368 412 420 
+positive Solar_cycle.txt 1 2382 
+or Solar_cycle.txt 9 162 539 1487 1731 3137 3147 3263 3605 3636 
+sensitively Solar_cycle.txt 1 1601 
+allowing Solar_cycle.txt 2 2542 3542 
+equally Solar_cycle.txt 1 694 
+sheets Solar_cycle.txt 1 1824 
+enough Solar_cycle.txt 1 2508 
+radiative Solar_cycle.txt 3 2614 4157 4178 
+into Solar_cycle.txt 7 131 1294 1484 1891 2078 2416 2549 
+within Solar_cycle.txt 3 3632 3945 3962 
+color-coded Solar_cycle.txt 1 1312 
+predictions Solar_cycle.txt 1 961 
+down Solar_cycle.txt 1 1583 
+240 Solar_cycle.txt 1 2041 
+right Solar_cycle.txt 1 816 
+rising Solar_cycle.txt 1 77 
+primarily Solar_cycle.txt 1 3216 
+cycle-related Solar_cycle.txt 1 3127 
+single-event Solar_cycle.txt 1 2299 
+methods Solar_cycle.txt 1 965 
+17551766 Solar_cycle.txt 1 406 
+span Solar_cycle.txt 2 292 2594 
+accelerator Solar_cycle.txt 1 3414 
+17841799 Solar_cycle.txt 1 927 
+there Solar_cycle.txt 2 955 1154 
+long Solar_cycle.txt 2 3307 4112 
+noticed Solar_cycle.txt 1 357 
+short-wavelength Solar_cycle.txt 2 2981 3059 
+start Solar_cycle.txt 1 1853 
+accordingly Solar_cycle.txt 1 2463 
+heliosphere Solar_cycle.txt 2 1807 1893 
+low Solar_cycle.txt 3 1395 3320 3883 
+way Solar_cycle.txt 1 2073 
+cooperative Solar_cycle.txt 1 1229 
+researchers Solar_cycle.txt 1 3465 
+was Solar_cycle.txt 11 120 343 492 745 895 1079 1086 1777 2664 2678 3857 
+ten Solar_cycle.txt 2 2656 2990 
+lowest Solar_cycle.txt 1 1011 
+project Solar_cycle.txt 1 1230 
+mineral Solar_cycle.txt 1 2045 
+dendroclimatology Solar_cycle.txt 1 715 
+amateur Solar_cycle.txt 1 3622 
+complete Solar_cycle.txt 1 532 
+form Solar_cycle.txt 1 1282 
+offer Solar_cycle.txt 1 1903 
+aircraft Solar_cycle.txt 1 3620 
+some Solar_cycle.txt 4 1557 2173 2499 3464 
+uv Solar_cycle.txt 9 2728 2930 2959 3076 3136 3167 3180 3298 3733 
+19962013 Solar_cycle.txt 1 2763 
+but Solar_cycle.txt 8 107 917 2163 2838 2898 3684 3773 3935 
+idealized Solar_cycle.txt 1 4088 
+repeated Solar_cycle.txt 1 1318 
+rays Solar_cycle.txt 7 1659 2280 2430 2502 3395 3406 3589 
+repeatedly Solar_cycle.txt 1 2590 
+solar Solar_cycle.txt 141 0 19 160 163 184 189 249 266 276 279 306 316 333 341 537 559 579 597 657 687 719 778 806 829 968 991 1026 1077 1103 1107 1115 1119 1161 1245 1271 1341 1369 1378 1384 1404 1422 1437 1452 1465 1563 1581 1590 1607 1626 1648 1706 1718 1762 1782 1888 1908 1914 1922 2057 2080 2089 2092 2114 2197 2213 2241 2250 2258 2278 2289 2293 2316 2388 2414 2433 2443 2461 2474 2483 2546 2561 2597 2602 2606 2613 2712 2735 2746 2751 2780 2799 2845 2867 2909 2924 2953 2956 2985 3001 3074 3135 3161 3166 3179 3202 3236 3254 3264 3290 3297 3347 3363 3370 3435 3454 3494 3522 3577 3585 3646 3652 3676 3694 3712 3732 3755 3761 3785 3806 3822 3839 3852 3878 3884 3889 3902 3917 3997 4008 4031 4212 
+highest Solar_cycle.txt 2 2573 3663 
+with Solar_cycle.txt 23 622 639 998 1173 1217 1675 1690 1924 2478 2509 2778 2784 2895 2952 3026 3296 3374 3471 3704 3714 3788 3985 4070 
+considerable Solar_cycle.txt 1 3614 
+heinrich Solar_cycle.txt 2 309 349 
+observation Solar_cycle.txt 2 307 1672 
+begins Solar_cycle.txt 1 1255 
+made Solar_cycle.txt 1 985 
+characteristic Solar_cycle.txt 1 1431 
+latitudinal Solar_cycle.txt 1 1295 
+official Solar_cycle.txt 1 63 
+variations Solar_cycle.txt 15 891 1799 1859 1910 2017 2084 2154 2623 2801 2835 3128 3498 3674 3762 3823 
+maximum Solar_cycle.txt 23 42 64 152 277 286 1027 1061 1564 1582 1677 1693 1766 1791 2251 2317 2389 2747 2846 3656 3807 3922 3951 4051 
+us Solar_cycle.txt 1 3025 
+lead Solar_cycle.txt 3 2085 2203 3331 
+record Solar_cycle.txt 2 1641 1963 
+frequency Solar_cycle.txt 7 1538 2441 3241 3338 3635 3658 3664 
+limit Solar_cycle.txt 1 3660 
+reflects Solar_cycle.txt 1 1109 
+disturbances Solar_cycle.txt 1 3351 
+1745 Solar_cycle.txt 1 381 
+radiatively Solar_cycle.txt 1 2922 
+similar Solar_cycle.txt 2 731 3126 
+calculated Solar_cycle.txt 1 1305 
+x-ray Solar_cycle.txt 4 1502 3079 3097 3170 
+darker Solar_cycle.txt 1 2851 
+strongly Solar_cycle.txt 2 505 1546 
+unfolding Solar_cycle.txt 1 586 
+dangerous Solar_cycle.txt 1 2328 
+associated Solar_cycle.txt 3 1216 1797 2894 
+ad Solar_cycle.txt 1 834 
+links Solar_cycle.txt 1 4231 
+m Solar_cycle.txt 1 3271 
+9170 Solar_cycle.txt 1 878 
+measure Solar_cycle.txt 2 3233 3276 
+strips Solar_cycle.txt 1 1296 
+an Solar_cycle.txt 15 269 911 1628 1644 1748 1975 2367 2681 2738 2785 2791 3285 3908 3936 4087 
+images Solar_cycle.txt 2 1288 2996 
+as Solar_cycle.txt 29 222 441 590 626 1183 1185 1204 1206 1239 1252 1310 1504 1506 1635 1822 1976 2024 2026 2102 2151 2277 2464 2524 2870 3098 3140 3488 3490 4002 
+reservoirs Solar_cycle.txt 1 1820 
+periods Solar_cycle.txt 5 284 766 1727 1925 2019 
+our Solar_cycle.txt 1 1664 
+correlation Solar_cycle.txt 1 2167 
+physical Solar_cycle.txt 1 490 
+again Solar_cycle.txt 1 78 
+camp Solar_cycle.txt 1 3780 
+nm Solar_cycle.txt 1 3482 
+tachocline Solar_cycle.txt 4 3947 4110 4173 4200 
+ingredients Solar_cycle.txt 1 660 
+pmod Solar_cycle.txt 1 2697 
+drivers Solar_cycle.txt 1 1528 
+when Solar_cycle.txt 2 1153 1191 
+detail Solar_cycle.txt 1 1473 
+87 Solar_cycle.txt 1 1734 
+end Solar_cycle.txt 1 1844 
+field Solar_cycle.txt 22 608 638 659 1248 1351 1380 1424 1442 2059 2064 2243 2345 3928 3940 3972 4019 4024 4035 4048 4069 4107 4125 
+other Solar_cycle.txt 6 203 374 2006 2091 2732 2863 
+5 Solar_cycle.txt 1 1633 
+papers Solar_cycle.txt 1 3398 
+dipolar Solar_cycle.txt 2 2237 3926 
+2006 Solar_cycle.txt 1 1623 
+hpa Solar_cycle.txt 1 2944 
+short-term Solar_cycle.txt 2 2016 3673 
+reverses Solar_cycle.txt 1 2244 
+contemporaries Solar_cycle.txt 1 395 
+polar Solar_cycle.txt 1 2221 
+europe Solar_cycle.txt 2 3745 3753 
+elements Solar_cycle.txt 1 2874 
+energetic Solar_cycle.txt 1 1507 
+living Solar_cycle.txt 1 3457 
+models Solar_cycle.txt 2 1865 2711 
+durations Solar_cycle.txt 1 2587 
+distance Solar_cycle.txt 1 3308 
+variation Solar_cycle.txt 10 360 1915 2765 2831 2999 3094 3695 3768 3790 3840 
+emission Solar_cycle.txt 3 1498 3206 3256 
+meaning Solar_cycle.txt 1 935 
+coronal Solar_cycle.txt 10 1124 1412 1418 1440 1481 1540 1569 2265 3218 3280 
+peak Solar_cycle.txt 8 82 97 116 1030 2254 3112 3122 3250 
+coverage Solar_cycle.txt 1 2919 
+solar-like Solar_cycle.txt 2 4187 4204 
+variable Solar_cycle.txt 2 247 2171 
+dispersed Solar_cycle.txt 1 2190 
+structure Solar_cycle.txt 2 3072 4183 
+ago Solar_cycle.txt 3 700 737 2044 
+ipcc Solar_cycle.txt 1 3819 
+independently Solar_cycle.txt 1 472 
+correlated Solar_cycle.txt 1 1697 
+driving Solar_cycle.txt 2 1497 3830 
+0.14 Solar_cycle.txt 1 3798 
+vries Solar_cycle.txt 1 1942 
+changed Solar_cycle.txt 1 2948 
+lasted Solar_cycle.txt 2 944 1048 
+rule Solar_cycle.txt 1 681 
+2000 Solar_cycle.txt 1 1082 
+nasa Solar_cycle.txt 4 1237 1344 1407 3024 
+mass Solar_cycle.txt 7 1125 1413 1419 1482 1541 1570 2266 
+1360 Solar_cycle.txt 1 2651 
+time Solar_cycle.txt 7 435 1367 1683 1714 1840 2248 2593 
+cores Solar_cycle.txt 2 2541 4179 
+2008 Solar_cycle.txt 3 909 997 1059 
+70100 Solar_cycle.txt 1 1736 
+expands Solar_cycle.txt 1 2390 
+original Solar_cycle.txt 1 546 
+external Solar_cycle.txt 3 3924 4022 4230 

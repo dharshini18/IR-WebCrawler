@@ -1,0 +1,373 @@
+all Lunar_meteorite.txt 7 182 310 381 610 690 706 734 
+gr Lunar_meteorite.txt 1 665 
+astronauts Lunar_meteorite.txt 1 805 
+nwa Lunar_meteorite.txt 1 679 
+go Lunar_meteorite.txt 1 340 
+research Lunar_meteorite.txt 1 753 
+crater Lunar_meteorite.txt 2 268 295 
+to Lunar_meteorite.txt 12 30 72 86 242 348 407 564 567 725 778 788 804 
+program Lunar_meteorite.txt 3 65 117 713 
+sent Lunar_meteorite.txt 1 85 
+supported Lunar_meteorite.txt 2 495 622 
+uhaymir Lunar_meteorite.txt 1 288 
+1993 Lunar_meteorite.txt 1 843 
+every Lunar_meteorite.txt 1 581 
+vast Lunar_meteorite.txt 1 592 
+governments Lunar_meteorite.txt 1 751 
+large Lunar_meteorite.txt 1 3 
+speculation Lunar_meteorite.txt 2 279 473 
+japanese Lunar_meteorite.txt 2 121 742 
+past Lunar_meteorite.txt 2 320 330 
+likely Lunar_meteorite.txt 2 449 777 
+sayh Lunar_meteorite.txt 1 286 
+even Lunar_meteorite.txt 1 791 
+established Lunar_meteorite.txt 2 218 303 
+unavailable Lunar_meteorite.txt 1 828 
+sun Lunar_meteorite.txt 1 363 
+19th Lunar_meteorite.txt 1 604 
+intersect Lunar_meteorite.txt 1 372 
+scientists Lunar_meteorite.txt 4 122 560 607 650 
+new Lunar_meteorite.txt 1 562 
+falling Lunar_meteorite.txt 1 612 
+ever Lunar_meteorite.txt 2 773 779 
+succumb Lunar_meteorite.txt 1 347 
+contrast Lunar_meteorite.txt 1 417 
+meteorites Lunar_meteorite.txt 17 148 184 231 247 271 312 421 446 478 492 519 585 595 611 647 682 736 
+kilometers Lunar_meteorite.txt 1 261 
+i.e Lunar_meteorite.txt 1 160 
+search Lunar_meteorite.txt 1 568 
+auction Lunar_meteorite.txt 1 839 
+oman Lunar_meteorite.txt 2 202 687 
+30 Lunar_meteorite.txt 1 156 
+leaving Lunar_meteorite.txt 1 334 
+millimetres Lunar_meteorite.txt 1 669 
+diameter Lunar_meteorite.txt 1 263 
+africa Lunar_meteorite.txt 2 197 685 
+private Lunar_meteorite.txt 4 656 701 789 830 
+highly Lunar_meteorite.txt 1 282 
+brought Lunar_meteorite.txt 1 109 
+privately Lunar_meteorite.txt 1 660 
+total Lunar_meteorite.txt 1 173 
+from Lunar_meteorite.txt 15 111 234 250 291 315 354 452 464 485 506 536 572 597 617 636 
+links Lunar_meteorite.txt 1 856 
+would Lunar_meteorite.txt 1 527 
+positive Lunar_meteorite.txt 1 488 
+century Lunar_meteorite.txt 1 605 
+few Lunar_meteorite.txt 1 260 
+asteroid Lunar_meteorite.txt 1 599 
+therefore Lunar_meteorite.txt 1 641 
+themselves Lunar_meteorite.txt 1 815 
+today Lunar_meteorite.txt 2 577 621 
+more Lunar_meteorite.txt 3 154 176 432 
+ejected Lunar_meteorite.txt 2 314 353 
+landed Lunar_meteorite.txt 1 392 
+transient Lunar_meteorite.txt 1 46 
+known Lunar_meteorite.txt 3 9 29 103 
+cases Lunar_meteorite.txt 1 794 
+outdated Lunar_meteorite.txt 1 655 
+sample Lunar_meteorite.txt 2 98 450 
+none Lunar_meteorite.txt 2 203 771 
+this Lunar_meteorite.txt 3 526 533 703 
+theories Lunar_meteorite.txt 2 632 653 
+remain Lunar_meteorite.txt 1 366 
+believed Lunar_meteorite.txt 1 608 
+making Lunar_meteorite.txt 1 255 
+example Lunar_meteorite.txt 1 448 
+history Lunar_meteorite.txt 2 302 575 
+impacts Lunar_meteorite.txt 2 254 500 
+cited Lunar_meteorite.txt 1 849 
+purposes Lunar_meteorite.txt 2 692 756 
+states Lunar_meteorite.txt 1 719 
+united Lunar_meteorite.txt 1 718 
+provide Lunar_meteorite.txt 1 430 
+six Lunar_meteorite.txt 1 382 
+chemical Lunar_meteorite.txt 1 224 
+brian Lunar_meteorite.txt 1 93 
+minority Lunar_meteorite.txt 1 626 
+may Lunar_meteorite.txt 1 552 
+after Lunar_meteorite.txt 1 333 
+orbits Lunar_meteorite.txt 1 360 
+such Lunar_meteorite.txt 1 652 
+derives Lunar_meteorite.txt 1 290 
+a Lunar_meteorite.txt 11 21 25 36 45 67 129 259 431 587 625 659 
+subsequently Lunar_meteorite.txt 1 404 
+mission Lunar_meteorite.txt 1 415 
+years Lunar_meteorite.txt 4 119 323 332 542 
+held Lunar_meteorite.txt 1 748 
+lb Lunar_meteorite.txt 1 181 
+interesting Lunar_meteorite.txt 1 530 
+destroyed Lunar_meteorite.txt 1 545 
+81005 Lunar_meteorite.txt 1 83 
+categories Lunar_meteorite.txt 2 858 860 
+2017 Lunar_meteorite.txt 1 144 
+eventually Lunar_meteorite.txt 2 346 371 
+them Lunar_meteorite.txt 1 730 
+propose Lunar_meteorite.txt 1 561 
+100,000 Lunar_meteorite.txt 1 331 
+material Lunar_meteorite.txt 1 451 
+they Lunar_meteorite.txt 1 125 
+half Lunar_meteorite.txt 1 443 
+now Lunar_meteorite.txt 1 79 
+edit Lunar_meteorite.txt 8 51 244 380 576 658 846 848 857 
+january Lunar_meteorite.txt 1 53 
+classified Lunar_meteorite.txt 1 43 
+identified Lunar_meteorite.txt 1 275 
+rocks Lunar_meteorite.txt 6 108 505 571 698 707 814 
+4483 Lunar_meteorite.txt 1 680 
+found Lunar_meteorite.txt 6 14 66 187 193 207 482 
+allan Lunar_meteorite.txt 1 81 
+shown Lunar_meteorite.txt 2 308 406 
+space Lunar_meteorite.txt 1 368 
+mason Lunar_meteorite.txt 1 94 
+newly Lunar_meteorite.txt 1 583 
+million Lunar_meteorite.txt 1 322 
+possibility Lunar_meteorite.txt 1 515 
+prospector Lunar_meteorite.txt 1 414 
+retained Lunar_meteorite.txt 1 810 
+could Lunar_meteorite.txt 1 503 
+442,500 Lunar_meteorite.txt 1 841 
+noble-gas Lunar_meteorite.txt 1 305 
+south Lunar_meteorite.txt 1 211 
+first Lunar_meteorite.txt 1 462 
+origin Lunar_meteorite.txt 1 216 
+thereafter Lunar_meteorite.txt 1 76 
+owned Lunar_meteorite.txt 1 661 
+one Lunar_meteorite.txt 1 579 
+tektites Lunar_meteorite.txt 1 634 
+antarctic Lunar_meteorite.txt 1 743 
+earths Lunar_meteorite.txt 2 349 374 
+given Lunar_meteorite.txt 2 781 801 
+ancient Lunar_meteorite.txt 1 570 
+similarly Lunar_meteorite.txt 1 733 
+leading Lunar_meteorite.txt 1 57 
+john Lunar_meteorite.txt 1 55 
+that Lunar_meteorite.txt 13 27 69 96 124 280 309 402 474 479 498 507 609 633 
+season Lunar_meteorite.txt 1 138 
+190 Lunar_meteorite.txt 1 178 
+representing Lunar_meteorite.txt 1 153 
+than Lunar_meteorite.txt 4 155 177 439 539 
+positively Lunar_meteorite.txt 1 274 
+11 Lunar_meteorite.txt 1 662 
+16 Lunar_meteorite.txt 1 824 
+older Lunar_meteorite.txt 1 538 
+nations Lunar_meteorite.txt 1 724 
+ansmet Lunar_meteorite.txt 1 64 
+were Lunar_meteorite.txt 4 313 390 616 836 
+and Lunar_meteorite.txt 12 105 198 226 232 345 376 428 639 686 741 754 806 
+antarctica Lunar_meteorite.txt 3 61 140 195 
+have Lunar_meteorite.txt 7 31 149 185 191 204 307 553 
+any Lunar_meteorite.txt 1 101 
+contents Lunar_meteorite.txt 1 49 
+u.s Lunar_meteorite.txt 4 728 740 762 786 
+genuine Lunar_meteorite.txt 1 798 
+gravity Lunar_meteorite.txt 1 350 
+also Lunar_meteorite.txt 6 127 511 631 642 827 845 
+which Lunar_meteorite.txt 3 388 543 726 
+finding Lunar_meteorite.txt 1 517 
+sultanate Lunar_meteorite.txt 1 200 
+moonrocks Lunar_meteorite.txt 3 770 800 819 
+towards Lunar_meteorite.txt 1 613 
+falls Lunar_meteorite.txt 1 159 
+most Lunar_meteorite.txt 7 190 245 324 337 606 649 816 
+america Lunar_meteorite.txt 2 210 212 
+isotopic Lunar_meteorite.txt 1 228 
+observation Lunar_meteorite.txt 1 574 
+eject Lunar_meteorite.txt 1 504 
+later Lunar_meteorite.txt 1 120 
+treaty Lunar_meteorite.txt 1 747 
+normally Lunar_meteorite.txt 1 42 
+stones Lunar_meteorite.txt 2 164 535 
+phenomenon Lunar_meteorite.txt 1 48 
+random Lunar_meteorite.txt 1 423 
+discovered Lunar_meteorite.txt 3 151 468 584 
+earth Lunar_meteorite.txt 8 243 344 494 518 537 547 573 615 
+impact Lunar_meteorite.txt 1 294 
+deserts Lunar_meteorite.txt 1 189 
+northern Lunar_meteorite.txt 1 196 
+should Lunar_meteorite.txt 1 640 
+only Lunar_meteorite.txt 3 623 694 757 
+identification Lunar_meteorite.txt 1 489 
+get Lunar_meteorite.txt 1 357 
+dc Lunar_meteorite.txt 1 88 
+during Lunar_meteorite.txt 2 134 709 
+processes Lunar_meteorite.txt 1 551 
+where Lunar_meteorite.txt 1 89 
+available Lunar_meteorite.txt 1 699 
+reference Lunar_meteorite.txt 1 852 
+see Lunar_meteorite.txt 1 844 
+nearside Lunar_meteorite.txt 2 299 396 
+are Lunar_meteorite.txt 12 165 248 422 510 544 596 630 635 688 714 745 826 
+2.2 Lunar_meteorite.txt 1 666 
+2.0 Lunar_meteorite.txt 1 668 
+wikipedia Lunar_meteorite.txt 1 2 
+various Lunar_meteorite.txt 1 549 
+between Lunar_meteorite.txt 1 230 
+numerous Lunar_meteorite.txt 1 419 
+law Lunar_meteorite.txt 1 763 
+discovery Lunar_meteorite.txt 1 50 
+europe Lunar_meteorite.txt 1 214 
+august Lunar_meteorite.txt 1 143 
+institution Lunar_meteorite.txt 1 91 
+originated Lunar_meteorite.txt 2 32 484 
+sold Lunar_meteorite.txt 2 783 837 
+however Lunar_meteorite.txt 1 648 
+craters Lunar_meteorite.txt 1 257 
+hypothesis Lunar_meteorite.txt 1 497 
+20 Lunar_meteorite.txt 1 321 
+missions Lunar_meteorite.txt 3 240 386 563 
+many Lunar_meteorite.txt 1 161 
+against Lunar_meteorite.txt 1 765 
+moon-landing Lunar_meteorite.txt 1 712 
+sampling Lunar_meteorite.txt 1 434 
+nwa5000 Lunar_meteorite.txt 1 6 
+belt Lunar_meteorite.txt 1 600 
+unusual Lunar_meteorite.txt 2 74 477 
+source Lunar_meteorite.txt 2 267 695 
+three Lunar_meteorite.txt 1 833 
+been Lunar_meteorite.txt 8 150 186 192 206 273 405 481 774 
+hitting Lunar_meteorite.txt 1 38 
+schutt Lunar_meteorite.txt 1 56 
+mars Lunar_meteorite.txt 2 486 502 
+collected Lunar_meteorite.txt 7 128 237 391 683 708 737 820 
+walter Lunar_meteorite.txt 1 807 
+probe Lunar_meteorite.txt 1 825 
+kilograms Lunar_meteorite.txt 1 179 
+farside Lunar_meteorite.txt 1 454 
+thousand Lunar_meteorite.txt 1 582 
+lalande Lunar_meteorite.txt 1 293 
+0.17 Lunar_meteorite.txt 1 664 
+representative Lunar_meteorite.txt 1 433 
+791197 Lunar_meteorite.txt 1 133 
+general Lunar_meteorite.txt 1 853 
+hidden Lunar_meteorite.txt 1 859 
+those Lunar_meteorite.txt 1 750 
+case Lunar_meteorite.txt 1 534 
+unlike Lunar_meteorite.txt 1 100 
+these Lunar_meteorite.txt 1 364 
+geochemically Lunar_meteorite.txt 1 409 
+cosmic-ray Lunar_meteorite.txt 1 300 
+property Lunar_meteorite.txt 1 715 
+launched Lunar_meteorite.txt 2 249 358 
+0.079 Lunar_meteorite.txt 1 672 
+is Lunar_meteorite.txt 10 24 28 41 175 217 278 586 704 760 776 
+thus Lunar_meteorite.txt 1 558 
+it Lunar_meteorite.txt 1 12 
+surface Lunar_meteorite.txt 2 438 522 
+meteoroid Lunar_meteorite.txt 2 171 499 
+sahara Lunar_meteorite.txt 1 17 
+in Lunar_meteorite.txt 24 15 19 52 60 139 188 194 208 262 318 328 367 393 416 469 532 580 601 671 673 684 792 802 842 
+containing Lunar_meteorite.txt 1 797 
+perhaps Lunar_meteorite.txt 1 152 
+same Lunar_meteorite.txt 1 170 
+largest Lunar_meteorite.txt 1 8 
+several Lunar_meteorite.txt 1 118 
+composition Lunar_meteorite.txt 2 225 229 
+ownership Lunar_meteorite.txt 5 657 702 767 811 831 
+shortly Lunar_meteorite.txt 1 75 
+1979 Lunar_meteorite.txt 1 136 
+programs Lunar_meteorite.txt 1 744 
+very Lunar_meteorite.txt 1 529 
+the Lunar_meteorite.txt 69 7 16 34 39 63 77 97 112 115 135 163 169 172 199 221 223 227 235 251 281 292 297 316 319 326 329 335 355 362 373 384 394 398 412 418 426 436 440 444 453 456 459 461 465 487 496 514 521 524 556 565 591 598 602 614 618 637 676 693 710 717 727 739 766 785 793 813 818 822 
+yamato Lunar_meteorite.txt 1 132 
+researchers Lunar_meteorite.txt 1 628 
+left Lunar_meteorite.txt 1 325 
+less Lunar_meteorite.txt 1 265 
+yet Lunar_meteorite.txt 1 205 
+hills Lunar_meteorite.txt 1 82 
+majority Lunar_meteorite.txt 1 593 
+regarded Lunar_meteorite.txt 1 644 
+had Lunar_meteorite.txt 2 126 480 
+geological Lunar_meteorite.txt 1 550 
+meteorite Lunar_meteorite.txt 14 1 11 23 26 37 68 78 104 131 158 285 463 589 678 
+samples Lunar_meteorite.txt 5 233 389 424 442 835 
+relevance Lunar_meteorite.txt 1 379 
+has Lunar_meteorite.txt 3 272 403 772 
+around Lunar_meteorite.txt 2 343 361 
+government Lunar_meteorite.txt 2 720 787 
+comparing Lunar_meteorite.txt 1 220 
+smithsonian Lunar_meteorite.txt 1 90 
+early Lunar_meteorite.txt 1 603 
+external Lunar_meteorite.txt 1 855 
+because Lunar_meteorite.txt 2 531 705 
+some Lunar_meteorite.txt 4 107 351 475 559 
+back Lunar_meteorite.txt 1 110 
+3.9 Lunar_meteorite.txt 1 540 
+slice Lunar_meteorite.txt 1 4 
+for Lunar_meteorite.txt 8 62 447 569 689 700 752 829 840 
+measurements Lunar_meteorite.txt 1 306 
+moon Lunar_meteorite.txt 19 35 40 113 236 252 317 327 336 356 399 427 457 466 525 557 566 619 638 697 
+meteoroids Lunar_meteorite.txt 3 339 352 365 
+lunar Lunar_meteorite.txt 25 0 10 22 47 130 147 183 215 246 256 270 284 298 311 338 413 420 437 445 491 588 646 677 681 735 
+420 Lunar_meteorite.txt 1 180 
+fragments Lunar_meteorite.txt 1 167 
+0.087 Lunar_meteorite.txt 1 670 
+be Lunar_meteorite.txt 5 73 408 528 643 780 
+scientific Lunar_meteorite.txt 2 378 851 
+306 Lunar_meteorite.txt 1 146 
+conveyed Lunar_meteorite.txt 1 729 
+although Lunar_meteorite.txt 4 276 620 758 832 
+by Lunar_meteorite.txt 13 114 219 238 253 411 548 624 667 738 746 749 784 821 
+on Lunar_meteorite.txt 8 33 296 387 493 501 520 546 555 
+about Lunar_meteorite.txt 3 145 513 578 
+central Lunar_meteorite.txt 1 395 
+of Lunar_meteorite.txt 25 5 142 162 168 201 258 269 383 397 425 435 455 490 516 523 594 627 675 696 716 722 768 795 812 817 
+citizens Lunar_meteorite.txt 1 790 
+anomalous Lunar_meteorite.txt 2 283 410 
+recognized Lunar_meteorite.txt 3 71 95 123 
+practical Lunar_meteorite.txt 1 691 
+consequently Lunar_meteorite.txt 1 429 
+or Lunar_meteorite.txt 5 213 264 721 775 782 
+mineralogy Lunar_meteorite.txt 1 222 
+previously Lunar_meteorite.txt 1 483 
+into Lunar_meteorite.txt 2 341 359 
+washington Lunar_meteorite.txt 1 87 
+luna Lunar_meteorite.txt 1 823 
+references Lunar_meteorite.txt 3 847 850 854 
+tiny Lunar_meteorite.txt 1 834 
+1982 Lunar_meteorite.txt 2 54 470 
+area Lunar_meteorite.txt 1 401 
+transfer Lunar_meteorite.txt 1 241 
+there Lunar_meteorite.txt 5 277 471 509 629 759 
+specifically Lunar_meteorite.txt 1 764 
+was Lunar_meteorite.txt 5 13 84 99 467 472 
+resembled Lunar_meteorite.txt 1 106 
+north Lunar_meteorite.txt 1 209 
+regard Lunar_meteorite.txt 1 651 
+but Lunar_meteorite.txt 1 370 
+survived Lunar_meteorite.txt 1 554 
+apollo Lunar_meteorite.txt 7 116 239 385 441 711 769 799 
+with Lunar_meteorite.txt 1 304 
+he Lunar_meteorite.txt 1 70 
+milligrams Lunar_meteorite.txt 1 663 
+planet Lunar_meteorite.txt 1 508 
+paired Lunar_meteorite.txt 1 166 
+piece Lunar_meteorite.txt 1 674 
+called Lunar_meteorite.txt 1 80 
+expedition Lunar_meteorite.txt 1 59 
+al Lunar_meteorite.txt 1 287 
+an Lunar_meteorite.txt 2 58 400 
+as Lunar_meteorite.txt 5 44 141 645 654 731 
+at Lunar_meteorite.txt 2 458 838 
+geochemist Lunar_meteorite.txt 1 92 
+education Lunar_meteorite.txt 1 755 
+plaques Lunar_meteorite.txt 1 796 
+no Lunar_meteorite.txt 2 266 761 
+whereas Lunar_meteorite.txt 1 590 
+field Lunar_meteorite.txt 1 137 
+other Lunar_meteorite.txt 3 102 476 723 
+cronkite Lunar_meteorite.txt 1 808 
+separate Lunar_meteorite.txt 1 157 
+gifts Lunar_meteorite.txt 1 732 
+desert Lunar_meteorite.txt 1 18 
+exposure Lunar_meteorite.txt 1 301 
+billion Lunar_meteorite.txt 1 541 
+land Lunar_meteorite.txt 1 377 
+longer Lunar_meteorite.txt 1 369 
+speculations Lunar_meteorite.txt 1 512 
+orbit Lunar_meteorite.txt 2 342 375 
+nasa Lunar_meteorite.txt 1 809 
+mass Lunar_meteorite.txt 1 174 
+2007 Lunar_meteorite.txt 1 20 
+2004 Lunar_meteorite.txt 1 803 
+time Lunar_meteorite.txt 1 460 
+169 Lunar_meteorite.txt 1 289 

@@ -1,0 +1,143 @@
+move Lunar_precession.txt 1 102 
+month Lunar_precession.txt 4 147 170 327 349 
+through Lunar_precession.txt 1 103 
+same Lunar_precession.txt 3 160 214 373 
+rotates Lunar_precession.txt 1 270 
+its Lunar_precession.txt 1 163 
+1 Lunar_precession.txt 1 254 
+difference Lunar_precession.txt 1 251 
+completes Lunar_precession.txt 2 356 368 
+to Lunar_precession.txt 13 16 101 106 127 156 158 210 212 309 336 340 355 361 
+elliptic Lunar_precession.txt 2 268 300 
+nodes Lunar_precession.txt 1 58 
+main Lunar_precession.txt 2 52 278 
+apogee Lunar_precession.txt 2 310 338 
+eastward Lunar_precession.txt 1 313 
+return Lunar_precession.txt 2 157 211 
+around Lunar_precession.txt 1 131 
+apsidal Lunar_precession.txt 4 255 275 280 366 
+number Lunar_precession.txt 5 177 183 230 377 383 
+every Lunar_precession.txt 2 34 272 
+during Lunar_precession.txt 1 235 
+rotation Lunar_precession.txt 2 13 370 
+years Lunar_precession.txt 7 36 114 197 234 274 319 395 
+categories Lunar_precession.txt 2 401 403 
+precession Lunar_precession.txt 14 1 3 50 55 74 90 174 204 239 256 276 281 286 367 
+standstill Lunar_precession.txt 1 33 
+edit Lunar_precession.txt 4 51 277 398 400 
+fixed Lunar_precession.txt 1 363 
+where Lunar_precession.txt 1 62 
+anomalistic Lunar_precession.txt 2 326 385 
+equinox Lunar_precession.txt 1 109 
+reference Lunar_precession.txt 1 18 
+undergoes Lunar_precession.txt 1 25 
+relative Lunar_precession.txt 1 105 
+second Lunar_precession.txt 1 283 
+are Lunar_precession.txt 1 59 
+year Lunar_precession.txt 3 219 228 247 
+for Lunar_precession.txt 1 207 
+sun Lunar_precession.txt 2 133 209 
+wikipedia Lunar_precession.txt 1 2 
+moon Lunar_precession.txt 5 24 42 154 331 353 
+lunar Lunar_precession.txt 7 0 32 57 73 88 215 237 
+moons Lunar_precession.txt 5 64 82 267 289 299 
+occurs Lunar_precession.txt 1 257 
+360 Lunar_precession.txt 2 104 315 
+equals Lunar_precession.txt 1 241 
+ascending Lunar_precession.txt 1 99 
+ecliptic Lunar_precession.txt 1 68 
+reason Lunar_precession.txt 2 143 323 
+i.e Lunar_precession.txt 1 122 
+by Lunar_precession.txt 4 187 249 314 387 
+change Lunar_precession.txt 1 6 
+about Lunar_precession.txt 4 112 193 221 391 
+hidden Lunar_precession.txt 1 402 
+of Lunar_precession.txt 24 9 12 22 29 40 72 77 80 86 118 178 184 201 231 244 261 265 285 287 293 297 304 378 384 
+3,233 Lunar_precession.txt 1 392 
+months Lunar_precession.txt 4 180 186 380 386 
+days Lunar_precession.txt 3 195 223 393 
+motion Lunar_precession.txt 2 31 119 
+range Lunar_precession.txt 1 39 
+important Lunar_precession.txt 1 27 
+exceeds Lunar_precession.txt 2 181 381 
+draconic Lunar_precession.txt 2 146 179 
+or Lunar_precession.txt 2 46 148 
+first Lunar_precession.txt 1 70 
+major Lunar_precession.txt 2 263 295 
+18.60 Lunar_precession.txt 1 196 
+period Lunar_precession.txt 9 85 150 152 175 191 240 243 329 351 
+reaches Lunar_precession.txt 1 43 
+one Lunar_precession.txt 8 172 189 236 246 253 357 369 389 
+references Lunar_precession.txt 1 399 
+article Lunar_precession.txt 2 53 279 
+respect Lunar_precession.txt 2 15 360 
+earths Lunar_precession.txt 1 129 
+from Lunar_precession.txt 3 136 307 333 
+takes Lunar_precession.txt 3 97 155 354 
+nodal Lunar_precession.txt 7 49 54 89 149 173 203 238 
+two Lunar_precession.txt 1 26 
+approximately Lunar_precession.txt 1 317 
+stars Lunar_precession.txt 1 364 
+type Lunar_precession.txt 1 71 
+direction Lunar_precession.txt 3 117 125 260 
+north Lunar_precession.txt 1 139 
+apsides Lunar_precession.txt 1 306 
+that Lunar_precession.txt 4 76 144 292 324 
+exactly Lunar_precession.txt 2 188 388 
+solar Lunar_precession.txt 1 232 
+line Lunar_precession.txt 1 303 
+westward Lunar_precession.txt 1 121 
+with Lunar_precession.txt 2 14 359 
+than Lunar_precession.txt 3 167 225 346 
+longer Lunar_precession.txt 1 345 
+kind Lunar_precession.txt 1 284 
+18.6377 Lunar_precession.txt 1 222 
+this Lunar_precession.txt 6 140 190 202 250 320 365 
+6,793 Lunar_precession.txt 1 194 
+eclipse Lunar_precession.txt 1 218 
+maximum Lunar_precession.txt 1 45 
+vernal Lunar_precession.txt 1 108 
+minus Lunar_precession.txt 1 252 
+18.6 Lunar_precession.txt 2 35 113 
+and Lunar_precession.txt 2 115 339 
+celestial Lunar_precession.txt 1 138 
+intersects Lunar_precession.txt 1 66 
+orientation Lunar_precession.txt 1 8 
+defined Lunar_precession.txt 1 92 
+is Lunar_precession.txt 12 4 75 91 111 120 141 165 192 220 291 321 344 
+it Lunar_precession.txt 2 96 110 
+an Lunar_precession.txt 2 10 325 
+as Lunar_precession.txt 3 93 198 375 
+minimum Lunar_precession.txt 1 47 
+in Lunar_precession.txt 5 7 123 162 316 371 
+seen Lunar_precession.txt 1 135 
+moves Lunar_precession.txt 1 332 
+contents Lunar_precession.txt 1 48 
+axis Lunar_precession.txt 3 11 264 296 
+result Lunar_precession.txt 1 200 
+again Lunar_precession.txt 1 343 
+divided Lunar_precession.txt 1 248 
+when Lunar_precession.txt 1 258 
+precessional Lunar_precession.txt 1 30 
+shorter Lunar_precession.txt 2 166 224 
+also Lunar_precession.txt 1 397 
+points Lunar_precession.txt 1 61 
+which Lunar_precession.txt 1 311 
+if Lunar_precession.txt 1 134 
+node Lunar_precession.txt 3 100 161 216 
+see Lunar_precession.txt 1 396 
+opposite Lunar_precession.txt 1 126 
+after Lunar_precession.txt 2 171 390 
+orbits Lunar_precession.txt 1 233 
+8.85 Lunar_precession.txt 3 273 318 394 
+perigee Lunar_precession.txt 3 308 335 342 
+plane Lunar_precession.txt 2 19 79 
+types Lunar_precession.txt 1 28 
+a Lunar_precession.txt 5 17 44 145 199 226 
+sidereal Lunar_precession.txt 5 169 185 227 348 379 
+orbit Lunar_precession.txt 10 21 65 83 130 164 245 269 290 301 358 
+declination Lunar_precession.txt 1 38 
+precesses Lunar_precession.txt 1 312 
+time Lunar_precession.txt 3 95 206 374 
+the Lunar_precession.txt 57 5 20 23 37 41 56 60 63 67 69 78 81 84 87 94 98 107 116 124 128 132 137 142 151 153 159 168 176 182 205 208 213 217 229 242 259 262 266 282 288 294 298 302 305 322 328 330 334 337 341 347 350 352 362 372 376 382 
+once Lunar_precession.txt 1 271 

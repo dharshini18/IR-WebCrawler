@@ -1,0 +1,446 @@
+suns Perigee.txt 3 898 922 1019 
+cynthia Perigee.txt 1 605 
+focus Perigee.txt 3 192 211 266 
+earthmoon Perigee.txt 3 258 261 970 
+spacecraft Perigee.txt 2 316 332 
+centers Perigee.txt 3 302 923 1023 
+1.016 Perigee.txt 1 928 
+whose Perigee.txt 1 497 
+referring Perigee.txt 2 541 618 
+prefixes Perigee.txt 1 103 
+to Perigee.txt 29 19 119 122 188 229 286 296 324 326 426 441 542 585 592 619 671 675 718 729 785 829 857 949 955 962 1044 1109 1197 1237 
+program Perigee.txt 1 598 
+elliptic Perigee.txt 2 51 90 
+stable Perigee.txt 1 976 
+orbited Perigee.txt 1 126 
+very Perigee.txt 2 563 804 
+perihelion Perigee.txt 12 689 812 867 879 943 1031 1042 1087 1134 1155 1199 1247 
+categories Perigee.txt 2 1269 1271 
+large Perigee.txt 1 48 
+p Perigee.txt 1 63 
+semi-major Perigee.txt 1 459 
+galacticon Perigee.txt 1 531 
+aphelions Perigee.txt 1 1120 
+past Perigee.txt 1 1123 
+152,097,700 Perigee.txt 1 932 
+0.983 Perigee.txt 1 886 
+sun Perigee.txt 8 545 704 750 980 1152 1176 1187 1217 
+selected Perigee.txt 1 1179 
+near Perigee.txt 1 108 
+expressed Perigee.txt 1 711 
+91,402,500 Perigee.txt 1 894 
+above Perigee.txt 1 423 
+movement Perigee.txt 1 836 
+body Perigee.txt 8 37 95 177 310 339 439 492 1204 
+dwarf Perigee.txt 2 1148 1169 
+degree Perigee.txt 1 1108 
+respectively Perigee.txt 2 551 1205 
+here Perigee.txt 1 8 
+hours Perigee.txt 1 1054 
+apoapsis Perigee.txt 2 45 134 
+objects Perigee.txt 4 75 525 688 794 
+extreme Perigee.txt 1 71 
+technical Perigee.txt 1 515 
+larger Perigee.txt 2 94 180 
+commonly Perigee.txt 3 322 578 1037 
+diameter Perigee.txt 1 150 
+named Perigee.txt 1 100 
+via Perigee.txt 1 80 
+family Perigee.txt 1 318 
+apo Perigee.txt 2 112 674 
+rarely Perigee.txt 1 564 
+bothros Perigee.txt 1 658 
+from Perigee.txt 22 3 82 105 113 117 239 283 333 421 628 643 656 686 765 845 896 952 996 1005 1150 1174 1185 
+peri Perigee.txt 3 104 106 672 
+two Perigee.txt 7 47 98 170 408 451 467 482 
+pericenter Perigee.txt 4 358 380 504 1074 
+perihelions Perigee.txt 1 1118 
+taken Perigee.txt 1 187 
+historically Perigee.txt 1 232 
+keplerian Perigee.txt 1 350 
+eccentricity Perigee.txt 2 773 1212 
+actual Perigee.txt 1 1014 
+hole Perigee.txt 1 660 
+word Perigee.txt 1 78 
+f Perigee.txt 1 354 
+this Perigee.txt 11 140 164 191 197 721 853 957 1008 1081 1099 1240 
+1998 Perigee.txt 1 640 
+mi Perigee.txt 3 895 935 995 
+longitude Perigee.txt 3 1065 1071 1085 
+foci Perigee.txt 1 171 
+can Perigee.txt 1 946 
+following Perigee.txt 4 667 1131 1139 1159 
+root Perigee.txt 1 631 
+example Perigee.txt 1 41 
+nearest Perigee.txt 2 30 681 
+links Perigee.txt 1 1267 
+december Perigee.txt 1 876 
+keplers Perigee.txt 1 390 
+confused Perigee.txt 1 21 
+0.7 Perigee.txt 1 1219 
+high Perigee.txt 1 1210 
+apocynthion Perigee.txt 1 603 
+22,000 Perigee.txt 1 828 
+conversely Perigee.txt 1 445 
+axis Perigee.txt 5 144 460 475 760 862 
+respective Perigee.txt 1 220 
+turn Perigee.txt 1 1026 
+rather Perigee.txt 1 1056 
+tilt Perigee.txt 1 757 
+astronomers Perigee.txt 1 1036 
+occasionally Perigee.txt 1 556 
+elliptical Perigee.txt 2 206 727 
+instead Perigee.txt 1 588 
+circular Perigee.txt 1 495 
+express Perigee.txt 1 1038 
+galactic Perigee.txt 1 549 
+may Perigee.txt 1 185 
+after Perigee.txt 2 874 911 
+orbits Perigee.txt 4 52 91 207 273 
+plane Perigee.txt 1 767 
+milankovitch Perigee.txt 1 800 
+a Perigee.txt 20 93 120 127 152 341 413 461 491 494 581 629 637 715 753 803 834 975 1033 1103 1107 
+short Perigee.txt 1 938 
+lines Perigee.txt 1 221 
+correspond Perigee.txt 1 1196 
+jove Perigee.txt 1 554 
+greek Perigee.txt 6 60 68 83 611 630 657 
+green Perigee.txt 1 1248 
+words Perigee.txt 1 503 
+apse Perigee.txt 2 23 88 
+closely Perigee.txt 1 855 
+astronomical Perigee.txt 2 538 888 
+vary Perigee.txt 2 782 947 
+years Perigee.txt 3 571 831 1126 
+through Perigee.txt 1 818 
+during Perigee.txt 1 595 
+its Perigee.txt 4 39 148 287 432 
+before Perigee.txt 1 641 
+outer Perigee.txt 1 1259 
+masses Perigee.txt 1 231 
+29 Perigee.txt 1 887 
+forms Perigee.txt 1 532 
+systems Perigee.txt 2 214 235 
+hidden Perigee.txt 1 1270 
+apogee Perigee.txt 1 13 
+them Perigee.txt 1 370 
+resolve Perigee.txt 1 1238 
+effects Perigee.txt 1 788 
+they Perigee.txt 1 822 
+not Perigee.txt 4 18 196 779 1048 
+kilometres Perigee.txt 1 993 
+term Perigee.txt 3 587 626 939 
+name Perigee.txt 1 608 
+edit Perigee.txt 8 349 501 665 695 1137 1263 1265 1268 
+january Perigee.txt 1 870 
+sufficiently Perigee.txt 1 179 
+each Perigee.txt 3 208 275 1194 
+two-body Perigee.txt 1 153 
+mean Perigee.txt 3 448 464 479 
+energy Perigee.txt 1 406 
+displacement Perigee.txt 1 1062 
+related Perigee.txt 2 518 856 
+literature Perigee.txt 2 539 649 
+year Perigee.txt 3 954 1035 1097 
+since Perigee.txt 1 720 
+angular Perigee.txt 1 400 
+plural Perigee.txt 1 61 
+red Perigee.txt 2 367 1252 
+shows Perigee.txt 2 1141 1161 
+million Perigee.txt 2 1220 1232 
+standard Perigee.txt 1 343 
+ecliptic Perigee.txt 1 770 
+apocenter Perigee.txt 3 364 382 506 
+could Perigee.txt 1 999 
+282.895 Perigee.txt 1 1094 
+days Perigee.txt 4 873 910 951 1052 
+times Perigee.txt 1 1115 
+motion Perigee.txt 1 394 
+thing Perigee.txt 1 124 
+length Perigee.txt 3 226 456 471 
+apsis Perigee.txt 4 0 59 293 708 
+hence Perigee.txt 1 1206 
+moving Perigee.txt 1 973 
+speeds Perigee.txt 1 484 
+major Perigee.txt 1 143 
+suffix Perigee.txt 1 553 
+primary Perigee.txt 1 433 
+reaches Perigee.txt 2 866 902 
+one Perigee.txt 5 167 176 210 824 953 
+283.067 Perigee.txt 1 1111 
+specifically Perigee.txt 1 590 
+another Perigee.txt 1 956 
+6999983290000000000 Perigee.txt 1 885 
+between Perigee.txt 5 300 369 428 918 1017 
+earths Perigee.txt 7 272 284 772 881 920 985 1022 
+given Perigee.txt 2 414 1034 
+semi-minor Perigee.txt 1 474 
+indicate Perigee.txt 1 28 
+system Perigee.txt 5 154 161 259 798 1184 
+approximately Perigee.txt 2 871 908 
+heights Perigee.txt 1 422 
+solstice Perigee.txt 2 877 914 
+their Perigee.txt 4 54 219 230 1154 
+however Perigee.txt 3 193 245 311 
+2 Perigee.txt 1 950 
+listed Perigee.txt 1 1128 
+too Perigee.txt 1 1235 
+shifted Perigee.txt 1 1001 
+stars Perigee.txt 2 546 842 
+that Perigee.txt 2 418 847 
+july Perigee.txt 1 907 
+than Perigee.txt 1 181 
+distance Perigee.txt 2 298 917 
+b Perigee.txt 1 476 
+determines Perigee.txt 1 722 
+14 Perigee.txt 2 872 909 
+accordance Perigee.txt 1 388 
+halleys Perigee.txt 1 1172 
+limiting Perigee.txt 2 452 483 
+inversely Perigee.txt 1 227 
+future Perigee.txt 1 1125 
+were Perigee.txt 2 237 615 
+result Perigee.txt 1 754 
+and Perigee.txt 42 15 31 44 84 109 133 271 308 365 381 402 431 444 505 530 547 602 673 682 690 774 792 813 821 921 944 1007 1020 1053 1088 1114 1119 1124 1135 1147 1156 1171 1190 1200 1222 1250 1258 
+disambiguation Perigee.txt 2 14 17 
+seen Perigee.txt 2 509 844 
+any Perigee.txt 1 1003 
+contents Perigee.txt 1 346 
+conversion Perigee.txt 1 420 
+angle Perigee.txt 2 747 1059 
+note Perigee.txt 1 417 
+also Perigee.txt 2 1069 1262 
+which Perigee.txt 4 486 751 987 1024 
+added Perigee.txt 3 118 443 670 
+chart Perigee.txt 1 1160 
+75 Perigee.txt 1 279 
+71 Perigee.txt 1 929 
+formulae Perigee.txt 2 348 377 
+seasons Perigee.txt 3 719 736 820 
+measured Perigee.txt 3 238 299 764 
+so-called Perigee.txt 1 1064 
+average Perigee.txt 1 990 
+artemis Perigee.txt 1 614 
+points Perigee.txt 2 33 1254 
+redirected Perigee.txt 1 2 
+dot Perigee.txt 2 1249 1253 
+laws Perigee.txt 1 391 
+planetary Perigee.txt 2 393 1133 
+show Perigee.txt 1 1245 
+earth Perigee.txt 10 244 544 594 694 701 763 846 865 901 1080 
+redirect Perigee.txt 1 7 
+landis Perigee.txt 1 638 
+based Perigee.txt 1 395 
+black Perigee.txt 1 623 
+geometric Perigee.txt 2 463 478 
+perigee Perigee.txt 2 4 16 
+geocentric Perigee.txt 1 234 
+apsidal Perigee.txt 1 851 
+preferred Perigee.txt 1 513 
+gee Perigee.txt 2 527 575 
+timing Perigee.txt 3 1011 1029 1040 
+referencing Perigee.txt 1 604 
+saturn Perigee.txt 1 573 
+helion Perigee.txt 1 528 
+regarding Perigee.txt 1 622 
+precession Perigee.txt 2 852 859 
+bar Perigee.txt 1 1195 
+h Perigee.txt 1 360 
+summary Perigee.txt 1 664 
+common Perigee.txt 1 265 
+cycles Perigee.txt 1 801 
+where Perigee.txt 1 416 
+bars Perigee.txt 1 1208 
+equinox Perigee.txt 1 1047 
+farthest Perigee.txt 2 32 683 
+reference Perigee.txt 2 121 344 
+km Perigee.txt 4 893 933 1221 1233 
+relative Perigee.txt 2 717 1043 
+see Perigee.txt 3 12 799 1261 
+radius Perigee.txt 5 345 435 498 1214 1224 
+are Perigee.txt 11 97 203 321 410 507 512 520 533 669 778 1127 
+away Perigee.txt 1 116 
+currently Perigee.txt 3 863 904 925 
+wikipedia Perigee.txt 1 1 
+various Perigee.txt 1 517 
+moons Perigee.txt 1 270 
+orbiting Perigee.txt 2 36 309 
+progress Perigee.txt 1 817 
+pericynthion Perigee.txt 1 601 
+approach Perigee.txt 2 584 1016 
+latin Perigee.txt 2 81 644 
+terms Perigee.txt 7 6 320 519 600 678 713 1050 
+saturnium Perigee.txt 1 561 
+physicist Perigee.txt 1 635 
+aspis Perigee.txt 1 25 
+both Perigee.txt 3 201 268 1234 
+dates Perigee.txt 3 809 941 1113 
+last Perigee.txt 1 569 
+2,900 Perigee.txt 1 994 
+annual Perigee.txt 1 742 
+s Perigee.txt 1 64 
+comet Perigee.txt 1 1173 
+contribution Perigee.txt 1 724 
+comes Perigee.txt 1 79 
+point Perigee.txt 3 72 353 359 
+appeared Perigee.txt 1 645 
+table Perigee.txt 2 1132 1140 
+due Perigee.txt 2 784 961 
+been Perigee.txt 1 565 
+geoffrey Perigee.txt 1 636 
+slowly Perigee.txt 1 783 
+direction Perigee.txt 1 1004 
+corresponding Perigee.txt 1 835 
+apsides Perigee.txt 7 27 62 99 139 223 236 375 
+periapsis Perigee.txt 3 43 132 1068 
+quantities Perigee.txt 1 409 
+goddess Perigee.txt 1 613 
+external Perigee.txt 1 1266 
+astron Perigee.txt 1 529 
+peri/apomelasma Perigee.txt 1 627 
+denote Perigee.txt 1 1209 
+case Perigee.txt 3 200 248 314 
+these Perigee.txt 3 376 407 687 
+straight Perigee.txt 1 128 
+2010 Perigee.txt 1 1098 
+while Perigee.txt 3 386 560 968 
+vernal Perigee.txt 1 1046 
+is Perigee.txt 31 69 85 135 141 178 198 277 355 361 371 454 469 485 487 499 555 577 709 737 752 833 848 854 883 924 960 972 988 1082 1218 1230 
+it Perigee.txt 3 184 1006 1091 
+surface Perigee.txt 3 288 335 425 
+characterize Perigee.txt 1 378 
+in Perigee.txt 27 50 73 204 233 246 289 312 387 493 514 536 567 639 646 650 712 795 827 868 905 936 1002 1025 1032 1049 1089 1129 
+orbital Perigee.txt 7 290 328 351 684 776 1061 1211 
+generic Perigee.txt 1 582 
+make Perigee.txt 1 823 
+largest Perigee.txt 1 1228 
+units Perigee.txt 1 889 
+several Perigee.txt 2 5 1122 
+used Perigee.txt 8 323 521 535 557 566 579 616 633 
+closest Perigee.txt 2 583 1015 
+26,000 Perigee.txt 1 830 
+edges Perigee.txt 1 1192 
+uses Perigee.txt 1 11 
+frequently Perigee.txt 1 534 
+cycle Perigee.txt 2 743 826 
+center Perigee.txt 10 55 156 215 241 253 285 550 882 899 986 
+i Perigee.txt 1 66 
+well Perigee.txt 1 653 
+aphelion Perigee.txt 9 691 816 903 916 945 1136 1157 1201 1251 
+greatest Perigee.txt 1 149 
+position Perigee.txt 2 839 982 
+the Perigee.txt 158 26 29 77 102 123 131 136 142 146 155 160 169 173 182 199 213 240 243 247 250 252 257 264 269 281 292 297 301 306 313 317 327 331 334 337 357 363 366 372 379 397 403 424 434 437 446 450 455 458 462 466 470 473 477 481 488 502 526 537 543 548 552 568 574 593 596 599 610 620 625 647 666 677 680 693 697 700 703 705 723 726 732 735 741 745 749 756 759 762 766 769 771 786 790 796 808 811 815 819 838 841 850 858 861 864 875 880 897 900 912 915 919 937 940 963 966 969 979 981 984 997 1010 1013 1018 1021 1028 1039 1045 1063 1067 1073 1076 1079 1084 1096 1112 1117 1130 1138 1142 1145 1151 1158 1162 1167 1175 1182 1186 1188 1198 1203 1213 1216 1223 1227 1242 1246 1256 
+bodies Perigee.txt 3 49 202 1180 
+left Perigee.txt 1 1189 
+seasonal Perigee.txt 1 730 
+distances Perigee.txt 7 427 453 468 685 1143 1165 1177 
+being Perigee.txt 2 125 224 
+alternative Perigee.txt 1 607 
+speed Perigee.txt 1 489 
+had Perigee.txt 1 1100 
+usage Perigee.txt 1 516 
+has Perigee.txt 2 440 562 
+momentum Perigee.txt 1 401 
+elevation Perigee.txt 1 746 
+around Perigee.txt 4 38 53 702 978 
+early Perigee.txt 2 869 906 
+94,509,100 Perigee.txt 1 934 
+advanced Perigee.txt 1 1101 
+d Perigee.txt 1 65 
+50 Perigee.txt 1 570 
+0.07 Perigee.txt 1 1231 
+7011152097651119397 Perigee.txt 1 927 
+4,700 Perigee.txt 1 992 
+terminology Perigee.txt 2 500 663 
+mathematical Perigee.txt 1 347 
+right Perigee.txt 1 1191 
+cognate Perigee.txt 1 86 
+often Perigee.txt 2 508 710 
+jupiter Perigee.txt 2 559 1226 
+barycenter Perigee.txt 3 262 971 998 
+images Perigee.txt 1 1243 
+small Perigee.txt 2 1104 1236 
+scale Perigee.txt 1 807 
+for Perigee.txt 13 9 89 151 412 419 522 558 572 609 679 696 1075 1121 
+affects Perigee.txt 1 1009 
+moon Perigee.txt 4 251 612 621 967 
+connecting Perigee.txt 1 130 
+assuming Perigee.txt 1 340 
+refer Perigee.txt 1 325 
+be Perigee.txt 5 20 186 189 442 1000 
+scientific Perigee.txt 1 648 
+host Perigee.txt 1 40 
+although Perigee.txt 1 510 
+refers Perigee.txt 1 295 
+by Perigee.txt 4 634 740 1095 1102 
+on Perigee.txt 6 163 396 802 974 989 1239 
+about Perigee.txt 8 92 274 278 884 926 991 1093 1110 
+central Perigee.txt 3 307 338 438 
+of Perigee.txt 79 34 42 56 138 145 157 159 168 172 216 222 225 242 249 254 256 267 280 303 305 315 319 330 336 374 383 392 399 405 436 449 457 465 472 480 490 589 692 699 707 714 725 734 744 748 755 758 761 768 789 810 814 837 840 860 942 965 983 1012 1030 1041 1051 1060 1066 1072 1078 1086 1106 1116 1144 1164 1166 1178 1181 1193 1202 1215 1225 1255 
+range Perigee.txt 1 1163 
+suffixes Perigee.txt 1 668 
+or Perigee.txt 7 24 111 195 260 661 891 931 
+significant Perigee.txt 1 958 
+presence Perigee.txt 1 964 
+image Perigee.txt 1 1241 
+lies Perigee.txt 1 162 
+perturbing Perigee.txt 1 787 
+references Perigee.txt 1 1264 
+primarily Perigee.txt 1 738 
+proportional Perigee.txt 1 228 
+peri/aponigricon Perigee.txt 1 642 
+ellipse Perigee.txt 2 147 174 
+technically Perigee.txt 1 294 
+altitude Perigee.txt 1 329 
+there Perigee.txt 2 96 832 
+long Perigee.txt 2 805 1207 
+periapsis/apoapsis Perigee.txt 1 511 
+conservation Perigee.txt 2 398 404 
+inner Perigee.txt 1 1257 
+way Perigee.txt 1 282 
+was Perigee.txt 2 632 1092 
+peri/apobothron Perigee.txt 1 655 
+complete Perigee.txt 1 825 
+form Perigee.txt 2 576 676 
+but Perigee.txt 2 781 1055 
+solar Perigee.txt 2 797 1183 
+line Perigee.txt 5 129 137 165 368 373 
+apollo Perigee.txt 1 597 
+with Perigee.txt 6 22 46 87 101 218 389 
+applying Perigee.txt 1 591 
+whether Perigee.txt 1 194 
+variations Perigee.txt 1 731 
+up Perigee.txt 1 948 
+planet Perigee.txt 2 586 1229 
+below Perigee.txt 1 1244 
+z Perigee.txt 1 67 
+similar Perigee.txt 1 205 
+called Perigee.txt 3 849 1070 1083 
+mechanics Perigee.txt 1 291 
+celestial Perigee.txt 1 524 
+constant Perigee.txt 3 342 411 780 
+an Perigee.txt 8 35 58 70 74 384 429 606 1058 
+ap Perigee.txt 2 110 114 
+as Perigee.txt 6 263 580 652 654 843 1057 
+au Perigee.txt 2 890 930 
+at Perigee.txt 7 166 190 212 356 362 878 1153 
+planets Perigee.txt 6 791 1146 1149 1168 1170 1260 
+controlled Perigee.txt 1 739 
+pit Perigee.txt 1 662 
+defines Perigee.txt 1 1027 
+when Perigee.txt 3 175 540 617 
+other Perigee.txt 6 10 183 276 523 775 793 
+147,098,070 Perigee.txt 1 892 
+arithmetic Perigee.txt 1 447 
+elements Perigee.txt 2 352 777 
+june Perigee.txt 1 913 
+variation Perigee.txt 2 733 959 
+meaning Perigee.txt 3 107 115 659 
+fraction Perigee.txt 1 1105 
+holes Perigee.txt 1 624 
+orbit Perigee.txt 9 76 385 415 430 496 698 728 977 1077 
+2002 Perigee.txt 1 651 
+2000 Perigee.txt 1 1090 
+mass Perigee.txt 5 57 158 217 255 304 
+time Perigee.txt 3 706 716 806 
+having Perigee.txt 1 209 

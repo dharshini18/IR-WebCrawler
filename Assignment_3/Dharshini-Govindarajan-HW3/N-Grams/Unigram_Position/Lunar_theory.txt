@@ -1,0 +1,1079 @@
+represent Lunar_theory.txt 1 1795 
+all Lunar_theory.txt 4 1327 1444 3028 3071 
+writings Lunar_theory.txt 1 257 
+limited Lunar_theory.txt 3 2637 2736 2763 
+suns Lunar_theory.txt 5 1566 1574 1850 2170 2180 
+eckert Lunar_theory.txt 1 3406 
+results Lunar_theory.txt 2 2981 3004 
+cidenas Lunar_theory.txt 1 367 
+month Lunar_theory.txt 3 432 552 772 
+four Lunar_theory.txt 2 3057 3471 
+eccentricity Lunar_theory.txt 1 1258 
+quadrature Lunar_theory.txt 1 2380 
+proposition Lunar_theory.txt 7 1369 1375 1607 1613 1739 1760 2575 
+computation Lunar_theory.txt 2 3388 3430 
+remarkably Lunar_theory.txt 1 529 
+14th Lunar_theory.txt 1 1040 
+contributions Lunar_theory.txt 2 190 3151 
+de405/le405 Lunar_theory.txt 1 3871 
+whose Lunar_theory.txt 2 174 665 
+simon Lunar_theory.txt 1 208 
+summarises Lunar_theory.txt 1 2263 
+lasers Lunar_theory.txt 1 3590 
+seriously Lunar_theory.txt 1 2873 
+removal Lunar_theory.txt 1 3513 
+to Lunar_theory.txt 99 6 30 44 131 161 215 223 236 248 321 356 405 439 493 602 689 699 714 737 753 795 818 975 990 1032 1074 1186 1221 1301 1345 1385 1403 1429 1509 1516 1536 1587 1599 1654 1703 1725 1732 1838 1846 1979 2012 2035 2122 2133 2203 2291 2384 2429 2435 2445 2453 2504 2528 2561 2568 2582 2642 2664 2683 2744 2799 2811 2841 2854 2861 2882 2937 2976 2978 2996 3006 3064 3090 3152 3161 3185 3220 3253 3272 3297 3319 3439 3487 3523 3549 3555 3561 3609 3637 3691 3749 3959 3980 3993 
+outwards Lunar_theory.txt 2 2328 2362 
+under Lunar_theory.txt 1 864 
+inwards Lunar_theory.txt 1 2345 
+analogous Lunar_theory.txt 2 2202 2555 
+include Lunar_theory.txt 1 3808 
+presentation Lunar_theory.txt 1 2093 
+prop Lunar_theory.txt 2 1459 1464 
+indicating Lunar_theory.txt 1 2094 
+parallax Lunar_theory.txt 2 1182 1278 
+case Lunar_theory.txt 2 1425 1450 
+myles Lunar_theory.txt 1 3829 
+wished Lunar_theory.txt 1 2853 
+advantage Lunar_theory.txt 1 1135 
+orthogonal Lunar_theory.txt 1 2029 
+very Lunar_theory.txt 3 46 467 3254 
+discrepancy Lunar_theory.txt 2 2886 2915 
+geometrical Lunar_theory.txt 7 445 622 641 909 1215 1619 2758 
+corollary Lunar_theory.txt 1 1383 
+clairaut Lunar_theory.txt 3 2790 2902 3020 
+al-shatir Lunar_theory.txt 3 1037 1050 1065 
+fall Lunar_theory.txt 1 216 
+difference Lunar_theory.txt 7 820 839 1563 1641 1969 1994 3154 
+1969 Lunar_theory.txt 1 3647 
+special Lunar_theory.txt 1 3592 
+hipparchus Lunar_theory.txt 6 563 592 655 659 664 917 
+school Lunar_theory.txt 1 352 
+accompanying Lunar_theory.txt 1 1736 
+did Lunar_theory.txt 3 448 1077 1159 
+positions Lunar_theory.txt 6 307 2060 2098 2207 2229 2274 
+notes Lunar_theory.txt 1 4031 
+applicable Lunar_theory.txt 1 2290 
+integrated Lunar_theory.txt 1 3845 
+large Lunar_theory.txt 2 2885 3756 
+p Lunar_theory.txt 6 1685 1693 1763 1788 2064 2138 
+vector Lunar_theory.txt 6 1595 1949 2003 2092 2244 2287 
+small Lunar_theory.txt 1 2282 
+study Lunar_theory.txt 3 2479 2493 4007 
+challenge Lunar_theory.txt 1 2665 
+configurations Lunar_theory.txt 1 1216 
+concluded Lunar_theory.txt 1 1557 
+smaller Lunar_theory.txt 1 809 
+force Lunar_theory.txt 10 1534 1541 1553 1728 2378 2522 2564 2586 2616 2709 
+de200/le200 Lunar_theory.txt 1 3858 
+2005 Lunar_theory.txt 1 3678 
+requirements Lunar_theory.txt 1 3328 
+estimates Lunar_theory.txt 1 531 
+pulse Lunar_theory.txt 1 3605 
+approximation Lunar_theory.txt 1 2581 
+rate Lunar_theory.txt 1 751 
+invention Lunar_theory.txt 1 372 
+pass Lunar_theory.txt 1 1690 
+further Lunar_theory.txt 9 881 1192 1224 2589 3364 3667 3873 3935 4009 
+expressions Lunar_theory.txt 1 3450 
+scientific Lunar_theory.txt 2 83 3740 
+established Lunar_theory.txt 1 3676 
+what Lunar_theory.txt 7 379 778 963 1547 2134 2751 2878 
+adds Lunar_theory.txt 1 2383 
+appear Lunar_theory.txt 1 989 
+cycle Lunar_theory.txt 1 511 
+sun Lunar_theory.txt 15 710 1365 1471 1524 1629 1636 1731 1783 2124 2164 2197 2442 2461 2567 3468 
+section Lunar_theory.txt 1 52 
+reaching Lunar_theory.txt 1 528 
+near Lunar_theory.txt 1 2322 
+expressed Lunar_theory.txt 3 3036 3177 3230 
+consequent Lunar_theory.txt 1 1495 
+current Lunar_theory.txt 3 1683 3266 3999 
+axial Lunar_theory.txt 1 2361 
+1740s Lunar_theory.txt 1 2870 
+above Lunar_theory.txt 2 2057 3969 
+new Lunar_theory.txt 7 475 1091 2323 2405 3457 3897 3951 
+1400 Lunar_theory.txt 1 3290 
+contrast Lunar_theory.txt 1 3979 
+body Lunar_theory.txt 1 1401 
+philippe Lunar_theory.txt 1 194 
+full Lunar_theory.txt 2 2325 2407 
+led Lunar_theory.txt 4 1031 3252 3486 3522 
+measurements Lunar_theory.txt 4 849 2770 2980 3586 
+degree Lunar_theory.txt 1 48 
+copernicus Lunar_theory.txt 3 1044 1052 1131 
+1897-1908 Lunar_theory.txt 1 3108 
+component Lunar_theory.txt 2 2033 2040 
+here Lunar_theory.txt 5 1745 1765 2089 2254 3084 
+hundreds Lunar_theory.txt 1 471 
+replacements Lunar_theory.txt 1 1034 
+twentieth Lunar_theory.txt 3 2808 3250 3286 
+others Lunar_theory.txt 1 2933 
+directions Lunar_theory.txt 2 2266 2682 
+path Lunar_theory.txt 2 403 2601 
+along Lunar_theory.txt 4 401 731 1902 2317 
+invented Lunar_theory.txt 1 2991 
+equations Lunar_theory.txt 1 3463 
+appears Lunar_theory.txt 1 438 
+change Lunar_theory.txt 2 756 1079 
+obtained Lunar_theory.txt 1 3587 
+solid Lunar_theory.txt 1 2455 
+great Lunar_theory.txt 1 1263 
+transition Lunar_theory.txt 1 3789 
+institute Lunar_theory.txt 1 3780 
+involved Lunar_theory.txt 2 413 2954 
+inspired Lunar_theory.txt 1 624 
+vectors Lunar_theory.txt 4 2048 2113 2200 2270 
+approaches Lunar_theory.txt 1 2995 
+through Lunar_theory.txt 2 1691 3543 
+leaving Lunar_theory.txt 1 1990 
+p2 Lunar_theory.txt 2 2101 2156 
+resulting Lunar_theory.txt 3 1993 2189 2659 
+analysts Lunar_theory.txt 3 3015 3225 3944 
+published Lunar_theory.txt 1 1333 
+434 Lunar_theory.txt 1 1764 
+successors Lunar_theory.txt 4 1205 1211 2785 3018 
+changes Lunar_theory.txt 3 398 417 1273 
+onwards Lunar_theory.txt 1 3794 
+composed Lunar_theory.txt 1 616 
+diameter Lunar_theory.txt 4 985 1008 1180 1276 
+named Lunar_theory.txt 2 3139 3167 
+subtracts Lunar_theory.txt 1 863 
+egypt Lunar_theory.txt 1 588 
+problematic Lunar_theory.txt 1 38 
+ls Lunar_theory.txt 8 1660 1687 2016 2027 2053 2148 2204 2289 
+logical Lunar_theory.txt 1 977 
+highly Lunar_theory.txt 1 2957 
+deciphered Lunar_theory.txt 2 289 329 
+neil Lunar_theory.txt 1 3659 
+names Lunar_theory.txt 2 175 3784 
+pliny Lunar_theory.txt 2 259 355 
+total Lunar_theory.txt 1 1624 
+seventeenth Lunar_theory.txt 1 611 
+unit Lunar_theory.txt 2 1543 1804 
+use Lunar_theory.txt 4 494 573 3384 3881 
+from Lunar_theory.txt 34 151 220 295 337 349 591 673 867 1114 1360 1398 1622 1749 1972 1988 1998 2162 2195 2301 2330 2339 2705 2786 3008 3052 3541 3547 3553 3559 3790 3795 3883 3921 4025 
+re-presented Lunar_theory.txt 1 2080 
+would Lunar_theory.txt 4 979 1418 1432 1549 
+1971 Lunar_theory.txt 1 3556 
+e.w Lunar_theory.txt 1 2800 
+mulholland Lunar_theory.txt 1 3813 
+attracting Lunar_theory.txt 1 2849 
+two Lunar_theory.txt 4 560 2096 2669 3376 
+by Lunar_theory.txt 30 325 354 562 629 675 843 918 992 1035 1043 1060 1084 1126 1202 1230 1617 2440 2459 2463 2620 2737 2761 2837 3051 3382 3394 3658 3668 3915 3941 
+few Lunar_theory.txt 2 2691 3042 
+approach Lunar_theory.txt 1 1381 
+call Lunar_theory.txt 1 1551 
+therefore Lunar_theory.txt 1 2001 
+6 Lunar_theory.txt 1 1240 
+taken Lunar_theory.txt 3 851 3636 3934 
+themselves Lunar_theory.txt 1 4030 
+forces Lunar_theory.txt 9 1397 1442 1454 1511 1598 1802 2506 2646 3717 
+overlooked Lunar_theory.txt 1 879 
+minor Lunar_theory.txt 1 3532 
+more Lunar_theory.txt 6 70 625 1268 2448 2636 2816 
+fragmentary Lunar_theory.txt 1 318 
+chapront Lunar_theory.txt 1 3917 
+generate Lunar_theory.txt 1 3994 
+started Lunar_theory.txt 1 1291 
+inclined Lunar_theory.txt 1 686 
+apparent Lunar_theory.txt 6 706 934 984 1006 1179 4024 
+constructs Lunar_theory.txt 1 1886 
+purposes Lunar_theory.txt 1 86 
+correspondingly Lunar_theory.txt 1 143 
+surface Lunar_theory.txt 3 2477 3597 3657 
+particular Lunar_theory.txt 1 2296 
+known Lunar_theory.txt 7 247 457 507 671 965 2518 3095 
+90 Lunar_theory.txt 1 2338 
+producing Lunar_theory.txt 1 2621 
+depiction Lunar_theory.txt 1 2044 
+account Lunar_theory.txt 8 7 31 393 450 1169 2812 2876 3712 
+ephemeride Lunar_theory.txt 1 3912 
+incorporating Lunar_theory.txt 1 3850 
+ibm Lunar_theory.txt 1 3416 
+ibn Lunar_theory.txt 3 1036 1049 1064 
+obliquely Lunar_theory.txt 1 2193 
+this Lunar_theory.txt 25 411 512 773 805 943 972 1025 1259 1380 1390 1602 1699 1793 1971 2511 2628 2712 2974 3100 3371 3474 3485 3520 3521 3742 
+science Lunar_theory.txt 2 251 3807 
+equation Lunar_theory.txt 9 460 787 797 827 869 956 3191 3198 3214 
+work Lunar_theory.txt 10 608 892 1184 1294 1318 2714 2749 3101 3245 3754 
+modified Lunar_theory.txt 1 3133 
+longitude Lunar_theory.txt 5 759 3150 3159 3164 3238 
+theories Lunar_theory.txt 12 148 180 614 643 2972 2984 3709 3798 3953 3977 3986 4029 
+infinitesimal Lunar_theory.txt 1 2961 
+mq Lunar_theory.txt 3 1957 1976 1989 
+can Lunar_theory.txt 5 212 1984 2223 3048 3175 
+ms Lunar_theory.txt 2 1991 2008 
+following Lunar_theory.txt 2 108 3180 
+ernest Lunar_theory.txt 1 3410 
+mesopotamia Lunar_theory.txt 1 269 
+perturbs Lunar_theory.txt 1 1580 
+example Lunar_theory.txt 2 1322 2467 
+history Lunar_theory.txt 4 62 109 145 211 
+nearest Lunar_theory.txt 1 3187 
+weaker Lunar_theory.txt 1 2177 
+figure Lunar_theory.txt 1 806 
+brown Lunar_theory.txt 3 2801 3104 3412 
+relativistic Lunar_theory.txt 1 3719 
+proportions Lunar_theory.txt 1 1894 
+in Lunar_theory.txt 111 20 92 268 299 332 361 524 572 595 609 639 683 693 719 739 757 1003 1038 1045 1056 1175 1243 1252 1274 1312 1323 1326 1334 1366 1372 1407 1423 1448 1456 1474 1477 1479 1538 1592 1604 1610 1657 1661 1680 1776 1806 1831 1836 1844 2054 2065 2081 2105 2139 2149 2211 2220 2233 2249 2278 2294 2315 2432 2450 2572 2588 2611 2623 2627 2652 2685 2698 2719 2731 2750 2771 2794 2802 2868 2894 2918 2927 2944 2950 3037 3066 3121 3131 3149 3155 3168 3178 3237 3246 3310 3322 3366 3375 3495 3537 3566 3640 3645 3650 3677 3769 3861 3880 3891 3907 3978 
+epping Lunar_theory.txt 1 288 
+high Lunar_theory.txt 1 47 
+effectively Lunar_theory.txt 1 2041 
+minimum Lunar_theory.txt 1 426 
+something Lunar_theory.txt 1 3455 
+arise Lunar_theory.txt 2 2651 2704 
+sought Lunar_theory.txt 1 3280 
+feasible Lunar_theory.txt 1 3476 
+axis Lunar_theory.txt 2 2320 2342 
+terrestrial Lunar_theory.txt 2 1926 2395 
+information Lunar_theory.txt 1 882 
+respective Lunar_theory.txt 1 2112 
+early Lunar_theory.txt 2 2807 3792 
+starting-point Lunar_theory.txt 1 1378 
+rather Lunar_theory.txt 5 443 950 1545 2367 4001 
+technology Lunar_theory.txt 1 3782 
+acts Lunar_theory.txt 1 1901 
+positional Lunar_theory.txt 2 633 3996 
+how Lunar_theory.txt 4 1344 2591 2613 2702 
+writers Lunar_theory.txt 1 567 
+elliptical Lunar_theory.txt 2 784 1257 
+browns Lunar_theory.txt 2 3441 3498 
+doulcet Lunar_theory.txt 1 197 
+circular Lunar_theory.txt 1 647 
+express Lunar_theory.txt 2 3065 3273 
+tried Lunar_theory.txt 1 1212 
+lexxx Lunar_theory.txt 1 3853 
+algebra Lunar_theory.txt 1 3928 
+emulate Lunar_theory.txt 1 3298 
+waters Lunar_theory.txt 3 2473 2509 2542 
+after Lunar_theory.txt 9 34 1928 1995 2557 2671 2777 2946 3424 3478 
+diagram Lunar_theory.txt 12 1663 1718 1724 1748 1794 1833 2056 2141 2222 2252 2261 2560 
+applications Lunar_theory.txt 3 96 101 649 
+4th Lunar_theory.txt 1 375 
+lay Lunar_theory.txt 1 2916 
+such Lunar_theory.txt 3 1439 1521 4014 
+choice Lunar_theory.txt 1 2743 
+data Lunar_theory.txt 1 3997 
+parallel Lunar_theory.txt 4 1408 1978 2034 3892 
+constants Lunar_theory.txt 1 3504 
+a Lunar_theory.txt 57 45 61 142 296 425 428 517 684 694 726 740 750 904 908 921 929 937 993 1018 1090 1100 1117 1167 1225 1235 1267 1284 1618 1708 1807 1948 2013 2031 2038 2091 2242 2285 2350 2366 2520 2579 2689 2756 2866 2884 3041 3132 3367 3407 3458 3604 3617 3651 3701 3730 3841 3896 
+introduced Lunar_theory.txt 1 1767 
+third Lunar_theory.txt 1 351 
+light Lunar_theory.txt 1 3608 
+sq Lunar_theory.txt 9 1810 1840 1848 1853 1937 1973 1974 1983 1997 
+q Lunar_theory.txt 1 1780 
+greek Lunar_theory.txt 2 158 362 
+so Lunar_theory.txt 6 1868 1913 1982 3260 3747 4021 
+metonic Lunar_theory.txt 1 510 
+quotations Lunar_theory.txt 1 674 
+make Lunar_theory.txt 1 980 
+least Lunar_theory.txt 1 2909 
+rounded Lunar_theory.txt 1 3184 
+help Lunar_theory.txt 1 620 
+spacecraft Lunar_theory.txt 1 3644 
+developed Lunar_theory.txt 8 1121 2578 3365 3422 3689 3746 3906 3964 
+over Lunar_theory.txt 6 64 76 118 903 1017 3289 
+move Lunar_theory.txt 1 738 
+mainly Lunar_theory.txt 4 331 617 672 1172 
+equally Lunar_theory.txt 2 1405 1421 
+years Lunar_theory.txt 7 66 473 483 505 721 1124 3909 
+produced Lunar_theory.txt 2 1089 3840 
+mathematicians Lunar_theory.txt 1 170 
+including Lunar_theory.txt 3 191 1329 2740 
+motions Lunar_theory.txt 11 10 648 1220 1427 1502 2533 2546 2626 2660 2821 3080 
+mentioned Lunar_theory.txt 2 353 3968 
+still Lunar_theory.txt 4 89 317 571 3664 
+its Lunar_theory.txt 18 69 399 402 792 976 1162 2066 2106 2212 2234 2279 2433 2592 2599 2618 3156 3162 3661 
+before Lunar_theory.txt 1 252 
+observational Lunar_theory.txt 2 2979 3396 
+astronomers Lunar_theory.txt 4 159 168 186 2667 
+le Lunar_theory.txt 2 196 2036 
+wallace Lunar_theory.txt 1 3404 
+1880s Lunar_theory.txt 1 254 
+lm Lunar_theory.txt 2 1955 2006 
+attractor Lunar_theory.txt 1 1520 
+late Lunar_theory.txt 1 2804 
+attraction Lunar_theory.txt 10 1568 1575 1626 1847 1897 2171 2181 2387 2396 2416 
+systems Lunar_theory.txt 1 437 
+400 Lunar_theory.txt 1 487 
+hidden Lunar_theory.txt 1 4038 
+main Lunar_theory.txt 5 453 522 2781 3031 3971 
+apogee Lunar_theory.txt 3 935 1249 2900 
+overcome Lunar_theory.txt 1 1161 
+then Lunar_theory.txt 9 312 1415 1591 1816 1835 1946 1958 2187 2880 
+them Lunar_theory.txt 2 33 514 
+good Lunar_theory.txt 2 530 2368 
+affected Lunar_theory.txt 1 1420 
+greater Lunar_theory.txt 1 557 
+babylonians Lunar_theory.txt 1 465 
+leonhard Lunar_theory.txt 1 2787 
+significance Lunar_theory.txt 1 1809 
+edmond Lunar_theory.txt 1 192 
+mention Lunar_theory.txt 1 263 
+ls2 Lunar_theory.txt 4 2051 2116 2191 2248 
+effects Lunar_theory.txt 4 1482 1496 2619 3728 
+they Lunar_theory.txt 9 447 489 2343 2703 2851 2953 3081 3092 3174 
+ls1 Lunar_theory.txt 4 2049 2114 2144 2246 
+schools Lunar_theory.txt 1 267 
+now Lunar_theory.txt 6 42 381 456 506 1550 3745 
+developments Lunar_theory.txt 8 54 72 233 3333 3771 3889 3895 3931 
+fields Lunar_theory.txt 1 3741 
+represents Lunar_theory.txt 5 1643 1667 1781 1811 1819 
+term Lunar_theory.txt 1 832 
+several Lunar_theory.txt 2 2738 3143 
+edit Lunar_theory.txt 26 100 110 238 240 589 656 889 1053 1147 1283 1341 2779 2985 3142 3195 3203 3208 3215 3218 3223 3334 3341 3684 3890 4034 4036 
+arrows Lunar_theory.txt 1 2201 
+identified Lunar_theory.txt 4 303 490 1343 2019 
+alexis Lunar_theory.txt 1 2789 
+realistic Lunar_theory.txt 1 1269 
+inequality Lunar_theory.txt 5 455 785 923 945 3217 
+arrow Lunar_theory.txt 2 2283 2304 
+each Lunar_theory.txt 5 431 1430 1980 2237 2281 
+found Lunar_theory.txt 1 346 
+identifies Lunar_theory.txt 1 1960 
+mean Lunar_theory.txt 3 755 2394 3163 
+heavy Lunar_theory.txt 1 2648 
+0.490.55 Lunar_theory.txt 1 1024 
+just Lunar_theory.txt 2 3040 3056 
+another Lunar_theory.txt 3 2020 2154 3452 
+fairly Lunar_theory.txt 1 2131 
+series Lunar_theory.txt 3 631 3494 3842 
+proportion Lunar_theory.txt 2 1837 1845 
+extended Lunar_theory.txt 2 3666 3732 
+year Lunar_theory.txt 1 497 
+laboratory Lunar_theory.txt 3 3491 3777 3837 
+approximated Lunar_theory.txt 1 794 
+summary Lunar_theory.txt 1 1658 
+es Lunar_theory.txt 1 2042 
+description Lunar_theory.txt 1 1270 
+shown Lunar_theory.txt 5 1320 1665 1744 2088 2253 
+hellenistic Lunar_theory.txt 1 587 
+since Lunar_theory.txt 5 311 2075 3350 3357 3831 
+manually Lunar_theory.txt 1 3946 
+angular Lunar_theory.txt 3 1007 3043 3060 
+particles Lunar_theory.txt 1 2447 
+may Lunar_theory.txt 1 4019 
+acting Lunar_theory.txt 1 1676 
+investigation Lunar_theory.txt 1 68 
+millennium Lunar_theory.txt 1 905 
+hill Lunar_theory.txt 1 206 
+squares Lunar_theory.txt 1 2843 
+cause Lunar_theory.txt 1 2912 
+dalembert Lunar_theory.txt 2 2793 3022 
+shows Lunar_theory.txt 3 1391 1697 2617 
+theory Lunar_theory.txt 26 1 4 56 59 99 104 519 652 911 973 1030 1058 1120 1157 1189 1290 2921 2945 3107 3259 3361 3443 3499 3687 3733 3902 
+state Lunar_theory.txt 1 3804 
+given Lunar_theory.txt 1 3083 
+like Lunar_theory.txt 7 2052 2146 2218 2245 2288 3737 3954 
+ecliptic Lunar_theory.txt 3 691 3158 3222 
+completely Lunar_theory.txt 1 2813 
+perturbation Lunar_theory.txt 8 1337 2143 2190 2199 2243 2269 2286 2425 
+california Lunar_theory.txt 1 3779 
+put Lunar_theory.txt 3 2389 2855 3440 
+estimate Lunar_theory.txt 2 548 2370 
+earliest Lunar_theory.txt 1 3013 
+beginning Lunar_theory.txt 1 3283 
+kidinnu Lunar_theory.txt 1 360 
+care Lunar_theory.txt 1 124 
+definition Lunar_theory.txt 1 2674 
+g Lunar_theory.txt 1 3816 
+e.g Lunar_theory.txt 2 1455 1488 
+automatic Lunar_theory.txt 1 3386 
+could Lunar_theory.txt 2 3034 3938 
+computers Lunar_theory.txt 3 3336 3421 3481 
+success Lunar_theory.txt 2 1227 2634 
+times Lunar_theory.txt 4 153 222 235 853 
+motion Lunar_theory.txt 16 23 40 527 545 927 1308 1340 1353 1389 1582 1649 2832 2896 3113 3465 4013 
+american Lunar_theory.txt 1 3123 
+produce Lunar_theory.txt 1 1537 
+massive Lunar_theory.txt 2 1400 1519 
+refinements Lunar_theory.txt 1 1195 
+corrections Lunar_theory.txt 2 3517 3720 
+propulsion Lunar_theory.txt 3 3490 3776 3836 
+scheme Lunar_theory.txt 3 1236 1260 2074 
+comte Lunar_theory.txt 1 198 
+first Lunar_theory.txt 8 1285 1300 1331 1751 2580 2609 2729 3627 
+trigonometrical Lunar_theory.txt 1 3242 
+major Lunar_theory.txt 2 2911 3472 
+initial Lunar_theory.txt 2 2492 2673 
+1680s Lunar_theory.txt 1 2721 
+features Lunar_theory.txt 1 541 
+surviving Lunar_theory.txt 1 255 
+perturb Lunar_theory.txt 2 1733 2569 
+attractions Lunar_theory.txt 7 1468 1842 1851 1873 1927 1931 2838 
+thereafter Lunar_theory.txt 1 590 
+number Lunar_theory.txt 3 3268 3293 3323 
+libration Lunar_theory.txt 2 1242 3736 
+newton-theoretical Lunar_theory.txt 1 2889 
+improvements Lunar_theory.txt 3 1207 2943 3534 
+done Lunar_theory.txt 2 2718 3940 
+adopted Lunar_theory.txt 1 554 
+directly Lunar_theory.txt 3 628 1986 3451 
+carry Lunar_theory.txt 1 1600 
+precisely Lunar_theory.txt 1 2817 
+electronic Lunar_theory.txt 1 3479 
+george Lunar_theory.txt 1 204 
+size Lunar_theory.txt 10 793 1254 1475 1669 1821 1863 2150 2351 2358 2373 
+earths Lunar_theory.txt 5 1896 2386 2415 2476 2540 
+little Lunar_theory.txt 1 938 
+ancient Lunar_theory.txt 4 221 234 256 848 
+jet Lunar_theory.txt 3 3489 3775 3835 
+needed Lunar_theory.txt 3 3271 3296 3326 
+introduction Lunar_theory.txt 1 3507 
+unknown Lunar_theory.txt 1 877 
+5th Lunar_theory.txt 1 373 
+system Lunar_theory.txt 4 383 412 1779 3825 
+approximately Lunar_theory.txt 4 430 449 775 951 
+their Lunar_theory.txt 11 1183 1203 1209 1361 1426 1480 2451 3003 3067 3086 4002 
+perturbations Lunar_theory.txt 10 19 2047 2307 2363 2496 2553 3033 3076 3148 3232 
+rates Lunar_theory.txt 1 2893 
+observations Lunar_theory.txt 3 634 3308 3576 
+john Lunar_theory.txt 2 201 3405 
+ranging Lunar_theory.txt 4 165 3340 3344 3585 
+williams Lunar_theory.txt 1 3817 
+gives Lunar_theory.txt 1 3616 
+174950 Lunar_theory.txt 1 2906 
+stars Lunar_theory.txt 2 410 717 
+mostly Lunar_theory.txt 1 668 
+that Lunar_theory.txt 32 93 394 679 834 846 875 912 915 931 1071 1094 1104 1392 1424 1451 1494 1532 1558 1579 1642 1698 1869 2262 2352 2402 2420 2551 2907 2930 3026 3624 3631 
+relative Lunar_theory.txt 8 404 713 1352 1428 1501 1586 1653 3160 
+took Lunar_theory.txt 1 2607 
+immediate Lunar_theory.txt 1 1204 
+transverse Lunar_theory.txt 1 2032 
+1919 Lunar_theory.txt 1 3117 
+part Lunar_theory.txt 3 558 575 2629 
+1960s Lunar_theory.txt 1 3359 
+somewhat Lunar_theory.txt 1 3368 
+authors Lunar_theory.txt 1 677 
+shortly Lunar_theory.txt 1 2904 
+july Lunar_theory.txt 1 3646 
+than Lunar_theory.txt 7 444 810 1546 2165 2178 3706 3936 
+coefficients Lunar_theory.txt 3 824 3046 3183 
+oscillate Lunar_theory.txt 1 936 
+begins Lunar_theory.txt 1 2305 
+observed Lunar_theory.txt 2 115 2892 
+b Lunar_theory.txt 1 384 
+almagest Lunar_theory.txt 1 894 
+showed Lunar_theory.txt 4 1616 2419 2697 2903 
+cyclic Lunar_theory.txt 1 498 
+19 Lunar_theory.txt 1 496 
+18 Lunar_theory.txt 1 720 
+approximations Lunar_theory.txt 1 2929 
+second Lunar_theory.txt 7 922 944 947 2251 3188 3352 3426 
+aims Lunar_theory.txt 3 3972 3982 4003 
+inversely Lunar_theory.txt 1 2839 
+soon Lunar_theory.txt 1 2650 
+kidenas Lunar_theory.txt 1 365 
+were Lunar_theory.txt 9 615 644 850 1200 1437 2663 2948 3119 3859 
+surprisingly Lunar_theory.txt 1 3002 
+providing Lunar_theory.txt 1 919 
+result Lunar_theory.txt 2 1709 2240 
+and Lunar_theory.txt 119 24 84 87 125 157 169 182 207 231 273 339 427 477 486 491 503 565 568 586 593 598 670 704 711 791 833 856 878 897 900 983 1042 1051 1144 1150 1181 1198 1250 1277 1357 1371 1406 1422 1461 1492 1572 1609 1633 1670 1714 1787 1815 1822 1857 1911 1925 1936 1956 1975 2007 2037 2050 2083 2100 2115 2151 2186 2265 2397 2406 2412 2661 2678 2722 2725 2746 2760 2765 2791 2806 2814 2833 2864 2890 2932 2956 2963 2990 3021 3045 3109 3125 3130 3249 3291 3337 3355 3389 3402 3447 3469 3505 3511 3563 3591 3614 3648 3726 3729 3758 3783 3799 3814 3818 3855 3869 3876 3918 4032 
+accelerative Lunar_theory.txt 6 1396 1441 1481 1510 1513 1567 
+remained Lunar_theory.txt 1 2967 
+half Lunar_theory.txt 1 2355 
+modern Lunar_theory.txt 15 53 71 162 232 279 812 823 1314 1539 3302 3332 3395 3696 3803 4027 
+ages Lunar_theory.txt 2 120 173 
+defect Lunar_theory.txt 2 1026 1164 
+kepler Lunar_theory.txt 3 1143 1152 1199 
+lq2 Lunar_theory.txt 1 2172 
+have Lunar_theory.txt 12 27 73 105 127 440 3165 3580 3878 3932 3956 3990 4004 
+seen Lunar_theory.txt 1 1002 
+any Lunar_theory.txt 3 138 282 2548 
+contents Lunar_theory.txt 1 95 
+relatively Lunar_theory.txt 1 2640 
+acceleration Lunar_theory.txt 7 1531 1675 1828 1963 2015 2025 2120 
+constructions Lunar_theory.txt 1 2217 
+1968 Lunar_theory.txt 2 3129 3554 
+newtonian Lunar_theory.txt 1 229 
+latter Lunar_theory.txt 1 1505 
+1967 Lunar_theory.txt 1 3550 
+1960 Lunar_theory.txt 2 3542 3548 
+ideas Lunar_theory.txt 1 623 
+gustave Lunar_theory.txt 1 195 
+couch Lunar_theory.txt 1 202 
+also Lunar_theory.txt 18 187 658 884 961 1251 1818 2418 2444 2502 2606 2852 2966 3197 3205 3210 3722 3904 3947 
+jeremiah Lunar_theory.txt 2 1145 1231 
+square Lunar_theory.txt 1 1878 
+take Lunar_theory.txt 1 2684 
+which Lunar_theory.txt 7 732 862 998 2302 2500 3529 4018 
+techniques Lunar_theory.txt 1 133 
+text Lunar_theory.txt 1 1696 
+accuracy Lunar_theory.txt 8 50 2726 2764 3279 3300 3330 3401 3875 
+calculus Lunar_theory.txt 1 2962 
+culminated Lunar_theory.txt 1 3102 
+added Lunar_theory.txt 1 1185 
+fundamental Lunar_theory.txt 1 82 
+trace Lunar_theory.txt 1 342 
+opposite Lunar_theory.txt 1 698 
+measures Lunar_theory.txt 1 3697 
+who Lunar_theory.txt 2 1233 3413 
+clearer Lunar_theory.txt 1 2086 
+most Lunar_theory.txt 4 539 2940 3074 3571 
+19842002 Lunar_theory.txt 1 3868 
+involving Lunar_theory.txt 1 1237 
+landing Lunar_theory.txt 1 3568 
+significant Lunar_theory.txt 5 189 1054 1705 3075 3572 
+quantitative Lunar_theory.txt 2 2369 2700 
+nothing Lunar_theory.txt 2 245 1915 
+parallactic Lunar_theory.txt 1 3216 
+model Lunar_theory.txt 3 1087 1093 1103 
+michelle Lunar_theory.txt 1 3919 
+observation Lunar_theory.txt 2 135 1070 
+spaceflight Lunar_theory.txt 1 3348 
+considered Lunar_theory.txt 3 214 1414 1487 
+calculated Lunar_theory.txt 1 581 
+later Lunar_theory.txt 4 780 967 1125 2017 
+uncomplicated Lunar_theory.txt 1 2641 
+giving Lunar_theory.txt 3 1166 1266 1888 
+accounted Lunar_theory.txt 2 841 949 
+disturbed Lunar_theory.txt 2 2439 2458 
+1687 Lunar_theory.txt 2 1335 1752 
+pattern Lunar_theory.txt 4 2423 2483 2513 2556 
+nineteenth Lunar_theory.txt 2 2805 3248 
+physics Lunar_theory.txt 1 230 
+sum Lunar_theory.txt 1 2004 
+fact Lunar_theory.txt 1 845 
+laws Lunar_theory.txt 4 1387 2827 2830 2925 
+planetary Lunar_theory.txt 2 3826 3854 
+drastically Lunar_theory.txt 1 1081 
+particularly Lunar_theory.txt 1 3785 
+disturbances Lunar_theory.txt 1 2530 
+past Lunar_theory.txt 1 3988 
+wikipedia Lunar_theory.txt 1 2 
+merit Lunar_theory.txt 1 1264 
+converge Lunar_theory.txt 1 3007 
+rotating Lunar_theory.txt 1 692 
+attempts Lunar_theory.txt 2 5 26 
+sun-earth-moon Lunar_theory.txt 1 1778 
+relation Lunar_theory.txt 3 499 2434 2452 
+earth Lunar_theory.txt 20 1116 1356 1491 1578 1589 1632 1656 1786 1856 1940 2070 2110 2167 2185 2216 2332 2348 2437 2456 2604 
+especially Lunar_theory.txt 1 3356 
+fine Lunar_theory.txt 1 3692 
+find Lunar_theory.txt 2 1726 2562 
+stepwise Lunar_theory.txt 1 416 
+subtracting Lunar_theory.txt 1 1996 
+one Lunar_theory.txt 5 3380 3434 3610 3743 3764 
+des Lunar_theory.txt 1 3924 
+ratio Lunar_theory.txt 2 1871 1881 
+knowledge Lunar_theory.txt 2 280 313 
+parameters Lunar_theory.txt 1 3055 
+standish Lunar_theory.txt 1 3830 
+true Lunar_theory.txt 1 3157 
+millennia Lunar_theory.txt 2 117 561 
+enough Lunar_theory.txt 1 3063 
+operational Lunar_theory.txt 1 3633 
+only Lunar_theory.txt 10 284 953 1016 1447 1561 1909 2354 2428 3477 3714 
+matters Lunar_theory.txt 1 1223 
+factor Lunar_theory.txt 2 994 1922 
+uruk Lunar_theory.txt 2 272 340 
+circle Lunar_theory.txt 2 685 723 
+thousands Lunar_theory.txt 1 3314 
+astronomical Lunar_theory.txt 5 266 2769 3432 3539 3864 
+11 Lunar_theory.txt 1 3643 
+his Lunar_theory.txt 7 1316 1768 2076 2559 2728 2741 2772 
+anomalistic Lunar_theory.txt 1 771 
+chapront-touz Lunar_theory.txt 1 3920 
+wide Lunar_theory.txt 1 896 
+vary Lunar_theory.txt 3 991 1013 2594 
+de Lunar_theory.txt 1 199 
+evection Lunar_theory.txt 6 837 861 887 970 3202 3206 
+hipparenum Lunar_theory.txt 1 274 
+grew Lunar_theory.txt 1 2488 
+nearly Lunar_theory.txt 3 2314 3027 3070 
+combinations Lunar_theory.txt 2 645 3069 
+2 Lunar_theory.txt 2 997 2059 
+symbols Lunar_theory.txt 1 3088 
+lunaire Lunar_theory.txt 1 3913 
+prosneusis Lunar_theory.txt 1 939 
+differential Lunar_theory.txt 2 3059 3172 
+teams Lunar_theory.txt 1 3757 
+irregularities Lunar_theory.txt 3 17 523 2622 
+twice Lunar_theory.txt 1 2398 
+common Lunar_theory.txt 2 2482 2512 
+double Lunar_theory.txt 1 1101 
+analytical Lunar_theory.txt 5 3888 3900 3930 3952 3976 
+tablets Lunar_theory.txt 2 294 336 
+fixed Lunar_theory.txt 2 409 716 
+where Lunar_theory.txt 2 2381 2409 
+16th Lunar_theory.txt 1 1047 
+view Lunar_theory.txt 1 1891 
+official Lunar_theory.txt 1 3863 
+computed Lunar_theory.txt 1 1107 
+achieved Lunar_theory.txt 1 1229 
+j0 Lunar_theory.txt 1 3546 
+j1 Lunar_theory.txt 1 3552 
+tended Lunar_theory.txt 1 3005 
+up Lunar_theory.txt 5 324 421 516 1722 2011 
+epochs Lunar_theory.txt 1 600 
+edition Lunar_theory.txt 2 1332 1754 
+see Lunar_theory.txt 6 51 657 883 3196 3204 3209 
+arc Lunar_theory.txt 1 3190 
+bare Lunar_theory.txt 1 262 
+are Lunar_theory.txt 16 15 88 176 181 667 1472 1497 1834 1843 1852 1977 3062 3082 3093 3263 3632 
+greece Lunar_theory.txt 1 585 
+close Lunar_theory.txt 2 817 2132 
+calendar Lunar_theory.txt 1 584 
+goddard Lunar_theory.txt 1 3347 
+subject Lunar_theory.txt 1 316 
+lq:sq Lunar_theory.txt 1 1874 
+lm+ms Lunar_theory.txt 1 2026 
+gravitation Lunar_theory.txt 2 2836 2860 
+inequalities Lunar_theory.txt 2 2695 3141 
+ways Lunar_theory.txt 2 2087 3377 
+pq:sq Lunar_theory.txt 1 1884 
+recognisably Lunar_theory.txt 1 1313 
+sqsq2 Lunar_theory.txt 1 2182 
+definite Lunar_theory.txt 1 278 
+increased Lunar_theory.txt 1 3400 
+continually Lunar_theory.txt 1 397 
+3 Lunar_theory.txt 6 1374 1463 1612 1738 1759 2574 
+various Lunar_theory.txt 1 121 
+moons Lunar_theory.txt 15 22 476 526 544 758 926 1177 1682 2126 2408 2820 3235 3275 3621 3656 
+tens Lunar_theory.txt 1 3312 
+drawn Lunar_theory.txt 1 1867 
+conditions Lunar_theory.txt 1 866 
+law Lunar_theory.txt 1 2858 
+available Lunar_theory.txt 2 136 3483 
+we Lunar_theory.txt 1 1548 
+latin Lunar_theory.txt 2 364 1753 
+terms Lunar_theory.txt 9 1315 1540 3038 3169 3243 3262 3270 3295 3325 
+institution Lunar_theory.txt 1 3761 
+25 Lunar_theory.txt 6 1376 1465 1614 1740 1761 2576 
+seventeenth-century Lunar_theory.txt 1 1210 
+points Lunar_theory.txt 1 2192 
+however Lunar_theory.txt 2 2901 3244 
+historians Lunar_theory.txt 1 249 
+nicolaus Lunar_theory.txt 1 1130 
+article Lunar_theory.txt 1 886 
+meantime Lunar_theory.txt 1 3497 
+bithynian Lunar_theory.txt 1 597 
+brahe Lunar_theory.txt 3 1141 1149 1197 
+improve Lunar_theory.txt 1 1222 
+dates Lunar_theory.txt 1 4000 
+ile Lunar_theory.txt 4 3528 3545 3551 3557 
+last Lunar_theory.txt 1 78 
+missions Lunar_theory.txt 1 3569 
+many Lunar_theory.txt 9 16 25 2206 2227 2272 2768 2992 3724 3738 
+taking Lunar_theory.txt 2 392 3763 
+annual Lunar_theory.txt 2 703 3213 
+according Lunar_theory.txt 1 130 
+attributed Lunar_theory.txt 1 370 
+trigonometry Lunar_theory.txt 1 2964 
+s Lunar_theory.txt 5 607 891 1784 2071 3105 
+became Lunar_theory.txt 3 964 3475 3482 
+present Lunar_theory.txt 1 2747 
+time-of-flight Lunar_theory.txt 1 3602 
+retrograde Lunar_theory.txt 2 695 741 
+long-term Lunar_theory.txt 1 4016 
+inverse-square Lunar_theory.txt 1 2857 
+whole Lunar_theory.txt 1 2755 
+experimental Lunar_theory.txt 1 3419 
+among Lunar_theory.txt 2 166 3016 
+stretches Lunar_theory.txt 1 150 
+solving Lunar_theory.txt 1 2686 
+extent Lunar_theory.txt 1 2724 
+point Lunar_theory.txt 4 1692 2327 2344 3671 
+acted Lunar_theory.txt 1 724 
+narrower Lunar_theory.txt 1 1020 
+period Lunar_theory.txt 5 226 762 1287 2776 2975 
+represented Lunar_theory.txt 1 3050 
+66 Lunar_theory.txt 3 1370 1460 1608 
+i.e Lunar_theory.txt 3 697 2321 2828 
+prominent Lunar_theory.txt 2 540 638 
+ptolemys Lunar_theory.txt 2 1085 1096 
+ps Lunar_theory.txt 2 1904 1907 
+basis Lunar_theory.txt 3 434 578 2824 
+monthly Lunar_theory.txt 5 705 1014 1173 1241 2600 
+acceptance Lunar_theory.txt 1 899 
+three Lunar_theory.txt 5 79 218 265 538 1190 
+been Lunar_theory.txt 20 28 74 114 128 345 369 441 1720 1917 2079 3166 3363 3373 3581 3773 3879 3905 3933 3957 3992 
+johannes Lunar_theory.txt 2 1142 1151 
+reduction Lunar_theory.txt 1 3219 
+much Lunar_theory.txt 6 808 966 1019 2400 2710 2815 
+basic Lunar_theory.txt 2 3054 3058 
+anomaly Lunar_theory.txt 1 948 
+500 Lunar_theory.txt 1 484 
+define Lunar_theory.txt 2 1302 2643 
+direction Lunar_theory.txt 9 696 701 742 1478 1671 1823 1903 1912 2152 
+corresponding Lunar_theory.txt 2 752 2142 
+influence Lunar_theory.txt 1 901 
+concerning Lunar_theory.txt 1 1136 
+lq Lunar_theory.txt 5 1858 1865 1932 1952 1999 
+observatory Lunar_theory.txt 1 3672 
+precision Lunar_theory.txt 5 126 3403 3662 3693 3877 
+tycho Lunar_theory.txt 2 1140 1148 
+earth-bound Lunar_theory.txt 1 3589 
+issue Lunar_theory.txt 1 3885 
+external Lunar_theory.txt 4 1395 1440 1453 1518 
+13041375 Lunar_theory.txt 1 1066 
+improved Lunar_theory.txt 5 913 3501 3525 3874 3995 
+worked Lunar_theory.txt 1 3414 
+eventually Lunar_theory.txt 1 3484 
+those Lunar_theory.txt 4 865 1416 2219 3809 
+applied Lunar_theory.txt 3 974 2503 2527 
+p1 Lunar_theory.txt 2 2099 2129 
+laser Lunar_theory.txt 5 164 3339 3343 3584 3607 
+these Lunar_theory.txt 16 119 300 436 640 2009 2485 2662 3047 3053 3118 3261 3695 3770 3894 3950 3974 
+retro-reflectors Lunar_theory.txt 1 3593 
+empirical Lunar_theory.txt 1 3516 
+value Lunar_theory.txt 1 813 
+easier Lunar_theory.txt 1 1890 
+aim Lunar_theory.txt 1 2782 
+voluminous Lunar_theory.txt 1 2955 
+while Lunar_theory.txt 1 760 
+substantial Lunar_theory.txt 1 1191 
+replaced Lunar_theory.txt 1 1095 
+halley Lunar_theory.txt 1 193 
+applies Lunar_theory.txt 1 2426 
+investigating Lunar_theory.txt 1 2612 
+eclipses Lunar_theory.txt 2 478 855 
+discoveries Lunar_theory.txt 1 1193 
+at Lunar_theory.txt 23 137 270 687 749 852 874 1443 1762 2128 2137 2153 2205 2379 2391 2403 2474 2908 3281 3346 3415 3623 3778 3965 
+principia Lunar_theory.txt 3 1325 1743 1757 
+uncertainty Lunar_theory.txt 1 2766 
+jpl Lunar_theory.txt 2 3838 3966 
+century Lunar_theory.txt 9 376 612 1041 1048 2797 2809 3229 3251 3287 
+linked Lunar_theory.txt 1 3821 
+vi Lunar_theory.txt 1 1384 
+is Lunar_theory.txt 36 41 141 380 570 807 816 840 999 1319 1382 1446 1560 1700 1707 1746 1866 1875 2000 2090 2130 2145 2159 2168 2176 2241 2255 2284 2313 2337 2353 2525 2639 3309 3316 3663 3698 
+thus Lunar_theory.txt 1 1555 
+it Lunar_theory.txt 20 149 569 815 1445 1559 1706 1817 2135 2312 2382 2390 2410 2524 2638 2687 2871 2939 2965 3023 3710 
+epicycle Lunar_theory.txt 6 730 747 768 774 942 1102 
+helped Lunar_theory.txt 1 513 
+itself Lunar_theory.txt 2 1554 2514 
+properties Lunar_theory.txt 1 4017 
+increase Lunar_theory.txt 2 3321 3331 
+dual Lunar_theory.txt 1 1808 
+hebrew Lunar_theory.txt 1 582 
+aspects Lunar_theory.txt 1 4010 
+ephemeris Lunar_theory.txt 5 305 3124 3493 3509 3527 
+synodic Lunar_theory.txt 1 551 
+movements Lunar_theory.txt 1 707 
+different Lunar_theory.txt 12 534 1411 1473 1485 2097 2228 2273 2468 2993 3068 3255 3369 
+develop Lunar_theory.txt 1 2745 
+perhaps Lunar_theory.txt 1 2084 
+began Lunar_theory.txt 2 285 492 
+formulations Lunar_theory.txt 1 3256 
+same Lunar_theory.txt 3 1134 1943 2422 
+clearly Lunar_theory.txt 1 1000 
+stimulated Lunar_theory.txt 1 3374 
+parts Lunar_theory.txt 4 219 1791 1798 3768 
+painstaking Lunar_theory.txt 1 326 
+arguments Lunar_theory.txt 4 3044 3061 3099 3173 
+evaluate Lunar_theory.txt 3 1346 2938 3448 
+complexities Lunar_theory.txt 1 2649 
+better Lunar_theory.txt 1 3503 
+difficult Lunar_theory.txt 1 2757 
+development Lunar_theory.txt 3 3492 3822 3846 
+visually Lunar_theory.txt 1 2085 
+used Lunar_theory.txt 10 75 91 1528 1594 2989 3120 3417 3536 3565 3860 
+centuries Lunar_theory.txt 4 35 80 2670 3989 
+numerical Lunar_theory.txt 7 333 518 3303 3459 3679 3961 4028 
+effect Lunar_theory.txt 4 858 1349 1593 1646 
+horrocks Lunar_theory.txt 2 1146 1232 
+renaissance Lunar_theory.txt 1 1128 
+levels Lunar_theory.txt 1 122 
+moving Lunar_theory.txt 1 2507 
+appreciable Lunar_theory.txt 1 1498 
+student Lunar_theory.txt 1 3408 
+intended Lunar_theory.txt 1 1702 
+groundbreaking Lunar_theory.txt 1 1317 
+moon-earth Lunar_theory.txt 1 2335 
+laborious Lunar_theory.txt 1 2958 
+kqsq Lunar_theory.txt 1 1887 
+mid-eighteenth Lunar_theory.txt 1 2796 
+built Lunar_theory.txt 3 323 515 1721 
+numbered Lunar_theory.txt 1 3848 
+earth-sun Lunar_theory.txt 4 1813 1826 2319 2341 
+suitable Lunar_theory.txt 1 3652 
+kept Lunar_theory.txt 1 466 
+center Lunar_theory.txt 10 463 744 790 800 830 872 959 3194 3201 3349 
+records Lunar_theory.txt 1 469 
+ptolemaic Lunar_theory.txt 3 599 1029 1155 
+modeled Lunar_theory.txt 1 43 
+numerous Lunar_theory.txt 1 1213 
+1972 Lunar_theory.txt 1 3560 
+analysis Lunar_theory.txt 4 327 1603 1769 2734 
+thought Lunar_theory.txt 1 2881 
+1 Lunar_theory.txt 4 804 1368 1458 1606 
+components Lunar_theory.txt 3 1954 2030 2593 
+relied Lunar_theory.txt 1 2935 
+position Lunar_theory.txt 11 388 1245 1684 2127 2155 2238 2297 3236 3276 3575 3653 
+the Lunar_theory.txt 402 9 12 21 77 107 111 132 152 155 172 210 225 253 309 315 350 357 371 387 390 395 406 433 452 459 462 464 482 495 509 521 525 533 537 543 546 550 556 577 580 596 603 610 619 636 651 662 680 690 700 709 715 722 733 743 746 754 761 764 767 783 786 789 799 811 819 822 826 829 836 838 844 847 857 860 868 871 893 925 933 941 955 958 969 981 987 1005 1010 1028 1039 1046 1061 1069 1072 1075 1106 1112 1115 1127 1133 1137 1154 1171 1176 1187 1194 1218 1244 1247 1253 1256 1262 1272 1280 1293 1299 1303 1306 1310 1324 1330 1347 1351 1355 1364 1377 1386 1394 1449 1452 1466 1470 1484 1490 1500 1504 1523 1525 1530 1533 1552 1562 1565 1570 1573 1577 1581 1584 1588 1623 1628 1631 1635 1638 1640 1644 1648 1651 1655 1668 1673 1678 1681 1695 1711 1715 1717 1727 1730 1734 1742 1750 1756 1774 1777 1782 1785 1789 1812 1820 1825 1832 1849 1855 1860 1862 1870 1876 1880 1893 1895 1899 1920 1934 1939 1942 1961 1965 1968 1992 2002 2023 2062 2069 2103 2109 2111 2118 2123 2125 2157 2163 2166 2169 2174 2179 2184 2188 2196 2209 2215 2231 2239 2250 2260 2268 2276 2292 2295 2299 2303 2306 2309 2318 2331 2334 2340 2347 2356 2360 2372 2375 2385 2393 2404 2414 2421 2430 2436 2441 2454 2460 2464 2471 2475 2478 2481 2495 2498 2505 2529 2532 2535 2539 2545 2563 2566 2570 2583 2596 2603 2608 2614 2624 2631 2644 2653 2658 2676 2681 2693 2706 2720 2723 2732 2748 2754 2762 2780 2795 2803 2819 2823 2829 2842 2845 2848 2856 2862 2869 2888 2891 2895 2898 2910 2914 2919 2942 2971 2983 2986 2998 3009 3012 3030 3073 3078 3097 3112 3115 3122 3145 3153 3171 3179 3186 3193 3200 3221 3224 3227 3231 3234 3247 3258 3267 3274 3278 3282 3285 3292 3299 3311 3320 3342 3351 3358 3379 3383 3391 3418 3425 3436 3445 3449 3462 3467 3470 3488 3496 3506 3512 3524 3538 3570 3578 3582 3596 3599 3601 3612 3620 3626 3638 3641 3655 3669 3685 3707 3753 3766 3774 3788 3791 3802 3806 3820 3832 3834 3862 3884 3911 3922 3929 3942 3960 3970 3981 3984 4006 4012 4026 
+arising Lunar_theory.txt 1 1359 
+drawing Lunar_theory.txt 1 1067 
+bodies Lunar_theory.txt 5 1413 1417 1486 1506 2850 
+distances Lunar_theory.txt 6 1110 1139 1796 1830 1883 2846 
+excessive Lunar_theory.txt 1 2928 
+proposed Lunar_theory.txt 2 1033 1234 
+less Lunar_theory.txt 1 627 
+being Lunar_theory.txt 4 37 90 2526 3665 
+generally Lunar_theory.txt 1 2449 
+accurate Lunar_theory.txt 1 468 
+newton Lunar_theory.txt 18 224 237 606 1282 1296 1342 1507 1556 1590 1885 1945 2018 2364 2417 2577 2696 2778 2947 
+gravity Lunar_theory.txt 2 1362 1514 
+not Lunar_theory.txt 12 952 1001 1078 1160 1689 1701 2427 2917 3001 3713 3991 4020 
+diagrammatic Lunar_theory.txt 1 2073 
+mechanism Lunar_theory.txt 1 1098 
+world Lunar_theory.txt 2 3353 3427 
+alternative Lunar_theory.txt 2 1214 2043 
+speed Lunar_theory.txt 2 400 420 
+yet Lunar_theory.txt 1 344 
+away Lunar_theory.txt 3 2161 2194 2329 
+afterwards Lunar_theory.txt 1 2905 
+tables Lunar_theory.txt 1 3110 
+bibliography Lunar_theory.txt 1 4035 
+ephemerides Lunar_theory.txt 9 3433 3800 3827 3847 3852 3857 3866 3870 3962 
+farther Lunar_theory.txt 1 2160 
+had Lunar_theory.txt 6 260 320 895 1132 1261 2934 
+sometimes Lunar_theory.txt 1 3094 
+add Lunar_theory.txt 1 2010 
+book Lunar_theory.txt 9 1367 1373 1457 1462 1605 1611 1737 1758 2573 
+attractive Lunar_theory.txt 1 1801 
+technological Lunar_theory.txt 1 85 
+elp Lunar_theory.txt 1 3955 
+has Lunar_theory.txt 15 60 113 319 343 368 1719 1916 2078 2515 3362 3372 3744 3772 3839 3903 
+euler Lunar_theory.txt 2 2788 3019 
+gave Lunar_theory.txt 2 907 2365 
+cuneiform Lunar_theory.txt 1 290 
+conventional Lunar_theory.txt 1 3087 
+around Lunar_theory.txt 6 766 2068 2108 2214 2298 2602 
+easily Lunar_theory.txt 1 4022 
+25-30 Lunar_theory.txt 1 3241 
+advances Lunar_theory.txt 1 1055 
+showing Lunar_theory.txt 2 1929 2587 
+possible Lunar_theory.txt 1 129 
+integrations Lunar_theory.txt 2 3304 3680 
+arab Lunar_theory.txt 1 1062 
+possibly Lunar_theory.txt 1 275 
+five Lunar_theory.txt 1 3629 
+makes Lunar_theory.txt 1 1947 
+background Lunar_theory.txt 1 407 
+using Lunar_theory.txt 5 928 3239 3588 3694 3926 
+projects Lunar_theory.txt 1 3437 
+babylonian Lunar_theory.txt 5 156 242 297 358 547 
+necessary Lunar_theory.txt 1 2968 
+adams Lunar_theory.txt 1 203 
+lost Lunar_theory.txt 1 669 
+texts Lunar_theory.txt 3 291 301 330 
+epicycles Lunar_theory.txt 1 654 
+follows Lunar_theory.txt 1 2598 
+sizes Lunar_theory.txt 1 2264 
+1970s Lunar_theory.txt 2 3793 3833 
+almanacs Lunar_theory.txt 1 3540 
+continue Lunar_theory.txt 1 1433 
+steps Lunar_theory.txt 2 2610 2730 
+clay Lunar_theory.txt 1 293 
+become Lunar_theory.txt 1 2516 
+accelerations Lunar_theory.txt 3 1772 1800 2487 
+works Lunar_theory.txt 1 666 
+reduced Lunar_theory.txt 1 1105 
+mathematical Lunar_theory.txt 3 185 2666 2994 
+jean Lunar_theory.txt 2 2792 3916 
+based Lunar_theory.txt 4 2922 3305 3699 3751 
+theorists Lunar_theory.txt 1 2988 
+often Lunar_theory.txt 1 2517 
+classical Lunar_theory.txt 6 228 2774 3708 3796 3943 3985 
+parisienne Lunar_theory.txt 1 3914 
+1st Lunar_theory.txt 1 831 
+some Lunar_theory.txt 9 479 1122 1399 1410 1517 2699 3515 3531 3948 
+back Lunar_theory.txt 1 3615 
+astronomer Lunar_theory.txt 3 359 1063 1129 
+towards Lunar_theory.txt 4 1363 1469 2346 3801 
+dexxx Lunar_theory.txt 1 3849 
+bureau Lunar_theory.txt 1 3923 
+apache Lunar_theory.txt 1 3670 
+happens Lunar_theory.txt 1 1402 
+provided Lunar_theory.txt 1 776 
+scale Lunar_theory.txt 3 1712 1921 1944 
+for Lunar_theory.txt 41 8 32 81 116 385 451 470 532 549 555 579 777 842 880 902 920 954 962 1217 1288 1321 1379 2058 2095 2117 2226 2236 2271 2371 2466 2668 2688 2818 2865 2969 3429 3466 3819 3867 3886 3998 
+often-presented Lunar_theory.txt 1 2257 
+sippar Lunar_theory.txt 1 276 
+integration Lunar_theory.txt 1 3460 
+per Lunar_theory.txt 2 1542 1803 
+moon Lunar_theory.txt 51 13 112 310 391 396 637 663 681 712 734 765 988 1011 1076 1113 1281 1311 1358 1493 1571 1585 1639 1652 1679 1735 1775 1790 1861 1900 1935 1966 2063 2104 2158 2175 2210 2232 2277 2293 2310 2326 2431 2465 2499 2536 2571 2597 3116 3579 3600 3639 
+does Lunar_theory.txt 2 1012 1688 
+decomposition Lunar_theory.txt 2 1596 1950 
+lunar Lunar_theory.txt 51 0 3 39 55 58 98 103 147 163 179 419 454 501 613 642 910 1057 1086 1092 1119 1138 1156 1188 1219 1248 1289 1339 2625 2694 2713 2899 2920 2987 3032 3079 3106 3140 3147 3338 3360 3442 3526 3567 3583 3673 3686 3735 3797 3851 3856 3901 
+tends Lunar_theory.txt 1 1535 
+indication Lunar_theory.txt 1 2679 
+newcomb Lunar_theory.txt 1 209 
+subtracted Lunar_theory.txt 1 1987 
+refer Lunar_theory.txt 1 2977 
+be Lunar_theory.txt 13 213 322 1419 1704 1985 2224 2883 3035 3049 3176 3750 3939 4023 
+object Lunar_theory.txt 1 2550 
+radial Lunar_theory.txt 1 2039 
+medieval Lunar_theory.txt 1 566 
+bc Lunar_theory.txt 3 377 485 488 
+predicting Lunar_theory.txt 1 386 
+notable Lunar_theory.txt 3 167 184 1226 
+opposes Lunar_theory.txt 1 2411 
+notably Lunar_theory.txt 2 3762 3910 
+if Lunar_theory.txt 2 1393 1435 
+arithmetical Lunar_theory.txt 1 442 
+laser-ranging Lunar_theory.txt 2 3307 3674 
+tidal Lunar_theory.txt 5 2472 2508 2521 2541 3725 
+between Lunar_theory.txt 7 481 500 821 1564 1923 2847 2887 
+takes Lunar_theory.txt 1 3711 
+on Lunar_theory.txt 38 292 335 914 1068 1350 1409 1483 1489 1499 1569 1576 1630 1637 1647 1677 1773 1854 1859 1898 1933 1938 1941 1964 2173 2183 2308 2753 2822 2875 2923 2936 3306 3378 3390 3595 3654 3700 3752 
+about Lunar_theory.txt 5 802 996 1023 1919 3240 
+delaunay Lunar_theory.txt 2 3091 3098 
+central Lunar_theory.txt 1 1163 
+working Lunar_theory.txt 2 2656 3945 
+anything Lunar_theory.txt 1 348 
+algebraic Lunar_theory.txt 1 2951 
+of Lunar_theory.txt 208 11 36 49 63 67 97 102 123 134 146 154 227 241 250 258 264 281 306 308 314 328 347 378 389 408 418 435 461 472 474 520 536 542 559 576 605 621 632 635 646 650 653 661 702 708 745 763 788 798 801 825 828 835 854 859 870 916 924 940 957 986 995 1009 1022 1027 1109 1111 1165 1170 1196 1246 1255 1265 1271 1279 1295 1305 1309 1338 1354 1388 1503 1583 1597 1627 1634 1650 1672 1710 1729 1741 1755 1770 1792 1824 1864 1872 1879 1882 1892 1951 1970 2005 2022 2045 2061 2102 2208 2230 2259 2267 2275 2359 2374 2392 2424 2470 2480 2484 2490 2494 2497 2531 2534 2538 2544 2547 2554 2565 2630 2655 2675 2680 2692 2711 2715 2727 2767 2783 2825 2831 2834 2844 2859 2877 2897 2913 2941 2960 2973 2982 3011 3029 3039 3072 3077 3111 3114 3144 3170 3189 3192 3199 3226 3233 3257 3269 3284 3294 3301 3313 3324 3329 3385 3409 3431 3435 3461 3464 3508 3514 3574 3577 3598 3603 3606 3611 3619 3628 3704 3715 3723 3734 3755 3765 3781 3805 3810 3823 3843 3872 3899 3949 3973 3983 3987 4008 4011 
+completing Lunar_theory.txt 1 2970 
+months Lunar_theory.txt 1 502 
+librations Lunar_theory.txt 1 3683 
+factors Lunar_theory.txt 2 1713 2739 
+recognized Lunar_theory.txt 3 781 1201 3025 
+range Lunar_theory.txt 3 1021 1108 3703 
+greatly Lunar_theory.txt 2 3399 3731 
+act Lunar_theory.txt 1 1404 
+improvement Lunar_theory.txt 1 3573 
+referred Lunar_theory.txt 1 1508 
+or Lunar_theory.txt 15 18 363 366 374 422 626 946 1476 1512 2247 2324 2462 2537 2543 3138 
+considerations Lunar_theory.txt 1 3705 
+perturbed Lunar_theory.txt 1 1307 
+own Lunar_theory.txt 1 2742 
+facility Lunar_theory.txt 1 3345 
+previously Lunar_theory.txt 2 3937 3963 
+into Lunar_theory.txt 5 217 1953 2028 3103 3444 
+successive Lunar_theory.txt 1 3533 
+numerically Lunar_theory.txt 2 3690 3844 
+j2 Lunar_theory.txt 1 3558 
+due Lunar_theory.txt 3 1515 2121 3089 
+down Lunar_theory.txt 5 160 171 423 601 2798 
+device Lunar_theory.txt 1 930 
+perturbing Lunar_theory.txt 14 1348 1645 1674 1771 1962 2014 2024 2119 2377 2486 2585 2615 2645 2708 
+newtons Lunar_theory.txt 16 1662 1723 1747 2055 2072 2140 2147 2221 2491 2633 2672 2716 2784 2826 2924 3017 
+references Lunar_theory.txt 1 4033 
+selected Lunar_theory.txt 1 2690 
+proportional Lunar_theory.txt 1 2840 
+refined Lunar_theory.txt 1 1153 
+nowadays Lunar_theory.txt 1 2510 
+1984 Lunar_theory.txt 1 3136 
+signifies Lunar_theory.txt 1 1908 
+1983 Lunar_theory.txt 2 3544 3562 
+ptolemy Lunar_theory.txt 4 564 594 888 890 
+assumed Lunar_theory.txt 2 678 736 
+there Lunar_theory.txt 5 14 140 1436 3315 3423 
+approximate Lunar_theory.txt 1 1239 
+long Lunar_theory.txt 2 144 630 
+class Lunar_theory.txt 1 3898 
+joseph Lunar_theory.txt 1 287 
+way Lunar_theory.txt 5 94 1716 2759 3181 3370 
+computer-assisted Lunar_theory.txt 1 3927 
+was Lunar_theory.txt 25 246 553 735 769 779 873 1228 1298 1529 2136 2635 2717 2735 2752 2810 2872 2879 3024 3288 3438 3454 3500 3535 3564 3635 
+war Lunar_theory.txt 2 3354 3428 
+leading Lunar_theory.txt 1 3767 
+project Lunar_theory.txt 1 3453 
+derral Lunar_theory.txt 1 3812 
+form Lunar_theory.txt 4 334 2258 2952 3134 
+diminishes Lunar_theory.txt 1 2413 
+jewish Lunar_theory.txt 1 583 
+analyse Lunar_theory.txt 1 2997 
+but Lunar_theory.txt 14 277 446 814 960 971 1015 1158 1208 1694 1905 2443 2647 2926 3721 
+repeated Lunar_theory.txt 1 2225 
+construction Lunar_theory.txt 1 1620 
+crank Lunar_theory.txt 1 1097 
+solar Lunar_theory.txt 10 504 1336 1924 1930 2046 2198 2376 2584 2707 3824 
+larger Lunar_theory.txt 1 3702 
+mid-18th Lunar_theory.txt 1 3228 
+line Lunar_theory.txt 5 1659 1686 1906 2316 2336 
+apollo Lunar_theory.txt 1 3642 
+with Lunar_theory.txt 16 178 424 618 1099 1292 2349 3085 3182 3277 3398 3502 3519 3530 3718 3787 3893 
+he Lunar_theory.txt 12 302 906 1088 1297 1527 1615 1766 1959 2388 2501 2605 2931 
+pontcoulant Lunar_theory.txt 1 200 
+inverse Lunar_theory.txt 1 1877 
+made Lunar_theory.txt 6 29 188 261 932 1059 2949 
+portions Lunar_theory.txt 1 2469 
+largest Lunar_theory.txt 2 3137 3146 
+versions Lunar_theory.txt 1 1328 
+whether Lunar_theory.txt 1 2523 
+gravitational Lunar_theory.txt 10 1286 1467 1625 1799 1827 2733 2775 2999 3014 3716 
+j Lunar_theory.txt 2 3811 3815 
+variations Lunar_theory.txt 1 1174 
+maximum Lunar_theory.txt 2 429 2357 
+until Lunar_theory.txt 2 3128 3135 
+placed Lunar_theory.txt 2 3594 3649 
+below Lunar_theory.txt 1 1666 
+limit Lunar_theory.txt 1 3318 
+today Lunar_theory.txt 1 3634 
+hand Lunar_theory.txt 2 3381 3393 
+problem Lunar_theory.txt 4 1304 2654 2677 3000 
+similar Lunar_theory.txt 1 1118 
+called Lunar_theory.txt 1 382 
+distance Lunar_theory.txt 8 982 1073 1178 1275 1814 1839 1910 3622 
+150 Lunar_theory.txt 1 1123 
+deferent Lunar_theory.txt 1 727 
+associated Lunar_theory.txt 3 177 3518 3786 
+armstrong Lunar_theory.txt 1 3660 
+introducing Lunar_theory.txt 1 2558 
+defined Lunar_theory.txt 1 1918 
+universal Lunar_theory.txt 1 2835 
+measure Lunar_theory.txt 2 1526 3618 
+moved Lunar_theory.txt 2 682 748 
+an Lunar_theory.txt 8 304 729 770 796 1238 1889 2256 3760 
+as Lunar_theory.txt 26 458 508 574 725 782 968 1080 1082 1206 1434 1522 1664 1967 2399 2401 2438 2457 2519 2595 3096 3327 3688 3748 3882 3967 4015 
+geophysical Lunar_theory.txt 1 3727 
+periods Lunar_theory.txt 1 535 
+planets Lunar_theory.txt 1 3473 
+nautical Lunar_theory.txt 1 3126 
+longitudes Lunar_theory.txt 1 3925 
+archive Lunar_theory.txt 1 298 
+machine Lunar_theory.txt 1 3446 
+entirely Lunar_theory.txt 1 3456 
+no Lunar_theory.txt 4 341 1438 3264 3317 
+amounts Lunar_theory.txt 1 2959 
+when Lunar_theory.txt 3 286 2311 2333 
+detail Lunar_theory.txt 2 2590 2701 
+reality Lunar_theory.txt 1 1004 
+other Lunar_theory.txt 13 183 676 1412 1431 1797 1829 1841 1981 2082 2446 2549 3392 3739 
+5 Lunar_theory.txt 2 688 803 
+details Lunar_theory.txt 1 283 
+digital Lunar_theory.txt 4 3335 3387 3420 3480 
+test Lunar_theory.txt 1 2863 
+out Lunar_theory.txt 3 1601 2489 2657 
+babylon Lunar_theory.txt 3 239 271 338 
+conclusion Lunar_theory.txt 1 978 
+poor Lunar_theory.txt 1 1168 
+operation Lunar_theory.txt 1 3675 
+almanac Lunar_theory.txt 2 3127 3865 
+calculating Lunar_theory.txt 1 414 
+separate Lunar_theory.txt 1 885 
+tides Lunar_theory.txt 1 3682 
+enterprise Lunar_theory.txt 1 2632 
+categories Lunar_theory.txt 2 4037 4039 
+long-lasting Lunar_theory.txt 1 898 
+variation Lunar_theory.txt 2 3207 3211 
+includes Lunar_theory.txt 1 57 
+william Lunar_theory.txt 2 205 3411 
+recent Lunar_theory.txt 2 3908 3975 
+data-types Lunar_theory.txt 1 3397 
+included Lunar_theory.txt 2 106 4005 
+astronomy Lunar_theory.txt 2 243 3212 
+reflectors Lunar_theory.txt 2 3613 3630 
+relativity Lunar_theory.txt 1 3681 
+suffers Lunar_theory.txt 1 2552 
+e Lunar_theory.txt 1 3828 
+longer Lunar_theory.txt 1 3265 
+practically Lunar_theory.txt 1 244 
+resolution Lunar_theory.txt 1 2021 
+required Lunar_theory.txt 1 1083 
+orbit Lunar_theory.txt 7 660 2067 2107 2213 2235 2280 2300 
+daily Lunar_theory.txt 1 415 
+institutions Lunar_theory.txt 1 3759 
+2003 Lunar_theory.txt 1 3887 
+2000 Lunar_theory.txt 1 65 
+carrying Lunar_theory.txt 1 728 
+mass Lunar_theory.txt 2 1544 1805 
+fitted Lunar_theory.txt 1 3958 
+doubted Lunar_theory.txt 1 2874 
+time Lunar_theory.txt 10 139 480 604 876 2077 2773 2867 3010 3510 3625 
+far Lunar_theory.txt 1 1914 
+starting Lunar_theory.txt 1 1621 
+once Lunar_theory.txt 1 718 

@@ -1,0 +1,1954 @@
+four Exploratorium.txt 3 3499 5660 6114 
+facilities Exploratorium.txt 1 1699 
+consists Exploratorium.txt 3 3613 4456 6684 
+oldest Exploratorium.txt 1 3406 
+integrity Exploratorium.txt 1 1520 
+electricity Exploratorium.txt 2 230 2803 
+ali Exploratorium.txt 1 5577 
+james Exploratorium.txt 1 5613 
+bays Exploratorium.txt 1 3738 
+under Exploratorium.txt 5 1507 2146 2485 3349 5648 
+teaching Exploratorium.txt 6 592 4091 4161 4226 4807 4877 
+mid-20th Exploratorium.txt 1 79 
+collaborate Exploratorium.txt 1 2848 
+regional Exploratorium.txt 2 2286 4812 
+every Exploratorium.txt 4 1514 3816 5604 6660 
+bringing Exploratorium.txt 1 864 
+school Exploratorium.txt 14 555 566 581 758 881 4145 4368 4383 4481 4988 5053 5089 5194 5229 
+internally Exploratorium.txt 1 6011 
+fritted Exploratorium.txt 1 1764 
+commons Exploratorium.txt 1 4791 
+piling Exploratorium.txt 1 1515 
+force Exploratorium.txt 1 1404 
+specially Exploratorium.txt 1 1955 
+disciplines Exploratorium.txt 1 5412 
+direct Exploratorium.txt 1 3697 
+waterless Exploratorium.txt 1 2519 
+chef Exploratorium.txt 2 4242 6639 
+surrounding Exploratorium.txt 2 3632 3725 
+second Exploratorium.txt 1 1831 
+street Exploratorium.txt 2 6529 6606 
+akbar Exploratorium.txt 1 5578 
+estimated Exploratorium.txt 3 2542 4099 5899 
+tactile Exploratorium.txt 1 2947 
+established Exploratorium.txt 1 5816 
+ned Exploratorium.txt 1 5498 
+selected Exploratorium.txt 1 5688 
+near Exploratorium.txt 1 6592 
+above Exploratorium.txt 3 1038 1093 3358 
+new Exploratorium.txt 17 65 363 813 1099 1522 1582 1598 2654 2712 3253 3433 4181 5501 5532 5536 5918 5933 
+increasing Exploratorium.txt 1 1170 
+seeks Exploratorium.txt 1 4079 
+here Exploratorium.txt 1 1073 
+met Exploratorium.txt 1 2362 
+studio Exploratorium.txt 4 4596 4816 6195 6441 
+cult Exploratorium.txt 1 4237 
+100 Exploratorium.txt 1 5025 
+forum Exploratorium.txt 1 3007 
+oxford Exploratorium.txt 1 5798 
+study Exploratorium.txt 1 4499 
+museums Exploratorium.txt 20 143 251 311 352 695 708 717 1108 1261 1704 2918 4561 4653 4938 5592 5775 6018 6087 6145 6391 
+smoke Exploratorium.txt 1 2852 
+permit Exploratorium.txt 1 2281 
+changes Exploratorium.txt 2 948 963 
+ganson Exploratorium.txt 1 5619 
+cabaret-style Exploratorium.txt 1 3009 
+erected Exploratorium.txt 1 980 
+brought Exploratorium.txt 1 2175 
+visible Exploratorium.txt 1 2016 
+10am-5pm Exploratorium.txt 1 6502 
+socioeconomic Exploratorium.txt 1 5205 
+off-site Exploratorium.txt 1 6487 
+total Exploratorium.txt 1 2076 
+explainer Exploratorium.txt 5 759 5039 5238 5275 6351 
+landscape Exploratorium.txt 4 248 2823 3562 3602 
+would Exploratorium.txt 8 583 596 662 978 1747 5149 5211 5217 
+overhead Exploratorium.txt 2 2589 3371 
+until Exploratorium.txt 3 169 1110 1135 
+separated Exploratorium.txt 1 211 
+nakaya Exploratorium.txt 3 3800 3852 5524 
+award Exploratorium.txt 1 421 
+glass Exploratorium.txt 6 1474 1742 1765 3331 3495 5572 
+warm Exploratorium.txt 1 1757 
+real-time Exploratorium.txt 1 3628 
+90 Exploratorium.txt 1 4203 
+multi-day Exploratorium.txt 1 4901 
+1991 Exploratorium.txt 1 1134 
+1990 Exploratorium.txt 1 1125 
+1993 Exploratorium.txt 1 6079 
+flora Exploratorium.txt 1 2826 
+1995 Exploratorium.txt 1 4095 
+1997 Exploratorium.txt 1 6112 
+work Exploratorium.txt 4 824 4642 5437 6013 
+eclipse Exploratorium.txt 1 6071 
+roof Exploratorium.txt 2 2056 3981 
+transparency Exploratorium.txt 1 1779 
+concepts Exploratorium.txt 1 743 
+revenues Exploratorium.txt 1 5942 
+example Exploratorium.txt 3 2030 5819 6438 
+piers Exploratorium.txt 20 181 1190 1205 1228 1266 1307 1335 1341 1354 1375 1391 1482 1534 1563 1904 2148 3666 3794 3926 4330 
+inscription Exploratorium.txt 1 1071 
+loosen Exploratorium.txt 1 5171 
+cited Exploratorium.txt 2 137 4661 
+glare-reducing Exploratorium.txt 1 1730 
+india Exploratorium.txt 1 4675 
+dragons Exploratorium.txt 1 5519 
+titanium Exploratorium.txt 1 2202 
+explainers Exploratorium.txt 12 5035 5067 5077 5087 5090 5097 5168 5197 5233 5284 5289 6355 
+end Exploratorium.txt 3 1606 1862 6305 
+provide Exploratorium.txt 5 1518 4747 4961 5122 6197 
+travel Exploratorium.txt 1 5457 
+eno Exploratorium.txt 1 5576 
+machine Exploratorium.txt 1 3767 
+how Exploratorium.txt 4 682 2890 4574 4580 
+poker Exploratorium.txt 1 2901 
+after Exploratorium.txt 6 2260 2657 5391 5712 5817 6663 
+diagram Exploratorium.txt 1 2109 
+lay Exploratorium.txt 1 5952 
+curiosity Exploratorium.txt 2 634 4843 
+waterfront Exploratorium.txt 2 3458 3482 
+loretta Exploratorium.txt 1 4062 
+types Exploratorium.txt 1 5085 
+shaw Exploratorium.txt 1 6624 
+chilled Exploratorium.txt 1 2326 
+2,113,715 Exploratorium.txt 1 2080 
+effective Exploratorium.txt 1 5751 
+communities Exploratorium.txt 1 4754 
+online-only Exploratorium.txt 1 6158 
+aeolian Exploratorium.txt 1 3967 
+green Exploratorium.txt 2 2705 6528 
+plumbing Exploratorium.txt 1 2512 
+operate Exploratorium.txt 1 6585 
+order Exploratorium.txt 1 2034 
+wind Exploratorium.txt 1 2812 
+interpretation Exploratorium.txt 1 3488 
+welcomed Exploratorium.txt 1 1156 
+over Exploratorium.txt 16 253 1359 1445 1450 1538 1629 2715 3161 3168 3560 3575 3662 3829 4739 5024 5407 
+partnered Exploratorium.txt 1 4475 
+london Exploratorium.txt 1 4555 
+colorados Exploratorium.txt 1 611 
+before Exploratorium.txt 3 1064 2172 4282 
+personal Exploratorium.txt 1 2983 
+highlights Exploratorium.txt 1 2011 
+50,000 Exploratorium.txt 2 904 4924 
+exhibits Exploratorium.txt 36 89 122 256 396 688 871 959 987 1314 1435 1572 2717 2737 2760 2772 2777 2875 2898 3092 3230 3256 3318 3320 3377 3411 3450 3507 3708 3963 5448 5906 6156 6331 6383 6675 6688 
+400 Exploratorium.txt 1 5809 
+hidden Exploratorium.txt 2 3079 6759 
+carton Exploratorium.txt 1 4266 
+overcome Exploratorium.txt 1 1761 
+eventually Exploratorium.txt 2 557 5281 
+them Exploratorium.txt 2 407 1691 
+safe Exploratorium.txt 1 1795 
+they Exploratorium.txt 6 4126 4249 5210 5463 6457 6644 
+schools Exploratorium.txt 3 4538 4563 4652 
+lifelong Exploratorium.txt 2 4849 4862 
+structural Exploratorium.txt 2 1519 2487 
+backgrounds Exploratorium.txt 1 5206 
+l Exploratorium.txt 1 1117 
+ventilation Exploratorium.txt 3 2398 2409 2426 
+each Exploratorium.txt 5 2753 5058 5416 5886 6103 
+acoustic Exploratorium.txt 1 6727 
+went Exploratorium.txt 1 5482 
+directly Exploratorium.txt 6 752 3048 3322 4108 6168 6603 
+series Exploratorium.txt 2 3823 4889 
+displacement Exploratorium.txt 2 2408 2425 
+doug Exploratorium.txt 1 3977 
+laboratory Exploratorium.txt 2 112 623 
+ring Exploratorium.txt 1 2853 
+network Exploratorium.txt 4 349 4712 4728 4734 
+vessels Exploratorium.txt 1 6300 
+fellows Exploratorium.txt 2 5594 5608 
+content Exploratorium.txt 2 213 2757 
+fellowship Exploratorium.txt 2 712 5492 
+encourage Exploratorium.txt 1 2876 
+weighted Exploratorium.txt 1 5700 
+full-spectrum Exploratorium.txt 1 6655 
+foundation Exploratorium.txt 5 645 910 2921 4426 5001 
+perception Exploratorium.txt 5 47 2786 2881 3262 3289 
+turning Exploratorium.txt 1 2690 
+given Exploratorium.txt 2 270 5453 
+free Exploratorium.txt 4 4632 5864 5872 6241 
+240 Exploratorium.txt 1 1448 
+sensors Exploratorium.txt 1 3619 
+wanted Exploratorium.txt 2 3065 5120 
+9-11 Exploratorium.txt 1 4906 
+juan Exploratorium.txt 1 5638 
+enormous Exploratorium.txt 1 1402 
+created Exploratorium.txt 8 259 1076 1660 1936 3801 3992 5415 6719 
+days Exploratorium.txt 4 1758 3579 5115 5874 
+creates Exploratorium.txt 2 3809 4852 
+incorporated Exploratorium.txt 2 1800 5331 
+signature Exploratorium.txt 1 4939 
+guesswork Exploratorium.txt 1 5138 
+onto Exploratorium.txt 2 5696 6189 
+industrial Exploratorium.txt 1 1897 
+features Exploratorium.txt 2 1953 2475 
+hearing Exploratorium.txt 2 2790 3275 
+featured Exploratorium.txt 1 6315 
+another Exploratorium.txt 2 3740 6712 
+millers Exploratorium.txt 1 5385 
+leaders Exploratorium.txt 1 4436 
+renovated Exploratorium.txt 1 198 
+service Exploratorium.txt 1 419 
+similarly Exploratorium.txt 1 2769 
+girls Exploratorium.txt 3 4697 4898 4905 
+reuben Exploratorium.txt 1 5779 
+approximately Exploratorium.txt 1 260 
+needed Exploratorium.txt 3 939 1516 2194 
+john Exploratorium.txt 1 5569 
+ranging Exploratorium.txt 1 5429 
+curtains Exploratorium.txt 1 1728 
+ceiling Exploratorium.txt 1 3522 
+tool Exploratorium.txt 1 4878 
+coursera Exploratorium.txt 1 4359 
+cisterns Exploratorium.txt 1 2484 
+japanese Exploratorium.txt 1 4238 
+nail Exploratorium.txt 1 4268 
+showed Exploratorium.txt 1 4500 
+likely Exploratorium.txt 1 5221 
+coco500 Exploratorium.txt 1 4066 
+cite Exploratorium.txt 1 5291 
+project Exploratorium.txt 9 478 832 894 1287 1893 2926 3611 5533 5718 
+classes Exploratorium.txt 1 4891 
+iron Exploratorium.txt 6 1407 4213 4241 4290 6633 6638 
+feeling Exploratorium.txt 1 5175 
+bridge Exploratorium.txt 7 1381 3660 3792 3806 3834 3924 3932 
+palace Exploratorium.txt 7 163 441 927 1200 2861 3987 6748 
+guggenheim Exploratorium.txt 1 711 
+modern Exploratorium.txt 1 5804 
+seen Exploratorium.txt 2 1647 3706 
+contents Exploratorium.txt 1 432 
+relatively Exploratorium.txt 1 2138 
+forced Exploratorium.txt 3 494 2441 2449 
+1969 Exploratorium.txt 3 160 918 5397 
+1965 Exploratorium.txt 1 714 
+1966 Exploratorium.txt 1 5339 
+1967 Exploratorium.txt 1 834 
+casual Exploratorium.txt 1 5362 
+570,000 Exploratorium.txt 1 5827 
+doors Exploratorium.txt 1 935 
+educator Exploratorium.txt 2 154 1053 
+seaglass Exploratorium.txt 6 1914 1933 1952 3443 4037 4058 
+object Exploratorium.txt 1 3294 
+phase Exploratorium.txt 1 1369 
+torsional Exploratorium.txt 1 1855 
+camps Exploratorium.txt 1 4882 
+observation Exploratorium.txt 1 3503 
+professor Exploratorium.txt 1 471 
+m Exploratorium.txt 6 1416 1449 2062 2182 2500 3839 
+investments Exploratorium.txt 1 6428 
+points Exploratorium.txt 1 6668 
+tech Exploratorium.txt 1 5306 
+came Exploratorium.txt 1 837 
+inspire Exploratorium.txt 1 3855 
+delacte Exploratorium.txt 2 1128 1234 
+colors Exploratorium.txt 2 1732 3735 
+chandelier Exploratorium.txt 1 3364 
+participate Exploratorium.txt 1 5426 
+thirds Exploratorium.txt 1 1503 
+lessons Exploratorium.txt 1 4515 
+layout Exploratorium.txt 1 2709 
+minnesota Exploratorium.txt 1 504 
+integrate Exploratorium.txt 1 4510 
+do Exploratorium.txt 1 807 
+colorful Exploratorium.txt 1 3374 
+wide Exploratorium.txt 1 6095 
+de Exploratorium.txt 3 734 5251 5616 
+watch Exploratorium.txt 1 958 
+psychiatric Exploratorium.txt 1 2991 
+coast Exploratorium.txt 1 5762 
+despite Exploratorium.txt 1 5318 
+unticketed Exploratorium.txt 2 3692 4048 
+dr Exploratorium.txt 3 1115 1126 1137 
+runs Exploratorium.txt 2 2592 4631 
+bar Exploratorium.txt 1 1950 
+now-decommissioned Exploratorium.txt 1 2989 
+countries Exploratorium.txt 3 4107 5814 6423 
+facilitators Exploratorium.txt 2 5034 5256 
+bay Exploratorium.txt 38 238 1452 1593 1793 1813 2111 2144 2166 2196 2262 2276 2303 2319 2344 2374 2535 2831 3153 3176 3345 3422 3427 3543 3550 3574 3604 3624 3640 3701 3891 4002 4011 4023 4032 5020 5844 6678 6741 
+bag Exploratorium.txt 1 4264 
+microscope Exploratorium.txt 2 24 3352 
+architecture Exploratorium.txt 2 1385 1461 
+ears Exploratorium.txt 1 3282 
+lettering Exploratorium.txt 2 1617 1624 
+1,280 Exploratorium.txt 1 2499 
+zones Exploratorium.txt 1 2255 
+decided Exploratorium.txt 2 950 5962 
+result Exploratorium.txt 2 509 1632 
+cattle Exploratorium.txt 1 537 
+mw-ac/square Exploratorium.txt 1 2070 
+best Exploratorium.txt 2 6116 6122 
+subject Exploratorium.txt 1 2782 
+said Exploratorium.txt 1 1072 
+capacity Exploratorium.txt 1 5064 
+lots Exploratorium.txt 2 6588 6596 
+away Exploratorium.txt 1 4310 
+wikipedia Exploratorium.txt 1 1 
+appealing Exploratorium.txt 1 5359 
+mud Exploratorium.txt 1 4012 
+cooperation Exploratorium.txt 1 2837 
+approach Exploratorium.txt 2 863 4614 
+discovery Exploratorium.txt 1 4722 
+preserve Exploratorium.txt 2 1585 1622 
+nature Exploratorium.txt 4 86 119 1277 3862 
+rolled Exploratorium.txt 1 114 
+herrera Exploratorium.txt 1 5640 
+aesthetic Exploratorium.txt 4 1566 1890 1926 3100 
+physicist Exploratorium.txt 3 152 468 1052 
+southeast Exploratorium.txt 1 2491 
+tripled Exploratorium.txt 2 5062 6067 
+unfold Exploratorium.txt 1 3142 
+dedication Exploratorium.txt 1 4869 
+motto Exploratorium.txt 1 1090 
+97,000 Exploratorium.txt 1 5879 
+received Exploratorium.txt 4 412 638 5863 6107 
+climate Exploratorium.txt 1 2347 
+reported Exploratorium.txt 1 5936 
+country Exploratorium.txt 2 387 527 
+heating Exploratorium.txt 5 2113 2244 2252 2421 2537 
+participating Exploratorium.txt 1 5562 
+negotiation Exploratorium.txt 1 2942 
+kwh Exploratorium.txt 2 2081 2108 
+initiative Exploratorium.txt 4 4756 5540 6375 6413 
+eld Exploratorium.txt 3 4493 4511 4528 
+springs Exploratorium.txt 1 569 
+250 Exploratorium.txt 1 5408 
+trust Exploratorium.txt 2 2911 2944 
+contestants Exploratorium.txt 1 4269 
+basis Exploratorium.txt 1 2008 
+three Exploratorium.txt 2 715 4304 
+been Exploratorium.txt 11 61 258 296 1484 3237 4334 5043 5414 5489 6127 6266 
+much Exploratorium.txt 2 626 2614 
+interest Exploratorium.txt 1 6670 
+basic Exploratorium.txt 1 686 
+expected Exploratorium.txt 1 2297 
+location Exploratorium.txt 9 445 1229 1583 2858 3513 4324 5537 5921 6752 
+website Exploratorium.txt 8 334 4300 4928 6068 6118 6124 6136 6215 
+life Exploratorium.txt 2 2795 3316 
+families Exploratorium.txt 3 4885 4969 5213 
+worked Exploratorium.txt 1 474 
+spin Exploratorium.txt 1 4005 
+diverted Exploratorium.txt 1 486 
+exception Exploratorium.txt 1 2731 
+save Exploratorium.txt 2 2526 2544 
+participatory Exploratorium.txt 5 118 142 255 351 970 
+publicly Exploratorium.txt 3 3790 3910 6594 
+economies Exploratorium.txt 1 6436 
+air Exploratorium.txt 6 2404 2414 2442 2450 3368 3638 
+evening Exploratorium.txt 1 6505 
+teachers Exploratorium.txt 13 303 4088 4116 4147 4170 4182 4193 4247 4305 4340 4509 6462 6642 
+trimpin Exploratorium.txt 1 5580 
+losses Exploratorium.txt 1 1662 
+hipschman Exploratorium.txt 1 6659 
+thursdays Exploratorium.txt 1 6510 
+is Exploratorium.txt 67 4 29 50 205 276 282 366 460 1074 1091 1866 1887 2086 2150 2168 2174 2189 2198 2213 2222 2270 2321 2334 2513 2541 2688 2909 2931 2976 3034 3058 3295 3299 3430 3695 3743 3761 3835 3878 3934 4045 4134 4200 4208 4403 4420 4540 4616 4659 4976 5538 5719 6137 6289 6376 6414 6485 6496 6518 6522 6539 6556 6590 6626 6662 6711 6729 
+it Exploratorium.txt 29 59 135 343 821 1628 2002 2173 2188 2212 2269 2896 3022 3248 3298 3440 3648 3877 4163 4455 4615 4630 4638 4658 5695 5771 5897 6105 6419 6555 
+expenses Exploratorium.txt 1 5458 
+exterior Exploratorium.txt 1 193 
+in Exploratorium.txt 129 32 159 286 298 322 385 408 438 505 567 614 621 629 713 780 799 833 900 915 1028 1113 1151 1224 1246 1248 1343 1348 1438 1558 1577 1655 1743 1752 1769 1845 1871 1900 1992 2015 2033 2120 2241 2246 2342 2351 2355 2508 2573 2599 2641 2678 3024 3042 3088 3093 3130 3210 3343 3470 3520 3707 3821 3887 3895 3993 3998 4067 4089 4110 4132 4148 4224 4232 4437 4447 4468 4526 4530 4598 4621 4625 4649 4687 4699 4713 4752 4773 4818 4936 4970 4991 5007 5012 5018 5029 5074 5112 5131 5313 5358 5373 5378 5396 5404 5410 5427 5584 5589 5733 5739 5753 5784 5792 5795 5812 5825 5892 5929 5982 6049 6177 6253 6316 6356 6429 6446 6451 6676 6697 
+mouse Exploratorium.txt 1 3390 
+grown Exploratorium.txt 1 3339 
+franciscos Exploratorium.txt 3 187 1269 3867 
+make Exploratorium.txt 5 946 2850 3108 5768 5965 
+filtered Exploratorium.txt 1 2169 
+several Exploratorium.txt 7 208 1554 3190 4392 4948 5304 6593 
+european Exploratorium.txt 1 716 
+independent Exploratorium.txt 1 847 
+satellite Exploratorium.txt 1 6175 
+rail Exploratorium.txt 1 3724 
+rain Exploratorium.txt 2 2814 3766 
+hand Exploratorium.txt 1 548 
+groundbreaking Exploratorium.txt 1 1284 
+homeschooled Exploratorium.txt 1 4895 
+insisted Exploratorium.txt 2 998 3075 
+opportunity Exploratorium.txt 1 5991 
+shortly Exploratorium.txt 1 5390 
+nibbi Exploratorium.txt 1 1464 
+scenario Exploratorium.txt 1 2939 
+programs Exploratorium.txt 11 1173 3020 4075 4387 4393 4430 4651 4667 4745 4864 4951 
+1976 Exploratorium.txt 1 3999 
+1974 Exploratorium.txt 1 5379 
+cultural Exploratorium.txt 2 890 1280 
+academic Exploratorium.txt 2 489 523 
+savings Exploratorium.txt 1 2295 
+materials Exploratorium.txt 2 4431 5478 
+raindrops Exploratorium.txt 1 3777 
+the Exploratorium.txt 596 6 9 22 27 40 64 69 78 85 117 139 145 147 162 177 189 202 215 233 237 250 266 272 279 289 293 299 308 324 356 362 381 386 388 404 410 413 456 458 461 476 501 514 526 559 564 571 588 600 608 642 664 667 673 676 691 727 730 732 754 761 777 782 796 800 808 816 835 858 893 896 907 912 919 926 934 937 947 953 969 973 984 992 1000 1010 1018 1026 1033 1039 1046 1065 1068 1070 1077 1094 1098 1107 1145 1154 1162 1168 1186 1195 1199 1211 1220 1227 1250 1260 1265 1286 1299 1306 1309 1320 1330 1350 1353 1367 1371 1374 1401 1408 1434 1451 1453 1468 1478 1481 1491 1505 1526 1529 1533 1539 1545 1548 1559 1562 1578 1581 1586 1592 1596 1602 1604 1608 1623 1633 1636 1642 1650 1670 1682 1695 1698 1703 1707 1741 1744 1754 1767 1774 1778 1782 1784 1788 1792 1812 1816 1821 1824 1828 1835 1842 1846 1853 1857 1860 1864 1868 1874 1879 1882 1885 1889 1892 1903 1908 1912 1919 1924 1929 1944 1949 1968 1994 2009 2019 2031 2055 2093 2097 2103 2118 2125 2137 2143 2147 2163 2165 2185 2195 2207 2242 2247 2261 2266 2273 2284 2293 2302 2310 2315 2318 2325 2330 2335 2340 2343 2348 2358 2372 2377 2383 2387 2416 2427 2432 2444 2453 2471 2486 2490 2509 2511 2534 2555 2562 2574 2580 2593 2596 2605 2616 2622 2627 2631 2638 2644 2653 2667 2669 2674 2679 2684 2686 2703 2711 2725 2730 2743 2794 2825 2830 2855 2860 2865 2917 2934 2946 2963 2968 2971 2982 2988 3000 3005 3031 3051 3072 3077 3094 3117 3147 3152 3162 3175 3203 3207 3211 3215 3220 3227 3241 3246 3261 3277 3281 3308 3324 3330 3344 3362 3386 3393 3399 3405 3408 3426 3431 3437 3442 3452 3457 3460 3462 3474 3480 3483 3492 3506 3512 3521 3525 3538 3542 3549 3561 3565 3570 3573 3576 3583 3601 3603 3608 3623 3631 3663 3671 3673 3677 3700 3723 3726 3733 3737 3757 3770 3776 3789 3819 3830 3832 3849 3861 3896 3901 3916 3920 3922 3936 3943 3956 3966 3973 3980 3983 3986 4001 4022 4027 4031 4036 4041 4051 4054 4077 4090 4118 4123 4128 4154 4184 4189 4197 4205 4212 4230 4236 4276 4287 4298 4316 4318 4326 4329 4331 4342 4372 4389 4398 4409 4418 4438 4443 4469 4471 4477 4496 4522 4532 4544 4546 4558 4570 4586 4594 4619 4626 4669 4679 4694 4701 4709 4716 4721 4725 4730 4755 4777 4789 4819 4828 4833 4841 4866 4874 4886 4897 4911 4923 4937 4945 4952 4971 4974 5019 5037 5046 5060 5069 5076 5105 5113 5117 5140 5157 5167 5173 5181 5190 5196 5227 5237 5243 5249 5255 5258 5270 5273 5278 5295 5327 5346 5353 5370 5392 5399 5402 5418 5441 5468 5500 5525 5535 5547 5549 5582 5587 5591 5652 5664 5680 5684 5702 5704 5707 5710 5717 5723 5735 5740 5748 5754 5759 5769 5778 5788 5797 5801 5818 5821 5830 5843 5848 5859 5877 5884 5893 5917 5932 5949 5973 5977 6003 6020 6023 6044 6050 6074 6080 6085 6093 6097 6134 6141 6144 6160 6170 6178 6186 6190 6210 6214 6235 6275 6291 6304 6311 6317 6326 6333 6350 6363 6371 6401 6410 6415 6439 6452 6471 6477 6480 6494 6515 6520 6525 6534 6537 6563 6575 6579 6605 6609 6620 6672 6681 6691 6698 6705 6708 6717 6738 6745 
+800 Exploratorium.txt 2 1446 3845 
+musical Exploratorium.txt 1 5557 
+left Exploratorium.txt 2 1557 2609 
+unified Exploratorium.txt 1 4480 
+just Exploratorium.txt 1 1061 
+human Exploratorium.txt 6 46 224 2785 2833 2844 2870 
+net-zero-energy-use Exploratorium.txt 1 2676 
+previous Exploratorium.txt 1 2857 
+adding Exploratorium.txt 1 1763 
+designers Exploratorium.txt 2 1619 1716 
+had Exploratorium.txt 10 788 1059 1483 1664 1686 2583 4516 5940 5961 6064 
+exempting Exploratorium.txt 1 1259 
+passive Exploratorium.txt 1 2368 
+animation Exploratorium.txt 1 3103 
+board Exploratorium.txt 6 416 1253 2290 5670 5703 5711 
+east Exploratorium.txt 6 1605 3303 3309 3681 3944 6417 
+reuse Exploratorium.txt 1 2507 
+possible Exploratorium.txt 2 1713 6262 
+possibly Exploratorium.txt 1 2683 
+supervisors Exploratorium.txt 1 1255 
+barnacles Exploratorium.txt 1 3334 
+unique Exploratorium.txt 3 1276 6228 6256 
+kanbar Exploratorium.txt 1 3006 
+blacklisted Exploratorium.txt 1 521 
+55 Exploratorium.txt 1 5832 
+manual Exploratorium.txt 1 680 
+50 Exploratorium.txt 2 2151 4178 
+52 Exploratorium.txt 1 5840 
+specific Exploratorium.txt 1 2756 
+offices Exploratorium.txt 1 1685 
+right Exploratorium.txt 2 1007 3091 
+old Exploratorium.txt 2 3255 6075 
+honoree Exploratorium.txt 1 6129 
+people Exploratorium.txt 5 2891 5148 5828 5903 6225 
+do-it-yourself Exploratorium.txt 1 4633 
+for Exploratorium.txt 64 8 129 141 422 539 587 693 811 857 1174 1244 1285 1332 1486 1565 1796 1911 1927 2102 2191 2309 2337 2396 2506 2515 2557 2613 2724 3511 3813 3893 4168 4192 4286 4339 4400 4473 4534 4635 4665 4750 4764 4809 4855 4884 4909 4965 4985 5137 5163 5527 5645 5743 6016 6032 6115 6121 6157 6207 6349 6409 6437 6511 6665 
+fox Exploratorium.txt 1 5625 
+totals Exploratorium.txt 1 2105 
+icy Exploratorium.txt 1 1964 
+fog Exploratorium.txt 9 2504 2813 3568 3659 3805 3812 3833 3850 3931 
+skylight Exploratorium.txt 1 2590 
+core Exploratorium.txt 1 665 
+year-1 Exploratorium.txt 2 2066 2077 
+burn Exploratorium.txt 1 1025 
+3/14 Exploratorium.txt 1 6630 
+paid Exploratorium.txt 1 5235 
+architectural Exploratorium.txt 1 1473 
+khan Exploratorium.txt 1 5579 
+properties Exploratorium.txt 1 3205 
+efforts Exploratorium.txt 5 373 1652 1984 2014 4454 
+crutchfield Exploratorium.txt 1 5614 
+book Exploratorium.txt 1 5741 
+consulting Exploratorium.txt 1 6031 
+dilemma Exploratorium.txt 1 2936 
+exploratorium-based Exploratorium.txt 1 4136 
+facility Exploratorium.txt 1 2510 
+prisoners Exploratorium.txt 1 2935 
+profession Exploratorium.txt 1 4185 
+down Exploratorium.txt 1 822 
+reducing Exploratorium.txt 3 1852 2382 2443 
+often Exploratorium.txt 1 5290 
+support Exploratorium.txt 5 856 899 1570 4167 5461 
+initial Exploratorium.txt 1 809 
+transform Exploratorium.txt 1 56 
+anderson Exploratorium.txt 1 5568 
+conservation Exploratorium.txt 1 2517 
+way Exploratorium.txt 1 1019 
+music Exploratorium.txt 1 3014 
+was Exploratorium.txt 46 149 197 485 493 520 604 672 804 1041 1230 1355 1362 1458 1499 1535 1550 1575 1595 1610 1674 1724 1760 1894 1916 1935 2608 2646 2957 2994 4703 4757 4994 5107 5127 5161 5169 5240 5376 5394 5737 5758 5898 5922 5986 6055 6082 
+forming Exploratorium.txt 1 1182 
+becoming Exploratorium.txt 1 558 
+7,312.6 Exploratorium.txt 1 2061 
+heat Exploratorium.txt 6 2160 2203 2217 2267 2307 2369 
+hear Exploratorium.txt 1 6217 
+solar Exploratorium.txt 2 2123 6070 
+removed Exploratorium.txt 2 1363 1679 
+fort Exploratorium.txt 1 6699 
+dcouverte Exploratorium.txt 1 736 
+catalyze Exploratorium.txt 1 5542 
+stages Exploratorium.txt 1 3418 
+150 Exploratorium.txt 1 3836 
+classic Exploratorium.txt 2 2938 3228 
+rosamond Exploratorium.txt 1 5629 
+0.61 Exploratorium.txt 2 1427 3907 
+trip Exploratorium.txt 3 5096 5232 5895 
+constructed Exploratorium.txt 2 3123 3435 
+floor Exploratorium.txt 5 267 437 2248 6146 6172 
+handmade Exploratorium.txt 1 870 
+tim Exploratorium.txt 2 3126 5620 
+leed Exploratorium.txt 1 2648 
+setting Exploratorium.txt 2 1985 4776 
+role Exploratorium.txt 2 4444 5354 
+digital Exploratorium.txt 1 4805 
+test Exploratorium.txt 1 4760 
+appetit Exploratorium.txt 1 4071 
+smell Exploratorium.txt 2 1032 3071 
+roll Exploratorium.txt 1 3186 
+brothers Exploratorium.txt 1 1465 
+models Exploratorium.txt 2 651 739 
+felt Exploratorium.txt 1 5146 
+outreach Exploratorium.txt 4 1171 4943 4950 4954 
+fell Exploratorium.txt 1 5944 
+rolling Exploratorium.txt 1 3150 
+died Exploratorium.txt 1 1060 
+younger Exploratorium.txt 1 5646 
+sacks Exploratorium.txt 1 5633 
+modules Exploratorium.txt 1 2053 
+uncovered Exploratorium.txt 3 6245 6249 6264 
+time Exploratorium.txt 3 271 3472 4317 
+push Exploratorium.txt 1 5969 
+serious Exploratorium.txt 1 5365 
+restored Exploratorium.txt 1 1676 
+ron Exploratorium.txt 1 6658 
+global Exploratorium.txt 3 6368 6373 6411 
+activated Exploratorium.txt 1 2229 
+focus Exploratorium.txt 1 3694 
+supplement Exploratorium.txt 1 697 
+displaying Exploratorium.txt 1 3595 
+retrofit Exploratorium.txt 2 1809 2628 
+retention Exploratorium.txt 1 4190 
+1949 Exploratorium.txt 1 506 
+environment Exploratorium.txt 7 245 2810 2951 3327 3633 3702 6693 
+string Exploratorium.txt 1 4124 
+advantage Exploratorium.txt 1 2135 
+berth Exploratorium.txt 1 6302 
+tanks Exploratorium.txt 1 3372 
+artwork Exploratorium.txt 2 3897 6715 
+join Exploratorium.txt 1 607 
+cool Exploratorium.txt 2 2162 2219 
+clouds Exploratorium.txt 1 3477 
+presented Exploratorium.txt 4 1653 1701 1749 5342 
+did Exploratorium.txt 2 577 2629 
+brother Exploratorium.txt 1 481 
+leave Exploratorium.txt 1 4183 
+solved Exploratorium.txt 1 1725 
+diy Exploratorium.txt 1 3099 
+inscribed Exploratorium.txt 1 1092 
+loads Exploratorium.txt 3 2360 2460 2579 
+upper Exploratorium.txt 1 3453 
+fearing Exploratorium.txt 1 5972 
+measurable Exploratorium.txt 1 4519 
+sign Exploratorium.txt 1 1043 
+deutsches Exploratorium.txt 1 778 
+duve Exploratorium.txt 1 5617 
+port Exploratorium.txt 2 1310 6610 
+evaporative Exploratorium.txt 1 2559 
+shares Exploratorium.txt 2 4640 6381 
+current Exploratorium.txt 2 6287 6407 
+wolff Exploratorium.txt 1 5630 
+international Exploratorium.txt 1 348 
+celebrates Exploratorium.txt 1 4220 
+filled Exploratorium.txt 1 4007 
+understanding Exploratorium.txt 2 427 4573 
+water Exploratorium.txt 28 1384 1560 1923 1948 2112 2145 2167 2197 2220 2263 2287 2304 2320 2327 2375 2380 2480 2516 2532 2536 2550 2811 3641 3664 3713 3739 3831 3892 
+downloaded Exploratorium.txt 1 6267 
+magnetism Exploratorium.txt 2 232 2808 
+groups Exploratorium.txt 1 4859 
+along Exploratorium.txt 2 1219 3788 
+teacher Exploratorium.txt 12 96 562 4113 4120 4129 4198 4206 4215 4278 4292 4343 6635 
+ukeles Exploratorium.txt 1 5636 
+exploratorium Exploratorium.txt 86 0 12 28 148 178 294 325 364 389 411 457 459 601 668 677 731 920 1069 1078 1100 1146 1155 1196 1300 1409 1454 1865 1959 1969 1995 2032 2119 2388 2428 2472 2563 2645 2670 2687 3216 3229 3672 3902 3984 4078 4111 4231 4319 4332 4390 4410 4545 4587 4680 4702 4778 4912 4946 4975 5038 5296 5328 5550 5736 5822 5831 5905 5950 6004 6045 6076 6081 6161 6236 6276 6334 6372 6478 6488 6495 6521 6580 6621 6673 6683 6718 
+institute Exploratorium.txt 12 4114 4121 4130 4199 4207 4279 4344 4399 4419 4470 4472 4900 
+studied Exploratorium.txt 1 707 
+funded Exploratorium.txt 2 2922 4996 
+bon Exploratorium.txt 1 4070 
+domains Exploratorium.txt 1 330 
+resonance Exploratorium.txt 1 2806 
+potable Exploratorium.txt 1 2549 
+studies Exploratorium.txt 2 4171 4557 
+lowers Exploratorium.txt 1 5694 
+teenage Exploratorium.txt 1 5283 
+storms Exploratorium.txt 1 3787 
+lending Exploratorium.txt 1 546 
+marker Exploratorium.txt 1 5705 
+streetcar Exploratorium.txt 2 6550 6577 
+working Exploratorium.txt 3 353 368 6312 
+visit Exploratorium.txt 1 5223 
+connector Exploratorium.txt 1 3923 
+live Exploratorium.txt 7 3348 3394 3400 3413 4284 4838 6164 
+bluffing Exploratorium.txt 1 2910 
+memory Exploratorium.txt 1 2883 
+films Exploratorium.txt 1 3112 
+today Exploratorium.txt 1 1085 
+entrance Exploratorium.txt 2 1012 1096 
+sharing Exploratorium.txt 2 2840 2925 
+towers Exploratorium.txt 1 2561 
+neglected Exploratorium.txt 1 1485 
+commissioned Exploratorium.txt 1 5389 
+effort Exploratorium.txt 2 1574 2575 
+organizations Exploratorium.txt 5 4736 4959 5017 6034 6284 
+thousands Exploratorium.txt 1 6465 
+originally Exploratorium.txt 3 1640 2958 3872 
+forcing Exploratorium.txt 1 5948 
+can Exploratorium.txt 11 1644 3040 3107 3136 3185 3366 3468 3704 3731 4588 6216 
+following Exploratorium.txt 2 4325 5068 
+making Exploratorium.txt 4 3046 4375 6254 6426 
+fauna Exploratorium.txt 1 2828 
+caf Exploratorium.txt 2 1858 1886 
+cost-saving Exploratorium.txt 1 2470 
+dedicated Exploratorium.txt 3 1082 2402 4623 
+funhouse Exploratorium.txt 1 108 
+stream Exploratorium.txt 1 3627 
+expanding Exploratorium.txt 2 1172 4335 
+1980s Exploratorium.txt 1 1169 
+allowed Exploratorium.txt 2 2278 5136 
+chic Exploratorium.txt 1 1899 
+dennis Exploratorium.txt 1 1138 
+requirements Exploratorium.txt 1 2604 
+divided Exploratorium.txt 2 206 2749 
+sunday Exploratorium.txt 1 6500 
+map Exploratorium.txt 2 3547 3584 
+designer Exploratorium.txt 1 1938 
+sustainability Exploratorium.txt 6 372 1705 1966 1983 2013 2694 
+produce Exploratorium.txt 1 1997 
+mad Exploratorium.txt 1 102 
+pagosa Exploratorium.txt 1 568 
+data Exploratorium.txt 7 3491 3558 3629 3785 4494 6324 6343 
+renovation Exploratorium.txt 3 1293 1389 1496 
+temperate Exploratorium.txt 1 2346 
+stress Exploratorium.txt 1 1856 
+natural Exploratorium.txt 2 1710 2571 
+lundberg Exploratorium.txt 1 1940 
+oculus Exploratorium.txt 1 3516 
+whenever Exploratorium.txt 1 1712 
+chaperons Exploratorium.txt 1 5882 
+sq Exploratorium.txt 1 1413 
+so Exploratorium.txt 3 1013 3728 5683 
+seeing Exploratorium.txt 2 218 3196 
+mainly Exploratorium.txt 2 210 1675 
+years Exploratorium.txt 7 450 1541 3166 3244 3581 4188 5435 
+course Exploratorium.txt 3 3163 3577 4361 
+experiments Exploratorium.txt 4 575 657 661 4935 
+cuts Exploratorium.txt 1 1877 
+still Exploratorium.txt 2 1645 5943 
+birds Exploratorium.txt 1 1797 
+colorado Exploratorium.txt 2 536 570 
+inquiry-based Exploratorium.txt 2 53 4160 
+group Exploratorium.txt 2 2758 6460 
+toothpicks Exploratorium.txt 1 3170 
+interesting Exploratorium.txt 1 6224 
+presence Exploratorium.txt 1 1180 
+broadcasts Exploratorium.txt 1 6163 
+offers Exploratorium.txt 2 390 897 
+lewis Exploratorium.txt 1 5622 
+main Exploratorium.txt 4 436 993 1011 1095 
+decades Exploratorium.txt 1 1487 
+apron Exploratorium.txt 1 3938 
+views Exploratorium.txt 2 1783 3597 
+100,000 Exploratorium.txt 1 3169 
+flink Exploratorium.txt 1 1161 
+underneath Exploratorium.txt 1 1618 
+1954 Exploratorium.txt 1 1349 
+not Exploratorium.txt 5 2770 5218 5963 6582 6742 
+now Exploratorium.txt 1 3879 
+1959 Exploratorium.txt 1 615 
+january Exploratorium.txt 2 170 2642 
+bursts Exploratorium.txt 1 3810 
+showcasing Exploratorium.txt 1 2700 
+entirely Exploratorium.txt 2 2364 3301 
+repaired Exploratorium.txt 1 1511 
+square Exploratorium.txt 1 2059 
+significantly Exploratorium.txt 1 1851 
+community-based Exploratorium.txt 1 5016 
+challenged Exploratorium.txt 1 1714 
+scheme Exploratorium.txt 1 1910 
+challenges Exploratorium.txt 2 1654 1693 
+begun Exploratorium.txt 1 4990 
+year Exploratorium.txt 11 721 1063 2341 2552 5028 5059 5417 5605 5887 6052 6104 
+canada Exploratorium.txt 1 4674 
+living Exploratorium.txt 3 226 3305 3409 
+shown Exploratorium.txt 1 4173 
+exchangers Exploratorium.txt 1 2268 
+opened Exploratorium.txt 7 76 158 921 933 5048 5395 5504 
+webcasts Exploratorium.txt 3 397 4826 6196 
+space Exploratorium.txt 14 275 292 1243 1372 1422 1433 2598 2618 3693 3899 3913 3953 4313 4624 
+looking Exploratorium.txt 1 5162 
+contained Exploratorium.txt 1 277 
+internet Exploratorium.txt 1 6191 
+correct Exploratorium.txt 1 5143 
+shows Exploratorium.txt 2 1400 4293 
+attended Exploratorium.txt 1 5870 
+million Exploratorium.txt 7 2529 2546 5902 5927 6057 6101 6271 
+california Exploratorium.txt 7 2285 4549 4710 4726 4731 5851 5978 
+training Exploratorium.txt 3 97 4087 6348 
+language Exploratorium.txt 1 4491 
+discussing Exploratorium.txt 1 5345 
+programming Exploratorium.txt 1 4854 
+motion Exploratorium.txt 1 2802 
+thing Exploratorium.txt 1 4125 
+best-known Exploratorium.txt 1 3868 
+promotion Exploratorium.txt 1 309 
+think Exploratorium.txt 1 4610 
+first Exploratorium.txt 4 3820 3991 6051 6086 
+emotion Exploratorium.txt 1 2884 
+revenue Exploratorium.txt 1 6039 
+wheelchair-accessible Exploratorium.txt 1 6519 
+one Exploratorium.txt 12 116 1810 3188 3403 3864 4360 5746 5926 6083 6120 6285 6403 
+specifically Exploratorium.txt 3 2723 3510 4893 
+suspended Exploratorium.txt 2 3721 5671 
+comprises Exploratorium.txt 2 1411 3676 
+array Exploratorium.txt 3 2046 5203 5471 
+open Exploratorium.txt 6 283 1383 3060 3912 4046 6497 
+george Exploratorium.txt 1 1049 
+size Exploratorium.txt 2 2445 3772 
+city Exploratorium.txt 1 879 
+little Exploratorium.txt 1 923 
+district Exploratorium.txt 1 4482 
+bite Exploratorium.txt 1 3271 
+plastic Exploratorium.txt 2 2239 4263 
+afterschool Exploratorium.txt 6 4650 4684 4727 4742 4775 5005 
+cooling Exploratorium.txt 8 1753 2115 2254 2312 2359 2423 2539 2560 
+2 Exploratorium.txt 1 171 
+white Exploratorium.txt 3 1118 3296 5698 
+participated Exploratorium.txt 2 4109 5891 
+national Exploratorium.txt 7 414 643 2919 4217 4424 4999 6292 
+friend Exploratorium.txt 1 1055 
+exploring Exploratorium.txt 1 630 
+mostly Exploratorium.txt 1 2610 
+that Exploratorium.txt 43 35 55 720 751 794 999 1014 1639 1663 1681 1834 1990 2133 2221 2323 2438 2591 3011 3076 3135 3235 3257 3292 3523 3552 3626 3729 3768 3808 4156 4174 4219 4501 4798 5126 5807 5900 5937 6002 6047 6060 6380 6424 
+shawn Exploratorium.txt 1 1961 
+released Exploratorium.txt 1 6239 
+copy Exploratorium.txt 1 1087 
+than Exploratorium.txt 7 1626 1678 2001 3616 5153 5507 6269 
+11 Exploratorium.txt 1 4106 
+10 Exploratorium.txt 2 2155 5857 
+13 Exploratorium.txt 1 6100 
+12 Exploratorium.txt 1 5749 
+15 Exploratorium.txt 28 182 196 1103 1191 1206 1322 1336 1392 1442 1457 1509 1591 1799 1818 1972 2181 2391 2566 2727 3219 3667 3685 3795 3927 3950 5073 5920 6308 
+14 Exploratorium.txt 4 5649 5852 6632 6686 
+17 Exploratorium.txt 13 175 184 1193 1208 1325 1338 1394 3669 3797 3889 3929 3941 6042 
+19 Exploratorium.txt 1 1297 
+18 Exploratorium.txt 2 2157 6514 
+future Exploratorium.txt 2 1333 1571 
+were Exploratorium.txt 15 988 1510 1524 1556 1700 2721 3508 4307 4351 5263 5388 5815 5833 5837 5841 
+and Exploratorium.txt 248 45 93 109 123 153 157 183 192 204 219 222 231 236 247 281 307 335 341 399 402 430 448 469 528 574 593 625 635 671 706 744 767 771 776 855 868 880 884 889 895 949 957 962 991 1054 1181 1192 1207 1216 1235 1281 1292 1337 1345 1357 1382 1386 1393 1419 1423 1439 1471 1475 1494 1497 1521 1544 1552 1568 1669 1729 1737 1820 1932 1941 2114 2161 2170 2253 2376 2422 2424 2503 2521 2538 2587 2665 2682 2740 2745 2764 2792 2805 2807 2816 2824 2827 2832 2839 2874 2885 2887 2894 2943 2945 3018 3074 3101 3141 3149 3171 3197 3254 3260 3266 3283 3335 3359 3361 3382 3398 3449 3459 3478 3487 3537 3569 3582 3590 3593 3598 3621 3639 3644 3646 3668 3680 3686 3691 3773 3796 3841 3928 3942 3945 3959 4000 4014 4057 4096 4105 4143 4159 4166 4222 4280 4366 4371 4376 4381 4416 4428 4432 4451 4459 4529 4537 4552 4562 4579 4608 4654 4676 4696 4729 4771 4794 4804 4830 4846 4848 4860 4873 4879 4907 4920 4968 5003 5010 5050 5055 5094 5102 5135 5139 5207 5214 5230 5315 5334 5350 5352 5364 5440 5459 5462 5474 5477 5497 5522 5529 5543 5559 5564 5581 5602 5637 5693 5726 5757 5764 5835 5856 5868 5881 5910 6059 6119 6125 6147 6155 6203 6247 6294 6309 6323 6384 6394 6397 6431 6491 6533 6553 6566 6569 6597 6625 6702 
+san Exploratorium.txt 17 33 186 830 839 908 1212 1221 1251 1268 1312 2274 3866 4233 4690 5785 6612 6739 
+10-15 Exploratorium.txt 1 5032 
+turned Exploratorium.txt 2 820 4309 
+locations Exploratorium.txt 4 4831 5912 6182 6229 
+say Exploratorium.txt 1 5682 
+rainwater Exploratorium.txt 1 2502 
+saw Exploratorium.txt 1 1030 
+any Exploratorium.txt 3 269 2082 6586 
+sterilized Exploratorium.txt 1 2171 
+recreated Exploratorium.txt 1 3763 
+ideas Exploratorium.txt 1 4932 
+sciences Exploratorium.txt 3 2796 3317 5981 
+potential Exploratorium.txt 2 1242 1854 
+online Exploratorium.txt 2 4461 6077 
+interior Exploratorium.txt 4 191 1672 2597 2617 
+performance Exploratorium.txt 1 2635 
+golan Exploratorium.txt 1 5516 
+multiple Exploratorium.txt 2 2474 6542 
+normal Exploratorium.txt 1 2977 
+embarcadero Exploratorium.txt 6 188 1223 3921 5502 6526 6564 
+visitors Exploratorium.txt 26 37 391 1015 2847 2877 2952 3039 3066 3106 3140 3365 3467 3554 3730 3748 3856 4004 4637 5363 5647 6058 6102 6159 6212 6360 6512 
+landing Exploratorium.txt 1 4847 
+pages Exploratorium.txt 1 4925 
+viewable Exploratorium.txt 1 1318 
+later Exploratorium.txt 2 597 5987 
+professional Exploratorium.txt 5 300 4137 4337 4405 4503 
+exploratoriums Exploratorium.txt 16 23 435 755 1492 1913 2856 3052 3438 4119 4277 4299 4867 5274 5469 6135 6746 
+shop Exploratorium.txt 1 1021 
+brainchild Exploratorium.txt 1 462 
+surplus Exploratorium.txt 1 2083 
+certification Exploratorium.txt 1 2650 
+workshops Exploratorium.txt 6 4112 4152 4458 4719 4883 4902 
+contemporary Exploratorium.txt 1 3591 
+bright Exploratorium.txt 1 3284 
+spaces Exploratorium.txt 2 2747 6680 
+title Exploratorium.txt 1 4288 
+waysincluding Exploratorium.txt 1 395 
+outside Exploratorium.txt 3 5189 5858 6696 
+only Exploratorium.txt 5 1317 1597 3432 5760 5765 
+wood Exploratorium.txt 1 1027 
+black Exploratorium.txt 2 3285 3302 
+awareness Exploratorium.txt 1 1084 
+muni Exploratorium.txt 2 6549 6567 
+un-american Exploratorium.txt 1 516 
+nearly Exploratorium.txt 2 653 1501 
+conjunction Exploratorium.txt 1 901 
+timepiece Exploratorium.txt 1 3533 
+resource Exploratorium.txt 1 4796 
+aluminum Exploratorium.txt 1 1476 
+artist Exploratorium.txt 9 1960 3125 3158 3798 5312 5372 5403 5725 6723 
+yield Exploratorium.txt 2 2067 2078 
+miles Exploratorium.txt 2 2235 6559 
+mapped Exploratorium.txt 1 3559 
+through Exploratorium.txt 15 42 1773 1878 2224 2265 2367 2997 3044 3151 3180 3688 4196 4341 4356 6499 
+where Exploratorium.txt 10 986 1884 2187 2211 3038 3105 3930 4629 6418 6456 
+vision Exploratorium.txt 1 2789 
+artworks Exploratorium.txt 3 3113 5381 5409 
+connections Exploratorium.txt 1 5347 
+college Exploratorium.txt 2 4554 5100 
+eliminating Exploratorium.txt 1 2554 
+parking Exploratorium.txt 3 1530 6587 6599 
+surfaces Exploratorium.txt 1 1790 
+ways Exploratorium.txt 1 2017 
+willard Exploratorium.txt 1 2990 
+pump Exploratorium.txt 1 3367 
+staffer Exploratorium.txt 1 5994 
+between Exploratorium.txt 15 983 1210 1352 1373 1532 1561 1735 2371 3665 3925 4094 4543 4560 5348 6530 
+affecting Exploratorium.txt 1 1781 
+teens Exploratorium.txt 1 4857 
+across Exploratorium.txt 5 525 3049 4668 5546 6604 
+orchestrate Exploratorium.txt 1 5544 
+august Exploratorium.txt 3 917 2961 5930 
+originated Exploratorium.txt 1 4228 
+dome Exploratorium.txt 1 2948 
+awards Exploratorium.txt 1 6110 
+highlight Exploratorium.txt 1 3097 
+article Exploratorium.txt 1 3 
+come Exploratorium.txt 3 956 2299 5198 
+realizable Exploratorium.txt 1 914 
+installation Exploratorium.txt 3 3715 3803 3975 
+many Exploratorium.txt 10 886 940 2584 2759 3173 3225 3232 3319 3504 4921 
+according Exploratorium.txt 1 2651 
+tour Exploratorium.txt 1 6227 
+among Exploratorium.txt 1 2766 
+exhibit-based Exploratorium.txt 1 4962 
+color Exploratorium.txt 10 342 1921 1946 3265 3711 3719 5662 5689 6248 6263 
+period Exploratorium.txt 1 2662 
+pilings Exploratorium.txt 4 1506 1523 1555 2492 
+grants Exploratorium.txt 1 5494 
+65 Exploratorium.txt 1 2153 
+learning Exploratorium.txt 22 57 131 594 2697 2791 3043 4386 4397 4536 4568 4577 4656 4733 4770 4790 4850 4863 4872 5129 5177 5188 6473 
+constant Exploratorium.txt 1 2139 
+endeavor Exploratorium.txt 2 859 6379 
+two-year Exploratorium.txt 2 2659 4497 
+arts Exploratorium.txt 8 166 444 930 1203 2864 3990 5308 6751 
+oliver Exploratorium.txt 1 5632 
+capable Exploratorium.txt 1 5152 
+west Exploratorium.txt 6 1861 2842 2866 2964 3001 5761 
+workshop Exploratorium.txt 6 274 985 1001 1040 3036 3056 
+mars Exploratorium.txt 1 4842 
+reflective Exploratorium.txt 2 1789 3204 
+prototype Exploratorium.txt 2 140 4664 
+338,000 Exploratorium.txt 1 2496 
+external Exploratorium.txt 1 6755 
+former Exploratorium.txt 3 4323 5288 6721 
+those Exploratorium.txt 1 3234 
+pilot Exploratorium.txt 1 4498 
+sound Exploratorium.txt 5 223 340 3267 3270 6244 
+these Exploratorium.txt 4 685 4735 4787 5889 
+trick Exploratorium.txt 1 3287 
+residence Exploratorium.txt 4 5314 5374 5405 5590 
+profiled Exploratorium.txt 1 3755 
+shops Exploratorium.txt 1 5476 
+hunkin Exploratorium.txt 2 3127 5621 
+then Exploratorium.txt 3 3346 3762 5666 
+figurines Exploratorium.txt 1 3129 
+engaged Exploratorium.txt 1 297 
+middle Exploratorium.txt 5 4142 4365 4382 4987 6416 
+good Exploratorium.txt 1 5744 
+13.9 Exploratorium.txt 1 2072 
+technology Exploratorium.txt 1 5011 
+everyday Exploratorium.txt 1 4258 
+different Exploratorium.txt 8 2251 2767 3191 3379 3417 3596 5661 6687 
+develop Exploratorium.txt 1 5676 
+pay Exploratorium.txt 1 3858 
+inquiry Exploratorium.txt 7 512 636 4083 4401 4446 4474 5530 
+frequented Exploratorium.txt 1 1641 
+events Exploratorium.txt 4 3015 6201 6614 6653 
+oil Exploratorium.txt 2 1034 3073 
+oceanographic Exploratorium.txt 2 3490 6293 
+assist Exploratorium.txt 3 6252 6354 6422 
+companion Exploratorium.txt 1 5799 
+director Exploratorium.txt 5 1109 1121 1132 1143 1159 
+wired Exploratorium.txt 1 3609 
+changing Exploratorium.txt 3 2972 3481 3734 
+cartoon Exploratorium.txt 1 3133 
+relies Exploratorium.txt 1 2439 
+tracking Exploratorium.txt 1 3534 
+theater Exploratorium.txt 1 3010 
+modes Exploratorium.txt 1 6543 
+swatches Exploratorium.txt 1 3720 
+ranch Exploratorium.txt 1 538 
+without Exploratorium.txt 2 1004 1780 
+trains Exploratorium.txt 1 5051 
+model Exploratorium.txt 2 4763 6258 
+bodies Exploratorium.txt 1 1965 
+overcrowding Exploratorium.txt 1 5974 
+taxi Exploratorium.txt 1 6552 
+summer Exploratorium.txt 3 3025 4744 6453 
+outdoor Exploratorium.txt 9 234 1420 2403 2413 2746 3652 3674 3957 6682 
+being Exploratorium.txt 9 136 960 964 989 1075 4308 4353 4660 5319 
+when Exploratorium.txt 9 491 602 1023 2193 2314 2907 3021 3297 5260 
+rest Exploratorium.txt 1 5849 
+noaa Exploratorium.txt 5 3783 6297 6298 6342 6344 
+recycled Exploratorium.txt 1 1553 
+woodworking Exploratorium.txt 1 5475 
+touch Exploratorium.txt 1 2955 
+captured Exploratorium.txt 1 1551 
+rover Exploratorium.txt 1 4844 
+death Exploratorium.txt 2 321 1112 
+geographically Exploratorium.txt 1 5839 
+interested Exploratorium.txt 2 620 628 
+4 Exploratorium.txt 2 5673 5713 
+samples Exploratorium.txt 1 4009 
+extensive Exploratorium.txt 1 1495 
+real Exploratorium.txt 2 3471 3557 
+around Exploratorium.txt 10 144 406 1185 1440 1690 3622 4832 5954 6019 6400 
+early Exploratorium.txt 4 449 976 5114 5337 
+grid Exploratorium.txt 1 2095 
+listening Exploratorium.txt 2 220 3198 
+using Exploratorium.txt 5 860 1727 2301 4253 6648 
+recipient Exploratorium.txt 1 4422 
+techbridge Exploratorium.txt 1 4720 
+macarthur Exploratorium.txt 2 5316 5491 
+particle Exploratorium.txt 1 6233 
+serves Exploratorium.txt 2 5023 6099 
+facing Exploratorium.txt 1 3918 
+benefit Exploratorium.txt 1 2620 
+either Exploratorium.txt 3 2214 2363 5264 
+served Exploratorium.txt 6 722 1105 1119 1129 1140 1466 
+endorsed Exploratorium.txt 1 892 
+reduced Exploratorium.txt 2 2431 2464 
+competition Exploratorium.txt 4 2838 4218 4244 6636 
+kings Exploratorium.txt 1 4553 
+guillermo Exploratorium.txt 1 5627 
+provided Exploratorium.txt 2 5004 6347 
+mooc Exploratorium.txt 2 4349 4357 
+recorded Exploratorium.txt 1 20 
+extensively Exploratorium.txt 1 199 
+infill Exploratorium.txt 1 1361 
+provides Exploratorium.txt 2 4164 6148 
+provider Exploratorium.txt 1 4358 
+ethos Exploratorium.txt 1 971 
+moderate Exploratorium.txt 1 2140 
+restoring Exploratorium.txt 1 1370 
+on-street Exploratorium.txt 1 6598 
+scientific Exploratorium.txt 2 107 742 
+power Exploratorium.txt 1 2124 
+notable Exploratorium.txt 6 3741 3962 5305 5606 6286 6713 
+iconic Exploratorium.txt 1 3178 
+then-board Exploratorium.txt 1 1236 
+1931 Exploratorium.txt 1 1344 
+feeds Exploratorium.txt 1 6176 
+on Exploratorium.txt 58 173 185 243 265 339 475 709 726 825 1295 1305 1718 1756 1943 2005 2054 2440 2707 2869 2933 2941 2995 3083 3114 3146 3187 3238 3340 3436 3445 3451 3465 3497 3600 3620 3696 3786 3880 3919 3979 4297 4395 4483 4521 4926 5483 5871 6040 6092 6143 6209 6341 6362 6509 6524 6574 6629 6731 
+central Exploratorium.txt 4 3194 3212 3222 4820 
+stations Exploratorium.txt 2 3104 6568 
+of Exploratorium.txt 222 18 87 120 164 194 217 262 302 310 350 376 394 428 442 455 463 503 510 552 591 610 632 652 660 666 675 690 729 765 791 815 849 898 928 968 972 1048 1056 1067 1088 1144 1201 1254 1264 1311 1366 1390 1405 1417 1429 1504 1528 1542 1580 1589 1607 1612 1635 1649 1697 1709 1791 1806 1848 1863 1873 1881 1891 1922 1947 1958 1980 2023 2047 2068 2079 2110 2129 2136 2142 2205 2227 2238 2292 2317 2324 2339 2434 2446 2456 2467 2501 2531 2548 2570 2595 2615 2633 2663 2702 2719 2732 2781 2829 2862 2924 2974 2985 3164 3174 3189 3206 3214 3226 3233 3245 3252 3263 3274 3280 3288 3315 3373 3404 3407 3419 3476 3485 3489 3505 3548 3567 3572 3578 3588 3614 3637 3683 3712 3716 3736 3775 3782 3811 3824 3844 3863 3865 3909 3939 3948 3972 3982 3988 4010 4021 4030 4050 4092 4180 4275 4289 4303 4346 4408 4423 4445 4457 4463 4524 4548 4566 4572 4647 4693 4783 4802 4840 4918 4922 5086 5116 5142 5176 5192 5204 5272 5285 5300 5322 5355 5367 5401 5472 5709 5747 5790 5803 5820 5850 5888 5946 5956 5980 6084 6140 6152 6280 6306 6330 6366 6405 6454 6461 6466 6544 6611 6669 6685 6716 6734 6749 
+meaning Exploratorium.txt 1 1680 
+greatly Exploratorium.txt 3 1166 2381 2430 
+or Exploratorium.txt 18 1031 2074 2218 2365 3580 4267 4272 4743 4933 5267 5449 5865 6066 6173 6185 6218 6226 6584 
+elementary Exploratorium.txt 2 4380 4448 
+78,712 Exploratorium.txt 1 2058 
+area Exploratorium.txt 9 1351 1880 3037 3551 5021 5845 6404 6679 6701 
+there Exploratorium.txt 4 2049 2232 5082 5641 
+relocation Exploratorium.txt 3 1245 5070 5878 
+lot Exploratorium.txt 2 1531 6602 
+colder Exploratorium.txt 1 2373 
+transitioning Exploratorium.txt 1 6432 
+valley Exploratorium.txt 1 4479 
+hydrometeorology Exploratorium.txt 1 3758 
+complete Exploratorium.txt 1 5720 
+gory Exploratorium.txt 2 1127 1233 
+sophisticated Exploratorium.txt 1 95 
+promote Exploratorium.txt 1 4769 
+with Exploratorium.txt 49 358 479 530 549 578 841 872 902 922 1308 1329 1902 2043 2063 2256 2407 2518 2601 2729 2880 2889 3128 3276 3389 3699 3955 3995 4008 4069 4476 4489 4569 4611 4643 4689 4715 4738 4957 5014 5166 5438 5505 5556 6221 6282 6290 6386 6503 6657 
+utilizing Exploratorium.txt 1 3167 
+hire Exploratorium.txt 1 5282 
+october Exploratorium.txt 1 1296 
+applying Exploratorium.txt 1 4306 
+upper-level Exploratorium.txt 1 1683 
+trips Exploratorium.txt 1 573 
+rust Exploratorium.txt 1 1397 
+600 Exploratorium.txt 2 261 2716 
+videos Exploratorium.txt 1 19 
+totaling Exploratorium.txt 1 2057 
+combining Exploratorium.txt 1 4486 
+moved Exploratorium.txt 1 2199 
+al Exploratorium.txt 1 6447 
+an Exploratorium.txt 38 81 110 347 466 488 511 846 975 1177 1573 1849 2006 2130 2527 2588 2913 3086 3293 3586 3714 3802 3969 4098 4135 4257 4460 4601 4761 4774 5539 5552 5691 5990 6128 6130 6138 6377 6486 
+as Exploratorium.txt 71 68 100 126 138 312 374 507 723 747 874 966 1106 1120 1130 1141 1240 1278 1364 1467 1477 1630 1804 1896 1978 2021 2096 2277 2305 2461 2463 2788 2800 2819 2821 2836 2900 3085 3269 3329 3385 3515 3531 3564 3635 3710 3754 3818 3965 4248 4261 4345 4564 4585 4600 4662 4683 4876 5080 5297 5323 5336 5338 5383 5745 5989 6022 6183 6259 6261 6336 6643 
+at Exploratorium.txt 43 21 161 180 268 500 563 700 925 1101 1319 1455 1859 1951 1970 2106 2117 2389 2564 2854 2859 3217 3416 3670 3985 4065 4153 4229 4321 5155 5248 5257 5294 5465 5534 5679 5907 5916 6073 6180 6303 6332 6527 6619 
+hospitals Exploratorium.txt 1 6393 
+film Exploratorium.txt 3 10 13 5558 
+novice Exploratorium.txt 1 4169 
+graduate Exploratorium.txt 1 5265 
+field Exploratorium.txt 5 572 5095 5231 5894 6179 
+you Exploratorium.txt 1 1024 
+3-d Exploratorium.txt 1 3545 
+4,000 Exploratorium.txt 1 2178 
+separate Exploratorium.txt 1 2394 
+students Exploratorium.txt 13 556 582 746 4525 4896 4989 5026 5054 5101 5185 5266 5366 5880 
+includes Exploratorium.txt 5 1424 3249 3904 3915 3960 
+important Exploratorium.txt 2 71 724 
+included Exploratorium.txt 4 1740 2967 5566 5610 
+building Exploratorium.txt 14 365 938 1215 1755 1883 2104 2164 2208 2417 2582 3429 3434 4034 6536 
+remote Exploratorium.txt 2 3744 6337 
+wife Exploratorium.txt 2 773 1047 
+websites Exploratorium.txt 1 398 
+mass Exploratorium.txt 1 1844 
+resolution Exploratorium.txt 1 1258 
+original Exploratorium.txt 4 440 3974 5446 6747 
+all Exploratorium.txt 7 113 701 2736 2771 3498 5368 6694 
+founder Exploratorium.txt 1 454 
+grassroots Exploratorium.txt 1 862 
+duplicates Exploratorium.txt 1 3769 
+suns Exploratorium.txt 1 3539 
+hands Exploratorium.txt 1 4613 
+founded Exploratorium.txt 2 150 4131 
+sunk Exploratorium.txt 1 1525 
+debris Exploratorium.txt 1 1546 
+tours Exploratorium.txt 1 3192 
+mason Exploratorium.txt 1 6700 
+children Exploratorium.txt 4 4751 4856 4967 5838 
+tv Exploratorium.txt 1 4239 
+laid Exploratorium.txt 1 5999 
+thursday Exploratorium.txt 1 6661 
+removal Exploratorium.txt 2 1527 1549 
+to Exploratorium.txt 150 38 51 74 84 134 201 284 288 354 369 379 425 495 533 599 606 649 683 696 740 806 823 838 945 951 955 1009 1083 1097 1124 1149 1189 1204 1274 1376 1490 1517 1569 1584 1601 1621 1665 1687 1694 1766 1776 2027 2035 2088 2122 2152 2156 2159 2200 2216 2272 2298 2411 2477 2495 2525 2543 2576 2619 2637 2652 2672 2693 2849 2878 2905 3061 3067 3070 3323 3353 3369 3456 3501 3528 3555 3749 3847 3857 3860 3874 4047 4080 4084 4150 4177 4202 4211 4312 4328 4434 4466 4507 4590 4707 4746 4759 4768 4870 4960 4979 5031 5071 5121 5170 5183 5186 5222 5280 5360 5422 5425 5433 5444 5484 5541 5586 5675 5701 5767 5787 5800 5876 5924 5951 5964 5997 6006 6014 6026 6035 6088 6199 6213 6232 6319 6325 6353 6359 6421 6433 6463 6469 6690 6704 
+program Exploratorium.txt 22 98 760 4139 4240 4407 4485 4505 4603 4686 4955 4984 5040 5061 5106 5182 5239 5276 5375 5406 5595 5896 6352 
+health Exploratorium.txt 1 2979 
+activities Exploratorium.txt 12 517 3081 4252 4378 4634 4749 4767 4964 5006 5644 6154 6647 
+returned Exploratorium.txt 1 2271 
+very Exploratorium.txt 1 3242 
+fall Exploratorium.txt 1 2773 
+list Exploratorium.txt 1 5770 
+large Exploratorium.txt 3 2483 5669 6150 
+4-8 Exploratorium.txt 1 5597 
+sand Exploratorium.txt 1 4013 
+saudi Exploratorium.txt 2 4677 6449 
+biological Exploratorium.txt 2 3380 6313 
+ten Exploratorium.txt 2 5421 6132 
+past Exploratorium.txt 1 3752 
+rate Exploratorium.txt 1 4191 
+design Exploratorium.txt 6 1387 1656 1696 1909 1925 2706 
+displays Exploratorium.txt 1 793 
+further Exploratorium.txt 2 4442 4865 
+situated Exploratorium.txt 2 1888 6730 
+creatures Exploratorium.txt 1 3337 
+compile Exploratorium.txt 1 3647 
+what Exploratorium.txt 3 826 2975 3466 
+centering Exploratorium.txt 2 2940 4394 
+clock Exploratorium.txt 2 3119 3122 
+sun Exploratorium.txt 2 2815 5386 
+milk Exploratorium.txt 1 4265 
+version Exploratorium.txt 2 1957 3971 
+scientists Exploratorium.txt 9 103 877 888 4414 5269 5600 6202 6222 6345 
+public Exploratorium.txt 18 290 357 418 426 694 954 1377 1432 3898 3952 4052 5443 6327 6396 6545 6677 6707 6714 
+movement Exploratorium.txt 5 3475 3484 3540 3566 5708 
+revealing Exploratorium.txt 1 1615 
+full Exploratorium.txt 1 5470 
+christian Exploratorium.txt 1 5615 
+installations Exploratorium.txt 3 2735 3827 5447 
+answers Exploratorium.txt 1 5144 
+hours Exploratorium.txt 2 6490 6506 
+operating Exploratorium.txt 1 5044 
+stipend Exploratorium.txt 1 5455 
+curricula Exploratorium.txt 1 699 
+belize Exploratorium.txt 1 6187 
+labs Exploratorium.txt 1 6314 
+naval Exploratorium.txt 1 1898 
+inspired Exploratorium.txt 5 346 753 1917 5241 5773 
+compliance Exploratorium.txt 1 2600 
+allows Exploratorium.txt 4 36 3524 3553 3747 
+experience Exploratorium.txt 8 1017 2698 3781 5125 5130 5159 5187 6470 
+prior Exploratorium.txt 2 200 5875 
+published Exploratorium.txt 1 4915 
+runoff Exploratorium.txt 1 2505 
+palais Exploratorium.txt 4 733 5250 5259 5279 
+family Exploratorium.txt 2 532 4858 
+transit Exploratorium.txt 1 6546 
+trained Exploratorium.txt 1 6458 
+florence Exploratorium.txt 1 5793 
+attendant Exploratorium.txt 1 5685 
+archived Exploratorium.txt 1 4296 
+attendance Exploratorium.txt 4 5823 5915 5939 6048 
+eye Exploratorium.txt 1 3396 
+takes Exploratorium.txt 1 2134 
+distinct Exploratorium.txt 4 2257 2775 3718 4019 
+contains Exploratorium.txt 1 2714 
+two Exploratorium.txt 15 336 1502 1540 1801 2210 2482 2545 4301 4348 5015 5084 5431 5434 5479 6240 
+resident Exploratorium.txt 1 5598 
+taken Exploratorium.txt 1 5727 
+more Exploratorium.txt 8 627 1998 3615 5151 5506 6028 6268 6434 
+fellow Exploratorium.txt 1 5317 
+company Exploratorium.txt 1 4073 
+admissions Exploratorium.txt 1 6038 
+nakayas Exploratorium.txt 1 3658 
+particular Exploratorium.txt 2 4255 6650 
+factories Exploratorium.txt 1 6231 
+keeping Exploratorium.txt 1 1901 
+gravel Exploratorium.txt 1 4015 
+hour Exploratorium.txt 1 3148 
+science Exploratorium.txt 55 43 72 304 360 415 420 429 550 561 644 656 687 698 766 785 2920 2923 3016 4093 4146 4214 4225 4246 4291 4425 4439 4449 4487 4514 4531 4576 4591 4718 4723 4806 4888 4899 4934 4982 5000 5008 5325 5333 5351 5774 5782 5805 5810 5908 6117 6358 6444 6634 6641 6656 
+resources Exploratorium.txt 5 4464 4786 4808 6206 6382 
+strategies Exploratorium.txt 1 4512 
+history Exploratorium.txt 4 433 1905 5555 5802 
+pushes Exploratorium.txt 1 5667 
+stated Exploratorium.txt 2 2025 4868 
+joints Exploratorium.txt 1 1803 
+galleries Exploratorium.txt 3 209 2752 2768 
+share Exploratorium.txt 1 2895 
+kasper Exploratorium.txt 1 1239 
+states Exploratorium.txt 5 802 2681 4104 5756 5855 
+rainstorm Exploratorium.txt 1 3753 
+urinals Exploratorium.txt 1 2520 
+cows Exploratorium.txt 1 3395 
+needs Exploratorium.txt 4 2313 2386 2399 5650 
+goal Exploratorium.txt 4 378 1977 1988 2040 
+rather Exploratorium.txt 2 1625 1677 
+maps Exploratorium.txt 1 3592 
+influences Exploratorium.txt 1 725 
+ft Exploratorium.txt 2 1414 1447 
+intended Exploratorium.txt 2 2087 5180 
+rainforest Exploratorium.txt 1 6188 
+waves Exploratorium.txt 1 2804 
+horizontal Exploratorium.txt 1 1771 
+a Exploratorium.txt 135 16 30 101 106 127 392 508 535 541 547 585 639 654 679 710 749 789 812 842 861 865 903 981 1005 1020 1029 1036 1042 1051 1062 1079 1086 1241 1257 1279 1302 1379 1631 1750 1954 1974 2024 2044 2064 2075 2177 2201 2225 2280 2306 2393 2401 2447 2551 2658 2696 2755 2779 2851 2937 2949 3008 3035 3098 3120 3144 3154 3182 3200 3250 3272 3286 3312 3341 3350 3517 3532 3544 3617 3751 3765 3779 3822 3883 4216 4254 4262 4283 4404 4421 4484 4502 4517 4541 4609 4622 4644 4663 4705 4781 4792 4800 4814 4837 4916 4981 4998 5027 5123 5128 5132 5200 5224 5324 5343 5356 5454 5531 5657 5668 5677 5687 5697 5966 5993 6090 6149 6270 6278 6328 6443 6459 6601 6649 6732 
+short Exploratorium.txt 1 5945 
+6pm-10pm Exploratorium.txt 1 6508 
+underserved Exploratorium.txt 3 4753 4966 4986 
+media Exploratorium.txt 2 15 4795 
+began Exploratorium.txt 2 545 4597 
+help Exploratorium.txt 3 4435 4508 6464 
+developed Exploratorium.txt 5 990 2722 2739 3509 6012 
+mission Exploratorium.txt 1 49 
+installed Exploratorium.txt 1 3935 
+wide-ranging Exploratorium.txt 1 91 
+held Exploratorium.txt 1 2190 
+shakedown Exploratorium.txt 1 2661 
+scott Exploratorium.txt 1 3159 
+committee Exploratorium.txt 1 518 
+its Exploratorium.txt 34 48 88 90 94 121 124 167 317 332 377 423 439 1157 1275 1807 1981 2012 2037 2397 2435 2479 2691 2872 3089 3446 4322 4336 4641 4927 5063 5957 6193 6255 6571 
+24 Exploratorium.txt 1 5846 
+25 Exploratorium.txt 1 2718 
+style Exploratorium.txt 3 3134 4941 6474 
+27 Exploratorium.txt 1 2234 
+20 Exploratorium.txt 1 4740 
+late Exploratorium.txt 1 916 
+absence Exploratorium.txt 1 5141 
+systems Exploratorium.txt 7 227 2259 2668 3306 3381 3410 5195 
+governments Exploratorium.txt 1 6388 
+someone Exploratorium.txt 1 2908 
+return Exploratorium.txt 2 2328 2379 
+anticipated Exploratorium.txt 1 5923 
+framework Exploratorium.txt 1 5191 
+walls Exploratorium.txt 1 3496 
+foot Exploratorium.txt 1 2071 
+viewers Exploratorium.txt 1 3291 
+gamow Exploratorium.txt 1 1050 
+always Exploratorium.txt 1 5330 
+level Exploratorium.txt 3 3448 3454 4029 
+courses Exploratorium.txt 1 4350 
+found Exploratorium.txt 1 617 
+ifi Exploratorium.txt 1 4402 
+characterized Exploratorium.txt 1 99 
+mental Exploratorium.txt 1 2978 
+house Exploratorium.txt 1 515 
+energy Exploratorium.txt 12 1661 1738 1976 1999 2039 2042 2084 2100 2294 2385 2459 2578 
+reduce Exploratorium.txt 2 2478 2577 
+5,874 Exploratorium.txt 1 2051 
+wires Exploratorium.txt 1 5674 
+operation Exploratorium.txt 1 1993 
+event Exploratorium.txt 1 1847 
+harp Exploratorium.txt 1 3968 
+initiatives Exploratorium.txt 1 1706 
+funding Exploratorium.txt 2 854 4427 
+much-expanded Exploratorium.txt 1 3313 
+item Exploratorium.txt 1 4259 
+robert Exploratorium.txt 2 483 1116 
+since Exploratorium.txt 11 77 249 316 319 1167 3240 5045 5398 6053 6078 6111 
+kensington Exploratorium.txt 1 763 
+projected Exploratorium.txt 3 2065 2098 2524 
+douglas Exploratorium.txt 1 5514 
+research Exploratorium.txt 6 624 3784 6299 6322 6367 6385 
+participants Exploratorium.txt 2 4467 6468 
+fountain Exploratorium.txt 2 2912 2930 
+print Exploratorium.txt 1 4803 
+occurs Exploratorium.txt 1 4578 
+expansive Exploratorium.txt 1 1403 
+housed Exploratorium.txt 2 1437 4617 
+favored Exploratorium.txt 1 6475 
+geared Exploratorium.txt 5 4140 4411 4604 4892 4903 
+houses Exploratorium.txt 8 1326 3004 3224 3311 3607 4035 4780 4799 
+imaging Exploratorium.txt 2 25 3387 
+members Exploratorium.txt 2 4049 5487 
+put Exploratorium.txt 1 3347 
+teach Exploratorium.txt 2 741 4157 
+earliest Exploratorium.txt 1 3243 
+algae Exploratorium.txt 1 3363 
+onsite Exploratorium.txt 1 2742 
+benefits Exploratorium.txt 1 2455 
+launch Exploratorium.txt 1 4845 
+kitundu Exploratorium.txt 2 5311 5496 
+xtech Exploratorium.txt 3 4980 4993 5022 
+expecting Exploratorium.txt 1 5995 
+twenty Exploratorium.txt 1 5423 
+investigates Exploratorium.txt 1 3202 
+partnerships Exploratorium.txt 3 1184 6273 6281 
+relate Exploratorium.txt 1 3321 
+number Exploratorium.txt 6 790 4782 4917 6151 6279 6329 
+preservation Exploratorium.txt 2 1651 2603 
+feet Exploratorium.txt 2 2060 3837 
+done Exploratorium.txt 2 1536 5716 
+mist Exploratorium.txt 1 3655 
+passes Exploratorium.txt 1 2264 
+temperature Exploratorium.txt 2 2141 2316 
+leading Exploratorium.txt 1 1488 
+interviews Exploratorium.txt 1 6220 
+paint Exploratorium.txt 3 1614 1627 1731 
+180 Exploratorium.txt 1 5901 
+station Exploratorium.txt 2 26 3388 
+passed Exploratorium.txt 1 1256 
+on-site Exploratorium.txt 1 2000 
+hundred Exploratorium.txt 1 655 
+bechtel Exploratorium.txt 2 3193 3221 
+lease Exploratorium.txt 2 1263 1304 
+option Exploratorium.txt 1 1331 
+convinces Exploratorium.txt 1 3290 
+immediate Exploratorium.txt 1 3325 
+information-based Exploratorium.txt 1 6435 
+part Exploratorium.txt 7 375 967 1365 1805 1979 2022 4274 
+off Exploratorium.txt 2 5953 6000 
+1912 Exploratorium.txt 1 1346 
+convinced Exploratorium.txt 1 689 
+observatory Exploratorium.txt 11 239 1594 1745 1794 1814 3423 3428 3493 3605 3625 4033 
+performers Exploratorium.txt 1 5565 
+youth Exploratorium.txt 1 5033 
+outdoors Exploratorium.txt 1 1396 
+video Exploratorium.txt 1 6165 
+0.97 Exploratorium.txt 1 6560 
+interactive Exploratorium.txt 2 792 3650 
+strengthen Exploratorium.txt 1 4452 
+ages Exploratorium.txt 1 5369 
+pedestrian Exploratorium.txt 1 1380 
+antarctica Exploratorium.txt 1 6184 
+substantial Exploratorium.txt 1 1290 
+cistern Exploratorium.txt 1 2183 
+cleaned Exploratorium.txt 1 1611 
+khobar Exploratorium.txt 1 6448 
+showcased Exploratorium.txt 1 2981 
+built Exploratorium.txt 4 961 1342 1689 4127 
+eventsto Exploratorium.txt 1 400 
+also Exploratorium.txt 20 345 367 544 1786 2567 2689 2966 3003 3059 3606 4209 4295 4352 4639 4681 4779 4914 4977 5179 6162 
+internal Exploratorium.txt 1 3054 
+build Exploratorium.txt 3 650 684 6089 
+showcases Exploratorium.txt 2 4245 6640 
+club Exploratorium.txt 1 4698 
+play Exploratorium.txt 2 14 2879 
+added Exploratorium.txt 1 1600 
+hires Exploratorium.txt 1 5049 
+reach Exploratorium.txt 1 2036 
+most Exploratorium.txt 4 70 2291 2338 5750 
+75 Exploratorium.txt 1 4824 
+experiences Exploratorium.txt 3 54 5293 6142 
+plan Exploratorium.txt 1 5165 
+significant Exploratorium.txt 2 4518 6406 
+seasons Exploratorium.txt 1 3535 
+hands-on Exploratorium.txt 8 589 3045 4082 4158 4930 5643 6153 6472 
+achievement Exploratorium.txt 2 82 4523 
+audio Exploratorium.txt 1 6167 
+mobile Exploratorium.txt 2 2762 3351 
+performances Exploratorium.txt 2 5450 5561 
+self-identification Exploratorium.txt 1 125 
+cover Exploratorium.txt 1 2778 
+drifts Exploratorium.txt 1 3661 
+salinity Exploratorium.txt 1 3571 
+traditional Exploratorium.txt 2 622 2558 
+forerunner Exploratorium.txt 1 674 
+velocity Exploratorium.txt 1 3774 
+physics Exploratorium.txt 3 216 612 3259 
+celebrated Exploratorium.txt 1 6627 
+1,275,936 Exploratorium.txt 1 2107 
+carefully Exploratorium.txt 1 1719 
+fine Exploratorium.txt 7 165 443 929 1202 2863 3989 6750 
+impact Exploratorium.txt 2 4520 5731 
+giant Exploratorium.txt 1 3208 
+chef-owner Exploratorium.txt 1 4064 
+money Exploratorium.txt 1 6029 
+his Exploratorium.txt 9 480 498 531 579 772 829 1111 3131 5164 
+founding Exploratorium.txt 5 252 318 447 728 5400 
+beams Exploratorium.txt 1 2488 
+72494 Exploratorium.txt 2 3807 3933 
+during Exploratorium.txt 1 719 
+him Exploratorium.txt 1 873 
+generally Exploratorium.txt 1 5320 
+doubled Exploratorium.txt 1 6065 
+oppenheimer Exploratorium.txt 21 156 453 465 472 484 543 603 770 803 852 931 942 997 1057 1104 3064 3997 5111 5178 5261 5341 
+investigate Exploratorium.txt 3 2882 3258 3732 
+activity Exploratorium.txt 3 4931 5655 6408 
+weaver Exploratorium.txt 1 3160 
+art Exploratorium.txt 8 44 768 2734 5335 5349 5528 5545 5654 
+ping-pong Exploratorium.txt 1 3183 
+6,400 Exploratorium.txt 1 4100 
+culture Exploratorium.txt 1 4607 
+see Exploratorium.txt 3 11 3469 3556 
+medley Exploratorium.txt 1 17 
+accelerators Exploratorium.txt 1 6234 
+arm Exploratorium.txt 1 5692 
+much-lauded Exploratorium.txt 1 756 
+visiting Exploratorium.txt 2 5442 6479 
+unrealized Exploratorium.txt 1 6037 
+currently Exploratorium.txt 2 1316 4271 
+libraries Exploratorium.txt 1 6392 
+case Exploratorium.txt 1 2336 
+various Exploratorium.txt 1 5411 
+conditions Exploratorium.txt 1 3890 
+europe Exploratorium.txt 1 705 
+korea Exploratorium.txt 1 4673 
+creating Exploratorium.txt 2 1176 2249 
+toilets Exploratorium.txt 1 2523 
+attention Exploratorium.txt 1 3859 
+noaas Exploratorium.txt 1 6364 
+work-for-hire Exploratorium.txt 1 6015 
+relying Exploratorium.txt 1 1717 
+half-hour Exploratorium.txt 1 3817 
+both Exploratorium.txt 11 1564 1928 2457 2466 3357 3689 4053 4527 5226 5332 5361 
+c Exploratorium.txt 1 2158 
+tangible Exploratorium.txt 1 3780 
+restaurant Exploratorium.txt 6 1906 1915 1934 3444 4025 4038 
+annual Exploratorium.txt 4 2007 2099 2528 5914 
+foreign Exploratorium.txt 1 6387 
+context Exploratorium.txt 1 5134 
+long-term Exploratorium.txt 1 6427 
+whole Exploratorium.txt 1 5174 
+experimental Exploratorium.txt 3 111 467 2914 
+clerestory Exploratorium.txt 1 2585 
+consume Exploratorium.txt 1 2004 
+pendulum Exploratorium.txt 1 5653 
+large-scale Exploratorium.txt 1 3825 
+reasons Exploratorium.txt 1 1567 
+olle Exploratorium.txt 1 1939 
+community Exploratorium.txt 7 1080 4441 4717 4953 4958 4973 6616 
+simply Exploratorium.txt 1 932 
+throughout Exploratorium.txt 1 2018 
+platinum Exploratorium.txt 1 2649 
+ensures Exploratorium.txt 1 1833 
+described Exploratorium.txt 1 62 
+perspectives Exploratorium.txt 1 3599 
+monthly Exploratorium.txt 1 6652 
+create Exploratorium.txt 4 52 3848 4708 5445 
+creativity Exploratorium.txt 1 4223 
+due Exploratorium.txt 2 1273 4311 
+earthquake Exploratorium.txt 1 1850 
+archimedes Exploratorium.txt 1 5791 
+walter Exploratorium.txt 3 5310 5495 5611 
+firm Exploratorium.txt 1 1462 
+pedicab Exploratorium.txt 1 6554 
+adaptable Exploratorium.txt 1 4762 
+understand Exploratorium.txt 1 403 
+bidding Exploratorium.txt 1 1271 
+coppola Exploratorium.txt 1 2962 
+expanded Exploratorium.txt 4 327 1165 1178 3970 
+while Exploratorium.txt 2 1991 4175 
+behavior Exploratorium.txt 4 225 2834 2845 2871 
+fleet Exploratorium.txt 1 5781 
+larger Exploratorium.txt 1 4645 
+century Exploratorium.txt 1 80 
+encountered Exploratorium.txt 1 718 
+itself Exploratorium.txt 1 4024 
+italy Exploratorium.txt 1 5794 
+waterside Exploratorium.txt 1 2352 
+grant Exploratorium.txt 4 640 905 4706 5002 
+docents Exploratorium.txt 1 5081 
+dozen Exploratorium.txt 1 3618 
+development Exploratorium.txt 8 301 3420 4138 4338 4406 4492 4504 4772 
+used Exploratorium.txt 3 648 2215 3530 
+temporary Exploratorium.txt 3 2969 3826 3876 
+youngsters Exploratorium.txt 1 5681 
+doas Exploratorium.txt 1 2406 
+usually Exploratorium.txt 1 3078 
+levels Exploratorium.txt 2 702 1722 
+moving Exploratorium.txt 1 6008 
+munich Exploratorium.txt 1 781 
+cityscape Exploratorium.txt 2 2822 3461 
+assortment Exploratorium.txt 1 3587 
+bob Exploratorium.txt 1 5384 
+amy Exploratorium.txt 1 5520 
+lower Exploratorium.txt 3 2458 3447 4028 
+maker Exploratorium.txt 1 4606 
+historic Exploratorium.txt 8 190 1340 1587 1616 1658 1671 2602 3589 
+visualizations Exploratorium.txt 1 3651 
+dark Exploratorium.txt 1 6664 
+dual-flush Exploratorium.txt 1 2522 
+competitive Exploratorium.txt 1 1270 
+world Exploratorium.txt 9 41 146 405 1187 2685 4834 6021 6094 6402 
+informal Exploratorium.txt 9 130 313 4385 4396 4535 4567 4575 4581 4871 
+admission Exploratorium.txt 2 5867 5873 
+contractor Exploratorium.txt 2 1470 1480 
+exhibition Exploratorium.txt 2 291 2970 
+laderman Exploratorium.txt 1 5635 
+chairman Exploratorium.txt 1 1237 
+jutting Exploratorium.txt 1 6736 
+march Exploratorium.txt 1 6631 
+forces Exploratorium.txt 1 5742 
+lanis Exploratorium.txt 1 1962 
+big Exploratorium.txt 1 5967 
+showing Exploratorium.txt 1 3412 
+homeschool Exploratorium.txt 1 4887 
+projects Exploratorium.txt 1 551 
+formal Exploratorium.txt 1 5371 
+lost Exploratorium.txt 1 5992 
+disks Exploratorium.txt 1 4006 
+arthur Exploratorium.txt 1 5618 
+provoking Exploratorium.txt 1 633 
+methods Exploratorium.txt 3 590 631 4162 
+lathe Exploratorium.txt 1 1037 
+some Exploratorium.txt 6 869 1327 1648 2733 3961 5861 
+back Exploratorium.txt 2 798 2091 
+towards Exploratorium.txt 6 844 4141 4412 4605 4894 4904 
+mirror Exploratorium.txt 1 3209 
+fanfare Exploratorium.txt 1 924 
+annually Exploratorium.txt 2 4835 6628 
+and/or Exploratorium.txt 1 6166 
+audience Exploratorium.txt 2 4285 4646 
+parodying Exploratorium.txt 1 4235 
+connecting Exploratorium.txt 2 2489 3793 
+innovation Exploratorium.txt 1 4221 
+be Exploratorium.txt 16 1002 1646 1666 1688 2089 3068 3082 3137 3354 3529 3705 3875 5150 5220 5998 6007 
+visionary Exploratorium.txt 1 6010 
+run Exploratorium.txt 2 534 4060 
+300 Exploratorium.txt 1 5066 
+fed Exploratorium.txt 1 2090 
+stem Exploratorium.txt 3 3391 4369 4732 
+santa Exploratorium.txt 1 4550 
+from Exploratorium.txt 44 487 497 522 641 906 1035 1122 1133 1147 1198 1267 1547 1815 1827 1841 2300 2329 2621 2916 2987 3050 3356 3656 4017 4102 4117 4495 4827 5199 5430 5777 5842 5847 5853 6009 6030 6169 6174 6192 6230 6501 6507 6562 6744 
+relating Exploratorium.txt 2 3455 6689 
+by Exploratorium.txt 41 63 151 212 513 1045 1232 1460 1702 1726 1762 1918 1937 2029 2279 2283 2418 2553 2699 2954 2960 3124 3139 3157 3756 3764 3976 4061 4315 4811 4997 5109 5242 5510 5672 5722 5976 6476 6541 6608 6622 6720 
+plaza Exploratorium.txt 1 3917 
+range Exploratorium.txt 1 2780 
+pollution Exploratorium.txt 1 3645 
+repair Exploratorium.txt 1 1498 
+66-year Exploratorium.txt 2 1262 1303 
+into Exploratorium.txt 16 115 207 328 2092 2176 2415 2695 2750 2774 3143 3649 4364 4379 4513 5690 6737 
+within Exploratorium.txt 3 278 4186 4618 
+exceed Exploratorium.txt 1 5925 
+primarily Exploratorium.txt 1 4995 
+smells Exploratorium.txt 1 1022 
+impressed Exploratorium.txt 1 795 
+statistics Exploratorium.txt 1 6063 
+arcade Exploratorium.txt 1 105 
+long Exploratorium.txt 2 3840 5554 
+soared Exploratorium.txt 1 5941 
+opens Exploratorium.txt 1 3023 
+blueprint Exploratorium.txt 1 586 
+himself Exploratorium.txt 2 618 5996 
+elsewhere Exploratorium.txt 1 1668 
+adjusting Exploratorium.txt 1 2666 
+hoped Exploratorium.txt 1 5209 
+boys Exploratorium.txt 1 4695 
+larry Exploratorium.txt 1 6623 
+mw-ac/m Exploratorium.txt 1 2073 
+hopes Exploratorium.txt 3 2671 3853 6420 
+line Exploratorium.txt 1 6578 
+residencies Exploratorium.txt 1 5428 
+up Exploratorium.txt 3 1489 2494 5172 
+us Exploratorium.txt 3 2179 2497 5860 
+windows Exploratorium.txt 5 1659 1768 2586 2640 4003 
+desalination Exploratorium.txt 1 3884 
+similar Exploratorium.txt 1 4666 
+called Exploratorium.txt 3 828 3804 3828 
+purcell Exploratorium.txt 1 5631 
+associated Exploratorium.txt 1 2454 
+adults Exploratorium.txt 5 4861 4910 5154 5834 6666 
+defined Exploratorium.txt 1 1895 
+metal Exploratorium.txt 1 5473 
+influence Exploratorium.txt 2 92 5729 
+reopening Exploratorium.txt 1 5971 
+economizer Exploratorium.txt 1 2353 
+engineering Exploratorium.txt 3 431 4363 5009 
+diverse Exploratorium.txt 1 5202 
+km Exploratorium.txt 2 2237 6561 
+cafe Exploratorium.txt 1 4044 
+rains Exploratorium.txt 2 3745 6338 
+afford Exploratorium.txt 1 944 
+67,000 Exploratorium.txt 1 5890 
+department Exploratorium.txt 1 613 
+aprons Exploratorium.txt 2 3682 3947 
+manhattan Exploratorium.txt 1 477 
+explaining Exploratorium.txt 2 681 6357 
+elements Exploratorium.txt 4 1588 2701 2818 5299 
+resign Exploratorium.txt 1 496 
+replace Exploratorium.txt 1 6036 
+generated Exploratorium.txt 1 2085 
+balkin Exploratorium.txt 1 5521 
+allowing Exploratorium.txt 1 2612 
+fisher Exploratorium.txt 1 3421 
+depicting Exploratorium.txt 1 3172 
+sides Exploratorium.txt 1 3500 
+structure Exploratorium.txt 1 1599 
+independently Exploratorium.txt 1 1840 
+land Exploratorium.txt 3 1829 1843 6735 
+age Exploratorium.txt 1 6513 
+required Exploratorium.txt 2 1289 1500 
+aga Exploratorium.txt 1 1472 
+2003 Exploratorium.txt 1 5796 
+2006 Exploratorium.txt 2 1148 4992 
+2007 Exploratorium.txt 1 5734 
+2004 Exploratorium.txt 1 1247 
+2005 Exploratorium.txt 2 1136 1249 
+far Exploratorium.txt 1 6743 
+2008 Exploratorium.txt 2 4599 5983 
+2009 Exploratorium.txt 1 446 
+sonoma Exploratorium.txt 1 4478 
+issued Exploratorium.txt 1 2282 
+existing Exploratorium.txt 3 2581 2623 2639 
+steve Exploratorium.txt 1 5573 
+rusting Exploratorium.txt 1 1406 
+go Exploratorium.txt 1 4195 
+contributions Exploratorium.txt 1 424 
+centers Exploratorium.txt 5 315 4565 4583 5811 5909 
+seemed Exploratorium.txt 1 6005 
+disposal Exploratorium.txt 1 5467 
+young Exploratorium.txt 4 5056 5103 5147 5724 
+visitor Exploratorium.txt 3 994 3201 5124 
+visualizing Exploratorium.txt 1 3541 
+include Exploratorium.txt 6 2630 3102 3116 4788 4880 6654 
+relocated Exploratorium.txt 1 1197 
+ingredient Exploratorium.txt 2 4256 6651 
+overlaps Exploratorium.txt 1 3954 
+confirmation Exploratorium.txt 1 5651 
+garden Exploratorium.txt 1 5789 
+reopened Exploratorium.txt 1 179 
+wave Exploratorium.txt 2 6483 6709 
+manipulated Exploratorium.txt 1 3138 
+drinking Exploratorium.txt 1 2929 
+categories Exploratorium.txt 3 2776 6758 6760 
+entire Exploratorium.txt 4 1825 1836 3526 6516 
+non-profits Exploratorium.txt 1 5752 
+positions Exploratorium.txt 2 524 5236 
+notes Exploratorium.txt 1 6753 
+integrating Exploratorium.txt 1 2419 
+try Exploratorium.txt 1 2904 
+reich Exploratorium.txt 1 5574 
+businesses Exploratorium.txt 1 878 
+noted Exploratorium.txt 2 3132 5806 
+limitations Exploratorium.txt 1 4314 
+educators Exploratorium.txt 8 1175 4101 4413 4648 4813 5057 5104 5601 
+demonstrations Exploratorium.txt 1 5245 
+hyde Exploratorium.txt 1 5623 
+50,000-page Exploratorium.txt 1 333 
+universities Exploratorium.txt 1 6389 
+showcase Exploratorium.txt 1 370 
+giving Exploratorium.txt 1 3778 
+pipes Exploratorium.txt 1 2332 
+access Exploratorium.txt 2 6198 6492 
+experiment Exploratorium.txt 1 2888 
+slabs Exploratorium.txt 1 2231 
+focuses Exploratorium.txt 3 242 2868 3464 
+led Exploratorium.txt 2 133 5277 
+chose Exploratorium.txt 1 1620 
+exchange Exploratorium.txt 1 2370 
+respectively Exploratorium.txt 1 1347 
+gathered Exploratorium.txt 1 4016 
+fishermans Exploratorium.txt 1 6531 
+slated Exploratorium.txt 1 3873 
+highly Exploratorium.txt 1 5201 
+explore Exploratorium.txt 4 39 401 2953 3378 
+sink Exploratorium.txt 1 2308 
+ferry Exploratorium.txt 2 1214 6535 
+settling Exploratorium.txt 1 3332 
+39 Exploratorium.txt 1 1218 
+engage Exploratorium.txt 2 355 3041 
+technical Exploratorium.txt 1 5460 
+32 Exploratorium.txt 1 3717 
+30 Exploratorium.txt 1 4176 
+37 Exploratorium.txt 1 3165 
+36 Exploratorium.txt 1 5862 
+formerly Exploratorium.txt 1 4273 
+adults-only Exploratorium.txt 1 6504 
+makes Exploratorium.txt 4 1787 2127 2568 3842 
+honor Exploratorium.txt 1 1872 
+named Exploratorium.txt 1 1867 
+trusswork Exploratorium.txt 1 1673 
+classrooms Exploratorium.txt 2 4370 4384 
+private Exploratorium.txt 1 6398 
+decrease Exploratorium.txt 1 1777 
+tools Exploratorium.txt 1 4433 
+use Exploratorium.txt 10 1708 1739 2101 2128 2192 2569 3843 3894 4810 6310 
+faade Exploratorium.txt 1 2607 
+excursions Exploratorium.txt 1 4908 
+consumption Exploratorium.txt 1 2481 
+next Exploratorium.txt 1 1008 
+cils Exploratorium.txt 2 4539 4556 
+1/5 Exploratorium.txt 1 5955 
+started Exploratorium.txt 2 5377 6618 
+occurred Exploratorium.txt 1 1294 
+cooperate Exploratorium.txt 1 2892 
+0.6 Exploratorium.txt 1 6558 
+practicing Exploratorium.txt 1 5268 
+extension Exploratorium.txt 1 6139 
+f Exploratorium.txt 2 2154 6576 
+this Exploratorium.txt 15 2 658 1089 1360 1723 1759 1830 1986 2356 2927 3914 3951 4243 5985 6726 
+thin Exploratorium.txt 1 1770 
+meet Exploratorium.txt 1 6223 
+control Exploratorium.txt 2 2258 2289 
+wedge Exploratorium.txt 1 1398 
+wharf Exploratorium.txt 1 6532 
+links Exploratorium.txt 1 6756 
+plate Exploratorium.txt 2 3333 3342 
+process Exploratorium.txt 1 1272 
+thermally Exploratorium.txt 1 2228 
+pieces Exploratorium.txt 1 5509 
+high Exploratorium.txt 10 554 565 580 757 2634 4144 4367 5052 5088 5228 
+sought Exploratorium.txt 1 853 
+publicity Exploratorium.txt 1 5968 
+educational Exploratorium.txt 10 1282 4074 4582 4785 4825 4853 4942 4949 4963 6257 
+united Exploratorium.txt 3 801 2680 5755 
+holds Exploratorium.txt 3 1301 2897 3441 
+regions Exploratorium.txt 1 4020 
+located Exploratorium.txt 7 1209 3047 3886 4817 6523 6557 6591 
+instead Exploratorium.txt 2 996 3279 
+circular Exploratorium.txt 1 3518 
+buildings Exploratorium.txt 5 2311 2384 2448 2606 2704 
+stop Exploratorium.txt 1 6573 
+collection Exploratorium.txt 2 670 4801 
+monitoring Exploratorium.txt 1 2664 
+physical Exploratorium.txt 1 2797 
+light Exploratorium.txt 6 221 1711 1721 2572 2801 3264 
+lines Exploratorium.txt 2 1638 1772 
+laurie Exploratorium.txt 1 5567 
+infilled Exploratorium.txt 1 1356 
+allow Exploratorium.txt 2 952 5184 
+six Exploratorium.txt 3 2751 3814 6108 
+produces Exploratorium.txt 2 2041 4823 
+in-house Exploratorium.txt 2 4602 4890 
+move Exploratorium.txt 6 203 1188 1493 1839 2765 4327 
+tinkerers Exploratorium.txt 1 3118 
+including Exploratorium.txt 15 214 229 331 1512 2784 3231 3473 4086 4671 4836 5303 5513 6113 6547 6600 
+policymakers Exploratorium.txt 1 4417 
+la Exploratorium.txt 2 735 5252 
+ships Exploratorium.txt 1 3486 
+acres Exploratorium.txt 2 1426 3906 
+permanent Exploratorium.txt 1 3881 
+choose Exploratorium.txt 1 3750 
+2014 Exploratorium.txt 3 2643 2999 6043 
+2016 Exploratorium.txt 2 1150 1153 
+2011 Exploratorium.txt 3 409 417 6250 
+2010 Exploratorium.txt 1 1298 
+2013 Exploratorium.txt 8 172 176 1226 3026 4347 5075 5931 6246 
+2012 Exploratorium.txt 4 4097 4700 5826 6455 
+designs Exploratorium.txt 1 4429 
+practice Exploratorium.txt 1 750 
+earn Exploratorium.txt 1 6027 
+roof-mounted Exploratorium.txt 1 2045 
+cage Exploratorium.txt 1 5570 
+day Exploratorium.txt 2 4881 6617 
+worlds Exploratorium.txt 1 783 
+edit Exploratorium.txt 34 434 451 1194 1388 1395 1907 1967 2710 2846 3030 3199 3307 3425 3654 3900 4026 4076 4115 4388 4944 5036 5309 5730 5732 5824 6069 6274 6370 6482 6493 6615 6671 6754 6757 
+university Exploratorium.txt 4 470 502 609 4547 
+identified Exploratorium.txt 1 1231 
+hollis Exploratorium.txt 2 3978 5515 
+22-foot-high Exploratorium.txt 1 3121 
+mode Exploratorium.txt 2 2354 2357 
+tubing Exploratorium.txt 1 2240 
+traces Exploratorium.txt 1 1634 
+experienced Exploratorium.txt 1 5975 
+studios Exploratorium.txt 3 6369 6374 6412 
+globe Exploratorium.txt 1 4670 
+related Exploratorium.txt 1 6667 
+frequency Exploratorium.txt 1 3771 
+separating Exploratorium.txt 2 1811 1823 
+special Exploratorium.txt 1 6200 
+85 Exploratorium.txt 1 4201 
+integrates Exploratorium.txt 2 4362 4374 
+your Exploratorium.txt 1 4612 
+announced Exploratorium.txt 1 6046 
+frank Exploratorium.txt 7 155 452 464 3996 5110 5246 5340 
+maintains Exploratorium.txt 1 6674 
+exhibit-building Exploratorium.txt 2 273 3080 
+york Exploratorium.txt 3 66 2655 5934 
+conflicts Exploratorium.txt 1 1734 
+philip Exploratorium.txt 1 5571 
+interaction Exploratorium.txt 1 3698 
+gallons Exploratorium.txt 4 2180 2498 2530 2547 
+could Exploratorium.txt 1 1016 
+fujiko Exploratorium.txt 3 3657 3799 5523 
+times Exploratorium.txt 5 67 2656 5935 6133 6272 
+length Exploratorium.txt 1 2594 
+facilitate Exploratorium.txt 1 3502 
+housing Exploratorium.txt 1 5456 
+south Exploratorium.txt 9 762 3027 3032 3095 3679 3937 3946 4627 4672 
+designed Exploratorium.txt 7 1459 1956 2476 2514 2959 4506 4758 
+embryo Exploratorium.txt 1 3402 
+improvements Exploratorium.txt 1 941 
+such Exploratorium.txt 17 2787 2799 2835 2899 3268 3328 3384 3514 3563 3634 3709 3964 4260 4584 5382 6181 6335 
+quality Exploratorium.txt 2 2288 3636 
+bart Exploratorium.txt 2 6548 6565 
+has Exploratorium.txt 26 60 132 295 326 344 1164 1973 2209 2392 2429 2452 2473 3494 4333 4913 5042 5329 5551 5656 5772 6106 6126 6237 6265 6277 6570 
+management Exploratorium.txt 2 4072 6024 
+festival Exploratorium.txt 2 6445 6467 
+tinkering Exploratorium.txt 8 228 3029 4377 4595 4685 4711 4766 6440 
+system Exploratorium.txt 11 2116 2132 2226 2245 2349 2395 2405 2437 2451 2540 3885 
+their Exploratorium.txt 9 850 3062 3109 5193 5286 5292 5301 5466 6321 
+paved Exploratorium.txt 1 1358 
+classroom Exploratorium.txt 2 4251 6646 
+academy Exploratorium.txt 1 5979 
+contribute Exploratorium.txt 1 4589 
+environmental Exploratorium.txt 1 371 
+institution Exploratorium.txt 3 974 1283 5763 
+ipad Exploratorium.txt 2 337 6242 
+observed Exploratorium.txt 3 3355 5247 6001 
+clockface Exploratorium.txt 1 3145 
+patients Exploratorium.txt 1 2986 
+gmez-pea Exploratorium.txt 1 5628 
+visited Exploratorium.txt 7 774 876 5262 5829 5883 5904 6442 
+providing Exploratorium.txt 2 4151 4765 
+sculpture Exploratorium.txt 2 3155 6728 
+are Exploratorium.txt 26 264 1315 1339 1436 2050 2233 2296 2361 2469 2738 2748 2761 3338 4059 4270 4294 4929 5083 5092 5099 5234 5452 5642 5715 6339 6425 
+exhibit Exploratorium.txt 11 669 1421 1715 1920 1945 1963 2915 3055 3087 3742 6489 
+1.5 Exploratorium.txt 2 1425 3905 
+1.1 Exploratorium.txt 1 6056 
+1.3 Exploratorium.txt 1 2069 
+unchanged Exploratorium.txt 1 2611 
+partnership Exploratorium.txt 4 4068 4688 5013 6288 
+phytoplankton Exploratorium.txt 1 3375 
+teenagers Exploratorium.txt 1 5093 
+have Exploratorium.txt 10 75 257 979 1748 3236 4172 5413 5464 5488 5609 
+keller Exploratorium.txt 2 4063 5626 
+need Exploratorium.txt 2 692 2556 
+demonstration Exploratorium.txt 1 3273 
+viewed Exploratorium.txt 1 5988 
+able Exploratorium.txt 1 3069 
+mix Exploratorium.txt 1 3251 
+relatives Exploratorium.txt 1 883 
+ehdd Exploratorium.txt 1 1463 
+which Exploratorium.txt 31 241 263 646 737 769 787 1288 1443 1746 1876 2149 2206 2333 2468 2720 2956 2980 2993 3057 3181 3612 3703 3746 3760 3851 4039 4227 4822 4851 5041 6251 
+re-opening Exploratorium.txt 1 6054 
+worldwide Exploratorium.txt 3 58 5776 5913 
+lectures Exploratorium.txt 1 3017 
+collaboration Exploratorium.txt 3 3994 4542 4714 
+who Exploratorium.txt 7 473 1058 4194 5091 5098 5216 5481 
+gallery Exploratorium.txt 22 235 240 2843 2867 2965 3002 3028 3033 3096 3195 3213 3223 3304 3310 3424 3463 3527 3653 3675 3958 4628 4821 
+topographic Exploratorium.txt 1 3546 
+face Exploratorium.txt 2 2902 2973 
+1,000 Exploratorium.txt 1 254 
+scrambled Exploratorium.txt 1 6025 
+painting Exploratorium.txt 1 5387 
+selection Exploratorium.txt 1 3314 
+indoor Exploratorium.txt 2 1418 2744 
+chapters Exploratorium.txt 1 4692 
+bring Exploratorium.txt 5 598 2412 4081 5212 6320 
+planning Exploratorium.txt 1 810 
+chicken Exploratorium.txt 2 3401 3414 
+decade Exploratorium.txt 1 542 
+staff Exploratorium.txt 7 1328 1684 5244 5439 5486 5958 6722 
+partners Exploratorium.txt 1 2903 
+based Exploratorium.txt 4 1942 2932 6340 6361 
+entities Exploratorium.txt 1 6399 
+employed Exploratorium.txt 1 745 
+he Exploratorium.txt 15 492 519 576 595 616 637 647 703 819 827 875 5119 5145 5160 5208 
+local Exploratorium.txt 7 244 553 2809 3326 4741 4972 6692 
+plazas Exploratorium.txt 1 1378 
+means Exploratorium.txt 1 1989 
+displayed Exploratorium.txt 1 738 
+overall Exploratorium.txt 1 1982 
+lucky Exploratorium.txt 1 5518 
+joint Exploratorium.txt 6 1832 1870 1875 1931 4043 4056 
+exchanger Exploratorium.txt 1 2204 
+webcast Exploratorium.txt 4 4815 4839 6072 6194 
+areas Exploratorium.txt 5 995 2345 2783 3177 6365 
+processes Exploratorium.txt 1 3383 
+organ Exploratorium.txt 2 6484 6710 
+hiring Exploratorium.txt 1 5065 
+h Exploratorium.txt 1 5780 
+cycled Exploratorium.txt 1 2223 
+felipe Exploratorium.txt 1 5639 
+view Exploratorium.txt 5 285 843 2996 3063 6219 
+available Exploratorium.txt 2 4355 4465 
+j Exploratorium.txt 1 482 
+31,000 Exploratorium.txt 1 1415 
+operates Exploratorium.txt 3 4391 4682 4947 
+officials Exploratorium.txt 2 882 5960 
+operated Exploratorium.txt 1 6607 
+reform Exploratorium.txt 3 306 4453 4593 
+pattern Exploratorium.txt 1 5678 
+genius Exploratorium.txt 1 5493 
+written Exploratorium.txt 1 866 
+closed Exploratorium.txt 1 4320 
+sole Exploratorium.txt 1 560 
+opening Exploratorium.txt 3 845 1066 3519 
+however Exploratorium.txt 3 1657 2763 5928 
+photovoltaics Exploratorium.txt 1 2048 
+key Exploratorium.txt 1 6062 
+two-person Exploratorium.txt 1 2928 
+problem Exploratorium.txt 1 1751 
+weeks Exploratorium.txt 1 5432 
+career Exploratorium.txt 1 490 
+freely Exploratorium.txt 1 1430 
+invited Exploratorium.txt 2 605 805 
+attributed Exploratorium.txt 1 83 
+webby Exploratorium.txt 1 6109 
+april Exploratorium.txt 4 174 1225 2998 6041 
+figures Exploratorium.txt 1 891 
+invites Exploratorium.txt 1 5420 
+otherwise Exploratorium.txt 1 5219 
+murch Exploratorium.txt 1 5612 
+wall Exploratorium.txt 2 982 1006 
+tuesday Exploratorium.txt 1 6498 
+environments Exploratorium.txt 1 4657 
+table Exploratorium.txt 1 3585 
+picking Exploratorium.txt 1 5659 
+addition Exploratorium.txt 6 287 2121 2632 4149 5030 5585 
+kahn Exploratorium.txt 1 5499 
+slowly Exploratorium.txt 1 1537 
+330,000 Exploratorium.txt 1 1412 
+richards Exploratorium.txt 1 6725 
+proposal Exploratorium.txt 2 867 977 
+youngster Exploratorium.txt 2 5658 5665 
+atlases Exploratorium.txt 1 3594 
+penny Exploratorium.txt 1 104 
+controlled Exploratorium.txt 1 1720 
+essentially Exploratorium.txt 1 5079 
+osher Exploratorium.txt 3 2841 5593 5607 
+general Exploratorium.txt 3 359 1469 6706 
+atmospheric Exploratorium.txt 1 6295 
+defining Exploratorium.txt 1 5298 
+mierle Exploratorium.txt 1 5634 
+examine Exploratorium.txt 1 4122 
+will Exploratorium.txt 5 1838 1996 2003 3012 3854 
+entrepreneurial Exploratorium.txt 1 6378 
+conveying Exploratorium.txt 1 5156 
+almost Exploratorium.txt 3 540 1513 3300 
+evelyn Exploratorium.txt 1 5624 
+decouverte Exploratorium.txt 1 5253 
+site Exploratorium.txt 6 1603 2708 2713 2728 6091 6098 
+audiences Exploratorium.txt 1 6208 
+arabia Exploratorium.txt 2 4678 6450 
+partner Exploratorium.txt 2 4737 6390 
+capture Exploratorium.txt 1 2493 
+landmarks Exploratorium.txt 1 3179 
+administration Exploratorium.txt 1 6296 
+highlighted Exploratorium.txt 1 5738 
+largest Exploratorium.txt 3 382 784 2675 
+ball Exploratorium.txt 1 3184 
+conceived Exploratorium.txt 1 5108 
+upon Exploratorium.txt 1 5970 
+coaches Exploratorium.txt 1 4165 
+architectures Exploratorium.txt 1 2624 
+frequently Exploratorium.txt 1 775 
+judgment Exploratorium.txt 1 2886 
+scholars Exploratorium.txt 1 5599 
+discounted Exploratorium.txt 1 5866 
+center Exploratorium.txt 7 128 2992 4533 4724 4797 5526 5783 
+well Exploratorium.txt 2 2462 2820 
+thought Exploratorium.txt 1 5321 
+patterns Exploratorium.txt 2 3870 5706 
+english Exploratorium.txt 1 4490 
+position Exploratorium.txt 1 499 
+artists-in-residence Exploratorium.txt 2 5436 5480 
+newest Exploratorium.txt 1 1158 
+less Exploratorium.txt 1 619 
+executive Exploratorium.txt 2 1131 1142 
+40 Exploratorium.txt 1 5508 
+testbed Exploratorium.txt 1 3759 
+web Exploratorium.txt 3 1179 6096 6211 
+point Exploratorium.txt 1 6733 
+ductwork Exploratorium.txt 1 2465 
+extends Exploratorium.txt 2 1444 3687 
+stop-motion Exploratorium.txt 1 3111 
+ample Exploratorium.txt 1 2625 
+smithsonian Exploratorium.txt 1 817 
+cruz Exploratorium.txt 1 4551 
+oppenheimers Exploratorium.txt 3 320 797 836 
+five Exploratorium.txt 2 4018 4187 
+intersection Exploratorium.txt 1 4559 
+pier Exploratorium.txt 30 195 1102 1217 1321 1324 1441 1456 1508 1590 1609 1643 1798 1817 1826 1837 1971 2186 2390 2565 2726 3218 3610 3684 3727 3888 3940 3949 5072 5919 6307 
+prominent Exploratorium.txt 2 887 5511 
+glazing Exploratorium.txt 2 1479 2636 
+like Exploratorium.txt 2 4040 6637 
+success Exploratorium.txt 2 5271 5302 
+hosts Exploratorium.txt 1 5596 
+cognition Exploratorium.txt 1 2793 
+become Exploratorium.txt 5 380 584 663 2673 5485 
+works Exploratorium.txt 2 2350 4956 
+radiant Exploratorium.txt 4 2230 2243 2331 2420 
+accessible Exploratorium.txt 7 1431 3791 3911 6260 6540 6595 6703 
+shed Exploratorium.txt 1 1819 
+stem-enriched Exploratorium.txt 1 4748 
+net-zero Exploratorium.txt 4 383 1975 1987 2038 
+phenomena Exploratorium.txt 1 2798 
+library Exploratorium.txt 3 659 4462 4793 
+brian Exploratorium.txt 1 5575 
+daylight Exploratorium.txt 1 2626 
+warmer Exploratorium.txt 1 2378 
+home Exploratorium.txt 4 168 4210 4978 5728 
+peter Exploratorium.txt 1 6724 
+open-ended Exploratorium.txt 2 4940 5158 
+highlighting Exploratorium.txt 1 2754 
+lead Exploratorium.txt 2 1613 2028 
+markers Exploratorium.txt 2 5663 5714 
+demonstrators Exploratorium.txt 1 748 
+does Exploratorium.txt 1 6581 
+panes Exploratorium.txt 1 1775 
+expansion Exploratorium.txt 1 1334 
+paper Exploratorium.txt 2 5344 5699 
+host Exploratorium.txt 1 3013 
+although Exploratorium.txt 4 936 3871 5254 5938 
+offset Exploratorium.txt 1 1667 
+pv Exploratorium.txt 1 2052 
+periodically Exploratorium.txt 1 6301 
+post-opening Exploratorium.txt 1 2660 
+about Exploratorium.txt 3 5 3630 5808 
+embryos Exploratorium.txt 1 3415 
+withdrew Exploratorium.txt 1 529 
+shipping Exploratorium.txt 1 1637 
+dissections Exploratorium.txt 1 3397 
+equally Exploratorium.txt 1 5553 
+own Exploratorium.txt 7 851 3053 3090 3110 5287 6572 6583 
+ceos Exploratorium.txt 1 5307 
+commitment Exploratorium.txt 1 2692 
+assess Exploratorium.txt 1 2906 
+chris Exploratorium.txt 1 1160 
+weather Exploratorium.txt 3 246 3642 3869 
+artists Exploratorium.txt 6 5424 5451 5512 5563 5588 5603 
+couldnt Exploratorium.txt 1 943 
+utility Exploratorium.txt 1 2094 
+1987 Exploratorium.txt 1 1123 
+1984 Exploratorium.txt 1 4133 
+1985 Exploratorium.txt 2 323 1114 
+van Exploratorium.txt 1 1238 
+additional Exploratorium.txt 1 6131 
+artifacts Exploratorium.txt 1 2984 
+museum Exploratorium.txt 41 7 31 73 280 384 764 779 786 848 913 1081 1163 1183 2010 2020 2126 2677 3247 4155 4620 4636 4829 4875 5047 5118 5133 5225 5326 5357 5393 5419 5548 5766 5885 5959 6171 6205 6318 6481 6517 6538 
+pairing Exploratorium.txt 1 2400 
+apps Exploratorium.txt 2 338 6243 
+awarded Exploratorium.txt 3 2647 4704 5490 
+intention Exploratorium.txt 2 2026 4571 
+function Exploratorium.txt 1 5078 
+nourish Exploratorium.txt 1 3370 
+north Exploratorium.txt 1 3678 
+bus Exploratorium.txt 1 6551 
+44,000 Exploratorium.txt 1 5869 
+but Exploratorium.txt 4 818 5380 5984 6589 
+administrators Exploratorium.txt 1 4415 
+construction Exploratorium.txt 5 1291 1368 1543 1579 1736 
+goals Exploratorium.txt 1 5947 
+ha Exploratorium.txt 2 1428 3908 
+partially Exploratorium.txt 1 2366 
+made Exploratorium.txt 7 911 965 1044 1576 2741 3156 4354 
+places Exploratorium.txt 1 5686 
+levin Exploratorium.txt 1 5517 
+cells Exploratorium.txt 1 3392 
+pitch-black Exploratorium.txt 1 2950 
+signed Exploratorium.txt 1 5721 
+placed Exploratorium.txt 2 1003 6695 
+below Exploratorium.txt 4 2184 2322 3360 3722 
+books Exploratorium.txt 1 4919 
+distribution Exploratorium.txt 1 2410 
+minutes Exploratorium.txt 1 3815 
+display Exploratorium.txt 5 1399 3084 3115 3239 3882 
+hvac Exploratorium.txt 2 2131 2436 
+devise Exploratorium.txt 2 4250 6645 
+signage Exploratorium.txt 1 2873 
+82 Exploratorium.txt 1 2250 
+education Exploratorium.txt 11 305 314 361 4085 4440 4450 4488 4592 4983 6123 6430 
+campus Exploratorium.txt 5 1323 1410 3439 3903 5503 
+diego Exploratorium.txt 1 5786 
+48 Exploratorium.txt 1 4103 
+variety Exploratorium.txt 1 393 
+46 Exploratorium.txt 1 3838 
+45 Exploratorium.txt 1 5836 
+percent Exploratorium.txt 2 4179 4204 
+43 Exploratorium.txt 2 2236 5813 
+bartels Exploratorium.txt 1 1139 
+other Exploratorium.txt 20 329 1692 1733 1822 2817 3019 3336 3376 4373 4655 4784 5560 5854 5911 6017 6033 6061 6204 6283 6395 
+branch Exploratorium.txt 1 814 
+toured Exploratorium.txt 1 704 
+out Exploratorium.txt 1 4302 
+francisco Exploratorium.txt 13 34 831 840 909 1213 1222 1252 1313 2275 4234 4691 6613 6740 
+tides Exploratorium.txt 2 3479 3643 
+june Exploratorium.txt 1 1152 
+nozzles Exploratorium.txt 1 3846 
+solstices Exploratorium.txt 1 3536 
+additionally Exploratorium.txt 3 2533 6238 6346 
+seismic Exploratorium.txt 6 1802 1808 1869 1930 4042 4055 
+friends Exploratorium.txt 2 885 5215 
+jawbone Exploratorium.txt 1 3278 
+portion Exploratorium.txt 1 2433 
+compete Exploratorium.txt 2 2893 4281 
+fritting Exploratorium.txt 1 1785 
+cookbook Exploratorium.txt 1 678 
+mermen Exploratorium.txt 1 5583 
+ticketed Exploratorium.txt 1 3690 

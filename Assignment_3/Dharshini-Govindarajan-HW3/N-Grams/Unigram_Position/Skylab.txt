@@ -1,0 +1,2115 @@
+sizemuch Skylab.txt 1 6382 
+battelle Skylab.txt 1 6972 
+limited Skylab.txt 1 6502 
+hats Skylab.txt 1 7146 
+four Skylab.txt 8 1103 2514 2560 3898 3911 3962 6353 6616 
+sleep Skylab.txt 1 3715 
+re-activated Skylab.txt 1 5707 
+crete Skylab.txt 1 5228 
+assembled Skylab.txt 3 254 7755 7772 
+sl-2 Skylab.txt 4 3118 3130 6514 6532 
+sl-3 Skylab.txt 2 3119 3243 
+sl-1 Skylab.txt 3 2956 3065 8156 
+patches Skylab.txt 2 8200 8240 
+sl-4 Skylab.txt 7 3121 3248 6081 6195 6523 6654 8158 
+marcos Skylab.txt 1 7293 
+contained Skylab.txt 3 5321 5327 5592 
+under Skylab.txt 5 1314 2052 4285 5932 5984 
+ektachrome Skylab.txt 1 5223 
+shielding Skylab.txt 1 3942 
+rescue Skylab.txt 12 262 2691 2696 2769 3279 5888 5947 7708 7720 7753 7769 7886 
+dispense Skylab.txt 1 4947 
+45.4 Skylab.txt 1 5650 
+kinzler Skylab.txt 1 3198 
+affect Skylab.txt 1 3853 
+bringing Skylab.txt 1 3164 
+171.3 Skylab.txt 1 3959 
+believed Skylab.txt 2 6123 6145 
+prize Skylab.txt 2 7175 7567 
+cmg Skylab.txt 2 4216 4218 
+solution Skylab.txt 1 3189 
+34s Skylab.txt 1 7453 
+bicycle Skylab.txt 1 3660 
+estimates Skylab.txt 1 6703 
+direct Skylab.txt 1 1426 
+second Skylab.txt 10 1641 1682 1873 5340 5366 6910 7012 7758 7921 7939 
+even Skylab.txt 4 4949 6391 6417 6581 
+established Skylab.txt 1 4271 
+errors Skylab.txt 1 5533 
+56-day Skylab.txt 2 5167 8251 
+contributed Skylab.txt 1 3631 
+supplied Skylab.txt 1 4775 
+7,000-ton Skylab.txt 1 819 
+above Skylab.txt 2 702 7619 
+conduct Skylab.txt 2 848 7836 
+supplies Skylab.txt 4 1567 2754 5923 6093 
+increasing Skylab.txt 1 5129 
+gyroscope Skylab.txt 2 4215 4412 
+told Skylab.txt 1 8205 
+never Skylab.txt 1 271 
+teleoperator Skylab.txt 1 5974 
+sunspot Skylab.txt 2 6707 6912 
+drew Skylab.txt 2 156 6946 
+hundreds Skylab.txt 1 6326 
+reported Skylab.txt 1 3601 
+protection Skylab.txt 1 326 
+active Skylab.txt 2 1721 4389 
+path Skylab.txt 1 670 
+100 Skylab.txt 3 5216 5648 6276 
+resupply Skylab.txt 1 6489 
+dry Skylab.txt 4 2186 2284 2372 2392 
+balance Skylab.txt 1 5693 
+items Skylab.txt 3 4141 4675 5509 
+employees Skylab.txt 1 1377 
+reports Skylab.txt 1 7167 
+ignoring Skylab.txt 1 6919 
+pinning Skylab.txt 1 2991 
+procedure Skylab.txt 1 5038 
+permit Skylab.txt 1 8115 
+military Skylab.txt 1 1291 
+changes Skylab.txt 1 1295 
+cancellation Skylab.txt 2 2303 2903 
+diameter Skylab.txt 4 806 1225 4426 5104 
+projection Skylab.txt 1 7101 
+ssesm Skylab.txt 1 2061 
+highly Skylab.txt 1 3725 
+visible Skylab.txt 1 483 
+spacewalks Skylab.txt 3 3216 3418 4114 
+total Skylab.txt 3 195 8341 8359 
+unit Skylab.txt 2 2928 5494 
+would Skylab.txt 62 762 808 834 861 929 993 1233 1303 1386 1490 1541 1684 1697 1756 1822 1904 1925 1946 1972 2088 2171 2278 2319 2479 2507 2740 2757 3054 3066 3175 3461 4765 4868 5067 5075 5181 5291 5603 5765 5935 5950 6000 6127 6283 6293 6362 6435 6474 6499 6562 6593 6611 6622 6851 7059 7208 7326 7795 7828 7867 7897 7965 
+army Skylab.txt 2 964 977 
+music Skylab.txt 2 2536 3756 
+apollowas Skylab.txt 1 3608 
+until Skylab.txt 5 755 3074 6004 6695 7072 
+separated Skylab.txt 1 283 
+relax Skylab.txt 1 3771 
+successful Skylab.txt 2 1828 4100 
+warm Skylab.txt 1 4810 
+90 Skylab.txt 1 3650 
+hold Skylab.txt 3 1916 4161 6178 
+must Skylab.txt 1 4278 
+1993 Skylab.txt 1 7673 
+word Skylab.txt 1 5576 
+room Skylab.txt 3 3735 5382 8054 
+mm Skylab.txt 3 5211 5217 5270 
+1998 Skylab.txt 1 7678 
+torques Skylab.txt 1 4293 
+work Skylab.txt 7 1379 1515 1855 2190 2336 2346 4556 
+mi Skylab.txt 1 699 
+worth Skylab.txt 1 6325 
+movies Skylab.txt 1 2521 
+locker Skylab.txt 1 2614 
+csm-based Skylab.txt 1 1471 
+era Skylab.txt 1 2199 
+mr Skylab.txt 1 3194 
+example Skylab.txt 4 2215 2419 4025 7004 
+2.84 Skylab.txt 1 4713 
+indicated Skylab.txt 1 691 
+pints Skylab.txt 1 4706 
+household Skylab.txt 1 3682 
+titanium Skylab.txt 1 4063 
+want Skylab.txt 1 2532 
+2.2 Skylab.txt 1 8343 
+rayon Skylab.txt 1 4778 
+keep Skylab.txt 1 4512 
+risk Skylab.txt 3 589 6743 7364 
+as-209 Skylab.txt 1 2097 
+end Skylab.txt 4 4149 4601 6078 6280 
+unpaid Skylab.txt 1 7500 
+provide Skylab.txt 3 1375 4220 6436 
+travel Skylab.txt 1 753 
+drying Skylab.txt 1 3539 
+damage Skylab.txt 3 2725 2958 7198 
+astronomers Skylab.txt 1 836 
+how Skylab.txt 2 1815 2504 
+hot Skylab.txt 1 4950 
+separator Skylab.txt 1 5051 
+iiic Skylab.txt 1 2140 
+terrycloth Skylab.txt 1 4779 
+after Skylab.txt 16 709 1337 1363 1962 3634 3672 5193 5664 5882 5899 6076 6349 6646 6656 7120 7626 
+confirmed Skylab.txt 1 3478 
+lab Skylab.txt 1 1529 
+wrong Skylab.txt 1 4982 
+president Skylab.txt 1 7291 
+types Skylab.txt 2 4188 5254 
+vance Skylab.txt 1 7855 
+attempt Skylab.txt 1 7091 
+third Skylab.txt 4 1652 2267 4397 8398 
+amid Skylab.txt 1 28 
+purging Skylab.txt 1 2069 
+maintain Skylab.txt 1 4453 
+enter Skylab.txt 1 5754 
+order Skylab.txt 1 1933 
+jack Skylab.txt 1 3197 
+operations Skylab.txt 3 960 3337 5515 
+prioritizing Skylab.txt 1 2589 
+office Skylab.txt 4 1402 1418 1489 1501 
+over Skylab.txt 13 675 997 1483 1593 2067 2192 2591 3567 4091 4097 5298 6262 6989 
+2,476 Skylab.txt 1 3349 
+before Skylab.txt 7 572 2017 6045 6194 6668 7320 7351 
+10.1 Skylab.txt 1 1764 
+colliers Skylab.txt 1 784 
+21-inch Skylab.txt 1 4425 
+personal Skylab.txt 6 3737 4737 5312 5819 5851 7195 
+fix Skylab.txt 2 3195 6478 
+recreational Skylab.txt 1 3749 
+exhibits Skylab.txt 1 8057 
+crew Skylab.txt 27 50 217 339 516 530 1219 1238 1459 2111 2710 2750 3148 3210 3222 3261 3286 3301 3390 3529 5013 5175 5539 6087 6533 7871 7882 8284 
+production Skylab.txt 1 5698 
+400 Skylab.txt 2 7009 7493 
+weeks Skylab.txt 2 2515 2766 
+16-bit Skylab.txt 1 5622 
+16.8 Skylab.txt 1 5912 
+then Skylab.txt 6 1693 4501 5830 5983 6274 7290 
+them Skylab.txt 2 899 2322 
+fragment Skylab.txt 1 7116 
+safe Skylab.txt 2 3935 6148 
+octal Skylab.txt 1 5737 
+they Skylab.txt 8 1302 3600 4350 4935 6197 6504 7371 8306 
+oxygen Skylab.txt 3 2674 5918 6169 
+l Skylab.txt 1 2672 
+each Skylab.txt 12 123 210 2594 3367 3915 4133 4151 4371 4409 4787 5502 8363 
+went Skylab.txt 2 4579 6589 
+side Skylab.txt 1 2998 
+schemes Skylab.txt 1 2453 
+guidebook Skylab.txt 1 3829 
+series Skylab.txt 1 779 
+habitation Skylab.txt 1 4912 
+upload Skylab.txt 1 5608 
+laboratory Skylab.txt 3 1015 1140 1201 
+enclosure Skylab.txt 1 5090 
+gradient Skylab.txt 1 4297 
+tried Skylab.txt 1 8216 
+cameras Skylab.txt 2 5195 5272 
+engineer Skylab.txt 1 736 
+39b Skylab.txt 1 3064 
+merchandising Skylab.txt 1 7142 
+city Skylab.txt 1 7255 
+free Skylab.txt 2 1851 6563 
+standard Skylab.txt 1 2932 
+sensors Skylab.txt 5 477 4368 4375 4478 4492 
+wanted Skylab.txt 1 1188 
+telescopes Skylab.txt 1 1214 
+calculator Skylab.txt 1 5835 
+created Skylab.txt 1 8169 
+skylab-a Skylab.txt 1 4256 
+atm Skylab.txt 2 4083 5264 
+days Skylab.txt 14 510 525 1576 2561 3230 3256 3311 3354 3376 3405 3409 3414 3689 7586 
+filter Skylab.txt 1 5052 
+shipped Skylab.txt 2 2827 8235 
+levels Skylab.txt 1 3170 
+competed Skylab.txt 1 1261 
+industrial Skylab.txt 2 2402 5027 
+features Skylab.txt 1 3836 
+hoop Skylab.txt 2 4745 5107 
+reassure Skylab.txt 1 7299 
+primary Skylab.txt 5 3972 5473 5521 5850 6528 
+floors Skylab.txt 1 1942 
+another Skylab.txt 7 5968 6368 7682 7768 7958 7961 8027 
+insulation Skylab.txt 1 3180 
+force Skylab.txt 4 1151 2156 6811 7401 
+thick Skylab.txt 1 4060 
+electronic Skylab.txt 1 5833 
+171 Skylab.txt 1 3353 
+service Skylab.txt 3 1564 3204 7844 
+similarly Skylab.txt 1 4941 
+top Skylab.txt 4 1549 1665 5106 5141 
+approximately Skylab.txt 3 4434 7393 8366 
+fiction Skylab.txt 1 741 
+needed Skylab.txt 10 265 1086 2362 4224 4252 4986 6042 6365 6470 7767 
+ton Skylab.txt 1 821 
+too Skylab.txt 4 1938 2173 2176 8223 
+40th Skylab.txt 1 8061 
+exposures Skylab.txt 1 4101 
+deorbit Skylab.txt 1 7904 
+ceiling Skylab.txt 2 4584 5112 
+rest Skylab.txt 1 5008 
+sl-4s Skylab.txt 1 6665 
+serve Skylab.txt 1 6594 
+took Skylab.txt 3 4341 4733 4820 
+rejected Skylab.txt 1 7076 
+western Skylab.txt 2 664 7441 
+injected Skylab.txt 1 5069 
+target Skylab.txt 2 598 7204 
+showed Skylab.txt 1 7609 
+participated Skylab.txt 2 773 2438 
+morphed Skylab.txt 1 4919 
+1978 Skylab.txt 7 5702 6071 6118 6142 6936 7021 7039 
+likely Skylab.txt 5 2275 2706 6612 6782 7338 
+preparation Skylab.txt 1 3637 
+1976 Skylab.txt 3 6712 6924 8106 
+manned Skylab.txt 25 96 198 244 751 1138 1191 1199 1451 1520 3050 3083 3115 3128 3274 3364 4113 4569 4696 5929 6587 7759 7799 8131 8149 8164 
+ran Skylab.txt 1 5479 
+docked Skylab.txt 1 418 
+disambiguation Skylab.txt 1 7 
+outdoors Skylab.txt 1 8048 
+aaps Skylab.txt 1 2118 
+emphasizing Skylab.txt 1 2410 
+seen Skylab.txt 1 3808 
+ocean Skylab.txt 1 6790 
+contents Skylab.txt 1 732 
+relatively Skylab.txt 1 1389 
+1968 Skylab.txt 1 2263 
+1969 Skylab.txt 4 1343 2185 2501 2799 
+1964 Skylab.txt 3 1518 1620 1623 
+1965 Skylab.txt 1 1499 
+latter Skylab.txt 2 1074 2624 
+that Skylab.txt 61 309 478 692 758 807 853 886 928 937 992 1280 1301 1371 1791 1899 1954 2084 2153 2163 2226 2276 2345 2859 3174 3283 3458 3565 3602 3862 3993 4042 4142 4235 4248 4323 4376 4465 4479 4578 4756 4803 4966 5251 5282 5289 5591 6385 6496 6690 6709 6849 6976 7056 7219 7289 7304 7324 7610 7641 7784 7896 
+brauns Skylab.txt 2 1606 2326 
+1962 Skylab.txt 2 1144 6719 
+1963 Skylab.txt 1 1173 
+recommended Skylab.txt 1 2409 
+contact Skylab.txt 1 7016 
+forces Skylab.txt 2 4234 4244 
+hatch Skylab.txt 3 1248 1706 6100 
+davidson Skylab.txt 1 8080 
+s-ivb-based Skylab.txt 1 1882 
+spektr Skylab.txt 1 7690 
+crs-10 Skylab.txt 1 3080 
+400,000 Skylab.txt 1 1332 
+panic Skylab.txt 1 7285 
+alabama Skylab.txt 1 8040 
+csms Skylab.txt 1 1563 
+don Skylab.txt 1 7864 
+observation Skylab.txt 1 146 
+most-intense Skylab.txt 1 6911 
+medical Skylab.txt 5 3304 3332 3433 8243 8299 
+flow Skylab.txt 1 1959 
+dod Skylab.txt 5 1161 1177 1187 1288 2179 
+spend Skylab.txt 2 4869 7975 
+poisonous Skylab.txt 1 3186 
+came Skylab.txt 2 407 5628 
+incorporate Skylab.txt 1 6732 
+infrared Skylab.txt 1 484 
+radio Skylab.txt 2 7512 7519 
+participate Skylab.txt 1 1282 
+earth Skylab.txt 29 17 27 77 115 466 475 493 623 704 901 2432 2563 2640 2719 3264 3317 3348 3445 3764 4127 4536 5168 5388 5418 6856 7310 7621 7652 8254 
+enjoyed Skylab.txt 1 3530 
+1545 Skylab.txt 1 3969 
+quoted Skylab.txt 1 4840 
+astronautswho Skylab.txt 1 3516 
+delays Skylab.txt 1 554 
+2-3-4 Skylab.txt 1 8210 
+south-southeast Skylab.txt 1 606 
+do Skylab.txt 2 4972 5964 
+microgravity Skylab.txt 2 3496 3594 
+colorful Skylab.txt 2 631 7474 
+10 Skylab.txt 5 698 5406 7330 7615 8347 
+television Skylab.txt 1 7297 
+criticized Skylab.txt 1 6901 
+new Skylab.txt 1 5831 
+onboard Skylab.txt 2 103 4302 
+saturn Skylab.txt 34 62 87 229 238 1050 1058 1134 1383 1437 1617 1645 1796 1820 1849 1877 1970 2055 2109 2148 2271 2310 2733 2788 2894 2917 2944 3058 3088 3138 5896 6344 6747 7809 7962 
+agena Skylab.txt 2 6030 6645 
+bag Skylab.txt 4 2612 5055 5073 6090 
+architecture Skylab.txt 1 6361 
+framers Skylab.txt 1 5338 
+fair Skylab.txt 1 4822 
+testing Skylab.txt 2 4537 4872 
+1960s Skylab.txt 4 757 882 1041 1357 
+resist Skylab.txt 2 4232 4254 
+decided Skylab.txt 4 2152 6729 7954 7973 
+radius Skylab.txt 1 7463 
+result Skylab.txt 2 2851 3858 
+vented Skylab.txt 1 1686 
+pete Skylab.txt 1 8184 
+oceanic Skylab.txt 1 6895 
+erep Skylab.txt 1 470 
+said Skylab.txt 3 6430 6549 7216 
+propulsion Skylab.txt 1 7845 
+away Skylab.txt 3 289 3624 4615 
+wikipedia Skylab.txt 1 1 
+artificial Skylab.txt 1 812 
+in-flight Skylab.txt 1 8228 
+360 Skylab.txt 1 5569 
+we Skylab.txt 1 7302 
+men Skylab.txt 6 830 920 986 1097 1104 1117 
+modify Skylab.txt 3 1410 3034 6575 
+however Skylab.txt 6 336 551 945 1193 1831 6490 
+vacuuming Skylab.txt 2 3544 4954 
+southeast Skylab.txt 1 7383 
+news Skylab.txt 1 7166 
+improve Skylab.txt 1 4876 
+suggested Skylab.txt 1 1279 
+received Skylab.txt 3 2217 2804 6035 
+protect Skylab.txt 3 3838 3875 4048 
+country Skylab.txt 1 7273 
+adapter Skylab.txt 4 383 1660 1984 3906 
+heating Skylab.txt 2 330 5695 
+against Skylab.txt 1 7955 
+players Skylab.txt 1 3757 
+109 Skylab.txt 1 5102 
+games Skylab.txt 1 2529 
+planned Skylab.txt 3 1833 4670 6495 
+asked Skylab.txt 1 1996 
+16k Skylab.txt 1 5636 
+appeared Skylab.txt 1 7294 
+royal Skylab.txt 2 6843 7342 
+excess Skylab.txt 1 3545 
+height Skylab.txt 1 6214 
+hygiene Skylab.txt 1 4738 
+towels Skylab.txt 2 4780 4794 
+loaded Skylab.txt 1 5372 
+250 Skylab.txt 1 802 
+proceeded Skylab.txt 1 3032 
+engines Skylab.txt 1 6781 
+three Skylab.txt 13 197 1096 2309 3114 3273 3363 4387 4441 5729 5905 6620 8148 8354 
+been Skylab.txt 19 1843 2009 2338 2458 2742 2759 3463 4263 5952 6364 6485 7740 7789 7830 7869 7928 7967 8111 8232 
+quickly Skylab.txt 1 2716 
+submarine Skylab.txt 1 2492 
+much Skylab.txt 12 234 522 705 1076 1634 1892 1939 2145 2335 4049 7284 7622 
+expected Skylab.txt 9 655 708 754 852 5998 6255 6692 7424 7625 
+flexible Skylab.txt 4 4604 4647 4730 5128 
+entered Skylab.txt 1 8307 
+dozens Skylab.txt 2 629 7472 
+containers Skylab.txt 1 3617 
+life Skylab.txt 1 450 
+droplets Skylab.txt 1 4969 
+worked Skylab.txt 1 7028 
+spin Skylab.txt 1 4181 
+misson Skylab.txt 1 5903 
+east Skylab.txt 2 660 7438 
+tank Skylab.txt 10 430 1723 1735 1910 1930 2074 2675 3671 4739 5083 
+launches Skylab.txt 3 2105 2112 6018 
+air Skylab.txt 7 1150 2155 4893 6810 7400 7994 8092 
+aim Skylab.txt 1 7212 
+melted Skylab.txt 1 3177 
+aid Skylab.txt 1 5416 
+reconnaissance Skylab.txt 1 1211 
+property Skylab.txt 2 678 7197 
+study Skylab.txt 5 1129 1406 1428 1580 3722 
+launched Skylab.txt 17 33 57 226 1047 1056 1235 1870 1967 2090 2264 2743 2936 3082 3131 5978 6753 7675 
+seven Skylab.txt 2 5745 6404 
+repairs Skylab.txt 4 3143 3213 3643 6508 
+is Skylab.txt 10 233 2948 3937 4030 4965 5668 7306 7988 8013 8031 
+it Skylab.txt 53 23 55 299 310 334 550 1109 1197 1474 1701 1748 1792 1811 1961 2018 2081 2274 2656 2665 3035 3196 3526 3740 4044 4056 4819 4884 4889 4899 4901 4908 5177 5286 5739 5771 5996 6067 6132 6158 6292 6492 6542 6592 6802 7053 7325 7764 7936 7956 7971 8044 8221 8323 
+ii Skylab.txt 1 1229 
+in Skylab.txt 154 219 258 369 416 462 481 503 569 593 643 663 667 679 768 774 783 805 826 877 952 1038 1079 1143 1166 1171 1181 1195 1241 1283 1335 1342 1497 1516 1621 1759 1893 1911 1928 1932 2062 2075 2078 2183 2197 2210 2220 2261 2439 2493 2497 2509 2519 2571 2703 2837 2846 2930 3046 3095 3097 3103 3224 3269 3314 3324 3344 3382 3541 3568 3593 3627 3751 3772 3902 3946 4041 4475 4520 4530 4534 4554 4606 4622 4759 4789 4841 4848 4963 5076 5080 5156 5184 5257 5262 5310 5322 5378 5413 5417 5432 5736 5839 5866 6002 6083 6115 6213 6221 6265 6296 6304 6415 6615 6628 6650 6671 6676 6711 6736 6755 6758 6786 6847 6857 6891 6914 6923 6934 6943 6986 7019 7050 7063 7241 7286 7348 7482 7508 7547 7568 7592 7672 7677 7697 7912 7941 7998 8024 8038 8082 8096 8100 8349 8361 
+ib Skylab.txt 12 230 252 1059 1878 1971 2149 2734 3059 3089 3139 5897 7810 
+if Skylab.txt 7 2720 2726 3648 4349 5532 6582 7191 
+museums Skylab.txt 1 8102 
+containing Skylab.txt 1 1566 
+radiator Skylab.txt 1 439 
+perform Skylab.txt 1 6501 
+make Skylab.txt 2 333 8053 
+complex Skylab.txt 1 3026 
+several Skylab.txt 9 1832 2007 2287 2765 3789 4744 5480 6315 8050 
+numerical Skylab.txt 1 8127 
+lyndon Skylab.txt 1 8017 
+possible Skylab.txt 4 2702 3649 4886 6424 
+opportunity Skylab.txt 1 6552 
+cycle Skylab.txt 3 5423 6708 6913 
+kept Skylab.txt 1 5941 
+1979 Skylab.txt 7 21 619 3048 6131 6858 7398 7591 
+programs Skylab.txt 2 2126 5599 
+1977 Skylab.txt 2 6116 6885 
+consumed Skylab.txt 1 5655 
+1975 Skylab.txt 2 6772 8097 
+1974 Skylab.txt 6 209 3268 6085 6652 6672 8335 
+1973 Skylab.txt 17 19 206 2940 3093 3098 3113 3135 3242 3247 3345 3806 4528 4535 5234 6756 6848 7943 
+1972 Skylab.txt 3 3315 8321 8328 
+1971 Skylab.txt 1 3400 
+1970 Skylab.txt 2 2839 2848 
+materials Skylab.txt 1 6958 
+simulated Skylab.txt 1 5159 
+the Skylab.txt 604 10 80 95 142 148 153 165 168 177 201 220 228 237 241 273 280 285 293 302 337 353 359 373 396 399 417 421 424 457 463 465 482 497 508 513 527 541 556 559 570 588 638 644 693 703 728 756 775 828 832 843 857 864 866 869 871 878 913 922 958 963 975 978 988 999 1006 1039 1049 1073 1080 1130 1146 1157 1176 1186 1220 1223 1237 1251 1255 1258 1269 1287 1290 1297 1309 1331 1340 1356 1382 1397 1411 1417 1445 1479 1484 1488 1500 1505 1519 1544 1548 1551 1562 1594 1639 1650 1662 1667 1680 1694 1717 1724 1727 1731 1737 1750 1753 1779 1782 1801 1804 1806 1818 1838 1858 1868 1872 1896 1908 1912 1917 1929 1944 1956 1992 2003 2014 2022 2045 2053 2068 2071 2085 2101 2124 2144 2150 2154 2178 2193 2223 2227 2236 2242 2247 2256 2266 2302 2314 2341 2352 2356 2363 2388 2397 2400 2415 2445 2476 2494 2556 2572 2601 2623 2668 2677 2704 2709 2713 2721 2727 2730 2736 2749 2768 2786 2792 2800 2808 2816 2822 2832 2840 2856 2862 2866 2869 2874 2881 2888 2899 2902 2916 2925 2942 2946 2966 2969 2983 2992 2997 3000 3008 3037 3049 3068 3126 3145 3147 3159 3162 3178 3182 3201 3209 3221 3236 3258 3272 3299 3352 3362 3371 3386 3392 3440 3470 3473 3485 3489 3508 3527 3560 3656 3669 3687 3707 3716 3758 3766 3776 3843 3903 3927 3943 3947 3961 3971 4003 4006 4013 4031 4036 4051 4064 4076 4092 4095 4104 4116 4119 4121 4129 4139 4148 4153 4180 4198 4204 4217 4221 4226 4238 4243 4249 4255 4267 4273 4282 4286 4315 4328 4337 4339 4381 4396 4424 4455 4470 4473 4491 4496 4503 4508 4521 4531 4545 4555 4561 4568 4572 4581 4591 4600 4617 4620 4623 4632 4646 4657 4664 4677 4679 4684 4694 4698 4719 4736 4740 4752 4760 4799 4849 4857 4877 4880 4891 4911 4921 4927 4958 4967 4981 4990 5007 5010 5012 5041 5043 5058 5063 5081 5084 5088 5095 5105 5111 5115 5119 5122 5132 5135 5140 5143 5145 5152 5166 5174 5182 5188 5191 5202 5225 5260 5263 5299 5302 5318 5367 5376 5386 5391 5394 5425 5448 5451 5465 5477 5491 5496 5511 5520 5523 5527 5537 5542 5544 5554 5560 5567 5571 5584 5596 5600 5609 5612 5619 5625 5630 5642 5645 5660 5666 5670 5673 5679 5683 5688 5703 5712 5714 5733 5749 5757 5777 5779 5786 5789 5794 5804 5808 5816 5829 5849 5853 5857 5877 5883 5900 5904 5914 5938 5945 5980 5989 6005 6014 6025 6036 6057 6077 6080 6086 6099 6111 6120 6124 6138 6143 6175 6203 6233 6245 6259 6279 6297 6312 6350 6387 6392 6439 6449 6460 6466 6481 6513 6518 6522 6527 6531 6551 6560 6572 6576 6583 6609 6618 6698 6705 6720 6744 6777 6787 6809 6815 6835 6842 6872 6909 6925 6928 6938 6959 6965 6999 7035 7041 7046 7057 7081 7094 7105 7129 7158 7168 7177 7186 7206 7220 7249 7280 7287 7300 7308 7334 7336 7341 7346 7349 7352 7363 7373 7399 7412 7414 7483 7485 7504 7521 7530 7565 7572 7574 7603 7607 7611 7620 7627 7634 7646 7653 7668 7687 7693 7698 7718 7743 7757 7774 7797 7807 7842 7870 7880 7884 7915 7931 7979 7982 7986 7992 8016 8033 8060 8064 8067 8072 8079 8086 8090 8101 8107 8120 8126 8130 8135 8141 8147 8152 8160 8163 8188 8198 8202 8212 8227 8237 8241 8258 8272 8279 8336 8374 
+left Skylab.txt 5 6088 6098 6196 6220 6675 
+nasa-accepted Skylab.txt 1 6234 
+proposed Skylab.txt 5 1420 1626 1810 2524 6606 
+photo Skylab.txt 1 1210 
+rotated Skylab.txt 1 4432 
+crewed Skylab.txt 1 5906 
+human Skylab.txt 4 500 3372 7228 7247 
+electronically Skylab.txt 1 5285 
+previous Skylab.txt 1 184 
+unique Skylab.txt 1 6332 
+repurposed Skylab.txt 1 2910 
+had Skylab.txt 40 162 696 1842 1891 2005 2337 2455 2596 3284 3517 3658 3741 3834 3908 3950 3965 4107 4143 4549 4574 4629 4634 4743 4782 4936 5369 5573 5691 5716 5741 6160 6463 6483 6752 7613 7927 8230 8260 8267 8281 
+spacecrafts Skylab.txt 1 4053 
+board Skylab.txt 2 4796 5276 
+has Skylab.txt 3 4262 7739 8110 
+photographed Skylab.txt 1 5230 
+reuse Skylab.txt 2 537 6428 
+survival Skylab.txt 1 51 
+flatulence Skylab.txt 1 3633 
+background Skylab.txt 1 733 
+cape Skylab.txt 2 608 7385 
+designers Skylab.txt 2 2446 2615 
+advanced Skylab.txt 1 140 
+reusable Skylab.txt 1 7635 
+balladonia Skylab.txt 1 7465 
+59 Skylab.txt 1 3253 
+56 Skylab.txt 2 3310 3408 
+specific Skylab.txt 1 7246 
+envisioned Skylab.txt 1 797 
+offices Skylab.txt 1 7185 
+night Skylab.txt 1 3091 
+mid-1979 Skylab.txt 1 6892 
+aimed Skylab.txt 2 7372 7899 
+performing Skylab.txt 1 3341 
+shuttles Skylab.txt 1 823 
+people Skylab.txt 2 621 2506 
+successfully Skylab.txt 1 6505 
+sponge Skylab.txt 1 4939 
+jupiter Skylab.txt 1 4040 
+multiple Skylab.txt 2 381 3904 
+orbiter Skylab.txt 1 4038 
+dense Skylab.txt 1 6298 
+for Skylab.txt 128 2 49 93 240 433 499 824 909 946 1026 1102 1155 1209 1262 1268 1359 1414 1425 1535 1570 1661 1837 1852 2006 2044 2121 2167 2207 2214 2313 2396 2414 2418 2423 2481 2513 2559 2627 2637 2735 2767 2807 2831 2898 3036 3206 3228 3377 3638 3677 3686 3731 3736 3882 3888 3922 3941 4035 4039 4069 4370 4666 4702 4786 4812 4862 4879 4917 5039 5087 5118 5134 5317 5344 5411 5457 5818 5880 5944 6021 6043 6065 6149 6206 6236 6251 6335 6401 6421 6446 6453 6487 6553 6567 6578 6605 6637 6760 6817 6823 6903 6908 6918 7003 7176 7213 7244 7494 7501 7571 7717 7733 7756 7773 7782 7791 7872 7883 7893 7901 7937 8010 8049 8055 8162 8177 8197 8373 
+renamed Skylab.txt 2 1503 2844 
+microwave Skylab.txt 1 486 
+when Skylab.txt 15 22 100 279 2463 3078 3981 4132 5154 5682 5775 5991 6119 7052 7234 7511 
+tracker Skylab.txt 2 4486 4490 
+orbited Skylab.txt 1 3347 
+420 Skylab.txt 3 4793 6166 6190 
+burn Skylab.txt 3 649 6294 7418 
+illustration Skylab.txt 2 1154 3820 
+losing Skylab.txt 1 1330 
+sts-1 Skylab.txt 1 7068 
+chapter Skylab.txt 1 6310 
+robotically Skylab.txt 1 5987 
+dollars Skylab.txt 3 6330 6630 8351 
+months Skylab.txt 3 1597 2482 4871 
+costs Skylab.txt 1 6634 
+magazine Skylab.txt 1 785 
+plus Skylab.txt 1 6394 
+horizon Skylab.txt 3 972 982 1020 
+connected Skylab.txt 2 5109 5138 
+efforts Skylab.txt 2 3208 3482 
+slightly Skylab.txt 2 1559 8112 
+automatically Skylab.txt 1 5531 
+jacques Skylab.txt 1 2488 
+raised Skylab.txt 1 7520 
+facility Skylab.txt 1 1192 
+marshall Skylab.txt 1 1351 
+float Skylab.txt 2 3623 4758 
+bound Skylab.txt 1 5169 
+uncontrolled Skylab.txt 1 6767 
+down Skylab.txt 6 3167 3294 4526 5150 6285 7728 
+magazines Skylab.txt 1 5325 
+1990s Skylab.txt 1 7699 
+earth-orbit Skylab.txt 2 1834 2102 
+viewers Skylab.txt 1 8116 
+fabric Skylab.txt 3 4749 5085 5096 
+altitude Skylab.txt 3 3306 5962 8245 
+flying Skylab.txt 1 2132 
+long-duration Skylab.txt 2 6442 6579 
+way Skylab.txt 1 3769 
+crews Skylab.txt 13 452 1055 2544 3549 3680 3708 3732 5823 6150 6498 6515 6524 8356 
+resulted Skylab.txt 1 1758 
+was Skylab.txt 152 9 56 79 91 125 130 138 150 253 264 270 275 340 358 367 471 505 599 724 905 983 1084 1141 1222 1327 1367 1370 1502 1669 1771 1790 1808 1812 1995 2019 2082 2158 2359 2539 2625 2679 2701 2826 2843 2861 2880 2921 2935 2959 3028 3081 3190 3277 3298 3319 3334 3510 3675 3845 3868 3979 3985 3994 4010 4045 4067 4312 4355 4393 4398 4588 4609 4643 4651 4687 4700 4721 4802 4805 4852 4885 4902 4914 4944 5032 5091 5097 5108 5117 5162 5243 5280 5287 5308 5320 5342 5385 5393 5399 5430 5445 5454 5486 5547 5586 5634 5685 5706 5792 5837 5856 5875 5931 5970 5994 5997 6008 6061 6147 6219 6239 6396 6423 6455 6493 6674 6691 6803 7043 7136 7444 7506 7579 7600 7660 7665 7681 7750 7765 7771 7778 7804 7812 7972 8045 8074 8134 8168 8222 8249 8295 8303 
+launching Skylab.txt 3 6022 6638 7957 
+head Skylab.txt 5 956 1348 5124 5137 7270 
+medium Skylab.txt 1 5221 
+form Skylab.txt 1 2573 
+forming Skylab.txt 2 1001 1740 
+becoming Skylab.txt 1 1504 
+landing Skylab.txt 4 98 592 1338 1830 
+astp Skylab.txt 2 7737 7783 
+heat Skylab.txt 3 349 438 1252 
+solar Skylab.txt 28 43 128 136 295 305 329 355 379 409 872 1452 1776 1977 2254 2979 2994 3105 3446 3452 4080 5265 5459 5694 6252 6519 6827 6866 6869 
+sustained Skylab.txt 1 2960 
+removed Skylab.txt 3 325 2922 5893 
+full Skylab.txt 2 3325 8268 
+arrays Skylab.txt 2 297 410 
+inside Skylab.txt 5 403 1666 3160 3181 4586 
+attached Skylab.txt 2 1906 4728 
+benchmarks Skylab.txt 1 5769 
+meters Skylab.txt 1 3702 
+cosmos Skylab.txt 1 6932 
+stages Skylab.txt 5 1733 2072 2368 2814 2825 
+150 Skylab.txt 1 4098 
+152 Skylab.txt 1 7232 
+155 Skylab.txt 1 4429 
+slm-1 Skylab.txt 1 8174 
+computing Skylab.txt 1 5820 
+46,000 Skylab.txt 1 3443 
+gemini Skylab.txt 3 1067 1106 1244 
+floating Skylab.txt 1 4979 
+physical Skylab.txt 2 110 3653 
+1,000 Skylab.txt 1 6996 
+eventual Skylab.txt 1 6825 
+floor Skylab.txt 3 1310 4582 4618 
+generally Skylab.txt 1 1043 
+role Skylab.txt 1 1496 
+ambitious Skylab.txt 1 1629 
+digital Skylab.txt 3 4383 5436 5795 
+test Skylab.txt 9 1835 2104 2824 3307 3323 8246 8257 8259 8280 
+tie Skylab.txt 1 3575 
+models Skylab.txt 1 5827 
+welcome Skylab.txt 1 6095 
+fell Skylab.txt 1 24 
+smelling Skylab.txt 1 4835 
+billion Skylab.txt 4 7238 7243 8344 8348 
+longer Skylab.txt 4 907 2361 4824 5351 
+assume Skylab.txt 1 7303 
+bottom Skylab.txt 1 1256 
+memorial Skylab.txt 1 6973 
+daily Skylab.txt 2 3553 3693 
+time Skylab.txt 13 361 501 1805 2333 3380 3505 4985 6010 6232 6288 7064 7159 8213 
+push Skylab.txt 2 4592 4725 
+serious Skylab.txt 2 2724 6451 
+restored Skylab.txt 1 8075 
+uninterested Skylab.txt 1 2518 
+concept Skylab.txt 2 1714 6604 
+switched Skylab.txt 1 5518 
+focus Skylab.txt 3 161 2447 8297 
+thornton Skylab.txt 3 7538 8293 8302 
+16:37 Skylab.txt 1 7394 
+layers Skylab.txt 1 6874 
+zone Skylab.txt 1 3506 
+filming Skylab.txt 1 5348 
+environment Skylab.txt 1 3730 
+unpleasant Skylab.txt 1 2580 
+810 Skylab.txt 2 602 7378 
+suffered Skylab.txt 2 2723 7194 
+circumstances Skylab.txt 1 2708 
+division Skylab.txt 1 961 
+tanks Skylab.txt 1 432 
+launchers Skylab.txt 1 1439 
+minute Skylab.txt 1 4438 
+presented Skylab.txt 1 1524 
+did Skylab.txt 11 647 1475 2531 2643 2658 4929 6198 6794 6954 7069 7416 
+12th Skylab.txt 1 7335 
+philippines Skylab.txt 1 7288 
+proposals Skylab.txt 3 1087 1999 7078 
+leave Skylab.txt 1 862 
+item Skylab.txt 1 6536 
+ii-c Skylab.txt 1 1072 
+propellant Skylab.txt 2 431 4177 
+upper Skylab.txt 4 1021 1230 2863 2919 
+repetitive Skylab.txt 1 3611 
+cost Skylab.txt 5 178 6740 8330 8339 8365 
+s-ivb Skylab.txt 12 1135 1552 1651 1869 1993 2023 2049 2056 2813 2870 2872 7951 
+port Skylab.txt 1 3157 
+spectral Skylab.txt 1 487 
+cargo Skylab.txt 1 1083 
+i/csm Skylab.txt 1 2110 
+electronics Skylab.txt 2 4054 4418 
+current Skylab.txt 1 6249 
+nebraska Skylab.txt 1 7200 
+international Skylab.txt 5 729 4922 7138 7669 8375 
+boost Skylab.txt 5 545 5957 6201 6658 7849 
+filled Skylab.txt 2 1726 6091 
+temperatures Skylab.txt 1 3166 
+learn Skylab.txt 1 2503 
+water Skylab.txt 23 2655 2686 3546 3630 3670 4587 4616 4641 4665 4716 4720 4734 4753 4811 4948 4951 4971 4995 5045 5066 5920 6164 6188 
+address Skylab.txt 1 5796 
+alone Skylab.txt 1 6389 
+along Skylab.txt 1 2000 
+hoops Skylab.txt 1 5100 
+change Skylab.txt 3 4172 4237 5785 
+wait Skylab.txt 1 2762 
+institute Skylab.txt 1 6974 
+studied Skylab.txt 2 1033 1885 
+franklin Skylab.txt 1 2491 
+usually Skylab.txt 2 3550 3587 
+studies Skylab.txt 7 950 1042 1525 6135 6313 6547 8300 
+433 Skylab.txt 2 6223 6683 
+useful Skylab.txt 1 6597 
+extra Skylab.txt 1 2353 
+unlocked Skylab.txt 1 6101 
+should Skylab.txt 1 8194 
+8193 Skylab.txt 1 7461 
+projector Skylab.txt 1 6420 
+working Skylab.txt 2 3729 6303 
+positive Skylab.txt 1 5179 
+predictions Skylab.txt 1 6921 
+by Skylab.txt 53 36 59 141 345 512 526 539 998 1048 1054 1145 1216 1765 1775 1968 2021 2107 2235 2331 2417 2588 2663 2941 2990 3108 3192 3385 3831 4178 4225 4272 4281 4769 4978 5017 5434 5510 5536 5708 6130 6140 6224 6272 6278 6539 6664 6685 6806 6883 7114 7236 7275 8211 
+live Skylab.txt 1 2508 
+memory Skylab.txt 3 5492 5577 5581 
+films Skylab.txt 1 3880 
+cooperated Skylab.txt 2 1164 2127 
+nozzle Skylab.txt 3 4598 4727 5120 
+drinkable Skylab.txt 1 6187 
+12,400 Skylab.txt 1 6374 
+acceptable Skylab.txt 2 3169 6742 
+employed Skylab.txt 1 5033 
+effort Skylab.txt 2 6039 6060 
+behalf Skylab.txt 1 7533 
+fly Skylab.txt 1 1800 
+pageant Skylab.txt 1 7578 
+ibm Skylab.txt 2 2882 5561 
+10,000 Skylab.txt 1 7174 
+originally Skylab.txt 8 1403 2098 2294 2896 3041 6494 8041 8140 
+modified Skylab.txt 6 61 1243 2787 2943 5410 8113 
+labeled Skylab.txt 2 2384 3819 
+ussrs Skylab.txt 1 6929 
+values Skylab.txt 1 6250 
+can Skylab.txt 1 4236 
+following Skylab.txt 2 3016 3691 
+metal Skylab.txt 2 1952 6982 
+ibs Skylab.txt 1 1850 
+photographs Skylab.txt 3 491 889 3449 
+dedicated Skylab.txt 2 1493 1795 
+figure Skylab.txt 1 3777 
+december Skylab.txt 3 1196 2262 7051 
+sun-shield Skylab.txt 1 5684 
+1980s Skylab.txt 4 4850 6006 6629 6700 
+pogue Skylab.txt 1 8182 
+performed Skylab.txt 3 368 3416 3681 
+allowed Skylab.txt 2 1955 2321 
+capsules Skylab.txt 2 1107 4131 
+orbits Skylab.txt 1 7111 
+wardroom Skylab.txt 1 2422 
+hydrogen Skylab.txt 4 1691 1734 1909 2073 
+occur Skylab.txt 3 3055 7071 7327 
+requirements Skylab.txt 1 4270 
+lenoir Skylab.txt 1 7860 
+discussion Skylab.txt 1 6105 
+brand Skylab.txt 3 7856 7876 7888 
+dinner Skylab.txt 1 3673 
+1 Skylab.txt 8 519 2033 2954 3396 4058 7230 7240 7261 
+fourth Skylab.txt 2 5928 7798 
+repellent Skylab.txt 1 7151 
+guarantee Skylab.txt 1 7155 
+t-shirts Skylab.txt 1 7144 
+chores Skylab.txt 1 3683 
+control-moment Skylab.txt 2 4193 4411 
+designer Skylab.txt 1 5028 
+140 Skylab.txt 1 5330 
+information Skylab.txt 2 6437 7701 
+may Skylab.txt 6 205 2063 2938 3133 4757 7942 
+spot Skylab.txt 2 601 7377 
+applications Skylab.txt 4 1317 1323 1507 2209 
+designed Skylab.txt 8 1914 3191 3869 4046 4564 4701 5016 6486 
+date Skylab.txt 1 7339 
+such Skylab.txt 7 910 2450 2648 3792 4294 5358 6511 
+suck Skylab.txt 1 4614 
+data Skylab.txt 6 101 121 480 4089 4494 7403 
+lifting Skylab.txt 1 73 
+man Skylab.txt 1 791 
+liquid Skylab.txt 3 2673 4649 4807 
+16,000 Skylab.txt 2 4164 5575 
+inhabitants Skylab.txt 1 4925 
+switch Skylab.txt 1 5731 
+so Skylab.txt 5 308 1300 2334 7205 7283 
+progressively Skylab.txt 1 5350 
+reentering Skylab.txt 1 7704 
+bobko Skylab.txt 1 8290 
+typical Skylab.txt 1 3498 
+shield Skylab.txt 5 282 1253 2986 3816 3861 
+space-hardened Skylab.txt 1 5549 
+deactivated Skylab.txt 1 3029 
+pointed Skylab.txt 1 4514 
+displayed Skylab.txt 2 7601 8042 
+years Skylab.txt 10 1125 1272 1487 2008 2196 6241 6264 6763 7503 8051 
+course Skylab.txt 2 4093 5300 
+experiments Skylab.txt 21 54 104 442 1569 1987 2133 3434 3447 3486 3640 3690 3774 3784 3791 3802 3886 4084 5250 5967 6410 7839 
+still Skylab.txt 2 6122 6159 
+tore Skylab.txt 1 288 
+monitor Skylab.txt 1 7411 
+torn Skylab.txt 1 5686 
+platform Skylab.txt 1 6599 
+window Skylab.txt 4 2429 3759 3814 3844 
+main Skylab.txt 13 294 304 400 1320 1601 2389 2693 2978 4497 5443 5597 5617 7908 
+slide-rules Skylab.txt 1 5842 
+norad Skylab.txt 1 6886 
+100,000 Skylab.txt 1 7257 
+sooner Skylab.txt 1 6859 
+1954 Skylab.txt 1 789 
+conquer Skylab.txt 1 793 
+1952 Skylab.txt 1 787 
+not Skylab.txt 29 312 566 648 930 1085 1368 1476 1813 2159 2456 2644 2659 3912 3918 4915 4930 4973 5155 6484 6586 6631 6730 6795 6955 7060 7070 7417 7766 8209 
+1959 Skylab.txt 1 953 
+hall Skylab.txt 1 8104 
+name Skylab.txt 1 2054 
+january Skylab.txt 3 2838 6770 6935 
+flown Skylab.txt 3 272 3100 7916 
+unloaded Skylab.txt 1 5374 
+retrieve Skylab.txt 1 2748 
+significantly Skylab.txt 2 139 2583 
+populated Skylab.txt 2 594 7369 
+year Skylab.txt 1 2212 
+morning Skylab.txt 1 7525 
+intended Skylab.txt 2 1208 1404 
+hand-held Skylab.txt 4 5209 5247 5313 5832 
+living Skylab.txt 6 1744 1768 2554 3727 6301 8121 
+33-by-45-foot Skylab.txt 1 1763 
+space Skylab.txt 76 14 169 180 370 402 542 560 639 712 720 730 752 760 769 794 822 1035 1139 1170 1184 1205 1352 1463 1480 1557 1610 2076 2434 2512 2667 2794 2890 3023 3038 3383 3393 4407 4476 4685 4846 4864 4882 4895 4923 4964 5204 5414 5846 5981 6125 6305 6338 6360 6416 6445 6554 6725 7036 7131 7647 7657 7661 7670 7705 7745 7819 7918 7925 7983 7996 8020 8035 8094 8103 8362 8376 
+ap-101 Skylab.txt 1 2889 
+sensor Skylab.txt 1 4458 
+complimented Skylab.txt 1 3525 
+disintegrated Skylab.txt 2 697 7614 
+million Skylab.txt 5 2206 2219 6627 8368 8372 
+20 Skylab.txt 4 2301 7590 8327 8367 
+complicated Skylab.txt 1 2988 
+training Skylab.txt 3 8006 8012 8029 
+fixed Skylab.txt 2 5249 6534 
+standby Skylab.txt 4 3282 5943 7732 7781 
+british Skylab.txt 1 6837 
+motion Skylab.txt 1 4304 
+turn Skylab.txt 1 5077 
+place Skylab.txt 3 985 5840 7161 
+aboard Skylab.txt 9 445 517 831 2878 3391 4128 5868 5925 5979 
+510 Skylab.txt 1 8358 
+retrorocket Skylab.txt 1 6734 
+515 Skylab.txt 1 7952 
+support Skylab.txt 2 1400 2059 
+first Skylab.txt 14 13 338 360 3127 3528 4316 4406 4680 4695 4845 6619 6714 7066 7178 
+walk-in Skylab.txt 1 2606 
+one Skylab.txt 24 131 291 1366 1785 2099 2277 2820 2975 3913 3986 4001 4011 4313 4813 4956 5113 5440 6074 6199 6321 6458 6535 6590 7084 
+simplified Skylab.txt 1 2394 
+long Skylab.txt 4 3703 6336 6413 6994 
+directly Skylab.txt 1 2379 
+overheating Skylab.txt 1 3173 
+carry Skylab.txt 1 3919 
+impossible Skylab.txt 1 3464 
+array Skylab.txt 1 307 
+open Skylab.txt 2 1951 3865 
+size Skylab.txt 1 2602 
+earths Skylab.txt 4 4021 6876 7124 8277 
+given Skylab.txt 1 2751 
+lens Skylab.txt 1 5218 
+plastic Skylab.txt 1 3179 
+2 Skylab.txt 3 3402 4693 7724 
+mock-ups Skylab.txt 1 8002 
+desmond Skylab.txt 1 6839 
+bits Skylab.txt 1 3619 
+frame Skylab.txt 1 5356 
+cited Skylab.txt 2 6314 8388 
+thruster Skylab.txt 2 4358 4509 
+universe Skylab.txt 1 7577 
+braun Skylab.txt 7 739 772 851 955 1010 1347 1625 
+released Skylab.txt 1 3185 
+photographic Skylab.txt 2 5380 5396 
+than Skylab.txt 7 236 707 1561 4827 6384 6860 7624 
+11 Skylab.txt 7 515 618 3389 5605 6211 6771 7397 
+wide Skylab.txt 2 3877 6998 
+13 Skylab.txt 1 3356 
+15 Skylab.txt 2 1573 3701 
+14 Skylab.txt 2 2939 7332 
+16 Skylab.txt 5 700 3246 3423 5360 7617 
+19 Skylab.txt 3 2907 3076 6311 
+18 Skylab.txt 2 2299 2906 
+require Skylab.txt 1 815 
+diplomatic Skylab.txt 1 6967 
+transferred Skylab.txt 1 8085 
+future Skylab.txt 4 854 4863 4881 6447 
+were Skylab.txt 53 108 112 193 443 453 494 532 685 1590 1884 2238 2290 2442 2517 2579 3122 3477 3698 3709 3892 3897 4102 4124 4137 4186 4351 4365 4374 4388 4440 4450 4460 4483 4668 4792 5015 5273 5499 5526 5534 5735 5753 5824 6052 6347 6585 6640 7077 7229 7260 7267 8154 8204 
+cards Skylab.txt 1 3746 
+and Skylab.txt 238 34 45 52 83 119 144 207 255 287 300 323 351 395 436 451 485 496 536 548 582 620 624 656 673 719 746 814 845 859 874 880 897 912 1118 1162 1175 1194 1232 1273 1275 1461 1568 1574 1743 1749 1840 1919 1982 1985 2042 2114 2162 2175 2230 2250 2365 2412 2425 2427 2433 2471 2499 2534 2549 2569 2576 2613 2620 2629 2634 2684 2732 2781 2908 2911 2963 2974 3005 3030 3120 3140 3171 3184 3244 3249 3254 3331 3355 3410 3422 3432 3442 3454 3512 3543 3610 3612 3618 3636 3642 3647 3661 3664 3684 3728 3747 3755 3813 3849 3870 3887 4055 4090 4136 4159 4200 4230 4258 4290 4298 4301 4307 4390 4420 4431 4457 4468 4487 4506 4540 4557 4565 4585 4656 4663 4747 4809 4873 4894 4897 4952 4992 5002 5020 5053 5196 5219 5248 5268 5439 5462 5474 5504 5507 5550 5624 5637 5654 5727 5748 5755 5762 5799 5870 5921 5963 6028 6040 6054 6059 6097 6117 6156 6165 6170 6189 6254 6286 6302 6358 6409 6432 6465 6521 6556 6570 6741 6764 6808 6812 6820 6853 6878 6896 6917 6937 6995 7022 7040 7109 7145 7149 7160 7164 7264 7277 7340 7389 7443 7448 7454 7467 7528 7556 7649 7674 7684 7692 7709 7726 7736 7738 7777 7806 7840 7863 7877 7889 7970 7995 8076 8093 8146 8201 8234 8291 8301 8322 
+san Skylab.txt 2 7169 7560 
+remained Skylab.txt 4 2117 2245 6757 7499 
+turned Skylab.txt 2 4352 4909 
+argument Skylab.txt 1 6591 
+operated Skylab.txt 1 35 
+lead-lined Skylab.txt 1 7000 
+earth-orbiting Skylab.txt 1 2243 
+voiced Skylab.txt 1 2065 
+breakfast Skylab.txt 2 3581 3635 
+apollo-based Skylab.txt 1 1091 
+saw Skylab.txt 2 628 7471 
+any Skylab.txt 4 1689 6104 7227 7272 
+conversion Skylab.txt 5 1614 1718 2046 2650 2809 
+efficient Skylab.txt 1 3940 
+veteran Skylab.txt 1 3515 
+upgrading Skylab.txt 1 6433 
+note Skylab.txt 1 3297 
+equipment Skylab.txt 9 1675 1695 1738 1924 1975 1980 3663 3750 5315 
+potential Skylab.txt 2 6721 6966 
+take Skylab.txt 5 888 3291 4938 5604 7723 
+attempted Skylab.txt 2 577 597 
+interior Skylab.txt 4 1729 2376 2398 5011 
+destroy Skylab.txt 1 7093 
+collapsed Skylab.txt 1 5149 
+micrometeoroid Skylab.txt 3 281 2971 2985 
+maneuvering Skylab.txt 1 434 
+normal Skylab.txt 1 4800 
+paid Skylab.txt 2 7507 7529 
+visitors Skylab.txt 2 6096 8022 
+beta Skylab.txt 1 5093 
+pair Skylab.txt 1 5402 
+littering Skylab.txt 1 7495 
+radioactive Skylab.txt 2 6940 6957 
+especially Skylab.txt 1 5455 
+considered Skylab.txt 3 2131 6715 7934 
+later Skylab.txt 8 725 2180 2286 3548 3721 4024 7587 7945 
+drive Skylab.txt 2 5590 5602 
+retrieval Skylab.txt 1 5975 
+harlan Skylab.txt 1 7314 
+precise Skylab.txt 1 2632 
+keystrokes Skylab.txt 1 5774 
+show Skylab.txt 3 5760 7513 7526 
+multispectral Skylab.txt 1 5395 
+spacex Skylab.txt 1 3079 
+ground Skylab.txt 9 575 5153 5543 5674 5689 5817 6058 7013 7354 
+slow Skylab.txt 1 2174 
+gulf Skylab.txt 1 2495 
+enough Skylab.txt 8 2161 3712 3734 3920 4806 5343 6009 6397 
+only Skylab.txt 6 2241 4448 5740 5910 6500 8180 
+equipped Skylab.txt 1 5825 
+command/service Skylab.txt 2 222 1063 
+awareness Skylab.txt 1 6822 
+get Skylab.txt 2 4346 5813 
+contracts Skylab.txt 1 2038 
+designated Skylab.txt 1 3117 
+soon Skylab.txt 2 795 994 
+secondary Skylab.txt 1 5476 
+prime Skylab.txt 1 7881 
+reading Skylab.txt 1 8391 
+resource Skylab.txt 1 6324 
+aluminum Skylab.txt 2 3980 3991 
+recharged Skylab.txt 1 7023 
+requesting Skylab.txt 1 7278 
+miles Skylab.txt 10 603 6661 6682 6687 6993 6997 7379 7435 7462 7616 
+predicted Skylab.txt 3 6846 7113 7345 
+scott Skylab.txt 1 7515 
+where Skylab.txt 2 1082 7562 
+communicated Skylab.txt 1 5675 
+physically Skylab.txt 1 4196 
+up Skylab.txt 26 642 650 1053 1396 1937 2308 2763 3699 4162 4348 4703 4768 4989 5062 5293 5328 5489 6179 6295 6402 6564 6977 7049 7419 7481 7725 
+relative Skylab.txt 1 2886 
+namely Skylab.txt 1 2246 
+parking Skylab.txt 1 6678 
+concern Skylab.txt 1 2462 
+detect Skylab.txt 1 4467 
+ways Skylab.txt 1 1408 
+crew-member Skylab.txt 1 4788 
+forecast Skylab.txt 5 842 6862 6888 6975 7323 
+weapons Skylab.txt 1 896 
+3 Skylab.txt 3 3407 4369 6207 
+between Skylab.txt 6 204 671 1572 1747 7328 7446 
+6.8 Skylab.txt 1 6660 
+multiplied Skylab.txt 1 7235 
+jobs Skylab.txt 1 5444 
+august Skylab.txt 6 1498 1517 2221 2500 2797 3111 
+spare Skylab.txt 1 4906 
+jets Skylab.txt 1 435 
+article Skylab.txt 4 1321 1602 2694 7909 
+come Skylab.txt 2 4833 6284 
+dates Skylab.txt 1 3238 
+panels Skylab.txt 3 356 1978 2980 
+missions Skylab.txt 29 99 213 245 1008 1416 1571 1836 2233 2244 2289 2298 2306 2478 3051 3084 3116 3233 3275 3520 4096 4120 5847 5908 6580 7711 8133 8150 8165 8179 
+many Skylab.txt 3 1167 1816 3483 
+contract Skylab.txt 1 2806 
+10.9 Skylab.txt 1 6662 
+s Skylab.txt 1 7313 
+designations Skylab.txt 1 8124 
+comet Skylab.txt 1 3796 
+among Skylab.txt 1 4138 
+man-months Skylab.txt 1 5916 
+color Skylab.txt 1 2452 
+overview Skylab.txt 2 3780 3798 
+trinovid Skylab.txt 1 5405 
+60 Skylab.txt 1 6626 
+maintained Skylab.txt 1 4280 
+jammed Skylab.txt 1 354 
+noisy Skylab.txt 1 3513 
+save Skylab.txt 1 343 
+slm-3 Skylab.txt 1 8176 
+mark Skylab.txt 1 8059 
+subscriber Skylab.txt 1 7193 
+workshop Skylab.txt 26 41 286 398 1599 1604 1713 1865 2027 2087 2187 2249 2285 2358 2373 2390 2393 2818 2842 3929 3949 4563 5512 6260 7640 8069 8109 
+combined Skylab.txt 1 3966 
+mars Skylab.txt 1 860 
+500 Skylab.txt 1 6987 
+engine Skylab.txt 1 7847 
+emphasize Skylab.txt 1 6814 
+budgets Skylab.txt 1 2202 
+offered Skylab.txt 3 3718 7172 7189 
+observe Skylab.txt 1 3795 
+external Skylab.txt 2 4289 8393 
+hidden Skylab.txt 1 8402 
+those Skylab.txt 1 8178 
+pilot Skylab.txt 6 627 7470 7862 7866 8289 8292 
+case Skylab.txt 3 259 1081 4043 
+developing Skylab.txt 1 1381 
+these Skylab.txt 8 212 2001 2305 3369 3481 4373 6033 6472 
+consultant Skylab.txt 1 5037 
+mount Skylab.txt 4 376 2253 4079 4229 
+prominence Skylab.txt 1 3106 
+single Skylab.txt 5 677 939 3923 3933 4015 
+profiles Skylab.txt 1 1589 
+cancelled Skylab.txt 3 5995 7710 7805 
+endured Skylab.txt 1 3518 
+sp-400 Skylab.txt 2 4403 4842 
+orientation Skylab.txt 7 583 4211 4240 4471 4625 5681 7358 
+eventually Skylab.txt 1 1900 
+dubious Skylab.txt 1 2443 
+sleeping Skylab.txt 2 2599 2611 
+canceled Skylab.txt 4 1844 2181 2240 2291 
+baths Skylab.txt 1 4940 
+13.7 Skylab.txt 1 1766 
+technology Skylab.txt 2 2129 3840 
+different Skylab.txt 2 1587 8172 
+revolutions Skylab.txt 1 4436 
+develop Skylab.txt 1 2324 
+media Skylab.txt 3 31 6798 7139 
+same Skylab.txt 2 1224 5528 
+surveillance Skylab.txt 1 849 
+pad Skylab.txt 2 3019 3063 
+week Skylab.txt 4 3536 4816 7319 8253 
+investigated Skylab.txt 1 3488 
+programbefore Skylab.txt 1 2901 
+running Skylab.txt 1 6202 
+canister Skylab.txt 2 1101 4106 
+changing Skylab.txt 1 4179 
+booster Skylab.txt 2 1754 2141 
+complained Skylab.txt 1 2545 
+tracking Skylab.txt 1 7407 
+minimize Skylab.txt 2 587 7362 
+no Skylab.txt 4 906 2360 6073 6341 
+customized Skylab.txt 1 5551 
+severe Skylab.txt 1 2957 
+without Skylab.txt 1 4175 
+relief Skylab.txt 1 7102 
+components Skylab.txt 2 2771 2774 
+model Skylab.txt 2 5854 6907 
+consisted Skylab.txt 3 4413 5467 5721 
+neighborhood Skylab.txt 1 7201 
+212 Skylab.txt 1 2873 
+being Skylab.txt 6 1075 1809 2239 5892 7879 8275 
+telemetry Skylab.txt 1 875 
+lc-39 Skylab.txt 1 3073 
+valuable Skylab.txt 1 3456 
+noaa Skylab.txt 2 6899 6920 
+speed Skylab.txt 1 5222 
+captured Skylab.txt 1 6831 
+liters Skylab.txt 1 4714 
+reentry Skylab.txt 8 614 6727 6768 6826 6890 6926 7107 7413 
+sunshade Skylab.txt 1 3152 
+instrument Skylab.txt 2 2927 3156 
+perth Skylab.txt 3 662 7440 7593 
+4 Skylab.txt 7 529 3412 3786 5345 7237 7428 7735 
+samples Skylab.txt 1 2636 
+grating Skylab.txt 1 1311 
+prominently Skylab.txt 1 6776 
+extensive Skylab.txt 3 3142 6359 6488 
+sucked Skylab.txt 1 4767 
+snaith Skylab.txt 1 2408 
+scheduled Skylab.txt 2 3676 7580 
+around Skylab.txt 4 3668 5099 6289 7464 
+rules Skylab.txt 1 5864 
+dart Skylab.txt 1 3743 
+early Skylab.txt 10 748 766 881 949 1040 1390 2025 2542 6699 6717 
+mol Skylab.txt 8 1156 1202 1260 1284 1305 2116 2135 2182 
+using Skylab.txt 15 540 1060 1212 1454 1465 1578 2137 3056 3559 4176 5214 5776 6904 7083 7935 
+execution Skylab.txt 1 6044 
+piccards Skylab.txt 1 2489 
+rear Skylab.txt 1 422 
+pounds Skylab.txt 3 70 4430 5649 
+chamber Skylab.txt 1 8310 
+t Skylab.txt 1 72 
+output Skylab.txt 2 4379 5508 
+2398 Skylab.txt 1 3955 
+satisfactory Skylab.txt 1 3726 
+titan Skylab.txt 6 1071 1228 2139 2170 6026 6641 
+calculated Skylab.txt 1 7218 
+duration Skylab.txt 3 1577 6337 6414 
+intact Skylab.txt 2 6155 7007 
+provided Skylab.txt 2 1774 7402 
+confirm Skylab.txt 1 456 
+recorded Skylab.txt 4 479 3107 4103 5283 
+fluids Skylab.txt 1 5064 
+moon Skylab.txt 8 97 858 923 989 1007 1341 1829 2288 
+deficit Skylab.txt 1 3014 
+freed Skylab.txt 1 2307 
+reactivating Skylab.txt 1 6559 
+assembly Skylab.txt 3 933 4419 4423 
+tc-1 Skylab.txt 4 2884 5555 5572 5620 
+power Skylab.txt 8 322 406 1770 2354 3013 4421 5460 5663 
+seconds Skylab.txt 2 5606 5763 
+manufactured Skylab.txt 1 8233 
+equivalent Skylab.txt 1 8345 
+strained Skylab.txt 2 3577 3596 
+credits Skylab.txt 1 8183 
+spacelab Skylab.txt 3 716 6395 7636 
+so-368 Skylab.txt 1 5220 
+earlier Skylab.txt 1 3519 
+teleprinter Skylab.txt 1 3706 
+on Skylab.txt 83 109 616 622 987 1005 1057 1069 1254 1339 1444 1526 1547 1613 1664 1677 1867 2013 2031 2128 2134 2265 2340 2348 2448 2487 2522 2555 2562 2585 2639 2796 2937 3110 3132 3265 3281 3316 3397 3572 3872 4112 4191 4246 4445 4676 4691 4795 5231 5275 5490 5566 5579 5672 5699 5844 5942 6136 6228 6248 6438 6702 6769 6881 7029 7126 7157 7295 7307 7367 7532 7588 7602 7633 7731 7780 7814 7978 7989 8098 8276 8298 8318 8325 
+central Skylab.txt 2 3504 5626 
+stations Skylab.txt 10 1464 1883 2011 2970 4239 5661 5680 6112 6448 6461 
+of Skylab.txt 250 68 85 106 117 122 132 147 167 179 196 211 292 317 319 364 423 459 490 492 558 590 607 630 637 661 683 688 750 777 780 818 868 890 957 981 1018 1030 1122 1132 1159 1169 1257 1312 1349 1423 1468 1512 1550 1586 1608 1615 1643 1716 1719 1730 1752 1781 1817 1848 1860 1875 1881 1923 1943 1991 2029 2047 2070 2094 2100 2143 2200 2258 2269 2304 2387 2399 2461 2574 2603 2651 2661 2775 2785 2810 2821 2834 2852 2865 2887 2904 2968 2976 2999 3161 3239 3252 3287 3296 3302 3358 3368 3374 3379 3430 3437 3439 3444 3450 3472 3480 3484 3495 3558 3620 3644 3652 3696 3763 3781 3799 3805 3821 3879 3885 3954 3968 3975 3990 4002 4012 4017 4026 4050 4062 4094 4150 4166 4182 4189 4206 4242 4288 4314 4386 4414 4462 4472 4544 4560 4593 4602 4619 4626 4639 4659 4708 4715 4762 4926 4957 4970 5009 5101 5114 5121 5142 5201 5227 5246 5255 5301 5334 5347 5403 5424 5441 5450 5468 5483 5553 5559 5595 5611 5641 5659 5722 5828 5841 5913 5917 6016 6032 6038 6079 6106 6163 6168 6186 6192 6281 6308 6327 6329 6386 6406 6426 6441 6459 6517 6526 6659 6680 6704 6723 6834 6841 6864 6875 6927 6969 6981 7104 7117 7143 7162 7180 7222 7251 7256 7365 7384 7439 7473 7487 7517 7534 7542 7597 7606 7629 7703 7981 8063 8071 8129 8137 8144 8274 8342 
+smeat Skylab.txt 3 5173 5187 8248 
+coronal Skylab.txt 2 460 3475 
+greatly Skylab.txt 1 3605 
+system/4 Skylab.txt 1 5562 
+backup Skylab.txt 9 249 268 4400 5524 5594 5610 7923 7987 8087 
+system/4pi Skylab.txt 1 2883 
+organizers Skylab.txt 1 7573 
+freeing Skylab.txt 1 352 
+instruments Skylab.txt 4 4081 4117 4338 5261 
+color-coded Skylab.txt 1 4784 
+references Skylab.txt 1 8383 
+heated Skylab.txt 1 6871 
+shrinking Skylab.txt 1 2201 
+75m Skylab.txt 1 804 
+telescope Skylab.txt 7 143 375 839 1453 2252 4078 4228 
+habitability Skylab.txt 5 2382 2411 2454 5036 6333 
+fast Skylab.txt 2 652 7421 
+prepare Skylab.txt 2 1998 4861 
+area Skylab.txt 8 1565 1769 1913 2460 2600 4983 6991 7370 
+there Skylab.txt 19 192 3276 3891 3896 3984 4185 4354 4364 4439 4608 4791 4804 4851 4943 5242 5398 5633 7749 8294 
+philadelphia Skylab.txt 1 7550 
+low Skylab.txt 1 76 
+dumping Skylab.txt 1 2664 
+shower Skylab.txt 24 2619 3533 3561 4517 4522 4533 4546 4552 4573 4621 4655 4686 4718 4741 4814 4934 4991 4998 5042 5089 5144 5146 5161 5192 
+complete Skylab.txt 1 7045 
+mid-1965 Skylab.txt 1 1889 
+ep-107 Skylab.txt 1 3830 
+1982-skylab Skylab.txt 1 6282 
+grumman Skylab.txt 1 2041 
+survived Skylab.txt 1 6783 
+trying Skylab.txt 1 4874 
+with Skylab.txt 64 65 298 384 390 476 555 1093 1105 1115 1236 1246 1264 1378 1554 1654 1736 1787 1895 2169 2351 2374 2608 2744 2924 3010 3226 3235 3467 3554 3733 3760 4481 4523 4653 4673 4777 4961 5024 5207 5349 5354 5676 5696 5826 6013 6092 6151 6331 6398 6543 7017 7034 7096 7141 7147 7152 7333 7645 7875 7960 8170 8186 8236 8285 
+rescuing Skylab.txt 1 2697 
+reusing Skylab.txt 2 6137 6318 
+detailed Skylab.txt 1 1012 
+toilet Skylab.txt 2 2622 3509 
+vehicles Skylab.txt 1 7822 
+utitlity Skylab.txt 1 5131 
+600 Skylab.txt 2 6182 7242 
+taste Skylab.txt 1 2568 
+certain Skylab.txt 1 3835 
+totaling Skylab.txt 1 3419 
+moved Skylab.txt 1 8077 
+general Skylab.txt 1 1514 
+as Skylab.txt 55 152 411 413 521 523 634 651 653 1136 1226 1457 1510 1531 1581 1658 1710 1871 2091 2292 2451 2649 2849 2952 3099 3591 3793 3807 3856 4295 4515 4672 4839 4907 5034 5180 5229 5238 5359 5848 6068 6070 6370 6372 6457 6512 6595 6653 6716 6718 7112 7420 7422 7477 8225 8352 
+at Skylab.txt 33 962 1045 1478 1592 1803 1886 3021 3090 3312 3501 3583 4147 4433 4567 4590 4599 5139 5336 5362 5876 6230 6268 6696 7008 7128 7375 7392 7544 7742 7816 7991 8015 8032 
+follow-up Skylab.txt 1 1965 
+girlfriend Skylab.txt 1 7558 
+lifetime Skylab.txt 1 1121 
+film Skylab.txt 27 111 3438 3811 3824 3894 3900 3925 4004 4008 4065 4071 4086 4105 4122 4167 5197 5224 5256 5271 5290 5307 5316 5324 5335 5352 5368 7001 
+again Skylab.txt 1 6588 
+edibility Skylab.txt 1 2590 
+sa-209 Skylab.txt 2 7729 7808 
+departs Skylab.txt 2 5241 6655 
+huntsville Skylab.txt 1 8039 
+astronaut Skylab.txt 7 2595 3889 4303 4519 4681 4837 8011 
+you Skylab.txt 2 4828 4832 
+trash Skylab.txt 1 2683 
+thousand Skylab.txt 1 5481 
+4,000 Skylab.txt 1 6992 
+durations Skylab.txt 2 2474 3251 
+systemsand Skylab.txt 1 3523 
+important Skylab.txt 3 765 2541 5456 
+included Skylab.txt 6 39 372 426 715 3448 6024 
+480 Skylab.txt 1 7436 
+fiscal Skylab.txt 1 2211 
+1980-and Skylab.txt 1 6273 
+then-contracted Skylab.txt 1 1819 
+odds Skylab.txt 2 7221 7250 
+boosters Skylab.txt 1 2312 
+mass Skylab.txt 2 3953 3967 
+cores Skylab.txt 1 5582 
+starting Skylab.txt 1 7676 
+original Skylab.txt 1 2327 
+7.14 Skylab.txt 1 5652 
+leitz Skylab.txt 1 5404 
+all Skylab.txt 4 3976 4790 6152 8226 
+pointing Skylab.txt 7 4223 4250 4259 4308 4454 5449 5453 
+caused Skylab.txt 2 3614 7282 
+lack Skylab.txt 1 4761 
+station/laboratory Skylab.txt 1 713 
+spacecraft Skylab.txt 6 1521 2465 2731 3469 3645 4318 
+debris Skylab.txt 16 591 658 669 690 2981 6774 6941 6971 6983 7225 7252 7276 7431 7599 7608 7706 
+4pi Skylab.txt 1 5631 
+tv Skylab.txt 1 5278 
+lining Skylab.txt 1 1778 
+11-year Skylab.txt 1 6706 
+provisions Skylab.txt 1 6334 
+to Skylab.txt 223 20 26 114 157 164 175 183 187 190 200 246 332 342 455 473 520 534 544 553 578 584 586 788 810 841 847 856 883 900 918 921 974 984 1095 1110 1128 1179 1294 1296 1374 1405 1409 1494 1631 1687 1772 1799 1825 1857 1907 1915 1934 1958 1997 2039 2281 2295 2323 2430 2467 2502 2564 2630 2653 2681 2715 2718 2747 2761 2764 2815 2828 2913 2951 2996 3033 3052 3124 3144 3168 3263 3271 3465 3492 3570 3589 3622 3632 3700 3713 3753 3770 3794 3837 3847 3874 3909 3996 4000 4019 4047 4087 4108 4115 4126 4144 4163 4208 4231 4253 4265 4319 4334 4345 4360 4380 4452 4495 4511 4583 4613 4635 4682 4704 4729 4750 4825 4855 4860 4875 4887 4937 4946 4987 5048 5056 5060 5110 5125 5151 5259 5294 5296 5304 5329 5370 5415 5446 5501 5522 5607 5615 5677 5692 5710 5744 5767 5784 5803 5956 5959 5971 5986 6011 6094 6110 6180 6183 6215 6354 6366 6403 6444 6477 6574 6693 6731 6739 6784 6855 6949 6978 7031 7079 7090 7092 7183 7211 7231 7262 7269 7271 7298 7331 7359 7361 7410 7426 7452 7456 7559 7581 7651 7686 7761 7835 7848 7914 7946 7974 8052 8058 8089 8114 8117 8151 8206 8217 8271 8312 8334 8346 8370 
+program Skylab.txt 17 155 917 1318 1324 1508 2316 3040 5428 5614 5644 5788 6352 7932 8066 8190 8329 8338 
+preserved Skylab.txt 1 7741 
+returned Skylab.txt 6 113 3262 4125 4146 6075 7650 
+sitting Skylab.txt 1 3592 
+very Skylab.txt 2 1761 7968 
+hewlett Skylab.txt 1 5858 
+fall Skylab.txt 1 6942 
+sooner-than-expected Skylab.txt 1 6047 
+king-hele Skylab.txt 1 6840 
+readied Skylab.txt 1 7268 
+extended-stay Skylab.txt 1 1431 
+list Skylab.txt 1 7702 
+large Skylab.txt 17 428 635 799 903 1112 1213 1365 1450 1704 1762 2160 3944 4183 4317 6371 7478 7595 
+adjust Skylab.txt 1 579 
+small Skylab.txt 9 1100 1204 1462 1556 2469 2605 3155 3511 4968 
+titled Skylab.txt 1 790 
+ten Skylab.txt 4 3417 4343 5657 5725 
+reactivation Skylab.txt 2 6454 6610 
+rate Skylab.txt 2 4201 4205 
+design Skylab.txt 9 1289 1648 1807 1898 2189 2344 2403 4878 5529 
+further Skylab.txt 5 1854 2987 3212 7700 8390 
+what Skylab.txt 4 3719 4918 5669 7794 
+stood Skylab.txt 1 3588 
+sun Skylab.txt 5 149 464 3441 4485 6836 
+section Skylab.txt 5 1676 1696 1739 1981 4559 
+brief Skylab.txt 1 2472 
+version Skylab.txt 4 2028 5552 5558 5640 
+scientists Skylab.txt 3 3459 4867 5019 
+public Skylab.txt 3 6800 6821 7301 
+movement Skylab.txt 1 4443 
+mock-up Skylab.txt 3 2836 8007 8030 
+ranged Skylab.txt 1 1088 
+rudimentary Skylab.txt 1 3521 
+salyut Skylab.txt 2 518 3395 
+hours Skylab.txt 7 571 3357 3421 3429 4344 5005 7350 
+cylindrical Skylab.txt 2 1674 4576 
+operating Skylab.txt 3 837 1120 5040 
+relaxation Skylab.txt 1 2426 
+november Skylab.txt 2 1622 3245 
+d.c Skylab.txt 1 8000 
+experience Skylab.txt 1 6558 
+prior Skylab.txt 1 5845 
+amount Skylab.txt 3 1922 3378 4823 
+published Skylab.txt 1 6922 
+20was Skylab.txt 1 2909 
+options Skylab.txt 3 6020 6034 6636 
+trainer Skylab.txt 1 8073 
+via Skylab.txt 3 1702 3214 3705 
+followed Skylab.txt 5 1052 2106 3234 3655 6804 
+africa Skylab.txt 2 611 7388 
+backed Skylab.txt 1 5488 
+indoors Skylab.txt 1 8043 
+foodalthough Skylab.txt 1 3604 
+trained Skylab.txt 1 7892 
+estimate Skylab.txt 1 6235 
+read-only Skylab.txt 1 5588 
+two Skylab.txt 23 243 385 1094 1436 1486 2108 2125 2195 2745 2811 3215 3231 3288 4187 4385 4449 5001 5469 5497 5751 6134 6762 7086 
+damaged Skylab.txt 1 276 
+resident Skylab.txt 1 7215 
+6 Skylab.txt 5 3502 3678 4705 5363 5701 
+taken Skylab.txt 3 495 996 5206 
+restraints Skylab.txt 1 4631 
+refueling Skylab.txt 1 6471 
+more Skylab.txt 12 1628 2146 3790 3939 5127 5965 6200 6342 6947 7259 7837 8314 
+door Skylab.txt 1 3999 
+first-dropping Skylab.txt 1 6269 
+company Skylab.txt 2 1149 2004 
+tested Skylab.txt 1 6055 
+landed Skylab.txt 2 659 7432 
+controlling Skylab.txt 1 2926 
+broke Skylab.txt 2 641 7480 
+known Skylab.txt 3 1530 1709 1814 
+benefits Skylab.txt 1 6316 
+suction Skylab.txt 1 5123 
+commander Skylab.txt 2 7857 8286 
+town Skylab.txt 2 609 7386 
+weighed Skylab.txt 3 4156 4428 5647 
+none Skylab.txt 1 6031 
+science Skylab.txt 4 137 740 7861 8288 
+centrifugal Skylab.txt 1 5050 
+vs Skylab.txt 2 1821 2918 
+nine Skylab.txt 2 6240 6263 
+sent Skylab.txt 3 2036 2484 3704 
+v Skylab.txt 16 63 88 239 1051 1438 1618 1646 1797 2272 2311 2789 2895 2945 6345 6748 7963 
+history Skylab.txt 2 2778 6307 
+needing Skylab.txt 1 6411 
+stated Skylab.txt 1 3460 
+suggestions Skylab.txt 1 5116 
+seventeen-year-old Skylab.txt 1 7536 
+states Skylab.txt 2 12 915 
+minimum Skylab.txt 1 1921 
+numbers Skylab.txt 2 5734 5742 
+gallon Skylab.txt 1 4710 
+axis Skylab.txt 1 4372 
+csm Skylab.txt 9 225 420 1663 1841 2103 2714 2728 5891 6667 
+huge Skylab.txt 2 29 3012 
+needs Skylab.txt 2 2593 5821 
+goal Skylab.txt 1 980 
+clarke Skylab.txt 1 745 
+comfort Skylab.txt 2 2413 2628 
+american Skylab.txt 1 7655 
+stayed Skylab.txt 1 3223 
+plans Skylab.txt 10 531 973 1152 1299 2395 4866 5879 6064 6602 7030 
+mapping Skylab.txt 1 2229 
+replace Skylab.txt 1 6480 
+missiles Skylab.txt 1 7097 
+director Skylab.txt 1 8191 
+concentrating Skylab.txt 1 1004 
+a Skylab.txt 225 40 42 60 66 86 158 194 215 248 347 362 377 427 437 600 668 676 759 778 798 816 838 902 925 934 938 990 1019 1028 1066 1070 1099 1111 1126 1133 1137 1183 1203 1217 1227 1242 1247 1265 1344 1360 1421 1440 1449 1455 1466 1555 1582 1584 1609 1616 1627 1633 1644 1670 1703 1711 1741 1760 1794 1827 1846 1862 1876 1879 1920 1964 1969 2048 2092 2270 2283 2371 2391 2421 2428 2485 2523 2550 2597 2604 2609 2618 2621 2805 2835 2850 2853 2885 2893 3011 3020 3043 3057 3137 3150 3154 3278 3285 3320 3497 3532 3535 3659 3720 3724 3742 3818 3822 3828 3857 3859 3876 3883 3932 3998 4023 4027 4357 4399 4415 4463 4484 4488 4550 4575 4594 4597 4603 4610 4637 4709 4724 4770 4783 4821 4853 4903 4953 4996 5003 5035 5049 5071 5158 5178 5199 5208 5215 5244 5277 5379 5401 5435 5472 5475 5548 5557 5574 5587 5593 5616 5635 5717 5723 5728 5871 5927 5953 5960 5973 6089 6222 6306 6323 6412 6418 6544 6596 6657 6677 6724 6733 6889 6893 6915 7153 7173 7192 7199 7203 7214 7245 7254 7318 7368 7376 7405 7427 7492 7496 7549 7569 7584 7594 7751 7831 7852 7894 7902 7920 7938 8004 8171 8250 8261 8282 8296 8308 8315 8340 
+workstation Skylab.txt 1 5878 
+short Skylab.txt 3 1534 4977 7832 
+resemble Skylab.txt 1 1304 
+documentation Skylab.txt 1 8167 
+departure Skylab.txt 3 6229 6647 6670 
+shade Skylab.txt 2 350 2973 
+playing Skylab.txt 2 2528 3745 
+help Skylab.txt 3 4335 4466 7279 
+september Skylab.txt 3 1172 6141 8326 
+developed Skylab.txt 1 4264 
+urine Skylab.txt 2 2633 2652 
+mission Skylab.txt 42 82 124 263 926 991 1433 1588 1966 2096 2330 2473 2739 2770 2875 3129 3250 3280 4134 4152 4697 5172 5240 5303 5885 5930 5948 5955 6082 6246 6601 7316 7721 7754 7760 7770 7801 7834 7874 7895 8123 8199 8239 
+installed Skylab.txt 2 1927 3871 
+held Skylab.txt 1 7583 
+attitude Skylab.txt 6 4174 4257 4306 4327 4363 6467 
+already Skylab.txt 2 2377 8231 
+through Skylab.txt 11 171 1960 2300 2688 3153 4645 7038 7123 8119 8157 8175 
+existence Skylab.txt 2 458 3471 
+its Skylab.txt 34 133 145 320 448 546 1189 1458 2138 2375 2547 2567 2586 2755 2931 2977 3003 3359 3761 4173 4210 4326 5130 5442 5458 5895 6216 6237 6380 6669 7024 7065 7121 7184 8353 
+24 Skylab.txt 5 681 1116 5337 5915 7540 
+25 Skylab.txt 2 3134 6979 
+26 Skylab.txt 1 8320 
+rapidly Skylab.txt 1 1000 
+21 Skylab.txt 1 3112 
+22 Skylab.txt 1 5233 
+23 Skylab.txt 2 509 3375 
+fined Skylab.txt 1 7490 
+28 Skylab.txt 3 3229 3241 3404 
+equirectangular Skylab.txt 1 7100 
+late Skylab.txt 4 2079 6069 6884 8224 
+detected Skylab.txt 1 5535 
+systems Skylab.txt 6 47 186 2647 3646 6051 6154 
+might Skylab.txt 3 4829 7005 7787 
+good Skylab.txt 1 4836 
+return Skylab.txt 1 2717 
+food Skylab.txt 7 2538 2558 2582 3616 3621 5919 6193 
+unusable Skylab.txt 1 335 
+framework Skylab.txt 1 1953 
+walls Skylab.txt 2 1751 4061 
+foot Skylab.txt 1 4630 
+multi-spectral Skylab.txt 1 378 
+instructions Skylab.txt 1 3694 
+three-man Skylab.txt 3 3300 8283 8355 
+mathematician Skylab.txt 1 6838 
+fully Skylab.txt 1 4541 
+level Skylab.txt 1 6037 
+stopped Skylab.txt 1 568 
+positions Skylab.txt 1 4543 
+found Skylab.txt 8 686 2553 3538 3564 3992 5176 7445 7539 
+intolerable Skylab.txt 1 2566 
+ports Skylab.txt 2 387 3102 
+s-ivbs Skylab.txt 1 2669 
+referred Skylab.txt 1 2950 
+heavy Skylab.txt 2 6779 6797 
+weight Skylab.txt 2 67 3921 
+reduce Skylab.txt 2 176 6571 
+idea Skylab.txt 2 1024 1859 
+extended Skylab.txt 3 506 3370 3493 
+expect Skylab.txt 1 4830 
+beyond Skylab.txt 3 507 1380 6550 
+event Skylab.txt 4 6793 7140 7281 7353 
+170,000 Skylab.txt 1 69 
+funding Skylab.txt 3 1263 6041 7689 
+since Skylab.txt 2 4900 8105 
+man-days Skylab.txt 5 6162 6167 6185 6191 8360 
+douglas Skylab.txt 5 1147 1988 2040 2802 2830 
+acting Skylab.txt 1 4245 
+7 Skylab.txt 2 3584 7263 
+issue Skylab.txt 1 6452 
+highway Skylab.txt 1 7518 
+firework-like Skylab.txt 1 632 
+reason Skylab.txt 1 1345 
+base Skylab.txt 1 2231 
+130150 Skylab.txt 1 7459 
+put Skylab.txt 4 3571 5079 6062 7813 
+beginning Skylab.txt 1 6015 
+generate Skylab.txt 1 811 
+nightly Skylab.txt 1 7165 
+retained Skylab.txt 1 943 
+launch Skylab.txt 27 84 185 278 942 1798 1963 1973 2282 2370 2782 2784 2914 2947 2962 3018 3025 3045 3062 3071 3237 5665 5939 6633 7080 7785 7821 8143 
+just Skylab.txt 1 6261 
+computers Skylab.txt 5 2892 5420 5471 5498 5805 
+conducted Skylab.txt 4 203 444 3211 3487 
+unmanned Skylab.txt 7 58 884 3070 3468 4052 7087 8142 
+major Skylab.txt 7 134 2773 3783 3801 6153 6507 7656 
+prevent Skylab.txt 1 5305 
+fire-proof Skylab.txt 1 5092 
+number Skylab.txt 5 1029 1422 1585 1847 1880 
+feet Skylab.txt 4 803 5331 6376 7010 
+two-man Skylab.txt 1 1218 
+done Skylab.txt 1 2339 
+bland Skylab.txt 1 3609 
+miss Skylab.txt 1 7576 
+rookies Skylab.txt 1 3524 
+in-orbit Skylab.txt 2 261 932 
+threatening Skylab.txt 1 331 
+least Skylab.txt 1 6697 
+180 Skylab.txt 2 3987 6161 
+station Skylab.txt 74 15 202 274 425 640 695 721 731 761 801 833 865 904 936 1036 1092 1114 1185 1206 1221 1267 1362 1481 1558 1611 1636 1725 1802 1945 2157 2401 2722 2795 3001 3009 3146 3163 3165 3183 3394 3657 3717 4199 4408 4474 4678 4847 4865 4883 4924 5205 5452 6139 6176 6369 6482 6561 6584 6726 6970 7095 7207 7223 7374 7415 7612 7658 7662 7671 7919 7926 7940 8153 8377 
+passed Skylab.txt 1 2687 
+ballistic Skylab.txt 1 965 
+scheme Skylab.txt 2 8173 8193 
+store Skylab.txt 1 2682 
+observations Skylab.txt 1 5419 
+shifted Skylab.txt 1 163 
+muscles Skylab.txt 2 3580 3599 
+calculations Skylab.txt 1 6242 
+6,500-metric Skylab.txt 1 820 
+part Skylab.txt 4 1511 2093 4461 5433 
+greater-than-expected Skylab.txt 1 6868 
+observatory Skylab.txt 6 44 129 380 2255 5266 5463 
+dispensed Skylab.txt 3 4589 4644 4722 
+determined Skylab.txt 1 5288 
+aap Skylab.txt 3 1509 2237 2315 
+reboost Skylab.txt 1 7032 
+kilometers Skylab.txt 2 6271 6277 
+49-ton Skylab.txt 1 6746 
+coolant Skylab.txt 1 6529 
+heaviest Skylab.txt 3 4014 4140 4154 
+showers Skylab.txt 1 4667 
+cleaned Skylab.txt 1 3551 
+vulnerable Skylab.txt 2 3839 3846 
+u.s Skylab.txt 4 976 7130 7688 8034 
+built Skylab.txt 5 1016 1369 1637 4566 7929 
+zero Skylab.txt 1 5743 
+flares Skylab.txt 3 633 3453 7476 
+internal Skylab.txt 2 4291 6050 
+build Skylab.txt 2 1632 6367 
+re-entry Skylab.txt 11 573 5713 6048 6238 7098 7122 7163 7224 7321 7366 7390 
+added Skylab.txt 2 2617 6210 
+bottle Skylab.txt 1 4638 
+77 Skylab.txt 1 71 
+most Skylab.txt 9 318 2705 3767 3782 3800 4674 6450 6775 7337 
+nasas Skylab.txt 5 160 596 1350 3193 6861 
+plan Skylab.txt 3 1630 4854 5969 
+money-back Skylab.txt 1 7154 
+70 Skylab.txt 2 5210 5269 
+measured Skylab.txt 1 4203 
+kg Skylab.txt 3 3958 4158 5651 
+chronicle Skylab.txt 1 7188 
+clear Skylab.txt 2 5756 7055 
+sometimes Skylab.txt 1 2949 
+km Skylab.txt 11 605 701 6212 6226 6663 6684 6689 7381 7437 7460 7618 
+tubes Skylab.txt 1 2578 
+stones Skylab.txt 2 3960 5653 
+disturbances Skylab.txt 1 4300 
+carefully Skylab.txt 1 4669 
+wernher Skylab.txt 1 737 
+fine Skylab.txt 4 4222 7497 7505 7531 
+find Skylab.txt 1 4209 
+occupation Skylab.txt 1 3360 
+completion Skylab.txt 1 2780 
+cell Skylab.txt 1 873 
+northern Skylab.txt 1 6944 
+writer Skylab.txt 1 742 
+failed Skylab.txt 2 2729 6464 
+flights Skylab.txt 3 6357 6566 7887 
+money Skylab.txt 1 7977 
+8 Skylab.txt 5 2260 2798 3267 5746 8252 
+merged Skylab.txt 2 726 7666 
+his Skylab.txt 9 969 1364 1376 1647 3207 7524 7545 7554 7557 
+hit Skylab.txt 1 7274 
+famous Skylab.txt 1 92 
+capsule Skylab.txt 3 1068 1245 1259 
+b Skylab.txt 6 4859 7859 7906 7911 7950 8018 
+3/4 Skylab.txt 1 4707 
+closely Skylab.txt 2 1165 6805 
+competing Skylab.txt 1 7187 
+during Skylab.txt 15 277 447 1355 1391 2961 3351 3361 4118 5165 5186 6244 6509 6537 7930 8159 
+him Skylab.txt 1 7553 
+126e Skylab.txt 1 7457 
+enemy Skylab.txt 1 894 
+remove Skylab.txt 3 1688 4856 4888 
+common Skylab.txt 1 1894 
+logistic Skylab.txt 1 1399 
+activity Skylab.txt 6 392 3218 6253 6828 6867 6870 
+x Skylab.txt 3 1533 1540 5407 
+set Skylab.txt 5 511 1395 3384 3744 4988 
+see Skylab.txt 3 5 4212 8380 
+defense Skylab.txt 1 1160 
+close Skylab.txt 1 159 
+analog Skylab.txt 3 3322 5171 8255 
+project Skylab.txt 5 971 1292 1392 7659 7683 
+movie Skylab.txt 1 6419 
+won Skylab.txt 1 3200 
+various Skylab.txt 8 1034 1407 1986 3328 4073 4233 5253 5505 
+csm/saturn Skylab.txt 1 251 
+orbiting Skylab.txt 2 16 1014 
+conditions Skylab.txt 2 4276 4277 
+risks Skylab.txt 1 6722 
+available Skylab.txt 3 2280 2355 6348 
+initially Skylab.txt 2 1419 4798 
+attention Skylab.txt 3 32 6801 6948 
+aircraft Skylab.txt 4 1148 1989 6844 7343 
+interface Skylab.txt 5 5514 5719 5778 5780 5791 
+both Skylab.txt 5 2626 3514 4660 6174 6407 
+c Skylab.txt 1 744 
+cubes Skylab.txt 1 2575 
+last Skylab.txt 6 2480 3259 5884 5901 6694 7775 
+reverse Skylab.txt 1 8218 
+influential Skylab.txt 1 781 
+annual Skylab.txt 1 7575 
+became Skylab.txt 3 1708 3765 7054 
+vault Skylab.txt 8 3825 3926 3945 4009 4029 4034 4066 7002 
+experimental Skylab.txt 1 6598 
+load Skylab.txt 1 5493 
+expendable Skylab.txt 1 1528 
+point Skylab.txt 1 4336 
+recycling Skylab.txt 1 2646 
+refurbish Skylab.txt 1 535 
+adaptation Skylab.txt 1 3491 
+consideration Skylab.txt 1 5933 
+expensive Skylab.txt 3 1078 2147 2177 
+publishing Skylab.txt 1 776 
+meteorologists Skylab.txt 1 840 
+due Skylab.txt 7 552 2466 5295 6109 6738 7425 8270 
+hitting Skylab.txt 3 6541 7226 7253 
+secret Skylab.txt 1 7406 
+extravehicular Skylab.txt 1 391 
+maintenance Skylab.txt 2 6503 6557 
+collected Skylab.txt 1 7564 
+pi Skylab.txt 1 5563 
+empty Skylab.txt 1 3952 
+stationkeeping Skylab.txt 1 6456 
+firm Skylab.txt 1 2404 
+flight Skylab.txt 5 1353 2268 4905 6339 7067 
+1950s Skylab.txt 1 879 
+gas Skylab.txt 1 3626 
+bullseyes Skylab.txt 1 7148 
+parasol-like Skylab.txt 1 3151 
+resupplying Skylab.txt 1 1108 
+oxygen-percentage Skylab.txt 1 8264 
+look Skylab.txt 1 1477 
+evaluated Skylab.txt 1 6053 
+while Skylab.txt 2 4395 5583 
+replaced Skylab.txt 3 1543 1649 2020 
+mlu Skylab.txt 2 5495 5585 
+fleet Skylab.txt 1 817 
+loop Skylab.txt 1 6530 
+engineers Skylab.txt 1 5021 
+vaults Skylab.txt 6 3812 3895 3901 3964 4005 5311 
+30 Skylab.txt 3 3399 6270 7502 
+costly Skylab.txt 1 7969 
+century Skylab.txt 1 6916 
+von Skylab.txt 9 738 771 850 954 1009 1346 1605 1624 2325 
+owen Skylab.txt 1 3339 
+itself Skylab.txt 2 1931 5564 
+ready Skylab.txt 3 257 6129 7062 
+lengthy Skylab.txt 1 3692 
+facetiously Skylab.txt 1 7489 
+baseline Skylab.txt 2 1583 2350 
+shire Skylab.txt 1 7486 
+re-boost Skylab.txt 2 5988 6608 
+9 Skylab.txt 2 4366 4870 
+expeditions Skylab.txt 3 199 855 3366 
+composition Skylab.txt 1 2570 
+higher Skylab.txt 2 5961 7853 
+development Skylab.txt 7 166 557 867 959 1307 5985 7980 
+used Skylab.txt 25 472 1025 2680 2877 3881 4057 4068 4085 4333 4652 4994 4999 5164 5190 5252 5621 5783 5838 5843 5855 5909 5937 7790 8009 8196 
+somewhere Skylab.txt 1 7311 
+keys Skylab.txt 2 5747 5752 
+recovered Skylab.txt 1 7119 
+moment Skylab.txt 1 4214 
+000 Skylab.txt 1 4099 
+uses Skylab.txt 2 4 6569 
+user Skylab.txt 3 4633 5718 5790 
+man-day Skylab.txt 1 8364 
+stack Skylab.txt 1 7786 
+predecessors Skylab.txt 1 2587 
+dark Skylab.txt 1 5381 
+lower Skylab.txt 4 706 2367 5355 7623 
+redesigned Skylab.txt 1 2912 
+spent Skylab.txt 6 502 2050 3309 3381 6745 8357 
+analysis Skylab.txt 3 116 687 7605 
+person Skylab.txt 1 4818 
+feces Skylab.txt 1 2635 
+1966 Skylab.txt 2 2034 8333 
+1967 Skylab.txt 2 2213 2222 
+vacuum Skylab.txt 4 4611 4771 5044 5061 
+quarters Skylab.txt 3 1460 1745 8122 
+cut Skylab.txt 1 1249 
+preparations Skylab.txt 1 8161 
+also Skylab.txt 25 324 1011 2540 2616 2657 3295 3563 3595 3625 3938 4331 4356 4774 5023 5163 5400 5487 5812 6429 6548 6887 7075 7779 7891 8381 
+workers Skylab.txt 1 1333 
+canisters Skylab.txt 2 4123 4155 
+weightlessness Skylab.txt 3 3542 3569 3613 
+input Skylab.txt 3 4392 5025 5506 
+remaining Skylab.txt 3 1690 2929 2993 
+australia Skylab.txt 2 665 7442 
+march Skylab.txt 4 3047 5700 6290 7020 
+emergency Skylab.txt 1 2707 
+big Skylab.txt 3 4007 4321 4959 
+showing Skylab.txt 1 4538 
+garriott Skylab.txt 1 3340 
+matters Skylab.txt 1 2989 
+weitz Skylab.txt 2 4690 4838 
+projects Skylab.txt 2 714 1424 
+modifications Skylab.txt 1 6400 
+rotate Skylab.txt 1 809 
+success Skylab.txt 1 2257 
+spine Skylab.txt 1 1742 
+kennedy Skylab.txt 3 3022 7744 7818 
+arthur Skylab.txt 1 743 
+popular Skylab.txt 1 3768 
+sketch Skylab.txt 1 1607 
+often Skylab.txt 2 1278 3710 
+73,280 Skylab.txt 1 2671 
+some Skylab.txt 11 105 689 3695 4241 5862 6287 6399 6546 6773 8138 8166 
+back Skylab.txt 2 25 3293 
+3.0 Skylab.txt 1 1672 
+delivered Skylab.txt 2 214 7182 
+and/or Skylab.txt 1 4754 
+maiden Skylab.txt 1 3044 
+decision Skylab.txt 1 8220 
+though Skylab.txt 2 4942 6072 
+per Skylab.txt 7 4437 4717 4815 4817 5339 5365 7011 
+three-astronaut Skylab.txt 1 216 
+s190 Skylab.txt 1 3855 
+suns Skylab.txt 1 3474 
+s190a Skylab.txt 1 5392 
+s190b Skylab.txt 1 5384 
+either Skylab.txt 1 5530 
+be Skylab.txt 40 567 763 995 1234 1387 1685 1698 1773 1823 1905 1926 1947 2089 2172 2279 2296 2565 3067 3864 3997 4109 4145 4279 4332 4766 5068 5078 5126 5148 5371 5517 5782 6128 7061 7582 7643 7796 7947 8195 8313 
+300 Skylab.txt 1 7434 
+fed Skylab.txt 3 4377 4493 5047 
+step Skylab.txt 1 767 
+served Skylab.txt 1 7730 
+intense Skylab.txt 1 328 
+works Skylab.txt 1 8387 
+hatches Skylab.txt 1 394 
+allotment Skylab.txt 1 4801 
+repair Skylab.txt 3 363 549 6525 
+computational Skylab.txt 1 5422 
+into Skylab.txt 13 75 727 1250 1700 2380 2666 4920 4980 5070 6063 7667 7851 8078 
+thrusters Skylab.txt 1 6205 
+hasselblad Skylab.txt 1 5212 
+primarily Skylab.txt 2 1207 1657 
+frames Skylab.txt 3 3436 4165 5364 
+computer Skylab.txt 17 2876 4384 4498 5427 5437 5466 5513 5546 5556 5570 5598 5618 5632 5646 5667 5704 5852 
+specifically Skylab.txt 1 1482 
+spar Skylab.txt 1 3916 
+atop Skylab.txt 3 227 1240 3136 
+hoped Skylab.txt 1 174 
+cloth Skylab.txt 1 5094 
+atlantic Skylab.txt 1 6789 
+lind Skylab.txt 3 7865 7878 7890 
+themselves Skylab.txt 2 3540 3552 
+deployed Skylab.txt 3 3149 4916 7644 
+directed Skylab.txt 1 1215 
+utc Skylab.txt 1 7395 
+msc Skylab.txt 3 1523 1887 2035 
+loewy Skylab.txt 2 2406 5030 
+planet Skylab.txt 1 7309 
+exploration Skylab.txt 1 770 
+called Skylab.txt 4 3723 5793 6322 7948 
+storing Skylab.txt 1 4070 
+shield/sun Skylab.txt 1 2972 
+m Skylab.txt 4 1673 1767 5333 6378 
+influence Skylab.txt 1 4287 
+engineering Skylab.txt 2 120 8001 
+home Skylab.txt 1 7546 
+full-size Skylab.txt 2 8005 8028 
+re-established Skylab.txt 1 7015 
+extra-vehicular Skylab.txt 1 3217 
+954 Skylab.txt 1 6933 
+preventing Skylab.txt 2 3002 3172 
+politicians Skylab.txt 1 1274 
+electrical Skylab.txt 5 321 405 4976 5662 5697 
+ellen Skylab.txt 1 3804 
+department Skylab.txt 2 1158 6961 
+mcdonnell Skylab.txt 3 2043 2801 2829 
+reportedly Skylab.txt 1 6540 
+visits Skylab.txt 1 6108 
+prepared Skylab.txt 2 2378 3685 
+william Skylab.txt 3 2407 7858 8181 
+drag Skylab.txt 1 6880 
+cooperate Skylab.txt 1 1180 
+meals Skylab.txt 1 2424 
+wagering Skylab.txt 1 7156 
+land Skylab.txt 2 6985 7006 
+age Skylab.txt 1 6113 
+required Skylab.txt 5 1435 1793 1824 4451 6624 
+holes Skylab.txt 2 461 3476 
+orbit Skylab.txt 20 78 504 547 564 827 1679 2381 3096 3225 3773 5185 5990 6003 6217 6227 6266 6679 6759 6951 7854 
+priroda Skylab.txt 1 7691 
+low-pressure Skylab.txt 2 3313 8262 
+nasa Skylab.txt 42 37 173 574 654 711 1002 1031 1163 1174 1266 1281 1298 1325 1394 2130 2203 2483 2551 2854 3202 3832 4402 5018 5709 6102 6713 6807 6902 6963 7027 7115 7217 7322 7423 7491 7535 7631 7817 7933 8084 8214 8396 
+2009 Skylab.txt 1 7510 
+once Skylab.txt 2 3534 8008 
+code Skylab.txt 1 5484 
+results Skylab.txt 2 3457 6440 
+astronauts Skylab.txt 18 189 2064 2416 2436 2516 2698 2746 3415 3490 3562 3586 3665 4776 5183 5189 6171 6405 8203 
+existing Skylab.txt 1 2812 
+helped Skylab.txt 3 4219 4480 6813 
+centers Skylab.txt 1 1032 
+issues Skylab.txt 1 6473 
+gases Skylab.txt 1 3187 
+disposal Skylab.txt 1 5072 
+concerned Skylab.txt 1 1328 
+send Skylab.txt 3 898 919 5801 
+42.7 Skylab.txt 1 5332 
+atlas Skylab.txt 2 6029 6644 
+include Skylab.txt 1 835 
+resources Skylab.txt 1 467 
+lunar Skylab.txt 4 1432 1441 1446 2228 
+wished Skylab.txt 1 1373 
+garden Skylab.txt 1 7748 
+outside Skylab.txt 1 1780 
+soyuz Skylab.txt 2 514 3388 
+drinking Skylab.txt 2 2654 3629 
+continued Skylab.txt 3 2191 2347 5865 
+categories Skylab.txt 2 8401 8403 
+count-down Skylab.txt 1 5766 
+entire Skylab.txt 1 1728 
+recreation Skylab.txt 1 6422 
+eva Skylab.txt 6 393 3220 3343 6476 6510 6538 
+button Skylab.txt 2 4595 4726 
+try Skylab.txt 2 585 7360 
+flight-quality Skylab.txt 1 7922 
+trs Skylab.txt 5 5977 6023 6639 7042 7082 
+inspection Skylab.txt 1 1705 
+smaller Skylab.txt 6 235 935 1361 1863 3899 3963 
+7.5 Skylab.txt 1 8371 
+scientist Skylab.txt 2 2486 6900 
+1088 Skylab.txt 1 3957 
+video Skylab.txt 1 5284 
+enclosed Skylab.txt 3 2511 4542 4933 
+scientific Skylab.txt 11 53 118 441 947 1415 1427 2592 3431 5834 5966 7838 
+skylab Skylab.txt 151 0 6 8 38 74 154 191 247 316 344 371 404 446 528 538 646 657 684 694 710 1027 1313 1897 2030 2440 2477 2581 2642 2695 2700 2738 2776 2793 2845 2879 2915 2934 2953 3053 3086 3094 3109 3125 3227 3260 3303 3329 3346 3365 3401 3406 3411 3425 3785 3810 3823 3827 3833 3873 3982 4018 4170 4192 4247 4305 4311 4382 4404 4410 4446 4513 4532 4548 4692 4773 4797 4843 4858 4997 5160 5170 5203 5236 5237 5426 5429 5538 5545 5822 5869 5887 5902 5907 5926 5946 5958 5992 5999 6146 6204 6218 6309 6319 6434 6497 6607 6649 6673 6737 6754 6830 6850 6882 6953 7018 7033 7106 7118 7150 7181 7305 7315 7543 7598 7630 7734 7752 7762 7776 7792 7800 7823 7826 7850 7885 7900 7905 7910 7917 7924 7949 7959 8065 8088 8132 8145 8189 8242 8256 8317 8337 
+3s Skylab.txt 1 3087 
+access Skylab.txt 1 181 
+fireworks-like Skylab.txt 1 7475 
+experiment Skylab.txt 8 468 2058 3305 3854 4275 4558 5383 8244 
+exercise Skylab.txt 2 3654 5194 
+impact Skylab.txt 1 6785 
+led Skylab.txt 4 876 1293 1856 7685 
+chose Skylab.txt 1 924 
+respectively Skylab.txt 1 3257 
+lem Skylab.txt 6 1448 1456 1469 1545 1839 1918 
+crippen Skylab.txt 1 8287 
+desired Skylab.txt 2 4274 4516 
+busy Skylab.txt 1 3711 
+focused Skylab.txt 1 7632 
+aerodynamic Skylab.txt 1 4299 
+safes Skylab.txt 1 3978 
+39 Skylab.txt 1 3027 
+receive Skylab.txt 1 6796 
+involved Skylab.txt 2 1334 3141 
+31 Skylab.txt 1 7451 
+larger Skylab.txt 4 1560 1635 3924 3934 
+35 Skylab.txt 2 5267 5861 
+leaving Skylab.txt 2 1845 3007 
+resulting Skylab.txt 2 666 6939 
+residents Skylab.txt 2 2756 7466 
+private Skylab.txt 1 2598 
+administration Skylab.txt 1 6898 
+use Skylab.txt 17 1131 1286 1853 2168 2712 4320 4502 4658 4683 4826 4898 5157 5412 5867 5972 7841 8207 
+from Skylab.txt 41 18 102 284 327 408 786 863 1089 1638 1888 1949 2699 2982 3061 3072 3158 3607 3809 3826 3841 4072 4401 4580 4596 4723 4735 4890 5026 5235 5375 5519 5541 5629 5815 5894 6056 6317 7404 7450 7523 8332 
+stream Skylab.txt 1 2496 
+next Skylab.txt 7 1270 1485 1595 2194 2737 3688 7654 
+few Skylab.txt 1 7585 
+camera Skylab.txt 5 5213 5279 5314 5390 5397 
+examination Skylab.txt 1 2638 
+vehicle Skylab.txt 3 269 5889 5940 
+aeroshell Skylab.txt 1 1656 
+panel Skylab.txt 4 296 306 2995 6520 
+de-orbit Skylab.txt 1 6852 
+becomes Skylab.txt 1 7239 
+occurred Skylab.txt 1 6614 
+missile Skylab.txt 1 966 
+carrying Skylab.txt 2 94 2791 
+shoelaces Skylab.txt 1 3576 
+iii Skylab.txt 2 6027 6642 
+20-day Skylab.txt 2 5954 7833 
+8950 Skylab.txt 1 4435 
+this Skylab.txt 29 267 314 357 365 1495 1579 1707 1755 1788 2318 2332 2349 3188 3318 3850 4482 4627 4654 4661 5306 5341 5949 6231 6792 6832 7803 7873 7976 8219 
+package Skylab.txt 1 469 
+island Skylab.txt 1 5226 
+meet Skylab.txt 1 4266 
+1,300 Skylab.txt 2 604 7380 
+control Skylab.txt 15 4213 4260 4283 4309 4325 4329 4361 4442 4456 4469 4504 5447 5678 5711 6468 
+slid Skylab.txt 1 1699 
+links Skylab.txt 1 8394 
+actron Skylab.txt 1 5387 
+calculation Skylab.txt 1 7429 
+purposes Skylab.txt 2 911 948 
+pieces Skylab.txt 6 636 682 4016 6988 7479 7541 
+high Skylab.txt 2 4268 8263 
+something Skylab.txt 1 7210 
+sought Skylab.txt 1 2204 
+darkening Skylab.txt 2 3848 3851 
+united Skylab.txt 2 11 914 
+docking Skylab.txt 6 382 386 1983 3101 3905 7695 
+decaying Skylab.txt 1 563 
+1-2-3 Skylab.txt 2 8208 8238 
+six Skylab.txt 3 1596 2505 4082 
+regions Skylab.txt 1 488 
+located Skylab.txt 2 1746 8014 
+instead Skylab.txt 3 2142 3557 7985 
+ferdinand Skylab.txt 1 7292 
+re-use Skylab.txt 1 5881 
+establishment Skylab.txt 2 6845 7344 
+circular Skylab.txt 2 800 5872 
+collection Skylab.txt 2 5054 5461 
+faster-another Skylab.txt 1 6275 
+advocated Skylab.txt 1 1358 
+light Skylab.txt 1 3860 
+lines Skylab.txt 1 2002 
+or Skylab.txt 26 893 1065 1098 1285 1470 2136 2527 2955 3219 3574 3866 4507 4711 5373 5540 5770 6390 6479 6643 6799 7085 7089 7196 7258 7944 8247 
+chief Skylab.txt 1 2119 
+advocates Skylab.txt 1 749 
+allow Skylab.txt 1 5057 
+subsequently Skylab.txt 1 8046 
+houston Skylab.txt 1 8025 
+bathing Skylab.txt 1 4962 
+move Skylab.txt 1 4197 
+produced Skylab.txt 2 2897 3455 
+including Skylab.txt 6 1429 1976 2965 4075 4984 6632 
+converting Skylab.txt 1 2164 
+lb Skylab.txt 3 3956 3970 3988 
+dispose Skylab.txt 1 2660 
+ferrite Skylab.txt 1 5580 
+asking Skylab.txt 1 8187 
+2017 Skylab.txt 1 3077 
+millions Skylab.txt 1 6328 
+2010 Skylab.txt 1 8350 
+2013 Skylab.txt 1 8083 
+designs Skylab.txt 1 1037 
+crash Skylab.txt 1 6854 
+greater Skylab.txt 1 6383 
+re-enter Skylab.txt 1 4020 
+dac Skylab.txt 3 5319 5323 5377 
+repercussions Skylab.txt 1 6968 
+material Skylab.txt 2 3974 5086 
+flew Skylab.txt 3 1901 2860 7552 
+spent-stage Skylab.txt 1 2057 
+das Skylab.txt 1 5798 
+satellites Skylab.txt 1 885 
+documented Skylab.txt 1 1142 
+day Skylab.txt 1 3499 
+articles Skylab.txt 1 782 
+february Skylab.txt 6 208 2847 3075 3266 6084 6651 
+edit Skylab.txt 40 734 951 1153 1308 1319 1600 2188 2383 2692 2772 2779 2783 3085 3338 3775 3817 4169 4518 5198 5421 5886 6603 6648 6829 7099 7712 7825 7907 8003 8125 8331 8379 8382 8384 8386 8389 8392 8395 8397 8400 
+warned Skylab.txt 1 6962 
+slide Skylab.txt 2 5863 5873 
+magnitude Skylab.txt 1 366 
+rockets Skylab.txt 4 1384 6346 7088 7707 
+mode Skylab.txt 1 927 
+map Skylab.txt 1 7103 
+chunk Skylab.txt 1 3989 
+700 Skylab.txt 1 6184 
+books Skylab.txt 2 2533 3754 
+skylabs Skylab.txt 15 127 562 580 612 2752 3017 4362 6046 6049 6373 6427 6824 6950 7134 7357 
+inverter Skylab.txt 1 4422 
+80 Skylab.txt 1 829 
+84 Skylab.txt 3 524 3255 3413 
+out Skylab.txt 6 1017 2037 3788 4671 4834 4910 
+zero-gravity Skylab.txt 1 4551 
+entertainment Skylab.txt 1 2525 
+barley Skylab.txt 1 7516 
+postpone Skylab.txt 1 3714 
+cause Skylab.txt 2 4974 8136 
+announced Skylab.txt 3 1198 2083 2225 
+8k Skylab.txt 1 5639 
+shut Skylab.txt 1 3867 
+retrieved Skylab.txt 1 4111 
+parents Skylab.txt 1 7555 
+apollos Skylab.txt 1 7843 
+1983 Skylab.txt 1 6291 
+repairing Skylab.txt 1 6431 
+deprived Skylab.txt 1 315 
+could Skylab.txt 30 311 565 887 941 2369 2711 3290 3666 3852 3863 3917 3930 4160 4171 4195 4324 4330 4500 5147 5516 5759 5772 5781 5800 5811 6172 6177 6984 7642 7722 
+times Skylab.txt 2 3350 5353 
+footnotes Skylab.txt 1 8385 
+south Skylab.txt 3 610 7382 7387 
+450 Skylab.txt 1 2205 
+2,000 Skylab.txt 1 3428 
+455 Skylab.txt 2 6225 6688 
+proposing Skylab.txt 1 2010 
+quality Skylab.txt 1 2548 
+management Skylab.txt 1 1326 
+privacy Skylab.txt 1 3738 
+system Skylab.txt 29 1401 1538 4251 4261 4284 4310 4359 4464 4510 4553 4612 4699 4772 4955 5046 5059 5438 5478 5568 5705 5715 5797 5807 5810 5976 6469 6735 7408 7846 
+their Skylab.txt 8 1513 2468 3578 3597 3603 3628 4378 4391 
+wrapped Skylab.txt 1 5098 
+final Skylab.txt 5 81 242 970 3069 7110 
+sp-4208 Skylab.txt 1 6300 
+shell Skylab.txt 1 1668 
+stomach Skylab.txt 2 3579 3598 
+completed Skylab.txt 3 126 1388 6133 
+transistor Skylab.txt 1 870 
+lists Skylab.txt 1 3778 
+pressurized Skylab.txt 1 4640 
+july Skylab.txt 10 617 2080 2498 3092 3240 4527 7329 7396 7589 8319 
+ben Skylab.txt 1 2490 
+johnson Skylab.txt 1 8019 
+submitted Skylab.txt 1 968 
+listeners Skylab.txt 1 7527 
+individual Skylab.txt 1 2535 
+providing Skylab.txt 1 2420 
+distinguished Skylab.txt 1 3203 
+re-entered Skylab.txt 1 3983 
+p.m Skylab.txt 1 3679 
+have Skylab.txt 21 1542 1757 2320 2645 2741 2758 3176 3462 3910 4931 5936 5951 6363 6613 6623 7209 7788 7829 7868 7898 7966 
+habitable Skylab.txt 1 401 
+need Skylab.txt 4 931 6475 6573 6816 
+linked Skylab.txt 1 5500 
+rotor Skylab.txt 2 4417 4427 
+hammer Skylab.txt 1 6545 
+agency Skylab.txt 6 967 2151 2224 6121 6144 7047 
+able Skylab.txt 4 341 454 2760 7409 
+gravity Skylab.txt 5 813 3326 4296 4763 8269 
+concerns Skylab.txt 2 2066 4960 
+deploying Skylab.txt 1 346 
+which Skylab.txt 33 90 107 172 232 723 1385 1434 1890 3674 3697 3907 3936 4499 4642 4732 4764 4781 5074 5326 5485 5525 5720 5764 5836 5934 6007 6209 6320 6751 7233 7498 7664 8192 
+truck Skylab.txt 1 1442 
+mir Skylab.txt 3 718 7680 7694 
+soap Skylab.txt 4 4650 4662 4755 4808 
+accuracy Skylab.txt 1 4269 
+worldwide Skylab.txt 1 30 
+deploy Skylab.txt 1 313 
+who Skylab.txt 4 2437 3199 3308 5031 
+eight Skylab.txt 1 3451 
+demise Skylab.txt 2 7135 7628 
+device Skylab.txt 1 4945 
+medal Skylab.txt 1 3205 
+gallery Skylab.txt 1 8378 
+administrators Skylab.txt 1 8215 
+spaceflight Skylab.txt 2 3321 4570 
+looked Skylab.txt 2 1044 1591 
+j-2 Skylab.txt 1 6780 
+businessman Skylab.txt 1 7551 
+atmosphere Skylab.txt 7 645 4022 6299 6877 7125 7484 8265 
+rings Skylab.txt 1 4746 
+agreed Skylab.txt 1 1178 
+charles Skylab.txt 1 7312 
+rotating Skylab.txt 1 1113 
+bring Skylab.txt 1 4636 
+planning Skylab.txt 2 2441 6819 
+soldiers Skylab.txt 1 846 
+staff Skylab.txt 1 5690 
+squeeze Skylab.txt 1 2577 
+based Skylab.txt 10 1443 1612 1866 2012 2329 2343 5565 5578 6247 6701 
+knowledge Skylab.txt 1 3333 
+operational Skylab.txt 4 449 2777 6157 6343 
+buttons Skylab.txt 1 5726 
+tape Skylab.txt 2 5589 5601 
+fuel Skylab.txt 5 414 1692 1722 1940 1957 
+riding Skylab.txt 1 1239 
+he Skylab.txt 3 796 1372 7563 
+thousands Skylab.txt 1 489 
+achieve Skylab.txt 1 1826 
+spun Skylab.txt 1 4347 
+handle Skylab.txt 1 3931 
+watching Skylab.txt 1 2520 
+photography Skylab.txt 1 3890 
+overall Skylab.txt 1 979 
+122 Skylab.txt 1 7455 
+rawlinna Skylab.txt 2 674 7449 
+words Skylab.txt 2 5482 5623 
+averaged Skylab.txt 1 4394 
+areas Skylab.txt 4 595 1168 2449 5014 
+stitching Skylab.txt 1 4785 
+ended Skylab.txt 2 4135 8324 
+numerous Skylab.txt 1 440 
+teams Skylab.txt 1 7266 
+rate-gyroscope Skylab.txt 1 4367 
+contain Skylab.txt 2 4751 6956 
+proponents Skylab.txt 1 6425 
+waste-collection Skylab.txt 1 3522 
+view Skylab.txt 7 474 2386 2431 3104 3762 5200 6833 
+national Skylab.txt 5 4892 6894 7296 7993 8091 
+terrain Skylab.txt 1 5389 
+module Skylab.txt 10 223 389 1064 1447 2060 4628 4913 7637 7696 7716 
+officials Skylab.txt 1 1277 
+washcloths Skylab.txt 1 3556 
+cut-away Skylab.txt 1 2385 
+phases Skylab.txt 2 6617 6621 
+error Skylab.txt 1 7430 
+closet Skylab.txt 1 2607 
+10-foot Skylab.txt 1 1671 
+nuclear Skylab.txt 2 895 6930 
+state Skylab.txt 1 6960 
+identification Skylab.txt 1 8128 
+confusion Skylab.txt 1 8139 
+a.m Skylab.txt 2 3503 3585 
+jog Skylab.txt 1 3667 
+outer Skylab.txt 1 6873 
+configuration Skylab.txt 1 2819 
+commands Skylab.txt 2 5802 5814 
+taking Skylab.txt 3 290 1936 3531 
+spray Skylab.txt 1 5136 
+april Skylab.txt 3 2032 7073 7509 
+sexes Skylab.txt 1 6408 
+adjusted Skylab.txt 1 7356 
+cm Skylab.txt 2 4059 5103 
+walk Skylab.txt 1 8118 
+aap-1 Skylab.txt 1 2113 
+aap-2 Skylab.txt 1 2115 
+powered Skylab.txt 1 6931 
+addition Skylab.txt 5 3270 3752 4607 5258 7913 
+trajectory Skylab.txt 1 581 
+slowly Skylab.txt 1 6267 
+fog Skylab.txt 1 5292 
+rates Skylab.txt 1 5357 
+curtain Skylab.txt 5 2610 4524 4547 4577 4742 
+proposal Skylab.txt 2 1127 1789 
+waste Skylab.txt 5 429 2662 2685 5065 5082 
+controlled Skylab.txt 2 5431 7903 
+painted Skylab.txt 1 7202 
+clothing Skylab.txt 1 8229 
+controller Skylab.txt 1 7317 
+improved Skylab.txt 3 2584 3606 6818 
+an Skylab.txt 34 260 625 764 1013 1023 1061 1090 1119 1430 1527 1655 1659 1720 1902 1950 1979 2024 2198 2459 2510 2689 3342 3779 3951 4932 4975 5638 6766 6905 6990 7137 7468 7638 8304 
+volunteer Skylab.txt 1 2552 
+atmospheric Skylab.txt 3 613 6256 6897 
+esperance Skylab.txt 5 672 680 7447 7488 7548 
+value Skylab.txt 1 944 
+choices Skylab.txt 1 2537 
+will Skylab.txt 1 792 
+texas Skylab.txt 1 8026 
+kohoutek Skylab.txt 1 3797 
+examiner Skylab.txt 2 7171 7566 
+manually Skylab.txt 1 4110 
+almost Skylab.txt 2 6761 7044 
+thus Skylab.txt 1 3006 
+site Skylab.txt 1 7108 
+surface Skylab.txt 1 8278 
+hardware Skylab.txt 4 1413 1472 2166 3330 
+examined Skylab.txt 1 2234 
+gyroscopes Skylab.txt 11 4168 4184 4190 4194 4202 4322 4340 4444 4459 4505 6462 
+orbital Skylab.txt 14 397 1200 2086 2248 2817 2841 3336 3928 3948 4562 5768 7639 8068 8108 
+began Skylab.txt 5 615 3500 3582 6710 7391 
+radiation Skylab.txt 5 3815 3842 4028 4033 5297 
+shuttle Skylab.txt 21 170 543 561 717 2891 3039 4928 5982 6017 6126 6356 6388 6393 6565 6577 6600 7037 7058 7648 7679 7984 
+party Skylab.txt 1 8399 
+difficult Skylab.txt 1 3547 
+raymond Skylab.txt 2 2405 5029 
+cubic Skylab.txt 1 6375 
+effect Skylab.txt 1 8273 
+binoculars Skylab.txt 1 5409 
+discouraged Skylab.txt 1 6103 
+airlock Skylab.txt 3 388 1903 2690 
+numbered Skylab.txt 1 8155 
+off Skylab.txt 2 4353 5687 
+center Skylab.txt 12 1354 1522 2526 3024 4571 7133 7746 7820 8021 8023 8037 8081 
+lunch Skylab.txt 1 3639 
+nevertheless Skylab.txt 1 2077 
+builder Skylab.txt 1 1990 
+contest Skylab.txt 1 2855 
+well Skylab.txt 2 412 2293 
+thought Skylab.txt 1 3995 
+patterns Skylab.txt 1 892 
+command Skylab.txt 3 5806 5809 7715 
+350 Skylab.txt 1 6377 
+position Skylab.txt 2 2933 5730 
+soviet Skylab.txt 1 3387 
+usual Skylab.txt 1 4624 
+bending Skylab.txt 1 3566 
+rocket Skylab.txt 14 64 89 231 735 940 2790 2868 3060 5898 7132 7747 7811 7964 8036 
+less Skylab.txt 2 1077 1306 
+increasingly Skylab.txt 1 1492 
+percent Skylab.txt 1 5658 
+half Skylab.txt 1 5004 
+obtain Skylab.txt 2 2631 3466 
+sources Skylab.txt 1 4074 
+batteries Skylab.txt 1 7025 
+stored Skylab.txt 3 5309 5924 8047 
+paul Skylab.txt 1 4688 
+rotation Skylab.txt 1 4207 
+disturbance Skylab.txt 1 4292 
+density Skylab.txt 1 6257 
+logged Skylab.txt 1 3426 
+wet Skylab.txt 7 1598 1603 1712 1864 2026 2357 3555 
+5 Skylab.txt 6 3893 5993 7727 7793 7824 7827 
+283 Skylab.txt 1 6686 
+unprecedented Skylab.txt 1 151 
+tests Skylab.txt 1 3641 
+increased Skylab.txt 2 6865 6879 
+ample Skylab.txt 2 2753 6381 
+five Skylab.txt 6 1124 1271 3292 3977 6355 6778 
+deployment Skylab.txt 3 2964 3004 6516 
+immediately Skylab.txt 1 3015 
+269 Skylab.txt 1 6681 
+coincidence Skylab.txt 1 7570 
+loss Skylab.txt 1 2967 
+necessary Skylab.txt 2 48 908 
+like Skylab.txt 2 5006 8316 
+lost Skylab.txt 1 2984 
+tons Skylab.txt 1 6980 
+controllers Skylab.txt 4 576 5671 7014 7355 
+become Skylab.txt 1 1491 
+conrad Skylab.txt 2 4529 8185 
+soft Skylab.txt 1 4748 
+replacement Skylab.txt 1 348 
+because Skylab.txt 6 1715 3479 3914 5732 6340 6863 
+dissipating Skylab.txt 1 4993 
+platforms Skylab.txt 1 1046 
+gave Skylab.txt 2 6258 7048 
+refill Skylab.txt 1 6173 
+transport Skylab.txt 1 188 
+competitor Skylab.txt 1 2120 
+avoid Skylab.txt 1 1935 
+hurricane Skylab.txt 1 3803 
+overlap Skylab.txt 1 6012 
+14th Skylab.txt 1 7347 
+2,588-cubic-foot Skylab.txt 1 2670 
+hose Skylab.txt 4 4605 4648 4731 5133 
+inaccurate Skylab.txt 1 6906 
+reaching Skylab.txt 1 1678 
+pressure Skylab.txt 1 8309 
+host Skylab.txt 1 7514 
+although Skylab.txt 13 1003 1473 2123 2317 2435 2641 3507 3739 6491 6791 6952 7026 7248 
+targeting Skylab.txt 1 3042 
+stage Skylab.txt 18 1022 1231 1553 1619 1642 1653 1683 1784 1874 1994 2016 2051 2858 2864 2871 2920 6750 7604 
+gained Skylab.txt 1 3335 
+about Skylab.txt 15 1123 1329 2444 2546 3427 4342 4712 5000 5656 5911 6181 6625 6964 7433 7458 
+actual Skylab.txt 2 2857 5470 
+carried Skylab.txt 5 218 1546 3787 5274 5281 
+extension Skylab.txt 1 1537 
+freedom Skylab.txt 2 722 7663 
+s-iv Skylab.txt 3 2015 2342 2823 
+s-ii Skylab.txt 7 1640 1681 1732 1783 2328 2366 6749 
+s-ic Skylab.txt 1 2364 
+software Skylab.txt 3 5613 5643 5787 
+own Skylab.txt 1 1190 
+base-8 Skylab.txt 1 5738 
+previously Skylab.txt 1 2457 
+washington Skylab.txt 1 7999 
+functional Skylab.txt 1 4904 
+socks Skylab.txt 1 3573 
+anniversary Skylab.txt 1 8062 
+weather Skylab.txt 2 844 891 
+sl2 Skylab.txt 1 5239 
+ows Skylab.txt 1 2678 
+processor Skylab.txt 1 5627 
+additional Skylab.txt 3 1974 3232 6107 
+1981 Skylab.txt 1 7074 
+museum Skylab.txt 3 4896 7997 8095 
+airline Skylab.txt 2 626 7469 
+building Skylab.txt 3 1182 1861 2464 
+north Skylab.txt 1 6788 
+motor-driven Skylab.txt 1 4416 
+funds Skylab.txt 2 2122 7522 
+hp Skylab.txt 1 5860 
+but Skylab.txt 17 266 2216 2475 2530 2923 3289 3327 3537 4447 4831 5022 6114 6728 7763 7802 7953 8266 
+volume Skylab.txt 3 1941 2470 6379 
+construction Skylab.txt 7 825 1315 2232 2833 3031 3973 6555 
+apollo Skylab.txt 35 221 224 250 374 419 916 1062 1316 1322 1336 1393 1398 1412 1506 1532 1536 1539 2095 2165 2208 2251 2259 2297 2543 2557 2900 2905 4077 4130 4227 5890 6351 6666 7714 7719 
+eat Skylab.txt 1 3590 
+partially Skylab.txt 2 4525 4539 
+5-person Skylab.txt 1 7713 
+made Skylab.txt 8 256 533 1948 2273 3123 6243 6506 6765 
+packard Skylab.txt 1 5859 
+cells Skylab.txt 2 415 1777 
+j Skylab.txt 1 4689 
+as-212 Skylab.txt 1 2867 
+record Skylab.txt 3 498 3373 4088 
+below Skylab.txt 1 2676 
+converted Skylab.txt 1 8311 
+200,000 Skylab.txt 1 7190 
+problem Skylab.txt 1 1786 
+piece Skylab.txt 2 7179 7596 
+minutes Skylab.txt 6 3424 3651 5346 5361 5761 6208 
+display Skylab.txt 7 5724 5758 5773 7127 7815 7990 8099 
+utensils Skylab.txt 1 3615 
+periods Skylab.txt 1 3494 
+our Skylab.txt 2 4405 4844 
+functions Skylab.txt 2 135 5464 
+compared Skylab.txt 2 182 8369 
+variety Skylab.txt 4 1467 3878 3884 5245 
+corporation Skylab.txt 1 2803 
+re-using Skylab.txt 1 6066 
+45 Skylab.txt 1 1575 
+42 Skylab.txt 2 2218 3420 
+40 Skylab.txt 2 4157 5408 
+other Skylab.txt 15 3 46 303 747 1276 3662 3748 4477 5503 5750 5922 6019 6568 6635 8056 
+special Skylab.txt 1 7265 
+jamming Skylab.txt 1 301 
+canada Skylab.txt 1 6945 
+francisco Skylab.txt 2 7170 7561 
+star Skylab.txt 1 4489 
+juno Skylab.txt 2 4032 4037 
+june Skylab.txt 3 2184 3398 5232 
+stay Skylab.txt 1 6001 
+stan Skylab.txt 1 7537 
+m.d Skylab.txt 1 8305 
+exposure Skylab.txt 1 6443 
+127,000 Skylab.txt 1 3435 
+lasted Skylab.txt 1 3403 
+rule Skylab.txt 1 5874 
+portion Skylab.txt 1 8070 

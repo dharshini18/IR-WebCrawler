@@ -1,0 +1,1070 @@
+limited Lunar_effect.txt 1 655 
+all Lunar_effect.txt 4 20 587 629 2590 
+similarity Lunar_effect.txt 1 259 
+caused Lunar_effect.txt 2 1024 2829 
+broaden Lunar_effect.txt 1 2746 
+doubts Lunar_effect.txt 1 2097 
+results Lunar_effect.txt 4 604 660 1220 1297 
+deliveries Lunar_effect.txt 3 391 430 436 
+month Lunar_effect.txt 2 1180 2732 
+four Lunar_effect.txt 2 1238 1699 
+archaeologists Lunar_effect.txt 1 2591 
+mental-health Lunar_effect.txt 1 769 
+sleep Lunar_effect.txt 14 1320 1345 1359 1392 1436 1444 1491 1496 1511 1527 1543 1608 1622 1640 
+tomioka Lunar_effect.txt 1 2930 
+attentive Lunar_effect.txt 1 2094 
+n33 Lunar_effect.txt 1 1576 
+revealed Lunar_effect.txt 4 442 466 1243 2707 
+children Lunar_effect.txt 2 1616 1634 
+relationships Lunar_effect.txt 2 1234 2370 
+whose Lunar_effect.txt 2 2183 2660 
+misread Lunar_effect.txt 1 2684 
+voter Lunar_effect.txt 1 1151 
+depend Lunar_effect.txt 1 81 
+disorders Lunar_effect.txt 1 735 
+physiological Lunar_effect.txt 2 65 2850 
+posteriori Lunar_effect.txt 1 1472 
+arid Lunar_effect.txt 1 2642 
+to Lunar_effect.txt 63 48 163 232 255 394 416 438 449 494 539 541 576 586 617 688 760 790 885 892 899 976 1049 1056 1093 1105 1182 1190 1210 1257 1395 1415 1475 1501 1540 1670 1728 1733 1738 1828 1833 1900 1925 1971 2091 2113 2175 2198 2217 2235 2285 2296 2303 2378 2432 2447 2567 2585 2599 2647 2723 2745 2806 2863 
+charge Lunar_effect.txt 1 2838 
+reptiles Lunar_effect.txt 2 1808 1816 
+spain Lunar_effect.txt 1 564 
+rhythm Lunar_effect.txt 1 1356 
+under Lunar_effect.txt 1 1365 
+analogous Lunar_effect.txt 1 2178 
+include Lunar_effect.txt 2 2041 2606 
+endogenous Lunar_effect.txt 1 1531 
+resources Lunar_effect.txt 1 2657 
+stabbings Lunar_effect.txt 1 1017 
+confirmation Lunar_effect.txt 1 2309 
+risk Lunar_effect.txt 1 551 
+very Lunar_effect.txt 1 2211 
+role Lunar_effect.txt 1 2383 
+rise Lunar_effect.txt 1 916 
+5-minute Lunar_effect.txt 1 1637 
+gestation Lunar_effect.txt 1 397 
+spate Lunar_effect.txt 1 1015 
+circalunar Lunar_effect.txt 1 1403 
+fall Lunar_effect.txt 1 1502 
+labor Lunar_effect.txt 1 376 
+trouble Lunar_effect.txt 1 894 
+grunion Lunar_effect.txt 1 1678 
+categories Lunar_effect.txt 2 2952 2954 
+common Lunar_effect.txt 1 2148 
+delivery Lunar_effect.txt 1 2939 
+approximately-monthly Lunar_effect.txt 1 97 
+presented Lunar_effect.txt 1 1351 
+did Lunar_effect.txt 2 354 1294 
+turns Lunar_effect.txt 1 1125 
+equipped Lunar_effect.txt 1 2519 
+laying Lunar_effect.txt 1 1695 
+bright Lunar_effect.txt 1 2914 
+21799812 Lunar_effect.txt 1 2492 
+large Lunar_effect.txt 1 2156 
+these Lunar_effect.txt 4 1223 1518 1968 2709 
+adjust Lunar_effect.txt 1 2011 
+red Lunar_effect.txt 1 1894 
+team Lunar_effect.txt 2 561 640 
+small Lunar_effect.txt 2 1575 2648 
+biological Lunar_effect.txt 2 1865 2048 
+guy Lunar_effect.txt 1 1133 
+nonschizophrenic Lunar_effect.txt 1 763 
+concluded Lunar_effect.txt 2 912 1658 
+smaller Lunar_effect.txt 1 2826 
+force Lunar_effect.txt 4 910 930 2169 2207 
+occurrence Lunar_effect.txt 1 859 
+periodicity Lunar_effect.txt 2 1772 2595 
+bleeding Lunar_effect.txt 1 578 
+eeg-assessed Lunar_effect.txt 1 1509 
+poets Lunar_effect.txt 1 9 
+inland Lunar_effect.txt 2 2635 2742 
+tanzania Lunar_effect.txt 1 2536 
+rate Lunar_effect.txt 7 271 304 322 448 471 525 2058 
+street Lunar_effect.txt 1 694 
+pmc Lunar_effect.txt 1 2489 
+clotting Lunar_effect.txt 1 680 
+further Lunar_effect.txt 2 2350 2787 
+dynamics Lunar_effect.txt 1 1142 
+air Lunar_effect.txt 3 2831 2834 2875 
+fear Lunar_effect.txt 2 2400 2467 
+depression Lunar_effect.txt 1 2867 
+creatures Lunar_effect.txt 1 18 
+even Lunar_effect.txt 1 1544 
+cues Lunar_effect.txt 2 84 1378 
+darkness Lunar_effect.txt 2 2402 2469 
+clock Lunar_effect.txt 1 1866 
+waning Lunar_effect.txt 1 1960 
+sun Lunar_effect.txt 1 1750 
+section Lunar_effect.txt 1 344 
+slight Lunar_effect.txt 1 2824 
+while Lunar_effect.txt 1 2588 
+fatalities Lunar_effect.txt 2 1068 1085 
+assembled Lunar_effect.txt 1 2423 
+spokesman Lunar_effect.txt 1 696 
+collecting Lunar_effect.txt 1 2717 
+new Lunar_effect.txt 7 289 1005 1184 1710 1758 1857 1905 
+ever Lunar_effect.txt 4 29 2422 2528 2597 
+8,142 Lunar_effect.txt 1 335 
+70,000,000 Lunar_effect.txt 1 456 
+body Lunar_effect.txt 2 1851 2226 
+evolving Lunar_effect.txt 1 2507 
+full Lunar_effect.txt 28 37 293 545 583 615 672 719 749 924 945 971 1000 1090 1146 1192 1341 1479 1626 1644 1708 1761 1937 2115 2319 2337 2471 2564 2798 
+hominins Lunar_effect.txt 1 2499 
+gathered Lunar_effect.txt 1 1983 
+loose Lunar_effect.txt 1 1951 
+testis Lunar_effect.txt 1 1769 
+behaviour Lunar_effect.txt 2 2136 2143 
+reported Lunar_effect.txt 6 281 491 565 1030 1653 2062 
+fractious Lunar_effect.txt 1 985 
+i.e Lunar_effect.txt 2 736 1756 
+november Lunar_effect.txt 1 2018 
+appears Lunar_effect.txt 1 1120 
+shellfish Lunar_effect.txt 3 2659 2716 2772 
+dry Lunar_effect.txt 1 2641 
+great Lunar_effect.txt 1 2187 
+hunting Lunar_effect.txt 2 2435 2439 
+33 Lunar_effect.txt 1 1380 
+spontaneous Lunar_effect.txt 3 369 389 2938 
+study Lunar_effect.txt 14 27 755 799 1071 1216 1326 1374 1464 1568 1588 1613 1631 1660 2066 
+studied Lunar_effect.txt 1 1201 
+37 Lunar_effect.txt 1 393 
+experience Lunar_effect.txt 1 960 
+34 Lunar_effect.txt 1 2495 
+suggests Lunar_effect.txt 1 1336 
+amount Lunar_effect.txt 1 88 
+simultaneous Lunar_effect.txt 1 1919 
+resulting Lunar_effect.txt 1 373 
+suggestion Lunar_effect.txt 4 712 2149 2233 2788 
+published Lunar_effect.txt 2 136 147 
+intertidal Lunar_effect.txt 1 2704 
+studies Lunar_effect.txt 16 120 137 148 274 297 480 490 501 512 728 1163 1231 1253 1274 1286 2857 
+11,961 Lunar_effect.txt 1 331 
+king Lunar_effect.txt 1 1011 
+examining Lunar_effect.txt 1 1275 
+followed Lunar_effect.txt 1 904 
+ions Lunar_effect.txt 2 2784 2792 
+explained Lunar_effect.txt 1 2305 
+swanson Lunar_effect.txt 1 2461 
+highly Lunar_effect.txt 1 1367 
+county Lunar_effect.txt 1 1042 
+galpagos Lunar_effect.txt 1 1823 
+decrease Lunar_effect.txt 2 1524 1638 
+non-rapid Lunar_effect.txt 1 1441 
+movement Lunar_effect.txt 1 1443 
+suicides Lunar_effect.txt 1 1281 
+refugia Lunar_effect.txt 1 2653 
+total Lunar_effect.txt 1 1510 
+witnessed Lunar_effect.txt 1 2084 
+market Lunar_effect.txt 1 1160 
+sky Lunar_effect.txt 2 835 848 
+behaviors Lunar_effect.txt 1 1651 
+from Lunar_effect.txt 6 374 459 481 513 958 2242 
+takes Lunar_effect.txt 1 1696 
+would Lunar_effect.txt 2 705 1992 
+positive Lunar_effect.txt 5 500 1296 2783 2791 2839 
+hospital Lunar_effect.txt 3 353 573 636 
+faint Lunar_effect.txt 1 2453 
+two Lunar_effect.txt 3 264 727 1929 
+comparing Lunar_effect.txt 1 582 
+live Lunar_effect.txt 2 332 1820 
+noting Lunar_effect.txt 1 2266 
+6 Lunar_effect.txt 2 510 2482 
+bolstered Lunar_effect.txt 1 2351 
+markets Lunar_effect.txt 1 1169 
+reflects Lunar_effect.txt 1 111 
+more Lunar_effect.txt 9 690 753 887 984 1084 1726 2220 2359 2366 
+menstrual Lunar_effect.txt 3 215 236 249 
+modification Lunar_effect.txt 1 1648 
+african Lunar_effect.txt 3 2427 2478 2503 
+company Lunar_effect.txt 1 1140 
+innate Lunar_effect.txt 1 2399 
+stone Lunar_effect.txt 1 2616 
+aware Lunar_effect.txt 2 1469 1555 
+admissions Lunar_effect.txt 3 574 637 650 
+visual Lunar_effect.txt 1 1106 
+bipedal Lunar_effect.txt 1 2498 
+2011ploso...622285p Lunar_effect.txt 1 2486 
+known Lunar_effect.txt 2 113 2166 
+five-day Lunar_effect.txt 1 1901 
+cases Lunar_effect.txt 2 76 93 
+aligned Lunar_effect.txt 1 1755 
+potential Lunar_effect.txt 2 1427 2509 
+had Lunar_effect.txt 1 1255 
+abundance Lunar_effect.txt 1 2795 
+sample Lunar_effect.txt 2 1577 1591 
+account Lunar_effect.txt 2 2201 2236 
+1995 Lunar_effect.txt 1 402 
+1994 Lunar_effect.txt 1 378 
+1997 Lunar_effect.txt 1 415 
+synchronizes Lunar_effect.txt 1 2109 
+this Lunar_effect.txt 15 154 593 825 903 1197 1206 1717 1896 2192 2231 2299 2569 2674 2802 2811 
+science Lunar_effect.txt 1 1139 
+work Lunar_effect.txt 1 2284 
+worm Lunar_effect.txt 1 1941 
+polynesia Lunar_effect.txt 1 1950 
+reviews Lunar_effect.txt 1 160 
+bias Lunar_effect.txt 2 1428 2310 
+incidents Lunar_effect.txt 1 943 
+can Lunar_effect.txt 1 1357 
+superstitions Lunar_effect.txt 1 2578 
+believed Lunar_effect.txt 2 222 2377 
+arrive Lunar_effect.txt 1 1834 
+averages Lunar_effect.txt 1 239 
+example Lunar_effect.txt 1 2260 
+performed Lunar_effect.txt 1 2404 
+control Lunar_effect.txt 2 2035 2394 
+claim Lunar_effect.txt 3 2103 2295 2815 
+president Lunar_effect.txt 1 1135 
+distractions Lunar_effect.txt 1 1107 
+synchronized Lunar_effect.txt 1 1867 
+attribute Lunar_effect.txt 1 2579 
+suggestions Lunar_effect.txt 1 1563 
+accept Lunar_effect.txt 1 2592 
+1980s Lunar_effect.txt 1 130 
+professor Lunar_effect.txt 1 1347 
+something Lunar_effect.txt 1 2314 
+allowed Lunar_effect.txt 1 156 
+cows Lunar_effect.txt 2 2060 2941 
+exclude Lunar_effect.txt 1 1416 
+times Lunar_effect.txt 3 2026 2718 2728 
+species Lunar_effect.txt 1 2106 
+fearsome Lunar_effect.txt 2 2514 2580 
+terrestrial Lunar_effect.txt 1 2752 
+influenced Lunar_effect.txt 1 1150 
+5.3 Lunar_effect.txt 1 1083 
+varied Lunar_effect.txt 1 1393 
+167,956 Lunar_effect.txt 1 388 
+1 Lunar_effect.txt 1 283 
+methodology Lunar_effect.txt 1 594 
+night-vision Lunar_effect.txt 1 2522 
+ucla Lunar_effect.txt 1 352 
+influences Lunar_effect.txt 3 857 1212 2937 
+significance Lunar_effect.txt 1 601 
+occur Lunar_effect.txt 1 2335 
+electroencephalographic Lunar_effect.txt 1 1438 
+faulty Lunar_effect.txt 1 1570 
+honeybees Lunar_effect.txt 1 1854 
+ikanda Lunar_effect.txt 1 2463 
+stock Lunar_effect.txt 2 1159 1168 
+confounding Lunar_effect.txt 1 1417 
+crashes Lunar_effect.txt 1 1078 
+may Lunar_effect.txt 6 80 1207 1400 1843 2040 2570 
+after Lunar_effect.txt 2 1462 1933 
+communal Lunar_effect.txt 1 2356 
+reflect Lunar_effect.txt 1 1401 
+united Lunar_effect.txt 1 1141 
+thirty-seven Lunar_effect.txt 1 1230 
+blood Lunar_effect.txt 4 529 558 679 1802 
+date Lunar_effect.txt 1 1884 
+such Lunar_effect.txt 9 85 94 758 783 1419 2038 2160 2868 2886 
+law Lunar_effect.txt 1 867 
+data Lunar_effect.txt 3 770 1054 2526 
+types Lunar_effect.txt 1 2865 
+a Lunar_effect.txt 66 31 116 202 227 282 292 308 346 452 507 566 671 695 752 772 798 803 915 925 939 947 966 1014 1029 1070 1089 1227 1270 1303 1323 1337 1354 1371 1410 1523 1573 1586 1611 1618 1629 1636 1719 1778 1864 1883 1931 1936 1959 1963 1987 2050 2064 2105 2147 2164 2186 2194 2228 2258 2276 2318 2460 2550 2786 2797 2813 
+dangers Lunar_effect.txt 1 2581 
+refuse Lunar_effect.txt 1 540 
+hannover Lunar_effect.txt 1 441 
+natural Lunar_effect.txt 1 336 
+effective Lunar_effect.txt 1 683 
+light Lunar_effect.txt 2 1422 2915 
+counter Lunar_effect.txt 1 893 
+acknowledged Lunar_effect.txt 1 641 
+10.1371/journal.pone.0022285 Lunar_effect.txt 1 2488 
+predatory Lunar_effect.txt 1 2409 
+africa Lunar_effect.txt 2 2623 2765 
+correlation Lunar_effect.txt 16 170 319 381 445 468 568 759 806 826 940 1031 1246 1259 1289 1338 1763 
+operate Lunar_effect.txt 3 542 677 716 
+egg Lunar_effect.txt 1 1694 
+order Lunar_effect.txt 2 869 1832 
+se Lunar_effect.txt 1 855 
+nearly Lunar_effect.txt 1 1260 
+therapy Lunar_effect.txt 1 2877 
+evolutionary Lunar_effect.txt 1 2371 
+interpretation Lunar_effect.txt 1 657 
+help Lunar_effect.txt 1 2571 
+indeed Lunar_effect.txt 1 2294 
+over Lunar_effect.txt 2 345 889 
+epilepsy Lunar_effect.txt 3 796 801 866 
+raised Lunar_effect.txt 1 2100 
+years Lunar_effect.txt 3 963 2497 2632 
+produced Lunar_effect.txt 2 165 2898 
+report Lunar_effect.txt 1 1295 
+episodes Lunar_effect.txt 1 746 
+scientist Lunar_effect.txt 1 1657 
+including Lunar_effect.txt 3 72 2516 2658 
+motorcycle Lunar_effect.txt 1 1067 
+statistical Lunar_effect.txt 3 600 1065 1266 
+affect Lunar_effect.txt 2 1795 1844 
+argued Lunar_effect.txt 1 1165 
+gastrointestinal Lunar_effect.txt 1 577 
+birds Lunar_effect.txt 1 1809 
+iguanas Lunar_effect.txt 1 1818 
+regions Lunar_effect.txt 1 2636 
+ephedra Lunar_effect.txt 1 2108 
+27 Lunar_effect.txt 1 623 
+police Lunar_effect.txt 9 686 872 909 929 948 967 987 2269 2291 
+21 Lunar_effect.txt 1 479 
+tidal Lunar_effect.txt 3 2122 2168 2206 
+28 Lunar_effect.txt 1 240 
+29 Lunar_effect.txt 1 610 
+writing Lunar_effect.txt 1 197 
+late Lunar_effect.txt 1 129 
+parts Lunar_effect.txt 2 1969 1981 
+compelling Lunar_effect.txt 1 1662 
+2015 Lunar_effect.txt 1 1612 
+decreased Lunar_effect.txt 1 1497 
+weeks Lunar_effect.txt 1 396 
+2016 Lunar_effect.txt 3 1630 2065 2934 
+might Lunar_effect.txt 3 1102 1148 2687 
+setting Lunar_effect.txt 1 1412 
+told Lunar_effect.txt 1 954 
+coincidental Lunar_effect.txt 1 269 
+then Lunar_effect.txt 1 2739 
+evening Lunar_effect.txt 1 2560 
+curtis Lunar_effect.txt 1 2607 
+greater Lunar_effect.txt 1 2894 
+food Lunar_effect.txt 1 1989 
+similar Lunar_effect.txt 2 1911 2911 
+hormones Lunar_effect.txt 1 1450 
+records Lunar_effect.txt 2 329 458 
+1957 Lunar_effect.txt 1 309 
+course Lunar_effect.txt 1 2281 
+effects Lunar_effect.txt 4 784 1418 2086 2907 
+they Lunar_effect.txt 4 704 713 882 895 
+half Lunar_effect.txt 3 1177 1188 1261 
+not Lunar_effect.txt 19 104 338 355 676 682 715 786 850 1048 1199 1318 1548 1554 1668 2323 2334 2341 2589 2816 
+speculate Lunar_effect.txt 1 1098 
+1959 Lunar_effect.txt 1 278 
+day Lunar_effect.txt 3 609 814 2253 
+presidential Lunar_effect.txt 1 1157 
+term Lunar_effect.txt 1 44 
+brightness Lunar_effect.txt 1 844 
+edit Lunar_effect.txt 24 185 199 212 272 531 723 726 797 870 1069 1128 1161 1226 1322 1676 2069 2121 2123 2372 2785 2922 2924 2948 2951 
+january Lunar_effect.txt 1 1003 
+university Lunar_effect.txt 1 1331 
+n Lunar_effect.txt 1 2933 
+matsuki Lunar_effect.txt 1 2932 
+theory Lunar_effect.txt 1 2128 
+magnitude Lunar_effect.txt 1 2893 
+conflict Lunar_effect.txt 1 2510 
+each Lunar_effect.txt 2 505 1301 
+found Lunar_effect.txt 23 30 168 192 299 317 729 756 771 802 1044 1079 1218 1249 1287 1310 1385 1483 1600 1617 1635 1774 2425 2908 
+higher Lunar_effect.txt 1 1174 
+excavations Lunar_effect.txt 1 2611 
+mean Lunar_effect.txt 1 809 
+shock Lunar_effect.txt 1 2856 
+mental Lunar_effect.txt 2 724 734 
+weight Lunar_effect.txt 1 1852 
+1974-1978 Lunar_effect.txt 1 349 
+frequency Lunar_effect.txt 1 2822 
+idea Lunar_effect.txt 1 2605 
+related Lunar_effect.txt 3 788 1319 1727 
+circadian Lunar_effect.txt 1 1372 
+literature Lunar_effect.txt 2 159 1308 
+static Lunar_effect.txt 1 2854 
+year Lunar_effect.txt 2 1932 1967 
+laboratory Lunar_effect.txt 2 1373 1407 
+beyond Lunar_effect.txt 1 2883 
+event Lunar_effect.txt 2 1991 2007 
+special Lunar_effect.txt 1 1988 
+out Lunar_effect.txt 3 276 934 1328 
+living Lunar_effect.txt 2 17 68 
+shown Lunar_effect.txt 3 254 938 2859 
+n1366 Lunar_effect.txt 1 1593 
+driving Lunar_effect.txt 1 2387 
+ritual Lunar_effect.txt 1 1686 
+restricted Lunar_effect.txt 1 2646 
+furthermore Lunar_effect.txt 1 2329 
+since Lunar_effect.txt 1 2152 
+research Lunar_effect.txt 3 905 932 953 
+increase Lunar_effect.txt 5 285 1101 1620 2793 2820 
+believers Lunar_effect.txt 3 2124 2254 2348 
+contained Lunar_effect.txt 1 1262 
+health Lunar_effect.txt 1 464 
+7 Lunar_effect.txt 2 482 2483 
+suggesting Lunar_effect.txt 1 839 
+cajochen Lunar_effect.txt 3 1348 1534 1567 
+induced Lunar_effect.txt 2 339 375 
+occurs Lunar_effect.txt 1 1876 
+announced Lunar_effect.txt 1 877 
+predicted Lunar_effect.txt 1 1994 
+dataset Lunar_effect.txt 1 2418 
+perception Lunar_effect.txt 1 1430 
+belief Lunar_effect.txt 5 184 189 2072 2347 2354 
+upon Lunar_effect.txt 1 2556 
+contain Lunar_effect.txt 1 2185 
+mechanisms Lunar_effect.txt 1 2132 
+treatments Lunar_effect.txt 2 2887 2912 
+extraordinary Lunar_effect.txt 1 33 
+affective Lunar_effect.txt 1 2871 
+necessarily Lunar_effect.txt 1 787 
+california Lunar_effect.txt 1 1677 
+york Lunar_effect.txt 1 290 
+besides Lunar_effect.txt 1 2230 
+ohio Lunar_effect.txt 1 989 
+put Lunar_effect.txt 1 689 
+stringently Lunar_effect.txt 1 1405 
+rises Lunar_effect.txt 1 995 
+beginning Lunar_effect.txt 1 1702 
+care Lunar_effect.txt 1 2095 
+cycles Lunar_effect.txt 1 265 
+benefits Lunar_effect.txt 1 2882 
+created Lunar_effect.txt 1 1108 
+could Lunar_effect.txt 3 714 1021 2140 
+3,706 Lunar_effect.txt 1 368 
+diminished Lunar_effect.txt 1 1530 
+days Lunar_effect.txt 5 241 585 590 618 1930 
+british Lunar_effect.txt 1 664 
+david Lunar_effect.txt 2 666 2255 
+length Lunar_effect.txt 1 261 
+cramer Lunar_effect.txt 1 1134 
+twenty Lunar_effect.txt 2 1273 1285 
+ionic Lunar_effect.txt 1 2837 
+south Lunar_effect.txt 2 2622 2764 
+pseudo-scientific Lunar_effect.txt 1 2814 
+phylogenesis Lunar_effect.txt 1 1849 
+number Lunar_effect.txt 5 118 634 648 810 1037 
+one Lunar_effect.txt 7 560 607 1265 1546 1927 2481 2943 
+3140494 Lunar_effect.txt 1 2490 
+gardeners Lunar_effect.txt 1 2093 
+ecology Lunar_effect.txt 1 2476 
+occurrences Lunar_effect.txt 1 2331 
+directly Lunar_effect.txt 1 789 
+spanish Lunar_effect.txt 1 639 
+clarity Lunar_effect.txt 1 831 
+quality Lunar_effect.txt 4 1321 1346 1528 1609 
+size Lunar_effect.txt 2 1578 2748 
+seizures Lunar_effect.txt 2 812 862 
+ancient Lunar_effect.txt 1 194 
+heads Lunar_effect.txt 2 708 2610 
+likely Lunar_effect.txt 2 268 2302 
+similarly Lunar_effect.txt 2 517 1268 
+together Lunar_effect.txt 1 592 
+valley Lunar_effect.txt 1 2505 
+least Lunar_effect.txt 3 134 145 1264 
+t Lunar_effect.txt 1 2927 
+their Lunar_effect.txt 8 707 1826 1918 1956 2012 2263 2283 2353 
+returns Lunar_effect.txt 1 1171 
+exercise Lunar_effect.txt 1 2218 
+danville Lunar_effect.txt 1 315 
+scant Lunar_effect.txt 1 1813 
+cycle Lunar_effect.txt 17 61 98 174 216 237 362 428 614 627 654 902 1028 1538 1842 2414 2902 2936 
+excellent Lunar_effect.txt 1 2521 
+fraction Lunar_effect.txt 1 817 
+relationship Lunar_effect.txt 5 228 407 493 522 2051 
+that Lunar_effect.txt 48 223 486 498 536 642 669 731 761 821 840 856 881 911 957 1013 1080 1099 1144 1166 1232 1250 1254 1293 1311 1353 1386 1484 1564 1664 1724 1942 2034 2073 2104 2151 2196 2267 2288 2332 2426 2442 2547 2593 2626 2790 2801 2828 2860 
+foragers Lunar_effect.txt 1 2719 
+relative Lunar_effect.txt 1 1474 
+orange-spotted Lunar_effect.txt 1 1791 
+larger Lunar_effect.txt 1 1590 
+part Lunar_effect.txt 1 1954 
+predictable Lunar_effect.txt 1 423 
+western Lunar_effect.txt 1 2761 
+authors Lunar_effect.txt 3 1097 1204 1248 
+july Lunar_effect.txt 3 1324 1908 2118 
+believe Lunar_effect.txt 1 896 
+undoubtedly Lunar_effect.txt 1 969 
+than Lunar_effect.txt 7 1186 1730 2031 2227 2827 2853 2895 
+wide Lunar_effect.txt 1 644 
+13 Lunar_effect.txt 1 621 
+12 Lunar_effect.txt 1 620 
+gradual Lunar_effect.txt 1 2693 
+correlate Lunar_effect.txt 2 356 1739 
+showed Lunar_effect.txt 6 379 405 421 485 518 2546 
+19 Lunar_effect.txt 1 962 
+require Lunar_effect.txt 1 2888 
+schizophrenia Lunar_effect.txt 1 737 
+spokeswoman Lunar_effect.txt 1 926 
+patients Lunar_effect.txt 1 782 
+determined Lunar_effect.txt 1 1885 
+were Lunar_effect.txt 12 132 502 883 1082 1298 1413 1454 1465 1520 1652 2506 2640 
+asleep Lunar_effect.txt 1 1503 
+anatomically Lunar_effect.txt 1 2627 
+sperm Lunar_effect.txt 2 1922 1976 
+result Lunar_effect.txt 1 1060 
+exhibit Lunar_effect.txt 1 739 
+illness Lunar_effect.txt 1 725 
+pollination Lunar_effect.txt 1 2111 
+well Lunar_effect.txt 2 5 1720 
+modern Lunar_effect.txt 2 2628 2774 
+1.8 Lunar_effect.txt 1 740 
+sad Lunar_effect.txt 1 2873 
+tide Lunar_effect.txt 1 1837 
+substantial Lunar_effect.txt 1 2700 
+sundown Lunar_effect.txt 1 1934 
+have Lunar_effect.txt 22 10 121 167 190 205 298 630 687 992 1022 1057 1149 1164 1198 1680 2087 2098 2176 2274 2379 2689 2858 
+need Lunar_effect.txt 1 2389 
+my Lunar_effect.txt 1 959 
+seem Lunar_effect.txt 2 975 1669 
+any Lunar_effect.txt 2 358 2896 
+contents Lunar_effect.txt 1 180 
+relatively Lunar_effect.txt 1 1574 
+lamellina Lunar_effect.txt 1 1875 
+nights Lunar_effect.txt 4 1087 1095 1701 1705 
+studying Lunar_effect.txt 1 1379 
+responsible Lunar_effect.txt 1 950 
+officers Lunar_effect.txt 4 873 888 2270 2292 
+onset Lunar_effect.txt 1 250 
+majority Lunar_effect.txt 1 488 
+subjects Lunar_effect.txt 1 1382 
+take Lunar_effect.txt 1 2199 
+which Lunar_effect.txt 6 166 238 628 1782 1819 2134 
+objective Lunar_effect.txt 1 1389 
+so Lunar_effect.txt 1 2574 
+spawns Lunar_effect.txt 1 1783 
+many Lunar_effect.txt 3 2268 2575 2890 
+province Lunar_effect.txt 1 2763 
+regard Lunar_effect.txt 1 2862 
+multiple Lunar_effect.txt 1 296 
+electric Lunar_effect.txt 1 2855 
+lion Lunar_effect.txt 2 2420 2531 
+deploy Lunar_effect.txt 1 886 
+eggs Lunar_effect.txt 2 1924 1978 
+measures Lunar_effect.txt 2 1390 1431 
+fails Lunar_effect.txt 1 2197 
+metrics Lunar_effect.txt 1 1610 
+most Lunar_effect.txt 5 267 1282 2301 2445 2712 
+29.5-day Lunar_effect.txt 1 59 
+significant Lunar_effect.txt 6 32 444 773 804 1245 2881 
+phase Lunar_effect.txt 19 325 384 410 474 496 528 571 853 1034 1279 1397 1477 1560 1606 1735 1743 1888 2245 2672 
+hormonal Lunar_effect.txt 2 1765 1845 
+measured Lunar_effect.txt 1 1364 
+why Lunar_effect.txt 1 2573 
+zealand Lunar_effect.txt 1 1006 
+million Lunar_effect.txt 1 2496 
+volunteers Lunar_effect.txt 1 1466 
+especially Lunar_effect.txt 1 1112 
+meta-analyses Lunar_effect.txt 2 162 1225 
+average Lunar_effect.txt 1 1170 
+sometimes Lunar_effect.txt 1 534 
+nighttime Lunar_effect.txt 2 1077 2391 
+counted Lunar_effect.txt 1 2342 
+1,000 Lunar_effect.txt 1 2530 
+place Lunar_effect.txt 1 1697 
+tredinnick Lunar_effect.txt 2 667 2256 
+senior Lunar_effect.txt 1 871 
+mating Lunar_effect.txt 1 1683 
+photosensitive Lunar_effect.txt 1 865 
+fact Lunar_effect.txt 1 2210 
+phenomenon Lunar_effect.txt 1 2165 
+show Lunar_effect.txt 1 1258 
+insects Lunar_effect.txt 1 1839 
+supported Lunar_effect.txt 1 1051 
+sabre-toothed Lunar_effect.txt 1 2517 
+planning Lunar_effect.txt 1 884 
+inconsistent Lunar_effect.txt 2 503 1299 
+yonezawa Lunar_effect.txt 1 2926 
+earth Lunar_effect.txt 3 42 71 1751 
+aggressive Lunar_effect.txt 1 745 
+indicator Lunar_effect.txt 1 1493 
+proposed Lunar_effect.txt 1 2119 
+justice Lunar_effect.txt 1 1008 
+spinefoot Lunar_effect.txt 2 1777 1792 
+explain Lunar_effect.txt 1 2572 
+basel Lunar_effect.txt 1 1333 
+controls Lunar_effect.txt 2 1581 1599 
+crime Lunar_effect.txt 2 919 997 
+terminal Lunar_effect.txt 2 1953 1980 
+failed Lunar_effect.txt 1 2234 
+only Lunar_effect.txt 3 580 779 2817 
+n229 Lunar_effect.txt 1 1594 
+generators Lunar_effect.txt 1 2919 
+factor Lunar_effect.txt 1 2039 
+employed Lunar_effect.txt 1 1414 
+local Lunar_effect.txt 2 830 1997 
+carolina Lunar_effect.txt 1 420 
+do Lunar_effect.txt 4 974 2293 2322 2333 
+his Lunar_effect.txt 1 2544 
+lunar-birthrate Lunar_effect.txt 1 152 
+get Lunar_effect.txt 1 977 
+spurious Lunar_effect.txt 1 2369 
+moons Lunar_effect.txt 6 14 946 972 1237 1711 2338 
+background Lunar_effect.txt 1 2675 
+colleagues Lunar_effect.txt 2 1350 2545 
+trees Lunar_effect.txt 1 1123 
+criticized Lunar_effect.txt 1 597 
+ones Lunar_effect.txt 1 1292 
+425e-443 Lunar_effect.txt 1 2782 
+negative Lunar_effect.txt 3 805 2841 2874 
+despite Lunar_effect.txt 1 19 
+timing Lunar_effect.txt 2 110 2037 
+during Lunar_effect.txt 18 543 670 747 1175 1440 1460 1489 1687 1856 1879 1958 2317 2336 2558 2696 2729 2743 2796 
+argues Lunar_effect.txt 1 2625 
+procedures Lunar_effect.txt 1 1066 
+areas Lunar_effect.txt 1 2701 
+following Lunar_effect.txt 3 209 291 2563 
+evolution Lunar_effect.txt 3 2386 2601 2780 
+pinnacle Lunar_effect.txt 2 2620 2757 
+countries Lunar_effect.txt 2 484 516 
+h Lunar_effect.txt 1 2464 
+reliant Lunar_effect.txt 1 2654 
+marine Lunar_effect.txt 2 1817 2656 
+streamlined Lunar_effect.txt 1 1776 
+activity Lunar_effect.txt 3 1439 1488 1650 
+switzerland Lunar_effect.txt 1 1335 
+through Lunar_effect.txt 3 557 1045 2355 
+fertility Lunar_effect.txt 2 211 230 
+explanations Lunar_effect.txt 1 2120 
+ignored Lunar_effect.txt 1 2682 
+set Lunar_effect.txt 2 2004 2527 
+seas Lunar_effect.txt 1 1946 
+national Lunar_effect.txt 1 461 
+correlations Lunar_effect.txt 2 52 1276 
+humans Lunar_effect.txt 10 73 102 126 1362 2436 2448 2534 2557 2629 2680 
+notice Lunar_effect.txt 3 2312 2324 2368 
+around Lunar_effect.txt 6 1124 1478 1785 1903 2630 2651 
+sex Lunar_effect.txt 1 1585 
+schizophrenic Lunar_effect.txt 1 781 
+carnivores Lunar_effect.txt 2 2374 2515 
+see Lunar_effect.txt 3 213 1549 2920 
+college Lunar_effect.txt 1 700 
+are Lunar_effect.txt 18 785 1172 1317 1562 1714 1746 1754 1982 2028 2339 2349 2375 2429 2444 2706 2710 2736 2905 
+sea Lunar_effect.txt 2 1830 1895 
+calendar Lunar_effect.txt 1 2002 
+nocturnal Lunar_effect.txt 2 2373 2475 
+seems Lunar_effect.txt 1 1539 
+165,000 Lunar_effect.txt 1 2631 
+phases Lunar_effect.txt 7 307 365 451 777 1239 1313 1794 
+said Lunar_effect.txt 3 703 931 1535 
+inappropriate Lunar_effect.txt 2 1062 1580 
+review Lunar_effect.txt 4 477 508 1271 1305 
+wikipedia Lunar_effect.txt 1 2 
+sites Lunar_effect.txt 1 2726 
+its Lunar_effect.txt 1 2110 
+between Lunar_effect.txt 22 53 171 245 262 277 302 320 401 469 523 569 807 941 1032 1122 1235 1277 1339 1764 2015 2052 2537 
+consecutive Lunar_effect.txt 1 1700 
+conditions Lunar_effect.txt 2 1369 1408 
+across Lunar_effect.txt 2 2411 2535 
+e0161735 Lunar_effect.txt 1 2945 
+we Lunar_effect.txt 2 973 2403 
+terms Lunar_effect.txt 1 2307 
+cortisol Lunar_effect.txt 1 1453 
+right Lunar_effect.txt 1 2679 
+superior Lunar_effect.txt 1 2906 
+spring Lunar_effect.txt 4 1689 2664 2697 2734 
+nightmarish Lunar_effect.txt 1 2583 
+weak Lunar_effect.txt 2 567 2212 
+however Lunar_effect.txt 5 242 295 1716 2191 2810 
+ionization Lunar_effect.txt 2 2876 2889 
+extent Lunar_effect.txt 1 2287 
+analyzed Lunar_effect.txt 1 1456 
+20 Lunar_effect.txt 2 146 1516 
+abruptly Lunar_effect.txt 1 1121 
+suggested Lunar_effect.txt 2 1012 1131 
+water Lunar_effect.txt 2 2159 2190 
+c Lunar_effect.txt 2 2458 2755 
+rhythms Lunar_effect.txt 1 247 
+country Lunar_effect.txt 1 1020 
+priests Lunar_effect.txt 1 1998 
+hours Lunar_effect.txt 1 2562 
+equal Lunar_effect.txt 1 633 
+attributed Lunar_effect.txt 1 2090 
+trips Lunar_effect.txt 1 1827 
+etc Lunar_effect.txt 1 1126 
+connection Lunar_effect.txt 5 142 153 204 244 301 
+became Lunar_effect.txt 1 2645 
+present Lunar_effect.txt 1 2737 
+context Lunar_effect.txt 1 2767 
+placebo Lunar_effect.txt 1 2884 
+disappears Lunar_effect.txt 1 605 
+experimental Lunar_effect.txt 1 1598 
+and Lunar_effect.txt 84 8 62 64 143 161 175 248 257 279 305 323 334 403 472 497 526 572 598 684 815 849 868 944 990 1035 1055 1063 1119 1221 1240 1280 1290 1314 1343 1349 1388 1398 1446 1452 1461 1508 1529 1552 1579 1584 1596 1654 1684 1690 1709 1752 1770 1810 1909 1923 1949 1974 1977 1999 2017 2019 2055 2213 2249 2272 2290 2397 2424 2441 2473 2511 2539 2543 2577 2582 2643 2708 2714 2738 2773 2800 2833 2848 2903 
+relevant Lunar_effect.txt 1 2598 
+twenty-three Lunar_effect.txt 1 1252 
+point Lunar_effect.txt 3 1459 2621 2758 
+appeared Lunar_effect.txt 1 206 
+surgeons Lunar_effect.txt 3 537 674 702 
+period Lunar_effect.txt 3 348 1902 1912 
+coincidence Lunar_effect.txt 1 108 
+61 Lunar_effect.txt 1 2925 
+cross-sectional Lunar_effect.txt 1 1411 
+unsubstantiated Lunar_effect.txt 1 2082 
+dramatic Lunar_effect.txt 3 2315 2327 2330 
+laugh Lunar_effect.txt 1 706 
+plos Lunar_effect.txt 2 2480 2942 
+asserted Lunar_effect.txt 1 668 
+prominent Lunar_effect.txt 1 2259 
+throughout Lunar_effect.txt 1 651 
+uchida Lunar_effect.txt 1 2928 
+statistically Lunar_effect.txt 1 2880 
+better Lunar_effect.txt 1 1597 
+unusual Lunar_effect.txt 1 1682 
+neaps Lunar_effect.txt 1 2744 
+bbc Lunar_effect.txt 1 956 
+due Lunar_effect.txt 4 231 575 1104 1209 
+been Lunar_effect.txt 9 191 252 596 1023 1058 1200 2088 2099 2690 
+strategy Lunar_effect.txt 1 1723 
+careful Lunar_effect.txt 1 2668 
+pa Lunar_effect.txt 1 316 
+craig Lunar_effect.txt 1 2541 
+expected Lunar_effect.txt 3 2174 2216 2805 
+pmid Lunar_effect.txt 1 2491 
+life Lunar_effect.txt 1 40 
+corresponding Lunar_effect.txt 1 234 
+both Lunar_effect.txt 1 2243 
+drugs Lunar_effect.txt 1 341 
+nrem Lunar_effect.txt 2 1445 1490 
+dangerous Lunar_effect.txt 1 2446 
+sort Lunar_effect.txt 1 980 
+observe Lunar_effect.txt 1 2297 
+lives Lunar_effect.txt 1 1943 
+external Lunar_effect.txt 2 83 2949 
+2014 Lunar_effect.txt 1 1587 
+last Lunar_effect.txt 1 1787 
+an Lunar_effect.txt 9 475 631 766 1492 1681 2077 2177 2381 2405 
+hidden Lunar_effect.txt 1 2953 
+those Lunar_effect.txt 2 732 2602 
+volunteer Lunar_effect.txt 1 1381 
+plants Lunar_effect.txt 2 2068 2080 
+east Lunar_effect.txt 1 2502 
+politician Lunar_effect.txt 1 665 
+contexts Lunar_effect.txt 2 198 210 
+2011 Lunar_effect.txt 1 2466 
+appearance Lunar_effect.txt 1 792 
+kentucky Lunar_effect.txt 1 991 
+2010 Lunar_effect.txt 1 2756 
+will Lunar_effect.txt 1 675 
+near Lunar_effect.txt 3 1116 1624 1642 
+favouring Lunar_effect.txt 1 2603 
+2013 Lunar_effect.txt 2 1325 1566 
+behavior Lunar_effect.txt 11 63 179 722 983 1152 1242 1316 1673 2410 2809 2847 
+error Lunar_effect.txt 1 1267 
+cats Lunar_effect.txt 1 2518 
+13,029 Lunar_effect.txt 1 1073 
+synchronously Lunar_effect.txt 1 1784 
+kingdom Lunar_effect.txt 1 2771 
+30 Lunar_effect.txt 1 1499 
+played Lunar_effect.txt 1 2380 
+almost Lunar_effect.txt 1 632 
+is Lunar_effect.txt 26 220 266 533 681 822 842 897 1115 1553 1569 1718 1725 1732 1812 1897 2081 2150 2193 2208 2300 2452 2549 2678 2789 2812 2818 
+thus Lunar_effect.txt 1 1399 
+it Lunar_effect.txt 8 219 532 841 1114 1129 1481 1731 1736 
+surface Lunar_effect.txt 1 1973 
+according Lunar_effect.txt 2 1394 2566 
+middle Lunar_effect.txt 1 2615 
+conditioning Lunar_effect.txt 1 2832 
+examined Lunar_effect.txt 2 122 1233 
+against Lunar_effect.txt 2 2345 2673 
+in Lunar_effect.txt 69 67 74 91 101 109 193 207 260 286 288 314 357 377 398 418 440 562 646 661 874 878 917 988 996 1002 1018 1040 1076 1153 1269 1334 1361 1409 1429 1525 1621 1639 1649 1674 1767 1775 1790 1800 1807 1821 1831 1838 1848 1892 1907 1913 1944 2024 2063 2067 2117 2125 2203 2209 2279 2306 2352 2384 2500 2508 2766 2794 2821 2940 
+claimed Lunar_effect.txt 2 535 1256 
+if Lunar_effect.txt 3 606 2313 2676 
+13b Lunar_effect.txt 1 2760 
+different Lunar_effect.txt 3 483 515 2131 
+4-year Lunar_effect.txt 1 347 
+sensitive Lunar_effect.txt 1 2431 
+suggest Lunar_effect.txt 2 1205 2129 
+s Lunar_effect.txt 1 1007 
+who Lunar_effect.txt 2 2609 2681 
+linked Lunar_effect.txt 1 898 
+another Lunar_effect.txt 1 1215 
+strange Lunar_effect.txt 1 982 
+widely Lunar_effect.txt 2 221 2376 
+peoples Lunar_effect.txt 1 1672 
+9 Lunar_effect.txt 1 619 
+several Lunar_effect.txt 3 157 1162 2130 
+e22285 Lunar_effect.txt 1 2484 
+epileptic Lunar_effect.txt 1 861 
+used Lunar_effect.txt 1 538 
+temporary Lunar_effect.txt 1 994 
+peaks Lunar_effect.txt 1 1855 
+closest Lunar_effect.txt 2 1181 1189 
+births Lunar_effect.txt 7 287 313 333 337 370 372 414 
+effect Lunar_effect.txt 14 1 34 46 79 124 774 1602 1806 2078 2179 2278 2364 2844 2851 
+ion Lunar_effect.txt 1 2918 
+m Lunar_effect.txt 2 2929 2931 
+levels Lunar_effect.txt 2 1533 1797 
+dark Lunar_effect.txt 1 2561 
+frequently Lunar_effect.txt 1 2688 
+misconception Lunar_effect.txt 1 2195 
+blamed Lunar_effect.txt 1 993 
+recent Lunar_effect.txt 1 754 
+rift Lunar_effect.txt 1 2504 
+safe Lunar_effect.txt 1 2661 
+tracking Lunar_effect.txt 1 2669 
+off Lunar_effect.txt 1 709 
+center Lunar_effect.txt 1 462 
+1978 Lunar_effect.txt 1 1304 
+dade Lunar_effect.txt 1 1041 
+changes Lunar_effect.txt 4 66 1519 1766 1846 
+indonesia Lunar_effect.txt 1 1948 
+1973 Lunar_effect.txt 1 280 
+roughly Lunar_effect.txt 1 58 
+analysis Lunar_effect.txt 9 310 366 411 433 454 767 1047 1473 2407 
+ocean Lunar_effect.txt 1 2163 
+thought Lunar_effect.txt 1 11 
+patterns Lunar_effect.txt 1 2298 
+without Lunar_effect.txt 1 1376 
+claims Lunar_effect.txt 3 200 1224 2264 
+the Lunar_effect.txt 197 13 22 36 43 57 77 87 96 107 123 128 139 150 172 183 188 208 217 224 233 258 263 324 327 351 361 385 426 460 487 499 544 549 555 599 603 612 625 638 643 647 652 656 659 685 693 698 711 718 748 791 794 808 816 819 829 833 843 846 851 858 890 900 907 921 928 952 955 999 1019 1026 1036 1053 1059 1096 1100 1110 1117 1137 1145 1154 1167 1176 1179 1183 1187 1191 1194 1203 1236 1247 1284 1291 1307 1330 1340 1366 1383 1426 1449 1463 1471 1536 1550 1557 1565 1604 1625 1643 1655 1665 1688 1693 1704 1707 1741 1749 1768 1786 1796 1801 1822 1829 1840 1850 1859 1869 1880 1887 1890 1893 1898 1904 1910 1939 1945 1952 1972 1979 1990 1996 2000 2006 2009 2032 2036 2053 2056 2070 2074 2085 2102 2114 2126 2135 2138 2142 2153 2162 2170 2205 2224 2232 2238 2244 2247 2250 2280 2286 2346 2358 2363 2365 2388 2393 2412 2416 2450 2456 2470 2474 2501 2524 2559 2586 2604 2613 2638 2685 2703 2711 2730 2747 2750 2768 2819 2900 
+bibcode Lunar_effect.txt 1 2485 
+researchers Lunar_effect.txt 1 1384 
+seasonal Lunar_effect.txt 1 2870 
+summer Lunar_effect.txt 3 891 1691 1881 
+cave Lunar_effect.txt 1 2759 
+protocol Lunar_effect.txt 1 1375 
+aerospace Lunar_effect.txt 1 1138 
+just Lunar_effect.txt 1 1926 
+among Lunar_effect.txt 1 1815 
+being Lunar_effect.txt 2 965 2257 
+generally Lunar_effect.txt 1 738 
+observed Lunar_effect.txt 1 2275 
+violent Lunar_effect.txt 3 743 918 942 
+human Lunar_effect.txt 18 176 235 721 764 1241 1315 1344 1402 1542 2145 2181 2225 2385 2600 2775 2779 2808 2846 
+cape Lunar_effect.txt 2 2762 2769 
+talk Lunar_effect.txt 1 2361 
+modulate Lunar_effect.txt 1 1358 
+move Lunar_effect.txt 1 2740 
+death Lunar_effect.txt 1 553 
+bibliography Lunar_effect.txt 1 2947 
+also Lunar_effect.txt 3 214 1309 2921 
+residential Lunar_effect.txt 1 2725 
+percent Lunar_effect.txt 1 284 
+royal Lunar_effect.txt 1 699 
+killed Lunar_effect.txt 1 1075 
+signals Lunar_effect.txt 1 2049 
+reasons Lunar_effect.txt 1 1195 
+cesarean Lunar_effect.txt 1 343 
+valid Lunar_effect.txt 1 25 
+questioned Lunar_effect.txt 1 1222 
+5 Lunar_effect.txt 1 514 
+extensive Lunar_effect.txt 3 158 476 2406 
+has Lunar_effect.txt 11 28 155 226 251 595 937 1217 1863 2076 2842 2878 
+harvesting Lunar_effect.txt 1 2662 
+real Lunar_effect.txt 1 49 
+assyrian Lunar_effect.txt 1 195 
+reinforcement Lunar_effect.txt 1 2357 
+increased Lunar_effect.txt 4 550 742 1421 1504 
+biologists Lunar_effect.txt 1 3 
+sussex Lunar_effect.txt 1 908 
+early Lunar_effect.txt 1 1847 
+five Lunar_effect.txt 1 1506 
+birth Lunar_effect.txt 8 270 303 321 447 457 470 524 2057 
+clustered Lunar_effect.txt 1 2650 
+using Lunar_effect.txt 2 2523 2910 
+advanced Lunar_effect.txt 1 864 
+babylonian Lunar_effect.txt 1 196 
+loss Lunar_effect.txt 2 530 559 
+platygyra Lunar_effect.txt 1 1874 
+59 Lunar_effect.txt 1 2781 
+d Lunar_effect.txt 1 2462 
+excluding Lunar_effect.txt 1 371 
+sizes Lunar_effect.txt 1 1592 
+safest Lunar_effect.txt 1 2715 
+should Lunar_effect.txt 4 2172 2214 2720 2803 
+midge Lunar_effect.txt 1 1860 
+productive Lunar_effect.txt 1 2713 
+specific Lunar_effect.txt 1 54 
+inter-island Lunar_effect.txt 1 2022 
+seawater Lunar_effect.txt 1 2042 
+officer Lunar_effect.txt 2 949 968 
+night Lunar_effect.txt 4 834 847 1424 1878 
+popular Lunar_effect.txt 1 2071 
+eeg Lunar_effect.txt 1 1486 
+disorder Lunar_effect.txt 1 2872 
+reduced Lunar_effect.txt 1 1514 
+homicides Lunar_effect.txt 1 1039 
+because Lunar_effect.txt 6 547 678 1571 1744 2008 2020 
+often Lunar_effect.txt 1 2261 
+deal Lunar_effect.txt 1 2188 
+people Lunar_effect.txt 6 691 978 1985 2311 2360 2367 
+animals Lunar_effect.txt 1 1675 
+some Lunar_effect.txt 2 75 2494 
+competition Lunar_effect.txt 1 2512 
+electroencephalogram Lunar_effect.txt 1 1485 
+understood Lunar_effect.txt 1 1721 
+continent Lunar_effect.txt 1 2639 
+potencies Lunar_effect.txt 1 2584 
+examples Lunar_effect.txt 1 186 
+moreover Lunar_effect.txt 1 2885 
+duration Lunar_effect.txt 3 1512 1623 1641 
+non-full Lunar_effect.txt 1 588 
+118 Lunar_effect.txt 1 2944 
+happens Lunar_effect.txt 3 1737 2316 2328 
+drowned Lunar_effect.txt 1 2691 
+scale Lunar_effect.txt 1 2204 
+floral Lunar_effect.txt 1 2770 
+mood Lunar_effect.txt 1 1214 
+for Lunar_effect.txt 11 463 697 838 927 951 1196 1582 1804 2237 2390 2493 
+affects Lunar_effect.txt 1 2155 
+marinus Lunar_effect.txt 1 1862 
+recorded Lunar_effect.txt 1 2529 
+per Lunar_effect.txt 2 813 854 
+moon Lunar_effect.txt 57 38 218 225 294 328 546 584 589 616 673 720 750 776 795 820 922 1001 1033 1091 1111 1147 1185 1193 1278 1342 1480 1551 1559 1627 1645 1666 1753 1759 1762 1788 1858 1870 1891 1906 1938 1961 2033 2054 2075 2092 2116 2139 2154 2171 2248 2320 2451 2472 2565 2587 2686 2799 
+does Lunar_effect.txt 2 1547 1667 
+lunar Lunar_effect.txt 46 0 45 60 114 173 203 246 306 364 383 409 427 450 473 495 527 570 613 626 653 852 901 1027 1211 1312 1355 1396 1433 1476 1537 1605 1734 1742 1771 1793 1805 1841 2001 2127 2277 2413 2594 2671 2731 2901 2935 
+provides Lunar_effect.txt 1 1661 
+teachers Lunar_effect.txt 1 2271 
+mosquito Lunar_effect.txt 1 2229 
+be Lunar_effect.txt 9 164 1050 1103 1208 1993 2173 2215 2304 2804 
+biology Lunar_effect.txt 1 177 
+meta-analysis Lunar_effect.txt 1 1228 
+patient Lunar_effect.txt 1 556 
+scientific Lunar_effect.txt 1 26 
+schedule Lunar_effect.txt 1 2721 
+journal Lunar_effect.txt 1 2777 
+kushnir Lunar_effect.txt 1 2465 
+disappeared Lunar_effect.txt 1 827 
+corp Lunar_effect.txt 1 1143 
+visits Lunar_effect.txt 1 2722 
+references Lunar_effect.txt 1 2923 
+eye Lunar_effect.txt 1 1442 
+imaginary Lunar_effect.txt 1 51 
+refers Lunar_effect.txt 1 47 
+by Lunar_effect.txt 21 127 340 906 935 1025 1052 1109 1132 1498 1505 1515 1886 1984 1995 2005 2133 2265 2554 2830 2899 2909 
+brighton Lunar_effect.txt 1 875 
+on Lunar_effect.txt 28 16 39 41 70 82 125 138 149 429 692 717 780 970 998 1086 1213 1435 1607 1698 1703 1882 2079 2180 2223 2415 2533 2655 2845 
+about Lunar_effect.txt 3 12 2101 2362 
+quarter Lunar_effect.txt 1 1789 
+actual Lunar_effect.txt 1 1558 
+carried Lunar_effect.txt 3 275 933 1327 
+origins Lunar_effect.txt 2 181 2776 
+attacks Lunar_effect.txt 3 2421 2532 2553 
+of Lunar_effect.txt 108 21 35 56 89 99 119 182 187 201 311 326 330 363 367 387 412 425 434 446 455 478 489 509 521 548 552 554 602 611 624 635 649 658 701 741 762 768 775 793 811 818 832 845 860 961 964 981 1016 1038 1061 1072 1136 1178 1229 1251 1272 1283 1306 1332 1370 1391 1432 1448 1470 1494 1556 1572 1603 1614 1632 1706 1780 1798 1853 1872 1889 1921 1947 1955 1966 2021 2059 2107 2137 2144 2158 2189 2240 2246 2252 2282 2308 2395 2401 2408 2419 2468 2477 2552 2619 2637 2670 2702 2749 2778 2866 2892 2917 
+coral Lunar_effect.txt 2 1873 1916 
+months Lunar_effect.txt 1 1692 
+dependence Lunar_effect.txt 1 2239 
+misleading Lunar_effect.txt 1 1064 
+horizon Lunar_effect.txt 2 1118 2457 
+vaginal Lunar_effect.txt 1 390 
+islands Lunar_effect.txt 1 1824 
+investigators Lunar_effect.txt 1 1468 
+slightly Lunar_effect.txt 1 2741 
+or Lunar_effect.txt 14 50 178 342 431 622 744 1425 1467 1760 1928 2046 2454 2683 2840 
+3-minute Lunar_effect.txt 1 1619 
+purported Lunar_effect.txt 3 78 140 151 
+argumentative Lunar_effect.txt 1 986 
+instead Lunar_effect.txt 1 2916 
+orders Lunar_effect.txt 1 2891 
+into Lunar_effect.txt 2 800 2200 
+float Lunar_effect.txt 1 1970 
+presupposed Lunar_effect.txt 1 2667 
+three Lunar_effect.txt 2 273 1899 
+nothing Lunar_effect.txt 1 2326 
+beings Lunar_effect.txt 4 69 765 2146 2182 
+weather Lunar_effect.txt 1 2045 
+exploitable Lunar_effect.txt 1 2751 
+coastal Lunar_effect.txt 2 2652 2724 
+artists Lunar_effect.txt 1 7 
+statistics Lunar_effect.txt 1 465 
+additional Lunar_effect.txt 1 511 
+area Lunar_effect.txt 1 2753 
+extremely Lunar_effect.txt 1 2823 
+support Lunar_effect.txt 1 2262 
+there Lunar_effect.txt 7 131 913 1081 1561 2027 2548 2904 
+1988 Lunar_effect.txt 1 2538 
+myths Lunar_effect.txt 1 2576 
+much Lunar_effect.txt 2 1173 2825 
+lions Lunar_effect.txt 4 2428 2443 2479 2555 
+low Lunar_effect.txt 3 1836 2665 2698 
+way Lunar_effect.txt 1 359 
+secretion Lunar_effect.txt 1 1447 
+annette Lunar_effect.txt 1 1010 
+bodies Lunar_effect.txt 3 1957 2157 2184 
+spawning Lunar_effect.txt 4 1685 1871 2013 2025 
+was Lunar_effect.txt 11 836 914 923 1043 1130 1482 1513 1773 2003 2061 2596 
+fish Lunar_effect.txt 2 1679 1781 
+564,039 Lunar_effect.txt 1 413 
+north Lunar_effect.txt 1 419 
+illuminated Lunar_effect.txt 1 823 
+rhythmicity Lunar_effect.txt 1 1404 
+mammals Lunar_effect.txt 2 106 1811 
+differences Lunar_effect.txt 3 2023 2202 2897 
+conclusively Lunar_effect.txt 1 253 
+but Lunar_effect.txt 10 103 579 751 778 824 1202 1628 1814 2321 2836 
+subjective Lunar_effect.txt 2 1387 1526 
+clunio Lunar_effect.txt 1 1861 
+doi Lunar_effect.txt 1 2487 
+contradictory Lunar_effect.txt 1 1219 
+delta Lunar_effect.txt 1 1487 
+highest Lunar_effect.txt 2 1715 1747 
+with Lunar_effect.txt 20 229 360 382 408 504 733 863 979 1088 1300 1522 1589 1740 1868 1935 2513 2520 2692 2861 2913 
+considerable Lunar_effect.txt 1 117 
+pull Lunar_effect.txt 1 2222 
+october Lunar_effect.txt 2 662 2016 
+largest Lunar_effect.txt 2 2417 2525 
+reproductive Lunar_effect.txt 1 1722 
+platforms Lunar_effect.txt 1 2695 
+type Lunar_effect.txt 1 1779 
+gravitational Lunar_effect.txt 1 2221 
+politics Lunar_effect.txt 1 1127 
+us Lunar_effect.txt 2 936 1155 
+acropora Lunar_effect.txt 1 1915 
+below Lunar_effect.txt 1 2455 
+uninhabitable Lunar_effect.txt 1 2644 
+complications Lunar_effect.txt 1 432 
+uk Lunar_effect.txt 1 876 
+lunar-lunacy Lunar_effect.txt 1 141 
+site Lunar_effect.txt 1 2618 
+distribution Lunar_effect.txt 1 386 
+stages Lunar_effect.txt 1 55 
+minutes Lunar_effect.txt 2 1507 1517 
+beliefs Lunar_effect.txt 1 23 
+election Lunar_effect.txt 1 1158 
+menstruation Lunar_effect.txt 1 100 
+marean Lunar_effect.txt 4 2608 2624 2677 2754 
+later Lunar_effect.txt 1 1046 
+associated Lunar_effect.txt 1 1521 
+links Lunar_effect.txt 1 2950 
+nurses Lunar_effect.txt 2 2273 2289 
+certain Lunar_effect.txt 2 1964 2864 
+packer Lunar_effect.txt 3 2459 2542 2568 
+9,551 Lunar_effect.txt 1 312 
+influence Lunar_effect.txt 8 15 115 424 1434 1541 1671 2141 2807 
+deep Lunar_effect.txt 1 1495 
+evidence Lunar_effect.txt 6 520 730 1352 1663 1803 2344 
+as Lunar_effect.txt 12 4 6 86 95 1420 1986 2161 2167 2343 2430 2437 2869 
+lumped Lunar_effect.txt 1 591 
+exist Lunar_effect.txt 1 256 
+at Lunar_effect.txt 16 133 144 350 392 710 1263 1329 1423 1457 1757 1835 1877 1962 2612 2663 2727 
+our Lunar_effect.txt 2 1659 2398 
+controlled Lunar_effect.txt 3 837 1368 1406 
+melatonin Lunar_effect.txt 3 1451 1532 1799 
+az Lunar_effect.txt 1 400 
+august Lunar_effect.txt 1 1914 
+compared Lunar_effect.txt 1 1092 
+no Lunar_effect.txt 23 24 112 169 243 300 318 380 406 422 443 467 492 519 757 1244 1288 1458 1601 1646 2219 2843 2849 2879 
+populations Lunar_effect.txt 1 2649 
+when Lunar_effect.txt 15 581 828 920 1113 1363 1545 1712 1748 2083 2325 2434 2438 2449 2634 2733 
+40 Lunar_effect.txt 2 135 395 
+fire Lunar_effect.txt 1 2396 
+other Lunar_effect.txt 9 92 105 506 1094 1302 1647 2030 2047 2852 
+compares Lunar_effect.txt 1 608 
+6,725 Lunar_effect.txt 1 435 
+motorcyclists Lunar_effect.txt 1 1074 
+phoenix Lunar_effect.txt 1 399 
+temperatures Lunar_effect.txt 1 2043 
+shelter Lunar_effect.txt 1 2392 
+tides Lunar_effect.txt 8 1713 1729 1745 2044 2241 2666 2699 2735 
+june Lunar_effect.txt 1 879 
+795 Lunar_effect.txt 1 1615 
+variation Lunar_effect.txt 1 645 
+release Lunar_effect.txt 2 1920 1975 
+retrospectively Lunar_effect.txt 1 1455 
+zone Lunar_effect.txt 1 2705 
+important Lunar_effect.txt 2 2382 2614 
+peak Lunar_effect.txt 2 2112 2551 
+structure Lunar_effect.txt 2 1360 1437 
+n3870 Lunar_effect.txt 1 1595 
+ago Lunar_effect.txt 1 2633 
+lead Lunar_effect.txt 1 1656 
+doi:10.1371/journal.pone.0161735 Lunar_effect.txt 1 2946 
+palolo Lunar_effect.txt 2 1940 2010 
+5,812 Lunar_effect.txt 1 1633 
+typically Lunar_effect.txt 1 2340 
+age Lunar_effect.txt 2 1583 2617 
+factors Lunar_effect.txt 1 2029 
+offshore Lunar_effect.txt 1 2694 
+barcelona Lunar_effect.txt 1 563 
+herbivores Lunar_effect.txt 1 2440 
+moonlight Lunar_effect.txt 2 90 2433 
+2000 Lunar_effect.txt 3 404 437 1156 
+2001 Lunar_effect.txt 2 417 453 
+2006 Lunar_effect.txt 1 439 
+2007 Lunar_effect.txt 1 880 
+pollution Lunar_effect.txt 1 2835 
+time Lunar_effect.txt 7 1377 1500 1825 1917 1965 2014 2251 
+serious Lunar_effect.txt 1 2096 
+2008 Lunar_effect.txt 1 1004 
+2009 Lunar_effect.txt 2 663 2540 
+indirectly Lunar_effect.txt 1 2089 
+minister Lunar_effect.txt 1 1009 

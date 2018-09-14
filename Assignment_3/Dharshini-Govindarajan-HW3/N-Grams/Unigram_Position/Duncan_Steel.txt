@@ -1,0 +1,308 @@
+directed Duncan_Steel.txt 1 334 
+atmosphere Duncan_Steel.txt 2 461 472 
+agency Duncan_Steel.txt 1 309 
+solar Duncan_Steel.txt 1 416 
+discoverer Duncan_Steel.txt 1 130 
+september Duncan_Steel.txt 1 222 
+lewis Duncan_Steel.txt 1 522 
+queen Duncan_Steel.txt 2 175 196 
+by Duncan_Steel.txt 1 550 
+years Duncan_Steel.txt 1 254 
+four Duncan_Steel.txt 1 109 
+radar Duncan_Steel.txt 3 267 295 422 
+spacecraft Duncan_Steel.txt 1 249 
+scientist Duncan_Steel.txt 2 27 59 
+including Duncan_Steel.txt 1 134 
+pty Duncan_Steel.txt 2 360 391 
+using Duncan_Steel.txt 1 418 
+astrobiology Duncan_Steel.txt 1 48 
+australian Duncan_Steel.txt 1 401 
+worked Duncan_Steel.txt 4 84 228 320 382 
+expert Duncan_Steel.txt 1 394 
+elbsteel Duncan_Steel.txt 1 510 
+dropped Duncan_Steel.txt 1 566 
+canberra Duncan_Steel.txt 1 384 
+northern Duncan_Steel.txt 1 74 
+duncan Duncan_Steel.txt 7 0 15 18 76 144 164 553 
+midsomer Duncan_Steel.txt 4 30 139 148 158 
+writes Duncan_Steel.txt 1 117 
+dynamical Duncan_Steel.txt 1 430 
+had Duncan_Steel.txt 1 554 
+sons Duncan_Steel.txt 1 513 
+charles Duncan_Steel.txt 1 496 
+to Duncan_Steel.txt 7 87 99 224 399 427 475 555 
+must Duncan_Steel.txt 1 449 
+program Duncan_Steel.txt 1 339 
+systems Duncan_Steel.txt 1 423 
+wales Duncan_Steel.txt 1 329 
+hidden Duncan_Steel.txt 1 595 
+has Duncan_Steel.txt 2 83 406 
+interested Duncan_Steel.txt 1 484 
+scientific Duncan_Steel.txt 1 434 
+regularly Duncan_Steel.txt 1 116 
+then Duncan_Steel.txt 1 201 
+them Duncan_Steel.txt 1 357 
+australia Duncan_Steel.txt 3 291 359 388 
+already Duncan_Steel.txt 2 536 579 
+was Duncan_Steel.txt 7 256 283 305 363 535 544 578 
+optics Duncan_Steel.txt 1 219 
+evolution Duncan_Steel.txt 1 431 
+1955 Duncan_Steel.txt 1 23 
+qinetiq Duncan_Steel.txt 1 390 
+grew Duncan_Steel.txt 1 145 
+aerospace Duncan_Steel.txt 1 387 
+meteors Duncan_Steel.txt 1 296 
+one Duncan_Steel.txt 2 537 580 
+categories Duncan_Steel.txt 2 594 596 
+salford Duncan_Steel.txt 1 376 
+school Duncan_Steel.txt 2 156 161 
+grammar Duncan_Steel.txt 1 160 
+whilst Duncan_Steel.txt 1 569 
+edit Duncan_Steel.txt 4 143 588 591 593 
+positions Duncan_Steel.txt 1 43 
+university Duncan_Steel.txt 7 51 167 186 239 259 287 374 
+companies Duncan_Steel.txt 1 355 
+organics Duncan_Steel.txt 1 480 
+dic Duncan_Steel.txt 1 216 
+appear Duncan_Steel.txt 1 474 
+applied Duncan_Steel.txt 1 218 
+investigate Duncan_Steel.txt 2 97 428 
+january Duncan_Steel.txt 1 225 
+small Duncan_Steel.txt 1 412 
+london Duncan_Steel.txt 1 169 
+venus Duncan_Steel.txt 1 247 
+where Duncan_Steel.txt 3 151 210 330 
+because Duncan_Steel.txt 2 533 576 
+england Duncan_Steel.txt 1 55 
+harrison Duncan_Steel.txt 3 514 532 541 
+latin Duncan_Steel.txt 1 558 
+authority Duncan_Steel.txt 1 81 
+up Duncan_Steel.txt 1 146 
+born Duncan_Steel.txt 2 22 28 
+see Duncan_Steel.txt 1 14 
+books Duncan_Steel.txt 2 112 586 
+college Duncan_Steel.txt 4 177 187 198 205 
+entering Duncan_Steel.txt 1 459 
+laboratory Duncan_Steel.txt 2 231 373 
+dynamics Duncan_Steel.txt 1 301 
+1992 Duncan_Steel.txt 1 519 
+techniques Duncan_Steel.txt 1 426 
+established Duncan_Steel.txt 1 332 
+orbiter Duncan_Steel.txt 1 248 
+defence Duncan_Steel.txt 1 404 
+amongst Duncan_Steel.txt 2 356 432 
+197879 Duncan_Steel.txt 1 220 
+for Duncan_Steel.txt 8 10 118 232 250 268 340 385 583 
+space Duncan_Steel.txt 6 58 79 114 235 308 367 
+currently Duncan_Steel.txt 1 33 
+wikipedia Duncan_Steel.txt 1 2 
+research Duncan_Steel.txt 3 62 293 310 
+collisions Duncan_Steel.txt 1 95 
+various Duncan_Steel.txt 1 122 
+hill Duncan_Steel.txt 1 155 
+between Duncan_Steel.txt 1 278 
+new Duncan_Steel.txt 3 38 263 327 
+discovery Duncan_Steel.txt 1 342 
+achievements Duncan_Steel.txt 2 435 590 
+be Duncan_Steel.txt 4 450 476 530 573 
+main-belt Duncan_Steel.txt 1 136 
+attended Duncan_Steel.txt 2 153 165 
+avert Duncan_Steel.txt 1 100 
+degree Duncan_Steel.txt 1 275 
+associate Duncan_Steel.txt 1 364 
+6828 Duncan_Steel.txt 1 509 
+guardian Duncan_Steel.txt 1 120 
+eliot Duncan_Steel.txt 2 582 585 
+physicist Duncan_Steel.txt 1 13 
+tarry Duncan_Steel.txt 1 479 
+many Duncan_Steel.txt 1 499 
+mngs Duncan_Steel.txt 1 561 
+california Duncan_Steel.txt 1 65 
+199095 Duncan_Steel.txt 1 317 
+references Duncan_Steel.txt 1 592 
+article Duncan_Steel.txt 1 4 
+joule Duncan_Steel.txt 1 371 
+b Duncan_Steel.txt 2 518 525 
+telescopes Duncan_Steel.txt 1 420 
+after Duncan_Steel.txt 1 511 
+spaceguard Duncan_Steel.txt 1 358 
+on Duncan_Steel.txt 4 113 244 396 411 
+about Duncan_Steel.txt 2 6 562 
+translate Duncan_Steel.txt 1 556 
+g Duncan_Steel.txt 1 16 
+technical Duncan_Steel.txt 1 397 
+of Duncan_Steel.txt 23 47 52 91 108 131 168 206 237 240 260 288 345 366 375 403 440 456 465 478 490 495 538 547 
+newspapers Duncan_Steel.txt 1 124 
+title Duncan_Steel.txt 1 546 
+barnaby Duncan_Steel.txt 1 523 
+british Duncan_Steel.txt 2 8 26 
+published Duncan_Steel.txt 1 587 
+american Duncan_Steel.txt 1 12 
+canterbury Duncan_Steel.txt 1 261 
+threat Duncan_Steel.txt 1 90 
+ltd Duncan_Steel.txt 2 361 392 
+comet Duncan_Steel.txt 2 92 300 
+history Duncan_Steel.txt 1 489 
+studies Duncan_Steel.txt 1 270 
+comet-derived Duncan_Steel.txt 1 466 
+south Duncan_Steel.txt 2 290 328 
+first Duncan_Steel.txt 3 336 442 454 
+among Duncan_Steel.txt 1 498 
+named Duncan_Steel.txt 2 503 581 
+own Duncan_Steel.txt 1 354 
+lunds Duncan_Steel.txt 1 313 
+colorado Duncan_Steel.txt 1 241 
+formerly Duncan_Steel.txt 1 157 
+interstellar Duncan_Steel.txt 1 457 
+system Duncan_Steel.txt 1 417 
+assess Duncan_Steel.txt 1 88 
+spinning Duncan_Steel.txt 1 444 
+magazines Duncan_Steel.txt 1 126 
+fast Duncan_Steel.txt 1 446 
+additionally Duncan_Steel.txt 1 351 
+monolith Duncan_Steel.txt 1 452 
+couldnt Duncan_Steel.txt 2 529 572 
+awarded Duncan_Steel.txt 1 272 
+undergraduate Duncan_Steel.txt 1 173 
+george Duncan_Steel.txt 1 540 
+observatoriet Duncan_Steel.txt 1 314 
+nasa-ames Duncan_Steel.txt 1 61 
+poem Duncan_Steel.txt 1 549 
+1985 Duncan_Steel.txt 2 277 279 
+from Duncan_Steel.txt 5 162 221 316 348 379 
+197778 Duncan_Steel.txt 1 199 
+undertaking Duncan_Steel.txt 1 292 
+198899 Duncan_Steel.txt 1 349 
+there Duncan_Steel.txt 2 534 577 
+three Duncan_Steel.txt 1 253 
+been Duncan_Steel.txt 2 407 437 
+imperial Duncan_Steel.txt 1 204 
+their Duncan_Steel.txt 1 429 
+asteroid Duncan_Steel.txt 6 94 137 298 443 528 571 
+ireland Duncan_Steel.txt 1 75 
+1982 Duncan_Steel.txt 1 226 
+astrophysics Duncan_Steel.txt 2 182 194 
+pioneer Duncan_Steel.txt 1 246 
+norton Duncan_Steel.txt 5 31 140 149 154 159 
+near-earth Duncan_Steel.txt 1 346 
+msc Duncan_Steel.txt 1 214 
+mary Duncan_Steel.txt 1 197 
+minor Duncan_Steel.txt 1 132 
+zealand Duncan_Steel.txt 2 39 264 
+196673 Duncan_Steel.txt 1 163 
+elliot Duncan_Steel.txt 1 521 
+building Duncan_Steel.txt 1 265 
+that Duncan_Steel.txt 4 447 473 552 575 
+catullus Duncan_Steel.txt 1 551 
+took Duncan_Steel.txt 1 212 
+but Duncan_Steel.txt 1 40 
+callum Duncan_Steel.txt 1 515 
+buckingham Duncan_Steel.txt 1 53 
+hemisphere Duncan_Steel.txt 1 338 
+optical Duncan_Steel.txt 1 419 
+lives Duncan_Steel.txt 1 35 
+20042012 Duncan_Steel.txt 1 380 
+coonabarabran Duncan_Steel.txt 1 326 
+technologies Duncan_Steel.txt 1 98 
+fellow Duncan_Steel.txt 1 311 
+with Duncan_Steel.txt 2 85 285 
+somerset Duncan_Steel.txt 2 32 150 
+those Duncan_Steel.txt 1 539 
+he Duncan_Steel.txt 17 34 103 127 152 211 227 255 282 304 318 331 350 362 381 405 481 502 
+steel Duncan_Steel.txt 5 1 17 20 517 524 
+observatory Duncan_Steel.txt 2 72 324 
+atmospheric Duncan_Steel.txt 1 233 
+being Duncan_Steel.txt 1 271 
+1996 Duncan_Steel.txt 1 281 
+this Duncan_Steel.txt 1 3 
+science Duncan_Steel.txt 3 80 111 207 
+astronomer Duncan_Steel.txt 2 9 69 
+involved Duncan_Steel.txt 1 408 
+theoretical Duncan_Steel.txt 1 425 
+1977 Duncan_Steel.txt 1 183 
+sweden Duncan_Steel.txt 1 315 
+babbage Duncan_Steel.txt 1 497 
+19992003 Duncan_Steel.txt 1 378 
+following Duncan_Steel.txt 1 252 
+providing Duncan_Steel.txt 1 393 
+called Duncan_Steel.txt 2 531 574 
+popular-level Duncan_Steel.txt 1 110 
+and Duncan_Steel.txt 26 66 93 96 115 121 125 181 184 188 200 208 215 234 280 297 299 333 343 389 424 462 488 492 508 520 542 
+boulder Duncan_Steel.txt 1 243 
+associated Duncan_Steel.txt 1 284 
+have Duncan_Steel.txt 1 436 
+impacts Duncan_Steel.txt 1 102 
+ran Duncan_Steel.txt 1 352 
+is Duncan_Steel.txt 6 5 24 77 104 128 482 
+it Duncan_Steel.txt 1 448 
+an Duncan_Steel.txt 4 68 172 213 463 
+high Duncan_Steel.txt 1 469 
+bertram Duncan_Steel.txt 1 516 
+as Duncan_Steel.txt 5 44 56 67 171 189 
+his Duncan_Steel.txt 4 353 433 512 567 
+arrius Duncan_Steel.txt 2 507 543 
+at Duncan_Steel.txt 13 49 60 70 174 195 202 229 242 257 312 321 369 560 
+planets Duncan_Steel.txt 1 133 
+in Duncan_Steel.txt 21 29 36 54 64 73 147 179 193 217 262 276 294 302 325 377 383 409 414 470 485 557 
+made Duncan_Steel.txt 1 477 
+technology Duncan_Steel.txt 2 209 368 
+contents Duncan_Steel.txt 1 141 
+adelaide Duncan_Steel.txt 1 289 
+ablating Duncan_Steel.txt 1 468 
+harrys Duncan_Steel.txt 1 527 
+t.s Duncan_Steel.txt 1 584 
+author Duncan_Steel.txt 1 107 
+identification Duncan_Steel.txt 2 439 455 
+studying Duncan_Steel.txt 1 170 
+anglo-australian Duncan_Steel.txt 1 323 
+holds Duncan_Steel.txt 1 41 
+armagh Duncan_Steel.txt 1 71 
+roman Duncan_Steel.txt 1 564 
+graduate Duncan_Steel.txt 1 191 
+also Duncan_Steel.txt 4 105 185 319 483 
+other Duncan_Steel.txt 3 123 500 589 
+biography Duncan_Steel.txt 1 142 
+meteor Duncan_Steel.txt 2 269 421 
+department Duncan_Steel.txt 1 402 
+198788 Duncan_Steel.txt 1 303 
+aitches Duncan_Steel.txt 1 568 
+elliots Duncan_Steel.txt 1 570 
+european Duncan_Steel.txt 1 307 
+ball Duncan_Steel.txt 1 386 
+elizabeth Duncan_Steel.txt 1 176 
+investigations Duncan_Steel.txt 1 410 
+calendars Duncan_Steel.txt 1 491 
+advice Duncan_Steel.txt 1 395 
+who Duncan_Steel.txt 2 82 565 
+southern Duncan_Steel.txt 1 337 
+phd Duncan_Steel.txt 1 274 
+asteroids Duncan_Steel.txt 2 347 505 
+nasas Duncan_Steel.txt 1 245 
+fras Duncan_Steel.txt 1 21 
+9767 Duncan_Steel.txt 1 138 
+student Duncan_Steel.txt 1 192 
+dust Duncan_Steel.txt 1 458 
+such Duncan_Steel.txt 1 101 
+astronomy Duncan_Steel.txt 1 487 
+class Duncan_Steel.txt 1 559 
+bsc Duncan_Steel.txt 1 178 
+a Duncan_Steel.txt 12 25 45 57 78 129 190 266 273 306 451 548 563 
+meteoroids Duncan_Steel.txt 1 467 
+tracking Duncan_Steel.txt 1 344 
+center Duncan_Steel.txt 1 63 
+1979 Duncan_Steel.txt 1 223 
+matters Duncan_Steel.txt 1 398 
+i Duncan_Steel.txt 1 19 
+professor Duncan_Steel.txt 2 46 365 
+visiting Duncan_Steel.txt 1 42 
+life Duncan_Steel.txt 1 494 
+wellington Duncan_Steel.txt 1 37 
+nasa Duncan_Steel.txt 1 86 
+so Duncan_Steel.txt 1 445 
+influx Duncan_Steel.txt 1 464 
+1995 Duncan_Steel.txt 1 526 
+things Duncan_Steel.txt 1 501 
+5263 Duncan_Steel.txt 1 506 
+the Duncan_Steel.txt 29 7 11 50 89 106 119 135 166 203 230 238 251 258 286 322 335 341 370 400 415 438 441 453 460 471 486 493 504 545 
+physics Duncan_Steel.txt 3 180 236 372 
+bodies Duncan_Steel.txt 1 413 

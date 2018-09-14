@@ -1,0 +1,427 @@
+against-weight Soissons.txt 1 780 
+exhibitions Soissons.txt 1 757 
+four Soissons.txt 1 231 
+battle Soissons.txt 2 177 366 
+whose Soissons.txt 2 64 701 
+anglais Soissons.txt 2 764 769 
+paris Soissons.txt 1 33 
+gisle Soissons.txt 1 677 
+to Soissons.txt 11 145 149 169 275 344 351 388 417 467 624 705 
+swas Soissons.txt 1 5 
+under Soissons.txt 4 77 151 253 434 
+garden Soissons.txt 1 542 
+continued Soissons.txt 1 630 
+clement Soissons.txt 1 290 
+missionary Soissons.txt 2 274 289 
+founded Soissons.txt 1 653 
+noviodunum Soissons.txt 3 86 130 157 
+12th Soissons.txt 1 509 
+this Soissons.txt 1 613 
+relics Soissons.txt 1 664 
+shoe Soissons.txt 1 667 
+peters Soissons.txt 1 464 
+des Soissons.txt 4 444 519 560 763 
+century Soissons.txt 4 199 510 638 708 
+eclipse Soissons.txt 1 490 
+bombardment Soissons.txt 1 436 
+uk Soissons.txt 1 758 
+long-standing Soissons.txt 1 391 
+capital Soissons.txt 3 49 160 226 
+new Soissons.txt 1 88 
+led Soissons.txt 1 416 
+honour Soissons.txt 1 354 
+v Soissons.txt 1 333 
+commercial Soissons.txt 1 503 
+french Soissons.txt 8 3 12 296 315 325 328 362 453 
+met Soissons.txt 2 262 360 
+disastrous Soissons.txt 1 442 
+path Soissons.txt 1 484 
+hillfort Soissons.txt 1 89 
+great Soissons.txt 1 396 
+espace Soissons.txt 1 532 
+popes Soissons.txt 1 273 
+action Soissons.txt 1 457 
+settled Soissons.txt 1 750 
+abbesses Soissons.txt 1 675 
+erected Soissons.txt 1 449 
+logically Soissons.txt 1 815 
+1908 Soissons.txt 1 843 
+counts Soissons.txt 1 744 
+gateway Soissons.txt 1 768 
+market Soissons.txt 1 840 
+from Soissons.txt 3 67 147 777 
+remains Soissons.txt 1 713 
+played Soissons.txt 1 200 
+two Soissons.txt 1 523 
+next Soissons.txt 1 466 
+noting Soissons.txt 1 336 
+totality Soissons.txt 1 486 
+themselves Soissons.txt 1 318 
+until Soissons.txt 2 166 634 
+today Soissons.txt 2 499 709 
+successful Soissons.txt 1 414 
+pelletier Soissons.txt 1 735 
+sister Soissons.txt 1 678 
+site Soissons.txt 1 739 
+trail Soissons.txt 1 539 
+iii Soissons.txt 1 268 
+1866-1949 Soissons.txt 1 848 
+town Soissons.txt 4 96 339 479 748 
+states Soissons.txt 1 236 
+1999 Soissons.txt 1 494 
+work Soissons.txt 1 628 
+mi Soissons.txt 1 30 
+era Soissons.txt 1 657 
+henry Soissons.txt 2 332 687 
+making Soissons.txt 1 124 
+passerelle Soissons.txt 1 762 
+history Soissons.txt 2 71 76 
+dedicated Soissons.txt 1 343 
+744 Soissons.txt 1 257 
+links Soissons.txt 1 857 
+in Soissons.txt 22 9 16 84 175 196 220 245 256 310 456 458 474 476 573 596 611 654 752 789 806 833 842 
+high Soissons.txt 1 136 
+british Soissons.txt 1 812 
+aisne Soissons.txt 3 15 24 116 
+divided Soissons.txt 1 238 
+located Soissons.txt 1 21 
+establishment Soissons.txt 1 65 
+1177 Soissons.txt 1 588 
+buildings Soissons.txt 1 529 
+de Soissons.txt 2 569 683 
+613 Soissons.txt 1 246 
+earlier Soissons.txt 1 615 
+panoramic Soissons.txt 1 547 
+a Soissons.txt 14 7 95 135 139 299 390 421 447 502 536 696 772 794 836 
+attempt Soissons.txt 1 387 
+beam Soissons.txt 1 785 
+st Soissons.txt 4 370 463 517 558 
+charlemagne Soissons.txt 1 680 
+tall Soissons.txt 1 607 
+crispinian Soissons.txt 1 349 
+secured Soissons.txt 1 278 
+casson Soissons.txt 1 774 
+over Soissons.txt 1 403 
+years Soissons.txt 1 294 
+soissons Soissons.txt 20 0 2 53 73 165 179 188 222 243 261 341 385 469 473 500 511 564 570 700 746 
+including Soissons.txt 1 665 
+20.50 Soissons.txt 1 787 
+committed Soissons.txt 1 298 
+mentioned Soissons.txt 1 100 
+its Soissons.txt 4 78 525 601 660 
+1833 Soissons.txt 1 753 
+style Soissons.txt 1 575 
+courthouse Soissons.txt 1 470 
+la Soissons.txt 1 761 
+abbey Soissons.txt 9 192 521 556 639 646 652 672 690 694 
+late Soissons.txt 1 636 
+categories Soissons.txt 2 859 861 
+covered Soissons.txt 1 839 
+hidden Soissons.txt 1 860 
+main Soissons.txt 2 483 562 
+syagrius Soissons.txt 1 156 
+eventually Soissons.txt 1 239 
+them Soissons.txt 1 425 
+arsenal Soissons.txt 1 754 
+1950 Soissons.txt 1 834 
+axona Soissons.txt 1 114 
+one Soissons.txt 3 36 125 228 
+killed Soissons.txt 2 321 455 
+kilometres Soissons.txt 1 28 
+name Soissons.txt 2 80 818 
+edit Soissons.txt 13 72 496 498 544 546 643 691 716 766 850 853 855 858 
+choir Soissons.txt 2 595 599 
+courses Soissons.txt 1 592 
+went Soissons.txt 1 703 
+heavy Soissons.txt 1 435 
+signing Soissons.txt 1 419 
+nave Soissons.txt 1 633 
+vignes Soissons.txt 2 520 561 
+series Soissons.txt 1 392 
+begun Soissons.txt 1 586 
+hosted Soissons.txt 1 381 
+cathedral Soissons.txt 4 512 545 551 565 
+folles Soissons.txt 1 534 
+surrounded Soissons.txt 1 133 
+avenge Soissons.txt 1 352 
+notre Soissons.txt 2 641 648 
+jean-franois Soissons.txt 1 723 
+foundation Soissons.txt 1 702 
+after Soissons.txt 3 111 214 440 
+anglo-spanish Soissons.txt 1 406 
+disputes Soissons.txt 1 394 
+albert-dsir Soissons.txt 1 846 
+hauts-de-france Soissons.txt 1 20 
+transept Soissons.txt 1 584 
+g Soissons.txt 1 105 
+days Soissons.txt 1 126 
+kingdoms Soissons.txt 1 232 
+instigation Soissons.txt 1 265 
+length Soissons.txt 1 790 
+place Soissons.txt 1 143 
+511 Soissons.txt 1 221 
+castle Soissons.txt 1 743 
+south Soissons.txt 1 583 
+first Soissons.txt 1 428 
+three-storey Soissons.txt 1 603 
+457 Soissons.txt 1 148 
+cantilevered Soissons.txt 1 776 
+reached Soissons.txt 1 129 
+ditch Soissons.txt 1 141 
+city Soissons.txt 3 432 714 718 
+ancient Soissons.txt 3 40 48 60 
+personalities Soissons.txt 1 849 
+width Soissons.txt 1 795 
+saint Soissons.txt 1 270 
+hundred Soissons.txt 1 293 
+that Soissons.txt 1 337 
+completed Soissons.txt 1 610 
+took Soissons.txt 1 816 
+1919 Soissons.txt 1 477 
+part Soissons.txt 2 180 204 
+july Soissons.txt 1 378 
+than Soissons.txt 1 616 
+1917 Soissons.txt 1 459 
+population Soissons.txt 1 495 
+11 Soissons.txt 1 493 
+king Soissons.txt 1 172 
+b Soissons.txt 1 104 
+architect Soissons.txt 2 722 845 
+supposed Soissons.txt 1 623 
+historical Soissons.txt 1 528 
+were Soissons.txt 3 237 251 317 
+design Soissons.txt 1 621 
+garrison Soissons.txt 1 309 
+and Soissons.txt 19 44 123 138 153 190 269 286 320 348 377 398 415 504 513 540 589 605 727 814 
+bridge Soissons.txt 5 765 770 803 822 830 
+modern Soissons.txt 1 115 
+13th Soissons.txt 1 637 
+prestigious Soissons.txt 1 674 
+have Soissons.txt 1 625 
+contents Soissons.txt 1 70 
+catholic Soissons.txt 1 62 
+built Soissons.txt 4 195 720 775 841 
+shocked Soissons.txt 1 330 
+also Soissons.txt 2 55 852 
+caesar Soissons.txt 3 103 108 146 
+clovis Soissons.txt 2 173 218 
+forces Soissons.txt 2 297 363 
+saint-gervais-et-saint-protais Soissons.txt 1 568 
+centre Soissons.txt 1 506 
+monastery Soissons.txt 1 698 
+english Soissons.txt 2 303 821 
+most Soissons.txt 2 39 526 
+germany Soissons.txt 1 277 
+extremely Soissons.txt 1 606 
+the Soissons.txt 92 10 17 23 38 47 51 56 98 113 118 121 142 159 162 170 176 182 187 191 197 206 209 215 225 230 240 248 258 264 272 279 282 287 292 307 314 322 338 345 353 356 361 365 382 405 410 418 427 431 441 462 468 478 482 488 508 514 530 550 552 555 566 574 579 582 590 594 598 620 632 635 644 655 666 669 671 692 706 711 717 730 733 738 741 747 767 791 801 817 820 829 838 
+archers Soissons.txt 1 304 
+request Soissons.txt 1 731 
+treaty Soissons.txt 1 423 
+aunt Soissons.txt 1 685 
+came Soissons.txt 1 433 
+dames Soissons.txt 1 445 
+contemporary Soissons.txt 1 755 
+pierres Soissons.txt 1 533 
+soldiers Soissons.txt 3 329 454 813 
+northeast Soissons.txt 1 31 
+based Soissons.txt 1 627 
+northern Soissons.txt 1 11 
+frankish Soissons.txt 4 171 183 249 283 
+treasure Soissons.txt 1 662 
+saints Soissons.txt 2 346 357 
+written Soissons.txt 1 75 
+1914 Soissons.txt 1 807 
+only Soissons.txt 1 710 
+rich Soissons.txt 1 661 
+bourbon Soissons.txt 1 684 
+hall Soissons.txt 3 715 719 749 
+borrowed Soissons.txt 1 83 
+boniface Soissons.txt 1 271 
+his Soissons.txt 2 154 235 
+massacre Soissons.txt 2 301 323 
+famous Soissons.txt 1 658 
+agincourt Soissons.txt 1 368 
+during Soissons.txt 4 205 291 426 825 
+botanical Soissons.txt 1 541 
+resolve Soissons.txt 1 389 
+mortefontaine Soissons.txt 1 736 
+architecture Soissons.txt 1 578 
+river Soissons.txt 1 25 
+ruins Soissons.txt 3 475 515 553 
+view Soissons.txt 1 548 
+a.d Soissons.txt 1 212 
+art Soissons.txt 1 756 
+see Soissons.txt 2 57 851 
+surrendered Soissons.txt 1 144 
+contains Soissons.txt 1 535 
+amalgamated Soissons.txt 1 252 
+wikipedia Soissons.txt 1 1 
+synod Soissons.txt 1 259 
+benedictine Soissons.txt 1 697 
+behind Soissons.txt 1 461 
+chemin Soissons.txt 1 443 
+between Soissons.txt 5 374 395 424 725 799 
+probably Soissons.txt 1 46 
+europe Soissons.txt 1 331 
+latin Soissons.txt 1 85 
+august Soissons.txt 1 492 
+447-751 Soissons.txt 1 213 
+death Soissons.txt 1 216 
+article Soissons.txt 1 563 
+pagan Soissons.txt 1 276 
+dates Soissons.txt 1 66 
+1728 Soissons.txt 1 376 
+1729 Soissons.txt 1 379 
+1727 Soissons.txt 1 409 
+region Soissons.txt 2 18 189 
+roman Soissons.txt 2 61 91 
+suessiones Soissons.txt 3 52 99 122 
+nearby Soissons.txt 1 531 
+clerestory Soissons.txt 1 608 
+wall Soissons.txt 1 137 
+royal Soissons.txt 1 651 
+62 Soissons.txt 1 29 
+saint-mdard Soissons.txt 3 194 689 693 
+church Soissons.txt 1 465 
+kings Soissons.txt 1 211 
+100 Soissons.txt 1 27 
+destroyed Soissons.txt 2 805 824 
+political Soissons.txt 1 203 
+been Soissons.txt 1 626 
+mutiny Soissons.txt 1 439 
+aegidius Soissons.txt 1 152 
+entered Soissons.txt 1 117 
+territory Soissons.txt 2 119 184 
+dame Soissons.txt 2 642 649 
+1211 Soissons.txt 1 612 
+stationed Soissons.txt 1 305 
+external Soissons.txt 1 856 
+towns Soissons.txt 2 41 308 
+former Soissons.txt 2 645 650 
+spain Soissons.txt 1 399 
+as Soissons.txt 3 81 522 835 
+many Soissons.txt 1 312 
+julius Soissons.txt 1 102 
+then Soissons.txt 1 629 
+is Soissons.txt 8 6 35 45 54 460 501 571 771 
+it Soissons.txt 5 34 93 167 380 808 
+iv Soissons.txt 1 688 
+ii Soissons.txt 3 106 255 828 
+gothic Soissons.txt 1 577 
+cathdrale Soissons.txt 1 567 
+claimed Soissons.txt 1 350 
+elevation Soissons.txt 1 604 
+leaving Soissons.txt 1 112 
+landmarks Soissons.txt 1 543 
+crispins Soissons.txt 1 371 
+clotaire Soissons.txt 1 254 
+merovingian Soissons.txt 2 210 656 
+commune Soissons.txt 1 8 
+statue Soissons.txt 1 448 
+celtic Soissons.txt 1 79 
+largely Soissons.txt 1 413 
+i Soissons.txt 2 174 219 
+chartres Soissons.txt 1 617 
+concrete Soissons.txt 1 773 
+railings Soissons.txt 1 800 
+contact Soissons.txt 1 92 
+crispin Soissons.txt 1 347 
+b.c Soissons.txt 1 109 
+jean Soissons.txt 2 518 559 
+adalbert Soissons.txt 1 285 
+abutment Soissons.txt 1 779 
+offensive Soissons.txt 1 446 
+sights Soissons.txt 1 497 
+footbridge Soissons.txt 1 837 
+1775 Soissons.txt 1 728 
+enters Soissons.txt 1 74 
+1772 Soissons.txt 1 726 
+had Soissons.txt 1 401 
+geological Soissons.txt 1 538 
+day Soissons.txt 1 372 
+isostatic Soissons.txt 1 783 
+has Soissons.txt 1 793 
+townsfolk Soissons.txt 1 316 
+march Soissons.txt 1 128 
+which Soissons.txt 5 131 234 311 400 619 
+condemnation Soissons.txt 1 280 
+1914-1918 Soissons.txt 1 760 
+neustria Soissons.txt 1 186 
+world Soissons.txt 2 429 826 
+like Soissons.txt 1 676 
+57 Soissons.txt 1 110 
+notorious Soissons.txt 1 300 
+1415 Soissons.txt 1 373 
+old Soissons.txt 1 742 
+diocese Soissons.txt 1 63 
+back Soissons.txt 1 704 
+images Soissons.txt 1 451 
+for Soissons.txt 2 487 659 
+broad Soissons.txt 1 140 
+guilbert Soissons.txt 1 847 
+300 Soissons.txt 1 69 
+sixth Soissons.txt 1 707 
+disappeared Soissons.txt 1 244 
+manufacturing Soissons.txt 1 505 
+by Soissons.txt 6 101 134 327 721 811 844 
+on Soissons.txt 5 22 369 481 618 737 
+about Soissons.txt 3 26 68 587 
+central Soissons.txt 1 784 
+of Soissons.txt 59 14 19 32 37 42 50 58 97 120 161 164 178 181 185 193 208 217 227 229 242 260 266 281 302 313 324 334 340 355 367 384 393 408 420 452 472 485 491 516 524 549 554 557 576 581 593 640 647 663 668 679 686 699 732 740 745 786 796 819 
+spilled Soissons.txt 1 402 
+citizens Soissons.txt 1 326 
+fell Soissons.txt 1 168 
+or Soissons.txt 1 681 
+lands Soissons.txt 1 250 
+intendant Soissons.txt 1 734 
+into Soissons.txt 3 233 404 631 
+catherine Soissons.txt 1 682 
+son Soissons.txt 1 155 
+references Soissons.txt 1 854 
+england Soissons.txt 1 335 
+france Soissons.txt 1 43 
+panorama Soissons.txt 1 471 
+museum Soissons.txt 1 537 
+there Soissons.txt 2 437 751 
+long Soissons.txt 1 127 
+raped Soissons.txt 1 319 
+virgin Soissons.txt 1 670 
+pronunciation Soissons.txt 1 4 
+was Soissons.txt 17 94 132 158 223 342 412 438 480 585 609 614 622 673 695 804 809 831 
+war Soissons.txt 4 295 407 430 827 
+lowest Soissons.txt 1 591 
+solar Soissons.txt 1 489 
+with Soissons.txt 4 450 507 600 781 
+rebuilt Soissons.txt 2 810 832 
+he Soissons.txt 1 359 
+made Soissons.txt 1 224 
+1182 Soissons.txt 1 597 
+pippin Soissons.txt 1 267 
+monument Soissons.txt 1 759 
+irish Soissons.txt 1 288 
+later Soissons.txt 1 82 
+3.50 Soissons.txt 1 797 
+m Soissons.txt 2 788 798 
+an Soissons.txt 5 59 201 386 778 782 
+britain Soissons.txt 1 397 
+kingdom Soissons.txt 2 163 241 
+at Soissons.txt 5 90 263 306 364 729 
+advyn Soissons.txt 1 724 
+bishop Soissons.txt 1 284 
+constructed Soissons.txt 1 572 
+again Soissons.txt 1 823 
+floor Soissons.txt 1 792 
+crypt Soissons.txt 1 712 
+peace Soissons.txt 1 422 
+when Soissons.txt 2 247 358 
+department Soissons.txt 1 13 
+congress Soissons.txt 2 383 411 
+june Soissons.txt 1 375 
+meaning Soissons.txt 1 87 
+important Soissons.txt 2 202 527 
+486 Soissons.txt 1 150 
+building Soissons.txt 1 580 
+rule Soissons.txt 1 207 
+12 Soissons.txt 1 107 
+original Soissons.txt 2 602 802 
+8th Soissons.txt 1 198 

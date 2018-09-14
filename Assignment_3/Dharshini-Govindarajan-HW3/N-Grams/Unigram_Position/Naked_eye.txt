@@ -1,0 +1,505 @@
+limited Naked_eye.txt 1 459 
+all Naked_eye.txt 3 271 562 949 
+chinese Naked_eye.txt 1 947 
+asteroids Naked_eye.txt 1 98 
+magnifying Naked_eye.txt 2 43 1010 
+canes Naked_eye.txt 1 578 
+micrometers Naked_eye.txt 1 1112 
+passage Naked_eye.txt 1 88 
+to Naked_eye.txt 20 56 73 141 210 237 263 433 471 604 697 729 757 777 854 883 888 911 934 1104 1121 
+tail Naked_eye.txt 1 538 
+under Naked_eye.txt 8 246 265 501 592 595 617 666 1025 
+lore Naked_eye.txt 1 106 
+include Naked_eye.txt 2 513 827 
+dramatically Naked_eye.txt 1 178 
+very Naked_eye.txt 2 212 1158 
+exact Naked_eye.txt 1 753 
+minute Naked_eye.txt 1 1053 
+basics Naked_eye.txt 1 951 
+impressive Naked_eye.txt 1 112 
+bright Naked_eye.txt 2 634 733 
+large Naked_eye.txt 1 1159 
+mm Naked_eye.txt 5 1036 1065 1083 1094 1123 
+1/60 Naked_eye.txt 1 1054 
+small Naked_eye.txt 3 167 998 1006 
+venus Naked_eye.txt 3 661 717 810 
+shows Naked_eye.txt 1 1187 
+inspection Naked_eye.txt 1 1085 
+round Naked_eye.txt 1 1050 
+direct Naked_eye.txt 1 608 
+approximation Naked_eye.txt 1 155 
+likely Naked_eye.txt 1 236 
+estimated Naked_eye.txt 2 868 910 
+even Naked_eye.txt 5 195 342 606 738 1255 
+appear Naked_eye.txt 2 209 339 
+clock Naked_eye.txt 1 978 
+sun Naked_eye.txt 2 683 707 
+m33 Naked_eye.txt 2 551 601 
+while Naked_eye.txt 1 395 
+lights Naked_eye.txt 1 1246 
+above Naked_eye.txt 1 1164 
+international Naked_eye.txt 1 842 
+centaurus Naked_eye.txt 1 638 
+bird Naked_eye.txt 1 16 
+1012 Naked_eye.txt 1 830 
+degree Naked_eye.txt 1 936 
+residual Naked_eye.txt 1 218 
+here Naked_eye.txt 1 13 
+0.116 Naked_eye.txt 1 1082 
+ranges Naked_eye.txt 1 1118 
+objects Naked_eye.txt 10 188 230 479 509 613 623 690 712 852 999 
+galilean Naked_eye.txt 1 311 
+kilometers Naked_eye.txt 1 199 
+galileo Naked_eye.txt 1 791 
+100 Naked_eye.txt 2 837 904 
+invented Naked_eye.txt 1 318 
+observing Naked_eye.txt 3 241 919 1003 
+galilei Naked_eye.txt 1 792 
+extreme Naked_eye.txt 1 434 
+noticeable Naked_eye.txt 1 688 
+technical Naked_eye.txt 1 1146 
+allows Naked_eye.txt 1 138 
+35 Naked_eye.txt 1 1039 
+amount Naked_eye.txt 1 1197 
+milky Naked_eye.txt 3 847 1152 1177 
+navigation Naked_eye.txt 1 861 
+bodes Naked_eye.txt 1 640 
+visible Naked_eye.txt 10 283 409 451 511 560 587 616 853 1155 1180 
+extinction Naked_eye.txt 1 414 
+use Naked_eye.txt 1 1088 
+from Naked_eye.txt 5 165 201 654 1119 1258 
+wealth Naked_eye.txt 1 113 
+would Naked_eye.txt 1 386 
+surroundings Naked_eye.txt 1 147 
+faint Naked_eye.txt 4 229 278 341 1141 
+few Naked_eye.txt 3 197 447 507 
+magnification Naked_eye.txt 1 788 
+6 Naked_eye.txt 2 264 394 
+historically Naked_eye.txt 1 759 
+more Naked_eye.txt 1 488 
+knows Naked_eye.txt 1 751 
+becomes Naked_eye.txt 1 1239 
+apparent Naked_eye.txt 1 260 
+corrected Naked_eye.txt 1 55 
+visibility Naked_eye.txt 4 181 185 227 476 
+glass Naked_eye.txt 1 1011 
+visual Naked_eye.txt 2 38 136 
+cases Naked_eye.txt 2 716 726 
+92 Naked_eye.txt 1 582 
+sculptor Naked_eye.txt 1 642 
+town Naked_eye.txt 1 169 
+this Naked_eye.txt 4 418 457 986 1217 
+work Naked_eye.txt 1 767 
+obvious Naked_eye.txt 1 709 
+can Naked_eye.txt 16 77 99 117 208 255 439 453 649 674 718 740 866 908 927 971 1252 
+figure Naked_eye.txt 1 1134 
+give Naked_eye.txt 1 928 
+0.1 Naked_eye.txt 1 1120 
+december Naked_eye.txt 1 834 
+0.3 Naked_eye.txt 1 1122 
+0.2 Naked_eye.txt 1 982 
+purposes Naked_eye.txt 1 1086 
+orion Naked_eye.txt 1 525 
+station Naked_eye.txt 1 844 
+rods Naked_eye.txt 1 467 
+information Naked_eye.txt 1 144 
+respective Naked_eye.txt 1 954 
+scorpius Naked_eye.txt 1 540 
+5.8 Naked_eye.txt 1 673 
+globular Naked_eye.txt 2 543 573 
+links Naked_eye.txt 1 1270 
+1 Naked_eye.txt 3 293 935 1051 
+maps Naked_eye.txt 2 1001 1144 
+astronomers Naked_eye.txt 1 1237 
+instead Naked_eye.txt 1 468 
+plans Naked_eye.txt 1 1147 
+may Naked_eye.txt 1 70 
+averted Naked_eye.txt 2 555 680 
+lighting Naked_eye.txt 1 1027 
+demonstrating Naked_eye.txt 1 1161 
+such Naked_eye.txt 9 48 82 247 480 508 593 618 636 825 
+a Naked_eye.txt 33 42 50 90 93 139 153 157 166 172 196 202 365 377 425 506 553 639 794 893 925 963 976 1004 1009 1013 1059 1069 1089 1116 1167 1206 1232 1259 
+light Naked_eye.txt 9 176 193 219 272 437 492 1029 1229 1263 
+rather Naked_eye.txt 1 367 
+so Naked_eye.txt 1 340 
+geographic Naked_eye.txt 1 931 
+typical Naked_eye.txt 4 248 378 502 667 
+pointed Naked_eye.txt 1 793 
+including Naked_eye.txt 1 102 
+mm~55-75 Naked_eye.txt 1 1111 
+still Naked_eye.txt 1 216 
+its Naked_eye.txt 1 1262 
+galaxy Naked_eye.txt 4 520 550 641 643 
+before Naked_eye.txt 1 315 
+perfect Naked_eye.txt 2 266 397 
+positional Naked_eye.txt 1 1138 
+saturn Naked_eye.txt 1 665 
+20 Naked_eye.txt 1 889 
+how Naked_eye.txt 1 1188 
+better Naked_eye.txt 1 817 
+detected Naked_eye.txt 1 352 
+degrees Naked_eye.txt 2 1040 1055 
+systems Naked_eye.txt 1 958 
+400 Naked_eye.txt 1 1064 
+latitude Naked_eye.txt 1 932 
+clusters Naked_eye.txt 2 483 574 
+hidden Naked_eye.txt 1 1273 
+might Naked_eye.txt 2 281 407 
+triangulum Naked_eye.txt 1 549 
+usa Naked_eye.txt 1 1075 
+affected Naked_eye.txt 2 191 490 
+babylonians Naked_eye.txt 1 940 
+practice Naked_eye.txt 2 34 411 
+they Naked_eye.txt 1 338 
+not Naked_eye.txt 2 332 350 
+represents Naked_eye.txt 1 987 
+brightness Naked_eye.txt 1 345 
+edit Naked_eye.txt 8 127 152 862 1002 1150 1266 1268 1271 
+radians Naked_eye.txt 1 1057 
+magnitude Naked_eye.txt 4 261 321 431 672 
+difficult Naked_eye.txt 1 554 
+0.058 Naked_eye.txt 1 1109 
+telescope Naked_eye.txt 4 51 366 795 1160 
+engaging Naked_eye.txt 1 36 
+literature Naked_eye.txt 1 1265 
+measurement Naked_eye.txt 1 1117 
+83 Naked_eye.txt 1 646 
+recognizable Naked_eye.txt 1 1103 
+sunrise Naked_eye.txt 1 732 
+really Naked_eye.txt 1 596 
+canopus Naked_eye.txt 1 739 
+space Naked_eye.txt 2 843 858 
+7 Naked_eye.txt 1 535 
+centauri Naked_eye.txt 1 528 
+shut Naked_eye.txt 1 1248 
+perception Naked_eye.txt 2 39 137 
+galaxies Naked_eye.txt 2 485 635 
+200250 Naked_eye.txt 1 1093 
+egyptians Naked_eye.txt 1 943 
+systemare Naked_eye.txt 1 694 
+telescopes Naked_eye.txt 1 316 
+could Naked_eye.txt 2 331 349 
+ptolemy Naked_eye.txt 1 532 
+motion Naked_eye.txt 1 348 
+uses Naked_eye.txt 2 5 466 
+first Naked_eye.txt 1 360 
+moonthe Naked_eye.txt 1 686 
+number Naked_eye.txt 1 419 
+one Naked_eye.txt 1 750 
+quality Naked_eye.txt 1 1191 
+angular Naked_eye.txt 2 285 1042 
+size Naked_eye.txt 3 1016 1043 1099 
+mercury Naked_eye.txt 1 660 
+city Naked_eye.txt 2 426 1260 
+ancient Naked_eye.txt 2 942 944 
+top Naked_eye.txt 1 170 
+their Naked_eye.txt 4 146 244 347 953 
+2 Naked_eye.txt 2 444 913 
+hundred Naked_eye.txt 1 198 
+gives Naked_eye.txt 1 1096 
+persei Naked_eye.txt 1 517 
+way Naked_eye.txt 3 848 1153 1178 
+that Naked_eye.txt 10 76 116 221 301 306 346 463 496 624 1175 
+environmental Naked_eye.txt 1 1148 
+optical Naked_eye.txt 1 46 
+somewhat Naked_eye.txt 1 420 
+photographic Naked_eye.txt 1 154 
+than Naked_eye.txt 7 300 368 393 405 494 567 822 
+distance Naked_eye.txt 6 891 994 1024 1061 1072 1091 
+observatory Naked_eye.txt 2 776 1166 
+16 Naked_eye.txt 1 1063 
+18 Naked_eye.txt 1 887 
+meteorology Naked_eye.txt 1 1222 
+second Naked_eye.txt 1 983 
+limiting Naked_eye.txt 1 430 
+shower Naked_eye.txt 1 95 
+were Naked_eye.txt 1 317 
+and Naked_eye.txt 28 107 171 323 415 484 499 541 558 580 644 664 684 706 723 731 806 832 845 860 914 923 946 956 1000 1124 1145 1201 1223 
+disambiguation Naked_eye.txt 1 9 
+manner Naked_eye.txt 1 965 
+have Naked_eye.txt 2 297 625 
+seen Naked_eye.txt 8 101 119 309 329 455 627 676 1254 
+any Naked_eye.txt 1 785 
+viewed Naked_eye.txt 1 79 
+angle Naked_eye.txt 2 885 1038 
+built Naked_eye.txt 1 773 
+depending Naked_eye.txt 1 1194 
+latter Naked_eye.txt 1 1133 
+1610 Naked_eye.txt 1 790 
+also Naked_eye.txt 3 25 586 615 
+which Naked_eye.txt 3 756 1066 1095 
+sirius Naked_eye.txt 1 736 
+accuracy Naked_eye.txt 4 938 980 1114 1139 
+200 Naked_eye.txt 1 989 
+added Naked_eye.txt 1 696 
+normal Naked_eye.txt 3 57 1026 1070 
+object Naked_eye.txt 5 557 1007 1019 1078 1102 
+reach Naked_eye.txt 1 245 
+most Naked_eye.txt 3 232 326 621 
+comparing Naked_eye.txt 1 1181 
+measured Naked_eye.txt 1 948 
+metropolitan Naked_eye.txt 2 173 203 
+considered Naked_eye.txt 2 63 1068 
+clear Naked_eye.txt 1 1162 
+sometimes Naked_eye.txt 2 96 695 
+m Naked_eye.txt 2 575 581 
+km Naked_eye.txt 1 997 
+messier Naked_eye.txt 3 534 612 645 
+sunset Naked_eye.txt 1 730 
+clean Naked_eye.txt 1 1168 
+fact Naked_eye.txt 2 462 1174 
+precise Naked_eye.txt 1 779 
+atmosphere Naked_eye.txt 2 1163 1169 
+600700 Naked_eye.txt 1 1035 
+accuracies Naked_eye.txt 2 126 130 
+discovered Naked_eye.txt 3 355 362 801 
+colors Naked_eye.txt 1 452 
+uranus Naked_eye.txt 3 322 353 671 
+earth Naked_eye.txt 1 655 
+degraded Naked_eye.txt 1 1193 
+heavens Naked_eye.txt 1 783 
+categories Naked_eye.txt 2 1272 1274 
+northern Naked_eye.txt 1 917 
+lumens Naked_eye.txt 1 1032 
+brighter Naked_eye.txt 2 392 404 
+only Naked_eye.txt 4 505 559 703 988 
+8 Naked_eye.txt 2 280 406 
+astronomical Naked_eye.txt 2 85 187 
+over Naked_eye.txt 1 1156 
+during Naked_eye.txt 1 701 
+conjunction Naked_eye.txt 1 86 
+turbulence Naked_eye.txt 1 1213 
+h Naked_eye.txt 1 516 
+naked Naked_eye.txt 21 0 7 21 23 64 68 148 158 253 289 373 590 630 658 710 745 820 856 960 1046 1106 
+microscope Naked_eye.txt 2 53 1014 
+fainter Naked_eye.txt 1 473 
+where Naked_eye.txt 3 205 270 427 
+vision Naked_eye.txt 5 54 299 556 609 681 
+view Naked_eye.txt 2 160 472 
+spotted Naked_eye.txt 3 370 720 742 
+venatici Naked_eye.txt 1 579 
+observer Naked_eye.txt 1 1131 
+up Naked_eye.txt 3 262 897 933 
+observed Naked_eye.txt 2 818 973 
+see Naked_eye.txt 5 6 18 256 387 605 
+arc Naked_eye.txt 1 1052 
+bare Naked_eye.txt 2 10 27 
+are Naked_eye.txt 10 135 235 510 585 614 632 708 816 849 1247 
+close Naked_eye.txt 1 728 
+calendar Naked_eye.txt 1 957 
+arm Naked_eye.txt 1 874 
+best Naked_eye.txt 1 240 
+bare-eye Naked_eye.txt 1 19 
+phases Naked_eye.txt 1 808 
+away Naked_eye.txt 2 200 1257 
+nebula Naked_eye.txt 2 523 526 
+wikipedia Naked_eye.txt 1 2 
+3 Naked_eye.txt 1 576 
+smallest Naked_eye.txt 2 1077 1098 
+various Naked_eye.txt 1 108 
+moons Naked_eye.txt 3 312 803 993 
+probably Naked_eye.txt 1 327 
+reading Naked_eye.txt 1 1071 
+conditions Naked_eye.txt 10 242 251 269 400 504 594 599 619 670 1028 
+thumbnail Naked_eye.txt 1 901 
+andromeda Naked_eye.txt 1 519 
+august Naked_eye.txt 1 831 
+vertical Naked_eye.txt 1 907 
+importance Naked_eye.txt 1 1220 
+however Naked_eye.txt 2 294 600 
+dome Naked_eye.txt 1 1264 
+twinkling Naked_eye.txt 1 1204 
+rarer Naked_eye.txt 1 725 
+brahe Naked_eye.txt 1 770 
+paranal Naked_eye.txt 1 1165 
+many Naked_eye.txt 4 610 715 863 1245 
+385,000 Naked_eye.txt 1 996 
+comet Naked_eye.txt 1 91 
+genus Naked_eye.txt 1 17 
+adapted Naked_eye.txt 1 383 
+lenses Naked_eye.txt 1 61 
+nearby Naked_eye.txt 2 633 1005 
+among Naked_eye.txt 1 811 
+had Naked_eye.txt 2 308 325 
+corresponds Naked_eye.txt 1 882 
+height Naked_eye.txt 1 1034 
+m13 Naked_eye.txt 1 545 
+stretched Naked_eye.txt 1 876 
+late Naked_eye.txt 1 1241 
+carina Naked_eye.txt 1 522 
+source Naked_eye.txt 1 1030 
+unaided Naked_eye.txt 3 30 40 122 
+due Naked_eye.txt 1 432 
+been Naked_eye.txt 2 328 626 
+much Naked_eye.txt 2 143 487 
+basic Naked_eye.txt 2 125 129 
+acuity Naked_eye.txt 1 58 
+tycho Naked_eye.txt 1 769 
+observers Naked_eye.txt 1 930 
+observe Naked_eye.txt 1 74 
+external Naked_eye.txt 1 1269 
+covered Naked_eye.txt 1 896 
+an Naked_eye.txt 9 84 111 259 774 870 873 884 979 1209 
+diffuse Naked_eye.txt 1 478 
+atmospheric Naked_eye.txt 1 413 
+look Naked_eye.txt 1 758 
+these Naked_eye.txt 2 234 512 
+air Naked_eye.txt 3 1199 1216 1250 
+will Naked_eye.txt 2 1048 1080 
+near Naked_eye.txt 1 536 
+15461601 Naked_eye.txt 1 771 
+seven Naked_eye.txt 1 699 
+showers Naked_eye.txt 2 815 826 
+zenith Naked_eye.txt 2 761 1183 
+is Naked_eye.txt 25 32 62 189 215 274 291 303 458 486 495 552 565 602 875 902 984 1067 1135 1154 1170 1179 1192 1208 1218 1231 
+0.072 Naked_eye.txt 1 1110 
+it Naked_eye.txt 2 214 564 
+cluster Naked_eye.txt 2 533 544 
+experience Naked_eye.txt 1 1128 
+in Naked_eye.txt 23 37 65 150 356 376 396 410 421 546 569 577 583 607 714 721 724 755 789 915 962 1073 1143 1221 
+technology Naked_eye.txt 1 364 
+if Naked_eye.txt 2 563 872 
+things Naked_eye.txt 2 813 865 
+make Naked_eye.txt 2 698 778 
+protractor Naked_eye.txt 1 926 
+contents Naked_eye.txt 1 124 
+events Naked_eye.txt 1 75 
+higher Naked_eye.txt 1 566 
+used Naked_eye.txt 1 72 
+blue Naked_eye.txt 1 1190 
+hand Naked_eye.txt 1 881 
+binoculars Naked_eye.txt 1 824 
+viewing Naked_eye.txt 4 1023 1037 1060 1090 
+anecdotal Naked_eye.txt 1 304 
+dust Naked_eye.txt 3 416 1202 1251 
+off Naked_eye.txt 1 1249 
+center Naked_eye.txt 1 423 
+geminids Naked_eye.txt 1 835 
+well Naked_eye.txt 1 678 
+person Naked_eye.txt 2 140 894 
+without Naked_eye.txt 4 80 784 869 1008 
+sets Naked_eye.txt 1 222 
+position Naked_eye.txt 1 754 
+the Naked_eye.txt 99 15 20 33 67 87 121 128 132 162 180 184 206 217 223 226 239 252 284 288 310 359 372 381 388 412 422 428 461 464 475 514 518 521 524 531 537 542 548 570 572 589 620 629 657 682 685 692 704 744 752 760 766 782 797 802 807 828 833 841 846 855 877 880 890 899 906 916 920 929 939 950 969 992 1015 1018 1022 1041 1074 1076 1097 1101 1105 1113 1127 1130 1132 1136 1151 1157 1173 1176 1182 1185 1189 1196 1203 1212 1215 1225 
+laboratories Naked_eye.txt 1 1087 
+usual Naked_eye.txt 1 1137 
+redirects Naked_eye.txt 1 12 
+just Naked_eye.txt 1 895 
+less Naked_eye.txt 1 1240 
+being Naked_eye.txt 1 369 
+1781 Naked_eye.txt 1 357 
+satellites Naked_eye.txt 1 838 
+hercules Naked_eye.txt 2 547 584 
+distant Naked_eye.txt 1 622 
+human Naked_eye.txt 2 133 384 
+immediately Naked_eye.txt 1 800 
+0.0003 Naked_eye.txt 1 1056 
+equipment Naked_eye.txt 1 81 
+sky Naked_eye.txt 11 105 164 207 250 268 380 399 571 598 669 798 
+instrument Naked_eye.txt 2 47 871 
+4 Naked_eye.txt 1 103 
+easy Naked_eye.txt 1 603 
+extensive Naked_eye.txt 1 775 
+remaining Naked_eye.txt 1 687 
+details Naked_eye.txt 1 1142 
+tests Naked_eye.txt 1 109 
+depends Naked_eye.txt 2 1020 1125 
+possible Naked_eye.txt 1 985 
+dark Naked_eye.txt 9 213 249 267 379 382 398 503 597 668 
+five Naked_eye.txt 1 647 
+using Naked_eye.txt 4 59 363 924 975 
+like Naked_eye.txt 1 735 
+reduces Naked_eye.txt 2 179 417 
+50 Naked_eye.txt 2 449 568 
+indication Naked_eye.txt 1 1210 
+vesta Naked_eye.txt 2 104 324 
+night Naked_eye.txt 3 163 840 1243 
+popular Naked_eye.txt 1 851 
+5,600 Naked_eye.txt 1 390 
+because Naked_eye.txt 1 337 
+cones Naked_eye.txt 1 470 
+people Naked_eye.txt 3 233 296 307 
+some Naked_eye.txt 3 97 295 836 
+daylight Naked_eye.txt 2 702 722 
+towards Naked_eye.txt 1 796 
+jupiter Naked_eye.txt 4 314 663 727 805 
+perseids Naked_eye.txt 1 829 
+pleiades Naked_eye.txt 1 515 
+for Naked_eye.txt 7 3 14 231 787 1084 1224 1235 
+bottom Naked_eye.txt 1 175 
+measurements Naked_eye.txt 1 780 
+per Naked_eye.txt 1 839 
+moon Naked_eye.txt 2 705 970 
+45,000 Naked_eye.txt 1 402 
+be Naked_eye.txt 22 71 78 100 118 211 238 282 333 351 408 440 454 650 675 719 741 867 909 972 1049 1081 1253 
+indicated Naked_eye.txt 1 1171 
+eye Naked_eye.txt 27 1 8 11 22 24 28 31 69 123 134 149 159 254 290 374 385 465 591 631 659 711 746 821 857 961 1047 1107 
+occultations Naked_eye.txt 1 967 
+by Naked_eye.txt 14 41 192 371 460 491 628 819 898 959 968 974 1045 1172 1261 
+on Naked_eye.txt 4 225 1021 1126 1195 
+about Naked_eye.txt 6 145 292 389 401 903 912 
+sharper Naked_eye.txt 1 298 
+of Naked_eye.txt 45 35 89 114 131 156 161 182 186 228 287 313 319 424 436 469 477 497 539 691 762 768 781 804 809 879 886 892 937 952 981 995 1017 1062 1092 1100 1108 1115 1129 1140 1198 1205 1211 1214 1219 1227 
+recognized Naked_eye.txt 3 334 651 1044 
+horizon Naked_eye.txt 1 1186 
+or Naked_eye.txt 6 29 44 52 92 737 1012 
+pollution Naked_eye.txt 9 177 194 220 273 438 493 1149 1200 1230 
+seeing Naked_eye.txt 1 1226 
+indians Naked_eye.txt 1 945 
+significant Naked_eye.txt 1 1233 
+instruments Naked_eye.txt 1 786 
+within Naked_eye.txt 1 243 
+references Naked_eye.txt 1 1267 
+theoretically Naked_eye.txt 1 375 
+span Naked_eye.txt 1 878 
+area Naked_eye.txt 2 174 204 
+there Naked_eye.txt 1 302 
+long Naked_eye.txt 1 748 
+low Naked_eye.txt 1 442 
+stars Naked_eye.txt 9 183 257 276 391 403 450 474 500 734 
+tucanae Naked_eye.txt 1 530 
+was Naked_eye.txt 2 358 765 
+amateur Naked_eye.txt 1 1236 
+phenomena Naked_eye.txt 1 115 
+mars Naked_eye.txt 1 662 
+but Naked_eye.txt 4 330 456 713 1238 
+hemisphere Naked_eye.txt 1 918 
+gain Naked_eye.txt 1 142 
+solar Naked_eye.txt 1 693 
+with Naked_eye.txt 9 120 258 445 588 656 679 743 823 1184 
+he Naked_eye.txt 2 772 799 
+absent Naked_eye.txt 1 275 
+maximum Naked_eye.txt 1 344 
+planet Naked_eye.txt 1 361 
+limit Naked_eye.txt 1 224 
+demonstrate Naked_eye.txt 1 110 
+problem Naked_eye.txt 1 1234 
+similar Naked_eye.txt 2 320 964 
+called Naked_eye.txt 1 26 
+strongly Naked_eye.txt 2 190 489 
+corrective Naked_eye.txt 1 60 
+pole Naked_eye.txt 1 921 
+evidence Naked_eye.txt 1 305 
+as Naked_eye.txt 15 49 83 277 279 335 441 443 446 448 481 637 652 677 747 749 
+at Naked_eye.txt 6 343 561 991 1033 1058 1242 
+planets Naked_eye.txt 5 336 498 648 653 700 
+outstretched Naked_eye.txt 1 900 
+amounts Naked_eye.txt 1 435 
+47 Naked_eye.txt 1 529 
+when Naked_eye.txt 2 354 1244 
+other Naked_eye.txt 5 4 611 812 850 864 
+geodesy Naked_eye.txt 1 859 
+meteor Naked_eye.txt 2 94 814 
+digital Naked_eye.txt 1 977 
+light-collecting Naked_eye.txt 1 45 
+meters Naked_eye.txt 2 905 990 
+star Naked_eye.txt 4 482 922 966 1207 
+naked-eye Naked_eye.txt 3 429 689 763 
+astronomy Naked_eye.txt 4 66 151 764 1228 
+omega Naked_eye.txt 1 527 
+1000 Naked_eye.txt 1 1031 
+time Naked_eye.txt 1 955 
+far Naked_eye.txt 1 1256 
+rural Naked_eye.txt 1 168 
+resolution Naked_eye.txt 2 286 1079 
+mayans Naked_eye.txt 1 941 

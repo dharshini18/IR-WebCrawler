@@ -1,0 +1,500 @@
+secondly Eclipse_cycle.txt 1 647 
+all Eclipse_cycle.txt 1 678 
+syzygies Eclipse_cycle.txt 1 1088 
+partial Eclipse_cycle.txt 1 1019 
+consider Eclipse_cycle.txt 1 972 
+limited Eclipse_cycle.txt 1 961 
+results Eclipse_cycle.txt 1 1645 
+month Eclipse_cycle.txt 16 535 538 572 595 670 676 687 820 1033 1039 1200 1210 1240 1256 1456 1471 
+disc Eclipse_cycle.txt 1 357 
+comments Eclipse_cycle.txt 1 1660 
+causes Eclipse_cycle.txt 1 1040 
+certainly Eclipse_cycle.txt 1 823 
+technique Eclipse_cycle.txt 1 1431 
+recurrence Eclipse_cycle.txt 1 471 
+to Eclipse_cycle.txt 38 139 216 241 352 367 383 385 399 441 496 565 567 583 585 630 637 715 717 759 840 856 918 926 948 971 1068 1091 1095 1115 1124 1147 1205 1215 1226 1383 1459 1476 1713 
+elliptic Eclipse_cycle.txt 1 989 
+syzygy Eclipse_cycle.txt 3 176 438 1342 
+nodes Eclipse_cycle.txt 7 426 490 524 650 702 745 1267 
+must Eclipse_cycle.txt 4 380 447 756 1112 
+summarizes Eclipse_cycle.txt 1 1631 
+far Eclipse_cycle.txt 1 317 
+223/38 Eclipse_cycle.txt 1 1593 
+every Eclipse_cycle.txt 4 195 534 953 1453 
+5.868829337 Eclipse_cycle.txt 1 1604 
+fall Eclipse_cycle.txt 1 838 
+difference Eclipse_cycle.txt 2 680 1291 
+continued Eclipse_cycle.txt 2 1427 1485 
+categories Eclipse_cycle.txt 1 1794 
+5.868831091 Eclipse_cycle.txt 1 1556 
+notes Eclipse_cycle.txt 1 1701 
+p Eclipse_cycle.txt 2 936 955 
+small Eclipse_cycle.txt 1 414 
+slower Eclipse_cycle.txt 1 1074 
+periodicity Eclipse_cycle.txt 1 873 
+past Eclipse_cycle.txt 1 776 
+likely Eclipse_cycle.txt 2 806 947 
+5;1,6,1,1,1,1,1,11,1 Eclipse_cycle.txt 1 1557 
+pass Eclipse_cycle.txt 2 107 145 
+further Eclipse_cycle.txt 1 797 
+even Eclipse_cycle.txt 1 796 
+sun Eclipse_cycle.txt 21 76 86 103 112 141 227 243 279 446 520 547 592 626 646 699 714 852 1171 1207 1224 1252 
+2.170731707 Eclipse_cycle.txt 1 1515 
+dm/2 Eclipse_cycle.txt 1 1480 
+above Eclipse_cycle.txt 2 1145 1311 
+new Eclipse_cycle.txt 9 93 196 244 311 753 792 835 1058 1343 
+method Eclipse_cycle.txt 1 1425 
+body Eclipse_cycle.txt 1 82 
+full Eclipse_cycle.txt 9 131 198 250 328 661 766 1043 1056 1346 
+notable Eclipse_cycle.txt 1 1664 
+equals Eclipse_cycle.txt 1 1326 
+hours Eclipse_cycle.txt 1 1093 
+i.e Eclipse_cycle.txt 4 365 408 1236 1286 
+along Eclipse_cycle.txt 1 706 
+2.170391732 Eclipse_cycle.txt 1 1539 
+ahead Eclipse_cycle.txt 1 798 
+larger Eclipse_cycle.txt 2 271 372 
+timings Eclipse_cycle.txt 1 1052 
+amount Eclipse_cycle.txt 1 1411 
+negative Eclipse_cycle.txt 1 1753 
+usually Eclipse_cycle.txt 1 255 
+draconic Eclipse_cycle.txt 14 571 669 686 725 909 1209 1255 1284 1296 1333 1370 1402 1455 1467 
+narrow Eclipse_cycle.txt 1 117 
+changes Eclipse_cycle.txt 1 1004 
+diameter Eclipse_cycle.txt 4 276 346 1007 1105 
+named Eclipse_cycle.txt 2 1499 1565 
+visible Eclipse_cycle.txt 1 157 
+semester Eclipse_cycle.txt 2 1512 1574 
+716/61 Eclipse_cycle.txt 1 1600 
+2.166666667 Eclipse_cycle.txt 1 1511 
+total Eclipse_cycle.txt 1 1021 
+27.212220817/2 Eclipse_cycle.txt 1 1482 
+from Eclipse_cycle.txt 11 115 158 177 233 285 477 555 695 994 1158 1642 
+takes Eclipse_cycle.txt 3 561 579 1348 
+remains Eclipse_cycle.txt 1 957 
+two Eclipse_cycle.txt 4 425 489 1400 1679 
+periodically Eclipse_cycle.txt 1 1083 
+inex Eclipse_cycle.txt 6 1536 1601 1691 1705 1719 1776 
+therefore Eclipse_cycle.txt 2 308 1012 
+totality Eclipse_cycle.txt 1 5 
+6 Eclipse_cycle.txt 5 831 1108 1513 1572 1575 
+taken Eclipse_cycle.txt 1 1157 
+type Eclipse_cycle.txt 1 1018 
+more Eclipse_cycle.txt 3 772 871 1654 
+separated Eclipse_cycle.txt 2 29 45 
+apparent Eclipse_cycle.txt 5 274 344 1006 1102 1248 
+occurred Eclipse_cycle.txt 1 888 
+surface Eclipse_cycle.txt 2 121 287 
+varying Eclipse_cycle.txt 1 1002 
+aligned Eclipse_cycle.txt 1 73 
+circumstances Eclipse_cycle.txt 1 863 
+1991 Eclipse_cycle.txt 1 1161 
+1997 Eclipse_cycle.txt 1 1652 
+this Eclipse_cycle.txt 11 263 415 634 956 1001 1026 1385 1429 1489 1629 1737 
+eclipse Eclipse_cycle.txt 43 0 39 57 60 129 155 190 388 390 444 462 470 503 530 541 723 749 813 849 887 897 931 943 951 1025 1110 1220 1242 1258 1271 1312 1340 1363 1416 1452 1550 1614 1626 1636 1671 1709 1726 1770 
+longitude Eclipse_cycle.txt 2 589 658 
+values Eclipse_cycle.txt 2 1131 1309 
+can Eclipse_cycle.txt 9 391 493 1273 1301 1364 1420 1639 1681 1710 
+meet Eclipse_cycle.txt 1 1195 
+nearest Eclipse_cycle.txt 1 240 
+5.857142857 Eclipse_cycle.txt 1 1577 
+links Eclipse_cycle.txt 1 1792 
+give Eclipse_cycle.txt 1 1395 
+2.170391682 Eclipse_cycle.txt 2 1483 1492 
+346.6201 Eclipse_cycle.txt 1 728 
+however,the Eclipse_cycle.txt 1 1367 
+occur Eclipse_cycle.txt 8 27 65 393 494 500 533 895 1365 
+rather Eclipse_cycle.txt 1 878 
+holds Eclipse_cycle.txt 1 940 
+1 Eclipse_cycle.txt 15 1509 1517 1521 1525 1529 1533 1540 1570 1579 1584 1588 1592 1597 1605 1741 
+beat Eclipse_cycle.txt 1 1278 
+varies Eclipse_cycle.txt 1 996 
+influences Eclipse_cycle.txt 1 1013 
+convergents Eclipse_cycle.txt 2 1495 1559 
+ch.9 Eclipse_cycle.txt 1 1653 
+may Eclipse_cycle.txt 9 26 64 106 144 499 781 783 1449 1619 
+after Eclipse_cycle.txt 3 539 952 1338 
+sm/half Eclipse_cycle.txt 1 1560 
+diagram Eclipse_cycle.txt 1 476 
+produce Eclipse_cycle.txt 1 442 
+89/41 Eclipse_cycle.txt 1 1514 
+saros Eclipse_cycle.txt 8 8 21 1532 1596 1688 1702 1716 1772 
+such Eclipse_cycle.txt 1 1336 
+types Eclipse_cycle.txt 1 1140 
+a Eclipse_cycle.txt 31 47 116 127 153 173 451 460 468 473 505 513 568 660 668 674 718 736 747 760 774 811 960 982 1315 1319 1341 1352 1433 1685 1714 1724 
+4519/770 Eclipse_cycle.txt 1 1606 
+2.170391679 Eclipse_cycle.txt 1 1542 
+lengths Eclipse_cycle.txt 1 1136 
+so Eclipse_cycle.txt 8 91 230 667 802 861 929 990 1472 
+progressively Eclipse_cycle.txt 1 1436 
+sm Eclipse_cycle.txt 1 1479 
+octon Eclipse_cycle.txt 2 1520 1583 
+order Eclipse_cycle.txt 2 636 1123 
+6/1 Eclipse_cycle.txt 1 1571 
+j2000.0 Eclipse_cycle.txt 1 1156 
+indeed Eclipse_cycle.txt 2 1269 1674 
+2;5,1,6,1,1,1,1,1,11,1 Eclipse_cycle.txt 1 1493 
+years Eclipse_cycle.txt 2 24 666 
+course Eclipse_cycle.txt 1 440 
+through Eclipse_cycle.txt 1 146 
+136 Eclipse_cycle.txt 1 10 
+still Eclipse_cycle.txt 1 877 
+its Eclipse_cycle.txt 6 363 410 428 707 777 985 
+perfect Eclipse_cycle.txt 2 384 983 
+somewhere Eclipse_cycle.txt 1 814 
+hepton Eclipse_cycle.txt 2 1516 1578 
+4161/709 Eclipse_cycle.txt 1 1603 
+better Eclipse_cycle.txt 1 1437 
+latitude Eclipse_cycle.txt 1 412 
+main Eclipse_cycle.txt 3 597 1167 1183 
+apogee Eclipse_cycle.txt 1 1079 
+then Eclipse_cycle.txt 5 762 892 944 1394 1732 
+junction Eclipse_cycle.txt 1 180 
+greater Eclipse_cycle.txt 1 1739 
+combination Eclipse_cycle.txt 1 1686 
+5.868421053 Eclipse_cycle.txt 1 1594 
+precess Eclipse_cycle.txt 1 654 
+half Eclipse_cycle.txt 6 161 847 1454 1466 1496 1549 
+front Eclipse_cycle.txt 1 109 
+day Eclipse_cycle.txt 1 775 
+name Eclipse_cycle.txt 1 175 
+edit Eclipse_cycle.txt 9 62 472 874 1132 1628 1707 1788 1790 1793 
+fully Eclipse_cycle.txt 1 353 
+decimal Eclipse_cycle.txt 2 1498 1562 
+filling Eclipse_cycle.txt 1 1305 
+each Eclipse_cycle.txt 2 1186 1609 
+found Eclipse_cycle.txt 1 1422 
+beneath Eclipse_cycle.txt 1 292 
+mean Eclipse_cycle.txt 3 275 304 1097 
+tilted Eclipse_cycle.txt 1 213 
+series Eclipse_cycle.txt 12 9 18 42 58 1434 1555 1703 1706 1717 1720 1773 1777 
+numeric Eclipse_cycle.txt 1 1442 
+ey Eclipse_cycle.txt 2 1561 1564 
+year Eclipse_cycle.txt 13 514 726 733 738 850 1221 1243 1259 1272 1551 1722 1747 1755 
+happen Eclipse_cycle.txt 1 193 
+event Eclipse_cycle.txt 1 826 
+special Eclipse_cycle.txt 1 174 
+5.868852459 Eclipse_cycle.txt 1 1599 
+9808/4519 Eclipse_cycle.txt 1 1541 
+since Eclipse_cycle.txt 1 1447 
+misses Eclipse_cycle.txt 1 332 
+formula Eclipse_cycle.txt 2 1299 1700 
+cause Eclipse_cycle.txt 2 126 386 
+occurs Eclipse_cycle.txt 1 750 
+passes Eclipse_cycle.txt 2 315 700 
+ascending Eclipse_cycle.txt 1 1176 
+ecliptic Eclipse_cycle.txt 7 229 411 432 588 657 708 1360 
+reason Eclipse_cycle.txt 1 598 
+pairs Eclipse_cycle.txt 1 1191 
+e.g Eclipse_cycle.txt 1 1159 
+geometry Eclipse_cycle.txt 1 544 
+days Eclipse_cycle.txt 1 691 
+motion Eclipse_cycle.txt 3 976 1249 1264 
+thing Eclipse_cycle.txt 1 970 
+plane Eclipse_cycle.txt 3 202 218 401 
+place Eclipse_cycle.txt 1 1349 
+sm/full Eclipse_cycle.txt 1 1563 
+south Eclipse_cycle.txt 1 320 
+meeus Eclipse_cycle.txt 2 1160 1651 
+already Eclipse_cycle.txt 1 771 
+symbolic Eclipse_cycle.txt 1 474 
+number Eclipse_cycle.txt 7 916 924 1118 1321 1331 1380 1464 
+one Eclipse_cycle.txt 10 20 50 81 422 506 537 752 869 1196 1335 
+approximately Eclipse_cycle.txt 4 22 939 1407 1734 
+another Eclipse_cycle.txt 3 950 969 1197 
+miss Eclipse_cycle.txt 1 785 
+angular Eclipse_cycle.txt 2 345 1104 
+earths Eclipse_cycle.txt 1 787 
+given Eclipse_cycle.txt 4 941 1657 1715 1733 
+checked Eclipse_cycle.txt 1 1303 
+2884 Eclipse_cycle.txt 1 1784 
+relations Eclipse_cycle.txt 1 1232 
+their Eclipse_cycle.txt 4 622 1096 1374 1667 
+returns Eclipse_cycle.txt 3 1204 1214 1225 
+2 Eclipse_cycle.txt 4 690 1503 1505 1766 
+too Eclipse_cycle.txt 2 316 860 
+listed Eclipse_cycle.txt 2 1310 1696 
+that Eclipse_cycle.txt 12 454 510 600 604 807 845 884 904 974 1163 1179 1406 
+season Eclipse_cycle.txt 1 504 
+completed Eclipse_cycle.txt 2 608 619 
+exactly Eclipse_cycle.txt 1 258 
+5.875 Eclipse_cycle.txt 1 1581 
+elp2000-85 Eclipse_cycle.txt 1 1151 
+representing Eclipse_cycle.txt 1 1414 
+than Eclipse_cycle.txt 7 272 373 575 673 735 773 1740 
+center Eclipse_cycle.txt 1 485 
+11 Eclipse_cycle.txt 2 1537 1602 
+distance Eclipse_cycle.txt 5 249 306 993 1003 1081 
+14 Eclipse_cycle.txt 2 1048 1092 
+18 Eclipse_cycle.txt 1 23 
+approximations Eclipse_cycle.txt 2 1438 1461 
+zero Eclipse_cycle.txt 2 1774 1778 
+lunations Eclipse_cycle.txt 2 832 1049 
+293/135 Eclipse_cycle.txt 1 1526 
+denominators Eclipse_cycle.txt 1 1393 
+half-integer Eclipse_cycle.txt 1 1330 
+and Eclipse_cycle.txt 39 69 77 125 152 166 296 325 370 549 616 685 780 1011 1017 1034 1053 1057 1073 1099 1174 1178 1218 1241 1257 1268 1283 1295 1361 1369 1392 1403 1638 1662 1673 1690 1704 1718 1764 1775 
+westward Eclipse_cycle.txt 1 655 
+have Eclipse_cycle.txt 5 172 618 854 1314 1666 
+2.2 Eclipse_cycle.txt 1 1508 
+need Eclipse_cycle.txt 2 1382 1458 
+seen Eclipse_cycle.txt 5 114 232 284 554 694 
+apparently Eclipse_cycle.txt 1 371 
+any Eclipse_cycle.txt 7 376 934 1440 1502 1670 1678 1708 
+contents Eclipse_cycle.txt 1 59 
+paths Eclipse_cycle.txt 1 3 
+greek Eclipse_cycle.txt 1 178 
+note Eclipse_cycle.txt 1 1162 
+also Eclipse_cycle.txt 4 338 448 907 1787 
+which Eclipse_cycle.txt 4 730 755 938 1318 
+484/223 Eclipse_cycle.txt 1 1530 
+unless Eclipse_cycle.txt 1 358 
+opposite Eclipse_cycle.txt 5 465 778 842 858 927 
+falls Eclipse_cycle.txt 1 87 
+most Eclipse_cycle.txt 3 310 327 340 
+2.170391061 Eclipse_cycle.txt 1 1535 
+successive Eclipse_cycle.txt 1 14 
+pages Eclipse_cycle.txt 1 1669 
+so-called Eclipse_cycle.txt 1 1042 
+average Eclipse_cycle.txt 2 267 374 
+later Eclipse_cycle.txt 2 833 902 
+2.170370370 Eclipse_cycle.txt 1 1527 
+points Eclipse_cycle.txt 2 1169 1194 
+bodies Eclipse_cycle.txt 1 254 
+combinations Eclipse_cycle.txt 1 1623 
+chances Eclipse_cycle.txt 1 1015 
+relation Eclipse_cycle.txt 1 965 
+expressed Eclipse_cycle.txt 1 1683 
+earth Eclipse_cycle.txt 22 68 124 151 164 211 224 235 290 301 314 337 369 407 482 550 557 613 615 697 816 995 1070 
+29.530588853 Eclipse_cycle.txt 1 1481 
+find Eclipse_cycle.txt 1 1460 
+ratio Eclipse_cycle.txt 5 1375 1386 1475 1490 1544 
+with Eclipse_cycle.txt 5 74 101 214 644 1036 
+tzolkinex Eclipse_cycle.txt 2 1524 1587 
+only Eclipse_cycle.txt 2 392 967 
+circle Eclipse_cycle.txt 2 662 984 
+perigee Eclipse_cycle.txt 2 364 1072 
+anomalistic Eclipse_cycle.txt 2 1032 1120 
+dependent Eclipse_cycle.txt 2 1245 1261 
+between Eclipse_cycle.txt 4 13 683 1292 1677 
+123 Eclipse_cycle.txt 1 307 
+nearly Eclipse_cycle.txt 1 689 
+closely Eclipse_cycle.txt 1 1325 
+distinctly Eclipse_cycle.txt 1 988 
+timing Eclipse_cycle.txt 2 1086 1098 
+during Eclipse_cycle.txt 2 501 601 
+conjunction Eclipse_cycle.txt 3 100 165 641 
+target Eclipse_cycle.txt 1 1474 
+precession Eclipse_cycle.txt 1 742 
+twice Eclipse_cycle.txt 1 512 
+common Eclipse_cycle.txt 1 1388 
+obscure Eclipse_cycle.txt 1 354 
+cycles Eclipse_cycle.txt 6 40 1313 1618 1627 1637 1665 
+where Eclipse_cycle.txt 2 491 911 
+view Eclipse_cycle.txt 1 479 
+computed Eclipse_cycle.txt 1 1641 
+5.868831169 Eclipse_cycle.txt 1 1607 
+relative Eclipse_cycle.txt 2 543 1094 
+see Eclipse_cycle.txt 1 1786 
+are Eclipse_cycle.txt 13 37 72 256 876 1134 1165 1181 1233 1244 1260 1372 1656 1695 
+close Eclipse_cycle.txt 5 382 398 758 839 1114 
+calendar Eclipse_cycle.txt 1 1730 
+2.170454545 Eclipse_cycle.txt 1 1523 
+closer Eclipse_cycle.txt 2 366 1067 
+phases Eclipse_cycle.txt 1 188 
+wikipedia Eclipse_cycle.txt 1 2 
+various Eclipse_cycle.txt 2 1139 1635 
+multiples Eclipse_cycle.txt 1 1397 
+moons Eclipse_cycle.txt 6 312 329 488 527 1059 1356 
+conditions Eclipse_cycle.txt 1 61 
+gives Eclipse_cycle.txt 1 1745 
+we Eclipse_cycle.txt 3 882 1381 1457 
+adding Eclipse_cycle.txt 1 1765 
+importance Eclipse_cycle.txt 1 184 
+223/19 Eclipse_cycle.txt 1 1595 
+however Eclipse_cycle.txt 2 827 881 
+777/358 Eclipse_cycle.txt 1 1534 
+incommensurate Eclipse_cycle.txt 1 1373 
+gregorian Eclipse_cycle.txt 1 1729 
+opposition Eclipse_cycle.txt 3 138 167 643 
+102/47 Eclipse_cycle.txt 1 1518 
+come Eclipse_cycle.txt 1 638 
+both Eclipse_cycle.txt 3 701 1237 1253 
+region Eclipse_cycle.txt 1 118 
+according Eclipse_cycle.txt 1 1146 
+s Eclipse_cycle.txt 2 899 1689 
+5.866666667 Eclipse_cycle.txt 1 1586 
+period Eclipse_cycle.txt 10 509 682 711 935 954 1028 1279 1288 1316 1337 
+path Eclipse_cycle.txt 1 709 
+respect Eclipse_cycle.txt 1 215 
+throughout Eclipse_cycle.txt 1 997 
+described Eclipse_cycle.txt 1 1275 
+three Eclipse_cycle.txt 6 253 497 1166 1182 1189 1230 
+much Eclipse_cycle.txt 1 270 
+88/15 Eclipse_cycle.txt 1 1585 
+certain Eclipse_cycle.txt 2 31 1320 
+obtained Eclipse_cycle.txt 1 1758 
+external Eclipse_cycle.txt 1 1791 
+case Eclipse_cycle.txt 1 377 
+these Eclipse_cycle.txt 10 35 52 186 875 1133 1229 1418 1611 1625 1694 
+value Eclipse_cycle.txt 1 1443 
+will Eclipse_cycle.txt 6 809 822 837 853 864 894 
+cast Eclipse_cycle.txt 1 83 
+near Eclipse_cycle.txt 7 362 421 450 522 1071 1078 1351 
+eclipses Eclipse_cycle.txt 10 15 25 44 63 342 492 498 872 1129 1680 
+taking Eclipse_cycle.txt 1 1760 
+at Eclipse_cycle.txt 14 92 130 194 247 302 309 326 339 433 453 483 751 763 889 
+changed Eclipse_cycle.txt 1 552 
+characteristics Eclipse_cycle.txt 1 1633 
+is Eclipse_cycle.txt 42 19 54 98 136 156 212 239 265 350 361 397 413 420 521 573 599 671 688 720 731 770 795 804 906 913 933 946 966 973 980 987 1029 1066 1077 1376 1478 1491 1612 1731 1738 1752 1757 
+thus Eclipse_cycle.txt 1 1082 
+it Eclipse_cycle.txt 8 560 578 704 794 803 1065 1076 1751 
+two-month Eclipse_cycle.txt 1 508 
+middle Eclipse_cycle.txt 1 1782 
+in Eclipse_cycle.txt 22 16 99 108 137 375 635 656 663 677 681 844 1050 1122 1127 1298 1306 1317 1658 1697 1727 1771 1780 
+return Eclipse_cycle.txt 5 566 584 716 917 925 
+ephemeris Eclipse_cycle.txt 1 1150 
+synodic Eclipse_cycle.txt 13 594 684 900 1038 1199 1239 1282 1294 1323 1368 1404 1470 1546 
+if Eclipse_cycle.txt 4 746 885 903 1501 
+orbital Eclipse_cycle.txt 3 475 649 1027 
+perform Eclipse_cycle.txt 1 1125 
+make Eclipse_cycle.txt 1 631 
+same Eclipse_cycle.txt 6 261 457 587 919 1410 1554 
+shorter Eclipse_cycle.txt 2 672 734 
+epoch Eclipse_cycle.txt 1 1155 
+largest Eclipse_cycle.txt 1 248 
+several Eclipse_cycle.txt 1 1663 
+independent Eclipse_cycle.txt 1 1235 
+358/61 Eclipse_cycle.txt 1 1598 
+9031/4161 Eclipse_cycle.txt 1 1538 
+appearances Eclipse_cycle.txt 1 1054 
+numerical Eclipse_cycle.txt 3 1130 1308 1644 
+moment Eclipse_cycle.txt 1 891 
+moving Eclipse_cycle.txt 2 1168 1193 
+changing Eclipse_cycle.txt 2 1084 1100 
+cycle Eclipse_cycle.txt 10 1 932 1000 1045 1111 1417 1500 1566 1615 1672 
+suitable Eclipse_cycle.txt 1 867 
+sidereal Eclipse_cycle.txt 2 675 737 
+i Eclipse_cycle.txt 1 1692 
+well Eclipse_cycle.txt 1 1126 
+the Eclipse_cycle.txt 190 11 17 41 67 70 75 78 85 89 96 102 104 111 120 123 134 140 142 147 150 159 163 169 183 201 204 207 210 217 220 223 226 228 234 237 242 252 260 273 278 281 286 289 293 297 300 303 313 322 330 333 336 343 348 355 359 368 378 395 400 403 406 418 424 431 434 437 445 456 464 478 481 484 487 516 519 523 526 542 546 556 558 563 570 576 581 586 591 593 596 602 605 612 614 625 627 645 648 652 679 696 698 710 713 722 741 744 764 768 786 790 800 818 834 841 851 857 862 964 975 978 991 998 1005 1009 1014 1031 1037 1041 1051 1060 1069 1085 1101 1135 1138 1148 1154 1170 1172 1175 1188 1198 1202 1206 1208 1212 1216 1219 1223 1227 1238 1247 1251 1254 1263 1266 1270 1277 1281 1287 1290 1293 1307 1355 1359 1390 1396 1399 1409 1424 1463 1473 1484 1543 1553 1632 1643 1647 1659 1675 1698 1721 1728 1742 1746 1754 1761 1769 1781 
+comprise Eclipse_cycle.txt 1 1113 
+less Eclipse_cycle.txt 3 574 805 1616 
+accurate Eclipse_cycle.txt 1 1617 
+assigned Eclipse_cycle.txt 1 1712 
+not Eclipse_cycle.txt 7 192 257 532 784 981 1234 1377 
+intervals Eclipse_cycle.txt 4 32 36 53 1693 
+part Eclipse_cycle.txt 2 1744 1763 
+alignment Eclipse_cycle.txt 1 379 
+322 Eclipse_cycle.txt 1 280 
+instance Eclipse_cycle.txt 1 1768 
+other Eclipse_cycle.txt 1 90 
+has Eclipse_cycle.txt 3 551 607 629 
+real Eclipse_cycle.txt 1 1441 
+around Eclipse_cycle.txt 5 209 225 515 611 624 
+showing Eclipse_cycle.txt 1 486 
+possible Eclipse_cycle.txt 1 1190 
+cf Eclipse_cycle.txt 1 1650 
+3137 Eclipse_cycle.txt 1 295 
+know Eclipse_cycle.txt 1 883 
+integer Eclipse_cycle.txt 7 915 923 1117 1328 1379 1743 1762 
+shadow Eclipse_cycle.txt 6 79 148 298 324 334 788 
+vague Eclipse_cycle.txt 1 879 
+5.869565217 Eclipse_cycle.txt 1 1590 
+59 Eclipse_cycle.txt 1 269 
+d Eclipse_cycle.txt 3 729 908 912 
+yields Eclipse_cycle.txt 1 1552 
+night Eclipse_cycle.txt 1 160 
+because Eclipse_cycle.txt 5 181 200 536 739 963 
+some Eclipse_cycle.txt 1 890 
+table Eclipse_cycle.txt 1 1630 
+duration Eclipse_cycle.txt 1 1016 
+happens Eclipse_cycle.txt 2 416 511 
+for Eclipse_cycle.txt 15 6 179 459 467 562 580 633 712 868 937 959 1153 1462 1488 1767 
+per Eclipse_cycle.txt 2 1469 1548 
+moon Eclipse_cycle.txt 41 71 94 97 105 132 135 143 170 199 208 238 245 251 282 294 331 349 360 396 419 548 564 582 606 617 628 653 754 767 769 793 836 979 1010 1044 1061 1173 1203 1213 1344 1347 
+does Eclipse_cycle.txt 2 191 531 
+lunar Eclipse_cycle.txt 9 154 187 305 323 469 992 999 1103 1149 
+provides Eclipse_cycle.txt 1 1432 
+inclination Eclipse_cycle.txt 1 264 
+be Eclipse_cycle.txt 15 381 449 757 810 824 866 949 1274 1302 1421 1450 1620 1640 1682 1711 
+191/88 Eclipse_cycle.txt 1 1522 
+bc Eclipse_cycle.txt 2 1756 1785 
+predicting Eclipse_cycle.txt 1 1128 
+annular Eclipse_cycle.txt 1 1020 
+dm/sm Eclipse_cycle.txt 1 1497 
+expansion Eclipse_cycle.txt 1 1487 
+arithmetical Eclipse_cycle.txt 1 1430 
+2/1 Eclipse_cycle.txt 1 1504 
+by Eclipse_cycle.txt 14 30 46 84 789 817 1089 1106 1304 1387 1423 1444 1622 1735 1759 
+quotients Eclipse_cycle.txt 2 1494 1558 
+on Eclipse_cycle.txt 9 88 119 259 266 430 815 1246 1262 1358 
+about Eclipse_cycle.txt 8 268 620 664 727 732 828 1047 1107 
+column Eclipse_cycle.txt 1 1699 
+of Eclipse_cycle.txt 69 4 33 43 49 51 80 110 122 149 162 168 182 185 203 206 219 222 277 288 299 321 335 347 402 405 423 427 436 439 480 525 545 621 651 740 743 799 977 1008 1023 1046 1055 1087 1119 1137 1141 1187 1192 1250 1265 1280 1289 1322 1332 1354 1398 1412 1426 1435 1439 1465 1545 1610 1624 1634 1646 1687 1723 1783 
+completing Eclipse_cycle.txt 1 659 
+months Eclipse_cycle.txt 12 901 910 1121 1142 1285 1297 1324 1334 1371 1405 1468 1547 
+discussed Eclipse_cycle.txt 1 1144 
+mixed Eclipse_cycle.txt 1 1022 
+insufficient Eclipse_cycle.txt 1 351 
+or Eclipse_cycle.txt 13 197 246 319 463 507 642 724 782 830 870 921 1329 1345 
+own Eclipse_cycle.txt 1 1668 
+18.60 Eclipse_cycle.txt 1 665 
+into Eclipse_cycle.txt 1 640 
+41/7 Eclipse_cycle.txt 1 1576 
+predictions Eclipse_cycle.txt 1 880 
+right Eclipse_cycle.txt 1 291 
+references Eclipse_cycle.txt 1 1789 
+next Eclipse_cycle.txt 3 765 791 819 
+tritos Eclipse_cycle.txt 2 1528 1591 
+span Eclipse_cycle.txt 1 1408 
+there Eclipse_cycle.txt 7 808 821 893 945 1164 1180 1448 
+approximate Eclipse_cycle.txt 3 968 1384 1477 
+was Eclipse_cycle.txt 1 1779 
+north Eclipse_cycle.txt 1 318 
+but Eclipse_cycle.txt 1 1749 
+4519/385 Eclipse_cycle.txt 1 1608 
+repeatedly Eclipse_cycle.txt 1 28 
+solar Eclipse_cycle.txt 8 7 128 341 356 461 748 812 1725 
+line Eclipse_cycle.txt 1 262 
+true Eclipse_cycle.txt 1 958 
+2-way Eclipse_cycle.txt 1 1231 
+5/1 Eclipse_cycle.txt 1 1568 
+2.170212766 Eclipse_cycle.txt 1 1519 
+up Eclipse_cycle.txt 3 495 632 1090 
+below Eclipse_cycle.txt 1 1661 
+47/8 Eclipse_cycle.txt 1 1580 
+47/4 Eclipse_cycle.txt 1 1582 
+called Eclipse_cycle.txt 4 38 55 721 1030 
+fractions Eclipse_cycle.txt 5 1389 1419 1428 1446 1486 
+ad Eclipse_cycle.txt 1 1748 
+likewise Eclipse_cycle.txt 1 692 
+paragraphs Eclipse_cycle.txt 1 1649 
+moved Eclipse_cycle.txt 1 855 
+an Eclipse_cycle.txt 26 56 189 387 389 443 502 529 540 609 848 886 896 914 922 930 942 1024 1109 1116 1327 1339 1362 1378 1415 1451 1613 
+proper Eclipse_cycle.txt 1 1445 
+as Eclipse_cycle.txt 11 113 231 283 553 590 693 703 1143 1276 1300 1684 
+periods Eclipse_cycle.txt 2 1184 1401 
+numerators Eclipse_cycle.txt 1 1391 
+moves Eclipse_cycle.txt 2 705 1062 
+constructed Eclipse_cycle.txt 1 1621 
+2.170403587 Eclipse_cycle.txt 1 1531 
+again Eclipse_cycle.txt 5 639 865 898 1350 1366 
+no Eclipse_cycle.txt 1 825 
+when Eclipse_cycle.txt 16 66 95 133 236 394 409 417 518 1064 1075 1185 1201 1211 1222 1736 1750 
+valid Eclipse_cycle.txt 1 1152 
+5 Eclipse_cycle.txt 4 829 1506 1567 1569 
+details Eclipse_cycle.txt 1 1655 
+node Eclipse_cycle.txt 16 452 458 466 569 719 761 779 801 843 859 920 928 1177 1217 1228 1353 
+repeat Eclipse_cycle.txt 1 48 
+preceding Eclipse_cycle.txt 1 1648 
+12/1 Eclipse_cycle.txt 1 1573 
+13/6 Eclipse_cycle.txt 1 1510 
+furthest Eclipse_cycle.txt 1 1080 
+faster Eclipse_cycle.txt 1 1063 
+11/5 Eclipse_cycle.txt 1 1507 
+interval Eclipse_cycle.txt 3 12 905 1676 
+orbit Eclipse_cycle.txt 9 205 221 404 429 528 610 623 986 1357 
+together Eclipse_cycle.txt 2 171 1035 
+135/23 Eclipse_cycle.txt 1 1589 
+time Eclipse_cycle.txt 10 34 435 455 517 559 577 603 846 962 1413 

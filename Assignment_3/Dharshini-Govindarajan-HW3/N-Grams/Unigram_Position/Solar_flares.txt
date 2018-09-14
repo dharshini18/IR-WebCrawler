@@ -1,0 +1,909 @@
+magnetically Solar_flares.txt 1 2498 
+all Solar_flares.txt 3 267 315 2148 
+11-year Solar_flares.txt 1 543 
+suns Solar_flares.txt 1 73 
+magnetic Solar_flares.txt 12 368 396 650 655 669 683 703 729 767 801 1398 2504 
+astronauts Solar_flares.txt 4 1233 1389 1406 1442 
+leads Solar_flares.txt 1 658 
+facilities Solar_flares.txt 1 1877 
+spacecraft Solar_flares.txt 5 978 1231 1335 1804 1862 
+disc Solar_flares.txt 1 1839 
+ice Solar_flares.txt 1 2072 
+edt Solar_flares.txt 2 84 1961 
+wave-like Solar_flares.txt 1 909 
+abundant Solar_flares.txt 1 643 
+revealed Solar_flares.txt 1 1665 
+picometre Solar_flares.txt 1 967 
+localized Solar_flares.txt 1 480 
+layers Solar_flares.txt 1 268 
+particles Solar_flares.txt 8 212 635 665 816 840 1199 1214 1312 
+producing Solar_flares.txt 1 2381 
+bremsstrahlung Solar_flares.txt 1 1485 
+referring Solar_flares.txt 1 1079 
+1942 Solar_flares.txt 1 1597 
+1943 Solar_flares.txt 1 1644 
+flash Solar_flares.txt 2 108 2403 
+1945 Solar_flares.txt 1 1642 
+to Solar_flares.txt 51 152 167 239 247 249 283 301 320 348 373 377 390 530 578 581 659 706 820 844 858 862 950 965 996 1080 1230 1255 1308 1317 1334 1367 1388 1403 1421 1448 1549 1650 1677 1690 1705 1873 1984 1999 2039 2051 2084 2190 2203 2454 2520 2524 
+outwards Solar_flares.txt 1 741 
+caused Solar_flares.txt 2 94 1964 
+sped Solar_flares.txt 1 632 
+sent Solar_flares.txt 1 1704 
+shielding Solar_flares.txt 2 1399 1905 
+explosion.the Solar_flares.txt 1 2410 
+very Solar_flares.txt 5 136 1467 1476 1558 1727 
+frequencies Solar_flares.txt 2 331 459 
+aurora Solar_flares.txt 3 96 1319 1322 
+electron Solar_flares.txt 1 825 
+ultraviolet Solar_flares.txt 2 48 2406 
+fall Solar_flares.txt 1 133 
+affect Solar_flares.txt 2 266 433 
+fractal Solar_flares.txt 1 2525 
+svalgaard Solar_flares.txt 1 2090 
+four Solar_flares.txt 2 1043 2342 
+disturb Solar_flares.txt 1 448 
+clouds Solar_flares.txt 2 173 238 
+accompanying Solar_flares.txt 1 1851 
+did Solar_flares.txt 1 1612 
+cme Solar_flares.txt 3 411 1163 1165 
+hawaii Solar_flares.txt 1 2058 
+grote Solar_flares.txt 1 1645 
+large Solar_flares.txt 4 548 1343 1908 2221 
+small Solar_flares.txt 3 484 887 1562 
+relation Solar_flares.txt 1 414 
+noted Solar_flares.txt 1 988 
+blackout Solar_flares.txt 2 1967 2391 
+upper Solar_flares.txt 5 215 904 911 1283 1348 
+smaller Solar_flares.txt 1 554 
+force Solar_flares.txt 2 686 690 
+occurrence Solar_flares.txt 2 515 2546 
+direct Solar_flares.txt 1 441 
+go Solar_flares.txt 1 1614 
+second Solar_flares.txt 2 2292 2458 
+timescales Solar_flares.txt 1 387 
+traveling Solar_flares.txt 1 1168 
+unconnected Solar_flares.txt 2 705 728 
+dynamics Solar_flares.txt 3 90 2399 2412 
+estimated Solar_flares.txt 1 2189 
+even Solar_flares.txt 2 223 861 
+established Solar_flares.txt 1 423 
+what Solar_flares.txt 1 756 
+sunspots Solar_flares.txt 2 365 2489 
+richard Solar_flares.txt 5 469 475 1497 2012 2020 
+giving Solar_flares.txt 1 1441 
+sun Solar_flares.txt 19 19 29 56 111 186 467 526 538 668 765 895 1629 1656 1685 1739 1931 1952 2291 2480 
+while Solar_flares.txt 4 160 290 1155 2110 
+current Solar_flares.txt 1 2461 
+poles Solar_flares.txt 1 886 
+issues Solar_flares.txt 1 2568 
+goes Solar_flares.txt 6 977 1733 1981 2171 2185 2553 
+chromosphere Solar_flares.txt 2 274 1349 
+new Solar_flares.txt 2 1666 2214 
+increasing Solar_flares.txt 1 2200 
+ever Solar_flares.txt 3 1438 1924 1993 
+public Solar_flares.txt 1 1615 
+body Solar_flares.txt 1 1381 
+impact Solar_flares.txt 1 1216 
+nustar Solar_flares.txt 1 1887 
+interplanetary Solar_flares.txt 1 1391 
+component Solar_flares.txt 1 2216 
+sunspot Solar_flares.txt 4 488 2280 2370 2517 
+here Solar_flares.txt 2 22 86 
+atoms Solar_flares.txt 1 178 
+ionization Solar_flares.txt 1 1280 
+reported Solar_flares.txt 1 2008 
+magnetism Solar_flares.txt 2 53 917 
+kilometers Solar_flares.txt 2 1819 2456 
+active Solar_flares.txt 6 362 529 761 1938 2476 2491 
+along Solar_flares.txt 1 179 
+standard Solar_flares.txt 1 1748 
+observing Solar_flares.txt 1 1876 
+appears Solar_flares.txt 1 2141 
+extreme Solar_flares.txt 3 47 610 2405 
+passengers Solar_flares.txt 1 882 
+involved Solar_flares.txt 1 789 
+31 Solar_flares.txt 1 59 
+metre Solar_flares.txt 1 958 
+completely Solar_flares.txt 1 1717 
+commonly Solar_flares.txt 1 2528 
+leaving Solar_flares.txt 1 699 
+simply Solar_flares.txt 1 1889 
+millionths Solar_flares.txt 1 1099 
+usually Solar_flares.txt 3 114 230 2539 
+narrow Solar_flares.txt 1 1541 
+named Solar_flares.txt 2 2019 2025 
+classification Solar_flares.txt 8 865 935 1052 1057 1074 1758 2178 2518 
+problematic Solar_flares.txt 1 2467 
+highly Solar_flares.txt 1 1197 
+visible Solar_flares.txt 3 347 481 2038 
+sunflare Solar_flares.txt 1 1142 
+visualization Solar_flares.txt 1 1847 
+total Solar_flares.txt 4 836 849 1108 2340 
+readily Solar_flares.txt 1 1900 
+use Solar_flares.txt 1 457 
+eye Solar_flares.txt 2 351 2042 
+takes Solar_flares.txt 1 231 
+would Solar_flares.txt 1 1400 
+probabilities Solar_flares.txt 1 2544 
+carrington Solar_flares.txt 4 471 1498 2013 2033 
+contains Solar_flares.txt 1 737 
+two Solar_flares.txt 3 235 1413 1829 
+intense Solar_flares.txt 3 367 1468 1526 
+m5 Solar_flares.txt 1 1049 
+few Solar_flares.txt 1 1818 
+therefore Solar_flares.txt 1 194 
+6 Solar_flares.txt 4 1955 2254 2259 2424 
+predictions Solar_flares.txt 1 2537 
+reconnection Solar_flares.txt 3 651 670 719 
+type Solar_flares.txt 1 2433 
+until Solar_flares.txt 1 1616 
+today Solar_flares.txt 4 1680 1770 1785 2087 
+more Solar_flares.txt 2 1035 1045 
+x1.4 Solar_flares.txt 1 2282 
+operators Solar_flares.txt 1 1600 
+emission Solar_flares.txt 2 443 1609 
+visual Solar_flares.txt 2 334 1419 
+particular Solar_flares.txt 2 604 1479 
+known Solar_flares.txt 6 758 794 813 1207 1254 1640 
+prominence/filament Solar_flares.txt 1 63 
+broad-band Solar_flares.txt 1 1520 
+must Solar_flares.txt 1 353 
+flares Solar_flares.txt 41 6 119 132 265 344 359 381 418 431 461 491 518 549 629 752 785 860 871 939 1082 1179 1237 1277 1356 1453 1531 1560 1579 1679 1724 1751 1850 1865 1883 1910 2223 2345 2368 2439 2512 2548 
+f Solar_flares.txt 1 1084 
+this Solar_flares.txt 17 338 603 623 660 718 747 863 1156 1164 1547 1962 2095 2167 2176 2201 2205 2571 
+decay Solar_flares.txt 1 1310 
+work Solar_flares.txt 1 1709 
+protons Solar_flares.txt 3 295 1375 1437 
+labeled Solar_flares.txt 1 1968 
+can Solar_flares.txt 15 164 217 432 492 817 879 1193 1215 1247 1286 1293 1331 1376 1474 1899 
+following Solar_flares.txt 3 541 682 1861 
+radiations Solar_flares.txt 1 1894 
+example Solar_flares.txt 2 198 2497 
+history Solar_flares.txt 1 1493 
+ions Solar_flares.txt 2 176 298 
+figure Solar_flares.txt 1 605 
+give Solar_flares.txt 1 880 
+flaring Solar_flares.txt 1 2495 
+near Solar_flares.txt 3 116 302 2144 
+high Solar_flares.txt 1 1775 
+incredible Solar_flares.txt 1 1793 
+interpreted Solar_flares.txt 1 1606 
+analysis Solar_flares.txt 1 2194 
+occur Solar_flares.txt 2 360 630 
+terrestrial Solar_flares.txt 1 1261 
+information Solar_flares.txt 1 1576 
+ones Solar_flares.txt 1 555 
+rays Solar_flares.txt 1 322 
+end Solar_flares.txt 1 1618 
+travel Solar_flares.txt 1 1392 
+cuba Solar_flares.txt 1 2056 
+copious Solar_flares.txt 2 661 1533 
+regions Solar_flares.txt 4 363 762 2492 2500 
+how Solar_flares.txt 2 799 814 
+varies Solar_flares.txt 1 519 
+categories Solar_flares.txt 3 2124 2582 2584 
+if Solar_flares.txt 2 202 1570 
+explains Solar_flares.txt 1 749 
+may Solar_flares.txt 9 222 406 447 584 671 738 1725 1805 2336 
+earlier Solar_flares.txt 1 1055 
+detectors Solar_flares.txt 2 1809 2172 
+hazard Solar_flares.txt 1 1387 
+produce Solar_flares.txt 9 308 407 876 1194 1454 1484 1532 2482 2509 
+waves Solar_flares.txt 2 183 319 
+such Solar_flares.txt 1 2054 
+data Solar_flares.txt 1 506 
+lifting Solar_flares.txt 1 918 
+a Solar_flares.txt 55 61 102 106 127 135 157 161 232 487 560 589 593 676 694 700 743 777 784 897 906 943 985 990 1111 1115 1123 1130 1140 1159 1209 1358 1364 1386 1425 1500 1519 1540 1817 1833 1897 1965 2040 2068 2213 2261 2304 2310 2331 2339 2382 2402 2432 2483 2513 2531 
+short Solar_flares.txt 1 1914 
+correlate Solar_flares.txt 1 2493 
+line-of-sight Solar_flares.txt 1 2503 
+long-range Solar_flares.txt 1 438 
+light Solar_flares.txt 5 306 1471 1528 1923 2045 
+lines Solar_flares.txt 3 684 688 1481 
+corona Solar_flares.txt 6 76 188 276 376 401 1803 
+accelerated Solar_flares.txt 3 300 819 839 
+extrapolation Solar_flares.txt 1 611 
+sn Solar_flares.txt 1 1138 
+allow Solar_flares.txt 1 2081 
+every Solar_flares.txt 1 534 
+increase Solar_flares.txt 1 1300 
+words Solar_flares.txt 1 2109 
+wind Solar_flares.txt 2 1203 1206 
+wavelengths Solar_flares.txt 5 316 446 963 1711 1813 
+saturated Solar_flares.txt 1 2169 
+passband Solar_flares.txt 2 1543 1581 
+september Solar_flares.txt 5 100 1508 2003 2237 2423 
+administration Solar_flares.txt 1 2566 
+over Solar_flares.txt 2 330 884 
+mainly Solar_flares.txt 1 636 
+mission Solar_flares.txt 1 1366 
+damage Solar_flares.txt 1 1384 
+produced Solar_flares.txt 5 500 1158 1513 2047 2207 
+radar Solar_flares.txt 1 1599 
+through Solar_flares.txt 4 184 1378 1518 1823 
+4 Solar_flares.txt 1 2165 
+reconnect Solar_flares.txt 1 692 
+during Solar_flares.txt 2 1390 1588 
+november Solar_flares.txt 1 2164 
+kinetic Solar_flares.txt 1 808 
+still Solar_flares.txt 2 420 791 
+ejects Solar_flares.txt 1 172 
+its Solar_flares.txt 6 36 117 1127 1134 2082 2177 
+blocked Solar_flares.txt 1 1841 
+24 Solar_flares.txt 2 2317 2556 
+1 Solar_flares.txt 5 892 995 1507 1542 2004 
+some Solar_flares.txt 3 815 832 1393 
+outer Solar_flares.txt 2 190 1296 
+23 Solar_flares.txt 1 558 
+joules Solar_flares.txt 2 147 169 
+28 Solar_flares.txt 1 2232 
+vicinity Solar_flares.txt 1 1188 
+better Solar_flares.txt 1 1846 
+degrees Solar_flares.txt 1 288 
+systems Solar_flares.txt 1 2062 
+communication Solar_flares.txt 2 228 1291 
+inconsistencies Solar_flares.txt 1 833 
+2014 Solar_flares.txt 2 931 2377 
+2017 Solar_flares.txt 1 2425 
+main Solar_flares.txt 3 1221 1569 1868 
+2011 Solar_flares.txt 4 43 1154 2243 2247 
+2010 Solar_flares.txt 1 893 
+2013 Solar_flares.txt 3 2328 2338 2367 
+2012 Solar_flares.txt 11 60 559 598 1935 1956 1988 2251 2255 2260 2302 2318 
+then Solar_flares.txt 1 1117 
+helical Solar_flares.txt 1 730 
+greater Solar_flares.txt 1 846 
+material Solar_flares.txt 3 66 734 2445 
+regarding Solar_flares.txt 1 834 
+effects Solar_flares.txt 3 1175 2093 2198 
+they Solar_flares.txt 7 307 1192 1464 1473 1482 1708 2440 
+not Solar_flares.txt 10 123 346 421 792 797 1167 1466 1557 1571 1613 
+x1.2 Solar_flares.txt 1 2351 
+x1.1 Solar_flares.txt 3 1943 2256 2272 
+one Solar_flares.txt 3 533 1998 2362 
+day Solar_flares.txt 3 233 523 864 
+nor Solar_flares.txt 1 810 
+above Solar_flares.txt 3 2123 2217 2549 
+represents Solar_flares.txt 2 1126 1133 
+term Solar_flares.txt 2 243 257 
+7:08 Solar_flares.txt 1 1959 
+stated Solar_flares.txt 1 2540 
+brightness Solar_flares.txt 1 113 
+edit Solar_flares.txt 16 263 628 866 1053 1144 1452 1494 1828 1856 1859 1911 2428 2460 2575 2577 2581 
+always Solar_flares.txt 1 124 
+classified Solar_flares.txt 1 1119 
+normally Solar_flares.txt 1 1483 
+eruptive Solar_flares.txt 1 2447 
+weather Solar_flares.txt 2 1185 2127 
+25 Solar_flares.txt 2 1593 2376 
+2001 Solar_flares.txt 1 2229 
+h Solar_flares.txt 4 1061 1538 1566 1757 
+accompanied Solar_flares.txt 2 125 1240 
+radioastronomical Solar_flares.txt 1 1652 
+x17 Solar_flares.txt 1 2240 
+development Solar_flares.txt 1 1662 
+square Solar_flares.txt 1 957 
+telescope Solar_flares.txt 3 503 1517 1552 
+series Solar_flares.txt 2 677 1734 
+energy Solar_flares.txt 11 142 149 327 397 404 716 786 802 809 1324 1776 
+hard Solar_flares.txt 3 1329 1759 1893 
+related Solar_flares.txt 2 1676 2523 
+well-observed Solar_flares.txt 1 158 
+frequency Solar_flares.txt 2 513 615 
+doses Solar_flares.txt 1 889 
+ionosphere Solar_flares.txt 2 435 1825 
+wavelength Solar_flares.txt 1 1548 
+happen Solar_flares.txt 1 672 
+beyond Solar_flares.txt 1 828 
+event Solar_flares.txt 12 159 163 595 983 1005 1212 2023 2034 2113 2134 2168 2206 
+special Solar_flares.txt 1 357 
+out Solar_flares.txt 3 78 1260 2276 
+w/m Solar_flares.txt 1 959 
+missed Solar_flares.txt 1 575 
+space Solar_flares.txt 9 80 191 1184 1693 1699 1706 1857 1986 2126 
+since Solar_flares.txt 3 1530 1695 1729 
+looking Solar_flares.txt 1 496 
+reuven Solar_flares.txt 1 1773 
+7 Solar_flares.txt 3 42 2238 2250 
+electronics Solar_flares.txt 1 1336 
+size Solar_flares.txt 1 1128 
+cause Solar_flares.txt 2 218 627 
+shows Solar_flares.txt 1 896 
+superiors Solar_flares.txt 1 2118 
+after Solar_flares.txt 2 1641 2266 
+rhessi Solar_flares.txt 1 1780 
+brightenings Solar_flares.txt 1 482 
+beryllium-10 Solar_flares.txt 1 2079 
+reber Solar_flares.txt 1 1646 
+mechanisms Solar_flares.txt 1 788 
+quite Solar_flares.txt 1 625 
+reason Solar_flares.txt 1 339 
+imaging Solar_flares.txt 1 1790 
+estimate Solar_flares.txt 1 2202 
+heat Solar_flares.txt 1 1294 
+telescopes Solar_flares.txt 6 1563 1694 1701 1827 1855 1858 
+r5 Solar_flares.txt 1 1985 
+watts Solar_flares.txt 1 955 
+r1 Solar_flares.txt 1 1983 
+e.g Solar_flares.txt 1 1886 
+flare Solar_flares.txt 43 1 17 20 30 34 93 104 171 259 568 900 933 1012 1020 1023 1050 1056 1116 1151 1157 1427 1501 1529 1835 1898 1945 1963 1992 2036 2066 2096 2158 2274 2284 2312 2324 2386 2417 2426 2429 2464 2484 2535 
+latitudes Solar_flares.txt 1 2053 
+involve Solar_flares.txt 1 2441 
+british Solar_flares.txt 2 1598 2010 
+times Solar_flares.txt 3 1026 1044 2154 
+filter Solar_flares.txt 2 1521 1544 
+disable Solar_flares.txt 1 1256 
+massive Solar_flares.txt 3 561 1147 1235 
+1970s Solar_flares.txt 1 1731 
+hence Solar_flares.txt 1 1009 
+undergo Solar_flares.txt 1 13 
+top Solar_flares.txt 1 2146 
+frequent Solar_flares.txt 1 552 
+first Solar_flares.txt 5 463 1504 1649 1997 2209 
+origin Solar_flares.txt 1 722 
+borealis Solar_flares.txt 1 1320 
+major Solar_flares.txt 3 162 1359 2322 
+flying Solar_flares.txt 1 883 
+suffix Solar_flares.txt 1 992 
+probability Solar_flares.txt 1 621 
+coming Solar_flares.txt 1 1895 
+powerful Solar_flares.txt 5 869 1028 1036 1046 1991 
+number Solar_flares.txt 3 837 850 1124 
+implicates Solar_flares.txt 1 645 
+clear Solar_flares.txt 2 798 2210 
+southworth Solar_flares.txt 1 1625 
+dayside Solar_flares.txt 1 2394 
+fast Solar_flares.txt 1 1661 
+directly Solar_flares.txt 1 1439 
+reached Solar_flares.txt 1 2296 
+millions Solar_flares.txt 1 286 
+earths Solar_flares.txt 4 434 972 1218 1423 
+little Solar_flares.txt 1 1444 
+level Solar_flares.txt 1 2309 
+leading Solar_flares.txt 1 1307 
+interact Solar_flares.txt 1 638 
+system Solar_flares.txt 1 936 
+least Solar_flares.txt 1 1412 
+their Solar_flares.txt 5 1610 1744 1792 1867 2108 
+ionospheric Solar_flares.txt 1 2197 
+2 Solar_flares.txt 1 2228 
+observations Solar_flares.txt 10 926 1063 1451 1496 1587 1637 1653 1745 1783 1919 
+erupted Solar_flares.txt 2 77 2373 
+non-solar Solar_flares.txt 1 1879 
+white Solar_flares.txt 4 901 1470 1527 2044 
+scheme Solar_flares.txt 2 1065 2515 
+h-alpha Solar_flares.txt 1 1051 
+ranging Solar_flares.txt 2 993 2348 
+damaging Solar_flares.txt 2 564 1333 
+x9.3-class Solar_flares.txt 1 2416 
+x-rays Solar_flares.txt 6 424 961 1330 1487 1742 1760 
+storm Solar_flares.txt 4 1225 2028 2263 2306 
+releases Solar_flares.txt 1 405 
+that Solar_flares.txt 16 12 67 456 646 735 875 1004 1125 1132 1251 1603 1796 1820 1980 2140 2474 
+centered Solar_flares.txt 1 1545 
+radars Solar_flares.txt 1 452 
+lists Solar_flares.txt 1 2151 
+prediction Solar_flares.txt 3 2459 2465 2536 
+released Solar_flares.txt 2 1432 1941 
+optical Solar_flares.txt 4 1495 1516 1551 1826 
+x2 Solar_flares.txt 4 1011 1039 1041 2244 
+x3 Solar_flares.txt 1 1022 
+july Solar_flares.txt 5 557 1954 2253 2258 2300 
+x1 Solar_flares.txt 2 1019 1031 
+than Solar_flares.txt 7 532 553 847 1037 1047 1713 2446 
+10 Solar_flares.txt 5 146 168 824 1113 2236 
+kind Solar_flares.txt 2 1394 2572 
+observatory Solar_flares.txt 3 91 2400 2413 
+15 Solar_flares.txt 3 1446 1687 2301 
+target Solar_flares.txt 1 1870 
+17 Solar_flares.txt 1 2242 
+intensity Solar_flares.txt 4 1069 1076 1136 1463 
+extraordinarily Solar_flares.txt 1 1525 
+future Solar_flares.txt 1 617 
+risks Solar_flares.txt 1 1352 
+2022 Solar_flares.txt 1 600 
+were Solar_flares.txt 4 462 1638 1761 2346 
+biochemical Solar_flares.txt 1 1383 
+result Solar_flares.txt 1 1341 
+and Solar_flares.txt 51 35 177 221 275 296 336 352 417 425 436 453 472 562 599 732 827 878 913 1032 1070 1103 1129 1172 1226 1232 1258 1292 1298 1321 1337 1488 1594 1674 1722 1743 1976 2006 2014 2046 2059 2078 2089 2097 2173 2235 2352 2387 2449 2468 2490 2564 
+manned Solar_flares.txt 1 1365 
+atmospheric Solar_flares.txt 2 1977 2565 
+pass Solar_flares.txt 1 1377 
+measure Solar_flares.txt 1 1749 
+spectrum Solar_flares.txt 3 138 313 1459 
+auroras Solar_flares.txt 3 220 877 2049 
+p.m Solar_flares.txt 1 83 
+ghz Solar_flares.txt 2 1692 2219 
+have Solar_flares.txt 3 1252 1702 1864 
+close Solar_flares.txt 1 2115 
+seen Solar_flares.txt 1 85 
+concentration Solar_flares.txt 1 1435 
+x-class Solar_flares.txt 3 870 932 2343 
+contents Solar_flares.txt 1 261 
+acceleration Solar_flares.txt 2 662 726 
+geomagnetic Solar_flares.txt 3 1224 1249 2305 
+strength Solar_flares.txt 3 980 1016 2083 
+x3.2 Solar_flares.txt 1 2356 
+latter Solar_flares.txt 1 2358 
+ground-based Solar_flares.txt 1 1681 
+r3 Solar_flares.txt 1 1971 
+complexity Solar_flares.txt 2 1799 2526 
+also Solar_flares.txt 10 245 652 748 831 1000 1584 1626 1806 2224 2574 
+causing Solar_flares.txt 1 1382 
+absorbed Solar_flares.txt 1 1718 
+take Solar_flares.txt 1 1410 
+which Solar_flares.txt 7 841 998 1246 1285 1715 2080 2360 
+x1.3-class Solar_flares.txt 1 2384 
+interior Solar_flares.txt 1 380 
+extrapolating Solar_flares.txt 1 2183 
+many Solar_flares.txt 3 1764 1878 2486 
+spectral Solar_flares.txt 2 1062 2215 
+play Solar_flares.txt 7 31 49 867 923 1145 1912 1936 
+towards Solar_flares.txt 1 1169 
+multiple Solar_flares.txt 1 914 
+electric Solar_flares.txt 1 1262 
+trace Solar_flares.txt 1 2069 
+normal Solar_flares.txt 1 1141 
+eruption Solar_flares.txt 3 38 1928 2435 
+most Solar_flares.txt 5 324 1407 1768 1902 1990 
+nasas Solar_flares.txt 1 2397 
+propagate Solar_flares.txt 1 1822 
+letter Solar_flares.txt 1 1131 
+successive Solar_flares.txt 1 1830 
+measured Solar_flares.txt 5 969 1095 1440 2086 2159 
+class Solar_flares.txt 7 9 986 1008 1149 1276 1944 2554 
+observation Solar_flares.txt 2 1555 1869 
+considered Solar_flares.txt 1 151 
+calculated Solar_flares.txt 1 614 
+sometimes Solar_flares.txt 2 842 1239 
+stronger Solar_flares.txt 1 771 
+inferred Solar_flares.txt 1 494 
+km Solar_flares.txt 1 1114 
+electrons Solar_flares.txt 3 175 294 637 
+rilliant Solar_flares.txt 1 1090 
+redirected Solar_flares.txt 1 3 
+left Solar_flares.txt 2 905 2067 
+physics Solar_flares.txt 1 262 
+v.g Solar_flares.txt 1 1137 
+atmosphere Solar_flares.txt 6 74 216 272 1284 1297 1721 
+particularly Solar_flares.txt 1 528 
+phenomenon Solar_flares.txt 3 193 648 1836 
+allows Solar_flares.txt 1 1553 
+departing Solar_flares.txt 1 2369 
+detection Solar_flares.txt 1 1420 
+0032 Solar_flares.txt 1 2379 
+bring Solar_flares.txt 1 1807 
+bright Solar_flares.txt 4 219 1477 1559 1728 
+radio Solar_flares.txt 11 227 318 439 442 1290 1492 1586 1631 1808 1854 1966 
+earth Solar_flares.txt 8 98 210 241 576 1171 1191 2298 2396 
+fine Solar_flares.txt 1 1794 
+aint Solar_flares.txt 1 1085 
+highest Solar_flares.txt 1 1434 
+based Solar_flares.txt 3 607 1059 2501 
+hf Solar_flares.txt 1 2389 
+storms Solar_flares.txt 5 618 874 1250 1409 1673 
+3 Solar_flares.txt 1 101 
+48-hour Solar_flares.txt 1 2332 
+only Solar_flares.txt 5 1033 1573 1639 2132 2180 
+helix Solar_flares.txt 1 701 
+factor Solar_flares.txt 1 1002 
+emitting Solar_flares.txt 2 1071 1092 
+b Solar_flares.txt 2 944 1089 
+local Solar_flares.txt 2 1174 1183 
+astronomical Solar_flares.txt 1 1880 
+notably Solar_flares.txt 1 2329 
+his Solar_flares.txt 1 1636 
+hit Solar_flares.txt 1 2264 
+gev Solar_flares.txt 1 822 
+distance Solar_flares.txt 1 974 
+midnight Solar_flares.txt 1 2267 
+scientists Solar_flares.txt 1 855 
+methods Solar_flares.txt 1 2462 
+orbiting Solar_flares.txt 1 1305 
+12 Solar_flares.txt 2 590 2337 
+christopher Solar_flares.txt 1 470 
+closely Solar_flares.txt 1 679 
+report Solar_flares.txt 1 1651 
+penetrate Solar_flares.txt 2 370 1901 
+years Solar_flares.txt 3 1565 2106 2139 
+areas Solar_flares.txt 1 485 
+reveal Solar_flares.txt 1 1797 
+evolution Solar_flares.txt 1 51 
+spots Solar_flares.txt 1 2508 
+sources Solar_flares.txt 1 2578 
+fields Solar_flares.txt 2 369 768 
+median Solar_flares.txt 1 155 
+x20 Solar_flares.txt 1 2230 
+naked Solar_flares.txt 2 350 2041 
+twice Solar_flares.txt 1 1014 
+erupt Solar_flares.txt 1 754 
+emp Solar_flares.txt 1 573 
+activity Solar_flares.txt 3 1671 2128 2325 
+release Solar_flares.txt 3 143 394 714 
+x Solar_flares.txt 3 948 1275 2552 
+where Solar_flares.txt 5 255 366 766 1707 1723 
+set Solar_flares.txt 1 2060 
+filters Solar_flares.txt 1 1582 
+observer Solar_flares.txt 1 2018 
+national Solar_flares.txt 2 1974 2562 
+observed Solar_flares.txt 9 115 355 464 1499 1601 1627 1762 1994 2001 
+see Solar_flares.txt 4 16 27 1220 2573 
+are Solar_flares.txt 21 120 299 345 382 550 757 769 790 830 856 1176 1238 1338 1357 1465 1583 1716 1784 2431 2466 2538 
+discussions Solar_flares.txt 1 1362 
+stanley Solar_flares.txt 1 1604 
+cliver Solar_flares.txt 1 2088 
+ormal Solar_flares.txt 1 1087 
+concern Solar_flares.txt 1 1360 
+ar2035-ar2046 Solar_flares.txt 1 2372 
+oceanic Solar_flares.txt 2 1975 2563 
+narrated Solar_flares.txt 1 1915 
+mcintosh Solar_flares.txt 1 2521 
+wikipedia Solar_flares.txt 1 2 
+forecast Solar_flares.txt 1 859 
+initially Solar_flares.txt 1 2182 
+outside Solar_flares.txt 1 332 
+unable Solar_flares.txt 1 857 
+x28 Solar_flares.txt 1 2192 
+between Solar_flares.txt 2 415 597 
+tens Solar_flares.txt 2 284 391 
+across Solar_flares.txt 2 310 1456 
+discovery Solar_flares.txt 1 1611 
+ar1515 Solar_flares.txt 1 2279 
+terms Solar_flares.txt 2 1097 2542 
+august Solar_flares.txt 4 58 891 1152 2245 
+adding Solar_flares.txt 1 1539 
+importance Solar_flares.txt 1 1754 
+emitted Solar_flares.txt 2 428 2347 
+26 Solar_flares.txt 1 1595 
+interfere Solar_flares.txt 1 1287 
+spectroscopic Solar_flares.txt 1 1778 
+spray Solar_flares.txt 1 2427 
+group Solar_flares.txt 1 489 
+suggested Solar_flares.txt 1 2199 
+both Solar_flares.txt 1 1067 
+c Solar_flares.txt 1 945 
+last Solar_flares.txt 2 2104 2137 
+missions Solar_flares.txt 1 1863 
+fermis Solar_flares.txt 1 1918 
+minutes Solar_flares.txt 3 389 393 1447 
+taking Solar_flares.txt 1 1120 
+barely Solar_flares.txt 1 574 
+hours Solar_flares.txt 2 1414 2559 
+quiet Solar_flares.txt 1 540 
+called Solar_flares.txt 1 2506 
+april Solar_flares.txt 2 2227 2375 
+s Solar_flares.txt 3 112 187 1121 
+became Solar_flares.txt 1 1746 
+streams Solar_flares.txt 1 1195 
+magnetosphere Solar_flares.txt 2 1219 1315 
+150 Solar_flares.txt 2 2105 2138 
+simple Solar_flares.txt 1 2514 
+seems Solar_flares.txt 1 843 
+cmes Solar_flares.txt 2 416 1245 
+period Solar_flares.txt 1 2333 
+proton Solar_flares.txt 2 1211 1408 
+arcades Solar_flares.txt 1 675 
+article Solar_flares.txt 1 1222 
+administrations Solar_flares.txt 1 1978 
+100 Solar_flares.txt 2 964 2218 
+forms Solar_flares.txt 1 1903 
+strong Solar_flares.txt 1 2383 
+described Solar_flares.txt 1 1105 
+powered Solar_flares.txt 1 383 
+addition Solar_flares.txt 1 1872 
+create Solar_flares.txt 1 872 
+three Solar_flares.txt 1 1025 
+been Solar_flares.txt 4 69 1253 1703 2321 
+quickly Solar_flares.txt 1 691 
+hitting Solar_flares.txt 1 213 
+rivals Solar_flares.txt 1 2116 
+much Solar_flares.txt 2 587 770 
+mars Solar_flares.txt 1 1368 
+expected Solar_flares.txt 1 1177 
+pm Solar_flares.txt 1 1960 
+multi-spacecraft Solar_flares.txt 1 925 
+direction Solar_flares.txt 1 207 
+modern Solar_flares.txt 1 2153 
+general Solar_flares.txt 1 778 
+fire Solar_flares.txt 1 2064 
+400 Solar_flares.txt 1 1691 
+protect Solar_flares.txt 1 1404 
+photos Solar_flares.txt 2 1831 1844 
+observe Solar_flares.txt 3 1683 1737 1882 
+external Solar_flares.txt 1 2579 
+evidence Solar_flares.txt 2 644 2211 
+160 Solar_flares.txt 1 1658 
+hidden Solar_flares.txt 1 2583 
+those Solar_flares.txt 1 458 
+hodgson Solar_flares.txt 2 476 2021 
+20 Solar_flares.txt 3 930 1430 2453 
+has Solar_flares.txt 2 2114 2320 
+uncertain Solar_flares.txt 1 626 
+these Solar_flares.txt 5 237 687 1213 1843 1874 
+disrupt Solar_flares.txt 2 224 437 
+ejection Solar_flares.txt 6 130 203 571 746 1162 1345 
+prominence Solar_flares.txt 2 37 1853 
+n Solar_flares.txt 1 1086 
+will Solar_flares.txt 1 2481 
+hovering Solar_flares.txt 1 70 
+cosmic-ray Solar_flares.txt 1 292 
+radiotelescopes Solar_flares.txt 1 1682 
+cannot Solar_flares.txt 1 1821 
+applies Solar_flares.txt 1 260 
+1515 Solar_flares.txt 1 1940 
+region Solar_flares.txt 3 1939 2288 2477 
+loop Solar_flares.txt 1 854 
+periods Solar_flares.txt 1 1267 
+approximate Solar_flares.txt 1 2181 
+violently Solar_flares.txt 1 739 
+is Solar_flares.txt 32 105 150 204 244 281 328 419 527 539 624 720 776 796 803 811 987 999 1013 1024 1042 1058 1077 1094 1104 1118 1139 1166 2024 2130 2179 2470 2527 
+thus Solar_flares.txt 1 1299 
+it Solar_flares.txt 7 229 736 795 812 1522 2129 2187 
+surface Solar_flares.txt 4 118 922 1072 1093 
+according Solar_flares.txt 3 577 580 949 
+ii Solar_flares.txt 1 1591 
+sudden Solar_flares.txt 3 107 386 713 
+greenland Solar_flares.txt 1 2071 
+in Solar_flares.txt 34 46 71 205 252 361 399 477 717 851 954 1075 1096 1186 1200 1313 1325 1346 1361 1486 1491 1630 1643 1740 1842 1871 2043 2070 2073 2107 2119 2152 2293 2326 2541 
+around Solar_flares.txt 2 364 2419 
+orbital Solar_flares.txt 2 973 1309 
+different Solar_flares.txt 2 1462 1765 
+present Solar_flares.txt 1 1227 
+media Solar_flares.txt 7 32 50 868 924 1146 1913 1937 
+radiation Solar_flares.txt 11 309 427 873 888 1228 1351 1455 1490 1536 1602 2407 
+same Solar_flares.txt 2 403 1623 
+shorter Solar_flares.txt 1 1712 
+reconstructed Solar_flares.txt 1 2091 
+complex Solar_flares.txt 2 2371 2499 
+potentially Solar_flares.txt 1 563 
+2005 Solar_flares.txt 2 1431 2239 
+9 Solar_flares.txt 3 997 1153 2246 
+x17.2 Solar_flares.txt 1 2234 
+several Solar_flares.txt 1 521 
+events Solar_flares.txt 1 2101 
+conflict Solar_flares.txt 1 1621 
+week Solar_flares.txt 2 535 2295 
+satellite Solar_flares.txt 1 505 
+used Solar_flares.txt 3 246 1585 2529 
+nitrates Solar_flares.txt 1 2077 
+kelvin Solar_flares.txt 1 289 
+prominences Solar_flares.txt 1 2448 
+numerical Solar_flares.txt 1 991 
+ramaty Solar_flares.txt 1 1774 
+forecasts Solar_flares.txt 1 2569 
+average Solar_flares.txt 1 773 
+u.s Solar_flares.txt 1 2561 
+uses Solar_flares.txt 2 940 1066 
+expand Solar_flares.txt 1 740 
+cycle Solar_flares.txt 2 544 547 
+lower Solar_flares.txt 1 1948 
+off Solar_flares.txt 1 919 
+15.5 Solar_flares.txt 1 1112 
+australis Solar_flares.txt 1 1323 
+multi-messenger Solar_flares.txt 1 200 
+no Solar_flares.txt 2 1173 2471 
+well Solar_flares.txt 2 422 793 
+superstorm Solar_flares.txt 1 566 
+peculiarities Solar_flares.txt 1 1667 
+g1g2 Solar_flares.txt 1 2308 
+the Solar_flares.txt 180 8 24 55 72 75 88 92 154 170 181 185 192 206 209 211 214 242 256 270 278 291 303 311 326 333 340 343 349 371 375 378 385 400 402 413 449 466 498 502 512 525 537 542 545 613 619 640 647 667 707 710 712 721 724 727 733 760 764 781 787 800 806 821 835 848 852 885 894 920 928 934 941 951 971 976 979 1001 1007 1015 1064 1068 1073 1081 1091 1101 1107 1170 1182 1187 1190 1201 1217 1270 1279 1282 1295 1301 1314 1318 1326 1340 1347 1350 1369 1379 1405 1416 1433 1457 1503 1511 1550 1554 1568 1572 1617 1620 1622 1628 1648 1655 1660 1669 1678 1684 1696 1720 1730 1732 1738 1747 1753 1756 1767 1772 1786 1798 1801 1824 1837 1849 1860 1891 1921 1930 1947 1951 1973 1989 1996 2022 2026 2032 2035 2065 2074 2092 2103 2111 2122 2131 2136 2145 2150 2155 2170 2184 2196 2208 2278 2290 2294 2297 2357 2364 2393 2409 2479 2510 2560 
+800 Solar_flares.txt 1 966 
+x1.8-class Solar_flares.txt 1 2311 
+charged Solar_flares.txt 2 634 664 
+redirects Solar_flares.txt 1 21 
+highest-energy Solar_flares.txt 1 1922 
+just Solar_flares.txt 1 2265 
+less Solar_flares.txt 2 531 551 
+being Solar_flares.txt 1 1771 
+generally Solar_flares.txt 1 1339 
+rest Solar_flares.txt 1 708 
+decimetric Solar_flares.txt 1 445 
+satellites Solar_flares.txt 4 1257 1306 1736 1881 
+stored Solar_flares.txt 1 398 
+properties Solar_flares.txt 1 2487 
+atomic Solar_flares.txt 1 1480 
+human Solar_flares.txt 1 1380 
+speed Solar_flares.txt 1 304 
+documented Solar_flares.txt 1 2133 
+x6.9 Solar_flares.txt 2 1148 2248 
+x45 Solar_flares.txt 1 2204 
+majority Solar_flares.txt 1 341 
+rose Solar_flares.txt 1 25 
+point Solar_flares.txt 1 2533 
+had Solar_flares.txt 1 68 
+rosa Solar_flares.txt 1 28 
+diminishing Solar_flares.txt 1 1752 
+source Solar_flares.txt 2 782 1574 
+spread Solar_flares.txt 1 329 
+transformed Solar_flares.txt 1 804 
+describable Solar_flares.txt 1 653 
+heavier Solar_flares.txt 1 297 
+plasma Solar_flares.txt 3 279 641 1344 
+march Solar_flares.txt 2 929 2249 
+increased Solar_flares.txt 1 110 
+posed Solar_flares.txt 1 1353 
+february Solar_flares.txt 2 1596 2241 
+early Solar_flares.txt 2 197 2327 
+photosphere Solar_flares.txt 2 273 372 
+increases Solar_flares.txt 1 1278 
+world Solar_flares.txt 1 1589 
+occurring Solar_flares.txt 2 596 680 
+knock Solar_flares.txt 1 1259 
+like Solar_flares.txt 2 293 1672 
+particle Solar_flares.txt 2 725 807 
+volt Solar_flares.txt 1 826 
+weathermarch Solar_flares.txt 1 1987 
+qualitative Solar_flares.txt 1 1078 
+velocities Solar_flares.txt 1 2451 
+extremely Solar_flares.txt 1 1811 
+50 Solar_flares.txt 1 1034 
+flux Solar_flares.txt 3 656 953 1273 
+tsunami Solar_flares.txt 1 908 
+mhz Solar_flares.txt 2 1659 1688 
+either Solar_flares.txt 1 1884 
+january Solar_flares.txt 1 1429 
+c3-class Solar_flares.txt 1 898 
+soft Solar_flares.txt 2 1271 1741 
+because Solar_flares.txt 3 602 1890 2174 
+x5.4 Solar_flares.txt 1 2252 
+often Solar_flares.txt 1 121 
+grids Solar_flares.txt 1 1264 
+phenomena Solar_flares.txt 2 15 251 
+certain Solar_flares.txt 1 2472 
+astronomer Solar_flares.txt 1 2011 
+ejections Solar_flares.txt 3 410 1244 2443 
+however Solar_flares.txt 1 2485 
+nonetheless Solar_flares.txt 1 1781 
+imager Solar_flares.txt 1 1779 
+extended Solar_flares.txt 1 1266 
+another Solar_flares.txt 1 2281 
+1859 Solar_flares.txt 5 478 1509 2005 2030 2112 
+scale Solar_flares.txt 1 1979 
+for Solar_flares.txt 14 7 23 156 236 337 937 1003 1265 1502 1564 1845 2496 2534 2545 
+communications Solar_flares.txt 2 440 2390 
+electromagnetic Solar_flares.txt 3 182 312 1458 
+recorded Solar_flares.txt 4 39 2314 2401 2414 
+per Solar_flares.txt 3 522 956 2457 
+moon Solar_flares.txt 1 1370 
+video Solar_flares.txt 1 1916 
+bursts Solar_flares.txt 1 1675 
+1520 Solar_flares.txt 1 2287 
+provides Solar_flares.txt 1 195 
+indication Solar_flares.txt 1 2473 
+protruding Solar_flares.txt 1 1852 
+refer Solar_flares.txt 1 248 
+be Solar_flares.txt 13 153 354 493 585 818 845 1332 1401 1475 1726 2000 2085 2191 
+power Solar_flares.txt 1 1263 
+reach Solar_flares.txt 4 240 1422 1449 2450 
+each Solar_flares.txt 1 2120 
+agreement Solar_flares.txt 1 779 
+stellar Solar_flares.txt 4 258 490 921 1205 
+although Solar_flares.txt 5 323 412 601 774 1460 
+filaments Solar_flares.txt 1 915 
+from Solar_flares.txt 15 4 87 317 501 520 755 994 1415 1686 1896 1946 1982 2285 2349 2408 
+by Solar_flares.txt 16 44 126 384 429 468 474 495 975 989 1241 1354 1514 1719 1763 2009 2016 
+on Solar_flares.txt 37 40 54 57 97 99 134 465 556 608 666 673 763 772 780 890 903 1060 1303 1428 1506 1592 1929 1953 1972 2002 2063 2163 2226 2257 2299 2315 2335 2374 2392 2422 2478 2502 
+about Solar_flares.txt 2 1577 1917 
+radioastronomy Solar_flares.txt 1 1664 
+actual Solar_flares.txt 1 620 
+of Solar_flares.txt 109 10 52 64 109 139 144 148 174 199 208 269 285 287 305 325 342 388 392 395 451 483 507 509 514 516 592 612 616 622 649 663 678 685 689 697 702 709 715 723 783 838 916 927 960 981 1017 1098 1100 1189 1196 1268 1274 1281 1328 1342 1363 1395 1418 1436 1535 1556 1575 1619 1654 1663 1668 1698 1735 1750 1755 1788 1800 1832 1848 1904 1907 1920 1933 1950 2029 2076 2094 2102 2121 2125 2135 2147 2149 2175 2195 2212 2277 2289 2307 2341 2354 2359 2363 2395 2404 2434 2444 2452 2463 2488 2516 2543 2547 2570 
+drag Solar_flares.txt 1 1302 
+range Solar_flares.txt 3 226 335 823 
+important Solar_flares.txt 1 1769 
+airline Solar_flares.txt 1 881 
+or Solar_flares.txt 16 234 504 947 1088 1122 1204 1371 1397 1888 2031 2057 2117 2143 2522 2551 2557 
+gamma Solar_flares.txt 1 321 
+letters Solar_flares.txt 1 942 
+instruments Solar_flares.txt 3 358 1766 2161 
+into Solar_flares.txt 4 79 189 693 805 
+within Solar_flares.txt 5 486 984 1006 2330 2555 
+year Solar_flares.txt 2 1624 2366 
+due Solar_flares.txt 1 2519 
+down Solar_flares.txt 1 2050 
+right Solar_flares.txt 2 912 1949 
+references Solar_flares.txt 1 2576 
+short-wave Solar_flares.txt 1 1289 
+heated Solar_flares.txt 1 282 
+fired Solar_flares.txt 1 2275 
+tropical Solar_flares.txt 1 2052 
+arcade Solar_flares.txt 2 696 711 
+area Solar_flares.txt 2 902 1110 
+transfer Solar_flares.txt 1 657 
+there Solar_flares.txt 5 583 775 829 2319 2469 
+hazards Solar_flares.txt 2 1143 1229 
+hey Solar_flares.txt 2 1605 1635 
+long Solar_flares.txt 4 62 225 1812 1815 
+why Solar_flares.txt 1 750 
+4:36 Solar_flares.txt 1 82 
+trigger Solar_flares.txt 1 1248 
+low Solar_flares.txt 2 695 1304 
+stars Solar_flares.txt 4 11 254 511 1787 
+noaa Solar_flares.txt 1 2567 
+was Solar_flares.txt 11 606 1523 1567 1647 1840 1995 2007 2037 2188 2313 2361 
+war Solar_flares.txt 1 1590 
+telegraph Solar_flares.txt 1 2061 
+synchrotron Solar_flares.txt 1 1489 
+medium Solar_flares.txt 2 280 642 
+form Solar_flares.txt 2 1327 2075 
+forming Solar_flares.txt 1 742 
+stunning Solar_flares.txt 1 2048 
+but Solar_flares.txt 3 122 1472 1632 
+hemisphere Solar_flares.txt 2 1102 1109 
+link Solar_flares.txt 1 374 
+solar Solar_flares.txt 51 0 5 33 65 89 103 131 264 271 379 430 460 517 546 565 567 572 674 751 899 907 938 1150 1178 1202 1210 1236 1355 1426 1578 1608 1670 1777 1789 1802 1834 1838 1875 1909 2027 2157 2222 2262 2273 2283 2323 2344 2385 2398 2411 2438 
+delta Solar_flares.txt 1 2507 
+beginning Solar_flares.txt 1 1697 
+sdo Solar_flares.txt 1 45 
+with Solar_flares.txt 15 180 356 639 962 1288 1461 1561 1634 1791 1926 2099 2160 2303 2437 2494 
+utc Solar_flares.txt 1 2421 
+october Solar_flares.txt 2 2231 2316 
+largest Solar_flares.txt 3 2156 2365 2511 
+ut Solar_flares.txt 1 2380 
+uv Solar_flares.txt 3 426 1714 1782 
+up Solar_flares.txt 3 166 633 1689 
+devices Solar_flares.txt 1 455 
+below Solar_flares.txt 1 1106 
+projecting Solar_flares.txt 1 1510 
+exploration Solar_flares.txt 1 1700 
+emissions Solar_flares.txt 1 140 
+uk Solar_flares.txt 1 2268 
+lightcurves Solar_flares.txt 1 499 
+similar Solar_flares.txt 3 14 250 594 
+emit Solar_flares.txt 1 165 
+x-ray Solar_flares.txt 1 1272 
+examples Solar_flares.txt 1 1906 
+strongly Solar_flares.txt 1 1180 
+peaking Solar_flares.txt 1 1957 
+penetrating Solar_flares.txt 1 1892 
+later Solar_flares.txt 1 2193 
+associated Solar_flares.txt 2 1925 2436 
+links Solar_flares.txt 1 2580 
+m Solar_flares.txt 2 946 2550 
+contribute Solar_flares.txt 1 1316 
+influence Solar_flares.txt 1 1181 
+1200 Solar_flares.txt 1 2420 
+an Solar_flares.txt 25 95 141 196 609 982 1010 1018 1021 1030 1038 1040 1048 1054 1515 1524 1927 1942 1970 2017 2271 2350 2355 2388 2415 2475 
+loops Solar_flares.txt 2 681 698 
+as Solar_flares.txt 21 479 586 588 654 759 968 1027 1029 1083 1208 1443 1445 1607 1633 1814 1816 1866 1932 1969 2055 2530 
+ar Solar_flares.txt 1 2286 
+at Solar_flares.txt 18 81 314 444 497 970 1223 1411 1469 1478 1537 1546 1657 1710 1810 1958 2142 2378 2418 
+planets Solar_flares.txt 1 1373 
+operation Solar_flares.txt 1 450 
+physical Solar_flares.txt 1 1396 
+compared Solar_flares.txt 1 2098 
+sprays Solar_flares.txt 1 2430 
+48 Solar_flares.txt 1 2558 
+variety Solar_flares.txt 2 26 508 
+amounts Solar_flares.txt 1 1534 
+image Solar_flares.txt 1 1512 
+when Solar_flares.txt 5 277 524 536 631 2270 
+field Solar_flares.txt 3 704 731 2505 
+other Solar_flares.txt 7 253 454 510 1372 1580 2100 2220 
+details Solar_flares.txt 1 1795 
+star Solar_flares.txt 1 18 
+energetic Solar_flares.txt 3 1198 1311 1374 
+shelter Solar_flares.txt 1 1450 
+time Solar_flares.txt 4 1269 1417 1505 2269 
+june Solar_flares.txt 2 41 1934 
+occurred Solar_flares.txt 2 2162 2225 
+chance Solar_flares.txt 1 591 
+coronal Solar_flares.txt 7 128 408 569 744 853 1160 1242 
+peak Solar_flares.txt 2 952 1135 
+additionally Solar_flares.txt 1 1234 
+astronomy Solar_flares.txt 1 201 
+structure Solar_flares.txt 1 910 
+upwards Solar_flares.txt 1 2353 
+independently Solar_flares.txt 2 473 2015 
+faster Solar_flares.txt 1 2442 
+typically Solar_flares.txt 2 145 753 
+required Solar_flares.txt 1 1402 
+curve Solar_flares.txt 1 2186 
+orbit Solar_flares.txt 1 1424 
+intentionally Solar_flares.txt 1 1885 
+2003 Solar_flares.txt 2 2166 2233 
+2000 Solar_flares.txt 1 2455 
+nasa Solar_flares.txt 2 579 582 
+mass Solar_flares.txt 6 129 409 570 745 1161 1243 
+presenting Solar_flares.txt 1 1385 
+broad Solar_flares.txt 1 137 
+starting Solar_flares.txt 2 2334 2532 

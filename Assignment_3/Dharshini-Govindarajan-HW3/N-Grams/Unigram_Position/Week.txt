@@ -1,0 +1,1136 @@
+all Week.txt 3 1603 2617 2630 
+concept Week.txt 1 1257 
+chinese Week.txt 5 422 2168 2202 2224 3069 
+mid-week Week.txt 1 893 
+gupta Week.txt 1 1209 
+forbidden Week.txt 1 1491 
+sabbatou Week.txt 1 1954 
+71r Week.txt 1 49 
+month Week.txt 7 1029 1596 1840 3003 3031 3216 3347 
+leads Week.txt 1 1160 
+writings Week.txt 2 2169 2199 
+asian Week.txt 2 2212 2714 
+five-day Week.txt 6 3106 3220 3226 3442 3473 3509 
+14th Week.txt 3 1463 2504 2564 
+layers Week.txt 1 1074 
+preserves Week.txt 1 345 
+senn Week.txt 1 1630 
+referring Week.txt 2 262 1653 
+mesoamerican Week.txt 1 3161 
+paris Week.txt 1 3324 
+1940 Week.txt 1 3651 
+plutarch Week.txt 1 819 
+thursday Week.txt 6 149 187 2748 2790 2814 2823 
+languages Week.txt 2 334 3063 
+to Week.txt 71 89 213 222 227 235 237 264 306 459 521 550 566 599 643 831 882 956 969 1022 1035 1079 1133 1154 1161 1172 1190 1242 1296 1344 1440 1492 1513 1525 1535 1597 1611 1640 1654 1682 1724 1919 1921 2032 2037 2057 2104 2170 2176 2232 2278 2326 2384 2406 2465 2562 2626 2783 2807 2957 2959 2998 3005 3014 3271 3319 3440 3479 3599 3601 3612 3637 
+aaron Week.txt 1 1428 
+indicate Week.txt 1 1786 
+present Week.txt 1 1560 
+whatsoever Week.txt 1 955 
+under Week.txt 1 1769 
+lord Week.txt 1 721 
+include Week.txt 1 1866 
+andreasen Week.txt 1 1052 
+traditionally Week.txt 1 1958 
+sent Week.txt 1 1386 
+feria Week.txt 3 415 917 2576 
+division Week.txt 1 34 
+digit Week.txt 2 2881 2923 
+ofthe Week.txt 1 115 
+egyptian Week.txt 1 3079 
+1793 Week.txt 1 3318 
+parable Week.txt 1 1933 
+delitzsch Week.txt 2 990 1854 
+sermon Week.txt 1 2556 
+fan Week.txt 1 2177 
+reforms Week.txt 1 3279 
+minuta Week.txt 1 69 
+dynasty Week.txt 3 1354 2189 2222 
+korea Week.txt 1 3125 
+reading Week.txt 1 3666 
+encounter Week.txt 1 1576 
+resemblance Week.txt 1 1097 
+hebdomad Week.txt 1 362 
+entire Week.txt 1 1923 
+school Week.txt 1 260 
+dating Week.txt 1 2494 
+judaism Week.txt 3 967 1679 1772 
+chaldean Week.txt 1 3016 
+called Week.txt 6 1470 2600 2621 2653 3037 3304 
+did Week.txt 3 1143 3076 3513 
+12th Week.txt 1 3487 
+july Week.txt 1 3526 
+wednesday Week.txt 4 148 891 2115 2150 
+guipuscoan Week.txt 1 3153 
+prohibitions Week.txt 1 1850 
+these Week.txt 2 1479 3167 
+persisted Week.txt 1 702 
+unrelated Week.txt 1 3013 
+succession Week.txt 1 314 
+nine-day Week.txt 1 3057 
+archaism Week.txt 1 342 
+tenths Week.txt 1 70 
+dis Week.txt 1 1952 
+revolution Week.txt 1 3408 
+ten Week.txt 3 1721 2973 3288 
+serbo-croatian Week.txt 1 394 
+8601 Week.txt 4 155 210 618 2720 
+obsolete Week.txt 1 375 
+sabbath Week.txt 8 1061 1101 1176 1299 1532 1572 1912 2612 
+translating Week.txt 1 321 
+14456 Week.txt 1 47 
+likely Week.txt 1 1410 
+pre-modern Week.txt 1 3009 
+assyro-babylonian Week.txt 1 1373 
+concludes Week.txt 1 2333 
+7th Week.txt 2 1462 2219 
+further Week.txt 4 2357 2680 3281 3665 
+kodak Week.txt 1 3397 
+medieval Week.txt 2 2443 2506 
+jesus Week.txt 1 2536 
+ecclesiastical Week.txt 5 705 712 863 920 2569 
+sun Week.txt 2 2024 2098 
+celebrated Week.txt 2 1460 1818 
+near Week.txt 1 1328 
+asia Week.txt 1 2159 
+acht Week.txt 1 2666 
+19th Week.txt 1 1820 
+experiment Week.txt 1 3470 
+above Week.txt 1 2335 
+new Week.txt 2 1032 1456 
+heian Week.txt 1 2257 
+increasing Week.txt 1 1980 
+officially Week.txt 1 1999 
+israelite Week.txt 3 1118 1156 1184 
+moon-dependency Week.txt 1 1049 
+era Week.txt 4 140 1896 2040 2287 
+make Week.txt 1 1493 
+seven-night Week.txt 1 344 
+full Week.txt 1 1544 
+christian Week.txt 5 1634 2354 2507 2602 3018 
+fridaysunday Week.txt 2 198 2759 
+igbo Week.txt 1 3127 
+men Week.txt 1 1489 
+21st Week.txt 1 1464 
+french Week.txt 2 3084 3285 
+hours Week.txt 4 136 794 1260 2135 
+reported Week.txt 1 830 
+gutian Week.txt 1 1353 
+yucatec Week.txt 1 3184 
+china Week.txt 2 1213 2161 
+octave Week.txt 1 2655 
+others Week.txt 4 992 1057 3349 3563 
+represented Week.txt 1 493 
+path Week.txt 1 523 
+100 Week.txt 1 827 
+unlucky Week.txt 1 2514 
+implicit Week.txt 1 1007 
+change Week.txt 1 296 
+digits Week.txt 5 2889 2895 2904 2929 2940 
+shabbat Week.txt 3 1730 1860 1889 
+bible Week.txt 1 1693 
+ceylonese Week.txt 1 2209 
+reconciling Week.txt 1 1867 
+pharisee Week.txt 2 1936 1944 
+rests Week.txt 1 1706 
+leaves Week.txt 1 1398 
+30 Week.txt 1 1793 
+deities Week.txt 2 24 757 
+1931 Week.txt 2 3432 3466 
+commonly Week.txt 1 2702 
+later Week.txt 1 2448 
+published Week.txt 1 2462 
+prior Week.txt 1 305 
+weekday Week.txt 3 554 762 3371 
+suggestion Week.txt 1 1522 
+achaemenid Week.txt 2 1578 1784 
+52.1786 Week.txt 1 488 
+mentions Week.txt 1 2307 
+gilgamesh Week.txt 1 1376 
+changes Week.txt 1 2383 
+reckoned Week.txt 1 845 
+named Week.txt 5 124 331 694 801 841 
+via Week.txt 3 886 1205 1228 
+followed Week.txt 1 2935 
+although Week.txt 2 1422 3594 
+extra Week.txt 2 3550 3560 
+france Week.txt 1 3309 
+millennia Week.txt 1 2381 
+explained Week.txt 1 2118 
+wik Week.txt 2 293 320 
+commandments Week.txt 1 1722 
+brought Week.txt 1 2231 
+texts Week.txt 1 1883 
+addressed Week.txt 1 833 
+denounced Week.txt 1 2553 
+names Week.txt 5 144 652 753 763 3145 
+movement Week.txt 1 786 
+1st Week.txt 3 1290 2316 2343 
+viz Week.txt 1 2342 
+unit Week.txt 2 87 429 
+use Week.txt 6 1648 1981 2013 2255 2271 2871 
+from Week.txt 29 42 130 220 279 285 290 339 368 384 400 420 850 1043 1177 1454 1484 1619 1782 2192 2484 2495 2502 2675 2778 2802 2861 3143 3316 3436 
+working Week.txt 1 3554 
+remains Week.txt 2 933 2638 
+remainder Week.txt 1 601 
+continuous Week.txt 4 945 1647 1812 2044 
+contains Week.txt 2 184 2745 
+two Week.txt 7 1929 2123 2380 2888 2903 2928 2939 
+sunday Week.txt 10 153 228 2081 2141 2397 2537 2566 2651 2784 2808 
+few Week.txt 2 243 2965 
+therefore Week.txt 1 1107 
+6 Week.txt 6 2074 2109 2137 2816 3252 3638 
+butler Week.txt 1 2472 
+historically Week.txt 2 542 2978 
+diagrams Week.txt 1 31 
+more Week.txt 1 358 
+israel Week.txt 2 1138 1173 
+biblical Week.txt 2 986 1100 
+on Week.txt 20 174 268 755 1418 1450 1478 1506 1707 1726 1774 2132 2143 2152 2433 2649 2735 3368 3516 3574 3623 
+company Week.txt 1 3398 
+apparent Week.txt 1 783 
+sabbaton Week.txt 1 1914 
+reign Week.txt 1 2059 
+festival Week.txt 1 1366 
+basically Week.txt 1 1795 
+365.2425 Week.txt 1 470 
+known Week.txt 8 1283 1502 2165 2294 2481 3176 3192 3359 
+central Week.txt 1 2211 
+cases Week.txt 1 407 
+ocs Week.txt 1 410 
+dot Week.txt 1 2919 
+96 Week.txt 1 65 
+antiquity Week.txt 1 877 
+reconstructed Week.txt 2 1551 1571 
+account Week.txt 2 1435 1684 
+lengths Week.txt 1 3034 
+word Week.txt 3 276 299 337 
+language Week.txt 1 1892 
+hour Week.txt 2 73 81 
+this Week.txt 14 402 699 813 878 1036 1159 2116 2451 2527 2697 2846 3372 3549 3600 
+originally Week.txt 1 693 
+work Week.txt 1 257 
+mayas Week.txt 1 3158 
+nine Week.txt 2 1807 3311 
+can Week.txt 4 579 1732 2053 2691 
+ms Week.txt 1 45 
+koliada Week.txt 1 2485 
+root Week.txt 1 292 
+example Week.txt 3 624 2705 2771 
+bauern-praktik Week.txt 1 2455 
+history Week.txt 3 942 951 2377 
+dedicated Week.txt 1 1362 
+months Week.txt 2 3090 3384 
+activities Week.txt 3 270 1477 1486 
+calculation Week.txt 1 568 
+december Week.txt 3 2781 3410 3530 
+cited Week.txt 1 2066 
+hebrew Week.txt 4 1413 1531 1692 1859 
+india Week.txt 4 1210 2288 2296 2331 
+purposes Week.txt 1 2274 
+high Week.txt 1 896 
+exile Week.txt 1 1092 
+midmonthly Week.txt 1 1577 
+nahuatl Week.txt 1 3180 
+numbers Week.txt 1 212 
+phrase Week.txt 1 2664 
+counting Week.txt 1 1453 
+yet Week.txt 2 2585 2637 
+breaking Week.txt 1 1810 
+relied Week.txt 1 1773 
+influenced Week.txt 1 884 
+martyr Week.txt 1 2605 
+end Week.txt 1 3223 
+ning Week.txt 1 2178 
+january Week.txt 6 2786 2793 2805 2810 2817 3523 
+rather Week.txt 1 1262 
+divided Week.txt 4 57 3169 3199 3217 
+six Week.txt 3 1703 2867 3619 
+differences Week.txt 1 1869 
+length Week.txt 1 2997 
+occur Week.txt 1 2438 
+1 Week.txt 8 221 613 639 2773 2792 2797 3247 3613 
+heptagram Week.txt 1 683 
+occasionally Week.txt 1 2597 
+possibly Week.txt 2 1559 3048 
+significance Week.txt 1 1337 
+instead Week.txt 1 791 
+categories Week.txt 2 3668 3670 
+utnapishtim Week.txt 1 1397 
+classify Week.txt 2 3344 3350 
+circular Week.txt 1 30 
+eight-day Week.txt 2 1961 3040 
+may Week.txt 3 906 1114 3525 
+after Week.txt 15 125 207 602 842 914 1388 1403 1666 1964 2610 2768 3467 3536 3605 3634 
+derived Week.txt 5 129 338 383 419 3142 
+tden Week.txt 1 397 
+tied Week.txt 1 1681 
+1:12:3 Week.txt 1 1711 
+reflect Week.txt 1 1115 
+hence Week.txt 1 2374 
+4th Week.txt 4 1224 1325 1625 2184 
+tagen Week.txt 1 2667 
+date Week.txt 9 160 2065 2394 2725 2875 2882 2913 2924 3366 
+such Week.txt 3 245 1303 2967 
+dove Week.txt 1 1384 
+parallel Week.txt 1 1153 
+dominica Week.txt 1 716 
+a Week.txt 101 43 82 85 162 168 175 191 195 242 286 291 302 336 372 387 391 411 434 464 495 513 527 549 560 584 670 681 821 847 944 1000 1003 1028 1065 1339 1357 1364 1494 1504 1514 1520 1540 1650 1737 1801 1822 1842 1875 1983 2080 2100 2114 2140 2149 2171 2279 2322 2327 2338 2347 2422 2486 2551 2555 2641 2650 2687 2727 2736 2752 2756 2831 2879 2921 2964 3056 3072 3093 3105 3129 3137 3170 3214 3229 3236 3301 3313 3339 3346 3352 3375 3380 3441 3460 3472 3480 3497 3553 3578 3590 3627 
+septimane Week.txt 1 376 
+basque Week.txt 1 3154 
+septimana Week.txt 1 386 
+four Week.txt 3 2971 3133 3219 
+februarius Week.txt 1 2085 
+6th Week.txt 5 971 1663 1759 2299 3486 
+yielding Week.txt 1 748 
+7/3 Week.txt 1 682 
+st Week.txt 1 51 
+hypotheses Week.txt 1 980 
+greek Week.txt 4 370 1206 1913 1951 
+18th Week.txt 1 3488 
+so Week.txt 6 188 445 508 2599 2749 2820 
+holidays Week.txt 2 3453 3505 
+every Week.txt 3 3365 3483 3596 
+trecenas Week.txt 1 3196 
+order Week.txt 4 323 768 849 853 
+furnish Week.txt 1 2337 
+longer Week.txt 1 2983 
+least Week.txt 3 1498 1763 2866 
+august Week.txt 1 3527 
+indeed Week.txt 1 1015 
+astronomical Week.txt 1 1008 
+move Week.txt 1 295 
+years Week.txt 2 507 3315 
+galician Week.txt 1 939 
+referenced Week.txt 1 2301 
+through Week.txt 3 226 1424 2402 
+mentioned Week.txt 1 1063 
+existence Week.txt 1 2121 
+its Week.txt 5 2276 2789 2813 3088 3468 
+before Week.txt 2 1088 2090 
+clm Week.txt 1 46 
+style Week.txt 1 2698 
+derive Week.txt 1 367 
+20 Week.txt 2 3187 3207 
+9th Week.txt 2 1081 2240 
+fit Week.txt 1 3272 
+termed Week.txt 1 2990 
+jin Week.txt 1 2188 
+michinaga Week.txt 1 2249 
+synecdoche Week.txt 1 1916 
+28 Week.txt 2 3386 3569 
+hebdomadal Week.txt 1 364 
+abbey Week.txt 1 53 
+niels-erik Week.txt 1 1051 
+late Week.txt 3 745 876 2183 
+absence Week.txt 1 1881 
+nundinal Week.txt 4 248 1320 1989 2007 
+2018 Week.txt 2 519 632 
+400 Week.txt 1 505 
+weeks Week.txt 21 9 166 186 478 489 503 1799 1845 2130 2685 2731 2747 2946 2968 2991 3038 3188 3221 3245 3262 3447 
+main Week.txt 2 650 1898 
+defining Week.txt 1 3379 
+erra Week.txt 1 2460 
+personified Week.txt 1 2539 
+tentatively Week.txt 1 1570 
+then Week.txt 1 1575 
+them Week.txt 2 1509 3458 
+widely Week.txt 1 1282 
+babylonians Week.txt 3 1045 1459 1816 
+carolingian Week.txt 1 44 
+practice Week.txt 2 349 2552 
+socially Week.txt 1 1738 
+runs Week.txt 1 949 
+indigenous Week.txt 1 756 
+often Week.txt 2 2878 3022 
+9 Week.txt 3 2809 3255 3267 
+1937 Week.txt 1 3411 
+february Week.txt 6 2075 2094 2110 2138 3566 3611 
+they Week.txt 4 1093 1108 2993 3197 
+half Week.txt 1 3314 
+not Week.txt 8 112 765 1744 2988 3514 3582 3595 3631 
+17th Week.txt 1 2466 
+documented Week.txt 1 2196 
+reckoning Week.txt 1 351 
+day Week.txt 38 37 63 404 558 571 575 587 606 619 627 718 725 1066 1279 1310 1729 1825 1827 1836 2069 2089 2095 2581 2594 2609 3028 3231 3415 3421 3485 3500 3520 3540 3551 3555 3593 3609 3659 
+association Week.txt 1 2015 
+develops Week.txt 1 2439 
+easily Week.txt 1 581 
+term Week.txt 5 230 1541 1548 1911 2952 
+several Week.txt 2 979 3102 
+stated Week.txt 1 2351 
+name Week.txt 2 272 911 
+designation Week.txt 2 889 1234 
+edit Week.txt 18 273 433 649 943 1330 1580 1897 2160 2162 2289 2356 2679 2950 3011 3280 3662 3664 3667 
+certainty Week.txt 1 2353 
+decimal Week.txt 2 497 3283 
+traced Week.txt 2 2055 2400 
+barton Week.txt 1 1429 
+identified Week.txt 1 2078 
+synchronize Week.txt 1 1023 
+ussr Week.txt 2 3428 3434 
+anastasia Week.txt 1 2542 
+each Week.txt 7 62 171 1507 2695 2732 3225 3388 
+found Week.txt 2 3060 3097 
+quarter Week.txt 2 540 1001 
+traces Week.txt 1 3054 
+mean Week.txt 1 466 
+republican Week.txt 1 3085 
+england Week.txt 1 2468 
+commune Week.txt 1 3325 
+series Week.txt 1 315 
+1871 Week.txt 1 3334 
+conventions Week.txt 1 2124 
+persian Week.txt 3 1199 1616 1770 
+fortnight Week.txt 2 360 3000 
+year Week.txt 22 170 182 192 204 467 482 562 2690 2696 2743 2753 2765 2832 2843 2899 2944 3202 3381 3404 3461 3580 3629 
+twenty-first Week.txt 1 3403 
+naming Week.txt 5 700 1884 2126 2146 2155 
+transitions Week.txt 1 453 
+mandated Week.txt 1 2915 
+saturday Week.txt 1 151 
+special Week.txt 1 1823 
+centuries Week.txt 1 1087 
+tou Week.txt 1 1953 
+ultimately Week.txt 2 284 1312 
+29 Week.txt 3 1791 2780 3571 
+hellenistic Week.txt 4 1202 1267 1893 3017 
+greeks Week.txt 1 1221 
+furthermore Week.txt 1 3322 
+since Week.txt 1 1764 
+19-day Week.txt 1 3340 
+semiconductor Week.txt 1 2873 
+contained Week.txt 1 1796 
+wice Week.txt 1 283 
+rare Week.txt 1 2717 
+7 Week.txt 4 223 612 638 3253 
+suggesting Week.txt 1 1642 
+2458194 Week.txt 2 634 636 
+23.659 Week.txt 1 530 
+creating Week.txt 1 3213 
+earlier Week.txt 2 2324 3508 
+exodus Week.txt 1 1716 
+theory Week.txt 2 1037 1857 
+state Week.txt 5 3498 3518 3538 3591 3607 
+frank Week.txt 1 1628 
+friday Week.txt 4 150 514 644 2530 
+seventh Week.txt 3 1590 1709 1728 
+story Week.txt 1 1370 
+standard Week.txt 2 95 2864 
+romans Week.txt 1 1957 
+clarify Week.txt 1 3602 
+formation Week.txt 1 392 
+240 Week.txt 1 68 
+judea Week.txt 1 1089 
+earliest Week.txt 3 1073 1332 2164 
+beginning Week.txt 2 714 2415 
+quo Week.txt 1 2348 
+revolutionary Week.txt 2 3286 3328 
+definition Week.txt 1 430 
+fixed Week.txt 3 3296 3356 3364 
+g Week.txt 1 551 
+sennight Week.txt 1 343 
+starts Week.txt 2 193 2754 
+ritual Week.txt 1 3171 
+days Week.txt 61 17 60 91 103 119 215 244 266 444 471 485 645 655 676 688 710 799 840 869 1021 1238 1382 1390 1402 1472 1480 1593 1704 1794 1808 2018 2049 2127 2429 2437 2518 2619 2632 2645 2671 2966 2974 2986 3123 3134 3148 3175 3191 3208 3212 3258 3268 3289 3332 3387 3464 3533 3546 3572 3620 3643 
+creates Week.txt 1 1696 
+turn Week.txt 1 294 
+currently-used Week.txt 1 2106 
+iso Week.txt 8 154 158 209 617 2719 2723 2847 2863 
+20th Week.txt 1 1528 
+18:12 Week.txt 1 1941 
+1007 Week.txt 1 2262 
+baltic Week.txt 1 3062 
+promotion Week.txt 1 2277 
+sabattu Week.txt 1 1556 
+facilitate Week.txt 1 567 
+museum Week.txt 1 29 
+south Week.txt 1 2475 
+first Week.txt 12 557 724 964 1270 2063 2580 2608 2615 2640 2822 2887 3584 
+origin Week.txt 3 983 1009 1856 
+31st7th Week.txt 1 3548 
+saving Week.txt 1 451 
+features Week.txt 1 3338 
+surviving Week.txt 1 2242 
+reintroduced Week.txt 1 3656 
+number Week.txt 9 200 588 607 628 2628 2761 2829 2910 2933 
+reaches Week.txt 1 1405 
+one Week.txt 4 201 598 2673 2762 
+clear Week.txt 2 1124 1745 
+kobo Week.txt 1 2238 
+24th Week.txt 1 3489 
+approximately Week.txt 1 999 
+spanish Week.txt 1 3194 
+modulo Week.txt 1 611 
+christianity Week.txt 1 926 
+george Week.txt 1 1427 
+mid-19th Week.txt 1 25 
+given Week.txt 3 169 561 583 
+ancient Week.txt 6 252 1327 1956 3045 3068 3078 
+slavonic Week.txt 2 902 905 
+ordering Week.txt 2 663 759 
+data Week.txt 1 1641 
+system Week.txt 19 133 161 164 544 701 865 921 1105 1216 1317 1609 2136 2229 2253 2267 2571 2726 2729 2858 
+adopted Week.txt 6 874 1042 1193 1618 2000 3326 
+scholars Week.txt 1 1302 
+their Week.txt 4 22 737 782 810 
+priest-king Week.txt 1 1346 
+storm Week.txt 1 1378 
+convention Week.txt 3 2147 2156 2848 
+eighth Week.txt 3 2088 2593 2624 
+destruction Week.txt 1 1668 
+40th Week.txt 1 77 
+genesis Week.txt 4 1437 1689 1710 1748 
+unbroken Week.txt 2 1872 2370 
+akan Week.txt 1 3100 
+eponymous Week.txt 1 23 
+saint Week.txt 1 2541 
+mostly Week.txt 1 110 
+that Week.txt 22 183 185 189 208 446 615 804 948 994 1059 1110 1125 1129 1164 1411 1431 1787 2744 2746 2750 2769 3635 
+24/25 Week.txt 1 3610 
+exactly Week.txt 3 442 474 501 
+ethiopic Week.txt 1 2408 
+japanese Week.txt 2 2236 2246 
+eli Week.txt 2 1446 1569 
+part Week.txt 1 114 
+pawukon Week.txt 1 3234 
+western Week.txt 1 2376 
+fall Week.txt 1 3515 
+evil Week.txt 2 1471 1824 
+kept Week.txt 2 2269 3374 
+eastman Week.txt 2 3362 3396 
+copy Week.txt 1 2409 
+representing Week.txt 1 15 
+than Week.txt 2 2984 3004 
+character Week.txt 1 1395 
+begins Week.txt 2 173 2734 
+distance Week.txt 1 773 
+13 Week.txt 2 3190 3383 
+12 Week.txt 2 3409 3413 
+treatise Week.txt 2 822 858 
+16 Week.txt 3 509 517 630 
+18 Week.txt 2 3204 3331 
+including Week.txt 2 2452 3108 
+second Week.txt 1 1766 
+nations Week.txt 1 1128 
+solomon Week.txt 1 1673 
+full-fledged Week.txt 1 2280 
+aztecs Week.txt 1 3156 
+were Week.txt 9 123 426 692 734 1130 1482 1490 1511 3445 
+taxis Week.txt 1 322 
+10th Week.txt 1 3110 
+russia Week.txt 1 2550 
+gudea Week.txt 1 1345 
+and Week.txt 74 8 38 61 74 152 177 363 416 431 472 672 899 940 991 1014 1056 1102 1139 1204 1211 1306 1391 1465 1487 1496 1517 1591 1637 1699 1705 1800 1849 1874 1878 1894 1937 1987 2027 2148 2207 2361 2373 2388 2456 2476 2499 2595 2636 2647 2708 2713 2738 2819 2900 2972 3029 3047 3064 3081 3117 3157 3181 3209 3256 3266 3298 3312 3348 3431 3448 3490 3512 3529 3652 
+20,871 Week.txt 1 502 
+remained Week.txt 2 2369 3511 
+ran Week.txt 2 2777 2801 
+julian Week.txt 7 481 586 605 626 1966 2107 2387 
+disambiguation Week.txt 2 7 10 
+alongside Week.txt 2 408 703 
+210-day Week.txt 2 3237 3275 
+roughly Week.txt 1 1833 
+13th Week.txt 1 2497 
+incidentally Week.txt 1 3082 
+graffito Week.txt 1 2102 
+simultaneously Week.txt 1 3243 
+have Week.txt 9 832 883 907 1134 1191 2975 3023 3128 3531 
+1929 Week.txt 1 3430 
+anger Week.txt 1 1829 
+seen Week.txt 1 1734 
+apparently Week.txt 1 816 
+any Week.txt 1 1891 
+contents Week.txt 1 271 
+elsewhere Week.txt 1 2718 
+catholic Week.txt 2 1636 2659 
+nights Week.txt 1 354 
+diaries Week.txt 1 2243 
+built Week.txt 1 1356 
+1618 Week.txt 1 511 
+depending Week.txt 2 3573 3622 
+unsuitable Week.txt 1 1474 
+sumerian Week.txt 2 1537 1547 
+also Week.txt 13 880 908 1094 1469 1846 1917 2572 3036 3198 3358 3564 3588 3661 
+321 Week.txt 1 2005 
+which Week.txt 12 490 828 1142 1168 1178 1360 1447 1731 2311 2434 3260 3342 
+schematically Week.txt 1 2845 
+10-day Week.txt 1 3302 
+cnidus Week.txt 1 1231 
+49th Week.txt 1 1835 
+tydzie Week.txt 1 399 
+ukrainian Week.txt 1 395 
+reckon Week.txt 1 1612 
+who Week.txt 2 1355 2179 
+hudibras Week.txt 1 2474 
+most Week.txt 3 105 3164 3557 
+connected Week.txt 2 1343 1439 
+plan Week.txt 2 3363 3373 
+2005w01 Week.txt 1 2800 
+information Week.txt 3 2358 2681 3282 
+inserted Week.txt 1 3454 
+model Week.txt 2 778 879 
+shalt Week.txt 1 1573 
+2 Week.txt 3 2894 3248 3636 
+countries Week.txt 2 2715 2854 
+ten-day Week.txt 1 3073 
+ovid Week.txt 1 1307 
+neighboring Week.txt 1 1127 
+calculated Week.txt 1 582 
+sometimes Week.txt 4 233 2538 2955 3035 
+counted Week.txt 1 2573 
+traditional Week.txt 2 811 3119 
+evangelical Week.txt 1 1638 
+forerunner Week.txt 1 1601 
+points Week.txt 1 1639 
+sunset Week.txt 1 2145 
+enterprise Week.txt 1 3597 
+captivity Week.txt 2 1660 1753 
+fact Week.txt 1 1141 
+precise Week.txt 1 1152 
+planetary Week.txt 7 135 427 776 793 1259 2134 2228 
+copies Week.txt 2 2493 2559 
+particularly Week.txt 1 2656 
+solar Week.txt 1 3201 
+show Week.txt 1 2250 
+german Week.txt 3 897 2454 2662 
+text Week.txt 1 855 
+diffusions Week.txt 1 2191 
+ending Week.txt 1 2648 
+implying Week.txt 1 1736 
+garga Week.txt 1 2309 
+businesses Week.txt 1 2709 
+ides Week.txt 1 2092 
+earth Week.txt 1 1701 
+heavens Week.txt 1 1698 
+thirds Week.txt 1 3092 
+find Week.txt 1 1095 
+fifth Week.txt 1 1564 
+ground Week.txt 1 1407 
+koliadniki Week.txt 1 2483 
+highest Week.txt 1 2827 
+based Week.txt 5 754 1417 2131 2142 2151 
+noah Week.txt 1 1393 
+dividing Week.txt 2 603 3087 
+writes Week.txt 1 1121 
+quem Week.txt 1 2341 
+3 Week.txt 2 2804 3249 
+either Week.txt 1 2834 
+only Week.txt 5 263 935 3568 3616 3641 
+going Week.txt 3 1423 1523 2560 
+26 Week.txt 1 3649 
+8 Week.txt 2 3254 3265 
+circle Week.txt 2 671 686 
+over Week.txt 1 1137 
+dn Week.txt 1 403 
+holy-days Week.txt 1 1468 
+means Week.txt 1 2672 
+luke Week.txt 2 325 1940 
+samuel Week.txt 1 2471 
+lucky Week.txt 1 2512 
+next Week.txt 1 3658 
+cannot Week.txt 2 491 2349 
+ahura Week.txt 1 1598 
+tire Week.txt 1 2912 
+despite Week.txt 1 2382 
+during Week.txt 5 743 1323 1351 1657 2284 
+kong Week.txt 1 2216 
+sedmitsa Week.txt 1 417 
+365 Week.txt 1 3463 
+prima Week.txt 1 2577 
+tigay Week.txt 2 1055 1120 
+h Week.txt 1 1054 
+western-style Week.txt 1 2281 
+comprising Week.txt 2 241 2963 
+european Week.txt 1 2712 
+consisting Week.txt 1 3239 
+sacrifices Week.txt 1 1848 
+twice Week.txt 1 1947 
+common Week.txt 3 287 359 1488 
+characteristic Week.txt 1 814 
+coptic Week.txt 1 2386 
+tablets Week.txt 2 1452 1781 
+crucifixion Week.txt 1 2534 
+cycles Week.txt 2 100 3025 
+where Week.txt 2 1694 2885 
+16th Week.txt 1 2464 
+wrote Week.txt 1 2606 
+seven-day Week.txt 29 328 946 987 996 1012 1112 1187 1340 1365 1414 1433 1651 1676 1740 1776 1798 1813 1924 1976 2045 2172 2252 2266 2291 2328 2365 3007 3438 3654 
+non-astrological Week.txt 1 864 
+europe Week.txt 1 2355 
+art Week.txt 1 28 
+reference Week.txt 2 2166 2325 
+wikn Week.txt 1 289 
+naked Week.txt 1 2034 
+311 Week.txt 1 2421 
+instituted Week.txt 1 1739 
+relative Week.txt 1 520 
+see Week.txt 2 5 3660 
+officials Week.txt 1 1481 
+are Week.txt 16 145 469 500 805 838 978 2195 2446 2480 2869 2891 2906 2987 2994 3059 3269 
+japan Week.txt 3 2233 2258 2264 
+tonalpohualli Week.txt 1 3178 
+calendar Week.txt 34 117 254 312 462 1018 1583 1622 1967 2108 2684 2689 2898 2943 3053 3070 3080 3086 3101 3113 3116 3238 3278 3284 3287 3294 3297 3300 3329 3337 3357 3393 3402 3495 3646 
+ark Week.txt 1 1400 
+seems Week.txt 3 881 1189 1409 
+closer Week.txt 1 2995 
+phases Week.txt 1 958 
+nature Week.txt 1 2515 
+wikipedia Week.txt 1 1 
+worship Week.txt 1 2548 
+written Week.txt 1 823 
+difficulties Week.txt 1 1851 
+various Week.txt 3 1147 1485 2980 
+between Week.txt 6 1098 1870 1928 2970 3026 3429 
+probably Week.txt 4 300 963 1269 1322 
+astrology Week.txt 2 1203 1268 
+numerous Week.txt 1 2403 
+sa-bat Week.txt 1 1538 
+bah Week.txt 2 3293 3336 
+latin Week.txt 6 385 414 713 916 930 2489 
+terms Week.txt 1 382 
+10 Week.txt 3 2985 3241 3257 
+god Week.txt 2 1516 1695 
+tables Week.txt 1 2405 
+attention Week.txt 1 954 
+weak Week.txt 1 1106 
+however Week.txt 4 1050 1232 2113 2622 
+mazda Week.txt 1 1599 
+365.25 Week.txt 1 484 
+gregorian Week.txt 7 116 461 465 506 2389 2688 3494 
+jd Week.txt 2 589 610 
+article Week.txt 2 651 1899 
+come Week.txt 1 1969 
+predates Week.txt 1 1750 
+suggested Week.txt 3 317 993 1109 
+both Week.txt 1 366 
+dates Week.txt 4 585 616 1613 2036 
+last Week.txt 4 1025 2893 2902 2938 
+always Week.txt 1 3367 
+thou Week.txt 1 1574 
+many Week.txt 2 333 2447 
+equal Week.txt 1 88 
+attributed Week.txt 1 2175 
+enma Week.txt 2 1445 1568 
+april Week.txt 1 3320 
+roman Week.txt 10 139 253 311 746 1286 1301 1316 1895 2039 2658 
+became Week.txt 1 922 
+figures Week.txt 1 2590 
+dated Week.txt 2 968 1078 
+javanese Week.txt 1 3115 
+transmission Week.txt 1 1207 
+shashi Week.txt 1 2305 
+frequently-quoted Week.txt 1 1521 
+comes Week.txt 1 278 
+among Week.txt 1 1126 
+presumably Week.txt 1 885 
+2003 Week.txt 1 2782 
+ww Week.txt 2 2905 2934 
+point Week.txt 1 742 
+sky Week.txt 1 790 
+tuesday Week.txt 1 147 
+intercalary Week.txt 1 1020 
+period Week.txt 9 97 1341 1579 1768 1785 2444 2526 2642 3341 
+2nd Week.txt 2 1274 2041 
+offerings Week.txt 1 1510 
+hebdoms Week.txt 1 371 
+52.1775 Week.txt 1 477 
+i.e Week.txt 1 590 
+wider Week.txt 1 303 
+respect Week.txt 1 458 
+throughout Week.txt 2 950 1284 
+along Week.txt 1 1293 
+code Week.txt 4 2876 2883 2914 2925 
+fallen Week.txt 1 2010 
+basis Week.txt 1 2283 
+union Week.txt 1 3477 
+west Week.txt 1 931 
+monk Week.txt 3 2204 2214 2237 
+three Week.txt 3 806 1797 3456 
+been Week.txt 8 564 860 1192 1550 2399 2598 2976 3141 
+describes Week.txt 1 1942 
+numberings Week.txt 1 2868 
+recurring Week.txt 1 1779 
+systems Week.txt 1 795 
+firm Week.txt 1 1406 
+balinese Week.txt 1 3233 
+modern Week.txt 4 937 1604 2525 3277 
+corresponding Week.txt 1 642 
+30-day Week.txt 1 3089 
+eastern Week.txt 1 925 
+concerning Week.txt 1 981 
+listing Week.txt 1 812 
+nameless Week.txt 1 3211 
+c Week.txt 2 825 1629 
+wish Week.txt 1 1495 
+versions Week.txt 3 2458 2479 2501 
+mid-rest Week.txt 1 1539 
+manichaeans Week.txt 1 2194 
+extant Week.txt 2 934 2557 
+evidence Week.txt 3 1333 1643 3135 
+nundinae Week.txt 1 1900 
+those Week.txt 1 269 
+paying Week.txt 1 952 
+east Week.txt 2 1329 2477 
+960 Week.txt 1 75 
+adaptations Week.txt 1 1426 
+unlike Week.txt 1 479 
+tang Week.txt 2 1212 2221 
+decades Week.txt 1 3400 
+socialist Week.txt 1 3407 
+expanded Week.txt 2 234 2956 
+value Week.txt 1 593 
+remaining Week.txt 1 2613 
+will Week.txt 2 205 2766 
+identifiable Week.txt 1 2064 
+while Week.txt 5 1046 1674 1984 2190 3378 
+replaced Week.txt 1 1313 
+viii Week.txt 1 2083 
+holiday Week.txt 1 3561 
+31 Week.txt 1 3532 
+nundinum Week.txt 1 1962 
+solis Week.txt 1 2087 
+alongsidealthough Week.txt 1 111 
+seven Week.txt 17 59 90 340 373 388 421 443 609 1237 1244 1278 1309 1381 1389 1401 1451 3545 
+changed Week.txt 2 3435 3478 
+mittawehha Week.txt 1 898 
+century Week.txt 23 26 972 1082 1225 1275 1291 1326 1529 1626 1664 1760 2042 2185 2220 2241 2300 2317 2344 2467 2498 2505 2565 3111 
+almost Week.txt 1 2379 
+is Week.txt 46 56 84 93 178 232 330 377 436 529 633 764 829 1005 1062 1123 1150 1169 1181 1246 1261 1342 1385 1416 1438 1448 1533 1607 1680 1723 1743 2073 2117 2174 2620 2652 2701 2739 2833 2859 2877 2920 2954 3096 3235 3567 3577 
+thus Week.txt 1 473 
+it Week.txt 14 92 425 932 1122 1145 1179 1404 1408 1742 1831 2838 3389 3576 3625 
+according Week.txt 3 1034 2103 2625 
+itself Week.txt 1 2544 
+gothic Week.txt 2 319 887 
+concerns Week.txt 1 2528 
+in Week.txt 108 104 137 141 194 324 332 356 405 463 504 669 677 711 736 774 787 797 809 818 820 824 846 875 894 924 928 936 966 1069 1131 1140 1146 1201 1208 1222 1250 1272 1349 1367 1519 1557 1561 1587 1614 1631 1661 1678 1685 1690 1702 1712 1757 1890 1901 1948 1972 2003 2099 2158 2167 2181 2186 2254 2256 2263 2270 2295 2302 2314 2330 2371 2375 2440 2463 2470 2549 2554 2558 2567 2601 2657 2661 2665 2669 2686 2710 2755 2830 2841 2852 2870 2947 2979 2996 3044 3049 3061 3065 3098 3124 3152 3179 3183 3193 3308 3333 3465 3506 
+claimed Week.txt 1 1058 
+maya Week.txt 1 3185 
+if Week.txt 2 190 2751 
+sabbaths Week.txt 2 1780 1931 
+different Week.txt 5 848 1195 1515 2860 3242 
+spheres Week.txt 1 777 
+perhaps Week.txt 1 313 
+goddess Week.txt 1 1518 
+nedlja Week.txt 1 409 
+septuagint Week.txt 1 1909 
+s Week.txt 3 1090 1855 2473 
+same Week.txt 2 2588 3370 
+romance Week.txt 1 381 
+conformed Week.txt 1 3598 
+parts Week.txt 2 78 106 
+schematic Week.txt 1 659 
+2005 Week.txt 5 2799 2806 2811 2818 2825 
+units Week.txt 2 240 2962 
+finite Week.txt 1 496 
+yi Week.txt 1 2205 
+constantine Week.txt 1 2002 
+week Week.txt 98 0 6 20 41 55 83 122 159 172 199 218 231 258 261 277 329 365 435 528 573 578 622 648 658 679 691 872 997 1013 1026 1040 1113 1158 1167 1188 1241 1280 1415 1652 1677 1741 1803 1843 1873 1877 1887 1925 1950 1977 1986 1997 2021 2052 2072 2173 2292 2329 2360 2363 2432 2521 2584 2674 2677 2683 2724 2733 2760 2772 2796 2828 2909 2932 2953 3008 3041 3058 3074 3095 3107 3131 3139 3151 3227 3292 3303 3353 3377 3419 3439 3443 3474 3482 3510 3535 3604 3633 3655 
+independent Week.txt 2 1117 1183 
+jeffrey Week.txt 1 1053 
+used Week.txt 11 98 565 1019 1610 1959 2703 2977 3043 3104 3159 3307 
+assigns Week.txt 1 211 
+samhita Week.txt 1 2310 
+abandoned Week.txt 1 3648 
+welsh Week.txt 1 3066 
+conceived Week.txt 1 1271 
+effect Week.txt 1 1971 
+flows Week.txt 1 1180 
+possible Week.txt 1 2323 
+usually Week.txt 1 2989 
+running Week.txt 2 219 3244 
+fourteen-night Week.txt 1 361 
+uses Week.txt 1 4 
+germanica Week.txt 1 739 
+meiji Week.txt 1 2286 
+2004w01 Week.txt 1 2776 
+tradition Week.txt 5 706 751 1119 1421 2423 
+cycle Week.txt 16 249 947 988 1311 1321 1777 1814 1865 1990 2008 2046 2367 2635 3120 3172 3276 
+numbered Week.txt 1 2693 
+fasting Week.txt 1 1946 
+celtic Week.txt 1 3052 
+practiced Week.txt 1 965 
+older Week.txt 1 1315 
+publican Week.txt 1 1939 
+modeled Week.txt 1 909 
+spent Week.txt 1 267 
+rome Week.txt 1 3046 
+english Week.txt 3 142 275 282 
+pacasiddhntik Week.txt 1 2304 
+position Week.txt 1 1132 
+the Week.txt 371 16 19 33 36 40 54 94 108 118 121 126 131 138 143 157 181 203 214 217 229 247 251 256 265 274 280 297 307 310 327 341 346 357 369 374 380 460 480 522 525 543 553 556 570 574 577 591 600 604 621 625 647 654 657 662 665 673 678 685 687 690 696 709 717 720 723 726 731 744 749 758 761 766 770 775 788 792 834 839 843 851 854 868 871 888 910 915 919 929 957 960 970 975 982 985 995 1006 1011 1016 1024 1031 1038 1044 1048 1060 1072 1076 1080 1085 1096 1099 1103 1111 1155 1162 1165 1175 1186 1198 1214 1220 1223 1233 1236 1240 1243 1251 1255 1273 1277 1285 1289 1297 1308 1314 1319 1324 1331 1352 1368 1372 1377 1383 1392 1399 1412 1419 1432 1441 1455 1458 1461 1499 1526 1530 1536 1543 1546 1562 1567 1581 1585 1589 1595 1600 1608 1615 1620 1624 1655 1658 1662 1667 1670 1675 1686 1691 1697 1700 1708 1713 1717 1720 1727 1747 1751 1755 1758 1765 1775 1783 1788 1811 1815 1819 1826 1834 1838 1862 1868 1880 1885 1905 1908 1910 1926 1935 1938 1943 1949 1955 1960 1965 1975 1985 1988 1994 1996 2006 2014 2017 2020 2023 2025 2028 2033 2038 2043 2048 2051 2058 2062 2071 2091 2097 2105 2120 2129 2133 2144 2153 2163 2182 2187 2193 2198 2201 2208 2218 2223 2227 2235 2245 2251 2265 2285 2290 2298 2303 2308 2315 2334 2345 2364 2385 2393 2417 2428 2431 2441 2453 2457 2496 2503 2511 2520 2524 2533 2563 2568 2575 2579 2583 2587 2592 2607 2611 2614 2618 2623 2627 2631 2634 2639 2663 2722 2742 2764 2821 2826 2842 2856 2862 2872 2886 2892 2897 2901 2907 2911 2917 2931 2937 2942 2951 2999 3002 3006 3015 3027 3030 3050 3067 3077 3083 3099 3109 3114 3118 3126 3144 3147 3150 3155 3160 3163 3200 3222 3232 3261 3274 3291 3323 3327 3335 3354 3361 3369 3391 3395 3406 3417 3423 3427 3433 3437 3475 3493 3501 3507 3517 3534 3537 3542 3583 3603 3606 3632 3645 3653 3657 
+soviet Week.txt 4 3299 3401 3425 3476 
+buddhist Week.txt 2 2203 2213 
+latest Week.txt 2 976 1086 
+pompeiian Week.txt 1 2101 
+cameo Week.txt 1 13 
+traditions Week.txt 2 2508 3021 
+just Week.txt 1 515 
+pater Week.txt 1 2461 
+being Week.txt 2 800 998 
+gods Week.txt 1 728 
+30th Week.txt 2 3491 3543 
+numbering Week.txt 8 163 708 867 2570 2678 2700 2728 2857 
+rest Week.txt 8 102 1068 1725 3499 3519 3539 3592 3608 
+calendrical Week.txt 1 2282 
+sources Week.txt 1 1903 
+intervals Week.txt 1 2982 
+greco-roman Week.txt 1 727 
+sabbatical Week.txt 2 1157 1166 
+world Week.txt 1 109 
+polish Week.txt 1 398 
+momenta Week.txt 1 76 
+october Week.txt 2 3317 3528 
+speed Week.txt 1 784 
+variants Week.txt 1 2449 
+succeeding Week.txt 1 798 
+weekly Week.txt 2 1930 2366 
+fujiwara Week.txt 1 2248 
+adding Week.txt 1 597 
+icelandic Week.txt 2 938 3112 
+christendom Week.txt 1 2372 
+tablet Week.txt 1 1565 
+had Week.txt 4 301 1968 2009 3071 
+except Week.txt 1 448 
+20-day Week.txt 1 3215 
+friedrich Week.txt 2 989 1853 
+book Week.txt 3 1633 1687 1714 
+adoption Week.txt 2 308 2157 
+4 Week.txt 5 2785 2880 2922 3250 3264 
+has Week.txt 8 390 423 563 859 1549 2368 2596 3140 
+easter Week.txt 3 2362 2396 2418 
+loan Week.txt 1 2487 
+varying Week.txt 1 3033 
+1:8 Week.txt 1 326 
+mocked Week.txt 1 2469 
+march Week.txt 7 510 518 631 3524 3586 3614 3639 
+eudoxus Week.txt 1 1229 
+showing Week.txt 1 32 
+calendars Week.txt 7 1606 2390 2949 3010 3012 3162 3168 
+germanic Week.txt 4 288 298 348 750 
+early Week.txt 5 1527 1646 2260 2412 2442 
+matters Week.txt 1 1148 
+260 Week.txt 1 3174 
+five Week.txt 6 2029 3210 3451 3502 3617 3642 
+integer Week.txt 1 592 
+apart Week.txt 1 808 
+unique Week.txt 1 1171 
+mod Week.txt 1 637 
+60 Week.txt 2 2077 2111 
+like Week.txt 2 516 1394 
+lost Week.txt 2 861 1563 
+identifying Week.txt 1 552 
+schools Week.txt 1 2707 
+follows Week.txt 2 1584 2851 
+bracelet Week.txt 1 14 
+53 Week.txt 2 2837 2840 
+52 Week.txt 3 475 487 2835 
+yields Week.txt 2 614 640 
+t Week.txt 1 401 
+night Week.txt 1 789 
+periods Week.txt 1 3205 
+secunda Week.txt 1 918 
+divinations Week.txt 1 2425 
+italian Week.txt 1 12 
+portuguese Week.txt 1 941 
+seven-room Week.txt 1 1358 
+old Week.txt 5 281 347 895 900 903 
+jews Week.txt 2 1656 1756 
+classical Week.txt 5 127 666 697 732 767 
+sequence Week.txt 1 674 
+czech Week.txt 1 396 
+feast Week.txt 1 2436 
+church Week.txt 2 901 904 
+some Week.txt 6 406 741 1070 2711 2853 3343 
+back Week.txt 4 1524 2056 2401 2561 
+wwyy Week.txt 1 2926 
+daylight Week.txt 1 450 
+7-day Week.txt 1 3376 
+election Week.txt 1 3420 
+28th Week.txt 2 1466 1500 
+table Week.txt 1 2414 
+duration Week.txt 1 432 
+empire Week.txt 4 747 1200 1287 1617 
+translates Week.txt 1 2849 
+monday Week.txt 7 146 176 225 913 2737 2779 2803 
+for Week.txt 24 2 99 165 224 623 695 802 1380 1475 1542 1982 2272 2378 2427 2694 2704 2730 2770 3310 3330 3399 3422 3556 3562 
+fourth Week.txt 1 1718 
+literally Week.txt 1 2668 
+noon Week.txt 1 595 
+though Week.txt 1 2855 
+recorded Week.txt 1 1449 
+supreme Week.txt 1 3424 
+moon Week.txt 6 526 961 1033 1457 1545 2026 
+liturgy Week.txt 3 1635 2603 2660 
+leap Week.txt 4 455 2682 3579 3628 
+rest-day Week.txt 1 1505 
+connecting Week.txt 1 1858 
+lunar Week.txt 3 1864 1876 1886 
+innovation Week.txt 2 1248 1265 
+fol Week.txt 1 48 
+sapattu Week.txt 1 1554 
+epic Week.txt 2 1374 1444 
+temple Week.txt 3 1359 1671 1767 
+demonstrated Week.txt 1 2391 
+refer Week.txt 3 236 1920 2958 
+be Week.txt 6 492 580 1733 2054 2350 2692 
+slavic Week.txt 2 389 2478 
+object Week.txt 1 2546 
+tdn Week.txt 1 393 
+bc Week.txt 9 973 1083 1226 1276 1627 1665 1761 1974 2318 
+seconds Week.txt 1 456 
+sixth Week.txt 2 3414 3484 
+serbian Week.txt 1 2500 
+pentateuch Week.txt 1 1077 
+expansion Week.txt 1 498 
+idus Week.txt 1 2084 
+notably Week.txt 1 1227 
+bu Week.txt 1 2215 
+market Week.txt 3 3122 3130 3230 
+prohibited Week.txt 2 1476 1483 
+coexisted Week.txt 1 1991 
+lasts Week.txt 1 1379 
+eye Week.txt 1 2035 
+relating Week.txt 1 1588 
+by Week.txt 24 21 318 335 353 494 608 772 781 1197 1219 1288 1300 1623 1904 1915 1993 2001 2119 2234 2297 2392 2706 2916 2936 
+comparison Week.txt 1 660 
+hidden Week.txt 1 3669 
+actual Week.txt 1 852 
+justin Week.txt 1 2604 
+package Week.txt 1 2874 
+of Week.txt 160 18 35 39 50 71 79 101 107 120 134 202 216 250 309 350 413 441 483 524 531 537 545 555 559 569 572 576 620 629 646 653 656 661 664 675 689 707 719 752 760 769 785 836 856 866 870 890 912 959 984 1002 1010 1027 1067 1071 1075 1230 1235 1239 1253 1258 1266 1318 1334 1338 1347 1371 1375 1396 1436 1508 1566 1594 1602 1644 1649 1669 1672 1688 1715 1719 1754 1778 1790 1804 1828 1837 1844 1882 1907 1934 2012 2016 2019 2047 2050 2060 2070 2093 2096 2122 2125 2128 2200 2217 2226 2244 2395 2410 2419 2424 2430 2450 2459 2488 2516 2519 2535 2547 2582 2616 2629 2633 2643 2699 2763 2774 2798 2824 2896 2930 2941 2969 3032 3055 3121 3132 3136 3146 3149 3166 3173 3189 3206 3224 3240 3246 3259 3263 3290 3382 3394 3405 3416 3426 3457 3462 3492 3541 3585 
+completing Week.txt 1 1841 
+quarter-hours Week.txt 1 67 
+discussed Week.txt 1 817 
+sumer Week.txt 1 1350 
+calendae Week.txt 1 2490 
+pre-christian Week.txt 1 3051 
+yy Week.txt 2 2890 2945 
+eight Week.txt 3 1805 2644 2670 
+introduced Week.txt 1 1249 
+or Week.txt 22 255 259 454 476 486 535 779 1555 1792 1806 2210 2319 2513 2578 2836 3001 3019 3558 3570 3581 3618 3630 
+72 Week.txt 1 3446 
+rendered Week.txt 2 735 1553 
+letters Week.txt 2 547 548 
+final Week.txt 1 1802 
+daishi Week.txt 1 2239 
+into Week.txt 10 58 64 1970 1979 2523 3091 3186 3203 3218 3273 
+within Week.txt 3 167 684 3455 
+visible Week.txt 1 2031 
+augustus Week.txt 2 1254 2061 
+six-day Week.txt 3 3094 3418 3481 
+because Week.txt 3 1830 2788 2812 
+references Week.txt 3 1295 2336 3663 
+primarily Week.txt 1 2529 
+speculated Week.txt 1 1430 
+cognate Week.txt 1 378 
+puncta Week.txt 1 66 
+tzolkin Week.txt 1 3182 
+technically Week.txt 1 447 
+jing Week.txt 1 2206 
+additional Week.txt 2 3450 3503 
+removing Week.txt 1 1047 
+strictly Week.txt 1 113 
+there Week.txt 6 468 499 977 1149 2445 3444 
+question Week.txt 1 835 
+long Week.txt 5 196 2757 3547 3621 3644 
+why Week.txt 1 837 
+yyww Week.txt 1 2884 
+start Week.txt 2 206 2767 
+dcade Week.txt 1 3305 
+resulted Week.txt 1 796 
+cultures Week.txt 1 3103 
+was Week.txt 31 512 815 873 962 1041 1217 1281 1501 1832 1998 2112 2139 2230 2268 2293 2543 2791 2815 2839 3042 3228 3306 3390 3496 3544 3552 3587 3615 3626 3640 3647 
+alexandrian Week.txt 1 2413 
+creation Week.txt 4 1185 1434 1443 1683 
+complete Week.txt 1 2067 
+jewish Week.txt 4 1039 1298 1902 3020 
+forming Week.txt 1 680 
+94.637 Week.txt 1 536 
+but Week.txt 5 927 1963 1992 2716 3521 
+plutarchs Week.txt 1 857 
+survived Week.txt 1 2522 
+computistic Week.txt 1 2404 
+with Week.txt 23 180 379 457 715 730 1030 1294 1363 1847 1852 1861 2022 2068 2197 2352 2416 2491 2510 2532 2741 2927 3385 3471 
+lunation Week.txt 4 534 541 1004 1789 
+he Week.txt 3 1361 2312 2332 
+three-day Week.txt 1 3138 
+explaining Week.txt 1 1879 
+made Week.txt 2 1512 3589 
+arranged Week.txt 2 668 2426 
+places Week.txt 3 807 2313 2981 
+dominical Week.txt 1 546 
+whether Week.txt 3 1746 3575 3624 
+ut Week.txt 1 596 
+official Week.txt 1 3392 
+us Week.txt 1 2918 
+until Week.txt 1 2275 
+variant Week.txt 1 2225 
+below Week.txt 1 3412 
+loan-translation Week.txt 1 412 
+today Week.txt 1 2676 
+stages Week.txt 1 1196 
+average Week.txt 2 533 539 
+seneca Week.txt 1 1305 
+his Week.txt 1 1632 
+jesuss Week.txt 1 1932 
+associated Week.txt 5 179 729 2509 2531 2740 
+ad Week.txt 7 826 1292 2004 2076 2320 2340 2420 
+interrupted Week.txt 1 3270 
+inclusive Week.txt 1 1809 
+defined Week.txt 1 437 
+certain Week.txt 3 1425 2435 2517 
+totaling Week.txt 1 3459 
+received Week.txt 1 1218 
+influence Week.txt 2 1136 1144 
+bulgarian Week.txt 1 2492 
+an Week.txt 24 11 72 80 439 532 538 704 862 1116 1135 1182 1247 1263 1335 1645 1871 1922 2407 2411 2545 2654 3039 3449 3559 
+as Week.txt 38 246 316 355 418 424 438 722 892 1064 1170 1174 1304 1467 1503 1552 1735 1821 1888 1945 2079 2082 2259 2261 2321 2482 2540 2574 2591 2850 2992 3075 3177 3195 3345 3351 3360 3522 3565 
+lived Week.txt 1 2180 
+at Week.txt 10 449 594 740 974 1084 1194 1497 1762 2586 2865 
+planets Week.txt 9 128 667 698 733 771 803 844 1245 2030 
+babylonian Week.txt 12 1017 1091 1104 1215 1420 1442 1558 1586 1621 1659 1752 1863 
+1802 Week.txt 1 3321 
+walters Week.txt 1 27 
+zoroastrian Week.txt 2 1582 1605 
+compared Week.txt 1 1534 
+holy Week.txt 1 2359 
+national Week.txt 2 3452 3504 
+no Week.txt 2 953 1151 
+whereas Week.txt 1 2795 
+45 Week.txt 1 1973 
+flood Week.txt 1 1369 
+other Week.txt 5 3 238 1592 2948 2960 
+5 Week.txt 2 641 3251 
+sunrise Week.txt 1 2154 
+astrological Week.txt 4 132 1256 1336 2273 
+out Week.txt 2 1387 2011 
+conclusion Week.txt 1 1163 
+interpretatio Week.txt 1 738 
+two-digit Week.txt 1 2908 
+terminus Week.txt 2 2339 2346 
+calculating Week.txt 1 635 
+dies Week.txt 1 2086 
+preceding Week.txt 1 1839 
+narrative Week.txt 1 1749 
+june Week.txt 1 3650 
+includes Week.txt 2 156 2721 
+brief Week.txt 1 3469 
+meaning Week.txt 2 304 1473 
+important Week.txt 1 3165 
+additionally Week.txt 1 1817 
+emmeram Week.txt 1 52 
+weekend Week.txt 2 197 2758 
+statesman Week.txt 1 2247 
+lagash Week.txt 1 1348 
+prevalent Week.txt 1 923 
+interval Week.txt 2 440 1927 
+rule Week.txt 1 1771 
+having Week.txt 1 2398 
+equivalently Week.txt 1 780 
+2000 Week.txt 1 2306 
+came Week.txt 2 1918 1978 
+2004 Week.txt 4 2775 2787 2794 2844 
+time Week.txt 12 86 96 239 352 428 452 1252 1906 1995 2589 2961 3024 
+international Week.txt 2 3295 3355 
+starting Week.txt 1 2646 
+original Week.txt 1 1264 

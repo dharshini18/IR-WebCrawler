@@ -1,0 +1,445 @@
+suns Apsis.txt 3 895 919 1016 
+cynthia Apsis.txt 1 602 
+focus Apsis.txt 3 189 208 263 
+earthmoon Apsis.txt 3 255 258 967 
+spacecraft Apsis.txt 2 313 329 
+centers Apsis.txt 3 299 920 1020 
+1.016 Apsis.txt 1 925 
+whose Apsis.txt 1 494 
+referring Apsis.txt 2 538 615 
+prefixes Apsis.txt 1 100 
+to Apsis.txt 29 16 116 119 185 226 283 293 321 323 423 438 539 582 589 616 668 672 715 726 782 826 854 946 952 959 1041 1106 1194 1234 
+program Apsis.txt 1 595 
+elliptic Apsis.txt 2 48 87 
+stable Apsis.txt 1 973 
+orbited Apsis.txt 1 123 
+very Apsis.txt 2 560 801 
+perihelion Apsis.txt 12 686 809 864 876 940 1028 1039 1084 1131 1152 1196 1244 
+categories Apsis.txt 2 1266 1268 
+large Apsis.txt 1 45 
+p Apsis.txt 1 60 
+semi-major Apsis.txt 1 456 
+galacticon Apsis.txt 1 528 
+aphelions Apsis.txt 1 1117 
+past Apsis.txt 1 1120 
+152,097,700 Apsis.txt 1 929 
+0.983 Apsis.txt 1 883 
+sun Apsis.txt 8 542 701 747 977 1149 1173 1184 1214 
+selected Apsis.txt 1 1176 
+near Apsis.txt 1 105 
+expressed Apsis.txt 1 708 
+91,402,500 Apsis.txt 1 891 
+above Apsis.txt 1 420 
+movement Apsis.txt 1 833 
+body Apsis.txt 8 34 92 174 307 336 436 489 1201 
+dwarf Apsis.txt 2 1145 1166 
+degree Apsis.txt 1 1105 
+respectively Apsis.txt 2 548 1202 
+here Apsis.txt 1 5 
+hours Apsis.txt 1 1051 
+apoapsis Apsis.txt 2 42 131 
+objects Apsis.txt 4 72 522 685 791 
+extreme Apsis.txt 1 68 
+technical Apsis.txt 1 512 
+larger Apsis.txt 2 91 177 
+commonly Apsis.txt 3 319 575 1034 
+diameter Apsis.txt 1 147 
+named Apsis.txt 1 97 
+via Apsis.txt 1 77 
+family Apsis.txt 1 315 
+apo Apsis.txt 2 109 671 
+rarely Apsis.txt 1 561 
+bothros Apsis.txt 1 655 
+from Apsis.txt 21 79 102 110 114 236 280 330 418 625 640 653 683 762 842 893 949 993 1002 1147 1171 1182 
+peri Apsis.txt 3 101 103 669 
+two Apsis.txt 7 44 95 167 405 448 464 479 
+pericenter Apsis.txt 4 355 377 501 1071 
+perihelions Apsis.txt 1 1115 
+taken Apsis.txt 1 184 
+historically Apsis.txt 1 229 
+keplerian Apsis.txt 1 347 
+eccentricity Apsis.txt 2 770 1209 
+actual Apsis.txt 1 1011 
+hole Apsis.txt 1 657 
+word Apsis.txt 1 75 
+f Apsis.txt 1 351 
+this Apsis.txt 11 137 161 188 194 718 850 954 1005 1078 1096 1237 
+1998 Apsis.txt 1 637 
+mi Apsis.txt 3 892 932 992 
+longitude Apsis.txt 3 1062 1068 1082 
+foci Apsis.txt 1 168 
+can Apsis.txt 1 943 
+following Apsis.txt 4 664 1128 1136 1156 
+root Apsis.txt 1 628 
+example Apsis.txt 1 38 
+nearest Apsis.txt 2 27 678 
+links Apsis.txt 1 1264 
+december Apsis.txt 1 873 
+keplers Apsis.txt 1 387 
+confused Apsis.txt 1 18 
+0.7 Apsis.txt 1 1216 
+high Apsis.txt 1 1207 
+apocynthion Apsis.txt 1 600 
+22,000 Apsis.txt 1 825 
+conversely Apsis.txt 1 442 
+axis Apsis.txt 5 141 457 472 757 859 
+respective Apsis.txt 1 217 
+turn Apsis.txt 1 1023 
+rather Apsis.txt 1 1053 
+tilt Apsis.txt 1 754 
+astronomers Apsis.txt 1 1033 
+occasionally Apsis.txt 1 553 
+elliptical Apsis.txt 2 203 724 
+instead Apsis.txt 1 585 
+circular Apsis.txt 1 492 
+express Apsis.txt 1 1035 
+galactic Apsis.txt 1 546 
+may Apsis.txt 1 182 
+after Apsis.txt 2 871 908 
+orbits Apsis.txt 4 49 88 204 270 
+plane Apsis.txt 1 764 
+milankovitch Apsis.txt 1 797 
+a Apsis.txt 20 90 117 124 149 338 410 458 488 491 578 626 634 712 750 800 831 972 1030 1100 1104 
+short Apsis.txt 1 935 
+lines Apsis.txt 1 218 
+correspond Apsis.txt 1 1193 
+jove Apsis.txt 1 551 
+greek Apsis.txt 6 57 65 80 608 627 654 
+green Apsis.txt 1 1245 
+words Apsis.txt 1 500 
+apse Apsis.txt 2 20 85 
+closely Apsis.txt 1 852 
+astronomical Apsis.txt 2 535 885 
+vary Apsis.txt 2 779 944 
+years Apsis.txt 3 568 828 1123 
+through Apsis.txt 1 815 
+during Apsis.txt 1 592 
+its Apsis.txt 4 36 145 284 429 
+before Apsis.txt 1 638 
+outer Apsis.txt 1 1256 
+masses Apsis.txt 1 228 
+29 Apsis.txt 1 884 
+forms Apsis.txt 1 529 
+systems Apsis.txt 2 211 232 
+hidden Apsis.txt 1 1267 
+apogee Apsis.txt 1 10 
+them Apsis.txt 1 367 
+resolve Apsis.txt 1 1235 
+effects Apsis.txt 1 785 
+they Apsis.txt 1 819 
+not Apsis.txt 4 15 193 776 1045 
+kilometres Apsis.txt 1 990 
+term Apsis.txt 3 584 623 936 
+name Apsis.txt 1 605 
+edit Apsis.txt 8 346 498 662 692 1134 1260 1262 1265 
+january Apsis.txt 1 867 
+sufficiently Apsis.txt 1 176 
+each Apsis.txt 3 205 272 1191 
+two-body Apsis.txt 1 150 
+mean Apsis.txt 3 445 461 476 
+energy Apsis.txt 1 403 
+displacement Apsis.txt 1 1059 
+related Apsis.txt 2 515 853 
+literature Apsis.txt 2 536 646 
+year Apsis.txt 3 951 1032 1094 
+since Apsis.txt 1 717 
+angular Apsis.txt 1 397 
+plural Apsis.txt 1 58 
+red Apsis.txt 2 364 1249 
+shows Apsis.txt 2 1138 1158 
+million Apsis.txt 2 1217 1229 
+standard Apsis.txt 1 340 
+ecliptic Apsis.txt 1 767 
+apocenter Apsis.txt 3 361 379 503 
+could Apsis.txt 1 996 
+282.895 Apsis.txt 1 1091 
+days Apsis.txt 4 870 907 948 1049 
+times Apsis.txt 1 1112 
+motion Apsis.txt 1 391 
+thing Apsis.txt 1 121 
+length Apsis.txt 3 223 453 468 
+apsis Apsis.txt 4 0 56 290 705 
+hence Apsis.txt 1 1203 
+moving Apsis.txt 1 970 
+speeds Apsis.txt 1 481 
+major Apsis.txt 1 140 
+suffix Apsis.txt 1 550 
+primary Apsis.txt 1 430 
+reaches Apsis.txt 2 863 899 
+one Apsis.txt 5 164 173 207 821 950 
+283.067 Apsis.txt 1 1108 
+specifically Apsis.txt 1 587 
+another Apsis.txt 1 953 
+6999983290000000000 Apsis.txt 1 882 
+between Apsis.txt 5 297 366 425 915 1014 
+earths Apsis.txt 7 269 281 769 878 917 982 1019 
+given Apsis.txt 2 411 1031 
+semi-minor Apsis.txt 1 471 
+indicate Apsis.txt 1 25 
+system Apsis.txt 5 151 158 256 795 1181 
+approximately Apsis.txt 2 868 905 
+heights Apsis.txt 1 419 
+solstice Apsis.txt 2 874 911 
+their Apsis.txt 4 51 216 227 1151 
+however Apsis.txt 3 190 242 308 
+2 Apsis.txt 1 947 
+listed Apsis.txt 1 1125 
+too Apsis.txt 1 1232 
+shifted Apsis.txt 1 998 
+stars Apsis.txt 2 543 839 
+that Apsis.txt 2 415 844 
+july Apsis.txt 1 904 
+than Apsis.txt 1 178 
+distance Apsis.txt 2 295 914 
+b Apsis.txt 1 473 
+determines Apsis.txt 1 719 
+14 Apsis.txt 2 869 906 
+accordance Apsis.txt 1 385 
+halleys Apsis.txt 1 1169 
+limiting Apsis.txt 2 449 480 
+inversely Apsis.txt 1 224 
+future Apsis.txt 1 1122 
+were Apsis.txt 2 234 612 
+result Apsis.txt 1 751 
+and Apsis.txt 42 12 28 41 81 106 130 268 305 362 378 399 428 441 502 527 544 599 670 679 687 771 789 810 818 918 941 1004 1017 1050 1085 1111 1116 1121 1132 1144 1153 1168 1187 1197 1219 1247 1255 
+disambiguation Apsis.txt 2 11 14 
+seen Apsis.txt 2 506 841 
+any Apsis.txt 1 1000 
+contents Apsis.txt 1 343 
+conversion Apsis.txt 1 417 
+angle Apsis.txt 2 744 1056 
+note Apsis.txt 1 414 
+also Apsis.txt 2 1066 1259 
+which Apsis.txt 4 483 748 984 1021 
+added Apsis.txt 3 115 440 667 
+chart Apsis.txt 1 1157 
+75 Apsis.txt 1 276 
+71 Apsis.txt 1 926 
+formulae Apsis.txt 2 345 374 
+seasons Apsis.txt 3 716 733 817 
+measured Apsis.txt 3 235 296 761 
+so-called Apsis.txt 1 1061 
+average Apsis.txt 1 987 
+artemis Apsis.txt 1 611 
+points Apsis.txt 2 30 1251 
+dot Apsis.txt 2 1246 1250 
+laws Apsis.txt 1 388 
+planetary Apsis.txt 2 390 1130 
+show Apsis.txt 1 1242 
+earth Apsis.txt 10 241 541 591 691 698 760 843 862 898 1077 
+redirect Apsis.txt 1 4 
+landis Apsis.txt 1 635 
+based Apsis.txt 1 392 
+black Apsis.txt 1 620 
+geometric Apsis.txt 2 460 475 
+perigee Apsis.txt 1 13 
+geocentric Apsis.txt 1 231 
+apsidal Apsis.txt 1 848 
+preferred Apsis.txt 1 510 
+gee Apsis.txt 2 524 572 
+timing Apsis.txt 3 1008 1026 1037 
+referencing Apsis.txt 1 601 
+saturn Apsis.txt 1 570 
+helion Apsis.txt 1 525 
+regarding Apsis.txt 1 619 
+precession Apsis.txt 2 849 856 
+bar Apsis.txt 1 1192 
+h Apsis.txt 1 357 
+summary Apsis.txt 1 661 
+common Apsis.txt 1 262 
+cycles Apsis.txt 1 798 
+where Apsis.txt 1 413 
+bars Apsis.txt 1 1205 
+equinox Apsis.txt 1 1044 
+farthest Apsis.txt 2 29 680 
+reference Apsis.txt 2 118 341 
+km Apsis.txt 4 890 930 1218 1230 
+relative Apsis.txt 2 714 1040 
+see Apsis.txt 3 9 796 1258 
+radius Apsis.txt 5 342 432 495 1211 1221 
+are Apsis.txt 11 94 200 318 407 504 509 517 530 666 775 1124 
+away Apsis.txt 1 113 
+currently Apsis.txt 3 860 901 922 
+wikipedia Apsis.txt 1 1 
+various Apsis.txt 1 514 
+moons Apsis.txt 1 267 
+orbiting Apsis.txt 2 33 306 
+progress Apsis.txt 1 814 
+pericynthion Apsis.txt 1 598 
+approach Apsis.txt 2 581 1013 
+latin Apsis.txt 2 78 641 
+terms Apsis.txt 7 3 317 516 597 675 710 1047 
+saturnium Apsis.txt 1 558 
+physicist Apsis.txt 1 632 
+aspis Apsis.txt 1 22 
+both Apsis.txt 3 198 265 1231 
+dates Apsis.txt 3 806 938 1110 
+last Apsis.txt 1 566 
+2,900 Apsis.txt 1 991 
+annual Apsis.txt 1 739 
+s Apsis.txt 1 61 
+comet Apsis.txt 1 1170 
+contribution Apsis.txt 1 721 
+comes Apsis.txt 1 76 
+point Apsis.txt 3 69 350 356 
+appeared Apsis.txt 1 642 
+table Apsis.txt 2 1129 1137 
+due Apsis.txt 2 781 958 
+been Apsis.txt 1 562 
+geoffrey Apsis.txt 1 633 
+slowly Apsis.txt 1 780 
+direction Apsis.txt 1 1001 
+corresponding Apsis.txt 1 832 
+apsides Apsis.txt 7 24 59 96 136 220 233 372 
+periapsis Apsis.txt 3 40 129 1065 
+quantities Apsis.txt 1 406 
+goddess Apsis.txt 1 610 
+external Apsis.txt 1 1263 
+astron Apsis.txt 1 526 
+peri/apomelasma Apsis.txt 1 624 
+denote Apsis.txt 1 1206 
+case Apsis.txt 3 197 245 311 
+these Apsis.txt 3 373 404 684 
+straight Apsis.txt 1 125 
+2010 Apsis.txt 1 1095 
+while Apsis.txt 3 383 557 965 
+vernal Apsis.txt 1 1043 
+is Apsis.txt 31 66 82 132 138 175 195 274 352 358 368 451 466 482 484 496 552 574 706 734 749 830 845 851 880 921 957 969 985 1079 1215 1227 
+it Apsis.txt 3 181 1003 1088 
+surface Apsis.txt 3 285 332 422 
+characterize Apsis.txt 1 375 
+in Apsis.txt 27 47 70 201 230 243 286 309 384 490 511 533 564 636 643 647 709 792 824 865 902 933 999 1022 1029 1046 1086 1126 
+orbital Apsis.txt 7 287 325 348 681 773 1058 1208 
+generic Apsis.txt 1 579 
+make Apsis.txt 1 820 
+largest Apsis.txt 1 1225 
+units Apsis.txt 1 886 
+several Apsis.txt 2 2 1119 
+used Apsis.txt 8 320 518 532 554 563 576 613 630 
+closest Apsis.txt 2 580 1012 
+26,000 Apsis.txt 1 827 
+edges Apsis.txt 1 1189 
+uses Apsis.txt 1 8 
+frequently Apsis.txt 1 531 
+cycle Apsis.txt 2 740 823 
+center Apsis.txt 10 52 153 212 238 250 282 547 879 896 983 
+i Apsis.txt 1 63 
+well Apsis.txt 1 650 
+aphelion Apsis.txt 9 688 813 900 913 942 1133 1154 1198 1248 
+greatest Apsis.txt 1 146 
+position Apsis.txt 2 836 979 
+the Apsis.txt 158 23 26 74 99 120 128 133 139 143 152 157 166 170 179 196 210 237 240 244 247 249 254 261 266 278 289 294 298 303 310 314 324 328 331 334 354 360 363 369 376 394 400 421 431 434 443 447 452 455 459 463 467 470 474 478 485 499 523 534 540 545 549 565 571 590 593 596 607 617 622 644 663 674 677 690 694 697 700 702 720 723 729 732 738 742 746 753 756 759 763 766 768 783 787 793 805 808 812 816 835 838 847 855 858 861 872 877 894 897 909 912 916 934 937 960 963 966 976 978 981 994 1007 1010 1015 1018 1025 1036 1042 1060 1064 1070 1073 1076 1081 1093 1109 1114 1127 1135 1139 1142 1148 1155 1159 1164 1172 1179 1183 1185 1195 1200 1210 1213 1220 1224 1239 1243 1253 
+bodies Apsis.txt 3 46 199 1177 
+left Apsis.txt 1 1186 
+seasonal Apsis.txt 1 727 
+distances Apsis.txt 7 424 450 465 682 1140 1162 1174 
+being Apsis.txt 2 122 221 
+alternative Apsis.txt 1 604 
+speed Apsis.txt 1 486 
+had Apsis.txt 1 1097 
+usage Apsis.txt 1 513 
+has Apsis.txt 2 437 559 
+momentum Apsis.txt 1 398 
+elevation Apsis.txt 1 743 
+around Apsis.txt 4 35 50 699 975 
+early Apsis.txt 2 866 903 
+94,509,100 Apsis.txt 1 931 
+advanced Apsis.txt 1 1098 
+d Apsis.txt 1 62 
+50 Apsis.txt 1 567 
+0.07 Apsis.txt 1 1228 
+7011152097651119397 Apsis.txt 1 924 
+4,700 Apsis.txt 1 989 
+terminology Apsis.txt 2 497 660 
+mathematical Apsis.txt 1 344 
+right Apsis.txt 1 1188 
+cognate Apsis.txt 1 83 
+often Apsis.txt 2 505 707 
+jupiter Apsis.txt 2 556 1223 
+barycenter Apsis.txt 3 259 968 995 
+images Apsis.txt 1 1240 
+small Apsis.txt 2 1101 1233 
+scale Apsis.txt 1 804 
+for Apsis.txt 13 6 86 148 409 416 519 555 569 606 676 693 1072 1118 
+affects Apsis.txt 1 1006 
+moon Apsis.txt 4 248 609 618 964 
+connecting Apsis.txt 1 127 
+assuming Apsis.txt 1 337 
+refer Apsis.txt 1 322 
+be Apsis.txt 5 17 183 186 439 997 
+scientific Apsis.txt 1 645 
+host Apsis.txt 1 37 
+although Apsis.txt 1 507 
+refers Apsis.txt 1 292 
+by Apsis.txt 4 631 737 1092 1099 
+on Apsis.txt 6 160 393 799 971 986 1236 
+about Apsis.txt 8 89 271 275 881 923 988 1090 1107 
+central Apsis.txt 3 304 335 435 
+of Apsis.txt 79 31 39 53 135 142 154 156 165 169 213 219 222 239 246 251 253 264 277 300 302 312 316 327 333 371 380 389 396 402 433 446 454 462 469 477 487 586 689 696 704 711 722 731 741 745 752 755 758 765 786 807 811 834 837 857 939 962 980 1009 1027 1038 1048 1057 1063 1069 1075 1083 1103 1113 1141 1161 1163 1175 1178 1190 1199 1212 1222 1252 
+range Apsis.txt 1 1160 
+suffixes Apsis.txt 1 665 
+or Apsis.txt 7 21 108 192 257 658 888 928 
+significant Apsis.txt 1 955 
+presence Apsis.txt 1 961 
+image Apsis.txt 1 1238 
+lies Apsis.txt 1 159 
+perturbing Apsis.txt 1 784 
+references Apsis.txt 1 1261 
+primarily Apsis.txt 1 735 
+proportional Apsis.txt 1 225 
+peri/aponigricon Apsis.txt 1 639 
+ellipse Apsis.txt 2 144 171 
+technically Apsis.txt 1 291 
+altitude Apsis.txt 1 326 
+there Apsis.txt 2 93 829 
+long Apsis.txt 2 802 1204 
+periapsis/apoapsis Apsis.txt 1 508 
+conservation Apsis.txt 2 395 401 
+inner Apsis.txt 1 1254 
+way Apsis.txt 1 279 
+was Apsis.txt 2 629 1089 
+peri/apobothron Apsis.txt 1 652 
+complete Apsis.txt 1 822 
+form Apsis.txt 2 573 673 
+but Apsis.txt 2 778 1052 
+solar Apsis.txt 2 794 1180 
+line Apsis.txt 5 126 134 162 365 370 
+apollo Apsis.txt 1 594 
+with Apsis.txt 6 19 43 84 98 215 386 
+applying Apsis.txt 1 588 
+whether Apsis.txt 1 191 
+variations Apsis.txt 1 728 
+up Apsis.txt 1 945 
+planet Apsis.txt 2 583 1226 
+below Apsis.txt 1 1241 
+z Apsis.txt 1 64 
+similar Apsis.txt 1 202 
+called Apsis.txt 3 846 1067 1080 
+mechanics Apsis.txt 1 288 
+celestial Apsis.txt 1 521 
+constant Apsis.txt 3 339 408 777 
+an Apsis.txt 8 32 55 67 71 381 426 603 1055 
+ap Apsis.txt 2 107 111 
+as Apsis.txt 6 260 577 649 651 840 1054 
+au Apsis.txt 2 887 927 
+at Apsis.txt 7 163 187 209 353 359 875 1150 
+planets Apsis.txt 6 788 1143 1146 1165 1167 1257 
+controlled Apsis.txt 1 736 
+pit Apsis.txt 1 659 
+defines Apsis.txt 1 1024 
+when Apsis.txt 3 172 537 614 
+other Apsis.txt 6 7 180 273 520 772 790 
+147,098,070 Apsis.txt 1 889 
+arithmetic Apsis.txt 1 444 
+elements Apsis.txt 2 349 774 
+june Apsis.txt 1 910 
+variation Apsis.txt 2 730 956 
+meaning Apsis.txt 3 104 112 656 
+fraction Apsis.txt 1 1102 
+holes Apsis.txt 1 621 
+orbit Apsis.txt 9 73 382 412 427 493 695 725 974 1074 
+2002 Apsis.txt 1 648 
+2000 Apsis.txt 1 1087 
+mass Apsis.txt 5 54 155 214 252 301 
+time Apsis.txt 3 703 713 803 
+having Apsis.txt 1 206 

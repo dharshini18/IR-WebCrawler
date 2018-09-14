@@ -1,0 +1,301 @@
+wavelengths Ray_system.txt 1 185 
+atmosphere Ray_system.txt 1 132 
+lighter Ray_system.txt 1 491 
+among Ray_system.txt 1 511 
+over Ray_system.txt 1 286 
+retain Ray_system.txt 1 489 
+excavate Ray_system.txt 1 224 
+ejecta Ray_system.txt 6 14 46 98 187 354 436 
+infrared Ray_system.txt 3 143 184 256 
+thermal Ray_system.txt 3 153 198 237 
+underlying Ray_system.txt 1 324 
+micrometeorites Ray_system.txt 2 308 326 
+earth Ray_system.txt 1 107 
+32 Ray_system.txt 1 173 
+fine Ray_system.txt 1 45 
+cases Ray_system.txt 1 183 
+causes Ray_system.txt 1 309 
+censorinus Ray_system.txt 1 529 
+impact Ray_system.txt 6 4 54 222 283 351 416 
+into Ray_system.txt 1 504 
+indicator Ray_system.txt 2 276 455 
+outer Ray_system.txt 1 116 
+deposits Ray_system.txt 3 232 394 406 
+crater Ray_system.txt 10 5 21 55 84 109 156 159 284 364 370 
+to Ray_system.txt 5 76 304 404 501 508 
+only Ray_system.txt 1 125 
+basaltic Ray_system.txt 1 230 
+systems Ray_system.txt 3 100 522 535 
+covered Ray_system.txt 1 344 
+shoemaker Ray_system.txt 1 423 
+prominent Ray_system.txt 2 10 563 
+2010 Ray_system.txt 1 25 
+2013 Ray_system.txt 1 31 
+2012 Ray_system.txt 1 28 
+do Ray_system.txt 1 252 
+1972 Ray_system.txt 1 589 
+lacking Ray_system.txt 1 130 
+far Ray_system.txt 1 540 
+than Ray_system.txt 1 215 
+showing Ray_system.txt 1 8 
+between Ray_system.txt 2 23 316 
+necho Ray_system.txt 1 555 
+processes Ray_system.txt 1 289 
+early Ray_system.txt 1 388 
+were Ray_system.txt 4 393 402 431 577 
+asymmetrical Ray_system.txt 1 358 
+they Ray_system.txt 5 123 136 205 392 401 
+30 Ray_system.txt 1 16 
+not Ray_system.txt 2 253 451 
+during Ray_system.txt 2 49 425 
+thus Ray_system.txt 1 496 
+accepted Ray_system.txt 1 421 
+3.7n Ray_system.txt 1 34 
+chunks Ray_system.txt 1 96 
+secondary Ray_system.txt 1 91 
+shadows Ray_system.txt 1 251 
+layering Ray_system.txt 1 264 
+5324e Ray_system.txt 1 33 
+like Ray_system.txt 1 58 
+streaks Ray_system.txt 2 43 411 
+brightness Ray_system.txt 1 444 
+edit Ray_system.txt 3 357 592 594 
+always Ray_system.txt 1 452 
+astronauts Ray_system.txt 1 584 
+obliterate Ray_system.txt 1 290 
+ejectas Ray_system.txt 1 318 
+identified Ray_system.txt 2 103 139 
+19 Ray_system.txt 1 29 
+differential Ray_system.txt 1 315 
+radial Ray_system.txt 1 42 
+small Ray_system.txt 2 90 561 
+accompanied Ray_system.txt 1 88 
+speculation Ray_system.txt 1 387 
+reliable Ray_system.txt 1 454 
+clementine Ray_system.txt 1 373 
+aristarchus Ray_system.txt 1 524 
+because Ray_system.txt 1 285 
+often Ray_system.txt 1 87 
+energy Ray_system.txt 1 257 
+some Ray_system.txt 2 112 182 
+1960s Ray_system.txt 1 427 
+imaged Ray_system.txt 1 164 
+relative Ray_system.txt 2 279 443 
+3.7 Ray_system.txt 1 36 
+depends Ray_system.txt 1 467 
+martian Ray_system.txt 1 261 
+are Ray_system.txt 5 86 188 206 243 523 
+surface Ray_system.txt 4 202 218 262 269 
+images Ray_system.txt 2 144 374 
+imager Ray_system.txt 1 154 
+16 Ray_system.txt 1 587 
+eugene Ray_system.txt 1 422 
+observed Ray_system.txt 1 578 
+out Ray_system.txt 1 48 
+pronounced Ray_system.txt 1 520 
+jackson Ray_system.txt 1 557 
+appear Ray_system.txt 1 177 
+for Ray_system.txt 3 73 228 493 
+space Ray_system.txt 1 300 
+wikipedia Ray_system.txt 1 2 
+near Ray_system.txt 1 517 
+melt Ray_system.txt 1 332 
+moon Ray_system.txt 3 106 299 544 
+looking Ray_system.txt 1 56 
+bruno Ray_system.txt 1 554 
+giordano Ray_system.txt 1 553 
+various Ray_system.txt 1 288 
+lunar Ray_system.txt 6 235 355 363 379 447 513 
+moons Ray_system.txt 2 113 129 
+ground Ray_system.txt 1 581 
+across Ray_system.txt 2 175 267 
+can Ray_system.txt 3 271 341 488 
+be Ray_system.txt 3 272 405 502 
+emitted Ray_system.txt 1 258 
+recently Ray_system.txt 1 135 
+extend Ray_system.txt 1 72 
+nature Ray_system.txt 1 377 
+night Ray_system.txt 2 168 247 
+subject Ray_system.txt 1 385 
+craters Ray_system.txt 6 92 352 419 514 552 570 
+water Ray_system.txt 1 399 
+its Ray_system.txt 1 490 
+formation Ray_system.txt 1 51 
+factored Ray_system.txt 1 503 
+recent Ray_system.txt 1 438 
+become Ray_system.txt 1 343 
+i.e Ray_system.txt 1 195 
+november Ray_system.txt 1 30 
+ash Ray_system.txt 1 409 
+fragmented Ray_system.txt 1 435 
+by Ray_system.txt 8 89 94 148 165 259 345 349 582 
+copernicus Ray_system.txt 1 525 
+thrown Ray_system.txt 1 47 
+on Ray_system.txt 12 6 104 126 140 160 203 233 241 293 468 515 538 
+about Ray_system.txt 1 361 
+many Ray_system.txt 1 59 
+larger Ray_system.txt 1 95 
+cosmic Ray_system.txt 1 305 
+times Ray_system.txt 1 78 
+periods Ray_system.txt 1 495 
+s Ray_system.txt 1 152 
+became Ray_system.txt 1 420 
+glushko Ray_system.txt 1 530 
+portions Ray_system.txt 1 476 
+analysis Ray_system.txt 1 507 
+studies Ray_system.txt 1 439 
+or Ray_system.txt 5 128 197 348 353 410 
+south Ray_system.txt 1 568 
+lowers Ray_system.txt 1 337 
+diameter Ray_system.txt 2 20 80 
+reflectivity Ray_system.txt 1 194 
+themis Ray_system.txt 1 166 
+features Ray_system.txt 1 270 
+volcanic Ray_system.txt 1 408 
+image Ray_system.txt 2 169 368 
+each Ray_system.txt 1 571 
+visible Ray_system.txt 2 179 209 
+glassy Ray_system.txt 1 331 
+references Ray_system.txt 1 593 
+spokes Ray_system.txt 1 61 
+determine Ray_system.txt 1 509 
+comprises Ray_system.txt 1 41 
+side Ray_system.txt 2 518 541 
+apparent Ray_system.txt 1 245 
+rarely Ray_system.txt 1 220 
+proclus Ray_system.txt 2 365 527 
+mercury Ray_system.txt 1 110 
+existed Ray_system.txt 1 124 
+from Ray_system.txt 7 63 146 200 302 397 550 579 
+exposure Ray_system.txt 1 303 
+area Ray_system.txt 1 172 
+feo Ray_system.txt 2 474 478 
+system Ray_system.txt 8 1 12 40 360 449 462 487 576 
+been Ray_system.txt 3 102 138 383 
+properties Ray_system.txt 1 199 
+their Ray_system.txt 1 82 
+gratteri Ray_system.txt 1 155 
+deposited Ray_system.txt 1 207 
+low Ray_system.txt 2 225 475 
+mars Ray_system.txt 5 7 141 150 161 242 
+taken Ray_system.txt 1 145 
+slopes Ray_system.txt 1 249 
+rayed Ray_system.txt 1 158 
+was Ray_system.txt 2 120 163 
+regolith Ray_system.txt 1 335 
+more Ray_system.txt 2 134 219 
+suggested Ray_system.txt 2 390 424 
+originating Ray_system.txt 1 83 
+north Ray_system.txt 1 565 
+hub Ray_system.txt 1 65 
+that Ray_system.txt 7 122 162 321 336 391 428 441 
+pierazzo Ray_system.txt 2 369 564 
+has Ray_system.txt 1 381 
+formed Ray_system.txt 2 22 93 
+but Ray_system.txt 2 133 562 
+98 Ray_system.txt 1 18 
+covers Ray_system.txt 1 170 
+somewhat Ray_system.txt 1 57 
+particular Ray_system.txt 1 328 
+july Ray_system.txt 1 24 
+apollo Ray_system.txt 2 366 586 
+with Ray_system.txt 3 192 519 572 
+odyssey Ray_system.txt 1 151 
+weathering Ray_system.txt 1 301 
+longer Ray_system.txt 1 494 
+king Ray_system.txt 1 558 
+made Ray_system.txt 1 189 
+15 Ray_system.txt 1 367 
+surrounding Ray_system.txt 1 217 
+this Ray_system.txt 1 15 
+originally Ray_system.txt 1 118 
+appearance Ray_system.txt 1 492 
+up Ray_system.txt 1 75 
+historically Ray_system.txt 1 382 
+will Ray_system.txt 1 223 
+oxide Ray_system.txt 1 473 
+thin Ray_system.txt 1 60 
+iron Ray_system.txt 1 472 
+of Ray_system.txt 28 13 44 52 66 81 97 114 190 265 277 281 313 322 372 378 386 395 407 412 418 434 445 456 459 471 477 542 585 
+evaporated Ray_system.txt 1 398 
+similar Ray_system.txt 1 533 
+example Ray_system.txt 1 229 
+53.4e Ray_system.txt 1 35 
+result Ray_system.txt 2 433 479 
+and Ray_system.txt 10 26 85 111 180 250 307 320 531 559 567 
+ohm Ray_system.txt 1 556 
+kamil Ray_system.txt 1 108 
+planets Ray_system.txt 2 117 127 
+non-atmosphered Ray_system.txt 1 294 
+steady Ray_system.txt 1 311 
+is Ray_system.txt 1 450 
+reduction Ray_system.txt 1 312 
+influence Ray_system.txt 1 254 
+it Ray_system.txt 1 119 
+53.4 Ray_system.txt 1 37 
+an Ray_system.txt 5 53 131 171 221 275 
+origin Ray_system.txt 1 417 
+as Ray_system.txt 4 239 274 297 546 
+kepler Ray_system.txt 1 526 
+at Ray_system.txt 3 167 178 246 
+have Ray_system.txt 3 101 137 211 
+in Ray_system.txt 6 142 181 327 333 480 588 
+seen Ray_system.txt 1 240 
+albedo Ray_system.txt 7 196 214 226 319 339 465 506 
+ray Ray_system.txt 13 0 11 39 99 359 448 461 486 521 534 566 569 575 
+hypotheses Ray_system.txt 1 389 
+different Ray_system.txt 1 193 
+rays Ray_system.txt 12 70 176 210 238 266 292 306 340 356 380 430 548 
+brighter Ray_system.txt 1 481 
+lengths Ray_system.txt 1 74 
+suggest Ray_system.txt 1 440 
+when Ray_system.txt 2 186 248 
+lava Ray_system.txt 2 231 346 
+occur Ray_system.txt 1 537 
+materials Ray_system.txt 1 482 
+also Ray_system.txt 4 342 466 536 591 
+other Ray_system.txt 2 268 350 
+342n Ray_system.txt 1 32 
+which Ray_system.txt 1 204 
+instead Ray_system.txt 1 463 
+several Ray_system.txt 1 77 
+composition Ray_system.txt 1 499 
+higher Ray_system.txt 1 213 
+wheel Ray_system.txt 1 68 
+clear Ray_system.txt 1 574 
+material Ray_system.txt 5 191 227 325 437 498 
+ft Ray_system.txt 1 19 
+see Ray_system.txt 1 590 
+may Ray_system.txt 2 27 71 
+after Ray_system.txt 1 414 
+categories Ray_system.txt 1 595 
+needs Ray_system.txt 1 500 
+flows Ray_system.txt 1 347 
+useful Ray_system.txt 1 273 
+produce Ray_system.txt 1 329 
+tycho Ray_system.txt 1 532 
+dionysius Ray_system.txt 1 528 
+coming Ray_system.txt 1 62 
+dust Ray_system.txt 1 413 
+such Ray_system.txt 3 296 484 545 
+mosaic Ray_system.txt 1 371 
+maria Ray_system.txt 1 236 
+a Ray_system.txt 13 9 38 67 157 212 310 330 384 446 453 460 485 573 
+physical Ray_system.txt 1 376 
+especially Ray_system.txt 1 244 
+radiating Ray_system.txt 1 549 
+salt Ray_system.txt 1 396 
+age Ray_system.txt 3 280 458 510 
+later Ray_system.txt 1 400 
+m Ray_system.txt 1 17 
+orbit Ray_system.txt 1 147 
+km Ray_system.txt 1 174 
+thought Ray_system.txt 2 121 403 
+portion Ray_system.txt 1 470 
+2001 Ray_system.txt 1 149 
+so Ray_system.txt 1 483 
+time Ray_system.txt 1 287 
+fresh Ray_system.txt 1 3 
+the Ray_system.txt 42 50 64 69 79 105 115 201 216 234 255 260 263 278 282 291 298 314 317 323 334 338 362 375 415 426 429 432 442 457 464 469 497 505 512 516 539 543 547 551 560 580 583 
+typically Ray_system.txt 1 208 
+bodies Ray_system.txt 1 295 

@@ -1,0 +1,220 @@
+concept Gravitation_of_the_Moon.txt 1 444 
+evidence Gravitation_of_the_Moon.txt 1 368 
+show Gravitation_of_the_Moon.txt 1 367 
+crust Gravitation_of_the_Moon.txt 1 343 
+over Gravitation_of_the_Moon.txt 1 40 
+both Gravitation_of_the_Moon.txt 1 275 
+synchronous Gravitation_of_the_Moon.txt 1 168 
+mission Gravitation_of_the_Moon.txt 2 191 305 
+feature Gravitation_of_the_Moon.txt 1 228 
+discovered Gravitation_of_the_Moon.txt 1 283 
+spacecraft Gravitation_of_the_Moon.txt 6 100 112 134 152 176 260 
+planning Gravitation_of_the_Moon.txt 1 273 
+radio Gravitation_of_the_Moon.txt 2 95 124 
+part Gravitation_of_the_Moon.txt 1 310 
+earth Gravitation_of_the_Moon.txt 4 82 139 178 411 
+its Gravitation_of_the_Moon.txt 1 403 
+impact Gravitation_of_the_Moon.txt 2 251 326 
+limbs Gravitation_of_the_Moon.txt 1 182 
+based Gravitation_of_the_Moon.txt 1 350 
+giant Gravitation_of_the_Moon.txt 1 250 
+field Gravitation_of_the_Moon.txt 4 85 143 195 233 
+much Gravitation_of_the_Moon.txt 2 179 302 
+explain Gravitation_of_the_Moon.txt 1 335 
+mantle Gravitation_of_the_Moon.txt 1 344 
+storms Gravitation_of_the_Moon.txt 1 421 
+signals Gravitation_of_the_Moon.txt 1 96 
+to Gravitation_of_the_Moon.txt 7 20 58 135 159 174 295 312 
+only Gravitation_of_the_Moon.txt 1 74 
+program Gravitation_of_the_Moon.txt 1 298 
+2014 Gravitation_of_the_Moon.txt 1 434 
+hidden Gravitation_of_the_Moon.txt 1 451 
+has Gravitation_of_the_Moon.txt 2 89 357 
+2011 Gravitation_of_the_Moon.txt 1 225 
+accurate Gravitation_of_the_Moon.txt 1 266 
+do Gravitation_of_the_Moon.txt 1 365 
+tests Gravitation_of_the_Moon.txt 1 293 
+around Gravitation_of_the_Moon.txt 1 261 
+dependent Gravitation_of_the_Moon.txt 1 64 
+possible Gravitation_of_the_Moon.txt 1 173 
+line-of-sight Gravitation_of_the_Moon.txt 1 111 
+cannot Gravitation_of_the_Moon.txt 1 333 
+closeup Gravitation_of_the_Moon.txt 1 442 
+they Gravitation_of_the_Moon.txt 2 78 280 
+not Gravitation_of_the_Moon.txt 5 172 197 366 385 399 
+2 Gravitation_of_the_Moon.txt 1 414 
+rotation Gravitation_of_the_Moon.txt 1 169 
+categories Gravitation_of_the_Moon.txt 2 450 452 
+entire Gravitation_of_the_Moon.txt 1 42 
+displaced Gravitation_of_the_Moon.txt 1 408 
+necessary Gravitation_of_the_Moon.txt 1 270 
+0.0253 Gravitation_of_the_Moon.txt 1 51 
+edit Gravitation_of_the_Moon.txt 2 447 449 
+fully Gravitation_of_the_Moon.txt 1 334 
+signal Gravitation_of_the_Moon.txt 1 125 
+large Gravitation_of_the_Moon.txt 1 241 
+volcanism Gravitation_of_the_Moon.txt 2 372 379 
+radial Gravitation_of_the_Moon.txt 1 5 
+small Gravitation_of_the_Moon.txt 1 118 
+side Gravitation_of_the_Moon.txt 2 211 216 
+because Gravitation_of_the_Moon.txt 2 60 164 
+anomalies Gravitation_of_the_Moon.txt 3 162 244 254 
+weight Gravitation_of_the_Moon.txt 1 61 
+some Gravitation_of_the_Moon.txt 3 247 323 361 
+depends Gravitation_of_the_Moon.txt 1 104 
+frequency Gravitation_of_the_Moon.txt 1 121 
+are Gravitation_of_the_Moon.txt 2 240 308 
+measurement Gravitation_of_the_Moon.txt 1 128 
+procellarum Gravitation_of_the_Moon.txt 2 383 418 
+beyond Gravitation_of_the_Moon.txt 1 180 
+what Gravitation_of_the_Moon.txt 1 77 
+detect Gravitation_of_the_Moon.txt 1 160 
+dense Gravitation_of_the_Moon.txt 1 316 
+for Gravitation_of_the_Moon.txt 1 369 
+affects Gravitation_of_the_Moon.txt 1 147 
+since Gravitation_of_the_Moon.txt 1 140 
+wikipedia Gravitation_of_the_Moon.txt 1 4 
+moon Gravitation_of_the_Moon.txt 11 3 13 27 71 88 146 185 207 263 397 416 
+specifications Gravitation_of_the_Moon.txt 1 306 
+does Gravitation_of_the_Moon.txt 2 384 398 
+lunar Gravitation_of_the_Moon.txt 3 222 288 352 
+moons Gravitation_of_the_Moon.txt 2 167 231 
+orbiting Gravitation_of_the_Moon.txt 1 99 
+geometric Gravitation_of_the_Moon.txt 1 404 
+cause Gravitation_of_the_Moon.txt 1 386 
+be Gravitation_of_the_Moon.txt 1 115 
+doppler Gravitation_of_the_Moon.txt 1 107 
+mare Gravitation_of_the_Moon.txt 3 317 370 377 
+initially Gravitation_of_the_Moon.txt 1 282 
+emitted Gravitation_of_the_Moon.txt 1 97 
+however Gravitation_of_the_Moon.txt 2 163 328 
+far-side Gravitation_of_the_Moon.txt 1 193 
+ancient Gravitation_of_the_Moon.txt 3 422 435 439 
+flows Gravitation_of_the_Moon.txt 2 320 330 
+kilometers Gravitation_of_the_Moon.txt 1 415 
+interface Gravitation_of_the_Moon.txt 1 345 
+by Gravitation_of_the_Moon.txt 6 92 98 117 284 331 412 
+suggested Gravitation_of_the_Moon.txt 1 359 
+on Gravitation_of_the_Moon.txt 9 22 35 69 80 105 138 212 217 351 
+about Gravitation_of_the_Moon.txt 4 29 32 50 413 
+missions Gravitation_of_the_Moon.txt 1 279 
+of Gravitation_of_the_Moon.txt 26 1 11 25 54 76 86 122 129 144 150 165 183 205 229 237 248 259 274 287 315 324 341 376 393 395 420 
+larger Gravitation_of_the_Moon.txt 1 303 
+positioning Gravitation_of_the_Moon.txt 1 300 
+prior Gravitation_of_the_Moon.txt 1 294 
+grail Gravitation_of_the_Moon.txt 2 190 429 
+positive Gravitation_of_the_Moon.txt 2 242 388 
+unmanned Gravitation_of_the_Moon.txt 1 278 
+navigation Gravitation_of_the_Moon.txt 1 292 
+or Gravitation_of_the_Moon.txt 1 38 
+basaltic Gravitation_of_the_Moon.txt 3 318 371 378 
+major Gravitation_of_the_Moon.txt 1 227 
+topography Gravitation_of_the_Moon.txt 1 428 
+presence Gravitation_of_the_Moon.txt 2 236 314 
+m/s Gravitation_of_the_Moon.txt 3 31 52 209 
+one Gravitation_of_the_Moon.txt 1 153 
+visible Gravitation_of_the_Moon.txt 1 427 
+right Gravitation_of_the_Moon.txt 1 219 
+references Gravitation_of_the_Moon.txt 1 448 
+directly Gravitation_of_the_Moon.txt 1 63 
+artists Gravitation_of_the_Moon.txt 1 443 
+significantly Gravitation_of_the_Moon.txt 1 255 
+earths Gravitation_of_the_Moon.txt 1 36 
+use Gravitation_of_the_Moon.txt 1 155 
+1.625 Gravitation_of_the_Moon.txt 1 30 
+from Gravitation_of_the_Moon.txt 3 132 177 221 
+errors Gravitation_of_the_Moon.txt 1 301 
+16.6 Gravitation_of_the_Moon.txt 2 33 75 
+measured Gravitation_of_the_Moon.txt 2 91 116 
+due Gravitation_of_the_Moon.txt 3 19 57 311 
+been Gravitation_of_the_Moon.txt 2 90 358 
+prospector Gravitation_of_the_Moon.txt 1 353 
+station Gravitation_of_the_Moon.txt 1 137 
+structure Gravitation_of_the_Moon.txt 1 426 
+orbiter Gravitation_of_the_Moon.txt 1 289 
+themselves Gravitation_of_the_Moon.txt 1 332 
+anomaly Gravitation_of_the_Moon.txt 2 7 390 
+until Gravitation_of_the_Moon.txt 1 187 
+that Gravitation_of_the_Moon.txt 4 34 321 360 364 
+exactly Gravitation_of_the_Moon.txt 1 401 
+accurately Gravitation_of_the_Moon.txt 1 198 
+but Gravitation_of_the_Moon.txt 1 406 
+expanse Gravitation_of_the_Moon.txt 1 375 
+gal Gravitation_of_the_Moon.txt 1 15 
+known Gravitation_of_the_Moon.txt 1 199 
+apollo Gravitation_of_the_Moon.txt 1 297 
+with Gravitation_of_the_Moon.txt 3 246 381 402 
+than Gravitation_of_the_Moon.txt 1 304 
+center Gravitation_of_the_Moon.txt 2 392 405 
+distance Gravitation_of_the_Moon.txt 1 131 
+october Gravitation_of_the_Moon.txt 1 432 
+showed Gravitation_of_the_Moon.txt 1 299 
+these Gravitation_of_the_Moon.txt 2 156 253 
+was Gravitation_of_the_Moon.txt 1 196 
+gravitational Gravitation_of_the_Moon.txt 8 47 66 84 142 232 267 337 354 
+variations Gravitation_of_the_Moon.txt 1 338 
+see Gravitation_of_the_Moon.txt 1 445 
+rectangular Gravitation_of_the_Moon.txt 1 425 
+will Gravitation_of_the_Moon.txt 1 72 
+near Gravitation_of_the_Moon.txt 1 210 
+can Gravitation_of_the_Moon.txt 2 114 154 
+were Gravitation_of_the_Moon.txt 1 281 
+valleys Gravitation_of_the_Moon.txt 3 424 437 441 
+toward Gravitation_of_the_Moon.txt 1 409 
+and Gravitation_of_the_Moon.txt 4 126 264 277 339 
+1.6 Gravitation_of_the_Moon.txt 1 53 
+manned Gravitation_of_the_Moon.txt 1 276 
+associated Gravitation_of_the_Moon.txt 2 245 380 
+is Gravitation_of_the_Moon.txt 8 28 49 62 171 234 269 346 407 
+influence Gravitation_of_the_Moon.txt 1 256 
+it Gravitation_of_the_Moon.txt 2 170 356 
+surface Gravitation_of_the_Moon.txt 5 10 24 37 43 204 
+an Gravitation_of_the_Moon.txt 1 265 
+as Gravitation_of_the_Moon.txt 1 348 
+exist Gravitation_of_the_Moon.txt 1 363 
+at Gravitation_of_the_Moon.txt 2 8 202 
+in Gravitation_of_the_Moon.txt 6 14 46 120 208 271 309 
+uplift Gravitation_of_the_Moon.txt 1 340 
+ocean Gravitation_of_the_Moon.txt 1 419 
+gradients Gravitation_of_the_Moon.txt 1 431 
+fill Gravitation_of_the_Moon.txt 1 322 
+acceleration Gravitation_of_the_Moon.txt 7 16 18 48 56 67 113 201 
+huge Gravitation_of_the_Moon.txt 1 374 
+things Gravitation_of_the_Moon.txt 1 68 
+gravity Gravitation_of_the_Moon.txt 11 6 21 59 161 194 200 223 243 389 394 430 
+lava Gravitation_of_the_Moon.txt 2 319 329 
+1 Gravitation_of_the_Moon.txt 1 433 
+shifts Gravitation_of_the_Moon.txt 1 119 
+models Gravitation_of_the_Moon.txt 1 355 
+which Gravitation_of_the_Moon.txt 1 239 
+coincide Gravitation_of_the_Moon.txt 1 400 
+map Gravitation_of_the_Moon.txt 1 220 
+used Gravitation_of_the_Moon.txt 1 103 
+context Gravitation_of_the_Moon.txt 1 438 
+track Gravitation_of_the_Moon.txt 1 175 
+upon Gravitation_of_the_Moon.txt 1 65 
+effect Gravitation_of_the_Moon.txt 1 108 
+variation Gravitation_of_the_Moon.txt 1 45 
+gravitation Gravitation_of_the_Moon.txt 1 0 
+oceanus Gravitation_of_the_Moon.txt 2 382 417 
+data Gravitation_of_the_Moon.txt 2 158 291 
+model Gravitation_of_the_Moon.txt 2 224 268 
+basins Gravitation_of_the_Moon.txt 2 252 327 
+recent Gravitation_of_the_Moon.txt 1 189 
+a Gravitation_of_the_Moon.txt 4 136 151 226 387 
+rift Gravitation_of_the_Moon.txt 3 423 436 440 
+tracking Gravitation_of_the_Moon.txt 3 93 157 290 
+whereby Gravitation_of_the_Moon.txt 1 109 
+also Gravitation_of_the_Moon.txt 1 446 
+required Gravitation_of_the_Moon.txt 1 347 
+well Gravitation_of_the_Moon.txt 1 349 
+orbit Gravitation_of_the_Moon.txt 2 149 258 
+analysis Gravitation_of_the_Moon.txt 1 286 
+mascons Gravitation_of_the_Moon.txt 3 238 307 362 
+0.16 Gravitation_of_the_Moon.txt 1 39 
+so Gravitation_of_the_Moon.txt 1 186 
+principle Gravitation_of_the_Moon.txt 1 102 
+far Gravitation_of_the_Moon.txt 1 215 
+weigh Gravitation_of_the_Moon.txt 2 73 79 
+the Gravitation_of_the_Moon.txt 49 2 9 12 17 23 26 41 44 55 70 81 83 87 94 101 106 110 123 127 130 133 141 145 148 166 181 184 188 192 203 206 213 218 230 235 249 257 262 272 285 296 313 325 336 342 373 391 396 410 
+left Gravitation_of_the_Moon.txt 1 214 

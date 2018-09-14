@@ -1,0 +1,259 @@
+atmosphere Chromosphere.txt 3 68 153 440 
+help Chromosphere.txt 1 331 
+just Chromosphere.txt 1 90 
+suns Chromosphere.txt 1 295 
+magnetic Chromosphere.txt 1 528 
+atom Chromosphere.txt 1 381 
+dynamic Chromosphere.txt 1 546 
+whilst Chromosphere.txt 1 342 
+through Chromosphere.txt 1 5 
+earth Chromosphere.txt 1 155 
+centimeter Chromosphere.txt 1 230 
+its Chromosphere.txt 4 176 362 383 417 
+causes Chromosphere.txt 2 412 502 
+before Chromosphere.txt 1 265 
+layers Chromosphere.txt 1 63 
+4,400 Chromosphere.txt 1 459 
+outer Chromosphere.txt 2 245 274 
+density Chromosphere.txt 3 19 132 209 
+graph Chromosphere.txt 1 45 
+point Chromosphere.txt 1 317 
+seems Chromosphere.txt 1 519 
+decreases Chromosphere.txt 3 213 223 249 
+to Chromosphere.txt 13 73 200 237 258 267 303 308 320 325 392 415 508 521 
+only Chromosphere.txt 4 83 137 170 457 
+complex Chromosphere.txt 1 544 
+rosy Chromosphere.txt 1 79 
+under Chromosphere.txt 1 238 
+orange Chromosphere.txt 1 35 
+hidden Chromosphere.txt 1 594 
+main Chromosphere.txt 1 62 
+phenomenon Chromosphere.txt 1 501 
+2,000 Chromosphere.txt 1 468 
+march Chromosphere.txt 1 557 
+7 Chromosphere.txt 1 558 
+distance Chromosphere.txt 1 215 
+very Chromosphere.txt 1 543 
+between Chromosphere.txt 2 25 186 
+25,000 Chromosphere.txt 1 473 
+electron Chromosphere.txt 1 384 
+cannot Chromosphere.txt 1 195 
+5,000 Chromosphere.txt 1 74 
+not Chromosphere.txt 1 496 
+during Chromosphere.txt 2 85 171 
+part Chromosphere.txt 1 407 
+one Chromosphere.txt 1 360 
+logarithmically Chromosphere.txt 1 224 
+categories Chromosphere.txt 2 593 595 
+appearing Chromosphere.txt 1 114 
+level Chromosphere.txt 2 158 397 
+edit Chromosphere.txt 6 341 531 563 587 589 592 
+always Chromosphere.txt 1 298 
+brightness Chromosphere.txt 1 203 
+1999 Chromosphere.txt 1 49 
+continue Chromosphere.txt 1 302 
+h Chromosphere.txt 1 367 
+further Chromosphere.txt 1 511 
+found Chromosphere.txt 1 430 
+beneath Chromosphere.txt 2 146 207 
+where Chromosphere.txt 2 175 487 
+mount Chromosphere.txt 1 575 
+homogeneous Chromosphere.txt 2 109 119 
+body Chromosphere.txt 1 306 
+3,000 Chromosphere.txt 1 72 
+telescope Chromosphere.txt 1 7 
+energy Chromosphere.txt 1 396 
+hard Chromosphere.txt 1 307 
+some Chromosphere.txt 2 121 467 
+chromospheres Chromosphere.txt 3 78 283 351 
+observed Chromosphere.txt 3 4 286 537 
+opposite Chromosphere.txt 1 479 
+see Chromosphere.txt 4 36 547 578 585 
+activity Chromosphere.txt 1 569 
+increases Chromosphere.txt 1 441 
+are Chromosphere.txt 1 184 
+sea Chromosphere.txt 1 157 
+measure Chromosphere.txt 1 566 
+wavelength Chromosphere.txt 2 370 399 
+special Chromosphere.txt 1 191 
+was Chromosphere.txt 1 429 
+skylab Chromosphere.txt 1 12 
+for Chromosphere.txt 1 38 
+literally Chromosphere.txt 1 52 
+since Chromosphere.txt 1 313 
+wikipedia Chromosphere.txt 1 1 
+while Chromosphere.txt 1 461 
+per Chromosphere.txt 1 228 
+find Chromosphere.txt 1 483 
+particles Chromosphere.txt 1 227 
+3 Chromosphere.txt 1 391 
+individuals Chromosphere.txt 1 322 
+dominated Chromosphere.txt 1 354 
+above Chromosphere.txt 2 91 130 
+chromosphere Chromosphere.txt 19 0 24 51 88 104 135 162 194 212 296 328 338 414 427 447 466 507 540 554 
+understood Chromosphere.txt 1 499 
+boundary Chromosphere.txt 3 246 253 275 
+increasing Chromosphere.txt 3 266 443 492 
+red Chromosphere.txt 3 80 189 406 
+s-index Chromosphere.txt 1 577 
+hairy Chromosphere.txt 1 113 
+be Chromosphere.txt 5 168 197 304 522 536 
+we Chromosphere.txt 2 323 482 
+meanings Chromosphere.txt 1 39 
+extend Chromosphere.txt 1 124 
+emitted Chromosphere.txt 1 377 
+flash Chromosphere.txt 1 549 
+however Chromosphere.txt 2 477 517 
+here Chromosphere.txt 1 37 
+6,000 Chromosphere.txt 1 256 
+spectroscopic Chromosphere.txt 1 565 
+although Chromosphere.txt 1 312 
+kilometers Chromosphere.txt 1 75 
+invisible Chromosphere.txt 1 164 
+paradoxically Chromosphere.txt 1 509 
+3,800 Chromosphere.txt 1 263 
+analysing Chromosphere.txt 1 422 
+on Chromosphere.txt 2 560 570 
+about Chromosphere.txt 2 255 458 
+of Chromosphere.txt 35 22 40 48 54 59 102 112 122 133 141 151 154 204 210 219 261 269 280 318 332 361 371 400 408 425 434 437 454 465 480 505 551 556 567 582 
+region Chromosphere.txt 2 29 99 
+transition Chromosphere.txt 4 28 98 278 387 
+times Chromosphere.txt 2 139 149 
+filter Chromosphere.txt 1 11 
+s Chromosphere.txt 2 67 515 
+absorption Chromosphere.txt 1 347 
+makes Chromosphere.txt 2 160 385 
+or Chromosphere.txt 2 231 525 
+kg/m Chromosphere.txt 2 236 242 
+electromagnetic Chromosphere.txt 1 334 
+this Chromosphere.txt 5 159 222 374 435 475 
+thinner Chromosphere.txt 1 27 
+features Chromosphere.txt 1 530 
+extra Chromosphere.txt 1 41 
+color Chromosphere.txt 4 55 81 178 182 
+into Chromosphere.txt 1 127 
+6996200000000000000 Chromosphere.txt 1 233 
+1.6 Chromosphere.txt 1 240 
+reaches Chromosphere.txt 1 472 
+due Chromosphere.txt 1 199 
+decipher Chromosphere.txt 1 311 
+656.3 Chromosphere.txt 2 372 401 
+references Chromosphere.txt 1 588 
+been Chromosphere.txt 2 285 299 
+superflare Chromosphere.txt 1 583 
+total Chromosphere.txt 2 46 173 
+from Chromosphere.txt 6 117 216 225 250 388 512 
+temperature Chromosphere.txt 6 15 248 433 450 489 504 
+likely Chromosphere.txt 1 520 
+hues Chromosphere.txt 1 183 
+revealed Chromosphere.txt 1 180 
+top Chromosphere.txt 2 453 464 
+three Chromosphere.txt 1 61 
+approximately Chromosphere.txt 2 232 262 
+by Chromosphere.txt 4 355 378 421 527 
+comparing Chromosphere.txt 1 337 
+2 Chromosphere.txt 2 234 395 
+inner Chromosphere.txt 1 252 
+stars Chromosphere.txt 4 289 562 572 584 
+reconnection Chromosphere.txt 1 529 
+h-alpha Chromosphere.txt 1 10 
+observations Chromosphere.txt 1 581 
+interest Chromosphere.txt 1 319 
+that Chromosphere.txt 3 140 150 431 
+phenomena Chromosphere.txt 1 534 
+atop Chromosphere.txt 1 105 
+apparent Chromosphere.txt 1 84 
+interesting Chromosphere.txt 1 533 
+emission Chromosphere.txt 1 356 
+spectrum Chromosphere.txt 6 335 349 352 410 424 550 
+observe Chromosphere.txt 1 326 
+external Chromosphere.txt 1 590 
+solar Chromosphere.txt 3 97 439 553 
+particular Chromosphere.txt 1 359 
+explained Chromosphere.txt 1 523 
+line Chromosphere.txt 2 348 375 
+overwhelming Chromosphere.txt 1 202 
+with Chromosphere.txt 6 8 214 276 329 442 491 
+than Chromosphere.txt 1 291 
+partially Chromosphere.txt 1 524 
+10 Chromosphere.txt 5 138 148 226 235 241 
+spicules Chromosphere.txt 1 115 
+has Chromosphere.txt 2 297 345 
+reddish Chromosphere.txt 2 177 419 
+10,000 Chromosphere.txt 1 125 
+solid Chromosphere.txt 1 16 
+characteristic Chromosphere.txt 1 418 
+6989160000000000000 Chromosphere.txt 1 239 
+yet Chromosphere.txt 1 497 
+eclipse Chromosphere.txt 3 47 174 555 
+second Chromosphere.txt 1 58 
+n Chromosphere.txt 2 390 394 
+will Chromosphere.txt 1 301 
+whenever Chromosphere.txt 1 382 
+below Chromosphere.txt 1 95 
+anywhere Chromosphere.txt 1 185 
+can Chromosphere.txt 2 167 535 
+many Chromosphere.txt 1 532 
+eclipses Chromosphere.txt 1 86 
+drops Chromosphere.txt 1 490 
+k Chromosphere.txt 5 257 264 271 460 474 
+darker Chromosphere.txt 1 34 
+and Chromosphere.txt 11 18 30 69 94 147 165 188 300 310 339 545 
+layer Chromosphere.txt 5 101 120 145 279 436 
+links Chromosphere.txt 1 591 
+curve Chromosphere.txt 2 17 21 
+is Chromosphere.txt 16 56 70 82 108 136 179 315 353 365 376 403 456 476 495 542 573 
+chromospheric Chromosphere.txt 1 568 
+it Chromosphere.txt 6 166 314 428 471 494 518 
+deep Chromosphere.txt 1 76 
+an Chromosphere.txt 2 9 346 
+sphere Chromosphere.txt 1 53 
+examine Chromosphere.txt 1 309 
+minimum Chromosphere.txt 1 260 
+km Chromosphere.txt 2 126 469 
+have Chromosphere.txt 2 284 416 
+in Chromosphere.txt 8 43 64 288 358 404 445 484 538 
+seen Chromosphere.txt 2 169 198 
+sits Chromosphere.txt 1 89 
+hydrogen Chromosphere.txt 1 380 
+contents Chromosphere.txt 1 336 
+pink Chromosphere.txt 1 187 
+wilson Chromosphere.txt 1 576 
+nm Chromosphere.txt 2 373 402 
+dashed Chromosphere.txt 1 20 
+equipment Chromosphere.txt 1 192 
+other Chromosphere.txt 3 290 561 571 
+forest Chromosphere.txt 1 111 
+which Chromosphere.txt 3 123 411 541 
+photosphere Chromosphere.txt 9 33 93 107 143 206 340 344 455 486 
+several Chromosphere.txt 1 321 
+higher Chromosphere.txt 1 470 
+rise Chromosphere.txt 1 116 
+cubic Chromosphere.txt 1 229 
+what Chromosphere.txt 2 481 500 
+35,000 Chromosphere.txt 1 270 
+interior Chromosphere.txt 1 516 
+strongest Chromosphere.txt 1 363 
+totally Chromosphere.txt 1 526 
+measured Chromosphere.txt 1 13 
+upwards Chromosphere.txt 1 268 
+a Chromosphere.txt 11 6 110 172 259 305 316 369 379 386 398 564 
+lower Chromosphere.txt 1 32 
+attempt Chromosphere.txt 1 324 
+center Chromosphere.txt 1 218 
+fully Chromosphere.txt 1 498 
+also Chromosphere.txt 3 287 579 586 
+colour Chromosphere.txt 1 420 
+lines Chromosphere.txt 3 42 357 364 
+roughly Chromosphere.txt 1 71 
+corona Chromosphere.txt 2 129 282 
+1970 Chromosphere.txt 1 559 
+height Chromosphere.txt 2 444 493 
+superflare#spectroscopic Chromosphere.txt 1 580 
+itself Chromosphere.txt 1 448 
+without Chromosphere.txt 1 190 
+sun Chromosphere.txt 5 3 66 221 293 514 
+at Chromosphere.txt 7 156 243 254 272 368 451 462 
+the Chromosphere.txt 70 2 14 23 26 31 44 50 57 60 65 77 87 92 96 100 103 106 118 128 131 134 142 144 152 161 181 193 201 205 208 211 217 220 244 247 251 273 277 281 292 294 327 330 333 343 350 366 389 393 405 409 413 423 426 432 438 446 449 452 463 478 485 488 503 506 513 539 548 552 574 
+increase Chromosphere.txt 1 510 
+normally Chromosphere.txt 2 163 196 

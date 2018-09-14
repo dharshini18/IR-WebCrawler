@@ -1,0 +1,486 @@
+cameras Transient_lunar_phenomenon.txt 1 540 
+caused Transient_lunar_phenomenon.txt 2 294 962 
+global Transient_lunar_phenomenon.txt 1 604 
+results Transient_lunar_phenomenon.txt 1 395 
+yellow Transient_lunar_phenomenon.txt 1 35 
+four Transient_lunar_phenomenon.txt 2 277 1023 
+spacecraft Transient_lunar_phenomenon.txt 2 565 1034 
+go Transient_lunar_phenomenon.txt 1 66 
+careful Transient_lunar_phenomenon.txt 1 1036 
+patches Transient_lunar_phenomenon.txt 1 179 
+crater Transient_lunar_phenomenon.txt 1 634 
+to Transient_lunar_phenomenon.txt 25 105 110 180 231 306 328 390 432 477 653 662 678 704 718 721 745 763 827 971 996 1111 1140 1148 1166 1180 
+charge Transient_lunar_phenomenon.txt 1 685 
+those Transient_lunar_phenomenon.txt 1 509 
+under Transient_lunar_phenomenon.txt 1 1130 
+include Transient_lunar_phenomenon.txt 2 264 848 
+misinterpretation Transient_lunar_phenomenon.txt 1 1150 
+rise Transient_lunar_phenomenon.txt 4 720 744 762 826 
+fall Transient_lunar_phenomenon.txt 1 275 
+vast Transient_lunar_phenomenon.txt 1 878 
+clouds Transient_lunar_phenomenon.txt 2 318 556 
+large Transient_lunar_phenomenon.txt 1 487 
+discrete Transient_lunar_phenomenon.txt 1 437 
+barbara Transient_lunar_phenomenon.txt 1 14 
+past Transient_lunar_phenomenon.txt 1 1122 
+cameron Transient_lunar_phenomenon.txt 1 187 
+imply Transient_lunar_phenomenon.txt 1 1052 
+video Transient_lunar_phenomenon.txt 2 539 630 
+targets Transient_lunar_phenomenon.txt 1 357 
+blue Transient_lunar_phenomenon.txt 1 205 
+what Transient_lunar_phenomenon.txt 1 1152 
+appear Transient_lunar_phenomenon.txt 1 327 
+short-lived Transient_lunar_phenomenon.txt 2 48 63 
+imperceptible Transient_lunar_phenomenon.txt 1 428 
+selected Transient_lunar_phenomenon.txt 1 608 
+near Transient_lunar_phenomenon.txt 2 756 814 
+indias Transient_lunar_phenomenon.txt 1 566 
+witnesses Transient_lunar_phenomenon.txt 1 80 
+haze Transient_lunar_phenomenon.txt 1 322 
+above Transient_lunar_phenomenon.txt 2 948 999 
+scientists Transient_lunar_phenomenon.txt 2 83 116 
+red-hued Transient_lunar_phenomenon.txt 1 26 
+multitude Transient_lunar_phenomenon.txt 1 899 
+supporting Transient_lunar_phenomenon.txt 1 918 
+afterward Transient_lunar_phenomenon.txt 1 1031 
+escaping Transient_lunar_phenomenon.txt 1 297 
+reported Transient_lunar_phenomenon.txt 4 160 808 1020 1119 
+objects Transient_lunar_phenomenon.txt 1 813 
+others Transient_lunar_phenomenon.txt 1 313 
+tallying Transient_lunar_phenomenon.txt 1 226 
+implanted Transient_lunar_phenomenon.txt 1 694 
+observing Transient_lunar_phenomenon.txt 1 797 
+change Transient_lunar_phenomenon.txt 1 52 
+daughter Transient_lunar_phenomenon.txt 1 699 
+technical Transient_lunar_phenomenon.txt 1 154 
+metre Transient_lunar_phenomenon.txt 3 607 611 616 
+reports Transient_lunar_phenomenon.txt 9 91 171 870 901 927 1004 1055 1144 1192 
+controversy Transient_lunar_phenomenon.txt 1 134 
+infrequently Transient_lunar_phenomenon.txt 1 491 
+simultaneous Transient_lunar_phenomenon.txt 1 531 
+survey Transient_lunar_phenomenon.txt 1 9 
+published Transient_lunar_phenomenon.txt 1 163 
+changes Transient_lunar_phenomenon.txt 1 182 
+diameter Transient_lunar_phenomenon.txt 1 456 
+explained Transient_lunar_phenomenon.txt 1 422 
+visible Transient_lunar_phenomenon.txt 5 577 723 748 768 1077 
+analyzing Transient_lunar_phenomenon.txt 1 588 
+marker Transient_lunar_phenomenon.txt 1 1078 
+illumination Transient_lunar_phenomenon.txt 1 1133 
+landscape Transient_lunar_phenomenon.txt 1 186 
+from Transient_lunar_phenomenon.txt 13 177 246 298 377 402 522 528 628 712 724 749 769 928 
+links Transient_lunar_phenomenon.txt 1 1203 
+two Transient_lunar_phenomenon.txt 2 214 975 
+telescopes Transient_lunar_phenomenon.txt 1 820 
+few Transient_lunar_phenomenon.txt 1 254 
+distortions Transient_lunar_phenomenon.txt 1 830 
+taken Transient_lunar_phenomenon.txt 1 627 
+more Transient_lunar_phenomenon.txt 1 257 
+middlehurst Transient_lunar_phenomenon.txt 1 15 
+2,254 Transient_lunar_phenomenon.txt 1 227 
+transient Transient_lunar_phenomenon.txt 16 0 37 43 88 120 173 218 262 272 668 780 809 872 903 1002 1115 
+surface Transient_lunar_phenomenon.txt 8 57 392 434 461 503 581 708 1072 
+particular Transient_lunar_phenomenon.txt 1 394 
+known Transient_lunar_phenomenon.txt 1 841 
+must Transient_lunar_phenomenon.txt 1 941 
+account Transient_lunar_phenomenon.txt 1 663 
+this Transient_lunar_phenomenon.txt 8 4 363 415 473 702 713 984 1048 
+electrodynamic Transient_lunar_phenomenon.txt 1 675 
+mi Transient_lunar_phenomenon.txt 1 455 
+modified Transient_lunar_phenomenon.txt 1 464 
+radon Transient_lunar_phenomenon.txt 2 389 398 
+debated Transient_lunar_phenomenon.txt 1 859 
+itself Transient_lunar_phenomenon.txt 1 789 
+can Transient_lunar_phenomenon.txt 1 824 
+believed Transient_lunar_phenomenon.txt 1 476 
+discharging Transient_lunar_phenomenon.txt 1 658 
+control Transient_lunar_phenomenon.txt 1 99 
+fracturing Transient_lunar_phenomenon.txt 1 680 
+impacts Transient_lunar_phenomenon.txt 1 536 
+give Transient_lunar_phenomenon.txt 4 719 743 761 825 
+cited Transient_lunar_phenomenon.txt 1 1198 
+confused Transient_lunar_phenomenon.txt 1 834 
+high Transient_lunar_phenomenon.txt 1 595 
+caution Transient_lunar_phenomenon.txt 1 945 
+documenting Transient_lunar_phenomenon.txt 1 1124 
+darkening Transient_lunar_phenomenon.txt 1 213 
+scar Transient_lunar_phenomenon.txt 1 578 
+occur Transient_lunar_phenomenon.txt 3 129 489 705 
+terrestrial Transient_lunar_phenomenon.txt 1 965 
+cratering Transient_lunar_phenomenon.txt 1 127 
+feature Transient_lunar_phenomenon.txt 1 474 
+1 Transient_lunar_phenomenon.txt 2 191 480 
+triboelectric Transient_lunar_phenomenon.txt 1 733 
+charging Transient_lunar_phenomenon.txt 2 656 734 
+map Transient_lunar_phenomenon.txt 1 5 
+description Transient_lunar_phenomenon.txt 1 167 
+may Transient_lunar_phenomenon.txt 1 292 
+after Transient_lunar_phenomenon.txt 1 591 
+catalog Transient_lunar_phenomenon.txt 1 158 
+spectrometer Transient_lunar_phenomenon.txt 1 383 
+data Transient_lunar_phenomenon.txt 1 376 
+a Transient_lunar_phenomenon.txt 17 8 36 47 253 308 450 466 576 629 738 793 886 891 1012 1057 1076 1149 
+attempt Transient_lunar_phenomenon.txt 1 995 
+6th Transient_lunar_phenomenon.txt 1 233 
+hypotheses Transient_lunar_phenomenon.txt 1 109 
+equally Transient_lunar_phenomenon.txt 1 950 
+green Transient_lunar_phenomenon.txt 1 204 
+correlation Transient_lunar_phenomenon.txt 1 364 
+wind Transient_lunar_phenomenon.txt 1 696 
+over Transient_lunar_phenomenon.txt 1 130 
+mission Transient_lunar_phenomenon.txt 2 417 1010 
+years Transient_lunar_phenomenon.txt 3 71 482 543 
+experiments Transient_lunar_phenomenon.txt 1 100 
+unfavorable Transient_lunar_phenomenon.txt 1 285 
+existence Transient_lunar_phenomenon.txt 1 920 
+before Transient_lunar_phenomenon.txt 1 589 
+observational Transient_lunar_phenomenon.txt 3 368 857 1060 
+astronomers Transient_lunar_phenomenon.txt 1 1016 
+outgassing Transient_lunar_phenomenon.txt 7 124 279 288 374 387 444 1067 
+acknowledge Transient_lunar_phenomenon.txt 1 118 
+temporal Transient_lunar_phenomenon.txt 1 829 
+vicinity Transient_lunar_phenomenon.txt 2 248 404 
+forms Transient_lunar_phenomenon.txt 1 197 
+detected Transient_lunar_phenomenon.txt 3 527 558 586 
+permanent Transient_lunar_phenomenon.txt 1 181 
+categories Transient_lunar_phenomenon.txt 2 1205 1207 
+coordinated Transient_lunar_phenomenon.txt 1 1097 
+hidden Transient_lunar_phenomenon.txt 1 1206 
+might Transient_lunar_phenomenon.txt 6 514 659 689 715 782 1073 
+overcome Transient_lunar_phenomenon.txt 1 997 
+crash Transient_lunar_phenomenon.txt 1 561 
+effects Transient_lunar_phenomenon.txt 2 651 676 
+they Transient_lunar_phenomenon.txt 1 960 
+not Transient_lunar_phenomenon.txt 4 96 783 1050 1074 
+association Transient_lunar_phenomenon.txt 2 1100 1110 
+possess Transient_lunar_phenomenon.txt 1 97 
+term Transient_lunar_phenomenon.txt 1 143 
+edit Transient_lunar_phenomenon.txt 10 170 268 289 494 623 774 863 1195 1197 1204 
+identified Transient_lunar_phenomenon.txt 1 620 
+sufficiently Transient_lunar_phenomenon.txt 1 594 
+references Transient_lunar_phenomenon.txt 3 1196 1199 1201 
+classifies Transient_lunar_phenomenon.txt 1 188 
+related Transient_lunar_phenomenon.txt 2 652 677 
+frequency Transient_lunar_phenomenon.txt 1 138 
+our Transient_lunar_phenomenon.txt 1 1178 
+event Transient_lunar_phenomenon.txt 3 469 939 969 
+leave Transient_lunar_phenomenon.txt 2 575 1075 
+network Transient_lunar_phenomenon.txt 1 1013 
+furthermore Transient_lunar_phenomenon.txt 2 554 1159 
+since Transient_lunar_phenomenon.txt 1 544 
+particles Transient_lunar_phenomenon.txt 1 736 
+r-277 Transient_lunar_phenomenon.txt 1 156 
+suggesting Transient_lunar_phenomenon.txt 1 484 
+radiogenic Transient_lunar_phenomenon.txt 1 698 
+red Transient_lunar_phenomenon.txt 1 30 
+shows Transient_lunar_phenomenon.txt 2 19 1041 
+brightenings Transient_lunar_phenomenon.txt 1 210 
+million Transient_lunar_phenomenon.txt 1 481 
+possibility Transient_lunar_phenomenon.txt 1 672 
+remainder Transient_lunar_phenomenon.txt 1 32 
+prospector Transient_lunar_phenomenon.txt 1 380 
+lcross Transient_lunar_phenomenon.txt 1 572 
+ltp Transient_lunar_phenomenon.txt 1 45 
+created Transient_lunar_phenomenon.txt 1 145 
+where Transient_lunar_phenomenon.txt 1 1114 
+could Transient_lunar_phenomenon.txt 12 102 365 420 584 684 742 759 791 832 913 985 1185 
+british Transient_lunar_phenomenon.txt 1 1108 
+place Transient_lunar_phenomenon.txt 1 909 
+origin Transient_lunar_phenomenon.txt 1 993 
+features Transient_lunar_phenomenon.txt 1 1129 
+discharges Transient_lunar_phenomenon.txt 1 747 
+encouraging Transient_lunar_phenomenon.txt 1 1083 
+one Transient_lunar_phenomenon.txt 2 671 994 
+such Transient_lunar_phenomenon.txt 5 122 140 486 523 692 
+earths Transient_lunar_phenomenon.txt 2 641 822 
+necessarily Transient_lunar_phenomenon.txt 1 1051 
+their Transient_lunar_phenomenon.txt 2 112 919 
+esas Transient_lunar_phenomenon.txt 1 563 
+authentic Transient_lunar_phenomenon.txt 1 1090 
+floor-fractured Transient_lunar_phenomenon.txt 1 332 
+least Transient_lunar_phenomenon.txt 2 69 243 
+indicate Transient_lunar_phenomenon.txt 1 384 
+2 Transient_lunar_phenomenon.txt 1 200 
+observations Transient_lunar_phenomenon.txt 3 419 533 1093 
+white Transient_lunar_phenomenon.txt 1 317 
+hue Transient_lunar_phenomenon.txt 1 311 
+that Transient_lunar_phenomenon.txt 17 101 119 397 449 485 650 674 688 731 778 831 868 876 959 1053 1066 1087 
+simulate Transient_lunar_phenomenon.txt 1 1167 
+diffusion Transient_lunar_phenomenon.txt 1 429 
+plausible Transient_lunar_phenomenon.txt 1 951 
+meteors Transient_lunar_phenomenon.txt 1 855 
+classes Transient_lunar_phenomenon.txt 1 278 
+historical Transient_lunar_phenomenon.txt 1 259 
+were Transient_lunar_phenomenon.txt 10 557 703 882 970 1019 1026 1056 1089 1118 1145 
+flashes Transient_lunar_phenomenon.txt 1 521 
+indistinct Transient_lunar_phenomenon.txt 1 321 
+result Transient_lunar_phenomenon.txt 2 794 1058 
+and Transient_lunar_phenomenon.txt 20 16 94 125 195 211 284 362 409 426 530 570 582 590 612 854 1030 1103 1106 1134 1174 
+beforehand Transient_lunar_phenomenon.txt 1 1029 
+locations Transient_lunar_phenomenon.txt 2 342 933 
+kepler Transient_lunar_phenomenon.txt 1 410 
+showers Transient_lunar_phenomenon.txt 2 519 553 
+earth-orbiting Transient_lunar_phenomenon.txt 1 852 
+amateur Transient_lunar_phenomenon.txt 1 1015 
+any Transient_lunar_phenomenon.txt 1 686 
+contents Transient_lunar_phenomenon.txt 1 166 
+1968 Transient_lunar_phenomenon.txt 1 165 
+able Transient_lunar_phenomenon.txt 2 661 717 
+majority Transient_lunar_phenomenon.txt 3 86 324 879 
+which Transient_lunar_phenomenon.txt 2 548 1022 
+spectral Transient_lunar_phenomenon.txt 1 1169 
+multiple Transient_lunar_phenomenon.txt 4 79 529 929 932 
+most Transient_lunar_phenomenon.txt 6 114 224 237 355 505 865 
+nasas Transient_lunar_phenomenon.txt 1 571 
+eight Transient_lunar_phenomenon.txt 1 624 
+significant Transient_lunar_phenomenon.txt 2 828 866 
+alpha Transient_lunar_phenomenon.txt 1 381 
+maria Transient_lunar_phenomenon.txt 1 338 
+explosive Transient_lunar_phenomenon.txt 2 438 443 
+observation Transient_lunar_phenomenon.txt 2 286 772 
+km Transient_lunar_phenomenon.txt 1 453 
+1,000 Transient_lunar_phenomenon.txt 1 70 
+subsequent Transient_lunar_phenomenon.txt 1 710 
+obscuration Transient_lunar_phenomenon.txt 1 199 
+planetary Transient_lunar_phenomenon.txt 1 1104 
+atmosphere Transient_lunar_phenomenon.txt 4 642 823 966 1179 
+colorations Transient_lunar_phenomenon.txt 2 202 208 
+phenomenon Transient_lunar_phenomenon.txt 5 2 39 44 90 767 
+show Transient_lunar_phenomenon.txt 1 396 
+probe Transient_lunar_phenomenon.txt 1 569 
+gas-borne Transient_lunar_phenomenon.txt 1 739 
+earth Transient_lunar_phenomenon.txt 7 725 750 770 804 895 935 979 
+re-observe Transient_lunar_phenomenon.txt 1 1112 
+impact Transient_lunar_phenomenon.txt 9 126 280 492 495 520 555 568 573 598 
+slow Transient_lunar_phenomenon.txt 1 425 
+based Transient_lunar_phenomenon.txt 1 6 
+explain Transient_lunar_phenomenon.txt 2 111 1186 
+only Transient_lunar_phenomenon.txt 1 490 
+going Transient_lunar_phenomenon.txt 1 229 
+irreproducible Transient_lunar_phenomenon.txt 1 93 
+employed Transient_lunar_phenomenon.txt 1 819 
+adequate Transient_lunar_phenomenon.txt 1 98 
+astronomical Transient_lunar_phenomenon.txt 4 644 843 1109 1171 
+do Transient_lunar_phenomenon.txt 2 95 128 
+his Transient_lunar_phenomenon.txt 1 150 
+blur Transient_lunar_phenomenon.txt 1 1173 
+famous Transient_lunar_phenomenon.txt 1 258 
+clavius Transient_lunar_phenomenon.txt 1 635 
+report Transient_lunar_phenomenon.txt 1 155 
+during Transient_lunar_phenomenon.txt 3 411 517 1007 
+areas Transient_lunar_phenomenon.txt 1 609 
+following Transient_lunar_phenomenon.txt 2 266 559 
+chronological Transient_lunar_phenomenon.txt 1 157 
+common Transient_lunar_phenomenon.txt 2 356 506 
+activity Transient_lunar_phenomenon.txt 1 348 
+release Transient_lunar_phenomenon.txt 1 468 
+explanations Transient_lunar_phenomenon.txt 3 267 269 847 
+observer Transient_lunar_phenomenon.txt 2 888 1154 
+observed Transient_lunar_phenomenon.txt 3 24 76 973 
+see Transient_lunar_phenomenon.txt 1 1193 
+electrostatic Transient_lunar_phenomenon.txt 5 282 621 655 746 752 
+are Transient_lunar_phenomenon.txt 11 28 33 92 304 351 497 508 549 811 961 1094 
+violet Transient_lunar_phenomenon.txt 1 207 
+catalogs Transient_lunar_phenomenon.txt 1 216 
+geologic Transient_lunar_phenomenon.txt 1 131 
+distinctive Transient_lunar_phenomenon.txt 1 309 
+currently Transient_lunar_phenomenon.txt 1 1095 
+wikipedia Transient_lunar_phenomenon.txt 1 3 
+sites Transient_lunar_phenomenon.txt 2 1047 1113 
+finally Transient_lunar_phenomenon.txt 1 751 
+continually Transient_lunar_phenomenon.txt 1 498 
+3 Transient_lunar_phenomenon.txt 2 203 452 
+between Transient_lunar_phenomenon.txt 1 601 
+neither Transient_lunar_phenomenon.txt 1 1080 
+conditions Transient_lunar_phenomenon.txt 4 287 773 798 1136 
+recently Transient_lunar_phenomenon.txt 1 463 
+however Transient_lunar_phenomenon.txt 3 349 921 1035 
+craters Transient_lunar_phenomenon.txt 3 333 407 599 
+hypothesis Transient_lunar_phenomenon.txt 3 375 952 1086 
+distinguish Transient_lunar_phenomenon.txt 1 106 
+come Transient_lunar_phenomenon.txt 1 245 
+problem Transient_lunar_phenomenon.txt 1 867 
+suggested Transient_lunar_phenomenon.txt 2 448 649 
+both Transient_lunar_phenomenon.txt 2 897 1028 
+tlp Transient_lunar_phenomenon.txt 2 40 1191 
+missions Transient_lunar_phenomenon.txt 1 617 
+many Transient_lunar_phenomenon.txt 2 546 779 
+region Transient_lunar_phenomenon.txt 1 457 
+against Transient_lunar_phenomenon.txt 1 990 
+faces Transient_lunar_phenomenon.txt 1 869 
+among Transient_lunar_phenomenon.txt 1 107 
+volcanic Transient_lunar_phenomenon.txt 1 347 
+appeared Transient_lunar_phenomenon.txt 1 315 
+simply Transient_lunar_phenomenon.txt 1 1146 
+micrometeorites Transient_lunar_phenomenon.txt 1 512 
+two-year Transient_lunar_phenomenon.txt 1 416 
+100 Transient_lunar_phenomenon.txt 1 606 
+eyewitness Transient_lunar_phenomenon.txt 1 926 
+smart-1 Transient_lunar_phenomenon.txt 2 564 613 
+light Transient_lunar_phenomenon.txt 2 49 1175 
+cavities Transient_lunar_phenomenon.txt 1 300 
+absence Transient_lunar_phenomenon.txt 1 924 
+been Transient_lunar_phenomenon.txt 6 75 447 526 619 648 729 
+plateau Transient_lunar_phenomenon.txt 1 252 
+general Transient_lunar_phenomenon.txt 1 1200 
+formed Transient_lunar_phenomenon.txt 1 600 
+gas Transient_lunar_phenomenon.txt 5 296 399 431 467 714 
+1.9 Transient_lunar_phenomenon.txt 1 454 
+observers Transient_lunar_phenomenon.txt 2 930 1105 
+co-authorship Transient_lunar_phenomenon.txt 1 151 
+discernible Transient_lunar_phenomenon.txt 1 1043 
+external Transient_lunar_phenomenon.txt 1 1202 
+foggy Transient_lunar_phenomenon.txt 1 178 
+evidence Transient_lunar_phenomenon.txt 2 917 989 
+present Transient_lunar_phenomenon.txt 1 691 
+atmospheric Transient_lunar_phenomenon.txt 2 992 1168 
+reddish Transient_lunar_phenomenon.txt 2 201 310 
+these Transient_lunar_phenomenon.txt 16 189 240 301 350 418 583 881 940 956 1025 1039 1046 1054 1088 1128 1183 
+reliable Transient_lunar_phenomenon.txt 1 238 
+appearance Transient_lunar_phenomenon.txt 2 54 1126 
+single Transient_lunar_phenomenon.txt 2 887 892 
+will Transient_lunar_phenomenon.txt 1 117 
+while Transient_lunar_phenomenon.txt 1 312 
+error Transient_lunar_phenomenon.txt 2 858 1061 
+have Transient_lunar_phenomenon.txt 3 314 525 618 
+century Transient_lunar_phenomenon.txt 1 234 
+is Transient_lunar_phenomenon.txt 10 46 475 673 776 875 958 1064 1081 1138 1164 
+non-lunar Transient_lunar_phenomenon.txt 1 846 
+it Transient_lunar_phenomenon.txt 8 445 646 727 775 1063 1082 1137 1163 
+geologists Transient_lunar_phenomenon.txt 1 345 
+encountered Transient_lunar_phenomenon.txt 1 516 
+bias Transient_lunar_phenomenon.txt 1 369 
+terminator Transient_lunar_phenomenon.txt 1 758 
+in Transient_lunar_phenomenon.txt 13 29 34 53 136 149 164 276 340 370 393 440 922 1120 
+if Transient_lunar_phenomenon.txt 3 701 967 1182 
+different Transient_lunar_phenomenon.txt 1 976 
+same Transient_lunar_phenomenon.txt 4 908 938 982 1132 
+linked Transient_lunar_phenomenon.txt 1 343 
+potentially Transient_lunar_phenomenon.txt 1 760 
+underground Transient_lunar_phenomenon.txt 1 299 
+products Transient_lunar_phenomenon.txt 1 700 
+several Transient_lunar_phenomenon.txt 1 1017 
+events Transient_lunar_phenomenon.txt 19 25 27 121 141 162 169 228 241 281 303 439 493 496 507 524 574 957 1018 1068 
+status Transient_lunar_phenomenon.txt 1 860 
+visually Transient_lunar_phenomenon.txt 1 427 
+used Transient_lunar_phenomenon.txt 3 104 915 987 
+effect Transient_lunar_phenomenon.txt 2 638 840 
+possible Transient_lunar_phenomenon.txt 4 777 1065 1139 1165 
+viewing Transient_lunar_phenomenon.txt 2 359 850 
+edges Transient_lunar_phenomenon.txt 1 335 
+dust Transient_lunar_phenomenon.txt 2 740 755 
+recent Transient_lunar_phenomenon.txt 2 225 386 
+abnormality Transient_lunar_phenomenon.txt 1 1158 
+nevertheless Transient_lunar_phenomenon.txt 1 84 
+roughly Transient_lunar_phenomenon.txt 1 451 
+analysis Transient_lunar_phenomenon.txt 1 1037 
+materials Transient_lunar_phenomenon.txt 1 683 
+claims Transient_lunar_phenomenon.txt 1 61 
+the Transient_lunar_phenomenon.txt 73 20 31 56 59 85 133 137 142 184 223 232 236 247 250 256 265 271 323 334 354 360 373 378 385 391 403 406 412 424 433 459 470 501 504 560 580 602 632 637 640 667 679 707 709 732 757 787 803 815 818 821 849 864 877 898 907 911 923 937 964 981 998 1008 1033 1070 1085 1099 1107 1121 1125 1131 1153 1189 
+proposed Transient_lunar_phenomenon.txt 1 730 
+being Transient_lunar_phenomenon.txt 1 1096 
+satellites Transient_lunar_phenomenon.txt 1 853 
+reputable Transient_lunar_phenomenon.txt 1 82 
+alternative Transient_lunar_phenomenon.txt 1 108 
+scattering Transient_lunar_phenomenon.txt 1 1176 
+tables Transient_lunar_phenomenon.txt 1 534 
+instance Transient_lunar_phenomenon.txt 1 806 
+regarded Transient_lunar_phenomenon.txt 2 943 1155 
+color Transient_lunar_phenomenon.txt 1 50 
+4 Transient_lunar_phenomenon.txt 1 209 
+extensive Transient_lunar_phenomenon.txt 1 215 
+has Transient_lunar_phenomenon.txt 3 446 647 728 
+photographed Transient_lunar_phenomenon.txt 1 1027 
+showing Transient_lunar_phenomenon.txt 1 636 
+emanating Transient_lunar_phenomenon.txt 1 401 
+judge Transient_lunar_phenomenon.txt 1 1141 
+occurring Transient_lunar_phenomenon.txt 2 499 905 
+particle Transient_lunar_phenomenon.txt 1 382 
+patrick Transient_lunar_phenomenon.txt 2 17 147 
+50 Transient_lunar_phenomenon.txt 1 615 
+either Transient_lunar_phenomenon.txt 2 654 884 
+alternatively Transient_lunar_phenomenon.txt 1 726 
+clementine Transient_lunar_phenomenon.txt 2 603 1009 
+aristarchus Transient_lunar_phenomenon.txt 2 251 408 
+old Transient_lunar_phenomenon.txt 1 483 
+7-20 Transient_lunar_phenomenon.txt 1 610 
+phenomena Transient_lunar_phenomenon.txt 20 65 175 220 263 274 283 488 622 670 722 781 800 810 838 874 904 1003 1092 1117 1184 
+back Transient_lunar_phenomenon.txt 2 67 230 
+images Transient_lunar_phenomenon.txt 3 645 1040 1162 
+for Transient_lunar_phenomenon.txt 9 270 542 664 805 812 902 936 953 1084 
+recorded Transient_lunar_phenomenon.txt 1 537 
+moon Transient_lunar_phenomenon.txt 5 60 361 567 788 912 
+does Transient_lunar_phenomenon.txt 1 1049 
+lunar Transient_lunar_phenomenon.txt 23 1 38 42 64 89 115 161 174 185 219 273 337 379 460 502 633 669 837 873 1071 1091 1102 1116 
+levitation Transient_lunar_phenomenon.txt 1 753 
+be Transient_lunar_phenomenon.txt 18 103 293 329 366 421 478 515 585 660 690 716 784 792 833 914 942 972 986 
+300 Transient_lunar_phenomenon.txt 1 11 
+tlps Transient_lunar_phenomenon.txt 4 12 291 326 862 
+by Transient_lunar_phenomenon.txt 17 13 78 146 295 344 423 436 465 538 587 885 963 1011 1032 1098 1123 1177 
+on Transient_lunar_phenomenon.txt 10 7 55 500 579 643 894 910 934 978 1069 
+about Transient_lunar_phenomenon.txt 1 479 
+actual Transient_lunar_phenomenon.txt 1 836 
+origins Transient_lunar_phenomenon.txt 1 113 
+of Transient_lunar_phenomenon.txt 58 10 23 58 62 87 139 152 159 168 172 183 198 217 235 239 249 255 261 325 336 353 372 388 405 414 430 442 458 472 535 547 562 593 631 639 666 681 735 754 766 795 817 851 861 871 880 900 925 955 1014 1021 1024 1038 1059 1101 1127 1151 1188 
+discussed Transient_lunar_phenomenon.txt 1 947 
+location Transient_lunar_phenomenon.txt 1 893 
+range Transient_lunar_phenomenon.txt 1 176 
+involving Transient_lunar_phenomenon.txt 1 193 
+or Transient_lunar_phenomenon.txt 13 41 51 81 206 319 339 435 657 697 799 856 889 896 
+seeing Transient_lunar_phenomenon.txt 2 844 1172 
+purported Transient_lunar_phenomenon.txt 1 305 
+unfavourable Transient_lunar_phenomenon.txt 2 771 796 
+within Transient_lunar_phenomenon.txt 1 737 
+due Transient_lunar_phenomenon.txt 1 1147 
+lies Transient_lunar_phenomenon.txt 1 135 
+accounts Transient_lunar_phenomenon.txt 1 260 
+determine Transient_lunar_phenomenon.txt 1 1181 
+frames Transient_lunar_phenomenon.txt 1 626 
+support Transient_lunar_phenomenon.txt 2 371 441 
+approximate Transient_lunar_phenomenon.txt 1 21 
+gases Transient_lunar_phenomenon.txt 1 687 
+dispersion Transient_lunar_phenomenon.txt 1 1170 
+earth-based Transient_lunar_phenomenon.txt 1 532 
+was Transient_lunar_phenomenon.txt 4 144 400 462 1005 
+gaseous Transient_lunar_phenomenon.txt 2 192 302 
+libration Transient_lunar_phenomenon.txt 1 1135 
+form Transient_lunar_phenomenon.txt 1 765 
+some Transient_lunar_phenomenon.txt 9 73 290 352 665 764 807 954 1143 1187 
+differences Transient_lunar_phenomenon.txt 1 1044 
+but Transient_lunar_phenomenon.txt 2 790 1079 
+cloud Transient_lunar_phenomenon.txt 1 741 
+solar Transient_lunar_phenomenon.txt 1 695 
+with Transient_lunar_phenomenon.txt 12 72 222 331 346 511 551 786 802 835 944 1001 1160 
+also Transient_lunar_phenomenon.txt 1 1194 
+made Transient_lunar_phenomenon.txt 2 883 1006 
+places Transient_lunar_phenomenon.txt 1 977 
+whether Transient_lunar_phenomenon.txt 1 1142 
+mists Transient_lunar_phenomenon.txt 1 194 
+distribution Transient_lunar_phenomenon.txt 1 22 
+display Transient_lunar_phenomenon.txt 1 307 
+associated Transient_lunar_phenomenon.txt 5 330 510 550 785 801 
+moore Transient_lunar_phenomenon.txt 2 18 148 
+one-third Transient_lunar_phenomenon.txt 1 244 
+an Transient_lunar_phenomenon.txt 7 320 367 839 949 968 991 1157 
+as Transient_lunar_phenomenon.txt 11 123 190 316 513 693 842 916 946 988 1062 1156 
+exist Transient_lunar_phenomenon.txt 2 221 541 
+at Transient_lunar_phenomenon.txt 9 68 242 706 890 906 931 974 980 1045 
+no Transient_lunar_phenomenon.txt 2 597 1042 
+when Transient_lunar_phenomenon.txt 1 358 
+other Transient_lunar_phenomenon.txt 3 196 341 845 
+5 Transient_lunar_phenomenon.txt 1 212 
+meteor Transient_lunar_phenomenon.txt 2 518 552 
+digital Transient_lunar_phenomenon.txt 1 1161 
+time Transient_lunar_phenomenon.txt 3 132 413 983 
+problems Transient_lunar_phenomenon.txt 1 1000 
+discharge Transient_lunar_phenomenon.txt 1 711 
+independently Transient_lunar_phenomenon.txt 1 77 
+individual Transient_lunar_phenomenon.txt 1 625 
+photos Transient_lunar_phenomenon.txt 1 592 
+age Transient_lunar_phenomenon.txt 1 471 
+original Transient_lunar_phenomenon.txt 1 1190 
+near-surface Transient_lunar_phenomenon.txt 1 682 
+nasa Transient_lunar_phenomenon.txt 1 153 
+2005 Transient_lunar_phenomenon.txt 1 545 
+resolution Transient_lunar_phenomenon.txt 4 596 605 614 816 
+having Transient_lunar_phenomenon.txt 1 74 

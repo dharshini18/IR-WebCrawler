@@ -1,0 +1,286 @@
+gw Synchronous_grid_of_Continental_Europe.txt 2 76 88 
+eurasia Synchronous_grid_of_Continental_Europe.txt 1 11 
+all Synchronous_grid_of_Continental_Europe.txt 1 157 
+concept Synchronous_grid_of_Continental_Europe.txt 1 662 
+unified Synchronous_grid_of_Continental_Europe.txt 1 684 
+667 Synchronous_grid_of_Continental_Europe.txt 1 75 
+over Synchronous_grid_of_Continental_Europe.txt 1 60 
+mains Synchronous_grid_of_Continental_Europe.txt 1 54 
+synchronous Synchronous_grid_of_Continental_Europe.txt 11 0 8 16 25 36 128 152 230 271 595 602 
+non-synchronous Synchronous_grid_of_Continental_Europe.txt 1 434 
+connectivity Synchronous_grid_of_Continental_Europe.txt 2 282 291 
+belgium Synchronous_grid_of_Continental_Europe.txt 1 160 
+commissioned Synchronous_grid_of_Continental_Europe.txt 1 572 
+including Synchronous_grid_of_Continental_Europe.txt 1 67 
+armenia Synchronous_grid_of_Continental_Europe.txt 1 675 
+hungary Synchronous_grid_of_Continental_Europe.txt 1 174 
+cyprus Synchronous_grid_of_Continental_Europe.txt 1 553 
+coordination Synchronous_grid_of_Continental_Europe.txt 1 105 
+24 Synchronous_grid_of_Continental_Europe.txt 1 65 
+tso Synchronous_grid_of_Continental_Europe.txt 1 584 
+group Synchronous_grid_of_Continental_Europe.txt 7 141 199 401 468 501 626 655 
+northern Synchronous_grid_of_Continental_Europe.txt 1 461 
+electricity Synchronous_grid_of_Continental_Europe.txt 11 56 109 122 209 336 340 345 350 364 392 530 
+with Synchronous_grid_of_Continental_Europe.txt 16 215 228 244 266 280 374 418 425 437 446 474 482 516 539 558 665 
+lithuania Synchronous_grid_of_Continental_Europe.txt 1 504 
+planning Synchronous_grid_of_Continental_Europe.txt 1 587 
+to Synchronous_grid_of_Continental_Europe.txt 12 82 202 283 292 314 328 390 566 627 640 651 691 
+gotland Synchronous_grid_of_Continental_Europe.txt 1 442 
+production Synchronous_grid_of_Continental_Europe.txt 2 78 351 
+categories Synchronous_grid_of_Continental_Europe.txt 2 703 705 
+400 Synchronous_grid_of_Continental_Europe.txt 1 61 
+2015 Synchronous_grid_of_Continental_Europe.txt 2 259 574 
+republic Synchronous_grid_of_Continental_Europe.txt 1 167 
+hidden Synchronous_grid_of_Continental_Europe.txt 1 704 
+has Synchronous_grid_of_Continental_Europe.txt 4 296 357 430 480 
+norway Synchronous_grid_of_Continental_Europe.txt 1 408 
+irish Synchronous_grid_of_Continental_Europe.txt 1 466 
+customers Synchronous_grid_of_Continental_Europe.txt 1 63 
+handle Synchronous_grid_of_Continental_Europe.txt 1 315 
+increased Synchronous_grid_of_Continental_Europe.txt 1 316 
+10 Synchronous_grid_of_Continental_Europe.txt 2 363 534 
+regional Synchronous_grid_of_Continental_Europe.txt 7 140 198 400 467 500 625 654 
+ucte/entso-e Synchronous_grid_of_Continental_Europe.txt 1 579 
+dc Synchronous_grid_of_Continental_Europe.txt 1 435 
+turkmenistan Synchronous_grid_of_Continental_Europe.txt 1 677 
+were Synchronous_grid_of_Continental_Europe.txt 1 679 
+grid Synchronous_grid_of_Continental_Europe.txt 23 1 17 32 38 57 84 99 129 153 217 226 231 247 261 269 370 441 478 519 543 593 643 694 
+listed Synchronous_grid_of_Continental_Europe.txt 1 297 
+they Synchronous_grid_of_Continental_Europe.txt 1 688 
+not Synchronous_grid_of_Continental_Europe.txt 6 146 372 423 444 471 555 
+world Synchronous_grid_of_Continental_Europe.txt 1 44 
+turkey-iraq Synchronous_grid_of_Continental_Europe.txt 1 657 
+now Synchronous_grid_of_Continental_Europe.txt 1 111 
+projects Synchronous_grid_of_Continental_Europe.txt 2 300 302 
+netherlands Synchronous_grid_of_Continental_Europe.txt 1 180 
+zealand Synchronous_grid_of_Continental_Europe.txt 1 417 
+bosnia Synchronous_grid_of_Continental_Europe.txt 1 161 
+countries Synchronous_grid_of_Continental_Europe.txt 5 66 145 273 285 667 
+edit Synchronous_grid_of_Continental_Europe.txt 7 126 339 367 578 697 699 702 
+denmark Synchronous_grid_of_Continental_Europe.txt 2 168 416 
+level Synchronous_grid_of_Continental_Europe.txt 4 338 347 394 532 
+list Synchronous_grid_of_Continental_Europe.txt 1 334 
+50 Synchronous_grid_of_Continental_Europe.txt 1 52 
+moldova Synchronous_grid_of_Continental_Europe.txt 1 620 
+separately Synchronous_grid_of_Continental_Europe.txt 1 612 
+transmission Synchronous_grid_of_Continental_Europe.txt 3 94 107 118 
+latvia Synchronous_grid_of_Continental_Europe.txt 1 505 
+croatia Synchronous_grid_of_Continental_Europe.txt 1 165 
+mode Synchronous_grid_of_Continental_Europe.txt 1 279 
+switzerland Synchronous_grid_of_Continental_Europe.txt 1 189 
+through Synchronous_grid_of_Continental_Europe.txt 4 248 486 520 544 
+cable Synchronous_grid_of_Continental_Europe.txt 1 527 
+bulgaria Synchronous_grid_of_Continental_Europe.txt 1 164 
+beneficial Synchronous_grid_of_Continental_Europe.txt 1 294 
+albania Synchronous_grid_of_Continental_Europe.txt 1 221 
+grids Synchronous_grid_of_Continental_Europe.txt 4 9 236 309 561 
+czech Synchronous_grid_of_Continental_Europe.txt 1 166 
+companies Synchronous_grid_of_Continental_Europe.txt 1 585 
+national Synchronous_grid_of_Continental_Europe.txt 2 225 308 
+some Synchronous_grid_of_Continental_Europe.txt 2 143 272 
+moyle Synchronous_grid_of_Continental_Europe.txt 1 488 
+connections Synchronous_grid_of_Continental_Europe.txt 1 436 
+see Synchronous_grid_of_Continental_Europe.txt 1 695 
+frequency Synchronous_grid_of_Continental_Europe.txt 3 55 378 596 
+are Synchronous_grid_of_Continental_Europe.txt 8 242 327 537 554 586 598 649 689 
+greece Synchronous_grid_of_Continental_Europe.txt 1 173 
+eu Synchronous_grid_of_Continental_Europe.txt 2 333 356 
+option Synchronous_grid_of_Continental_Europe.txt 1 616 
+80 Synchronous_grid_of_Continental_Europe.txt 1 87 
+composed Synchronous_grid_of_Continental_Europe.txt 2 406 502 
+possibilities Synchronous_grid_of_Continental_Europe.txt 1 648 
+lithuaniapoland Synchronous_grid_of_Continental_Europe.txt 1 546 
+capacity Synchronous_grid_of_Continental_Europe.txt 2 79 352 
+network Synchronous_grid_of_Continental_Europe.txt 3 116 485 496 
+for Synchronous_grid_of_Continental_Europe.txt 3 103 121 663 
+currently Synchronous_grid_of_Continental_Europe.txt 2 508 687 
+wikipedia Synchronous_grid_of_Continental_Europe.txt 1 5 
+sweden Synchronous_grid_of_Continental_Europe.txt 1 409 
+luxembourg Synchronous_grid_of_Continental_Europe.txt 1 176 
+networks Synchronous_grid_of_Continental_Europe.txt 6 366 457 549 610 631 678 
+35 Synchronous_grid_of_Continental_Europe.txt 1 567 
+cross-channel Synchronous_grid_of_Continental_Europe.txt 1 386 
+supplies Synchronous_grid_of_Continental_Europe.txt 1 59 
+installed Synchronous_grid_of_Continental_Europe.txt 1 349 
+common Synchronous_grid_of_Continental_Europe.txt 1 304 
+europe Synchronous_grid_of_Continental_Europe.txt 14 4 20 132 139 197 220 234 377 428 440 477 542 607 646 
+be Synchronous_grid_of_Continental_Europe.txt 3 293 312 329 
+iran Synchronous_grid_of_Continental_Europe.txt 1 693 
+power Synchronous_grid_of_Continental_Europe.txt 2 41 317 
+baltics Synchronous_grid_of_Continental_Europe.txt 1 536 
+million Synchronous_grid_of_Continental_Europe.txt 1 62 
+however Synchronous_grid_of_Continental_Europe.txt 1 306 
+free Synchronous_grid_of_Continental_Europe.txt 1 324 
+hvdc Synchronous_grid_of_Continental_Europe.txt 2 385 455 
+small Synchronous_grid_of_Continental_Europe.txt 1 207 
+operating Synchronous_grid_of_Continental_Europe.txt 3 90 97 223 
+members Synchronous_grid_of_Continental_Europe.txt 2 192 205 
+disconnect Synchronous_grid_of_Continental_Europe.txt 1 628 
+by Synchronous_grid_of_Continental_Europe.txt 2 39 454 
+nordel Synchronous_grid_of_Continental_Europe.txt 1 405 
+ukraine Synchronous_grid_of_Continental_Europe.txt 2 212 618 
+on Synchronous_grid_of_Continental_Europe.txt 1 600 
+britned Synchronous_grid_of_Continental_Europe.txt 1 389 
+mainland Synchronous_grid_of_Continental_Europe.txt 1 449 
+extension Synchronous_grid_of_Continental_Europe.txt 2 576 650 
+slovenia Synchronous_grid_of_Continental_Europe.txt 1 186 
+involved Synchronous_grid_of_Continental_Europe.txt 1 147 
+region Synchronous_grid_of_Continental_Europe.txt 1 14 
+similarly Synchronous_grid_of_Continental_Europe.txt 2 397 494 
+macedonia Synchronous_grid_of_Continental_Europe.txt 1 177 
+eil Synchronous_grid_of_Continental_Europe.txt 1 344 
+addition Synchronous_grid_of_Continental_Europe.txt 1 201 
+connection Synchronous_grid_of_Continental_Europe.txt 1 603 
+extensions Synchronous_grid_of_Continental_Europe.txt 1 590 
+estonia Synchronous_grid_of_Continental_Europe.txt 1 507 
+estlink Synchronous_grid_of_Continental_Europe.txt 1 522 
+germany Synchronous_grid_of_Continental_Europe.txt 1 172 
+interconnecting Synchronous_grid_of_Continental_Europe.txt 1 638 
+studies Synchronous_grid_of_Continental_Europe.txt 1 597 
+or Synchronous_grid_of_Continental_Europe.txt 1 156 
+upgraded Synchronous_grid_of_Continental_Europe.txt 1 313 
+romania Synchronous_grid_of_Continental_Europe.txt 1 183 
+via Synchronous_grid_of_Continental_Europe.txt 2 383 568 
+although Synchronous_grid_of_Continental_Europe.txt 1 270 
+formerly Synchronous_grid_of_Continental_Europe.txt 1 27 
+tunisia Synchronous_grid_of_Continental_Europe.txt 1 241 
+nordbalt Synchronous_grid_of_Continental_Europe.txt 1 526 
+phase-locked Synchronous_grid_of_Continental_Europe.txt 1 51 
+number Synchronous_grid_of_Continental_Europe.txt 1 432 
+austria Synchronous_grid_of_Continental_Europe.txt 1 159 
+bornholm Synchronous_grid_of_Continental_Europe.txt 1 421 
+references Synchronous_grid_of_Continental_Europe.txt 1 698 
+least Synchronous_grid_of_Continental_Europe.txt 1 362 
+another Synchronous_grid_of_Continental_Europe.txt 1 615 
+considers Synchronous_grid_of_Continental_Europe.txt 1 289 
+market Synchronous_grid_of_Continental_Europe.txt 1 326 
+synchronously Synchronous_grid_of_Continental_Europe.txt 2 227 637 
+turkey Synchronous_grid_of_Continental_Europe.txt 1 263 
+east Synchronous_grid_of_Continental_Europe.txt 1 671 
+from Synchronous_grid_of_Continental_Europe.txt 1 632 
+synchronized Synchronous_grid_of_Continental_Europe.txt 7 214 243 265 373 424 445 642 
+area Synchronous_grid_of_Continental_Europe.txt 2 26 125 
+union Synchronous_grid_of_Continental_Europe.txt 2 72 102 
+west Synchronous_grid_of_Continental_Europe.txt 1 208 
+there Synchronous_grid_of_Continental_Europe.txt 1 613 
+system Synchronous_grid_of_Continental_Europe.txt 5 95 119 513 635 685 
+approximately Synchronous_grid_of_Continental_Europe.txt 1 86 
+france Synchronous_grid_of_Continental_Europe.txt 1 171 
+continental Synchronous_grid_of_Continental_Europe.txt 14 3 19 24 131 138 196 219 233 376 427 439 476 541 606 
+commission Synchronous_grid_of_Continental_Europe.txt 1 288 
+2 Synchronous_grid_of_Continental_Europe.txt 1 611 
+slovakia Synchronous_grid_of_Continental_Europe.txt 1 185 
+gibraltar Synchronous_grid_of_Continental_Europe.txt 1 250 
+interest Synchronous_grid_of_Continental_Europe.txt 1 305 
+6 Synchronous_grid_of_Continental_Europe.txt 1 396 
+percentage Synchronous_grid_of_Continental_Europe.txt 1 343 
+territory Synchronous_grid_of_Continental_Europe.txt 1 134 
+was Synchronous_grid_of_Continental_Europe.txt 2 80 264 
+energy Synchronous_grid_of_Continental_Europe.txt 1 325 
+low Synchronous_grid_of_Continental_Europe.txt 1 281 
+hz Synchronous_grid_of_Continental_Europe.txt 1 53 
+british Synchronous_grid_of_Continental_Europe.txt 2 369 484 
+only Synchronous_grid_of_Continental_Europe.txt 1 629 
+corresponding Synchronous_grid_of_Continental_Europe.txt 1 582 
+ireland Synchronous_grid_of_Continental_Europe.txt 2 459 462 
+algeria Synchronous_grid_of_Continental_Europe.txt 1 239 
+that Synchronous_grid_of_Continental_Europe.txt 1 58 
+mediterranean Synchronous_grid_of_Continental_Europe.txt 1 13 
+operators Synchronous_grid_of_Continental_Europe.txt 2 96 120 
+formed Synchronous_grid_of_Continental_Europe.txt 1 100 
+montenegro Synchronous_grid_of_Continental_Europe.txt 1 178 
+further Synchronous_grid_of_Continental_Europe.txt 1 647 
+but Synchronous_grid_of_Continental_Europe.txt 4 379 429 479 686 
+part Synchronous_grid_of_Continental_Europe.txt 6 112 155 170 414 509 680 
+link Synchronous_grid_of_Continental_Europe.txt 2 252 387 
+western Synchronous_grid_of_Continental_Europe.txt 1 169 
+2014 Synchronous_grid_of_Continental_Europe.txt 1 354 
+known Synchronous_grid_of_Continental_Europe.txt 2 22 28 
+central Synchronous_grid_of_Continental_Europe.txt 1 645 
+an Synchronous_grid_of_Continental_Europe.txt 2 391 529 
+entso-e Synchronous_grid_of_Continental_Europe.txt 9 123 137 150 195 204 403 465 498 623 
+former Synchronous_grid_of_Continental_Europe.txt 1 404 
+spain Synchronous_grid_of_Continental_Europe.txt 1 187 
+must Synchronous_grid_of_Continental_Europe.txt 1 310 
+ucte Synchronous_grid_of_Continental_Europe.txt 2 31 110 
+made Synchronous_grid_of_Continental_Europe.txt 1 599 
+external Synchronous_grid_of_Continental_Europe.txt 1 700 
+this Synchronous_grid_of_Continental_Europe.txt 1 98 
+ips/ups Synchronous_grid_of_Continental_Europe.txt 3 512 609 634 
+islands Synchronous_grid_of_Continental_Europe.txt 1 419 
+single Synchronous_grid_of_Continental_Europe.txt 1 50 
+malta-sicily Synchronous_grid_of_Continental_Europe.txt 1 570 
+morocco Synchronous_grid_of_Continental_Europe.txt 1 238 
+near Synchronous_grid_of_Continental_Europe.txt 1 277 
+future Synchronous_grid_of_Continental_Europe.txt 1 575 
+values Synchronous_grid_of_Continental_Europe.txt 1 321 
+of Synchronous_grid_of_Continental_Europe.txt 38 2 7 18 69 77 89 106 108 113 117 130 135 158 193 211 218 232 237 262 303 322 335 348 360 395 402 407 415 433 458 497 503 510 533 550 591 644 681 
+following Synchronous_grid_of_Continental_Europe.txt 1 589 
+providing Synchronous_grid_of_Continental_Europe.txt 1 85 
+margin Synchronous_grid_of_Continental_Europe.txt 1 92 
+interconnected Synchronous_grid_of_Continental_Europe.txt 4 47 473 515 557 
+and Synchronous_grid_of_Continental_Europe.txt 23 12 142 162 188 240 253 295 388 411 420 460 490 506 524 552 580 594 608 619 621 636 659 676 
+ac Synchronous_grid_of_Continental_Europe.txt 1 251 
+finland Synchronous_grid_of_Continental_Europe.txt 1 410 
+portugal Synchronous_grid_of_Continental_Europe.txt 1 182 
+up Synchronous_grid_of_Continental_Europe.txt 1 565 
+past Synchronous_grid_of_Continental_Europe.txt 1 674 
+is Synchronous_grid_of_Continental_Europe.txt 13 33 46 213 222 371 381 422 443 452 470 514 563 614 
+herzegovina Synchronous_grid_of_Continental_Europe.txt 1 163 
+it Synchronous_grid_of_Continental_Europe.txt 3 45 380 451 
+covers Synchronous_grid_of_Continental_Europe.txt 1 133 
+inter-connected Synchronous_grid_of_Continental_Europe.txt 1 382 
+high Synchronous_grid_of_Continental_Europe.txt 1 290 
+middle Synchronous_grid_of_Continental_Europe.txt 1 670 
+as Synchronous_grid_of_Continental_Europe.txt 7 23 29 48 190 301 342 450 
+at Synchronous_grid_of_Continental_Europe.txt 2 361 528 
+in Synchronous_grid_of_Continental_Europe.txt 13 10 42 64 73 148 200 257 275 331 353 573 668 672 
+serbia Synchronous_grid_of_Continental_Europe.txt 1 184 
+yet Synchronous_grid_of_Continental_Europe.txt 2 472 556 
+contents Synchronous_grid_of_Continental_Europe.txt 1 124 
+if Synchronous_grid_of_Continental_Europe.txt 1 319 
+swedish Synchronous_grid_of_Continental_Europe.txt 1 448 
+these Synchronous_grid_of_Continental_Europe.txt 1 630 
+baltic Synchronous_grid_of_Continental_Europe.txt 2 499 624 
+italy Synchronous_grid_of_Continental_Europe.txt 1 175 
+form Synchronous_grid_of_Continental_Europe.txt 2 254 463 
+april Synchronous_grid_of_Continental_Europe.txt 1 258 
+cables Synchronous_grid_of_Continental_Europe.txt 1 523 
+eastern Synchronous_grid_of_Continental_Europe.txt 1 413 
+links Synchronous_grid_of_Continental_Europe.txt 1 701 
+malta Synchronous_grid_of_Continental_Europe.txt 1 562 
+also Synchronous_grid_of_Continental_Europe.txt 3 21 311 696 
+other Synchronous_grid_of_Continental_Europe.txt 3 284 560 666 
+electrical Synchronous_grid_of_Continental_Europe.txt 1 37 
+interconnection Synchronous_grid_of_Continental_Europe.txt 10 299 337 341 346 393 481 531 547 658 664 
+which Synchronous_grid_of_Continental_Europe.txt 1 469 
+largest Synchronous_grid_of_Continental_Europe.txt 1 35 
+eastwest Synchronous_grid_of_Continental_Europe.txt 1 492 
+several Synchronous_grid_of_Continental_Europe.txt 1 298 
+concerning Synchronous_grid_of_Continental_Europe.txt 1 617 
+european Synchronous_grid_of_Continental_Europe.txt 5 71 115 246 268 287 
+map Synchronous_grid_of_Continental_Europe.txt 1 6 
+plans Synchronous_grid_of_Continental_Europe.txt 1 577 
+iceland Synchronous_grid_of_Continental_Europe.txt 1 551 
+island Synchronous_grid_of_Continental_Europe.txt 3 210 278 365 
+them Synchronous_grid_of_Continental_Europe.txt 1 639 
+flows Synchronous_grid_of_Continental_Europe.txt 1 318 
+includes Synchronous_grid_of_Continental_Europe.txt 1 154 
+most Synchronous_grid_of_Continental_Europe.txt 1 68 
+connected Synchronous_grid_of_Continental_Europe.txt 6 40 81 453 538 564 690 
+realised Synchronous_grid_of_Continental_Europe.txt 1 330 
+between Synchronous_grid_of_Continental_Europe.txt 1 604 
+goal Synchronous_grid_of_Continental_Europe.txt 1 359 
+a Synchronous_grid_of_Continental_Europe.txt 6 49 191 276 323 358 431 
+operate Synchronous_grid_of_Continental_Europe.txt 1 274 
+neighboring Synchronous_grid_of_Continental_Europe.txt 1 144 
+poland Synchronous_grid_of_Continental_Europe.txt 1 181 
+swmb Synchronous_grid_of_Continental_Europe.txt 1 256 
+nordic Synchronous_grid_of_Continental_Europe.txt 3 399 518 653 
+desertec Synchronous_grid_of_Continental_Europe.txt 1 661 
+partner Synchronous_grid_of_Continental_Europe.txt 1 583 
+interconnector Synchronous_grid_of_Continental_Europe.txt 3 489 493 571 
+the Synchronous_grid_of_Continental_Europe.txt 72 15 30 34 43 70 83 93 101 104 114 127 136 149 151 179 194 203 206 216 224 229 235 245 249 255 260 267 286 307 320 332 355 368 375 384 398 412 426 438 447 456 464 475 483 487 491 495 511 517 521 525 535 540 545 548 559 569 581 588 592 601 605 622 633 641 652 656 660 669 673 682 692 
+2009 Synchronous_grid_of_Continental_Europe.txt 1 74 
+soviet Synchronous_grid_of_Continental_Europe.txt 1 683 
+reserve Synchronous_grid_of_Continental_Europe.txt 1 91 

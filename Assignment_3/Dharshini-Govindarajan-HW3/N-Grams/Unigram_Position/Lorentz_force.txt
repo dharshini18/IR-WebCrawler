@@ -1,0 +1,917 @@
+all Lorentz_force.txt 5 224 1202 2313 2704 3176 
+current-carrying Lorentz_force.txt 5 66 447 2176 2183 2367 
+chain Lorentz_force.txt 1 3303 
+depends Lorentz_force.txt 1 3400 
+magnetic Lorentz_force.txt 49 17 46 62 82 209 241 374 391 431 451 525 535 785 903 1017 1041 1097 1168 1231 1239 1382 1454 1491 1580 1604 1618 1712 1958 2018 2187 2201 2384 2398 2430 2433 2511 2555 2593 2664 2683 2691 3004 3043 3058 3209 3269 3675 3707 3811 
+results Lorentz_force.txt 3 2248 2958 3617 
+four Lorentz_force.txt 1 2527 
+scalar Lorentz_force.txt 2 3224 3274 
+concept Lorentz_force.txt 1 1235 
+computation Lorentz_force.txt 1 1846 
+follow Lorentz_force.txt 1 411 
+conservative Lorentz_force.txt 2 3206 3417 
+contributions Lorentz_force.txt 1 1480 
+causes Lorentz_force.txt 1 2122 
+whose Lorentz_force.txt 2 2261 2269 
+bremsstrahlung Lorentz_force.txt 1 2130 
+bivector Lorentz_force.txt 2 3741 3869 
+to Lorentz_force.txt 73 24 123 202 300 312 327 338 377 386 423 494 516 530 540 571 664 676 714 731 749 805 897 994 1036 1052 1078 1147 1184 1257 1277 1296 1313 1326 1328 1379 1429 1481 1518 1565 1709 1767 1789 1803 1830 1857 1874 1963 1971 2031 2046 2072 2303 2456 2464 2489 2579 2610 2628 2731 2804 2869 3024 3081 3098 3159 3229 3300 3556 3572 3657 3762 3804 4016 
+charge Lorentz_force.txt 34 22 30 168 195 547 559 561 576 591 612 615 634 653 655 669 689 778 811 841 867 1010 1672 1730 1752 1793 1802 2036 2043 2076 2081 2104 3345 3509 3919 
+under Lorentz_force.txt 1 1012 
+lord Lorentz_force.txt 1 1264 
+include Lorentz_force.txt 1 2162 
+heavisides Lorentz_force.txt 1 1528 
+electrohydrodynamics Lorentz_force.txt 1 1902 
+case Lorentz_force.txt 2 2251 2484 
+orthogonal Lorentz_force.txt 1 2730 
+rise Lorentz_force.txt 1 1708 
+choice Lorentz_force.txt 1 3831 
+electron Lorentz_force.txt 2 1049 1628 
+application Lorentz_force.txt 2 2356 3027 
+categories Lorentz_force.txt 2 4024 4026 
+entire Lorentz_force.txt 3 1760 1907 3153 
+thomsons Lorentz_force.txt 1 1444 
+experiencing Lorentz_force.txt 1 1072 
+cavendish Lorentz_force.txt 1 1113 
+michael Lorentz_force.txt 1 1247 
+occurs Lorentz_force.txt 2 3977 3998 
+magnet Lorentz_force.txt 1 900 
+p Lorentz_force.txt 3 868 3518 3660 
+vector Lorentz_force.txt 21 221 265 305 704 729 1424 1998 2260 2614 2713 2853 3270 3463 3573 3749 3779 3782 3806 3813 3826 3872 
+guiding Lorentz_force.txt 2 1572 1651 
+small Lorentz_force.txt 2 608 630 
+greenkubo Lorentz_force.txt 1 1920 
+div Lorentz_force.txt 1 2955 
+shows Lorentz_force.txt 1 3829 
+inertial Lorentz_force.txt 1 2608 
+slow Lorentz_force.txt 1 1656 
+force Lorentz_force.txt 110 1 10 18 51 63 71 74 93 112 119 161 187 254 364 375 383 392 397 401 420 429 432 437 442 462 465 468 536 551 597 605 644 646 682 753 807 830 859 891 1075 1083 1095 1196 1206 1255 1292 1374 1455 1476 1484 1554 1568 1585 1596 1689 1716 1724 1740 1827 1928 1947 1968 2033 2049 2059 2096 2146 2160 2172 2173 2215 2223 2231 2236 2293 2321 2337 2361 2380 2393 2399 2407 2413 2492 2499 2636 2644 2674 2785 2796 3032 3240 3289 3327 3366 3393 3409 3470 3477 3506 3583 3607 3651 3666 3692 3856 3898 3976 3988 3997 
+version Lorentz_force.txt 2 1529 2894 
+dealing Lorentz_force.txt 1 1911 
+direct Lorentz_force.txt 1 2140 
+many-body Lorentz_force.txt 1 1925 
+rate Lorentz_force.txt 3 483 506 2551 
+ampre Lorentz_force.txt 1 1178 
+traveling Lorentz_force.txt 1 101 
+manipulating Lorentz_force.txt 1 699 
+dynamics Lorentz_force.txt 2 1901 3354 
+theory Lorentz_force.txt 3 1926 2570 3906 
+subscripts Lorentz_force.txt 1 982 
+lenzs Lorentz_force.txt 1 2743 
+what Lorentz_force.txt 2 415 2032 
+apparatus Lorentz_force.txt 1 1909 
+pseudo-euclidean Lorentz_force.txt 1 3734 
+fingers Lorentz_force.txt 1 320 
+uniform Lorentz_force.txt 1 3136 
+current Lorentz_force.txt 14 567 661 844 879 1176 1199 1406 1795 2196 2211 2244 2281 2330 3992 
+collecting Lorentz_force.txt 1 3619 
+experiment Lorentz_force.txt 1 1151 
+poles Lorentz_force.txt 1 1098 
+above Lorentz_force.txt 5 2238 2887 3313 3384 3892 
+pulls Lorentz_force.txt 1 3780 
+net Lorentz_force.txt 3 2159 2320 2336 
+temperatures Lorentz_force.txt 1 1676 
+full Lorentz_force.txt 1 1260 
+clerk Lorentz_force.txt 2 141 1268 
+henry Lorentz_force.txt 1 1112 
+component Lorentz_force.txt 5 433 2403 3168 3578 3580 
+here Lorentz_force.txt 1 2908 
+objects Lorentz_force.txt 4 1110 1217 1319 1346 
+let Lorentz_force.txt 1 2809 
+separation Lorentz_force.txt 1 1684 
+others Lorentz_force.txt 2 1104 2383 
+directions Lorentz_force.txt 1 3614 
+path Lorentz_force.txt 3 1050 2838 3430 
+along Lorentz_force.txt 4 1047 2272 3461 3936 
+invented Lorentz_force.txt 1 1421 
+equations Lorentz_force.txt 18 697 1286 1311 1333 1432 1522 1533 1695 1777 1870 1895 2530 2782 2800 2906 3255 3387 3622 
+appears Lorentz_force.txt 1 2901 
+change Lorentz_force.txt 7 2553 2622 3064 3089 3109 3157 3190 
+deduced Lorentz_force.txt 1 2788 
+obtained Lorentz_force.txt 1 3396 
+stellar Lorentz_force.txt 1 1904 
+andr-marie Lorentz_force.txt 1 1177 
+involved Lorentz_force.txt 1 1218 
+vectors Lorentz_force.txt 1 228 
+commonly Lorentz_force.txt 1 121 
+rsted Lorentz_force.txt 1 1165 
+amount Lorentz_force.txt 1 776 
+repel Lorentz_force.txt 1 2372 
+resulting Lorentz_force.txt 2 1678 2513 
+definitively Lorentz_force.txt 1 1148 
+published Lorentz_force.txt 1 1365 
+usually Lorentz_force.txt 1 2342 
+proof Lorentz_force.txt 1 1126 
+changes Lorentz_force.txt 2 3094 3822 
+coordinate Lorentz_force.txt 1 3629 
+via Lorentz_force.txt 1 1791 
+regardless Lorentz_force.txt 1 2039 
+grad Lorentz_force.txt 1 1606 
+extra Lorentz_force.txt 2 3444 3451 
+four-velocity Lorentz_force.txt 1 3600 
+namely Lorentz_force.txt 1 2546 
+explained Lorentz_force.txt 1 2880 
+sign Lorentz_force.txt 3 2736 2867 2873 
+motor Lorentz_force.txt 1 2778 
+translational Lorentz_force.txt 1 3789 
+apply Lorentz_force.txt 1 1519 
+total Lorentz_force.txt 7 395 428 681 840 843 1483 3306 
+unit Lorentz_force.txt 7 553 648 657 755 797 800 991 
+experimentation Lorentz_force.txt 1 1187 
+use Lorentz_force.txt 2 920 3025 
+from Lorentz_force.txt 13 490 512 997 1270 1330 1485 1782 2170 2381 2606 2762 3699 3787 
+would Lorentz_force.txt 3 2037 2082 2092 
+0 Lorentz_force.txt 1 2957 
+covariant Lorentz_force.txt 8 814 3472 3484 3515 3539 3590 3599 3965 
+positive Lorentz_force.txt 1 1007 
+coupled Lorentz_force.txt 2 1766 1788 
+negative Lorentz_force.txt 1 1009 
+next Lorentz_force.txt 1 659 
+few Lorentz_force.txt 1 150 
+therefore Lorentz_force.txt 1 250 
+h Lorentz_force.txt 2 1163 1607 
+taken Lorentz_force.txt 1 3935 
+type Lorentz_force.txt 1 3727 
+theoretical Lorentz_force.txt 1 942 
+more Lorentz_force.txt 3 820 939 2387 
+formally Lorentz_force.txt 1 2318 
+ambiguity Lorentz_force.txt 1 2868 
+conductor Lorentz_force.txt 2 2425 3995 
+becomes Lorentz_force.txt 2 599 3290 
+freedom Lorentz_force.txt 1 3760 
+carrying Lorentz_force.txt 2 2193 2327 
+everywhere Lorentz_force.txt 1 2024 
+cases Lorentz_force.txt 4 1123 1610 3015 3178 
+aligned Lorentz_force.txt 1 2275 
+helmholtz Lorentz_force.txt 1 3257 
+dot Lorentz_force.txt 2 3775 3874 
+must Lorentz_force.txt 2 1871 2161 
+rotational Lorentz_force.txt 1 3235 
+f Lorentz_force.txt 9 162 188 355 555 602 641 1597 3530 3593 
+this Lorentz_force.txt 27 57 407 412 621 629 706 722 787 887 955 1068 1153 1659 1977 2301 2333 2358 2446 2457 2483 2560 2582 2747 2967 3646 3713 3996 
+equation Lorentz_force.txt 23 155 598 622 678 710 788 912 956 1293 1887 1891 2247 2500 2523 2545 2911 2914 2933 2965 3197 3389 3910 3941 
+created Lorentz_force.txt 1 2507 
+arclength Lorentz_force.txt 1 3427 
+theories Lorentz_force.txt 1 1245 
+infinitesimal Lorentz_force.txt 4 2305 2712 2724 2852 
+can Lorentz_force.txt 24 255 711 723 892 1634 2219 2296 2369 2621 2786 2801 2889 2916 3063 3156 3264 3315 3320 3394 3511 3694 3714 3885 3942 
+v Lorentz_force.txt 10 35 174 200 306 333 369 1992 1993 2401 2823 
+following Lorentz_force.txt 3 968 1974 2246 
+arrive Lorentz_force.txt 1 3644 
+miscalculations Lorentz_force.txt 1 1398 
+example Lorentz_force.txt 7 1069 1884 1897 1919 2129 3069 3125 
+history Lorentz_force.txt 1 999 
+space-space Lorentz_force.txt 1 3772 
+dual Lorentz_force.txt 1 3803 
+links Lorentz_force.txt 1 4022 
+give Lorentz_force.txt 1 1707 
+process Lorentz_force.txt 1 2996 
+relativistic Lorentz_force.txt 7 107 3419 3426 3465 3663 3687 3815 
+near Lorentz_force.txt 1 102 
+states Lorentz_force.txt 2 1673 2670 
+lorentz Lorentz_force.txt 58 0 9 111 118 144 160 253 382 419 436 464 550 596 752 829 858 890 1074 1291 1465 1493 1506 1544 1567 1688 1715 1739 1805 1826 1927 1946 1967 2058 2214 2235 2379 2406 2498 2635 2643 2784 2795 3031 3239 3326 3392 3469 3476 3505 3550 3568 3640 3650 3665 3691 3855 3897 3975 
+sought Lorentz_force.txt 1 1517 
+attract Lorentz_force.txt 1 2370 
+species Lorentz_force.txt 1 1668 
+information Lorentz_force.txt 1 2388 
+rays Lorentz_force.txt 1 1363 
+scale-factor Lorentz_force.txt 1 1410 
+rather Lorentz_force.txt 3 773 1224 3363 
+divided Lorentz_force.txt 1 624 
+acts Lorentz_force.txt 1 444 
+occur Lorentz_force.txt 1 2136 
+write Lorentz_force.txt 1 750 
+how Lorentz_force.txt 3 1309 1697 2365 
+varies Lorentz_force.txt 3 584 3074 3212 
+significance Lorentz_force.txt 1 1685 
+simplifies Lorentz_force.txt 1 3299 
+instead Lorentz_force.txt 2 946 1505 
+circular Lorentz_force.txt 1 1644 
+product Lorentz_force.txt 4 223 3298 3776 3875 
+description Lorentz_force.txt 2 1262 1402 
+algebra Lorentz_force.txt 6 3669 3719 3723 3730 3786 3800 
+may Lorentz_force.txt 1 1664 
+after Lorentz_force.txt 2 152 1157 
+derived Lorentz_force.txt 3 145 1386 1466 
+treatments Lorentz_force.txt 1 1941 
+applications Lorentz_force.txt 1 3972 
+plane Lorentz_force.txt 1 3744 
+1889 Lorentz_force.txt 2 127 1438 
+electromotive Lorentz_force.txt 3 73 2412 2673 
+such Lorentz_force.txt 2 1625 1754 
+1885 Lorentz_force.txt 1 1436 
+law Lorentz_force.txt 28 88 1119 1555 1717 1741 1806 1929 1948 2237 2362 2394 2563 2639 2654 2667 2744 2764 2808 2897 2937 2978 3018 3033 3040 3180 3652 3693 3857 
+response Lorentz_force.txt 2 1798 1880 
+1881 Lorentz_force.txt 1 1369 
+a Lorentz_force.txt 115 20 27 45 50 65 76 81 95 149 164 191 277 280 446 450 467 557 589 607 770 810 832 898 1003 1006 1016 1033 1040 1062 1142 1167 1174 1271 1287 1338 1366 1412 1457 1508 1524 1535 1578 1582 1617 1632 1641 1647 1654 1727 1750 1800 1843 1851 2034 2042 2051 2062 2067 2111 2139 2175 2182 2186 2191 2200 2221 2253 2259 2323 2328 2378 2424 2429 2629 2647 2658 2663 2695 2709 2753 2759 2771 2777 2864 2866 3082 3105 3119 3123 3127 3135 3223 3272 3309 3338 3377 3453 3462 3508 3557 3700 3726 3733 3739 3748 3781 3795 3805 3824 3868 3871 3879 3914 3922 3994 
+stress Lorentz_force.txt 1 718 
+attempt Lorentz_force.txt 1 1327 
+third Lorentz_force.txt 1 3124 
+light Lorentz_force.txt 6 106 764 953 1044 1987 2133 
+lines Lorentz_force.txt 1 1253 
+yielding Lorentz_force.txt 1 3893 
+or Lorentz_force.txt 17 1008 1629 1675 1682 1703 1888 1892 2371 2414 2625 2632 2991 2994 3010 3022 3720 3960 
+q Lorentz_force.txt 11 31 169 196 358 368 1011 1731 2400 2493 3346 3510 
+accelerated Lorentz_force.txt 1 286 
+infinitesimally-small Lorentz_force.txt 1 2078 
+so Lorentz_force.txt 9 672 1995 2927 3311 3407 3413 3618 3642 3685 
+definitions Lorentz_force.txt 1 379 
+order Lorentz_force.txt 1 3863 
+responsible Lorentz_force.txt 1 2409 
+holds Lorentz_force.txt 2 2981 3001 
+developed Lorentz_force.txt 1 1916 
+over Lorentz_force.txt 1 687 
+move Lorentz_force.txt 1 2476 
+vary Lorentz_force.txt 1 181 
+soon Lorentz_force.txt 1 1156 
+years Lorentz_force.txt 1 151 
+held Lorentz_force.txt 1 3147 
+paper Lorentz_force.txt 2 138 1367 
+through Lorentz_force.txt 10 80 1150 1186 2137 2428 2557 2685 3054 3134 3717 
+looks Lorentz_force.txt 1 957 
+oriented Lorentz_force.txt 2 3743 3752 
+radiation Lorentz_force.txt 2 2120 2144 
+its Lorentz_force.txt 6 780 2084 2125 3234 3361 3983 
+boosts Lorentz_force.txt 1 3763 
+chemical Lorentz_force.txt 1 1683 
+emits Lorentz_force.txt 1 2119 
+derive Lorentz_force.txt 3 715 1329 2805 
+thumb Lorentz_force.txt 1 348 
+masses Lorentz_force.txt 1 1674 
+relativity Lorentz_force.txt 6 741 2572 3901 3908 3959 3969 
+complex Lorentz_force.txt 1 1868 
+hendrik Lorentz_force.txt 2 143 1464 
+four-momentum Lorentz_force.txt 1 3521 
+permanent Lorentz_force.txt 1 899 
+microscopic Lorentz_force.txt 1 1525 
+derivative Lorentz_force.txt 2 279 3307 
+hidden Lorentz_force.txt 1 4025 
+main Lorentz_force.txt 3 1570 2651 3482 
+might Lorentz_force.txt 1 99 
+alter Lorentz_force.txt 1 2093 
+macroscopic Lorentz_force.txt 1 2222 
+then Lorentz_force.txt 4 336 345 2310 3183 
+them Lorentz_force.txt 2 1223 1790 
+wedge-product Lorentz_force.txt 1 3793 
+motivated Lorentz_force.txt 1 2575 
+combination Lorentz_force.txt 1 13 
+cgs-gaussian Lorentz_force.txt 1 934 
+gets Lorentz_force.txt 1 3456 
+rotations Lorentz_force.txt 3 3764 3769 3770 
+practice Lorentz_force.txt 1 980 
+conductors Lorentz_force.txt 1 2479 
+obeyed Lorentz_force.txt 1 1116 
+effects Lorentz_force.txt 3 2135 2347 2587 
+they Lorentz_force.txt 1 2218 
+half Lorentz_force.txt 1 1413 
+not Lorentz_force.txt 16 410 528 1134 1307 1758 1779 1854 2288 2352 2481 2751 2946 3217 3227 3237 3416 
+rotation Lorentz_force.txt 1 2818 
+now Lorentz_force.txt 1 1557 
+maxwellian Lorentz_force.txt 1 1498 
+nor Lorentz_force.txt 1 1130 
+continuum Lorentz_force.txt 2 587 670 
+articles Lorentz_force.txt 1 3483 
+term Lorentz_force.txt 7 357 367 381 418 2451 2495 3845 
+several Lorentz_force.txt 1 3066 
+name Lorentz_force.txt 2 406 1560 
+edit Lorentz_force.txt 24 156 159 549 916 1000 1569 1690 1937 2178 2396 2642 3245 3331 3471 3478 3481 3575 3671 3902 3973 4005 4007 4009 4023 
+james Lorentz_force.txt 2 140 1267 
+right-hand Lorentz_force.txt 3 314 2179 2875 
+magnitude Lorentz_force.txt 3 1990 2262 2718 
+electrically Lorentz_force.txt 3 1108 1622 1698 
+homogeneous Lorentz_force.txt 1 1579 
+time-direction Lorentz_force.txt 1 3712 
+generation Lorentz_force.txt 1 1811 
+list Lorentz_force.txt 1 4018 
+energy Lorentz_force.txt 6 509 791 795 3362 3399 3440 
+idea Lorentz_force.txt 1 1251 
+related Lorentz_force.txt 2 1312 3637 
+manifests Lorentz_force.txt 1 438 
+inhomogeneous Lorentz_force.txt 1 1603 
+used Lorentz_force.txt 6 713 738 1066 1950 2803 2878 
+magnets Lorentz_force.txt 1 2475 
+year Lorentz_force.txt 1 1181 
+quantum Lorentz_force.txt 1 3447 
+relates Lorentz_force.txt 1 789 
+special Lorentz_force.txt 1 2569 
+out Lorentz_force.txt 1 1024 
+faradays Lorentz_force.txt 12 87 2562 2638 2653 2666 2763 2896 2977 3017 3039 3179 3196 
+space Lorentz_force.txt 9 183 2007 2026 3435 3735 3785 3799 3880 3923 
+gradient Lorentz_force.txt 3 3221 3231 3281 
+aside Lorentz_force.txt 1 2169 
+since Lorentz_force.txt 6 964 2375 2459 2966 3233 3626 
+lagrangian Lorentz_force.txt 3 1540 3336 3420 
+denotes Lorentz_force.txt 1 766 
+particles Lorentz_force.txt 10 1071 1360 1377 1563 1700 1706 1763 1837 1849 1982 
+acting Lorentz_force.txt 2 189 1725 
+formula Lorentz_force.txt 7 59 388 1189 1393 1418 1472 2302 
+induced Lorentz_force.txt 2 2516 2672 
+induction Lorentz_force.txt 9 90 2565 2641 2656 2669 2766 2899 2980 3182 
+correct Lorentz_force.txt 4 1388 1450 1548 2872 
+densities Lorentz_force.txt 1 1796 
+earlier Lorentz_force.txt 1 133 
+linear Lorentz_force.txt 2 290 486 
+divergence Lorentz_force.txt 2 768 3284 
+differ Lorentz_force.txt 1 1665 
+free Lorentz_force.txt 3 847 866 878 
+analytical Lorentz_force.txt 1 3329 
+completely Lorentz_force.txt 1 962 
+x Lorentz_force.txt 1 3579 
+generate Lorentz_force.txt 2 1865 2083 
+definition Lorentz_force.txt 5 1932 1953 2052 2063 2241 
+derivation Lorentz_force.txt 2 115 1445 
+e.g Lorentz_force.txt 1 1598 
+determining Lorentz_force.txt 1 1353 
+motion Lorentz_force.txt 12 171 564 573 594 666 1615 1645 2126 2152 2466 2993 3912 
+turn Lorentz_force.txt 1 721 
+length Lorentz_force.txt 1 2265 
+circuit Lorentz_force.txt 3 3131 3145 3155 
+signature Lorentz_force.txt 1 3499 
+arrived Lorentz_force.txt 2 1447 1545 
+footnotes Lorentz_force.txt 1 4006 
+exhibited Lorentz_force.txt 1 3697 
+speeds Lorentz_force.txt 1 1663 
+first Lorentz_force.txt 3 114 1241 1325 
+origin Lorentz_force.txt 1 134 
+note Lorentz_force.txt 4 2745 3192 3658 3860 
+simply Lorentz_force.txt 1 3859 
+omitted Lorentz_force.txt 1 988 
+one Lorentz_force.txt 8 944 965 1808 2355 2524 2607 3624 3884 
+devices Lorentz_force.txt 2 3980 4001 
+fast Lorentz_force.txt 1 1643 
+another Lorentz_force.txt 4 747 1821 2611 3141 
+precisely Lorentz_force.txt 1 3648 
+angular Lorentz_force.txt 1 1192 
+given Lorentz_force.txt 9 213 402 1209 1259 2657 2841 3374 3818 3931 
+cartesian Lorentz_force.txt 1 232 
+rewritten Lorentz_force.txt 1 3317 
+bears Lorentz_force.txt 1 1558 
+together Lorentz_force.txt 2 2217 2816 
+system Lorentz_force.txt 1 992 
+relations Lorentz_force.txt 2 969 1921 
+their Lorentz_force.txt 3 846 1671 2536 
+2 Lorentz_force.txt 1 3605 
+statement Lorentz_force.txt 1 1976 
+perfectly Lorentz_force.txt 1 2353 
+frame Lorentz_force.txt 2 2609 3558 
+hypothetical Lorentz_force.txt 1 2074 
+that Lorentz_force.txt 25 443 454 478 519 523 853 1093 1152 1166 1179 1556 1719 1988 2097 2121 2732 2746 2767 2900 2954 2976 3193 3199 3659 3861 
+continuous Lorentz_force.txt 4 546 558 590 674 
+electroweak Lorentz_force.txt 1 2164 
+part Lorentz_force.txt 3 2627 3790 4015 
+somewhat Lorentz_force.txt 1 938 
+manifestation Lorentz_force.txt 1 3984 
+translation Lorentz_force.txt 1 3571 
+abandoning Lorentz_force.txt 1 1496 
+solenoidal Lorentz_force.txt 1 2613 
+than Lorentz_force.txt 3 774 1225 3364 
+positively Lorentz_force.txt 1 281 
+linking Lorentz_force.txt 2 3060 3151 
+distance Lorentz_force.txt 1 801 
+either Lorentz_force.txt 1 3020 
+b Lorentz_force.txt 29 48 179 211 309 344 370 1019 1586 1748 1815 1861 1936 1962 2002 2056 2089 2189 2402 2630 2688 2956 3072 3086 3100 3103 3116 3138 3211 3262 
+sta Lorentz_force.txt 1 3670 
+einsteins Lorentz_force.txt 1 2568 
+transferred Lorentz_force.txt 2 489 511 
+contravariant Lorentz_force.txt 1 3532 
+matter Lorentz_force.txt 2 1511 1844 
+r Lorentz_force.txt 1 261 
+aether Lorentz_force.txt 1 1515 
+were Lorentz_force.txt 1 1084 
+treated Lorentz_force.txt 1 1636 
+minus Lorentz_force.txt 1 3437 
+result Lorentz_force.txt 2 638 2888 
+and Lorentz_force.txt 118 16 44 91 178 184 208 240 248 273 307 334 583 650 693 698 745 765 779 784 842 848 880 931 975 984 989 1103 1107 1219 1230 1238 1266 1348 1399 1426 1437 1446 1489 1503 1512 1516 1538 1549 1653 1701 1711 1747 1772 1794 1814 1818 1841 1860 1878 1922 1935 1957 1961 2001 2008 2010 2017 2027 2055 2080 2088 2131 2147 2156 2165 2216 2268 2440 2445 2592 2603 2637 2779 2797 2819 2824 2848 2862 2934 2953 2960 2989 2999 3026 3049 3077 3117 3140 3215 3226 3256 3261 3273 3291 3328 3344 3378 3489 3535 3612 3625 3632 3674 3706 3709 3737 3768 3835 3870 3889 3918 3927 3939 
+synchrotron Lorentz_force.txt 1 2132 
+predicts Lorentz_force.txt 1 3184 
+modern Lorentz_force.txt 7 1234 1272 1423 1468 1693 2528 2904 
+torque Lorentz_force.txt 2 895 2344 
+have Lorentz_force.txt 3 235 2865 2929 
+curved Lorentz_force.txt 2 2112 2291 
+1 Lorentz_force.txt 5 3500 3501 3502 3503 3577 
+element Lorentz_force.txt 5 577 581 2715 2854 3107 
+apparently Lorentz_force.txt 1 2537 
+any Lorentz_force.txt 2 2166 2971 
+contents Lorentz_force.txt 1 154 
+relatively Lorentz_force.txt 2 1642 1655 
+acceleration Lorentz_force.txt 1 2106 
+forced Lorentz_force.txt 1 2109 
+angle Lorentz_force.txt 1 3114 
+4-velocity Lorentz_force.txt 1 3540 
+zero Lorentz_force.txt 1 3238 
+depending Lorentz_force.txt 1 1669 
+convenient Lorentz_force.txt 1 3323 
+agency Lorentz_force.txt 1 2117 
+able Lorentz_force.txt 2 1146 1183 
+si Lorentz_force.txt 4 53 216 921 985 
+contour Lorentz_force.txt 2 2701 2857 
+polarization Lorentz_force.txt 1 871 
+also Lorentz_force.txt 11 458 1434 1864 2757 2792 2915 3120 3247 3333 3943 4004 
+without Lorentz_force.txt 1 2817 
+take Lorentz_force.txt 1 3321 
+which Lorentz_force.txt 18 98 260 485 503 508 923 936 1020 1477 2091 2208 2363 3319 3446 3547 3755 3807 3828 
+spacetime Lorentz_force.txt 1 3668 
+mayer Lorentz_force.txt 1 1102 
+calculus Lorentz_force.txt 1 705 
+even Lorentz_force.txt 1 1980 
+needle Lorentz_force.txt 1 1169 
+kelvinstokes Lorentz_force.txt 2 2884 2925 
+electric Lorentz_force.txt 26 15 41 194 205 239 363 400 783 1229 1237 1297 1488 1589 1680 1710 1956 2015 2195 2243 2491 2502 2591 2846 3201 3673 3991 
+opposite Lorentz_force.txt 1 2436 
+object Lorentz_force.txt 2 1341 1460 
+most Lorentz_force.txt 1 926 
+boltzmann Lorentz_force.txt 1 1886 
+experiences Lorentz_force.txt 5 49 2099 2105 2212 2377 
+formulae Lorentz_force.txt 1 919 
+phase Lorentz_force.txt 1 3452 
+assessed Lorentz_force.txt 1 996 
+colliding Lorentz_force.txt 1 1055 
+segment Lorentz_force.txt 3 2306 3745 3754 
+magnetohydrodynamics Lorentz_force.txt 1 1899 
+sometimes Lorentz_force.txt 2 68 2227 
+flow Lorentz_force.txt 2 793 2282 
+drifts Lorentz_force.txt 1 1576 
+time-independent Lorentz_force.txt 1 3137 
+electrons Lorentz_force.txt 3 1030 1054 2439 
+principle Lorentz_force.txt 2 1840 2065 
+poynting Lorentz_force.txt 1 728 
+1762 Lorentz_force.txt 1 1115 
+velocity Lorentz_force.txt 14 34 173 199 304 542 781 2822 3403 3411 3563 3681 3816 3837 3888 
+1760 Lorentz_force.txt 1 1106 
+charles-augustin Lorentz_force.txt 1 1138 
+physics Lorentz_force.txt 1 4 
+incomplete Lorentz_force.txt 1 1401 
+laws Lorentz_force.txt 1 1785 
+perspective Lorentz_force.txt 1 1273 
+particularly Lorentz_force.txt 2 5 1249 
+phenomenon Lorentz_force.txt 2 2418 2458 
+show Lorentz_force.txt 1 1149 
+leibniz Lorentz_force.txt 1 2950 
+attempts Lorentz_force.txt 1 1077 
+relation Lorentz_force.txt 1 1295 
+substituting Lorentz_force.txt 1 3585 
+analogue Lorentz_force.txt 1 675 
+curled Lorentz_force.txt 1 337 
+finally Lorentz_force.txt 1 1461 
+just Lorentz_force.txt 1 3746 
+conduction Lorentz_force.txt 1 1504 
+true Lorentz_force.txt 2 1155 2793 
+explain Lorentz_force.txt 1 893 
+3 Lorentz_force.txt 3 566 3606 3621 
+completes Lorentz_force.txt 1 1718 
+only Lorentz_force.txt 3 1855 2061 2752 
+explicitly Lorentz_force.txt 1 251 
+generators Lorentz_force.txt 2 2422 2473 
+molecules Lorentz_force.txt 1 1058 
+factor Lorentz_force.txt 2 3551 3641 
+circle Lorentz_force.txt 1 1034 
+partially Lorentz_force.txt 1 2574 
+do Lorentz_force.txt 2 1778 2480 
+his Lorentz_force.txt 4 1250 1284 1310 1559 
+notation Lorentz_force.txt 2 1425 3574 
+get Lorentz_force.txt 2 852 2870 
+dependent Lorentz_force.txt 2 3412 3678 
+de Lorentz_force.txt 1 1139 
+fluid Lorentz_force.txt 1 1900 
+coordinate-independent Lorentz_force.txt 1 3701 
+beam Lorentz_force.txt 1 1028 
+despite Lorentz_force.txt 1 2535 
+dv Lorentz_force.txt 2 582 636 
+dt Lorentz_force.txt 1 3631 
+thomson Lorentz_force.txt 3 1322 1364 1385 
+geometric Lorentz_force.txt 1 3722 
+dq Lorentz_force.txt 2 578 616 
+portion Lorentz_force.txt 3 2616 3128 3142 
+evolution Lorentz_force.txt 1 1905 
+emf Lorentz_force.txt 12 2395 2416 2449 2453 2461 2486 2517 2548 2675 2739 2834 3186 
+heaviside Lorentz_force.txt 3 125 153 1420 
+greens Lorentz_force.txt 1 1923 
+fields Lorentz_force.txt 23 26 242 786 804 1232 1240 1350 1492 1713 1737 1862 1867 1959 1999 2021 2090 2594 3263 3382 3553 3676 3708 3890 
+differential Lorentz_force.txt 2 3106 3966 
+1820 Lorentz_force.txt 1 1161 
+patch Lorentz_force.txt 2 2725 2734 
+circuits Lorentz_force.txt 1 3167 
+underlying Lorentz_force.txt 2 2419 3030 
+common Lorentz_force.txt 2 927 940 
+inapplicability Lorentz_force.txt 1 3037 
+including Lorentz_force.txt 3 398 3981 4002 
+creates Lorentz_force.txt 2 2447 3794 
+fixed Lorentz_force.txt 2 1440 3046 
+where Lorentz_force.txt 19 218 600 640 758 861 947 970 2257 2680 2843 3016 3278 3376 3517 3565 3827 3933 3947 3962 
+valid Lorentz_force.txt 4 1979 2749 2769 2969 
+approaching Lorentz_force.txt 1 1983 
+respond Lorentz_force.txt 1 1856 
+above-mentioned Lorentz_force.txt 1 918 
+computed Lorentz_force.txt 1 2298 
+swept Lorentz_force.txt 1 3133 
+our Lorentz_force.txt 1 3830 
+exerted Lorentz_force.txt 3 469 808 3367 
+differentials Lorentz_force.txt 1 3627 
+we Lorentz_force.txt 5 234 837 851 2928 3643 
+around Lorentz_force.txt 2 1646 2835 
+relative Lorentz_force.txt 2 3163 3562 
+see Lorentz_force.txt 11 813 1542 1898 1917 2127 2389 2566 3036 3246 3332 4003 
+electrostatic Lorentz_force.txt 1 3275 
+are Lorentz_force.txt 22 227 243 325 335 623 924 937 986 1757 1764 1787 2003 2012 2022 2540 2595 2940 3014 3379 3554 3636 3677 
+eliminating Lorentz_force.txt 1 692 
+disturbing Lorentz_force.txt 1 1584 
+nonstandard Lorentz_force.txt 1 405 
+best Lorentz_force.txt 1 3695 
+subject Lorentz_force.txt 1 3228 
+instance Lorentz_force.txt 1 2775 
+wire Lorentz_force.txt 27 67 77 448 2177 2184 2192 2226 2256 2267 2274 2286 2308 2326 2350 2444 2469 2559 2661 2678 2755 2761 2773 2814 2832 2944 2972 2986 
+potential Lorentz_force.txt 6 3271 3276 3381 3398 3439 3464 
+tensor Lorentz_force.txt 8 719 736 771 3480 3534 3570 3592 3926 
+ways Lorentz_force.txt 1 3067 
+nuclear Lorentz_force.txt 1 1773 
+wikipedia Lorentz_force.txt 1 2 
+motional Lorentz_force.txt 3 2411 2415 2452 
+written Lorentz_force.txt 4 257 2918 3513 3945 
+determined Lorentz_force.txt 1 2741 
+various Lorentz_force.txt 1 1667 
+closed Lorentz_force.txt 3 2700 2837 3154 
+between Lorentz_force.txt 6 1197 1222 1510 2584 3115 3867 
+affecting Lorentz_force.txt 1 2150 
+invariant Lorentz_force.txt 1 3841 
+neither Lorentz_force.txt 1 1128 
+overdot Lorentz_force.txt 1 275 
+discovery Lorentz_force.txt 1 1159 
+notice Lorentz_force.txt 1 522 
+terms Lorentz_force.txt 7 230 743 1211 1227 1343 3242 3359 
+screen Lorentz_force.txt 1 1027 
+emitted Lorentz_force.txt 1 1046 
+combining Lorentz_force.txt 1 2233 
+however Lorentz_force.txt 4 1120 1299 3012 3653 
+tobias Lorentz_force.txt 1 1101 
+maxwells Lorentz_force.txt 9 696 1280 1331 1430 1694 1776 2529 2905 3254 
+historians Lorentz_force.txt 1 130 
+article Lorentz_force.txt 5 408 1571 2391 2652 2883 
+observer Lorentz_force.txt 1 3684 
+both Lorentz_force.txt 8 301 618 1122 1486 1838 2138 2531 2860 
+c Lorentz_force.txt 5 759 948 1164 1592 1994 
+z Lorentz_force.txt 1 3613 
+reverse Lorentz_force.txt 1 2790 
+many Lorentz_force.txt 5 1609 1939 2420 3979 4000 
+according Lorentz_force.txt 2 311 376 
+attributed Lorentz_force.txt 1 122 
+laplace Lorentz_force.txt 4 70 461 2230 3987 
+s Lorentz_force.txt 2 730 746 
+context Lorentz_force.txt 2 455 998 
+distinction Lorentz_force.txt 1 1509 
+inverse-square Lorentz_force.txt 1 1118 
+expression Lorentz_force.txt 6 425 3314 3372 3664 3702 3896 
+experimental Lorentz_force.txt 1 1125 
+nearby Lorentz_force.txt 1 2154 
+among Lorentz_force.txt 2 928 941 
+point Lorentz_force.txt 9 21 328 339 350 1648 1660 1729 1751 1801 
+wall Lorentz_force.txt 1 2648 
+connection Lorentz_force.txt 1 3956 
+acted Lorentz_force.txt 1 1171 
+corresponds Lorentz_force.txt 1 570 
+johann Lorentz_force.txt 1 1100 
+non Lorentz_force.txt 1 3205 
+faraday Lorentz_force.txt 5 1248 2807 2932 2936 2964 
+throughout Lorentz_force.txt 2 585 2006 
+ether Lorentz_force.txt 2 1502 1537 
+torsion Lorentz_force.txt 1 1143 
+better Lorentz_force.txt 1 2580 
+oliver Lorentz_force.txt 2 124 1419 
+described Lorentz_force.txt 2 2519 2541 
+addition Lorentz_force.txt 2 2101 2339 
+trajectory Lorentz_force.txt 3 1001 2113 3938 
+create Lorentz_force.txt 1 2220 
+arbitrary Lorentz_force.txt 1 3711 
+due Lorentz_force.txt 9 23 201 1035 1051 1378 1564 2463 2488 3158 
+been Lorentz_force.txt 1 3850 
+defined Lorentz_force.txt 6 2005 2023 3522 3544 3731 3851 
+describes Lorentz_force.txt 3 1742 2364 3352 
+combined Lorentz_force.txt 1 725 
+interest Lorentz_force.txt 1 1613 
+basic Lorentz_force.txt 2 58 1389 
+degrees Lorentz_force.txt 1 3758 
+direction Lorentz_force.txt 6 331 342 353 2270 2278 2728 
+describe Lorentz_force.txt 4 60 1080 1696 1831 
+corresponding Lorentz_force.txt 2 663 3761 
+reaction Lorentz_force.txt 1 2145 
+anti-symmetric Lorentz_force.txt 1 3877 
+quantities Lorentz_force.txt 1 226 
+gas Lorentz_force.txt 1 1057 
+wires Lorentz_force.txt 1 2368 
+1865 Lorentz_force.txt 2 137 1281 
+external Lorentz_force.txt 5 204 1349 1381 2116 4021 
+emfs Lorentz_force.txt 1 2534 
+bulb Lorentz_force.txt 1 1061 
+an Lorentz_force.txt 31 40 84 132 136 203 1117 1380 1400 1408 1588 1594 1602 1621 1627 1906 2194 2515 2711 2723 2851 2920 3293 3348 3443 3450 3683 3710 3742 3751 3843 3990 
+present Lorentz_force.txt 1 2045 
+applied Lorentz_force.txt 3 896 1427 2455 
+lagranges Lorentz_force.txt 1 3386 
+these Lorentz_force.txt 7 1203 1866 1913 2011 2134 2314 2533 
+straight Lorentz_force.txt 2 2254 2289 
+empirical Lorentz_force.txt 1 1975 
+deformation Lorentz_force.txt 1 2998 
+will Lorentz_force.txt 8 284 297 349 409 421 2341 3088 3108 
+receive Lorentz_force.txt 1 2038 
+while Lorentz_force.txt 4 365 1691 2477 3791 
+replaced Lorentz_force.txt 1 3266 
+behavior Lorentz_force.txt 2 1356 1834 
+shift Lorentz_force.txt 1 3161 
+balance Lorentz_force.txt 1 1144 
+loop Lorentz_force.txt 8 78 2659 2687 2984 3052 3062 3079 3093 
+engineers Lorentz_force.txt 1 932 
+orientation Lorentz_force.txt 2 291 3095 
+century Lorentz_force.txt 1 1089 
+is Lorentz_force.txt 129 11 120 212 219 262 271 276 360 371 457 466 479 481 488 500 504 510 521 537 603 639 642 651 671 679 683 757 760 835 860 862 869 874 882 911 949 961 971 1021 1045 1065 1170 1275 1807 1820 1828 1949 1969 1978 1989 2044 2060 2197 2258 2263 2271 2287 2332 2334 2351 2359 2408 2426 2454 2462 2487 2506 2549 2561 2679 2681 2689 2694 2710 2719 2729 2740 2748 2768 2791 2840 2844 2850 2877 2945 2968 2987 3006 3019 3034 3045 3132 3146 3204 3216 3236 3279 3282 3285 3310 3373 3410 3415 3421 3424 3449 3459 3519 3537 3548 3566 3584 3647 3655 3661 3738 3750 3802 3808 3817 3838 3842 3858 3864 3876 3930 3934 3948 3963 
+thus Lorentz_force.txt 1 1775 
+it Lorentz_force.txt 19 146 456 480 499 960 1090 1132 1274 1305 1428 2098 2118 2295 2974 3000 3369 3414 3458 3654 
+surface Lorentz_force.txt 5 2696 2727 2733 2829 3172 
+nomenclature Lorentz_force.txt 1 413 
+itself Lorentz_force.txt 1 439 
+properties Lorentz_force.txt 2 1214 1347 
+experience Lorentz_force.txt 1 2047 
+triple Lorentz_force.txt 1 3297 
+in Lorentz_force.txt 126 3 6 36 52 75 126 135 147 170 182 215 229 236 259 287 316 329 340 351 414 449 453 563 579 593 720 739 742 782 802 831 886 913 933 979 1032 1059 1067 1086 1105 1114 1121 1160 1201 1210 1226 1243 1279 1294 1300 1342 1352 1361 1368 1414 1435 1462 1577 1601 1608 1616 1631 1679 1732 1822 1839 1850 1938 2025 2064 2100 2185 2199 2249 2338 2442 2470 2482 2496 2504 2514 2588 2604 2623 2626 2649 2662 2676 2776 2881 2902 2919 2959 2992 2995 3008 3047 3065 3162 3175 3191 3213 3241 3347 3358 3434 3514 3546 3609 3628 3667 3765 3771 3783 3797 3823 3899 3903 3921 3957 3967 3978 3982 3993 3999 4014 
+currents Lorentz_force.txt 5 1298 1681 1702 1817 2157 
+if Lorentz_force.txt 12 318 617 836 2102 2108 2284 2348 2942 3041 3070 3091 3126 
+torsion-free Lorentz_force.txt 2 3954 3971 
+different Lorentz_force.txt 4 959 2596 3085 3113 
+moves Lorentz_force.txt 2 3053 3080 
+thereby Lorentz_force.txt 1 2004 
+suggest Lorentz_force.txt 1 131 
+began Lorentz_force.txt 1 1494 
+stressenergy Lorentz_force.txt 1 735 
+cross Lorentz_force.txt 1 222 
+same Lorentz_force.txt 4 289 1180 2544 2600 
+wherein Lorentz_force.txt 1 1370 
+parts Lorentz_force.txt 2 850 3169 
+action Lorentz_force.txt 1 3423 
+split Lorentz_force.txt 1 3882 
+units Lorentz_force.txt 5 54 217 915 922 935 
+finite Lorentz_force.txt 1 2086 
+difficult Lorentz_force.txt 1 3023 
+independent Lorentz_force.txt 1 1595 
+calculation Lorentz_force.txt 1 3603 
+material Lorentz_force.txt 2 833 1852 
+solved Lorentz_force.txt 1 1873 
+kelvin Lorentz_force.txt 1 1265 
+trajectories Lorentz_force.txt 1 1561 
+upon Lorentz_force.txt 2 1749 3878 
+effect Lorentz_force.txt 2 1744 2141 
+hand Lorentz_force.txt 1 324 
+ion Lorentz_force.txt 1 1630 
+moving Lorentz_force.txt 18 32 79 1031 1317 1339 1458 1704 1728 2206 2605 2760 2772 2813 2815 2947 3460 3559 3920 
+arose Lorentz_force.txt 1 1242 
+potentials Lorentz_force.txt 1 3244 
+changing Lorentz_force.txt 3 2510 3011 3121 
+contribution Lorentz_force.txt 2 3441 3445 
+identity Lorentz_force.txt 1 3294 
+electromagnetism Lorentz_force.txt 4 7 818 1944 3488 
+numbered Lorentz_force.txt 1 4011 
+center Lorentz_force.txt 2 1573 1652 
+matters Lorentz_force.txt 1 1914 
+charges Lorentz_force.txt 4 1819 1882 2155 2207 
+whole Lorentz_force.txt 1 2624 
+usual Lorentz_force.txt 2 3810 3895 
+time-like Lorentz_force.txt 1 3821 
+materials Lorentz_force.txt 1 1824 
+components Lorentz_force.txt 4 233 3587 3597 3608 
+y Lorentz_force.txt 1 3611 
+position Lorentz_force.txt 5 247 264 2973 3076 3164 
+the Lorentz_force.txt 411 8 12 37 61 72 92 103 110 113 117 175 186 220 238 246 252 263 267 274 288 293 302 308 313 319 322 330 341 346 352 356 362 366 373 380 387 390 394 399 417 424 427 430 435 441 460 463 471 475 482 491 495 501 505 513 517 524 531 534 541 544 565 572 575 586 595 604 611 626 633 637 643 652 660 665 668 673 677 680 684 688 701 709 716 727 733 751 761 767 775 790 803 806 822 828 839 854 857 863 870 875 883 889 894 902 905 908 917 925 950 967 972 976 981 990 1013 1026 1037 1048 1053 1060 1073 1081 1087 1094 1124 1158 1188 1191 1195 1205 1213 1216 1220 1233 1244 1290 1301 1314 1324 1334 1345 1354 1358 1373 1376 1387 1392 1404 1417 1422 1441 1449 1453 1467 1471 1474 1479 1482 1487 1490 1497 1501 1513 1520 1531 1547 1553 1566 1614 1638 1650 1661 1687 1692 1714 1723 1733 1738 1743 1759 1792 1797 1804 1810 1825 1832 1847 1858 1876 1885 1889 1893 1931 1945 1952 1955 1966 1973 1984 1996 2014 2020 2048 2057 2073 2094 2103 2143 2151 2205 2210 2213 2225 2229 2234 2240 2245 2250 2264 2273 2277 2285 2292 2319 2335 2349 2382 2390 2397 2405 2417 2432 2443 2448 2450 2460 2465 2468 2474 2478 2485 2490 2497 2501 2509 2521 2526 2543 2547 2550 2558 2577 2585 2590 2599 2612 2618 2671 2677 2682 2686 2690 2699 2720 2735 2738 2780 2783 2789 2794 2798 2806 2812 2827 2831 2833 2836 2845 2856 2871 2874 2882 2886 2893 2903 2909 2912 2924 2930 2935 2938 2943 2949 2962 2983 3003 3029 3042 3050 3055 3057 3061 3071 3078 3092 3099 3102 3112 3130 3144 3149 3152 3160 3166 3185 3189 3194 3200 3208 3220 3230 3251 3259 3268 3280 3283 3286 3288 3296 3302 3305 3312 3322 3335 3353 3356 3365 3370 3380 3388 3391 3397 3402 3405 3408 3418 3422 3425 3429 3432 3438 3468 3475 3493 3497 3504 3520 3524 3528 3531 3538 3542 3549 3552 3567 3576 3582 3586 3589 3596 3602 3610 3620 3639 3649 3662 3672 3680 3686 3690 3704 3721 3774 3778 3784 3788 3792 3798 3809 3814 3820 3833 3836 3839 3854 3862 3873 3887 3894 3904 3909 3937 3940 3949 3953 3964 3974 3986 4010 4017 
+nb Lorentz_force.txt 1 2859 
+comprise Lorentz_force.txt 1 2209 
+charged Lorentz_force.txt 21 96 157 165 268 282 476 1070 1109 1318 1340 1359 1459 1574 1623 1699 1705 1762 1836 1848 3339 3454 
+distances Lorentz_force.txt 1 1221 
+magnetization Lorentz_force.txt 1 884 
+proposed Lorentz_force.txt 1 1092 
+eulerlagrange Lorentz_force.txt 1 3324 
+time-position Lorentz_force.txt 1 3825 
+1784 Lorentz_force.txt 1 1136 
+obtain Lorentz_force.txt 2 732 3886 
+technicians Lorentz_force.txt 1 930 
+gravity Lorentz_force.txt 3 1599 1771 2163 
+inadequate Lorentz_force.txt 3 1829 3021 3844 
+front Lorentz_force.txt 1 1415 
+mistakes Lorentz_force.txt 1 1442 
+identify Lorentz_force.txt 1 1278 
+aspect Lorentz_force.txt 2 85 1809 
+immediately Lorentz_force.txt 1 4019 
+speed Lorentz_force.txt 4 104 762 951 1985 
+adding Lorentz_force.txt 1 2311 
+density Lorentz_force.txt 12 562 568 645 654 662 823 855 864 872 876 885 906 
+six Lorentz_force.txt 1 3757 
+had Lorentz_force.txt 1 1439 
+interested Lorentz_force.txt 1 1351 
+transformed Lorentz_force.txt 1 3555 
+location Lorentz_force.txt 1 3083 
+versa Lorentz_force.txt 1 2634 
+theorem Lorentz_force.txt 3 2885 2926 3232 
+constant Lorentz_force.txt 3 2821 3007 3561 
+has Lorentz_force.txt 6 945 966 993 1915 3756 3849 
+plasma Lorentz_force.txt 1 1633 
+transformation Lorentz_force.txt 2 3569 3848 
+momentum Lorentz_force.txt 2 487 3334 
+gave Lorentz_force.txt 1 1372 
+real Lorentz_force.txt 2 1823 2068 
+conventional Lorentz_force.txt 1 2280 
+forces Lorentz_force.txt 8 1315 1336 1756 1769 1774 2168 2315 2437 
+navierstokes Lorentz_force.txt 1 1894 
+alternatively Lorentz_force.txt 1 3090 
+possible Lorentz_force.txt 1 1276 
+early Lorentz_force.txt 1 1076 
+possibly Lorentz_force.txt 2 1677 1765 
+3-volume Lorentz_force.txt 1 554 
+vacuum Lorentz_force.txt 2 973 977 
+using Lorentz_force.txt 12 695 700 1141 1527 2923 2948 2961 3292 3301 3385 3496 3595 
+moreover Lorentz_force.txt 1 2158 
+like Lorentz_force.txt 2 3747 3883 
+desire Lorentz_force.txt 1 2578 
+necessary Lorentz_force.txt 1 3035 
+d Lorentz_force.txt 10 601 1600 2309 2708 2849 2861 2863 3104 3118 3635 
+particle Lorentz_force.txt 23 28 97 158 166 192 269 283 477 496 518 545 1004 1575 1624 2069 3340 3357 3406 3433 3455 3529 3543 3915 
+follows Lorentz_force.txt 1 416 
+collective Lorentz_force.txt 1 1833 
+specific Lorentz_force.txt 1 1965 
+flux Lorentz_force.txt 5 792 2556 2684 3059 3150 
+yields Lorentz_force.txt 3 3594 3601 3615 
+t Lorentz_force.txt 11 270 737 2693 2702 2707 2717 2810 2825 2839 2858 3173 
+always Lorentz_force.txt 3 538 987 1208 
+experimentalists Lorentz_force.txt 1 929 
+stationary Lorentz_force.txt 6 1536 2255 2324 2754 2990 3148 
+facets Lorentz_force.txt 1 2597 
+permittivity Lorentz_force.txt 1 974 
+mathematical Lorentz_force.txt 3 1261 3248 3490 
+right Lorentz_force.txt 1 323 
+classical Lorentz_force.txt 4 817 1943 3371 3487 
+understand Lorentz_force.txt 1 2581 
+steady Lorentz_force.txt 1 2329 
+some Lorentz_force.txt 4 378 403 1397 2115 
+cathode Lorentz_force.txt 1 1362 
+understood Lorentz_force.txt 1 1970 
+respect Lorentz_force.txt 2 2030 3097 
+proper Lorentz_force.txt 3 3525 3633 3840 
+extended Lorentz_force.txt 2 326 347 
+transport Lorentz_force.txt 1 1869 
+scale Lorentz_force.txt 1 1526 
+describing Lorentz_force.txt 1 1722 
+for Lorentz_force.txt 31 389 426 588 819 1190 1473 1534 1666 1883 1896 1910 1918 1981 2128 2181 2386 2410 2750 2758 2770 2774 2970 3068 3295 3337 3390 3507 3604 3703 3832 3913 
+purple Lorentz_force.txt 1 1043 
+electromagnetic Lorentz_force.txt 22 25 396 472 492 514 734 1082 1335 1355 1475 1736 1755 2095 2171 2601 3252 3349 3494 3533 3591 3705 3928 
+tube Lorentz_force.txt 1 1064 
+superconductivity Lorentz_force.txt 1 1903 
+integration Lorentz_force.txt 1 2317 
+per Lorentz_force.txt 6 552 647 656 754 796 799 
+instantaneous Lorentz_force.txt 3 172 198 303 
+does Lorentz_force.txt 1 527 
+decomposition Lorentz_force.txt 1 3258 
+equivalently Lorentz_force.txt 1 3351 
+three Lorentz_force.txt 1 3177 
+refer Lorentz_force.txt 2 422 4013 
+be Lorentz_force.txt 26 100 256 285 712 724 995 1258 1635 1872 1964 1972 2297 2343 2787 2802 2811 2826 2890 2917 3265 3316 3395 3512 3696 3715 3944 
+who Lorentz_force.txt 1 3801 
+power Lorentz_force.txt 5 502 520 532 825 910 
+equivalent Lorentz_force.txt 2 963 2941 
+each Lorentz_force.txt 4 2203 2304 2373 2376 
+perpendicular Lorentz_force.txt 1 539 
+notably Lorentz_force.txt 1 1770 
+although Lorentz_force.txt 2 128 954 
+cgs Lorentz_force.txt 2 914 983 
+refers Lorentz_force.txt 1 384 
+by Lorentz_force.txt 33 139 214 470 625 691 901 1099 1111 1162 1173 1263 1495 1721 1816 2114 2149 2232 2299 2316 2508 2520 2542 2576 2698 2742 2842 3188 3267 3277 3375 3564 3638 3819 
+on Lorentz_force.txt 30 19 56 64 94 163 190 445 474 556 606 809 1096 1172 1316 1337 1375 1456 1670 1726 2174 2224 2294 2322 2438 2646 3368 3401 3679 3732 3989 
+conducting Lorentz_force.txt 1 3051 
+mechanically Lorentz_force.txt 1 3448 
+origins Lorentz_force.txt 1 2539 
+of Lorentz_force.txt 159 14 29 39 86 89 105 109 116 167 193 231 245 266 321 332 343 354 434 543 574 610 620 628 632 667 703 708 744 763 769 777 794 816 824 856 865 877 907 952 1002 1015 1025 1029 1039 1194 1212 1215 1228 1236 1246 1252 1254 1283 1289 1303 1344 1357 1391 1396 1403 1411 1416 1443 1452 1470 1500 1530 1552 1562 1611 1620 1640 1658 1686 1735 1745 1799 1812 1835 1845 1881 1933 1942 1954 1986 1991 2040 2053 2077 2124 2153 2204 2242 2252 2266 2279 2307 2357 2404 2467 2525 2532 2552 2554 2564 2571 2598 2617 2640 2655 2660 2668 2716 2722 2726 2737 2765 2830 2855 2895 2898 2979 2985 2997 3028 3038 3111 3129 3143 3165 3181 3222 3243 3250 3308 3341 3355 3360 3404 3428 3431 3467 3474 3486 3492 3527 3541 3581 3588 3598 3682 3689 3724 3728 3759 3853 3907 3911 3952 
+theorems Lorentz_force.txt 1 702 
+dependence Lorentz_force.txt 1 1193 
+practical Lorentz_force.txt 1 1612 
+distinct Lorentz_force.txt 1 2538 
+time-dependent Lorentz_force.txt 1 3174 
+plus Lorentz_force.txt 2 2345 3442 
+stand Lorentz_force.txt 1 1780 
+slightly Lorentz_force.txt 1 958 
+teltron Lorentz_force.txt 1 1063 
+own Lorentz_force.txt 1 2085 
+christoffel Lorentz_force.txt 1 3950 
+presence Lorentz_force.txt 3 38 1038 1734 
+maxwell Lorentz_force.txt 11 142 717 1269 1304 1521 1532 2781 2799 2931 2963 3195 
+into Lorentz_force.txt 3 845 2110 3623 
+integral Lorentz_force.txt 3 686 2921 2951 
+bound Lorentz_force.txt 1 849 
+maxwellfaraday Lorentz_force.txt 3 2522 2910 2913 
+two Lorentz_force.txt 5 1198 1997 2366 2586 2939 
+because Lorentz_force.txt 6 533 1395 2066 3110 3846 3866 
+references Lorentz_force.txt 2 4008 4012 
+determine Lorentz_force.txt 1 1875 
+descriptions Lorentz_force.txt 4 1204 1499 3249 3491 
+i Lorentz_force.txt 2 2283 2331 
+area Lorentz_force.txt 2 2714 2721 
+there Lorentz_force.txt 2 2340 3013 
+question Lorentz_force.txt 1 2505 
+specifically Lorentz_force.txt 1 385 
+physicists Lorentz_force.txt 1 943 
+way Lorentz_force.txt 2 748 888 
+was Lorentz_force.txt 10 1091 1127 1133 1145 1154 1182 1207 1306 1323 2573 
+opposed Lorentz_force.txt 1 2071 
+function Lorentz_force.txt 1 1924 
+medium Lorentz_force.txt 2 834 1853 
+complete Lorentz_force.txt 2 1129 1550 
+form Lorentz_force.txt 14 108 707 1288 1390 1451 1469 1551 2922 3325 3466 3473 3516 3688 3852 
+leiden Lorentz_force.txt 1 2650 
+trivector Lorentz_force.txt 1 3796 
+but Lorentz_force.txt 7 296 1394 1753 1786 1863 2290 2756 
+displacement Lorentz_force.txt 1 1405 
+volume Lorentz_force.txt 6 580 627 649 658 685 756 
+link Lorentz_force.txt 1 2583 
+expressible Lorentz_force.txt 1 3218 
+mid-18th Lorentz_force.txt 1 1088 
+implies Lorentz_force.txt 2 2975 3198 
+line Lorentz_force.txt 1 3753 
+with Lorentz_force.txt 25 33 197 393 498 614 726 827 1005 1056 1587 1593 1912 2029 2239 2276 2820 2892 3075 3084 3096 3170 3560 3777 3916 3924 
+he Lorentz_force.txt 2 1371 1433 
+directed Lorentz_force.txt 1 1022 
+space-time Lorentz_force.txt 4 3718 3725 3740 3766 
+made Lorentz_force.txt 2 1085 1507 
+applying Lorentz_force.txt 2 1539 2300 
+evident Lorentz_force.txt 1 1308 
+whether Lorentz_force.txt 3 2041 2982 3002 
+j Lorentz_force.txt 5 569 694 873 1320 1321 
+variations Lorentz_force.txt 1 55 
+up Lorentz_force.txt 1 2312 
+quantitatively Lorentz_force.txt 1 1079 
+until Lorentz_force.txt 1 1135 
+placed Lorentz_force.txt 1 2198 
+below Lorentz_force.txt 3 1543 2567 4020 
+exerts Lorentz_force.txt 1 2435 
+boldface Lorentz_force.txt 1 225 
+planes Lorentz_force.txt 2 3767 3773 
+distribution Lorentz_force.txt 7 548 560 592 613 635 690 812 
+piece Lorentz_force.txt 2 609 631 
+similar Lorentz_force.txt 1 3616 
+called Lorentz_force.txt 9 69 361 372 459 1649 2013 2142 2228 2907 
+cliffords Lorentz_force.txt 1 3729 
+mechanics Lorentz_force.txt 2 1541 3330 
+settled Lorentz_force.txt 1 3716 
+later Lorentz_force.txt 1 1256 
+associated Lorentz_force.txt 3 497 826 909 
+fokkerplanck Lorentz_force.txt 1 1890 
+ampres Lorentz_force.txt 2 2360 2392 
+devise Lorentz_force.txt 1 1185 
+m Lorentz_force.txt 2 881 3343 
+contribute Lorentz_force.txt 1 529 
+influence Lorentz_force.txt 1 1014 
+textbook Lorentz_force.txt 1 1940 
+general Lorentz_force.txt 6 237 740 3900 3905 3958 3968 
+as Lorentz_force.txt 26 258 292 440 1384 1626 1637 1842 1930 1951 2050 2070 2107 2518 2879 3122 3219 3318 3383 3523 3545 3736 3891 3932 3946 3961 3985 
+at Lorentz_force.txt 8 484 507 1448 1523 1546 2703 2705 3645 
+formulation Lorentz_force.txt 3 815 1282 3485 
+1895 Lorentz_force.txt 2 148 1463 
+curl Lorentz_force.txt 1 3287 
+permeability Lorentz_force.txt 1 978 
+internal Lorentz_force.txt 1 2828 
+metric Lorentz_force.txt 5 3498 3834 3925 3955 3970 
+physical Lorentz_force.txt 2 1784 1908 
+incorrect Lorentz_force.txt 1 1409 
+functions Lorentz_force.txt 1 244 
+compared Lorentz_force.txt 1 2891 
+no Lorentz_force.txt 2 1583 3847 
+image Lorentz_force.txt 1 2645 
+when Lorentz_force.txt 5 1137 2190 2423 3207 3457 
+detail Lorentz_force.txt 1 317 
+field Lorentz_force.txt 58 42 47 83 177 180 206 210 295 310 452 473 493 515 526 772 904 1018 1042 1285 1332 1383 1431 1581 1590 1605 1619 2016 2019 2188 2202 2385 2431 2434 2503 2512 2602 2615 2620 2631 2665 2692 2847 3005 3044 3056 3073 3087 3101 3139 3202 3210 3225 3253 3350 3479 3495 3812 3929 
+other Lorentz_force.txt 8 129 404 1768 1783 2167 2346 2374 2471 
+electrical Lorentz_force.txt 2 2421 2472 
+details Lorentz_force.txt 1 821 
+spatial Lorentz_force.txt 1 1879 
+test Lorentz_force.txt 2 2035 2075 
+u Lorentz_force.txt 1 3536 
+voltaic Lorentz_force.txt 1 1175 
+picture Lorentz_force.txt 2 1720 1761 
+elements Lorentz_force.txt 1 1200 
+superposition Lorentz_force.txt 1 1639 
+separate Lorentz_force.txt 2 838 1781 
+symbol Lorentz_force.txt 1 3951 
+braking Lorentz_force.txt 1 2123 
+drift Lorentz_force.txt 2 1657 1662 
+includes Lorentz_force.txt 1 1478 
+generated Lorentz_force.txt 1 3187 
+important Lorentz_force.txt 2 3656 3865 
+bounded Lorentz_force.txt 1 2697 
+included Lorentz_force.txt 1 1407 
+sides Lorentz_force.txt 1 619 
+conclusive Lorentz_force.txt 1 1131 
+e Lorentz_force.txt 18 43 176 207 294 359 1591 1746 1813 1859 1934 1960 2000 2054 2087 2494 2619 3203 3260 
+coulomb Lorentz_force.txt 1 1140 
+vice Lorentz_force.txt 1 2633 
+moved Lorentz_force.txt 1 2427 
+curve Lorentz_force.txt 1 298 
+rule Lorentz_force.txt 5 315 2180 2876 2952 3304 
+luminiferous Lorentz_force.txt 1 1514 
+perpendicularly Lorentz_force.txt 2 299 1023 
+mass Lorentz_force.txt 3 2079 3342 3917 
+fact Lorentz_force.txt 1 2589 
+time Lorentz_force.txt 19 185 249 272 278 798 1302 1877 2009 2028 2706 3009 3048 3171 3214 3436 3526 3630 3634 3881 
+rigid Lorentz_force.txt 3 2325 2354 2988 
+nuclei Lorentz_force.txt 1 2441 
+starting Lorentz_force.txt 1 3698 
+indirectly Lorentz_force.txt 1 2148 

@@ -1,0 +1,1696 @@
+limited Banknote.txt 2 885 1185 
+todays Banknote.txt 1 5178 
+magnetic Banknote.txt 1 3654 
+dynamic Banknote.txt 2 5225 5230 
+powders Banknote.txt 1 5057 
+dynasty Banknote.txt 19 259 331 353 445 465 653 670 682 707 719 833 847 906 991 1302 1320 1331 1339 1476 
+four Banknote.txt 1 2923 
+oldest Banknote.txt 1 293 
+increase Banknote.txt 1 2118 
+founder Banknote.txt 1 1298 
+presents Banknote.txt 1 4855 
+note-issuing Banknote.txt 1 3076 
+under Banknote.txt 2 3398 3552 
+lord Banknote.txt 1 636 
+worth Banknote.txt 1 3922 
+merchant Banknote.txt 3 324 712 801 
+updated Banknote.txt 1 4902 
+risk Banknote.txt 4 3339 3364 6007 6072 
+regional Banknote.txt 1 1187 
+connects Banknote.txt 1 5274 
+stolen Banknote.txt 2 5155 5256 
+every Banknote.txt 3 1771 4893 5905 
+confederate Banknote.txt 2 3889 3899 
+wooden Banknote.txt 1 4539 
+companies Banknote.txt 1 2633 
+commons Banknote.txt 1 6104 
+convenience Banknote.txt 2 579 2319 
+assignats Banknote.txt 1 3877 
+charter Banknote.txt 4 2221 2567 2601 2646 
+kublai Banknote.txt 2 1303 1546 
+construed Banknote.txt 1 5976 
+japanese Banknote.txt 1 3598 
+second Banknote.txt 1 2595 
+7th Banknote.txt 3 318 449 685 
+machines Banknote.txt 6 4697 4766 4789 4854 5218 5220 
+even Banknote.txt 8 1001 1285 2939 3167 3387 4546 5929 6078 
+established Banknote.txt 5 1116 2197 2381 2603 2651 
+supplied Banknote.txt 1 4314 
+resilient Banknote.txt 1 3524 
+new Banknote.txt 12 1101 2137 2190 2292 2660 2691 3154 3163 3795 3949 4147 4150 
+increasing Banknote.txt 1 2177 
+officially Banknote.txt 1 976 
+deemed Banknote.txt 1 4994 
+hundreds Banknote.txt 1 3402 
+china Banknote.txt 9 255 308 446 768 1350 1428 3006 4174 4393 
+100 Banknote.txt 2 639 2697 
+substance Banknote.txt 3 174 241 3191 
+rests Banknote.txt 1 2238 
+items Banknote.txt 3 5902 5940 5962 
+study Banknote.txt 1 4670 
+changed Banknote.txt 4 1210 1983 3115 4651 
+adopt Banknote.txt 1 4129 
+mitsumata Banknote.txt 1 3589 
+credit Banknote.txt 3 879 1835 5530 
+abolition Banknote.txt 1 5333 
+changes Banknote.txt 1 3944 
+issuers Banknote.txt 1 3071 
+prints Banknote.txt 1 2962 
+wikimedia Banknote.txt 1 6103 
+replace Banknote.txt 1 901 
+brought Banknote.txt 2 2096 5165 
+counterfeiters Banknote.txt 1 3818 
+xinan Banknote.txt 1 1027 
+total Banknote.txt 1 1950 
+schilling Banknote.txt 1 3960 
+plot Banknote.txt 1 629 
+would Banknote.txt 9 1032 1966 2606 2668 2820 4885 4898 5511 6044 
+found Banknote.txt 3 774 3640 5035 
+insecurity Banknote.txt 1 1648 
+coins Banknote.txt 31 159 219 746 758 779 791 853 902 913 969 1629 2138 2254 3187 3206 3232 3312 3319 3376 3384 3390 3415 3428 3442 4440 4806 4841 5549 5665 5758 5815 
+bundles Banknote.txt 1 4963 
+asset Banknote.txt 1 5338 
+type Banknote.txt 2 41 4642 
+until Banknote.txt 8 458 700 2205 2614 3059 3080 4566 4920 
+standardized Banknote.txt 2 2447 2847 
+wars Banknote.txt 1 2494 
+reign Banknote.txt 1 1313 
+relan Banknote.txt 1 5631 
+90 Banknote.txt 2 3494 5870 
+hole Banknote.txt 1 753 
+circumstances Banknote.txt 1 2101 
+1994 Banknote.txt 1 5456 
+biaxially-oriented Banknote.txt 1 4096 
+rights Banknote.txt 1 4754 
+1999 Banknote.txt 1 3066 
+setup Banknote.txt 1 2910 
+example Banknote.txt 6 588 2870 2903 3079 5000 6027 
+give Banknote.txt 2 1897 3574 
+currency Banknote.txt 42 399 440 470 673 692 1177 1228 1761 1807 1829 1923 2166 2359 2489 2639 2742 2760 2799 3093 3164 3791 3866 3885 3950 4552 4639 4644 4689 4721 5227 5232 5379 5476 5495 5522 5552 5558 5596 5607 5711 5744 5900 
+marco Banknote.txt 9 378 480 1419 1438 1461 1467 1489 1633 1638 
+british Banknote.txt 1 5243 
+provincial Banknote.txt 1 2631 
+provide Banknote.txt 1 4294 
+verify Banknote.txt 1 5281 
+machine Banknote.txt 2 4894 4969 
+how Banknote.txt 4 809 1492 1887 4701 
+1757 Banknote.txt 1 4567 
+ordinary Banknote.txt 2 3518 3548 
+1175 Banknote.txt 1 1148 
+rise Banknote.txt 3 3774 5730 5826 
+replacing Banknote.txt 2 4120 5545 
+after Banknote.txt 7 2175 2492 4066 4591 4800 4928 5112 
+hong Banknote.txt 4 3016 3025 4184 5633 
+yaqub Banknote.txt 1 1397 
+president Banknote.txt 1 2834 
+law Banknote.txt 4 132 2316 2482 2949 
+types Banknote.txt 1 5030 
+attempt Banknote.txt 1 2059 
+effective Banknote.txt 1 2717 
+discontinued Banknote.txt 1 4063 
+maintain Banknote.txt 1 2126 
+1000 Banknote.txt 1 3120 
+order Banknote.txt 3 1679 2035 5685 
+operations Banknote.txt 1 5224 
+over Banknote.txt 9 541 1511 1566 1657 2559 2719 3102 3318 4234 
+riksens Banknote.txt 1 2193 
+london Banknote.txt 3 586 1894 2643 
+before Banknote.txt 6 283 738 1002 1021 2794 3141 
+anhui Banknote.txt 1 1030 
+fit Banknote.txt 1 4925 
+kaifeng Banknote.txt 1 1046 
+multidisciplinary Banknote.txt 1 4665 
+50,000 Banknote.txt 1 4630 
+writing Banknote.txt 2 3559 4742 
+destroyed Banknote.txt 1 5010 
+production Banknote.txt 1 4606 
+wales Banknote.txt 1 2971 
+hidden Banknote.txt 1 6106 
+versus Banknote.txt 1 1417 
+then Banknote.txt 3 4125 5415 5430 
+them Banknote.txt 5 1561 1585 1621 4869 5152 
+viola Banknote.txt 1 4756 
+effects Banknote.txt 1 1074 
+they Banknote.txt 36 153 161 770 812 818 825 1351 1529 1627 1674 1965 2416 2582 2695 2941 3217 3244 3268 3279 3294 3322 3366 3405 3411 3769 4375 4673 4698 4801 4884 4921 4930 4992 5002 5012 5124 
+silver Banknote.txt 9 77 190 1241 1418 1535 1754 2131 3372 3427 
+bank Banknote.txt 50 49 88 104 275 1717 1725 2066 2077 2156 2165 2172 2191 2195 2218 2224 2368 2378 2396 2522 2546 2553 2566 2600 2645 2655 2664 2684 2713 2732 2819 2864 2878 2886 2957 2959 3236 3259 3299 3343 3759 3781 4085 4178 5084 5857 5881 5913 5933 5945 6032 
+evidentiary Banknote.txt 1 5016 
+germanic Banknote.txt 1 4476 
+classified Banknote.txt 1 6075 
+each Banknote.txt 2 1019 3459 
+went Banknote.txt 1 2173 
+entitled Banknote.txt 1 3051 
+side Banknote.txt 1 3676 
+financial Banknote.txt 2 145 4951 
+durability Banknote.txt 3 3382 4212 4297 
+series Banknote.txt 3 19 2598 2816 
+displacement Banknote.txt 1 5519 
+used Banknote.txt 26 221 230 745 910 1403 1769 1817 1921 2004 2085 3194 3461 3469 3514 3596 4246 4284 4521 4543 4550 4603 5180 5211 5917 5950 6039 
+combining Banknote.txt 1 3661 
+borna Banknote.txt 1 4505 
+collector Banknote.txt 1 5763 
+92-55919 Banknote.txt 1 5485 
+merchants Banknote.txt 7 334 722 766 1362 1381 1779 2140 
+velvet Banknote.txt 1 4359 
+restricted Banknote.txt 3 1322 2656 2688 
+debit Banknote.txt 1 5532 
+millions Banknote.txt 1 5786 
+venezuela Banknote.txt 1 4716 
+perception Banknote.txt 1 534 
+written Banknote.txt 2 1678 2034 
+free Banknote.txt 1 2273 
+standard Banknote.txt 1 1227 
+universally Banknote.txt 1 1565 
+tyvek Banknote.txt 1 4022 
+created Banknote.txt 2 3812 5501 
+atm Banknote.txt 1 4693 
+incorporated Banknote.txt 2 3626 4217 
+signature Banknote.txt 1 2473 
+baltic Banknote.txt 1 4478 
+industrial Banknote.txt 1 4078 
+features Banknote.txt 4 25 3984 4219 4877 
+grade Banknote.txt 1 5753 
+f.3d Banknote.txt 1 5479 
+another Banknote.txt 2 4186 5309 
+samoa Banknote.txt 1 4154 
+remotely Banknote.txt 1 5249 
+electronic Banknote.txt 3 3302 5521 5535 
+their Banknote.txt 15 185 776 828 981 1347 1689 1953 1973 2624 2933 3190 3276 3423 5407 5625 
+guinness Banknote.txt 2 5638 5659 
+needed Banknote.txt 2 1089 5014 
+too Banknote.txt 2 781 2852 
+xiv Banknote.txt 1 2498 
+john Banknote.txt 1 2481 
+ranging Banknote.txt 1 2450 
+curtains Banknote.txt 1 5922 
+werro Banknote.txt 1 4487 
+plastic/polymer Banknote.txt 1 5083 
+took Banknote.txt 1 1867 
+mutilated Banknote.txt 1 5004 
+desmond Banknote.txt 1 4757 
+prefecture Banknote.txt 1 1025 
+peculiar Banknote.txt 1 2100 
+upholstery Banknote.txt 1 5923 
+showed Banknote.txt 1 819 
+forensic Banknote.txt 1 5018 
+ebay Banknote.txt 1 5791 
+solomon Banknote.txt 1 4157 
+historical Banknote.txt 1 5831 
+pataca Banknote.txt 1 3036 
+powers Banknote.txt 2 3077 3912 
+modern Banknote.txt 4 1028 2054 2236 2653 
+seen Banknote.txt 3 552 1694 5323 
+mint Banknote.txt 1 3787 
+contents Banknote.txt 1 431 
+relatively Banknote.txt 2 1878 5600 
+forced Banknote.txt 1 2113 
+strength Banknote.txt 1 3577 
+responsible Banknote.txt 1 2737 
+metallic Banknote.txt 1 3655 
+oriented Banknote.txt 1 4720 
+causing Banknote.txt 2 1072 1883 
+dermal Banknote.txt 1 4620 
+transactions Banknote.txt 3 349 737 4703 
+object Banknote.txt 1 871 
+diminishing Banknote.txt 1 5819 
+regular Banknote.txt 1 1699 
+germany Banknote.txt 2 4262 4590 
+coin Banknote.txt 8 78 1811 2105 3265 4828 5583 5604 5709 
+explosives Banknote.txt 1 5060 
+glow Banknote.txt 1 3550 
+zealand Banknote.txt 1 4148 
+metal Banknote.txt 7 217 568 1750 2285 3215 3389 3844 
+dog Banknote.txt 2 5422 5510 
+cambio Banknote.txt 1 1797 
+came Banknote.txt 2 5368 5443 
+reserve Banknote.txt 2 2856 4084 
+polypropylene Banknote.txt 1 4097 
+signatures Banknote.txt 1 2831 
+attempts Banknote.txt 3 2517 3778 4837 
+unforgeable Banknote.txt 1 5294 
+representing Banknote.txt 2 5645 5666 
+turkestan Banknote.txt 1 4408 
+rich Banknote.txt 1 772 
+rica Banknote.txt 1 4016 
+predecessor Banknote.txt 2 1697 2074 
+plate Banknote.txt 1 993 
+mixture Banknote.txt 1 1287 
+di Banknote.txt 2 1727 1796 
+confiscation Banknote.txt 2 5336 5352 
+de Banknote.txt 1 3703 
+degradation Banknote.txt 2 5158 5181 
+guatemala Banknote.txt 1 4139 
+barbon Banknote.txt 1 2305 
+negated Banknote.txt 1 3305 
+report Banknote.txt 1 5028 
+haiti Banknote.txt 1 4018 
+societies Banknote.txt 1 5847 
+xinjiang Banknote.txt 1 4398 
+countries Banknote.txt 10 2762 2894 2925 3609 3994 4127 4168 5648 5669 5871 
+ever Banknote.txt 1 1263 
+dupont Banknote.txt 1 4047 
+bay Banknote.txt 2 2343 4533 
+guiana Banknote.txt 1 4573 
+zones Banknote.txt 1 1188 
+decided Banknote.txt 1 1057 
+subject Banknote.txt 4 1479 2803 3378 4617 
+brazil Banknote.txt 3 3114 4135 4710 
+capacity Banknote.txt 1 3256 
+temptation Banknote.txt 1 3824 
+wikipedia Banknote.txt 1 1 
+artificial Banknote.txt 1 2179 
+conceptual Banknote.txt 1 2293 
+drawn Banknote.txt 1 634 
+slugs Banknote.txt 1 4809 
+handwritten Banknote.txt 1 2419 
+terms Banknote.txt 1 5796 
+nationwide Banknote.txt 2 1174 1226 
+nature Banknote.txt 1 5720 
+smelled Banknote.txt 1 5423 
+handful Banknote.txt 1 5682 
+however Banknote.txt 8 268 1085 1164 2749 2800 3646 5804 6048 
+wear Banknote.txt 2 3526 4956 
+recent Banknote.txt 1 429 
+cashiers Banknote.txt 1 2472 
+debt Banknote.txt 1 2708 
+improve Banknote.txt 1 4211 
+received Banknote.txt 1 511 
+protect Banknote.txt 1 5213 
+country Banknote.txt 7 1513 2501 2783 3159 4106 4187 4897 
+against Banknote.txt 2 2352 2393 
+studio Banknote.txt 1 4667 
+expense Banknote.txt 1 5448 
+workers Banknote.txt 1 1161 
+appeared Banknote.txt 1 2475 
+had Banknote.txt 9 813 1686 2042 2112 2790 3222 3253 3337 3361 
+uslw Banknote.txt 1 5482 
+basis Banknote.txt 1 177 
+union Banknote.txt 1 2743 
+abaca Banknote.txt 1 3506 
+three Banknote.txt 4 1205 2168 3018 4918 
+been Banknote.txt 12 109 419 3223 4245 4282 4601 4650 4821 5110 5255 5527 6053 
+much Banknote.txt 4 810 1523 3522 5810 
+detrimental Banknote.txt 1 1073 
+interest Banknote.txt 2 5619 5766 
+life Banknote.txt 1 3531 
+drugs Banknote.txt 4 5064 5387 5413 5424 
+39 Banknote.txt 1 5478 
+uncommon Banknote.txt 1 5391 
+chile Banknote.txt 1 4138 
+personally Banknote.txt 1 1671 
+worked Banknote.txt 1 1889 
+exception Banknote.txt 1 211 
+has Banknote.txt 14 418 539 3819 4313 4600 4649 4812 4819 5109 5554 5635 5792 5883 6052 
+tang Banknote.txt 5 311 330 444 681 718 
+lessen Banknote.txt 1 1059 
+economies Banknote.txt 1 4816 
+auction Banknote.txt 2 5714 5723 
+melted Banknote.txt 1 5087 
+appeals Banknote.txt 1 5462 
+property Banknote.txt 1 2282 
+seven Banknote.txt 1 1039 
+sinkiang Banknote.txt 1 4400 
+mexico Banknote.txt 1 4145 
+linked Banknote.txt 1 5173 
+is Banknote.txt 48 39 129 175 393 401 862 881 1477 1799 2244 2256 2735 2751 3501 3515 3521 3535 3563 3625 3634 3645 3679 3964 3985 4194 4427 4502 4611 4616 4640 4690 4724 4873 4941 5183 5235 5259 5363 5389 5429 5570 5589 5818 5892 5916 6018 6068 6083 
+it Banknote.txt 19 400 1015 1070 1144 1687 1735 1767 2143 2528 2585 3520 3575 3644 3662 3747 4102 5388 5428 5697 
+eighteen Banknote.txt 1 23 
+in Banknote.txt 181 97 158 187 198 254 260 287 307 316 323 346 361 384 386 397 406 428 443 485 495 566 582 617 643 679 711 734 754 767 954 978 1038 1047 1065 1120 1135 1147 1198 1270 1291 1311 1323 1328 1333 1349 1392 1427 1432 1440 1452 1640 1666 1688 1763 1770 1776 1845 1852 1869 1956 2005 2021 2068 2144 2198 2271 2344 2357 2382 2400 2476 2490 2510 2523 2531 2589 2592 2596 2677 2706 2780 2786 2811 2848 2867 2889 2911 2918 2948 2968 2983 2995 3012 3015 3030 3044 3065 3117 3171 3254 3264 3275 3320 3392 3597 3619 3641 3650 3707 3742 3764 3766 3771 3775 3825 3857 3932 3954 3974 3987 4013 4064 4071 4100 4196 4285 4310 4340 4377 4392 4401 4409 4416 4433 4443 4451 4475 4490 4522 4524 4535 4537 4553 4555 4561 4575 4580 4589 4604 4634 4645 4671 4761 4783 4815 4843 4860 4895 4909 5097 5128 5215 5240 5308 5341 5406 5455 5466 5496 5620 5653 5693 5731 5737 5767 5787 5795 5869 5885 6014 6028 
+if Banknote.txt 10 769 817 1528 1626 2694 3266 3388 4991 5001 5361 
+1816 Banknote.txt 1 2526 
+make Banknote.txt 6 3281 3349 3547 3746 4839 4868 
+rebellion Banknote.txt 1 4528 
+complex Banknote.txt 2 2908 3649 
+huizong Banknote.txt 1 1054 
+colonies Banknote.txt 1 1780 
+several Banknote.txt 5 757 931 1117 3139 4836 
+pontiacs Banknote.txt 1 4527 
+european Banknote.txt 4 381 477 1378 1838 
+counterparty Banknote.txt 1 3338 
+workforce Banknote.txt 1 1133 
+materials Banknote.txt 4 3468 4232 4240 4257 
+claims Banknote.txt 1 5289 
+the Banknote.txt 425 12 16 52 69 82 86 98 102 176 179 210 234 257 284 292 300 310 317 329 340 351 358 363 371 389 407 412 448 459 463 466 474 483 488 496 533 583 590 595 601 628 655 668 676 680 684 701 705 717 728 739 743 755 800 820 831 845 855 876 892 896 904 912 914 919 933 937 945 949 971 973 1005 1024 1043 1052 1060 1066 1080 1083 1086 1095 1099 1107 1113 1121 1129 1132 1151 1165 1190 1207 1212 1218 1242 1261 1266 1292 1297 1300 1314 1318 1329 1334 1338 1360 1366 1369 1376 1422 1435 1441 1455 1474 1478 1486 1493 1497 1594 1635 1647 1667 1682 1715 1721 1724 1732 1738 1741 1744 1748 1764 1787 1841 1849 1854 1857 1870 1874 1890 1899 1904 1907 1911 1917 1926 1929 1932 1936 1938 1949 1957 1962 1977 1984 1992 1995 2006 2029 2038 2045 2052 2056 2076 2082 2099 2103 2114 2119 2122 2132 2136 2152 2155 2158 2164 2171 2178 2183 2192 2206 2214 2217 2223 2226 2235 2240 2261 2284 2287 2298 2302 2318 2336 2339 2349 2366 2371 2377 2388 2391 2395 2403 2407 2409 2412 2438 2465 2468 2471 2478 2493 2500 2511 2534 2538 2552 2560 2565 2572 2579 2594 2615 2635 2644 2652 2663 2674 2680 2683 2709 2712 2720 2745 2754 2758 2787 2812 2817 2830 2844 2868 2885 2907 2912 2921 2954 2958 2984 2987 2992 2996 3002 3013 3034 3046 3060 3063 3082 3088 3104 3119 3177 3200 3211 3214 3231 3235 3240 3249 3255 3258 3262 3288 3306 3342 3352 3381 3399 3438 3499 3512 3529 3543 3615 3628 3632 3666 3687 3691 3702 3708 3717 3727 3732 3737 3743 3767 3777 3780 3785 3799 3804 3858 3864 3869 3873 3876 3880 3883 3888 3894 3898 3903 3910 3926 3929 3933 3958 3965 3975 3980 3991 4020 4024 4029 4040 4074 4083 4090 4104 4156 4160 4176 4200 4235 4286 4317 4402 4423 4428 4431 4434 4457 4481 4493 4531 4556 4568 4576 4581 4584 4605 4628 4647 4653 4738 4743 4773 4784 4796 4832 4849 4858 4862 4896 4910 4944 4984 5073 5098 5100 5175 5193 5200 5257 5282 5285 5287 5291 5311 5331 5342 5351 5359 5366 5417 5421 5426 5433 5436 5441 5453 5457 5467 5487 5497 5505 5587 5594 5637 5658 5674 5694 5715 5722 5738 5741 5849 5852 5855 5874 5896 5972 5984 5987 5999 6006 6019 6029 6037 6042 6050 6056 6065 6080 
+left Banknote.txt 2 794 2499 
+just Banknote.txt 1 1622 
+transporting Banknote.txt 1 1652 
+human Banknote.txt 3 4619 4989 5043 
+novos Banknote.txt 1 3136 
+yet Banknote.txt 1 1173 
+adding Banknote.txt 1 4875 
+polos Banknote.txt 1 1468 
+forfeiture Banknote.txt 2 5339 5518 
+han Banknote.txt 1 258 
+devaluation Banknote.txt 1 3927 
+ease Banknote.txt 2 3241 3805 
+1779 Banknote.txt 1 2365 
+disparity Banknote.txt 1 5817 
+spread Banknote.txt 2 472 5074 
+collections Banknote.txt 1 5771 
+board Banknote.txt 1 3089 
+innocent Banknote.txt 1 5393 
+east Banknote.txt 1 4407 
+gave Banknote.txt 1 2711 
+usable Banknote.txt 1 2976 
+birth Banknote.txt 1 1836 
+cape Banknote.txt 1 4711 
+unique Banknote.txt 1 1289 
+advanced Banknote.txt 1 5770 
+cruzados Banknote.txt 2 3124 3135 
+appearing Banknote.txt 1 383 
+specie Banknote.txt 3 875 1344 2590 
+state-issued Banknote.txt 1 983 
+50 Banknote.txt 2 5993 5996 
+bps Banknote.txt 2 4599 4610 
+steps Banknote.txt 1 6022 
+security Banknote.txt 12 24 424 581 1927 3638 3754 4218 4299 5144 5186 5237 5278 
+csiro Banknote.txt 1 4081 
+bohemia Banknote.txt 1 4538 
+right Banknote.txt 3 929 1739 3278 
+deal Banknote.txt 1 4680 
+people Banknote.txt 9 1081 3203 3252 3291 4675 4770 4882 5394 5450 
+crown Banknote.txt 1 2115 
+malaysia Banknote.txt 1 4144 
+bisphenol Banknote.txt 1 4597 
+banknotes Banknote.txt 105 2 14 56 91 106 113 119 163 228 354 366 382 392 410 415 494 536 550 604 952 1183 1249 1426 1700 1839 1975 2055 2062 2150 2204 2212 2231 2301 2375 2485 2544 2563 2605 2626 2661 2692 2727 2748 2779 2793 2935 2990 3032 3125 3137 3144 3149 3180 3225 3313 3332 3374 3444 3471 3479 3482 3580 3611 3643 3936 3995 4001 4035 4115 4123 4132 4193 4207 4249 4323 4381 4432 4438 4462 4608 4624 4732 4768 4782 4794 4866 4888 4913 5008 5021 5120 5148 5162 5214 5248 5263 5292 5524 5622 5644 5678 5803 5806 5832 6101 
+cocaine Banknote.txt 1 5383 
+for Banknote.txt 62 71 142 164 178 222 231 505 578 587 638 851 868 883 1094 1106 1195 1247 1508 1587 1784 1991 2014 2025 2146 2317 2387 2508 2586 2744 2902 2936 3078 3138 3230 3401 3453 3470 4369 4373 4551 4892 4926 4933 4996 4999 5015 5115 5330 5392 5400 5412 5516 5641 5649 5662 5672 5701 5809 5835 5851 5918 6026 
+grading Banknote.txt 1 5747 
+1902 Banknote.txt 1 4417 
+khaki Banknote.txt 1 4419 
+barcode Banknote.txt 1 5272 
+discount Banknote.txt 1 890 
+sanjay Banknote.txt 1 5630 
+chapter Banknote.txt 1 1482 
+limitation Banknote.txt 1 1209 
+i.o.u Banknote.txt 1 557 
+citizens Banknote.txt 1 2863 
+phips Banknote.txt 1 2334 
+trustworthy Banknote.txt 1 797 
+ensure Banknote.txt 1 151 
+banker Banknote.txt 1 1758 
+steadily Banknote.txt 1 2117 
+islands Banknote.txt 1 4158 
+slightly Banknote.txt 1 3551 
+book Banknote.txt 2 1434 1485 
+re-assessment Banknote.txt 1 1885 
+chengdu Banknote.txt 1 1125 
+amounted Banknote.txt 1 958 
+civil Banknote.txt 2 4753 5517 
+down Banknote.txt 1 5088 
+bielefeld Banknote.txt 3 4261 4352 4494 
+1990s Banknote.txt 3 3934 5595 5696 
+methods Banknote.txt 2 426 3712 
+novo Banknote.txt 1 3142 
+kinegram Banknote.txt 1 3969 
+fabric Banknote.txt 1 4421 
+fight Banknote.txt 1 5304 
+resulted Banknote.txt 2 3770 5884 
+was Banknote.txt 41 264 270 304 367 545 802 909 1008 1016 1071 1145 1236 1250 1373 1768 1816 1882 2067 2095 2196 2309 2328 2376 2433 2529 2574 2687 2763 2796 3050 3085 3099 3207 3354 3696 3839 3921 4413 4519 5598 5679 
+war Banknote.txt 6 2350 2392 3831 3907 4425 4593 
+medium Banknote.txt 2 126 3197 
+form Banknote.txt 3 1958 2637 5093 
+manufacturers Banknote.txt 1 5959 
+forming Banknote.txt 1 3630 
+becoming Banknote.txt 1 5113 
+payable Banknote.txt 2 50 1902 
+verde Banknote.txt 1 4712 
+removed Banknote.txt 4 4942 4982 5067 5191 
+true Banknote.txt 2 452 694 
+watermarking Banknote.txt 2 3664 3714 
+especially Banknote.txt 1 4687 
+full Banknote.txt 1 4110 
+inside Banknote.txt 1 5936 
+devices Banknote.txt 1 4224 
+peso Banknote.txt 1 4631 
+1600s Banknote.txt 1 592 
+originating Banknote.txt 1 87 
+strengthening Banknote.txt 1 3723 
+evidence Banknote.txt 1 243 
+exist Banknote.txt 1 5207 
+promised Banknote.txt 1 893 
+20 Banknote.txt 2 2452 2881 
+physical Banknote.txt 2 1821 1954 
+marking Banknote.txt 1 5151 
+no Banknote.txt 6 196 1271 1812 4923 5484 6069 
+when Banknote.txt 14 79 160 1217 1877 2151 3113 3157 3351 3365 3410 3757 4688 5077 5967 
+dowling Banknote.txt 1 4661 
+republic Banknote.txt 3 3004 4141 4405 
+papers Banknote.txt 1 4291 
+fluids Banknote.txt 1 5047 
+dynasties Banknote.txt 1 314 
+optically Banknote.txt 1 4222 
+variable Banknote.txt 1 4223 
+transfers Banknote.txt 1 5537 
+faster Banknote.txt 1 3947 
+osterwieck Banknote.txt 1 4506 
+sniffed Banknote.txt 1 5409 
+together Banknote.txt 2 762 5091 
+vietnam Banknote.txt 1 4163 
+time Banknote.txt 6 542 646 1979 2682 2843 5777 
+stacks Banknote.txt 1 5943 
+concept Banknote.txt 2 364 484 
+chain Banknote.txt 1 4986 
+whoever Banknote.txt 2 1685 2041 
+particular Banknote.txt 1 4974 
+manager Banknote.txt 1 2153 
+reverting Banknote.txt 1 4726 
+finally Banknote.txt 1 1223 
+permanently Banknote.txt 1 5153 
+sovereignty Banknote.txt 1 1579 
+must Banknote.txt 1 5963 
+string Banknote.txt 1 1254 
+advantage Banknote.txt 1 3317 
+mid-nineteenth Banknote.txt 1 2616 
+ibrahim Banknote.txt 1 1395 
+additional Banknote.txt 2 4296 4876 
+governments Banknote.txt 2 5325 5539 
+counterfeitable Banknote.txt 1 4871 
+presented Banknote.txt 6 80 162 3267 3355 4633 4760 
+did Banknote.txt 5 455 697 899 2201 2462 
+12th Banknote.txt 1 947 
+1996 Banknote.txt 1 4101 
+standards Banknote.txt 1 1175 
+travels Banknote.txt 3 1436 1487 1636 
+depositors Banknote.txt 1 2010 
+settle Banknote.txt 1 3261 
+accumulation Banknote.txt 1 3733 
+prevent Banknote.txt 2 4214 5072 
+revolution Banknote.txt 4 1876 3833 3875 3882 
+detonated Banknote.txt 1 5059 
+appear Banknote.txt 2 457 699 
+melt Banknote.txt 1 3391 
+current Banknote.txt 3 13 1564 1605 
+rubruck Banknote.txt 1 1466 
+appeal Banknote.txt 1 5876 
+promissory Banknote.txt 8 44 298 518 559 841 1664 1801 1986 
+peeled Banknote.txt 1 6063 
+french Banknote.txt 2 3881 4562 
+water Banknote.txt 2 3572 5040 
+goldsmith-banker Banknote.txt 1 1937 
+alone Banknote.txt 3 1031 1112 1155 
+along Banknote.txt 1 2828 
+canadian Banknote.txt 3 4745 4752 5026 
+shift Banknote.txt 2 1855 1982 
+commonly Banknote.txt 1 4283 
+franklin Banknote.txt 1 2364 
+usually Banknote.txt 5 74 874 1751 1809 4935 
+extra Banknote.txt 1 3576 
+marked Banknote.txt 1 5160 
+crisis Banknote.txt 2 3828 4347 
+market Banknote.txt 2 99 2274 
+everybody Banknote.txt 1 1583 
+handled Banknote.txt 1 2765 
+prove Banknote.txt 1 5439 
+visit Banknote.txt 1 1389 
+france Banknote.txt 4 2353 2394 2491 4554 
+territories Banknote.txt 1 1573 
+overstamped Banknote.txt 2 3127 3152 
+opposed Banknote.txt 1 2276 
+australian Banknote.txt 1 5082 
+theoretical Banknote.txt 1 3363 
+today Banknote.txt 3 191 5208 5790 
+inventions Banknote.txt 1 665 
+cashier Banknote.txt 2 84 2836 
+validity Banknote.txt 1 5283 
+luxembourgish Banknote.txt 1 3056 
+virtue Banknote.txt 1 2905 
+cases Banknote.txt 1 6015 
+effort Banknote.txt 1 2351 
+organizations Banknote.txt 2 3073 5845 
+valued Banknote.txt 1 224 
+ibn Banknote.txt 1 1396 
+10,000 Banknote.txt 1 3123 
+originally Banknote.txt 6 58 543 1736 2571 3208 3227 
+printing Banknote.txt 10 408 425 923 988 992 1108 1353 2185 3557 3979 
+values Banknote.txt 3 233 1246 4798 
+can Banknote.txt 7 3150 3668 3810 3951 5171 5784 5948 
+growing Banknote.txt 1 5573 
+making Banknote.txt 1 290 
+dollars Banknote.txt 1 5840 
+impracticality Banknote.txt 1 1650 
+claim Banknote.txt 1 3229 
+portals Banknote.txt 1 3699 
+months Banknote.txt 2 645 3140 
+expanding Banknote.txt 1 5591 
+chip Banknote.txt 1 5269 
+agent Banknote.txt 2 5159 5182 
+allowed Banknote.txt 1 130 
+235 Banknote.txt 2 5664 5667 
+clothing Banknote.txt 1 5919 
+occur Banknote.txt 1 3946 
+swedish Banknote.txt 1 2104 
+bankrupt Banknote.txt 1 2174 
+1 Banknote.txt 2 3131 3915 
+pure Banknote.txt 4 607 1532 1631 4326 
+economy Banknote.txt 1 666 
+146 Banknote.txt 1 288 
+product Banknote.txt 5 1093 5908 5973 6043 6067 
+may Banknote.txt 8 1591 2776 3074 3344 3448 3937 5760 6023 
+fed Banknote.txt 1 5102 
+southern Banknote.txt 1 1220 
+islamic Banknote.txt 1 4404 
+produce Banknote.txt 1 3835 
+designed Banknote.txt 3 4791 4803 5893 
+date Banknote.txt 1 532 
+such Banknote.txt 12 376 630 1459 3829 4056 4220 4258 4396 4830 4853 5048 5540 
+man Banknote.txt 2 4027 4579 
+natural Banknote.txt 1 3316 
+varieties Banknote.txt 1 1041 
+so Banknote.txt 1 4878 
+deposit Banknote.txt 7 327 715 934 943 2142 2427 3298 
+indeed Banknote.txt 1 1582 
+forfeit Banknote.txt 1 5452 
+mainly Banknote.txt 1 1705 
+years Banknote.txt 8 1206 1213 2169 3404 3537 4236 4919 5673 
+course Banknote.txt 1 1336 
+still Banknote.txt 3 1088 3406 5807 
+1833 Banknote.txt 1 2593 
+group Banknote.txt 1 3706 
+organisation Banknote.txt 1 4080 
+torn Banknote.txt 1 5006 
+forms Banknote.txt 1 3455 
+suspicion Banknote.txt 1 5364 
+mail Banknote.txt 1 5684 
+main Banknote.txt 2 434 4009 
+not Banknote.txt 23 456 514 698 900 1172 1931 1967 2202 2463 2752 2851 2943 2980 3345 3541 3840 4707 4772 4820 5197 5390 5512 5579 
+now Banknote.txt 4 3280 3986 3996 4725 
+widespread Banknote.txt 3 1234 5488 5581 
+teller Banknote.txt 1 5217 
+possess Banknote.txt 1 20 
+outweigh Banknote.txt 1 3465 
+term Banknote.txt 1 1716 
+name Banknote.txt 2 2466 2823 
+establishing Banknote.txt 1 2519 
+realistic Banknote.txt 1 6084 
+entirely Banknote.txt 1 2766 
+realism Banknote.txt 1 6017 
+square Banknote.txt 1 3497 
+begun Banknote.txt 1 5555 
+year Banknote.txt 4 957 1020 1049 2233 
+intended Banknote.txt 1 4292 
+canada Banknote.txt 4 4137 4523 4563 5542 
+factory Banknote.txt 1 1152 
+looking Banknote.txt 1 3637 
+dutch Banknote.txt 1 4572 
+shows Banknote.txt 1 5712 
+earlier Banknote.txt 1 6036 
+million Banknote.txt 3 965 2705 5839 
+quite Banknote.txt 1 1141 
+advantages Banknote.txt 3 921 3109 3464 
+obligation Banknote.txt 1 146 
+explorers Banknote.txt 2 478 1379 
+minted Banknote.txt 1 3185 
+kingdoms Banknote.txt 1 1569 
+initiate Banknote.txt 1 2370 
+flanders Banknote.txt 1 1644 
+place Banknote.txt 1 1868 
+massive Banknote.txt 1 1341 
+think Banknote.txt 1 3292 
+first Banknote.txt 18 301 305 368 441 856 1842 2053 2057 2227 2367 2474 3762 3966 4021 4030 4091 4105 4202 
+romania Banknote.txt 1 4153 
+striking Banknote.txt 1 852 
+wholesalers Banknote.txt 2 336 724 
+one Banknote.txt 5 1253 1258 3675 4856 5776 
+commissioners Banknote.txt 1 3091 
+carry Banknote.txt 3 784 3309 3326 
+size Banknote.txt 2 1130 2120 
+city Banknote.txt 1 584 
+given Banknote.txt 2 803 2782 
+uks Banknote.txt 1 2955 
+plastic Banknote.txt 5 3740 4034 4050 4098 5094 
+legally Banknote.txt 2 65 2791 
+that Banknote.txt 46 125 152 747 775 815 823 1018 1048 1150 1179 1368 1798 1916 1964 2242 2307 2461 2533 2581 2604 3202 3251 3290 3293 3321 3341 3386 3446 3546 3745 3945 4225 4615 4872 4883 4970 5250 5264 5290 5321 5349 5365 5486 5752 5891 5941 
+copy Banknote.txt 1 3751 
+holder Banknote.txt 2 1742 1934 
+than Banknote.txt 11 1158 1273 1910 1948 3948 4242 4372 4685 5812 5837 5998 
+royal Banknote.txt 1 3786 
+10 Banknote.txt 2 3134 4746 
+14 Banknote.txt 1 2704 
+require Banknote.txt 1 2464 
+transferred Banknote.txt 1 3247 
+unfit Banknote.txt 2 4995 5114 
+were Banknote.txt 53 57 64 322 355 522 551 575 613 622 710 748 780 792 1140 1171 1184 1193 1321 1363 1402 1530 1628 1670 1823 2002 2417 2455 2515 2620 2634 2696 2846 3126 3145 3192 3218 3226 3367 3581 3761 4037 4052 4062 4208 4366 4441 4463 4514 4542 4549 4733 4790 4802 
+cards Banknote.txt 2 4548 5533 
+and Banknote.txt 141 203 263 312 335 416 512 580 621 671 723 799 887 979 994 998 1075 1098 1127 1192 1201 1215 1277 1283 1325 1380 1463 1525 1558 1570 1572 1574 1578 1581 1606 1614 1643 1649 1713 1729 1775 1790 2249 2263 2424 2444 2470 2525 2627 2756 2824 2835 2850 2927 2970 3029 3110 3122 3128 3133 3147 3248 3301 3311 3371 3375 3443 3527 3538 3558 3592 3623 3656 3684 3739 3753 3784 3817 3852 3893 4017 4023 4044 4061 4069 4077 4082 4099 4164 4183 4213 4256 4278 4298 4301 4312 4348 4361 4477 4488 4508 4529 4560 4574 4587 4679 4694 4715 4767 4957 5089 5170 5196 5221 5273 5295 5306 5315 5337 5355 5384 5414 5531 5534 5548 5584 5609 5623 5691 5710 5718 5754 5764 5778 5830 5846 5877 5924 5928 5947 6060 6089 
+13th Banknote.txt 3 372 489 1442 
+non-circulating Banknote.txt 1 213 
+shexian Banknote.txt 1 1029 
+exchanging Banknote.txt 1 2269 
+slab Banknote.txt 1 5755 
+any Banknote.txt 1 2280 
+efficient Banknote.txt 1 1789 
+note Banknote.txt 27 38 45 560 633 861 1718 1745 1802 1918 1987 2046 2161 2413 2721 2840 2860 2882 3353 3728 3738 4632 4700 4975 5310 5858 5914 5980 
+18th Banknote.txt 1 618 
+nota Banknote.txt 1 1726 
+take Banknote.txt 1 5964 
+multiple Banknote.txt 1 2015 
+price Banknote.txt 2 1875 5689 
+14,400 Banknote.txt 1 3923 
+printed Banknote.txt 15 1268 1278 2448 2457 2459 3146 3582 3953 4038 4324 4382 4415 4464 4515 5911 
+sheets Banknote.txt 1 1035 
+america Banknote.txt 3 3892 3902 5473 
+1,500,000 Banknote.txt 1 1034 
+considered Banknote.txt 3 2608 6010 6046 
+average Banknote.txt 2 3530 4916 
+later Banknote.txt 8 471 531 867 895 1335 2170 2234 3100 
+polyvinyl Banknote.txt 1 3566 
+ways Banknote.txt 1 6003 
+typically Banknote.txt 1 3156 
+laws Banknote.txt 1 5348 
+precise Banknote.txt 1 2422 
+german Banknote.txt 2 4338 4497 
+cheap Banknote.txt 1 2107 
+paperweights Banknote.txt 1 5927 
+corner Banknote.txt 1 3720 
+dice Banknote.txt 2 5234 5312 
+romanian Banknote.txt 1 4005 
+transact Banknote.txt 1 1611 
+stained Banknote.txt 1 5161 
+proportion Banknote.txt 1 3286 
+3 Banknote.txt 1 644 
+crime Banknote.txt 3 3792 5176 5305 
+only Banknote.txt 7 92 206 1197 2530 2693 3677 4774 
+wood Banknote.txt 2 4362 4517 
+221 Banknote.txt 2 5643 5646 
+treasury Banknote.txt 2 2734 4320 
+awareness Banknote.txt 2 5612 5733 
+windowed Banknote.txt 1 3682 
+designated Banknote.txt 1 1200 
+countered Banknote.txt 1 402 
+notaphily Banknote.txt 1 5569 
+cannot Banknote.txt 3 5163 5189 6061 
+nearly Banknote.txt 1 5904 
+lighter Banknote.txt 1 3324 
+dye Banknote.txt 1 5061 
+leather Banknote.txt 6 267 280 4260 4358 4437 4498 
+hangzhou Banknote.txt 2 1126 1154 
+city-state Banknote.txt 1 1778 
+where Banknote.txt 6 3462 4817 4835 5440 5504 6016 
+bulgaria Banknote.txt 1 4198 
+declared Banknote.txt 1 2947 
+huizhou Banknote.txt 1 1124 
+physically Banknote.txt 2 1814 1824 
+seat Banknote.txt 2 5953 6034 
+relative Banknote.txt 1 2129 
+1921 Banknote.txt 2 2678 4265 
+1922 Banknote.txt 1 3914 
+1923 Banknote.txt 3 4341 4501 4513 
+1928 Banknote.txt 1 2724 
+encouraged Banknote.txt 1 2139 
+federal Banknote.txt 2 2535 2855 
+circulating Banknote.txt 3 858 4113 4130 
+outside Banknote.txt 2 1781 2642 
+between Banknote.txt 2 1211 3441 
+reading Banknote.txt 1 6093 
+infrastructure Banknote.txt 1 4851 
+vertical Banknote.txt 6 4625 4636 4638 4659 4735 4763 
+originated Banknote.txt 3 253 502 838 
+article Banknote.txt 2 435 4010 
+cities Banknote.txt 1 1122 
+reaction Banknote.txt 1 5506 
+dates Banknote.txt 1 1730 
+discernible Banknote.txt 1 4880 
+many Banknote.txt 5 2771 3993 5347 5449 5843 
+region Banknote.txt 1 1084 
+trades Banknote.txt 1 5670 
+according Banknote.txt 1 1383 
+s Banknote.txt 1 4598 
+traded Banknote.txt 1 93 
+comes Banknote.txt 1 1719 
+colony Banknote.txt 1 4569 
+period Banknote.txt 2 4344 5652 
+63 Banknote.txt 1 5481 
+polo Banknote.txt 8 379 481 1420 1439 1462 1490 1634 1639 
+counterfeiting Banknote.txt 7 388 413 1296 3752 3776 4215 5978 
+considering Banknote.txt 1 5544 
+encryption Banknote.txt 2 5228 5233 
+certify Banknote.txt 1 3189 
+mark Banknote.txt 1 4264 
+government-run Banknote.txt 1 1118 
+deposited Banknote.txt 1 1755 
+featuring Banknote.txt 1 4748 
+direction Banknote.txt 1 4739 
+krone Banknote.txt 1 3918 
+shortages Banknote.txt 1 1342 
+thousand Banknote.txt 1 1160 
+dramatic Banknote.txt 1 3773 
+external Banknote.txt 1 6095 
+yugoslav Banknote.txt 1 3930 
+those Banknote.txt 1 3011 
+case Banknote.txt 3 2755 3173 5468 
+these Banknote.txt 28 89 840 940 1136 1248 1410 1515 1537 1601 1669 1691 1860 2000 2047 2080 2148 2801 2815 2972 4036 4048 4364 4865 5065 5118 5901 5961 5969 
+cash Banknote.txt 9 499 968 1256 1656 5335 5354 5405 5418 5442 
+1107 Banknote.txt 1 1265 
+ongoing Banknote.txt 1 3451 
+shall Banknote.txt 2 1599 1607 
+1101 Banknote.txt 2 1022 1051 
+situation Banknote.txt 1 5503 
+shops Banknote.txt 1 935 
+polymer Banknote.txt 10 4000 4007 4011 4032 4092 4114 4131 4171 4192 4206 
+orientation Banknote.txt 5 4626 4648 4656 4660 4729 
+eventually Banknote.txt 1 830 
+middle Banknote.txt 1 756 
+austro-hungarian Banknote.txt 1 3917 
+converts Banknote.txt 1 3160 
+technology Banknote.txt 3 3665 5238 5258 
+everyday Banknote.txt 1 4955 
+diseases Banknote.txt 1 5076 
+bags Banknote.txt 1 5130 
+different Banknote.txt 11 10 1040 2772 2853 3041 3439 3516 3608 5647 5668 5844 
+proto Banknote.txt 1 1709 
+pay Banknote.txt 7 156 248 564 1681 2037 2406 2827 
+same Banknote.txt 2 1978 2681 
+bermuda Banknote.txt 1 4709 
+anticounterfeiting Banknote.txt 1 404 
+stepped Banknote.txt 1 977 
+document Banknote.txt 1 1908 
+isle Banknote.txt 2 4025 4577 
+sterling Banknote.txt 1 2994 
+centuries Banknote.txt 1 430 
+singapore Banknote.txt 4 3083 3094 3108 4155 
+disadvantages Banknote.txt 3 3111 3440 3467 
+rfid Banknote.txt 1 5268 
+driver Banknote.txt 1 422 
+sieges Banknote.txt 1 4447 
+chrysantha Banknote.txt 1 3591 
+changing Banknote.txt 2 4861 5983 
+costa Banknote.txt 1 4015 
+paderborn Banknote.txt 1 4507 
+largely Banknote.txt 1 4847 
+kaan Banknote.txt 1 1495 
+constitutional Banknote.txt 1 2909 
+without Banknote.txt 2 1356 5198 
+solve Banknote.txt 3 788 5298 5316 
+being Banknote.txt 5 2084 2456 3460 6009 6074 
+money Banknote.txt 67 34 438 454 501 538 544 573 609 650 659 696 811 829 835 908 925 985 1105 1111 1138 1170 1231 1269 1307 1355 1372 1446 1472 1509 1660 1844 1888 2007 2028 2180 2188 2243 2308 2386 2675 2945 2978 3289 3436 3458 3606 3809 3837 3862 4331 4412 4545 4682 4696 4702 4907 4945 5107 5367 5427 5437 5454 5536 5560 5615 5736 5822 
+rest Banknote.txt 1 2985 
+instrument Banknote.txt 1 1831 
+role Banknote.txt 1 3452 
+kingdom Banknote.txt 2 2914 4162 
+around Banknote.txt 3 785 5848 5866 
+digital Banknote.txt 3 5277 5551 5557 
+sums Banknote.txt 1 1654 
+early Banknote.txt 10 497 647 946 1425 2516 3578 4049 4557 4730 5695 
+inflation Banknote.txt 3 1881 3380 4818 
+traffic Banknote.txt 1 5401 
+world Banknote.txt 6 3906 3992 4592 5639 5660 5850 
+accepted Banknote.txt 1 577 
+vertically Banknote.txt 3 4683 4706 4719 
+vending Banknote.txt 2 4765 4788 
+neutralisation Banknote.txt 2 5135 5140 
+souvenirs Banknote.txt 1 5132 
+facing Banknote.txt 1 1340 
+fully Banknote.txt 1 2458 
+served Banknote.txt 2 100 1833 
+travelogue Banknote.txt 1 1386 
+burdens Banknote.txt 1 1078 
+plethora Banknote.txt 1 5887 
+duration Banknote.txt 3 886 1326 1359 
+gross Banknote.txt 1 5788 
+dimensions Banknote.txt 1 5985 
+micro Banknote.txt 1 3657 
+1852 Banknote.txt 1 4276 
+recorded Banknote.txt 2 1017 1146 
+1855 Banknote.txt 1 2477 
+luxembourg Banknote.txt 2 3045 3049 
+pioneer Banknote.txt 1 4755 
+scientific Banknote.txt 1 4076 
+power Banknote.txt 1 1577 
+1933 Banknote.txt 1 4410 
+1932 Banknote.txt 1 2810 
+inherent Banknote.txt 1 395 
+thailand Banknote.txt 1 4159 
+refers Banknote.txt 1 5104 
+on Banknote.txt 29 54 251 277 508 547 569 763 1079 1358 1551 1804 1925 1961 2239 2414 2426 2837 3583 3674 3736 4325 4383 4418 4465 4516 5036 5261 5425 5493 
+central Banknote.txt 12 116 182 915 974 2065 2521 2545 2654 2731 2956 3359 3911 
+of Banknote.txt 281 7 9 15 42 85 127 168 173 181 212 236 244 266 296 326 343 365 391 409 414 423 437 468 535 585 597 627 663 667 675 690 714 731 741 778 806 849 872 878 922 930 932 939 942 951 963 967 1012 1026 1036 1050 1055 1062 1082 1091 1103 1109 1123 1131 1168 1176 1182 1189 1204 1229 1244 1255 1288 1299 1337 1343 1387 1400 1407 1424 1437 1447 1457 1465 1470 1480 1483 1488 1499 1517 1531 1539 1603 1616 1620 1630 1637 1646 1651 1655 1707 1711 1723 1740 1743 1773 1782 1793 1837 1859 1865 1886 1893 1906 1928 1935 1946 1952 1959 1972 1994 2044 2075 2078 2090 2102 2110 2121 2135 2154 2160 2186 2211 2216 2219 2230 2260 2266 2283 2300 2320 2325 2338 2341 2374 2379 2390 2411 2440 2467 2505 2537 2548 2554 2562 2569 2599 2638 2648 2665 2673 2685 2714 2726 2747 2761 2814 2832 2865 2871 2887 2893 2906 2920 2960 2986 2991 3001 3005 3033 3062 3090 3092 3107 3179 3198 3213 3257 3273 3287 3383 3403 3422 3433 3456 3491 3532 3571 3586 3603 3690 3701 3719 3726 3734 3782 3802 3827 3855 3860 3891 3897 3901 3905 3919 3928 3977 3982 4026 4086 4112 4116 4179 4239 4288 4337 4345 4356 4388 4406 4430 4446 4454 4460 4469 4483 4570 4578 4583 4607 4643 4740 4751 4795 4825 4852 4857 4864 4889 4917 4954 5031 5075 5080 5284 5334 5353 5377 5382 5435 5461 5469 5472 5490 5507 5575 5613 5632 5676 5683 5721 5734 5743 5797 5800 5802 5880 5888 5898 5907 5944 5960 5986 6008 6031 6073 
+act Banknote.txt 3 2568 2647 2710 
+mixed Banknote.txt 2 3503 5090 
+or Banknote.txt 41 35 76 133 189 201 215 279 558 611 1240 1534 1753 2428 2701 2733 2741 2774 2946 3182 3221 3395 3507 3568 3832 3845 4033 4399 4439 4937 4949 4980 5005 5017 5044 5253 5270 5398 5568 5756 5954 5995 
+outlook Banknote.txt 1 2294 
+burning Banknote.txt 1 4908 
+authorities Banknote.txt 1 3816 
+accounts Banknote.txt 2 1456 3300 
+area Banknote.txt 3 1324 5500 5574 
+there Banknote.txt 7 2432 2514 2795 3447 5345 5362 5841 
+los Banknote.txt 1 5498 
+1039 Banknote.txt 1 5480 
+cloths Banknote.txt 1 1411 
+enough Banknote.txt 1 773 
+sophisticated Banknote.txt 1 1791 
+with Banknote.txt 37 3 171 209 380 517 524 594 687 750 795 814 996 1280 1286 1409 1521 1536 1756 2402 2502 2564 2829 3153 3242 3488 3504 3565 3663 3806 4054 4166 4306 4681 5156 5550 5912 5932 
+longer Banknote.txt 3 1813 4924 6070 
+dominican Banknote.txt 1 4140 
+embedded Banknote.txt 3 3998 4307 5935 
+monopoly Banknote.txt 3 928 2558 2718 
+1850s Banknote.txt 1 2869 
+internationale Banknote.txt 1 3048 
+toilet Banknote.txt 1 5930 
+ad Banknote.txt 2 1023 1149 
+certain Banknote.txt 1 2915 
+sales Banknote.txt 3 1613 5789 5801 
+general Banknote.txt 1 4844 
+as Banknote.txt 65 30 242 333 377 503 537 555 631 721 1143 1309 1327 1404 1460 1522 1527 1542 1623 1625 1695 1708 1834 1862 1873 1901 1922 1999 2027 2051 2087 2275 2335 2429 2486 2609 2950 2977 3067 3069 3130 3195 3296 3681 3830 4057 4221 4259 4397 4448 4450 4544 4831 5049 5131 5154 5301 5303 5541 5562 5580 5582 5820 5951 5977 6076 
+at Banknote.txt 21 21 94 281 529 888 1045 1153 1178 1260 1976 2060 2518 2679 3165 5396 5445 5707 5775 5991 6071 6102 
+again Banknote.txt 1 4588 
+hybrid Banknote.txt 1 4203 
+fifty-five Banknote.txt 1 2354 
+valid Banknote.txt 2 141 1194 
+5 Banknote.txt 2 2859 3132 
+congress Banknote.txt 1 3871 
+includes Banknote.txt 1 4251 
+massachusetts Banknote.txt 1 2342 
+fiscal Banknote.txt 1 4346 
+assert Banknote.txt 1 5863 
+assets Banknote.txt 1 5357 
+kuwait Banknote.txt 1 4175 
+starting Banknote.txt 1 315 
+original Banknote.txt 4 1315 1912 3424 6000 
+all Banknote.txt 10 1510 1514 1549 1567 1612 1820 1971 3421 4117 5318 
+nepal Banknote.txt 1 4146 
+chinese Banknote.txt 9 648 664 744 997 1370 1444 3579 4731 4741 
+caused Banknote.txt 1 5617 
+dollar Banknote.txt 4 2355 3027 3084 4840 
+causes Banknote.txt 1 1548 
+removal Banknote.txt 1 596 
+to Banknote.txt 141 51 67 81 139 150 247 272 338 527 563 616 726 783 787 822 865 891 936 959 1042 1058 1186 1257 1294 1345 1384 1390 1429 1506 1555 1562 1610 1680 1684 1698 1746 1826 1896 1903 1969 2012 2017 2036 2040 2116 2125 2130 2141 2277 2296 2346 2369 2384 2405 2420 2453 2542 2578 2622 2658 2662 2689 2703 2804 2809 2826 2899 2931 3010 3023 3052 3161 3176 3188 3205 3239 3260 3308 3325 3348 3379 3493 3573 3671 3715 3730 3750 3788 3794 3822 3834 3850 3941 3970 4107 4128 4190 4210 4229 4247 4293 4316 4492 4618 4657 4677 4727 4737 4780 4792 4804 4838 4867 4900 4977 5071 5092 5105 5174 5212 5275 5280 5297 5326 5403 5432 5438 5593 5603 5704 5726 5750 5779 5825 5864 5894 5989 6004 6040 6055 6100 
+shredding Banknote.txt 1 4938 
+presentation Banknote.txt 1 570 
+song Banknote.txt 13 313 464 652 669 706 832 846 905 1006 1056 1114 1221 1330 
+very Banknote.txt 2 3284 3748 
+ultraviolet Banknote.txt 1 3553 
+17th Banknote.txt 1 2289 
+louis Banknote.txt 1 2497 
+618907 Banknote.txt 2 332 720 
+list Banknote.txt 1 662 
+reval Banknote.txt 1 4486 
+large Banknote.txt 5 347 735 1010 1142 1653 
+small Banknote.txt 5 1398 2891 3285 5129 5601 
+tear Banknote.txt 2 3528 4958 
+20th Banknote.txt 1 4786 
+titled Banknote.txt 1 1491 
+strung Banknote.txt 1 761 
+rate Banknote.txt 4 962 1416 2159 3170 
+design Banknote.txt 3 2361 4666 4863 
+pass Banknote.txt 2 1507 1563 
+further Banknote.txt 2 3685 6092 
+rectangular Banknote.txt 1 752 
+disruptor Banknote.txt 1 4614 
+short-lived Banknote.txt 1 2058 
+hudsons Banknote.txt 1 4532 
+certificates Banknote.txt 2 941 1097 
+tribute Banknote.txt 2 1014 1067 
+public Banknote.txt 1 5611 
+5000 Banknote.txt 3 8 3121 3959 
+edgeworthia Banknote.txt 1 3590 
+presence Banknote.txt 1 5489 
+component Banknote.txt 1 3639 
+threads Banknote.txt 1 4309 
+1848 Banknote.txt 1 4536 
+devaluates Banknote.txt 1 5247 
+identifiable Banknote.txt 1 5262 
+1844 Banknote.txt 3 2570 2649 4311 
+prior Banknote.txt 2 3175 5592 
+amount Banknote.txt 7 894 950 1061 1683 2039 2423 5376 
+numismatics Banknote.txt 1 5576 
+social Banknote.txt 1 2248 
+sealing Banknote.txt 1 2215 
+via Banknote.txt 2 1759 5713 
+followed Banknote.txt 1 4822 
+backed Banknote.txt 3 1237 2698 3368 
+coatings Banknote.txt 1 3729 
+establish Banknote.txt 1 2484 
+readily Banknote.txt 2 576 1586 
+conventional Banknote.txt 1 4654 
+khan Banknote.txt 2 1304 1547 
+takes Banknote.txt 1 1584 
+distinct Banknote.txt 1 4807 
+contains Banknote.txt 1 5380 
+two Banknote.txt 4 2919 2997 3040 3536 
+taken Banknote.txt 3 1064 3101 5078 
+amassing Banknote.txt 1 1009 
+authorization Banknote.txt 1 2806 
+more Banknote.txt 8 1157 1788 1818 3523 5618 5699 5836 5925 
+revolutionary Banknote.txt 1 4390 
+israel Banknote.txt 3 4143 4713 4723 
+substances Banknote.txt 1 5492 
+company Banknote.txt 6 4043 4270 4302 4534 5244 5288 
+varying Banknote.txt 1 1245 
+known Banknote.txt 8 29 294 302 1308 1451 3680 4474 4503 
+factories Banknote.txt 2 1119 1139 
+entrapment Banknote.txt 1 3803 
+could Banknote.txt 8 154 759 826 1919 2583 3245 5265 5974 
+evolved Banknote.txt 2 540 605 
+v Banknote.txt 1 5474 
+strategies Banknote.txt 1 3797 
+history Banknote.txt 4 180 432 436 3976 
+purchases Banknote.txt 1 1615 
+accept Banknote.txt 1 4781 
+states Banknote.txt 16 1100 2513 2540 2789 2922 3890 3896 3900 4319 4436 4479 4834 4912 5344 5459 5471 
+sharp Banknote.txt 1 5729 
+needs Banknote.txt 1 4976 
+court Banknote.txt 2 1115 5460 
+goal Banknote.txt 1 6020 
+rather Banknote.txt 4 1909 3648 4371 4684 
+acts Banknote.txt 1 2602 
+american Banknote.txt 3 3874 4041 4269 
+surpassed Banknote.txt 1 5793 
+1694 Banknote.txt 2 2222 2383 
+1695 Banknote.txt 1 2401 
+stemming Banknote.txt 1 2278 
+1690 Banknote.txt 1 2345 
+reject Banknote.txt 1 4887 
+mould Banknote.txt 1 3616 
+plans Banknote.txt 1 4189 
+1274 Banknote.txt 1 1216 
+reflect Banknote.txt 1 3942 
+blood Banknote.txt 1 5054 
+horizontal Banknote.txt 2 4655 4728 
+a Banknote.txt 141 4 26 31 37 40 48 136 144 238 245 249 420 525 530 561 624 632 751 764 796 804 860 863 884 927 955 989 1159 1162 1199 1225 1385 1388 1405 1413 1481 1589 1677 1696 1757 1760 1800 1805 1810 1863 1884 1943 2033 2064 2073 2088 2189 2232 2247 2252 2258 2267 2272 2315 2322 2421 2430 2434 2487 2503 2520 2557 2576 2597 2730 2739 2781 2797 2838 2858 2872 2876 2879 2890 3095 3158 3162 3196 3228 3270 3283 3315 3362 3393 3473 3489 3533 3601 3621 3635 3772 3823 3853 3971 4003 4109 4237 4335 4343 4354 4386 4444 4467 4635 4641 4658 4663 4669 4749 4762 4939 4967 4973 4988 5025 5037 5157 5184 5236 5271 5276 5328 5374 5502 5508 5563 5571 5599 5650 5681 5728 5827 5838 5886 5952 6011 
+short Banknote.txt 2 848 5651 
+holograms Banknote.txt 1 3999 
+resemble Banknote.txt 1 5942 
+media Banknote.txt 1 6098 
+banks Banknote.txt 14 62 117 148 183 2619 2769 2773 2785 2917 3020 3043 3336 3360 4948 
+geographic Banknote.txt 1 1208 
+playing Banknote.txt 1 4547 
+help Banknote.txt 1 2347 
+developed Banknote.txt 4 306 442 4045 4209 
+urine Banknote.txt 1 5050 
+soon Banknote.txt 3 917 1675 2031 
+trade Banknote.txt 1 1408 
+held Banknote.txt 5 507 3233 5465 5636 5657 
+paper Banknote.txt 73 33 439 453 469 493 500 649 658 691 695 742 807 821 834 907 924 984 1013 1037 1063 1092 1104 1110 1137 1169 1230 1293 1306 1354 1371 1445 1471 1505 1518 1540 1604 1843 2187 2759 3476 3478 3487 3513 3519 3549 3560 3562 3584 3600 3605 3629 3693 3744 3758 3808 3836 3861 3884 3924 3972 4122 4243 4305 4315 4328 5106 5494 5546 5559 5614 5735 5821 5899 
+through Banknote.txt 7 1454 2182 4216 4622 4692 4966 5680 
+its Banknote.txt 12 320 708 1233 2127 2587 2822 2833 3054 3463 3466 4121 4960 
+roots Banknote.txt 2 321 709 
+25 Banknote.txt 1 4263 
+26 Banknote.txt 1 964 
+rapidly Banknote.txt 1 2176 
+late Banknote.txt 4 591 1219 2288 4785 
+systems Banknote.txt 1 5141 
+someone Banknote.txt 1 565 
+jiaozi Banknote.txt 4 654 672 837 897 
+waged Banknote.txt 1 2495 
+vomit Banknote.txt 1 5052 
+easily Banknote.txt 4 786 4879 5169 5195 
+always Banknote.txt 2 155 2753 
+whithersoever Banknote.txt 1 1575 
+capability Banknote.txt 1 4811 
+payee Banknote.txt 1 2469 
+token Banknote.txt 1 3219 
+stopped Banknote.txt 1 5399 
+authorisation Banknote.txt 1 2657 
+pernau Banknote.txt 1 4485 
+referred Banknote.txt 1 615 
+heavy Banknote.txt 5 341 729 782 1077 2133 
+england Banknote.txt 11 2220 2380 2555 2641 2666 2686 2715 2961 2969 3765 3783 
+weight Banknote.txt 2 2134 3490 
+hard Banknote.txt 1 3749 
+reduce Banknote.txt 2 3716 3731 
+idea Banknote.txt 1 235 
+event Banknote.txt 1 5719 
+funding Banknote.txt 1 2389 
+alcohol Banknote.txt 1 3567 
+linens Banknote.txt 1 5921 
+since Banknote.txt 4 1264 4124 4321 5628 
+research Banknote.txt 2 4068 4079 
+commemorative Banknote.txt 1 4170 
+print Banknote.txt 4 2543 2932 3658 4248 
+issue Banknote.txt 20 877 2094 2162 2203 2210 2229 2299 2327 2373 2561 2623 2659 2690 2722 2725 2746 2897 3024 3053 4191 
+benjamin Banknote.txt 1 2363 
+fiber Banknote.txt 1 1290 
+dirt Banknote.txt 1 3735 
+pneck Banknote.txt 1 4509 
+members Banknote.txt 1 5868 
+ask Banknote.txt 1 2013 
+earliest Banknote.txt 1 657 
+beginning Banknote.txt 2 1668 4582 
+generate Banknote.txt 1 5785 
+fiat Banknote.txt 3 208 608 2944 
+benefits Banknote.txt 1 5313 
+thread Banknote.txt 4 3624 3633 3667 3683 
+e.g Banknote.txt 1 3863 
+conducted Banknote.txt 2 4668 4705 
+circuit Banknote.txt 1 5464 
+copper Banknote.txt 5 344 732 850 2111 2123 
+simply Banknote.txt 4 36 2257 2575 5451 
+number Banknote.txt 8 2892 3718 4238 4336 4355 4387 4445 4468 
+1879 Banknote.txt 1 4322 
+introduction Banknote.txt 3 3061 3178 4824 
+leading Banknote.txt 1 3849 
+least Banknote.txt 3 22 282 5992 
+assumption Banknote.txt 2 1963 2241 
+passed Banknote.txt 1 4965 
+nigeria Banknote.txt 1 4195 
+hundred Banknote.txt 1 1259 
+recovered Banknote.txt 1 3413 
+part Banknote.txt 4 626 1772 3700 3725 
+1914 Banknote.txt 1 3920 
+kind Banknote.txt 1 3602 
+determines Banknote.txt 1 4971 
+dogs Banknote.txt 1 5411 
+recording Banknote.txt 1 808 
+nevertheless Banknote.txt 1 898 
+determined Banknote.txt 2 2245 4674 
+toward Banknote.txt 2 1856 2437 
+motivation Banknote.txt 1 5329 
+macau Banknote.txt 1 3031 
+imports Banknote.txt 1 2109 
+alongside Banknote.txt 1 911 
+preprinted Banknote.txt 1 2839 
+sell Banknote.txt 1 5808 
+u.s Banknote.txt 2 5378 5475 
+patterns Banknote.txt 1 5915 
+scotland Banknote.txt 2 2888 2926 
+also Banknote.txt 19 661 1832 1940 2975 3329 3539 3938 4414 4520 4699 4734 4906 5023 5206 5656 5759 5938 5957 6086 
+costs Banknote.txt 1 3432 
+17631764 Banknote.txt 1 4525 
+province Banknote.txt 1 2340 
+notgeld Banknote.txt 2 4332 4499 
+measures Banknote.txt 2 405 3755 
+quota Banknote.txt 1 1068 
+most Banknote.txt 9 192 1262 3481 3556 3610 3642 4350 4595 5179 
+significant Banknote.txt 2 4067 5375 
+services Banknote.txt 2 5748 5751 
+extremely Banknote.txt 1 4227 
+grams Banknote.txt 1 3495 
+windows Banknote.txt 1 3741 
+sometimes Banknote.txt 3 1284 3502 5126 
+cover Banknote.txt 2 5314 5903 
+optical Banknote.txt 1 3983 
+1685 Banknote.txt 1 4565 
+institutions Banknote.txt 2 2775 4952 
+gold Banknote.txt 12 75 188 1239 1533 1632 1752 1880 2253 2700 3370 3414 3916 
+1265 Banknote.txt 1 1214 
+fine Banknote.txt 1 5055 
+find Banknote.txt 1 1600 
+unusable Banknote.txt 1 5149 
+northern Banknote.txt 3 2928 4177 4180 
+duncan Banknote.txt 1 4662 
+anqi Banknote.txt 1 1128 
+failed Banknote.txt 1 4848 
+his Banknote.txt 8 1312 1433 1484 1512 1552 1568 1576 5446 
+overprinted Banknote.txt 1 3940 
+zambia Banknote.txt 1 4165 
+financing Banknote.txt 1 3904 
+trees Banknote.txt 1 1500 
+ninth Banknote.txt 1 5463 
+international Banknote.txt 2 1785 5856 
+during Banknote.txt 23 256 309 328 350 370 447 462 487 683 704 716 903 1317 1473 2612 3627 3872 3879 4342 4422 4456 4526 5222 
+silk Banknote.txt 6 4255 4266 4277 4308 4327 4357 
+merchandise Banknote.txt 1 5890 
+progressive Banknote.txt 1 5332 
+generally Banknote.txt 6 121 857 2729 3511 5122 5578 
+banking Banknote.txt 1 2632 
+common Banknote.txt 4 2636 3988 5700 5939 
+activity Banknote.txt 1 5372 
+switzerland Banknote.txt 1 4714 
+x Banknote.txt 1 637 
+cash-related Banknote.txt 2 5299 5319 
+wrote Banknote.txt 1 2306 
+set Banknote.txt 2 1414 4111 
+prague Banknote.txt 1 1391 
+see Banknote.txt 5 571 660 2989 4905 6085 
+individual Banknote.txt 1 3895 
+are Banknote.txt 52 120 220 229 1519 1693 1704 2049 2942 2965 2974 3008 3021 3037 3323 3328 3377 3396 3412 3483 3595 3612 4226 4376 4473 4704 4771 4778 4922 4931 4964 4981 4993 5003 5009 5013 5022 5066 5086 5121 5125 5143 5210 5251 5293 5322 5346 5543 5772 5842 5937 5956 6001 
+sea Banknote.txt 1 3400 
+tender Banknote.txt 7 73 123 2550 2611 2952 2967 2982 
+portrait Banknote.txt 1 4750 
+bark Banknote.txt 2 1498 3588 
+probable Banknote.txt 1 5514 
+guinea Banknote.txt 1 4151 
+currently Banknote.txt 1 5862 
+various Banknote.txt 3 4252 4289 5708 
+europe Banknote.txt 7 362 486 1431 1453 1774 1783 1846 
+recently Banknote.txt 1 4596 
+creating Banknote.txt 2 1076 5968 
+notoriously Banknote.txt 1 4351 
+initially Banknote.txt 1 2418 
+sold Banknote.txt 4 5127 5706 5774 5834 
+sole Banknote.txt 1 2671 
+denomination Banknote.txt 1 2442 
+peacetime Banknote.txt 1 2613 
+1120s Banknote.txt 1 972 
+citys Banknote.txt 1 285 
+encapsulate Banknote.txt 1 5757 
+both Banknote.txt 5 3373 3454 3814 3821 4295 
+c Banknote.txt 1 4275 
+last Banknote.txt 2 2813 4914 
+solely Banknote.txt 1 2736 
+annual Banknote.txt 1 961 
+foreign Banknote.txt 1 2108 
+became Banknote.txt 9 771 1450 1676 2032 2149 2802 3269 4103 5698 
+large-scale Banknote.txt 1 2184 
+simple Banknote.txt 2 1985 3636 
+loan Banknote.txt 1 2431 
+recycling Banknote.txt 1 4936 
+community Banknote.txt 1 5740 
+agents Banknote.txt 2 3545 5205 
+scottish Banknote.txt 1 2479 
+fibres Banknote.txt 1 3510 
+throughout Banknote.txt 4 473 1593 2640 3990 
+described Banknote.txt 2 1421 1545 
+raise Banknote.txt 1 2385 
+stamp Banknote.txt 3 2821 3789 5585 
+create Banknote.txt 2 5513 6041 
+political Banknote.txt 1 3943 
+due Banknote.txt 3 642 3238 4736 
+ireland Banknote.txt 2 2929 4181 
+collected Banknote.txt 1 4932 
+meeting Banknote.txt 1 143 
+fire Banknote.txt 1 3394 
+great Banknote.txt 2 1494 1595 
+fund Banknote.txt 2 1346 2348 
+1863 Banknote.txt 1 2808 
+1862 Banknote.txt 1 2532 
+representative Banknote.txt 1 572 
+demand Banknote.txt 6 55 252 2264 2415 3297 4378 
+prices Banknote.txt 1 5823 
+towns Banknote.txt 1 4339 
+handling Banknote.txt 2 4623 4961 
+960 Banknote.txt 2 844 1393 
+bill Banknote.txt 4 32 1792 2356 4747 
+governor Banknote.txt 1 2337 
+corrode Banknote.txt 1 3430 
+rope Banknote.txt 1 765 
+while Banknote.txt 1 227 
+replaced Banknote.txt 2 110 2081 
+denominations Banknote.txt 4 2024 3155 4118 4829 
+pack Banknote.txt 1 5062 
+pound Banknote.txt 1 2993 
+debased Banknote.txt 1 3224 
+century Banknote.txt 20 319 373 450 461 490 619 686 703 948 1443 1734 1766 1872 2208 2290 2617 4471 4559 4586 4787 
+backing Banknote.txt 3 169 184 197 
+landfilled Banknote.txt 1 5123 
+itself Banknote.txt 2 1998 5202 
+italy Banknote.txt 1 1642 
+shirt Banknote.txt 1 4420 
+fibers Banknote.txt 2 3594 4280 
+mid-17th Banknote.txt 1 1871 
+textile Banknote.txt 1 3509 
+widely Banknote.txt 1 3193 
+peoples Banknote.txt 1 3003 
+resulting Banknote.txt 1 6081 
+higher Banknote.txt 1 232 
+development Banknote.txt 3 427 674 4070 
+currencies Banknote.txt 5 11 186 194 1822 3116 
+temporary Banknote.txt 2 1202 2323 
+cheques Banknote.txt 2 417 1714 
+user Banknote.txt 1 295 
+infused Banknote.txt 1 3564 
+yuan Banknote.txt 6 352 990 1301 1319 1449 1475 
+nickname Banknote.txt 1 5101 
+stack Banknote.txt 2 6030 6058 
+euro Banknote.txt 1 3064 
+lower Banknote.txt 1 223 
+solemnity Banknote.txt 1 1524 
+person Banknote.txt 4 798 816 824 1590 
+feces Banknote.txt 1 5051 
+swiss Banknote.txt 1 17 
+distances Banknote.txt 1 1659 
+bearer Banknote.txt 8 53 250 1905 2408 2580 3435 3457 5360 
+boer Banknote.txt 1 4424 
+stockholms Banknote.txt 2 1850 2071 
+plagued Banknote.txt 1 4053 
+using Banknote.txt 5 237 986 1663 3434 3614 
+taiwan Banknote.txt 1 4182 
+1800s Banknote.txt 1 498 
+cash-in-transit Banknote.txt 1 5223 
+copper-plates Banknote.txt 1 2083 
+guaranteed Banknote.txt 1 1374 
+violations Banknote.txt 1 5402 
+administrative Banknote.txt 1 2999 
+customers Banknote.txt 1 157 
+australia Banknote.txt 3 4072 4087 4088 
+emergency Banknote.txt 3 4330 4411 4455 
+format Banknote.txt 2 4637 4764 
+dominions Banknote.txt 1 1597 
+redeem Banknote.txt 4 68 866 1970 2584 
+emergence Banknote.txt 1 5742 
+stagnant Banknote.txt 1 5039 
+formal Banknote.txt 1 2488 
+sorting Banknote.txt 1 4968 
+consensus Banknote.txt 1 2251 
+collect Banknote.txt 1 1747 
+causeth Banknote.txt 1 1496 
+continue Banknote.txt 2 2930 5824 
+popular Banknote.txt 2 3271 4842 
+scrip Banknote.txt 1 4274 
+often Banknote.txt 9 28 614 623 793 882 1819 2764 3647 5773 
+collectors Banknote.txt 2 4370 4380 
+some Banknote.txt 7 554 869 889 1702 3408 5538 6002 
+back Banknote.txt 1 5166 
+economic Banknote.txt 2 920 4775 
+sight Banknote.txt 1 519 
+shipwrecks Banknote.txt 1 3418 
+and/or Banknote.txt 2 5063 5982 
+though Banknote.txt 2 2940 6079 
+novelty Banknote.txt 2 5872 5889 
+per Banknote.txt 1 3496 
+be Banknote.txt 31 140 515 760 1556 1608 1920 2018 2607 3151 3246 3346 3449 3669 3811 3939 3952 4759 4901 4978 5164 5172 5190 5266 5327 5705 5949 5975 5990 6024 6045 6062 
+bc Banknote.txt 2 262 289 
+confidence Banknote.txt 1 3250 
+rue Banknote.txt 1 3705 
+by Banknote.txt 75 47 60 101 111 115 131 135 207 357 374 403 553 635 843 944 970 1238 1365 1375 1394 1618 1701 1848 2063 2070 2098 2246 2286 2314 2331 2362 2445 2496 2630 2699 2767 2841 2862 2875 2884 2904 3039 3087 3103 3234 3334 3358 3369 3660 3698 3722 3779 3813 3842 3868 3887 3909 3913 4039 4046 4073 4379 4530 4823 4874 4881 4947 4987 5042 5150 5242 5324 5410 5520 5529 
+faith Banknote.txt 1 3856 
+goods Banknote.txt 3 1617 2270 3847 
+corpse Banknote.txt 1 5038 
+papua Banknote.txt 1 4149 
+range Banknote.txt 1 1243 
+consequently Banknote.txt 1 5624 
+garbage Banknote.txt 1 5095 
+conflated Banknote.txt 1 516 
+into Banknote.txt 6 606 1502 1988 3186 5167 5965 
+within Banknote.txt 1 2738 
+primarily Banknote.txt 3 108 4368 5070 
+impressed Banknote.txt 1 1364 
+bangladesh Banknote.txt 1 4134 
+long Banknote.txt 2 1658 4799 
+manufacture Banknote.txt 1 4287 
+registered Banknote.txt 1 1672 
+numismatic Banknote.txt 1 5739 
+cloth Banknote.txt 3 1401 4384 5909 
+mulberry Banknote.txt 1 3587 
+russian Banknote.txt 2 4268 4458 
+crane Banknote.txt 1 4300 
+dealers Banknote.txt 1 5686 
+up Banknote.txt 3 2702 3282 5431 
+us Banknote.txt 2 3474 5099 
+uk Banknote.txt 3 2988 3014 3709 
+2351 Banknote.txt 1 5483 
+similar Banknote.txt 2 3009 5749 
+called Banknote.txt 1 836 
+chao Banknote.txt 1 1310 
+metals Banknote.txt 5 200 549 599 2507 3184 
+images Banknote.txt 1 5981 
+single Banknote.txt 2 956 5782 
+cotton Banknote.txt 3 3486 3500 4426 
+amounts Banknote.txt 1 1011 
+application Banknote.txt 2 3968 3981 
+actors Banknote.txt 1 4776 
+elements Banknote.txt 1 3659 
+endocrine Banknote.txt 1 4613 
+problems Banknote.txt 1 5300 
+william Banknote.txt 2 1464 2333 
+meaning Banknote.txt 2 124 3340 
+edaqs Banknote.txt 1 5245 
+required Banknote.txt 2 66 4779 
+bankers Banknote.txt 2 1892 1939 
+2002 Banknote.txt 1 3081 
+2000 Banknote.txt 1 4004 
+2007 Banknote.txt 3 2880 5629 5654 
+2005 Banknote.txt 1 4197 
+having Banknote.txt 1 1412 
+once Banknote.txt 2 1232 6049 
+issued Banknote.txt 30 59 114 274 492 523 854 953 1305 1520 1847 1974 2425 2629 2778 2792 2861 2874 2883 3038 3086 3129 3148 3333 3357 4019 4028 4199 4271 4442 5688 
+resistance Banknote.txt 1 3689 
+existing Banknote.txt 2 1815 4850 
+illustrated Banknote.txt 1 5716 
+washi Banknote.txt 1 3604 
+legal Banknote.txt 9 72 122 137 2250 2549 2610 2951 2966 2981 
+intricate Banknote.txt 1 1281 
+issues Banknote.txt 14 218 689 1167 1181 3220 4055 4333 4363 4365 4391 4472 4495 4511 5320 
+seemed Banknote.txt 1 5725 
+send Banknote.txt 1 1033 
+include Banknote.txt 6 3437 3713 4133 4329 4385 5033 
+indicating Banknote.txt 1 4188 
+seized Banknote.txt 1 5419 
+1791 Banknote.txt 1 2524 
+continues Banknote.txt 1 2898 
+continued Banknote.txt 1 4997 
+categories Banknote.txt 2 6105 6107 
+entire Banknote.txt 1 5769 
+notes Banknote.txt 42 70 170 276 299 610 842 859 880 1279 1316 1665 1692 1722 1947 2048 2399 2443 2449 2460 2628 2845 2857 2963 2973 3028 3058 3263 3310 3356 3760 4051 4172 5034 5085 5547 5703 5768 5882 5934 5946 6033 6088 
+colors Banknote.txt 1 1276 
+1668 Banknote.txt 1 2199 
+1666 Banknote.txt 1 1853 
+1661 Banknote.txt 2 385 2069 
+smaller Banknote.txt 3 2022 4797 5994 
+folds Banknote.txt 1 3721 
+licensed Banknote.txt 1 3022 
+imply Banknote.txt 1 3445 
+go Banknote.txt 1 1592 
+carthage Banknote.txt 2 269 291 
+henceforth Banknote.txt 1 2669 
+19th Banknote.txt 4 2207 4470 4558 4585 
+experiment Banknote.txt 1 2324 
+capital Banknote.txt 1 1044 
+renders Banknote.txt 1 5147 
+nicholas Banknote.txt 1 2304 
+body Banknote.txt 1 5046 
+brunei Banknote.txt 1 4136 
+led Banknote.txt 2 3793 3820 
+exchange Banknote.txt 9 1096 1415 1712 1794 2145 2321 3169 3199 3274 
+lei Banknote.txt 1 4006 
+commercial Banknote.txt 13 61 90 105 348 736 2618 2784 2877 2916 3019 3042 3070 3335 
+desired Banknote.txt 2 337 725 
+consideration Banknote.txt 1 5966 
+invented Banknote.txt 1 3697 
+convert Banknote.txt 1 528 
+larger Banknote.txt 2 4827 5997 
+alaska Banknote.txt 1 4461 
+woiseck Banknote.txt 1 4489 
+products Banknote.txt 1 5970 
+submerged Banknote.txt 1 3397 
+contaminants Banknote.txt 1 5032 
+makes Banknote.txt 1 1560 
+private Banknote.txt 2 2768 2895 
+austria Banknote.txt 1 3956 
+use Banknote.txt 8 740 1196 1423 1858 2026 3801 3989 4998 
+from Banknote.txt 34 589 600 839 1252 1720 1731 2163 2279 2451 2723 2807 2854 3417 3485 3517 3607 4095 4334 4394 4500 4504 4512 4564 4652 4808 4943 4959 4983 5058 5068 5192 5358 5369 5444 
+illegal Banknote.txt 4 5252 5371 5386 5491 
+few Banknote.txt 1 5828 
+historically Banknote.txt 2 147 2757 
+possession Banknote.txt 3 1690 2043 5408 
+started Banknote.txt 1 1662 
+becomes Banknote.txt 1 641 
+1000:1 Banknote.txt 1 3174 
+salvaged Banknote.txt 1 3416 
+account Banknote.txt 6 509 1469 1554 1762 1808 1933 
+twenty-dollar Banknote.txt 1 3475 
+this Banknote.txt 20 166 789 1003 1827 1830 1914 1980 2092 2291 2750 2842 2900 3172 3678 3694 3724 4250 4810 5780 5816 
+challenge Banknote.txt 1 396 
+reproduce Banknote.txt 1 4230 
+anywhere Banknote.txt 1 2953 
+semi-precious Banknote.txt 1 3183 
+decoupled Banknote.txt 1 2157 
+control Banknote.txt 1 2672 
+wearing Banknote.txt 1 4059 
+policing Banknote.txt 1 3796 
+links Banknote.txt 1 6096 
+process Banknote.txt 3 3618 3631 3695 
+purposes Banknote.txt 1 5019 
+pieces Banknote.txt 5 1399 1516 1538 1602 4541 
+reserves Banknote.txt 2 1955 2167 
+something Banknote.txt 2 172 1503 
+slip Banknote.txt 1 805 
+sought Banknote.txt 1 149 
+counterfeit Banknote.txt 5 3688 5007 6012 6047 6077 
+sir Banknote.txt 1 2332 
+united Banknote.txt 13 2512 2539 2788 2913 4161 4318 4403 4435 4833 4911 5343 5458 5470 
+destroying Banknote.txt 1 5199 
+six Banknote.txt 1 1274 
+traders Banknote.txt 1 1661 
+animal Banknote.txt 1 5045 
+instead Banknote.txt 2 2086 3570 
+goldsmith Banknote.txt 2 1891 1930 
+intelligent Banknote.txt 4 5133 5138 5226 5231 
+circular Banknote.txt 1 749 
+bradvek Banknote.txt 1 4031 
+introduced Banknote.txt 4 369 482 3763 5239 
+light Banknote.txt 1 3554 
+commodities Banknote.txt 1 202 
+linen Banknote.txt 2 3505 4360 
+chief Banknote.txt 1 83 
+allow Banknote.txt 1 5350 
+bins Banknote.txt 1 5096 
+move Banknote.txt 1 2436 
+purported Banknote.txt 1 271 
+meter Banknote.txt 1 3498 
+produced Banknote.txt 9 980 1224 3867 3878 3886 3957 4089 4353 4367 
+including Banknote.txt 5 3798 4173 4254 4480 5854 
+shreds Banknote.txt 1 5103 
+mentioned Banknote.txt 1 6035 
+contaminated Banknote.txt 2 5020 5041 
+regions Banknote.txt 1 3000 
+banknote Banknote.txt 35 0 27 303 677 995 2093 2237 2326 2573 2873 2896 3477 3534 3561 3599 3692 3961 3973 3978 4008 4012 4042 4093 4205 4267 4290 4304 4940 4962 5134 5139 5194 5201 5286 5566 
+la Banknote.txt 1 3704 
+masses Banknote.txt 1 1090 
+decal Banknote.txt 2 6038 6051 
+permanent Banknote.txt 3 2209 2228 2372 
+2018 Banknote.txt 1 4744 
+2014 Banknote.txt 1 5241 
+designs Banknote.txt 1 1282 
+greater Banknote.txt 2 1944 5610 
+material Banknote.txt 2 4429 5910 
+investor Banknote.txt 1 5765 
+day Banknote.txt 3 1163 2901 5781 
+worlds Banknote.txt 2 656 4201 
+decommissioned Banknote.txt 1 5024 
+airports Banknote.txt 1 5397 
+edit Banknote.txt 27 433 651 1382 1840 2213 2551 2728 3112 3472 3480 3756 4002 4233 4627 4769 4904 5137 5229 5340 5523 5565 5671 5873 6087 6091 6094 6097 
+kronen Banknote.txt 1 3925 
+mode Banknote.txt 1 5675 
+shortage Banknote.txt 1 2504 
+references Banknote.txt 1 6090 
+bills Banknote.txt 3 520 612 1710 
+traces Banknote.txt 1 5381 
+commonwealth Banknote.txt 1 4075 
+related Banknote.txt 3 1825 3711 6099 
+depositor Banknote.txt 1 1913 
+society Banknote.txt 2 2268 5859 
+80 Banknote.txt 1 3492 
+special Banknote.txt 2 2998 5185 
+out Banknote.txt 5 1898 2020 2330 3790 5079 
+wheresoever Banknote.txt 1 1588 
+cause Banknote.txt 1 5515 
+franc Banknote.txt 2 18 3057 
+watermark Banknote.txt 1 3622 
+completely Banknote.txt 1 4119 
+indicates Banknote.txt 1 5029 
+1790s Banknote.txt 1 3768 
+receipts Banknote.txt 9 325 504 713 1861 1900 2001 2016 2030 2147 
+gelatin Banknote.txt 1 3569 
+hyperinflation Banknote.txt 2 3851 4349 
+times Banknote.txt 2 3826 4453 
+macanese Banknote.txt 1 3035 
+retain Banknote.txt 1 3419 
+retail Banknote.txt 1 5219 
+stimulate Banknote.txt 1 2297 
+third Banknote.txt 1 5745 
+2,000 Banknote.txt 1 5867 
+scene Banknote.txt 1 5177 
+owner Banknote.txt 1 5434 
+quality Banknote.txt 1 4891 
+durable Banknote.txt 2 239 3331 
+system Banknote.txt 6 138 603 2009 5136 5145 5279 
+adopted Banknote.txt 2 356 4718 
+forgery Banknote.txt 1 390 
+banque Banknote.txt 1 3047 
+final Banknote.txt 1 6066 
+shell Banknote.txt 1 6059 
+lists Banknote.txt 1 5690 
+dorpat Banknote.txt 1 4484 
+constituent Banknote.txt 1 2924 
+drug-sniffing Banknote.txt 1 5509 
+coinage Banknote.txt 4 345 733 2124 2509 
+observed Banknote.txt 1 918 
+infectious Banknote.txt 1 5053 
+bed Banknote.txt 1 5920 
+sweden Banknote.txt 3 387 2079 5553 
+reproduction Banknote.txt 1 5988 
+collecting Banknote.txt 8 5561 5567 5586 5597 5605 5642 5663 5677 
+have Banknote.txt 29 107 195 204 273 1544 1968 2670 2777 3075 3295 3304 3314 3407 3997 4108 4244 4281 4717 4846 4899 5254 5404 5416 5525 5616 5761 5833 5865 5895 
+need Banknote.txt 1 3307 
+11th Banknote.txt 2 460 702 
+agency Banknote.txt 2 1990 3097 
+able Banknote.txt 3 1609 2621 3347 
+mechanism Banknote.txt 1 2265 
+adjunct Banknote.txt 1 5602 
+issuing Banknote.txt 9 103 398 926 1102 1942 2061 2398 2818 4169 
+pivotal Banknote.txt 1 1981 
+which Banknote.txt 20 521 640 2650 2667 2964 3098 3243 3620 3807 3838 3963 4518 4646 4672 4929 5108 5146 5188 5246 5861 
+self-touted Banknote.txt 1 4664 
+progressively Banknote.txt 1 4826 
+worldwide Banknote.txt 1 4609 
+unless Banknote.txt 2 3216 5011 
+who Banknote.txt 3 63 4777 5687 
+overlapping Banknote.txt 1 5979 
+intrinsic Banknote.txt 1 2281 
+payment Banknote.txt 5 128 165 1866 2091 3350 
+alaskan Banknote.txt 1 4272 
+face Banknote.txt 2 5 95 
+1,000 Banknote.txt 1 2454 
+fact Banknote.txt 1 1367 
+supported Banknote.txt 1 3841 
+cruzado Banknote.txt 1 3143 
+ottoman Banknote.txt 1 5955 
+economist Banknote.txt 2 2303 2480 
+principal Banknote.txt 1 421 
+ibnss Banknote.txt 1 5209 
+based Banknote.txt 5 546 1803 1924 3209 5260 
+credited Banknote.txt 1 2050 
+should Banknote.txt 1 513 
+gradual Banknote.txt 1 2435 
+fuel Banknote.txt 1 5727 
+employed Banknote.txt 2 1134 1156 
+communist Banknote.txt 1 4389 
+local Banknote.txt 1 688 
+inferior Banknote.txt 1 4890 
+meant Banknote.txt 1 1915 
+handle Banknote.txt 1 4678 
+means Banknote.txt 6 1406 1619 1864 2089 3272 3385 
+overall Banknote.txt 1 5732 
+legitimate Banknote.txt 1 3815 
+words Banknote.txt 1 1000 
+kong Banknote.txt 4 3017 3026 4185 5634 
+areas Banknote.txt 1 4395 
+circulation Banknote.txt 10 1235 2008 2938 4374 4845 4927 5069 5081 5116 5168 
+comprising Banknote.txt 1 3652 
+processed Banknote.txt 1 4691 
+contain Banknote.txt 1 3542 
+fixed Banknote.txt 3 2023 2441 3168 
+available Banknote.txt 1 5958 
+national Banknote.txt 4 112 118 193 2798 
+checkerboard Banknote.txt 1 4540 
+catalogs Banknote.txt 2 5692 5717 
+textiles Banknote.txt 1 4253 
+record Banknote.txt 2 5640 5661 
+tend Banknote.txt 1 4676 
+state Banknote.txt 2 1377 2740 
+difficulties Banknote.txt 1 4859 
+colombian Banknote.txt 1 4629 
+comparable Banknote.txt 1 5813 
+horizontally Banknote.txt 2 4686 4708 
+implementing Banknote.txt 1 5556 
+key Banknote.txt 1 625 
+precious Banknote.txt 9 199 216 548 567 598 1749 2506 3181 3843 
+restrictions Banknote.txt 1 1357 
+instant Banknote.txt 1 5878 
+mongol Banknote.txt 4 359 475 999 1448 
+attributed Banknote.txt 1 3204 
+etc Banknote.txt 1 3935 
+auctions Banknote.txt 3 5608 5783 5794 
+provinces Banknote.txt 1 1571 
+addition Banknote.txt 1 4491 
+slowly Banknote.txt 3 3429 5572 5590 
+louisiana Banknote.txt 2 2866 4571 
+patented Banknote.txt 1 4303 
+bulk Banknote.txt 2 342 730 
+hobby Banknote.txt 3 5564 5588 5853 
+an Banknote.txt 12 394 556 960 1989 2310 2716 3166 3450 4612 4915 5267 5370 
+napoleon Banknote.txt 1 491 
+unlike Banknote.txt 1 3555 
+appearance Banknote.txt 4 2849 3425 5897 6082 
+value Banknote.txt 18 6 96 205 506 510 873 1945 1951 2128 2255 2312 2410 2588 3201 3212 3409 3859 5627 
+woodblock Banknote.txt 1 987 
+will Banknote.txt 1 4758 
+supply Banknote.txt 7 1997 2106 2181 2262 2676 4946 4985 
+almost Banknote.txt 2 3420 5317 
+thus Banknote.txt 2 2770 3848 
+surface Banknote.txt 1 3672 
+helped Banknote.txt 2 2295 2483 
+arrangements Banknote.txt 1 3007 
+lightweight Banknote.txt 2 240 297 
+inspector Banknote.txt 1 4990 
+perhaps Banknote.txt 1 1251 
+began Banknote.txt 8 678 1352 1895 1941 2011 2225 2397 2541 
+administration Banknote.txt 1 4459 
+units Banknote.txt 1 226 
+party Banknote.txt 1 5746 
+terrorism Banknote.txt 1 5307 
+difficult Banknote.txt 1 4228 
+practice Banknote.txt 2 167 5724 
+novels Banknote.txt 1 620 
+upon Banknote.txt 1 3210 
+issuance Banknote.txt 3 938 2439 2547 
+frequently Banknote.txt 1 4602 
+destruction Banknote.txt 3 286 4903 4934 
+off Banknote.txt 2 4060 6064 
+reflection Banknote.txt 1 2259 
+i Banknote.txt 3 1543 3908 4594 
+indonesia Banknote.txt 1 4142 
+well Banknote.txt 4 1624 3068 4449 5302 
+fighting Banknote.txt 1 411 
+thought Banknote.txt 1 1706 
+dinar Banknote.txt 1 3931 
+usual Banknote.txt 1 3544 
+less Banknote.txt 4 1272 3330 4870 5811 
+increasingly Banknote.txt 2 2003 5526 
+domestic Banknote.txt 1 2937 
+30,060.00 Banknote.txt 1 5477 
+seats Banknote.txt 1 5931 
+parchment Banknote.txt 2 278 4273 
+rapid Banknote.txt 1 1879 
+absorption Banknote.txt 1 4621 
+point Banknote.txt 2 1004 1180 
+other Banknote.txt 21 870 3072 3431 3508 3593 3710 3846 4126 4167 4231 4241 4279 4452 4496 4510 4695 4950 5204 5356 5385 6021 
+extends Banknote.txt 1 1580 
+usage Banknote.txt 1 467 
+increased Banknote.txt 3 3800 5626 5762 
+government Banknote.txt 12 916 975 1007 1087 1166 1222 1267 2536 2707 2805 3096 5027 
+increases Banknote.txt 1 3686 
+immediately Banknote.txt 1 4886 
+acrylic Banknote.txt 1 5926 
+loss Banknote.txt 1 3854 
+displaced Banknote.txt 1 5528 
+necessary Banknote.txt 1 6025 
+like Banknote.txt 2 479 1504 
+resin Banknote.txt 1 6057 
+payments Banknote.txt 3 1550 1786 3303 
+become Banknote.txt 1 4813 
+italian Banknote.txt 1 1777 
+because Banknote.txt 5 1069 1645 4953 5373 5420 
+sealskin Banknote.txt 1 4466 
+authority Banknote.txt 2 1526 3106 
+empire Banknote.txt 3 360 476 1191 
+118 Banknote.txt 1 261 
+recognition Banknote.txt 1 5879 
+leaf Banknote.txt 1 2360 
+avoid Banknote.txt 4 339 727 1295 6005 
+14th Banknote.txt 2 1733 1765 
+does Banknote.txt 1 3540 
+regain Banknote.txt 1 827 
+medieval Banknote.txt 2 1430 1641 
+monetary Banknote.txt 4 225 602 1996 3105 
+expansion Banknote.txt 1 1993 
+although Banknote.txt 5 451 693 4722 5117 5577 
+fluorescent Banknote.txt 1 3653 
+imaginary Banknote.txt 1 2311 
+loans Banknote.txt 1 1960 
+periodically Banknote.txt 1 3673 
+gained Banknote.txt 1 2556 
+about Banknote.txt 1 2097 
+rare Banknote.txt 5 5621 5702 5805 5814 5829 
+carried Banknote.txt 1 2329 
+recognized Banknote.txt 2 134 1737 
+angeles Banknote.txt 1 5499 
+emperor Banknote.txt 1 1053 
+own Banknote.txt 7 982 1553 2625 2934 3055 3277 5447 
+travelers Banknote.txt 2 375 1458 
+promise Banknote.txt 7 246 526 562 864 2404 2577 2825 
+lettera Banknote.txt 1 1795 
+ibns Banknote.txt 2 5142 5860 
+banco Banknote.txt 3 1728 1851 2072 
+negotiable Banknote.txt 1 43 
+1983 Banknote.txt 1 4014 
+1988 Banknote.txt 2 3955 4065 
+1989 Banknote.txt 1 3118 
+continental Banknote.txt 3 2358 3865 3870 
+resists Banknote.txt 1 3525 
+hazardous Banknote.txt 1 5056 
+but Banknote.txt 14 574 1332 1673 1703 2200 2527 2591 2979 3237 3327 3426 5203 5606 6013 
+volume Banknote.txt 1 5799 
+construction Banknote.txt 1 3651 
+automated Banknote.txt 1 5216 
+highest Banknote.txt 1 5798 
+he Banknote.txt 3 1559 1598 5655 
+made Banknote.txt 13 46 265 1501 1541 1557 2019 2313 3484 3585 3613 3617 3670 4094 
+places Banknote.txt 1 4482 
+whether Banknote.txt 2 4972 5971 
+venetian Banknote.txt 1 1361 
+kaans Banknote.txt 1 1596 
+limit Banknote.txt 1 1203 
+ruling Banknote.txt 1 1348 
+1745 Banknote.txt 1 2446 
+problem Banknote.txt 1 790 
+paper-polymer Banknote.txt 1 4204 
+recognize Banknote.txt 2 4793 4805 
+universal Banknote.txt 1 5875 
+contribute Banknote.txt 1 5296 
+ink Banknote.txt 3 1275 4058 5187 
+paraguay Banknote.txt 1 4152 
+virtual Banknote.txt 2 1806 1828 
+onwards Banknote.txt 1 593 
+stnders Banknote.txt 1 2194 
+shredded Banknote.txt 3 4979 5111 5119 
+class Banknote.txt 1 5906 
+inescapable Banknote.txt 1 4814 
+foil Banknote.txt 1 3967 
+affixed Banknote.txt 1 6054 
+mozart Banknote.txt 1 3962 
+strings Banknote.txt 2 777 966 
+searched Banknote.txt 1 5395 
+high-value Banknote.txt 1 214 

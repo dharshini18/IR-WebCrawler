@@ -1,0 +1,1039 @@
+irradiance Plasma_(physics).txt 1 2216 
+ionising Plasma_(physics).txt 1 3289 
+all Plasma_(physics).txt 4 1834 2665 2699 3042 
+concept Plasma_(physics).txt 1 1324 
+extractive Plasma_(physics).txt 1 3460 
+suns Plasma_(physics).txt 1 1827 
+magnetic Plasma_(physics).txt 16 558 653 775 1513 1552 1567 1601 1648 1680 1696 2123 2128 2497 2539 2636 2988 
+informally Plasma_(physics).txt 1 846 
+results Plasma_(physics).txt 2 1320 3207 
+yellow Plasma_(physics).txt 1 504 
+four Plasma_(physics).txt 1 19 
+avalanche Plasma_(physics).txt 2 3174 3261 
+subtle Plasma_(physics).txt 1 1957 
+microwave Plasma_(physics).txt 1 2133 
+gyration Plasma_(physics).txt 1 1598 
+abundant Plasma_(physics).txt 1 273 
+plasmas Plasma_(physics).txt 34 1016 1029 1042 1050 1071 1158 1164 1168 1237 1312 1478 1546 1635 1661 1773 1788 1858 1916 1918 1947 2078 2095 2310 2377 2420 2425 2726 2876 2959 2975 2979 3396 3444 3510 
+causes Plasma_(physics).txt 3 1504 2176 2232 
+layers Plasma_(physics).txt 3 1368 1530 2836 
+whose Plasma_(physics).txt 2 330 3547 
+etching Plasma_(physics).txt 2 267 3469 
+technique Plasma_(physics).txt 1 2911 
+anisothermal Plasma_(physics).txt 1 833 
+intensive Plasma_(physics).txt 1 2932 
+to Plasma_(physics).txt 62 69 74 124 200 249 304 551 697 710 774 808 861 884 908 929 954 973 1104 1203 1300 1337 1406 1421 1432 1507 1571 1581 1646 1655 1666 1749 1830 1912 2140 2153 2264 2283 2445 2512 2518 2559 2562 2565 2608 2620 2657 2683 2695 2793 2800 2863 2882 2942 3041 3050 3235 3312 3371 3403 3407 3416 3427 
+charge Plasma_(physics).txt 7 621 813 1360 1372 1400 1535 2335 
+present Plasma_(physics).txt 1 1192 
+under Plasma_(physics).txt 3 53 595 2416 
+sustain Plasma_(physics).txt 2 862 3053 
+include Plasma_(physics).txt 1 2079 
+applied Plasma_(physics).txt 1 3066 
+sub-disciplines Plasma_(physics).txt 1 3527 
+shielding Plasma_(physics).txt 1 1704 
+dissociates Plasma_(physics).txt 1 3327 
+broadly Plasma_(physics).txt 1 1932 
+very Plasma_(physics).txt 8 350 999 1239 1317 1458 1464 1854 2033 
+aurora Plasma_(physics).txt 2 523 2101 
+rise Plasma_(physics).txt 1 2607 
+induce Plasma_(physics).txt 1 2503 
+resistance Plasma_(physics).txt 1 3318 
+electron Plasma_(physics).txt 15 712 804 881 1006 1149 1230 1441 1611 1616 2369 3203 3272 3280 3290 3294 
+nanomaterials Plasma_(physics).txt 1 2629 
+laser Plasma_(physics).txt 6 2160 2187 2191 2204 2210 2237 
+difference Plasma_(physics).txt 2 967 3100 
+fractal Plasma_(physics).txt 1 2051 
+categories Plasma_(physics).txt 2 3572 3574 
+leads Plasma_(physics).txt 1 2139 
+randomness Plasma_(physics).txt 1 2003 
+corpuscles Plasma_(physics).txt 1 464 
+self-generated Plasma_(physics).txt 1 1551 
+experiencing Plasma_(physics).txt 1 642 
+notes Plasma_(physics).txt 1 3556 
+interface Plasma_(physics).txt 1 2604 
+large Plasma_(physics).txt 5 966 1344 1490 2921 3412 
+these Plasma_(physics).txt 5 354 580 629 1737 2055 
+science Plasma_(physics).txt 1 3522 
+small Plasma_(physics).txt 6 1119 1175 1318 1465 1664 3237 
+relation Plasma_(physics).txt 2 1414 1417 
+path Plasma_(physics).txt 1 3240 
+shows Plasma_(physics).txt 1 3086 
+birkeland Plasma_(physics).txt 2 2089 2645 
+application Plasma_(physics).txt 1 2984 
+unexpected Plasma_(physics).txt 1 1961 
+says Plasma_(physics).txt 1 1328 
+disordered Plasma_(physics).txt 1 1987 
+two-fluid Plasma_(physics).txt 1 2772 
+pulse Plasma_(physics).txt 1 2161 
+surrounding Plasma_(physics).txt 2 129 345 
+zero Plasma_(physics).txt 1 627 
+equal Plasma_(physics).txt 2 1336 2326 
+further Plasma_(physics).txt 2 1779 3279 
+dynamics Plasma_(physics).txt 2 1544 2945 
+langmuir Plasma_(physics).txt 6 31 411 425 431 454 467 
+even Plasma_(physics).txt 6 749 938 1143 1214 2205 3491 
+rope Plasma_(physics).txt 1 2129 
+what Plasma_(physics).txt 1 1301 
+nonlinear Plasma_(physics).txt 1 2166 
+appear Plasma_(physics).txt 1 1920 
+liberates Plasma_(physics).txt 2 3270 3277 
+sun Plasma_(physics).txt 1 161 
+striations Plasma_(physics).txt 1 2082 
+transforms Plasma_(physics).txt 1 3155 
+while Plasma_(physics).txt 6 156 1629 1657 2549 3115 3490 
+current Plasma_(physics).txt 7 650 2116 2640 2646 3064 3128 3297 
+seconds Plasma_(physics).txt 1 2597 
+poles Plasma_(physics).txt 1 501 
+above Plasma_(physics).txt 1 507 
+scientists Plasma_(physics).txt 1 2527 
+shared Plasma_(physics).txt 1 241 
+net Plasma_(physics).txt 1 1399 
+increasing Plasma_(physics).txt 1 202 
+sheath Plasma_(physics).txt 1 1306 
+filled Plasma_(physics).txt 2 1815 1849 
+can Plasma_(physics).txt 21 57 214 252 568 765 1221 1269 1358 1374 1516 1919 1929 2125 2261 2451 2648 2826 2963 3003 3078 3189 
+satisfy Plasma_(physics).txt 1 1411 
+compact Plasma_(physics).txt 1 1868 
+focuses Plasma_(physics).txt 1 2202 
+led Plasma_(physics).txt 1 2468 
+degree Plasma_(physics).txt 5 691 725 782 873 3337 
+galaxies Plasma_(physics).txt 1 1904 
+atoms Plasma_(physics).txt 7 735 802 990 3182 3257 3335 3384 
+behaviour Plasma_(physics).txt 1 334 
+following Plasma_(physics).txt 4 1772 1936 2916 3537 
+objects Plasma_(physics).txt 1 1869 
+focused Plasma_(physics).txt 1 2209 
+governing Plasma_(physics).txt 1 1946 
+separation Plasma_(physics).txt 1 1373 
+kilometers Plasma_(physics).txt 1 2265 
+dissipated Plasma_(physics).txt 1 1470 
+i.e Plasma_(physics).txt 6 618 772 1061 1492 1607 3383 
+along Plasma_(physics).txt 2 169 3319 
+strong Plasma_(physics).txt 4 71 960 1569 2610 
+equations Plasma_(physics).txt 3 1945 2761 2765 
+calculate Plasma_(physics).txt 1 1422 
+stresses Plasma_(physics).txt 1 3129 
+great Plasma_(physics).txt 1 3409 
+substance Plasma_(physics).txt 4 14 80 327 546 
+arc Plasma_(physics).txt 3 3247 3306 3323 
+dusty Plasma_(physics).txt 3 2378 2383 2419 
+k Plasma_(physics).txt 1 1224 
+studied Plasma_(physics).txt 3 1555 2059 2464 
+completely Plasma_(physics).txt 1 2658 
+commonly Plasma_(physics).txt 2 838 2708 
+maxwellboltzmann Plasma_(physics).txt 2 2802 2866 
+chemical Plasma_(physics).txt 1 230 
+resulting Plasma_(physics).txt 1 3334 
+usually Plasma_(physics).txt 7 708 859 1002 1166 1663 2311 2807 
+makes Plasma_(physics).txt 2 1313 2251 
+involves Plasma_(physics).txt 1 3535 
+composed Plasma_(physics).txt 1 2343 
+emerge Plasma_(physics).txt 1 3284 
+via Plasma_(physics).txt 1 1820 
+spatially Plasma_(physics).txt 1 2035 
+scales Plasma_(physics).txt 1 2017 
+proportion Plasma_(physics).txt 1 733 
+engineering Plasma_(physics).txt 1 3501 
+marked Plasma_(physics).txt 1 3147 
+highly Plasma_(physics).txt 1 548 
+sizeable Plasma_(physics).txt 1 2323 
+pulls Plasma_(physics).txt 1 3120 
+total Plasma_(physics).txt 1 192 
+unit Plasma_(physics).txt 1 722 
+combustion Plasma_(physics).txt 1 3497 
+metallurgy Plasma_(physics).txt 1 3461 
+use Plasma_(physics).txt 2 2709 3002 
+from Plasma_(physics).txt 18 9 229 321 450 496 514 603 945 1001 1426 1484 1652 1736 1825 1963 2485 3156 3285 
+links Plasma_(physics).txt 1 3561 
+would Plasma_(physics).txt 1 2681 
+brighter Plasma_(physics).txt 1 2193 
+distinct Plasma_(physics).txt 1 1735 
+positive Plasma_(physics).txt 5 176 614 1341 2317 3113 
+self-focusing Plasma_(physics).txt 1 2155 
+faint Plasma_(physics).txt 1 503 
+negative Plasma_(physics).txt 6 616 1332 1447 2319 3109 3118 
+by Plasma_(physics).txt 35 28 62 182 217 375 396 409 667 671 706 746 810 879 891 1392 1471 1512 1684 1702 1790 1803 1806 1995 2001 2465 2469 2756 2915 2982 3007 3018 3132 3148 3342 3421 
+few Plasma_(physics).txt 2 1538 2594 
+approach Plasma_(physics).txt 2 1222 2962 
+therefore Plasma_(physics).txt 3 2705 2859 3214 
+vehicle Plasma_(physics).txt 1 3481 
+themselves Plasma_(physics).txt 2 977 2047 
+type Plasma_(physics).txt 1 2433 
+creates Plasma_(physics).txt 1 3324 
+more Plasma_(physics).txt 7 889 2206 2767 2930 3184 3328 3564 
+separates Plasma_(physics).txt 1 1534 
+light-years Plasma_(physics).txt 1 1914 
+comparison Plasma_(physics).txt 1 1705 
+becomes Plasma_(physics).txt 4 81 547 2173 3165 
+stable Plasma_(physics).txt 1 2534 
+sister Plasma_(physics).txt 1 3570 
+long Plasma_(physics).txt 1 2256 
+thermionic Plasma_(physics).txt 1 451 
+particular Plasma_(physics).txt 1 444 
+known Plasma_(physics).txt 3 2087 2615 2906 
+cases Plasma_(physics).txt 1 923 
+must Plasma_(physics).txt 5 599 1389 1455 1462 3046 
+states Plasma_(physics).txt 6 21 39 110 574 582 1741 
+word Plasma_(physics).txt 2 318 435 
+room Plasma_(physics).txt 1 1087 
+f Plasma_(physics).txt 1 1228 
+this Plasma_(physics).txt 16 212 224 282 389 566 677 809 992 1008 1319 1416 1515 2500 3056 3301 3390 
+recall Plasma_(physics).txt 1 429 
+equation Plasma_(physics).txt 2 900 2938 
+averaged Plasma_(physics).txt 1 2735 
+trajectories Plasma_(physics).txt 1 2918 
+vs Plasma_(physics).txt 2 1027 1095 
+temperatures Plasma_(physics).txt 5 826 857 903 1035 1218 
+of Plasma_(physics).txt 149 17 22 92 107 120 140 152 159 165 194 208 220 232 240 247 275 294 335 347 353 362 388 420 448 455 481 539 563 583 612 622 640 658 684 692 718 726 728 734 760 769 783 793 800 815 824 849 869 874 964 1036 1124 1133 1177 1190 1263 1266 1311 1325 1331 1340 1346 1353 1378 1383 1451 1501 1527 1540 1545 1560 1575 1706 1719 1742 1768 1796 1840 1888 1960 1971 2007 2015 2021 2054 2072 2143 2156 2168 2171 2180 2185 2226 2235 2241 2245 2254 2258 2271 2286 2301 2309 2316 2334 2344 2389 2434 2456 2482 2525 2546 2555 2572 2576 2596 2599 2613 2623 2627 2662 2666 2698 2713 2729 2759 2813 2885 2919 2923 2946 2949 2969 2985 3009 3027 3043 3144 3201 3217 3231 3251 3338 3432 3437 3450 3514 3516 3520 3539 
+gyrofrequency Plasma_(physics).txt 1 1612 
+making Plasma_(physics).txt 1 1604 
+metal Plasma_(physics).txt 1 3472 
+vlasov Plasma_(physics).txt 1 2937 
+spontaneous Plasma_(physics).txt 1 2005 
+example Plasma_(physics).txt 9 164 952 1122 1189 1404 1444 2029 3093 3456 
+history Plasma_(physics).txt 1 315 
+ions Plasma_(physics).txt 15 179 242 491 794 817 904 987 1019 1039 1078 1631 2600 2777 3185 3387 
+figure Plasma_(physics).txt 1 3194 
+give Plasma_(physics).txt 1 2606 
+process Plasma_(physics).txt 3 225 3170 3250 
+ambient Plasma_(physics).txt 1 1024 
+high Plasma_(physics).txt 10 778 856 1668 2131 2158 2163 2399 2515 2567 2792 
+collision Plasma_(physics).txt 5 1606 1617 3276 3287 3423 
+celsius Plasma_(physics).txt 1 1157 
+impermeable Plasma_(physics).txt 4 2426 2429 2441 2535 
+sense Plasma_(physics).txt 3 639 1171 1980 
+sharp Plasma_(physics).txt 1 2034 
+hydrogen Plasma_(physics).txt 1 490 
+species Plasma_(physics).txt 1 2347 
+sir Plasma_(physics).txt 2 376 399 
+rays Plasma_(physics).txt 1 1216 
+varied Plasma_(physics).txt 1 1955 
+pure Plasma_(physics).txt 1 2002 
+technology Plasma_(physics).txt 2 1162 3452 
+means Plasma_(physics).txt 3 1393 1420 3032 
+feature Plasma_(physics).txt 2 868 1970 
+regions Plasma_(physics).txt 2 313 497 
+how Plasma_(physics).txt 1 1267 
+hot Plasma_(physics).txt 2 1107 1136 
+criterion Plasma_(physics).txt 1 1587 
+fourth Plasma_(physics).txt 1 1717 
+ordinary Plasma_(physics).txt 2 276 1797 
+blanket Plasma_(physics).txt 1 2545 
+filament Plasma_(physics).txt 2 2257 2292 
+simplicity Plasma_(physics).txt 1 3097 
+description Plasma_(physics).txt 3 2769 2870 2884 
+information Plasma_(physics).txt 2 1780 2914 
+may Plasma_(physics).txt 5 142 269 997 1232 2939 
+thermodynamic Plasma_(physics).txt 1 974 
+coined Plasma_(physics).txt 1 408 
+after Plasma_(physics).txt 2 1721 3226 
+movable Plasma_(physics).txt 1 360 
+ball Plasma_(physics).txt 1 2099 
+dc Plasma_(physics).txt 1 3094 
+applications Plasma_(physics).txt 2 2479 3446 
+produce Plasma_(physics).txt 2 1433 3051 
+blood Plasma_(physics).txt 2 440 458 
+waves Plasma_(physics).txt 1 1211 
+j.j Plasma_(physics).txt 1 400 
+data Plasma_(physics).txt 1 2551 
+response Plasma_(physics).txt 2 246 773 
+types Plasma_(physics).txt 1 2719 
+a Plasma_(physics).txt 99 66 70 118 359 369 537 623 652 659 689 729 750 770 847 866 870 895 919 942 946 1082 1099 1118 1145 1174 1287 1304 1402 1419 1434 1452 1537 1566 1584 1590 1605 1675 1679 1766 1964 1968 1972 2012 2050 2127 2157 2177 2199 2212 2219 2233 2255 2328 2331 2345 2350 2355 2360 2372 2382 2406 2432 2466 2523 2593 2609 2643 2651 2663 2703 2752 2757 2766 2801 2814 2818 2865 2868 2886 2898 2920 2947 2960 2970 2991 2996 3019 3068 3087 3091 3142 3161 3236 3278 3303 3307 3359 3362 3493 
+supersonic Plasma_(physics).txt 1 3496 
+quasineutrality Plasma_(physics).txt 2 1326 2327 
+liquid Plasma_(physics).txt 3 41 576 3350 
+beam Plasma_(physics).txt 3 1442 2188 2238 
+long-range Plasma_(physics).txt 2 86 555 
+light Plasma_(physics).txt 1 1209 
+lines Plasma_(physics).txt 1 2638 
+corona Plasma_(physics).txt 1 173 
+greek Plasma_(physics).txt 2 11 324 
+complexity Plasma_(physics).txt 2 2023 2073 
+green Plasma_(physics).txt 1 519 
+fundamental Plasma_(physics).txt 1 20 
+definitions Plasma_(physics).txt 1 1132 
+subsequently Plasma_(physics).txt 3 394 2065 2510 
+affecting Plasma_(physics).txt 1 1486 
+jacobs Plasma_(physics).txt 1 3020 
+playing Plasma_(physics).txt 1 3492 
+wind Plasma_(physics).txt 1 1823 
+typical Plasma_(physics).txt 1 1969 
+instabilities Plasma_(physics).txt 1 2505 
+acts Plasma_(physics).txt 1 2438 
+interpretation Plasma_(physics).txt 1 125 
+feedback Plasma_(physics).txt 1 2200 
+numbers Plasma_(physics).txt 1 3413 
+radiation Plasma_(physics).txt 1 956 
+over Plasma_(physics).txt 3 1343 1489 1536 
+despite Plasma_(physics).txt 1 1726 
+mainly Plasma_(physics).txt 1 3233 
+thomson Plasma_(physics).txt 1 401 
+produced Plasma_(physics).txt 2 144 3015 
+thermal Plasma_(physics).txt 12 851 930 1026 1046 1049 1065 2435 2460 3360 3363 3367 3395 
+computational Plasma_(physics).txt 1 2967 
+through Plasma_(physics).txt 2 818 2990 
+signs Plasma_(physics).txt 1 146 
+differs Plasma_(physics).txt 1 1764 
+existence Plasma_(physics).txt 2 290 1500 
+kinetic Plasma_(physics).txt 8 852 2841 2844 2869 2883 2913 2926 2972 
+still Plasma_(physics).txt 1 1152 
+journals Plasma_(physics).txt 1 3546 
+its Plasma_(physics).txt 4 1289 2477 3034 3136 
+before Plasma_(physics).txt 1 1603 
+1 Plasma_(physics).txt 2 759 1123 
+emits Plasma_(physics).txt 1 1208 
+position Plasma_(physics).txt 2 2739 2903 
+group Plasma_(physics).txt 2 2467 2524 
+termed Plasma_(physics).txt 2 1303 3139 
+m87s Plasma_(physics).txt 1 1906 
+50,000 Plasma_(physics).txt 1 1227 
+ionised Plasma_(physics).txt 18 78 97 135 138 154 167 210 337 544 752 764 1014 1113 1129 1182 1731 2288 3167 
+and/or Plasma_(physics).txt 1 2987 
+forms Plasma_(physics).txt 4 139 1925 2218 3302 
+degrees Plasma_(physics).txt 2 683 1156 
+dwarfs Plasma_(physics).txt 1 1872 
+insulator Plasma_(physics).txt 1 3159 
+ionises Plasma_(physics).txt 1 3332 
+hidden Plasma_(physics).txt 1 3573 
+imbalance Plasma_(physics).txt 1 1361 
+defining Plasma_(physics).txt 1 867 
+setting Plasma_(physics).txt 1 2998 
+2013 Plasma_(physics).txt 1 2522 
+eventually Plasma_(physics).txt 1 917 
+them Plasma_(physics).txt 2 115 3044 
+good Plasma_(physics).txt 3 1240 1308 2307 
+affected Plasma_(physics).txt 3 666 1511 1701 
+greater Plasma_(physics).txt 1 1493 
+combination Plasma_(physics).txt 1 2758 
+material Plasma_(physics).txt 4 1889 3076 3131 3154 
+conductors Plasma_(physics).txt 1 1242 
+interstellar Plasma_(physics).txt 2 1783 1841 
+walls Plasma_(physics).txt 2 2488 2520 
+cutting Plasma_(physics).txt 1 3473 
+repulsive Plasma_(physics).txt 1 1473 
+effects Plasma_(physics).txt 2 2285 2840 
+they Plasma_(physics).txt 8 633 981 1062 2031 2110 2530 2584 2825 
+not Plasma_(physics).txt 9 46 588 635 641 1438 1633 1700 2691 2861 
+maxwellian Plasma_(physics).txt 1 947 
+maintaining Plasma_(physics).txt 1 2589 
+represents Plasma_(physics).txt 1 511 
+term Plasma_(physics).txt 2 405 703 
+several Plasma_(physics).txt 2 1154 3031 
+oxygen Plasma_(physics).txt 1 487 
+brightness Plasma_(physics).txt 1 2215 
+edit Plasma_(physics).txt 32 316 478 534 694 827 1030 1098 1185 1563 1711 1778 1917 1941 2081 2296 2381 2428 2632 2722 2843 2976 3012 3248 3435 3504 3507 3509 3552 3555 3557 3559 3562 
+fully Plasma_(physics).txt 4 137 166 1112 2971 
+radiant Plasma_(physics).txt 1 384 
+classified Plasma_(physics).txt 1 1044 
+identified Plasma_(physics).txt 2 367 395 
+principle Plasma_(physics).txt 1 3038 
+sufficiently Plasma_(physics).txt 1 2791 
+magnitude Plasma_(physics).txt 1 1382 
+trap Plasma_(physics).txt 1 2374 
+electrically Plasma_(physics).txt 4 83 549 609 3074 
+accompanied Plasma_(physics).txt 1 216 
+difficult Plasma_(physics).txt 1 2561 
+referred Plasma_(physics).txt 1 1103 
+heavy Plasma_(physics).txt 3 1055 3381 3429 
+reactions Plasma_(physics).txt 1 2624 
+directly Plasma_(physics).txt 1 1485 
+collisionless Plasma_(physics).txt 1 2875 
+exhaust Plasma_(physics).txt 1 3482 
+generation Plasma_(physics).txt 3 1526 3008 3035 
+energy Plasma_(physics).txt 7 527 853 887 948 3048 3400 3425 
+reduce Plasma_(physics).txt 1 2965 
+related Plasma_(physics).txt 3 199 807 1748 
+fraction Plasma_(physics).txt 2 1120 1176 
+increases Plasma_(physics).txt 2 3126 3220 
+interplay Plasma_(physics).txt 1 2240 
+measure Plasma_(physics).txt 1 848 
+substantially Plasma_(physics).txt 1 2964 
+our Plasma_(physics).txt 1 1809 
+beyond Plasma_(physics).txt 1 3135 
+event Plasma_(physics).txt 1 3269 
+special Plasma_(physics).txt 1 1364 
+out Plasma_(physics).txt 2 1829 1911 
+flow Plasma_(physics).txt 1 2816 
+shown Plasma_(physics).txt 1 506 
+unbound Plasma_(physics).txt 2 613 632 
+space Plasma_(physics).txt 11 495 517 1258 1279 1787 1813 1842 1845 2394 2830 3530 
+non-thermal Plasma_(physics).txt 1 1048 
+furthermore Plasma_(physics).txt 1 1833 
+since Plasma_(physics).txt 1 1236 
+research Plasma_(physics).txt 4 3451 3508 3541 3550 
+particles Plasma_(physics).txt 18 617 630 646 762 958 1056 1261 1503 1578 2388 2397 2411 2701 2925 2951 3219 3382 3430 
+collisions Plasma_(physics).txt 3 3176 3232 3245 
+fountain Plasma_(physics).txt 1 485 
+wide Plasma_(physics).txt 1 2013 
+dominate Plasma_(physics).txt 2 89 560 
+cause Plasma_(physics).txt 1 1519 
+ladder Plasma_(physics).txt 1 3021 
+red Plasma_(physics).txt 1 461 
+common Plasma_(physics).txt 8 1011 1142 1403 1585 1794 1915 2880 3040 
+harold Plasma_(physics).txt 1 417 
+ionisation Plasma_(physics).txt 11 693 699 727 784 863 876 1097 3252 3268 3300 3339 
+interactions Plasma_(physics).txt 1 234 
+pours Plasma_(physics).txt 1 528 
+1920s Plasma_(physics).txt 2 34 428 
+million Plasma_(physics).txt 1 1205 
+interplanetary Plasma_(physics).txt 1 1812 
+given Plasma_(physics).txt 2 1683 3402 
+free Plasma_(physics).txt 3 636 719 3239 
+20 Plasma_(physics).txt 1 3228 
+capture Plasma_(physics).txt 1 2828 
+reason Plasma_(physics).txt 1 993 
+formation Plasma_(physics).txt 4 2006 2142 2253 2626 
+respect Plasma_(physics).txt 1 2444 
+generate Plasma_(physics).txt 2 647 1508 
+electrodes Plasma_(physics).txt 2 3265 3316 
+definition Plasma_(physics).txt 1 533 
+interaction Plasma_(physics).txt 2 2120 2455 
+saha Plasma_(physics).txt 1 899 
+created Plasma_(physics).txt 1 670 
+ultrahigh-pressure Plasma_(physics).txt 1 2544 
+could Plasma_(physics).txt 2 2502 2605 
+transition Plasma_(physics).txt 1 113 
+disperse Plasma_(physics).txt 1 3417 
+british Plasma_(physics).txt 1 397 
+keep Plasma_(physics).txt 2 2696 2794 
+motion Plasma_(physics).txt 1 1574 
+turn Plasma_(physics).txt 1 676 
+length Plasma_(physics).txt 4 1356 1497 2016 2267 
+1970s Plasma_(physics).txt 1 2475 
+liquids Plasma_(physics).txt 2 236 1723 
+first Plasma_(physics).txt 5 26 366 432 2058 3199 
+borealis Plasma_(physics).txt 1 524 
+industrial Plasma_(physics).txt 2 3001 3458 
+features Plasma_(physics).txt 6 2010 2025 2040 2046 2056 3543 
+discharges Plasma_(physics).txt 2 1198 3503 
+number Plasma_(physics).txt 8 193 717 791 798 822 1767 2922 3216 
+one Plasma_(physics).txt 10 16 1597 2019 2230 2268 2743 2888 3037 3209 3271 
+utilized Plasma_(physics).txt 1 1159 
+least Plasma_(physics).txt 1 1596 
+suspended Plasma_(physics).txt 1 357 
+such Plasma_(physics).txt 6 261 1523 1975 2354 3464 3528 
+insulation Plasma_(physics).txt 1 2481 
+force Plasma_(physics).txt 2 1475 2304 
+1879 Plasma_(physics).txt 1 380 
+earths Plasma_(physics).txt 5 51 483 500 593 1194 
+little Plasma_(physics).txt 1 757 
+ancient Plasma_(physics).txt 2 10 323 
+temperature Plasma_(physics).txt 17 131 203 748 836 882 934 996 1007 1025 1060 1085 1088 1150 2820 3343 3375 3440 
+likely Plasma_(physics).txt 1 1848 
+their Plasma_(physics).txt 5 933 1314 1640 3408 3438 
+unknown Plasma_(physics).txt 1 292 
+interact Plasma_(physics).txt 1 2402 
+system Plasma_(physics).txt 3 1811 1974 2948 
+approximately Plasma_(physics).txt 1 1335 
+parallel Plasma_(physics).txt 1 1645 
+found Plasma_(physics).txt 2 2392 2493 
+needed Plasma_(physics).txt 1 860 
+finding Plasma_(physics).txt 1 1397 
+tighter Plasma_(physics).txt 1 2208 
+which Plasma_(physics).txt 12 542 755 864 1327 1893 1928 2437 2714 3085 3326 3369 3405 
+white Plasma_(physics).txt 2 463 1871 
+molecular Plasma_(physics).txt 1 221 
+structures Plasma_(physics).txt 4 2076 2085 2145 2831 
+smoothed Plasma_(physics).txt 2 2730 2894 
+townsend Plasma_(physics).txt 1 3173 
+physicists Plasma_(physics).txt 1 2707 
+x-rays Plasma_(physics).txt 1 1212 
+way Plasma_(physics).txt 1 457 
+mostly Plasma_(physics).txt 4 117 299 586 745 
+that Plasma_(physics).txt 27 430 445 492 554 714 736 932 1172 1366 1408 1436 1533 1589 1624 1639 1754 1908 2201 2217 2260 2313 2408 2494 2529 2587 2647 3373 
+acquire Plasma_(physics).txt 1 2398 
+interesting Plasma_(physics).txt 3 2008 2027 2269 
+environmental Plasma_(physics).txt 1 130 
+part Plasma_(physics).txt 2 2167 3494 
+1960s Plasma_(physics).txt 1 2473 
+manifestation Plasma_(physics).txt 1 2020 
+focusing Plasma_(physics).txt 1 2243 
+kelvins Plasma_(physics).txt 1 841 
+representing Plasma_(physics).txt 1 2892 
+than Plasma_(physics).txt 8 980 1004 1395 1494 2044 2194 2229 2933 
+relative Plasma_(physics).txt 2 883 1034 
+nanostructures Plasma_(physics).txt 1 2578 
+quasineutral Plasma_(physics).txt 1 1439 
+effective Plasma_(physics).txt 1 2582 
+showed Plasma_(physics).txt 1 2586 
+double Plasma_(physics).txt 3 1367 1529 2835 
+rate Plasma_(physics).txt 1 1618 
+extraordinarily Plasma_(physics).txt 1 1954 
+rapidly Plasma_(physics).txt 2 3221 3419 
+matter Plasma_(physics).txt 14 23 94 119 211 277 296 385 392 540 565 584 1720 1743 1798 
+determined Plasma_(physics).txt 3 878 1391 3341 
+were Plasma_(physics).txt 2 2057 2557 
+contrasted Plasma_(physics).txt 1 570 
+powers Plasma_(physics).txt 1 2164 
+descriptions Plasma_(physics).txt 2 2631 2712 
+behaviors Plasma_(physics).txt 1 104 
+modern Plasma_(physics).txt 1 258 
+turned Plasma_(physics).txt 1 3357 
+locations Plasma_(physics).txt 2 1927 2669 
+wave-particle Plasma_(physics).txt 1 2839 
+say Plasma_(physics).txt 1 3372 
+filamentary Plasma_(physics).txt 1 2144 
+have Plasma_(physics).txt 9 99 737 766 1051 1076 1894 2049 2064 2531 
+need Plasma_(physics).txt 2 2682 2862 
+north Plasma_(physics).txt 1 509 
+any Plasma_(physics).txt 2 656 2322 
+contents Plasma_(physics).txt 1 314 
+ray Plasma_(physics).txt 1 391 
+treats Plasma_(physics).txt 1 2748 
+lie Plasma_(physics).txt 2 1293 1977 
+strength Plasma_(physics).txt 2 2298 3140 
+computationally Plasma_(physics).txt 1 2931 
+relationship Plasma_(physics).txt 1 896 
+cascade Plasma_(physics).txt 1 3249 
+able Plasma_(physics).txt 1 3415 
+polarization Plasma_(physics).txt 1 3134 
+also Plasma_(physics).txt 13 213 829 1756 1847 1860 2086 2138 2147 2151 2291 2422 2585 3554 
+potential Plasma_(physics).txt 7 1184 1250 1276 1280 1290 1298 3099 
+analogy Plasma_(physics).txt 1 438 
+interior Plasma_(physics).txt 1 158 
+so Plasma_(physics).txt 3 373 3281 3392 
+conductivity Plasma_(physics).txt 4 780 1310 1669 2308 
+play Plasma_(physics).txt 2 1245 2359 
+continuous Plasma_(physics).txt 2 3308 3321 
+electric Plasma_(physics).txt 23 556 649 961 1243 1315 1387 1424 1482 1658 1671 1688 2103 2303 2357 2986 3063 3103 3133 3150 3246 3305 3309 3322 
+though Plasma_(physics).txt 1 223 
+track Plasma_(physics).txt 1 2697 
+object Plasma_(physics).txt 2 1532 3513 
+systems Plasma_(physics).txt 2 1882 1976 
+heliopause Plasma_(physics).txt 1 1832 
+self-constricting Plasma_(physics).txt 1 2635 
+rarefied Plasma_(physics).txt 1 306 
+most Plasma_(physics).txt 4 272 922 1793 2977 
+boltzmann Plasma_(physics).txt 1 1413 
+intergalactic Plasma_(physics).txt 3 312 1786 1844 
+but Plasma_(physics).txt 2 1130 1349 
+significant Plasma_(physics).txt 2 943 2332 
+accreting Plasma_(physics).txt 1 1898 
+phase Plasma_(physics).txt 2 1752 1795 
+homogeneous Plasma_(physics).txt 1 3378 
+measured Plasma_(physics).txt 2 839 1271 
+model Plasma_(physics).txt 4 1966 2721 2746 2842 
+flares Plasma_(physics).txt 1 2106 
+magnetohydrodynamics Plasma_(physics).txt 2 1561 2747 
+electronvolts Plasma_(physics).txt 1 843 
+especially Plasma_(physics).txt 1 1010 
+sizable Plasma_(physics).txt 1 3439 
+average Plasma_(physics).txt 4 812 1255 1593 3241 
+sometimes Plasma_(physics).txt 3 1086 1102 2112 
+m Plasma_(physics).txt 1 1235 
+heat Plasma_(physics).txt 2 2516 3325 
+heating Plasma_(physics).txt 3 63 2614 2618 
+electrons Plasma_(physics).txt 26 185 195 342 363 449 720 741 825 906 925 971 1038 1052 1090 1410 1626 2289 2779 3108 3178 3187 3213 3253 3283 3389 3404 
+artificially Plasma_(physics).txt 2 60 601 
+plasma-gas Plasma_(physics).txt 1 2603 
+velocity Plasma_(physics).txt 6 1692 2736 2797 2829 2849 2901 
+30,000 Plasma_(physics).txt 1 1199 
+physics Plasma_(physics).txt 4 1 3525 3532 3567 
+plasma/grain Plasma_(physics).txt 1 2379 
+incomplete Plasma_(physics).txt 1 1096 
+atmosphere Plasma_(physics).txt 1 532 
+reactor Plasma_(physics).txt 1 2487 
+luminescent Plasma_(physics).txt 1 3486 
+definite Plasma_(physics).txt 1 1759 
+radio Plasma_(physics).txt 1 1210 
+earth Plasma_(physics).txt 1 515 
+image Plasma_(physics).txt 1 3084 
+find Plasma_(physics).txt 2 3445 3563 
+impact Plasma_(physics).txt 1 3200 
+o Plasma_(physics).txt 1 3258 
+summarised Plasma_(physics).txt 1 1933 
+based Plasma_(physics).txt 4 126 287 1031 2890 
+parameters Plasma_(physics).txt 2 477 2742 
+collisionality Plasma_(physics).txt 1 2789 
+storms Plasma_(physics).txt 1 149 
+enough Plasma_(physics).txt 2 928 1570 
+completes Plasma_(physics).txt 1 1594 
+being Plasma_(physics).txt 3 1106 1729 3157 
+only Plasma_(physics).txt 7 58 198 1117 1173 1446 2542 3225 
+black Plasma_(physics).txt 2 1876 1899 
+screening Plasma_(physics).txt 2 1480 2598 
+molecules Plasma_(physics).txt 4 1127 1180 3330 3385 
+germs Plasma_(physics).txt 1 466 
+fuel Plasma_(physics).txt 1 3488 
+employed Plasma_(physics).txt 1 255 
+partially Plasma_(physics).txt 3 134 153 751 
+local Plasma_(physics).txt 1 206 
+equilibrium Plasma_(physics).txt 5 931 975 984 1066 3368 
+televisions Plasma_(physics).txt 1 264 
+do Plasma_(physics).txt 1 2860 
+dominant Plasma_(physics).txt 1 2361 
+bonds Plasma_(physics).txt 1 222 
+beams Plasma_(physics).txt 2 2367 2833 
+velocities Plasma_(physics).txt 1 2671 
+overall Plasma_(physics).txt 1 620 
+fluid Plasma_(physics).txt 8 2720 2723 2745 2754 2783 2805 2934 3072 
+conductive Plasma_(physics).txt 2 84 550 
+cannot Plasma_(physics).txt 1 1990 
+5,000 Plasma_(physics).txt 1 1913 
+nearly Plasma_(physics).txt 1 1111 
+closely Plasma_(physics).txt 1 1747 
+distinctly Plasma_(physics).txt 1 227 
+neither Plasma_(physics).txt 1 2827 
+differentiating Plasma_(physics).txt 1 1415 
+secondary Plasma_(physics).txt 1 2611 
+processes Plasma_(physics).txt 1 231 
+resolve Plasma_(physics).txt 1 2838 
+densities Plasma_(physics).txt 4 1231 1856 2117 2315 
+fields Plasma_(physics).txt 17 88 251 559 669 776 962 1316 1388 1483 1514 1553 1659 2358 2498 2989 3449 3538 
+defocusing Plasma_(physics).txt 3 2234 2249 2284 
+penning Plasma_(physics).txt 1 2373 
+gush Plasma_(physics).txt 1 493 
+albeit Plasma_(physics).txt 1 1852 
+including Plasma_(physics).txt 2 1770 3526 
+movement Plasma_(physics).txt 1 657 
+where Plasma_(physics).txt 12 190 525 788 819 1017 1608 1685 2189 2775 3152 3175 3336 
+voltage Plasma_(physics).txt 1 3125 
+exists Plasma_(physics).txt 1 1253 
+achieved Plasma_(physics).txt 1 181 
+physically Plasma_(physics).txt 1 2453 
+smooth Plasma_(physics).txt 1 1997 
+uses Plasma_(physics).txt 2 5 3026 
+around Plasma_(physics).txt 3 1599 1865 2737 
+kink Plasma_(physics).txt 1 2504 
+observed Plasma_(physics).txt 3 472 1861 1896 
+see Plasma_(physics).txt 6 6 828 2146 2290 2740 3553 
+electrostatic Plasma_(physics).txt 1 1474 
+are Plasma_(physics).txt 44 150 356 631 634 763 858 926 1020 1043 1063 1091 1128 1141 1165 1181 1238 1369 1554 1627 1632 1636 1650 1662 1789 1859 1948 2026 2032 2091 2111 2325 2364 2421 2716 2780 2785 2878 2928 2980 3030 3254 3397 3414 3511 
+sea Plasma_(physics).txt 1 361 
+1928 Plasma_(physics).txt 1 413 
+close Plasma_(physics).txt 3 927 1879 2799 
+luminous Plasma_(physics).txt 1 3304 
+electrode Plasma_(physics).txt 3 1283 3114 3119 
+cold Plasma_(physics).txt 7 1115 1139 1146 1167 2448 2457 2547 
+subject Plasma_(physics).txt 1 123 
+phases Plasma_(physics).txt 1 1710 
+said Plasma_(physics).txt 1 1580 
+interacting Plasma_(physics).txt 2 1547 2952 
+ways Plasma_(physics).txt 1 1769 
+subsequent Plasma_(physics).txt 2 3102 3275 
+away Plasma_(physics).txt 1 184 
+currently Plasma_(physics).txt 2 285 3534 
+wikipedia Plasma_(physics).txt 1 2 
+artificial Plasma_(physics).txt 4 2974 2978 3010 3013 
+tend Plasma_(physics).txt 1 907 
+state Plasma_(physics).txt 5 538 567 814 1718 2661 
+various Plasma_(physics).txt 1 1924 
+between Plasma_(physics).txt 8 114 1259 1984 2039 3177 3244 3263 3314 
+orbiting Plasma_(physics).txt 1 186 
+rendition Plasma_(physics).txt 1 480 
+boundary Plasma_(physics).txt 1 1983 
+conditions Plasma_(physics).txt 3 55 597 2418 
+across Plasma_(physics).txt 2 3067 3544 
+quantities Plasma_(physics).txt 1 2731 
+crookes Plasma_(physics).txt 2 370 378 
+terms Plasma_(physics).txt 3 1135 2728 2812 
+extend Plasma_(physics).txt 1 1375 
+nature Plasma_(physics).txt 2 387 1922 
+supernova Plasma_(physics).txt 1 2108 
+physicist Plasma_(physics).txt 1 398 
+however Plasma_(physics).txt 4 1498 2489 2687 3036 
+spectroscopic Plasma_(physics).txt 1 2550 
+maxwells Plasma_(physics).txt 1 2760 
+hypothesis Plasma_(physics).txt 1 283 
+jets Plasma_(physics).txt 1 1892 
+article Plasma_(physics).txt 1 2654 
+spark Plasma_(physics).txt 1 3151 
+configuration Plasma_(physics).txt 1 2501 
+come Plasma_(physics).txt 2 972 982 
+suggested Plasma_(physics).txt 1 2580 
+both Plasma_(physics).txt 2 419 1802 
+c Plasma_(physics).txt 1 1226 
+toward Plasma_(physics).txt 1 3110 
+reported Plasma_(physics).txt 1 2528 
+freely Plasma_(physics).txt 1 48 
+region Plasma_(physics).txt 3 346 2324 2680 
+nomenclature Plasma_(physics).txt 1 121 
+display Plasma_(physics).txt 1 103 
+propagation Plasma_(physics).txt 1 2293 
+grain Plasma_(physics).txt 1 2414 
+statesatoms Plasma_(physics).txt 1 912 
+expense Plasma_(physics).txt 1 2968 
+comes Plasma_(physics).txt 1 320 
+otherwise Plasma_(physics).txt 1 1466 
+millions Plasma_(physics).txt 1 3224 
+and Plasma_(physics).txt 104 24 42 85 96 102 111 122 132 174 291 309 340 372 416 462 465 476 489 557 577 598 615 655 664 742 777 795 832 844 888 905 913 1040 1053 1079 1138 1207 1213 1229 1386 1509 1517 1550 1613 1693 1698 1708 1724 1738 1776 1785 1805 1838 1926 1956 1986 1989 2063 2074 2107 2118 2175 2231 2247 2299 2305 2318 2375 2401 2450 2459 2474 2509 2625 2639 2670 2672 2734 2762 2778 2858 2902 2999 3052 3101 3179 3186 3211 3259 3273 3291 3299 3331 3344 3386 3388 3411 3420 3441 3453 3459 3474 3484 3542 
+study Plasma_(physics).txt 1 3515 
+point Plasma_(physics).txt 3 76 553 2854 
+simple Plasma_(physics).txt 5 1950 1965 1996 2744 3092 
+unexpectedly Plasma_(physics).txt 1 2514 
+excess Plasma_(physics).txt 1 2333 
+active Plasma_(physics).txt 2 1903 3540 
+pole Plasma_(physics).txt 1 510 
+written Plasma_(physics).txt 1 2685 
+simply Plasma_(physics).txt 2 351 1396 
+right Plasma_(physics).txt 1 3197 
+modeling Plasma_(physics).txt 1 2656 
+hotter Plasma_(physics).txt 1 1093 
+throughout Plasma_(physics).txt 2 2068 3379 
+100 Plasma_(physics).txt 1 1204 
+intracluster Plasma_(physics).txt 1 307 
+described Plasma_(physics).txt 5 27 374 468 1993 2781 
+engines Plasma_(physics).txt 1 3498 
+create Plasma_(physics).txt 1 3183 
+three Plasma_(physics).txt 2 38 686 
+been Plasma_(physics).txt 2 1895 2066 
+whom Plasma_(physics).txt 1 421 
+magnetized Plasma_(physics).txt 4 1583 1628 1634 2958 
+describes Plasma_(physics).txt 1 332 
+interest Plasma_(physics).txt 1 3548 
+certain Plasma_(physics).txt 1 2819 
+anisotropic Plasma_(physics).txt 1 1637 
+extreme Plasma_(physics).txt 1 2340 
+define Plasma_(physics).txt 1 688 
+gyrokinetic Plasma_(physics).txt 1 2961 
+direction Plasma_(physics).txt 1 1644 
+pic Plasma_(physics).txt 1 2910 
+controlled Plasma_(physics).txt 1 744 
+influence Plasma_(physics).txt 1 1572 
+subjecting Plasma_(physics).txt 1 65 
+formed Plasma_(physics).txt 1 1370 
+gas Plasma_(physics).txt 20 43 68 512 578 753 920 1126 1179 1709 1732 1751 2446 2458 2548 2992 3070 3181 3329 3351 3354 
+irving Plasma_(physics).txt 3 30 410 424 
+confinement Plasma_(physics).txt 2 2540 2583 
+28,000 Plasma_(physics).txt 2 1223 1225 
+external Plasma_(physics).txt 3 1549 2496 3560 
+pinch Plasma_(physics).txt 1 2149 
+moldable Plasma_(physics).txt 2 13 326 
+worked Plasma_(physics).txt 1 422 
+general Plasma_(physics).txt 1 2768 
+those Plasma_(physics).txt 2 106 1653 
+case Plasma_(physics).txt 4 1365 1623 2341 3057 
+main Plasma_(physics).txt 2 2653 2718 
+atmospheric Plasma_(physics).txt 2 2136 3505 
+unlike Plasma_(physics).txt 3 35 105 579 
+solid Plasma_(physics).txt 5 40 575 1722 2442 3349 
+ejection Plasma_(physics).txt 1 1887 
+single Plasma_(physics).txt 3 2346 2753 2815 
+air Plasma_(physics).txt 1 3017 
+will Plasma_(physics).txt 3 916 1291 1468 
+near Plasma_(physics).txt 2 498 1022 
+ignition Plasma_(physics).txt 1 3489 
+behavior Plasma_(physics).txt 8 91 239 562 680 1522 1952 1962 1988 
+many Plasma_(physics).txt 7 257 682 2053 2094 3025 3448 3545 
+well-defined Plasma_(physics).txt 1 937 
+pushed Plasma_(physics).txt 1 2454 
+welding Plasma_(physics).txt 1 3475 
+larger Plasma_(physics).txt 3 2043 2115 2410 
+categorized Plasma_(physics).txt 1 3006 
+wikipedias Plasma_(physics).txt 1 3569 
+characteristics Plasma_(physics).txt 2 768 2554 
+is Plasma_(physics).txt 82 15 116 162 180 197 226 284 298 521 536 607 625 665 700 715 731 743 785 789 796 806 820 837 845 865 877 935 941 1009 1101 1110 1151 1187 1272 1284 1302 1334 1405 1430 1437 1579 1588 1609 1614 1620 1682 1686 1690 1694 1699 1713 1734 1746 1814 1846 1884 1953 1967 2018 2041 2192 2276 2342 2348 2412 2431 2689 2770 2790 2871 2889 3039 3059 3065 3171 3340 3355 3365 3370 3376 3391 3401 
+coating Plasma_(physics).txt 1 3468 
+it Plasma_(physics).txt 19 383 1109 1252 1268 1429 1461 1467 1619 1656 1733 1745 1755 1763 2491 2688 3054 3164 3418 3533 
+surface Plasma_(physics).txt 5 52 594 1195 1828 3462 
+jelly Plasma_(physics).txt 1 329 
+itself Plasma_(physics).txt 1 707 
+anode Plasma_(physics).txt 1 3112 
+in Plasma_(physics).txt 84 32 178 235 243 256 278 358 368 379 402 412 426 437 443 541 637 675 754 840 894 921 968 1012 1064 1144 1160 1169 1219 1256 1321 1362 1476 1556 1642 1660 1678 1753 1765 1774 1799 1862 1878 1890 1902 1921 1923 1934 1978 2060 2077 2093 2182 2266 2321 2338 2353 2371 2393 2472 2480 2499 2506 2521 2642 2650 2677 2702 2727 2811 2855 2900 2957 2995 3016 3081 3192 3208 3222 3366 3447 3457 3470 3479 3495 
+claimed Plasma_(physics).txt 1 2558 
+cleanup Plasma_(physics).txt 1 3483 
+helium Plasma_(physics).txt 1 488 
+everyday Plasma_(physics).txt 1 3480 
+currents Plasma_(physics).txt 1 2090 
+if Plasma_(physics).txt 3 1108 1116 1281 
+binary Plasma_(physics).txt 1 1880 
+different Plasma_(physics).txt 5 228 1000 1651 2577 2621 
+develop Plasma_(physics).txt 1 2649 
+ample Plasma_(physics).txt 1 3296 
+lengths Plasma_(physics).txt 2 1380 1542 
+travelled Plasma_(physics).txt 1 3243 
+reminded Plasma_(physics).txt 1 453 
+same Plasma_(physics).txt 1 1059 
+clearly Plasma_(physics).txt 1 2579 
+complex Plasma_(physics).txt 7 1521 1938 1973 2075 2424 2628 2634 
+relatively Plasma_(physics).txt 4 936 1949 2278 3377 
+mott-smith Plasma_(physics).txt 2 418 441 
+neutron Plasma_(physics).txt 1 1873 
+higher Plasma_(physics).txt 2 2178 2213 
+breakdown Plasma_(physics).txt 2 2134 3146 
+independent Plasma_(physics).txt 1 1262 
+used Plasma_(physics).txt 3 433 2941 3095 
+paths Plasma_(physics).txt 1 2641 
+refraction Plasma_(physics).txt 4 2172 2181 2227 2246 
+upon Plasma_(physics).txt 1 2588 
+effect Plasma_(physics).txt 2 2571 3262 
+hand Plasma_(physics).txt 1 1075 
+ion Plasma_(physics).txt 4 233 995 2280 3210 
+edges Plasma_(physics).txt 1 2197 
+moving Plasma_(physics).txt 2 644 1677 
+two Plasma_(physics).txt 5 2717 2879 3212 3264 3282 
+potentials Plasma_(physics).txt 2 1244 1385 
+dust Plasma_(physics).txt 2 2390 2396 
+dielectric Plasma_(physics).txt 2 3069 3137 
+string-like Plasma_(physics).txt 1 2084 
+lower Plasma_(physics).txt 3 1003 1084 2228 
+weakly Plasma_(physics).txt 2 890 1013 
+volts Plasma_(physics).txt 1 1206 
+center Plasma_(physics).txt 1 2184 
+intermittent Plasma_(physics).txt 1 2036 
+charges Plasma_(physics).txt 7 177 674 1333 1342 1448 2320 2400 
+no Plasma_(physics).txt 2 1758 2538 
+well Plasma_(physics).txt 1 3477 
+roughly Plasma_(physics).txt 1 626 
+alfvn Plasma_(physics).txt 1 2471 
+without Plasma_(physics).txt 1 3424 
+academic Plasma_(physics).txt 2 1558 3518 
+materials Plasma_(physics).txt 1 2526 
+sets Plasma_(physics).txt 1 3230 
+quantitative Plasma_(physics).txt 1 1586 
+the Plasma_(physics).txt 254 18 33 36 50 75 90 93 108 112 128 157 160 171 187 191 205 218 238 245 271 279 289 305 311 317 322 333 336 341 344 348 386 404 427 434 446 456 469 482 499 502 508 518 522 531 552 561 564 572 592 619 638 668 672 702 711 716 724 732 747 761 767 781 790 797 803 811 816 821 850 872 880 885 892 898 914 924 965 970 986 994 1005 1018 1023 1033 1037 1054 1058 1073 1077 1125 1134 1148 1170 1178 1249 1257 1264 1274 1278 1296 1307 1322 1329 1338 1347 1351 1354 1363 1371 1381 1384 1398 1409 1412 1423 1427 1449 1472 1487 1495 1499 1505 1525 1543 1557 1573 1576 1600 1610 1615 1622 1625 1630 1643 1647 1667 1670 1687 1691 1695 1716 1750 1771 1792 1800 1817 1821 1826 1831 1835 1935 1943 1958 1982 2004 2024 2037 2045 2061 2069 2097 2100 2119 2122 2141 2154 2165 2169 2183 2186 2190 2196 2203 2207 2221 2236 2239 2242 2248 2252 2272 2277 2287 2297 2302 2306 2314 2339 2395 2486 2495 2507 2519 2553 2566 2569 2581 2590 2602 2633 2660 2667 2674 2678 2700 2749 2763 2771 2776 2795 2809 2847 2856 2893 2904 2908 2917 2936 2944 2966 2983 3024 3082 3098 3106 3111 3116 3121 3124 3127 3130 3153 3168 3172 3193 3196 3198 3215 3223 3266 3288 3292 3315 3320 3333 3347 3353 3374 3380 3428 3512 3517 3536 
+recombine Plasma_(physics).txt 1 909 
+filamentation Plasma_(physics).txt 3 2080 2150 2273 
+charged Plasma_(physics).txt 9 645 660 1260 1502 1577 2365 2387 2950 3218 
+distances Plasma_(physics).txt 1 1491 
+magnetization Plasma_(physics).txt 1 1562 
+accretion Plasma_(physics).txt 1 1863 
+just Plasma_(physics).txt 1 3022 
+less Plasma_(physics).txt 1 2710 
+increasingly Plasma_(physics).txt 2 82 3166 
+generally Plasma_(physics).txt 5 1292 1456 2690 2929 3005 
+accurate Plasma_(physics).txt 1 2787 
+neon Plasma_(physics).txt 1 145 
+obtain Plasma_(physics).txt 1 2563 
+remnants Plasma_(physics).txt 1 2109 
+seen Plasma_(physics).txt 3 2092 3080 3191 
+underlying Plasma_(physics).txt 2 1944 3169 
+distant Plasma_(physics).txt 1 1836 
+atomic Plasma_(physics).txt 2 188 338 
+aspect Plasma_(physics).txt 1 2270 
+industrial/commercial Plasma_(physics).txt 1 3433 
+discipline Plasma_(physics).txt 1 1559 
+dissociation Plasma_(physics).txt 1 219 
+density Plasma_(physics).txt 19 133 207 705 713 792 799 805 823 893 1330 1339 1401 1428 1450 2281 2336 2733 3298 3442 
+mobility Plasma_(physics).txt 1 3410 
+passive Plasma_(physics).txt 1 2570 
+non-conducting Plasma_(physics).txt 1 3075 
+causing Plasma_(physics).txt 1 2198 
+extends Plasma_(physics).txt 1 1910 
+location Plasma_(physics).txt 1 2824 
+cations Plasma_(physics).txt 1 3260 
+technological Plasma_(physics).txt 3 259 1015 1163 
+usage Plasma_(physics).txt 1 331 
+role Plasma_(physics).txt 2 1248 2362 
+has Plasma_(physics).txt 4 1445 1757 2211 2223 
+plasma Plasma_(physics).txt 120 0 7 8 44 56 95 141 155 168 248 263 266 268 297 319 349 364 406 436 459 470 484 526 535 585 606 624 661 690 696 704 730 771 831 834 835 871 875 915 1100 1137 1140 1147 1161 1183 1191 1217 1275 1288 1297 1348 1435 1454 1488 1506 1528 1564 1676 1707 1712 1727 1782 1818 1851 1883 1939 1951 2022 2098 2148 2220 2222 2250 2259 2275 2295 2329 2352 2356 2380 2384 2407 2415 2427 2430 2436 2449 2461 2484 2508 2536 2556 2573 2652 2655 2664 2679 2704 2706 2741 2750 2773 2796 2810 2857 2887 2993 3011 3014 3028 3058 3352 3361 3364 3434 3466 3521 3524 3531 3566 
+expelled Plasma_(physics).txt 1 1819 
+forces Plasma_(physics).txt 1 643 
+navierstokes Plasma_(physics).txt 1 2764 
+showing Plasma_(physics).txt 1 486 
+possible Plasma_(physics).txt 2 1431 2478 
+usefully Plasma_(physics).txt 2 254 1931 
+dark Plasma_(physics).txt 1 295 
+possibly Plasma_(physics).txt 2 310 1909 
+fusion Plasma_(physics).txt 1 2483 
+grid Plasma_(physics).txt 1 2899 
+aerospace Plasma_(physics).txt 1 3500 
+nor Plasma_(physics).txt 1 2837 
+using Plasma_(physics).txt 1 2541 
+emergence Plasma_(physics).txt 1 1959 
+unique Plasma_(physics).txt 1 100 
+projects Plasma_(physics).txt 1 3571 
+like Plasma_(physics).txt 7 1870 1905 2096 2439 2732 2832 3023 
+positron Plasma_(physics).txt 1 2376 
+loss Plasma_(physics).txt 2 2517 3426 
+necessary Plasma_(physics).txt 3 701 2694 2873 
+particle Plasma_(physics).txt 6 662 855 1591 2366 2668 2848 
+lost Plasma_(physics).txt 2 513 738 
+follows Plasma_(physics).txt 1 474 
+collective Plasma_(physics).txt 1 679 
+disks Plasma_(physics).txt 1 1864 
+extremely Plasma_(physics).txt 1 1520 
+lightning Plasma_(physics).txt 6 148 1186 1197 1220 2102 3313 
+separately Plasma_(physics).txt 1 2782 
+either Plasma_(physics).txt 2 201 1994 
+recalls Plasma_(physics).txt 1 442 
+mathematical Plasma_(physics).txt 2 1998 2630 
+exceed Plasma_(physics).txt 1 1233 
+because Plasma_(physics).txt 5 963 2030 2804 3393 3436 
+often Plasma_(physics).txt 5 1021 1621 1714 2786 2872 
+sequence Plasma_(physics).txt 1 3348 
+successfully Plasma_(physics).txt 1 2532 
+some Plasma_(physics).txt 2 1376 1979 
+cathode Plasma_(physics).txt 2 390 3117 
+examples Plasma_(physics).txt 5 151 2071 2363 3431 3551 
+debye Plasma_(physics).txt 7 1305 1355 1379 1479 1496 1541 1703 
+table Plasma_(physics).txt 1 1937 
+treatments Plasma_(physics).txt 1 3463 
+transport Plasma_(physics).txt 1 447 
+synthesis Plasma_(physics).txt 1 2575 
+gradually Plasma_(physics).txt 1 3356 
+scale Plasma_(physics).txt 1 1352 
+for Plasma_(physics).txt 16 3 695 951 991 1121 1443 2028 2476 2592 2874 3000 3033 3055 3096 3455 3499 
+affects Plasma_(physics).txt 1 663 
+tube Plasma_(physics).txt 2 371 3089 
+normal Plasma_(physics).txt 2 54 596 
+per Plasma_(physics).txt 3 721 854 3346 
+nonthermal Plasma_(physics).txt 3 830 1028 1070 
+does Plasma_(physics).txt 3 45 587 1518 
+cloud Plasma_(physics).txt 1 2370 
+provides Plasma_(physics).txt 1 1418 
+mode Plasma_(physics).txt 1 2612 
+be Plasma_(physics).txt 27 59 143 215 253 270 569 600 998 1270 1359 1390 1457 1463 1469 1510 1582 1930 1992 2262 2452 2560 2684 2940 3004 3047 3079 3190 
+particle-in-cell Plasma_(physics).txt 1 2909 
+power Plasma_(physics).txt 2 2132 2159 
+arcs Plasma_(physics).txt 1 2104 
+liberated Plasma_(physics).txt 1 3293 
+each Plasma_(physics).txt 8 352 1068 2404 2738 2822 2853 3274 3286 
+perpendicular Plasma_(physics).txt 1 1654 
+pressure Plasma_(physics).txt 3 2137 2568 3506 
+lamps Plasma_(physics).txt 1 3487 
+although Plasma_(physics).txt 4 281 628 1744 1942 
+become Plasma_(physics).txt 1 918 
+filaments Plasma_(physics).txt 1 452 
+fluorescent Plasma_(physics).txt 1 3485 
+refers Plasma_(physics).txt 2 709 2152 
+tonks Plasma_(physics).txt 1 415 
+properties Plasma_(physics).txt 4 101 293 475 1641 
+stage Plasma_(physics).txt 1 3143 
+gained Plasma_(physics).txt 1 740 
+on Plasma_(physics).txt 17 49 127 288 591 1032 1072 1254 1350 1592 1981 2011 2552 2574 2891 2897 3195 3204 
+about Plasma_(physics).txt 2 3227 3565 
+extending Plasma_(physics).txt 2 303 1824 
+universe Plasma_(physics).txt 3 280 1801 2070 
+industry Plasma_(physics).txt 1 3454 
+impermeability Plasma_(physics).txt 1 2591 
+ranges Plasma_(physics).txt 1 3443 
+meaning Plasma_(physics).txt 3 12 325 1638 
+recognized Plasma_(physics).txt 1 2067 
+simulation Plasma_(physics).txt 1 2973 
+practical Plasma_(physics).txt 1 2692 
+carries Plasma_(physics).txt 1 460 
+ensure Plasma_(physics).txt 1 2312 
+mean Plasma_(physics).txt 1 3238 
+or Plasma_(physics).txt 29 64 136 147 204 237 265 328 739 842 959 988 1047 1114 1277 1460 1761 1843 1867 1875 1901 2000 2048 2083 2337 2447 2693 2834 3071 3523 
+gamma Plasma_(physics).txt 1 1215 
+amperes Plasma_(physics).txt 1 1200 
+contains Plasma_(physics).txt 2 2385 2409 
+into Plasma_(physics).txt 9 494 516 530 910 983 1286 3141 3160 3358 
+within Plasma_(physics).txt 3 343 651 1808 
+bound Plasma_(physics).txt 2 911 3107 
+due Plasma_(physics).txt 7 953 1299 1665 2282 2564 3234 3406 
+down Plasma_(physics).txt 1 2686 
+lewi Plasma_(physics).txt 1 414 
+jet Plasma_(physics).txt 1 1907 
+references Plasma_(physics).txt 1 3558 
+tiny Plasma_(physics).txt 1 2386 
+artists Plasma_(physics).txt 1 479 
+range Plasma_(physics).txt 2 2014 2300 
+elastic Plasma_(physics).txt 1 3422 
+area Plasma_(physics).txt 2 505 520 
+inserted Plasma_(physics).txt 1 1285 
+there Plasma_(physics).txt 6 940 1357 2715 2877 3029 3045 
+question Plasma_(physics).txt 1 1265 
+gases Plasma_(physics).txt 3 98 605 1725 
+ordered Plasma_(physics).txt 1 1985 
+much Plasma_(physics).txt 5 978 1083 1092 1839 2042 
+low Plasma_(physics).txt 4 902 1459 1855 2279 
+stars Plasma_(physics).txt 5 175 302 1837 1866 1874 
+astrophysics Plasma_(physics).txt 1 1777 
+successive Plasma_(physics).txt 1 3229 
+viscous Plasma_(physics).txt 1 2617 
+was Plasma_(physics).txt 6 25 365 393 407 2462 2492 
+leading Plasma_(physics).txt 1 2619 
+naturally Plasma_(physics).txt 1 589 
+function Plasma_(physics).txt 3 950 2851 2896 
+considerably Plasma_(physics).txt 1 1294 
+medium Plasma_(physics).txt 3 308 611 1784 
+gaseous Plasma_(physics).txt 2 79 545 
+complete Plasma_(physics).txt 1 1094 
+form Plasma_(physics).txt 4 274 1760 2052 2126 
+governs Plasma_(physics).txt 1 678 
+phenomena Plasma_(physics).txt 1 1940 
+amongst Plasma_(physics).txt 1 976 
+back Plasma_(physics).txt 1 529 
+volume Plasma_(physics).txt 3 723 1762 1807 
+neutral Plasma_(physics).txt 7 67 604 610 801 989 3180 3256 
+field-aligned Plasma_(physics).txt 1 2644 
+solar Plasma_(physics).txt 4 172 1810 1822 2105 
+atom Plasma_(physics).txt 1 3206 
+e Plasma_(physics).txt 1 3255 
+removed Plasma_(physics).txt 1 196 
+with Plasma_(physics).txt 23 170 301 423 439 571 681 985 1067 1548 1565 1674 1816 1850 1886 1897 2114 2121 2330 2403 2443 2537 2953 3295 
+he Plasma_(physics).txt 2 381 471 
+pull Plasma_(physics).txt 1 3105 
+input Plasma_(physics).txt 1 3049 
+lower-energy Plasma_(physics).txt 1 1740 
+prevents Plasma_(physics).txt 1 1481 
+uv Plasma_(physics).txt 1 955 
+ionization Plasma_(physics).txt 1 886 
+up Plasma_(physics).txt 1 1202 
+devices Plasma_(physics).txt 1 260 
+lead Plasma_(physics).txt 1 2511 
+below Plasma_(physics).txt 1 1295 
+astrophysical Plasma_(physics).txt 4 1477 1781 1857 1891 
+limit Plasma_(physics).txt 1 3138 
+approaches Plasma_(physics).txt 1 2881 
+distribution Plasma_(physics).txt 6 949 2798 2803 2850 2867 2895 
+tens Plasma_(physics).txt 3 1377 1539 2595 
+similar Plasma_(physics).txt 1 3311 
+called Plasma_(physics).txt 7 382 897 1273 1715 2349 2413 2423 
+distance Plasma_(physics).txt 2 2038 3242 
+detailed Plasma_(physics).txt 1 2711 
+later Plasma_(physics).txt 1 2490 
+associated Plasma_(physics).txt 4 300 1673 1885 2113 
+defined Plasma_(physics).txt 1 786 
+kinetics Plasma_(physics).txt 1 2622 
+describe Plasma_(physics).txt 6 2659 2673 2725 2808 2846 2943 
+non-neutral Plasma_(physics).txt 3 1453 2294 2351 
+micrometers Plasma_(physics).txt 1 2263 
+metals Plasma_(physics).txt 1 244 
+an Plasma_(physics).txt 23 77 163 543 608 648 1188 1246 1282 1440 1531 1730 2224 2368 2440 2513 2543 2954 3062 3073 3149 3158 3202 3205 
+as Plasma_(physics).txt 23 262 473 756 758 787 1045 1105 1251 1524 2088 2616 2751 2907 3077 3090 3123 3163 3188 3345 3465 3476 3478 3529 
+exist Plasma_(physics).txt 3 47 590 698 
+at Plasma_(physics).txt 15 901 1057 1081 1193 1201 1595 1853 2135 2162 2195 2601 2817 2821 2852 3568 
+laboratory Plasma_(physics).txt 3 2062 2417 2997 
+neutrals Plasma_(physics).txt 2 1041 1080 
+1897 Plasma_(physics).txt 1 403 
+functions Plasma_(physics).txt 1 1999 
+conductor Plasma_(physics).txt 1 3162 
+tentative Plasma_(physics).txt 1 286 
+index Plasma_(physics).txt 4 2170 2179 2225 2244 
+whereas Plasma_(physics).txt 1 1089 
+hannes Plasma_(physics).txt 1 2470 
+when Plasma_(physics).txt 4 939 2788 3061 3394 
+field Plasma_(physics).txt 16 73 654 1425 1568 1602 1649 1672 1681 1689 1697 2124 2637 2676 2956 3104 3519 
+other Plasma_(physics).txt 14 4 37 109 209 573 581 673 1069 1074 1131 1394 1739 2405 2905 
+electrical Plasma_(physics).txt 6 779 1241 1309 3145 3317 3399 
+spatial Plasma_(physics).txt 2 2009 2823 
+thousand Plasma_(physics).txt 1 1155 
+chemist Plasma_(physics).txt 1 29 
+10 Plasma_(physics).txt 1 1234 
+deviation Plasma_(physics).txt 1 944 
+picture Plasma_(physics).txt 1 2774 
+briefly Plasma_(physics).txt 1 2463 
+star Plasma_(physics).txt 1 1881 
+energetic Plasma_(physics).txt 1 957 
+models Plasma_(physics).txt 6 2724 2784 2806 2845 2927 2935 
+variation Plasma_(physics).txt 1 685 
+includes Plasma_(physics).txt 2 2912 3549 
+william Plasma_(physics).txt 1 377 
+generated Plasma_(physics).txt 8 61 602 2274 2533 2981 2994 3060 3398 
+important Plasma_(physics).txt 3 1247 1323 2174 
+nucleus Plasma_(physics).txt 1 3122 
+peak Plasma_(physics).txt 1 2214 
+discharge Plasma_(physics).txt 2 3088 3310 
+astronomy Plasma_(physics).txt 1 1775 
+structure Plasma_(physics).txt 1 2130 
+individual Plasma_(physics).txt 1 2924 
+faster Plasma_(physics).txt 1 979 
+spraying Plasma_(physics).txt 1 3467 
+assume Plasma_(physics).txt 2 1407 2864 
+typically Plasma_(physics).txt 5 1153 1196 1728 1991 2391 
+factors Plasma_(physics).txt 1 687 
+holes Plasma_(physics).txt 2 1877 1900 
+microelectronics Plasma_(physics).txt 1 3471 
+governed Plasma_(physics).txt 1 2755 
+low-pressure Plasma_(physics).txt 1 3502 
+stripping Plasma_(physics).txt 1 183 
+mass Plasma_(physics).txt 2 969 1804 
+volumes Plasma_(physics).txt 1 1345 
+electromagnetic Plasma_(physics).txt 5 72 87 250 2675 2955 
+far Plasma_(physics).txt 1 1791 
+nuclei Plasma_(physics).txt 3 189 339 355 
+adjacent Plasma_(physics).txt 1 3083 
+original Plasma_(physics).txt 1 3267 

@@ -1,0 +1,515 @@
+all Anomalistic_month.txt 3 309 1354 1553 
+syzygies Anomalistic_month.txt 1 45 
+customary Anomalistic_month.txt 1 735 
+suns Anomalistic_month.txt 1 1223 
+varying Anomalistic_month.txt 1 175 
+35.8 Anomalistic_month.txt 1 1283 
+earthmoon Anomalistic_month.txt 1 1231 
+month Anomalistic_month.txt 47 1 6 38 56 72 82 98 109 120 154 220 260 286 293 326 330 336 356 374 406 442 475 484 488 576 608 612 620 723 731 807 814 899 982 999 1005 1045 1058 1066 1069 1200 1270 1301 1307 1364 1399 1448 
+four Anomalistic_month.txt 1 267 
+7001273215820000000 Anomalistic_month.txt 1 787 
+7001275545510000000 Anomalistic_month.txt 1 906 
+transits Anomalistic_month.txt 1 1208 
+86,400 Anomalistic_month.txt 1 1491 
+whose Anomalistic_month.txt 1 941 
+depend Anomalistic_month.txt 1 950 
+calculate Anomalistic_month.txt 1 727 
+tt Anomalistic_month.txt 1 1473 
+young Anomalistic_month.txt 1 124 
+to Anomalistic_month.txt 36 194 223 333 386 416 418 493 518 547 584 598 602 699 726 736 744 770 772 779 878 880 993 1033 1035 1038 1040 1074 1079 1149 1259 1261 1316 1334 1343 1371 1402 
+analogous Anomalistic_month.txt 1 810 
+every Anomalistic_month.txt 2 1327 1394 
+difference Anomalistic_month.txt 2 67 1537 
+exact Anomalistic_month.txt 1 953 
+categories Anomalistic_month.txt 2 1581 1583 
+progression Anomalistic_month.txt 1 651 
+positions Anomalistic_month.txt 1 738 
+deals Anomalistic_month.txt 1 76 
+revolution Anomalistic_month.txt 2 891 1022 
+slower Anomalistic_month.txt 1 668 
+prediction Anomalistic_month.txt 1 936 
+approximation Anomalistic_month.txt 1 1457 
+rate Anomalistic_month.txt 2 662 688 
+crescent Anomalistic_month.txt 1 125 
+further Anomalistic_month.txt 1 583 
+sunodikos Anomalistic_month.txt 1 490 
+ecclesiastical Anomalistic_month.txt 1 185 
+waning Anomalistic_month.txt 1 161 
+sun Anomalistic_month.txt 13 136 504 523 549 571 596 641 654 995 1088 1408 1429 1570 
+while Anomalistic_month.txt 1 555 
+expressed Anomalistic_month.txt 2 1480 1501 
+international Anomalistic_month.txt 1 396 
+method Anomalistic_month.txt 1 64 
+full Anomalistic_month.txt 6 49 192 195 964 969 1379 
+annular Anomalistic_month.txt 1 949 
+following Anomalistic_month.txt 2 352 457 
+china Anomalistic_month.txt 1 454 
+others Anomalistic_month.txt 2 171 189 
+i.e Anomalistic_month.txt 2 496 1121 
+along Anomalistic_month.txt 1 760 
+eclipses Anomalistic_month.txt 1 938 
+change Anomalistic_month.txt 1 1461 
+extreme Anomalistic_month.txt 1 853 
+thirty Anomalistic_month.txt 1 228 
+3,233 Anomalistic_month.txt 1 869 
+30 Anomalistic_month.txt 1 207 
+usually Anomalistic_month.txt 1 331 
+draconic Anomalistic_month.txt 5 1044 1057 1072 1197 1300 
+diameter Anomalistic_month.txt 3 920 955 961 
+named Anomalistic_month.txt 1 236 
+regardless Anomalistic_month.txt 1 1350 
+egypt Anomalistic_month.txt 1 151 
+visible Anomalistic_month.txt 2 129 344 
+total Anomalistic_month.txt 1 947 
+use Anomalistic_month.txt 3 52 172 1514 
+from Anomalistic_month.txt 8 4 19 191 221 552 594 696 1544 
+takes Anomalistic_month.txt 7 413 613 765 874 1029 1256 1370 
+would Anomalistic_month.txt 1 1512 
+0 Anomalistic_month.txt 1 777 
+nine Anomalistic_month.txt 1 1024 
+two Anomalistic_month.txt 5 43 139 1112 1163 1206 
+live Anomalistic_month.txt 1 1080 
+therefore Anomalistic_month.txt 4 609 763 1026 1330 
+13.37 Anomalistic_month.txt 1 623 
+type Anomalistic_month.txt 2 440 930 
+until Anomalistic_month.txt 1 1418 
+more Anomalistic_month.txt 1 1484 
+formally Anomalistic_month.txt 1 288 
+becomes Anomalistic_month.txt 1 127 
+inclined Anomalistic_month.txt 1 1144 
+apparent Anomalistic_month.txt 4 24 919 954 960 
+5.14 Anomalistic_month.txt 1 1146 
+particular Anomalistic_month.txt 1 848 
+known Anomalistic_month.txt 5 30 230 402 804 1062 
+nodes Anomalistic_month.txt 5 1084 1132 1245 1286 1310 
+must Anomalistic_month.txt 1 579 
+crosses Anomalistic_month.txt 2 1117 1170 
+mythical Anomalistic_month.txt 1 1076 
+this Anomalistic_month.txt 12 74 439 500 526 755 799 842 892 926 929 1436 1476 
+eclipse Anomalistic_month.txt 3 728 1093 1098 
+longitude Anomalistic_month.txt 1 775 
+7001295305879810000 Anomalistic_month.txt 1 708 
+apoapsis Anomalistic_month.txt 1 670 
+calculation Anomalistic_month.txt 1 173 
+in Anomalistic_month.txt 35 33 88 99 113 145 149 209 211 217 255 280 369 448 455 481 499 566 632 686 847 867 1010 1023 1081 1139 1293 1312 1318 1424 1431 1475 1481 1502 1517 1550 
+india Anomalistic_month.txt 2 218 452 
+purposes Anomalistic_month.txt 1 312 
+sphere Anomalistic_month.txt 1 389 
+occur Anomalistic_month.txt 1 631 
+terrestrial Anomalistic_month.txt 1 1486 
+united Anomalistic_month.txt 1 282 
+rather Anomalistic_month.txt 1 829 
+divided Anomalistic_month.txt 2 226 460 
+1 Anomalistic_month.txt 1 1469 
+beat Anomalistic_month.txt 1 975 
+varies Anomalistic_month.txt 4 57 655 924 966 
+elliptical Anomalistic_month.txt 1 643 
+circular Anomalistic_month.txt 1 646 
+description Anomalistic_month.txt 1 95 
+may Anomalistic_month.txt 2 203 694 
+after Anomalistic_month.txt 4 132 237 572 988 
+southern Anomalistic_month.txt 1 1195 
+sophistication Anomalistic_month.txt 1 178 
+islamic Anomalistic_month.txt 1 147 
+apsis Anomalistic_month.txt 1 883 
+saros Anomalistic_month.txt 1 940 
+date Anomalistic_month.txt 2 234 252 
+law Anomalistic_month.txt 2 257 302 
+types Anomalistic_month.txt 3 323 353 1444 
+a Anomalistic_month.txt 29 36 81 94 97 258 270 404 419 494 497 574 581 633 831 1003 1030 1056 1064 1075 1094 1140 1251 1268 1299 1305 1397 1415 1454 1536 
+amid Anomalistic_month.txt 1 783 
+dragon Anomalistic_month.txt 1 1077 
+greek Anomalistic_month.txt 1 489 
+si Anomalistic_month.txt 1 1492 
+so Anomalistic_month.txt 4 201 674 928 1453 
+progressively Anomalistic_month.txt 1 1534 
+definitions Anomalistic_month.txt 2 79 92 
+began Anomalistic_month.txt 1 155 
+j2000.0 Anomalistic_month.txt 1 1468 
+tithis Anomalistic_month.txt 1 232 
+interpretation Anomalistic_month.txt 1 315 
+astronomical Anomalistic_month.txt 1 1446 
+move Anomalistic_month.txt 2 580 599 
+mainly Anomalistic_month.txt 1 85 
+years Anomalistic_month.txt 6 872 1025 1298 1329 1496 1504 
+through Anomalistic_month.txt 4 14 1161 1212 1373 
+its Anomalistic_month.txt 7 15 567 1115 1130 1374 1425 1574 
+27.212 Anomalistic_month.txt 1 1274 
+before Anomalistic_month.txt 2 141 169 
+27 Anomalistic_month.txt 5 431 464 791 910 1277 
+28 Anomalistic_month.txt 2 264 466 
+29 Anomalistic_month.txt 2 205 713 
+complex Anomalistic_month.txt 1 1565 
+degrees Anomalistic_month.txt 1 176 
+weeks Anomalistic_month.txt 2 268 279 
+main Anomalistic_month.txt 1 66 
+apogee Anomalistic_month.txt 1 862 
+them Anomalistic_month.txt 1 482 
+evening Anomalistic_month.txt 2 131 143 
+return Anomalistic_month.txt 6 417 771 879 1034 1039 1260 
+significance Anomalistic_month.txt 1 87 
+precess Anomalistic_month.txt 1 1311 
+precession Anomalistic_month.txt 6 751 819 822 866 1050 1052 
+effects Anomalistic_month.txt 1 1567 
+they Anomalistic_month.txt 1 459 
+not Anomalistic_month.txt 4 645 845 1412 1451 
+rotation Anomalistic_month.txt 2 1326 1529 
+day Anomalistic_month.txt 3 158 250 472 
+term Anomalistic_month.txt 2 328 1547 
+name Anomalistic_month.txt 1 1071 
+edit Anomalistic_month.txt 10 112 319 375 485 732 815 1046 1349 1578 1580 
+january Anomalistic_month.txt 1 1470 
+identified Anomalistic_month.txt 1 476 
+unpredictable Anomalistic_month.txt 1 1528 
+each Anomalistic_month.txt 1 471 
+quarter Anomalistic_month.txt 2 1378 1381 
+mean Anomalistic_month.txt 2 1359 1560 
+approximates Anomalistic_month.txt 1 826 
+finish Anomalistic_month.txt 1 1414 
+year Anomalistic_month.txt 3 635 658 812 
+sunrise Anomalistic_month.txt 2 170 242 
+since Anomalistic_month.txt 3 605 636 1497 
+7 Anomalistic_month.txt 2 433 793 
+587 Anomalistic_month.txt 1 710 
+earlier Anomalistic_month.txt 1 1339 
+582 Anomalistic_month.txt 1 789 
+linear Anomalistic_month.txt 1 1456 
+passes Anomalistic_month.txt 1 1160 
+ascending Anomalistic_month.txt 1 1175 
+five Anomalistic_month.txt 1 1443 
+ecliptic Anomalistic_month.txt 5 762 774 1119 1151 1172 
+7001273216610000000 Anomalistic_month.txt 1 427 
+fixed Anomalistic_month.txt 3 392 785 846 
+e.g Anomalistic_month.txt 2 144 179 
+starts Anomalistic_month.txt 1 121 
+could Anomalistic_month.txt 1 163 
+days Anomalistic_month.txt 18 140 200 208 265 430 615 702 712 790 870 909 1276 1296 1386 1396 1489 1507 1515 
+motion Anomalistic_month.txt 2 1405 1575 
+length Anomalistic_month.txt 3 210 904 1360 
+plane Anomalistic_month.txt 5 1120 1141 1152 1173 1234 
+wobbling Anomalistic_month.txt 1 25 
+first Anomalistic_month.txt 3 128 367 1377 
+12.37 Anomalistic_month.txt 1 628 
+one Anomalistic_month.txt 7 137 469 890 1021 1325 1390 1511 
+utilized Anomalistic_month.txt 1 62 
+reached Anomalistic_month.txt 1 1421 
+precisely Anomalistic_month.txt 1 1485 
+angular Anomalistic_month.txt 4 592 661 687 1227 
+earths Anomalistic_month.txt 4 637 650 750 1403 
+little Anomalistic_month.txt 2 582 1031 
+ancient Anomalistic_month.txt 1 150 
+system Anomalistic_month.txt 1 1232 
+their Anomalistic_month.txt 1 1559 
+returns Anomalistic_month.txt 2 1333 1342 
+calculations Anomalistic_month.txt 1 1510 
+exerted Anomalistic_month.txt 1 1220 
+way Anomalistic_month.txt 1 458 
+middle-eastern Anomalistic_month.txt 1 115 
+that Anomalistic_month.txt 4 83 142 1142 1317 
+relative Anomalistic_month.txt 1 1434 
+exactly Anomalistic_month.txt 2 263 277 
+lists Anomalistic_month.txt 1 1438 
+somewhat Anomalistic_month.txt 1 1527 
+tithi Anomalistic_month.txt 2 239 245 
+27.321 Anomalistic_month.txt 2 428 788 
+specify Anomalistic_month.txt 1 737 
+begins Anomalistic_month.txt 1 73 
+distance Anomalistic_month.txt 1 593 
+13 Anomalistic_month.txt 1 912 
+12 Anomalistic_month.txt 2 273 715 
+18 Anomalistic_month.txt 1 914 
+depends Anomalistic_month.txt 1 538 
+lunations Anomalistic_month.txt 1 693 
+were Anomalistic_month.txt 1 366 
+calendric Anomalistic_month.txt 1 1509 
+1925 Anomalistic_month.txt 1 306 
+and Anomalistic_month.txt 20 116 296 307 363 453 505 524 644 667 820 861 900 944 980 1053 1085 1185 1382 1533 1571 
+29.530 Anomalistic_month.txt 1 709 
+ran Anomalistic_month.txt 1 275 
+julian Anomalistic_month.txt 1 1503 
+torque Anomalistic_month.txt 1 1219 
+westward Anomalistic_month.txt 1 1241 
+7001272122200000000 Anomalistic_month.txt 1 1273 
+seen Anomalistic_month.txt 3 18 167 551 
+apparently Anomalistic_month.txt 1 391 
+contents Anomalistic_month.txt 1 110 
+first-order Anomalistic_month.txt 1 1455 
+traditionally Anomalistic_month.txt 1 261 
+29.93 Anomalistic_month.txt 1 701 
+min Anomalistic_month.txt 5 436 718 796 915 1282 
+gravity Anomalistic_month.txt 1 1224 
+note Anomalistic_month.txt 1 1474 
+also Anomalistic_month.txt 4 817 1048 1061 1577 
+animation Anomalistic_month.txt 1 7 
+which Anomalistic_month.txt 7 59 972 989 1166 1242 1319 1524 
+opposite Anomalistic_month.txt 1 1314 
+reach Anomalistic_month.txt 1 585 
+most Anomalistic_month.txt 1 349 
+regular Anomalistic_month.txt 1 213 
+successive Anomalistic_month.txt 2 44 1207 
+measured Anomalistic_month.txt 1 1516 
+average Anomalistic_month.txt 6 510 705 903 1203 1366 1440 
+sometimes Anomalistic_month.txt 2 253 1060 
+points Anomalistic_month.txt 3 854 1113 1164 
+redirected Anomalistic_month.txt 1 3 
+joining Anomalistic_month.txt 1 521 
+661 Anomalistic_month.txt 1 429 
+earth Anomalistic_month.txt 10 525 554 561 563 681 1020 1249 1324 1393 1532 
+nearer Anomalistic_month.txt 1 665 
+northern Anomalistic_month.txt 2 21 1182 
+than Anomalistic_month.txt 9 248 617 778 830 1002 1037 1267 1304 1340 
+only Anomalistic_month.txt 1 1101 
+circle Anomalistic_month.txt 1 832 
+220 Anomalistic_month.txt 1 1275 
+meant Anomalistic_month.txt 1 262 
+perigee Anomalistic_month.txt 3 860 1008 1036 
+anomalistic Anomalistic_month.txt 5 5 813 898 981 998 
+means Anomalistic_month.txt 1 1243 
+contracts Anomalistic_month.txt 1 299 
+vary Anomalistic_month.txt 2 695 1556 
+secular Anomalistic_month.txt 1 1460 
+moons Anomalistic_month.txt 10 47 50 380 514 536 677 824 1168 1237 1289 
+apsidal Anomalistic_month.txt 2 821 865 
+affecting Anomalistic_month.txt 1 1573 
+nodical Anomalistic_month.txt 2 1068 1199 
+new Anomalistic_month.txt 4 46 71 587 1376 
+during Anomalistic_month.txt 3 656 889 1091 
+conjunction Anomalistic_month.txt 3 133 222 224 
+2.8016 Anomalistic_month.txt 1 719 
+h Anomalistic_month.txt 5 434 716 794 913 1280 
+common Anomalistic_month.txt 1 256 
+including Anomalistic_month.txt 1 93 
+cycles Anomalistic_month.txt 2 13 729 
+where Anomalistic_month.txt 4 1114 1177 1189 1427 
+equinox Anomalistic_month.txt 1 747 
+reference Anomalistic_month.txt 1 398 
+frame Anomalistic_month.txt 1 399 
+observed Anomalistic_month.txt 1 445 
+culture Anomalistic_month.txt 2 60 1353 
+see Anomalistic_month.txt 5 108 816 939 1047 1576 
+are Anomalistic_month.txt 3 84 321 1450 
+2.2 Anomalistic_month.txt 1 614 
+calendar Anomalistic_month.txt 4 148 182 187 292 
+phases Anomalistic_month.txt 4 16 345 533 1375 
+said Anomalistic_month.txt 1 1078 
+wikipedia Anomalistic_month.txt 1 2 
+synod Anomalistic_month.txt 1 495 
+continually Anomalistic_month.txt 1 1557 
+written Anomalistic_month.txt 1 298 
+between Anomalistic_month.txt 4 42 360 692 1205 
+orbiting Anomalistic_month.txt 3 559 1018 1323 
+probably Anomalistic_month.txt 1 1513 
+360 Anomalistic_month.txt 1 1292 
+latin Anomalistic_month.txt 1 425 
+however Anomalistic_month.txt 1 833 
+2930 Anomalistic_month.txt 1 1385 
+365.25 Anomalistic_month.txt 1 1506 
+gregorian Anomalistic_month.txt 1 634 
+extent Anomalistic_month.txt 1 942 
+article Anomalistic_month.txt 1 75 
+periapsis Anomalistic_month.txt 1 666 
+last Anomalistic_month.txt 1 1380 
+irregular Anomalistic_month.txt 1 215 
+s Anomalistic_month.txt 5 438 720 798 917 1284 
+long-term Anomalistic_month.txt 1 704 
+distinction Anomalistic_month.txt 1 359 
+18.6 Anomalistic_month.txt 2 1297 1328 
+among Anomalistic_month.txt 2 422 446 
+12:00 Anomalistic_month.txt 1 1472 
+point Anomalistic_month.txt 4 756 782 992 1423 
+deeds Anomalistic_month.txt 1 295 
+cf Anomalistic_month.txt 1 808 
+respect Anomalistic_month.txt 6 385 517 546 601 743 1148 
+prominent Anomalistic_month.txt 1 479 
+due Anomalistic_month.txt 1 1401 
+been Anomalistic_month.txt 1 444 
+tropical Anomalistic_month.txt 4 364 730 806 811 
+slowly Anomalistic_month.txt 1 759 
+27.554 Anomalistic_month.txt 1 907 
+meeting Anomalistic_month.txt 1 498 
+direction Anomalistic_month.txt 2 1013 1315 
+apsides Anomalistic_month.txt 2 859 991 
+hidden Anomalistic_month.txt 1 1582 
+case Anomalistic_month.txt 1 501 
+east Anomalistic_month.txt 1 451 
+ahead Anomalistic_month.txt 1 888 
+these Anomalistic_month.txt 5 684 1158 1449 1551 1554 
+appearance Anomalistic_month.txt 2 537 945 
+near Anomalistic_month.txt 3 669 1108 1127 
+replaced Anomalistic_month.txt 1 289 
+vernal Anomalistic_month.txt 1 746 
+property Anomalistic_month.txt 1 304 
+periods Anomalistic_month.txt 1 1555 
+orientation Anomalistic_month.txt 1 835 
+is Anomalistic_month.txt 37 29 39 225 235 246 339 401 409 508 527 558 564 642 663 673 707 724 734 803 844 895 973 1000 1017 1059 1099 1105 1124 1143 1201 1265 1302 1322 1430 1462 1479 1495 
+thus Anomalistic_month.txt 3 269 621 659 
+it Anomalistic_month.txt 12 12 338 408 412 733 764 873 885 1255 1271 1341 1419 
+middle Anomalistic_month.txt 1 450 
+hebrew Anomalistic_month.txt 1 181 
+ephemeris Anomalistic_month.txt 2 1482 1539 
+synodic Anomalistic_month.txt 9 335 483 487 611 629 722 979 1363 1416 
+orbital Anomalistic_month.txt 3 1131 1404 1566 
+different Anomalistic_month.txt 1 103 
+lengths Anomalistic_month.txt 2 1348 1441 
+11.6 Anomalistic_month.txt 1 437 
+progressing Anomalistic_month.txt 1 565 
+same Anomalistic_month.txt 11 591 672 781 882 1012 1042 1214 1263 1336 1345 1433 
+shorter Anomalistic_month.txt 4 247 801 1266 1303 
+epoch Anomalistic_month.txt 2 1467 1499 
+parts Anomalistic_month.txt 1 229 
+29.18 Anomalistic_month.txt 1 698 
+draconitic Anomalistic_month.txt 1 1065 
+several Anomalistic_month.txt 1 322 
+european Anomalistic_month.txt 1 117 
+satellite Anomalistic_month.txt 1 1123 
+used Anomalistic_month.txt 1 725 
+8.85 Anomalistic_month.txt 1 871 
+cycle Anomalistic_month.txt 5 341 971 1347 1372 1417 
+sidereal Anomalistic_month.txt 10 362 373 405 575 619 624 1004 1269 1306 1398 
+1978 Anomalistic_month.txt 1 317 
+well Anomalistic_month.txt 2 837 984 
+contact Anomalistic_month.txt 1 271 
+precesses Anomalistic_month.txt 1 1291 
+y Anomalistic_month.txt 1 1494 
+position Anomalistic_month.txt 5 421 541 588 850 1435 
+the Anomalistic_month.txt 189 9 20 23 27 40 51 54 63 65 70 78 100 106 119 123 135 146 152 157 160 180 184 219 233 238 244 249 251 281 284 291 301 314 327 334 340 343 347 351 358 361 376 379 387 395 410 414 423 449 456 461 474 478 486 503 506 509 513 519 522 528 531 535 540 543 548 553 556 560 562 570 577 586 590 595 603 606 610 618 640 647 653 657 660 671 676 680 689 703 721 745 753 761 766 780 784 809 823 834 839 849 852 855 858 875 881 897 918 922 935 952 957 959 963 968 974 978 986 990 994 1007 1011 1015 1019 1027 1041 1070 1082 1087 1103 1111 1118 1122 1133 1136 1150 1153 1162 1167 1171 1174 1178 1181 1186 1190 1194 1196 1202 1210 1213 1218 1222 1226 1230 1233 1236 1244 1253 1257 1262 1285 1288 1309 1313 1320 1331 1335 1344 1352 1358 1362 1365 1368 1387 1407 1409 1422 1428 1432 1439 1459 1466 1498 1518 1526 1531 1545 1564 1569 
+bodies Anomalistic_month.txt 1 741 
+traditions Anomalistic_month.txt 1 118 
+just Anomalistic_month.txt 1 168 
+less Anomalistic_month.txt 1 768 
+being Anomalistic_month.txt 1 68 
+when Anomalistic_month.txt 4 69 122 159 1102 
+shape Anomalistic_month.txt 1 840 
+world Anomalistic_month.txt 1 107 
+rotates Anomalistic_month.txt 2 863 1240 
+speed Anomalistic_month.txt 1 648 
+yet Anomalistic_month.txt 2 188 1413 
+previous Anomalistic_month.txt 1 607 
+enters Anomalistic_month.txt 1 1180 
+sky Anomalistic_month.txt 1 462 
+except Anomalistic_month.txt 1 357 
+valid Anomalistic_month.txt 1 1464 
+relevance Anomalistic_month.txt 1 933 
+has Anomalistic_month.txt 6 61 443 886 901 931 1420 
+momentum Anomalistic_month.txt 1 1228 
+kingdom Anomalistic_month.txt 1 283 
+around Anomalistic_month.txt 9 105 569 639 652 679 1248 1392 1406 1558 
+calendars Anomalistic_month.txt 3 35 101 197 
+possible Anomalistic_month.txt 1 1100 
+period Anomalistic_month.txt 10 377 511 529 802 894 927 976 987 1055 1367 
+descending Anomalistic_month.txt 1 1187 
+integer Anomalistic_month.txt 1 199 
+apart Anomalistic_month.txt 1 1543 
+intersection Anomalistic_month.txt 1 1156 
+babylonian Anomalistic_month.txt 1 370 
+rotate Anomalistic_month.txt 1 1247 
+appearing Anomalistic_month.txt 1 597 
+d Anomalistic_month.txt 5 432 714 792 911 1278 
+mansions Anomalistic_month.txt 1 468 
+follows Anomalistic_month.txt 1 1525 
+either Anomalistic_month.txt 2 1109 1128 
+terminology Anomalistic_month.txt 1 318 
+pertaining Anomalistic_month.txt 1 492 
+because Anomalistic_month.txt 10 337 407 534 682 748 884 1006 1216 1308 1562 
+sequence Anomalistic_month.txt 1 216 
+981 Anomalistic_month.txt 1 711 
+some Anomalistic_month.txt 2 212 932 
+back Anomalistic_month.txt 2 758 1383 
+table Anomalistic_month.txt 2 1437 1477 
+duration Anomalistic_month.txt 2 706 943 
+provided Anomalistic_month.txt 1 1463 
+gradually Anomalistic_month.txt 2 1239 1246 
+scale Anomalistic_month.txt 1 1520 
+for Anomalistic_month.txt 10 90 272 276 294 308 470 675 934 1465 1508 
+shona Anomalistic_month.txt 1 114 
+legal Anomalistic_month.txt 1 311 
+moon Anomalistic_month.txt 32 10 28 126 162 193 196 348 415 507 544 557 578 767 876 923 958 965 970 1016 1028 1090 1104 1137 1179 1191 1211 1258 1321 1332 1369 1388 1410 
+does Anomalistic_month.txt 1 1411 
+lunar Anomalistic_month.txt 20 0 34 37 55 153 186 259 285 325 329 355 371 467 532 818 1049 1083 1097 1355 1447 
+t Anomalistic_month.txt 1 1542 
+be Anomalistic_month.txt 2 166 204 
+run Anomalistic_month.txt 1 190 
+seconds Anomalistic_month.txt 1 1493 
+jumps Anomalistic_month.txt 1 254 
+icrf Anomalistic_month.txt 1 400 
+27.3 Anomalistic_month.txt 1 1395 
+lasts Anomalistic_month.txt 1 1272 
+refers Anomalistic_month.txt 2 332 1073 
+by Anomalistic_month.txt 6 58 290 300 313 477 1221 
+on Anomalistic_month.txt 4 156 539 951 1225 
+about Anomalistic_month.txt 7 622 627 697 700 868 1145 1294 
+actual Anomalistic_month.txt 1 690 
+of Anomalistic_month.txt 59 8 26 53 80 86 96 102 174 177 303 324 342 346 350 354 378 390 441 473 502 512 530 542 649 683 739 749 752 776 841 851 857 905 921 937 956 962 977 1110 1129 1135 1155 1157 1209 1217 1229 1235 1287 1351 1361 1442 1445 1458 1490 1505 1521 1530 1563 1568 
+completing Anomalistic_month.txt 1 573 
+months Anomalistic_month.txt 6 202 274 365 625 630 1356 
+recognized Anomalistic_month.txt 1 368 
+act Anomalistic_month.txt 2 305 316 
+slightly Anomalistic_month.txt 2 800 1338 
+or Anomalistic_month.txt 14 48 138 183 206 214 266 465 948 1067 1089 1096 1107 1126 1198 
+33.2 Anomalistic_month.txt 1 916 
+into Anomalistic_month.txt 3 227 463 1193 
+accumulates Anomalistic_month.txt 1 1535 
+lies Anomalistic_month.txt 1 1138 
+references Anomalistic_month.txt 1 1579 
+nowadays Anomalistic_month.txt 1 394 
+ellipse Anomalistic_month.txt 1 828 
+nodal Anomalistic_month.txt 2 1051 1054 
+there Anomalistic_month.txt 1 320 
+libration Anomalistic_month.txt 1 32 
+long Anomalistic_month.txt 1 1546 
+stars Anomalistic_month.txt 5 393 424 480 604 786 
+6,798 Anomalistic_month.txt 1 1295 
+cultures Anomalistic_month.txt 2 104 447 
+was Anomalistic_month.txt 1 287 
+but Anomalistic_month.txt 2 626 1400 
+hemisphere Anomalistic_month.txt 2 22 1184 
+solar Anomalistic_month.txt 1 1095 
+line Anomalistic_month.txt 3 520 856 1154 
+with Anomalistic_month.txt 12 77 134 384 516 545 600 742 925 967 1147 1488 1538 
+eat Anomalistic_month.txt 1 1086 
+longer Anomalistic_month.txt 6 165 616 877 893 1001 1032 
+count Anomalistic_month.txt 1 198 
+whether Anomalistic_month.txt 1 946 
+variations Anomalistic_month.txt 2 111 685 
+ruling Anomalistic_month.txt 1 240 
+planes Anomalistic_month.txt 1 1159 
+551 Anomalistic_month.txt 1 908 
+similar Anomalistic_month.txt 1 420 
+called Anomalistic_month.txt 2 896 1541 
+result Anomalistic_month.txt 1 1252 
+celestial Anomalistic_month.txt 4 388 397 740 1183 
+constant Anomalistic_month.txt 1 1452 
+defined Anomalistic_month.txt 1 383 
+universal Anomalistic_month.txt 1 1522 
+approximate Anomalistic_month.txt 1 1357 
+moved Anomalistic_month.txt 1 887 
+an Anomalistic_month.txt 5 773 827 902 997 1092 
+as Anomalistic_month.txt 16 11 17 31 231 243 382 403 550 805 836 838 983 985 1014 1063 1250 
+at Anomalistic_month.txt 5 130 241 1106 1125 1165 
+planets Anomalistic_month.txt 1 1572 
+moves Anomalistic_month.txt 3 757 1009 1192 
+again Anomalistic_month.txt 2 996 1384 
+4.7 Anomalistic_month.txt 1 797 
+48 Anomalistic_month.txt 1 278 
+no Anomalistic_month.txt 1 164 
+44 Anomalistic_month.txt 1 717 
+sidera Anomalistic_month.txt 1 426 
+43 Anomalistic_month.txt 2 435 795 
+other Anomalistic_month.txt 3 91 297 310 
+5 Anomalistic_month.txt 2 1279 1281 
+node Anomalistic_month.txt 5 1176 1188 1215 1264 1337 
+star Anomalistic_month.txt 2 1043 1346 
+completes Anomalistic_month.txt 1 1389 
+millennial Anomalistic_month.txt 1 1548 
+drift Anomalistic_month.txt 1 1549 
+meaning Anomalistic_month.txt 1 491 
+astronomy Anomalistic_month.txt 2 89 372 
+faster Anomalistic_month.txt 1 664 
+values Anomalistic_month.txt 2 1552 1561 
+interval Anomalistic_month.txt 1 1204 
+orbit Anomalistic_month.txt 14 381 515 568 638 678 825 843 1116 1134 1169 1238 1290 1391 1426 
+2000 Anomalistic_month.txt 2 1471 1500 
+time Anomalistic_month.txt 11 41 411 691 769 1254 1478 1483 1487 1519 1523 1540 
+having Anomalistic_month.txt 1 589 
+equinoxes Anomalistic_month.txt 1 754 
+once Anomalistic_month.txt 1 864 

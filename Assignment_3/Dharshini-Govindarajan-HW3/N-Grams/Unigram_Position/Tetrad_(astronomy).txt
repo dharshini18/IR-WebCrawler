@@ -1,0 +1,32 @@
+set Tetrad_(astronomy).txt 1 23 
+century Tetrad_(astronomy).txt 1 9 
+is Tetrad_(astronomy).txt 1 21 
+within Tetrad_(astronomy).txt 1 29 
+years Tetrad_(astronomy).txt 1 31 
+four Tetrad_(astronomy).txt 1 25 
+see Tetrad_(astronomy).txt 1 42 
+frequency Tetrad_(astronomy).txt 2 4 12 
+tetrads Tetrad_(astronomy).txt 1 6 
+in Tetrad_(astronomy).txt 1 17 
+total Tetrad_(astronomy).txt 2 14 26 
+contents Tetrad_(astronomy).txt 1 32 
+tetrad Tetrad_(astronomy).txt 3 0 20 35 
+200151 Tetrad_(astronomy).txt 1 40 
+wikipedia Tetrad_(astronomy).txt 1 2 
+two Tetrad_(astronomy).txt 1 30 
+by Tetrad_(astronomy).txt 1 8 
+also Tetrad_(astronomy).txt 1 43 
+varies Tetrad_(astronomy).txt 1 7 
+lunar Tetrad_(astronomy).txt 2 15 27 
+events Tetrad_(astronomy).txt 1 36 
+astronomy Tetrad_(astronomy).txt 2 1 18 
+with Tetrad_(astronomy).txt 1 10 
+the Tetrad_(astronomy).txt 2 3 11 
+categories Tetrad_(astronomy).txt 1 47 
+a Tetrad_(astronomy).txt 2 19 22 
+19492000 Tetrad_(astronomy).txt 1 38 
+edit Tetrad_(astronomy).txt 5 37 39 41 44 46 
+of Tetrad_(astronomy).txt 4 5 13 24 34 
+list Tetrad_(astronomy).txt 1 33 
+references Tetrad_(astronomy).txt 1 45 
+eclipses Tetrad_(astronomy).txt 2 16 28 

@@ -1,0 +1,519 @@
+all Gemini_12.txt 2 37 193 
+since Gemini_12.txt 1 474 
+pointing Gemini_12.txt 1 939 
+caused Gemini_12.txt 3 264 519 719 
+astronauts Gemini_12.txt 1 112 
+spacecraft Gemini_12.txt 9 118 185 279 318 718 938 987 1005 1030 
+debris Gemini_12.txt 2 554 575 
+suspected Gemini_12.txt 1 513 
+referring Gemini_12.txt 1 260 
+auckland Gemini_12.txt 1 1001 
+recurrence Gemini_12.txt 1 208 
+to Gemini_12.txt 26 130 230 261 329 412 448 467 496 539 550 573 596 603 613 620 626 635 660 699 725 862 872 909 916 940 1008 
+gemini/titan Gemini_12.txt 1 184 
+program Gemini_12.txt 5 101 129 303 963 975 
+under Gemini_12.txt 1 754 
+resources Gemini_12.txt 1 837 
+tethered Gemini_12.txt 3 292 353 623 
+protective Gemini_12.txt 1 272 
+risk Gemini_12.txt 1 468 
+documentaries Gemini_12.txt 1 585 
+tank Gemini_12.txt 2 214 228 
+exact Gemini_12.txt 1 476 
+categories Gemini_12.txt 2 1087 1089 
+dim Gemini_12.txt 1 777 
+did Gemini_12.txt 3 366 385 459 
+eva Gemini_12.txt 3 63 162 618 
+mild Gemini_12.txt 1 888 
+concluded Gemini_12.txt 1 572 
+aeronautics Gemini_12.txt 1 1080 
+feasibility Gemini_12.txt 1 373 
+second Gemini_12.txt 1 270 
+crescent Gemini_12.txt 1 983 
+splashdown Gemini_12.txt 1 744 
+clock Gemini_12.txt 2 934 948 
+conduct Gemini_12.txt 2 614 621 
+new Gemini_12.txt 3 324 337 1002 
+boost Gemini_12.txt 1 472 
+public Gemini_12.txt 1 1070 
+exercise Gemini_12.txt 1 625 
+completion Gemini_12.txt 1 296 
+loose Gemini_12.txt 1 553 
+hours Gemini_12.txt 1 74 
+knocked Gemini_12.txt 1 577 
+kilometers Gemini_12.txt 2 44 810 
+100 Gemini_12.txt 1 43 
+change Gemini_12.txt 1 636 
+30 Gemini_12.txt 1 76 
+credit Gemini_12.txt 1 588 
+climb Gemini_12.txt 1 411 
+followed Gemini_12.txt 1 526 
+extra Gemini_12.txt 1 696 
+vii Gemini_12.txt 1 50 
+marked Gemini_12.txt 1 94 
+defense Gemini_12.txt 1 836 
+buildup Gemini_12.txt 1 267 
+total Gemini_12.txt 1 71 
+staple Gemini_12.txt 1 345 
+cloud Gemini_12.txt 1 237 
+20-minute Gemini_12.txt 1 352 
+63rd Gemini_12.txt 2 492 545 
+from Gemini_12.txt 4 241 509 811 1073 
+links Gemini_12.txt 1 1085 
+would Gemini_12.txt 1 342 
+oclock Gemini_12.txt 1 927 
+liftoff Gemini_12.txt 1 170 
+objectives Gemini_12.txt 1 274 
+two Gemini_12.txt 2 377 780 
+frog Gemini_12.txt 1 751 
+uss Gemini_12.txt 1 822 
+vehicle Gemini_12.txt 4 91 175 195 612 
+taken Gemini_12.txt 2 817 1058 
+restraints Gemini_12.txt 1 326 
+stage Gemini_12.txt 3 212 244 271 
+achieving Gemini_12.txt 1 102 
+stand-up Gemini_12.txt 1 379 
+more Gemini_12.txt 1 378 
+successful Gemini_12.txt 1 96 
+occurred Gemini_12.txt 2 176 257 
+instrumental Gemini_12.txt 1 121 
+blocking Gemini_12.txt 1 555 
+shoot Gemini_12.txt 1 1039 
+intake Gemini_12.txt 1 876 
+hour Gemini_12.txt 1 944 
+this Gemini_12.txt 7 119 444 462 708 949 969 1067 
+work Gemini_12.txt 2 115 312 
+eclipse Gemini_12.txt 1 1057 
+can Gemini_12.txt 1 113 
+following Gemini_12.txt 3 484 832 968 
+making Gemini_12.txt 1 686 
+indicated Gemini_12.txt 1 452 
+halloween Gemini_12.txt 1 917 
+states Gemini_12.txt 1 1011 
+effectively Gemini_12.txt 1 114 
+performed Gemini_12.txt 1 197 
+trainingwas Gemini_12.txt 1 339 
+agena Gemini_12.txt 6 89 282 394 425 610 632 
+skirt Gemini_12.txt 1 273 
+returned Gemini_12.txt 2 447 1007 
+chores Gemini_12.txt 1 368 
+united Gemini_12.txt 1 1010 
+docking Gemini_12.txt 5 86 163 289 391 607 
+goal Gemini_12.txt 1 133 
+gatv Gemini_12.txt 1 431 
+1 Gemini_12.txt 1 750 
+located Gemini_12.txt 1 923 
+fourth Gemini_12.txt 1 85 
+rookie Gemini_12.txt 1 65 
+aboard Gemini_12.txt 1 818 
+micrometeorite Gemini_12.txt 2 363 781 
+may Gemini_12.txt 1 682 
+after Gemini_12.txt 4 443 743 990 1047 
+collection Gemini_12.txt 1 782 
+reflect Gemini_12.txt 1 461 
+last-quarter Gemini_12.txt 1 721 
+designed Gemini_12.txt 1 602 
+demonstrating Gemini_12.txt 1 110 
+water Gemini_12.txt 1 867 
+date Gemini_12.txt 2 724 914 
+end Gemini_12.txt 1 143 
+data Gemini_12.txt 3 451 565 582 
+compatibility Gemini_12.txt 1 701 
+efficiently Gemini_12.txt 1 315 
+a Gemini_12.txt 21 9 53 70 95 136 207 235 336 344 362 406 413 421 434 502 515 622 887 907 933 947 
+readiness Gemini_12.txt 1 714 
+slightly Gemini_12.txt 1 857 
+seco Gemini_12.txt 1 259 
+18th Gemini_12.txt 1 28 
+green Gemini_12.txt 1 254 
+ultimate Gemini_12.txt 1 977 
+egg Gemini_12.txt 1 752 
+operations Gemini_12.txt 1 619 
+pinkeye Gemini_12.txt 1 891 
+over Gemini_12.txt 1 42 
+mission Gemini_12.txt 6 156 669 731 827 883 1049 
+years Gemini_12.txt 2 992 1046 
+radar Gemini_12.txt 1 408 
+experiments Gemini_12.txt 4 738 748 783 791 
+including Gemini_12.txt 2 39 592 
+nitrogen Gemini_12.txt 1 249 
+pitch Gemini_12.txt 1 262 
+still Gemini_12.txt 1 304 
+its Gemini_12.txt 4 106 132 561 812 
+underwater Gemini_12.txt 1 594 
+21 Gemini_12.txt 1 736 
+rescheduled Gemini_12.txt 1 733 
+ships Gemini_12.txt 1 844 
+crew Gemini_12.txt 6 148 151 154 742 815 1061 
+2:07:59 Gemini_12.txt 1 178 
+systems Gemini_12.txt 1 196 
+orange Gemini_12.txt 2 248 902 
+hidden Gemini_12.txt 1 1088 
+tentatively Gemini_12.txt 1 673 
+them Gemini_12.txt 1 871 
+3 Gemini_12.txt 1 760 
+prevented Gemini_12.txt 1 506 
+material Gemini_12.txt 1 1072 
+9 Gemini_12.txt 1 1032 
+they Gemini_12.txt 1 494 
+slippage Gemini_12.txt 1 712 
+not Gemini_12.txt 4 306 460 466 793 
+now Gemini_12.txt 1 1014 
+day Gemini_12.txt 1 880 
+easily Gemini_12.txt 1 313 
+february Gemini_12.txt 1 735 
+edit Gemini_12.txt 15 149 152 155 158 164 167 169 275 739 797 893 989 1053 1066 1086 
+james Gemini_12.txt 1 52 
+drop Gemini_12.txt 1 435 
+possibilities Gemini_12.txt 1 652 
+fields Gemini_12.txt 1 360 
+went Gemini_12.txt 1 382 
+quarter Gemini_12.txt 1 678 
+erratic Gemini_12.txt 2 453 568 
+lasting Gemini_12.txt 2 69 439 
+domain Gemini_12.txt 1 1071 
+reduce Gemini_12.txt 1 873 
+slowdown Gemini_12.txt 1 481 
+operation Gemini_12.txt 1 562 
+collector Gemini_12.txt 1 364 
+aldrin Gemini_12.txt 4 68 159 597 1025 
+missed Gemini_12.txt 1 727 
+techniqueunderwater Gemini_12.txt 1 338 
+space Gemini_12.txt 3 165 788 1082 
+valve Gemini_12.txt 2 505 558 
+two-hour Gemini_12.txt 1 351 
+dehydrated Gemini_12.txt 1 860 
+7 Gemini_12.txt 1 776 
+maneuver Gemini_12.txt 1 473 
+splashed Gemini_12.txt 1 807 
+retrieved Gemini_12.txt 1 361 
+reason Gemini_12.txt 1 477 
+afterward Gemini_12.txt 1 586 
+incorporates Gemini_12.txt 1 1069 
+training Gemini_12.txt 1 595 
+symbolized Gemini_12.txt 1 980 
+launch Gemini_12.txt 3 168 194 222 
+could Gemini_12.txt 1 311 
+american Gemini_12.txt 1 30 
+due Gemini_12.txt 2 549 861 
+museum Gemini_12.txt 1 995 
+speeds Gemini_12.txt 1 455 
+first Gemini_12.txt 3 211 216 667 
+wasp Gemini_12.txt 1 823 
+x-15 Gemini_12.txt 1 40 
+one Gemini_12.txt 1 649 
+feet Gemini_12.txt 1 286 
+featured Gemini_12.txt 1 57 
+done Gemini_12.txt 1 397 
+another Gemini_12.txt 1 251 
+start Gemini_12.txt 2 508 540 
+xii Gemini_12.txt 4 7 93 323 921 
+system Gemini_12.txt 3 500 634 869 
+needed Gemini_12.txt 1 698 
+2 Gemini_12.txt 1 756 
+white Gemini_12.txt 1 236 
+man Gemini_12.txt 2 137 255 
+final Gemini_12.txt 1 23 
+objectivethe Gemini_12.txt 1 978 
+oxidizer Gemini_12.txt 1 213 
+that Gemini_12.txt 4 111 308 514 706 
+completed Gemini_12.txt 1 795 
+11 Gemini_12.txt 1 192 
+10 Gemini_12.txt 1 220 
+12 Gemini_12.txt 14 1 4 225 278 291 600 645 741 826 843 895 926 955 1064 
+15 Gemini_12.txt 1 285 
+target Gemini_12.txt 5 90 174 611 723 813 
+preparation Gemini_12.txt 1 320 
+computer Gemini_12.txt 2 402 805 
+were Gemini_12.txt 6 327 749 792 816 856 1026 
+10th Gemini_12.txt 1 21 
+and Gemini_12.txt 28 22 32 75 84 181 280 314 335 365 390 403 488 529 559 579 606 638 694 728 775 806 842 859 884 903 998 1024 1081 
+manned Gemini_12.txt 3 11 24 29 
+well Gemini_12.txt 1 785 
+fliteline Gemini_12.txt 1 897 
+have Gemini_12.txt 1 231 
+seen Gemini_12.txt 2 217 239 
+their Gemini_12.txt 1 874 
+contents Gemini_12.txt 1 147 
+u.s Gemini_12.txt 1 833 
+veteran Gemini_12.txt 1 51 
+1967 Gemini_12.txt 1 737 
+also Gemini_12.txt 5 79 232 256 381 1052 
+potential Gemini_12.txt 1 656 
+which Gemini_12.txt 4 341 356 395 670 
+performance Gemini_12.txt 2 446 458 
+experienced Gemini_12.txt 1 433 
+normal Gemini_12.txt 1 449 
+patchs Gemini_12.txt 1 900 
+reunited Gemini_12.txt 1 1027 
+by-now Gemini_12.txt 1 387 
+probes Gemini_12.txt 1 583 
+zealand Gemini_12.txt 1 1003 
+episode Gemini_12.txt 1 252 
+spaceflight Gemini_12.txt 3 12 31 35 
+medical Gemini_12.txt 1 846 
+chicago Gemini_12.txt 1 1021 
+face Gemini_12.txt 1 931 
+rendezvous Gemini_12.txt 4 83 389 407 605 
+incorporate Gemini_12.txt 1 700 
+9,775 Gemini_12.txt 1 838 
+supported Gemini_12.txt 1 829 
+colors Gemini_12.txt 1 905 
+12s Gemini_12.txt 1 486 
+fifth Gemini_12.txt 1 82 
+ground Gemini_12.txt 2 463 537 
+nominally Gemini_12.txt 1 198 
+parameters Gemini_12.txt 1 157 
+delays Gemini_12.txt 1 684 
+outside Gemini_12.txt 3 116 316 331 
+failed Gemini_12.txt 1 409 
+flights Gemini_12.txt 2 41 911 
+black Gemini_12.txt 1 904 
+photo Gemini_12.txt 1 1054 
+fuel Gemini_12.txt 3 227 504 557 
+emitting Gemini_12.txt 1 240 
+astronomical Gemini_12.txt 1 773 
+achieve Gemini_12.txt 1 131 
+photography Gemini_12.txt 6 759 763 770 774 779 790 
+fluid Gemini_12.txt 1 875 
+capsule Gemini_12.txt 2 334 799 
+numeral Gemini_12.txt 1 920 
+during Gemini_12.txt 9 160 199 288 355 427 489 523 543 1034 
+onboard Gemini_12.txt 1 401 
+conjunction Gemini_12.txt 1 664 
+3:46:33 Gemini_12.txt 1 187 
+14 Gemini_12.txt 1 746 
+officially Gemini_12.txt 1 5 
+zero-g Gemini_12.txt 1 755 
+activity Gemini_12.txt 3 62 376 617 
+space-flown Gemini_12.txt 1 896 
+automatic Gemini_12.txt 1 641 
+adlers Gemini_12.txt 1 1038 
+achieved Gemini_12.txt 1 80 
+national Gemini_12.txt 1 1079 
+terrain Gemini_12.txt 1 758 
+1960s Gemini_12.txt 1 146 
+see Gemini_12.txt 1 1051 
+decided Gemini_12.txt 1 465 
+are Gemini_12.txt 1 906 
+close Gemini_12.txt 1 915 
+2.5 Gemini_12.txt 1 441 
+project Gemini_12.txt 2 16 967 
+propulsion Gemini_12.txt 2 499 633 
+wikipedia Gemini_12.txt 1 2 
+space-walk Gemini_12.txt 2 348 354 
+pump Gemini_12.txt 5 445 454 480 532 569 
+future Gemini_12.txt 1 347 
+routine Gemini_12.txt 1 388 
+affecting Gemini_12.txt 1 580 
+nuclear Gemini_12.txt 1 765 
+conditions Gemini_12.txt 2 522 851 
+ruptured Gemini_12.txt 1 233 
+opening Gemini_12.txt 1 1036 
+however Gemini_12.txt 1 416 
+aircraft Gemini_12.txt 2 820 841 
+medallion Gemini_12.txt 1 898 
+article Gemini_12.txt 1 1068 
+maneuvers Gemini_12.txt 1 629 
+last Gemini_12.txt 6 104 370 677 879 958 970 
+many Gemini_12.txt 1 584 
+heating Gemini_12.txt 1 528 
+s Gemini_12.txt 2 15 221 
+became Gemini_12.txt 1 709 
+planned Gemini_12.txt 2 470 648 
+buzz Gemini_12.txt 1 67 
+gatvs Gemini_12.txt 1 491 
+synoptic Gemini_12.txt 2 757 761 
+exhibit Gemini_12.txt 1 1043 
+unclear Gemini_12.txt 1 483 
+supply Gemini_12.txt 1 868 
+appeared Gemini_12.txt 1 229 
+sky Gemini_12.txt 1 778 
+innovations Gemini_12.txt 1 591 
+65 Gemini_12.txt 1 840 
+november Gemini_12.txt 2 191 1031 
+unusual Gemini_12.txt 1 850 
+powered Gemini_12.txt 1 200 
+three Gemini_12.txt 3 58 615 787 
+been Gemini_12.txt 1 672 
+extravehicular Gemini_12.txt 2 61 375 
+stationkeeping Gemini_12.txt 2 293 624 
+engine Gemini_12.txt 4 432 457 507 542 
+flight Gemini_12.txt 8 26 56 201 301 659 690 959 971 
+both Gemini_12.txt 1 855 
+fire Gemini_12.txt 1 497 
+airglow Gemini_12.txt 1 768 
+external Gemini_12.txt 1 1084 
+improved Gemini_12.txt 1 325 
+tetroxide Gemini_12.txt 1 250 
+rupture Gemini_12.txt 1 215 
+case Gemini_12.txt 1 889 
+landing Gemini_12.txt 1 135 
+melted Gemini_12.txt 1 551 
+launched Gemini_12.txt 1 1050 
+periods Gemini_12.txt 1 59 
+manually Gemini_12.txt 1 398 
+almost Gemini_12.txt 1 1044 
+is Gemini_12.txt 2 922 1013 
+it Gemini_12.txt 5 18 78 511 941 1012 
+canceled Gemini_12.txt 1 418 
+itself Gemini_12.txt 1 693 
+in Gemini_12.txt 10 13 122 268 319 436 663 685 713 852 1000 
+ready Gemini_12.txt 1 688 
+commanded Gemini_12.txt 1 47 
+technology Gemini_12.txt 1 999 
+orbital Gemini_12.txt 3 428 471 524 
+perform Gemini_12.txt 2 604 627 
+edwin Gemini_12.txt 1 66 
+administration Gemini_12.txt 1 1083 
+roman Gemini_12.txt 1 919 
+emulsions Gemini_12.txt 1 766 
+several Gemini_12.txt 1 991 
+aldrins Gemini_12.txt 1 350 
+higher Gemini_12.txt 1 414 
+reporting Gemini_12.txt 1 567 
+hand Gemini_12.txt 1 945 
+documents Gemini_12.txt 1 1076 
+paving Gemini_12.txt 1 123 
+along Gemini_12.txt 1 245 
+booster Gemini_12.txt 1 426 
+largely Gemini_12.txt 1 587 
+docked Gemini_12.txt 1 628 
+spent Gemini_12.txt 1 243 
+components Gemini_12.txt 1 533 
+inability Gemini_12.txt 1 535 
+position Gemini_12.txt 2 928 952 
+the Gemini_12.txt 93 20 27 33 55 81 99 103 124 127 139 142 145 172 183 210 226 242 247 269 276 281 295 298 302 317 330 333 372 386 400 410 424 430 469 475 479 490 498 520 534 541 544 556 563 581 589 593 609 631 651 655 658 666 676 695 703 716 720 729 745 798 814 819 824 831 865 878 882 899 910 918 925 930 936 943 951 957 961 965 973 976 982 985 994 1004 1009 1018 1029 1035 1041 1048 1060 1078 
+1966 Gemini_12.txt 4 10 680 683 722 
+left Gemini_12.txt 1 986 
+just Gemini_12.txt 1 691 
+being Gemini_12.txt 2 576 647 
+gyrations Gemini_12.txt 1 263 
+postflight Gemini_12.txt 1 845 
+impractical Gemini_12.txt 1 707 
+speed Gemini_12.txt 2 438 570 
+previous Gemini_12.txt 1 299 
+unique Gemini_12.txt 1 901 
+staging Gemini_12.txt 1 204 
+reentry Gemini_12.txt 4 487 642 796 803 
+had Gemini_12.txt 3 305 671 886 
+spacecrafts Gemini_12.txt 1 866 
+other Gemini_12.txt 1 367 
+4 Gemini_12.txt 1 764 
+5 Gemini_12.txt 2 73 767 
+apart Gemini_12.txt 1 287 
+photographed Gemini_12.txt 2 283 358 
+scheduled Gemini_12.txt 2 674 913 
+around Gemini_12.txt 1 578 
+represents Gemini_12.txt 1 950 
+possibly Gemini_12.txt 1 548 
+using Gemini_12.txt 2 399 630 
+walk Gemini_12.txt 1 166 
+occurring Gemini_12.txt 1 510 
+melting Gemini_12.txt 1 530 
+like Gemini_12.txt 1 942 
+54 Gemini_12.txt 1 45 
+controllers Gemini_12.txt 2 464 538 
+either Gemini_12.txt 1 853 
+fully Gemini_12.txt 1 794 
+become Gemini_12.txt 1 343 
+because Gemini_12.txt 1 419 
+smoothly Gemini_12.txt 1 383 
+successfully Gemini_12.txt 1 109 
+phenomena Gemini_12.txt 1 789 
+added Gemini_12.txt 1 328 
+atlas/agena Gemini_12.txt 1 173 
+transport Gemini_12.txt 1 997 
+est Gemini_12.txt 2 180 189 
+for Gemini_12.txt 9 126 321 478 657 675 689 734 1037 1040 
+moon Gemini_12.txt 2 140 1042 
+when Gemini_12.txt 3 405 643 711 
+turbopump Gemini_12.txt 2 437 516 
+moot Gemini_12.txt 1 710 
+demonstrated Gemini_12.txt 2 307 371 
+be Gemini_12.txt 3 574 661 726 
+run Gemini_12.txt 1 662 
+scientific Gemini_12.txt 1 747 
+seconds Gemini_12.txt 1 442 
+pressure Gemini_12.txt 1 266 
+by Gemini_12.txt 12 48 64 108 141 265 527 681 692 804 830 981 1059 
+nmi Gemini_12.txt 1 46 
+on Gemini_12.txt 9 138 190 218 223 802 877 929 984 1015 
+about Gemini_12.txt 1 440 
+of Gemini_12.txt 34 36 60 72 98 105 117 134 144 171 182 209 253 297 332 346 374 420 531 536 650 679 715 835 881 890 932 946 953 960 972 996 1055 1062 1077 
+anomalous Gemini_12.txt 1 521 
+location Gemini_12.txt 1 988 
+simulation Gemini_12.txt 1 349 
+carrier Gemini_12.txt 1 821 
+horizon Gemini_12.txt 1 769 
+introduced Gemini_12.txt 1 340 
+backup Gemini_12.txt 1 150 
+or Gemini_12.txt 2 552 1075 
+raised Gemini_12.txt 1 653 
+charts Gemini_12.txt 1 404 
+down Gemini_12.txt 1 808 
+weather Gemini_12.txt 1 762 
+references Gemini_12.txt 1 1065 
+lovell Gemini_12.txt 3 54 885 1023 
+support Gemini_12.txt 1 153 
+there Gemini_12.txt 1 205 
+stuck Gemini_12.txt 1 503 
+way Gemini_12.txt 1 125 
+examination Gemini_12.txt 1 847 
+was Gemini_12.txt 18 8 19 120 206 238 396 417 482 512 547 571 601 646 654 732 800 828 1006 
+himself Gemini_12.txt 1 598 
+attempted Gemini_12.txt 1 495 
+6 Gemini_12.txt 1 771 
+but Gemini_12.txt 3 202 456 501 
+26th Gemini_12.txt 1 34 
+failure Gemini_12.txt 1 518 
+link Gemini_12.txt 1 908 
+goals Gemini_12.txt 1 107 
+solar Gemini_12.txt 1 1056 
+injection Gemini_12.txt 2 429 525 
+apollo Gemini_12.txt 6 128 668 687 717 730 966 
+with Gemini_12.txt 11 87 246 392 423 608 665 702 864 935 964 1028 
+adler Gemini_12.txt 1 1019 
+he Gemini_12.txt 1 357 
+made Gemini_12.txt 1 705 
+uv Gemini_12.txt 1 772 
+spacewalk Gemini_12.txt 1 590 
+growth Gemini_12.txt 1 753 
+demonstrate Gemini_12.txt 1 639 
+problem Gemini_12.txt 1 422 
+pm Gemini_12.txt 2 179 188 
+minutes Gemini_12.txt 1 77 
+display Gemini_12.txt 1 1016 
+insignia Gemini_12.txt 1 892 
+bearing Gemini_12.txt 1 517 
+exhausted Gemini_12.txt 1 858 
+moonis Gemini_12.txt 1 979 
+an Gemini_12.txt 5 88 161 309 393 640 
+planetarium Gemini_12.txt 1 1020 
+as Gemini_12.txt 5 234 384 784 786 956 
+gemini Gemini_12.txt 26 0 3 6 17 25 49 92 100 219 224 277 290 300 322 485 599 644 704 740 825 894 937 954 962 974 1063 
+at Gemini_12.txt 10 177 186 203 258 284 294 369 924 993 1017 
+controlled Gemini_12.txt 1 801 
+extra-vehicular Gemini_12.txt 1 616 
+no Gemini_12.txt 1 849 
+personnel Gemini_12.txt 1 839 
+telemetry Gemini_12.txt 2 450 564 
+4.8 Gemini_12.txt 1 809 
+40 Gemini_12.txt 1 1045 
+illinois Gemini_12.txt 1 1022 
+preventing Gemini_12.txt 1 560 
+falsely Gemini_12.txt 1 566 
+astronaut Gemini_12.txt 2 310 854 
+department Gemini_12.txt 1 834 
+forcing Gemini_12.txt 1 870 
+conclusion Gemini_12.txt 1 97 
+star Gemini_12.txt 1 359 
+evas Gemini_12.txt 1 380 
+problems Gemini_12.txt 1 863 
+disclosed Gemini_12.txt 1 848 
+orbit Gemini_12.txt 4 415 493 546 637 
+websites Gemini_12.txt 1 1074 
+nasa Gemini_12.txt 1 14 
+2006 Gemini_12.txt 1 1033 
+time Gemini_12.txt 2 38 697 
+original Gemini_12.txt 1 912 

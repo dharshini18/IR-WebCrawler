@@ -1,0 +1,444 @@
+todays Solar_time.txt 1 1380 
+consider Solar_time.txt 2 1066 1100 
+suns Solar_time.txt 4 424 708 735 779 
+four Solar_time.txt 1 1190 
+eccentricity Solar_time.txt 1 330 
+follow Solar_time.txt 1 399 
+causes Solar_time.txt 1 656 
+passage Solar_time.txt 1 117 
+to Solar_time.txt 29 108 221 251 287 328 362 444 601 645 696 721 739 747 786 791 834 890 1050 1143 1175 1222 1263 1288 1298 1328 1352 1399 1417 1427 
+very Solar_time.txt 1 933 
+perihelion Solar_time.txt 2 677 1095 
+difference Solar_time.txt 3 1005 1040 1436 
+categories Solar_time.txt 2 1491 1493 
+did Solar_time.txt 1 1364 
+positions Solar_time.txt 1 542 
+large Solar_time.txt 1 836 
+succession Solar_time.txt 1 1002 
+20th Solar_time.txt 2 1378 1409 
+revolution Solar_time.txt 2 85 291 
+slower Solar_time.txt 1 679 
+rate Solar_time.txt 7 386 419 426 527 1302 1322 1388 
+clepsydras Solar_time.txt 1 1183 
+appear Solar_time.txt 2 887 904 
+clock Solar_time.txt 7 154 286 315 381 892 1372 1395 
+sun Solar_time.txt 33 23 64 88 95 126 193 219 233 277 402 409 515 555 559 583 600 676 686 727 769 820 916 1057 1063 1070 1084 1104 1120 1127 1131 1164 1259 1361 
+current Solar_time.txt 1 1477 
+axial Solar_time.txt 1 698 
+increasing Solar_time.txt 1 1141 
+ever Solar_time.txt 1 1349 
+respectively Solar_time.txt 1 1098 
+hours Solar_time.txt 4 210 298 313 919 
+i.e Solar_time.txt 1 335 
+november Solar_time.txt 1 1032 
+change Solar_time.txt 1 859 
+cyclical Solar_time.txt 1 1043 
+ahead Solar_time.txt 1 1012 
+shift Solar_time.txt 6 737 755 780 802 829 837 
+30 Solar_time.txt 1 988 
+ratio Solar_time.txt 1 1434 
+1493 Solar_time.txt 1 1169 
+projection Solar_time.txt 2 752 796 
+explained Solar_time.txt 1 318 
+coinciding Solar_time.txt 2 1080 1115 
+1st Solar_time.txt 1 1213 
+unit Solar_time.txt 1 132 
+swings Solar_time.txt 1 394 
+from Solar_time.txt 10 98 441 648 684 772 783 823 932 1048 1192 
+takes Solar_time.txt 2 106 278 
+two Solar_time.txt 4 139 465 595 654 
+next Solar_time.txt 2 446 788 
+few Solar_time.txt 1 863 
+overhead Solar_time.txt 4 31 45 66 196 
+6 Solar_time.txt 1 1022 
+until Solar_time.txt 5 55 490 1008 1203 1373 
+more Solar_time.txt 5 72 263 310 1335 1386 
+almost Solar_time.txt 1 1189 
+diurnal Solar_time.txt 2 940 1279 
+apparent Solar_time.txt 18 145 201 206 256 290 470 508 550 554 567 578 589 842 975 979 1014 1025 1226 
+known Solar_time.txt 2 700 1256 
+1/24 Solar_time.txt 1 239 
+crosses Solar_time.txt 1 728 
+hour Solar_time.txt 2 397 911 
+this Solar_time.txt 10 325 377 430 754 801 922 1039 1124 1341 1438 
+thousands Solar_time.txt 1 868 
+equation Solar_time.txt 4 321 879 1035 1308 
+accumulated Solar_time.txt 1 638 
+can Solar_time.txt 3 302 607 982 
+history Solar_time.txt 1 1163 
+nearest Solar_time.txt 1 674 
+links Solar_time.txt 1 1490 
+calculation Solar_time.txt 1 114 
+december Solar_time.txt 3 296 817 855 
+keplers Solar_time.txt 1 689 
+purposes Solar_time.txt 1 453 
+prograde Solar_time.txt 1 5 
+occur Solar_time.txt 1 1000 
+axis Solar_time.txt 5 230 254 358 883 900 
+tilt Solar_time.txt 1 699 
+1 Solar_time.txt 1 21 
+located Solar_time.txt 1 945 
+varies Solar_time.txt 3 348 632 956 
+instead Solar_time.txt 1 403 
+ensemble Solar_time.txt 1 1419 
+circular Solar_time.txt 1 342 
+after Solar_time.txt 1 261 
+orbits Solar_time.txt 1 549 
+plane Solar_time.txt 2 249 364 
+water Solar_time.txt 3 1185 1217 1339 
+parallel Solar_time.txt 1 790 
+types Solar_time.txt 1 140 
+a Solar_time.txt 37 4 25 56 76 113 158 167 224 241 248 380 384 417 455 536 612 629 664 713 827 835 862 884 891 901 964 992 1067 1076 1101 1111 1238 1240 1330 1384 1450 1472 
+realized Solar_time.txt 1 924 
+short Solar_time.txt 1 998 
+third Solar_time.txt 1 494 
+si Solar_time.txt 3 462 1462 1466 
+fictitious Solar_time.txt 4 1069 1103 1119 1126 
+so Solar_time.txt 6 531 666 750 794 841 1003 
+fundamental Solar_time.txt 1 131 
+tall Solar_time.txt 1 159 
+produces Solar_time.txt 1 640 
+september Solar_time.txt 2 275 850 
+developed Solar_time.txt 1 533 
+over Solar_time.txt 1 427 
+years Solar_time.txt 2 864 870 
+through Solar_time.txt 1 633 
+motions Solar_time.txt 3 509 941 1355 
+still Solar_time.txt 2 437 1397 
+its Solar_time.txt 3 366 762 1393 
+before Solar_time.txt 1 1208 
+24 Solar_time.txt 3 209 297 312 
+astronomers Solar_time.txt 3 489 532 1304 
+20 Solar_time.txt 1 984 
+21 Solar_time.txt 1 304 
+termed Solar_time.txt 1 620 
+29 Solar_time.txt 1 308 
+better Solar_time.txt 1 1232 
+degrees Solar_time.txt 2 238 264 
+covered Solar_time.txt 2 223 235 
+travelling Solar_time.txt 2 1071 1105 
+main Solar_time.txt 2 655 874 
+meridian Solar_time.txt 1 604 
+then Solar_time.txt 3 1099 1351 1425 
+return Solar_time.txt 1 109 
+matches Solar_time.txt 1 421 
+they Solar_time.txt 1 1245 
+not Solar_time.txt 8 54 340 360 438 529 663 1046 1365 
+determines Solar_time.txt 1 1448 
+rotation Solar_time.txt 6 78 526 1159 1280 1321 1412 
+reckoning Solar_time.txt 2 484 499 
+day Solar_time.txt 17 12 18 50 71 138 172 178 458 591 631 785 967 977 981 995 1138 1228 
+february Solar_time.txt 1 1021 
+crudely Solar_time.txt 1 609 
+each Solar_time.txt 1 396 
+mean Solar_time.txt 26 151 408 432 456 474 650 871 895 906 915 965 993 1009 1052 1056 1062 1130 1136 1177 1290 1331 1343 1401 1428 1440 1483 
+tilted Solar_time.txt 1 720 
+significantly Solar_time.txt 1 866 
+year Solar_time.txt 9 351 429 635 766 810 813 959 1049 1051 
+since Solar_time.txt 3 1270 1350 1404 
+millennium Solar_time.txt 4 1201 1207 1214 1276 
+galaxies Solar_time.txt 1 948 
+given Solar_time.txt 1 828 
+ecliptic Solar_time.txt 6 373 706 717 832 1074 1269 
+earliest Solar_time.txt 1 1181 
+beginning Solar_time.txt 1 1375 
+e.g Solar_time.txt 1 387 
+could Solar_time.txt 1 1246 
+days Solar_time.txt 2 844 999 
+motion Solar_time.txt 3 579 693 710 
+length Solar_time.txt 3 627 962 1133 
+onto Solar_time.txt 2 756 797 
+south Solar_time.txt 1 186 
+first Solar_time.txt 4 657 1068 1118 1275 
+meeus Solar_time.txt 1 1059 
+already Solar_time.txt 1 1471 
+seeming Solar_time.txt 1 220 
+number Solar_time.txt 1 391 
+one Solar_time.txt 5 48 69 174 442 784 
+long Solar_time.txt 4 104 934 996 1254 
+directly Solar_time.txt 1 195 
+earths Solar_time.txt 12 229 253 333 337 357 525 658 697 722 1158 1370 1411 
+little Solar_time.txt 2 57 1473 
+needed Solar_time.txt 1 1454 
+introduction Solar_time.txt 1 157 
+system Solar_time.txt 1 545 
+adopted Solar_time.txt 2 1433 1469 
+north/south Solar_time.txt 1 217 
+their Solar_time.txt 3 548 1300 1338 
+returns Solar_time.txt 1 597 
+2 Solar_time.txt 1 34 
+observations Solar_time.txt 2 937 951 
+perfectly Solar_time.txt 2 341 439 
+behind Solar_time.txt 1 1024 
+exactly Solar_time.txt 4 183 236 260 269 
+simulate Solar_time.txt 1 1176 
+than Solar_time.txt 12 15 292 311 513 761 805 851 991 1233 1337 1389 1475 
+distance Solar_time.txt 1 347 
+kind Solar_time.txt 1 495 
+12 Solar_time.txt 2 47 918 
+15 Solar_time.txt 2 237 262 
+14 Solar_time.txt 1 1018 
+16 Solar_time.txt 2 646 1029 
+second Solar_time.txt 6 694 1102 1125 1452 1467 1481 
+eastward Solar_time.txt 1 1261 
+were Solar_time.txt 6 486 1182 1219 1230 1296 1312 
+and Solar_time.txt 26 24 40 150 190 352 473 636 678 816 849 865 897 949 1023 1044 1079 1088 1096 1114 1153 1165 1311 1360 1424 1443 1464 
+have Solar_time.txt 3 222 1172 1383 
+seen Solar_time.txt 2 97 561 
+any Solar_time.txt 1 170 
+contents Solar_time.txt 1 156 
+acceleration Solar_time.txt 1 1146 
+angle Solar_time.txt 3 91 746 912 
+that Solar_time.txt 14 62 197 273 344 355 379 410 420 485 523 718 972 1244 1257 
+also Solar_time.txt 1 1487 
+ideal Solar_time.txt 1 1342 
+which Solar_time.txt 5 93 435 503 1041 1294 
+accuracy Solar_time.txt 1 1368 
+knew Solar_time.txt 1 1305 
+most Solar_time.txt 1 452 
+successive Solar_time.txt 1 596 
+measured Solar_time.txt 3 246 282 610 
+the Solar_time.txt 159 8 10 16 22 35 41 63 80 84 87 90 94 99 116 122 125 128 130 137 164 177 179 192 212 218 228 232 252 270 276 320 329 332 336 345 350 353 356 363 368 372 374 389 400 413 422 428 445 464 479 491 493 507 514 517 524 541 553 557 577 581 588 592 599 602 614 626 634 637 649 651 667 675 685 702 705 707 716 726 729 734 740 748 751 757 765 768 773 778 787 792 795 798 806 809 819 824 831 839 878 882 899 910 914 926 939 952 958 961 1004 1034 1055 1061 1073 1082 1086 1091 1107 1117 1122 1129 1132 1135 1144 1148 1151 1154 1161 1180 1196 1199 1204 1209 1212 1216 1225 1234 1258 1264 1268 1271 1274 1278 1282 1307 1319 1324 1354 1357 1367 1374 1377 1390 1407 1435 1455 1465 1476 1480 
+so-called Solar_time.txt 1 369 
+deviations Solar_time.txt 1 642 
+chronicle Solar_time.txt 1 1168 
+clear Solar_time.txt 1 522 
+later Solar_time.txt 2 58 211 
+traditional Solar_time.txt 1 497 
+mechanical Solar_time.txt 1 1362 
+fact Solar_time.txt 1 354 
+laws Solar_time.txt 1 690 
+planetary Solar_time.txt 1 692 
+gnomon Solar_time.txt 1 1239 
+360-degree Solar_time.txt 1 225 
+radio Solar_time.txt 2 943 1422 
+obliquity Solar_time.txt 2 370 703 
+sundial Solar_time.txt 4 148 613 885 902 
+earth Solar_time.txt 8 9 81 100 566 668 1092 1152 1391 
+ground Solar_time.txt 1 165 
+slow Solar_time.txt 1 905 
+based Solar_time.txt 5 120 505 539 575 586 
+true Solar_time.txt 4 558 571 622 1083 
+millennia Solar_time.txt 1 1191 
+enough Solar_time.txt 1 450 
+only Solar_time.txt 1 1220 
+employed Solar_time.txt 1 487 
+circle Solar_time.txt 3 242 665 715 
+local Solar_time.txt 6 200 205 255 603 621 894 
+achieve Solar_time.txt 1 1366 
+perigee Solar_time.txt 1 1087 
+sunny Solar_time.txt 1 171 
+13 Solar_time.txt 1 68 
+cannot Solar_time.txt 1 398 
+nearly Solar_time.txt 1 969 
+during Solar_time.txt 2 176 957 
+runs Solar_time.txt 1 1460 
+fixed Solar_time.txt 3 162 1265 1283 
+timeabove Solar_time.txt 1 881 
+farthest Solar_time.txt 3 683 771 822 
+observer Solar_time.txt 1 564 
+relative Solar_time.txt 4 738 889 1262 1416 
+see Solar_time.txt 3 688 811 1486 
+arc Solar_time.txt 1 226 
+are Solar_time.txt 4 29 144 477 845 
+close Solar_time.txt 1 449 
+currently Solar_time.txt 2 454 920 
+wikipedia Solar_time.txt 1 2 
+3 Solar_time.txt 2 61 1033 
+between Solar_time.txt 2 594 1437 
+360 Solar_time.txt 1 39 
+vertical Solar_time.txt 1 1241 
+article Solar_time.txt 2 324 875 
+both Solar_time.txt 4 30 243 732 776 
+instant Solar_time.txt 1 198 
+many Solar_time.txt 1 1170 
+annual Solar_time.txt 1 709 
+against Solar_time.txt 1 1293 
+agree Solar_time.txt 1 1223 
+among Solar_time.txt 1 478 
+adjusted Solar_time.txt 1 1221 
+12:00 Solar_time.txt 1 204 
+pendulum Solar_time.txt 1 393 
+point Solar_time.txt 2 182 216 
+had Solar_time.txt 1 520 
+corresponds Solar_time.txt 1 833 
+2nd Solar_time.txt 2 1200 1206 
+pole Solar_time.txt 2 160 1242 
+simply Solar_time.txt 1 73 
+throughout Solar_time.txt 1 349 
+along Solar_time.txt 6 412 712 830 1072 1106 1267 
+late Solar_time.txt 1 1408 
+three Solar_time.txt 1 480 
+been Solar_time.txt 5 1173 1255 1286 1347 1414 
+tropical Solar_time.txt 1 812 
+describes Solar_time.txt 1 1060 
+slowly Solar_time.txt 1 1140 
+corresponding Solar_time.txt 1 1155 
+1950s Solar_time.txt 2 492 518 
+great Solar_time.txt 1 714 
+moment Solar_time.txt 1 175 
+external Solar_time.txt 1 1489 
+angles Solar_time.txt 1 244 
+coordinated Solar_time.txt 1 1444 
+hidden Solar_time.txt 1 1492 
+unlike Solar_time.txt 1 971 
+these Solar_time.txt 1 856 
+value Solar_time.txt 1 1478 
+apogee Solar_time.txt 1 1089 
+will Solar_time.txt 6 181 214 266 858 886 903 
+cast Solar_time.txt 1 1236 
+near Solar_time.txt 2 1020 1031 
+error Solar_time.txt 1 1301 
+larger Solar_time.txt 1 804 
+century Solar_time.txt 3 443 1379 1410 
+equator Solar_time.txt 11 415 724 730 749 758 774 793 799 826 840 1109 
+is Solar_time.txt 48 13 44 53 65 75 96 102 112 136 199 258 272 326 339 359 378 431 436 448 459 500 504 556 574 585 619 660 673 682 711 719 743 759 770 789 803 821 909 923 968 1011 1038 1042 1093 1128 1139 1396 1453 
+thus Solar_time.txt 1 1229 
+it Solar_time.txt 11 52 105 265 293 404 519 584 672 681 1252 1315 
+middle Solar_time.txt 3 1197 1210 1272 
+in Solar_time.txt 18 127 163 247 274 295 319 395 547 781 814 847 852 861 867 946 1001 1094 1406 
+ephemeris Solar_time.txt 1 534 
+disappear Solar_time.txt 1 188 
+if Solar_time.txt 1 191 
+different Solar_time.txt 1 1320 
+baseline Solar_time.txt 1 935 
+lengths Solar_time.txt 1 857 
+make Solar_time.txt 1 288 
+same Solar_time.txt 1 390 
+shorter Solar_time.txt 4 14 846 986 1474 
+extra-galactic Solar_time.txt 1 1421 
+used Solar_time.txt 6 1174 1187 1248 1287 1348 1398 
+1-3 Solar_time.txt 1 101 
+1-2 Solar_time.txt 1 74 
+effect Solar_time.txt 3 375 639 652 
+running Solar_time.txt 1 382 
+early Solar_time.txt 2 1194 1205 
+sidereal Solar_time.txt 4 11 49 501 1326 
+accumulate Solar_time.txt 1 1047 
+well Solar_time.txt 1 1317 
+aphelion Solar_time.txt 2 687 1097 
+position Solar_time.txt 2 123 782 
+jean Solar_time.txt 1 1058 
+bodies Solar_time.txt 1 546 
+seasonal Solar_time.txt 1 641 
+less Solar_time.txt 3 279 306 760 
+being Solar_time.txt 1 245 
+when Solar_time.txt 9 189 231 671 680 725 767 818 1090 1468 
+accurate Solar_time.txt 2 285 1336 
+rotated Solar_time.txt 1 38 
+obtain Solar_time.txt 1 1329 
+sources Solar_time.txt 2 944 1423 
+clocks Solar_time.txt 6 1186 1218 1295 1340 1363 1382 
+distant Solar_time.txt 2 27 42 
+atomic Solar_time.txt 1 1381 
+speed Solar_time.txt 2 1078 1113 
+now Solar_time.txt 1 1459 
+sky Solar_time.txt 1 129 
+except Solar_time.txt 1 1243 
+mathematically Solar_time.txt 1 931 
+has Solar_time.txt 7 37 234 653 1253 1285 1346 1413 
+real Solar_time.txt 1 423 
+march Solar_time.txt 1 848 
+around Solar_time.txt 2 86 227 
+showing Solar_time.txt 1 893 
+13:00 Solar_time.txt 1 259 
+earth-sun Solar_time.txt 1 346 
+background Solar_time.txt 1 741 
+shadow Solar_time.txt 4 168 180 213 1235 
+correcting Solar_time.txt 1 1313 
+babylonian Solar_time.txt 1 1303 
+vertically Solar_time.txt 1 161 
+like Solar_time.txt 1 7 
+follows Solar_time.txt 3 405 1054 1065 
+night Solar_time.txt 1 1250 
+become Solar_time.txt 1 521 
+because Solar_time.txt 1 83 
+methods Solar_time.txt 1 1171 
+calculated Solar_time.txt 1 1439 
+daylight Solar_time.txt 1 955 
+duration Solar_time.txt 1 953 
+star Solar_time.txt 4 28 43 1371 1394 
+14:00 Solar_time.txt 1 268 
+scale Solar_time.txt 3 538 929 1458 
+for Solar_time.txt 5 451 764 808 1188 1314 
+affects Solar_time.txt 1 89 
+noon Solar_time.txt 2 107 202 
+moon Solar_time.txt 4 1149 1162 1166 1359 
+leap Solar_time.txt 1 1451 
+does Solar_time.txt 2 294 1045 
+be Solar_time.txt 5 267 303 608 983 1247 
+bc Solar_time.txt 3 1202 1215 1277 
+seconds Solar_time.txt 6 305 309 463 985 989 1463 
+equivalent Solar_time.txt 1 615 
+perpendicular Solar_time.txt 2 250 361 
+how Solar_time.txt 1 103 
+tidal Solar_time.txt 1 1145 
+imaginary Solar_time.txt 1 407 
+by Solar_time.txt 11 283 488 516 562 611 1016 1027 1150 1160 1237 1431 
+on Solar_time.txt 10 3 121 169 506 540 565 576 587 616 1461 
+about Solar_time.txt 4 208 460 1017 1028 
+actual Solar_time.txt 2 401 582 
+of Solar_time.txt 54 79 115 118 124 133 141 240 299 314 322 331 365 371 376 392 467 482 496 510 543 580 598 628 643 691 704 753 800 869 880 913 938 942 954 963 973 1013 1036 1134 1147 1157 1198 1211 1273 1281 1306 1309 1323 1356 1369 1376 1420 1479 1482 
+completing Solar_time.txt 1 388 
+meaning Solar_time.txt 1 343 
+plus Solar_time.txt 1 917 
+slightly Solar_time.txt 1 860 
+or Solar_time.txt 9 185 187 203 307 570 854 987 997 1184 
+due Solar_time.txt 3 327 695 1142 
+references Solar_time.txt 1 1488 
+determine Solar_time.txt 3 1289 1299 1400 
+ltst Solar_time.txt 1 625 
+ellipse Solar_time.txt 1 662 
+fast Solar_time.txt 1 888 
+ut1 Solar_time.txt 1 927 
+stars Solar_time.txt 5 511 742 1266 1284 1325 
+was Solar_time.txt 2 528 1470 
+interferometry Solar_time.txt 1 936 
+north Solar_time.txt 1 184 
+complete Solar_time.txt 1 77 
+but Solar_time.txt 6 51 82 447 960 1251 1392 
+solar Solar_time.txt 39 0 17 70 110 134 142 146 152 300 433 457 468 471 475 544 551 568 572 590 605 623 630 843 872 907 966 976 980 994 1137 1178 1227 1291 1332 1344 1402 1429 1441 1484 
+with Solar_time.txt 5 925 1075 1081 1116 1224 
+longer Solar_time.txt 1 990 
+utc Solar_time.txt 2 1447 1456 
+nuremberg Solar_time.txt 1 1167 
+builds Solar_time.txt 1 1006 
+whether Solar_time.txt 1 1449 
+up Solar_time.txt 2 644 1007 
+planet Solar_time.txt 2 6 36 
+below Solar_time.txt 1 898 
+converted Solar_time.txt 1 1426 
+problem Solar_time.txt 1 271 
+minutes Solar_time.txt 3 647 1019 1030 
+average Solar_time.txt 3 425 763 807 
+celestial Solar_time.txt 4 414 723 825 1108 
+constant Solar_time.txt 8 385 418 440 530 970 1077 1112 1387 
+defined Solar_time.txt 1 1415 
+certain Solar_time.txt 1 26 
+universal Solar_time.txt 2 876 1445 
+describe Solar_time.txt 1 1353 
+slowing Solar_time.txt 1 1156 
+an Solar_time.txt 10 284 289 406 563 661 745 974 978 1418 1432 
+as Solar_time.txt 9 281 317 560 701 1064 1193 1195 1316 1318 
+sometime Solar_time.txt 1 1405 
+at Solar_time.txt 15 19 32 59 92 173 383 416 731 744 775 838 1085 1110 1121 1249 
+planets Solar_time.txt 2 618 1358 
+moves Solar_time.txt 4 194 411 669 1260 
+constructed Solar_time.txt 1 930 
+again Solar_time.txt 3 46 67 215 
+compared Solar_time.txt 1 1297 
+no Solar_time.txt 1 1231 
+86,400.002 Solar_time.txt 1 461 
+other Solar_time.txt 4 512 617 947 950 
+kinds Solar_time.txt 2 466 481 
+june Solar_time.txt 2 815 853 
+much Solar_time.txt 2 1334 1385 
+solstices Solar_time.txt 1 777 
+faster Solar_time.txt 1 670 
+casts Solar_time.txt 1 166 
+interval Solar_time.txt 1 593 
+orbit Solar_time.txt 4 334 338 367 659 
+daily Solar_time.txt 1 736 
+time Solar_time.txt 54 1 20 33 60 111 119 135 143 147 149 153 155 207 257 280 301 316 323 434 469 472 476 483 498 502 535 537 552 569 573 606 624 873 877 896 908 928 1010 1015 1026 1037 1053 1179 1292 1310 1327 1333 1345 1403 1430 1442 1446 1457 1485 
+2009 Solar_time.txt 1 921 
+equinoxes Solar_time.txt 2 733 1123 

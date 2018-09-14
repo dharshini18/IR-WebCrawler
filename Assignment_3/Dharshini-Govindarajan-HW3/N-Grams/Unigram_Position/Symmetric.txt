@@ -1,0 +1,837 @@
+knotwork Symmetric.txt 2 1954 1971 
+all Symmetric.txt 4 577 925 1075 1963 
+concept Symmetric.txt 1 558 
+remarkable Symmetric.txt 1 890 
+lack Symmetric.txt 2 545 1709 
+yellow Symmetric.txt 1 19 
+steve Symmetric.txt 1 1632 
+intricate Symmetric.txt 1 1527 
+adjustment Symmetric.txt 1 1060 
+centers Symmetric.txt 2 1529 1762 
+carpet Symmetric.txt 1 1505 
+relationships Symmetric.txt 3 1092 1108 1114 
+contexts Symmetric.txt 1 1034 
+preserves Symmetric.txt 1 440 
+chinese Symmetric.txt 1 1414 
+mosque Symmetric.txt 4 84 90 1143 1236 
+send Symmetric.txt 2 1069 1082 
+passage Symmetric.txt 1 173 
+to Symmetric.txt 40 109 132 171 427 435 540 594 613 732 747 876 878 901 919 960 965 999 1116 1215 1325 1336 1379 1400 1407 1464 1481 1578 1588 1708 1720 1756 1781 1789 1801 1820 1979 2024 2043 2051 2068 
+tail Symmetric.txt 1 774 
+c5 Symmetric.txt 1 1835 
+rhythm Symmetric.txt 1 1946 
+equivalency Symmetric.txt 1 1924 
+health Symmetric.txt 1 2038 
+analogous Symmetric.txt 1 1754 
+include Symmetric.txt 4 477 682 1036 1966 
+quilts Symmetric.txt 2 1446 1452 
+case Symmetric.txt 1 612 
+ceramic Symmetric.txt 1 1999 
+geometrical Symmetric.txt 1 411 
+every Symmetric.txt 3 463 633 1188 
+fifths Symmetric.txt 1 1839 
+navajo Symmetric.txt 1 1515 
+fractal Symmetric.txt 1 52 
+wagner Symmetric.txt 1 1869 
+school Symmetric.txt 1 1894 
+17th Symmetric.txt 1 1428 
+tonal Symmetric.txt 5 1669 1724 1760 1761 1855 
+skeletal Symmetric.txt 1 810 
+notes Symmetric.txt 1 2116 
+rectangle Symmetric.txt 1 1546 
+discrete Symmetric.txt 1 686 
+sand Symmetric.txt 1 1969 
+reich Symmetric.txt 1 1633 
+ornamentation Symmetric.txt 1 1249 
+biological Symmetric.txt 2 893 945 
+leonardo Symmetric.txt 1 25 
+mahler Symmetric.txt 1 1866 
+upper Symmetric.txt 1 768 
+smaller Symmetric.txt 1 1469 
+says Symmetric.txt 1 660 
+repetitive Symmetric.txt 1 1441 
+among Symmetric.txt 1 1061 
+literature Symmetric.txt 2 2073 2083 
+d Symmetric.txt 1 1580 
+fitness Symmetric.txt 1 2041 
+design Symmetric.txt 3 1217 1444 1959 
+rigorous Symmetric.txt 1 974 
+further Symmetric.txt 5 521 714 1149 1157 2120 
+rab Symmetric.txt 1 346 
+crystallography Symmetric.txt 1 992 
+odd Symmetric.txt 1 480 
+linear Symmetric.txt 1 493 
+even Symmetric.txt 2 201 478 
+xor Symmetric.txt 1 393 
+appear Symmetric.txt 1 1956 
+richard Symmetric.txt 1 1868 
+section Symmetric.txt 1 416 
+interactions Symmetric.txt 6 888 927 1016 1029 1068 1080 
+nand Symmetric.txt 1 390 
+current Symmetric.txt 1 650 
+consistently Symmetric.txt 1 1910 
+scientists Symmetric.txt 1 964 
+new Symmetric.txt 1 905 
+contributes Symmetric.txt 1 959 
+consisting Symmetric.txt 1 1472 
+told Symmetric.txt 1 151 
+body Symmetric.txt 4 44 734 754 795 
+full Symmetric.txt 1 1344 
+iran Symmetric.txt 1 1145 
+degree Symmetric.txt 1 1118 
+concepts Symmetric.txt 1 1646 
+alhambra Symmetric.txt 1 1254 
+understanding Symmetric.txt 1 975 
+asymmetry Symmetric.txt 3 242 513 1112 
+objects Symmetric.txt 3 195 884 1961 
+groups Symmetric.txt 1 1676 
+i.e Symmetric.txt 1 932 
+strong Symmetric.txt 1 1334 
+appears Symmetric.txt 1 505 
+change Symmetric.txt 1 306 
+retrograde Symmetric.txt 1 1936 
+obtained Symmetric.txt 1 70 
+great Symmetric.txt 1 83 
+generalizing Symmetric.txt 1 409 
+study Symmetric.txt 1 619 
+studied Symmetric.txt 1 885 
+fourfold Symmetric.txt 1 1179 
+typically Symmetric.txt 1 1541 
+social Symmetric.txt 2 1015 1028 
+usually Symmetric.txt 2 1458 1471 
+symmetrical Symmetric.txt 14 358 805 1021 1067 1113 1281 1363 1418 1577 1688 1825 1913 1939 2104 
+spacetime Symmetric.txt 1 689 
+self-similarity Symmetric.txt 1 62 
+carpets Symmetric.txt 1 1487 
+control Symmetric.txt 1 948 
+via Symmetric.txt 1 933 
+transformations Symmetric.txt 4 136 182 188 556 
+classification Symmetric.txt 1 658 
+scales Symmetric.txt 2 1664 1689 
+prefer Symmetric.txt 1 2059 
+logical Symmetric.txt 1 378 
+moral Symmetric.txt 1 1071 
+translational Symmetric.txt 1 1262 
+suits Symmetric.txt 1 834 
+tools Symmetric.txt 1 566 
+readily Symmetric.txt 1 1480 
+use Symmetric.txt 2 1239 1501 
+from Symmetric.txt 10 3 96 208 410 842 1163 1172 1190 1367 1455 
+0 Symmetric.txt 1 1821 
+moorish Symmetric.txt 1 1250 
+indians Symmetric.txt 1 1516 
+two Symmetric.txt 2 144 273 
+nobel Symmetric.txt 1 590 
+music Symmetric.txt 8 199 236 1565 1598 1608 1641 1670 1881 
+therefore Symmetric.txt 1 777 
+reciprocity Symmetric.txt 1 1039 
+type Symmetric.txt 3 218 311 326 
+theoretical Symmetric.txt 1 568 
+minor Symmetric.txt 1 1569 
+more Symmetric.txt 4 124 275 602 741 
+skewness Symmetric.txt 1 512 
+becomes Symmetric.txt 2 785 796 
+freedom Symmetric.txt 1 1353 
+surprisingly Symmetric.txt 1 1537 
+visual Symmetric.txt 2 1381 1590 
+cycles Symmetric.txt 2 1751 1823 
+not-and Symmetric.txt 1 391 
+abcba Symmetric.txt 1 1629 
+rotational Symmetric.txt 7 59 258 831 1316 1345 1377 1389 
+animals Symmetric.txt 4 700 737 760 822 
+varse Symmetric.txt 1 1890 
+this Symmetric.txt 9 67 158 204 285 438 557 586 1361 2044 
+science Symmetric.txt 3 225 517 1004 
+constraint Symmetric.txt 1 1619 
+theories Symmetric.txt 1 698 
+remain Symmetric.txt 1 816 
+harmonious Symmetric.txt 1 113 
+can Symmetric.txt 5 148 269 1095 1115 2076 
+of Symmetric.txt 99 39 65 78 85 91 112 134 146 174 186 193 219 239 301 312 327 402 443 448 455 465 474 514 546 550 562 567 579 620 664 667 672 688 692 696 726 802 807 866 882 892 898 904 936 949 952 963 976 989 997 1002 1011 1027 1033 1038 1141 1195 1208 1218 1240 1283 1300 1322 1354 1391 1473 1484 1499 1502 1512 1544 1597 1602 1607 1647 1663 1674 1677 1714 1747 1771 1778 1785 1792 1804 1813 1834 1838 1846 1860 1882 1904 1960 1962 1982 1989 2007 2022 2111 
+strategies Symmetric.txt 1 1125 
+arrive Symmetric.txt 1 841 
+specialized Symmetric.txt 1 786 
+example Symmetric.txt 3 553 1416 2086 
+history Symmetric.txt 1 1596 
+beautiful Symmetric.txt 1 115 
+triads Symmetric.txt 1 1570 
+compare Symmetric.txt 1 1581 
+links Symmetric.txt 1 2124 
+bilaterally Symmetric.txt 1 797 
+organized Symmetric.txt 2 283 322 
+pieces Symmetric.txt 4 277 300 320 1463 
+states Symmetric.txt 1 630 
+indicates Symmetric.txt 1 2037 
+cross-section Symmetric.txt 1 1349 
+sense Symmetric.txt 3 111 791 1713 
+human-made Symmetric.txt 1 939 
+opposed Symmetric.txt 1 2042 
+taj Symmetric.txt 2 1167 1231 
+information Symmetric.txt 4 522 715 1150 1158 
+end Symmetric.txt 1 1903 
+divided Symmetric.txt 1 271 
+american Symmetric.txt 1 1514 
+arrangement Symmetric.txt 1 104 
+write Symmetric.txt 1 595 
+pleasing Symmetric.txt 1 1406 
+layout Symmetric.txt 2 1207 1282 
+tile Symmetric.txt 1 1224 
+instead Symmetric.txt 1 1295 
+explains Symmetric.txt 2 978 1763 
+divides Symmetric.txt 1 752 
+belongs Symmetric.txt 1 1788 
+buildings Symmetric.txt 3 1196 1227 1251 
+blocks Symmetric.txt 2 1284 1457 
+plans Symmetric.txt 1 1212 
+algebra Symmetric.txt 2 489 494 
+may Symmetric.txt 5 166 840 1054 1081 2101 
+wallpaper Symmetric.txt 1 1998 
+masks Symmetric.txt 1 1972 
+islamic Symmetric.txt 1 1226 
+plane Symmetric.txt 1 750 
+such Symmetric.txt 14 643 823 1093 1130 1197 1222 1228 1623 1679 1692 1735 1863 1884 1996 
+horizontal Symmetric.txt 1 1556 
+arch Symmetric.txt 1 1626 
+furniture Symmetric.txt 1 1968 
+man Symmetric.txt 1 30 
+a Symmetric.txt 45 11 37 51 72 79 110 123 177 260 295 332 420 428 452 459 639 648 778 781 788 889 973 1031 1280 1312 1333 1341 1397 1435 1440 1465 1496 1510 1534 1545 1617 1712 1728 1790 1811 1830 1871 2084 2091 2103 
+ambiguous Symmetric.txt 1 1718 
+natural Symmetric.txt 2 49 937 
+progressions Symmetric.txt 2 1856 1900 
+whenever Symmetric.txt 1 342 
+3-fold Symmetric.txt 1 257 
+greek Symmetric.txt 1 97 
+castings Symmetric.txt 1 1423 
+so Symmetric.txt 1 156 
+fundamental Symmetric.txt 2 23 979 
+crafts Symmetric.txt 1 1951 
+representation Symmetric.txt 1 38 
+op Symmetric.txt 1 1921 
+operations Symmetric.txt 1 449 
+help Symmetric.txt 1 1326 
+fourths Symmetric.txt 1 1847 
+move Symmetric.txt 1 762 
+produced Symmetric.txt 1 954 
+including Symmetric.txt 5 137 213 738 886 1024 
+enharmonic Symmetric.txt 1 1842 
+pitch Symmetric.txt 5 1651 1832 1876 1914 1929 
+non-symmetrical Symmetric.txt 1 1675 
+its Symmetric.txt 6 343 347 471 1183 1348 1592 
+tendency Symmetric.txt 1 2047 
+chemical Symmetric.txt 1 957 
+style Symmetric.txt 1 1293 
+group Symmetric.txt 6 14 460 486 498 853 1012 
+symmetry Symmetric.txt 62 0 9 13 17 40 58 60 66 95 121 147 165 207 220 240 252 259 313 407 412 475 531 534 621 636 716 721 727 832 846 867 899 915 916 951 977 998 1105 1171 1180 1181 1241 1317 1337 1346 1378 1390 1485 1495 1503 1584 1612 1645 1654 1748 1786 2017 2023 2031 2050 2064 2075 
+matrices Symmetric.txt 1 491 
+masses Symmetric.txt 2 1285 1301 
+and/or Symmetric.txt 1 1749 
+forms Symmetric.txt 3 64 1995 2081 
+complex Symmetric.txt 2 1258 2027 
+systems Symmetric.txt 1 946 
+hidden Symmetric.txt 1 2127 
+main Symmetric.txt 6 250 405 529 912 1437 2015 
+supersymmetry Symmetric.txt 1 695 
+then Symmetric.txt 1 368 
+them Symmetric.txt 3 835 1411 2070 
+views Symmetric.txt 1 1194 
+food Symmetric.txt 1 837 
+perceived Symmetric.txt 1 2053 
+scaling Symmetric.txt 1 141 
+sessile Symmetric.txt 1 820 
+they Symmetric.txt 2 153 160 
+not Symmetric.txt 2 1536 1586 
+rotation Symmetric.txt 1 139 
+octahedral Symmetric.txt 1 16 
+nor Symmetric.txt 1 397 
+four-group Symmetric.txt 1 1562 
+inversion Symmetric.txt 1 1941 
+instances Symmetric.txt 1 1770 
+edit Symmetric.txt 26 246 249 331 404 520 528 713 911 1017 1138 1156 1307 1447 1490 1566 1611 1653 1925 1952 2014 2074 2115 2117 2119 2122 2125 
+james Symmetric.txt 1 1637 
+25 Symmetric.txt 1 1462 
+radial Symmetric.txt 1 829 
+found Symmetric.txt 3 675 848 2078 
+uninteresting Symmetric.txt 1 2057 
+side Symmetric.txt 2 971 1165 
+mean Symmetric.txt 1 541 
+domain Symmetric.txt 1 24 
+square Symmetric.txt 1 1456 
+house Symmetric.txt 1 1204 
+energy Symmetric.txt 1 645 
+principles Symmetric.txt 1 1063 
+related Symmetric.txt 2 155 1794 
+triskelion Symmetric.txt 1 255 
+persian Symmetric.txt 1 1491 
+1487 Symmetric.txt 1 32 
+quantum Symmetric.txt 1 982 
+atonal Symmetric.txt 1 1880 
+operation Symmetric.txt 2 431 439 
+balance Symmetric.txt 4 118 1026 1052 1299 
+uqba Symmetric.txt 1 92 
+special Symmetric.txt 1 1087 
+restricted Symmetric.txt 1 1587 
+since Symmetric.txt 1 1318 
+vessels Symmetric.txt 4 1306 1329 1385 1432 
+particles Symmetric.txt 2 674 693 
+oriental Symmetric.txt 1 1524 
+motifs Symmetric.txt 2 1522 1549 
+sagittal Symmetric.txt 1 749 
+bla Symmetric.txt 2 1634 1739 
+shows Symmetric.txt 1 21 
+perception Symmetric.txt 1 1606 
+theory Symmetric.txt 4 501 994 1013 1124 
+alban Symmetric.txt 2 1737 1918 
+starfish Symmetric.txt 1 856 
+seventh Symmetric.txt 2 1702 1705 
+revenge Symmetric.txt 1 1047 
+asymmetrical Symmetric.txt 2 1025 1079 
+successions Symmetric.txt 1 1877 
+applications Symmetric.txt 1 1988 
+ancient Symmetric.txt 2 1368 1413 
+formation Symmetric.txt 1 1662 
+dynamics Symmetric.txt 1 908 
+earliest Symmetric.txt 1 1320 
+thrown Symmetric.txt 1 1310 
+definition Symmetric.txt 1 126 
+pairs Symmetric.txt 1 806 
+interaction Symmetric.txt 1 935 
+chiral Symmetric.txt 2 940 944 
+language Symmetric.txt 3 107 198 654 
+created Symmetric.txt 1 1339 
+geometry Symmetric.txt 4 214 248 253 1563 
+where Symmetric.txt 1 2090 
+diminished Symmetric.txt 1 1701 
+noethers Symmetric.txt 2 623 652 
+times Symmetric.txt 1 1369 
+motion Symmetric.txt 1 1716 
+wigners Symmetric.txt 1 657 
+produce Symmetric.txt 1 1849 
+enough Symmetric.txt 1 2066 
+exhibited Symmetric.txt 1 1433 
+first Symmetric.txt 1 1907 
+major Symmetric.txt 3 1567 1686 1852 
+probability Symmetric.txt 1 508 
+powerful Symmetric.txt 1 565 
+reflected Symmetric.txt 2 1528 1552 
+one Symmetric.txt 2 561 764 
+sympathy Symmetric.txt 1 1041 
+ebg Symmetric.txt 1 1767 
+simplified Symmetric.txt 1 628 
+relations Symmetric.txt 1 1915 
+message Symmetric.txt 2 1072 1084 
+george Symmetric.txt 1 1742 
+given Symmetric.txt 2 429 453 
+necessarily Symmetric.txt 1 766 
+interesting Symmetric.txt 1 2071 
+permutation Symmetric.txt 1 1648 
+top Symmetric.txt 1 1174 
+pots Symmetric.txt 1 1309 
+approximately Symmetric.txt 1 702 
+their Symmetric.txt 5 887 1244 1248 1402 1421 
+overstating Symmetric.txt 1 610 
+observations Symmetric.txt 1 980 
+modernist Symmetric.txt 1 1288 
+white Symmetric.txt 2 1203 1573 
+molecular Symmetric.txt 1 914 
+structures Symmetric.txt 2 1287 1652 
+ceiling Symmetric.txt 1 1140 
+muscles Symmetric.txt 1 808 
+mostly Symmetric.txt 1 729 
+that Symmetric.txt 25 55 127 278 287 297 345 349 419 450 543 575 605 615 631 661 761 854 874 1053 1274 1374 1532 1547 1550 2061 
+asymmetric Symmetric.txt 2 817 1945 
+gothic Symmetric.txt 1 1199 
+continuous Symmetric.txt 2 634 683 
+celtic Symmetric.txt 1 1953 
+part Symmetric.txt 2 1803 1812 
+because Symmetric.txt 2 836 921 
+probably Symmetric.txt 1 1917 
+than Symmetric.txt 1 1089 
+center Symmetric.txt 1 1725 
+kind Symmetric.txt 4 464 473 549 1777 
+mahal Symmetric.txt 2 1168 1232 
+16 Symmetric.txt 1 1460 
+boring Symmetric.txt 1 2055 
+beowulf Symmetric.txt 1 2112 
+r Symmetric.txt 1 335 
+elaborate Symmetric.txt 1 1238 
+vienna Symmetric.txt 1 1893 
+tonality Symmetric.txt 1 1905 
+and Symmetric.txt 72 45 61 114 117 189 200 226 228 235 339 381 387 396 479 495 510 518 655 685 694 719 757 769 773 776 780 790 793 809 819 859 907 938 984 991 995 1046 1064 1152 1160 1201 1213 1233 1246 1263 1286 1298 1304 1439 1488 1506 1520 1530 1557 1568 1605 1636 1649 1665 1726 1741 1766 1826 1867 1891 1950 1973 1985 1993 2004 2009 2039 
+fashion Symmetric.txt 1 284 
+symmetries Symmetric.txt 11 583 663 679 684 687 691 1148 1265 1543 1955 1976 
+ikat Symmetric.txt 1 2002 
+disambiguation Symmetric.txt 1 10 
+modern Symmetric.txt 1 956 
+say Symmetric.txt 3 418 614 877 
+substantial Symmetric.txt 1 1352 
+have Symmetric.txt 10 470 767 828 1371 1526 1540 1727 1744 2062 2102 
+seen Symmetric.txt 2 1126 1162 
+organs Symmetric.txt 3 706 792 814 
+any Symmetric.txt 3 133 548 843 
+contents Symmetric.txt 1 243 
+tilework Symmetric.txt 1 2000 
+relationship Symmetric.txt 3 179 1335 2021 
+dyadic Symmetric.txt 1 333 
+complexity Symmetric.txt 1 2067 
+also Symmetric.txt 7 87 656 869 1656 1810 1944 2114 
+internal Symmetric.txt 3 690 705 813 
+generalized Symmetric.txt 1 539 
+which Symmetric.txt 6 625 659 751 833 1840 1932 
+calculus Symmetric.txt 1 483 
+anemones Symmetric.txt 1 826 
+acquire Symmetric.txt 1 1315 
+though Symmetric.txt 2 704 812 
+attractiveness Symmetric.txt 1 2019 
+cathedrals Symmetric.txt 1 1200 
+object Symmetric.txt 8 129 264 289 303 422 437 445 457 
+architects Symmetric.txt 1 1277 
+most Symmetric.txt 2 216 564 
+mouth Symmetric.txt 1 789 
+echinoderms Symmetric.txt 1 851 
+draws Symmetric.txt 1 1005 
+segment Symmetric.txt 1 1833 
+class Symmetric.txt 1 1930 
+paintings Symmetric.txt 1 1970 
+backwards Symmetric.txt 1 2099 
+sometimes Symmetric.txt 1 149 
+metal Symmetric.txt 2 1305 1384 
+traditional Symmetric.txt 1 1667 
+interval-4 Symmetric.txt 1 1806 
+sum-4 Symmetric.txt 1 1815 
+diagonals Symmetric.txt 1 1519 
+redirected Symmetric.txt 1 2 
+physics Symmetric.txt 8 527 533 536 569 616 668 681 873 
+notion Symmetric.txt 2 725 865 
+fact Symmetric.txt 1 585 
+quantity Symmetric.txt 1 642 
+precise Symmetric.txt 1 125 
+axes Symmetric.txt 3 1559 1746 1784 
+text Symmetric.txt 1 2093 
+brief Symmetric.txt 1 2092 
+relation Symmetric.txt 1 334 
+1910 Symmetric.txt 1 1923 
+find Symmetric.txt 1 2029 
+faces Symmetric.txt 1 2033 
+perle Symmetric.txt 1 1743 
+touches Symmetric.txt 1 1599 
+palindrome Symmetric.txt 1 2089 
+not-biconditional Symmetric.txt 1 394 
+knowledge Symmetric.txt 1 202 
+justice Symmetric.txt 1 1045 
+with Symmetric.txt 17 15 169 425 745 787 804 942 969 1257 1291 1404 1467 1493 1783 1817 1843 1873 
+heavily Symmetric.txt 1 1006 
+proportion Symmetric.txt 2 103 116 
+3 Symmetric.txt 1 1922 
+being Symmetric.txt 3 1671 1802 2087 
+only Symmetric.txt 4 340 388 608 1275 
+explicitly Symmetric.txt 1 731 
+molecules Symmetric.txt 3 929 941 953 
+attained Symmetric.txt 1 1056 
+piano Symmetric.txt 1 1574 
+achieve Symmetric.txt 1 1380 
+equilibrium Symmetric.txt 1 1049 
+do Symmetric.txt 1 1782 
+his Symmetric.txt 1 597 
+klein Symmetric.txt 1 1561 
+means Symmetric.txt 1 286 
+df Symmetric.txt 1 1765 
+familiar Symmetric.txt 1 217 
+isfahan Symmetric.txt 1 1144 
+overall Symmetric.txt 2 308 1192 
+da Symmetric.txt 1 26 
+deliberative Symmetric.txt 1 1058 
+international Symmetric.txt 1 1292 
+symmetrically Symmetric.txt 1 1793 
+areas Symmetric.txt 3 401 988 1001 
+evolution Symmetric.txt 1 894 
+biconditional Symmetric.txt 1 385 
+covering Symmetric.txt 1 232 
+horizontally Symmetric.txt 1 1938 
+cyclic Symmetric.txt 2 1854 1875 
+bad Symmetric.txt 1 1276 
+architecture Symmetric.txt 5 233 1155 1161 1186 1289 
+through Symmetric.txt 4 180 183 1057 1205 
+movement Symmetric.txt 1 803 
+carpet-making Symmetric.txt 1 2003 
+set Symmetric.txt 1 447 
+art Symmetric.txt 4 234 1153 1981 1992 
+aspect Symmetric.txt 1 192 
+physically Symmetric.txt 1 2034 
+humans Symmetric.txt 2 739 2028 
+ends Symmetric.txt 1 775 
+observed Symmetric.txt 1 168 
+see Symmetric.txt 5 8 622 1560 1943 2113 
+individual Symmetric.txt 3 299 1210 1219 
+are Symmetric.txt 23 154 161 279 321 380 701 707 740 1074 1102 1109 1255 1453 1551 1576 1706 1717 1768 1824 1841 1933 1937 1977 
+sea Symmetric.txt 3 825 857 860 
+theoretic Symmetric.txt 1 196 
+lends Symmetric.txt 1 1478 
+acquires Symmetric.txt 1 1343 
+surfaces Symmetric.txt 1 1403 
+said Symmetric.txt 2 1273 1707 
+threats Symmetric.txt 1 839 
+ways Symmetric.txt 1 1184 
+pattern Symmetric.txt 2 1535 2110 
+laureate Symmetric.txt 1 591 
+wikipedia Symmetric.txt 1 1 
+symmetric Symmetric.txt 13 4 76 266 291 337 376 424 485 490 507 744 798 1128 
+halves Symmetric.txt 1 759 
+symmetria Symmetric.txt 1 98 
+determined Symmetric.txt 1 315 
+various Symmetric.txt 2 135 2080 
+embroidery Symmetric.txt 1 2010 
+between Symmetric.txt 1 928 
+invariant Symmetric.txt 2 131 1934 
+geometric Symmetric.txt 2 181 261 
+reading Symmetric.txt 1 2121 
+across Symmetric.txt 1 1553 
+preserve Symmetric.txt 1 451 
+we Symmetric.txt 2 417 1073 
+wheel-made Symmetric.txt 1 1392 
+ability Symmetric.txt 1 962 
+vertical Symmetric.txt 2 1358 1558 
+nature Symmetric.txt 7 227 519 525 580 677 931 1022 
+modify Symmetric.txt 1 1375 
+alexander Symmetric.txt 1 1887 
+however Symmetric.txt 2 1733 1829 
+tat Symmetric.txt 1 1134 
+key Symmetric.txt 1 1722 
+article Symmetric.txt 9 159 205 251 406 530 601 913 1582 2016 
+rows Symmetric.txt 1 1927 
+bronze Symmetric.txt 2 1422 1431 
+kitchen Symmetric.txt 1 1448 
+both Symmetric.txt 3 1242 1434 1554 
+essentially Symmetric.txt 1 924 
+empathy Symmetric.txt 1 1040 
+not-or Symmetric.txt 1 398 
+many Symmetric.txt 7 222 699 1523 1600 1621 1987 2005 
+region Symmetric.txt 1 20 
+8-fold Symmetric.txt 1 1147 
+plants Symmetric.txt 1 818 
+s Symmetric.txt 1 28 
+games Symmetric.txt 1 1129 
+logic Symmetric.txt 1 330 
+wheels Symmetric.txt 1 1324 
+whole Symmetric.txt 1 1695 
+finds Symmetric.txt 1 1182 
+otherwise Symmetric.txt 1 1395 
+changeunder Symmetric.txt 1 547 
+tone Symmetric.txt 2 1696 1926 
+point Symmetric.txt 1 1365 
+tunisia Symmetric.txt 1 94 
+had Symmetric.txt 1 1332 
+ca Symmetric.txt 1 31 
+each Symmetric.txt 1 1468 
+ce Symmetric.txt 3 1764 1787 1808 
+maintained Symmetric.txt 1 1120 
+arcades Symmetric.txt 1 77 
+spans Symmetric.txt 1 1509 
+consideration Symmetric.txt 1 1659 
+respect Symmetric.txt 4 170 426 746 1044 
+better Symmetric.txt 1 1088 
+arts Symmetric.txt 4 231 1137 1591 1949 
+pw Symmetric.txt 1 592 
+addition Symmetric.txt 1 1800 
+three Symmetric.txt 2 63 209 
+been Symmetric.txt 3 538 1272 1614 
+potters Symmetric.txt 1 1366 
+genetic Symmetric.txt 1 2040 
+describes Symmetric.txt 1 206 
+reflective Symmetric.txt 1 1048 
+borders Symmetric.txt 1 1531 
+mary Symmetric.txt 2 367 369 
+direction Symmetric.txt 4 765 844 1359 1710 
+corresponding Symmetric.txt 2 640 900 
+vinci Symmetric.txt 1 27 
+c Symmetric.txt 1 1818 
+observe Symmetric.txt 1 1019 
+external Symmetric.txt 2 1193 2123 
+rise:fall Symmetric.txt 1 2109 
+assessments Symmetric.txt 1 1037 
+an Symmetric.txt 6 128 191 282 288 1657 1753 
+those Symmetric.txt 1 1408 
+applied Symmetric.txt 2 434 987 
+diatonic Symmetric.txt 3 1682 1731 1851 
+these Symmetric.txt 4 143 1000 1035 1899 
+originate Symmetric.txt 1 581 
+appearance Symmetric.txt 1 903 
+as Symmetric.txt 34 36 176 190 356 366 374 506 511 570 644 824 871 1094 1131 1198 1223 1229 1266 1268 1424 1426 1451 1616 1624 1680 1693 1719 1736 1796 1864 1885 1997 2054 2106 
+rectangular Symmetric.txt 3 1494 1521 1538 
+will Symmetric.txt 2 469 1848 
+cast Symmetric.txt 1 1383 
+while Symmetric.txt 2 1078 1350 
+undergirds Symmetric.txt 1 923 
+property Symmetric.txt 3 442 454 891 
+inspired Symmetric.txt 1 588 
+rba Symmetric.txt 1 350 
+at Symmetric.txt 2 1187 1895 
+seven Symmetric.txt 1 1831 
+aesthetics Symmetric.txt 2 2013 2025 
+motif Symmetric.txt 1 1438 
+century Symmetric.txt 1 1429 
+diminished-diminished Symmetric.txt 1 1704 
+is Symmetric.txt 32 33 69 130 241 265 290 294 314 336 352 357 362 370 423 544 603 607 617 638 728 847 868 875 895 917 1050 1548 1585 1655 1809 2026 2045 
+thus Symmetric.txt 3 351 1798 1827 
+it Symmetric.txt 8 268 504 571 606 922 1177 1270 2036 
+equal Symmetric.txt 1 1819 
+reads Symmetric.txt 1 2094 
+itself Symmetric.txt 2 203 1479 
+properties Symmetric.txt 2 671 881 
+in Symmetric.txt 78 41 81 93 100 105 119 157 211 224 229 244 247 281 329 413 461 467 482 487 492 499 502 516 524 526 532 535 582 584 596 626 651 676 680 711 717 722 763 849 862 872 909 930 955 981 985 1014 1030 1127 1135 1154 1175 1243 1247 1302 1347 1356 1420 1445 1486 1504 1564 1594 1639 1660 1752 1799 1857 1878 1947 1957 1991 2012 2032 2072 2079 2082 2107 
+everyday Symmetric.txt 1 106 
+if Symmetric.txt 8 267 292 338 341 360 386 389 432 
+binary Symmetric.txt 1 377 
+different Symmetric.txt 2 604 1769 
+border Symmetric.txt 1 1443 
+make Symmetric.txt 2 1237 2069 
+same Symmetric.txt 7 354 364 372 1077 1773 1897 2096 
+rugs Symmetric.txt 3 1489 1525 1539 
+textile Symmetric.txt 1 2008 
+parts Symmetric.txt 1 906 
+widely Symmetric.txt 1 598 
+9 Symmetric.txt 1 1459 
+finite Symmetric.txt 1 73 
+composition Symmetric.txt 1 1909 
+wheel Symmetric.txt 2 1314 1342 
+used Symmetric.txt 10 35 730 870 1410 1417 1517 1615 1630 1643 1745 
+keys Symmetric.txt 2 1575 1757 
+swell Symmetric.txt 1 1627 
+urchins Symmetric.txt 1 858 
+upon Symmetric.txt 1 1360 
+mutual Symmetric.txt 1 1059 
+uses Symmetric.txt 2 7 1321 
+purpose Symmetric.txt 1 801 
+mirror-symmetric Symmetric.txt 1 703 
+invariance Symmetric.txt 2 542 1650 
+opportunity Symmetric.txt 1 1399 
+tradition Symmetric.txt 1 1498 
+identity Symmetric.txt 1 1779 
+cycle Symmetric.txt 2 1837 1845 
+relies Symmetric.txt 1 1294 
+lower Symmetric.txt 1 770 
+reflection Symmetric.txt 2 138 1264 
+tessellation Symmetric.txt 1 1990 
+i Symmetric.txt 1 1085 
+changes Symmetric.txt 1 897 
+floor Symmetric.txt 1 1211 
+well Symmetric.txt 1 1267 
+1972 Symmetric.txt 1 600 
+non Symmetric.txt 1 1759 
+patterns Symmetric.txt 7 523 1259 1373 1405 1419 1508 2011 
+sets Symmetric.txt 1 1931 
+coordinate Symmetric.txt 1 555 
+the Symmetric.txt 119 18 22 42 48 82 89 172 215 230 237 254 302 307 310 317 319 325 353 363 371 414 436 444 446 456 484 496 563 589 611 618 662 665 670 673 724 748 753 783 794 800 850 852 864 880 883 896 902 934 947 950 961 986 993 1008 1020 1051 1070 1076 1083 1099 1136 1139 1164 1166 1173 1191 1202 1206 1209 1216 1230 1234 1253 1319 1357 1376 1387 1412 1427 1476 1482 1500 1542 1555 1572 1579 1589 1595 1603 1625 1644 1661 1681 1685 1694 1721 1772 1775 1805 1814 1836 1844 1850 1858 1874 1879 1892 1896 1902 1906 1958 1980 1986 2020 2046 2088 2095 2108 
+chemistry Symmetric.txt 3 910 920 983 
+musical Symmetric.txt 2 1609 1974 
+left Symmetric.txt 2 756 779 
+spherical Symmetric.txt 1 12 
+chord Symmetric.txt 3 1687 1699 1703 
+excessive Symmetric.txt 1 2049 
+judgments Symmetric.txt 1 1066 
+less Symmetric.txt 2 743 1729 
+kairouan Symmetric.txt 1 86 
+dyads Symmetric.txt 1 1795 
+effects Symmetric.txt 1 972 
+shape Symmetric.txt 6 54 68 262 309 1327 1355 
+human Symmetric.txt 1 43 
+paul Symmetric.txt 2 361 375 
+previous Symmetric.txt 1 415 
+family Symmetric.txt 3 1791 1807 1816 
+non-diatonic Symmetric.txt 1 1828 
+golden Symmetric.txt 1 1100 
+tenney Symmetric.txt 1 1638 
+simple Symmetric.txt 2 1122 2085 
+onwards Symmetric.txt 1 1370 
+attractive Symmetric.txt 1 2035 
+theorem Symmetric.txt 1 624 
+functionality Symmetric.txt 1 1732 
+has Symmetric.txt 13 56 122 256 537 559 572 1146 1169 1178 1271 1331 1613 1780 
+transformation Symmetric.txt 3 296 328 551 
+momentum Symmetric.txt 1 647 
+identical Symmetric.txt 1 276 
+gustav Symmetric.txt 1 1865 
+aspects Symmetric.txt 1 1601 
+read Symmetric.txt 1 599 
+early Symmetric.txt 1 1425 
+game Symmetric.txt 1 1123 
+facial Symmetric.txt 1 720 
+using Symmetric.txt 2 1261 1340 
+wings Symmetric.txt 1 1297 
+apart Symmetric.txt 1 152 
+vertically Symmetric.txt 1 1942 
+like Symmetric.txt 2 53 1252 
+vitruvian Symmetric.txt 1 29 
+signal Symmetric.txt 1 1901 
+piece Symmetric.txt 1 1470 
+shapes Symmetric.txt 2 735 2060 
+arbitrary Symmetric.txt 1 554 
+translated Symmetric.txt 1 1442 
+become Symmetric.txt 2 560 573 
+works Symmetric.txt 1 1859 
+therapeutic Symmetric.txt 1 967 
+mathematical Symmetric.txt 5 164 421 430 635 1009 
+right Symmetric.txt 2 758 782 
+often Symmetric.txt 5 34 708 815 827 1023 
+classical Symmetric.txt 1 1640 
+people Symmetric.txt 3 223 1018 2058 
+creation Symmetric.txt 1 1604 
+some Symmetric.txt 3 441 1117 2063 
+under Symmetric.txt 2 1935 1940 
+bach Symmetric.txt 1 1642 
+added Symmetric.txt 1 1372 
+connectives Symmetric.txt 1 379 
+examples Symmetric.txt 2 476 1965 
+extended Symmetric.txt 1 1908 
+composers Symmetric.txt 3 1622 1734 1862 
+specific Symmetric.txt 3 926 1065 1730 
+scale Symmetric.txt 4 1189 1683 1697 1853 
+reflectional Symmetric.txt 1 57 
+dimensions Symmetric.txt 1 101 
+for Symmetric.txt 9 5 221 359 552 632 799 1133 1415 2048 
+opposite Symmetric.txt 1 238 
+fivefold Symmetric.txt 1 845 
+minimal Symmetric.txt 1 970 
+be Symmetric.txt 8 150 167 270 1055 1096 1119 2052 2077 
+biology Symmetric.txt 4 712 718 723 863 
+who Symmetric.txt 1 1409 
+meanings Symmetric.txt 1 145 
+bold Symmetric.txt 1 1518 
+power Symmetric.txt 1 1107 
+bc Symmetric.txt 1 1430 
+clay Symmetric.txt 2 1308 1328 
+agreement Symmetric.txt 1 99 
+although Symmetric.txt 1 142 
+inherent Symmetric.txt 1 1388 
+peer Symmetric.txt 1 1091 
+refers Symmetric.txt 1 108 
+by Symmetric.txt 8 46 71 316 324 1098 1121 1620 1631 
+perspectives Symmetric.txt 1 210 
+on Symmetric.txt 8 1007 1104 1111 1279 1296 1311 1571 1912 
+central Symmetric.txt 1 1978 
+extension Symmetric.txt 1 47 
+portico Symmetric.txt 1 80 
+universe Symmetric.txt 1 50 
+based Symmetric.txt 3 1103 1110 1911 
+discussed Symmetric.txt 1 162 
+quartet Symmetric.txt 1 1920 
+greatly Symmetric.txt 1 627 
+dialog Symmetric.txt 1 1043 
+rug Symmetric.txt 2 1492 1507 
+lacked Symmetric.txt 1 1386 
+kaleidoscope Symmetric.txt 1 1449 
+slightly Symmetric.txt 1 609 
+or Symmetric.txt 25 140 263 274 323 382 383 384 392 395 399 646 742 830 838 1461 1668 1684 1690 1700 1711 1723 1758 1928 2056 2098 
+block Symmetric.txt 2 1450 1466 
+plan Symmetric.txt 1 1176 
+own Symmetric.txt 1 472 
+modernists Symmetric.txt 1 1883 
+follows Symmetric.txt 1 1797 
+instruments Symmetric.txt 1 1975 
+into Symmetric.txt 3 272 755 1185 
+rotations Symmetric.txt 1 1269 
+functional Symmetric.txt 1 187 
+due Symmetric.txt 1 102 
+down Symmetric.txt 1 1214 
+doesnt Symmetric.txt 1 305 
+references Symmetric.txt 1 2118 
+determine Symmetric.txt 1 669 
+rely Symmetric.txt 1 1278 
+statistics Symmetric.txt 1 503 
+fabric Symmetric.txt 1 1474 
+area Symmetric.txt 1 1010 
+governed Symmetric.txt 1 1097 
+there Symmetric.txt 2 293 637 
+long Symmetric.txt 1 1497 
+anderson Symmetric.txt 1 593 
+way Symmetric.txt 2 318 1755 
+forward Symmetric.txt 1 1715 
+cultures Symmetric.txt 1 1513 
+translate Symmetric.txt 1 1533 
+was Symmetric.txt 1 1916 
+synthesis Symmetric.txt 1 958 
+pottery Symmetric.txt 6 1303 1313 1323 1330 1338 1393 
+head Symmetric.txt 2 772 784 
+form Symmetric.txt 5 458 629 1610 1628 1870 
+offer Symmetric.txt 1 966 
+pitches Symmetric.txt 1 1678 
+but Symmetric.txt 3 304 1394 2065 
+berg Symmetric.txt 1 1738 
+link Symmetric.txt 1 1872 
+true Symmetric.txt 2 344 348 
+lilies Symmetric.txt 1 861 
+made Symmetric.txt 3 1260 1454 1672 
+arranged Symmetric.txt 2 280 709 
+romantic Symmetric.txt 1 1861 
+evident Symmetric.txt 1 574 
+chords Symmetric.txt 2 1666 1691 
+attached Symmetric.txt 1 821 
+up Symmetric.txt 1 1673 
+scriabin Symmetric.txt 1 1888 
+escher Symmetric.txt 1 1984 
+stories Symmetric.txt 1 2100 
+decorate Symmetric.txt 1 1401 
+spectroscopy Symmetric.txt 1 990 
+objectives Symmetric.txt 1 1382 
+similar Symmetric.txt 1 1398 
+called Symmetric.txt 1 88 
+interventions Symmetric.txt 1 968 
+abstract Symmetric.txt 2 194 488 
+describe Symmetric.txt 2 733 879 
+am Symmetric.txt 1 1086 
+asymmetrically Symmetric.txt 1 710 
+general Symmetric.txt 2 462 1062 
+conserved Symmetric.txt 2 641 649 
+beadwork Symmetric.txt 1 1967 
+rule Symmetric.txt 2 75 1101 
+file Symmetric.txt 1 1583 
+moves Symmetric.txt 1 298 
+distributions Symmetric.txt 2 509 515 
+triangles Symmetric.txt 1 1475 
+physical Symmetric.txt 3 697 1003 2018 
+batik Symmetric.txt 1 2001 
+functions Symmetric.txt 1 481 
+variety Symmetric.txt 2 1032 1511 
+tit Symmetric.txt 1 1132 
+galois Symmetric.txt 2 497 500 
+whereas Symmetric.txt 1 1106 
+when Symmetric.txt 1 433 
+bartk Symmetric.txt 3 1635 1740 1886 
+lotfollah Symmetric.txt 2 1142 1235 
+application Symmetric.txt 2 996 1483 
+other Symmetric.txt 5 6 184 400 1776 1948 
+role Symmetric.txt 2 587 1593 
+ornamented Symmetric.txt 1 1256 
+spatial Symmetric.txt 1 178 
+mathematics Symmetric.txt 8 120 212 245 403 408 468 1151 1159 
+you Symmetric.txt 1 1090 
+elements Symmetric.txt 2 811 1221 
+kinds Symmetric.txt 3 185 1964 2006 
+provided Symmetric.txt 1 1396 
+models Symmetric.txt 1 197 
+forwards Symmetric.txt 1 2097 
+categories Symmetric.txt 2 2126 2128 
+inherently Symmetric.txt 2 943 1362 
+includes Symmetric.txt 1 855 
+important Symmetric.txt 3 678 918 1658 
+allowing Symmetric.txt 1 1351 
+formal Symmetric.txt 1 1618 
+m.c Symmetric.txt 1 1983 
+sides Symmetric.txt 1 771 
+structure Symmetric.txt 3 466 1245 2105 
+building Symmetric.txt 1 1220 
+edgard Symmetric.txt 1 1889 
+subdivision Symmetric.txt 1 74 
+bilateral Symmetric.txt 4 736 1170 1436 2030 
+apology Symmetric.txt 1 1042 
+practically Symmetric.txt 1 576 
+starting Symmetric.txt 2 1290 1364 
+age Symmetric.txt 3 355 365 373 
+interval Symmetric.txt 3 1750 1774 1822 
+together Symmetric.txt 1 163 
+craft Symmetric.txt 2 1477 1994 
+bergs Symmetric.txt 1 1919 
+time Symmetric.txt 2 175 1898 
+laws Symmetric.txt 2 578 666 
+mosaics Symmetric.txt 1 1225 
+original Symmetric.txt 1 653 
+augmented Symmetric.txt 1 1698 

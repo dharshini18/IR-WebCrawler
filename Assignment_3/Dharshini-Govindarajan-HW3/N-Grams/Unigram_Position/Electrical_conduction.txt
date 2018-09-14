@@ -1,0 +1,1066 @@
+secondly Electrical_conduction.txt 1 1356 
+all Electrical_conduction.txt 8 270 703 887 983 995 2573 3059 3109 
+concept Electrical_conduction.txt 1 2044 
+partial Electrical_conduction.txt 1 3792 
+limited Electrical_conduction.txt 1 1734 
+caused Electrical_conduction.txt 2 1328 1336 
+forbidden Electrical_conduction.txt 1 1038 
+ceramic Electrical_conduction.txt 1 1797 
+desirable Electrical_conduction.txt 1 3888 
+resistance Electrical_conduction.txt 32 32 43 122 269 294 368 371 401 422 484 1270 1307 1320 1325 1394 1430 1436 1511 1516 1568 1594 1704 1753 1758 2890 3029 3200 3271 3292 3695 3711 3733 
+leads Electrical_conduction.txt 1 2369 
+scalar Electrical_conduction.txt 1 3612 
+ionize Electrical_conduction.txt 1 2394 
+go Electrical_conduction.txt 2 888 2597 
+spaced Electrical_conduction.txt 1 802 
+worked Electrical_conduction.txt 1 3808 
+causes Electrical_conduction.txt 6 652 1020 1202 1306 1351 2224 
+poorly Electrical_conduction.txt 1 3927 
+layers Electrical_conduction.txt 2 2091 2250 
+increase Electrical_conduction.txt 2 1536 3295 
+inverse Electrical_conduction.txt 3 510 598 3679 
+calculate Electrical_conduction.txt 1 2145 
+high-resistivity Electrical_conduction.txt 1 326 
+electricity Electrical_conduction.txt 1 1447 
+subjected Electrical_conduction.txt 1 2630 
+1947 Electrical_conduction.txt 1 2567 
+to Electrical_conduction.txt 72 153 369 413 453 493 530 577 744 748 758 864 874 889 910 929 950 1015 1058 1064 1075 1131 1182 1204 1257 1386 1416 1464 1518 1545 1697 1761 1847 1928 2020 2057 2129 2144 2155 2227 2312 2364 2370 2440 2456 2631 2724 2817 2940 3057 3117 3134 3143 3171 3246 3294 3299 3327 3346 3384 3400 3411 3432 3506 3597 3609 3635 3693 3803 3859 3864 3884 3948 
+charge Electrical_conduction.txt 7 1522 1539 1629 2083 2095 2123 2255 
+behave Electrical_conduction.txt 2 1573 3314 
+stable Electrical_conduction.txt 1 3960 
+microscopically Electrical_conduction.txt 1 3575 
+magnetic Electrical_conduction.txt 2 2233 2272 
+alternating Electrical_conduction.txt 2 3385 3507 
+applied Electrical_conduction.txt 2 1194 2634 
+worse Electrical_conduction.txt 1 2701 
+metallically Electrical_conduction.txt 1 1574 
+far Electrical_conduction.txt 3 313 3254 3958 
+rise Electrical_conduction.txt 1 1463 
+wave Electrical_conduction.txt 1 1297 
+electron Electrical_conduction.txt 8 1296 1409 1891 1952 2164 2661 2668 2878 
+every Electrical_conduction.txt 1 301 
+affect Electrical_conduction.txt 1 1434 
+difference Electrical_conduction.txt 2 1190 2361 
+matrices Electrical_conduction.txt 1 3652 
+fourth Electrical_conduction.txt 1 2287 
+common Electrical_conduction.txt 1 2126 
+discovered Electrical_conduction.txt 1 1792 
+squares Electrical_conduction.txt 1 3445 
+resistivity-density Electrical_conduction.txt 1 3939 
+reciprocal Electrical_conduction.txt 2 144 191 
+level Electrical_conduction.txt 13 716 730 747 908 920 926 947 1007 1083 1098 1452 1476 2496 
+notes Electrical_conduction.txt 1 3997 
+steeply Electrical_conduction.txt 1 3269 
+solution Electrical_conduction.txt 4 2377 2397 2461 3802 
+large Electrical_conduction.txt 9 608 615 638 794 2064 2210 2360 2610 2849 
+these Electrical_conduction.txt 7 124 788 816 1835 2300 2639 3804 
+sand Electrical_conduction.txt 2 365 383 
+carrier Electrical_conduction.txt 2 1523 1540 
+tens Electrical_conduction.txt 2 2100 2259 
+small Electrical_conduction.txt 7 610 636 642 1218 1687 2038 2188 
+biological Electrical_conduction.txt 1 1679 
+293 Electrical_conduction.txt 1 2485 
+says Electrical_conduction.txt 2 2048 3025 
+insignificant Electrical_conduction.txt 1 3325 
+matthiessen Electrical_conduction.txt 1 3021 
+prevents Electrical_conduction.txt 1 2201 
+jump Electrical_conduction.txt 1 958 
+consists Electrical_conduction.txt 2 1140 3574 
+second Electrical_conduction.txt 1 192 
+cost Electrical_conduction.txt 1 3986 
+tidily Electrical_conduction.txt 1 2549 
+traveling Electrical_conduction.txt 1 1624 
+pouillets Electrical_conduction.txt 1 415 
+further Electrical_conduction.txt 1 4001 
+dynamics Electrical_conduction.txt 1 2264 
+linear Electrical_conduction.txt 4 2738 2760 2799 2853 
+even Electrical_conduction.txt 7 612 640 1740 2730 3213 3466 3702 
+index Electrical_conduction.txt 1 3662 
+what Electrical_conduction.txt 3 1019 2021 2651 
+opaque Electrical_conduction.txt 1 3539 
+giving Electrical_conduction.txt 1 1462 
+pipes Electrical_conduction.txt 3 354 398 406 
+near Electrical_conduction.txt 5 742 944 1004 1095 1741 
+expressed Electrical_conduction.txt 1 3460 
+uniform Electrical_conduction.txt 4 201 221 226 536 
+current Electrical_conduction.txt 18 63 77 157 230 323 339 539 563 582 623 649 1185 1389 1774 2656 3582 3617 3750 
+7002273149999999999 Electrical_conduction.txt 1 2532 
+above Electrical_conduction.txt 6 408 438 526 1461 1814 3728 
+conduct Electrical_conduction.txt 2 154 1183 
+obvious Electrical_conduction.txt 1 3754 
+net Electrical_conduction.txt 1 2122 
+increasing Electrical_conduction.txt 3 433 1564 3165 
+filled Electrical_conduction.txt 5 705 709 915 975 2606 
+can Electrical_conduction.txt 17 410 450 813 825 956 1279 1782 1943 1991 2081 2097 2236 2722 2881 3030 3336 3806 
+satisfy Electrical_conduction.txt 1 2134 
+full Electrical_conduction.txt 3 335 363 1620 
+simultaneously Electrical_conduction.txt 1 3013 
+measurements Electrical_conduction.txt 3 2430 2978 2993 
+degree Electrical_conduction.txt 1 2353 
+doing Electrical_conduction.txt 1 3185 
+pushing Electrical_conduction.txt 2 330 346 
+component Electrical_conduction.txt 5 3421 3427 3489 3496 3659 
+dissipates Electrical_conduction.txt 1 2194 
+here Electrical_conduction.txt 2 676 1667 
+atoms Electrical_conduction.txt 6 1145 1159 1535 1563 1591 2585 
+water Electrical_conduction.txt 10 331 347 1642 1648 2379 2401 2420 2432 2445 3953 
+reported Electrical_conduction.txt 1 2435 
+tensors Electrical_conduction.txt 2 3647 3670 
+selective Electrical_conduction.txt 1 1696 
+let Electrical_conduction.txt 1 2592 
+separation Electrical_conduction.txt 1 2096 
+represented Electrical_conduction.txt 2 81 161 
+i.e Electrical_conduction.txt 2 2212 3536 
+100 Electrical_conduction.txt 1 1929 
+equations Electrical_conduction.txt 7 439 3551 3613 3632 3654 3794 3805 
+steinharthart Electrical_conduction.txt 2 3230 3240 
+superconductor Electrical_conduction.txt 2 1756 1830 
+acceptor Electrical_conduction.txt 1 1562 
+dry Electrical_conduction.txt 1 2733 
+paramagnons Electrical_conduction.txt 1 1904 
+33 Electrical_conduction.txt 1 3651 
+k Electrical_conduction.txt 3 1816 1844 2486 
+larger Electrical_conduction.txt 5 293 314 1371 1398 3521 
+allows Electrical_conduction.txt 2 72 1179 
+typically Electrical_conduction.txt 2 1921 2763 
+commonly Electrical_conduction.txt 3 80 160 2529 
+claude Electrical_conduction.txt 1 419 
+amount Electrical_conduction.txt 2 1063 1323 
+resulting Electrical_conduction.txt 1 1199 
+usually Electrical_conduction.txt 3 2778 3064 3977 
+narrow Electrical_conduction.txt 1 403 
+makes Electrical_conduction.txt 5 263 561 620 2033 2358 
+relation Electrical_conduction.txt 2 2137 2140 
+low-temperature Electrical_conduction.txt 1 3127 
+lowers Electrical_conduction.txt 1 1321 
+poissons Electrical_conduction.txt 1 3784 
+named Electrical_conduction.txt 2 417 1834 
+formulated Electrical_conduction.txt 1 3018 
+salt-free Electrical_conduction.txt 1 2410 
+mobility Electrical_conduction.txt 1 3302 
+semiconductors Electrical_conduction.txt 13 727 738 1052 1438 1470 1496 1533 1572 2357 3153 3251 3317 3334 
+explained Electrical_conduction.txt 1 1281 
+aluminium Electrical_conduction.txt 3 3897 3956 3975 
+highly Electrical_conduction.txt 2 1570 2381 
+shells Electrical_conduction.txt 1 2582 
+residual Electrical_conduction.txt 3 2937 3072 3095 
+decrease Electrical_conduction.txt 3 1519 1732 3268 
+movement Electrical_conduction.txt 2 1137 1663 
+inverses Electrical_conduction.txt 2 3672 3686 
+summation Electrical_conduction.txt 1 3666 
+pulls Electrical_conduction.txt 1 645 
+total Electrical_conduction.txt 2 867 3028 
+unit Electrical_conduction.txt 5 89 181 189 444 1382 
+readily Electrical_conduction.txt 1 71 
+aimlessly Electrical_conduction.txt 1 2617 
+opposes Electrical_conduction.txt 1 58 
+from Electrical_conduction.txt 19 6 436 551 902 1128 1156 1589 2149 2204 2299 2572 2794 2976 2990 3263 3321 3342 3594 3715 
+0 Electrical_conduction.txt 2 1501 2533 
+distinct Electrical_conduction.txt 1 2298 
+positive Electrical_conduction.txt 3 1171 1208 2061 
+behind Electrical_conduction.txt 1 3188 
+two Electrical_conduction.txt 4 117 1331 2565 3961 
+emits Electrical_conduction.txt 1 1933 
+few Electrical_conduction.txt 1 2258 
+sample Electrical_conduction.txt 2 1746 2415 
+wood Electrical_conduction.txt 3 2672 2692 2734 
+call Electrical_conduction.txt 1 2653 
+therefore Electrical_conduction.txt 1 1426 
+impurity-free Electrical_conduction.txt 1 2413 
+electrolytic Electrical_conduction.txt 1 1606 
+type Electrical_conduction.txt 1 3081 
+more Electrical_conduction.txt 13 545 1309 1379 2367 2657 2859 3006 3255 3526 3538 3723 3849 3959 
+solvated Electrical_conduction.txt 1 1676 
+conductor Electrical_conduction.txt 9 594 1377 1421 1425 1653 1716 1750 3862 3989 
+substances Electrical_conduction.txt 1 2570 
+becomes Electrical_conduction.txt 1 2517 
+site Electrical_conduction.txt 1 3345 
+dealings Electrical_conduction.txt 1 2557 
+carrying Electrical_conduction.txt 1 1626 
+investigation Electrical_conduction.txt 1 3124 
+separates Electrical_conduction.txt 1 2254 
+known Electrical_conduction.txt 8 38 1168 1902 3069 3120 3350 3708 3920 
+90 Electrical_conduction.txt 1 1815 
+cases Electrical_conduction.txt 5 3455 3720 3756 3797 3819 
+encountered Electrical_conduction.txt 1 1406 
+producing Electrical_conduction.txt 1 1550 
+must Electrical_conduction.txt 5 2112 2178 2185 3458 3761 
+high Electrical_conduction.txt 10 987 1022 1577 1821 2539 2710 2887 3882 3923 3950 
+balls Electrical_conduction.txt 2 1116 1262 
+room Electrical_conduction.txt 1 2779 
+hour Electrical_conduction.txt 1 1228 
+f Electrical_conduction.txt 2 1950 2484 
+this Electrical_conduction.txt 22 9 242 258 486 1017 1079 1165 1174 1278 1497 1731 2039 2139 2235 2468 2812 3074 3242 3348 3758 3773 3929 
+equation Electrical_conduction.txt 6 409 3231 3243 3774 3779 3785 
+tremendously Electrical_conduction.txt 1 1637 
+minimum Electrical_conduction.txt 1 1488 
+values Electrical_conduction.txt 2 772 2985 
+thin Electrical_conduction.txt 1 287 
+following Electrical_conduction.txt 1 2335 
+purer Electrical_conduction.txt 1 2418 
+metal Electrical_conduction.txt 18 1124 1139 1181 1197 1246 1361 2604 2627 2893 2903 2927 2969 3051 3083 3099 3309 3919 3979 
+drops Electrical_conduction.txt 1 1759 
+root Electrical_conduction.txt 1 3441 
+example Electrical_conduction.txt 13 100 309 463 602 1914 2127 2167 2514 3569 3615 3688 3730 3890 
+history Electrical_conduction.txt 2 3090 3150 
+ions Electrical_conduction.txt 5 1366 1623 1665 1677 1699 
+links Electrical_conduction.txt 1 4005 
+frequency-dependent Electrical_conduction.txt 1 3513 
+thermally Electrical_conduction.txt 3 750 1582 3329 
+choice Electrical_conduction.txt 2 3972 3981 
+magnitudes Electrical_conduction.txt 1 3447 
+table Electrical_conduction.txt 1 2469 
+now Electrical_conduction.txt 1 3770 
+dependence Electrical_conduction.txt 4 2736 2908 2921 3219 
+states Electrical_conduction.txt 9 668 687 704 877 963 972 989 1094 2304 
+indicates Electrical_conduction.txt 1 67 
+cross-section Electrical_conduction.txt 3 202 537 1399 
+sandwhile Electrical_conduction.txt 1 337 
+purity Electrical_conduction.txt 2 2495 3087 
+allowed Electrical_conduction.txt 1 798 
+exclude Electrical_conduction.txt 1 3968 
+onness Electrical_conduction.txt 1 3137 
+species Electrical_conduction.txt 2 1622 2392 
+salts Electrical_conduction.txt 3 1673 1686 2388 
+absolute Electrical_conduction.txt 3 1742 3264 3852 
+carriers Electrical_conduction.txt 6 1584 3274 3290 3304 3320 3331 
+rather Electrical_conduction.txt 4 773 1674 2588 3901 
+conversely Electrical_conduction.txt 1 3452 
+travel Electrical_conduction.txt 2 1161 2616 
+means Electrical_conduction.txt 4 883 1498 2116 2143 
+occur Electrical_conduction.txt 1 3337 
+1 Electrical_conduction.txt 8 103 105 107 127 135 467 470 3694 
+how Electrical_conduction.txt 3 53 1989 2409 
+varies Electrical_conduction.txt 3 1636 2491 2846 
+occasionally Electrical_conduction.txt 1 177 
+resistivities Electrical_conduction.txt 1 2346 
+adjacent Electrical_conduction.txt 1 239 
+instead Electrical_conduction.txt 2 895 3630 
+ordinary Electrical_conduction.txt 1 1724 
+parameter Electrical_conduction.txt 2 2788 2792 
+profile Electrical_conduction.txt 1 3258 
+product Electrical_conduction.txt 1 3877 
+continues Electrical_conduction.txt 1 1517 
+description Electrical_conduction.txt 2 2666 3502 
+may Electrical_conduction.txt 6 1036 1954 3618 3689 3717 3826 
+after Electrical_conduction.txt 3 418 2291 3280 
+space Electrical_conduction.txt 2 1980 2000 
+movable Electrical_conduction.txt 1 1105 
+diagram Electrical_conduction.txt 1 240 
+applications Electrical_conduction.txt 3 26 3391 3835 
+produce Electrical_conduction.txt 1 2156 
+waves Electrical_conduction.txt 3 1303 1901 1936 
+such Electrical_conduction.txt 9 797 828 1726 1819 2243 2712 2828 3392 3454 
+law Electrical_conduction.txt 2 416 2914 
+data Electrical_conduction.txt 2 2350 2796 
+response Electrical_conduction.txt 2 3381 3505 
+types Electrical_conduction.txt 3 19 671 1558 
+a Electrical_conduction.txt 113 48 55 64 68 102 150 204 220 225 285 291 296 312 319 325 333 341 424 459 465 473 535 544 559 605 613 633 641 646 689 733 793 832 977 1066 1086 1118 1123 1138 1142 1170 1191 1225 1264 1290 1391 1412 1650 1714 1744 1748 1755 1777 1811 1820 1828 1888 2008 2024 2125 2142 2157 2175 2257 2329 2359 2365 2376 2460 2462 2603 2609 2620 2626 2664 2694 2708 2759 2774 2826 2836 2848 2858 2883 2892 2902 2912 2926 2943 2945 3066 3098 3202 3224 3233 3253 3308 3404 3419 3462 3468 3487 3510 3517 3570 3577 3677 3789 3868 3873 3881 3922 3988 
+transposed Electrical_conduction.txt 1 412 
+short Electrical_conduction.txt 2 298 395 
+liquid Electrical_conduction.txt 1 1839 
+beam Electrical_conduction.txt 1 2165 
+light Electrical_conduction.txt 2 1252 1934 
+approximation Electrical_conduction.txt 7 2507 2739 2761 2800 2804 2854 3215 
+lines Electrical_conduction.txt 1 3896 
+rank-2 Electrical_conduction.txt 1 3646 
+element Electrical_conduction.txt 2 487 3824 
+greek Electrical_conduction.txt 3 84 164 247 
+si Electrical_conduction.txt 4 88 180 443 515 
+interior Electrical_conduction.txt 1 2601 
+negligible Electrical_conduction.txt 1 1136 
+sensitively Electrical_conduction.txt 1 2685 
+shade Electrical_conduction.txt 1 697 
+affecting Electrical_conduction.txt 1 2206 
+order Electrical_conduction.txt 1 1221 
+talk Electrical_conduction.txt 1 814 
+typical Electrical_conduction.txt 1 3203 
+holds Electrical_conduction.txt 1 2834 
+words Electrical_conduction.txt 1 3650 
+numbers Electrical_conduction.txt 1 3472 
+volts Electrical_conduction.txt 1 1931 
+over Electrical_conduction.txt 5 1586 2063 2209 2256 2847 
+move Electrical_conduction.txt 2 951 1016 
+mainly Electrical_conduction.txt 1 1330 
+meter Electrical_conduction.txt 2 1226 2452 
+produced Electrical_conduction.txt 1 1809 
+held Electrical_conduction.txt 1 1864 
+thermal Electrical_conduction.txt 2 3089 3177 
+experiments Electrical_conduction.txt 1 3138 
+through Electrical_conduction.txt 12 324 332 340 348 542 625 650 1162 1244 1299 1411 3586 
+nitrogen Electrical_conduction.txt 1 1840 
+differs Electrical_conduction.txt 1 2327 
+existence Electrical_conduction.txt 1 2220 
+cold Electrical_conduction.txt 2 1845 1854 
+still Electrical_conduction.txt 1 1883 
+its Electrical_conduction.txt 9 179 304 1769 2010 2384 2636 2682 3086 3103 
+chemical Electrical_conduction.txt 1 2391 
+outer Electrical_conduction.txt 2 1149 2581 
+exclusion Electrical_conduction.txt 1 881 
+termed Electrical_conduction.txt 1 2023 
+energies Electrical_conduction.txt 2 786 811 
+exact Electrical_conduction.txt 2 3747 3799 
+50,000 Electrical_conduction.txt 1 1949 
+decreases Electrical_conduction.txt 5 431 1595 1717 3163 3208 
+better Electrical_conduction.txt 1 3214 
+attraction Electrical_conduction.txt 1 1870 
+absence Electrical_conduction.txt 1 381 
+categories Electrical_conduction.txt 2 4007 4009 
+insulator Electrical_conduction.txt 4 1446 1646 2680 2702 
+persist Electrical_conduction.txt 1 1783 
+hidden Electrical_conduction.txt 1 4008 
+main Electrical_conduction.txt 6 1442 1603 1707 1907 2343 3155 
+spreading Electrical_conduction.txt 1 3732 
+versus Electrical_conduction.txt 1 3696 
+then Electrical_conduction.txt 3 128 482 3872 
+them Electrical_conduction.txt 1 543 
+good Electrical_conduction.txt 3 1961 2028 2679 
+affected Electrical_conduction.txt 1 2231 
+energy-spacei.e Electrical_conduction.txt 1 806 
+3 Electrical_conduction.txt 1 3364 
+matches Electrical_conduction.txt 1 2980 
+material Electrical_conduction.txt 26 57 69 112 133 208 236 302 327 343 426 498 560 606 634 694 833 871 1238 1413 1765 2499 3535 3541 3603 3737 3878 
+differential Electrical_conduction.txt 1 3793 
+units Electrical_conduction.txt 1 516 
+heike Electrical_conduction.txt 1 3135 
+repulsive Electrical_conduction.txt 1 2191 
+they Electrical_conduction.txt 5 885 3180 3266 3313 3561 
+not Electrical_conduction.txt 13 374 767 1103 1612 1852 2161 2755 3077 3606 3619 3684 3690 3753 
+augustus Electrical_conduction.txt 1 3020 
+silver Electrical_conduction.txt 3 1730 2542 3912 
+bumped Electrical_conduction.txt 1 3170 
+short-range Electrical_conduction.txt 1 1899 
+easily Electrical_conduction.txt 3 957 3585 3593 
+finite Electrical_conduction.txt 1 3823 
+gamow Electrical_conduction.txt 1 2548 
+edit Electrical_conduction.txt 25 196 203 524 655 659 756 1114 1441 1602 1706 1906 2342 2737 2740 2868 3154 3377 3555 3701 3832 3996 3998 4000 4003 4006 
+loosely Electrical_conduction.txt 1 2589 
+normally Electrical_conduction.txt 1 2454 
+sufficiently Electrical_conduction.txt 3 2709 3053 3113 
+filling Electrical_conduction.txt 1 664 
+newtons Electrical_conduction.txt 2 1119 1265 
+reasonable Electrical_conduction.txt 1 1651 
+each Electrical_conduction.txt 5 1146 1293 1625 3039 3587 
+pouillet Electrical_conduction.txt 1 420 
+defects Electrical_conduction.txt 1 1739 
+amperes Electrical_conduction.txt 1 1925 
+tensor Electrical_conduction.txt 2 3550 3638 
+activate Electrical_conduction.txt 1 1848 
+7000100000000000000 Electrical_conduction.txt 2 466 469 
+weight Electrical_conduction.txt 2 3838 3984 
+populated Electrical_conduction.txt 1 751 
+generation Electrical_conduction.txt 1 2246 
+energy Electrical_conduction.txt 23 679 691 771 779 799 817 822 829 858 868 876 907 942 971 988 1002 1041 1042 1047 1072 1127 3174 3178 
+related Electrical_conduction.txt 1 2311 
+insulation Electrical_conduction.txt 1 2725 
+conductance Electrical_conduction.txt 5 34 141 2438 3883 3911 
+used Electrical_conduction.txt 10 178 452 2404 2455 2509 2764 2866 3245 3900 3944 
+calibrate Electrical_conduction.txt 1 3247 
+measure Electrical_conduction.txt 2 2457 3930 
+quantum Electrical_conduction.txt 3 760 1275 3340 
+approximated Electrical_conduction.txt 1 3032 
+summary Electrical_conduction.txt 1 2464 
+special Electrical_conduction.txt 2 2087 3796 
+out Electrical_conduction.txt 1 3809 
+travels Electrical_conduction.txt 1 1298 
+impurity Electrical_conduction.txt 2 1358 3104 
+driving Electrical_conduction.txt 1 3992 
+factors Electrical_conduction.txt 2 852 1332 
+since Electrical_conduction.txt 2 953 1089 
+cuprate Electrical_conduction.txt 1 1795 
+hydraulic Electrical_conduction.txt 1 320 
+semiconductor Electrical_conduction.txt 5 1444 3157 3161 3207 3225 
+replacing Electrical_conduction.txt 1 1283 
+mediated Electrical_conduction.txt 2 1871 1897 
+formula Electrical_conduction.txt 3 449 2933 3727 
+dominate Electrical_conduction.txt 1 1585 
+cause Electrical_conduction.txt 2 1367 2239 
+shows Electrical_conduction.txt 2 1751 2470 
+theory Electrical_conduction.txt 4 657 663 1032 1460 
+interactions Electrical_conduction.txt 1 2880 
+million Electrical_conduction.txt 1 1930 
+differ Electrical_conduction.txt 1 2571 
+free Electrical_conduction.txt 6 949 1465 1506 2598 2640 2660 
+20 Electrical_conduction.txt 2 2481 2501 
+reason Electrical_conduction.txt 2 254 2813 
+complicated Electrical_conduction.txt 3 3256 3699 3724 
+besides Electrical_conduction.txt 1 850 
+usual Electrical_conduction.txt 1 2816 
+measurement Electrical_conduction.txt 1 2795 
+generate Electrical_conduction.txt 1 2228 
+definition Electrical_conduction.txt 4 195 523 527 549 
+pairs Electrical_conduction.txt 1 1867 
+interaction Electrical_conduction.txt 1 3004 
+persons Electrical_conduction.txt 1 2624 
+starts Electrical_conduction.txt 2 550 3293 
+transition Electrical_conduction.txt 1 1822 
+so Electrical_conduction.txt 3 1831 3055 3186 
+times Electrical_conduction.txt 2 984 996 
+creates Electrical_conduction.txt 1 584 
+length Electrical_conduction.txt 6 389 429 1383 1418 2079 2217 
+exponentially Electrical_conduction.txt 2 1596 3209 
+pure Electrical_conduction.txt 1 2444 
+hence Electrical_conduction.txt 1 1569 
+liquids Electrical_conduction.txt 2 1657 2293 
+ionic Electrical_conduction.txt 5 1172 1600 1633 1656 1685 
+first Electrical_conduction.txt 2 3017 3267 
+copper Electrical_conduction.txt 8 271 288 299 317 631 1728 2523 3903 
+pairing Electrical_conduction.txt 1 1892 
+suffix Electrical_conduction.txt 1 2827 
+widely Electrical_conduction.txt 1 2674 
+discharges Electrical_conduction.txt 1 1923 
+best Electrical_conduction.txt 3 1876 3938 3971 
+number Electrical_conduction.txt 11 795 838 839 979 1054 1069 1402 2330 2611 2963 3464 
+reaches Electrical_conduction.txt 1 3065 
+one Electrical_conduction.txt 10 235 722 1129 1807 2564 2593 3008 3343 3595 3729 
+channels Electrical_conduction.txt 1 1694 
+intuitively Electrical_conduction.txt 1 454 
+simplified Electrical_conduction.txt 1 658 
+approximately Electrical_conduction.txt 3 280 1482 2055 
+another Electrical_conduction.txt 2 1132 3347 
+carry Electrical_conduction.txt 1 1387 
+impossible Electrical_conduction.txt 2 791 1826 
+thick Electrical_conduction.txt 1 297 
+electronic Electrical_conduction.txt 3 667 1023 1107 
+george Electrical_conduction.txt 1 2547 
+size Electrical_conduction.txt 2 278 358 
+earths Electrical_conduction.txt 1 1919 
+given Electrical_conduction.txt 4 56 425 2929 3227 
+necessarily Electrical_conduction.txt 1 3685 
+sheet Electrical_conduction.txt 3 114 3588 3596 
+temperature Electrical_conduction.txt 34 1339 1350 1598 1720 1771 1813 1823 2475 2489 2493 2735 2749 2752 2769 2777 2780 2786 2820 2845 2850 2877 2897 2900 2907 2917 2920 2973 2988 3048 3166 3211 3218 3257 3260 
+occupy Electrical_conduction.txt 1 776 
+extrinsic Electrical_conduction.txt 2 1531 3249 
+system Electrical_conduction.txt 1 3372 
+least Electrical_conduction.txt 3 721 2698 3917 
+stack Electrical_conduction.txt 1 3578 
+their Electrical_conduction.txt 9 275 848 1134 1157 2034 2584 2595 3289 3949 
+2 Electrical_conduction.txt 1 3363 
+overhead Electrical_conduction.txt 1 3894 
+listed Electrical_conduction.txt 1 695 
+moisture Electrical_conduction.txt 1 2688 
+which Electrical_conduction.txt 5 587 911 1305 2047 3194 
+white Electrical_conduction.txt 1 706 
+perfectly Electrical_conduction.txt 1 476 
+too Electrical_conduction.txt 2 1369 2757 
+shell Electrical_conduction.txt 1 1150 
+wave-like Electrical_conduction.txt 1 1291 
+lot Electrical_conduction.txt 1 647 
+relationship Electrical_conduction.txt 1 2832 
+that Electrical_conduction.txt 27 51 70 261 554 884 965 1009 1034 1044 1153 1499 1793 1890 2089 2131 2159 2253 2317 2393 2579 2615 2714 2821 2947 2998 3026 3139 
+exactly Electrical_conduction.txt 2 1074 3622 
+dopant Electrical_conduction.txt 3 1534 1565 1590 
+environmental Electrical_conduction.txt 1 854 
+part Electrical_conduction.txt 1 1029 
+somewhat Electrical_conduction.txt 1 1884 
+1911 Electrical_conduction.txt 1 3142 
+freeze Electrical_conduction.txt 1 3058 
+than Electrical_conduction.txt 11 295 316 402 1675 2118 2214 2703 3007 3725 3851 3902 
+specify Electrical_conduction.txt 1 2818 
+wide Electrical_conduction.txt 1 397 
+b Electrical_conduction.txt 1 3234 
+quasineutral Electrical_conduction.txt 1 2162 
+effective Electrical_conduction.txt 1 2488 
+fundamental Electrical_conduction.txt 1 49 
+measured Electrical_conduction.txt 2 1993 2823 
+see Electrical_conduction.txt 8 22 30 237 660 1458 3149 3545 3994 
+ohms Electrical_conduction.txt 1 489 
+determined Electrical_conduction.txt 2 376 2114 
+empirical Electrical_conduction.txt 1 2791 
+gives Electrical_conduction.txt 1 2663 
+solely Electrical_conduction.txt 1 375 
+result Electrical_conduction.txt 1 1392 
+and Electrical_conduction.txt 75 2 33 120 148 187 217 231 277 359 390 547 589 609 637 712 726 847 985 1051 1099 1160 1285 1318 1340 1439 1445 1489 1509 1592 1700 1737 1804 1932 1937 1951 1964 2109 2229 2237 2270 2294 2301 2337 2389 2474 2494 2524 2590 2727 2781 2830 2857 2862 2961 2979 3088 3183 3235 3355 3375 3424 3450 3493 3581 3643 3664 3669 3745 3767 3782 3871 3925 3932 3954 3966 
+function Electrical_conduction.txt 1 2915 
+resistivity Electrical_conduction.txt 56 1 36 40 46 66 78 92 130 147 246 255 264 283 307 315 440 460 495 512 567 600 1631 1712 2336 2428 2472 2538 2683 2743 2772 2784 2872 2910 2924 2938 2977 3063 3073 3096 3111 3128 3162 3222 3374 3402 3423 3449 3644 3697 3706 3741 3829 3845 3854 3870 3875 
+vector Electrical_conduction.txt 1 3771 
+membranes Electrical_conduction.txt 2 1680 1691 
+defect Electrical_conduction.txt 1 2941 
+talking Electrical_conduction.txt 1 1670 
+analysis Electrical_conduction.txt 2 2861 3825 
+have Electrical_conduction.txt 11 219 279 399 807 914 1269 1799 3252 3287 3562 3936 
+x-rays Electrical_conduction.txt 1 1938 
+concentration Electrical_conduction.txt 4 1541 1639 2385 3105 
+seek Electrical_conduction.txt 1 863 
+any Electrical_conduction.txt 1 2706 
+contents Electrical_conduction.txt 1 194 
+paths Electrical_conduction.txt 1 3748 
+zero Electrical_conduction.txt 3 1743 1762 3265 
+depending Electrical_conduction.txt 2 834 3366 
+convenient Electrical_conduction.txt 1 3399 
+mechanism Electrical_conduction.txt 1 1254 
+metallic Electrical_conduction.txt 2 1715 2569 
+also Electrical_conduction.txt 10 37 176 385 661 1167 1433 1659 2319 3195 3995 
+reactivity Electrical_conduction.txt 3 3429 3451 3951 
+potential Electrical_conduction.txt 6 1189 1972 1998 2001 2011 2018 
+square Electrical_conduction.txt 1 3440 
+take Electrical_conduction.txt 1 768 
+analogy Electrical_conduction.txt 3 321 3410 3431 
+1860s Electrical_conduction.txt 1 3024 
+finding Electrical_conduction.txt 1 2120 
+donor Electrical_conduction.txt 1 1560 
+formulas Electrical_conduction.txt 1 3760 
+play Electrical_conduction.txt 2 1967 2882 
+towards Electrical_conduction.txt 1 1206 
+led Electrical_conduction.txt 1 3140 
+electric Electrical_conduction.txt 22 62 76 156 229 556 562 575 616 643 1184 1200 1773 1965 2035 2110 2147 2202 2632 2655 3199 3386 3628 
+opposite Electrical_conduction.txt 3 118 480 2637 
+high-tension Electrical_conduction.txt 1 2720 
+price Electrical_conduction.txt 1 3965 
+measures Electrical_conduction.txt 1 149 
+falls Electrical_conduction.txt 1 1084 
+77 Electrical_conduction.txt 1 1843 
+most Electrical_conduction.txt 3 1267 2745 3281 
+boltzmann Electrical_conduction.txt 1 2136 
+rigidly Electrical_conduction.txt 1 974 
+strikes Electrical_conduction.txt 1 2717 
+letter Electrical_conduction.txt 2 85 165 
+phase Electrical_conduction.txt 1 2315 
+intrinsic Electrical_conduction.txt 5 266 1494 3160 3204 3316 
+model Electrical_conduction.txt 2 1878 2662 
+interacting Electrical_conduction.txt 1 2267 
+so-called Electrical_conduction.txt 1 3239 
+especially Electrical_conduction.txt 1 169 
+average Electrical_conduction.txt 1 1977 
+flow Electrical_conduction.txt 11 60 74 227 370 564 624 2669 3181 3196 3620 3751 
+heat Electrical_conduction.txt 1 2992 
+non-crystalline Electrical_conduction.txt 1 3333 
+pipe Electrical_conduction.txt 4 334 351 362 394 
+ways Electrical_conduction.txt 1 2332 
+dissolved Electrical_conduction.txt 1 2387 
+lowered Electrical_conduction.txt 1 1722 
+electrons Electrical_conduction.txt 35 753 762 774 841 862 894 913 940 955 981 993 1013 1056 1101 1121 1152 1178 1203 1215 1232 1284 1380 1467 1508 1544 1615 1862 2133 2559 2596 2614 2641 2953 2966 3168 
+principle Electrical_conduction.txt 1 882 
+mechanical Electrical_conduction.txt 1 1276 
+redirected Electrical_conduction.txt 1 5 
+effect Electrical_conduction.txt 1 3119 
+30,000 Electrical_conduction.txt 1 1924 
+sigma Electrical_conduction.txt 1 166 
+section Electrical_conduction.txt 1 223 
+fact Electrical_conduction.txt 2 553 2578 
+quantity Electrical_conduction.txt 1 3406 
+matthiessens Electrical_conduction.txt 1 3015 
+insulators Electrical_conduction.txt 3 725 1050 1440 
+dimensionality Electrical_conduction.txt 1 3369 
+definite Electrical_conduction.txt 1 2322 
+doped Electrical_conduction.txt 4 1532 1571 3206 3250 
+dissociate Electrical_conduction.txt 1 1155 
+reactance Electrical_conduction.txt 1 3433 
+radio Electrical_conduction.txt 1 1935 
+solutions Electrical_conduction.txt 1 1634 
+rough Electrical_conduction.txt 1 2463 
+unattached Electrical_conduction.txt 1 2613 
+next Electrical_conduction.txt 1 3599 
+thicker Electrical_conduction.txt 1 3863 
+cell Electrical_conduction.txt 1 1690 
+indicator Electrical_conduction.txt 1 2407 
+ratio Electrical_conduction.txt 2 572 3886 
+oxygen Electrical_conduction.txt 1 3955 
+conduction Electrical_conduction.txt 12 8 938 1456 1466 1486 1507 1527 1547 1610 1654 3173 3335 
+with Electrical_conduction.txt 36 200 209 224 428 432 475 534 607 635 752 927 976 1147 1597 1638 1785 1810 2268 2492 2558 2608 2690 2731 2748 2825 2876 2896 2983 3040 3164 3210 3403 3516 3764 3776 3952 
+less Electrical_conduction.txt 2 1315 3592 
+inserted Electrical_conduction.txt 1 2006 
+state Electrical_conduction.txt 3 708 892 2288 
+should Electrical_conduction.txt 1 2864 
+terminal Electrical_conduction.txt 2 1130 1209 
+being Electrical_conduction.txt 1 2693 
+only Electrical_conduction.txt 7 775 939 2169 2505 2802 2833 3078 
+going Electrical_conduction.txt 1 873 
+black Electrical_conduction.txt 1 702 
+screening Electrical_conduction.txt 1 2200 
+factor Electrical_conduction.txt 1 2695 
+equilibrium Electrical_conduction.txt 1 675 
+continuity Electrical_conduction.txt 1 3778 
+do Electrical_conduction.txt 1 766 
+cube Electrical_conduction.txt 2 110 474 
+sense Electrical_conduction.txt 1 3675 
+notation Electrical_conduction.txt 1 3663 
+get Electrical_conduction.txt 1 414 
+dependent Electrical_conduction.txt 2 2382 2686 
+vary Electrical_conduction.txt 1 2756 
+membrane Electrical_conduction.txt 1 1703 
+methods Electrical_conduction.txt 1 3821 
+crude Electrical_conduction.txt 1 1885 
+cannot Electrical_conduction.txt 1 886 
+nearly Electrical_conduction.txt 2 1248 1853 
+closely Electrical_conduction.txt 2 2310 2982 
+despite Electrical_conduction.txt 1 1133 
+boils Electrical_conduction.txt 1 1841 
+quantifies Electrical_conduction.txt 1 52 
+differentiating Electrical_conduction.txt 1 2138 
+molten Electrical_conduction.txt 1 1672 
+susceptivity Electrical_conduction.txt 1 3499 
+densities Electrical_conduction.txt 1 1953 
+lighter Electrical_conduction.txt 1 3907 
+fields Electrical_conduction.txt 7 2036 2111 2203 2234 2273 3387 3772 
+generally Electrical_conduction.txt 3 2012 2179 3607 
+irregularities Electrical_conduction.txt 2 1352 1368 
+contrast Electrical_conduction.txt 1 968 
+contain Electrical_conduction.txt 1 1045 
+including Electrical_conduction.txt 1 2333 
+fixed Electrical_conduction.txt 2 978 2775 
+where Electrical_conduction.txt 12 252 538 585 2765 2934 3179 3232 3361 3640 3735 3765 3836 
+permittivity Electrical_conduction.txt 1 3519 
+voltage Electrical_conduction.txt 2 1192 2711 
+coefficient Electrical_conduction.txt 4 2476 2490 2516 2770 
+set Electrical_conduction.txt 1 3790 
+science-popularizing Electrical_conduction.txt 1 2562 
+exists Electrical_conduction.txt 1 1975 
+admittivity Electrical_conduction.txt 2 3481 3482 
+uses Electrical_conduction.txt 1 3509 
+ends Electrical_conduction.txt 2 214 2638 
+maximum Electrical_conduction.txt 1 1492 
+relative Electrical_conduction.txt 1 2439 
+depends Electrical_conduction.txt 4 386 2948 2999 3076 
+electrostatic Electrical_conduction.txt 1 2192 
+radius Electrical_conduction.txt 1 2960 
+are Electrical_conduction.txt 38 175 232 355 591 741 790 801 948 973 990 1000 1011 1091 1102 1233 1384 1504 1669 1682 1695 1863 1959 2092 2274 2433 2586 3169 3237 3558 3633 3645 3655 3671 3683 3752 3769 3848 3942 
+sea Electrical_conduction.txt 1 1175 
+content Electrical_conduction.txt 1 2689 
+close Electrical_conduction.txt 1 803 
+electrode Electrical_conduction.txt 1 2004 
+3d Electrical_conduction.txt 1 3637 
+packed Electrical_conduction.txt 1 1235 
+conductivity Electrical_conduction.txt 30 3 14 21 23 138 505 513 595 654 1024 1108 1605 2030 2338 2363 2372 2374 2399 2424 2429 2442 2458 2473 2540 3376 3457 3492 3514 3523 3642 
+7002298150000000000 Electrical_conduction.txt 1 2447 
+wire Electrical_conduction.txt 4 289 300 1781 2628 
+extend Electrical_conduction.txt 1 2098 
+matter Electrical_conduction.txt 2 2290 2306 
+phonons Electrical_conduction.txt 2 1874 3061 
+scattering Electrical_conduction.txt 3 1404 2942 3011 
+cgse Electrical_conduction.txt 1 188 
+nature Electrical_conduction.txt 2 2553 3002 
+wikipedia Electrical_conduction.txt 1 4 
+enough Electrical_conduction.txt 3 743 1846 1855 
+various Electrical_conduction.txt 3 670 2340 2478 
+gases Electrical_conduction.txt 1 2295 
+use Electrical_conduction.txt 1 3610 
+between Electrical_conduction.txt 4 123 787 1484 1981 
+conductive Electrical_conduction.txt 1 477 
+propagated Electrical_conduction.txt 1 1243 
+boundary Electrical_conduction.txt 1 1077 
+reading Electrical_conduction.txt 1 4002 
+approach Electrical_conduction.txt 1 1944 
+across Electrical_conduction.txt 1 1195 
+discovery Electrical_conduction.txt 1 3144 
+available Electrical_conduction.txt 5 686 1014 1093 1385 1877 
+matrix Electrical_conduction.txt 2 3469 3678 
+we Electrical_conduction.txt 3 812 1668 2652 
+profiling Electrical_conduction.txt 1 3734 
+terms Electrical_conduction.txt 1 3038 
+ability Electrical_conduction.txt 1 152 
+parent Electrical_conduction.txt 1 1158 
+25 Electrical_conduction.txt 1 2448 
+however Electrical_conduction.txt 7 372 736 878 1229 1468 1514 2218 
+interfere Electrical_conduction.txt 1 1304 
+densely Electrical_conduction.txt 1 1234 
+hypothesis Electrical_conduction.txt 1 1889 
+answers Electrical_conduction.txt 1 3816 
+key Electrical_conduction.txt 1 2884 
+article Electrical_conduction.txt 6 10 1604 1708 1908 2344 3156 
+understanding Electrical_conduction.txt 1 2863 
+valid Electrical_conduction.txt 1 3608 
+abruptly Electrical_conduction.txt 1 1760 
+both Electrical_conduction.txt 2 213 1557 
+c Electrical_conduction.txt 7 1818 1948 2449 2482 2502 2534 3236 
+z Electrical_conduction.txt 1 2070 
+many Electrical_conduction.txt 4 215 827 1001 1012 
+region Electrical_conduction.txt 1 966 
+vibration Electrical_conduction.txt 1 1344 
+equal Electrical_conduction.txt 3 492 2056 3692 
+s Electrical_conduction.txt 1 193 
+oven-dry Electrical_conduction.txt 1 2704 
+faces Electrical_conduction.txt 2 119 481 
+attributes Electrical_conduction.txt 1 3964 
+passing Electrical_conduction.txt 3 322 338 1410 
+otherwise Electrical_conduction.txt 2 2189 3970 
+strongly Electrical_conduction.txt 1 54 
+relevant Electrical_conduction.txt 1 1363 
+point Electrical_conduction.txt 1 2366 
+absorbed Electrical_conduction.txt 1 3532 
+motivation Electrical_conduction.txt 1 3133 
+height Electrical_conduction.txt 1 677 
+directions Electrical_conduction.txt 1 3567 
+cross-sectional Electrical_conduction.txt 2 434 1373 
+non Electrical_conduction.txt 2 1274 3205 
+consideration Electrical_conduction.txt 1 3993 
+68 Electrical_conduction.txt 1 2483 
+respect Electrical_conduction.txt 1 928 
+along Electrical_conduction.txt 2 3515 3775 
+illustrated Electrical_conduction.txt 1 3657 
+geometries Electrical_conduction.txt 1 3700 
+source Electrical_conduction.txt 2 1788 3009 
+damp Electrical_conduction.txt 1 2691 
+due Electrical_conduction.txt 5 2019 2939 3116 3298 3947 
+quickly Electrical_conduction.txt 2 1125 3527 
+much Electrical_conduction.txt 6 292 1800 2758 3305 3591 3722 
+basic Electrical_conduction.txt 2 546 2665 
+anisotropic Electrical_conduction.txt 4 3477 3553 3559 3602 
+empty Electrical_conduction.txt 2 350 991 
+obtained Electrical_conduction.txt 2 2975 2989 
+direction Electrical_conduction.txt 2 2645 3625 
+electrocution Electrical_conduction.txt 1 2728 
+controlled Electrical_conduction.txt 1 1660 
+low-resistivity Electrical_conduction.txt 1 342 
+formed Electrical_conduction.txt 1 2093 
+gas Electrical_conduction.txt 1 2314 
+gap Electrical_conduction.txt 3 735 1088 1481 
+thermistors Electrical_conduction.txt 1 3248 
+understand Electrical_conduction.txt 1 455 
+external Electrical_conduction.txt 3 851 2269 4004 
+plasmas Electrical_conduction.txt 4 1958 2032 2198 2266 
+general Electrical_conduction.txt 5 16 522 548 2870 3159 
+spin Electrical_conduction.txt 1 1900 
+present Electrical_conduction.txt 2 1917 3014 
+case Electrical_conduction.txt 5 243 1080 2088 2707 3475 
+imbalance Electrical_conduction.txt 1 2084 
+kappa Electrical_conduction.txt 1 168 
+unlike Electrical_conduction.txt 1 268 
+solid Electrical_conduction.txt 2 109 2292 
+leave Electrical_conduction.txt 2 3187 3275 
+graphite Electrical_conduction.txt 1 3573 
+as Electrical_conduction.txt 37 39 98 251 508 570 820 1169 1230 1364 1390 1520 1719 1727 1903 1973 2244 2405 2436 2466 2676 2713 2829 2898 2974 3046 3056 3070 3121 3259 3272 3306 3318 3351 3393 3461 3467 3626 
+value Electrical_conduction.txt 7 461 2503 2526 3043 3068 3075 3092 
+n Electrical_conduction.txt 5 2069 2071 2994 3045 3362 
+calcium Electrical_conduction.txt 1 3931 
+while Electrical_conduction.txt 2 680 1640 
+replaced Electrical_conduction.txt 1 3763 
+beryllium Electrical_conduction.txt 1 3973 
+behavior Electrical_conduction.txt 1 2242 
+freely Electrical_conduction.txt 4 1104 1154 3182 3197 
+sheets Electrical_conduction.txt 1 3580 
+irrespective Electrical_conduction.txt 1 273 
+property Electrical_conduction.txt 2 50 267 
+loop Electrical_conduction.txt 1 1778 
+force Electrical_conduction.txt 3 2193 2633 2648 
+studied Electrical_conduction.txt 1 2275 
+donors Electrical_conduction.txt 2 3277 3284 
+almost Electrical_conduction.txt 2 621 1644 
+metre Electrical_conduction.txt 4 96 185 446 520 
+is Electrical_conduction.txt 119 11 47 79 93 126 134 142 159 182 190 249 256 260 328 344 373 490 500 506 568 596 604 632 678 682 731 845 916 933 1018 1033 1109 1166 1193 1216 1242 1255 1313 1326 1335 1362 1395 1414 1477 1512 1643 1649 1658 1721 1733 1766 1824 1882 1887 1896 1912 1994 2005 2022 2054 2128 2153 2160 2283 2297 2309 2380 2403 2416 2453 2465 2504 2528 2543 2605 2629 2673 2684 2762 2766 2773 2782 2789 2801 2805 2815 2855 2904 2928 2935 2944 2970 2995 3012 3052 3100 3226 3244 3349 3398 3415 3438 3483 3524 3531 3542 3605 3707 3731 3738 3842 3856 3887 3898 3906 3915 3957 3976 3990 
+thus Electrical_conduction.txt 6 1319 1327 1341 2599 2649 3974 
+it Electrical_conduction.txt 24 158 262 384 499 583 626 651 1334 1974 1990 2152 2184 2195 2296 2308 2318 2326 2814 3397 3604 3716 3855 3905 3914 
+surface Electrical_conduction.txt 2 1920 2957 
+according Electrical_conduction.txt 1 757 
+superconducting Electrical_conduction.txt 1 1780 
+properties Electrical_conduction.txt 1 3564 
+in Electrical_conduction.txt 101 15 27 170 241 318 488 503 586 618 669 692 710 724 737 763 781 805 831 869 941 964 967 997 1040 1049 1078 1112 1117 1122 1219 1236 1263 1271 1353 1397 1437 1448 1454 1469 1525 1530 1552 1599 1607 1655 1678 1689 1723 1754 1776 1789 1805 1859 1866 1893 1941 1978 2041 2085 2196 2276 2316 2328 2356 2362 2395 2431 2459 2560 2643 2670 2705 2715 2835 2869 2967 3022 3141 3158 3184 3190 3270 3307 3332 3390 3409 3430 3453 3473 3565 3621 3648 3658 3673 3698 3718 3742 3755 3795 3817 3833 
+donating Electrical_conduction.txt 1 1543 
+acceptors Electrical_conduction.txt 2 3279 3286 
+alternating-current Electrical_conduction.txt 1 3529 
+currents Electrical_conduction.txt 2 1681 3508 
+if Electrical_conduction.txt 8 101 352 464 842 2002 2750 3005 3703 
+donors/acceptors Electrical_conduction.txt 1 3323 
+different Electrical_conduction.txt 9 1365 1431 2806 2808 3037 3563 3566 3740 3743 
+183 Electrical_conduction.txt 1 1817 
+lengths Electrical_conduction.txt 2 2103 2262 
+occupied Electrical_conduction.txt 1 962 
+make Electrical_conduction.txt 2 3860 3865 
+cross Electrical_conduction.txt 1 222 
+same Electrical_conduction.txt 4 282 357 3624 3910 
+complex Electrical_conduction.txt 6 2241 3373 3405 3463 3471 3818 
+pauli Electrical_conduction.txt 1 880 
+distilled Electrical_conduction.txt 1 1641 
+modification Electrical_conduction.txt 1 855 
+products Electrical_conduction.txt 3 3831 3847 3940 
+several Electrical_conduction.txt 1 3036 
+events Electrical_conduction.txt 1 1405 
+higher Electrical_conduction.txt 8 367 1428 1801 2371 2426 2520 3311 3869 
+breakdown Electrical_conduction.txt 1 2726 
+independent Electrical_conduction.txt 1 1984 
+wires Electrical_conduction.txt 1 272 
+kelvin Electrical_conduction.txt 2 1502 1946 
+upon Electrical_conduction.txt 1 3000 
+differing Electrical_conduction.txt 1 810 
+flows Electrical_conduction.txt 2 540 3583 
+hand Electrical_conduction.txt 2 630 3811 
+7010100000000000000 Electrical_conduction.txt 1 2699 
+ion Electrical_conduction.txt 1 1693 
+levels Electrical_conduction.txt 7 780 789 800 818 943 1003 1048 
+conductors Electrical_conduction.txt 8 199 218 533 1400 1725 1836 1963 3946 
+potentials Electrical_conduction.txt 2 1966 2108 
+infinite Electrical_conduction.txt 1 1513 
+frequently Electrical_conduction.txt 1 3899 
+dielectric Electrical_conduction.txt 1 3388 
+contribution Electrical_conduction.txt 2 1580 1588 
+reference Electrical_conduction.txt 3 2776 2809 2842 
+indefinitely Electrical_conduction.txt 1 1784 
+lower Electrical_conduction.txt 4 400 1396 2422 2518 
+toxicity Electrical_conduction.txt 1 3967 
+hopping Electrical_conduction.txt 1 3354 
+band Electrical_conduction.txt 20 656 662 723 734 823 899 931 1031 1087 1457 1459 1480 1487 1491 1528 1548 1555 1614 3175 3193 
+minimize Electrical_conduction.txt 1 865 
+changes Electrical_conduction.txt 1 2747 
+undoped Electrical_conduction.txt 1 1495 
+double Electrical_conduction.txt 2 2090 2249 
+academic Electrical_conduction.txt 1 2278 
+directly Electrical_conduction.txt 1 2205 
+materials Electrical_conduction.txt 15 151 673 861 1432 1798 2341 2479 2575 2746 3107 3383 3478 3554 3557 3705 
+does Electrical_conduction.txt 3 2238 2754 3926 
+components Electrical_conduction.txt 1 3682 
+very Electrical_conduction.txt 13 614 934 1110 1217 1576 1960 2037 2181 2187 2981 3584 3814 3843 
+position Electrical_conduction.txt 2 922 1472 
+the Electrical_conduction.txt 315 59 73 83 87 94 121 129 132 143 163 238 244 253 281 353 356 361 378 388 393 407 421 437 442 448 456 483 494 497 509 525 552 565 571 574 578 581 593 597 628 666 683 693 696 699 714 728 739 745 836 843 857 860 866 870 879 890 893 898 903 905 912 918 921 924 930 945 954 960 969 986 1005 1021 1053 1061 1076 1081 1096 1100 1106 1163 1180 1196 1198 1207 1210 1220 1231 1237 1239 1245 1249 1253 1286 1295 1300 1302 1308 1311 1314 1322 1338 1346 1349 1354 1357 1360 1370 1372 1376 1378 1388 1393 1401 1417 1420 1422 1424 1427 1429 1435 1450 1455 1471 1474 1479 1485 1510 1515 1521 1526 1537 1546 1553 1579 1587 1593 1630 1662 1702 1710 1757 1764 1832 1875 1971 1979 1986 1996 2016 2027 2042 2049 2058 2067 2074 2077 2086 2094 2104 2107 2121 2132 2135 2146 2150 2172 2190 2207 2215 2219 2225 2245 2263 2277 2286 2313 2334 2348 2352 2373 2396 2414 2417 2419 2421 2423 2425 2427 2441 2471 2487 2498 2500 2515 2525 2535 2552 2555 2568 2577 2580 2600 2644 2647 2659 2741 2751 2768 2783 2787 2798 2819 2831 2841 2844 2852 2889 2899 2906 2919 2923 2931 2936 2950 2955 2958 2962 2968 2971 2984 3001 3023 3027 3041 3047 3050 3060 3062 3071 3080 3091 3094 3126 3132 3167 3172 3191 3198 3217 3221 3229 3238 3273 3276 3283 3291 3300 3319 3322 3328 3357 3368 3371 3380 3416 3422 3428 3434 3439 3456 3474 3480 3484 3491 3498 3504 3520 3522 3525 3528 3534 3537 3540 3598 3611 3616 3623 3627 3631 3636 3641 3653 3665 3668 3674 3680 3704 3710 3726 3736 3746 3759 3777 3783 3837 3861 3909 3916 3933 3937 3969 3978 3983 3991 
+researchers Electrical_conduction.txt 2 1791 1833 
+charged Electrical_conduction.txt 2 1982 2222 
+distances Electrical_conduction.txt 1 2211 
+just Electrical_conduction.txt 1 1060 
+among Electrical_conduction.txt 1 959 
+self-generated Electrical_conduction.txt 1 2271 
+resistive Electrical_conduction.txt 2 207 3918 
+accurate Electrical_conduction.txt 1 3815 
+superconductors Electrical_conduction.txt 5 1838 1850 1858 1861 1895 
+risk Electrical_conduction.txt 1 2729 
+inadequate Electrical_conduction.txt 1 2856 
+shape Electrical_conduction.txt 2 276 360 
+intervals Electrical_conduction.txt 1 1043 
+atomic Electrical_conduction.txt 2 837 1621 
+summed Electrical_conduction.txt 1 2550 
+alternative Electrical_conduction.txt 1 3501 
+speed Electrical_conduction.txt 2 1250 1342 
+halfway Electrical_conduction.txt 1 1483 
+discipline Electrical_conduction.txt 1 2279 
+adding Electrical_conduction.txt 1 3034 
+disturbance Electrical_conduction.txt 1 1316 
+signal Electrical_conduction.txt 1 3530 
+density Electrical_conduction.txt 15 579 684 1524 1566 2050 2059 2124 2151 2173 2964 3830 3846 3876 3885 3924 
+regarded Electrical_conduction.txt 1 2675 
+mathematically Electrical_conduction.txt 1 2918 
+lattice Electrical_conduction.txt 9 1143 1164 1173 1288 1301 1312 1348 1355 1873 
+book Electrical_conduction.txt 1 2563 
+4 Electrical_conduction.txt 1 3365 
+samples Electrical_conduction.txt 1 2402 
+role Electrical_conduction.txt 2 1970 2885 
+has Electrical_conduction.txt 11 113 290 303 311 366 441 514 2168 2320 3356 3921 
+plasma Electrical_conduction.txt 14 1905 1909 1916 1939 1997 2009 2017 2068 2158 2177 2208 2226 2248 2282 
+flowing Electrical_conduction.txt 1 1775 
+momentum Electrical_conduction.txt 1 1260 
+majority Electrical_conduction.txt 1 1538 
+real Electrical_conduction.txt 5 1745 3420 3488 3511 3518 
+dissociable Electrical_conduction.txt 1 1177 
+around Electrical_conduction.txt 3 952 2618 2840 
+decided Electrical_conduction.txt 1 3101 
+articles Electrical_conduction.txt 1 1443 
+bands Electrical_conduction.txt 5 740 830 859 1039 1073 
+results Electrical_conduction.txt 1 2040 
+possible Electrical_conduction.txt 2 2154 3858 
+electrolytes Electrical_conduction.txt 2 1608 1635 
+tunnelling Electrical_conduction.txt 1 3341 
+siemens Electrical_conduction.txt 2 183 518 
+increases Electrical_conduction.txt 5 427 1529 2875 2894 3261 
+integer Electrical_conduction.txt 2 1068 2997 
+replace Electrical_conduction.txt 1 3401 
+displaced Electrical_conduction.txt 1 2623 
+like Electrical_conduction.txt 8 329 345 853 1115 2619 3315 3757 3822 
+lost Electrical_conduction.txt 1 3288 
+follows Electrical_conduction.txt 3 698 2467 2911 
+reduces Electrical_conduction.txt 1 1567 
+analyzing Electrical_conduction.txt 1 3379 
+extremely Electrical_conduction.txt 3 2240 2536 2678 
+lightning Electrical_conduction.txt 4 1911 1922 1942 2716 
+specific Electrical_conduction.txt 7 25 41 140 529 1698 2437 2991 
+t Electrical_conduction.txt 1 2753 
+arbitrary Electrical_conduction.txt 1 770 
+rarely Electrical_conduction.txt 1 3943 
+simply Electrical_conduction.txt 1 2119 
+valence Electrical_conduction.txt 3 1490 1554 3192 
+page Electrical_conduction.txt 1 2351 
+cooled Electrical_conduction.txt 1 1767 
+mathematical Electrical_conduction.txt 1 3546 
+exceed Electrical_conduction.txt 1 1955 
+because Electrical_conduction.txt 4 611 639 2797 3904 
+often Electrical_conduction.txt 4 2284 2434 2591 3857 
+crowd Electrical_conduction.txt 1 2621 
+discrete Electrical_conduction.txt 1 778 
+powerlines Electrical_conduction.txt 1 2721 
+some Electrical_conduction.txt 8 1752 1794 2099 2719 3106 3556 3719 3834 
+debye Electrical_conduction.txt 9 2025 2078 2102 2199 2216 2261 2959 2972 2987 
+doping Electrical_conduction.txt 2 2355 2368 
+happens Electrical_conduction.txt 3 1057 1317 1611 
+alkali Electrical_conduction.txt 1 3934 
+gradually Electrical_conduction.txt 1 1718 
+scale Electrical_conduction.txt 1 2075 
+charges Electrical_conduction.txt 4 2053 2062 2171 3339 
+for Electrical_conduction.txt 31 17 24 308 462 601 688 936 1493 1556 1827 1856 2166 2513 2522 2807 2811 3147 3543 3552 3568 3600 3614 3687 3780 3786 3813 3867 3889 3891 3908 3945 
+bottom Electrical_conduction.txt 1 904 
+electromagnetic Electrical_conduction.txt 1 1240 
+superconductivity Electrical_conduction.txt 6 1705 1709 1881 3122 3146 3152 
+per Electrical_conduction.txt 4 184 519 1227 1381 
+cradle Electrical_conduction.txt 2 1120 1266 
+linearly Electrical_conduction.txt 1 2895 
+provides Electrical_conduction.txt 1 2141 
+particles Electrical_conduction.txt 2 1983 2223 
+fermidirac Electrical_conduction.txt 1 700 
+be Electrical_conduction.txt 21 411 451 749 826 1037 1059 1280 1992 2082 2113 2180 2186 2230 2865 3031 3459 3691 3721 3762 3807 3827 
+object Electrical_conduction.txt 1 2252 
+liquids/electrolytes Electrical_conduction.txt 1 1601 
+power Electrical_conduction.txt 3 1787 2913 3895 
+drift Electrical_conduction.txt 2 1205 1212 
+lose Electrical_conduction.txt 1 3108 
+s/m Electrical_conduction.txt 2 186 521 
+conventional Electrical_conduction.txt 3 1829 1857 1860 
+although Electrical_conduction.txt 2 2307 3913 
+become Electrical_conduction.txt 1 3324 
+imaginary Electrical_conduction.txt 2 3426 3495 
+impurities Electrical_conduction.txt 1 1736 
+by Electrical_conduction.txt 31 82 162 377 872 1282 1289 1329 1337 1407 1542 1613 1619 1661 1684 1735 1868 1872 1898 2115 2232 2576 2930 3019 3033 3102 3176 3228 3338 3533 3810 3928 
+simpler Electrical_conduction.txt 1 1272 
+on Electrical_conduction.txt 16 116 212 387 479 627 769 835 1976 2073 2383 2635 2687 2949 3079 3085 3367 
+about Electrical_conduction.txt 3 12 815 1671 
+actual Electrical_conduction.txt 1 1211 
+carried Electrical_conduction.txt 1 1683 
+of Electrical_conduction.txt 162 20 61 75 90 111 131 145 206 228 234 274 336 364 382 392 423 458 485 496 502 511 517 573 580 599 648 653 665 672 685 796 840 856 923 980 992 1025 1030 1055 1070 1141 1144 1151 1176 1214 1222 1224 1251 1259 1261 1324 1343 1345 1359 1375 1403 1419 1473 1559 1581 1632 1664 1713 1747 1779 1879 1915 1985 1988 2031 2045 2051 2060 2066 2076 2101 2106 2174 2221 2247 2260 2265 2280 2289 2305 2331 2339 2347 2354 2375 2378 2386 2400 2408 2443 2477 2497 2541 2545 2554 2583 2594 2602 2612 2622 2646 2667 2696 2744 2771 2838 2873 2891 2901 2909 2916 2922 2925 2952 2965 2986 3003 3010 3044 3049 3082 3093 3097 3125 3129 3145 3151 3201 3216 3220 3223 3282 3303 3360 3370 3382 3418 3436 3442 3444 3446 3448 3470 3476 3486 3503 3548 3572 3576 3579 3676 3712 3749 3791 3839 3980 3987 
+generated Electrical_conduction.txt 2 1583 3330 
+greater Electrical_conduction.txt 1 2213 
+reduced Electrical_conduction.txt 2 2905 3054 
+range Electrical_conduction.txt 3 2837 2851 3353 
+regular Electrical_conduction.txt 1 1310 
+rule Electrical_conduction.txt 1 3016 
+firstly Electrical_conduction.txt 1 1333 
+slightly Electrical_conduction.txt 1 3297 
+or Electrical_conduction.txt 25 44 139 173 198 380 396 404 532 754 784 1549 1561 1616 1729 1999 2183 2324 2412 2718 3278 3285 3465 3800 3879 3985 
+gamma Electrical_conduction.txt 1 174 
+own Electrical_conduction.txt 2 305 1135 
+rho Electrical_conduction.txt 2 86 248 
+presence Electrical_conduction.txt 1 379 
+into Electrical_conduction.txt 1 2007 
+within Electrical_conduction.txt 2 1085 1478 
+numerically Electrical_conduction.txt 1 491 
+bound Electrical_conduction.txt 1 2587 
+negative Electrical_conduction.txt 2 2052 2170 
+lies Electrical_conduction.txt 3 718 1453 2013 
+appropriate Electrical_conduction.txt 1 3042 
+right Electrical_conduction.txt 1 1062 
+references Electrical_conduction.txt 1 3999 
+determine Electrical_conduction.txt 1 1701 
+elementary Electrical_conduction.txt 1 759 
+proportional Electrical_conduction.txt 1 1415 
+reducing Electrical_conduction.txt 1 3301 
+theoretically Electrical_conduction.txt 1 1825 
+technically Electrical_conduction.txt 1 2658 
+1986 Electrical_conduction.txt 1 1790 
+1987 Electrical_conduction.txt 1 1806 
+computer Electrical_conduction.txt 1 3820 
+resistors Electrical_conduction.txt 3 197 216 531 
+area Electrical_conduction.txt 2 435 1374 
+0.00427 Electrical_conduction.txt 1 2527 
+transfer Electrical_conduction.txt 2 1126 1258 
+apparently Electrical_conduction.txt 1 2732 
+there Electrical_conduction.txt 8 824 999 1010 1035 1090 1503 1886 2080 
+question Electrical_conduction.txt 1 1987 
+approximate Electrical_conduction.txt 1 3801 
+long Electrical_conduction.txt 3 286 405 3892 
+width Electrical_conduction.txt 2 391 681 
+low Electrical_conduction.txt 10 65 875 970 1071 1111 2182 2537 3114 3853 3874 
+way Electrical_conduction.txt 1 259 
+compactly Electrical_conduction.txt 1 3656 
+magnetohydrodynamics Electrical_conduction.txt 1 2281 
+was Electrical_conduction.txt 4 528 1808 2822 3131 
+three...infinity Electrical_conduction.txt 1 2566 
+lowest Electrical_conduction.txt 1 891 
+considerably Electrical_conduction.txt 1 2014 
+form Electrical_conduction.txt 5 2323 3359 3639 3660 3788 
+something Electrical_conduction.txt 1 3713 
+forming Electrical_conduction.txt 2 472 2650 
+ion-free Electrical_conduction.txt 1 2411 
+but Electrical_conduction.txt 13 167 284 430 1618 1666 1851 2072 2681 3084 3512 3589 3812 3941 
+impeditivity Electrical_conduction.txt 3 3408 3414 3437 
+volume Electrical_conduction.txt 2 45 2325 
+neutral Electrical_conduction.txt 1 846 
+magnitude Electrical_conduction.txt 3 1223 2105 3435 
+ec Electrical_conduction.txt 1 2451 
+atom Electrical_conduction.txt 3 765 783 844 
+impedance Electrical_conduction.txt 2 3395 3413 
+semimetals Electrical_conduction.txt 1 713 
+minutely Electrical_conduction.txt 1 809 
+partially Electrical_conduction.txt 1 961 
+rush Electrical_conduction.txt 1 2642 
+made Electrical_conduction.txt 3 233 501 3714 
+coefficients Electrical_conduction.txt 1 3241 
+places Electrical_conduction.txt 1 3744 
+inhomogeneous Electrical_conduction.txt 1 3739 
+lower-energy Electrical_conduction.txt 1 2303 
+characteristic Electrical_conduction.txt 4 306 906 2544 3358 
+inside Electrical_conduction.txt 4 558 592 719 732 
+j Electrical_conduction.txt 3 590 3768 3781 
+up Electrical_conduction.txt 7 897 909 1927 2551 2607 3035 3866 
+lead Electrical_conduction.txt 1 2723 
+localised Electrical_conduction.txt 1 3344 
+crystal Electrical_conduction.txt 4 785 1287 1347 3571 
+below Electrical_conduction.txt 2 1768 2015 
+astrophysical Electrical_conduction.txt 1 2197 
+fermi Electrical_conduction.txt 12 715 729 746 919 925 946 1006 1082 1097 1451 1475 2956 
+critical Electrical_conduction.txt 3 1770 1802 1812 
+quasineutrality Electrical_conduction.txt 1 2046 
+sum Electrical_conduction.txt 3 3417 3443 3485 
+distribution Electrical_conduction.txt 2 701 849 
+piece Electrical_conduction.txt 1 205 
+similar Electrical_conduction.txt 2 808 1256 
+called Electrical_conduction.txt 9 917 1692 1995 2285 2767 3407 3479 3490 3497 
+distance Electrical_conduction.txt 1 3893 
+mechanics Electrical_conduction.txt 1 761 
+ohm Electrical_conduction.txt 2 95 445 
+his Electrical_conduction.txt 1 2561 
+required Electrical_conduction.txt 1 3828 
+constant Electrical_conduction.txt 2 2946 3067 
+item Electrical_conduction.txt 1 3841 
+defined Electrical_conduction.txt 4 250 257 507 569 
+certain Electrical_conduction.txt 3 690 777 1067 
+specified Electrical_conduction.txt 1 2530 
+non-neutral Electrical_conduction.txt 1 2176 
+metals Electrical_conduction.txt 13 711 998 1026 1113 1268 1449 2546 2556 2671 2867 2874 3130 3935 
+an Electrical_conduction.txt 38 99 155 265 349 555 764 782 821 1027 1148 1187 1408 1627 1645 1772 1869 1913 1968 2003 2163 2251 2406 2450 2506 2654 2677 2790 2803 2996 3118 3123 3212 3425 3494 3500 3601 3798 3840 
+engineering Electrical_conduction.txt 1 172 
+at Electrical_conduction.txt 22 674 720 982 994 1247 1500 1575 1842 1918 1926 2446 2480 2510 2519 2531 2697 2785 2824 2886 2954 3112 3310 
+tomography Electrical_conduction.txt 1 3396 
+sheath Electrical_conduction.txt 1 2026 
+kamerlingh Electrical_conduction.txt 1 3136 
+moves Electrical_conduction.txt 1 3590 
+fill Electrical_conduction.txt 2 896 1065 
+physics Electrical_conduction.txt 1 1910 
+again Electrical_conduction.txt 1 3296 
+perovskite Electrical_conduction.txt 1 1796 
+compared Electrical_conduction.txt 1 3326 
+descriptions Electrical_conduction.txt 1 3547 
+no Electrical_conduction.txt 7 622 707 1046 1092 1505 1786 2321 
+individual Electrical_conduction.txt 1 3681 
+when Electrical_conduction.txt 9 792 1186 1294 1763 2508 2625 2843 3378 3982 
+spectroscopy Electrical_conduction.txt 1 3389 
+rubber Electrical_conduction.txt 3 310 603 619 
+field Electrical_conduction.txt 8 557 576 617 644 1201 1241 2148 3629 
+other Electrical_conduction.txt 10 18 629 1738 2117 2302 2390 2511 2574 3649 3962 
+electrical Electrical_conduction.txt 29 0 7 13 28 31 35 42 91 137 146 171 210 245 566 937 1188 1609 1628 1652 1711 1962 2029 2345 2398 2742 2871 3110 3394 3412 
+details Electrical_conduction.txt 2 3148 3544 
+normal Electrical_conduction.txt 1 1749 
+10 Electrical_conduction.txt 2 1956 2700 
+opacity Electrical_conduction.txt 1 3549 
+elements Electrical_conduction.txt 2 29 2349 
+calculating Electrical_conduction.txt 1 3709 
+temperatures Electrical_conduction.txt 10 1578 1803 1940 2512 2521 2810 2839 2888 3115 3312 
+models Electrical_conduction.txt 2 1273 1277 
+uniformly Electrical_conduction.txt 1 541 
+m Electrical_conduction.txt 10 97 104 106 108 136 447 468 471 504 1957 
+convention Electrical_conduction.txt 1 3667 
+meaning Electrical_conduction.txt 3 457 1008 3560 
+important Electrical_conduction.txt 7 935 1028 1969 2043 3844 3850 3963 
+velocity Electrical_conduction.txt 2 1213 2951 
+variable Electrical_conduction.txt 1 3352 
+generalized Electrical_conduction.txt 1 3634 
+structure Electrical_conduction.txt 3 900 932 1292 
+high-temperature Electrical_conduction.txt 4 1837 1849 1880 1894 
+detailed Electrical_conduction.txt 1 2860 
+e Electrical_conduction.txt 4 588 717 3766 3787 
+longer Electrical_conduction.txt 1 1423 
+using Electrical_conduction.txt 1 3661 
+assume Electrical_conduction.txt 1 2130 
+salt Electrical_conduction.txt 1 1647 
+contacts Electrical_conduction.txt 4 115 125 211 478 
+holes Electrical_conduction.txt 5 755 1551 1617 1688 3189 
+together Electrical_conduction.txt 3 804 819 1865 
+equivalently Electrical_conduction.txt 1 3880 
+phonon Electrical_conduction.txt 1 2879 
+fitted Electrical_conduction.txt 1 2793 
+volumes Electrical_conduction.txt 1 2065 
+blochgrneisen Electrical_conduction.txt 1 2932 
+28,000 Electrical_conduction.txt 2 1945 1947 
+starting Electrical_conduction.txt 2 901 3262 

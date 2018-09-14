@@ -1,0 +1,574 @@
+all Ecliptic.txt 4 429 1162 1324 1332 
+suns Ecliptic.txt 5 100 130 140 270 2134 
+invariable Ecliptic.txt 3 1244 1265 1307 
+earthmoon Ecliptic.txt 2 159 191 
+month Ecliptic.txt 2 177 2138 
+four Ecliptic.txt 1 296 
+heliocentric Ecliptic.txt 2 1842 1863 
+follow Ecliptic.txt 2 29 62 
+expressions Ecliptic.txt 2 1128 1165 
+instantaneous Ecliptic.txt 1 1183 
+causes Ecliptic.txt 1 275 
+tt Ecliptic.txt 1 1883 
+to Ecliptic.txt 58 5 9 28 61 82 152 179 224 237 282 366 412 446 480 509 521 538 561 599 605 611 642 694 821 888 896 899 918 991 1045 1080 1151 1155 1219 1263 1289 1417 1421 1452 1479 1488 1514 1525 1534 1551 1557 1560 1566 1639 1689 1698 1721 1738 1775 1826 1907 2116 2146 
+stable Ecliptic.txt 1 1772 
+updated Ecliptic.txt 2 838 1107 
+very Ecliptic.txt 3 1287 1711 1915 
+rotational Ecliptic.txt 1 516 
+every Ecliptic.txt 3 263 1347 1940 
+difference Ecliptic.txt 1 267 
+exact Ecliptic.txt 1 1999 
+categories Ecliptic.txt 2 2198 2200 
+entire Ecliptic.txt 1 1317 
+positions Ecliptic.txt 6 828 850 1018 1440 1516 1675 
+notes Ecliptic.txt 1 2191 
+inclinations Ecliptic.txt 1 1688 
+convenience Ecliptic.txt 1 1369 
+small Ecliptic.txt 2 266 1687 
+referred Ecliptic.txt 1 1825 
+noted Ecliptic.txt 1 1979 
+smaller Ecliptic.txt 1 728 
+270 Ecliptic.txt 1 2028 
+likely Ecliptic.txt 1 1217 
+further Ecliptic.txt 1 180 
+dynamics Ecliptic.txt 1 959 
+21.45 Ecliptic.txt 1 1086 
+blue Ecliptic.txt 2 1409 1414 
+established Ecliptic.txt 1 2076 
+disk Ecliptic.txt 2 1231 1239 
+adds Ecliptic.txt 1 817 
+appear Ecliptic.txt 4 1286 1403 1420 1695 
+sun Ecliptic.txt 28 3 26 59 96 168 212 227 233 255 294 343 352 364 376 478 507 581 702 793 1209 1305 1387 1425 1549 1912 1946 2022 2109 
+uniform Ecliptic.txt 1 339 
+current Ecliptic.txt 1 1235 
+lunisolar Ecliptic.txt 1 687 
+axial Ecliptic.txt 3 419 653 866 
+poles Ecliptic.txt 3 672 1458 1568 
+above Ecliptic.txt 2 148 1885 
+new Ecliptic.txt 1 944 
+movement Ecliptic.txt 1 154 
+component Ecliptic.txt 1 820 
+here Ecliptic.txt 1 439 
+understanding Ecliptic.txt 1 956 
+hours Ecliptic.txt 1 316 
+objects Ecliptic.txt 4 1596 1607 1679 1791 
+kilometers Ecliptic.txt 1 1613 
+directions Ecliptic.txt 1 430 
+path Ecliptic.txt 5 24 52 87 165 209 
+along Ecliptic.txt 6 368 450 467 586 1388 1536 
+appears Ecliptic.txt 4 4 27 60 1550 
+great Ecliptic.txt 1 469 
+noticeable Ecliptic.txt 1 110 
+dates Ecliptic.txt 1 2041 
+30 Ecliptic.txt 1 2127 
+periodic Ecliptic.txt 4 782 789 803 819 
+action Ecliptic.txt 1 747 
+dziobek Ecliptic.txt 1 1732 
+changes Ecliptic.txt 1 757 
+named Ecliptic.txt 2 1975 2171 
+ephemerides Ecliptic.txt 4 946 964 1060 1103 
+summation Ecliptic.txt 1 1322 
+unit Ecliptic.txt 2 1653 1656 
+plot Ecliptic.txt 1 2052 
+from Ecliptic.txt 17 15 111 597 603 609 640 962 980 989 1012 1043 1050 1078 1099 1228 1539 1731 
+takes Ecliptic.txt 2 221 234 
+would Ecliptic.txt 2 303 306 
+0 Ecliptic.txt 3 1533 1576 2024 
+two Ecliptic.txt 4 574 750 1433 1472 
+therefore Ecliptic.txt 2 314 1693 
+aries Ecliptic.txt 3 626 2169 2181 
+wobbles Ecliptic.txt 2 169 193 
+until Ecliptic.txt 2 1003 1022 
+today Ecliptic.txt 1 2164 
+more Ecliptic.txt 2 247 1260 
+0.0059 Ecliptic.txt 1 1030 
+standardized Ecliptic.txt 1 1665 
+inclined Ecliptic.txt 4 537 1257 1416 1903 
+apparent Ecliptic.txt 10 101 131 141 164 208 229 584 788 1383 2010 
+autumnal Ecliptic.txt 2 502 646 
+carrying Ecliptic.txt 1 117 
+4.3410 Ecliptic.txt 1 1125 
+particular Ecliptic.txt 3 277 1808 1816 
+known Ecliptic.txt 11 435 548 576 614 620 685 741 813 1241 1501 1818 
+90 Ecliptic.txt 4 1561 1564 1638 2025 
+crosses Ecliptic.txt 2 570 589 
+10,000 Ecliptic.txt 1 1160 
+this Ecliptic.txt 13 34 86 265 327 778 816 994 1215 1281 1734 1754 1873 2119 
+equation Ecliptic.txt 1 408 
+work Ecliptic.txt 1 1013 
+eclipse Ecliptic.txt 1 1895 
+longitude Ecliptic.txt 6 1504 1509 1528 1854 2012 2128 
+straddle Ecliptic.txt 1 2152 
+vs Ecliptic.txt 1 2055 
+values Ecliptic.txt 1 967 
+following Ecliptic.txt 1 2085 
+example Ecliptic.txt 1 374 
+protoplanetary Ecliptic.txt 1 1230 
+links Ecliptic.txt 1 2196 
+give Ecliptic.txt 1 2157 
+process Ecliptic.txt 2 35 684 
+high Ecliptic.txt 1 1135 
+sphere Ecliptic.txt 10 33 56 449 466 497 564 1400 1444 1522 1795 
+ascension Ecliptic.txt 1 2057 
+occur Ecliptic.txt 2 1921 1938 
+axis Ecliptic.txt 8 456 517 660 807 895 1628 1637 1645 
+terrestrial Ecliptic.txt 1 1848 
+46.836769 Ecliptic.txt 1 1117 
+rather Ecliptic.txt 1 318 
+tilt Ecliptic.txt 2 420 867 
+divided Ecliptic.txt 1 2122 
+astronomers Ecliptic.txt 2 878 942 
+varies Ecliptic.txt 3 353 372 987 
+occasionally Ecliptic.txt 1 1625 
+parameter Ecliptic.txt 1 1585 
+circular Ecliptic.txt 1 51 
+intended Ecliptic.txt 1 1133 
+derived Ecliptic.txt 1 972 
+orbits Ecliptic.txt 4 337 350 484 1685 
+produce Ecliptic.txt 1 943 
+date Ecliptic.txt 5 1009 1047 1817 1834 1872 
+a Ecliptic.txt 33 39 42 67 172 196 200 217 239 257 309 329 333 468 677 683 726 780 818 897 1138 1229 1258 1338 1579 1583 1616 1715 1770 1800 1807 1815 2063 2098 
+short Ecliptic.txt 1 1140 
+0.0001831 Ecliptic.txt 1 1119 
+green Ecliptic.txt 1 457 
+specifying Ecliptic.txt 3 1674 1799 1806 
+fundamental Ecliptic.txt 5 945 1065 1102 1434 1473 
+decreasing Ecliptic.txt 1 909 
+representation Ecliptic.txt 1 1236 
+1000 Ecliptic.txt 1 1157 
+order Ecliptic.txt 1 1152 
+laboratorys Ecliptic.txt 1 1055 
+over Ecliptic.txt 7 44 63 939 1062 1137 1159 1728 
+move Ecliptic.txt 5 6 367 481 1552 2117 
+years Ecliptic.txt 7 682 916 941 979 1158 1161 1730 
+symbols Ecliptic.txt 1 1659 
+course Ecliptic.txt 2 65 215 
+through Ecliptic.txt 3 120 2083 2136 
+precessional Ecliptic.txt 1 1782 
+motions Ecliptic.txt 6 145 751 783 790 933 1328 
+ancients Ecliptic.txt 1 1978 
+its Ecliptic.txt 4 522 583 798 1485 
+astrology Ecliptic.txt 2 2087 2091 
+24 Ecliptic.txt 1 315 
+1 Ecliptic.txt 3 261 1262 1859 
+26 Ecliptic.txt 2 1085 1115 
+27 Ecliptic.txt 1 1026 
+20 Ecliptic.txt 1 2101 
+23 Ecliptic.txt 3 1025 1084 1114 
+coordinates Ecliptic.txt 8 1402 1413 1500 1662 1670 1789 1804 1823 
+actually Ecliptic.txt 3 206 794 2177 
+forms Ecliptic.txt 3 431 1429 2094 
+degrees Ecliptic.txt 1 911 
+latitude Ecliptic.txt 5 1506 1511 1553 1577 1858 
+hidden Ecliptic.txt 1 2199 
+main Ecliptic.txt 9 417 651 772 864 1194 1374 1893 1993 2089 
+2010 Ecliptic.txt 3 1112 1852 1881 
+eastward Ecliptic.txt 2 262 1532 
+good Ecliptic.txt 1 1154 
+band Ecliptic.txt 1 2099 
+effects Ecliptic.txt 1 2015 
+not Ecliptic.txt 8 108 307 519 529 664 712 1937 2045 
+rotation Ecliptic.txt 1 894 
+day Ecliptic.txt 4 264 300 310 325 
+represents Ecliptic.txt 1 999 
+term Ecliptic.txt 2 79 875 
+hereafter Ecliptic.txt 1 1094 
+edit Ecliptic.txt 12 143 416 863 1193 1373 1892 1992 2050 2088 2190 2194 2197 
+fully Ecliptic.txt 1 837 
+24.2 Ecliptic.txt 1 990 
+each Ecliptic.txt 3 299 388 2129 
+crossing Ecliptic.txt 2 608 639 
+found Ecliptic.txt 1 928 
+lasting Ecliptic.txt 1 41 
+series Ecliptic.txt 1 1057 
+approximates Ecliptic.txt 1 2132 
+year Ecliptic.txt 10 68 218 223 236 253 357 389 771 1001 2075 
+sunrise Ecliptic.txt 1 124 
+out Ecliptic.txt 1 1367 
+shown Ecliptic.txt 1 442 
+space Ecliptic.txt 1 667 
+since Ecliptic.txt 1 2184 
+projected Ecliptic.txt 3 427 443 559 
+7 Ecliptic.txt 1 1752 
+cause Ecliptic.txt 2 725 800 
+red Ecliptic.txt 4 504 997 1391 1405 
+passes Ecliptic.txt 1 2082 
+spot Ecliptic.txt 1 278 
+instants Ecliptic.txt 1 2000 
+ascending Ecliptic.txt 2 629 1957 
+ecliptic Ecliptic.txt 64 0 20 48 75 106 204 244 370 438 462 490 533 554 572 588 633 675 709 740 862 872 890 901 976 1255 1291 1296 1356 1379 1390 1401 1419 1428 1454 1457 1461 1476 1503 1527 1538 1559 1571 1573 1649 1661 1669 1691 1709 1727 1740 1747 1766 1768 1788 1803 1870 1909 1918 1972 2011 2068 2080 2093 2154 
+101,800 Ecliptic.txt 1 1742 
+b1900.0 Ecliptic.txt 1 1044 
+20,000 Ecliptic.txt 1 978 
+fixed Ecliptic.txt 6 11 137 665 713 1717 2046 
+1.6302454 Ecliptic.txt 1 1865 
+days Ecliptic.txt 4 46 250 386 397 
+times Ecliptic.txt 2 2007 2141 
+motion Ecliptic.txt 9 132 142 585 729 1302 1384 1486 1783 2135 
+plane Ecliptic.txt 15 84 422 434 459 524 527 534 732 1188 1214 1245 1266 1308 1362 1372 
+circuit Ecliptic.txt 1 241 
+hence Ecliptic.txt 5 98 737 809 1253 1707 
+repeats Ecliptic.txt 1 36 
+eclipses Ecliptic.txt 4 1891 1919 1935 1981 
+south Ecliptic.txt 6 291 391 598 606 610 643 
+first Ecliptic.txt 2 623 2166 
+major Ecliptic.txt 2 1201 1270 
+one Ecliptic.txt 7 176 222 235 252 596 1430 2137 
+0.04 Ecliptic.txt 1 1156 
+directly Ecliptic.txt 1 288 
+angular Ecliptic.txt 2 922 1313 
+earths Ecliptic.txt 14 92 112 280 452 515 525 659 704 734 806 893 1250 1704 2033 
+little Ecliptic.txt 4 43 258 1259 1712 
+ancient Ecliptic.txt 1 2140 
+reference Ecliptic.txt 6 433 1361 1371 1438 1718 1773 
+jet Ecliptic.txt 1 1053 
+56-minute Ecliptic.txt 1 323 
+system Ecliptic.txt 17 77 189 724 1192 1197 1206 1226 1249 1284 1319 1337 1351 1366 1381 1600 1621 1678 
+approximately Ecliptic.txt 1 321 
+solstice Ecliptic.txt 1 1997 
+180 Ecliptic.txt 2 396 2026 
+perturbations Ecliptic.txt 4 181 716 920 2031 
+observations Ecliptic.txt 1 1077 
+hypothetical Ecliptic.txt 1 334 
+185 Ecliptic.txt 1 385 
+hundred Ecliptic.txt 1 915 
+way Ecliptic.txt 1 1221 
+relationship Ecliptic.txt 1 411 
+that Ecliptic.txt 11 57 336 984 1171 1342 1494 1745 1810 1833 1980 2151 
+1/100 Ecliptic.txt 1 1493 
+took Ecliptic.txt 1 1061 
+lists Ecliptic.txt 1 1840 
+part Ecliptic.txt 1 405 
+somewhat Ecliptic.txt 2 1339 1664 
+1911 Ecliptic.txt 1 1079 
+than Ecliptic.txt 5 248 260 301 319 1261 
+specify Ecliptic.txt 1 1515 
+center Ecliptic.txt 2 160 2096 
+distance Ecliptic.txt 3 1584 1590 1864 
+12 Ecliptic.txt 2 2124 2147 
+15".8 Ecliptic.txt 1 1857 
+16".7 Ecliptic.txt 1 1861 
+46.845 Ecliptic.txt 1 1028 
+0.013 Ecliptic.txt 1 910 
+0.014 Ecliptic.txt 1 769 
+and Ecliptic.txt 45 97 125 286 390 454 491 501 627 661 701 736 756 787 808 833 840 847 857 906 936 953 961 1038 1252 1267 1329 1378 1410 1505 1510 1605 1642 1692 1706 1869 1910 1942 1947 1990 1996 2018 2035 2074 2111 2192 
+fashion Ecliptic.txt 1 202 
+julian Ecliptic.txt 1 1097 
+modern Ecliptic.txt 1 2060 
+constellations Ecliptic.txt 5 2049 2061 2069 2086 2150 
+have Ecliptic.txt 2 1104 1686 
+pisces Ecliptic.txt 1 2187 
+seen Ecliptic.txt 3 14 1393 2114 
+any Ecliptic.txt 2 276 1008 
+contents Ecliptic.txt 1 139 
+relatively Ecliptic.txt 4 1139 1696 1716 1771 
+traditionally Ecliptic.txt 1 2118 
+angle Ecliptic.txt 1 542 
+mostly Ecliptic.txt 1 693 
+convenient Ecliptic.txt 1 1672 
+note Ecliptic.txt 2 983 1744 
+also Ecliptic.txt 7 80 371 619 1273 1587 1623 2189 
+coplanar Ecliptic.txt 2 90 530 
+which Ecliptic.txt 11 88 127 348 362 476 546 1075 1223 1547 2107 2131 
+forming Ecliptic.txt 1 565 
+so Ecliptic.txt 2 358 1974 
+accuracy Ecliptic.txt 1 949 
+who Ecliptic.txt 1 1016 
+most Ecliptic.txt 3 1198 1282 1681 
+occurred Ecliptic.txt 1 1983 
+x Ecliptic.txt 1 1627 
+measured Ecliptic.txt 2 1530 1555 
+equatorial Ecliptic.txt 3 526 705 1412 
+observation Ecliptic.txt 2 930 951 
+calculated Ecliptic.txt 2 1011 1083 
+later Ecliptic.txt 1 298 
+points Ecliptic.txt 2 575 595 
+sunset Ecliptic.txt 1 126 
+normally Ecliptic.txt 1 109 
+precise Ecliptic.txt 1 1344 
+planetary Ecliptic.txt 3 743 919 1489 
+09 Ecliptic.txt 1 1856 
+j2000.0 Ecliptic.txt 1 1100 
+southward Ecliptic.txt 1 1565 
+right-handed Ecliptic.txt 1 1618 
+corresponded Ecliptic.txt 1 2144 
+radii Ecliptic.txt 1 1611 
+obliquity Ecliptic.txt 13 551 859 869 926 970 973 986 1006 1037 1071 1131 1170 1184 
+earth Ecliptic.txt 17 18 104 115 156 220 305 312 335 349 424 483 796 868 883 935 1609 1610 
+line Ecliptic.txt 1 2065 
+based Ecliptic.txt 2 331 1072 
+knowledge Ecliptic.txt 1 1345 
+with Ecliptic.txt 15 7 91 171 245 285 347 361 451 531 676 836 886 1523 1719 2062 
+jan Ecliptic.txt 2 1851 1880 
+only Ecliptic.txt 5 988 1750 1904 1950 1982 
+black Ecliptic.txt 1 471 
+arcseconds Ecliptic.txt 1 913 
+circle Ecliptic.txt 2 470 474 
+astronomical Ecliptic.txt 7 774 966 1069 1109 1601 1652 1838 
+do Ecliptic.txt 1 1936 
+5.145 Ecliptic.txt 1 1906 
+wide Ecliptic.txt 1 2102 
+46.815 Ecliptic.txt 1 1087 
+de Ecliptic.txt 1 1056 
+nearly Ecliptic.txt 1 1211 
+during Ecliptic.txt 3 355 993 1753 
+conjunction Ecliptic.txt 2 1941 1968 
+gray Ecliptic.txt 1 445 
+precession Ecliptic.txt 6 654 688 744 755 839 1490 
+colour-coded Ecliptic.txt 1 2071 
+including Ecliptic.txt 2 968 2013 
+obscure Ecliptic.txt 1 128 
+cycles Ecliptic.txt 2 122 1763 
+where Ecliptic.txt 3 505 1034 1093 
+inside Ecliptic.txt 1 1396 
+view Ecliptic.txt 1 2078 
+equinox Ecliptic.txt 15 618 647 835 848 858 1542 1634 1786 1809 1813 1831 1868 1877 1995 2175 
+computed Ecliptic.txt 1 1148 
+observer Ecliptic.txt 1 119 
+signs Ecliptic.txt 3 2125 2143 2156 
+see Ecliptic.txt 2 1666 2188 
+arc Ecliptic.txt 1 766 
+are Ecliptic.txt 22 149 498 663 842 853 971 1132 1166 1272 1455 1512 1592 1603 1614 1663 1671 1796 1824 2005 2044 2070 2113 
+close Ecliptic.txt 2 1288 1697 
+calendar Ecliptic.txt 1 2039 
+constellation Ecliptic.txt 1 2180 
+outward Ecliptic.txt 2 444 560 
+closer Ecliptic.txt 1 1478 
+propulsion Ecliptic.txt 1 1054 
+currently Ecliptic.txt 2 908 2081 
+wikipedia Ecliptic.txt 1 1 
+continually Ecliptic.txt 1 1106 
+various Ecliptic.txt 1 965 
+orbiting Ecliptic.txt 1 17 
+probably Ecliptic.txt 1 1232 
+365 Ecliptic.txt 2 45 249 
+360 Ecliptic.txt 1 1535 
+aberration Ecliptic.txt 1 2017 
+opposition Ecliptic.txt 2 1943 1970 
+analyzed Ecliptic.txt 2 1017 1076 
+article Ecliptic.txt 7 418 652 773 865 1195 1894 2090 
+essentially Ecliptic.txt 1 1320 
+toward Ecliptic.txt 2 1631 1646 
+many Ecliptic.txt 1 940 
+region Ecliptic.txt 1 2120 
+against Ecliptic.txt 3 133 272 1481 
+s Ecliptic.txt 3 425 884 1933 
+improves Ecliptic.txt 1 952 
+0h Ecliptic.txt 2 1847 1882 
+expression Ecliptic.txt 1 1150 
+yearly Ecliptic.txt 1 23 
+point Ecliptic.txt 3 624 998 2167 
+reasons Ecliptic.txt 1 1354 
+sky Ecliptic.txt 2 1294 1702 
+period Ecliptic.txt 2 173 678 
+ce Ecliptic.txt 1 1743 
+pole Ecliptic.txt 3 1462 1465 1650 
+respect Ecliptic.txt 4 8 887 1524 1720 
+throughout Ecliptic.txt 1 213 
+described Ecliptic.txt 1 147 
+basis Ecliptic.txt 1 72 
+addition Ecliptic.txt 1 1888 
+simplification Ecliptic.txt 2 330 781 
+due Ecliptic.txt 6 151 178 692 917 1218 1487 
+been Ecliptic.txt 1 1105 
+tropical Ecliptic.txt 1 1041 
+much Ecliptic.txt 1 727 
+combined Ecliptic.txt 1 746 
+mars Ecliptic.txt 1 1845 
+direction Ecliptic.txt 2 1545 1828 
+corresponding Ecliptic.txt 1 1617 
+formed Ecliptic.txt 1 1227 
+precision Ecliptic.txt 1 1136 
+external Ecliptic.txt 1 2195 
+catch Ecliptic.txt 1 283 
+an Ecliptic.txt 4 541 1149 1820 1956 
+has Ecliptic.txt 1 2183 
+uncertain Ecliptic.txt 1 1340 
+these Ecliptic.txt 8 594 749 963 1127 1164 1353 2043 2155 
+crossed Ecliptic.txt 1 1987 
+value Ecliptic.txt 2 923 1341 
+rectangular Ecliptic.txt 1 1619 
+near Ecliptic.txt 4 1608 1916 1924 1955 
+vernal Ecliptic.txt 6 500 617 834 1541 1633 2174 
+orientation Ecliptic.txt 1 657 
+equator Ecliptic.txt 23 382 415 453 493 513 557 568 592 637 662 812 832 846 856 885 1178 1377 1408 1450 1469 1498 1759 1778 
+is Ecliptic.txt 53 21 49 70 89 107 205 313 328 377 441 518 528 536 547 558 613 644 691 711 752 779 873 903 907 927 1035 1040 1096 1172 1216 1240 1256 1297 1309 1357 1477 1529 1554 1586 1622 1629 1654 1714 1735 1769 1811 1902 1913 1954 1966 1973 2023 2121 
+it Ecliptic.txt 16 69 302 393 440 485 539 569 690 902 1278 1699 1713 1925 1965 1988 2182 
+surface Ecliptic.txt 2 113 281 
+itself Ecliptic.txt 3 37 710 1574 
+in Ecliptic.txt 19 38 199 251 268 428 582 666 797 1048 1210 1222 1292 1349 1404 1546 1802 2047 2139 2178 
+ephemeris Ecliptic.txt 1 1066 
+y Ecliptic.txt 1 1636 
+if Ecliptic.txt 2 304 555 
+orbital Ecliptic.txt 3 401 523 1327 
+northward Ecliptic.txt 1 1562 
+perhaps Ecliptic.txt 1 1143 
+make Ecliptic.txt 1 238 
+cross Ecliptic.txt 1 510 
+same Ecliptic.txt 4 473 1213 1544 1963 
+epoch Ecliptic.txt 1 1821 
+complex Ecliptic.txt 1 201 
+positively Ecliptic.txt 1 1531 
+units Ecliptic.txt 2 1591 1602 
+several Ecliptic.txt 2 1144 1761 
+0.57610 Ecliptic.txt 1 1123 
+used Ecliptic.txt 9 876 1358 1436 1513 1593 1604 1615 1624 2163 
+centuries Ecliptic.txt 3 1042 1098 1145 
+closest Ecliptic.txt 1 1234 
+effect Ecliptic.txt 1 697 
+26,000 Ecliptic.txt 1 681 
+compared Ecliptic.txt 1 1774 
+changing Ecliptic.txt 1 1798 
+equirectangular Ecliptic.txt 1 2051 
+cycle Ecliptic.txt 1 40 
+laskar Ecliptic.txt 2 981 1147 
+sidereal Ecliptic.txt 1 324 
+1979 Ecliptic.txt 1 1081 
+makes Ecliptic.txt 1 1760 
+well Ecliptic.txt 1 1298 
+roughly Ecliptic.txt 2 1492 2145 
+peculiarities Ecliptic.txt 1 2036 
+without Ecliptic.txt 3 851 1173 1886 
+coordinate Ecliptic.txt 3 76 1380 1620 
+position Ecliptic.txt 8 198 230 271 759 823 1582 1801 1843 
+the Ecliptic.txt 282 2 10 16 19 22 25 31 47 50 54 58 64 71 74 78 83 95 99 105 118 121 129 134 144 153 158 163 167 183 187 190 203 207 211 214 226 228 232 243 254 269 273 293 320 342 344 351 356 359 363 369 375 380 398 407 413 421 432 437 447 458 461 464 472 477 486 489 492 495 499 506 511 532 550 553 556 562 566 571 578 580 587 590 601 607 616 622 628 632 635 638 645 656 671 674 695 699 708 714 718 722 731 739 745 758 761 785 792 810 822 825 827 830 844 849 854 861 871 874 880 889 900 921 925 932 948 955 958 969 975 985 996 1000 1005 1020 1036 1046 1052 1064 1068 1108 1130 1168 1174 1177 1180 1186 1190 1200 1204 1208 1212 1220 1224 1233 1238 1243 1247 1254 1264 1268 1290 1293 1295 1301 1304 1306 1312 1316 1321 1326 1333 1336 1350 1355 1360 1364 1382 1386 1389 1395 1398 1406 1411 1418 1424 1427 1432 1442 1445 1448 1453 1456 1459 1464 1468 1471 1475 1482 1496 1520 1526 1537 1540 1543 1548 1558 1567 1570 1572 1598 1626 1632 1635 1640 1643 1647 1651 1655 1667 1683 1690 1701 1708 1722 1726 1736 1739 1746 1757 1765 1767 1776 1781 1785 1787 1793 1812 1822 1827 1830 1837 1841 1875 1887 1897 1900 1908 1911 1917 1928 1931 1945 1952 1962 1971 1977 1985 1998 2006 2009 2014 2021 2038 2040 2048 2059 2067 2079 2084 2092 2095 2104 2108 2133 2142 2149 2153 2161 2165 2173 2179 
+23-hour Ecliptic.txt 1 322 
+bodies Ecliptic.txt 5 720 1202 1285 1334 1518 
+spherical Ecliptic.txt 2 1499 1581 
+less Ecliptic.txt 1 259 
+being Ecliptic.txt 5 1415 1447 1463 1491 1575 
+43 Ecliptic.txt 1 1860 
+rotates Ecliptic.txt 2 116 1748 
+speed Ecliptic.txt 4 340 346 360 402 
+0.0006 Ecliptic.txt 1 1089 
+family Ecliptic.txt 1 2073 
+instance Ecliptic.txt 1 1836 
+nutation Ecliptic.txt 8 775 815 841 852 1175 1187 1890 2019 
+unmoving Ecliptic.txt 1 1480 
+seems Ecliptic.txt 3 365 479 508 
+4 Ecliptic.txt 2 1850 1879 
+east Ecliptic.txt 1 1641 
+momentum Ecliptic.txt 1 1314 
+around Ecliptic.txt 6 94 103 157 195 341 1764 
+articles Ecliptic.txt 2 1375 1994 
+advances Ecliptic.txt 1 1426 
+increases Ecliptic.txt 1 960 
+descending Ecliptic.txt 2 649 1959 
+background Ecliptic.txt 2 135 1483 
+rotate Ecliptic.txt 1 669 
+necessary Ecliptic.txt 1 1588 
+jpls Ecliptic.txt 1 1101 
+bulge Ecliptic.txt 1 706 
+50 Ecliptic.txt 1 765 
+t Ecliptic.txt 14 1029 1031 1033 1039 1088 1090 1092 1095 1118 1120 1122 1124 1126 1153 
+always Ecliptic.txt 4 1694 1914 1920 2115 
+terminology Ecliptic.txt 1 2162 
+specifies Ecliptic.txt 2 1113 1874 
+because Ecliptic.txt 10 114 219 514 1279 1703 1779 1896 1926 1976 2029 
+some Ecliptic.txt 1 2159 
+barycenter Ecliptic.txt 1 192 
+table Ecliptic.txt 1 1668 
+oscillations Ecliptic.txt 1 804 
+118 Ecliptic.txt 1 1855 
+short-term Ecliptic.txt 1 801 
+for Ecliptic.txt 19 373 383 394 404 879 977 1007 1111 1129 1134 1167 1352 1439 1578 1594 1606 1660 1673 1835 
+per Ecliptic.txt 2 770 914 
+moon Ecliptic.txt 8 700 786 1901 1932 1948 1953 1986 2110 
+newcomb Ecliptic.txt 1 1015 
+intersections Ecliptic.txt 1 487 
+inclination Ecliptic.txt 4 881 1724 1737 1929 
+object Ecliptic.txt 1 1348 
+seconds Ecliptic.txt 1 767 
+22.5 Ecliptic.txt 1 992 
+perpendicular Ecliptic.txt 4 520 898 1451 1556 
+references Ecliptic.txt 1 2193 
+refers Ecliptic.txt 1 81 
+by Ecliptic.txt 9 182 540 763 877 929 1300 1311 1749 2072 
+on Ecliptic.txt 17 30 53 279 311 332 475 494 634 703 1073 1394 1441 1519 1700 1792 1922 2106 
+about Ecliptic.txt 15 175 295 384 395 544 670 680 764 768 904 1023 1275 1751 1905 2100 
+actual Ecliptic.txt 1 345 
+of Ecliptic.txt 118 66 73 85 123 136 155 161 166 174 186 210 216 231 242 292 379 387 392 400 406 409 423 460 488 543 552 625 631 658 673 679 698 717 721 730 733 738 748 760 784 791 795 805 824 829 860 870 882 892 924 931 934 950 957 974 1014 1019 1058 1067 1163 1176 1189 1199 1203 1237 1246 1277 1280 1303 1315 1323 1325 1331 1335 1346 1363 1368 1385 1397 1431 1467 1470 1495 1517 1569 1657 1676 1682 1725 1741 1780 1784 1790 1814 1829 1844 1871 1878 1889 1899 1927 1930 1944 2001 2016 2020 2030 2032 2037 2042 2053 2058 2097 2126 2130 2148 2160 2168 
+23.4 Ecliptic.txt 2 545 905 
+stand Ecliptic.txt 1 287 
+wobble Ecliptic.txt 1 1422 
+mean Ecliptic.txt 5 197 855 1169 1867 1876 
+slightly Ecliptic.txt 4 170 194 246 354 
+or Ecliptic.txt 12 290 648 891 1182 1507 1563 1612 1923 1958 1969 2003 2027 
+into Ecliptic.txt 2 2123 2186 
+within Ecliptic.txt 2 1274 1597 
+rotations Ecliptic.txt 1 1330 
+0.00181 Ecliptic.txt 2 1032 1091 
+right Ecliptic.txt 1 2056 
+accounts Ecliptic.txt 1 403 
+1986 Ecliptic.txt 1 982 
+1984 Ecliptic.txt 1 1051 
+span Ecliptic.txt 1 1142 
+1983 Ecliptic.txt 1 1004 
+question Ecliptic.txt 1 1049 
+long Ecliptic.txt 1 317 
+stars Ecliptic.txt 5 12 138 274 1484 1723 
+was Ecliptic.txt 4 1010 1082 2170 2176 
+north Ecliptic.txt 9 289 378 600 604 612 641 1460 1466 1648 
+complete Ecliptic.txt 3 240 1580 1762 
+simplifications Ecliptic.txt 1 150 
+6 Ecliptic.txt 1 1276 
+denoting Ecliptic.txt 1 2066 
+but Ecliptic.txt 3 535 668 1949 
+de200 Ecliptic.txt 1 1074 
+0.00200340 Ecliptic.txt 1 1121 
+solar Ecliptic.txt 12 188 723 1191 1196 1205 1225 1248 1283 1318 1365 1599 1677 
+small-amplitude Ecliptic.txt 1 802 
+true Ecliptic.txt 3 845 1181 1862 
+directed Ecliptic.txt 1 1630 
+gravitational Ecliptic.txt 2 696 715 
+j Ecliptic.txt 1 1146 
+up Ecliptic.txt 1 284 
+us Ecliptic.txt 1 2158 
+different Ecliptic.txt 2 1589 1595 
+planes Ecliptic.txt 2 1435 1474 
+continuously Ecliptic.txt 1 1797 
+200,000 Ecliptic.txt 1 1729 
+zodiac Ecliptic.txt 1 2105 
+z Ecliptic.txt 1 1644 
+minutes Ecliptic.txt 1 297 
+called Ecliptic.txt 3 753 843 2103 
+detailed Ecliptic.txt 1 2077 
+celestial Ecliptic.txt 26 32 55 381 414 448 465 496 512 563 567 591 636 811 831 1370 1376 1399 1407 1443 1449 1497 1508 1521 1758 1777 1794 
+intersects Ecliptic.txt 1 463 
+defined Ecliptic.txt 2 1299 1310 
+likewise Ecliptic.txt 1 707 
+measure Ecliptic.txt 1 1658 
+moved Ecliptic.txt 1 2185 
+general Ecliptic.txt 1 754 
+as Ecliptic.txt 25 13 146 436 482 549 577 615 621 686 689 742 814 947 954 1063 1242 1359 1392 1423 1437 1502 1680 1819 1853 1884 
+au Ecliptic.txt 1 1866 
+at Ecliptic.txt 8 338 573 593 1832 1846 1939 1961 1967 
+planets Ecliptic.txt 6 185 938 1021 1271 1684 2112 
+1895 Ecliptic.txt 1 1024 
+moves Ecliptic.txt 2 256 1710 
+1892 Ecliptic.txt 1 1733 
+again Ecliptic.txt 2 326 777 
+08.26 Ecliptic.txt 1 1027 
+dotted Ecliptic.txt 1 2064 
+47 Ecliptic.txt 1 912 
+whereas Ecliptic.txt 1 1756 
+when Ecliptic.txt 4 1951 1984 2008 2172 
+21.406 Ecliptic.txt 1 1116 
+other Ecliptic.txt 6 184 602 719 937 1269 1446 
+node Ecliptic.txt 3 630 650 1960 
+polar Ecliptic.txt 1 455 
+computer-generated Ecliptic.txt 1 1059 
+variation Ecliptic.txt 1 399 
+includes Ecliptic.txt 1 1185 
+solstices Ecliptic.txt 2 1991 2004 
+included Ecliptic.txt 1 1179 
+astronomy Ecliptic.txt 1 655 
+orbit Ecliptic.txt 13 93 102 225 308 426 735 799 1207 1251 1705 1898 1934 2034 
+2000 Ecliptic.txt 1 1002 
+declination Ecliptic.txt 1 2054 
+mass Ecliptic.txt 1 162 
+almanac Ecliptic.txt 3 1070 1110 1839 
+time Ecliptic.txt 6 410 995 1141 1755 1849 1964 
+requires Ecliptic.txt 2 1343 1805 
+equinoxes Ecliptic.txt 6 503 579 762 826 1989 2002 
+once Ecliptic.txt 1 776 

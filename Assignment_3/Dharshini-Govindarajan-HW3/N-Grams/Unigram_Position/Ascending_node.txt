@@ -1,0 +1,170 @@
+words Ascending_node.txt 1 352 
+cauda Ascending_node.txt 1 286 
+years Ascending_node.txt 1 405 
+symbols Ascending_node.txt 1 237 
+through Ascending_node.txt 3 117 134 233 
+heliocentric Ascending_node.txt 1 102 
+unicode Ascending_node.txt 2 248 258 
+non-inclined Ascending_node.txt 1 39 
+earth Ascending_node.txt 1 370 
+its Ascending_node.txt 1 393 
+causes Ascending_node.txt 1 392 
+al-jauzahar Ascending_node.txt 1 281 
+system Ascending_node.txt 1 145 
+parameters Ascending_node.txt 1 188 
+sky Ascending_node.txt 1 308 
+outside Ascending_node.txt 1 142 
+to Ascending_node.txt 7 33 88 293 328 349 375 395 
+tail Ascending_node.txt 1 284 
+other Ascending_node.txt 1 90 
+elliptic Ascending_node.txt 1 71 
+nodes Ascending_node.txt 10 50 68 95 217 236 270 333 346 357 394 
+include Ascending_node.txt 1 60 
+around Ascending_node.txt 1 369 
+geocentric Ascending_node.txt 1 100 
+early Ascending_node.txt 1 263 
+precess Ascending_node.txt 1 397 
+descending Ascending_node.txt 5 124 163 255 269 345 
+caput Ascending_node.txt 1 277 
+not Ascending_node.txt 1 379 
+intersection Ascending_node.txt 1 220 
+categories Ascending_node.txt 2 411 413 
+secondary Ascending_node.txt 1 155 
+term Ascending_node.txt 1 314 
+edit Ascending_node.txt 6 55 65 240 358 408 410 
+u+260b Ascending_node.txt 1 259 
+common Ascending_node.txt 1 56 
+references Ascending_node.txt 1 409 
+where Ascending_node.txt 5 25 111 130 152 168 
+side Ascending_node.txt 1 82 
+referred Ascending_node.txt 1 292 
+set Ascending_node.txt 1 186 
+reference Ascending_node.txt 8 32 46 54 59 78 87 121 230 
+used Ascending_node.txt 3 181 323 340 
+see Ascending_node.txt 1 406 
+elements Ascending_node.txt 2 15 191 
+click Ascending_node.txt 1 73 
+gradually Ascending_node.txt 1 396 
+westward Ascending_node.txt 1 398 
+for Ascending_node.txt 3 99 341 363 
+giving Ascending_node.txt 1 347 
+sun Ascending_node.txt 2 305 388 
+away Ascending_node.txt 1 157 
+wikipedia Ascending_node.txt 1 2 
+moon Ascending_node.txt 3 298 368 391 
+contained Ascending_node.txt 1 43 
+lunar Ascending_node.txt 2 356 361 
+orbiting Ascending_node.txt 2 113 154 
+either Ascending_node.txt 2 20 330 
+be Ascending_node.txt 3 97 180 376 
+object Ascending_node.txt 1 114 
+terms Ascending_node.txt 2 290 336 
+medieval Ascending_node.txt 2 261 326 
+respectively Ascending_node.txt 1 288 
+were Ascending_node.txt 3 271 322 338 
+ascending Ascending_node.txt 8 5 8 105 147 205 245 267 343 
+ecliptic Ascending_node.txt 1 378 
+objects Ascending_node.txt 2 141 223 
+path Ascending_node.txt 1 302 
+by Ascending_node.txt 1 199 
+about Ascending_node.txt 1 67 
+of Ascending_node.txt 25 12 21 31 53 58 69 83 86 120 140 176 184 187 203 211 216 221 229 243 253 303 311 331 366 386 
+completing Ascending_node.txt 1 399 
+zeuzahar Ascending_node.txt 1 321 
+nomenclature Ascending_node.txt 1 239 
+distinguished Ascending_node.txt 1 98 
+distinction Ascending_node.txt 1 64 
+onto Ascending_node.txt 1 74 
+or Ascending_node.txt 3 107 126 207 
+south Ascending_node.txt 2 127 133 
+image Ascending_node.txt 1 75 
+one Ascending_node.txt 3 11 81 183 
+done Ascending_node.txt 1 198 
+article Ascending_node.txt 1 360 
+passes Ascending_node.txt 2 156 232 
+from Ascending_node.txt 3 4 80 158 
+observer Ascending_node.txt 2 160 173 
+west Ascending_node.txt 1 327 
+two Ascending_node.txt 4 23 70 94 235 
+approximately Ascending_node.txt 1 403 
+taken Ascending_node.txt 1 374 
+cycle Ascending_node.txt 1 401 
+main Ascending_node.txt 1 359 
+direction Ascending_node.txt 1 79 
+modern Ascending_node.txt 1 264 
+north Ascending_node.txt 2 108 116 
+inclined Ascending_node.txt 1 37 
+apparent Ascending_node.txt 1 301 
+solar Ascending_node.txt 1 144 
+line Ascending_node.txt 1 215 
+dragons Ascending_node.txt 2 274 283 
+with Ascending_node.txt 1 226 
+hidden Ascending_node.txt 1 412 
+case Ascending_node.txt 1 139 
+pull Ascending_node.txt 1 385 
+has Ascending_node.txt 1 48 
+geuzaar Ascending_node.txt 1 319 
+this Ascending_node.txt 1 196 
+originally Ascending_node.txt 1 291 
+u+260a Ascending_node.txt 1 249 
+gravitational Ascending_node.txt 1 384 
+longitude Ascending_node.txt 2 202 210 
+catabibazon Ascending_node.txt 1 355 
+crossed Ascending_node.txt 1 299 
+can Ascending_node.txt 1 96 
+planes Ascending_node.txt 2 52 57 
+following Ascending_node.txt 1 62 
+latin Ascending_node.txt 2 276 285 
+called Ascending_node.txt 2 189 272 
+18.6 Ascending_node.txt 1 404 
+and Ascending_node.txt 12 101 122 161 238 250 262 268 282 320 337 344 354 
+intersects Ascending_node.txt 1 28 
+defined Ascending_node.txt 1 92 
+is Ascending_node.txt 14 10 19 36 42 91 110 129 149 165 197 218 247 257 373 
+describe Ascending_node.txt 1 193 
+it Ascending_node.txt 4 35 131 169 231 
+an Ascending_node.txt 2 16 26 
+as Ascending_node.txt 2 182 316 
+ras Ascending_node.txt 1 280 
+in Ascending_node.txt 6 44 137 260 306 324 402 
+arabic Ascending_node.txt 2 279 313 
+moves Ascending_node.txt 3 115 132 170 
+corruptions Ascending_node.txt 1 310 
+contents Ascending_node.txt 1 51 
+if Ascending_node.txt 1 76 
+orbital Ascending_node.txt 5 0 14 17 190 224 
+these Ascending_node.txt 1 289 
+no Ascending_node.txt 1 49 
+when Ascending_node.txt 1 296 
+draconis Ascending_node.txt 2 278 287 
+anabibazon Ascending_node.txt 1 353 
+also Ascending_node.txt 3 309 339 407 
+animation Ascending_node.txt 1 66 
+which Ascending_node.txt 3 34 41 192 
+several Ascending_node.txt 1 13 
+ganzaar Ascending_node.txt 1 317 
+node Ascending_node.txt 19 1 6 9 18 63 106 109 125 128 148 151 164 167 178 206 213 246 256 362 
+towards Ascending_node.txt 1 171 
+denote Ascending_node.txt 1 329 
+may Ascending_node.txt 1 179 
+symbol Ascending_node.txt 2 242 252 
+trajectories Ascending_node.txt 1 72 
+upon Ascending_node.txt 1 389 
+orbits Ascending_node.txt 1 103 
+rise Ascending_node.txt 1 348 
+plane Ascending_node.txt 9 30 47 85 119 136 225 228 372 382 
+redirected Ascending_node.txt 1 3 
+head Ascending_node.txt 1 275 
+such Ascending_node.txt 1 315 
+genzahar Ascending_node.txt 1 318 
+times Ascending_node.txt 2 265 295 
+a Ascending_node.txt 5 29 38 77 185 400 
+equatorial Ascending_node.txt 1 381 
+sometimes Ascending_node.txt 1 208 
+orbit Ascending_node.txt 4 27 40 195 365 
+greek Ascending_node.txt 1 335 
+points Ascending_node.txt 1 24 
+specifying Ascending_node.txt 1 200 
+english Ascending_node.txt 1 351 
+position Ascending_node.txt 1 175 
+the Ascending_node.txt 58 7 22 45 61 84 89 93 104 112 118 123 135 138 143 146 150 153 159 162 166 172 174 177 194 201 204 209 212 214 219 222 227 234 241 244 251 254 266 273 294 297 300 304 307 312 325 332 334 342 350 364 367 371 377 380 383 387 390 

@@ -1,0 +1,528 @@
+represent Micrometeorite.txt 1 375 
+all Micrometeorite.txt 2 293 401 
+cryptocrystalline Micrometeorite.txt 1 275 
+magnetic Micrometeorite.txt 4 543 582 677 682 
+asteroids Micrometeorite.txt 4 410 929 1013 1102 
+spacecraft Micrometeorite.txt 1 1080 
+debris Micrometeorite.txt 1 852 
+per Micrometeorite.txt 1 330 
+micrometeorites Micrometeorite.txt 20 34 67 86 317 362 464 512 540 714 740 786 821 875 884 901 921 934 1092 1098 1109 
+abundant Micrometeorite.txt 2 46 609 
+content Micrometeorite.txt 1 1151 
+etching Micrometeorite.txt 1 806 
+passage Micrometeorite.txt 1 1198 
+to Micrometeorite.txt 23 25 105 117 123 204 212 352 505 524 632 733 767 902 951 957 969 1100 1117 1146 1152 1195 1200 1231 
+program Micrometeorite.txt 1 1166 
+olivine Micrometeorite.txt 1 273 
+summarizes Micrometeorite.txt 1 895 
+returned Micrometeorite.txt 1 1071 
+far Micrometeorite.txt 1 573 
+every Micrometeorite.txt 1 1159 
+fall Micrometeorite.txt 1 122 
+drinking Micrometeorite.txt 1 783 
+categories Micrometeorite.txt 2 1249 1251 
+g-type Micrometeorite.txt 1 281 
+did Micrometeorite.txt 2 579 596 
+sedimentary Micrometeorite.txt 1 471 
+fewer Micrometeorite.txt 1 941 
+large Micrometeorite.txt 5 231 395 419 749 814 
+this Micrometeorite.txt 2 979 1144 
+cryoconite Micrometeorite.txt 1 845 
+round Micrometeorite.txt 1 213 
+upper Micrometeorite.txt 1 338 
+smaller Micrometeorite.txt 2 42 62 
+contrasting Micrometeorite.txt 1 931 
+consistent Micrometeorite.txt 1 1089 
+second Micrometeorite.txt 1 551 
+further Micrometeorite.txt 1 1243 
+estimated Micrometeorite.txt 4 326 351 371 1134 
+click Micrometeorite.txt 1 765 
+blue Micrometeorite.txt 1 847 
+oldest Micrometeorite.txt 1 723 
+appear Micrometeorite.txt 1 1099 
+dirt Micrometeorite.txt 1 744 
+extraterrestrial Micrometeorite.txt 4 100 314 568 1108 
+nickel-iron Micrometeorite.txt 1 592 
+1400 Micrometeorite.txt 1 348 
+textures Micrometeorite.txt 1 159 
+degree Micrometeorite.txt 2 172 247 
+makeup Micrometeorite.txt 1 932 
+here Micrometeorite.txt 1 766 
+ranges Micrometeorite.txt 1 21 
+meteorites Micrometeorite.txt 9 37 151 373 882 925 953 976 1006 1009 
+objects Micrometeorite.txt 2 120 404 
+groups Micrometeorite.txt 2 538 905 
+suggest Micrometeorite.txt 1 1058 
+box Micrometeorite.txt 1 672 
+k Micrometeorite.txt 1 282 
+larger Micrometeorite.txt 2 641 1190 
+allows Micrometeorite.txt 1 1188 
+experience Micrometeorite.txt 1 177 
+depositions Micrometeorite.txt 1 761 
+suggests Micrometeorite.txt 3 393 935 994 
+usually Micrometeorite.txt 1 28 
+studies Micrometeorite.txt 1 440 
+influx Micrometeorite.txt 2 1112 1137 
+composed Micrometeorite.txt 1 1173 
+diameter Micrometeorite.txt 1 1233 
+classification Micrometeorite.txt 5 241 871 877 880 904 
+visible Micrometeorite.txt 1 135 
+undergone Micrometeorite.txt 1 1216 
+from Micrometeorite.txt 25 22 36 192 400 414 468 481 518 574 650 667 694 747 756 776 841 928 939 959 999 1012 1028 1044 1072 1163 
+links Micrometeorite.txt 1 1247 
+fine-grained Micrometeorite.txt 1 259 
+two Micrometeorite.txt 1 537 
+wind-driven Micrometeorite.txt 1 851 
+asteroid Micrometeorite.txt 2 918 961 
+therefore Micrometeorite.txt 1 358 
+soil Micrometeorite.txt 1 1123 
+survive Micrometeorite.txt 4 149 1196 1212 1236 
+type Micrometeorite.txt 1 980 
+until Micrometeorite.txt 2 1033 1205 
+more Micrometeorite.txt 1 45 
+comparison Micrometeorite.txt 1 908 
+glass Micrometeorite.txt 3 277 809 817 
+producing Micrometeorite.txt 1 403 
+insights Micrometeorite.txt 1 445 
+abundance Micrometeorite.txt 1 990 
+f Micrometeorite.txt 2 220 271 
+mm Micrometeorite.txt 4 27 158 396 420 
+modified Micrometeorite.txt 1 169 
+roof Micrometeorite.txt 1 758 
+cat Micrometeorite.txt 1 279 
+lower-density Micrometeorite.txt 1 1185 
+i-type Micrometeorite.txt 1 283 
+figure Micrometeorite.txt 2 250 304 
+give Micrometeorite.txt 1 444 
+high Micrometeorite.txt 1 72 
+numbers Micrometeorite.txt 1 815 
+pre-solar Micrometeorite.txt 1 457 
+sought Micrometeorite.txt 1 497 
+present-day Micrometeorite.txt 1 107 
+terrestrial Micrometeorite.txt 5 506 575 707 710 800 
+huge Micrometeorite.txt 1 381 
+textural Micrometeorite.txt 1 914 
+provide Micrometeorite.txt 1 422 
+1 Micrometeorite.txt 6 201 209 218 239 251 943 
+dominance Micrometeorite.txt 1 982 
+compositionally Micrometeorite.txt 1 967 
+micrometeorite Micrometeorite.txt 4 0 3 157 256 
+140 Micrometeorite.txt 1 732 
+information Micrometeorite.txt 1 423 
+may Micrometeorite.txt 1 738 
+coined Micrometeorite.txt 1 113 
+collection Micrometeorite.txt 2 461 657 
+such Micrometeorite.txt 2 18 754 
+1883 Micrometeorite.txt 1 561 
+types Micrometeorite.txt 2 432 823 
+a Micrometeorite.txt 18 2 6 19 53 202 230 258 548 557 623 627 646 681 748 757 769 907 1219 
+dynamical Micrometeorite.txt 1 1056 
+resemble Micrometeorite.txt 2 581 598 
+light Micrometeorite.txt 1 306 
+regolith Micrometeorite.txt 3 1121 1158 1171 
+lost Micrometeorite.txt 1 229 
+aeolian Micrometeorite.txt 1 850 
+enter Micrometeorite.txt 1 68 
+least Micrometeorite.txt 1 75 
+taxonomy Micrometeorite.txt 1 898 
+vary Micrometeorite.txt 1 160 
+murray Micrometeorite.txt 1 533 
+years Micrometeorite.txt 1 1161 
+produced Micrometeorite.txt 1 584 
+paper Micrometeorite.txt 1 890 
+through Micrometeorite.txt 4 12 81 236 1199 
+regions Micrometeorite.txt 1 837 
+derive Micrometeorite.txt 2 998 1011 
+group Micrometeorite.txt 1 653 
+presence Micrometeorite.txt 1 812 
+fig Micrometeorite.txt 5 200 208 217 223 238 
+hidden Micrometeorite.txt 1 1250 
+might Micrometeorite.txt 2 1019 1026 
+rake Micrometeorite.txt 1 688 
+effects Micrometeorite.txt 1 430 
+they Micrometeorite.txt 10 40 51 144 176 190 459 476 562 570 578 
+not Micrometeorite.txt 3 143 580 597 
+day Micrometeorite.txt 1 868 
+structural Micrometeorite.txt 1 164 
+term Micrometeorite.txt 1 115 
+i-types Micrometeorite.txt 1 292 
+edit Micrometeorite.txt 13 156 463 510 709 762 876 878 922 1110 1240 1242 1245 1248 
+l Micrometeorite.txt 1 285 
+rocks Micrometeorite.txt 2 472 604 
+idps Micrometeorite.txt 1 66 
+each Micrometeorite.txt 2 340 388 
+found Micrometeorite.txt 9 29 536 572 601 718 730 787 797 834 
+subset Micrometeorite.txt 1 54 
+idea Micrometeorite.txt 1 1023 
+sled Micrometeorite.txt 1 683 
+challenger Micrometeorite.txt 2 530 661 
+entering Micrometeorite.txt 4 130 178 385 1224 
+year Micrometeorite.txt 3 331 341 389 
+our Micrometeorite.txt 1 415 
+85 Micrometeorite.txt 1 1060 
+furthermore Micrometeorite.txt 1 1067 
+since Micrometeorite.txt 2 654 1007 
+concentrated Micrometeorite.txt 1 753 
+particles Micrometeorite.txt 13 65 194 207 357 384 399 507 1043 1070 1084 1191 1210 1223 
+red Micrometeorite.txt 2 615 700 
+lawrence Micrometeorite.txt 1 110 
+retrieved Micrometeorite.txt 1 689 
+interplanetary Micrometeorite.txt 1 63 
+little Micrometeorite.txt 1 805 
+mms Micrometeorite.txt 13 299 443 495 724 773 833 945 965 986 997 1018 1025 1053 
+fred Micrometeorite.txt 1 109 
+20,000 Micrometeorite.txt 1 328 
+compositions Micrometeorite.txt 2 167 1086 
+silicate Micrometeorite.txt 1 295 
+g Micrometeorite.txt 4 93 221 274 290 
+could Micrometeorite.txt 1 1064 
+cosmic Micrometeorite.txt 9 56 215 311 334 513 662 686 692 1062 
+hardgrounds Micrometeorite.txt 1 735 
+times Micrometeorite.txt 1 367 
+deep-sea Micrometeorite.txt 3 469 519 830 
+retain Micrometeorite.txt 1 196 
+undergo Micrometeorite.txt 1 79 
+south Micrometeorite.txt 2 781 859 
+first Micrometeorite.txt 4 112 516 541 656 
+origin Micrometeorite.txt 4 448 629 919 1183 
+number Micrometeorite.txt 1 382 
+linking Micrometeorite.txt 1 899 
+1876 Micrometeorite.txt 1 525 
+1873 Micrometeorite.txt 1 523 
+antarctic Micrometeorite.txt 4 846 849 863 869 
+59,000 Micrometeorite.txt 1 1142 
+size Micrometeorite.txt 3 16 44 426 
+earths Micrometeorite.txt 4 13 69 132 493 
+differ Micrometeorite.txt 1 35 
+indicate Micrometeorite.txt 1 1167 
+introduction Micrometeorite.txt 1 155 
+top Micrometeorite.txt 1 696 
+carbonate Micrometeorite.txt 1 620 
+system Micrometeorite.txt 2 408 1130 
+approximately Micrometeorite.txt 2 376 973 
+their Micrometeorite.txt 10 162 183 197 234 447 488 591 910 988 1050 
+2 Micrometeorite.txt 4 26 224 305 1076 
+1m Micrometeorite.txt 1 1148 
+recovered Micrometeorite.txt 1 666 
+fraction Micrometeorite.txt 1 1221 
+that Micrometeorite.txt 23 8 39 102 121 175 195 322 324 370 394 500 564 625 721 824 936 995 1024 1059 1082 1087 1168 1211 
+than Micrometeorite.txt 7 345 369 642 795 942 1002 1192 
+11 Micrometeorite.txt 1 76 
+scoriaceous Micrometeorite.txt 1 265 
+b Micrometeorite.txt 2 203 261 
+meteors Micrometeorite.txt 1 137 
+likely Micrometeorite.txt 1 926 
+compensation Micrometeorite.txt 1 621 
+classes Micrometeorite.txt 1 257 
+iron Micrometeorite.txt 2 600 728 
+were Micrometeorite.txt 4 515 567 571 607 
+and Micrometeorite.txt 34 47 78 84 91 94 128 148 152 165 186 246 284 291 379 412 417 431 456 473 484 534 590 676 745 810 819 866 872 883 913 948 987 1141 1178 
+microanalyses Micrometeorite.txt 1 321 
+modern Micrometeorite.txt 2 879 896 
+have Micrometeorite.txt 7 228 465 664 716 838 1085 1215 
+contents Micrometeorite.txt 1 154 
+grabbers Micrometeorite.txt 1 675 
+snow Micrometeorite.txt 3 483 843 870 
+metallic Micrometeorite.txt 2 549 599 
+also Micrometeorite.txt 4 59 712 1115 1239 
+materials Micrometeorite.txt 2 434 503 
+which Micrometeorite.txt 5 58 227 343 374 954 
+finding Micrometeorite.txt 1 624 
+coarse-grained Micrometeorite.txt 1 262 
+micrometeoroid Micrometeorite.txt 2 7 1136 
+altered Micrometeorite.txt 1 727 
+reach Micrometeorite.txt 2 145 353 
+most Micrometeorite.txt 8 97 608 924 937 964 996 1005 1008 
+significant Micrometeorite.txt 2 1217 1220 
+entry Micrometeorite.txt 4 11 189 1037 1213 
+measured Micrometeorite.txt 1 1041 
+chondrites Micrometeorite.txt 2 971 1107 
+isotopic Micrometeorite.txt 1 912 
+mineral Micrometeorite.txt 2 166 287 
+sometimes Micrometeorite.txt 1 126 
+metal Micrometeorite.txt 2 594 637 
+barred Micrometeorite.txt 1 272 
+bodies Micrometeorite.txt 2 1096 1126 
+weigh Micrometeorite.txt 1 88 
+30,000 Micrometeorite.txt 1 327 
+typically Micrometeorite.txt 1 1214 
+atmosphere Micrometeorite.txt 7 14 70 133 339 387 1187 1227 
+particularly Micrometeorite.txt 1 614 
+relict-grain Micrometeorite.txt 1 267 
+show Micrometeorite.txt 2 323 1081 
+supported Micrometeorite.txt 1 626 
+friction Micrometeorite.txt 1 83 
+earth Micrometeorite.txt 6 31 108 125 437 1194 1209 
+find Micrometeorite.txt 1 739 
+ground Micrometeorite.txt 1 147 
+impact Micrometeorite.txt 1 1206 
+based Micrometeorite.txt 1 243 
+being Micrometeorite.txt 1 774 
+black Micrometeorite.txt 1 542 
+rich Micrometeorite.txt 1 296 
+1200-m Micrometeorite.txt 1 1232 
+thousands Micrometeorite.txt 1 690 
+10 Micrometeorite.txt 6 90 92 346 390 391 697 
+micrometorites Micrometeorite.txt 1 153 
+2700 Micrometeorite.txt 1 347 
+furnaces Micrometeorite.txt 1 586 
+during Micrometeorite.txt 1 521 
+areas Micrometeorite.txt 1 742 
+contributes Micrometeorite.txt 2 1116 1145 
+h Micrometeorite.txt 2 222 276 
+microscope Micrometeorite.txt 1 307 
+contain Micrometeorite.txt 4 398 460 645 713 
+including Micrometeorite.txt 1 409 
+where Micrometeorite.txt 1 743 
+sediment Micrometeorite.txt 1 864 
+bars Micrometeorite.txt 1 301 
+relative Micrometeorite.txt 1 504 
+collectively Micrometeorite.txt 1 95 
+see Micrometeorite.txt 2 768 1238 
+individual Micrometeorite.txt 2 442 900 
+survived Micrometeorite.txt 1 10 
+are Micrometeorite.txt 18 41 52 134 168 294 302 318 477 496 725 791 825 946 949 955 966 977 1088 
+unaltered Micrometeorite.txt 1 1204 
+movie Micrometeorite.txt 1 771 
+review Micrometeorite.txt 1 889 
+currently Micrometeorite.txt 1 478 
+wikipedia Micrometeorite.txt 1 1 
+sites Micrometeorite.txt 1 462 
+3 Micrometeorite.txt 1 974 
+determined Micrometeorite.txt 1 319 
+between Micrometeorite.txt 2 89 1139 
+probably Micrometeorite.txt 2 1010 1235 
+vaporization Micrometeorite.txt 1 237 
+reading Micrometeorite.txt 1 1244 
+recently Micrometeorite.txt 1 1034 
+parent Micrometeorite.txt 1 1095 
+nature Micrometeorite.txt 1 450 
+originated Micrometeorite.txt 1 1030 
+however Micrometeorite.txt 1 1054 
+concentrate Micrometeorite.txt 1 501 
+carbon Micrometeorite.txt 1 453 
+come Micrometeorite.txt 1 104 
+suggested Micrometeorite.txt 1 563 
+water Micrometeorite.txt 2 784 861 
+essentially Micrometeorite.txt 1 5 
+sediments Micrometeorite.txt 9 470 475 509 520 613 669 708 711 790 
+many Micrometeorite.txt 1 1091 
+annual Micrometeorite.txt 1 1135 
+heating Micrometeorite.txt 4 80 174 249 429 
+fe-ni Micrometeorite.txt 2 593 636 
+s Micrometeorite.txt 1 32 
+present Micrometeorite.txt 1 867 
+comet Micrometeorite.txt 3 916 1045 1074 
+among Micrometeorite.txt 1 679 
+clamshell Micrometeorite.txt 1 674 
+volcanic Micrometeorite.txt 1 603 
+cm Micrometeorite.txt 1 698 
+environments Micrometeorite.txt 2 499 801 
+60 Micrometeorite.txt 2 1175 1230 
+pole Micrometeorite.txt 2 782 860 
+crystalline Micrometeorite.txt 1 558 
+amino Micrometeorite.txt 1 454 
+platinum Micrometeorite.txt 1 652 
+source Micrometeorite.txt 1 1016 
+addition Micrometeorite.txt 1 631 
+downspout Micrometeorite.txt 1 759 
+micrometeoritic Micrometeorite.txt 1 1150 
+been Micrometeorite.txt 5 466 665 717 752 839 
+muck Micrometeorite.txt 1 687 
+much Micrometeorite.txt 2 792 1189 
+slowly Micrometeorite.txt 1 611 
+mars Micrometeorite.txt 2 418 1131 
+collected Micrometeorite.txt 5 467 479 517 775 840 
+whipple Micrometeorite.txt 1 111 
+c Micrometeorite.txt 2 210 264 
+hms Micrometeorite.txt 2 529 660 
+spherules Micrometeorite.txt 12 216 312 514 544 553 566 606 640 663 693 729 818 
+external Micrometeorite.txt 1 1246 
+t/yr Micrometeorite.txt 4 332 349 378 1143 
+doubts Micrometeorite.txt 1 1048 
+unmelted Micrometeorite.txt 5 193 260 263 820 1237 
+those Micrometeorite.txt 3 633 796 1003 
+50m Micrometeorite.txt 1 303 
+atmospheric Micrometeorite.txt 2 82 428 
+grains Micrometeorite.txt 1 458 
+these Micrometeorite.txt 5 502 565 680 715 1083 
+originate Micrometeorite.txt 3 927 938 1027 
+single Micrometeorite.txt 1 286 
+cast Micrometeorite.txt 1 1047 
+while Micrometeorite.txt 2 438 1207 
+melted Micrometeorite.txt 3 206 214 511 
+wild Micrometeorite.txt 1 1075 
+comets Micrometeorite.txt 4 411 940 1021 1029 
+cometary Micrometeorite.txt 1 1066 
+characteristics Micrometeorite.txt 1 915 
+is Micrometeorite.txt 6 4 242 350 364 885 1172 
+simulations Micrometeorite.txt 1 1057 
+surface Micrometeorite.txt 4 33 355 494 1202 
+vs Micrometeorite.txt 1 917 
+against Micrometeorite.txt 1 1049 
+in Micrometeorite.txt 21 38 43 49 405 498 531 560 585 602 610 630 719 731 741 788 798 829 835 991 1031 1127 
+different Micrometeorite.txt 3 48 255 1001 
+spheres Micrometeorite.txt 2 583 634 
+media Micrometeorite.txt 1 764 
+cross Micrometeorite.txt 1 252 
+complex Micrometeorite.txt 1 886 
+accumulating Micrometeorite.txt 1 612 
+streams Micrometeorite.txt 1 1046 
+composition Micrometeorite.txt 4 50 245 427 1119 
+higher Micrometeorite.txt 1 368 
+material Micrometeorite.txt 1 101 
+dust Micrometeorite.txt 6 57 64 335 402 746 1063 
+angle Micrometeorite.txt 1 187 
+totally Micrometeorite.txt 1 726 
+recent Micrometeorite.txt 1 1055 
+dust-sized Micrometeorite.txt 1 119 
+traps Micrometeorite.txt 1 865 
+largely Micrometeorite.txt 1 1203 
+i Micrometeorite.txt 2 240 278 
+nonetheless Micrometeorite.txt 1 1093 
+well Micrometeorite.txt 2 785 862 
+roughly Micrometeorite.txt 1 365 
+ocean Micrometeorite.txt 3 508 668 705 
+thought Micrometeorite.txt 1 956 
+without Micrometeorite.txt 1 547 
+km/s Micrometeorite.txt 1 77 
+accreting Micrometeorite.txt 1 435 
+the Micrometeorite.txt 59 15 61 99 106 114 124 131 146 171 179 313 337 354 359 380 386 406 425 449 452 492 522 528 588 605 619 651 655 659 685 695 703 722 777 780 811 832 855 858 887 930 960 981 1022 1035 1073 1078 1111 1118 1128 1153 1156 1164 1169 1184 1197 1201 1225 1229 
+comprise Micrometeorite.txt 1 96 
+1950 Micrometeorite.txt 1 1032 
+less Micrometeorite.txt 2 344 793 
+180-million-year-old Micrometeorite.txt 1 734 
+micro-meteorite Micrometeorite.txt 1 116 
+sources Micrometeorite.txt 2 577 1000 
+krot Micrometeorite.txt 1 892 
+40 Micrometeorite.txt 1 1179 
+micrometeoroids Micrometeorite.txt 3 129 1040 1114 
+alternative Micrometeorite.txt 1 1015 
+speed Micrometeorite.txt 1 185 
+enters Micrometeorite.txt 1 336 
+interstitial Micrometeorite.txt 1 808 
+except Micrometeorite.txt 1 288 
+meteorite Micrometeorite.txt 3 897 903 992 
+collections Micrometeorite.txt 3 397 421 993 
+4 Micrometeorite.txt 1 962 
+samples Micrometeorite.txt 2 720 831 
+evidenced Micrometeorite.txt 1 803 
+has Micrometeorite.txt 4 9 103 751 1132 
+transformation Micrometeorite.txt 1 1218 
+viking Micrometeorite.txt 1 1165 
+survival Micrometeorite.txt 1 1051 
+chondrule Micrometeorite.txt 1 1104 
+resembling Micrometeorite.txt 1 554 
+brown-coloured Micrometeorite.txt 1 552 
+using Micrometeorite.txt 1 670 
+planetary/lunar Micrometeorite.txt 1 1122 
+d Micrometeorite.txt 2 211 266 
+particle Micrometeorite.txt 3 20 576 822 
+sleds Micrometeorite.txt 1 678 
+velocities Micrometeorite.txt 2 73 1038 
+50 Micrometeorite.txt 3 23 366 377 
+clays Micrometeorite.txt 2 616 701 
+atmospherea Micrometeorite.txt 1 180 
+vesta Micrometeorite.txt 1 963 
+basaltic Micrometeorite.txt 1 1176 
+chondrules Micrometeorite.txt 1 555 
+because Micrometeorite.txt 2 486 569 
+collectors Micrometeorite.txt 1 737 
+some Micrometeorite.txt 3 225 639 1094 
+play Micrometeorite.txt 1 763 
+pacific Micrometeorite.txt 1 704 
+martian Micrometeorite.txt 4 1157 1170 1186 1226 
+stardust Micrometeorite.txt 1 1079 
+images Micrometeorite.txt 1 308 
+scale Micrometeorite.txt 1 300 
+for Micrometeorite.txt 5 289 372 1004 1017 1042 
+bottom Micrometeorite.txt 2 778 856 
+measurements Micrometeorite.txt 1 1162 
+ice Micrometeorite.txt 3 485 848 853 
+moon Micrometeorite.txt 1 416 
+meteoroids Micrometeorite.txt 1 127 
+fragments Micrometeorite.txt 1 413 
+core Micrometeorite.txt 1 647 
+300 Micrometeorite.txt 1 643 
+rock Micrometeorite.txt 2 1177 1180 
+analyses Micrometeorite.txt 1 1068 
+by Micrometeorite.txt 4 170 320 804 1077 
+on Micrometeorite.txt 9 30 244 424 436 491 702 1124 1193 1208 
+about Micrometeorite.txt 1 1147 
+rare Micrometeorite.txt 1 826 
+origins Micrometeorite.txt 2 315 873 
+of Micrometeorite.txt 55 17 55 98 173 182 188 226 233 248 254 309 316 333 342 361 383 433 441 451 487 527 539 587 648 658 691 699 772 779 807 813 816 857 874 881 891 909 920 933 944 975 978 983 1039 1061 1069 1097 1113 1120 1138 1149 1155 1174 1181 1222 
+range Micrometeorite.txt 2 191 1234 
+concentrations Micrometeorite.txt 1 490 
+or Micrometeorite.txt 4 138 142 546 827 
+stony Micrometeorite.txt 2 298 310 
+individually Micrometeorite.txt 1 87 
+porphyritic Micrometeorite.txt 1 270 
+mineralogy Micrometeorite.txt 1 199 
+into Micrometeorite.txt 1 446 
+greenland Micrometeorite.txt 2 842 844 
+references Micrometeorite.txt 1 1241 
+primarily Micrometeorite.txt 1 480 
+renard Micrometeorite.txt 1 535 
+achondritic Micrometeorite.txt 1 947 
+compression Micrometeorite.txt 1 85 
+weathered Micrometeorite.txt 1 794 
+area Micrometeorite.txt 1 750 
+initial Micrometeorite.txt 1 184 
+hed Micrometeorite.txt 1 952 
+low Micrometeorite.txt 2 489 989 
+stars Micrometeorite.txt 1 140 
+deposited Micrometeorite.txt 2 363 617 
+sections Micrometeorite.txt 1 253 
+function Micrometeorite.txt 1 181 
+amateur Micrometeorite.txt 1 736 
+chondrite-like Micrometeorite.txt 1 985 
+solar Micrometeorite.txt 2 407 1129 
+be Micrometeorite.txt 4 958 1020 1065 1101 
+with Micrometeorite.txt 5 545 556 635 1090 1103 
+partially Micrometeorite.txt 1 205 
+absent Micrometeorite.txt 1 828 
+whether Micrometeorite.txt 1 141 
+j Micrometeorite.txt 1 280 
+below Micrometeorite.txt 1 618 
+similar Micrometeorite.txt 2 950 968 
+called Micrometeorite.txt 2 297 684 
+detailed Micrometeorite.txt 1 439 
+bearing Micrometeorite.txt 2 268 1105 
+expedition Micrometeorite.txt 1 526 
+m Micrometeorite.txt 3 24 392 644 
+describe Micrometeorite.txt 1 118 
+al Micrometeorite.txt 1 894 
+an Micrometeorite.txt 3 325 1014 1133 
+as Micrometeorite.txt 7 136 150 161 356 755 802 1052 
+at Micrometeorite.txt 2 71 74 
+et Micrometeorite.txt 1 893 
+shooting Micrometeorite.txt 1 139 
+1891 Micrometeorite.txt 1 532 
+floor Micrometeorite.txt 1 706 
+whereas Micrometeorite.txt 2 923 972 
+seven-minute Micrometeorite.txt 1 770 
+portion Micrometeorite.txt 1 232 
+elemental Micrometeorite.txt 1 911 
+other Micrometeorite.txt 2 799 1125 
+carbonaceous Micrometeorite.txt 3 970 984 1106 
+2007 Micrometeorite.txt 1 888 
+polar Micrometeorite.txt 5 474 482 760 789 836 
+elements Micrometeorite.txt 1 649 
+2,700 Micrometeorite.txt 1 1140 
+includes Micrometeorite.txt 1 60 
+nucleus Micrometeorite.txt 1 550 
+cores Micrometeorite.txt 5 595 638 671 673 854 
+throughout Micrometeorite.txt 1 1228 
+structure Micrometeorite.txt 1 559 
+billion Micrometeorite.txt 1 1160 
+e Micrometeorite.txt 2 219 269 
+acids Micrometeorite.txt 1 455 
+greater-than-25-km/s Micrometeorite.txt 1 1036 
+depth Micrometeorite.txt 2 622 1154 
+mass Micrometeorite.txt 2 235 360 
+meteoritic Micrometeorite.txt 2 628 1182 
+time Micrometeorite.txt 1 589 
+tonnes Micrometeorite.txt 1 329 
+requires Micrometeorite.txt 1 906 
+original Micrometeorite.txt 2 163 198 

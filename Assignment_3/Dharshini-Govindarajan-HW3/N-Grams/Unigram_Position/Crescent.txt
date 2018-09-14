@@ -1,0 +1,715 @@
+represent Crescent.txt 5 31 154 167 765 1881 
+pointing Crescent.txt 9 466 535 547 614 1697 1704 1721 1737 1748 
+ali Crescent.txt 1 1489 
+suns Crescent.txt 1 1420 
+seals Crescent.txt 2 781 1051 
+consists Crescent.txt 1 372 
+disk Crescent.txt 2 376 907 
+displaying Crescent.txt 1 1375 
+subjects Crescent.txt 1 1654 
+venice Crescent.txt 1 1366 
+fortresses Crescent.txt 1 1407 
+to Crescent.txt 31 30 153 166 178 249 429 511 530 558 580 587 593 598 632 764 1026 1088 1135 1154 1193 1218 1273 1306 1325 1525 1546 1598 1647 1691 1880 2002 
+charge Crescent.txt 2 1060 1676 
+preserved Crescent.txt 1 260 
+under Crescent.txt 1 317 
+regal Crescent.txt 1 1017 
+oriental Crescent.txt 1 1653 
+include Crescent.txt 2 418 1214 
+woman Crescent.txt 2 309 340 
+egyptian Crescent.txt 1 788 
+far Crescent.txt 1 860 
+tends Crescent.txt 1 529 
+crescere Crescent.txt 1 510 
+1493 Crescent.txt 1 135 
+orientations Crescent.txt 1 1384 
+fall Crescent.txt 1 1082 
+14th-century Crescent.txt 1 1205 
+dynasty Crescent.txt 2 814 970 
+categories Crescent.txt 2 2071 2073 
+notaras Crescent.txt 2 1067 1079 
+notes Crescent.txt 1 2069 
+addorsed Crescent.txt 1 1755 
+venus Crescent.txt 1 898 
+20th Crescent.txt 1 1540 
+angelbachtal Crescent.txt 1 1910 
+sumerian Crescent.txt 1 742 
+battle Crescent.txt 2 1341 1360 
+crescens Crescent.txt 1 519 
+ishtar Crescent.txt 1 895 
+crescent Crescent.txt 80 0 6 9 112 148 174 195 247 268 298 351 358 370 458 461 498 554 582 604 610 657 670 703 757 760 796 831 835 867 883 928 949 963 991 1003 1105 1118 1152 1185 1249 1297 1319 1400 1432 1443 1519 1534 1544 1583 1590 1605 1633 1667 1669 1686 1693 1700 1710 1728 1734 1742 1775 1798 1815 1825 1869 1873 1875 1931 1968 1987 1991 1995 1998 2010 2023 2026 2027 2038 2051 
+further Crescent.txt 2 1663 1788 
+even Crescent.txt 1 1649 
+established Crescent.txt 1 1593 
+what Crescent.txt 2 389 652 
+doux Crescent.txt 1 1073 
+appear Crescent.txt 2 531 1324 
+transplanted Crescent.txt 1 850 
+carthage Crescent.txt 1 862 
+waning Crescent.txt 3 171 188 542 
+sun Crescent.txt 5 130 139 277 640 1427 
+while Crescent.txt 3 183 601 1573 
+reminiscent Crescent.txt 1 2007 
+consistently Crescent.txt 1 1311 
+19th Crescent.txt 1 813 
+intersect Crescent.txt 1 403 
+capital Crescent.txt 1 1146 
+nubia Crescent.txt 1 1224 
+international Crescent.txt 1 1591 
+badge Crescent.txt 2 117 1976 
+publications Crescent.txt 1 1596 
+body Crescent.txt 1 625 
+1339 Crescent.txt 1 1231 
+personification Crescent.txt 1 239 
+movement/army Crescent.txt 1 1861 
+muslim Crescent.txt 5 119 1128 1595 1612 1978 
+angelino Crescent.txt 1 1228 
+hierosgamos Crescent.txt 1 137 
+hours Crescent.txt 1 995 
+dongola Crescent.txt 1 1225 
+represented Crescent.txt 1 79 
+appears Crescent.txt 6 631 646 871 1153 1524 1545 
+great Crescent.txt 1 667 
+daughter Crescent.txt 1 1068 
+technical Crescent.txt 1 568 
+items Crescent.txt 2 1946 1961 
+k Crescent.txt 2 11 19 
+usually Crescent.txt 1 407 
+military Crescent.txt 4 124 1162 1934 1983 
+shaded Crescent.txt 1 360 
+diameter Crescent.txt 1 696 
+prints Crescent.txt 2 1338 1395 
+regardless Crescent.txt 1 561 
+woodcut Crescent.txt 1 136 
+egypt Crescent.txt 4 1236 1494 1503 2047 
+planar Crescent.txt 2 438 659 
+coinciding Crescent.txt 1 693 
+defense Crescent.txt 1 1942 
+apperar Crescent.txt 1 674 
+crusader Crescent.txt 1 1050 
+standing Crescent.txt 1 1244 
+use Crescent.txt 11 95 221 1006 1113 1182 1197 1459 1786 1801 1811 1973 
+obscured Crescent.txt 1 823 
+from Crescent.txt 12 93 384 502 522 651 773 1111 1143 1168 1475 1750 1916 
+remains Crescent.txt 2 390 1799 
+revelation Crescent.txt 1 330 
+coins Crescent.txt 2 874 1053 
+two Crescent.txt 7 396 405 449 1100 1137 1139 1744 
+levant Crescent.txt 1 1036 
+france Crescent.txt 1 1923 
+few Crescent.txt 1 1356 
+depicted Crescent.txt 1 1408 
+type Crescent.txt 1 2019 
+historically Crescent.txt 1 1606 
+more Crescent.txt 1 1767 
+holy Crescent.txt 2 1308 1316 
+tlemcen Crescent.txt 1 1220 
+started Crescent.txt 1 1449 
+siebmachers Crescent.txt 1 1756 
+reign Crescent.txt 1 1452 
+emigration Crescent.txt 1 1087 
+primarily Crescent.txt 1 151 
+commissioned Crescent.txt 1 1390 
+particular Crescent.txt 1 161 
+known Crescent.txt 3 334 434 452 
+cases Crescent.txt 1 1425 
+iii Crescent.txt 2 1455 1469 
+17891807 Crescent.txt 1 1470 
+chaplain Crescent.txt 2 116 1975 
+neuamt Crescent.txt 1 1919 
+1993 Crescent.txt 2 126 1966 
+word Crescent.txt 5 497 553 577 603 2061 
+language Crescent.txt 1 569 
+this Crescent.txt 1 1274 
+roof Crescent.txt 1 97 
+rohan Crescent.txt 1 994 
+del Crescent.txt 1 1207 
+era Crescent.txt 1 101 
+following Crescent.txt 1 1369 
+mesopotamia Crescent.txt 1 2045 
+male Crescent.txt 1 280 
+example Crescent.txt 1 1770 
+history Crescent.txt 2 737 740 
+iconography Crescent.txt 5 301 841 916 922 1125 
+figure Crescent.txt 1 677 
+near Crescent.txt 2 845 889 
+states Crescent.txt 1 1477 
+scar Crescent.txt 1 2029 
+conversely Crescent.txt 1 540 
+axis Crescent.txt 1 689 
+information Crescent.txt 2 1664 1789 
+boswil Crescent.txt 1 1913 
+sassanian Crescent.txt 1 913 
+holds Crescent.txt 1 1178 
+1793 Crescent.txt 1 1476 
+russo-turkish Crescent.txt 1 1562 
+writers Crescent.txt 1 1651 
+u+263e Crescent.txt 1 711 
+u+263d Crescent.txt 1 706 
+widespread Crescent.txt 1 1181 
+bnnigheim Crescent.txt 1 1904 
+circular Crescent.txt 2 375 397 
+armies Crescent.txt 2 1167 1613 
+intended Crescent.txt 1 1962 
+arcs Crescent.txt 2 398 450 
+may Crescent.txt 2 555 1999 
+after Crescent.txt 3 1080 1126 1358 
+variant Crescent.txt 2 806 828 
+containing Crescent.txt 1 231 
+islamic Crescent.txt 5 1124 1166 1575 1636 1851 
+produce Crescent.txt 1 1958 
+such Crescent.txt 4 409 426 1199 2012 
+grow Crescent.txt 1 512 
+headdress Crescent.txt 3 251 491 955 
+a Crescent.txt 67 8 25 45 143 160 168 201 246 267 285 324 364 374 378 392 410 477 581 609 623 648 656 666 680 684 695 702 708 756 795 812 827 830 902 1015 1047 1058 1091 1106 1109 1248 1296 1355 1426 1431 1472 1512 1529 1542 1551 1615 1644 1674 1692 1699 1709 1727 1731 1733 1741 1779 1782 1813 1872 2005 2018 2050 
+sassanid Crescent.txt 3 1011 1115 1145 
+ctesiphon Crescent.txt 1 1147 
+coat Crescent.txt 2 1095 1920 
+greek Crescent.txt 1 229 
+verb Crescent.txt 1 509 
+so Crescent.txt 1 387 
+representation Crescent.txt 1 335 
+1571 Crescent.txt 1 1344 
+martino Crescent.txt 1 1363 
+foodstuffs Crescent.txt 1 1953 
+interpretation Crescent.txt 1 1602 
+gradual Crescent.txt 1 1530 
+heraldic Crescent.txt 3 1059 1675 1682 
+sickle Crescent.txt 1 40 
+cross Crescent.txt 2 1107 1556 
+symbols Crescent.txt 1 714 
+religious Crescent.txt 1 1616 
+including Crescent.txt 1 1345 
+horns Crescent.txt 13 455 465 473 534 546 586 597 613 1696 1703 1719 1736 1747 
+mentioned Crescent.txt 1 1639 
+deity Crescent.txt 1 771 
+its Crescent.txt 14 94 252 385 464 533 545 563 585 596 606 820 1112 1121 1458 
+islam Crescent.txt 4 109 1187 1537 1619 
+difference Crescent.txt 1 1780 
+but Crescent.txt 1 1954 
+termed Crescent.txt 1 655 
+organisation Crescent.txt 1 1849 
+ships Crescent.txt 2 1404 1480 
+outremer Crescent.txt 1 1038 
+actually Crescent.txt 1 673 
+2400 Crescent.txt 1 747 
+weeks Crescent.txt 1 1357 
+main Crescent.txt 1 1989 
+conquest Crescent.txt 1 1129 
+2012 Crescent.txt 1 353 
+sword Crescent.txt 1 1110 
+combination Crescent.txt 2 879 1826 
+hunter Crescent.txt 1 937 
+half Crescent.txt 3 636 681 822 
+not Crescent.txt 3 157 417 1955 
+documented Crescent.txt 1 1226 
+antiquity Crescent.txt 1 918 
+silver Crescent.txt 2 68 212 
+association Crescent.txt 4 254 304 1516 1531 
+term Crescent.txt 2 1685 1997 
+edit Crescent.txt 12 129 350 738 741 919 987 1259 1662 1787 1988 2068 2070 
+james Crescent.txt 1 1641 
+popess Crescent.txt 1 1293 
+identified Crescent.txt 1 754 
+each Crescent.txt 2 1509 1751 
+persia Crescent.txt 3 1012 1116 1131 
+found Crescent.txt 3 1120 1831 1892 
+quarter Crescent.txt 5 38 182 190 723 731 
+side Crescent.txt 1 621 
+upward Crescent.txt 3 467 615 1698 
+female Crescent.txt 2 271 291 
+diana Crescent.txt 4 75 258 934 1262 
+pictographs Crescent.txt 1 716 
+phoenicians Crescent.txt 1 853 
+persian Crescent.txt 1 493 
+1486 Crescent.txt 1 1310 
+year Crescent.txt 1 1370 
+navy Crescent.txt 1 1484 
+logo Crescent.txt 1 1586 
+orient Crescent.txt 1 1031 
+shown Crescent.txt 1 244 
+veneration Crescent.txt 1 85 
+hellenistic Crescent.txt 2 915 925 
+2300 Crescent.txt 1 785 
+since Crescent.txt 4 1332 1577 1677 1965 
+vessels Crescent.txt 2 1331 1374 
+denotes Crescent.txt 1 608 
+ren Crescent.txt 1 997 
+print Crescent.txt 1 1347 
+correct Crescent.txt 1 357 
+red Crescent.txt 3 1504 1543 1555 
+shows Crescent.txt 1 1398 
+gabes Crescent.txt 1 1219 
+derived Crescent.txt 1 500 
+gardiner Crescent.txt 1 798 
+logograph Crescent.txt 1 789 
+houses Crescent.txt 1 2014 
+necessarily Crescent.txt 1 158 
+sitting Crescent.txt 1 1246 
+card Crescent.txt 1 1290 
+17571774 Crescent.txt 1 1456 
+planisphere Crescent.txt 1 237 
+1980 Crescent.txt 1 1594 
+nanna/sin Crescent.txt 1 772 
+e.g Crescent.txt 3 481 1589 1902 
+geometry Crescent.txt 2 439 660 
+1981 Crescent.txt 1 1853 
+british Crescent.txt 1 16 
+16th Crescent.txt 1 1336 
+neerach Crescent.txt 1 1915 
+1970s Crescent.txt 1 1579 
+hence Crescent.txt 2 62 78 
+apocalypse Crescent.txt 2 312 343 
+south Crescent.txt 2 876 1834 
+first Crescent.txt 4 37 181 722 1499 
+major Crescent.txt 1 688 
+bianchinis Crescent.txt 1 236 
+grnenberg Crescent.txt 1 1302 
+manuscript Crescent.txt 1 146 
+barberigo Crescent.txt 1 1350 
+reflected Crescent.txt 1 1202 
+one Crescent.txt 3 594 1378 1765 
+feet Crescent.txt 1 319 
+muhammad Crescent.txt 1 1488 
+least Crescent.txt 2 1170 1334 
+another Crescent.txt 1 381 
+jesenwang Crescent.txt 1 1907 
+city Crescent.txt 2 1870 1883 
+ancient Crescent.txt 3 253 844 888 
+symbolised Crescent.txt 1 265 
+their Crescent.txt 1 1585 
+increscent Crescent.txt 6 176 578 704 802 1711 1715 
+adopted Crescent.txt 2 1157 1570 
+trosa Crescent.txt 1 1929 
+guadalupe Crescent.txt 1 348 
+solitaire Crescent.txt 1 2021 
+chastity Crescent.txt 1 292 
+glomeruli Crescent.txt 1 2032 
+white Crescent.txt 2 1507 1513 
+final Crescent.txt 1 189 
+prone Crescent.txt 1 1656 
+emblem Crescent.txt 7 28 73 966 982 1009 1160 1588 
+way Crescent.txt 1 1122 
+that Crescent.txt 7 388 412 630 1179 1478 1486 1600 
+reversed Crescent.txt 1 1743 
+megas Crescent.txt 1 1072 
+blazoning Crescent.txt 1 571 
+part Crescent.txt 1 952 
+representing Crescent.txt 9 47 186 269 278 790 816 891 1277 1808 
+than Crescent.txt 2 635 1821 
+photograph Crescent.txt 1 354 
+crescents Crescent.txt 8 1278 1323 1381 1508 1745 1768 1827 1887 
+seated Crescent.txt 1 753 
+coats Crescent.txt 2 1761 1897 
+sweden Crescent.txt 1 1928 
+r Crescent.txt 2 12 20 
+tunis Crescent.txt 1 1221 
+croissant Crescent.txt 1 2055 
+enclosed Crescent.txt 2 394 414 
+and Crescent.txt 50 61 77 110 131 140 208 257 282 290 320 468 539 590 683 707 715 729 768 803 847 868 882 894 914 962 976 1037 1041 1052 1085 1209 1222 1232 1257 1361 1405 1422 1442 1457 1467 1566 1666 1716 1805 1824 1854 1871 1876 2046 2053 
+mortcerf Crescent.txt 1 1925 
+fashion Crescent.txt 1 1240 
+objects Crescent.txt 1 2003 
+remained Crescent.txt 1 1004 
+viewer Crescent.txt 1 645 
+1605 Crescent.txt 1 1758 
+disambiguation Crescent.txt 2 7 1992 
+modern Crescent.txt 5 864 1256 1258 1286 1895 
+ages Crescent.txt 1 986 
+roughly Crescent.txt 1 2048 
+13th Crescent.txt 3 1064 1172 1679 
+manner Crescent.txt 1 411 
+have Crescent.txt 7 1136 1155 1326 1485 1526 1547 1580 
+seen Crescent.txt 2 521 642 
+contents Crescent.txt 1 127 
+byzantine Crescent.txt 2 1033 1076 
+catholic Crescent.txt 3 83 295 1239 
+u+1f31b Crescent.txt 1 728 
+u+1f31c Crescent.txt 1 736 
+general Crescent.txt 1 1040 
+1965 Crescent.txt 2 1796 1844 
+malta Crescent.txt 1 1926 
+lit Crescent.txt 1 620 
+also Crescent.txt 13 18 71 105 793 870 884 978 1119 1294 1397 1970 2000 2067 
+rome Crescent.txt 1 1352 
+which Crescent.txt 3 402 1098 1648 
+forming Crescent.txt 2 2015 2049 
+pilgrimage Crescent.txt 1 1305 
+towards Crescent.txt 3 442 536 548 
+who Crescent.txt 1 1490 
+most Crescent.txt 2 332 626 
+emblems Crescent.txt 1 1886 
+germany Crescent.txt 1 1903 
+printed Crescent.txt 1 1932 
+phase Crescent.txt 3 34 163 173 
+16th-century Crescent.txt 2 144 1918 
+segment Crescent.txt 1 379 
+class Crescent.txt 1 431 
+especially Crescent.txt 2 288 1279 
+later Crescent.txt 3 1063 1189 1391 
+metal Crescent.txt 1 216 
+artemis Crescent.txt 2 76 933 
+face Crescent.txt 2 726 734 
+hamid Crescent.txt 1 1464 
+points Crescent.txt 2 406 444 
+principle Crescent.txt 2 272 281 
+hastings Crescent.txt 1 1642 
+attested Crescent.txt 1 226 
+came Crescent.txt 1 1025 
+son Crescent.txt 1 1784 
+finials Crescent.txt 3 1320 1401 1416 
+show Crescent.txt 2 945 1371 
+rota Crescent.txt 2 1364 1396 
+contemporary Crescent.txt 1 1785 
+artemis-diana Crescent.txt 2 283 946 
+ottoman Crescent.txt 6 100 1330 1373 1446 1483 1522 
+orleans Crescent.txt 1 1865 
+based Crescent.txt 1 1392 
+northern Crescent.txt 1 524 
+wappenbuch Crescent.txt 1 1757 
+liberation Crescent.txt 1 1860 
+inherited Crescent.txt 1 910 
+identification Crescent.txt 1 1630 
+circle Crescent.txt 3 382 424 668 
+libro Crescent.txt 1 1206 
+carolina Crescent.txt 1 1835 
+wearing Crescent.txt 1 947 
+do Crescent.txt 1 1386 
+his Crescent.txt 1 1304 
+above Crescent.txt 1 1103 
+de Crescent.txt 1 993 
+conoscimiento Crescent.txt 1 1208 
+agostino Crescent.txt 1 1349 
+new Crescent.txt 1 1864 
+during Crescent.txt 3 1190 1450 1462 
+hieroglyph Crescent.txt 1 815 
+star-and-crescent Crescent.txt 1 1435 
+monumental Crescent.txt 1 1388 
+common Crescent.txt 2 1645 1820 
+switzerland Crescent.txt 1 1912 
+where Crescent.txt 1 575 
+14th Crescent.txt 1 1192 
+n12 Crescent.txt 1 807 
+n10 Crescent.txt 1 833 
+n11 Crescent.txt 1 799 
+mustafa Crescent.txt 1 1454 
+reference Crescent.txt 1 1272 
+national Crescent.txt 1 1500 
+star_and_crescent Crescent.txt 1 1790 
+well-established Crescent.txt 1 1461 
+see Crescent.txt 2 5 2066 
+horoscopes Crescent.txt 1 232 
+are Crescent.txt 6 451 1655 1720 1753 1830 1891 
+seal Crescent.txt 2 744 1092 
+1928 Crescent.txt 1 1660 
+1929 Crescent.txt 1 1572 
+dexter Crescent.txt 1 1706 
+said Crescent.txt 1 1134 
+dulcert Crescent.txt 1 1229 
+away Crescent.txt 1 1749 
+nebula Crescent.txt 1 2024 
+wikipedia Crescent.txt 1 1 
+tend Crescent.txt 1 1597 
+state Crescent.txt 2 1447 1836 
+various Crescent.txt 1 1383 
+cooperation Crescent.txt 1 1852 
+between Crescent.txt 1 2044 
+astrology Crescent.txt 1 207 
+numerous Crescent.txt 3 943 1399 1894 
+15th Crescent.txt 3 1000 1194 1253 
+europe Crescent.txt 2 1628 1901 
+latin Crescent.txt 1 508 
+wears Crescent.txt 1 1295 
+packaged Crescent.txt 1 1952 
+however Crescent.txt 1 556 
+1877/8 Crescent.txt 1 1565 
+french Crescent.txt 1 2057 
+article Crescent.txt 1 1990 
+cities Crescent.txt 1 1313 
+both Crescent.txt 2 911 1402 
+c Crescent.txt 2 746 1862 
+last Crescent.txt 2 730 1071 
+michelfeld Crescent.txt 1 1909 
+attributed Crescent.txt 1 1217 
+etc Crescent.txt 1 495 
+roman Crescent.txt 3 82 294 1238 
+became Crescent.txt 4 929 1281 1460 1491 
+figures Crescent.txt 1 433 
+dated Crescent.txt 1 745 
+faces Crescent.txt 3 134 721 1890 
+decrescent Crescent.txt 6 193 591 709 804 1729 1732 
+mamluks Crescent.txt 1 1234 
+dttlikon Crescent.txt 1 1914 
+contemporary_use Crescent.txt 1 1791 
+tunisia Crescent.txt 1 865 
+period Crescent.txt 2 926 1287 
+alone Crescent.txt 1 1689 
+simply Crescent.txt 1 1713 
+decree Crescent.txt 1 1474 
+kings Crescent.txt 1 494 
+ps Crescent.txt 1 825 
+qormi Crescent.txt 1 1927 
+configuration Crescent.txt 1 1436 
+described Crescent.txt 1 313 
+second Crescent.txt 1 1783 
+addition Crescent.txt 1 809 
+abdul Crescent.txt 1 1463 
+kaaba Crescent.txt 1 1150 
+three Crescent.txt 1 1506 
+been Crescent.txt 5 1156 1327 1548 1671 1971 
+combined Crescent.txt 2 900 1429 
+entered Crescent.txt 1 299 
+2nd-century Crescent.txt 1 235 
+finial Crescent.txt 1 98 
+paintings Crescent.txt 1 1389 
+arises Crescent.txt 1 885 
+corresponding Crescent.txt 1 215 
+zoroastrian Crescent.txt 1 1016 
+organisations Crescent.txt 1 1576 
+selim Crescent.txt 1 1468 
+goddess Crescent.txt 4 287 487 938 1261 
+1861 Crescent.txt 1 1838 
+constantinople Crescent.txt 1 1084 
+atlas Crescent.txt 1 1212 
+mithradates Crescent.txt 1 969 
+hidden Crescent.txt 1 2072 
+present Crescent.txt 1 504 
+east Crescent.txt 2 846 890 
+these Crescent.txt 1 1394 
+pre-islamic Crescent.txt 1 873 
+n Crescent.txt 2 14 22 
+will Crescent.txt 1 672 
+anjou Crescent.txt 1 999 
+depictions Crescent.txt 2 483 944 
+umar Crescent.txt 1 1132 
+unshaded Crescent.txt 1 367 
+error Crescent.txt 2 1622 1646 
+mythology Crescent.txt 1 1270 
+periods Crescent.txt 1 1471 
+cylinder Crescent.txt 2 743 780 
+crusades Crescent.txt 1 1023 
+orientation Crescent.txt 1 564 
+century Crescent.txt 9 857 1001 1065 1173 1195 1254 1337 1541 1680 
+is Crescent.txt 27 24 52 87 150 191 225 243 259 344 391 469 499 653 762 811 1133 1201 1638 1707 1725 1739 1776 1818 1866 1878 1937 1949 
+it Crescent.txt 10 51 69 86 103 427 908 1024 1054 1567 1724 
+middle Crescent.txt 1 985 
+itself Crescent.txt 1 50 
+terminator Crescent.txt 1 663 
+in Crescent.txt 66 35 81 99 121 125 142 159 206 217 227 233 261 293 329 408 437 482 489 573 647 658 778 808 839 854 863 886 912 920 971 1005 1010 1021 1039 1049 1114 1148 1186 1203 1230 1251 1268 1271 1283 1303 1314 1367 1382 1409 1423 1433 1481 1495 1528 1538 1560 1571 1681 1771 1800 1816 1832 1884 1900 1972 1980 
+arabia Crescent.txt 1 877 
+madonna Crescent.txt 2 988 1243 
+ishtar/astarte Crescent.txt 1 256 
+municipal Crescent.txt 1 1896 
+different Crescent.txt 2 400 649 
+italy Crescent.txt 1 1089 
+things Crescent.txt 1 1985 
+s Crescent.txt 1 13 
+akkadian Crescent.txt 1 779 
+emphasize Crescent.txt 1 1599 
+widely Crescent.txt 1 1043 
+several Crescent.txt 1 1380 
+heraldry Crescent.txt 3 574 1661 1773 
+used Crescent.txt 21 29 53 152 165 199 572 763 838 849 979 1013 1044 1056 1328 1549 1607 1672 1688 1777 1879 1950 
+complemented Crescent.txt 1 362 
+17741789 Crescent.txt 1 1466 
+uses Crescent.txt 1 4 
+triad Crescent.txt 1 903 
+pastry Crescent.txt 1 2065 
+tradition Crescent.txt 1 296 
+lower Crescent.txt 1 821 
+center Crescent.txt 1 420 
+dettighofen Crescent.txt 1 1905 
+i Crescent.txt 1 1465 
+papyri Crescent.txt 1 230 
+well Crescent.txt 3 333 837 1413 
+game Crescent.txt 1 2022 
+without Crescent.txt 1 1828 
+edge Crescent.txt 1 386 
+flags Crescent.txt 6 1163 1200 1216 1321 1376 1817 
+english Crescent.txt 3 17 552 1772 
+chaplains Crescent.txt 2 120 1979 
+the Crescent.txt 213 32 36 39 48 55 59 64 72 90 111 122 147 155 179 184 187 194 204 214 219 223 234 238 241 262 270 276 279 297 303 308 311 315 331 339 342 345 369 413 419 422 430 440 443 448 454 457 459 485 490 496 503 507 515 523 526 537 541 549 551 559 567 576 588 599 602 616 619 628 639 644 662 669 676 687 691 698 712 750 759 766 769 787 791 817 834 840 843 852 855 866 878 887 892 896 905 921 924 927 930 935 941 948 956 960 965 968 972 981 990 1002 1022 1030 1032 1035 1062 1070 1075 1081 1104 1117 1127 1144 1149 1151 1165 1171 1175 1180 1184 1191 1196 1204 1210 1215 1233 1237 1252 1260 1266 1284 1288 1292 1307 1315 1335 1340 1346 1359 1362 1368 1372 1387 1410 1434 1437 1445 1451 1479 1482 1498 1515 1518 1521 1533 1539 1554 1561 1578 1582 1601 1604 1609 1625 1629 1632 1668 1678 1684 1695 1702 1718 1774 1794 1797 1809 1822 1833 1839 1842 1845 1848 1855 1858 1868 1882 1917 1930 1938 1947 1967 1981 1993 1996 2009 2031 2034 2036 2039 2054 2056 2060 2063 
+left Crescent.txt 3 538 589 1705 
+spherical Crescent.txt 1 624 
+just Crescent.txt 1 1354 
+less Crescent.txt 2 634 1819 
+being Crescent.txt 1 284 
+when Crescent.txt 4 164 474 1687 1717 
+nicknamed Crescent.txt 1 1867 
+shape Crescent.txt 20 10 349 359 366 371 393 415 462 560 583 611 617 650 761 797 832 1535 2006 2011 2052 
+unicode Crescent.txt 1 700 
+captured Crescent.txt 1 1142 
+katzenthal Crescent.txt 1 1924 
+depicts Crescent.txt 1 1312 
+half-circle Crescent.txt 1 685 
+had Crescent.txt 1 794 
+except Crescent.txt 1 565 
+crescent-shaped Crescent.txt 2 1140 2064 
+alchemy Crescent.txt 1 218 
+belongs Crescent.txt 1 428 
+adoption Crescent.txt 1 1439 
+has Crescent.txt 5 104 463 1670 1759 1969 
+buyruldu Crescent.txt 1 1473 
+kingdom Crescent.txt 1 973 
+holding Crescent.txt 1 1102 
+showing Crescent.txt 1 749 
+early Crescent.txt 8 228 739 775 783 1255 1285 1558 1658 
+catalan Crescent.txt 1 1211 
+boxes Crescent.txt 1 1936 
+background Crescent.txt 1 1411 
+symbolism Crescent.txt 1 128 
+variants Crescent.txt 2 719 805 
+intersection Crescent.txt 1 446 
+gibbous Crescent.txt 1 365 
+marian Crescent.txt 2 84 300 
+tapering Crescent.txt 1 441 
+visible Crescent.txt 1 777 
+shaped Crescent.txt 1 2028 
+consensus Crescent.txt 1 1177 
+arc Crescent.txt 1 2017 
+t Crescent.txt 2 15 23 
+hung Crescent.txt 1 1138 
+become Crescent.txt 1 106 
+conrad Crescent.txt 1 1301 
+radiant Crescent.txt 2 1421 1428 
+terminology Crescent.txt 1 1683 
+replacement Crescent.txt 1 1552 
+virginity Crescent.txt 2 80 289 
+twelve Crescent.txt 1 327 
+right Crescent.txt 3 550 600 1722 
+often Crescent.txt 4 470 899 1045 1888 
+classical Crescent.txt 3 460 917 1269 
+mosques Crescent.txt 1 102 
+crown Crescent.txt 2 325 478 
+tarot Crescent.txt 1 1289 
+examples Crescent.txt 1 1213 
+ornaments Crescent.txt 1 1141 
+empire Crescent.txt 3 1034 1077 1523 
+etymologically Crescent.txt 1 501 
+jewelry Crescent.txt 1 1276 
+for Crescent.txt 10 2 58 67 118 566 1769 1944 1963 1977 2062 
+sudan Crescent.txt 1 1859 
+moon Crescent.txt 29 41 49 60 132 141 156 205 242 263 316 352 517 528 543 629 671 724 732 751 767 770 792 800 818 893 942 950 1267 1810 
+does Crescent.txt 1 416 
+lunar Crescent.txt 4 33 162 172 486 
+provides Crescent.txt 1 718 
+assuming Crescent.txt 1 661 
+anna Crescent.txt 1 1066 
+refer Crescent.txt 2 557 2001 
+be Crescent.txt 2 633 1027 
+bc Crescent.txt 3 748 786 858 
+ration Crescent.txt 1 1935 
+byzantium Crescent.txt 1 984 
+notably Crescent.txt 1 627 
+popular Crescent.txt 1 1282 
+although Crescent.txt 1 1174 
+accompanied Crescent.txt 1 1510 
+refers Crescent.txt 4 177 579 592 1690 
+by Crescent.txt 18 43 209 266 302 363 395 638 643 679 755 851 1061 1164 1227 1348 1511 1624 1640 
+on Crescent.txt 19 321 605 665 872 989 1161 1247 1298 1329 1393 1403 1406 1608 1652 1893 1933 1951 1956 1960 
+extension Crescent.txt 2 44 210 
+standalone Crescent.txt 1 1814 
+of Crescent.txt 83 74 138 203 211 222 240 305 310 326 336 341 347 373 380 399 421 432 445 447 456 484 492 506 562 570 618 622 690 697 842 875 880 923 932 953 959 967 974 983 996 998 1069 1074 1083 1096 1130 1183 1198 1235 1241 1291 1342 1351 1365 1440 1453 1493 1502 1517 1532 1553 1564 1603 1611 1618 1627 1631 1762 1793 1812 1841 1847 1850 1857 1898 1921 1941 2008 2020 2030 2033 2042 2059 
+sinister Crescent.txt 1 1723 
+magazine Crescent.txt 1 1592 
+diadems Crescent.txt 1 1280 
+introduced Crescent.txt 2 114 1497 
+or Crescent.txt 17 27 42 170 175 479 488 1018 1108 1245 1379 1419 1587 1712 1730 1766 1874 1959 
+block Crescent.txt 1 717 
+astronomical Crescent.txt 1 1806 
+own Crescent.txt 1 607 
+fertile Crescent.txt 3 1994 2037 2040 
+into Crescent.txt 2 901 1123 
+astronomically Crescent.txt 1 356 
+arms Crescent.txt 4 1097 1763 1899 1922 
+down Crescent.txt 1 1738 
+lies Crescent.txt 1 664 
+luna Crescent.txt 1 518 
+officially Crescent.txt 1 1569 
+embraced Crescent.txt 1 1581 
+dogern Crescent.txt 1 1906 
+lune Crescent.txt 1 436 
+ellipse Crescent.txt 2 682 692 
+technically Crescent.txt 1 513 
+diameters Crescent.txt 1 401 
+her Crescent.txt 7 250 318 322 954 1086 1094 1299 
+area Crescent.txt 3 361 368 2041 
+alchemical Crescent.txt 2 65 145 
+there Crescent.txt 1 810 
+long Crescent.txt 1 198 
+approved Crescent.txt 1 1650 
+virgin Crescent.txt 4 91 286 346 936 
+buda Crescent.txt 1 1223 
+lions Crescent.txt 1 1101 
+stars Crescent.txt 3 328 1418 1829 
+resulted Crescent.txt 1 1527 
+loukas Crescent.txt 1 1078 
+was Crescent.txt 13 70 113 197 836 848 909 964 977 1042 1055 1263 1568 1620 
+war Crescent.txt 1 1563 
+head Crescent.txt 2 323 1300 
+illuminated Crescent.txt 1 637 
+form Crescent.txt 1 2058 
+some Crescent.txt 3 1415 1424 1574 
+denoting Crescent.txt 2 514 1781 
+encodes Crescent.txt 1 701 
+juxtaposed Crescent.txt 1 274 
+feminine Crescent.txt 1 1275 
+hemisphere Crescent.txt 1 525 
+maldives Crescent.txt 2 1795 1843 
+related Crescent.txt 1 957 
+solar Crescent.txt 1 906 
+removed Crescent.txt 1 383 
+with Crescent.txt 43 89 108 133 245 255 275 307 314 377 532 544 584 595 612 686 694 720 725 733 801 819 826 829 904 940 1029 1093 1265 1318 1322 1377 1417 1430 1505 1520 1536 1694 1701 1735 1746 1764 1889 2004 
+made Crescent.txt 3 1090 1353 1623 
+official Crescent.txt 2 1438 1885 
+attached Crescent.txt 1 248 
+us Crescent.txt 3 123 1939 1982 
+mary Crescent.txt 3 92 306 337 
+planet Crescent.txt 1 897 
+z Crescent.txt 1 21 
+called Crescent.txt 6 192 1708 1726 1740 1754 1986 
+matre Crescent.txt 1 992 
+associated Crescent.txt 5 88 107 939 1028 1264 
+karstdt Crescent.txt 1 1908 
+an Crescent.txt 8 355 774 1008 1159 1621 1635 1714 2016 
+as Crescent.txt 45 54 63 96 115 200 213 264 273 338 425 435 453 472 476 520 641 675 782 784 859 861 951 980 1007 1014 1057 1158 1385 1412 1414 1444 1550 1557 1559 1584 1614 1634 1643 1657 1659 1673 1778 1802 1974 2013 
+pontus Crescent.txt 1 975 
+at Crescent.txt 7 404 705 710 727 735 1169 1333 
+participle Crescent.txt 1 505 
+kidney Crescent.txt 1 2035 
+resale Crescent.txt 1 1964 
+48 Crescent.txt 1 1760 
+generally Crescent.txt 1 654 
+scholarly Crescent.txt 1 1176 
+other Crescent.txt 3 3 1752 1984 
+astrological Crescent.txt 4 56 220 1019 1803 
+subsistence Crescent.txt 1 1945 
+department Crescent.txt 1 1940 
+lepanto Crescent.txt 1 1343 
+star Crescent.txt 9 869 881 961 1048 1441 1514 1665 1823 1877 
+symbol Crescent.txt 20 26 46 57 66 149 185 196 202 224 758 931 958 1020 1448 1617 1637 1804 1807 1943 1948 
+time Crescent.txt 1 776 
+miscellaneous Crescent.txt 1 713 
+glomerular Crescent.txt 1 2025 
+develops Crescent.txt 2 1188 1250 
+bounded Crescent.txt 1 678 
+waldbronn Crescent.txt 1 1911 
+included Crescent.txt 1 1099 
+depicting Crescent.txt 2 1242 1339 
+christians Crescent.txt 1 1626 
+semicircle Crescent.txt 1 699 
+1805 Crescent.txt 1 1496 
+land Crescent.txt 3 1309 1317 2043 
+diadem Crescent.txt 1 480 
+pasha Crescent.txt 1 1492 
+alongside Crescent.txt 1 1046 
+flag Crescent.txt 7 1487 1501 1792 1837 1840 1846 1856 
+2002 Crescent.txt 1 1863 
+n9 Crescent.txt 1 824 
+waxing Crescent.txt 4 169 180 516 527 
+worn Crescent.txt 2 471 475 
+god Crescent.txt 1 752 
+fresh Crescent.txt 1 1957 
+banners Crescent.txt 1 1610 
+original Crescent.txt 1 423 
+8th Crescent.txt 1 856 

@@ -1,0 +1,164 @@
+spiegel Tachocline.txt 1 306 
+edit Tachocline.txt 3 327 330 333 
+magnetic Tachocline.txt 2 201 268 
+solid-body Tachocline.txt 1 106 
+results Tachocline.txt 1 142 
+rotating Tachocline.txt 3 49 95 100 
+area Tachocline.txt 1 187 
+paper Tachocline.txt 1 303 
+through Tachocline.txt 1 117 
+rotates Tachocline.txt 1 84 
+causes Tachocline.txt 1 65 
+regions Tachocline.txt 1 28 
+slow Tachocline.txt 1 135 
+outer Tachocline.txt 3 12 50 57 
+zahn Tachocline.txt 1 309 
+zone Tachocline.txt 3 52 261 284 
+field Tachocline.txt 3 113 232 239 
+exhibits Tachocline.txt 1 105 
+to Tachocline.txt 6 68 110 123 215 233 314 
+only Tachocline.txt 1 257 
+edward Tachocline.txt 1 305 
+dwarfs Tachocline.txt 1 248 
+convective Tachocline.txt 5 13 51 82 260 283 
+solar-strength Tachocline.txt 1 267 
+hidden Tachocline.txt 1 335 
+has Tachocline.txt 1 188 
+shear Tachocline.txt 2 73 192 
+brown Tachocline.txt 1 247 
+analogy Tachocline.txt 1 313 
+very Tachocline.txt 3 71 79 190 
+showing Tachocline.txt 1 7 
+fluid Tachocline.txt 1 88 
+possibly Tachocline.txt 1 108 
+they Tachocline.txt 1 264 
+despite Tachocline.txt 1 274 
+not Tachocline.txt 1 251 
+rotation Tachocline.txt 8 3 9 18 76 91 107 115 125 
+categories Tachocline.txt 2 334 336 
+thermocline Tachocline.txt 1 317 
+term Tachocline.txt 1 297 
+cooler Tachocline.txt 1 244 
+fields Tachocline.txt 2 202 269 
+differential Tachocline.txt 2 8 90 
+large Tachocline.txt 3 72 191 199 
+this Tachocline.txt 3 64 183 279 
+toroidal Tachocline.txt 1 238 
+activity Tachocline.txt 1 273 
+radio Tachocline.txt 1 241 
+differentially Tachocline.txt 1 48 
+mean Tachocline.txt 1 185 
+be Tachocline.txt 2 204 287 
+thickness Tachocline.txt 1 176 
+rate Tachocline.txt 4 77 116 126 132 
+radius Tachocline.txt 5 63 153 161 173 182 
+are Tachocline.txt 1 213 
+oceanic Tachocline.txt 1 316 
+scale Tachocline.txt 1 200 
+for Tachocline.txt 1 289 
+display Tachocline.txt 1 271 
+sun Tachocline.txt 4 6 41 61 325 
+wikipedia Tachocline.txt 1 1 
+uniform Tachocline.txt 1 17 
+may Tachocline.txt 1 286 
+poles Tachocline.txt 2 94 136 
+fossil Tachocline.txt 1 112 
+between Tachocline.txt 2 26 42 
+core Tachocline.txt 2 165 255 
+jean-paul Tachocline.txt 1 308 
+illustration Tachocline.txt 1 319 
+rapidly Tachocline.txt 1 80 
+alone Tachocline.txt 1 285 
+i.e Tachocline.txt 2 129 166 
+solar-like Tachocline.txt 1 272 
+by Tachocline.txt 4 62 226 304 312 
+central Tachocline.txt 1 21 
+geometry Tachocline.txt 1 207 
+of Tachocline.txt 11 39 59 154 177 210 222 243 277 292 320 323 
+region Tachocline.txt 4 14 23 38 67 
+helioseismology Tachocline.txt 1 144 
+equal Tachocline.txt 1 122 
+times Tachocline.txt 2 158 179 
+suggests Tachocline.txt 1 280 
+important Tachocline.txt 1 218 
+changes Tachocline.txt 1 78 
+large-scale Tachocline.txt 1 266 
+poloidal Tachocline.txt 1 231 
+one Tachocline.txt 1 196 
+weaker Tachocline.txt 1 230 
+references Tachocline.txt 2 326 332 
+fast Tachocline.txt 1 139 
+from Tachocline.txt 2 143 163 
+additional Tachocline.txt 1 331 
+would Tachocline.txt 1 184 
+indicate Tachocline.txt 1 145 
+create Tachocline.txt 1 234 
+radiative Tachocline.txt 4 22 44 103 254 
+due Tachocline.txt 1 109 
+0.04 Tachocline.txt 1 178 
+quickly Tachocline.txt 1 101 
+equator Tachocline.txt 2 99 140 
+much Tachocline.txt 1 236 
+slowly Tachocline.txt 1 96 
+observations Tachocline.txt 1 242 
+way Tachocline.txt 1 197 
+was Tachocline.txt 1 299 
+function Tachocline.txt 1 291 
+stars Tachocline.txt 1 245 
+that Tachocline.txt 5 146 194 198 263 281 
+formed Tachocline.txt 1 205 
+external Tachocline.txt 1 328 
+solar Tachocline.txt 5 160 172 181 224 294 
+with Tachocline.txt 3 89 92 174 
+1992 Tachocline.txt 1 311 
+these Tachocline.txt 1 27 
+mid-latitudes Tachocline.txt 1 128 
+up Tachocline.txt 1 228 
+absence Tachocline.txt 1 276 
+can Tachocline.txt 1 203 
+dynamo Tachocline.txt 2 225 295 
+demonstrate Tachocline.txt 1 262 
+called Tachocline.txt 1 30 
+and Tachocline.txt 9 15 46 97 137 208 246 256 270 307 
+transition Tachocline.txt 2 25 37 
+have Tachocline.txt 3 69 252 258 
+links Tachocline.txt 1 329 
+do Tachocline.txt 1 250 
+almost Tachocline.txt 1 16 
+is Tachocline.txt 7 29 35 54 120 149 169 195 
+it Tachocline.txt 1 53 
+surface Tachocline.txt 1 168 
+an Tachocline.txt 2 217 318 
+winding Tachocline.txt 1 227 
+as Tachocline.txt 2 74 85 
+at Tachocline.txt 5 127 133 151 155 170 
+exterior Tachocline.txt 1 83 
+in Tachocline.txt 7 4 10 19 55 220 301 310 
+in-between Tachocline.txt 1 130 
+tachocline Tachocline.txt 6 0 32 34 148 212 298 
+responsible Tachocline.txt 1 288 
+1 Tachocline.txt 1 171 
+located Tachocline.txt 1 150 
+internal Tachocline.txt 1 2 
+role Tachocline.txt 1 219 
+which Tachocline.txt 1 249 
+interior Tachocline.txt 3 45 104 119 
+profile Tachocline.txt 1 193 
+play Tachocline.txt 1 216 
+normal Tachocline.txt 1 87 
+models Tachocline.txt 1 221 
+coined Tachocline.txt 1 300 
+most Tachocline.txt 1 156 
+0.70 Tachocline.txt 1 157 
+measured Tachocline.txt 1 162 
+structure Tachocline.txt 1 322 
+recent Tachocline.txt 2 141 240 
+a Tachocline.txt 10 70 86 111 152 175 189 235 253 259 302 
+tachoclines Tachocline.txt 1 278 
+third Tachocline.txt 1 58 
+stronger Tachocline.txt 1 237 
+roughly Tachocline.txt 1 121 
+thought Tachocline.txt 1 214 
+maintain Tachocline.txt 1 265 
+the Tachocline.txt 42 5 11 20 24 31 33 36 40 43 47 56 60 66 75 81 93 98 102 114 118 124 131 134 138 147 159 164 167 180 186 206 211 223 229 275 282 290 293 296 315 321 324 
+width Tachocline.txt 1 209 

@@ -1,0 +1,309 @@
+rtg Apollo_Lunar_Surface_Experiments_Package.txt 2 147 239 
+they Apollo_Lunar_Surface_Experiments_Package.txt 2 131 721 
+show Apollo_Lunar_Surface_Experiments_Package.txt 1 291 
+september Apollo_Lunar_Surface_Experiments_Package.txt 1 727 
+stool Apollo_Lunar_Surface_Experiments_Package.txt 4 505 594 637 675 
+over Apollo_Lunar_Surface_Experiments_Package.txt 1 779 
+arrayed Apollo_Lunar_Surface_Experiments_Package.txt 1 133 
+mission Apollo_Lunar_Surface_Experiments_Package.txt 3 11 287 317 
+astronauts Apollo_Lunar_Surface_Experiments_Package.txt 2 28 119 
+thermal Apollo_Lunar_Surface_Experiments_Package.txt 2 165 174 
+experiments Apollo_Lunar_Surface_Experiments_Package.txt 13 3 16 66 76 88 159 257 284 310 323 371 404 559 
+sleep Apollo_Lunar_Surface_Experiments_Package.txt 1 486 
+during Apollo_Lunar_Surface_Experiments_Package.txt 2 485 776 
+earth Apollo_Lunar_Surface_Experiments_Package.txt 3 164 198 714 
+its Apollo_Lunar_Surface_Experiments_Package.txt 1 777 
+lrrr Apollo_Lunar_Surface_Experiments_Package.txt 1 464 
+principal Apollo_Lunar_Surface_Experiments_Package.txt 1 92 
+12s Apollo_Lunar_Surface_Experiments_Package.txt 1 493 
+subpackages Apollo_Lunar_Surface_Experiments_Package.txt 1 217 
+squeeze Apollo_Lunar_Surface_Experiments_Package.txt 1 456 
+but Apollo_Lunar_Surface_Experiments_Package.txt 1 394 
+system Apollo_Lunar_Surface_Experiments_Package.txt 1 706 
+generator Apollo_Lunar_Surface_Experiments_Package.txt 1 146 
+also Apollo_Lunar_Surface_Experiments_Package.txt 4 243 272 465 784 
+17s Apollo_Lunar_Surface_Experiments_Package.txt 1 699 
+had Apollo_Lunar_Surface_Experiments_Package.txt 2 304 318 
+crew Apollo_Lunar_Surface_Experiments_Package.txt 1 419 
+bendix Apollo_Lunar_Surface_Experiments_Package.txt 1 104 
+to Apollo_Lunar_Surface_Experiments_Package.txt 17 40 114 122 148 163 197 245 337 368 425 434 437 452 479 574 731 760 
+only Apollo_Lunar_Surface_Experiments_Package.txt 2 370 410 
+experiment Apollo_Lunar_Surface_Experiments_Package.txt 1 550 
+deliberately Apollo_Lunar_Surface_Experiments_Package.txt 1 569 
+instrument Apollo_Lunar_Surface_Experiments_Package.txt 1 749 
+differed Apollo_Lunar_Surface_Experiments_Package.txt 1 285 
+hidden Apollo_Lunar_Surface_Experiments_Package.txt 1 803 
+retro Apollo_Lunar_Surface_Experiments_Package.txt 1 462 
+external Apollo_Lunar_Surface_Experiments_Package.txt 1 799 
+handle Apollo_Lunar_Surface_Experiments_Package.txt 1 457 
+around Apollo_Lunar_Surface_Experiments_Package.txt 1 134 
+format Apollo_Lunar_Surface_Experiments_Package.txt 1 194 
+michigan Apollo_Lunar_Surface_Experiments_Package.txt 1 109 
+background Apollo_Lunar_Surface_Experiments_Package.txt 1 71 
+february Apollo_Lunar_Surface_Experiments_Package.txt 2 84 792 
+pse Apollo_Lunar_Surface_Experiments_Package.txt 5 508 582 597 640 678 
+early Apollo_Lunar_Surface_Experiments_Package.txt 3 63 360 401 
+2 Apollo_Lunar_Surface_Experiments_Package.txt 1 412 
+five Apollo_Lunar_Surface_Experiments_Package.txt 1 37 
+aerospace Apollo_Lunar_Surface_Experiments_Package.txt 1 105 
+deployment Apollo_Lunar_Surface_Experiments_Package.txt 4 199 282 339 719 
+not Apollo_Lunar_Surface_Experiments_Package.txt 3 388 421 741 
+using Apollo_Lunar_Surface_Experiments_Package.txt 1 342 
+one Apollo_Lunar_Surface_Experiments_Package.txt 4 252 411 433 455 
+exact Apollo_Lunar_Surface_Experiments_Package.txt 1 281 
+minute Apollo_Lunar_Surface_Experiments_Package.txt 1 415 
+room Apollo_Lunar_Surface_Experiments_Package.txt 1 754 
+term Apollo_Lunar_Surface_Experiments_Package.txt 1 125 
+several Apollo_Lunar_Surface_Experiments_Package.txt 1 768 
+hour Apollo_Lunar_Surface_Experiments_Package.txt 1 413 
+impact Apollo_Lunar_Surface_Experiments_Package.txt 1 537 
+edit Apollo_Lunar_Surface_Experiments_Package.txt 18 72 200 300 311 315 327 489 523 621 655 687 695 703 785 787 796 798 801 
+eva Apollo_Lunar_Surface_Experiments_Package.txt 1 416 
+signal Apollo_Lunar_Surface_Experiments_Package.txt 1 577 
+list Apollo_Lunar_Surface_Experiments_Package.txt 2 308 312 
+make Apollo_Lunar_Surface_Experiments_Package.txt 1 123 
+bay Apollo_Lunar_Surface_Experiments_Package.txt 2 213 447 
+leave Apollo_Lunar_Surface_Experiments_Package.txt 1 389 
+communications Apollo_Lunar_Surface_Experiments_Package.txt 1 153 
+stored Apollo_Lunar_Surface_Experiments_Package.txt 12 204 273 442 500 516 588 607 614 632 648 666 680 
+transmitted Apollo_Lunar_Surface_Experiments_Package.txt 1 196 
+common Apollo_Lunar_Surface_Experiments_Package.txt 2 298 306 
+each Apollo_Lunar_Surface_Experiments_Package.txt 3 34 301 316 
+did Apollo_Lunar_Surface_Experiments_Package.txt 1 387 
+notes Apollo_Lunar_Surface_Experiments_Package.txt 1 786 
+s-ivbs Apollo_Lunar_Surface_Experiments_Package.txt 1 536 
+investigators Apollo_Lunar_Surface_Experiments_Package.txt 1 93 
+carrybar Apollo_Lunar_Surface_Experiments_Package.txt 5 349 512 601 644 673 
+set Apollo_Lunar_Surface_Experiments_Package.txt 2 21 375 
+htc Apollo_Lunar_Surface_Experiments_Package.txt 4 279 514 612 646 
+seq Apollo_Lunar_Surface_Experiments_Package.txt 2 212 446 
+achieved Apollo_Lunar_Surface_Experiments_Package.txt 1 168 
+alsep Apollo_Lunar_Surface_Experiments_Package.txt 21 6 18 80 98 202 302 392 429 494 510 529 599 626 642 660 671 692 700 705 752 763 
+some Apollo_Lunar_Surface_Experiments_Package.txt 1 305 
+aborted Apollo_Lunar_Surface_Experiments_Package.txt 1 554 
+module Apollo_Lunar_Surface_Experiments_Package.txt 1 208 
+second Apollo_Lunar_Surface_Experiments_Package.txt 7 233 247 270 519 617 651 683 
+decided Apollo_Lunar_Surface_Experiments_Package.txt 1 82 
+design Apollo_Lunar_Surface_Experiments_Package.txt 1 473 
+result Apollo_Lunar_Surface_Experiments_Package.txt 1 384 
+images Apollo_Lunar_Surface_Experiments_Package.txt 1 769 
+gimbal Apollo_Lunar_Surface_Experiments_Package.txt 5 261 497 585 629 663 
+s-ivb Apollo_Lunar_Surface_Experiments_Package.txt 1 566 
+array Apollo_Lunar_Surface_Experiments_Package.txt 1 321 
+aldrin Apollo_Lunar_Surface_Experiments_Package.txt 1 332 
+took Apollo_Lunar_Surface_Experiments_Package.txt 1 432 
+heaters Apollo_Lunar_Surface_Experiments_Package.txt 1 183 
+skylab Apollo_Lunar_Surface_Experiments_Package.txt 1 762 
+detect Apollo_Lunar_Surface_Experiments_Package.txt 1 480 
+both Apollo_Lunar_Surface_Experiments_Package.txt 2 439 743 
+for Apollo_Lunar_Surface_Experiments_Package.txt 10 491 506 526 578 595 623 638 676 689 757 
+pictures Apollo_Lunar_Surface_Experiments_Package.txt 1 290 
+since Apollo_Lunar_Surface_Experiments_Package.txt 1 407 
+wikipedia Apollo_Lunar_Surface_Experiments_Package.txt 1 5 
+sites Apollo_Lunar_Surface_Experiments_Package.txt 1 782 
+supplied Apollo_Lunar_Surface_Experiments_Package.txt 1 139 
+moon Apollo_Lunar_Surface_Experiments_Package.txt 3 44 364 573 
+enough Apollo_Lunar_Surface_Experiments_Package.txt 2 423 478 
+version Apollo_Lunar_Surface_Experiments_Package.txt 1 398 
+lunar Apollo_Lunar_Surface_Experiments_Package.txt 8 1 14 129 207 275 540 604 773 
+considerations Apollo_Lunar_Surface_Experiments_Package.txt 1 733 
+16s Apollo_Lunar_Surface_Experiments_Package.txt 1 691 
+be Apollo_Lunar_Surface_Experiments_Package.txt 2 161 374 
+full Apollo_Lunar_Surface_Experiments_Package.txt 2 391 428 
+run Apollo_Lunar_Surface_Experiments_Package.txt 3 115 149 742 
+scientific Apollo_Lunar_Surface_Experiments_Package.txt 3 23 65 210 
+power Apollo_Lunar_Surface_Experiments_Package.txt 3 140 179 738 
+lms Apollo_Lunar_Surface_Experiments_Package.txt 1 445 
+however Apollo_Lunar_Surface_Experiments_Package.txt 1 562 
+orbits Apollo_Lunar_Surface_Experiments_Package.txt 1 778 
+assembly Apollo_Lunar_Surface_Experiments_Package.txt 5 262 498 586 630 664 
+astronautica Apollo_Lunar_Surface_Experiments_Package.txt 1 789 
+base Apollo_Lunar_Surface_Experiments_Package.txt 2 219 230 
+references Apollo_Lunar_Surface_Experiments_Package.txt 1 795 
+passive Apollo_Lunar_Surface_Experiments_Package.txt 2 170 548 
+layout Apollo_Lunar_Surface_Experiments_Package.txt 6 490 525 622 656 688 696 
+packages Apollo_Lunar_Surface_Experiments_Package.txt 1 440 
+by Apollo_Lunar_Surface_Experiments_Package.txt 11 26 103 142 157 169 286 341 544 711 735 771 
+simpler Apollo_Lunar_Surface_Experiments_Package.txt 2 397 472 
+drill Apollo_Lunar_Surface_Experiments_Package.txt 1 605 
+on Apollo_Lunar_Surface_Experiments_Package.txt 17 42 263 328 351 362 501 517 538 571 589 608 615 633 649 667 681 725 
+commands Apollo_Lunar_Surface_Experiments_Package.txt 1 712 
+central Apollo_Lunar_Surface_Experiments_Package.txt 2 136 226 
+missions Apollo_Lunar_Surface_Experiments_Package.txt 3 39 314 353 
+package Apollo_Lunar_Surface_Experiments_Package.txt 6 4 17 60 67 393 405 
+of Apollo_Lunar_Surface_Experiments_Package.txt 20 7 22 33 35 127 220 231 237 255 283 309 313 322 355 358 532 552 557 657 697 
+could Apollo_Lunar_Surface_Experiments_Package.txt 3 160 373 740 
+30 Apollo_Lunar_Surface_Experiments_Package.txt 1 726 
+hours Apollo_Lunar_Surface_Experiments_Package.txt 1 436 
+used Apollo_Lunar_Surface_Experiments_Package.txt 1 350 
+sensitive Apollo_Lunar_Surface_Experiments_Package.txt 1 477 
+s Apollo_Lunar_Surface_Experiments_Package.txt 2 209 483 
+carrier Apollo_Lunar_Surface_Experiments_Package.txt 1 278 
+planned Apollo_Lunar_Surface_Experiments_Package.txt 2 417 524 
+buzz Apollo_Lunar_Surface_Experiments_Package.txt 1 331 
+usually Apollo_Lunar_Surface_Experiments_Package.txt 2 250 431 
+easep Apollo_Lunar_Surface_Experiments_Package.txt 5 69 326 336 406 451 
+studies Apollo_Lunar_Surface_Experiments_Package.txt 1 126 
+or Apollo_Lunar_Surface_Experiments_Package.txt 3 68 253 377 
+first Apollo_Lunar_Surface_Experiments_Package.txt 2 222 591 
+transmitter Apollo_Lunar_Surface_Experiments_Package.txt 1 745 
+control Apollo_Lunar_Surface_Experiments_Package.txt 2 166 753 
+budgetary Apollo_Lunar_Surface_Experiments_Package.txt 1 732 
+reactivate Apollo_Lunar_Surface_Experiments_Package.txt 1 761 
+instruments Apollo_Lunar_Surface_Experiments_Package.txt 5 24 111 151 188 708 
+into Apollo_Lunar_Surface_Experiments_Package.txt 1 191 
+within Apollo_Lunar_Surface_Experiments_Package.txt 1 467 
+bibliography Apollo_Lunar_Surface_Experiments_Package.txt 1 797 
+comprised Apollo_Lunar_Surface_Experiments_Package.txt 1 19 
+visible Apollo_Lunar_Surface_Experiments_Package.txt 1 766 
+smaller Apollo_Lunar_Surface_Experiments_Package.txt 1 59 
+simply Apollo_Lunar_Surface_Experiments_Package.txt 1 333 
+long Apollo_Lunar_Surface_Experiments_Package.txt 1 124 
+primarily Apollo_Lunar_Surface_Experiments_Package.txt 1 730 
+insulation Apollo_Lunar_Surface_Experiments_Package.txt 1 172 
+neil Apollo_Lunar_Surface_Experiments_Package.txt 1 481 
+coatings Apollo_Lunar_Surface_Experiments_Package.txt 1 175 
+tools Apollo_Lunar_Surface_Experiments_Package.txt 4 511 600 643 672 
+14s Apollo_Lunar_Surface_Experiments_Package.txt 1 625 
+are Apollo_Lunar_Surface_Experiments_Package.txt 1 765 
+environment Apollo_Lunar_Surface_Experiments_Package.txt 1 130 
+apollos Apollo_Lunar_Surface_Experiments_Package.txt 1 48 
+from Apollo_Lunar_Surface_Experiments_Package.txt 5 186 295 347 713 718 
+resistors Apollo_Lunar_Surface_Experiments_Package.txt 1 181 
+would Apollo_Lunar_Surface_Experiments_Package.txt 2 78 420 
+coinvestigators Apollo_Lunar_Surface_Experiments_Package.txt 1 95 
+there Apollo_Lunar_Surface_Experiments_Package.txt 1 408 
+two Apollo_Lunar_Surface_Experiments_Package.txt 3 215 254 435 
+specifically Apollo_Lunar_Surface_Experiments_Package.txt 1 86 
+taken Apollo_Lunar_Surface_Experiments_Package.txt 1 770 
+detected Apollo_Lunar_Surface_Experiments_Package.txt 1 543 
+needed Apollo_Lunar_Surface_Experiments_Package.txt 1 756 
+handles Apollo_Lunar_Surface_Experiments_Package.txt 1 343 
+station Apollo_Lunar_Surface_Experiments_Package.txt 3 137 227 303 
+until Apollo_Lunar_Surface_Experiments_Package.txt 1 720 
+deploy Apollo_Lunar_Surface_Experiments_Package.txt 3 426 438 453 
+collected Apollo_Lunar_Surface_Experiments_Package.txt 2 156 185 
+stage Apollo_Lunar_Surface_Experiments_Package.txt 1 567 
+was Apollo_Lunar_Surface_Experiments_Package.txt 18 99 167 203 235 242 409 476 499 515 568 587 606 613 631 647 665 679 755 
+is Apollo_Lunar_Surface_Experiments_Package.txt 1 345 
+ten Apollo_Lunar_Surface_Experiments_Package.txt 1 468 
+systems Apollo_Lunar_Surface_Experiments_Package.txt 1 764 
+website Apollo_Lunar_Surface_Experiments_Package.txt 1 790 
+controlled Apollo_Lunar_Surface_Experiments_Package.txt 1 710 
+that Apollo_Lunar_Surface_Experiments_Package.txt 2 77 372 
+tool Apollo_Lunar_Surface_Experiments_Package.txt 1 277 
+formed Apollo_Lunar_Surface_Experiments_Package.txt 1 224 
+subpallet Apollo_Lunar_Surface_Experiments_Package.txt 5 241 503 610 635 669 
+landing Apollo_Lunar_Surface_Experiments_Package.txt 3 31 555 781 
+permit Apollo_Lunar_Surface_Experiments_Package.txt 1 369 
+tested Apollo_Lunar_Surface_Experiments_Package.txt 1 102 
+part Apollo_Lunar_Surface_Experiments_Package.txt 1 236 
+because Apollo_Lunar_Surface_Experiments_Package.txt 2 354 551 
+geologists Apollo_Lunar_Surface_Experiments_Package.txt 1 365 
+attempt Apollo_Lunar_Surface_Experiments_Package.txt 1 759 
+despite Apollo_Lunar_Surface_Experiments_Package.txt 1 470 
+apollo Apollo_Lunar_Surface_Experiments_Package.txt 31 0 9 13 38 46 55 64 264 296 324 329 385 402 487 492 521 527 534 546 564 580 619 624 653 658 685 690 693 698 702 780 
+with Apollo_Lunar_Surface_Experiments_Package.txt 1 454 
+deployed Apollo_Lunar_Surface_Experiments_Package.txt 2 466 561 
+carried Apollo_Lunar_Surface_Experiments_Package.txt 2 251 334 
+11 Apollo_Lunar_Surface_Experiments_Package.txt 5 47 56 325 330 386 
+10 Apollo_Lunar_Surface_Experiments_Package.txt 1 380 
+thermoelectric Apollo_Lunar_Surface_Experiments_Package.txt 1 145 
+12 Apollo_Lunar_Surface_Experiments_Package.txt 6 49 265 297 488 547 581 
+15 Apollo_Lunar_Surface_Experiments_Package.txt 2 51 654 
+14 Apollo_Lunar_Surface_Experiments_Package.txt 4 50 268 620 791 
+17 Apollo_Lunar_Surface_Experiments_Package.txt 2 54 694 
+16 Apollo_Lunar_Surface_Experiments_Package.txt 3 10 52 686 
+this Apollo_Lunar_Surface_Experiments_Package.txt 1 344 
+stations Apollo_Lunar_Surface_Experiments_Package.txt 1 716 
+attached Apollo_Lunar_Surface_Experiments_Package.txt 1 244 
+up Apollo_Lunar_Surface_Experiments_Package.txt 1 376 
+ranging Apollo_Lunar_Surface_Experiments_Package.txt 1 461 
+recording Apollo_Lunar_Surface_Experiments_Package.txt 1 531 
+placed Apollo_Lunar_Surface_Experiments_Package.txt 1 25 
+while Apollo_Lunar_Surface_Experiments_Package.txt 1 228 
+converted Apollo_Lunar_Surface_Experiments_Package.txt 1 190 
+none Apollo_Lunar_Surface_Experiments_Package.txt 1 556 
+were Apollo_Lunar_Surface_Experiments_Package.txt 9 81 96 112 132 189 441 560 709 722 
+following Apollo_Lunar_Surface_Experiments_Package.txt 2 45 289 
+reconnaissance Apollo_Lunar_Surface_Experiments_Package.txt 1 774 
+other Apollo_Lunar_Surface_Experiments_Package.txt 1 748 
+minutes Apollo_Lunar_Surface_Experiments_Package.txt 2 381 469 
+called Apollo_Lunar_Surface_Experiments_Package.txt 2 61 399 
+procedure Apollo_Lunar_Surface_Experiments_Package.txt 1 294 
+engineers Apollo_Lunar_Surface_Experiments_Package.txt 1 448 
+and Apollo_Lunar_Surface_Experiments_Package.txt 19 53 75 91 94 101 121 152 182 195 258 267 458 513 602 645 674 707 746 750 
+due Apollo_Lunar_Surface_Experiments_Package.txt 1 729 
+reflector Apollo_Lunar_Surface_Experiments_Package.txt 1 463 
+armstrong Apollo_Lunar_Surface_Experiments_Package.txt 1 482 
+ran Apollo_Lunar_Surface_Experiments_Package.txt 1 717 
+ann Apollo_Lunar_Surface_Experiments_Package.txt 1 107 
+turned Apollo_Lunar_Surface_Experiments_Package.txt 1 723 
+site Apollo_Lunar_Surface_Experiments_Package.txt 2 32 340 
+surface Apollo_Lunar_Surface_Experiments_Package.txt 4 2 15 403 541 
+an Apollo_Lunar_Surface_Experiments_Package.txt 1 359 
+as Apollo_Lunar_Surface_Experiments_Package.txt 4 176 178 382 542 
+abort Apollo_Lunar_Surface_Experiments_Package.txt 1 361 
+subpackage Apollo_Lunar_Surface_Experiments_Package.txt 9 223 234 248 271 520 592 618 652 684 
+at Apollo_Lunar_Surface_Experiments_Package.txt 1 29 
+have Apollo_Lunar_Surface_Experiments_Package.txt 1 422 
+in Apollo_Lunar_Surface_Experiments_Package.txt 7 83 106 205 214 379 443 767 
+any Apollo_Lunar_Surface_Experiments_Package.txt 1 747 
+contents Apollo_Lunar_Surface_Experiments_Package.txt 1 70 
+risk Apollo_Lunar_Surface_Experiments_Package.txt 1 357 
+instrumentation Apollo_Lunar_Surface_Experiments_Package.txt 1 74 
+different Apollo_Lunar_Surface_Experiments_Package.txt 2 320 346 
+arbor Apollo_Lunar_Surface_Experiments_Package.txt 1 108 
+built Apollo_Lunar_Surface_Experiments_Package.txt 1 100 
+antenna Apollo_Lunar_Surface_Experiments_Package.txt 5 260 496 584 628 662 
+relayed Apollo_Lunar_Surface_Experiments_Package.txt 1 162 
+provide Apollo_Lunar_Surface_Experiments_Package.txt 1 575 
+1966 Apollo_Lunar_Surface_Experiments_Package.txt 2 85 793 
+responsible Apollo_Lunar_Surface_Experiments_Package.txt 1 90 
+telemetry Apollo_Lunar_Surface_Experiments_Package.txt 1 193 
+links Apollo_Lunar_Surface_Experiments_Package.txt 1 800 
+40 Apollo_Lunar_Surface_Experiments_Package.txt 1 414 
+equipment Apollo_Lunar_Surface_Experiments_Package.txt 1 211 
+13 Apollo_Lunar_Surface_Experiments_Package.txt 4 266 522 535 565 
+seismometer Apollo_Lunar_Surface_Experiments_Package.txt 1 475 
+which Apollo_Lunar_Surface_Experiments_Package.txt 3 138 249 430 
+packs Apollo_Lunar_Surface_Experiments_Package.txt 1 739 
+encyclopedia Apollo_Lunar_Surface_Experiments_Package.txt 1 788 
+laser Apollo_Lunar_Surface_Experiments_Package.txt 1 460 
+completed Apollo_Lunar_Surface_Experiments_Package.txt 1 378 
+autonomously Apollo_Lunar_Surface_Experiments_Package.txt 1 116 
+15s Apollo_Lunar_Surface_Experiments_Package.txt 1 659 
+elements Apollo_Lunar_Surface_Experiments_Package.txt 3 171 299 307 
+see Apollo_Lunar_Surface_Experiments_Package.txt 1 783 
+separate Apollo_Lunar_Surface_Experiments_Package.txt 1 216 
+radioisotope Apollo_Lunar_Surface_Experiments_Package.txt 1 144 
+after Apollo_Lunar_Surface_Experiments_Package.txt 2 117 701 
+categories Apollo_Lunar_Surface_Experiments_Package.txt 2 802 804 
+orbiter Apollo_Lunar_Surface_Experiments_Package.txt 1 775 
+hand Apollo_Lunar_Surface_Experiments_Package.txt 1 276 
+crashed Apollo_Lunar_Surface_Experiments_Package.txt 1 570 
+generated Apollo_Lunar_Surface_Experiments_Package.txt 1 141 
+designed Apollo_Lunar_Surface_Experiments_Package.txt 2 113 449 
+additionally Apollo_Lunar_Surface_Experiments_Package.txt 1 734 
+dissipation Apollo_Lunar_Surface_Experiments_Package.txt 1 180 
+seismic Apollo_Lunar_Surface_Experiments_Package.txt 1 549 
+data Apollo_Lunar_Surface_Experiments_Package.txt 2 155 184 
+reflectors Apollo_Lunar_Surface_Experiments_Package.txt 1 173 
+a Apollo_Lunar_Surface_Experiments_Package.txt 14 20 58 135 143 192 240 292 319 383 390 396 427 530 576 
+13s Apollo_Lunar_Surface_Experiments_Package.txt 1 528 
+land Apollo_Lunar_Surface_Experiments_Package.txt 1 41 
+off Apollo_Lunar_Surface_Experiments_Package.txt 1 724 
+1977 Apollo_Lunar_Surface_Experiments_Package.txt 2 728 736 
+persuaded Apollo_Lunar_Surface_Experiments_Package.txt 1 366 
+later Apollo_Lunar_Surface_Experiments_Package.txt 1 352 
+well Apollo_Lunar_Surface_Experiments_Package.txt 1 177 
+nasa Apollo_Lunar_Surface_Experiments_Package.txt 1 367 
+so Apollo_Lunar_Surface_Experiments_Package.txt 1 154 
+time Apollo_Lunar_Surface_Experiments_Package.txt 1 424 
+entry Apollo_Lunar_Surface_Experiments_Package.txt 1 794 
+the Apollo_Lunar_Surface_Experiments_Package.txt 84 8 12 27 30 36 43 62 73 87 97 110 118 128 150 158 187 201 206 218 221 225 229 232 238 246 256 259 269 274 280 288 335 338 348 356 363 400 418 444 450 459 471 474 495 502 504 507 509 518 533 539 545 553 558 563 572 579 583 590 593 596 598 603 609 611 616 627 634 636 639 641 650 661 668 670 677 682 704 715 737 744 751 758 772 
+typical Apollo_Lunar_Surface_Experiments_Package.txt 1 293 
+movements Apollo_Lunar_Surface_Experiments_Package.txt 1 484 
+institutions Apollo_Lunar_Surface_Experiments_Package.txt 1 89 
+comprise Apollo_Lunar_Surface_Experiments_Package.txt 1 79 
+left Apollo_Lunar_Surface_Experiments_Package.txt 3 57 120 395 

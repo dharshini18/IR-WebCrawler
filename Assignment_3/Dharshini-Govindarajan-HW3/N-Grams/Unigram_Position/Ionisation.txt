@@ -1,0 +1,923 @@
+represent Ionisation.txt 1 1395 
+all Ionisation.txt 5 343 976 1304 2397 3422 
+surrounded Ionisation.txt 1 3514 
+consider Ionisation.txt 1 1927 
+chain Ionisation.txt 1 543 
+maximum Ionisation.txt 3 2758 3329 3437 
+krainov Ionisation.txt 1 1459 
+forbidden Ionisation.txt 1 777 
+both Ionisation.txt 2 2837 3368 
+dynamic Ionisation.txt 2 1693 1803 
+results Ionisation.txt 4 845 3042 3048 3063 
+leads Ionisation.txt 2 797 3210 
+avalanche Ionisation.txt 2 191 563 
+ionize Ionisation.txt 3 1485 1831 2096 
+go Ionisation.txt 4 968 1609 1728 2040 
+row Ionisation.txt 1 702 
+whose Ionisation.txt 1 1358 
+remarkable Ionisation.txt 1 1403 
+subjected Ionisation.txt 1 1777 
+quadruple Ionisation.txt 1 2402 
+passage Ionisation.txt 1 771 
+to Ionisation.txt 69 46 117 125 271 312 360 390 400 426 462 498 527 560 575 606 615 698 756 798 801 911 941 953 967 1028 1036 1111 1184 1200 1387 1484 1548 1591 1649 1659 1778 1797 1844 1879 1883 2026 2052 2083 2119 2206 2244 2294 2328 2361 2427 2442 2454 2480 2571 2574 2598 2753 2788 2793 2941 2956 3010 3059 3125 3168 3211 3349 3369 3374 
+charge Ionisation.txt 4 40 2429 2445 2456 
+under Ionisation.txt 3 922 2075 3259 
+include Ionisation.txt 1 2974 
+presentation Ionisation.txt 1 1852 
+ionizing Ionisation.txt 4 219 465 3226 3241 
+amplitudes Ionisation.txt 1 2088 
+returning Ionisation.txt 1 2763 
+very Ionisation.txt 3 1179 1297 2168 
+wave Ionisation.txt 2 649 984 
+electron Ionisation.txt 55 64 202 210 220 224 233 256 274 355 384 477 494 502 546 744 773 919 948 965 988 1010 1069 1103 1167 1506 1762 1998 2207 2489 2515 2546 2558 2592 2595 2632 2675 2680 2698 2729 2731 2739 2764 2860 2889 2912 2984 3079 3175 3258 3269 3277 3295 3352 3359 3376 
+summarized Ionisation.txt 1 620 
+resonant Ionisation.txt 2 1630 1917 
+difference Ionisation.txt 2 748 1679 
+exact Ionisation.txt 1 3026 
+condition Ionisation.txt 1 3335 
+common Ionisation.txt 1 1921 
+illustrated Ionisation.txt 1 2829 
+presented Ionisation.txt 2 658 1967 
+did Ionisation.txt 2 1829 2972 
+f Ionisation.txt 2 710 1515 
+solution Ionisation.txt 5 867 3270 3337 3353 3525 
+large Ionisation.txt 1 3033 
+p Ionisation.txt 2 707 1507 
+vector Ionisation.txt 1 341 
+phase Ionisation.txt 4 2705 2745 3193 3366 
+small Ionisation.txt 2 1180 1756 
+enhance Ionisation.txt 1 2298 
+becker Ionisation.txt 4 2644 2650 3004 3053 
+non-intertial Ionisation.txt 1 3252 
+time-average Ionisation.txt 1 3313 
+strongly Ionisation.txt 1 3218 
+three-dimensional Ionisation.txt 1 1522 
+core Ionisation.txt 2 2695 2756 
+trend Ionisation.txt 1 596 
+pulse Ionisation.txt 15 1690 1706 1736 1822 1828 1976 2012 2035 2081 2473 3141 3163 3227 3242 3266 
+3.17 Ionisation.txt 1 2768 
+approximation Ionisation.txt 3 1202 1406 1556 
+consists Ionisation.txt 1 1936 
+rate Ionisation.txt 15 809 871 1290 1315 1359 1379 1410 1434 1472 1541 2300 2424 2433 2450 2994 
+pass Ionisation.txt 2 757 2711 
+further Ionisation.txt 3 209 501 1018 
+dynamics Ionisation.txt 1 2980 
+n Ionisation.txt 1 1393 
+even Ionisation.txt 2 2605 3322 
+trapping Ionisation.txt 8 1536 1849 1857 1964 2137 2146 2208 2220 
+liberates Ionisation.txt 2 200 207 
+contributed Ionisation.txt 1 359 
+near Ionisation.txt 1 1213 
+uniform Ionisation.txt 1 884 
+liberated Ionisation.txt 1 223 
+sequential Ionisation.txt 1 2350 
+above Ionisation.txt 1 1397 
+new Ionisation.txt 2 680 2576 
+falling Ionisation.txt 1 1702 
+increasing Ionisation.txt 1 2183 
+geiger-mller Ionisation.txt 1 158 
+coefficient Ionisation.txt 1 1342 
+full Ionisation.txt 4 2905 3311 3389 3408 
+simultaneously Ionisation.txt 1 2342 
+exchange Ionisation.txt 1 2951 
+never Ionisation.txt 1 2751 
+orbitals Ionisation.txt 1 642 
+atoms Ionisation.txt 16 73 586 602 612 623 672 789 1274 1545 1776 1840 2242 2400 2510 2533 3071 
+ionization Ionisation.txt 74 0 23 56 98 135 162 165 198 258 299 375 380 459 530 564 583 590 599 653 667 692 715 732 738 765 784 800 808 812 870 875 931 937 939 946 1042 1091 1139 1289 1322 1349 1357 1399 1409 1433 1453 1749 1911 1924 2233 2239 2292 2436 2484 2508 2531 2588 2669 2791 2804 2868 2970 2993 3096 3107 3176 3192 3200 3216 3386 3409 3420 3494 3543 
+believed Ionisation.txt 1 1796 
+possibility Ionisation.txt 1 1604 
+excess Ionisation.txt 1 249 
+i.e Ionisation.txt 3 334 810 1368 
+along Ionisation.txt 1 1950 
+strong Ionisation.txt 7 490 794 1054 1404 2211 3121 3198 
+equations Ionisation.txt 1 3274 
+transformation Ionisation.txt 2 1524 3302 
+obtained Ionisation.txt 1 3298 
+stark Ionisation.txt 3 1593 1804 2028 
+shift Ionisation.txt 3 1594 1805 2029 
+study Ionisation.txt 2 302 2414 
+larger Ionisation.txt 2 1191 1224 
+allows Ionisation.txt 1 963 
+completely Ionisation.txt 2 1832 2099 
+leaving Ionisation.txt 2 1023 1835 
+amount Ionisation.txt 2 268 291 
+periodic Ionisation.txt 2 609 663 
+resulting Ionisation.txt 1 1471 
+action Ionisation.txt 2 1258 2077 
+resonance Ionisation.txt 9 1566 1612 1638 1694 1730 1811 1885 1992 2043 
+fourier Ionisation.txt 1 1523 
+changes Ionisation.txt 1 55 
+involves Ionisation.txt 2 769 3542 
+emerge Ionisation.txt 1 214 
+via Ionisation.txt 1 2162 
+kinematically Ionisation.txt 1 331 
+prefer Ionisation.txt 1 2327 
+marked Ionisation.txt 2 2849 2934 
+highly Ionisation.txt 2 1786 1838 
+visible Ionisation.txt 1 3522 
+decrease Ionisation.txt 2 665 2053 
+summation Ionisation.txt 1 1391 
+total Ionisation.txt 2 1288 3237 
+unit Ionisation.txt 1 815 
+plot Ionisation.txt 1 694 
+conventional Ionisation.txt 1 3174 
+quasi Ionisation.txt 1 2115 
+from Ionisation.txt 19 3 59 215 387 523 696 921 1078 1104 1172 1193 2283 2348 2504 2661 2692 3031 3391 3400 
+links Ionisation.txt 1 3555 
+would Ionisation.txt 1 2131 
+entities Ionisation.txt 1 3469 
+remains Ionisation.txt 1 1710 
+positive Ionisation.txt 3 39 420 468 
+negative Ionisation.txt 1 37 
+next Ionisation.txt 2 505 533 
+classically Ionisation.txt 1 776 
+call Ionisation.txt 1 1231 
+therefore Ionisation.txt 5 1008 2579 3326 3347 3378 
+taken Ionisation.txt 3 1143 1428 3083 
+survive Ionisation.txt 1 1783 
+themselves Ionisation.txt 1 2573 
+shake-off Ionisation.txt 3 2486 2493 2607 
+type Ionisation.txt 2 1855 1963 
+theoretical Ionisation.txt 3 365 1907 2254 
+diagrams Ionisation.txt 1 2832 
+more Ionisation.txt 4 1074 2129 2215 3025 
+ejected Ionisation.txt 2 127 354 
+becomes Ionisation.txt 1 3526 
+acceptable Ionisation.txt 1 1558 
+stable Ionisation.txt 1 2169 
+comoving Ionisation.txt 1 3292 
+particular Ionisation.txt 1 3180 
+known Ionisation.txt 3 254 297 1088 
+cases Ionisation.txt 1 735 
+producing Ionisation.txt 1 3448 
+must Ionisation.txt 1 949 
+states Ionisation.txt 21 1114 1551 1574 1600 1657 1684 1727 1788 1794 1834 1873 1881 1887 1903 2039 2074 2123 2446 2578 2599 2857 
+account Ionisation.txt 1 1145 
+1992 Ionisation.txt 1 1768 
+g Ionisation.txt 1 1858 
+effectively Ionisation.txt 1 541 
+tunnel Ionisation.txt 8 764 874 936 1029 1041 1348 2435 2677 
+science Ionisation.txt 1 177 
+work Ionisation.txt 1 2262 
+regions Ionisation.txt 1 1212 
+can Ionisation.txt 17 57 90 99 450 726 817 862 896 1015 1059 1360 1435 2657 2725 2765 2795 3081 
+starts Ionisation.txt 1 2051 
+following Ionisation.txt 2 456 2420 
+drops Ionisation.txt 1 998 
+example Ionisation.txt 3 415 656 3452 
+ions Ionisation.txt 16 48 76 189 227 261 282 421 573 806 2196 2306 2367 3449 3485 3498 3511 
+figure Ionisation.txt 6 588 660 1173 1969 2834 2947 
+process Ionisation.txt 18 27 108 166 252 654 739 768 1058 1064 1097 2334 2520 2540 2672 2801 2869 2952 3094 
+neglected Ionisation.txt 3 898 1129 1723 
+now Ionisation.txt 1 2613 
+high Ionisation.txt 3 442 853 3153 
+indicates Ionisation.txt 1 675 
+minimum Ionisation.txt 4 1479 1641 2784 3434 
+degenerate Ionisation.txt 3 1871 1983 2116 
+times Ionisation.txt 1 2769 
+occur Ionisation.txt 3 100 535 2796 
+stabilization/population Ionisation.txt 1 1535 
+rays Ionisation.txt 1 2513 
+quasi-static Ionisation.txt 3 1347 1352 2452 
+provide Ionisation.txt 1 842 
+travel Ionisation.txt 1 515 
+1 Ionisation.txt 5 589 661 1866 1985 2382 
+lamp Ionisation.txt 1 142 
+instead Ionisation.txt 1 973 
+parameter Ionisation.txt 1 1313 
+suffer Ionisation.txt 1 3030 
+ft Ionisation.txt 1 1519 
+description Ionisation.txt 3 713 760 782 
+huge Ionisation.txt 2 2309 2997 
+may Ionisation.txt 4 1721 3145 3444 3488 
+near-infrared Ionisation.txt 1 1053 
+after Ionisation.txt 6 65 669 1744 1874 2586 3415 
+derived Ionisation.txt 1 1235 
+diagram Ionisation.txt 1 2798 
+waves Ionisation.txt 1 1431 
+such Ionisation.txt 7 137 155 304 453 463 1554 1930 
+mpi Ionisation.txt 5 1092 1096 1317 1543 2882 
+parallel Ionisation.txt 1 1916 
+constants Ionisation.txt 1 2461 
+a Ionisation.txt 67 33 36 140 171 208 231 266 272 276 377 413 431 437 440 446 500 542 629 679 701 775 883 1012 1024 1033 1063 1067 1099 1277 1325 1440 1603 1688 1920 1928 1955 1977 2068 2101 2110 2133 2214 2250 2268 2308 2333 2381 2542 2582 2593 2671 2720 2779 2835 2850 2861 2876 2921 2942 2996 3076 3126 3136 3161 3442 3491 3546 
+short Ionisation.txt 5 1237 1689 1779 3140 3162 
+collision Ionisation.txt 5 206 217 277 344 2909 
+whenever Ionisation.txt 1 1913 
+light Ionisation.txt 2 82 1448 
+counter Ionisation.txt 1 159 
+relation Ionisation.txt 1 2421 
+departure Ionisation.txt 1 2555 
+cascade Ionisation.txt 1 432 
+accelerated Ionisation.txt 1 2690 
+cannot Ionisation.txt 2 762 2095 
+so Ionisation.txt 9 211 537 1038 2494 2519 2535 2560 2623 3205 
+fundamental Ionisation.txt 2 176 308 
+subsequently Ionisation.txt 1 240 
+lambda Ionisation.txt 4 1854 1956 1962 2091 
+order Ionisation.txt 1 1253 
+unsolved Ionisation.txt 1 327 
+pulsed Ionisation.txt 1 1582 
+ith Ionisation.txt 1 2455 
+nsi Ionisation.txt 8 2240 2331 2376 2395 2403 2426 3067 3093 
+laboratory Ionisation.txt 1 3356 
+developed Ionisation.txt 1 2637 
+over Ionisation.txt 3 956 979 1392 
+years Ionisation.txt 1 373 
+produced Ionisation.txt 2 229 263 
+experiments Ionisation.txt 2 333 335 
+through Ionisation.txt 13 78 101 774 969 995 1030 1070 1250 1890 2001 2060 2808 3135 
+lasers Ionisation.txt 1 1583 
+kinetic Ionisation.txt 1 2759 
+lhuillier Ionisation.txt 1 2280 
+its Ionisation.txt 5 115 396 405 1153 3509 
+chemical Ionisation.txt 3 54 3538 3547 
+manageable Ionisation.txt 1 837 
+fit Ionisation.txt 3 1296 3044 3060 
+decay Ionisation.txt 1 103 
+energies Ionisation.txt 1 591 
+temporal Ionisation.txt 1 3222 
+actually Ionisation.txt 1 3536 
+absence Ionisation.txt 1 1389 
+production Ionisation.txt 3 187 2302 2363 
+systems Ionisation.txt 1 320 
+version Ionisation.txt 2 2663 2816 
+rabi Ionisation.txt 1 1652 
+main Ionisation.txt 2 2359 3086 
+defining Ionisation.txt 1 3384 
+instantly Ionisation.txt 1 1765 
+versus Ionisation.txt 2 1268 2276 
+then Ionisation.txt 4 514 1738 2681 2858 
+good Ionisation.txt 1 414 
+return Ionisation.txt 1 2752 
+greater Ionisation.txt 1 1034 
+re-scattering Ionisation.txt 5 2490 2794 2809 2812 3080 
+practice Ionisation.txt 1 1040 
+evolution Ionisation.txt 2 1586 1824 
+projectiles Ionisation.txt 1 2516 
+mention Ionisation.txt 2 1905 2610 
+therapy Ionisation.txt 1 186 
+effects Ionisation.txt 5 1157 2176 2977 3194 3520 
+they Ionisation.txt 1 1283 
+half Ionisation.txt 3 2719 2734 2749 
+not Ionisation.txt 13 830 841 1142 1178 1830 1989 2470 2567 2960 2973 3018 3029 3229 
+xe Ionisation.txt 5 1775 1934 2198 2273 2405 
+easily Ionisation.txt 1 2660 
+2r Ionisation.txt 1 3398 
+edit Ionisation.txt 16 130 190 587 716 785 876 1350 1411 1537 2234 3105 3195 3441 3551 3553 3556 
+level Ionisation.txt 1 1922 
+establishing Ionisation.txt 1 633 
+sufficiently Ionisation.txt 3 441 793 852 
+magnitude Ionisation.txt 1 1182 
+each Ionisation.txt 2 204 216 
+crossing Ionisation.txt 2 1635 1646 
+references Ionisation.txt 1 3552 
+water Ionisation.txt 2 3460 3516 
+bond Ionisation.txt 1 84 
+reactions Ionisation.txt 1 89 
+three-step Ionisation.txt 1 3137 
+populated Ionisation.txt 2 1743 1746 
+generation Ionisation.txt 1 547 
+energy Ionisation.txt 23 116 250 270 295 398 407 497 522 557 584 600 693 741 747 952 1014 1491 1678 2024 2577 2602 2760 3238 
+ppt Ionisation.txt 4 1232 1294 1373 1415 
+idea Ionisation.txt 1 2824 
+constitute Ionisation.txt 1 1954 
+frequency Ionisation.txt 2 1330 1653 
+measurement Ionisation.txt 1 1282 
+quantum Ionisation.txt 5 780 822 942 961 2820 
+et Ionisation.txt 9 1217 1260 1661 2186 2281 2389 2500 2641 3051 
+transitions Ionisation.txt 1 1547 
+event Ionisation.txt 3 199 460 3472 
+rescattering Ionisation.txt 1 2633 
+emerges Ionisation.txt 1 920 
+shown Ionisation.txt 4 1285 2871 2902 2919 
+quasi-degenerate Ionisation.txt 1 2160 
+discrete Ionisation.txt 1 2943 
+polyatomic Ionisation.txt 2 3103 3118 
+since Ionisation.txt 3 766 1747 2258 
+interference Ionisation.txt 1 2084 
+denotes Ionisation.txt 1 1520 
+particles Ionisation.txt 2 69 280 
+collisions Ionisation.txt 5 66 70 305 534 559 
+adjust Ionisation.txt 1 2572 
+sustain Ionisation.txt 1 561 
+7 Ionisation.txt 1 1938 
+formula Ionisation.txt 1 2441 
+induced Ionisation.txt 1 3142 
+cause Ionisation.txt 1 528 
+occurs Ionisation.txt 4 1912 2883 3134 3535 
+predicted Ionisation.txt 4 1266 1291 1363 2437 
+ionisation Ionisation.txt 3 4 21 24 
+barrier Ionisation.txt 10 246 752 779 924 959 972 997 1007 1022 1027 
+perfectly Ionisation.txt 1 3043 
+feynman Ionisation.txt 2 2797 2831 
+mechanisms Ionisation.txt 1 2526 
+story Ionisation.txt 1 1660 
+free Ionisation.txt 10 232 423 476 493 512 553 2726 3257 3268 3351 
+difficulty Ionisation.txt 1 1148 
+approaches Ionisation.txt 1 1376 
+necessarily Ionisation.txt 2 3230 3447 
+formation Ionisation.txt 1 94 
+x Ionisation.txt 1 2512 
+beginning Ionisation.txt 1 2865 
+muller Ionisation.txt 1 1772 
+chlorine Ionisation.txt 1 3484 
+additional Ionisation.txt 1 2728 
+incorporates Ionisation.txt 1 1526 
+pairs Ionisation.txt 1 97 
+interaction Ionisation.txt 8 80 787 1160 1222 1249 1580 1686 2928 
+augst Ionisation.txt 1 2388 
+varse Ionisation.txt 1 22 
+e.g Ionisation.txt 4 178 184 281 3523 
+determining Ionisation.txt 1 1137 
+could Ionisation.txt 1 1782 
+transition Ionisation.txt 2 1100 2087 
+ati Ionisation.txt 2 1400 2900 
+length Ionisation.txt 1 3397 
+exponentially Ionisation.txt 1 1000 
+projectile Ionisation.txt 1 348 
+uses Ionisation.txt 1 129 
+undergo Ionisation.txt 1 1632 
+onto Ionisation.txt 1 1729 
+neglect Ionisation.txt 1 1154 
+first Ionisation.txt 5 1252 2372 2496 2591 2836 
+major Ionisation.txt 4 326 361 1147 2525 
+initial Ionisation.txt 1 3334 
+features Ionisation.txt 1 2653 
+probability Ionisation.txt 6 813 990 1140 1664 2135 2584 
+number Ionisation.txt 5 571 577 618 1480 3034 
+one Ionisation.txt 7 118 201 323 1076 2522 2545 3279 
+done Ionisation.txt 1 1417 
+gases Ionisation.txt 1 1306 
+another Ionisation.txt 3 508 2354 3470 
+reached Ionisation.txt 1 1696 
+thick Ionisation.txt 1 2906 
+angular Ionisation.txt 1 2126 
+occurrence Ionisation.txt 2 2967 3090 
+given Ionisation.txt 6 1332 1339 1344 1383 1474 1672 
+perturbation Ionisation.txt 1 1119 
+continuum.in Ionisation.txt 1 2164 
+ordering Ionisation.txt 2 622 637 
+system Ionisation.txt 2 1957 2092 
+adopted Ionisation.txt 2 1457 2503 
+intense Ionisation.txt 1 2245 
+their Ionisation.txt 5 1227 3022 3040 3073 3519 
+intermediate Ionisation.txt 1 1309 
+calculations Ionisation.txt 2 839 1413 
+heterolytic Ionisation.txt 2 83 87 
+structures Ionisation.txt 2 2189 2203 
+final Ionisation.txt 1 1163 
+townsend Ionisation.txt 1 410 
+shifted Ionisation.txt 2 2022 3367 
+shell Ionisation.txt 1 681 
+fraction Ionisation.txt 1 2102 
+that Ionisation.txt 16 449 1286 1423 1605 1760 1774 1909 2346 2562 2585 2611 2761 3169 3214 3315 3333 
+tool Ionisation.txt 1 631 
+keldysh Ionisation.txt 2 1093 1312 
+released Ionisation.txt 1 2741 
+argon Ionisation.txt 1 2378 
+part Ionisation.txt 3 1703 1818 1973 
+absorbs Ionisation.txt 1 2897 
+sublevels Ionisation.txt 1 2130 
+representing Ionisation.txt 1 2925 
+than Ionisation.txt 1 1075 
+positively Ionisation.txt 1 259 
+population Ionisation.txt 10 1708 1848 1856 1876 1895 2064 2098 2105 2139 2219 
+distance Ionisation.txt 1 1642 
+polarized Ionisation.txt 1 1327 
+showed Ionisation.txt 1 1773 
+double Ionisation.txt 4 1494 2291 2803 2992 
+approximations Ionisation.txt 2 834 3036 
+intensity Ionisation.txt 12 850 1269 1589 1639 2009 2050 2184 2277 2316 2785 2789 2964 
+determined Ionisation.txt 2 357 2149 
+intensities Ionisation.txt 2 2312 2370 
+doubly Ionisation.txt 2 2304 2365 
+were Ionisation.txt 2 1795 2204 
+negatively Ionisation.txt 1 225 
+are Ionisation.txt 21 136 228 262 356 703 829 1141 1338 1416 1552 1869 1888 1988 2021 2058 2339 2459 2839 3112 3512 3521 
+and Ionisation.txt 65 75 86 181 203 221 238 352 422 519 536 548 634 709 719 730 790 832 865 882 1031 1130 1240 1337 1468 1508 1516 1571 1598 1628 1715 1771 1791 1867 1893 1986 2018 2062 2100 2171 2200 2227 2255 2431 2458 2488 2514 2553 2625 2645 2647 2649 2746 2851 3005 3027 3054 3100 3191 3235 3325 3343 3373 3383 3483 3518 
+function Ionisation.txt 2 1496 3323 
+few-body Ionisation.txt 3 314 319 369 
+avoided Ionisation.txt 2 1634 1645 
+corkums Ionisation.txt 4 2662 2664 2776 2957 
+lines Ionisation.txt 1 2848 
+correction Ionisation.txt 2 1254 1529 
+curves Ionisation.txt 2 1270 2192 
+already Ionisation.txt 1 3499 
+have Ionisation.txt 10 358 950 1262 1284 1798 2132 2477 2568 2766 3056 
+qualitatively Ionisation.txt 1 727 
+seem Ionisation.txt 1 3489 
+obviously Ionisation.txt 1 2999 
+demonstration Ionisation.txt 1 2217 
+any Ionisation.txt 3 248 2428 2962 
+contents Ionisation.txt 1 128 
+reiss Ionisation.txt 1 1469 
+conversion Ionisation.txt 1 107 
+strength Ionisation.txt 4 2143 2152 3234 3372 
+angle Ionisation.txt 1 1500 
+zero Ionisation.txt 2 1377 3433 
+depending Ionisation.txt 2 2462 3423 
+superior Ionisation.txt 1 3167 
+studying Ionisation.txt 2 2393 3196 
+lin Ionisation.txt 1 2230 
+trapped Ionisation.txt 4 241 1897 2066 2108 
+able Ionisation.txt 1 3058 
+kuchievs Ionisation.txt 4 2815 2817 2953 3011 
+mechanism Ionisation.txt 5 1959 2543 2810 3087 3138 
+equipment Ionisation.txt 1 174 
+emphasis Ionisation.txt 1 1443 
+potential Ionisation.txt 22 245 300 668 751 778 878 892 907 913 932 958 971 1006 1021 1186 1207 1239 1323 1750 2772 3307 3316 
+generalized Ionisation.txt 1 1651 
+which Ionisation.txt 16 29 110 321 337 382 1066 1229 1394 1442 1935 2296 2336 2356 2895 3007 3317 
+schematically Ionisation.txt 1 1966 
+negligible Ionisation.txt 1 909 
+keldyshs Ionisation.txt 1 1150 
+explanation Ionisation.txt 1 2121 
+channel Ionisation.txt 2 2351 2355 
+displacement Ionisation.txt 1 3532 
+towards Ionisation.txt 3 471 479 516 
+multiple Ionisation.txt 4 1450 2232 2530 3066 
+electric Ionisation.txt 5 244 443 487 525 1510 
+shall Ionisation.txt 1 1842 
+molecule Ionisation.txt 5 34 394 509 861 1049 
+schematic Ionisation.txt 1 1851 
+most Ionisation.txt 1 2409 
+involving Ionisation.txt 1 434 
+shake-up Ionisation.txt 1 2603 
+position Ionisation.txt 2 2714 3377 
+multiply Ionisation.txt 1 804 
+knee Ionisation.txt 1 2269 
+segment Ionisation.txt 1 3394 
+the Ionisation.txt 415 17 26 60 79 93 105 120 157 161 164 196 218 222 243 251 289 293 301 313 325 338 346 349 353 364 368 409 417 467 472 475 480 483 486 492 510 517 524 532 552 562 567 570 576 595 598 608 616 636 646 652 662 676 687 691 720 724 737 740 743 746 750 758 767 770 786 799 807 811 826 833 848 854 858 869 891 894 905 912 915 918 923 930 934 957 964 970 977 983 987 989 996 1002 1005 1020 1046 1071 1079 1095 1102 1105 1109 1112 1118 1121 1125 1131 1138 1146 1156 1162 1166 1174 1185 1188 1194 1201 1206 1209 1214 1220 1242 1245 1251 1256 1264 1287 1293 1299 1308 1314 1335 1341 1351 1356 1365 1369 1372 1378 1388 1408 1412 1419 1424 1432 1444 1463 1470 1478 1486 1489 1493 1499 1502 1505 1509 1513 1517 1521 1527 1531 1540 1549 1568 1585 1596 1614 1618 1622 1629 1637 1640 1644 1650 1655 1663 1668 1676 1681 1692 1698 1701 1705 1707 1712 1716 1726 1732 1735 1739 1748 1752 1761 1785 1802 1807 1813 1816 1820 1826 1850 1860 1864 1875 1880 1894 1899 1906 1942 1945 1952 1958 1961 1971 1975 1978 1994 1997 2005 2008 2011 2015 2019 2027 2031 2034 2037 2045 2049 2055 2063 2072 2079 2086 2090 2093 2097 2104 2114 2122 2138 2142 2145 2151 2154 2159 2163 2167 2174 2178 2191 2210 2235 2260 2265 2272 2284 2289 2299 2314 2318 2324 2330 2349 2358 2362 2371 2394 2401 2408 2416 2419 2423 2432 2439 2443 2449 2464 2467 2472 2482 2485 2492 2505 2518 2524 2529 2534 2538 2550 2554 2563 2575 2587 2590 2622 2626 2631 2651 2655 2667 2679 2684 2693 2697 2707 2713 2716 2736 2738 2743 2747 2754 2757 2762 2770 2774 2783 2800 2811 2822 2826 2841 2847 2854 2859 2864 2867 2873 2881 2884 2887 2891 2904 2908 2914 2926 2930 2932 2938 2950 2966 2975 2979 2982 2988 2991 3001 3032 3046 3061 3065 3078 3085 3089 3092 3106 3115 3129 3132 3139 3157 3173 3182 3197 3202 3212 3215 3221 3225 3232 3236 3240 3245 3247 3251 3256 3260 3263 3267 3272 3276 3282 3290 3300 3304 3310 3321 3328 3336 3341 3350 3355 3358 3362 3370 3375 3380 3385 3388 3392 3396 3401 3407 3412 3416 3425 3432 3436 3453 3474 3497 3502 3524 3537 
+sfa Ionisation.txt 1 1532 
+2 Ionisation.txt 2 1868 1987 
+radioactive Ionisation.txt 1 102 
+larochelle Ionisation.txt 1 1259 
+considered Ionisation.txt 1 1553 
+calculated Ionisation.txt 2 820 1438 
+later Ionisation.txt 2 2391 2722 
+detectors Ionisation.txt 1 154 
+salt Ionisation.txt 3 3480 3506 3541 
+drifts Ionisation.txt 2 470 478 
+valance Ionisation.txt 1 3110 
+kr Ionisation.txt 1 2199 
+dissolved Ionisation.txt 1 3463 
+optical Ionisation.txt 1 3185 
+electrons Ionisation.txt 18 45 122 213 283 424 435 513 554 579 639 993 2338 2565 2838 2931 3099 3111 3534 
+mechanical Ionisation.txt 2 781 2821 
+redirected Ionisation.txt 1 2 
+charged Ionisation.txt 8 226 260 279 805 2195 2305 2320 2366 
+liberate Ionisation.txt 1 499 
+incomplete Ionisation.txt 1 1910 
+satisfactorily Ionisation.txt 1 1362 
+phenomenon Ionisation.txt 2 1846 2236 
+absorbing Ionisation.txt 1 1449 
+scattered Ionisation.txt 1 347 
+dissociate Ionisation.txt 2 3445 3458 
+minimizing Ionisation.txt 1 2173 
+gauge Ionisation.txt 2 1421 1441 
+solutions Ionisation.txt 1 828 
+constituent Ionisation.txt 1 3510 
+threshold Ionisation.txt 3 290 1398 2963 
+subtle Ionisation.txt 1 3471 
+isomers Ionisation.txt 1 3186 
+ground Ionisation.txt 12 1106 1122 1569 1597 1615 1623 1669 1713 1861 1995 2046 2842 
+impact Ionisation.txt 3 428 529 2732 
+removed Ionisation.txt 1 386 
+ratio Ionisation.txt 1 568 
+sugar Ionisation.txt 2 3457 3461 
+non-sequential Ionisation.txt 3 2231 2238 2483 
+explain Ionisation.txt 2 728 2481 
+enough Ionisation.txt 4 491 844 951 2569 
+should Ionisation.txt 1 2609 
+analytic Ionisation.txt 2 827 866 
+only Ionisation.txt 3 818 1546 2733 
+going Ionisation.txt 2 644 975 
+coefficients Ionisation.txt 1 1336 
+molecules Ionisation.txt 7 74 791 3104 3119 3133 3454 3517 
+factor Ionisation.txt 2 2310 2998 
+b Ionisation.txt 3 2036 2852 2948 
+local Ionisation.txt 1 688 
+do Ionisation.txt 3 840 1037 2566 
+predict Ionisation.txt 1 2961 
+gains Ionisation.txt 1 495 
+dependent Ionisation.txt 1 550 
+de Ionisation.txt 1 1769 
+ionized Ionisation.txt 12 452 1083 1766 2000 2340 2548 2606 2678 2701 2863 2888 2983 
+nearly Ionisation.txt 1 2341 
+quasi-classical Ionisation.txt 1 1257 
+during Ionisation.txt 5 736 1452 1584 1815 2894 
+conjunction Ionisation.txt 1 51 
+dissociated Ionisation.txt 1 3508 
+processes Ionisation.txt 2 10 2295 
+volkov Ionisation.txt 1 1113 
+continuum Ionisation.txt 7 1550 1891 1953 2006 2020 2061 2945 
+fields Ionisation.txt 2 2247 3123 
+bandwidth Ionisation.txt 1 1947 
+contrast Ionisation.txt 1 1199 
+quasi-degnerate Ionisation.txt 1 1939 
+recoiling Ionisation.txt 1 350 
+cleavage Ionisation.txt 1 85 
+pulses Ionisation.txt 4 796 1056 1781 3382 
+where Ionisation.txt 13 1334 1346 1476 1497 1674 1737 2447 2517 2544 2687 2723 2790 2880 
+view Ionisation.txt 1 2288 
+ignored Ionisation.txt 1 864 
+fittinghoff Ionisation.txt 1 2499 
+electrodes Ionisation.txt 1 195 
+subatomic Ionisation.txt 1 68 
+frame Ionisation.txt 6 3190 3209 3249 3253 3291 3357 
+transferred Ionisation.txt 1 1878 
+observed Ionisation.txt 3 1171 2188 2407 
+see Ionisation.txt 4 13 20 316 3549 
+result Ionisation.txt 3 58 91 3077 
+corkum Ionisation.txt 1 2643 
+categories Ionisation.txt 1 3557 
+acquires Ionisation.txt 1 35 
+still Ionisation.txt 1 2629 
+interacting Ionisation.txt 3 1051 1275 2379 
+subsequent Ionisation.txt 3 205 1823 2076 
+away Ionisation.txt 1 2691 
+wikipedia Ionisation.txt 1 1 
+state Ionisation.txt 26 399 408 1107 1123 1164 1570 1608 1616 1624 1631 1670 1714 1741 1754 1862 1929 1980 1996 2017 2047 2057 2430 2457 2843 2933 2946 
+r Ionisation.txt 6 889 890 903 904 926 927 
+identification Ionisation.txt 1 3183 
+wavelet Ionisation.txt 2 3381 3428 
+between Ionisation.txt 8 193 558 1501 1567 1680 2158 2422 2929 
+nuclear Ionisation.txt 2 2694 2755 
+releasing Ionisation.txt 1 247 
+previous Ionisation.txt 1 2444 
+approach Ionisation.txt 2 1455 3002 
+available Ionisation.txt 1 831 
+we Ionisation.txt 5 1230 1841 1904 1926 2608 
+maximums Ionisation.txt 1 689 
+parent Ionisation.txt 1 2915 
+nature Ionisation.txt 2 985 1446 
+importance Ionisation.txt 1 309 
+mendeleevs Ionisation.txt 1 625 
+subject Ionisation.txt 1 2251 
+however Ionisation.txt 5 761 846 1575 1724 3528 
+efficiency Ionisation.txt 2 565 3217 
+cut Ionisation.txt 1 3430 
+no Ionisation.txt 4 1564 2617 3419 3529 
+article Ionisation.txt 2 6 317 
+understanding Ionisation.txt 2 366 635 
+remaining Ionisation.txt 3 1666 2564 2717 
+reaction Ionisation.txt 3 433 544 3548 
+c Ionisation.txt 4 1892 2054 2228 2936 
+reported Ionisation.txt 2 2223 2386 
+many Ionisation.txt 2 2253 2322 
+region Ionisation.txt 3 438 2180 3403 
+sodium Ionisation.txt 2 3477 3482 
+escape Ionisation.txt 1 3390 
+according Ionisation.txt 3 1658 2118 3124 
+attributed Ionisation.txt 1 2205 
+called Ionisation.txt 1 3206 
+propagation Ionisation.txt 1 2885 
+s Ionisation.txt 1 706 
+exceeds Ionisation.txt 1 745 
+distinction Ionisation.txt 1 3440 
+contribution Ionisation.txt 1 2360 
+schafer Ionisation.txt 1 2640 
+experimental Ionisation.txt 6 1281 1300 2256 2285 3047 3062 
+detailed Ionisation.txt 1 855 
+point Ionisation.txt 1 2286 
+dimension Ionisation.txt 1 3280 
+harmonic Ionisation.txt 4 3264 3283 3289 3426 
+simply Ionisation.txt 2 966 3513 
+table Ionisation.txt 3 626 3456 3479 
+considering Ionisation.txt 1 3379 
+finally Ionisation.txt 1 1525 
+collides Ionisation.txt 2 234 506 
+second Ionisation.txt 1 2594 
+lattice Ionisation.txt 1 3504 
+addition Ionisation.txt 1 686 
+due Ionisation.txt 8 425 461 940 1590 1882 2025 2082 2792 
+been Ionisation.txt 7 1799 2222 2249 2478 2616 2700 3057 
+sub-shells Ionisation.txt 1 711 
+much Ionisation.txt 1 1025 
+combined Ionisation.txt 1 877 
+certain Ionisation.txt 1 2583 
+expected Ionisation.txt 2 1759 3170 
+define Ionisation.txt 1 2329 
+photoionization Ionisation.txt 1 729 
+corresponding Ionisation.txt 1 2855 
+6f Ionisation.txt 2 1792 1932 
+observable Ionisation.txt 1 1044 
+sufficient Ionisation.txt 4 267 496 521 556 
+transferring Ionisation.txt 1 265 
+gas Ionisation.txt 5 134 671 1273 2399 3070 
+coherent Ionisation.txt 2 2069 2111 
+substance Ionisation.txt 1 3443 
+metals Ionisation.txt 1 684 
+qst Ionisation.txt 2 1354 1381 
+an Ionisation.txt 23 30 63 111 236 383 391 402 457 655 880 947 992 1009 1321 1555 1633 2674 2703 2727 2806 2845 3149 3451 
+spirit Ionisation.txt 1 3014 
+case Ionisation.txt 1 3492 
+has Ionisation.txt 4 2221 2248 2615 2699 
+laser Ionisation.txt 31 795 849 885 895 916 1055 1080 1126 1189 1210 1279 1328 1425 1514 1588 1780 1821 1827 1946 2170 2212 2246 2384 2468 2551 2685 2775 2892 3122 3265 3284 
+these Ionisation.txt 7 734 1793 1833 1886 1902 1948 2202 
+air Ionisation.txt 1 455 
+will Ionisation.txt 10 1763 2106 2147 2710 3286 3296 3308 3319 3338 3345 
+while Ionisation.txt 4 474 899 3303 3331 
+abrupt Ionisation.txt 1 664 
+behavior Ionisation.txt 1 610 
+situation Ionisation.txt 1 1578 
+tunneling Ionisation.txt 4 943 962 994 2453 
+identical Ionisation.txt 1 3348 
+coupled Ionisation.txt 2 1889 2059 
+molecular Ionisation.txt 1 3143 
+is Ionisation.txt 96 7 25 149 167 239 253 296 306 322 376 385 412 430 489 540 549 566 603 628 657 754 851 872 908 929 938 1043 1050 1082 1086 1128 1170 1177 1197 1331 1343 1355 1382 1402 1427 1473 1477 1488 1492 1498 1557 1563 1602 1647 1671 1675 1695 1742 1755 1758 1859 1877 1896 1915 1965 1999 2013 2065 2353 2357 2448 2502 2521 2547 2559 2581 2596 2628 2676 2689 2740 2767 2786 2819 2828 2862 2870 2901 2918 3008 3024 3166 3187 3250 3318 3365 3429 3462 3473 3507 3545 
+thus Ionisation.txt 1 1032 
+it Ionisation.txt 17 124 148 429 504 753 955 980 1017 1169 1757 2688 2709 2724 2750 2896 3344 3487 
+positrons Ionisation.txt 1 285 
+anode Ionisation.txt 2 481 518 
+triple Ionisation.txt 1 2375 
+in Ionisation.txt 80 50 92 109 152 170 175 182 275 329 336 363 371 381 395 404 436 445 597 624 640 659 666 682 685 690 700 733 814 824 944 1039 1115 1136 1181 1198 1255 1307 1324 1418 1439 1530 1538 1576 1667 1685 1697 1711 1767 1784 1898 1941 1968 1990 2023 2067 2085 2109 2140 2209 2377 2805 2814 2833 2840 2890 2987 3000 3013 3020 3120 3179 3204 3278 3281 3340 3354 3404 3411 3459 3495 
+interacts Ionisation.txt 1 2682 
+everyday Ionisation.txt 1 131 
+if Ionisation.txt 5 485 1691 1725 2696 3424 
+capture Ionisation.txt 1 257 
+different Ionisation.txt 2 1396 1592 
+multiphoton Ionisation.txt 10 1090 1565 1611 1719 1810 1884 1991 2002 2042 3095 
+make Ionisation.txt 2 954 1016 
+radiation Ionisation.txt 3 153 185 466 
+same Ionisation.txt 1 2080 
+drawback Ionisation.txt 1 3016 
+widely Ionisation.txt 1 168 
+1996 Ionisation.txt 1 2165 
+regime Ionisation.txt 1 1310 
+composition Ionisation.txt 1 19 
+higher Ionisation.txt 4 1013 2125 2134 2601 
+masking Ionisation.txt 1 2175 
+calculation Ionisation.txt 3 1908 2619 3041 
+used Ionisation.txt 5 151 169 582 605 3147 
+peaks Ionisation.txt 1 1401 
+numerical Ionisation.txt 1 838 
+effect Ionisation.txt 3 192 1243 1717 
+hand Ionisation.txt 2 2326 3364 
+ion Ionisation.txt 13 14 96 403 427 469 1267 1301 2274 2321 2718 2917 2939 3150 
+inner-valence Ionisation.txt 1 3098 
+levels Ionisation.txt 6 1808 1940 1949 1984 2117 2161 
+moving Ionisation.txt 2 695 3254 
+focal Ionisation.txt 1 2179 
+recent Ionisation.txt 1 372 
+lower Ionisation.txt 1 2369 
+off Ionisation.txt 1 999 
+whereby Ionisation.txt 1 2673 
+studies Ionisation.txt 1 2257 
+modeled Ionisation.txt 1 1094 
+well Ionisation.txt 1 1298 
+bohr Ionisation.txt 1 721 
+without Ionisation.txt 2 643 3446 
+dashed Ionisation.txt 1 2878 
+coordinate Ionisation.txt 1 3301 
+quantitative Ionisation.txt 1 2618 
+model Ionisation.txt 30 722 1117 1151 1228 1233 1295 1367 1374 1460 1533 2487 2491 2495 2536 2624 2627 2634 2656 2665 2777 2813 2818 2827 2954 2958 3012 3023 3074 3128 3414 
+morishita Ionisation.txt 1 2226 
+musical Ionisation.txt 1 18 
+left Ionisation.txt 1 697 
+spherical Ionisation.txt 1 3402 
+distances Ionisation.txt 4 888 901 1192 1226 
+responsible Ionisation.txt 2 2527 3113 
+proposed Ionisation.txt 2 2479 2497 
+being Ionisation.txt 1 1745 
+generally Ionisation.txt 1 1087 
+accurate Ionisation.txt 1 843 
+newton Ionisation.txt 1 3273 
+boer Ionisation.txt 1 1770 
+valuable Ionisation.txt 1 630 
+sources Ionisation.txt 1 3178 
+faisal Ionisation.txt 5 1467 2646 2648 3006 3055 
+atomic Ionisation.txt 6 617 641 1134 1534 2856 2916 
+behind Ionisation.txt 1 1836 
+adk Ionisation.txt 2 1366 2440 
+based Ionisation.txt 4 1461 2620 3164 3177 
+rapid Ionisation.txt 1 2561 
+target-ion Ionisation.txt 1 351 
+dissociation Ionisation.txt 3 3130 3439 3475 
+instance Ionisation.txt 1 674 
+absorption Ionisation.txt 1 1072 
+photons Ionisation.txt 6 288 581 1451 1482 1627 2899 
+internuclear Ionisation.txt 1 1225 
+source Ionisation.txt 3 15 3151 3165 
+causing Ionisation.txt 1 123 
+contrary Ionisation.txt 1 2955 
+5f Ionisation.txt 1 1790 
+excited Ionisation.txt 14 112 1573 1599 1607 1740 1753 1787 1800 1839 1872 1979 2016 2038 2597 
+momentum Ionisation.txt 3 340 1503 2127 
+real Ionisation.txt 1 1577 
+saturation Ionisation.txt 1 2315 
+kuchiev Ionisation.txt 2 2639 3039 
+increased Ionisation.txt 1 2014 
+depends Ionisation.txt 1 3219 
+electrolytic Ionisation.txt 1 3527 
+advances Ionisation.txt 1 362 
+possible Ionisation.txt 1 873 
+tunnelling Ionisation.txt 1 1353 
+indicative Ionisation.txt 1 704 
+performance Ionisation.txt 1 3154 
+using Ionisation.txt 4 821 2166 3072 3172 
+emergence Ionisation.txt 1 677 
+intersection Ionisation.txt 1 2874 
+apart Ionisation.txt 1 2347 
+loss Ionisation.txt 2 61 1925 
+kuciev Ionisation.txt 1 2971 
+necessary Ionisation.txt 1 1483 
+d Ionisation.txt 2 708 2229 
+particle Ionisation.txt 1 1445 
+systematically Ionisation.txt 1 2392 
+signal Ionisation.txt 1 2275 
+adiabatic Ionisation.txt 1 374 
+k-h Ionisation.txt 2 3208 3342 
+alkali Ionisation.txt 1 683 
+chamber Ionisation.txt 1 163 
+yields Ionisation.txt 1 1302 
+t Ionisation.txt 1 2225 
+collision-mediated Ionisation.txt 1 731 
+works Ionisation.txt 1 1465 
+qualitative Ionisation.txt 2 2630 3127 
+kramers-henneberger Ionisation.txt 3 3189 3207 3248 
+right Ionisation.txt 1 699 
+often Ionisation.txt 2 49 604 
+classical Ionisation.txt 3 717 945 3413 
+exposed Ionisation.txt 1 2243 
+resonances Ionisation.txt 1 1720 
+creation Ionisation.txt 1 418 
+some Ionisation.txt 4 1572 1606 1837 2460 
+cathode Ionisation.txt 1 473 
+selectivity Ionisation.txt 1 3158 
+understood Ionisation.txt 2 1061 2659 
+added Ionisation.txt 2 389 3305 
+examples Ionisation.txt 1 132 
+respect Ionisation.txt 1 614 
+duration Ionisation.txt 1 2474 
+intact Ionisation.txt 1 3467 
+neglecting Ionisation.txt 1 1205 
+happens Ionisation.txt 1 3410 
+basic Ionisation.txt 1 2823 
+excitation Ionisation.txt 2 1918 2940 
+for Ionisation.txt 17 11 16 632 673 836 868 1236 1303 1407 2528 2799 2965 3088 3114 3152 3275 3332 
+electromagnetic Ionisation.txt 1 1430 
+does Ionisation.txt 3 2959 3017 3028 
+linearly Ionisation.txt 1 1326 
+dimensions Ionisation.txt 1 3406 
+fragments Ionisation.txt 1 345 
+three Ionisation.txt 1 3405 
+bessel Ionisation.txt 1 1495 
+refer Ionisation.txt 1 1843 
+be Ionisation.txt 21 126 451 819 863 897 1060 1361 1437 1722 1764 2107 2148 2658 3082 3146 3287 3297 3309 3320 3339 3346 
+equivalent Ionisation.txt 1 3009 
+expansion Ionisation.txt 1 2181 
+underestimation Ionisation.txt 1 2989 
+lamps Ionisation.txt 1 147 
+although Ionisation.txt 1 3486 
+substitution Ionisation.txt 1 88 
+losing Ionisation.txt 1 44 
+fluorescent Ionisation.txt 1 141 
+refers Ionisation.txt 1 2293 
+by Ionisation.txt 42 28 41 104 264 621 1065 1124 1204 1292 1333 1340 1345 1364 1384 1458 1475 1626 1673 1801 2150 2172 2224 2279 2307 2335 2387 2438 2498 2511 2549 2638 2712 2730 2830 2872 2903 2920 2995 3038 3160 3299 3515 
+earlier Ionisation.txt 1 1464 
+on Ionisation.txt 18 318 538 551 1161 1318 1462 2190 2271 2323 2463 2471 2621 2782 2978 3064 3220 3231 3361 
+about Ionisation.txt 1 8 
+rare Ionisation.txt 5 670 1272 1305 2398 3069 
+of Ionisation.txt 166 62 95 119 133 173 188 269 292 303 307 324 342 367 379 416 419 482 545 569 572 578 585 592 601 611 638 648 678 705 714 723 742 749 772 783 788 857 879 893 914 933 974 982 986 991 1004 1073 1101 1108 1120 1133 1155 1158 1165 1187 1208 1244 1271 1311 1316 1371 1380 1390 1414 1447 1466 1481 1504 1512 1542 1544 1579 1587 1595 1665 1704 1718 1734 1751 1806 1819 1825 1853 1863 1901 1933 1937 1944 1960 1974 2010 2033 2071 2078 2089 2103 2113 2136 2144 2153 2177 2193 2197 2218 2237 2241 2252 2267 2287 2301 2303 2317 2364 2374 2396 2404 2412 2418 2425 2434 2451 2466 2507 2509 2523 2532 2556 2589 2654 2706 2715 2735 2773 2802 2825 2844 2866 2886 2910 2968 2981 2990 3003 3035 3049 3068 3091 3097 3102 3108 3117 3131 3184 3201 3224 3239 3262 3271 3314 3324 3395 3455 3476 3493 3533 3540 
+industry Ionisation.txt 1 183 
+meaning Ionisation.txt 1 1422 
+range Ionisation.txt 3 1238 1247 1943 
+time-dependent Ionisation.txt 1 1677 
+pioneering Ionisation.txt 1 2261 
+bounded Ionisation.txt 1 1068 
+definition Ionisation.txt 1 2344 
+or Ionisation.txt 22 32 38 43 77 143 160 284 286 388 393 580 651 803 860 1048 1700 2604 2944 3399 3418 3435 3531 
+perelomov Ionisation.txt 1 1216 
+this Ionisation.txt 18 5 539 627 1057 1084 1116 1196 1454 1845 2120 2343 2413 2557 2911 2985 3015 3294 3544 
+thinner Ionisation.txt 1 1026 
+into Ionisation.txt 8 645 1144 1610 1809 1919 2041 3244 3481 
+within Ionisation.txt 3 139 1617 3501 
+bound Ionisation.txt 1 273 
+two Ionisation.txt 12 194 212 511 1656 1682 1870 1982 2056 2073 2155 2337 2475 
+device Ionisation.txt 1 484 
+appropriate Ionisation.txt 2 2704 2744 
+because Ionisation.txt 1 981 
+rising Ionisation.txt 3 1699 1817 1972 
+transfers Ionisation.txt 1 114 
+proportional Ionisation.txt 2 1648 2787 
+theoretically Ionisation.txt 1 1265 
+unambiguous Ionisation.txt 1 2216 
+1983 Ionisation.txt 1 2259 
+transfer Ionisation.txt 1 3530 
+there Ionisation.txt 6 1562 1601 1914 2352 2580 2614 
+sloped Ionisation.txt 1 2877 
+long Ionisation.txt 2 1246 1560 
+width Ionisation.txt 1 1003 
+describes Ionisation.txt 4 2537 2666 2937 2949 
+inner Ionisation.txt 1 3109 
+way Ionisation.txt 1 978 
+talebpour Ionisation.txt 1 2185 
+resulted Ionisation.txt 1 2986 
+formed Ionisation.txt 1 574 
+was Ionisation.txt 7 1152 1234 1456 2385 2406 2415 2635 
+synthesis Ionisation.txt 1 3539 
+lowest Ionisation.txt 2 397 406 
+inner-shell Ionisation.txt 1 121 
+medium Ionisation.txt 1 448 
+gaseous Ionisation.txt 1 447 
+complete Ionisation.txt 2 332 339 
+form Ionisation.txt 3 47 378 401 
+regard Ionisation.txt 1 311 
+but Ionisation.txt 4 960 2469 3228 3464 
+somehow Ionisation.txt 1 2297 
+neutral Ionisation.txt 2 593 3468 
+gain Ionisation.txt 1 520 
+cycle Ionisation.txt 2 2721 3312 
+atom Ionisation.txt 17 31 237 392 725 859 881 935 1047 1110 1319 1487 1620 1865 2807 2846 3203 3246 
+ti:sapphire Ionisation.txt 1 1278 
+line Ionisation.txt 4 2879 2907 2924 3393 
+trying Ionisation.txt 1 755 
+with Ionisation.txt 45 52 67 71 81 235 278 287 310 439 507 613 792 902 1001 1011 1052 1149 1276 1280 1320 1329 1581 1613 1687 1812 1923 1951 1981 1993 2004 2044 2124 2128 2182 2264 2380 2600 2683 2742 2875 2913 2935 3045 3255 3293 
+observation Ionisation.txt 3 2266 2373 2417 
+also Ionisation.txt 4 150 1436 3288 3550 
+fragmentation Ionisation.txt 3 3101 3116 3144 
+made Ionisation.txt 2 1203 3037 
+places Ionisation.txt 1 2778 
+chloride Ionisation.txt 1 3478 
+inside Ionisation.txt 1 242 
+ponderomotive Ionisation.txt 2 1490 2771 
+up Ionisation.txt 1 1019 
+devices Ionisation.txt 1 12 
+until Ionisation.txt 1 2612 
+crystal Ionisation.txt 1 3503 
+below Ionisation.txt 1 2313 
+limit Ionisation.txt 2 1370 2781 
+spectroscopy Ionisation.txt 1 3156 
+pumped Ionisation.txt 1 3243 
+demonstrate Ionisation.txt 1 607 
+problem Ionisation.txt 2 315 370 
+spectrometry Ionisation.txt 1 180 
+implies Ionisation.txt 1 2345 
+mechanics Ionisation.txt 1 823 
+semi-classical Ionisation.txt 2 712 759 
+m Ionisation.txt 1 2383 
+describe Ionisation.txt 2 763 2853 
+influence Ionisation.txt 1 3261 
+al Ionisation.txt 9 1218 1261 1662 2187 2282 2390 2501 2642 3052 
+singly Ionisation.txt 3 802 2194 2319 
+general Ionisation.txt 2 825 2141 
+as Ionisation.txt 29 138 156 255 298 454 464 619 1062 1089 1098 1168 1385 1429 1559 1561 1847 1931 2007 2048 2332 2541 2670 3075 3084 3148 3387 3450 3466 3490 
+ar Ionisation.txt 1 2201 
+exist Ionisation.txt 3 3019 3465 3500 
+at Ionisation.txt 17 887 900 925 1190 1211 1223 1636 1643 1731 1970 2030 2311 2368 2702 3330 3421 3431 
+wavelength Ionisation.txt 1 2465 
+internal Ionisation.txt 1 106 
+physical Ionisation.txt 1 9 
+vertical Ionisation.txt 1 2922 
+functions Ionisation.txt 1 650 
+compared Ionisation.txt 4 910 1183 1263 1386 
+dotted Ionisation.txt 1 2923 
+variety Ionisation.txt 1 172 
+dressed Ionisation.txt 3 1619 1625 1683 
+when Ionisation.txt 9 230 503 531 847 1045 1375 3171 3181 3505 
+reality Ionisation.txt 1 3496 
+field Ionisation.txt 24 444 488 526 886 917 1081 1127 1176 1405 1426 1511 1814 2094 2213 2506 2552 2686 2708 2893 3199 3233 3285 3371 3427 
+other Ionisation.txt 7 53 72 144 2325 2748 2898 3363 
+electrical Ionisation.txt 1 145 
+details Ionisation.txt 3 647 1132 3223 
+ns Ionisation.txt 4 2290 2539 2668 2969 
+conclusion Ionisation.txt 2 2411 3213 
+gaining Ionisation.txt 2 42 555 
+picture Ionisation.txt 2 1085 1621 
+elements Ionisation.txt 1 594 
+superposition Ionisation.txt 3 1900 2070 2112 
+calculating Ionisation.txt 1 1539 
+provided Ionisation.txt 1 3159 
+models Ionisation.txt 1 2476 
+photon Ionisation.txt 2 1077 2156 
+symbol Ionisation.txt 1 1518 
+problems Ionisation.txt 1 328 
+includes Ionisation.txt 1 1241 
+walker Ionisation.txt 1 3050 
+chance Ionisation.txt 1 1035 
+important Ionisation.txt 1 2410 
+nucleus Ionisation.txt 3 113 1195 1215 
+peak Ionisation.txt 2 1733 2032 
+velocity Ionisation.txt 2 3360 3438 
+included Ionisation.txt 1 1219 
+discharge Ionisation.txt 2 146 411 
+cut-off Ionisation.txt 1 2780 
+structure Ionisation.txt 3 856 1135 2270 
+began Ionisation.txt 1 2263 
+independently Ionisation.txt 1 2636 
+e Ionisation.txt 2 928 1420 
+coupling Ionisation.txt 3 1654 2003 2157 
+coulomb Ionisation.txt 9 906 1159 1175 1221 1248 1528 2927 2976 3306 
+practically Ionisation.txt 1 1709 
+physics Ionisation.txt 2 330 718 
+required Ionisation.txt 3 294 835 3188 
+curve Ionisation.txt 1 2278 
+having Ionisation.txt 1 3327 
+principal Ionisation.txt 1 2652 
+mass Ionisation.txt 2 179 3155 
+fact Ionisation.txt 1 3021 
+time Ionisation.txt 4 816 2570 2737 3417 
+4f Ionisation.txt 1 1789 
+original Ionisation.txt 2 197 458 
+external Ionisation.txt 1 3554 

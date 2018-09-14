@@ -1,0 +1,1978 @@
+limited Film.txt 5 941 1016 1098 6255 7413 
+colleges Film.txt 1 3200 
+protest Film.txt 1 5571 
+consists Film.txt 1 5979 
+woody Film.txt 1 4998 
+poorly Film.txt 2 3003 3119 
+mothlight Film.txt 1 5675 
+under Film.txt 3 3488 5560 6962 
+slowest Film.txt 1 6142 
+kinetoscope Film.txt 2 1247 1308 
+worth Film.txt 1 3112 
+lure Film.txt 1 1983 
+rise Film.txt 6 1634 1658 2174 2350 2374 3619 
+costume Film.txt 1 4982 
+every Film.txt 1 3239 
+affect Film.txt 1 325 
+low-budget Film.txt 1 3645 
+tickets Film.txt 1 4559 
+school Film.txt 1 7059 
+decorators Film.txt 1 4978 
+companies Film.txt 4 3070 3368 5800 6408 
+ricciotto Film.txt 1 2285 
+upa Film.txt 1 7439 
+succession Film.txt 1 114 
+shows Film.txt 1 4433 
+typified Film.txt 1 1661 
+force Film.txt 2 2200 3512 
+concise Film.txt 1 2263 
+consistent Film.txt 1 6170 
+japanese Film.txt 1 2166 
+second Film.txt 4 471 5751 6135 7316 
+even Film.txt 6 916 5119 5262 5284 5470 5664 
+selected Film.txt 1 2665 
+orchestra Film.txt 1 1576 
+lights Film.txt 1 5949 
+eventually Film.txt 1 6014 
+new Film.txt 13 1440 2155 2161 2164 2167 2170 2468 2674 2830 3266 3304 5177 5248 
+increasing Film.txt 1 7419 
+ever Film.txt 2 635 3347 
+consisting Film.txt 1 5872 
+seeks Film.txt 1 2260 
+democratized Film.txt 2 6834 6875 
+film-makers Film.txt 2 6507 7495 
+simultaneously Film.txt 1 6248 
+whose Film.txt 1 5882 
+never Film.txt 2 4326 6673 
+here Film.txt 2 32 650 
+hundreds Film.txt 1 985 
+praxinoscope Film.txt 1 971 
+studio Film.txt 10 2105 2140 3217 3225 6575 6596 6629 6684 6740 6997 
+affiliated Film.txt 1 3198 
+cyclical Film.txt 1 957 
+ventures Film.txt 1 6662 
+study Film.txt 4 2271 3157 3661 3680 
+changed Film.txt 2 5135 6917 
+credit Film.txt 2 4708 4821 
+changes Film.txt 3 2146 2182 7275 
+criticism Film.txt 8 698 2778 2782 2784 2803 2810 3697 5061 
+prints Film.txt 4 1838 4507 6051 6458 
+projection Film.txt 7 418 1285 1996 2212 4190 4301 4477 
+elaborated Film.txt 1 974 
+feelings Film.txt 1 210 
+psychological Film.txt 2 484 3708 
+total Film.txt 1 1090 
+landscape Film.txt 1 6920 
+plot Film.txt 1 2893 
+would Film.txt 11 786 802 879 1329 1350 3301 3921 3940 4394 5299 7121 
+negative Film.txt 3 401 5113 5138 
+distributing Film.txt 1 7198 
+dvd-video Film.txt 1 7182 
+music Film.txt 5 286 1579 1604 1755 6856 
+therefore Film.txt 2 4789 5653 
+preview Film.txt 4 4585 5070 5076 5437 
+type Film.txt 3 969 4378 5999 
+until Film.txt 2 1518 3424 
+boomed Film.txt 1 2080 
+successful Film.txt 1 3264 
+wars Film.txt 1 3756 
+warn Film.txt 1 3103 
+glass Film.txt 4 766 844 990 1086 
+berlin Film.txt 2 625 3219 
+wikipedias Film.txt 1 7532 
+real-time Film.txt 1 1070 
+hold Film.txt 1 1543 
+outdated Film.txt 1 3839 
+sped Film.txt 1 7346 
+me Film.txt 1 2458 
+word Film.txt 5 171 587 3802 4130 4923 
+rights Film.txt 1 4567 
+mm Film.txt 2 2232 6050 
+work Film.txt 3 1667 2908 3163 
+movies Film.txt 18 563 1780 3822 3834 3846 3892 3939 3948 4099 4117 4162 4388 4429 4460 4485 4634 5028 5048 
+era Film.txt 3 2041 2591 5404 
+concepts Film.txt 1 2266 
+exceptions Film.txt 1 2113 
+example Film.txt 7 2488 2593 3532 3912 4616 4690 5129 
+give Film.txt 1 3079 
+indie Film.txt 3 6581 6610 6922 
+cited Film.txt 2 56 6077 
+preserving Film.txt 1 6411 
+ratios Film.txt 1 4226 
+indicates Film.txt 2 3036 6084 
+end Film.txt 10 1175 2038 4701 4739 4764 4773 4814 4849 5167 5325 
+provide Film.txt 1 5853 
+feature Film.txt 7 1913 1919 4231 4532 4541 5366 5779 
+machine Film.txt 1 1267 
+very Film.txt 5 2059 5153 7334 7353 7357 
+playback Film.txt 2 3419 4145 
+significance Film.txt 1 3548 
+oberammergau Film.txt 1 3336 
+widespread Film.txt 1 3086 
+1870s Film.txt 1 1059 
+becky Film.txt 1 1921 
+description Film.txt 1 2896 
+beauty Film.txt 1 211 
+arcs Film.txt 1 4629 
+after Film.txt 12 472 892 1959 2091 2705 4011 4681 4847 5136 5148 5343 5427 
+lay Film.txt 1 2333 
+types Film.txt 1 760 
+purchase Film.txt 1 7205 
+attempt Film.txt 1 1981 
+effective Film.txt 1 1510 
+stand-alone Film.txt 1 4540 
+green Film.txt 1 6353 
+enter Film.txt 1 7408 
+credits Film.txt 8 4699 4702 4729 4759 4771 4779 4823 4852 
+1000 Film.txt 1 6069 
+order Film.txt 1 6416 
+office Film.txt 3 1942 2975 4556 
+over Film.txt 2 4871 6648 
+vary Film.txt 1 7068 
+innovative Film.txt 2 1537 1666 
+japan Film.txt 1 7453 
+wrought Film.txt 1 1791 
+before Film.txt 5 4721 5096 5356 5471 6711 
+shorter Film.txt 1 5436 
+fit Film.txt 1 1581 
+personal Film.txt 3 6796 7177 7204 
+story-telling Film.txt 1 2542 
+writing Film.txt 1 3146 
+better Film.txt 2 1392 6464 
+production Film.txt 26 262 683 2149 3485 4521 4715 4753 5474 5609 5651 5711 5723 5736 5756 5766 5799 5822 5870 5899 5952 6488 6770 6773 6830 6872 7420 
+hidden Film.txt 1 7536 
+then Film.txt 9 240 798 1901 1915 2513 2668 4755 7286 7514 
+them Film.txt 8 326 1001 1783 4390 5412 6165 6379 6419 
+affected Film.txt 1 2883 
+combination Film.txt 2 158 4370 
+scene Film.txt 10 607 1316 2679 2754 2759 4842 4845 4860 6110 6612 
+educating Film.txt 1 346 
+effects Film.txt 6 169 1758 2700 2762 3711 5954 
+they Film.txt 14 318 888 1790 2035 2057 2833 3076 3167 3193 3300 4474 4873 5264 5564 
+schools Film.txt 1 2247 
+altogether Film.txt 1 4336 
+rental Film.txt 1 7202 
+silver Film.txt 2 560 4185 
+regularly Film.txt 1 2813 
+each Film.txt 11 431 925 938 1077 1095 3298 3569 5715 6109 6349 7250 
+european Film.txt 2 1636 1686 
+side Film.txt 1 6624 
+lasting Film.txt 1 3546 
+preceded Film.txt 1 1409 
+series Film.txt 6 75 1026 4637 4643 4662 5642 
+hand-painted Film.txt 1 1126 
+juxtaposition Film.txt 1 2739 
+driving Film.txt 1 2199 
+videotape Film.txt 3 3428 3992 4025 
+cameras Film.txt 6 1074 1103 1193 6065 6163 6492 
+content Film.txt 4 5625 6933 6938 6942 
+for-profit Film.txt 1 5794 
+forth Film.txt 1 2498 
+perception Film.txt 1 477 
+barrier Film.txt 1 6767 
+given Film.txt 5 1589 2373 2837 2972 6674 
+commercially Film.txt 3 1522 3334 4246 
+sensory Film.txt 1 226 
+created Film.txt 8 129 314 742 1062 3683 4138 5390 7025 
+viewing Film.txt 6 1301 3083 4544 7106 7143 7179 
+syndication Film.txt 1 7193 
+musicians Film.txt 1 1872 
+incorporated Film.txt 1 6290 
+soda Film.txt 1 3716 
+moving Film.txt 15 29 40 89 221 527 725 800 886 1049 1135 1290 1777 3969 4041 6053 
+onto Film.txt 6 232 246 1002 4039 6331 7509 
+speeds Film.txt 1 6062 
+already Film.txt 1 1805 
+daunting Film.txt 1 1931 
+attractions Film.txt 1 368 
+synonymous Film.txt 1 4167 
+primary Film.txt 2 5883 6299 
+thereof Film.txt 1 4371 
+another Film.txt 6 1421 1814 2508 2532 2592 4676 
+comic Film.txt 1 7019 
+electronic Film.txt 1 1742 
+ingmar Film.txt 1 2451 
+mid-19th Film.txt 1 848 
+top Film.txt 1 791 
+fiction Film.txt 2 1168 6976 
+needed Film.txt 1 1042 
+master Film.txt 1 4505 
+hollywood Film.txt 12 1660 2021 2104 2171 2567 2586 3233 3442 3635 6571 6645 6993 
+john Film.txt 1 5160 
+exposures Film.txt 1 1041 
+urban Film.txt 1 1572 
+centered Film.txt 2 3440 3457 
+direct Film.txt 1 6734 
+assistants Film.txt 2 5879 5911 
+begins Film.txt 1 5368 
+communicate Film.txt 1 206 
+showed Film.txt 1 1457 
+scenes Film.txt 4 133 1480 1487 3306 
+project Film.txt 2 753 1000 
+matter Film.txt 2 2979 6397 
+titles Film.txt 2 4836 4839 
+historical Film.txt 1 6300 
+solely Film.txt 1 4035 
+perspective Film.txt 1 5787 
+disambiguation Film.txt 3 26 38 42 
+modern Film.txt 2 6332 6489 
+camera-less Film.txt 1 7490 
+talking Film.txt 1 1784 
+seek Film.txt 1 5407 
+tells Film.txt 1 4864 
+contents Film.txt 1 595 
+dozen Film.txt 1 1106 
+traditionally Film.txt 2 273 7040 
+latter Film.txt 2 2188 5037 
+isolated Film.txt 1 1908 
+1963 Film.txt 1 5673 
+subjects Film.txt 3 1022 1045 1125 
+grips Film.txt 1 4975 
+blue Film.txt 1 6355 
+glimpsed Film.txt 1 937 
+though Film.txt 7 917 3475 4391 5033 6035 6068 7338 
+cinematic Film.txt 3 1467 2595 5975 
+germany Film.txt 1 5547 
+scripts Film.txt 1 680 
+phase Film.txt 2 5825 5941 
+promotions Film.txt 1 5095 
+depressing Film.txt 1 1974 
+video-on-demand Film.txt 1 7186 
+b&w Film.txt 1 6347 
+entertaining Film.txt 1 3947 
+left Film.txt 1 2504 
+consumer Film.txt 1 6746 
+responded Film.txt 1 5152 
+came Film.txt 3 1597 2072 5311 
+incorporate Film.txt 1 1750 
+subtly Film.txt 1 5581 
+preproduction Film.txt 1 5754 
+contributed Film.txt 2 2179 6604 
+sub-industries Film.txt 2 3741 3758 
+ending Film.txt 2 4731 5178 
+colors Film.txt 2 829 1852 
+screening Film.txt 8 3720 4256 4299 4535 4580 4588 5074 5143 
+rich Film.txt 1 6033 
+bolex Film.txt 1 2234 
+personality Film.txt 1 4945 
+predecessor Film.txt 1 933 
+plate Film.txt 1 1087 
+10 Film.txt 2 5443 6665 
+de Film.txt 1 2365 
+watch Film.txt 1 5411 
+perceive Film.txt 1 105 
+preferred Film.txt 2 547 6504 
+yielded Film.txt 1 1851 
+criticized Film.txt 1 385 
+despite Film.txt 2 2851 4100 
+dv Film.txt 1 6825 
+runs Film.txt 1 295 
+countries Film.txt 2 3319 3842 
+fields Film.txt 5 3648 3659 3677 3722 3727 
+method Film.txt 1 7435 
+twice Film.txt 1 4791 
+discs Film.txt 1 5378 
+shots Film.txt 1 1494 
+analytical Film.txt 1 2394 
+non-recorded Film.txt 1 4367 
+claymation Film.txt 1 7281 
+sensitivity Film.txt 1 1051 
+1960s Film.txt 3 2069 2130 2144 
+unexpectedly Film.txt 1 5112 
+depends Film.txt 2 4747 7487 
+result Film.txt 4 3122 5115 5400 7289 
+interruptions Film.txt 1 449 
+techniques Film.txt 7 147 165 1468 1502 2768 3162 5976 
+voyage Film.txt 1 1149 
+said Film.txt 1 2454 
+wikipedia Film.txt 1 1 
+prince Film.txt 1 622 
+catalogue Film.txt 1 3309 
+cooperation Film.txt 1 5927 
+props Film.txt 1 5942 
+drawn Film.txt 2 7268 7507 
+approach Film.txt 1 3137 
+terms Film.txt 5 97 517 549 3974 6308 
+nature Film.txt 3 1832 2473 3522 
+zoopraxiscope Film.txt 1 1141 
+however Film.txt 8 1682 3012 3091 4069 4768 6302 6867 7374 
+news Film.txt 1 5428 
+essentially Film.txt 1 6357 
+country Film.txt 1 3299 
+against Film.txt 1 2324 
+indoctrinating Film.txt 1 348 
+expense Film.txt 2 1926 3477 
+disappears Film.txt 1 475 
+lenses Film.txt 1 6197 
+consumer-grade Film.txt 1 6811 
+character Film.txt 2 4917 5182 
+height Film.txt 1 4217 
+1982s Film.txt 1 5145 
+basis Film.txt 2 352 6265 
+three Film.txt 2 5740 6346 
+been Film.txt 17 506 936 973 2046 2099 2197 3053 3064 3682 5321 6289 6329 6368 6476 6778 7041 7052 
+quickly Film.txt 4 1722 1866 3278 3311 
+much Film.txt 6 690 1877 3434 5435 6463 6945 
+interest Film.txt 3 2962 3057 5054 
+exhibition Film.txt 5 265 1313 1428 3984 4172 
+life Film.txt 3 2422 2479 2483 
+affixed Film.txt 1 4353 
+filmmaker Film.txt 1 5627 
+craft Film.txt 1 5962 
+spin Film.txt 1 3743 
+exception Film.txt 1 2017 
+save Film.txt 1 6337 
+publicly Film.txt 1 3293 
+information Film.txt 1 3650 
+near Film.txt 4 3218 4782 4803 4827 
+photographed Film.txt 3 1023 1068 1495 
+remembering Film.txt 1 2637 
+is Film.txt 101 4 54 73 119 128 176 199 307 328 435 480 540 546 570 651 1423 2238 2425 2459 2492 2519 2597 2636 2655 2707 2723 2785 2946 2977 2991 3439 3509 3579 3604 3799 3804 3813 3837 3864 3879 3953 4007 4085 4165 4199 4233 4259 4263 4283 4330 4352 4424 4533 4545 4574 4586 4613 4679 4684 4703 4843 4870 4898 4952 5018 5062 5144 5475 5488 5502 5507 5745 5809 5837 5865 6075 6253 6318 6395 6429 6583 6641 6671 6944 6952 6960 6966 7008 7095 7102 7111 7135 7245 7255 7305 7318 7333 7352 7415 7480 7504 
+it Film.txt 17 305 356 396 951 1747 2477 3234 3836 4164 4968 5286 5310 5636 5770 6139 6268 6951 
+ii Film.txt 1 5555 
+in Film.txt 166 52 112 269 323 395 416 433 536 543 553 577 583 658 665 694 746 846 877 1011 1024 1056 1069 1078 1094 1311 1322 1338 1372 1433 1439 1524 1570 1651 1672 1683 1698 1736 1801 1858 1899 1910 1923 1936 1954 1963 1979 2007 2027 2048 2065 2085 2101 2109 2142 2147 2186 2224 2245 2334 2342 2405 2551 2585 2603 2742 2773 2792 2814 2988 3058 3067 3142 3177 3187 3213 3226 3272 3297 3316 3430 3448 3472 3479 3496 3513 3563 3590 3594 3601 3615 3672 3704 3734 3791 3826 3840 3859 3962 4218 4253 4292 4316 4389 4417 4489 4589 4607 4670 4675 4713 4861 4893 4908 4918 4959 5004 5055 5068 5116 5179 5202 5211 5271 5292 5363 5401 5421 5459 5532 5535 5545 5573 5669 5720 5847 5857 5886 5938 5957 6119 6202 6280 6307 6410 6415 6472 6486 6613 6636 6644 6658 6666 6694 6708 6737 6748 6759 6781 6793 7070 7209 7248 7430 7444 7452 7476 
+tremendously Film.txt 2 1295 7069 
+interacts Film.txt 1 5862 
+if Film.txt 4 887 5111 5263 5285 
+containing Film.txt 2 984 5991 
+metonym Film.txt 1 4204 
+things Film.txt 1 2371 
+make Film.txt 6 409 911 2672 6418 6815 6925 
+forehead Film.txt 1 2606 
+filmstocks Film.txt 1 6195 
+complex Film.txt 2 2738 2767 
+dvds Film.txt 2 5375 6801 
+hierarchies Film.txt 1 5921 
+several Film.txt 5 1209 1412 1479 3065 7400 
+entitled Film.txt 1 3934 
+wheel Film.txt 1 840 
+independent Film.txt 14 2177 3034 3503 4282 6551 6554 6565 6578 6889 6948 6985 7378 7392 7401 
+boiled Film.txt 1 5698 
+social Film.txt 1 3547 
+hand Film.txt 1 2390 
+photographers Film.txt 1 4974 
+producers Film.txt 2 5874 7403 
+characters Film.txt 2 4627 5856 
+opportunity Film.txt 1 6676 
+cycle Film.txt 3 5724 5737 6377 
+whereby Film.txt 1 459 
+programs Film.txt 1 7190 
+charlie Film.txt 2 1626 3392 
+academic Film.txt 5 2802 3136 3658 3679 5516 
+materials Film.txt 1 6018 
+greatest Film.txt 1 2461 
+monaco Film.txt 1 2433 
+the Film.txt 463 6 11 15 58 86 92 102 115 170 184 189 194 200 215 258 283 292 300 350 370 378 386 397 405 417 443 448 460 476 487 490 495 507 532 537 551 556 559 562 566 586 608 624 629 632 642 656 706 716 724 738 747 770 774 777 780 793 799 847 858 872 883 893 904 912 918 929 960 963 970 993 1005 1030 1039 1050 1057 1063 1089 1100 1115 1130 1156 1174 1177 1179 1188 1246 1249 1260 1265 1277 1306 1324 1327 1339 1347 1359 1375 1390 1418 1425 1448 1470 1473 1486 1525 1545 1554 1557 1582 1585 1592 1625 1630 1633 1641 1648 1652 1657 1665 1673 1684 1703 1713 1733 1737 1739 1761 1764 1766 1774 1788 1802 1810 1819 1847 1861 1880 1884 1887 1891 1925 1928 1937 1946 1949 1964 1967 2012 2016 2032 2037 2049 2052 2068 2081 2092 2118 2133 2136 2139 2143 2148 2159 2173 2181 2183 2187 2191 2198 2204 2208 2225 2270 2276 2288 2291 2388 2393 2460 2463 2472 2490 2524 2536 2559 2566 2575 2579 2605 2628 2633 2656 2703 2720 2737 2786 2859 2892 2901 2904 2912 2942 2965 2989 3013 3028 3089 3100 3104 3107 3115 3215 3221 3227 3230 3241 3257 3276 3282 3286 3295 3317 3335 3342 3362 3414 3425 3431 3436 3452 3459 3467 3473 3476 3489 3514 3518 3549 3555 3558 3564 3602 3609 3618 3628 3631 3690 3777 3794 3797 3801 3810 3819 3833 3843 3860 3865 3869 3890 3925 3938 3944 3963 4012 4020 4054 4064 4070 4090 4129 4134 4148 4184 4189 4206 4219 4288 4350 4382 4392 4405 4410 4415 4421 4428 4498 4503 4510 4516 4554 4575 4592 4608 4625 4640 4695 4698 4710 4714 4722 4738 4749 4752 4763 4783 4806 4813 4819 4822 4828 4848 4851 4865 4868 4885 4922 4931 4937 4956 5006 5036 5050 5091 5097 5125 5141 5149 5156 5166 5169 5171 5181 5212 5232 5278 5296 5307 5313 5324 5341 5344 5348 5357 5360 5383 5402 5414 5460 5472 5500 5539 5574 5582 5587 5601 5616 5624 5626 5632 5637 5689 5707 5710 5712 5717 5742 5750 5757 5763 5765 5767 5773 5785 5798 5821 5827 5843 5850 5858 5860 5869 5905 5929 5934 5939 5958 5970 5997 6022 6028 6120 6129 6141 6155 6160 6188 6190 6207 6219 6226 6234 6243 6260 6264 6281 6314 6341 6361 6528 6534 6556 6562 6606 6609 6614 6622 6625 6651 6675 6699 6712 6717 6743 6753 6760 6765 6782 6784 6820 6827 6848 6853 6859 6869 6885 6904 6918 6930 7031 7046 7096 7113 7123 7127 7129 7147 7153 7160 7168 7207 7288 7296 7302 7326 7339 7348 7361 7375 7385 7409 7431 7445 
+corporate Film.txt 1 5094 
+musical Film.txt 3 2749 4127 4153 
+technicolor Film.txt 3 1892 6362 6456 
+opinions Film.txt 1 2850 
+spurred Film.txt 1 2357 
+just Film.txt 1 935 
+distribute Film.txt 1 3374 
+rotated Film.txt 2 842 927 
+stimulations Film.txt 1 227 
+human Film.txt 1 1124 
+yet Film.txt 1 3538 
+designers Film.txt 1 4983 
+mix Film.txt 1 6858 
+had Film.txt 10 675 934 972 1408 1540 2045 2098 3394 5220 6031 
+technological Film.txt 2 1816 6600 
+has Film.txt 16 504 2196 2221 2372 2763 3482 3624 3637 4857 5350 6287 6296 6690 6915 7344 7380 
+siegfried Film.txt 1 2304 
+actresses Film.txt 1 4888 
+usable Film.txt 1 6181 
+tactic Film.txt 1 3101 
+advances Film.txt 1 3495 
+professional Film.txt 6 6720 6809 7055 7117 7371 7410 
+online Film.txt 2 5419 7187 
+cultural Film.txt 1 312 
+birth Film.txt 2 1674 2289 
+judge Film.txt 1 5107 
+poses Film.txt 1 1028 
+advanced Film.txt 1 3082 
+occurring Film.txt 1 4668 
+appearing Film.txt 3 3180 4802 4824 
+specific Film.txt 3 316 4648 7482 
+steps Film.txt 2 5691 5718 
+arbitrary Film.txt 1 1844 
+towards Film.txt 1 6646 
+right Film.txt 1 2511 
+stringing Film.txt 1 1478 
+deal Film.txt 1 3763 
+people Film.txt 5 2926 3170 4711 4957 5813 
+productions Film.txt 6 1405 1619 2106 3505 3979 7478 
+insistence Film.txt 1 2119 
+theatrical Film.txt 5 69 3983 4015 4171 4459 
+christiaan Film.txt 1 744 
+for Film.txt 65 14 21 33 174 304 345 466 509 519 550 721 733 1254 1300 1608 1617 1896 1903 1916 2201 2457 2822 2932 3387 3399 3421 3584 3642 3780 3905 3911 3975 3982 3987 4030 4144 4205 4569 5090 5196 5231 5396 5490 5634 5684 5692 5797 5826 5855 5924 6025 6128 6149 6237 6266 6386 6434 6527 6788 6902 7076 7105 7142 7176 7365 
+creative Film.txt 1 6597 
+filming Film.txt 4 2706 3161 4051 4088 
+unit Film.txt 1 7279 
+nitrate Film.txt 3 5995 6326 6435 
+participation Film.txt 1 4966 
+core Film.txt 1 5615 
+marketing Film.txt 3 2987 6879 7124 
+protagonist Film.txt 1 5159 
+peep Film.txt 1 1241 
+manufacturing Film.txt 1 1320 
+flourished Film.txt 1 1655 
+newspapers Film.txt 3 2815 2823 3178 
+months Film.txt 3 1413 5206 5465 
+coiled Film.txt 1 982 
+slightly Film.txt 1 1416 
+jacques Film.txt 1 2359 
+raised Film.txt 1 3625 
+managers Film.txt 1 5875 
+down Film.txt 2 2073 5699 
+magazines Film.txt 3 2824 2957 3192 
+lieu Film.txt 1 3591 
+1990s Film.txt 2 2205 6762 
+methods Film.txt 1 6365 
+existed Film.txt 2 4513 7381 
+rely Film.txt 1 6891 
+categorization Film.txt 1 5602 
+width Film.txt 1 4215 
+joseph Film.txt 1 853 
+fraction Film.txt 1 468 
+crews Film.txt 1 5913 
+was Film.txt 38 589 628 756 783 921 940 1014 1052 1075 1097 1269 1314 1368 1435 1638 1792 1798 1818 1828 1883 1930 2089 3220 3259 3271 3341 3412 4034 5134 5996 6013 6056 6117 6126 6140 6536 6725 7436 
+war Film.txt 3 1645 5549 5554 
+intolerance Film.txt 1 1680 
+head Film.txt 1 6131 
+medium Film.txt 13 16 344 508 1734 1812 2184 3643 3798 4029 4038 4056 4333 6251 
+form Film.txt 7 272 335 977 1938 2420 3867 6282 
+batman Film.txt 1 3989 
+becoming Film.txt 1 3838 
+differences Film.txt 1 2344 
+failure Film.txt 1 3015 
+incorporation Film.txt 1 2747 
+stand Film.txt 1 4247 
+true Film.txt 1 2470 
+absent Film.txt 1 4528 
+spring-wound Film.txt 1 2233 
+streaming Film.txt 1 7226 
+assessment Film.txt 1 2902 
+his/her Film.txt 1 5908 
+devices Film.txt 3 901 1013 5387 
+tell Film.txt 2 1483 1513 
+considered Film.txt 5 329 2316 2426 5592 5967 
+blu-ray Film.txt 3 4468 5377 7184 
+stages Film.txt 1 5731 
+propaganda Film.txt 7 3656 3703 5479 5485 5498 5531 5597 
+classic Film.txt 2 2436 5526 
+abstract Film.txt 1 825 
+exist Film.txt 3 518 3447 4487 
+trip Film.txt 1 1154 
+physical Film.txt 2 4524 4962 
+no Film.txt 1 1463 
+whereas Film.txt 1 4420 
+when Film.txt 11 80 3883 4177 4407 4473 4617 5242 5309 5499 6114 7295 
+actor Film.txt 4 2609 2624 2630 4900 
+reality Film.txt 3 2311 2340 2346 
+interested Film.txt 1 6409 
+papers Film.txt 1 2955 
+test Film.txt 3 5073 5142 5150 
+picture Film.txt 17 13 30 41 68 96 524 525 528 617 709 775 1192 3346 3378 5835 6054 6316 
+brothers Film.txt 4 644 1395 1420 6558 
+models Film.txt 1 143 
+preceding Film.txt 3 661 663 4277 
+mechanical Film.txt 1 762 
+trailers Film.txt 11 5191 5228 5259 5280 5352 5370 5388 5409 5424 5551 7075 
+scores Film.txt 2 689 1614 
+transfers Film.txt 1 4465 
+billion Film.txt 1 5416 
+younger Film.txt 1 2623 
+corresponding Film.txt 1 6224 
+together Film.txt 4 797 1481 2670 7300 
+vietnam Film.txt 1 5163 
+videocassette Film.txt 1 4472 
+time Film.txt 3 713 1238 2648 
+concept Film.txt 1 2277 
+reviewers Film.txt 4 2999 3080 3096 3130 
+global Film.txt 1 3237 
+alternatives Film.txt 2 6321 6716 
+themes Film.txt 1 4632 
+theaters Film.txt 10 1573 1987 3366 3617 4384 5218 5243 5249 6047 7464 
+battle Film.txt 1 2686 
+displaying Film.txt 2 512 5635 
+row Film.txt 1 1072 
+ballet Film.txt 1 2776 
+depend Film.txt 1 5622 
+everything Film.txt 1 5937 
+1940 Film.txt 1 660 
+technique Film.txt 2 2657 7247 
+editors Film.txt 2 4973 5896 
+faux-teaser Film.txt 1 7074 
+praised Film.txt 1 3033 
+analogous Film.txt 1 276 
+shoot Film.txt 1 6838 
+downloading Film.txt 2 7188 7224 
+broadly Film.txt 1 4157 
+permissive Film.txt 1 6967 
+could Film.txt 10 729 749 952 1195 1292 2314 2680 4043 4969 5038 
+geometrical Film.txt 1 826 
+cataclysmic Film.txt 1 3014 
+emphasized Film.txt 1 2306 
+gaffers Film.txt 1 4976 
+minute Film.txt 1 6072 
+governments Film.txt 1 3706 
+dim Film.txt 1 6204 
+perceived Film.txt 1 394 
+presented Film.txt 1 640 
+did Film.txt 1 5332 
+cheapest Film.txt 1 6145 
+standards Film.txt 1 5923 
+leave Film.txt 2 1550 5340 
+live-action Film.txt 3 1904 5686 6238 
+lever Film.txt 1 812 
+prevent Film.txt 1 3001 
+unexpected Film.txt 1 3029 
+murnau Film.txt 1 1694 
+trend Film.txt 1 6643 
+canudo Film.txt 1 2286 
+obsolete Film.txt 1 1873 
+cost Film.txt 3 1948 3529 6718 
+essence Film.txt 1 2332 
+appear Film.txt 7 880 914 4761 4790 4809 4890 5846 
+remain Film.txt 1 6880 
+up-market Film.txt 1 3191 
+goer Film.txt 2 5012 5014 
+time-consuming Film.txt 1 7354 
+french Film.txt 3 1394 2160 5069 
+costumes Film.txt 2 682 5944 
+along Film.txt 4 223 296 1711 4146 
+appears Film.txt 1 2812 
+change Film.txt 1 2202 
+box Film.txt 3 1941 2974 4555 
+institute Film.txt 1 1438 
+commonly Film.txt 1 571 
+simultaneous Film.txt 1 4579 
+usually Film.txt 17 948 1944 3093 4239 4339 4360 4425 4432 4651 4724 4760 4834 4953 5089 5738 5965 6246 
+studies Film.txt 2 2407 3155 
+regardless Film.txt 1 4150 
+merely Film.txt 1 5639 
+marked Film.txt 1 2036 
+overarching Film.txt 1 575 
+rarely Film.txt 1 6701 
+market Film.txt 1 3010 
+projector Film.txt 6 245 1256 1558 4446 4453 7518 
+working Film.txt 1 2821 
+positive Film.txt 1 3049 
+by Film.txt 70 49 130 138 148 156 214 315 619 641 667 743 758 808 832 959 1099 1137 1173 1233 1302 1318 1374 1385 1389 1411 1591 1640 1664 1702 1781 1794 1839 2298 2327 2358 2398 2507 2523 2581 2658 2804 2884 3390 3857 4197 4248 5542 5562 5594 5598 5815 6016 6505 6655 7014 7026 7030 7054 7107 7131 7265 7271 7391 7396 7426 7438 7442 7449 7456 7494 
+live Film.txt 1 4366 
+films Film.txt 98 228 251 267 310 363 422 1227 1358 1364 1383 1450 1476 1539 1596 1769 1865 1869 1906 1914 1952 2004 2022 2097 2330 2413 2589 2791 2865 2877 2934 2941 2973 3020 3035 3060 3066 3116 3139 3149 3288 3375 3471 3481 3526 3572 3588 3613 3646 3775 4095 4107 4115 4137 4160 4195 4252 4348 4542 4621 4719 4758 4767 4769 4795 4878 4961 4992 5026 5046 5056 5197 5233 5345 5540 5558 5575 5583 5780 6039 6086 6304 6323 6334 6339 6372 6439 6447 6453 6471 6630 6652 6703 6898 6927 7049 7067 7171 7368 
+theoretical Film.txt 2 2406 3886 
+andr Film.txt 1 2321 
+visual Film.txt 10 168 351 464 708 1533 2541 2562 2751 4061 4077 
+cases Film.txt 1 4910 
+industrys Film.txt 2 388 3462 
+capturing Film.txt 1 1080 
+eye-dazzling Film.txt 1 820 
+instructional Film.txt 1 3587 
+graphic Film.txt 2 280 7263 
+thousands Film.txt 2 668 5677 
+originally Film.txt 4 230 4512 5320 6052 
+reviews Film.txt 5 2917 2945 2949 3051 3175 
+saussure Film.txt 1 2366 
+can Film.txt 18 2796 2918 3041 3717 3742 3997 4245 4385 4924 4986 5606 5652 5696 6228 6269 6515 6790 6836 
+following Film.txt 3 1325 2135 4605 
+making Film.txt 4 3242 3480 3499 7273 
+dollars Film.txt 1 3406 
+photographs Film.txt 2 1010 1131 
+dedicated Film.txt 1 3365 
+citizens Film.txt 1 349 
+allowed Film.txt 3 1208 3502 6148 
+conversely Film.txt 1 3061 
+divided Film.txt 2 2798 5916 
+watching Film.txt 1 4547 
+1 Film.txt 2 646 5203 
+sundance Film.txt 1 4694 
+lumire Film.txt 3 1399 1419 6557 
+huge Film.txt 1 3385 
+may Film.txt 18 1444 3109 3662 3723 3762 3830 3849 4456 4494 4597 5114 5467 5529 5565 5590 6873 7145 7155 
+produce Film.txt 7 1354 2409 3372 5619 6702 6733 7360 
+designed Film.txt 2 865 4344 
+date Film.txt 2 3910 7149 
+such Film.txt 28 700 851 1012 1244 1503 1688 2123 2935 3454 3694 3728 3747 3767 3985 4006 4079 4483 4638 4792 4939 4946 4996 5537 5891 6799 6910 7216 7330 
+journals Film.txt 2 3144 3189 
+man Film.txt 1 2683 
+pulley Film.txt 1 839 
+natural Film.txt 2 1822 1857 
+imbibition Film.txt 1 6457 
+so Film.txt 7 723 950 1088 1287 2992 3072 4399 
+typical Film.txt 1 5722 
+gradual Film.txt 1 6537 
+displayed Film.txt 1 890 
+years Film.txt 3 585 670 5741 
+professors Film.txt 1 3204 
+ended Film.txt 1 5346 
+experiments Film.txt 2 1020 5519 
+motions Film.txt 1 958 
+cuts Film.txt 2 2617 7429 
+still Film.txt 9 77 2024 2919 3235 4086 4386 6041 6278 6547 
+blocked Film.txt 1 923 
+group Film.txt 1 5811 
+how Film.txt 6 2307 2442 3158 3263 3916 6107 
+interesting Film.txt 1 5395 
+encompasses Film.txt 1 4158 
+forms Film.txt 1 3958 
+broadcasts Film.txt 2 2063 2075 
+main Film.txt 18 597 2248 2651 2779 3208 4593 5071 5187 5480 5610 5730 5802 6552 6935 7001 7086 7169 7231 
+decades Film.txt 3 2134 4032 6474 
+thereby Film.txt 1 6425 
+3 Film.txt 1 5205 
+processes Film.txt 2 1849 1993 
+nation Film.txt 1 1677 
+records Film.txt 1 4059 
+1956 Film.txt 1 3410 
+half Film.txt 1 2189 
+not Film.txt 15 308 446 730 1034 2341 2879 3110 4101 4109 4264 4653 4811 5333 5966 6254 
+scorsese Film.txt 2 2129 4949 
+now Film.txt 3 253 5354 7472 
+developments Film.txt 1 1962 
+possess Film.txt 1 4475 
+term Film.txt 4 535 576 3891 5314 
+wintergarten Film.txt 1 626 
+name Film.txt 3 491 3795 5349 
+realist Film.txt 1 2352 
+opera Film.txt 1 2774 
+james Film.txt 2 2432 4641 
+advent Film.txt 5 1862 4013 4517 6713 6744 
+chromotrope Film.txt 1 816 
+entirely Film.txt 1 4529 
+dramas Film.txt 1 2938 
+individually Film.txt 1 7257 
+en Film.txt 2 703 2758 
+significantly Film.txt 2 6771 6779 
+owing Film.txt 1 714 
+year Film.txt 8 1326 1958 1960 3240 3570 5744 5752 5759 
+distributor Film.txt 1 7119 
+shown Film.txt 15 81 241 1294 1310 3054 4846 5201 5230 5239 5261 5283 5291 5322 5355 6113 
+accomplish Film.txt 1 6883 
+profit Film.txt 2 3252 3508 
+post-credit Film.txt 1 4859 
+increase Film.txt 1 6426 
+seriously Film.txt 1 1973 
+internet Film.txt 3 5384 5403 7223 
+bla Film.txt 1 2301 
+chemically Film.txt 1 4058 
+earlier Film.txt 3 2215 4223 4669 
+theory Film.txt 19 696 2229 2251 2259 2296 2326 2353 2378 2381 2384 2440 2533 2572 2730 3152 3652 3674 3928 5058 
+state Film.txt 1 4492 
+million Film.txt 1 3405 
+previews Film.txt 2 5102 5193 
+recordings Film.txt 1 5514 
+california Film.txt 2 2587 3443 
+card Film.txt 1 4736 
+advance Film.txt 2 1732 4590 
+language Film.txt 8 2255 2423 2431 2469 2491 2521 2596 4750 
+widths Film.txt 1 6020 
+transition Film.txt 1 2649 
+programming Film.txt 1 3423 
+british Film.txt 4 3787 3792 4317 4418 
+motion Film.txt 26 12 67 95 107 479 513 616 878 1171 1191 1431 1528 3246 3345 3354 3377 3782 3966 5834 6006 6257 6315 6544 7078 7083 7284 
+turn Film.txt 4 324 434 1079 1471 
+place Film.txt 7 2548 3820 3844 4335 4364 6569 6991 
+reels Film.txt 2 6103 7065 
+blacksmith Film.txt 1 1315 
+high-resolution Film.txt 1 6756 
+first Film.txt 17 633 1064 1170 1307 1360 1426 1894 2056 2629 2634 3222 3287 3343 5146 5743 5998 6563 
+origin Film.txt 1 666 
+surviving Film.txt 1 611 
+revenue Film.txt 2 3600 6427 
+spoken Film.txt 1 284 
+one Film.txt 18 712 768 789 891 1081 1206 1234 1453 2464 2501 3404 4295 4400 4623 4906 5128 5222 5658 
+long Film.txt 4 981 1199 4266 5335 
+directly Film.txt 3 806 7158 7508 
+comprises Film.txt 1 5753 
+sounds Film.txt 2 289 728 
+open Film.txt 5 6932 6937 6941 6955 6987 
+city Film.txt 1 1442 
+little Film.txt 2 3073 5656 
+sheet Film.txt 2 588 1603 
+silent Film.txt 9 1538 1628 1776 1796 1868 2614 4106 4112 6081 
+stuck Film.txt 1 5351 
+caught Film.txt 1 1723 
+plastic Film.txt 1 233 
+indicate Film.txt 1 2527 
+speaking Film.txt 2 2502 2509 
+gives Film.txt 2 355 4707 
+exploring Film.txt 1 6319 
+way Film.txt 2 7170 7417 
+releases Film.txt 1 2831 
+that Film.txt 58 79 290 408 497 782 841 862 978 1046 1288 1424 1456 1580 1827 2267 2329 2447 2601 2616 2632 2645 2811 2909 2985 2998 3037 3048 3075 3106 3360 3397 3684 3996 4057 4124 4262 4466 4486 4665 4682 4706 4746 4772 4794 4867 5133 5198 5219 5234 5269 5272 5277 5281 5293 5330 5440 6484 7486 
+continuous Film.txt 3 106 915 7322 
+broadcast Film.txt 2 2826 7192 
+released Film.txt 3 2100 3614 4680 
+retrofitted Film.txt 1 4396 
+photographic Film.txt 4 19 498 1085 1185 
+than Film.txt 8 1549 1834 2015 3172 4622 5932 6980 7029 
+wide Film.txt 2 1119 6806 
+television Film.txt 12 1971 2043 3182 3422 3739 4021 6487 6697 7017 7175 7189 7466 
+translate Film.txt 1 377 
+talkies Film.txt 2 1787 4131 
+third Film.txt 2 5426 5758 
+16 Film.txt 4 2231 6073 6090 7311 
+18 Film.txt 1 6098 
+transferred Film.txt 2 4048 4491 
+future Film.txt 2 3629 6422 
+were Film.txt 36 229 830 889 1033 1047 1132 1228 1252 1370 1451 1488 1507 1530 1615 1770 1854 1990 2000 2005 2023 2058 2064 2107 2711 3022 5229 5235 5250 5260 5282 6087 6136 6546 6560 6660 7172 
+and Film.txt 242 8 28 39 123 152 166 183 187 239 264 287 306 322 341 392 511 530 564 580 673 688 697 727 776 795 828 838 857 991 1055 1123 1163 1187 1216 1248 1262 1279 1282 1349 1379 1388 1397 1499 1611 1679 1695 1720 1728 1756 1804 1870 1907 1997 2002 2061 2078 2127 2131 2150 2169 2172 2206 2220 2252 2264 2303 2312 2347 2363 2385 2408 2415 2497 2564 2667 2692 2696 2715 2736 2750 2753 2761 2775 2788 2807 2816 2825 2840 2862 2875 2895 2900 2906 2939 2956 2963 2995 3102 3114 3145 3160 3164 3229 3243 3268 3292 3310 3326 3330 3353 3367 3373 3383 3418 3520 3586 3598 3634 3644 3655 3666 3675 3751 3771 3788 3872 3949 3959 3968 3977 3991 4050 4063 4089 4116 4161 4170 4173 4196 4244 4334 4471 4506 4522 4552 4577 4644 4693 4788 4872 4887 4907 4967 4981 4994 5002 5008 5027 5029 5047 5059 5174 5185 5376 5385 5394 5429 5478 5484 5497 5518 5596 5631 5681 5705 5755 5761 5772 5793 5880 5894 5900 5907 5922 5926 5943 5951 6021 6044 6058 6066 6092 6095 6143 6196 6206 6294 6311 6313 6404 6406 6424 6436 6451 6468 6493 6518 6538 6599 6617 6638 6723 6750 6774 6786 6804 6810 6846 6851 6855 6857 6878 6900 6913 7090 7144 7150 7214 7282 7285 7301 7336 7355 7367 7394 7421 7440 7448 7454 7501 7506 7513 
+front-projection Film.txt 1 4439 
+voices Film.txt 1 5854 
+allen Film.txt 1 4999 
+saw Film.txt 1 2145 
+any Film.txt 7 711 719 1588 2836 4595 5030 5694 
+kevin Film.txt 1 3534 
+veteran Film.txt 1 5164 
+ideas Film.txt 1 207 
+note Film.txt 1 3047 
+equipment Film.txt 3 3325 3500 6722 
+animation Film.txt 21 146 154 754 7230 7233 7244 7293 7343 7351 7364 7372 7379 7388 7402 7411 7414 7425 7432 7469 7485 7491 
+take Film.txt 3 3133 5005 5654 
+mid-decade Film.txt 1 2102 
+performance Film.txt 2 2976 5077 
+concern Film.txt 2 6399 6433 
+begin Film.txt 1 1330 
+photoplay Film.txt 2 72 529 
+multiple Film.txt 1 1493 
+norman Film.txt 1 7497 
+theatre Film.txt 3 627 3856 4328 
+arguing Film.txt 1 2328 
+decreasing Film.txt 1 7422 
+archivists Film.txt 1 6405 
+falls Film.txt 1 5885 
+importantly Film.txt 1 6752 
+printed Film.txt 1 1280 
+stencil-coloring Film.txt 1 1841 
+america Film.txt 1 1434 
+photochemical Film.txt 4 237 271 4000 4055 
+especially Film.txt 2 2866 6508 
+montage Film.txt 5 2650 2653 2654 2726 2732 
+later Film.txt 5 692 859 1489 2132 5241 
+crank Film.txt 1 837 
+typically Film.txt 2 764 1850 
+shot Film.txt 10 1144 1455 2600 2620 4103 6042 6057 6088 6511 6548 
+show Film.txt 8 526 654 882 954 1242 2681 4458 5630 
+arnheim Film.txt 1 2300 
+contemporary Film.txt 2 195 250 
+nle Film.txt 1 6524 
+drawings Film.txt 3 140 868 947 
+ground Film.txt 1 6498 
+title Film.txt 1 4735 
+outside Film.txt 6 4287 4646 4964 6570 6884 6992 
+overruns Film.txt 1 3530 
+only Film.txt 13 953 1205 1553 2116 2834 2842 3415 4488 4733 4808 5221 5226 5442 
+going Film.txt 6 2684 4403 4426 5236 5266 5288 
+inventions Film.txt 1 850 
+get Film.txt 3 5451 6678 6896 
+cannot Film.txt 1 3000 
+mechanization Film.txt 1 6161 
+seldom Film.txt 1 3807 
+summary Film.txt 1 2894 
+photographically Film.txt 1 1829 
+where Film.txt 6 931 3821 3845 3902 4349 4365 
+vision Film.txt 2 458 909 
+arrival Film.txt 2 6754 6905 
+up Film.txt 9 410 1491 1724 2911 5747 6101 6462 6663 7347 
+connections Film.txt 1 6803 
+ability Film.txt 2 2336 2546 
+ways Film.txt 3 1511 1700 7196 
+review Film.txt 2 2829 3732 
+representatives Film.txt 1 5877 
+enough Film.txt 3 1036 3312 6968 
+between Film.txt 5 108 3786 5898 5928 6089 
+import Film.txt 1 3329 
+justified Film.txt 1 1945 
+reading Film.txt 1 7524 
+affordable Film.txt 2 3497 6818 
+notice Film.txt 1 447 
+receivers Film.txt 1 2044 
+screen Film.txt 15 84 249 558 561 594 1004 1299 1765 3331 4186 4191 4309 4351 4387 4440 
+regional Film.txt 1 3445 
+concentrate Film.txt 1 3487 
+awards Film.txt 2 3551 3562 
+article Film.txt 13 3 598 2652 2780 3209 5072 5188 5611 5803 6553 6936 7002 7232 
+harshly Film.txt 1 3023 
+originates Film.txt 1 493 
+reaction Film.txt 1 5109 
+perceptions Film.txt 1 209 
+many Film.txt 9 515 1699 3449 3525 3539 4031 4909 6240 6320 
+quiet Film.txt 1 6172 
+contract Film.txt 1 3396 
+enabling Film.txt 1 6921 
+s Film.txt 6 855 2287 2361 2367 3536 5672 
+patrons Film.txt 3 5298 5337 5452 
+reluctantly Film.txt 1 2114 
+holders Film.txt 1 7034 
+expression Film.txt 2 2612 4423 
+prequel Film.txt 1 4688 
+comes Film.txt 2 5316 7369 
+among Film.txt 2 2369 6561 
+historians Film.txt 1 6403 
+color Film.txt 13 1823 1826 1874 1955 2008 2042 2066 2074 2088 2110 6338 6438 6452 
+60 Film.txt 1 4240 
+stereophonic Film.txt 1 1998 
+constant Film.txt 1 6124 
+extinct Film.txt 1 1800 
+crew Film.txt 13 4938 4951 4995 5682 5801 5805 5808 5836 5861 5901 5935 5971 6639 
+spark Film.txt 1 3056 
+considering Film.txt 1 3884 
+cycling Film.txt 1 824 
+filmmakers Film.txt 9 1687 2178 3540 6564 6835 6890 6923 7038 7056 
+reflex Film.txt 1 2236 
+direction Film.txt 1 684 
+formed Film.txt 1 3369 
+observers Film.txt 3 919 2983 3046 
+andrei Film.txt 2 2455 5585 
+external Film.txt 1 7525 
+those Film.txt 7 320 2771 2867 4123 4606 4674 5881 
+sound Film.txt 16 1519 1735 1743 1757 1768 1864 1999 4136 5946 6115 6130 6151 6176 6211 6213 6854 
+lye Film.txt 1 7500 
+these Film.txt 13 164 569 900 1289 1410 1536 2710 2794 3721 4633 5032 5729 6501 
+cast Film.txt 5 4879 4965 4993 5840 6637 
+newspaper Film.txt 1 3736 
+prevalence Film.txt 1 398 
+bros Film.txt 1 6657 
+commanded Film.txt 1 3384 
+technology Film.txt 7 720 2195 5972 6261 6481 6766 6826 
+fame Film.txt 1 4932 
+movements Film.txt 2 1116 2157 
+different Film.txt 5 1497 2718 4332 5258 5303 
+develop Film.txt 2 2262 3667 
+media Film.txt 7 1621 2818 2827 3960 4078 7130 7213 
+amateurs Film.txt 1 7042 
+same Film.txt 4 1266 4626 5588 6220 
+hanna-barbera Film.txt 1 7443 
+speech Film.txt 1 1754 
+emulsions Film.txt 1 1032 
+events Film.txt 2 4604 4667 
+tezuka Film.txt 1 7451 
+director Film.txt 6 2450 2462 4942 5790 5906 6670 
+advertisement Film.txt 1 5439 
+changing Film.txt 1 873 
+light-sensitive Film.txt 1 5992 
+tradition Film.txt 1 2396 
+theater Film.txt 13 657 1562 1871 1977 4315 4359 4393 4563 5273 5295 5304 5342 7166 
+largely Film.txt 1 2213 
+roughly Film.txt 2 705 4166 
+without Film.txt 6 4118 4250 5665 6182 6525 6588 
+relied Film.txt 1 902 
+model Film.txt 1 7278 
+charged Film.txt 1 1369 
+skladanowsky Film.txt 1 643 
+being Film.txt 9 1806 2025 2555 3533 4102 4658 4691 6730 7389 
+captures Film.txt 1 2478 
+battleship Film.txt 1 2745 
+actress Film.txt 1 4902 
+pre-production Film.txt 1 5887 
+aspect Film.txt 1 4225 
+speed Film.txt 6 6082 6125 6146 6171 6221 7309 
+captured Film.txt 1 1215 
+death Film.txt 1 5157 
+feminist Film.txt 1 2382 
+caterers Film.txt 1 5955 
+lets Film.txt 1 3935 
+bigger Film.txt 2 1988 5764 
+prominently Film.txt 1 1663 
+flashing Film.txt 1 3715 
+aspects Film.txt 2 3889 3900 
+around Film.txt 2 1469 3441 
+read Film.txt 1 2444 
+digital Film.txt 15 256 2194 2210 4083 4452 4519 6364 6490 6494 6513 6715 6757 6823 6843 7474 
+early Film.txt 16 584 671 1160 1166 1226 1336 1344 1446 1593 1965 2226 4615 4696 5213 6618 6761 
+film-related Film.txt 1 3752 
+world Film.txt 6 1644 3228 3364 3453 3474 5553 
+execution Film.txt 1 5703 
+shutter Film.txt 1 425 
+audience Film.txt 11 103 1305 2525 2860 2961 4866 5088 5108 5126 5151 7109 
+either Film.txt 5 805 4045 4156 4443 7162 
+stationary Film.txt 1 771 
+twelve Film.txt 2 949 5464 
+exposed Film.txt 1 6350 
+oscars Film.txt 1 3556 
+images Film.txt 18 78 90 222 293 407 726 987 1093 1127 1136 1203 2499 2741 4042 4074 5644 6026 6279 
+2010s Film.txt 1 2227 
+mood Film.txt 1 1583 
+nazi Film.txt 1 5546 
+recorded Film.txt 12 218 231 268 732 1830 4046 4143 6177 6216 6230 6247 6477 
+moon Film.txt 1 1157 
+critical Film.txt 2 581 3039 
+three-strip Film.txt 1 1888 
+on-set Film.txt 1 6178 
+refer Film.txt 5 180 3817 4052 4557 4929 
+power Film.txt 1 359 
+seconds Film.txt 1 5446 
+sixth Film.txt 1 2292 
+equivalent Film.txt 2 4742 4745 
+notable Film.txt 2 1343 7048 
+1932 Film.txt 1 1900 
+1931 Film.txt 1 3408 
+1930 Film.txt 1 1795 
+1935 Film.txt 1 1924 
+refers Film.txt 8 3895 4132 4187 4211 4340 4361 4880 5078 
+on Film.txt 50 82 645 790 903 989 1083 1129 1218 1297 1352 1544 1763 2387 2438 2604 2858 2924 2970 3169 3181 3574 3611 3689 3709 3908 4005 4104 4307 4748 5124 5374 5382 5524 5623 5645 6027 6043 6100 6106 6324 6448 6455 6549 6621 6681 6862 6892 7181 7406 7488 
+central Film.txt 1 4916 
+of Film.txt 257 10 76 88 94 117 150 159 163 191 197 202 217 261 282 299 338 353 360 372 390 399 419 428 451 457 469 478 568 593 600 631 669 718 761 773 792 810 822 834 867 871 875 906 908 946 967 986 995 1007 1009 1027 1073 1092 1102 1117 1121 1139 1176 1181 1183 1190 1202 1211 1223 1363 1402 1429 1472 1556 1584 1602 1635 1643 1659 1668 1675 1707 1715 1741 1753 1821 1863 1886 1890 1927 1939 1951 1969 2039 2087 2095 2120 2138 2152 2175 2190 2254 2272 2278 2290 2411 2421 2474 2489 2495 2500 2516 2534 2554 2561 2578 2594 2607 2613 2621 2643 2662 2676 2731 2740 2748 2790 2868 2889 2897 2903 2914 2944 2967 2980 3016 3031 3088 3245 3251 3320 3339 3403 3427 3435 3451 3470 3491 3523 3545 3592 3620 3630 3660 3669 3678 3692 3701 3713 3759 3796 3929 3946 4014 4066 4072 4151 4182 4234 4297 4302 4379 4502 4518 4536 4548 4581 4591 4611 4660 4716 4751 4765 4785 4830 4850 4884 4933 4936 4990 5031 5082 5093 5130 5158 5168 5215 5255 5326 5413 5493 5515 5569 5576 5584 5603 5643 5648 5678 5716 5725 5812 5829 5849 5873 5910 5969 5980 6000 6162 6192 6209 6242 6277 6283 6309 6343 6360 6381 6391 6398 6540 6608 6627 6650 6714 6719 6745 6755 6808 6822 6829 6871 6906 7045 7115 7126 7197 7206 7212 7225 7237 7252 7310 7321 7341 7363 7377 7418 7424 7484 7511 
+industry Film.txt 21 125 186 1341 1650 3207 3211 3359 3438 3515 3583 3603 3633 3965 4019 4022 4209 4291 5960 6317 6692 7412 
+violence Film.txt 1 391 
+practical Film.txt 2 1523 1748 
+tarkovsky Film.txt 2 2456 5586 
+greatly Film.txt 2 2882 7345 
+act Film.txt 2 4065 4071 
+lantern Film.txt 2 740 998 
+or Film.txt 100 71 141 155 161 212 219 347 374 807 813 1460 1465 1567 1569 1779 1786 1842 2845 3005 3153 3179 3190 3201 3205 3593 3687 3707 3737 3854 3887 3898 3927 4047 4163 4230 4242 4276 4300 4305 4313 4369 4376 4412 4447 4479 4500 4564 4630 4700 4740 4781 4804 4826 4837 4891 4901 4943 5015 5023 5049 5066 5118 5192 5223 5247 5359 5438 5520 5534 5556 5579 5663 5676 5823 5833 5852 5888 5984 6354 6572 6580 6590 6688 6696 6735 6977 6994 7011 7021 7035 7062 7139 7174 7183 7203 7220 7222 7264 7270 7312 
+communication Film.txt 2 361 5897 
+image Film.txt 7 465 1066 1082 3416 4062 7236 7269 
+potemkin Film.txt 1 2746 
+references Film.txt 1 7522 
+determine Film.txt 1 7122 
+strip Film.txt 1 5647 
+fast Film.txt 1 6108 
+there Film.txt 8 3062 3578 4618 4810 5240 6640 7317 7479 
+start Film.txt 2 4725 4784 
+lot Film.txt 1 5254 
+cultures Film.txt 2 317 321 
+zoetrope Film.txt 2 860 5638 
+survives Film.txt 1 5183 
+complete Film.txt 2 1612 2708 
+sophisticated Film.txt 1 6194 
+two-thirds Film.txt 1 6649 
+technologies Film.txt 4 662 1745 6798 7475 
+with Film.txt 54 134 224 636 736 769 779 1021 1342 1400 1414 1462 1516 1552 1598 1656 1712 1725 1760 2111 2284 2544 2610 2687 2697 2717 2734 3199 3665 3765 4075 4081 4147 4168 4273 4442 4450 4624 4673 4728 4732 4770 5217 5252 5660 5748 5863 5919 5988 6512 6520 6704 6841 7290 7387 
+vhs Film.txt 1 7218 
+dubbing Film.txt 1 373 
+chaplin Film.txt 3 1627 1717 3393 
+gone Film.txt 1 7405 
+videos Film.txt 2 5417 5431 
+cinema Film.txt 17 172 198 565 634 1637 3464 3484 3632 3853 4155 4325 4338 4406 4431 5209 5216 6514 
+certain Film.txt 3 2869 5121 5227 
+moved Film.txt 2 436 7461 
+sales Film.txt 2 2079 4551 
+wartime Film.txt 1 1705 
+an Film.txt 46 121 124 275 332 452 520 574 1159 1165 1197 1273 1303 1335 1458 1560 1917 1980 2040 2281 2487 2545 2608 2611 2641 2855 2921 3081 3400 3531 4018 4036 4119 4281 4342 4614 4689 4744 4899 5509 5989 6577 6940 6947 7108 7234 7319 
+imagination Film.txt 1 1547 
+as Film.txt 86 57 430 455 573 701 735 852 924 1134 1245 1504 1509 1559 1689 1809 2029 2031 2124 2274 2280 2476 2480 2484 2539 2709 2936 3025 3027 3095 3120 3203 3254 3256 3455 3554 3671 3695 3729 3748 3768 3901 3986 4017 4026 4080 4096 4202 4265 4267 4484 4639 4793 4940 4947 4955 4997 5042 5064 5379 5381 5398 5538 5572 5600 5655 5657 5668 5734 5892 5961 6048 6078 6222 6249 6263 6298 6380 6499 6539 6800 6911 7057 7063 7217 7260 7459 
+at Film.txt 32 45 655 710 895 1107 1236 1365 1436 1587 2055 2117 2864 2953 4310 4323 4553 4561 4762 4780 4805 4812 4825 5165 5207 5323 5613 6060 6168 6217 7307 7382 7531 
+watched Film.txt 1 5418 
+film Film.txt 240 0 20 25 60 62 70 127 185 234 301 327 354 387 412 492 499 502 545 601 612 639 664 679 695 737 1162 1169 1186 1224 1281 1309 1340 1517 1520 1586 1613 1629 1649 1708 1797 1920 2153 2218 2228 2246 2250 2256 2258 2273 2279 2295 2308 2377 2380 2383 2424 2439 2446 2475 2535 2663 2677 2704 2744 2777 2781 2783 2805 2809 2819 2838 2891 2899 2916 2931 3050 3069 3090 3108 3124 3129 3143 3151 3154 3159 3210 3224 3411 3437 3461 3498 3504 3561 3651 3673 3693 3696 3698 3702 3746 3766 3800 3871 3878 3920 3930 3964 3976 4001 4016 4049 4105 4149 4169 4208 4229 4232 4261 4270 4280 4285 4290 4320 4445 4504 4520 4525 4550 4583 4596 4609 4656 4664 4677 4683 4718 4727 4775 4787 4832 4869 4895 4920 4972 5011 5016 5057 5060 5084 5099 5132 5170 5189 5270 5274 5308 5328 5358 5362 5369 5423 5456 5473 5483 5486 5487 5506 5511 5522 5528 5550 5589 5605 5621 5650 5674 5695 5728 5789 5804 5807 5817 5832 5859 5895 5959 5977 6001 6023 6055 6116 6201 6235 6252 6286 6389 6393 6402 6529 6550 6555 6579 6582 6585 6595 6611 6685 6695 6721 6741 6769 6840 6849 6893 6934 6939 6943 6949 7000 7004 7007 7010 7016 7058 7088 7091 7093 7101 7118 7128 7134 7154 7200 7208 7254 7304 7332 7489 7512 7530 
+tedious Film.txt 1 7337 
+genres Film.txt 1 2870 
+storage Film.txt 3 3417 6312 6469 
+field Film.txt 2 552 7376 
+valid Film.txt 1 2318 
+2006 Film.txt 1 6382 
+poor Film.txt 2 2948 6384 
+authoritarian Film.txt 1 3705 
+balzs Film.txt 1 2302 
+vocabulary Film.txt 1 2414 
+separate Film.txt 3 109 2660 3358 
+2005 Film.txt 1 6541 
+includes Film.txt 1 2569 
+podium Film.txt 1 4375 
+important Film.txt 6 333 2019 2856 2922 2947 5775 
+included Film.txt 2 274 6104 
+websites Film.txt 1 6909 
+directors Film.txt 6 2122 2727 2905 4820 4971 6199 
+mass Film.txt 1 2871 
+resembles Film.txt 1 2627 
+sergei Film.txt 1 1690 
+all Film.txt 5 162 2103 2712 5257 6603 
+lack Film.txt 1 717 
+founded Film.txt 1 3212 
+disc Film.txt 3 845 4469 7185 
+talks Film.txt 1 4296 
+post-credits Film.txt 1 4841 
+causes Film.txt 3 101 426 2646 
+referring Film.txt 2 4178 4408 
+tv Film.txt 1 7366 
+to Film.txt 174 104 179 181 188 205 330 376 439 482 678 715 752 784 881 910 942 999 1017 1037 1043 1113 1155 1213 1230 1259 1271 1353 1356 1482 1512 1577 1605 1730 1749 1808 1836 1982 2180 2261 2269 2337 2351 2375 2401 2418 2427 2443 2471 2526 2547 2574 2618 2671 2689 2693 2765 2770 2847 2880 2928 3055 3078 3084 3099 3138 3196 3232 3284 3290 3294 3307 3322 3371 3409 3486 3506 3517 3542 3571 3596 3608 3816 3818 3896 3903 3917 3937 3955 4053 4098 4133 4139 4179 4188 4193 4212 4216 4222 4341 4346 4354 4362 4397 4404 4409 4414 4427 4497 4515 4558 4709 4818 4881 4928 4930 5045 5079 5085 5106 5155 5204 5237 5267 5289 5301 5305 5339 5391 5410 5444 5450 5463 5618 5629 5700 6004 6010 6046 6166 6179 6186 6200 6214 6256 6272 6370 6400 6407 6417 6421 6441 6460 6483 6531 6605 6633 6677 6729 6732 6768 6882 6895 6924 6929 6969 6973 7080 7136 7159 7276 7325 7359 7407 7465 
+program Film.txt 3 5329 5367 7018 
+preserved Film.txt 1 6454 
+cinephilia Film.txt 1 5065 
+far Film.txt 1 1855 
+horror Film.txt 1 2874 
+sons Film.txt 1 1381 
+fan Film.txt 6 6975 6999 7003 7006 7037 7066 
+decide Film.txt 1 2927 
+frankenstein Film.txt 1 4612 
+showings Film.txt 1 4571 
+scne Film.txt 1 704 
+louis Film.txt 2 620 1398 
+celebrity Film.txt 1 4912 
+list Film.txt 2 1601 4705 
+large Film.txt 6 248 1571 3528 3582 6037 6184 
+small Film.txt 3 836 944 7274 
+20th Film.txt 3 1474 2192 6616 
+flick Film.txt 1 531 
+widescreen Film.txt 2 1992 4210 
+titled Film.txt 2 2441 3915 
+ten Film.txt 2 1401 5415 
+past Film.txt 1 2639 
+strung Film.txt 1 7299 
+rate Film.txt 1 899 
+invention Film.txt 3 1189 3267 6191 
+design Film.txt 1 6174 
+displays Film.txt 1 821 
+further Film.txt 6 1731 3649 3724 3951 6916 7523 
+what Film.txt 1 3165 
+darkness Film.txt 1 429 
+section Film.txt 2 2675 3733 
+version Film.txt 2 1889 2722 
+cinemas Film.txt 1 4455 
+public Film.txt 11 1312 1361 1427 1546 1934 2083 3105 4312 5098 6931 7161 
+contrast Film.txt 1 3858 
+movement Film.txt 2 1506 7323 
+edited Film.txt 2 2666 6519 
+full Film.txt 2 1575 4237 
+brakhage Film.txt 2 5671 7503 
+21st Film.txt 1 6619 
+portrays Film.txt 2 4603 4666 
+decay Film.txt 1 6444 
+i.e Film.txt 1 5948 
+november Film.txt 1 647 
+standard Film.txt 1 6080 
+arena Film.txt 1 4343 
+film-school-educated Film.txt 1 2176 
+inspired Film.txt 2 1701 7013 
+experience Film.txt 1 6693 
+miniature Film.txt 1 142 
+advertising Film.txt 1 3773 
+published Film.txt 2 3176 3186 
+action Film.txt 6 1212 1461 1762 2873 4368 6225 
+followed Film.txt 2 2506 3352 
+requiring Film.txt 1 6183 
+screens Film.txt 4 1989 5225 5246 5256 
+texts Film.txt 2 579 3599 
+2000s Film.txt 3 2209 2990 6783 
+toys Film.txt 1 3753 
+1902 Film.txt 1 1158 
+select Film.txt 1 5087 
+conventional Film.txt 2 4236 4289 
+attendance Film.txt 3 1978 2863 2964 
+eye Film.txt 1 461 
+takes Film.txt 4 5739 5771 6568 6990 
+wajda Film.txt 1 5578 
+distinct Film.txt 1 5867 
+two Film.txt 6 765 1105 2800 2846 4537 5224 
+taken Film.txt 1 5746 
+hand-cranked Film.txt 1 6064 
+more Film.txt 25 1878 2003 2354 2766 3135 3880 3893 4243 4448 4565 4620 5034 5245 5279 5297 5580 5708 5713 5768 5774 6193 6751 6833 7313 7528 
+andrzej Film.txt 1 5577 
+company Film.txt 6 1321 1328 1387 5172 5818 5876 
+particular Film.txt 1 5294 
+known Film.txt 5 454 1393 3553 5063 5956 
+producing Film.txt 1 5830 
+science Film.txt 1 1167 
+h16 Film.txt 1 2235 
+mutoscope Film.txt 1 1250 
+resources Film.txt 1 5769 
+pioneered Film.txt 1 7437 
+history Film.txt 6 7 596 599 3699 3945 6034 
+unknown Film.txt 1 6705 
+psychoanalytic Film.txt 1 2376 
+well-coordinated Film.txt 1 2994 
+synchronized Film.txt 2 1759 6210 
+gallop Film.txt 1 47 
+days Film.txt 2 4697 5214 
+states Film.txt 6 539 1654 3433 3566 3862 7447 
+sharp Film.txt 1 1922 
+mainstream Film.txt 1 2020 
+influenced Film.txt 1 2397 
+rather Film.txt 5 1548 1833 2014 3171 7028 
+occasionally Film.txt 1 4921 
+intended Film.txt 2 1253 3981 
+1970s Film.txt 1 4723 
+screenwriters Film.txt 2 2907 5893 
+soundtrack Film.txt 4 278 1752 6227 6244 
+blood Film.txt 1 5147 
+coming Film.txt 1 5457 
+costner Film.txt 1 3535 
+choice Film.txt 1 6385 
+response Film.txt 4 1935 2861 5127 5139 
+a Film.txt 280 46 61 65 74 83 126 135 157 236 243 247 270 279 297 336 342 357 400 411 423 463 467 470 483 602 615 637 652 811 835 843 863 896 943 976 980 996 1003 1018 1025 1071 1084 1118 1142 1153 1219 1237 1240 1255 1284 1298 1484 1514 1531 1542 1565 1574 1599 1622 1676 1751 1911 2239 2317 2412 2419 2435 2445 2467 2481 2485 2493 2514 2520 2528 2540 2549 2552 2599 2619 2622 2638 2647 2673 2678 2682 2725 2729 2843 2885 2890 2898 2930 2968 2971 2978 3002 3121 3134 3249 3357 3395 3510 3581 3714 3719 3730 3735 3738 3852 3909 3913 3919 3932 3999 4002 4009 4027 4060 4082 4126 4152 4180 4203 4213 4227 4235 4254 4257 4260 4268 4278 4284 4298 4303 4308 4311 4319 4324 4327 4331 4337 4355 4358 4363 4374 4430 4434 4438 4444 4451 4530 4534 4543 4546 4549 4562 4572 4582 4584 4587 4600 4636 4647 4655 4661 4663 4671 4687 4704 4717 4726 4734 4757 4774 4786 4831 4840 4844 4858 4877 4882 4894 4896 4904 4911 4915 4919 4941 4950 4960 4984 4991 5010 5019 5043 5075 5080 5083 5086 5131 5137 5162 5176 5208 5253 5302 5327 5361 5364 5399 5434 5455 5491 5505 5521 5525 5604 5620 5641 5646 5661 5666 5685 5721 5726 5806 5810 5816 5831 6032 6079 6123 6169 6250 6274 6284 6358 6383 6396 6431 6584 6593 6642 6668 6679 6682 6727 6738 6794 6805 6839 6842 6863 6963 6981 7005 7009 7015 7022 7100 7116 7133 7164 7199 7210 7228 7238 7246 7253 7261 7267 7277 7291 7308 7331 7397 7416 7481 7517 
+refuse Film.txt 1 3077 
+short Film.txt 7 173 638 1040 1905 4258 7073 7428 
+hollywood-style Film.txt 1 5727 
+documentation Film.txt 1 6301 
+responsibility Film.txt 1 5884 
+deterioration Film.txt 1 4501 
+dream Film.txt 1 2486 
+developed Film.txt 3 1508 2728 6262 
+soon Film.txt 3 2010 3255 3351 
+installed Film.txt 2 1991 6792 
+attitude Film.txt 1 402 
+paper Film.txt 1 5649 
+through Film.txt 18 235 242 257 369 1239 1276 1709 2558 2756 3140 5904 6340 6351 6954 7098 7163 7191 7516 
+filters Film.txt 1 6356 
+existence Film.txt 1 3691 
+its Film.txt 11 473 932 2335 2343 2416 2429 3269 5614 6011 6223 6957 
+24 Film.txt 1 6132 
+style Film.txt 3 2151 2568 7483 
+23 Film.txt 1 6093 
+actually Film.txt 5 885 922 1048 1264 7051 
+late Film.txt 7 961 1058 1526 2030 6121 6156 6615 
+systems Film.txt 4 2219 6523 6576 6998 
+differed Film.txt 1 2309 
+release Film.txt 4 4573 4594 7092 7148 
+might Film.txt 2 4401 4526 
+evening Film.txt 1 3907 
+propose Film.txt 1 4402 
+commodity-based Film.txt 1 6795 
+bollywood Film.txt 1 3458 
+subtitles Film.txt 1 375 
+instructions Film.txt 1 6105 
+riefenstahl Film.txt 1 5544 
+fully Film.txt 1 255 
+level Film.txt 1 2242 
+lathams Film.txt 1 1415 
+found Film.txt 1 3313 
+repeating Film.txt 1 956 
+trailer Film.txt 3 5184 5190 5315 
+referred Film.txt 1 1807 
+flashbacks Film.txt 1 2688 
+reactions Film.txt 1 3040 
+formulate Film.txt 1 2848 
+reduce Film.txt 1 2960 
+engaging Film.txt 1 5393 
+event Film.txt 1 1459 
+since Film.txt 5 2051 6154 6259 6819 7384 
+projected Film.txt 7 309 441 796 1133 1430 6059 6096 
+research Film.txt 1 6083 
+acting Film.txt 2 4796 5933 
+safety Film.txt 2 6333 6449 
+evaluation Film.txt 1 2789 
+occurs Film.txt 1 4372 
+meteoric Film.txt 1 1704 
+rambo Film.txt 1 5161 
+timeline Film.txt 2 4650 4672 
+1920s Film.txt 5 1527 1594 1685 1738 6122 
+horse Film.txt 1 7239 
+base Film.txt 3 5986 6002 6327 
+members Film.txt 2 4935 5683 
+put Film.txt 1 6653 
+earliest Film.txt 5 59 610 1449 1848 4135 
+beginning Film.txt 4 2733 4807 4829 4838 
+definition Film.txt 1 196 
+owners Film.txt 1 1563 
+e.g Film.txt 3 3712 3754 5788 
+american Film.txt 5 1376 1726 1976 3789 3827 
+w Film.txt 2 1670 1693 
+exhibited Film.txt 4 3824 3848 7138 7157 
+major Film.txt 9 965 1618 1815 2954 3381 6543 6574 6594 6996 
+mise Film.txt 2 702 2757 
+number Film.txt 5 945 1091 1101 1950 3469 
+preservation Film.txt 4 6310 6388 6390 6428 
+enlarged Film.txt 1 1296 
+revolution Film.txt 1 1789 
+fees Film.txt 1 3386 
+1878 Film.txt 1 53 
+passes Film.txt 1 5903 
+story Film.txt 4 1485 1515 4628 4649 
+introduction Film.txt 5 1180 1820 1885 3426 6821 
+leading Film.txt 1 2951 
+interact Film.txt 1 3664 
+least Film.txt 1 7383 
+rates Film.txt 1 6445 
+essays Film.txt 1 582 
+photographing Film.txt 4 131 139 7266 7287 
+film-making Film.txt 2 1727 6816 
+filmic Film.txt 1 5051 
+1918 Film.txt 1 1632 
+optical Film.txt 2 99 277 
+favorable Film.txt 1 1933 
+1912 Film.txt 1 3214 
+endlessly Film.txt 1 955 
+1917 Film.txt 1 3391 
+1916 Film.txt 1 1681 
+financing Film.txt 3 5776 6589 6876 
+polarized Film.txt 1 1994 
+critically Film.txt 1 3032 
+collaborations Film.txt 1 6956 
+double Film.txt 2 4531 5365 
+dans Film.txt 1 1150 
+recording Film.txt 5 281 510 1744 4028 4067 
+bride Film.txt 1 4610 
+journalistic Film.txt 1 2808 
+toward Film.txt 1 403 
+risky Film.txt 1 3521 
+hand-coloring Film.txt 1 1840 
+pre-existing Film.txt 1 3760 
+wasnt Film.txt 1 5287 
+built Film.txt 1 5251 
+self Film.txt 1 2640 
+reliance Film.txt 1 3610 
+also Film.txt 23 63 500 1164 1902 3194 3413 3552 3580 4200 4457 4598 4925 5039 5372 5566 5866 5974 6288 6367 6631 6698 6726 7520 
+costs Film.txt 3 6626 6776 7423 
+pianist Film.txt 1 1566 
+buff Film.txt 1 5017 
+play Film.txt 4 1578 1620 3338 5268 
+experienced Film.txt 1 2185 
+sets Film.txt 2 681 5950 
+screenings Film.txt 2 1362 1407 
+most Film.txt 16 533 1108 1595 1662 2915 2937 3559 4766 5778 6036 6085 6322 6542 6888 7047 7468 
+brooklyn Film.txt 1 1437 
+hired Film.txt 2 1564 5814 
+experiences Film.txt 1 204 
+significant Film.txt 2 5714 6691 
+services Film.txt 1 5963 
+prestige Film.txt 1 2933 
+screenwriter Film.txt 1 5792 
+salary Film.txt 1 3402 
+organist Film.txt 1 1568 
+mobile Film.txt 1 5386 
+performances Film.txt 1 3389 
+clear Film.txt 1 2090 
+sometimes Film.txt 10 55 590 1263 3127 3605 3875 4413 4685 5104 7395 
+traditional Film.txt 5 145 420 6739 6886 6982 
+forerunner Film.txt 1 3231 
+part Film.txt 6 772 781 4659 4989 5536 5968 
+artistic Film.txt 5 2331 3576 3885 5557 5782 
+multimedia Film.txt 1 6292 
+particularly Film.txt 2 3641 6707 
+phenomenon Film.txt 3 489 905 7328 
+celebrities Film.txt 1 3382 
+carefully Film.txt 1 864 
+fine Film.txt 1 2319 
+find Film.txt 1 7527 
+emulsion Film.txt 1 5990 
+semi-frequently Film.txt 1 3815 
+impact Film.txt 3 2857 2923 2966 
+simulating Film.txt 1 203 
+copyright Film.txt 2 6983 7033 
+1915 Film.txt 1 1678 
+less Film.txt 2 3639 4799 
+distributed Film.txt 2 6045 7173 
+waiting Film.txt 1 6526 
+money Film.txt 1 5007 
+huygens Film.txt 1 745 
+counterpoint Film.txt 1 2752 
+his Film.txt 6 1111 1140 1380 2690 2694 2743 
+dependent Film.txt 1 3688 
+mid-1950s Film.txt 1 2053 
+famous Film.txt 2 1143 7493 
+during Film.txt 5 2067 2588 3718 5552 5820 
+roles Film.txt 1 6710 
+progressive Film.txt 1 6275 
+generally Film.txt 4 5902 5915 6076 6430 
+common Film.txt 5 534 548 677 2077 5373 
+activity Film.txt 1 4411 
+wrote Film.txt 2 2434 5173 
+set Film.txt 3 3279 4977 7146 
+art Film.txt 10 122 190 201 334 1534 2275 2293 2320 2940 4183 
+achieved Film.txt 1 757 
+tended Film.txt 1 5338 
+see Film.txt 11 18 24 36 91 2835 2929 5040 5306 5973 7280 7519 
+individual Film.txt 3 406 521 4570 
+are Film.txt 37 252 311 413 2664 3097 3126 3185 3557 3685 3823 3847 3874 3971 3993 4114 4175 4619 4833 5103 5194 5353 5371 5389 5433 5448 5513 5732 5781 5842 5914 5964 6040 6245 6496 6503 7298 7471 
+close Film.txt 1 1355 
+analog Film.txt 2 4037 6479 
+youth Film.txt 1 2691 
+mechanically Film.txt 2 1257 2338 
+pictures Film.txt 22 514 1172 1291 1432 1529 1778 1785 3247 3350 3355 3783 3811 3967 3970 4416 6007 6239 6258 6545 7079 7084 7243 
+currently Film.txt 1 4566 
+fans Film.txt 1 7027 
+encase Film.txt 1 6187 
+various Film.txt 5 759 2154 3318 3957 6061 
+probably Film.txt 3 741 3922 3941 
+conditions Film.txt 1 6205 
+pictured Film.txt 1 649 
+available Film.txt 7 1031 2047 6420 6928 6961 7104 7141 
+recently Film.txt 1 4449 
+initially Film.txt 3 1015 1771 6586 
+sold Film.txt 3 4560 4568 6901 
+ranked Film.txt 1 5425 
+non-linear Film.txt 1 6521 
+rarer Film.txt 1 7081 
+distinguish Film.txt 1 3956 
+glorification Film.txt 1 389 
+both Film.txt 7 120 3663 4159 4174 4987 6401 6772 
+last Film.txt 3 567 964 5334 
+reverse Film.txt 1 6359 
+license Film.txt 1 6964 
+keaton Film.txt 1 1719 
+annual Film.txt 1 3401 
+sensitive Film.txt 1 1035 
+became Film.txt 7 1334 1521 2011 2076 3248 3356 3380 
+context Film.txt 1 2553 
+collection Film.txt 1 4883 
+bond Film.txt 2 1631 4642 
+whole Film.txt 1 5533 
+large-scale Film.txt 1 3223 
+reasons Film.txt 1 6601 
+dances Film.txt 1 674 
+kracauer Film.txt 1 2305 
+likes Film.txt 1 5022 
+throughout Film.txt 1 2203 
+expensive Film.txt 2 2060 7358 
+decline Film.txt 1 2137 
+publishing Film.txt 1 3141 
+celluloid Film.txt 3 421 1184 5982 
+create Film.txt 5 85 3543 3725 6850 6974 
+political Film.txt 1 5570 
+due Film.txt 9 481 2573 3516 3607 4496 4514 6009 6440 7324 
+screened Film.txt 1 4272 
+describes Film.txt 1 2531 
+dialogue Film.txt 2 4121 4142 
+1950s Film.txt 3 1961 1966 7386 
+slideshow Film.txt 1 6285 
+fritz Film.txt 1 1696 
+understand Film.txt 1 3918 
+motion-picture Film.txt 2 136 522 
+systematic Film.txt 1 2265 
+prices Film.txt 1 2070 
+handling Film.txt 1 6467 
+conception Film.txt 1 5701 
+indefinitely Film.txt 1 1198 
+reliable Film.txt 1 3640 
+evaluated Film.txt 1 6517 
+while Film.txt 10 266 542 1647 1860 3376 3825 3931 4357 4798 6868 
+replaced Film.txt 3 1875 2214 6015 
+formats Film.txt 2 3995 7215 
+fun Film.txt 1 3906 
+animated Film.txt 3 1065 1897 7235 
+guide Film.txt 1 3740 
+exclude Film.txt 1 4654 
+30 Film.txt 1 5445 
+costly Film.txt 1 3519 
+century Film.txt 5 849 1475 2193 6158 6620 
+itself Film.txt 4 17 193 4249 5101 
+full-length Film.txt 1 7082 
+lengths Film.txt 1 1182 
+subliminal Film.txt 1 3710 
+9 Film.txt 1 1443 
+products Film.txt 1 6414 
+relatively Film.txt 1 6817 
+composition Film.txt 1 2563 
+higher Film.txt 1 6432 
+development Film.txt 7 9 1740 1817 2755 5749 6208 7340 
+used Film.txt 32 178 572 591 693 751 992 1076 1110 1270 1607 1895 2244 2404 2772 3779 3808 3814 3876 3882 3954 3961 3973 4192 4201 4927 5105 5449 5489 6003 6271 6369 6485 
+moment Film.txt 1 1590 
+uses Film.txt 2 23 35 
+purpose Film.txt 3 1610 5501 5828 
+recent Film.txt 3 2355 3494 6473 
+task Film.txt 1 7114 
+analysis Film.txt 5 2257 2356 2410 2787 3676 
+person Film.txt 6 1235 2635 4985 5020 5659 7399 
+royalty Film.txt 1 3291 
+reflect Film.txt 1 319 
+entry Film.txt 1 2241 
+distances Film.txt 1 1498 
+reviewed Film.txt 1 3024 
+intervals Film.txt 1 427 
+single-strip Film.txt 1 6437 
+questions Film.txt 1 3626 
+using Film.txt 13 144 614 1204 1382 3150 4024 4437 6063 6478 7227 7241 7427 7473 
+reviewer Film.txt 1 2969 
+alternative Film.txt 1 3621 
+continent Film.txt 1 3283 
+cut Film.txt 1 6861 
+majority Film.txt 2 2913 7362 
+admission Film.txt 1 1367 
+advertisements Film.txt 1 5195 
+exclusively Film.txt 1 302 
+source Film.txt 6 337 474 3250 6958 6988 7024 
+plateau Film.txt 1 854 
+lumires Film.txt 1 3277 
+excited Film.txt 1 5453 
+cinaste Film.txt 1 5067 
+format Film.txt 1 6024 
+big Film.txt 1 557 
+showing Film.txt 4 869 3244 4321 5081 
+instructors Film.txt 1 3206 
+matters Film.txt 1 7152 
+necessary Film.txt 1 5690 
+projects Film.txt 2 7061 7534 
+like Film.txt 3 6946 6984 7496 
+d Film.txt 1 1669 
+separately Film.txt 2 2714 6231 
+popular Film.txt 5 339 366 2223 2240 4905 
+terminology Film.txt 4 691 3776 3778 3952 
+often Film.txt 21 177 254 2959 3117 3881 3894 4093 4271 4578 4730 4743 4776 4816 4903 5024 5035 5406 6102 6295 6567 7356 
+flurry Film.txt 1 2094 
+some Film.txt 15 160 362 383 1225 2018 2982 3017 4741 4778 4801 5595 6335 6470 6506 7044 
+back Film.txt 3 1985 2496 5210 
+understood Film.txt 2 2522 3805 
+added Film.txt 4 1835 1947 2698 5244 
+examples Film.txt 1 5512 
+annually Film.txt 1 5420 
+gradually Film.txt 3 1053 1879 2071 
+describing Film.txt 1 3781 
+psychologically Film.txt 1 2556 
+per Film.txt 3 6071 6134 7315 
+prop Film.txt 1 4979 
+innovation Film.txt 1 1882 
+epic Film.txt 1 5688 
+recutting Film.txt 1 5117 
+cgi Film.txt 1 151 
+be Film.txt 47 331 440 731 750 787 803 1214 1231 1293 1606 2315 2797 2881 3111 3197 3831 3850 3923 3942 4044 4110 4395 4495 4527 4926 4988 5200 5238 5290 5392 5468 5530 5567 5591 5607 5697 6112 6180 6215 6229 6270 6516 6532 6791 6874 7137 7156 
+run Film.txt 2 5009 7515 
+confidence Film.txt 1 3074 
+blockbusters Film.txt 2 3238 3950 
+negatives Film.txt 1 6348 
+lasts Film.txt 1 5441 
+become Film.txt 5 365 2222 3638 4635 6832 
+mid-1960s Film.txt 1 2033 
+intense Film.txt 3 1274 2993 5053 
+shine Film.txt 1 1272 
+1,200 Film.txt 1 1357 
+entrepreneurs Film.txt 1 3315 
+range Film.txt 1 5492 
+dialog Film.txt 1 379 
+seeing Film.txt 2 3113 3262 
+osamu Film.txt 1 7450 
+attends Film.txt 1 5025 
+into Film.txt 13 380 437 928 975 1283 1492 1986 2207 2685 2702 2799 5917 6291 
+within Film.txt 1 3774 
+primarily Film.txt 1 5503 
+frames Film.txt 5 415 6070 6133 7297 7314 
+france Film.txt 1 3275 
+medium-to-large Film.txt 1 5912 
+conceivably Film.txt 1 6837 
+handles Film.txt 1 5936 
+specifically Film.txt 4 3370 3764 3980 4345 
+analyze Film.txt 1 1114 
+sections Film.txt 1 5122 
+considerably Film.txt 1 3785 
+bazin Film.txt 1 2322 
+refilming Film.txt 1 5120 
+link Film.txt 1 2417 
+repeatedly Film.txt 1 7272 
+reel Film.txt 2 1222 6029 
+considerable Film.txt 1 3043 
+directed Film.txt 1 5001 
+capitalized Film.txt 1 4176 
+us Film.txt 5 1803 2050 4293 4422 5548 
+continuously Film.txt 1 823 
+obsolescence Film.txt 1 6376 
+similar Film.txt 3 1258 6482 7023 
+called Film.txt 15 64 414 486 501 2724 3128 3398 3832 3851 4008 4087 4094 4686 4835 5508 
+formalist Film.txt 1 2294 
+associated Film.txt 1 3647 
+big-budget Film.txt 2 6628 6683 
+defined Film.txt 1 5733 
+influence Film.txt 2 2943 3044 
+amphitheater Film.txt 1 4383 
+post-production Film.txt 4 5760 5889 6775 6789 
+single Film.txt 2 1220 7398 
+1898 Film.txt 1 3340 
+home Film.txt 5 3622 4463 4876 6865 7178 
+1895 Film.txt 2 648 1373 
+psychoanalysis Film.txt 1 2362 
+1893 Film.txt 2 1323 1445 
+camcorders Film.txt 1 6747 
+actors Film.txt 9 685 2503 2510 2719 3379 4886 5679 5844 6706 
+revision Film.txt 1 5704 
+flammability Film.txt 1 6012 
+elements Film.txt 2 676 994 
+leni Film.txt 1 5543 
+problems Film.txt 1 6306 
+prepared Film.txt 1 1600 
+lens Film.txt 2 1207 1286 
+generated Film.txt 1 7259 
+allowing Film.txt 4 6164 6175 6198 6212 
+utterly Film.txt 1 4111 
+lang Film.txt 1 1697 
+muybridge Film.txt 3 51 1061 1109 
+independently Film.txt 2 3668 4538 
+practically Film.txt 1 1799 
+dvd Film.txt 3 3990 4470 7221 
+required Film.txt 1 6127 
+youtube Film.txt 1 6912 
+teaser Film.txt 1 5186 
+departments Film.txt 2 5918 5930 
+2000 Film.txt 1 6659 
+attaining Film.txt 1 3009 
+narrative Film.txt 2 1161 2571 
+sallie Film.txt 1 43 
+2008 Film.txt 1 5422 
+requires Film.txt 1 5640 
+having Film.txt 3 2598 3173 5319 
+once Film.txt 1 2839 
+saying Film.txt 1 4737 
+problem-prone Film.txt 1 2216 
+existing Film.txt 2 4645 6413 
+go Film.txt 5 1351 3904 3936 4875 5300 
+conservative Film.txt 1 6634 
+contributions Film.txt 1 1714 
+centers Film.txt 1 3446 
+compact Film.txt 1 1221 
+languages Film.txt 1 382 
+include Film.txt 5 555 4467 4970 6159 7201 
+indicating Film.txt 1 2631 
+garden Film.txt 1 606 
+wave Film.txt 4 2156 2162 2165 2168 
+wishes Film.txt 1 5628 
+continued Film.txt 2 1729 6375 
+categories Film.txt 3 2801 7535 7537 
+entire Film.txt 5 259 707 1304 1918 4207 
+magic Film.txt 2 739 997 
+notes Film.txt 1 7521 
+try Film.txt 1 2400 
+verdict Film.txt 1 2084 
+co-financing Film.txt 1 6647 
+teasers Film.txt 3 5432 5447 5466 
+video Film.txt 11 3994 4306 4464 6480 6491 6758 6812 6824 6844 6908 7012 
+makers Film.txt 1 3750 
+auspices Film.txt 1 3490 
+universities Film.txt 1 3202 
+edison Film.txt 2 1319 1331 
+plays Film.txt 2 672 4914 
+business Film.txt 3 5795 6598 6623 
+apparatus Film.txt 1 5633 
+marketed Film.txt 2 2872 4539 
+bergman Film.txt 1 2452 
+19th Film.txt 1 6157 
+indian Film.txt 2 2163 3460 
+volatile Film.txt 1 3606 
+retains Film.txt 1 462 
+3d Film.txt 3 1995 2211 2217 
+proliferation Film.txt 1 1968 
+led Film.txt 3 2297 2764 3483 
+respectively Film.txt 1 4068 
+commercial Film.txt 3 3344 3899 6038 
+blimps Film.txt 1 6185 
+len Film.txt 1 7499 
+objects Film.txt 3 110 876 884 
+separation Film.txt 1 6344 
+others Film.txt 4 1251 1721 2386 5599 
+safer Film.txt 1 6017 
+invented Film.txt 2 2466 3260 
+extreme Film.txt 1 3038 
+broken Film.txt 1 1490 
+technical Film.txt 1 3888 
+involved Film.txt 4 3478 4712 4958 5709 
+larger Film.txt 1 4214 
+35 Film.txt 1 6049 
+resulting Film.txt 3 1767 4091 7303 
+popcorn Film.txt 1 3749 
+opinion Film.txt 1 1422 
+makes Film.txt 2 2910 6378 
+composed Film.txt 1 1616 
+addresses Film.txt 1 2448 
+claim Film.txt 1 2984 
+black-and-white Film.txt 6 1837 1876 1970 2028 2096 6446 
+private Film.txt 2 1406 4314 
+privately Film.txt 1 3289 
+apply Film.txt 2 699 2268 
+festivals Film.txt 1 6894 
+use Film.txt 4 371 1006 2560 6342 
+from Film.txt 33 494 604 1145 1496 1624 1773 1831 1856 2310 2345 2392 2950 3008 3407 3745 4373 4461 4508 4657 4720 4754 5140 5317 5784 5839 5868 6097 6232 6592 6664 7072 7370 7462 
+next Film.txt 1 5461 
+few Film.txt 3 1019 1912 2062 
+little-known Film.txt 1 3059 
+camera Film.txt 14 137 618 1261 1505 2237 2243 4084 5662 5667 5851 6173 6189 6845 7294 
+historically Film.txt 2 505 7167 
+started Film.txt 2 1477 1972 
+becomes Film.txt 2 5719 5777 
+sister Film.txt 1 7533 
+actual Film.txt 1 132 
+women Film.txt 1 404 
+f Film.txt 1 1692 
+this Film.txt 17 2 98 968 1609 2230 2325 2348 2449 2517 2530 2570 2852 3092 3829 5735 7110 7434 
+vaudeville Film.txt 1 3363 
+reproduce Film.txt 2 2339 3998 
+reserved Film.txt 1 303 
+feature-length Film.txt 4 4228 4269 4279 5687 
+links Film.txt 1 7526 
+do Film.txt 2 3118 4398 
+process Film.txt 12 116 238 260 1893 1929 3258 4441 5052 6363 7097 7349 7433 
+purposes Film.txt 1 5092 
+pieces Film.txt 2 2661 7510 
+high Film.txt 1 6443 
+pieced Film.txt 1 2669 
+native Film.txt 1 3274 
+educational Film.txt 5 3585 5482 5504 5510 5593 
+united Film.txt 6 538 1653 3432 3565 3861 7446 
+decaying Film.txt 1 6392 
+six Film.txt 1 5462 
+varies Film.txt 1 3784 
+animal Film.txt 1 1122 
+instead Film.txt 1 592 
+ferdinand Film.txt 1 2364 
+comedy Film.txt 1 2876 
+stock Film.txt 6 503 5978 6019 6394 6530 6724 
+profile Film.txt 2 2505 2512 
+stop Film.txt 1 7283 
+philosophy Film.txt 2 2253 2395 
+gardner Film.txt 1 44 
+1888 Film.txt 1 623 
+realized Film.txt 1 5276 
+light Film.txt 1 1275 
+interrupted Film.txt 1 1639 
+allow Film.txt 2 1038 6970 
+produces Film.txt 2 3236 3466 
+move Film.txt 1 785 
+interpreted Film.txt 1 4954 
+produced Film.txt 11 613 819 1317 1384 3348 5469 6587 6953 7053 7256 7390 
+roundhay Film.txt 1 605 
+including Film.txt 7 523 1346 2158 4122 4381 5495 7180 
+waterworld Film.txt 1 3537 
+mass-marketed Film.txt 1 4435 
+industries Film.txt 1 3761 
+le Film.txt 2 621 1148 
+1880s Film.txt 2 962 1178 
+chosen Film.txt 1 6137 
+masses Film.txt 1 3296 
+home-life Film.txt 1 2695 
+frame/s Film.txt 4 6074 6091 6094 6099 
+re-shot Film.txt 1 5175 
+derivative Film.txt 4 3657 3686 3726 6978 
+popularized Film.txt 1 7441 
+practice Film.txt 2 2577 5331 
+kiss Film.txt 1 1348 
+front Film.txt 1 5848 
+day Film.txt 2 2844 4855 
+strive Film.txt 1 3541 
+worlds Film.txt 1 609 
+masters Film.txt 2 4980 6345 
+edit Film.txt 3 2642 6847 6852 
+sufficiently Film.txt 1 897 
+slide Film.txt 1 801 
+latham Film.txt 1 1378 
+warner Film.txt 1 6656 
+studios Film.txt 10 1332 2583 3493 5275 6336 6700 7373 7393 7458 7470 
+doing Film.txt 1 722 
+parties Film.txt 1 6972 
+programmed Film.txt 1 220 
+product Film.txt 4 3270 3333 3653 3769 
+books Film.txt 1 3147 
+static Film.txt 1 1454 
+eisenstein Film.txt 3 1691 2735 5563 
+filmmaking Film.txt 10 118 182 192 3524 3670 5612 6566 6919 6986 6989 
+special Film.txt 3 2699 5953 7292 
+out Film.txt 4 5312 5408 5458 6654 
+category Film.txt 1 4181 
+butch Film.txt 1 4692 
+entertainment Film.txt 3 340 3623 3897 
+critics Film.txt 7 2391 2820 2853 2886 2952 3125 3131 
+plural Film.txt 1 3812 
+red Film.txt 1 6352 
+cartoons Film.txt 2 1898 7460 
+clarify Film.txt 1 2402 
+approaches Film.txt 2 3156 6502 
+york Film.txt 1 1441 
+180-degree Film.txt 1 2537 
+compositions Film.txt 1 2644 
+receipts Film.txt 1 1943 
+interaction Film.txt 1 5925 
+replaying Film.txt 1 734 
+keep Film.txt 1 6461 
+conversation Film.txt 1 2529 
+length Film.txt 2 4238 7071 
+rudolf Film.txt 1 2299 
+storyboards Film.txt 1 687 
+powerful Film.txt 1 343 
+touring Film.txt 1 3281 
+improvements Film.txt 1 6153 
+hurdle Film.txt 1 6728 
+quality Film.txt 2 4478 6152 
+lacan Film.txt 1 2360 
+ferris Film.txt 2 4853 4863 
+flourish Film.txt 1 3507 
+firewire Film.txt 1 6802 
+system Film.txt 4 1112 2141 3420 6887 
+their Film.txt 21 1386 1403 2849 3174 3183 3265 3273 3308 3324 3388 3575 4462 4490 5318 5878 6374 6412 6442 6897 6926 7477 
+electrics Film.txt 1 5947 
+final Film.txt 3 2093 2721 6860 
+veoh Film.txt 1 6914 
+accompany Film.txt 1 291 
+shorts Film.txt 2 1345 4275 
+academy Film.txt 1 3550 
+completed Film.txt 1 5476 
+exactly Film.txt 1 6218 
+slides Film.txt 3 763 767 817 
+chemicals Film.txt 1 5993 
+accompaniment Film.txt 3 1561 4128 4154 
+july Film.txt 1 659 
+overwhelming Film.txt 2 2082 2576 
+photograph Film.txt 3 1044 1196 3327 
+eadweard Film.txt 2 50 1060 
+reacted Film.txt 1 2323 
+reproduction Film.txt 1 4003 
+negatively Film.txt 1 5154 
+providing Film.txt 1 3567 
+distinguished Film.txt 2 1772 5838 
+migration Film.txt 1 6535 
+exhibit Film.txt 3 3285 4194 4347 
+clip Film.txt 1 1623 
+viewer Film.txt 2 444 2550 
+wittgenstein Film.txt 1 2399 
+have Film.txt 30 364 384 393 2428 2841 2854 2920 3042 3052 3063 3071 3168 3501 3527 3681 4125 4140 4599 6030 6305 6328 6366 6475 6602 6763 6777 6831 7039 7050 7404 
+need Film.txt 2 4108 4482 
+blockbuster Film.txt 2 3007 3612 
+demonstration Film.txt 1 7064 
+viewed Film.txt 3 111 1232 7306 
+she Film.txt 1 6689 
+able Film.txt 1 6731 
+mechanism Film.txt 1 815 
+instance Film.txt 1 3988 
+pivotal Film.txt 1 1881 
+which Film.txt 29 294 755 818 1194 1268 1333 1366 1824 1853 2009 2518 2659 3021 3068 3465 4040 4329 4493 4509 4602 4815 4862 5110 5180 6147 6965 7099 7132 7249 
+subject Film.txt 1 4631 
+persistence Film.txt 2 456 907 
+worldwide Film.txt 1 367 
+lectures Film.txt 2 3597 5517 
+unless Film.txt 1 6686 
+who Film.txt 11 2465 2625 3132 4889 4913 5000 5021 5841 5845 6559 7120 
+1650s Film.txt 1 748 
+eight Film.txt 1 7242 
+device Film.txt 3 966 1243 2543 
+class Film.txt 1 7060 
+polyester Film.txt 1 5985 
+placement Film.txt 2 3654 3770 
+lowered Film.txt 2 6764 6780 
+movie Film.txt 21 27 37 66 244 541 2582 2986 3492 3616 3731 3803 3855 3863 3873 3978 4304 4436 4511 5013 7165 7463 
+internet-based Film.txt 1 6907 
+normally Film.txt 3 2832 3302 7112 
+fact Film.txt 1 496 
+atmosphere Film.txt 1 213 
+text Film.txt 1 2437 
+charles Film.txt 1 1716 
+rotating Film.txt 1 424 
+purely Film.txt 1 1532 
+planning Film.txt 1 5702 
+debate Film.txt 1 2981 
+staff Film.txt 2 5871 5909 
+redirect Film.txt 1 31 
+filmed Film.txt 3 2108 2713 3006 
+based Film.txt 7 1128 2584 3573 4004 4480 5123 5523 
+mumbai Film.txt 1 3456 
+hopeful Film.txt 1 6669 
+should Film.txt 2 4874 6111 
+entities Film.txt 1 5796 
+bases Film.txt 1 6450 
+tape Film.txt 2 4033 7219 
+employed Film.txt 2 979 5819 
+local Film.txt 2 3305 3314 
+meant Film.txt 1 1825 
+user-created Film.txt 1 5430 
+means Film.txt 8 149 216 809 833 1138 5617 6828 6870 
+mainly Film.txt 1 2828 
+photography Film.txt 3 5824 5940 6267 
+overall Film.txt 1 2887 
+joint Film.txt 1 6661 
+art-form Film.txt 1 2282 
+words Film.txt 2 285 3870 
+werent Film.txt 1 5265 
+procedures Film.txt 1 1845 
+evolution Film.txt 1 1447 
+calling Film.txt 1 1782 
+processed Film.txt 2 1278 6533 
+generations Film.txt 1 6423 
+view Film.txt 1 920 
+europe Film.txt 2 544 3321 
+frame Film.txt 4 432 603 4220 7251 
+computer Film.txt 6 153 6797 6866 7229 7262 7342 
+merits Film.txt 1 3577 
+operated Film.txt 1 831 
+phases Film.txt 2 870 5890 
+record Film.txt 2 6005 6167 
+arguably Film.txt 1 1391 
+tend Film.txt 3 2878 3195 6459 
+favor Film.txt 1 2086 
+written Film.txt 1 3004 
+progress Film.txt 1 1706 
+phenakistoscope Film.txt 1 856 
+comparable Film.txt 1 2769 
+interchangeably Film.txt 1 3877 
+importance Film.txt 1 6297 
+job Film.txt 1 6680 
+key Film.txt 1 3511 
+interchangeable Film.txt 1 4097 
+swift Film.txt 1 1793 
+buster Film.txt 1 1718 
+la Film.txt 1 1151 
+recorders Film.txt 1 3429 
+presentations Film.txt 1 6293 
+etc Film.txt 1 7194 
+figures Film.txt 1 3757 
+wall Film.txt 1 4356 
+babelsberg Film.txt 1 3216 
+sequences Film.txt 3 1008 1067 1909 
+leads Film.txt 1 4797 
+addition Film.txt 1 3595 
+slowly Film.txt 1 1956 
+hindi Film.txt 1 3463 
+copied Film.txt 1 6330 
+general Film.txt 2 554 2793 
+painted Film.txt 2 988 7505 
+sufficient Film.txt 2 4476 6150 
+acetate Film.txt 1 5983 
+angles Film.txt 1 1500 
+improved Film.txt 1 1054 
+repetition Film.txt 1 2515 
+present Film.txt 2 2557 6273 
+divisions Film.txt 1 3700 
+novel Film.txt 1 5527 
+glossary Film.txt 1 93 
+structuralist Film.txt 1 2379 
+auguste Film.txt 1 1396 
+appearance Film.txt 2 874 1859 
+choices Film.txt 1 6635 
+will Film.txt 2 2958 5199 
+stalin Film.txt 1 5561 
+promoted Film.txt 1 3019 
+aesthetics Film.txt 1 3926 
+almost Film.txt 3 3253 5693 6672 
+thus Film.txt 2 2313 6144 
+site Film.txt 1 630 
+hardware Film.txt 1 6785 
+audiences Film.txt 3 686 1551 1984 
+education Film.txt 2 5477 5496 
+perhaps Film.txt 1 2716 
+began Film.txt 2 2283 4023 
+parts Film.txt 2 3450 6241 
+largest Film.txt 1 3468 
+panning Film.txt 1 3087 
+outbreak Film.txt 1 1642 
+difficult Film.txt 1 6881 
+phi Film.txt 2 488 7327 
+material Film.txt 1 6959 
+premiere Film.txt 1 5100 
+upon Film.txt 2 3261 4481 
+effect Film.txt 3 453 485 3166 
+long-term Film.txt 1 6387 
+cinematographer Film.txt 1 5791 
+student Film.txt 1 5044 
+frequently Film.txt 2 3972 4800 
+mlis Film.txt 1 1147 
+judgment Film.txt 1 2888 
+scholars Film.txt 1 2806 
+labor-intensive Film.txt 1 7335 
+off Film.txt 2 3744 4856 
+reflection Film.txt 2 2482 2615 
+i Film.txt 1 1646 
+adapted Film.txt 1 7455 
+colour Film.txt 1 1813 
+well Film.txt 4 2996 3026 5380 6500 
+overshadowed Film.txt 1 3361 
+patterns Film.txt 1 827 
+english Film.txt 4 3790 3828 4318 4419 
+position Film.txt 1 438 
+creators Film.txt 2 5786 7036 
+drawing Film.txt 1 926 
+usual Film.txt 1 1775 
+restore Film.txt 1 6371 
+heavily Film.txt 1 3018 
+increasingly Film.txt 1 6203 
+semiotics Film.txt 1 2368 
+sources Film.txt 1 7032 
+stored Film.txt 1 1217 
+hand-operated Film.txt 1 804 
+griffith Film.txt 2 1671 1710 
+buellers Film.txt 1 4854 
+rapid Film.txt 3 113 898 1200 
+cinematography Film.txt 1 175 
+onward Film.txt 1 4756 
+transparent Film.txt 1 5981 
+add Film.txt 1 3303 
+other Film.txt 35 22 34 167 225 288 381 516 778 794 814 894 1466 1501 1843 2370 2389 2817 3045 3349 3444 3772 3841 4076 4251 4274 4377 4934 4944 5931 6573 6971 6995 7151 7195 7457 
+usage Film.txt 2 3793 4294 
+increased Film.txt 2 1940 1957 
+articles Film.txt 4 2249 3184 5481 7087 
+famously Film.txt 1 2453 
+historic Film.txt 2 4224 6303 
+prominent Film.txt 1 3560 
+loss Film.txt 1 4499 
+bogdanovich Film.txt 1 2126 
+georges Film.txt 1 1146 
+success Film.txt 2 3011 3030 
+journalist Film.txt 1 3123 
+martin Film.txt 2 2128 4948 
+simply Film.txt 1 1452 
+starred Film.txt 1 5003 
+works Film.txt 6 2795 3544 4092 5568 5783 6979 
+audible Film.txt 2 4120 4141 
+gaining Film.txt 1 6497 
+because Film.txt 6 450 1029 5336 6138 6509 7350 
+woodville Film.txt 1 1377 
+classical Film.txt 1 2590 
+sequence Film.txt 6 866 939 1096 1201 2494 6276 
+footage Film.txt 1 6510 
+financed Film.txt 1 2997 
+growth Film.txt 1 6607 
+export Film.txt 1 3328 
+band Film.txt 1 983 
+proper Film.txt 1 6466 
+gave Film.txt 1 2349 
+peter Film.txt 1 2125 
+employment Film.txt 1 3636 
+recognition Film.txt 1 3568 
+oneself Film.txt 1 5041 
+happens Film.txt 2 4322 4817 
+lead Film.txt 2 6632 6709 
+avoid Film.txt 1 3085 
+does Film.txt 2 445 4652 
+passion Film.txt 1 3337 
+assuming Film.txt 1 6465 
+leader Film.txt 1 1337 
+demonstrated Film.txt 1 861 
+noise Film.txt 1 1555 
+coated Film.txt 1 5987 
+cellulose Film.txt 2 5994 6325 
+although Film.txt 4 1846 3868 6373 7467 
+stage Film.txt 1 4380 
+gained Film.txt 1 1541 
+about Film.txt 9 5 1104 3148 3280 3627 3924 3943 5454 7529 
+rare Film.txt 1 2112 
+extension Film.txt 1 4198 
+high-end Film.txt 1 6864 
+location Film.txt 1 930 
+introduced Film.txt 2 2001 6118 
+projectors Film.txt 2 6067 6495 
+software Film.txt 2 6787 6814 
+own Film.txt 2 1404 2430 
+zooms Film.txt 1 2602 
+lune Film.txt 1 1152 
+strategy Film.txt 1 7125 
+1987 Film.txt 1 6667 
+1985 Film.txt 1 6749 
+additional Film.txt 1 3332 
+artifacts Film.txt 1 313 
+transfer Film.txt 1 4010 
+noticed Film.txt 1 6899 
+predating Film.txt 1 1417 
+buy Film.txt 1 3323 
+north Film.txt 1 1975 
+sequel Film.txt 1 4601 
+but Film.txt 17 442 1535 1932 2034 2054 3806 3835 4113 4454 4678 5347 5864 6008 6236 6742 6950 7043 
+subjective Film.txt 1 5608 
+construction Film.txt 1 4963 
+goals Film.txt 1 5494 
+mclaren Film.txt 1 7498 
+editing Film.txt 5 1464 2565 2760 6522 6813 
+viewers Film.txt 2 5397 5405 
+he Film.txt 1 6687 
+made Film.txt 17 48 1229 1371 1746 1867 1953 2006 2026 2115 3589 4286 5541 5559 7103 7140 7240 7492 
+wise Film.txt 1 3098 
+whether Film.txt 2 2925 7258 
+backfires Film.txt 1 3094 
+placed Film.txt 2 788 2701 
+stories Film.txt 1 208 
+distribution Film.txt 11 263 4523 4576 5706 5762 6591 6877 6903 7085 7089 7094 
+minutes Film.txt 2 1210 4241 
+display Film.txt 1 913 
+non-existent Film.txt 1 7077 
+universal Film.txt 1 358 
+generating Film.txt 1 7329 
+well-defined Film.txt 1 5920 
+shooting Film.txt 3 4073 5945 6233 
+compared Film.txt 1 4221 
+variety Film.txt 4 653 1120 6807 7211 
+scholarly Film.txt 2 578 3188 
+old Film.txt 1 1811 
+book Film.txt 3 3914 3933 7020 
+misconceptions Film.txt 1 2403 
+predominant Film.txt 1 3866 
+illusion Film.txt 3 87 100 7320 
+repeat Film.txt 1 4777 
+star Film.txt 5 2121 3755 4892 4897 6736 
+additionally Film.txt 1 3809 
+stan Film.txt 2 5670 7502 
+vaguely Film.txt 1 2626 
+rule Film.txt 3 2013 2538 2580 
+portion Film.txt 1 298 
+extras Film.txt 1 5680 
+ticketed Film.txt 1 4255 

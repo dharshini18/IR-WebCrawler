@@ -1,0 +1,445 @@
+all Solar_core.txt 3 314 371 1311 
+chain Solar_core.txt 6 187 720 729 732 738 760 
+suns Solar_core.txt 11 144 151 196 284 310 374 516 672 1167 1237 1273 
+four Solar_core.txt 2 175 1131 
+91 Solar_core.txt 1 648 
+layers Solar_core.txt 5 415 560 568 583 1017 
+increase Solar_core.txt 2 1098 1141 
+zone Solar_core.txt 4 1182 1184 1217 1229 
+reverting Solar_core.txt 1 1048 
+to Solar_core.txt 28 18 23 26 107 125 263 416 464 484 514 555 566 692 767 800 807 827 831 1004 1037 1050 1140 1165 1170 1210 1245 1266 1314 
+compost Solar_core.txt 2 487 511 
+very Solar_core.txt 1 1304 
+every Solar_core.txt 2 354 1146 
+difference Solar_core.txt 1 578 
+categories Solar_core.txt 2 1356 1358 
+cool Solar_core.txt 1 1038 
+level Solar_core.txt 1 1053 
+occurs Solar_core.txt 1 1105 
+large Solar_core.txt 1 537 
+this Solar_core.txt 10 288 577 656 762 931 946 952 1018 1084 1106 
+299 Solar_core.txt 1 343 
+small Solar_core.txt 1 404 
+276.5 Solar_core.txt 1 467 
+force Solar_core.txt 2 806 862 
+oscillation Solar_core.txt 1 1350 
+core Solar_core.txt 29 1 12 77 124 133 158 268 296 368 393 401 444 480 527 594 606 665 776 798 988 1003 1036 1073 1091 1114 1209 1265 1274 1299 
+protons Solar_core.txt 1 338 
+zero Solar_core.txt 1 313 
+traveling Solar_core.txt 1 257 
+further Solar_core.txt 1 956 
+estimated Solar_core.txt 3 90 461 1120 
+even Solar_core.txt 1 789 
+sun Solar_core.txt 15 10 15 38 167 207 249 331 457 505 530 563 1056 1123 1317 1331 
+68-70 Solar_core.txt 1 117 
+current Solar_core.txt 1 1171 
+net Solar_core.txt 1 586 
+increasing Solar_core.txt 1 1042 
+contrast Solar_core.txt 1 846 
+temperatures Solar_core.txt 3 552 607 795 
+escaping Solar_core.txt 1 1286 
+here Solar_core.txt 1 634 
+atoms Solar_core.txt 4 879 934 1070 1079 
+water Solar_core.txt 1 57 
+helium-3 Solar_core.txt 1 839 
+mev Solar_core.txt 1 886 
+active Solar_core.txt 1 486 
+i.e Solar_core.txt 1 322 
+100 Solar_core.txt 1 1147 
+33 Solar_core.txt 2 126 306 
+k Solar_core.txt 1 687 
+30 Solar_core.txt 2 677 1126 
+34 Solar_core.txt 1 141 
+changes Solar_core.txt 1 1244 
+involves Solar_core.txt 1 932 
+via Solar_core.txt 2 376 859 
+ions Solar_core.txt 1 84 
+visible Solar_core.txt 1 1282 
+decrease Solar_core.txt 1 264 
+neutrino Solar_core.txt 1 1349 
+total Solar_core.txt 2 869 928 
+unit Solar_core.txt 1 437 
+from Solar_core.txt 11 20 116 391 448 965 1083 1175 1207 1222 1235 1264 
+proceed Solar_core.txt 1 858 
+would Solar_core.txt 3 1000 1019 1033 
+distinct Solar_core.txt 2 171 705 
+contains Solar_core.txt 1 140 
+direction Solar_core.txt 1 970 
+two Solar_core.txt 2 170 704 
+next Solar_core.txt 1 842 
+therefore Solar_core.txt 1 982 
+until Solar_core.txt 1 299 
+more Solar_core.txt 1 1007 
+outputs Solar_core.txt 1 522 
+99 Solar_core.txt 2 160 669 
+adult Solar_core.txt 1 502 
+known Solar_core.txt 1 756 
+must Solar_core.txt 1 410 
+tunnel Solar_core.txt 1 823 
+protonproton Solar_core.txt 1 737 
+g/cm Solar_core.txt 3 50 638 694 
+theories Solar_core.txt 1 1336 
+can Solar_core.txt 2 814 954 
+drops Solar_core.txt 2 115 292 
+0.8 Solar_core.txt 1 148 
+links Solar_core.txt 1 1354 
+escapes Solar_core.txt 1 422 
+process Solar_core.txt 5 942 953 1107 1243 1260 
+0.2 Solar_core.txt 1 25 
+high Solar_core.txt 1 792 
+celsius Solar_core.txt 1 72 
+hydrogen Solar_core.txt 13 118 127 176 216 232 256 259 290 307 339 348 878 1078 
+convection Solar_core.txt 1 1246 
+rays Solar_core.txt 1 1157 
+travel Solar_core.txt 2 411 1205 
+1 Solar_core.txt 2 881 1145 
+varies Solar_core.txt 1 445 
+may Solar_core.txt 5 178 531 712 748 905 
+after Solar_core.txt 2 240 266 
+high-energy Solar_core.txt 1 1154 
+law Solar_core.txt 1 550 
+a Solar_core.txt 16 46 62 88 279 302 359 403 510 544 991 994 1029 1096 1133 1338 1345 
+short Solar_core.txt 1 921 
+liquid Solar_core.txt 1 56 
+light Solar_core.txt 1 1283 
+so Solar_core.txt 2 833 1309 
+definitions Solar_core.txt 1 668 
+produces Solar_core.txt 1 369 
+gradual Solar_core.txt 1 1097 
+over Solar_core.txt 1 1110 
+years Solar_core.txt 6 788 854 1136 1149 1221 1321 
+produced Solar_core.txt 5 396 496 654 675 1328 
+thermal Solar_core.txt 1 429 
+through Solar_core.txt 2 412 1344 
+during Solar_core.txt 2 1060 1277 
+kinetic Solar_core.txt 1 427 
+still Solar_core.txt 1 275 
+its Solar_core.txt 3 470 1051 1061 
+6.9 Solar_core.txt 1 618 
+before Solar_core.txt 3 420 811 1285 
+24 Solar_core.txt 1 659 
+25 Solar_core.txt 2 281 1232 
+27 Solar_core.txt 2 65 641 
+outer Solar_core.txt 5 123 567 664 1016 1212 
+decay Solar_core.txt 1 810 
+joules Solar_core.txt 1 364 
+inward Solar_core.txt 1 258 
+hot Solar_core.txt 1 81 
+decreases Solar_core.txt 1 252 
+better Solar_core.txt 1 1346 
+primordial Solar_core.txt 1 229 
+degrees Solar_core.txt 2 67 71 
+convective Solar_core.txt 1 1228 
+400 Solar_core.txt 1 853 
+hidden Solar_core.txt 1 1357 
+main Solar_core.txt 3 735 890 1065 
+might Solar_core.txt 1 540 
+eventually Solar_core.txt 4 179 713 749 906 
+bang Solar_core.txt 1 243 
+they Solar_core.txt 4 822 1080 1224 1303 
+half Solar_core.txt 1 1134 
+not Solar_core.txt 1 937 
+26.7 Solar_core.txt 1 885 
+26.5 Solar_core.txt 1 99 
+brightness Solar_core.txt 1 1143 
+edit Solar_core.txt 8 205 334 734 889 972 1152 1352 1355 
+each Solar_core.txt 2 825 1268 
+reactions Solar_core.txt 7 172 706 843 857 874 1161 1296 
+weight Solar_core.txt 1 1013 
+generation Solar_core.txt 1 588 
+energy Solar_core.txt 10 198 332 357 395 430 434 652 870 930 1150 
+reduce Solar_core.txt 1 1020 
+beyond Solar_core.txt 1 676 
+out Solar_core.txt 1 407 
+space Solar_core.txt 2 424 1288 
+adhere Solar_core.txt 1 815 
+particles Solar_core.txt 1 432 
+7 Solar_core.txt 1 685 
+cause Solar_core.txt 3 808 1001 1034 
+correct Solar_core.txt 1 1025 
+turning Solar_core.txt 1 876 
+million Solar_core.txt 9 66 70 74 344 557 611 686 1148 1281 
+free Solar_core.txt 1 1176 
+formation Solar_core.txt 1 239 
+earliest Solar_core.txt 1 237 
+enormous Solar_core.txt 1 517 
+starts Solar_core.txt 1 262 
+times Solar_core.txt 1 52 
+fallen Solar_core.txt 1 691 
+interact Solar_core.txt 1 1306 
+speeds Solar_core.txt 1 1108 
+first Solar_core.txt 2 741 782 
+number Solar_core.txt 1 1325 
+reaches Solar_core.txt 1 301 
+one Solar_core.txt 6 182 716 752 772 786 909 
+reached Solar_core.txt 1 272 
+perturbation Solar_core.txt 1 1027 
+temperature Solar_core.txt 4 63 472 573 683 
+top Solar_core.txt 1 967 
+trillion Solar_core.txt 1 96 
+system Solar_core.txt 1 43 
+approximately Solar_core.txt 1 335 
+fahrenheit Solar_core.txt 1 68 
+2 Solar_core.txt 1 316 
+that Solar_core.txt 3 643 836 1121 
+pascals Solar_core.txt 1 101 
+released Solar_core.txt 4 197 871 1158 1292 
+part Solar_core.txt 2 35 405 
+than Solar_core.txt 5 492 509 924 1076 1335 
+diffusion Solar_core.txt 1 1200 
+distance Solar_core.txt 2 447 1234 
+determines Solar_core.txt 1 585 
+19 Solar_core.txt 1 596 
+rate Solar_core.txt 9 360 696 974 985 997 1023 1032 1045 1101 
+matter Solar_core.txt 1 1308 
+were Solar_core.txt 2 1081 1332 
+toward Solar_core.txt 1 824 
+powers Solar_core.txt 1 581 
+result Solar_core.txt 4 180 714 750 907 
+and Solar_core.txt 25 39 61 85 199 227 233 286 489 574 589 613 688 722 794 838 852 863 1008 1024 1028 1039 1046 1132 1137 1247 
+roughly Solar_core.txt 1 342 
+contents Solar_core.txt 1 203 
+ray Solar_core.txt 1 1270 
+paths Solar_core.txt 1 1164 
+conversion Solar_core.txt 2 333 435 
+responsible Solar_core.txt 1 191 
+able Solar_core.txt 1 1313 
+also Solar_core.txt 2 532 1291 
+take Solar_core.txt 1 1162 
+which Solar_core.txt 15 174 189 217 539 584 620 708 744 816 901 935 1092 1103 1251 1340 
+photosphere Solar_core.txt 3 210 419 1267 
+neutrinos Solar_core.txt 3 409 1289 1327 
+most Solar_core.txt 2 193 770 
+beta Solar_core.txt 1 809 
+successive Solar_core.txt 1 414 
+proton-proton Solar_core.txt 5 186 719 728 731 759 
+self-correcting Solar_core.txt 1 992 
+watts/m Solar_core.txt 1 468 
+radiating Solar_core.txt 1 565 
+considered Solar_core.txt 1 17 
+consumed Solar_core.txt 1 938 
+later Solar_core.txt 1 856 
+deuterium Solar_core.txt 1 837 
+electrons Solar_core.txt 2 86 1177 
+atmosphere Solar_core.txt 1 224 
+solar Solar_core.txt 17 0 29 42 113 138 155 418 450 593 599 630 651 680 775 929 1180 1189 
+random Solar_core.txt 1 1173 
+brighter Solar_core.txt 1 1127 
+only Solar_core.txt 3 147 569 848 
+equilibrium Solar_core.txt 2 971 993 
+do Solar_core.txt 1 832 
+dominant Solar_core.txt 1 1241 
+10 Solar_core.txt 6 337 363 554 610 693 925 
+overall Solar_core.txt 2 481 941 
+despite Solar_core.txt 1 469 
+15 Solar_core.txt 3 69 73 556 
+is Solar_core.txt 33 16 32 78 190 211 218 274 297 324 383 460 482 490 506 576 617 621 635 653 674 684 699 755 761 765 784 884 912 989 1093 1119 1194 1275 
+bar Solar_core.txt 1 94 
+densities Solar_core.txt 1 793 
+h Solar_core.txt 3 710 746 903 
+w/m Solar_core.txt 1 619 
+traversed Solar_core.txt 1 298 
+predicted Solar_core.txt 2 542 1337 
+where Solar_core.txt 3 682 1191 1239 
+gravitational Solar_core.txt 1 1087 
+up Solar_core.txt 2 1006 1109 
+see Solar_core.txt 1 726 
+radius Solar_core.txt 12 30 139 156 269 280 285 312 600 657 662 681 1190 
+are Solar_core.txt 12 169 349 564 608 703 847 864 936 949 1074 1290 1312 
+close Solar_core.txt 1 829 
+outward Solar_core.txt 2 387 1254 
+2.5 Solar_core.txt 1 623 
+peta Solar_core.txt 1 100 
+nuclear Solar_core.txt 2 861 976 
+wikipedia Solar_core.txt 1 2 
+enough Solar_core.txt 1 830 
+between Solar_core.txt 1 582 
+speed Solar_core.txt 1 1249 
+recently Solar_core.txt 1 1342 
+extend Solar_core.txt 1 19 
+weak Solar_core.txt 1 805 
+however Solar_core.txt 3 244 559 1054 
+rapidly Solar_core.txt 2 265 293 
+understanding Solar_core.txt 1 1347 
+reaction Solar_core.txt 9 188 721 730 733 739 742 763 783 898 
+last Solar_core.txt 2 844 1130 
+many Solar_core.txt 2 413 1320 
+according Solar_core.txt 1 1169 
+against Solar_core.txt 1 1011 
+simple Solar_core.txt 1 545 
+tons Solar_core.txt 1 346 
+65 Solar_core.txt 1 323 
+article Solar_core.txt 2 736 891 
+considering Solar_core.txt 1 535 
+fused Solar_core.txt 1 1082 
+3.86 Solar_core.txt 1 362 
+second Solar_core.txt 3 355 366 897 
+3.84 Solar_core.txt 1 95 
+radiative Solar_core.txt 2 1181 1216 
+due Solar_core.txt 3 106 513 799 
+been Solar_core.txt 1 271 
+much Solar_core.txt 3 507 866 1333 
+hottest Solar_core.txt 1 34 
+core/sun Solar_core.txt 1 130 
+releasing Solar_core.txt 1 356 
+photon Solar_core.txt 2 1199 1204 
+external Solar_core.txt 1 1353 
+resisted Solar_core.txt 1 1094 
+present Solar_core.txt 1 1052 
+unlike Solar_core.txt 1 1301 
+these Solar_core.txt 2 855 873 
+value Solar_core.txt 1 627 
+will Solar_core.txt 1 1138 
+near Solar_core.txt 1 601 
+almost Solar_core.txt 3 370 700 1310 
+metric Solar_core.txt 1 345 
+thus Solar_core.txt 1 865 
+it Solar_core.txt 8 31 44 273 300 421 575 1049 1118 
+surface Solar_core.txt 1 1168 
+in Solar_core.txt 31 173 181 399 442 572 579 591 707 715 743 751 773 819 840 875 900 908 939 968 986 990 1071 1099 1128 1142 1159 1178 1258 1271 1297 1329 
+carbon Solar_core.txt 2 933 947 
+helium Solar_core.txt 6 183 234 325 352 882 1069 
+intense Solar_core.txt 1 471 
+radiation Solar_core.txt 2 580 1196 
+cross Solar_core.txt 1 1225 
+same Solar_core.txt 1 220 
+several Solar_core.txt 1 1280 
+composition Solar_core.txt 4 110 204 221 230 
+higher Solar_core.txt 1 996 
+nil Solar_core.txt 1 701 
+kelvin Solar_core.txt 3 75 558 612 
+scale Solar_core.txt 1 1202 
+necessity Solar_core.txt 1 802 
+expand Solar_core.txt 1 1009 
+cycle Solar_core.txt 8 202 725 888 893 895 916 919 948 
+lower Solar_core.txt 4 491 571 1031 1334 
+center Solar_core.txt 11 22 60 105 131 311 328 451 454 631 646 1238 
+fusion Solar_core.txt 18 108 163 251 377 398 441 458 526 614 698 977 984 999 1022 1044 1104 1160 1295 
+thought Solar_core.txt 1 766 
+edge Solar_core.txt 2 603 1213 
+sets Solar_core.txt 1 1197 
+the Solar_core.txt 150 6 9 11 14 21 33 37 41 53 59 76 104 109 112 122 129 132 137 143 150 157 162 166 185 195 200 206 209 219 223 228 236 241 248 253 267 283 289 295 309 318 327 330 367 373 378 381 386 392 394 400 417 433 443 449 453 456 473 479 493 498 504 515 519 525 529 536 548 562 592 598 602 605 625 629 632 645 650 661 663 671 679 695 723 740 758 769 774 777 781 791 797 801 804 812 820 834 841 860 868 896 914 927 940 943 959 962 966 973 983 987 1002 1012 1015 1021 1026 1035 1043 1055 1064 1068 1072 1077 1086 1090 1100 1113 1122 1129 1153 1166 1179 1183 1188 1198 1208 1211 1215 1227 1230 1236 1240 1248 1259 1272 1294 1298 1316 1324 1330 
+less Solar_core.txt 1 923 
+rest Solar_core.txt 1 379 
+human Solar_core.txt 1 503 
+scattering Solar_core.txt 2 1174 1278 
+density Solar_core.txt 8 47 54 477 495 616 633 689 981 
+photons Solar_core.txt 3 1155 1284 1302 
+except Solar_core.txt 1 402 
+4 Solar_core.txt 5 709 745 850 877 902 
+has Solar_core.txt 4 45 270 690 1124 
+plasma Solar_core.txt 3 83 114 320 
+remaining Solar_core.txt 2 319 1231 
+resolved Solar_core.txt 1 1343 
+psi Solar_core.txt 1 97 
+depends Solar_core.txt 1 978 
+big Solar_core.txt 1 242 
+carbon-nitrogen-oxygen Solar_core.txt 1 915 
+increases Solar_core.txt 2 250 1085 
+265 Solar_core.txt 1 92 
+denser Solar_core.txt 2 1075 1117 
+immediately Solar_core.txt 1 1318 
+occurring Solar_core.txt 1 523 
+follows Solar_core.txt 1 951 
+continue Solar_core.txt 1 1139 
+become Solar_core.txt 1 1125 
+nucleons Solar_core.txt 1 813 
+right Solar_core.txt 1 963 
+sequence Solar_core.txt 3 764 899 1066 
+some Solar_core.txt 2 647 667 
+3.6 Solar_core.txt 1 336 
+understood Solar_core.txt 1 957 
+jupiter Solar_core.txt 1 226 
+escape Solar_core.txt 1 1315 
+indirect Solar_core.txt 1 1163 
+happens Solar_core.txt 1 818 
+gradually Solar_core.txt 2 1057 1115 
+rarely Solar_core.txt 2 817 1305 
+dense Solar_core.txt 1 82 
+for Solar_core.txt 6 192 551 780 803 920 1319 
+0.24 Solar_core.txt 1 154 
+0.25 Solar_core.txt 1 27 
+measurements Solar_core.txt 1 1322 
+0.20 Solar_core.txt 1 135 
+per Solar_core.txt 2 365 436 
+stefanboltzmann Solar_core.txt 1 549 
+cno Solar_core.txt 6 201 724 887 892 894 918 
+be Solar_core.txt 6 465 533 541 768 828 955 
+power Solar_core.txt 10 164 439 459 475 494 521 538 587 615 673 
+seconds Solar_core.txt 1 851 
+illustration Solar_core.txt 1 4 
+pressure Solar_core.txt 2 89 1088 
+70 Solar_core.txt 1 277 
+by Solar_core.txt 16 119 214 385 397 408 462 497 543 666 845 872 958 1095 1144 1195 1293 
+73-74 Solar_core.txt 1 213 
+on Solar_core.txt 4 961 980 1063 1089 
+about Solar_core.txt 12 24 212 276 305 466 609 622 636 640 785 849 1219 
+carried Solar_core.txt 1 406 
+of Solar_core.txt 60 5 8 13 28 36 40 48 55 64 80 111 136 142 149 161 165 194 225 231 255 282 304 317 329 347 361 372 380 389 431 440 455 478 500 528 547 553 561 597 604 624 642 649 660 670 678 697 796 926 945 975 998 1014 1187 1214 1233 1261 1323 1326 1348 
+75 Solar_core.txt 1 1186 
+slightly Solar_core.txt 5 570 995 1010 1030 1041 
+or Solar_core.txt 6 98 341 428 639 917 1203 
+gamma Solar_core.txt 2 1156 1269 
+ppa Solar_core.txt 1 102 
+into Solar_core.txt 7 247 351 423 880 1226 1279 1287 
+within Solar_core.txt 3 655 658 1185 
+because Solar_core.txt 1 1067 
+references Solar_core.txt 1 1351 
+heated Solar_core.txt 1 384 
+transfer Solar_core.txt 6 388 590 1151 1193 1242 1263 
+there Solar_core.txt 3 168 702 1223 
+sunlight Solar_core.txt 1 426 
+low Solar_core.txt 2 303 520 
+fraction Solar_core.txt 3 254 261 291 
+was Solar_core.txt 1 1341 
+metabolism Solar_core.txt 1 499 
+considerably Solar_core.txt 1 1256 
+but Solar_core.txt 3 146 315 1300 
+volume Solar_core.txt 2 152 518 
+heat Solar_core.txt 6 375 390 1005 1192 1252 1262 
+heap Solar_core.txt 2 488 512 
+atom Solar_core.txt 1 883 
+with Solar_core.txt 2 446 1307 
+he Solar_core.txt 3 717 753 910 
+made Solar_core.txt 1 79 
+surprising Solar_core.txt 1 534 
+characteristic Solar_core.txt 1 778 
+inside Solar_core.txt 4 134 153 287 524 
+maximum Solar_core.txt 1 626 
+below Solar_core.txt 1 727 
+converted Solar_core.txt 2 350 1276 
+problem Solar_core.txt 1 1339 
+similar Solar_core.txt 1 483 
+called Solar_core.txt 1 913 
+strongly Solar_core.txt 1 979 
+150 Solar_core.txt 2 49 51 
+hotter Solar_core.txt 2 508 1059 
+generating Solar_core.txt 1 476 
+an Solar_core.txt 3 3 485 501 
+as Solar_core.txt 7 222 245 294 425 757 950 1112 
+at Solar_core.txt 20 58 87 91 103 121 128 208 235 278 308 326 358 452 595 628 644 790 1102 1218 1250 
+moves Solar_core.txt 1 1253 
+again Solar_core.txt 1 1047 
+40 Solar_core.txt 1 637 
+application Solar_core.txt 1 546 
+other Solar_core.txt 1 826 
+details Solar_core.txt 1 944 
+becomes Solar_core.txt 3 1058 1116 1255 
+170,000 Solar_core.txt 1 1220 
+shrink Solar_core.txt 1 1040 
+picture Solar_core.txt 1 960 
+star Solar_core.txt 2 238 382 
+generates Solar_core.txt 2 159 922 
+models Solar_core.txt 2 463 1172 
+important Solar_core.txt 1 771 
+nucleus Solar_core.txt 4 184 718 754 911 
+peak Solar_core.txt 1 474 
+structure Solar_core.txt 1 7 
+billion Solar_core.txt 3 93 787 1135 
+faster Solar_core.txt 2 867 1257 
+depth Solar_core.txt 1 246 
+mass Solar_core.txt 5 120 145 215 260 321 
+time Solar_core.txt 8 438 779 821 835 1062 1111 1201 1206 
+clockwise Solar_core.txt 1 969 
+nuclei Solar_core.txt 6 177 340 353 711 747 904 
+starting Solar_core.txt 1 964 

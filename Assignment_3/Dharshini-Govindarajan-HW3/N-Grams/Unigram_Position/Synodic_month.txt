@@ -1,0 +1,515 @@
+all Synodic_month.txt 3 309 1354 1553 
+syzygies Synodic_month.txt 1 45 
+customary Synodic_month.txt 1 735 
+suns Synodic_month.txt 1 1223 
+varying Synodic_month.txt 1 175 
+35.8 Synodic_month.txt 1 1283 
+earthmoon Synodic_month.txt 1 1231 
+month Synodic_month.txt 47 1 6 38 56 72 82 98 109 120 154 220 260 286 293 326 330 336 356 374 406 442 475 484 488 576 608 612 620 723 731 807 814 899 982 999 1005 1045 1058 1066 1069 1200 1270 1301 1307 1364 1399 1448 
+four Synodic_month.txt 1 267 
+7001273215820000000 Synodic_month.txt 1 787 
+7001275545510000000 Synodic_month.txt 1 906 
+transits Synodic_month.txt 1 1208 
+86,400 Synodic_month.txt 1 1491 
+whose Synodic_month.txt 1 941 
+depend Synodic_month.txt 1 950 
+calculate Synodic_month.txt 1 727 
+tt Synodic_month.txt 1 1473 
+young Synodic_month.txt 1 124 
+to Synodic_month.txt 36 194 223 333 386 416 418 493 518 547 584 598 602 699 726 736 744 770 772 779 878 880 993 1033 1035 1038 1040 1074 1079 1149 1259 1261 1316 1334 1343 1371 1402 
+analogous Synodic_month.txt 1 810 
+every Synodic_month.txt 2 1327 1394 
+difference Synodic_month.txt 2 67 1537 
+exact Synodic_month.txt 1 953 
+categories Synodic_month.txt 2 1581 1583 
+progression Synodic_month.txt 1 651 
+positions Synodic_month.txt 1 738 
+deals Synodic_month.txt 1 76 
+revolution Synodic_month.txt 2 891 1022 
+slower Synodic_month.txt 1 668 
+prediction Synodic_month.txt 1 936 
+approximation Synodic_month.txt 1 1457 
+rate Synodic_month.txt 2 662 688 
+crescent Synodic_month.txt 1 125 
+further Synodic_month.txt 1 583 
+sunodikos Synodic_month.txt 1 490 
+ecclesiastical Synodic_month.txt 1 185 
+waning Synodic_month.txt 1 161 
+sun Synodic_month.txt 13 136 504 523 549 571 596 641 654 995 1088 1408 1429 1570 
+while Synodic_month.txt 1 555 
+expressed Synodic_month.txt 2 1480 1501 
+international Synodic_month.txt 1 396 
+method Synodic_month.txt 1 64 
+full Synodic_month.txt 6 49 192 195 964 969 1379 
+annular Synodic_month.txt 1 949 
+following Synodic_month.txt 2 352 457 
+china Synodic_month.txt 1 454 
+others Synodic_month.txt 2 171 189 
+i.e Synodic_month.txt 2 496 1121 
+along Synodic_month.txt 1 760 
+eclipses Synodic_month.txt 1 938 
+change Synodic_month.txt 1 1461 
+extreme Synodic_month.txt 1 853 
+thirty Synodic_month.txt 1 228 
+3,233 Synodic_month.txt 1 869 
+30 Synodic_month.txt 1 207 
+usually Synodic_month.txt 1 331 
+draconic Synodic_month.txt 5 1044 1057 1072 1197 1300 
+diameter Synodic_month.txt 3 920 955 961 
+named Synodic_month.txt 1 236 
+regardless Synodic_month.txt 1 1350 
+egypt Synodic_month.txt 1 151 
+visible Synodic_month.txt 2 129 344 
+total Synodic_month.txt 1 947 
+use Synodic_month.txt 3 52 172 1514 
+from Synodic_month.txt 8 4 19 191 221 552 594 696 1544 
+takes Synodic_month.txt 7 413 613 765 874 1029 1256 1370 
+would Synodic_month.txt 1 1512 
+0 Synodic_month.txt 1 777 
+nine Synodic_month.txt 1 1024 
+two Synodic_month.txt 5 43 139 1112 1163 1206 
+live Synodic_month.txt 1 1080 
+therefore Synodic_month.txt 4 609 763 1026 1330 
+13.37 Synodic_month.txt 1 623 
+type Synodic_month.txt 2 440 930 
+until Synodic_month.txt 1 1418 
+more Synodic_month.txt 1 1484 
+formally Synodic_month.txt 1 288 
+becomes Synodic_month.txt 1 127 
+inclined Synodic_month.txt 1 1144 
+apparent Synodic_month.txt 4 24 919 954 960 
+5.14 Synodic_month.txt 1 1146 
+particular Synodic_month.txt 1 848 
+known Synodic_month.txt 5 30 230 402 804 1062 
+nodes Synodic_month.txt 5 1084 1132 1245 1286 1310 
+must Synodic_month.txt 1 579 
+crosses Synodic_month.txt 2 1117 1170 
+mythical Synodic_month.txt 1 1076 
+this Synodic_month.txt 12 74 439 500 526 755 799 842 892 926 929 1436 1476 
+eclipse Synodic_month.txt 3 728 1093 1098 
+longitude Synodic_month.txt 1 775 
+7001295305879810000 Synodic_month.txt 1 708 
+apoapsis Synodic_month.txt 1 670 
+calculation Synodic_month.txt 1 173 
+in Synodic_month.txt 35 33 88 99 113 145 149 209 211 217 255 280 369 448 455 481 499 566 632 686 847 867 1010 1023 1081 1139 1293 1312 1318 1424 1431 1475 1481 1502 1517 1550 
+india Synodic_month.txt 2 218 452 
+purposes Synodic_month.txt 1 312 
+sphere Synodic_month.txt 1 389 
+occur Synodic_month.txt 1 631 
+terrestrial Synodic_month.txt 1 1486 
+united Synodic_month.txt 1 282 
+rather Synodic_month.txt 1 829 
+divided Synodic_month.txt 2 226 460 
+1 Synodic_month.txt 1 1469 
+beat Synodic_month.txt 1 975 
+varies Synodic_month.txt 4 57 655 924 966 
+elliptical Synodic_month.txt 1 643 
+circular Synodic_month.txt 1 646 
+description Synodic_month.txt 1 95 
+may Synodic_month.txt 2 203 694 
+after Synodic_month.txt 4 132 237 572 988 
+southern Synodic_month.txt 1 1195 
+sophistication Synodic_month.txt 1 178 
+islamic Synodic_month.txt 1 147 
+apsis Synodic_month.txt 1 883 
+saros Synodic_month.txt 1 940 
+date Synodic_month.txt 2 234 252 
+law Synodic_month.txt 2 257 302 
+types Synodic_month.txt 3 323 353 1444 
+a Synodic_month.txt 29 36 81 94 97 258 270 404 419 494 497 574 581 633 831 1003 1030 1056 1064 1075 1094 1140 1251 1268 1299 1305 1397 1415 1454 1536 
+amid Synodic_month.txt 1 783 
+dragon Synodic_month.txt 1 1077 
+greek Synodic_month.txt 1 489 
+si Synodic_month.txt 1 1492 
+so Synodic_month.txt 4 201 674 928 1453 
+progressively Synodic_month.txt 1 1534 
+definitions Synodic_month.txt 2 79 92 
+began Synodic_month.txt 1 155 
+j2000.0 Synodic_month.txt 1 1468 
+tithis Synodic_month.txt 1 232 
+interpretation Synodic_month.txt 1 315 
+astronomical Synodic_month.txt 1 1446 
+move Synodic_month.txt 2 580 599 
+mainly Synodic_month.txt 1 85 
+years Synodic_month.txt 6 872 1025 1298 1329 1496 1504 
+through Synodic_month.txt 4 14 1161 1212 1373 
+its Synodic_month.txt 7 15 567 1115 1130 1374 1425 1574 
+27.212 Synodic_month.txt 1 1274 
+before Synodic_month.txt 2 141 169 
+27 Synodic_month.txt 5 431 464 791 910 1277 
+28 Synodic_month.txt 2 264 466 
+29 Synodic_month.txt 2 205 713 
+complex Synodic_month.txt 1 1565 
+degrees Synodic_month.txt 1 176 
+weeks Synodic_month.txt 2 268 279 
+main Synodic_month.txt 1 66 
+apogee Synodic_month.txt 1 862 
+them Synodic_month.txt 1 482 
+evening Synodic_month.txt 2 131 143 
+return Synodic_month.txt 6 417 771 879 1034 1039 1260 
+significance Synodic_month.txt 1 87 
+precess Synodic_month.txt 1 1311 
+precession Synodic_month.txt 6 751 819 822 866 1050 1052 
+effects Synodic_month.txt 1 1567 
+they Synodic_month.txt 1 459 
+not Synodic_month.txt 4 645 845 1412 1451 
+rotation Synodic_month.txt 2 1326 1529 
+day Synodic_month.txt 3 158 250 472 
+term Synodic_month.txt 2 328 1547 
+name Synodic_month.txt 1 1071 
+edit Synodic_month.txt 10 112 319 375 485 732 815 1046 1349 1578 1580 
+january Synodic_month.txt 1 1470 
+identified Synodic_month.txt 1 476 
+unpredictable Synodic_month.txt 1 1528 
+each Synodic_month.txt 1 471 
+quarter Synodic_month.txt 2 1378 1381 
+mean Synodic_month.txt 2 1359 1560 
+approximates Synodic_month.txt 1 826 
+finish Synodic_month.txt 1 1414 
+year Synodic_month.txt 3 635 658 812 
+sunrise Synodic_month.txt 2 170 242 
+since Synodic_month.txt 3 605 636 1497 
+7 Synodic_month.txt 2 433 793 
+587 Synodic_month.txt 1 710 
+earlier Synodic_month.txt 1 1339 
+582 Synodic_month.txt 1 789 
+linear Synodic_month.txt 1 1456 
+passes Synodic_month.txt 1 1160 
+ascending Synodic_month.txt 1 1175 
+five Synodic_month.txt 1 1443 
+ecliptic Synodic_month.txt 5 762 774 1119 1151 1172 
+7001273216610000000 Synodic_month.txt 1 427 
+fixed Synodic_month.txt 3 392 785 846 
+e.g Synodic_month.txt 2 144 179 
+starts Synodic_month.txt 1 121 
+could Synodic_month.txt 1 163 
+days Synodic_month.txt 18 140 200 208 265 430 615 702 712 790 870 909 1276 1296 1386 1396 1489 1507 1515 
+motion Synodic_month.txt 2 1405 1575 
+length Synodic_month.txt 3 210 904 1360 
+plane Synodic_month.txt 5 1120 1141 1152 1173 1234 
+wobbling Synodic_month.txt 1 25 
+first Synodic_month.txt 3 128 367 1377 
+12.37 Synodic_month.txt 1 628 
+one Synodic_month.txt 7 137 469 890 1021 1325 1390 1511 
+utilized Synodic_month.txt 1 62 
+reached Synodic_month.txt 1 1421 
+precisely Synodic_month.txt 1 1485 
+angular Synodic_month.txt 4 592 661 687 1227 
+earths Synodic_month.txt 4 637 650 750 1403 
+little Synodic_month.txt 2 582 1031 
+ancient Synodic_month.txt 1 150 
+system Synodic_month.txt 1 1232 
+their Synodic_month.txt 1 1559 
+returns Synodic_month.txt 2 1333 1342 
+calculations Synodic_month.txt 1 1510 
+exerted Synodic_month.txt 1 1220 
+way Synodic_month.txt 1 458 
+middle-eastern Synodic_month.txt 1 115 
+that Synodic_month.txt 4 83 142 1142 1317 
+relative Synodic_month.txt 1 1434 
+exactly Synodic_month.txt 2 263 277 
+lists Synodic_month.txt 1 1438 
+somewhat Synodic_month.txt 1 1527 
+tithi Synodic_month.txt 2 239 245 
+27.321 Synodic_month.txt 2 428 788 
+specify Synodic_month.txt 1 737 
+begins Synodic_month.txt 1 73 
+distance Synodic_month.txt 1 593 
+13 Synodic_month.txt 1 912 
+12 Synodic_month.txt 2 273 715 
+18 Synodic_month.txt 1 914 
+depends Synodic_month.txt 1 538 
+lunations Synodic_month.txt 1 693 
+were Synodic_month.txt 1 366 
+calendric Synodic_month.txt 1 1509 
+1925 Synodic_month.txt 1 306 
+and Synodic_month.txt 20 116 296 307 363 453 505 524 644 667 820 861 900 944 980 1053 1085 1185 1382 1533 1571 
+29.530 Synodic_month.txt 1 709 
+ran Synodic_month.txt 1 275 
+julian Synodic_month.txt 1 1503 
+torque Synodic_month.txt 1 1219 
+westward Synodic_month.txt 1 1241 
+7001272122200000000 Synodic_month.txt 1 1273 
+seen Synodic_month.txt 3 18 167 551 
+apparently Synodic_month.txt 1 391 
+contents Synodic_month.txt 1 110 
+first-order Synodic_month.txt 1 1455 
+traditionally Synodic_month.txt 1 261 
+29.93 Synodic_month.txt 1 701 
+min Synodic_month.txt 5 436 718 796 915 1282 
+gravity Synodic_month.txt 1 1224 
+note Synodic_month.txt 1 1474 
+also Synodic_month.txt 4 817 1048 1061 1577 
+animation Synodic_month.txt 1 7 
+which Synodic_month.txt 7 59 972 989 1166 1242 1319 1524 
+opposite Synodic_month.txt 1 1314 
+reach Synodic_month.txt 1 585 
+most Synodic_month.txt 1 349 
+regular Synodic_month.txt 1 213 
+successive Synodic_month.txt 2 44 1207 
+measured Synodic_month.txt 1 1516 
+average Synodic_month.txt 6 510 705 903 1203 1366 1440 
+sometimes Synodic_month.txt 2 253 1060 
+points Synodic_month.txt 3 854 1113 1164 
+redirected Synodic_month.txt 1 3 
+joining Synodic_month.txt 1 521 
+661 Synodic_month.txt 1 429 
+earth Synodic_month.txt 10 525 554 561 563 681 1020 1249 1324 1393 1532 
+nearer Synodic_month.txt 1 665 
+northern Synodic_month.txt 2 21 1182 
+than Synodic_month.txt 9 248 617 778 830 1002 1037 1267 1304 1340 
+only Synodic_month.txt 1 1101 
+circle Synodic_month.txt 1 832 
+220 Synodic_month.txt 1 1275 
+meant Synodic_month.txt 1 262 
+perigee Synodic_month.txt 3 860 1008 1036 
+anomalistic Synodic_month.txt 4 813 898 981 998 
+means Synodic_month.txt 1 1243 
+contracts Synodic_month.txt 1 299 
+vary Synodic_month.txt 2 695 1556 
+secular Synodic_month.txt 1 1460 
+moons Synodic_month.txt 10 47 50 380 514 536 677 824 1168 1237 1289 
+apsidal Synodic_month.txt 2 821 865 
+affecting Synodic_month.txt 1 1573 
+nodical Synodic_month.txt 2 1068 1199 
+new Synodic_month.txt 4 46 71 587 1376 
+during Synodic_month.txt 3 656 889 1091 
+conjunction Synodic_month.txt 3 133 222 224 
+2.8016 Synodic_month.txt 1 719 
+h Synodic_month.txt 5 434 716 794 913 1280 
+common Synodic_month.txt 1 256 
+including Synodic_month.txt 1 93 
+cycles Synodic_month.txt 2 13 729 
+where Synodic_month.txt 4 1114 1177 1189 1427 
+equinox Synodic_month.txt 1 747 
+reference Synodic_month.txt 1 398 
+frame Synodic_month.txt 1 399 
+observed Synodic_month.txt 1 445 
+culture Synodic_month.txt 2 60 1353 
+see Synodic_month.txt 5 108 816 939 1047 1576 
+are Synodic_month.txt 3 84 321 1450 
+2.2 Synodic_month.txt 1 614 
+calendar Synodic_month.txt 4 148 182 187 292 
+phases Synodic_month.txt 4 16 345 533 1375 
+said Synodic_month.txt 1 1078 
+wikipedia Synodic_month.txt 1 2 
+synod Synodic_month.txt 1 495 
+continually Synodic_month.txt 1 1557 
+written Synodic_month.txt 1 298 
+between Synodic_month.txt 4 42 360 692 1205 
+orbiting Synodic_month.txt 3 559 1018 1323 
+probably Synodic_month.txt 1 1513 
+360 Synodic_month.txt 1 1292 
+latin Synodic_month.txt 1 425 
+however Synodic_month.txt 1 833 
+2930 Synodic_month.txt 1 1385 
+365.25 Synodic_month.txt 1 1506 
+gregorian Synodic_month.txt 1 634 
+extent Synodic_month.txt 1 942 
+article Synodic_month.txt 1 75 
+periapsis Synodic_month.txt 1 666 
+last Synodic_month.txt 1 1380 
+irregular Synodic_month.txt 1 215 
+s Synodic_month.txt 5 438 720 798 917 1284 
+long-term Synodic_month.txt 1 704 
+distinction Synodic_month.txt 1 359 
+18.6 Synodic_month.txt 2 1297 1328 
+among Synodic_month.txt 2 422 446 
+12:00 Synodic_month.txt 1 1472 
+point Synodic_month.txt 4 756 782 992 1423 
+deeds Synodic_month.txt 1 295 
+cf Synodic_month.txt 1 808 
+respect Synodic_month.txt 6 385 517 546 601 743 1148 
+prominent Synodic_month.txt 1 479 
+due Synodic_month.txt 1 1401 
+been Synodic_month.txt 1 444 
+tropical Synodic_month.txt 4 364 730 806 811 
+slowly Synodic_month.txt 1 759 
+27.554 Synodic_month.txt 1 907 
+meeting Synodic_month.txt 1 498 
+direction Synodic_month.txt 2 1013 1315 
+apsides Synodic_month.txt 2 859 991 
+hidden Synodic_month.txt 1 1582 
+case Synodic_month.txt 1 501 
+east Synodic_month.txt 1 451 
+ahead Synodic_month.txt 1 888 
+these Synodic_month.txt 5 684 1158 1449 1551 1554 
+appearance Synodic_month.txt 2 537 945 
+near Synodic_month.txt 3 669 1108 1127 
+replaced Synodic_month.txt 1 289 
+vernal Synodic_month.txt 1 746 
+property Synodic_month.txt 1 304 
+periods Synodic_month.txt 1 1555 
+orientation Synodic_month.txt 1 835 
+is Synodic_month.txt 37 29 39 225 235 246 339 401 409 508 527 558 564 642 663 673 707 724 734 803 844 895 973 1000 1017 1059 1099 1105 1124 1143 1201 1265 1302 1322 1430 1462 1479 1495 
+thus Synodic_month.txt 3 269 621 659 
+it Synodic_month.txt 12 12 338 408 412 733 764 873 885 1255 1271 1341 1419 
+middle Synodic_month.txt 1 450 
+hebrew Synodic_month.txt 1 181 
+ephemeris Synodic_month.txt 2 1482 1539 
+synodic Synodic_month.txt 10 5 335 483 487 611 629 722 979 1363 1416 
+orbital Synodic_month.txt 3 1131 1404 1566 
+different Synodic_month.txt 1 103 
+lengths Synodic_month.txt 2 1348 1441 
+11.6 Synodic_month.txt 1 437 
+progressing Synodic_month.txt 1 565 
+same Synodic_month.txt 11 591 672 781 882 1012 1042 1214 1263 1336 1345 1433 
+shorter Synodic_month.txt 4 247 801 1266 1303 
+epoch Synodic_month.txt 2 1467 1499 
+parts Synodic_month.txt 1 229 
+29.18 Synodic_month.txt 1 698 
+draconitic Synodic_month.txt 1 1065 
+several Synodic_month.txt 1 322 
+european Synodic_month.txt 1 117 
+satellite Synodic_month.txt 1 1123 
+used Synodic_month.txt 1 725 
+8.85 Synodic_month.txt 1 871 
+cycle Synodic_month.txt 5 341 971 1347 1372 1417 
+sidereal Synodic_month.txt 10 362 373 405 575 619 624 1004 1269 1306 1398 
+1978 Synodic_month.txt 1 317 
+well Synodic_month.txt 2 837 984 
+contact Synodic_month.txt 1 271 
+precesses Synodic_month.txt 1 1291 
+y Synodic_month.txt 1 1494 
+position Synodic_month.txt 5 421 541 588 850 1435 
+the Synodic_month.txt 189 9 20 23 27 40 51 54 63 65 70 78 100 106 119 123 135 146 152 157 160 180 184 219 233 238 244 249 251 281 284 291 301 314 327 334 340 343 347 351 358 361 376 379 387 395 410 414 423 449 456 461 474 478 486 503 506 509 513 519 522 528 531 535 540 543 548 553 556 560 562 570 577 586 590 595 603 606 610 618 640 647 653 657 660 671 676 680 689 703 721 745 753 761 766 780 784 809 823 834 839 849 852 855 858 875 881 897 918 922 935 952 957 959 963 968 974 978 986 990 994 1007 1011 1015 1019 1027 1041 1070 1082 1087 1103 1111 1118 1122 1133 1136 1150 1153 1162 1167 1171 1174 1178 1181 1186 1190 1194 1196 1202 1210 1213 1218 1222 1226 1230 1233 1236 1244 1253 1257 1262 1285 1288 1309 1313 1320 1331 1335 1344 1352 1358 1362 1365 1368 1387 1407 1409 1422 1428 1432 1439 1459 1466 1498 1518 1526 1531 1545 1564 1569 
+bodies Synodic_month.txt 1 741 
+traditions Synodic_month.txt 1 118 
+just Synodic_month.txt 1 168 
+less Synodic_month.txt 1 768 
+being Synodic_month.txt 1 68 
+when Synodic_month.txt 4 69 122 159 1102 
+shape Synodic_month.txt 1 840 
+world Synodic_month.txt 1 107 
+rotates Synodic_month.txt 2 863 1240 
+speed Synodic_month.txt 1 648 
+yet Synodic_month.txt 2 188 1413 
+previous Synodic_month.txt 1 607 
+enters Synodic_month.txt 1 1180 
+sky Synodic_month.txt 1 462 
+except Synodic_month.txt 1 357 
+valid Synodic_month.txt 1 1464 
+relevance Synodic_month.txt 1 933 
+has Synodic_month.txt 6 61 443 886 901 931 1420 
+momentum Synodic_month.txt 1 1228 
+kingdom Synodic_month.txt 1 283 
+around Synodic_month.txt 9 105 569 639 652 679 1248 1392 1406 1558 
+calendars Synodic_month.txt 3 35 101 197 
+possible Synodic_month.txt 1 1100 
+period Synodic_month.txt 10 377 511 529 802 894 927 976 987 1055 1367 
+descending Synodic_month.txt 1 1187 
+integer Synodic_month.txt 1 199 
+apart Synodic_month.txt 1 1543 
+intersection Synodic_month.txt 1 1156 
+babylonian Synodic_month.txt 1 370 
+rotate Synodic_month.txt 1 1247 
+appearing Synodic_month.txt 1 597 
+d Synodic_month.txt 5 432 714 792 911 1278 
+mansions Synodic_month.txt 1 468 
+follows Synodic_month.txt 1 1525 
+either Synodic_month.txt 2 1109 1128 
+terminology Synodic_month.txt 1 318 
+pertaining Synodic_month.txt 1 492 
+because Synodic_month.txt 10 337 407 534 682 748 884 1006 1216 1308 1562 
+sequence Synodic_month.txt 1 216 
+981 Synodic_month.txt 1 711 
+some Synodic_month.txt 2 212 932 
+back Synodic_month.txt 2 758 1383 
+table Synodic_month.txt 2 1437 1477 
+duration Synodic_month.txt 2 706 943 
+provided Synodic_month.txt 1 1463 
+gradually Synodic_month.txt 2 1239 1246 
+scale Synodic_month.txt 1 1520 
+for Synodic_month.txt 10 90 272 276 294 308 470 675 934 1465 1508 
+shona Synodic_month.txt 1 114 
+legal Synodic_month.txt 1 311 
+moon Synodic_month.txt 32 10 28 126 162 193 196 348 415 507 544 557 578 767 876 923 958 965 970 1016 1028 1090 1104 1137 1179 1191 1211 1258 1321 1332 1369 1388 1410 
+does Synodic_month.txt 1 1411 
+lunar Synodic_month.txt 20 0 34 37 55 153 186 259 285 325 329 355 371 467 532 818 1049 1083 1097 1355 1447 
+t Synodic_month.txt 1 1542 
+be Synodic_month.txt 2 166 204 
+run Synodic_month.txt 1 190 
+seconds Synodic_month.txt 1 1493 
+jumps Synodic_month.txt 1 254 
+icrf Synodic_month.txt 1 400 
+27.3 Synodic_month.txt 1 1395 
+lasts Synodic_month.txt 1 1272 
+refers Synodic_month.txt 2 332 1073 
+by Synodic_month.txt 6 58 290 300 313 477 1221 
+on Synodic_month.txt 4 156 539 951 1225 
+about Synodic_month.txt 7 622 627 697 700 868 1145 1294 
+actual Synodic_month.txt 1 690 
+of Synodic_month.txt 59 8 26 53 80 86 96 102 174 177 303 324 342 346 350 354 378 390 441 473 502 512 530 542 649 683 739 749 752 776 841 851 857 905 921 937 956 962 977 1110 1129 1135 1155 1157 1209 1217 1229 1235 1287 1351 1361 1442 1445 1458 1490 1505 1521 1530 1563 1568 
+completing Synodic_month.txt 1 573 
+months Synodic_month.txt 6 202 274 365 625 630 1356 
+recognized Synodic_month.txt 1 368 
+act Synodic_month.txt 2 305 316 
+slightly Synodic_month.txt 2 800 1338 
+or Synodic_month.txt 14 48 138 183 206 214 266 465 948 1067 1089 1096 1107 1126 1198 
+33.2 Synodic_month.txt 1 916 
+into Synodic_month.txt 3 227 463 1193 
+accumulates Synodic_month.txt 1 1535 
+lies Synodic_month.txt 1 1138 
+references Synodic_month.txt 1 1579 
+nowadays Synodic_month.txt 1 394 
+ellipse Synodic_month.txt 1 828 
+nodal Synodic_month.txt 2 1051 1054 
+there Synodic_month.txt 1 320 
+libration Synodic_month.txt 1 32 
+long Synodic_month.txt 1 1546 
+stars Synodic_month.txt 5 393 424 480 604 786 
+6,798 Synodic_month.txt 1 1295 
+cultures Synodic_month.txt 2 104 447 
+was Synodic_month.txt 1 287 
+but Synodic_month.txt 2 626 1400 
+hemisphere Synodic_month.txt 2 22 1184 
+solar Synodic_month.txt 1 1095 
+line Synodic_month.txt 3 520 856 1154 
+with Synodic_month.txt 12 77 134 384 516 545 600 742 925 967 1147 1488 1538 
+eat Synodic_month.txt 1 1086 
+longer Synodic_month.txt 6 165 616 877 893 1001 1032 
+count Synodic_month.txt 1 198 
+whether Synodic_month.txt 1 946 
+variations Synodic_month.txt 2 111 685 
+ruling Synodic_month.txt 1 240 
+planes Synodic_month.txt 1 1159 
+551 Synodic_month.txt 1 908 
+similar Synodic_month.txt 1 420 
+called Synodic_month.txt 2 896 1541 
+result Synodic_month.txt 1 1252 
+celestial Synodic_month.txt 4 388 397 740 1183 
+constant Synodic_month.txt 1 1452 
+defined Synodic_month.txt 1 383 
+universal Synodic_month.txt 1 1522 
+approximate Synodic_month.txt 1 1357 
+moved Synodic_month.txt 1 887 
+an Synodic_month.txt 5 773 827 902 997 1092 
+as Synodic_month.txt 16 11 17 31 231 243 382 403 550 805 836 838 983 985 1014 1063 1250 
+at Synodic_month.txt 5 130 241 1106 1125 1165 
+planets Synodic_month.txt 1 1572 
+moves Synodic_month.txt 3 757 1009 1192 
+again Synodic_month.txt 2 996 1384 
+4.7 Synodic_month.txt 1 797 
+48 Synodic_month.txt 1 278 
+no Synodic_month.txt 1 164 
+44 Synodic_month.txt 1 717 
+sidera Synodic_month.txt 1 426 
+43 Synodic_month.txt 2 435 795 
+other Synodic_month.txt 3 91 297 310 
+5 Synodic_month.txt 2 1279 1281 
+node Synodic_month.txt 5 1176 1188 1215 1264 1337 
+star Synodic_month.txt 2 1043 1346 
+completes Synodic_month.txt 1 1389 
+millennial Synodic_month.txt 1 1548 
+drift Synodic_month.txt 1 1549 
+meaning Synodic_month.txt 1 491 
+astronomy Synodic_month.txt 2 89 372 
+faster Synodic_month.txt 1 664 
+values Synodic_month.txt 2 1552 1561 
+interval Synodic_month.txt 1 1204 
+orbit Synodic_month.txt 14 381 515 568 638 678 825 843 1116 1134 1169 1238 1290 1391 1426 
+2000 Synodic_month.txt 2 1471 1500 
+time Synodic_month.txt 11 41 411 691 769 1254 1478 1483 1487 1519 1523 1540 
+having Synodic_month.txt 1 589 
+equinoxes Synodic_month.txt 1 754 
+once Synodic_month.txt 1 864 

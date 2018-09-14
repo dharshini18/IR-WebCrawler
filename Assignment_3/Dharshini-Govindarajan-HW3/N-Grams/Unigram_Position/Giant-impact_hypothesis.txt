@@ -1,0 +1,933 @@
+migrated Giant-impact_hypothesis.txt 1 1151 
+all Giant-impact_hypothesis.txt 4 1087 1283 1586 1663 
+concept Giant-impact_hypothesis.txt 1 3067 
+two-dimensional Giant-impact_hypothesis.txt 1 2341 
+caused Giant-impact_hypothesis.txt 3 396 2382 2538 
+magnetic Giant-impact_hypothesis.txt 1 1580 
+global Giant-impact_hypothesis.txt 1 193 
+dynamic Giant-impact_hypothesis.txt 1 2215 
+results Giant-impact_hypothesis.txt 2 1899 2188 
+earthmoon Giant-impact_hypothesis.txt 4 1396 1626 2495 2834 
+month Giant-impact_hypothesis.txt 1 941 
+sunk Giant-impact_hypothesis.txt 1 863 
+debris Giant-impact_hypothesis.txt 4 56 236 1018 2864 
+zinc Giant-impact_hypothesis.txt 6 1696 1716 1732 1750 1754 1766 
+cameron Giant-impact_hypothesis.txt 1 518 
+disk Giant-impact_hypothesis.txt 5 1377 1424 1454 2820 3021 
+75016 Giant-impact_hypothesis.txt 1 1937 
+certainly Giant-impact_hypothesis.txt 1 736 
+aligned Giant-impact_hypothesis.txt 1 2272 
+zone Giant-impact_hypothesis.txt 1 1879 
+95 Giant-impact_hypothesis.txt 1 2449 
+subjected Giant-impact_hypothesis.txt 1 2040 
+1946 Giant-impact_hypothesis.txt 1 375 
+young Giant-impact_hypothesis.txt 3 866 1860 1886 
+interactions Giant-impact_hypothesis.txt 1 2393 
+20307 Giant-impact_hypothesis.txt 1 1933 
+supported Giant-impact_hypothesis.txt 1 2556 
+to Giant-impact_hypothesis.txt 52 83 186 190 363 368 387 408 489 607 633 661 715 774 786 802 970 1189 1448 1457 1466 1499 1543 1606 1649 1810 1815 1896 1950 2011 2041 2057 2109 2164 2180 2228 2240 2261 2323 2337 2384 2397 2515 2568 2648 2677 2730 2746 2844 2895 2941 3006 3026 
+program Giant-impact_hypothesis.txt 1 1266 
+those Giant-impact_hypothesis.txt 2 1500 2162 
+stable Giant-impact_hypothesis.txt 3 963 988 2388 
+inwards Giant-impact_hypothesis.txt 1 2144 
+include Giant-impact_hypothesis.txt 1 244 
+sent Giant-impact_hypothesis.txt 1 573 
+sinking Giant-impact_hypothesis.txt 1 208 
+asteroids Giant-impact_hypothesis.txt 1 1788 
+far Giant-impact_hypothesis.txt 5 1105 1181 1194 1203 2591 
+planet-sized Giant-impact_hypothesis.txt 2 722 1915 
+trojan Giant-impact_hypothesis.txt 2 2339 2351 
+closeup Giant-impact_hypothesis.txt 1 3065 
+mixing Giant-impact_hypothesis.txt 2 140 848 
+affect Giant-impact_hypothesis.txt 1 2245 
+difference Giant-impact_hypothesis.txt 1 1311 
+categories Giant-impact_hypothesis.txt 2 3085 3087 
+eon Giant-impact_hypothesis.txt 1 80 
+moon-forming Giant-impact_hypothesis.txt 2 725 2062 
+presented Giant-impact_hypothesis.txt 1 2408 
+deficient Giant-impact_hypothesis.txt 1 584 
+cause Giant-impact_hypothesis.txt 1 2225 
+notes Giant-impact_hypothesis.txt 1 3073 
+occurs Giant-impact_hypothesis.txt 1 2875 
+large Giant-impact_hypothesis.txt 3 1240 1523 2849 
+swiping Giant-impact_hypothesis.txt 1 2708 
+team Giant-impact_hypothesis.txt 2 1249 1293 
+small Giant-impact_hypothesis.txt 2 1356 1567 
+study Giant-impact_hypothesis.txt 1 2520 
+venus Giant-impact_hypothesis.txt 3 256 2049 2148 
+originally Giant-impact_hypothesis.txt 1 2718 
+favoured Giant-impact_hypothesis.txt 1 151 
+the Giant-impact_hypothesis.txt 302 34 36 41 45 50 55 68 78 88 92 100 103 109 113 116 129 145 150 155 158 168 173 177 200 205 227 232 235 246 277 280 300 309 319 327 334 352 360 365 369 372 390 393 421 448 451 464 480 491 498 505 528 533 541 551 555 570 581 587 595 600 615 618 624 634 644 657 679 688 692 697 700 706 711 724 737 742 759 764 782 791 805 812 865 876 884 891 900 917 924 929 934 949 954 972 978 984 1004 1020 1030 1032 1050 1055 1059 1072 1075 1079 1089 1100 1104 1108 1124 1126 1132 1148 1154 1162 1173 1180 1190 1193 1198 1202 1210 1218 1222 1235 1239 1251 1257 1261 1264 1287 1298 1310 1325 1335 1342 1352 1365 1368 1372 1375 1382 1395 1404 1408 1418 1422 1426 1432 1436 1442 1452 1479 1488 1503 1508 1514 1526 1540 1556 1571 1584 1589 1599 1602 1612 1620 1625 1634 1637 1640 1643 1646 1650 1656 1659 1664 1667 1670 1673 1676 1684 1688 1695 1713 1739 1770 1777 1802 1812 1823 1850 1855 1867 1885 1891 1897 1904 1912 1930 1955 1968 1976 2021 2072 2089 2093 2100 2105 2111 2151 2167 2196 2200 2203 2213 2218 2226 2232 2235 2238 2241 2246 2249 2274 2286 2292 2295 2316 2327 2346 2368 2371 2401 2412 2419 2440 2445 2452 2455 2471 2480 2494 2505 2512 2517 2530 2539 2546 2550 2573 2576 2584 2600 2616 2622 2632 2644 2651 2657 2660 2670 2680 2689 2710 2733 2758 2770 2775 2781 2798 2804 2807 2811 2817 2828 2833 2839 2842 2845 2852 2860 2870 2873 2880 2883 2887 2890 2901 2915 2927 2937 2955 2958 2967 2971 2981 2984 3014 3028 
+smaller Giant-impact_hypothesis.txt 4 1130 1174 2536 2577 
+force Giant-impact_hypothesis.txt 1 2787 
+kreep Giant-impact_hypothesis.txt 1 1517 
+be Giant-impact_hypothesis.txt 9 467 559 1449 1565 1951 2012 2081 2667 2896 
+consistent Giant-impact_hypothesis.txt 1 1764 
+estimates Giant-impact_hypothesis.txt 1 989 
+direct Giant-impact_hypothesis.txt 1 135 
+modified Giant-impact_hypothesis.txt 1 2641 
+past Giant-impact_hypothesis.txt 1 328 
+likely Giant-impact_hypothesis.txt 5 32 969 1987 2141 2257 
+bombardment Giant-impact_hypothesis.txt 1 745 
+tangential Giant-impact_hypothesis.txt 1 534 
+growing Giant-impact_hypothesis.txt 1 2359 
+further Giant-impact_hypothesis.txt 2 1710 3075 
+ruled Giant-impact_hypothesis.txt 1 2637 
+rectangular Giant-impact_hypothesis.txt 1 3048 
+bern Giant-impact_hypothesis.txt 1 2692 
+targets Giant-impact_hypothesis.txt 1 349 
+what Giant-impact_hypothesis.txt 3 1177 2587 3008 
+abundant Giant-impact_hypothesis.txt 1 1833 
+rate Giant-impact_hypothesis.txt 1 2125 
+sun Giant-impact_hypothesis.txt 4 918 955 985 2106 
+slight Giant-impact_hypothesis.txt 1 1313 
+crust Giant-impact_hypothesis.txt 8 1102 1191 1200 1211 1227 1236 1510 2599 
+while Giant-impact_hypothesis.txt 4 1217 1371 1403 1642 
+supplied Giant-impact_hypothesis.txt 1 1539 
+current Giant-impact_hypothesis.txt 1 170 
+volatile Giant-impact_hypothesis.txt 2 252 589 
+new Giant-impact_hypothesis.txt 2 2686 2972 
+net Giant-impact_hypothesis.txt 1 2250 
+ever Giant-impact_hypothesis.txt 1 1978 
+contrast Giant-impact_hypothesis.txt 1 1605 
+thin Giant-impact_hypothesis.txt 1 1226 
+body Giant-impact_hypothesis.txt 7 67 94 288 540 557 1678 2578 
+supporting Giant-impact_hypothesis.txt 1 160 
+chaotic Giant-impact_hypothesis.txt 1 2152 
+escaping Giant-impact_hypothesis.txt 1 1784 
+exchange Giant-impact_hypothesis.txt 1 2942 
+never Giant-impact_hypothesis.txt 1 1993 
+here Giant-impact_hypothesis.txt 1 6 
+hours Giant-impact_hypothesis.txt 1 1069 
+reported Giant-impact_hypothesis.txt 2 1256 1296 
+1,000-km Giant-impact_hypothesis.txt 1 1115 
+objects Giant-impact_hypothesis.txt 5 475 1916 2465 2489 2518 
+possibility Giant-impact_hypothesis.txt 2 1109 2097 
+others Giant-impact_hypothesis.txt 1 3036 
+aftermath Giant-impact_hypothesis.txt 2 1328 1366 
+100 Giant-impact_hypothesis.txt 4 84 778 1461 2501 
+strong Giant-impact_hypothesis.txt 1 2101 
+appears Giant-impact_hypothesis.txt 1 1894 
+pancaked Giant-impact_hypothesis.txt 1 1172 
+obtained Giant-impact_hypothesis.txt 1 1825 
+almost Giant-impact_hypothesis.txt 1 1282 
+ahead Giant-impact_hypothesis.txt 1 2333 
+canadian Giant-impact_hypothesis.txt 1 513 
+institute Giant-impact_hypothesis.txt 1 1337 
+vaporized Giant-impact_hypothesis.txt 2 560 1381 
+k Giant-impact_hypothesis.txt 1 437 
+larger Giant-impact_hypothesis.txt 2 2133 3000 
+leaving Giant-impact_hypothesis.txt 1 580 
+suggests Giant-impact_hypothesis.txt 7 48 127 846 1107 2410 2970 2979 
+resulting Giant-impact_hypothesis.txt 4 1166 1237 2204 2601 
+suggestion Giant-impact_hypothesis.txt 1 278 
+published Giant-impact_hypothesis.txt 3 122 427 2521 
+california Giant-impact_hypothesis.txt 1 1336 
+diameter Giant-impact_hypothesis.txt 2 1117 2139 
+topography Giant-impact_hypothesis.txt 1 3051 
+regardless Giant-impact_hypothesis.txt 1 1048 
+storms Giant-impact_hypothesis.txt 1 3044 
+explained Giant-impact_hypothesis.txt 1 2668 
+highly Giant-impact_hypothesis.txt 1 1504 
+visible Giant-impact_hypothesis.txt 2 2626 3050 
+addressed Giant-impact_hypothesis.txt 1 2013 
+destabilize Giant-impact_hypothesis.txt 1 2110 
+research Giant-impact_hypothesis.txt 1 2678 
+andreas Giant-impact_hypothesis.txt 1 2695 
+from Giant-impact_hypothesis.txt 29 59 99 299 333 623 887 1044 1153 1263 1276 1281 1307 1334 1441 1484 1633 1769 1884 2092 2104 2291 2386 2575 2627 2780 2816 2863 2865 2936 
+indicated Giant-impact_hypothesis.txt 1 2443 
+would Giant-impact_hypothesis.txt 29 558 565 576 598 605 727 793 861 893 1009 1034 1062 1082 1092 1159 1184 1455 1789 1964 2053 2107 2140 2353 2557 2579 2588 2604 2906 2932 
+remains Giant-impact_hypothesis.txt 2 987 2625 
+two Giant-impact_hypothesis.txt 7 20 1149 1383 1740 2402 2547 2996 
+lagrange Giant-impact_hypothesis.txt 2 1121 1163 
+by Giant-impact_hypothesis.txt 22 341 397 434 512 532 643 1387 1400 1826 1849 1996 2025 2050 2380 2470 2631 2669 2693 2785 2797 2975 3019 
+coalesce Giant-impact_hypothesis.txt 2 488 608 
+splash Giant-impact_hypothesis.txt 4 4 12 43 2288 
+proposes Giant-impact_hypothesis.txt 1 2953 
+taken Giant-impact_hypothesis.txt 1 511 
+survive Giant-impact_hypothesis.txt 1 2262 
+until Giant-impact_hypothesis.txt 2 412 2504 
+today Giant-impact_hypothesis.txt 1 2620 
+more Giant-impact_hypothesis.txt 7 324 588 945 1746 2256 2266 2947 
+theias Giant-impact_hypothesis.txt 4 858 872 1901 2349 
+main Giant-impact_hypothesis.txt 2 611 2754 
+sharing Giant-impact_hypothesis.txt 1 2920 
+alastair Giant-impact_hypothesis.txt 1 515 
+0.5 Giant-impact_hypothesis.txt 1 2179 
+occurred Giant-impact_hypothesis.txt 5 746 2065 2086 2416 2447 
+primarily Giant-impact_hypothesis.txt 1 2862 
+warm Giant-impact_hypothesis.txt 3 1829 1875 1925 
+particular Giant-impact_hypothesis.txt 1 1570 
+ward Giant-impact_hypothesis.txt 1 524 
+given Giant-impact_hypothesis.txt 1 1683 
+iii Giant-impact_hypothesis.txt 1 2310 
+must Giant-impact_hypothesis.txt 1 1564 
+abundance Giant-impact_hypothesis.txt 3 842 1733 2437 
+high Giant-impact_hypothesis.txt 2 1838 2829 
+none Giant-impact_hypothesis.txt 1 2821 
+rotational Giant-impact_hypothesis.txt 1 1577 
+mythical Giant-impact_hypothesis.txt 2 104 625 
+this Giant-impact_hypothesis.txt 24 307 336 493 638 821 1026 1183 1446 1471 1680 1805 1940 2051 2119 2210 2376 2552 2639 2674 2721 2731 2868 2904 3030 
+challenge Giant-impact_hypothesis.txt 1 411 
+work Giant-impact_hypothesis.txt 1 1463 
+centrifugal Giant-impact_hypothesis.txt 3 304 402 2786 
+theories Giant-impact_hypothesis.txt 1 663 
+venusian Giant-impact_hypothesis.txt 1 2017 
+remain Giant-impact_hypothesis.txt 1 164 
+renders Giant-impact_hypothesis.txt 1 1679 
+indicating Giant-impact_hypothesis.txt 1 853 
+anorthositic Giant-impact_hypothesis.txt 1 1505 
+hd172555 Giant-impact_hypothesis.txt 1 1865 
+making Giant-impact_hypothesis.txt 1 2741 
+metal Giant-impact_hypothesis.txt 2 2924 2929 
+my Giant-impact_hypothesis.txt 2 1862 2450 
+example Giant-impact_hypothesis.txt 2 1954 2221 
+history Giant-impact_hypothesis.txt 2 270 2130 
+recollision Giant-impact_hypothesis.txt 1 3015 
+hip Giant-impact_hypothesis.txt 1 1934 
+impacts Giant-impact_hypothesis.txt 4 260 1842 2043 2160 
+process Giant-impact_hypothesis.txt 1 2052 
+share Giant-impact_hypothesis.txt 1 250 
+near Giant-impact_hypothesis.txt 3 1219 1324 2623 
+depiction Giant-impact_hypothesis.txt 1 15 
+collision Giant-impact_hypothesis.txt 17 18 61 494 596 726 765 1047 1170 1902 2085 2399 2413 2446 2528 2553 2711 2994 
+allowed Giant-impact_hypothesis.txt 1 2934 
+dominant Giant-impact_hypothesis.txt 1 310 
+yet Giant-impact_hypothesis.txt 3 1949 1970 2950 
+calculated Giant-impact_hypothesis.txt 1 317 
+terrestrial Giant-impact_hypothesis.txt 4 1614 2155 2173 2268 
+barely Giant-impact_hypothesis.txt 1 2707 
+end Giant-impact_hypothesis.txt 1 449 
+rather Giant-impact_hypothesis.txt 1 400 
+tilt Giant-impact_hypothesis.txt 2 1053 2211 
+differences Giant-impact_hypothesis.txt 1 2541 
+place Giant-impact_hypothesis.txt 1 2815 
+stayed Giant-impact_hypothesis.txt 2 956 2492 
+astronomers Giant-impact_hypothesis.txt 1 762 
+very Giant-impact_hypothesis.txt 1 1355 
+instead Giant-impact_hypothesis.txt 3 2572 2705 2963 
+if Giant-impact_hypothesis.txt 6 902 919 1555 2020 2059 2121 
+explains Giant-impact_hypothesis.txt 1 1431 
+pathway Giant-impact_hypothesis.txt 1 2284 
+post-impact Giant-impact_hypothesis.txt 1 1419 
+spitzer Giant-impact_hypothesis.txt 1 1851 
+may Giant-impact_hypothesis.txt 9 131 476 2037 2224 2414 2466 2490 2713 2724 
+astrophysicist Giant-impact_hypothesis.txt 1 2306 
+after Giant-impact_hypothesis.txt 6 87 781 1071 2451 2879 3013 
+derived Giant-impact_hypothesis.txt 1 622 
+orbits Giant-impact_hypothesis.txt 6 915 927 952 960 2112 2223 
+davis Giant-impact_hypothesis.txt 1 442 
+produce Giant-impact_hypothesis.txt 2 191 2606 
+value Giant-impact_hypothesis.txt 1 2421 
+water Giant-impact_hypothesis.txt 1 2748 
+date Giant-impact_hypothesis.txt 2 1811 1824 
+such Giant-impact_hypothesis.txt 13 23 180 732 995 1045 1414 1545 1980 2026 2060 2077 2184 2488 
+account Giant-impact_hypothesis.txt 1 2826 
+response Giant-impact_hypothesis.txt 1 1582 
+a Giant-impact_hypothesis.txt 71 17 29 60 124 134 138 181 192 238 266 286 293 413 507 539 562 671 854 880 940 947 1046 1065 1111 1120 1168 1225 1248 1292 1302 1388 1411 1522 1532 1546 1566 1629 1872 1878 1921 1960 1981 1997 2004 2016 2044 2061 2067 2078 2083 2135 2176 2190 2338 2362 2398 2429 2519 2526 2561 2570 2594 2607 2742 2848 2909 2921 2946 2989 2992 3020 
+highlands Giant-impact_hypothesis.txt 1 2598 
+physical Giant-impact_hypothesis.txt 1 2543 
+lines Giant-impact_hypothesis.txt 1 1550 
+hypotheses Giant-impact_hypothesis.txt 2 2752 2824 
+greek Giant-impact_hypothesis.txt 2 105 626 
+interior Giant-impact_hypothesis.txt 1 1444 
+so Giant-impact_hypothesis.txt 5 1228 1731 2565 2618 2739 
+representation Giant-impact_hypothesis.txt 1 757 
+subsequently Giant-impact_hypothesis.txt 2 2605 2795 
+typical Giant-impact_hypothesis.txt 1 2172 
+noteworthy Giant-impact_hypothesis.txt 1 1654 
+developed Giant-impact_hypothesis.txt 1 2974 
+astronomical Giant-impact_hypothesis.txt 2 66 789 
+mission Giant-impact_hypothesis.txt 1 2634 
+ejecta Giant-impact_hypothesis.txt 1 1783 
+years Giant-impact_hypothesis.txt 11 75 86 684 751 780 1146 1462 1818 2503 2878 2900 
+stability Giant-impact_hypothesis.txt 1 2347 
+course Giant-impact_hypothesis.txt 1 707 
+experiments Giant-impact_hypothesis.txt 1 345 
+through Giant-impact_hypothesis.txt 3 1209 1234 1772 
+existence Giant-impact_hypothesis.txt 2 1515 1803 
+its Giant-impact_hypothesis.txt 9 249 262 709 958 1592 2129 2358 2387 2590 
+before Giant-impact_hypothesis.txt 1 1058 
+close-in Giant-impact_hypothesis.txt 1 2116 
+1 Giant-impact_hypothesis.txt 3 1359 2181 3056 
+proto-earth Giant-impact_hypothesis.txt 1 2395 
+20 Giant-impact_hypothesis.txt 1 82 
+call Giant-impact_hypothesis.txt 1 3011 
+masses Giant-impact_hypothesis.txt 1 2183 
+29 Giant-impact_hypothesis.txt 1 1857 
+late Giant-impact_hypothesis.txt 1 743 
+detected Giant-impact_hypothesis.txt 2 1848 1928 
+systems Giant-impact_hypothesis.txt 1 980 
+convective Giant-impact_hypothesis.txt 1 1401 
+2015 Giant-impact_hypothesis.txt 1 218 
+2014 Giant-impact_hypothesis.txt 3 1291 2430 3057 
+hidden Giant-impact_hypothesis.txt 1 3086 
+2016 Giant-impact_hypothesis.txt 1 125 
+might Giant-impact_hypothesis.txt 1 2080 
+volatilized Giant-impact_hypothesis.txt 1 1721 
+happened Giant-impact_hypothesis.txt 1 770 
+then Giant-impact_hypothesis.txt 1 3004 
+proto-lunar Giant-impact_hypothesis.txt 3 1376 1423 1453 
+containing Giant-impact_hypothesis.txt 1 2193 
+oceanus Giant-impact_hypothesis.txt 1 3040 
+material Giant-impact_hypothesis.txt 11 207 572 886 925 950 1091 1188 1990 2574 2935 3023 
+collide Giant-impact_hypothesis.txt 1 462 
+effects Giant-impact_hypothesis.txt 1 1158 
+they Giant-impact_hypothesis.txt 3 469 1361 2264 
+half Giant-impact_hypothesis.txt 1 1024 
+satellites Giant-impact_hypothesis.txt 2 416 2132 
+documented Giant-impact_hypothesis.txt 1 214 
+now Giant-impact_hypothesis.txt 2 1179 3010 
+day Giant-impact_hypothesis.txt 2 1066 1134 
+landings Giant-impact_hypothesis.txt 1 1491 
+easily Giant-impact_hypothesis.txt 1 1537 
+alex Giant-impact_hypothesis.txt 1 647 
+name Giant-impact_hypothesis.txt 2 101 616 
+designation Giant-impact_hypothesis.txt 1 639 
+edit Giant-impact_hypothesis.txt 17 271 610 755 1245 1330 1475 1939 2001 2019 2281 2643 2753 3070 3072 3074 3077 3084 
+fully Giant-impact_hypothesis.txt 1 816 
+university Giant-impact_hypothesis.txt 3 381 2301 2690 
+formationdoes Giant-impact_hypothesis.txt 1 263 
+l Giant-impact_hypothesis.txt 2 2317 2319 
+rocks Giant-impact_hypothesis.txt 11 121 1262 1275 1309 1438 1440 1485 1708 1724 1744 1761 
+rock Giant-impact_hypothesis.txt 1 845 
+colleagues Giant-impact_hypothesis.txt 1 2699 
+side Giant-impact_hypothesis.txt 7 1106 1182 1195 1204 1220 2592 2624 
+mean Giant-impact_hypothesis.txt 1 1572 
+heavy Giant-impact_hypothesis.txt 2 744 1747 
+telescope Giant-impact_hypothesis.txt 1 1853 
+secondary Giant-impact_hypothesis.txt 1 1127 
+challenged Giant-impact_hypothesis.txt 1 382 
+energy Giant-impact_hypothesis.txt 2 178 1541 
+artists Giant-impact_hypothesis.txt 2 14 3066 
+idea Giant-impact_hypothesis.txt 1 422 
+group Giant-impact_hypothesis.txt 1 1871 
+books Giant-impact_hypothesis.txt 1 3081 
+astronomer Giant-impact_hypothesis.txt 2 514 521 
+exceeded Giant-impact_hypothesis.txt 1 2361 
+mapping Giant-impact_hypothesis.txt 1 2630 
+event Giant-impact_hypothesis.txt 5 229 741 997 1814 2063 
+out Giant-impact_hypothesis.txt 3 53 2582 2638 
+ejecting Giant-impact_hypothesis.txt 1 482 
+space Giant-impact_hypothesis.txt 2 965 1852 
+gradient Giant-impact_hypothesis.txt 1 2609 
+restricted Giant-impact_hypothesis.txt 1 2740 
+surrounded Giant-impact_hypothesis.txt 1 3018 
+lagrangian Giant-impact_hypothesis.txt 3 2320 2389 2486 
+angular Giant-impact_hypothesis.txt 4 1040 1621 2090 2830 
+collisions Giant-impact_hypothesis.txt 2 720 1781 
+millions Giant-impact_hypothesis.txt 1 1144 
+induction Giant-impact_hypothesis.txt 1 1581 
+viable Giant-impact_hypothesis.txt 1 1450 
+common Giant-impact_hypothesis.txt 4 1389 2170 2922 2948 
+creating Giant-impact_hypothesis.txt 1 2859 
+theory Giant-impact_hypothesis.txt 1 1329 
+drifting Giant-impact_hypothesis.txt 2 331 337 
+million Giant-impact_hypothesis.txt 4 85 779 2502 2877 
+mechanisms Giant-impact_hypothesis.txt 1 2761 
+theia Giant-impact_hypothesis.txt 20 46 98 609 613 628 667 769 799 850 889 1008 1322 1345 1692 2280 2313 2383 2700 2728 2736 
+isotope Giant-impact_hypothesis.txt 2 841 1495 
+like Giant-impact_hypothesis.txt 2 2161 2966 
+reason Giant-impact_hypothesis.txt 1 2120 
+ancient Giant-impact_hypothesis.txt 3 3045 3058 3062 
+formation Giant-impact_hypothesis.txt 10 156 453 666 698 710 2157 2453 2840 2871 2881 
+likelihood Giant-impact_hypothesis.txt 1 1343 
+gott Giant-impact_hypothesis.txt 1 2309 
+volatile-poor Giant-impact_hypothesis.txt 1 484 
+hadean Giant-impact_hypothesis.txt 1 79 
+silicate Giant-impact_hypothesis.txt 1 1390 
+g Giant-impact_hypothesis.txt 1 516 
+created Giant-impact_hypothesis.txt 2 2469 2908 
+starts Giant-impact_hypothesis.txt 1 225 
+could Giant-impact_hypothesis.txt 7 357 461 487 495 1536 2474 3032 
+times Giant-impact_hypothesis.txt 1 2768 
+american Giant-impact_hypothesis.txt 2 342 520 
+rocky Giant-impact_hypothesis.txt 1 1844 
+massive Giant-impact_hypothesis.txt 1 2993 
+w Giant-impact_hypothesis.txt 1 517 
+signature Giant-impact_hypothesis.txt 4 1270 1306 1350 1578 
+hence Giant-impact_hypothesis.txt 1 567 
+moving Giant-impact_hypothesis.txt 1 1870 
+onto Giant-impact_hypothesis.txt 2 875 1176 
+think Giant-impact_hypothesis.txt 1 763 
+south Giant-impact_hypothesis.txt 1 2296 
+first Giant-impact_hypothesis.txt 1 2094 
+origin Giant-impact_hypothesis.txt 5 1780 1942 2278 2756 2772 
+edward Giant-impact_hypothesis.txt 1 2303 
+initial Giant-impact_hypothesis.txt 1 833 
+features Giant-impact_hypothesis.txt 1 690 
+0.25au Giant-impact_hypothesis.txt 1 1881 
+reintroduced Giant-impact_hypothesis.txt 1 424 
+spiralled Giant-impact_hypothesis.txt 1 2143 
+number Giant-impact_hypothesis.txt 1 2005 
+one Giant-impact_hypothesis.txt 7 472 686 731 1317 1568 2282 2533 
+another Giant-impact_hypothesis.txt 3 2096 2836 2951 
+ring Giant-impact_hypothesis.txt 2 1016 1090 
+george Giant-impact_hypothesis.txt 1 274 
+size Giant-impact_hypothesis.txt 2 69 542 
+earths Giant-impact_hypothesis.txt 11 210 867 877 1056 1076 1443 1785 2369 2441 2782 2799 
+little Giant-impact_hypothesis.txt 1 404 
+necessarily Giant-impact_hypothesis.txt 1 1093 
+exists Giant-impact_hypothesis.txt 1 1989 
+needed Giant-impact_hypothesis.txt 1 1542 
+twenty Giant-impact_hypothesis.txt 1 1001 
+system Giant-impact_hypothesis.txt 16 90 602 681 784 974 1289 1397 1405 1627 1669 2219 2457 2496 2513 2835 2885 
+approximately Giant-impact_hypothesis.txt 5 72 748 2365 2426 2448 
+their Giant-impact_hypothesis.txt 1 443 
+perturbations Giant-impact_hypothesis.txt 1 2379 
+calculations Giant-impact_hypothesis.txt 1 356 
+articles Giant-impact_hypothesis.txt 1 3079 
+postulate Giant-impact_hypothesis.txt 1 388 
+especially Giant-impact_hypothesis.txt 1 2659 
+ranging Giant-impact_hypothesis.txt 1 348 
+low Giant-impact_hypothesis.txt 1 2562 
+free Giant-impact_hypothesis.txt 1 2516 
+vigorous Giant-impact_hypothesis.txt 1 847 
+mostly Giant-impact_hypothesis.txt 1 1632 
+that Giant-impact_hypothesis.txt 62 49 128 224 279 292 318 389 446 460 471 486 527 548 591 676 696 999 1110 1171 1229 1260 1271 1297 1321 1341 1363 1394 1430 1521 1554 1588 1655 1703 1947 1959 1975 1991 2009 2032 2046 2082 2087 2099 2159 2253 2312 2345 2409 2411 2444 2462 2525 2610 2619 2682 2762 2774 2788 2803 2954 2980 3035 
+explanation Giant-impact_hypothesis.txt 4 312 384 1319 2069 
+continuous Giant-impact_hypothesis.txt 1 1412 
+part Giant-impact_hypothesis.txt 2 669 2990 
+4.47 Giant-impact_hypothesis.txt 1 1816 
+4.45 Giant-impact_hypothesis.txt 1 775 
+4.48 Giant-impact_hypothesis.txt 1 2427 
+than Giant-impact_hypothesis.txt 12 401 939 946 1131 1358 1596 1755 2134 2418 2717 2856 3001 
+population Giant-impact_hypothesis.txt 1 672 
+10 Giant-impact_hypothesis.txt 2 1840 2366 
+homogenized Giant-impact_hypothesis.txt 1 1399 
+12 Giant-impact_hypothesis.txt 1 1861 
+showed Giant-impact_hypothesis.txt 1 1340 
+princeton Giant-impact_hypothesis.txt 1 2300 
+pictoris Giant-impact_hypothesis.txt 1 1869 
+second Giant-impact_hypothesis.txt 2 1112 2084 
+matter Giant-impact_hypothesis.txt 1 1027 
+r Giant-impact_hypothesis.txt 2 441 523 
+endure Giant-impact_hypothesis.txt 1 1458 
+iron Giant-impact_hypothesis.txt 3 586 859 1560 
+were Giant-impact_hypothesis.txt 6 284 592 1279 1378 1385 2169 
+0.010 Giant-impact_hypothesis.txt 1 2898 
+steep Giant-impact_hypothesis.txt 1 855 
+reufer Giant-impact_hypothesis.txt 1 2696 
+result Giant-impact_hypothesis.txt 1 1913 
+and Giant-impact_hypothesis.txt 65 28 64 197 230 254 282 306 329 343 425 428 439 501 519 652 702 768 831 851 869 890 909 966 1022 1042 1052 1074 1078 1136 1186 1278 1374 1380 1393 1421 1531 1579 1639 1691 1706 1734 1751 1787 1832 1882 1907 1984 2145 2270 2305 2330 2391 2482 2532 2656 2697 2720 2793 2806 2814 2914 2939 2943 2957 2983 
+bridge Giant-impact_hypothesis.txt 1 2931 
+halliday Giant-impact_hypothesis.txt 1 649 
+coalesced Giant-impact_hypothesis.txt 4 91 932 1028 2314 
+remained Giant-impact_hypothesis.txt 1 2476 
+well Giant-impact_hypothesis.txt 1 1512 
+disambiguation Giant-impact_hypothesis.txt 1 13 
+modern Giant-impact_hypothesis.txt 1 662 
+kepler Giant-impact_hypothesis.txt 2 959 981 
+depleted Giant-impact_hypothesis.txt 1 1768 
+have Giant-impact_hypothesis.txt 41 132 187 477 716 728 794 803 862 894 1010 1035 1063 1083 1094 1160 1456 1538 1790 1846 1948 1965 2038 2054 2076 2142 2165 2354 2415 2467 2475 2491 2555 2558 2580 2714 2725 2763 2907 2933 2960 2986 
+procellarum Giant-impact_hypothesis.txt 1 3041 
+need Giant-impact_hypothesis.txt 1 2010 
+apparently Giant-impact_hypothesis.txt 1 2636 
+any Giant-impact_hypothesis.txt 1 2131 
+contents Giant-impact_hypothesis.txt 1 269 
+angle Giant-impact_hypothesis.txt 3 810 827 857 
+form Giant-impact_hypothesis.txt 8 490 787 1409 1544 2569 2672 3007 3027 
+gravity Giant-impact_hypothesis.txt 3 1786 2608 3053 
+thorough Giant-impact_hypothesis.txt 1 139 
+metallic Giant-impact_hypothesis.txt 1 563 
+also Giant-impact_hypothesis.txt 4 986 2036 2244 3069 
+coplanar Giant-impact_hypothesis.txt 1 1085 
+causing Giant-impact_hypothesis.txt 2 137 1213 
+forces Giant-impact_hypothesis.txt 3 305 403 2103 
+8920 Giant-impact_hypothesis.txt 1 1935 
+finding Giant-impact_hypothesis.txt 1 1259 
+subject Giant-impact_hypothesis.txt 1 2681 
+silicates Giant-impact_hypothesis.txt 3 553 579 604 
+slow Giant-impact_hypothesis.txt 1 2123 
+oblique Giant-impact_hypothesis.txt 1 809 
+experienced Giant-impact_hypothesis.txt 3 258 717 1064 
+km/s Giant-impact_hypothesis.txt 2 838 1841 
+trace Giant-impact_hypothesis.txt 1 364 
+normal Giant-impact_hypothesis.txt 1 1728 
+who Giant-impact_hypothesis.txt 3 107 525 630 
+paid Giant-impact_hypothesis.txt 1 407 
+most Giant-impact_hypothesis.txt 4 549 568 870 1610 
+beta Giant-impact_hypothesis.txt 1 1868 
+germany Giant-impact_hypothesis.txt 1 1295 
+significant Giant-impact_hypothesis.txt 5 739 881 1037 1316 2464 
+colliding Giant-impact_hypothesis.txt 3 93 556 1917 
+comparison Giant-impact_hypothesis.txt 2 1693 2431 
+why Giant-impact_hypothesis.txt 2 255 2071 
+maria Giant-impact_hypothesis.txt 2 1216 1241 
+ejected Giant-impact_hypothesis.txt 3 896 903 920 
+isotopic Giant-impact_hypothesis.txt 6 1269 1305 1349 1433 1697 1735 
+observation Giant-impact_hypothesis.txt 1 1681 
+surprising Giant-impact_hypothesis.txt 1 1258 
+professor Giant-impact_hypothesis.txt 1 409 
+later Giant-impact_hypothesis.txt 6 339 426 747 976 2417 2855 
+cover Giant-impact_hypothesis.txt 1 1185 
+2au Giant-impact_hypothesis.txt 1 1883 
+bodies Giant-impact_hypothesis.txt 12 22 144 457 675 723 1285 1615 1845 2403 2537 2919 2998 
+velocity Giant-impact_hypothesis.txt 7 798 835 908 911 1839 2564 2723 
+typically Giant-impact_hypothesis.txt 1 2187 
+silica-rich Giant-impact_hypothesis.txt 1 1830 
+planetary Giant-impact_hypothesis.txt 5 21 202 1723 2275 2997 
+atmosphere Giant-impact_hypothesis.txt 2 1392 2926 
+signatures Giant-impact_hypothesis.txt 1 1794 
+show Giant-impact_hypothesis.txt 2 1493 1553 
+random Giant-impact_hypothesis.txt 1 2208 
+23514 Giant-impact_hypothesis.txt 1 1889 
+evaporation Giant-impact_hypothesis.txt 1 1773 
+relation Giant-impact_hypothesis.txt 1 2662 
+threshold Giant-impact_hypothesis.txt 1 2363 
+earth Giant-impact_hypothesis.txt 51 27 63 189 281 301 335 373 481 537 703 712 767 806 813 852 892 901 930 1021 1033 1155 1277 1308 1326 1353 1373 1420 1502 1638 1651 1657 1690 1705 1758 1906 1977 2182 2324 2481 2628 2655 2704 2805 2853 2866 2913 2938 2959 2985 3012 3016 
+impact Giant-impact_hypothesis.txt 27 25 47 130 183 399 535 734 792 826 856 1060 1073 1370 1481 1534 1617 1714 1779 1792 1813 1969 2028 2095 2186 2472 2846 2902 
+giant Giant-impact_hypothesis.txt 7 182 259 733 1369 1480 1533 1778 
+highest Giant-impact_hypothesis.txt 1 1660 
+based Giant-impact_hypothesis.txt 3 990 1799 2684 
+explain Giant-impact_hypothesis.txt 3 497 2650 3033 
+planetesimals Giant-impact_hypothesis.txt 1 2381 
+earth-moon Giant-impact_hypothesis.txt 2 973 979 
+enough Giant-impact_hypothesis.txt 2 2514 2563 
+institution Giant-impact_hypothesis.txt 1 1253 
+being Giant-impact_hypothesis.txt 1 1767 
+only Giant-impact_hypothesis.txt 3 730 1427 2621 
+rich Giant-impact_hypothesis.txt 2 1518 1561 
+darwin Giant-impact_hypothesis.txt 1 275 
+over Giant-impact_hypothesis.txt 1 58 
+spun Giant-impact_hypothesis.txt 2 298 2778 
+do Giant-impact_hypothesis.txt 1 3037 
+his Giant-impact_hypothesis.txt 1 2698 
+hit Giant-impact_hypothesis.txt 2 136 971 
+means Giant-impact_hypothesis.txt 1 1828 
+moons Giant-impact_hypothesis.txt 6 1080 1150 2114 2205 2260 2771 
+overall Giant-impact_hypothesis.txt 1 1752 
+fluid Giant-impact_hypothesis.txt 1 1413 
+countered Giant-impact_hypothesis.txt 1 2088 
+simplistic Giant-impact_hypothesis.txt 1 756 
+cannot Giant-impact_hypothesis.txt 2 1207 2666 
+gya Giant-impact_hypothesis.txt 2 2424 2428 
+nearly Giant-impact_hypothesis.txt 2 815 1497 
+closely Giant-impact_hypothesis.txt 1 325 
+shared Giant-impact_hypothesis.txt 1 2928 
+report Giant-impact_hypothesis.txt 1 126 
+during Giant-impact_hypothesis.txt 6 261 419 594 705 1487 1727 
+interpreted Giant-impact_hypothesis.txt 1 1910 
+collisional Giant-impact_hypothesis.txt 1 571 
+molten Giant-impact_hypothesis.txt 4 294 1379 1530 2783 
+following Giant-impact_hypothesis.txt 1 1967 
+evolution Giant-impact_hypothesis.txt 3 233 2216 2248 
+resolve Giant-impact_hypothesis.txt 1 359 
+ended Giant-impact_hypothesis.txt 1 1011 
+conditions Giant-impact_hypothesis.txt 1 1618 
+yield Giant-impact_hypothesis.txt 1 1628 
+irregularities Giant-impact_hypothesis.txt 1 2603 
+hemispheres Giant-impact_hypothesis.txt 1 2548 
+compositional Giant-impact_hypothesis.txt 1 2007 
+predicted Giant-impact_hypothesis.txt 2 185 1898 
+contain Giant-impact_hypothesis.txt 1 1745 
+embryonic Giant-impact_hypothesis.txt 1 1905 
+re-collided Giant-impact_hypothesis.txt 1 3005 
+swept Giant-impact_hypothesis.txt 1 1096 
+late-impact Giant-impact_hypothesis.txt 1 822 
+comparable Giant-impact_hypothesis.txt 1 2042 
+up Giant-impact_hypothesis.txt 3 1012 1097 2745 
+relative Giant-impact_hypothesis.txt 1 2322 
+facts Giant-impact_hypothesis.txt 1 3034 
+see Giant-impact_hypothesis.txt 2 10 3068 
+computer Giant-impact_hypothesis.txt 4 818 992 2342 2433 
+radius Giant-impact_hypothesis.txt 2 1590 1600 
+are Giant-impact_hypothesis.txt 4 962 2003 2271 2773 
+led Giant-impact_hypothesis.txt 1 2396 
+outward Giant-impact_hypothesis.txt 1 1152 
+best Giant-impact_hypothesis.txt 1 169 
+points Giant-impact_hypothesis.txt 1 2487 
+fails Giant-impact_hypothesis.txt 1 2647 
+satisfying Giant-impact_hypothesis.txt 1 1619 
+lack Giant-impact_hypothesis.txt 1 2014 
+subsequent Giant-impact_hypothesis.txt 3 2214 2392 2527 
+away Giant-impact_hypothesis.txt 2 332 1099 
+currently Giant-impact_hypothesis.txt 1 149 
+wikipedia Giant-impact_hypothesis.txt 1 2 
+tend Giant-impact_hypothesis.txt 2 606 2108 
+behind Giant-impact_hypothesis.txt 1 2335 
+difficulties Giant-impact_hypothesis.txt 2 1938 1946 
+various Giant-impact_hypothesis.txt 1 2767 
+between Giant-impact_hypothesis.txt 13 19 26 62 766 906 1417 1782 1843 1880 2400 2479 2529 2545 
+orbiting Giant-impact_hypothesis.txt 1 1015 
+probably Giant-impact_hypothesis.txt 1 597 
+reading Giant-impact_hypothesis.txt 1 3076 
+approach Giant-impact_hypothesis.txt 1 509 
+across Giant-impact_hypothesis.txt 1 2583 
+we Giant-impact_hypothesis.txt 2 1242 3009 
+attention Giant-impact_hypothesis.txt 1 405 
+terms Giant-impact_hypothesis.txt 1 790 
+statistically Giant-impact_hypothesis.txt 1 1315 
+parent Giant-impact_hypothesis.txt 1 143 
+25 Giant-impact_hypothesis.txt 1 1598 
+initially Giant-impact_hypothesis.txt 1 642 
+emitted Giant-impact_hypothesis.txt 1 593 
+however Giant-impact_hypothesis.txt 6 176 215 839 879 1451 2629 
+physicist Giant-impact_hypothesis.txt 1 2694 
+harvard Giant-impact_hypothesis.txt 1 380 
+hypothesis Giant-impact_hypothesis.txt 19 1 38 147 153 175 290 694 761 1715 1943 1957 2642 2646 2675 2837 2869 2952 2969 3031 
+no Giant-impact_hypothesis.txt 3 221 944 1973 
+selene Giant-impact_hypothesis.txt 2 112 637 
+outer Giant-impact_hypothesis.txt 1 552 
+inertia Giant-impact_hypothesis.txt 1 1576 
+suggested Giant-impact_hypothesis.txt 6 445 526 2283 2461 2524 2765 
+both Giant-impact_hypothesis.txt 3 142 888 2918 
+goddess Giant-impact_hypothesis.txt 2 114 636 
+last Giant-impact_hypothesis.txt 1 738 
+meteorites Giant-impact_hypothesis.txt 1 1797 
+density Giant-impact_hypothesis.txt 2 1573 1661 
+according Giant-impact_hypothesis.txt 3 660 2676 2729 
+canup Giant-impact_hypothesis.txt 1 2978 
+became Giant-impact_hypothesis.txt 2 308 1398 
+grail Giant-impact_hypothesis.txt 2 2633 3052 
+absorption Giant-impact_hypothesis.txt 1 1671 
+geochemical Giant-impact_hypothesis.txt 1 502 
+attributes Giant-impact_hypothesis.txt 1 2838 
+comes Giant-impact_hypothesis.txt 1 1483 
+nearby Giant-impact_hypothesis.txt 1 1856 
+strongly Giant-impact_hypothesis.txt 1 1718 
+destabilized Giant-impact_hypothesis.txt 1 2511 
+point Giant-impact_hypothesis.txt 2 1122 2321 
+period Giant-impact_hypothesis.txt 2 454 2153 
+community Giant-impact_hypothesis.txt 1 659 
+60 Giant-impact_hypothesis.txt 1 2332 
+distinguish Giant-impact_hypothesis.txt 1 1738 
+pole Giant-impact_hypothesis.txt 1 2297 
+self-consistent Giant-impact_hypothesis.txt 1 222 
+article Giant-impact_hypothesis.txt 2 612 2755 
+sao Giant-impact_hypothesis.txt 1 1936 
+belt Giant-impact_hypothesis.txt 2 1873 1923 
+conference Giant-impact_hypothesis.txt 1 414 
+destroyed Giant-impact_hypothesis.txt 1 2727 
+been Giant-impact_hypothesis.txt 20 133 213 297 729 795 895 1095 1808 1847 1909 1994 2039 2055 2355 2460 2468 2559 2715 2764 2893 
+quickly Giant-impact_hypothesis.txt 1 931 
+pc Giant-impact_hypothesis.txt 1 1858 
+collided Giant-impact_hypothesis.txt 3 478 2146 2701 
+much Giant-impact_hypothesis.txt 2 323 2854 
+mars Giant-impact_hypothesis.txt 6 71 544 1707 1760 2374 3002 
+collected Giant-impact_hypothesis.txt 1 1486 
+dozens Giant-impact_hypothesis.txt 1 718 
+4 Giant-impact_hypothesis.txt 2 837 2194 
+isotopes Giant-impact_hypothesis.txt 2 1748 2665 
+direction Giant-impact_hypothesis.txt 1 2293 
+corresponding Giant-impact_hypothesis.txt 1 1756 
+fractionated Giant-impact_hypothesis.txt 1 1719 
+accretion Giant-impact_hypothesis.txt 1 2819 
+concerning Giant-impact_hypothesis.txt 1 167 
+formed Giant-impact_hypothesis.txt 16 33 52 459 531 817 1118 1323 1631 1966 2024 2047 2166 2791 2809 2961 2987 
+gas Giant-impact_hypothesis.txt 1 1835 
+inconsistencies Giant-impact_hypothesis.txt 1 2008 
+observe Giant-impact_hypothesis.txt 1 1243 
+external Giant-impact_hypothesis.txt 1 3082 
+60140 Giant-impact_hypothesis.txt 1 2876 
+evidence Giant-impact_hypothesis.txt 8 161 198 1474 1477 1552 1711 1974 2406 
+equilibration Giant-impact_hypothesis.txt 1 1416 
+present Giant-impact_hypothesis.txt 1 1133 
+pierce Giant-impact_hypothesis.txt 2 1208 1233 
+heavier Giant-impact_hypothesis.txt 1 206 
+laser Giant-impact_hypothesis.txt 1 347 
+processes Giant-impact_hypothesis.txt 2 1730 1742 
+these Giant-impact_hypothesis.txt 3 474 2535 2823 
+2011 Giant-impact_hypothesis.txt 1 2523 
+align Giant-impact_hypothesis.txt 1 704 
+single Giant-impact_hypothesis.txt 3 239 287 2191 
+can Giant-impact_hypothesis.txt 3 1232 1737 2825 
+n Giant-impact_hypothesis.txt 1 648 
+will Giant-impact_hypothesis.txt 1 2243 
+refractory Giant-impact_hypothesis.txt 1 483 
+giant-impact Giant-impact_hypothesis.txt 10 0 37 146 174 228 693 760 1956 2645 2968 
+ongoing Giant-impact_hypothesis.txt 1 1465 
+momentum Giant-impact_hypothesis.txt 4 1041 1622 2091 2831 
+reservoirs Giant-impact_hypothesis.txt 1 1384 
+valleys Giant-impact_hypothesis.txt 3 3047 3060 3064 
+bya Giant-impact_hypothesis.txt 1 776 
+drs Giant-impact_hypothesis.txt 1 435 
+unlikely Giant-impact_hypothesis.txt 1 2056 
+resolved Giant-impact_hypothesis.txt 1 1952 
+layer Giant-impact_hypothesis.txt 1 2596 
+darwins Giant-impact_hypothesis.txt 3 289 355 383 
+century Giant-impact_hypothesis.txt 1 948 
+equator Giant-impact_hypothesis.txt 1 1077 
+characteristics Giant-impact_hypothesis.txt 1 2544 
+is Giant-impact_hypothesis.txt 27 95 148 184 220 546 621 695 713 800 1178 1320 1425 1464 1472 1594 1653 1717 1763 1972 1986 2030 2098 2207 2252 2255 2683 2737 
+thus Giant-impact_hypothesis.txt 1 968 
+it Giant-impact_hypothesis.txt 11 386 545 1061 1563 1652 1985 2029 2254 2458 2709 2789 
+surface Giant-impact_hypothesis.txt 3 370 1961 2784 
+heating Giant-impact_hypothesis.txt 1 1793 
+equilibrate Giant-impact_hypothesis.txt 1 2944 
+cluster Giant-impact_hypothesis.txt 1 1893 
+in Giant-impact_hypothesis.txt 55 77 123 272 326 374 417 430 432 585 650 656 678 788 843 926 943 951 964 1116 1119 1139 1167 1238 1246 1286 1290 1294 1331 1364 1407 1569 1604 1666 1722 1795 1820 1866 1877 1890 2128 2138 2189 2298 2325 2375 2404 2439 2477 2485 2522 2542 2586 2612 2867 2903 
+affected Giant-impact_hypothesis.txt 1 2356 
+technology Giant-impact_hypothesis.txt 1 1339 
+gradients Giant-impact_hypothesis.txt 1 3054 
+4.53 Giant-impact_hypothesis.txt 1 2423 
+around Giant-impact_hypothesis.txt 10 899 916 928 953 983 1019 1854 1929 2048 2115 
+orbital Giant-impact_hypothesis.txt 2 907 2247 
+confirmed Giant-impact_hypothesis.txt 1 340 
+4.527 Giant-impact_hypothesis.txt 1 2897 
+sio Giant-impact_hypothesis.txt 1 1834 
+suggest Giant-impact_hypothesis.txt 6 824 998 1520 1587 2158 2344 
+began Giant-impact_hypothesis.txt 2 785 2126 
+locking Giant-impact_hypothesis.txt 1 2614 
+indistinguishable Giant-impact_hypothesis.txt 1 2661 
+same Giant-impact_hypothesis.txt 3 2328 2812 2818 
+potentially Giant-impact_hypothesis.txt 1 496 
+viewed Giant-impact_hypothesis.txt 1 2290 
+modification Giant-impact_hypothesis.txt 1 2732 
+products Giant-impact_hypothesis.txt 1 1836 
+several Giant-impact_hypothesis.txt 3 165 455 1549 
+composition Giant-impact_hypothesis.txt 9 1244 1506 1698 1736 2000 2653 2734 2743 2949 
+higher Giant-impact_hypothesis.txt 3 922 2716 2722 
+satellite Giant-impact_hypothesis.txt 1 2861 
+used Giant-impact_hypothesis.txt 1 1809 
+context Giant-impact_hypothesis.txt 1 3061 
+crater Giant-impact_hypothesis.txt 1 2571 
+upon Giant-impact_hypothesis.txt 1 536 
+effect Giant-impact_hypothesis.txt 2 1806 2251 
+moment Giant-impact_hypothesis.txt 1 1574 
+uses Giant-impact_hypothesis.txt 1 9 
+dust Giant-impact_hypothesis.txt 4 485 1831 1876 1926 
+totally Giant-impact_hypothesis.txt 1 2726 
+rift Giant-impact_hypothesis.txt 3 3046 3059 3063 
+tugs Giant-impact_hypothesis.txt 1 2507 
+off Giant-impact_hypothesis.txt 1 2779 
+scenario Giant-impact_hypothesis.txt 8 823 1429 1447 1482 1535 2377 2640 2905 
+i Giant-impact_hypothesis.txt 1 629 
+1975 Giant-impact_hypothesis.txt 1 433 
+1974 Giant-impact_hypothesis.txt 1 418 
+reginald Giant-impact_hypothesis.txt 1 376 
+analysis Giant-impact_hypothesis.txt 2 118 1798 
+ocean Giant-impact_hypothesis.txt 7 194 1548 1963 1983 1999 2911 3042 
+thought Giant-impact_hypothesis.txt 4 714 801 2858 2894 
+academic Giant-impact_hypothesis.txt 2 311 3078 
+directly Giant-impact_hypothesis.txt 1 2702 
+materials Giant-impact_hypothesis.txt 1 590 
+satellite-sized Giant-impact_hypothesis.txt 1 456 
+english Giant-impact_hypothesis.txt 1 645 
+explicable Giant-impact_hypothesis.txt 1 1682 
+model Giant-impact_hypothesis.txt 3 223 754 2973 
+soviet Giant-impact_hypothesis.txt 1 344 
+dalys Giant-impact_hypothesis.txt 1 410 
+left Giant-impact_hypothesis.txt 3 57 1138 1791 
+redirects Giant-impact_hypothesis.txt 1 5 
+thickened Giant-impact_hypothesis.txt 1 1101 
+proposed Giant-impact_hypothesis.txt 7 470 641 1362 1428 1685 2311 2350 
+less Giant-impact_hypothesis.txt 5 938 1214 1357 1595 1753 
+hypothesized Giant-impact_hypothesis.txt 3 547 619 2163 
+percent Giant-impact_hypothesis.txt 2 1002 1360 
+proximity Giant-impact_hypothesis.txt 1 2236 
+not Giant-impact_hypothesis.txt 10 264 358 566 1086 1470 1726 2075 2567 2738 3038 
+distant Giant-impact_hypothesis.txt 2 1859 2267 
+impact-generated Giant-impact_hypothesis.txt 1 2259 
+questions Giant-impact_hypothesis.txt 2 166 243 
+differentiation Giant-impact_hypothesis.txt 1 203 
+depart Giant-impact_hypothesis.txt 1 2385 
+alternative Giant-impact_hypothesis.txt 1 2751 
+october Giant-impact_hypothesis.txt 1 3055 
+speed Giant-impact_hypothesis.txt 2 1051 2712 
+rotation Giant-impact_hypothesis.txt 2 1057 2124 
+captured Giant-impact_hypothesis.txt 2 468 2796 
+adding Giant-impact_hypothesis.txt 1 2593 
+accepted Giant-impact_hypothesis.txt 2 655 2420 
+mother Giant-impact_hypothesis.txt 1 110 
+similarities Giant-impact_hypothesis.txt 1 1434 
+thick Giant-impact_hypothesis.txt 2 1199 2595 
+had Giant-impact_hypothesis.txt 7 296 321 458 1301 1979 2064 2892 
+geological Giant-impact_hypothesis.txt 2 500 1741 
+add Giant-impact_hypothesis.txt 1 1187 
+spread Giant-impact_hypothesis.txt 1 2581 
+attractive Giant-impact_hypothesis.txt 1 689 
+samples Giant-impact_hypothesis.txt 3 1300 1519 1701 
+non-academic Giant-impact_hypothesis.txt 1 3080 
+struck Giant-impact_hypothesis.txt 1 804 
+has Giant-impact_hypothesis.txt 11 212 653 1224 1558 1658 1807 1908 1944 1992 2459 2635 
+plasma Giant-impact_hypothesis.txt 1 2923 
+remaining Giant-impact_hypothesis.txt 1 242 
+coalescing Giant-impact_hypothesis.txt 1 582 
+gave Giant-impact_hypothesis.txt 1 631 
+identical Giant-impact_hypothesis.txt 3 1273 1348 1498 
+which Giant-impact_hypothesis.txt 8 257 420 961 1492 1762 2473 3003 3024 
+kilometres Giant-impact_hypothesis.txt 1 2137 
+big Giant-impact_hypothesis.txt 4 3 11 42 2287 
+belbruno Giant-impact_hypothesis.txt 1 2304 
+possible Giant-impact_hypothesis.txt 6 1318 1473 2031 2068 2277 2750 
+proto-moon Giant-impact_hypothesis.txt 2 2916 2940 
+early Giant-impact_hypothesis.txt 2 1689 2127 
+possibly Giant-impact_hypothesis.txt 1 936 
+five Giant-impact_hypothesis.txt 1 1068 
+birth Giant-impact_hypothesis.txt 1 632 
+using Giant-impact_hypothesis.txt 2 313 346 
+unique Giant-impact_hypothesis.txt 1 499 
+vapour Giant-impact_hypothesis.txt 3 1391 2925 2930 
+richard Giant-impact_hypothesis.txt 1 2308 
+oxygen Giant-impact_hypothesis.txt 3 840 1494 2664 
+lost Giant-impact_hypothesis.txt 1 248 
+follows Giant-impact_hypothesis.txt 1 231 
+velocities Giant-impact_hypothesis.txt 2 905 923 
+impactor Giant-impact_hypothesis.txt 5 740 834 1641 1647 1677 
+separately Giant-impact_hypothesis.txt 1 2965 
+mathematician Giant-impact_hypothesis.txt 1 2302 
+unstable Giant-impact_hypothesis.txt 1 1165 
+become Giant-impact_hypothesis.txt 3 654 1084 2589 
+because Giant-impact_hypothesis.txt 3 302 977 1196 
+old Giant-impact_hypothesis.txt 1 1863 
+classical Giant-impact_hypothesis.txt 1 2671 
+titan Giant-impact_hypothesis.txt 2 106 627 
+some Giant-impact_hypothesis.txt 4 1000 1067 1945 2222 
+back Giant-impact_hypothesis.txt 1 2230 
+50 Giant-impact_hypothesis.txt 2 1608 2747 
+hartmann Giant-impact_hypothesis.txt 1 438 
+donald Giant-impact_hypothesis.txt 1 440 
+escape Giant-impact_hypothesis.txt 3 599 910 2058 
+indirect Giant-impact_hypothesis.txt 1 1476 
+3.9 Giant-impact_hypothesis.txt 1 749 
+pleiades Giant-impact_hypothesis.txt 1 1892 
+slow-velocity Giant-impact_hypothesis.txt 1 1169 
+for Giant-impact_hypothesis.txt 18 7 154 1141 1445 1459 1478 1609 1712 1776 1953 2118 2171 2220 2258 2285 2497 2769 2827 
+affects Giant-impact_hypothesis.txt 1 2212 
+measurements Giant-impact_hypothesis.txt 1 2438 
+ice Giant-impact_hypothesis.txt 1 2749 
+moon Giant-impact_hypothesis.txt 58 35 51 117 159 240 247 268 283 295 320 353 366 394 492 506 529 583 635 701 935 1031 1113 1125 1128 1135 1175 1223 1490 1527 1557 1585 1603 1630 1743 1771 2018 2022 2045 2079 2168 2192 2227 2483 2531 2551 2585 2617 2658 2759 2776 2808 2843 2874 2891 2956 2982 3029 3039 
+does Giant-impact_hypothesis.txt 1 2074 
+orbited Giant-impact_hypothesis.txt 1 322 
+lunar Giant-impact_hypothesis.txt 8 120 844 1205 1215 1230 1509 1700 1941 
+provides Giant-impact_hypothesis.txt 1 1709 
+assuming Giant-impact_hypothesis.txt 1 1801 
+moderate Giant-impact_hypothesis.txt 1 797 
+inclination Giant-impact_hypothesis.txt 1 2201 
+bd Giant-impact_hypothesis.txt 1 1932 
+core Giant-impact_hypothesis.txt 7 564 860 868 1562 1593 1644 1674 
+object Giant-impact_hypothesis.txt 1 31 
+scientific Giant-impact_hypothesis.txt 2 152 658 
+protoplanet Giant-impact_hypothesis.txt 1 620 
+each Giant-impact_hypothesis.txt 2 1919 2999 
+notable Giant-impact_hypothesis.txt 1 2540 
+agreement Giant-impact_hypothesis.txt 1 1821 
+host Giant-impact_hypothesis.txt 2 265 2197 
+ratios Giant-impact_hypothesis.txt 1 1496 
+tidal Giant-impact_hypothesis.txt 3 1157 2102 2613 
+properties Giant-impact_hypothesis.txt 2 503 1686 
+gained Giant-impact_hypothesis.txt 1 1036 
+on Giant-impact_hypothesis.txt 8 351 415 957 991 1800 2679 2685 2912 
+about Giant-impact_hypothesis.txt 11 81 772 777 829 1023 1114 1460 1597 1607 2326 2331 
+carried Giant-impact_hypothesis.txt 1 1267 
+of Giant-impact_hypothesis.txt 141 16 54 70 102 111 115 119 141 157 172 179 195 199 204 217 234 251 303 371 379 392 450 473 504 538 543 550 554 569 578 617 664 670 673 687 691 699 708 719 758 796 820 828 849 871 883 994 1003 1007 1017 1025 1039 1049 1054 1088 1103 1123 1143 1145 1192 1197 1201 1221 1254 1338 1344 1367 1410 1435 1501 1507 1516 1525 1551 1575 1583 1591 1601 1611 1624 1636 1645 1662 1672 1675 1687 1694 1699 1704 1749 1804 1837 1874 1900 1914 1924 2006 2015 2070 2113 2150 2154 2178 2195 2202 2217 2237 2279 2294 2348 2364 2367 2373 2422 2432 2454 2508 2534 2549 2597 2615 2654 2663 2673 2691 2706 2735 2744 2757 2822 2832 2841 2847 2872 2882 2889 2964 2991 2995 3022 3043 
+discussed Giant-impact_hypothesis.txt 1 429 
+location Giant-impact_hypothesis.txt 1 2390 
+robin Giant-impact_hypothesis.txt 1 2976 
+connected Giant-impact_hypothesis.txt 1 1386 
+constraints Giant-impact_hypothesis.txt 1 1623 
+slightly Giant-impact_hypothesis.txt 1 1303 
+or Giant-impact_hypothesis.txt 8 44 466 912 1469 1759 2318 2334 2802 
+stony Giant-impact_hypothesis.txt 1 1796 
+mantle Giant-impact_hypothesis.txt 5 211 873 878 885 2442 
+previously Giant-impact_hypothesis.txt 2 2857 2886 
+into Giant-impact_hypothesis.txt 10 209 237 574 864 897 913 933 1029 2231 2945 
+within Giant-impact_hypothesis.txt 2 937 2493 
+washington Giant-impact_hypothesis.txt 1 1255 
+appropriate Giant-impact_hypothesis.txt 1 1616 
+right Giant-impact_hypothesis.txt 1 1098 
+references Giant-impact_hypothesis.txt 1 3071 
+determine Giant-impact_hypothesis.txt 1 1467 
+heated Giant-impact_hypothesis.txt 1 188 
+existed Giant-impact_hypothesis.txt 2 677 1406 
+few Giant-impact_hypothesis.txt 1 2136 
+assumed Giant-impact_hypothesis.txt 1 2719 
+there Giant-impact_hypothesis.txt 7 163 219 1212 1971 1988 2002 2066 
+spiral Giant-impact_hypothesis.txt 1 2229 
+long Giant-impact_hypothesis.txt 2 1070 2499 
+stuck Giant-impact_hypothesis.txt 1 2484 
+asteroid Giant-impact_hypothesis.txt 2 2340 2850 
+inner Giant-impact_hypothesis.txt 1 2034 
+mantles Giant-impact_hypothesis.txt 1 1635 
+resulted Giant-impact_hypothesis.txt 1 2611 
+researchers Giant-impact_hypothesis.txt 1 1333 
+was Giant-impact_hypothesis.txt 26 108 291 330 338 395 406 423 510 530 640 668 814 967 1129 1137 1272 1312 1354 1529 1927 2023 2407 2777 2790 2794 3017 
+billion Giant-impact_hypothesis.txt 5 74 683 750 1817 2899 
+creation Giant-impact_hypothesis.txt 1 391 
+an Giant-impact_hypothesis.txt 14 24 65 398 808 825 832 996 1014 1268 1347 1415 1559 2027 2185 
+elsewhere Giant-impact_hypothesis.txt 1 2792 
+newtonian Giant-impact_hypothesis.txt 1 314 
+venuss Giant-impact_hypothesis.txt 1 2122 
+adjusting Giant-impact_hypothesis.txt 1 385 
+basic Giant-impact_hypothesis.txt 1 753 
+but Giant-impact_hypothesis.txt 5 735 942 1314 1725 2209 
+expected Giant-impact_hypothesis.txt 1 1775 
+properly Giant-impact_hypothesis.txt 1 2649 
+solar Giant-impact_hypothesis.txt 9 89 601 680 783 1156 1288 1668 2456 2884 
+implies Giant-impact_hypothesis.txt 1 1958 
+apollo Giant-impact_hypothesis.txt 4 1265 1299 1437 1489 
+with Giant-impact_hypothesis.txt 20 226 463 479 721 904 1274 1439 1702 1765 1822 1903 1918 2147 2175 2273 2394 2435 2703 2851 2917 
+hd Giant-impact_hypothesis.txt 1 1888 
+he Giant-impact_hypothesis.txt 1 316 
+made Giant-impact_hypothesis.txt 2 276 1161 
+consist Giant-impact_hypothesis.txt 1 577 
+aldworth Giant-impact_hypothesis.txt 1 377 
+whether Giant-impact_hypothesis.txt 1 1468 
+gravitational Giant-impact_hypothesis.txt 3 2378 2506 2800 
+j Giant-impact_hypothesis.txt 1 2307 
+magma Giant-impact_hypothesis.txt 8 196 1206 1231 1547 1962 1982 1998 2910 
+different Giant-impact_hypothesis.txt 2 1280 1304 
+planet Giant-impact_hypothesis.txt 7 452 614 665 2073 2156 2233 2239 
+placed Giant-impact_hypothesis.txt 1 350 
+below Giant-impact_hypothesis.txt 1 836 
+igneous Giant-impact_hypothesis.txt 2 1729 1757 
+tens Giant-impact_hypothesis.txt 1 1142 
+similar Giant-impact_hypothesis.txt 6 267 508 1895 1922 2336 2652 
+called Giant-impact_hypothesis.txt 2 40 97 
+stirring Giant-impact_hypothesis.txt 1 1402 
+mechanics Giant-impact_hypothesis.txt 2 315 361 
+sometimes Giant-impact_hypothesis.txt 2 39 96 
+links Giant-impact_hypothesis.txt 1 3083 
+likewise Giant-impact_hypothesis.txt 1 2234 
+resultant Giant-impact_hypothesis.txt 1 201 
+as Giant-impact_hypothesis.txt 13 216 1013 1147 1351 1511 1513 1774 1911 2289 2498 2500 2566 2988 
+sometime Giant-impact_hypothesis.txt 1 975 
+1898 Giant-impact_hypothesis.txt 1 273 
+at Giant-impact_hypothesis.txt 11 447 771 807 921 1250 2315 2425 2560 2688 2766 2810 
+planets Giant-impact_hypothesis.txt 8 465 1665 2035 2117 2174 2198 2269 2510 
+simulations Giant-impact_hypothesis.txt 6 819 993 2149 2434 2554 2687 
+geochemist Giant-impact_hypothesis.txt 1 646 
+processed Giant-impact_hypothesis.txt 1 1995 
+4.5 Giant-impact_hypothesis.txt 2 73 682 
+4.4 Giant-impact_hypothesis.txt 1 773 
+nonetheless Giant-impact_hypothesis.txt 1 354 
+amounts Giant-impact_hypothesis.txt 1 1038 
+whereas Giant-impact_hypothesis.txt 2 561 603 
+45 Giant-impact_hypothesis.txt 1 830 
+when Giant-impact_hypothesis.txt 5 245 811 1720 2263 2357 
+portion Giant-impact_hypothesis.txt 2 882 1524 
+elemental Giant-impact_hypothesis.txt 1 2436 
+field Giant-impact_hypothesis.txt 1 2801 
+other Giant-impact_hypothesis.txt 10 8 241 1284 1613 1827 1920 2033 2463 2509 2760 
+icarus Giant-impact_hypothesis.txt 1 431 
+elements Giant-impact_hypothesis.txt 1 253 
+star Giant-impact_hypothesis.txt 4 1864 1887 1931 2242 
+energetic Giant-impact_hypothesis.txt 1 1327 
+models Giant-impact_hypothesis.txt 3 171 444 2343 
+m Giant-impact_hypothesis.txt 1 2977 
+carnegie Giant-impact_hypothesis.txt 1 1252 
+includes Giant-impact_hypothesis.txt 1 162 
+william Giant-impact_hypothesis.txt 2 436 522 
+mars-sized Giant-impact_hypothesis.txt 2 30 674 
+daly Giant-impact_hypothesis.txt 1 378 
+structure Giant-impact_hypothesis.txt 1 3049 
+ago Giant-impact_hypothesis.txt 4 76 685 752 1819 
+accreted Giant-impact_hypothesis.txt 2 874 3025 
+individual Giant-impact_hypothesis.txt 1 914 
+age Giant-impact_hypothesis.txt 1 2888 
+required Giant-impact_hypothesis.txt 1 362 
+accretes Giant-impact_hypothesis.txt 1 1648 
+orbit Giant-impact_hypothesis.txt 12 575 898 982 1081 1140 1164 2206 2265 2276 2329 2352 2478 
+together Giant-impact_hypothesis.txt 1 2962 
+having Giant-impact_hypothesis.txt 1 1346 
+2000 Giant-impact_hypothesis.txt 1 651 
+2001 Giant-impact_hypothesis.txt 1 1247 
+mass Giant-impact_hypothesis.txt 8 1006 1043 2177 2199 2360 2370 2372 2602 
+2007 Giant-impact_hypothesis.txt 1 1332 
+2004 Giant-impact_hypothesis.txt 1 2299 
+time Giant-impact_hypothesis.txt 1 2813 
+2008 Giant-impact_hypothesis.txt 1 2405 
+backward Giant-impact_hypothesis.txt 1 367 
+original Giant-impact_hypothesis.txt 1 1005 
+once Giant-impact_hypothesis.txt 2 285 1528 

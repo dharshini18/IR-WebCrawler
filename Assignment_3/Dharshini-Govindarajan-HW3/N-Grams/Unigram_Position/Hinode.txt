@@ -1,0 +1,195 @@
+operations Hinode.txt 1 279 
+atmosphere Hinode.txt 1 220 
+rocket Hinode.txt 1 50 
+september Hinode.txt 2 58 64 
+suns Hinode.txt 1 200 
+over Hinode.txt 1 90 
+mission Hinode.txt 4 22 38 163 171 
+planning Hinode.txt 1 283 
+maneuvered Hinode.txt 1 84 
+consists Hinode.txt 1 181 
+japan Hinode.txt 3 17 55 161 
+its Hinode.txt 1 204 
+captured Hinode.txt 1 108 
+22 Hinode.txt 1 57 
+23 Hinode.txt 1 63 
+drive Hinode.txt 1 222 
+28 Hinode.txt 1 102 
+to Hinode.txt 8 34 85 119 146 153 172 194 302 
+magnetic Hinode.txt 2 175 201 
+degrees Hinode.txt 1 80 
+instrument Hinode.txt 2 259 285 
+eruptions Hinode.txt 1 224 
+280 Hinode.txt 1 72 
+hidden Hinode.txt 1 315 
+euv Hinode.txt 2 190 226 
+norway Hinode.txt 1 148 
+apogee Hinode.txt 1 74 
+2012 Hinode.txt 1 294 
+kingdom Hinode.txt 1 28 
+then Hinode.txt 1 81 
+perigee Hinode.txt 1 70 
+kilometres Hinode.txt 1 130 
+ultraviolet Hinode.txt 2 189 273 
+command Hinode.txt 1 286 
+aerospace Hinode.txt 1 18 
+harstad Hinode.txt 1 150 
+categories Hinode.txt 2 314 316 
+sun-synchronous Hinode.txt 1 88 
+d Hinode.txt 1 7 
+edit Hinode.txt 5 164 289 308 310 313 
+h Hinode.txt 1 3 
+telenor Hinode.txt 1 141 
+investigate Hinode.txt 1 195 
+transmitted Hinode.txt 1 139 
+fields Hinode.txt 1 176 
+through Hinode.txt 1 142 
+venus Hinode.txt 1 295 
+view Hinode.txt 1 291 
+few Hinode.txt 1 129 
+uchinoura Hinode.txt 1 52 
+x-ray Hinode.txt 2 192 267 
+generation Hinode.txt 1 287 
+there Hinode.txt 1 136 
+japanese Hinode.txt 1 9 
+see Hinode.txt 1 306 
+are Hinode.txt 1 116 
+images Hinode.txt 1 111 
+laboratory Hinode.txt 1 241 
+sunrise Hinode.txt 1 12 
+network Hinode.txt 1 145 
+for Hinode.txt 1 281 
+space Hinode.txt 3 53 239 248 
+sun Hinode.txt 3 100 179 305 
+wikipedia Hinode.txt 1 1 
+shares Hinode.txt 1 278 
+06:36 Hinode.txt 1 65 
+between Hinode.txt 1 198 
+three-year Hinode.txt 1 170 
+inclination Hinode.txt 1 78 
+europe Hinode.txt 1 159 
+be Hinode.txt 1 209 
+longyearbyen Hinode.txt 1 133 
+led Hinode.txt 1 235 
+kongsberg Hinode.txt 1 127 
+power Hinode.txt 1 217 
+mechanisms Hinode.txt 1 215 
+understanding Hinode.txt 1 212 
+downloaded Hinode.txt 1 118 
+explore Hinode.txt 1 173 
+imaging Hinode.txt 2 227 274 
+solar-b Hinode.txt 1 14 
+solar-a Hinode.txt 1 37 
+by Hinode.txt 4 126 140 232 236 
+extreme Hinode.txt 2 188 272 
+on Hinode.txt 4 43 56 101 152 
+interaction Hinode.txt 1 197 
+day/night Hinode.txt 1 92 
+package Hinode.txt 1 264 
+of Hinode.txt 9 47 98 132 177 182 186 213 250 292 
+study Hinode.txt 1 303 
+allows Hinode.txt 1 95 
+o Hinode.txt 1 6 
+carries Hinode.txt 1 298 
+planned Hinode.txt 1 167 
+west Hinode.txt 1 131 
+first Hinode.txt 1 110 
+ipa Hinode.txt 1 10 
+formerly Hinode.txt 1 13 
+hinode Hinode.txt 6 0 2 115 165 290 297 
+instruments Hinode.txt 4 107 193 288 301 
+transit Hinode.txt 1 296 
+height Hinode.txt 2 71 75 
+svalbard Hinode.txt 1 134 
+set Hinode.txt 1 185 
+references Hinode.txt 1 309 
+inode Hinode.txt 1 11 
+telescope Hinode.txt 1 268 
+america Hinode.txt 1 158 
+from Hinode.txt 3 51 114 135 
+mssl Hinode.txt 1 242 
+quasi-circular Hinode.txt 1 87 
+21:36 Hinode.txt 1 61 
+support Hinode.txt 1 280 
+initial Hinode.txt 1 67 
+three Hinode.txt 2 257 299 
+uk Hinode.txt 1 245 
+their Hinode.txt 1 109 
+station Hinode.txt 1 124 
+corona Hinode.txt 1 205 
+was Hinode.txt 6 41 69 138 166 230 254 
+final Hinode.txt 1 45 
+yohkoh Hinode.txt 1 36 
+main Hinode.txt 1 300 
+flight Hinode.txt 1 46 
+that Hinode.txt 1 216 
+optical Hinode.txt 1 187 
+external Hinode.txt 1 311 
+solar Hinode.txt 3 21 219 223 
+coordinated Hinode.txt 1 184 
+mainland Hinode.txt 1 147 
+with Hinode.txt 2 23 256 
+observation Hinode.txt 1 97 
+utc Hinode.txt 1 62 
+eis Hinode.txt 2 229 276 
+october Hinode.txt 1 103 
+improved Hinode.txt 1 211 
+being Hinode.txt 1 117 
+science Hinode.txt 3 240 258 282 
+also Hinode.txt 1 307 
+m-v-7 Hinode.txt 1 49 
+n Hinode.txt 1 5 
+will Hinode.txt 1 208 
+svalsat Hinode.txt 1 123 
+exploration Hinode.txt 1 19 
+mullard Hinode.txt 1 238 
+involved Hinode.txt 1 255 
+launched Hinode.txt 1 42 
+terminator Hinode.txt 1 93 
+and Hinode.txt 10 26 39 151 160 191 203 221 270 277 284 
+result Hinode.txt 1 207 
+links Hinode.txt 1 312 
+is Hinode.txt 2 15 31 
+it Hinode.txt 3 30 40 180 
+an Hinode.txt 1 210 
+states Hinode.txt 2 25 253 
+operated Hinode.txt 1 125 
+as Hinode.txt 1 168 
+at Hinode.txt 2 60 149 
+follow-up Hinode.txt 1 33 
+in Hinode.txt 2 156 243 
+north Hinode.txt 1 157 
+contents Hinode.txt 1 162 
+terrestrial Hinode.txt 1 122 
+united Hinode.txt 3 24 27 252 
+built Hinode.txt 1 231 
+agency Hinode.txt 2 20 249 
+consortium Hinode.txt 1 234 
+field Hinode.txt 1 202 
+98.3 Hinode.txt 1 79 
+fpp Hinode.txt 1 265 
+which Hinode.txt 1 94 
+xrt Hinode.txt 1 269 
+satellite Hinode.txt 1 83 
+users Hinode.txt 1 155 
+collaboration Hinode.txt 1 29 
+jst Hinode.txt 1 66 
+norwegian Hinode.txt 1 121 
+plane Hinode.txt 1 263 
+spectrometer Hinode.txt 2 228 275 
+fibre-optic Hinode.txt 1 144 
+data Hinode.txt 3 113 137 154 
+focal Hinode.txt 1 262 
+probes Hinode.txt 1 106 
+a Hinode.txt 6 16 128 143 169 183 233 
+near-continuous Hinode.txt 1 96 
+e Hinode.txt 1 8 
+center Hinode.txt 1 54 
+i Hinode.txt 1 4 
+orbit Hinode.txt 2 68 89 
+km Hinode.txt 2 73 77 
+nasa Hinode.txt 1 246 
+2006 Hinode.txt 2 59 104 
+components Hinode.txt 1 260 
+the Hinode.txt 28 32 35 44 48 82 86 91 99 105 112 120 174 178 196 199 206 214 218 225 237 244 247 251 261 266 271 293 304 
+686 Hinode.txt 1 76 

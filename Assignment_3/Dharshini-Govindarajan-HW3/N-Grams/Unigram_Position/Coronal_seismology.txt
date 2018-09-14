@@ -1,0 +1,378 @@
+all Coronal_seismology.txt 1 176 
+suns Coronal_seismology.txt 1 14 
+magnetic Coronal_seismology.txt 5 104 220 537 571 610 
+lack Coronal_seismology.txt 1 153 
+spacecraft Coronal_seismology.txt 1 509 
+parker Coronal_seismology.txt 1 519 
+per Coronal_seismology.txt 1 806 
+arcsec Coronal_seismology.txt 1 770 
+description Coronal_seismology.txt 1 228 
+technique Coronal_seismology.txt 1 7 
+send Coronal_seismology.txt 1 507 
+to Coronal_seismology.txt 10 151 163 185 307 325 461 506 530 607 646 
+include Coronal_seismology.txt 1 545 
+sound Coronal_seismology.txt 1 346 
+updated Coronal_seismology.txt 1 482 
+breathing Coronal_seismology.txt 1 333 
+wave Coronal_seismology.txt 7 61 67 71 80 296 361 550 
+ultraviolet Coronal_seismology.txt 1 751 
+categories Coronal_seismology.txt 1 850 
+eigenmodes Coronal_seismology.txt 1 706 
+list Coronal_seismology.txt 1 479 
+damped Coronal_seismology.txt 1 72 
+large Coronal_seismology.txt 1 425 
+radio Coronal_seismology.txt 1 410 
+originally Coronal_seismology.txt 1 114 
+work Coronal_seismology.txt 1 605 
+oscillation Coronal_seismology.txt 1 830 
+consistent Coronal_seismology.txt 1 625 
+second Coronal_seismology.txt 2 680 807 
+dynamics Coronal_seismology.txt 2 28 500 
+estimated Coronal_seismology.txt 1 715 
+90s Coronal_seismology.txt 1 149 
+what Coronal_seismology.txt 1 55 
+rate Coronal_seismology.txt 1 641 
+sun Coronal_seismology.txt 1 518 
+above Coronal_seismology.txt 2 445 780 
+waveguide Coronal_seismology.txt 1 254 
+method Coronal_seismology.txt 1 116 
+deposition Coronal_seismology.txt 1 644 
+cylindrical Coronal_seismology.txt 2 300 457 
+groups Coronal_seismology.txt 1 604 
+active Coronal_seismology.txt 2 744 782 
+along Coronal_seismology.txt 4 218 767 789 817 
+equations Coronal_seismology.txt 1 85 
+obtained Coronal_seismology.txt 1 747 
+shift Coronal_seismology.txt 1 740 
+studied Coronal_seismology.txt 2 677 762 
+studies Coronal_seismology.txt 1 26 
+explained Coronal_seismology.txt 1 824 
+nakariakov Coronal_seismology.txt 1 263 
+standing Coronal_seismology.txt 1 139 
+use Coronal_seismology.txt 1 18 
+from Coronal_seismology.txt 2 262 516 
+would Coronal_seismology.txt 1 328 
+0 Coronal_seismology.txt 1 326 
+distinct Coronal_seismology.txt 1 275 
+properties Coronal_seismology.txt 2 43 288 
+scenarios Coronal_seismology.txt 1 64 
+theoretical Coronal_seismology.txt 2 76 190 
+conclusions Coronal_seismology.txt 1 558 
+apparent Coronal_seismology.txt 1 798 
+known Coronal_seismology.txt 1 734 
+norh Coronal_seismology.txt 1 406 
+this Coronal_seismology.txt 6 34 222 258 327 478 700 
+equation Coronal_seismology.txt 2 684 701 
+launch Coronal_seismology.txt 1 525 
+can Coronal_seismology.txt 1 822 
+links Coronal_seismology.txt 1 848 
+flaring Coronal_seismology.txt 1 466 
+slit Coronal_seismology.txt 3 771 791 819 
+axis Coronal_seismology.txt 1 694 
+provide Coronal_seismology.txt 2 531 639 
+discussion Coronal_seismology.txt 1 259 
+acts Coronal_seismology.txt 1 251 
+1 Coronal_seismology.txt 1 308 
+hot Coronal_seismology.txt 2 369 743 
+ordinary Coronal_seismology.txt 1 682 
+parameter Coronal_seismology.txt 2 293 322 
+circular Coronal_seismology.txt 1 665 
+oscillatory Coronal_seismology.txt 1 363 
+explorer Coronal_seismology.txt 1 401 
+may Coronal_seismology.txt 1 87 
+earlier Coronal_seismology.txt 1 614 
+derived Coronal_seismology.txt 1 687 
+collection Coronal_seismology.txt 1 452 
+reflect Coronal_seismology.txt 1 88 
+waves Coronal_seismology.txt 10 22 46 130 140 179 257 270 417 439 624 
+such Coronal_seismology.txt 3 100 248 590 
+types Coronal_seismology.txt 1 267 
+a Coronal_seismology.txt 25 6 75 152 187 203 206 230 249 253 299 303 332 358 382 450 456 504 508 546 648 679 768 774 832 840 
+spectra Coronal_seismology.txt 1 764 
+corona Coronal_seismology.txt 6 15 93 239 373 542 779 
+fundamental Coronal_seismology.txt 1 723 
+order Coronal_seismology.txt 1 681 
+wind Coronal_seismology.txt 1 540 
+evolutionary Coronal_seismology.txt 1 84 
+mainly Coronal_seismology.txt 1 374 
+mission Coronal_seismology.txt 2 503 505 
+interpreted Coronal_seismology.txt 1 330 
+mentioned Coronal_seismology.txt 1 613 
+observational Coronal_seismology.txt 1 156 
+regions Coronal_seismology.txt 1 783 
+longitudinal Coronal_seismology.txt 1 673 
+temporal Coronal_seismology.txt 1 51 
+solving Coronal_seismology.txt 1 699 
+late Coronal_seismology.txt 1 148 
+2015 Coronal_seismology.txt 1 527 
+euv Coronal_seismology.txt 1 376 
+then Coronal_seismology.txt 1 713 
+evolution Coronal_seismology.txt 1 68 
+not Coronal_seismology.txt 2 96 143 
+magnetoacoustic Coronal_seismology.txt 1 623 
+swaying Coronal_seismology.txt 1 314 
+edit Coronal_seismology.txt 5 271 354 559 846 849 
+sufficiently Coronal_seismology.txt 1 620 
+electrically Coronal_seismology.txt 1 30 
+acoustic Coronal_seismology.txt 1 433 
+displacement Coronal_seismology.txt 1 690 
+used Coronal_seismology.txt 1 184 
+inhomogeneous Coronal_seismology.txt 3 588 593 836 
+frequency Coronal_seismology.txt 2 633 724 
+footpoint Coronal_seismology.txt 1 833 
+loops Coronal_seismology.txt 9 242 427 432 436 441 454 467 660 746 
+laboratory Coronal_seismology.txt 1 172 
+out Coronal_seismology.txt 1 336 
+shown Coronal_seismology.txt 1 618 
+research Coronal_seismology.txt 1 603 
+sensor Coronal_seismology.txt 1 551 
+foundation Coronal_seismology.txt 1 191 
+doppler Coronal_seismology.txt 1 739 
+quite Coronal_seismology.txt 1 282 
+approaches Coronal_seismology.txt 1 178 
+imaging Coronal_seismology.txt 1 493 
+e.g Coronal_seismology.txt 4 47 240 389 839 
+could Coronal_seismology.txt 2 638 712 
+transition Coronal_seismology.txt 1 397 
+aboard Coronal_seismology.txt 1 758 
+speeds Coronal_seismology.txt 1 799 
+first Coronal_seismology.txt 1 726 
+features Coronal_seismology.txt 1 821 
+number Coronal_seismology.txt 3 231 297 383 
+one Coronal_seismology.txt 2 486 793 
+dispersive Coronal_seismology.txt 1 284 
+earths Coronal_seismology.txt 1 165 
+little Coronal_seismology.txt 1 732 
+perturbation Coronal_seismology.txt 1 62 
+relations Coronal_seismology.txt 1 83 
+observations Coronal_seismology.txt 3 353 554 629 
+legs Coronal_seismology.txt 1 423 
+structures Coronal_seismology.txt 2 234 444 
+ground-based Coronal_seismology.txt 1 387 
+wavelength Coronal_seismology.txt 1 49 
+transverse Coronal_seismology.txt 3 214 429 656 
+part Coronal_seismology.txt 1 634 
+coefficients Coronal_seismology.txt 1 113 
+kind Coronal_seismology.txt 1 182 
+observatory Coronal_seismology.txt 3 394 411 501 
+determines Coronal_seismology.txt 1 702 
+showed Coronal_seismology.txt 1 786 
+kink Coronal_seismology.txt 3 290 438 730 
+aims Coronal_seismology.txt 2 489 529 
+roberts Coronal_seismology.txt 1 133 
+amplitude Coronal_seismology.txt 1 50 
+were Coronal_seismology.txt 1 765 
+and Coronal_seismology.txt 28 23 52 107 110 131 168 216 286 335 348 362 378 386 392 399 421 442 468 472 477 528 541 548 596 668 705 725 813 
+spectrum Coronal_seismology.txt 1 637 
+have Coronal_seismology.txt 4 281 662 675 760 
+contents Coronal_seismology.txt 1 266 
+strength Coronal_seismology.txt 1 106 
+studying Coronal_seismology.txt 1 9 
+that Coronal_seismology.txt 3 310 619 661 
+compressible Coronal_seismology.txt 1 416 
+potential Coronal_seismology.txt 1 561 
+which Coronal_seismology.txt 4 94 209 280 579 
+trace Coronal_seismology.txt 2 355 402 
+sausage Coronal_seismology.txt 2 319 463 
+phase Coronal_seismology.txt 1 787 
+the Coronal_seismology.txt 65 10 13 17 27 36 39 45 57 60 66 70 79 92 102 115 147 164 189 196 213 219 227 237 292 294 311 321 345 350 368 372 390 396 403 408 488 491 498 517 535 560 566 569 582 608 631 636 640 652 672 689 692 703 707 718 722 749 763 778 781 790 801 818 826 829 
+magnetohydrodynamics Coronal_seismology.txt 1 25 
+in-situ Coronal_seismology.txt 1 532 
+km Coronal_seismology.txt 1 805 
+optical Coronal_seismology.txt 1 377 
+soho Coronal_seismology.txt 2 395 759 
+velocity Coronal_seismology.txt 2 109 352 
+signatures Coronal_seismology.txt 1 54 
+intensity Coronal_seismology.txt 1 812 
+probe Coronal_seismology.txt 2 186 521 
+radii Coronal_seismology.txt 1 515 
+relation Coronal_seismology.txt 1 198 
+fine Coronal_seismology.txt 3 576 737 843 
+slow Coronal_seismology.txt 1 622 
+ratio Coronal_seismology.txt 1 720 
+parameters Coronal_seismology.txt 1 90 
+with Coronal_seismology.txt 11 16 74 315 338 381 626 696 748 797 809 842 
+should Coronal_seismology.txt 1 544 
+meant Coronal_seismology.txt 1 581 
+fluid Coronal_seismology.txt 1 37 
+b Coronal_seismology.txt 1 132 
+distinctly Coronal_seismology.txt 1 810 
+regarding Coronal_seismology.txt 1 651 
+differential Coronal_seismology.txt 1 683 
+radioheliograph Coronal_seismology.txt 1 405 
+fixed Coronal_seismology.txt 3 316 339 775 
+where Coronal_seismology.txt 1 341 
+phenomenologically Coronal_seismology.txt 1 412 
+ends Coronal_seismology.txt 1 317 
+observed Coronal_seismology.txt 4 42 235 366 719 
+see Coronal_seismology.txt 3 407 459 474 
+are Coronal_seismology.txt 4 95 183 273 365 
+close Coronal_seismology.txt 2 451 511 
+verwichte Coronal_seismology.txt 1 264 
+currently Coronal_seismology.txt 1 627 
+wikipedia Coronal_seismology.txt 1 2 
+case Coronal_seismology.txt 1 35 
+various Coronal_seismology.txt 2 181 246 
+between Coronal_seismology.txt 1 415 
+boundary Coronal_seismology.txt 1 697 
+conditions Coronal_seismology.txt 1 698 
+available Coronal_seismology.txt 1 628 
+we Coronal_seismology.txt 1 342 
+emitted Coronal_seismology.txt 1 754 
+distinguish Coronal_seismology.txt 1 414 
+suggested Coronal_seismology.txt 1 122 
+both Coronal_seismology.txt 2 663 795 
+philosophically Coronal_seismology.txt 1 158 
+region Coronal_seismology.txt 2 398 745 
+density Coronal_seismology.txt 4 573 653 670 709 
+equal Coronal_seismology.txt 2 306 324 
+etc Coronal_seismology.txt 1 86 
+heliospheric Coronal_seismology.txt 1 393 
+planned Coronal_seismology.txt 1 523 
+estimation Coronal_seismology.txt 1 567 
+adapted Coronal_seismology.txt 1 261 
+period Coronal_seismology.txt 1 48 
+height Coronal_seismology.txt 3 575 655 711 
+directions Coronal_seismology.txt 1 796 
+cross-sectional Coronal_seismology.txt 1 666 
+arcades Coronal_seismology.txt 1 446 
+uchida Coronal_seismology.txt 1 125 
+due Coronal_seismology.txt 1 150 
+been Coronal_seismology.txt 5 599 617 676 686 761 
+combined Coronal_seismology.txt 1 73 
+azimuthal Coronal_seismology.txt 1 295 
+define Coronal_seismology.txt 1 343 
+direction Coronal_seismology.txt 2 215 674 
+8102 Coronal_seismology.txt 1 804 
+sufficient Coronal_seismology.txt 1 645 
+modelling Coronal_seismology.txt 1 77 
+eigenfrequencies Coronal_seismology.txt 1 704 
+external Coronal_seismology.txt 1 847 
+applied Coronal_seismology.txt 1 145 
+atmospheric Coronal_seismology.txt 1 492 
+these Coronal_seismology.txt 2 177 820 
+prominence Coronal_seismology.txt 2 243 476 
+endpoints Coronal_seismology.txt 1 340 
+aia Coronal_seismology.txt 1 495 
+loop Coronal_seismology.txt 7 304 595 650 693 729 838 841 
+cylinder Coronal_seismology.txt 2 205 312 
+is Coronal_seismology.txt 16 5 38 56 69 161 195 210 260 305 313 323 480 485 522 580 733 
+it Coronal_seismology.txt 2 543 615 
+heating Coronal_seismology.txt 1 597 
+in Coronal_seismology.txt 25 33 98 126 136 175 212 236 298 334 367 375 418 422 440 443 455 526 565 584 630 671 742 777 792 800 
+situ Coronal_seismology.txt 1 99 
+different Coronal_seismology.txt 3 283 602 811 
+propagation Coronal_seismology.txt 2 287 788 
+radiation Coronal_seismology.txt 1 755 
+9 Coronal_seismology.txt 1 513 
+several Coronal_seismology.txt 1 274 
+magnetometer Coronal_seismology.txt 1 547 
+extended Coronal_seismology.txt 1 217 
+prominences Coronal_seismology.txt 1 471 
+modes Coronal_seismology.txt 4 201 279 291 320 
+well Coronal_seismology.txt 1 225 
+alfvn Coronal_seismology.txt 2 108 351 
+1970 Coronal_seismology.txt 1 127 
+y Coronal_seismology.txt 1 124 
+position Coronal_seismology.txt 1 776 
+model Coronal_seismology.txt 2 223 301 
+magnetohydrodynamic Coronal_seismology.txt 2 20 269 
+researchers Coronal_seismology.txt 1 413 
+being Coronal_seismology.txt 1 449 
+shape Coronal_seismology.txt 1 58 
+speed Coronal_seismology.txt 1 347 
+helioseismology Coronal_seismology.txt 1 167 
+instrument Coronal_seismology.txt 2 496 756 
+plumes Coronal_seismology.txt 2 245 420 
+has Coronal_seismology.txt 3 598 616 685 
+plasma Coronal_seismology.txt 9 11 41 173 204 207 233 370 549 669 
+unprecedented Coronal_seismology.txt 1 553 
+bands Coronal_seismology.txt 1 380 
+using Coronal_seismology.txt 1 717 
+necessary Coronal_seismology.txt 1 155 
+mhd Coronal_seismology.txt 6 21 118 169 200 256 278 
+works Coronal_seismology.txt 1 224 
+overtone Coronal_seismology.txt 1 727 
+accessible Coronal_seismology.txt 1 97 
+nobeyama Coronal_seismology.txt 2 404 409 
+right Coronal_seismology.txt 1 462 
+phenomena Coronal_seismology.txt 2 81 364 
+oscillations Coronal_seismology.txt 9 24 430 434 464 469 657 731 741 785 
+scale Coronal_seismology.txt 3 574 654 710 
+describing Coronal_seismology.txt 1 688 
+for Coronal_seismology.txt 7 128 138 226 289 318 524 555 
+broadband Coronal_seismology.txt 1 621 
+measurements Coronal_seismology.txt 2 533 752 
+recorded Coronal_seismology.txt 1 766 
+fluids Coronal_seismology.txt 1 32 
+microwave Coronal_seismology.txt 1 379 
+propagating Coronal_seismology.txt 2 129 437 
+demonstrated Coronal_seismology.txt 1 600 
+be Coronal_seismology.txt 3 329 714 823 
+assembly Coronal_seismology.txt 1 494 
+nonuniform Coronal_seismology.txt 1 211 
+300 Coronal_seismology.txt 1 769 
+filaments Coronal_seismology.txt 1 247 
+relating Coronal_seismology.txt 1 606 
+by Coronal_seismology.txt 5 123 578 601 716 825 
+flare-generated Coronal_seismology.txt 1 428 
+on Coronal_seismology.txt 1 497 
+conducting Coronal_seismology.txt 1 31 
+of Coronal_seismology.txt 48 8 12 19 29 44 59 65 78 91 117 154 171 180 192 199 202 229 232 255 268 277 302 357 371 384 424 431 435 453 465 470 487 490 534 562 568 586 635 642 658 691 721 728 735 753 803 828 834 
+sumer Coronal_seismology.txt 1 757 
+range Coronal_seismology.txt 1 802 
+or Coronal_seismology.txt 1 794 
+seismology Coronal_seismology.txt 9 1 4 120 160 166 194 484 557 564 
+instruments Coronal_seismology.txt 1 388 
+image Coronal_seismology.txt 2 356 460 
+references Coronal_seismology.txt 1 845 
+theoretically Coronal_seismology.txt 1 678 
+1984 Coronal_seismology.txt 1 137 
+arcade Coronal_seismology.txt 2 360 448 
+area Coronal_seismology.txt 1 667 
+spaceborne Coronal_seismology.txt 1 385 
+there Coronal_seismology.txt 1 272 
+dispersion Coronal_seismology.txt 2 82 197 
+width Coronal_seismology.txt 1 815 
+low Coronal_seismology.txt 1 632 
+was Coronal_seismology.txt 3 121 142 612 
+medium Coronal_seismology.txt 1 188 
+fibrils Coronal_seismology.txt 2 244 473 
+some Coronal_seismology.txt 1 784 
+but Coronal_seismology.txt 1 141 
+heat Coronal_seismology.txt 2 643 647 
+solar Coronal_seismology.txt 9 238 391 475 499 514 520 536 539 750 
+line Coronal_seismology.txt 1 814 
+sdo Coronal_seismology.txt 1 502 
+dissipative Coronal_seismology.txt 1 112 
+characteristic Coronal_seismology.txt 1 63 
+devices Coronal_seismology.txt 1 174 
+until Coronal_seismology.txt 1 146 
+placed Coronal_seismology.txt 1 772 
+spectroscopy Coronal_seismology.txt 1 170 
+continuously Coronal_seismology.txt 1 481 
+similar Coronal_seismology.txt 1 162 
+al Coronal_seismology.txt 1 135 
+an Coronal_seismology.txt 4 447 587 592 835 
+as Coronal_seismology.txt 8 101 252 331 344 349 510 512 591 
+at Coronal_seismology.txt 2 773 831 
+et Coronal_seismology.txt 1 134 
+distributions Coronal_seismology.txt 1 816 
+physical Coronal_seismology.txt 1 89 
+again Coronal_seismology.txt 1 337 
+polarisation Coronal_seismology.txt 1 285 
+field Coronal_seismology.txt 5 105 221 538 572 611 
+spatial Coronal_seismology.txt 1 53 
+polar Coronal_seismology.txt 1 419 
+kinds Coronal_seismology.txt 1 276 
+excitation Coronal_seismology.txt 1 827 
+variation Coronal_seismology.txt 1 583 
+meaning Coronal_seismology.txt 1 309 
+coronal Coronal_seismology.txt 23 0 3 40 103 111 119 159 193 241 359 400 426 483 556 563 570 594 609 649 659 708 736 837 
+allowing Coronal_seismology.txt 1 552 
+variable Coronal_seismology.txt 1 664 
+structure Coronal_seismology.txt 8 208 250 458 577 585 589 738 844 
+practically Coronal_seismology.txt 1 144 
+together Coronal_seismology.txt 2 695 808 
+2009 Coronal_seismology.txt 1 265 
+resolution Coronal_seismology.txt 1 157 

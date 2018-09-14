@@ -1,0 +1,331 @@
+all Lunar_calendar.txt 1 206 
+construct Lunar_calendar.txt 1 826 
+palolos Lunar_calendar.txt 1 582 
+chinese Lunar_calendar.txt 5 261 269 287 450 617 
+examining Lunar_calendar.txt 1 778 
+being Lunar_calendar.txt 1 401 
+scotland Lunar_calendar.txt 1 319 
+causes Lunar_calendar.txt 1 199 
+lack Lunar_calendar.txt 1 196 
+lunation Lunar_calendar.txt 1 118 
+ramadan Lunar_calendar.txt 1 257 
+bc Lunar_calendar.txt 1 327 
+month Lunar_calendar.txt 12 511 575 592 609 624 647 687 734 741 786 844 867 
+hidden Lunar_calendar.txt 1 889 
+purely Lunar_calendar.txt 3 66 173 188 
+attempts Lunar_calendar.txt 1 721 
+year-old Lunar_calendar.txt 2 349 363 
+through Lunar_calendar.txt 2 87 205 
+legal Lunar_calendar.txt 1 229 
+during Lunar_calendar.txt 1 328 
+world Lunar_calendar.txt 1 246 
+agricultural Lunar_calendar.txt 1 443 
+alternative Lunar_calendar.txt 1 853 
+still Lunar_calendar.txt 1 338 
+religious Lunar_calendar.txt 2 249 441 
+its Lunar_calendar.txt 2 329 426 
+alignment Lunar_calendar.txt 1 82 
+warren Lunar_calendar.txt 1 316 
+one Lunar_calendar.txt 1 878 
+whose Lunar_calendar.txt 2 32 76 
+integer Lunar_calendar.txt 1 808 
+based Lunar_calendar.txt 4 15 36 392 662 
+proposed Lunar_calendar.txt 1 847 
+zone Lunar_calendar.txt 1 638 
+vietnamese Lunar_calendar.txt 2 264 272 
+continued Lunar_calendar.txt 2 434 775 
+alternate Lunar_calendar.txt 2 145 752 
+minus Lunar_calendar.txt 1 874 
+29 Lunar_calendar.txt 5 121 123 147 458 754 
+sometimes Lunar_calendar.txt 1 758 
+to Lunar_calendar.txt 20 29 101 144 183 203 240 247 324 380 403 435 507 600 706 712 722 727 825 837 871 
+only Lunar_calendar.txt 2 37 162 
+marks Lunar_calendar.txt 2 344 358 
+weather Lunar_calendar.txt 1 709 
+8 Lunar_calendar.txt 1 165 
+2017 Lunar_calendar.txt 1 8 
+include Lunar_calendar.txt 2 256 448 
+easter Lunar_calendar.txt 1 854 
+over Lunar_calendar.txt 1 213 
+first Lunar_calendar.txt 3 605 620 668 
+do Lunar_calendar.txt 2 482 494 
+them Lunar_calendar.txt 1 405 
+newton Lunar_calendar.txt 1 858 
+affected Lunar_calendar.txt 1 529 
+around Lunar_calendar.txt 2 177 859 
+combination Lunar_calendar.txt 1 832 
+rules Lunar_calendar.txt 1 726 
+between Lunar_calendar.txt 2 146 753 
+calendars Lunar_calendar.txt 20 31 175 190 238 275 290 299 337 371 378 383 388 447 454 481 490 519 597 613 645 
+number Lunar_calendar.txt 2 800 809 
+every Lunar_calendar.txt 1 512 
+not Lunar_calendar.txt 1 483 
+using Lunar_calendar.txt 2 105 774 
+hollow Lunar_calendar.txt 2 761 767 
+sunuwar Lunar_calendar.txt 1 295 
+day Lunar_calendar.txt 7 602 606 621 627 651 793 879 
+categories Lunar_calendar.txt 2 888 890 
+1700 Lunar_calendar.txt 1 860 
+29.530589 Lunar_calendar.txt 1 743 
+like Lunar_calendar.txt 1 191 
+links Lunar_calendar.txt 1 886 
+course Lunar_calendar.txt 1 215 
+edit Lunar_calendar.txt 7 307 372 593 688 882 884 887 
+countries Lunar_calendar.txt 1 233 
+list Lunar_calendar.txt 1 796 
+these Lunar_calendar.txt 2 565 820 
+continue Lunar_calendar.txt 1 239 
+2415 Lunar_calendar.txt 1 872 
+common Lunar_calendar.txt 3 136 227 502 
+each Lunar_calendar.txt 4 117 646 692 732 
+found Lunar_calendar.txt 1 314 
+cycles Lunar_calendar.txt 3 19 34 532 
+marshack Lunar_calendar.txt 1 355 
+approximations Lunar_calendar.txt 1 780 
+bone Lunar_calendar.txt 1 364 
+referred Lunar_calendar.txt 1 379 
+twelve Lunar_calendar.txt 1 155 
+employing Lunar_calendar.txt 1 113 
+old Lunar_calendar.txt 1 245 
+determine Lunar_calendar.txt 2 248 728 
+findings Lunar_calendar.txt 1 367 
+there Lunar_calendar.txt 1 718 
+national Lunar_calendar.txt 1 252 
+some Lunar_calendar.txt 7 88 104 332 479 517 611 643 
+japanese Lunar_calendar.txt 2 262 270 
+worm Lunar_calendar.txt 1 560 
+relative Lunar_calendar.txt 1 182 
+second Lunar_calendar.txt 1 513 
+354.367056 Lunar_calendar.txt 1 171 
+are Lunar_calendar.txt 8 35 79 384 391 457 520 528 704 
+year Lunar_calendar.txt 11 42 86 160 181 212 268 279 412 467 478 516 
+further Lunar_calendar.txt 1 339 
+calendar Lunar_calendar.txt 36 1 6 11 14 47 50 54 63 68 75 100 102 143 186 194 224 259 281 294 296 304 312 376 416 432 499 546 618 678 682 717 733 829 836 841 864 
+differ Lunar_calendar.txt 1 598 
+after Lunar_calendar.txt 2 652 798 
+out Lunar_calendar.txt 1 59 
+phases Lunar_calendar.txt 1 24 
+banks Lunar_calendar.txt 1 549 
+for Lunar_calendar.txt 6 7 137 335 440 491 781 
+avoid Lunar_calendar.txt 1 713 
+since Lunar_calendar.txt 2 116 151 
+wikipedia Lunar_calendar.txt 1 2 
+below Lunar_calendar.txt 1 797 
+per Lunar_calendar.txt 1 180 
+moon Lunar_calendar.txt 5 22 587 632 655 659 
+seconds Lunar_calendar.txt 2 130 170 
+3 Lunar_calendar.txt 1 129 
+29.530588 Lunar_calendar.txt 1 132 
+lunar Lunar_calendar.txt 28 0 5 10 62 67 77 142 159 174 189 201 235 311 336 382 397 431 466 480 531 545 574 591 594 672 686 693 828 
+moons Lunar_calendar.txt 1 110 
+new Lunar_calendar.txt 5 106 267 278 631 658 
+conditions Lunar_calendar.txt 1 710 
+occurs Lunar_calendar.txt 1 633 
+contrast Lunar_calendar.txt 1 28 
+rappenglck Lunar_calendar.txt 1 341 
+be Lunar_calendar.txt 4 241 436 772 823 
+full Lunar_calendar.txt 4 107 654 763 769 
+terms Lunar_calendar.txt 1 788 
+lunations Lunar_calendar.txt 1 157 
+months Lunar_calendar.txt 13 26 78 96 139 202 390 456 470 554 750 770 811 873 
+lunisolar Lunar_calendar.txt 10 74 237 370 375 387 446 518 596 612 840 
+respectively Lunar_calendar.txt 1 760 
+equivalent Lunar_calendar.txt 1 870 
+lose Lunar_calendar.txt 1 176 
+agreement Lunar_calendar.txt 1 408 
+hours Lunar_calendar.txt 2 126 166 
+add Lunar_calendar.txt 1 508 
+gregorian Lunar_calendar.txt 4 49 185 211 223 
+although Lunar_calendar.txt 1 221 
+others Lunar_calendar.txt 3 112 640 660 
+rosh Lunar_calendar.txt 1 301 
+article Lunar_calendar.txt 1 374 
+earliest Lunar_calendar.txt 1 309 
+by Lunar_calendar.txt 3 523 530 856 
+beaches Lunar_calendar.txt 1 564 
+on Lunar_calendar.txt 6 345 359 393 562 649 666 
+c Lunar_calendar.txt 3 325 347 361 
+quarter Lunar_calendar.txt 1 571 
+bring Lunar_calendar.txt 1 404 
+islamic Lunar_calendar.txt 4 193 258 489 863 
+33 Lunar_calendar.txt 1 218 
+of Lunar_calendar.txt 33 20 60 90 94 140 154 197 209 216 395 425 468 504 541 547 572 580 589 607 622 670 684 691 731 738 766 784 789 791 801 810 851 877 
+annual Lunar_calendar.txt 2 33 524 
+numerator Lunar_calendar.txt 1 806 
+days Lunar_calendar.txt 12 122 124 133 150 164 172 179 461 473 744 757 802 
+commonly Lunar_calendar.txt 1 45 
+34 Lunar_calendar.txt 1 169 
+festival Lunar_calendar.txt 1 284 
+s Lunar_calendar.txt 2 23 865 
+dated Lunar_calendar.txt 1 323 
+islands Lunar_calendar.txt 1 550 
+termed Lunar_calendar.txt 1 759 
+history Lunar_calendar.txt 1 306 
+slightly Lunar_calendar.txt 1 696 
+or Lunar_calendar.txt 6 108 131 459 514 656 830 
+batonbut Lunar_calendar.txt 1 365 
+origin Lunar_calendar.txt 1 427 
+detailed Lunar_calendar.txt 1 114 
+astronomical Lunar_calendar.txt 1 630 
+average Lunar_calendar.txt 2 699 736 
+see Lunar_calendar.txt 1 880 
+17,000 Lunar_calendar.txt 1 348 
+civic Lunar_calendar.txt 1 415 
+egypt Lunar_calendar.txt 1 422 
+into Lunar_calendar.txt 2 81 406 
+arithmetical Lunar_calendar.txt 1 725 
+period Lunar_calendar.txt 2 153 331 
+three Lunar_calendar.txt 1 553 
+brought Lunar_calendar.txt 1 80 
+purposes Lunar_calendar.txt 1 444 
+seasons Lunar_calendar.txt 1 208 
+reproductive Lunar_calendar.txt 1 578 
+references Lunar_calendar.txt 1 883 
+been Lunar_calendar.txt 3 322 720 818 
+directly Lunar_calendar.txt 1 38 
+spanish Lunar_calendar.txt 1 4 
+festivals Lunar_calendar.txt 1 250 
+throughout Lunar_calendar.txt 1 243 
+lunar-year Lunar_calendar.txt 1 219 
+denominator Lunar_calendar.txt 1 816 
+has Lunar_calendar.txt 1 321 
+use Lunar_calendar.txt 2 230 484 
+ancient Lunar_calendar.txt 1 421 
+from Lunar_calendar.txt 3 72 99 697 
+additional Lunar_calendar.txt 1 510 
+start Lunar_calendar.txt 2 588 730 
+monthly Lunar_calendar.txt 1 18 
+hindu Lunar_calendar.txt 3 298 451 644 
+create Lunar_calendar.txt 1 723 
+loi Lunar_calendar.txt 1 291 
+system Lunar_calendar.txt 2 55 64 
+approximately Lunar_calendar.txt 1 120 
+basis Lunar_calendar.txt 1 850 
+their Lunar_calendar.txt 2 366 389 
+chuseok Lunar_calendar.txt 1 286 
+observations Lunar_calendar.txt 2 394 703 
+calculations Lunar_calendar.txt 1 115 
+time Lunar_calendar.txt 1 637 
+was Lunar_calendar.txt 3 313 418 846 
+correction Lunar_calendar.txt 1 876 
+listed Lunar_calendar.txt 2 803 813 
+fractions Lunar_calendar.txt 3 776 790 821 
+field Lunar_calendar.txt 1 317 
+alongside Lunar_calendar.txt 1 438 
+form Lunar_calendar.txt 1 503 
+that Lunar_calendar.txt 3 56 417 493 
+completed Lunar_calendar.txt 1 819 
+addition Lunar_calendar.txt 1 702 
+about Lunar_calendar.txt 2 471 715 
+back Lunar_calendar.txt 1 340 
+isaac Lunar_calendar.txt 1 857 
+fixed Lunar_calendar.txt 1 724 
+external Lunar_calendar.txt 1 885 
+solar Lunar_calendar.txt 9 30 41 53 85 411 414 477 537 835 
+particular Lunar_calendar.txt 1 636 
+known Lunar_calendar.txt 1 310 
+last Lunar_calendar.txt 1 570 
+thai Lunar_calendar.txt 2 293 453 
+an Lunar_calendar.txt 5 509 539 629 807 852 
+with Lunar_calendar.txt 6 83 103 399 409 585 833 
+than Lunar_calendar.txt 1 475 
+those Lunar_calendar.txt 1 492 
+11 Lunar_calendar.txt 2 178 472 
+traces Lunar_calendar.txt 1 424 
+12 Lunar_calendar.txt 2 125 469 
+edible Lunar_calendar.txt 1 558 
+showed Lunar_calendar.txt 1 423 
+this Lunar_calendar.txt 1 542 
+originally Lunar_calendar.txt 1 57 
+as Lunar_calendar.txt 12 381 487 496 533 535 576 599 615 642 675 812 848 
+value Lunar_calendar.txt 1 700 
+360 Lunar_calendar.txt 1 866 
+remain Lunar_calendar.txt 1 368 
+determined Lunar_calendar.txt 1 773 
+can Lunar_calendar.txt 2 771 822 
+evolved Lunar_calendar.txt 1 58 
+were Lunar_calendar.txt 1 661 
+making Lunar_calendar.txt 1 464 
+distribution Lunar_calendar.txt 1 765 
+minutes Lunar_calendar.txt 2 128 168 
+distinguished Lunar_calendar.txt 1 71 
+crescent Lunar_calendar.txt 2 109 673 
+and Lunar_calendar.txt 21 111 148 228 236 251 265 273 285 288 300 320 354 442 452 595 679 708 755 762 768 777 
+30 Lunar_calendar.txt 3 149 460 756 
+synchronized Lunar_calendar.txt 1 584 
+hijri Lunar_calendar.txt 1 681 
+process Lunar_calendar.txt 1 89 
+past Lunar_calendar.txt 1 665 
+is Lunar_calendar.txt 15 12 51 69 119 135 161 225 506 543 583 603 625 742 747 869 
+hebrew Lunar_calendar.txt 3 303 498 677 
+thus Lunar_calendar.txt 2 711 745 
+it Lunar_calendar.txt 3 134 439 746 
+general Lunar_calendar.txt 1 407 
+tabular Lunar_calendar.txt 1 862 
+krathong Lunar_calendar.txt 1 292 
+lascaux Lunar_calendar.txt 1 353 
+mongolian Lunar_calendar.txt 2 266 274 
+have Lunar_calendar.txt 2 719 817 
+in Lunar_calendar.txt 22 27 187 226 231 318 342 356 385 420 428 462 555 610 634 639 663 701 787 794 804 814 831 
+controversial Lunar_calendar.txt 1 369 
+present-day Lunar_calendar.txt 1 445 
+synodic Lunar_calendar.txt 3 25 455 740 
+occur Lunar_calendar.txt 1 567 
+contents Lunar_calendar.txt 1 305 
+if Lunar_calendar.txt 1 749 
+intercalation Lunar_calendar.txt 5 91 198 400 485 505 
+generally Lunar_calendar.txt 1 751 
+uncertainty Lunar_calendar.txt 2 707 714 
+48 Lunar_calendar.txt 1 167 
+49 Lunar_calendar.txt 1 843 
+convenient Lunar_calendar.txt 1 748 
+44 Lunar_calendar.txt 1 127 
+cave Lunar_calendar.txt 1 350 
+when Lunar_calendar.txt 2 95 628 
+length Lunar_calendar.txt 5 463 683 690 737 783 
+shorter Lunar_calendar.txt 1 474 
+also Lunar_calendar.txt 3 70 521 881 
+varies Lunar_calendar.txt 2 98 695 
+calibrated Lunar_calendar.txt 1 522 
+details Lunar_calendar.txt 1 93 
+which Lunar_calendar.txt 5 433 527 551 556 601 
+mesolithic Lunar_calendar.txt 1 330 
+main Lunar_calendar.txt 1 373 
+korean Lunar_calendar.txt 3 263 271 289 
+subject Lunar_calendar.txt 1 705 
+events Lunar_calendar.txt 2 526 566 
+sighting Lunar_calendar.txt 1 669 
+begin Lunar_calendar.txt 1 97 
+used Lunar_calendar.txt 6 46 242 402 419 437 824 
+includes Lunar_calendar.txt 1 552 
+hashanah Lunar_calendar.txt 1 302 
+earlier Lunar_calendar.txt 1 430 
+upon Lunar_calendar.txt 2 16 39 
+holidays Lunar_calendar.txt 2 253 255 
+most Lunar_calendar.txt 5 44 232 377 488 501 
+produce Lunar_calendar.txt 1 838 
+successive Lunar_calendar.txt 1 779 
+such Lunar_calendar.txt 7 156 254 486 495 614 641 674 
+computation Lunar_calendar.txt 1 855 
+8000 Lunar_calendar.txt 1 326 
+scholars Lunar_calendar.txt 1 333 
+cycle Lunar_calendar.txt 8 204 220 398 538 579 694 845 868 
+a Lunar_calendar.txt 23 3 9 13 52 61 65 73 141 158 217 346 360 465 476 623 635 671 792 827 834 839 842 875 
+argue Lunar_calendar.txt 1 334 
+natural Lunar_calendar.txt 1 525 
+nepali Lunar_calendar.txt 2 277 280 
+third Lunar_calendar.txt 1 515 
+palolo Lunar_calendar.txt 1 559 
+diwali Lunar_calendar.txt 1 297 
+mid-autumn Lunar_calendar.txt 1 283 
+well Lunar_calendar.txt 1 534 
+traditional Lunar_calendar.txt 1 234 
+354 Lunar_calendar.txt 1 163 
+mass Lunar_calendar.txt 1 561 
+begins Lunar_calendar.txt 1 648 
+27,000 Lunar_calendar.txt 1 362 
+at Lunar_calendar.txt 3 315 352 568 
+the Lunar_calendar.txt 70 17 21 40 43 48 84 92 138 152 184 192 195 200 207 210 214 222 244 260 276 282 308 343 357 396 410 413 429 449 497 500 536 544 548 557 563 569 573 577 581 586 590 604 608 616 619 626 650 653 657 664 667 676 680 685 689 698 716 729 735 739 764 782 785 795 799 805 815 849 861 
+example Lunar_calendar.txt 1 540 
+painting Lunar_calendar.txt 1 351 
+fact Lunar_calendar.txt 1 386 

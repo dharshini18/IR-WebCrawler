@@ -1,0 +1,345 @@
+suns H%CE%B1.txt 2 601 822 
+results H%CE%B1.txt 1 59 
+four H%CE%B1.txt 1 427 
+disc H%CE%B1.txt 1 823 
+ionize H%CE%B1.txt 1 278 
+ammonia H%CE%B1.txt 1 413 
+layers H%CE%B1.txt 2 554 556 
+blocking H%CE%B1.txt 1 654 
+to H%CE%B1.txt 23 31 97 106 120 139 191 240 256 265 277 291 303 324 346 398 419 467 512 559 743 775 811 814 
+include H%CE%B1.txt 1 342 
+far H%CE%B1.txt 1 286 
+electron H%CE%B1.txt 6 23 92 261 299 314 457 
+etalon H%CE%B1.txt 5 639 673 698 735 806 
+categories H%CE%B1.txt 2 845 847 
+clouds H%CE%B1.txt 2 248 402 
+level H%CE%B1.txt 5 29 101 295 320 471 
+occurs H%CE%B1.txt 2 88 361 
+large H%CE%B1.txt 1 739 
+be H%CE%B1.txt 7 118 396 546 613 767 809 831 
+jump H%CE%B1.txt 1 24 
+surrounding H%CE%B1.txt 1 152 
+second H%CE%B1.txt 4 27 98 469 805 
+pass H%CE%B1.txt 1 677 
+air H%CE%B1.txt 1 740 
+spectral H%CE%B1.txt 1 75 
+sun H%CE%B1.txt 3 125 447 606 
+selected H%CE%B1.txt 1 558 
+chromosphere H%CE%B1.txt 1 133 
+new H%CE%B1.txt 2 306 311 
+ground H%CE%B1.txt 1 326 
+contrast H%CE%B1.txt 1 816 
+component H%CE%B1.txt 1 379 
+here H%CE%B1.txt 1 42 
+atoms H%CE%B1.txt 2 154 260 
+ionization H%CE%B1.txt 2 284 297 
+represented H%CE%B1.txt 1 481 
+observing H%CE%B1.txt 3 599 604 789 
+survey H%CE%B1.txt 1 494 
+milky H%CE%B1.txt 1 487 
+usually H%CE%B1.txt 2 624 790 
+narrow H%CE%B1.txt 4 515 595 680 827 
+named H%CE%B1.txt 1 203 
+via H%CE%B1.txt 1 270 
+useful H%CE%B1.txt 1 580 
+transit H%CE%B1.txt 1 180 
+visible H%CE%B1.txt 4 74 224 428 751 
+cloud H%CE%B1.txt 3 393 425 458 
+from H%CE%B1.txt 7 3 21 94 188 262 464 615 
+takes H%CE%B1.txt 1 251 
+depicted H%CE%B1.txt 1 41 
+therefore H%CE%B1.txt 1 357 
+taken H%CE%B1.txt 1 573 
+more H%CE%B1.txt 3 37 287 826 
+emission H%CE%B1.txt 5 6 114 430 650 692 
+glass H%CE%B1.txt 1 629 
+easiest H%CE%B1.txt 1 236 
+high H%CE%B1.txt 1 745 
+quantized H%CE%B1.txt 1 149 
+this H%CE%B1.txt 4 57 339 674 807 
+rutherford H%CE%B1.txt 1 10 
+can H%CE%B1.txt 7 117 385 545 612 765 808 830 
+links H%CE%B1.txt 1 843 
+0.1 H%CE%B1.txt 1 681 
+0.5 H%CE%B1.txt 1 812 
+0.7 H%CE%B1.txt 1 799 
+states H%CE%B1.txt 2 176 183 
+gas H%CE%B1.txt 1 247 
+hydrogen H%CE%B1.txt 11 15 56 91 244 259 280 307 363 375 429 460 
+monoxide H%CE%B1.txt 1 411 
+1 H%CE%B1.txt 3 167 264 329 
+instead H%CE%B1.txt 1 404 
+may H%CE%B1.txt 3 171 178 315 
+after H%CE%B1.txt 1 296 
+different H%CE%B1.txt 1 721 
+produce H%CE%B1.txt 1 560 
+designed H%CE%B1.txt 1 511 
+such H%CE%B1.txt 2 406 755 
+a H%CE%B1.txt 21 61 71 82 90 218 305 424 450 504 514 529 607 625 637 653 656 679 722 737 804 834 
+third H%CE%B1.txt 2 96 466 
+light H%CE%B1.txt 7 103 356 518 589 687 713 754 
+lines H%CE%B1.txt 2 19 432 
+cascade H%CE%B1.txt 1 340 
+cannot H%CE%B1.txt 1 395 
+so H%CE%B1.txt 1 382 
+subsequently H%CE%B1.txt 1 322 
+wavelengths H%CE%B1.txt 5 567 636 643 668 685 
+produces H%CE%B1.txt 1 43 
+12.1 H%CE%B1.txt 1 268 
+saturates H%CE%B1.txt 1 370 
+including H%CE%B1.txt 2 128 644 
+filters H%CE%B1.txt 5 544 548 578 703 785 
+its H%CE%B1.txt 2 95 200 
+astronomers H%CE%B1.txt 2 107 239 
+hidden H%CE%B1.txt 1 846 
+combination H%CE%B1.txt 1 675 
+number H%CE%B1.txt 1 165 
+band H%CE%B1.txt 5 480 539 572 610 828 
+effects H%CE%B1.txt 2 562 587 
+they H%CE%B1.txt 2 525 591 
+half H%CE%B1.txt 1 336 
+not H%CE%B1.txt 1 593 
+easily H%CE%B1.txt 1 373 
+edit H%CE%B1.txt 5 137 445 839 841 844 
+transmitted H%CE%B1.txt 1 542 
+each H%CE%B1.txt 1 333 
+characterized H%CE%B1.txt 1 527 
+telescope H%CE%B1.txt 1 451 
+series H%CE%B1.txt 6 54 80 136 198 211 436 
+energy H%CE%B1.txt 8 28 100 150 157 255 319 470 619 
+quantum H%CE%B1.txt 1 164 
+wavelength H%CE%B1.txt 5 64 83 219 524 538 
+naming H%CE%B1.txt 1 213 
+transitions H%CE%B1.txt 2 187 463 
+out H%CE%B1.txt 1 565 
+since H%CE%B1.txt 1 249 
+interference H%CE%B1.txt 5 561 702 711 724 729 
+content H%CE%B1.txt 1 245 
+dioxide H%CE%B1.txt 1 409 
+formula H%CE%B1.txt 1 273 
+acetonitrile H%CE%B1.txt 1 415 
+red H%CE%B1.txt 4 67 227 438 628 
+doppler H%CE%B1.txt 1 780 
+wisconsin H%CE%B1.txt 1 491 
+commercially H%CE%B1.txt 1 782 
+unwanted H%CE%B1.txt 1 635 
+members H%CE%B1.txt 1 201 
+temperature H%CE%B1.txt 1 774 
+transition H%CE%B1.txt 4 40 58 334 349 
+filter H%CE%B1.txt 13 444 455 503 506 510 564 611 621 655 658 725 829 836 
+first H%CE%B1.txt 1 49 
+features H%CE%B1.txt 2 122 750 
+rydberg H%CE%B1.txt 1 272 
+primary H%CE%B1.txt 1 378 
+one H%CE%B1.txt 1 645 
+simplified H%CE%B1.txt 1 9 
+changing H%CE%B1.txt 1 772 
+nebulae H%CE%B1.txt 2 115 381 
+leading H%CE%B1.txt 1 813 
+0.07 H%CE%B1.txt 1 800 
+approximately H%CE%B1.txt 1 335 
+656 H%CE%B1.txt 2 65 474 
+indicate H%CE%B1.txt 1 386 
+2 H%CE%B1.txt 3 168 193 348 
+passed H%CE%B1.txt 1 670 
+convention H%CE%B1.txt 1 214 
+h-alpha H%CE%B1.txt 22 0 5 45 68 102 216 355 359 368 443 454 479 492 501 523 576 649 662 691 753 763 784 
+relies H%CE%B1.txt 1 726 
+that H%CE%B1.txt 5 532 540 563 630 669 
+accurately H%CE%B1.txt 1 399 
+optical H%CE%B1.txt 1 509 
+formaldehyde H%CE%B1.txt 1 412 
+absorbs H%CE%B1.txt 1 631 
+requisite H%CE%B1.txt 1 571 
+than H%CE%B1.txt 1 289 
+isolation H%CE%B1.txt 1 575 
+flashes H%CE%B1.txt 1 486 
+are H%CE%B1.txt 8 159 202 416 526 557 579 704 797 
+and H%CE%B1.txt 16 34 47 116 131 177 199 233 300 321 350 389 583 652 699 760 796 
+spectrum H%CE%B1.txt 2 232 431 
+have H%CE%B1.txt 1 594 
+any H%CE%B1.txt 2 318 566 
+contents H%CE%B1.txt 1 134 
+relatively H%CE%B1.txt 2 372 738 
+self-absorbs H%CE%B1.txt 1 371 
+cope H%CE%B1.txt 1 776 
+also H%CE%B1.txt 1 838 
+internal H%CE%B1.txt 1 731 
+which H%CE%B1.txt 3 622 640 659 
+transmit H%CE%B1.txt 1 513 
+even H%CE%B1.txt 1 825 
+begin H%CE%B1.txt 1 316 
+multiple H%CE%B1.txt 1 551 
+trace H%CE%B1.txt 1 241 
+measures H%CE%B1.txt 1 533 
+falls H%CE%B1.txt 1 93 
+most H%CE%B1.txt 1 632 
+model H%CE%B1.txt 2 12 142 
+sometimes H%CE%B1.txt 1 747 
+reflecting H%CE%B1.txt 1 714 
+electrons H%CE%B1.txt 2 146 170 
+reflections H%CE%B1.txt 1 732 
+redirected H%CE%B1.txt 1 2 
+physics H%CE%B1.txt 1 695 
+atmosphere H%CE%B1.txt 2 127 602 
+principal H%CE%B1.txt 1 163 
+ngc H%CE%B1.txt 1 498 
+implementation H%CE%B1.txt 1 719 
+3 H%CE%B1.txt 5 169 190 267 294 345 
+only H%CE%B1.txt 3 172 179 678 
+molecules H%CE%B1.txt 1 405 
+emitting H%CE%B1.txt 1 330 
+do H%CE%B1.txt 1 592 
+tilting H%CE%B1.txt 1 770 
+ionized H%CE%B1.txt 2 243 366 
+nearly H%CE%B1.txt 1 252 
+mapper H%CE%B1.txt 1 493 
+h H%CE%B1.txt 2 4 69 
+bandwidth H%CE%B1.txt 2 516 597 
+tuned H%CE%B1.txt 1 768 
+far-right H%CE%B1.txt 1 441 
+through H%CE%B1.txt 2 449 671 
+where H%CE%B1.txt 1 362 
+view H%CE%B1.txt 1 489 
+set H%CE%B1.txt 1 185 
+burst H%CE%B1.txt 1 484 
+observed H%CE%B1.txt 2 448 819 
+see H%CE%B1.txt 1 837 
+result H%CE%B1.txt 1 20 
+surfaces H%CE%B1.txt 1 716 
+probable H%CE%B1.txt 1 288 
+wikipedia H%CE%B1.txt 1 1 
+state H%CE%B1.txt 2 327 791 
+between H%CE%B1.txt 3 25 181 715 
+lyot H%CE%B1.txt 1 835 
+available H%CE%B1.txt 1 783 
+emitted H%CE%B1.txt 1 111 
+extent H%CE%B1.txt 1 390 
+carbon H%CE%B1.txt 2 408 410 
+relying H%CE%B1.txt 1 708 
+essentially H%CE%B1.txt 1 705 
+improved H%CE%B1.txt 1 815 
+many H%CE%B1.txt 1 113 
+according H%CE%B1.txt 1 138 
+called H%CE%B1.txt 1 195 
+s H%CE%B1.txt 1 126 
+narrower H%CE%B1.txt 1 609 
+proton H%CE%B1.txt 1 301 
+described H%CE%B1.txt 1 160 
+lyman H%CE%B1.txt 1 210 
+due H%CE%B1.txt 1 742 
+much H%CE%B1.txt 2 254 608 
+releasing H%CE%B1.txt 1 472 
+excite H%CE%B1.txt 1 257 
+gap H%CE%B1.txt 1 741 
+observe H%CE%B1.txt 1 121 
+external H%CE%B1.txt 1 842 
+those H%CE%B1.txt 2 35 666 
+these H%CE%B1.txt 5 156 175 182 543 555 
+n H%CE%B1.txt 9 166 189 192 263 266 293 328 344 347 
+will H%CE%B1.txt 3 341 353 676 
+while H%CE%B1.txt 3 383 664 733 
+stopping H%CE%B1.txt 1 665 
+etalons H%CE%B1.txt 1 764 
+is H%CE%B1.txt 15 70 104 110 194 215 223 234 285 364 376 442 507 541 623 720 
+3nm H%CE%B1.txt 1 502 
+it H%CE%B1.txt 7 87 109 250 275 384 394 462 
+in H%CE%B1.txt 15 7 60 77 123 148 174 225 309 317 433 574 581 752 793 817 
+13.6 H%CE%B1.txt 1 282 
+sequentially H%CE%B1.txt 1 204 
+astrophotography H%CE%B1.txt 1 582 
+same H%CE%B1.txt 1 707 
+parts H%CE%B1.txt 1 617 
+units H%CE%B1.txt 1 795 
+several H%CE%B1.txt 1 642 
+used H%CE%B1.txt 3 119 397 418 
+closest H%CE%B1.txt 1 30 
+prominences H%CE%B1.txt 2 130 759 
+effect H%CE%B1.txt 1 781 
+levels H%CE%B1.txt 3 36 151 158 
+moving H%CE%B1.txt 1 758 
+vacuum-deposited H%CE%B1.txt 1 553 
+hydrogen-alpha H%CE%B1.txt 1 505 
+centred H%CE%B1.txt 3 520 646 688 
+bohr H%CE%B1.txt 2 11 141 
+the H%CE%B1.txt 74 8 14 17 26 32 39 48 52 78 124 132 140 144 153 162 184 196 209 212 226 230 235 242 258 271 279 292 298 310 313 325 337 343 351 358 367 377 387 392 401 421 426 434 437 446 456 465 468 473 478 483 522 534 537 570 586 600 605 634 648 661 672 690 694 697 700 706 718 728 734 744 773 778 821 
+recombine H%CE%B1.txt 1 302 
+deep-red H%CE%B1.txt 1 73 
+being H%CE%B1.txt 1 365 
+when H%CE%B1.txt 1 89 
+shape H%CE%B1.txt 1 388 
+distant H%CE%B1.txt 1 38 
+fabryprot H%CE%B1.txt 1 638 
+photons H%CE%B1.txt 1 331 
+except H%CE%B1.txt 1 568 
+has H%CE%B1.txt 2 217 736 
+details H%CE%B1.txt 1 818 
+using H%CE%B1.txt 3 500 803 833 
+part H%CE%B1.txt 1 228 
+velocities H%CE%B1.txt 1 746 
+50 H%CE%B1.txt 1 552 
+specific H%CE%B1.txt 1 72 
+reduced H%CE%B1.txt 1 810 
+because H%CE%B1.txt 1 374 
+often H%CE%B1.txt 1 766 
+ejections H%CE%B1.txt 1 761 
+for H%CE%B1.txt 7 55 208 238 584 598 603 786 
+electromagnetic H%CE%B1.txt 1 231 
+does H%CE%B1.txt 1 276 
+656.281 H%CE%B1.txt 1 221 
+manufactured H%CE%B1.txt 1 549 
+by H%CE%B1.txt 9 112 161 205 482 490 528 550 769 802 
+on H%CE%B1.txt 6 521 647 689 709 727 820 
+of H%CE%B1.txt 26 13 51 63 84 143 186 220 229 246 380 391 423 459 477 485 497 517 536 588 627 633 684 686 696 712 730 
+range H%CE%B1.txt 1 683 
+or H%CE%B1.txt 2 414 771 
+pollution H%CE%B1.txt 1 590 
+letters H%CE%B1.txt 1 207 
+image H%CE%B1.txt 1 496 
+three H%CE%B1.txt 1 616 
+references H%CE%B1.txt 1 840 
+determine H%CE%B1.txt 2 400 420 
+cascades H%CE%B1.txt 1 323 
+constructive/destructive H%CE%B1.txt 1 710 
+reducing H%CE%B1.txt 1 585 
+fast H%CE%B1.txt 1 757 
+width H%CE%B1.txt 2 531 535 
+way H%CE%B1.txt 2 237 488 
+656.28 H%CE%B1.txt 1 85 
+lowest H%CE%B1.txt 1 99 
+amateur H%CE%B1.txt 2 495 787 
+form H%CE%B1.txt 1 304 
+enough H%CE%B1.txt 1 596 
+but H%CE%B1.txt 1 717 
+greek H%CE%B1.txt 1 206 
+solar H%CE%B1.txt 3 129 762 788 
+atom H%CE%B1.txt 6 16 145 281 308 312 352 
+line H%CE%B1.txt 8 50 76 360 369 439 651 663 693 
+with H%CE%B1.txt 5 81 332 452 749 777 
+6888 H%CE%B1.txt 1 499 
+made H%CE%B1.txt 2 614 832 
+rejection H%CE%B1.txt 1 620 
+bandwidths H%CE%B1.txt 1 792 
+transmits H%CE%B1.txt 2 641 660 
+piece H%CE%B1.txt 1 626 
+emit H%CE%B1.txt 1 354 
+bandpass H%CE%B1.txt 1 530 
+associated H%CE%B1.txt 2 748 779 
+an H%CE%B1.txt 6 22 44 453 508 618 824 
+balmer H%CE%B1.txt 6 18 53 79 135 197 435 
+as H%CE%B1.txt 6 108 253 274 407 461 756 
+exist H%CE%B1.txt 2 147 173 
+at H%CE%B1.txt 2 440 569 
+ev H%CE%B1.txt 2 269 283 
+nm H%CE%B1.txt 6 66 86 222 475 682 801 
+generally H%CE%B1.txt 1 519 
+other H%CE%B1.txt 1 667 
+angstrom H%CE%B1.txt 1 794 
+dichroic H%CE%B1.txt 5 547 577 657 701 723 
+excitation H%CE%B1.txt 1 290 
+photon H%CE%B1.txt 3 46 62 476 
+important H%CE%B1.txt 1 105 
+nucleus H%CE%B1.txt 2 33 155 
+typically H%CE%B1.txt 2 417 798 
+mass H%CE%B1.txt 2 403 422 
+time H%CE%B1.txt 1 338 

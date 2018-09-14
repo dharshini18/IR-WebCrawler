@@ -1,0 +1,316 @@
+all Solar_neutrino.txt 2 114 454 
+measurements Solar_neutrino.txt 1 572 
+words Solar_neutrino.txt 1 108 
+chain Solar_neutrino.txt 5 6 126 584 667 691 
+produces Solar_neutrino.txt 3 259 297 721 
+suns Solar_neutrino.txt 1 491 
+agreed Solar_neutrino.txt 1 460 
+both Solar_neutrino.txt 2 173 250 
+produced Solar_neutrino.txt 7 15 60 118 159 629 648 663 
+sources Solar_neutrino.txt 1 37 
+experiments Solar_neutrino.txt 1 609 
+through Solar_neutrino.txt 1 67 
+experimentally Solar_neutrino.txt 1 771 
+go Solar_neutrino.txt 1 211 
+earth Solar_neutrino.txt 3 40 380 387 
+its Solar_neutrino.txt 1 83 
+down Solar_neutrino.txt 1 212 
+previous Solar_neutrino.txt 1 166 
+chlorine Solar_neutrino.txt 1 621 
+note Solar_neutrino.txt 1 757 
+metric Solar_neutrino.txt 1 734 
+decay Solar_neutrino.txt 2 282 632 
+energies Solar_neutrino.txt 3 311 373 764 
+homestake Solar_neutrino.txt 1 618 
+asterisk Solar_neutrino.txt 1 313 
+enough Solar_neutrino.txt 1 525 
+should Solar_neutrino.txt 1 496 
+here Solar_neutrino.txt 1 217 
+to Solar_neutrino.txt 22 82 139 240 272 286 356 375 429 507 516 527 577 600 612 626 645 659 675 747 803 813 824 
+only Solar_neutrino.txt 2 205 412 
+production Solar_neutrino.txt 4 54 370 509 750 
+combine Solar_neutrino.txt 1 268 
+fig Solar_neutrino.txt 1 362 
+400 Solar_neutrino.txt 2 357 724 
+orange Solar_neutrino.txt 1 543 
+2014 Solar_neutrino.txt 1 705 
+hidden Solar_neutrino.txt 1 842 
+main Solar_neutrino.txt 1 96 
+excited Solar_neutrino.txt 2 323 326 
+beryllium Solar_neutrino.txt 4 181 209 219 635 
+2012 Solar_neutrino.txt 1 707 
+oscillations Solar_neutrino.txt 1 781 
+then Solar_neutrino.txt 1 329 
+over Solar_neutrino.txt 2 806 820 
+around Solar_neutrino.txt 1 389 
+3 Solar_neutrino.txt 1 742 
+far Solar_neutrino.txt 1 29 
+liquid Solar_neutrino.txt 1 737 
+survival Solar_neutrino.txt 1 534 
+relatively Solar_neutrino.txt 1 753 
+710 Solar_neutrino.txt 1 390 
+electron Solar_neutrino.txt 5 12 223 231 409 467 
+b Solar_neutrino.txt 1 650 
+know Solar_neutrino.txt 1 601 
+background Solar_neutrino.txt 1 52 
+not Solar_neutrino.txt 1 673 
+using Solar_neutrino.txt 1 161 
+now Solar_neutrino.txt 1 180 
+day Solar_neutrino.txt 2 542 745 
+categories Solar_neutrino.txt 2 841 843 
+splits Solar_neutrino.txt 1 330 
+leads Solar_neutrino.txt 2 81 506 
+reading Solar_neutrino.txt 1 839 
+edit Solar_neutrino.txt 5 56 337 835 837 840 
+luminosity Solar_neutrino.txt 1 816 
+separately Solar_neutrino.txt 1 679 
+this Solar_neutrino.txt 12 110 148 246 257 419 443 529 602 677 690 752 766 
+detected Solar_neutrino.txt 1 406 
+predicted Solar_neutrino.txt 4 399 416 593 782 
+each Solar_neutrino.txt 3 72 191 744 
+where Solar_neutrino.txt 1 493 
+essential Solar_neutrino.txt 1 599 
+particlescm Solar_neutrino.txt 1 391 
+deuteron Solar_neutrino.txt 1 133 
+reactions Solar_neutrino.txt 4 71 91 252 790 
+because Solar_neutrino.txt 1 605 
+directly Solar_neutrino.txt 1 345 
+oscillation Solar_neutrino.txt 1 434 
+be Solar_neutrino.txt 8 151 158 183 292 398 514 637 811 
+energy Solar_neutrino.txt 6 354 555 566 586 603 615 
+detection Solar_neutrino.txt 1 608 
+idea Solar_neutrino.txt 1 431 
+observed Solar_neutrino.txt 2 38 335 
+nuclei Solar_neutrino.txt 3 275 334 726 
+rate Solar_neutrino.txt 1 79 
+are Solar_neutrino.txt 9 14 59 92 117 201 253 365 610 656 
+measure Solar_neutrino.txt 1 528 
+manner Solar_neutrino.txt 1 767 
+further Solar_neutrino.txt 1 838 
+trigger Solar_neutrino.txt 1 788 
+86 Solar_neutrino.txt 1 112 
+shown Solar_neutrino.txt 2 360 560 
+detect Solar_neutrino.txt 1 517 
+pep Solar_neutrino.txt 1 718 
+for Solar_neutrino.txt 3 698 715 772 
+flux Solar_neutrino.txt 5 32 340 385 449 469 
+purple Solar_neutrino.txt 1 548 
+nuclear Solar_neutrino.txt 4 23 69 502 789 
+saw Solar_neutrino.txt 1 739 
+since Solar_neutrino.txt 1 199 
+wikipedia Solar_neutrino.txt 1 2 
+borexino Solar_neutrino.txt 2 703 759 
+looking Solar_neutrino.txt 1 792 
+may Solar_neutrino.txt 1 810 
+state Solar_neutrino.txt 1 324 
+experiment Solar_neutrino.txt 1 619 
+various Solar_neutrino.txt 2 68 797 
+lithium-7 Solar_neutrino.txt 2 227 266 
+contained Solar_neutrino.txt 1 732 
+pattern Solar_neutrino.txt 1 777 
+three Solar_neutrino.txt 1 206 
+occurs Solar_neutrino.txt 1 75 
+demonstrated Solar_neutrino.txt 1 770 
+core Solar_neutrino.txt 2 63 492 
+process Solar_neutrino.txt 1 669 
+led Solar_neutrino.txt 1 428 
+theory Solar_neutrino.txt 1 785 
+performed Solar_neutrino.txt 1 575 
+respectively Solar_neutrino.txt 1 255 
+supernova Solar_neutrino.txt 1 50 
+night Solar_neutrino.txt 1 547 
+mechanisms Solar_neutrino.txt 2 55 371 
+however Solar_neutrino.txt 1 670 
+isotope Solar_neutrino.txt 2 155 636 
+standard Solar_neutrino.txt 4 9 129 402 826 
+ranges Solar_neutrino.txt 1 616 
+reported Solar_neutrino.txt 1 711 
+helium-3 Solar_neutrino.txt 1 174 
+mev Solar_neutrino.txt 1 377 
+geologic Solar_neutrino.txt 1 807 
+helium-4 Solar_neutrino.txt 3 176 277 333 
+fused Solar_neutrino.txt 1 184 
+detecting Solar_neutrino.txt 1 712 
+come Solar_neutrino.txt 1 344 
+by Solar_neutrino.txt 12 28 160 185 400 472 594 630 649 664 702 783 791 
+change Solar_neutrino.txt 1 441 
+on Solar_neutrino.txt 6 39 314 500 541 546 740 
+about Solar_neutrino.txt 1 298 
+interaction Solar_neutrino.txt 1 349 
+incoming Solar_neutrino.txt 1 519 
+e.g Solar_neutrino.txt 1 44 
+of Solar_neutrino.txt 38 22 33 64 73 86 89 113 188 190 261 276 300 341 383 395 408 414 432 450 453 465 521 533 536 553 556 564 567 581 588 633 682 689 736 762 778 796 817 
+could Solar_neutrino.txt 1 220 
+beryllium-8 Solar_neutrino.txt 3 284 315 327 
+gallium Solar_neutrino.txt 1 655 
+location Solar_neutrino.txt 1 488 
+sensitive Solar_neutrino.txt 4 611 625 644 658 
+amount Solar_neutrino.txt 1 382 
+produce Solar_neutrino.txt 2 225 273 
+due Solar_neutrino.txt 3 239 285 746 
+flavour Solar_neutrino.txt 1 442 
+contribution Solar_neutrino.txt 2 97 678 
+or Solar_neutrino.txt 3 47 106 545 
+gamma Solar_neutrino.txt 1 146 
+first Solar_neutrino.txt 2 700 774 
+own Solar_neutrino.txt 1 84 
+additionally Solar_neutrino.txt 1 485 
+probability Solar_neutrino.txt 1 535 
+extra Solar_neutrino.txt 1 288 
+into Solar_neutrino.txt 2 283 331 
+within Solar_neutrino.txt 1 489 
+predictions Solar_neutrino.txt 1 464 
+number Solar_neutrino.txt 3 394 407 417 
+proton Solar_neutrino.txt 4 138 238 271 289 
+one Solar_neutrino.txt 1 189 
+neutrons Solar_neutrino.txt 1 207 
+tons Solar_neutrino.txt 1 735 
+thermonuclear Solar_neutrino.txt 1 755 
+references Solar_neutrino.txt 1 836 
+another Solar_neutrino.txt 1 137 
+kev Solar_neutrino.txt 1 358 
+neutrino Solar_neutrino.txt 13 1 51 232 384 425 433 468 474 511 607 614 640 780 
+total Solar_neutrino.txt 1 448 
+100 Solar_neutrino.txt 1 733 
+proton-electron-proton Solar_neutrino.txt 1 717 
+has Solar_neutrino.txt 1 829 
+use Solar_neutrino.txt 1 654 
+ancient Solar_neutrino.txt 1 794 
+from Solar_neutrino.txt 9 35 99 109 216 346 378 498 685 751 
+their Solar_neutrino.txt 1 508 
+0.02 Solar_neutrino.txt 1 299 
+measured Solar_neutrino.txt 2 457 760 
+create Solar_neutrino.txt 2 140 248 
+there Solar_neutrino.txt 2 200 364 
+they Solar_neutrino.txt 2 671 768 
+system Solar_neutrino.txt 1 179 
+been Solar_neutrino.txt 2 574 801 
+few Solar_neutrino.txt 1 305 
+2 Solar_neutrino.txt 1 274 
+listed Solar_neutrino.txt 1 93 
+basic Solar_neutrino.txt 1 687 
+expected Solar_neutrino.txt 1 466 
+was Solar_neutrino.txt 6 411 420 444 456 623 696 
+theoretical Solar_neutrino.txt 1 531 
+low Solar_neutrino.txt 1 353 
+function Solar_neutrino.txt 1 552 
+direction Solar_neutrino.txt 1 520 
+1/3 Solar_neutrino.txt 1 413 
+reaction Solar_neutrino.txt 14 102 104 111 149 167 187 198 258 296 504 668 688 719 756 
+ages Solar_neutrino.txt 1 798 
+continuous Solar_neutrino.txt 1 544 
+exposed Solar_neutrino.txt 1 802 
+precision Solar_neutrino.txt 1 526 
+uncommon Solar_neutrino.txt 1 754 
+it Solar_neutrino.txt 5 233 427 459 597 809 
+effect Solar_neutrino.txt 1 530 
+observe Solar_neutrino.txt 1 676 
+solar Solar_neutrino.txt 26 0 3 10 25 57 115 123 130 263 302 306 342 403 424 451 483 494 537 589 595 627 646 661 779 804 827 
+particular Solar_neutrino.txt 1 78 
+known Solar_neutrino.txt 1 421 
+branches Solar_neutrino.txt 1 580 
+highest Solar_neutrino.txt 1 339 
+with Solar_neutrino.txt 8 43 136 172 269 372 461 524 831 
+diffuse Solar_neutrino.txt 1 49 
+he Solar_neutrino.txt 3 142 156 163 
+abundance Solar_neutrino.txt 1 242 
+constitute Solar_neutrino.txt 1 27 
+observatory Solar_neutrino.txt 2 475 641 
+atmospheric Solar_neutrino.txt 1 45 
+14 Solar_neutrino.txt 1 260 
+these Solar_neutrino.txt 4 90 251 304 522 
+18 Solar_neutrino.txt 1 376 
+originate Solar_neutrino.txt 1 497 
+protons Solar_neutrino.txt 1 203 
+up Solar_neutrino.txt 2 355 374 
+boron-8 Solar_neutrino.txt 2 249 279 
+will Solar_neutrino.txt 5 134 247 267 280 513 
+below Solar_neutrino.txt 4 94 171 256 294 
+future Solar_neutrino.txt 1 510 
+values Solar_neutrino.txt 1 563 
+can Solar_neutrino.txt 9 150 157 182 210 234 291 397 440 787 
+were Solar_neutrino.txt 1 672 
+problem Solar_neutrino.txt 1 426 
+arrive Solar_neutrino.txt 1 540 
+achieved Solar_neutrino.txt 1 697 
+sudbury Solar_neutrino.txt 2 473 639 
+and Solar_neutrino.txt 13 80 144 175 204 224 229 350 418 435 458 476 622 738 
+larger Solar_neutrino.txt 1 310 
+low-energy Solar_neutrino.txt 1 713 
+figure Solar_neutrino.txt 1 122 
+predict Solar_neutrino.txt 1 486 
+is Solar_neutrino.txt 7 105 169 320 388 591 598 642 
+thus Solar_neutrino.txt 1 477 
+spectrum Solar_neutrino.txt 3 85 587 604 
+curves Solar_neutrino.txt 1 532 
+an Solar_neutrino.txt 3 222 230 322 
+indicates Solar_neutrino.txt 1 316 
+as Solar_neutrino.txt 9 19 41 119 153 194 359 422 470 550 
+at Solar_neutrino.txt 4 76 386 570 793 
+have Solar_neutrino.txt 6 308 351 481 573 769 800 
+in Solar_neutrino.txt 18 7 16 61 107 121 127 164 177 196 243 321 361 694 704 706 723 727 765 
+seen Solar_neutrino.txt 7 120 152 170 195 254 293 471 
+carbon Solar_neutrino.txt 1 748 
+helium Solar_neutrino.txt 1 192 
+interrogate Solar_neutrino.txt 1 814 
+contents Solar_neutrino.txt 1 53 
+ray Solar_neutrino.txt 1 147 
+paths Solar_neutrino.txt 1 215 
+different Solar_neutrino.txt 4 214 579 606 613 
+compared Solar_neutrino.txt 1 42 
+able Solar_neutrino.txt 2 515 674 
+depending Solar_neutrino.txt 1 499 
+dashed Solar_neutrino.txt 1 549 
+that Solar_neutrino.txt 8 317 438 479 539 653 720 758 799 
+when Solar_neutrino.txt 1 446 
+s Solar_neutrino.txt 1 392 
+same Solar_neutrino.txt 1 709 
+1 Solar_neutrino.txt 2 363 722 
+also Solar_neutrino.txt 5 235 366 559 592 834 
+other Solar_neutrino.txt 1 368 
+changed Solar_neutrino.txt 1 830 
+details Solar_neutrino.txt 1 88 
+which Solar_neutrino.txt 6 74 168 290 505 571 822 
+largest Solar_neutrino.txt 1 31 
+according Solar_neutrino.txt 1 823 
+detector Solar_neutrino.txt 1 731 
+several Solar_neutrino.txt 2 367 763 
+events Solar_neutrino.txt 1 743 
+product Solar_neutrino.txt 1 21 
+used Solar_neutrino.txt 1 620 
+star Solar_neutrino.txt 1 245 
+time Solar_neutrino.txt 5 701 775 808 821 832 
+see Solar_neutrino.txt 1 833 
+capture Solar_neutrino.txt 2 221 236 
+models Solar_neutrino.txt 2 484 596 
+collaboration Solar_neutrino.txt 1 710 
+earlier Solar_neutrino.txt 1 463 
+neutrinos Solar_neutrino.txt 32 4 13 26 34 46 58 87 116 124 264 303 307 343 396 410 439 452 480 495 523 538 558 569 590 628 647 662 684 714 761 786 805 
+confirmed Solar_neutrino.txt 2 445 478 
+possible Solar_neutrino.txt 1 812 
+most Solar_neutrino.txt 3 624 643 657 
+beta Solar_neutrino.txt 1 281 
+fuse Solar_neutrino.txt 1 135 
+nucleus Solar_neutrino.txt 5 143 193 228 319 328 
+two Solar_neutrino.txt 2 213 332 
+significant Solar_neutrino.txt 1 369 
+proton-proton Solar_neutrino.txt 7 5 101 125 348 583 666 692 
+data Solar_neutrino.txt 1 336 
+model Solar_neutrino.txt 4 11 131 404 828 
+types Solar_neutrino.txt 1 455 
+a Solar_neutrino.txt 10 20 77 141 145 226 237 244 270 352 551 
+natural Solar_neutrino.txt 1 36 
+observation Solar_neutrino.txt 1 681 
+four Solar_neutrino.txt 3 202 562 578 
+corresponding Solar_neutrino.txt 1 576 
+average Solar_neutrino.txt 1 741 
+detectors Solar_neutrino.txt 2 512 652 
+fusion Solar_neutrino.txt 4 24 70 503 693 
+deuterium Solar_neutrino.txt 2 695 725 
+mass Solar_neutrino.txt 1 482 
+comes Solar_neutrino.txt 1 98 
+sun Solar_neutrino.txt 4 18 66 729 819 
+11 Solar_neutrino.txt 1 749 
+the Solar_neutrino.txt 75 8 17 30 48 62 65 95 100 103 128 132 154 162 165 178 186 197 208 218 241 262 265 278 287 295 301 309 312 318 325 338 347 379 381 393 401 405 415 423 430 436 447 462 487 490 501 518 554 557 561 565 568 582 585 617 631 634 638 651 660 665 680 683 686 699 708 716 728 730 773 776 784 815 818 825 
+ores Solar_neutrino.txt 1 795 
+fact Solar_neutrino.txt 1 437 

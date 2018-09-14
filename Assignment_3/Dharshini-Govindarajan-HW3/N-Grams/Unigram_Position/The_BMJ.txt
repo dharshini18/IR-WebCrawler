@@ -1,0 +1,485 @@
+all The_BMJ.txt 3 952 1054 1084 
+founder The_BMJ.txt 1 177 
+hennis The_BMJ.txt 1 159 
+global The_BMJ.txt 2 59 565 
+results The_BMJ.txt 1 603 
+alerting The_BMJ.txt 1 1151 
+surgical The_BMJ.txt 4 128 199 235 340 
+hanging The_BMJ.txt 1 770 
+oldest The_BMJ.txt 1 26 
+children The_BMJ.txt 1 166 
+causes The_BMJ.txt 1 445 
+catastrophe The_BMJ.txt 1 570 
+editors The_BMJ.txt 4 156 224 497 978 
+to The_BMJ.txt 20 41 48 295 408 414 450 543 596 696 814 906 960 976 993 1046 1068 1076 1132 1136 1195 
+summarised The_BMJ.txt 1 344 
+promoting The_BMJ.txt 1 373 
+videos The_BMJ.txt 1 1194 
+include The_BMJ.txt 1 556 
+mainstream The_BMJ.txt 1 612 
+print The_BMJ.txt 5 642 663 703 962 1178 
+every The_BMJ.txt 2 533 636 
+categories The_BMJ.txt 2 1204 1206 
+school The_BMJ.txt 2 170 698 
+medline The_BMJ.txt 1 796 
+notes The_BMJ.txt 1 258 
+p The_BMJ.txt 1 158 
+well-being The_BMJ.txt 1 375 
+noted The_BMJ.txt 1 285 
+rate The_BMJ.txt 1 774 
+cost The_BMJ.txt 1 270 
+functioning The_BMJ.txt 1 707 
+hinari The_BMJ.txt 1 1113 
+established The_BMJ.txt 1 343 
+appear The_BMJ.txt 1 1196 
+expressed The_BMJ.txt 1 370 
+access The_BMJ.txt 3 939 1102 1127 
+version The_BMJ.txt 2 244 1169 
+issues The_BMJ.txt 3 532 552 954 
+illustrations The_BMJ.txt 1 218 
+new The_BMJ.txt 2 484 884 
+increasing The_BMJ.txt 1 470 
+officially The_BMJ.txt 1 39 
+public The_BMJ.txt 2 374 853 
+told The_BMJ.txt 1 723 
+supporting The_BMJ.txt 1 964 
+condensed The_BMJ.txt 1 243 
+full The_BMJ.txt 1 632 
+policies The_BMJ.txt 1 940 
+here The_BMJ.txt 1 5 
+reported The_BMJ.txt 1 609 
+objects The_BMJ.txt 1 331 
+groups The_BMJ.txt 1 648 
+others The_BMJ.txt 1 524 
+along The_BMJ.txt 1 1186 
+publishes The_BMJ.txt 3 511 537 701 
+forum The_BMJ.txt 1 1007 
+items The_BMJ.txt 1 221 
+introductory The_BMJ.txt 2 225 320 
+1840 The_BMJ.txt 1 122 
+allows The_BMJ.txt 1 1099 
+reports The_BMJ.txt 2 96 151 
+1844 The_BMJ.txt 1 277 
+trial The_BMJ.txt 1 424 
+advertising The_BMJ.txt 1 661 
+published The_BMJ.txt 6 56 418 576 677 874 1039 
+principally The_BMJ.txt 1 619 
+obscene The_BMJ.txt 1 1030 
+woodcut The_BMJ.txt 1 217 
+evidence-based The_BMJ.txt 1 508 
+app The_BMJ.txt 3 1158 1168 1174 
+africa The_BMJ.txt 1 559 
+addressed The_BMJ.txt 1 546 
+moral The_BMJ.txt 1 398 
+1st The_BMJ.txt 1 192 
+apply The_BMJ.txt 1 591 
+research The_BMJ.txt 10 146 512 538 588 781 859 968 1073 1134 1182 
+archived The_BMJ.txt 1 951 
+from The_BMJ.txt 4 478 1052 1081 1105 
+would The_BMJ.txt 1 1123 
+objectives The_BMJ.txt 1 350 
+only The_BMJ.txt 2 626 1130 
+until The_BMJ.txt 1 276 
+abridged The_BMJ.txt 1 658 
+award The_BMJ.txt 1 815 
+known The_BMJ.txt 1 586 
+hold The_BMJ.txt 1 415 
+appointed The_BMJ.txt 1 84 
+subscription The_BMJ.txt 3 1070 1096 1141 
+1995 The_BMJ.txt 1 948 
+this The_BMJ.txt 3 583 1066 1129 
+science The_BMJ.txt 2 800 910 
+originally The_BMJ.txt 1 30 
+reviews The_BMJ.txt 5 253 517 849 900 1091 
+henry The_BMJ.txt 1 246 
+following The_BMJ.txt 1 912 
+history The_BMJ.txt 1 113 
+links The_BMJ.txt 1 1202 
+cited The_BMJ.txt 4 831 869 902 916 
+council The_BMJ.txt 1 188 
+provincial The_BMJ.txt 4 125 196 232 337 
+fourth The_BMJ.txt 1 108 
+after The_BMJ.txt 2 313 735 
+journals The_BMJ.txt 6 29 112 457 481 825 865 
+response The_BMJ.txt 1 1051 
+a The_BMJ.txt 19 15 63 183 228 242 272 383 453 528 571 592 639 668 705 763 1003 1069 1095 1140 
+randomised The_BMJ.txt 1 422 
+chief The_BMJ.txt 1 75 
+green The_BMJ.txt 4 160 282 325 366 
+order The_BMJ.txt 1 838 
+feeds The_BMJ.txt 1 1188 
+in-house The_BMJ.txt 1 737 
+years The_BMJ.txt 2 315 555 
+produced The_BMJ.txt 1 645 
+through The_BMJ.txt 1 140 
+committee The_BMJ.txt 1 771 
+existence The_BMJ.txt 1 317 
+its The_BMJ.txt 4 141 176 953 980 
+before The_BMJ.txt 2 581 758 
+chosen The_BMJ.txt 1 739 
+offers The_BMJ.txt 1 1149 
+2015 The_BMJ.txt 1 105 
+2014 The_BMJ.txt 2 52 926 
+hidden The_BMJ.txt 1 1205 
+2016 The_BMJ.txt 1 93 
+2011 The_BMJ.txt 1 1162 
+2013 The_BMJ.txt 1 1011 
+physicians The_BMJ.txt 1 136 
+them The_BMJ.txt 1 409 
+diseases The_BMJ.txt 2 164 563 
+material The_BMJ.txt 1 965 
+indexing The_BMJ.txt 1 783 
+effects The_BMJ.txt 1 435 
+they The_BMJ.txt 3 287 410 1040 
+half The_BMJ.txt 1 729 
+misuse The_BMJ.txt 1 809 
+maintaining The_BMJ.txt 1 379 
+articles The_BMJ.txt 13 147 541 589 732 782 873 903 913 922 969 1074 1135 1139 
+february The_BMJ.txt 1 86 
+edit The_BMJ.txt 15 90 114 498 501 615 711 786 904 923 941 1049 1146 1159 1200 1203 
+fully The_BMJ.txt 2 945 1004 
+hunterian The_BMJ.txt 1 169 
+references The_BMJ.txt 1 1199 
+went The_BMJ.txt 1 944 
+england The_BMJ.txt 2 485 885 
+society The_BMJ.txt 1 389 
+88 The_BMJ.txt 1 1015 
+frequency The_BMJ.txt 1 842 
+year The_BMJ.txt 2 534 706 
+aids The_BMJ.txt 1 569 
+special The_BMJ.txt 1 572 
+economically The_BMJ.txt 1 1106 
+electronic The_BMJ.txt 1 974 
+robert The_BMJ.txt 1 179 
+wholly The_BMJ.txt 1 64 
+content The_BMJ.txt 6 500 634 654 963 1031 1055 
+attracted The_BMJ.txt 1 132 
+contained The_BMJ.txt 1 214 
+health The_BMJ.txt 4 439 557 854 857 
+7 The_BMJ.txt 1 778 
+internet The_BMJ.txt 1 1006 
+medicine The_BMJ.txt 4 172 488 509 888 
+issue The_BMJ.txt 2 193 203 
+announced The_BMJ.txt 1 1121 
+model The_BMJ.txt 1 1071 
+friday The_BMJ.txt 1 580 
+free The_BMJ.txt 2 1101 1153 
+selections The_BMJ.txt 1 652 
+pmsa The_BMJ.txt 1 187 
+british The_BMJ.txt 3 33 69 206 
+warburton The_BMJ.txt 1 247 
+american The_BMJ.txt 2 494 892 
+promotion The_BMJ.txt 1 333 
+entrusted The_BMJ.txt 1 407 
+lancet The_BMJ.txt 4 312 462 851 882 
+first The_BMJ.txt 5 155 202 303 420 744 
+major The_BMJ.txt 1 793 
+manuscript The_BMJ.txt 2 727 764 
+attractions The_BMJ.txt 1 982 
+number The_BMJ.txt 4 304 529 640 669 
+owned The_BMJ.txt 1 65 
+one The_BMJ.txt 1 22 
+1988 The_BMJ.txt 1 44 
+open The_BMJ.txt 2 716 1126 
+management The_BMJ.txt 1 560 
+publication The_BMJ.txt 2 142 757 
+practitioners The_BMJ.txt 1 381 
+system The_BMJ.txt 1 719 
+their The_BMJ.txt 7 279 319 392 396 726 1050 1133 
+2 The_BMJ.txt 1 261 
+final The_BMJ.txt 1 760 
+justly The_BMJ.txt 1 412 
+releases The_BMJ.txt 1 527 
+that The_BMJ.txt 5 286 386 826 866 1037 
+rejected The_BMJ.txt 1 734 
+part The_BMJ.txt 1 1110 
+suitability The_BMJ.txt 1 755 
+doctors The_BMJ.txt 1 692 
+godlee The_BMJ.txt 1 81 
+than The_BMJ.txt 1 777 
+character The_BMJ.txt 1 399 
+ipad The_BMJ.txt 2 1157 1167 
+14 The_BMJ.txt 1 1116 
+16 The_BMJ.txt 1 210 
+require The_BMJ.txt 1 1094 
+recruit The_BMJ.txt 1 818 
+19.697 The_BMJ.txt 1 103 
+letters The_BMJ.txt 1 975 
+were The_BMJ.txt 4 157 222 260 346 
+seminal The_BMJ.txt 1 430 
+7d The_BMJ.txt 1 271 
+remained The_BMJ.txt 1 275 
+disambiguation The_BMJ.txt 1 11 
+worcester The_BMJ.txt 1 182 
+voices The_BMJ.txt 1 566 
+medical The_BMJ.txt 21 18 28 34 70 111 126 197 207 233 249 309 338 364 380 480 495 519 600 689 697 893 
+pubmed The_BMJ.txt 1 795 
+have The_BMJ.txt 4 830 867 914 1043 
+fiona The_BMJ.txt 1 80 
+contents The_BMJ.txt 2 88 1088 
+indexes The_BMJ.txt 1 794 
+also The_BMJ.txt 6 174 369 427 463 682 700 
+potential The_BMJ.txt 1 1033 
+which The_BMJ.txt 6 274 335 390 590 629 699 
+online The_BMJ.txt 4 621 686 946 1062 
+lecturer The_BMJ.txt 1 161 
+added The_BMJ.txt 1 1086 
+index The_BMJ.txt 1 802 
+price The_BMJ.txt 1 273 
+who The_BMJ.txt 4 82 173 724 749 
+most The_BMJ.txt 8 307 834 870 901 918 920 928 991 
+letter The_BMJ.txt 1 299 
+services The_BMJ.txt 3 858 1145 1152 
+class The_BMJ.txt 1 384 
+especially The_BMJ.txt 1 356 
+clear The_BMJ.txt 1 348 
+later The_BMJ.txt 1 323 
+cover The_BMJ.txt 1 189 
+institutions The_BMJ.txt 1 822 
+quantity The_BMJ.txt 1 297 
+selection The_BMJ.txt 1 1180 
+particularly The_BMJ.txt 1 482 
+text The_BMJ.txt 1 633 
+authors The_BMJ.txt 1 721 
+relation The_BMJ.txt 1 449 
+translation The_BMJ.txt 1 679 
+principal The_BMJ.txt 1 981 
+impact The_BMJ.txt 3 89 100 812 
+based The_BMJ.txt 1 464 
+knowledge The_BMJ.txt 2 60 365 
+title The_BMJ.txt 1 37 
+streeten The_BMJ.txt 4 180 284 327 368 
+proportion The_BMJ.txt 1 294 
+theme The_BMJ.txt 3 531 545 551 
+factor The_BMJ.txt 2 101 813 
+local The_BMJ.txt 1 671 
+columns The_BMJ.txt 1 262 
+centrally The_BMJ.txt 1 421 
+ranking The_BMJ.txt 1 106 
+made The_BMJ.txt 1 766 
+longest The_BMJ.txt 1 220 
+report The_BMJ.txt 1 229 
+manuscripts The_BMJ.txt 1 738 
+resource The_BMJ.txt 1 687 
+countries The_BMJ.txt 1 1108 
+remove The_BMJ.txt 1 1047 
+e-letters The_BMJ.txt 1 992 
+including The_BMJ.txt 1 1089 
+peer-reviewed The_BMJ.txt 1 17 
+view The_BMJ.txt 1 1137 
+seventeen The_BMJ.txt 1 314 
+edition The_BMJ.txt 2 574 584 
+see The_BMJ.txt 1 9 
+are The_BMJ.txt 13 411 604 644 665 676 722 733 743 836 878 979 1025 1035 
+and The_BMJ.txt 40 45 127 130 148 178 198 213 227 234 256 283 322 326 339 360 367 400 440 443 489 539 564 607 623 659 693 754 784 798 817 855 895 938 949 973 999 1029 1092 1184 1193 
+reform The_BMJ.txt 1 250 
+review The_BMJ.txt 4 540 718 736 742 
+wikipedia The_BMJ.txt 1 2 
+3 The_BMJ.txt 1 120 
+approach The_BMJ.txt 1 595 
+globalisation The_BMJ.txt 1 471 
+available The_BMJ.txt 2 1061 1078 
+attention The_BMJ.txt 1 134 
+responses The_BMJ.txt 2 998 1018 
+importance The_BMJ.txt 2 403 753 
+sole The_BMJ.txt 1 458 
+however The_BMJ.txt 3 638 1032 1063 
+rapid The_BMJ.txt 2 997 1017 
+article The_BMJ.txt 3 281 637 930 
+faced The_BMJ.txt 1 475 
+received The_BMJ.txt 1 289 
+many The_BMJ.txt 1 291 
+according The_BMJ.txt 1 905 
+s The_BMJ.txt 3 99 154 248 
+duty The_BMJ.txt 1 268 
+among The_BMJ.txt 2 109 523 
+tough The_BMJ.txt 1 476 
+cancer The_BMJ.txt 1 442 
+simple The_BMJ.txt 1 216 
+had The_BMJ.txt 2 288 1013 
+grants The_BMJ.txt 1 816 
+initiative The_BMJ.txt 1 1114 
+news The_BMJ.txt 2 971 1190 
+provinces The_BMJ.txt 1 359 
+targeting The_BMJ.txt 1 646 
+publishing The_BMJ.txt 2 118 990 
+addition The_BMJ.txt 2 667 959 
+acceptance The_BMJ.txt 1 773 
+three The_BMJ.txt 2 215 702 
+been The_BMJ.txt 3 868 915 1014 
+quickly The_BMJ.txt 1 131 
+citations The_BMJ.txt 1 785 
+interest The_BMJ.txt 1 371 
+duties The_BMJ.txt 1 406 
+website The_BMJ.txt 5 628 934 937 985 1023 
+bmc The_BMJ.txt 2 852 856 
+controlled The_BMJ.txt 1 423 
+eastern The_BMJ.txt 1 237 
+bmj The_BMJ.txt 33 1 3 10 13 42 50 62 78 98 153 417 473 503 617 675 684 713 788 833 844 877 880 933 936 943 984 1022 1058 1098 1120 1148 1156 1164 
+policy The_BMJ.txt 1 988 
+external The_BMJ.txt 2 747 1201 
+systematic The_BMJ.txt 2 848 899 
+smoking The_BMJ.txt 2 437 451 
+an The_BMJ.txt 6 505 620 685 715 1125 1166 
+those The_BMJ.txt 1 694 
+case The_BMJ.txt 2 150 257 
+main The_BMJ.txt 3 280 330 349 
+high-impact The_BMJ.txt 1 144 
+bill The_BMJ.txt 1 251 
+value The_BMJ.txt 1 1087 
+podcasts The_BMJ.txt 1 1192 
+will The_BMJ.txt 1 1041 
+editorial The_BMJ.txt 4 226 321 521 769 
+freely The_BMJ.txt 2 1060 1079 
+investigating The_BMJ.txt 1 597 
+launched The_BMJ.txt 1 1165 
+shortened The_BMJ.txt 1 40 
+changed The_BMJ.txt 2 47 1067 
+then The_BMJ.txt 1 46 
+is The_BMJ.txt 17 14 21 55 79 342 504 575 585 618 625 681 765 775 789 935 1000 1142 
+it The_BMJ.txt 8 20 107 269 510 536 624 657 1122 
+experts The_BMJ.txt 1 748 
+in The_BMJ.txt 25 43 51 74 85 91 104 278 293 318 357 372 385 448 465 553 558 666 678 791 837 875 947 958 1064 1160 
+different The_BMJ.txt 2 647 660 
+media The_BMJ.txt 1 613 
+began The_BMJ.txt 1 117 
+wherein The_BMJ.txt 1 720 
+member The_BMJ.txt 1 184 
+viewed The_BMJ.txt 2 921 929 
+widely The_BMJ.txt 1 608 
+several The_BMJ.txt 1 1150 
+entitled The_BMJ.txt 1 413 
+disadvantaged The_BMJ.txt 1 1107 
+uses The_BMJ.txt 1 8 
+student The_BMJ.txt 1 683 
+frequently The_BMJ.txt 1 871 
+500 The_BMJ.txt 1 1016 
+recent The_BMJ.txt 2 518 554 
+bmj.com The_BMJ.txt 1 1198 
+database The_BMJ.txt 2 846 897 
+well The_BMJ.txt 2 377 514 
+academic The_BMJ.txt 2 594 821 
+descending The_BMJ.txt 1 840 
+the The_BMJ.txt 110 0 12 24 32 36 49 53 58 68 72 77 92 97 115 124 133 138 152 163 168 186 191 195 201 205 219 223 231 296 306 311 329 336 351 354 358 361 402 405 416 419 425 429 433 456 461 466 472 483 490 493 502 525 544 549 568 579 602 611 616 627 631 662 674 709 712 730 752 759 768 772 787 792 799 803 808 811 823 832 843 850 863 876 879 881 883 891 907 911 917 927 932 942 956 961 977 983 987 994 1021 1044 1057 1097 1112 1119 1147 1163 1171 1173 1176 
+researchers The_BMJ.txt 1 819 
+comment The_BMJ.txt 2 750 1183 
+redirects The_BMJ.txt 1 4 
+less The_BMJ.txt 2 598 776 
+reviewed The_BMJ.txt 2 725 745 
+not The_BMJ.txt 1 1042 
+questions The_BMJ.txt 1 601 
+weekly The_BMJ.txt 2 16 1177 
+web The_BMJ.txt 2 908 957 
+death The_BMJ.txt 1 447 
+readers The_BMJ.txt 1 650 
+advertisements The_BMJ.txt 2 264 292 
+advancement The_BMJ.txt 1 352 
+other The_BMJ.txt 7 7 239 444 479 1085 1138 1144 
+association The_BMJ.txt 3 71 496 894 
+ebsco The_BMJ.txt 1 797 
+has The_BMJ.txt 5 474 714 805 950 986 
+associations The_BMJ.txt 1 236 
+editorials The_BMJ.txt 1 1093 
+around The_BMJ.txt 1 137 
+worlds The_BMJ.txt 1 25 
+advances The_BMJ.txt 1 520 
+advocate The_BMJ.txt 1 506 
+1999 The_BMJ.txt 1 1053 
+five The_BMJ.txt 2 824 864 
+press The_BMJ.txt 1 300 
+world The_BMJ.txt 1 139 
+unique The_BMJ.txt 1 149 
+like The_BMJ.txt 1 1002 
+shaped The_BMJ.txt 1 1001 
+cochrane The_BMJ.txt 2 845 896 
+annually The_BMJ.txt 1 577 
+continue The_BMJ.txt 1 1075 
+january The_BMJ.txt 3 1010 1082 1161 
+popular The_BMJ.txt 2 308 550 
+become The_BMJ.txt 1 1124 
+pertaining The_BMJ.txt 1 542 
+right The_BMJ.txt 1 1045 
+often The_BMJ.txt 3 605 835 919 
+humorous The_BMJ.txt 1 606 
+some The_BMJ.txt 2 547 655 
+competition The_BMJ.txt 1 477 
+competitor The_BMJ.txt 1 459 
+for The_BMJ.txt 11 6 301 452 587 688 740 756 779 966 1027 1103 
+decision The_BMJ.txt 1 761 
+comments The_BMJ.txt 1 1024 
+causal The_BMJ.txt 1 434 
+moderated The_BMJ.txt 1 1005 
+provider The_BMJ.txt 1 61 
+christmas The_BMJ.txt 2 573 582 
+be The_BMJ.txt 1 1077 
+rank The_BMJ.txt 1 387 
+journal The_BMJ.txt 24 19 35 54 94 116 129 200 208 310 341 426 486 491 499 526 622 710 804 886 889 995 1128 1172 1179 
+combines The_BMJ.txt 1 1175 
+peer The_BMJ.txt 2 717 741 
+refers The_BMJ.txt 1 1131 
+by The_BMJ.txt 9 57 391 395 401 610 746 767 820 872 
+perspectives The_BMJ.txt 1 522 
+on The_BMJ.txt 14 119 162 432 438 567 578 751 762 931 955 1020 1115 1154 1197 
+about The_BMJ.txt 1 728 
+carried The_BMJ.txt 1 428 
+visitors The_BMJ.txt 1 1104 
+of The_BMJ.txt 57 23 67 76 135 143 165 171 181 185 190 194 204 230 245 263 266 298 316 332 334 353 363 388 404 436 446 487 492 507 530 548 561 635 641 649 653 656 670 673 708 810 828 839 847 861 887 890 898 909 925 989 1009 1056 1111 1170 1181 1189 
+stamp The_BMJ.txt 1 267 
+carries The_BMJ.txt 1 630 
+or The_BMJ.txt 1 1048 
+statements The_BMJ.txt 1 324 
+profession The_BMJ.txt 1 355 
+intellectual The_BMJ.txt 1 393 
+two The_BMJ.txt 1 347 
+chronic The_BMJ.txt 1 562 
+lung The_BMJ.txt 1 441 
+screened The_BMJ.txt 1 1026 
+additional The_BMJ.txt 1 970 
+warned The_BMJ.txt 1 1036 
+there The_BMJ.txt 4 259 345 680 1012 
+long The_BMJ.txt 3 212 454 806 
+pages The_BMJ.txt 2 211 240 
+clinical The_BMJ.txt 3 254 516 1090 
+libellous The_BMJ.txt 1 1028 
+editor The_BMJ.txt 1 73 
+editions The_BMJ.txt 5 614 643 664 672 704 
+was The_BMJ.txt 7 38 83 102 175 209 460 1059 
+complete The_BMJ.txt 1 1100 
+but The_BMJ.txt 2 468 1080 
+subsidiary The_BMJ.txt 1 66 
+with The_BMJ.txt 3 469 651 1187 
+junior The_BMJ.txt 1 691 
+posted The_BMJ.txt 1 1019 
+october The_BMJ.txt 2 121 1117 
+applying The_BMJ.txt 1 695 
+acquirements The_BMJ.txt 1 394 
+stories The_BMJ.txt 1 972 
+criticised The_BMJ.txt 1 807 
+uk The_BMJ.txt 1 467 
+called The_BMJ.txt 2 31 996 
+contributors The_BMJ.txt 1 1034 
+inclusive The_BMJ.txt 1 265 
+defined The_BMJ.txt 1 328 
+request The_BMJ.txt 1 1155 
+citation The_BMJ.txt 3 95 801 841 
+dissemination The_BMJ.txt 1 362 
+general The_BMJ.txt 3 27 110 397 
+as The_BMJ.txt 13 123 290 305 376 378 382 513 515 827 860 924 1008 1109 
+at The_BMJ.txt 1 167 
+our The_BMJ.txt 1 302 
+education The_BMJ.txt 1 1185 
+when The_BMJ.txt 1 535 
+book The_BMJ.txt 1 252 
+branch The_BMJ.txt 1 238 
+papers The_BMJ.txt 2 255 431 
+students The_BMJ.txt 1 690 
+2005 The_BMJ.txt 1 87 
+included The_BMJ.txt 2 241 790 
+blogs The_BMJ.txt 1 1191 
+required The_BMJ.txt 1 1143 
+2006 The_BMJ.txt 2 1065 1083 
+time The_BMJ.txt 1 455 
+serious The_BMJ.txt 2 593 599 
+2008 The_BMJ.txt 3 829 862 1118 
+original The_BMJ.txt 5 145 731 780 967 1072 
+once The_BMJ.txt 1 1038 

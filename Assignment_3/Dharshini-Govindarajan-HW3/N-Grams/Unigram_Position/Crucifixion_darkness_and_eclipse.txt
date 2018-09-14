@@ -1,0 +1,901 @@
+all Crucifixion_darkness_and_eclipse.txt 10 217 221 1428 1502 1548 1823 1878 1915 1972 2040 
+partial Crucifixion_darkness_and_eclipse.txt 2 2384 2436 
+suns Crucifixion_darkness_and_eclipse.txt 2 421 480 
+tombs Crucifixion_darkness_and_eclipse.txt 2 333 928 
+felt Crucifixion_darkness_and_eclipse.txt 1 951 
+month Crucifixion_darkness_and_eclipse.txt 2 1480 1487 
+leads Crucifixion_darkness_and_eclipse.txt 1 642 
+hath Crucifixion_darkness_and_eclipse.txt 1 1334 
+amending Crucifixion_darkness_and_eclipse.txt 1 2500 
+go Crucifixion_darkness_and_eclipse.txt 2 645 3111 
+gn Crucifixion_darkness_and_eclipse.txt 1 225 
+landau Crucifixion_darkness_and_eclipse.txt 1 2077 
+oldest Crucifixion_darkness_and_eclipse.txt 1 172 
+children Crucifixion_darkness_and_eclipse.txt 1 1447 
+josephus Crucifixion_darkness_and_eclipse.txt 2 2719 3015 
+whose Crucifixion_darkness_and_eclipse.txt 1 1293 
+graves Crucifixion_darkness_and_eclipse.txt 2 1312 2131 
+connection Crucifixion_darkness_and_eclipse.txt 1 3124 
+plutarch Crucifixion_darkness_and_eclipse.txt 1 2717 
+containing Crucifixion_darkness_and_eclipse.txt 1 2078 
+literary Crucifixion_darkness_and_eclipse.txt 7 116 2567 2586 2746 2812 3147 3223 
+to Crucifixion_darkness_and_eclipse.txt 50 60 85 120 155 175 261 494 504 540 544 644 651 701 743 763 833 938 1002 1011 1101 1141 1410 1425 1434 1469 1532 1699 1832 1907 2012 2086 2205 2218 2268 2316 2380 2400 2487 2538 2542 2565 2593 2637 2662 2673 2741 2760 3009 3042 3183 
+marks Crucifixion_darkness_and_eclipse.txt 1 2817 
+lord Crucifixion_darkness_and_eclipse.txt 2 2738 3104 
+must Crucifixion_darkness_and_eclipse.txt 2 852 2491 
+summoned Crucifixion_darkness_and_eclipse.txt 1 680 
+gza Crucifixion_darkness_and_eclipse.txt 1 2720 
+outside Crucifixion_darkness_and_eclipse.txt 3 87 769 1010 
+very Crucifixion_darkness_and_eclipse.txt 1 3032 
+rise Crucifixion_darkness_and_eclipse.txt 2 1147 2128 
+eklipontos Crucifixion_darkness_and_eclipse.txt 1 478 
+account Crucifixion_darkness_and_eclipse.txt 9 169 193 548 885 2266 2317 2579 2725 2763 
+burton Crucifixion_darkness_and_eclipse.txt 1 2606 
+africanus Crucifixion_darkness_and_eclipse.txt 1 804 
+kindled Crucifixion_darkness_and_eclipse.txt 1 1955 
+entire Crucifixion_darkness_and_eclipse.txt 1 728 
+dio Crucifixion_darkness_and_eclipse.txt 1 2714 
+clouds Crucifixion_darkness_and_eclipse.txt 1 1032 
+went Crucifixion_darkness_and_eclipse.txt 1 1751 
+accompanying Crucifixion_darkness_and_eclipse.txt 1 619 
+did Crucifixion_darkness_and_eclipse.txt 7 1522 1556 1564 1853 1857 2016 2632 
+notes Crucifixion_darkness_and_eclipse.txt 1 3235 
+eve Crucifixion_darkness_and_eclipse.txt 1 199 
+this Crucifixion_darkness_and_eclipse.txt 21 53 152 489 632 764 810 987 1022 1124 1191 1205 1432 1464 2211 2245 2346 2559 2803 2866 3126 3187 
+christs Crucifixion_darkness_and_eclipse.txt 1 2109 
+31.1 Crucifixion_darkness_and_eclipse.txt 1 2336 
+theological Crucifixion_darkness_and_eclipse.txt 2 2832 2940 
+quaking Crucifixion_darkness_and_eclipse.txt 2 1654 1785 
+noted Crucifixion_darkness_and_eclipse.txt 2 147 3076 
+whirlwind Crucifixion_darkness_and_eclipse.txt 1 1747 
+concluded Crucifixion_darkness_and_eclipse.txt 1 2906 
+deformed Crucifixion_darkness_and_eclipse.txt 1 1772 
+says Crucifixion_darkness_and_eclipse.txt 2 203 3102 
+prediction Crucifixion_darkness_and_eclipse.txt 1 3082 
+sign Crucifixion_darkness_and_eclipse.txt 7 136 1079 1081 2175 2693 2929 2971 
+second Crucifixion_darkness_and_eclipse.txt 1 603 
+invention Crucifixion_darkness_and_eclipse.txt 1 117 
+datable Crucifixion_darkness_and_eclipse.txt 1 2766 
+pass Crucifixion_darkness_and_eclipse.txt 5 1426 1470 1833 1908 2013 
+notwithstanding Crucifixion_darkness_and_eclipse.txt 1 2751 
+fabrication Crucifixion_darkness_and_eclipse.txt 1 2612 
+tempest Crucifixion_darkness_and_eclipse.txt 4 1373 1513 1640 1846 
+heliopolis Crucifixion_darkness_and_eclipse.txt 1 750 
+canonical Crucifixion_darkness_and_eclipse.txt 2 32 608 
+even Crucifixion_darkness_and_eclipse.txt 2 526 1126 
+what Crucifixion_darkness_and_eclipse.txt 3 506 672 2598 
+adds Crucifixion_darkness_and_eclipse.txt 1 242 
+darkness Crucifixion_darkness_and_eclipse.txt 41 1 6 24 162 178 214 288 399 406 563 595 635 705 765 811 846 866 923 1381 1897 1913 1935 1945 2000 2055 2117 2249 2257 2322 2429 2517 2657 2679 2724 2839 2950 3079 3136 3164 3198 3209 
+deliberate Crucifixion_darkness_and_eclipse.txt 1 2842 
+sun Crucifixion_darkness_and_eclipse.txt 12 393 426 468 485 1049 1095 1986 2770 2797 2857 3033 3110 
+near Crucifixion_darkness_and_eclipse.txt 1 2303 
+version Crucifixion_darkness_and_eclipse.txt 3 373 491 633 
+above Crucifixion_darkness_and_eclipse.txt 2 1196 1254 
+scientists Crucifixion_darkness_and_eclipse.txt 1 2753 
+new Crucifixion_darkness_and_eclipse.txt 4 69 89 772 2159 
+ever Crucifixion_darkness_and_eclipse.txt 1 1232 
+can Crucifixion_darkness_and_eclipse.txt 4 226 2448 2861 3137 
+full Crucifixion_darkness_and_eclipse.txt 2 722 2168 
+christian Crucifixion_darkness_and_eclipse.txt 5 50 524 800 872 913 
+lightnings Crucifixion_darkness_and_eclipse.txt 7 1168 1351 1540 1649 1782 1840 2115 
+here Crucifixion_darkness_and_eclipse.txt 1 2824 
+hours Crucifixion_darkness_and_eclipse.txt 5 1174 1357 1865 2320 2475 
+galilee Crucifixion_darkness_and_eclipse.txt 1 2365 
+operating Crucifixion_darkness_and_eclipse.txt 2 2222 2823 
+sink Crucifixion_darkness_and_eclipse.txt 1 1565 
+others Crucifixion_darkness_and_eclipse.txt 1 2965 
+tralles Crucifixion_darkness_and_eclipse.txt 1 944 
+aftermath Crucifixion_darkness_and_eclipse.txt 1 2526 
+november Crucifixion_darkness_and_eclipse.txt 2 2355 2405 
+earthquake Crucifixion_darkness_and_eclipse.txt 3 308 924 3090 
+interpret Crucifixion_darkness_and_eclipse.txt 1 2761 
+dry Crucifixion_darkness_and_eclipse.txt 1 1961 
+great Crucifixion_darkness_and_eclipse.txt 17 909 1264 1296 1491 1510 1599 1605 1619 1653 1679 1727 1880 1995 2033 2045 2058 2921 
+bible Crucifixion_darkness_and_eclipse.txt 1 2240 
+thirty Crucifixion_darkness_and_eclipse.txt 1 1473 
+amos Crucifixion_darkness_and_eclipse.txt 1 3087 
+study Crucifixion_darkness_and_eclipse.txt 1 2239 
+changed Crucifixion_darkness_and_eclipse.txt 2 1636 3178 
+cassius Crucifixion_darkness_and_eclipse.txt 1 2715 
+suggestion Crucifixion_darkness_and_eclipse.txt 1 2835 
+mentions Crucifixion_darkness_and_eclipse.txt 2 374 2855 
+proof Crucifixion_darkness_and_eclipse.txt 1 930 
+recounting Crucifixion_darkness_and_eclipse.txt 1 921 
+plays Crucifixion_darkness_and_eclipse.txt 1 2805 
+divide Crucifixion_darkness_and_eclipse.txt 1 1533 
+egypt Crucifixion_darkness_and_eclipse.txt 1 3160 
+merely Crucifixion_darkness_and_eclipse.txt 1 1015 
+explained Crucifixion_darkness_and_eclipse.txt 2 445 2514 
+theologically Crucifixion_darkness_and_eclipse.txt 1 2603 
+visible Crucifixion_darkness_and_eclipse.txt 3 2342 2370 2472 
+drowned Crucifixion_darkness_and_eclipse.txt 1 1577 
+total Crucifixion_darkness_and_eclipse.txt 3 2329 2340 2386 
+cloud Crucifixion_darkness_and_eclipse.txt 2 2232 2523 
+opponents Crucifixion_darkness_and_eclipse.txt 1 536 
+end-times Crucifixion_darkness_and_eclipse.txt 1 3215 
+from Crucifixion_darkness_and_eclipse.txt 18 4 67 163 229 259 285 601 691 749 797 1127 1149 2129 2540 2788 2893 3027 3059 
+vivid Crucifixion_darkness_and_eclipse.txt 1 630 
+would Crucifixion_darkness_and_eclipse.txt 9 1006 2112 2127 2311 2367 2397 2468 2683 2772 
+oclock Crucifixion_darkness_and_eclipse.txt 1 237 
+revelation Crucifixion_darkness_and_eclipse.txt 2 2065 2071 
+humphreys Crucifixion_darkness_and_eclipse.txt 2 2421 2476 
+two Crucifixion_darkness_and_eclipse.txt 2 258 438 
+hoursand Crucifixion_darkness_and_eclipse.txt 1 1892 
+few Crucifixion_darkness_and_eclipse.txt 1 65 
+noting Crucifixion_darkness_and_eclipse.txt 1 93 
+archives Crucifixion_darkness_and_eclipse.txt 1 859 
+weeping Crucifixion_darkness_and_eclipse.txt 1 2038 
+taken Crucifixion_darkness_and_eclipse.txt 2 2441 2639 
+tribulation Crucifixion_darkness_and_eclipse.txt 1 2854 
+extra-biblical Crucifixion_darkness_and_eclipse.txt 1 1050 
+until Crucifixion_darkness_and_eclipse.txt 4 235 296 414 860 
+indefensible Crucifixion_darkness_and_eclipse.txt 1 2510 
+more Crucifixion_darkness_and_eclipse.txt 5 622 629 1211 1618 3184 
+biblical Crucifixion_darkness_and_eclipse.txt 6 159 168 173 884 2286 2904 
+started Crucifixion_darkness_and_eclipse.txt 1 707 
+becomes Crucifixion_darkness_and_eclipse.txt 1 38 
+ceasefor Crucifixion_darkness_and_eclipse.txt 1 1854 
+occurred Crucifixion_darkness_and_eclipse.txt 1 2300 
+reign Crucifixion_darkness_and_eclipse.txt 2 960 3093 
+particular Crucifixion_darkness_and_eclipse.txt 1 3071 
+known Crucifixion_darkness_and_eclipse.txt 4 819 1500 1546 2139 
+90 Crucifixion_darkness_and_eclipse.txt 2 273 357 
+prophecy Crucifixion_darkness_and_eclipse.txt 4 1465 3131 3206 3216 
+tearing Crucifixion_darkness_and_eclipse.txt 3 376 565 2879 
+had Crucifixion_darkness_and_eclipse.txt 13 344 531 673 706 906 934 1498 1544 1697 1927 2061 2399 2440 
+me Crucifixion_darkness_and_eclipse.txt 4 1339 1344 1362 1401 
+none Crucifixion_darkness_and_eclipse.txt 1 366 
+enlightenment Crucifixion_darkness_and_eclipse.txt 1 862 
+hour Crucifixion_darkness_and_eclipse.txt 3 234 240 711 
+shame Crucifixion_darkness_and_eclipse.txt 2 2895 2997 
+julius Crucifixion_darkness_and_eclipse.txt 2 803 3233 
+originally Crucifixion_darkness_and_eclipse.txt 2 444 2089 
+work Crucifixion_darkness_and_eclipse.txt 2 782 2546 
+eclipse Crucifixion_darkness_and_eclipse.txt 22 8 450 488 517 688 748 815 947 1017 2148 2196 2261 2274 2293 2296 2331 2341 2387 2438 2467 2490 2767 
+nine Crucifixion_darkness_and_eclipse.txt 1 210 
+tiberius Crucifixion_darkness_and_eclipse.txt 2 702 962 
+believed Crucifixion_darkness_and_eclipse.txt 2 58 876 
+sixth-century Crucifixion_darkness_and_eclipse.txt 1 734 
+example Crucifixion_darkness_and_eclipse.txt 1 881 
+shook Crucifixion_darkness_and_eclipse.txt 1 326 
+claim Crucifixion_darkness_and_eclipse.txt 1 2504 
+eschatological Crucifixion_darkness_and_eclipse.txt 1 2731 
+corrupted Crucifixion_darkness_and_eclipse.txt 1 534 
+give Crucifixion_darkness_and_eclipse.txt 1 1102 
+mid-day Crucifixion_darkness_and_eclipse.txt 1 3208 
+suggestions Crucifixion_darkness_and_eclipse.txt 1 1012 
+moon Crucifixion_darkness_and_eclipse.txt 6 723 1110 1989 2160 2169 2799 
+terrible Crucifixion_darkness_and_eclipse.txt 5 1512 1517 1607 1621 1882 
+states Crucifixion_darkness_and_eclipse.txt 1 2244 
+sphere Crucifixion_darkness_and_eclipse.txt 1 2191 
+critic Crucifixion_darkness_and_eclipse.txt 1 894 
+performed Crucifixion_darkness_and_eclipse.txt 1 907 
+sense Crucifixion_darkness_and_eclipse.txt 1 123 
+phrase Crucifixion_darkness_and_eclipse.txt 1 463 
+darkening Crucifixion_darkness_and_eclipse.txt 1 2873 
+david Crucifixion_darkness_and_eclipse.txt 1 2506 
+11:05 Crucifixion_darkness_and_eclipse.txt 1 2359 
+occur Crucifixion_darkness_and_eclipse.txt 1 2539 
+end Crucifixion_darkness_and_eclipse.txt 1 3143 
+inhabitants Crucifixion_darkness_and_eclipse.txt 3 1574 1704 1924 
+foul Crucifixion_darkness_and_eclipse.txt 1 3046 
+acts Crucifixion_darkness_and_eclipse.txt 1 3023 
+damage Crucifixion_darkness_and_eclipse.txt 1 1723 
+dismissed Crucifixion_darkness_and_eclipse.txt 1 2279 
+how Crucifixion_darkness_and_eclipse.txt 1 661 
+writers Crucifixion_darkness_and_eclipse.txt 8 51 579 2208 2278 2512 2591 2710 3049 
+fourth Crucifixion_darkness_and_eclipse.txt 4 655 693 1475 1483 
+significance Crucifixion_darkness_and_eclipse.txt 1 2922 
+dismisses Crucifixion_darkness_and_eclipse.txt 1 809 
+ordinary Crucifixion_darkness_and_eclipse.txt 1 686 
+if Crucifixion_darkness_and_eclipse.txt 2 1528 3037 
+suffer Crucifixion_darkness_and_eclipse.txt 2 1092 1133 
+criminal Crucifixion_darkness_and_eclipse.txt 1 2916 
+buildings Crucifixion_darkness_and_eclipse.txt 1 1695 
+de Crucifixion_darkness_and_eclipse.txt 1 2185 
+moronihah Crucifixion_darkness_and_eclipse.txt 1 1588 
+description Crucifixion_darkness_and_eclipse.txt 5 940 2636 2699 3012 3196 
+may Crucifixion_darkness_and_eclipse.txt 3 2543 2884 3067 
+broad Crucifixion_darkness_and_eclipse.txt 1 3120 
+after Crucifixion_darkness_and_eclipse.txt 3 205 244 1233 
+different Crucifixion_darkness_and_eclipse.txt 1 977 
+wrong Crucifixion_darkness_and_eclipse.txt 1 2777 
+blood Crucifixion_darkness_and_eclipse.txt 1 725 
+records Crucifixion_darkness_and_eclipse.txt 1 1460 
+between Crucifixion_darkness_and_eclipse.txt 1 3077 
+such Crucifixion_darkness_and_eclipse.txt 5 1029 1493 1541 2711 2870 
+pilate Crucifixion_darkness_and_eclipse.txt 2 662 700 
+man Crucifixion_darkness_and_eclipse.txt 2 1753 2919 
+a Crucifixion_darkness_and_eclipse.txt 67 55 115 122 135 278 363 581 669 731 746 778 781 813 879 902 939 976 1080 1276 1490 1509 1598 1604 1617 2079 2082 2146 2158 2167 2173 2178 2213 2224 2247 2259 2294 2328 2383 2411 2435 2488 2497 2503 2528 2532 2544 2561 2570 2585 2602 2611 2667 2691 2694 2745 2765 2841 2852 2886 2914 2918 2928 2952 2970 3010 3130 3205 
+refuse Crucifixion_darkness_and_eclipse.txt 1 1100 
+imagery Crucifixion_darkness_and_eclipse.txt 1 2732 
+natural Crucifixion_darkness_and_eclipse.txt 3 2199 2225 2250 
+read Crucifixion_darkness_and_eclipse.txt 1 3128 
+light Crucifixion_darkness_and_eclipse.txt 8 422 481 1104 1119 1941 1970 1978 2028 
+bloch Crucifixion_darkness_and_eclipse.txt 1 16 
+greek Crucifixion_darkness_and_eclipse.txt 2 224 462 
+darkened Crucifixion_darkness_and_eclipse.txt 4 21 470 1098 2859 
+so Crucifixion_darkness_and_eclipse.txt 2 1963 1994 
+vapor Crucifixion_darkness_and_eclipse.txt 1 1933 
+order Crucifixion_darkness_and_eclipse.txt 1 2661 
+typical Crucifixion_darkness_and_eclipse.txt 2 2562 2695 
+henige Crucifixion_darkness_and_eclipse.txt 1 2507 
+over Crucifixion_darkness_and_eclipse.txt 4 216 290 408 2680 
+raised Crucifixion_darkness_and_eclipse.txt 1 348 
+interpreted Crucifixion_darkness_and_eclipse.txt 1 2948 
+jews Crucifixion_darkness_and_eclipse.txt 1 3019 
+held Crucifixion_darkness_and_eclipse.txt 1 855 
+episodes Crucifixion_darkness_and_eclipse.txt 1 66 
+including Crucifixion_darkness_and_eclipse.txt 1 306 
+shake Crucifixion_darkness_and_eclipse.txt 2 1179 1523 
+argued Crucifixion_darkness_and_eclipse.txt 1 2426 
+still Crucifixion_darkness_and_eclipse.txt 1 853 
+its Crucifixion_darkness_and_eclipse.txt 1 192 
+pseudo-dionysius Crucifixion_darkness_and_eclipse.txt 1 737 
+before Crucifixion_darkness_and_eclipse.txt 1 382 
+24 Crucifixion_darkness_and_eclipse.txt 2 2354 2406 
+till Crucifixion_darkness_and_eclipse.txt 1 1693 
+torn Crucifixion_darkness_and_eclipse.txt 2 256 436 
+deeds Crucifixion_darkness_and_eclipse.txt 1 910 
+29 Crucifixion_darkness_and_eclipse.txt 3 966 2356 2407 
+feel Crucifixion_darkness_and_eclipse.txt 1 1931 
+origen Crucifixion_darkness_and_eclipse.txt 3 915 974 1018 
+minute Crucifixion_darkness_and_eclipse.txt 1 2374 
+powers Crucifixion_darkness_and_eclipse.txt 1 2833 
+covered Crucifixion_darkness_and_eclipse.txt 2 712 3162 
+scribes Crucifixion_darkness_and_eclipse.txt 1 503 
+factual Crucifixion_darkness_and_eclipse.txt 1 2655 
+might Crucifixion_darkness_and_eclipse.txt 1 1415 
+easier Crucifixion_darkness_and_eclipse.txt 1 543 
+happened Crucifixion_darkness_and_eclipse.txt 2 674 935 
+then Crucifixion_darkness_and_eclipse.txt 2 1893 2395 
+them Crucifixion_darkness_and_eclipse.txt 2 1733 2064 
+evening Crucifixion_darkness_and_eclipse.txt 1 720 
+greater Crucifixion_darkness_and_eclipse.txt 2 1406 1876 
+worthies Crucifixion_darkness_and_eclipse.txt 1 2675 
+ye Crucifixion_darkness_and_eclipse.txt 1 1202 
+knoweth Crucifixion_darkness_and_eclipse.txt 1 1754 
+lukes Crucifixion_darkness_and_eclipse.txt 1 442 
+they Crucifixion_darkness_and_eclipse.txt 13 507 513 875 1224 1414 1750 1756 1759 1797 1810 1856 2599 2771 
+half Crucifixion_darkness_and_eclipse.txt 1 2410 
+not Crucifixion_darkness_and_eclipse.txt 12 818 1928 1967 1976 2150 2198 2289 2298 2469 2633 2913 2927 
+now Crucifixion_darkness_and_eclipse.txt 2 402 1286 
+day Crucifixion_darkness_and_eclipse.txt 5 1088 1484 2445 2735 3101 
+nor Crucifixion_darkness_and_eclipse.txt 3 1982 1987 1990 
+gloom Crucifixion_darkness_and_eclipse.txt 1 2556 
+inversion Crucifixion_darkness_and_eclipse.txt 1 2843 
+edit Crucifixion_darkness_and_eclipse.txt 14 170 577 580 759 1052 1057 2069 2133 2135 2252 2569 2780 3236 3238 
+level Crucifixion_darkness_and_eclipse.txt 1 1667 
+whither Crucifixion_darkness_and_eclipse.txt 1 1749 
+rocks Crucifixion_darkness_and_eclipse.txt 3 329 1184 1792 
+rhetorical Crucifixion_darkness_and_eclipse.txt 1 2830 
+found Crucifixion_darkness_and_eclipse.txt 5 81 180 768 1235 1812 
+beneath Crucifixion_darkness_and_eclipse.txt 2 1200 1258 
+mean Crucifixion_darkness_and_eclipse.txt 1 227 
+heavy Crucifixion_darkness_and_eclipse.txt 3 1031 2231 2522 
+caird Crucifixion_darkness_and_eclipse.txt 1 2624 
+mental Crucifixion_darkness_and_eclipse.txt 1 3001 
+related Crucifixion_darkness_and_eclipse.txt 1 2564 
+bradley Crucifixion_darkness_and_eclipse.txt 1 2456 
+roads Crucifixion_darkness_and_eclipse.txt 1 1668 
+used Crucifixion_darkness_and_eclipse.txt 1 870 
+year Crucifixion_darkness_and_eclipse.txt 7 189 270 356 1476 2352 2412 2992 
+whirlwinds Crucifixion_darkness_and_eclipse.txt 1 1643 
+scribe Crucifixion_darkness_and_eclipse.txt 1 2498 
+event Crucifixion_darkness_and_eclipse.txt 7 447 2181 2215 2271 2605 2944 3008 
+85 Crucifixion_darkness_and_eclipse.txt 1 271 
+opened Crucifixion_darkness_and_eclipse.txt 2 336 1315 
+highways Crucifixion_darkness_and_eclipse.txt 2 1299 1661 
+space Crucifixion_darkness_and_eclipse.txt 7 1137 1171 1354 1392 1862 1889 2020 
+pontius Crucifixion_darkness_and_eclipse.txt 1 699 
+since Crucifixion_darkness_and_eclipse.txt 1 512 
+unlawful Crucifixion_darkness_and_eclipse.txt 1 3022 
+looking Crucifixion_darkness_and_eclipse.txt 1 3055 
+laid Crucifixion_darkness_and_eclipse.txt 1 1272 
+motifs Crucifixion_darkness_and_eclipse.txt 1 319 
+narrative Crucifixion_darkness_and_eclipse.txt 3 2813 3152 3203 
+cause Crucifixion_darkness_and_eclipse.txt 2 396 1442 
+correct Crucifixion_darkness_and_eclipse.txt 1 505 
+intended Crucifixion_darkness_and_eclipse.txt 1 2592 
+earlier Crucifixion_darkness_and_eclipse.txt 4 158 490 2849 3057 
+exodus Crucifixion_darkness_and_eclipse.txt 1 3157 
+jeremiah Crucifixion_darkness_and_eclipse.txt 1 3211 
+fitzmyer Crucifixion_darkness_and_eclipse.txt 2 2627 3005 
+story Crucifixion_darkness_and_eclipse.txt 2 842 867 
+mourning Crucifixion_darkness_and_eclipse.txt 2 2034 2955 
+586 Crucifixion_darkness_and_eclipse.txt 1 2793 
+completely Crucifixion_darkness_and_eclipse.txt 1 2236 
+carl Crucifixion_darkness_and_eclipse.txt 1 14 
+matthews Crucifixion_darkness_and_eclipse.txt 1 3176 
+earliest Crucifixion_darkness_and_eclipse.txt 2 473 2782 
+gospel Crucifixion_darkness_and_eclipse.txt 16 183 264 350 443 457 555 597 609 657 2263 2486 2590 2618 2818 3066 3177 
+g Crucifixion_darkness_and_eclipse.txt 2 2424 2622 
+eskotisthe Crucifixion_darkness_and_eclipse.txt 1 464 
+could Crucifixion_darkness_and_eclipse.txt 8 899 1930 1938 1951 1966 2149 2297 2430 
+cosmic Crucifixion_darkness_and_eclipse.txt 1 2692 
+days Crucifixion_darkness_and_eclipse.txt 4 1140 1395 2023 3167 
+times Crucifixion_darkness_and_eclipse.txt 3 104 2144 3144 
+disturbed Crucifixion_darkness_and_eclipse.txt 1 667 
+place Crucifixion_darkness_and_eclipse.txt 4 1592 2152 2165 2442 
+w Crucifixion_darkness_and_eclipse.txt 2 2423 2641 
+testament Crucifixion_darkness_and_eclipse.txt 4 70 90 166 773 
+fallen Crucifixion_darkness_and_eclipse.txt 3 345 1698 1929 
+first Crucifixion_darkness_and_eclipse.txt 1 1479 
+major Crucifixion_darkness_and_eclipse.txt 1 2707 
+manuscript Crucifixion_darkness_and_eclipse.txt 1 2787 
+striking Crucifixion_darkness_and_eclipse.txt 1 2868 
+spoken Crucifixion_darkness_and_eclipse.txt 1 1337 
+apologeticus Crucifixion_darkness_and_eclipse.txt 1 839 
+number Crucifixion_darkness_and_eclipse.txt 1 582 
+thereof Crucifixion_darkness_and_eclipse.txt 5 1575 1696 1705 1724 1925 
+jesus Crucifixion_darkness_and_eclipse.txt 13 46 128 206 248 386 898 1454 2307 2392 2672 2911 2964 3004 
+clear Crucifixion_darkness_and_eclipse.txt 1 2909 
+18341890 Crucifixion_darkness_and_eclipse.txt 1 17 
+done Crucifixion_darkness_and_eclipse.txt 1 1885 
+another Crucifixion_darkness_and_eclipse.txt 3 689 1078 3145 
+impossible Crucifixion_darkness_and_eclipse.txt 2 519 1024 
+thick Crucifixion_darkness_and_eclipse.txt 1 1912 
+george Crucifixion_darkness_and_eclipse.txt 1 794 
+city Crucifixion_darkness_and_eclipse.txt 5 1553 1561 1586 1595 2987 
+given Crucifixion_darkness_and_eclipse.txt 2 552 1038 
+ancient Crucifixion_darkness_and_eclipse.txt 5 47 103 757 2141 2688 
+humiliation Crucifixion_darkness_and_eclipse.txt 1 2897 
+similarly Crucifixion_darkness_and_eclipse.txt 1 2647 
+top Crucifixion_darkness_and_eclipse.txt 1 260 
+historian Crucifixion_darkness_and_eclipse.txt 3 793 801 2505 
+adopted Crucifixion_darkness_and_eclipse.txt 1 3051 
+tou Crucifixion_darkness_and_eclipse.txt 1 476 
+their Crucifixion_darkness_and_eclipse.txt 3 1322 1957 2130 
+attack Crucifixion_darkness_and_eclipse.txt 1 545 
+joseph Crucifixion_darkness_and_eclipse.txt 1 2626 
+too Crucifixion_darkness_and_eclipse.txt 2 2314 3039 
+storm Crucifixion_darkness_and_eclipse.txt 3 1492 1843 2535 
+palestine Crucifixion_darkness_and_eclipse.txt 1 1003 
+virgil Crucifixion_darkness_and_eclipse.txt 1 2716 
+john Crucifixion_darkness_and_eclipse.txt 1 557 
+genesis Crucifixion_darkness_and_eclipse.txt 1 3201 
+stars Crucifixion_darkness_and_eclipse.txt 2 1113 1992 
+that Crucifixion_darkness_and_eclipse.txt 54 118 204 249 441 515 528 807 849 897 931 964 981 998 1021 1087 1089 1130 1144 1156 1345 1363 1374 1380 1402 1413 1417 1437 1520 1589 1758 1809 1834 1872 1909 1922 1964 2014 2024 2104 2122 2145 2427 2439 2444 2465 2480 2536 2577 2629 2652 2837 2910 3100 3172 
+explanation Crucifixion_darkness_and_eclipse.txt 1 2235 
+part Crucifixion_darkness_and_eclipse.txt 3 1212 2727 2808 
+authors Crucifixion_darkness_and_eclipse.txt 1 2946 
+focusing Crucifixion_darkness_and_eclipse.txt 1 2889 
+translation Crucifixion_darkness_and_eclipse.txt 1 2080 
+believe Crucifixion_darkness_and_eclipse.txt 3 1416 2417 3030 
+than Crucifixion_darkness_and_eclipse.txt 5 1408 2177 2414 2452 2748 
+king Crucifixion_darkness_and_eclipse.txt 1 3095 
+television Crucifixion_darkness_and_eclipse.txt 1 2756 
+cracks Crucifixion_darkness_and_eclipse.txt 2 1240 1821 
+unbelief Crucifixion_darkness_and_eclipse.txt 1 1444 
+zarahemla Crucifixion_darkness_and_eclipse.txt 1 1555 
+philo Crucifixion_darkness_and_eclipse.txt 1 2713 
+tree Crucifixion_darkness_and_eclipse.txt 1 2778 
+likely Crucifixion_darkness_and_eclipse.txt 2 493 3146 
+nevertheless Crucifixion_darkness_and_eclipse.txt 1 1877 
+zechariah Crucifixion_darkness_and_eclipse.txt 1 3221 
+fabulous Crucifixion_darkness_and_eclipse.txt 1 623 
+contrary Crucifixion_darkness_and_eclipse.txt 1 2204 
+historical Crucifixion_darkness_and_eclipse.txt 1 2749 
+were Crucifixion_darkness_and_eclipse.txt 29 72 100 316 330 335 347 1537 1576 1662 1669 1683 1687 1691 1706 1711 1716 1730 1735 1739 1742 1760 1793 1798 1811 1884 1996 2002 2046 3040 
+tertullian Crucifixion_darkness_and_eclipse.txt 1 836 
+naturally Crucifixion_darkness_and_eclipse.txt 1 2179 
+treated Crucifixion_darkness_and_eclipse.txt 2 52 2743 
+result Crucifixion_darkness_and_eclipse.txt 1 2495 
+and Crucifixion_darkness_and_eclipse.txt 128 7 48 57 274 309 327 337 358 387 405 429 624 663 675 716 823 847 925 1004 1025 1041 1099 1107 1111 1114 1167 1175 1180 1182 1199 1230 1238 1241 1257 1259 1266 1278 1297 1304 1310 1316 1324 1331 1350 1358 1367 1371 1379 1396 1420 1466 1474 1505 1511 1514 1535 1551 1559 1572 1578 1601 1606 1620 1641 1644 1647 1650 1659 1665 1671 1677 1680 1685 1689 1702 1708 1714 1728 1737 1748 1763 1777 1780 1783 1789 1816 1819 1829 1838 1841 1844 1847 1866 1881 1904 1936 1959 1973 2009 2030 2035 2037 2056 2094 2116 2121 2142 2203 2275 2310 2335 2375 2422 2477 2557 2625 2644 2705 2718 2754 2798 2831 2860 2877 2896 3080 3115 3212 
+sees Crucifixion_darkness_and_eclipse.txt 1 111 
+angel Crucifixion_darkness_and_eclipse.txt 2 1336 1398 
+mountains Crucifixion_darkness_and_eclipse.txt 2 1271 1292 
+modern Crucifixion_darkness_and_eclipse.txt 4 77 91 2207 2574 
+turned Crucifixion_darkness_and_eclipse.txt 1 3034 
+reader Crucifixion_darkness_and_eclipse.txt 1 2891 
+say Crucifixion_darkness_and_eclipse.txt 1 475 
+rent Crucifixion_darkness_and_eclipse.txt 2 1227 1794 
+have Crucifixion_darkness_and_eclipse.txt 25 80 145 460 495 744 766 1007 2087 2299 2312 2368 2381 2398 2401 2470 2492 2513 2684 2947 2966 3050 3068 3073 3190 3225 
+seen Crucifixion_darkness_and_eclipse.txt 5 1979 2029 2863 2967 3139 
+element Crucifixion_darkness_and_eclipse.txt 1 2696 
+saw Crucifixion_darkness_and_eclipse.txt 1 2600 
+any Crucifixion_darkness_and_eclipse.txt 6 831 990 1969 1977 2389 2654 
+contents Crucifixion_darkness_and_eclipse.txt 1 167 
+illuminated Crucifixion_darkness_and_eclipse.txt 1 2786 
+these Crucifixion_darkness_and_eclipse.txt 6 1375 1409 1418 1421 1879 2282 
+built Crucifixion_darkness_and_eclipse.txt 1 588 
+allison Crucifixion_darkness_and_eclipse.txt 1 2646 
+answering Crucifixion_darkness_and_eclipse.txt 1 979 
+davies Crucifixion_darkness_and_eclipse.txt 1 2643 
+alternately Crucifixion_darkness_and_eclipse.txt 1 2847 
+makers Crucifixion_darkness_and_eclipse.txt 1 2758 
+note Crucifixion_darkness_and_eclipse.txt 1 2795 
+majority Crucifixion_darkness_and_eclipse.txt 1 452 
+portents Crucifixion_darkness_and_eclipse.txt 1 627 
+take Crucifixion_darkness_and_eclipse.txt 2 1557 2151 
+which Crucifixion_darkness_and_eclipse.txt 19 35 71 97 151 315 636 1043 1185 1193 1201 1284 1289 1719 2001 2060 3020 3028 3060 3159 
+neither Crucifixion_darkness_and_eclipse.txt 5 1946 1948 1950 1980 1984 
+commentary Crucifixion_darkness_and_eclipse.txt 1 970 
+added Crucifixion_darkness_and_eclipse.txt 1 2659 
+oppressive Crucifixion_darkness_and_eclipse.txt 1 2555 
+shall Crucifixion_darkness_and_eclipse.txt 21 1091 1096 1116 1132 1146 1158 1164 1178 1219 1225 1231 1262 1268 1280 1290 1300 1307 1313 1317 1327 1404 
+coveror Crucifixion_darkness_and_eclipse.txt 1 2233 
+who Crucifixion_darkness_and_eclipse.txt 6 343 805 1734 1741 1926 2209 
+eruption Crucifixion_darkness_and_eclipse.txt 1 2530 
+depths Crucifixion_darkness_and_eclipse.txt 1 1568 
+passover Crucifixion_darkness_and_eclipse.txt 5 201 521 2154 2162 2305 
+caesar Crucifixion_darkness_and_eclipse.txt 1 3234 
+away Crucifixion_darkness_and_eclipse.txt 4 1744 1762 2892 3035 
+70 Crucifixion_darkness_and_eclipse.txt 2 190 2993 
+waddington Crucifixion_darkness_and_eclipse.txt 2 2425 2478 
+mack Crucifixion_darkness_and_eclipse.txt 1 2607 
+christ Crucifixion_darkness_and_eclipse.txt 1 9 
+episode Crucifixion_darkness_and_eclipse.txt 2 27 153 
+considered Crucifixion_darkness_and_eclipse.txt 1 2172 
+professor Crucifixion_darkness_and_eclipse.txt 1 2902 
+later Crucifixion_darkness_and_eclipse.txt 5 502 575 774 2349 2413 
+cover Crucifixion_darkness_and_eclipse.txt 2 1383 2524 
+thunderings Crucifixion_darkness_and_eclipse.txt 5 1166 1349 1646 1779 1837 
+face Crucifixion_darkness_and_eclipse.txt 13 131 1122 1189 1247 1385 1430 1631 1766 1803 1825 1900 1917 2005 
+thallus Crucifixion_darkness_and_eclipse.txt 2 786 821 
+accounted Crucifixion_darkness_and_eclipse.txt 1 2432 
+thunder Crucifixion_darkness_and_eclipse.txt 2 1366 1518 
+redirected Crucifixion_darkness_and_eclipse.txt 1 3 
+nineteenth Crucifixion_darkness_and_eclipse.txt 1 2549 
+left Crucifixion_darkness_and_eclipse.txt 1 1712 
+sequence Crucifixion_darkness_and_eclipse.txt 1 2804 
+judaea Crucifixion_darkness_and_eclipse.txt 1 641 
+came Crucifixion_darkness_and_eclipse.txt 6 289 407 1468 1831 1906 2011 
+wording Crucifixion_darkness_and_eclipse.txt 1 284 
+gospels Crucifixion_darkness_and_eclipse.txt 4 33 2583 2792 2811 
+currently Crucifixion_darkness_and_eclipse.txt 1 2416 
+particularly Crucifixion_darkness_and_eclipse.txt 1 3122 
+phenomenon Crucifixion_darkness_and_eclipse.txt 3 113 2563 2750 
+text Crucifixion_darkness_and_eclipse.txt 6 530 690 735 2084 2502 3181 
+supported Crucifixion_darkness_and_eclipse.txt 1 887 
+contemporary Crucifixion_darkness_and_eclipse.txt 3 83 761 3011 
+brief Crucifixion_darkness_and_eclipse.txt 1 2315 
+discovered Crucifixion_darkness_and_eclipse.txt 1 2095 
+attempts Crucifixion_darkness_and_eclipse.txt 1 119 
+earth Crucifixion_darkness_and_eclipse.txt 18 295 325 413 1177 1192 1198 1251 1256 1389 1526 1580 1658 1701 1770 1788 1807 1852 3118 
+rough Crucifixion_darkness_and_eclipse.txt 1 1676 
+tend Crucifixion_darkness_and_eclipse.txt 1 2216 
+fine Crucifixion_darkness_and_eclipse.txt 1 1958 
+fifth Crucifixion_darkness_and_eclipse.txt 1 732 
+one Crucifixion_darkness_and_eclipse.txt 9 62 499 522 615 1216 1495 2373 2834 2901 
+just Crucifixion_darkness_and_eclipse.txt 1 2372 
+writer Crucifixion_darkness_and_eclipse.txt 1 616 
+saints Crucifixion_darkness_and_eclipse.txt 2 342 1326 
+3 Crucifixion_darkness_and_eclipse.txt 1 236 
+should Crucifixion_darkness_and_eclipse.txt 5 1347 1377 1382 1423 1439 
+failed Crucifixion_darkness_and_eclipse.txt 2 423 482 
+only Crucifixion_darkness_and_eclipse.txt 3 1034 2163 2339 
+wood Crucifixion_darkness_and_eclipse.txt 1 1962 
+believing Crucifixion_darkness_and_eclipse.txt 1 649 
+heinrich Crucifixion_darkness_and_eclipse.txt 1 15 
+rich Crucifixion_darkness_and_eclipse.txt 1 2668 
+postulated Crucifixion_darkness_and_eclipse.txt 1 3228 
+b Crucifixion_darkness_and_eclipse.txt 1 2623 
+local Crucifixion_darkness_and_eclipse.txt 1 1001 
+pointed Crucifixion_darkness_and_eclipse.txt 2 1019 2463 
+darken Crucifixion_darkness_and_eclipse.txt 1 3116 
+helios Crucifixion_darkness_and_eclipse.txt 1 466 
+do Crucifixion_darkness_and_eclipse.txt 1 2288 
+his Crucifixion_darkness_and_eclipse.txt 10 664 838 969 1083 1103 2189 2829 2923 2931 2935 
+heliou Crucifixion_darkness_and_eclipse.txt 1 477 
+luke Crucifixion_darkness_and_eclipse.txt 4 352 459 2265 2485 
+mormon Crucifixion_darkness_and_eclipse.txt 3 1056 1062 1459 
+samuel Crucifixion_darkness_and_eclipse.txt 1 1063 
+volcanic Crucifixion_darkness_and_eclipse.txt 2 2228 2529 
+forty-nine Crucifixion_darkness_and_eclipse.txt 1 2376 
+loath Crucifixion_darkness_and_eclipse.txt 1 3041 
+ones Crucifixion_darkness_and_eclipse.txt 1 2454 
+instance Crucifixion_darkness_and_eclipse.txt 1 2242 
+closely Crucifixion_darkness_and_eclipse.txt 1 3185 
+drawn Crucifixion_darkness_and_eclipse.txt 2 3069 3192 
+report Crucifixion_darkness_and_eclipse.txt 2 670 697 
+during Crucifixion_darkness_and_eclipse.txt 7 42 520 717 958 2153 2166 2473 
+manuscripts Crucifixion_darkness_and_eclipse.txt 2 454 474 
+him Crucifixion_darkness_and_eclipse.txt 1 682 
+regarding Crucifixion_darkness_and_eclipse.txt 1 3207 
+scene Crucifixion_darkness_and_eclipse.txt 1 2867 
+colin Crucifixion_darkness_and_eclipse.txt 1 2420 
+covering Crucifixion_darkness_and_eclipse.txt 1 2118 
+assimilate Crucifixion_darkness_and_eclipse.txt 1 2671 
+yield Crucifixion_darkness_and_eclipse.txt 2 1159 1318 
+morning Crucifixion_darkness_and_eclipse.txt 1 213 
+reformation Crucifixion_darkness_and_eclipse.txt 1 2238 
+common Crucifixion_darkness_and_eclipse.txt 2 318 2571 
+through Crucifixion_darkness_and_eclipse.txt 1 2223 
+crucifixion Crucifixion_darkness_and_eclipse.txt 15 0 5 23 44 177 196 551 594 756 835 845 865 2516 2783 2900 
+told Crucifixion_darkness_and_eclipse.txt 1 840 
+explanations Crucifixion_darkness_and_eclipse.txt 3 1028 2132 2251 
+require Crucifixion_darkness_and_eclipse.txt 1 2157 
+wrote Crucifixion_darkness_and_eclipse.txt 1 2187 
+view Crucifixion_darkness_and_eclipse.txt 1 2572 
+quakings Crucifixion_darkness_and_eclipse.txt 1 1849 
+sunk Crucifixion_darkness_and_eclipse.txt 1 1684 
+reference Crucifixion_darkness_and_eclipse.txt 5 174 779 832 2482 3127 
+signs Crucifixion_darkness_and_eclipse.txt 1 1419 
+we Crucifixion_darkness_and_eclipse.txt 1 3029 
+sacrobosco Crucifixion_darkness_and_eclipse.txt 1 2186 
+maximum Crucifixion_darkness_and_eclipse.txt 1 2324 
+observed Crucifixion_darkness_and_eclipse.txt 1 745 
+see Crucifixion_darkness_and_eclipse.txt 2 1405 2219 
+intertextual Crucifixion_darkness_and_eclipse.txt 1 3053 
+asleep Crucifixion_darkness_and_eclipse.txt 1 346 
+are Crucifixion_darkness_and_eclipse.txt 6 628 666 1186 1194 1207 1285 
+sea Crucifixion_darkness_and_eclipse.txt 2 1571 2363 
+terms Crucifixion_darkness_and_eclipse.txt 2 2283 2519 
+appear Crucifixion_darkness_and_eclipse.txt 1 1328 
+said Crucifixion_darkness_and_eclipse.txt 5 1074 1342 1360 1399 1869 
+probable Crucifixion_darkness_and_eclipse.txt 1 2651 
+library Crucifixion_darkness_and_eclipse.txt 1 2100 
+ways Crucifixion_darkness_and_eclipse.txt 2 149 613 
+subsequent Crucifixion_darkness_and_eclipse.txt 1 719 
+non-christian Crucifixion_darkness_and_eclipse.txt 4 75 889 994 2277 
+opening Crucifixion_darkness_and_eclipse.txt 1 926 
+wikipedia Crucifixion_darkness_and_eclipse.txt 1 2 
+continually Crucifixion_darkness_and_eclipse.txt 1 2043 
+marcan Crucifixion_darkness_and_eclipse.txt 1 3180 
+written Crucifixion_darkness_and_eclipse.txt 4 186 267 353 2090 
+future Crucifixion_darkness_and_eclipse.txt 2 2853 3134 
+supernatural Crucifixion_darkness_and_eclipse.txt 1 2248 
+glimmer Crucifixion_darkness_and_eclipse.txt 1 1983 
+probably Crucifixion_darkness_and_eclipse.txt 2 600 963 
+burned Crucifixion_darkness_and_eclipse.txt 1 1688 
+approach Crucifixion_darkness_and_eclipse.txt 2 978 3054 
+accord Crucifixion_darkness_and_eclipse.txt 1 2290 
+men Crucifixion_darkness_and_eclipse.txt 1 1449 
+recently Crucifixion_darkness_and_eclipse.txt 1 2096 
+parallels Crucifixion_darkness_and_eclipse.txt 1 3072 
+god Crucifixion_darkness_and_eclipse.txt 2 903 3105 
+era Crucifixion_darkness_and_eclipse.txt 2 863 2347 
+importance Crucifixion_darkness_and_eclipse.txt 1 2596 
+spoiled Crucifixion_darkness_and_eclipse.txt 1 1670 
+however Crucifixion_darkness_and_eclipse.txt 3 79 973 2284 
+crucified Crucifixion_darkness_and_eclipse.txt 3 208 2309 2394 
+incident Crucifixion_darkness_and_eclipse.txt 2 933 988 
+historians Crucifixion_darkness_and_eclipse.txt 1 758 
+phlegon Crucifixion_darkness_and_eclipse.txt 1 942 
+portending Crucifixion_darkness_and_eclipse.txt 1 3141 
+cities Crucifixion_darkness_and_eclipse.txt 3 1306 1682 1718 
+pagan Crucifixion_darkness_and_eclipse.txt 1 893 
+tempests Crucifixion_darkness_and_eclipse.txt 2 1265 1776 
+suggested Crucifixion_darkness_and_eclipse.txt 6 527 848 1026 2255 2558 3171 
+both Crucifixion_darkness_and_eclipse.txt 2 1195 1253 
+interpretations Crucifixion_darkness_and_eclipse.txt 1 2779 
+last Crucifixion_darkness_and_eclipse.txt 3 1858 2017 2449 
+asunder Crucifixion_darkness_and_eclipse.txt 1 1534 
+avoid Crucifixion_darkness_and_eclipse.txt 1 2234 
+many Crucifixion_darkness_and_eclipse.txt 20 338 993 1173 1270 1282 1298 1305 1311 1320 1325 1330 1356 1403 1672 1678 1686 1690 1731 2123 3048 
+judgement Crucifixion_darkness_and_eclipse.txt 1 2974 
+readers Crucifixion_darkness_and_eclipse.txt 1 2689 
+magi Crucifixion_darkness_and_eclipse.txt 4 2068 2074 2093 2102 
+against Crucifixion_darkness_and_eclipse.txt 2 918 3024 
+roman Crucifixion_darkness_and_eclipse.txt 2 858 3222 
+became Crucifixion_darkness_and_eclipse.txt 3 1597 1675 1771 
+figures Crucifixion_darkness_and_eclipse.txt 2 110 2708 
+whole Crucifixion_darkness_and_eclipse.txt 11 292 410 639 714 1250 1388 1525 1630 1657 1769 1806 
+synoptic Crucifixion_darkness_and_eclipse.txt 1 2582 
+among Crucifixion_darkness_and_eclipse.txt 2 1445 2039 
+unclear Crucifixion_darkness_and_eclipse.txt 1 826 
+conclude Crucifixion_darkness_and_eclipse.txt 2 2628 2648 
+nicodemus Crucifixion_darkness_and_eclipse.txt 1 659 
+areopagite Crucifixion_darkness_and_eclipse.txt 1 739 
+period Crucifixion_darkness_and_eclipse.txt 1 2953 
+ce Crucifixion_darkness_and_eclipse.txt 4 967 2357 2408 2794 
+height Crucifixion_darkness_and_eclipse.txt 1 1294 
+slain Crucifixion_darkness_and_eclipse.txt 2 1707 1736 
+simply Crucifixion_darkness_and_eclipse.txt 1 2243 
+church Crucifixion_darkness_and_eclipse.txt 1 539 
+kings Crucifixion_darkness_and_eclipse.txt 1 2704 
+khamsin Crucifixion_darkness_and_eclipse.txt 1 2533 
+considering Crucifixion_darkness_and_eclipse.txt 1 2938 
+described Crucifixion_darkness_and_eclipse.txt 2 2551 2821 
+puts Crucifixion_darkness_and_eclipse.txt 1 617 
+basis Crucifixion_darkness_and_eclipse.txt 1 2656 
+come Crucifixion_darkness_and_eclipse.txt 2 1424 2062 
+deaths Crucifixion_darkness_and_eclipse.txt 1 107 
+three Crucifixion_darkness_and_eclipse.txt 10 29 297 415 1139 1394 1864 1891 2022 2319 3166 
+been Crucifixion_darkness_and_eclipse.txt 17 496 532 767 1499 1545 2088 2313 2369 2382 2402 2471 2493 2685 2820 3075 3170 3227 
+mark Crucifixion_darkness_and_eclipse.txt 6 185 276 361 1042 2620 3065 
+twain Crucifixion_darkness_and_eclipse.txt 2 1229 1796 
+describes Crucifixion_darkness_and_eclipse.txt 4 660 2508 2608 2722 
+curtain Crucifixion_darkness_and_eclipse.txt 2 251 431 
+sextus Crucifixion_darkness_and_eclipse.txt 1 802 
+thallos Crucifixion_darkness_and_eclipse.txt 1 808 
+lived Crucifixion_darkness_and_eclipse.txt 1 822 
+uzziah Crucifixion_darkness_and_eclipse.txt 1 3096 
+fire Crucifixion_darkness_and_eclipse.txt 3 1558 1954 1981 
+offered Crucifixion_darkness_and_eclipse.txt 1 975 
+recounts Crucifixion_darkness_and_eclipse.txt 1 3021 
+dramatic Crucifixion_darkness_and_eclipse.txt 1 304 
+obscuring Crucifixion_darkness_and_eclipse.txt 1 390 
+evidence Crucifixion_darkness_and_eclipse.txt 1 851 
+heighten Crucifixion_darkness_and_eclipse.txt 1 2594 
+hidden Crucifixion_darkness_and_eclipse.txt 1 3240 
+symbolising Crucifixion_darkness_and_eclipse.txt 1 2996 
+save Crucifixion_darkness_and_eclipse.txt 1 1755 
+look Crucifixion_darkness_and_eclipse.txt 1 3043 
+syriac Crucifixion_darkness_and_eclipse.txt 2 2083 2790 
+solid Crucifixion_darkness_and_eclipse.txt 2 1208 1217 
+celsus Crucifixion_darkness_and_eclipse.txt 2 895 919 
+expanded Crucifixion_darkness_and_eclipse.txt 1 605 
+eclipsed Crucifixion_darkness_and_eclipse.txt 1 428 
+will Crucifixion_darkness_and_eclipse.txt 1 3107 
+while Crucifixion_darkness_and_eclipse.txt 5 419 1364 2161 2391 2621 
+apocryphal Crucifixion_darkness_and_eclipse.txt 2 578 586 
+match Crucifixion_darkness_and_eclipse.txt 1 3186 
+error Crucifixion_darkness_and_eclipse.txt 1 511 
+eclipses Crucifixion_darkness_and_eclipse.txt 2 2156 2447 
+seams Crucifixion_darkness_and_eclipse.txt 2 1237 1818 
+seven Crucifixion_darkness_and_eclipse.txt 1 2333 
+century Crucifixion_darkness_and_eclipse.txt 5 604 656 694 790 2550 
+almost Crucifixion_darkness_and_eclipse.txt 1 282 
+is Crucifixion_darkness_and_eclipse.txt 20 25 179 492 559 817 825 1215 1295 2332 2576 2584 2650 2740 2836 2840 2908 2912 2925 3149 3161 
+thus Crucifixion_darkness_and_eclipse.txt 2 1333 1764 
+it Crucifixion_darkness_and_eclipse.txt 38 59 86 202 241 400 439 542 618 650 683 816 824 877 999 1013 1214 1467 1521 1529 1830 1867 1905 2010 2015 2137 2170 2220 2280 2366 2552 2609 2649 2739 2907 2968 2981 3038 3168 
+third-century Crucifixion_darkness_and_eclipse.txt 2 799 912 
+itself Crucifixion_darkness_and_eclipse.txt 1 2959 
+in Crucifixion_darkness_and_eclipse.txt 81 28 34 40 96 102 129 150 181 191 211 257 298 320 416 437 487 546 553 585 611 631 730 780 787 837 856 917 952 968 989 1039 1058 1086 1228 1236 1239 1242 1471 1477 1501 1547 1590 1609 1623 1732 1745 1795 1813 1817 1820 1886 2070 2097 2140 2188 2281 2343 2345 2350 2418 2483 2518 2573 2580 2660 2666 2697 2784 2800 2809 2990 3014 3070 3083 3091 3119 3123 3153 3158 3199 3217 
+claimed Crucifixion_darkness_and_eclipse.txt 2 703 896 
+deed Crucifixion_darkness_and_eclipse.txt 1 3047 
+amended Crucifixion_darkness_and_eclipse.txt 1 500 
+confirmed Crucifixion_darkness_and_eclipse.txt 1 73 
+author Crucifixion_darkness_and_eclipse.txt 7 302 741 2615 2631 2815 3062 3174 
+things Crucifixion_darkness_and_eclipse.txt 3 1376 1407 1883 
+make Crucifixion_darkness_and_eclipse.txt 3 541 1044 3108 
+cross Crucifixion_darkness_and_eclipse.txt 2 12 2665 
+matthew Crucifixion_darkness_and_eclipse.txt 4 266 372 972 1040 
+discourse Crucifixion_darkness_and_eclipse.txt 1 2850 
+parts Crucifixion_darkness_and_eclipse.txt 1 954 
+split Crucifixion_darkness_and_eclipse.txt 1 331 
+weakness Crucifixion_darkness_and_eclipse.txt 1 2932 
+naive Crucifixion_darkness_and_eclipse.txt 1 2752 
+wrap Crucifixion_darkness_and_eclipse.txt 1 2663 
+literature Crucifixion_darkness_and_eclipse.txt 2 323 587 
+slightly Crucifixion_darkness_and_eclipse.txt 1 3182 
+schaefer Crucifixion_darkness_and_eclipse.txt 1 2458 
+mountain Crucifixion_darkness_and_eclipse.txt 1 1600 
+upon Crucifixion_darkness_and_eclipse.txt 12 1120 1187 1245 1427 1584 1801 1822 1898 1914 2003 2063 3044 
+hand Crucifixion_darkness_and_eclipse.txt 1 2462 
+arose Crucifixion_darkness_and_eclipse.txt 1 1489 
+never Crucifixion_darkness_and_eclipse.txt 2 1497 1543 
+prophesied Crucifixion_darkness_and_eclipse.txt 2 1066 2103 
+dust Crucifixion_darkness_and_eclipse.txt 2 2229 2534 
+insisted Crucifixion_darkness_and_eclipse.txt 1 997 
+scholars Crucifixion_darkness_and_eclipse.txt 3 78 144 2415 
+destruction Crucifixion_darkness_and_eclipse.txt 4 1608 1622 2059 2984 
+early Crucifixion_darkness_and_eclipse.txt 1 523 
+mention Crucifixion_darkness_and_eclipse.txt 3 561 985 1046 
+i Crucifixion_darkness_and_eclipse.txt 2 1073 3106 
+judah Crucifixion_darkness_and_eclipse.txt 1 3098 
+theology Crucifixion_darkness_and_eclipse.txt 1 2905 
+exceedingly Crucifixion_darkness_and_eclipse.txt 4 1538 1652 1726 1960 
+without Crucifixion_darkness_and_eclipse.txt 1 2653 
+chronicler Crucifixion_darkness_and_eclipse.txt 1 785 
+claims Crucifixion_darkness_and_eclipse.txt 1 742 
+the Crucifixion_darkness_and_eclipse.txt 337 11 19 22 31 36 43 64 68 88 94 106 112 125 130 141 148 164 171 176 182 188 195 198 212 218 222 232 238 245 250 253 263 269 291 299 301 310 313 324 328 332 341 349 355 368 371 375 378 383 389 392 395 398 409 417 420 425 430 433 446 451 456 461 467 472 479 484 497 529 538 547 550 554 564 567 570 573 590 593 596 602 607 625 634 638 654 676 692 695 704 709 713 718 721 727 738 740 752 755 771 784 788 791 798 834 841 844 850 857 861 864 883 892 911 922 932 956 959 992 1036 1048 1053 1059 1064 1094 1109 1112 1121 1128 1136 1142 1150 1154 1161 1170 1176 1183 1188 1197 1210 1246 1249 1255 1335 1353 1365 1368 1372 1384 1387 1391 1397 1411 1429 1435 1446 1451 1456 1461 1472 1478 1482 1486 1503 1524 1549 1552 1560 1567 1570 1573 1579 1585 1591 1594 1610 1624 1629 1633 1639 1642 1645 1648 1651 1656 1660 1666 1694 1700 1703 1709 1722 1746 1765 1768 1775 1778 1781 1784 1787 1791 1802 1805 1824 1827 1836 1839 1842 1845 1848 1851 1861 1873 1888 1899 1902 1916 1919 1923 1932 1944 1985 1988 1991 1997 2004 2007 2019 2041 2047 2050 2054 2057 2067 2073 2092 2098 2101 2106 2119 2125 2182 2190 2193 2195 2237 2256 2262 2270 2285 2304 2323 2338 2351 2362 2428 2460 2466 2481 2484 2494 2501 2515 2525 2548 2578 2581 2589 2595 2614 2617 2630 2635 2664 2676 2681 2698 2701 2723 2729 2734 2737 2762 2769 2776 2781 2789 2796 2801 2810 2814 2826 2838 2845 2856 2872 2875 2878 2881 2890 2894 2899 2939 2943 2949 2957 2961 2976 2983 2986 2991 3000 3007 3018 3025 3031 3045 3061 3064 3078 3081 3084 3092 3103 3109 3117 3133 3135 3142 3150 3154 3173 3179 3195 3200 3218 3230 
+tempted Crucifixion_darkness_and_eclipse.txt 1 2759 
+drawing Crucifixion_darkness_and_eclipse.txt 1 1033 
+bodies Crucifixion_darkness_and_eclipse.txt 1 339 
+scholarship Crucifixion_darkness_and_eclipse.txt 2 92 2575 
+desolate Crucifixion_darkness_and_eclipse.txt 2 1309 1713 
+barking Crucifixion_darkness_and_eclipse.txt 1 2774 
+quoted Crucifixion_darkness_and_eclipse.txt 1 796 
+being Crucifixion_darkness_and_eclipse.txt 2 886 2858 
+gods Crucifixion_darkness_and_eclipse.txt 3 138 2973 3026 
+ninth Crucifixion_darkness_and_eclipse.txt 2 239 789 
+sources Crucifixion_darkness_and_eclipse.txt 4 76 890 995 3224 
+southward Crucifixion_darkness_and_eclipse.txt 1 1612 
+daylight Crucifixion_darkness_and_eclipse.txt 2 2474 3121 
+immediately Crucifixion_darkness_and_eclipse.txt 2 243 381 
+moroni Crucifixion_darkness_and_eclipse.txt 1 1563 
+unto Crucifixion_darkness_and_eclipse.txt 8 1075 1105 1275 1329 1338 1343 1361 1400 
+death Crucifixion_darkness_and_eclipse.txt 12 133 246 384 1084 1093 1134 1455 2110 2702 2924 2962 3231 
+also Crucifixion_darkness_and_eclipse.txt 8 146 317 334 359 1108 1508 3191 3226 
+sky Crucifixion_darkness_and_eclipse.txt 3 37 2802 2876 
+killed Crucifixion_darkness_and_eclipse.txt 1 2403 
+source Crucifixion_darkness_and_eclipse.txt 4 279 364 3148 3188 
+book Crucifixion_darkness_and_eclipse.txt 6 1054 1060 1457 3085 3155 3219 
+deliberately Crucifixion_darkness_and_eclipse.txt 1 533 
+compares Crucifixion_darkness_and_eclipse.txt 1 3006 
+has Crucifixion_darkness_and_eclipse.txt 5 280 365 679 2819 3169 
+earthquakes Crucifixion_darkness_and_eclipse.txt 3 950 2114 2566 
+skies Crucifixion_darkness_and_eclipse.txt 1 20 
+identical Crucifixion_darkness_and_eclipse.txt 1 283 
+march Crucifixion_darkness_and_eclipse.txt 1 2541 
+around Crucifixion_darkness_and_eclipse.txt 6 187 230 268 354 1067 2361 
+fulfillment Crucifixion_darkness_and_eclipse.txt 1 1462 
+showing Crucifixion_darkness_and_eclipse.txt 1 18 
+comparisons Crucifixion_darkness_and_eclipse.txt 1 3193 
+possible Crucifixion_darkness_and_eclipse.txt 1 2325 
+dark Crucifixion_darkness_and_eclipse.txt 1 39 
+suffering Crucifixion_darkness_and_eclipse.txt 1 3002 
+know Crucifixion_darkness_and_eclipse.txt 2 1203 1757 
+world Crucifixion_darkness_and_eclipse.txt 3 223 715 2194 
+you Crucifixion_darkness_and_eclipse.txt 2 1076 1106 
+occurring Crucifixion_darkness_and_eclipse.txt 1 2180 
+like Crucifixion_darkness_and_eclipse.txt 1 1274 
+texts Crucifixion_darkness_and_eclipse.txt 1 3058 
+miracle Crucifixion_darkness_and_eclipse.txt 2 56 2134 
+lightning Crucifixion_darkness_and_eclipse.txt 1 1369 
+rabbula Crucifixion_darkness_and_eclipse.txt 1 2791 
+miraculous Crucifixion_darkness_and_eclipse.txt 3 2174 2202 2214 
+either Crucifixion_darkness_and_eclipse.txt 2 228 2217 
+night Crucifixion_darkness_and_eclipse.txt 2 653 729 
+popular Crucifixion_darkness_and_eclipse.txt 1 2545 
+become Crucifixion_darkness_and_eclipse.txt 3 621 1291 1308 
+wonders Crucifixion_darkness_and_eclipse.txt 1 1422 
+sharp Crucifixion_darkness_and_eclipse.txt 1 1539 
+because Crucifixion_darkness_and_eclipse.txt 7 874 904 1637 1773 1942 2052 2136 
+old Crucifixion_darkness_and_eclipse.txt 1 165 
+often Crucifixion_darkness_and_eclipse.txt 2 869 3074 
+namely Crucifixion_darkness_and_eclipse.txt 1 3229 
+people Crucifixion_darkness_and_eclipse.txt 5 143 643 2042 2051 2978 
+phenomenonsuch Crucifixion_darkness_and_eclipse.txt 1 2226 
+creation Crucifixion_darkness_and_eclipse.txt 3 2568 2587 3202 
+some Crucifixion_darkness_and_eclipse.txt 7 1717 1740 1871 2253 2276 2511 2945 
+dead Crucifixion_darkness_and_eclipse.txt 5 314 574 1151 1323 2126 
+understood Crucifixion_darkness_and_eclipse.txt 1 2686 
+astronomer Crucifixion_darkness_and_eclipse.txt 2 2183 2455 
+convey Crucifixion_darkness_and_eclipse.txt 1 121 
+duration Crucifixion_darkness_and_eclipse.txt 2 2326 2390 
+empire Crucifixion_darkness_and_eclipse.txt 1 957 
+peter Crucifixion_darkness_and_eclipse.txt 1 599 
+brent Crucifixion_darkness_and_eclipse.txt 1 2076 
+candles Crucifixion_darkness_and_eclipse.txt 1 1947 
+for Crucifixion_darkness_and_eclipse.txt 17 726 1135 1169 1340 1352 1390 1443 1627 1859 1993 2018 2241 2318 2371 2378 2433 3165 
+bottom Crucifixion_darkness_and_eclipse.txt 1 262 
+literally Crucifixion_darkness_and_eclipse.txt 1 2640 
+noon Crucifixion_darkness_and_eclipse.txt 4 231 286 404 3114 
+recorded Crucifixion_darkness_and_eclipse.txt 1 3013 
+daytime Crucifixion_darkness_and_eclipse.txt 1 41 
+creative Crucifixion_darkness_and_eclipse.txt 1 612 
+connecting Crucifixion_darkness_and_eclipse.txt 1 2980 
+lunar Crucifixion_darkness_and_eclipse.txt 2 2437 2446 
+provides Crucifixion_darkness_and_eclipse.txt 1 388 
+tends Crucifixion_darkness_and_eclipse.txt 1 2537 
+fragments Crucifixion_darkness_and_eclipse.txt 2 1244 1815 
+commentator Crucifixion_darkness_and_eclipse.txt 2 525 914 
+temple Crucifixion_darkness_and_eclipse.txt 4 254 379 434 2882 
+sunstorms Crucifixion_darkness_and_eclipse.txt 1 2521 
+apocalyptic Crucifixion_darkness_and_eclipse.txt 2 322 626 
+be Crucifixion_darkness_and_eclipse.txt 29 61 652 854 901 1097 1117 1165 1220 1226 1234 1263 1269 1281 1301 1314 1348 1378 1440 1939 1953 1968 2113 2431 2638 2742 2773 2862 2885 3138 
+knew Crucifixion_darkness_and_eclipse.txt 1 514 
+medieval Crucifixion_darkness_and_eclipse.txt 2 49 2143 
+power Crucifixion_darkness_and_eclipse.txt 2 126 2936 
+bc Crucifixion_darkness_and_eclipse.txt 1 1069 
+seconds Crucifixion_darkness_and_eclipse.txt 2 2337 2377 
+sixth Crucifixion_darkness_and_eclipse.txt 2 233 710 
+notable Crucifixion_darkness_and_eclipse.txt 2 109 1681 
+broken Crucifixion_darkness_and_eclipse.txt 6 1221 1243 1302 1663 1799 1814 
+lamps Crucifixion_darkness_and_eclipse.txt 1 648 
+references Crucifixion_darkness_and_eclipse.txt 3 84 762 3237 
+accompanied Crucifixion_darkness_and_eclipse.txt 1 948 
+by Crucifixion_darkness_and_eclipse.txt 22 13 74 501 535 668 736 783 871 888 920 941 949 1870 2075 2091 2434 2613 2687 2709 2956 3163 3210 
+shaken Crucifixion_darkness_and_eclipse.txt 1 1692 
+takes Crucifixion_darkness_and_eclipse.txt 1 2164 
+on Crucifixion_darkness_and_eclipse.txt 16 10 157 197 287 589 606 971 1035 1481 2301 2353 2404 2443 2459 2975 3099 
+about Crucifixion_darkness_and_eclipse.txt 8 403 646 777 1531 1860 1887 2409 2851 
+rare Crucifixion_darkness_and_eclipse.txt 1 880 
+carried Crucifixion_darkness_and_eclipse.txt 3 1582 1743 1761 
+of Crucifixion_darkness_and_eclipse.txt 154 30 45 63 108 124 127 132 137 161 184 194 200 247 252 265 312 340 351 367 370 377 385 391 397 432 453 455 458 537 549 556 562 566 572 583 592 598 640 658 671 698 754 770 843 882 927 943 945 955 961 965 986 991 1047 1055 1061 1082 1123 1138 1172 1190 1213 1248 1321 1355 1386 1393 1431 1448 1453 1458 1463 1485 1554 1562 1569 1587 1593 1632 1638 1655 1767 1774 1786 1804 1826 1850 1863 1890 1901 1918 1934 1943 1999 2006 2021 2049 2053 2066 2072 2081 2108 2124 2192 2264 2321 2327 2364 2388 2496 2520 2527 2547 2588 2597 2616 2619 2678 2700 2703 2728 2733 2736 2768 2816 2828 2844 2874 2880 2888 2898 2903 2920 2930 2934 2942 2954 2963 2972 2985 2988 3003 3017 3063 3086 3088 3094 3097 3132 3156 3175 3197 3220 3232 
+fear Crucifixion_darkness_and_eclipse.txt 1 2998 
+important Crucifixion_darkness_and_eclipse.txt 1 2807 
+afternoon Crucifixion_darkness_and_eclipse.txt 2 300 418 
+lamanite Crucifixion_darkness_and_eclipse.txt 1 1065 
+referred Crucifixion_darkness_and_eclipse.txt 1 937 
+documentary Crucifixion_darkness_and_eclipse.txt 1 2757 
+or Crucifixion_darkness_and_eclipse.txt 16 134 220 272 294 412 424 483 569 733 1209 2230 2302 2385 2531 2994 2999 
+peak Crucifixion_darkness_and_eclipse.txt 1 2827 
+miracles Crucifixion_darkness_and_eclipse.txt 1 620 
+purported Crucifixion_darkness_and_eclipse.txt 2 696 2085 
+significant Crucifixion_darkness_and_eclipse.txt 1 2604 
+unnoticed Crucifixion_darkness_and_eclipse.txt 1 1009 
+into Crucifixion_darkness_and_eclipse.txt 1 1566 
+judeans Crucifixion_darkness_and_eclipse.txt 1 677 
+down Crucifixion_darkness_and_eclipse.txt 1 3112 
+d Crucifixion_darkness_and_eclipse.txt 1 2642 
+valleys Crucifixion_darkness_and_eclipse.txt 1 1288 
+accounts Crucifixion_darkness_and_eclipse.txt 7 99 160 584 591 610 1037 1051 
+speculated Crucifixion_darkness_and_eclipse.txt 2 776 2479 
+jerusalem Crucifixion_darkness_and_eclipse.txt 2 2344 2989 
+apologists Crucifixion_darkness_and_eclipse.txt 1 873 
+johannes Crucifixion_darkness_and_eclipse.txt 1 2184 
+criticisms Crucifixion_darkness_and_eclipse.txt 1 980 
+1983 Crucifixion_darkness_and_eclipse.txt 1 2419 
+yea Crucifixion_darkness_and_eclipse.txt 4 1152 1223 1252 2044 
+assumed Crucifixion_darkness_and_eclipse.txt 1 508 
+there Crucifixion_darkness_and_eclipse.txt 29 558 982 1115 1163 1261 1267 1279 1346 1438 1488 1506 1515 1536 1596 1602 1615 1715 1729 1738 1895 1910 1937 1952 1965 1974 2025 2031 2111 2379 
+appears Crucifixion_darkness_and_eclipse.txt 3 154 440 2267 
+much Crucifixion_darkness_and_eclipse.txt 1 2450 
+remained Crucifixion_darkness_and_eclipse.txt 1 1720 
+low Crucifixion_darkness_and_eclipse.txt 1 1273 
+way Crucifixion_darkness_and_eclipse.txt 2 95 2887 
+valley Crucifixion_darkness_and_eclipse.txt 1 1277 
+was Crucifixion_darkness_and_eclipse.txt 40 207 255 401 427 435 469 486 509 518 684 868 878 983 1000 1014 1023 1507 1516 1530 1581 1603 1616 1635 1725 1868 1875 1896 1911 1975 2026 2032 2138 2171 2197 2246 2258 2308 2393 2560 2658 
+therefore Crucifixion_darkness_and_eclipse.txt 2 1005 2926 
+ghost Crucifixion_darkness_and_eclipse.txt 1 1162 
+himself Crucifixion_darkness_and_eclipse.txt 1 829 
+byzantine Crucifixion_darkness_and_eclipse.txt 1 792 
+jewish Crucifixion_darkness_and_eclipse.txt 4 142 321 2730 2977 
+regard Crucifixion_darkness_and_eclipse.txt 1 2210 
+but Crucifixion_darkness_and_eclipse.txt 7 471 1070 1613 1721 2200 2917 2933 
+humiliated Crucifixion_darkness_and_eclipse.txt 1 2915 
+plague Crucifixion_darkness_and_eclipse.txt 1 3151 
+ho Crucifixion_darkness_and_eclipse.txt 1 465 
+solar Crucifixion_darkness_and_eclipse.txt 10 687 747 814 2147 2155 2260 2295 2330 2453 2489 
+with Crucifixion_darkness_and_eclipse.txt 10 105 140 647 1956 2291 2982 3125 3194 3204 3213 
+raising Crucifixion_darkness_and_eclipse.txt 2 311 571 
+he Crucifixion_darkness_and_eclipse.txt 12 678 828 905 936 996 1090 1131 1145 1157 1341 1359 2396 
+made Crucifixion_darkness_and_eclipse.txt 1 830 
+places Crucifixion_darkness_and_eclipse.txt 3 1283 1674 1710 
+versions Crucifixion_darkness_and_eclipse.txt 1 576 
+whether Crucifixion_darkness_and_eclipse.txt 1 827 
+hardly Crucifixion_darkness_and_eclipse.txt 1 900 
+mists Crucifixion_darkness_and_eclipse.txt 1 1998 
+smooth Crucifixion_darkness_and_eclipse.txt 1 1673 
+up Crucifixion_darkness_and_eclipse.txt 8 1160 1222 1303 1319 1583 1664 1800 2775 
+tell Crucifixion_darkness_and_eclipse.txt 1 681 
+vatican Crucifixion_darkness_and_eclipse.txt 1 2099 
+cosmos Crucifixion_darkness_and_eclipse.txt 1 2958 
+similar Crucifixion_darkness_and_eclipse.txt 1 98 
+called Crucifixion_darkness_and_eclipse.txt 1 1287 
+nature Crucifixion_darkness_and_eclipse.txt 1 2206 
+gone Crucifixion_darkness_and_eclipse.txt 1 1008 
+sometimes Crucifixion_darkness_and_eclipse.txt 1 2979 
+associated Crucifixion_darkness_and_eclipse.txt 1 101 
+displeasure Crucifixion_darkness_and_eclipse.txt 1 139 
+syncellus Crucifixion_darkness_and_eclipse.txt 1 795 
+minutes Crucifixion_darkness_and_eclipse.txt 1 2334 
+describe Crucifixion_darkness_and_eclipse.txt 1 2269 
+am Crucifixion_darkness_and_eclipse.txt 1 2360 
+covers Crucifixion_darkness_and_eclipse.txt 1 637 
+an Crucifixion_darkness_and_eclipse.txt 18 26 281 307 449 510 516 685 946 1016 1494 2273 2292 2554 2785 2806 3052 3089 3214 
+howling Crucifixion_darkness_and_eclipse.txt 1 2036 
+as Crucifixion_darkness_and_eclipse.txt 36 54 114 277 362 394 448 614 812 929 1030 1072 1496 1527 1542 2212 2221 2227 2272 2509 2553 2601 2610 2690 2712 2726 2744 2764 2822 2864 2871 2951 2969 2995 3036 3129 3140 
+over-eager Crucifixion_darkness_and_eclipse.txt 1 2755 
+at Crucifixion_darkness_and_eclipse.txt 13 209 708 751 1153 1204 1450 1971 2105 2358 2825 2960 3056 3113 
+northward Crucifixion_darkness_and_eclipse.txt 1 1626 
+commentators Crucifixion_darkness_and_eclipse.txt 3 775 2254 3189 
+tremble Crucifixion_darkness_and_eclipse.txt 1 1181 
+groanings Crucifixion_darkness_and_eclipse.txt 1 2048 
+again Crucifixion_darkness_and_eclipse.txt 1 1148 
+no Crucifixion_darkness_and_eclipse.txt 11 82 560 760 908 984 1045 1118 1441 1752 1940 2027 
+image Crucifixion_darkness_and_eclipse.txt 1 2677 
+when Crucifixion_darkness_and_eclipse.txt 5 820 891 1835 2306 2937 
+vermes Crucifixion_darkness_and_eclipse.txt 1 2721 
+other Crucifixion_darkness_and_eclipse.txt 5 953 1027 2461 2674 2706 
+5 Crucifixion_darkness_and_eclipse.txt 1 1068 
+details Crucifixion_darkness_and_eclipse.txt 4 305 369 2287 2869 
+behold Crucifixion_darkness_and_eclipse.txt 9 1071 1085 1260 1332 1614 1628 1790 1855 1894 
+out Crucifixion_darkness_and_eclipse.txt 2 1020 2464 
+concerning Crucifixion_darkness_and_eclipse.txt 1 1077 
+dale Crucifixion_darkness_and_eclipse.txt 1 2645 
+draw Crucifixion_darkness_and_eclipse.txt 1 156 
+intend Crucifixion_darkness_and_eclipse.txt 1 2634 
+wrongly Crucifixion_darkness_and_eclipse.txt 1 2499 
+symbol Crucifixion_darkness_and_eclipse.txt 1 2669 
+time Crucifixion_darkness_and_eclipse.txt 8 753 1129 1143 1155 1206 1452 1874 2107 
+categories Crucifixion_darkness_and_eclipse.txt 2 3239 3241 
+antiquities Crucifixion_darkness_and_eclipse.txt 1 3016 
+includes Crucifixion_darkness_and_eclipse.txt 1 303 
+insomuch Crucifixion_darkness_and_eclipse.txt 3 1519 1808 1921 
+meaning Crucifixion_darkness_and_eclipse.txt 1 2941 
+fell Crucifixion_darkness_and_eclipse.txt 2 215 2348 
+intent Crucifixion_darkness_and_eclipse.txt 2 1412 1436 
+and/or Crucifixion_darkness_and_eclipse.txt 1 2670 
+torches Crucifixion_darkness_and_eclipse.txt 1 1949 
+veil Crucifixion_darkness_and_eclipse.txt 3 380 568 2883 
+resembled Crucifixion_darkness_and_eclipse.txt 1 724 
+land Crucifixion_darkness_and_eclipse.txt 16 219 293 411 1125 1433 1504 1550 1611 1625 1634 1828 1903 1920 2008 2120 2682 
+e Crucifixion_darkness_and_eclipse.txt 1 2457 
+longer Crucifixion_darkness_and_eclipse.txt 1 2451 
+using Crucifixion_darkness_and_eclipse.txt 2 275 360 
+wife Crucifixion_darkness_and_eclipse.txt 1 665 
+jesuss Crucifixion_darkness_and_eclipse.txt 1 2848 
+rather Crucifixion_darkness_and_eclipse.txt 3 2176 2201 2747 
+lasted Crucifixion_darkness_and_eclipse.txt 1 1370 
+responded Crucifixion_darkness_and_eclipse.txt 1 916 
+mass Crucifixion_darkness_and_eclipse.txt 1 1218 
+remarked Crucifixion_darkness_and_eclipse.txt 1 806 
+foreshadowing Crucifixion_darkness_and_eclipse.txt 1 2865 
+original Crucifixion_darkness_and_eclipse.txt 1 498 
+transfiguration Crucifixion_darkness_and_eclipse.txt 1 2846 

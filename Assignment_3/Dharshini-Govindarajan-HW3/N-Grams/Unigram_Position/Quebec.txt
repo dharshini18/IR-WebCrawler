@@ -1,0 +1,3475 @@
+limited Quebec.txt 2 1322 2956 
+third-longest Quebec.txt 1 7153 
+todays Quebec.txt 2 10251 12957 
+comparatively Quebec.txt 1 324 
+yellow Quebec.txt 1 3357 
+apftq Quebec.txt 1 10885 
+four Quebec.txt 4 739 1983 2193 2290 
+ts Quebec.txt 1 12284 
+consists Quebec.txt 3 1752 2539 9798 
+oldest Quebec.txt 1 12430 
+aggression Quebec.txt 1 4248 
+consider Quebec.txt 1 7789 
+whose Quebec.txt 5 2834 2953 7595 7746 10789 
+votes Quebec.txt 1 13027 
+feeding Quebec.txt 1 1166 
+nelligan Quebec.txt 1 11285 
+chasse-galerie Quebec.txt 1 11212 
+paris Quebec.txt 4 581 4385 11454 11664 
+1960spresent Quebec.txt 1 10670 
+fencing Quebec.txt 1 12736 
+lors Quebec.txt 1 7553 
+cycling Quebec.txt 1 12742 
+painters Quebec.txt 1 11686 
+edward Quebec.txt 4 128 5380 5407 5525 
+qubcois Quebec.txt 12 348 386 5932 5939 5950 6091 6374 6460 6621 9778 11001 12048 
+under Quebec.txt 13 646 4069 4088 5033 5339 5737 5778 5787 5995 6378 6560 11776 12816 
+lord Quebec.txt 2 5258 5332 
+cheese-making Quebec.txt 1 12562 
+lionel Quebec.txt 1 11286 
+merchant Quebec.txt 1 12919 
+plants Quebec.txt 1 3244 
+risk Quebec.txt 1 8327 
+co-operation Quebec.txt 1 8500 
+geology Quebec.txt 1 2894 
+saskatchewan Quebec.txt 2 3911 5534 
+beauchemin Quebec.txt 1 11443 
+rise Quebec.txt 1 1407 
+hroux-devtek Quebec.txt 1 9168 
+landrace Quebec.txt 1 2846 
+jack Quebec.txt 2 3338 12989 
+softened Quebec.txt 1 6047 
+jacob Quebec.txt 1 11441 
+elevations Quebec.txt 1 2144 
+blanche Quebec.txt 1 12273 
+differentiated Quebec.txt 1 2211 
+dominate Quebec.txt 1 303 
+prize Quebec.txt 1 9162 
+slowed Quebec.txt 1 8836 
+largemouth Quebec.txt 1 2620 
+supports Quebec.txt 1 10323 
+companies Quebec.txt 13 5777 6862 8547 8684 8704 8732 8751 8780 8980 9675 9905 11802 12536 
+commons Quebec.txt 2 377 6603 
+basse-cte-nord Quebec.txt 1 10000 
+unrelated Quebec.txt 1 4629 
+chaudire Quebec.txt 2 1242 5668 
+108,425 Quebec.txt 1 7249 
+godboutmatane Quebec.txt 1 9721 
+charter Quebec.txt 2 4566 5957 
+bill Quebec.txt 1 5965 
+force Quebec.txt 1 5242 
+leaders Quebec.txt 5 5324 9333 9358 9539 9635 
+then-lucrative Quebec.txt 1 4397 
+direct Quebec.txt 2 6845 9575 
+beverages Quebec.txt 1 8898 
+budget Quebec.txt 1 8633 
+surrounding Quebec.txt 2 11005 11072 
+second Quebec.txt 5 445 6392 6467 8279 8800 
+street Quebec.txt 2 11719 11808 
+145,000 Quebec.txt 2 4950 8622 
+sustaining Quebec.txt 1 1090 
+estimated Quebec.txt 2 3310 7003 
+even Quebec.txt 2 319 7635 
+established Quebec.txt 8 851 2376 2905 6334 8534 8705 9480 12568 
+organisms Quebec.txt 1 3110 
+orchestre Quebec.txt 2 10766 10772 
+contributed Quebec.txt 4 434 9517 9547 12456 
+lights Quebec.txt 1 2282 
+abides Quebec.txt 1 10468 
+gabrielle Quebec.txt 1 11288 
+glaciers Quebec.txt 1 1584 
+endorse Quebec.txt 1 6567 
+new Quebec.txt 35 106 114 118 466 550 1523 3603 3607 3684 3737 3931 3942 4061 4171 4180 4316 4411 5341 5375 5396 5487 5498 6243 6421 7132 7418 8350 8645 10584 10709 11065 11087 11505 11874 12348 
+on-horseback Quebec.txt 1 11756 
+officially Quebec.txt 2 862 8021 
+discrimination Quebec.txt 1 5213 
+told Quebec.txt 1 11197 
+philippe Quebec.txt 1 11276 
+heri Quebec.txt 1 12023 
+70w Quebec.txt 1 13205 
+grenier Quebec.txt 1 11380 
+jean-paul Quebec.txt 1 11591 
+men Quebec.txt 4 4119 6784 7143 10426 
+drew Quebec.txt 1 5064 
+delegates Quebec.txt 1 5366 
+met Quebec.txt 2 3694 5384 
+china Quebec.txt 2 3653 10105 
+dralion Quebec.txt 1 11723 
+represented Quebec.txt 1 7836 
+100 Quebec.txt 2 1420 7223 
+101 Quebec.txt 1 5966 
+property Quebec.txt 1 12128 
+nincheri Quebec.txt 1 11524 
+k Quebec.txt 2 33 36 
+controversy Quebec.txt 1 8073 
+museums Quebec.txt 1 12172 
+credit Quebec.txt 2 8305 8326 
+military Quebec.txt 1 3837 
+centurys Quebec.txt 1 2409 
+changes Quebec.txt 2 456 8386 
+millimetres Quebec.txt 1 2056 
+golden Quebec.txt 1 2722 
+invasion Quebec.txt 2 4749 4769 
+topography Quebec.txt 3 914 1252 1576 
+secure Quebec.txt 1 4490 
+classification Quebec.txt 1 1980 
+shortened Quebec.txt 1 13105 
+belongs Quebec.txt 1 7323 
+6,102,210 Quebec.txt 1 7600 
+highly Quebec.txt 1 9685 
+visible Quebec.txt 4 7326 7353 7362 11837 
+brl Quebec.txt 1 3891 
+broadcasters Quebec.txt 1 10915 
+total Quebec.txt 14 3070 3304 6967 7213 7220 7245 7374 7532 7651 8232 9097 9129 9150 9493 
+landscape Quebec.txt 3 1379 1500 1526 
+spoke Quebec.txt 1 7624 
+would Quebec.txt 8 539 770 3720 3830 4440 6064 6565 12940 
+army Quebec.txt 3 4756 4795 5237 
+calq Quebec.txt 1 10310 
+voters Quebec.txt 4 363 6110 6218 6224 
+arms Quebec.txt 3 12776 12820 12837 
+cabarets Quebec.txt 2 10191 10215 
+occupying Quebec.txt 3 260 973 9125 
+bays Quebec.txt 1 1039 
+call Quebec.txt 1 4282 
+therefore Quebec.txt 5 3269 5056 5124 9370 9610 
+until Quebec.txt 5 2559 6711 8015 11140 13180 
+voted Quebec.txt 4 360 6189 6206 6584 
+programmations Quebec.txt 1 10995 
+relay Quebec.txt 1 13177 
+bourassa Quebec.txt 2 5903 5921 
+giovanni Quebec.txt 1 3633 
+award Quebec.txt 1 10361 
+99 Quebec.txt 1 4481 
+decade-long Quebec.txt 1 5824 
+deciduous Quebec.txt 7 2938 3149 3212 3293 3352 3369 3380 
+warm Quebec.txt 4 292 1472 1987 2113 
+wikipedias Quebec.txt 1 13198 
+organic Quebec.txt 1 2825 
+inhabited Quebec.txt 5 271 1757 1806 2660 4977 
+95 Quebec.txt 2 1531 2342 
+97 Quebec.txt 1 1011 
+must Quebec.txt 2 8008 8123 
+abundance Quebec.txt 1 8920 
+1990 Quebec.txt 1 6322 
+flora Quebec.txt 1 2954 
+1995 Quebec.txt 3 357 6438 6456 
+1994 Quebec.txt 1 6465 
+rights Quebec.txt 2 4568 5206 
+1999 Quebec.txt 1 5544 
+1998 Quebec.txt 1 13002 
+1629 Quebec.txt 1 3951 
+work Quebec.txt 4 8365 8511 11015 12360 
+mi Quebec.txt 10 1013 1911 3317 6987 6996 9106 9804 9886 9947 10032 
+2.63 Quebec.txt 2 8443 9246 
+muskellunge Quebec.txt 1 2631 
+saint-denis-de-kamouraska Quebec.txt 1 12570 
+temperatures Quebec.txt 3 2305 2337 3178 
+exceptions Quebec.txt 1 8098 
+newfoundland Quebec.txt 8 95 847 1275 1900 4371 5383 5537 6336 
+cmc Quebec.txt 1 8736 
+allaire Quebec.txt 1 6433 
+franois-xavier Quebec.txt 1 11159 
+unilateral Quebec.txt 1 5195 
+indicated Quebec.txt 2 6859 6881 
+activities Quebec.txt 3 5850 8469 12625 
+agri-food Quebec.txt 1 8864 
+organized Quebec.txt 3 3499 5914 13153 
+1970spresent Quebec.txt 1 10675 
+10,000 Quebec.txt 2 4842 9684 
+insectarium Quebec.txt 1 13005 
+present-day Quebec.txt 2 680 685 
+altitudes Quebec.txt 1 1719 
+vert Quebec.txt 1 11400 
+ceremony Quebec.txt 1 11007 
+provincial Quebec.txt 8 192 794 5876 5980 6096 6257 8268 8285 
+tornadoes Quebec.txt 1 2080 
+end Quebec.txt 3 1451 4825 5192 
+carriers Quebec.txt 1 9770 
+inhabitants Quebec.txt 3 196 9434 9468 
+travel Quebec.txt 2 11096 11813 
+latulipe Quebec.txt 1 11253 
+far Quebec.txt 5 1716 1742 2270 5120 10728 
+hot Quebec.txt 3 294 1990 11854 
+writers Quebec.txt 2 11436 11461 
+non-government Quebec.txt 1 10294 
+1759 Quebec.txt 1 4330 
+1758 Quebec.txt 2 4309 12930 
+answer Quebec.txt 1 7204 
+1756 Quebec.txt 1 4297 
+widespread Quebec.txt 1 7634 
+1754 Quebec.txt 1 4211 
+regional Quebec.txt 5 6912 6932 9809 10990 11302 
+minority Quebec.txt 1 7327 
+replacing Quebec.txt 1 12848 
+railways Quebec.txt 1 9888 
+1948 Quebec.txt 1 12997 
+after Quebec.txt 13 174 577 591 667 704 3753 3920 5125 5255 5510 6228 10104 11186 
+adoptions Quebec.txt 2 7083 7099 
+shores Quebec.txt 2 1311 12893 
+fat Quebec.txt 1 12330 
+law Quebec.txt 8 4039 4593 5051 5316 6549 7963 8066 10473 
+types Quebec.txt 3 1953 6926 10602 
+tremblant Quebec.txt 1 1668 
+third Quebec.txt 1 3204 
+notable Quebec.txt 1 10488 
+loyalists Quebec.txt 5 4843 4997 5030 5065 5093 
+attracts Quebec.txt 1 1859 
+greek Quebec.txt 2 7473 7932 
+18th Quebec.txt 2 1132 12511 
+green Quebec.txt 2 10022 11401 
+first Quebec.txt 27 738 786 1814 2830 3471 3681 3717 3845 4503 4565 4609 5399 6100 6309 7570 8332 9574 10681 11092 11146 11499 12561 12649 12753 12814 12889 12904 
+order Quebec.txt 3 2918 6760 6766 
+wind Quebec.txt 2 2364 9400 
+wine Quebec.txt 2 12548 12550 
+salon Quebec.txt 1 11627 
+interpretation Quebec.txt 1 12030 
+montreal-style Quebec.txt 2 12304 12457 
+over Quebec.txt 13 753 2062 4831 6636 8092 8387 8545 8730 9405 10066 12596 12664 13142 
+vary Quebec.txt 1 2358 
+biomedical Quebec.txt 1 9414 
+murray Quebec.txt 1 4506 
+12.3 Quebec.txt 1 7756 
+6.6 Quebec.txt 1 3297 
+mallard Quebec.txt 1 2676 
+london Quebec.txt 1 5424 
+japan Quebec.txt 1 8176 
+famille Quebec.txt 1 12255 
+hip-hop Quebec.txt 1 10614 
+before Quebec.txt 4 649 4856 6108 7056 
+fir Quebec.txt 1 1787 
+10.2 Quebec.txt 1 7879 
+10.7 Quebec.txt 1 10092 
+harmonica Quebec.txt 1 10542 
+50,000 Quebec.txt 1 8775 
+exhibits Quebec.txt 1 10329 
+destroyed Quebec.txt 1 4848 
+production Quebec.txt 4 2840 8586 10326 10888 
+vast Quebec.txt 4 4469 8612 8971 9078 
+natively Quebec.txt 1 7643 
+cree Quebec.txt 2 1810 3523 
+then Quebec.txt 3 2210 5505 10715 
+them Quebec.txt 3 1240 4669 4870 
+combination Quebec.txt 2 1462 7662 
+nutritional Quebec.txt 1 12367 
+grand Quebec.txt 2 10795 12696 
+school Quebec.txt 5 11416 11680 11881 11933 12563 
+touring Quebec.txt 1 11801 
+effects Quebec.txt 1 4619 
+they Quebec.txt 15 2208 2356 3496 3557 3881 4198 5011 5201 7507 7518 7623 10444 10451 11823 11834 
+altogether Quebec.txt 1 7895 
+tourism Quebec.txt 1 12865 
+silver Quebec.txt 1 9007 
+represents Quebec.txt 6 6664 8228 8374 8415 10903 10921 
+principals Quebec.txt 1 8992 
+meat Quebec.txt 2 12306 12461 
+brightness Quebec.txt 1 2273 
+quartier Quebec.txt 1 10230 
+victory Quebec.txt 1 5248 
+each Quebec.txt 5 688 733 3601 5140 13178 
+appalachians Quebec.txt 3 1336 1889 3197 
+went Quebec.txt 1 6235 
+second-most Quebec.txt 1 169 
+side Quebec.txt 1 6128 
+mccord Quebec.txt 1 12190 
+sandhill Quebec.txt 1 2761 
+expectancy Quebec.txt 3 7127 7138 7155 
+non-quebecers Quebec.txt 1 6793 
+series Quebec.txt 4 4203 5387 5825 12233 
+train Quebec.txt 2 8348 11892 
+specificity Quebec.txt 1 10480 
+solution Quebec.txt 1 5277 
+literature Quebec.txt 4 11078 11083 11090 11171 
+trading Quebec.txt 3 3825 3833 3884 
+2,500 Quebec.txt 1 10031 
+reached Quebec.txt 5 6273 7113 7130 9036 9235 
+collector Quebec.txt 1 9811 
+comedies Quebec.txt 1 11821 
+by Quebec.txt 85 58 76 85 102 138 273 316 362 367 809 852 1034 1326 1334 1397 1583 1601 1677 1759 1808 2206 2610 3014 3044 3151 3211 3564 3614 3759 3944 3964 4105 4243 4296 4318 4542 4696 4752 4807 4986 5072 5178 5331 5410 6050 6061 6159 6167 6428 6478 6609 6774 6847 6877 6895 7107 7579 7837 7961 7971 8257 8527 8745 9732 9784 9924 10086 10363 10455 10469 10575 10717 10727 10730 11507 11557 11657 11672 12080 12097 12631 12667 12929 12952 13117 
+network Quebec.txt 6 1627 9781 9895 9920 9967 11386 
+forts Quebec.txt 1 3885 
+restricted Quebec.txt 1 598 
+tales Quebec.txt 1 11193 
+abenaki Quebec.txt 1 3530 
+organizations Quebec.txt 4 9740 10295 11976 12098 
+content Quebec.txt 1 12333 
+encourage Quebec.txt 1 4108 
+medicine Quebec.txt 3 9348 9413 9656 
+surprise Quebec.txt 1 4216 
+newly Quebec.txt 2 4536 5947 
+1668 Quebec.txt 1 12484 
+forth Quebec.txt 1 5428 
+independence Quebec.txt 3 334 5218 6066 
+foundation Quebec.txt 2 2859 11137 
+state-sanctioned Quebec.txt 1 4614 
+clarence Quebec.txt 1 11579 
+written Quebec.txt 1 8078 
+veto Quebec.txt 1 6265 
+frre Quebec.txt 1 11512 
+free Quebec.txt 3 5074 10463 11670 
+fred Quebec.txt 1 11296 
+aboriginal Quebec.txt 7 274 804 6922 7246 7300 10171 12394 
+disputes Quebec.txt 1 863 
+formation Quebec.txt 3 5774 6369 6418 
+springtime Quebec.txt 2 1491 12436 
+certified Quebec.txt 1 2823 
+convent Quebec.txt 1 11936 
+created Quebec.txt 5 1050 10755 11734 11890 12750 
+loup Quebec.txt 1 12268 
+days Quebec.txt 6 2969 3256 5890 10531 11503 12237 
+000 Quebec.txt 2 8669 8716 
+1970s Quebec.txt 1 8047 
+arrived Quebec.txt 2 4537 12890 
+already Quebec.txt 1 3990 
+researches Quebec.txt 1 9450 
+landscapes Quebec.txt 1 11536 
+sculpture Quebec.txt 3 11479 11554 11654 
+primary Quebec.txt 4 1655 2166 6925 8983 
+channels Quebec.txt 1 10975 
+another Quebec.txt 1 922 
+laviolette Quebec.txt 1 9835 
+navigator Quebec.txt 1 3632 
+42 Quebec.txt 1 7096 
+1984 Quebec.txt 1 12756 
+traction Quebec.txt 1 6403 
+rated Quebec.txt 1 8321 
+152,820 Quebec.txt 1 7945 
+service Quebec.txt 2 1824 9753 
+courted Quebec.txt 1 4718 
+top Quebec.txt 1 8944 
+stratgie Quebec.txt 1 9186 
+historian Quebec.txt 1 11158 
+approximately Quebec.txt 16 213 3296 4129 4495 8507 8553 8582 8615 8667 8680 8701 8724 8767 8774 9446 9597 
+tonnes Quebec.txt 1 9866 
+compromise Quebec.txt 2 4523 4947 
+listed Quebec.txt 2 2796 2916 
+xiv Quebec.txt 2 4072 4124 
+percentage Quebec.txt 3 7333 8478 9148 
+john Quebec.txt 1 13091 
+listen Quebec.txt 2 37 41 
+urban Quebec.txt 2 199 2712 
+rewards Quebec.txt 1 11014 
+took Quebec.txt 5 4321 4830 5402 6360 6471 
+negotiating Quebec.txt 1 6241 
+groulx Quebec.txt 1 11287 
+champlains Quebec.txt 1 3816 
+western Quebec.txt 6 1712 1921 1964 2007 3649 4692 
+somewhat Quebec.txt 1 2133 
+miquelon Quebec.txt 1 4365 
+kept Quebec.txt 1 8011 
+arcq Quebec.txt 1 10918 
+gagnon Quebec.txt 1 11580 
+self-governing Quebec.txt 1 5392 
+fuelled Quebec.txt 1 8256 
+target Quebec.txt 1 8459 
+roles Quebec.txt 1 428 
+structures Quebec.txt 1 9828 
+immigrants Quebec.txt 1 10178 
+likely Quebec.txt 1 4920 
+6.3 Quebec.txt 1 8768 
+nations Quebec.txt 6 1815 3481 3718 3844 3846 10682 
+project Quebec.txt 2 1058 1830 
+matter Quebec.txt 2 5272 10406 
+pingualuit Quebec.txt 1 1703 
+historical Quebec.txt 6 19 885 11539 12036 12051 12312 
+1976 Quebec.txt 3 6044 6086 12732 
+paved Quebec.txt 1 4570 
+perspective Quebec.txt 3 888 10153 10162 
+bridge Quebec.txt 5 9833 9836 11242 11246 12077 
+30.9 Quebec.txt 1 8417 
+boston Quebec.txt 1 4634 
+disambiguation Quebec.txt 1 31 
+modern Quebec.txt 3 836 8540 10597 
+caleb Quebec.txt 1 12272 
+socit Quebec.txt 3 9712 9786 10337 
+raw Quebec.txt 1 1792 
+outdoors Quebec.txt 1 11775 
+metallic Quebec.txt 1 8987 
+manner Quebec.txt 1 11799 
+1,356,625.27 Quebec.txt 1 6983 
+seen Quebec.txt 7 2506 2656 2738 2780 2793 9053 10579 
+1970 Quebec.txt 2 5848 5990 
+seek Quebec.txt 1 5190 
+contents Quebec.txt 1 452 
+relatively Quebec.txt 4 1471 3176 3249 4093 
+abroad Quebec.txt 1 11796 
+implemented Quebec.txt 1 5680 
+1968 Quebec.txt 1 6712 
+1969 Quebec.txt 2 8016 9167 
+4,500 Quebec.txt 1 1015 
+latter Quebec.txt 2 365 2700 
+1615 Quebec.txt 1 3892 
+1960 Quebec.txt 1 7057 
+isolated Quebec.txt 1 1386 
+predominantly Quebec.txt 1 184 
+contact Quebec.txt 1 3473 
+tourtire Quebec.txt 1 12411 
+forces Quebec.txt 2 4333 5245 
+7,900 Quebec.txt 1 3465 
+heliports Quebec.txt 1 9988 
+tunnels Quebec.txt 1 9822 
+14,000 Quebec.txt 1 1458 
+shipments Quebec.txt 2 8788 8804 
+blue Quebec.txt 7 2570 2681 2758 6449 12787 12927 12980 
+culminated Quebec.txt 1 5851 
+prohibition Quebec.txt 1 10203 
+though Quebec.txt 2 6018 7767 
+mother Quebec.txt 4 7691 7742 7747 7910 
+wells Quebec.txt 1 6339 
+kppen Quebec.txt 4 1951 1978 2094 2154 
+mario Quebec.txt 1 6429 
+germany Quebec.txt 1 9474 
+retaining Quebec.txt 1 9823 
+marie Quebec.txt 1 11294 
+the Quebec.txt 1228 6 10 18 45 56 59 64 74 83 86 92 100 103 109 146 168 178 190 202 211 220 225 237 240 250 257 261 265 276 279 308 312 342 345 364 374 385 395 403 410 422 457 463 469 474 480 486 492 498 510 513 529 535 542 546 552 562 565 572 578 584 592 596 599 605 608 612 618 621 625 629 642 650 652 660 664 668 673 705 714 723 737 748 754 758 774 777 781 785 793 799 802 810 813 818 827 831 835 842 853 858 877 900 925 929 931 937 941 947 952 966 982 1021 1025 1031 1040 1047 1052 1055 1066 1080 1087 1096 1104 1109 1113 1120 1129 1136 1146 1150 1157 1161 1165 1176 1180 1194 1208 1210 1218 1224 1227 1235 1272 1279 1283 1286 1289 1295 1303 1307 1310 1313 1318 1324 1327 1332 1335 1340 1343 1349 1353 1362 1370 1392 1398 1403 1409 1412 1432 1442 1445 1450 1453 1461 1477 1495 1499 1512 1537 1556 1562 1569 1575 1578 1586 1592 1617 1619 1641 1652 1672 1678 1691 1715 1723 1727 1734 1739 1741 1748 1760 1765 1769 1776 1780 1803 1809 1825 1832 1838 1842 1846 1854 1870 1883 1888 1913 1917 1923 1932 1935 1939 1943 1969 2001 2016 2027 2034 2040 2047 2073 2105 2119 2123 2142 2145 2165 2172 2178 2186 2192 2214 2226 2229 2243 2255 2259 2265 2269 2272 2280 2345 2353 2361 2366 2370 2388 2394 2408 2440 2445 2456 2464 2467 2469 2471 2473 2478 2481 2486 2488 2490 2493 2497 2500 2503 2510 2514 2517 2519 2521 2523 2526 2531 2551 2554 2560 2569 2572 2574 2578 2584 2595 2598 2619 2622 2625 2627 2630 2632 2635 2638 2641 2645 2648 2653 2658 2666 2669 2672 2675 2677 2680 2683 2686 2693 2696 2699 2721 2724 2727 2731 2743 2746 2749 2752 2756 2760 2763 2767 2786 2790 2801 2808 2811 2815 2829 2843 2857 2863 2874 2893 2896 2920 2923 2926 2928 2930 2941 2944 2951 2972 2985 2992 2998 3003 3006 3012 3015 3017 3027 3029 3034 3038 3063 3069 3074 3079 3085 3093 3097 3101 3107 3125 3132 3136 3144 3179 3186 3194 3196 3199 3203 3234 3263 3287 3290 3299 3303 3319 3322 3325 3334 3337 3340 3343 3347 3356 3361 3366 3368 3372 3384 3387 3390 3393 3396 3400 3403 3405 3409 3420 3425 3428 3432 3435 3439 3468 3492 3514 3518 3537 3549 3553 3565 3568 3579 3584 3630 3664 3669 3672 3680 3692 3705 3710 3728 3744 3751 3754 3757 3763 3785 3804 3808 3812 3840 3874 3877 3887 3910 3928 3935 3954 3968 3978 3982 3987 3996 4004 4011 4016 4023 4041 4045 4054 4084 4114 4126 4141 4145 4153 4159 4195 4208 4226 4251 4255 4258 4274 4289 4303 4310 4322 4331 4347 4355 4358 4368 4382 4391 4401 4414 4424 4434 4437 4445 4448 4453 4459 4468 4472 4475 4491 4494 4500 4513 4525 4529 4543 4551 4556 4560 4571 4578 4584 4600 4608 4621 4625 4631 4644 4647 4656 4665 4670 4680 4689 4697 4705 4713 4731 4753 4761 4766 4768 4776 4783 4792 4794 4805 4808 4819 4839 4849 4864 4878 4901 4932 4949 4956 4969 4976 4980 5000 5007 5016 5019 5039 5053 5060 5077 5092 5112 5126 5129 5155 5158 5165 5194 5198 5243 5256 5271 5279 5287 5291 5303 5307 5326 5340 5346 5354 5363 5365 5368 5398 5411 5443 5446 5450 5457 5464 5477 5497 5502 5507 5511 5515 5560 5583 5595 5602 5611 5624 5634 5645 5653 5688 5691 5694 5712 5715 5731 5734 5742 5756 5762 5765 5768 5773 5781 5815 5857 5863 5896 5900 5916 5927 5946 5956 5959 5971 5989 6002 6006 6022 6038 6043 6089 6095 6099 6102 6109 6112 6117 6126 6137 6143 6146 6150 6160 6168 6179 6186 6191 6198 6232 6254 6270 6278 6286 6289 6306 6308 6311 6324 6333 6345 6349 6353 6368 6371 6379 6388 6391 6394 6410 6417 6420 6434 6437 6458 6494 6498 6504 6514 6531 6543 6557 6579 6589 6600 6620 6655 6661 6665 6672 6677 6682 6691 6695 6704 6713 6720 6724 6730 6736 6741 6746 6754 6764 6775 6802 6807 6836 6852 6871 6878 6889 6911 6924 6931 6935 6939 6952 7004 7021 7033 7036 7044 7061 7075 7079 7087 7109 7152 7167 7170 7212 7240 7282 7297 7304 7319 7348 7373 7394 7420 7424 7437 7504 7531 7547 7569 7582 7591 7605 7615 7650 7681 7705 7717 7736 7760 7764 7781 7804 7814 7827 7831 7838 7845 7850 7864 7871 7883 7891 7907 7914 7972 7977 7992 7996 8000 8005 8019 8039 8046 8069 8077 8104 8113 8121 8171 8184 8191 8197 8202 8210 8221 8224 8231 8240 8248 8267 8278 8284 8304 8314 8331 8334 8367 8388 8394 8401 8412 8447 8458 8474 8477 8486 8493 8496 8504 8513 8556 8585 8588 8635 8652 8707 8739 8746 8759 8762 8781 8795 8813 8830 8832 8842 8871 8880 8912 8915 8919 8930 8938 8943 8956 8966 8991 9021 9031 9064 9070 9074 9077 9107 9128 9134 9173 9179 9185 9207 9220 9229 9243 9259 9269 9280 9285 9293 9306 9321 9356 9376 9387 9410 9419 9423 9437 9449 9453 9470 9475 9502 9505 9519 9532 9537 9541 9556 9560 9563 9573 9606 9613 9618 9620 9633 9637 9696 9701 9706 9711 9733 9743 9751 9755 9760 9768 9772 9775 9785 9831 9834 9838 9843 9846 9855 9870 9874 9891 9900 9908 9913 9917 9940 9961 9964 9981 9991 9999 10009 10021 10025 10056 10067 10076 10095 10102 10108 10137 10174 10194 10197 10202 10208 10212 10214 10218 10223 10229 10255 10270 10276 10286 10301 10315 10336 10352 10355 10364 10368 10393 10405 10412 10417 10431 10441 10470 10514 10516 10518 10526 10529 10552 10564 10567 10629 10632 10635 10659 10663 10680 10684 10698 10705 10708 10721 10735 10740 10760 10765 10771 10780 10785 10794 10804 10809 10839 10847 10855 10868 10877 10894 10904 10910 10922 10932 10943 10950 10957 10962 10966 10983 10987 11006 11009 11021 11024 11029 11041 11045 11050 11057 11062 11073 11095 11107 11121 11125 11131 11141 11145 11149 11157 11167 11175 11178 11187 11206 11209 11211 11213 11218 11222 11224 11229 11232 11235 11244 11247 11270 11301 11317 11324 11355 11359 11362 11367 11371 11377 11385 11392 11395 11398 11406 11413 11420 11430 11456 11484 11489 11502 11531 11545 11558 11598 11606 11613 11619 11625 11640 11653 11666 11678 11685 11695 11715 11721 11738 11745 11784 11787 11798 11804 11806 11832 11839 11844 11848 11852 11858 11863 11871 11878 11883 11913 11932 11935 11938 11946 11952 11960 11964 11983 11989 11995 12002 12006 12011 12018 12025 12039 12046 12050 12055 12058 12062 12064 12071 12075 12081 12084 12087 12090 12100 12103 12110 12114 12118 12120 12125 12140 12174 12180 12184 12189 12193 12210 12218 12222 12225 12235 12240 12311 12320 12335 12352 12355 12359 12365 12420 12429 12441 12450 12472 12478 12508 12517 12520 12560 12579 12589 12606 12619 12639 12648 12656 12665 12671 12674 12687 12692 12695 12716 12731 12735 12746 12752 12767 12817 12834 12841 12852 12855 12870 12872 12880 12882 12886 12892 12895 12918 12932 12936 12942 12954 12964 12966 12987 13003 13014 13024 13029 13036 13050 13068 13092 13112 13130 13155 13161 13172 
+maria Quebec.txt 1 11327 
+transat Quebec.txt 1 12747 
+smoked Quebec.txt 2 12305 12460 
+observation Quebec.txt 1 9576 
+characterizes Quebec.txt 1 11699 
+calculated Quebec.txt 3 7207 7368 7526 
+metal Quebec.txt 1 3856 
+treaty Quebec.txt 4 579 653 4042 4383 
+winterlude Quebec.txt 1 11845 
+storm Quebec.txt 1 2031 
+principle Quebec.txt 1 10458 
+deeply Quebec.txt 1 5598 
+1763 Quebec.txt 3 576 4386 4406 
+oppress Quebec.txt 1 4721 
+confederation Quebec.txt 6 730 5357 5361 5397 5458 5508 
+aquatic Quebec.txt 2 2542 9135 
+confront Quebec.txt 1 12351 
+tage Quebec.txt 1 12024 
+jurisdiction Quebec.txt 1 5981 
+15.6/sq Quebec.txt 1 6995 
+prix Quebec.txt 2 10356 12697 
+attempts Quebec.txt 3 3689 6298 6528 
+7.1 Quebec.txt 1 7772 
+radio Quebec.txt 5 10829 10914 10924 10980 11034 
+7.7 Quebec.txt 1 7678 
+participate Quebec.txt 1 7289 
+montreals Quebec.txt 1 10190 
+marois Quebec.txt 1 8625 
+hubs Quebec.txt 1 10247 
+orleans Quebec.txt 1 2565 
+mavis Quebec.txt 1 11447 
+northeast Quebec.txt 1 1153 
+became Quebec.txt 4 734 4063 4182 5812 
+claude Quebec.txt 1 9585 
+hrs Quebec.txt 3 2235 2240 2253 
+sugar Quebec.txt 4 3385 4398 12424 12444 
+cougar Quebec.txt 1 2487 
+colonists Quebec.txt 2 4193 4654 
+rich Quebec.txt 2 1464 1639 
+maisonneuve Quebec.txt 1 13166 
+sporting Quebec.txt 1 12728 
+do Quebec.txt 2 7639 8948 
+exports Quebec.txt 1 8802 
+above Quebec.txt 3 2797 7020 8446 
+fontaine Quebec.txt 1 10703 
+wide Quebec.txt 1 6897 
+asbestos Quebec.txt 1 9006 
+de Quebec.txt 39 461 526 3772 3818 3916 3974 4286 4344 5666 5801 5817 7554 8337 9188 9192 9590 9787 10278 10338 10743 10750 10768 10774 10782 10787 10797 10807 11105 11109 11220 11278 11422 11573 11763 11885 11887 12069 12271 12908 
+vowels Quebec.txt 1 8093 
+carignan Quebec.txt 1 9586 
+preferred Quebec.txt 1 10729 
+coast Quebec.txt 3 3707 4369 9745 
+25,000 Quebec.txt 1 9681 
+hontan Quebec.txt 1 11111 
+despite Quebec.txt 1 3175 
+report Quebec.txt 4 5269 5286 6876 7808 
+15 Quebec.txt 1 6085 
+du Quebec.txt 27 4138 5803 5819 7559 9715 9737 9764 9790 10308 10357 10724 10745 10747 10945 10999 11427 11725 11747 11905 11920 11923 11930 12000 12276 12279 12698 13115 
+infrequent Quebec.txt 1 1428 
+beads Quebec.txt 1 5887 
+sauv Quebec.txt 1 6175 
+countries Quebec.txt 4 8239 8506 9298 11650 
+igneous Quebec.txt 1 1387 
+bay Quebec.txt 11 69 72 81 750 1057 1574 1828 2946 3522 3590 3894 
+expos Quebec.txt 1 12719 
+interspersed Quebec.txt 1 1550 
+release Quebec.txt 1 10415 
+fertility Quebec.txt 3 7017 7046 7054 
+4.7 Quebec.txt 1 7450 
+innu Quebec.txt 2 1813 3524 
+disaster Quebec.txt 1 4790 
+wrest Quebec.txt 1 4758 
+reported Quebec.txt 3 7653 7668 7947 
+guerre Quebec.txt 1 4285 
+zones Quebec.txt 2 2263 2292 
+paul-mile Quebec.txt 1 11593 
+decided Quebec.txt 1 4745 
+torrents Quebec.txt 1 1019 
+cattle Quebec.txt 1 2856 
+resigned Quebec.txt 1 6386 
+inter-city Quebec.txt 1 9925 
+subject Quebec.txt 2 8070 10447 
+brazil Quebec.txt 1 10106 
+voyage Quebec.txt 1 12905 
+50.6 Quebec.txt 1 6482 
+producer Quebec.txt 1 10098 
+away Quebec.txt 1 5066 
+sail Quebec.txt 1 3703 
+wikipedia Quebec.txt 1 1 
+artificial Quebec.txt 1 9524 
+prince Quebec.txt 4 127 5379 5406 5524 
+future Quebec.txt 3 6267 11431 11893 
+olympics Quebec.txt 1 12734 
+r&d Quebec.txt 5 8428 8437 8484 8666 9286 
+hebb Quebec.txt 1 9647 
+saguenaylac-saint-jean Quebec.txt 2 1079 1664 
+approach Quebec.txt 2 4963 5108 
+discovery Quebec.txt 2 9561 11155 
+nicolas Quebec.txt 1 11113 
+accord Quebec.txt 3 6314 6346 6396 
+never Quebec.txt 1 6359 
+terms Quebec.txt 2 4035 9262 
+extend Quebec.txt 1 1510 
+nature Quebec.txt 1 3156 
+1945 Quebec.txt 1 5651 
+however Quebec.txt 11 2406 3686 3700 3972 6556 6629 7039 7272 7964 8103 9017 
+basswood Quebec.txt 1 3404 
+harper Quebec.txt 1 6613 
+muskox Quebec.txt 1 2470 
+carbon Quebec.txt 1 6827 
+motto Quebec.txt 2 12803 12845 
+galleries Quebec.txt 1 11635 
+nunavut Quebec.txt 3 126 149 5542 
+received Quebec.txt 1 2397 
+protect Quebec.txt 1 4207 
+adlard Quebec.txt 1 5678 
+cow Quebec.txt 1 2817 
+favourable Quebec.txt 1 5591 
+country Quebec.txt 3 4245 7439 11179 
+uncertainty Quebec.txt 1 6635 
+against Quebec.txt 5 5644 6190 6207 6357 13028 
+players Quebec.txt 2 11432 12116 
+puffin Quebec.txt 1 2765 
+culverts Quebec.txt 1 9825 
+estates Quebec.txt 1 11710 
+cod Quebec.txt 1 2634 
+53n Quebec.txt 2 13202 13204 
+distinction Quebec.txt 1 10370 
+contribution Quebec.txt 2 9438 11559 
+southeastern Quebec.txt 1 1884 
+pre Quebec.txt 1 12277 
+churchs Quebec.txt 1 5771 
+honouring Quebec.txt 1 13085 
+royal Quebec.txt 3 573 4065 4403 
+extrasolar Quebec.txt 1 9565 
+1778 Quebec.txt 1 4827 
+active Quebec.txt 1 9385 
+starling Quebec.txt 1 2694 
+250 Quebec.txt 2 1008 8827 
+broadens Quebec.txt 1 1159 
+telecommunications Quebec.txt 1 8703 
+speak Quebec.txt 3 7641 7657 7672 
+conference Quebec.txt 2 5401 5413 
+jean-philippe Quebec.txt 1 11585 
+1.2 Quebec.txt 1 7455 
+puts Quebec.txt 1 8170 
+basis Quebec.txt 3 1219 9978 12943 
+union Quebec.txt 5 5306 5434 5702 8449 12988 
+20072008 Quebec.txt 1 2379 
+three Quebec.txt 8 898 1958 2402 3086 3730 9495 10418 10819 
+been Quebec.txt 16 402 1581 2703 3561 3624 4241 6509 6554 7174 8056 8068 8255 9498 10048 10157 12840 
+quickly Quebec.txt 1 6272 
+commission Quebec.txt 4 3643 9761 10398 11996 
+96 Quebec.txt 1 10115 
+much Quebec.txt 3 2162 2247 5608 
+interest Quebec.txt 1 4677 
+life Quebec.txt 5 7126 7154 9640 10200 10253 
+occupies Quebec.txt 1 894 
+eastern Quebec.txt 8 252 878 1770 2108 2491 2511 3200 3421 
+kanesatake Quebec.txt 1 7312 
+government Quebec.txt 26 4702 4880 5001 5144 5289 5345 5696 5951 6069 6097 6559 6640 6652 6680 6755 6803 6838 8041 8653 9180 9208 9982 10365 11962 12111 12768 
+conifers Quebec.txt 2 3331 3417 
+observatory Quebec.txt 1 9623 
+900 Quebec.txt 1 8726 
+0.15 Quebec.txt 1 7266 
+worked Quebec.txt 3 3993 4859 4913 
+sub-arctic Quebec.txt 1 3035 
+chill Quebec.txt 1 2365 
+deliberations Quebec.txt 1 5440 
+unpopular Quebec.txt 1 5599 
+exception Quebec.txt 1 4356 
+east Quebec.txt 4 84 700 1729 2298 
+publicly Quebec.txt 1 9085 
+affirm Quebec.txt 1 6587 
+montrgie Quebec.txt 2 1346 1914 
+lvesque Quebec.txt 8 5792 5954 5982 6032 6087 6172 6234 6259 
+air Quebec.txt 5 2128 2183 9758 9966 11855 
+employ Quebec.txt 3 8549 8619 9678 
+near Quebec.txt 5 201 1389 1572 1907 7360 
+leaves Quebec.txt 1 12799 
+holiday Quebec.txt 5 10590 13060 13064 13078 13084 
+balance Quebec.txt 3 4851 4935 10058 
+study Quebec.txt 2 5265 6858 
+launched Quebec.txt 3 4214 5822 9184 
+seven Quebec.txt 7 593 3501 4165 4175 4275 4304 9112 
+cane Quebec.txt 1 4399 
+kebk Quebec.txt 1 40 
+played Quebec.txt 3 337 10618 12646 
+undercarriage Quebec.txt 1 9174 
+is Quebec.txt 131 4 42 53 134 150 153 167 177 267 282 554 909 915 1046 1065 1261 1294 1380 1501 1541 1638 1675 1694 1805 1926 2044 2131 2246 2287 2400 2460 2828 2837 2903 2950 2955 3000 3031 3042 3078 3111 3139 3191 3209 3227 3309 3327 3363 3376 3484 4269 6277 6631 6681 6709 6770 6781 6851 6888 7019 7027 7041 7069 7086 7118 7275 7330 7391 7403 7587 7590 7597 7633 7749 7813 7844 7955 8061 8195 8244 8296 8309 8422 8485 8560 8565 8603 8742 8811 8963 9026 9137 9251 9290 9327 9350 9383 9534 9559 9572 9609 9689 9782 9921 10094 10135 10147 10311 10359 10461 10507 10554 10572 10726 10954 11002 11306 11311 11555 11956 12095 12318 12406 12426 12463 12514 12829 12860 13095 13098 13120 
+unicameral Quebec.txt 1 6696 
+it Quebec.txt 48 52 120 152 176 978 988 1119 1299 1337 1540 1637 1903 3226 3262 3678 4230 4268 4283 4661 5967 6331 6475 6769 6780 6988 7030 7040 7117 7268 7608 7625 7642 7698 8772 8810 8875 8952 8973 9349 9608 10322 11319 12373 12494 12513 12573 12828 13097 
+defeated Quebec.txt 4 366 4338 5254 6034 
+ii Quebec.txt 2 5558 5623 
+soils Quebec.txt 3 1468 3260 3551 
+in Quebec.txt 408 198 219 236 249 320 330 341 354 372 449 509 532 571 695 731 741 779 840 876 1051 1070 1077 1128 1193 1265 1278 1285 1520 1559 1565 1614 1640 1660 1722 1733 1901 1905 1920 1931 1945 2058 2066 2069 2107 2168 2195 2236 2241 2307 2319 2330 2344 2373 2377 2387 2417 2418 2424 2425 2433 2450 2657 2705 2711 2739 2781 2819 2883 2888 2912 2917 3089 3165 3228 3279 3365 3513 3548 3578 3654 3663 3671 3735 3789 3941 3950 4014 4025 4047 4067 4179 4185 4210 4225 4266 4293 4308 4387 4428 4433 4548 4611 4633 4679 4709 4735 4779 4826 4846 4903 4916 4923 5015 5026 5147 5161 5171 5221 5226 5228 5249 5300 5312 5317 5353 5362 5385 5404 5414 5441 5496 5518 5522 5527 5530 5535 5538 5543 5547 5550 5592 5600 5618 5761 5806 5842 5847 5852 5892 5899 5944 5977 5988 6037 6042 6067 6111 6173 6220 6226 6231 6292 6294 6321 6351 6362 6376 6409 6462 6511 6649 6658 6687 6694 6727 6772 6790 6868 6893 6951 6962 6997 6999 7084 7094 7100 7105 7124 7128 7134 7169 7190 7290 7302 7355 7358 7364 7396 7417 7431 7614 7644 7661 7674 7684 7714 7716 7725 7729 7731 7780 7794 7798 7826 7849 7868 7870 7875 7901 7905 7913 7943 7991 8012 8024 8031 8038 8083 8094 8110 8127 8139 8155 8201 8270 8282 8291 8302 8317 8354 8366 8393 8410 8436 8438 8470 8488 8512 8562 8570 8600 8647 8662 8674 8685 8690 8693 8706 8720 8729 8756 8777 8801 8816 8824 8829 8837 8851 8870 8892 8937 8950 9029 9058 9063 9069 9163 9166 9195 9217 9240 9258 9261 9265 9283 9288 9305 9316 9320 9334 9343 9359 9375 9386 9409 9435 9441 9481 9488 9499 9540 9551 9580 9617 9636 9655 9665 9692 9700 9728 9815 9842 9859 9890 9933 9960 9979 9998 10033 10042 10071 10082 10101 10116 10142 10211 10242 10254 10266 10273 10281 10299 10351 10378 10525 10539 10608 10622 10628 10637 10756 10763 10837 10871 10873 10883 10889 11036 11076 11094 11138 11269 11375 11382 11390 11404 11409 11450 11453 11481 11496 11550 11632 11648 11663 11675 11728 11735 11780 11793 11797 11838 11846 11868 11876 11909 11982 11988 12117 12138 12159 12200 12302 12309 12346 12483 12490 12564 12569 12571 12600 12610 12626 12660 12739 12743 12755 12765 12826 12864 12878 12897 12913 12968 13001 13066 13144 13154 
+if Quebec.txt 1 8059 
+ruperts Quebec.txt 2 636 745 
+belle Quebec.txt 3 560 12850 12858 
+make Quebec.txt 2 3261 4872 
+imbued Quebec.txt 1 10508 
+rebellion Quebec.txt 4 4461 5146 5154 11189 
+complex Quebec.txt 2 1625 9564 
+split Quebec.txt 1 6408 
+colonies Quebec.txt 6 4435 4682 4698 5018 5309 5369 
+several Quebec.txt 9 8571 8750 8852 10926 11730 11975 12032 12726 13170 
+european Quebec.txt 5 2753 3458 3472 5584 8448 
+independent Quebec.txt 3 10887 10923 10977 
+moose Quebec.txt 1 2468 
+historic Quebec.txt 3 10167 12155 12169 
+peaks Quebec.txt 1 1937 
+governors Quebec.txt 2 4545 5200 
+declaring Quebec.txt 1 6614 
+published Quebec.txt 1 5894 
+rail Quebec.txt 2 9879 9929 
+differing Quebec.txt 1 2205 
+rain Quebec.txt 1 2222 
+renaissance Quebec.txt 1 11805 
+documents Quebec.txt 1 8130 
+francophone Quebec.txt 2 5657 7599 
+insisted Quebec.txt 1 6260 
+1609 Quebec.txt 1 522 
+1608 Quebec.txt 3 533 3790 12914 
+vermont Quebec.txt 1 116 
+cormoran Quebec.txt 1 12249 
+cormorant Quebec.txt 1 2748 
+1978 Quebec.txt 2 10757 12847 
+1601 Quebec.txt 1 518 
+1600 Quebec.txt 1 3242 
+1603 Quebec.txt 1 3778 
+1974 Quebec.txt 1 12744 
+1973 Quebec.txt 2 5992 6180 
+1971 Quebec.txt 1 2405 
+ocean Quebec.txt 6 1023 1033 1111 1148 2042 2174 
+materials Quebec.txt 1 1793 
+greatest Quebec.txt 2 2371 3235 
+centres Quebec.txt 4 1972 8132 8138 11389 
+jean Quebec.txt 9 4082 5738 6251 6432 6563 10390 11104 11576 12485 
+800 Quebec.txt 3 1908 4130 9944 
+corporate Quebec.txt 1 6828 
+musical Quebec.txt 1 10696 
+left Quebec.txt 1 1608 
+unified Quebec.txt 1 708 
+traditions Quebec.txt 3 11987 12229 12434 
+just Quebec.txt 3 1851 8204 11864 
+radarsat-1 Quebec.txt 1 9529 
+warmest Quebec.txt 1 2446 
+rebellions Quebec.txt 2 5227 5257 
+43 Quebec.txt 1 9969 
+523,795.95 Quebec.txt 1 6985 
+farther Quebec.txt 1 2136 
+human Quebec.txt 1 10816 
+yes Quebec.txt 2 6452 6488 
+32 Quebec.txt 1 13022 
+previous Quebec.txt 2 4933 5474 
+1775 Quebec.txt 2 4737 4741 
+1774 Quebec.txt 4 616 4429 4555 4917 
+1776 Quebec.txt 1 4781 
+hills Quebec.txt 4 1394 1405 1866 1915 
+1773 Quebec.txt 1 4636 
+elm Quebec.txt 1 3402 
+legion Quebec.txt 1 6777 
+similarities Quebec.txt 1 12376 
+regarded Quebec.txt 2 4640 13125 
+had Quebec.txt 18 3739 3989 4240 4858 4907 5238 5986 6340 6385 6956 6989 7508 7519 7885 9404 12398 12522 12959 
+otish Quebec.txt 3 1563 1689 9071 
+countrys Quebec.txt 1 7892 
+10,950 Quebec.txt 1 7264 
+transformed Quebec.txt 1 10217 
+board Quebec.txt 1 10858 
+technological Quebec.txt 2 8358 9380 
+leading-edge Quebec.txt 1 8572 
+has Quebec.txt 45 963 979 989 1084 1140 1580 1623 1875 1957 2090 3623 6508 6908 8067 8148 8253 8383 8398 8533 8544 8626 8835 8974 9052 9169 9183 9403 9515 9668 9818 9882 10047 10061 10156 10616 10639 10842 11528 12374 12382 12455 12468 12555 12724 12839 
+rseau Quebec.txt 1 9776 
+julie Quebec.txt 1 9509 
+fortin Quebec.txt 1 11571 
+desire Quebec.txt 1 12946 
+race Quebec.txt 1 12749 
+bands Quebec.txt 1 7285 
+possible Quebec.txt 1 5123 
+coleomegilla Quebec.txt 1 13033 
+cultural Quebec.txt 14 10199 10297 10332 10353 10381 10410 11388 11538 11840 11953 11986 12040 12175 12228 
+background Quebec.txt 4 12788 12794 12928 12981 
+unique Quebec.txt 3 6502 6515 7392 
+advanced Quebec.txt 1 8150 
+apart Quebec.txt 1 5121 
+generated Quebec.txt 1 8889 
+transhipment Quebec.txt 1 9856 
+bpe Quebec.txt 1 3466 
+1977 Quebec.txt 2 5945 13067 
+post-glacial Quebec.txt 1 1605 
+070w Quebec.txt 1 13203 
+hunt Quebec.txt 1 3574 
+50 Quebec.txt 2 2967 8290 
+quadrille Quebec.txt 1 10517 
+52 Quebec.txt 1 8681 
+specific Quebec.txt 3 7824 11315 11532 
+cooler Quebec.txt 1 2163 
+festivities Quebec.txt 2 10527 13131 
+debt-to-gdp Quebec.txt 1 8286 
+musique Quebec.txt 1 11423 
+night Quebec.txt 4 5166 6182 11012 13183 
+security Quebec.txt 1 9724 
+algonquian Quebec.txt 1 3477 
+devils Quebec.txt 1 11245 
+iroquois Quebec.txt 4 3478 3538 3764 7307 
+worldwide Quebec.txt 2 4307 9451 
+kahnawake Quebec.txt 1 7309 
+taffy Quebec.txt 1 12417 
+old Quebec.txt 3 10240 11325 12236 
+people Quebec.txt 20 3592 3746 4561 4942 6523 6590 7601 7677 7683 7745 7807 8552 8623 8717 8727 8776 8850 9315 9682 12501 
+plouffe Quebec.txt 1 12256 
+crown Quebec.txt 3 4502 10864 10968 
+born Quebec.txt 2 6787 11449 
+donald Quebec.txt 1 9646 
+productions Quebec.txt 1 10961 
+election Quebec.txt 3 5314 6045 6181 
+multiple Quebec.txt 1 10641 
+enemies Quebec.txt 1 3762 
+saint-ambroise Quebec.txt 1 11228 
+1905 Quebec.txt 1 5536 
+for Quebec.txt 73 9 17 26 534 545 1385 1794 2564 2880 3850 4027 4257 4395 4515 4791 4832 4875 4914 4959 5209 5278 5394 5431 5456 5690 5733 6098 6125 6132 6193 6355 6799 6921 7142 7147 7180 7293 7436 7922 7976 8209 8330 8495 8498 8634 8766 8859 8877 8955 8965 9049 9095 9219 9695 9754 9854 9899 9939 10124 10250 10330 10867 11254 11865 11897 11963 12013 12409 12446 12558 12647 12751 12869 
+renamed Quebec.txt 2 4407 6740 
+armed Quebec.txt 2 5186 5912 
+fox Quebec.txt 2 2499 2501 
+foy Quebec.txt 1 11574 
+ice Quebec.txt 5 1455 1588 12549 12552 12636 
+creative Quebec.txt 1 4962 
+entertainment Quebec.txt 1 10225 
+bas-canada Quebec.txt 1 7560 
+individuals Quebec.txt 2 10349 10374 
+ebony Quebec.txt 1 13037 
+steps Quebec.txt 1 10817 
+oxyrinchus Quebec.txt 1 2629 
+levasseur Quebec.txt 1 517 
+participation Quebec.txt 1 5625 
+core Quebec.txt 1 2035 
+beetle Quebec.txt 2 13032 13053 
+energy Quebec.txt 7 9391 9395 10035 10054 10057 10080 10123 
+750,300 Quebec.txt 1 3312 
+corn Quebec.txt 1 3544 
+terraces Quebec.txt 1 10261 
+6,000 Quebec.txt 1 5577 
+puvirnituq Quebec.txt 1 1700 
+circonscription Quebec.txt 1 6442 
+architectural Quebec.txt 1 11696 
+articles Quebec.txt 7 5796 5937 6644 6944 10497 10831 11918 
+manufacturing Quebec.txt 2 8822 8895 
+permitted Quebec.txt 2 7414 8057 
+projected Quebec.txt 2 7119 8297 
+census Quebec.txt 6 6954 7242 7422 7617 7766 7867 
+laureates Quebec.txt 1 9342 
+attacks Quebec.txt 1 5835 
+saguenayst Quebec.txt 1 2555 
+verrazzano Quebec.txt 1 3635 
+citizens Quebec.txt 1 5211 
+caubvick Quebec.txt 1 1269 
+o Quebec.txt 1 10718 
+essential Quebec.txt 1 12614 
+ensure Quebec.txt 2 10931 11977 
+islands Quebec.txt 2 1368 4360 
+efforts Quebec.txt 2 4187 4541 
+automatically Quebec.txt 1 5571 
+jacques Quebec.txt 5 3612 3658 11102 12710 12900 
+consulting Quebec.txt 1 10401 
+indians Quebec.txt 1 7256 
+statements Quebec.txt 1 10485 
+red-winged Quebec.txt 1 2673 
+portuguese Quebec.txt 1 7934 
+civil Quebec.txt 2 4592 5050 
+pays Quebec.txt 2 10725 13116 
+intellectual Quebec.txt 1 5725 
+son Quebec.txt 1 11332 
+down Quebec.txt 2 361 4775 
+lies Quebec.txt 1 1535 
+raises Quebec.txt 1 12678 
+laval Quebec.txt 1 1345 
+electorate Quebec.txt 1 6188 
+1990s Quebec.txt 1 8761 
+slim Quebec.txt 1 6480 
+bombardier Quebec.txt 2 8523 8528 
+c$319,348 Quebec.txt 1 8273 
+oecd Quebec.txt 1 9297 
+periodic Quebec.txt 1 8072 
+altitude Quebec.txt 3 935 1709 1925 
+initial Quebec.txt 1 3687 
+legislation Quebec.txt 1 5685 
+sovereign Quebec.txt 1 4077 
+nova Quebec.txt 3 131 5377 5490 
+why Quebec.txt 1 13096 
+conservation Quebec.txt 3 2882 11965 12007 
+author Quebec.txt 1 11162 
+way Quebec.txt 2 4572 10876 
+resulted Quebec.txt 2 4547 5225 
+music Quebec.txt 12 10493 10498 10506 10560 10571 10604 10612 10615 10636 10649 10693 10761 
+was Quebec.txt 60 569 675 720 807 850 2375 2444 3679 3774 3827 3953 3984 4097 4162 4485 4518 4628 4638 4662 4802 4918 4927 5109 5260 5469 5570 5590 5597 5628 5745 5869 5881 6033 6106 6129 6310 6318 6476 6716 6733 6739 6745 7031 8018 8035 8272 8440 9479 9624 10704 10754 11091 11156 11907 12567 12574 12628 12645 12813 13082 
+war Quebec.txt 16 595 3971 3988 4013 4167 4177 4239 4262 4277 4290 4306 5553 5557 5564 5622 5928 
+head Quebec.txt 3 3794 6674 6678 
+medium Quebec.txt 1 1708 
+offering Quebec.txt 1 5073 
+snowy Quebec.txt 5 288 1999 2102 2600 2728 
+1,652 Quebec.txt 1 1259 
+referendums Quebec.txt 1 351 
+ceded Quebec.txt 2 656 4373 
+pierre Quebec.txt 6 4363 5718 5873 5924 6119 12243 
+peninsula Quebec.txt 7 1674 1693 1736 1750 1919 1934 3666 
+failure Quebec.txt 2 3696 6350 
+heat Quebec.txt 1 2334 
+laberge Quebec.txt 1 11295 
+baie-saint-paul Quebec.txt 1 2189 
+beech Quebec.txt 1 3395 
+louis-joseph Quebec.txt 2 4343 5179 
+surrender Quebec.txt 1 3955 
+assented Quebec.txt 1 6284 
+sent Quebec.txt 1 4894 
+low-lying Quebec.txt 1 1381 
+protestant Quebec.txt 1 7452 
+dowry Quebec.txt 1 4033 
+full Quebec.txt 1 7181 
+sovereignty-association Quebec.txt 3 6056 6105 6194 
+villeneuve Quebec.txt 3 11590 12708 12711 
+equalization Quebec.txt 1 6833 
+tell Quebec.txt 1 12173 
+decorate Quebec.txt 1 11639 
+southernmost Quebec.txt 1 2924 
+premire Quebec.txt 1 7556 
+furs Quebec.txt 1 3849 
+liberal Quebec.txt 2 5789 6412 
+classic Quebec.txt 1 12297 
+request Quebec.txt 2 5917 6166 
+covers Quebec.txt 7 1339 1904 2987 3065 3129 3183 9111 
+xiii Quebec.txt 2 3924 4029 
+exist Quebec.txt 1 3627 
+promised Quebec.txt 1 6121 
+ecoregion Quebec.txt 2 1377 1774 
+ericsson Quebec.txt 1 8713 
+negotiations Quebec.txt 2 4006 6271 
+regime Quebec.txt 1 5729 
+radically Quebec.txt 2 959 10216 
+pro-sovereignty Quebec.txt 1 5785 
+dotted Quebec.txt 1 1684 
+no Quebec.txt 8 3618 4236 4928 6127 6447 6484 7509 7520 
+michels Quebec.txt 1 1072 
+when Quebec.txt 8 3360 4235 4771 5559 5860 6323 7409 12906 
+vaillancourt Quebec.txt 1 11674 
+reality Quebec.txt 1 5908 
+successful Quebec.txt 1 11341 
+setting Quebec.txt 2 5730 10394 
+role Quebec.txt 5 340 8869 9374 9487 10621 
+papers Quebec.txt 1 9465 
+unwilling Quebec.txt 1 4943 
+garneau Quebec.txt 2 9508 11160 
+diberville Quebec.txt 1 1263 
+scored Quebec.txt 1 5246 
+unibroue Quebec.txt 1 12538 
+lindustrie Quebec.txt 1 10744 
+saint-flicien Quebec.txt 1 1078 
+football Quebec.txt 1 12685 
+pulperie Quebec.txt 1 12068 
+intent Quebec.txt 1 5113 
+muse Quebec.txt 1 12286 
+establish Quebec.txt 1 12136 
+professional Quebec.txt 2 10821 12713 
+authorities Quebec.txt 1 4178 
+neuroscience Quebec.txt 1 9657 
+diamonds Quebec.txt 1 9050 
+billion Quebec.txt 8 8274 8599 8631 8794 8809 8886 9039 9238 
+younger Quebec.txt 1 6223 
+faster Quebec.txt 1 8424 
+duroc Quebec.txt 1 2847 
+flag Quebec.txt 5 12920 12937 12951 12958 12967 
+daily Quebec.txt 3 2230 9977 12219 
+cohesion Quebec.txt 1 10478 
+sept-les Quebec.txt 1 9952 
+championships Quebec.txt 1 12738 
+text Quebec.txt 1 8096 
+time Quebec.txt 11 1229 3469 4234 4464 6101 6474 8333 11828 11830 12650 12754 
+conferred Quebec.txt 1 6782 
+others Quebec.txt 7 9651 11275 11645 12289 12419 12544 13179 
+roi Quebec.txt 1 4139 
+managed Quebec.txt 1 9783 
+chain Quebec.txt 1 1894 
+dance Quebec.txt 3 10495 10502 10825 
+trappe Quebec.txt 1 12583 
+particular Quebec.txt 1 7303 
+lalibert Quebec.txt 2 9513 11569 
+leads Quebec.txt 1 6690 
+roy Quebec.txt 1 11289 
+matrox Quebec.txt 1 8738 
+saaq Quebec.txt 1 9792 
+subarctic Quebec.txt 3 1766 2092 2294 
+battle Quebec.txt 4 3959 4732 4784 12933 
+functioned Quebec.txt 1 8030 
+apollo Quebec.txt 1 9176 
+abundant Quebec.txt 3 2045 3083 8258 
+displaying Quebec.txt 1 12203 
+superpower Quebec.txt 1 10055 
+layers Quebec.txt 1 1435 
+mont-royal Quebec.txt 2 5663 8222 
+1949 Quebec.txt 1 5539 
+william Quebec.txt 1 9642 
+brenda Quebec.txt 1 9648 
+zone Quebec.txt 1 3142 
+filming Quebec.txt 1 10958 
+1943 Quebec.txt 1 5551 
+father Quebec.txt 1 464 
+bordered Quebec.txt 1 54 
+1944 Quebec.txt 2 5638 5708 
+crater Quebec.txt 1 1704 
+environment Quebec.txt 2 1187 9136 
+finally Quebec.txt 2 5541 6319 
+histoires Quebec.txt 1 12259 
+electricity Quebec.txt 2 10073 10126 
+rhythm Quebec.txt 1 10565 
+marks Quebec.txt 1 8091 
+sovereignty Quebec.txt 4 353 5942 6470 7301 
+circumstances Quebec.txt 1 8818 
+dion Quebec.txt 1 10678 
+division Quebec.txt 1 144 
+upriver Quebec.txt 1 2549 
+could Quebec.txt 2 5045 6155 
+navigable Quebec.txt 1 1143 
+trident Quebec.txt 1 11407 
+5.8 Quebec.txt 1 7501 
+duplessis Quebec.txt 1 5699 
+contemporary Quebec.txt 8 3619 10577 10633 10824 11435 11617 11753 11894 
+routier Quebec.txt 1 9777 
+congregation Quebec.txt 1 11939 
+1992 Quebec.txt 1 6398 
+celebrations Quebec.txt 1 10587 
+word Quebec.txt 1 482 
+bibliothque Quebec.txt 1 11926 
+us$37,830 Quebec.txt 1 8188 
+governments Quebec.txt 1 349 
+68,000 Quebec.txt 1 8849 
+level Quebec.txt 3 6933 6937 6941 
+did Quebec.txt 2 5607 6328 
+sedimentary Quebec.txt 1 1437 
+brother Quebec.txt 1 11514 
+christmas Quebec.txt 1 10582 
+e000756679 Quebec.txt 1 4996 
+settle Quebec.txt 1 7416 
+guy Quebec.txt 3 4510 4833 9512 
+upper Quebec.txt 8 683 709 3098 5022 5136 5232 5481 9965 
+revolution Quebec.txt 7 4447 4623 5673 5677 5693 5736 5744 
+cavalia Quebec.txt 1 11768 
+hydro-electric Quebec.txt 1 1645 
+regained Quebec.txt 1 5350 
+1.84 Quebec.txt 1 8452 
+inland Quebec.txt 4 331 1042 1091 2606 
+affiliation Quebec.txt 1 7511 
+winkworth Quebec.txt 1 4990 
+tomcod Quebec.txt 2 2643 2644 
+populating Quebec.txt 1 12341 
+straddle Quebec.txt 1 3092 
+peachey Quebec.txt 1 4988 
+cargo Quebec.txt 1 9862 
+appear Quebec.txt 3 3359 3558 11825 
+filles Quebec.txt 2 4137 12270 
+rocher Quebec.txt 1 11248 
+favour Quebec.txt 3 4388 6221 6227 
+shares Quebec.txt 1 122 
+current Quebec.txt 2 2180 11168 
+health Quebec.txt 1 7721 
+goes Quebec.txt 1 2548 
+international Quebec.txt 5 1862 7082 7098 10328 11053 
+geography Quebec.txt 3 866 869 12633 
+3,328,725 Quebec.txt 1 7806 
+transportation Quebec.txt 3 9705 9727 9759 
+honour Quebec.txt 2 6779 10372 
+muslim Quebec.txt 1 7485 
+french Quebec.txt 57 38 188 523 547 585 647 1124 2563 3688 3697 3813 3852 4055 4089 4132 4146 4259 4279 4323 4341 4579 4582 4591 4714 5049 5116 5347 5614 5960 5969 6210 6501 6688 6776 6949 7588 7632 7658 7751 7795 7861 7902 7968 7990 8051 8060 8081 10432 10713 10919 11039 12187 12339 12385 12782 12887 13086 
+confer Quebec.txt 1 10367 
+water Quebec.txt 8 67 940 972 986 1045 1603 2615 9143 
+corporation Quebec.txt 4 9796 10865 10964 10969 
+unanimously Quebec.txt 1 6585 
+baseball Quebec.txt 1 12714 
+groups Quebec.txt 5 4678 7230 7380 10578 10650 
+alone Quebec.txt 1 7659 
+along Quebec.txt 7 604 1309 1730 1882 3286 3583 5871 
+apica Quebec.txt 1 2427 
+change Quebec.txt 4 4516 4911 5753 6971 
+embcle Quebec.txt 1 11655 
+passengers Quebec.txt 1 9926 
+thirty Quebec.txt 1 3969 
+canadian Quebec.txt 48 7 782 948 1538 1620 1682 1771 1782 2527 2809 2816 2931 3007 3039 3075 3094 3126 3145 3519 4531 5356 5360 6169 6290 6505 6532 6872 6950 7157 7291 7593 7821 8114 8185 8432 8557 8589 8683 9040 9476 9523 9744 9909 9914 10714 12393 12684 12796 
+institute Quebec.txt 1 6880 
+shift Quebec.txt 1 10065 
+commonly Quebec.txt 5 2508 2655 2792 13099 13124 
+example Quebec.txt 1 11255 
+exploitation Quebec.txt 2 8957 9035 
+suggestion Quebec.txt 1 5061 
+romanian Quebec.txt 1 7936 
+raccoon Quebec.txt 1 2522 
+petitioned Quebec.txt 1 4999 
+northeastward Quebec.txt 1 1301 
+montreal Quebec.txt 41 207 222 228 243 1095 1348 1390 2419 5071 5162 6177 7361 7835 8100 8219 8694 9666 9688 10236 10788 10808 10953 11067 11405 11614 11620 11679 11785 11869 12194 12303 12310 12454 12603 12661 12675 12688 12693 12718 12879 13004 
+saguenay Quebec.txt 3 1248 11056 11376 
+emerge Quebec.txt 1 1721 
+churchill Quebec.txt 1 5546 
+hiking Quebec.txt 1 10014 
+proportion Quebec.txt 4 7210 7371 7529 7816 
+marked Quebec.txt 4 315 8063 11262 11556 
+dorlans Quebec.txt 1 2562 
+durham Quebec.txt 1 5259 
+patriots Quebec.txt 3 10711 11188 12063 
+krieghoff Quebec.txt 1 11567 
+deep-water Quebec.txt 1 9852 
+st-jean Quebec.txt 1 13108 
+ballets Quebec.txt 2 10805 10811 
+forefront Quebec.txt 1 10195 
+crisis Quebec.txt 5 5604 5636 5794 5798 5859 
+market Quebec.txt 2 8932 9607 
+perc Quebec.txt 1 11249 
+undergone Quebec.txt 3 4908 8384 10062 
+six-spotted Quebec.txt 1 13051 
+troops Quebec.txt 1 11751 
+working Quebec.txt 6 2877 8673 8719 8728 9661 10350 
+driest Quebec.txt 1 2448 
+callire Quebec.txt 1 12202 
+give Quebec.txt 1 7200 
+saka Quebec.txt 1 11770 
+1967 Quebec.txt 1 12740 
+france Quebec.txt 28 467 551 903 1524 3604 3608 3641 3685 3724 3738 3781 3926 3932 3943 4000 4062 4074 4172 4181 4298 4317 4372 4412 7419 10710 11088 11506 11875 
+territories Quebec.txt 4 49 657 2267 5517 
+live Quebec.txt 6 197 218 3059 5032 7357 10224 
+bombings Quebec.txt 1 5832 
+prey Quebec.txt 1 2719 
+18371838 Quebec.txt 1 11191 
+today Quebec.txt 4 10600 11266 12528 12593 
+hockey Quebec.txt 1 12637 
+commissioner Quebec.txt 1 5866 
+kbec Quebec.txt 2 483 520 
+missionaries Quebec.txt 1 3868 
+laughs Quebec.txt 1 11866 
+beaugrand Quebec.txt 1 11283 
+tundra Quebec.txt 7 317 1756 2927 2952 2973 2986 3028 
+verendrye Quebec.txt 1 3918 
+carnival Quebec.txt 1 11851 
+rpertoire Quebec.txt 1 11919 
+virtue Quebec.txt 1 3152 
+employed Quebec.txt 1 9319 
+cases Quebec.txt 1 4610 
+charest Quebec.txt 1 10391 
+beluga Quebec.txt 1 2573 
+states Quebec.txt 7 111 666 2021 8116 9472 10110 10210 
+preponderance Quebec.txt 1 6499 
+ibm Quebec.txt 1 8735 
+currency Quebec.txt 1 6080 
+mingan Quebec.txt 1 1363 
+local Quebec.txt 8 803 1860 2831 6915 6940 9810 9994 10593 
+originally Quebec.txt 1 489 
+privy Quebec.txt 1 859 
+longitude Quebec.txt 1 1732 
+cat Quebec.txt 1 2496 
+hbert Quebec.txt 1 11565 
+values Quebec.txt 2 10420 10443 
+can Quebec.txt 3 2338 6794 10605 
+growing Quebec.txt 5 2968 3251 3543 4432 4460 
+making Quebec.txt 2 3714 3807 
+fauna Quebec.txt 1 2715 
+guadeloupe Quebec.txt 1 4394 
+dollars Quebec.txt 2 9041 9239 
+breeds Quebec.txt 2 2845 2852 
+bridges Quebec.txt 1 9821 
+claim Quebec.txt 1 7856 
+hydrography Quebec.txt 1 961 
+figure Quebec.txt 1 7770 
+december Quebec.txt 3 2237 4736 12149 
+winston Quebec.txt 1 5545 
+french-speaking Quebec.txt 7 185 4454 4465 4497 4530 5040 10140 
+supremacy Quebec.txt 1 5760 
+heard Quebec.txt 1 13122 
+lgislative Quebec.txt 1 7558 
+council Quebec.txt 9 860 4078 6706 6722 6732 6753 11945 12020 12101 
+allowed Quebec.txt 5 3927 4587 5004 5028 7198 
+clothing Quebec.txt 1 3861 
+occur Quebec.txt 2 2084 13132 
+winter Quebec.txt 10 301 2191 2202 2320 2355 2374 2378 2399 2441 11850 
+soleil Quebec.txt 2 11726 11748 
+attract Quebec.txt 1 11789 
+divided Quebec.txt 5 676 1502 2288 5470 6215 
+exceptional Quebec.txt 1 10376 
+pine Quebec.txt 2 3339 3423 
+sikh Quebec.txt 1 7498 
+1 Quebec.txt 2 9447 12701 
+1.3 Quebec.txt 1 7486 
+fourth Quebec.txt 1 10096 
+familiar Quebec.txt 1 5048 
+militia Quebec.txt 1 5241 
+firmly Quebec.txt 1 8391 
+economy Quebec.txt 17 407 412 1654 5764 8141 8144 8154 8192 8200 8225 8241 8252 8281 8382 8396 8872 9228 
+map Quebec.txt 1 872 
+product Quebec.txt 4 2833 8160 8213 8408 
+jazz Quebec.txt 1 10806 
+explorer Quebec.txt 2 524 3657 
+information Quebec.txt 4 416 8576 8678 9364 
+may Quebec.txt 5 2357 4780 7219 7986 11824 
+southern Quebec.txt 7 1350 1560 1839 1962 2017 2437 2659 
+respective Quebec.txt 1 10380 
+jumonville Quebec.txt 1 4252 
+produce Quebec.txt 3 1060 12504 12588 
+maritime Quebec.txt 3 123 2299 2775 
+date Quebec.txt 1 1515 
+such Quebec.txt 40 413 1554 1687 2078 2176 2567 2617 3332 3354 3382 3418 3747 3854 5659 6076 6825 8088 8709 8733 8752 9361 9396 9741 9829 9906 10512 10941 11100 11201 11321 11347 11562 11651 11701 11758 11842 12044 12238 12705 13159 
+data Quebec.txt 1 2864 
+grow Quebec.txt 1 4443 
+temperate Quebec.txt 1 2262 
+natural Quebec.txt 9 398 1068 2867 4101 8259 8904 8922 8967 10090 
+remember Quebec.txt 1 12812 
+sectors Quebec.txt 5 408 8359 8651 8687 9360 
+jutra Quebec.txt 1 11010 
+sq Quebec.txt 4 1012 3316 6986 9105 
+torngat Quebec.txt 3 1287 1570 9075 
+st Quebec.txt 12 1373 3291 3531 3554 3711 3786 4762 4777 9847 9875 12415 13090 
+provide Quebec.txt 4 1487 1791 8656 9750 
+subdivisions Quebec.txt 3 6900 6904 6909 
+diacritics Quebec.txt 1 8087 
+so Quebec.txt 1 4860 
+expression Quebec.txt 2 10159 12856 
+michel Quebec.txt 1 11292 
+125 Quebec.txt 1 9429 
+shield Quebec.txt 13 949 1539 1579 1618 1621 1683 1740 1772 1783 1843 3040 3095 3520 
+estuary Quebec.txt 4 1164 1216 2532 2552 
+csa Quebec.txt 1 9506 
+durhams Quebec.txt 1 5285 
+mainly Quebec.txt 6 1338 2461 2710 7598 8246 8692 
+years Quebec.txt 17 594 1422 1459 2454 3970 4166 4176 4276 4305 4905 6296 7141 7146 8839 10070 10585 12666 
+stability Quebec.txt 1 4883 
+ended Quebec.txt 1 3991 
+argued Quebec.txt 1 3976 
+cold Quebec.txt 5 286 1997 2100 2158 2336 
+boreal Quebec.txt 6 1777 2932 3008 3076 3127 3146 
+birds Quebec.txt 3 2654 2717 2737 
+jig Quebec.txt 1 10515 
+group Quebec.txt 4 4220 5188 5810 7328 
+formerly Quebec.txt 1 1395 
+acknowledge Quebec.txt 1 6535 
+1838 Quebec.txt 1 5222 
+presence Quebec.txt 1 12082 
+coordinates Quebec.txt 1 13201 
+yorkshire Quebec.txt 1 2849 
+forms Quebec.txt 4 1217 8079 8106 11684 
+platform Quebec.txt 1 5997 
+constitutes Quebec.txt 1 12612 
+policy Quebec.txt 1 5342 
+ozias Quebec.txt 1 11520 
+main Quebec.txt 33 867 954 1959 2002 2875 3450 3605 4173 4420 5150 5358 5674 5795 5936 6643 6901 6943 7184 7538 8133 8142 8814 10077 10129 10496 10830 11081 11765 11917 12291 12759 13061 13156 
+decades Quebec.txt 3 757 9222 11737 
+into Quebec.txt 15 713 722 1020 1160 1179 1503 2289 3500 3709 3784 4038 4444 4788 5295 5471 
+texas Quebec.txt 1 905 
+fleur-de-lys Quebec.txt 1 12764 
+nom Quebec.txt 1 12275 
+centenary Quebec.txt 1 12672 
+disseminate Quebec.txt 1 11912 
+100,000 Quebec.txt 3 5909 9433 9467 
+significance Quebec.txt 1 12170 
+nation Quebec.txt 4 389 3567 6595 6624 
+records Quebec.txt 1 8003 
+qualified Quebec.txt 1 9686 
+half Quebec.txt 6 214 263 997 3445 7735 9091 
+not Quebec.txt 10 3023 4486 4639 4919 6281 6329 7314 7640 7956 10446 
+now Quebec.txt 1 3485 
+1959 Quebec.txt 2 1135 5710 
+discuss Quebec.txt 1 5391 
+nor Quebec.txt 1 7752 
+nos Quebec.txt 1 12283 
+equality Quebec.txt 2 5208 10424 
+name Quebec.txt 4 475 514 530 3673 
+hickory Quebec.txt 1 3407 
+james Quebec.txt 9 68 1035 1056 1827 3521 4336 4505 4987 5861 
+53 Quebec.txt 1 13206 
+establishing Quebec.txt 1 3882 
+acipenser Quebec.txt 1 2628 
+hydrological Quebec.txt 1 1626 
+entirely Quebec.txt 1 3285 
+quarter Quebec.txt 1 10234 
+cornelius Quebec.txt 1 11566 
+coniferous Quebec.txt 1 2934 
+square Quebec.txt 3 1009 3313 9102 
+significantly Quebec.txt 1 247 
+populated Quebec.txt 3 269 912 2609 
+four-season Quebec.txt 1 283 
+s&p Quebec.txt 1 8320 
+cinmathque Quebec.txt 1 10840 
+goose Quebec.txt 1 2745 
+vigneault Quebec.txt 2 10669 13119 
+manifesto Quebec.txt 1 5895 
+speculators Quebec.txt 1 4684 
+year Quebec.txt 8 2048 2971 3062 5902 6729 8293 9420 11833 
+et Quebec.txt 9 2155 9191 10305 10749 11331 11424 11927 12267 12278 
+289,700 Quebec.txt 1 3315 
+plans Quebec.txt 1 9936 
+canada Quebec.txt 74 51 163 173 379 393 444 588 679 684 699 702 712 717 743 761 881 892 2010 2109 2744 2891 4267 4408 4751 4995 5025 5044 5134 5137 5149 5153 5176 5233 5299 5374 5468 5482 5486 5501 5569 5594 5619 5868 6005 6082 6134 6512 6547 6628 6668 6894 7002 7078 7093 7101 7575 7874 8025 8084 8235 8283 8411 8489 9729 9749 9930 10206 10719 10860 10872 11040 11418 12158 12699 
+constitution Quebec.txt 6 6141 6244 6291 6307 6533 7973 
+ultimately Quebec.txt 1 3835 
+7,435,905 Quebec.txt 2 7217 7378 
+factors Quebec.txt 1 9304 
+furthermore Quebec.txt 1 10459 
+increase Quebec.txt 2 9057 9990 
+beaupr Quebec.txt 1 11231 
+78.1 Quebec.txt 1 7602 
+formula Quebec.txt 1 12700 
+receiving Quebec.txt 2 2052 10182 
+shows Quebec.txt 2 7546 13151 
+eagle Quebec.txt 2 2723 2733 
+million Quebec.txt 10 999 1421 1631 7115 7123 8363 8509 9119 9314 9865 
+possibility Quebec.txt 1 4929 
+quite Quebec.txt 1 1544 
+statistics Quebec.txt 1 7001 
+rebel Quebec.txt 1 5244 
+ferron Quebec.txt 1 11597 
+taxed Quebec.txt 1 6854 
+creoles Quebec.txt 1 7928 
+marine Quebec.txt 3 1186 2557 2586 
+explorers Quebec.txt 1 11099 
+advance Quebec.txt 1 8343 
+language Quebec.txt 14 194 4580 5348 5961 5974 6550 7537 7540 7584 7613 7704 7953 7960 10433 
+ministry Quebec.txt 1 10316 
+us$32,408 Quebec.txt 1 8163 
+transition Quebec.txt 1 3141 
+hamel Quebec.txt 1 3616 
+british Quebec.txt 29 706 854 4190 4311 4332 4402 4449 4483 4501 4538 4653 4681 4722 4767 4772 5008 5034 5199 5236 5280 5288 5371 5451 5520 5864 6151 7162 7337 12789 
+motion Quebec.txt 2 383 6607 
+turn Quebec.txt 1 7034 
+place Quebec.txt 6 5403 6361 6472 10801 11662 12876 
+massive Quebec.txt 1 1826 
+ministre Quebec.txt 2 6686 9734 
+support Quebec.txt 5 4458 4817 5713 9954 10296 
+1000 Quebec.txt 2 1948 3170 
+cheese Quebec.txt 2 12557 12592 
+flying Quebec.txt 1 12874 
+revenue Quebec.txt 1 6811 
+spoken Quebec.txt 1 10994 
+lengi Quebec.txt 1 13035 
+symbolic Quebec.txt 2 382 6606 
+one Quebec.txt 25 43 180 735 919 964 3232 4058 4441 4606 4642 5296 5509 7203 7823 7951 8362 8399 8604 9313 9330 9354 9535 9554 10158 12427 
+hopes Quebec.txt 1 9209 
+americans Quebec.txt 3 4723 4793 4806 
+specifically Quebec.txt 1 4925 
+rink Quebec.txt 1 12659 
+habitation Quebec.txt 1 3817 
+vote Quebec.txt 4 6023 6124 6131 6354 
+bobcat Quebec.txt 1 2494 
+message Quebec.txt 1 6049 
+chantecler Quebec.txt 1 2812 
+open Quebec.txt 1 8153 
+george Quebec.txt 4 4212 4743 4892 5090 
+size Quebec.txt 4 775 901 6886 7179 
+sheep Quebec.txt 1 2854 
+city Quebec.txt 31 13 16 210 473 496 1099 1103 1156 1320 2225 2392 3802 4353 5069 5416 5549 6660 8122 8697 10244 10283 10951 11049 11411 11498 11705 11815 11817 11860 12492 12912 
+given Quebec.txt 7 2892 3103 4803 5096 6493 8062 10362 
+personalities Quebec.txt 2 11017 11030 
+district Quebec.txt 2 814 7841 
+pharmaceuticals Quebec.txt 1 9368 
+grackle Quebec.txt 1 2679 
+breed Quebec.txt 1 2806 
+anyone Quebec.txt 2 3945 5084 
+plains Quebec.txt 2 4348 13163 
+fought Quebec.txt 1 5643 
+alfred Quebec.txt 2 11568 11583 
+realization Quebec.txt 1 1053 
+white Quebec.txt 8 3341 3391 3398 3422 12923 12975 12984 13015 
+3,858,943 Quebec.txt 1 6966 
+participated Quebec.txt 1 5581 
+cite Quebec.txt 1 2594 
+gives Quebec.txt 1 8924 
+mining Quebec.txt 5 8763 8906 8939 8951 9955 
+mostly Quebec.txt 5 1758 2742 3377 10580 12863 
+that Quebec.txt 49 769 791 825 1509 1607 1647 1858 1895 2022 3091 3231 3719 3782 3977 4079 4452 4463 4660 4712 4852 5686 5754 5811 5830 6122 6197 6209 6414 6588 6615 6619 6728 6860 6882 7273 7335 7346 7517 7622 8117 9971 10467 11013 11128 11183 11698 11978 12519 12578 
+season Quebec.txt 2 3252 12425 
+broadcast Quebec.txt 1 10982 
+8,164,361 Quebec.txt 1 6960 
+grands Quebec.txt 1 10810 
+attempt Quebec.txt 2 4747 6393 
+than Quebec.txt 44 772 996 1007 1530 2054 2135 2382 2413 2452 2966 2989 3241 3444 3947 4104 4480 6058 6870 7029 7202 7222 7334 7345 7383 7734 7950 8050 8183 8361 8376 8430 8492 8621 8792 8826 9090 9117 9277 9292 9312 9469 9602 9670 9680 
+population Quebec.txt 29 186 994 1971 3277 4085 4109 4156 4473 5041 6958 6975 6991 7006 7076 7110 7247 7320 7401 7425 7505 7596 7606 7652 7682 7761 7805 7884 8131 8137 
+11 Quebec.txt 1 8808 
+10 Quebec.txt 1 2322 
+13 Quebec.txt 2 2328 4329 
+12 Quebec.txt 2 974 8725 
+rugged Quebec.txt 1 3515 
+14 Quebec.txt 2 2326 8793 
+16 Quebec.txt 1 2416 
+18 Quebec.txt 1 2983 
+stand-still Quebec.txt 1 6275 
+transferred Quebec.txt 2 583 762 
+halls Quebec.txt 1 11706 
+protected Quebec.txt 1 2838 
+magnesium Quebec.txt 1 9008 
+were Quebec.txt 28 359 1439 4036 4051 4147 4301 4450 4716 4937 5012 5094 5138 5252 5329 6212 6299 7059 7102 7197 7313 7413 7916 7927 9937 11733 11889 12163 12344 
+and Quebec.txt 478 48 63 70 79 91 96 98 108 117 130 140 155 208 231 254 270 287 304 356 417 421 454 519 628 633 682 701 710 727 752 846 848 882 886 934 936 946 957 1014 1030 1037 1101 1112 1126 1131 1149 1174 1190 1203 1250 1276 1330 1347 1358 1365 1382 1424 1465 1469 1514 1546 1568 1598 1600 1604 1635 1644 1665 1702 1707 1751 1775 1788 1797 1799 1812 1835 1861 1867 1963 1991 1994 1998 2008 2011 2014 2018 2039 2081 2101 2103 2122 2160 2181 2201 2217 2221 2283 2297 2311 2315 2318 2323 2327 2335 2347 2447 2477 2525 2533 2553 2577 2597 2691 2695 2707 2730 2735 2766 2789 2814 2848 2850 2855 2862 2898 2937 2947 3041 3052 3081 3096 3121 3148 3171 3190 3198 3245 3257 3268 3346 3408 3424 3438 3457 3463 3474 3479 3489 3511 3526 3546 3573 3576 3588 3595 3597 3667 3708 3799 3834 3842 3860 3866 3896 3901 3913 3938 4049 4111 4120 4152 4168 4192 4260 4299 4320 4364 4482 4507 4533 4569 4581 4594 4637 4685 4711 4760 4782 4815 4854 4993 5023 5036 5052 5070 5117 5135 5181 5214 5231 5266 5273 5315 5320 5323 5382 5483 5489 5494 5514 5533 5540 5555 5615 5639 5669 5700 5720 5751 5780 5799 5828 5834 5878 5913 5933 5940 5983 5991 6031 6088 6203 6208 6222 6253 6431 6497 6521 6551 6634 6641 6651 6669 6723 6735 6785 6821 6829 6844 6914 6948 7026 7116 7144 7164 7195 7218 7263 7311 7341 7462 7475 7495 7618 7693 7722 7796 7860 7903 7940 7967 7981 7983 7995 8002 8026 8043 8101 8119 8152 8178 8207 8264 8295 8346 8357 8371 8453 8467 8482 8490 8501 8503 8517 8578 8580 8618 8649 8664 8695 8712 8737 8783 8815 8883 8899 8901 8981 8997 9010 9014 9073 9121 9144 9154 9160 9171 9205 9223 9233 9267 9271 9296 9300 9323 9367 9369 9379 9399 9416 9443 9473 9511 9530 9546 9584 9650 9658 9673 9683 9720 9723 9747 9757 9771 9797 9807 9812 9826 9837 9863 9912 9931 9956 9987 10001 10018 10044 10089 10107 10111 10173 10207 10237 10257 10275 10293 10319 10327 10347 10371 10427 10434 10438 10464 10479 10494 10501 10520 10550 10561 10583 10591 10643 10647 10651 10672 10676 10683 10712 10770 10784 10799 10812 10828 10835 10849 10881 10891 10898 10908 10947 10972 10978 10989 10993 11016 11023 11033 11038 11061 11079 11112 11180 11194 11238 11250 11259 11265 11298 11310 11351 11397 11419 11444 11469 11516 11522 11537 11541 11553 11595 11631 11665 11688 11711 11718 11755 11771 11795 11870 11882 11925 11934 11966 11985 11991 12035 12074 12133 12142 12198 12206 12227 12250 12324 12354 12386 12459 12510 12535 12542 12551 12623 12634 12662 12709 12712 12745 12795 12800 12838 13049 13123 13136 13138 13148 
+gathering Quebec.txt 1 3510 
+canadien Quebec.txt 1 4222 
+san Quebec.txt 1 11676 
+remained Quebec.txt 2 4092 5310 
+1927 Quebec.txt 1 841 
+turned Quebec.txt 1 4787 
+locations Quebec.txt 1 11713 
+seabirds Quebec.txt 1 1175 
+13th Quebec.txt 1 9257 
+episcopal Quebec.txt 1 12131 
+spectacle Quebec.txt 1 10748 
+saw Quebec.txt 2 2407 5755 
+any Quebec.txt 7 6266 7064 7820 7984 10449 10456 11743 
+accounted Quebec.txt 2 8765 8858 
+form Quebec.txt 6 5335 6593 6622 10078 11429 12971 
+encompassing Quebec.txt 1 8614 
+offer Quebec.txt 2 5275 9972 
+venue Quebec.txt 1 11369 
+iron Quebec.txt 2 8918 8995 
+maintain Quebec.txt 2 4590 5046 
+interior Quebec.txt 2 1114 3875 
+butterfly Quebec.txt 1 13017 
+200 Quebec.txt 2 3255 5100 
+aspen Quebec.txt 1 3437 
+theatre Quebec.txt 6 10280 11080 11356 11403 11408 11415 
+206 Quebec.txt 1 3054 
+track Quebec.txt 1 12741 
+monteregian Quebec.txt 1 1393 
+complainte Quebec.txt 1 11219 
+falls Quebec.txt 1 1073 
+paix Quebec.txt 1 12248 
+exploited Quebec.txt 1 8990 
+successive Quebec.txt 1 1587 
+contrasts Quebec.txt 1 7051 
+terroir Quebec.txt 1 11308 
+america Quebec.txt 12 1117 2038 4295 5373 5453 6153 9694 10144 10189 12188 12343 12566 
+winters Quebec.txt 5 289 327 2000 2096 2159 
+dramatique Quebec.txt 1 11426 
+democratic Quebec.txt 2 6424 10465 
+especially Quebec.txt 2 1938 12476 
+considered Quebec.txt 4 157 9328 9352 9611 
+average Quebec.txt 11 1924 2304 2395 2482 2977 3218 6873 8186 8265 8450 9294 
+later Quebec.txt 7 3475 3562 4508 4574 5891 6566 12498 
+archaeology Quebec.txt 1 12197 
+reforming Quebec.txt 1 6133 
+atlantic Quebec.txt 9 1022 1092 1110 1147 2041 2633 2646 2764 3706 
+abraham Quebec.txt 2 4350 13162 
+accented Quebec.txt 1 8105 
+laws Quebec.txt 3 5035 7980 11974 
+rating Quebec.txt 1 8306 
+show Quebec.txt 1 11722 
+abitibi-tmiscamingue Quebec.txt 2 1663 3320 
+merit Quebec.txt 1 6762 
+gauvreau Quebec.txt 1 12244 
+louisbourg Quebec.txt 1 4326 
+southwestern Quebec.txt 1 1304 
+aggressive Quebec.txt 1 4184 
+maine Quebec.txt 1 113 
+ground Quebec.txt 1 930 
+spoons Quebec.txt 1 10547 
+vieux-qubec Quebec.txt 1 10238 
+ratio Quebec.txt 1 8287 
+gulf Quebec.txt 5 87 1026 1181 1371 2534 
+title Quebec.txt 1 2802 
+proclamation Quebec.txt 3 574 597 4404 
+gull Quebec.txt 1 2755 
+3 Quebec.txt 6 980 8462 8658 9278 11046 12653 
+considerable Quebec.txt 2 6632 7784 
+examples Quebec.txt 1 10489 
+only Quebec.txt 20 145 179 446 990 2964 5972 6156 6279 7072 7229 7379 7410 7592 7877 7925 8020 8058 8819 9018 12515 
+going Quebec.txt 2 4487 5422 
+black Quebec.txt 3 2475 3344 11214 
+dancing Quebec.txt 2 10522 11225 
+equipped Quebec.txt 1 9626 
+fort Quebec.txt 2 4324 12056 
+dispute Quebec.txt 1 8845 
+ranking Quebec.txt 1 8941 
+narrows Quebec.txt 2 488 502 
+pastrami Quebec.txt 1 12466 
+samuel Quebec.txt 5 460 525 3771 3973 12907 
+designated Quebec.txt 2 7957 12164 
+lilies Quebec.txt 1 12977 
+mission Quebec.txt 2 10870 11980 
+fortifications Quebec.txt 1 4205 
+cannot Quebec.txt 1 10452 
+inuit Quebec.txt 6 832 1761 3480 3569 7265 10685 
+nearly Quebec.txt 5 897 7316 9100 10028 12531 
+portions Quebec.txt 1 765 
+installed Quebec.txt 1 11480 
+neither Quebec.txt 1 7750 
+blends Quebec.txt 1 10165 
+prime Quebec.txt 3 5922 6561 6610 
+regarding Quebec.txt 4 6513 6548 7296 10409 
+resource Quebec.txt 1 9958 
+resorts Quebec.txt 1 1869 
+limenitis Quebec.txt 1 13018 
+conqute Quebec.txt 1 4288 
+7,300 Quebec.txt 1 8616 
+morning Quebec.txt 1 4228 
+clowns Quebec.txt 1 11807 
+65,085 Quebec.txt 1 7253 
+7,125,580 Quebec.txt 1 7536 
+where Quebec.txt 6 485 497 1785 3828 8595 13169 
+village Quebec.txt 2 12047 12052 
+arrival Quebec.txt 2 458 4840 
+declared Quebec.txt 3 5563 7686 13071 
+seat Quebec.txt 1 544 
+relative Quebec.txt 1 6883 
+elected Quebec.txt 2 692 5948 
+namely Quebec.txt 1 2807 
+seal Quebec.txt 3 2580 2582 3577 
+sport Quebec.txt 2 12641 12643 
+caniapiscau Quebec.txt 1 1048 
+encouraged Quebec.txt 1 4869 
+invoked Quebec.txt 1 5926 
+farmers Quebec.txt 1 4148 
+federal Quebec.txt 7 6389 6558 6837 7839 8129 10863 10967 
+subsequent Quebec.txt 1 6295 
+grard Quebec.txt 1 11486 
+sites Quebec.txt 3 12033 12156 12162 
+yves Quebec.txt 1 11442 
+boundaries Quebec.txt 2 795 820 
+behind Quebec.txt 3 1609 7159 8205 
+un Quebec.txt 1 11329 
+between Quebec.txt 16 206 677 844 1145 1902 2309 2321 3143 4117 4524 5613 5648 8637 9457 10425 12507 
+reading Quebec.txt 1 13190 
+across Quebec.txt 1 10929 
+cte-nord Quebec.txt 2 1202 1666 
+campaign Quebec.txt 1 6118 
+infrastructure Quebec.txt 2 8263 9704 
+jobs Quebec.txt 3 8646 8891 9699 
+august Quebec.txt 1 5566 
+parent Quebec.txt 1 12955 
+era Quebec.txt 3 10204 11142 11264 
+style Quebec.txt 1 8115 
+599,230 Quebec.txt 1 7676 
+awards Quebec.txt 3 6758 11011 11026 
+singers Quebec.txt 2 10646 10664 
+article Quebec.txt 19 3 868 3451 3606 4174 4421 5151 5359 5675 6902 7185 7539 8134 8143 10130 11082 12292 12760 13062 
+cities Quebec.txt 3 281 1659 13145 
+concentrated Quebec.txt 1 235 
+reaction Quebec.txt 1 5587 
+apdq Quebec.txt 1 10902 
+marc-aurle Quebec.txt 2 11570 11572 
+haute-gaspsie Quebec.txt 1 1528 
+iroquoians Quebec.txt 1 3533 
+many Quebec.txt 34 430 1230 2070 2434 2770 2851 3056 3765 3851 4703 4940 5641 5656 5670 7280 8986 8999 9011 10510 10592 10652 10731 11204 11256 11340 11633 11637 12214 12325 12375 12390 12437 12500 12543 
+region Quebec.txt 10 259 920 1293 1321 1725 1744 1872 2170 2207 3693 
+mtis Quebec.txt 1 7260 
+according Quebec.txt 5 2212 7762 7862 8312 8472 
+molson Quebec.txt 1 12539 
+propaganda Quebec.txt 1 5827 
+mont Quebec.txt 4 1262 1667 2426 9621 
+railway Quebec.txt 2 9919 9948 
+17631791 Quebec.txt 1 25 
+traded Quebec.txt 2 3593 3847 
+comes Quebec.txt 1 478 
+among Quebec.txt 20 1239 1942 2104 2583 2652 4158 6503 7060 7156 7393 7636 8942 9632 10285 11203 11274 11354 11749 12288 12418 
+solving Quebec.txt 1 4966 
+colony Quebec.txt 4 548 586 4142 4890 
+period Quebec.txt 3 5747 8636 12323 
+pop Quebec.txt 1 10645 
+60 Quebec.txt 3 2453 8583 8715 
+62 Quebec.txt 1 8554 
+grants Quebec.txt 1 5098 
+je Quebec.txt 2 12805 12808 
+moreover Quebec.txt 2 2818 9042 
+poll Quebec.txt 1 13008 
+labrador Quebec.txt 7 97 849 1277 1673 1735 2179 9962 
+late Quebec.txt 2 8760 13181 
+arts Quebec.txt 11 10304 10803 11374 11473 11495 11600 11612 11624 11683 11904 11915 
+corriveau Quebec.txt 1 11223 
+dallaire Quebec.txt 1 11586 
+marc Quebec.txt 1 9507 
+west Quebec.txt 4 57 238 703 7832 
+punished Quebec.txt 1 4812 
+combined Quebec.txt 1 290 
+peaceful Quebec.txt 1 3741 
+borders Quebec.txt 2 124 643 
+500 Quebec.txt 2 1928 9598 
+music-of-mouth Quebec.txt 1 10543 
+avian Quebec.txt 2 2714 2777 
+offered Quebec.txt 1 7728 
+formed Quebec.txt 6 1414 1440 4467 5139 5184 5723 
+squash Quebec.txt 1 3547 
+accessibility Quebec.txt 1 9992 
+tiger Quebec.txt 1 13052 
+stephen Quebec.txt 1 6612 
+dramatic Quebec.txt 2 4910 5749 
+minister Quebec.txt 6 5790 5877 5923 6248 6562 6611 
+declaration Quebec.txt 3 4237 5204 5216 
+94.4 Quebec.txt 1 7647 
+former Quebec.txt 3 5465 5788 12717 
+those Quebec.txt 6 4339 4534 5439 7160 7637 9603 
+lesage Quebec.txt 1 5739 
+double-crested Quebec.txt 1 2747 
+soccer Quebec.txt 1 12690 
+abies Quebec.txt 1 3335 
+these Quebec.txt 11 429 697 2914 3591 4034 4540 5462 7776 8686 11750 12161 
+mount Quebec.txt 1 1268 
+worried Quebec.txt 1 4451 
+prominence Quebec.txt 1 8064 
+engineering Quebec.txt 1 9417 
+canoes Quebec.txt 1 3871 
+ongoing Quebec.txt 1 4005 
+promising Quebec.txt 1 6051 
+situation Quebec.txt 2 4902 4957 
+margin Quebec.txt 2 371 6898 
+bombus Quebec.txt 1 13047 
+27,985 Quebec.txt 1 7259 
+symphonique Quebec.txt 2 10767 10773 
+elgin Quebec.txt 1 5333 
+crooners Quebec.txt 1 10648 
+conferences Quebec.txt 1 5389 
+eventually Quebec.txt 1 4546 
+characteristics Quebec.txt 1 11533 
+strait Quebec.txt 2 78 2949 
+mill Quebec.txt 1 12067 
+sleeping Quebec.txt 1 4224 
+nationales Quebec.txt 1 11929 
+good Quebec.txt 1 11944 
+habitants Quebec.txt 1 4151 
+mikmaq Quebec.txt 1 3529 
+6,678 Quebec.txt 1 9883 
+beaver Quebec.txt 1 2528 
+technology Quebec.txt 10 8372 8483 8518 8679 9155 9206 9301 9324 9365 9444 
+ship Quebec.txt 1 12916 
+breton Quebec.txt 1 3656 
+different Quebec.txt 7 917 960 2900 3018 8675 8779 12598 
+harsh Quebec.txt 1 3580 
+april Quebec.txt 2 5168 9934 
+11.5 Quebec.txt 1 3184 
+granted Quebec.txt 1 690 
+1837 Quebec.txt 1 5172 
+same Quebec.txt 5 1228 9752 10869 11979 12366 
+corporations Quebec.txt 1 12134 
+gravel Quebec.txt 1 1597 
+fte Quebec.txt 1 13057 
+17.5 Quebec.txt 1 7896 
+figures Quebec.txt 1 7919 
+document Quebec.txt 1 6149 
+events Quebec.txt 5 4632 5853 11071 11841 12729 
+tried Quebec.txt 1 12502 
+status Quebec.txt 4 5352 5393 6492 6516 
+oil Quebec.txt 1 10087 
+centuries Quebec.txt 4 1133 1225 12512 12559 
+1950s Quebec.txt 2 10667 11457 
+statut Quebec.txt 2 6489 6517 
+arctic Quebec.txt 10 1032 1755 2127 2152 2173 2188 2293 2498 2636 3581 
+births Quebec.txt 1 4102 
+producers Quebec.txt 1 10897 
+running Quebec.txt 1 9949 
+nunavik Quebec.txt 1 1746 
+statue Quebec.txt 1 11667 
+tradition Quebec.txt 2 11200 11314 
+renewable Quebec.txt 3 984 9394 10122 
+relies Quebec.txt 1 10112 
+mohawk Quebec.txt 2 3566 7306 
+borduas Quebec.txt 1 11594 
+largely Quebec.txt 3 3740 4098 12630 
+groundhog Quebec.txt 1 2518 
+wolfe Quebec.txt 1 4337 
+constitutional Quebec.txt 3 669 6148 6268 
+roughly Quebec.txt 1 9242 
+severe Quebec.txt 4 329 2075 2082 4115 
+without Quebec.txt 3 3958 5212 11742 
+poplar Quebec.txt 1 1789 
+sculptors Quebec.txt 1 11689 
+moodys Quebec.txt 1 8315 
+whereas Quebec.txt 1 987 
+bodies Quebec.txt 1 65 
+anglo-french Quebec.txt 1 4012 
+summer Quebec.txt 6 2074 2199 2308 2346 11861 12733 
+outdoor Quebec.txt 2 10259 12624 
+livestock Quebec.txt 2 2799 2839 
+softwood Quebec.txt 1 8843 
+being Quebec.txt 10 689 4717 7654 7669 8525 10024 10284 10595 11741 12166 
+tip Quebec.txt 1 2257 
+canada-wide Quebec.txt 1 7022 
+actions Quebec.txt 1 5224 
+unofficial Quebec.txt 1 13128 
+inception Quebec.txt 1 8076 
+baldwin Quebec.txt 1 5319 
+conservatoire Quebec.txt 1 11421 
+wifes Quebec.txt 1 4032 
+ungava Quebec.txt 8 80 816 1038 1573 1692 1749 2945 3589 
+grounded Quebec.txt 1 8392 
+rose Quebec.txt 2 10192 11252 
+except Quebec.txt 2 1384 2138 
+mtiers Quebec.txt 1 11629 
+interested Quebec.txt 1 12345 
+bloc Quebec.txt 1 6373 
+4 Quebec.txt 2 5567 12974 
+entitled Quebec.txt 1 7711 
+kingdom Quebec.txt 4 5448 5562 6145 6162 
+9,469 Quebec.txt 1 9406 
+aspects Quebec.txt 1 12391 
+around Quebec.txt 5 278 494 2401 3628 11530 
+marcus Quebec.txt 1 9158 
+2014-2015 Quebec.txt 1 8294 
+dart Quebec.txt 2 11425 11630 
+early Quebec.txt 5 507 1123 4227 10530 12336 
+venues Quebec.txt 2 11393 11781 
+world Quebec.txt 14 5552 5556 5621 8203 8931 9260 9332 9357 9538 9619 9634 10103 11058 12737 
+7.824 Quebec.txt 1 9237 
+lady Quebec.txt 2 11942 13031 
+printmakers Quebec.txt 1 11687 
+opra Quebec.txt 2 10781 10786 
+either Quebec.txt 2 4244 9344 
+clay Quebec.txt 1 1613 
+output Quebec.txt 1 451 
+market-based Quebec.txt 1 8151 
+chapdelaine Quebec.txt 1 11328 
+reduced Quebec.txt 1 7175 
+185,000 Quebec.txt 1 9801 
+exposed Quebec.txt 1 1547 
+quebecers Quebec.txt 8 5642 6205 6211 8364 8510 9496 10732 12438 
+walleye Quebec.txt 1 2626 
+pacific Quebec.txt 1 9915 
+monks Quebec.txt 1 12580 
+provided Quebec.txt 5 1141 4559 9731 10574 12096 
+passions Quebec.txt 1 12679 
+cp Quebec.txt 1 9916 
+prolific Quebec.txt 1 1479 
+lip-destruction Quebec.txt 1 10545 
+colonial Quebec.txt 7 536 3814 4544 4879 4954 5293 7407 
+recorded Quebec.txt 3 2449 7607 7621 
+legal Quebec.txt 2 5009 5351 
+conservative Quebec.txt 1 5695 
+pioneer Quebec.txt 1 8538 
+exit Quebec.txt 1 4009 
+lunar Quebec.txt 1 9177 
+provides Quebec.txt 1 10866 
+restoring Quebec.txt 2 641 4931 
+hydroelectricity Quebec.txt 1 10100 
+artis Quebec.txt 1 11022 
+assembly Quebec.txt 10 694 6015 6581 6698 6726 6738 6743 7572 7994 8007 
+scientific Quebec.txt 7 8344 8356 9336 9378 9407 9430 9464 
+power Quebec.txt 5 1062 5647 6463 8168 9401 
+industrialized Quebec.txt 2 7065 8238 
+equivalent Quebec.txt 1 9244 
+aquin Quebec.txt 1 11291 
+assemble Quebec.txt 2 6700 7557 
+hidden Quebec.txt 1 13209 
+notably Quebec.txt 1 1695 
+sports Quebec.txt 4 12602 12609 12622 12682 
+leadership Quebec.txt 1 6380 
+references Quebec.txt 1 13186 
+lachine Quebec.txt 1 12072 
+sixty Quebec.txt 1 6183 
+dumont Quebec.txt 1 6430 
+1939 Quebec.txt 2 5649 12766 
+francis Quebec.txt 2 3638 3676 
+on Quebec.txt 56 352 468 1074 1271 1831 2360 2866 2940 3011 3494 3508 3886 4218 4315 4327 4346 4738 5076 5164 5270 5565 5582 6055 6083 6178 6453 6469 6575 6596 7566 8052 8247 8480 8929 9231 9605 9975 10118 10384 10404 10481 11660 12124 12402 12524 12651 12786 12792 12891 12902 12925 12978 12990 12994 13109 13133 
+central Quebec.txt 7 162 321 891 1566 1781 2019 2088 
+origins Quebec.txt 1 7189 
+stations Quebec.txt 3 10041 10925 10981 
+of Quebec.txt 686 23 44 50 61 66 88 94 105 112 148 161 172 215 227 239 242 264 311 344 376 378 405 409 459 465 471 512 549 567 575 580 587 607 615 620 635 654 659 671 716 725 736 760 766 776 801 812 815 823 830 838 857 870 873 880 890 902 907 928 965 970 975 981 992 1027 1044 1054 1086 1115 1122 1154 1168 1171 1182 1207 1220 1237 1282 1306 1312 1342 1352 1369 1372 1400 1436 1444 1452 1463 1482 1489 1498 1507 1527 1532 1577 1595 1612 1616 1628 1651 1662 1697 1738 1745 1753 1768 1779 1817 1841 1853 1873 1879 1886 1954 1968 2026 2029 2036 2059 2067 2087 2126 2141 2148 2219 2228 2258 2268 2332 2369 2385 2390 2428 2436 2442 2463 2530 2535 2540 2545 2604 2662 2718 2773 2785 2803 2853 2860 2869 2895 2907 2910 2943 2961 2980 2991 2994 3005 3021 3037 3048 3057 3068 3072 3084 3100 3109 3131 3134 3153 3162 3168 3185 3188 3193 3215 3221 3237 3265 3270 3272 3275 3282 3289 3298 3301 3307 3330 3351 3371 3379 3431 3446 3453 3470 3517 3536 3552 3586 3611 3621 3640 3674 3683 3756 3776 3795 3806 3811 3876 3925 3930 3956 3981 4003 4007 4043 4057 4073 4128 4144 4155 4170 4201 4204 4221 4238 4291 4334 4340 4349 4357 4361 4370 4384 4389 4393 4405 4410 4416 4426 4471 4474 4477 4493 4528 4535 4550 4554 4562 4567 4577 4597 4607 4613 4616 4620 4635 4643 4649 4664 4676 4691 4707 4733 4750 4785 4818 4837 4841 4867 4930 4968 4971 4975 4979 4982 5021 5042 5062 5080 5099 5114 5128 5131 5157 5167 5174 5197 5205 5217 5219 5298 5305 5325 5343 5370 5388 5438 5445 5459 5461 5467 5479 5500 5605 5626 5637 5655 5683 5697 5714 5748 5758 5767 5775 5783 5826 5918 5952 5958 5975 5979 5998 6004 6012 6021 6094 6104 6139 6185 6201 6249 6288 6305 6315 6326 6370 6381 6397 6419 6436 6500 6519 6569 6582 6591 6602 6646 6653 6667 6675 6679 6707 6719 6756 6761 6767 6778 6804 6809 6905 6927 6946 6959 6964 6976 6982 6993 7024 7035 7048 7063 7074 7077 7081 7089 7092 7097 7111 7139 7161 7187 7211 7215 7236 7248 7281 7299 7318 7321 7336 7347 7372 7376 7386 7406 7503 7530 7534 7542 7573 7585 7604 7631 7649 7680 7719 7759 7786 7803 7817 7819 7834 7842 7853 7873 7882 7888 7890 7897 7979 7998 8004 8071 8080 8136 8145 8162 8187 8193 8218 8226 8230 8234 8242 8307 8352 8369 8378 8400 8405 8418 8426 8444 8451 8460 8463 8515 8521 8539 8555 8584 8587 8605 8659 8677 8682 8748 8769 8821 8841 8854 8861 8873 8879 8896 8908 8914 8917 8921 8958 8969 9020 9024 9033 9047 9081 9092 9099 9114 9127 9131 9139 9141 9146 9149 9175 9181 9215 9245 9247 9254 9263 9279 9309 9331 9355 9389 9412 9425 9439 9448 9494 9504 9521 9536 9543 9555 9562 9577 9639 9698 9710 9725 9799 9805 9845 9857 9867 9873 9887 9902 9942 9983 9993 10011 10039 10059 10079 10099 10121 10132 10139 10150 10160 10176 10196 10205 10227 10235 10248 10291 10314 10317 10334 10396 10407 10421 10430 10436 10472 10484 10490 10499 10503 10532 10557 10603 10658 10686 10707 10738 10823 10833 10852 10859 10879 10896 10900 10906 10912 10916 10934 10952 10959 11008 11018 11031 11044 11052 11064 11084 11098 11133 11143 11151 11166 11169 11177 11190 11208 11216 11227 11234 11240 11251 11370 11373 11387 11417 11483 11488 11493 11504 11526 11534 11547 11560 11601 11610 11616 11622 11643 11681 11690 11708 11800 11803 11873 11937 11940 11943 11949 11959 11968 12009 12015 12021 12028 12042 12053 12061 12083 12089 12093 12102 12106 12122 12127 12144 12148 12157 12167 12177 12182 12186 12196 12212 12221 12230 12242 12294 12314 12361 12364 12392 12428 12431 12453 12474 12480 12581 12584 12616 12621 12670 12673 12762 12769 12775 12819 12821 12833 12836 12885 12894 12921 12934 12938 12944 12956 13023 13044 13171 
+industry Quebec.txt 17 424 4400 8542 8559 8591 8764 8798 8834 8847 8857 8865 8888 10226 10354 10762 11035 11075 
+militants Quebec.txt 1 5897 
+meal Quebec.txt 1 12449 
+tremendous Quebec.txt 1 8385 
+wolf Quebec.txt 1 2492 
+cartier Quebec.txt 5 3613 3622 3659 11103 12901 
+act Quebec.txt 15 614 670 790 822 4419 4423 4553 4558 4585 4627 4672 5304 5930 6154 7974 
+mixed Quebec.txt 4 1485 2935 3137 3181 
+biens Quebec.txt 1 11998 
+or Quebec.txt 24 639 904 1681 2363 2776 4150 4952 6356 6525 6699 6788 7234 7359 7660 7708 7989 9347 10544 11779 11811 12192 12285 12331 13165 
+road Quebec.txt 3 8916 9780 10023 
+bike Quebec.txt 1 10019 
+lands Quebec.txt 8 800 829 3983 3997 4024 4046 4693 6923 
+fertile Quebec.txt 2 3259 3550 
+burning Quebec.txt 1 5156 
+devoting Quebec.txt 1 8461 
+saguenay-lac-saint-jean Quebec.txt 1 11951 
+communication Quebec.txt 1 418 
+image Quebec.txt 1 7545 
+cicindela Quebec.txt 1 13054 
+titanium Quebec.txt 1 9005 
+involvement Quebec.txt 1 5654 
+strip Quebec.txt 1 1878 
+insolation Quebec.txt 1 2215 
+pharmaceutical Quebec.txt 3 423 9674 9702 
+prepare Quebec.txt 1 5267 
+area Quebec.txt 27 139 223 493 603 1005 1481 1804 2389 2993 3071 3133 3158 3187 3208 3230 3281 3300 3306 3809 4209 6981 7825 7848 9098 9110 9130 9152 
+whales Quebec.txt 1 1172 
+there Quebec.txt 18 2588 2664 2902 3060 3115 3952 4517 4926 4936 6507 6630 7274 8698 9849 11337 12151 12529 12594 
+start Quebec.txt 1 6240 
+12.1 Quebec.txt 1 9140 
+low Quebec.txt 3 1706 2959 4094 
+akwesasne Quebec.txt 1 7310 
+cultures Quebec.txt 1 3490 
+valley Quebec.txt 5 632 1418 1476 3556 4197 
+hare Quebec.txt 1 2516 
+agreements Quebec.txt 1 12123 
+forbade Quebec.txt 1 3939 
+catholics Quebec.txt 2 3949 7412 
+municipalities Quebec.txt 2 7730 8828 
+displayed Quebec.txt 2 11604 11647 
+cabinet Quebec.txt 1 6390 
+curtain Quebec.txt 1 11402 
+technologies Quebec.txt 2 419 8577 
+promote Quebec.txt 4 9200 10346 10759 10846 
+with Quebec.txt 80 125 164 187 285 291 687 1003 1214 1274 1551 1685 1982 2049 2156 2203 2275 2380 2411 2878 2963 3033 3600 3695 3716 3743 3803 3839 4040 4075 4354 4430 4877 4948 5111 5141 5207 5302 5652 5711 5872 5883 6081 6216 6245 6348 6457 6978 7052 7136 7231 7381 7440 7663 8175 8803 9627 9767 10027 10169 10269 10400 10509 10566 10779 10937 11118 11509 11972 12113 12377 12477 12686 12691 12703 12715 12801 12899 12972 12982 13021 
+saint-jean-baptiste Quebec.txt 1 13103 
+october Quebec.txt 5 5793 5797 5858 6454 6576 
+podorythmie Quebec.txt 1 10553 
+jean-duceppe Quebec.txt 1 11361 
+1980spresent Quebec.txt 1 10679 
+godbout Quebec.txt 1 5679 
+bissoondath Quebec.txt 1 11471 
+blackbird Quebec.txt 1 2674 
+politically Quebec.txt 1 156 
+pulp Quebec.txt 3 1796 8782 12066 
+aa Quebec.txt 1 8325 
+cbc Quebec.txt 1 10970 
+600 Quebec.txt 1 3051 
+20.36 Quebec.txt 1 8229 
+cinema Quebec.txt 4 10832 10936 11020 11066 
+accents Quebec.txt 1 8126 
+hosted Quebec.txt 1 12725 
+deer Quebec.txt 1 2466 
+humidex Quebec.txt 1 2362 
+an Quebec.txt 37 439 602 691 1004 2151 2541 2904 2976 3644 3796 4313 4727 4748 4824 5185 5191 5234 5336 5724 6759 7137 7499 7958 8149 8324 8867 8926 9056 9578 9594 9943 10312 10360 10619 12613 12830 13011 
+imagination Quebec.txt 1 11272 
+as Quebec.txt 113 189 305 387 414 541 558 1267 1415 1441 1555 1688 2079 2177 2277 2279 2568 2618 2824 3024 3026 3333 3355 3383 3413 3415 3419 3748 3793 3821 3855 3907 3909 3986 4001 4095 4135 4250 4273 4413 4641 4835 5119 5122 5435 5476 5573 5660 5814 5856 5964 5970 6077 6537 6571 6671 6797 6826 7151 7208 7279 7369 7480 7482 7527 7609 7701 7740 7917 8089 8323 8536 8710 8734 8753 9043 9066 9068 9253 9329 9353 9362 9397 9612 9742 9830 9907 10050 10075 10179 10181 10513 10942 11101 11174 11202 11323 11348 11563 11652 11702 11759 11843 12045 12147 12165 12239 12369 12706 12866 12963 13101 13126 13160 
+lichen Quebec.txt 1 2962 
+au Quebec.txt 1 12274 
+ottawa Quebec.txt 3 1245 6238 6377 
+planets Quebec.txt 1 9566 
+politics Quebec.txt 4 343 5706 6642 6645 
+film Quebec.txt 9 10826 10848 10857 10880 10890 11042 11055 11059 11074 
+amendments Quebec.txt 1 6269 
+drivers Quebec.txt 1 12704 
+abolish Quebec.txt 1 6750 
+field Quebec.txt 9 8368 8514 8676 9491 9542 9553 9638 10382 12119 
+5 Quebec.txt 1 2312 
+troubadours Quebec.txt 1 11812 
+2007 Quebec.txt 4 9196 9241 10387 12109 
+gaining Quebec.txt 1 4390 
+polar Quebec.txt 1 2479 
+4,000 Quebec.txt 1 10029 
+students Quebec.txt 1 8353 
+symbol Quebec.txt 2 10149 12884 
+includes Quebec.txt 7 1359 1747 2485 2716 2842 9968 11320 
+fermont Quebec.txt 1 8909 
+important Quebec.txt 8 2592 3722 5630 8868 9549 10620 10820 11740 
+bounded Quebec.txt 1 3010 
+peak Quebec.txt 1 1710 
+included Quebec.txt 3 515 4080 5831 
+psychology Quebec.txt 1 9659 
+building Quebec.txt 3 6657 12824 12993 
+subdivision Quebec.txt 1 6928 
+controlled Quebec.txt 1 3482 
+directors Quebec.txt 1 10899 
+nelson Quebec.txt 1 5183 
+missouri Quebec.txt 1 3914 
+remarkable Quebec.txt 1 8964 
+brown Quebec.txt 1 6444 
+original Quebec.txt 1 7178 
+langues Quebec.txt 1 7552 
+external Quebec.txt 1 13191 
+represent Quebec.txt 1 9445 
+all Quebec.txt 9 433 3061 5210 7090 7166 7523 10331 10601 13141 
+lafontaine Quebec.txt 2 5321 9840 
+chinese Quebec.txt 1 7930 
+anglican Quebec.txt 1 7457 
+groundwork Quebec.txt 2 5689 5732 
+caused Quebec.txt 1 6406 
+dollar Quebec.txt 1 8632 
+15221523 Quebec.txt 1 3629 
+founded Quebec.txt 5 570 3800 11908 12487 12910 
+unrest Quebec.txt 1 4431 
+deadline Quebec.txt 1 6335 
+zinc Quebec.txt 1 8998 
+settlement Quebec.txt 3 1127 1518 3940 
+religious Quebec.txt 6 4617 7510 11703 12091 12104 12145 
+children Quebec.txt 1 7012 
+astrophysicists Quebec.txt 1 9587 
+qubecq Quebec.txt 1 516 
+referring Quebec.txt 1 6541 
+hunting Quebec.txt 1 3509 
+dantan Quebec.txt 1 12049 
+laid Quebec.txt 1 5687 
+saint-denis Quebec.txt 2 5250 10272 
+to Quebec.txt 224 55 73 82 99 158 181 293 435 447 491 503 557 589 601 623 663 763 797 833 921 924 939 1059 1108 1234 1317 1323 1331 1427 1517 1714 1726 1823 1845 1864 1899 1916 1988 2118 2213 2238 2251 2264 2302 2420 2593 2612 2821 2922 2957 3002 3321 3559 3571 3626 3642 3646 3651 3702 3704 3726 3769 3872 3933 3960 3994 3999 4021 4053 4107 4112 4140 4188 4206 4272 4378 4436 4489 4499 4522 4573 4589 4604 4630 4655 4658 4667 4688 4699 4719 4746 4757 4797 4804 4823 4862 4871 4881 4884 4897 4899 4921 4944 4964 5002 5005 5014 5031 5083 5086 5089 5189 5193 5239 5262 5274 5282 5334 5390 5419 5423 5426 5588 5609 5633 5650 5709 5727 5855 5867 5906 6009 6028 6237 6239 6264 6282 6285 6301 6344 6367 6401 6416 6485 6529 6534 6542 6586 6749 6884 7007 7071 7120 7199 7226 7288 7324 7415 7426 7433 7656 7671 7688 7712 7763 7791 7857 7863 8298 8300 8313 8342 8347 8442 8456 8465 8473 8639 8641 8655 8947 9199 9210 9224 9455 9459 9484 9518 9548 9953 9989 9996 10193 10345 10366 10373 10448 10613 10631 10733 10758 10845 10956 11147 11316 11384 11783 11816 11818 11829 11891 11911 12130 12135 12350 12440 12465 12503 12587 12777 12947 13009 13074 13106 
+program Quebec.txt 3 4666 5682 11958 
+spain Quebec.txt 1 8179 
+alberta Quebec.txt 2 5532 7340 
+dominated Quebec.txt 2 5704 8744 
+traditionally Quebec.txt 1 8254 
+paying Quebec.txt 1 4030 
+belonging Quebec.txt 1 12129 
+woman Quebec.txt 1 7014 
+rejected Quebec.txt 1 6477 
+returned Quebec.txt 3 3792 3998 4052 
+song Quebec.txt 3 10699 10722 13113 
+very Quebec.txt 8 369 910 916 1996 2099 2115 2157 4163 
+swallows Quebec.txt 1 2692 
+saint-germain-en-laye Quebec.txt 1 4044 
+results Quebec.txt 1 6435 
+me Quebec.txt 2 12806 12809 
+novel Quebec.txt 2 11303 11309 
+trails Quebec.txt 2 10015 10017 
+censuses Quebec.txt 1 7292 
+monument-national Quebec.txt 1 11396 
+17th Quebec.txt 4 1130 1521 12337 12509 
+factories Quebec.txt 1 12132 
+louis Quebec.txt 5 3923 4028 4071 4123 11438 
+regiments Quebec.txt 1 5658 
+list Quebec.txt 2 8135 10038 
+joined Quebec.txt 2 5492 5506 
+large Quebec.txt 9 339 2457 2613 2908 3166 9892 10064 11709 11790 
+amend Quebec.txt 1 6530 
+sand Quebec.txt 1 1599 
+mile Quebec.txt 1 11284 
+small Quebec.txt 5 1367 1658 2504 2611 4359 
+mammal Quebec.txt 1 2543 
+economically Quebec.txt 1 440 
+snowmobile Quebec.txt 1 10016 
+owned Quebec.txt 1 9086 
+polls Quebec.txt 1 6195 
+ten Quebec.txt 3 4904 8945 9340 
+charlottetown Quebec.txt 3 5400 5405 6395 
+1980s Quebec.txt 2 9454 12518 
+90.3 Quebec.txt 1 7428 
+90.5 Quebec.txt 1 9080 
+190 Quebec.txt 1 12153 
+past Quebec.txt 3 10068 12211 12223 
+rate Quebec.txt 5 4154 7018 7023 7047 8404 
+quebec Quebec.txt 323 0 15 24 30 32 133 166 209 216 322 333 437 472 495 568 613 681 726 764 787 819 839 845 861 871 874 893 962 1071 1102 1155 1319 1483 1561 1567 1653 1713 1874 1887 1906 1922 1946 1955 1956 1965 2089 2149 2196 2224 2286 2354 2391 2438 2605 2663 2706 2740 2782 2832 2861 2870 2884 2913 2995 3022 3073 3090 3135 3189 3273 3302 3308 3447 3454 3486 3736 3770 3801 3957 4048 4352 4417 4418 4422 4427 4478 4552 4557 4563 4626 4671 4710 4725 4734 4759 4838 4845 4898 4906 4972 4983 5068 5132 5412 5415 5484 5495 5580 5601 5627 5705 5763 5941 5976 5993 6000 6063 6114 6187 6261 6276 6411 6439 6520 6536 6570 6583 6647 6650 6654 6659 6708 6714 6744 6757 6768 6791 6805 6850 6861 6887 6906 6907 6947 6955 7068 7085 7106 7112 7129 7188 7322 7356 7365 7390 7543 7586 7589 7685 7787 7799 7962 7999 8017 8102 8140 8146 8147 8194 8227 8243 8277 8308 8322 8397 8421 8532 8543 8563 8564 8594 8602 8691 8696 8749 8757 8855 8874 8925 8933 8962 9025 9037 9051 9108 9124 9182 9218 9250 9289 9310 9317 9326 9382 9402 9426 9440 9461 9482 9514 9630 9667 9779 9793 9817 9832 9871 9881 9918 9984 10012 10043 10046 10060 10083 10093 10133 10134 10154 10228 10241 10243 10282 10300 10321 10335 10388 10402 10422 10460 10474 10500 10504 10559 10569 10588 10609 10638 10687 10739 10764 10834 10838 10853 10884 10901 10917 10930 10935 10985 11019 11037 11048 11077 11085 11089 11134 11152 11241 11257 11305 11391 11410 11451 11463 11490 11497 11527 11548 11602 11607 11626 11644 11671 11691 11700 11794 11849 11859 11877 11961 12003 12010 12019 12026 12043 12094 12107 12160 12178 12213 12231 12295 12316 12403 12405 12432 12467 12491 12545 12554 12601 12611 12617 12627 12723 12763 12770 13065 13069 13143 13175 13196 
+pass Quebec.txt 1 6330 
+further Quebec.txt 4 298 1762 2996 13189 
+saltwater Quebec.txt 1 9147 
+promotes Quebec.txt 2 10886 12112 
+investment Quebec.txt 1 9264 
+cheeses Quebec.txt 1 12599 
+what Quebec.txt 3 3483 4912 6637 
+advantageous Quebec.txt 1 8927 
+sun Quebec.txt 1 2285 
+section Quebec.txt 1 7172 
+public Quebec.txt 5 4816 8028 9773 11641 13157 
+hudsons Quebec.txt 1 749 
+mgantic Quebec.txt 1 9622 
+sur Quebec.txt 1 7550 
+racing Quebec.txt 1 12702 
+guns Quebec.txt 1 3858 
+contrast Quebec.txt 2 7432 7869 
+movement Quebec.txt 2 5786 5943 
+quebec-specific Quebec.txt 1 2787 
+christian Quebec.txt 5 7430 7444 7453 7469 7479 
+installations Quebec.txt 1 10940 
+owns Quebec.txt 1 9985 
+21st Quebec.txt 1 7037 
+hours Quebec.txt 2 2432 4229 
+promoted Quebec.txt 2 4512 12663 
+acadia Quebec.txt 2 4050 12372 
+november Quebec.txt 2 6084 6597 
+strong Quebec.txt 3 9213 10184 12384 
+6,249,085 Quebec.txt 1 7619 
+arena Quebec.txt 1 6176 
+tranquille Quebec.txt 1 12253 
+1849 Quebec.txt 1 5170 
+1848 Quebec.txt 1 5318 
+inspired Quebec.txt 1 6771 
+1840 Quebec.txt 2 696 5301 
+1844 Quebec.txt 1 3617 
+champlain Quebec.txt 7 462 527 1402 1447 3773 3975 12909 
+prior Quebec.txt 1 6527 
+amount Quebec.txt 1 2396 
+arable Quebec.txt 1 1467 
+primacy Quebec.txt 1 10429 
+social Quebec.txt 4 5750 11540 11984 12226 
+action Quebec.txt 2 6422 6425 
+narrow Quebec.txt 3 370 1504 1877 
+via Quebec.txt 2 9927 9928 
+followed Quebec.txt 3 808 5409 10085 
+enactment Quebec.txt 2 4549 7978 
+bogeyman Quebec.txt 1 11210 
+texts Quebec.txt 1 11127 
+algonquins Quebec.txt 1 3525 
+empties Quebec.txt 1 1178 
+passage Quebec.txt 2 4127 4651 
+herring Quebec.txt 1 2754 
+1903 Quebec.txt 1 12953 
+literary Quebec.txt 4 11181 11313 11345 12215 
+850 Quebec.txt 1 3118 
+takes Quebec.txt 1 6806 
+distinct Quebec.txt 5 1984 5311 6539 6573 10152 
+contains Quebec.txt 1 3159 
+two Quebec.txt 9 953 2590 2701 5292 5308 5473 6297 8630 10246 
+lakeside Quebec.txt 1 1868 
+archives Quebec.txt 2 4994 11928 
+taken Quebec.txt 1 12960 
+brunswick Quebec.txt 3 107 5376 5488 
+ticonderoga Quebec.txt 1 4798 
+more Quebec.txt 44 638 771 995 1529 2053 2381 2412 2451 2771 2988 3240 3443 3540 4183 4479 4961 5629 5671 6225 6867 7201 7221 7235 7382 7733 7949 8360 8375 8620 8791 8825 9089 9116 9276 9311 9463 9600 9669 9679 10537 10653 11205 11517 13194 
+flat Quebec.txt 3 1383 1545 1754 
+scotia Quebec.txt 3 132 5378 5491 
+catherines Quebec.txt 1 12416 
+substances Quebec.txt 1 9001 
+company Quebec.txt 3 751 3929 4056 
+line Quebec.txt 1 10521 
+leonard Quebec.txt 1 11465 
+jacques-cartier Quebec.txt 1 1253 
+arthemis Quebec.txt 1 13019 
+basically Quebec.txt 1 5106 
+varying Quebec.txt 1 926 
+known Quebec.txt 9 1264 4134 4249 5813 5963 9028 11173 12962 13100 
+coyote Quebec.txt 1 2489 
+mounted Quebec.txt 1 4312 
+town Quebec.txt 2 8907 11948 
+keeping Quebec.txt 1 5115 
+laurentides Quebec.txt 1 1356 
+debates Quebec.txt 1 335 
+science Quebec.txt 9 8370 8516 9153 9204 9299 9322 9442 9545 9641 
+des Quebec.txt 13 3863 9713 9735 9762 10303 10306 10340 10802 11628 11903 11997 12260 12422 
+charlevoix Quebec.txt 1 2826 
+offended Quebec.txt 1 4673 
+remain Quebec.txt 2 4605 11267 
+nine Quebec.txt 1 6255 
+geologically Quebec.txt 1 1411 
+den Quebec.txt 1 12287 
+qubcoise Quebec.txt 3 9187 10742 10841 
+specialized Quebec.txt 1 10973 
+history Quebec.txt 11 3449 3452 4612 9581 11132 11150 12092 12176 12199 12722 12781 
+beautiful Quebec.txt 2 563 12853 
+bogs Quebec.txt 1 1633 
+stated Quebec.txt 2 5898 7516 
+functions Quebec.txt 1 6070 
+share Quebec.txt 2 6020 6072 
+northernmost Quebec.txt 3 828 2921 3080 
+archipelago Quebec.txt 1 1364 
+climates Quebec.txt 1 2901 
+numbers Quebec.txt 2 3167 4866 
+purchased Quebec.txt 1 744 
+arise Quebec.txt 1 11185 
+species Quebec.txt 12 1170 2772 2788 2794 3055 3120 3124 3174 3238 3350 3381 13043 
+axis Quebec.txt 1 5646 
+huge Quebec.txt 1 1893 
+needs Quebec.txt 3 10127 12356 12368 
+english-language Quebec.txt 2 232 11460 
+5.6 Quebec.txt 1 7513 
+rather Quebec.txt 2 4103 6057 
+acts Quebec.txt 3 4646 5454 6670 
+peregrine Quebec.txt 1 2725 
+liaison Quebec.txt 1 9718 
+ratified Quebec.txt 1 12772 
+c$12.4 Quebec.txt 1 8598 
+occasionally Quebec.txt 2 1989 2085 
+cline Quebec.txt 1 10677 
+duplessiss Quebec.txt 1 5728 
+influences Quebec.txt 2 2004 2167 
+explains Quebec.txt 1 1591 
+plant Quebec.txt 3 3050 3119 3169 
+intended Quebec.txt 1 9898 
+petite Quebec.txt 1 12263 
+countryside Quebec.txt 1 11990 
+northward Quebec.txt 2 796 2024 
+reflect Quebec.txt 3 11694 12038 12778 
+8799 Quebec.txt 2 9569 9571 
+anglophones Quebec.txt 1 7709 
+acadian Quebec.txt 1 12378 
+coming Quebec.txt 1 5901 
+gasp Quebec.txt 7 255 1204 1918 1933 2889 3665 11279 
+a Quebec.txt 165 183 306 338 368 381 388 391 504 884 895 998 1142 1416 1543 1624 1630 1649 1848 1876 1892 1974 2091 2958 2970 3045 3104 3140 3160 3534 3609 3648 3661 3777 3822 3832 3836 4064 4076 4202 4215 4219 4233 4263 4520 4674 4700 4789 4909 4946 4960 4973 5203 5215 5247 5264 5268 5276 5386 5395 5420 5429 5432 5436 5574 5681 5746 5784 5808 5823 5875 5888 5996 6052 6078 6123 6130 6165 6242 6274 6407 6466 6479 6538 6572 6594 6605 6623 6626 6813 6817 6856 6874 6896 6957 6969 6979 6990 7131 7209 7244 7276 7325 7331 7370 7404 7528 7768 7783 7886 8261 8349 8519 8522 8537 8567 8629 9044 9096 9118 9157 9212 9226 9372 9492 9976 10051 10063 10148 10151 10183 10263 10289 10397 10462 10482 10486 10555 10596 10700 10843 10862 10874 11003 11312 11777 11957 12296 12328 12347 12383 12399 12447 12488 12496 12505 12525 12532 12867 12922 12926 12979 12983 13007 13042 13083 
+refuse Quebec.txt 1 7287 
+short Quebec.txt 3 2116 2161 11054 
+patriotes Quebec.txt 1 5145 
+terrasses Quebec.txt 1 10258 
+coat Quebec.txt 3 12774 12818 12835 
+algonquians Quebec.txt 1 3498 
+shore Quebec.txt 4 1201 3324 5079 8911 
+grande Quebec.txt 1 1834 
+fundamental Quebec.txt 3 9335 10419 10442 
+pay Quebec.txt 1 6863 
+banks Quebec.txt 2 606 3288 
+adrien Quebec.txt 1 11581 
+balloon Quebec.txt 1 11856 
+narwhal Quebec.txt 1 2599 
+expenditures Quebec.txt 1 9273 
+help Quebec.txt 2 4720 4801 
+reservoir Quebec.txt 1 1049 
+copper Quebec.txt 1 8996 
+september Quebec.txt 1 4328 
+developed Quebec.txt 4 8526 10524 11093 11529 
+fraser Quebec.txt 1 6879 
+soon Quebec.txt 2 4998 5253 
+trade Quebec.txt 2 5865 12322 
+held Quebec.txt 1 350 
+paper Quebec.txt 3 1798 3433 8784 
+through Quebec.txt 10 817 1024 1223 2550 4100 4381 6812 9202 9904 11198 
+committee Quebec.txt 1 856 
+signs Quebec.txt 1 8054 
+497 Quebec.txt 2 1910 9946 
+its Quebec.txt 55 141 406 913 976 993 1106 1215 1378 1731 2899 3154 3216 3248 3258 4374 4396 4650 5142 5472 6019 6522 6751 6810 6885 6965 6973 7053 7397 7854 8075 8157 8427 8959 8970 9059 9132 9390 9485 10125 10145 10166 10170 10477 10938 11136 11154 11535 11898 12410 12632 12721 12773 12949 12969 12973 
+roots Quebec.txt 1 10168 
+24 Quebec.txt 6 2431 2990 7073 13073 13081 13137 
+25 Quebec.txt 3 2310 2324 5169 
+26 Quebec.txt 1 6864 
+27 Quebec.txt 3 3130 4740 6598 
+20 Quebec.txt 1 3067 
+21 Quebec.txt 4 7562 7577 9126 12996 
+possessions Quebec.txt 1 4377 
+23 Quebec.txt 2 6026 13135 
+heron Quebec.txt 1 2759 
+manicouagan Quebec.txt 1 1244 
+actually Quebec.txt 2 1891 7774 
+urbanization Quebec.txt 1 3271 
+resort Quebec.txt 1 1669 
+pch Quebec.txt 1 11333 
+sqri Quebec.txt 1 9194 
+systems Quebec.txt 1 2032 
+attractions Quebec.txt 1 10288 
+naskapi Quebec.txt 1 1811 
+paths Quebec.txt 1 10020 
+cool Quebec.txt 1 3177 
+might Quebec.txt 1 4456 
+pickerel Quebec.txt 1 2624 
+bas-saint-laurent Quebec.txt 1 1198 
+return Quebec.txt 1 4022 
+food Quebec.txt 4 2822 3596 8897 8902 
+demographics Quebec.txt 4 6942 6945 7186 7541 
+reflected Quebec.txt 1 3491 
+oka Quebec.txt 3 1404 12585 12591 
+units Quebec.txt 1 6919 
+walls Quebec.txt 1 9824 
+37th Quebec.txt 1 8198 
+communities Quebec.txt 3 230 9381 9997 
+association Quebec.txt 5 10741 10878 10895 10911 12027 
+easily Quebec.txt 1 1466 
+likeness Quebec.txt 1 3620 
+designation Quebec.txt 1 4265 
+always Quebec.txt 2 10617 11836 
+presented Quebec.txt 2 10792 11774 
+quebercers Quebec.txt 1 10623 
+minstrels Quebec.txt 1 11810 
+found Quebec.txt 3 2709 3625 10607 
+universit Quebec.txt 1 9589 
+ports Quebec.txt 3 1093 1192 9853 
+characterized Quebec.txt 2 3043 3210 
+referred Quebec.txt 4 490 556 4271 5854 
+neil Quebec.txt 1 11470 
+aubert Quebec.txt 1 11277 
+generation Quebec.txt 1 8351 
+house Quebec.txt 5 375 2670 6601 6617 12445 
+fish Quebec.txt 3 1173 2616 3572 
+hard Quebec.txt 1 4861 
+idea Quebec.txt 1 5596 
+adisq Quebec.txt 1 10753 
+undertake Quebec.txt 1 5263 
+thick Quebec.txt 1 1610 
+harp Quebec.txt 2 2579 10549 
+stands Quebec.txt 2 8934 8954 
+rendez-vous Quebec.txt 1 10998 
+alcohol Quebec.txt 1 3859 
+17341738 Quebec.txt 1 3919 
+robert Quebec.txt 2 5182 5920 
+since Quebec.txt 19 1134 3114 6464 8045 8074 8530 8758 9054 9418 9452 9501 10528 11135 11153 11501 12108 12471 12516 12846 
+pigeon Quebec.txt 1 2698 
+testify Quebec.txt 1 1233 
+research Quebec.txt 10 8466 8481 8663 9203 9232 9266 9270 9337 9415 9490 
+49.4 Quebec.txt 1 6486 
+sustain Quebec.txt 1 1657 
+7 Quebec.txt 2 3222 11761 
+brewery Quebec.txt 1 12489 
+patriation Quebec.txt 2 6138 6287 
+bass Quebec.txt 1 2621 
+lawrence Quebec.txt 27 90 204 500 610 943 1029 1082 1138 1184 1197 1212 1297 1315 1374 1856 2537 2556 3292 3374 3532 3555 3712 3787 4763 4778 9848 9876 
+1920s Quebec.txt 1 10213 
+fondation Quebec.txt 1 12005 
+dune Quebec.txt 1 12247 
+houses Quebec.txt 2 11707 12034 
+base Quebec.txt 1 1121 
+put Quebec.txt 1 5427 
+ash Quebec.txt 2 3392 3441 
+beginning Quebec.txt 3 5805 8913 12473 
+generate Quebec.txt 2 8786 8884 
+pohngamook Quebec.txt 1 11237 
+revolutionary Quebec.txt 1 5910 
+settlers Quebec.txt 4 4160 4686 12340 12370 
+2056 Quebec.txt 1 7125 
+americas Quebec.txt 2 8607 11047 
+american Quebec.txt 18 2474 2623 2667 2684 3394 3401 3879 4376 4446 4622 4728 4754 4813 4820 4889 5017 7255 9894 
+w Quebec.txt 1 34 
+automobile Quebec.txt 2 9789 9794 
+partnerships Quebec.txt 1 12137 
+indebted Quebec.txt 1 6891 
+major Quebec.txt 7 280 1970 8568 9045 9486 12681 12727 
+wilder Quebec.txt 1 9644 
+beer Quebec.txt 3 12470 12482 12506 
+number Quebec.txt 9 2906 3047 7080 7214 7375 7533 7785 9697 10290 
+feet Quebec.txt 1 10568 
+1875 Quebec.txt 1 12654 
+1873 Quebec.txt 1 5528 
+1870 Quebec.txt 2 742 5519 
+1871 Quebec.txt 1 5523 
+fine Quebec.txt 6 11472 11494 11599 11611 11623 11682 
+maple Quebec.txt 4 1492 3386 3389 12798 
+horse Quebec.txt 2 2810 11215 
+cirque Quebec.txt 6 11724 11746 11766 11772 11886 11906 
+temperature Quebec.txt 3 2216 2979 3220 
+leading Quebec.txt 2 427 8608 
+coasts Quebec.txt 1 3585 
+least Quebec.txt 1 5844 
+player Quebec.txt 2 8569 8610 
+consisting Quebec.txt 1 6718 
+180 Quebec.txt 1 8668 
+lanaudire Quebec.txt 1 1355 
+saint Quebec.txt 18 89 203 499 609 942 1028 1081 1137 1183 1196 1211 1296 1314 1855 2536 3373 4362 13089 
+aa2 Quebec.txt 1 8311 
+rates Quebec.txt 1 7055 
+hundred Quebec.txt 2 4059 12533 
+syrup Quebec.txt 1 1493 
+dfc Quebec.txt 1 2095 
+dfb Quebec.txt 1 1981 
+mainstay Quebec.txt 2 404 1650 
+bumble Quebec.txt 1 13045 
+pays-den-haut Quebec.txt 1 12261 
+passed Quebec.txt 4 380 784 5449 6604 
+park Quebec.txt 2 2558 13167 
+part Quebec.txt 16 160 879 889 1281 1497 2661 3775 3810 4002 4409 4663 4978 6773 11165 11899 12832 
+authors Quebec.txt 1 11261 
+montral Quebec.txt 6 8118 9591 10274 10775 13149 13168 
+1912 Quebec.txt 1 824 
+1914 Quebec.txt 1 5568 
+1917 Quebec.txt 1 5606 
+peaked Quebec.txt 1 8288 
+king Quebec.txt 7 3637 3675 3922 4018 4070 4122 4891 
+financing Quebec.txt 1 12139 
+b Quebec.txt 1 35 
+inducted Quebec.txt 1 6796 
+performers Quebec.txt 2 10644 11809 
+grey Quebec.txt 1 2512 
+aims Quebec.txt 1 9198 
+chinois Quebec.txt 1 12413 
+autumn Quebec.txt 2 1525 2200 
+saint-franois Quebec.txt 1 1249 
+sister Quebec.txt 1 13199 
+8:37 Quebec.txt 1 2234 
+interactive Quebec.txt 1 10992 
+bouchard Quebec.txt 1 6383 
+sodec Quebec.txt 1 10343 
+outstanding Quebec.txt 1 6800 
+chipmunk Quebec.txt 1 2524 
+ages Quebec.txt 1 1589 
+well-developed Quebec.txt 1 8262 
+randomly Quebec.txt 1 11826 
+substantial Quebec.txt 1 397 
+gala Quebec.txt 1 11027 
+gemini Quebec.txt 1 11025 
+lie Quebec.txt 1 1764 
+microgadus Quebec.txt 1 2642 
+built Quebec.txt 1 3820 
+depending Quebec.txt 1 2359 
+officers Quebec.txt 1 2879 
+battling Quebec.txt 1 4302 
+also Quebec.txt 30 121 246 425 1406 1622 2132 2439 2841 3112 4457 4519 4586 6399 8009 8036 8566 8743 8812 8953 9351 9384 9516 9922 10037 10688 11172 11339 12397 12546 13185 
+recognizing Quebec.txt 1 384 
+conscription Quebec.txt 3 5589 5603 5635 
+populous Quebec.txt 2 170 1291 
+archambault Quebec.txt 1 11446 
+province Quebec.txt 62 8 20 22 60 93 104 137 171 266 313 346 442 553 561 564 566 600 622 715 778 837 1209 1284 1308 1484 2260 2897 3102 3682 4066 4415 4425 4476 4970 4981 5130 5297 5466 6280 6325 6364 6748 6855 6892 7594 7822 7851 7915 8023 8172 8708 8747 8831 9424 9533 10010 11318 11716 12851 12854 12859 12871 
+play Quebec.txt 2 426 11819 
+added Quebec.txt 1 826 
+english Quebec.txt 27 1266 3961 3979 4017 4868 4941 5118 5593 5839 6202 7673 7687 7715 7726 7739 7753 7797 7859 7904 7954 7966 7988 8034 8095 8128 10232 10239 
+reach Quebec.txt 3 2339 4945 7121 
+83.4 Quebec.txt 1 7441 
+77 Quebec.txt 2 2314 7434 
+most Quebec.txt 36 195 906 1290 1433 1478 1488 1967 2050 2086 2507 2547 2784 2791 3082 3205 3274 4143 5029 5460 6068 6890 7352 7626 7699 7778 7846 7865 7908 8027 8237 9557 9614 10655 11739 12407 13173 
+961,700 Quebec.txt 1 7758 
+sponsored Quebec.txt 2 4125 13006 
+plan Quebec.txt 1 4974 
+significant Quebec.txt 5 1430 7277 9373 9653 12400 
+70 Quebec.txt 1 13207 
+services Quebec.txt 5 7713 7724 8249 9974 9995 
+seasons Quebec.txt 3 302 1985 2194 
+achievement Quebec.txt 1 10377 
+radisson Quebec.txt 2 1822 3895 
+chicoutimi Quebec.txt 2 12065 12070 
+mineral Quebec.txt 4 1643 9022 9034 9060 
+performances Quebec.txt 1 10790 
+sometimes Quebec.txt 2 555 3598 
+cover Quebec.txt 4 3295 3442 9088 9123 
+km Quebec.txt 3 1909 6984 9945 
+dimension Quebec.txt 1 12615 
+traditional Quebec.txt 6 10505 10558 10570 10692 12315 12448 
+1682 Quebec.txt 1 3906 
+researchers Quebec.txt 1 9687 
+clean Quebec.txt 1 10053 
+mels Quebec.txt 1 10948 
+pavilion Quebec.txt 1 11485 
+physics Quebec.txt 1 9345 
+institutions Quebec.txt 4 233 5037 5840 8029 
+miron Quebec.txt 1 11300 
+sector Quebec.txt 8 8250 8414 8613 8741 8940 9325 9411 9703 
+gdp Quebec.txt 15 8161 8214 8233 8269 8380 8409 8420 8445 8464 8661 8771 8863 8882 9249 9282 
+celebrated Quebec.txt 1 13140 
+particularly Quebec.txt 3 2591 8936 9062 
+gold Quebec.txt 2 8994 12784 
+sparrow Quebec.txt 1 2671 
+swelling Quebec.txt 1 4865 
+troupes Quebec.txt 3 10822 11357 11732 
+660 Quebec.txt 1 13026 
+agassiz Quebec.txt 1 3462 
+canadiens Quebec.txt 5 4149 4588 4951 12604 12676 
+businesses Quebec.txt 1 8617 
+freight Quebec.txt 1 9769 
+wendake Quebec.txt 1 3734 
+find Quebec.txt 2 3647 13193 
+laurentians Quebec.txt 2 1847 3195 
+impact Quebec.txt 2 12401 12694 
+trois-rivires Quebec.txt 2 1100 4786 
+giant Quebec.txt 1 11230 
+believe Quebec.txt 1 4659 
+regulations Quebec.txt 1 7982 
+sucres Quebec.txt 1 12423 
+northern Quebec.txt 14 262 309 1743 2009 2146 2256 2266 2281 2750 3206 3410 3426 5078 10002 
+bilingual Quebec.txt 5 7793 7828 7847 7900 8022 
+justice Quebec.txt 2 6250 7720 
+bolduc Quebec.txt 1 10627 
+lard Quebec.txt 1 12332 
+6.0/km Quebec.txt 1 6994 
+failed Quebec.txt 3 4770 6008 6400 
+indian Quebec.txt 2 4261 7284 
+supralocal Quebec.txt 2 6913 6936 
+8 Quebec.txt 4 2981 7114 8878 10386 
+survenant Quebec.txt 1 11335 
+insurance Quebec.txt 1 9795 
+merged Quebec.txt 1 5290 
+his Quebec.txt 12 4031 4885 5701 5884 5984 6048 6229 6247 6342 6363 12903 12915 
+gains Quebec.txt 1 6831 
+luke Quebec.txt 1 11515 
+disque Quebec.txt 1 10746 
+trees Quebec.txt 2 1790 3353 
+9.975 Quebec.txt 1 6818 
+famous Quebec.txt 2 12408 12590 
+remedy Quebec.txt 1 4900 
+grew Quebec.txt 1 4086 
+rest Quebec.txt 2 6003 7872 
+casino Quebec.txt 1 11786 
+during Quebec.txt 13 2072 2190 2352 3967 4730 5620 6116 7568 10201 10581 11831 12435 12720 
+respectively Quebec.txt 1 10777 
+balsamea Quebec.txt 1 3336 
+him Quebec.txt 1 4857 
+cabane Quebec.txt 1 12442 
+showed Quebec.txt 2 6196 7423 
+progressive Quebec.txt 2 5684 6814 
+1.1 Quebec.txt 1 8508 
+generally Quebec.txt 1 1542 
+voyageurs Quebec.txt 1 3865 
+belles Quebec.txt 1 12258 
+common Quebec.txt 4 2678 2768 6079 7909 
+activity Quebec.txt 4 3267 8823 10249 10298 
+sustainable Quebec.txt 1 9227 
+coors Quebec.txt 1 12540 
+reveals Quebec.txt 1 10262 
+river Quebec.txt 23 205 487 501 611 631 1076 1083 1158 1177 1213 1254 1316 1513 2538 3362 3713 3788 3870 3900 3903 3912 3915 4764 
+snowstorm Quebec.txt 1 2410 
+cole Quebec.txt 1 11884 
+set Quebec.txt 2 4254 10483 
+art Quebec.txt 4 11525 11618 11634 11720 
+achieved Quebec.txt 1 4099 
+appalachian Quebec.txt 3 1871 1936 3527 
+vertebrates Quebec.txt 3 3123 3172 3247 
+patrimoine Quebec.txt 1 11921 
+culture Quebec.txt 13 4583 6552 9214 10128 10131 10141 10146 10164 10268 10318 10541 10624 12618 
+see Quebec.txt 6 14 21 29 7183 10036 13184 
+are Quebec.txt 71 234 245 314 328 951 958 1425 1648 1890 1941 2005 2097 2112 2171 2197 2209 2589 2608 2665 2708 2741 2779 2795 2873 2925 3116 6929 7193 7206 7238 7367 7388 7525 7710 7727 7899 7921 7969 8099 8107 8592 8671 8688 8699 8989 8993 9002 9084 9302 9318 9730 9850 10245 10445 10536 10776 10791 10818 11068 11196 11338 11358 11603 11646 11752 11835 12152 12530 12595 13139 13152 
+sea Quebec.txt 5 1448 1602 2734 4319 9756 
+lisbon Quebec.txt 1 8475 
+categories Quebec.txt 2 13208 13210 
+2.1 Quebec.txt 1 7049 
+2.0 Quebec.txt 1 7946 
+lescarbot Quebec.txt 1 521 
+locals Quebec.txt 1 4809 
+feared Quebec.txt 1 4704 
+potential Quebec.txt 2 9023 10052 
+richelieu Quebec.txt 1 1246 
+currently Quebec.txt 8 8310 8672 8700 8718 9027 9604 10573 10720 
+electoral Quebec.txt 1 7840 
+won Quebec.txt 2 6092 13020 
+various Quebec.txt 12 6822 8355 10004 10534 10576 10960 10984 11192 11692 11973 12115 12171 
+vascular Quebec.txt 1 3243 
+gatineau Quebec.txt 3 1243 11847 11853 
+numerous Quebec.txt 2 1169 12668 
+monsters Quebec.txt 1 11233 
+knowing Quebec.txt 1 7809 
+osler Quebec.txt 1 9643 
+latin Quebec.txt 3 10231 10233 10264 
+recently Quebec.txt 3 8627 9625 11518 
+sparsely Quebec.txt 2 268 911 
+whitecedar Quebec.txt 1 3427 
+s Quebec.txt 1 5740 
+sole Quebec.txt 2 191 7611 
+respondents Quebec.txt 6 7196 7216 7237 7377 7387 7535 
+succeed Quebec.txt 1 4922 
+opposition Quebec.txt 3 5640 5726 6343 
+citys Quebec.txt 1 10198 
+reasserted Quebec.txt 1 10416 
+legislature Quebec.txt 3 5355 6715 8040 
+both Quebec.txt 13 358 2030 3049 5229 6016 6035 7810 7889 7965 8013 8032 11792 11981 
+c Quebec.txt 7 2313 2325 2341 2349 2982 3223 4984 
+last Quebec.txt 4 1454 6747 8389 10660 
+restaurant Quebec.txt 1 10260 
+influential Quebec.txt 1 441 
+annual Quebec.txt 5 2244 2978 3219 8787 11070 
+tremblay Quebec.txt 1 11293 
+second-largest Quebec.txt 1 142 
+minorities Quebec.txt 2 7354 7363 
+sensitive Quebec.txt 1 9615 
+roman Quebec.txt 6 3948 4601 5769 7399 7411 7448 
+algonquin Quebec.txt 2 481 3841 
+1.61 Quebec.txt 1 7025 
+canadians Quebec.txt 8 4280 4455 4466 4498 4715 5617 7898 11326 
+whole Quebec.txt 1 7438 
+finds Quebec.txt 1 3233 
+1.69 Quebec.txt 1 7011 
+reside Quebec.txt 1 1820 
+octave Quebec.txt 1 11280 
+canadas Quebec.txt 4 135 1490 6140 13087 
+point Quebec.txt 1 1257 
+reasons Quebec.txt 1 7295 
+northeastern Quebec.txt 1 1280 
+allegiance Quebec.txt 2 4492 5088 
+community Quebec.txt 4 7707 10913 10979 12452 
+lake Quebec.txt 5 1063 1069 1401 5081 6313 
+dances Quebec.txt 1 10511 
+simply Quebec.txt 1 4938 
+church Quebec.txt 5 4603 5717 7461 10437 12086 
+throughout Quebec.txt 2 2046 11714 
+yukon Quebec.txt 1 5529 
+decline Quebec.txt 3 5757 5766 8299 
+bitternut Quebec.txt 1 3406 
+devil Quebec.txt 1 11226 
+described Quebec.txt 1 10049 
+raise Quebec.txt 1 5240 
+pt Quebec.txt 1 12412 
+create Quebec.txt 4 834 8642 9211 9225 
+trilogy Quebec.txt 1 12241 
+political Quebec.txt 8 887 3502 4850 4934 5752 7294 11542 12780 
+due Quebec.txt 4 923 2117 7225 9483 
+strategy Quebec.txt 1 8476 
+territory Quebec.txt 11 147 619 674 719 768 896 1534 3448 8972 9094 9133 
+culturelles Quebec.txt 1 10342 
+115,000 Quebec.txt 2 8644 9803 
+generating Quebec.txt 1 10040 
+lived Quebec.txt 4 3497 3504 3539 11452 
+squirrel Quebec.txt 1 2513 
+cafs Quebec.txt 1 10256 
+darmes Quebec.txt 1 12877 
+gas Quebec.txt 1 10091 
+39 Quebec.txt 1 2057 
+gap Quebec.txt 1 506 
+fund Quebec.txt 2 10348 11955 
+lives Quebec.txt 4 3278 3506 3542 12220 
+1867 Quebec.txt 3 732 5442 7975 
+487,000 Quebec.txt 1 8890 
+loon Quebec.txt 1 2769 
+extracted Quebec.txt 1 9003 
+fur Quebec.txt 4 3594 3824 3883 12321 
+all-time Quebec.txt 1 2367 
+judicial Quebec.txt 1 855 
+expanded Quebec.txt 2 617 792 
+lemieux Quebec.txt 1 11578 
+elections Quebec.txt 1 5994 
+governor Quebec.txt 7 4504 4509 4810 4836 4955 5057 6663 
+culturels Quebec.txt 1 11999 
+while Quebec.txt 10 394 1705 1930 2110 2393 5038 7666 9660 10893 11636 
+replaced Quebec.txt 2 10716 12986 
+licence Quebec.txt 1 12843 
+guido Quebec.txt 1 11523 
+robin Quebec.txt 1 2668 
+scheduled Quebec.txt 1 9973 
+30 Quebec.txt 7 1002 6029 6455 6577 8377 8976 10069 
+fleur-de-lis Quebec.txt 2 12881 12976 
+19.2 Quebec.txt 1 8885 
+century Quebec.txt 4 1522 7038 10661 12338 
+cathay Quebec.txt 1 3652 
+itself Quebec.txt 1 8535 
+triple Quebec.txt 1 773 
+alliances Quebec.txt 1 3715 
+currents Quebec.txt 1 2175 
+particulier Quebec.txt 2 6490 6518 
+cuisine Quebec.txt 8 12290 12293 12317 12349 12379 12381 12395 12404 
+italy Quebec.txt 1 8177 
+memphremagog Quebec.txt 1 11239 
+seigneurial Quebec.txt 1 3936 
+marcelle Quebec.txt 1 11596 
+peoples Quebec.txt 4 275 805 3456 11120 
+9 Quebec.txt 1 7317 
+products Quebec.txt 1 8797 
+composition Quebec.txt 1 927 
+higher Quebec.txt 8 1552 2120 2143 3113 7028 7344 8491 9291 
+development Quebec.txt 15 1222 8468 8502 8665 8723 9201 9234 9268 9272 9388 9722 11546 11967 12014 12088 
+louis-philippe Quebec.txt 1 11564 
+used Quebec.txt 8 3869 5013 7697 7775 8037 9923 10081 12862 
+temporary Quebec.txt 1 1818 
+mountain Quebec.txt 2 1849 3440 
+olivier Quebec.txt 1 9582 
+usually Quebec.txt 1 4270 
+moment Quebec.txt 1 12577 
+levels Quebec.txt 1 6916 
+uses Quebec.txt 1 28 
+birch Quebec.txt 2 3358 3434 
+crmazie Quebec.txt 1 11281 
+armand Quebec.txt 1 11673 
+nickname Quebec.txt 1 12868 
+recent Quebec.txt 6 1434 7866 8838 9558 10177 11736 
+dark Quebec.txt 2 6443 6448 
+lower Quebec.txt 15 678 711 1195 1199 5024 5043 5133 5148 5152 5175 5230 5485 7332 7574 8182 
+entre Quebec.txt 1 12265 
+older Quebec.txt 1 6217 
+percentages Quebec.txt 3 7205 7366 7524 
+milner Quebec.txt 1 9649 
+spent Quebec.txt 1 8479 
+ubisoft Quebec.txt 1 8754 
+person Quebec.txt 2 5105 7985 
+edge Quebec.txt 1 2942 
+nordic Quebec.txt 1 2585 
+dveloppement Quebec.txt 1 10339 
+chemistry Quebec.txt 2 9164 9346 
+3,531,663 Quebec.txt 1 6963 
+7,903,001 Quebec.txt 1 6977 
+labatt Quebec.txt 1 12541 
+responsible Quebec.txt 1 5344 
+1784 Quebec.txt 2 4847 4924 
+1785 Quebec.txt 1 4985 
+snow Quebec.txt 4 2068 2220 2386 2429 
+shape Quebec.txt 1 12961 
+louis-hippolyte Quebec.txt 1 9839 
+place-names Quebec.txt 1 8082 
+1963 Quebec.txt 2 5807 11478 
+continent Quebec.txt 1 3880 
+tables Quebec.txt 2 7168 7182 
+majority Quebec.txt 5 4470 6200 6481 6808 9079 
+workers Quebec.txt 2 1819 5911 
+rudolph Quebec.txt 1 9156 
+exclusively Quebec.txt 1 10114 
+source Quebec.txt 2 8820 10120 
+governmental Quebec.txt 1 10292 
+subjects Quebec.txt 2 4532 4539 
+plateau Quebec.txt 1 1680 
+influencing Quebec.txt 1 10222 
+administrative Quebec.txt 5 143 543 6899 6903 6918 
+remaining Quebec.txt 1 4887 
+march Quebec.txt 3 2404 9255 12652 
+amended Quebec.txt 1 6158 
+demands Quebec.txt 2 4527 4874 
+2,430,990 Quebec.txt 1 7881 
+aerospace Quebec.txt 7 415 8529 8541 8558 8575 8590 9363 
+falcon Quebec.txt 1 2726 
+emergence Quebec.txt 2 5782 12479 
+precipitation Quebec.txt 5 2043 2060 2130 2218 2372 
+projects Quebec.txt 1 13200 
+insect Quebec.txt 1 13013 
+outright Quebec.txt 1 6059 
+paramilitary Quebec.txt 1 5809 
+shaped Quebec.txt 2 1582 11130 
+follows Quebec.txt 1 7918 
+white-tailed Quebec.txt 1 2465 
+communications Quebec.txt 1 10320 
+arthur Quebec.txt 1 11589 
+continue Quebec.txt 1 3570 
+indication Quebec.txt 1 2836 
+popular Quebec.txt 4 10538 10656 11433 13174 
+thophile Quebec.txt 1 3615 
+conducive Quebec.txt 1 3001 
+walrus Quebec.txt 1 2596 
+collective Quebec.txt 1 11271 
+lucien Quebec.txt 1 6382 
+often Quebec.txt 8 1995 4281 5962 7627 7700 7779 13104 13121 
+spring Quebec.txt 1 2198 
+creation Quebec.txt 4 5020 9503 9520 10324 
+some Quebec.txt 13 1085 2140 2689 2798 3349 3416 4800 6073 6848 8111 8817 9236 9522 
+back Quebec.txt 4 1516 4896 6236 6461 
+metres Quebec.txt 5 1260 1929 1949 2384 2403 
+delegation Quebec.txt 1 5421 
+3.7 Quebec.txt 1 9038 
+economic Quebec.txt 3 450 8499 9307 
+3.3 Quebec.txt 1 6970 
+28th Quebec.txt 1 8208 
+3.1 Quebec.txt 1 8860 
+8,155,334 Quebec.txt 1 7009 
+broue Quebec.txt 1 11352 
+scale Quebec.txt 1 12527 
+describing Quebec.txt 1 11115 
+exceeding Quebec.txt 1 1947 
+per Quebec.txt 10 2398 5104 6441 6865 7013 8164 8189 8215 9432 9466 
+religion Quebec.txt 3 4598 5055 7521 
+civilization Quebec.txt 1 12183 
+seabed Quebec.txt 1 1443 
+innovation Quebec.txt 3 8650 9216 10325 
+anna Quebec.txt 1 10673 
+be Quebec.txt 17 159 5003 6157 6262 6795 7008 7270 7427 7689 7792 8010 9275 10453 10606 10734 11164 13075 
+measures Quebec.txt 2 5929 6849 
+run Quebec.txt 1 5987 
+300 Quebec.txt 2 2063 12597 
+1627 Quebec.txt 1 3921 
+processing Quebec.txt 1 8984 
+banquise Quebec.txt 1 12301 
+lakes Quebec.txt 10 627 662 1000 1152 1606 1632 3461 3889 9120 11236 
+colonization Quebec.txt 4 3476 10533 12362 12475 
+cinematic Quebec.txt 1 10939 
+lasts Quebec.txt 1 3253 
+caron Quebec.txt 1 11439 
+faade Quebec.txt 1 12825 
+victoria Quebec.txt 2 12076 12657 
+intense Quebec.txt 1 2333 
+crowds Quebec.txt 1 11791 
+wildlife Quebec.txt 7 2455 2459 2484 2544 2778 2858 2881 
+goods Quebec.txt 4 3853 9858 9868 9903 
+daudelin Quebec.txt 3 11475 11588 11659 
+modernity Quebec.txt 1 11144 
+capitole Quebec.txt 1 10277 
+coureurs Quebec.txt 1 3862 
+range Quebec.txt 2 1850 2306 
+beans Quebec.txt 1 3545 
+together Quebec.txt 3 5338 9677 11971 
+brbeuf Quebec.txt 1 11106 
+replacement Quebec.txt 1 7045 
+fleets Quebec.txt 1 3699 
+david Quebec.txt 1 3965 
+12,000 Quebec.txt 1 9820 
+80.0 Quebec.txt 1 7620 
+parity Quebec.txt 1 8169 
+riopelle Quebec.txt 1 11592 
+conquest Quebec.txt 2 651 4292 
+within Quebec.txt 7 390 443 1536 2430 6332 6546 6625 
+primarily Quebec.txt 4 272 3329 5837 9897 
+78.6 Quebec.txt 1 7140 
+nobel Quebec.txt 2 9161 9341 
+volcan Quebec.txt 1 12252 
+ashuapmushuan Quebec.txt 2 1075 1241 
+canal Quebec.txt 1 12073 
+ontario Quebec.txt 13 62 165 175 448 686 728 3768 5082 5480 5493 7165 7339 8329 
+institut Quebec.txt 2 8335 11372 
+spending Quebec.txt 3 8429 8435 9230 
+recherche Quebec.txt 2 8339 9190 
+question Quebec.txt 2 6103 7298 
+long Quebec.txt 4 300 401 2098 3250 
+hydropower Quebec.txt 1 9398 
+moulin Quebec.txt 1 11122 
+occupy Quebec.txt 1 3727 
+doubt Quebec.txt 1 11744 
+heritage Quebec.txt 15 2805 2868 6496 10172 10851 11697 11916 11954 11970 11992 12004 12017 12029 12041 12105 
+conseil Quebec.txt 1 10302 
+mountains Quebec.txt 15 1288 1329 1558 1564 1571 1671 1686 1690 1699 1701 1720 1881 3528 9072 9076 
+leduc Quebec.txt 1 11521 
+jewish Quebec.txt 2 7488 12451 
+immigration Quebec.txt 2 4106 4484 
+fisheries Quebec.txt 2 1189 8894 
+link Quebec.txt 1 1144 
+russian Quebec.txt 1 7941 
+coldest Quebec.txt 1 2106 
+crane Quebec.txt 1 2762 
+reel Quebec.txt 1 10519 
+outpost Quebec.txt 2 537 3826 
+41.6 Quebec.txt 1 10084 
+pointe Quebec.txt 1 12201 
+directed Quebec.txt 1 5836 
+travelling Quebec.txt 1 11754 
+characteristic Quebec.txt 2 3192 10556 
+up Quebec.txt 2 7755 10395 
+us Quebec.txt 2 110 4264 
+par Quebec.txt 1 8174 
+growth Quebec.txt 6 3004 4096 4110 4157 8403 8425 
+exploration Quebec.txt 6 1125 1236 3459 3797 8979 9048 
+cit Quebec.txt 2 10944 11902 
+highlight Quebec.txt 1 5610 
+similar Quebec.txt 3 10875 11782 12464 
+called Quebec.txt 7 1391 4958 6684 6763 7830 11243 11307 
+well-known Quebec.txt 1 11459 
+bell Quebec.txt 1 12607 
+associated Quebec.txt 2 3032 10778 
+semi-aquatic Quebec.txt 1 2736 
+mindful Quebec.txt 1 12363 
+expedition Quebec.txt 2 3645 3779 
+defined Quebec.txt 1 5968 
+influence Quebec.txt 6 2028 2125 5772 10185 10265 12388 
+surpassing Quebec.txt 1 8328 
+metals Quebec.txt 1 9013 
+haldimand Quebec.txt 3 4829 4853 5058 
+char Quebec.txt 1 2637 
+single Quebec.txt 1 4118 
+associates Quebec.txt 1 4060 
+1898 Quebec.txt 2 780 5531 
+rupert Quebec.txt 1 1247 
+huron Quebec.txt 3 3752 3758 3843 
+nationalism Quebec.txt 1 10155 
+1893 Quebec.txt 1 12572 
+rainbow Quebec.txt 1 2649 
+tohu Quebec.txt 1 11900 
+points Quebec.txt 1 1553 
+nav Quebec.txt 1 9748 
+transport Quebec.txt 4 9774 9880 9901 10006 
+income Quebec.txt 1 6815 
+forge Quebec.txt 1 3831 
+artistic Quebec.txt 1 10219 
+compagnie Quebec.txt 1 11360 
+french-language Quebec.txt 1 11434 
+gross Quebec.txt 3 8158 8211 8406 
+helping Quebec.txt 2 436 8341 
+meaning Quebec.txt 1 484 
+restoration Quebec.txt 1 12141 
+allowing Quebec.txt 1 4599 
+ago Quebec.txt 2 1423 1460 
+bases Quebec.txt 1 10476 
+land Quebec.txt 15 637 746 1238 1508 2458 2483 2774 3493 3670 3729 4683 5075 5097 6980 9726 
+ojibway Quebec.txt 1 3464 
+physiographic Quebec.txt 1 1292 
+age Quebec.txt 1 1456 
+required Quebec.txt 1 7970 
+2002 Quebec.txt 1 9055 
+2003 Quebec.txt 3 6578 9030 9860 
+2000 Quebec.txt 2 9421 9460 
+2001 Quebec.txt 2 7095 7421 
+2006 Quebec.txt 4 373 6599 7241 7876 
+came Quebec.txt 3 4231 4774 4822 
+2004 Quebec.txt 2 11729 11910 
+impatiens Quebec.txt 1 13048 
+carved Quebec.txt 1 12815 
+fresh Quebec.txt 4 971 985 2614 9142 
+2008 Quebec.txt 2 10072 10117 
+2009 Quebec.txt 4 8156 8601 9436 9456 
+caribou Quebec.txt 1 2472 
+having Quebec.txt 4 1986 2702 7948 9338 
+once Quebec.txt 1 3723 
+issued Quebec.txt 1 4242 
+cinma Quebec.txt 2 10946 11000 
+resistance Quebec.txt 1 5187 
+lowland Quebec.txt 4 944 1298 1375 1857 
+existing Quebec.txt 2 645 6147 
+highways Quebec.txt 1 9806 
+proposition Quebec.txt 1 6192 
+richler Quebec.txt 1 11468 
+1856 Quebec.txt 1 8531 
+go Quebec.txt 1 12439 
+humid Quebec.txt 4 295 1975 1992 2295 
+contributions Quebec.txt 1 10175 
+kate Quebec.txt 1 10671 
+baron Quebec.txt 1 11108 
+vietnamese Quebec.txt 1 7938 
+young Quebec.txt 1 4131 
+arid Quebec.txt 1 3025 
+languages Quebec.txt 9 7567 7665 7777 7811 7894 7912 8014 8033 8048 
+culinary Quebec.txt 1 12433 
+uniqueness Quebec.txt 1 6545 
+commissions Quebec.txt 1 8042 
+include Quebec.txt 9 624 798 2509 10492 10662 11394 11437 11464 12683 
+resources Quebec.txt 7 399 1646 8260 8905 8923 8961 8968 
+g7 Quebec.txt 2 8505 9295 
+queen Quebec.txt 1 6666 
+outside Quebec.txt 1 4351 
+1793 Quebec.txt 2 7564 7578 
+1791 Quebec.txt 2 672 5027 
+earless Quebec.txt 1 2581 
+snowshoe Quebec.txt 1 2515 
+valued Quebec.txt 2 8789 8805 
+seaway Quebec.txt 2 1139 9877 
+trough Quebec.txt 1 9963 
+continued Quebec.txt 1 3701 
+minerals Quebec.txt 2 8988 9016 
+morisset Quebec.txt 1 11487 
+alouettes Quebec.txt 1 12689 
+experiencing Quebec.txt 1 8423 
+notes Quebec.txt 1 13187 
+eve Quebec.txt 1 10586 
+flq Quebec.txt 1 5821 
+bagels Quebec.txt 1 12458 
+trudeau Quebec.txt 5 5719 5925 6120 6135 6246 
+dmocratique Quebec.txt 1 6423 
+chrtien Quebec.txt 2 6252 6564 
+1663 Quebec.txt 1 4068 
+noted Quebec.txt 1 7271 
+smaller Quebec.txt 2 1191 7769 
+dufresne Quebec.txt 1 11582 
+crow Quebec.txt 1 2685 
+crop Quebec.txt 1 1494 
+rivers Quebec.txt 5 1016 1232 1636 1837 9122 
+hindu Quebec.txt 1 7494 
+carillon Quebec.txt 2 12935 12939 
+folk Quebec.txt 1 10611 
+plays Quebec.txt 3 8866 9371 11342 
+business Quebec.txt 2 8949 10905 
+paintings Quebec.txt 1 12205 
+giving Quebec.txt 1 10563 
+anthem Quebec.txt 3 10706 10737 13129 
+paroles Quebec.txt 1 11123 
+multimedia Quebec.txt 2 8581 8740 
+gaspsie Quebec.txt 2 1205 12896 
+expressed Quebec.txt 1 6341 
+networks Quebec.txt 2 10007 10976 
+access Quebec.txt 1 1107 
+lumber Quebec.txt 2 1800 8844 
+capital Quebec.txt 4 12 212 1105 6830 
+patriotic Quebec.txt 1 11170 
+bird Quebec.txt 1 2603 
+body Quebec.txt 1 1043 
+n.m Quebec.txt 1 9708 
+led Quebec.txt 8 3963 4652 5177 5418 5632 6366 6415 6427 
+chose Quebec.txt 1 528 
+exchange Quebec.txt 1 4026 
+mauricie Quebec.txt 1 1357 
+440 Quebec.txt 1 3246 
+commercial Quebec.txt 1 8053 
+sexguttata Quebec.txt 2 13055 13056 
+gilles Quebec.txt 4 10668 11445 12707 13118 
+following Quebec.txt 4 5284 7171 7926 12224 
+explore Quebec.txt 1 3873 
+objects Quebec.txt 1 3857 
+separation Quebec.txt 4 4967 5127 6060 10435 
+totalled Quebec.txt 1 8597 
+invented Quebec.txt 1 9593 
+fifteen Quebec.txt 1 8982 
+kidnapped Quebec.txt 1 5870 
+extreme Quebec.txt 1 1728 
+settling Quebec.txt 1 3691 
+great Quebec.txt 8 626 661 1151 2757 3888 4379 11126 13150 
+biodiversity Quebec.txt 1 2529 
+rosary Quebec.txt 1 5886 
+scisat-1 Quebec.txt 1 9527 
+involved Quebec.txt 1 5572 
+31 Quebec.txt 1 2423 
+larger Quebec.txt 2 151 12526 
+gens Quebec.txt 2 10723 13114 
+35 Quebec.txt 1 2340 
+1534 Quebec.txt 3 3655 11139 12898 
+resulting Quebec.txt 2 3164 5841 
+jewelwing Quebec.txt 1 13038 
+defeat Quebec.txt 1 3755 
+principally Quebec.txt 1 1807 
+residents Quebec.txt 5 217 5173 7737 7788 7855 
+makes Quebec.txt 2 1474 8276 
+honor Quebec.txt 1 11282 
+composed Quebec.txt 5 1696 2462 3328 3378 9138 
+0.9 Quebec.txt 1 7257 
+win Quebec.txt 1 6010 
+private Quebec.txt 1 10974 
+linnovation Quebec.txt 1 9193 
+talon Quebec.txt 2 4083 12486 
+gaston Quebec.txt 1 11299 
+festivals Quebec.txt 1 10594 
+announced Quebec.txt 2 10392 10640 
+use Quebec.txt 4 540 5006 7987 12126 
+strangled Quebec.txt 1 5882 
+from Quebec.txt 65 479 747 883 918 1302 1408 1511 1585 1711 1897 1912 2006 2015 2033 2185 2233 2249 2261 2300 2919 3318 3733 3767 3780 4010 4194 4726 4765 5067 5367 5579 5707 6001 6025 6142 6387 6702 6835 6841 6972 7176 8220 8593 9588 9951 10186 10610 10625 10694 11086 11304 11343 11455 11462 11511 11519 11814 11827 12209 12299 12307 12319 12334 12358 12371 
+links Quebec.txt 1 13192 
+remains Quebec.txt 3 8181 12208 12638 
+illegal Quebec.txt 1 3985 
+hudson Quebec.txt 6 71 77 1036 2948 3587 3893 
+next Quebec.txt 2 755 9221 
+few Quebec.txt 3 756 5889 10487 
+camera Quebec.txt 3 9596 9616 9629 
+themselves Quebec.txt 2 4161 7790 
+kosmogonia Quebec.txt 1 11769 
+historically Quebec.txt 2 154 13079 
+moved Quebec.txt 1 6608 
+parliament Quebec.txt 12 707 759 783 5159 5281 5444 6163 6170 6656 12823 12992 13070 
+formally Quebec.txt 1 582 
+unilaterally Quebec.txt 1 12771 
+redivided Quebec.txt 1 721 
+occurred Quebec.txt 1 5163 
+transient Quebec.txt 1 3155 
+0.7 Quebec.txt 2 7458 7471 
+iii Quebec.txt 2 4893 5091 
+appointed Quebec.txt 1 6710 
+women Quebec.txt 5 4121 4133 6786 7148 10428 
+high Quebec.txt 7 1718 2187 4164 6446 6451 7133 12329 
+works Quebec.txt 7 9766 10344 11322 11510 11638 12037 12216 
+animals Quebec.txt 2 2505 2587 
+entreprises Quebec.txt 1 10341 
+f Quebec.txt 6 2317 2329 2343 2351 2984 3225 
+this Quebec.txt 40 2 718 767 806 864 1185 1475 2169 3157 3229 3280 4246 5107 6365 6404 6473 6616 6638 7050 7149 7191 7329 7402 7544 7812 8065 8611 8846 8856 8887 9489 9552 9628 10119 10161 11161 11344 12576 12642 13110 
+pour Quebec.txt 1 1017 
+reproduce Quebec.txt 1 12217 
+reserves Quebec.txt 2 969 7308 
+publications Quebec.txt 3 8112 9408 9431 
+island Quebec.txt 10 129 226 241 1361 2566 4392 5381 5408 5526 7833 
+industrial Quebec.txt 1 9015 
+averages Quebec.txt 1 8494 
+undercount Quebec.txt 1 7278 
+control Quebec.txt 3 5196 6011 6093 
+0.8 Quebec.txt 2 7476 7929 
+reserved Quebec.txt 1 6920 
+unveiled Quebec.txt 2 8628 9938 
+patron Quebec.txt 1 13088 
+plate Quebec.txt 1 12844 
+0.1 Quebec.txt 2 991 7496 
+0.3 Quebec.txt 3 7492 7939 7942 
+fusiliers Quebec.txt 1 5662 
+tax Quebec.txt 2 6816 6820 
+0.4 Quebec.txt 2 7261 7937 
+plebiscite Quebec.txt 1 6054 
+0.6 Quebec.txt 2 7489 7931 
+depiction Quebec.txt 1 3610 
+taiga Quebec.txt 7 1767 1773 2886 2929 3016 3030 3064 
+employs Quebec.txt 2 8773 8848 
+spruce Quebec.txt 4 1786 3342 3345 12481 
+1991 Quebec.txt 1 9458 
+native Quebec.txt 2 7612 7952 
+lamb Quebec.txt 1 2827 
+summers Quebec.txt 4 296 1993 2111 2164 
+united Quebec.txt 12 392 665 2020 5447 5561 6144 6161 6627 7460 9471 10109 10209 
+230 Quebec.txt 1 13025 
+chic-choc Quebec.txt 1 1940 
+hampshire Quebec.txt 1 115 
+arrangement Quebec.txt 1 10450 
+regions Quebec.txt 11 256 956 1206 1351 1661 1961 2147 2435 3036 8853 10003 
+located Quebec.txt 3 875 1270 4366 
+varies Quebec.txt 2 2232 2274 
+swear Quebec.txt 1 5087 
+forest Quebec.txt 23 1778 2887 2933 2936 2939 3009 3019 3077 3087 3128 3138 3147 3150 3182 3207 3305 3326 3370 8796 8833 8960 9109 9813 
+animal Quebec.txt 1 3053 
+volant Quebec.txt 1 12282 
+47.3 Quebec.txt 1 7667 
+establishment Quebec.txt 1 4706 
+thtre Quebec.txt 4 10271 10796 11363 11378 
+greatly Quebec.txt 1 10221 
+buildings Quebec.txt 5 5160 11693 11704 11993 12146 
+waters Quebec.txt 3 1399 2607 9844 
+masterpieces Quebec.txt 1 11549 
+collection Quebec.txt 1 4991 
+chiefs Quebec.txt 1 3732 
+single-language Quebec.txt 1 7923 
+cdpnqfrench Quebec.txt 1 2871 
+tlromans Quebec.txt 1 10986 
+demonstrating Quebec.txt 1 10375 
+spelling Quebec.txt 1 511 
+da Quebec.txt 1 3634 
+1883 Quebec.txt 1 12827 
+advocated Quebec.txt 1 6136 
+loize Quebec.txt 1 11767 
+nickel Quebec.txt 1 9009 
+damselfly Quebec.txt 1 13039 
+trembling Quebec.txt 1 3436 
+initiative Quebec.txt 1 10313 
+claire Quebec.txt 1 10702 
+mcgill Quebec.txt 1 9663 
+subsequently Quebec.txt 1 5349 
+volunteers Quebec.txt 1 5578 
+counted Quebec.txt 2 7243 7315 
+sanctioned Quebec.txt 1 4595 
+produces Quebec.txt 1 12547 
+manufactured Quebec.txt 1 9172 
+move Quebec.txt 2 2012 2023 
+oral Quebec.txt 1 11199 
+produced Quebec.txt 5 9339 9462 12469 12523 12556 
+own Quebec.txt 4 5143 5885 10691 12950 
+including Quebec.txt 18 224 1001 1966 2061 3239 7252 7445 7454 7470 7512 8574 9004 9393 9526 10013 11994 12537 12730 
+warred Quebec.txt 1 3599 
+poutine Quebec.txt 2 12298 12414 
+agricultural Quebec.txt 2 1480 3266 
+dyouville Quebec.txt 1 1698 
+butternut Quebec.txt 1 3397 
+industries Quebec.txt 8 431 1656 1801 8573 8785 8985 9392 12521 
+traders Quebec.txt 1 4191 
+le Quebec.txt 7 2561 5664 7561 11334 11379 12245 12251 
+lettres Quebec.txt 1 10307 
+la Quebec.txt 29 559 1833 3904 3917 4284 4287 5667 7555 8338 9189 10626 10701 10751 10813 10814 10815 11110 11364 11476 11764 11901 12254 12262 12300 12582 12849 12857 13102 13107 
+masses Quebec.txt 2 2129 2184 
+brook Quebec.txt 1 2639 
+walnut Quebec.txt 1 3399 
+permanent Quebec.txt 1 3823 
+293,900 Quebec.txt 1 9104 
+minke Quebec.txt 1 2575 
+instruments Quebec.txt 1 10535 
+latitude Quebec.txt 4 933 2121 2276 9115 
+covered Quebec.txt 2 1396 1676 
+2017 Quebec.txt 2 8319 8640 
+imbalance Quebec.txt 1 4116 
+2011 Quebec.txt 11 6974 7016 7135 7616 7645 7675 7765 7906 8439 9256 12150 
+2010 Quebec.txt 2 2443 8271 
+2013 Quebec.txt 4 7000 8471 8638 9284 
+2012 Quebec.txt 3 6857 7108 9935 
+eastward Quebec.txt 1 2013 
+greater Quebec.txt 6 221 1006 2124 2248 3046 4873 
+orthodox Quebec.txt 2 7468 7474 
+townships Quebec.txt 1 253 
+anchored Quebec.txt 1 11268 
+practice Quebec.txt 2 4618 12620 
+perrot Quebec.txt 1 11114 
+158 Quebec.txt 2 8778 8978 
+pellerin Quebec.txt 1 11297 
+mandate Quebec.txt 1 10844 
+front Quebec.txt 4 5585 5800 5816 11482 
+fled Quebec.txt 1 3766 
+worlds Quebec.txt 5 967 983 1088 1162 9377 
+february Quebec.txt 1 10385 
+airports Quebec.txt 2 9970 9986 
+nfb Quebec.txt 1 10861 
+dbat Quebec.txt 1 7549 
+nationale Quebec.txt 3 5703 6701 13058 
+cider Quebec.txt 1 12553 
+fiddle Quebec.txt 1 10546 
+fields Quebec.txt 1 10333 
+accounts Quebec.txt 2 8876 11097 
+traces Quebec.txt 1 11124 
+baie-comeaumatane Quebec.txt 1 9719 
+promises Quebec.txt 1 8654 
+reproducing Quebec.txt 1 12234 
+studios Quebec.txt 1 10949 
+bilinguals Quebec.txt 1 7818 
+climatic Quebec.txt 2 2003 2291 
+society Quebec.txt 9 6540 6574 7066 10383 10403 10423 10466 10475 10599 
+books Quebec.txt 1 8001 
+thirteen Quebec.txt 1 46 
+filmmaking Quebec.txt 1 10907 
+separating Quebec.txt 1 5999 
+our Quebec.txt 1 11941 
+80 Quebec.txt 1 2421 
+81 Quebec.txt 1 5102 
+agriculture Quebec.txt 1 8893 
+special Quebec.txt 1 6491 
+out Quebec.txt 2 7104 8935 
+category Quebec.txt 1 11346 
+southerly Quebec.txt 1 325 
+frontier Quebec.txt 1 4247 
+penfield Quebec.txt 1 9645 
+wholly Quebec.txt 1 6524 
+similarly Quebec.txt 1 10854 
+etymology Quebec.txt 1 453 
+bicameral Quebec.txt 1 6717 
+ren Quebec.txt 3 5791 5953 6171 
+unprepared Quebec.txt 1 5235 
+allophones Quebec.txt 1 7744 
+reformist Quebec.txt 1 5327 
+cause Quebec.txt 1 4821 
+integrated Quebec.txt 1 9889 
+red Quebec.txt 3 3388 3411 12793 
+achievements Quebec.txt 2 6801 12669 
+high-tech Quebec.txt 1 8609 
+approached Quebec.txt 1 3364 
+4,150 Quebec.txt 1 9885 
+mississippi Quebec.txt 1 3902 
+temps Quebec.txt 2 12246 12421 
+meech Quebec.txt 2 6312 6358 
+york Quebec.txt 1 119 
+legends Quebec.txt 1 11207 
+allies Quebec.txt 2 3750 5322 
+culturel Quebec.txt 1 11922 
+latitudes Quebec.txt 1 326 
+times Quebec.txt 5 899 6017 6036 7408 9599 
+souviens Quebec.txt 2 12807 12810 
+length Quebec.txt 2 2227 10034 
+4th Quebec.txt 1 9691 
+retain Quebec.txt 2 8085 8124 
+south Quebec.txt 12 101 634 658 945 1333 1763 2137 2301 2997 3367 4438 4657 
+designed Quebec.txt 2 5110 9170 
+450 Quebec.txt 1 9671 
+powerful Quebec.txt 1 9601 
+scene Quebec.txt 1 10220 
+reaches Quebec.txt 1 8457 
+761,100 Quebec.txt 1 9101 
+choose Quebec.txt 1 13010 
+representations Quebec.txt 1 11543 
+qubec Quebec.txt 31 39 476 531 2804 2890 3819 5548 5804 5820 6592 8120 9716 9738 9765 9791 10279 10309 10358 10769 10783 10798 11428 11661 11668 11888 11924 11931 12001 12911 13147 13164 
+bridge-tunnel Quebec.txt 1 9841 
+vice-premier Quebec.txt 1 5879 
+legislative Quebec.txt 7 693 6721 6725 6731 6737 6752 7571 
+bois Quebec.txt 1 3864 
+ancient Quebec.txt 3 1446 1880 12883 
+festival Quebec.txt 9 11004 11043 11051 11060 11063 11857 11862 11867 11872 
+journals Quebec.txt 1 13188 
+maurice Quebec.txt 1 5698 
+accent Quebec.txt 1 8090 
+system Quebec.txt 3 3937 5010 9567 
+relations Quebec.txt 2 3742 11117 
+renovation Quebec.txt 1 12143 
+their Quebec.txt 25 1018 3487 3749 3760 3848 4008 4186 4564 4953 5047 5223 5849 5893 7177 7610 7690 7702 7741 8086 8125 10379 10690 11116 11263 11820 
+attack Quebec.txt 3 4217 4314 4729 
+groseilliers Quebec.txt 1 3897 
+travelled Quebec.txt 1 3783 
+tourists Quebec.txt 1 1863 
+songwriters Quebec.txt 1 10642 
+prone Quebec.txt 1 1426 
+punish Quebec.txt 1 4668 
+printmaking Quebec.txt 1 11552 
+too Quebec.txt 1 4939 
+overwhelming Quebec.txt 1 6199 
+3886 Quebec.txt 1 9861 
+lion Quebec.txt 1 12791 
+72.8 Quebec.txt 1 7852 
+belles-surs Quebec.txt 1 11350 
+ferry Quebec.txt 1 9707 
+abolished Quebec.txt 1 6734 
+providing Quebec.txt 1 5455 
+cliff-lined Quebec.txt 1 505 
+nomadic Quebec.txt 1 3505 
+result Quebec.txt 3 307 5437 6405 
+1.4 Quebec.txt 1 7466 
+1.5 Quebec.txt 3 7232 7250 7483 
+tracts Quebec.txt 1 1506 
+2014 Quebec.txt 1 6875 
+19:29 Quebec.txt 1 2252 
+survives Quebec.txt 1 2975 
+lac-saint-louis Quebec.txt 1 7843 
+saint-maurice Quebec.txt 1 1251 
+cohen Quebec.txt 1 11466 
+leclerc Quebec.txt 1 10666 
+38.2 Quebec.txt 1 10088 
+defending Quebec.txt 1 4724 
+have Quebec.txt 24 182 336 400 432 1973 2150 2800 3560 3995 5905 6065 6283 6553 7173 7738 8055 8455 9497 9592 10689 11129 12327 12396 12948 
+need Quebec.txt 2 4514 4521 
+manitoba Quebec.txt 4 5513 6327 6352 7342 
+border Quebec.txt 3 843 1273 1885 
+catholic Quebec.txt 9 3867 4602 5054 5716 5770 7400 7443 7449 12085 
+mountainous Quebec.txt 1 1548 
+fils Quebec.txt 1 12280 
+dishes Quebec.txt 1 12326 
+calopteryx Quebec.txt 1 13040 
+agency Quebec.txt 2 8316 9478 
+able Quebec.txt 3 6263 7655 7670 
+anglo Quebec.txt 1 5759 
+radarsat-2 Quebec.txt 1 9531 
+supplanted Quebec.txt 1 3563 
+which Quebec.txt 23 477 908 1590 2546 3058 3495 4439 5417 6062 6317 6703 7058 7732 8275 8373 8548 9197 9676 10491 10523 12462 12644 13094 
+camille-marcoux Quebec.txt 1 9709 
+lily Quebec.txt 1 12785 
+vegetation Quebec.txt 5 2885 2911 2960 2974 3283 
+salle Quebec.txt 1 3905 
+theatres Quebec.txt 1 10928 
+hydro-qubec Quebec.txt 2 5779 10045 
+centre Quebec.txt 7 2865 3264 9046 10138 12008 12012 12608 
+who Quebec.txt 4 6384 6689 7515 7638 
+said Quebec.txt 1 7506 
+eight Quebec.txt 1 9851 
+chien Quebec.txt 1 12266 
+topographic Quebec.txt 1 955 
+centimetres Quebec.txt 3 2064 2415 2422 
+2021-2022 Quebec.txt 1 8303 
+frederick Quebec.txt 1 4828 
+face Quebec.txt 1 5907 
+1,000 Quebec.txt 1 2055 
+capita Quebec.txt 3 8165 8190 8216 
+suzor-cot Quebec.txt 1 11575 
+movie Quebec.txt 1 10927 
+brew Quebec.txt 1 11353 
+huron-wyandot Quebec.txt 1 3731 
+skunk Quebec.txt 1 2520 
+painting Quebec.txt 2 7548 11551 
+warblers Quebec.txt 1 2690 
+affair Quebec.txt 1 4253 
+tamarack Quebec.txt 1 3348 
+sovereigntist Quebec.txt 1 6372 
+agreed Quebec.txt 1 4020 
+charles Quebec.txt 5 4019 7580 11474 11587 11658 
+quebecs Quebec.txt 35 1221 1255 1470 1533 1795 3276 6013 6303 7015 8251 8379 8381 8419 8434 8660 8770 8862 8881 9082 9093 9248 10163 10267 10540 10654 10695 11969 12380 12779 12802 12822 12945 12991 13076 13127 
+doigts Quebec.txt 1 11762 
+soldiers Quebec.txt 1 4223 
+chicken Quebec.txt 1 2813 
+debate Quebec.txt 3 6510 6633 7565 
+decade Quebec.txt 2 8390 12497 
+principal Quebec.txt 1 10287 
+lowlands Quebec.txt 4 1413 3099 3201 3375 
+ha Quebec.txt 1 5103 
+based Quebec.txt 4 3507 8245 8561 8689 
+knowledge Quebec.txt 7 411 7630 7887 8345 8395 8413 8648 
+jay Quebec.txt 1 2682 
+jaw Quebec.txt 1 10548 
+hydroelectric Quebec.txt 3 1061 1829 5776 
+should Quebec.txt 1 7269 
+entities Quebec.txt 1 3503 
+planted Quebec.txt 1 3660 
+libre Quebec.txt 1 11669 
+riding Quebec.txt 1 6039 
+partially Quebec.txt 1 6526 
+thousands Quebec.txt 1 1816 
+astronomical Quebec.txt 1 9595 
+achieve Quebec.txt 1 4863 
+rideau Quebec.txt 1 11399 
+regularly Quebec.txt 1 7286 
+means Quebec.txt 4 6445 6450 6639 10562 
+seizing Quebec.txt 1 3980 
+overall Quebec.txt 1 9422 
+bear Quebec.txt 2 2476 2480 
+rubrique Quebec.txt 1 11365 
+120 Quebec.txt 1 2065 
+ones Quebec.txt 1 6075 
+legitimate Quebec.txt 1 8097 
+timing Quebec.txt 1 4648 
+lifestyles Quebec.txt 1 3488 
+dwellings Quebec.txt 1 6968 
+areas Quebec.txt 16 200 310 332 1341 2051 2071 2713 2909 2915 3020 3088 3430 5978 7718 8946 11642 
+symbols Quebec.txt 3 12758 12761 13000 
+places Quebec.txt 1 13158 
+tobacco Quebec.txt 1 8900 
+circuses Quebec.txt 2 11757 11788 
+conditions Quebec.txt 2 318 2204 
+taxes Quebec.txt 3 6824 6832 6869 
+affluent Quebec.txt 1 1231 
+influenced Quebec.txt 3 11500 12079 12629 
+qc Quebec.txt 1 9151 
+ohio Quebec.txt 3 630 3899 4196 
+view Quebec.txt 1 8217 
+spotted Quebec.txt 1 13030 
+breweries Quebec.txt 1 12534 
+akya Quebec.txt 1 11773 
+expel Quebec.txt 1 4189 
+national Quebec.txt 28 5433 5934 6014 6580 6697 6742 6765 7993 8006 8336 9808 9910 10589 10736 10856 10988 11414 11491 11608 11879 12059 12154 12168 12640 12757 13059 13063 13077 
+terrain Quebec.txt 2 1549 3516 
+module Quebec.txt 1 9178 
+immigrant Quebec.txt 1 6204 
+legacy Quebec.txt 1 7405 
+reinforcements Quebec.txt 1 4773 
+greece Quebec.txt 1 8206 
+responses Quebec.txt 2 7228 7924 
+still Quebec.txt 3 7042 12677 12861 
+computer Quebec.txt 1 8721 
+4:54 Quebec.txt 1 2250 
+amtrak Quebec.txt 1 9932 
+placed Quebec.txt 1 6107 
+laureate Quebec.txt 1 9165 
+below Quebec.txt 2 7043 12804 
+state Quebec.txt 3 6676 10439 10963 
+luc Quebec.txt 1 11513 
+closed Quebec.txt 1 12495 
+boundary Quebec.txt 3 455 788 865 
+midnight Quebec.txt 1 2284 
+tent Quebec.txt 1 11778 
+cadieux Quebec.txt 1 11221 
+capitale-nationale Quebec.txt 2 1354 1724 
+monarchy Quebec.txt 2 6648 12888 
+agencies Quebec.txt 1 2876 
+key Quebec.txt 1 9303 
+quebeckers Quebec.txt 1 8670 
+approval Quebec.txt 1 6304 
+payette Quebec.txt 1 9510 
+problem Quebec.txt 1 4965 
+nord-du-qubec Quebec.txt 1 258 
+bee Quebec.txt 1 13046 
+explorations Quebec.txt 1 9061 
+robberies Quebec.txt 1 5833 
+accordion Quebec.txt 1 10551 
+mockup Quebec.txt 1 8520 
+equal Quebec.txt 1 8441 
+boulders Quebec.txt 1 1596 
+etc Quebec.txt 7 2502 2651 10996 11336 11381 11412 12031 
+ranked Quebec.txt 5 7150 8196 9252 9690 10074 
+streams Quebec.txt 1 1634 
+organisation Quebec.txt 1 8497 
+strongly Quebec.txt 1 12078 
+cn Quebec.txt 1 9911 
+laurentian Quebec.txt 4 1328 1557 1670 1679 
+irish Quebec.txt 1 12387 
+outcrops Quebec.txt 1 1388 
+news Quebec.txt 1 10991 
+coercive Quebec.txt 1 4645 
+table Quebec.txt 1 7192 
+acres Quebec.txt 1 5101 
+chickadee Quebec.txt 1 2688 
+provinces Quebec.txt 22 11 47 396 724 740 1097 5294 5463 5478 5504 6495 6506 6544 6673 6843 7005 7091 7158 7351 7395 8433 9281 
+addition Quebec.txt 6 811 2820 7944 9816 9980 11383 
+catholicism Quebec.txt 2 4708 11508 
+intendant Quebec.txt 1 4081 
+cent Quebec.txt 1 6866 
+liberals Quebec.txt 2 5722 5741 
+willing Quebec.txt 1 5085 
+slowly Quebec.txt 1 4087 
+42.6 Quebec.txt 1 7801 
+degrees Quebec.txt 1 9113 
+proposal Quebec.txt 1 5430 
+554,400 Quebec.txt 1 7771 
+diversity Quebec.txt 4 3108 3161 3236 10411 
+hoisted Quebec.txt 1 12917 
+crisscross Quebec.txt 1 10008 
+route Quebec.txt 1 3650 
+tl-qubec Quebec.txt 1 10965 
+overwhelmingly Quebec.txt 1 7398 
+climate Quebec.txt 16 277 932 1473 1950 1952 1960 1977 1979 2093 2153 2999 3106 3217 3582 12353 12635 
+sales Quebec.txt 2 6819 8596 
+belvedere Quebec.txt 1 8223 
+pellan Quebec.txt 1 11584 
+ensuring Quebec.txt 1 9717 
+expenditure Quebec.txt 1 9287 
+papineau Quebec.txt 1 5180 
+general Quebec.txt 4 4335 4342 4742 10971 
+present Quebec.txt 2 248 12970 
+val-jalbert Quebec.txt 2 11950 12054 
+divisions Quebec.txt 1 5612 
+2016 Quebec.txt 2 6953 6998 
+abandoned Quebec.txt 1 6320 
+plain Quebec.txt 1 1410 
+britain Quebec.txt 4 590 4300 4380 5425 
+value Quebec.txt 1 9032 
+rectangular Quebec.txt 1 1505 
+will Quebec.txt 5 5904 8454 9274 11163 11184 
+eastmain Quebec.txt 1 1836 
+fleurdelis Quebec.txt 2 12873 12965 
+sucre Quebec.txt 1 12443 
+lassurance Quebec.txt 1 9788 
+wild Quebec.txt 1 2495 
+discoveries Quebec.txt 2 9550 9654 
+carleton Quebec.txt 7 4511 4811 4834 4855 4895 4915 5063 
+at Quebec.txt 47 323 729 1094 1226 1258 1449 1821 2139 2223 2254 3311 3467 3690 4232 4325 4462 4844 5059 5838 5843 5915 6910 6930 6934 6938 7010 7032 7522 7628 8166 8173 8289 8790 8806 9662 10136 10793 10800 11366 11605 12575 12605 12655 12875 12931 13182 13197 
+trois-pistoles Quebec.txt 1 11217 
+daigle Quebec.txt 1 9583 
+transited Quebec.txt 1 9869 
+les Quebec.txt 8 4136 5661 7551 10997 11349 11760 12257 12269 
+almost Quebec.txt 6 3254 3284 6213 8807 9819 10113 
+thus Quebec.txt 3 4091 5095 11544 
+site Quebec.txt 2 470 1167 
+surface Quebec.txt 1 977 
+arrangements Quebec.txt 1 10408 
+dual Quebec.txt 1 7227 
+claimed Quebec.txt 2 3668 4695 
+foreign Quebec.txt 1 11649 
+privateers Quebec.txt 1 3962 
+productivity Quebec.txt 1 8266 
+perhaps Quebec.txt 1 1629 
+parti Quebec.txt 6 347 5931 5938 5949 6090 6459 
+began Quebec.txt 3 3725 4199 12586 
+buddhist Quebec.txt 1 7491 
+administration Quebec.txt 2 5313 5337 
+cross Quebec.txt 4 3662 5862 12924 12985 
+unity Quebec.txt 1 5935 
+parts Quebec.txt 2 1615 5475 
+northwest Quebec.txt 2 5516 9065 
+geographical Quebec.txt 1 2835 
+largest Quebec.txt 14 136 968 1041 1067 1089 1098 1163 4886 6692 7305 8199 8280 10026 10097 
+habitats Quebec.txt 1 3163 
+party Quebec.txt 8 3798 5328 5985 6007 6375 6413 6426 6693 
+terrorism Quebec.txt 1 5829 
+conflicting Quebec.txt 1 4526 
+centre-du-qubec Quebec.txt 1 1344 
+columbia Quebec.txt 3 5521 7163 7338 
+context Quebec.txt 1 12313 
+maculata Quebec.txt 2 13034 13041 
+bald Quebec.txt 1 2732 
+upon Quebec.txt 2 6164 6783 
+lower-canada Quebec.txt 1 5220 
+schwartzs Quebec.txt 1 12308 
+whale Quebec.txt 3 2571 2576 3575 
+indigenous Quebec.txt 3 3455 3745 11119 
+exoplanet Quebec.txt 1 9579 
+identity Quebec.txt 1 11182 
+premiers Quebec.txt 2 6258 10413 
+rift Quebec.txt 1 1417 
+off Quebec.txt 1 4367 
+i Quebec.txt 4 3639 3677 5554 12811 
+cseries Quebec.txt 1 8524 
+well Quebec.txt 8 2278 3414 3908 4488 6798 7481 9067 10180 
+asked Quebec.txt 2 5261 5330 
+patterns Quebec.txt 2 1519 2077 
+350 Quebec.txt 1 3173 
+position Quebec.txt 2 8928 9308 
+arising Quebec.txt 1 12357 
+1920s1930s Quebec.txt 1 10630 
+restore Quebec.txt 1 4882 
+less Quebec.txt 4 640 2134 2965 6219 
+increasingly Quebec.txt 1 8108 
+percent Quebec.txt 38 6027 6030 6184 6483 6487 7224 7233 7251 7258 7262 7267 7385 7429 7435 7442 7447 7451 7456 7459 7464 7467 7472 7477 7484 7487 7490 7493 7497 7502 7514 7603 7648 7679 7696 7757 7773 7802 7880 
+proximity Quebec.txt 1 938 
+executive Quebec.txt 1 6705 
+domestic Quebec.txt 3 8159 8212 8407 
+165960 Quebec.txt 1 3898 
+salmon Quebec.txt 1 2647 
+fishing Quebec.txt 2 3512 3698 
+patrie Quebec.txt 1 12264 
+paul Quebec.txt 2 6174 11577 
+ecozone Quebec.txt 1 3180 
+vido Quebec.txt 1 10752 
+density Quebec.txt 1 6992 
+satellites Quebec.txt 1 9525 
+onward Quebec.txt 1 11458 
+deposits Quebec.txt 2 1594 1611 
+janvier Quebec.txt 1 7563 
+day Quebec.txt 2 4442 13111 
+admiral Quebec.txt 1 13016 
+clyde Quebec.txt 1 6338 
+extends Quebec.txt 3 1300 1844 1896 
+subordinated Quebec.txt 1 10454 
+280 Quebec.txt 1 3122 
+0.5 Quebec.txt 4 7384 7463 7933 7935 
+ski Quebec.txt 1 1865 
+earthquakes Quebec.txt 1 1431 
+versailles Quebec.txt 1 655 
+kirke Quebec.txt 1 3966 
+increased Quebec.txt 1 6024 
+kilometres Quebec.txt 6 1010 3314 9103 9802 9884 10030 
+rgiment Quebec.txt 1 5665 
+chambly Quebec.txt 1 12057 
+260 Quebec.txt 1 8546 
+five Quebec.txt 3 2383 5845 7350 
+know Quebec.txt 1 7858 
+capitulation Quebec.txt 1 4169 
+press Quebec.txt 1 10414 
+scientifique Quebec.txt 1 8340 
+prominent Quebec.txt 1 11260 
+loss Quebec.txt 1 6230 
+motorola Quebec.txt 1 8711 
+like Quebec.txt 6 2720 8236 11273 12099 12179 13146 
+excluding Quebec.txt 1 6917 
+purchasing Quebec.txt 1 8167 
+83.2 Quebec.txt 2 7145 7446 
+payments Quebec.txt 3 6834 6840 6846 
+january Quebec.txt 2 7576 12995 
+become Quebec.txt 4 438 698 3721 12941 
+montcalm Quebec.txt 1 4345 
+university Quebec.txt 1 9664 
+italian Quebec.txt 1 3631 
+alabama Quebec.txt 1 1898 
+because Quebec.txt 3 2025 3214 8840 
+pauline Quebec.txt 1 8624 
+unsuccessful Quebec.txt 1 6555 
+library Quebec.txt 1 4992 
+115 Quebec.txt 1 8702 
+redress Quebec.txt 1 4113 
+warmer Quebec.txt 1 3105 
+110 Quebec.txt 1 8731 
+pierrette-gaudreault Quebec.txt 1 11368 
+home Quebec.txt 6 7070 7629 7703 7782 10955 12060 
+empire Quebec.txt 1 3815 
+peter Quebec.txt 1 4989 
+recognition Quebec.txt 3 4576 4876 6568 
+francisco Quebec.txt 1 11677 
+contested Quebec.txt 1 6041 
+objected Quebec.txt 1 4687 
+mines Quebec.txt 1 8977 
+glacial Quebec.txt 2 1593 3460 
+belt Quebec.txt 1 7829 
+traversiers Quebec.txt 1 9714 
+trout Quebec.txt 2 2640 2650 
+767,415 Quebec.txt 1 7694 
+poets Quebec.txt 2 11176 11258 
+acronym Quebec.txt 2 2872 10920 
+rock Quebec.txt 2 1438 2697 
+lieutenant Quebec.txt 1 6662 
+huot Quebec.txt 1 7581 
+mordecai Quebec.txt 1 11467 
+although Quebec.txt 10 1802 4278 4624 4799 5586 7067 9896 11822 12389 12499 
+90,000 Quebec.txt 1 4496 
+television Quebec.txt 8 10827 10836 10850 10882 10892 10909 11032 12232 
+stage Quebec.txt 1 4256 
+jam Quebec.txt 1 11656 
+about Quebec.txt 19 5 1419 1457 1927 3066 3117 5576 7646 7800 7878 8416 8550 8643 8657 8714 8975 9428 9800 13195 
+carried Quebec.txt 1 7103 
+extension Quebec.txt 2 789 821 
+freedom Quebec.txt 2 4596 4615 
+withdrew Quebec.txt 1 4796 
+outaouais Quebec.txt 1 251 
+dominion Quebec.txt 2 5499 5575 
+cosmopolitan Quebec.txt 1 10598 
+isis Quebec.txt 1 9528 
+tongue Quebec.txt 4 7692 7743 7748 7911 
+introduced Quebec.txt 4 2704 3934 5955 11727 
+persuaded Quebec.txt 1 3636 
+software Quebec.txt 2 8579 8722 
+qubec-saint-malo Quebec.txt 1 12748 
+owl Quebec.txt 2 2601 2729 
+equally Quebec.txt 1 6214 
+alliance Quebec.txt 1 3838 
+cavalire Quebec.txt 1 11477 
+non-representative Quebec.txt 1 4701 
+previously Quebec.txt 2 644 4694 
+washington Quebec.txt 2 4213 4744 
+referendum Quebec.txt 5 6053 6115 6233 6440 6468 
+assess Quebec.txt 1 5283 
+guard Quebec.txt 1 9746 
+weather Quebec.txt 1 2076 
+anticosti Quebec.txt 1 1360 
+hubert Quebec.txt 1 11290 
+artists Quebec.txt 6 10252 10634 10657 11561 11896 13176 
+roads Quebec.txt 1 9814 
+quiet Quebec.txt 5 5672 5676 5692 5735 5743 
+1987 Quebec.txt 1 6316 
+1632 Quebec.txt 1 4015 
+1982 Quebec.txt 1 6293 
+additional Quebec.txt 1 7500 
+1980 Quebec.txt 2 355 6113 
+extraction Quebec.txt 1 9959 
+artifacts Quebec.txt 1 12204 
+transfer Quebec.txt 2 4690 6839 
+museum Quebec.txt 8 11492 11609 11615 11621 12181 12185 12191 12195 
+libration Quebec.txt 2 5802 5818 
+continental Quebec.txt 5 284 1976 2182 2296 4755 
+intention Quebec.txt 1 3805 
+self-reported Quebec.txt 1 7194 
+9.8 Quebec.txt 1 7695 
+biggest Quebec.txt 1 7283 
+9.7 Quebec.txt 1 9864 
+9.2 Quebec.txt 2 7122 9145 
+fiscal Quebec.txt 1 8292 
+north Quebec.txt 30 75 299 950 1116 1200 1325 1717 1852 2037 2271 2303 3013 3323 3878 4294 4375 4888 5372 5452 6152 7254 8606 8910 9693 9893 9950 10143 10188 12342 12565 
+hr Quebec.txt 2 9568 9570 
+1860s Quebec.txt 1 5364 
+english-speaking Quebec.txt 4 229 5616 7706 10187 
+but Quebec.txt 13 244 297 1429 2114 2783 5251 5631 6071 6347 6792 7343 8180 12493 
+tasked Quebec.txt 1 10399 
+construction Quebec.txt 2 4200 9941 
+gain Quebec.txt 2 6302 6402 
+courts Quebec.txt 2 7997 8044 
+highest Quebec.txt 9 1256 1944 6853 7062 7088 7815 8402 8487 10369 
+mistassini Quebec.txt 1 1064 
+he Quebec.txt 6 538 3791 3829 3992 6040 6046 
+count Quebec.txt 1 9427 
+constitute Quebec.txt 1 10440 
+baptist Quebec.txt 2 7465 13093 
+made Quebec.txt 5 1118 5202 6300 7754 9652 
+flix Quebec.txt 1 10665 
+evident Quebec.txt 1 8109 
+tienne Quebec.txt 1 3890 
+laporte Quebec.txt 2 5874 5880 
+official Quebec.txt 11 193 2602 4575 5973 7583 7893 7959 12831 12842 12999 13012 
+variations Quebec.txt 1 508 
+43,000 Quebec.txt 1 8551 
+signed Quebec.txt 1 4037 
+record Quebec.txt 1 2368 
+15:50 Quebec.txt 1 2239 
+stories Quebec.txt 1 11195 
+distribution Quebec.txt 2 3429 8903 
+skating Quebec.txt 1 12658 
+settled Quebec.txt 2 3541 8755 
+deaths Quebec.txt 1 5846 
+recognize Quebec.txt 2 6618 11028 
+circus Quebec.txt 5 11717 11731 11880 11895 11914 
+dissemination Quebec.txt 1 10933 
+pig Quebec.txt 1 2844 
+mcgarrigle Quebec.txt 1 10674 
+periods Quebec.txt 1 2331 
+education Quebec.txt 1 7723 
+sympathizers Quebec.txt 1 4814 
+mutual Quebec.txt 1 3761 
+suzanne Quebec.txt 1 11440 
+variety Quebec.txt 1 4675 
+black-capped Quebec.txt 1 2687 
+45 Quebec.txt 1 3224 
+oak Quebec.txt 1 3412 
+forests Quebec.txt 8 1376 1486 1784 3202 3213 3294 9083 9087 
+40 Quebec.txt 5 2348 2350 2414 8301 9019 
+41 Quebec.txt 1 2316 
+forestry Quebec.txt 1 1642 
+other Quebec.txt 28 27 1366 3602 3946 5503 5512 5721 6074 6256 6823 6842 7349 7478 7664 8049 8431 9000 9012 9739 9827 9957 10005 10457 11069 11712 12207 12680 12998 
+gannet Quebec.txt 1 2751 
+branch Quebec.txt 1 3535 
+homme Quebec.txt 1 11330 
+concerning Quebec.txt 1 9878 
+chemist Quebec.txt 1 9159 
+conclusion Quebec.txt 1 12121 
+gallant Quebec.txt 1 11448 
+sunshine Quebec.txt 1 2231 
+living Quebec.txt 4 6789 6961 12016 12022 
+june Quebec.txt 6 2242 4739 8318 13072 13080 13134 
+sustains Quebec.txt 1 1188 
+variation Quebec.txt 1 2245 
+biotechnology Quebec.txt 3 420 9366 9672 
+shown Quebec.txt 3 7239 7389 7920 
+ghost Quebec.txt 1 11947 
+repertoire Quebec.txt 1 10697 
+ranks Quebec.txt 2 8799 9631 
+transports Quebec.txt 2 9736 9763 
+space Quebec.txt 3 9477 9500 9544 
+marguerite Quebec.txt 1 12281 
+rule Quebec.txt 6 648 4090 10471 12783 12790 12797 
+portion Quebec.txt 4 1305 1737 1840 9872 
+write Quebec.txt 1 11148 
+rural Quebec.txt 1 1496 
+premier Quebec.txt 5 5919 6337 6683 6685 10389 
+thunderstorms Quebec.txt 1 2083 

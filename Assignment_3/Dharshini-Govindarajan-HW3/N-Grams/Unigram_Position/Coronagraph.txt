@@ -1,0 +1,491 @@
+phase-mask Coronagraph.txt 4 545 549 556 604 
+concept Coronagraph.txt 2 939 1006 
+caused Coronagraph.txt 1 508 
+disc Coronagraph.txt 1 582 
+disk Coronagraph.txt 3 313 825 1047 
+causes Coronagraph.txt 1 829 
+show Coronagraph.txt 1 1118 
+four-quadrant Coronagraph.txt 1 555 
+removal Coronagraph.txt 1 510 
+to Coronagraph.txt 26 9 39 57 66 121 134 175 285 362 410 500 562 572 583 732 748 764 889 899 921 949 995 1030 1117 1164 1212 
+under Coronagraph.txt 2 805 1157 
+circumstances Coronagraph.txt 1 1159 
+far Coronagraph.txt 1 633 
+wave Coronagraph.txt 1 645 
+categories Coronagraph.txt 2 1245 1247 
+did Coronagraph.txt 1 1217 
+large Coronagraph.txt 1 1172 
+vector Coronagraph.txt 2 1135 1205 
+team Coronagraph.txt 1 1196 
+small Coronagraph.txt 2 371 1210 
+optics Coronagraph.txt 1 1029 
+upper Coronagraph.txt 1 128 
+smaller Coronagraph.txt 1 842 
+direct Coronagraph.txt 2 13 1125 
+unpolarized Coronagraph.txt 1 236 
+surrounding Coronagraph.txt 1 1048 
+invention Coronagraph.txt 2 82 426 
+design Coronagraph.txt 4 237 402 522 799 
+leakage Coronagraph.txt 1 892 
+even Coronagraph.txt 2 146 280 
+skylab Coronagraph.txt 1 728 
+opaque Coronagraph.txt 2 349 581 
+sun Coronagraph.txt 8 45 80 136 224 274 300 628 964 
+near Coronagraph.txt 3 222 753 777 
+goes Coronagraph.txt 1 388 
+new Coronagraph.txt 1 48 
+contrast Coronagraph.txt 2 993 998 
+extrasolar Coronagraph.txt 2 68 912 
+french Coronagraph.txt 1 92 
+delivering Coronagraph.txt 1 286 
+desired Coronagraph.txt 1 374 
+objects Coronagraph.txt 2 21 668 
+focused Coronagraph.txt 1 447 
+path Coronagraph.txt 1 320 
+along Coronagraph.txt 1 654 
+quite Coronagraph.txt 1 942 
+extreme Coronagraph.txt 2 247 1000 
+dry Coronagraph.txt 1 153 
+search Coronagraph.txt 1 1031 
+incoming Coronagraph.txt 1 833 
+shift Coronagraph.txt 1 563 
+study Coronagraph.txt 1 733 
+larger Coronagraph.txt 2 856 1174 
+allows Coronagraph.txt 1 662 
+reimaged Coronagraph.txt 2 355 380 
+complicated Coronagraph.txt 1 895 
+c-3 Coronagraph.txt 1 861 
+spatially Coronagraph.txt 1 642 
+stray Coronagraph.txt 4 250 802 880 901 
+manage Coronagraph.txt 1 505 
+total Coronagraph.txt 3 258 288 304 
+1900 Coronagraph.txt 1 971 
+use Coronagraph.txt 1 173 
+space-based Coronagraph.txt 1 787 
+from Coronagraph.txt 10 15 60 112 179 219 260 385 665 1179 1197 
+would Coronagraph.txt 5 24 685 846 858 1122 
+brighter Coronagraph.txt 1 141 
+remains Coronagraph.txt 1 234 
+properties Coronagraph.txt 1 198 
+camera Coronagraph.txt 4 316 755 779 1087 
+therefore Coronagraph.txt 1 211 
+thomson-scattered Coronagraph.txt 1 204 
+aperture Coronagraph.txt 1 828 
+until Coronagraph.txt 2 327 1147 
+more Coronagraph.txt 3 332 679 853 
+separated Coronagraph.txt 1 1178 
+miri Coronagraph.txt 1 785 
+apparent Coronagraph.txt 5 276 296 961 967 981 
+known Coronagraph.txt 1 434 
+hole Coronagraph.txt 2 372 391 
+must Coronagraph.txt 1 403 
+account Coronagraph.txt 1 406 
+this Coronagraph.txt 9 351 496 621 639 692 766 891 1038 1218 
+eclipse Coronagraph.txt 3 306 319 329 
+easier Coronagraph.txt 1 1163 
+can Coronagraph.txt 3 32 1024 1104 
+example Coronagraph.txt 1 469 
+challenging Coronagraph.txt 1 923 
+links Coronagraph.txt 1 1243 
+high Coronagraph.txt 2 148 161 
+want Coronagraph.txt 1 847 
+sharp Coronagraph.txt 1 816 
+axis Coronagraph.txt 2 657 667 
+terrestrial Coronagraph.txt 3 526 710 1014 
+requirements Coronagraph.txt 1 811 
+rather Coronagraph.txt 1 577 
+acts Coronagraph.txt 1 309 
+arrangement Coronagraph.txt 3 336 360 429 
+located Coronagraph.txt 1 688 
+varies Coronagraph.txt 1 609 
+attachment Coronagraph.txt 1 7 
+coronagraph Coronagraph.txt 29 0 3 76 85 167 239 244 326 481 485 516 529 546 550 557 592 597 601 647 711 862 916 1005 1023 1058 1090 1102 1137 1207 
+blocks Coronagraph.txt 1 879 
+plans Coronagraph.txt 1 763 
+may Coronagraph.txt 1 321 
+spot Coronagraph.txt 1 350 
+different Coronagraph.txt 1 943 
+masks Coronagraph.txt 2 531 650 
+8799 Coronagraph.txt 1 1225 
+plane Coronagraph.txt 3 346 353 644 
+designed Coronagraph.txt 2 8 499 
+hubbles Coronagraph.txt 1 1085 
+spectrometer Coronagraph.txt 1 758 
+a Coronagraph.txt 39 2 5 16 47 207 229 293 303 325 357 367 370 462 483 487 493 548 559 574 579 603 641 709 849 894 954 957 974 1003 1021 1045 1049 1065 1111 1134 1139 1195 1204 1229 
+varieties Coronagraph.txt 1 615 
+effective Coronagraph.txt 1 680 
+light Coronagraph.txt 23 14 114 187 202 218 251 289 375 384 417 442 459 502 513 569 636 653 664 803 834 854 881 902 
+corona Coronagraph.txt 6 42 145 184 263 291 740 
+so Coronagraph.txt 3 18 632 1185 
+glancing Coronagraph.txt 1 230 
+order Coronagraph.txt 1 571 
+typical Coronagraph.txt 1 975 
+over Coronagraph.txt 1 331 
+mission Coronagraph.txt 2 726 1017 
+stability Coronagraph.txt 1 1002 
+through Coronagraph.txt 2 389 669 
+differs Coronagraph.txt 1 952 
+suffer Coronagraph.txt 1 111 
+its Coronagraph.txt 2 776 1180 
+emits Coronagraph.txt 1 1188 
+outer Coronagraph.txt 2 675 735 
+occulted Coronagraph.txt 1 951 
+hot Coronagraph.txt 1 1184 
+circumstellar Coronagraph.txt 1 71 
+absence Coronagraph.txt 1 697 
+hidden Coronagraph.txt 4 26 1055 1099 1246 
+main Coronagraph.txt 1 594 
+might Coronagraph.txt 1 978 
+image Coronagraph.txt 8 77 181 363 464 1043 1126 1155 1214 
+occulter Coronagraph.txt 3 867 877 888 
+then Coronagraph.txt 1 97 
+them Coronagraph.txt 2 59 466 
+greater Coronagraph.txt 1 295 
+practice Coronagraph.txt 1 945 
+hale Coronagraph.txt 2 1144 1235 
+effects Coronagraph.txt 1 507 
+they Coronagraph.txt 4 630 797 940 1216 
+not Coronagraph.txt 1 394 
+transparent Coronagraph.txt 1 560 
+coronagraphs Coronagraph.txt 12 36 56 62 98 106 157 619 671 673 731 788 935 
+brightness Coronagraph.txt 6 178 190 259 271 278 795 
+edit Coronagraph.txt 10 83 238 482 547 593 672 914 1239 1241 1244 
+james Coronagraph.txt 2 538 770 
+capability Coronagraph.txt 2 479 767 
+occulting Coronagraph.txt 1 824 
+photometry Coronagraph.txt 1 255 
+telescope Coronagraph.txt 7 476 541 660 744 773 1145 1236 
+weight Coronagraph.txt 1 810 
+reduce Coronagraph.txt 1 890 
+challenges Coronagraph.txt 1 800 
+year Coronagraph.txt 1 1149 
+laboratory Coronagraph.txt 1 1201 
+special Coronagraph.txt 1 488 
+out Coronagraph.txt 2 11 651 
+missed Coronagraph.txt 1 465 
+space Coronagraph.txt 7 475 540 676 713 743 772 813 
+since Coronagraph.txt 1 96 
+interference Coronagraph.txt 2 576 649 
+7 Coronagraph.txt 1 1095 
+adaptive Coronagraph.txt 1 1028 
+occluding Coronagraph.txt 1 312 
+announced Coronagraph.txt 1 1063 
+shows Coronagraph.txt 1 1040 
+linear Coronagraph.txt 1 960 
+jwst Coronagraph.txt 1 774 
+million Coronagraph.txt 1 958 
+surveys Coronagraph.txt 1 1089 
+lasco Coronagraph.txt 2 791 860 
+unwanted Coronagraph.txt 2 383 416 
+imaging Coronagraph.txt 2 470 1220 
+intermediate Coronagraph.txt 1 344 
+telescopes Coronagraph.txt 3 1020 1151 1211 
+hubble Coronagraph.txt 2 474 742 
+could Coronagraph.txt 4 455 1077 1152 1208 
+days Coronagraph.txt 1 154 
+hence Coronagraph.txt 1 233 
+onto Coronagraph.txt 3 342 356 366 
+reflected Coronagraph.txt 1 377 
+reaches Coronagraph.txt 2 420 736 
+one Coronagraph.txt 2 267 845 
+specifically Coronagraph.txt 1 1160 
+another Coronagraph.txt 1 359 
+such Coronagraph.txt 7 158 440 551 715 789 818 997 
+size Coronagraph.txt 5 297 808 962 968 982 
+earths Coronagraph.txt 1 109 
+little Coronagraph.txt 1 415 
+management Coronagraph.txt 1 804 
+jet Coronagraph.txt 1 1199 
+their Coronagraph.txt 1 635 
+top Coronagraph.txt 1 169 
+system Coronagraph.txt 1 896 
+intense Coronagraph.txt 1 1189 
+needed Coronagraph.txt 1 460 
+2 Coronagraph.txt 1 544 
+final Coronagraph.txt 1 422 
+way Coronagraph.txt 1 399 
+that Coronagraph.txt 9 19 413 441 840 844 882 1064 1186 1203 
+eliminates Coronagraph.txt 1 701 
+optical Coronagraph.txt 4 590 599 617 827 
+than Coronagraph.txt 8 142 266 298 578 626 681 855 1175 
+10 Coronagraph.txt 2 269 992 
+kind Coronagraph.txt 1 489 
+observatory Coronagraph.txt 2 163 243 
+and Coronagraph.txt 25 70 188 194 210 232 253 314 378 392 408 438 451 503 721 727 756 760 781 809 874 893 933 985 1093 1183 
+1.5 Coronagraph.txt 1 1230 
+have Coronagraph.txt 6 99 195 729 765 979 1123 
+seen Coronagraph.txt 2 1079 1106 
+any Coronagraph.txt 2 315 815 
+contents Coronagraph.txt 1 81 
+angle Coronagraph.txt 2 209 231 
+ground-based Coronagraph.txt 1 1019 
+able Coronagraph.txt 1 747 
+mid Coronagraph.txt 1 782 
+polarization Coronagraph.txt 2 174 214 
+phase-shift Coronagraph.txt 1 608 
+internal Coronagraph.txt 2 876 906 
+absorbed Coronagraph.txt 1 457 
+take Coronagraph.txt 1 404 
+which Coronagraph.txt 5 22 606 838 868 878 
+finding Coronagraph.txt 1 926 
+detector Coronagraph.txt 3 358 397 423 
+spectral Coronagraph.txt 1 197 
+sure Coronagraph.txt 1 412 
+though Coronagraph.txt 1 1110 
+object Coronagraph.txt 1 948 
+reach Coronagraph.txt 1 395 
+most Coronagraph.txt 1 35 
+nasas Coronagraph.txt 2 722 1198 
+phase Coronagraph.txt 1 565 
+class Coronagraph.txt 1 49 
+so-called Coronagraph.txt 1 554 
+especially Coronagraph.txt 1 1171 
+clear Coronagraph.txt 1 152 
+m Coronagraph.txt 1 1231 
+face Coronagraph.txt 1 798 
+self-destructive Coronagraph.txt 1 575 
+soho Coronagraph.txt 1 720 
+dot Coronagraph.txt 1 1113 
+precise Coronagraph.txt 1 254 
+atmosphere Coronagraph.txt 2 110 129 
+rayleigh Coronagraph.txt 1 122 
+scattered Coronagraph.txt 4 113 192 226 443 
+infrared Coronagraph.txt 4 754 778 783 1190 
+bright Coronagraph.txt 3 30 1050 1112 
+superimposed Coronagraph.txt 1 217 
+find Coronagraph.txt 1 67 
+ground Coronagraph.txt 2 155 691 
+based Coronagraph.txt 1 156 
+bernard Coronagraph.txt 1 94 
+only Coronagraph.txt 2 228 1153 
+arcseconds Coronagraph.txt 2 972 987 
+factor Coronagraph.txt 1 955 
+achieve Coronagraph.txt 1 996 
+fomalhaut Coronagraph.txt 1 1074 
+means Coronagraph.txt 1 839 
+orbiting Coronagraph.txt 1 1070 
+ones Coronagraph.txt 1 857 
+nearly Coronagraph.txt 2 206 235 
+during Coronagraph.txt 1 302 
+common Coronagraph.txt 1 333 
+fainter Coronagraph.txt 1 281 
+where Coronagraph.txt 3 337 453 1119 
+view Coronagraph.txt 2 40 131 
+undergoes Coronagraph.txt 1 212 
+up Coronagraph.txt 1 1146 
+detection Coronagraph.txt 1 990 
+see Coronagraph.txt 3 542 586 1237 
+are Coronagraph.txt 9 37 63 191 246 631 677 762 936 941 
+operated Coronagraph.txt 1 323 
+close Coronagraph.txt 1 133 
+1.5m Coronagraph.txt 1 1140 
+surfaces Coronagraph.txt 1 907 
+propulsion Coronagraph.txt 1 1200 
+away Coronagraph.txt 1 634 
+wikipedia Coronagraph.txt 1 1 
+sites Coronagraph.txt 1 150 
+3 Coronagraph.txt 1 588 
+lyot Coronagraph.txt 2 95 436 
+available Coronagraph.txt 1 535 
+recently Coronagraph.txt 1 918 
+parent Coronagraph.txt 1 1181 
+spartan Coronagraph.txt 1 723 
+however Coronagraph.txt 1 1192 
+key Coronagraph.txt 1 425 
+distinguish Coronagraph.txt 2 58 176 
+article Coronagraph.txt 1 595 
+both Coronagraph.txt 2 185 864 
+missions Coronagraph.txt 1 714 
+many Coronagraph.txt 1 103 
+s Coronagraph.txt 2 164 719 
+operating Coronagraph.txt 1 107 
+adapted Coronagraph.txt 1 920 
+lenses Coronagraph.txt 1 431 
+nearby Coronagraph.txt 6 20 74 929 976 1035 1072 
+azimuthally Coronagraph.txt 1 610 
+simple Coronagraph.txt 1 580 
+observatories Coronagraph.txt 1 105 
+november Coronagraph.txt 1 1060 
+fresnel-diffracted Coronagraph.txt 1 884 
+source Coronagraph.txt 1 704 
+addition Coronagraph.txt 1 284 
+create Coronagraph.txt 1 573 
+due Coronagraph.txt 1 119 
+been Coronagraph.txt 4 100 919 1115 1124 
+mark Coronagraph.txt 1 165 
+much Coronagraph.txt 3 140 294 678 
+combined Coronagraph.txt 1 1026 
+lyots Coronagraph.txt 1 424 
+enable Coronagraph.txt 1 1209 
+flight Coronagraph.txt 2 814 1010 
+millionth Coronagraph.txt 1 268 
+coherent Coronagraph.txt 1 643 
+wendelstein Coronagraph.txt 1 242 
+mauna Coronagraph.txt 1 171 
+angles Coronagraph.txt 1 132 
+present Coronagraph.txt 1 707 
+atmospheric Coronagraph.txt 1 699 
+2010 Coronagraph.txt 2 1150 1194 
+will Coronagraph.txt 1 532 
+while Coronagraph.txt 5 215 458 786 931 973 
+studied Coronagraph.txt 1 1008 
+eventually Coronagraph.txt 1 379 
+is Coronagraph.txt 19 4 139 203 225 264 279 330 334 340 354 361 376 498 637 693 746 883 1162 1170 
+it Coronagraph.txt 4 454 585 1161 1187 
+surface Coronagraph.txt 1 277 
+iv Coronagraph.txt 1 166 
+canceled Coronagraph.txt 2 525 1013 
+itself Coronagraph.txt 3 118 301 911 
+in Coronagraph.txt 17 27 88 115 126 283 317 570 605 674 708 801 938 944 959 1059 1091 1193 
+if Coronagraph.txt 1 687 
+containing Coronagraph.txt 1 347 
+baseline Coronagraph.txt 1 521 
+perform Coronagraph.txt 1 749 
+make Coronagraph.txt 1 411 
+radiation Coronagraph.txt 1 1191 
+same Coronagraph.txt 1 683 
+clearly Coronagraph.txt 1 1080 
+widely Coronagraph.txt 1 1177 
+largest Coronagraph.txt 1 703 
+several Coronagraph.txt 2 614 712 
+satellite Coronagraph.txt 1 850 
+used Coronagraph.txt 3 65 101 730 
+uses Coronagraph.txt 4 486 558 602 863 
+purpose Coronagraph.txt 1 640 
+intended Coronagraph.txt 1 38 
+dust Coronagraph.txt 1 1046 
+focal Coronagraph.txt 2 345 352 
+task Coronagraph.txt 1 924 
+off Coronagraph.txt 2 666 904 
+center Coronagraph.txt 2 613 656 
+directly Coronagraph.txt 3 1068 1154 1213 
+edge Coronagraph.txt 3 817 821 837 
+the Coronagraph.txt 95 12 28 41 44 79 84 91 116 127 135 137 143 160 180 183 200 216 220 223 241 257 261 270 273 275 290 299 307 318 328 338 364 373 382 386 390 396 400 421 449 473 512 514 520 524 537 553 564 567 607 612 627 646 652 655 659 663 682 690 695 702 734 738 741 752 769 793 806 820 836 841 859 872 886 905 909 915 922 947 963 1012 1053 1057 1071 1075 1096 1101 1108 1120 1130 1143 1148 1168 1221 1234 
+otherwise Coronagraph.txt 1 23 
+stringent Coronagraph.txt 1 807 
+just Coronagraph.txt 1 1228 
+less Coronagraph.txt 2 265 287 
+being Coronagraph.txt 1 64 
+observed Coronagraph.txt 1 1069 
+obtain Coronagraph.txt 1 1165 
+useful Coronagraph.txt 1 463 
+scattering Coronagraph.txt 5 123 213 407 700 903 
+0.0005 Coronagraph.txt 1 984 
+also Coronagraph.txt 5 504 533 543 587 1238 
+sky Coronagraph.txt 8 117 138 177 189 221 339 365 794 
+hr8799 Coronagraph.txt 1 1132 
+instrument Coronagraph.txt 4 401 784 873 910 
+4 Coronagraph.txt 1 589 
+has Coronagraph.txt 5 292 517 917 965 1114 
+exoplanet Coronagraph.txt 1 989 
+finder Coronagraph.txt 2 528 1016 
+resolved Coronagraph.txt 1 34 
+around Coronagraph.txt 7 73 611 835 885 928 1034 1129 
+possible Coronagraph.txt 1 419 
+nircam Coronagraph.txt 1 780 
+dark Coronagraph.txt 1 1097 
+background Coronagraph.txt 1 144 
+using Coronagraph.txt 5 648 751 775 1133 1227 
+shadow Coronagraph.txt 1 870 
+advanced Coronagraph.txt 1 1086 
+disks Coronagraph.txt 1 72 
+vortex Coronagraph.txt 6 591 596 600 618 1136 1206 
+either Coronagraph.txt 1 398 
+coronagraphy Coronagraph.txt 1 750 
+served Coronagraph.txt 1 518 
+works Coronagraph.txt 1 622 
+webb Coronagraph.txt 2 539 771 
+right Coronagraph.txt 1 208 
+glare Coronagraph.txt 2 31 706 
+fresnel Coronagraph.txt 1 830 
+imaged Coronagraph.txt 2 341 1223 
+astronomer Coronagraph.txt 1 93 
+added Coronagraph.txt 1 1116 
+jupiter Coronagraph.txt 1 1176 
+examples Coronagraph.txt 1 248 
+mirror Coronagraph.txt 1 368 
+images Coronagraph.txt 3 1082 1109 1166 
+optothermal Coronagraph.txt 1 1001 
+for Coronagraph.txt 6 461 523 638 1009 1032 1088 
+multi-object Coronagraph.txt 1 757 
+avoid Coronagraph.txt 1 792 
+earth-like Coronagraph.txt 1 988 
+stops Coronagraph.txt 3 433 437 450 
+moon Coronagraph.txt 1 308 
+does Coronagraph.txt 1 393 
+eliminate Coronagraph.txt 1 900 
+esa Coronagraph.txt 1 718 
+unavoidably Coronagraph.txt 1 851 
+demonstrated Coronagraph.txt 1 1202 
+be Coronagraph.txt 10 25 33 322 456 534 686 950 1025 1078 1105 
+stellar Coronagraph.txt 5 55 568 932 1004 1022 
+1931 Coronagraph.txt 1 89 
+hst Coronagraph.txt 2 745 1042 
+nicmos Coronagraph.txt 1 759 
+by Coronagraph.txt 8 90 444 509 953 1056 1084 1100 1219 
+on Coronagraph.txt 14 151 168 448 472 536 689 768 848 871 1011 1018 1081 1107 1138 
+about Coronagraph.txt 1 970 
+of Coronagraph.txt 30 43 50 78 124 170 182 249 272 430 490 511 566 616 658 698 705 737 812 822 832 897 908 925 956 969 983 1044 1127 1142 1233 
+coronagraphic Coronagraph.txt 1 478 
+baffles Coronagraph.txt 3 439 452 898 
+satellite-based Coronagraph.txt 1 670 
+introduced Coronagraph.txt 1 87 
+or Coronagraph.txt 1 826 
+block Coronagraph.txt 3 10 501 584 
+previously Coronagraph.txt 1 1222 
+instruments Coronagraph.txt 5 53 245 471 684 843 
+into Coronagraph.txt 1 405 
+within Coronagraph.txt 1 108 
+because Coronagraph.txt 5 256 282 629 694 946 
+references Coronagraph.txt 1 1240 
+primarily Coronagraph.txt 1 120 
+conceptually Coronagraph.txt 1 51 
+loa Coronagraph.txt 1 172 
+area Coronagraph.txt 1 1098 
+altitude Coronagraph.txt 2 149 162 
+there Coronagraph.txt 1 761 
+sunlight Coronagraph.txt 2 125 193 
+stars Coronagraph.txt 5 29 75 624 930 1036 
+exceptional Coronagraph.txt 1 1158 
+was Coronagraph.txt 5 86 427 446 1007 1067 
+considerably Coronagraph.txt 1 1173 
+complete Coronagraph.txt 1 696 
+offer Coronagraph.txt 1 477 
+hr Coronagraph.txt 1 1224 
+6 Coronagraph.txt 1 1037 
+but Coronagraph.txt 4 46 199 381 661 
+taken Coronagraph.txt 1 1083 
+link Coronagraph.txt 1 1039 
+solar Coronagraph.txt 7 61 104 262 305 724 739 934 
+with Coronagraph.txt 5 369 432 623 1027 1052 
+rejection Coronagraph.txt 1 252 
+maximum Coronagraph.txt 1 725 
+0.002 Coronagraph.txt 1 986 
+planet Coronagraph.txt 5 527 1015 1066 1076 1169 
+casts Coronagraph.txt 1 869 
+problem Coronagraph.txt 1 796 
+similar Coronagraph.txt 3 52 196 937 
+called Coronagraph.txt 2 54 492 
+band-limited Coronagraph.txt 5 480 484 494 515 530 
+diffraction Coronagraph.txt 4 409 445 506 831 
+an Coronagraph.txt 13 311 335 343 348 428 468 598 823 865 875 966 980 1041 
+as Coronagraph.txt 12 159 310 324 414 418 435 467 519 552 716 790 819 
+exist Coronagraph.txt 1 620 
+at Coronagraph.txt 6 102 130 147 205 227 240 
+planets Coronagraph.txt 6 69 913 927 1033 1215 1226 
+when Coronagraph.txt 1 1167 
+other Coronagraph.txt 1 625 
+5 Coronagraph.txt 1 994 
+star Coronagraph.txt 9 17 387 977 1051 1054 1073 1121 1131 1182 
+coronal Coronagraph.txt 2 186 201 
+exoplanets Coronagraph.txt 2 1128 1156 
+telescopic Coronagraph.txt 1 6 
+mask Coronagraph.txt 5 491 495 497 561 1103 
+portion Coronagraph.txt 2 1141 1232 
+nasa Coronagraph.txt 2 717 1062 
+2006 Coronagraph.txt 1 1094 
+2004 Coronagraph.txt 1 1092 
+leak Coronagraph.txt 1 852 
+2008 Coronagraph.txt 1 1061 
+requires Coronagraph.txt 2 991 999 
+external Coronagraph.txt 3 866 887 1242 

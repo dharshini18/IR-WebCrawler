@@ -1,0 +1,550 @@
+all Sputtering.txt 1 1278 
+illustrates Sputtering.txt 1 193 
+melts Sputtering.txt 1 531 
+particular Sputtering.txt 1 902 
+yellow Sputtering.txt 1 229 
+leads Sputtering.txt 1 1498 
+tenuous Sputtering.txt 1 1537 
+insulators Sputtering.txt 1 842 
+10100 Sputtering.txt 1 685 
+semiconductor Sputtering.txt 1 1324 
+etching Sputtering.txt 9 84 1012 1031 1040 1100 1143 1320 1334 1344 
+zone Sputtering.txt 1 538 
+re Sputtering.txt 1 631 
+technique Sputtering.txt 1 1359 
+to Sputtering.txt 30 16 63 124 182 244 383 494 542 552 556 613 649 665 715 727 783 810 821 881 931 1063 1079 1110 1139 1154 1157 1275 1329 1371 1499 
+charge Sputtering.txt 2 937 975 
+program Sputtering.txt 1 460 
+weakening Sputtering.txt 1 1161 
+14 Sputtering.txt 1 121 
+sputter Sputtering.txt 7 339 550 732 1082 1211 1213 1333 
+alternating Sputtering.txt 1 129 
+asteroids Sputtering.txt 1 1482 
+very Sputtering.txt 2 492 811 
+activation Sputtering.txt 1 1171 
+bombarded Sputtering.txt 1 700 
+induce Sputtering.txt 1 521 
+electron Sputtering.txt 1 805 
+categories Sputtering.txt 2 1545 1547 
+transmission Sputtering.txt 2 323 804 
+anisotropy Sputtering.txt 1 1345 
+prolonged Sputtering.txt 2 55 756 
+large Sputtering.txt 1 545 
+these Sputtering.txt 1 917 
+small Sputtering.txt 1 609 
+enhance Sputtering.txt 1 1080 
+eroding Sputtering.txt 1 1226 
+accumulation Sputtering.txt 1 1505 
+microexplosions Sputtering.txt 1 560 
+many-body Sputtering.txt 1 516 
+approximation Sputtering.txt 1 501 
+rate Sputtering.txt 1 1396 
+bombardment Sputtering.txt 4 17 59 757 1256 
+enhancement Sputtering.txt 1 1089 
+implemented Sputtering.txt 1 457 
+targets Sputtering.txt 1 434 
+inert Sputtering.txt 1 1023 
+blue Sputtering.txt 1 226 
+section Sputtering.txt 1 639 
+axes Sputtering.txt 1 380 
+c-c Sputtering.txt 1 1190 
+supplied Sputtering.txt 1 398 
+current Sputtering.txt 1 130 
+liberated Sputtering.txt 1 944 
+net Sputtering.txt 1 1500 
+increasing Sputtering.txt 1 765 
+method Sputtering.txt 1 1217 
+contrast Sputtering.txt 1 1241 
+movement Sputtering.txt 1 205 
+quenched Sputtering.txt 1 853 
+nonlinearly Sputtering.txt 1 603 
+degree Sputtering.txt 1 1342 
+exchange Sputtering.txt 1 171 
+respectively Sputtering.txt 1 238 
+commercial Sputtering.txt 2 147 890 
+equals Sputtering.txt 1 669 
+atoms Sputtering.txt 12 176 209 242 315 328 360 367 548 958 1018 1258 1408 
+water Sputtering.txt 1 1494 
+radicals Sputtering.txt 1 1052 
+deposition Sputtering.txt 6 83 1207 1212 1214 1252 1302 
+mev Sputtering.txt 1 872 
+active Sputtering.txt 1 1049 
+i.e Sputtering.txt 2 250 927 
+strong Sputtering.txt 1 966 
+sputtered Sputtering.txt 8 253 747 771 778 1257 1392 1401 1407 
+incoming Sputtering.txt 4 39 223 484 1159 
+thompsons Sputtering.txt 1 436 
+larger Sputtering.txt 1 651 
+commonly Sputtering.txt 1 79 
+preferentially Sputtering.txt 1 748 
+resulting Sputtering.txt 1 137 
+usually Sputtering.txt 1 1303 
+formation Sputtering.txt 1 955 
+changes Sputtering.txt 1 1471 
+involves Sputtering.txt 2 1225 1242 
+explained Sputtering.txt 1 1184 
+highly Sputtering.txt 1 814 
+carbon-based Sputtering.txt 1 1176 
+tertiary Sputtering.txt 1 234 
+conventional Sputtering.txt 1 45 
+from Sputtering.txt 12 10 109 185 210 247 330 841 875 939 1141 1228 1495 
+would Sputtering.txt 2 284 856 
+two Sputtering.txt 1 239 
+properties Sputtering.txt 1 1476 
+spike Sputtering.txt 5 470 524 528 562 599 
+films Sputtering.txt 1 1221 
+until Sputtering.txt 1 212 
+more Sputtering.txt 2 713 733 
+flat Sputtering.txt 1 433 
+conductor Sputtering.txt 1 860 
+ejected Sputtering.txt 4 9 286 329 1260 
+thus Sputtering.txt 2 70 1193 
+profiles Sputtering.txt 1 1447 
+sulfur Sputtering.txt 1 873 
+known Sputtering.txt 1 291 
+cases Sputtering.txt 2 918 1338 
+weathering Sputtering.txt 1 1467 
+sample Sputtering.txt 5 249 667 1165 1390 1445 
+collision Sputtering.txt 4 188 259 304 500 
+this Sputtering.txt 9 50 288 472 677 864 936 959 1358 1415 
+science Sputtering.txt 1 155 
+thin Sputtering.txt 3 298 1220 1299 
+example Sputtering.txt 4 405 801 862 1379 
+ions Sputtering.txt 15 26 132 174 256 569 576 611 817 900 926 947 1050 1068 1160 1187 
+links Sputtering.txt 2 638 1543 
+chosen Sputtering.txt 1 1336 
+process Sputtering.txt 10 5 51 289 395 510 517 629 961 1044 1469 
+high Sputtering.txt 3 454 838 1341 
+10,000 Sputtering.txt 2 623 882 
+orion Sputtering.txt 1 149 
+minimum Sputtering.txt 2 645 1009 
+numbers Sputtering.txt 1 546 
+hydrogen Sputtering.txt 1 1503 
+occur Sputtering.txt 4 474 491 690 1111 
+rather Sputtering.txt 1 507 
+breaking Sputtering.txt 1 1194 
+damage Sputtering.txt 1 1362 
+species Sputtering.txt 1 1005 
+1 Sputtering.txt 2 48 634 
+pure Sputtering.txt 1 1064 
+sio Sputtering.txt 1 1249 
+may Sputtering.txt 5 473 549 1058 1136 1510 
+thermodynamic Sputtering.txt 1 1270 
+high-energy Sputtering.txt 1 812 
+amorphous Sputtering.txt 1 432 
+exosphere Sputtering.txt 1 1539 
+applications Sputtering.txt 1 1202 
+produce Sputtering.txt 1 932 
+airless Sputtering.txt 1 1478 
+such Sputtering.txt 7 265 627 772 1128 1286 1378 1480 
+efficiently Sputtering.txt 1 734 
+a Sputtering.txt 47 4 11 28 61 146 186 372 400 407 416 422 446 462 515 522 543 589 628 643 666 674 695 745 803 859 871 889 901 952 965 1008 1036 1042 1196 1216 1229 1233 1236 1284 1288 1298 1310 1340 1352 1394 1449 1468 
+preferential Sputtering.txt 1 687 
+liquid Sputtering.txt 1 555 
+lines Sputtering.txt 1 202 
+cascade Sputtering.txt 4 189 305 429 633 
+si Sputtering.txt 1 1102 
+green Sputtering.txt 1 227 
+deposit Sputtering.txt 1 1276 
+alloy Sputtering.txt 1 742 
+order Sputtering.txt 1 621 
+react Sputtering.txt 1 1315 
+produces Sputtering.txt 1 837 
+move Sputtering.txt 1 245 
+thermal Sputtering.txt 3 46 527 1170 
+including Sputtering.txt 1 450 
+kinetic Sputtering.txt 1 35 
+excitations Sputtering.txt 2 832 846 
+its Sputtering.txt 3 940 1529 1536 
+chemical Sputtering.txt 6 1014 1123 1142 1147 1200 1475 
+20 Sputtering.txt 1 1431 
+termed Sputtering.txt 1 913 
+energies Sputtering.txt 3 47 578 989 
+masses Sputtering.txt 1 354 
+forms Sputtering.txt 1 1464 
+detected Sputtering.txt 1 1435 
+reactive-ion Sputtering.txt 1 1039 
+hidden Sputtering.txt 1 1546 
+molten Sputtering.txt 1 537 
+then Sputtering.txt 3 482 497 1167 
+them Sputtering.txt 1 1195 
+return Sputtering.txt 1 782 
+greater Sputtering.txt 1 276 
+thereby Sputtering.txt 1 764 
+material Sputtering.txt 10 14 62 217 418 779 1227 1247 1319 1376 1422 
+primary Sputtering.txt 2 232 390 
+they Sputtering.txt 3 213 251 855 
+not Sputtering.txt 6 851 1091 1131 1267 1314 1351 
+xe Sputtering.txt 1 571 
+term Sputtering.txt 1 789 
+photolyzed Sputtering.txt 1 1493 
+edit Sputtering.txt 11 163 787 888 1016 1205 1208 1321 1365 1458 1541 1544 
+always Sputtering.txt 2 1092 1132 
+each Sputtering.txt 1 495 
+side Sputtering.txt 1 310 
+characterized Sputtering.txt 1 963 
+mean Sputtering.txt 1 793 
+heavy Sputtering.txt 3 486 568 816 
+significantly Sputtering.txt 1 1061 
+accelerator Sputtering.txt 1 413 
+energy Sputtering.txt 18 36 275 281 321 349 365 455 605 646 655 660 672 710 820 921 929 1011 1115 
+hard Sputtering.txt 1 1138 
+displacement Sputtering.txt 1 632 
+depositing Sputtering.txt 1 1219 
+entering Sputtering.txt 1 1188 
+quantum Sputtering.txt 1 447 
+laboratory Sputtering.txt 1 29 
+happen Sputtering.txt 1 243 
+ev Sputtering.txt 2 49 686 
+out Sputtering.txt 2 246 1046 
+ultimately Sputtering.txt 1 781 
+space Sputtering.txt 2 1457 1466 
+furthermore Sputtering.txt 1 1436 
+particles Sputtering.txt 5 7 23 40 391 421 
+collisions Sputtering.txt 3 183 490 520 
+rf Sputtering.txt 2 101 114 
+theoretically Sputtering.txt 1 1107 
+aja Sputtering.txt 1 148 
+induced Sputtering.txt 1 796 
+cause Sputtering.txt 2 833 848 
+occurs Sputtering.txt 1 1380 
+red Sputtering.txt 1 225 
+chemically Sputtering.txt 1 1048 
+linear Sputtering.txt 1 187 
+mechanisms Sputtering.txt 2 1085 1126 
+kevmev Sputtering.txt 1 581 
+beginning Sputtering.txt 1 211 
+e.g Sputtering.txt 3 570 1235 1248 
+dubbed Sputtering.txt 1 1198 
+silicon Sputtering.txt 1 1237 
+place Sputtering.txt 2 909 985 
+projectile Sputtering.txt 1 899 
+onto Sputtering.txt 1 1232 
+major Sputtering.txt 1 1355 
+already Sputtering.txt 1 983 
+probability Sputtering.txt 1 767 
+number Sputtering.txt 2 326 401 
+one Sputtering.txt 6 716 861 1354 1377 1461 1518 
+done Sputtering.txt 1 90 
+another Sputtering.txt 1 1366 
+thick Sputtering.txt 1 191 
+electronic Sputtering.txt 7 785 790 826 831 835 845 905 
+causing Sputtering.txt 1 1086 
+illustrate Sputtering.txt 1 231 
+mercury Sputtering.txt 1 1533 
+needed Sputtering.txt 1 1347 
+system Sputtering.txt 2 151 892 
+their Sputtering.txt 1 1269 
+ballistic Sputtering.txt 1 204 
+rates Sputtering.txt 1 1083 
+mostly Sputtering.txt 1 824 
+that Sputtering.txt 12 441 488 768 773 818 847 910 1224 1470 1509 1523 1532 
+argon Sputtering.txt 2 1306 1309 
+than Sputtering.txt 4 44 277 652 735 
+oscillate Sputtering.txt 1 136 
+diffusion Sputtering.txt 1 707 
+b Sputtering.txt 2 762 769 
+target Sputtering.txt 22 13 20 179 263 271 296 313 332 359 370 374 385 698 719 1004 1230 1318 1332 1375 1389 1399 1421 
+see Sputtering.txt 1 630 
+determined Sputtering.txt 1 1425 
+and Sputtering.txt 32 68 85 112 156 175 199 228 235 268 287 314 341 358 361 481 606 701 981 1006 1013 1051 1135 1192 1203 1273 1348 1404 1426 1474 1483 1504 1531 
+take Sputtering.txt 2 908 984 
+concentration Sputtering.txt 2 1403 1446 
+contents Sputtering.txt 1 159 
+paths Sputtering.txt 1 206 
+angle Sputtering.txt 1 347 
+efficient Sputtering.txt 1 714 
+mechanism Sputtering.txt 2 464 1197 
+for Sputtering.txt 14 81 371 392 404 424 431 567 608 624 800 1002 1053 1363 1513 
+also Sputtering.txt 5 525 1034 1120 1253 1517 
+potential Sputtering.txt 5 886 914 920 996 1010 
+nanoscale Sputtering.txt 1 154 
+which Sputtering.txt 4 529 657 1054 1166 
+concern Sputtering.txt 1 1353 
+circles Sputtering.txt 1 230 
+even Sputtering.txt 1 1427 
+play Sputtering.txt 1 1035 
+multiple Sputtering.txt 1 897 
+reach Sputtering.txt 2 269 307 
+removing Sputtering.txt 1 1017 
+impurities Sputtering.txt 1 1434 
+harmful Sputtering.txt 1 72 
+most Sputtering.txt 2 565 1527 
+significant Sputtering.txt 1 64 
+multiply Sputtering.txt 1 924 
+alpha Sputtering.txt 1 420 
+measured Sputtering.txt 2 1410 1455 
+the Sputtering.txt 121 19 34 38 74 125 131 134 142 169 173 178 190 194 197 200 203 208 216 218 222 241 248 254 262 270 278 295 303 308 312 318 324 331 338 344 348 351 353 356 362 369 375 378 384 389 393 428 459 476 483 489 498 508 518 532 536 557 580 597 620 636 653 658 663 670 683 692 709 718 728 736 743 749 752 761 766 774 777 788 822 830 844 894 919 928 946 969 974 978 992 1055 1081 1084 1087 1096 1113 1125 1158 1164 1172 1245 1251 1262 1281 1292 1317 1323 1331 1374 1388 1398 1402 1417 1420 1438 1444 1463 1472 1484 1496 1520 
+radioactive Sputtering.txt 1 417 
+especially Sputtering.txt 1 1489 
+eject Sputtering.txt 1 879 
+average Sputtering.txt 1 325 
+flow Sputtering.txt 1 553 
+neutral Sputtering.txt 1 941 
+electrons Sputtering.txt 2 451 799 
+kv Sputtering.txt 1 111 
+mechanical Sputtering.txt 1 448 
+typically Sputtering.txt 1 679 
+atmosphere Sputtering.txt 1 1530 
+particularly Sputtering.txt 1 24 
+jupiters Sputtering.txt 2 866 876 
+multicomponent Sputtering.txt 1 696 
+threshold Sputtering.txt 4 647 678 995 1114 
+continually Sputtering.txt 2 1440 1534 
+impact Sputtering.txt 2 950 988 
+based Sputtering.txt 1 444 
+state Sputtering.txt 4 706 938 976 1272 
+should Sputtering.txt 1 511 
+reactive Sputtering.txt 1 1067 
+only Sputtering.txt 2 31 999 
+enriched Sputtering.txt 1 759 
+molecules Sputtering.txt 1 885 
+emitting Sputtering.txt 1 419 
+circle Sputtering.txt 1 220 
+equilibrium Sputtering.txt 1 1271 
+oxygen-rich Sputtering.txt 1 1507 
+bonds Sputtering.txt 2 1162 1191 
+impinging Sputtering.txt 1 979 
+stop Sputtering.txt 1 214 
+dc Sputtering.txt 3 93 95 104 
+during Sputtering.txt 4 54 755 949 1250 
+collisional Sputtering.txt 1 509 
+secondary Sputtering.txt 3 233 1073 1382 
+substrate Sputtering.txt 2 1234 1285 
+h Sputtering.txt 2 883 1186 
+yield Sputtering.txt 2 340 1057 
+microscope Sputtering.txt 1 806 
+surface-bounded Sputtering.txt 1 1538 
+quaternary Sputtering.txt 1 236 
+analytical Sputtering.txt 2 86 437 
+where Sputtering.txt 4 829 870 1339 1387 
+resputtering Sputtering.txt 1 1239 
+atomic Sputtering.txt 1 301 
+set Sputtering.txt 3 108 119 257 
+milling Sputtering.txt 1 1028 
+up Sputtering.txt 1 880 
+observed Sputtering.txt 4 970 1001 1109 1178 
+depends Sputtering.txt 1 342 
+are Sputtering.txt 9 8 252 850 1069 1090 1130 1259 1266 1409 
+enhanced Sputtering.txt 1 1060 
+close Sputtering.txt 2 493 540 
+techniques Sputtering.txt 1 87 
+surfaces Sputtering.txt 1 1279 
+placed Sputtering.txt 1 1290 
+ways Sputtering.txt 2 403 1522 
+away Sputtering.txt 1 1373 
+wikipedia Sputtering.txt 1 1 
+tend Sputtering.txt 1 1274 
+enough Sputtering.txt 3 480 487 541 
+between Sputtering.txt 2 172 1189 
+europa Sputtering.txt 2 869 1490 
+component Sputtering.txt 2 744 763 
+incident Sputtering.txt 3 255 334 346 
+distinguish Sputtering.txt 1 1140 
+carbon Sputtering.txt 1 1150 
+swift Sputtering.txt 1 1199 
+essentially Sputtering.txt 1 530 
+equal Sputtering.txt 1 648 
+somewhere Sputtering.txt 1 681 
+magnetosphere Sputtering.txt 1 877 
+trim Sputtering.txt 1 461 
+relevant Sputtering.txt 1 388 
+supply Sputtering.txt 1 117 
+hollow Sputtering.txt 1 957 
+hydrogen-induced Sputtering.txt 1 1173 
+article Sputtering.txt 1 1210 
+respect Sputtering.txt 1 382 
+crystalline Sputtering.txt 1 373 
+locally Sputtering.txt 1 534 
+due Sputtering.txt 6 15 123 181 551 809 1156 
+been Sputtering.txt 4 912 1000 1104 1183 
+pb Sputtering.txt 1 595 
+much Sputtering.txt 1 42 
+deposited Sputtering.txt 1 1246 
+mars Sputtering.txt 1 1524 
+life Sputtering.txt 1 1514 
+deeper Sputtering.txt 1 1442 
+gas Sputtering.txt 4 25 1024 1263 1312 
+dramatic Sputtering.txt 1 614 
+external Sputtering.txt 2 637 1542 
+case Sputtering.txt 2 895 1097 
+main Sputtering.txt 1 1209 
+solid Sputtering.txt 8 12 477 697 705 729 753 823 953 
+etches Sputtering.txt 1 1441 
+can Sputtering.txt 15 52 69 306 316 396 607 689 792 878 907 982 1033 1151 1423 1453 
+will Sputtering.txt 5 731 754 780 1294 1313 
+stopping Sputtering.txt 1 827 
+au Sputtering.txt 2 573 594 
+orientation Sputtering.txt 1 376 
+is Sputtering.txt 42 3 41 78 89 107 118 166 221 290 297 336 387 435 456 468 478 502 539 564 680 699 703 712 723 746 770 865 943 962 1025 1119 1215 1327 1335 1346 1350 1360 1370 1391 1400 1460 1516 
+binding Sputtering.txt 4 280 320 364 671 
+it Sputtering.txt 4 30 77 722 730 
+surface Sputtering.txt 12 198 272 279 319 363 386 544 558 675 750 954 1497 
+cluster Sputtering.txt 3 575 610 618 
+in Sputtering.txt 35 27 103 113 138 141 177 215 261 322 368 399 427 458 579 635 682 739 760 802 858 893 916 923 1038 1072 1163 1240 1268 1280 1291 1322 1337 1381 1414 1456 
+rie Sputtering.txt 1 1041 
+technology Sputtering.txt 1 157 
+if Sputtering.txt 4 294 535 708 738 
+binary Sputtering.txt 1 499 
+different Sputtering.txt 1 463 
+etc Sputtering.txt 1 596 
+elevated Sputtering.txt 1 1145 
+drawback Sputtering.txt 1 1356 
+ice-covered Sputtering.txt 1 867 
+regime Sputtering.txt 1 430 
+composition Sputtering.txt 2 775 1418 
+higher Sputtering.txt 1 43 
+noble Sputtering.txt 1 1311 
+used Sputtering.txt 3 80 1071 1328 
+hand Sputtering.txt 1 76 
+driven Sputtering.txt 1 167 
+ion Sputtering.txt 19 56 224 335 345 352 357 410 485 654 664 874 934 980 987 1027 1030 1074 1255 1383 
+levels Sputtering.txt 1 143 
+uses Sputtering.txt 1 1304 
+animations Sputtering.txt 1 625 
+frequently Sputtering.txt 1 1070 
+moons Sputtering.txt 1 1488 
+identity Sputtering.txt 1 1405 
+simulates Sputtering.txt 1 442 
+off Sputtering.txt 1 258 
+whereby Sputtering.txt 1 6 
+modeled Sputtering.txt 1 1105 
+well Sputtering.txt 4 990 1093 1106 1133 
+analysis Sputtering.txt 1 1364 
+materials Sputtering.txt 4 67 180 1177 1508 
+components Sputtering.txt 1 720 
+position Sputtering.txt 1 195 
+model Sputtering.txt 2 423 438 
+recombine Sputtering.txt 1 948 
+bodies Sputtering.txt 1 1479 
+charged Sputtering.txt 3 815 898 925 
+sims Sputtering.txt 2 1077 1386 
+recoils Sputtering.txt 1 237 
+less Sputtering.txt 1 724 
+stored Sputtering.txt 1 922 
+voltage Sputtering.txt 3 94 100 106 
+immediately Sputtering.txt 1 852 
+sputtering Sputtering.txt 59 0 2 88 96 102 105 115 150 162 165 184 293 394 426 443 467 471 563 600 615 641 688 786 791 795 808 834 836 839 849 887 891 906 915 960 971 994 997 1015 1020 1032 1056 1066 1088 1108 1118 1124 1129 1148 1174 1201 1223 1301 1326 1369 1439 1459 1491 1515 
+equipment Sputtering.txt 1 1078 
+cornell Sputtering.txt 1 153 
+point Sputtering.txt 1 592 
+source Sputtering.txt 2 411 1231 
+other Sputtering.txt 3 75 496 737 
+treatment Sputtering.txt 1 449 
+has Sputtering.txt 6 642 911 998 1103 1182 1525 
+plasma Sputtering.txt 6 58 135 145 408 1043 1307 
+momentum Sputtering.txt 1 170 
+thin-film Sputtering.txt 1 82 
+re-emission Sputtering.txt 1 1243 
+loss Sputtering.txt 1 1501 
+possible Sputtering.txt 1 1521 
+increases Sputtering.txt 2 140 602 
+vacuum Sputtering.txt 1 1282 
+using Sputtering.txt 3 92 98 1411 
+melting Sputtering.txt 1 591 
+necessary Sputtering.txt 1 930 
+lost Sputtering.txt 1 1526 
+extremely Sputtering.txt 1 1428 
+chamber Sputtering.txt 2 1283 1293 
+yields Sputtering.txt 3 616 840 972 
+either Sputtering.txt 2 91 794 
+lose Sputtering.txt 1 819 
+become Sputtering.txt 1 758 
+soft Sputtering.txt 1 586 
+because Sputtering.txt 2 1308 1437 
+often Sputtering.txt 2 601 1121 
+phenomena Sputtering.txt 1 1204 
+back Sputtering.txt 1 309 
+selectivity Sputtering.txt 1 1349 
+understood Sputtering.txt 4 513 1094 1134 1153 
+escape Sputtering.txt 1 317 
+happens Sputtering.txt 1 32 
+scale Sputtering.txt 1 302 
+describing Sputtering.txt 1 425 
+lead Sputtering.txt 2 53 612 
+purple Sputtering.txt 1 219 
+per Sputtering.txt 2 333 617 
+moon Sputtering.txt 2 868 1485 
+icy Sputtering.txt 1 1487 
+mhz Sputtering.txt 1 122 
+be Sputtering.txt 13 71 285 397 512 857 1059 1137 1152 1155 1295 1424 1454 1511 
+coated Sputtering.txt 1 1296 
+power Sputtering.txt 2 116 828 
+although Sputtering.txt 1 1095 
+by Sputtering.txt 12 21 168 406 415 797 825 964 1019 1169 1185 1222 1254 
+on Sputtering.txt 8 73 299 343 445 951 973 1277 1486 
+carried Sputtering.txt 1 1045 
+of Sputtering.txt 57 18 37 60 66 127 144 161 196 207 240 311 327 350 355 366 377 402 465 547 554 619 622 626 662 673 717 751 776 863 896 904 935 956 968 977 1098 1101 1116 1149 1175 1218 1244 1343 1357 1368 1406 1419 1433 1451 1462 1465 1477 1492 1502 1506 1519 1528 
+industry Sputtering.txt 1 1325 
+dependence Sputtering.txt 1 967 
+o Sputtering.txt 1 884 
+range Sputtering.txt 2 582 684 
+concentrations Sputtering.txt 1 1430 
+or Sputtering.txt 10 57 97 414 572 574 650 721 807 813 1029 
+thinner Sputtering.txt 1 201 
+facility Sputtering.txt 1 158 
+into Sputtering.txt 2 1261 1443 
+bound Sputtering.txt 1 726 
+phase Sputtering.txt 1 1264 
+references Sputtering.txt 1 1540 
+cascades Sputtering.txt 2 260 266 
+fluorine Sputtering.txt 1 1099 
+behind Sputtering.txt 1 1127 
+transfer Sputtering.txt 2 661 711 
+there Sputtering.txt 1 702 
+replenishes Sputtering.txt 1 1535 
+start Sputtering.txt 1 693 
+low Sputtering.txt 3 590 1180 1429 
+way Sputtering.txt 1 1416 
+etch Sputtering.txt 2 1330 1372 
+function Sputtering.txt 1 1450 
+form Sputtering.txt 1 903 
+g/kg Sputtering.txt 1 1432 
+but Sputtering.txt 3 506 585 1265 
+heat Sputtering.txt 4 469 523 561 598 
+recoil Sputtering.txt 1 267 
+atom Sputtering.txt 4 283 668 676 942 
+line Sputtering.txt 1 192 
+with Sputtering.txt 9 273 381 577 588 604 1021 1047 1297 1316 
+wafer Sputtering.txt 3 1238 1289 1361 
+inside Sputtering.txt 1 133 
+maximum Sputtering.txt 1 659 
+crystal Sputtering.txt 2 379 533 
+below Sputtering.txt 2 991 1112 
+spectrometry Sputtering.txt 3 1076 1385 1413 
+called Sputtering.txt 4 337 526 1026 1122 
+strongly Sputtering.txt 1 725 
+desorb Sputtering.txt 1 1168 
+ac Sputtering.txt 1 99 
+ab Sputtering.txt 2 741 784 
+constant Sputtering.txt 1 1395 
+ag Sputtering.txt 1 593 
+certain Sputtering.txt 1 1003 
+metals Sputtering.txt 1 587 
+an Sputtering.txt 12 128 139 274 282 300 409 412 439 740 933 1022 1305 
+as Sputtering.txt 8 292 514 843 854 1287 1397 1448 1481 
+bombarding Sputtering.txt 1 583 
+well-defined Sputtering.txt 1 644 
+at Sputtering.txt 9 120 152 453 656 691 986 1144 1179 1393 
+film Sputtering.txt 2 1206 1300 
+physical Sputtering.txt 7 164 466 640 993 1065 1117 1473 
+compared Sputtering.txt 1 1062 
+no Sputtering.txt 2 503 704 
+when Sputtering.txt 5 33 264 475 694 945 
+application Sputtering.txt 2 126 1367 
+valid Sputtering.txt 1 505 
+role Sputtering.txt 1 1037 
+erosion Sputtering.txt 1 65 
+energetic Sputtering.txt 2 22 798 
+temperatures Sputtering.txt 2 1146 1181 
+important Sputtering.txt 2 566 1512 
+and/or Sputtering.txt 1 559 
+dense Sputtering.txt 3 479 519 584 
+longer Sputtering.txt 1 504 
+algorithm Sputtering.txt 1 440 
+physics Sputtering.txt 1 160 
+3-5 Sputtering.txt 1 110 
+depth Sputtering.txt 1 1452 
+stripping Sputtering.txt 1 452 
+mass Sputtering.txt 3 1075 1384 1412 
+requires Sputtering.txt 1 1007 

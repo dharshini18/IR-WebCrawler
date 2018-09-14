@@ -1,0 +1,656 @@
+migrated Solar_eclipses_on_Pluto.txt 2 1049 1372 
+all Solar_eclipses_on_Pluto.txt 4 120 417 450 888 
+partial Solar_eclipses_on_Pluto.txt 1 1815 
+maximum Solar_eclipses_on_Pluto.txt 2 1499 1860 
+caused Solar_eclipses_on_Pluto.txt 2 1189 1721 
+four Solar_eclipses_on_Pluto.txt 4 373 381 451 1687 
+known Solar_eclipses_on_Pluto.txt 1 1230 
+spacecraft Solar_eclipses_on_Pluto.txt 1 1876 
+debris Solar_eclipses_on_Pluto.txt 3 688 1270 1433 
+per Solar_eclipses_on_Pluto.txt 2 1888 1899 
+transits Solar_eclipses_on_Pluto.txt 1 1541 
+centers Solar_eclipses_on_Pluto.txt 1 1503 
+compact Solar_eclipses_on_Pluto.txt 1 514 
+deep-optical Solar_eclipses_on_Pluto.txt 1 700 
+s/2005 Solar_eclipses_on_Pluto.txt 2 160 164 
+zone Solar_eclipses_on_Pluto.txt 1 538 
+presents Solar_eclipses_on_Pluto.txt 1 1656 
+to Solar_eclipses_on_Pluto.txt 35 18 96 122 250 380 393 525 580 619 639 736 897 987 1105 1135 1150 1231 1272 1297 1302 1364 1401 1404 1468 1475 1522 1526 1635 1663 1733 1748 1759 1832 1885 1896 
+stable Solar_eclipses_on_Pluto.txt 3 536 570 595 
+nodes Solar_eclipses_on_Pluto.txt 1 1562 
+whack Solar_eclipses_on_Pluto.txt 1 1300 
+returned Solar_eclipses_on_Pluto.txt 2 1891 1906 
+outside Solar_eclipses_on_Pluto.txt 1 496 
+very Solar_eclipses_on_Pluto.txt 1 1739 
+end Solar_eclipses_on_Pluto.txt 1 1843 
+plutocharon Solar_eclipses_on_Pluto.txt 4 60 488 969 1047 
+perihelion Solar_eclipses_on_Pluto.txt 1 1594 
+every Solar_eclipses_on_Pluto.txt 2 813 840 
+uncertain Solar_eclipses_on_Pluto.txt 1 1695 
+exact Solar_eclipses_on_Pluto.txt 1 762 
+categories Solar_eclipses_on_Pluto.txt 2 1920 1922 
+entire Solar_eclipses_on_Pluto.txt 1 1143 
+notes Solar_eclipses_on_Pluto.txt 1 1911 
+list Solar_eclipses_on_Pluto.txt 1 1456 
+damped Solar_eclipses_on_Pluto.txt 1 967 
+large Solar_eclipses_on_Pluto.txt 1 1644 
+p Solar_eclipses_on_Pluto.txt 4 161 165 186 196 
+red Solar_eclipses_on_Pluto.txt 1 1074 
+team Solar_eclipses_on_Pluto.txt 1 137 
+small Solar_eclipses_on_Pluto.txt 5 231 339 374 1117 1520 
+overlaid Solar_eclipses_on_Pluto.txt 1 365 
+configurations Solar_eclipses_on_Pluto.txt 1 1069 
+upper Solar_eclipses_on_Pluto.txt 1 1098 
+smaller Solar_eclipses_on_Pluto.txt 7 420 625 631 1331 1632 1676 1688 
+estimates Solar_eclipses_on_Pluto.txt 1 101 
+conjunctions Solar_eclipses_on_Pluto.txt 4 834 838 842 875 
+likely Solar_eclipses_on_Pluto.txt 1 1236 
+further Solar_eclipses_on_Pluto.txt 2 592 1640 
+attributable Solar_eclipses_on_Pluto.txt 1 121 
+click Solar_eclipses_on_Pluto.txt 1 1102 
+blue Solar_eclipses_on_Pluto.txt 1 1072 
+appear Solar_eclipses_on_Pluto.txt 1 662 
+sun Solar_eclipses_on_Pluto.txt 5 1159 1553 1577 1629 1783 
+plutos Solar_eclipses_on_Pluto.txt 15 103 294 372 461 540 668 1248 1287 1458 1546 1569 1586 1593 1609 1647 
+while Solar_eclipses_on_Pluto.txt 3 210 223 787 
+current Solar_eclipses_on_Pluto.txt 3 953 1006 1378 
+above Solar_eclipses_on_Pluto.txt 1 293 
+international Solar_eclipses_on_Pluto.txt 1 168 
+officially Solar_eclipses_on_Pluto.txt 1 171 
+led Solar_eclipses_on_Pluto.txt 1 95 
+dwarf Solar_eclipses_on_Pluto.txt 2 11 66 
+transiting Solar_eclipses_on_Pluto.txt 1 1535 
+respectively Solar_eclipses_on_Pluto.txt 2 439 449 
+never Solar_eclipses_on_Pluto.txt 1 876 
+here Solar_eclipses_on_Pluto.txt 1 1462 
+pluto Solar_eclipses_on_Pluto.txt 43 2 9 13 33 54 91 123 134 177 190 234 247 270 282 298 325 377 492 510 522 557 623 678 1120 1191 1256 1260 1267 1276 1365 1388 1455 1492 1505 1516 1536 1550 1574 1600 1627 1654 1693 1868 
+water Solar_eclipses_on_Pluto.txt 1 1423 
+foreshortened Solar_eclipses_on_Pluto.txt 1 663 
+galilean Solar_eclipses_on_Pluto.txt 1 870 
+christy Solar_eclipses_on_Pluto.txt 1 81 
+alone Solar_eclipses_on_Pluto.txt 1 124 
+november Solar_eclipses_on_Pluto.txt 1 1125 
+strong Solar_eclipses_on_Pluto.txt 1 972 
+appears Solar_eclipses_on_Pluto.txt 1 1630 
+search Solar_eclipses_on_Pluto.txt 2 136 599 
+hydras Solar_eclipses_on_Pluto.txt 1 1703 
+larger Solar_eclipses_on_Pluto.txt 6 428 608 1029 1710 1780 1791 
+67.6 Solar_eclipses_on_Pluto.txt 1 1756 
+experience Solar_eclipses_on_Pluto.txt 1 1650 
+leaving Solar_eclipses_on_Pluto.txt 1 1415 
+suggests Solar_eclipses_on_Pluto.txt 2 1036 1333 
+survey Solar_eclipses_on_Pluto.txt 1 701 
+resonance Solar_eclipses_on_Pluto.txt 12 742 778 786 789 858 867 900 925 960 995 1056 1088 
+studies Solar_eclipses_on_Pluto.txt 2 235 715 
+elongated Solar_eclipses_on_Pluto.txt 1 1217 
+diameter Solar_eclipses_on_Pluto.txt 5 27 268 613 1615 1715 
+named Solar_eclipses_on_Pluto.txt 1 172 
+formulated Solar_eclipses_on_Pluto.txt 1 861 
+although Solar_eclipses_on_Pluto.txt 1 1789 
+charonian Solar_eclipses_on_Pluto.txt 1 1018 
+explained Solar_eclipses_on_Pluto.txt 1 1320 
+kuiper Solar_eclipses_on_Pluto.txt 2 1252 1346 
+330 Solar_eclipses_on_Pluto.txt 1 1886 
+increased Solar_eclipses_on_Pluto.txt 1 1212 
+highly Solar_eclipses_on_Pluto.txt 1 513 
+visible Solar_eclipses_on_Pluto.txt 2 472 499 
+lower-resolution Solar_eclipses_on_Pluto.txt 1 1903 
+resolutions Solar_eclipses_on_Pluto.txt 1 1882 
+total Solar_eclipses_on_Pluto.txt 3 1717 1794 1820 
+from Solar_eclipses_on_Pluto.txt 14 5 32 388 398 578 622 657 698 923 959 1385 1466 1623 1692 
+links Solar_eclipses_on_Pluto.txt 1 1918 
+would Solar_eclipses_on_Pluto.txt 3 568 1013 1025 
+42 Solar_eclipses_on_Pluto.txt 1 431 
+two Solar_eclipses_on_Pluto.txt 6 125 183 379 427 507 1583 
+tightly Solar_eclipses_on_Pluto.txt 1 585 
+intense Solar_eclipses_on_Pluto.txt 1 598 
+hydra Solar_eclipses_on_Pluto.txt 22 41 189 351 360 394 425 469 581 675 733 770 793 820 910 933 1003 1012 1040 1071 1128 1207 1902 
+camera Solar_eclipses_on_Pluto.txt 1 705 
+6 Solar_eclipses_on_Pluto.txt 1 818 
+taken Solar_eclipses_on_Pluto.txt 2 253 767 
+0.005 Solar_eclipses_on_Pluto.txt 1 654 
+until Solar_eclipses_on_Pluto.txt 1 1051 
+diagrams Solar_eclipses_on_Pluto.txt 1 1101 
+more Solar_eclipses_on_Pluto.txt 4 1434 1449 1731 1776 
+relax Solar_eclipses_on_Pluto.txt 1 1279 
+volatiles Solar_eclipses_on_Pluto.txt 1 1408 
+varying Solar_eclipses_on_Pluto.txt 1 983 
+eccentricity Solar_eclipses_on_Pluto.txt 3 964 1019 1030 
+90 Solar_eclipses_on_Pluto.txt 1 1863 
+cases Solar_eclipses_on_Pluto.txt 1 1309 
+iii Solar_eclipses_on_Pluto.txt 1 191 
+coincidently Solar_eclipses_on_Pluto.txt 1 1588 
+account Solar_eclipses_on_Pluto.txt 1 769 
+inclinations Solar_eclipses_on_Pluto.txt 1 645 
+locked Solar_eclipses_on_Pluto.txt 2 52 302 
+room Solar_eclipses_on_Pluto.txt 1 590 
+this Solar_eclipses_on_Pluto.txt 13 94 480 627 799 1035 1067 1178 1340 1349 1398 1554 1578 1848 
+torques Solar_eclipses_on_Pluto.txt 2 1202 1210 
+eclipse Solar_eclipses_on_Pluto.txt 1 1652 
+longitude Solar_eclipses_on_Pluto.txt 1 851 
+charon-facing Solar_eclipses_on_Pluto.txt 1 1668 
+can Solar_eclipses_on_Pluto.txt 8 686 690 859 1140 1317 1579 1649 1678 
+example Solar_eclipses_on_Pluto.txt 1 543 
+history Solar_eclipses_on_Pluto.txt 2 69 1486 
+impacts Solar_eclipses_on_Pluto.txt 2 685 1259 
+0.3 Solar_eclipses_on_Pluto.txt 1 935 
+0.4 Solar_eclipses_on_Pluto.txt 1 649 
+0.6 Solar_eclipses_on_Pluto.txt 1 931 
+high Solar_eclipses_on_Pluto.txt 1 1311 
+collision Solar_eclipses_on_Pluto.txt 2 1295 1341 
+tidally Solar_eclipses_on_Pluto.txt 4 51 301 949 966 
+prograde Solar_eclipses_on_Pluto.txt 2 408 566 
+occur Solar_eclipses_on_Pluto.txt 5 877 1542 1581 1598 1853 
+axis Solar_eclipses_on_Pluto.txt 3 438 1774 1800 
+creates Solar_eclipses_on_Pluto.txt 2 971 1201 
+respective Solar_eclipses_on_Pluto.txt 1 752 
+5.4 Solar_eclipses_on_Pluto.txt 1 922 
+january Solar_eclipses_on_Pluto.txt 1 1845 
+rather Solar_eclipses_on_Pluto.txt 1 1342 
+astronomers Solar_eclipses_on_Pluto.txt 1 131 
+2:3 Solar_eclipses_on_Pluto.txt 1 777 
+plutonian Solar_eclipses_on_Pluto.txt 2 213 1856 
+movements Solar_eclipses_on_Pluto.txt 1 1089 
+circular Solar_eclipses_on_Pluto.txt 4 407 641 660 1327 
+blocks Solar_eclipses_on_Pluto.txt 1 1606 
+may Solar_eclipses_on_Pluto.txt 3 153 937 1065 
+after Solar_eclipses_on_Pluto.txt 1 90 
+orbits Solar_eclipses_on_Pluto.txt 14 367 409 493 545 567 596 633 661 755 809 941 1093 1328 1567 
+plane Solar_eclipses_on_Pluto.txt 1 414 
+such Solar_eclipses_on_Pluto.txt 4 828 1322 1426 1766 
+data Solar_eclipses_on_Pluto.txt 1 697 
+eighth Solar_eclipses_on_Pluto.txt 1 277 
+a Solar_eclipses_on_Pluto.txt 31 19 64 88 97 322 331 494 681 693 699 739 747 775 784 795 803 913 994 1016 1028 1152 1184 1251 1262 1293 1323 1405 1479 1643 1802 1859 
+light Solar_eclipses_on_Pluto.txt 2 115 1490 
+lines Solar_eclipses_on_Pluto.txt 1 1571 
+or Solar_eclipses_on_Pluto.txt 5 176 527 1002 1412 1439 
+so Solar_eclipses_on_Pluto.txt 5 273 303 584 1241 1716 
+media Solar_eclipses_on_Pluto.txt 1 1113 
+order Solar_eclipses_on_Pluto.txt 1 29 
+longest Solar_eclipses_on_Pluto.txt 2 437 1469 
+astronomical Solar_eclipses_on_Pluto.txt 1 169 
+mission Solar_eclipses_on_Pluto.txt 1 143 
+counterclockwise Solar_eclipses_on_Pluto.txt 1 1091 
+existence Solar_eclipses_on_Pluto.txt 1 1060 
+still Solar_eclipses_on_Pluto.txt 1 630 
+its Solar_eclipses_on_Pluto.txt 9 924 952 1005 1142 1377 1485 1772 1785 1797 
+1 Solar_eclipses_on_Pluto.txt 4 24 162 197 1250 
+27 Solar_eclipses_on_Pluto.txt 1 1705 
+outer Solar_eclipses_on_Pluto.txt 3 193 891 981 
+21 Solar_eclipses_on_Pluto.txt 1 199 
+22 Solar_eclipses_on_Pluto.txt 1 83 
+inward Solar_eclipses_on_Pluto.txt 1 1050 
+masses Solar_eclipses_on_Pluto.txt 1 459 
+actually Solar_eclipses_on_Pluto.txt 1 1147 
+forms Solar_eclipses_on_Pluto.txt 1 1265 
+degrees Solar_eclipses_on_Pluto.txt 1 1618 
+systems Solar_eclipses_on_Pluto.txt 1 285 
+2015 Solar_eclipses_on_Pluto.txt 2 1126 1879 
+77.8 Solar_eclipses_on_Pluto.txt 1 1749 
+hidden Solar_eclipses_on_Pluto.txt 1 1921 
+main Solar_eclipses_on_Pluto.txt 2 259 342 
+2011 Solar_eclipses_on_Pluto.txt 1 207 
+into Solar_eclipses_on_Pluto.txt 7 664 692 768 951 1004 1280 1478 
+2012 Solar_eclipses_on_Pluto.txt 1 220 
+then Solar_eclipses_on_Pluto.txt 3 827 856 957 
+them Solar_eclipses_on_Pluto.txt 1 289 
+eccentricities Solar_eclipses_on_Pluto.txt 1 651 
+material Solar_eclipses_on_Pluto.txt 1 1044 
+innermost Solar_eclipses_on_Pluto.txt 1 72 
+19,571 Solar_eclipses_on_Pluto.txt 1 1509 
+they Solar_eclipses_on_Pluto.txt 8 34 305 404 1052 1181 1335 1361 1367 
+half Solar_eclipses_on_Pluto.txt 2 87 266 
+satellites Solar_eclipses_on_Pluto.txt 4 574 871 1560 1610 
+rotation Solar_eclipses_on_Pluto.txt 1 1110 
+tumble Solar_eclipses_on_Pluto.txt 2 1208 1232 
+day Solar_eclipses_on_Pluto.txt 2 1153 1857 
+shadows Solar_eclipses_on_Pluto.txt 1 1680 
+articles Solar_eclipses_on_Pluto.txt 1 343 
+february Solar_eclipses_on_Pluto.txt 1 1539 
+edit Solar_eclipses_on_Pluto.txt 15 70 246 341 456 729 1111 1245 1457 1518 1530 1866 1912 1914 1916 1919 
+james Solar_eclipses_on_Pluto.txt 1 80 
+38.5 Solar_eclipses_on_Pluto.txt 1 1747 
+each Solar_eclipses_on_Pluto.txt 3 312 1195 1855 
+entirely Solar_eclipses_on_Pluto.txt 1 1812 
+quarter Solar_eclipses_on_Pluto.txt 1 1080 
+mean Solar_eclipses_on_Pluto.txt 2 850 898 
+telescope Solar_eclipses_on_Pluto.txt 2 150 712 
+random-looking Solar_eclipses_on_Pluto.txt 1 1172 
+18:22:33 Solar_eclipses_on_Pluto.txt 1 750 
+out Solar_eclipses_on_Pluto.txt 1 1447 
+dominates Solar_eclipses_on_Pluto.txt 1 464 
+1:3:4:5:6 Solar_eclipses_on_Pluto.txt 1 914 
+space Solar_eclipses_on_Pluto.txt 2 149 711 
+denotes Solar_eclipses_on_Pluto.txt 1 848 
+looking Solar_eclipses_on_Pluto.txt 1 224 
+dominated Solar_eclipses_on_Pluto.txt 1 1421 
+hill Solar_eclipses_on_Pluto.txt 2 533 551 
+7 Solar_eclipses_on_Pluto.txt 2 218 445 
+occurs Solar_eclipses_on_Pluto.txt 1 1555 
+announced Solar_eclipses_on_Pluto.txt 2 203 216 
+surveys Solar_eclipses_on_Pluto.txt 1 707 
+ecliptic Solar_eclipses_on_Pluto.txt 1 1570 
+approaches Solar_eclipses_on_Pluto.txt 1 1255 
+formation Solar_eclipses_on_Pluto.txt 1 1246 
+boosting Solar_eclipses_on_Pluto.txt 2 1011 1023 
+estimate Solar_eclipses_on_Pluto.txt 1 1734 
+rises Solar_eclipses_on_Pluto.txt 1 1160 
+haumeas Solar_eclipses_on_Pluto.txt 1 1238 
+shortest Solar_eclipses_on_Pluto.txt 1 1467 
+hubble Solar_eclipses_on_Pluto.txt 3 148 354 710 
+11:6 Solar_eclipses_on_Pluto.txt 1 798 
+created Solar_eclipses_on_Pluto.txt 3 1291 1304 1431 
+11:9 Solar_eclipses_on_Pluto.txt 1 785 
+could Solar_eclipses_on_Pluto.txt 4 519 679 998 1146 
+times Solar_eclipses_on_Pluto.txt 1 382 
+motion Solar_eclipses_on_Pluto.txt 1 899 
+hyperion Solar_eclipses_on_Pluto.txt 1 1228 
+conducted Solar_eclipses_on_Pluto.txt 1 600 
+massive Solar_eclipses_on_Pluto.txt 4 57 274 1294 1473 
+origin Solar_eclipses_on_Pluto.txt 1 1244 
+reflected Solar_eclipses_on_Pluto.txt 1 114 
+one Solar_eclipses_on_Pluto.txt 7 276 1079 1222 1389 1544 1557 1607 
+least Solar_eclipses_on_Pluto.txt 2 886 1033 
+reached Solar_eclipses_on_Pluto.txt 1 1376 
+ring Solar_eclipses_on_Pluto.txt 4 682 694 724 1264 
+angular Solar_eclipses_on_Pluto.txt 5 1312 1614 1683 1714 1742 
+size Solar_eclipses_on_Pluto.txt 2 104 1453 
+passes Solar_eclipses_on_Pluto.txt 2 1548 1601 
+little Solar_eclipses_on_Pluto.txt 1 589 
+simulated Solar_eclipses_on_Pluto.txt 1 1531 
+system Solar_eclipses_on_Pluto.txt 13 118 371 403 466 489 511 683 695 725 1289 1397 1517 1869 
+approximately Solar_eclipses_on_Pluto.txt 5 290 921 927 930 934 
+0.05 Solar_eclipses_on_Pluto.txt 1 1034 
+their Solar_eclipses_on_Pluto.txt 5 436 1085 1351 1380 1566 
+180 Solar_eclipses_on_Pluto.txt 1 880 
+2 Solar_eclipses_on_Pluto.txt 4 166 187 841 1257 
+01:00 Solar_eclipses_on_Pluto.txt 1 1122 
+listed Solar_eclipses_on_Pluto.txt 1 1461 
+iau Solar_eclipses_on_Pluto.txt 1 315 
+ranging Solar_eclipses_on_Pluto.txt 1 387 
+2117 Solar_eclipses_on_Pluto.txt 1 1846 
+that Solar_eclipses_on_Pluto.txt 23 59 109 283 304 324 491 586 605 677 689 722 801 829 939 993 1037 1203 1237 1286 1334 1360 1386 1642 
+relative Solar_eclipses_on_Pluto.txt 1 458 
+42,700 Solar_eclipses_on_Pluto.txt 1 391 
+required Solar_eclipses_on_Pluto.txt 2 1015 1027 
+released Solar_eclipses_on_Pluto.txt 2 958 1123 
+july Solar_eclipses_on_Pluto.txt 3 206 219 1878 
+than Solar_eclipses_on_Pluto.txt 9 421 609 648 653 1343 1366 1711 1777 1781 
+11 Solar_eclipses_on_Pluto.txt 1 808 
+distance Solar_eclipses_on_Pluto.txt 3 31 384 1500 
+12 Solar_eclipses_on_Pluto.txt 1 447 
+15 Solar_eclipses_on_Pluto.txt 2 152 985 
+horizons Solar_eclipses_on_Pluto.txt 7 142 230 256 603 720 1445 1875 
+double Solar_eclipses_on_Pluto.txt 2 65 332 
+1978 Solar_eclipses_on_Pluto.txt 1 85 
+grey Solar_eclipses_on_Pluto.txt 1 1381 
+r Solar_eclipses_on_Pluto.txt 1 1137 
+amplitude Solar_eclipses_on_Pluto.txt 1 883 
+were Solar_eclipses_on_Pluto.txt 9 119 128 239 1041 1053 1336 1441 1890 1905 
+visited Solar_eclipses_on_Pluto.txt 1 1871 
+toward Solar_eclipses_on_Pluto.txt 1 311 
+minor Solar_eclipses_on_Pluto.txt 1 1799 
+result Solar_eclipses_on_Pluto.txt 1 241 
+and Solar_eclipses_on_Pluto.txt 64 40 55 73 113 144 163 188 248 271 297 326 350 359 424 432 440 442 446 468 473 475 515 575 642 650 674 716 732 771 780 792 817 835 845 852 909 932 956 1039 1048 1063 1075 1092 1130 1164 1192 1206 1218 1277 1350 1371 1506 1551 1575 1595 1605 1702 1728 1755 1809 1816 1842 1894 1909 
+1.1 Solar_eclipses_on_Pluto.txt 1 1897 
+well Solar_eclipses_on_Pluto.txt 1 1243 
+dynamically Solar_eclipses_on_Pluto.txt 1 1185 
+substantial Solar_eclipses_on_Pluto.txt 1 98 
+suns Solar_eclipses_on_Pluto.txt 1 1713 
+have Solar_eclipses_on_Pluto.txt 7 405 680 1014 1026 1303 1430 1476 
+seen Solar_eclipses_on_Pluto.txt 3 656 1622 1691 
+38.9 Solar_eclipses_on_Pluto.txt 1 1751 
+occupied Solar_eclipses_on_Pluto.txt 1 572 
+any Solar_eclipses_on_Pluto.txt 1 1448 
+contents Solar_eclipses_on_Pluto.txt 1 68 
+elsewhere Solar_eclipses_on_Pluto.txt 1 1681 
+forced Solar_eclipses_on_Pluto.txt 1 944 
+nixhydra Solar_eclipses_on_Pluto.txt 1 837 
+angle Solar_eclipses_on_Pluto.txt 1 855 
+depending Solar_eclipses_on_Pluto.txt 1 666 
+trapped Solar_eclipses_on_Pluto.txt 1 1054 
+also Solar_eclipses_on_Pluto.txt 4 300 498 895 1337 
+coplanar Solar_eclipses_on_Pluto.txt 1 643 
+potential Solar_eclipses_on_Pluto.txt 1 226 
+charonpluto Solar_eclipses_on_Pluto.txt 1 903 
+which Solar_eclipses_on_Pluto.txt 4 105 155 1157 1471 
+completed Solar_eclipses_on_Pluto.txt 1 1094 
+surfaces Solar_eclipses_on_Pluto.txt 1 1417 
+play Solar_eclipses_on_Pluto.txt 1 1112 
+added Solar_eclipses_on_Pluto.txt 1 1495 
+11:9:6 Solar_eclipses_on_Pluto.txt 1 757 
+object Solar_eclipses_on_Pluto.txt 1 1254 
+experiences Solar_eclipses_on_Pluto.txt 1 1670 
+significant Solar_eclipses_on_Pluto.txt 1 1452 
+pair Solar_eclipses_on_Pluto.txt 1 970 
+comparison Solar_eclipses_on_Pluto.txt 1 1497 
+extremely Solar_eclipses_on_Pluto.txt 1 1823 
+model Solar_eclipses_on_Pluto.txt 1 1513 
+tallied Solar_eclipses_on_Pluto.txt 1 1096 
+considered Solar_eclipses_on_Pluto.txt 2 63 321 
+calculated Solar_eclipses_on_Pluto.txt 1 992 
+later Solar_eclipses_on_Pluto.txt 1 717 
+km Solar_eclipses_on_Pluto.txt 5 25 292 611 621 1511 
+face Solar_eclipses_on_Pluto.txt 2 310 1659 
+near Solar_eclipses_on_Pluto.txt 3 917 1352 1592 
+redirected Solar_eclipses_on_Pluto.txt 1 4 
+wikipedia Solar_eclipses_on_Pluto.txt 1 3 
+synchronous Solar_eclipses_on_Pluto.txt 1 954 
+discovered Solar_eclipses_on_Pluto.txt 5 78 93 209 222 1442 
+threshold Solar_eclipses_on_Pluto.txt 1 628 
+earth Solar_eclipses_on_Pluto.txt 1 658 
+impact Solar_eclipses_on_Pluto.txt 2 1411 1428 
+proximity Solar_eclipses_on_Pluto.txt 1 1639 
+ratio Solar_eclipses_on_Pluto.txt 3 748 753 796 
+front Solar_eclipses_on_Pluto.txt 1 1603 
+occultation Solar_eclipses_on_Pluto.txt 1 714 
+proportion Solar_eclipses_on_Pluto.txt 1 1645 
+3 Solar_eclipses_on_Pluto.txt 3 561 836 1261 
+3-body Solar_eclipses_on_Pluto.txt 1 740 
+should Solar_eclipses_on_Pluto.txt 2 760 1429 
+only Solar_eclipses_on_Pluto.txt 6 558 1221 1318 1580 1633 1666 
+black Solar_eclipses_on_Pluto.txt 1 1077 
+arcseconds Solar_eclipses_on_Pluto.txt 4 1637 1752 1779 1805 
+oblique Solar_eclipses_on_Pluto.txt 1 483 
+merged Solar_eclipses_on_Pluto.txt 1 243 
+do Solar_eclipses_on_Pluto.txt 1 1240 
+over Solar_eclipses_on_Pluto.txt 1 1078 
+means Solar_eclipses_on_Pluto.txt 1 800 
+moons Solar_eclipses_on_Pluto.txt 34 0 16 48 127 174 184 232 238 340 375 462 518 593 607 636 893 982 1118 1215 1239 1249 1316 1332 1420 1435 1438 1450 1459 1521 1547 1677 1689 1724 1737 
+cannot Solar_eclipses_on_Pluto.txt 1 1792 
+nearly Solar_eclipses_on_Pluto.txt 4 86 275 406 1326 
+new Solar_eclipses_on_Pluto.txt 7 141 229 255 602 719 1444 1874 
+during Solar_eclipses_on_Pluto.txt 2 1409 1847 
+saturn Solar_eclipses_on_Pluto.txt 1 1225 
+chaotically Solar_eclipses_on_Pluto.txt 1 1133 
+precession Solar_eclipses_on_Pluto.txt 1 765 
+sources Solar_eclipses_on_Pluto.txt 1 1915 
+boost Solar_eclipses_on_Pluto.txt 1 999 
+coalescence Solar_eclipses_on_Pluto.txt 1 1414 
+x Solar_eclipses_on_Pluto.txt 4 1746 1750 1757 1761 
+where Solar_eclipses_on_Pluto.txt 2 565 1565 
+view Solar_eclipses_on_Pluto.txt 2 485 1532 
+around Solar_eclipses_on_Pluto.txt 2 1046 1266 
+flip Solar_eclipses_on_Pluto.txt 1 1141 
+detection Solar_eclipses_on_Pluto.txt 1 20 
+irregularly Solar_eclipses_on_Pluto.txt 1 453 
+see Solar_eclipses_on_Pluto.txt 2 1106 1357 
+arc Solar_eclipses_on_Pluto.txt 2 1620 1701 
+radius Solar_eclipses_on_Pluto.txt 2 534 552 
+are Solar_eclipses_on_Pluto.txt 30 35 299 418 429 444 452 470 477 637 734 773 782 807 826 831 894 911 1090 1095 1182 1211 1216 1368 1460 1591 1694 1708 1720 1730 1738 
+close Solar_eclipses_on_Pluto.txt 1 896 
+2.7 Solar_eclipses_on_Pluto.txt 1 928 
+outward Solar_eclipses_on_Pluto.txt 1 1373 
+packed Solar_eclipses_on_Pluto.txt 1 583 
+points Solar_eclipses_on_Pluto.txt 3 1564 1584 1590 
+closer Solar_eclipses_on_Pluto.txt 1 1363 
+subsequent Solar_eclipses_on_Pluto.txt 1 1413 
+hybrid Solar_eclipses_on_Pluto.txt 1 1817 
+rings Solar_eclipses_on_Pluto.txt 2 214 1440 
+enough Solar_eclipses_on_Pluto.txt 2 58 1474 
+0.024 Solar_eclipses_on_Pluto.txt 1 1021 
+between Solar_eclipses_on_Pluto.txt 5 288 505 790 1501 1549 
+orbiting Solar_eclipses_on_Pluto.txt 2 1194 1454 
+exploration Solar_eclipses_on_Pluto.txt 1 1865 
+approach Solar_eclipses_on_Pluto.txt 1 258 
+discovery Solar_eclipses_on_Pluto.txt 3 355 361 671 
+august Solar_eclipses_on_Pluto.txt 1 319 
+25 Solar_eclipses_on_Pluto.txt 1 1538 
+originated Solar_eclipses_on_Pluto.txt 1 942 
+however Solar_eclipses_on_Pluto.txt 4 696 989 1425 1787 
+invisible Solar_eclipses_on_Pluto.txt 1 478 
+20 Solar_eclipses_on_Pluto.txt 1 205 
+suggested Solar_eclipses_on_Pluto.txt 1 676 
+received Solar_eclipses_on_Pluto.txt 1 156 
+irregular Solar_eclipses_on_Pluto.txt 1 1740 
+minutes Solar_eclipses_on_Pluto.txt 3 1699 1706 1864 
+region Solar_eclipses_on_Pluto.txt 2 564 577 
+barely Solar_eclipses_on_Pluto.txt 1 471 
+according Solar_eclipses_on_Pluto.txt 1 1134 
+s Solar_eclipses_on_Pluto.txt 1 1226 
+objects Solar_eclipses_on_Pluto.txt 1 1348 
+circumbinary Solar_eclipses_on_Pluto.txt 1 892 
+retrograde Solar_eclipses_on_Pluto.txt 1 530 
+designations Solar_eclipses_on_Pluto.txt 1 159 
+32.0 Solar_eclipses_on_Pluto.txt 1 1758 
+32.2 Solar_eclipses_on_Pluto.txt 1 1762 
+64,800 Solar_eclipses_on_Pluto.txt 1 396 
+point Solar_eclipses_on_Pluto.txt 2 495 1483 
+simple Solar_eclipses_on_Pluto.txt 1 776 
+kilometers Solar_eclipses_on_Pluto.txt 3 434 448 1898 
+period Solar_eclipses_on_Pluto.txt 4 905 1465 1827 1849 
+pole Solar_eclipses_on_Pluto.txt 1 1144 
+65 Solar_eclipses_on_Pluto.txt 1 1636 
+article Solar_eclipses_on_Pluto.txt 1 260 
+69 Solar_eclipses_on_Pluto.txt 1 528 
+belt Solar_eclipses_on_Pluto.txt 2 1253 1347 
+ensures Solar_eclipses_on_Pluto.txt 1 1641 
+styxhydra Solar_eclipses_on_Pluto.txt 1 833 
+union Solar_eclipses_on_Pluto.txt 1 170 
+create Solar_eclipses_on_Pluto.txt 1 687 
+due Solar_eclipses_on_Pluto.txt 3 1403 1662 1831 
+been Solar_eclipses_on_Pluto.txt 1 1494 
+mark Solar_eclipses_on_Pluto.txt 1 1136 
+much Solar_eclipses_on_Pluto.txt 3 419 1631 1709 
+proposal Solar_eclipses_on_Pluto.txt 2 323 336 
+recurring Solar_eclipses_on_Pluto.txt 1 804 
+empty Solar_eclipses_on_Pluto.txt 1 517 
+both Solar_eclipses_on_Pluto.txt 3 1010 1308 1736 
+kerberos Solar_eclipses_on_Pluto.txt 14 39 202 348 443 476 908 929 1062 1131 1729 1764 1788 1808 1910 
+39 Solar_eclipses_on_Pluto.txt 2 1634 1698 
+external Solar_eclipses_on_Pluto.txt 1 1917 
+suspected Solar_eclipses_on_Pluto.txt 1 1285 
+reclassified Solar_eclipses_on_Pluto.txt 1 329 
+general Solar_eclipses_on_Pluto.txt 1 316 
+present Solar_eclipses_on_Pluto.txt 3 307 727 1370 
+case Solar_eclipses_on_Pluto.txt 1 555 
+east Solar_eclipses_on_Pluto.txt 1 1163 
+960 Solar_eclipses_on_Pluto.txt 1 291 
+abandoned Solar_eclipses_on_Pluto.txt 1 338 
+these Solar_eclipses_on_Pluto.txt 6 173 659 940 1589 1707 1723 
+pixel Solar_eclipses_on_Pluto.txt 2 1889 1900 
+will Solar_eclipses_on_Pluto.txt 3 1811 1834 1852 
+cast Solar_eclipses_on_Pluto.txt 1 1679 
+180,000 Solar_eclipses_on_Pluto.txt 1 620 
+32 Solar_eclipses_on_Pluto.txt 1 1804 
+2103 Solar_eclipses_on_Pluto.txt 1 1838 
+eclipses Solar_eclipses_on_Pluto.txt 10 7 1672 1719 1725 1771 1795 1806 1818 1821 1851 
+at Solar_eclipses_on_Pluto.txt 15 378 390 395 479 523 547 615 885 979 1032 1097 1369 1481 1582 1784 
+approximate Solar_eclipses_on_Pluto.txt 1 1523 
+styx Solar_eclipses_on_Pluto.txt 23 37 215 344 364 389 441 474 579 730 779 791 811 844 906 920 1064 1076 1129 1727 1754 1767 1810 1908 
+century Solar_eclipses_on_Pluto.txt 1 89 
+almost Solar_eclipses_on_Pluto.txt 1 1171 
+characteristics Solar_eclipses_on_Pluto.txt 1 455 
+is Solar_eclipses_on_Pluto.txt 27 49 56 61 264 272 500 512 571 582 588 629 726 756 766 1170 1179 1229 1235 1284 1383 1399 1472 1487 1508 1697 1704 1801 
+it Solar_eclipses_on_Pluto.txt 8 936 990 1145 1169 1176 1234 1258 1283 
+surface Solar_eclipses_on_Pluto.txt 3 295 1625 1648 
+ii Solar_eclipses_on_Pluto.txt 1 178 
+itself Solar_eclipses_on_Pluto.txt 1 497 
+68.0 Solar_eclipses_on_Pluto.txt 1 1760 
+triple Solar_eclipses_on_Pluto.txt 1 874 
+in Solar_eclipses_on_Pluto.txt 30 26 28 100 318 410 553 612 738 746 774 783 802 912 1055 1156 1161 1166 1173 1183 1307 1339 1394 1484 1489 1585 1602 1836 1840 1844 1877 
+synodic Solar_eclipses_on_Pluto.txt 1 824 
+if Solar_eclipses_on_Pluto.txt 2 529 847 
+orbital Solar_eclipses_on_Pluto.txt 10 413 741 744 764 904 963 1087 1353 1464 1561 
+confirmed Solar_eclipses_on_Pluto.txt 2 604 638 
+suggest Solar_eclipses_on_Pluto.txt 3 236 721 1359 
+make Solar_eclipses_on_Pluto.txt 2 1204 1793 
+locking Solar_eclipses_on_Pluto.txt 2 504 1665 
+cross Solar_eclipses_on_Pluto.txt 1 1568 
+same Solar_eclipses_on_Pluto.txt 3 309 412 1658 
+highlighted Solar_eclipses_on_Pluto.txt 1 1488 
+potentially Solar_eclipses_on_Pluto.txt 1 520 
+schematic Solar_eclipses_on_Pluto.txt 1 484 
+largest Solar_eclipses_on_Pluto.txt 4 44 74 1786 1798 
+9 Solar_eclipses_on_Pluto.txt 1 814 
+events Solar_eclipses_on_Pluto.txt 2 1529 1830 
+difficult Solar_eclipses_on_Pluto.txt 1 1732 
+satellite Solar_eclipses_on_Pluto.txt 2 370 1288 
+boosted Solar_eclipses_on_Pluto.txt 1 950 
+differing Solar_eclipses_on_Pluto.txt 1 646 
+companion Solar_eclipses_on_Pluto.txt 1 135 
+nix Solar_eclipses_on_Pluto.txt 23 38 175 346 358 423 467 673 731 772 781 816 846 907 926 1001 1024 1038 1073 1127 1139 1155 1205 1893 
+dust Solar_eclipses_on_Pluto.txt 1 1263 
+changing Solar_eclipses_on_Pluto.txt 1 1186 
+cycle Solar_eclipses_on_Pluto.txt 3 805 1083 1109 
+scenario Solar_eclipses_on_Pluto.txt 1 1324 
+largely Solar_eclipses_on_Pluto.txt 1 516 
+neptune Solar_eclipses_on_Pluto.txt 1 546 
+roughly Solar_eclipses_on_Pluto.txt 1 430 
+thought Solar_eclipses_on_Pluto.txt 3 735 1301 1400 
+aphelion Solar_eclipses_on_Pluto.txt 1 1596 
+sets Solar_eclipses_on_Pluto.txt 1 1165 
+position Solar_eclipses_on_Pluto.txt 1 669 
+the Solar_eclipses_on_Pluto.txt 105 10 43 46 71 110 117 133 140 147 157 167 179 182 192 237 240 267 279 284 308 314 335 353 369 383 399 402 411 426 457 465 487 501 506 509 532 535 550 554 559 563 576 616 632 635 670 703 709 751 758 788 821 849 853 857 865 869 890 902 968 976 980 1059 1082 1107 1116 1158 1162 1167 1174 1197 1209 1214 1269 1298 1305 1310 1315 1325 1330 1391 1395 1410 1416 1419 1498 1502 1515 1519 1552 1559 1563 1576 1624 1628 1657 1667 1675 1682 1686 1712 1782 1825 1867 1873 
+spend Solar_eclipses_on_Pluto.txt 1 1151 
+bodies Solar_eclipses_on_Pluto.txt 4 244 508 1282 1393 
+spherical Solar_eclipses_on_Pluto.txt 2 1220 1281 
+distances Solar_eclipses_on_Pluto.txt 2 617 626 
+less Solar_eclipses_on_Pluto.txt 2 647 652 
+being Solar_eclipses_on_Pluto.txt 3 1344 1775 1822 
+photo Solar_eclipses_on_Pluto.txt 1 252 
+observed Solar_eclipses_on_Pluto.txt 1 111 
+librates Solar_eclipses_on_Pluto.txt 1 878 
+not Solar_eclipses_on_Pluto.txt 2 1009 1219 
+momenta Solar_eclipses_on_Pluto.txt 1 1313 
+rotates Solar_eclipses_on_Pluto.txt 1 1177 
+yet Solar_eclipses_on_Pluto.txt 1 1436 
+captured Solar_eclipses_on_Pluto.txt 2 1043 1345 
+begin Solar_eclipses_on_Pluto.txt 1 1835 
+widest Solar_eclipses_on_Pluto.txt 1 1773 
+had Solar_eclipses_on_Pluto.txt 1 106 
+color Solar_eclipses_on_Pluto.txt 1 1382 
+animation Solar_eclipses_on_Pluto.txt 1 1121 
+4 Solar_eclipses_on_Pluto.txt 3 1268 1510 1617 
+76.9 Solar_eclipses_on_Pluto.txt 1 1745 
+has Solar_eclipses_on_Pluto.txt 5 14 794 1493 1612 1768 
+forces Solar_eclipses_on_Pluto.txt 1 974 
+kilometres Solar_eclipses_on_Pluto.txt 2 392 397 
+big Solar_eclipses_on_Pluto.txt 1 1299 
+showing Solar_eclipses_on_Pluto.txt 1 490 
+possible Solar_eclipses_on_Pluto.txt 1 1149 
+near-zero Solar_eclipses_on_Pluto.txt 1 1017 
+charon Solar_eclipses_on_Pluto.txt 29 36 42 76 245 249 261 263 296 327 386 416 422 463 947 997 1058 1193 1274 1278 1356 1375 1470 1507 1527 1534 1611 1661 1674 1833 
+five Solar_eclipses_on_Pluto.txt 2 15 47 
+advanced Solar_eclipses_on_Pluto.txt 1 704 
+loss Solar_eclipses_on_Pluto.txt 1 1406 
+rotate Solar_eclipses_on_Pluto.txt 1 1132 
+shaped Solar_eclipses_on_Pluto.txt 1 454 
+55 Solar_eclipses_on_Pluto.txt 1 433 
+53 Solar_eclipses_on_Pluto.txt 1 526 
+either Solar_eclipses_on_Pluto.txt 1 1000 
+always Solar_eclipses_on_Pluto.txt 2 306 1655 
+right Solar_eclipses_on_Pluto.txt 1 1099 
+sequence Solar_eclipses_on_Pluto.txt 1 915 
+showalter Solar_eclipses_on_Pluto.txt 1 1138 
+searching Solar_eclipses_on_Pluto.txt 1 211 
+10 Solar_eclipses_on_Pluto.txt 3 887 1124 1778 
+imaged Solar_eclipses_on_Pluto.txt 1 129 
+towards Solar_eclipses_on_Pluto.txt 1 1660 
+jupiter Solar_eclipses_on_Pluto.txt 1 873 
+barycenter Solar_eclipses_on_Pluto.txt 2 286 400 
+spheroid Solar_eclipses_on_Pluto.txt 1 1480 
+duration Solar_eclipses_on_Pluto.txt 1 1861 
+preparing Solar_eclipses_on_Pluto.txt 1 138 
+scale Solar_eclipses_on_Pluto.txt 4 251 481 1512 1524 
+dimensions Solar_eclipses_on_Pluto.txt 1 1743 
+for Solar_eclipses_on_Pluto.txt 13 139 212 225 228 542 591 624 706 812 839 1496 1753 1763 
+purple Solar_eclipses_on_Pluto.txt 1 1491 
+resonances Solar_eclipses_on_Pluto.txt 4 728 918 945 1354 
+though Solar_eclipses_on_Pluto.txt 1 1233 
+ice Solar_eclipses_on_Pluto.txt 1 1424 
+moon Solar_eclipses_on_Pluto.txt 10 75 194 262 345 347 349 352 1224 1227 1306 
+charons Solar_eclipses_on_Pluto.txt 2 962 1638 
+be Solar_eclipses_on_Pluto.txt 10 328 569 640 737 761 860 938 1148 1319 1402 
+assembly Solar_eclipses_on_Pluto.txt 1 317 
+reddest Solar_eclipses_on_Pluto.txt 1 1392 
+annular Solar_eclipses_on_Pluto.txt 1 1770 
+ratios Solar_eclipses_on_Pluto.txt 2 759 822 
+tidal Solar_eclipses_on_Pluto.txt 3 503 973 1664 
+occultations Solar_eclipses_on_Pluto.txt 1 1597 
+by Solar_eclipses_on_Pluto.txt 20 79 130 254 573 601 702 713 718 984 1190 1292 1321 1422 1443 1463 1673 1722 1726 1807 1872 
+on Solar_eclipses_on_Pluto.txt 13 8 82 151 198 204 217 257 435 667 708 1103 1154 1537 
+about Solar_eclipses_on_Pluto.txt 3 23 265 879 
+rare Solar_eclipses_on_Pluto.txt 1 1824 
+working Solar_eclipses_on_Pluto.txt 1 145 
+of Solar_eclipses_on_Pluto.txt 78 1 22 30 45 102 116 132 181 233 242 269 278 281 357 363 368 385 401 460 486 531 539 549 556 562 634 672 749 754 797 810 815 819 823 843 868 872 884 889 916 1020 1031 1061 1070 1081 1084 1100 1115 1119 1247 1314 1329 1387 1390 1407 1418 1451 1504 1514 1533 1545 1558 1604 1608 1616 1619 1626 1646 1685 1700 1744 1814 1828 1862 1883 1892 1901 1907 
+mutually Solar_eclipses_on_Pluto.txt 1 50 
+slightly Solar_eclipses_on_Pluto.txt 1 1790 
+provisional Solar_eclipses_on_Pluto.txt 1 158 
+formerly Solar_eclipses_on_Pluto.txt 2 185 195 
+previously Solar_eclipses_on_Pluto.txt 1 107 
+image Solar_eclipses_on_Pluto.txt 3 356 362 1104 
+rotations Solar_eclipses_on_Pluto.txt 1 1114 
+down Solar_eclipses_on_Pluto.txt 1 17 
+lies Solar_eclipses_on_Pluto.txt 1 287 
+because Solar_eclipses_on_Pluto.txt 3 1180 1213 1653 
+references Solar_eclipses_on_Pluto.txt 1 1913 
+next Solar_eclipses_on_Pluto.txt 1 1826 
+mere Solar_eclipses_on_Pluto.txt 1 1803 
+diameters Solar_eclipses_on_Pluto.txt 1 1684 
+additional Solar_eclipses_on_Pluto.txt 2 126 1432 
+assumed Solar_eclipses_on_Pluto.txt 1 108 
+support Solar_eclipses_on_Pluto.txt 1 1066 
+there Solar_eclipses_on_Pluto.txt 3 587 806 830 
+hazards Solar_eclipses_on_Pluto.txt 1 227 
+libration Solar_eclipses_on_Pluto.txt 1 854 
+1989 Solar_eclipses_on_Pluto.txt 1 1540 
+inner Solar_eclipses_on_Pluto.txt 2 180 560 
+way Solar_eclipses_on_Pluto.txt 1 1175 
+was Solar_eclipses_on_Pluto.txt 10 77 92 208 221 337 948 965 991 1290 1870 
+north Solar_eclipses_on_Pluto.txt 1 1168 
+complete Solar_eclipses_on_Pluto.txt 1 1108 
+form Solar_eclipses_on_Pluto.txt 2 691 1273 
+some Solar_eclipses_on_Pluto.txt 1 1482 
+collapsed Solar_eclipses_on_Pluto.txt 1 1477 
+but Solar_eclipses_on_Pluto.txt 2 334 1008 
+idea Solar_eclipses_on_Pluto.txt 1 1068 
+hemisphere Solar_eclipses_on_Pluto.txt 1 1669 
+solar Solar_eclipses_on_Pluto.txt 5 6 1396 1671 1718 1850 
+with Solar_eclipses_on_Pluto.txt 19 53 146 366 594 644 743 864 881 901 919 975 996 1057 1355 1573 1741 1819 1858 1881 
+october Solar_eclipses_on_Pluto.txt 1 1837 
+consist Solar_eclipses_on_Pluto.txt 1 1813 
+gravitational Solar_eclipses_on_Pluto.txt 4 537 977 1187 1199 
+up Solar_eclipses_on_Pluto.txt 5 524 618 1572 1884 1895 
+different Solar_eclipses_on_Pluto.txt 1 1384 
+planet Solar_eclipses_on_Pluto.txt 3 12 67 333 
+below Solar_eclipses_on_Pluto.txt 1 1358 
+limit Solar_eclipses_on_Pluto.txt 1 21 
+ruling Solar_eclipses_on_Pluto.txt 1 1446 
+meters Solar_eclipses_on_Pluto.txt 1 1887 
+similar Solar_eclipses_on_Pluto.txt 1 1296 
+laplace Solar_eclipses_on_Pluto.txt 1 866 
+instead Solar_eclipses_on_Pluto.txt 1 1042 
+sometimes Solar_eclipses_on_Pluto.txt 1 62 
+influence Solar_eclipses_on_Pluto.txt 1 541 
+an Solar_eclipses_on_Pluto.txt 6 482 597 882 1427 1613 1651 
+images Solar_eclipses_on_Pluto.txt 2 1880 1904 
+as Solar_eclipses_on_Pluto.txt 14 330 415 655 862 863 943 961 1242 1374 1621 1690 1735 1765 1796 
+exist Solar_eclipses_on_Pluto.txt 1 614 
+periods Solar_eclipses_on_Pluto.txt 2 745 825 
+small-body Solar_eclipses_on_Pluto.txt 1 684 
+4.5 Solar_eclipses_on_Pluto.txt 1 610 
+mutual Solar_eclipses_on_Pluto.txt 4 502 1086 1528 1829 
+compared Solar_eclipses_on_Pluto.txt 1 1525 
+no Solar_eclipses_on_Pluto.txt 4 606 723 1437 1769 
+whereas Solar_eclipses_on_Pluto.txt 1 1022 
+when Solar_eclipses_on_Pluto.txt 5 763 946 1543 1556 1599 
+40 Solar_eclipses_on_Pluto.txt 1 548 
+field Solar_eclipses_on_Pluto.txt 3 978 1188 1200 
+other Solar_eclipses_on_Pluto.txt 3 313 1196 1223 
+5 Solar_eclipses_on_Pluto.txt 2 832 1275 
+ellipses Solar_eclipses_on_Pluto.txt 1 665 
+mass Solar_eclipses_on_Pluto.txt 2 112 280 
+revision Solar_eclipses_on_Pluto.txt 1 99 
+formed Solar_eclipses_on_Pluto.txt 3 1045 1338 1362 
+nixs Solar_eclipses_on_Pluto.txt 1 1696 
+aggregates Solar_eclipses_on_Pluto.txt 1 1271 
+june Solar_eclipses_on_Pluto.txt 2 84 200 
+peak Solar_eclipses_on_Pluto.txt 3 986 988 1839 
+variable Solar_eclipses_on_Pluto.txt 1 1198 
+psamathe Solar_eclipses_on_Pluto.txt 1 544 
+orbit Solar_eclipses_on_Pluto.txt 6 376 521 955 1007 1379 1587 
+2006 Solar_eclipses_on_Pluto.txt 2 201 320 
+2005 Solar_eclipses_on_Pluto.txt 1 154 
+2110 Solar_eclipses_on_Pluto.txt 1 1841 
+once Solar_eclipses_on_Pluto.txt 1 1854 

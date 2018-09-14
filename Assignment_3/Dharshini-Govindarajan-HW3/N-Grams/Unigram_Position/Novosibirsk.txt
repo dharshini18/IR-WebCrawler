@@ -1,0 +1,940 @@
+all Novosibirsk.txt 3 1448 1827 2179 
+caused Novosibirsk.txt 1 944 
+lack Novosibirsk.txt 1 1390 
+factory Novosibirsk.txt 1 1867 
+founded Novosibirsk.txt 2 131 174 
+facilities Novosibirsk.txt 1 684 
+mild Novosibirsk.txt 1 1539 
+woods Novosibirsk.txt 1 930 
+asian Novosibirsk.txt 1 32 
+winds Novosibirsk.txt 1 1406 
+settlement Novosibirsk.txt 2 189 241 
+centers Novosibirsk.txt 2 305 678 
+novonikolayevsk Novosibirsk.txt 12 123 153 217 232 262 286 366 427 438 467 485 536 
+ballet Novosibirsk.txt 1 2125 
+hold Novosibirsk.txt 1 1562 
+1942 Novosibirsk.txt 1 821 
+95 Novosibirsk.txt 1 1518 
+1940 Novosibirsk.txt 1 819 
+megawatts Novosibirsk.txt 1 896 
+metallurgy Novosibirsk.txt 1 1881 
+to Novosibirsk.txt 33 3 78 218 375 429 456 517 607 634 755 771 835 839 948 1080 1194 1216 1230 1237 1279 1328 1468 1481 1498 1515 1607 1731 1738 1900 1921 1935 2140 2158 
+petersburg Novosibirsk.txt 2 24 1686 
+late Novosibirsk.txt 1 2048 
+teaching Novosibirsk.txt 1 355 
+relocated Novosibirsk.txt 1 831 
+division Novosibirsk.txt 4 997 1177 1202 2164 
+olympians Novosibirsk.txt 1 1981 
+risk Novosibirsk.txt 1 842 
+far Novosibirsk.txt 1 1362 
+regional Novosibirsk.txt 1 191 
+1923 Novosibirsk.txt 1 1781 
+every Novosibirsk.txt 2 631 1578 
+difference Novosibirsk.txt 1 1521 
+vast Novosibirsk.txt 1 919 
+school Novosibirsk.txt 4 353 363 639 2199 
+krivoshchekovskaya Novosibirsk.txt 1 170 
+level Novosibirsk.txt 1 2147 
+industrialization Novosibirsk.txt 2 666 769 
+f Novosibirsk.txt 10 1467 1472 1480 1485 1497 1502 1514 1519 1533 1572 
+companies Novosibirsk.txt 2 331 1953 
+theaters Novosibirsk.txt 1 2211 
+fewer Novosibirsk.txt 1 1076 
+large Novosibirsk.txt 4 85 1806 1815 1951 
+third-largest Novosibirsk.txt 1 1678 
+16 Novosibirsk.txt 1 2217 
+plain Novosibirsk.txt 1 1327 
+barracks Novosibirsk.txt 1 746 
+20th Novosibirsk.txt 1 211 
+gallery Novosibirsk.txt 1 2350 
+olympic Novosibirsk.txt 1 2338 
+revolution Novosibirsk.txt 1 612 
+ten Novosibirsk.txt 1 102 
+eclipse Novosibirsk.txt 1 1119 
+streets Novosibirsk.txt 1 1583 
+wrestling Novosibirsk.txt 2 1989 2340 
+direct Novosibirsk.txt 1 913 
+go Novosibirsk.txt 2 1490 1507 
+rate Novosibirsk.txt 1 952 
+140,000 Novosibirsk.txt 1 872 
+further Novosibirsk.txt 1 199 
+ice Novosibirsk.txt 2 2015 2024 
+folk Novosibirsk.txt 1 2116 
+khanova Novosibirsk.txt 1 2081 
+universities Novosibirsk.txt 1 1018 
+districts Novosibirsk.txt 2 103 1198 
+stands Novosibirsk.txt 1 1315 
+193.9 Novosibirsk.txt 1 112 
+giving Novosibirsk.txt 1 753 
+orchestra Novosibirsk.txt 3 2107 2111 2114 
+while Novosibirsk.txt 2 650 1596 
+asia Novosibirsk.txt 3 220 1627 1734 
+find Novosibirsk.txt 1 1542 
+business Novosibirsk.txt 1 1922 
+nina Novosibirsk.txt 1 2333 
+turkestan-siberia Novosibirsk.txt 1 206 
+reconstruction Novosibirsk.txt 1 487 
+toll Novosibirsk.txt 1 386 
+churches Novosibirsk.txt 1 336 
+falling Novosibirsk.txt 1 1443 
+nicholas Novosibirsk.txt 2 159 165 
+temperatures Novosibirsk.txt 7 1366 1371 1459 1488 1505 1528 1567 
+airphoto Novosibirsk.txt 1 2134 
+full Novosibirsk.txt 1 274 
+led Novosibirsk.txt 1 770 
+degree Novosibirsk.txt 1 2148 
+commercial Novosibirsk.txt 2 302 328 
+water Novosibirsk.txt 2 86 903 
+musical Novosibirsk.txt 1 2120 
+competed Novosibirsk.txt 1 2020 
+operating Novosibirsk.txt 1 257 
+twentieth Novosibirsk.txt 1 2001 
+groups Novosibirsk.txt 2 1261 2121 
+others Novosibirsk.txt 1 764 
+active Novosibirsk.txt 2 1969 2284 
+path Novosibirsk.txt 1 1115 
+non-classical Novosibirsk.txt 1 361 
+legend Novosibirsk.txt 1 2067 
+great Novosibirsk.txt 2 145 724 
+11000 Novosibirsk.txt 1 2276 
+metro Novosibirsk.txt 3 1091 1695 1701 
+houses Novosibirsk.txt 1 2161 
+institute Novosibirsk.txt 1 376 
+31 Novosibirsk.txt 1 1501 
+30 Novosibirsk.txt 3 986 1494 1511 
+oblast Novosibirsk.txt 5 51 589 604 1139 1147 
+35 Novosibirsk.txt 3 1014 1499 1516 
+museums Novosibirsk.txt 1 2228 
+airport Novosibirsk.txt 4 1674 1727 1755 1765 
+chemical Novosibirsk.txt 1 1845 
+social Novosibirsk.txt 1 2242 
+usually Novosibirsk.txt 1 1455 
+residents Novosibirsk.txt 2 1228 2317 
+settled Novosibirsk.txt 1 744 
+honor Novosibirsk.txt 2 155 2093 
+world-renowned Novosibirsk.txt 1 2262 
+named Novosibirsk.txt 2 152 2091 
+ipa Novosibirsk.txt 1 11 
+apple Novosibirsk.txt 1 1299 
+airspace Novosibirsk.txt 1 1837 
+47,000 Novosibirsk.txt 1 268 
+transit Novosibirsk.txt 1 1092 
+nationalities Novosibirsk.txt 1 1255 
+erected Novosibirsk.txt 1 614 
+1906 Novosibirsk.txt 1 249 
+1907 Novosibirsk.txt 1 261 
+total Novosibirsk.txt 1 252 
+market Novosibirsk.txt 1 324 
+are Novosibirsk.txt 9 1262 1281 1293 1454 1836 1954 1968 2056 2184 
+endangered Novosibirsk.txt 1 2293 
+from Novosibirsk.txt 14 513 541 832 1250 1385 1417 1463 1476 1536 1554 1770 1801 2278 2324 
+bugrinsky Novosibirsk.txt 1 1338 
+working Novosibirsk.txt 1 1884 
+army Novosibirsk.txt 2 470 862 
+visit Novosibirsk.txt 2 635 2301 
+3d Novosibirsk.txt 1 2227 
+mikhailovna Novosibirsk.txt 1 2334 
+sports Novosibirsk.txt 2 1958 1966 
+symphony Novosibirsk.txt 1 2106 
+music Novosibirsk.txt 2 2037 2130 
+bitterly Novosibirsk.txt 1 1437 
+until Novosibirsk.txt 2 569 578 
+7,800 Novosibirsk.txt 1 237 
+hydro Novosibirsk.txt 1 95 
+separated Novosibirsk.txt 1 540 
+turbo Novosibirsk.txt 1 1848 
+relay Novosibirsk.txt 3 1612 1620 1637 
+folk/folkrock Novosibirsk.txt 1 2078 
+vassiljeva Novosibirsk.txt 1 2085 
+novosibirsky Novosibirsk.txt 1 1163 
+site Novosibirsk.txt 1 137 
+altai Novosibirsk.txt 1 591 
+tomsk Novosibirsk.txt 2 505 542 
+speedway Novosibirsk.txt 2 2016 2025 
+marshrutkas Novosibirsk.txt 1 1791 
+crated Novosibirsk.txt 1 828 
+known Novosibirsk.txt 1 906 
+rare Novosibirsk.txt 1 1897 
+ural Novosibirsk.txt 2 1379 1617 
+factories Novosibirsk.txt 2 713 826 
+effort Novosibirsk.txt 1 667 
+town Novosibirsk.txt 3 271 1010 1977 
+helped Novosibirsk.txt 1 655 
+flora Novosibirsk.txt 1 1273 
+animals Novosibirsk.txt 1 2277 
+rights Novosibirsk.txt 1 275 
+this Novosibirsk.txt 5 850 864 1082 1232 1619 
+science Novosibirsk.txt 1 2159 
+work Novosibirsk.txt 1 1086 
+mi Novosibirsk.txt 2 114 989 
+list Novosibirsk.txt 2 1913 2321 
+guards Novosibirsk.txt 1 465 
+era Novosibirsk.txt 1 661 
+wrestler Novosibirsk.txt 1 1998 
+following Novosibirsk.txt 2 802 2142 
+making Novosibirsk.txt 2 186 794 
+dmitry Novosibirsk.txt 1 2076 
+history Novosibirsk.txt 2 116 423 
+control Novosibirsk.txt 1 440 
+dedicated Novosibirsk.txt 1 2157 
+metallurgical Novosibirsk.txt 1 1887 
+links Novosibirsk.txt 1 2362 
+december Novosibirsk.txt 2 445 514 
+aleksandr Novosibirsk.txt 1 2342 
+confused Novosibirsk.txt 1 5 
+high Novosibirsk.txt 3 352 1509 2143 
+heard Novosibirsk.txt 1 1661 
+climates Novosibirsk.txt 1 1540 
+spruce Novosibirsk.txt 1 1290 
+species Novosibirsk.txt 3 1297 2280 2294 
+native Novosibirsk.txt 1 1278 
+summers Novosibirsk.txt 1 1435 
+educational Novosibirsk.txt 1 2144 
+end Novosibirsk.txt 1 1716 
+winter Novosibirsk.txt 5 1365 1449 1475 1487 1544 
+secured Novosibirsk.txt 1 669 
+s7 Novosibirsk.txt 2 1747 1937 
+pine Novosibirsk.txt 2 929 1283 
+occur Novosibirsk.txt 1 1577 
+1696 Novosibirsk.txt 1 176 
+located Novosibirsk.txt 4 63 1955 2185 2203 
+adjacent Novosibirsk.txt 1 77 
+main Novosibirsk.txt 2 2253 2319 
+siberian Novosibirsk.txt 7 57 146 567 576 996 1326 2163 
+guarantee Novosibirsk.txt 1 1646 
+glinka Novosibirsk.txt 1 2096 
+economy Novosibirsk.txt 1 1792 
+dyagileva Novosibirsk.txt 1 2072 
+plant Novosibirsk.txt 10 97 690 703 707 1841 1847 1877 1888 1891 1895 
+rise Novosibirsk.txt 1 754 
+tatjana Novosibirsk.txt 1 2084 
+intended Novosibirsk.txt 1 1664 
+may Novosibirsk.txt 5 448 526 1541 1548 1561 
+stop Novosibirsk.txt 1 1709 
+after Novosibirsk.txt 2 20 1682 
+eighty Novosibirsk.txt 1 1252 
+produce Novosibirsk.txt 1 1822 
+trees Novosibirsk.txt 1 1277 
+coming Novosibirsk.txt 1 1535 
+such Novosibirsk.txt 2 757 2043 
+heroes Novosibirsk.txt 1 609 
+compulsory Novosibirsk.txt 1 377 
+siberia Novosibirsk.txt 10 8 69 307 680 778 800 1356 1387 1691 2018 
+a Novosibirsk.txt 40 35 139 234 251 265 310 318 351 354 385 502 700 704 719 855 887 892 901 912 964 1038 1071 1117 1121 1170 1200 1358 1589 1694 1707 1756 1777 1805 1948 1985 2009 2089 2153 2261 2268 
+introduced Novosibirsk.txt 1 1308 
+natural Novosibirsk.txt 1 1031 
+commodity Novosibirsk.txt 1 323 
+light Novosibirsk.txt 1 1456 
+sq Novosibirsk.txt 1 113 
+greatest Novosibirsk.txt 1 1996 
+headquarters Novosibirsk.txt 3 1005 1934 1946 
+st Novosibirsk.txt 3 23 126 1685 
+chief Novosibirsk.txt 1 627 
+broadcasting Novosibirsk.txt 1 1602 
+so Novosibirsk.txt 1 2033 
+south Novosibirsk.txt 3 990 1330 1626 
+banks Novosibirsk.txt 4 72 255 326 1318 
+ethnicities Novosibirsk.txt 1 1253 
+third-most Novosibirsk.txt 1 15 
+began Novosibirsk.txt 3 428 486 1087 
+wind Novosibirsk.txt 1 946 
+typical Novosibirsk.txt 1 1355 
+twinned Novosibirsk.txt 1 2314 
+bolshaya Novosibirsk.txt 1 759 
+reservoir Novosibirsk.txt 2 87 904 
+september Novosibirsk.txt 3 552 579 1048 
+developed Novosibirsk.txt 2 242 309 
+over Novosibirsk.txt 4 807 1070 1251 2275 
+years Novosibirsk.txt 2 645 1079 
+nakhalovka Novosibirsk.txt 2 760 762 
+course Novosibirsk.txt 1 406 
+playwright Novosibirsk.txt 1 2329 
+including Novosibirsk.txt 3 687 1982 2219 
+4 Novosibirsk.txt 1 1479 
+agricultural Novosibirsk.txt 1 312 
+cold Novosibirsk.txt 3 1438 1560 1601 
+still Novosibirsk.txt 1 1600 
+its Novosibirsk.txt 8 244 510 548 670 765 1004 1933 1940 
+before Novosibirsk.txt 1 1929 
+trans-siberian Novosibirsk.txt 3 140 1670 1712 
+25 Novosibirsk.txt 1 527 
+26 Novosibirsk.txt 1 1469 
+conjunction Novosibirsk.txt 1 1642 
+rapidly Novosibirsk.txt 1 243 
+22 Novosibirsk.txt 1 1496 
+23 Novosibirsk.txt 2 515 571 
+c Novosibirsk.txt 10 1465 1470 1478 1483 1495 1500 1512 1517 1531 1570 
+masses Novosibirsk.txt 1 1384 
+28 Novosibirsk.txt 1 580 
+destroyed Novosibirsk.txt 1 415 
+previously Novosibirsk.txt 1 2202 
+absence Novosibirsk.txt 1 1374 
+production Novosibirsk.txt 2 694 1865 
+categories Novosibirsk.txt 2 2364 2366 
+400 Novosibirsk.txt 1 895 
+policy Novosibirsk.txt 1 498 
+hidden Novosibirsk.txt 1 2365 
+secondary Novosibirsk.txt 1 362 
+2010 Novosibirsk.txt 2 42 1239 
+2012 Novosibirsk.txt 2 1769 2234 
+then Novosibirsk.txt 1 594 
+them Novosibirsk.txt 1 1020 
+hawthorn Novosibirsk.txt 1 1289 
+tourist Novosibirsk.txt 1 2270 
+orthodox Novosibirsk.txt 1 335 
+food Novosibirsk.txt 2 705 737 
+dam Novosibirsk.txt 1 91 
+demographics Novosibirsk.txt 1 1213 
+largest Novosibirsk.txt 4 301 676 797 1260 
+reigning Novosibirsk.txt 1 163 
+number Novosibirsk.txt 3 1226 1949 2010 
+framework Novosibirsk.txt 1 1151 
+1957 Novosibirsk.txt 2 975 1789 
+nzpp Novosibirsk.txt 1 1874 
+they Novosibirsk.txt 1 742 
+milestone Novosibirsk.txt 1 1083 
+schools Novosibirsk.txt 3 350 1029 2195 
+now Novosibirsk.txt 2 263 905 
+bank Novosibirsk.txt 1 246 
+kilometres Novosibirsk.txt 1 111 
+masters Novosibirsk.txt 1 2146 
+name Novosibirsk.txt 1 550 
+edit Novosibirsk.txt 30 117 1133 1214 1272 1274 1310 1312 1345 1603 1668 1793 1959 2038 2133 2210 2212 2214 2216 2229 2231 2249 2252 2311 2318 2351 2354 2356 2358 2360 2363 
+fully Novosibirsk.txt 1 1039 
+university Novosibirsk.txt 2 1023 2178 
+countries Novosibirsk.txt 2 1537 1556 
+events Novosibirsk.txt 1 2017 
+each Novosibirsk.txt 1 2304 
+crossing Novosibirsk.txt 1 143 
+european Novosibirsk.txt 1 1296 
+notes Novosibirsk.txt 1 2357 
+legions Novosibirsk.txt 1 452 
+heavy Novosibirsk.txt 1 696 
+square Novosibirsk.txt 1 110 
+krai Novosibirsk.txt 4 568 577 584 592 
+populated Novosibirsk.txt 1 1415 
+house Novosibirsk.txt 1 360 
+thirteenth Novosibirsk.txt 1 1928 
+reduce Novosibirsk.txt 1 840 
+502.1 Novosibirsk.txt 1 109 
+vengerov Novosibirsk.txt 1 2055 
+88 Novosibirsk.txt 1 1530 
+culminating Novosibirsk.txt 1 1094 
+year Novosibirsk.txt 3 803 1579 2305 
+substantially Novosibirsk.txt 1 1414 
+cathedral Novosibirsk.txt 1 129 
+programmes Novosibirsk.txt 1 2291 
+86 Novosibirsk.txt 1 1513 
+self-government Novosibirsk.txt 1 277 
+170,000 Novosibirsk.txt 1 733 
+tolmachevo Novosibirsk.txt 3 1673 1726 1742 
+vladivostok Novosibirsk.txt 1 1636 
+opened Novosibirsk.txt 3 247 1702 2206 
+selivanov Novosibirsk.txt 1 2077 
+frontier Novosibirsk.txt 1 240 
+quality Novosibirsk.txt 1 2194 
+since Novosibirsk.txt 1 593 
+forty Novosibirsk.txt 1 348 
+research Novosibirsk.txt 3 968 979 1015 
+increase Novosibirsk.txt 1 1235 
+laid Novosibirsk.txt 1 782 
+safety Novosibirsk.txt 1 739 
+electronics Novosibirsk.txt 1 1861 
+supports Novosibirsk.txt 1 2223 
+red Novosibirsk.txt 2 469 861 
+philharmonic Novosibirsk.txt 2 2109 2213 
+timeline Novosibirsk.txt 1 120 
+million Novosibirsk.txt 3 1057 1072 2299 
+20 Novosibirsk.txt 2 1127 1477 
+mikhail Novosibirsk.txt 2 2095 2327 
+extraordinary Novosibirsk.txt 1 1551 
+reason Novosibirsk.txt 1 1368 
+base Novosibirsk.txt 1 858 
+ash Novosibirsk.txt 2 1288 1300 
+seventy Novosibirsk.txt 1 1078 
+revolutionary Novosibirsk.txt 2 281 458 
+lomeiko Novosibirsk.txt 1 2052 
+service Novosibirsk.txt 1 1221 
+created Novosibirsk.txt 2 686 939 
+could Novosibirsk.txt 1 1400 
+punk Novosibirsk.txt 2 2066 2074 
+days Novosibirsk.txt 2 1450 1565 
+times Novosibirsk.txt 1 1558 
+best-known Novosibirsk.txt 1 1276 
+place Novosibirsk.txt 2 671 1908 
+massive Novosibirsk.txt 1 682 
+incorporated Novosibirsk.txt 2 1180 1208 
+target Novosibirsk.txt 1 1665 
+neglect Novosibirsk.txt 1 646 
+speeds Novosibirsk.txt 1 947 
+first Novosibirsk.txt 7 150 245 371 418 1100 1421 1689 
+major Novosibirsk.txt 2 856 1708 
+industrial Novosibirsk.txt 8 304 677 683 710 1807 1810 1819 1828 
+third Novosibirsk.txt 1 1907 
+powerful Novosibirsk.txt 1 1610 
+primary Novosibirsk.txt 2 349 378 
+one Novosibirsk.txt 8 298 338 368 624 673 1024 1056 1794 
+clear Novosibirsk.txt 1 1359 
+smaller Novosibirsk.txt 1 1757 
+reached Novosibirsk.txt 3 287 792 1055 
+open Novosibirsk.txt 1 937 
+city Novosibirsk.txt 31 17 30 61 198 290 389 443 473 545 560 620 752 798 853 867 879 993 1065 1184 1204 1246 1314 1333 1416 1679 1721 1972 2006 2064 2087 2192 
+given Novosibirsk.txt 1 547 
+champion Novosibirsk.txt 2 1990 2341 
+district Novosibirsk.txt 2 59 1164 
+become Novosibirsk.txt 1 1586 
+leading Novosibirsk.txt 1 1834 
+top Novosibirsk.txt 1 1027 
+system Novosibirsk.txt 2 1093 1696 
+rails Novosibirsk.txt 1 780 
+their Novosibirsk.txt 1 844 
+station Novosibirsk.txt 7 320 722 890 1613 1621 1672 1903 
+tragic Novosibirsk.txt 1 2073 
+saint Novosibirsk.txt 1 158 
+governorates Novosibirsk.txt 1 556 
+white Novosibirsk.txt 1 464 
+bitter Novosibirsk.txt 1 1559 
+okrug Novosibirsk.txt 1 1212 
+dfb Novosibirsk.txt 1 1432 
+urban Novosibirsk.txt 1 1211 
+mining Novosibirsk.txt 1 697 
+hub Novosibirsk.txt 2 193 1745 
+that Novosibirsk.txt 8 399 583 963 1059 1195 1399 1647 2100 
+academy Novosibirsk.txt 2 1000 2168 
+moscow Novosibirsk.txt 2 21 1683 
+park Novosibirsk.txt 1 2221 
+took Novosibirsk.txt 5 384 439 471 1075 1906 
+1919 Novosibirsk.txt 2 475 516 
+1918 Novosibirsk.txt 1 449 
+part Novosibirsk.txt 4 67 503 1171 2189 
+western Novosibirsk.txt 1 833 
+1913 Novosibirsk.txt 1 365 
+1915 Novosibirsk.txt 1 259 
+than Novosibirsk.txt 6 732 823 871 1013 1077 1824 
+1917 Novosibirsk.txt 2 333 446 
+population Novosibirsk.txt 8 36 235 266 284 425 790 1052 1243 
+famine Novosibirsk.txt 1 726 
+13 Novosibirsk.txt 1 523 
+12 Novosibirsk.txt 2 553 1482 
+15 Novosibirsk.txt 1 1464 
+14 Novosibirsk.txt 1 519 
+simonyan Novosibirsk.txt 1 2328 
+culture Novosibirsk.txt 1 2209 
+19 Novosibirsk.txt 1 988 
+double Novosibirsk.txt 1 949 
+second Novosibirsk.txt 1 1412 
+future Novosibirsk.txt 1 136 
+iron Novosibirsk.txt 1 321 
+were Novosibirsk.txt 13 256 391 557 653 685 714 743 781 827 924 927 2065 2344 
+design Novosibirsk.txt 1 1869 
+abolished Novosibirsk.txt 1 558 
+russia Novosibirsk.txt 8 19 33 374 834 1651 1681 1918 2246 
+result Novosibirsk.txt 2 914 1590 
+pre Novosibirsk.txt 1 280 
+bridge Novosibirsk.txt 6 142 178 413 806 817 1339 
+1926 Novosibirsk.txt 1 554 
+textilmach Novosibirsk.txt 1 1856 
+half Novosibirsk.txt 1 1446 
+occupies Novosibirsk.txt 1 105 
+substantial Novosibirsk.txt 1 825 
+have Novosibirsk.txt 2 1305 1401 
+north Novosibirsk.txt 2 1396 1715 
+any Novosibirsk.txt 1 1653 
+contents Novosibirsk.txt 1 115 
+catholic Novosibirsk.txt 1 340 
+built Novosibirsk.txt 3 344 715 970 
+output Novosibirsk.txt 1 1829 
+karelin Novosibirsk.txt 2 1984 2343 
+tsar Novosibirsk.txt 1 164 
+1962 Novosibirsk.txt 1 1050 
+zoo Novosibirsk.txt 5 2251 2256 2259 2273 2303 
+also Novosibirsk.txt 8 119 868 1156 1294 1751 2007 2060 2353 
+which Novosibirsk.txt 5 172 538 787 1693 2222 
+populous Novosibirsk.txt 2 16 29 
+completed Novosibirsk.txt 1 180 
+ojsc Novosibirsk.txt 1 1892 
+even Novosibirsk.txt 1 1165 
+aspen Novosibirsk.txt 1 1285 
+though Novosibirsk.txt 1 1166 
+who Novosibirsk.txt 1 1991 
+reach Novosibirsk.txt 1 1623 
+kppen Novosibirsk.txt 1 1431 
+most Novosibirsk.txt 4 28 1609 1624 1919 
+regular Novosibirsk.txt 1 1729 
+connected Novosibirsk.txt 1 216 
+significant Novosibirsk.txt 1 311 
+tall Novosibirsk.txt 1 1392 
+retaining Novosibirsk.txt 1 476 
+statistics Novosibirsk.txt 1 1220 
+winters Novosibirsk.txt 1 1439 
+79 Novosibirsk.txt 1 1471 
+2 Novosibirsk.txt 2 1049 1124 
+singer Novosibirsk.txt 1 2079 
+constructed Novosibirsk.txt 1 984 
+especially Novosibirsk.txt 1 394 
+average Novosibirsk.txt 4 945 1458 1817 2296 
+chicago Novosibirsk.txt 1 776 
+metal Novosibirsk.txt 2 701 1883 
+order Novosibirsk.txt 1 838 
+sources Novosibirsk.txt 1 2359 
+priobskoye Novosibirsk.txt 1 1336 
+professional Novosibirsk.txt 1 1965 
+institutions Novosibirsk.txt 2 2145 2183 
+came Novosibirsk.txt 1 1229 
+renting Novosibirsk.txt 1 1656 
+humid Novosibirsk.txt 1 1429 
+german Novosibirsk.txt 1 1265 
+league Novosibirsk.txt 1 2027 
+contemporary Novosibirsk.txt 1 2040 
+violinists Novosibirsk.txt 1 2042 
+radio Novosibirsk.txt 1 1879 
+akademgorodok Novosibirsk.txt 6 982 1007 1042 2136 2151 2205 
+southwestern Novosibirsk.txt 1 66 
+soldiers Novosibirsk.txt 1 435 
+july Novosibirsk.txt 1 570 
+geography Novosibirsk.txt 1 1309 
+completion Novosibirsk.txt 1 203 
+frequent Novosibirsk.txt 1 1442 
+giant Novosibirsk.txt 1 902 
+office Novosibirsk.txt 1 1942 
+northern Novosibirsk.txt 1 1555 
+writer Novosibirsk.txt 1 2332 
+youngest Novosibirsk.txt 1 1064 
+hydroelectric Novosibirsk.txt 2 888 1850 
+institution Novosibirsk.txt 1 2264 
+nvsbirsk Novosibirsk.txt 1 12 
+held Novosibirsk.txt 1 1402 
+flights Novosibirsk.txt 1 1730 
+generators Novosibirsk.txt 1 1851 
+kuzminas Novosibirsk.txt 1 1885 
+photo Novosibirsk.txt 1 1800 
+fuel Novosibirsk.txt 1 1843 
+thousands Novosibirsk.txt 1 401 
+achieve Novosibirsk.txt 1 1081 
+do Novosibirsk.txt 2 1575 2032 
+10 Novosibirsk.txt 1 1484 
+cholera Novosibirsk.txt 1 398 
+cinemas Novosibirsk.txt 3 347 2215 2218 
+freezing Novosibirsk.txt 2 1364 1404 
+television Novosibirsk.txt 1 1902 
+municipal Novosibirsk.txt 2 1131 1201 
+belarusian Novosibirsk.txt 1 1270 
+singer-songwriter Novosibirsk.txt 1 2070 
+new Novosibirsk.txt 8 7 188 214 496 720 815 936 1798 
+during Novosibirsk.txt 5 278 642 662 863 883 
+yakut Novosibirsk.txt 1 1264 
+botanical Novosibirsk.txt 1 2247 
+snowfalls Novosibirsk.txt 1 1453 
+areas Novosibirsk.txt 2 652 920 
+conservatory Novosibirsk.txt 1 2090 
+increasing Novosibirsk.txt 1 950 
+nicknamed Novosibirsk.txt 1 774 
+2013/2014 Novosibirsk.txt 1 2036 
+npo Novosibirsk.txt 2 1852 1859 
+through Novosibirsk.txt 1 846 
+river Novosibirsk.txt 7 76 81 147 412 810 1322 1343 
+europe Novosibirsk.txt 1 1732 
+farthest Novosibirsk.txt 1 1413 
+higher Novosibirsk.txt 1 2181 
+national Novosibirsk.txt 1 2012 
+yanka Novosibirsk.txt 1 2071 
+287,000 Novosibirsk.txt 1 793 
+1920 Novosibirsk.txt 1 520 
+1921 Novosibirsk.txt 2 489 524 
+see Novosibirsk.txt 2 118 2352 
+individual Novosibirsk.txt 1 1452 
+1925 Novosibirsk.txt 1 528 
+sea Novosibirsk.txt 2 224 910 
+operated Novosibirsk.txt 1 1640 
+transportation Novosibirsk.txt 1 1667 
+institutes Novosibirsk.txt 1 1016 
+best Novosibirsk.txt 1 2241 
+capacity Novosibirsk.txt 1 893 
+federal Novosibirsk.txt 2 58 1218 
+nuclear Novosibirsk.txt 1 1842 
+superseded Novosibirsk.txt 1 168 
+wikipedia Novosibirsk.txt 1 1 
+sites Novosibirsk.txt 1 629 
+mud Novosibirsk.txt 1 1592 
+state Novosibirsk.txt 4 1022 1219 2098 2177 
+bureau Novosibirsk.txt 1 1870 
+closed Novosibirsk.txt 1 1767 
+between Novosibirsk.txt 3 521 818 1522 
+deputies Novosibirsk.txt 1 436 
+semiconductor Novosibirsk.txt 1 1872 
+preserve Novosibirsk.txt 1 656 
+fir Novosibirsk.txt 1 1292 
+infrastructure Novosibirsk.txt 2 1041 2243 
+august Novosibirsk.txt 1 1105 
+opening Novosibirsk.txt 2 231 1097 
+importance Novosibirsk.txt 1 195 
+alexander Novosibirsk.txt 3 127 1983 2049 
+however Novosibirsk.txt 1 1486 
+aircraft Novosibirsk.txt 1 1840 
+opposition Novosibirsk.txt 1 455 
+citys Novosibirsk.txt 2 422 1797 
+cities Novosibirsk.txt 3 1741 1916 2310 
+seminary Novosibirsk.txt 1 356 
+garden Novosibirsk.txt 1 2248 
+both Novosibirsk.txt 1 156 
+essentially Novosibirsk.txt 1 630 
+trolleybus Novosibirsk.txt 1 1786 
+epidemics Novosibirsk.txt 1 393 
+region Novosibirsk.txt 1 1833 
+elm Novosibirsk.txt 1 1301 
+equal Novosibirsk.txt 1 1193 
+s Novosibirsk.txt 2 495 665 
+became Novosibirsk.txt 2 367 854 
+jsc Novosibirsk.txt 1 1894 
+concentrates Novosibirsk.txt 1 1846 
+magadan Novosibirsk.txt 1 1634 
+china Novosibirsk.txt 2 1425 1632 
+railway Novosibirsk.txt 6 141 207 215 1671 1713 1719 
+nearby Novosibirsk.txt 2 169 1376 
+reside Novosibirsk.txt 1 1256 
+and Novosibirsk.txt 77 22 104 160 221 250 293 303 327 329 337 357 397 434 460 507 525 573 590 621 708 712 738 763 768 820 830 848 973 1008 1017 1033 1126 1130 1148 1254 1269 1284 1291 1303 1361 1388 1436 1473 1503 1525 1573 1584 1593 1631 1635 1684 1687 1714 1733 1790 1816 1849 1863 1868 1882 1893 2013 2030 2053 2069 2082 2118 2124 2127 2149 2171 2225 2281 2308 2330 2336 2346 
+tough Novosibirsk.txt 1 1545 
+travellers Novosibirsk.txt 1 1534 
+supply Novosibirsk.txt 1 857 
+sky Novosibirsk.txt 1 1360 
+kilometers Novosibirsk.txt 1 987 
+period Novosibirsk.txt 3 282 499 865 
+venues Novosibirsk.txt 1 2131 
+twin Novosibirsk.txt 1 2306 
+church Novosibirsk.txt 1 341 
+throughout Novosibirsk.txt 1 478 
+repin Novosibirsk.txt 1 2046 
+specializing Novosibirsk.txt 1 691 
+decline Novosibirsk.txt 1 430 
+attraction Novosibirsk.txt 1 2271 
+west Novosibirsk.txt 2 575 1325 
+airlines Novosibirsk.txt 2 1748 1938 
+been Novosibirsk.txt 4 343 623 1306 1993 
+stadium Novosibirsk.txt 1 1963 
+158 Novosibirsk.txt 1 1532 
+poet Novosibirsk.txt 1 2068 
+738 Novosibirsk.txt 1 2279 
+plateau Novosibirsk.txt 1 1337 
+premier Novosibirsk.txt 1 2026 
+1950s Novosibirsk.txt 2 885 958 
+received Novosibirsk.txt 1 869 
+qsi Novosibirsk.txt 1 2197 
+formed Novosibirsk.txt 1 88 
+climate Novosibirsk.txt 2 1344 1427 
+enterprises Novosibirsk.txt 2 711 1820 
+1,5 Novosibirsk.txt 1 2298 
+2015 Novosibirsk.txt 2 1224 2238 
+chkalovs Novosibirsk.txt 1 1838 
+lives Novosibirsk.txt 1 403 
+metals Novosibirsk.txt 1 1898 
+child Novosibirsk.txt 1 632 
+aviation Novosibirsk.txt 1 1761 
+towns Novosibirsk.txt 1 2307 
+general Novosibirsk.txt 1 1760 
+former Novosibirsk.txt 1 1980 
+present Novosibirsk.txt 2 549 1295 
+divisions Novosibirsk.txt 1 1154 
+east Novosibirsk.txt 2 1614 1630 
+external Novosibirsk.txt 1 2361 
+these Novosibirsk.txt 2 1370 1821 
+multi-facility Novosibirsk.txt 1 977 
+sibselmash Novosibirsk.txt 2 1860 1962 
+fila Novosibirsk.txt 1 2004 
+can Novosibirsk.txt 4 1489 1506 1622 1645 
+air Novosibirsk.txt 1 1383 
+will Novosibirsk.txt 1 2031 
+stalin Novosibirsk.txt 1 664 
+near Novosibirsk.txt 1 83 
+2012/13 Novosibirsk.txt 1 2029 
+replaced Novosibirsk.txt 1 812 
+voice Novosibirsk.txt 1 1649 
+rbc Novosibirsk.txt 1 1904 
+skwortsow Novosibirsk.txt 1 2050 
+launched Novosibirsk.txt 3 1779 1783 1787 
+natives Novosibirsk.txt 1 2057 
+seven Novosibirsk.txt 1 334 
+century Novosibirsk.txt 2 212 2002 
+almost Novosibirsk.txt 1 1445 
+soil Novosibirsk.txt 1 954 
+is Novosibirsk.txt 35 13 26 45 62 99 1043 1141 1168 1179 1207 1233 1350 1372 1410 1428 1441 1529 1599 1605 1660 1676 1706 1722 1743 1750 1776 1804 1974 2101 2138 2152 2172 2260 2282 2313 
+it Novosibirsk.txt 20 25 44 98 167 308 477 500 529 595 657 1036 1061 1155 1167 1173 1178 1547 1705 1925 2160 
+surface Novosibirsk.txt 1 943 
+according Novosibirsk.txt 2 1215 1899 
+ii Novosibirsk.txt 1 166 
+middle Novosibirsk.txt 1 1629 
+unit Novosibirsk.txt 1 1189 
+in Novosibirsk.txt 78 18 31 64 124 132 154 175 181 208 248 260 364 373 404 420 444 447 454 474 488 615 647 658 692 730 740 745 784 799 837 931 956 971 974 1006 1030 1066 1084 1095 1102 1110 1222 1257 1323 1348 1407 1424 1461 1474 1580 1641 1662 1680 1690 1692 1703 1768 1780 1784 1788 1909 1911 1923 1943 1956 1970 2021 2028 2035 2062 2092 2186 2204 2207 2237 2245 2286 2348 
+claimed Novosibirsk.txt 1 400 
+80,000 Novosibirsk.txt 1 288 
+1932-1933 Novosibirsk.txt 1 728 
+different Novosibirsk.txt 1 2288 
+education Novosibirsk.txt 3 379 2132 2182 
+participant Novosibirsk.txt 1 2285 
+agriculture Novosibirsk.txt 1 1857 
+granted Novosibirsk.txt 1 270 
+seeking Novosibirsk.txt 1 736 
+roman Novosibirsk.txt 1 339 
+textile Novosibirsk.txt 1 1854 
+complex Novosibirsk.txt 2 980 1811 
+split Novosibirsk.txt 2 100 586 
+governorate Novosibirsk.txt 3 506 537 543 
+several Novosibirsk.txt 7 325 346 681 1964 1979 2039 2128 
+1,602,900 Novosibirsk.txt 1 38 
+malaya Novosibirsk.txt 1 761 
+status Novosibirsk.txt 3 272 1132 1192 
+mountain Novosibirsk.txt 1 1287 
+flooded Novosibirsk.txt 1 925 
+arctic Novosibirsk.txt 1 1405 
+sciences Novosibirsk.txt 3 1002 1032 2170 
+springtime Novosibirsk.txt 1 1582 
+phd Novosibirsk.txt 1 2150 
+suburb Novosibirsk.txt 1 2154 
+birch Novosibirsk.txt 1 1282 
+destruction Novosibirsk.txt 1 845 
+lower Novosibirsk.txt 1 1574 
+theater Novosibirsk.txt 1 2126 
+center Novosibirsk.txt 12 48 512 534 565 601 617 965 994 1112 1144 1161 1808 
+1979 Novosibirsk.txt 1 1085 
+well Novosibirsk.txt 5 53 316 717 1736 2266 
+rmqi Novosibirsk.txt 1 1423 
+ocean Novosibirsk.txt 2 1377 1419 
+academic Novosibirsk.txt 2 2105 2113 
+1 Novosibirsk.txt 1 1106 
+machinery Novosibirsk.txt 2 1855 1858 
+components Novosibirsk.txt 2 1862 1880 
+the Novosibirsk.txt 192 14 27 41 46 56 60 65 71 74 79 84 90 93 135 144 162 177 182 187 190 194 197 202 205 209 213 222 226 229 239 279 283 289 300 358 370 380 388 405 408 410 417 421 424 431 442 450 457 463 468 472 479 482 491 532 544 559 563 599 605 608 611 616 619 626 636 643 648 659 675 688 693 723 748 751 775 789 796 801 804 808 814 841 852 860 866 874 878 881 884 898 908 916 932 935 941 951 957 959 976 992 995 999 1009 1026 1051 1063 1067 1089 1096 1099 1111 1114 1134 1142 1146 1150 1159 1183 1191 1197 1203 1217 1225 1238 1242 1245 1259 1275 1313 1317 1320 1324 1329 1332 1335 1341 1346 1352 1367 1373 1378 1389 1395 1411 1418 1420 1426 1520 1523 1581 1597 1616 1628 1633 1648 1663 1677 1688 1699 1711 1720 1744 1752 1796 1809 1831 1901 1912 1915 1930 1945 1971 1975 1995 2000 2005 2022 2047 2063 2086 2141 2162 2166 2173 2187 2191 2193 2240 2257 2272 2302 
+around Novosibirsk.txt 1 2297 
+soviet Novosibirsk.txt 4 432 644 725 960 
+possesses Novosibirsk.txt 2 1037 2088 
+rocker Novosibirsk.txt 1 2075 
+summer Novosibirsk.txt 2 1462 1504 
+214 Novosibirsk.txt 1 1814 
+among Novosibirsk.txt 1 1019 
+being Novosibirsk.txt 2 773 1422 
+oak Novosibirsk.txt 1 1304 
+typhus Novosibirsk.txt 1 396 
+rest Novosibirsk.txt 2 480 1353 
+snow Novosibirsk.txt 2 1440 1595 
+not Novosibirsk.txt 4 2 1169 1549 1576 
+greco-roman Novosibirsk.txt 3 1988 1997 2339 
+captured Novosibirsk.txt 1 466 
+twelve-time Novosibirsk.txt 1 1986 
+rapid Novosibirsk.txt 3 294 766 875 
+equipment Novosibirsk.txt 1 698 
+rose Novosibirsk.txt 1 453 
+workers Novosibirsk.txt 1 433 
+had Novosibirsk.txt 6 233 291 342 633 791 1939 
+attractive Novosibirsk.txt 1 1920 
+location Novosibirsk.txt 2 1311 2174 
+has Novosibirsk.txt 5 596 622 1003 1992 2274 
+administrative Novosibirsk.txt 12 47 511 533 564 600 1129 1135 1143 1153 1160 1176 1188 
+bandy Novosibirsk.txt 1 1960 
+march Novosibirsk.txt 1 518 
+increased Novosibirsk.txt 1 200 
+government Novosibirsk.txt 2 459 961 
+early Novosibirsk.txt 1 210 
+historic Novosibirsk.txt 1 628 
+five Novosibirsk.txt 1 254 
+shortwave Novosibirsk.txt 1 1611 
+world Novosibirsk.txt 2 1068 1987 
+three-time Novosibirsk.txt 1 2337 
+tatar Novosibirsk.txt 1 1267 
+melting Novosibirsk.txt 1 1594 
+59 Novosibirsk.txt 1 1466 
+like Novosibirsk.txt 1 1351 
+50 Novosibirsk.txt 1 824 
+serves Novosibirsk.txt 1 1157 
+separately Novosibirsk.txt 1 1181 
+tram Novosibirsk.txt 2 779 1782 
+broadcaster Novosibirsk.txt 1 1655 
+hosts Novosibirsk.txt 2 1011 2008 
+january Novosibirsk.txt 1 1223 
+popular Novosibirsk.txt 1 2269 
+served Novosibirsk.txt 5 508 530 561 597 1723 
+refugees Novosibirsk.txt 2 735 873 
+lenin Novosibirsk.txt 1 494 
+oxid Novosibirsk.txt 1 1875 
+ecology Novosibirsk.txt 1 1271 
+caspian Novosibirsk.txt 1 223 
+turkestansiberia Novosibirsk.txt 1 1718 
+people Novosibirsk.txt 5 238 1073 1249 2300 2323 
+spring Novosibirsk.txt 1 183 
+village Novosibirsk.txt 1 171 
+some Novosibirsk.txt 2 1286 1564 
+back Novosibirsk.txt 1 1403 
+born Novosibirsk.txt 2 2061 2345 
+clubs Novosibirsk.txt 1 1967 
+economic Novosibirsk.txt 2 295 497 
+industries Novosibirsk.txt 1 1835 
+duration Novosibirsk.txt 1 1122 
+home Novosibirsk.txt 4 1606 1976 2102 2139 
+voted Novosibirsk.txt 1 1994 
+cellist Novosibirsk.txt 1 2083 
+transport Novosibirsk.txt 2 192 1774 
+sister Novosibirsk.txt 1 2309 
+sized Novosibirsk.txt 1 1818 
+for Novosibirsk.txt 11 276 416 859 966 1369 1552 1563 1746 1759 2103 2292 
+chamber Novosibirsk.txt 1 2110 
+ukrainian Novosibirsk.txt 1 1266 
+recorded Novosibirsk.txt 1 1527 
+exceeding Novosibirsk.txt 1 267 
+1,473,754 Novosibirsk.txt 1 1248 
+romanov Novosibirsk.txt 1 359 
+violinist Novosibirsk.txt 1 2326 
+bridges Novosibirsk.txt 1 230 
+philharmony Novosibirsk.txt 1 2099 
+modes Novosibirsk.txt 1 1772 
+necessitating Novosibirsk.txt 1 897 
+maxim Novosibirsk.txt 1 2054 
+be Novosibirsk.txt 3 4 969 1550 
+prose Novosibirsk.txt 1 2331 
+object Novosibirsk.txt 1 2244 
+scientific Novosibirsk.txt 3 967 978 2263 
+power Novosibirsk.txt 4 96 319 721 889 
+reaching Novosibirsk.txt 1 1386 
+seconds Novosibirsk.txt 1 1128 
+pelageya Novosibirsk.txt 1 2080 
+processing Novosibirsk.txt 3 313 702 706 
+notable Novosibirsk.txt 2 2129 2316 
+1930 Novosibirsk.txt 1 572 
+1937 Novosibirsk.txt 1 581 
+although Novosibirsk.txt 1 1035 
+1934 Novosibirsk.txt 2 785 1785 
+article Novosibirsk.txt 2 2254 2320 
+by Novosibirsk.txt 9 89 258 332 786 813 940 1045 1724 2003 
+on Novosibirsk.txt 13 70 387 551 638 1047 1088 1104 1316 1340 1444 1457 1710 2295 
+about Novosibirsk.txt 1 985 
+census Novosibirsk.txt 2 43 1240 
+central Novosibirsk.txt 2 219 2188 
+stations Novosibirsk.txt 2 917 1638 
+novosibirsks Novosibirsk.txt 1 1543 
+of Novosibirsk.txt 114 37 40 49 55 68 73 92 108 121 138 148 157 161 184 196 204 228 236 253 285 299 306 369 395 402 407 426 437 441 481 493 504 535 566 574 602 610 618 625 674 679 695 727 750 777 843 877 886 894 900 915 921 953 981 991 998 1001 1025 1053 1098 1113 1116 1123 1137 1145 1152 1162 1172 1185 1196 1205 1227 1244 1298 1319 1331 1354 1375 1391 1397 1447 1568 1591 1615 1625 1650 1717 1773 1795 1813 1826 1830 1871 1878 1896 1914 1917 1932 1947 1950 1978 1999 2011 2058 2094 2115 2135 2155 2165 2169 2175 2190 2200 2322 
+industry Novosibirsk.txt 1 314 
+ob Novosibirsk.txt 9 75 80 149 411 809 909 1321 1342 1936 
+shipping Novosibirsk.txt 1 330 
+1,567,087 Novosibirsk.txt 1 1231 
+range Novosibirsk.txt 1 1460 
+nevsky Novosibirsk.txt 1 128 
+kommunalny Novosibirsk.txt 1 816 
+or Novosibirsk.txt 1 1652 
+high-rises Novosibirsk.txt 1 1799 
+raised Novosibirsk.txt 1 2347 
+fertile Novosibirsk.txt 1 922 
+civil Novosibirsk.txt 2 382 483 
+instruments Novosibirsk.txt 1 2117 
+into Novosibirsk.txt 2 101 587 
+within Novosibirsk.txt 1 1149 
+down Novosibirsk.txt 1 783 
+lies Novosibirsk.txt 1 1334 
+weather Novosibirsk.txt 2 1347 1598 
+references Novosibirsk.txt 1 2355 
+novosibirsk Novosibirsk.txt 67 0 9 50 94 122 130 588 603 668 741 772 795 836 972 1021 1046 1054 1074 1090 1108 1138 1140 1186 1206 1210 1258 1280 1349 1398 1409 1604 1644 1659 1669 1675 1700 1725 1763 1803 1832 1839 1844 1866 1876 1886 1889 1905 1944 1957 1973 2019 2059 2097 2104 2108 2122 2137 2156 2176 2201 2232 2250 2255 2258 2312 2325 2349 
+roads Novosibirsk.txt 1 1585 
+1990s Novosibirsk.txt 1 649 
+prompted Novosibirsk.txt 1 880 
+1985 Novosibirsk.txt 2 1103 1704 
+devices Novosibirsk.txt 2 1864 1873 
+area Novosibirsk.txt 3 107 933 1666 
+there Novosibirsk.txt 4 345 390 1749 1775 
+relocation Novosibirsk.txt 1 1931 
+awarded Novosibirsk.txt 1 2236 
+continental Novosibirsk.txt 1 1430 
+start Novosibirsk.txt 1 492 
+joseph Novosibirsk.txt 1 663 
+low Novosibirsk.txt 1 1492 
+resulted Novosibirsk.txt 1 729 
+breeding Novosibirsk.txt 1 2290 
+valley Novosibirsk.txt 1 82 
+was Novosibirsk.txt 19 151 173 179 269 414 501 539 546 585 613 811 983 1062 1109 1247 1697 1766 1926 2235 
+war Novosibirsk.txt 4 383 409 484 847 
+consists Novosibirsk.txt 1 1812 
+lowest Novosibirsk.txt 1 1526 
+mountains Novosibirsk.txt 3 1380 1393 1618 
+head Novosibirsk.txt 1 1941 
+creation Novosibirsk.txt 1 899 
+relic Novosibirsk.txt 1 928 
+russias Novosibirsk.txt 1 1608 
+jewish Novosibirsk.txt 1 1268 
+bus Novosibirsk.txt 1 1778 
+becoming Novosibirsk.txt 1 297 
+but Novosibirsk.txt 3 1451 1546 1566 
+slums Novosibirsk.txt 1 756 
+construction Novosibirsk.txt 2 882 918 
+atlantic Novosibirsk.txt 1 1382 
+solar Novosibirsk.txt 1 1118 
+two-thirds Novosibirsk.txt 1 1825 
+russian Novosibirsk.txt 9 10 381 1028 1263 1740 1952 2023 2112 2167 
+line Novosibirsk.txt 1 1101 
+highest Novosibirsk.txt 1 1524 
+with Novosibirsk.txt 16 6 34 201 264 273 462 891 1069 1120 1190 1357 1433 1538 1643 1728 2315 
+post-soviet Novosibirsk.txt 1 660 
+auxiliary Novosibirsk.txt 1 1753 
+directed Novosibirsk.txt 1 962 
+places Novosibirsk.txt 1 372 
+captive Novosibirsk.txt 1 2289 
+up Novosibirsk.txt 1 829 
+barring Novosibirsk.txt 1 1381 
+international Novosibirsk.txt 3 2014 2196 2198 
+placed Novosibirsk.txt 1 1927 
+below Novosibirsk.txt 1 1363 
+growth Novosibirsk.txt 3 296 767 876 
+those Novosibirsk.txt 1 1553 
+dirty Novosibirsk.txt 1 1587 
+monument Novosibirsk.txt 2 606 637 
+autonomous Novosibirsk.txt 1 1040 
+more Novosibirsk.txt 5 731 822 870 1012 1823 
+minutes Novosibirsk.txt 1 1125 
+trips Novosibirsk.txt 1 641 
+linden Novosibirsk.txt 1 1302 
+successfully Novosibirsk.txt 1 1307 
+czechoslovak Novosibirsk.txt 1 451 
+cinema Novosibirsk.txt 1 2220 
+steady Novosibirsk.txt 1 292 
+wartime Novosibirsk.txt 1 392 
+an Novosibirsk.txt 5 106 1175 1187 1234 2283 
+planetarium Novosibirsk.txt 2 2230 2233 
+as Novosibirsk.txt 32 39 52 54 315 317 509 531 562 598 672 716 718 758 907 911 926 1158 1174 1182 1199 1209 1491 1493 1508 1510 1588 1735 1737 2044 2239 2265 2267 
+reservoirs Novosibirsk.txt 1 942 
+at Novosibirsk.txt 11 134 225 490 747 849 1058 1394 1557 1658 1762 1961 
+1895 Novosibirsk.txt 1 125 
+1897 Novosibirsk.txt 1 185 
+1893 Novosibirsk.txt 1 133 
+again Novosibirsk.txt 1 2034 
+compared Novosibirsk.txt 1 1236 
+administered Novosibirsk.txt 1 1044 
+when Novosibirsk.txt 4 555 582 1241 1639 
+40 Novosibirsk.txt 2 1569 1571 
+field Novosibirsk.txt 2 640 1758 
+tin Novosibirsk.txt 1 1890 
+other Novosibirsk.txt 7 651 709 1654 1739 1771 2119 2180 
+mathematics Novosibirsk.txt 1 1034 
+erosion Novosibirsk.txt 1 955 
+2007 Novosibirsk.txt 1 1924 
+severny Novosibirsk.txt 1 1764 
+sadur Novosibirsk.txt 1 2335 
+redeveloped Novosibirsk.txt 1 654 
+june Novosibirsk.txt 1 522 
+thirty-two Novosibirsk.txt 1 2287 
+sibkombain Novosibirsk.txt 1 689 
+additionally Novosibirsk.txt 2 699 934 
+yeltsovka Novosibirsk.txt 1 1754 
+building Novosibirsk.txt 1 1136 
+vadim Novosibirsk.txt 1 2045 
+land Novosibirsk.txt 1 923 
+outskirts Novosibirsk.txt 1 749 
+natalia Novosibirsk.txt 1 2051 
+opera Novosibirsk.txt 1 2123 
+established Novosibirsk.txt 1 1698 
+space Novosibirsk.txt 1 938 
+foundry Novosibirsk.txt 1 322 
+together Novosibirsk.txt 1 461 
+elsib Novosibirsk.txt 1 1853 
+warm Novosibirsk.txt 1 1434 
+2006 Novosibirsk.txt 1 1802 
+fact Novosibirsk.txt 1 1408 
+time Novosibirsk.txt 6 227 419 788 851 1060 1657 
+rural Novosibirsk.txt 1 734 
+2008 Novosibirsk.txt 3 1107 1910 2208 
+original Novosibirsk.txt 1 805 
+classical Novosibirsk.txt 1 2041 
+imax Novosibirsk.txt 2 2224 2226 

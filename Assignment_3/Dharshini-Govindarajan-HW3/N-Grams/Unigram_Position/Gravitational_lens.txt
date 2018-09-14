@@ -1,0 +1,997 @@
+arcminutes Gravitational_lens.txt 1 911 
+all Gravitational_lens.txt 3 935 1473 1979 
+concept Gravitational_lens.txt 2 241 2768 
+partial Gravitational_lens.txt 1 509 
+caused Gravitational_lens.txt 1 296 
+results Gravitational_lens.txt 3 771 2135 2363 
+four Gravitational_lens.txt 1 1283 
+per Gravitational_lens.txt 1 1687 
+follow Gravitational_lens.txt 1 2221 
+hole Gravitational_lens.txt 1 1736 
+issues Gravitational_lens.txt 1 2775 
+seemed Gravitational_lens.txt 1 1436 
+compact Gravitational_lens.txt 2 2102 2176 
+equipment Gravitational_lens.txt 1 2629 
+setisail Gravitational_lens.txt 1 2705 
+calculate Gravitational_lens.txt 2 1124 2966 
+0957+561 Gravitational_lens.txt 2 221 1622 
+equivalence Gravitational_lens.txt 1 1091 
+nasa/esa Gravitational_lens.txt 1 1946 
+to Gravitational_lens.txt 61 160 198 322 373 458 609 632 635 658 675 747 760 781 791 1123 1189 1225 1296 1382 1402 1432 1437 1444 1484 1561 1666 1695 1860 1906 1997 2023 2079 2106 2132 2159 2195 2203 2217 2227 2246 2269 2288 2327 2489 2564 2613 2618 2681 2699 2711 2719 2738 2748 2838 2894 2911 2935 2946 2961 2974 2982 
+aus Gravitational_lens.txt 2 2290 2570 
+petersburg Gravitational_lens.txt 1 443 
+under Gravitational_lens.txt 1 2237 
+lord Gravitational_lens.txt 1 1362 
+sorry Gravitational_lens.txt 1 1358 
+through Gravitational_lens.txt 1 2669 
+sent Gravitational_lens.txt 1 2698 
+anisotropic Gravitational_lens.txt 1 3015 
+lambda-cdm Gravitational_lens.txt 1 788 
+random Gravitational_lens.txt 1 2880 
+outside Gravitational_lens.txt 1 2250 
+far Gravitational_lens.txt 2 236 2624 
+frequencies Gravitational_lens.txt 1 1986 
+relatively Gravitational_lens.txt 1 2997 
+distort Gravitational_lens.txt 2 748 761 
+focus Gravitational_lens.txt 1 2750 
+orientations Gravitational_lens.txt 3 646 654 2900 
+formula Gravitational_lens.txt 2 1903 1908 
+categories Gravitational_lens.txt 2 3089 3091 
+arxiv.org Gravitational_lens.txt 1 2379 
+1704 Gravitational_lens.txt 1 1067 
+1997 Gravitational_lens.txt 1 2829 
+presented Gravitational_lens.txt 1 1017 
+did Gravitational_lens.txt 1 468 
+positions Gravitational_lens.txt 1 537 
+cavendish Gravitational_lens.txt 1 1026 
+accidentally Gravitational_lens.txt 1 1967 
+travels Gravitational_lens.txt 2 101 332 
+16 Gravitational_lens.txt 1 2535 
+no.1 Gravitational_lens.txt 1 1072 
+team Gravitational_lens.txt 2 2299 2424 
+small Gravitational_lens.txt 3 34 706 870 
+relation Gravitational_lens.txt 1 1431 
+noted Gravitational_lens.txt 1 1096 
+gallery Gravitational_lens.txt 1 3065 
+smaller Gravitational_lens.txt 2 593 2334 
+force Gravitational_lens.txt 1 1862 
+foreground Gravitational_lens.txt 2 262 1293 
+refsdal Gravitational_lens.txt 1 1573 
+past Gravitational_lens.txt 2 1834 1963 
+likely Gravitational_lens.txt 1 1560 
+video Gravitational_lens.txt 1 239 
+traveling Gravitational_lens.txt 1 1815 
+pass Gravitational_lens.txt 2 2728 2754 
+further Gravitational_lens.txt 1 2755 
+dynamics Gravitational_lens.txt 1 1917 
+quad-image Gravitational_lens.txt 1 2407 
+targets Gravitational_lens.txt 1 2616 
+even Gravitational_lens.txt 4 863 879 1368 2412 
+what Gravitational_lens.txt 2 1330 2381 
+errors Gravitational_lens.txt 2 3052 3062 
+appear Gravitational_lens.txt 3 274 411 1290 
+sun Gravitational_lens.txt 10 893 1152 1188 1227 2561 2573 2585 2589 2604 2620 
+near Gravitational_lens.txt 2 1150 1186 
+expressed Gravitational_lens.txt 1 1932 
+magnifying Gravitational_lens.txt 1 2595 
+current Gravitational_lens.txt 2 2873 3023 
+quadrupole Gravitational_lens.txt 2 2949 2957 
+experiment Gravitational_lens.txt 2 1016 1702 
+scientists Gravitational_lens.txt 1 2301 
+two-image Gravitational_lens.txt 1 2415 
+new Gravitational_lens.txt 3 1994 2002 2013 
+officially Gravitational_lens.txt 1 1619 
+method Gravitational_lens.txt 4 2837 2864 2871 2923 
+full Gravitational_lens.txt 1 2230 
+simultaneously Gravitational_lens.txt 1 1195 
+dwarf Gravitational_lens.txt 1 2644 
+megaparsecs Gravitational_lens.txt 1 925 
+hundreds Gravitational_lens.txt 2 923 1708 
+objects Gravitational_lens.txt 10 630 1616 1847 1859 2022 2178 2201 2204 2597 2939 
+smearing Gravitational_lens.txt 1 2848 
+berkeley Gravitational_lens.txt 1 2313 
+alone Gravitational_lens.txt 1 1093 
+path Gravitational_lens.txt 1 1265 
+100 Gravitational_lens.txt 1 887 
+strong Gravitational_lens.txt 5 563 877 960 974 1297 
+change Gravitational_lens.txt 1 1142 
+energys Gravitational_lens.txt 1 2311 
+search Gravitational_lens.txt 8 1937 1969 2038 2054 2066 2138 2210 2247 
+parameters Gravitational_lens.txt 1 2028 
+frantisek Gravitational_lens.txt 1 150 
+institute Gravitational_lens.txt 1 2356 
+involved Gravitational_lens.txt 1 1554 
+study Gravitational_lens.txt 2 2062 2329 
+stretching Gravitational_lens.txt 1 626 
+commonly Gravitational_lens.txt 2 171 482 
+implementation Gravitational_lens.txt 1 2999 
+amount Gravitational_lens.txt 2 114 823 
+survey Gravitational_lens.txt 5 1981 2082 2095 2141 2145 
+suggestion Gravitational_lens.txt 1 2683 
+milky Gravitational_lens.txt 2 842 2277 
+usually Gravitational_lens.txt 1 456 
+advantages Gravitational_lens.txt 1 2991 
+bob Gravitational_lens.txt 1 1631 
+j1000+0221 Gravitational_lens.txt 1 2394 
+spacetime Gravitational_lens.txt 4 504 1722 1752 1920 
+involves Gravitational_lens.txt 1 2211 
+named Gravitational_lens.txt 1 1620 
+convolution Gravitational_lens.txt 1 2913 
+africa Gravitational_lens.txt 1 1214 
+highly Gravitational_lens.txt 2 1461 2659 
+visible Gravitational_lens.txt 3 45 569 942 
+analyzing Gravitational_lens.txt 1 600 
+total Gravitational_lens.txt 1 1174 
+planck Gravitational_lens.txt 1 2355 
+select Gravitational_lens.txt 1 2614 
+eddington Gravitational_lens.txt 3 1008 1165 1344 
+use Gravitational_lens.txt 5 2087 2213 2323 2587 2978 
+from Gravitational_lens.txt 22 9 95 250 334 827 927 1221 1245 1269 1769 1880 1944 2018 2136 2306 2352 2504 2551 2571 2583 2757 3053 
+links Gravitational_lens.txt 1 3082 
+would Gravitational_lens.txt 12 43 1333 1356 1412 1459 1480 1598 1658 2043 2511 2562 3056 
+improves Gravitational_lens.txt 1 2346 
+remains Gravitational_lens.txt 1 2403 
+21-cm Gravitational_lens.txt 1 2677 
+objectives Gravitational_lens.txt 1 2060 
+two Gravitational_lens.txt 4 57 987 1396 1613 
+next Gravitational_lens.txt 1 3029 
+few Gravitational_lens.txt 2 616 902 
+magnification Gravitational_lens.txt 2 2731 2784 
+noting Gravitational_lens.txt 1 1140 
+j1206 Gravitational_lens.txt 1 1955 
+distortions Gravitational_lens.txt 4 570 587 612 2759 
+candidates Gravitational_lens.txt 1 2219 
+until Gravitational_lens.txt 2 206 1591 
+kitt Gravitational_lens.txt 1 1638 
+more Gravitational_lens.txt 7 170 178 481 864 885 1559 2413 
+separated Gravitational_lens.txt 1 898 
+flat Gravitational_lens.txt 1 1865 
+lens-like Gravitational_lens.txt 1 1501 
+apparent Gravitational_lens.txt 1 1254 
+curvature Gravitational_lens.txt 2 1723 1750 
+broadhurst Gravitational_lens.txt 1 2825 
+particular Gravitational_lens.txt 1 684 
+known Gravitational_lens.txt 6 108 283 1279 1603 2410 2641 
+cases Gravitational_lens.txt 2 914 2259 
+potential Gravitational_lens.txt 1 1799 
+clumps Gravitational_lens.txt 1 303 
+must Gravitational_lens.txt 3 713 723 763 
+1980s Gravitational_lens.txt 1 1647 
+1993 Gravitational_lens.txt 1 2715 
+inclinations Gravitational_lens.txt 1 2883 
+1995 Gravitational_lens.txt 1 2826 
+recovering Gravitational_lens.txt 1 2851 
+announcing Gravitational_lens.txt 1 1022 
+this Gravitational_lens.txt 26 105 167 209 244 298 433 669 1410 1623 1693 1764 1804 1902 1928 1942 2008 2187 2209 2509 2579 2621 2670 2700 2863 3017 3044 
+science Gravitational_lens.txt 3 1518 2296 2495 
+averaged Gravitational_lens.txt 1 657 
+eclipse Gravitational_lens.txt 3 1015 1176 1182 
+measures Gravitational_lens.txt 1 2924 
+oct Gravitational_lens.txt 1 2371 
+regions Gravitational_lens.txt 1 1835 
+values Gravitational_lens.txt 1 2025 
+can Gravitational_lens.txt 12 595 655 672 691 818 906 1806 1839 1929 2031 2083 3042 
+henry Gravitational_lens.txt 1 1025 
+modifies Gravitational_lens.txt 1 231 
+newspapers Gravitational_lens.txt 1 1314 
+sedna Gravitational_lens.txt 1 2652 
+history Gravitational_lens.txt 1 1004 
+bent Gravitational_lens.txt 3 1230 1763 1778 
+cosmological Gravitational_lens.txt 3 778 798 2027 
+process Gravitational_lens.txt 1 1101 
+relativistic Gravitational_lens.txt 1 1915 
+keck Gravitational_lens.txt 1 2435 
+soldner Gravitational_lens.txt 1 1037 
+reconstructed Gravitational_lens.txt 1 693 
+sphere Gravitational_lens.txt 1 1156 
+minimum Gravitational_lens.txt 1 327 
+walsh Gravitational_lens.txt 1 1630 
+numbers Gravitational_lens.txt 2 602 649 
+allowed Gravitational_lens.txt 1 1183 
+dennis Gravitational_lens.txt 1 1629 
+skirt Gravitational_lens.txt 1 2556 
+ogle-2016-blg-1190lb Gravitational_lens.txt 1 1715 
+simple Gravitational_lens.txt 3 1934 2200 2998 
+inherent Gravitational_lens.txt 1 2804 
+motion Gravitational_lens.txt 1 1844 
+rays Gravitational_lens.txt 3 1823 2548 2745 
+provide Gravitational_lens.txt 3 792 803 3043 
+hydrogen Gravitational_lens.txt 1 2678 
+acts Gravitational_lens.txt 3 18 265 380 
+georg Gravitational_lens.txt 1 1035 
+1 Gravitational_lens.txt 2 562 2637 
+how Gravitational_lens.txt 3 248 2520 2967 
+astronomers Gravitational_lens.txt 3 1648 2351 2426 
+opposite Gravitational_lens.txt 1 2600 
+elliptical Gravitational_lens.txt 2 698 2660 
+instead Gravitational_lens.txt 1 432 
+ordinary Gravitational_lens.txt 1 1786 
+parameter Gravitational_lens.txt 1 779 
+circular Gravitational_lens.txt 1 3012 
+orest Gravitational_lens.txt 2 146 445 
+galactic Gravitational_lens.txt 1 1678 
+description Gravitational_lens.txt 1 223 
+arcs Gravitational_lens.txt 2 510 578 
+may Gravitational_lens.txt 5 517 801 837 1178 3035 
+max Gravitational_lens.txt 1 2354 
+rudi Gravitational_lens.txt 1 1492 
+reaction Gravitational_lens.txt 1 1332 
+derived Gravitational_lens.txt 1 1913 
+different Gravitational_lens.txt 2 1397 2615 
+collection Gravitational_lens.txt 1 2110 
+consequence Gravitational_lens.txt 1 1811 
+produce Gravitational_lens.txt 2 895 907 
+such Gravitational_lens.txt 11 74 489 571 871 1675 1697 1710 2064 2108 2634 2672 
+core Gravitational_lens.txt 1 2177 
+revealed Gravitational_lens.txt 2 301 2531 
+1911-result Gravitational_lens.txt 1 1111 
+starlight Gravitational_lens.txt 1 1051 
+a Gravitational_lens.txt 87 3 15 66 70 76 81 177 234 251 261 267 310 314 326 338 347 382 403 413 491 500 606 615 624 707 726 742 752 793 828 855 880 883 901 973 982 1055 1242 1246 1292 1390 1407 1418 1504 1672 1741 1758 1810 1817 1849 1861 1864 1877 1900 1968 2005 2011 2036 2045 2065 2076 2109 2123 2143 2254 2292 2298 2304 2428 2565 2575 2591 2605 2694 2702 2721 2725 2749 2764 2836 2852 2885 2928 2952 2968 3005 3019 
+changes Gravitational_lens.txt 1 831 
+short Gravitational_lens.txt 1 1499 
+resemble Gravitational_lens.txt 1 508 
+light Gravitational_lens.txt 33 5 55 83 94 100 137 249 282 318 330 358 392 408 825 943 1129 1135 1220 1240 1268 1383 1394 1510 1581 1747 1755 1768 1794 1814 1820 1822 1898 2550 
+ksbs Gravitational_lens.txt 1 2989 
+separations Gravitational_lens.txt 1 908 
+ghz Gravitational_lens.txt 2 2093 2148 
+st Gravitational_lens.txt 1 442 
+complexity Gravitational_lens.txt 1 2206 
+so Gravitational_lens.txt 4 1205 1231 2029 3059 
+allow Gravitational_lens.txt 2 195 1659 
+subsequently Gravitational_lens.txt 1 2419 
+typical Gravitational_lens.txt 1 846 
+khvolson Gravitational_lens.txt 1 147 
+help Gravitational_lens.txt 1 2503 
+produces Gravitational_lens.txt 2 313 976 
+laboratory Gravitational_lens.txt 1 2315 
+radiation Gravitational_lens.txt 2 939 1883 
+pointed Gravitational_lens.txt 1 1044 
+move Gravitational_lens.txt 1 2654 
+mission Gravitational_lens.txt 1 2795 
+meter Gravitational_lens.txt 1 1643 
+distortion Gravitational_lens.txt 5 293 502 815 2859 3016 
+paper Gravitational_lens.txt 1 1021 
+including Gravitational_lens.txt 2 1712 2776 
+statistical Gravitational_lens.txt 3 607 2255 3051 
+during Gravitational_lens.txt 2 1172 3047 
+mentioned Gravitational_lens.txt 1 437 
+avenue Gravitational_lens.txt 1 2014 
+its Gravitational_lens.txt 5 323 335 1023 2658 2993 
+galaxy Gravitational_lens.txt 23 196 230 235 253 263 492 753 857 881 904 929 958 1294 1743 1952 2279 2391 2409 2417 2526 2814 2820 2929 
+before Gravitational_lens.txt 2 1000 1369 
+perfect Gravitational_lens.txt 1 2953 
+delay Gravitational_lens.txt 1 985 
+group Gravitational_lens.txt 1 493 
+21 Gravitational_lens.txt 1 2372 
+22 Gravitational_lens.txt 1 2001 
+termed Gravitational_lens.txt 1 2392 
+relativity Gravitational_lens.txt 9 129 145 1105 1323 1338 1377 1731 1746 1790 
+29 Gravitational_lens.txt 1 1179 
+better Gravitational_lens.txt 3 782 2035 3038 
+attraction Gravitational_lens.txt 1 1838 
+detected Gravitational_lens.txt 1 598 
+systems Gravitational_lens.txt 1 2004 
+isaac Gravitational_lens.txt 1 1064 
+clusters Gravitational_lens.txt 2 197 905 
+hidden Gravitational_lens.txt 1 3090 
+dyson Gravitational_lens.txt 2 1168 1346 
+shear Gravitational_lens.txt 7 661 2853 2876 2888 2932 2976 3025 
+2744 Gravitational_lens.txt 1 2525 
+misalignment Gravitational_lens.txt 1 424 
+then Gravitational_lens.txt 2 518 1354 
+them Gravitational_lens.txt 3 2208 2222 2229 
+good Gravitational_lens.txt 2 2047 2134 
+affected Gravitational_lens.txt 1 1882 
+world-famous Gravitational_lens.txt 1 1324 
+combination Gravitational_lens.txt 2 1652 2429 
+rotations Gravitational_lens.txt 1 2881 
+impossible Gravitational_lens.txt 1 1483 
+primary Gravitational_lens.txt 2 2902 2990 
+effects Gravitational_lens.txt 5 259 946 2841 2889 2985 
+permissible Gravitational_lens.txt 1 372 
+half Gravitational_lens.txt 2 140 1114 
+not Gravitational_lens.txt 7 205 371 469 498 940 1340 1590 
+clouds Gravitational_lens.txt 1 1683 
+yu Gravitational_lens.txt 1 1566 
+discuss Gravitational_lens.txt 1 161 
+maintaining Gravitational_lens.txt 1 2122 
+easily Gravitational_lens.txt 1 568 
+term Gravitational_lens.txt 1 351 
+brightness Gravitational_lens.txt 1 1661 
+edit Gravitational_lens.txt 12 224 1005 1724 1941 2541 2813 3066 3073 3078 3080 3083 3088 
+university Gravitational_lens.txt 1 2476 
+arrows Gravitational_lens.txt 2 1251 1262 
+drake Gravitational_lens.txt 1 2686 
+possibilities Gravitational_lens.txt 1 2514 
+reasonable Gravitational_lens.txt 1 3020 
+each Gravitational_lens.txt 1 1669 
+cear Gravitational_lens.txt 1 1201 
+lensed Gravitational_lens.txt 4 995 2819 2919 2941 
+side Gravitational_lens.txt 2 1775 2601 
+characterized Gravitational_lens.txt 1 1707 
+referred Gravitational_lens.txt 1 457 
+domain Gravitational_lens.txt 1 2153 
+sadler Gravitational_lens.txt 1 2183 
+telescope Gravitational_lens.txt 8 1644 1949 2091 2101 2400 2433 2436 2500 
+due Gravitational_lens.txt 5 1295 1381 2158 2488 2910 
+generation Gravitational_lens.txt 1 3030 
+energy Gravitational_lens.txt 1 810 
+einstein Gravitational_lens.txt 14 124 174 285 451 464 576 1085 1095 1119 1317 1349 1378 1495 2543 
+positioned Gravitational_lens.txt 1 2577 
+related Gravitational_lens.txt 2 2960 2973 
+breakthrough Gravitational_lens.txt 1 1371 
+literature Gravitational_lens.txt 1 461 
+expect Gravitational_lens.txt 1 2131 
+measure Gravitational_lens.txt 2 659 2971 
+our Gravitational_lens.txt 3 928 2251 2521 
+beyond Gravitational_lens.txt 2 2625 2639 
+macs Gravitational_lens.txt 2 1954 2816 
+array Gravitational_lens.txt 2 1991 2103 
+out Gravitational_lens.txt 2 1045 1236 
+canada Gravitational_lens.txt 1 2480 
+large Gravitational_lens.txt 4 601 648 709 1990 
+opened Gravitational_lens.txt 1 2010 
+space Gravitational_lens.txt 5 1948 2399 2432 2507 2632 
+gradient Gravitational_lens.txt 1 1818 
+open Gravitational_lens.txt 1 2512 
+atca Gravitational_lens.txt 1 2104 
+cameras Gravitational_lens.txt 1 743 
+interference Gravitational_lens.txt 1 2777 
+research Gravitational_lens.txt 2 2016 2460 
+uncontaminated Gravitational_lens.txt 1 2855 
+weighted Gravitational_lens.txt 4 2948 2956 2963 2969 
+print Gravitational_lens.txt 1 165 
+mandl Gravitational_lens.txt 1 1494 
+newly Gravitational_lens.txt 1 1529 
+dominate Gravitational_lens.txt 1 3064 
+cause Gravitational_lens.txt 1 499 
+correct Gravitational_lens.txt 3 1117 1126 1366 
+shows Gravitational_lens.txt 3 247 620 1950 
+o.j Gravitational_lens.txt 1 364 
+sbs Gravitational_lens.txt 2 220 1621 
+after Gravitational_lens.txt 1 1488 
+theory Gravitational_lens.txt 3 127 1320 1364 
+lawrence Gravitational_lens.txt 1 2312 
+frank Gravitational_lens.txt 2 1166 2685 
+galaxies Gravitational_lens.txt 11 79 652 695 712 738 916 1531 2350 2530 2878 3070 
+given Gravitational_lens.txt 1 2770 
+quite Gravitational_lens.txt 1 920 
+curved Gravitational_lens.txt 1 1851 
+formation Gravitational_lens.txt 2 574 1278 
+imaging Gravitational_lens.txt 1 2437 
+detecting Gravitational_lens.txt 1 2667 
+measurement Gravitational_lens.txt 1 2908 
+at20g Gravitational_lens.txt 2 2094 2140 
+publication Gravitational_lens.txt 2 2240 2369 
+hubble Gravitational_lens.txt 3 1947 2398 2431 
+g Gravitational_lens.txt 2 1567 1885 
+e.g Gravitational_lens.txt 2 2179 3033 
+geometry Gravitational_lens.txt 2 1852 1866 
+could Gravitational_lens.txt 7 194 1392 1539 1689 2586 2608 2696 
+computers Gravitational_lens.txt 1 1657 
+cosmic Gravitational_lens.txt 3 952 1977 3024 
+days Gravitational_lens.txt 1 2690 
+times Gravitational_lens.txt 1 889 
+creates Gravitational_lens.txt 1 56 
+turn Gravitational_lens.txt 1 671 
+length Gravitational_lens.txt 1 389 
+edges Gravitational_lens.txt 1 2558 
+massive Gravitational_lens.txt 5 395 417 1056 1243 1759 
+w Gravitational_lens.txt 1 1493 
+hence Gravitational_lens.txt 1 1753 
+0218 Gravitational_lens.txt 1 2447 
+south Gravitational_lens.txt 1 2498 
+first Gravitational_lens.txt 7 159 361 436 1122 1132 1523 1595 
+blind Gravitational_lens.txt 1 2144 
+major Gravitational_lens.txt 3 1313 2006 2318 
+already Gravitational_lens.txt 1 1060 
+manuscript Gravitational_lens.txt 1 1032 
+widely Gravitational_lens.txt 1 2869 
+feel Gravitational_lens.txt 1 1357 
+critique Gravitational_lens.txt 1 2765 
+cosmologist Gravitational_lens.txt 1 2305 
+number Gravitational_lens.txt 4 528 710 727 2174 
+one Gravitational_lens.txt 6 60 118 845 992 1006 2283 
+montreal Gravitational_lens.txt 1 2478 
+featured Gravitational_lens.txt 1 3084 
+done Gravitational_lens.txt 2 1983 2068 
+approximately Gravitational_lens.txt 1 2568 
+another Gravitational_lens.txt 1 860 
+hoekstra Gravitational_lens.txt 1 2831 
+reached Gravitational_lens.txt 1 1474 
+ring Gravitational_lens.txt 3 414 465 479 
+quality Gravitational_lens.txt 1 2126 
+millions Gravitational_lens.txt 1 1663 
+passes Gravitational_lens.txt 3 22 320 1756 
+surveys Gravitational_lens.txt 6 718 722 774 959 3026 3032 
+nebulae Gravitational_lens.txt 1 1535 
+simulated Gravitational_lens.txt 1 1732 
+data Gravitational_lens.txt 6 2075 2096 2112 2115 2128 3055 
+system Gravitational_lens.txt 1 2253 
+least Gravitational_lens.txt 1 2282 
+response Gravitational_lens.txt 1 1857 
+their Gravitational_lens.txt 3 653 1170 2947 
+2 Gravitational_lens.txt 1 582 
+observations Gravitational_lens.txt 4 799 1158 1192 1216 
+passed Gravitational_lens.txt 1 1149 
+tom Gravitational_lens.txt 1 1206 
+vla Gravitational_lens.txt 1 1992 
+corona Gravitational_lens.txt 2 2763 2781 
+white Gravitational_lens.txt 2 54 1261 
+southern Gravitational_lens.txt 1 2041 
+national Gravitational_lens.txt 3 1640 2314 2494 
+90377 Gravitational_lens.txt 1 2651 
+testing Gravitational_lens.txt 1 2516 
+stars Gravitational_lens.txt 10 839 853 1146 1185 1222 1233 1434 1456 1665 2274 
+that Gravitational_lens.txt 35 88 141 191 208 319 331 368 375 872 890 989 1046 1050 1106 1218 1232 1380 1389 1439 1478 1547 1576 1593 1650 1705 1766 2272 2342 2485 2547 2555 2693 2746 3008 3048 
+schwarzschild Gravitational_lens.txt 1 1923 
+difficult Gravitational_lens.txt 2 2722 2798 
+explanation Gravitational_lens.txt 1 1718 
+universe Gravitational_lens.txt 2 2034 2522 
+albert Gravitational_lens.txt 3 123 450 2542 
+realized Gravitational_lens.txt 2 1379 1649 
+plane Gravitational_lens.txt 1 2797 
+task Gravitational_lens.txt 1 2723 
+1919 Gravitational_lens.txt 3 1013 1162 1348 
+assumption Gravitational_lens.txt 2 3007 3021 
+optical Gravitational_lens.txt 2 308 1699 
+1911 Gravitational_lens.txt 1 1087 
+1915 Gravitational_lens.txt 1 1098 
+than Gravitational_lens.txt 3 886 2336 3040 
+intrinsically Gravitational_lens.txt 1 697 
+1998 Gravitational_lens.txt 1 2834 
+observed Gravitational_lens.txt 6 964 999 1191 1446 1563 2261 
+kind Gravitational_lens.txt 1 1419 
+observatory Gravitational_lens.txt 2 1641 2508 
+target Gravitational_lens.txt 1 2787 
+einsteins Gravitational_lens.txt 1 1281 
+structures Gravitational_lens.txt 1 2335 
+measured Gravitational_lens.txt 1 1668 
+depends Gravitational_lens.txt 1 1795 
+ranging Gravitational_lens.txt 1 2017 
+project Gravitational_lens.txt 1 2234 
+matter Gravitational_lens.txt 3 73 305 690 
+classes Gravitational_lens.txt 1 558 
+supposed Gravitational_lens.txt 1 1062 
+historical Gravitational_lens.txt 1 3074 
+were Gravitational_lens.txt 4 1159 1193 1533 2116 
+radius Gravitational_lens.txt 2 476 1924 
+led Gravitational_lens.txt 5 1694 1996 2302 2473 2680 
+greater Gravitational_lens.txt 1 2582 
+klimov Gravitational_lens.txt 1 1568 
+result Gravitational_lens.txt 3 1301 2077 2886 
+and Gravitational_lens.txt 62 25 85 112 149 269 325 398 447 496 529 542 544 579 594 645 699 754 766 784 790 917 967 1033 1108 1169 1203 1207 1306 1318 1345 1457 1544 1546 1552 1633 1656 1716 1803 1832 1892 2071 2074 2197 2220 2333 2434 2438 2442 2501 2628 2638 2643 2706 2799 2818 2824 2830 2849 2882 2977 2996 3076 
+multipurpose Gravitational_lens.txt 1 2703 
+prncipe Gravitational_lens.txt 1 1208 
+pole Gravitational_lens.txt 1 2499 
+spectrum Gravitational_lens.txt 1 2157 
+quasars Gravitational_lens.txt 2 1577 2180 
+say Gravitational_lens.txt 1 374 
+kepler Gravitational_lens.txt 1 1727 
+astrophysical Gravitational_lens.txt 2 2376 2453 
+posited Gravitational_lens.txt 1 188 
+have Gravitational_lens.txt 6 962 1334 1706 1964 2243 2879 
+distorted Gravitational_lens.txt 3 255 275 521 
+need Gravitational_lens.txt 2 2893 3036 
+seen Gravitational_lens.txt 2 8 820 
+any Gravitational_lens.txt 2 423 667 
+contents Gravitational_lens.txt 1 222 
+ray Gravitational_lens.txt 1 1634 
+lie Gravitational_lens.txt 1 401 
+u.s Gravitational_lens.txt 1 2308 
+angle Gravitational_lens.txt 1 1868 
+form Gravitational_lens.txt 1 1935 
+depending Gravitational_lens.txt 1 533 
+gravity Gravitational_lens.txt 1 1048 
+gravitationally-lensed Gravitational_lens.txt 1 3067 
+1963 Gravitational_lens.txt 1 1565 
+also Gravitational_lens.txt 6 132 802 1387 1726 1930 3072 
+ideal Gravitational_lens.txt 1 1580 
+causing Gravitational_lens.txt 1 1399 
+which Gravitational_lens.txt 5 17 264 1532 2365 2788 
+online Gravitational_lens.txt 1 2467 
+finding Gravitational_lens.txt 3 2019 2024 2167 
+negligible Gravitational_lens.txt 1 3058 
+concern Gravitational_lens.txt 1 470 
+accuracy Gravitational_lens.txt 1 3039 
+soldners Gravitational_lens.txt 2 1081 1110 
+play Gravitational_lens.txt 3 225 242 287 
+towards Gravitational_lens.txt 3 102 1779 2049 
+multiple Gravitational_lens.txt 5 520 580 896 977 1404 
+mcgill Gravitational_lens.txt 1 2475 
+centre Gravitational_lens.txt 1 637 
+object Gravitational_lens.txt 10 397 419 554 830 836 996 1057 1244 1760 1771 
+techniques Gravitational_lens.txt 1 2242 
+most Gravitational_lens.txt 6 1312 1956 2273 2387 2405 2868 
+detect Gravitational_lens.txt 1 2196 
+germany Gravitational_lens.txt 1 2361 
+complementing Gravitational_lens.txt 1 2050 
+ccd Gravitational_lens.txt 1 1654 
+intrinsic Gravitational_lens.txt 1 735 
+the Gravitational_lens.txt 260 26 33 38 41 46 50 53 63 93 96 99 103 113 120 134 158 162 182 192 216 257 271 292 350 354 376 391 394 399 406 416 425 441 460 473 478 484 505 513 515 524 527 535 539 545 548 552 573 586 618 628 633 636 639 643 660 663 677 681 685 700 734 739 749 755 770 787 822 834 841 849 867 874 892 915 951 994 1001 1012 1077 1090 1100 1116 1121 1125 1131 1141 1151 1154 1157 1173 1180 1184 1187 1197 1210 1215 1219 1226 1249 1253 1257 1260 1264 1267 1270 1274 1277 1286 1300 1308 1352 1360 1363 1373 1400 1414 1428 1440 1448 1452 1475 1498 1507 1512 1516 1525 1528 1537 1550 1555 1584 1594 1605 1637 1646 1651 1660 1677 1681 1749 1767 1773 1791 1797 1801 1813 1825 1828 1830 1833 1836 1843 1856 1867 1873 1881 1887 1895 1907 1922 1945 1951 1958 1962 1974 1988 1998 2033 2040 2051 2080 2086 2089 2099 2114 2119 2137 2139 2151 2155 2160 2164 2172 2191 2212 2233 2264 2276 2307 2322 2328 2353 2362 2375 2383 2386 2404 2440 2445 2452 2466 2483 2505 2513 2517 2552 2557 2560 2572 2584 2588 2599 2603 2619 2626 2640 2662 2676 2682 2688 2712 2734 2744 2758 2761 2767 2779 2782 2786 2791 2794 2803 2808 2840 2843 2857 2861 2867 2887 2901 2912 2915 2918 2921 2925 2931 2936 2938 2955 2962 2975 2979 2984 2987 3009 3028 3050 3054 3060 
+stands Gravitational_lens.txt 1 2105 
+so-called Gravitational_lens.txt 1 217 
+observation Gravitational_lens.txt 2 214 1133 
+considered Gravitational_lens.txt 3 1303 1427 1524 
+calculated Gravitational_lens.txt 1 1083 
+later Gravitational_lens.txt 1 2707 
+m Gravitational_lens.txt 1 1875 
+curving Gravitational_lens.txt 1 1919 
+looked Gravitational_lens.txt 1 1611 
+accounted Gravitational_lens.txt 1 768 
+principle Gravitational_lens.txt 1 1092 
+physics Gravitational_lens.txt 1 131 
+review Gravitational_lens.txt 1 2471 
+j2129-0741 Gravitational_lens.txt 1 2817 
+spherical Gravitational_lens.txt 2 501 2805 
+phenomenon Gravitational_lens.txt 2 434 1441 
+show Gravitational_lens.txt 2 1252 1263 
+chances Gravitational_lens.txt 1 2165 
+wikipedia Gravitational_lens.txt 1 2 
+probe Gravitational_lens.txt 4 2576 2695 2704 2726 
+scattered Gravitational_lens.txt 1 511 
+anyway Gravitational_lens.txt 1 1367 
+converge Gravitational_lens.txt 1 2563 
+discovered Gravitational_lens.txt 7 1530 1600 1627 1966 2380 2420 2482 
+theories Gravitational_lens.txt 1 2518 
+radio Gravitational_lens.txt 3 966 1985 2152 
+carefully Gravitational_lens.txt 2 724 767 
+earth Gravitational_lens.txt 2 13 24 
+determined Gravitational_lens.txt 1 2896 
+find Gravitational_lens.txt 1 610 
+landis Gravitational_lens.txt 1 2772 
+based Gravitational_lens.txt 2 1088 3003 
+hosted Gravitational_lens.txt 1 2280 
+northern Gravitational_lens.txt 3 1975 2052 2081 
+front Gravitational_lens.txt 2 1309 1739 
+true Gravitational_lens.txt 1 1271 
+credited Gravitational_lens.txt 1 155 
+behind Gravitational_lens.txt 1 237 
+should Gravitational_lens.txt 1 2130 
+542 Gravitational_lens.txt 2 2569 2729 
+moments Gravitational_lens.txt 2 2950 2958 
+only Gravitational_lens.txt 7 32 139 596 614 900 1113 1426 
+abell Gravitational_lens.txt 1 2524 
+black Gravitational_lens.txt 1 1735 
+arcseconds Gravitational_lens.txt 1 903 
+ksb Gravitational_lens.txt 5 2865 2922 2965 3001 3041 
+lodge Gravitational_lens.txt 1 365 
+luppino Gravitational_lens.txt 1 2827 
+circle Gravitational_lens.txt 3 35 48 61 
+thousands Gravitational_lens.txt 1 2648 
+over Gravitational_lens.txt 2 2263 2647 
+photographs Gravitational_lens.txt 1 1010 
+his Gravitational_lens.txt 8 1019 1069 1074 1107 1319 1328 1331 1370 
+means Gravitational_lens.txt 1 1765 
+bend Gravitational_lens.txt 1 1053 
+assistant Gravitational_lens.txt 1 1329 
+1920 Gravitational_lens.txt 1 1020 
+quantified Gravitational_lens.txt 1 448 
+preferred Gravitational_lens.txt 2 625 2899 
+coast Gravitational_lens.txt 1 1212 
+famous Gravitational_lens.txt 2 179 1070 
+watson Gravitational_lens.txt 1 1167 
+october Gravitational_lens.txt 1 2536 
+nearly Gravitational_lens.txt 1 1482 
+international Gravitational_lens.txt 1 2423 
+reconstruct Gravitational_lens.txt 1 676 
+years Gravitational_lens.txt 1 2650 
+generally Gravitational_lens.txt 1 154 
+remove Gravitational_lens.txt 1 2983 
+book Gravitational_lens.txt 1 1075 
+predicted Gravitational_lens.txt 2 142 2544 
+though Gravitational_lens.txt 1 2646 
+queries Gravitational_lens.txt 1 1071 
+identify Gravitational_lens.txt 3 2198 2218 2228 
+where Gravitational_lens.txt 6 483 565 585 813 1527 1884 
+intervening Gravitational_lens.txt 1 229 
+qubec Gravitational_lens.txt 1 2479 
+observer Gravitational_lens.txt 9 11 87 104 400 426 516 543 1401 1458 
+sep Gravitational_lens.txt 1 2462 
+unpublished Gravitational_lens.txt 1 1031 
+ogle Gravitational_lens.txt 1 1704 
+up Gravitational_lens.txt 2 621 2223 
+relative Gravitational_lens.txt 4 536 983 2173 2617 
+edition Gravitational_lens.txt 1 2468 
+see Gravitational_lens.txt 5 428 519 1403 1725 3071 
+arc Gravitational_lens.txt 1 430 
+1924 Gravitational_lens.txt 2 148 439 
+are Gravitational_lens.txt 16 153 556 567 591 696 775 919 947 1578 1824 2181 2366 2486 2943 2959 2992 
+close Gravitational_lens.txt 1 1224 
+2.1 Gravitational_lens.txt 1 1642 
+carswell Gravitational_lens.txt 1 1632 
+subject Gravitational_lens.txt 1 183 
+brazil Gravitational_lens.txt 1 1202 
+herschel Gravitational_lens.txt 1 2506 
+gravitation Gravitational_lens.txt 1 1891 
+away Gravitational_lens.txt 3 926 2656 2756 
+currently Gravitational_lens.txt 1 2236 
+rings Gravitational_lens.txt 3 280 286 577 
+originated Gravitational_lens.txt 1 2523 
+3 Gravitational_lens.txt 1 811 
+future Gravitational_lens.txt 3 806 1450 1829 
+tendency Gravitational_lens.txt 2 740 756 
+between Gravitational_lens.txt 5 23 80 986 1455 1827 
+orbiting Gravitational_lens.txt 1 2284 
+progress Gravitational_lens.txt 2 2319 2627 
+boundary Gravitational_lens.txt 1 1826 
+irc Gravitational_lens.txt 1 2446 
+discovery Gravitational_lens.txt 3 1999 2441 2510 
+we Gravitational_lens.txt 2 2030 2129 
+terms Gravitational_lens.txt 1 1720 
+statistically Gravitational_lens.txt 2 622 2898 
+aberration Gravitational_lens.txt 1 2806 
+initially Gravitational_lens.txt 1 1610 
+weak Gravitational_lens.txt 9 583 701 720 944 1910 2343 2811 2874 2891 
+however Gravitational_lens.txt 4 166 1094 1423 3000 
+physicist Gravitational_lens.txt 1 444 
+ellipticity Gravitational_lens.txt 4 2926 2937 2964 2970 
+key Gravitational_lens.txt 1 3006 
+article Gravitational_lens.txt 3 180 1500 2294 
+cities Gravitational_lens.txt 1 1198 
+come Gravitational_lens.txt 1 2747 
+problem Gravitational_lens.txt 1 1728 
+improve Gravitational_lens.txt 1 785 
+received Gravitational_lens.txt 1 826 
+collaborators Gravitational_lens.txt 1 1171 
+toward Gravitational_lens.txt 1 1872 
+many Gravitational_lens.txt 2 922 1684 
+region Gravitational_lens.txt 1 668 
+23 Gravitational_lens.txt 1 2458 
+aqua Gravitational_lens.txt 1 47 
+according Gravitational_lens.txt 1 2945 
+s Gravitational_lens.txt 5 125 1009 1569 2397 2497 
+became Gravitational_lens.txt 2 1120 1602 
+und Gravitational_lens.txt 1 1571 
+urging Gravitational_lens.txt 1 1490 
+context Gravitational_lens.txt 1 355 
+reluctantly Gravitational_lens.txt 1 1496 
+passing Gravitational_lens.txt 2 1223 1737 
+estimation Gravitational_lens.txt 1 780 
+whole Gravitational_lens.txt 1 2012 
+asked Gravitational_lens.txt 1 1326 
+lenses Gravitational_lens.txt 7 202 931 961 1940 1960 1972 2169 
+macs2129-1 Gravitational_lens.txt 1 2821 
+point Gravitational_lens.txt 4 345 744 2567 2844 
+appeared Gravitational_lens.txt 1 1234 
+sky Gravitational_lens.txt 1 1980 
+period Gravitational_lens.txt 1 2266 
+twin Gravitational_lens.txt 2 218 1606 
+science-fiction Gravitational_lens.txt 1 3086 
+news Gravitational_lens.txt 1 1305 
+constant Gravitational_lens.txt 1 1889 
+along Gravitational_lens.txt 2 1395 1816 
+microwaves Gravitational_lens.txt 1 2674 
+quasistellar Gravitational_lens.txt 1 1615 
+b-modes Gravitational_lens.txt 1 2484 
+quip Gravitational_lens.txt 1 1353 
+capable Gravitational_lens.txt 1 90 
+west Gravitational_lens.txt 1 1211 
+invert Gravitational_lens.txt 1 2839 
+three Gravitational_lens.txt 1 557 
+been Gravitational_lens.txt 6 963 1061 1335 1341 1965 2244 
+much Gravitational_lens.txt 4 592 1558 2331 3037 
+expected Gravitational_lens.txt 2 2085 2718 
+location Gravitational_lens.txt 1 2607 
+direction Gravitational_lens.txt 2 634 2554 
+both Gravitational_lens.txt 2 913 1542 
+formed Gravitational_lens.txt 1 2487 
+qso Gravitational_lens.txt 2 219 1607 
+c Gravitational_lens.txt 1 1893 
+observers Gravitational_lens.txt 1 1781 
+orange Gravitational_lens.txt 1 1250 
+fritz Gravitational_lens.txt 2 186 1521 
+observe Gravitational_lens.txt 1 1485 
+understand Gravitational_lens.txt 2 783 2032 
+external Gravitational_lens.txt 1 3081 
+systematic Gravitational_lens.txt 3 732 2858 3061 
+2014 Gravitational_lens.txt 2 2459 2537 
+an Gravitational_lens.txt 17 10 86 289 307 429 463 804 862 1030 1579 1770 1780 1785 2411 2422 2800 3014 
+those Gravitational_lens.txt 1 1713 
+case Gravitational_lens.txt 4 847 861 875 1526 
+atmospheric Gravitational_lens.txt 1 758 
+unlike Gravitational_lens.txt 1 306 
+these Gravitational_lens.txt 4 532 717 719 773 
+straight Gravitational_lens.txt 1 404 
+appearance Gravitational_lens.txt 1 232 
+single Gravitational_lens.txt 3 343 1408 1433 
+value Gravitational_lens.txt 3 1079 1118 1127 
+easier Gravitational_lens.txt 1 2194 
+will Gravitational_lens.txt 12 410 427 507 894 980 997 1052 1776 2653 2736 2789 3063 
+while Gravitational_lens.txt 2 14 2401 
+microlensing Gravitational_lens.txt 4 812 1685 2241 2262 
+2013 Gravitational_lens.txt 2 2373 2464 
+error Gravitational_lens.txt 2 733 2905 
+unlikely Gravitational_lens.txt 1 1443 
+studied Gravitational_lens.txt 1 949 
+spacelike Gravitational_lens.txt 1 1831 
+mexico Gravitational_lens.txt 1 1995 
+is Gravitational_lens.txt 38 49 69 89 107 117 169 254 370 422 455 487 705 869 990 1112 1365 1618 1762 1871 1886 1894 1904 1925 2067 2142 2188 2193 2235 2623 2717 2866 2909 2933 2972 3002 3011 3018 3045 
+thus Gravitational_lens.txt 2 1109 2574 
+it Gravitational_lens.txt 14 203 238 369 385 454 1315 1385 1479 1588 1601 1609 1617 1761 2402 
+sobral Gravitational_lens.txt 1 1200 
+cluster Gravitational_lens.txt 5 77 495 1953 2527 2815 
+in Gravitational_lens.txt 85 37 164 184 189 353 402 438 452 459 605 666 670 680 683 716 816 832 840 844 854 859 873 912 965 991 1018 1027 1029 1038 1041 1066 1068 1073 1086 1097 1099 1143 1161 1196 1204 1276 1347 1372 1430 1486 1511 1515 1519 1564 1645 1671 1719 1729 1738 1744 1788 1819 1848 1863 1899 1933 1961 1973 1984 1993 2039 2150 2199 2207 2275 2291 2320 2359 2374 2451 2465 2477 2545 2687 2714 2872 2890 2906 2940 3085 
+shift Gravitational_lens.txt 1 2609 
+if Gravitational_lens.txt 6 390 420 972 1336 2063 2724 
+confirmed Gravitational_lens.txt 2 212 1342 
+formalism Gravitational_lens.txt 1 2981 
+since Gravitational_lens.txt 5 466 694 1451 1608 1921 
+design Gravitational_lens.txt 1 2792 
+media Gravitational_lens.txt 3 226 243 288 
+make Gravitational_lens.txt 2 1413 2790 
+sdp.81 Gravitational_lens.txt 1 295 
+cross Gravitational_lens.txt 1 1282 
+same Gravitational_lens.txt 8 64 525 1078 1287 1476 2120 2553 2980 
+sjur Gravitational_lens.txt 1 1572 
+complex Gravitational_lens.txt 1 488 
+potentially Gravitational_lens.txt 2 1690 2666 
+viewed Gravitational_lens.txt 2 1808 1841 
+schematic Gravitational_lens.txt 1 245 
+several Gravitational_lens.txt 2 910 1463 
+events Gravitational_lens.txt 2 1686 1711 
+well-parameterized Gravitational_lens.txt 1 2072 
+higher Gravitational_lens.txt 2 2182 2225 
+voyager Gravitational_lens.txt 1 2636 
+used Gravitational_lens.txt 6 362 674 715 2163 2245 2870 
+slightly Gravitational_lens.txt 2 1229 1235 
+closest Gravitational_lens.txt 1 321 
+paths Gravitational_lens.txt 2 988 1398 
+psf Gravitational_lens.txt 5 2847 2862 2916 2988 3010 
+milestone Gravitational_lens.txt 1 2007 
+published Gravitational_lens.txt 5 176 1040 1497 2450 2461 
+upon Gravitational_lens.txt 2 534 786 
+effect Gravitational_lens.txt 13 31 106 163 168 193 210 299 868 1411 1429 1556 1587 2492 
+deflect Gravitational_lens.txt 1 1393 
+action Gravitational_lens.txt 1 1502 
+opticks Gravitational_lens.txt 1 1076 
+zwicky Gravitational_lens.txt 2 187 1522 
+aka Gravitational_lens.txt 1 1800 
+focal Gravitational_lens.txt 6 344 348 388 2566 2708 2796 
+early Gravitational_lens.txt 1 2689 
+imagers Gravitational_lens.txt 1 1655 
+center Gravitational_lens.txt 4 39 324 336 1679 
+1979 Gravitational_lens.txt 2 207 1592 
+older Gravitational_lens.txt 1 2332 
+i Gravitational_lens.txt 1 1355 
+makes Gravitational_lens.txt 1 270 
+well Gravitational_lens.txt 5 550 956 971 1471 2056 
+seti Gravitational_lens.txt 1 2692 
+analysis Gravitational_lens.txt 4 290 2256 2443 2801 
+magnified Gravitational_lens.txt 1 277 
+without Gravitational_lens.txt 2 29 1918 
+star-forming Gravitational_lens.txt 2 302 3069 
+consistency Gravitational_lens.txt 1 794 
+very Gravitational_lens.txt 5 708 1989 2020 2046 2124 
+position Gravitational_lens.txt 4 1144 1238 1255 1272 
+model Gravitational_lens.txt 1 789 
+stating Gravitational_lens.txt 1 2341 
+bending Gravitational_lens.txt 6 92 116 135 1130 1239 1805 
+distances Gravitational_lens.txt 2 2742 2753 
+stringent Gravitational_lens.txt 1 2125 
+they Gravitational_lens.txt 2 800 1148 
+just Gravitational_lens.txt 2 941 1783 
+being Gravitational_lens.txt 3 157 852 948 
+quasar Gravitational_lens.txt 2 866 1289 
+newton Gravitational_lens.txt 1 1065 
+1784 Gravitational_lens.txt 1 1028 
+obtain Gravitational_lens.txt 1 2133 
+sources Gravitational_lens.txt 4 590 604 730 918 
+shape Gravitational_lens.txt 5 530 546 736 750 817 
+distant Gravitational_lens.txt 16 82 252 272 651 865 921 1247 1288 2021 2349 2388 2406 2414 2529 2596 3068 
+farther Gravitational_lens.txt 2 2655 2741 
+predicts Gravitational_lens.txt 2 133 1049 
+speed Gravitational_lens.txt 3 1792 1821 1896 
+chwolson Gravitational_lens.txt 2 446 467 
+ease Gravitational_lens.txt 1 2995 
+conclude Gravitational_lens.txt 1 1438 
+had Gravitational_lens.txt 3 1043 1059 1339 
+capabilities Gravitational_lens.txt 2 2630 2732 
+signals Gravitational_lens.txt 1 2668 
+source Gravitational_lens.txt 19 6 28 65 84 97 273 393 409 506 526 540 851 1248 1259 1275 1409 1543 1582 2903 
+spread Gravitational_lens.txt 2 745 2845 
+instrument Gravitational_lens.txt 2 2073 2121 
+has Gravitational_lens.txt 6 300 341 386 2009 2316 2481 
+heidelberg Gravitational_lens.txt 1 2360 
+identical Gravitational_lens.txt 2 1614 1905 
+australia Gravitational_lens.txt 2 2090 2100 
+around Gravitational_lens.txt 7 415 512 1054 1241 1291 1757 2610 
+spectacular Gravitational_lens.txt 1 1304 
+alternatively Gravitational_lens.txt 1 1854 
+famously Gravitational_lens.txt 1 1350 
+weymann Gravitational_lens.txt 1 1635 
+possible Gravitational_lens.txt 2 1388 2339 
+dark Gravitational_lens.txt 2 689 809 
+increases Gravitational_lens.txt 1 2170 
+background Gravitational_lens.txt 9 589 629 686 829 850 954 1258 1742 1850 
+vacuum Gravitational_lens.txt 1 1901 
+using Gravitational_lens.txt 9 1636 1914 1987 2069 2098 2118 2395 2427 2493 
+accepted Gravitational_lens.txt 1 2367 
+necessary Gravitational_lens.txt 1 1453 
+like Gravitational_lens.txt 4 266 381 1612 1784 
+success Gravitational_lens.txt 1 1024 
+improbable Gravitational_lens.txt 1 1462 
+follows Gravitational_lens.txt 1 1748 
+signal Gravitational_lens.txt 1 704 
+sizes Gravitational_lens.txt 1 1553 
+extremely Gravitational_lens.txt 1 2528 
+johann Gravitational_lens.txt 1 1034 
+shapes Gravitational_lens.txt 1 644 
+flux Gravitational_lens.txt 1 474 
+arthur Gravitational_lens.txt 1 1164 
+continue Gravitational_lens.txt 1 2737 
+night Gravitational_lens.txt 1 1670 
+works Gravitational_lens.txt 2 2238 3087 
+alignments Gravitational_lens.txt 1 1454 
+page Gravitational_lens.txt 1 1310 
+mathematical Gravitational_lens.txt 1 2994 
+foundation Gravitational_lens.txt 1 2496 
+because Gravitational_lens.txt 2 1548 3046 
+methods Gravitational_lens.txt 1 2216 
+classical Gravitational_lens.txt 1 130 
+foreseeable Gravitational_lens.txt 1 1449 
+30 Gravitational_lens.txt 1 2463 
+some Gravitational_lens.txt 1 1489 
+10 Gravitational_lens.txt 1 2289 
+deflection Gravitational_lens.txt 6 316 328 359 1136 1384 1870 
+understood Gravitational_lens.txt 1 765 
+et Gravitational_lens.txt 2 2184 2832 
+images Gravitational_lens.txt 9 58 522 581 762 897 978 1284 1405 2942 
+star Gravitational_lens.txt 1 1505 
+specific Gravitational_lens.txt 1 2258 
+kaiser Gravitational_lens.txt 2 2822 2828 
+dense Gravitational_lens.txt 1 1673 
+for Gravitational_lens.txt 22 384 769 777 950 1128 1359 1447 1583 1909 1938 1970 2015 2026 2061 2239 2248 2357 2368 2594 2665 2951 3022 
+electromagnetic Gravitational_lens.txt 2 938 2156 
+avoid Gravitational_lens.txt 1 725 
+measurements Gravitational_lens.txt 2 2347 2877 
+microwave Gravitational_lens.txt 1 953 
+when Gravitational_lens.txt 2 1325 1754 
+does Gravitational_lens.txt 2 497 2727 
+esa Gravitational_lens.txt 1 2713 
+prescribed Gravitational_lens.txt 1 2835 
+suns Gravitational_lens.txt 1 2762 
+demonstrated Gravitational_lens.txt 1 1217 
+well-calibrated Gravitational_lens.txt 1 2070 
+measuring Gravitational_lens.txt 2 642 2810 
+be Gravitational_lens.txt 30 44 597 656 673 692 714 764 819 838 981 998 1190 1445 1460 1481 1562 1599 1667 1691 1777 1807 1840 1931 2044 2084 2107 2697 2720 2895 3057 
+who Gravitational_lens.txt 3 175 366 2773 
+performed Gravitational_lens.txt 2 1138 1160 
+june Gravitational_lens.txt 1 2457 
+journal Gravitational_lens.txt 3 1517 2377 2454 
+perpendicular Gravitational_lens.txt 1 631 
+step Gravitational_lens.txt 1 2048 
+1937 Gravitational_lens.txt 2 190 1520 
+1936 Gravitational_lens.txt 5 152 185 453 1487 2546 
+parameterized Gravitational_lens.txt 1 2944 
+found Gravitational_lens.txt 2 1692 2271 
+eye Gravitational_lens.txt 1 1782 
+r Gravitational_lens.txt 1 1879 
+by Gravitational_lens.txt 28 143 213 256 297 363 440 449 599 641 899 1063 1084 1139 1163 1327 1343 1491 1506 1628 2303 2340 2421 2474 2532 2684 2771 2856 2897 
+von Gravitational_lens.txt 1 1036 
+on Gravitational_lens.txt 17 12 181 796 808 934 1089 1153 1177 1209 1772 1796 2295 2370 2456 2598 2657 3004 
+about Gravitational_lens.txt 1 1467 
+constraint Gravitational_lens.txt 1 807 
+of Gravitational_lens.txt 134 40 62 72 78 91 115 119 122 128 136 215 233 260 281 291 294 304 317 329 356 477 503 523 531 538 547 551 559 575 588 603 613 627 638 647 650 662 688 711 728 731 737 741 751 757 772 824 876 891 909 924 937 1007 1011 1102 1115 1134 1145 1199 1213 1237 1256 1266 1273 1285 1311 1321 1375 1406 1420 1503 1509 1549 1653 1662 1664 1709 1714 1721 1740 1751 1793 1812 1845 1858 1869 1890 1897 1957 2000 2088 2111 2127 2154 2166 2175 2214 2232 2257 2260 2267 2300 2310 2324 2330 2348 2364 2425 2430 2444 2469 2515 2519 2549 2559 2602 2631 2649 2691 2733 2760 2766 2778 2785 2793 2802 2807 2842 2860 2904 2914 2927 2986 3031 
+completing Gravitational_lens.txt 1 1103 
+discussed Gravitational_lens.txt 1 2774 
+recognized Gravitational_lens.txt 1 1574 
+orbit Gravitational_lens.txt 1 2661 
+estimator Gravitational_lens.txt 1 2854 
+act Gravitational_lens.txt 5 199 932 1416 1540 2739 
+efforts Gravitational_lens.txt 1 1696 
+consequently Gravitational_lens.txt 1 337 
+or Gravitational_lens.txt 8 59 475 494 858 1680 1703 1853 2581 
+seeing Gravitational_lens.txt 1 759 
+equally Gravitational_lens.txt 1 933 
+letters Gravitational_lens.txt 3 2378 2455 2472 
+previously Gravitational_lens.txt 1 2338 
+image Gravitational_lens.txt 8 42 246 480 993 1003 1943 2920 2930 
+within Gravitational_lens.txt 1 2286 
+obtaining Gravitational_lens.txt 1 2058 
+liebes Gravitational_lens.txt 1 1570 
+predictions Gravitational_lens.txt 1 121 
+lensing Gravitational_lens.txt 33 111 228 396 418 485 553 561 564 584 619 664 703 721 835 878 945 1299 1469 1701 1734 1912 2003 2192 2326 2345 2408 2416 2491 2534 2812 2875 2892 2907 
+references Gravitational_lens.txt 2 3077 3079 
+artists Gravitational_lens.txt 1 240 
+speculated Gravitational_lens.txt 1 1466 
+proportional Gravitational_lens.txt 1 2934 
+ellipse Gravitational_lens.txt 1 2954 
+area Gravitational_lens.txt 1 682 
+segment Gravitational_lens.txt 1 431 
+there Gravitational_lens.txt 4 421 555 566 979 
+class Gravitational_lens.txt 1 1982 
+squires Gravitational_lens.txt 1 2823 
+physicists Gravitational_lens.txt 1 1465 
+way Gravitational_lens.txt 3 608 843 2278 
+probes Gravitational_lens.txt 2 2606 2633 
+was Gravitational_lens.txt 19 204 211 360 435 1082 1137 1228 1302 1386 1442 1557 1589 1626 2337 2385 2418 2449 2709 2769 
+function Gravitational_lens.txt 2 746 2846 
+himself Gravitational_lens.txt 1 471 
+newtonian Gravitational_lens.txt 2 1047 1916 
+forming Gravitational_lens.txt 1 278 
+but Gravitational_lens.txt 7 138 276 346 821 1472 2716 3027 
+collected Gravitational_lens.txt 2 2097 2117 
+hemisphere Gravitational_lens.txt 3 1976 2042 2053 
+link Gravitational_lens.txt 1 151 
+gain Gravitational_lens.txt 1 2664 
+solar Gravitational_lens.txt 7 377 1014 1175 1181 2252 2538 2780 
+larger Gravitational_lens.txt 1 2752 
+magellanic Gravitational_lens.txt 1 1682 
+line Gravitational_lens.txt 3 349 405 2679 
+with Gravitational_lens.txt 9 156 173 472 848 882 2205 2502 2917 3013 
+he Gravitational_lens.txt 2 1425 1435 
+made Gravitational_lens.txt 5 1194 1307 1316 1351 2317 
+characteristic Gravitational_lens.txt 1 279 
+gravitational Gravitational_lens.txt 39 0 20 51 67 110 201 227 258 311 339 357 378 549 560 702 930 1298 1421 1468 1513 1585 1596 1624 1700 1733 1798 1837 1911 1939 1959 1971 2168 2325 2344 2389 2490 2533 2539 2592 
+maximum Gravitational_lens.txt 1 315 
+planet Gravitational_lens.txt 1 2285 
+placed Gravitational_lens.txt 1 36 
+frequency Gravitational_lens.txt 2 2149 2162 
+spectroscopy Gravitational_lens.txt 1 2439 
+distribution Gravitational_lens.txt 3 71 679 687 
+similar Gravitational_lens.txt 2 2037 2078 
+called Gravitational_lens.txt 1 1534 
+x-ray Gravitational_lens.txt 1 968 
+regimes Gravitational_lens.txt 1 969 
+celestial Gravitational_lens.txt 1 1155 
+associated Gravitational_lens.txt 1 172 
+defined Gravitational_lens.txt 1 1926 
+universal Gravitational_lens.txt 1 1888 
+year Gravitational_lens.txt 1 1688 
+al Gravitational_lens.txt 2 2185 2833 
+general Gravitational_lens.txt 9 126 144 1104 1322 1337 1376 1730 1745 1789 
+dear Gravitational_lens.txt 1 1361 
+as Gravitational_lens.txt 43 7 19 75 98 109 200 284 412 462 490 572 623 955 957 970 1058 1080 1147 1280 1417 1424 1470 1541 1604 1676 1698 1809 1842 1855 1927 1936 2055 2057 2113 2171 2190 2393 2590 2611 2635 2673 2743 2884 
+au Gravitational_lens.txt 1 2730 
+at Gravitational_lens.txt 10 1536 1876 2146 2224 2281 2382 2578 2675 2740 2751 
+planets Gravitational_lens.txt 3 2249 2642 2645 
+formulation Gravitational_lens.txt 1 1374 
+20 Gravitational_lens.txt 2 2092 2147 
+check Gravitational_lens.txt 1 795 
+metric Gravitational_lens.txt 1 1802 
+physical Gravitational_lens.txt 1 2470 
+high Gravitational_lens.txt 3 2161 2663 2783 
+extending Gravitational_lens.txt 1 2321 
+compared Gravitational_lens.txt 1 2202 
+no Gravitational_lens.txt 3 342 387 814 
+percent Gravitational_lens.txt 1 617 
+detail Gravitational_lens.txt 1 2231 
+shearing Gravitational_lens.txt 1 2850 
+field Gravitational_lens.txt 4 379 665 1514 1674 
+lsst Gravitational_lens.txt 1 3034 
+other Gravitational_lens.txt 5 797 1002 1464 1774 2059 
+5 Gravitational_lens.txt 1 2287 
+papers Gravitational_lens.txt 1 3075 
+department Gravitational_lens.txt 1 2309 
+2006 Gravitational_lens.txt 1 2186 
+conclusion Gravitational_lens.txt 1 1477 
+deviation Gravitational_lens.txt 1 1508 
+kinds Gravitational_lens.txt 1 936 
+ogle-2016-blg-1195lb Gravitational_lens.txt 1 1717 
+remarked Gravitational_lens.txt 1 367 
+distance Gravitational_lens.txt 4 1878 2580 2622 2701 
+interferometric Gravitational_lens.txt 1 2215 
+lens Gravitational_lens.txt 29 1 21 30 52 68 268 309 312 340 352 383 514 541 640 975 1422 1545 1586 1597 1625 1787 1978 2390 2448 2540 2593 2671 2735 2809 
+important Gravitational_lens.txt 4 729 776 805 2189 
+peak Gravitational_lens.txt 1 1639 
+astronomy Gravitational_lens.txt 1 2358 
+needed Gravitational_lens.txt 1 2612 
+billion Gravitational_lens.txt 1 888 
+furthest Gravitational_lens.txt 1 333 
+independently Gravitational_lens.txt 1 1575 
+1804 Gravitational_lens.txt 1 1042 
+remote Gravitational_lens.txt 3 4 27 856 
+undisturbed Gravitational_lens.txt 1 1846 
+1801 Gravitational_lens.txt 1 1039 
+proposed Gravitational_lens.txt 1 2710 
+coherent Gravitational_lens.txt 1 611 
+daily Gravitational_lens.txt 1 2297 
+2002 Gravitational_lens.txt 1 2268 
+nasa Gravitational_lens.txt 1 2396 
+mass Gravitational_lens.txt 8 16 486 678 884 1391 1415 1551 1874 
+2007 Gravitational_lens.txt 1 2270 
+time Gravitational_lens.txt 6 833 984 1538 2265 2384 3049 
+2009 Gravitational_lens.txt 1 2293 
+resolution Gravitational_lens.txt 1 2226 
+original Gravitational_lens.txt 1 407 

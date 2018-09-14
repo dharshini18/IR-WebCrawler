@@ -1,0 +1,104 @@
+bright Plage_(astronomy).txt 2 7 43 
+consists Plage_(astronomy).txt 1 97 
+follow Plage_(astronomy).txt 1 119 
+monitor Plage_(astronomy).txt 1 89 
+explain Plage_(astronomy).txt 1 126 
+to Plage_(astronomy).txt 4 41 88 110 118 
+hidden Plage_(astronomy).txt 1 155 
+between Plage_(astronomy).txt 1 140 
+closely Plage_(astronomy).txt 1 40 
+not Plage_(astronomy).txt 1 147 
+categories Plage_(astronomy).txt 2 154 156 
+areas Plage_(astronomy).txt 1 84 
+term Plage_(astronomy).txt 1 25 
+edit Plage_(astronomy).txt 2 150 153 
+found Plage_(astronomy).txt 1 16 
+smaller Plage_(astronomy).txt 1 55 
+poetically Plage_(astronomy).txt 1 28 
+photospheric Plage_(astronomy).txt 1 131 
+are Plage_(astronomy).txt 1 86 
+what Plage_(astronomy).txt 1 135 
+network Plage_(astronomy).txt 2 96 121 
+for Plage_(astronomy).txt 1 34 
+sun Plage_(astronomy).txt 2 14 115 
+away Plage_(astronomy).txt 1 102 
+wikipedia Plage_(astronomy).txt 1 2 
+near Plage_(astronomy).txt 2 22 63 
+boundaries Plage_(astronomy).txt 1 122 
+chromosphere Plage_(astronomy).txt 2 11 21 
+occurs Plage_(astronomy).txt 1 60 
+faculae Plage_(astronomy).txt 4 45 67 127 143 
+be Plage_(astronomy).txt 1 145 
+we Plage_(astronomy).txt 1 124 
+brightenings Plage_(astronomy).txt 1 100 
+sunspot Plage_(astronomy).txt 1 65 
+french Plage_(astronomy).txt 1 32 
+plage-like Plage_(astronomy).txt 1 99 
+magnetism Plage_(astronomy).txt 1 108 
+active Plage_(astronomy).txt 2 95 104 
+strong Plage_(astronomy).txt 1 70 
+appears Plage_(astronomy).txt 1 109 
+on Plage_(astronomy).txt 1 72 
+actual Plage_(astronomy).txt 1 137 
+most Plage_(astronomy).txt 1 61 
+of Plage_(astronomy).txt 3 12 19 98 
+region Plage_(astronomy).txt 2 8 66 
+quiet Plage_(astronomy).txt 1 114 
+context Plage_(astronomy).txt 1 94 
+scales Plage_(astronomy).txt 1 57 
+wall Plage_(astronomy).txt 1 133 
+into Plage_(astronomy).txt 1 112 
+visibly Plage_(astronomy).txt 1 62 
+because Plage_(astronomy).txt 2 81 123 
+references Plage_(astronomy).txt 1 149 
+readily Plage_(astronomy).txt 1 79 
+from Plage_(astronomy).txt 2 30 103 
+strictly Plage_(astronomy).txt 1 130 
+spots Plage_(astronomy).txt 1 44 
+their Plage_(astronomy).txt 1 107 
+accordingly Plage_(astronomy).txt 1 58 
+much Plage_(astronomy).txt 1 54 
+taken Plage_(astronomy).txt 1 29 
+more Plage_(astronomy).txt 1 78 
+relationship Plage_(astronomy).txt 1 139 
+but Plage_(astronomy).txt 2 50 116 
+external Plage_(astronomy).txt 1 151 
+solar Plage_(astronomy).txt 1 74 
+with Plage_(astronomy).txt 1 128 
+diffuse Plage_(astronomy).txt 1 111 
+word Plage_(astronomy).txt 1 33 
+this Plage_(astronomy).txt 2 90 93 
+below Plage_(astronomy).txt 1 49 
+can Plage_(astronomy).txt 1 125 
+detectable Plage_(astronomy).txt 1 80 
+and Plage_(astronomy).txt 2 76 142 
+constant Plage_(astronomy).txt 1 75 
+links Plage_(astronomy).txt 1 152 
+is Plage_(astronomy).txt 3 5 27 146 
+chromospheric Plage_(astronomy).txt 1 82 
+influence Plage_(astronomy).txt 2 71 91 
+as Plage_(astronomy).txt 1 106 
+itself Plage_(astronomy).txt 1 26 
+have Plage_(astronomy).txt 2 53 68 
+in Plage_(astronomy).txt 4 9 17 46 92 
+constrained Plage_(astronomy).txt 1 117 
+physical Plage_(astronomy).txt 1 138 
+traditionally Plage_(astronomy).txt 1 85 
+latter Plage_(astronomy).txt 1 52 
+regions Plage_(astronomy).txt 3 18 38 105 
+hot Plage_(astronomy).txt 1 132 
+spatial Plage_(astronomy).txt 1 56 
+photosphere Plage_(astronomy).txt 1 48 
+beach Plage_(astronomy).txt 1 35 
+map Plage_(astronomy).txt 1 39 
+used Plage_(astronomy).txt 1 87 
+may Plage_(astronomy).txt 1 144 
+extending Plage_(astronomy).txt 1 101 
+astronomy Plage_(astronomy).txt 1 1 
+model Plage_(astronomy).txt 1 134 
+sunspots Plage_(astronomy).txt 1 23 
+a Plage_(astronomy).txt 4 3 6 64 69 
+plage Plage_(astronomy).txt 6 0 4 37 59 83 141 
+clear Plage_(astronomy).txt 1 148 
+the Plage_(astronomy).txt 15 10 13 20 24 31 36 42 47 51 73 77 113 120 129 136 
+typically Plage_(astronomy).txt 1 15 

@@ -1,0 +1,373 @@
+all Lunar_sample_displays.txt 3 219 282 351 
+astronauts Lunar_sample_displays.txt 1 247 
+four Lunar_sample_displays.txt 1 124 
+consists Lunar_sample_displays.txt 1 191 
+cyprus Lunar_sample_displays.txt 1 412 
+jamaica Lunar_sample_displays.txt 1 447 
+young Lunar_sample_displays.txt 1 299 
+to Lunar_sample_displays.txt 9 9 21 63 163 297 320 350 550 621 
+program Lunar_sample_displays.txt 1 244 
+presentation Lunar_sample_displays.txt 1 151 
+ghana Lunar_sample_displays.txt 1 429 
+very Lunar_sample_displays.txt 1 256 
+categories Lunar_sample_displays.txt 1 692 
+mauritania Lunar_sample_displays.txt 1 465 
+wooden Lunar_sample_displays.txt 1 222 
+philippines Lunar_sample_displays.txt 1 487 
+saudi Lunar_sample_displays.txt 1 494 
+small Lunar_sample_displays.txt 3 42 137 212 
+upper Lunar_sample_displays.txt 1 527 
+samoa Lunar_sample_displays.txt 2 358 541 
+270 Lunar_sample_displays.txt 1 607 
+displays Lunar_sample_displays.txt 6 2 35 341 347 374 547 
+picked Lunar_sample_displays.txt 1 253 
+hungary Lunar_sample_displays.txt 1 436 
+afghanistan Lunar_sample_displays.txt 1 375 
+rice-size Lunar_sample_displays.txt 1 125 
+richard Lunar_sample_displays.txt 2 85 148 
+panama Lunar_sample_displays.txt 1 484 
+current Lunar_sample_displays.txt 3 398 529 595 
+somalia Lunar_sample_displays.txt 1 500 
+new Lunar_sample_displays.txt 1 477 
+consisting Lunar_sample_displays.txt 2 40 122 
+iran Lunar_sample_displays.txt 1 442 
+here Lunar_sample_displays.txt 1 264 
+china Lunar_sample_displays.txt 1 403 
+iraq Lunar_sample_displays.txt 1 443 
+receive Lunar_sample_displays.txt 1 583 
+oman Lunar_sample_displays.txt 1 473 
+mauritius Lunar_sample_displays.txt 1 466 
+composed Lunar_sample_displays.txt 1 270 
+egypt Lunar_sample_displays.txt 1 419 
+africa Lunar_sample_displays.txt 1 502 
+brought Lunar_sample_displays.txt 2 47 156 
+austria Lunar_sample_displays.txt 1 381 
+trinidad Lunar_sample_displays.txt 1 519 
+from Lunar_sample_displays.txt 2 197 281 
+would Lunar_sample_displays.txt 1 236 
+rico Lunar_sample_displays.txt 1 365 
+two Lunar_sample_displays.txt 3 37 136 211 
+france Lunar_sample_displays.txt 1 426 
+territories Lunar_sample_displays.txt 2 80 356 
+rwanda Lunar_sample_displays.txt 1 491 
+peru Lunar_sample_displays.txt 1 486 
+malawi Lunar_sample_displays.txt 1 460 
+more Lunar_sample_displays.txt 1 675 
+possession Lunar_sample_displays.txt 1 566 
+israel Lunar_sample_displays.txt 1 445 
+basalt Lunar_sample_displays.txt 1 205 
+flag Lunar_sample_displays.txt 2 134 209 
+sample Lunar_sample_displays.txt 10 1 16 27 34 107 113 183 189 308 340 
+locked Lunar_sample_displays.txt 1 648 
+salvador Lunar_sample_displays.txt 1 421 
+this Lunar_sample_displays.txt 1 303 
+labeled Lunar_sample_displays.txt 1 307 
+mali Lunar_sample_displays.txt 1 463 
+following Lunar_sample_displays.txt 1 371 
+yemen Lunar_sample_displays.txt 2 506 542 
+didnt Lunar_sample_displays.txt 1 582 
+uruguay Lunar_sample_displays.txt 1 532 
+india Lunar_sample_displays.txt 1 438 
+states Lunar_sample_displays.txt 8 72 76 83 169 330 346 353 369 
+lesotho Lunar_sample_displays.txt 1 454 
+united Lunar_sample_displays.txt 8 24 75 82 345 368 525 552 579 
+end Lunar_sample_displays.txt 1 227 
+cuba Lunar_sample_displays.txt 1 411 
+czechoslovakia Lunar_sample_displays.txt 1 413 
+description Lunar_sample_displays.txt 1 91 
+southern Lunar_sample_displays.txt 1 505 
+president Lunar_sample_displays.txt 3 84 147 310 
+lanka Lunar_sample_displays.txt 1 400 
+a Lunar_sample_displays.txt 7 116 193 198 221 255 294 563 
+third Lunar_sample_displays.txt 1 230 
+african Lunar_sample_displays.txt 1 395 
+typical Lunar_sample_displays.txt 1 259 
+years Lunar_sample_displays.txt 1 290 
+135 Lunar_sample_displays.txt 3 67 164 321 
+japan Lunar_sample_displays.txt 1 448 
+volta Lunar_sample_displays.txt 1 528 
+its Lunar_sample_displays.txt 1 78 
+style Lunar_sample_displays.txt 1 119 
+mongolia Lunar_sample_displays.txt 1 469 
+puerto Lunar_sample_displays.txt 1 364 
+argentina Lunar_sample_displays.txt 1 379 
+main Lunar_sample_displays.txt 3 102 178 598 
+norway Lunar_sample_displays.txt 2 96 482 
+eugene Lunar_sample_displays.txt 1 248 
+descriptive Lunar_sample_displays.txt 2 142 217 
+recipients Lunar_sample_displays.txt 3 133 208 337 
+fragment Lunar_sample_displays.txt 1 196 
+they Lunar_sample_displays.txt 1 589 
+liberia Lunar_sample_displays.txt 1 455 
+netherlands Lunar_sample_displays.txt 1 476 
+edit Lunar_sample_displays.txt 7 92 95 172 342 597 689 691 
+identified Lunar_sample_displays.txt 1 202 
+rocks Lunar_sample_displays.txt 9 7 100 131 604 611 617 641 658 677 
+rock Lunar_sample_displays.txt 5 155 195 258 304 319 
+el Lunar_sample_displays.txt 1 420 
+honduras Lunar_sample_displays.txt 2 173 435 
+special Lunar_sample_displays.txt 1 295 
+canada Lunar_sample_displays.txt 1 392 
+kuwait Lunar_sample_displays.txt 1 451 
+nepal Lunar_sample_displays.txt 1 475 
+commemorative Lunar_sample_displays.txt 3 38 117 223 
+ceylon Lunar_sample_displays.txt 1 397 
+venezuela Lunar_sample_displays.txt 1 535 
+difficulty Lunar_sample_displays.txt 1 672 
+marino Lunar_sample_displays.txt 1 493 
+dubbed Lunar_sample_displays.txt 1 129 
+finland Lunar_sample_displays.txt 1 425 
+messages Lunar_sample_displays.txt 2 143 218 
+british Lunar_sample_displays.txt 1 564 
+american Lunar_sample_displays.txt 1 357 
+1970s Lunar_sample_displays.txt 1 62 
+syria Lunar_sample_displays.txt 1 514 
+south Lunar_sample_displays.txt 3 501 503 536 
+romania Lunar_sample_displays.txt 1 490 
+burkina Lunar_sample_displays.txt 1 530 
+guam Lunar_sample_displays.txt 1 359 
+congo Lunar_sample_displays.txt 2 405 407 
+colombia Lunar_sample_displays.txt 1 404 
+niger Lunar_sample_displays.txt 1 480 
+fiji Lunar_sample_displays.txt 1 557 
+city Lunar_sample_displays.txt 1 534 
+given Lunar_sample_displays.txt 4 59 349 549 620 
+heads Lunar_sample_displays.txt 1 323 
+70017 Lunar_sample_displays.txt 2 206 309 
+forgery Lunar_sample_displays.txt 1 684 
+approximately Lunar_sample_displays.txt 1 631 
+bahamas Lunar_sample_displays.txt 1 554 
+their Lunar_sample_displays.txt 2 229 668 
+180 Lunar_sample_displays.txt 1 632 
+swaziland Lunar_sample_displays.txt 1 511 
+nigeria Lunar_sample_displays.txt 1 481 
+final Lunar_sample_displays.txt 1 232 
+ecuador Lunar_sample_displays.txt 1 418 
+mariana Lunar_sample_displays.txt 1 361 
+that Lunar_sample_displays.txt 4 561 569 618 642 
+part Lunar_sample_displays.txt 1 12 
+jordan Lunar_sample_displays.txt 1 449 
+western Lunar_sample_displays.txt 1 540 
+11 Lunar_sample_displays.txt 9 20 52 94 98 105 111 160 587 609 
+valley Lunar_sample_displays.txt 1 267 
+17 Lunar_sample_displays.txt 9 31 55 171 177 181 187 246 594 614 
+specimens Lunar_sample_displays.txt 1 128 
+nations Lunar_sample_displays.txt 2 553 623 
+solomon Lunar_sample_displays.txt 1 558 
+emirates Lunar_sample_displays.txt 1 581 
+were Lunar_sample_displays.txt 4 333 348 548 619 
+and Lunar_sample_displays.txt 23 53 58 77 135 166 210 231 234 250 277 292 326 354 363 472 520 544 578 601 612 664 670 683 
+san Lunar_sample_displays.txt 1 492 
+well Lunar_sample_displays.txt 1 686 
+uganda Lunar_sample_displays.txt 1 524 
+burundi Lunar_sample_displays.txt 1 390 
+botswana Lunar_sample_displays.txt 1 386 
+contents Lunar_sample_displays.txt 1 90 
+u.s Lunar_sample_displays.txt 1 329 
+malta Lunar_sample_displays.txt 1 464 
+also Lunar_sample_displays.txt 2 546 688 
+subjects Lunar_sample_displays.txt 1 680 
+cameroon Lunar_sample_displays.txt 1 391 
+province Lunar_sample_displays.txt 1 573 
+iceland Lunar_sample_displays.txt 1 437 
+what Lunar_sample_displays.txt 2 235 261 
+germany Lunar_sample_displays.txt 1 539 
+significant Lunar_sample_displays.txt 1 257 
+the Lunar_sample_displays.txt 33 10 22 32 50 61 64 70 74 109 132 185 207 226 238 242 266 285 298 313 318 327 344 367 370 551 606 622 625 628 639 654 657 671 
+zealand Lunar_sample_displays.txt 1 478 
+equatorial Lunar_sample_displays.txt 1 422 
+tonga Lunar_sample_displays.txt 1 577 
+goodwill Lunar_sample_displays.txt 2 88 615 
+tanzania Lunar_sample_displays.txt 1 516 
+later Lunar_sample_displays.txt 1 306 
+metal Lunar_sample_displays.txt 2 138 213 
+liechtenstein Lunar_sample_displays.txt 1 457 
+accounted Lunar_sample_displays.txt 1 644 
+plaque Lunar_sample_displays.txt 3 120 174 224 
+senegal Lunar_sample_displays.txt 1 496 
+earth Lunar_sample_displays.txt 1 302 
+northern Lunar_sample_displays.txt 1 360 
+distributed Lunar_sample_displays.txt 1 334 
+outside Lunar_sample_displays.txt 1 366 
+brazzaville Lunar_sample_displays.txt 1 406 
+sierra Lunar_sample_displays.txt 1 497 
+rica Lunar_sample_displays.txt 1 410 
+bahrain Lunar_sample_displays.txt 1 555 
+cernan Lunar_sample_displays.txt 1 249 
+zambia Lunar_sample_displays.txt 1 545 
+coast Lunar_sample_displays.txt 1 441 
+guatemala Lunar_sample_displays.txt 1 431 
+theft Lunar_sample_displays.txt 1 682 
+haiti Lunar_sample_displays.txt 1 434 
+countries Lunar_sample_displays.txt 3 68 165 372 
+denmark Lunar_sample_displays.txt 1 415 
+switzerland Lunar_sample_displays.txt 1 513 
+bulgaria Lunar_sample_displays.txt 1 388 
+albania Lunar_sample_displays.txt 1 376 
+see Lunar_sample_displays.txt 1 687 
+yugoslavia Lunar_sample_displays.txt 1 543 
+are Lunar_sample_displays.txt 3 36 633 643 
+greece Lunar_sample_displays.txt 1 430 
+rarity Lunar_sample_displays.txt 1 669 
+brazil Lunar_sample_displays.txt 1 387 
+guinea Lunar_sample_displays.txt 2 423 432 
+away Lunar_sample_displays.txt 1 649 
+currently Lunar_sample_displays.txt 1 634 
+wikipedia Lunar_sample_displays.txt 1 3 
+sweden Lunar_sample_displays.txt 1 512 
+state Lunar_sample_displays.txt 1 325 
+probably Lunar_sample_displays.txt 1 280 
+nauru Lunar_sample_displays.txt 1 474 
+we Lunar_sample_displays.txt 1 262 
+korea Lunar_sample_displays.txt 1 504 
+missing Lunar_sample_displays.txt 1 602 
+guyana Lunar_sample_displays.txt 1 433 
+dedication Lunar_sample_displays.txt 1 296 
+article Lunar_sample_displays.txt 3 103 179 599 
+received Lunar_sample_displays.txt 2 373 590 
+last Lunar_sample_displays.txt 1 239 
+missions Lunar_sample_displays.txt 1 57 
+libya Lunar_sample_displays.txt 1 456 
+many Lunar_sample_displays.txt 4 272 275 278 637 
+foreign Lunar_sample_displays.txt 1 322 
+pakistan Lunar_sample_displays.txt 1 483 
+tunisia Lunar_sample_displays.txt 1 522 
+turkey Lunar_sample_displays.txt 1 523 
+union Lunar_sample_displays.txt 1 508 
+west Lunar_sample_displays.txt 1 538 
+been Lunar_sample_displays.txt 3 647 660 679 
+ireland Lunar_sample_displays.txt 1 444 
+laos Lunar_sample_displays.txt 1 452 
+location Lunar_sample_displays.txt 1 655 
+algeria Lunar_sample_displays.txt 1 377 
+togo Lunar_sample_displays.txt 1 518 
+chile Lunar_sample_displays.txt 1 402 
+spain Lunar_sample_displays.txt 1 509 
+stolen Lunar_sample_displays.txt 1 600 
+these Lunar_sample_displays.txt 1 331 
+decades Lunar_sample_displays.txt 1 653 
+near Lunar_sample_displays.txt 1 225 
+have Lunar_sample_displays.txt 3 263 646 678 
+portugal Lunar_sample_displays.txt 2 489 575 
+mexico Lunar_sample_displays.txt 1 467 
+is Lunar_sample_displays.txt 1 115 
+in Lunar_sample_displays.txt 7 60 144 265 335 560 568 650 
+arabia Lunar_sample_displays.txt 1 495 
+kenya Lunar_sample_displays.txt 1 450 
+italy Lunar_sample_displays.txt 1 446 
+perhaps Lunar_sample_displays.txt 1 287 
+administration Lunar_sample_displays.txt 1 630 
+lava Lunar_sample_displays.txt 1 199 
+ethiopia Lunar_sample_displays.txt 1 424 
+parts Lunar_sample_displays.txt 1 283 
+plates Lunar_sample_displays.txt 2 139 214 
+singapore Lunar_sample_displays.txt 1 499 
+dust Lunar_sample_displays.txt 1 126 
+costa Lunar_sample_displays.txt 1 409 
+poland Lunar_sample_displays.txt 1 488 
+indonesia Lunar_sample_displays.txt 1 439 
+1973 Lunar_sample_displays.txt 1 336 
+1970 Lunar_sample_displays.txt 1 145 
+monaco Lunar_sample_displays.txt 1 468 
+taurus-littrow Lunar_sample_displays.txt 1 269 
+soviet Lunar_sample_displays.txt 1 507 
+leone Lunar_sample_displays.txt 1 498 
+left Lunar_sample_displays.txt 1 11 
+gambia Lunar_sample_displays.txt 1 428 
+moonwalk Lunar_sample_displays.txt 2 233 240 
+harrison Lunar_sample_displays.txt 1 251 
+taiwan Lunar_sample_displays.txt 1 515 
+barbados Lunar_sample_displays.txt 1 382 
+bhutan Lunar_sample_displays.txt 1 384 
+andorra Lunar_sample_displays.txt 1 378 
+4 Lunar_sample_displays.txt 1 355 
+samples Lunar_sample_displays.txt 1 152 
+has Lunar_sample_displays.txt 1 659 
+gave Lunar_sample_displays.txt 1 150 
+kingdom Lunar_sample_displays.txt 2 25 526 
+australia Lunar_sample_displays.txt 1 380 
+fate Lunar_sample_displays.txt 1 596 
+specimen Lunar_sample_displays.txt 1 46 
+arab Lunar_sample_displays.txt 1 580 
+belgium Lunar_sample_displays.txt 1 383 
+world Lunar_sample_displays.txt 1 626 
+particle Lunar_sample_displays.txt 1 127 
+sizes Lunar_sample_displays.txt 1 276 
+schmitt Lunar_sample_displays.txt 1 252 
+50 Lunar_sample_displays.txt 4 71 167 328 352 
+shapes Lunar_sample_displays.txt 1 279 
+worldwide Lunar_sample_displays.txt 1 69 
+right Lunar_sample_displays.txt 1 23 
+old Lunar_sample_displays.txt 1 291 
+people Lunar_sample_displays.txt 2 65 300 
+lebanon Lunar_sample_displays.txt 1 453 
+back Lunar_sample_displays.txt 2 48 157 
+malaysia Lunar_sample_displays.txt 1 461 
+dahomey Lunar_sample_displays.txt 1 414 
+mozambique Lunar_sample_displays.txt 1 567 
+examples Lunar_sample_displays.txt 1 4 
+nicaragua Lunar_sample_displays.txt 1 479 
+qatar Lunar_sample_displays.txt 1 576 
+tracked Lunar_sample_displays.txt 1 661 
+for Lunar_sample_displays.txt 3 636 645 652 
+sudan Lunar_sample_displays.txt 1 510 
+tobago Lunar_sample_displays.txt 1 521 
+luxembourg Lunar_sample_displays.txt 1 458 
+moon Lunar_sample_displays.txt 13 6 45 99 130 154 194 200 286 603 610 616 640 676 
+lunar Lunar_sample_displays.txt 11 0 15 26 33 56 106 112 182 188 204 339 
+gabon Lunar_sample_displays.txt 1 427 
+fragments Lunar_sample_displays.txt 3 43 273 316 
+muscat Lunar_sample_displays.txt 1 471 
+be Lunar_sample_displays.txt 1 237 
+thailand Lunar_sample_displays.txt 1 517 
+by Lunar_sample_displays.txt 4 81 158 627 662 
+stone Lunar_sample_displays.txt 1 201 
+central Lunar_sample_displays.txt 1 394 
+of Lunar_sample_displays.txt 35 5 13 18 29 41 44 66 73 123 153 175 192 228 241 260 268 271 274 284 289 301 315 317 324 338 574 585 592 605 624 638 656 667 673 681 
+sri Lunar_sample_displays.txt 1 399 
+islands Lunar_sample_displays.txt 2 362 559 
+nixon Lunar_sample_displays.txt 4 86 149 311 629 
+burma Lunar_sample_displays.txt 1 389 
+obtaining Lunar_sample_displays.txt 1 674 
+billions Lunar_sample_displays.txt 1 288 
+because Lunar_sample_displays.txt 1 666 
+references Lunar_sample_displays.txt 1 690 
+madagascar Lunar_sample_displays.txt 1 459 
+bangladesh Lunar_sample_displays.txt 1 556 
+faso Lunar_sample_displays.txt 1 531 
+researchers Lunar_sample_displays.txt 1 663 
+bolivia Lunar_sample_displays.txt 1 385 
+was Lunar_sample_displays.txt 1 305 
+ivory Lunar_sample_displays.txt 1 440 
+but Lunar_sample_displays.txt 1 588 
+apollo Lunar_sample_displays.txt 19 19 30 51 54 93 97 104 110 159 170 176 180 186 243 245 586 593 608 613 
+with Lunar_sample_displays.txt 3 49 141 216 
+made Lunar_sample_displays.txt 1 293 
+dominican Lunar_sample_displays.txt 1 416 
+inside Lunar_sample_displays.txt 2 220 343 
+attached Lunar_sample_displays.txt 2 140 215 
+up Lunar_sample_displays.txt 1 254 
+us Lunar_sample_displays.txt 2 146 168 
+morocco Lunar_sample_displays.txt 1 470 
+vatican Lunar_sample_displays.txt 1 533 
+distribution Lunar_sample_displays.txt 1 314 
+display Lunar_sample_displays.txt 11 8 17 28 101 108 114 121 184 190 584 591 
+ordered Lunar_sample_displays.txt 1 312 
+chad Lunar_sample_displays.txt 1 401 
+an Lunar_sample_displays.txt 1 571 
+as Lunar_sample_displays.txt 4 87 161 203 685 
+paraguay Lunar_sample_displays.txt 1 485 
+plaques Lunar_sample_displays.txt 1 39 
+kinshasa Lunar_sample_displays.txt 1 408 
+storage Lunar_sample_displays.txt 1 651 
+cambodia Lunar_sample_displays.txt 1 393 
+hobbyists Lunar_sample_displays.txt 1 665 
+republic Lunar_sample_displays.txt 2 396 417 
+unaccounted Lunar_sample_displays.txt 1 635 
+gifts Lunar_sample_displays.txt 3 89 162 332 
+podium Lunar_sample_displays.txt 1 118 
+massachusetts Lunar_sample_displays.txt 1 14 
+maldives Lunar_sample_displays.txt 1 462 
+vietnam Lunar_sample_displays.txt 1 537 
+time Lunar_sample_displays.txt 2 562 570 
+overseas Lunar_sample_displays.txt 3 79 565 572 

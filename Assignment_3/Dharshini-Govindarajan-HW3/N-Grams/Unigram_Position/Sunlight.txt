@@ -1,0 +1,1165 @@
+irradiance Sunlight.txt 14 149 781 839 856 1140 1250 1255 1262 1365 1382 2077 2433 2470 2501 
+limited Sunlight.txt 1 3135 
+all Sunlight.txt 4 1046 1205 2119 2542 
+measurements Sunlight.txt 1 2438 
+allowed Sunlight.txt 2 2691 2833 
+11-year Sunlight.txt 1 2455 
+suns Sunlight.txt 6 790 814 882 896 953 1838 
+magnetic Sunlight.txt 1 1328 
+varying Sunlight.txt 3 1225 2027 2114 
+critical Sunlight.txt 1 1352 
+yellow Sunlight.txt 1 2033 
+known Sunlight.txt 5 1704 2574 2654 3422 3471 
+disappears Sunlight.txt 1 3297 
+daytime Sunlight.txt 1 1554 
+skin Sunlight.txt 7 3187 3196 3255 3267 3430 3432 3544 
+go Sunlight.txt 2 3047 3142 
+follow Sunlight.txt 1 2868 
+disk Sunlight.txt 3 791 815 825 
+synthetic Sunlight.txt 1 2587 
+increase Sunlight.txt 3 2838 3261 3595 
+exist Sunlight.txt 1 2863 
+calculate Sunlight.txt 1 305 
+show Sunlight.txt 3 2051 2439 2494 
+to Sunlight.txt 81 42 138 211 246 248 267 282 304 327 353 393 440 481 504 597 605 610 615 827 837 901 946 1060 1096 1181 1199 1220 1242 1291 1353 1470 1548 1625 1666 1673 1705 1734 1858 1878 1957 1963 1979 2050 2054 2115 2207 2245 2362 2467 2498 2569 2593 2662 2673 2687 2693 2709 2725 2730 2772 2836 2865 2898 2925 2955 2975 3038 3041 3068 3148 3193 3209 3280 3283 3306 3423 3472 3487 3522 3574 3656 
+1930s Sunlight.txt 1 48 
+elliptic Sunlight.txt 2 318 340 
+issued Sunlight.txt 1 1106 
+hinduism Sunlight.txt 1 3063 
+include Sunlight.txt 2 3121 3383 
+hotter Sunlight.txt 1 3025 
+degeneration Sunlight.txt 1 3444 
+activities Sunlight.txt 1 286 
+esa Sunlight.txt 1 1288 
+outside Sunlight.txt 1 3048 
+very Sunlight.txt 4 752 877 1028 1607 
+listed Sunlight.txt 1 3467 
+rise Sunlight.txt 1 41 
+5,800 Sunlight.txt 1 912 
+conditions Sunlight.txt 4 1907 2043 2047 3168 
+results Sunlight.txt 1 2323 
+inhibiting Sunlight.txt 1 3388 
+perihelion Sunlight.txt 2 389 419 
+ultraviolet Sunlight.txt 12 67 182 618 637 650 888 988 1018 1393 3158 3284 3322 
+cellular Sunlight.txt 1 2656 
+affect Sunlight.txt 1 2389 
+reading Sunlight.txt 2 2933 3649 
+recalibrations Sunlight.txt 1 1232 
+cool Sunlight.txt 1 3043 
+entire Sunlight.txt 1 168 
+clouds Sunlight.txt 5 39 98 117 1557 2134 
+450650 Sunlight.txt 1 1939 
+level Sunlight.txt 4 493 734 2009 3631 
+wooden Sunlight.txt 1 2685 
+cause Sunlight.txt 3 2408 2951 3449 
+painting Sunlight.txt 1 2899 
+cosmogenic Sunlight.txt 1 2480 
+large Sunlight.txt 1 2853 
+mm Sunlight.txt 1 1063 
+supplement Sunlight.txt 1 3348 
+small Sunlight.txt 2 878 1029 
+relation Sunlight.txt 1 2053 
+sidewalk Sunlight.txt 1 3130 
+upper Sunlight.txt 2 835 1973 
+revolution Sunlight.txt 1 2714 
+buildings Sunlight.txt 1 2996 
+1120 Sunlight.txt 1 584 
+direct Sunlight.txt 16 91 148 444 553 573 651 998 1088 2012 2016 2039 2055 2128 2923 2980 3103 
+approximation Sunlight.txt 1 356 
+second Sunlight.txt 1 2247 
+cost Sunlight.txt 1 3553 
+timescales Sunlight.txt 1 1324 
+perfect Sunlight.txt 1 2199 
+further Sunlight.txt 7 1988 2084 2425 2461 2663 2721 3648 
+shining Sunlight.txt 2 37 2943 
+even Sunlight.txt 3 993 1656 3229 
+synthesis Sunlight.txt 1 3405 
+what Sunlight.txt 1 2866 
+aspects Sunlight.txt 1 2884 
+appear Sunlight.txt 1 1128 
+organisms Sunlight.txt 2 266 285 
+giving Sunlight.txt 2 40 2643 
+sun Sunlight.txt 37 61 84 152 219 228 274 395 496 506 560 749 915 927 965 984 1037 1198 1423 1477 1817 1873 2101 2225 2319 2552 2603 2940 2949 2978 2984 3065 3087 3200 3288 3394 3524 3546 
+harvests Sunlight.txt 1 2744 
+gardens Sunlight.txt 1 3128 
+near Sunlight.txt 3 1819 2122 2376 
+access Sunlight.txt 1 2724 
+extraterrestrial Sunlight.txt 2 333 532 
+experiment Sunlight.txt 1 1117 
+sur Sunlight.txt 1 2890 
+above Sunlight.txt 4 86 601 858 2102 
+obvious Sunlight.txt 1 79 
+avenues Sunlight.txt 1 1414 
+ground Sunlight.txt 4 312 492 581 2144 
+consisting Sunlight.txt 1 645 
+contrast Sunlight.txt 1 3573 
+body Sunlight.txt 3 906 2169 3279 
+devoted Sunlight.txt 1 2729 
+full Sunlight.txt 1 1679 
+respectively Sunlight.txt 1 1751 
+component Sunlight.txt 1 1741 
+sunspot Sunlight.txt 1 2456 
+here Sunlight.txt 1 4 
+understanding Sunlight.txt 1 1354 
+water Sunlight.txt 3 1981 1994 2568 
+parasols Sunlight.txt 1 3058 
+objects Sunlight.txt 3 122 1699 2147 
+focused Sunlight.txt 1 843 
+healing Sunlight.txt 1 3252 
+alone Sunlight.txt 1 2704 
+100 Sunlight.txt 2 483 1058 
+strong Sunlight.txt 1 3614 
+respect Sunlight.txt 1 1956 
+change Sunlight.txt 4 1362 2188 2326 2365 
+extreme Sunlight.txt 2 863 1017 
+obtained Sunlight.txt 1 3233 
+convert Sunlight.txt 2 268 942 
+incoming Sunlight.txt 1 1166 
+respiration Sunlight.txt 1 2657 
+pressure Sunlight.txt 2 3529 3584 
+receive Sunlight.txt 1 1463 
+k Sunlight.txt 1 913 
+30 Sunlight.txt 1 631 
+metre Sunlight.txt 2 706 803 
+typically Sunlight.txt 1 3133 
+mutagen Sunlight.txt 2 205 3345 
+amount Sunlight.txt 10 307 487 572 763 1030 1164 1265 1483 2162 2848 
+periodic Sunlight.txt 1 1333 
+products Sunlight.txt 2 2608 2618 
+published Sunlight.txt 2 1083 1110 
+usually Sunlight.txt 1 1787 
+changes Sunlight.txt 4 1953 2219 2356 2396 
+plotted Sunlight.txt 1 1151 
+useful Sunlight.txt 1 1928 
+extra Sunlight.txt 1 643 
+wikimedia Sunlight.txt 1 3659 
+verfny Sunlight.txt 1 2914 
+prefer Sunlight.txt 3 3016 3037 3221 
+increased Sunlight.txt 1 2722 
+organizations Sunlight.txt 1 3482 
+scaled Sunlight.txt 1 2049 
+visible Sunlight.txt 5 65 608 989 1213 2004 
+prehistory Sunlight.txt 1 2659 
+1st Sunlight.txt 2 362 366 
+limb Sunlight.txt 1 828 
+illumination Sunlight.txt 12 685 736 1539 1722 1728 1772 1916 1966 2010 2040 2046 2056 
+total Sunlight.txt 6 486 571 883 1248 1260 2236 
+tools Sunlight.txt 1 2755 
+unit Sunlight.txt 3 550 1171 1190 
+use Sunlight.txt 4 2558 2599 2999 3152 
+space-based Sunlight.txt 1 2429 
+from Sunlight.txt 24 26 150 214 272 494 576 971 980 1094 1196 1476 1496 1942 2223 2550 2601 2805 2934 2979 2994 3244 3286 3290 3370 
+takes Sunlight.txt 1 207 
+would Sunlight.txt 8 239 1174 1506 1561 1595 1602 1661 3362 
+0 Sunlight.txt 1 1095 
+remains Sunlight.txt 1 2241 
+positive Sunlight.txt 3 188 3328 3379 
+42 Sunlight.txt 1 604 
+petroleum Sunlight.txt 1 2780 
+negative Sunlight.txt 2 190 3330 
+intense Sunlight.txt 1 633 
+retinopathy Sunlight.txt 1 3456 
+comparing Sunlight.txt 1 1481 
+compensate Sunlight.txt 1 2956 
+therefore Sunlight.txt 3 397 1875 3460 
+taken Sunlight.txt 2 329 1583 
+enriched Sunlight.txt 1 2733 
+associated Sunlight.txt 4 2397 3212 3399 3425 
+cataracts Sunlight.txt 1 3441 
+reflects Sunlight.txt 2 119 1527 
+more Sunlight.txt 11 632 1246 1402 1528 1563 1827 2345 2695 2775 3520 3550 
+psoriasis Sunlight.txt 1 3245 
+avoidance Sunlight.txt 1 3547 
+comparison Sunlight.txt 2 1635 1654 
+started Sunlight.txt 1 2434 
+brings Sunlight.txt 1 475 
+pigment Sunlight.txt 1 3265 
+apparent Sunlight.txt 1 1762 
+corrected Sunlight.txt 2 337 448 
+watts Sunlight.txt 5 157 172 537 703 1295 
+oregon Sunlight.txt 1 1126 
+87269 Sunlight.txt 1 1717 
+98 Sunlight.txt 1 721 
+visual Sunlight.txt 1 1861 
+particular Sunlight.txt 1 63 
+eccentricity Sunlight.txt 3 315 2210 2218 
+lifestyle Sunlight.txt 1 3240 
+93 Sunlight.txt 2 659 708 
+harvest Sunlight.txt 1 2694 
+circle Sunlight.txt 1 2200 
+had Sunlight.txt 1 2747 
+states Sunlight.txt 1 3178 
+account Sunlight.txt 1 331 
+recombination Sunlight.txt 1 3600 
+animals Sunlight.txt 5 1865 1893 2598 2720 2745 
+room Sunlight.txt 2 689 1672 
+hour Sunlight.txt 1 179 
+10,000 Sunlight.txt 2 242 2485 
+this Sunlight.txt 16 379 666 746 831 972 1066 1446 1925 2341 2651 2665 2788 2856 2869 3203 3354 
+snow Sunlight.txt 1 3452 
+past Sunlight.txt 1 2476 
+averaged Sunlight.txt 1 757 
+accumulated Sunlight.txt 1 2825 
+intercepted Sunlight.txt 1 2165 
+theories Sunlight.txt 1 2862 
+0.98328989 Sunlight.txt 1 420 
+urbanism Sunlight.txt 1 2880 
+mw Sunlight.txt 1 800 
+regions Sunlight.txt 1 1077 
+dn1 Sunlight.txt 1 359 
+can Sunlight.txt 10 279 291 841 1072 1577 2342 2950 3161 3231 3349 
+dn3 Sunlight.txt 1 381 
+under Sunlight.txt 1 2041 
+example Sunlight.txt 4 1523 1936 2335 2683 
+sedna Sunlight.txt 1 1715 
+areal Sunlight.txt 1 2252 
+radiance Sunlight.txt 2 797 808 
+figure Sunlight.txt 1 700 
+mirrors Sunlight.txt 1 848 
+process Sunlight.txt 7 259 937 973 1003 2573 2652 2666 
+keplers Sunlight.txt 1 2246 
+high Sunlight.txt 4 753 2110 3527 3582 
+indicates Sunlight.txt 1 712 
+arise Sunlight.txt 1 1945 
+bones Sunlight.txt 1 3385 
+darkening Sunlight.txt 1 829 
+clothing Sunlight.txt 1 3138 
+tan Sunlight.txt 3 3201 3230 3295 
+simple Sunlight.txt 1 2571 
+axis Sunlight.txt 1 2228 
+1050 Sunlight.txt 3 567 702 783 
+information Sunlight.txt 2 2085 2426 
+needs Sunlight.txt 1 3486 
+rays Sunlight.txt 8 44 930 970 979 1023 1183 3458 3538 
+winter Sunlight.txt 5 2121 2333 2358 2386 2915 
+formed Sunlight.txt 1 2802 
+carbon Sunlight.txt 1 2565 
+divided Sunlight.txt 1 1074 
+means Sunlight.txt 1 681 
+damage Sunlight.txt 2 2954 3628 
+1 Sunlight.txt 4 370 548 1062 1499 
+how Sunlight.txt 1 1958 
+varies Sunlight.txt 4 2095 2170 2448 2513 
+consensus Sunlight.txt 1 3506 
+forest Sunlight.txt 2 1114 1119 
+animal Sunlight.txt 3 2671 2678 2800 
+optimal Sunlight.txt 2 1906 2042 
+schwabe Sunlight.txt 1 2508 
+banned Sunlight.txt 1 3173 
+sim Sunlight.txt 1 1384 
+terrestrial Sunlight.txt 1 3633 
+plant Sunlight.txt 4 2669 2736 2798 3587 
+recombinational Sunlight.txt 1 3624 
+aging Sunlight.txt 1 3433 
+may Sunlight.txt 3 1874 3053 3548 
+broad Sunlight.txt 1 1413 
+earlier Sunlight.txt 1 1410 
+fueled Sunlight.txt 2 2547 2768 
+plane Sunlight.txt 1 1179 
+lighting Sunlight.txt 3 13 677 697 
+leisure Sunlight.txt 1 3093 
+organism Sunlight.txt 1 2592 
+waves Sunlight.txt 1 995 
+such Sunlight.txt 7 1709 2395 2487 2517 2555 2596 3439 
+horizontal Sunlight.txt 2 739 768 
+law Sunlight.txt 2 2248 2289 
+data Sunlight.txt 2 1497 3514 
+response Sunlight.txt 2 2070 3275 
+types Sunlight.txt 1 1206 
+a Sunlight.txt 68 51 104 177 197 204 220 236 253 298 354 654 688 729 738 759 767 845 904 908 932 962 1014 1027 1055 1147 1157 1178 1185 1239 1282 1397 1449 1478 1571 1683 1696 1710 1882 1888 1897 2068 2167 2197 2239 2266 2277 2297 2349 2406 2987 3070 3091 3097 3154 3175 3199 3238 3337 3344 3346 3375 3477 3489 3504 3540 3552 3560 3620 
+induction Sunlight.txt 1 3615 
+natural Sunlight.txt 4 12 1764 2782 3359 
+preferential Sunlight.txt 1 1799 
+effective Sunlight.txt 1 3249 
+light Sunlight.txt 16 68 108 128 269 891 990 1214 1464 1534 1765 1850 1886 2549 2600 3159 3186 
+genomes Sunlight.txt 1 3588 
+corona Sunlight.txt 1 1012 
+white Sunlight.txt 1 2935 
+coal Sunlight.txt 1 2779 
+ones Sunlight.txt 1 3195 
+so Sunlight.txt 4 1343 2234 3060 3224 
+block Sunlight.txt 1 2976 
+allow Sunlight.txt 1 2590 
+every Sunlight.txt 1 232 
+looking Sunlight.txt 1 2945 
+order Sunlight.txt 1 1080 
+wavelengths Sunlight.txt 6 1082 1857 1978 2000 2005 2073 
+comfort Sunlight.txt 1 2930 
+remnants Sunlight.txt 1 2795 
+sunbathe Sunlight.txt 1 3107 
+produces Sunlight.txt 3 928 1915 1987 
+indeed Sunlight.txt 1 2944 
+over Sunlight.txt 10 166 176 758 822 1805 2191 2238 2259 2279 2826 
+vary Sunlight.txt 3 2232 2315 2343 
+meter Sunlight.txt 5 160 175 540 727 1298 
+years Sunlight.txt 7 245 374 2194 2478 2486 2815 2830 
+produced Sunlight.txt 2 868 2630 
+experiments Sunlight.txt 2 1290 1315 
+through Sunlight.txt 4 38 74 2702 2997 
+elevated Sunlight.txt 1 3590 
+existence Sunlight.txt 1 2539 
+still Sunlight.txt 1 1662 
+commons Sunlight.txt 1 3660 
+its Sunlight.txt 3 1215 1813 3536 
+blocked Sunlight.txt 4 96 115 2132 2993 
+24 Sunlight.txt 1 178 
+chemical Sunlight.txt 1 276 
+emits Sunlight.txt 2 916 986 
+le Sunlight.txt 1 2888 
+monitor Sunlight.txt 1 1383 
+tsi Sunlight.txt 7 1251 1263 1300 1318 1335 1347 1372 
+sunbathers Sunlight.txt 1 3132 
+illuminance Sunlight.txt 4 335 435 446 718 
+previously Sunlight.txt 1 2748 
+window Sunlight.txt 1 3002 
+production Sunlight.txt 1 2840 
+degrees Sunlight.txt 3 1098 2028 2340 
+systems Sunlight.txt 1 1862 
+400 Sunlight.txt 3 609 620 2477 
+latitude Sunlight.txt 1 1100 
+skills Sunlight.txt 1 2690 
+hidden Sunlight.txt 1 3662 
+main Sunlight.txt 3 1135 3085 3314 
+lx Sunlight.txt 1 442 
+then Sunlight.txt 4 551 2580 2635 2808 
+them Sunlight.txt 1 1713 
+good Sunlight.txt 2 355 3558 
+milankovitch Sunlight.txt 1 2419 
+combination Sunlight.txt 1 105 
+dim Sunlight.txt 1 1677 
+instance Sunlight.txt 1 2902 
+heterotroph Sunlight.txt 1 2645 
+band Sunlight.txt 1 1067 
+walls Sunlight.txt 1 3001 
+effects Sunlight.txt 9 192 452 1736 1760 1943 3309 3317 3332 3381 
+they Sunlight.txt 6 950 2676 2757 2831 3045 3049 
+not Sunlight.txt 8 95 751 967 1210 1596 2131 2230 2445 
+dn60 Sunlight.txt 1 376 
+now Sunlight.txt 1 2761 
+twilight Sunlight.txt 2 1744 1798 
+day Sunlight.txt 4 180 345 760 1574 
+shadows Sunlight.txt 1 1594 
+term Sunlight.txt 1 135 
+meat Sunlight.txt 1 2753 
+brightness Sunlight.txt 2 1502 2959 
+edit Sunlight.txt 20 289 854 1085 1134 1259 1437 1723 1836 2078 2083 2424 2537 2885 3084 3313 3589 3645 3647 3650 3653 
+january Sunlight.txt 4 361 403 522 772 
+radiant Sunlight.txt 2 110 664 
+all-over Sunlight.txt 1 3227 
+realistic Sunlight.txt 1 1247 
+weather Sunlight.txt 1 3167 
+25 Sunlight.txt 1 2347 
+each Sunlight.txt 2 405 1489 
+pools Sunlight.txt 1 3126 
+found Sunlight.txt 2 1388 3562 
+mean Sunlight.txt 2 139 1194 
+em Sunlight.txt 1 917 
+square Sunlight.txt 10 159 174 539 705 726 802 1104 1297 1472 2174 
+illuminate Sunlight.txt 2 1879 1964 
+significantly Sunlight.txt 1 2231 
+p Sunlight.txt 1 2275 
+series Sunlight.txt 2 1283 1349 
+energy Sunlight.txt 17 24 270 277 489 589 1338 2329 2382 2403 2560 2641 2647 2727 2804 2819 2845 3080 
+sugars Sunlight.txt 3 2578 2625 2739 
+700 Sunlight.txt 2 602 611 
+approximates Sunlight.txt 1 1918 
+steradians Sunlight.txt 1 793 
+skins Sunlight.txt 1 2679 
+88 Sunlight.txt 1 2521 
+used Sunlight.txt 7 260 281 383 2581 2677 2762 3163 
+increases Sunlight.txt 1 3610 
+blood Sunlight.txt 2 3528 3583 
+entering Sunlight.txt 1 2995 
+measurement Sunlight.txt 1 288 
+symptoms Sunlight.txt 1 3254 
+wavelength Sunlight.txt 2 872 1394 
+portland Sunlight.txt 1 1125 
+avoided Sunlight.txt 1 3512 
+agriculture Sunlight.txt 1 1124 
+sunrise Sunlight.txt 4 1650 1748 1756 1949 
+170,000 Sunlight.txt 1 244 
+living Sunlight.txt 1 1671 
+shown Sunlight.txt 1 874 
+closest Sunlight.txt 1 391 
+space Sunlight.txt 1 960 
+god Sunlight.txt 1 3071 
+sorce Sunlight.txt 2 1312 1380 
+since Sunlight.txt 2 1279 1376 
+squared Sunlight.txt 2 422 428 
+research Sunlight.txt 1 1417 
+particles Sunlight.txt 1 1995 
+mechanism Sunlight.txt 1 3276 
+mediated Sunlight.txt 1 1776 
+health Sunlight.txt 9 191 3218 3312 3316 3331 3380 3474 3481 3559 
+dioxide Sunlight.txt 1 2566 
+formula Sunlight.txt 1 380 
+dominate Sunlight.txt 1 1980 
+sensor Sunlight.txt 1 2065 
+occurs Sunlight.txt 3 401 770 1794 
+red Sunlight.txt 1 1753 
+shows Sunlight.txt 2 2035 3515 
+after Sunlight.txt 1 1747 
+linear Sunlight.txt 2 1148 2069 
+state Sunlight.txt 1 3483 
+cars Sunlight.txt 1 2966 
+mechanisms Sunlight.txt 1 3360 
+little Sunlight.txt 1 3501 
+0.935338 Sunlight.txt 1 432 
+affective Sunlight.txt 1 3416 
+ancient Sunlight.txt 1 2797 
+complicated Sunlight.txt 1 1403 
+autotrophic Sunlight.txt 1 265 
+equipped Sunlight.txt 1 2972 
+done Sunlight.txt 1 2491 
+swimming Sunlight.txt 1 3125 
+0.033412 Sunlight.txt 1 410 
+diffused Sunlight.txt 1 127 
+benefits Sunlight.txt 1 3475 
+e.g Sunlight.txt 1 2874 
+biosphere Sunlight.txt 1 1427 
+grasses Sunlight.txt 1 2770 
+latitudes Sunlight.txt 2 2111 2337 
+calories Sunlight.txt 1 1102 
+days Sunlight.txt 1 3018 
+times Sunlight.txt 2 387 2204 
+alcohol Sunlight.txt 1 3580 
+produce Sunlight.txt 1 2570 
+signature Sunlight.txt 1 999 
+south Sunlight.txt 1 775 
+diseases Sunlight.txt 1 3438 
+acrim3 Sunlight.txt 1 1308 
+striking Sunlight.txt 1 1050 
+feel Sunlight.txt 1 1606 
+coming Sunlight.txt 1 2411 
+number Sunlight.txt 4 346 477 3176 3478 
+one Sunlight.txt 4 1188 2465 3188 3301 
+clear Sunlight.txt 1 1399 
+dominating Sunlight.txt 2 1742 1754 
+approximately Sunlight.txt 6 431 720 1222 1901 1938 2007 
+directly Sunlight.txt 3 1959 2942 2946 
+carry Sunlight.txt 1 3549 
+rovers Sunlight.txt 1 1586 
+thick Sunlight.txt 1 1525 
+open Sunlight.txt 1 3123 
+sunburn Sunlight.txt 2 3451 3508 
+visors Sunlight.txt 1 2974 
+size Sunlight.txt 1 787 
+earths Sunlight.txt 18 75 317 324 388 556 592 1052 1274 1341 1406 1430 1834 1846 1868 1913 2184 2312 2352 
+given Sunlight.txt 6 57 352 457 1905 2285 2373 
+long Sunlight.txt 1 1806 
+temperature Sunlight.txt 1 909 
+service Sunlight.txt 1 1120 
+their Sunlight.txt 4 1474 2052 2617 2766 
+top Sunlight.txt 3 624 1143 1272 
+achieved Sunlight.txt 1 3258 
+system Sunlight.txt 4 1436 1462 1494 1703 
+least Sunlight.txt 1 155 
+grow Sunlight.txt 2 2594 2710 
+tabacum Sunlight.txt 1 3607 
+indicate Sunlight.txt 2 163 1238 
+eddy Sunlight.txt 1 2532 
+station Sunlight.txt 1 1118 
+steradian Sunlight.txt 1 805 
+observations Sunlight.txt 3 1237 1301 2430 
+trend Sunlight.txt 1 2789 
+cycle Sunlight.txt 7 1329 2458 2506 2509 2524 2528 2533 
+damaging Sunlight.txt 1 648 
+gives Sunlight.txt 3 794 833 1809 
+90377 Sunlight.txt 1 1714 
+overexposure Sunlight.txt 1 3446 
+x-rays Sunlight.txt 2 866 987 
+that Sunlight.txt 30 278 414 713 902 1173 1339 1389 1505 1549 1593 1621 1851 1866 1917 1944 2255 2440 2495 2589 2746 3052 3156 3225 3361 3469 3484 3507 3516 3563 3568 
+nearby Sunlight.txt 1 3008 
+short-term Sunlight.txt 1 3445 
+putting Sunlight.txt 1 2668 
+optical Sunlight.txt 1 470 
+too Sunlight.txt 3 2927 3496 3500 
+somewhat Sunlight.txt 1 817 
+cultures Sunlight.txt 1 3208 
+off Sunlight.txt 2 58 120 
+july Sunlight.txt 1 527 
+than Sunlight.txt 14 519 669 691 745 819 1409 1443 1529 1620 1642 1708 2346 2699 3554 
+radionuclides Sunlight.txt 1 2481 
+distance Sunlight.txt 9 503 546 1186 1195 1475 1684 1711 2177 2222 
+photograph Sunlight.txt 1 45 
+molecular Sunlight.txt 1 2628 
+prevent Sunlight.txt 1 3363 
+database Sunlight.txt 1 1350 
+depends Sunlight.txt 4 500 1512 1729 2148 
+inversely Sunlight.txt 2 1468 2171 
+matter Sunlight.txt 2 2737 2801 
+determined Sunlight.txt 2 412 1788 
+risks Sunlight.txt 1 3493 
+were Sunlight.txt 3 2732 2758 2760 
+providing Sunlight.txt 1 2738 
+photosynthesis Sunlight.txt 2 257 2576 
+result Sunlight.txt 3 933 963 2350 
+and Sunlight.txt 101 66 77 109 189 203 229 243 263 320 396 423 465 507 523 574 613 852 860 865 890 940 955 992 1019 1109 1115 1150 1252 1287 1311 1330 1400 1424 1429 1517 1575 1605 1716 1746 1749 1752 1757 1797 1904 1910 1948 1990 1993 2022 2080 2087 2145 2181 2186 2201 2233 2281 2302 2305 2332 2359 2385 2412 2529 2567 2584 2626 2642 2670 2705 2719 2740 2754 2781 2799 2807 2841 2860 2911 2969 3019 3059 3079 3129 3160 3217 3271 3329 3343 3386 3411 3436 3442 3454 3459 3462 3476 3530 3535 3581 3604 
+fashion Sunlight.txt 1 1404 
+pyranometer Sunlight.txt 1 301 
+curtains Sunlight.txt 1 3006 
+disambiguation Sunlight.txt 2 10 35 
+modern Sunlight.txt 3 386 2785 2834 
+measure Sunlight.txt 3 292 1158 1883 
+spectrum Sunlight.txt 10 857 893 924 1039 1043 1141 1613 1725 2001 2037 
+roughly Sunlight.txt 1 1192 
+lherbe Sunlight.txt 1 2891 
+raw Sunlight.txt 1 2064 
+stratosphere Sunlight.txt 1 1425 
+tanning Sunlight.txt 3 3088 3169 3256 
+have Sunlight.txt 8 326 1896 2489 2832 3171 3473 3519 3525 
+seen Sunlight.txt 1 1579 
+seem Sunlight.txt 1 1597 
+seek Sunlight.txt 1 3050 
+any Sunlight.txt 1 2372 
+contents Sunlight.txt 1 287 
+paths Sunlight.txt 1 1808 
+u.s Sunlight.txt 1 1121 
+angle Sunlight.txt 3 2098 2320 2989 
+earthsun Sunlight.txt 1 545 
+dn32 Sunlight.txt 1 363 
+b Sunlight.txt 1 3593 
+trapped Sunlight.txt 1 2809 
+able Sunlight.txt 1 1962 
+aside Sunlight.txt 1 1941 
+parks Sunlight.txt 1 3127 
+predominantly Sunlight.txt 1 1849 
+also Sunlight.txt 8 887 985 1513 1997 2263 2292 3397 3644 
+internal Sunlight.txt 1 938 
+take Sunlight.txt 1 240 
+which Sunlight.txt 9 144 680 840 1841 1859 1880 2938 3096 3382 
+interior Sunlight.txt 1 15 
+building-blocks Sunlight.txt 1 2583 
+daylighting Sunlight.txt 1 21 
+spectral Sunlight.txt 8 1253 1363 1368 1381 1740 1829 1951 2060 
+fuels Sunlight.txt 3 2792 2823 2876 
+experienced Sunlight.txt 3 101 125 2137 
+shade Sunlight.txt 3 3009 3023 3051 
+centre Sunlight.txt 1 811 
+208 Sunlight.txt 1 2525 
+who Sunlight.txt 1 3518 
+reach Sunlight.txt 2 212 951 
+falls Sunlight.txt 1 1852 
+most Sunlight.txt 6 640 675 693 920 1923 2553 
+overlapping Sunlight.txt 1 1285 
+significant Sunlight.txt 1 1069 
+watt Sunlight.txt 2 662 711 
+oil Sunlight.txt 1 2882 
+measured Sunlight.txt 1 1278 
+catastrophe Sunlight.txt 1 2878 
+sunspots Sunlight.txt 1 2473 
+values Sunlight.txt 1 2066 
+give Sunlight.txt 1 1603 
+especially Sunlight.txt 1 2931 
+considered Sunlight.txt 3 2405 3067 3205 
+average Sunlight.txt 10 165 520 796 821 1216 1647 1670 2221 2294 2369 
+sometimes Sunlight.txt 2 2195 3234 
+m Sunlight.txt 1 466 
+1,000 Sunlight.txt 1 2530 
+part Sunlight.txt 1 3236 
+sunset Sunlight.txt 6 1451 1648 1750 1758 1796 1947 
+comprise Sunlight.txt 1 876 
+48.5 Sunlight.txt 1 849 
+velocity Sunlight.txt 1 2253 
+effect Sunlight.txt 4 2317 2893 3356 3585 
+left Sunlight.txt 1 870 
+normally Sunlight.txt 1 271 
+wavenumber Sunlight.txt 1 1153 
+planetary Sunlight.txt 1 2168 
+atmosphere Sunlight.txt 16 76 325 455 578 627 859 1053 1145 1275 1521 1526 1633 1779 1914 1974 1986 
+particularly Sunlight.txt 1 1598 
+rayleigh Sunlight.txt 2 1790 1969 
+scattered Sunlight.txt 1 2018 
+infrared Sunlight.txt 4 64 600 889 991 
+discovered Sunlight.txt 1 1321 
+bright Sunlight.txt 4 107 714 1664 2928 
+spaces Sunlight.txt 1 16 
+radio Sunlight.txt 1 994 
+obliquity Sunlight.txt 1 2187 
+earth Sunlight.txt 17 70 169 213 1200 1258 1445 1551 1569 1610 1623 1643 1682 2091 2536 2545 2811 3082 
+rough Sunlight.txt 1 1479 
+find Sunlight.txt 1 2922 
+principal Sunlight.txt 3 198 1769 3338 
+devries Sunlight.txt 1 2527 
+1.01671033 Sunlight.txt 1 426 
+ratio Sunlight.txt 1 416 
+proposed Sunlight.txt 1 2520 
+dividing Sunlight.txt 1 779 
+claude Sunlight.txt 2 2886 2906 
+true Sunlight.txt 1 3030 
+lumens Sunlight.txt 3 660 709 724 
+enough Sunlight.txt 2 1589 1665 
+should Sunlight.txt 2 429 3509 
+virgo Sunlight.txt 1 1310 
+brighter Sunlight.txt 1 1641 
+only Sunlight.txt 5 997 1026 1695 2752 3466 
+going Sunlight.txt 3 2413 2460 2483 
+black Sunlight.txt 1 905 
+suffering Sunlight.txt 1 3243 
+factor Sunlight.txt 2 255 3542 
+fuel Sunlight.txt 2 283 2851 
+8 Sunlight.txt 1 636 
+inhabit Sunlight.txt 1 1867 
+population Sunlight.txt 1 2707 
+thousands Sunlight.txt 1 2192 
+astronomical Sunlight.txt 2 549 1189 
+mortality Sunlight.txt 1 3532 
+dn Sunlight.txt 1 350 
+do Sunlight.txt 1 3046 
+sunglasses Sunlight.txt 1 2965 
+fossil Sunlight.txt 3 2791 2822 2850 
+stay Sunlight.txt 1 3039 
+get Sunlight.txt 2 247 3198 
+landscapes Sunlight.txt 1 2912 
+photography Sunlight.txt 1 1766 
+trees Sunlight.txt 2 3010 3057 
+likely Sunlight.txt 2 2407 3637 
+120 Sunlight.txt 1 156 
+cannot Sunlight.txt 1 2857 
+ssi Sunlight.txt 3 1256 1366 1390 
+nearly Sunlight.txt 3 1045 2198 2541 
+new Sunlight.txt 2 1416 2879 
+timing Sunlight.txt 1 3402 
+during Sunlight.txt 7 143 1570 1743 1755 2112 2711 3031 
+saturn Sunlight.txt 1 1638 
+study Sunlight.txt 1 3561 
+stability Sunlight.txt 1 3640 
+increasing Sunlight.txt 1 1079 
+acrimsat Sunlight.txt 1 1307 
+tobacco Sunlight.txt 1 3605 
+countries Sunlight.txt 2 3013 3026 
+approach Sunlight.txt 1 392 
+cells Sunlight.txt 1 3268 
+public Sunlight.txt 1 3480 
+w/m Sunlight.txt 5 568 585 784 1224 1244 
+paper Sunlight.txt 1 2936 
+lszl Sunlight.txt 1 2918 
+activity Sunlight.txt 3 1229 3094 3215 
+including Sunlight.txt 4 678 1325 1894 2453 
+cycles Sunlight.txt 4 1334 2394 2420 2516 
+where Sunlight.txt 6 358 375 459 1767 2249 3111 
+inside Sunlight.txt 2 3040 3266 
+vision Sunlight.txt 3 1932 2953 2981 
+available Sunlight.txt 1 25 
+illuminant Sunlight.txt 1 1921 
+multiplying Sunlight.txt 2 698 830 
+helmets Sunlight.txt 1 2968 
+irradiation Sunlight.txt 1 2284 
+naked Sunlight.txt 1 3222 
+sensitivity Sunlight.txt 2 1890 1898 
+kilo Sunlight.txt 1 1294 
+humans Sunlight.txt 7 1895 1934 2660 2692 2750 2773 2835 
+we Sunlight.txt 2 2269 2290 
+up Sunlight.txt 2 687 1025 
+relative Sunlight.txt 1 469 
+automatic Sunlight.txt 1 3274 
+intensity Sunlight.txt 6 294 1432 1467 2306 2391 2422 
+are Sunlight.txt 18 867 956 1302 1694 1761 1870 2048 2062 2404 2579 2634 2784 2793 2971 3464 3470 3539 3611 
+sea Sunlight.txt 2 733 2008 
+1,000,000 Sunlight.txt 1 1064 
+close Sunlight.txt 1 900 
+luminous Sunlight.txt 1 655 
+frequency Sunlight.txt 1 3597 
+photo Sunlight.txt 1 1447 
+closer Sunlight.txt 1 1241 
+nuclear-fusion Sunlight.txt 1 936 
+said Sunlight.txt 1 1877 
+lux Sunlight.txt 3 479 723 1546 
+nuclear Sunlight.txt 1 1002 
+currently Sunlight.txt 1 2213 
+wikipedia Sunlight.txt 1 1 
+artificial Sunlight.txt 3 676 696 3291 
+tend Sunlight.txt 1 2361 
+weapons Sunlight.txt 1 2686 
+3 Sunlight.txt 2 404 614 
+future Sunlight.txt 1 2743 
+various Sunlight.txt 2 1092 2861 
+between Sunlight.txt 5 241 417 2178 2383 3491 
+without Sunlight.txt 1 3353 
+probably Sunlight.txt 1 1401 
+before Sunlight.txt 2 949 1745 
+encounters Sunlight.txt 1 235 
+across Sunlight.txt 1 919 
+wide Sunlight.txt 1 3376 
+knowing Sunlight.txt 1 413 
+variability Sunlight.txt 1 1359 
+comparable Sunlight.txt 1 1547 
+handful Sunlight.txt 1 1697 
+terms Sunlight.txt 1 587 
+responses Sunlight.txt 1 1408 
+extend Sunlight.txt 1 2664 
+web Sunlight.txt 1 1131 
+indoors Sunlight.txt 1 3164 
+emitted Sunlight.txt 1 957 
+vitamin Sunlight.txt 5 201 3341 3351 3366 3372 
+however Sunlight.txt 1 806 
+incident Sunlight.txt 1 1176 
+no Sunlight.txt 3 2116 3303 3566 
+key Sunlight.txt 2 254 3621 
+article Sunlight.txt 3 1136 3086 3315 
+pluto Sunlight.txt 1 1658 
+400700 Sunlight.txt 1 1902 
+received Sunlight.txt 5 490 1269 1487 1843 2310 
+c Sunlight.txt 1 460 
+perceptions Sunlight.txt 1 1604 
+rhythms Sunlight.txt 1 3410 
+always Sunlight.txt 1 3510 
+many Sunlight.txt 11 1323 1331 1892 2450 2827 2920 2962 2967 3014 3035 3183 
+biologically Sunlight.txt 1 647 
+density Sunlight.txt 1 1161 
+hours Sunlight.txt 1 3034 
+equal Sunlight.txt 1 439 
+against Sunlight.txt 1 1152 
+emit Sunlight.txt 2 968 977 
+1.67 Sunlight.txt 1 2214 
+etc Sunlight.txt 1 377 
+connection Sunlight.txt 1 1420 
+selective Sunlight.txt 1 1999 
+receives Sunlight.txt 2 147 1536 
+long-term Sunlight.txt 2 2952 3418 
+inverse-square Sunlight.txt 1 2288 
+whole Sunlight.txt 1 824 
+wear Sunlight.txt 2 2964 3134 
+millions Sunlight.txt 2 2813 2828 
+among Sunlight.txt 1 1712 
+relevant Sunlight.txt 2 1235 2897 
+fields Sunlight.txt 1 2728 
+cancer Sunlight.txt 2 3431 3545 
+supply Sunlight.txt 1 3350 
+color Sunlight.txt 3 1782 1931 3197 
+continuation Sunlight.txt 1 1344 
+autotrophs Sunlight.txt 4 2554 2610 2614 2633 
+corresponds Sunlight.txt 1 1395 
+awnings Sunlight.txt 1 3004 
+60 Sunlight.txt 2 1097 1530 
+pole Sunlight.txt 2 776 2125 
+dietary Sunlight.txt 1 3347 
+simply Sunlight.txt 2 2063 3141 
+invariant Sunlight.txt 2 2254 2264 
+spans Sunlight.txt 1 1054 
+67 Sunlight.txt 1 1720 
+table Sunlight.txt 2 1480 1655 
+throughout Sunlight.txt 1 2765 
+factors Sunlight.txt 1 3577 
+forms Sunlight.txt 1 694 
+8.3 Sunlight.txt 1 209 
+super-high-energy Sunlight.txt 1 944 
+addition Sunlight.txt 1 2497 
+due Sunlight.txt 4 826 1624 1733 2244 
+short-wave Sunlight.txt 1 649 
+hitting Sunlight.txt 1 579 
+much Sunlight.txt 2 1608 3497 
+blueness Sunlight.txt 1 1814 
+maintenance Sunlight.txt 1 3406 
+mars Sunlight.txt 3 1440 1455 1560 
+mednynszky Sunlight.txt 1 2919 
+warmth Sunlight.txt 1 2681 
+500 Sunlight.txt 1 1687 
+attractive Sunlight.txt 1 3211 
+direction Sunlight.txt 1 231 
+general Sunlight.txt 1 3505 
+efficacy Sunlight.txt 2 656 671 
+both Sunlight.txt 5 187 196 313 3327 3336 
+ages Sunlight.txt 1 2417 
+sufficient Sunlight.txt 1 3281 
+sunshine Sunlight.txt 10 2 9 103 136 299 2088 2139 2916 2990 3104 
+photon Sunlight.txt 1 221 
+climate Sunlight.txt 5 1342 1361 1407 1431 2322 
+kw/m Sunlight.txt 1 1299 
+zero Sunlight.txt 1 2377 
+lives Sunlight.txt 1 2767 
+external Sunlight.txt 1 3651 
+164 Sunlight.txt 1 171 
+smoking Sunlight.txt 1 3579 
+comfortable Sunlight.txt 1 3109 
+diffuse Sunlight.txt 2 1590 1823 
+plants Sunlight.txt 5 262 2557 2718 3608 3642 
+exception Sunlight.txt 1 1793 
+atmospheric Sunlight.txt 3 463 473 1735 
+reddish Sunlight.txt 1 1628 
+activitiy Sunlight.txt 1 2512 
+these Sunlight.txt 11 943 1022 1759 2437 2492 2577 2689 2790 2821 3307 3609 
+value Sunlight.txt 4 408 542 1217 1240 
+air Sunlight.txt 1 3124 
+will Sunlight.txt 4 741 1975 1996 2867 
+while Sunlight.txt 2 1780 3533 
+centimetre Sunlight.txt 1 1105 
+pictures Sunlight.txt 1 1582 
+balance Sunlight.txt 1 3490 
+cancers Sunlight.txt 1 3393 
+discoveries Sunlight.txt 1 2777 
+stretching Sunlight.txt 1 2205 
+uv-b Sunlight.txt 1 3635 
+zenith Sunlight.txt 3 499 564 1811 
+almost Sunlight.txt 2 1667 2242 
+is Sunlight.txt 80 50 72 78 85 94 100 114 124 195 252 351 382 411 438 456 461 467 515 535 547 561 565 582 594 629 667 750 816 899 1004 1013 1162 1245 1351 1441 1543 1588 1617 1639 1691 1773 1786 1818 1842 1848 1881 1937 1961 1967 2130 2136 2250 2256 2265 2375 2444 2546 2653 2852 2896 2941 2985 2991 3029 3066 3074 3090 3113 3150 3192 3204 3247 3257 3272 3302 3335 3421 3447 3503 3565 
+thus Sunlight.txt 4 508 1600 3293 3629 
+it Sunlight.txt 14 99 113 123 194 234 514 975 1385 1535 1601 2135 2447 3073 3334 
+surface Sunlight.txt 19 216 250 557 593 731 740 769 846 862 954 1511 1542 1616 1721 1727 1835 1847 1869 2313 
+12810 Sunlight.txt 1 441 
+in Sunlight.txt 59 62 184 256 378 385 521 526 586 754 771 792 1078 1101 1107 1360 1396 1418 1433 1491 1498 1552 1580 1630 1700 1763 1933 1955 1971 1983 2075 2120 2156 2324 2327 2330 2357 2366 2435 2463 2496 2585 2658 2820 2903 3011 3024 3062 3095 3102 3108 3174 3179 3206 3262 3324 3572 3601 3623 3641 
+elevation Sunlight.txt 1 1732 
+1.361 Sunlight.txt 1 1293 
+sits Sunlight.txt 1 3099 
+melatonin Sunlight.txt 1 3404 
+if Sunlight.txt 4 530 747 2268 3044 
+orbital Sunlight.txt 5 2081 2209 2217 2261 2353 
+different Sunlight.txt 1 1457 
+pathfinder Sunlight.txt 1 1456 
+glycolysis Sunlight.txt 1 2703 
+midday Sunlight.txt 1 3033 
+sensitive Sunlight.txt 1 1871 
+malthusian Sunlight.txt 1 2877 
+media Sunlight.txt 1 3654 
+make Sunlight.txt 1 1024 
+cumulative Sunlight.txt 1 141 
+radiation Sunlight.txt 26 56 93 183 534 898 918 1021 1049 1070 1090 1169 1209 1268 1486 1592 1825 1840 2094 2129 2155 2164 2273 2309 3285 3323 3636 
+crops Sunlight.txt 1 2731 
+shorter Sunlight.txt 1 1332 
+arabidopsis Sunlight.txt 1 3602 
+over-all Sunlight.txt 1 3557 
+northwest Sunlight.txt 1 1113 
+units Sunlight.txt 1 2058 
+filtered Sunlight.txt 1 73 
+finite Sunlight.txt 1 2855 
+composition Sunlight.txt 4 851 1518 1830 1952 
+evidence Sunlight.txt 1 3567 
+higher Sunlight.txt 3 518 668 818 
+development Sunlight.txt 1 3428 
+satellite Sunlight.txt 3 1236 1289 1314 
+attenuation Sunlight.txt 1 322 
+see Sunlight.txt 13 8 20 28 33 528 777 886 1038 1651 1674 1822 2418 3643 
+absorb Sunlight.txt 1 1998 
+meteorological Sunlight.txt 1 131 
+blue Sunlight.txt 2 1739 1977 
+upon Sunlight.txt 3 1257 1730 2937 
+drives Sunlight.txt 1 1340 
+possible Sunlight.txt 1 2701 
+000 Sunlight.txt 2 484 722 
+uses Sunlight.txt 4 7 32 133 2675 
+purpose Sunlight.txt 1 3189 
+dust Sunlight.txt 2 1629 1992 
+changing Sunlight.txt 1 230 
+vapour Sunlight.txt 1 1982 
+caps Sunlight.txt 1 2970 
+tli Sunlight.txt 1 2913 
+warming Sunlight.txt 1 2141 
+recent Sunlight.txt 3 1231 2415 2776 
+reconstructions Sunlight.txt 2 2471 2488 
+indefinitely Sunlight.txt 1 2859 
+lower Sunlight.txt 2 525 1985 
+blinds Sunlight.txt 1 3003 
+15.4 Sunlight.txt 1 799 
+center Sunlight.txt 1 225 
+1978 Sunlight.txt 2 1280 2436 
+studies Sunlight.txt 1 2493 
+overcast Sunlight.txt 2 1556 1573 
+1972 Sunlight.txt 1 1108 
+ocean Sunlight.txt 1 1428 
+thought Sunlight.txt 1 1219 
+person Sunlight.txt 1 3098 
+materials Sunlight.txt 1 2672 
+aphelion Sunlight.txt 1 425 
+14,000 Sunlight.txt 1 1545 
+components Sunlight.txt 1 2629 
+organization Sunlight.txt 1 132 
+the Sunlight.txt 255 54 60 83 87 90 129 134 140 151 167 181 215 218 224 227 249 258 273 284 293 306 311 314 321 332 339 344 348 390 394 398 407 415 418 424 433 443 450 454 462 468 472 476 485 495 498 502 505 510 531 541 544 552 559 563 570 577 580 623 626 642 670 699 735 748 755 761 774 780 786 789 807 810 813 820 823 838 881 892 895 914 922 926 935 952 964 983 996 1001 1005 1010 1032 1036 1042 1051 1130 1154 1163 1182 1193 1197 1201 1212 1234 1264 1271 1306 1326 1337 1346 1355 1367 1371 1379 1419 1422 1434 1460 1471 1482 1492 1500 1510 1515 1532 1537 1541 1553 1581 1585 1612 1615 1631 1646 1659 1669 1701 1724 1738 1768 1778 1781 1784 1810 1816 1820 1837 1845 1854 1860 1864 1872 1885 1908 1927 1950 1972 1984 2003 2032 2036 2044 2057 2092 2097 2100 2103 2123 2127 2140 2143 2150 2153 2157 2161 2173 2176 2179 2182 2216 2220 2224 2226 2235 2251 2257 2260 2271 2282 2287 2293 2300 2316 2325 2364 2367 2379 2390 2399 2410 2441 2454 2475 2499 2504 2507 2510 2519 2538 2551 2559 2591 2602 2607 2624 2632 2644 2646 2697 2712 2715 2774 2794 2817 2839 2847 2892 2939 2948 2958 2977 2983 2998 3022 3027 3032 3064 3075 3151 3180 3253 3263 3278 3287 3294 3321 3389 3401 3427 3448 3465 3492 3523 3596 3630 
+redistribution Sunlight.txt 2 2380 2400 
+researchers Sunlight.txt 1 290 
+charged Sunlight.txt 1 237 
+seasonal Sunlight.txt 4 2079 2301 2393 3415 
+summer Sunlight.txt 4 2113 2331 2360 2384 
+redirects Sunlight.txt 1 3 
+outdoor Sunlight.txt 2 2909 3214 
+monet Sunlight.txt 2 2887 2907 
+just Sunlight.txt 1 1211 
+less Sunlight.txt 5 690 744 1398 1565 3526 
+semimajor Sunlight.txt 1 2227 
+percent Sunlight.txt 3 599 607 617 
+observed Sunlight.txt 1 1508 
+fueling Sunlight.txt 1 1412 
+vacations/holidays Sunlight.txt 1 3216 
+obtain Sunlight.txt 1 2291 
+risk Sunlight.txt 3 3413 3541 3576 
+sources Sunlight.txt 2 162 3308 
+stored Sunlight.txt 2 2639 2818 
+farther Sunlight.txt 1 1707 
+human Sunlight.txt 4 2706 2723 2872 3311 
+using Sunlight.txt 7 297 343 682 692 847 2472 2803 
+regardless Sunlight.txt 1 3165 
+alternative Sunlight.txt 2 2875 3147 
+scattering Sunlight.txt 5 1626 1791 1911 1970 1989 
+tables Sunlight.txt 2 1084 1086 
+monitored Sunlight.txt 1 1375 
+flares Sunlight.txt 1 982 
+common Sunlight.txt 1 3117 
+absorption Sunlight.txt 4 939 1800 1909 2151 
+photons Sunlight.txt 2 945 948 
+scales Sunlight.txt 1 2452 
+sky Sunlight.txt 5 756 1591 1785 1812 1824 
+except Sunlight.txt 1 371 
+killed Sunlight.txt 1 2759 
+possibly Sunlight.txt 1 3387 
+source Sunlight.txt 6 199 673 1015 1770 3076 3339 
+labour Sunlight.txt 1 2764 
+location Sunlight.txt 1 2374 
+evidenced Sunlight.txt 1 2900 
+role Sunlight.txt 2 1356 3622 
+has Sunlight.txt 11 186 653 1276 1319 1373 1386 2466 2824 3326 3374 3396 
+match Sunlight.txt 1 1668 
+genome Sunlight.txt 1 3639 
+bypasses Sunlight.txt 1 3358 
+crepuscular Sunlight.txt 1 43 
+consumption Sunlight.txt 1 2842 
+march Sunlight.txt 1 369 
+around Sunlight.txt 4 402 482 583 595 
+ample Sunlight.txt 1 3114 
+overdoses Sunlight.txt 1 3364 
+survival Sunlight.txt 1 2650 
+doses Sunlight.txt 1 3594 
+february Sunlight.txt 1 365 
+admitting Sunlight.txt 1 18 
+period Sunlight.txt 1 2262 
+dark Sunlight.txt 2 1599 3264 
+dimmer Sunlight.txt 1 1442 
+cultural Sunlight.txt 1 2883 
+five Sunlight.txt 1 1076 
+world Sunlight.txt 2 130 3181 
+gleisberg Sunlight.txt 1 2523 
+massively Sunlight.txt 1 2837 
+like Sunlight.txt 3 1566 1609 3578 
+sunlamps Sunlight.txt 2 3292 3463 
+pertinent Sunlight.txt 1 2124 
+d Sunlight.txt 5 202 3342 3352 3367 3373 
+particle Sunlight.txt 1 238 
+55 Sunlight.txt 1 598 
+follows Sunlight.txt 1 1495 
+nude Sunlight.txt 1 3143 
+hunt Sunlight.txt 1 2688 
+pyrheliometer Sunlight.txt 1 303 
+52 Sunlight.txt 1 596 
+ozone Sunlight.txt 2 1804 1991 
+flux Sunlight.txt 2 665 1160 
+benefit Sunlight.txt 1 3555 
+continue Sunlight.txt 1 2858 
+either Sunlight.txt 1 2611 
+nutrients Sunlight.txt 1 2741 
+popular Sunlight.txt 1 3092 
+output Sunlight.txt 2 884 1034 
+troposphere Sunlight.txt 1 1426 
+works Sunlight.txt 1 2904 
+disorder Sunlight.txt 1 3417 
+reduced Sunlight.txt 1 3412 
+65 Sunlight.txt 1 2339 
+carcinogens Sunlight.txt 1 3468 
+because Sunlight.txt 3 384 2355 2816 
+often Sunlight.txt 3 2992 3020 3106 
+people Sunlight.txt 9 2921 2963 3015 3036 3105 3184 3220 3242 3517 
+affects Sunlight.txt 1 3638 
+some Sunlight.txt 6 3116 3140 3145 3207 3219 3392 
+back Sunlight.txt 2 2462 2484 
+pacific Sunlight.txt 1 1112 
+imaged Sunlight.txt 1 1453 
+daylight Sunlight.txt 4 81 1567 1611 1652 
+martian Sunlight.txt 2 1450 1632 
+3.3 Sunlight.txt 2 517 524 
+69 Sunlight.txt 1 1689 
+duration Sunlight.txt 3 137 2089 2108 
+indirect Sunlight.txt 3 575 1968 2024 
+generates Sunlight.txt 1 3157 
+specific Sunlight.txt 3 1889 2072 3239 
+gradually Sunlight.txt 1 3296 
+extinction Sunlight.txt 2 464 474 
+primary Sunlight.txt 1 2844 
+sunbathing Sunlight.txt 7 3083 3089 3120 3149 3191 3223 3246 
+for Sunlight.txt 34 5 11 22 30 338 449 684 1522 1634 1653 1826 1922 1930 1935 2334 2409 2474 2482 2649 2680 2682 2742 2763 2812 2901 2929 2957 3119 3144 3182 3190 3241 3543 3556 
+electromagnetic Sunlight.txt 6 55 923 1048 1168 1839 2154 
+avoid Sunlight.txt 1 3021 
+normal Sunlight.txt 2 445 3408 
+integration Sunlight.txt 1 2258 
+per Sunlight.txt 12 158 173 538 661 704 710 725 801 804 1103 1170 1296 
+macular Sunlight.txt 1 3443 
+consuming Sunlight.txt 4 2606 2613 2616 2621 
+leap Sunlight.txt 1 373 
+does Sunlight.txt 5 966 976 2229 2314 2387 
+cloud Sunlight.txt 2 2020 2030 
+provides Sunlight.txt 2 716 1336 
+cardiovascular-related Sunlight.txt 1 3531 
+circadian Sunlight.txt 1 3409 
+recorder Sunlight.txt 1 300 
+eye Sunlight.txt 1 3437 
+be Sunlight.txt 23 280 328 430 742 842 1073 1175 1221 1292 1507 1562 1578 1663 1876 2926 3054 3069 3162 3210 3232 3424 3488 3511 
+airmass Sunlight.txt 1 471 
+power Sunlight.txt 6 853 885 1033 1071 2061 2274 
+reaching Sunlight.txt 1 310 
+djeuner Sunlight.txt 1 2889 
+neutrinos Sunlight.txt 1 1008 
+continuing Sunlight.txt 1 1303 
+perpendicular Sunlight.txt 2 730 1180 
+broken Sunlight.txt 1 2636 
+reduces Sunlight.txt 1 3570 
+although Sunlight.txt 2 925 1009 
+offset Sunlight.txt 1 2363 
+fluorescent Sunlight.txt 1 679 
+includes Sunlight.txt 1 1204 
+by Sunlight.txt 43 17 59 97 116 261 323 342 357 458 707 785 832 1111 1281 1378 1454 1488 1584 1627 1777 1789 1803 1912 2011 2019 2026 2133 2166 2286 2344 2548 2605 2612 2615 2620 2631 2667 2734 2769 2917 3056 3259 3613 
+beaches Sunlight.txt 1 3122 
+stage Sunlight.txt 1 2870 
+oo Sunlight.txt 1 1719 
+on Sunlight.txt 38 69 360 364 368 372 501 509 728 766 844 1091 1129 1146 1177 1322 1439 1444 1514 1550 1559 1568 1614 1622 1637 1657 1681 2090 2149 2321 2449 2469 2535 2544 2908 3061 3081 3310 3586 
+about Sunlight.txt 10 208 516 566 630 635 658 911 1061 1544 1686 
+nicotiana Sunlight.txt 1 3606 
+actual Sunlight.txt 2 1501 1538 
+usa Sunlight.txt 1 1127 
+inedible Sunlight.txt 2 2735 2771 
+of Sunlight.txt 151 14 53 106 153 170 200 217 226 295 308 316 347 409 453 478 488 512 588 625 641 646 657 663 672 674 695 701 719 737 764 782 788 798 812 871 880 894 903 910 921 934 1000 1007 1016 1031 1035 1044 1057 1068 1081 1087 1123 1144 1159 1165 1187 1207 1233 1266 1273 1284 1317 1345 1357 1370 1415 1421 1448 1459 1465 1473 1484 1503 1519 1531 1540 1685 1698 1726 1771 1783 1801 1831 1856 1863 1884 1900 1924 2002 2029 2038 2059 2099 2142 2152 2159 2163 2175 2193 2211 2307 2318 2338 2351 2381 2392 2401 2414 2431 2540 2561 2609 2696 2717 2778 2787 2796 2814 2829 2843 2849 2871 2894 2905 2960 3000 3077 3137 3153 3166 3177 3237 3251 3277 3318 3340 3365 3378 3391 3403 3407 3414 3429 3450 3479 3494 3551 3598 3616 3626 3632 
+heterotrophs Sunlight.txt 2 2595 2623 
+range Sunlight.txt 9 873 1056 1116 1855 1891 1899 1926 1929 3377 
+extensions Sunlight.txt 1 2786 
+cafes Sunlight.txt 1 3131 
+horizon Sunlight.txt 4 88 1807 1821 2104 
+slightly Sunlight.txt 4 1226 1572 1618 1640 
+or Sunlight.txt 13 118 302 1564 1649 2479 2619 2684 3007 3100 3139 3228 3289 3499 
+gamma Sunlight.txt 3 929 969 978 
+peak Sunlight.txt 1 2881 
+repair Sunlight.txt 1 3625 
+presence Sunlight.txt 1 1516 
+sugarsa Sunlight.txt 1 2572 
+civilization Sunlight.txt 1 2873 
+into Sunlight.txt 4 275 330 959 1075 
+within Sunlight.txt 3 1853 1887 2810 
+indirectly Sunlight.txt 1 2604 
+accompanied Sunlight.txt 1 3612 
+mutagenic Sunlight.txt 1 3355 
+down Sunlight.txt 2 480 2637 
+lies Sunlight.txt 1 3101 
+right Sunlight.txt 1 1041 
+references Sunlight.txt 1 3646 
+been Sunlight.txt 7 1277 1320 1374 1387 2490 3172 3398 
+primarily Sunlight.txt 1 1954 
+proportional Sunlight.txt 1 1469 
+2000 Sunlight.txt 1 1718 
+insolation Sunlight.txt 6 29 778 2086 2237 2295 2370 
+remain Sunlight.txt 1 3042 
+rely Sunlight.txt 1 2468 
+dn59 Sunlight.txt 1 367 
+area Sunlight.txt 2 146 1172 
+assumed Sunlight.txt 1 1411 
+there Sunlight.txt 6 1587 1693 3112 3485 3502 3564 
+sunlight Sunlight.txt 51 0 19 27 34 36 47 49 71 185 206 251 296 309 554 590 628 652 683 715 765 1438 1504 1558 1636 1644 1660 1675 1774 1802 1832 1960 2013 2017 2025 2107 2117 2562 2698 2806 2895 2924 2961 3115 3319 3325 3371 3419 3461 3498 3534 3657 
+low Sunlight.txt 1 2988 
+way Sunlight.txt 1 3250 
+colder Sunlight.txt 1 3012 
+immune Sunlight.txt 1 3434 
+bodies Sunlight.txt 1 1458 
+slopes Sunlight.txt 1 1093 
+exposure Sunlight.txt 5 3282 3320 3395 3420 3521 
+was Sunlight.txt 3 1218 1452 2700 
+combined Sunlight.txt 1 2563 
+considerably Sunlight.txt 1 743 
+north Sunlight.txt 1 1099 
+form Sunlight.txt 1 2158 
+venuss Sunlight.txt 1 1524 
+forming Sunlight.txt 1 2196 
+converse Sunlight.txt 1 3028 
+but Sunlight.txt 8 569 875 974 1230 2299 2378 2854 3357 
+heat Sunlight.txt 2 111 2160 
+mw/m Sunlight.txt 1 850 
+related Sunlight.txt 1 3655 
+solar Sunlight.txt 53 23 92 334 434 533 855 897 981 1011 1047 1089 1132 1137 1139 1155 1167 1202 1208 1228 1249 1254 1261 1267 1327 1358 1364 1435 1461 1485 1493 1533 1702 1731 2076 2093 2272 2283 2308 2328 2402 2421 2427 2432 2442 2457 2500 2505 2511 2640 2726 3455 3591 3634 
+blindness Sunlight.txt 1 3453 
+line Sunlight.txt 1 2034 
+highest Sunlight.txt 1 762 
+with Sunlight.txt 26 639 907 1227 1305 1405 1555 1737 2015 2023 2067 2096 2105 2172 2189 2398 2503 2514 2564 2751 2973 3185 3213 3298 3400 3426 3619 
+shutters Sunlight.txt 1 3005 
+longer Sunlight.txt 3 2106 2515 3304 
+darken Sunlight.txt 1 3194 
+dna Sunlight.txt 2 3599 3627 
+beds Sunlight.txt 1 3170 
+places Sunlight.txt 2 3110 3118 
+lower-energy Sunlight.txt 1 947 
+thaliana Sunlight.txt 1 3603 
+latitudinal Sunlight.txt 1 2303 
+uv Sunlight.txt 8 638 644 864 1392 3457 3537 3569 3592 
+variations Sunlight.txt 1 2074 
+maximum Sunlight.txt 1 399 
+lifespan Sunlight.txt 1 3571 
+planet Sunlight.txt 2 1490 2183 
+below Sunlight.txt 2 529 619 
+growth Sunlight.txt 1 3390 
+limit Sunlight.txt 1 836 
+today Sunlight.txt 1 1304 
+distribution Sunlight.txt 2 1369 2304 
+minutes Sunlight.txt 1 210 
+called Sunlight.txt 2 46 3269 
+x-ray Sunlight.txt 1 1020 
+sunnier Sunlight.txt 1 3017 
+strongly Sunlight.txt 1 2388 
+strengthening Sunlight.txt 1 3384 
+constant Sunlight.txt 11 436 1133 1138 1156 1203 2243 2267 2278 2298 2443 2446 
+attenuating Sunlight.txt 1 451 
+links Sunlight.txt 1 3652 
+cover Sunlight.txt 2 2021 2031 
+year Sunlight.txt 7 349 406 513 2240 2522 2526 2531 
+life Sunlight.txt 3 2534 2543 3078 
+an Sunlight.txt 16 145 164 717 795 834 1466 1520 1792 1919 2208 3146 3226 3248 3260 3273 3617 
+as Sunlight.txt 28 80 102 126 193 931 961 1576 1676 1678 1775 2138 2215 2276 2296 2348 2518 2556 2575 2582 2597 2655 2846 2864 3072 3202 3235 3333 3440 
+au Sunlight.txt 4 421 427 1191 1688 
+at Sunlight.txt 35 154 223 491 497 555 562 591 622 732 773 809 861 869 1040 1142 1184 1270 1391 1509 1645 1795 1833 1844 1946 2006 2071 2109 2118 2202 2311 2336 2371 2947 2986 3658 
+melanocytes Sunlight.txt 1 3270 
+domestication Sunlight.txt 1 2716 
+ice Sunlight.txt 1 2416 
+redder Sunlight.txt 1 1619 
+moonlight Sunlight.txt 1 1680 
+compared Sunlight.txt 1 2014 
+epidemiological Sunlight.txt 1 3513 
+nm Sunlight.txt 7 603 612 621 1059 1065 1903 1940 
+2003 Sunlight.txt 1 1377 
+amounts Sunlight.txt 2 879 3136 
+when Sunlight.txt 12 82 89 112 543 558 1815 1965 2126 2459 2932 2982 3300 
+43 Sunlight.txt 1 606 
+neolithic Sunlight.txt 1 2713 
+tim Sunlight.txt 1 1313 
+other Sunlight.txt 13 6 31 121 161 264 2045 2146 2203 2586 2622 2627 2674 3575 
+5 Sunlight.txt 2 616 2212 
+details Sunlight.txt 1 1828 
+department Sunlight.txt 1 1122 
+out Sunlight.txt 2 958 2206 
+annual Sunlight.txt 1 2368 
+soho Sunlight.txt 1 1309 
+internally Sunlight.txt 1 3369 
+releasing Sunlight.txt 1 2638 
+star Sunlight.txt 1 2180 
+equal-energy Sunlight.txt 1 1920 
+provided Sunlight.txt 2 2749 3055 
+sunbed Sunlight.txt 1 3155 
+gas Sunlight.txt 1 2783 
+1361 Sunlight.txt 1 1243 
+categories Sunlight.txt 2 3661 3663 
+variation Sunlight.txt 6 1316 2082 2354 2423 2428 2502 
+emission Sunlight.txt 1 1006 
+generated Sunlight.txt 1 3368 
+scale Sunlight.txt 1 1149 
+pathways Sunlight.txt 1 2588 
+suppression Sunlight.txt 1 3435 
+exposed Sunlight.txt 1 3305 
+enzyme Sunlight.txt 1 3618 
+needed Sunlight.txt 1 1692 
+began Sunlight.txt 2 2661 2708 
+e Sunlight.txt 4 336 400 437 447 
+lead Sunlight.txt 1 1976 
+scenes Sunlight.txt 1 2910 
+assume Sunlight.txt 1 2270 
+thermalization Sunlight.txt 1 941 
+required Sunlight.txt 1 2648 
+orbit Sunlight.txt 4 319 341 1706 2185 
+light-hours Sunlight.txt 1 1690 
+1366 Sunlight.txt 1 1223 
+1367 Sunlight.txt 1 536 
+portion Sunlight.txt 1 52 
+nasa Sunlight.txt 1 1286 
+heats Sunlight.txt 1 686 
+time Sunlight.txt 9 142 233 511 1348 2190 2280 2451 2464 3299 
+starting Sunlight.txt 1 222 
+having Sunlight.txt 2 634 3495 
+once Sunlight.txt 1 2756 

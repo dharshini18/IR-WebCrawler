@@ -1,0 +1,851 @@
+all Digital_object_identifier.txt 5 1242 1560 2289 2392 2769 
+concept Digital_object_identifier.txt 1 1394 
+managed Digital_object_identifier.txt 1 1505 
+http://dx.doi.org Digital_object_identifier.txt 1 1970 
+lack Digital_object_identifier.txt 2 1625 1637 
+existing Digital_object_identifier.txt 2 1325 1530 
+leads Digital_object_identifier.txt 1 882 
+prefix Digital_object_identifier.txt 8 378 387 428 461 478 491 515 2543 
+browsers Digital_object_identifier.txt 1 2148 
+go Digital_object_identifier.txt 1 833 
+displaying Digital_object_identifier.txt 1 697 
+issues Digital_object_identifier.txt 2 1919 2417 
+relationships Digital_object_identifier.txt 1 974 
+whose Digital_object_identifier.txt 1 450 
+depend Digital_object_identifier.txt 2 1695 2159 
+referring Digital_object_identifier.txt 2 192 1566 
+advantage Digital_object_identifier.txt 1 2780 
+graph Digital_object_identifier.txt 1 870 
+created Digital_object_identifier.txt 2 2100 2276 
+prefixes Digital_object_identifier.txt 2 2432 2538 
+to Digital_object_identifier.txt 96 32 56 81 95 99 104 108 120 155 193 219 226 228 237 244 250 290 292 342 448 503 581 589 630 686 745 772 788 793 817 832 834 883 930 948 961 988 991 1002 1137 1148 1165 1178 1202 1283 1351 1397 1427 1443 1470 1478 1532 1534 1567 1592 1597 1604 1658 1706 1797 1812 1837 1855 1903 1915 1920 1929 1947 1995 2073 2084 2133 2137 2156 2167 2174 2192 2220 2294 2319 2335 2391 2426 2441 2444 2457 2467 2483 2550 2562 2634 2740 2745 2777 2781 2814 
+charge Digital_object_identifier.txt 1 2547 
+according Digital_object_identifier.txt 1 1177 
+permanently Digital_object_identifier.txt 1 942 
+those Digital_object_identifier.txt 2 2350 2652 
+stable Digital_object_identifier.txt 1 204 
+include Digital_object_identifier.txt 6 853 903 1456 1611 1948 2043 
+resources Digital_object_identifier.txt 2 87 2123 
+started Digital_object_identifier.txt 1 2062 
+activities Digital_object_identifier.txt 1 2387 
+federation Digital_object_identifier.txt 2 309 1314 
+co-operation Digital_object_identifier.txt 1 859 
+doi:10.1000/182 Digital_object_identifier.txt 2 684 711 
+engineered Digital_object_identifier.txt 1 1136 
+choice Digital_object_identifier.txt 1 623 
+every Digital_object_identifier.txt 1 211 
+difficult Digital_object_identifier.txt 1 1555 
+10.1000 Digital_object_identifier.txt 1 480 
+categories Digital_object_identifier.txt 2 2864 2866 
+crossref Digital_object_identifier.txt 4 690 755 904 2011 
+entire Digital_object_identifier.txt 1 804 
+level Digital_object_identifier.txt 1 625 
+supports Digital_object_identifier.txt 1 2303 
+who Digital_object_identifier.txt 1 2379 
+unusual Digital_object_identifier.txt 1 2068 
+list Digital_object_identifier.txt 1 2494 
+rfcs Digital_object_identifier.txt 1 914 
+infouri Digital_object_identifier.txt 1 2689 
+item Digital_object_identifier.txt 2 535 753 
+manages Digital_object_identifier.txt 1 2298 
+offering Digital_object_identifier.txt 1 1319 
+1998 Digital_object_identifier.txt 1 2278 
+small Digital_object_identifier.txt 1 1234 
+servers Digital_object_identifier.txt 1 2223 
+direct Digital_object_identifier.txt 1 1488 
+consists Digital_object_identifier.txt 1 1866 
+cost Digital_object_identifier.txt 1 2577 
+video Digital_object_identifier.txt 1 563 
+licenses Digital_object_identifier.txt 1 579 
+further Digital_object_identifier.txt 2 464 894 
+implemented Digital_object_identifier.txt 1 306 
+click Digital_object_identifier.txt 1 1996 
+substitute Digital_object_identifier.txt 1 1725 
+aim Digital_object_identifier.txt 1 153 
+adds Digital_object_identifier.txt 1 1396 
+specification Digital_object_identifier.txt 1 1100 
+uniform Digital_object_identifier.txt 6 1356 1388 1391 1613 1708 1735 
+access Digital_object_identifier.txt 4 103 2122 2193 2815 
+version Digital_object_identifier.txt 4 546 2077 2090 2633 
+http://doai.io Digital_object_identifier.txt 1 2064 
+new Digital_object_identifier.txt 6 230 825 1152 1608 2055 2553 
+officially Digital_object_identifier.txt 1 706 
+public Digital_object_identifier.txt 2 1257 1495 
+contrast Digital_object_identifier.txt 1 1750 
+publications Digital_object_identifier.txt 1 74 
+body Digital_object_identifier.txt 1 2282 
+subdivided Digital_object_identifier.txt 1 465 
+full Digital_object_identifier.txt 1 791 
+submitted Digital_object_identifier.txt 1 2630 
+commercial Digital_object_identifier.txt 1 90 
+met Digital_object_identifier.txt 1 2618 
+objects Digital_object_identifier.txt 9 35 590 958 971 996 1071 1232 1698 1758 
+doi.org Digital_object_identifier.txt 2 725 1935 
+represented Digital_object_identifier.txt 1 2017 
+100 Digital_object_identifier.txt 1 2650 
+appears Digital_object_identifier.txt 1 2776 
+change Digital_object_identifier.txt 2 191 2168 
+publisher Digital_object_identifier.txt 1 217 
+search Digital_object_identifier.txt 1 2129 
+rds Digital_object_identifier.txt 3 2739 2755 2829 
+technical Digital_object_identifier.txt 4 1305 1510 1916 2598 
+items Digital_object_identifier.txt 2 564 1834 
+allows Digital_object_identifier.txt 2 1602 1993 
+step Digital_object_identifier.txt 1 2810 
+reports Digital_object_identifier.txt 1 68 
+leaving Digital_object_identifier.txt 1 254 
+oversees Digital_object_identifier.txt 1 1292 
+social Digital_object_identifier.txt 5 1020 1307 1310 1403 1508 
+usually Digital_object_identifier.txt 3 98 429 1636 
+changes Digital_object_identifier.txt 2 215 1277 
+encountering Digital_object_identifier.txt 2 1800 2244 
+uniquely Digital_object_identifier.txt 3 33 156 1899 
+firefox Digital_object_identifier.txt 2 2188 2206 
+add-ons Digital_object_identifier.txt 1 2144 
+demands Digital_object_identifier.txt 1 1150 
+manage Digital_object_identifier.txt 1 1428 
+replace Digital_object_identifier.txt 1 2218 
+screens Digital_object_identifier.txt 1 677 
+texts Digital_object_identifier.txt 1 559 
+names Digital_object_identifier.txt 13 326 346 552 586 598 987 1080 1244 1268 1756 2162 2332 2435 
+total Digital_object_identifier.txt 1 456 
+select Digital_object_identifier.txt 1 1166 
+use Digital_object_identifier.txt 4 6 54 1598 2138 
+fee Digital_object_identifier.txt 2 1215 2549 
+from Digital_object_identifier.txt 9 145 1197 1216 1346 1410 1458 1716 1808 2344 
+takes Digital_object_identifier.txt 2 366 430 
+would Digital_object_identifier.txt 2 1208 1769 
+remains Digital_object_identifier.txt 1 176 
+two Digital_object_identifier.txt 5 375 1070 1743 1747 1763 
+governance Digital_object_identifier.txt 1 2281 
+oecd Digital_object_identifier.txt 2 865 873 
+handles Digital_object_identifier.txt 1 2196 
+opposed Digital_object_identifier.txt 1 502 
+https Digital_object_identifier.txt 2 1975 2019 
+simpler Digital_object_identifier.txt 1 2805 
+type Digital_object_identifier.txt 3 360 1879 1883 
+more Digital_object_identifier.txt 4 203 321 1815 1833 
+separated Digital_object_identifier.txt 1 382 
+standardized Digital_object_identifier.txt 1 36 
+comparison Digital_object_identifier.txt 2 1336 1549 
+successful Digital_object_identifier.txt 1 1326 
+binding Digital_object_identifier.txt 1 117 
+under Digital_object_identifier.txt 2 2539 2676 
+cooperate Digital_object_identifier.txt 1 2468 
+26324 Digital_object_identifier.txt 1 2610 
+varying Digital_object_identifier.txt 1 592 
+appointed Digital_object_identifier.txt 2 2376 2420 
+behalf Digital_object_identifier.txt 1 2487 
+must Digital_object_identifier.txt 2 639 1875 
+organizations Digital_object_identifier.txt 4 277 333 350 2393 
+characterised Digital_object_identifier.txt 1 1733 
+defines Digital_object_identifier.txt 1 1886 
+rights Digital_object_identifier.txt 1 2292 
+this Digital_object_identifier.txt 14 113 338 520 542 712 979 1189 1650 1702 1991 2008 2065 2214 2230 
+avoiding Digital_object_identifier.txt 1 2150 
+imprecisely Digital_object_identifier.txt 1 1565 
+values Digital_object_identifier.txt 1 1853 
+indicating Digital_object_identifier.txt 1 129 
+isbns Digital_object_identifier.txt 1 149 
+meet Digital_object_identifier.txt 2 279 1675 
+closing Digital_object_identifier.txt 1 2657 
+example Digital_object_identifier.txt 5 471 701 710 1977 2182 
+control Digital_object_identifier.txt 1 1489 
+links Digital_object_identifier.txt 1 2862 
+approved Digital_object_identifier.txt 1 2648 
+agent Digital_object_identifier.txt 1 2378 
+pieces Digital_object_identifier.txt 2 966 1816 
+states Digital_object_identifier.txt 1 671 
+numbers Digital_object_identifier.txt 1 443 
+allowed Digital_object_identifier.txt 1 416 
+string Digital_object_identifier.txt 2 372 2800 
+information Digital_object_identifier.txt 6 62 86 106 968 1276 2611 
+requirements Digital_object_identifier.txt 3 2348 2621 2772 
+recovery Digital_object_identifier.txt 1 2578 
+provide Digital_object_identifier.txt 6 201 931 962 2424 2437 2484 
+semantically-interoperable Digital_object_identifier.txt 1 1468 
+divided Digital_object_identifier.txt 1 373 
+acts Digital_object_identifier.txt 1 1105 
+namespace Digital_object_identifier.txt 6 500 508 2690 2726 2766 2798 
+located Digital_object_identifier.txt 1 1380 
+instead Digital_object_identifier.txt 2 703 2086 
+ordinary Digital_object_identifier.txt 1 1718 
+native Digital_object_identifier.txt 3 2210 2225 2826 
+purl Digital_object_identifier.txt 3 731 1616 1713 
+gs1 Digital_object_identifier.txt 1 1333 
+administrator Digital_object_identifier.txt 1 261 
+description Digital_object_identifier.txt 1 2603 
+may Digital_object_identifier.txt 12 190 462 1088 1160 1255 1261 1585 1624 1858 1910 1926 2164 
+typed Digital_object_identifier.txt 1 1818 
+different Digital_object_identifier.txt 2 1285 1744 
+collection Digital_object_identifier.txt 3 1431 1446 1454 
+applications Digital_object_identifier.txt 4 844 847 1153 1663 
+tries Digital_object_identifier.txt 1 2072 
+designed Digital_object_identifier.txt 1 926 
+preferring Digital_object_identifier.txt 1 2018 
+such Digital_object_identifier.txt 20 63 88 125 147 557 577 897 1043 1272 1331 1353 1414 1659 1665 1753 1827 1933 1965 2124 2752 
+data Digital_object_identifier.txt 10 70 656 888 1253 1400 1473 1819 1878 1893 2451 
+types Digital_object_identifier.txt 1 84 
+a Digital_object_identifier.txt 92 19 26 92 127 142 174 202 213 251 294 308 356 359 370 377 380 384 424 437 538 582 601 607 616 651 655 691 698 718 730 824 878 932 1019 1174 1233 1284 1304 1313 1342 1368 1382 1399 1405 1429 1445 1504 1568 1607 1631 1641 1690 1707 1801 1809 1841 1845 1850 1863 1868 1877 1895 1922 1930 1944 1952 1955 1985 2001 2054 2075 2079 2141 2178 2227 2248 2273 2365 2480 2493 2528 2548 2552 2575 2655 2673 2699 2724 2734 2764 2796 2842 
+deliberately Digital_object_identifier.txt 1 2721 
+short Digital_object_identifier.txt 1 1082 
+sectors Digital_object_identifier.txt 1 1687 
+register Digital_object_identifier.txt 1 2433 
+rather Digital_object_identifier.txt 3 1061 1371 2802 
+maintain Digital_object_identifier.txt 1 2447 
+so Digital_object_identifier.txt 6 246 727 1109 1142 1848 2022 
+allow Digital_object_identifier.txt 2 985 2442 
+operate Digital_object_identifier.txt 1 1138 
+order Digital_object_identifier.txt 1 831 
+holds Digital_object_identifier.txt 1 2406 
+developed Digital_object_identifier.txt 2 1786 2589 
+over Digital_object_identifier.txt 2 178 2020 
+despite Digital_object_identifier.txt 2 1188 2767 
+mainly Digital_object_identifier.txt 1 55 
+interpreted Digital_object_identifier.txt 1 422 
+through Digital_object_identifier.txt 6 307 348 1303 1782 2570 2821 
+committee Digital_object_identifier.txt 1 2599 
+differs Digital_object_identifier.txt 4 144 1345 1409 1715 
+interoperable Digital_object_identifier.txt 2 141 1451 
+architecture Digital_object_identifier.txt 1 2732 
+its Digital_object_identifier.txt 12 185 198 209 773 1004 1045 1059 1064 1882 1892 2386 2597 
+developer Digital_object_identifier.txt 1 259 
+group Digital_object_identifier.txt 2 1869 2628 
+fit Digital_object_identifier.txt 1 1096 
+how Digital_object_identifier.txt 1 2010 
+chosen Digital_object_identifier.txt 1 398 
+organisation Digital_object_identifier.txt 2 856 2275 
+actually Digital_object_identifier.txt 1 794 
+late Digital_object_identifier.txt 1 318 
+willing Digital_object_identifier.txt 1 289 
+systems Digital_object_identifier.txt 1 1584 
+2015 Digital_object_identifier.txt 1 913 
+coordinated Digital_object_identifier.txt 1 313 
+hidden Digital_object_identifier.txt 1 2865 
+2016 Digital_object_identifier.txt 2 2053 2105 
+2011 Digital_object_identifier.txt 1 320 
+2010 Digital_object_identifier.txt 1 2661 
+2013 Digital_object_identifier.txt 1 337 
+2012 Digital_object_identifier.txt 1 2670 
+then Digital_object_identifier.txt 1 2092 
+greater Digital_object_identifier.txt 1 444 
+thereby Digital_object_identifier.txt 1 2149 
+material Digital_object_identifier.txt 2 1352 1479 
+registrars Digital_object_identifier.txt 1 2514 
+primary Digital_object_identifier.txt 1 1436 
+they Digital_object_identifier.txt 8 76 997 1085 1557 1577 2025 2033 2429 
+not Digital_object_identifier.txt 11 785 1034 1514 1559 1648 1654 1694 1911 2257 2722 2761 
+one Digital_object_identifier.txt 5 1813 1831 2139 2259 2510 
+provision Digital_object_identifier.txt 1 1522 
+widespread Digital_object_identifier.txt 1 2461 
+articles Digital_object_identifier.txt 1 66 
+several Digital_object_identifier.txt 1 1539 
+name Digital_object_identifier.txt 19 475 653 880 941 1029 1066 1077 1344 1393 1407 1692 1710 1774 1778 1803 1811 1843 1924 2555 
+edit Digital_object_identifier.txt 12 355 665 845 923 1341 1776 2267 2581 2856 2858 2860 2863 
+always Digital_object_identifier.txt 1 2015 
+accompanying Digital_object_identifier.txt 1 1638 
+labeling Digital_object_identifier.txt 1 1599 
+bielefeld Digital_object_identifier.txt 1 2127 
+each Digital_object_identifier.txt 3 867 939 1872 
+found Digital_object_identifier.txt 2 135 1001 
+identifies Digital_object_identifier.txt 5 388 403 945 1363 1900 
+identifier Digital_object_identifier.txt 15 2 16 22 28 393 1339 1390 1412 1424 1552 1583 1660 2616 2713 2852 
+notes Digital_object_identifier.txt 1 2857 
+mean Digital_object_identifier.txt 1 1575 
+domain Digital_object_identifier.txt 2 726 2161 
+schemes Digital_object_identifier.txt 4 1340 1571 1661 2756 
+aims Digital_object_identifier.txt 1 94 
+doing Digital_object_identifier.txt 1 1561 
+series Digital_object_identifier.txt 1 438 
+registration Digital_object_identifier.txt 9 311 694 910 1317 2326 2418 2452 2544 2775 
+directing Digital_object_identifier.txt 1 1200 
+related Digital_object_identifier.txt 3 1471 2401 2416 
+resolvable Digital_object_identifier.txt 1 97 
+http://doi.org Digital_object_identifier.txt 1 1967 
+extended Digital_object_identifier.txt 1 1249 
+year Digital_object_identifier.txt 1 2052 
+ras Digital_object_identifier.txt 1 2497 
+operation Digital_object_identifier.txt 1 1299 
+beyond Digital_object_identifier.txt 1 2349 
+registrant Digital_object_identifier.txt 5 390 401 518 523 2338 
+85 Digital_object_identifier.txt 1 343 
+shown Digital_object_identifier.txt 1 876 
+network Digital_object_identifier.txt 1 982 
+wikipedia:digital Digital_object_identifier.txt 1 14 
+open Digital_object_identifier.txt 4 1129 2121 2390 2408 
+since Digital_object_identifier.txt 3 912 2091 2773 
+research Digital_object_identifier.txt 2 67 1791 
+content Digital_object_identifier.txt 5 166 662 1016 1221 1499 
+specifications Digital_object_identifier.txt 2 2833 2853 
+internet Digital_object_identifier.txt 3 1349 1731 2851 
+print Digital_object_identifier.txt 1 680 
+tc46/sc9 Digital_object_identifier.txt 1 2604 
+issue Digital_object_identifier.txt 1 605 
+correct Digital_object_identifier.txt 1 747 
+registries Digital_object_identifier.txt 2 902 1413 
+foundation Digital_object_identifier.txt 8 270 528 1290 2271 2373 2504 2522 2846 
+dictionary Digital_object_identifier.txt 1 657 
+state Digital_object_identifier.txt 1 2450 
+easily Digital_object_identifier.txt 1 1581 
+million Digital_object_identifier.txt 2 324 344 
+mechanisms Digital_object_identifier.txt 2 1133 2830 
+standard Digital_object_identifier.txt 6 1411 2588 2608 2644 2664 2701 
+approaches Digital_object_identifier.txt 2 1540 1553 
+base Digital_object_identifier.txt 1 2126 
+proxy Digital_object_identifier.txt 4 738 1964 2222 2824 
+members Digital_object_identifier.txt 1 2370 
+beginning Digital_object_identifier.txt 1 2049 
+defining Digital_object_identifier.txt 1 2793 
+incorporates Digital_object_identifier.txt 1 1131 
+fixed Digital_object_identifier.txt 1 177 
+benefits Digital_object_identifier.txt 1 922 
+e.g Digital_object_identifier.txt 2 1494 1688 
+favoring Digital_object_identifier.txt 1 2095 
+copy-and-paste Digital_object_identifier.txt 2 789 818 
+membership Digital_object_identifier.txt 1 2388 
+thing Digital_object_identifier.txt 1 1564 
+iso Digital_object_identifier.txt 4 43 2620 2626 2635 
+barriers Digital_object_identifier.txt 1 1591 
+promotion Digital_object_identifier.txt 1 2307 
+assign Digital_object_identifier.txt 2 300 2551 
+1000 Digital_object_identifier.txt 2 449 512 
+major Digital_object_identifier.txt 2 692 846 
+already Digital_object_identifier.txt 1 2819 
+isbn Digital_object_identifier.txt 2 1335 1417 
+suffix Digital_object_identifier.txt 4 381 396 483 533 
+third Digital_object_identifier.txt 1 2342 
+number Digital_object_identifier.txt 3 339 457 2142 
+linking Digital_object_identifier.txt 1 205 
+dona Digital_object_identifier.txt 1 2521 
+instances Digital_object_identifier.txt 2 1764 1822 
+improvements Digital_object_identifier.txt 1 2317 
+directly Digital_object_identifier.txt 2 1657 2203 
+fees Digital_object_identifier.txt 1 2559 
+ways Digital_object_identifier.txt 1 1538 
+electronic Digital_object_identifier.txt 2 569 2398 
+anyone Digital_object_identifier.txt 1 1603 
+given Digital_object_identifier.txt 3 1175 1430 2747 
+publication Digital_object_identifier.txt 3 863 874 1275 
+service Digital_object_identifier.txt 6 864 1124 2066 2738 2743 2818 
+redirection Digital_object_identifier.txt 1 2813 
+23 Digital_object_identifier.txt 1 2668 
+system Digital_object_identifier.txt 42 49 162 265 286 298 304 363 507 637 851 929 1008 1012 1024 1157 1193 1228 1302 1441 1465 1646 1684 1785 1840 2115 2195 2212 2286 2297 2311 2322 2359 2466 2478 2518 2537 2568 2584 2617 2719 2784 2849 
+least Digital_object_identifier.txt 2 441 2237 
+182 Digital_object_identifier.txt 2 485 530 
+their Digital_object_identifier.txt 5 158 828 973 1266 2489 
+assumption Digital_object_identifier.txt 1 762 
+draft Digital_object_identifier.txt 2 2606 2642 
+typing Digital_object_identifier.txt 1 1940 
+scheme Digital_object_identifier.txt 4 1633 1643 2680 2749 
+final Digital_object_identifier.txt 2 2641 2663 
+that Digital_object_identifier.txt 30 278 409 620 647 672 720 763 779 881 984 1026 1050 1068 1110 1143 1207 1361 1453 1480 1576 1601 1674 1865 2013 2023 2070 2085 2235 2315 2730 
+ownership Digital_object_identifier.txt 1 1049 
+part Digital_object_identifier.txt 4 488 496 643 977 
+consult Digital_object_identifier.txt 1 2120 
+operates Digital_object_identifier.txt 1 2573 
+representing Digital_object_identifier.txt 2 169 1821 
+than Digital_object_identifier.txt 6 206 322 445 1062 1372 2803 
+semantics Digital_object_identifier.txt 1 1890 
+wide Digital_object_identifier.txt 1 53 
+15 Digital_object_identifier.txt 1 2659 
+policymaking Digital_object_identifier.txt 1 2329 
+elected Digital_object_identifier.txt 1 2367 
+distinguishes Digital_object_identifier.txt 1 492 
+nnnn Digital_object_identifier.txt 1 435 
+depends Digital_object_identifier.txt 1 452 
+accesses Digital_object_identifier.txt 1 744 
+actively Digital_object_identifier.txt 1 2458 
+contrary Digital_object_identifier.txt 1 685 
+represents Digital_object_identifier.txt 1 843 
+standardised Digital_object_identifier.txt 1 2703 
+providing Digital_object_identifier.txt 3 732 1507 1594 
+solely Digital_object_identifier.txt 1 2110 
+declare Digital_object_identifier.txt 1 2445 
+browser Digital_object_identifier.txt 4 829 2191 2207 2249 
+and Digital_object_identifier.txt 70 60 69 72 140 150 187 260 287 334 353 379 394 402 481 509 565 570 574 678 860 892 905 921 943 972 1013 1067 1091 1095 1134 1140 1151 1245 1298 1306 1334 1395 1402 1450 1474 1509 1527 1634 1652 1700 1793 1847 1857 1889 1898 1917 2040 2081 2145 2163 2302 2306 2328 2384 2400 2415 2436 2446 2449 2482 2531 2602 2612 2807 2850 
+failing Digital_object_identifier.txt 1 243 
+better Digital_object_identifier.txt 1 1732 
+topics Digital_object_identifier.txt 1 2412 
+argument Digital_object_identifier.txt 1 777 
+doi:10.1000/1 Digital_object_identifier.txt 2 2202 2806 
+manner Digital_object_identifier.txt 1 426 
+have Digital_object_identifier.txt 10 78 1209 1545 1649 1671 1770 1876 2098 2258 2720 
+linked Digital_object_identifier.txt 1 752 
+contents Digital_object_identifier.txt 1 351 
+conversion Digital_object_identifier.txt 1 2152 
+documents Digital_object_identifier.txt 3 1206 1728 2030 
+built Digital_object_identifier.txt 1 1127 
+agency Digital_object_identifier.txt 2 695 911 
+mechanism Digital_object_identifier.txt 2 1104 1600 
+also Digital_object_identifier.txt 7 77 954 1408 2217 2340 2455 2855 
+issuing Digital_object_identifier.txt 1 1492 
+useless Digital_object_identifier.txt 1 257 
+which Digital_object_identifier.txt 18 109 152 272 365 420 740 938 949 1254 1885 1904 1938 1957 1973 2158 2255 2524 2646 
+online Digital_object_identifier.txt 2 195 748 
+responsibility Digital_object_identifier.txt 1 236 
+contractual Digital_object_identifier.txt 1 281 
+supporting Digital_object_identifier.txt 1 2831 
+persistence Digital_object_identifier.txt 1 722 
+added Digital_object_identifier.txt 1 1669 
+multiple Digital_object_identifier.txt 1 1171 
+shall Digital_object_identifier.txt 1 200 
+whole Digital_object_identifier.txt 1 2481 
+object Digital_object_identifier.txt 23 1 9 15 21 107 124 132 406 540 947 1032 1042 1055 1176 1281 1365 1378 1768 1825 1902 2615 2693 2712 
+most Digital_object_identifier.txt 3 411 1168 2240 
+dois Digital_object_identifier.txt 7 50 301 673 2014 2155 2198 2246 
+services Digital_object_identifier.txt 8 898 1321 1485 1526 1531 1826 2425 2485 
+proxies Digital_object_identifier.txt 2 2042 2135 
+the Digital_object_identifier.txt 216 5 38 47 105 110 118 123 131 160 164 171 179 182 216 221 224 229 234 239 247 255 258 263 267 280 284 297 302 315 367 386 389 392 395 400 404 427 431 455 460 473 477 482 486 490 493 498 510 514 517 522 525 532 544 548 585 613 622 631 635 645 660 666 682 687 705 724 733 746 751 754 761 764 776 781 790 797 800 803 812 815 819 835 839 841 849 855 890 906 924 927 946 970 995 1006 1010 1014 1022 1027 1041 1051 1054 1074 1098 1101 1107 1116 1155 1167 1179 1182 1185 1191 1219 1226 1263 1287 1293 1301 1309 1355 1373 1377 1387 1416 1420 1435 1439 1463 1487 1491 1521 1548 1562 1628 1644 1678 1682 1697 1730 1739 1766 1771 1783 1806 1824 1838 1887 1901 1949 1959 1978 1998 2048 2051 2088 2113 2151 2154 2172 2183 2190 2205 2209 2245 2268 2280 2284 2295 2304 2309 2312 2320 2352 2357 2360 2369 2372 2404 2411 2422 2438 2460 2464 2470 2473 2476 2501 2505 2512 2516 2520 2525 2540 2564 2566 2571 2582 2591 2605 2619 2624 2662 2677 2688 2695 2710 2714 2717 2742 2746 2770 2782 2799 2804 2816 
+doi Digital_object_identifier.txt 109 24 93 111 119 143 161 172 199 225 240 248 256 264 269 285 303 325 345 357 410 474 499 527 549 551 597 636 652 668 688 693 765 801 816 842 850 879 909 928 940 986 1007 1028 1065 1076 1079 1102 1156 1158 1192 1227 1243 1267 1289 1320 1343 1406 1440 1464 1645 1683 1691 1755 1773 1777 1802 1810 1842 1896 1908 1923 1931 1950 1979 1999 2038 2059 2096 2108 2117 2173 2270 2285 2296 2310 2321 2331 2337 2358 2414 2427 2431 2434 2465 2477 2503 2554 2567 2583 2671 2696 2718 2725 2759 2783 2794 2837 2845 2848 
+hyper-linked Digital_object_identifier.txt 1 771 
+url Digital_object_identifier.txt 14 128 210 214 231 699 713 775 792 805 820 1286 1359 1719 1956 
+performances Digital_object_identifier.txt 1 573 
+urn Digital_object_identifier.txt 8 1711 2731 2748 2765 2774 2797 2832 2843 
+later Digital_object_identifier.txt 1 2629 
+request Digital_object_identifier.txt 1 1186 
+uri Digital_object_identifier.txt 3 1099 2675 2679 
+actionable Digital_object_identifier.txt 3 139 1449 2036 
+graphs Digital_object_identifier.txt 1 893 
+place Digital_object_identifier.txt 1 1375 
+non-free Digital_object_identifier.txt 1 1203 
+professional Digital_object_identifier.txt 1 59 
+latest Digital_object_identifier.txt 1 545 
+registrants Digital_object_identifier.txt 4 459 1260 2428 2443 
+identifiers Digital_object_identifier.txt 14 10 146 1330 1433 1448 1457 1524 1543 1573 1620 1726 1737 1752 2694 
+obligations Digital_object_identifier.txt 1 282 
+text Digital_object_identifier.txt 1 1094 
+meetings Digital_object_identifier.txt 1 2409 
+syntax Digital_object_identifier.txt 4 354 1888 2697 2708 
+bring Digital_object_identifier.txt 1 795 
+http://hdl.handle.net Digital_object_identifier.txt 1 2044 
+planning Digital_object_identifier.txt 1 2385 
+isrc Digital_object_identifier.txt 1 1418 
+find Digital_object_identifier.txt 2 2074 2741 
+redirect Digital_object_identifier.txt 1 742 
+current Digital_object_identifier.txt 2 1472 2496 
+based Digital_object_identifier.txt 3 658 759 1035 
+proposed Digital_object_identifier.txt 1 1547 
+title Digital_object_identifier.txt 1 2080 
+implementation Digital_object_identifier.txt 1 45 
+edited Digital_object_identifier.txt 1 2632 
+outside Digital_object_identifier.txt 1 1486 
+should Digital_object_identifier.txt 3 674 806 1653 
+entities Digital_object_identifier.txt 1 1762 
+only Digital_object_identifier.txt 2 154 453 
+explicitly Digital_object_identifier.txt 1 670 
+indeed Digital_object_identifier.txt 1 2004 
+identification Digital_object_identifier.txt 2 936 2601 
+achieve Digital_object_identifier.txt 1 1003 
+first Digital_object_identifier.txt 3 1760 2119 2702 
+do Digital_object_identifier.txt 1 245 
+handle Digital_object_identifier.txt 18 30 48 362 364 494 506 1011 1023 1784 1839 1846 1873 2114 2185 2194 2211 2517 2536 
+9,500 Digital_object_identifier.txt 1 349 
+10.nnnn.n Digital_object_identifier.txt 1 469 
+10 Digital_object_identifier.txt 2 487 2542 
+displayed Digital_object_identifier.txt 2 768 808 
+overall Digital_object_identifier.txt 1 2569 
+preferred Digital_object_identifier.txt 1 1968 
+made Digital_object_identifier.txt 1 2318 
+international Digital_object_identifier.txt 11 39 268 526 1288 2269 2502 2587 2592 2607 2643 2844 
+entity Digital_object_identifier.txt 1 1370 
+emails Digital_object_identifier.txt 1 2031 
+resolve Digital_object_identifier.txt 1 1921 
+resource Digital_object_identifier.txt 6 1357 1389 1392 1614 1709 1736 
+niso Digital_object_identifier.txt 1 2700 
+ietf Digital_object_identifier.txt 1 2683 
+fields Digital_object_identifier.txt 1 1871 
+board Digital_object_identifier.txt 2 2366 2529 
+rfc Digital_object_identifier.txt 1 2684 
+common Digital_object_identifier.txt 2 1237 2299 
+including Digital_object_identifier.txt 1 2323 
+registry Digital_object_identifier.txt 2 1425 1506 
+metadata Digital_object_identifier.txt 14 121 170 189 222 646 956 980 1060 1230 1238 1264 1639 1836 2448 
+where Digital_object_identifier.txt 5 130 434 994 1376 1452 
+pointers Digital_object_identifier.txt 1 1350 
+kernel Digital_object_identifier.txt 1 1235 
+declared Digital_object_identifier.txt 1 641 
+set Digital_object_identifier.txt 3 1569 1605 1851 
+reference Digital_object_identifier.txt 1 1986 
+achieved Digital_object_identifier.txt 2 115 2820 
+imposing Digital_object_identifier.txt 1 2345 
+generally Digital_object_identifier.txt 1 2546 
+national Digital_object_identifier.txt 1 1790 
+scenes Digital_object_identifier.txt 1 1108 
+mentioned Digital_object_identifier.txt 1 2007 
+see Digital_object_identifier.txt 2 13 2854 
+individual Digital_object_identifier.txt 2 604 610 
+are Digital_object_identifier.txt 15 51 288 415 421 981 1056 1072 1081 1086 1558 1721 2026 2333 2454 2560 
+top-level Digital_object_identifier.txt 1 2541 
+changeable Digital_object_identifier.txt 1 1038 
+ark Digital_object_identifier.txt 1 1689 
+best Digital_object_identifier.txt 1 1476 
+subject Digital_object_identifier.txt 1 2166 
+still Digital_object_identifier.txt 1 2170 
+purpose Digital_object_identifier.txt 2 1421 1437 
+pasted Digital_object_identifier.txt 1 1092 
+user Digital_object_identifier.txt 4 1183 1799 1807 2491 
+currently Digital_object_identifier.txt 2 852 2757 
+wikipedia Digital_object_identifier.txt 2 3 12 
+behind Digital_object_identifier.txt 1 1106 
+features Digital_object_identifier.txt 4 920 1670 1679 2301 
+drawn Digital_object_identifier.txt 1 1195 
+approach Digital_object_identifier.txt 4 1651 1937 1992 2231 
+discovery Digital_object_identifier.txt 1 2737 
+available Digital_object_identifier.txt 4 1211 1796 2334 2836 
+publishers Digital_object_identifier.txt 3 235 2089 2233 
+infrastructure Digital_object_identifier.txt 6 1021 1308 1311 1404 1511 2440 
+open-access Digital_object_identifier.txt 1 2094 
+ability Digital_object_identifier.txt 1 1190 
+tables Digital_object_identifier.txt 1 891 
+citation Digital_object_identifier.txt 1 1496 
+agencies Digital_object_identifier.txt 5 312 1318 2419 2453 2545 
+however Digital_object_identifier.txt 2 1187 2750 
+https://doi.pangaea.de Digital_object_identifier.txt 1 2046 
+article Digital_object_identifier.txt 2 611 621 
+reader Digital_object_identifier.txt 1 2251 
+factsheet Digital_object_identifier.txt 1 2847 
+both Digital_object_identifier.txt 2 568 1971 
+enables Digital_object_identifier.txt 2 1528 2189 
+hyperlink Digital_object_identifier.txt 4 782 1988 2003 2180 
+many Digital_object_identifier.txt 1 1459 
+annual Digital_object_identifier.txt 1 2407 
+equal Digital_object_identifier.txt 1 447 
+contract Digital_object_identifier.txt 1 719 
+enabling Digital_object_identifier.txt 3 1587 1666 2402 
+april Digital_object_identifier.txt 3 319 336 2669 
+s Digital_object_identifier.txt 1 862 
+planned Digital_object_identifier.txt 1 900 
+urls Digital_object_identifier.txt 5 1617 1720 1748 1820 2157 
+attributes Digital_object_identifier.txt 2 1039 1052 
+adapted Digital_object_identifier.txt 1 1147 
+among Digital_object_identifier.txt 1 1170 
+ilibrary Digital_object_identifier.txt 1 866 
+relevant Digital_object_identifier.txt 3 965 1252 2625 
+can Digital_object_identifier.txt 13 133 299 553 587 599 915 999 1145 1246 1455 1578 1981 2216 
+character Digital_object_identifier.txt 2 371 1083 
+community Digital_object_identifier.txt 1 2492 
+maintained Digital_object_identifier.txt 1 2499 
+simply Digital_object_identifier.txt 1 207 
+name-resolution Digital_object_identifier.txt 2 1103 1159 
+table Digital_object_identifier.txt 2 618 868 
+trust Digital_object_identifier.txt 1 1132 
+november Digital_object_identifier.txt 1 2660 
+forms Digital_object_identifier.txt 1 572 
+ensures Digital_object_identifier.txt 3 721 1025 2314 
+flexibly Digital_object_identifier.txt 1 1141 
+basis Digital_object_identifier.txt 1 2579 
+initiatives Digital_object_identifier.txt 1 1792 
+copies Digital_object_identifier.txt 1 1204 
+been Digital_object_identifier.txt 6 79 328 1210 1546 1672 2099 
+defined Digital_object_identifier.txt 1 1537 
+offers Digital_object_identifier.txt 1 1466 
+maintenance Digital_object_identifier.txt 1 2325 
+expected Digital_object_identifier.txt 1 2456 
+adoption Digital_object_identifier.txt 1 2462 
+copied Digital_object_identifier.txt 1 1090 
+10.nnnn Digital_object_identifier.txt 1 433 
+4 Digital_object_identifier.txt 1 442 
+engine Digital_object_identifier.txt 1 2130 
+describe Digital_object_identifier.txt 1 998 
+controlled Digital_object_identifier.txt 3 1461 1642 2363 
+offered Digital_object_identifier.txt 1 1680 
+various Digital_object_identifier.txt 1 1662 
+locations Digital_object_identifier.txt 4 993 1172 1218 1745 
+external Digital_object_identifier.txt 1 2861 
+dns-based Digital_object_identifier.txt 1 2735 
+mail Digital_object_identifier.txt 1 2250 
+assigning Digital_object_identifier.txt 1 2535 
+present Digital_object_identifier.txt 1 2239 
+case Digital_object_identifier.txt 2 521 543 
+these Digital_object_identifier.txt 4 418 1296 2261 2558 
+operational Digital_object_identifier.txt 1 2300 
+guids Digital_object_identifier.txt 1 1621 
+as Digital_object_identifier.txt 43 64 89 126 148 495 501 558 578 642 786 918 976 1044 1093 1119 1223 1273 1332 1354 1367 1415 1572 1724 1734 1754 1759 1828 1862 1934 1954 1961 1966 1989 2000 2005 2125 2177 2479 2509 2638 2763 2795 2841 
+value Digital_object_identifier.txt 2 1501 1874 
+will Digital_object_identifier.txt 6 741 1481 1635 2034 2242 2838 
+while Digital_object_identifier.txt 3 1894 2106 2169 
+reliably Digital_object_identifier.txt 1 1139 
+freely Digital_object_identifier.txt 1 1795 
+property Digital_object_identifier.txt 1 2291 
+at Digital_object_identifier.txt 8 440 591 1269 1381 1742 2047 2236 2238 
+layer Digital_object_identifier.txt 1 2789 
+is Digital_object_identifier.txt 55 25 114 233 266 305 358 397 436 479 484 524 531 628 648 714 717 729 757 766 784 875 899 951 1033 1126 1135 1239 1379 1426 1442 1475 1554 1704 1780 1794 1844 1906 1946 2009 2067 2136 2234 2279 2362 2380 2389 2498 2507 2527 2532 2585 2672 2687 2698 2760 
+thus Digital_object_identifier.txt 3 136 596 802 
+it Digital_object_identifier.txt 24 232 274 638 728 783 950 953 960 1114 1125 1144 1362 1385 1398 1502 1512 1535 1856 1905 1925 2071 2287 2339 2785 
+nomenclature Digital_object_identifier.txt 1 352 
+itself Digital_object_identifier.txt 2 529 1366 
+commonly Digital_object_identifier.txt 1 1347 
+in Digital_object_identifier.txt 42 17 52 275 417 423 472 513 519 541 567 612 619 634 679 681 723 827 830 854 871 937 1058 1063 1115 1360 1484 1536 1640 1701 1881 1951 1984 2069 2103 2204 2247 2277 2397 2472 2596 2654 2704 
+id Digital_object_identifier.txt 1 536 
+if Digital_object_identifier.txt 2 2024 2828 
+grown Digital_object_identifier.txt 1 341 
+containing Digital_object_identifier.txt 1 814 
+https://oadoi.org Digital_object_identifier.txt 1 2102 
+etc Digital_object_identifier.txt 4 584 1419 1622 2032 
+pay Digital_object_identifier.txt 1 291 
+make Digital_object_identifier.txt 1 1444 
+format Digital_object_identifier.txt 2 683 708 
+administration Digital_object_identifier.txt 1 2791 
+same Digital_object_identifier.txt 6 1075 1117 1563 1740 1767 1772 
+any Digital_object_identifier.txt 7 1037 1121 1270 1516 1798 2316 2336 
+member Digital_object_identifier.txt 2 295 2530 
+referents Digital_object_identifier.txt 1 159 
+another Digital_object_identifier.txt 1 1936 
+parts Digital_object_identifier.txt 2 376 2556 
+widely Digital_object_identifier.txt 2 2753 2835 
+avoids Digital_object_identifier.txt 1 1939 
+document Digital_object_identifier.txt 6 175 183 196 840 1741 1953 
+european Digital_object_identifier.txt 1 908 
+development Digital_object_identifier.txt 4 861 895 2305 2474 
+independent Digital_object_identifier.txt 1 1316 
+used Digital_object_identifier.txt 8 31 80 1162 1224 1348 1483 1723 2561 
+http Digital_object_identifier.txt 6 737 1963 2021 2041 2134 2823 
+info:doi Digital_object_identifier.txt 1 2686 
+published Digital_object_identifier.txt 1 2666 
+hand Digital_object_identifier.txt 1 822 
+10.1000/182 Digital_object_identifier.txt 2 476 1980 
+viewing Digital_object_identifier.txt 1 811 
+levels Digital_object_identifier.txt 1 593 
+uses Digital_object_identifier.txt 3 163 1503 1958 
+architectures Digital_object_identifier.txt 1 1130 
+characters Digital_object_identifier.txt 2 414 511 
+changing Digital_object_identifier.txt 1 1149 
+implements Digital_object_identifier.txt 1 1386 
+transaction Digital_object_identifier.txt 1 583 
+not-for-profit Digital_object_identifier.txt 1 2576 
+database Digital_object_identifier.txt 1 241 
+restricted Digital_object_identifier.txt 1 1259 
+https://doi.org/10.1000/182 Digital_object_identifier.txt 2 702 1990 
+thought Digital_object_identifier.txt 1 1860 
+academic Digital_object_identifier.txt 2 58 2128 
+approval Digital_object_identifier.txt 1 2623 
+without Digital_object_identifier.txt 2 769 780 
+modelled Digital_object_identifier.txt 1 1323 
+sets Digital_object_identifier.txt 1 71 
+case-insensitive Digital_object_identifier.txt 1 425 
+organization Digital_object_identifier.txt 2 40 2593 
+model Digital_object_identifier.txt 6 167 663 1017 1222 1401 1519 
+audio Digital_object_identifier.txt 1 561 
+stating Digital_object_identifier.txt 1 2729 
+persistently Digital_object_identifier.txt 1 1897 
+left Digital_object_identifier.txt 1 629 
+criticism Digital_object_identifier.txt 1 1196 
+redirects Digital_object_identifier.txt 2 1805 2082 
+responsible Digital_object_identifier.txt 2 2381 2533 
+protocol Digital_object_identifier.txt 1 2213 
+assigner Digital_object_identifier.txt 2 632 1493 
+z39.84-2005 Digital_object_identifier.txt 1 2707 
+being Digital_object_identifier.txt 4 138 767 770 778 
+when Digital_object_identifier.txt 2 1274 1279 
+actions Digital_object_identifier.txt 1 983 
+safeguards Digital_object_identifier.txt 1 2288 
+assigned Digital_object_identifier.txt 5 329 347 1073 1854 1907 
+underlying Digital_object_identifier.txt 1 889 
+identify Digital_object_identifier.txt 8 34 57 82 157 516 554 600 1757 
+unicode Digital_object_identifier.txt 1 413 
+plug-in Digital_object_identifier.txt 1 2215 
+alternative Digital_object_identifier.txt 4 1217 2058 2116 2132 
+web Digital_object_identifier.txt 3 743 992 1123 
+instance Digital_object_identifier.txt 1 1609 
+had Digital_object_identifier.txt 2 327 340 
+unambiguously Digital_object_identifier.txt 1 944 
+collections Digital_object_identifier.txt 1 1462 
+location Digital_object_identifier.txt 6 186 734 749 1047 1180 1699 
+easy Digital_object_identifier.txt 2 787 1596 
+input Digital_object_identifier.txt 1 1928 
+doi:10.17487/rfc Digital_object_identifier.txt 1 919 
+has Digital_object_identifier.txt 4 218 1194 1746 1849 
+administrative Digital_object_identifier.txt 1 1918 
+resolved Digital_object_identifier.txt 1 990 
+government Digital_object_identifier.txt 1 61 
+devised Digital_object_identifier.txt 1 1673 
+plug-ins Digital_object_identifier.txt 2 2146 2262 
+federated Digital_object_identifier.txt 2 1327 2513 
+resolver Digital_object_identifier.txt 3 1932 1945 1960 
+resolves Digital_object_identifier.txt 1 249 
+installed Digital_object_identifier.txt 1 2263 
+using Digital_object_identifier.txt 4 208 654 1664 2208 
+unique Digital_object_identifier.txt 1 1619 
+disadvantage Digital_object_identifier.txt 1 2228 
+necessary Digital_object_identifier.txt 1 2439 
+like Digital_object_identifier.txt 2 468 2199 
+standardization Digital_object_identifier.txt 3 42 2580 2595 
+identifying Digital_object_identifier.txt 1 537 
+50 Digital_object_identifier.txt 1 323 
+server Digital_object_identifier.txt 1 739 
+specific Digital_object_identifier.txt 5 405 1374 1517 1686 2490 
+either Digital_object_identifier.txt 1 2822 
+become Digital_object_identifier.txt 2 293 2834 
+works Digital_object_identifier.txt 2 556 576 
+page Digital_object_identifier.txt 3 798 813 837 
+making Digital_object_identifier.txt 2 1184 1542 
+because Digital_object_identifier.txt 2 1078 1556 
+often Digital_object_identifier.txt 1 1722 
+people Digital_object_identifier.txt 1 810 
+creation Digital_object_identifier.txt 1 2324 
+some Digital_object_identifier.txt 5 100 331 504 1626 1676 
+dead Digital_object_identifier.txt 1 252 
+unnecessary Digital_object_identifier.txt 1 2812 
+economic Digital_object_identifier.txt 1 858 
+examples Digital_object_identifier.txt 1 1610 
+recommendation Digital_object_identifier.txt 1 756 
+images Digital_object_identifier.txt 1 560 
+ballot Digital_object_identifier.txt 2 2645 2656 
+users Digital_object_identifier.txt 6 963 1111 1201 1994 2241 2355 
+provided Digital_object_identifier.txt 1 1781 
+openurl Digital_object_identifier.txt 1 1164 
+for Digital_object_identifier.txt 35 4 41 168 173 223 470 700 709 799 838 857 1030 1173 1199 1212 1265 1520 1541 1685 1727 1789 1976 2147 2181 2187 2232 2382 2515 2534 2594 2622 2636 2709 2727 2792 
+though Digital_object_identifier.txt 1 75 
+integration Digital_object_identifier.txt 1 1294 
+legal Digital_object_identifier.txt 1 412 
+creative Digital_object_identifier.txt 1 555 
+e-mail Digital_object_identifier.txt 1 1829 
+does Digital_object_identifier.txt 4 1513 1647 1693 2256 
+cnri Digital_object_identifier.txt 1 2184 
+allocate Digital_object_identifier.txt 1 2430 
+slash Digital_object_identifier.txt 1 385 
+non-profit Digital_object_identifier.txt 1 2274 
+refer Digital_object_identifier.txt 1 588 
+be Digital_object_identifier.txt 27 96 134 463 640 807 916 989 1000 1089 1146 1161 1247 1256 1482 1579 1586 1655 1859 1912 1927 1982 2016 2035 2165 2175 2243 2839 
+multilingual Digital_object_identifier.txt 1 907 
+licensing Digital_object_identifier.txt 1 2347 
+business Digital_object_identifier.txt 1 1518 
+journal Digital_object_identifier.txt 4 65 602 608 614 
+communicate Digital_object_identifier.txt 1 1112 
+combines Digital_object_identifier.txt 1 1009 
+notably Digital_object_identifier.txt 1 2101 
+maintainers Digital_object_identifier.txt 1 2715 
+iso/dis Digital_object_identifier.txt 1 2609 
+although Digital_object_identifier.txt 1 1738 
+ansi/niso Digital_object_identifier.txt 1 2706 
+relating Digital_object_identifier.txt 1 2293 
+refers Digital_object_identifier.txt 1 112 
+by Digital_object_identifier.txt 25 37 116 137 197 242 314 317 330 335 383 399 821 1241 1681 1749 1787 2063 2364 2368 2421 2500 2519 2590 2649 2682 
+publishing Digital_object_identifier.txt 1 2399 
+resolvers Digital_object_identifier.txt 5 2039 2060 2097 2109 2118 
+on Digital_object_identifier.txt 20 11 454 659 676 760 1036 1128 1324 1696 1729 1997 2112 2160 2354 2410 2486 2574 2600 2658 2667 
+about Digital_object_identifier.txt 2 122 969 
+hdl:4263537/4000 Digital_object_identifier.txt 1 2200 
+working Digital_object_identifier.txt 1 2627 
+extension Digital_object_identifier.txt 1 2186 
+of Digital_object_identifier.txt 92 7 46 85 102 181 262 283 296 310 361 369 391 439 458 489 497 547 594 606 624 626 644 704 735 750 848 887 896 934 967 978 1040 1053 1154 1181 1205 1236 1295 1300 1312 1315 1329 1422 1432 1438 1447 1490 1500 1523 1550 1570 1627 1630 1677 1765 1817 1823 1835 1852 1861 1867 1870 1891 1972 2050 2057 2078 2087 2140 2143 2153 2229 2260 2283 2308 2330 2351 2356 2371 2413 2463 2475 2488 2495 2511 2523 2557 2651 2691 2716 2790 2811 
+recognized Digital_object_identifier.txt 1 2508 
+http://doi.medra.org Digital_object_identifier.txt 1 2045 
+idf Digital_object_identifier.txt 16 271 316 925 1291 2264 2272 2313 2353 2361 2405 2423 2471 2506 2526 2565 2572 
+shared Digital_object_identifier.txt 1 1240 
+introduced Digital_object_identifier.txt 1 273 
+or Digital_object_identifier.txt 23 23 29 446 534 562 615 869 1048 1258 1278 1497 1525 1712 1814 1830 1832 1941 1969 1987 2197 2201 2252 2825 
+software Digital_object_identifier.txt 2 566 2254 
+referenced Digital_object_identifier.txt 1 917 
+previously Digital_object_identifier.txt 1 2006 
+librarians Digital_object_identifier.txt 1 1198 
+into Digital_object_identifier.txt 5 374 823 1097 1943 2028 
+within Digital_object_identifier.txt 1 1225 
+functional Digital_object_identifier.txt 1 2771 
+intellectual Digital_object_identifier.txt 1 2290 
+due Digital_object_identifier.txt 1 1914 
+locator Digital_object_identifier.txt 2 1358 1615 
+appropriate Digital_object_identifier.txt 4 774 836 1169 2744 
+doesnt Digital_object_identifier.txt 1 1574 
+references Digital_object_identifier.txt 2 2219 2859 
+primarily Digital_object_identifier.txt 1 758 
+parties Digital_object_identifier.txt 2 580 2343 
+managing Digital_object_identifier.txt 2 1498 2377 
+documentation Digital_object_identifier.txt 1 2613 
+cut-and-pasted Digital_object_identifier.txt 1 2027 
+isrcs Digital_object_identifier.txt 1 151 
+rely Digital_object_identifier.txt 1 2111 
+additional Digital_object_identifier.txt 4 1214 2346 2788 2809 
+co-ordinating Digital_object_identifier.txt 1 2383 
+treated Digital_object_identifier.txt 1 2176 
+support Digital_object_identifier.txt 2 1974 2563 
+there Digital_object_identifier.txt 1 716 
+class Digital_object_identifier.txt 2 1761 2056 
+urn:doi:10.1000/1 Digital_object_identifier.txt 1 2801 
+handbook Digital_object_identifier.txt 3 550 669 689 
+low Digital_object_identifier.txt 1 1590 
+way Digital_object_identifier.txt 2 1118 1703 
+was Digital_object_identifier.txt 4 1322 2061 2647 2665 
+assumes Digital_object_identifier.txt 1 2733 
+recommends Digital_object_identifier.txt 2 696 2012 
+interest Digital_object_identifier.txt 1 2396 
+form Digital_object_identifier.txt 4 101 368 432 933 
+offer Digital_object_identifier.txt 1 2778 
+registered Digital_object_identifier.txt 4 2674 2723 2762 2840 
+but Digital_object_identifier.txt 3 633 1623 1714 
+link Digital_object_identifier.txt 3 227 253 1533 
+goals Digital_object_identifier.txt 1 1005 
+cutting-and-pasting Digital_object_identifier.txt 1 1942 
+encoded Digital_object_identifier.txt 1 1057 
+technologies Digital_object_identifier.txt 4 1297 1588 1667 2403 
+promote Digital_object_identifier.txt 1 2459 
+with Digital_object_identifier.txt 19 408 466 650 877 957 964 1018 1113 1120 1163 1231 1250 1337 1589 1668 2224 2374 2394 2469 
+deployed Digital_object_identifier.txt 1 2754 
+info Digital_object_identifier.txt 1 2678 
+october Digital_object_identifier.txt 1 2104 
+entry Digital_object_identifier.txt 1 1593 
+fulfilling Digital_object_identifier.txt 1 2768 
+prevents Digital_object_identifier.txt 1 2341 
+official Digital_object_identifier.txt 2 73 667 
+up Digital_object_identifier.txt 2 796 1606 
+record Digital_object_identifier.txt 1 1864 
+limit Digital_object_identifier.txt 1 451 
+fdis Digital_object_identifier.txt 1 2640 
+distribution Digital_object_identifier.txt 1 2637 
+similar Digital_object_identifier.txt 1 1705 
+display Digital_object_identifier.txt 2 664 675 
+associated Digital_object_identifier.txt 3 407 649 952 
+videos Digital_object_identifier.txt 1 91 
+computing Digital_object_identifier.txt 1 18 
+indecs Digital_object_identifier.txt 4 165 661 1015 1220 
+certain Digital_object_identifier.txt 1 1383 
+abstract Digital_object_identifier.txt 1 575 
+specified Digital_object_identifier.txt 3 707 1880 2681 
+urns Digital_object_identifier.txt 1 2728 
+an Digital_object_identifier.txt 22 44 194 603 609 736 872 884 1031 1280 1364 1423 1595 1717 1962 2131 2375 2395 2586 2631 2639 2787 2808 
+globally Digital_object_identifier.txt 1 1618 
+4452 Digital_object_identifier.txt 1 2685 
+single Digital_object_identifier.txt 2 539 617 
+associates Digital_object_identifier.txt 2 955 1229 
+exist Digital_object_identifier.txt 1 2758 
+periods Digital_object_identifier.txt 1 467 
+file Digital_object_identifier.txt 1 886 
+organizational Digital_object_identifier.txt 1 2265 
+lifetime Digital_object_identifier.txt 1 180 
+window/tab Digital_object_identifier.txt 1 826 
+moves Digital_object_identifier.txt 1 1282 
+first-class Digital_object_identifier.txt 1 1369 
+physical Digital_object_identifier.txt 2 571 1046 
+traditional Digital_object_identifier.txt 1 2107 
+compared Digital_object_identifier.txt 2 1580 1656 
+no Digital_object_identifier.txt 4 1069 1213 2751 2779 
+corporation Digital_object_identifier.txt 1 1788 
+whereas Digital_object_identifier.txt 2 184 1434 
+excel Digital_object_identifier.txt 1 885 
+detail Digital_object_identifier.txt 2 595 627 
+field Digital_object_identifier.txt 1 1884 
+other Digital_object_identifier.txt 14 83 188 505 901 1122 1251 1338 1460 1529 1582 2029 2037 2093 2253 
+functionality Digital_object_identifier.txt 1 1629 
+normal Digital_object_identifier.txt 2 2002 2179 
+digital Digital_object_identifier.txt 6 0 8 20 2614 2692 2711 
+you Digital_object_identifier.txt 1 2083 
+non-paywalled Digital_object_identifier.txt 1 2076 
+4,000 Digital_object_identifier.txt 1 332 
+optionally Digital_object_identifier.txt 1 1248 
+update Digital_object_identifier.txt 3 220 238 1262 
+allowing Digital_object_identifier.txt 3 809 959 2171 
+suited Digital_object_identifier.txt 1 1477 
+included Digital_object_identifier.txt 2 975 1983 
+deployments Digital_object_identifier.txt 1 1328 
+structure Digital_object_identifier.txt 1 2266 
+registry-controlled Digital_object_identifier.txt 1 1632 
+voting Digital_object_identifier.txt 1 2653 
+human-readable Digital_object_identifier.txt 1 1087 
+assume Digital_object_identifier.txt 1 1515 
+requires Digital_object_identifier.txt 1 2786 
+persistent Digital_object_identifier.txt 9 27 715 935 1467 1544 1551 1612 1751 1913 
+2000 Digital_object_identifier.txt 2 276 2705 
+time Digital_object_identifier.txt 3 212 1271 1384 
+resolution Digital_object_identifier.txt 10 1469 1775 1779 1804 1909 2226 2327 2736 2817 2827 
+strings Digital_object_identifier.txt 2 419 1084 
+web-to-handle Digital_object_identifier.txt 1 2221 

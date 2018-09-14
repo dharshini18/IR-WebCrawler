@@ -1,0 +1,1149 @@
+all Solar_wind.txt 1 1266 
+partial Solar_wind.txt 1 2434 
+suns Solar_wind.txt 12 135 375 879 1335 1513 1637 1669 1792 1803 2252 2265 2296 
+magnetic Solar_wind.txt 28 63 111 159 296 371 1328 1685 1694 1793 1804 1811 1855 1986 2019 2068 2101 2254 2347 2438 2466 2600 2670 2882 3070 3099 3205 3268 3483 
+global Solar_wind.txt 1 2095 
+results Solar_wind.txt 1 2246 
+afgl-tr-77-0309 Solar_wind.txt 1 3600 
+four Solar_wind.txt 2 2621 3022 
+spacecraft Solar_wind.txt 5 206 249 1061 1076 2624 
+disc Solar_wind.txt 1 354 
+comments Solar_wind.txt 1 3634 
+sweep Solar_wind.txt 1 2636 
+consists Solar_wind.txt 2 87 644 
+sci Solar_wind.txt 1 3575 
+faster Solar_wind.txt 1 1100 
+saved Solar_wind.txt 1 984 
+causes Solar_wind.txt 1 2369 
+magnetospheres Solar_wind.txt 3 450 2318 2804 
+layers Solar_wind.txt 1 2272 
+increase Solar_wind.txt 1 348 
+patches Solar_wind.txt 1 2136 
+collisions Solar_wind.txt 1 1359 
+electricity Solar_wind.txt 1 3127 
+location Solar_wind.txt 1 2496 
+including Solar_wind.txt 1 1221 
+environment Solar_wind.txt 1 2473 
+to Solar_wind.txt 65 41 184 231 311 359 405 493 545 551 815 819 857 927 954 958 971 1120 1143 1257 1294 1327 1349 1408 1419 1430 1495 1500 1553 1586 1607 1662 1688 1739 2046 2142 2145 2193 2213 2302 2333 2372 2426 2490 2516 2552 2592 2659 2745 2772 2833 2847 2868 2915 2925 2953 2972 3007 3039 3125 3176 3292 3366 3381 3392 3428 
+tail Solar_wind.txt 5 779 804 821 847 2865 
+1930s Solar_wind.txt 1 677 
+weakening Solar_wind.txt 1 931 
+reviewers Solar_wind.txt 1 981 
+breach Solar_wind.txt 1 2593 
+include Solar_wind.txt 1 268 
+resources Solar_wind.txt 1 3323 
+ionizing Solar_wind.txt 2 2050 2479 
+confirmation Solar_wind.txt 1 3539 
+returned Solar_wind.txt 1 3300 
+outside Solar_wind.txt 2 1884 3422 
+very Solar_wind.txt 1 898 
+aurora Solar_wind.txt 3 270 2125 2959 
+rise Solar_wind.txt 2 2144 2212 
+ahnert Solar_wind.txt 1 811 
+bombarded Solar_wind.txt 2 599 3275 
+distant Solar_wind.txt 1 1041 
+wave Solar_wind.txt 2 2214 2503 
+discoveries Solar_wind.txt 1 2752 
+ultraviolet Solar_wind.txt 1 1067 
+orientations Solar_wind.txt 1 2808 
+upstream Solar_wind.txt 1 2504 
+resonant Solar_wind.txt 1 3643 
+affect Solar_wind.txt 2 2221 2469 
+bubbles Solar_wind.txt 1 3068 
+3-fluid Solar_wind.txt 1 3516 
+exact Solar_wind.txt 1 1697 
+categories Solar_wind.txt 2 3685 3687 
+common Solar_wind.txt 1 2791 
+believed Solar_wind.txt 3 2558 2744 3057 
+corpuscles Solar_wind.txt 1 604 
+prize Solar_wind.txt 1 996 
+transmission Solar_wind.txt 1 2923 
+cme Solar_wind.txt 3 2055 2058 2097 
+shock Solar_wind.txt 7 202 209 225 247 255 2027 2502 
+bright Solar_wind.txt 1 2963 
+large Solar_wind.txt 4 901 1958 2078 3006 
+solved Solar_wind.txt 1 1242 
+insights Solar_wind.txt 2 2651 3468 
+variances Solar_wind.txt 1 2664 
+small Solar_wind.txt 1 1810 
+bathed Solar_wind.txt 1 3198 
+venus Solar_wind.txt 1 2840 
+shows Solar_wind.txt 1 2581 
+birkeland Solar_wind.txt 3 458 565 611 
+concluded Solar_wind.txt 1 592 
+upper Solar_wind.txt 3 77 2928 3140 
+smaller Solar_wind.txt 2 1433 2906 
+slower Solar_wind.txt 1 2195 
+three-dimensional Solar_wind.txt 1 2650 
+findings Solar_wind.txt 1 2768 
+two-fluid Solar_wind.txt 1 3668 
+s.cuperman Solar_wind.txt 2 3473 3556 
+196 Solar_wind.txt 1 3528 
+direct Solar_wind.txt 1 2518 
+draping Solar_wind.txt 1 1691 
+winds Solar_wind.txt 3 1529 3078 3359 
+second Solar_wind.txt 4 188 1471 1491 3163 
+displays Solar_wind.txt 1 578 
+further Solar_wind.txt 1 1445 
+funnel-like Solar_wind.txt 1 1784 
+penetrated Solar_wind.txt 1 2759 
+approached Solar_wind.txt 1 1760 
+even Solar_wind.txt 2 505 876 
+what Solar_wind.txt 1 335 
+stood Solar_wind.txt 1 699 
+richard Solar_wind.txt 2 320 327 
+sun Solar_wind.txt 30 12 81 173 233 286 310 437 590 608 674 777 785 793 840 852 910 1092 1167 1451 1461 1722 1990 2024 2139 2188 2204 2397 2658 3027 3178 
+section Solar_wind.txt 1 2443 
+probably Solar_wind.txt 1 3400 
+near Solar_wind.txt 1 1274 
+thickness Solar_wind.txt 1 2692 
+current Solar_wind.txt 2 2244 3404 
+lights Solar_wind.txt 1 274 
+experiment Solar_wind.txt 1 3171 
+poles Solar_wind.txt 5 54 1089 1755 1766 1805 
+above Solar_wind.txt 2 1152 1843 
+flowing Solar_wind.txt 2 306 837 
+231 Solar_wind.txt 1 3678 
+new Solar_wind.txt 2 2537 3467 
+originate Solar_wind.txt 2 1663 2198 
+equivalent Solar_wind.txt 1 1494 
+contrast Solar_wind.txt 1 1611 
+thin Solar_wind.txt 1 2031 
+feiter Solar_wind.txt 1 3590 
+full Solar_wind.txt 2 3181 3278 
+escaping Solar_wind.txt 1 2275 
+notable Solar_wind.txt 1 3448 
+never Solar_wind.txt 1 501 
+wrapping Solar_wind.txt 1 2184 
+hundreds Solar_wind.txt 1 2489 
+astrophysicist Solar_wind.txt 1 476 
+expansion Solar_wind.txt 1 1108 
+1/100th Solar_wind.txt 1 3049 
+kilometers Solar_wind.txt 3 186 229 1842 
+alone Solar_wind.txt 2 1109 1307 
+along Solar_wind.txt 1 2293 
+strong Solar_wind.txt 2 966 2951 
+equations Solar_wind.txt 3 1237 3518 3549 
+appears Solar_wind.txt 2 1142 1661 
+change Solar_wind.txt 2 292 2508 
+755-759 Solar_wind.txt 1 3554 
+maven Solar_wind.txt 2 3088 3148 
+great Solar_wind.txt 1 3364 
+incoming Solar_wind.txt 2 2586 2816 
+ecliptic Solar_wind.txt 1 1278 
+geophys Solar_wind.txt 1 3651 
+involved Solar_wind.txt 1 1700 
+study Solar_wind.txt 8 538 1258 2538 2580 2782 3302 3463 3595 
+30 Solar_wind.txt 1 215 
+allows Solar_wind.txt 1 1417 
+precede Solar_wind.txt 1 2053 
+prior Solar_wind.txt 1 1267 
+resulting Solar_wind.txt 1 142 
+suggestion Solar_wind.txt 1 513 
+ibex Solar_wind.txt 1 3442 
+reconnection Solar_wind.txt 2 2102 2435 
+neugebauer Solar_wind.txt 1 1054 
+studies Solar_wind.txt 1 2773 
+magnetospheric Solar_wind.txt 1 2775 
+useful Solar_wind.txt 1 3322 
+nearest Solar_wind.txt 2 2842 3174 
+inducing Solar_wind.txt 1 2077 
+explained Solar_wind.txt 1 1182 
+sample Solar_wind.txt 1 3293 
+heliosphere Solar_wind.txt 2 1690 2035 
+conduction Solar_wind.txt 2 3488 3672 
+total Solar_wind.txt 4 706 1453 1474 1514 
+eddington Solar_wind.txt 2 478 507 
+kelvin-helmholtz Solar_wind.txt 3 2676 2713 2785 
+from Solar_wind.txt 34 10 75 143 171 284 308 373 435 588 614 672 775 783 838 850 908 952 1087 1131 1165 1262 1449 1459 1664 1779 2247 2331 2528 2637 2876 2910 3025 3314 3434 
+pushes Solar_wind.txt 1 801 
+would Solar_wind.txt 2 336 2165 
+prove Solar_wind.txt 1 3321 
+positive Solar_wind.txt 2 632 650 
+give Solar_wind.txt 2 2143 2211 
+negative Solar_wind.txt 2 630 647 
+properties Solar_wind.txt 2 722 1538 
+few Solar_wind.txt 2 168 1401 
+circumstances Solar_wind.txt 1 2766 
+kristian Solar_wind.txt 1 564 
+taken Solar_wind.txt 1 2540 
+inner Solar_wind.txt 1 1364 
+iteratively Solar_wind.txt 1 1243 
+more Solar_wind.txt 8 165 210 1040 1648 2179 2185 2230 2603 
+entrance Solar_wind.txt 1 2798 
+1/4 Solar_wind.txt 1 3160 
+morehouse Solar_wind.txt 2 498 541 
+astrophys.j Solar_wind.txt 1 3527 
+conductor Solar_wind.txt 2 737 893 
+ejected Solar_wind.txt 2 530 555 
+fast-moving Solar_wind.txt 2 1959 2175 
+under Solar_wind.txt 6 1717 2737 2763 2805 3208 3247 
+emission Solar_wind.txt 1 1729 
+leaving Solar_wind.txt 1 3046 
+overtake Solar_wind.txt 1 2194 
+far Solar_wind.txt 1 3421 
+emitting Solar_wind.txt 1 1769 
+known Solar_wind.txt 8 358 377 1674 2141 2365 3373 3398 3541 
+must Solar_wind.txt 2 688 742 
+fly Solar_wind.txt 1 2626 
+1990 Solar_wind.txt 1 1251 
+account Solar_wind.txt 1 1309 
+1996 Solar_wind.txt 1 1724 
+this Solar_wind.txt 18 3 85 343 712 789 1192 1492 2085 2112 2363 2413 2431 2596 2611 2704 2781 3061 3128 
+thousands Solar_wind.txt 1 2491 
+past Solar_wind.txt 1 3109 
+work Solar_wind.txt 1 710 
+protons Solar_wind.txt 5 91 666 2043 2114 3569 
+longitude Solar_wind.txt 1 129 
+incites Solar_wind.txt 1 949 
+minimum Solar_wind.txt 2 34 1744 
+crossed Solar_wind.txt 2 207 223 
+can Solar_wind.txt 11 132 291 1102 1881 1954 2099 2484 2507 2757 2787 3122 
+v Solar_wind.txt 3 1904 1908 1928 
+following Solar_wind.txt 1 385 
+experts Solar_wind.txt 1 2701 
+example Solar_wind.txt 1 2475 
+history Solar_wind.txt 1 300 
+ions Solar_wind.txt 5 547 560 651 1447 3137 
+stream Solar_wind.txt 2 70 797 
+escapes Solar_wind.txt 1 916 
+december Solar_wind.txt 1 219 
+nozzle Solar_wind.txt 1 947 
+lindemann Solar_wind.txt 1 658 
+wilfried Solar_wind.txt 1 806 
+high Solar_wind.txt 5 140 145 1263 1312 2722 
+celsius Solar_wind.txt 1 693 
+caused Solar_wind.txt 2 1982 3096 
+performed Solar_wind.txt 2 1052 1228 
+specific Solar_wind.txt 1 2764 
+interrupted Solar_wind.txt 1 1956 
+hydrogen Solar_wind.txt 1 3346 
+occur Solar_wind.txt 2 361 2679 
+geo-magnetic Solar_wind.txt 1 2858 
+terrestrial Solar_wind.txt 1 2803 
+influenced Solar_wind.txt 1 2674 
+rays Solar_wind.txt 4 601 626 633 2818 
+dryer Solar_wind.txt 2 3611 3662 
+january Solar_wind.txt 1 1000 
+rather Solar_wind.txt 1 2377 
+helium Solar_wind.txt 1 3348 
+travel Solar_wind.txt 2 2373 2916 
+exceptional Solar_wind.txt 1 2649 
+links Solar_wind.txt 1 3683 
+arrangement Solar_wind.txt 1 2618 
+regions Solar_wind.txt 4 44 1785 2209 3229 
+located Solar_wind.txt 1 1839 
+varies Solar_wind.txt 1 116 
+numerous Solar_wind.txt 1 2694 
+opposite Solar_wind.txt 1 2408 
+symposium Solar_wind.txt 1 3592 
+flares Solar_wind.txt 1 2013 
+618 Solar_wind.txt 1 1397 
+de Solar_wind.txt 1 945 
+explorer Solar_wind.txt 1 3441 
+may Solar_wind.txt 3 3237 3253 3320 
+thermodynamic Solar_wind.txt 1 1107 
+after Solar_wind.txt 1 443 
+southern Solar_wind.txt 1 273 
+different Solar_wind.txt 4 2135 2147 2162 2172 
+plane Solar_wind.txt 1 1279 
+induce Solar_wind.txt 1 2100 
+960-976 Solar_wind.txt 1 3680 
+waves Solar_wind.txt 10 2028 2038 2307 2569 2584 2677 2714 2730 2786 3649 
+such Solar_wind.txt 6 727 734 889 1795 2349 2956 
+data Solar_wind.txt 1 3435 
+polarities Solar_wind.txt 2 59 665 
+fleet Solar_wind.txt 1 2647 
+a Solar_wind.txt 70 27 69 154 162 167 227 340 345 379 387 399 463 465 491 511 515 615 690 724 728 735 768 795 890 944 950 1342 1351 1355 1367 1375 1400 1497 1588 1593 1600 1604 1617 1623 1665 1770 1864 1891 2057 2088 2094 2167 2170 2341 2345 2390 2403 2536 2559 2578 2605 2608 2628 2687 2789 2826 2863 2905 3040 3047 3118 3338 3581 3612 3666 
+supersonic Solar_wind.txt 4 178 198 955 1121 
+undesired Solar_wind.txt 1 2747 
+accelerates Solar_wind.txt 4 1098 1160 1446 3131 
+third Solar_wind.txt 1 3041 
+consequently Solar_wind.txt 1 3271 
+lines Solar_wind.txt 6 298 1226 1789 1797 1857 2440 
+chapman Solar_wind.txt 1 719 
+corona Solar_wind.txt 8 84 149 687 880 1220 1336 1365 1609 
+accelerated Solar_wind.txt 2 433 2217 
+used Solar_wind.txt 1 3124 
+increasing Solar_wind.txt 1 2977 
+fundamental Solar_wind.txt 1 1557 
+media Solar_wind.txt 1 2003 
+every Solar_wind.txt 1 1503 
+scintillation Solar_wind.txt 1 2317 
+wind Solar_wind.txt 84 1 9 18 24 36 47 67 115 176 194 455 486 643 818 870 964 1012 1085 1097 1115 1163 1173 1216 1261 1288 1316 1423 1465 1522 1546 1550 1563 1568 1583 1615 1642 1656 1660 1704 1734 1773 1777 1862 1894 1937 1953 2152 2163 2262 2277 2286 2300 2329 2338 2448 2520 2551 2573 2591 2739 2801 2813 2839 2879 2913 2941 2991 3034 3105 3186 3211 3215 3252 3280 3296 3317 3336 3409 3471 3526 3548 3622 3639 3675 
+typical Solar_wind.txt 1 1618 
+hemispherical Solar_wind.txt 1 1021 
+205-219 Solar_wind.txt 1 3530 
+over Solar_wind.txt 6 52 122 125 1350 1692 2263 
+vary Solar_wind.txt 2 1883 2485 
+mission Solar_wind.txt 4 2535 3089 3149 3443 
+stripping Solar_wind.txt 4 2835 3063 3095 3155 
+years Solar_wind.txt 3 653 1047 1506 
+produced Solar_wind.txt 2 585 1683 
+thermal Solar_wind.txt 5 96 1292 1305 1358 3671 
+paper Solar_wind.txt 2 968 1200 
+through Solar_wind.txt 7 252 1519 2312 2430 2615 2631 3437 
+reconnect Solar_wind.txt 1 1858 
+left Solar_wind.txt 1 2332 
+existence Solar_wind.txt 3 303 482 2566 
+turbine Solar_wind.txt 1 3119 
+still Solar_wind.txt 3 897 1175 1716 
+its Solar_wind.txt 15 130 417 778 1015 1049 2270 2281 2460 2881 2970 3043 3189 3195 3218 3272 
+galaxy Solar_wind.txt 1 3353 
+1 Solar_wind.txt 6 242 1006 1045 1149 1867 3529 
+emits Solar_wind.txt 1 794 
+saturn Solar_wind.txt 1 2354 
+outer Solar_wind.txt 4 913 1339 3327 3384 
+chandrasekhar Solar_wind.txt 1 989 
+termed Solar_wind.txt 2 867 1559 
+energies Solar_wind.txt 1 1406 
+masses Solar_wind.txt 1 1484 
+hot Solar_wind.txt 1 899 
+411-417,1976 Solar_wind.txt 1 3578 
+late Solar_wind.txt 1 1064 
+detected Solar_wind.txt 1 1019 
+degrees Solar_wind.txt 1 692 
+systems Solar_wind.txt 2 1277 3603 
+400 Solar_wind.txt 2 37 1414 
+latitude Solar_wind.txt 3 31 127 2723 
+decreased Solar_wind.txt 1 2280 
+hidden Solar_wind.txt 1 3686 
+main Solar_wind.txt 4 1942 2238 2320 3330 
+might Solar_wind.txt 1 397 
+meridian Solar_wind.txt 1 2442 
+eugene Solar_wind.txt 1 831 
+then Solar_wind.txt 2 1751 2398 
+them Solar_wind.txt 4 544 1418 2201 3144 
+good Solar_wind.txt 1 891 
+impacts Solar_wind.txt 2 2059 2098 
+matches Solar_wind.txt 1 1632 
+material Solar_wind.txt 5 369 531 556 1297 1712 
+evolution Solar_wind.txt 1 3087 
+tails Solar_wind.txt 2 277 2292 
+effects Solar_wind.txt 2 2236 3641 
+they Solar_wind.txt 4 1017 2004 2122 2635 
+not Solar_wind.txt 5 1176 2008 2128 2576 3396 
+rotation Solar_wind.txt 1 2283 
+now Solar_wind.txt 3 357 403 1141 
+1959 Solar_wind.txt 1 1001 
+day Solar_wind.txt 1 386 
+nor Solar_wind.txt 1 631 
+1au Solar_wind.txt 1 3571 
+brightness Solar_wind.txt 1 350 
+edit Solar_wind.txt 16 301 1281 1541 1547 1860 1941 2237 2319 2810 3168 3329 3450 3453 3455 3457 3684 
+always Solar_wind.txt 3 281 780 2009 
+300500 Solar_wind.txt 1 1591 
+events Solar_wind.txt 1 3449 
+sufficiently Solar_wind.txt 1 3005 
+memorial Solar_wind.txt 1 3591 
+bursts Solar_wind.txt 1 1960 
+each Solar_wind.txt 2 1477 2159 
+found Solar_wind.txt 1 1094 
+european Solar_wind.txt 1 2530 
+side Solar_wind.txt 3 2108 2394 2409 
+characterized Solar_wind.txt 1 2663 
+mean Solar_wind.txt 1 1379 
+n/m Solar_wind.txt 1 1878 
+3167-3168 Solar_wind.txt 1 3496 
+significantly Solar_wind.txt 2 1533 2279 
+3035 Solar_wind.txt 1 1740 
+generation Solar_wind.txt 1 2750 
+globe Solar_wind.txt 1 468 
+heated Solar_wind.txt 1 1348 
+idea Solar_wind.txt 1 500 
+related Solar_wind.txt 1 266 
+group Solar_wind.txt 1 2560 
+astrophysical Solar_wind.txt 1 973 
+connect Solar_wind.txt 1 2656 
+year Solar_wind.txt 2 521 1478 
+loops Solar_wind.txt 1 1695 
+laboratory Solar_wind.txt 1 446 
+naming Solar_wind.txt 1 488 
+beyond Solar_wind.txt 2 748 1574 
+84 Solar_wind.txt 1 3653 
+out Solar_wind.txt 4 700 745 2178 2401 
+space Solar_wind.txt 16 415 702 747 920 1579 1998 2133 2240 2472 2526 2531 2633 2642 2860 3146 3574 
+res Solar_wind.txt 2 3493 3652 
+furthermore Solar_wind.txt 1 921 
+since Solar_wind.txt 2 903 3188 
+interference Solar_wind.txt 1 2483 
+research Solar_wind.txt 1 2662 
+particles Solar_wind.txt 23 73 94 131 305 587 662 799 1361 1383 1404 1456 2041 2218 2356 2371 2423 2588 2762 2890 2896 2909 3221 3567 
+attracted Solar_wind.txt 1 883 
+contained Solar_wind.txt 1 3000 
+relative Solar_wind.txt 1 3560 
+suggesting Solar_wind.txt 1 1155 
+formula Solar_wind.txt 1 1899 
+get Solar_wind.txt 1 3238 
+cause Solar_wind.txt 2 2026 2131 
+predicted Solar_wind.txt 1 1112 
+earlier Solar_wind.txt 1 1199 
+theory Solar_wind.txt 1 1185 
+barrier Solar_wind.txt 1 2610 
+interactions Solar_wind.txt 1 3646 
+npa Solar_wind.txt 2 1875 1919 
+million Solar_wind.txt 3 691 1352 1505 
+interplanetary Solar_wind.txt 8 110 1964 1973 2316 2641 2669 3482 3598 
+little Solar_wind.txt 1 2855 
+solution Solar_wind.txt 2 3514 3614 
+extraordinary Solar_wind.txt 1 713 
+formation Solar_wind.txt 2 1705 2666 
+latest Solar_wind.txt 1 2612 
+sheet Solar_wind.txt 1 2245 
+multi-fluid Solar_wind.txt 1 3582 
+20,000 Solar_wind.txt 1 1841 
+generate Solar_wind.txt 1 3126 
+additional Solar_wind.txt 2 1158 1318 
+mars Solar_wind.txt 4 3016 3083 3110 3139 
+nanopascals Solar_wind.txt 1 1920 
+interaction Solar_wind.txt 3 419 2208 2268 
+exposing Solar_wind.txt 1 2513 
+created Solar_wind.txt 2 461 1813 
+flare Solar_wind.txt 1 342 
+latitudes Solar_wind.txt 2 1265 1737 
+transition Solar_wind.txt 3 951 1119 1137 
+cosmic Solar_wind.txt 1 2817 
+days Solar_wind.txt 1 445 
+british Solar_wind.txt 2 318 475 
+times Solar_wind.txt 3 213 2851 3023 
+filter Solar_wind.txt 1 2606 
+turn Solar_wind.txt 1 152 
+produce Solar_wind.txt 1 2954 
+place Solar_wind.txt 1 2541 
+due Solar_wind.txt 1 1429 
+geosphere Solar_wind.txt 1 2983 
+moving Solar_wind.txt 2 2177 2190 
+2139-2140 Solar_wind.txt 1 3655 
+interact Solar_wind.txt 1 3254 
+speeds Solar_wind.txt 4 181 1372 1576 2148 
+first Solar_wind.txt 8 315 332 549 814 925 1007 1210 2707 
+feed Solar_wind.txt 1 1420 
+initial Solar_wind.txt 1 1247 
+relate Solar_wind.txt 1 816 
+number Solar_wind.txt 2 1454 2907 
+reaches Solar_wind.txt 1 180 
+one Solar_wind.txt 1 1487 
+clear Solar_wind.txt 1 1303 
+long Solar_wind.txt 1 2404 
+directly Solar_wind.txt 3 1008 2180 2563 
+spectrometer Solar_wind.txt 1 1069 
+force Solar_wind.txt 2 2362 3602 
+blows Solar_wind.txt 1 3337 
+precisely Solar_wind.txt 1 3397 
+open Solar_wind.txt 4 1224 1687 1787 1796 
+george Solar_wind.txt 1 424 
+size Solar_wind.txt 1 2979 
+mercury Solar_wind.txt 3 3020 3172 3201 
+earths Solar_wind.txt 14 422 2061 2067 2104 2119 2222 2325 2456 2470 2755 2869 2927 3054 3261 
+surveys Solar_wind.txt 1 568 
+red/blue Solar_wind.txt 1 55 
+temperature Solar_wind.txt 8 119 146 683 714 729 1427 1594 1624 
+bears Solar_wind.txt 1 3179 
+unknown Solar_wind.txt 1 1319 
+caught Solar_wind.txt 2 503 3066 
+0.01 Solar_wind.txt 1 1510 
+system Solar_wind.txt 2 2235 3389 
+182 Solar_wind.txt 1 3505 
+their Solar_wind.txt 5 139 1431 1570 1575 2749 
+2 Solar_wind.txt 6 205 222 1034 1060 3577 3626 
+rates Solar_wind.txt 1 1537 
+observations Solar_wind.txt 4 21 825 1268 1719 
+storm Solar_wind.txt 2 389 2090 
+inflate Solar_wind.txt 1 3008 
+expanded Solar_wind.txt 1 1752 
+structures Solar_wind.txt 1 1699 
+easier Solar_wind.txt 1 2547 
+evacuated Solar_wind.txt 1 471 
+stars Solar_wind.txt 1 1524 
+mostly Solar_wind.txt 2 89 2042 
+that Solar_wind.txt 51 280 290 395 428 528 553 570 593 613 624 661 681 740 764 788 800 809 834 875 894 929 1095 1113 1156 1304 1346 1444 1530 1602 1672 1728 1885 2052 2197 2210 2220 2343 2542 2544 2574 2582 2598 2655 2703 2709 2741 2784 2866 3031 3304 3350 
+co-rotating Solar_wind.txt 1 2207 
+explanation Solar_wind.txt 1 1190 
+continuous Solar_wind.txt 1 2609 
+rejected Solar_wind.txt 1 978 
+transverse Solar_wind.txt 1 3648 
+1919 Solar_wind.txt 1 656 
+released Solar_wind.txt 3 74 1714 1849 
+inside Solar_wind.txt 1 3001 
+orientation Solar_wind.txt 1 2725 
+somewhat Solar_wind.txt 1 2790 
+manifestation Solar_wind.txt 2 1974 2017 
+1910 Solar_wind.txt 1 474 
+believe Solar_wind.txt 1 2702 
+institution Solar_wind.txt 1 517 
+infiltrate Solar_wind.txt 1 2553 
+1916 Solar_wind.txt 1 610 
+distance Solar_wind.txt 4 163 239 907 3391 
+961-975 Solar_wind.txt 1 3507 
+1979 Solar_wind.txt 2 3656 3681 
+showed Solar_wind.txt 3 569 872 1727 
+16 Solar_wind.txt 3 1874 1876 3495 
+isolation Solar_wind.txt 1 2158 
+1978 Solar_wind.txt 2 3606 3628 
+dawnward Solar_wind.txt 1 2724 
+likely Solar_wind.txt 1 1325 
+submitted Solar_wind.txt 1 970 
+project Solar_wind.txt 1 3282 
+matter Solar_wind.txt 3 429 766 2987 
+states Solar_wind.txt 1 1558 
+determined Solar_wind.txt 2 680 731 
+supposed Solar_wind.txt 1 543 
+nonresonant Solar_wind.txt 1 3645 
+were Solar_wind.txt 7 460 583 1018 1241 1767 2575 2742 
+injecting Solar_wind.txt 1 2985 
+1.6726 Solar_wind.txt 1 1905 
+toward Solar_wind.txt 3 261 1753 2118 
+are Solar_wind.txt 20 627 1682 1783 1798 1838 1971 1981 1992 2005 2015 2127 2140 2357 2424 2523 2731 2769 2831 2897 3073 
+and Solar_wind.txt 91 92 100 120 124 128 179 217 259 272 287 326 370 392 416 438 561 579 649 730 844 1013 1037 1055 1093 1178 1188 1223 1231 1324 1369 1438 1539 1543 1564 1599 1629 1647 1706 1725 1826 1896 1927 1950 2039 2044 2076 2091 2115 2149 2181 2216 2219 2419 2464 2481 2492 2495 2500 2643 2693 2792 2843 2930 2960 2984 3009 3021 3085 3142 3165 3187 3193 3220 3246 3270 3297 3347 3377 3399 3410 3474 3500 3511 3536 3557 3568 3573 3609 3631 3644 3663 
+1.5 Solar_wind.txt 1 99 
+he++3 Solar_wind.txt 1 3640 
+1.3 Solar_wind.txt 1 1468 
+footnote Solar_wind.txt 1 492 
+regolith Solar_wind.txt 1 3307 
+disambiguation Solar_wind.txt 1 19 
+ram Solar_wind.txt 1 1888 
+gently Solar_wind.txt 1 2231 
+auroral Solar_wind.txt 2 571 2934 
+auroras Solar_wind.txt 1 2964 
+medium Solar_wind.txt 4 264 3343 3371 3417 
+1971 Solar_wind.txt 1 1234 
+have Solar_wind.txt 3 1366 1525 1587 
+interacting Solar_wind.txt 1 2819 
+uninterrupted Solar_wind.txt 1 575 
+seen Solar_wind.txt 3 51 704 2733 
+45 Solar_wind.txt 1 3576 
+border Solar_wind.txt 1 3385 
+contents Solar_wind.txt 1 299 
+accounted Solar_wind.txt 1 1104 
+acceleration Solar_wind.txt 7 1079 1169 1193 1280 1306 1320 3636 
+geomagnetic Solar_wind.txt 8 288 388 567 581 2089 2961 2992 3013 
+strength Solar_wind.txt 2 1016 3360 
+angle Solar_wind.txt 1 2173 
+depending Solar_wind.txt 1 2153 
+imf Solar_wind.txt 4 2672 2728 2765 2807 
+latter Solar_wind.txt 1 524 
+responsible Solar_wind.txt 2 2289 2450 
+able Solar_wind.txt 1 2425 
+gravity Solar_wind.txt 4 136 886 904 935 
+mechanism Solar_wind.txt 3 1159 1321 3059 
+also Solar_wind.txt 6 509 659 753 1768 2770 3452 
+causing Solar_wind.txt 1 2969 
+build Solar_wind.txt 1 1439 
+which Solar_wind.txt 16 150 355 401 865 1388 1416 1710 1782 1837 1980 2014 2625 2678 2884 3072 3111 
+forming Solar_wind.txt 1 2205 
+photosphere Solar_wind.txt 4 1133 1154 1638 1845 
+so Solar_wind.txt 1 3207 
+surfaces Solar_wind.txt 1 3167 
+towards Solar_wind.txt 1 772 
+electric Solar_wind.txt 4 603 1442 3114 3129 
+though Solar_wind.txt 4 506 877 1569 2918 
+who Solar_wind.txt 1 990 
+reach Solar_wind.txt 3 1409 1435 3223 
+rarefied Solar_wind.txt 1 3345 
+most Solar_wind.txt 3 622 2844 2886 
+attempt Solar_wind.txt 1 3291 
+alpha Solar_wind.txt 2 93 3566 
+konstantin Solar_wind.txt 1 1028 
+measured Solar_wind.txt 3 1014 3090 3150 
+model Solar_wind.txt 6 843 1111 3517 3583 3618 3669 
+magnetohydrodynamics Solar_wind.txt 1 1236 
+equatorial Solar_wind.txt 2 43 1670 
+observation Solar_wind.txt 1 333 
+1942g Solar_wind.txt 1 830 
+considered Solar_wind.txt 2 2288 3380 
+calculated Solar_wind.txt 1 720 
+later Solar_wind.txt 6 337 426 654 708 991 1048 
+frederick Solar_wind.txt 1 657 
+hemisphere Solar_wind.txt 1 2391 
+trapped Solar_wind.txt 1 2898 
+points Solar_wind.txt 1 781 
+electrons Solar_wind.txt 8 90 534 562 648 670 1428 2045 2116 
+soho Solar_wind.txt 1 1075 
+distinctive Solar_wind.txt 1 2617 
+velocity Solar_wind.txt 7 1380 1395 1412 1437 1589 1619 3405 
+charged Solar_wind.txt 5 72 2587 2889 2895 3133 
+physics Solar_wind.txt 2 998 1206 
+came Solar_wind.txt 1 243 
+perspective Solar_wind.txt 1 3430 
+planetary Solar_wind.txt 4 2779 2821 3166 3258 
+atmosphere Solar_wind.txt 14 78 376 915 1333 1820 2120 2381 2853 2929 3045 3084 3141 3190 3265 
+parker Solar_wind.txt 3 832 871 922 
+particularly Solar_wind.txt 1 1799 
+phenomenon Solar_wind.txt 2 864 2096 
+show Solar_wind.txt 2 57 2753 
+probe Solar_wind.txt 1 1254 
+venera Solar_wind.txt 1 1044 
+rotating Solar_wind.txt 1 2253 
+radii Solar_wind.txt 3 170 1130 2512 
+distort Solar_wind.txt 1 3011 
+radio Solar_wind.txt 2 2306 2482 
+solutions Solar_wind.txt 1 3543 
+astrophys Solar_wind.txt 5 3503 3550 3572 3623 3676 
+earth Solar_wind.txt 14 313 442 595 752 1502 2083 2311 2351 2511 2660 2848 2871 2946 3121 
+superb Solar_wind.txt 1 736 
+debate Solar_wind.txt 1 1718 
+ground Solar_wind.txt 1 2080 
+helio Solar_wind.txt 1 30 
+slow Solar_wind.txt 10 35 1544 1561 1581 1640 1658 1702 1732 1771 1951 
+based Solar_wind.txt 1 823 
+northern Solar_wind.txt 1 271 
+icmes Solar_wind.txt 4 1969 1970 2025 2126 
+collaborators Solar_wind.txt 1 1056 
+hope Solar_wind.txt 1 3427 
+storms Solar_wind.txt 5 289 1996 1999 2962 2993 
+state Solar_wind.txt 1 1240 
+than Solar_wind.txt 10 166 211 234 1101 1652 2232 2378 2556 2607 3019 
+terminal Solar_wind.txt 1 1411 
+only Solar_wind.txt 6 1148 1508 1840 2130 2937 3222 
+l.d.de Solar_wind.txt 1 3589 
+enriched Solar_wind.txt 1 3309 
+notes Solar_wind.txt 1 3454 
+postulated Solar_wind.txt 2 527 787 
+8 Solar_wind.txt 1 1626 
+constant Solar_wind.txt 1 2794 
+local Solar_wind.txt 3 2155 2471 3412 
+achieve Solar_wind.txt 1 1405 
+uvcs Solar_wind.txt 1 1070 
+regularly Solar_wind.txt 1 432 
+magnetopause Solar_wind.txt 5 2418 2499 2595 2717 3236 
+his Solar_wind.txt 2 537 566 
+chapmans Solar_wind.txt 1 842 
+10 Solar_wind.txt 8 101 218 1469 1482 1597 1627 1877 1906 
+streamer Solar_wind.txt 1 1677 
+midnight Solar_wind.txt 1 2107 
+scientists Solar_wind.txt 3 678 2562 3426 
+overall Solar_wind.txt 1 2453 
+p Solar_wind.txt 3 1901 1916 3664 
+mid-1950s Solar_wind.txt 1 717 
+cannot Solar_wind.txt 3 1179 1308 3216 
+three-fluid Solar_wind.txt 1 3617 
+nearly Solar_wind.txt 2 574 1631 
+words Solar_wind.txt 1 640 
+compass Solar_wind.txt 1 2074 
+during Solar_wind.txt 4 32 705 1741 3230 
+kopp Solar_wind.txt 1 1232 
+conjunction Solar_wind.txt 1 363 
+boundary Solar_wind.txt 3 2411 2699 3440 
+1.41.6 Solar_wind.txt 1 1596 
+contributes Solar_wind.txt 1 2301 
+densities Solar_wind.txt 1 2150 
+aluminum Solar_wind.txt 1 3287 
+proposes Solar_wind.txt 1 2543 
+fields Solar_wind.txt 3 1329 1812 1822 
+method Solar_wind.txt 1 1708 
+twice Solar_wind.txt 1 1644 
+hydrodynamic Solar_wind.txt 1 941 
+occasion Solar_wind.txt 1 2708 
+activity Solar_wind.txt 3 572 582 1750 
+release Solar_wind.txt 2 1984 2021 
+biermann Solar_wind.txt 2 758 786 
+grams Solar_wind.txt 1 3159 
+where Solar_wind.txt 6 240 1679 1909 2121 2335 3356 
+cells Solar_wind.txt 1 1816 
+view Solar_wind.txt 1 619 
+headed Solar_wind.txt 1 771 
+reveals Solar_wind.txt 1 3466 
+temporarily Solar_wind.txt 1 2064 
+motions Solar_wind.txt 1 2215 
+acquired Solar_wind.txt 1 3436 
+turbulent Solar_wind.txt 1 2206 
+1960s Solar_wind.txt 1 1300 
+maximum Solar_wind.txt 2 1761 1764 
+observed Solar_wind.txt 7 391 1009 1077 1552 1585 2308 2564 
+collectively Solar_wind.txt 1 2524 
+see Solar_wind.txt 2 16 3451 
+radius Solar_wind.txt 1 1151 
+result Solar_wind.txt 6 155 860 1356 1531 2688 2994 
+close Solar_wind.txt 1 1605 
+outward Solar_wind.txt 2 251 307 
+subject Solar_wind.txt 1 2832 
+closer Solar_wind.txt 1 230 
+permeates Solar_wind.txt 1 3351 
+probable Solar_wind.txt 1 623 
+discovered Solar_wind.txt 1 2862 
+subsequent Solar_wind.txt 1 418 
+away Solar_wind.txt 10 283 434 774 782 805 849 1164 1448 1458 3037 
+laureate Solar_wind.txt 1 1204 
+wikipedia Solar_wind.txt 1 2 
+brunt Solar_wind.txt 1 3182 
+continually Solar_wind.txt 1 598 
+colours Solar_wind.txt 1 56 
+3 Solar_wind.txt 4 1036 3506 3553 3679 
+kilometer Solar_wind.txt 1 238 
+various Solar_wind.txt 1 2806 
+closed Solar_wind.txt 2 1222 1693 
+between Solar_wind.txt 3 98 214 1723 
+drawn Solar_wind.txt 1 2400 
+neither Solar_wind.txt 1 628 
+conditions Solar_wind.txt 4 2156 2740 3212 3249 
+deforms Solar_wind.txt 1 2065 
+metzler Solar_wind.txt 9 3476 3502 3513 3535 3559 3580 3608 3633 3658 
+discovery Solar_wind.txt 2 1025 2613 
+arrival Solar_wind.txt 1 407 
+notice Solar_wind.txt 1 928 
+magnetotail Solar_wind.txt 1 2105 
+august Solar_wind.txt 1 216 
+extend Solar_wind.txt 2 743 1572 
+nature Solar_wind.txt 1 1651 
+weak Solar_wind.txt 1 2827 
+emitted Solar_wind.txt 1 605 
+steady Solar_wind.txt 2 796 1239 
+however Solar_wind.txt 5 1195 1399 1507 2891 3234 
+spectroscopic Solar_wind.txt 1 709 
+hypothesis Solar_wind.txt 2 855 960 
+opposition Solar_wind.txt 1 957 
+interface Solar_wind.txt 1 2682 
+kev Solar_wind.txt 1 102 
+configuration Solar_wind.txt 2 1249 2630 
+come Solar_wind.txt 1 671 
+originates Solar_wind.txt 1 1778 
+suggested Solar_wind.txt 4 316 427 480 660 
+both Solar_wind.txt 5 559 636 646 664 1947 
+c Solar_wind.txt 2 321 3460 
+mariner Solar_wind.txt 1 1059 
+missions Solar_wind.txt 1 3284 
+limits Solar_wind.txt 1 3328 
+freely Solar_wind.txt 1 3255 
+region Solar_wind.txt 6 1080 1343 1666 2364 2414 2432 
+23 Solar_wind.txt 1 1481 
+equal Solar_wind.txt 1 1499 
+attributed Solar_wind.txt 1 404 
+unforeseen Solar_wind.txt 1 2735 
+connection Solar_wind.txt 1 400 
+heliospheric Solar_wind.txt 2 62 2243 
+streams Solar_wind.txt 5 2164 2176 2183 2191 2196 
+comet Solar_wind.txt 6 497 540 769 820 828 846 
+magnetosphere Solar_wind.txt 18 423 2062 2111 2223 2322 2326 2368 2385 2429 2445 2457 2555 2639 2756 2830 2976 3003 3219 
+rosenau Solar_wind.txt 1 3665 
+detailed Solar_wind.txt 1 1196 
+relevant Solar_wind.txt 1 2771 
+point Solar_wind.txt 4 282 617 1140 3355 
+royal Solar_wind.txt 1 516 
+inward/outward Solar_wind.txt 1 58 
+address Solar_wind.txt 1 518 
+cmes Solar_wind.txt 2 1991 2233 
+period Solar_wind.txt 1 1746 
+proton Solar_wind.txt 1 1913 
+karen Solar_wind.txt 1 3459 
+celestial Solar_wind.txt 1 2305 
+self-consistent Solar_wind.txt 1 3613 
+right Solar_wind.txt 1 2334 
+article Solar_wind.txt 6 4 495 1943 2239 2321 3331 
+intersects Solar_wind.txt 1 2339 
+250 Solar_wind.txt 1 183 
+100 Solar_wind.txt 2 2850 3158 
+belt Solar_wind.txt 3 1671 1678 2904 
+forms Solar_wind.txt 1 2602 
+described Solar_wind.txt 1 1373 
+stripped Solar_wind.txt 1 3036 
+source Solar_wind.txt 1 1808 
+swc Solar_wind.txt 1 3170 
+atomic Solar_wind.txt 1 3311 
+three Solar_wind.txt 2 652 1046 
+biermanns Solar_wind.txt 1 854 
+much Solar_wind.txt 5 1099 1145 1432 1526 3116 
+deposited Solar_wind.txt 1 3313 
+volatile Solar_wind.txt 1 3086 
+certain Solar_wind.txt 1 2568 
+expected Solar_wind.txt 1 2577 
+4 Solar_wind.txt 1 1128 
+traveling Solar_wind.txt 1 3597 
+direction Solar_wind.txt 4 294 822 2072 2463 
+enable Solar_wind.txt 1 2585 
+controlled Solar_wind.txt 1 2629 
+1950s Solar_wind.txt 1 756 
+received Solar_wind.txt 1 992 
+kilograms Solar_wind.txt 1 1489 
+moved Solar_wind.txt 1 250 
+sufficient Solar_wind.txt 1 1407 
+gas Solar_wind.txt 4 725 3065 3134 3349 
+essentially Solar_wind.txt 1 479 
+pluto Solar_wind.txt 1 3423 
+well-developed Solar_wind.txt 1 2346 
+2015 Solar_wind.txt 1 3080 
+wake Solar_wind.txt 1 2405 
+external Solar_wind.txt 1 3682 
+magnetised Solar_wind.txt 1 466 
+suspected Solar_wind.txt 1 394 
+plasmas Solar_wind.txt 1 2999 
+westward Solar_wind.txt 1 2199 
+hodgson Solar_wind.txt 1 328 
+case Solar_wind.txt 1 525 
+atmospheric Solar_wind.txt 5 2834 2986 3062 3094 3154 
+these Solar_wind.txt 12 456 577 1382 1821 1854 2161 2521 2583 2729 2751 3248 3318 
+launches Solar_wind.txt 1 2113 
+ejection Solar_wind.txt 5 367 382 412 1940 1946 
+appearance Solar_wind.txt 1 2711 
+supersonically Solar_wind.txt 1 917 
+while Solar_wind.txt 3 45 535 1282 
+bombarding Solar_wind.txt 1 2379 
+pressed Solar_wind.txt 1 3239 
+penetrate Solar_wind.txt 2 2427 3217 
+wind.j.geophys Solar_wind.txt 1 3492 
+au Solar_wind.txt 1 1868 
+eclipses Solar_wind.txt 1 707 
+2012 Solar_wind.txt 1 3461 
+k Solar_wind.txt 2 1598 1628 
+launched Solar_wind.txt 2 1256 3444 
+weakens Solar_wind.txt 1 905 
+comets Solar_wind.txt 3 279 803 2291 
+layer Solar_wind.txt 3 1340 2700 3048 
+larger Solar_wind.txt 1 3018 
+ulysses Solar_wind.txt 2 20 1253 
+cusp Solar_wind.txt 1 3228 
+characteristics Solar_wind.txt 1 2696 
+is Solar_wind.txt 67 5 39 50 68 108 153 177 195 344 356 402 621 770 881 888 896 1174 1194 1322 1341 1347 1384 1389 1466 1479 1493 1551 1584 1603 1643 1673 1713 1715 1809 1848 1890 1900 1911 1917 1922 1929 2086 2093 2287 2386 2399 2415 2449 2546 2873 2942 2947 2950 3004 3017 3029 3056 3064 3191 3197 3274 3308 3361 3372 3378 3395 3420 
+thus Solar_wind.txt 1 1472 
+it Solar_wind.txt 22 489 620 698 732 741 887 895 948 982 1301 1630 1828 1880 2063 2092 2506 2545 2949 3028 3055 3107 3419 
+surface Solar_wind.txt 9 1134 2271 2282 2383 3196 3225 3242 3259 3273 
+quiet Solar_wind.txt 1 3546 
+cluster Solar_wind.txt 3 2534 2623 3465 
+sudden Solar_wind.txt 1 346 
+anode Solar_wind.txt 1 467 
+in Solar_wind.txt 70 117 151 323 349 362 413 462 469 473 490 522 536 609 638 655 715 754 761 841 853 873 975 997 999 1062 1197 1217 1233 1238 1250 1330 1532 1555 1577 1650 1701 1790 1817 1870 1918 1925 1932 2000 2029 2082 2103 2157 2224 2259 2304 2402 2459 2570 2627 2665 2691 2734 2899 2932 3067 3079 3138 3199 3226 3289 3310 3340 3445 3480 3489 
+claimed Solar_wind.txt 1 808 
+convection Solar_wind.txt 1 1815 
+13.5 Solar_wind.txt 1 236 
+bubble Solar_wind.txt 2 2601 3339 
+currents Solar_wind.txt 2 459 2081 
+heliopause Solar_wind.txt 4 3332 3376 3394 3433 
+agency Solar_wind.txt 1 2532 
+confirmed Solar_wind.txt 2 711 3303 
+showers Solar_wind.txt 1 2048 
+verified Solar_wind.txt 1 1031 
+thereby Solar_wind.txt 1 3010 
+slow-moving Solar_wind.txt 1 2182 
+suggests Solar_wind.txt 2 2597 2783 
+perhaps Solar_wind.txt 1 1147 
+suggest Solar_wind.txt 1 552 
+make Solar_wind.txt 1 1117 
+radiation Solar_wind.txt 5 2051 2297 2480 2903 3200 
+s Solar_wind.txt 7 2533 3424 3498 3509 3532 3629 3659 
+same Solar_wind.txt 4 863 938 1426 2226 
+spygelglass Solar_wind.txt 1 3538 
+another Solar_wind.txt 1 2016 
+became Solar_wind.txt 1 759 
+schematic Solar_wind.txt 1 2323 
+transient Solar_wind.txt 1 3194 
+colonies Solar_wind.txt 1 3326 
+several Solar_wind.txt 2 444 2510 
+ludwig Solar_wind.txt 1 757 
+composition Solar_wind.txt 2 1601 1634 
+higher Solar_wind.txt 1 1534 
+voyager Solar_wind.txt 3 204 221 241 
+satellite Solar_wind.txt 1 1004 
+extended Solar_wind.txt 1 1338 
+vestigial Solar_wind.txt 1 3192 
+kelvin Solar_wind.txt 1 1353 
+numerical Solar_wind.txt 2 1211 3542 
+upon Solar_wind.txt 1 244 
+effect Solar_wind.txt 3 932 939 2314 
+flows Solar_wind.txt 2 2330 3108 
+ion Solar_wind.txt 1 1022 
+levels Solar_wind.txt 1 2477 
+uses Solar_wind.txt 1 15 
+auroral-like Solar_wind.txt 1 457 
+changing Solar_wind.txt 1 2070 
+geosynchronous Solar_wind.txt 1 2514 
+protected Solar_wind.txt 1 2875 
+moons Solar_wind.txt 1 3164 
+expand Solar_wind.txt 1 2973 
+cycle Solar_wind.txt 1 1759 
+deflects Solar_wind.txt 1 2885 
+lower Solar_wind.txt 1 1146 
+narrow Solar_wind.txt 1 1831 
+off Solar_wind.txt 1 3075 
+traps Solar_wind.txt 1 1023 
+episodic Solar_wind.txt 1 366 
+largely Solar_wind.txt 2 2673 2874 
+1975 Solar_wind.txt 2 3531 3555 
+689-695 Solar_wind.txt 1 3627 
+well Solar_wind.txt 3 668 1390 1573 
+roughly Solar_wind.txt 1 2387 
+alfvn Solar_wind.txt 1 1208 
+1970 Solar_wind.txt 1 1202 
+thought Solar_wind.txt 1 3030 
+person Solar_wind.txt 2 550 926 
+without Solar_wind.txt 1 487 
+command Solar_wind.txt 1 3604 
+km/s Solar_wind.txt 8 38 49 1387 1398 1415 1592 1622 1933 
+relied Solar_wind.txt 1 1289 
+termination Solar_wind.txt 3 201 246 254 
+the Solar_wind.txt 344 7 11 42 53 61 65 76 80 83 105 109 113 134 144 148 157 172 174 189 192 200 203 208 224 232 235 245 248 253 257 262 269 275 285 293 302 309 312 331 352 374 384 406 409 421 436 441 449 453 481 484 499 519 523 529 548 554 589 594 607 641 673 676 682 685 696 716 721 749 755 762 776 784 792 802 813 827 835 839 845 851 859 862 868 878 909 912 924 930 934 937 962 967 972 986 993 1002 1010 1024 1039 1058 1063 1066 1074 1078 1082 1088 1091 1096 1114 1118 1132 1136 1153 1161 1166 1168 1171 1186 1209 1214 1218 1235 1252 1259 1275 1286 1296 1299 1311 1331 1334 1360 1363 1378 1392 1403 1410 1421 1425 1450 1452 1460 1463 1473 1501 1512 1520 1548 1560 1565 1580 1608 1612 1633 1636 1639 1653 1657 1668 1676 1689 1696 1707 1711 1721 1731 1742 1745 1754 1757 1765 1774 1791 1802 1806 1818 1824 1830 1834 1844 1846 1851 1861 1871 1887 1898 1912 1923 1930 1935 1948 1972 1989 2001 2023 2030 2034 2054 2060 2066 2071 2106 2110 2124 2129 2138 2187 2203 2225 2242 2248 2251 2257 2260 2264 2267 2274 2285 2295 2298 2310 2327 2336 2355 2360 2367 2370 2375 2380 2384 2393 2396 2407 2410 2417 2422 2428 2437 2446 2452 2476 2493 2498 2517 2529 2549 2554 2565 2571 2594 2599 2616 2620 2638 2646 2653 2657 2661 2668 2681 2698 2706 2710 2716 2727 2767 2797 2811 2837 2841 2877 2888 2894 2900 2911 2926 2933 2936 2939 2945 2958 2967 2975 2978 2981 2989 2996 3002 3012 3026 3032 3053 3058 3081 3091 3098 3103 3147 3151 3173 3177 3180 3184 3213 3224 3227 3235 3241 3244 3250 3257 3260 3277 3281 3294 3305 3315 3334 3341 3344 3352 3354 3357 3369 3375 3383 3387 3390 3393 3403 3407 3411 3415 3432 3438 3481 3486 3490 3545 3588 3594 3616 3620 
+soviet Solar_wind.txt 1 1003 
+bodies Solar_wind.txt 1 2780 
+consisted Solar_wind.txt 2 532 557 
+distances Solar_wind.txt 1 902 
+lb Solar_wind.txt 1 3161 
+gringauz Solar_wind.txt 1 1029 
+proposed Solar_wind.txt 1 612 
+being Solar_wind.txt 4 431 584 597 2732 
+when Solar_wind.txt 4 1853 2056 2948 2995 
+lorentz Solar_wind.txt 1 2361 
+satellites Solar_wind.txt 1 2515 
+shape Solar_wind.txt 2 2454 2494 
+fact Solar_wind.txt 1 763 
+farther Solar_wind.txt 1 3024 
+n Solar_wind.txt 12 1903 1907 1921 3475 3501 3512 3534 3558 3579 3607 3632 3657 
+paul Solar_wind.txt 1 810 
+october Solar_wind.txt 1 3446 
+speed Solar_wind.txt 6 25 121 1313 1895 1931 2461 
+previous Solar_wind.txt 1 520 
+density Solar_wind.txt 5 118 1897 1924 2462 3413 
+maxwellian Solar_wind.txt 1 1376 
+onward Solar_wind.txt 1 260 
+had Solar_wind.txt 5 508 679 856 1269 2718 
+exclusively Solar_wind.txt 1 629 
+1958 Solar_wind.txt 2 874 976 
+passive Solar_wind.txt 1 3286 
+instrument Solar_wind.txt 2 1071 2795 
+interested Solar_wind.txt 1 760 
+extends Solar_wind.txt 1 2867 
+board Solar_wind.txt 1 1073 
+sydney Solar_wind.txt 1 718 
+necks Solar_wind.txt 1 1832 
+role Solar_wind.txt 1 3477 
+has Solar_wind.txt 10 936 1516 1616 2278 2344 2539 2849 3035 3202 3263 
+plasma Solar_wind.txt 12 86 107 276 1345 1807 1825 1847 1962 2032 2258 2971 2982 
+match Solar_wind.txt 1 1606 
+nasa Solar_wind.txt 3 3082 3462 3472 
+identical Solar_wind.txt 1 2622 
+sonic Solar_wind.txt 1 1139 
+manage Solar_wind.txt 1 2914 
+around Solar_wind.txt 6 675 1667 1801 2186 2374 2777 
+depends Solar_wind.txt 1 3401 
+emanating Solar_wind.txt 1 1086 
+bow Solar_wind.txt 1 2501 
+early Solar_wind.txt 1 1283 
+possibly Solar_wind.txt 1 2793 
+increases Solar_wind.txt 1 911 
+allen Solar_wind.txt 1 2902 
+five Solar_wind.txt 1 212 
+denser Solar_wind.txt 1 2852 
+confined Solar_wind.txt 1 40 
+using Solar_wind.txt 2 1057 3464 
+moreover Solar_wind.txt 1 2823 
+atmospheres Solar_wind.txt 2 2809 2822 
+loss Solar_wind.txt 2 1476 1536 
+like Solar_wind.txt 1 2389 
+lost Solar_wind.txt 1 1518 
+shaped Solar_wind.txt 1 2388 
+should Solar_wind.txt 1 1116 
+velocities Solar_wind.txt 1 3564 
+streamers Solar_wind.txt 1 1681 
+accelerating Solar_wind.txt 1 2040 
+facing Solar_wind.txt 1 2395 
+flux Solar_wind.txt 2 372 1686 
+arthur Solar_wind.txt 1 477 
+fully Solar_wind.txt 2 502 1181 
+popular Solar_wind.txt 1 2002 
+145 Solar_wind.txt 1 1386 
+downward Solar_wind.txt 1 2117 
+entrained Solar_wind.txt 1 2465 
+because Solar_wind.txt 3 137 694 791 
+often Solar_wind.txt 3 360 1993 3379 
+collectors Solar_wind.txt 1 3288 
+affects Solar_wind.txt 1 2814 
+deflected Solar_wind.txt 1 2358 
+phenomena Solar_wind.txt 5 267 2522 2654 2955 3599 
+back Solar_wind.txt 2 2644 3368 
+cuperman Solar_wind.txt 5 3499 3510 3533 3630 3660 
+understood Solar_wind.txt 1 1177 
+astronomer Solar_wind.txt 1 319 
+ejections Solar_wind.txt 3 1967 1979 3233 
+jupiter Solar_wind.txt 1 2352 
+accelerate Solar_wind.txt 1 1295 
+escape Solar_wind.txt 3 133 1394 1436 
+whipple-fedke Solar_wind.txt 1 829 
+transport Solar_wind.txt 2 1827 3521 
+happens Solar_wind.txt 1 790 
+1859 Solar_wind.txt 1 324 
+dense Solar_wind.txt 2 1646 3051 
+198 Solar_wind.txt 1 3552 
+for Solar_wind.txt 18 13 1105 1191 1205 1310 2290 2451 2474 2548 2748 2796 3060 3301 3324 3523 3544 3584 3673 
+chamber Solar_wind.txt 1 472 
+stronger Solar_wind.txt 1 1527 
+electromagnetic Solar_wind.txt 3 1189 2037 2921 
+noon Solar_wind.txt 1 2441 
+measurements Solar_wind.txt 1 1042 
+particles/cm Solar_wind.txt 1 1926 
+fluids Solar_wind.txt 1 2685 
+per Solar_wind.txt 4 187 1470 1490 3162 
+moon Solar_wind.txt 1 3262 
+tend Solar_wind.txt 1 2192 
+magnitude Solar_wind.txt 1 3561 
+lunar Solar_wind.txt 3 3298 3306 3325 
+provides Solar_wind.txt 1 2648 
+funnels Solar_wind.txt 1 1836 
+readily Solar_wind.txt 1 1882 
+displayed Solar_wind.txt 1 2720 
+lowest Solar_wind.txt 1 1748 
+be Solar_wind.txt 14 338 398 546 689 858 1103 1144 1180 1955 2746 2758 2788 3123 3382 
+ripped Solar_wind.txt 1 3074 
+blowing Solar_wind.txt 1 848 
+reaching Solar_wind.txt 1 440 
+journal Solar_wind.txt 1 974 
+electrically Solar_wind.txt 1 3132 
+solar-wind Solar_wind.txt 1 106 
+usaf Solar_wind.txt 1 3605 
+schrder Solar_wind.txt 1 807 
+stellar Solar_wind.txt 3 8 1528 3585 
+pressure Solar_wind.txt 5 1859 1865 1889 1915 2997 
+although Solar_wind.txt 2 1879 3015 
+winds.proceedings Solar_wind.txt 1 3586 
+losing Solar_wind.txt 1 1496 
+by Solar_wind.txt 36 317 586 600 606 884 979 985 1020 1027 1032 1038 1053 1106 1183 1201 1229 1298 1374 1462 1610 1684 1709 1814 1957 1983 2359 2433 2486 2509 2675 2760 2836 2880 3076 3097 3102 
+on Solar_wind.txt 26 351 383 452 496 504 824 940 961 1072 1291 2137 2154 2202 2256 2309 2392 2406 2652 2919 2944 3120 3402 3431 3485 3593 3635 
+about Solar_wind.txt 9 6 226 1127 1385 1467 1480 1486 1509 3157 
+thequiet Solar_wind.txt 1 3524 
+carried Solar_wind.txt 2 1457 3101 
+of Solar_wind.txt 128 22 29 60 71 79 88 138 147 156 164 182 191 278 295 304 334 368 408 448 483 533 539 558 602 618 635 645 663 684 695 723 738 751 798 826 861 933 1043 1081 1090 1126 1170 1213 1285 1314 1344 1357 1371 1381 1396 1402 1413 1455 1511 1590 1595 1620 1625 1635 1720 1730 1747 1786 1833 1873 1893 1934 1961 1975 1985 2018 2033 2049 2073 2109 2132 2151 2160 2200 2250 2269 2324 2412 2421 2436 2444 2455 2478 2488 2497 2505 2561 2567 2589 2619 2667 2683 2689 2697 2712 2726 2774 2799 2887 2893 2908 2980 2998 3042 3069 3093 3153 3183 3243 3386 3406 3414 3478 3515 3540 3562 3565 3587 3596 3615 3619 3637 3642 
+anomalous Solar_wind.txt 1 3520 
+factors Solar_wind.txt 1 2487 
+simulation Solar_wind.txt 2 447 1212 
+range Solar_wind.txt 3 1368 1872 1886 
+time-dependent Solar_wind.txt 1 3667 
+places Solar_wind.txt 1 2736 
+carrington Solar_wind.txt 3 322 325 393 
+progressions Solar_wind.txt 1 2776 
+slightly Solar_wind.txt 2 2146 2171 
+or Solar_wind.txt 12 773 1138 1273 1337 1485 1968 1997 2353 2382 2828 2856 3266 
+localised Solar_wind.txt 1 347 
+formerly Solar_wind.txt 1 2743 
+previously Solar_wind.txt 1 2557 
+into Solar_wind.txt 13 256 701 746 918 1829 1850 2640 2802 2974 2988 3145 3240 3469 
+within Solar_wind.txt 2 104 1362 
+interstellar Solar_wind.txt 6 263 919 3342 3370 3416 3439 
+two Solar_wind.txt 3 980 1556 2684 
+luna Solar_wind.txt 3 1005 1033 1035 
+weather Solar_wind.txt 3 2134 2241 2527 
+references Solar_wind.txt 1 3456 
+been Solar_wind.txt 3 1270 1517 2719 
+primarily Solar_wind.txt 1 1290 
+laval Solar_wind.txt 1 946 
+1990s Solar_wind.txt 1 1065 
+shoots Solar_wind.txt 1 3143 
+nobel Solar_wind.txt 2 995 1203 
+fox Solar_wind.txt 1 3458 
+apollos Solar_wind.txt 1 3169 
+van Solar_wind.txt 1 2901 
+1983 Solar_wind.txt 1 994 
+intrinsic Solar_wind.txt 2 3204 3267 
+altitude Solar_wind.txt 1 1125 
+there Solar_wind.txt 1 396 
+soil Solar_wind.txt 1 3299 
+spiral Solar_wind.txt 1 2168 
+fast Solar_wind.txt 10 46 1083 1172 1542 1566 1613 1654 1775 1949 2189 
+subrahmanyan Solar_wind.txt 1 988 
+pneuman Solar_wind.txt 1 1230 
+editor Solar_wind.txt 1 987 
+way Solar_wind.txt 3 697 744 2227 
+parkers Solar_wind.txt 3 959 1110 1184 
+was Solar_wind.txt 19 314 390 430 439 563 573 596 733 812 923 965 977 983 1030 1051 1227 1255 1302 2705 
+energy Solar_wind.txt 6 97 141 1293 1987 2020 2922 
+launching Solar_wind.txt 1 2036 
+function Solar_wind.txt 2 28 1892 
+funnel Solar_wind.txt 1 1852 
+750 Solar_wind.txt 3 48 185 1621 
+form Solar_wind.txt 3 2047 2123 2166 
+enough Solar_wind.txt 2 2952 3365 
+some Solar_wind.txt 3 1157 2420 2892 
+differences Solar_wind.txt 2 1571 2690 
+but Solar_wind.txt 5 634 1135 2007 2229 3418 
+heat Solar_wind.txt 5 739 836 892 2966 3487 
+needles Solar_wind.txt 1 2075 
+gain Solar_wind.txt 1 3429 
+solar Solar_wind.txt 103 0 17 23 33 66 114 126 169 175 193 341 353 454 485 625 642 686 817 869 885 963 1011 1084 1129 1150 1162 1215 1219 1260 1264 1276 1287 1315 1332 1393 1422 1464 1483 1521 1545 1549 1562 1567 1582 1614 1641 1655 1659 1703 1733 1743 1749 1758 1763 1772 1776 1819 1936 1952 1976 1995 2012 2234 2261 2276 2299 2328 2337 2447 2519 2550 2572 2590 2738 2761 2800 2812 2838 2878 2912 2940 2990 3033 3077 3104 3185 3210 3214 3251 3279 3295 3316 3335 3358 3388 3408 3470 3491 3525 3547 3621 3638 3674 
+line Solar_wind.txt 1 2924 
+apollo Solar_wind.txt 1 3283 
+with Solar_wind.txt 18 95 364 420 1245 2011 2169 2174 2273 2294 2340 2820 2825 2854 3256 3276 3519 3647 3670 
+222 Solar_wind.txt 1 3625 
+deployed Solar_wind.txt 1 3285 
+he Solar_wind.txt 5 526 542 591 866 969 
+made Solar_wind.txt 4 330 510 1026 1271 
+coefficients Solar_wind.txt 1 3522 
+embedded Solar_wind.txt 1 103 
+streaming Solar_wind.txt 1 3563 
+whether Solar_wind.txt 1 767 
+rate Solar_wind.txt 3 2284 3092 3152 
+gravitational Solar_wind.txt 1 1187 
+j Solar_wind.txt 5 3504 3551 3624 3650 3677 
+up Solar_wind.txt 3 1440 1738 3038 
+planet Solar_wind.txt 5 2342 2376 2846 3175 3245 
+below Solar_wind.txt 1 1391 
+exerts Solar_wind.txt 1 1863 
+how Solar_wind.txt 1 2754 
+fluctuations Solar_wind.txt 3 2303 2458 3479 
+distribution Solar_wind.txt 2 1370 1377 
+similar Solar_wind.txt 2 512 2845 
+called Solar_wind.txt 9 82 339 1963 1994 2087 2315 2416 2525 3136 
+strongly Solar_wind.txt 3 882 2468 2965 
+150 Solar_wind.txt 1 1504 
+non-existent Solar_wind.txt 1 2829 
+sometimes Solar_wind.txt 1 2006 
+associated Solar_wind.txt 1 2010 
+probes Solar_wind.txt 1 2861 
+flow Solar_wind.txt 4 190 942 956 1122 
+measurement Solar_wind.txt 1 1050 
+influence Solar_wind.txt 2 451 2249 
+an Solar_wind.txt 13 365 470 494 1124 1198 1246 1317 1441 2313 2920 3113 3203 3290 
+ionosphere Solar_wind.txt 2 2931 2968 
+as Solar_wind.txt 25 26 378 576 667 669 703 906 943 1354 1645 1675 1756 2228 2350 2366 2604 2634 2686 2917 2957 3050 3052 3106 3117 3374 
+terrella Solar_wind.txt 1 464 
+exist Solar_wind.txt 1 1554 
+at Solar_wind.txt 18 161 199 514 726 900 1123 1272 1424 1736 1762 1866 1988 2022 2680 2715 2721 3156 3570 
+planets Solar_wind.txt 1 2824 
+relates Solar_wind.txt 1 1326 
+lifetime Solar_wind.txt 1 2266 
+physical Solar_wind.txt 1 616 
+again Solar_wind.txt 1 2645 
+zones Solar_wind.txt 1 2935 
+no Solar_wind.txt 5 196 765 2857 3264 3362 
+air Solar_wind.txt 1 3601 
+hannes Solar_wind.txt 1 1207 
+fitzgerald Solar_wind.txt 1 425 
+subsonic Solar_wind.txt 1 953 
+field Solar_wind.txt 25 64 112 160 297 1225 1443 1788 1794 1856 2069 2255 2348 2439 2467 2671 2859 2883 3014 3071 3100 3115 3130 3206 3269 3484 
+other Solar_wind.txt 8 14 265 580 639 1523 2695 2778 2815 
+electrical Solar_wind.txt 1 2079 
+normal Solar_wind.txt 1 3209 
+dipolar Solar_wind.txt 1 1248 
+confine Solar_wind.txt 1 1823 
+observable Solar_wind.txt 1 2943 
+elements Solar_wind.txt 1 3319 
+kinds Solar_wind.txt 1 637 
+generates Solar_wind.txt 1 3112 
+78 Solar_wind.txt 1 3494 
+models Solar_wind.txt 1 1284 
+na5 Solar_wind.txt 1 3654 
+m Solar_wind.txt 5 1902 1910 3537 3610 3661 
+occurred Solar_wind.txt 2 1735 2614 
+comet-like Solar_wind.txt 1 2864 
+coronal Solar_wind.txt 14 158 380 410 914 1068 1680 1698 1780 1835 1938 1944 1965 1977 3231 
+recent Solar_wind.txt 1 2579 
+realised Solar_wind.txt 1 833 
+variable Solar_wind.txt 1 1649 
+astronomy Solar_wind.txt 1 3333 
+nuclei Solar_wind.txt 1 3312 
+structure Solar_wind.txt 1 1540 
+near-earth Solar_wind.txt 3 414 1578 2632 
+billion Solar_wind.txt 3 228 237 1488 
+independently Solar_wind.txt 1 329 
+2008 Solar_wind.txt 1 3447 
+longer Solar_wind.txt 2 197 3363 
+prevalent Solar_wind.txt 1 1800 
+typically Solar_wind.txt 1 1869 
+required Solar_wind.txt 1 1323 
+holes Solar_wind.txt 1 1781 
+orbit Solar_wind.txt 3 750 2870 3425 
+itself Solar_wind.txt 2 2084 2872 
+2001 Solar_wind.txt 1 1726 
+mass Solar_wind.txt 13 381 411 1434 1475 1498 1515 1535 1914 1939 1945 1966 1978 3232 
+2007 Solar_wind.txt 1 220 
+time Solar_wind.txt 2 123 2938 
+push Solar_wind.txt 1 3367 
+atoms Solar_wind.txt 1 3135 
+1973 Solar_wind.txt 2 3497 3508 
+starting Solar_wind.txt 1 1244 
+original Solar_wind.txt 1 3044 
+heliosheath Solar_wind.txt 1 258 

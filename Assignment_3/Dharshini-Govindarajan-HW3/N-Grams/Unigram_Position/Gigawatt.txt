@@ -1,0 +1,619 @@
+irradiance Gigawatt.txt 2 734 1196 
+gw Gigawatt.txt 6 923 967 979 999 1012 1305 
+all Gigawatt.txt 1 1476 
+maximum Gigawatt.txt 2 1468 1597 
+recorded Gigawatt.txt 1 1617 
+supercolliders Gigawatt.txt 1 798 
+resistance Gigawatt.txt 1 154 
+four Gigawatt.txt 1 985 
+farms Gigawatt.txt 1 787 
+lamps Gigawatt.txt 1 1710 
+compliance Gigawatt.txt 1 1354 
+contributions Gigawatt.txt 1 175 
+centers Gigawatt.txt 1 790 
+compact Gigawatt.txt 1 524 
+volt-ampere Gigawatt.txt 1 1407 
+amplification Gigawatt.txt 1 1135 
+referring Gigawatt.txt 1 1445 
+mwt Gigawatt.txt 1 1250 
+electricity Gigawatt.txt 2 1294 1397 
+tw Gigawatt.txt 1 1017 
+flash Gigawatt.txt 1 1709 
+megawatts Gigawatt.txt 4 816 935 1579 1670 
+1947 Gigawatt.txt 1 912 
+prefixes Gigawatt.txt 1 1297 
+to Gigawatt.txt 44 50 176 249 258 279 299 322 338 374 385 405 446 466 478 519 546 589 631 641 665 682 743 753 860 926 963 965 1010 1020 1047 1083 1236 1256 1276 1285 1328 1334 1446 1453 1656 1686 1703 1744 1746 
+citing Gigawatt.txt 1 879 
+mwe Gigawatt.txt 1 1230 
+alternating Gigawatt.txt 1 1394 
+sound Gigawatt.txt 3 253 263 427 
+very Gigawatt.txt 1 804 
+railways Gigawatt.txt 1 823 
+diesel-electric Gigawatt.txt 1 855 
+difference Gigawatt.txt 1 124 
+categories Gigawatt.txt 2 1767 1769 
+level Gigawatt.txt 1 436 
+transmission Gigawatt.txt 2 1425 1459 
+notes Gigawatt.txt 1 1760 
+large Gigawatt.txt 6 773 776 785 805 808 942 
+p Gigawatt.txt 2 1339 1344 
+calendar Gigawatt.txt 1 1644 
+small Gigawatt.txt 1 686 
+loads Gigawatt.txt 1 1420 
+femtowatt Gigawatt.txt 3 272 275 340 
+force Gigawatt.txt 1 83 
+pulse Gigawatt.txt 2 1134 1140 
+270 Gigawatt.txt 2 1340 1345 
+second Gigawatt.txt 5 46 78 190 1679 1698 
+further Gigawatt.txt 1 1319 
+estimated Gigawatt.txt 1 1209 
+3,600,000 Gigawatt.txt 1 1693 
+machines Gigawatt.txt 2 655 761 
+microwatts Gigawatt.txt 2 491 538 
+picoseconds Gigawatt.txt 1 1105 
+rate Gigawatt.txt 6 53 88 105 1495 1704 1733 
+giving Gigawatt.txt 1 1149 
+sun Gigawatt.txt 1 731 
+specification Gigawatt.txt 1 357 
+2109 Gigawatt.txt 1 1278 
+expressed Gigawatt.txt 2 433 1634 
+current Gigawatt.txt 3 114 1094 1395 
+above Gigawatt.txt 1 140 
+international Gigawatt.txt 6 30 235 260 422 896 1307 
+net Gigawatt.txt 1 868 
+equivalent Gigawatt.txt 2 1372 1412 
+eurostar Gigawatt.txt 1 845 
+maintains Gigawatt.txt 1 1314 
+chinas Gigawatt.txt 1 958 
+commercial Gigawatt.txt 2 208 811 
+here Gigawatt.txt 2 598 619 
+water Gigawatt.txt 2 213 256 
+objects Gigawatt.txt 1 69 
+directions Gigawatt.txt 1 1477 
+i.e Gigawatt.txt 3 1280 1293 1338 
+november Gigawatt.txt 1 911 
+change Gigawatt.txt 1 1735 
+gigawatts Gigawatt.txt 2 1581 1593 
+institute Gigawatt.txt 1 1168 
+si-standard Gigawatt.txt 1 1316 
+larger Gigawatt.txt 1 380 
+commonly Gigawatt.txt 1 1033 
+amount Gigawatt.txt 1 1552 
+calculators Gigawatt.txt 1 531 
+648 Gigawatt.txt 1 1291 
+mwth Gigawatt.txt 1 1253 
+named Gigawatt.txt 1 166 
+scales Gigawatt.txt 1 1100 
+volt Gigawatt.txt 1 127 
+total Gigawatt.txt 4 1026 1151 1194 1201 
+tools Gigawatt.txt 1 654 
+unit Gigawatt.txt 17 10 25 41 131 151 161 185 637 663 937 982 1330 1364 1373 1515 1682 1731 
+use Gigawatt.txt 2 694 814 
+refers Gigawatt.txt 3 1233 1255 1452 
+from Gigawatt.txt 4 3 211 729 1044 
+takes Gigawatt.txt 1 358 
+consumption Gigawatt.txt 2 701 1631 
+two Gigawatt.txt 1 129 
+0.1 Gigawatt.txt 1 1544 
+6 Gigawatt.txt 1 837 
+strike Gigawatt.txt 1 1063 
+gigawatt Gigawatt.txt 6 4 919 922 933 1303 1625 
+converters Gigawatt.txt 1 1001 
+reflects Gigawatt.txt 1 1595 
+more Gigawatt.txt 2 843 849 
+0.5477 Gigawatt.txt 1 350 
+outputs Gigawatt.txt 1 557 
+company Gigawatt.txt 1 1359 
+musician Gigawatt.txt 2 611 616 
+opposing Gigawatt.txt 1 82 
+account Gigawatt.txt 1 360 
+hour Gigawatt.txt 8 1535 1546 1651 1666 1691 1725 1751 1756 
+this Gigawatt.txt 8 5 341 430 636 770 936 1550 1594 
+science Gigawatt.txt 3 200 414 917 
+equation Gigawatt.txt 1 141 
+work Gigawatt.txt 2 91 109 
+mw Gigawatt.txt 11 543 750 838 852 862 876 1232 1251 1254 1279 1292 
+can Gigawatt.txt 4 135 693 1089 1601 
+v Gigawatt.txt 1 128 
+example Gigawatt.txt 9 305 847 949 1157 1264 1302 1518 1583 1702 
+links Gigawatt.txt 1 1765 
+stated Gigawatt.txt 2 333 494 
+process Gigawatt.txt 1 1131 
+household Gigawatt.txt 1 704 
+0.5 Gigawatt.txt 1 1143 
+confused Gigawatt.txt 2 376 1491 
+states Gigawatt.txt 4 605 708 904 1317 
+performed Gigawatt.txt 1 111 
+megajoule Gigawatt.txt 1 1374 
+shanxi Gigawatt.txt 1 959 
+information Gigawatt.txt 1 1320 
+united Gigawatt.txt 2 604 707 
+end Gigawatt.txt 1 952 
+carriers Gigawatt.txt 1 781 
+rather Gigawatt.txt 2 1342 1471 
+quadrillionth Gigawatt.txt 1 281 
+1 Gigawatt.txt 7 43 95 266 339 932 1066 1188 
+instead Gigawatt.txt 1 1333 
+6987500000000000000 Gigawatt.txt 1 1145 
+plant Gigawatt.txt 2 1262 1269 
+kilowatt Gigawatt.txt 10 592 594 607 627 678 696 712 726 1545 1690 
+fw Gigawatt.txt 1 276 
+may Gigawatt.txt 1 813 
+after Gigawatt.txt 1 167 
+derived Gigawatt.txt 2 40 150 
+produce Gigawatt.txt 2 762 841 
+such Gigawatt.txt 6 499 529 778 796 1109 1387 
+law Gigawatt.txt 1 144 
+meaningful Gigawatt.txt 1 306 
+1882 Gigawatt.txt 1 202 
+a Gigawatt.txt 50 24 39 80 113 118 284 346 353 390 435 451 483 507 551 553 565 661 685 703 713 736 807 830 890 909 994 1119 1130 1150 1177 1184 1242 1273 1287 1322 1381 1520 1524 1557 1564 1608 1639 1643 1657 1672 1681 1722 1730 1747 1753 
+gorges Gigawatt.txt 1 1586 
+effective Gigawatt.txt 2 1429 1448 
+light Gigawatt.txt 3 562 1521 1556 
+element Gigawatt.txt 1 692 
+si Gigawatt.txt 6 34 149 160 239 1296 1356 
+so Gigawatt.txt 1 1348 
+microseconds Gigawatt.txt 1 1075 
+geographic Gigawatt.txt 1 1469 
+order Gigawatt.txt 1 1103 
+wind Gigawatt.txt 1 973 
+typical Gigawatt.txt 2 554 566 
+1300 Gigawatt.txt 1 875 
+meter Gigawatt.txt 2 76 719 
+installed Gigawatt.txt 1 970 
+produced Gigawatt.txt 5 1050 1091 1240 1259 1367 
+held Gigawatt.txt 1 72 
+thermal Gigawatt.txt 3 1246 1248 1257 
+experiments Gigawatt.txt 1 1164 
+including Gigawatt.txt 1 772 
+lasers Gigawatt.txt 3 806 1043 1097 
+turbine Gigawatt.txt 1 1288 
+pointer Gigawatt.txt 1 556 
+22 Gigawatt.txt 1 1592 
+28 Gigawatt.txt 1 910 
+production Gigawatt.txt 2 210 1629 
+trillionth Gigawatt.txt 1 387 
+argentina Gigawatt.txt 1 1271 
+main Gigawatt.txt 1 1427 
+2010 Gigawatt.txt 1 954 
+microwatt Gigawatt.txt 2 471 474 
+dam Gigawatt.txt 1 1587 
+they Gigawatt.txt 1 1417 
+not Gigawatt.txt 4 373 1325 1622 1742 
+hearing Gigawatt.txt 1 567 
+day Gigawatt.txt 2 738 741 
+association Gigawatt.txt 1 195 
+term Gigawatt.txt 1 1716 
+1.04 Gigawatt.txt 1 998 
+edit Gigawatt.txt 21 66 162 241 243 273 369 440 472 540 593 747 920 1014 1077 1222 1426 1483 1759 1761 1763 1766 
+james Gigawatt.txt 2 171 612 
+university Gigawatt.txt 1 1174 
+found Gigawatt.txt 2 137 296 
+heavy Gigawatt.txt 1 854 
+square Gigawatt.txt 1 718 
+financial Gigawatt.txt 1 1647 
+dong Gigawatt.txt 1 1360 
+generation Gigawatt.txt 1 1095 
+energy Gigawatt.txt 18 55 320 768 1039 1152 1358 1361 1488 1498 1513 1537 1554 1612 1621 1628 1653 1684 1706 
+conventions Gigawatt.txt 1 1216 
+femtowatts Gigawatt.txt 1 293 
+measurement Gigawatt.txt 2 184 230 
+out Gigawatt.txt 1 983 
+174 Gigawatt.txt 1 1211 
+quantify Gigawatt.txt 1 51 
+avedre Gigawatt.txt 1 1389 
+research Gigawatt.txt 1 794 
+increase Gigawatt.txt 1 964 
+rf Gigawatt.txt 2 319 362 
+sustain Gigawatt.txt 1 764 
+correct Gigawatt.txt 1 1743 
+ecg Gigawatt.txt 1 505 
+non-si Gigawatt.txt 1 1352 
+dictionary Gigawatt.txt 2 887 897 
+lawrence Gigawatt.txt 1 1113 
+million Gigawatt.txt 1 755 
+given Gigawatt.txt 1 1640 
+standard Gigawatt.txt 2 261 423 
+california Gigawatt.txt 1 608 
+tuner Gigawatt.txt 2 308 367 
+attowatt Gigawatt.txt 2 242 245 
+earliest Gigawatt.txt 1 878 
+generate Gigawatt.txt 1 1277 
+watts Gigawatt.txt 9 613 635 757 930 1024 1087 1444 1480 1510 
+language Gigawatt.txt 1 900 
+e.g Gigawatt.txt 1 1509 
+british Gigawatt.txt 1 194 
+creates Gigawatt.txt 1 1283 
+place Gigawatt.txt 1 601 
+w Gigawatt.txt 6 22 475 1128 1341 1346 1529 
+hence Gigawatt.txt 1 1504 
+1000 Gigawatt.txt 1 934 
+origin Gigawatt.txt 1 155 
+major Gigawatt.txt 1 1627 
+trillion Gigawatt.txt 1 1022 
+transmitters Gigawatt.txt 2 676 1440 
+striking Gigawatt.txt 1 1205 
+powerful Gigawatt.txt 1 1042 
+primary Gigawatt.txt 1 1038 
+one Gigawatt.txt 30 75 85 101 116 126 280 386 418 447 479 547 574 590 632 677 690 711 717 725 754 927 1021 1084 1108 1534 1649 1662 1665 1675 1689 
+done Gigawatt.txt 1 93 
+adopted Gigawatt.txt 1 226 
+another Gigawatt.txt 2 1156 1398 
+warships Gigawatt.txt 1 777 
+electronic Gigawatt.txt 1 580 
+earths Gigawatt.txt 1 1206 
+differ Gigawatt.txt 1 1418 
+rated Gigawatt.txt 2 1573 1589 
+exists Gigawatt.txt 1 1726 
+data Gigawatt.txt 1 789 
+75-ohm Gigawatt.txt 1 347 
+system Gigawatt.txt 2 31 236 
+approximately Gigawatt.txt 5 269 680 1187 1591 1668 
+fm Gigawatt.txt 1 307 
+their Gigawatt.txt 1 1439 
+station Gigawatt.txt 3 992 1386 1391 
+convention Gigawatt.txt 1 1235 
+that Gigawatt.txt 8 289 317 395 455 487 905 1318 1511 
+broadcast Gigawatt.txt 2 672 1474 
+than Gigawatt.txt 4 573 850 1343 1472 
+inventor Gigawatt.txt 1 170 
+wide Gigawatt.txt 1 508 
+milliwatt Gigawatt.txt 4 539 542 575 591 
+12 Gigawatt.txt 1 851 
+require Gigawatt.txt 1 316 
+see Gigawatt.txt 7 16 606 614 623 1037 1213 1757 
+ohms Gigawatt.txt 1 143 
+were Gigawatt.txt 1 961 
+milliwatts Gigawatt.txt 1 560 
+powers Gigawatt.txt 4 288 394 454 486 
+and Gigawatt.txt 35 47 142 156 214 224 301 314 407 411 468 503 512 515 521 532 578 595 648 656 674 783 791 799 820 874 968 1088 1311 1347 1370 1384 1405 1481 1487 1503 
+1.0 Gigawatt.txt 1 695 
+disambiguation Gigawatt.txt 2 18 625 
+modern Gigawatt.txt 1 824 
+turned Gigawatt.txt 1 1531 
+medical Gigawatt.txt 1 496 
+have Gigawatt.txt 3 829 867 1002 
+horsepower Gigawatt.txt 1 684 
+any Gigawatt.txt 1 1604 
+contents Gigawatt.txt 1 64 
+instrumentation Gigawatt.txt 1 497 
+conversion Gigawatt.txt 1 766 
+u.s Gigawatt.txt 1 863 
+built Gigawatt.txt 1 1004 
+storage Gigawatt.txt 1 1707 
+1960 Gigawatt.txt 1 217 
+mid Gigawatt.txt 1 740 
+equipment Gigawatt.txt 1 795 
+potential Gigawatt.txt 1 123 
+which Gigawatt.txt 8 90 107 1117 1175 1282 1289 1313 1497 
+quieting Gigawatt.txt 1 313 
+performance Gigawatt.txt 1 309 
+1.34 Gigawatt.txt 1 683 
+province Gigawatt.txt 1 960 
+towards Gigawatt.txt 1 1464 
+electric Gigawatt.txt 9 652 687 699 774 818 826 1219 1225 1238 
+measures Gigawatt.txt 2 225 1312 
+most Gigawatt.txt 1 1041 
+germany Gigawatt.txt 1 976 
+strikes Gigawatt.txt 1 1070 
+watt Gigawatt.txt 23 0 17 20 96 102 134 164 172 251 285 391 452 484 552 1404 1541 1678 1694 1697 1723 1748 1750 1754 
+measured Gigawatt.txt 8 291 397 457 489 536 585 1034 1506 
+kj Gigawatt.txt 1 1549 
+average Gigawatt.txt 3 698 1061 1193 
+sometimes Gigawatt.txt 1 1299 
+drive Gigawatt.txt 1 1286 
+300-ohm Gigawatt.txt 1 354 
+kw Gigawatt.txt 3 617 624 628 
+principle Gigawatt.txt 1 1728 
+redirected Gigawatt.txt 1 2 
+ampere Gigawatt.txt 1 117 
+typically Gigawatt.txt 11 295 401 462 493 535 639 723 828 857 1578 1624 
+quantity Gigawatt.txt 3 431 1323 1336 
+rating Gigawatt.txt 1 1526 
+atmosphere Gigawatt.txt 1 1207 
+dbm Gigawatt.txt 1 587 
+reactor Gigawatt.txt 1 1275 
+dbf Gigawatt.txt 1 335 
+reactance Gigawatt.txt 1 1423 
+radio Gigawatt.txt 8 300 406 416 467 520 673 1424 1432 
+sustained Gigawatt.txt 1 1658 
+earth Gigawatt.txt 1 721 
+redirect Gigawatt.txt 1 597 
+based Gigawatt.txt 1 1190 
+should Gigawatt.txt 1 1324 
+technologically Gigawatt.txt 2 286 392 
+only Gigawatt.txt 2 1055 1071 
+employed Gigawatt.txt 1 1720 
+achieve Gigawatt.txt 1 1602 
+hours Gigawatt.txt 5 1542 1562 1569 1626 1637 
+his Gigawatt.txt 1 174 
+10 Gigawatt.txt 14 250 282 388 449 481 549 634 756 929 1023 1086 1106 1127 1147 
+photography Gigawatt.txt 1 1713 
+express Gigawatt.txt 2 642 666 
+television Gigawatt.txt 1 675 
+report Gigawatt.txt 1 1435 
+2 Gigawatt.txt 3 1011 1181 1568 
+radar Gigawatt.txt 4 302 408 469 522 
+produce/use Gigawatt.txt 1 858 
+picowatt Gigawatt.txt 3 368 371 419 
+common Gigawatt.txt 1 662 
+pulses Gigawatt.txt 1 802 
+where Gigawatt.txt 1 145 
+steam Gigawatt.txt 3 181 215 1284 
+conversions Gigawatt.txt 1 132 
+j Gigawatt.txt 1 1155 
+reference Gigawatt.txt 6 262 404 424 465 518 891 
+achieved Gigawatt.txt 2 1118 1176 
+generally Gigawatt.txt 1 1719 
+sensitivity Gigawatt.txt 1 312 
+humans Gigawatt.txt 1 1030 
+picowatts Gigawatt.txt 1 399 
+relative Gigawatt.txt 1 1455 
+intensity Gigawatt.txt 1 254 
+are Gigawatt.txt 16 290 294 331 396 400 456 460 488 492 534 583 1298 1351 1411 1489 1572 
+close Gigawatt.txt 1 742 
+11th Gigawatt.txt 1 219 
+2.5 Gigawatt.txt 1 1561 
+heaters Gigawatt.txt 1 657 
+capacity Gigawatt.txt 1 971 
+nuclear Gigawatt.txt 3 864 990 1267 
+wikipedia Gigawatt.txt 1 1 
+fission Gigawatt.txt 1 1274 
+quadrillion Gigawatt.txt 1 1085 
+3 Gigawatt.txt 1 859 
+bureau Gigawatt.txt 1 1308 
+radiated Gigawatt.txt 2 1430 1449 
+between Gigawatt.txt 3 871 1402 1479 
+across Gigawatt.txt 3 120 345 352 
+360 Gigawatt.txt 1 1548 
+decibels Gigawatt.txt 2 336 438 
+terms Gigawatt.txt 2 98 1485 
+receivers Gigawatt.txt 4 303 409 470 523 
+however Gigawatt.txt 1 1614 
+wh Gigawatt.txt 1 1543 
+aircraft Gigawatt.txt 1 780 
+article Gigawatt.txt 3 6 913 1428 
+electrical Gigawatt.txt 7 108 122 153 1229 1304 1368 1422 
+both Gigawatt.txt 1 212 
+ile Gigawatt.txt 1 1172 
+last Gigawatt.txt 1 1072 
+chirped Gigawatt.txt 1 1133 
+many Gigawatt.txt 1 758 
+annual Gigawatt.txt 1 1611 
+nanowatts Gigawatt.txt 1 459 
+equal Gigawatt.txt 14 248 278 384 445 477 545 630 681 752 925 1019 1082 1655 1685 
+against Gigawatt.txt 1 79 
+called Gigawatt.txt 1 1132 
+plants Gigawatt.txt 2 866 944 
+s Gigawatt.txt 3 1107 1148 1375 
+figures Gigawatt.txt 1 310 
+receives Gigawatt.txt 1 722 
+distinction Gigawatt.txt 2 1399 1478 
+load Gigawatt.txt 2 348 355 
+exhibit Gigawatt.txt 1 1421 
+websters Gigawatt.txt 1 895 
+appeared Gigawatt.txt 1 907 
+period Gigawatt.txt 2 1641 1673 
+aw/m Gigawatt.txt 1 271 
+scottish Gigawatt.txt 1 169 
+100 Gigawatt.txt 2 1528 1540 
+conference Gigawatt.txt 1 221 
+ps Gigawatt.txt 2 1144 1189 
+described Gigawatt.txt 1 62 
+pw Gigawatt.txt 6 372 382 1080 1124 1182 1212 
+engines Gigawatt.txt 1 647 
+three Gigawatt.txt 1 1585 
+been Gigawatt.txt 1 1003 
+much Gigawatt.txt 2 379 842 
+7015125000000000000 Gigawatt.txt 1 1125 
+combined Gigawatt.txt 1 1382 
+expected Gigawatt.txt 1 962 
+500 Gigawatt.txt 1 873 
+systems Gigawatt.txt 1 498 
+engine Gigawatt.txt 1 182 
+corresponding Gigawatt.txt 1 257 
+0.2739 Gigawatt.txt 1 343 
+shortages Gigawatt.txt 1 956 
+thousand Gigawatt.txt 1 633 
+kw/m Gigawatt.txt 1 1199 
+millionth Gigawatt.txt 1 480 
+external Gigawatt.txt 1 1764 
+bulb Gigawatt.txt 3 1522 1559 1566 
+an Gigawatt.txt 3 68 121 159 
+locomotives Gigawatt.txt 2 827 856 
+applied Gigawatt.txt 1 321 
+laser Gigawatt.txt 5 555 1110 1116 1160 1170 
+these Gigawatt.txt 4 328 1069 1349 1409 
+engineering Gigawatt.txt 2 513 1171 
+value Gigawatt.txt 1 425 
+while Gigawatt.txt 4 853 1244 1408 1721 
+thousandth Gigawatt.txt 1 548 
+ignition Gigawatt.txt 1 1163 
+aid Gigawatt.txt 1 568 
+at Gigawatt.txt 10 74 89 106 739 1065 1166 1210 1496 1590 1603 
+30 Gigawatt.txt 1 1074 
+equator Gigawatt.txt 1 745 
+is Gigawatt.txt 52 7 23 36 48 61 71 92 94 103 110 147 165 247 268 277 342 383 420 432 444 476 544 629 638 659 679 709 751 889 924 938 1018 1032 1081 1111 1158 1208 1400 1462 1493 1499 1505 1530 1539 1588 1632 1654 1680 1692 1699 1718 1741 
+motors Gigawatt.txt 2 653 775 
+it Gigawatt.txt 8 35 60 227 658 1451 1461 1600 1740 
+surface Gigawatt.txt 1 714 
+heating Gigawatt.txt 2 691 1378 
+embalse Gigawatt.txt 1 1266 
+506:2 Gigawatt.txt 1 918 
+in Gigawatt.txt 43 28 57 97 201 216 255 292 297 334 398 403 412 437 458 464 490 495 506 517 537 586 602 705 817 883 892 908 914 957 975 1035 1052 1217 1223 1270 1353 1380 1441 1475 1507 1606 1712 1727 
+1.366 Gigawatt.txt 1 1198 
+nanosecond Gigawatt.txt 1 1057 
+same Gigawatt.txt 1 1551 
+largest Gigawatt.txt 1 981 
+units Gigawatt.txt 8 33 238 1350 1410 1442 1508 1575 1619 
+several Gigawatt.txt 1 815 
+events Gigawatt.txt 1 759 
+development Gigawatt.txt 1 178 
+used Gigawatt.txt 11 49 402 463 640 664 940 1028 1300 1538 1700 1711 
+peaks Gigawatt.txt 1 1064 
+ratings Gigawatt.txt 1 1007 
+flows Gigawatt.txt 1 119 
+submarines Gigawatt.txt 1 784 
+levels Gigawatt.txt 2 330 582 
+uses Gigawatt.txt 6 15 571 622 848 1272 1362 
+frequently Gigawatt.txt 1 1490 
+electromagnetism Gigawatt.txt 1 100 
+acoustics Gigawatt.txt 1 410 
+roughly Gigawatt.txt 1 1142 
+analysis Gigawatt.txt 1 59 
+petawatt Gigawatt.txt 3 381 1076 1079 
+english Gigawatt.txt 2 886 899 
+the Gigawatt.txt 110 9 19 29 52 87 104 139 148 163 168 177 180 183 189 193 197 205 218 229 234 244 252 259 274 318 323 356 361 366 370 378 413 421 441 473 501 504 541 600 603 610 626 643 649 667 697 706 730 732 744 748 765 800 844 877 881 884 893 901 915 921 951 969 980 987 1015 1025 1040 1045 1048 1060 1078 1093 1102 1112 1136 1139 1159 1167 1192 1200 1218 1224 1237 1261 1265 1306 1315 1329 1335 1357 1363 1371 1403 1406 1436 1447 1454 1458 1465 1484 1494 1536 1584 1596 1677 1687 1696 1705 1715 
+audio Gigawatt.txt 1 576 
+1.25 Gigawatt.txt 2 1123 1126 
+summer Gigawatt.txt 1 869 
+redirects Gigawatt.txt 1 618 
+less Gigawatt.txt 1 572 
+resistive Gigawatt.txt 1 1415 
+newton Gigawatt.txt 1 86 
+40-watt Gigawatt.txt 1 1558 
+oxford Gigawatt.txt 1 885 
+multiples Gigawatt.txt 1 240 
+generator Gigawatt.txt 1 1243 
+also Gigawatt.txt 5 461 516 660 903 1758 
+residential Gigawatt.txt 1 809 
+point Gigawatt.txt 1 1605 
+advancement Gigawatt.txt 1 198 
+signals Gigawatt.txt 1 577 
+simple Gigawatt.txt 1 1414 
+adoption Gigawatt.txt 1 157 
+lfex Gigawatt.txt 1 1165 
+cruisers Gigawatt.txt 1 782 
+input Gigawatt.txt 3 325 329 363 
+has Gigawatt.txt 1 993 
+capacities Gigawatt.txt 1 870 
+livermores Gigawatt.txt 1 1114 
+five Gigawatt.txt 1 559 
+using Gigawatt.txt 3 138 1574 1618 
+kilowatts Gigawatt.txt 2 596 615 
+usually Gigawatt.txt 1 1434 
+dimensional Gigawatt.txt 1 58 
+signal Gigawatt.txt 1 581 
+56 Gigawatt.txt 1 966 
+server Gigawatt.txt 1 786 
+output Gigawatt.txt 9 644 670 801 833 996 1121 1179 1599 1613 
+eeg Gigawatt.txt 1 502 
+50-watt Gigawatt.txt 1 1565 
+mid-1990s Gigawatt.txt 1 1049 
+worldwide Gigawatt.txt 1 1031 
+often Gigawatt.txt 5 332 584 939 1633 1642 
+grids Gigawatt.txt 1 947 
+people Gigawatt.txt 1 570 
+some Gigawatt.txt 2 792 840 
+114 Gigawatt.txt 1 1669 
+examples Gigawatt.txt 1 65 
+specified Gigawatt.txt 1 327 
+duration Gigawatt.txt 2 1137 1185 
+lightning Gigawatt.txt 1 1062 
+delivered Gigawatt.txt 1 1377 
+scale Gigawatt.txt 1 771 
+describing Gigawatt.txt 1 1393 
+for Gigawatt.txt 35 13 133 173 196 228 304 311 527 569 599 609 620 846 941 948 1056 1073 1098 1161 1183 1263 1301 1366 1376 1413 1467 1517 1533 1560 1567 1582 1638 1664 1671 1701 
+electromagnetic Gigawatt.txt 1 668 
+doel Gigawatt.txt 1 989 
+per Gigawatt.txt 5 45 77 1514 1724 1755 
+terawatt Gigawatt.txt 6 1013 1016 1067 1636 1650 1663 
+1900 Gigawatt.txt 1 894 
+nanowatt Gigawatt.txt 2 439 442 
+refer Gigawatt.txt 1 1745 
+be Gigawatt.txt 6 136 326 375 1090 1326 1616 
+scientific Gigawatt.txt 2 511 793 
+power Gigawatt.txt 47 12 27 209 232 428 563 645 650 669 700 819 832 865 943 946 955 974 991 1006 1027 1051 1120 1178 1202 1220 1226 1239 1258 1268 1369 1379 1385 1390 1431 1437 1450 1456 1486 1492 1525 1570 1577 1598 1609 1623 1659 1737 
+seconds Gigawatt.txt 1 1695 
+watt-hours Gigawatt.txt 1 1482 
+journal Gigawatt.txt 1 916 
+hvdc Gigawatt.txt 1 1000 
+pressure Gigawatt.txt 1 264 
+terawatts Gigawatt.txt 2 1036 1053 
+although Gigawatt.txt 2 839 1714 
+joule Gigawatt.txt 3 44 1688 1717 
+mid-1960s Gigawatt.txt 1 1046 
+by Gigawatt.txt 9 63 188 950 1029 1092 1129 1234 1241 1260 
+oed Gigawatt.txt 2 888 902 
+microvolt Gigawatt.txt 2 344 351 
+on Gigawatt.txt 8 222 720 735 769 822 1101 1191 1532 
+about Gigawatt.txt 6 8 558 710 724 872 1321 
+hidden Gigawatt.txt 1 1768 
+would Gigawatt.txt 2 1555 1615 
+stations Gigawatt.txt 3 1433 1571 1610 
+of Gigawatt.txt 70 11 26 32 42 54 84 99 115 125 152 179 192 199 207 231 237 265 283 365 389 415 426 450 482 510 550 561 646 651 671 702 716 727 767 803 834 880 898 953 972 984 986 997 1008 1096 1104 1122 1138 1153 1169 1180 1186 1197 1203 1309 1438 1443 1457 1527 1553 1576 1620 1652 1661 1674 1683 1708 1732 1734 1736 
+industry Gigawatt.txt 2 1221 1227 
+recognized Gigawatt.txt 1 187 
+horizon Gigawatt.txt 1 1466 
+or Gigawatt.txt 19 349 760 763 788 810 836 931 945 1231 1247 1252 1501 1547 1563 1580 1630 1646 1667 1749 
+heater Gigawatt.txt 1 688 
+referenced Gigawatt.txt 2 337 588 
+instruments Gigawatt.txt 1 514 
+into Gigawatt.txt 2 233 359 
+references Gigawatt.txt 2 298 1762 
+frames Gigawatt.txt 1 1059 
+billionth Gigawatt.txt 1 448 
+fast Gigawatt.txt 1 1162 
+additional Gigawatt.txt 1 130 
+area Gigawatt.txt 1 715 
+transfer Gigawatt.txt 1 56 
+sunlight Gigawatt.txt 2 728 1204 
+start Gigawatt.txt 1 206 
+pa Gigawatt.txt 1 267 
+was Gigawatt.txt 3 186 977 1141 
+osaka Gigawatt.txt 1 1173 
+billion Gigawatt.txt 1 928 
+but Gigawatt.txt 3 1054 1068 1332 
+delivery Gigawatt.txt 1 1660 
+heat Gigawatt.txt 3 821 1281 1383 
+solar Gigawatt.txt 4 525 733 1195 1214 
+impedance Gigawatt.txt 1 364 
+with Gigawatt.txt 7 204 377 689 1005 1355 1523 1738 
+directed Gigawatt.txt 1 1463 
+made Gigawatt.txt 1 1401 
+circuits Gigawatt.txt 1 1416 
+represent Gigawatt.txt 1 1512 
+cells Gigawatt.txt 1 526 
+high-powered Gigawatt.txt 1 825 
+attached Gigawatt.txt 1 1327 
+up Gigawatt.txt 1 1009 
+devices Gigawatt.txt 1 528 
+belgian Gigawatt.txt 1 988 
+clear Gigawatt.txt 1 737 
+ohm Gigawatt.txt 1 146 
+ac Gigawatt.txt 1 1396 
+constant Gigawatt.txt 3 73 81 1215 
+600 Gigawatt.txt 1 1154 
+defined Gigawatt.txt 1 37 
+year Gigawatt.txt 3 1645 1648 1676 
+watches Gigawatt.txt 1 533 
+general Gigawatt.txt 1 220 
+consumed Gigawatt.txt 1 1502 
+as Gigawatt.txt 11 38 158 434 500 530 779 797 1388 1635 1729 1752 
+0.65 Gigawatt.txt 1 270 
+aw Gigawatt.txt 1 246 
+nova Gigawatt.txt 1 1115 
+antenna Gigawatt.txt 1 324 
+variety Gigawatt.txt 1 509 
+whereas Gigawatt.txt 1 564 
+when Gigawatt.txt 7 67 112 429 1392 1419 1460 1519 
+signal-to-noise Gigawatt.txt 1 315 
+other Gigawatt.txt 4 14 579 621 1295 
+5 Gigawatt.txt 3 835 861 1146 
+nw Gigawatt.txt 1 443 
+generates Gigawatt.txt 1 1290 
+congress Gigawatt.txt 1 191 
+symbol Gigawatt.txt 3 21 1331 1337 
+uniformly Gigawatt.txt 1 1473 
+concurrent Gigawatt.txt 1 203 
+generated Gigawatt.txt 1 1500 
+important Gigawatt.txt 4 287 393 453 485 
+peak Gigawatt.txt 2 831 995 
+coverage Gigawatt.txt 1 1470 
+velocity Gigawatt.txt 1 70 
+astronomy Gigawatt.txt 1 417 
+25.8 Gigawatt.txt 1 978 
+building Gigawatt.txt 1 812 
+weights Gigawatt.txt 2 223 1310 
+time Gigawatt.txt 5 1058 1099 1516 1607 1739 
+megawatt Gigawatt.txt 8 746 749 882 906 1228 1245 1249 1365 

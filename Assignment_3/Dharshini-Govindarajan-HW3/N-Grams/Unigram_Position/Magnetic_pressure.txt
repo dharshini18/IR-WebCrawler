@@ -1,0 +1,177 @@
+all Magnetic_pressure.txt 1 362 
+just Magnetic_pressure.txt 1 124 
+magnetic Magnetic_pressure.txt 20 0 3 12 15 20 45 73 78 82 111 137 168 193 267 280 305 315 322 341 364 
+dyn/cm Magnetic_pressure.txt 1 387 
+tensile Magnetic_pressure.txt 2 172 177 
+through Magnetic_pressure.txt 2 99 152 
+follow Magnetic_pressure.txt 1 310 
+kinetic Magnetic_pressure.txt 1 57 
+its Magnetic_pressure.txt 1 215 
+causes Magnetic_pressure.txt 1 67 
+outer Magnetic_pressure.txt 1 245 
+density Magnetic_pressure.txt 1 8 
+distributed Magnetic_pressure.txt 1 255 
+except Magnetic_pressure.txt 1 38 
+to Magnetic_pressure.txt 8 33 71 135 142 184 275 286 303 
+other Magnetic_pressure.txt 1 35 
+molecules Magnetic_pressure.txt 1 61 
+circle Magnetic_pressure.txt 1 162 
+has Magnetic_pressure.txt 1 17 
+plasma Magnetic_pressure.txt 1 278 
+identical Magnetic_pressure.txt 1 32 
+electromagnets Magnetic_pressure.txt 1 204 
+greater Magnetic_pressure.txt 1 119 
+outside Magnetic_pressure.txt 1 125 
+fragment Magnetic_pressure.txt 1 189 
+familiar Magnetic_pressure.txt 1 339 
+rise Magnetic_pressure.txt 1 134 
+dc Magnetic_pressure.txt 1 253 
+projectiles Magnetic_pressure.txt 1 288 
+explosively Magnetic_pressure.txt 1 188 
+force-free Magnetic_pressure.txt 2 331 349 
+categories Magnetic_pressure.txt 2 402 404 
+edit Magnetic_pressure.txt 3 397 399 401 
+h Magnetic_pressure.txt 1 378 
+notes Magnetic_pressure.txt 1 398 
+serves Magnetic_pressure.txt 1 104 
+travels Magnetic_pressure.txt 1 151 
+p Magnetic_pressure.txt 2 371 385 
+t Magnetic_pressure.txt 1 376 
+where Magnetic_pressure.txt 1 219 
+challenge Magnetic_pressure.txt 1 198 
+configurations Magnetic_pressure.txt 1 353 
+because Magnetic_pressure.txt 1 332 
+force Magnetic_pressure.txt 7 69 80 84 139 206 324 337 
+propel Magnetic_pressure.txt 1 287 
+energy Magnetic_pressure.txt 2 7 58 
+observed Magnetic_pressure.txt 1 87 
+internal Magnetic_pressure.txt 1 223 
+see Magnetic_pressure.txt 2 260 395 
+frequency Magnetic_pressure.txt 1 239 
+design Magnetic_pressure.txt 1 201 
+interplay Magnetic_pressure.txt 1 265 
+contains Magnetic_pressure.txt 1 357 
+outward Magnetic_pressure.txt 1 147 
+special Magnetic_pressure.txt 1 345 
+even Magnetic_pressure.txt 2 164 187 
+shapes Magnetic_pressure.txt 1 311 
+wire Magnetic_pressure.txt 6 93 103 145 154 158 181 
+potential Magnetic_pressure.txt 2 340 351 
+for Magnetic_pressure.txt 3 237 252 262 
+space Magnetic_pressure.txt 1 355 
+gradient Magnetic_pressure.txt 4 63 75 129 317 
+0.25 Magnetic_pressure.txt 1 251 
+wikipedia Magnetic_pressure.txt 1 2 
+current Magnetic_pressure.txt 5 97 150 217 233 360 
+contained Magnetic_pressure.txt 1 22 
+tends Magnetic_pressure.txt 1 141 
+boundary Magnetic_pressure.txt 1 25 
+conditions Magnetic_pressure.txt 1 26 
+be Magnetic_pressure.txt 1 284 
+pressure Magnetic_pressure.txt 15 1 4 21 37 74 79 83 138 169 194 268 272 281 316 365 
+operating Magnetic_pressure.txt 1 292 
+cgs Magnetic_pressure.txt 2 208 383 
+configuration Magnetic_pressure.txt 1 328 
+by Magnetic_pressure.txt 9 23 43 55 214 229 243 320 380 391 
+on Magnetic_pressure.txt 2 27 211 
+hidden Magnetic_pressure.txt 1 403 
+carried Magnetic_pressure.txt 2 42 241 
+g Magnetic_pressure.txt 1 390 
+of Magnetic_pressure.txt 12 52 59 92 157 179 192 202 225 232 247 294 347 
+practical Magnetic_pressure.txt 1 393 
+enough Magnetic_pressure.txt 1 149 
+exceeds Magnetic_pressure.txt 1 175 
+or Magnetic_pressure.txt 1 186 
+own Magnetic_pressure.txt 1 216 
+unsupported Magnetic_pressure.txt 1 90 
+conductor Magnetic_pressure.txt 2 249 259 
+references Magnetic_pressure.txt 1 400 
+coil Magnetic_pressure.txt 2 213 227 
+balanced Magnetic_pressure.txt 1 319 
+throughout Magnetic_pressure.txt 1 257 
+between Magnetic_pressure.txt 1 266 
+readily Magnetic_pressure.txt 1 86 
+passes Magnetic_pressure.txt 1 98 
+given Magnetic_pressure.txt 1 367 
+management Magnetic_pressure.txt 1 191 
+0 Magnetic_pressure.txt 1 236 
+stretch Magnetic_pressure.txt 1 143 
+create Magnetic_pressure.txt 1 171 
+there Magnetic_pressure.txt 1 333 
+due Magnetic_pressure.txt 1 70 
+occupy Magnetic_pressure.txt 1 354 
+much Magnetic_pressure.txt 1 118 
+which Magnetic_pressure.txt 1 313 
+exerted Magnetic_pressure.txt 1 210 
+gives Magnetic_pressure.txt 1 133 
+form Magnetic_pressure.txt 1 160 
+that Magnetic_pressure.txt 5 39 109 140 174 356 
+gas Magnetic_pressure.txt 3 54 60 271 
+inductance Magnetic_pressure.txt 2 224 261 
+with Magnetic_pressure.txt 1 10 
+than Magnetic_pressure.txt 2 48 120 
+present Magnetic_pressure.txt 1 300 
+case Magnetic_pressure.txt 2 51 346 
+also Magnetic_pressure.txt 2 283 396 
+b Magnetic_pressure.txt 2 374 388 
+ultrastrong Magnetic_pressure.txt 1 203 
+f Magnetic_pressure.txt 1 209 
+this Magnetic_pressure.txt 2 128 289 
+inside Magnetic_pressure.txt 1 114 
+will Magnetic_pressure.txt 1 159 
+railgun Magnetic_pressure.txt 1 296 
+can Magnetic_pressure.txt 2 170 282 
+distribution Magnetic_pressure.txt 1 231 
+more Magnetic_pressure.txt 1 263 
+called Magnetic_pressure.txt 2 76 330 
+loop Magnetic_pressure.txt 5 91 101 116 127 156 
+are Magnetic_pressure.txt 1 301 
+and Magnetic_pressure.txt 4 250 269 277 381 
+associated Magnetic_pressure.txt 2 9 19 
+defined Magnetic_pressure.txt 1 228 
+m Magnetic_pressure.txt 1 379 
+is Magnetic_pressure.txt 16 5 31 41 85 117 195 218 221 235 273 290 318 329 334 343 366 
+thus Magnetic_pressure.txt 1 190 
+it Magnetic_pressure.txt 3 30 40 183 
+surface Magnetic_pressure.txt 1 246 
+an Magnetic_pressure.txt 5 6 18 89 95 106 
+high Magnetic_pressure.txt 1 238 
+as Magnetic_pressure.txt 1 105 
+lorentz Magnetic_pressure.txt 1 336 
+at Magnetic_pressure.txt 2 163 361 
+in Magnetic_pressure.txt 15 49 64 88 130 199 207 312 368 372 375 377 382 386 389 392 
+any Magnetic_pressure.txt 3 14 34 298 
+currents Magnetic_pressure.txt 4 166 240 254 299 
+physical Magnetic_pressure.txt 1 36 
+information Magnetic_pressure.txt 1 264 
+strength Magnetic_pressure.txt 5 66 113 123 132 178 
+mostly Magnetic_pressure.txt 1 242 
+no Magnetic_pressure.txt 2 335 358 
+rather Magnetic_pressure.txt 1 47 
+pa Magnetic_pressure.txt 1 373 
+field Magnetic_pressure.txt 14 13 16 29 46 65 112 122 131 306 308 327 342 350 352 
+causing Magnetic_pressure.txt 1 182 
+fracture Magnetic_pressure.txt 1 185 
+units Magnetic_pressure.txt 3 370 384 394 
+ordinary Magnetic_pressure.txt 1 270 
+if Magnetic_pressure.txt 3 94 148 297 
+higher Magnetic_pressure.txt 1 165 
+tension Magnetic_pressure.txt 1 323 
+used Magnetic_pressure.txt 1 285 
+electric Magnetic_pressure.txt 2 96 359 
+uniformly Magnetic_pressure.txt 1 146 
+important Magnetic_pressure.txt 1 274 
+significant Magnetic_pressure.txt 1 197 
+such Magnetic_pressure.txt 2 108 325 
+parallel Magnetic_pressure.txt 1 302 
+magnetohydrodynamics Magnetic_pressure.txt 1 276 
+a Magnetic_pressure.txt 13 11 53 62 68 136 161 196 212 295 304 326 344 348 
+stress Magnetic_pressure.txt 1 173 
+electromagnet Magnetic_pressure.txt 1 107 
+lines Magnetic_pressure.txt 1 309 
+si Magnetic_pressure.txt 1 369 
+principle Magnetic_pressure.txt 1 293 
+y Magnetic_pressure.txt 2 220 234 
+the Magnetic_pressure.txt 34 24 28 44 50 56 72 77 81 100 102 110 115 121 126 144 153 155 167 176 180 200 205 222 226 230 244 248 258 291 307 314 321 338 363 
+physics Magnetic_pressure.txt 1 279 
+evenly Magnetic_pressure.txt 1 256 

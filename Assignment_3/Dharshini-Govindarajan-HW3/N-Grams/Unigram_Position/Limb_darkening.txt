@@ -1,0 +1,357 @@
+all Limb_darkening.txt 2 252 834 
+suns Limb_darkening.txt 1 921 
+low-temperature Limb_darkening.txt 1 154 
+consists Limb_darkening.txt 1 644 
+disk Limb_darkening.txt 7 28 67 922 934 1010 1022 1037 
+to Limb_darkening.txt 15 86 169 184 197 262 314 423 543 799 887 895 940 954 982 994 
+does Limb_darkening.txt 1 494 
+limb-darkening Limb_darkening.txt 1 14 
+very Limb_darkening.txt 1 647 
+ultraviolet Limb_darkening.txt 1 654 
+temperature-minimum Limb_darkening.txt 1 558 
+entire Limb_darkening.txt 1 257 
+level Limb_darkening.txt 1 619 
+p Limb_darkening.txt 3 683 750 789 
+small Limb_darkening.txt 2 577 961 
+venus Limb_darkening.txt 1 38 
+upper Limb_darkening.txt 1 47 
+says Limb_darkening.txt 1 1084 
+three-dimensional Limb_darkening.txt 1 596 
+approximation Limb_darkening.txt 2 441 978 
+second Limb_darkening.txt 1 373 
+further Limb_darkening.txt 1 588 
+spectral Limb_darkening.txt 1 504 
+what Limb_darkening.txt 1 220 
+sunspots Limb_darkening.txt 1 629 
+opaque Limb_darkening.txt 1 240 
+sun Limb_darkening.txt 7 8 60 174 529 845 904 1079 
+sum Limb_darkening.txt 2 250 886 
+expressed Limb_darkening.txt 1 854 
+thickness Limb_darkening.txt 1 203 
+above Limb_darkening.txt 2 556 977 
+chromosphere Limb_darkening.txt 1 640 
+replaced Limb_darkening.txt 1 1070 
+increasing Limb_darkening.txt 3 391 499 515 
+can Limb_darkening.txt 6 216 892 936 979 1050 1068 
+body Limb_darkening.txt 1 414 
+here Limb_darkening.txt 2 40 742 
+understanding Limb_darkening.txt 2 79 185 
+i.e Limb_darkening.txt 1 575 
+along Limb_darkening.txt 2 255 790 
+strong Limb_darkening.txt 1 407 
+appears Limb_darkening.txt 1 68 
+convert Limb_darkening.txt 1 937 
+30 Limb_darkening.txt 1 925 
+hydrostatic Limb_darkening.txt 1 614 
+usually Limb_darkening.txt 1 387 
+conveniently Limb_darkening.txt 2 775 870 
+transit Limb_darkening.txt 1 36 
+visible Limb_darkening.txt 2 10 223 
+decrease Limb_darkening.txt 1 497 
+limb Limb_darkening.txt 19 0 24 49 74 109 186 344 371 483 525 539 603 662 665 731 829 850 865 956 
+linearly Limb_darkening.txt 1 282 
+from Limb_darkening.txt 13 121 148 208 393 402 445 591 658 687 705 718 951 1065 
+would Limb_darkening.txt 1 176 
+0 Limb_darkening.txt 5 805 818 836 1038 1041 
+few Limb_darkening.txt 2 180 233 
+therefore Limb_darkening.txt 1 582 
+taken Limb_darkening.txt 1 32 
+more Limb_darkening.txt 1 869 
+becomes Limb_darkening.txt 1 239 
+emission Limb_darkening.txt 1 254 
+everywhere Limb_darkening.txt 1 634 
+particular Limb_darkening.txt 1 272 
+must Limb_darkening.txt 5 330 581 624 820 885 
+this Limb_darkening.txt 11 92 165 218 518 570 622 772 911 1045 1048 1083 
+equation Limb_darkening.txt 2 863 1049 
+thin Limb_darkening.txt 1 574 
+example Limb_darkening.txt 3 416 823 842 
+figure Limb_darkening.txt 1 740 
+solved Limb_darkening.txt 1 1052 
+calculation Limb_darkening.txt 1 660 
+550 Limb_darkening.txt 3 847 906 1081 
+minimum Limb_darkening.txt 1 535 
+darkening Limb_darkening.txt 10 1 50 110 187 604 663 666 830 851 866 
+rather Limb_darkening.txt 2 879 1056 
+divided Limb_darkening.txt 1 1014 
+astronomers Limb_darkening.txt 1 83 
+varies Limb_darkening.txt 1 281 
+fourth Limb_darkening.txt 1 425 
+instead Limb_darkening.txt 1 635 
+may Limb_darkening.txt 1 1043 
+spot Limb_darkening.txt 1 44 
+such Limb_darkening.txt 1 90 
+law Limb_darkening.txt 1 431 
+constants Limb_darkening.txt 2 891 898 
+a Limb_darkening.txt 31 3 17 130 143 162 179 194 210 226 232 309 403 406 412 437 492 512 533 612 646 684 719 764 778 791 825 835 838 890 897 1027 
+effective Limb_darkening.txt 1 380 
+light Limb_darkening.txt 1 11 
+lines Limb_darkening.txt 1 505 
+corona Limb_darkening.txt 2 566 643 
+element Limb_darkening.txt 1 1030 
+so Limb_darkening.txt 1 1072 
+decreasing Limb_darkening.txt 1 388 
+order Limb_darkening.txt 1 811 
+travel Limb_darkening.txt 1 331 
+wavelengths Limb_darkening.txt 3 549 569 655 
+closely Limb_darkening.txt 1 246 
+oblique Limb_darkening.txt 1 334 
+move Limb_darkening.txt 1 364 
+including Limb_darkening.txt 1 58 
+existence Limb_darkening.txt 3 531 593 610 
+its Limb_darkening.txt 1 78 
+1 Limb_darkening.txt 3 213 839 882 
+derive Limb_darkening.txt 1 983 
+outer Limb_darkening.txt 1 112 
+categories Limb_darkening.txt 2 1099 1101 
+derivative Limb_darkening.txt 1 968 
+hidden Limb_darkening.txt 1 1100 
+2012 Limb_darkening.txt 1 35 
+then Limb_darkening.txt 2 286 909 
+greater Limb_darkening.txt 1 476 
+not Limb_darkening.txt 2 168 495 
+now Limb_darkening.txt 1 874 
+edit Limb_darkening.txt 3 104 664 1098 
+always Limb_darkening.txt 1 496 
+l Limb_darkening.txt 2 128 175 
+mean Limb_darkening.txt 2 992 999 
+idea Limb_darkening.txt 1 190 
+related Limb_darkening.txt 1 894 
+our Limb_darkening.txt 1 365 
+approximated Limb_darkening.txt 2 247 776 
+shown Limb_darkening.txt 1 741 
+high-temperature Limb_darkening.txt 1 139 
+space Limb_darkening.txt 1 659 
+since Limb_darkening.txt 2 228 432 
+crucial Limb_darkening.txt 1 183 
+looking Limb_darkening.txt 3 341 462 695 
+dominate Limb_darkening.txt 1 544 
+integrated Limb_darkening.txt 1 419 
+theory Limb_darkening.txt 2 98 103 
+million Limb_darkening.txt 1 563 
+subtended Limb_darkening.txt 1 1019 
+complicated Limb_darkening.txt 1 648 
+e.g Limb_darkening.txt 1 171 
+geometry Limb_darkening.txt 1 667 
+transition Limb_darkening.txt 1 649 
+first Limb_darkening.txt 1 440 
+one Limb_darkening.txt 1 198 
+another Limb_darkening.txt 1 841 
+temperature Limb_darkening.txt 7 381 410 429 467 487 516 534 
+construct Limb_darkening.txt 1 87 
+2 Limb_darkening.txt 3 857 901 1039 
+hundred Limb_darkening.txt 1 181 
+gives Limb_darkening.txt 2 913 1076 
+fraction Limb_darkening.txt 1 211 
+that Limb_darkening.txt 10 160 236 263 378 456 538 812 884 966 1085 
+centered Limb_darkening.txt 1 671 
+brighter Limb_darkening.txt 1 69 
+assumption Limb_darkening.txt 1 623 
+optical Limb_darkening.txt 12 53 135 192 199 234 267 284 298 356 451 507 578 
+than Limb_darkening.txt 3 70 477 880 
+coefficients Limb_darkening.txt 2 878 883 
+distance Limb_darkening.txt 5 131 195 392 685 1064 
+b Limb_darkening.txt 1 158 
+see Limb_darkening.txt 5 313 354 521 859 965 
+r Limb_darkening.txt 2 677 686 
+and Limb_darkening.txt 15 455 471 501 554 580 616 630 641 674 693 727 803 858 1031 1040 
+rewrite Limb_darkening.txt 1 1044 
+have Limb_darkening.txt 5 821 833 910 963 1074 
+seen Limb_darkening.txt 4 39 55 758 787 
+cumbersome Limb_darkening.txt 1 1057 
+these Limb_darkening.txt 1 938 
+angle Limb_darkening.txt 8 335 717 737 769 796 950 1018 1029 
+note Limb_darkening.txt 1 159 
+absorbed Limb_darkening.txt 1 127 
+which Limb_darkening.txt 7 118 133 209 352 449 873 1075 
+formulas Limb_darkening.txt 1 939 
+towards Limb_darkening.txt 2 20 369 
+centre Limb_darkening.txt 2 931 1096 
+incidence Limb_darkening.txt 1 771 
+depths Limb_darkening.txt 1 235 
+most Limb_darkening.txt 3 568 626 774 
+analytically Limb_darkening.txt 1 1053 
+the Limb_darkening.txt 135 7 13 21 26 29 34 42 46 59 62 66 71 76 94 97 111 115 122 134 149 153 173 189 202 205 222 237 241 249 253 256 266 274 279 287 294 306 315 323 326 337 343 348 355 370 372 376 379 383 394 397 399 417 424 428 442 446 450 464 466 472 482 486 489 506 522 528 530 551 557 562 592 598 609 636 639 642 668 678 688 691 700 703 706 711 722 725 728 733 739 746 753 756 760 768 785 800 807 813 844 849 862 889 896 903 917 920 927 930 933 945 949 952 955 958 967 974 976 988 991 995 998 1003 1006 1009 1012 1016 1021 1032 1036 1066 1078 1086 1092 1095 
+average Limb_darkening.txt 1 1087 
+sometimes Limb_darkening.txt 1 868 
+km Limb_darkening.txt 1 182 
+part Limb_darkening.txt 1 64 
+typical Limb_darkening.txt 1 163 
+fact Limb_darkening.txt 2 377 485 
+atmosphere Limb_darkening.txt 4 385 490 553 755 
+phenomenon Limb_darkening.txt 1 523 
+absorbing Limb_darkening.txt 1 206 
+radio Limb_darkening.txt 1 548 
+rough Limb_darkening.txt 1 595 
+find Limb_darkening.txt 1 561 
+ratio Limb_darkening.txt 2 814 989 
+written Limb_darkening.txt 1 871 
+should Limb_darkening.txt 1 541 
+analytic Limb_darkening.txt 1 985 
+only Limb_darkening.txt 4 178 656 766 924 
+black Limb_darkening.txt 1 413 
+over Limb_darkening.txt 2 1008 1035 
+equilibrium Limb_darkening.txt 1 615 
+means Limb_darkening.txt 1 537 
+far-infrared Limb_darkening.txt 1 546 
+cannot Limb_darkening.txt 1 312 
+words Limb_darkening.txt 1 347 
+during Limb_darkening.txt 1 33 
+luminosity Limb_darkening.txt 1 19 
+through Limb_darkening.txt 2 336 721 
+where Limb_darkening.txt 5 61 265 782 947 1023 
+view Limb_darkening.txt 1 709 
+observer Limb_darkening.txt 5 679 712 747 953 1061 
+observed Limb_darkening.txt 1 652 
+intensity Limb_darkening.txt 15 275 295 420 473 757 786 809 915 928 993 997 1000 1007 1088 1093 
+radius Limb_darkening.txt 4 116 350 676 802 
+are Limb_darkening.txt 2 124 1034 
+fail Limb_darkening.txt 1 625 
+best Limb_darkening.txt 1 651 
+encouraged Limb_darkening.txt 1 93 
+wikipedia Limb_darkening.txt 1 2 
+symmetric Limb_darkening.txt 1 587 
+outside Limb_darkening.txt 2 550 752 
+between Limb_darkening.txt 1 638 
+boundary Limb_darkening.txt 2 113 637 
+faculae Limb_darkening.txt 1 631 
+we Limb_darkening.txt 17 303 311 320 353 363 434 479 520 560 819 831 908 935 962 964 1042 1073 
+emitted Limb_darkening.txt 4 120 141 156 401 
+however Limb_darkening.txt 1 1058 
+cos Limb_darkening.txt 2 781 970 
+cox Limb_darkening.txt 1 860 
+region Limb_darkening.txt 5 513 536 559 571 650 
+barely Limb_darkening.txt 1 146 
+equal Limb_darkening.txt 1 196 
+s Limb_darkening.txt 2 698 713 
+expression Limb_darkening.txt 1 986 
+comes Limb_darkening.txt 2 444 590 
+point Limb_darkening.txt 7 264 447 457 682 697 707 749 
+height Limb_darkening.txt 1 500 
+polynomial Limb_darkening.txt 1 779 
+respect Limb_darkening.txt 1 798 
+complication Limb_darkening.txt 1 589 
+described Limb_darkening.txt 1 606 
+radiative Limb_darkening.txt 1 100 
+basic Limb_darkening.txt 1 102 
+direction Limb_darkening.txt 1 761 
+deeper Limb_darkening.txt 1 459 
+offered Limb_darkening.txt 1 80 
+gas Limb_darkening.txt 3 207 339 404 
+precision Limb_darkening.txt 1 621 
+brightening Limb_darkening.txt 2 526 540 
+case Limb_darkening.txt 2 107 519 
+look Limb_darkening.txt 4 304 321 435 480 
+solid Limb_darkening.txt 2 1017 1028 
+n Limb_darkening.txt 4 856 876 881 900 
+will Limb_darkening.txt 7 144 152 291 468 474 762 832 
+near Limb_darkening.txt 2 305 342 
+limb-brightened Limb_darkening.txt 1 584 
+is Limb_darkening.txt 36 51 114 129 137 167 188 201 219 230 245 269 375 386 405 421 453 458 509 572 670 680 694 714 735 751 773 784 806 852 867 948 971 1002 1026 1055 1089 
+it Limb_darkening.txt 2 229 1054 
+surface Limb_darkening.txt 1 701 
+in Limb_darkening.txt 15 9 56 271 278 345 460 484 488 511 517 628 738 759 780 810 
+if Limb_darkening.txt 2 273 585 
+radiation Limb_darkening.txt 5 242 277 288 400 443 
+same Limb_darkening.txt 1 316 
+unity Limb_darkening.txt 8 138 270 301 360 454 510 816 888 
+filtered Limb_darkening.txt 1 4 
+higher Limb_darkening.txt 1 470 
+development Limb_darkening.txt 1 95 
+independent Limb_darkening.txt 1 877 
+used Limb_darkening.txt 1 981 
+kelvin Limb_darkening.txt 1 564 
+effect Limb_darkening.txt 3 15 54 374 
+infinite Limb_darkening.txt 2 972 1063 
+opportunity Limb_darkening.txt 1 85 
+early Limb_darkening.txt 1 81 
+lower Limb_darkening.txt 1 552 
+center Limb_darkening.txt 6 63 324 395 465 689 723 
+i Limb_darkening.txt 3 783 804 1001 
+well Limb_darkening.txt 2 555 853 
+analysis Limb_darkening.txt 1 600 
+obviously Limb_darkening.txt 1 627 
+edge Limb_darkening.txt 7 22 72 224 307 729 918 975 
+model Limb_darkening.txt 1 912 
+drawing Limb_darkening.txt 1 166 
+just Limb_darkening.txt 1 145 
+being Limb_darkening.txt 1 359 
+when Limb_darkening.txt 6 302 319 340 433 461 478 
+spherically Limb_darkening.txt 1 586 
+photons Limb_darkening.txt 4 119 140 155 215 
+except Limb_darkening.txt 1 837 
+has Limb_darkening.txt 3 576 675 875 
+radiator Limb_darkening.txt 1 827 
+showing Limb_darkening.txt 1 12 
+dark Limb_darkening.txt 1 43 
+increases Limb_darkening.txt 1 361 
+using Limb_darkening.txt 1 944 
+d Limb_darkening.txt 1 1024 
+integrals Limb_darkening.txt 1 1033 
+sindd Limb_darkening.txt 1 1025 
+right Limb_darkening.txt 1 48 
+classical Limb_darkening.txt 1 599 
+some Limb_darkening.txt 1 618 
+sight Limb_darkening.txt 4 260 329 368 794 
+escape Limb_darkening.txt 2 147 217 
+scale Limb_darkening.txt 1 170 
+for Limb_darkening.txt 20 132 161 172 389 411 415 502 527 567 817 822 824 843 864 899 902 960 987 1059 1077 
+stefanboltzmann Limb_darkening.txt 1 430 
+be Limb_darkening.txt 11 177 292 469 475 583 763 815 893 980 1051 1069 
+power Limb_darkening.txt 1 426 
+reaching Limb_darkening.txt 2 243 289 
+stellar Limb_darkening.txt 5 338 384 602 754 801 
+although Limb_darkening.txt 1 1047 
+substitution Limb_darkening.txt 1 946 
+by Limb_darkening.txt 6 248 855 943 1015 1020 1071 
+on Limb_darkening.txt 1 699 
+central Limb_darkening.txt 2 808 996 
+of Limb_darkening.txt 54 6 25 37 65 75 96 99 108 191 204 212 225 251 259 276 293 300 308 328 367 382 396 409 427 491 514 524 532 594 601 611 620 645 661 690 702 708 710 724 732 767 770 793 919 923 926 932 942 957 969 990 1005 1011 1091 
+o Limb_darkening.txt 1 673 
+or Limb_darkening.txt 4 23 73 547 730 
+80.5 Limb_darkening.txt 1 1090 
+image Limb_darkening.txt 3 5 30 77 
+integral Limb_darkening.txt 1 1004 
+because Limb_darkening.txt 1 325 
+references Limb_darkening.txt 1 1097 
+proportional Limb_darkening.txt 1 422 
+transfer Limb_darkening.txt 1 101 
+long Limb_darkening.txt 1 744 
+start Limb_darkening.txt 1 542 
+detectable Limb_darkening.txt 1 657 
+stars Limb_darkening.txt 1 57 
+was Limb_darkening.txt 1 31 
+assumes Limb_darkening.txt 1 608 
+function Limb_darkening.txt 2 408 765 
+forming Limb_darkening.txt 1 795 
+but Limb_darkening.txt 1 632 
+idealized Limb_darkening.txt 1 106 
+solar Limb_darkening.txt 3 27 82 565 
+line Limb_darkening.txt 5 258 327 366 720 792 
+with Limb_darkening.txt 4 89 283 498 797 
+smooth Limb_darkening.txt 1 613 
+up Limb_darkening.txt 1 261 
+us Limb_darkening.txt 2 244 290 
+below Limb_darkening.txt 1 607 
+certain Limb_darkening.txt 1 503 
+an Limb_darkening.txt 10 52 84 105 297 333 390 716 914 984 1060 
+as Limb_darkening.txt 13 16 41 151 318 358 362 605 743 745 777 840 872 1046 
+at Limb_darkening.txt 32 45 117 142 157 231 296 322 332 351 436 439 448 463 481 545 617 653 672 681 696 715 736 748 788 846 905 916 929 973 1062 1080 1094 
+gradients Limb_darkening.txt 1 91 
+defines Limb_darkening.txt 1 221 
+functions Limb_darkening.txt 1 941 
+nm Limb_darkening.txt 3 848 907 1082 
+no Limb_darkening.txt 2 125 828 
+generally Limb_darkening.txt 1 633 
+depth Limb_darkening.txt 11 136 193 200 268 285 299 317 357 452 508 579 
+other Limb_darkening.txt 1 346 
+dimmer Limb_darkening.txt 1 18 
+optically Limb_darkening.txt 1 573 
+star Limb_darkening.txt 19 123 150 164 227 238 280 310 349 398 438 493 669 692 704 726 734 959 1013 1067 
+models Limb_darkening.txt 1 88 
+spectrally Limb_darkening.txt 1 418 
+lambertian Limb_darkening.txt 1 826 
+structure Limb_darkening.txt 1 597 
+e Limb_darkening.txt 1 214 
+longer Limb_darkening.txt 1 126 
+2000 Limb_darkening.txt 1 861 

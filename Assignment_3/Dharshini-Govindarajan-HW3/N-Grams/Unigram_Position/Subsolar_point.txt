@@ -1,0 +1,118 @@
+september Subsolar_point.txt 1 180 
+suns Subsolar_point.txt 1 56 
+over Subsolar_point.txt 1 132 
+move Subsolar_point.txt 2 106 125 
+course Subsolar_point.txt 1 134 
+through Subsolar_point.txt 1 194 
+circling Subsolar_point.txt 1 108 
+earth Subsolar_point.txt 1 100 
+lahaina Subsolar_point.txt 1 208 
+its Subsolar_point.txt 2 42 65 
+ground Subsolar_point.txt 1 25 
+to Subsolar_point.txt 4 46 64 74 98 
+only Subsolar_point.txt 1 197 
+location Subsolar_point.txt 1 8 
+tropics Subsolar_point.txt 1 131 
+latitude Subsolar_point.txt 1 120 
+tropic Subsolar_point.txt 2 156 174 
+circle Subsolar_point.txt 1 118 
+local Subsolar_point.txt 1 24 
+march Subsolar_point.txt 1 178 
+showing Subsolar_point.txt 1 6 
+not Subsolar_point.txt 1 87 
+rotation Subsolar_point.txt 1 96 
+day Subsolar_point.txt 1 113 
+categories Subsolar_point.txt 2 215 217 
+perceived Subsolar_point.txt 1 45 
+like Subsolar_point.txt 1 142 
+level Subsolar_point.txt 1 26 
+capricorn Subsolar_point.txt 1 158 
+hawaii Subsolar_point.txt 1 195 
+edit Subsolar_point.txt 2 211 214 
+where Subsolar_point.txt 2 41 54 
+mean Subsolar_point.txt 1 70 
+globe Subsolar_point.txt 1 110 
+are Subsolar_point.txt 1 58 
+year Subsolar_point.txt 1 137 
+even Subsolar_point.txt 1 82 
+planet Subsolar_point.txt 2 39 61 
+for Subsolar_point.txt 1 90 
+space Subsolar_point.txt 1 81 
+sun Subsolar_point.txt 4 21 43 76 85 
+noon Subsolar_point.txt 1 209 
+wikipedia Subsolar_point.txt 1 2 
+subsolar Subsolar_point.txt 8 0 11 32 35 103 151 169 185 
+state Subsolar_point.txt 1 199 
+between Subsolar_point.txt 2 19 129 
+occurs Subsolar_point.txt 1 148 
+be Subsolar_point.txt 2 47 88 
+passes Subsolar_point.txt 1 193 
+perpendicular Subsolar_point.txt 1 63 
+however Subsolar_point.txt 1 121 
+along Subsolar_point.txt 1 116 
+on Subsolar_point.txt 5 13 37 77 154 172 
+instant Subsolar_point.txt 1 166 
+of Subsolar_point.txt 5 9 119 135 157 175 
+s Subsolar_point.txt 1 101 
+south Subsolar_point.txt 1 128 
+solstice Subsolar_point.txt 2 147 162 
+cancer Subsolar_point.txt 1 176 
+point Subsolar_point.txt 10 1 12 33 36 72 104 152 170 186 192 
+visible Subsolar_point.txt 1 89 
+references Subsolar_point.txt 1 210 
+directly Subsolar_point.txt 1 48 
+earths Subsolar_point.txt 1 15 
+links Subsolar_point.txt 1 213 
+approximately Subsolar_point.txt 1 114 
+hitting Subsolar_point.txt 1 59 
+overhead Subsolar_point.txt 1 49 
+basic Subsolar_point.txt 1 4 
+helix Subsolar_point.txt 1 144 
+north Subsolar_point.txt 1 126 
+that Subsolar_point.txt 1 52 
+exactly Subsolar_point.txt 2 28 62 
+external Subsolar_point.txt 1 212 
+known Subsolar_point.txt 1 206 
+90 Subsolar_point.txt 1 29 
+westward Subsolar_point.txt 1 107 
+with Subsolar_point.txt 1 92 
+hidden Subsolar_point.txt 1 216 
+crosses Subsolar_point.txt 1 187 
+this Subsolar_point.txt 1 202 
+might Subsolar_point.txt 1 86 
+when Subsolar_point.txt 4 149 167 183 190 
+will Subsolar_point.txt 2 105 123 
+can Subsolar_point.txt 1 68 
+similar Subsolar_point.txt 1 97 
+and Subsolar_point.txt 5 22 95 127 159 179 
+orientation Subsolar_point.txt 1 94 
+zenith Subsolar_point.txt 1 51 
+equator Subsolar_point.txt 1 189 
+december Subsolar_point.txt 1 146 
+is Subsolar_point.txt 9 27 40 44 53 140 153 163 171 205 
+it Subsolar_point.txt 4 67 122 139 204 
+surface Subsolar_point.txt 2 16 66 
+an Subsolar_point.txt 2 78 93 
+as Subsolar_point.txt 1 207 
+at Subsolar_point.txt 2 30 164 
+planets Subsolar_point.txt 1 91 
+in Subsolar_point.txt 3 50 80 200 
+occur Subsolar_point.txt 1 182 
+rays Subsolar_point.txt 1 57 
+angle Subsolar_point.txt 1 18 
+spiraling Subsolar_point.txt 1 141 
+also Subsolar_point.txt 2 69 124 
+which Subsolar_point.txt 1 201 
+happens Subsolar_point.txt 1 203 
+closest Subsolar_point.txt 1 73 
+though Subsolar_point.txt 1 83 
+object Subsolar_point.txt 1 79 
+june Subsolar_point.txt 1 161 
+diagram Subsolar_point.txt 1 5 
+u.s Subsolar_point.txt 1 198 
+moving Subsolar_point.txt 1 115 
+a Subsolar_point.txt 6 3 38 112 117 136 143 
+so Subsolar_point.txt 1 138 
+the Subsolar_point.txt 30 7 10 14 17 20 23 31 34 55 60 71 75 84 99 102 109 130 133 145 150 155 160 165 168 173 177 184 188 191 196 
+equinoxes Subsolar_point.txt 1 181 
+once Subsolar_point.txt 1 111 

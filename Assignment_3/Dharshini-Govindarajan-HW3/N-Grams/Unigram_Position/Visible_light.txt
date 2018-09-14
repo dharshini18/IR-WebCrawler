@@ -1,0 +1,1400 @@
+magnetic Visible_light.txt 6 92 531 4257 4295 4337 4450 
+bioluminescence Visible_light.txt 2 285 2048 
+yellow Visible_light.txt 1 1974 
+four Visible_light.txt 2 2830 2848 
+francesco Visible_light.txt 1 3544 
+consists Visible_light.txt 3 601 2182 3903 
+calculate Visible_light.txt 1 1194 
+electricity Visible_light.txt 1 4435 
+harvardsmithsonian Visible_light.txt 1 1354 
+10,340 Visible_light.txt 1 1705 
+under Visible_light.txt 2 859 2609 
+sway Visible_light.txt 1 3616 
+aurora Visible_light.txt 1 1440 
+experimentally Visible_light.txt 2 349 4464 
+disturb Visible_light.txt 1 2063 
+frozen Visible_light.txt 1 4241 
+indices Visible_light.txt 1 1540 
+186,282 Visible_light.txt 1 927 
+force Visible_light.txt 5 2500 2750 2763 2781 4427 
+campfires Visible_light.txt 1 254 
+bacon Visible_light.txt 1 3305 
+pulse Visible_light.txt 2 1397 3785 
+second Visible_light.txt 4 329 930 1395 1532 
+7th Visible_light.txt 1 3239 
+qualitatively Visible_light.txt 1 3724 
+air Visible_light.txt 4 1475 2833 3030 3176 
+blue Visible_light.txt 1 63 
+established Visible_light.txt 1 3670 
+hide Visible_light.txt 1 300 
+lights Visible_light.txt 2 264 3811 
+hellenism Visible_light.txt 1 2817 
+above Visible_light.txt 2 88 747 
+chromosphere Visible_light.txt 1 1694 
+new Visible_light.txt 1 4852 
+never Visible_light.txt 1 4801 
+here Visible_light.txt 2 9 34 
+atoms Visible_light.txt 7 580 1383 1918 3013 3165 3192 3211 
+reported Visible_light.txt 1 4843 
+self-propagating Visible_light.txt 1 4380 
+active Visible_light.txt 1 2568 
+path Visible_light.txt 2 1121 2430 
+substance Visible_light.txt 2 1554 4127 
+study Visible_light.txt 4 490 1415 1431 4372 
+changes Visible_light.txt 2 627 1579 
+blackbody Visible_light.txt 1 1793 
+diameter Visible_light.txt 2 1050 1069 
+micrographia Visible_light.txt 1 3803 
+straw Visible_light.txt 1 1462 
+explained Visible_light.txt 10 2445 3376 3679 3725 3751 3955 3990 4011 4084 4653 
+plenum Visible_light.txt 1 3474 
+visible Visible_light.txt 31 4 6 29 66 124 129 133 146 308 338 374 396 508 544 598 642 751 838 843 1711 1733 1749 1787 1843 2001 2031 2037 2283 2309 4482 4811 
+linearly Visible_light.txt 2 4237 4283 
+would Visible_light.txt 9 1075 1152 2523 2602 2686 3648 4116 4155 4383 
+discrepancies Visible_light.txt 1 1031 
+noting Visible_light.txt 1 1030 
+call Visible_light.txt 1 2800 
+therefore Visible_light.txt 2 2297 2328 
+strike Visible_light.txt 1 2453 
+type Visible_light.txt 2 3243 4739 
+until Visible_light.txt 1 1233 
+separated Visible_light.txt 1 65 
+whatsoever Visible_light.txt 1 4102 
+hole Visible_light.txt 1 3656 
+hold Visible_light.txt 1 3615 
+word Visible_light.txt 2 120 4600 
+work Visible_light.txt 4 3460 3802 4050 4366 
+theories Visible_light.txt 3 2808 3051 3091 
+example Visible_light.txt 9 287 1296 1456 1735 1966 2050 2118 2212 2493 
+555 Visible_light.txt 1 2295 
+india Visible_light.txt 2 3073 3076 
+involve Visible_light.txt 1 4858 
+end Visible_light.txt 2 611 639 
+travel Visible_light.txt 3 4156 4292 4384 
+how Visible_light.txt 6 742 2260 2334 2362 2955 4602 
+hot Visible_light.txt 3 1863 1866 1962 
+boats Visible_light.txt 1 2058 
+ordinary Visible_light.txt 1 1288 
+description Visible_light.txt 2 1364 4443 
+earlier Visible_light.txt 1 2997 
+confirmed Visible_light.txt 1 4461 
+law Visible_light.txt 1 1504 
+types Visible_light.txt 4 343 392 694 2277 
+effective Visible_light.txt 1 1279 
+blue-white Visible_light.txt 2 1834 1867 
+greek Visible_light.txt 1 2998 
+18th Visible_light.txt 1 3619 
+green Visible_light.txt 1 206 
+680 Visible_light.txt 1 850 
+interpretation Visible_light.txt 1 2625 
+youngs Visible_light.txt 1 3896 
+digest Visible_light.txt 1 226 
+dharmakirti Visible_light.txt 1 3236 
+better Visible_light.txt 1 2331 
+differently Visible_light.txt 1 2280 
+400 Visible_light.txt 1 775 
+hidden Visible_light.txt 1 4877 
+then Visible_light.txt 5 1136 1384 1827 2872 2966 
+them Visible_light.txt 4 227 2111 2937 2968 
+affected Visible_light.txt 2 892 3869 
+weakness Visible_light.txt 1 4104 
+school Visible_light.txt 2 3098 3142 
+diodes Visible_light.txt 1 1943 
+band Visible_light.txt 1 1904 
+effects Visible_light.txt 2 739 4540 
+they Visible_light.txt 7 2075 2256 2344 3016 3129 3265 3876 
+schools Visible_light.txt 1 3079 
+represents Visible_light.txt 1 430 
+brightness Visible_light.txt 1 2206 
+classified Visible_light.txt 1 536 
+each Visible_light.txt 3 1934 3916 4261 
+lasting Visible_light.txt 1 663 
+development Visible_light.txt 3 261 4502 4866 
+snakes Visible_light.txt 1 706 
+series Visible_light.txt 1 3855 
+arrives Visible_light.txt 1 465 
+laboratory Visible_light.txt 2 861 4473 
+faradays Visible_light.txt 1 4365 
+quantify Visible_light.txt 1 2214 
+particles Visible_light.txt 8 415 1767 2015 2114 3194 3490 4673 4743 
+perception Visible_light.txt 1 2207 
+earths Visible_light.txt 1 1072 
+free Visible_light.txt 1 1992 
+witelo Visible_light.txt 1 3298 
+detecting Visible_light.txt 1 4468 
+telescopes Visible_light.txt 1 1649 
+created Visible_light.txt 1 3736 
+oppose Visible_light.txt 1 2687 
+arrived Visible_light.txt 1 3338 
+speeds Visible_light.txt 1 3357 
+atomists Visible_light.txt 1 2999 
+primary Visible_light.txt 1 305 
+another Visible_light.txt 8 242 1083 1498 1567 1734 3966 4698 4746 
+electronic Visible_light.txt 1 620 
+needed Visible_light.txt 1 4537 
+hypothetical Visible_light.txt 1 4126 
+gilbert Visible_light.txt 1 4666 
+danish Visible_light.txt 1 1011 
+wave-like Visible_light.txt 1 477 
+collapse Visible_light.txt 1 474 
+albert Visible_light.txt 2 1221 4606 
+took Visible_light.txt 1 1253 
+photomorphogenesis Visible_light.txt 1 903 
+distance Visible_light.txt 1 1174 
+showed Visible_light.txt 3 3747 3929 4634 
+matter Visible_light.txt 4 1289 1424 2691 3492 
+flame Visible_light.txt 2 1885 1971 
+aether Visible_light.txt 2 3559 4129 
+historical Visible_light.txt 1 2807 
+posthumously Visible_light.txt 1 3452 
+sees Visible_light.txt 2 2957 4725 
+disambiguation Visible_light.txt 2 27 31 
+modern Visible_light.txt 6 256 502 3425 4504 4677 4723 
+torque Visible_light.txt 1 2655 
+spectrum Visible_light.txt 15 118 130 317 506 513 515 644 896 1679 1716 1788 1794 1847 1932 2284 
+raw Visible_light.txt 2 2342 2347 
+seen Visible_light.txt 7 15 1856 1873 1879 1911 4519 4639 
+contents Visible_light.txt 1 504 
+relatively Visible_light.txt 1 1806 
+responsible Visible_light.txt 1 140 
+causing Visible_light.txt 1 619 
+absorbed Visible_light.txt 5 409 417 419 443 763 
+forces Visible_light.txt 2 2705 2777 
+even Visible_light.txt 2 4354 4541 
+though Visible_light.txt 1 2656 
+counteracts Visible_light.txt 1 2783 
+object Visible_light.txt 1 2507 
+glow Visible_light.txt 1 1826 
+observation Visible_light.txt 2 1429 3804 
+calculated Visible_light.txt 2 1040 1077 
+metal Visible_light.txt 1 1858 
+reputation Visible_light.txt 1 3607 
+nineteenth Visible_light.txt 1 4143 
+came Visible_light.txt 1 4682 
+insects Visible_light.txt 1 817 
+lewis Visible_light.txt 1 4668 
+infrared Visible_light.txt 11 170 542 650 696 703 728 866 1755 1780 1799 2412 
+colors Visible_light.txt 1 3779 
+radio Visible_light.txt 5 385 540 4469 4505 4765 
+subtle Visible_light.txt 1 3106 
+summarised Visible_light.txt 1 2228 
+just Visible_light.txt 1 2879 
+one-milliwatt Visible_light.txt 1 2495 
+explain Visible_light.txt 6 3531 3574 3775 4539 4563 4615 
+do Visible_light.txt 2 811 2311 
+colorful Visible_light.txt 1 2136 
+agni Visible_light.txt 1 3174 
+perceive Visible_light.txt 2 548 878 
+preferred Visible_light.txt 1 3466 
+yielded Visible_light.txt 1 1272 
+photoelectric Visible_light.txt 1 4617 
+despite Visible_light.txt 1 3045 
+chronological Visible_light.txt 1 2812 
+fields Visible_light.txt 2 534 4451 
+w/m Visible_light.txt 1 2307 
+emr Visible_light.txt 7 347 523 559 576 595 645 730 
+release Visible_light.txt 1 219 
+respond Visible_light.txt 2 2279 2409 
+traverse Visible_light.txt 1 1048 
+observed Visible_light.txt 2 1019 3542 
+depends Visible_light.txt 3 560 585 707 
+result Visible_light.txt 4 2634 2945 4206 4419 
+best Visible_light.txt 1 2364 
+said Visible_light.txt 1 1316 
+away Visible_light.txt 1 1112 
+wikipedia Visible_light.txt 1 1 
+artificial Visible_light.txt 1 2137 
+360 Visible_light.txt 2 768 795 
+discovery Visible_light.txt 1 4849 
+we Visible_light.txt 2 547 2798 
+terms Visible_light.txt 2 953 3959 
+nature Visible_light.txt 6 337 480 1448 2449 3041 3509 
+however Visible_light.txt 6 401 1055 1361 2531 2721 3530 
+380 Visible_light.txt 1 855 
+very-high-energy Visible_light.txt 1 2154 
+enters Visible_light.txt 1 1472 
+clues Visible_light.txt 1 1444 
+suggested Visible_light.txt 3 3809 4567 4620 
+irregular Visible_light.txt 1 2586 
+triggers Visible_light.txt 1 681 
+compton Visible_light.txt 3 4633 4649 4772 
+heating Visible_light.txt 1 738 
+against Visible_light.txt 2 2662 3506 
+cog Visible_light.txt 1 1115 
+argue Visible_light.txt 1 3629 
+lenses Visible_light.txt 3 814 1625 1645 
+2nd Visible_light.txt 1 3060 
+concluding Visible_light.txt 1 3371 
+ether Visible_light.txt 3 3156 3864 4364 
+asks Visible_light.txt 1 2954 
+three Visible_light.txt 1 2276 
+been Visible_light.txt 3 250 3541 3678 
+much Visible_light.txt 2 830 4603 
+basic Visible_light.txt 1 3164 
+nanometres Visible_light.txt 1 159 
+location Visible_light.txt 2 457 460 
+efficacy Visible_light.txt 1 2354 
+quantities Visible_light.txt 1 2242 
+locations Visible_light.txt 1 412 
+lift Visible_light.txt 1 2513 
+worked Visible_light.txt 2 3824 4025 
+spin Visible_light.txt 1 2581 
+n Visible_light.txt 5 1535 1537 1543 1549 4667 
+near Visible_light.txt 1 533 
+1672 Visible_light.txt 1 3807 
+property Visible_light.txt 2 3286 3406 
+ix Visible_light.txt 1 3805 
+seven Visible_light.txt 1 3220 
+is Visible_light.txt 75 89 108 127 132 139 148 198 330 348 408 425 440 461 467 469 483 496 535 741 762 890 919 949 1290 1303 1425 1482 1500 1506 1520 1590 1617 1626 1687 1732 1736 1763 1795 1859 1870 1890 1909 2046 2099 2116 2121 2150 2172 2209 2389 2460 2487 2546 2566 2607 2626 2632 2664 2718 2724 2736 2758 2943 2981 3100 3121 3247 3386 3402 3419 3651 3686 4286 4704 4752 
+it Visible_light.txt 18 298 593 746 761 1127 1252 1326 1401 1404 1471 1499 2723 3126 3643 3647 3836 3872 4035 
+cone Visible_light.txt 1 2268 
+io Visible_light.txt 1 1029 
+in Visible_light.txt 154 78 154 213 323 357 360 377 501 596 628 668 670 675 705 715 724 731 782 801 829 916 939 952 970 992 1013 1032 1094 1099 1119 1157 1219 1236 1242 1267 1283 1293 1301 1308 1346 1359 1369 1378 1516 1530 1545 1551 1601 1604 1607 1632 1709 1719 1761 1768 1778 1785 1796 1875 1882 1891 1912 1930 1941 1968 1982 2026 2041 2123 2229 2254 2270 2371 2428 2532 2563 2605 2648 2677 2725 2805 2811 2818 2856 2905 2912 2925 2985 3023 3031 3068 3074 3231 3237 3309 3327 3332 3361 3370 3382 3453 3477 3496 3525 3557 3601 3644 3697 3734 3745 3797 3799 3806 3832 3837 3842 3850 3858 3958 3963 3977 3995 4041 4056 4133 4140 4158 4203 4223 4242 4272 4298 4323 4342 4355 4420 4422 4428 4471 4513 4527 4557 4582 4604 4629 4664 4687 4697 4761 4771 4818 4824 4839 4864 
+interacts Visible_light.txt 1 577 
+if Visible_light.txt 9 1064 1585 2715 2722 2868 2961 2971 4016 4093 
+containing Visible_light.txt 1 1287 
+1817 Visible_light.txt 1 4042 
+1810 Visible_light.txt 1 3735 
+1812 Visible_light.txt 1 3746 
+things Visible_light.txt 3 224 240 2043 
+make Visible_light.txt 2 1256 4195 
+cumulative Visible_light.txt 1 2287 
+clearly Visible_light.txt 1 3398 
+incorrectly Visible_light.txt 2 3322 3577 
+several Visible_light.txt 1 1110 
+wheel Visible_light.txt 3 1116 1159 1184 
+independent Visible_light.txt 1 1311 
+peaks Visible_light.txt 3 101 1708 2289 
+high-frequency Visible_light.txt 1 4348 
+hand Visible_light.txt 1 3139 
+opticks Visible_light.txt 1 3603 
+thz Visible_light.txt 1 190 
+ocean Visible_light.txt 1 4720 
+contact Visible_light.txt 1 1644 
+qualities Visible_light.txt 1 4805 
+the Visible_light.txt 336 36 55 60 79 83 90 100 105 116 119 128 135 142 155 169 175 191 199 203 214 222 235 260 304 333 362 402 406 413 418 422 431 447 450 463 471 486 489 524 543 556 587 597 609 613 629 634 637 641 671 676 682 727 748 765 771 777 783 786 791 831 894 912 931 935 944 947 955 978 988 993 1001 1020 1033 1049 1068 1071 1088 1120 1123 1130 1133 1150 1158 1161 1165 1169 1173 1176 1178 1183 1186 1195 1227 1250 1269 1278 1297 1332 1341 1350 1353 1362 1379 1399 1414 1419 1428 1439 1447 1461 1483 1507 1510 1513 1517 1521 1524 1527 1531 1539 1561 1574 1577 1581 1586 1597 1599 1608 1611 1621 1636 1689 1693 1696 1710 1714 1730 1752 1764 1779 1786 1789 1792 1797 1813 1816 1837 1842 1846 1850 1877 1931 1961 2022 2146 2221 2230 2243 2261 2267 2271 2282 2286 2304 2317 2376 2392 2447 2463 2466 2472 2478 2482 2506 2541 2590 2595 2612 2615 2628 2633 2645 2650 2680 2688 2702 2704 2710 2716 2733 2739 2745 2748 2755 2762 2768 2772 2775 2784 2787 2793 2796 2819 2842 2847 2854 2857 2863 2877 2884 2894 2903 2916 2931 2944 2950 2958 2972 2975 2994 3002 3006 3027 3032 3036 3040 3043 3064 3077 3086 3096 3103 3113 3116 3137 3140 3148 3152 3163 3193 3203 3206 3209 3212 3219 3223 3225 3232 3238 3288 3292 3302 3316 3345 3355 3378 3388 3392 3408 3412 3422 3454 3473 3507 3532 3535 3558 3567 3588 3595 3609 3618 3621 3672 3698 3712 3721 3729 3761 3766 3769 3776 3789 3817 3862 3899 3906 3964 3969 4005 4013 4037 4059 4069 4086 4103 4106 4122 4125 4141 4146 4163 4171 4176 4192 4208 4212 4224 4246 4265 4278 4289 4294 4299 4314 4356 4363 4397 4445 4472 4501 4514 4524 4528 4533 4609 4616 4636 4676 4762 4768 4809 4845 4848 4865 
+800 Visible_light.txt 1 857 
+tienne-louis Visible_light.txt 1 3732 
+proposed Visible_light.txt 5 3443 3845 3943 4130 4341 
+newton Visible_light.txt 3 3457 3593 3727 
+rotated Visible_light.txt 1 4287 
+gravity Visible_light.txt 1 3871 
+re-emitted Visible_light.txt 1 1385 
+human Visible_light.txt 11 17 136 677 787 1810 2205 2219 2262 2272 2393 2843 
+grimaldi Visible_light.txt 1 3545 
+scattering Visible_light.txt 2 4650 4773 
+spectacles Visible_light.txt 1 1643 
+infinitely Visible_light.txt 1 2978 
+regarded Visible_light.txt 1 3420 
+had Visible_light.txt 5 1066 1402 1405 3540 4625 
+transformed Visible_light.txt 1 441 
+1816 Visible_light.txt 1 3996 
+has Visible_light.txt 3 249 270 3677 
+gave Visible_light.txt 1 3999 
+possible Visible_light.txt 1 2867 
+tanmatra Visible_light.txt 1 3108 
+55 Visible_light.txt 1 2986 
+arbitrary Visible_light.txt 1 1388 
+cathodoluminescence Visible_light.txt 1 2115 
+right Visible_light.txt 1 3025 
+ole Visible_light.txt 1 1008 
+people Visible_light.txt 1 863 
+dignga Visible_light.txt 1 3230 
+fresnel Visible_light.txt 3 4001 4023 4072 
+jupiter Visible_light.txt 1 1023 
+escape Visible_light.txt 1 3641 
+augustin-jean Visible_light.txt 1 4000 
+christiaan Visible_light.txt 2 3821 3884 
+dense Visible_light.txt 1 3335 
+for Visible_light.txt 27 10 22 35 141 247 286 1295 1344 1356 1805 1965 2049 2211 2218 2224 2358 2368 2489 2492 2659 2952 3674 3720 4120 4601 4764 4844 
+flux Visible_light.txt 1 93 
+electromagnetic Visible_light.txt 18 20 109 117 345 368 505 512 514 962 1715 4227 4231 4349 4373 4381 4413 4508 4778 
+opposite Visible_light.txt 1 4172 
+microwave Visible_light.txt 2 541 1987 
+everything Visible_light.txt 1 2826 
+420 Visible_light.txt 1 848 
+425 Visible_light.txt 1 1906 
+microwaves Visible_light.txt 1 383 
+night Visible_light.txt 2 2878 2970 
+oscillating Visible_light.txt 1 4248 
+conformation Visible_light.txt 1 669 
+6,000 Visible_light.txt 1 1700 
+lamps Visible_light.txt 4 258 1946 1950 1955 
+emits Visible_light.txt 2 1676 1972 
+299,796,000 Visible_light.txt 1 1276 
+spaceships Visible_light.txt 1 2604 
+mathematical Visible_light.txt 5 3738 3827 4049 4078 4442 
+raised Visible_light.txt 1 723 
+presence Visible_light.txt 1 4300 
+maxwell Visible_light.txt 4 4370 4377 4405 4532 
+tejas Visible_light.txt 2 3190 3210 
+rendering Visible_light.txt 1 4235 
+beings Visible_light.txt 1 1811 
+rubidium Visible_light.txt 1 1334 
+refined Visible_light.txt 1 1239 
+methods Visible_light.txt 2 1241 4079 
+sunlight Visible_light.txt 5 201 1480 1688 1726 3217 
+physicists Visible_light.txt 3 973 1314 4774 
+fraction Visible_light.txt 1 1784 
+astrophysics Visible_light.txt 1 1357 
+was Visible_light.txt 32 1005 1058 1092 1117 1191 2618 2827 3283 3352 3359 3450 3486 3512 3591 3719 3763 3848 3873 3972 4073 4095 4109 4135 4190 4200 4216 4313 4319 4346 4409 4536 4571 
+medium Visible_light.txt 14 1519 1533 1568 2019 2028 3330 3336 3414 3586 3860 3883 4119 4161 4360 
+form Visible_light.txt 5 80 215 4332 4411 4853 
+offer Visible_light.txt 1 1442 
+radiometry Visible_light.txt 3 2170 2181 2236 
+attempted Visible_light.txt 2 975 985 
+back Visible_light.txt 3 1171 2746 2769 
+wireless Visible_light.txt 1 4511 
+heat Visible_light.txt 1 3004 
+solar Visible_light.txt 2 37 2599 
+true Visible_light.txt 1 2871 
+devices Visible_light.txt 1 2405 
+emit Visible_light.txt 4 1741 1773 1919 2089 
+3.3 Visible_light.txt 1 2503 
+black-body Visible_light.txt 1 1681 
+evidence Visible_light.txt 1 4316 
+held Visible_light.txt 1 3280 
+trip Visible_light.txt 1 1259 
+physical Visible_light.txt 6 2252 2424 2561 3149 3426 4424 
+nm Visible_light.txt 7 160 796 858 872 887 1907 2296 
+polarisation Visible_light.txt 2 4081 4281 
+chemoluminescence Visible_light.txt 1 2040 
+reality Visible_light.txt 1 3251 
+holly Visible_light.txt 1 4632 
+picture Visible_light.txt 1 4684 
+convincing Visible_light.txt 1 4054 
+buddhists Visible_light.txt 1 3227 
+discharge Visible_light.txt 1 1945 
+billion Visible_light.txt 1 2527 
+faster Visible_light.txt 4 2020 2582 3326 4157 
+1800 Visible_light.txt 1 3924 
+packets Visible_light.txt 2 718 4522 
+teeth Visible_light.txt 1 1181 
+laws Visible_light.txt 1 2932 
+concept Visible_light.txt 1 2147 
+phosphorescence Visible_light.txt 1 2102 
+leads Visible_light.txt 1 625 
+bremsstrahlung Visible_light.txt 1 2008 
+finally Visible_light.txt 2 1832 4217 
+three-coloured Visible_light.txt 1 3961 
+indoor Visible_light.txt 1 2372 
+broadly Visible_light.txt 1 853 
+orthogonal Visible_light.txt 1 1592 
+frequencies Visible_light.txt 4 565 571 4790 4799 
+michelsonmorley Visible_light.txt 1 4147 
+refractive Visible_light.txt 1 1622 
+minute Visible_light.txt 1 3012 
+cool Visible_light.txt 1 1807 
+perceived Visible_light.txt 1 2390 
+1704 Visible_light.txt 1 3605 
+presented Visible_light.txt 1 4034 
+did Visible_light.txt 1 3529 
+travels Visible_light.txt 1 2977 
+team Visible_light.txt 1 1336 
+round Visible_light.txt 1 1258 
+slowed Visible_light.txt 1 3877 
+spectral Visible_light.txt 1 4553 
+atomism Visible_light.txt 2 3162 3245 
+appear Visible_light.txt 1 2314 
+bc Visible_light.txt 3 2822 2908 2987 
+favour Visible_light.txt 1 4057 
+atomist Visible_light.txt 1 3442 
+clerk Visible_light.txt 1 4369 
+water Visible_light.txt 7 721 1302 2061 2836 3171 3798 4749 
+magnetism Visible_light.txt 1 4437 
+kilometers Visible_light.txt 1 1111 
+galileo Visible_light.txt 1 984 
+along Visible_light.txt 2 4293 4336 
+appears Visible_light.txt 4 1463 2338 3127 3696 
+change Visible_light.txt 7 665 667 680 1600 1606 1614 1635 
+prthivi Visible_light.txt 1 3170 
+flames Visible_light.txt 2 1769 1958 
+institute Visible_light.txt 1 1343 
+shift Visible_light.txt 1 4638 
+studied Visible_light.txt 3 2915 2936 3458 
+commonly Visible_light.txt 1 1878 
+suggestion Visible_light.txt 1 3660 
+usually Visible_light.txt 2 121 149 
+plotted Visible_light.txt 1 1718 
+emerge Visible_light.txt 1 3112 
+tasks Visible_light.txt 1 2370 
+useful Visible_light.txt 2 2210 4863 
+illumination Visible_light.txt 3 2215 2367 2377 
+planck Visible_light.txt 2 4560 4589 
+bulbs Visible_light.txt 1 1739 
+properties Visible_light.txt 3 306 2917 4485 
+prey Visible_light.txt 1 303 
+double-slit Visible_light.txt 1 3892 
+duality Visible_light.txt 1 488 
+apparent Visible_light.txt 2 1034 1637 
+visual Visible_light.txt 2 672 4543 
+ibn Visible_light.txt 1 3295 
+originally Visible_light.txt 1 2619 
+can Visible_light.txt 16 864 1854 1937 1977 1999 2029 2062 2105 2142 2434 2441 2577 3197 4009 4730 4820 
+believed Visible_light.txt 1 2838 
+making Visible_light.txt 2 2598 2865 
+stream Visible_light.txt 1 3185 
+mirrors Visible_light.txt 2 1211 1247 
+predict Visible_light.txt 1 3566 
+confused Visible_light.txt 1 2643 
+celsius Visible_light.txt 1 1704 
+performed Visible_light.txt 1 1093 
+nems Visible_light.txt 2 2540 2555 
+rays Visible_light.txt 9 381 555 1487 2157 2892 2897 3179 3221 4291 
+divided Visible_light.txt 1 2469 
+chemical Visible_light.txt 1 833 
+pure Visible_light.txt 1 1915 
+3dimensional Visible_light.txt 1 4234 
+1050 Visible_light.txt 1 871 
+itselfso Visible_light.txt 1 1964 
+may Visible_light.txt 3 877 2399 4857 
+max Visible_light.txt 1 4559 
+applications Visible_light.txt 1 2535 
+produce Visible_light.txt 9 2000 2030 2036 2052 2066 2072 2143 2303 4052 
+designed Visible_light.txt 1 2321 
+such Visible_light.txt 11 815 1435 1947 1995 2536 2901 3228 4361 4486 4551 4716 
+acadmie Visible_light.txt 1 4038 
+natural Visible_light.txt 1 712 
+liquid Visible_light.txt 1 1473 
+baseballs Visible_light.txt 1 4718 
+si Visible_light.txt 4 940 2222 2235 2240 
+so Visible_light.txt 4 2522 2886 3635 4647 
+representation Visible_light.txt 1 2332 
+wavelengths Visible_light.txt 12 57 62 153 173 179 568 574 798 880 1821 2190 3951 
+approx Visible_light.txt 1 926 
+entity Visible_light.txt 1 3272 
+experiments Visible_light.txt 5 1225 1371 3897 4497 4825 
+motions Visible_light.txt 1 1021 
+argued Visible_light.txt 1 3976 
+still Visible_light.txt 1 4452 
+pointer Visible_light.txt 1 2497 
+forms Visible_light.txt 2 960 3293 
+main Visible_light.txt 10 192 510 907 1411 1452 2165 2176 2418 3430 4229 
+instantly Visible_light.txt 1 452 
+views Visible_light.txt 1 3053 
+not Visible_light.txt 20 376 698 812 1059 1591 1871 1910 2312 2384 2641 2657 2982 3055 3122 3387 3640 3868 4181 4550 4660 
+now Visible_light.txt 3 950 3652 4307 
+nor Visible_light.txt 1 4708 
+down Visible_light.txt 2 881 3878 
+term Visible_light.txt 1 363 
+james Visible_light.txt 1 4368 
+entirely Visible_light.txt 1 4096 
+photometry Visible_light.txt 6 2167 2192 2208 2241 2244 2318 
+em Visible_light.txt 3 394 423 520 
+weighted Visible_light.txt 1 2197 
+sugars Visible_light.txt 1 211 
+entering Visible_light.txt 2 3583 3880 
+year Visible_light.txt 1 4070 
+wavelength Visible_light.txt 13 181 316 372 538 563 1575 1602 1720 1804 1903 2196 2292 4637 
+monitors Visible_light.txt 1 2131 
+living Visible_light.txt 3 223 239 2042 
+shown Visible_light.txt 2 87 4823 
+space Visible_light.txt 3 2606 3157 4386 
+furthermore Visible_light.txt 1 776 
+interference Visible_light.txt 1 4492 
+contained Visible_light.txt 1 4439 
+investigation Visible_light.txt 1 2610 
+sensor Visible_light.txt 1 2382 
+correct Visible_light.txt 3 3360 3688 4191 
+after Visible_light.txt 3 2092 3662 4458 
+theory Visible_light.txt 45 3146 3314 3416 3429 3433 3446 3471 3561 3600 3611 3623 3665 3685 3731 3740 3750 3771 3773 3786 3829 3900 3908 3971 3994 4015 4030 4061 4067 4088 4108 4151 4165 4189 4210 4215 4228 4463 4494 4516 4530 4535 4548 4556 4663 4678 
+mechanisms Visible_light.txt 4 828 2141 2160 2556 
+snells Visible_light.txt 1 1503 
+possibility Visible_light.txt 1 2596 
+california Visible_light.txt 1 1268 
+remainder Visible_light.txt 1 1753 
+motion Visible_light.txt 6 2613 2652 2726 2740 2785 4268 
+massive Visible_light.txt 1 3636 
+first Visible_light.txt 8 1518 1823 3389 3722 4193 4315 4416 4846 
+origin Visible_light.txt 2 1140 3777 
+one Visible_light.txt 15 331 1025 1155 1335 1494 1830 2117 2511 2873 2956 2962 3101 3502 4738 4807 
+specifically Visible_light.txt 1 3123 
+directly Visible_light.txt 2 2665 4499 
+george Visible_light.txt 1 3708 
+size Visible_light.txt 2 1057 1638 
+city Visible_light.txt 1 2133 
+given Visible_light.txt 1 1674 
+necessarily Visible_light.txt 2 2313 2385 
+lens Visible_light.txt 1 773 
+2 Visible_light.txt 1 2239 
+constants Visible_light.txt 1 335 
+white Visible_light.txt 3 53 1829 1865 
+gives Visible_light.txt 1 3143 
+eyes Visible_light.txt 3 809 2895 2965 
+way Visible_light.txt 4 414 834 1162 1170 
+mostly Visible_light.txt 2 212 759 
+that Visible_light.txt 75 12 131 205 225 546 606 615 689 810 835 946 1041 1062 1143 1307 1728 2027 2255 2601 2735 2782 2790 2825 2839 2851 2922 2941 3001 3128 3246 3257 3281 3320 3323 3363 3372 3400 3484 3513 3548 3579 3630 3637 3714 3748 3759 3794 3810 3846 3875 3901 3910 3936 3944 3984 4004 4080 4110 4153 4174 4277 4317 4327 4344 4379 4407 4476 4545 4568 4621 4635 4729 4755 4777 4860 
+continuous Visible_light.txt 1 3135 
+accurately Visible_light.txt 1 4184 
+transverse Visible_light.txt 3 4020 4097 4270 
+deceleration Visible_light.txt 1 1989 
+than Visible_light.txt 7 71 1292 2021 2341 2743 2761 3331 
+10 Visible_light.txt 4 163 166 1744 1802 
+television Visible_light.txt 2 2127 4507 
+require Visible_light.txt 2 813 2524 
+r Visible_light.txt 1 3710 
+were Visible_light.txt 8 1315 2870 3054 3130 3494 3515 3947 4018 
+standardised Visible_light.txt 1 2202 
+photosynthesis Visible_light.txt 1 231 
+and Visible_light.txt 109 28 59 75 102 138 174 265 294 318 384 429 442 458 478 507 530 532 553 569 581 737 770 779 799 818 874 1024 1135 1164 1185 1340 1349 1418 1423 1430 1438 1497 1512 1526 1534 1536 1548 1566 1647 1722 1751 1781 1831 1848 1908 1920 1951 1957 2007 2057 2129 2163 2169 2285 2327 2355 2373 2395 2403 2454 2549 2557 2789 2816 2835 2850 2896 2928 2935 3082 3125 3158 3175 3205 3235 3297 3307 3369 3411 3465 3707 3787 3834 3954 4033 4091 4168 4211 4244 4255 4263 4375 4436 4449 4467 4474 4491 4495 4510 4619 4693 4696 4744 4767 
+san Visible_light.txt 1 1265 
+occupies Visible_light.txt 1 4814 
+argument Visible_light.txt 1 4055 
+mates Visible_light.txt 1 293 
+any Visible_light.txt 1 371 
+lumps Visible_light.txt 1 4592 
+ideas Visible_light.txt 1 2995 
+sciences Visible_light.txt 1 4040 
+ideal Visible_light.txt 1 860 
+take Visible_light.txt 2 2257 2323 
+something Visible_light.txt 2 4728 4754 
+normal Visible_light.txt 3 1515 1529 1595 
+molecule Visible_light.txt 2 635 673 
+considered Visible_light.txt 1 3764 
+430750 Visible_light.txt 1 188 
+later Visible_light.txt 4 1389 3049 3661 4022 
+drive Visible_light.txt 1 2554 
+order Visible_light.txt 2 1633 2813 
+redirected Visible_light.txt 1 2 
+quantity Visible_light.txt 1 2351 
+precise Visible_light.txt 1 1270 
+show Visible_light.txt 1 4076 
+cornea Visible_light.txt 1 766 
+friction Visible_light.txt 3 2663 2684 2804 
+discovered Visible_light.txt 2 4276 4378 
+bright Visible_light.txt 2 2316 2335 
+imagined Visible_light.txt 1 4759 
+fifth Visible_light.txt 1 2820 
+ground Visible_light.txt 3 1731 3154 4817 
+nanometre Visible_light.txt 1 2533 
+examples Visible_light.txt 2 1652 2012 
+only Visible_light.txt 9 1373 1742 1782 3403 3524 3573 4092 4219 4581 
+black Visible_light.txt 2 3655 4564 
+welders Visible_light.txt 1 1888 
+between Visible_light.txt 7 168 1493 1509 1523 1563 1570 2891 
+cannot Visible_light.txt 3 13 789 4756 
+boundary Visible_light.txt 2 1562 1598 
+settings Visible_light.txt 1 2375 
+1821 Visible_light.txt 1 4071 
+miles Visible_light.txt 1 928 
+predicted Visible_light.txt 2 2679 3909 
+where Visible_light.txt 2 462 1505 
+vision Visible_light.txt 2 685 3957 
+subatomic Visible_light.txt 1 2113 
+re-emerge Visible_light.txt 1 4222 
+relative Visible_light.txt 2 91 3356 
+1923 Visible_light.txt 1 4630 
+1926 Visible_light.txt 2 1243 4665 
+euclid Visible_light.txt 2 2909 2920 
+detect Visible_light.txt 4 745 790 823 837 
+materials Visible_light.txt 1 2104 
+colours Visible_light.txt 2 1853 3946 
+enough Visible_light.txt 3 657 2658 4185 
+moons Visible_light.txt 1 1028 
+across Visible_light.txt 2 2281 3026 
+crookes Visible_light.txt 2 2616 2630 
+article Visible_light.txt 7 511 908 1412 1453 2419 3431 4230 
+interfere Visible_light.txt 1 3914 
+22 Visible_light.txt 1 1045 
+similar Visible_light.txt 1 3047 
+region Visible_light.txt 3 545 600 1712 
+sodium Visible_light.txt 1 1967 
+according Visible_light.txt 1 3094 
+called Visible_light.txt 10 284 426 470 604 2047 2352 3653 3861 4590 4648 
+propagation Visible_light.txt 2 312 3820 
+s Visible_light.txt 2 1053 3888 
+1-mw Visible_light.txt 1 2528 
+1635-1703 Visible_light.txt 1 3782 
+color Visible_light.txt 1 895 
+period Visible_light.txt 1 1035 
+fireflies Visible_light.txt 2 288 2051 
+capable Visible_light.txt 1 617 
+analogies Visible_light.txt 1 3394 
+227,000,000 Visible_light.txt 1 1081 
+direction Visible_light.txt 7 313 1609 1616 3033 3818 4266 4297 
+photon Visible_light.txt 3 428 446 464 
+hippolyte Visible_light.txt 1 1097 
+wake Visible_light.txt 1 2069 
+external Visible_light.txt 1 4874 
+those Visible_light.txt 1 3167 
+sound Visible_light.txt 3 3348 3919 4114 
+these Visible_light.txt 11 743 1370 1771 1852 3008 3119 4477 4574 4591 4622 4670 
+mount Visible_light.txt 2 1261 1264 
+photocells Visible_light.txt 1 2402 
+many Visible_light.txt 3 806 1443 1666 
+exist Visible_light.txt 1 687 
+eventually Visible_light.txt 1 4675 
+characteristics Visible_light.txt 1 3200 
+middle Visible_light.txt 1 4816 
+everyday Visible_light.txt 1 2490 
+different Visible_light.txt 7 972 1572 2247 3199 3383 3945 3950 
+media Visible_light.txt 2 1573 3384 
+same Visible_light.txt 3 832 968 2305 
+shifts Visible_light.txt 1 1818 
+arguments Visible_light.txt 1 3505 
+15921655 Visible_light.txt 1 3440 
+centuries Visible_light.txt 1 3088 
+plankton Visible_light.txt 1 2064 
+waveparticle Visible_light.txt 1 487 
+renewable Visible_light.txt 1 44 
+electromagnetism Visible_light.txt 1 4322 
+photocell Visible_light.txt 1 2381 
+no Visible_light.txt 3 654 3021 4099 
+roughly Visible_light.txt 2 187 1723 
+without Visible_light.txt 1 2396 
+components Visible_light.txt 1 4249 
+ccd Visible_light.txt 1 2406 
+model Visible_light.txt 3 2203 3673 4835 
+charged Visible_light.txt 1 1993 
+redirects Visible_light.txt 2 8 33 
+outdoor Visible_light.txt 1 2374 
+transmitting Visible_light.txt 1 3413 
+generally Visible_light.txt 2 519 3056 
+neon Visible_light.txt 2 1949 1952 
+rest Visible_light.txt 1 2720 
+speed Visible_light.txt 24 322 356 904 909 913 936 956 969 979 989 1002 1079 1089 1196 1228 1274 1298 2023 2473 3204 3379 4177 4390 4400 
+death Visible_light.txt 1 1235 
+photons Visible_light.txt 7 82 605 653 2155 2452 4517 4674 
+except Visible_light.txt 1 1874 
+hertzs Visible_light.txt 1 4496 
+momentum Visible_light.txt 1 2457 
+real Visible_light.txt 1 4627 
+around Visible_light.txt 7 1699 1743 1905 2294 3085 3519 3923 
+early Visible_light.txt 3 997 3087 3463 
+vacuum Visible_light.txt 9 325 359 918 971 1294 1309 1547 1565 2638 
+using Visible_light.txt 4 1015 1244 3728 4829 
+accepted Visible_light.txt 1 3057 
+standstill Visible_light.txt 1 1323 
+particle Visible_light.txt 17 1994 2448 3050 3428 3445 3551 3610 3622 3682 3730 3739 3770 4214 4692 4707 4796 4834 
+either Visible_light.txt 1 4830 
+fully Visible_light.txt 2 3687 4758 
+malus Visible_light.txt 1 3733 
+cathode Visible_light.txt 1 2124 
+respect Visible_light.txt 1 2199 
+images Visible_light.txt 1 1640 
+gross Visible_light.txt 1 3114 
+ellis Visible_light.txt 1 3711 
+1850 Visible_light.txt 1 4204 
+tube Visible_light.txt 1 2126 
+gassendi Visible_light.txt 2 3437 3439 
+propagating Visible_light.txt 1 4335 
+power Visible_light.txt 4 266 2187 2348 2464 
+equivalent Visible_light.txt 1 3273 
+notably Visible_light.txt 1 1897 
+1931 Visible_light.txt 1 1237 
+refers Visible_light.txt 4 122 366 1372 3215 
+aphrodite Visible_light.txt 1 2840 
+of Visible_light.txt 245 52 81 85 94 115 144 157 186 194 216 230 245 262 276 307 332 336 344 370 393 421 433 438 449 481 491 558 589 602 612 618 633 640 684 695 701 711 719 750 785 897 905 910 914 934 937 954 957 961 980 990 1003 1022 1026 1036 1051 1070 1080 1087 1090 1105 1122 1148 1180 1188 1197 1216 1229 1275 1281 1299 1306 1313 1331 1365 1382 1416 1421 1432 1449 1457 1459 1466 1468 1485 1541 1558 1576 1588 1610 1615 1624 1639 1653 1661 1668 1680 1695 1713 1725 1745 1775 1791 1841 1845 1933 1990 2013 2024 2148 2179 2183 2185 2204 2251 2275 2293 2300 2308 2333 2450 2465 2474 2480 2484 2501 2543 2570 2592 2597 2614 2635 2673 2682 2690 2701 2706 2751 2764 2774 2786 2795 2829 2846 2918 2933 2946 2996 3005 3011 3029 3042 3066 3080 3102 3110 3118 3147 3155 3168 3186 3189 3195 3208 3222 3244 3254 3261 3287 3294 3304 3315 3318 3347 3380 3407 3417 3424 3434 3447 3472 3480 3482 3488 3491 3503 3510 3534 3537 3569 3598 3604 3612 3624 3666 3691 3702 3741 3755 3768 3778 3791 3795 3819 3830 3856 3890 3904 3932 3952 3960 3968 4007 4031 4058 4089 4105 4124 4166 4178 4236 4250 4267 4280 4282 4301 4333 4358 4401 4412 4426 4444 4447 4503 4523 4531 4593 4611 4657 4679 4740 4806 4850 4854 4867 
+shrimp Visible_light.txt 1 819 
+pure-blue Visible_light.txt 1 1880 
+or Visible_light.txt 19 161 315 375 522 631 1569 1593 1864 1886 1914 1985 2414 3263 3683 4578 4719 4808 4833 4836 
+cambridge Visible_light.txt 2 1347 1360 
+spreading Visible_light.txt 1 3790 
+newtons Visible_light.txt 5 3504 3560 3692 4065 4149 
+fizeau Visible_light.txt 4 1098 1101 1141 1190 
+einstein Visible_light.txt 2 2676 4607 
+speculated Visible_light.txt 1 4326 
+telescope Visible_light.txt 1 1017 
+fast Visible_light.txt 1 2979 
+area Visible_light.txt 2 500 2569 
+assumed Visible_light.txt 2 3321 3874 
+there Visible_light.txt 3 686 1664 2778 
+lon Visible_light.txt 2 1202 4201 
+hertz Visible_light.txt 1 4460 
+sides Visible_light.txt 2 2700 2712 
+start Visible_light.txt 1 3423 
+low Visible_light.txt 1 4641 
+stars Visible_light.txt 3 1876 1913 2959 
+illuminated Visible_light.txt 4 1478 2077 2134 2509 
+with Visible_light.txt 20 16 171 177 259 341 516 578 808 2112 2174 2195 2198 2517 2644 2792 3344 3915 4098 4542 4734 
+longer Visible_light.txt 4 56 172 573 655 
+pull Visible_light.txt 1 3590 
+space-time Visible_light.txt 1 3703 
+ad Visible_light.txt 1 3089 
+certain Visible_light.txt 5 113 1146 2034 2070 2139 
+deep Visible_light.txt 1 1798 
+resultant Visible_light.txt 2 2773 2802 
+as Visible_light.txt 61 151 340 399 444 485 494 549 816 845 847 852 854 902 1126 1199 1391 1436 1445 1470 1619 1748 1754 1812 1836 1940 1948 1981 1996 2085 2101 2537 2588 2670 2771 2880 2882 2902 3218 3229 3268 3299 3301 3421 3671 3676 3765 3853 3865 3921 3939 4309 4362 4454 4487 4520 4552 4686 4700 4717 4727 4760 
+at Visible_light.txt 30 99 104 354 410 608 636 869 965 1061 1107 1144 1337 1352 1386 1672 1698 1800 1923 2188 2290 2572 2719 2969 3339 3461 3758 4173 4387 4788 4797 
+moves Visible_light.txt 1 1839 
+incorrect Visible_light.txt 2 2627 3353 
+nova Visible_light.txt 1 3978 
+field Visible_light.txt 4 4254 4258 4296 4338 
+prism Visible_light.txt 1 48 
+mathematics Visible_light.txt 1 4735 
+time Visible_light.txt 11 1063 1251 1390 1400 3022 3159 3723 3760 4175 4243 4847 
+important Visible_light.txt 2 243 498 
+peak Visible_light.txt 3 1790 1817 1838 
+describable Visible_light.txt 1 4828 
+foucaults Visible_light.txt 1 1240 
+all Visible_light.txt 11 234 342 391 959 1651 2011 2189 3497 3752 3851 4804 
+descartes Visible_light.txt 7 3276 3278 3337 3351 3385 3415 3470 
+caused Visible_light.txt 3 2653 2666 3948 
+asteroids Visible_light.txt 1 2579 
+ceased Visible_light.txt 1 1406 
+children Visible_light.txt 1 873 
+causes Visible_light.txt 1 734 
+to Visible_light.txt 101 123 134 164 209 255 291 299 351 367 454 626 648 660 692 757 822 849 851 856 868 882 885 921 976 986 999 1047 1132 1138 1175 1193 1212 1248 1255 1263 1317 1320 1374 1407 1446 1596 1629 1634 1819 1861 1894 2152 2200 2213 2265 2322 2339 2346 2363 2387 2408 2410 2462 2477 2553 2558 2580 2621 3048 3095 3133 3182 3216 3274 3390 3469 3517 3565 3614 3628 3774 3793 3816 4036 4047 4051 4063 4075 4186 4194 4220 4260 4264 4321 4371 4393 4396 4500 4538 4562 4586 4614 4683 4737 4781 4826 
+299,792,458 Visible_light.txt 2 326 924 
+nodes Visible_light.txt 1 106 
+case Visible_light.txt 1 4763 
+returned Visible_light.txt 1 1137 
+very Visible_light.txt 1 792 
+ultraviolet Visible_light.txt 9 176 551 753 797 805 824 879 1851 2413 
+decide Visible_light.txt 1 4187 
+switches Visible_light.txt 1 2562 
+corpuscles Visible_light.txt 1 3489 
+list Visible_light.txt 1 1660 
+large Visible_light.txt 1 3699 
+20th Visible_light.txt 1 4225 
+rate Visible_light.txt 2 1147 1187 
+pass Visible_light.txt 1 1153 
+further Visible_light.txt 1 1658 
+fresnels Visible_light.txt 1 4048 
+what Visible_light.txt 3 468 2388 3650 
+cast Visible_light.txt 1 4136 
+sun Visible_light.txt 5 200 1697 2904 3007 3224 
+brief Visible_light.txt 1 2806 
+version Visible_light.txt 1 3597 
+scientists Visible_light.txt 1 4842 
+movement Visible_light.txt 1 2689 
+full Visible_light.txt 2 2660 4441 
+behaviour Visible_light.txt 2 3346 4446 
+directions Visible_light.txt 2 3498 3852 
+strong Visible_light.txt 1 4138 
+equations Visible_light.txt 2 2439 4456 
+1849 Visible_light.txt 1 1100 
+ahead Visible_light.txt 1 2737 
+inspired Visible_light.txt 1 4367 
+1847 Visible_light.txt 1 4343 
+1846 Visible_light.txt 1 4324 
+1845 Visible_light.txt 1 4273 
+amount Visible_light.txt 1 588 
+published Visible_light.txt 5 3312 3451 3594 3835 4431 
+via Visible_light.txt 1 4077 
+1909 Visible_light.txt 1 2678 
+1905 Visible_light.txt 1 4605 
+seventeenth Visible_light.txt 1 994 
+1900 Visible_light.txt 1 4558 
+eye Visible_light.txt 12 18 137 788 2263 2273 2394 2844 2858 2864 2951 2976 3965 
+takes Visible_light.txt 1 1043 
+two Visible_light.txt 7 1310 1571 2175 2298 2711 2776 4247 
+damaged Visible_light.txt 1 803 
+taken Visible_light.txt 2 3132 3181 
+more Visible_light.txt 9 1084 2079 2095 2443 2547 2727 3987 4783 4792 
+substances Visible_light.txt 3 1286 2071 2088 
+kerosene Visible_light.txt 1 257 
+emission Visible_light.txt 5 1869 1896 1928 1936 1976 
+known Visible_light.txt 12 484 493 901 1060 1067 1618 2084 2100 3516 3753 4308 4453 
+producing Visible_light.txt 1 1822 
+science Visible_light.txt 1 1345 
+des Visible_light.txt 1 4039 
+spontaneous Visible_light.txt 1 1939 
+history Visible_light.txt 2 983 1762 
+polaritons Visible_light.txt 1 4859 
+stated Visible_light.txt 2 3476 4417 
+states Visible_light.txt 1 1381 
+sense Visible_light.txt 4 143 379 4689 4699 
+mercury-vapor Visible_light.txt 1 1954 
+species Visible_light.txt 2 275 3303 
+firmly Visible_light.txt 1 3669 
+narrowly Visible_light.txt 1 846 
+information Visible_light.txt 1 1659 
+rather Visible_light.txt 1 1594 
+glowing Visible_light.txt 2 1765 2068 
+1690 Visible_light.txt 1 3843 
+plant Visible_light.txt 1 888 
+intended Visible_light.txt 2 2151 2217 
+plane Visible_light.txt 1 4279 
+lighting Visible_light.txt 3 269 2138 2216 
+waves Visible_light.txt 24 68 386 400 407 424 3349 3514 3796 3857 3866 3905 3912 3920 3940 4112 4115 4382 4470 4478 4525 4575 4721 4750 4766 
+response Visible_light.txt 1 2288 
+a Visible_light.txt 134 46 50 95 112 183 282 324 358 427 436 445 455 662 666 709 899 917 1010 1016 1078 1103 1108 1113 1145 1214 1222 1257 1273 1321 1328 1394 1476 1491 1546 1552 1556 1564 1605 1670 1673 1677 1683 1756 1783 1824 1828 1833 1883 1887 1902 1969 1983 1986 1991 2018 2067 2082 2132 2201 2291 2330 2336 2350 2380 2431 2494 2499 2514 2593 2636 2671 2780 2899 2947 2983 2989 3184 3242 3248 3284 3313 3328 3333 3367 3404 3444 3500 3549 3554 3584 3631 3654 3663 3681 3689 3737 3784 3826 3854 3859 3881 3891 3933 3992 4019 4053 4118 4159 4196 4233 4256 4269 4302 4347 4359 4388 4410 4432 4440 4572 4598 4626 4655 4661 4691 4694 4701 4706 4709 4785 4794 4815 4831 4851 
+short Visible_light.txt 1 793 
+luminiferous Visible_light.txt 2 3863 4128 
+negligible Visible_light.txt 1 2488 
+fundamental Visible_light.txt 2 334 3105 
+dispersing Visible_light.txt 1 49 
+developed Visible_light.txt 3 3090 3241 3783 
+soon Visible_light.txt 1 4457 
+radar Visible_light.txt 1 4506 
+thermal Visible_light.txt 5 713 1685 1758 1868 1916 
+through Visible_light.txt 6 1154 1327 1490 2017 2060 4385 
+filters Visible_light.txt 1 2397 
+signs Visible_light.txt 1 1953 
+existence Visible_light.txt 3 2681 4123 4628 
+pani Visible_light.txt 1 3172 
+its Visible_light.txt 8 321 562 583 652 1027 1056 1139 2429 
+developer Visible_light.txt 1 39 
+interspace Visible_light.txt 1 3028 
+termed Visible_light.txt 1 1426 
+energies Visible_light.txt 2 614 1925 
+actually Visible_light.txt 3 3131 4712 4753 
+late Visible_light.txt 1 4142 
+absence Visible_light.txt 1 4357 
+systems Visible_light.txt 4 267 2226 2250 2539 
+isaac Visible_light.txt 1 3456 
+might Visible_light.txt 1 4329 
+micrometre Visible_light.txt 1 1803 
+7.00 Visible_light.txt 1 165 
+reflected Visible_light.txt 1 2731 
+piconewtons Visible_light.txt 1 2504 
+easily Visible_light.txt 3 2444 3988 4821 
+designation Visible_light.txt 1 525 
+always Visible_light.txt 1 352 
+stopped Visible_light.txt 2 1368 1403 
+found Visible_light.txt 2 350 1142 
+generation Visible_light.txt 1 2159 
+energy Visible_light.txt 17 38 45 77 204 220 236 403 420 448 590 659 1727 1747 3264 3275 4580 4595 
+idea Visible_light.txt 2 4003 4610 
+measurement Visible_light.txt 2 1086 4199 
+quantum Visible_light.txt 7 592 826 4515 4534 4555 4680 4868 
+robert Visible_light.txt 1 3780 
+research Visible_light.txt 2 499 2571 
+acting Visible_light.txt 2 2583 2766 
+ios Visible_light.txt 1 1037 
+rmer Visible_light.txt 3 1009 1018 1065 
+imaging Visible_light.txt 2 714 4509 
+generate Visible_light.txt 1 278 
+computers Visible_light.txt 1 4869 
+conducted Visible_light.txt 2 1006 1224 
+consequence Visible_light.txt 1 2672 
+relate Visible_light.txt 1 2345 
+number Visible_light.txt 1 1179 
+traveled Visible_light.txt 1 1128 
+1877 Visible_light.txt 1 1232 
+1873 Visible_light.txt 1 4429 
+temperature Visible_light.txt 3 725 1675 1814 
+5th Visible_light.txt 1 3233 
+least Visible_light.txt 1 870 
+molecular Visible_light.txt 3 664 735 1895 
+retinal Visible_light.txt 1 674 
+particle-like Visible_light.txt 1 479 
+optical Visible_light.txt 1 1433 
+translation Visible_light.txt 1 3690 
+reflection Visible_light.txt 3 2934 3568 4488 
+kind Visible_light.txt 1 710 
+polarized Visible_light.txt 1 3718 
+lucretiuss Visible_light.txt 1 3052 
+vanes Visible_light.txt 1 2591 
+exert Visible_light.txt 1 2696 
+wilson Visible_light.txt 1 1262 
+u.s Visible_light.txt 1 2515 
+depending Visible_light.txt 1 3201 
+lit Visible_light.txt 1 2853 
+also Visible_light.txt 9 388 891 1358 1772 1978 2106 2608 3942 4871 
+internal Visible_light.txt 1 772 
+analogy Visible_light.txt 1 3343 
+added Visible_light.txt 1 4046 
+electric Visible_light.txt 5 263 268 529 4253 4448 
+vibration Visible_light.txt 3 736 4101 4350 
+measures Visible_light.txt 2 2164 2193 
+most Visible_light.txt 2 1774 2249 
+significant Visible_light.txt 1 2548 
+measured Visible_light.txt 4 2173 2378 4183 4399 
+sometimes Visible_light.txt 4 365 4733 4745 4837 
+part Visible_light.txt 1 1844 
+electrons Visible_light.txt 1 4646 
+velocity Visible_light.txt 3 1280 2794 3188 
+physics Visible_light.txt 3 361 503 4724 
+thomas Visible_light.txt 2 3886 3926 
+phenomenon Visible_light.txt 3 2432 3533 4702 
+scattered Visible_light.txt 1 4644 
+being Visible_light.txt 6 1367 1376 2508 3046 3252 3269 
+indian Visible_light.txt 2 3161 3226 
+huygens Visible_light.txt 4 3822 3885 4132 4167 
+his Visible_light.txt 12 1234 3069 3467 3478 3599 3602 3606 3659 3800 3838 4027 4205 
+imparted Visible_light.txt 2 404 3034 
+3/4 Visible_light.txt 1 1305 
+during Visible_light.txt 5 1398 2738 2876 2883 3617 
+exhibiting Visible_light.txt 1 4484 
+common Visible_light.txt 1 1757 
+wrote Visible_light.txt 4 2693 2910 3000 3062 
+313 Visible_light.txt 1 886 
+310 Visible_light.txt 1 884 
+uses Visible_light.txt 1 24 
+see Visible_light.txt 7 19 25 42 865 2875 3160 4870 
+individual Visible_light.txt 1 658 
+are Visible_light.txt 31 64 69 310 387 416 607 616 690 722 800 820 1538 1650 1665 2010 2076 2227 2246 2274 2320 2329 2356 2713 3009 3017 3166 3180 3258 3867 4518 4713 
+rejecting Visible_light.txt 1 3291 
+various Visible_light.txt 4 693 840 1284 2369 
+conditions Visible_light.txt 1 862 
+photon-absorption Visible_light.txt 1 827 
+knowing Visible_light.txt 1 1172 
+latin Visible_light.txt 1 4599 
+maxwells Visible_light.txt 5 2438 4455 4462 4493 4546 
+invisible Visible_light.txt 2 647 756 
+colorum Visible_light.txt 1 3982 
+both Visible_light.txt 5 2225 2415 2699 4690 4838 
+c Visible_light.txt 3 2471 2481 3059 
+improved Visible_light.txt 1 1245 
+sensitive Visible_light.txt 1 691 
+roman Visible_light.txt 1 2990 
+became Visible_light.txt 1 3668 
+simple Visible_light.txt 1 1684 
+others Visible_light.txt 1 4169 
+incandescent Visible_light.txt 1 1737 
+faraday Visible_light.txt 3 4275 4310 4340 
+throughout Visible_light.txt 1 982 
+described Visible_light.txt 4 1501 2930 4526 4732 
+create Visible_light.txt 2 210 3553 
+due Visible_light.txt 2 1893 2476 
+generating Visible_light.txt 1 4466 
+partly Visible_light.txt 1 4221 
+maser Visible_light.txt 1 1988 
+fire Visible_light.txt 5 251 2832 2855 3173 3191 
+gas Visible_light.txt 4 1884 1944 1963 1970 
+gap Visible_light.txt 2 1156 1167 
+cones Visible_light.txt 1 780 
+1862 Visible_light.txt 2 1220 4421 
+plants Visible_light.txt 1 207 
+shove Visible_light.txt 1 3037 
+solid Visible_light.txt 1 1766 
+straight Visible_light.txt 2 2926 3526 
+andr-marie Visible_light.txt 1 3997 
+while Visible_light.txt 4 320 2191 3521 4162 
+replaced Visible_light.txt 1 272 
+nanometre-scale Visible_light.txt 1 2560 
+behavior Visible_light.txt 2 557 584 
+larger Visible_light.txt 2 2573 2760 
+costly Visible_light.txt 1 2401 
+century Visible_light.txt 8 995 2821 3061 3234 3240 3620 4144 4226 
+shorter Visible_light.txt 4 61 178 567 1820 
+stimulated Visible_light.txt 2 1392 1980 
+virtually Visible_light.txt 1 233 
+ray Visible_light.txt 3 1511 1525 2125 
+day Visible_light.txt 1 2885 
+higher Visible_light.txt 2 564 4798 
+windmill Visible_light.txt 1 2594 
+used Visible_light.txt 7 237 1209 1628 2122 2357 3564 4608 
+poisson Visible_light.txt 1 4045 
+moving Visible_light.txt 2 2016 2059 
+15961650 Visible_light.txt 1 3279 
+lower Visible_light.txt 4 570 610 638 4789 
+chemistry Visible_light.txt 1 632 
+atomic Visible_light.txt 3 3145 3255 3271 
+world Visible_light.txt 1 3150 
+alternative Visible_light.txt 1 2177 
+tables Visible_light.txt 1 2232 
+source Visible_light.txt 7 193 244 1131 1686 1760 2900 3501 
+1678 Visible_light.txt 2 3833 4134 
+questioned Visible_light.txt 1 2940 
+1675 Visible_light.txt 1 3483 
+1676 Visible_light.txt 1 1014 
+atomicity Visible_light.txt 1 3117 
+excited Visible_light.txt 2 1380 2108 
+euler Visible_light.txt 1 3974 
+showing Visible_light.txt 2 3894 4245 
+shapes Visible_light.txt 1 2587 
+communications Visible_light.txt 1 4512 
+arthur Visible_light.txt 1 4631 
+popular Visible_light.txt 1 1363 
+lightsource Visible_light.txt 3 32 41 43 
+sketch Visible_light.txt 1 3889 
+often Visible_light.txt 1 1872 
+some Visible_light.txt 5 274 2087 2411 4331 4688 
+pierre Visible_light.txt 2 3436 3438 
+metres Visible_light.txt 1 327 
+accelerate Visible_light.txt 1 2603 
+sight Visible_light.txt 3 145 2866 2942 
+mirror Visible_light.txt 3 1109 1134 1177 
+momentary Visible_light.txt 1 3259 
+scale Visible_light.txt 2 2534 3700 
+measurements Visible_light.txt 2 1271 2184 
+per Visible_light.txt 3 328 591 929 
+behave Visible_light.txt 1 4782 
+manipulate Visible_light.txt 1 1630 
+tends Visible_light.txt 1 4780 
+be Visible_light.txt 32 14 922 1408 1855 1938 1979 2107 2340 2400 2435 2442 2642 2730 3134 3183 3375 3563 3634 3717 3814 3989 4010 4083 4182 4330 4394 4652 4731 4757 4822 4827 4862 
+radiometer Visible_light.txt 2 2617 2647 
+charge-coupled Visible_light.txt 1 2404 
+300 Visible_light.txt 1 2907 
+perpendicular Visible_light.txt 2 3815 4259 
+metaphor Visible_light.txt 2 4742 4748 
+by Visible_light.txt 51 238 405 537 699 726 764 804 825 893 1007 1096 1324 1393 1479 1502 1692 1898 2039 2054 2078 2094 2109 2135 2349 2379 2391 2437 2446 2470 2654 2667 3035 3342 3377 3543 3546 3576 3704 3726 3870 3925 3930 3949 3991 4012 4068 4085 4131 4145 4465 4654 
+range Visible_light.txt 4 156 185 733 749 
+gamma Visible_light.txt 3 380 554 2156 
+into Visible_light.txt 6 221 539 1849 2258 2325 4137 
+within Visible_light.txt 2 111 622 
+appropriate Visible_light.txt 1 4736 
+ptolemy Visible_light.txt 1 3058 
+long Visible_light.txt 1 74 
+biot Visible_light.txt 1 3744 
+opens Visible_light.txt 1 2967 
+an Visible_light.txt 15 497 996 1206 1387 1455 1997 2567 2889 3144 3270 3441 3462 4002 4252 4305 
+retina Visible_light.txt 2 678 784 
+atom Visible_light.txt 1 1935 
+collapses Visible_light.txt 1 453 
+heinrich Visible_light.txt 1 4459 
+directed Visible_light.txt 1 1102 
+circuits Visible_light.txt 1 2565 
+characteristic Visible_light.txt 4 1678 1924 1973 2629 
+up Visible_light.txt 1 867 
+rowland Visible_light.txt 1 1342 
+laplace Visible_light.txt 2 3627 3657 
+polarised Visible_light.txt 2 4238 4284 
+constant Visible_light.txt 2 1584 4389 
+adults Visible_light.txt 1 876 
+defined Visible_light.txt 3 150 920 951 
+m Visible_light.txt 1 167 
+single Visible_light.txt 3 411 456 579 
+313,000,000 Visible_light.txt 1 1200 
+amounts Visible_light.txt 1 4584 
+sails Visible_light.txt 1 2600 
+gassendis Visible_light.txt 1 3459 
+elements Visible_light.txt 5 2831 2849 3107 3115 3120 
+energetic Visible_light.txt 2 2080 2096 
+excitation Visible_light.txt 2 621 2093 
+helping Visible_light.txt 1 4062 
+bonding Visible_light.txt 1 630 
+allowing Visible_light.txt 1 3547 
+lucis Visible_light.txt 1 3980 
+structure Visible_light.txt 1 3701 
+independently Visible_light.txt 1 4024 
+fluorescence Visible_light.txt 1 2086 
+age Visible_light.txt 1 3464 
+diffraction Visible_light.txt 5 3536 3895 3934 3985 4490 
+orbit Visible_light.txt 3 1038 1054 1073 
+implied Visible_light.txt 2 4152 4170 
+having Visible_light.txt 1 152 
+essay Visible_light.txt 1 3693 
+partial Visible_light.txt 1 2637 
+results Visible_light.txt 2 942 1603 
+magnifying Visible_light.txt 1 1641 
+hooke Visible_light.txt 2 3781 3808 
+excludes Visible_light.txt 1 527 
+simon Visible_light.txt 1 4043 
+young Visible_light.txt 4 875 3887 3927 3928 
+does Visible_light.txt 1 2383 
+include Visible_light.txt 2 2153 2161 
+provides Visible_light.txt 2 202 232 
+wave Visible_light.txt 31 97 437 451 472 3368 3508 3556 3664 3684 3772 3828 3907 3970 3993 4014 4021 4029 4060 4087 4107 4164 4209 4240 4271 4521 4573 4662 4695 4710 4787 4832 
+electron Visible_light.txt 1 1998 
+nichols Visible_light.txt 1 2646 
+cellular Visible_light.txt 1 720 
+categories Visible_light.txt 2 4876 4878 
+squids Visible_light.txt 1 296 
+transmission Visible_light.txt 1 4121 
+notes Visible_light.txt 1 4872 
+michael Visible_light.txt 1 4274 
+optica Visible_light.txt 1 2911 
+1665 Visible_light.txt 1 3801 
+optics Visible_light.txt 7 495 1410 1413 1427 2168 3071 3427 
+noted Visible_light.txt 2 3922 4776 
+concluded Visible_light.txt 1 4406 
+sensation Visible_light.txt 1 683 
+ampre Visible_light.txt 1 3998 
+earth Visible_light.txt 4 197 1052 2834 3169 
+vampire Visible_light.txt 1 295 
+experiment Visible_light.txt 5 998 1207 3893 3935 4148 
+body Visible_light.txt 5 1671 3290 3410 3632 4565 
+led Visible_light.txt 2 3626 4498 
+radicals Visible_light.txt 1 1900 
+objects Visible_light.txt 3 1808 2427 2491 
+samkhya Visible_light.txt 2 3081 3097 
+deduced Visible_light.txt 1 2436 
+terahertz Visible_light.txt 1 189 
+involved Visible_light.txt 1 4770 
+30 Visible_light.txt 1 2526 
+metre Visible_light.txt 1 948 
+composed Visible_light.txt 4 2828 3010 3253 3487 
+named Visible_light.txt 2 40 4669 
+scales Visible_light.txt 1 2574 
+shoved Visible_light.txt 1 3018 
+cloud Visible_light.txt 1 1477 
+use Visible_light.txt 5 208 289 297 2220 3391 
+from Visible_light.txt 22 3 252 302 943 1129 1231 1260 1474 1960 2248 2862 2893 2898 2949 2974 3038 3084 3499 3642 4403 4597 4645 
+links Visible_light.txt 1 4875 
+remains Visible_light.txt 2 1583 2779 
+next Visible_light.txt 1 1166 
+doubt Visible_light.txt 1 4139 
+themselves Visible_light.txt 1 301 
+historically Visible_light.txt 1 241 
+on Visible_light.txt 28 196 561 586 708 1160 1168 1182 1226 2426 2505 2584 2589 2698 2709 2732 2744 2754 2767 2993 3039 3092 3136 3151 3202 3694 3840 4423 4434 
+becomes Visible_light.txt 2 646 755 
+localised Visible_light.txt 1 3555 
+account Visible_light.txt 2 2259 2326 
+crosses Visible_light.txt 1 1560 
+animals Visible_light.txt 4 277 688 744 807 
+f Visible_light.txt 1 3709 
+this Visible_light.txt 28 180 228 355 378 459 466 475 732 967 1613 1654 1926 2014 2044 2055 2098 2119 2324 2624 2639 2801 2869 2980 3340 3749 4312 4404 4418 
+jean-baptiste Visible_light.txt 1 3743 
+when Visible_light.txt 11 435 575 1488 1555 1717 1857 2074 2145 3015 4288 4640 
+proof Visible_light.txt 1 3767 
+weaker Visible_light.txt 1 103 
+bent Visible_light.txt 1 1464 
+corpuscular Visible_light.txt 3 3432 4066 4150 
+plate Visible_light.txt 4 2703 2717 2788 2797 
+process Visible_light.txt 5 229 283 900 2045 2083 
+boseeinstein Visible_light.txt 1 1329 
+purposes Visible_light.txt 1 2359 
+high Visible_light.txt 1 3187 
+effectively Visible_light.txt 1 271 
+bend Visible_light.txt 1 3518 
+rods Visible_light.txt 1 778 
+4.00 Visible_light.txt 1 162 
+located Visible_light.txt 1 781 
+instead Visible_light.txt 1 4722 
+philosophy Visible_light.txt 1 3249 
+demonstrating Visible_light.txt 1 4475 
+light Visible_light.txt 175 0 5 7 11 26 30 54 67 86 96 107 125 147 195 246 281 290 309 339 364 389 397 434 439 482 492 509 517 550 599 643 752 754 839 844 898 906 911 915 938 958 981 991 1004 1042 1091 1106 1124 1198 1230 1254 1282 1300 1319 1366 1375 1409 1417 1422 1450 1460 1469 1486 1559 1578 1589 1631 1656 1662 1669 1738 1750 1759 1922 1959 1975 2025 2053 2073 2090 2144 2149 2171 2186 2194 2266 2301 2310 2337 2416 2422 2451 2458 2467 2475 2485 2544 2551 2575 2622 2668 2674 2810 2919 2923 3003 3067 3093 3099 3178 3196 3262 3267 3282 3319 3324 3364 3381 3401 3418 3435 3448 3481 3485 3511 3522 3538 3550 3570 3580 3613 3625 3638 3667 3675 3695 3715 3756 3792 3831 3841 3847 3902 3911 3937 3953 4008 4017 4032 4090 4094 4111 4154 4179 4239 4251 4285 4290 4318 4328 4345 4376 4402 4408 4483 4544 4570 4594 4612 4623 4671 4685 4726 4812 4855 
+lines Visible_light.txt 6 1929 2927 3527 4339 4425 4554 
+correspond Visible_light.txt 1 2386 
+element Visible_light.txt 1 1333 
+asserts Visible_light.txt 1 3399 
+cherenkov Visible_light.txt 1 2032 
+produces Visible_light.txt 1 1927 
+move Visible_light.txt 2 353 964 
+purana Visible_light.txt 1 3214 
+mentioned Visible_light.txt 1 3124 
+1 Visible_light.txt 3 1544 1550 2234 
+longitudinal Visible_light.txt 1 4100 
+400700 Visible_light.txt 1 158 
+degrees Visible_light.txt 2 1703 1706 
+2018 Visible_light.txt 1 4841 
+refracting Visible_light.txt 1 1648 
+greater Visible_light.txt 1 3592 
+material Visible_light.txt 1 1496 
+front Visible_light.txt 2 2741 2756 
+rotation Visible_light.txt 5 1149 1189 2631 2661 4311 
+transparent Visible_light.txt 4 1285 1495 1553 4303 
+dielectric Visible_light.txt 1 4304 
+articles Visible_light.txt 1 2166 
+february Visible_light.txt 1 4840 
+university Visible_light.txt 1 1339 
+sufficiently Visible_light.txt 1 4197 
+magnitude Visible_light.txt 1 2479 
+references Visible_light.txt 1 4873 
+glasses Visible_light.txt 1 1642 
+nanometers Visible_light.txt 2 73 769 
+doing Visible_light.txt 1 2521 
+heated Visible_light.txt 1 1860 
+700 Visible_light.txt 1 72 
+related Visible_light.txt 2 4320 4585 
+frequency Visible_light.txt 5 184 314 1582 4588 4819 
+static Visible_light.txt 1 528 
+measure Visible_light.txt 4 977 987 1000 1249 
+out Visible_light.txt 8 1163 1205 1840 2845 2861 3109 3825 4026 
+ren Visible_light.txt 1 3277 
+impart Visible_light.txt 1 76 
+cause Visible_light.txt 2 661 2578 
+integrated Visible_light.txt 1 2564 
+red Visible_light.txt 3 58 1825 1862 
+completely Visible_light.txt 1 4802 
+interaction Visible_light.txt 2 1420 2890 
+determining Visible_light.txt 1 2361 
+could Visible_light.txt 19 2512 2874 3374 3552 3562 3572 3633 3639 3716 3813 3913 3986 4082 4180 4352 4549 4576 4651 4861 
+hence Visible_light.txt 1 2770 
+borealis Visible_light.txt 1 1441 
+reaches Visible_light.txt 1 1729 
+microscopes Visible_light.txt 1 1646 
+quality Visible_light.txt 1 1623 
+michelson Visible_light.txt 1 1223 
+ancient Visible_light.txt 2 253 3075 
+condensate Visible_light.txt 1 1330 
+vishnu Visible_light.txt 1 3213 
+fahrenheit Visible_light.txt 1 1707 
+their Visible_light.txt 6 279 1746 1776 2456 2585 4587 
+travelled Visible_light.txt 3 2924 3325 3523 
+behaved Visible_light.txt 3 3365 3938 4479 
+final Visible_light.txt 1 3596 
+x-rays Visible_light.txt 5 382 552 4643 4658 4769 
+vayu Visible_light.txt 1 3177 
+exactly Visible_light.txt 3 923 966 4480 
+chemicals Visible_light.txt 1 2035 
+manipulation Visible_light.txt 1 1655 
+kelvins Visible_light.txt 1 1701 
+theoria Visible_light.txt 1 3979 
+treatise Visible_light.txt 2 3839 4433 
+pointers Visible_light.txt 2 2519 2530 
+backwardacting Visible_light.txt 1 2749 
+flashes Visible_light.txt 1 3260 
+exhibit Visible_light.txt 1 3198 
+function Visible_light.txt 1 473 
+kepler Visible_light.txt 1 3308 
+have Visible_light.txt 6 566 572 656 974 1076 4775 
+need Visible_light.txt 1 4117 
+leonhard Visible_light.txt 1 3973 
+viewed Visible_light.txt 1 3266 
+complete Visible_light.txt 1 1322 
+angle Visible_light.txt 2 1508 1522 
+nanoelectromechanical Visible_light.txt 1 2538 
+able Visible_light.txt 3 821 1192 4074 
+accelerated Visible_light.txt 1 3581 
+mechanism Visible_light.txt 1 2120 
+polarization Visible_light.txt 5 319 3742 3757 3762 4006 
+which Visible_light.txt 30 126 218 624 679 716 740 1208 1740 2065 2278 2302 2398 2433 2649 2685 2859 2913 3014 3111 3449 3493 3539 4188 4351 4391 4438 4703 4711 4813 4856 
+starches Visible_light.txt 1 217 
+who Visible_light.txt 1 2991 
+propagate Visible_light.txt 1 4353 
+firelight Visible_light.txt 1 273 
+stronger Visible_light.txt 1 98 
+mechanical Visible_light.txt 3 3285 3393 3405 
+fact Visible_light.txt 4 802 945 1892 3713 
+rainbows Visible_light.txt 1 1437 
+supported Visible_light.txt 2 3898 4207 
+rotating Visible_light.txt 3 1114 1210 1246 
+bring Visible_light.txt 1 1318 
+propagates Visible_light.txt 1 398 
+supporter Visible_light.txt 1 3967 
+receptors Visible_light.txt 1 3962 
+should Visible_light.txt 1 2640 
+entities Visible_light.txt 1 3256 
+molecules Visible_light.txt 2 582 623 
+postulated Visible_light.txt 3 2824 2888 2921 
+emitting Visible_light.txt 1 1901 
+achieve Visible_light.txt 1 2365 
+quantum-absorption Visible_light.txt 1 702 
+al-haytham Visible_light.txt 1 3296 
+means Visible_light.txt 4 182 700 2056 3931 
+beam Visible_light.txt 10 51 1104 1125 1151 1557 1587 1612 2468 2948 2973 
+ones Visible_light.txt 1 2964 
+words Visible_light.txt 1 3646 
+following Visible_light.txt 1 2231 
+teams Visible_light.txt 1 1312 
+she Visible_light.txt 1 2852 
+fixed Visible_light.txt 1 932 
+cells Visible_light.txt 1 2269 
+view Visible_light.txt 1 3468 
+europe Visible_light.txt 1 1095 
+exerted Visible_light.txt 2 2708 2753 
+humans Visible_light.txt 4 248 649 758 836 
+intensity Visible_light.txt 4 311 2306 2343 4642 
+computer Visible_light.txt 1 2130 
+greece Visible_light.txt 1 2815 
+cyclotron Visible_light.txt 1 2003 
+luminous Visible_light.txt 3 2353 3289 3409 
+closes Visible_light.txt 1 2963 
+attempting Visible_light.txt 1 4561 
+tend Visible_light.txt 1 2407 
+neither Visible_light.txt 2 3680 4705 
+emitted Visible_light.txt 3 1691 3495 3849 
+physicist Visible_light.txt 1 1012 
+hypothesis Visible_light.txt 1 3479 
+problem Visible_light.txt 1 2984 
+empedocles Visible_light.txt 2 2823 2887 
+equal Visible_light.txt 3 2461 2714 4395 
+attributed Visible_light.txt 1 2620 
+etc Visible_light.txt 1 1956 
+harvard Visible_light.txt 1 1338 
+refraction Visible_light.txt 12 1451 1454 1458 1467 1481 1542 1620 3065 3317 3373 3575 4489 
+passing Visible_light.txt 2 1325 1489 
+ch Visible_light.txt 1 1899 
+m/s Visible_light.txt 5 925 1082 1201 1218 1277 
+denis Visible_light.txt 1 4044 
+table Visible_light.txt 2 2233 2238 
+hindu Visible_light.txt 1 3078 
+responds Visible_light.txt 1 2264 
+slowly Visible_light.txt 1 2091 
+hawking Visible_light.txt 1 3706 
+phosphorescent Visible_light.txt 1 2103 
+define Visible_light.txt 1 842 
+sufficient Visible_light.txt 1 2366 
+overturn Visible_light.txt 1 4064 
+298,000,000 Visible_light.txt 1 1217 
+laser Visible_light.txt 5 1396 1984 2496 2518 2529 
+abandoned Visible_light.txt 1 4218 
+value Visible_light.txt 2 933 1215 
+will Visible_light.txt 3 2695 2729 2799 
+lucretius Visible_light.txt 1 2988 
+happened Visible_light.txt 1 4392 
+thus Visible_light.txt 2 2510 2759 
+surface Visible_light.txt 7 1492 1514 1528 2734 2742 2747 2757 
+helped Visible_light.txt 1 3608 
+arrangements Visible_light.txt 1 3207 
+dual Visible_light.txt 1 476 
+radiation Visible_light.txt 31 21 110 346 369 395 521 526 729 963 1682 1690 1777 1917 2002 2004 2006 2009 2033 2038 2081 2097 2420 2683 2694 2728 2803 4232 4374 4414 4566 4779 
+highlighted Visible_light.txt 1 518 
+non-atomic Visible_light.txt 1 3153 
+units Visible_light.txt 9 941 1721 2162 2180 2223 2237 2245 2253 2319 
+finite Visible_light.txt 1 4583 
+absorb Visible_light.txt 1 1921 
+upon Visible_light.txt 2 3582 3879 
+effect Visible_light.txt 4 2483 2542 4306 4618 
+frequently Visible_light.txt 1 1627 
+off Visible_light.txt 1 3019 
+center Visible_light.txt 1 1355 
+colour Visible_light.txt 3 1835 1881 3956 
+obstacles Visible_light.txt 1 3520 
+well Visible_light.txt 2 2881 3300 
+antonio Visible_light.txt 1 1266 
+sets Visible_light.txt 2 2128 2178 
+1629-1695 Visible_light.txt 1 3823 
+sensing Visible_light.txt 1 704 
+bending Visible_light.txt 1 1484 
+less Visible_light.txt 3 70 1291 3334 
+accurate Visible_light.txt 2 1085 4198 
+obtain Visible_light.txt 1 1213 
+sources Visible_light.txt 5 841 1657 1663 1667 2299 
+stored Visible_light.txt 1 1377 
+macroscopic Visible_light.txt 3 4714 4741 4747 
+disturbance Visible_light.txt 1 4334 
+stephen Visible_light.txt 1 3705 
+mathematically Visible_light.txt 1 2938 
+other Visible_light.txt 8 23 1351 2140 3138 3645 3917 4262 4810 
+1660s Visible_light.txt 1 3455 
+increases Visible_light.txt 2 1815 2791 
+five Visible_light.txt 1 3104 
+denser Visible_light.txt 4 3329 3585 3882 4160 
+immediately Visible_light.txt 1 2960 
+like Visible_light.txt 9 390 1809 2360 3366 3918 4113 4481 4784 4793 
+exploiting Visible_light.txt 1 2550 
+loses Visible_light.txt 1 4803 
+lose Visible_light.txt 2 3020 4579 
+become Visible_light.txt 1 3649 
+because Visible_light.txt 5 651 760 1465 3396 3587 
+classical Visible_light.txt 7 2814 3072 4213 4529 4547 4786 4795 
+particle-theory Visible_light.txt 1 4656 
+phenomena Visible_light.txt 3 1434 3754 4715 
+growth Visible_light.txt 1 889 
+light-emitting Visible_light.txt 1 1942 
+shone Visible_light.txt 1 2860 
+vibrations Visible_light.txt 1 3812 
+assuming Visible_light.txt 2 3362 3578 
+locate Visible_light.txt 1 292 
+vaisheshika Visible_light.txt 2 3083 3141 
+slight Visible_light.txt 1 2651 
+pressure Visible_light.txt 15 2417 2421 2425 2459 2486 2545 2552 2576 2623 2669 2675 2697 2707 2752 2765 
+although Visible_light.txt 3 2611 3350 4569 
+5,730 Visible_light.txt 1 1702 
+about Visible_light.txt 11 883 1044 1304 1801 2502 2525 2809 2906 3063 3250 3354 
+carried Visible_light.txt 2 1204 2992 
+universe Visible_light.txt 1 3044 
+withdrew Visible_light.txt 1 3658 
+carries Visible_light.txt 1 594 
+massachusetts Visible_light.txt 1 1348 
+equally Visible_light.txt 1 2315 
+own Visible_light.txt 2 280 4028 
+previously Visible_light.txt 1 4398 
+tiny Visible_light.txt 1 717 
+additional Visible_light.txt 1 2158 
+1637 Visible_light.txt 1 3310 
+transfer Visible_light.txt 1 2455 
+quanta Visible_light.txt 7 84 432 603 4596 4613 4624 4672 
+synchrotron Visible_light.txt 1 2005 
+torch Visible_light.txt 1 1889 
+triangular Visible_light.txt 1 47 
+but Visible_light.txt 11 697 1580 1770 2440 2520 3395 3571 4659 4751 4791 4800 
+gain Visible_light.txt 1 4577 
+he Visible_light.txt 20 1039 1074 1238 2692 2837 2914 2929 2939 2953 3311 3358 3397 3475 3528 3844 3941 3975 4325 4415 4430 
+made Visible_light.txt 1 2841 
+whether Visible_light.txt 1 373 
+gravitational Visible_light.txt 1 3589 
+flip Visible_light.txt 1 2559 
+placed Visible_light.txt 1 1118 
+below Visible_light.txt 3 767 774 794 
+exerts Visible_light.txt 2 2423 2498 
+1746 Visible_light.txt 1 3983 
+minutes Visible_light.txt 1 1046 
+mechanics Visible_light.txt 1 4681 
+penny Visible_light.txt 1 2516 
+bombarding Visible_light.txt 1 2110 
+grosseteste Visible_light.txt 1 3306 
+et Visible_light.txt 1 3981 
+shooting Visible_light.txt 1 3024 
+compared Visible_light.txt 1 3788 
+44 Visible_light.txt 1 1724 
+book Visible_light.txt 1 3070 
+conclusion Visible_light.txt 1 3341 
+foucault Visible_light.txt 2 1203 4202 
+portion Visible_light.txt 1 114 

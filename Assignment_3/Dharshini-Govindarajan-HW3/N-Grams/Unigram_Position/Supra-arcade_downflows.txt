@@ -1,0 +1,363 @@
+decelerate Supra-arcade_downflows.txt 1 364 
+suns Supra-arcade_downflows.txt 2 43 612 
+magnetic Supra-arcade_downflows.txt 8 97 248 597 613 619 666 735 747 
+angstroms Supra-arcade_downflows.txt 1 448 
+prefix Supra-arcade_downflows.txt 1 65 
+19952016 Supra-arcade_downflows.txt 1 523 
+voids Supra-arcade_downflows.txt 3 36 120 226 
+causes Supra-arcade_downflows.txt 1 587 
+100200 Supra-arcade_downflows.txt 1 320 
+overlying Supra-arcade_downflows.txt 1 247 
+finger-like Supra-arcade_downflows.txt 1 118 
+to Supra-arcade_downflows.txt 22 57 169 187 208 223 260 300 369 390 408 446 452 456 556 593 631 688 696 699 746 761 787 
+rise Supra-arcade_downflows.txt 1 219 
+ultraviolet Supra-arcade_downflows.txt 1 435 
+fall Supra-arcade_downflows.txt 2 345 361 
+atmospheric Supra-arcade_downflows.txt 1 542 
+categories Supra-arcade_downflows.txt 2 817 819 
+large Supra-arcade_downflows.txt 1 573 
+this Supra-arcade_downflows.txt 2 636 756 
+downflows Supra-arcade_downflows.txt 7 1 31 70 363 464 690 701 
+framenote Supra-arcade_downflows.txt 1 19 
+smaller Supra-arcade_downflows.txt 1 770 
+195 Supra-arcade_downflows.txt 1 8 
+surrounding Supra-arcade_downflows.txt 2 384 621 
+perspective Supra-arcade_downflows.txt 2 279 297 
+dynamics Supra-arcade_downflows.txt 1 550 
+retracting Supra-arcade_downflows.txt 2 239 771 
+appear Supra-arcade_downflows.txt 2 71 374 
+while Supra-arcade_downflows.txt 2 291 386 
+current Supra-arcade_downflows.txt 1 645 
+above Supra-arcade_downflows.txt 5 72 131 204 322 710 
+can Supra-arcade_downflows.txt 1 14 
+respectively Supra-arcade_downflows.txt 1 686 
+reported Supra-arcade_downflows.txt 1 142 
+active Supra-arcade_downflows.txt 1 725 
+i.e Supra-arcade_downflows.txt 1 287 
+along Supra-arcade_downflows.txt 1 281 
+arch Supra-arcade_downflows.txt 1 290 
+extreme Supra-arcade_downflows.txt 1 434 
+k Supra-arcade_downflows.txt 2 392 458 
+stressed Supra-arcade_downflows.txt 1 629 
+studies Supra-arcade_downflows.txt 1 526 
+followed Supra-arcade_downflows.txt 1 496 
+visible Supra-arcade_downflows.txt 1 211 
+kelvin-helmholtz Supra-arcade_downflows.txt 1 810 
+from Supra-arcade_downflows.txt 9 268 397 404 497 532 625 672 682 794 
+remains Supra-arcade_downflows.txt 1 108 
+physics Supra-arcade_downflows.txt 1 53 
+properties Supra-arcade_downflows.txt 1 315 
+few Supra-arcade_downflows.txt 2 340 406 
+themselves Supra-arcade_downflows.txt 1 782 
+reconnection Supra-arcade_downflows.txt 7 98 598 615 674 700 754 788 
+more Supra-arcade_downflows.txt 1 524 
+comparison Supra-arcade_downflows.txt 1 413 
+occurred Supra-arcade_downflows.txt 1 152 
+tandem Supra-arcade_downflows.txt 1 652 
+known Supra-arcade_downflows.txt 1 231 
+tearing Supra-arcade_downflows.txt 1 807 
+producing Supra-arcade_downflows.txt 1 676 
+sunward-traveling Supra-arcade_downflows.txt 1 34 
+viewed Supra-arcade_downflows.txt 1 267 
+mm Supra-arcade_downflows.txt 2 321 328 
+temperatures Supra-arcade_downflows.txt 1 388 
+non-potential Supra-arcade_downflows.txt 1 628 
+believed Supra-arcade_downflows.txt 1 695 
+links Supra-arcade_downflows.txt 1 815 
+0.1 Supra-arcade_downflows.txt 1 368 
+indicates Supra-arcade_downflows.txt 1 67 
+arise Supra-arcade_downflows.txt 1 793 
+axis Supra-arcade_downflows.txt 2 283 303 
+reconfigures Supra-arcade_downflows.txt 1 616 
+how Supra-arcade_downflows.txt 1 715 
+hot Supra-arcade_downflows.txt 2 128 705 
+occasionally Supra-arcade_downflows.txt 1 354 
+instead Supra-arcade_downflows.txt 1 766 
+coronagraph Supra-arcade_downflows.txt 1 577 
+tension Supra-arcade_downflows.txt 1 748 
+explorer Supra-arcade_downflows.txt 1 503 
+may Supra-arcade_downflows.txt 2 353 562 
+after Supra-arcade_downflows.txt 2 338 749 
+such Supra-arcade_downflows.txt 3 271 570 797 
+data Supra-arcade_downflows.txt 1 531 
+a Supra-arcade_downflows.txt 10 58 144 339 405 440 626 632 644 654 803 
+light Supra-arcade_downflows.txt 1 568 
+lines Supra-arcade_downflows.txt 1 668 
+corona Supra-arcade_downflows.txt 1 47 
+rather Supra-arcade_downflows.txt 1 774 
+so Supra-arcade_downflows.txt 1 473 
+1000 Supra-arcade_downflows.txt 1 356 
+interpretation Supra-arcade_downflows.txt 1 757 
+move Supra-arcade_downflows.txt 1 465 
+byproducts Supra-arcade_downflows.txt 2 94 595 
+interpreted Supra-arcade_downflows.txt 1 730 
+131 Supra-arcade_downflows.txt 1 309 
+through Supra-arcade_downflows.txt 3 126 288 461 
+supra Supra-arcade_downflows.txt 1 66 
+during Supra-arcade_downflows.txt 4 48 136 217 252 
+before Supra-arcade_downflows.txt 1 329 
+outer Supra-arcade_downflows.txt 1 44 
+21 Supra-arcade_downflows.txt 1 12 
+decay Supra-arcade_downflows.txt 1 194 
+hidden Supra-arcade_downflows.txt 1 818 
+euv Supra-arcade_downflows.txt 3 436 507 557 
+2011 Supra-arcade_downflows.txt 1 311 
+combination Supra-arcade_downflows.txt 1 804 
+100,000 Supra-arcade_downflows.txt 2 389 455 
+2010present Supra-arcade_downflows.txt 1 553 
+they Supra-arcade_downflows.txt 6 75 139 185 213 360 377 
+downflowing Supra-arcade_downflows.txt 1 234 
+not Supra-arcade_downflows.txt 1 394 
+viewers Supra-arcade_downflows.txt 1 278 
+easily Supra-arcade_downflows.txt 1 190 
+coronagraphs Supra-arcade_downflows.txt 1 569 
+edit Supra-arcade_downflows.txt 7 112 114 316 425 588 813 816 
+january Supra-arcade_downflows.txt 1 154 
+identified Supra-arcade_downflows.txt 1 179 
+mode Supra-arcade_downflows.txt 1 808 
+instabilities Supra-arcade_downflows.txt 1 811 
+instability Supra-arcade_downflows.txt 2 796 801 
+reconfigured Supra-arcade_downflows.txt 2 251 663 
+referred Supra-arcade_downflows.txt 2 168 687 
+preceded Supra-arcade_downflows.txt 1 648 
+telescope Supra-arcade_downflows.txt 3 85 489 535 
+energy Supra-arcade_downflows.txt 1 608 
+revised Supra-arcade_downflows.txt 1 760 
+related Supra-arcade_downflows.txt 3 229 698 786 
+loops Supra-arcade_downflows.txt 5 62 235 242 741 772 
+wavelength Supra-arcade_downflows.txt 1 441 
+description Supra-arcade_downflows.txt 1 113 
+high-temperature Supra-arcade_downflows.txt 1 454 
+space Supra-arcade_downflows.txt 1 478 
+since Supra-arcade_downflows.txt 1 177 
+research Supra-arcade_downflows.txt 1 726 
+newly Supra-arcade_downflows.txt 1 664 
+cause Supra-arcade_downflows.txt 1 107 
+earlier Supra-arcade_downflows.txt 1 216 
+2050 Supra-arcade_downflows.txt 1 327 
+million Supra-arcade_downflows.txt 3 407 410 422 
+possibility Supra-arcade_downflows.txt 1 784 
+lasco Supra-arcade_downflows.txt 1 578 
+imaging Supra-arcade_downflows.txt 2 508 543 
+tadpoles Supra-arcade_downflows.txt 2 22 171 
+telescopes Supra-arcade_downflows.txt 1 437 
+2006present Supra-arcade_downflows.txt 1 539 
+e.g Supra-arcade_downflows.txt 1 184 
+flare Supra-arcade_downflows.txt 8 4 73 145 206 254 336 623 711 
+transition Supra-arcade_downflows.txt 1 499 
+speeds Supra-arcade_downflows.txt 1 343 
+first Supra-arcade_downflows.txt 4 77 141 481 729 
+perturb Supra-arcade_downflows.txt 1 703 
+another Supra-arcade_downflows.txt 1 783 
+precisely Supra-arcade_downflows.txt 1 714 
+earths Supra-arcade_downflows.txt 1 471 
+differ Supra-arcade_downflows.txt 1 395 
+sheet Supra-arcade_downflows.txt 1 646 
+unknown Supra-arcade_downflows.txt 1 109 
+top Supra-arcade_downflows.txt 1 333 
+sadls Supra-arcade_downflows.txt 5 236 237 257 273 773 
+their Supra-arcade_downflows.txt 5 105 173 387 398 400 
+1500 Supra-arcade_downflows.txt 1 447 
+2 Supra-arcade_downflows.txt 2 313 370 
+rates Supra-arcade_downflows.txt 1 366 
+observations Supra-arcade_downflows.txt 4 111 474 494 583 
+white Supra-arcade_downflows.txt 1 567 
+structures Supra-arcade_downflows.txt 1 230 
+1999 Supra-arcade_downflows.txt 2 80 156 
+that Supra-arcade_downflows.txt 14 37 68 100 121 151 243 272 438 602 702 708 742 763 791 
+than Supra-arcade_downflows.txt 2 382 775 
+observed Supra-arcade_downflows.txt 9 5 40 124 159 191 275 294 305 429 
+observatory Supra-arcade_downflows.txt 2 521 551 
+sections Supra-arcade_downflows.txt 2 733 777 
+soon Supra-arcade_downflows.txt 1 495 
+were Supra-arcade_downflows.txt 3 76 140 728 
+toward Supra-arcade_downflows.txt 2 24 679 
+and Supra-arcade_downflows.txt 19 63 146 157 175 256 325 348 433 449 501 510 519 540 558 575 680 691 720 809 
+wakes Supra-arcade_downflows.txt 1 767 
+sad Supra-arcade_downflows.txt 1 225 
+have Supra-arcade_downflows.txt 2 176 529 
+seen Supra-arcade_downflows.txt 2 16 565 
+contents Supra-arcade_downflows.txt 1 110 
+instrumentation Supra-arcade_downflows.txt 1 424 
+angle Supra-arcade_downflows.txt 1 574 
+flares Supra-arcade_downflows.txt 5 50 103 138 198 605 
+potential Supra-arcade_downflows.txt 1 634 
+which Supra-arcade_downflows.txt 2 462 738 
+photosphere Supra-arcade_downflows.txt 1 324 
+xrt Supra-arcade_downflows.txt 1 536 
+begin Supra-arcade_downflows.txt 2 215 319 
+trace Supra-arcade_downflows.txt 2 7 504 
+though Supra-arcade_downflows.txt 1 581 
+most Supra-arcade_downflows.txt 1 189 
+70 Supra-arcade_downflows.txt 1 409 
+phase Supra-arcade_downflows.txt 1 220 
+later Supra-arcade_downflows.txt 1 759 
+cover Supra-arcade_downflows.txt 1 439 
+km Supra-arcade_downflows.txt 5 350 357 371 411 423 
+soho Supra-arcade_downflows.txt 2 522 580 
+tubes Supra-arcade_downflows.txt 2 737 781 
+precise Supra-arcade_downflows.txt 1 106 
+atmosphere Supra-arcade_downflows.txt 2 45 472 
+bright Supra-arcade_downflows.txt 2 26 132 
+behind Supra-arcade_downflows.txt 1 768 
+surroundings Supra-arcade_downflows.txt 1 399 
+local Supra-arcade_downflows.txt 1 618 
+oct Supra-arcade_downflows.txt 1 312 
+do Supra-arcade_downflows.txt 2 214 393 
+10 Supra-arcade_downflows.txt 1 445 
+facilitated Supra-arcade_downflows.txt 1 639 
+upflows Supra-arcade_downflows.txt 1 692 
+onboard Supra-arcade_downflows.txt 4 163 491 537 579 
+areas Supra-arcade_downflows.txt 1 402 
+common Supra-arcade_downflows.txt 1 586 
+swept Supra-arcade_downflows.txt 1 670 
+19982010 Supra-arcade_downflows.txt 1 505 
+detection Supra-arcade_downflows.txt 1 482 
+19912001 Supra-arcade_downflows.txt 1 493 
+are Supra-arcade_downflows.txt 21 33 38 93 116 122 166 228 238 258 274 293 378 427 450 468 475 584 590 669 694 765 
+collects Supra-arcade_downflows.txt 1 709 
+phases Supra-arcade_downflows.txt 1 195 
+away Supra-arcade_downflows.txt 2 671 681 
+wikipedia Supra-arcade_downflows.txt 1 2 
+tend Supra-arcade_downflows.txt 1 186 
+state Supra-arcade_downflows.txt 2 630 635 
+between Supra-arcade_downflows.txt 1 346 
+blocked Supra-arcade_downflows.txt 1 469 
+approach Supra-arcade_downflows.txt 1 355 
+recently Supra-arcade_downflows.txt 1 525 
+spectroscopic Supra-arcade_downflows.txt 1 512 
+20 Supra-arcade_downflows.txt 1 155 
+both Supra-arcade_downflows.txt 1 678 
+higher-energy Supra-arcade_downflows.txt 1 627 
+outflows Supra-arcade_downflows.txt 2 677 789 
+many Supra-arcade_downflows.txt 1 181 
+region Supra-arcade_downflows.txt 1 500 
+april Supra-arcade_downflows.txt 1 11 
+s Supra-arcade_downflows.txt 3 351 358 372 
+manifestations Supra-arcade_downflows.txt 1 262 
+hinode Supra-arcade_downflows.txt 1 538 
+cross-sectional Supra-arcade_downflows.txt 2 401 415 
+arcades Supra-arcade_downflows.txt 3 74 135 712 
+dissipating Supra-arcade_downflows.txt 1 330 
+observatories Supra-arcade_downflows.txt 1 479 
+described Supra-arcade_downflows.txt 1 78 
+addition Supra-arcade_downflows.txt 2 222 555 
+due Supra-arcade_downflows.txt 1 745 
+been Supra-arcade_downflows.txt 1 178 
+much Supra-arcade_downflows.txt 1 769 
+basic Supra-arcade_downflows.txt 1 314 
+500 Supra-arcade_downflows.txt 1 349 
+yohkoh Supra-arcade_downflows.txt 3 90 164 492 
+sufficient Supra-arcade_downflows.txt 1 200 
+releasing Supra-arcade_downflows.txt 1 607 
+external Supra-arcade_downflows.txt 1 814 
+angles Supra-arcade_downflows.txt 1 270 
+uncertain Supra-arcade_downflows.txt 1 719 
+these Supra-arcade_downflows.txt 2 466 582 
+ejection Supra-arcade_downflows.txt 2 150 657 
+near Supra-arcade_downflows.txt 1 331 
+sunward Supra-arcade_downflows.txt 1 342 
+aia Supra-arcade_downflows.txt 2 308 545 
+loop Supra-arcade_downflows.txt 2 28 134 
+is Supra-arcade_downflows.txt 9 250 280 298 420 638 661 718 721 790 
+site Supra-arcade_downflows.txt 3 624 675 755 
+surface Supra-arcade_downflows.txt 1 685 
+in Supra-arcade_downflows.txt 9 41 51 79 180 192 221 554 610 651 
+spectrometric Supra-arcade_downflows.txt 1 576 
+if Supra-arcade_downflows.txt 2 276 295 
+different Supra-arcade_downflows.txt 1 269 
+sensitive Supra-arcade_downflows.txt 1 451 
+suggest Supra-arcade_downflows.txt 1 762 
+make Supra-arcade_downflows.txt 1 209 
+cross Supra-arcade_downflows.txt 2 732 776 
+same Supra-arcade_downflows.txt 1 265 
+heliospheric Supra-arcade_downflows.txt 1 520 
+descend Supra-arcade_downflows.txt 1 326 
+widely Supra-arcade_downflows.txt 1 591 
+events Supra-arcade_downflows.txt 1 183 
+development Supra-arcade_downflows.txt 1 642 
+satellite Supra-arcade_downflows.txt 2 91 509 
+used Supra-arcade_downflows.txt 1 530 
+drives Supra-arcade_downflows.txt 2 101 603 
+sads Supra-arcade_downflows.txt 20 13 32 92 115 165 210 255 292 304 317 373 426 528 561 589 693 716 727 764 792 
+center Supra-arcade_downflows.txt 1 18 
+roughly Supra-arcade_downflows.txt 1 444 
+thought Supra-arcade_downflows.txt 1 259 
+the Supra-arcade_downflows.txt 54 20 25 42 64 69 82 89 96 127 161 193 205 218 224 246 253 264 277 282 285 289 296 301 323 332 335 362 383 414 418 453 463 480 486 498 511 517 533 541 548 572 599 611 617 622 641 659 673 683 704 753 779 799 806 
+comprise Supra-arcade_downflows.txt 1 739 
+less Supra-arcade_downflows.txt 2 380 585 
+being Supra-arcade_downflows.txt 2 662 750 
+when Supra-arcade_downflows.txt 1 199 
+shape Supra-arcade_downflows.txt 1 174 
+stored Supra-arcade_downflows.txt 1 609 
+also Supra-arcade_downflows.txt 2 563 785 
+instrument Supra-arcade_downflows.txt 1 514 
+board Supra-arcade_downflows.txt 3 88 516 547 
+has Supra-arcade_downflows.txt 1 202 
+plasma Supra-arcade_downflows.txt 7 35 119 130 201 385 460 707 
+dark Supra-arcade_downflows.txt 3 21 117 375 
+descending Supra-arcade_downflows.txt 2 23 125 
+using Supra-arcade_downflows.txt 3 81 430 477 
+accepted Supra-arcade_downflows.txt 1 592 
+50 Supra-arcade_downflows.txt 1 347 
+flux Supra-arcade_downflows.txt 2 736 780 
+soft Supra-arcade_downflows.txt 3 83 431 487 
+because Supra-arcade_downflows.txt 1 376 
+often Supra-arcade_downflows.txt 1 647 
+10,000,000 Supra-arcade_downflows.txt 2 391 457 
+dense Supra-arcade_downflows.txt 3 129 381 706 
+for Supra-arcade_downflows.txt 3 143 172 412 
+moon Supra-arcade_downflows.txt 1 419 
+be Supra-arcade_downflows.txt 6 15 188 261 564 594 697 
+process Supra-arcade_downflows.txt 4 99 266 601 637 
+assembly Supra-arcade_downflows.txt 1 544 
+perpendicular Supra-arcade_downflows.txt 1 299 
+refers Supra-arcade_downflows.txt 1 56 
+by Supra-arcade_downflows.txt 9 6 160 306 470 485 566 606 640 649 
+on Supra-arcade_downflows.txt 7 9 87 153 310 515 527 546 
+of Supra-arcade_downflows.txt 15 60 95 196 263 284 334 367 417 443 596 643 724 734 778 805 
+sumer Supra-arcade_downflows.txt 1 513 
+range Supra-arcade_downflows.txt 2 403 442 
+or Supra-arcade_downflows.txt 3 46 650 802 
+instruments Supra-arcade_downflows.txt 1 560 
+down Supra-arcade_downflows.txt 1 744 
+references Supra-arcade_downflows.txt 1 812 
+accumulated Supra-arcade_downflows.txt 1 203 
+shrinking Supra-arcade_downflows.txt 1 240 
+significantly Supra-arcade_downflows.txt 1 396 
+arcade Supra-arcade_downflows.txt 6 29 55 207 286 302 337 
+area Supra-arcade_downflows.txt 2 416 723 
+there Supra-arcade_downflows.txt 1 227 
+long-duration Supra-arcade_downflows.txt 1 197 
+9.5 Supra-arcade_downflows.txt 1 421 
+was Supra-arcade_downflows.txt 3 158 483 758 
+considerably Supra-arcade_downflows.txt 1 379 
+form Supra-arcade_downflows.txt 2 244 717 
+rayleigh-taylor Supra-arcade_downflows.txt 1 800 
+but Supra-arcade_downflows.txt 4 104 212 352 713 
+solar Supra-arcade_downflows.txt 9 3 49 52 102 137 518 549 604 684 
+sdo Supra-arcade_downflows.txt 2 307 552 
+with Supra-arcade_downflows.txt 1 653 
+made Supra-arcade_downflows.txt 2 476 484 
+lower-energy Supra-arcade_downflows.txt 1 633 
+emissions Supra-arcade_downflows.txt 1 467 
+minutes Supra-arcade_downflows.txt 1 341 
+x-ray Supra-arcade_downflows.txt 5 84 432 488 534 559 
+sometimes Supra-arcade_downflows.txt 3 39 123 167 
+associated Supra-arcade_downflows.txt 1 147 
+an Supra-arcade_downflows.txt 4 54 506 722 795 
+as Supra-arcade_downflows.txt 9 170 232 245 359 571 658 689 731 798 
+sxt Supra-arcade_downflows.txt 3 86 162 490 
+at Supra-arcade_downflows.txt 3 17 365 752 
+physical Supra-arcade_downflows.txt 1 600 
+generally Supra-arcade_downflows.txt 1 344 
+field Supra-arcade_downflows.txt 5 249 614 620 660 667 
+other Supra-arcade_downflows.txt 1 182 
+retract Supra-arcade_downflows.txt 1 743 
+formed Supra-arcade_downflows.txt 2 665 751 
+bundle Supra-arcade_downflows.txt 1 59 
+supra-arcade Supra-arcade_downflows.txt 3 0 30 233 
+coronal Supra-arcade_downflows.txt 9 27 61 133 148 241 459 502 655 740 
+typically Supra-arcade_downflows.txt 2 318 428 
+2002 Supra-arcade_downflows.txt 1 10 
+mass Supra-arcade_downflows.txt 2 149 656 

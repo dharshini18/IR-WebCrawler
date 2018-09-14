@@ -1,0 +1,903 @@
+limited Cyclotron.txt 3 1160 1367 2489 
+all Cyclotron.txt 1 1930 
+concept Cyclotron.txt 3 324 420 440 
+superman Cyclotron.txt 3 2915 2926 2941 
+0 Cyclotron.txt 2 2688 2692 
+magnetic Cyclotron.txt 20 153 805 814 857 909 1235 1301 1363 1526 1566 1673 1726 1981 2354 2452 2584 2607 2726 2792 2876 
+saves Cyclotron.txt 1 2278 
+results Cyclotron.txt 2 1821 2012 
+yellow Cyclotron.txt 1 113 
+existing Cyclotron.txt 1 1115 
+leads Cyclotron.txt 1 1532 
+facilities Cyclotron.txt 1 2989 
+per Cyclotron.txt 1 2636 
+research Cyclotron.txt 1 2010 
+causes Cyclotron.txt 2 816 982 
+polarity Cyclotron.txt 1 942 
+depend Cyclotron.txt 1 1454 
+tv Cyclotron.txt 1 2954 
+1943 Cyclotron.txt 1 589 
+1940 Cyclotron.txt 1 221 
+flash Cyclotron.txt 2 2957 2975 
+1946 Cyclotron.txt 2 223 1403 
+1945 Cyclotron.txt 2 507 2923 
+to Cyclotron.txt 72 54 146 199 237 316 619 652 761 778 809 820 826 831 893 936 960 971 979 984 1006 1062 1080 1151 1164 1251 1269 1347 1368 1482 1498 1515 1519 1524 1533 1602 1612 1622 1634 1707 1716 1756 1813 1816 1873 1956 2062 2076 2089 2100 2104 2129 2132 2144 2206 2224 2287 2438 2447 2478 2578 2614 2633 2678 2689 2693 2728 2822 2865 2894 2918 2947 2967 
+charge Cyclotron.txt 2 916 1307 
+compensate Cyclotron.txt 1 1603 
+outwards Cyclotron.txt 1 134 
+under Cyclotron.txt 2 572 852 
+betatron Cyclotron.txt 1 439 
+alternating Cyclotron.txt 3 738 864 1898 
+case Cyclotron.txt 2 1836 1845 
+shielding Cyclotron.txt 1 2266 
+advantage Cyclotron.txt 3 1108 2521 2738 
+very Cyclotron.txt 1 1393 
+misunderstanding Cyclotron.txt 1 332 
+induce Cyclotron.txt 1 1708 
+klystron Cyclotron.txt 1 2512 
+electron Cyclotron.txt 2 1661 1693 
+synchrocyclotron Cyclotron.txt 10 218 506 1404 1521 1580 1584 1586 1636 1718 2841 
+every Cyclotron.txt 1 1878 
+em Cyclotron.txt 1 2730 
+encounter Cyclotron.txt 1 1176 
+prize Cyclotron.txt 3 72 171 513 
+exits Cyclotron.txt 1 1029 
+did Cyclotron.txt 1 402 
+solution Cyclotron.txt 1 1787 
+culminating Cyclotron.txt 1 1400 
+magnet Cyclotron.txt 7 12 78 110 711 1442 1861 2661 
+linacs Cyclotron.txt 1 2237 
+offering Cyclotron.txt 1 2524 
+enclosing Cyclotron.txt 1 2269 
+aachen Cyclotron.txt 1 295 
+relation Cyclotron.txt 1 1824 
+inserting Cyclotron.txt 1 2750 
+smaller Cyclotron.txt 2 606 1975 
+force Cyclotron.txt 4 829 1267 1292 1298 
+core Cyclotron.txt 1 2341 
+discover Cyclotron.txt 1 55 
+translating Cyclotron.txt 1 408 
+surrounding Cyclotron.txt 1 2176 
+likely Cyclotron.txt 1 2166 
+invention Cyclotron.txt 1 176 
+design Cyclotron.txt 1 1112 
+enclosed Cyclotron.txt 1 691 
+pass Cyclotron.txt 1 935 
+further Cyclotron.txt 1 2981 
+machines Cyclotron.txt 3 1135 2498 2534 
+blue Cyclotron.txt 1 2180 
+chalk Cyclotron.txt 1 2148 
+material Cyclotron.txt 1 2041 
+apparatus Cyclotron.txt 1 340 
+short-lived Cyclotron.txt 1 2106 
+uniform Cyclotron.txt 1 622 
+current Cyclotron.txt 2 1681 1745 
+poles Cyclotron.txt 5 13 89 707 796 2370 
+goes Cyclotron.txt 1 2686 
+net Cyclotron.txt 1 1903 
+increasing Cyclotron.txt 1 976 
+contrast Cyclotron.txt 3 1173 1497 1621 
+thin Cyclotron.txt 1 2751 
+body Cyclotron.txt 1 2079 
+8,300 Cyclotron.txt 1 2603 
+notable Cyclotron.txt 1 2538 
+spacing Cyclotron.txt 1 2023 
+french Cyclotron.txt 1 1421 
+leo Cyclotron.txt 1 350 
+cylindrical Cyclotron.txt 3 771 2344 2786 
+operating Cyclotron.txt 1 2468 
+space-effective Cyclotron.txt 1 2204 
+lev Cyclotron.txt 1 552 
+berkeley Cyclotron.txt 4 30 232 378 451 
+lex Cyclotron.txt 1 2942 
+path Cyclotron.txt 11 141 819 848 1001 1185 1275 1290 1325 2094 2373 2816 
+along Cyclotron.txt 3 138 434 2092 
+invented Cyclotron.txt 2 122 2199 
+earthquake Cyclotron.txt 1 2950 
+co-student Cyclotron.txt 1 305 
+covers Cyclotron.txt 1 2609 
+houses Cyclotron.txt 1 2649 
+linac Cyclotron.txt 3 425 2191 2245 
+leaves Cyclotron.txt 1 1054 
+larger Cyclotron.txt 5 988 2497 2537 2832 2843 
+37 Cyclotron.txt 1 482 
+united Cyclotron.txt 1 2904 
+gyroradius Cyclotron.txt 2 1558 1804 
+chemical Cyclotron.txt 1 2034 
+widere Cyclotron.txt 1 428 
+complicated Cyclotron.txt 1 315 
+narrow Cyclotron.txt 2 702 765 
+diameter Cyclotron.txt 6 21 1239 1386 1416 2572 2657 
+imparts Cyclotron.txt 1 2854 
+requiring Cyclotron.txt 1 1512 
+triumf Cyclotron.txt 5 250 1937 2640 2684 2758 
+increased Cyclotron.txt 2 2449 2886 
+order Cyclotron.txt 1 2893 
+visible Cyclotron.txt 1 659 
+defense Cyclotron.txt 1 2908 
+decrease Cyclotron.txt 1 1477 
+frame Cyclotron.txt 1 2337 
+outer Cyclotron.txt 1 1946 
+total Cyclotron.txt 1 2597 
+multimagnet Cyclotron.txt 1 249 
+obscurely Cyclotron.txt 1 1912 
+use Cyclotron.txt 3 1933 2005 2847 
+from Cyclotron.txt 14 135 335 384 582 666 682 956 1003 1440 2067 2302 2610 2687 2931 
+stream Cyclotron.txt 1 2291 
+working Cyclotron.txt 3 355 412 433 
+345 Cyclotron.txt 1 2634 
+recalling Cyclotron.txt 1 1801 
+two Cyclotron.txt 5 657 706 744 1334 1689 
+gentner Cyclotron.txt 1 579 
+by Cyclotron.txt 30 123 150 157 192 224 303 347 368 391 426 536 548 561 655 1142 1161 1211 1295 1384 1571 1795 1857 2083 2239 2457 2490 2504 2749 2761 2962 
+few Cyclotron.txt 2 1166 2440 
+tm Cyclotron.txt 1 2595 
+telegraph Cyclotron.txt 1 394 
+magnetron Cyclotron.txt 1 2799 
+type Cyclotron.txt 3 118 1355 2008 
+until Cyclotron.txt 1 185 
+more Cyclotron.txt 4 2114 2201 2507 2525 
+separated Cyclotron.txt 1 2564 
+flat Cyclotron.txt 2 84 694 
+compensated Cyclotron.txt 1 1856 
+weight Cyclotron.txt 1 2598 
+ejected Cyclotron.txt 1 723 
+becomes Cyclotron.txt 1 2412 
+company Cyclotron.txt 1 395 
+factor Cyclotron.txt 1 1819 
+berlin Cyclotron.txt 1 360 
+5.11 Cyclotron.txt 1 1678 
+varying Cyclotron.txt 2 160 1783 
+known Cyclotron.txt 1 1913 
+foundations Cyclotron.txt 1 2264 
+pieces Cyclotron.txt 4 603 1391 1408 2462 
+producing Cyclotron.txt 2 1741 2803 
+94 Cyclotron.txt 2 480 2672 
+must Cyclotron.txt 3 611 898 1480 
+obeying Cyclotron.txt 1 2394 
+canadas Cyclotron.txt 2 2147 2641 
+813 Cyclotron.txt 1 2690 
+this Cyclotron.txt 17 175 517 540 788 895 1291 1499 1618 1772 1786 1820 1844 1851 1870 1895 2007 2722 
+work Cyclotron.txt 2 406 518 
+protons Cyclotron.txt 5 236 267 1953 2167 2721 
+modified Cyclotron.txt 1 2456 
+bombarded Cyclotron.txt 1 2927 
+tissue Cyclotron.txt 1 2091 
+foils Cyclotron.txt 1 2754 
+can Cyclotron.txt 11 263 1196 1247 1540 1552 1811 2056 2069 2097 2378 2746 
+v Cyclotron.txt 2 642 1574 
+ernest Cyclotron.txt 3 124 369 2316 
+dee Cyclotron.txt 3 939 958 2361 
+history Cyclotron.txt 1 283 
+point Cyclotron.txt 1 1046 
+ions Cyclotron.txt 4 2165 2581 2632 2718 
+pushes Cyclotron.txt 1 981 
+give Cyclotron.txt 1 2043 
+calculation Cyclotron.txt 1 2015 
+relativistic Cyclotron.txt 9 924 1417 1509 1538 1546 1605 1803 1807 2406 
+bothe Cyclotron.txt 1 576 
+high Cyclotron.txt 5 736 2227 2311 2576 2804 
+collision Cyclotron.txt 1 2031 
+lorentz Cyclotron.txt 3 828 1297 1818 
+bend Cyclotron.txt 1 821 
+keep Cyclotron.txt 3 1270 1763 2895 
+hydrogen Cyclotron.txt 1 2717 
+huge Cyclotron.txt 1 77 
+curving Cyclotron.txt 1 2335 
+varied Cyclotron.txt 1 1601 
+rather Cyclotron.txt 3 1732 1885 2719 
+travel Cyclotron.txt 1 844 
+six Cyclotron.txt 1 2563 
+damage Cyclotron.txt 2 2085 2088 
+machine Cyclotron.txt 5 477 486 496 1157 2172 
+how Cyclotron.txt 1 596 
+numerous Cyclotron.txt 1 2849 
+vancouver Cyclotron.txt 1 259 
+circular Cyclotron.txt 1 847 
+de Cyclotron.txt 1 1128 
+ft Cyclotron.txt 1 248 
+may Cyclotron.txt 4 1069 1088 2042 2454 
+max Cyclotron.txt 1 320 
+after Cyclotron.txt 1 932 
+high-energy Cyclotron.txt 1 1994 
+multi-beams Cyclotron.txt 1 2745 
+diagram Cyclotron.txt 2 594 678 
+1950 Cyclotron.txt 1 2935 
+produce Cyclotron.txt 5 200 264 2105 2133 2288 
+510 Cyclotron.txt 1 1957 
+such Cyclotron.txt 4 1121 2019 2242 2262 
+transuranic Cyclotron.txt 1 61 
+types Cyclotron.txt 1 1894 
+5.5 Cyclotron.txt 1 2615 
+a Cyclotron.txt 81 102 114 117 129 139 147 151 158 304 331 396 422 454 470 479 489 501 566 597 621 693 701 709 714 719 725 727 730 735 753 764 770 798 803 823 846 860 887 987 999 1017 1021 1033 1040 1064 1165 1353 1420 1488 1560 1564 1585 1588 1672 1677 1725 1758 1902 1979 2137 2179 2273 2289 2303 2307 2439 2470 2590 2663 2669 2682 2712 2724 2762 2785 2790 2800 2815 2826 2932 2945 
+retrofitted Cyclotron.txt 1 2128 
+accelerates Cyclotron.txt 2 131 729 
+sectors Cyclotron.txt 1 2566 
+multi-energy Cyclotron.txt 1 2744 
+light Cyclotron.txt 5 1259 1507 1617 1966 2446 
+approximation Cyclotron.txt 2 1449 1500 
+lines Cyclotron.txt 1 436 
+yielding Cyclotron.txt 1 2589 
+supervision Cyclotron.txt 1 573 
+q Cyclotron.txt 1 912 
+provide Cyclotron.txt 1 1757 
+accelerated Cyclotron.txt 9 156 717 1140 1189 1210 1875 2164 2390 2630 
+so Cyclotron.txt 13 879 994 1027 1145 1187 1192 1336 1392 1665 1695 2297 2829 2858 
+pulled Cyclotron.txt 1 2920 
+make Cyclotron.txt 1 883 
+3/4 Cyclotron.txt 1 1961 
+pulsed Cyclotron.txt 1 2471 
+produces Cyclotron.txt 1 2662 
+developed Cyclotron.txt 3 322 365 500 
+over Cyclotron.txt 3 268 1113 2187 
+move Cyclotron.txt 3 779 985 997 
+vary Cyclotron.txt 1 1864 
+installed Cyclotron.txt 3 557 699 2119 
+produced Cyclotron.txt 1 1423 
+held Cyclotron.txt 2 145 1630 
+experiments Cyclotron.txt 1 1999 
+through Cyclotron.txt 4 724 1032 1057 2814 
+penetrate Cyclotron.txt 1 2077 
+mentioned Cyclotron.txt 1 1939 
+japan Cyclotron.txt 1 2553 
+beam.the Cyclotron.txt 1 2683 
+still Cyclotron.txt 2 197 2003 
+its Cyclotron.txt 5 88 1282 1473 2582 2707 
+operative Cyclotron.txt 2 560 587 
+before Cyclotron.txt 1 1916 
+1 Cyclotron.txt 2 1670 1697 
+27 Cyclotron.txt 4 473 630 648 2326 
+rapidly Cyclotron.txt 1 159 
+located Cyclotron.txt 3 793 1042 2770 
+facility Cyclotron.txt 1 2150 
+complex Cyclotron.txt 1 2508 
+actually Cyclotron.txt 1 612 
+production Cyclotron.txt 2 279 2125 
+choose Cyclotron.txt 1 1812 
+travelling Cyclotron.txt 1 1487 
+main Cyclotron.txt 2 1582 2660 
+decades Cyclotron.txt 1 1987 
+overcome Cyclotron.txt 1 2503 
+then Cyclotron.txt 1 1569 
+them Cyclotron.txt 7 768 774 973 983 1037 1271 2131 
+greater Cyclotron.txt 2 1489 1743 
+prevented Cyclotron.txt 1 333 
+wolfgang Cyclotron.txt 1 578 
+practice Cyclotron.txt 1 1921 
+therapy Cyclotron.txt 3 108 2061 2075 
+effects Cyclotron.txt 2 1606 2407 
+they Cyclotron.txt 5 67 189 610 842 1013 
+lawrences Cyclotron.txt 5 8 683 1402 2155 2323 
+not Cyclotron.txt 4 1223 1453 1476 2222 
+employed Cyclotron.txt 1 2796 
+rotation Cyclotron.txt 1 993 
+bombard Cyclotron.txt 1 2101 
+gamow Cyclotron.txt 1 550 
+edit Cyclotron.txt 17 284 593 1205 1419 1581 1713 1984 2154 2540 2779 2902 2978 2980 2983 2986 2988 2990 
+university Cyclotron.txt 8 24 228 254 296 358 375 447 2773 
+loosely Cyclotron.txt 1 2734 
+l Cyclotron.txt 1 1796 
+alen Cyclotron.txt 1 2959 
+bursts Cyclotron.txt 1 1888 
+mode Cyclotron.txt 1 2472 
+man Cyclotron.txt 1 2939 
+each Cyclotron.txt 5 930 949 992 2851 2880 
+references Cyclotron.txt 1 2979 
+higher Cyclotron.txt 3 1971 1980 2862 
+mean Cyclotron.txt 1 2022 
+heavy Cyclotron.txt 1 2580 
+reactions Cyclotron.txt 2 1078 1710 
+cost Cyclotron.txt 4 2202 2493 2499 2530 
+accelerator Cyclotron.txt 8 37 121 183 251 1106 1125 1893 2971 
+zurich Cyclotron.txt 1 1425 
+series Cyclotron.txt 2 455 2955 
+energy Cyclotron.txt 10 1148 1195 1204 1218 1313 1339 1351 1699 1972 2891 
+universities Cyclotron.txt 1 2767 
+reduce Cyclotron.txt 1 2729 
+idea Cyclotron.txt 2 312 410 
+related Cyclotron.txt 1 2777 
+frequency Cyclotron.txt 22 162 737 862 876 897 904 1451 1474 1517 1548 1551 1593 1628 1638 1645 1667 1809 1840 1883 2385 2476 2805 
+static Cyclotron.txt 3 152 804 1565 
+magnets Cyclotron.txt 7 601 1389 1395 2340 2369 2850 2884 
+laboratory Cyclotron.txt 5 29 444 2333 2551 2643 
+operation Cyclotron.txt 3 592 681 1637 
+comic Cyclotron.txt 1 2916 
+eighteen Cyclotron.txt 1 2765 
+out Cyclotron.txt 2 1472 2413 
+ru Cyclotron.txt 2 539 554 
+shown Cyclotron.txt 1 605 
+driving Cyclotron.txt 1 1596 
+space Cyclotron.txt 2 772 789 
+gradient Cyclotron.txt 1 1854 
+furthermore Cyclotron.txt 1 2283 
+since Cyclotron.txt 2 1206 1462 
+angular Cyclotron.txt 2 1550 2855 
+particles Cyclotron.txt 40 98 133 143 777 781 818 838 882 901 934 952 975 996 1086 1137 1147 1175 1208 1221 1250 1264 1280 1306 1309 1342 1460 1464 1502 1609 1765 1872 2212 2251 2293 2391 2401 2436 2813 2860 2889 
+collisions Cyclotron.txt 1 1082 
+rf Cyclotron.txt 5 643 863 945 1597 1884 
+medicine Cyclotron.txt 2 207 275 
+correct Cyclotron.txt 1 969 
+red Cyclotron.txt 1 1443 
+linear Cyclotron.txt 3 1578 2189 2514 
+lawrence Cyclotron.txt 11 27 126 165 225 370 414 452 508 627 2318 2331 
+driver Cyclotron.txt 1 2276 
+1920s Cyclotron.txt 2 293 2219 
+million Cyclotron.txt 1 1167 
+isotope Cyclotron.txt 1 2139 
+diagnostic Cyclotron.txt 1 2138 
+small Cyclotron.txt 2 1018 1034 
+reason Cyclotron.txt 1 1773 
+graaff Cyclotron.txt 1 1129 
+california Cyclotron.txt 4 26 230 377 449 
+imaging Cyclotron.txt 1 2113 
+put Cyclotron.txt 1 1919 
+generate Cyclotron.txt 2 2225 2352 
+interaction Cyclotron.txt 1 2209 
+could Cyclotron.txt 1 234 
+british Cyclotron.txt 3 256 260 2775 
+times Cyclotron.txt 5 1181 1191 1199 1215 1691 
+motion Cyclotron.txt 2 835 2398 
+livingston Cyclotron.txt 2 401 2314 
+circuit Cyclotron.txt 1 885 
+511 Cyclotron.txt 1 1663 
+moving Cyclotron.txt 1 1562 
+speeds Cyclotron.txt 3 839 1252 1261 
+first Cyclotron.txt 5 342 362 520 544 1104 
+ability Cyclotron.txt 1 2592 
+transmitters Cyclotron.txt 1 389 
+humboldt Cyclotron.txt 1 357 
+dailies Cyclotron.txt 1 2912 
+waves Cyclotron.txt 2 2231 2807 
+powerful Cyclotron.txt 3 36 181 462 
+reaches Cyclotron.txt 1 1970 
+one Cyclotron.txt 4 884 957 1810 2541 
+feet Cyclotron.txt 2 17 1414 
+13,000 Cyclotron.txt 1 641 
+employing Cyclotron.txt 1 2505 
+approximately Cyclotron.txt 1 2393 
+slower Cyclotron.txt 1 1254 
+ring Cyclotron.txt 1 2559 
+george Cyclotron.txt 1 549 
+size Cyclotron.txt 1 2709 
+equating Cyclotron.txt 1 1332 
+given Cyclotron.txt 2 1354 1570 
+sheet Cyclotron.txt 1 747 
+rewritten Cyclotron.txt 2 1542 1554 
+become Cyclotron.txt 2 2402 2408 
+leading Cyclotron.txt 2 1518 1633 
+top Cyclotron.txt 1 661 
+construct Cyclotron.txt 1 317 
+fiction Cyclotron.txt 1 2901 
+centripetal Cyclotron.txt 1 1266 
+their Cyclotron.txt 8 832 1183 1273 1311 1324 1508 1768 2093 
+2 Cyclotron.txt 1 1370 
+too Cyclotron.txt 1 314 
+184 Cyclotron.txt 3 216 504 1411 
+circa Cyclotron.txt 1 2158 
+structures Cyclotron.txt 1 2246 
+final Cyclotron.txt 1 1217 
+evacuated Cyclotron.txt 2 1059 2873 
+passed Cyclotron.txt 1 2301 
+that Cyclotron.txt 8 880 1132 1728 1897 2193 2351 2405 2740 
+continuous Cyclotron.txt 1 2290 
+rejected Cyclotron.txt 1 310 
+obsolete Cyclotron.txt 1 385 
+supply Cyclotron.txt 1 2142 
+short Cyclotron.txt 1 2141 
+injected Cyclotron.txt 1 783 
+than Cyclotron.txt 7 607 1255 1733 1746 1886 2720 2834 
+center Cyclotron.txt 5 92 137 786 1005 2366 
+begins Cyclotron.txt 1 1611 
+wide Cyclotron.txt 1 615 
+b Cyclotron.txt 2 807 906 
+neptunium Cyclotron.txt 1 57 
+target Cyclotron.txt 8 672 1041 1066 1074 2040 2054 2296 2308 
+ionizing Cyclotron.txt 1 2174 
+16 Cyclotron.txt 1 494 
+19 Cyclotron.txt 1 2569 
+18 Cyclotron.txt 1 2655 
+require Cyclotron.txt 1 1749 
+depends Cyclotron.txt 1 1828 
+states Cyclotron.txt 1 2905 
+electrostatic Cyclotron.txt 1 1116 
+were Cyclotron.txt 9 178 190 459 840 1138 1396 1989 2194 2247 
+src Cyclotron.txt 1 2556 
+extracting Cyclotron.txt 1 1952 
+and Cyclotron.txt 50 47 58 63 155 195 205 222 337 366 488 551 555 558 577 585 669 721 920 1038 1075 1095 1126 1186 1237 1284 1375 1478 1549 1646 1762 1805 2026 2035 2080 2152 2173 2203 2267 2281 2315 2421 2473 2567 2573 2646 2768 2828 2840 2857 2972 
+1.5 Cyclotron.txt 1 18 
+cyclotrons Cyclotron.txt 19 76 177 270 457 1246 1349 1399 1737 1925 1932 1988 2001 2055 2068 2117 2271 2284 2467 2546 
+modern Cyclotron.txt 4 103 1931 2236 2511 
+direct Cyclotron.txt 1 1680 
+accelerators Cyclotron.txt 4 463 1117 2190 2515 
+have Cyclotron.txt 5 1901 2126 2272 2501 2519 
+1929 Cyclotron.txt 1 353 
+curved Cyclotron.txt 1 1274 
+nazi Cyclotron.txt 1 564 
+any Cyclotron.txt 1 2424 
+contents Cyclotron.txt 1 282 
+relatively Cyclotron.txt 1 2310 
+acceleration Cyclotron.txt 2 1530 2426 
+strength Cyclotron.txt 5 911 1232 1360 1755 2878 
+angle Cyclotron.txt 1 2898 
+built Cyclotron.txt 3 219 569 2577 
+able Cyclotron.txt 1 2286 
+consortium Cyclotron.txt 1 2763 
+also Cyclotron.txt 6 431 499 1778 1837 2795 2977 
+320 Cyclotron.txt 1 2694 
+potential Cyclotron.txt 1 645 
+which Cyclotron.txt 25 66 95 233 262 458 697 740 801 1087 1158 1365 1381 1405 1531 1591 1704 1723 1825 1863 1959 2232 2277 2487 2518 2853 
+non-relativistic Cyclotron.txt 1 1835 
+worldwide Cyclotron.txt 1 276 
+200 Cyclotron.txt 1 2626 
+links Cyclotron.txt 1 2985 
+electric Cyclotron.txt 6 163 915 964 1598 2419 2674 
+who Cyclotron.txt 2 309 429 
+reach Cyclotron.txt 2 1014 1310 
+shaping Cyclotron.txt 1 2459 
+most Cyclotron.txt 4 35 180 461 1891 
+germany Cyclotron.txt 2 290 565 
+but Cyclotron.txt 4 330 1229 1748 1973 
+phase Cyclotron.txt 1 2415 
+transverse Cyclotron.txt 2 1847 2791 
+glow Cyclotron.txt 1 2181 
+average Cyclotron.txt 1 2299 
+cover Cyclotron.txt 1 635 
+face Cyclotron.txt 2 760 762 
+pipe Cyclotron.txt 2 2827 2874 
+electrons Cyclotron.txt 2 2736 2783 
+principle Cyclotron.txt 2 590 1896 
+subsequent Cyclotron.txt 1 2033 
+velocity Cyclotron.txt 6 1283 1579 1610 1651 1831 2863 
+left Cyclotron.txt 2 81 1436 
+physics Cyclotron.txt 6 173 204 515 529 1998 2648 
+fact Cyclotron.txt 1 1928 
+laws Cyclotron.txt 1 2396 
+thomas Cyclotron.txt 1 1798 
+atom Cyclotron.txt 1 2938 
+focusing Cyclotron.txt 4 1760 1789 1904 1909 
+radii Cyclotron.txt 1 2757 
+minimizing Cyclotron.txt 1 2087 
+radio Cyclotron.txt 7 161 388 861 1882 2123 2230 2806 
+0.46 Cyclotron.txt 1 2666 
+7.9 Cyclotron.txt 1 1950 
+categories Cyclotron.txt 2 2991 2993 
+became Cyclotron.txt 3 559 586 2973 
+front Cyclotron.txt 1 2321 
+enough Cyclotron.txt 1 2404 
+reverses Cyclotron.txt 1 947 
+only Cyclotron.txt 5 1139 1248 1827 2379 2432 
+difficulties Cyclotron.txt 1 2145 
+volts Cyclotron.txt 2 869 1168 
+8 Cyclotron.txt 3 484 2574 2594 
+circle Cyclotron.txt 2 824 990 
+achieve Cyclotron.txt 1 894 
+plate Cyclotron.txt 1 1023 
+insight Cyclotron.txt 1 2044 
+hit Cyclotron.txt 2 1063 2961 
+hungarian Cyclotron.txt 1 348 
+distance Cyclotron.txt 1 1490 
+dependent Cyclotron.txt 1 1224 
+beams Cyclotron.txt 4 202 1995 2066 2096 
+between Cyclotron.txt 10 87 220 704 743 767 794 872 1036 2024 2367 
+dc Cyclotron.txt 1 2953 
+beam Cyclotron.txt 14 664 733 1026 1060 1470 1655 1744 1792 2162 2305 2377 2411 2620 2700 
+cannot Cyclotron.txt 1 2422 
+nearly Cyclotron.txt 1 1688 
+during Cyclotron.txt 3 886 1182 1528 
+dr Cyclotron.txt 1 2968 
+him Cyclotron.txt 1 334 
+secondary Cyclotron.txt 1 1085 
+azimuthally-varying Cyclotron.txt 1 1934 
+sources Cyclotron.txt 1 2387 
+h Cyclotron.txt 1 1797 
+tumors Cyclotron.txt 1 2082 
+source Cyclotron.txt 1 1992 
+contain Cyclotron.txt 1 2346 
+switzerland Cyclotron.txt 1 1426 
+river Cyclotron.txt 1 2149 
+where Cyclotron.txt 9 905 1277 1303 1320 1544 1556 1573 1626 1640 
+atomic Cyclotron.txt 1 2637 
+set Cyclotron.txt 1 878 
+electrodes Cyclotron.txt 3 689 749 2362 
+plane Cyclotron.txt 1 812 
+radium Cyclotron.txt 1 533 
+310 Cyclotron.txt 1 2705 
+up Cyclotron.txt 3 1955 2381 2437 
+relative Cyclotron.txt 1 1650 
+see Cyclotron.txt 2 5 2976 
+arc Cyclotron.txt 1 387 
+radius Cyclotron.txt 15 989 1287 1322 1328 1377 1457 1731 1948 2613 2621 2696 2701 2819 2833 2844 
+are Cyclotron.txt 16 144 196 271 604 690 758 782 792 1188 1209 1738 2002 2233 2285 2392 2535 
+1926 Cyclotron.txt 1 298 
+1927 Cyclotron.txt 1 319 
+cyclotron Cyclotron.txt 53 0 6 10 104 115 130 211 242 286 300 327 343 363 522 567 598 633 680 720 728 902 1056 1094 1101 1111 1171 1422 1536 1547 1589 1625 1644 1712 1722 1776 1785 1808 1839 1938 1969 2095 2157 2183 2256 2328 2376 2429 2560 2601 2653 2839 2933 2946 
+stanley Cyclotron.txt 2 400 2313 
+electrode Cyclotron.txt 3 811 940 959 
+outward Cyclotron.txt 1 1002 
+best Cyclotron.txt 1 1991 
+august Cyclotron.txt 1 32 
+coils Cyclotron.txt 1 2348 
+wire Cyclotron.txt 1 2350 
+federal Cyclotron.txt 1 393 
+nuclear Cyclotron.txt 7 206 274 1077 1709 1997 2046 2645 
+superseded Cyclotron.txt 1 191 
+currently Cyclotron.txt 1 2118 
+wikipedia Cyclotron.txt 1 1 
+klystrons Cyclotron.txt 1 2240 
+outside Cyclotron.txt 1 1091 
+determined Cyclotron.txt 1 1383 
+szilard Cyclotron.txt 1 351 
+beamline Cyclotron.txt 2 94 726 
+reading Cyclotron.txt 1 2982 
+approach Cyclotron.txt 2 1503 1613 
+available Cyclotron.txt 1 2195 
+various Cyclotron.txt 3 1067 2017 2030 
+recently Cyclotron.txt 1 2115 
+creating Cyclotron.txt 1 769 
+positron Cyclotron.txt 1 2107 
+unit Cyclotron.txt 1 2639 
+physicist Cyclotron.txt 1 349 
+scalability Cyclotron.txt 1 2523 
+however Cyclotron.txt 2 859 2936 
+shaped Cyclotron.txt 1 688 
+percent Cyclotron.txt 1 2441 
+analyzed Cyclotron.txt 1 96 
+article Cyclotron.txt 2 417 1583 
+atoms Cyclotron.txt 2 2025 2103 
+isotopes Cyclotron.txt 3 64 2109 2124 
+received Cyclotron.txt 2 68 509 
+hits Cyclotron.txt 1 1039 
+higher-energy Cyclotron.txt 1 2250 
+improved Cyclotron.txt 1 2529 
+many Cyclotron.txt 5 59 1180 1190 1198 1214 
+23 Cyclotron.txt 1 2670 
+equal Cyclotron.txt 1 1150 
+april Cyclotron.txt 1 2922 
+s Cyclotron.txt 1 2192 
+mev Cyclotron.txt 8 239 266 476 485 495 1703 1958 2635 
+faces Cyclotron.txt 1 1862 
+asked Cyclotron.txt 1 2910 
+azimuthally Cyclotron.txt 1 1867 
+fields Cyclotron.txt 1 1935 
+cm Cyclotron.txt 8 472 481 491 503 629 2325 2691 2704 
+headed Cyclotron.txt 1 535 
+period Cyclotron.txt 2 1495 1879 
+proton Cyclotron.txt 2 1685 2074 
+hollow Cyclotron.txt 1 745 
+60 Cyclotron.txt 2 14 492 
+pole Cyclotron.txt 4 602 1390 1407 2461 
+carbon Cyclotron.txt 1 2752 
+wider Cyclotron.txt 1 308 
+69 Cyclotron.txt 3 471 628 2324 
+strong Cyclotron.txt 2 1759 1908 
+publishing Cyclotron.txt 1 336 
+capable Cyclotron.txt 2 1739 2433 
+trajectory Cyclotron.txt 2 149 1770 
+create Cyclotron.txt 2 620 1084 
+due Cyclotron.txt 6 825 978 1079 2143 2205 2966 
+been Cyclotron.txt 4 432 1438 2127 2502 
+730 Cyclotron.txt 1 238 
+much Cyclotron.txt 4 403 1253 1742 2831 
+treat Cyclotron.txt 1 2063 
+azimuthal Cyclotron.txt 2 1750 1782 
+disambiguation Cyclotron.txt 1 7 
+500 Cyclotron.txt 1 265 
+direction Cyclotron.txt 2 833 970 
+enable Cyclotron.txt 2 2013 2130 
+partly Cyclotron.txt 1 2711 
+1950s Cyclotron.txt 1 187 
+patented Cyclotron.txt 1 367 
+painted Cyclotron.txt 1 112 
+467 Cyclotron.txt 1 502 
+cyclical Cyclotron.txt 1 1105 
+1200 Cyclotron.txt 1 269 
+psi Cyclotron.txt 1 1968 
+de-focusing Cyclotron.txt 1 1848 
+general Cyclotron.txt 1 2987 
+hidden Cyclotron.txt 1 2992 
+applied Cyclotron.txt 4 651 742 871 2477 
+external Cyclotron.txt 1 2984 
+these Cyclotron.txt 3 980 1134 1333 
+canadian Cyclotron.txt 1 2766 
+single Cyclotron.txt 2 888 2274 
+air Cyclotron.txt 2 1162 2177 
+will Cyclotron.txt 1 1083 
+institute Cyclotron.txt 1 534 
+while Cyclotron.txt 3 354 2086 2668 
+compactness Cyclotron.txt 1 2253 
+applies Cyclotron.txt 1 802 
+walther Cyclotron.txt 1 575 
+nonrelativistic Cyclotron.txt 3 1260 1263 1448 
+almost Cyclotron.txt 1 1929 
+allows Cyclotron.txt 3 1871 2845 2859 
+is Cyclotron.txt 65 79 99 111 116 243 650 698 741 870 877 907 913 922 966 1222 1276 1278 1285 1293 1304 1326 1343 1358 1366 1382 1466 1486 1568 1587 1600 1619 1641 1648 1662 1669 1687 1700 1705 1719 1777 1841 1855 1906 1941 1960 1974 2136 2309 2338 2363 2430 2488 2547 2568 2586 2602 2676 2710 2739 2742 2759 2769 2794 2835 2885 
+thus Cyclotron.txt 1 1632 
+it Cyclotron.txt 11 53 1028 1479 1485 1910 1917 2197 2220 2561 2628 2821 
+hardware Cyclotron.txt 1 413 
+superconducting Cyclotron.txt 2 2558 2565 
+rim Cyclotron.txt 3 1008 1016 1049 
+properties Cyclotron.txt 1 2018 
+in Cyclotron.txt 90 20 31 38 73 90 127 172 203 217 258 273 289 291 297 318 352 371 464 474 483 493 505 514 525 527 546 563 570 588 608 631 673 692 700 718 822 845 967 986 998 1133 1169 1172 1272 1401 1412 1415 1424 1427 1446 1491 1496 1563 1590 1620 1752 1767 1799 1822 1833 1843 1887 1890 1927 2004 2052 2059 2073 2140 2217 2235 2320 2327 2364 2464 2469 2482 2552 2571 2627 2695 2706 2784 2797 2892 2900 2921 2934 2937 2951 
+avf Cyclotron.txt 1 1781 
+exiting Cyclotron.txt 1 2170 
+technology Cyclotron.txt 1 184 
+if Cyclotron.txt 3 836 2388 2399 
+khlopin Cyclotron.txt 1 538 
+containing Cyclotron.txt 2 1432 2359 
+patent Cyclotron.txt 2 344 685 
+large Cyclotron.txt 6 381 710 799 1394 2343 2708 
+edwin Cyclotron.txt 1 48 
+radiation Cyclotron.txt 7 28 107 443 2084 2265 2332 2930 
+cross Cyclotron.txt 1 953 
+same Cyclotron.txt 1 1493 
+17.1 Cyclotron.txt 1 245 
+largest Cyclotron.txt 5 209 241 1943 2545 2652 
+9 Cyclotron.txt 1 1702 
+products Cyclotron.txt 1 2032 
+several Cyclotron.txt 3 867 1986 2000 
+famously Cyclotron.txt 1 2909 
+european Cyclotron.txt 1 521 
+breakdown Cyclotron.txt 1 1163 
+used Cyclotron.txt 12 52 105 198 272 380 1071 2051 2058 2071 2099 2234 2677 
+columbia Cyclotron.txt 3 257 261 2776 
+kev/c Cyclotron.txt 1 1664 
+high-frequency Cyclotron.txt 1 2229 
+conceived Cyclotron.txt 1 288 
+upon Cyclotron.txt 1 1455 
+effect Cyclotron.txt 3 1761 1849 1905 
+driven Cyclotron.txt 1 2513 
+ion Cyclotron.txt 1 2065 
+uses Cyclotron.txt 2 4 2944 
+student Cyclotron.txt 1 398 
+resonance Cyclotron.txt 1 903 
+changing Cyclotron.txt 1 2474 
+cycle Cyclotron.txt 1 889 
+deflects Cyclotron.txt 1 1024 
+lower Cyclotron.txt 1 2725 
+15.3 Cyclotron.txt 1 1413 
+kept Cyclotron.txt 1 2867 
+radionuclides Cyclotron.txt 1 281 
+well Cyclotron.txt 2 1869 2261 
+boxes Cyclotron.txt 1 2345 
+analysis Cyclotron.txt 2 1099 2037 
+materials Cyclotron.txt 1 1068 
+1951 Cyclotron.txt 1 70 
+the Cyclotron.txt 303 23 34 39 42 69 75 83 91 93 97 109 136 142 168 179 186 193 208 213 227 240 244 253 278 285 292 299 311 323 326 339 341 361 374 392 405 409 419 438 442 446 460 465 468 510 519 528 532 583 600 617 638 640 653 656 663 667 671 674 686 705 756 776 780 785 790 795 810 813 817 827 837 850 853 856 873 875 881 891 896 900 908 914 918 923 927 933 937 941 944 951 954 961 963 968 974 995 1004 1007 1010 1015 1025 1030 1044 1048 1051 1055 1073 1076 1081 1093 1100 1103 1107 1110 1114 1119 1123 1136 1143 1146 1152 1156 1170 1174 1177 1193 1200 1207 1212 1216 1220 1226 1231 1234 1238 1241 1244 1256 1265 1279 1286 1289 1296 1300 1305 1308 1315 1318 1321 1327 1330 1337 1341 1345 1348 1359 1362 1376 1379 1385 1388 1429 1433 1441 1447 1450 1456 1459 1463 1469 1492 1504 1516 1520 1525 1529 1534 1537 1545 1557 1577 1592 1595 1608 1614 1623 1627 1635 1642 1649 1653 1656 1666 1684 1692 1696 1717 1720 1753 1764 1790 1802 1806 1817 1823 1830 1834 1838 1846 1860 1865 1881 1936 1942 1963 1967 1990 2011 2014 2021 2027 2039 2049 2053 2078 2161 2171 2175 2182 2188 2207 2211 2214 2218 2226 2252 2255 2268 2295 2298 2330 2334 2339 2342 2347 2353 2356 2360 2365 2368 2371 2375 2389 2400 2410 2417 2427 2443 2451 2460 2465 2475 2479 2483 2491 2506 2520 2533 2543 2549 2555 2596 2600 2605 2618 2650 2654 2680 2698 2733 2737 2772 2780 2798 2809 2812 2838 2842 2846 2869 2872 2875 2882 2888 2896 2903 2914 2929 2952 2956 2963 2974 
+chemistry Cyclotron.txt 1 74 
+60-inch Cyclotron.txt 2 9 2156 
+charged Cyclotron.txt 3 132 731 928 
+bending Cyclotron.txt 3 2591 2883 2897 
+bounds Cyclotron.txt 1 2870 
+proposed Cyclotron.txt 3 302 545 1794 
+appropriately Cyclotron.txt 1 2458 
+being Cyclotron.txt 4 716 722 1639 2200 
+money Cyclotron.txt 1 2280 
+guided Cyclotron.txt 1 1090 
+rest Cyclotron.txt 1 1657 
+recycled Cyclotron.txt 1 383 
+kill Cyclotron.txt 1 2081 
+voltage Cyclotron.txt 13 739 865 892 946 1019 1144 1154 1179 1202 1213 1228 1683 2386 
+world Cyclotron.txt 2 40 466 
+alternative Cyclotron.txt 1 1715 
+graduate Cyclotron.txt 1 397 
+speed Cyclotron.txt 6 977 1257 1505 1615 1964 2444 
+captured Cyclotron.txt 1 1766 
+790 Cyclotron.txt 1 2703 
+cancer Cyclotron.txt 1 2064 
+generator Cyclotron.txt 1 1130 
+extracted Cyclotron.txt 1 2748 
+mysovskii Cyclotron.txt 1 553 
+had Cyclotron.txt 2 430 1406 
+improvement Cyclotron.txt 1 2186 
+instrument Cyclotron.txt 1 542 
+causing Cyclotron.txt 1 2178 
+advantages Cyclotron.txt 1 2151 
+spirals Cyclotron.txt 1 1471 
+usage Cyclotron.txt 1 1983 
+electrical Cyclotron.txt 1 2275 
+struck Cyclotron.txt 1 2965 
+has Cyclotron.txt 4 1437 1724 2562 2629 
+heidelberg Cyclotron.txt 1 571 
+match Cyclotron.txt 1 899 
+electromagnets Cyclotron.txt 2 382 1374 
+forces Cyclotron.txt 1 1335 
+worlds Cyclotron.txt 2 2544 2651 
+read Cyclotron.txt 1 415 
+showing Cyclotron.txt 3 595 637 2160 
+microwaves Cyclotron.txt 1 2808 
+possible Cyclotron.txt 1 2223 
+siemens Cyclotron.txt 1 329 
+increases Cyclotron.txt 2 1511 1729 
+abound Cyclotron.txt 1 1926 
+vacuum Cyclotron.txt 7 624 695 754 1430 1674 2357 2787 
+using Cyclotron.txt 3 734 1978 2715 
+d"-shaped Cyclotron.txt 1 746 
+luthor Cyclotron.txt 1 2943 
+riken Cyclotron.txt 2 2550 2606 
+like Cyclotron.txt 1 1832 
+modifications Cyclotron.txt 2 1514 1523 
+effectiveness Cyclotron.txt 1 2494 
+d Cyclotron.txt 1 687 
+particle Cyclotron.txt 17 120 182 201 715 732 919 929 1203 1357 1561 1654 1791 2036 2060 2304 2647 2970 
+poulsen Cyclotron.txt 1 386 
+reduces Cyclotron.txt 1 2257 
+56 Cyclotron.txt 1 247 
+accelerating Cyclotron.txt 10 85 644 1153 1178 1201 1227 1242 1682 2215 2435 
+lightning Cyclotron.txt 1 2964 
+chamber Cyclotron.txt 10 86 625 675 696 755 1052 1243 1431 2358 2788 
+continue Cyclotron.txt 1 1481 
+mhz Cyclotron.txt 2 649 2671 
+t Cyclotron.txt 6 45 1371 2588 2604 2659 2667 
+output Cyclotron.txt 3 1194 1338 1350 
+heereswaffenamt Cyclotron.txt 1 584 
+works Cyclotron.txt 1 599 
+healthy Cyclotron.txt 1 2090 
+making Cyclotron.txt 1 2496 
+sketch Cyclotron.txt 1 712 
+right Cyclotron.txt 5 51 101 662 1445 2319 
+leningrad Cyclotron.txt 2 526 541 
+classical Cyclotron.txt 3 1624 1643 2428 
+creation Cyclotron.txt 1 2028 
+some Cyclotron.txt 1 2116 
+metres Cyclotron.txt 1 1951 
+3.5 Cyclotron.txt 1 2611 
+meters Cyclotron.txt 1 19 
+accelerate Cyclotron.txt 6 235 972 1249 1483 2579 2679 
+spiraling Cyclotron.txt 1 2781 
+sufficient Cyclotron.txt 1 1706 
+3.8 Cyclotron.txt 1 2587 
+provided Cyclotron.txt 2 390 1294 
+vs Cyclotron.txt 1 2940 
+both Cyclotron.txt 2 2279 2516 
+for Cyclotron.txt 29 2 65 106 174 277 516 775 1072 1098 1262 1352 1372 1398 1559 1604 1671 1771 1788 1985 1996 2006 2111 2122 2249 2557 2644 2802 2911 2924 
+bottom Cyclotron.txt 1 677 
+pet Cyclotron.txt 1 2112 
+tube Cyclotron.txt 3 424 1061 1675 
+seaborg Cyclotron.txt 1 46 
+does Cyclotron.txt 2 1452 1475 
+exit Cyclotron.txt 1 1045 
+periphery Cyclotron.txt 1 1316 
+newtons Cyclotron.txt 1 2395 
+transmutation Cyclotron.txt 1 2047 
+either Cyclotron.txt 2 1513 2485 
+limitations Cyclotron.txt 2 2153 2500 
+be Cyclotron.txt 17 613 1070 1089 1197 1541 1553 1576 1814 1874 2057 2070 2098 2455 2747 2823 2866 2919 
+run Cyclotron.txt 1 2760 
+power Cyclotron.txt 4 2228 2282 2300 2526 
+300 Cyclotron.txt 1 2681 
+diminishing Cyclotron.txt 1 2492 
+radial Cyclotron.txt 1 1852 
+oscillating Cyclotron.txt 1 2418 
+perpendicular Cyclotron.txt 2 808 830 
+1932 Cyclotron.txt 4 372 478 547 632 
+4.67 Cyclotron.txt 2 214 1409 
+1937 Cyclotron.txt 3 487 562 1428 
+wells Cyclotron.txt 1 2969 
+1934 Cyclotron.txt 2 128 684 
+1939 Cyclotron.txt 5 33 169 497 511 2159 
+1938 Cyclotron.txt 1 1800 
+vitaly Cyclotron.txt 1 537 
+simpler Cyclotron.txt 1 2743 
+on Cyclotron.txt 7 1020 1155 1225 1230 1829 1859 1877 
+about Cyclotron.txt 5 418 647 1369 1701 2623 
+would Cyclotron.txt 2 843 1575 
+of Cyclotron.txt 107 25 119 229 255 280 306 325 359 376 404 407 421 445 448 456 531 574 591 626 679 708 713 787 797 834 855 866 890 917 926 943 1009 1050 1092 1109 1118 1219 1233 1240 1258 1288 1299 1317 1323 1329 1340 1356 1361 1378 1387 1458 1506 1594 1616 1652 1659 1740 1850 1880 1923 1949 1962 1965 1977 1993 2009 2016 2029 2038 2048 2163 2210 2254 2292 2322 2349 2374 2397 2414 2434 2442 2445 2486 2495 2517 2522 2542 2593 2599 2622 2665 2702 2714 2732 2764 2774 2782 2817 2830 2848 2852 2861 2871 2879 2881 2907 2913 
+uranium Cyclotron.txt 1 2631 
+o Cyclotron.txt 2 125 2317 
+costs Cyclotron.txt 1 2259 
+practical Cyclotron.txt 1 2836 
+sync Cyclotron.txt 1 2380 
+barry Cyclotron.txt 1 2958 
+or Cyclotron.txt 4 1053 1522 2168 2510 
+considerations Cyclotron.txt 1 1418 
+glenn Cyclotron.txt 1 44 
+instruments Cyclotron.txt 1 1097 
+into Cyclotron.txt 6 411 784 1096 1920 2045 2306 
+within Cyclotron.txt 5 773 849 2527 2789 2868 
+bound Cyclotron.txt 1 2735 
+negative Cyclotron.txt 1 2716 
+accommodate Cyclotron.txt 1 2448 
+device Cyclotron.txt 1 2801 
+appropriate Cyclotron.txt 1 2756 
+because Cyclotron.txt 2 1572 1976 
+feedlines Cyclotron.txt 1 658 
+national Cyclotron.txt 1 2642 
+impractically Cyclotron.txt 1 2243 
+proportional Cyclotron.txt 1 1815 
+single-magnet Cyclotron.txt 1 210 
+nobel Cyclotron.txt 3 71 170 512 
+theoretically Cyclotron.txt 1 1914 
+fast Cyclotron.txt 1 2403 
+van Cyclotron.txt 1 1127 
+additional Cyclotron.txt 1 2425 
+extraction Cyclotron.txt 1 2741 
+support Cyclotron.txt 1 581 
+mcmillan Cyclotron.txt 1 50 
+spiral Cyclotron.txt 6 140 148 1000 1184 1769 2372 
+long Cyclotron.txt 2 1915 2244 
+awarded Cyclotron.txt 1 167 
+strip Cyclotron.txt 1 2917 
+start Cyclotron.txt 1 2948 
+was Cyclotron.txt 22 166 212 287 301 345 364 523 543 556 568 1102 1131 1149 1159 1629 1793 1911 1918 2184 2198 2221 2960 
+therefore Cyclotron.txt 3 948 1344 2431 
+synchrotron Cyclotron.txt 3 194 2509 2810 
+inches Cyclotron.txt 1 15 
+strikes Cyclotron.txt 1 670 
+ferromagnetic Cyclotron.txt 1 1373 
+gain Cyclotron.txt 1 2890 
+filed Cyclotron.txt 1 346 
+technologies Cyclotron.txt 1 2778 
+removed Cyclotron.txt 2 636 1439 
+with Cyclotron.txt 18 11 82 437 580 634 763 991 1676 1730 1734 1944 2213 2382 2416 2617 2697 2837 2928 
+he Cyclotron.txt 2 379 498 
+made Cyclotron.txt 2 2536 2824 
+technetium-99m Cyclotron.txt 2 2134 2135 
+inside Cyclotron.txt 1 752 
+steenbeck Cyclotron.txt 1 321 
+variations Cyclotron.txt 1 1751 
+maximum Cyclotron.txt 4 1312 2583 2619 2699 
+klystron-type Cyclotron.txt 1 2383 
+placed Cyclotron.txt 1 759 
+below Cyclotron.txt 1 1940 
+limit Cyclotron.txt 1 1346 
+iterated Cyclotron.txt 1 2208 
+suitable Cyclotron.txt 1 2110 
+continuously Cyclotron.txt 1 1876 
+similar Cyclotron.txt 1 435 
+called Cyclotron.txt 4 750 1779 1907 2554 
+plutonium Cyclotron.txt 1 56 
+examples Cyclotron.txt 2 1922 2539 
+result Cyclotron.txt 1 2713 
+152 Cyclotron.txt 1 490 
+constant Cyclotron.txt 7 841 1467 1631 1842 2384 2818 2899 
+emitting Cyclotron.txt 1 2108 
+metal Cyclotron.txt 3 748 1022 2336 
+influence Cyclotron.txt 1 854 
+dees Cyclotron.txt 17 618 639 654 668 751 757 791 851 874 1011 1031 1245 1319 1331 1380 1434 2480 
+correction Cyclotron.txt 2 1668 1698 
+an Cyclotron.txt 10 416 1058 1660 1714 1774 1780 1945 2185 2528 2949 
+isochronous Cyclotron.txt 7 1535 1711 1721 1736 1775 1924 2466 
+as Cyclotron.txt 22 313 614 616 1122 1468 1484 1501 1543 1555 1607 1868 1889 2020 2072 2241 2260 2263 2463 2481 2532 2825 2887 
+at Cyclotron.txt 30 22 41 80 100 226 231 252 294 328 356 373 441 450 467 646 660 676 1043 1047 1314 1435 1444 1954 2120 2146 2294 2329 2548 2755 2771 
+gradients Cyclotron.txt 1 1900 
+moves Cyclotron.txt 1 2811 
+hospitals Cyclotron.txt 1 2121 
+constructed Cyclotron.txt 3 453 524 1397 
+again Cyclotron.txt 2 1647 1826 
+momentum Cyclotron.txt 1 2856 
+when Cyclotron.txt 3 188 1012 2196 
+4.8 Cyclotron.txt 1 475 
+reality Cyclotron.txt 1 609 
+field Cyclotron.txt 33 154 164 623 806 815 858 910 965 1236 1302 1364 1527 1567 1599 1727 1754 1784 1853 1866 1899 1982 2216 2355 2420 2453 2585 2608 2664 2675 2685 2727 2793 2877 
+other Cyclotron.txt 7 3 60 938 962 1892 2102 2258 
+5 Cyclotron.txt 2 16 2624 
+rolf Cyclotron.txt 2 307 427 
+department Cyclotron.txt 2 530 2906 
+thousand Cyclotron.txt 2 868 1690 
+kv Cyclotron.txt 2 1679 2673 
+elements Cyclotron.txt 2 62 2050 
+4,000 Cyclotron.txt 1 2658 
+emerges Cyclotron.txt 1 665 
+cockcroft-walton Cyclotron.txt 1 1124 
+drift Cyclotron.txt 1 423 
+m Cyclotron.txt 13 49 215 246 399 921 1410 2312 2570 2575 2612 2616 2625 2656 
+synchrocyclotrons Cyclotron.txt 2 1747 2484 
+generated Cyclotron.txt 1 2238 
+important Cyclotron.txt 1 2409 
+allowing Cyclotron.txt 1 2820 
+ridges Cyclotron.txt 1 1858 
+gap Cyclotron.txt 4 703 766 955 1035 
+structure Cyclotron.txt 1 2531 
+building Cyclotron.txt 2 338 2270 
+deuterons Cyclotron.txt 1 2169 
+remote Cyclotron.txt 1 1065 
+electromagnet Cyclotron.txt 1 800 
+required Cyclotron.txt 2 1268 2248 
+orbit Cyclotron.txt 2 1461 1947 
+having Cyclotron.txt 1 2925 
+stripping Cyclotron.txt 2 2731 2753 
+mass Cyclotron.txt 11 925 1281 1465 1510 1539 1658 1686 1694 2450 2638 2864 
+time Cyclotron.txt 7 43 469 931 950 1120 1494 1735 
+requires Cyclotron.txt 1 2723 
+receive Cyclotron.txt 1 2423 
+once Cyclotron.txt 1 1141 

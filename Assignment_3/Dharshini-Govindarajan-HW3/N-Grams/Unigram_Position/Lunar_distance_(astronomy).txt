@@ -1,0 +1,713 @@
+all Lunar_distance_(astronomy).txt 2 940 1064 
+60.51 Lunar_distance_(astronomy).txt 1 2060 
+evidence Lunar_distance_(astronomy).txt 1 860 
+asteroids Lunar_distance_(astronomy).txt 1 538 
+datum Lunar_distance_(astronomy).txt 1 240 
+results Lunar_distance_(astronomy).txt 3 474 1966 2051 
+earthmoon Lunar_distance_(astronomy).txt 3 72 74 140 
+month Lunar_distance_(astronomy).txt 2 589 1647 
+known Lunar_distance_(astronomy).txt 3 1098 1393 1954 
+spacecraft Lunar_distance_(astronomy).txt 1 983 
+dish Lunar_distance_(astronomy).txt 1 1492 
+perturbations Lunar_distance_(astronomy).txt 3 449 530 591 
+instantaneous Lunar_distance_(astronomy).txt 6 139 391 497 565 1750 1800 
+transits Lunar_distance_(astronomy).txt 1 1254 
+centers Lunar_distance_(astronomy).txt 3 128 176 639 
+239,228.3 Lunar_distance_(astronomy).txt 1 180 
+whose Lunar_distance_(astronomy).txt 1 1212 
+careful Lunar_distance_(astronomy).txt 1 1285 
+technique Lunar_distance_(astronomy).txt 3 1096 1196 1739 
+megawatts Lunar_distance_(astronomy).txt 1 1567 
+crater Lunar_distance_(astronomy).txt 1 1303 
+to Lunar_distance_(astronomy).txt 45 14 39 79 99 122 203 225 229 246 297 316 383 428 455 461 489 559 667 759 770 822 925 991 1011 1063 1118 1134 1138 1187 1191 1440 1472 1603 1634 1773 1782 1786 1809 1882 1912 1926 1979 2013 2037 2042 
+updated Lunar_distance_(astronomy).txt 1 1437 
+advantage Lunar_distance_(astronomy).txt 1 1902 
+7008384403700000000 Lunar_distance_(astronomy).txt 1 1445 
+1-hour Lunar_distance_(astronomy).txt 1 470 
+crosses Lunar_distance_(astronomy).txt 1 1263 
+astronauts Lunar_distance_(astronomy).txt 1 1721 
+minute Lunar_distance_(astronomy).txt 1 529 
+hipparchus Lunar_distance_(astronomy).txt 1 1211 
+252,700 Lunar_distance_(astronomy).txt 1 206 
+list Lunar_distance_(astronomy).txt 1 1017 
+this Lunar_distance_(astronomy).txt 20 4 244 447 713 751 780 824 918 969 987 1094 1195 1220 1738 1877 1951 2008 2044 2053 2081 
+team Lunar_distance_(astronomy).txt 2 1700 1709 
+semi-major Lunar_distance_(astronomy).txt 2 111 159 
+periodicity Lunar_distance_(astronomy).txt 1 502 
+eclipse Lunar_distance_(astronomy).txt 5 1077 1130 1146 1172 1871 
+past Lunar_distance_(astronomy).txt 1 856 
+second Lunar_distance_(astronomy).txt 2 416 1576 
+samos Lunar_distance_(astronomy).txt 1 1207 
+corner Lunar_distance_(astronomy).txt 1 362 
+further Lunar_distance_(astronomy).txt 2 807 1161 
+repetition Lunar_distance_(astronomy).txt 1 1570 
+7008400000000000000 Lunar_distance_(astronomy).txt 1 153 
+oldest Lunar_distance_(astronomy).txt 1 1021 
+power Lunar_distance_(astronomy).txt 1 1564 
+rate Lunar_distance_(astronomy).txt 8 341 676 684 698 714 720 754 1571 
+clock Lunar_distance_(astronomy).txt 1 2099 
+sun Lunar_distance_(astronomy).txt 5 293 299 519 551 1158 
+section Lunar_distance_(astronomy).txt 2 448 988 
+near Lunar_distance_(astronomy).txt 2 1799 1944 
+current Lunar_distance_(astronomy).txt 1 697 
+experiment Lunar_distance_(astronomy).txt 5 356 1454 1541 1675 2054 
+poles Lunar_distance_(astronomy).txt 1 1276 
+imperceptibly Lunar_distance_(astronomy).txt 1 680 
+scientists Lunar_distance_(astronomy).txt 1 1779 
+new Lunar_distance_(astronomy).txt 1 622 
+contributes Lunar_distance_(astronomy).txt 1 552 
+method Lunar_distance_(astronomy).txt 5 1022 1221 1767 1900 2082 
+era Lunar_distance_(astronomy).txt 1 873 
+full Lunar_distance_(astronomy).txt 1 628 
+simultaneously Lunar_distance_(astronomy).txt 1 1043 
+equals Lunar_distance_(astronomy).txt 1 791 
+french Lunar_distance_(astronomy).txt 1 1248 
+understanding Lunar_distance_(astronomy).txt 1 1155 
+hours Lunar_distance_(astronomy).txt 1 426 
+separation Lunar_distance_(astronomy).txt 1 1394 
+ratio Lunar_distance_(astronomy).txt 1 1527 
+round-trip Lunar_distance_(astronomy).txt 1 1679 
+observing Lunar_distance_(astronomy).txt 2 1166 1404 
+appears Lunar_distance_(astronomy).txt 1 1935 
+change Lunar_distance_(astronomy).txt 3 408 574 1963 
+7001605100000000000 Lunar_distance_(astronomy).txt 1 2059 
+great Lunar_distance_(astronomy).txt 1 1266 
+naval Lunar_distance_(astronomy).txt 1 1462 
+institute Lunar_distance_(astronomy).txt 1 1703 
+30 Lunar_distance_(astronomy).txt 1 1333 
+commonly Lunar_distance_(astronomy).txt 2 137 223 
+amount Lunar_distance_(astronomy).txt 1 554 
+resulting Lunar_distance_(astronomy).txt 2 210 904 
+msting Lunar_distance_(astronomy).txt 1 1304 
+action Lunar_distance_(astronomy).txt 1 654 
+navigation Lunar_distance_(astronomy).txt 2 22 26 
+6994499999999999999 Lunar_distance_(astronomy).txt 1 1556 
+involves Lunar_distance_(astronomy).txt 1 1028 
+diameter Lunar_distance_(astronomy).txt 2 360 1490 
+useful Lunar_distance_(astronomy).txt 2 254 283 
+campaign Lunar_distance_(astronomy).txt 1 1865 
+marked Lunar_distance_(astronomy).txt 1 954 
+1905 Lunar_distance_(astronomy).txt 1 1288 
+7007210000000000000 Lunar_distance_(astronomy).txt 1 578 
+unit Lunar_distance_(astronomy).txt 1 84 
+use Lunar_distance_(astronomy).txt 1 20 
+from Lunar_distance_(astronomy).txt 25 11 64 94 195 335 549 582 610 664 1040 1281 1287 1309 1389 1407 1469 1485 1514 1615 1701 1834 1890 1967 1973 2003 
+would Lunar_distance_(astronomy).txt 3 725 781 819 
+0 Lunar_distance_(astronomy).txt 1 620 
+two Lunar_distance_(astronomy).txt 3 798 1282 1835 
+by Lunar_distance_(astronomy).txt 19 309 351 357 508 523 575 1049 1165 1198 1210 1247 1349 1403 1429 1432 1608 1698 1841 2115 
+few Lunar_distance_(astronomy).txt 1 248 
+camera Lunar_distance_(astronomy).txt 1 2094 
+overhead Lunar_distance_(astronomy).txt 2 1271 2019 
+6 Lunar_distance_(astronomy).txt 2 425 1421 
+taken Lunar_distance_(astronomy).txt 3 313 1388 1833 
+exhaustive Lunar_distance_(astronomy).txt 1 1014 
+0.004 Lunar_distance_(astronomy).txt 1 704 
+until Lunar_distance_(astronomy).txt 2 772 936 
+more Lunar_distance_(astronomy).txt 5 105 418 576 1859 2040 
+initial Lunar_distance_(astronomy).txt 3 912 921 1630 
+apparent Lunar_distance_(astronomy).txt 2 56 2048 
+occurred Lunar_distance_(astronomy).txt 1 927 
+356,500 Lunar_distance_(astronomy).txt 1 196 
+varying Lunar_distance_(astronomy).txt 1 494 
+eccentricity Lunar_distance_(astronomy).txt 2 451 495 
+capturing Lunar_distance_(astronomy).txt 1 2030 
+must Lunar_distance_(astronomy).txt 1 1108 
+states Lunar_distance_(astronomy).txt 1 886 
+account Lunar_distance_(astronomy).txt 2 1119 1183 
+rotational Lunar_distance_(astronomy).txt 2 793 808 
+locked Lunar_distance_(astronomy).txt 1 779 
+mm Lunar_distance_(astronomy).txt 2 467 558 
+work Lunar_distance_(astronomy).txt 1 1228 
+mi Lunar_distance_(astronomy).txt 5 168 181 199 207 219 
+longitude Lunar_distance_(astronomy).txt 2 1093 1324 
+theories Lunar_distance_(astronomy).txt 1 259 
+recession Lunar_distance_(astronomy).txt 2 700 756 
+values Lunar_distance_(astronomy).txt 1 269 
+can Lunar_distance_(astronomy).txt 9 407 458 573 599 1046 1176 1379 1758 2112 
+believed Lunar_distance_(astronomy).txt 2 711 749 
+making Lunar_distance_(astronomy).txt 1 1050 
+history Lunar_distance_(astronomy).txt 2 839 932 
+photographs Lunar_distance_(astronomy).txt 2 1823 1889 
+moonrise Lunar_distance_(astronomy).txt 1 1891 
+links Lunar_distance_(astronomy).txt 1 2123 
+predict Lunar_distance_(astronomy).txt 1 814 
+expanding Lunar_distance_(astronomy).txt 1 695 
+0.5 Lunar_distance_(astronomy).txt 1 627 
+now Lunar_distance_(astronomy).txt 1 2023 
+high Lunar_distance_(astronomy).txt 3 753 1790 1811 
+performed Lunar_distance_(astronomy).txt 2 1695 2114 
+tidally Lunar_distance_(astronomy).txt 1 778 
+proof-of-concept Lunar_distance_(astronomy).txt 1 1636 
+occur Lunar_distance_(astronomy).txt 1 782 
+calculated Lunar_distance_(astronomy).txt 8 1178 1328 1399 1413 1521 1621 1857 2056 
+axis Lunar_distance_(astronomy).txt 2 112 160 
+travel Lunar_distance_(astronomy).txt 1 317 
+1 Lunar_distance_(astronomy).txt 2 621 2000 
+varies Lunar_distance_(astronomy).txt 3 44 185 499 
+elliptical Lunar_distance_(astronomy).txt 1 491 
+establishment Lunar_distance_(astronomy).txt 1 1550 
+express Lunar_distance_(astronomy).txt 1 226 
+ft Lunar_distance_(astronomy).txt 1 1489 
+238,856 Lunar_distance_(astronomy).txt 1 167 
+may Lunar_distance_(astronomy).txt 3 119 757 1819 
+after Lunar_distance_(astronomy).txt 2 1493 1577 
+millimeter Lunar_distance_(astronomy).txt 1 300 
+produce Lunar_distance_(astronomy).txt 1 1441 
+0.75 Lunar_distance_(astronomy).txt 1 630 
+waves Lunar_distance_(astronomy).txt 2 1496 1580 
+date Lunar_distance_(astronomy).txt 1 1774 
+such Lunar_distance_(astronomy).txt 3 260 270 1112 
+data Lunar_distance_(astronomy).txt 1 1439 
+a Lunar_distance_(astronomy).txt 45 27 83 147 150 162 212 247 251 469 587 683 719 882 893 896 906 955 1036 1053 1075 1144 1170 1215 1233 1300 1305 1325 1357 1369 1373 1414 1442 1486 1562 1569 1605 1649 1699 1707 1828 1858 1884 2034 2074 2091 
+attempt Lunar_distance_(astronomy).txt 1 1186 
+imply Lunar_distance_(astronomy).txt 1 726 
+light Lunar_distance_(astronomy).txt 2 315 1125 
+greek Lunar_distance_(astronomy).txt 1 1201 
+synchronization Lunar_distance_(astronomy).txt 2 1045 1071 
+so Lunar_distance_(astronomy).txt 2 522 1529 
+decreasing Lunar_distance_(astronomy).txt 1 681 
+first Lunar_distance_(astronomy).txt 1 625 
+typical Lunar_distance_(astronomy).txt 1 588 
+superimposing Lunar_distance_(astronomy).txt 1 1609 
+laboratory Lunar_distance_(astronomy).txt 1 1464 
+radiation Lunar_distance_(astronomy).txt 1 547 
+over Lunar_distance_(astronomy).txt 5 45 186 468 603 646 
+definitive Lunar_distance_(astronomy).txt 1 1338 
+years Lunar_distance_(astronomy).txt 6 606 734 745 818 876 930 
+produced Lunar_distance_(astronomy).txt 4 1214 1232 1539 1648 
+course Lunar_distance_(astronomy).txt 2 47 188 
+experiments Lunar_distance_(astronomy).txt 5 976 1631 1637 1644 1757 
+through Lunar_distance_(astronomy).txt 6 652 1126 1255 1273 1289 1892 
+lasers Lunar_distance_(astronomy).txt 1 982 
+irene Lunar_distance_(astronomy).txt 1 1433 
+its Lunar_distance_(astronomy).txt 7 18 49 429 490 1224 1239 1919 
+before Lunar_distance_(astronomy).txt 1 1066 
+culmination Lunar_distance_(astronomy).txt 1 1893 
+astronomers Lunar_distance_(astronomy).txt 4 1395 1776 1808 2117 
+ld Lunar_distance_(astronomy).txt 2 68 2058 
+21 Lunar_distance_(astronomy).txt 1 579 
+23 Lunar_distance_(astronomy).txt 2 481 1820 
+chosen Lunar_distance_(astronomy).txt 2 1037 1850 
+interesting Lunar_distance_(astronomy).txt 1 1000 
+relativity Lunar_distance_(astronomy).txt 1 263 
+actually Lunar_distance_(astronomy).txt 2 1910 1999 
+late Lunar_distance_(astronomy).txt 1 938 
+detected Lunar_distance_(astronomy).txt 3 350 1508 1592 
+403 Lunar_distance_(astronomy).txt 1 1447 
+402 Lunar_distance_(astronomy).txt 2 32 1655 
+400 Lunar_distance_(astronomy).txt 1 154 
+2014 Lunar_distance_(astronomy).txt 2 617 1875 
+observatory Lunar_distance_(astronomy).txt 1 1714 
+apogee Lunar_distance_(astronomy).txt 1 209 
+then Lunar_distance_(astronomy).txt 1 801 
+them Lunar_distance_(astronomy).txt 1 2011 
+good Lunar_distance_(astronomy).txt 1 1317 
+return Lunar_distance_(astronomy).txt 2 1505 1589 
+one Lunar_distance_(astronomy).txt 2 1641 1646 
+practice Lunar_distance_(astronomy).txt 1 1523 
+60.61 Lunar_distance_(astronomy).txt 1 2071 
+time-averaged Lunar_distance_(astronomy).txt 2 124 170 
+effects Lunar_distance_(astronomy).txt 3 435 511 543 
+they Lunar_distance_(astronomy).txt 1 1412 
+half Lunar_distance_(astronomy).txt 1 1345 
+not Lunar_distance_(astronomy).txt 2 1009 1536 
+rotation Lunar_distance_(astronomy).txt 2 278 666 
+echo Lunar_distance_(astronomy).txt 1 1468 
+1958 Lunar_distance_(astronomy).txt 1 1545 
+edit Lunar_distance_(astronomy).txt 16 387 389 452 651 840 935 1019 1131 1244 1348 1452 1673 1780 2121 2124 2126 
+level Lunar_distance_(astronomy).txt 1 2027 
+transmitted Lunar_distance_(astronomy).txt 1 1560 
+crossing Lunar_distance_(astronomy).txt 1 1243 
+found Lunar_distance_(astronomy).txt 1 1223 
+quarter Lunar_distance_(astronomy).txt 3 148 626 632 
+traces Lunar_distance_(astronomy).txt 1 1611 
+mean Lunar_distance_(astronomy).txt 5 110 158 584 1415 1650 
+england Lunar_distance_(astronomy).txt 2 1552 1840 
+significantly Lunar_distance_(astronomy).txt 2 517 828 
+series Lunar_distance_(astronomy).txt 1 1885 
+energy Lunar_distance_(astronomy).txt 1 809 
+700 Lunar_distance_(astronomy).txt 1 647 
+astrophysical Lunar_distance_(astronomy).txt 1 1713 
+6997200000000000000 Lunar_distance_(astronomy).txt 1 465 
+2,500 Lunar_distance_(astronomy).txt 1 874 
+measure Lunar_distance_(astronomy).txt 4 86 1135 1188 2043 
+into Lunar_distance_(astronomy).txt 1 1226 
+our Lunar_distance_(astronomy).txt 1 966 
+event Lunar_distance_(astronomy).txt 3 1059 1072 1878 
+brings Lunar_distance_(astronomy).txt 1 2010 
+intended Lunar_distance_(astronomy).txt 3 990 1010 1633 
+giant Lunar_distance_(astronomy).txt 1 879 
+factors Lunar_distance_(astronomy).txt 1 443 
+furthermore Lunar_distance_(astronomy).txt 1 503 
+cameras Lunar_distance_(astronomy).txt 2 1793 2021 
+research Lunar_distance_(astronomy).txt 1 1463 
+increase Lunar_distance_(astronomy).txt 1 771 
+participants Lunar_distance_(astronomy).txt 1 1879 
+parallax Lunar_distance_(astronomy).txt 3 1018 1101 1844 
+7 Lunar_distance_(astronomy).txt 1 1448 
+illustrate Lunar_distance_(astronomy).txt 1 992 
+7008384407600000000 Lunar_distance_(astronomy).txt 1 1418 
+7003125000000000000 Lunar_distance_(astronomy).txt 1 1626 
+turning Lunar_distance_(astronomy).txt 1 956 
+theory Lunar_distance_(astronomy).txt 2 885 919 
+a.c.d Lunar_distance_(astronomy).txt 1 1250 
+million Lunar_distance_(astronomy).txt 2 151 875 
+reason Lunar_distance_(astronomy).txt 1 1960 
+follow-on Lunar_distance_(astronomy).txt 1 1643 
+earliest Lunar_distance_(astronomy).txt 1 1182 
+3.91 Lunar_distance_(astronomy).txt 1 2061 
+created Lunar_distance_(astronomy).txt 1 891 
+geometry Lunar_distance_(astronomy).txt 1 1168 
+determining Lunar_distance_(astronomy).txt 3 1003 1024 1769 
+could Lunar_distance_(astronomy).txt 2 1519 1535 
+computers Lunar_distance_(astronomy).txt 1 1797 
+days Lunar_distance_(astronomy).txt 1 648 
+conducted Lunar_distance_(astronomy).txt 3 978 1456 1867 
+incorporated Lunar_distance_(astronomy).txt 1 1436 
+onto Lunar_distance_(astronomy).txt 1 1612 
+1000 Lunar_distance_(astronomy).txt 1 421 
+constantly Lunar_distance_(astronomy).txt 1 395 
+fischer Lunar_distance_(astronomy).txt 1 1434 
+powerful Lunar_distance_(astronomy).txt 1 1796 
+reflected Lunar_distance_(astronomy).txt 1 1686 
+385,000.6 Lunar_distance_(astronomy).txt 1 178 
+utilized Lunar_distance_(astronomy).txt 1 980 
+another Lunar_distance_(astronomy).txt 1 900 
+reached Lunar_distance_(astronomy).txt 1 2024 
+angular Lunar_distance_(astronomy).txt 2 658 949 
+size Lunar_distance_(astronomy).txt 2 57 2049 
+earths Lunar_distance_(astronomy).txt 4 277 665 675 1151 
+observer Lunar_distance_(astronomy).txt 2 1914 1992 
+similarly Lunar_distance_(astronomy).txt 1 1361 
+trillion Lunar_distance_(astronomy).txt 1 252 
+system Lunar_distance_(astronomy).txt 2 537 837 
+approximately Lunar_distance_(astronomy).txt 1 146 
+needed Lunar_distance_(astronomy).txt 1 2089 
+2 Lunar_distance_(astronomy).txt 4 466 1449 1481 1566 
+observations Lunar_distance_(astronomy).txt 1 1142 
+calculations Lunar_distance_(astronomy).txt 1 1213 
+which Lunar_distance_(astronomy).txt 9 473 826 847 958 1060 1319 1658 1676 2072 
+ranging Lunar_distance_(astronomy).txt 3 355 1672 1756 
+gps Lunar_distance_(astronomy).txt 2 1794 2101 
+that Lunar_distance_(astronomy).txt 22 436 674 712 727 750 764 815 849 861 887 979 1156 1268 1465 1515 1531 1906 1936 1970 2068 2084 2111 
+accurately Lunar_distance_(astronomy).txt 1 601 
+broadcast Lunar_distance_(astronomy).txt 1 1484 
+optical Lunar_distance_(astronomy).txt 1 948 
+1910 Lunar_distance_(astronomy).txt 1 1290 
+photographic Lunar_distance_(astronomy).txt 1 1613 
+than Lunar_distance_(astronomy).txt 4 419 577 830 1162 
+distance Lunar_distance_(astronomy).txt 60 1 10 25 29 38 43 67 73 76 78 93 125 141 144 171 184 221 228 234 296 306 374 382 393 401 441 454 486 498 505 562 572 598 609 636 767 844 865 913 944 1006 1027 1137 1175 1190 1326 1340 1378 1402 1416 1476 1518 1619 1667 1772 1817 1855 1965 1972 2110 
+pre-determined Lunar_distance_(astronomy).txt 1 1054 
+15 Lunar_distance_(astronomy).txt 1 1873 
+6997360000000000000 Lunar_distance_(astronomy).txt 1 556 
+transferred Lunar_distance_(astronomy).txt 1 663 
+recording Lunar_distance_(astronomy).txt 1 1350 
+6998200000000000000 Lunar_distance_(astronomy).txt 1 480 
+r Lunar_distance_(astronomy).txt 5 869 916 1219 1237 2063 
+were Lunar_distance_(astronomy).txt 9 945 977 1483 1559 1600 1632 1832 1880 2055 
+result Lunar_distance_(astronomy).txt 4 672 894 1216 1234 
+and Lunar_distance_(astronomy).txt 46 62 132 174 264 276 294 324 378 381 405 450 520 541 595 613 643 689 775 805 902 963 974 984 1007 1035 1122 1153 1203 1208 1272 1313 1335 1368 1397 1509 1593 1638 1706 1744 1762 1777 1798 1839 1848 2039 2100 
+1.5 Lunar_distance_(astronomy).txt 2 345 732 
+regulus Lunar_distance_(astronomy).txt 1 1831 
+delay Lunar_distance_(astronomy).txt 2 1511 1595 
+remained Lunar_distance_(astronomy).txt 1 1336 
+modern Lunar_distance_(astronomy).txt 3 1784 2020 2092 
+locations Lunar_distance_(astronomy).txt 5 1042 1284 1391 1409 1836 
+have Lunar_distance_(astronomy).txt 2 926 2022 
+contents Lunar_distance_(astronomy).txt 1 385 
+u.s Lunar_distance_(astronomy).txt 1 1461 
+angle Lunar_distance_(astronomy).txt 4 1031 1117 1293 1364 
+1969 Lunar_distance_(astronomy).txt 1 1720 
+responsible Lunar_distance_(astronomy).txt 1 527 
+1962 Lunar_distance_(astronomy).txt 2 1431 1697 
+also Lunar_distance_(astronomy).txt 8 70 120 236 282 370 437 748 2120 
+forces Lunar_distance_(astronomy).txt 3 526 540 657 
+non-circular Lunar_distance_(astronomy).txt 1 430 
+accuracy Lunar_distance_(astronomy).txt 7 463 964 1104 1736 1751 1812 2077 
+added Lunar_distance_(astronomy).txt 1 1601 
+multiple Lunar_distance_(astronomy).txt 4 1041 1390 1598 1746 
+opposite Lunar_distance_(astronomy).txt 1 1948 
+object Lunar_distance_(astronomy).txt 1 231 
+took Lunar_distance_(astronomy).txt 1 1901 
+most Lunar_distance_(astronomy).txt 3 516 1661 1765 
+75 Lunar_distance_(astronomy).txt 1 413 
+errors Lunar_distance_(astronomy).txt 1 1107 
+importantly Lunar_distance_(astronomy).txt 1 2041 
+significant Lunar_distance_(astronomy).txt 1 997 
+measured Lunar_distance_(astronomy).txt 7 460 570 1116 1291 1513 1597 1677 
+average Lunar_distance_(astronomy).txt 7 9 37 92 340 485 842 863 
+later Lunar_distance_(astronomy).txt 2 1209 1222 
+implications Lunar_distance_(astronomy).txt 1 255 
+km Lunar_distance_(astronomy).txt 14 33 156 166 179 197 205 217 422 581 1334 1423 1450 1628 1657 
+accounted Lunar_distance_(astronomy).txt 1 1110 
+1.25 Lunar_distance_(astronomy).txt 1 1627 
+refining Lunar_distance_(astronomy).txt 2 266 1734 
+mechanical Lunar_distance_(astronomy).txt 1 1068 
+typically Lunar_distance_(astronomy).txt 1 1074 
+fact Lunar_distance_(astronomy).txt 3 398 1905 1969 
+atmosphere Lunar_distance_(astronomy).txt 1 1128 
+7001152400000000000 Lunar_distance_(astronomy).txt 1 1487 
+phenomenon Lunar_distance_(astronomy).txt 1 1952 
+7000229999999999999 Lunar_distance_(astronomy).txt 1 686 
+attempts Lunar_distance_(astronomy).txt 1 1133 
+radio Lunar_distance_(astronomy).txt 3 1491 1495 1579 
+6994200000000000000 Lunar_distance_(astronomy).txt 1 1480 
+earth Lunar_distance_(astronomy).txt 21 13 40 65 98 131 173 272 274 323 337 377 406 612 645 774 796 903 1983 1997 2001 2007 
+impact Lunar_distance_(astronomy).txt 3 880 898 922 
+384,402 Lunar_distance_(astronomy).txt 1 165 
+highest Lunar_distance_(astronomy).txt 1 1920 
+based Lunar_distance_(astronomy).txt 1 946 
+knowledge Lunar_distance_(astronomy).txt 2 967 1149 
+true Lunar_distance_(astronomy).txt 2 400 1950 
+hope Lunar_distance_(astronomy).txt 1 1318 
+earth-moon Lunar_distance_(astronomy).txt 1 1475 
+3 Lunar_distance_(astronomy).txt 1 2076 
+only Lunar_distance_(astronomy).txt 3 731 1639 2086 
+equipped Lunar_distance_(astronomy).txt 1 2095 
+circle Lunar_distance_(astronomy).txt 1 1267 
+thousands Lunar_distance_(astronomy).txt 1 604 
+astronomical Lunar_distance_(astronomy).txt 3 239 268 514 
+achieve Lunar_distance_(astronomy).txt 1 823 
+equilibrium Lunar_distance_(astronomy).txt 1 804 
+exchanged Lunar_distance_(astronomy).txt 1 812 
+perigee Lunar_distance_(astronomy).txt 1 202 
+oscilloscope Lunar_distance_(astronomy).txt 1 1610 
+geocentric Lunar_distance_(astronomy).txt 1 115 
+overall Lunar_distance_(astronomy).txt 1 477 
+perceive Lunar_distance_(astronomy).txt 1 2038 
+6998380000000000000 Lunar_distance_(astronomy).txt 1 371 
+made Lunar_distance_(astronomy).txt 1 308 
+nearly Lunar_distance_(astronomy).txt 2 1321 1985 
+shared Lunar_distance_(astronomy).txt 1 1090 
+timing Lunar_distance_(astronomy).txt 1 1788 
+during Lunar_distance_(astronomy).txt 7 870 971 1057 1715 1827 1868 1876 
+distortion Lunar_distance_(astronomy).txt 1 1123 
+increasing Lunar_distance_(astronomy).txt 1 846 
+radar Lunar_distance_(astronomy).txt 6 981 1451 1470 1477 1549 1553 
+7000380500000000000 Lunar_distance_(astronomy).txt 1 702 
+differential Lunar_distance_(astronomy).txt 1 213 
+throughout Lunar_distance_(astronomy).txt 2 586 1987 
+okeefe Lunar_distance_(astronomy).txt 1 1396 
+miles Lunar_distance_(astronomy).txt 1 152 
+predicted Lunar_distance_(astronomy).txt 1 763 
+pulses Lunar_distance_(astronomy).txt 4 1478 1554 1574 1685 
+farthest Lunar_distance_(astronomy).txt 2 63 1240 
+reference Lunar_distance_(astronomy).txt 1 1038 
+catastrophic Lunar_distance_(astronomy).txt 1 897 
+testing Lunar_distance_(astronomy).txt 1 257 
+1960s Lunar_distance_(astronomy).txt 1 975 
+observed Lunar_distance_(astronomy).txt 1 1252 
+see Lunar_distance_(astronomy).txt 2 23 2119 
+computer Lunar_distance_(astronomy).txt 1 985 
+radius Lunar_distance_(astronomy).txt 4 275 288 1152 2002 
+are Lunar_distance_(astronomy).txt 7 307 433 444 531 592 1387 1742 
+greece Lunar_distance_(astronomy).txt 1 1838 
+2.3 Lunar_distance_(astronomy).txt 1 687 
+all-encompassing Lunar_distance_(astronomy).txt 1 1016 
+closer Lunar_distance_(astronomy).txt 1 853 
+project Lunar_distance_(astronomy).txt 1 1861 
+phases Lunar_distance_(astronomy).txt 2 615 619 
+exploited Lunar_distance_(astronomy).txt 1 1141 
+record Lunar_distance_(astronomy).txt 1 1883 
+away Lunar_distance_(astronomy).txt 1 334 
+wikipedia Lunar_distance_(astronomy).txt 1 3 
+enough Lunar_distance_(astronomy).txt 1 2036 
+determined Lunar_distance_(astronomy).txt 1 1381 
+various Lunar_distance_(astronomy).txt 1 513 
+moons Lunar_distance_(astronomy).txt 4 36 55 608 669 
+encounters Lunar_distance_(astronomy).txt 1 232 
+recently Lunar_distance_(astronomy).txt 1 716 
+occults Lunar_distance_(astronomy).txt 1 1356 
+receivers Lunar_distance_(astronomy).txt 1 1795 
+however Lunar_distance_(astronomy).txt 4 487 708 1424 1524 
+384 Lunar_distance_(astronomy).txt 4 31 1419 1446 1654 
+article Lunar_distance_(astronomy).txt 1 5 
+configuration Lunar_distance_(astronomy).txt 1 825 
+observable Lunar_distance_(astronomy).txt 1 1062 
+cubes Lunar_distance_(astronomy).txt 1 363 
+last Lunar_distance_(astronomy).txt 1 631 
+missions Lunar_distance_(astronomy).txt 1 1718 
+invited Lunar_distance_(astronomy).txt 1 1881 
+uncertainty Lunar_distance_(astronomy).txt 4 478 566 1331 1624 
+space Lunar_distance_(astronomy).txt 1 952 
+trigonometry Lunar_distance_(astronomy).txt 1 1180 
+april Lunar_distance_(astronomy).txt 1 1874 
+s Lunar_distance_(astronomy).txt 2 1482 1558 
+refraction Lunar_distance_(astronomy).txt 1 1121 
+hypothesis Lunar_distance_(astronomy).txt 1 881 
+share Lunar_distance_(astronomy).txt 1 1320 
+experimental Lunar_distance_(astronomy).txt 1 2104 
+otherwise Lunar_distance_(astronomy).txt 1 999 
+facilities Lunar_distance_(astronomy).txt 1 1748 
+cm Lunar_distance_(astronomy).txt 4 344 373 482 705 
+point Lunar_distance_(astronomy).txt 5 957 1039 1241 1895 1921 
+sky Lunar_distance_(astronomy).txt 1 1924 
+period Lunar_distance_(astronomy).txt 3 472 790 794 
+coincidence Lunar_distance_(astronomy).txt 1 358 
+64 Lunar_distance_(astronomy).txt 1 1236 
+7000300000000000000 Lunar_distance_(astronomy).txt 1 2075 
+modeling Lunar_distance_(astronomy).txt 1 986 
+precambrian Lunar_distance_(astronomy).txt 1 872 
+407 Lunar_distance_(astronomy).txt 1 1420 
+described Lunar_distance_(astronomy).txt 1 445 
+1.2 Lunar_distance_(astronomy).txt 1 1656 
+capable Lunar_distance_(astronomy).txt 1 2028 
+monthly Lunar_distance_(astronomy).txt 1 501 
+due Lunar_distance_(astronomy).txt 3 427 488 1781 
+tiny Lunar_distance_(astronomy).txt 1 2045 
+quickly Lunar_distance_(astronomy).txt 1 410 
+much Lunar_distance_(astronomy).txt 1 1160 
+slowly Lunar_distance_(astronomy).txt 1 661 
+combined Lunar_distance_(astronomy).txt 1 1147 
+expected Lunar_distance_(astronomy).txt 1 832 
+anomalously Lunar_distance_(astronomy).txt 1 752 
+flight Lunar_distance_(astronomy).txt 1 1682 
+1950s Lunar_distance_(astronomy).txt 2 939 973 
+precision Lunar_distance_(astronomy).txt 4 242 301 962 2035 
+observers Lunar_distance_(astronomy).txt 1 1089 
+implied Lunar_distance_(astronomy).txt 1 2073 
+external Lunar_distance_(astronomy).txt 1 2122 
+systematic Lunar_distance_(astronomy).txt 1 1106 
+coordinated Lunar_distance_(astronomy).txt 1 1048 
+instant Lunar_distance_(astronomy).txt 1 1352 
+an Lunar_distance_(astronomy).txt 21 237 339 462 476 553 740 911 1013 1058 1154 1185 1245 1264 1330 1453 1532 1623 1674 1913 1991 2097 
+spin Lunar_distance_(astronomy).txt 1 678 
+laser Lunar_distance_(astronomy).txt 5 354 1671 1684 1747 1755 
+these Lunar_distance_(astronomy).txt 2 590 1629 
+crossed Lunar_distance_(astronomy).txt 2 1084 1306 
+reliable Lunar_distance_(astronomy).txt 2 1606 1766 
+value Lunar_distance_(astronomy).txt 9 163 386 585 970 1341 1426 1443 1651 2066 
+meridian Lunar_distance_(astronomy).txt 4 1086 1242 1257 1308 
+will Lunar_distance_(astronomy).txt 3 768 800 810 
+geodetic Lunar_distance_(astronomy).txt 1 1438 
+ongoing Lunar_distance_(astronomy).txt 1 1743 
+reliably Lunar_distance_(astronomy).txt 1 1538 
+7001750000000000000 Lunar_distance_(astronomy).txt 1 412 
+6991120417206325883 Lunar_distance_(astronomy).txt 1 722 
+passes Lunar_distance_(astronomy).txt 1 1269 
+characterizing Lunar_distance_(astronomy).txt 1 285 
+221,500 Lunar_distance_(astronomy).txt 1 198 
+century Lunar_distance_(astronomy).txt 1 1346 
+is Lunar_distance_(astronomy).txt 47 6 34 60 82 90 108 145 177 222 235 281 332 369 394 506 567 660 673 679 693 701 710 730 747 762 827 845 858 923 989 1008 1061 1097 1159 1763 1909 1917 1929 1939 1943 1949 1953 1984 1998 2018 2083 2090 
+it Lunar_distance_(astronomy).txt 13 59 89 107 118 709 746 761 1802 1916 1928 1934 1942 2017 
+surface Lunar_distance_(astronomy).txt 5 1500 1584 1690 1726 1995 
+in Lunar_distance_(astronomy).txt 28 21 87 211 250 284 346 364 397 423 446 475 534 616 854 905 917 1410 1430 1457 1522 1544 1551 1696 1719 1837 1922 1964 2047 
+technology Lunar_distance_(astronomy).txt 1 1705 
+if Lunar_distance_(astronomy).txt 1 1087 
+orbital Lunar_distance_(astronomy).txt 2 789 838 
+different Lunar_distance_(astronomy).txt 1 1283 
+make Lunar_distance_(astronomy).txt 1 1810 
+spiraling Lunar_distance_(astronomy).txt 1 333 
+same Lunar_distance_(astronomy).txt 3 1092 1279 1323 
+crommelin Lunar_distance_(astronomy).txt 1 1251 
+parts Lunar_distance_(astronomy).txt 1 249 
+widely Lunar_distance_(astronomy).txt 1 883 
+9 Lunar_distance_(astronomy).txt 1 1408 
+day Lunar_distance_(astronomy).txt 1 1642 
+re-accumulation Lunar_distance_(astronomy).txt 1 907 
+used Lunar_distance_(astronomy).txt 2 224 1466 
+closest Lunar_distance_(astronomy).txt 3 61 1911 2012 
+receiver Lunar_distance_(astronomy).txt 1 2102 
+effect Lunar_distance_(astronomy).txt 1 545 
+moment Lunar_distance_(astronomy).txt 4 1080 1259 1298 1375 
+000 Lunar_distance_(astronomy).txt 2 155 580 
+purpose Lunar_distance_(astronomy).txt 1 1732 
+changing Lunar_distance_(astronomy).txt 1 396 
+off Lunar_distance_(astronomy).txt 3 1498 1582 1688 
+center Lunar_distance_(astronomy).txt 5 96 101 1975 1981 2005 
+modeled Lunar_distance_(astronomy).txt 1 602 
+well Lunar_distance_(astronomy).txt 1 593 
+1957 Lunar_distance_(astronomy).txt 1 1458 
+echoed Lunar_distance_(astronomy).txt 2 1497 1581 
+directly Lunar_distance_(astronomy).txt 2 1270 1687 
+260 Lunar_distance_(astronomy).txt 1 1573 
+crimean Lunar_distance_(astronomy).txt 1 1712 
+greatest Lunar_distance_(astronomy).txt 1 1897 
+the Lunar_distance_(astronomy).txt 215 8 12 15 35 41 46 51 54 80 91 95 100 103 109 114 123 127 130 133 138 142 157 169 182 187 190 193 201 227 241 279 286 289 292 295 298 304 311 322 328 330 336 352 359 367 376 390 399 403 439 453 456 484 496 504 509 518 535 544 550 560 564 569 583 596 607 611 635 638 641 644 653 668 671 690 696 728 765 773 784 787 792 797 831 835 841 850 855 862 871 878 888 920 937 951 961 972 995 1004 1020 1025 1030 1033 1044 1070 1079 1082 1085 1088 1091 1115 1127 1136 1139 1157 1163 1167 1173 1181 1189 1192 1199 1227 1256 1258 1261 1274 1278 1292 1297 1307 1322 1337 1343 1351 1354 1363 1366 1376 1385 1400 1425 1460 1467 1474 1494 1499 1502 1504 1510 1517 1525 1540 1547 1578 1583 1586 1588 1594 1616 1618 1660 1665 1669 1678 1689 1692 1711 1716 1725 1728 1731 1735 1740 1749 1753 1764 1770 1783 1815 1825 1843 1846 1849 1853 1863 1869 1894 1899 1904 1907 1923 1931 1937 1945 1947 1956 1959 1962 1968 1971 1974 1977 1980 1988 1994 2004 2014 2025 2031 2050 2064 2078 2085 2108 
+soviet Lunar_distance_(astronomy).txt 1 1708 
+bodies Lunar_distance_(astronomy).txt 2 515 799 
+just Lunar_distance_(astronomy).txt 1 424 
+less Lunar_distance_(astronomy).txt 2 136 521 
+being Lunar_distance_(astronomy).txt 1 662 
+accurate Lunar_distance_(astronomy).txt 5 1067 1533 1662 1787 2098 
+1952 Lunar_distance_(astronomy).txt 1 1411 
+obtain Lunar_distance_(astronomy).txt 1 1604 
+cape Lunar_distance_(astronomy).txt 1 1315 
+accepted Lunar_distance_(astronomy).txt 2 884 2065 
+greenwich Lunar_distance_(astronomy).txt 1 1312 
+equipment Lunar_distance_(astronomy).txt 1 2088 
+royal Lunar_distance_(astronomy).txt 1 1548 
+geological Lunar_distance_(astronomy).txt 1 859 
+cm/year Lunar_distance_(astronomy).txt 1 724 
+signals Lunar_distance_(astronomy).txt 2 1471 1599 
+4 Lunar_distance_(astronomy).txt 2 743 1405 
+citizen Lunar_distance_(astronomy).txt 1 1778 
+5 Lunar_distance_(astronomy).txt 2 1557 1887 
+has Lunar_distance_(astronomy).txt 4 161 253 715 1803 
+momentum Lunar_distance_(astronomy).txt 1 659 
+elevation Lunar_distance_(astronomy).txt 1 1295 
+increased Lunar_distance_(astronomy).txt 2 717 1103 
+measurement Lunar_distance_(astronomy).txt 7 245 280 934 1095 1516 1534 1663 
+possible Lunar_distance_(astronomy).txt 1 1805 
+early Lunar_distance_(astronomy).txt 1 1132 
+predetermined Lunar_distance_(astronomy).txt 1 1374 
+background Lunar_distance_(astronomy).txt 3 1358 1370 1851 
+using Lunar_distance_(astronomy).txt 2 1179 1194 
+sampling Lunar_distance_(astronomy).txt 1 471 
+advanced Lunar_distance_(astronomy).txt 1 960 
+sizes Lunar_distance_(astronomy).txt 1 380 
+signal Lunar_distance_(astronomy).txt 3 1506 1590 1607 
+50 Lunar_distance_(astronomy).txt 2 816 1488 
+52 Lunar_distance_(astronomy).txt 1 868 
+consensus Lunar_distance_(astronomy).txt 1 738 
+mathematician Lunar_distance_(astronomy).txt 1 1204 
+benefit Lunar_distance_(astronomy).txt 1 2079 
+continue Lunar_distance_(astronomy).txt 2 758 769 
+night Lunar_distance_(astronomy).txt 3 1280 1989 2069 
+become Lunar_distance_(astronomy).txt 2 777 1804 
+aristarchus Lunar_distance_(astronomy).txt 2 1205 1864 
+exceed Lunar_distance_(astronomy).txt 1 1759 
+old Lunar_distance_(astronomy).txt 1 735 
+methods Lunar_distance_(astronomy).txt 2 1001 2105 
+4.19 Lunar_distance_(astronomy).txt 1 2062 
+some Lunar_distance_(astronomy).txt 2 442 993 
+3.6 Lunar_distance_(astronomy).txt 1 557 
+understood Lunar_distance_(astronomy).txt 1 594 
+astronomer Lunar_distance_(astronomy).txt 2 1202 1249 
+meters Lunar_distance_(astronomy).txt 1 414 
+accelerate Lunar_distance_(astronomy).txt 1 760 
+duration Lunar_distance_(astronomy).txt 1 785 
+3.8 Lunar_distance_(astronomy).txt 4 343 372 723 915 
+specific Lunar_distance_(astronomy).txt 1 1301 
+gradually Lunar_distance_(astronomy).txt 1 694 
+scale Lunar_distance_(astronomy).txt 1 384 
+for Lunar_distance_(astronomy).txt 14 17 256 265 314 483 528 1102 1111 1120 1342 1730 1806 1961 2067 
+0.25 Lunar_distance_(astronomy).txt 1 624 
+measurements Lunar_distance_(astronomy).txt 9 302 941 950 1051 1286 1386 1617 1741 1813 
+per Lunar_distance_(astronomy).txt 4 347 415 706 1575 
+moon Lunar_distance_(astronomy).txt 41 16 81 104 134 175 194 329 331 368 379 404 457 614 618 623 629 642 729 776 851 889 1034 1083 1140 1164 1193 1262 1355 1367 1503 1587 1693 1729 1826 1847 1908 1938 1957 1978 2015 2032 
+retroreflectors Lunar_distance_(astronomy).txt 3 325 365 1723 
+lunar Lunar_distance_(astronomy).txt 42 0 24 28 66 116 143 220 233 287 305 353 392 440 561 571 597 691 766 788 843 864 943 1005 1026 1076 1100 1129 1145 1171 1174 1253 1302 1339 1377 1401 1666 1754 1771 1816 1854 1870 2109 
+fragments Lunar_distance_(astronomy).txt 1 909 
+refer Lunar_distance_(astronomy).txt 1 121 
+measuring Lunar_distance_(astronomy).txt 6 310 1029 1362 1842 2087 2107 
+be Lunar_distance_(astronomy).txt 14 459 600 802 811 820 1012 1047 1109 1177 1380 1520 1537 1635 2113 
+who Lunar_distance_(astronomy).txt 2 1231 1435 
+scientific Lunar_distance_(astronomy).txt 1 737 
+406,700 Lunar_distance_(astronomy).txt 1 204 
+4th-century-bc Lunar_distance_(astronomy).txt 1 1200 
+lasted Lunar_distance_(astronomy).txt 1 1640 
+pressure Lunar_distance_(astronomy).txt 1 548 
+bp Lunar_distance_(astronomy).txt 1 877 
+although Lunar_distance_(astronomy).txt 2 563 1933 
+offset Lunar_distance_(astronomy).txt 1 2009 
+tidal Lunar_distance_(astronomy).txt 3 539 649 656 
+imaginary Lunar_distance_(astronomy).txt 1 1265 
+occultations Lunar_distance_(astronomy).txt 2 1347 1406 
+between Lunar_distance_(astronomy).txt 10 126 172 318 375 402 637 899 1032 1365 1845 
+on Lunar_distance_(astronomy).txt 9 321 327 366 947 1277 1724 1818 1930 1993 
+about Lunar_distance_(astronomy).txt 2 7 867 
+actual Lunar_distance_(astronomy).txt 2 42 183 
+stations Lunar_distance_(astronomy).txt 2 320 1310 
+of Lunar_distance_(astronomy).txt 90 48 85 97 102 113 129 149 164 189 192 215 243 291 303 342 361 464 479 512 546 555 605 634 640 655 677 685 699 721 742 755 786 795 834 895 908 914 933 942 965 968 994 1002 1023 1124 1143 1150 1169 1184 1206 1217 1229 1235 1294 1316 1332 1392 1417 1444 1501 1565 1572 1585 1625 1652 1664 1681 1683 1691 1704 1727 1733 1737 1752 1768 1814 1824 1830 1872 1886 1896 1903 1976 1982 1996 2006 2029 2052 2080 2106 
+range Lunar_distance_(astronomy).txt 1 214 
+important Lunar_distance_(astronomy).txt 1 238 
+greatly Lunar_distance_(astronomy).txt 1 959 
+horizon Lunar_distance_(astronomy).txt 2 1932 1946 
+lasting Lunar_distance_(astronomy).txt 3 1479 1555 1645 
+or Lunar_distance_(astronomy).txt 9 69 77 135 417 998 1015 1056 1078 1360 
+massachusetts Lunar_distance_(astronomy).txt 1 1702 
+perturbed Lunar_distance_(astronomy).txt 1 507 
+3.805 Lunar_distance_(astronomy).txt 1 703 
+communication Lunar_distance_(astronomy).txt 1 1801 
+image Lunar_distance_(astronomy).txt 1 52 
+involve Lunar_distance_(astronomy).txt 2 1745 2118 
+references Lunar_distance_(astronomy).txt 1 2125 
+determine Lunar_distance_(astronomy).txt 1 1473 
+parties Lunar_distance_(astronomy).txt 1 1065 
+refined Lunar_distance_(astronomy).txt 1 1428 
+next Lunar_distance_(astronomy).txt 1 1344 
+technically Lunar_distance_(astronomy).txt 1 106 
+relativistic Lunar_distance_(astronomy).txt 1 542 
+7008384402000000000 Lunar_distance_(astronomy).txt 2 30 1653 
+ptolemy Lunar_distance_(astronomy).txt 1 1230 
+assumed Lunar_distance_(astronomy).txt 1 924 
+altitude Lunar_distance_(astronomy).txt 1 1898 
+there Lunar_distance_(astronomy).txt 2 432 857 
+long Lunar_distance_(astronomy).txt 1 1383 
+lidar Lunar_distance_(astronomy).txt 1 319 
+anderson Lunar_distance_(astronomy).txt 1 1398 
+low Lunar_distance_(astronomy).txt 1 1530 
+way Lunar_distance_(astronomy).txt 1 1225 
+biggest Lunar_distance_(astronomy).txt 1 1940 
+was Lunar_distance_(astronomy).txt 18 852 866 890 1073 1197 1327 1427 1455 1507 1528 1542 1591 1620 1659 1694 1856 1866 2070 
+assumes Lunar_distance_(astronomy).txt 1 739 
+50,200 Lunar_distance_(astronomy).txt 1 216 
+ago Lunar_distance_(astronomy).txt 1 931 
+amateur Lunar_distance_(astronomy).txt 3 1775 1807 2116 
+adjusting Lunar_distance_(astronomy).txt 1 1114 
+but Lunar_distance_(astronomy).txt 1 1990 
+repeated Lunar_distance_(astronomy).txt 1 1543 
+7006100000000000000 Lunar_distance_(astronomy).txt 1 420 
+solar Lunar_distance_(astronomy).txt 2 536 836 
+apollo Lunar_distance_(astronomy).txt 1 1717 
+with Lunar_distance_(astronomy).txt 8 493 500 1148 1329 1561 1622 2033 2096 
+near-occultation Lunar_distance_(astronomy).txt 1 1829 
+sub-millimeter Lunar_distance_(astronomy).txt 2 568 1760 
+characteristic Lunar_distance_(astronomy).txt 1 75 
+gravitational Lunar_distance_(astronomy).txt 2 258 510 
+devices Lunar_distance_(astronomy).txt 1 1789 
+historically Lunar_distance_(astronomy).txt 1 996 
+planet Lunar_distance_(astronomy).txt 1 901 
+placed Lunar_distance_(astronomy).txt 2 326 1722 
+jupiter Lunar_distance_(astronomy).txt 1 524 
+called Lunar_distance_(astronomy).txt 2 71 1862 
+celestial Lunar_distance_(astronomy).txt 1 1275 
+constant Lunar_distance_(astronomy).txt 1 1986 
+expedition Lunar_distance_(astronomy).txt 1 1246 
+certain Lunar_distance_(astronomy).txt 1 1105 
+year Lunar_distance_(astronomy).txt 2 348 707 
+influence Lunar_distance_(astronomy).txt 1 438 
+accessibility Lunar_distance_(astronomy).txt 1 1785 
+general Lunar_distance_(astronomy).txt 1 262 
+as Lunar_distance_(astronomy).txt 13 261 271 349 409 411 718 892 1099 1113 1382 1384 1955 2057 
+at Lunar_distance_(astronomy).txt 18 200 208 338 682 803 910 1052 1238 1296 1311 1314 1372 1459 1546 1568 1668 1710 1918 
+planets Lunar_distance_(astronomy).txt 1 533 
+chronometers Lunar_distance_(astronomy).txt 1 1069 
+lifetime Lunar_distance_(astronomy).txt 1 833 
+film Lunar_distance_(astronomy).txt 1 1614 
+4.5 Lunar_distance_(astronomy).txt 1 928 
+4.7 Lunar_distance_(astronomy).txt 1 1422 
+compared Lunar_distance_(astronomy).txt 1 1925 
+no Lunar_distance_(astronomy).txt 1 806 
+whereas Lunar_distance_(astronomy).txt 1 736 
+when Lunar_distance_(astronomy).txt 10 58 783 1081 1260 1299 1353 1915 1927 1941 2016 
+signal-to-noise Lunar_distance_(astronomy).txt 1 1526 
+other Lunar_distance_(astronomy).txt 6 19 267 434 525 532 2103 
+compares Lunar_distance_(astronomy).txt 1 53 
+ambitious Lunar_distance_(astronomy).txt 1 1860 
+digital Lunar_distance_(astronomy).txt 4 1792 1822 1888 2093 
+illusion Lunar_distance_(astronomy).txt 1 1958 
+star Lunar_distance_(astronomy).txt 3 1359 1371 1852 
+models Lunar_distance_(astronomy).txt 1 813 
+categories Lunar_distance_(astronomy).txt 1 2127 
+variation Lunar_distance_(astronomy).txt 3 388 633 2046 
+milliseconds/century Lunar_distance_(astronomy).txt 1 688 
+peak Lunar_distance_(astronomy).txt 1 1563 
+dissipation Lunar_distance_(astronomy).txt 1 650 
+astronomy Lunar_distance_(astronomy).txt 2 2 88 
+near-earth Lunar_distance_(astronomy).txt 1 230 
+billion Lunar_distance_(astronomy).txt 4 733 744 817 929 
+implies Lunar_distance_(astronomy).txt 1 848 
+longer Lunar_distance_(astronomy).txt 1 829 
+age Lunar_distance_(astronomy).txt 2 741 953 
+required Lunar_distance_(astronomy).txt 1 821 
+orbit Lunar_distance_(astronomy).txt 7 50 117 191 431 492 670 692 
+together Lunar_distance_(astronomy).txt 1 1602 
+59-67 Lunar_distance_(astronomy).txt 1 1218 
+mass Lunar_distance_(astronomy).txt 2 273 290 
+2007 Lunar_distance_(astronomy).txt 1 1821 
+time Lunar_distance_(astronomy).txt 6 312 1055 1512 1596 1670 1680 
+31,200 Lunar_distance_(astronomy).txt 1 218 
+resolution Lunar_distance_(astronomy).txt 3 1761 1791 2026 

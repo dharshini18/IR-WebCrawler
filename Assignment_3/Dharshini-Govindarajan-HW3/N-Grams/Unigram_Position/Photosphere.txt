@@ -1,0 +1,226 @@
+spherical Photosphere.txt 1 80 
+wavelengths Photosphere.txt 1 130 
+all Photosphere.txt 1 209 
+they Photosphere.txt 1 193 
+just Photosphere.txt 1 411 
+less Photosphere.txt 1 218 
+being Photosphere.txt 2 78 239 
+suns Photosphere.txt 3 230 303 389 
+astronomical Photosphere.txt 1 7 
+neon Photosphere.txt 1 234 
+atmosphere Photosphere.txt 2 246 391 
+spaces Photosphere.txt 1 335 
+tenuous Photosphere.txt 1 421 
+disk Photosphere.txt 1 20 
+0.2 Photosphere.txt 2 235 238 
+roots Photosphere.txt 1 65 
+24 Photosphere.txt 1 373 
+1 Photosphere.txt 2 227 290 
+outer Photosphere.txt 1 50 
+density Photosphere.txt 2 249 287 
+graph Photosphere.txt 1 259 
+photons Photosphere.txt 1 127 
+except Photosphere.txt 1 155 
+to Photosphere.txt 10 27 76 85 100 126 141 168 363 372 380 
+only Photosphere.txt 1 344 
+extends Photosphere.txt 1 89 
+deepest Photosphere.txt 1 114 
+hidden Photosphere.txt 1 440 
+heavier Photosphere.txt 1 210 
+plasma Photosphere.txt 4 96 314 324 330 
+into Photosphere.txt 1 90 
+them Photosphere.txt 1 337 
+above Photosphere.txt 1 395 
+egyptian Photosphere.txt 1 22 
+photography Photosphere.txt 1 16 
+chromosphere Photosphere.txt 1 401 
+term Photosphere.txt 1 58 
+example Photosphere.txt 1 408 
+words Photosphere.txt 1 109 
+not Photosphere.txt 2 26 41 
+transparent Photosphere.txt 1 125 
+categories Photosphere.txt 2 439 441 
+perceived Photosphere.txt 1 84 
+stitching Photosphere.txt 1 12 
+oxygen Photosphere.txt 1 225 
+g-type Photosphere.txt 1 39 
+lies Photosphere.txt 1 410 
+edit Photosphere.txt 6 133 180 244 387 435 438 
+solid Photosphere.txt 1 160 
+each Photosphere.txt 2 315 338 
+references Photosphere.txt 1 434 
+grouping Photosphere.txt 1 355 
+primarily Photosphere.txt 1 185 
+reference Photosphere.txt 1 75 
+4,230 Photosphere.txt 1 272 
+observed Photosphere.txt 1 403 
+see Photosphere.txt 4 14 24 250 381 
+elements Photosphere.txt 2 189 211 
+are Photosphere.txt 3 359 377 429 
+luminous Photosphere.txt 1 118 
+74.9 Photosphere.txt 1 196 
+sunspots Photosphere.txt 1 433 
+for Photosphere.txt 6 9 17 195 217 252 407 
+opaque Photosphere.txt 1 98 
+sun Photosphere.txt 6 37 171 182 204 243 261 
+wikipedia Photosphere.txt 1 1 
+astronomy Photosphere.txt 1 215 
+continually Photosphere.txt 1 351 
+lifespans Photosphere.txt 1 369 
+stefanboltzmann Photosphere.txt 1 152 
+radiated Photosphere.txt 1 56 
+between Photosphere.txt 3 267 336 412 
+falling Photosphere.txt 1 331 
+aten Photosphere.txt 1 25 
+be Photosphere.txt 1 28 
+meanings Photosphere.txt 1 253 
+respectively Photosphere.txt 1 208 
+equivalent Photosphere.txt 1 99 
+here Photosphere.txt 1 251 
+6,000 Photosphere.txt 1 270 
+hours Photosphere.txt 1 374 
+shifting Photosphere.txt 1 352 
+kilometers Photosphere.txt 2 318 365 
+article Photosphere.txt 1 3 
+2/3 Photosphere.txt 1 106 
+super Photosphere.txt 1 360 
+by Photosphere.txt 2 146 404 
+5,730 Photosphere.txt 1 274 
+on Photosphere.txt 2 382 426 
+about Photosphere.txt 3 5 289 345 
+boiling Photosphere.txt 1 353 
+of Photosphere.txt 17 35 104 116 128 136 186 199 202 221 228 254 280 288 307 313 343 370 
+region Photosphere.txt 1 115 
+metals Photosphere.txt 1 213 
+granule Photosphere.txt 1 339 
+called Photosphere.txt 2 212 310 
+s Photosphere.txt 3 172 176 262 
+resulting Photosphere.txt 1 348 
+usually Photosphere.txt 1 120 
+narrow Photosphere.txt 1 334 
+or Photosphere.txt 2 173 299 
+23.8 Photosphere.txt 1 198 
+composed Photosphere.txt 2 184 306 
+diameter Photosphere.txt 2 320 367 
+features Photosphere.txt 1 425 
+extra Photosphere.txt 1 255 
+image Photosphere.txt 1 11 
+2,000 Photosphere.txt 1 399 
+5,504 Photosphere.txt 1 283 
+visible Photosphere.txt 1 390 
+rising Photosphere.txt 1 323 
+another Photosphere.txt 1 174 
+carbon Photosphere.txt 1 232 
+given Photosphere.txt 1 145 
+ancient Photosphere.txt 1 63 
+from Photosphere.txt 2 52 62 
+temperature Photosphere.txt 6 132 144 149 247 266 279 
+approximately Photosphere.txt 2 105 316 
+2 Photosphere.txt 1 220 
+therefore Photosphere.txt 1 162 
+stars Photosphere.txt 6 49 92 154 157 295 384 
+layers Photosphere.txt 2 386 394 
+h-alpha Photosphere.txt 1 409 
+until Photosphere.txt 1 94 
+too Photosphere.txt 1 378 
+shell Photosphere.txt 1 51 
+granules Photosphere.txt 3 311 358 361 
+that Photosphere.txt 2 82 123 
+becomes Photosphere.txt 1 97 
+photon Photosphere.txt 1 31 
+c Photosphere.txt 2 275 284 
+but Photosphere.txt 1 419 
+it Photosphere.txt 2 77 88 
+photos Photosphere.txt 1 67 
+visual Photosphere.txt 1 177 
+optical Photosphere.txt 1 102 
+labelled Photosphere.txt 1 42 
+solar Photosphere.txt 4 19 43 245 430 
+with Photosphere.txt 5 30 224 276 321 368 
+than Photosphere.txt 1 219 
+10 Photosphere.txt 1 291 
+phos Photosphere.txt 1 66 
+has Photosphere.txt 3 264 340 392 
+external Photosphere.txt 1 436 
+this Photosphere.txt 1 2 
+cooler Photosphere.txt 2 300 329 
+cells Photosphere.txt 2 309 312 
+up Photosphere.txt 2 362 371 
+lifespan Photosphere.txt 1 342 
+abundant Photosphere.txt 1 242 
+iron Photosphere.txt 1 237 
+k Photosphere.txt 2 271 282 
+mythology Photosphere.txt 1 23 
+minutes Photosphere.txt 1 347 
+emit Photosphere.txt 1 86 
+and Photosphere.txt 11 70 191 197 236 248 269 273 285 328 415 432 
+hotter Photosphere.txt 2 298 418 
+links Photosphere.txt 1 437 
+defined Photosphere.txt 1 140 
+certain Photosphere.txt 1 129 
+is Photosphere.txt 11 4 47 55 60 83 112 124 139 165 183 305 
+describe Photosphere.txt 1 169 
+confused Photosphere.txt 1 29 
+surface Photosphere.txt 6 81 93 135 161 178 424 
+an Photosphere.txt 2 101 277 
+sphere Photosphere.txt 2 32 73 
+vr Photosphere.txt 1 15 
+itself Photosphere.txt 1 59 
+corona Photosphere.txt 1 422 
+have Photosphere.txt 3 142 158 297 
+in Photosphere.txt 12 21 74 107 150 205 214 257 319 325 332 349 366 
+convection Photosphere.txt 1 308 
+hydrogen Photosphere.txt 1 190 
+contents Photosphere.txt 1 131 
+these Photosphere.txt 1 375 
+photospheres Photosphere.txt 1 301 
+no Photosphere.txt 1 159 
+4,500 Photosphere.txt 1 268 
+helium Photosphere.txt 1 192 
+feature Photosphere.txt 1 13 
+chemical Photosphere.txt 1 188 
+flares Photosphere.txt 1 431 
+hot Photosphere.txt 1 322 
+other Photosphere.txt 6 108 294 383 385 393 423 
+details Photosphere.txt 1 376 
+which Photosphere.txt 1 53 
+kilometer-deep Photosphere.txt 1 400 
+photosphere Photosphere.txt 10 0 46 111 164 207 263 304 397 414 428 
+filtered Photosphere.txt 1 405 
+more Photosphere.txt 1 420 
+composition Photosphere.txt 1 179 
+neutron Photosphere.txt 1 156 
+used Photosphere.txt 1 167 
+star Photosphere.txt 4 40 122 138 175 
+5,777 Photosphere.txt 1 281 
+may Photosphere.txt 1 296 
+object Photosphere.txt 2 8 119 
+derived Photosphere.txt 1 61 
+m Photosphere.txt 1 293 
+much Photosphere.txt 1 417 
+most Photosphere.txt 1 241 
+meaning Photosphere.txt 2 68 72 
+eight Photosphere.txt 1 346 
+sphaira Photosphere.txt 1 71 
+account Photosphere.txt 2 194 216 
+law Photosphere.txt 1 153 
+structure Photosphere.txt 1 34 
+a Photosphere.txt 13 38 48 79 91 110 117 121 137 143 265 286 341 350 
+30,000 Photosphere.txt 1 364 
+kg Photosphere.txt 1 292 
+center Photosphere.txt 1 327 
+effective Photosphere.txt 2 148 278 
+light Photosphere.txt 4 54 69 87 406 
+lines Photosphere.txt 1 256 
+roughly Photosphere.txt 1 226 
+fine Photosphere.txt 1 379 
+greek Photosphere.txt 1 64 
+depth Photosphere.txt 1 103 
+mass Photosphere.txt 3 201 223 231 
+0.3 Photosphere.txt 1 233 
+pattern Photosphere.txt 1 354 
+the Photosphere.txt 34 6 10 18 33 36 45 57 95 113 134 147 151 163 170 181 187 200 203 206 222 229 240 258 260 302 326 333 356 388 396 398 413 416 427 
+1000 Photosphere.txt 1 317 
+typically Photosphere.txt 2 166 402 
+wind Photosphere.txt 1 44 
+typical Photosphere.txt 1 357 

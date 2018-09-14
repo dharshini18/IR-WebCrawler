@@ -1,0 +1,263 @@
+irradiance Solar_maximum.txt 1 139 
+summer Solar_maximum.txt 1 32 
+currently Solar_maximum.txt 1 78 
+intensity Solar_maximum.txt 2 251 393 
+11-year Solar_maximum.txt 1 125 
+suns Solar_maximum.txt 1 172 
+over Solar_maximum.txt 2 71 79 
+global Solar_maximum.txt 2 155 407 
+vary Solar_maximum.txt 1 282 
+mission Solar_maximum.txt 1 9 
+years Solar_maximum.txt 3 81 208 226 
+four Solar_maximum.txt 2 74 80 
+not Solar_maximum.txt 1 318 
+spacecraft Solar_maximum.txt 1 5 
+paper Solar_maximum.txt 1 435 
+go Solar_maximum.txt 1 210 
+earth Solar_maximum.txt 1 248 
+ca Solar_maximum.txt 1 459 
+still Solar_maximum.txt 1 383 
+24 Solar_maximum.txt 2 20 84 
+documentary Solar_maximum.txt 3 338 346 353 
+690 Solar_maximum.txt 1 460 
+now Solar_maximum.txt 1 425 
+northern Solar_maximum.txt 1 254 
+flares Solar_maximum.txt 1 233 
+had Solar_maximum.txt 1 101 
+5620 Solar_maximum.txt 1 486 
+late Solar_maximum.txt 1 52 
+to Solar_maximum.txt 6 47 181 209 215 224 320 
+400 Solar_maximum.txt 1 412 
+2015 Solar_maximum.txt 1 445 
+2014 Solar_maximum.txt 1 324 
+struck Solar_maximum.txt 1 246 
+main Solar_maximum.txt 2 10 360 
+2011 Solar_maximum.txt 2 53 302 
+magnetic Solar_maximum.txt 2 173 183 
+2013 Solar_maximum.txt 1 34 
+2012 Solar_maximum.txt 1 45 
+8220 Solar_maximum.txt 1 502 
+then Solar_maximum.txt 1 327 
+increased Solar_maximum.txt 1 146 
+cuba Solar_maximum.txt 1 264 
+far Solar_maximum.txt 1 259 
+regional Solar_maximum.txt 2 165 409 
+4330 Solar_maximum.txt 1 480 
+period Solar_maximum.txt 1 118 
+5460 Solar_maximum.txt 1 484 
+5990 Solar_maximum.txt 1 490 
+timing Solar_maximum.txt 1 275 
+during Solar_maximum.txt 4 123 128 236 385 
+one Solar_maximum.txt 1 212 
+1958 Solar_maximum.txt 1 312 
+categories Solar_maximum.txt 2 511 513 
+4230 Solar_maximum.txt 1 478 
+rotating Solar_maximum.txt 1 189 
+february Solar_maximum.txt 2 44 107 
+impact Solar_maximum.txt 1 153 
+edit Solar_maximum.txt 5 269 336 359 508 510 
+cme Solar_maximum.txt 1 345 
+5260 Solar_maximum.txt 1 482 
+list Solar_maximum.txt 1 447 
+hawaii Solar_maximum.txt 1 266 
+large Solar_maximum.txt 2 131 231 
+these Solar_maximum.txt 1 386 
+7520 Solar_maximum.txt 1 500 
+predicted Solar_maximum.txt 1 87 
+activity Solar_maximum.txt 3 122 376 454 
+periods Solar_maximum.txt 1 390 
+output Solar_maximum.txt 2 140 148 
+cycles Solar_maximum.txt 4 230 371 382 396 
+declared Solar_maximum.txt 1 319 
+ejection Solar_maximum.txt 1 351 
+often Solar_maximum.txt 1 234 
+3940 Solar_maximum.txt 1 476 
+energy Solar_maximum.txt 1 147 
+some Solar_maximum.txt 2 162 404 
+prediction Solar_maximum.txt 1 16 
+7310 Solar_maximum.txt 1 498 
+observed Solar_maximum.txt 2 89 220 
+see Solar_maximum.txt 2 6 506 
+are Solar_maximum.txt 3 77 176 278 
+year Solar_maximum.txt 1 413 
+duration Solar_maximum.txt 1 219 
+5710 Solar_maximum.txt 1 488 
+centuries Solar_maximum.txt 1 380 
+even Solar_maximum.txt 1 326 
+1859 Solar_maximum.txt 1 245 
+shown Solar_maximum.txt 2 161 403 
+appear Solar_maximum.txt 1 135 
+for Solar_maximum.txt 4 3 17 239 377 
+record Solar_maximum.txt 1 334 
+sun Solar_maximum.txt 1 121 
+since Solar_maximum.txt 2 97 311 
+wikipedia Solar_maximum.txt 1 2 
+current Solar_maximum.txt 2 15 86 
+lights Solar_maximum.txt 1 255 
+smallest Solar_maximum.txt 1 94 
+poles Solar_maximum.txt 2 199 262 
+international Solar_maximum.txt 1 438 
+770 Solar_maximum.txt 1 464 
+three Solar_maximum.txt 1 227 
+360 Solar_maximum.txt 1 462 
+1390 Solar_maximum.txt 1 466 
+be Solar_maximum.txt 2 59 308 
+we Solar_maximum.txt 1 76 
+assembly Solar_maximum.txt 1 442 
+maximums Solar_maximum.txt 1 274 
+bc Solar_maximum.txt 22 463 465 467 469 471 473 475 477 479 481 483 485 487 489 491 493 495 497 499 501 503 505 
+initially Solar_maximum.txt 1 294 
+sunspot Solar_maximum.txt 6 18 24 37 66 95 416 
+hidden Solar_maximum.txt 1 512 
+however Solar_maximum.txt 1 313 
+2012-07-14 Solar_maximum.txt 1 352 
+ranked Solar_maximum.txt 1 329 
+recent Solar_maximum.txt 2 158 228 
+x Solar_maximum.txt 1 347 
+article Solar_maximum.txt 2 11 361 
+strong Solar_maximum.txt 1 49 
+by Solar_maximum.txt 1 142 
+thrown Solar_maximum.txt 1 427 
+on Solar_maximum.txt 3 185 200 333 
+about Solar_maximum.txt 4 28 143 206 339 
+2860 Solar_maximum.txt 1 468 
+last Solar_maximum.txt 1 73 
+solarmax Solar_maximum.txt 1 343 
+3500 Solar_maximum.txt 1 472 
+of Solar_maximum.txt 14 27 33 104 119 133 149 244 271 394 415 420 433 448 452 
+could Solar_maximum.txt 1 307 
+months Solar_maximum.txt 1 75 
+called Solar_maximum.txt 1 342 
+history Solar_maximum.txt 1 414 
+makes Solar_maximum.txt 1 91 
+or Solar_maximum.txt 3 112 301 379 
+among Solar_maximum.txt 1 330 
+astronomical Solar_maximum.txt 1 439 
+already Solar_maximum.txt 1 40 
+widely Solar_maximum.txt 1 283 
+into Solar_maximum.txt 2 82 428 
+predictions Solar_maximum.txt 3 268 270 281 
+number Solar_maximum.txt 3 25 38 67 
+0.07 Solar_maximum.txt 1 144 
+visible Solar_maximum.txt 1 257 
+weather Solar_maximum.txt 1 166 
+references Solar_maximum.txt 1 509 
+least Solar_maximum.txt 1 61 
+66 Solar_maximum.txt 1 29 
+67 Solar_maximum.txt 1 42 
+1906 Solar_maximum.txt 1 108 
+reached Solar_maximum.txt 1 41 
+mass Solar_maximum.txt 1 350 
+size Solar_maximum.txt 1 90 
+earths Solar_maximum.txt 1 154 
+from Solar_maximum.txt 3 211 222 260 
+takes Solar_maximum.txt 1 205 
+union Solar_maximum.txt 1 440 
+there Solar_maximum.txt 1 284 
+question Solar_maximum.txt 1 429 
+due Solar_maximum.txt 2 46 180 
+been Solar_maximum.txt 2 69 426 
+next Solar_maximum.txt 1 217 
+until Solar_maximum.txt 1 323 
+storm Solar_maximum.txt 1 243 
+expected Solar_maximum.txt 1 295 
+cycle Solar_maximum.txt 7 13 19 83 96 98 127 204 
+was Solar_maximum.txt 3 285 317 328 
+smoothed Solar_maximum.txt 3 23 36 65 
+7040 Solar_maximum.txt 1 496 
+gives Solar_maximum.txt 1 21 
+flat Solar_maximum.txt 1 70 
+modern Solar_maximum.txt 1 422 
+that Solar_maximum.txt 2 252 305 
+climate Solar_maximum.txt 2 156 410 
+but Solar_maximum.txt 1 391 
+idea Solar_maximum.txt 1 419 
+9170 Solar_maximum.txt 1 504 
+imax Solar_maximum.txt 1 337 
+solar Solar_maximum.txt 29 0 7 12 110 113 126 129 138 150 169 187 198 203 213 229 232 242 287 297 315 340 355 362 365 370 381 388 400 453 
+varying Solar_maximum.txt 1 221 
+with Solar_maximum.txt 5 164 218 249 406 430 
+than Solar_maximum.txt 2 195 374 
+those Solar_maximum.txt 1 395 
+11 Solar_maximum.txt 1 207 
+also Solar_maximum.txt 2 456 507 
+6400 Solar_maximum.txt 1 494 
+has Solar_maximum.txt 3 39 68 424 
+14 Solar_maximum.txt 2 99 225 
+this Solar_maximum.txt 2 62 92 
+decades Solar_maximum.txt 1 378 
+official Solar_maximum.txt 1 56 
+maximum Solar_maximum.txt 16 1 8 26 57 103 111 130 170 214 238 288 298 316 341 389 423 
+2010 Solar_maximum.txt 1 300 
+will Solar_maximum.txt 1 58 
+pace Solar_maximum.txt 1 194 
+future Solar_maximum.txt 1 273 
+can Solar_maximum.txt 1 152 
+historical Solar_maximum.txt 1 449 
+were Solar_maximum.txt 1 256 
+example Solar_maximum.txt 1 240 
+at Solar_maximum.txt 5 60 168 190 196 436 
+and Solar_maximum.txt 9 88 136 157 265 276 303 325 357 408 
+august Solar_maximum.txt 1 444 
+ad Solar_maximum.txt 1 461 
+minima Solar_maximum.txt 3 356 451 458 
+equator Solar_maximum.txt 1 188 
+is Solar_maximum.txt 2 115 397 
+distorted Solar_maximum.txt 1 179 
+it Solar_maximum.txt 1 306 
+3630 Solar_maximum.txt 1 474 
+general Solar_maximum.txt 1 441 
+high Solar_maximum.txt 1 63 
+as Solar_maximum.txt 2 258 263 
+numbers Solar_maximum.txt 2 132 417 
+have Solar_maximum.txt 3 160 321 402 
+in Solar_maximum.txt 8 30 43 51 106 289 291 299 443 
+exhibit Solar_maximum.txt 1 372 
+occur Solar_maximum.txt 3 235 367 384 
+contents Solar_maximum.txt 1 267 
+greater Solar_maximum.txt 2 373 398 
+strength Solar_maximum.txt 1 277 
+3340 Solar_maximum.txt 1 470 
+when Solar_maximum.txt 1 368 
+2000 Solar_maximum.txt 1 290 
+release Solar_maximum.txt 1 432 
+field Solar_maximum.txt 2 174 184 
+6220 Solar_maximum.txt 1 492 
+film Solar_maximum.txt 1 335 
+which Solar_maximum.txt 1 100 
+grand Solar_maximum.txt 6 354 364 387 399 450 457 
+9 Solar_maximum.txt 1 223 
+2006 Solar_maximum.txt 1 292 
+several Solar_maximum.txt 1 369 
+grows Solar_maximum.txt 1 141 
+difficult Solar_maximum.txt 1 280 
+slightly Solar_maximum.txt 1 192 
+includes Solar_maximum.txt 1 455 
+max Solar_maximum.txt 1 114 
+variation Solar_maximum.txt 1 363 
+occurred Solar_maximum.txt 1 322 
+most Solar_maximum.txt 1 178 
+regular Solar_maximum.txt 1 117 
+peak Solar_maximum.txt 1 50 
+strongest Solar_maximum.txt 1 310 
+such Solar_maximum.txt 1 250 
+class Solar_maximum.txt 1 348 
+sunspots Solar_maximum.txt 1 134 
+a Solar_maximum.txt 11 22 102 116 191 237 272 286 296 421 434 446 
+changes Solar_maximum.txt 1 411 
+faster Solar_maximum.txt 1 193 
+studies Solar_maximum.txt 1 159 
+average Solar_maximum.txt 2 201 375 
+lines Solar_maximum.txt 1 175 
+corona Solar_maximum.txt 1 349 
+thought Solar_maximum.txt 1 304 
+patterns Solar_maximum.txt 1 167 
+64.2 Solar_maximum.txt 1 105 
+nasa Solar_maximum.txt 3 109 293 344 
+so Solar_maximum.txt 1 54 
+greatest Solar_maximum.txt 1 120 
+correlation Solar_maximum.txt 2 163 405 
+very Solar_maximum.txt 1 279 
+the Solar_maximum.txt 31 4 14 31 35 48 55 64 72 85 93 124 137 145 171 177 182 186 197 202 216 241 247 253 261 309 314 331 392 418 431 437 
+weakest Solar_maximum.txt 1 332 
+maxima Solar_maximum.txt 4 151 358 366 401 

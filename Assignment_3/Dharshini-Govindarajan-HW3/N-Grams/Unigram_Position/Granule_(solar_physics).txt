@@ -1,0 +1,143 @@
+measurements Granule_(solar_physics).txt 1 184 
+produces Granule_(solar_physics).txt 1 149 
+caused Granule_(solar_physics).txt 1 55 
+produced Granule_(solar_physics).txt 1 78 
+thermal Granule_(solar_physics).txt 1 59 
+superimposed Granule_(solar_physics).txt 1 44 
+still Granule_(solar_physics).txt 1 159 
+before Granule_(solar_physics).txt 1 218 
+24 Granule_(solar_physics).txt 1 254 
+outer Granule_(solar_physics).txt 1 107 
+zone Granule_(solar_physics).txt 1 69 
+brighter Granule_(solar_physics).txt 2 131 164 
+4 Granule_(solar_physics).txt 1 232 
+convective Granule_(solar_physics).txt 4 68 84 180 195 
+suns Granule_(solar_physics).txt 1 67 
+8 Granule_(solar_physics).txt 1 214 
+hidden Granule_(solar_physics).txt 1 267 
+has Granule_(solar_physics).txt 1 203 
+plasma Granule_(solar_physics).txt 5 64 103 119 133 157 
+columns Granule_(solar_physics).txt 1 60 
+explained Granule_(solar_physics).txt 1 178 
+which Granule_(solar_physics).txt 1 175 
+far Granule_(solar_physics).txt 1 160 
+1,500 Granule_(solar_physics).txt 1 210 
+increases Granule_(solar_physics).txt 1 136 
+descending Granule_(solar_physics).txt 1 118 
+vastly Granule_(solar_physics).txt 1 163 
+categories Granule_(solar_physics).txt 2 266 268 
+loss Granule_(solar_physics).txt 1 146 
+cooler Granule_(solar_physics).txt 3 117 124 155 
+luminosity Granule_(solar_physics).txt 2 135 152 
+bnard Granule_(solar_physics).txt 1 61 
+large Granule_(solar_physics).txt 1 151 
+these Granule_(solar_physics).txt 1 83 
+unrelated Granule_(solar_physics).txt 1 24 
+small Granule_(solar_physics).txt 1 145 
+references Granule_(solar_physics).txt 1 264 
+where Granule_(solar_physics).txt 1 101 
+view Granule_(solar_physics).txt 2 11 37 
+grainy Granule_(solar_physics).txt 1 71 
+surrounding Granule_(solar_physics).txt 1 16 
+see Granule_(solar_physics).txt 1 7 
+individual Granule_(solar_physics).txt 2 31 189 
+are Granule_(solar_physics).txt 3 33 54 125 
+closer Granule_(solar_physics).txt 1 36 
+scale Granule_(solar_physics).txt 1 46 
+dense Granule_(solar_physics).txt 1 20 
+for Granule_(solar_physics).txt 3 4 45 193 
+pattern Granule_(solar_physics).txt 1 21 
+since Granule_(solar_physics).txt 1 134 
+wikipedia Granule_(solar_physics).txt 1 3 
+provides Granule_(solar_physics).txt 1 191 
+contrast Granule_(solar_physics).txt 1 153 
+be Granule_(solar_physics).txt 1 177 
+doppler Granule_(solar_physics).txt 1 182 
+terms Granule_(solar_physics).txt 1 121 
+power Granule_(solar_physics).txt 1 140 
+nature Granule_(solar_physics).txt 1 196 
+million Granule_(solar_physics).txt 1 233 
+sunspot Granule_(solar_physics).txt 2 14 27 
+illustration Granule_(solar_physics).txt 1 257 
+hours Granule_(solar_physics).txt 1 255 
+lasts Granule_(solar_physics).txt 1 213 
+kilometers Granule_(solar_physics).txt 2 211 246 
+20 Granule_(solar_physics).txt 1 216 
+by Granule_(solar_physics).txt 5 56 79 127 179 230 
+comparison Granule_(solar_physics).txt 1 128 
+about Granule_(solar_physics).txt 1 231 
+of Granule_(solar_physics).txt 18 12 22 38 51 63 73 82 93 109 141 147 185 197 209 241 251 258 261 
+granule Granule_(solar_physics).txt 3 0 8 202 
+motion Granule_(solar_physics).txt 1 181 
+s Granule_(solar_physics).txt 1 226 
+and Granule_(solar_physics).txt 5 15 86 123 162 212 
+within Granule_(solar_physics).txt 1 65 
+layer Granule_(solar_physics).txt 1 240 
+one Granule_(solar_physics).txt 1 222 
+visible Granule_(solar_physics).txt 1 173 
+rising Granule_(solar_physics).txt 1 91 
+dissipating Granule_(solar_physics).txt 1 219 
+supergranules Granule_(solar_physics).txt 1 242 
+from Granule_(solar_physics).txt 1 188 
+temperature Granule_(solar_physics).txt 1 142 
+would Granule_(solar_physics).txt 1 176 
+to Granule_(solar_physics).txt 7 25 115 129 171 215 244 253 
+addition Granule_(solar_physics).txt 1 170 
+strictly Granule_(solar_physics).txt 1 126 
+diameter Granule_(solar_physics).txt 2 205 248 
+due Granule_(solar_physics).txt 1 114 
+time Granule_(solar_physics).txt 1 223 
+is Granule_(solar_physics).txt 9 28 77 87 96 104 112 158 228 238 
+north Granule_(solar_physics).txt 1 42 
+granules Granule_(solar_physics).txt 8 34 40 47 95 111 190 199 234 
+on Granule_(solar_physics).txt 2 48 206 
+edit Granule_(solar_physics).txt 1 265 
+heat Granule_(solar_physics).txt 1 148 
+part Granule_(solar_physics).txt 1 92 
+solar Granule_(solar_physics).txt 3 1 17 75 
+covered Granule_(solar_physics).txt 1 229 
+an Granule_(solar_physics).txt 1 256 
+with Granule_(solar_physics).txt 3 41 137 249 
+than Granule_(solar_physics).txt 1 165 
+granulation Granule_(solar_physics).txt 2 29 89 
+this Granule_(solar_physics).txt 1 154 
+cells Granule_(solar_physics).txt 4 23 32 62 85 
+appearance Granule_(solar_physics).txt 2 72 174 
+up Granule_(solar_physics).txt 2 243 252 
+below Granule_(solar_physics).txt 1 235 
+shift Granule_(solar_physics).txt 1 183 
+minutes Granule_(solar_physics).txt 1 217 
+called Granule_(solar_physics).txt 1 88 
+darker Granule_(solar_physics).txt 3 113 122 156 
+detailed Granule_(solar_physics).txt 1 10 
+thermite Granule_(solar_physics).txt 1 167 
+hotter Granule_(solar_physics).txt 3 105 132 161 
+disambiguation Granule_(solar_physics).txt 1 9 
+surface Granule_(solar_physics).txt 2 18 227 
+evidence Granule_(solar_physics).txt 1 192 
+at Granule_(solar_physics).txt 1 220 
+in Granule_(solar_physics).txt 3 98 169 247 
+convection Granule_(solar_physics).txt 1 57 
+any Granule_(solar_physics).txt 1 221 
+currents Granule_(solar_physics).txt 1 58 
+located Granule_(solar_physics).txt 1 97 
+other Granule_(solar_physics).txt 1 5 
+fourth Granule_(solar_physics).txt 1 139 
+photosphere Granule_(solar_physics).txt 3 50 76 237 
+even Granule_(solar_physics).txt 1 143 
+lifespans Granule_(solar_physics).txt 1 250 
+reaction Granule_(solar_physics).txt 1 168 
+tops Granule_(solar_physics).txt 1 81 
+uses Granule_(solar_physics).txt 1 6 
+america Granule_(solar_physics).txt 1 43 
+structure Granule_(solar_physics).txt 1 260 
+a Granule_(solar_physics).txt 8 13 35 144 150 166 200 204 239 
+center Granule_(solar_physics).txt 1 100 
+light Granule_(solar_physics).txt 1 187 
+edge Granule_(solar_physics).txt 1 108 
+sun Granule_(solar_physics).txt 3 53 225 263 
+the Granule_(solar_physics).txt 29 19 26 30 39 49 52 66 70 74 80 90 94 99 102 106 110 116 120 130 138 172 186 194 198 207 224 236 259 262 
+30,000 Granule_(solar_physics).txt 1 245 
+physics Granule_(solar_physics).txt 1 2 
+order Granule_(solar_physics).txt 1 208 
+typical Granule_(solar_physics).txt 1 201 

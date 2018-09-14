@@ -1,0 +1,326 @@
+concept Gravitational_shielding.txt 2 124 131 
+shield Gravitational_shielding.txt 1 54 
+proposed Gravitational_shielding.txt 1 485 
+cavorite Gravitational_shielding.txt 1 154 
+violation Gravitational_shielding.txt 1 108 
+nasa-funded Gravitational_shielding.txt 1 591 
+accurate Gravitational_shielding.txt 1 257 
+vary Gravitational_shielding.txt 1 79 
+results Gravitational_shielding.txt 5 198 349 463 529 596 
+topic Gravitational_shielding.txt 1 586 
+bring Gravitational_shielding.txt 1 472 
+shape Gravitational_shielding.txt 2 40 58 
+stringent Gravitational_shielding.txt 1 283 
+inconsistent Gravitational_shielding.txt 2 115 555 
+during Gravitational_shielding.txt 2 261 413 
+earth Gravitational_shielding.txt 1 90 
+disk Gravitational_shielding.txt 3 65 77 87 
+yet Gravitational_shielding.txt 1 658 
+subsequently Gravitational_shielding.txt 1 303 
+1908 Gravitational_shielding.txt 1 291 
+le Gravitational_shielding.txt 1 373 
+based Gravitational_shielding.txt 2 253 285 
+verne Gravitational_shielding.txt 1 179 
+apex Gravitational_shielding.txt 1 74 
+subjected Gravitational_shielding.txt 1 667 
+relativity Gravitational_shielding.txt 4 122 363 483 553 
+also Gravitational_shielding.txt 2 406 672 
+confirmed Gravitational_shielding.txt 1 532 
+jules Gravitational_shielding.txt 1 178 
+to Gravitational_shielding.txt 13 8 48 93 105 199 330 382 444 466 471 534 631 668 
+conducted Gravitational_shielding.txt 1 433 
+does Gravitational_shielding.txt 1 575 
+occasional Gravitational_shielding.txt 1 582 
+0.5 Gravitational_shielding.txt 1 623 
+has Gravitational_shielding.txt 2 266 306 
+astronomical Gravitational_shielding.txt 1 278 
+scientific Gravitational_shielding.txt 1 569 
+eugene Gravitational_shielding.txt 1 597 
+meant Gravitational_shielding.txt 1 547 
+do Gravitational_shielding.txt 1 467 
+tests Gravitational_shielding.txt 1 181 
+good Gravitational_shielding.txt 1 356 
+shielding Gravitational_shielding.txt 19 1 6 13 86 102 127 152 197 204 237 273 370 397 430 448 470 510 574 653 
+greater Gravitational_shielding.txt 1 299 
+views Gravitational_shielding.txt 1 562 
+between Gravitational_shielding.txt 2 508 622 
+term Gravitational_shielding.txt 1 4 
+criticized Gravitational_shielding.txt 1 173 
+unnikrishnan Gravitational_shielding.txt 1 420 
+2 Gravitational_shielding.txt 1 625 
+every Gravitational_shielding.txt 1 366 
+effects Gravitational_shielding.txt 3 371 381 449 
+they Gravitational_shielding.txt 1 26 
+not Gravitational_shielding.txt 1 576 
+using Gravitational_shielding.txt 1 175 
+shadow Gravitational_shielding.txt 1 50 
+height Gravitational_shielding.txt 2 70 83 
+day Gravitational_shielding.txt 1 536 
+nor Gravitational_shielding.txt 1 643 
+like Gravitational_shielding.txt 2 372 656 
+rotating Gravitational_shielding.txt 1 616 
+processes Gravitational_shielding.txt 1 24 
+showed Gravitational_shielding.txt 2 311 459 
+level Gravitational_shielding.txt 1 385 
+edit Gravitational_shielding.txt 6 186 428 563 673 675 678 
+h Gravitational_shielding.txt 4 158 217 295 331 
+sages Gravitational_shielding.txt 1 374 
+magnetically-levitated Gravitational_shielding.txt 1 614 
+consensus Gravitational_shielding.txt 1 565 
+this Gravitational_shielding.txt 4 304 329 535 585 
+experiments Gravitational_shielding.txt 5 352 424 431 474 522 
+common Gravitational_shielding.txt 1 130 
+follows Gravitational_shielding.txt 1 225 
+20th Gravitational_shielding.txt 2 209 437 
+view Gravitational_shielding.txt 1 566 
+upper Gravitational_shielding.txt 2 233 318 
+on Gravitational_shielding.txt 4 254 271 286 394 
+force Gravitational_shielding.txt 1 222 
+cones Gravitational_shielding.txt 1 73 
+weight Gravitational_shielding.txt 2 35 627 
+undetectable Gravitational_shielding.txt 1 384 
+there Gravitational_shielding.txt 1 579 
+successfully Gravitational_shielding.txt 1 660 
+reduce Gravitational_shielding.txt 1 379 
+see Gravitational_shielding.txt 5 398 416 523 537 671 
+et Gravitational_shielding.txt 4 325 404 421 525 
+withdrew Gravitational_shielding.txt 1 608 
+examples Gravitational_shielding.txt 1 147 
+quantum Gravitational_shielding.txt 1 636 
+laboratory Gravitational_shielding.txt 1 228 
+connection Gravitational_shielding.txt 1 507 
+best Gravitational_shielding.txt 3 145 227 251 
+standard Gravitational_shielding.txt 1 557 
+established Gravitational_shielding.txt 2 231 293 
+by Gravitational_shielding.txt 6 177 402 419 439 497 663 
+extinction Gravitational_shielding.txt 1 215 
+for Gravitational_shielding.txt 7 55 137 174 236 386 407 517 
+space Gravitational_shielding.txt 1 138 
+held Gravitational_shielding.txt 1 611 
+quantify Gravitational_shielding.txt 1 200 
+review Gravitational_shielding.txt 2 388 665 
+measurements Gravitational_shielding.txt 1 229 
+wikipedia Gravitational_shielding.txt 1 2 
+moon Gravitational_shielding.txt 1 169 
+current Gravitational_shielding.txt 1 391 
+public Gravitational_shielding.txt 1 669 
+3 Gravitational_shielding.txt 1 332 
+experiment Gravitational_shielding.txt 1 191 
+lunar Gravitational_shielding.txt 2 287 313 
+above Gravitational_shielding.txt 5 63 75 88 540 612 
+denied Gravitational_shielding.txt 1 505 
+replicated Gravitational_shielding.txt 1 661 
+new Gravitational_shielding.txt 1 269 
+neither Gravitational_shielding.txt 1 640 
+610 Gravitational_shielding.txt 1 275 
+majorana Gravitational_shielding.txt 3 212 441 442 
+coefficient Gravitational_shielding.txt 1 216 
+be Gravitational_shielding.txt 5 46 67 106 297 531 
+agreement Gravitational_shielding.txt 1 357 
+forces Gravitational_shielding.txt 1 458 
+theory Gravitational_shielding.txt 5 119 367 375 545 638 
+s Gravitational_shielding.txt 1 453 
+men Gravitational_shielding.txt 1 166 
+however Gravitational_shielding.txt 2 277 639 
+hidden Gravitational_shielding.txt 1 680 
+promptly Gravitational_shielding.txt 1 172 
+paper Gravitational_shielding.txt 2 418 592 
+reported Gravitational_shielding.txt 1 594 
+objects Gravitational_shielding.txt 1 610 
+variation Gravitational_shielding.txt 2 516 544 
+although Gravitational_shielding.txt 1 546 
+others Gravitational_shielding.txt 1 648 
+article Gravitational_shielding.txt 1 401 
+detecting Gravitational_shielding.txt 1 195 
+refers Gravitational_shielding.txt 1 7 
+beginning Gravitational_shielding.txt 1 207 
+appears Gravitational_shielding.txt 1 156 
+russell Gravitational_shielding.txt 1 452 
+suggested Gravitational_shielding.txt 2 213 244 
+both Gravitational_shielding.txt 1 117 
+substance Gravitational_shielding.txt 1 153 
+improved Gravitational_shielding.txt 2 309 328 
+g Gravitational_shielding.txt 1 159 
+constraint Gravitational_shielding.txt 1 270 
+of Gravitational_shielding.txt 36 12 19 32 36 41 59 71 84 109 125 141 182 188 203 208 238 248 320 346 350 361 376 389 410 455 481 492 500 514 520 551 567 604 621 647 649 
+region Gravitational_shielding.txt 2 44 62 
+impose Gravitational_shielding.txt 1 280 
+diminished Gravitational_shielding.txt 1 496 
+later Gravitational_shielding.txt 1 607 
+amount Gravitational_shielding.txt 1 202 
+theoreticians Gravitational_shielding.txt 1 628 
+survey Gravitational_shielding.txt 1 400 
+greatly Gravitational_shielding.txt 1 308 
+consequence Gravitational_shielding.txt 1 345 
+510 Gravitational_shielding.txt 1 333 
+eclipses Gravitational_shielding.txt 1 415 
+experimental Gravitational_shielding.txt 2 91 392 
+first Gravitational_shielding.txt 2 143 165 
+criticism Gravitational_shielding.txt 1 427 
+equivalence Gravitational_shielding.txt 3 111 184 479 
+bertolami Gravitational_shielding.txt 1 403 
+had Gravitational_shielding.txt 1 464 
+into Gravitational_shielding.txt 1 584 
+predictions Gravitational_shielding.txt 1 360 
+bound Gravitational_shielding.txt 4 234 247 305 319 
+community Gravitational_shielding.txt 1 570 
+one Gravitational_shielding.txt 2 140 603 
+nothing Gravitational_shielding.txt 1 465 
+newtons Gravitational_shielding.txt 1 220 
+references Gravitational_shielding.txt 1 674 
+directly Gravitational_shielding.txt 1 80 
+tidal Gravitational_shielding.txt 1 457 
+couldnt Gravitational_shielding.txt 1 530 
+reducing Gravitational_shielding.txt 1 33 
+estimate Gravitational_shielding.txt 1 252 
+1901 Gravitational_shielding.txt 1 162 
+existed Gravitational_shielding.txt 1 27 
+he Gravitational_shielding.txt 3 484 504 606 
+or Gravitational_shielding.txt 2 654 666 
+from Gravitational_shielding.txt 2 16 51 
+exists Gravitational_shielding.txt 1 100 
+would Gravitational_shielding.txt 4 28 45 66 78 
+positive Gravitational_shielding.txt 3 196 447 462 
+century Gravitational_shielding.txt 2 210 438 
+available Gravitational_shielding.txt 1 289 
+negative Gravitational_shielding.txt 2 348 595 
+been Gravitational_shielding.txt 3 307 581 659 
+fiction Gravitational_shielding.txt 1 134 
+reduction Gravitational_shielding.txt 2 620 651 
+much Gravitational_shielding.txt 1 281 
+therefore Gravitational_shielding.txt 1 114 
+hypothetical Gravitational_shielding.txt 1 10 
+underwent Gravitational_shielding.txt 1 618 
+proposal Gravitational_shielding.txt 1 513 
+was Gravitational_shielding.txt 2 171 192 
+ranging Gravitational_shielding.txt 1 314 
+williams Gravitational_shielding.txt 1 324 
+observations Gravitational_shielding.txt 3 279 288 412 
+1999 Gravitational_shielding.txt 1 590 
+general Gravitational_shielding.txt 4 121 362 482 552 
+newtonian Gravitational_shielding.txt 1 118 
+that Gravitational_shielding.txt 10 96 155 218 294 312 336 365 460 572 609 
+successful Gravitational_shielding.txt 1 193 
+some Gravitational_shielding.txt 1 429 
+contains Gravitational_shielding.txt 1 369 
+attempted Gravitational_shielding.txt 1 630 
+body Gravitational_shielding.txt 2 494 502 
+lower Gravitational_shielding.txt 1 246 
+but Gravitational_shielding.txt 3 503 527 578 
+al Gravitational_shielding.txt 4 326 405 422 526 
+henry Gravitational_shielding.txt 1 450 
+podkletnovs Gravitational_shielding.txt 2 633 641 
+external Gravitational_shielding.txt 1 676 
+solar Gravitational_shielding.txt 2 264 414 
+known Gravitational_shielding.txt 1 146 
+an Gravitational_shielding.txt 6 14 37 214 232 317 383 
+with Gravitational_shielding.txt 7 81 116 358 468 477 556 635 
+than Gravitational_shielding.txt 2 300 341 
+those Gravitational_shielding.txt 2 351 380 
+must Gravitational_shielding.txt 1 378 
+10 Gravitational_shielding.txt 2 301 321 
+novel Gravitational_shielding.txt 1 163 
+limits Gravitational_shielding.txt 2 284 393 
+1997 Gravitational_shielding.txt 1 263 
+accordance Gravitational_shielding.txt 1 476 
+shielded Gravitational_shielding.txt 2 43 61 
+science Gravitational_shielding.txt 1 133 
+gravitational Gravitational_shielding.txt 10 0 5 21 53 101 221 396 469 509 573 
+eclipse Gravitational_shielding.txt 1 265 
+up Gravitational_shielding.txt 1 533 
+value Gravitational_shielding.txt 1 338 
+limit Gravitational_shielding.txt 1 235 
+can Gravitational_shielding.txt 1 296 
+were Gravitational_shielding.txt 1 432 
+modifies Gravitational_shielding.txt 1 219 
+more Gravitational_shielding.txt 1 282 
+similar Gravitational_shielding.txt 2 47 645 
+example Gravitational_shielding.txt 1 56 
+are Gravitational_shielding.txt 1 354 
+and Gravitational_shielding.txt 8 113 120 144 323 425 511 541 624 
+model Gravitational_shielding.txt 1 487 
+measured Gravitational_shielding.txt 1 446 
+uncertainty Gravitational_shielding.txt 1 343 
+podkletnov Gravitational_shielding.txt 1 598 
+reconcile Gravitational_shielding.txt 1 632 
+links Gravitational_shielding.txt 1 677 
+classic Gravitational_shielding.txt 1 161 
+process Gravitational_shielding.txt 1 11 
+is Gravitational_shielding.txt 8 103 128 148 339 364 495 554 571 
+influence Gravitational_shielding.txt 1 18 
+it Gravitational_shielding.txt 1 176 
+superconducting Gravitational_shielding.txt 1 615 
+evidence Gravitational_shielding.txt 1 92 
+investigations Gravitational_shielding.txt 1 583 
+indicates Gravitational_shielding.txt 1 95 
+as Gravitational_shielding.txt 5 187 224 548 559 588 
+smaller Gravitational_shielding.txt 1 340 
+exist Gravitational_shielding.txt 1 577 
+at Gravitational_shielding.txt 1 205 
+have Gravitational_shielding.txt 7 29 230 327 445 580 629 657 
+in Gravitational_shielding.txt 11 132 157 167 194 290 355 434 475 488 600 626 
+eckhardt Gravitational_shielding.txt 1 310 
+analysis Gravitational_shielding.txt 2 243 454 
+m/kg Gravitational_shielding.txt 5 240 276 302 322 334 
+conical Gravitational_shielding.txt 1 68 
+russells Gravitational_shielding.txt 2 426 542 
+contents Gravitational_shielding.txt 1 180 
+if Gravitational_shielding.txt 1 25 
+proximity Gravitational_shielding.txt 1 499 
+verified Gravitational_shielding.txt 1 662 
+no Gravitational_shielding.txt 3 97 190 298 
+demonstration Gravitational_shielding.txt 1 670 
+travel Gravitational_shielding.txt 1 139 
+gravity Gravitational_shielding.txt 6 126 151 258 637 650 652 
+poincar Gravitational_shielding.txt 1 292 
+note Gravitational_shielding.txt 1 335 
+field Gravitational_shielding.txt 1 22 
+another Gravitational_shielding.txt 3 241 501 518 
+cosson Gravitational_shielding.txt 1 524 
+which Gravitational_shielding.txt 5 353 368 489 593 605 
+papers Gravitational_shielding.txt 1 602 
+modification Gravitational_shielding.txt 1 550 
+majoranas Gravitational_shielding.txt 5 423 461 473 521 528 
+parameter Gravitational_shielding.txt 1 274 
+explanation Gravitational_shielding.txt 1 519 
+disc Gravitational_shielding.txt 1 617 
+independent Gravitational_shielding.txt 1 664 
+claimed Gravitational_shielding.txt 2 443 599 
+literature Gravitational_shielding.txt 1 135 
+minority Gravitational_shielding.txt 1 561 
+provided Gravitational_shielding.txt 1 267 
+any Gravitational_shielding.txt 1 506 
+0.610 Gravitational_shielding.txt 1 249 
+object Gravitational_shielding.txt 2 15 38 
+categories Gravitational_shielding.txt 2 679 681 
+effect Gravitational_shielding.txt 2 31 99 
+wells Gravitational_shielding.txt 2 160 170 
+possible Gravitational_shielding.txt 1 395 
+most Gravitational_shielding.txt 1 256 
+gravitation Gravitational_shielding.txt 1 377 
+two Gravitational_shielding.txt 1 601 
+claims Gravitational_shielding.txt 3 634 642 646 
+date Gravitational_shielding.txt 1 94 
+such Gravitational_shielding.txt 3 23 98 587 
+law Gravitational_shielding.txt 1 223 
+data Gravitational_shielding.txt 2 260 315 
+2008 Gravitational_shielding.txt 1 189 
+recent Gravitational_shielding.txt 2 242 411 
+a Gravitational_shielding.txt 15 9 20 49 64 107 129 245 268 387 408 486 493 549 613 619 
+early Gravitational_shielding.txt 1 436 
+quirino Gravitational_shielding.txt 2 211 440 
+implies Gravitational_shielding.txt 1 316 
+especially Gravitational_shielding.txt 1 136 
+considered Gravitational_shielding.txt 1 104 
+norris Gravitational_shielding.txt 1 451 
+well Gravitational_shielding.txt 1 560 
+fictional Gravitational_shielding.txt 1 150 
+4.310 Gravitational_shielding.txt 1 239 
+mass Gravitational_shielding.txt 3 491 515 543 
+principle Gravitational_shielding.txt 3 112 185 480 
+anomaly Gravitational_shielding.txt 1 259 
+his Gravitational_shielding.txt 1 512 
+the Gravitational_shielding.txt 48 3 17 30 34 39 42 52 57 60 69 72 76 82 85 89 110 123 142 149 164 168 183 201 206 226 250 255 262 272 337 342 344 347 359 390 399 417 435 456 478 490 498 538 564 568 589 644 655 
+section Gravitational_shielding.txt 1 539 
+physics Gravitational_shielding.txt 1 558 
+discussion Gravitational_shielding.txt 1 409 

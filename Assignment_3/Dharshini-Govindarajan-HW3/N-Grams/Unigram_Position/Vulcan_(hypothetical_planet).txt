@@ -1,0 +1,706 @@
+all Vulcan_(hypothetical_planet).txt 2 1484 1699 
+pointing Vulcan_(hypothetical_planet).txt 1 1571 
+caused Vulcan_(hypothetical_planet).txt 1 328 
+asteroids Vulcan_(hypothetical_planet).txt 4 1290 1851 1855 1866 
+spacecraft Vulcan_(hypothetical_planet).txt 1 115 
+disk Vulcan_(hypothetical_planet).txt 3 1008 1630 1664 
+transits Vulcan_(hypothetical_planet).txt 6 314 897 940 1633 1635 1668 
+whose Vulcan_(hypothetical_planet).txt 1 154 
+supposedly Vulcan_(hypothetical_planet).txt 1 815 
+paris Vulcan_(hypothetical_planet).txt 3 193 528 704 
+wyoming Vulcan_(hypothetical_planet).txt 1 1184 
+passage Vulcan_(hypothetical_planet).txt 1 794 
+to Vulcan_(hypothetical_planet).txt 43 33 44 118 196 225 278 438 456 465 498 516 543 582 695 716 751 786 851 884 893 903 920 945 997 1170 1177 1217 1233 1348 1372 1382 1401 1445 1469 1513 1554 1583 1626 1648 1659 1737 1742 1800 
+suns Vulcan_(hypothetical_planet).txt 3 1007 1629 1663 
+discovering Vulcan_(hypothetical_planet).txt 1 446 
+fifth-magnitude Vulcan_(hypothetical_planet).txt 1 1243 
+southwest Vulcan_(hypothetical_planet).txt 3 526 1191 1225 
+very Vulcan_(hypothetical_planet).txt 3 770 1265 1552 
+end Vulcan_(hypothetical_planet).txt 1 1403 
+perihelion Vulcan_(hypothetical_planet).txt 4 343 353 1465 1516 
+continued Vulcan_(hypothetical_planet).txt 1 919 
+condition Vulcan_(hypothetical_planet).txt 1 785 
+materialize Vulcan_(hypothetical_planet).txt 1 946 
+lescarbaults Vulcan_(hypothetical_planet).txt 3 728 767 807 
+this Vulcan_(hypothetical_planet).txt 4 222 298 318 409 
+red Vulcan_(hypothetical_planet).txt 1 1309 
+small Vulcan_(hypothetical_planet).txt 8 27 347 373 395 535 559 1653 1850 
+venus Vulcan_(hypothetical_planet).txt 2 1528 1672 
+optics Vulcan_(hypothetical_planet).txt 2 1580 1608 
+round Vulcan_(hypothetical_planet).txt 1 1359 
+recourse Vulcan_(hypothetical_planet).txt 1 1468 
+work Vulcan_(hypothetical_planet).txt 2 205 286 
+eclipse Vulcan_(hypothetical_planet).txt 5 1138 1206 1566 1724 1796 
+further Vulcan_(hypothetical_planet).txt 1 1892 
+estimated Vulcan_(hypothetical_planet).txt 3 656 1196 1230 
+even Vulcan_(hypothetical_planet).txt 2 1595 1745 
+what Vulcan_(hypothetical_planet).txt 2 615 1214 
+appear Vulcan_(hypothetical_planet).txt 2 717 1320 
+lgion Vulcan_(hypothetical_planet).txt 1 712 
+clock Vulcan_(hypothetical_planet).txt 1 644 
+sun Vulcan_(hypothetical_planet).txt 22 42 179 218 265 440 567 759 800 819 875 1179 1194 1228 1274 1374 1503 1556 1601 1727 1744 1780 1812 
+eminent Vulcan_(hypothetical_planet).txt 1 732 
+new Vulcan_(hypothetical_planet).txt 5 468 928 1166 1477 1716 
+learned Vulcan_(hypothetical_planet).txt 1 720 
+revolved Vulcan_(hypothetical_planet).txt 1 816 
+ever Vulcan_(hypothetical_planet).txt 3 87 474 1818 
+body Vulcan_(hypothetical_planet).txt 1 627 
+triggered Vulcan_(hypothetical_planet).txt 1 1357 
+degree Vulcan_(hypothetical_planet).txt 1 862 
+gathered Vulcan_(hypothetical_planet).txt 1 110 
+mr Vulcan_(hypothetical_planet).txt 1 1045 
+sunspot Vulcan_(hypothetical_planet).txt 1 585 
+french Vulcan_(hypothetical_planet).txt 6 52 198 488 733 1069 1109 
+understanding Vulcan_(hypothetical_planet).txt 1 1446 
+hours Vulcan_(hypothetical_planet).txt 3 845 1093 1103 
+reported Vulcan_(hypothetical_planet).txt 2 929 1311 
+objects Vulcan_(hypothetical_planet).txt 3 1079 1734 1757 
+separation Vulcan_(hypothetical_planet).txt 1 1183 
+excess Vulcan_(hypothetical_planet).txt 1 385 
+observing Vulcan_(hypothetical_planet).txt 4 618 1181 1204 1536 
+urbain Vulcan_(hypothetical_planet).txt 2 54 200 
+search Vulcan_(hypothetical_planet).txt 4 79 476 1418 1689 
+ecliptic Vulcan_(hypothetical_planet).txt 2 853 1650 
+1843 Vulcan_(hypothetical_planet).txt 2 241 267 
+involved Vulcan_(hypothetical_planet).txt 1 76 
+study Vulcan_(hypothetical_planet).txt 3 223 294 319 
+larger Vulcan_(hypothetical_planet).txt 2 139 1867 
+1846 Vulcan_(hypothetical_planet).txt 1 23 
+1845 Vulcan_(hypothetical_planet).txt 1 611 
+amount Vulcan_(hypothetical_planet).txt 4 348 374 1460 1591 
+published Vulcan_(hypothetical_planet).txt 2 244 290 
+makes Vulcan_(hypothetical_planet).txt 1 1509 
+diameter Vulcan_(hypothetical_planet).txt 2 146 1776 
+named Vulcan_(hypothetical_planet).txt 2 68 1296 
+figure Vulcan_(hypothetical_planet).txt 2 1087 1097 
+transit Vulcan_(hypothetical_planet).txt 12 257 502 607 621 661 679 779 808 983 1052 1116 1366 
+explained Vulcan_(hypothetical_planet).txt 3 98 389 1678 
+while Vulcan_(hypothetical_planet).txt 1 1291 
+apt Vulcan_(hypothetical_planet).txt 1 431 
+visible Vulcan_(hypothetical_planet).txt 1 1248 
+conjunction Vulcan_(hypothetical_planet).txt 1 1337 
+total Vulcan_(hypothetical_planet).txt 1 1136 
+from Vulcan_(hypothetical_planet).txt 18 22 273 324 367 487 867 873 888 1117 1164 1182 1207 1256 1448 1492 1501 1599 1640 
+russell Vulcan_(hypothetical_planet).txt 1 973 
+working Vulcan_(hypothetical_planet).txt 1 739 
+oclock Vulcan_(hypothetical_planet).txt 2 964 1038 
+photographic Vulcan_(hypothetical_planet).txt 1 1719 
+positive Vulcan_(hypothetical_planet).txt 1 791 
+predictions Vulcan_(hypothetical_planet).txt 1 272 
+dowling Vulcan_(hypothetical_planet).txt 1 1714 
+few Vulcan_(hypothetical_planet).txt 1 1693 
+covington Vulcan_(hypothetical_planet).txt 1 992 
+asteroid Vulcan_(hypothetical_planet).txt 2 150 1806 
+therefore Vulcan_(hypothetical_planet).txt 1 781 
+totality Vulcan_(hypothetical_planet).txt 1 1250 
+6 Vulcan_(hypothetical_planet).txt 1 1870 
+mysterious Vulcan_(hypothetical_planet).txt 1 778 
+definite Vulcan_(hypothetical_planet).txt 1 1316 
+more Vulcan_(hypothetical_planet).txt 6 292 953 1287 1343 1822 1844 
+said Vulcan_(hypothetical_planet).txt 1 774 
+inclined Vulcan_(hypothetical_planet).txt 1 850 
+postulated Vulcan_(hypothetical_planet).txt 2 382 1392 
+mercurys Vulcan_(hypothetical_planet).txt 7 48 93 296 340 1464 1505 1683 
+tested Vulcan_(hypothetical_planet).txt 1 254 
+train Vulcan_(hypothetical_planet).txt 1 515 
+surface Vulcan_(hypothetical_planet).txt 1 756 
+excellent Vulcan_(hypothetical_planet).txt 1 1281 
+known Vulcan_(hypothetical_planet).txt 2 170 175 
+arago Vulcan_(hypothetical_planet).txt 1 188 
+reflections Vulcan_(hypothetical_planet).txt 1 1605 
+95 Vulcan_(hypothetical_planet).txt 1 577 
+must Vulcan_(hypothetical_planet).txt 1 1549 
+none Vulcan_(hypothetical_planet).txt 1 1813 
+fooling Vulcan_(hypothetical_planet).txt 1 1610 
+hour Vulcan_(hypothetical_planet).txt 1 664 
+mm Vulcan_(hypothetical_planet).txt 1 578 
+des Vulcan_(hypothetical_planet).txt 1 701 
+mi Vulcan_(hypothetical_planet).txt 7 144 166 525 835 1774 1791 1873 
+modified Vulcan_(hypothetical_planet).txt 1 1479 
+london Vulcan_(hypothetical_planet).txt 1 979 
+nine Vulcan_(hypothetical_planet).txt 1 1037 
+can Vulcan_(hypothetical_planet).txt 2 1574 1602 
+universe Vulcan_(hypothetical_planet).txt 1 12 
+believed Vulcan_(hypothetical_planet).txt 1 1761 
+making Vulcan_(hypothetical_planet).txt 1 428 
+claim Vulcan_(hypothetical_planet).txt 1 458 
+indicated Vulcan_(hypothetical_planet).txt 2 804 1331 
+0.1 Vulcan_(hypothetical_planet).txt 1 1786 
+december Vulcan_(hypothetical_planet).txt 1 480 
+topic Vulcan_(hypothetical_planet).txt 1 208 
+professor Vulcan_(hypothetical_planet).txt 1 1146 
+axis Vulcan_(hypothetical_planet).txt 2 159 172 
+sir Vulcan_(hypothetical_planet).txt 1 231 
+arbor Vulcan_(hypothetical_planet).txt 1 1155 
+unexpected Vulcan_(hypothetical_planet).txt 1 1115 
+goal Vulcan_(hypothetical_planet).txt 1 220 
+5.7 Vulcan_(hypothetical_planet).txt 1 141 
+six Vulcan_(hypothetical_planet).txt 1 1252 
+lithographic Vulcan_(hypothetical_planet).txt 1 20 
+damage Vulcan_(hypothetical_planet).txt 1 1577 
+1 Vulcan_(hypothetical_planet).txt 1 663 
+how Vulcan_(hypothetical_planet).txt 1 551 
+verriers Vulcan_(hypothetical_planet).txt 2 275 442 
+circular Vulcan_(hypothetical_planet).txt 2 823 1525 
+map Vulcan_(hypothetical_planet).txt 1 21 
+tried Vulcan_(hypothetical_planet).txt 1 1347 
+huge Vulcan_(hypothetical_planet).txt 1 1590 
+may Vulcan_(hypothetical_planet).txt 1 1106 
+after Vulcan_(hypothetical_planet).txt 5 593 962 1297 1422 1821 
+spot Vulcan_(hypothetical_planet).txt 2 1003 1655 
+orbits Vulcan_(hypothetical_planet).txt 4 1482 1526 1645 1740 
+modest Vulcan_(hypothetical_planet).txt 1 574 
+produce Vulcan_(hypothetical_planet).txt 1 1603 
+sunspots Vulcan_(hypothetical_planet).txt 1 1360 
+such Vulcan_(hypothetical_planet).txt 3 84 1853 1865 
+data Vulcan_(hypothetical_planet).txt 1 109 
+man Vulcan_(hypothetical_planet).txt 1 546 
+a Vulcan_(hypothetical_planet).txt 43 19 26 70 157 227 256 291 302 346 394 434 467 485 501 534 558 584 624 646 681 696 761 784 796 821 826 1000 1044 1051 1086 1096 1173 1208 1242 1315 1340 1473 1537 1564 1652 1692 1782 1880 
+acadmie Vulcan_(hypothetical_planet).txt 1 700 
+realized Vulcan_(hypothetical_planet).txt 1 599 
+hasty Vulcan_(hypothetical_planet).txt 1 631 
+light Vulcan_(hypothetical_planet).txt 1 1593 
+orgres-en-beauce Vulcan_(hypothetical_planet).txt 1 520 
+fictional Vulcan_(hypothetical_planet).txt 1 6 
+or Vulcan_(hypothetical_planet).txt 3 1253 1342 1849 
+reputations Vulcan_(hypothetical_planet).txt 1 1279 
+so Vulcan_(hypothetical_planet).txt 1 436 
+indeed Vulcan_(hypothetical_planet).txt 1 333 
+over Vulcan_(hypothetical_planet).txt 1 798 
+move Vulcan_(hypothetical_planet).txt 1 1660 
+emmanuel Vulcan_(hypothetical_planet).txt 1 735 
+satisfied Vulcan_(hypothetical_planet).txt 1 673 
+doubtful Vulcan_(hypothetical_planet).txt 1 133 
+130 Vulcan_(hypothetical_planet).txt 1 1767 
+including Vulcan_(hypothetical_planet).txt 1 423 
+radau Vulcan_(hypothetical_planet).txt 2 1075 1095 
+existence Vulcan_(hypothetical_planet).txt 4 183 1433 1471 1803 
+still Vulcan_(hypothetical_planet).txt 1 335 
+its Vulcan_(hypothetical_planet).txt 6 342 634 1197 1231 1329 1413 
+modeste Vulcan_(hypothetical_planet).txt 1 494 
+before Vulcan_(hypothetical_planet).txt 1 718 
+observational Vulcan_(hypothetical_planet).txt 1 1622 
+astronomers Vulcan_(hypothetical_planet).txt 5 460 1070 1145 1427 1686 
+26 Vulcan_(hypothetical_planet).txt 2 153 553 
+le Vulcan_(hypothetical_planet).txt 15 55 201 242 274 282 380 441 482 511 537 670 809 886 917 1397 
+rapidly Vulcan_(hypothetical_planet).txt 1 1496 
+21 Vulcan_(hypothetical_planet).txt 1 829 
+22 Vulcan_(hypothetical_planet).txt 3 479 1031 1102 
+c Vulcan_(hypothetical_planet).txt 1 1711 
+relativity Vulcan_(hypothetical_planet).txt 2 106 1440 
+29 Vulcan_(hypothetical_planet).txt 2 969 1140 
+denver Vulcan_(hypothetical_planet).txt 1 1211 
+detected Vulcan_(hypothetical_planet).txt 2 1732 1879 
+degrees Vulcan_(hypothetical_planet).txt 4 856 878 1190 1224 
+categories Vulcan_(hypothetical_planet).txt 2 1898 1900 
+differed Vulcan_(hypothetical_planet).txt 1 366 
+isaac Vulcan_(hypothetical_planet).txt 1 232 
+hidden Vulcan_(hypothetical_planet).txt 1 1899 
+main Vulcan_(hypothetical_planet).txt 1 1533 
+might Vulcan_(hypothetical_planet).txt 2 1624 1656 
+meridian Vulcan_(hypothetical_planet).txt 1 305 
+colleague Vulcan_(hypothetical_planet).txt 1 1054 
+then Vulcan_(hypothetical_planet).txt 2 1026 1133 
+them Vulcan_(hypothetical_planet).txt 1 882 
+janeiro Vulcan_(hypothetical_planet).txt 1 747 
+edmond Vulcan_(hypothetical_planet).txt 1 493 
+they Vulcan_(hypothetical_planet).txt 1 59 
+half Vulcan_(hypothetical_planet).txt 1 1339 
+not Vulcan_(hypothetical_planet).txt 5 588 722 912 1618 1698 
+now Vulcan_(hypothetical_planet).txt 1 96 
+nor Vulcan_(hypothetical_planet).txt 1 1876 
+kilometres Vulcan_(hypothetical_planet).txt 4 142 523 831 1770 
+gets Vulcan_(hypothetical_planet).txt 1 1499 
+name Vulcan_(hypothetical_planet).txt 2 406 432 
+brightness Vulcan_(hypothetical_planet).txt 1 1232 
+mathematician Vulcan_(hypothetical_planet).txt 2 53 199 
+january Vulcan_(hypothetical_planet).txt 2 687 970 
+lightand Vulcan_(hypothetical_planet).txt 1 1327 
+magnitude Vulcan_(hypothetical_planet).txt 2 1198 1488 
+vulcanoids Vulcan_(hypothetical_planet).txt 3 121 138 1531 
+each Vulcan_(hypothetical_planet).txt 2 349 927 
+found Vulcan_(hypothetical_planet).txt 3 88 475 1858 
+entirely Vulcan_(hypothetical_planet).txt 1 1442 
+experienced Vulcan_(hypothetical_planet).txt 1 1144 
+investigators Vulcan_(hypothetical_planet).txt 1 74 
+everyone Vulcan_(hypothetical_planet).txt 1 723 
+england Vulcan_(hypothetical_planet).txt 1 1049 
+telescope Vulcan_(hypothetical_planet).txt 3 762 1548 1573 
+verrier Vulcan_(hypothetical_planet).txt 13 56 202 243 283 381 483 512 538 671 810 887 918 1398 
+series Vulcan_(hypothetical_planet).txt 1 303 
+eb Vulcan_(hypothetical_planet).txt 1 152 
+82,000,000 Vulcan_(hypothetical_planet).txt 1 163 
+year Vulcan_(hypothetical_planet).txt 1 510 
+80 Vulcan_(hypothetical_planet).txt 1 1771 
+event Vulcan_(hypothetical_planet).txt 1 1061 
+out Vulcan_(hypothetical_planet).txt 2 271 1863 
+solved Vulcan_(hypothetical_planet).txt 1 1451 
+god Vulcan_(hypothetical_planet).txt 1 417 
+13,000,000 Vulcan_(hypothetical_planet).txt 1 834 
+since Vulcan_(hypothetical_planet).txt 1 1546 
+forty Vulcan_(hypothetical_planet).txt 1 1824 
+seriously Vulcan_(hypothetical_planet).txt 1 1429 
+announced Vulcan_(hypothetical_planet).txt 2 690 935 
+benjamin Vulcan_(hypothetical_planet).txt 1 1071 
+earlier Vulcan_(hypothetical_planet).txt 3 507 908 956 
+theory Vulcan_(hypothetical_planet).txt 6 103 247 276 1438 1478 1494 
+million Vulcan_(hypothetical_planet).txt 1 830 
+quite Vulcan_(hypothetical_planet).txt 1 1596 
+semi-major Vulcan_(hypothetical_planet).txt 2 158 171 
+york Vulcan_(hypothetical_planet).txt 2 1167 1717 
+telescopes Vulcan_(hypothetical_planet).txt 1 1322 
+advance Vulcan_(hypothetical_planet).txt 1 1462 
+19th-century Vulcan_(hypothetical_planet).txt 1 51 
+could Vulcan_(hypothetical_planet).txt 3 123 387 911 
+days Vulcan_(hypothetical_planet).txt 3 842 1090 1100 
+motion Vulcan_(hypothetical_planet).txt 4 215 237 297 639 
+american Vulcan_(hypothetical_planet).txt 1 989 
+hindering Vulcan_(hypothetical_planet).txt 1 421 
+twenty Vulcan_(hypothetical_planet).txt 1 1289 
+arrived Vulcan_(hypothetical_planet).txt 1 539 
+diminishes Vulcan_(hypothetical_planet).txt 1 1495 
+first Vulcan_(hypothetical_planet).txt 1 590 
+already Vulcan_(hypothetical_planet).txt 1 1285 
+powerful Vulcan_(hypothetical_planet).txt 1 765 
+number Vulcan_(hypothetical_planet).txt 1 71 
+one Vulcan_(hypothetical_planet).txt 2 1380 1498 
+1862 Vulcan_(hypothetical_planet).txt 1 1033 
+1877 Vulcan_(hypothetical_planet).txt 1 1396 
+revolution Vulcan_(hypothetical_planet).txt 1 839 
+least Vulcan_(hypothetical_planet).txt 2 1387 1753 
+another Vulcan_(hypothetical_planet).txt 5 64 620 1041 1108 1407 
+reached Vulcan_(hypothetical_planet).txt 1 931 
+noticed Vulcan_(hypothetical_planet).txt 1 557 
+1878 Vulcan_(hypothetical_planet).txt 2 1123 1142 
+mercury Vulcan_(hypothetical_planet).txt 10 39 149 212 259 401 609 1543 1670 1809 1886 
+unexplained Vulcan_(hypothetical_planet).txt 1 896 
+unknown Vulcan_(hypothetical_planet).txt 3 331 683 1847 
+construct Vulcan_(hypothetical_planet).txt 1 226 
+their Vulcan_(hypothetical_planet).txt 1 1304 
+180 Vulcan_(hypothetical_planet).txt 1 1769 
+2 Vulcan_(hypothetical_planet).txt 1 686 
+observations Vulcan_(hypothetical_planet).txt 8 128 281 306 904 1019 1126 1385 1702 
+hypothetical Vulcan_(hypothetical_planet).txt 7 1 28 505 1129 1305 1351 1474 
+vulcan-type Vulcan_(hypothetical_planet).txt 1 1174 
+postulate Vulcan_(hypothetical_planet).txt 1 1801 
+courten Vulcan_(hypothetical_planet).txt 3 1712 1749 1760 
+passed Vulcan_(hypothetical_planet).txt 1 597 
+that Vulcan_(hypothetical_planet).txt 21 30 58 122 134 203 321 383 600 614 674 772 1238 1312 1328 1332 1361 1616 1697 1751 1762 1832 
+exactly Vulcan_(hypothetical_planet).txt 1 1457 
+albert Vulcan_(hypothetical_planet).txt 1 100 
+took Vulcan_(hypothetical_planet).txt 4 513 629 651 1216 
+plane Vulcan_(hypothetical_planet).txt 1 1651 
+viewing Vulcan_(hypothetical_planet).txt 1 1587 
+objectsmay Vulcan_(hypothetical_planet).txt 1 1840 
+part Vulcan_(hypothetical_planet).txt 1 708 
+f.a.r Vulcan_(hypothetical_planet).txt 1 972 
+july Vulcan_(hypothetical_planet).txt 1 1141 
+abated Vulcan_(hypothetical_planet).txt 1 1421 
+convinced Vulcan_(hypothetical_planet).txt 2 1400 1696 
+than Vulcan_(hypothetical_planet).txt 7 140 148 1288 1518 1823 1845 1868 
+distance Vulcan_(hypothetical_planet).txt 2 827 1783 
+trek Vulcan_(hypothetical_planet).txt 2 11 16 
+observatory Vulcan_(hypothetical_planet).txt 3 194 536 1156 
+14 Vulcan_(hypothetical_planet).txt 1 313 
+17 Vulcan_(hypothetical_planet).txt 3 665 844 1089 
+19 Vulcan_(hypothetical_planet).txt 2 841 1099 
+rodolphe Vulcan_(hypothetical_planet).txt 1 1074 
+15,000,000 Vulcan_(hypothetical_planet).txt 1 1788 
+patients Vulcan_(hypothetical_planet).txt 1 653 
+future Vulcan_(hypothetical_planet).txt 1 938 
+supposed Vulcan_(hypothetical_planet).txt 1 1080 
+were Vulcan_(hypothetical_planet).txt 10 60 1022 1131 1264 1356 1375 1391 1428 1705 1758 
+are Vulcan_(hypothetical_planet).txt 1 136 
+and Vulcan_(hypothetical_planet).txt 38 40 89 238 287 402 420 459 490 541 636 640 645 667 714 843 846 857 909 941 974 1036 1073 1091 1094 1101 1122 1159 1195 1261 1276 1529 1581 1671 1729 1768 1772 1810 1859 
+false Vulcan_(hypothetical_planet).txt 2 1354 1604 
+substantiated Vulcan_(hypothetical_planet).txt 1 1820 
+remained Vulcan_(hypothetical_planet).txt 2 336 1695 
+well Vulcan_(hypothetical_planet).txt 1 311 
+ann Vulcan_(hypothetical_planet).txt 1 1154 
+turned Vulcan_(hypothetical_planet).txt 1 270 
+argument Vulcan_(hypothetical_planet).txt 1 181 
+alerted Vulcan_(hypothetical_planet).txt 1 1057 
+manner Vulcan_(hypothetical_planet).txt 1 792 
+have Vulcan_(hypothetical_planet).txt 10 95 116 124 499 752 894 998 1171 1856 1861 
+seen Vulcan_(hypothetical_planet).txt 8 500 677 866 895 999 1172 1639 1658 
+saw Vulcan_(hypothetical_planet).txt 4 980 1050 1059 1213 
+any Vulcan_(hypothetical_planet).txt 6 120 137 174 322 1467 1864 
+contents Vulcan_(hypothetical_planet).txt 1 180 
+rochester Vulcan_(hypothetical_planet).txt 1 1165 
+built Vulcan_(hypothetical_planet).txt 1 532 
+studying Vulcan_(hypothetical_planet).txt 3 571 754 1718 
+gravity Vulcan_(hypothetical_planet).txt 1 1447 
+thorough Vulcan_(hypothetical_planet).txt 1 293 
+sciences Vulcan_(hypothetical_planet).txt 1 702 
+without Vulcan_(hypothetical_planet).txt 1 1466 
+best Vulcan_(hypothetical_planet).txt 1 1621 
+which Vulcan_(hypothetical_planet).txt 7 66 251 568 649 1245 1319 1735 
+techniques Vulcan_(hypothetical_planet).txt 1 453 
+vulcans Vulcan_(hypothetical_planet).txt 3 812 870 923 
+led Vulcan_(hypothetical_planet).txt 1 1798 
+centre Vulcan_(hypothetical_planet).txt 1 1271 
+who Vulcan_(hypothetical_planet).txt 4 496 737 891 1202 
+reach Vulcan_(hypothetical_planet).txt 1 885 
+most Vulcan_(hypothetical_planet).txt 2 790 1685 
+nasas Vulcan_(hypothetical_planet).txt 1 112 
+rigor Vulcan_(hypothetical_planet).txt 1 316 
+letter Vulcan_(hypothetical_planet).txt 1 486 
+70 Vulcan_(hypothetical_planet).txt 1 522 
+nothing Vulcan_(hypothetical_planet).txt 2 472 1843 
+the Vulcan_(hypothetical_planet).txt 131 5 9 41 50 61 78 90 168 178 189 192 197 207 210 217 219 249 261 264 280 308 315 355 363 368 372 384 391 398 405 416 424 439 447 451 462 504 509 514 517 545 563 566 606 657 660 678 691 699 711 725 741 755 758 769 789 793 799 802 818 836 847 852 868 874 950 955 966 1006 1028 1060 1078 1128 1135 1150 1153 1178 1186 1193 1205 1227 1235 1257 1262 1270 1273 1301 1350 1373 1402 1410 1417 1431 1452 1458 1470 1476 1480 1487 1490 1502 1515 1520 1523 1540 1547 1555 1558 1572 1579 1584 1589 1600 1607 1611 1620 1628 1643 1649 1662 1679 1688 1700 1722 1726 1743 1756 1779 1802 1811 1883 
+refractor Vulcan_(hypothetical_planet).txt 1 579 
+stereo Vulcan_(hypothetical_planet).txt 2 114 1877 
+observation Vulcan_(hypothetical_planet).txt 2 325 1827 
+calculated Vulcan_(hypothetical_planet).txt 1 1077 
+franois Vulcan_(hypothetical_planet).txt 1 187 
+km Vulcan_(hypothetical_planet).txt 3 164 1789 1871 
+face Vulcan_(hypothetical_planet).txt 2 262 564 
+accounted Vulcan_(hypothetical_planet).txt 1 125 
+error Vulcan_(hypothetical_planet).txt 1 1569 
+elongation Vulcan_(hypothetical_planet).txt 1 872 
+dot Vulcan_(hypothetical_planet).txt 1 561 
+laws Vulcan_(hypothetical_planet).txt 1 235 
+phenomenon Vulcan_(hypothetical_planet).txt 1 356 
+3.75 Vulcan_(hypothetical_planet).txt 1 575 
+henry Vulcan_(hypothetical_planet).txt 1 1710 
+lewis Vulcan_(hypothetical_planet).txt 1 1160 
+discovered Vulcan_(hypothetical_planet).txt 2 1286 1406 
+manchester Vulcan_(hypothetical_planet).txt 1 1048 
+earth Vulcan_(hypothetical_planet).txt 3 869 1530 1641 
+find Vulcan_(hypothetical_planet).txt 2 119 1349 
+principal Vulcan_(hypothetical_planet).txt 1 1414 
+based Vulcan_(hypothetical_planet).txt 4 229 300 805 1062 
+parameters Vulcan_(hypothetical_planet).txt 2 925 951 
+directly Vulcan_(hypothetical_planet).txt 1 1588 
+1915 Vulcan_(hypothetical_planet).txt 2 1435 1674 
+explain Vulcan_(hypothetical_planet).txt 1 45 
+enough Vulcan_(hypothetical_planet).txt 1 1647 
+mens Vulcan_(hypothetical_planet).txt 1 1066 
+failed Vulcan_(hypothetical_planet).txt 3 117 277 944 
+only Vulcan_(hypothetical_planet).txt 2 1561 1637 
+black Vulcan_(hypothetical_planet).txt 2 560 1002 
+arcseconds Vulcan_(hypothetical_planet).txt 1 377 
+factor Vulcan_(hypothetical_planet).txt 1 332 
+8 Vulcan_(hypothetical_planet).txt 2 877 1105 
+pointed Vulcan_(hypothetical_planet).txt 1 1551 
+meant Vulcan_(hypothetical_planet).txt 1 320 
+do Vulcan_(hypothetical_planet).txt 1 1617 
+doubting Vulcan_(hypothetical_planet).txt 1 1430 
+his Vulcan_(hypothetical_planet).txt 11 245 285 457 573 652 707 777 1053 1454 1730 1795 
+10 Vulcan_(hypothetical_planet).txt 1 858 
+michigan Vulcan_(hypothetical_planet).txt 1 1158 
+de Vulcan_(hypothetical_planet).txt 1 746 
+13 Vulcan_(hypothetical_planet).txt 1 1092 
+watson Vulcan_(hypothetical_planet).txt 5 1149 1180 1275 1283 1310 
+12 Vulcan_(hypothetical_planet).txt 1 855 
+nearly Vulcan_(hypothetical_planet).txt 3 822 1266 1524 
+closely Vulcan_(hypothetical_planet).txt 1 1362 
+theta Vulcan_(hypothetical_planet).txt 2 1240 1259 
+during Vulcan_(hypothetical_planet).txt 6 255 339 1134 1249 1367 1563 
+years Vulcan_(hypothetical_planet).txt 4 907 994 1424 1825 
+him Vulcan_(hypothetical_planet).txt 3 932 1298 1799 
+societies Vulcan_(hypothetical_planet).txt 1 721 
+aristide Vulcan_(hypothetical_planet).txt 1 1111 
+soho Vulcan_(hypothetical_planet).txt 1 1875 
+precession Vulcan_(hypothetical_planet).txt 2 354 386 
+approach Vulcan_(hypothetical_planet).txt 1 1444 
+morning Vulcan_(hypothetical_planet).txt 2 967 1029 
+twice Vulcan_(hypothetical_planet).txt 1 763 
+predicted Vulcan_(hypothetical_planet).txt 4 358 369 1456 1481 
+pulses Vulcan_(hypothetical_planet).txt 1 654 
+where Vulcan_(hypothetical_planet).txt 2 529 1557 
+approaching Vulcan_(hypothetical_planet).txt 1 1335 
+computed Vulcan_(hypothetical_planet).txt 1 811 
+observer Vulcan_(hypothetical_planet).txt 3 990 1585 1612 
+observed Vulcan_(hypothetical_planet).txt 5 364 605 776 1113 1459 
+see Vulcan_(hypothetical_planet).txt 2 13 1887 
+college Vulcan_(hypothetical_planet).txt 1 1715 
+result Vulcan_(hypothetical_planet).txt 2 62 1575 
+close Vulcan_(hypothetical_planet).txt 6 437 1176 1371 1553 1646 1741 
+2.5 Vulcan_(hypothetical_planet).txt 1 1189 
+subject Vulcan_(hypothetical_planet).txt 1 250 
+gravitation Vulcan_(hypothetical_planet).txt 1 239 
+surmised Vulcan_(hypothetical_planet).txt 1 1831 
+attempting Vulcan_(hypothetical_planet).txt 1 43 
+away Vulcan_(hypothetical_planet).txt 1 1598 
+wikipedia Vulcan_(hypothetical_planet).txt 1 3 
+3 Vulcan_(hypothetical_planet).txt 1 1223 
+smallest Vulcan_(hypothetical_planet).txt 1 169 
+between Vulcan_(hypothetical_planet).txt 5 38 1034 1120 1766 1808 
+orbiting Vulcan_(hypothetical_planet).txt 2 177 1778 
+progress Vulcan_(hypothetical_planet).txt 1 1004 
+neither Vulcan_(hypothetical_planet).txt 1 1874 
+reading Vulcan_(hypothetical_planet).txt 1 1893 
+numerous Vulcan_(hypothetical_planet).txt 2 719 879 
+across Vulcan_(hypothetical_planet).txt 3 260 1005 1661 
+discovery Vulcan_(hypothetical_planet).txt 2 692 729 
+superior Vulcan_(hypothetical_planet).txt 1 1336 
+points Vulcan_(hypothetical_planet).txt 1 1325 
+however Vulcan_(hypothetical_planet).txt 3 730 1416 1694 
+article Vulcan_(hypothetical_planet).txt 1 1534 
+swift Vulcan_(hypothetical_planet).txt 4 1161 1201 1277 1292 
+monitor Vulcan_(hypothetical_planet).txt 1 1627 
+suggested Vulcan_(hypothetical_planet).txt 1 195 
+received Vulcan_(hypothetical_planet).txt 1 484 
+dates Vulcan_(hypothetical_planet).txt 1 936 
+valz Vulcan_(hypothetical_planet).txt 2 1072 1084 
+many Vulcan_(hypothetical_planet).txt 6 906 910 993 1344 1353 1423 
+invited Vulcan_(hypothetical_planet).txt 1 715 
+interrogate Vulcan_(hypothetical_planet).txt 1 544 
+s Vulcan_(hypothetical_planet).txt 4 102 213 234 1437 
+became Vulcan_(hypothetical_planet).txt 1 75 
+dated Vulcan_(hypothetical_planet).txt 1 915 
+among Vulcan_(hypothetical_planet).txt 2 954 1707 
+being Vulcan_(hypothetical_planet).txt 1 1842 
+pendulum Vulcan_(hypothetical_planet).txt 1 647 
+point Vulcan_(hypothetical_planet).txt 1 1381 
+appeared Vulcan_(hypothetical_planet).txt 1 1736 
+sky Vulcan_(hypothetical_planet).txt 1 1559 
+period Vulcan_(hypothetical_planet).txt 2 837 1082 
+unreliablebegan Vulcan_(hypothetical_planet).txt 1 883 
+village Vulcan_(hypothetical_planet).txt 1 518 
+belt Vulcan_(hypothetical_planet).txt 1 1807 
+turkey Vulcan_(hypothetical_planet).txt 1 1119 
+claims Vulcan_(hypothetical_planet).txt 1 1816 
+proceeded Vulcan_(hypothetical_planet).txt 1 542 
+equations Vulcan_(hypothetical_planet).txt 1 1455 
+three Vulcan_(hypothetical_planet).txt 1 975 
+been Vulcan_(hypothetical_planet).txt 5 97 753 1819 1830 1857 
+strategy Vulcan_(hypothetical_planet).txt 1 1623 
+whom Vulcan_(hypothetical_planet).txt 1 1055 
+much Vulcan_(hypothetical_planet).txt 1 1511 
+craig Vulcan_(hypothetical_planet).txt 1 1148 
+lescarbault Vulcan_(hypothetical_planet).txt 7 495 530 547 586 675 705 773 
+territory Vulcan_(hypothetical_planet).txt 1 1017 
+meeting Vulcan_(hypothetical_planet).txt 1 697 
+direction Vulcan_(hypothetical_planet).txt 1 637 
+objectsand Vulcan_(hypothetical_planet).txt 1 1836 
+stationed Vulcan_(hypothetical_planet).txt 1 1014 
+both Vulcan_(hypothetical_planet).txt 2 1168 1299 
+fire Vulcan_(hypothetical_planet).txt 2 422 425 
+precision Vulcan_(hypothetical_planet).txt 1 864 
+observers Vulcan_(hypothetical_planet).txt 3 958 1282 1346 
+1860 Vulcan_(hypothetical_planet).txt 3 688 971 1010 
+observe Vulcan_(hypothetical_planet).txt 1 466 
+1865 Vulcan_(hypothetical_planet).txt 1 1107 
+external Vulcan_(hypothetical_planet).txt 1 1895 
+1866 Vulcan_(hypothetical_planet).txt 1 1121 
+an Vulcan_(hypothetical_planet).txt 15 36 430 642 731 860 981 985 988 1114 1162 1219 1441 1568 1763 1805 
+present Vulcan_(hypothetical_planet).txt 1 1594 
+case Vulcan_(hypothetical_planet).txt 1 1521 
+physician Vulcan_(hypothetical_planet).txt 1 489 
+abandoned Vulcan_(hypothetical_planet).txt 1 1687 
+vulcanoid Vulcan_(hypothetical_planet).txt 2 1535 1854 
+liais Vulcan_(hypothetical_planet).txt 2 736 780 
+these Vulcan_(hypothetical_planet).txt 6 900 943 1064 1708 1815 1835 
+reliable Vulcan_(hypothetical_planet).txt 1 1125 
+value Vulcan_(hypothetical_planet).txt 2 365 370 
+easier Vulcan_(hypothetical_planet).txt 1 1512 
+near Vulcan_(hypothetical_planet).txt 1 1210 
+associates Vulcan_(hypothetical_planet).txt 1 1731 
+surprised Vulcan_(hypothetical_planet).txt 1 591 
+shift Vulcan_(hypothetical_planet).txt 1 1517 
+exist Vulcan_(hypothetical_planet).txt 3 34 1619 1841 
+eclipses Vulcan_(hypothetical_planet).txt 1 1369 
+mythology Vulcan_(hypothetical_planet).txt 1 413 
+comets Vulcan_(hypothetical_planet).txt 2 1295 1848 
+seven Vulcan_(hypothetical_planet).txt 2 1254 1754 
+1840 Vulcan_(hypothetical_planet).txt 1 186 
+century Vulcan_(hypothetical_planet).txt 2 379 1341 
+is Vulcan_(hypothetical_planet).txt 6 25 132 357 1519 1544 1560 
+thus Vulcan_(hypothetical_planet).txt 1 1609 
+it Vulcan_(hypothetical_planet).txt 10 131 269 429 581 601 814 1313 1333 1510 1828 
+discrepancy Vulcan_(hypothetical_planet).txt 1 338 
+rio Vulcan_(hypothetical_planet).txt 1 745 
+reports Vulcan_(hypothetical_planet).txt 2 901 1067 
+in Vulcan_(hypothetical_planet).txt 35 8 18 35 77 92 145 185 266 288 411 445 508 549 610 703 744 748 783 788 820 978 1015 1024 1157 1267 1321 1365 1395 1434 1570 1576 1673 1682 1739 1775 
+claimed Vulcan_(hypothetical_planet).txt 6 127 497 750 892 996 1169 
+if Vulcan_(hypothetical_planet).txt 1 1586 
+orbital Vulcan_(hypothetical_planet).txt 3 214 924 1081 
+different Vulcan_(hypothetical_planet).txt 2 1384 1443 
+things Vulcan_(hypothetical_planet).txt 1 1615 
+planetoid Vulcan_(hypothetical_planet).txt 1 1765 
+roman Vulcan_(hypothetical_planet).txt 1 412 
+same Vulcan_(hypothetical_planet).txt 2 452 1236 
+newtonian Vulcan_(hypothetical_planet).txt 1 1493 
+9 Vulcan_(hypothetical_planet).txt 1 668 
+plates Vulcan_(hypothetical_planet).txt 2 1720 1797 
+several Vulcan_(hypothetical_planet).txt 2 1294 1733 
+difficult Vulcan_(hypothetical_planet).txt 1 1545 
+fairly Vulcan_(hypothetical_planet).txt 1 1506 
+eccentric Vulcan_(hypothetical_planet).txt 1 1507 
+possible Vulcan_(hypothetical_planet).txt 1 1632 
+director Vulcan_(hypothetical_planet).txt 2 190 1151 
+moment Vulcan_(hypothetical_planet).txt 1 771 
+moving Vulcan_(hypothetical_planet).txt 1 603 
+frequently Vulcan_(hypothetical_planet).txt 1 934 
+recent Vulcan_(hypothetical_planet).txt 1 443 
+shortly Vulcan_(hypothetical_planet).txt 1 961 
+volcanoes Vulcan_(hypothetical_planet).txt 1 427 
+nevertheless Vulcan_(hypothetical_planet).txt 1 916 
+colour Vulcan_(hypothetical_planet).txt 1 1302 
+incredible Vulcan_(hypothetical_planet).txt 1 861 
+neptune Vulcan_(hypothetical_planet).txt 1 449 
+1970 Vulcan_(hypothetical_planet).txt 1 1723 
+peculiarities Vulcan_(hypothetical_planet).txt 2 46 91 
+unannounced Vulcan_(hypothetical_planet).txt 1 540 
+greatest Vulcan_(hypothetical_planet).txt 1 871 
+alarms Vulcan_(hypothetical_planet).txt 1 1355 
+position Vulcan_(hypothetical_planet).txt 1 635 
+model Vulcan_(hypothetical_planet).txt 1 228 
+proposed Vulcan_(hypothetical_planet).txt 2 32 404 
+hypothesized Vulcan_(hypothetical_planet).txt 1 57 
+newton Vulcan_(hypothetical_planet).txt 1 233 
+mistaken Vulcan_(hypothetical_planet).txt 1 1376 
+43 Vulcan_(hypothetical_planet).txt 2 376 524 
+reputable Vulcan_(hypothetical_planet).txt 1 73 
+farther Vulcan_(hypothetical_planet).txt 1 1500 
+world Vulcan_(hypothetical_planet).txt 1 463 
+renewed Vulcan_(hypothetical_planet).txt 1 284 
+greenwich Vulcan_(hypothetical_planet).txt 1 1039 
+also Vulcan_(hypothetical_planet).txt 5 1058 1247 1504 1567 1888 
+thinking Vulcan_(hypothetical_planet).txt 1 580 
+had Vulcan_(hypothetical_planet).txt 7 531 596 676 1278 1284 1293 1314 
+location Vulcan_(hypothetical_planet).txt 1 1209 
+has Vulcan_(hypothetical_planet).txt 5 156 167 1817 1829 1878 
+cancri Vulcan_(hypothetical_planet).txt 2 1241 1260 
+match Vulcan_(hypothetical_planet).txt 1 279 
+real Vulcan_(hypothetical_planet).txt 1 1759 
+march Vulcan_(hypothetical_planet).txt 2 554 1032 
+around Vulcan_(hypothetical_planet).txt 3 216 461 1009 
+government Vulcan_(hypothetical_planet).txt 1 743 
+advances Vulcan_(hypothetical_planet).txt 1 344 
+proponent Vulcan_(hypothetical_planet).txt 1 1415 
+dark Vulcan_(hypothetical_planet).txt 2 1562 1654 
+using Vulcan_(hypothetical_planet).txt 2 450 641 
+well-defined Vulcan_(hypothetical_planet).txt 1 1001 
+accepted Vulcan_(hypothetical_planet).txt 1 724 
+0.55 Vulcan_(hypothetical_planet).txt 1 161 
+unfounded Vulcan_(hypothetical_planet).txt 1 1706 
+ruled Vulcan_(hypothetical_planet).txt 1 1862 
+loss Vulcan_(hypothetical_planet).txt 1 1411 
+tinkered Vulcan_(hypothetical_planet).txt 1 948 
+51,000,000 Vulcan_(hypothetical_planet).txt 1 165 
+success Vulcan_(hypothetical_planet).txt 1 444 
+edit Vulcan_(hypothetical_planet).txt 8 184 477 1394 1532 1889 1891 1894 1897 
+james Vulcan_(hypothetical_planet).txt 1 1147 
+intra-mercurial Vulcan_(hypothetical_planet).txt 6 986 1220 1306 1389 1764 1839 
+injury Vulcan_(hypothetical_planet).txt 1 1582 
+reportsall Vulcan_(hypothetical_planet).txt 1 880 
+beneficial Vulcan_(hypothetical_planet).txt 1 419 
+old Vulcan_(hypothetical_planet).txt 1 643 
+classical Vulcan_(hypothetical_planet).txt 2 360 1449 
+people Vulcan_(hypothetical_planet).txt 1 977 
+veracity Vulcan_(hypothetical_planet).txt 2 455 726 
+successfully Vulcan_(hypothetical_planet).txt 1 1677 
+some Vulcan_(hypothetical_planet).txt 8 330 337 521 594 630 898 952 1833 
+searching Vulcan_(hypothetical_planet).txt 1 1426 
+3.7 Vulcan_(hypothetical_planet).txt 1 1872 
+astronomer Vulcan_(hypothetical_planet).txt 4 492 734 1043 1110 
+3.5 Vulcan_(hypothetical_planet).txt 1 143 
+110 Vulcan_(hypothetical_planet).txt 1 1773 
+duration Vulcan_(hypothetical_planet).txt 1 658 
+happens Vulcan_(hypothetical_planet).txt 1 1666 
+1859 Vulcan_(hypothetical_planet).txt 4 289 481 555 749 
+for Vulcan_(hypothetical_planet).txt 16 4 80 126 182 408 433 706 740 1338 1377 1419 1522 1578 1631 1690 1747 
+measurements Vulcan_(hypothetical_planet).txt 1 632 
+per Vulcan_(hypothetical_planet).txt 1 378 
+be Vulcan_(hypothetical_planet).txt 12 253 327 388 583 913 1218 1234 1550 1625 1638 1657 1738 
+object Vulcan_(hypothetical_planet).txt 3 176 410 1644 
+seconds Vulcan_(hypothetical_planet).txt 1 669 
+amateurs Vulcan_(hypothetical_planet).txt 1 890 
+tinker Vulcan_(hypothetical_planet).txt 1 921 
+described Vulcan_(hypothetical_planet).txt 2 548 1300 
+by Vulcan_(hypothetical_planet).txt 10 99 111 240 329 345 359 371 390 854 1358 
+on Vulcan_(hypothetical_planet).txt 14 206 230 248 301 478 552 562 685 806 965 1027 1063 1104 1794 
+about Vulcan_(hypothetical_planet).txt 6 817 1188 1222 1251 1785 1869 
+would Vulcan_(hypothetical_planet).txt 3 252 326 1636 
+of Vulcan_(hypothetical_planet).txt 85 47 63 72 104 108 129 160 173 191 209 221 236 258 263 295 304 307 317 375 393 400 418 426 503 519 527 565 608 623 633 638 659 680 693 698 727 757 795 828 838 863 881 899 937 959 968 984 1020 1030 1047 1088 1098 1127 1139 1152 1192 1226 1239 1272 1303 1326 1404 1412 1425 1439 1461 1463 1472 1483 1489 1527 1542 1592 1669 1703 1713 1721 1725 1755 1784 1804 1814 1826 1834 1885 
+lummis Vulcan_(hypothetical_planet).txt 1 1046 
+sighting Vulcan_(hypothetical_planet).txt 1 930 
+eight Vulcan_(hypothetical_planet).txt 2 963 1035 
+referred Vulcan_(hypothetical_planet).txt 1 902 
+provisional Vulcan_(hypothetical_planet).txt 1 246 
+seeing Vulcan_(hypothetical_planet).txt 1 1614 
+9,300,000 Vulcan_(hypothetical_planet).txt 1 1790 
+colorado Vulcan_(hypothetical_planet).txt 1 1212 
+presence Vulcan_(hypothetical_planet).txt 1 392 
+previously Vulcan_(hypothetical_planet).txt 3 625 682 1846 
+into Vulcan_(hypothetical_planet).txt 1 1613 
+washington Vulcan_(hypothetical_planet).txt 1 1016 
+two Vulcan_(hypothetical_planet).txt 5 113 1065 1068 1143 1388 
+phase Vulcan_(hypothetical_planet).txt 1 1330 
+references Vulcan_(hypothetical_planet).txt 1 1890 
+einstein Vulcan_(hypothetical_planet).txt 3 101 1436 1676 
+mere Vulcan_(hypothetical_planet).txt 1 1324 
+technically Vulcan_(hypothetical_planet).txt 1 351 
+undiscovered Vulcan_(hypothetical_planet).txt 1 626 
+artifacts Vulcan_(hypothetical_planet).txt 1 1748 
+diskunlike Vulcan_(hypothetical_planet).txt 1 1317 
+there Vulcan_(hypothetical_planet).txt 3 135 334 470 
+alleged Vulcan_(hypothetical_planet).txt 4 957 982 1701 1838 
+awarded Vulcan_(hypothetical_planet).txt 1 710 
+stars Vulcan_(hypothetical_planet).txt 2 1318 1370 
+brazilian Vulcan_(hypothetical_planet).txt 1 742 
+was Vulcan_(hypothetical_planet).txt 24 31 86 224 299 415 473 570 587 602 617 619 672 709 738 782 840 849 876 1013 1203 1246 1334 1709 1777 
+resembled Vulcan_(hypothetical_planet).txt 1 1363 
+himself Vulcan_(hypothetical_planet).txt 1 533 
+amateur Vulcan_(hypothetical_planet).txt 3 491 1042 1163 
+inches Vulcan_(hypothetical_planet).txt 1 576 
+attempted Vulcan_(hypothetical_planet).txt 1 464 
+differences Vulcan_(hypothetical_planet).txt 2 323 1491 
+deny Vulcan_(hypothetical_planet).txt 1 787 
+but Vulcan_(hypothetical_planet).txt 7 82 362 471 592 622 1486 1634 
+properly Vulcan_(hypothetical_planet).txt 1 914 
+detect Vulcan_(hypothetical_planet).txt 1 1514 
+solar Vulcan_(hypothetical_planet).txt 3 1137 1368 1565 
+line Vulcan_(hypothetical_planet).txt 1 1268 
+with Vulcan_(hypothetical_planet).txt 9 572 648 760 922 949 1083 1269 1409 1667 
+he Vulcan_(hypothetical_planet).txt 20 67 204 403 556 569 598 612 616 628 650 655 689 775 933 947 1012 1056 1215 1229 1728 
+made Vulcan_(hypothetical_planet).txt 3 905 1023 1132 
+anomaly Vulcan_(hypothetical_planet).txt 1 1681 
+inside Vulcan_(hypothetical_planet).txt 4 397 1539 1606 1882 
+planet Vulcan_(hypothetical_planet).txt 25 2 7 29 65 85 211 309 396 435 448 469 506 684 797 987 1130 1175 1187 1221 1258 1263 1307 1408 1538 1881 
+placed Vulcan_(hypothetical_planet).txt 1 1185 
+problem Vulcan_(hypothetical_planet).txt 1 1453 
+minutes Vulcan_(hypothetical_planet).txt 3 666 859 1255 
+called Vulcan_(hypothetical_planet).txt 1 352 
+mechanics Vulcan_(hypothetical_planet).txt 2 361 1450 
+later Vulcan_(hypothetical_planet).txt 1 995 
+reconcile Vulcan_(hypothetical_planet).txt 1 1383 
+links Vulcan_(hypothetical_planet).txt 1 1896 
+general Vulcan_(hypothetical_planet).txt 1 105 
+images Vulcan_(hypothetical_planet).txt 1 1793 
+as Vulcan_(hypothetical_planet).txt 13 268 310 312 764 766 865 926 1237 1280 1308 1323 1497 1665 
+guessed Vulcan_(hypothetical_planet).txt 1 613 
+au Vulcan_(hypothetical_planet).txt 3 162 833 1787 
+at Vulcan_(hypothetical_planet).txt 10 589 662 768 801 825 1199 1379 1386 1752 1781 
+planets Vulcan_(hypothetical_planet).txt 5 1364 1378 1390 1432 1485 
+accounting Vulcan_(hypothetical_planet).txt 1 1746 
+4.5 Vulcan_(hypothetical_planet).txt 1 1200 
+dhonneur Vulcan_(hypothetical_planet).txt 1 713 
+istanbul Vulcan_(hypothetical_planet).txt 1 1118 
+no Vulcan_(hypothetical_planet).txt 4 83 1018 1124 1852 
+when Vulcan_(hypothetical_planet).txt 3 942 1011 1675 
+detail Vulcan_(hypothetical_planet).txt 1 550 
+other Vulcan_(hypothetical_planet).txt 6 147 889 976 1345 1792 1837 
+conclusion Vulcan_(hypothetical_planet).txt 1 1393 
+apparent Vulcan_(hypothetical_planet).txt 1 1680 
+star Vulcan_(hypothetical_planet).txt 3 10 15 1244 
+provided Vulcan_(hypothetical_planet).txt 1 1642 
+felt Vulcan_(hypothetical_planet).txt 1 1750 
+deriving Vulcan_(hypothetical_planet).txt 1 1085 
+lent Vulcan_(hypothetical_planet).txt 1 454 
+died Vulcan_(hypothetical_planet).txt 1 1399 
+searches Vulcan_(hypothetical_planet).txt 2 107 1860 
+1861 Vulcan_(hypothetical_planet).txt 1 1025 
+independently Vulcan_(hypothetical_planet).txt 1 1076 
+0.14 Vulcan_(hypothetical_planet).txt 1 832 
+orbit Vulcan_(hypothetical_planet).txt 14 37 49 94 155 341 350 399 813 824 848 1508 1541 1684 1884 
+vulcan Vulcan_(hypothetical_planet).txt 18 0 14 17 24 69 81 130 407 414 694 939 960 1021 1352 1420 1475 1691 1704 
+2007 Vulcan_(hypothetical_planet).txt 1 151 
+time Vulcan_(hypothetical_planet).txt 3 595 803 1040 
+far Vulcan_(hypothetical_planet).txt 1 1597 
+coumbary Vulcan_(hypothetical_planet).txt 1 1112 
+having Vulcan_(hypothetical_planet).txt 2 604 1405 
+richard Vulcan_(hypothetical_planet).txt 1 991 

@@ -1,0 +1,317 @@
+scouring Lunar_swirls.txt 1 533 
+planetary Lunar_swirls.txt 1 173 
+swirls Lunar_swirls.txt 14 1 18 26 78 99 118 160 272 298 379 427 446 528 606 
+magnetization Lunar_swirls.txt 2 319 574 
+consider Lunar_swirls.txt 1 601 
+be Lunar_swirls.txt 1 614 
+less Lunar_swirls.txt 1 138 
+occurrence Lunar_swirls.txt 1 603 
+magnetic Lunar_swirls.txt 17 155 168 193 200 205 212 231 241 288 309 332 352 399 421 515 568 640 
+global Lunar_swirls.txt 1 240 
+ejecta Lunar_swirls.txt 2 92 373 
+installed Lunar_swirls.txt 1 425 
+presence Lunar_swirls.txt 1 328 
+proposes Lunar_swirls.txt 2 443 629 
+shape Lunar_swirls.txt 2 62 65 
+own Lunar_swirls.txt 1 192 
+through Lunar_swirls.txt 1 583 
+controversial Lunar_swirls.txt 1 254 
+albedos Lunar_swirls.txt 1 452 
+morphology Lunar_swirls.txt 1 131 
+amplified Lunar_swirls.txt 1 331 
+fine Lunar_swirls.txt 2 555 653 
+its Lunar_swirls.txt 1 191 
+impact Lunar_swirls.txt 4 317 347 519 599 
+whose Lunar_swirls.txt 1 451 
+occur Lunar_swirls.txt 1 325 
+system Lunar_swirls.txt 1 486 
+also Lunar_swirls.txt 1 403 
+explain Lunar_swirls.txt 1 378 
+show Lunar_swirls.txt 1 226 
+had Lunar_swirls.txt 1 182 
+sinuous Lunar_swirls.txt 2 61 130 
+maturation Lunar_swirls.txt 1 477 
+to Lunar_swirls.txt 13 81 189 291 302 313 377 384 396 473 562 608 613 685 
+according Lunar_swirls.txt 2 472 561 
+lithologic Lunar_swirls.txt 1 116 
+present Lunar_swirls.txt 1 354 
+currents Lunar_swirls.txt 1 412 
+immature Lunar_swirls.txt 1 46 
+has Lunar_swirls.txt 5 197 207 236 374 423 
+local Lunar_swirls.txt 1 230 
+into Lunar_swirls.txt 1 281 
+represent Lunar_swirls.txt 1 447 
+interacting Lunar_swirls.txt 1 348 
+over Lunar_swirls.txt 1 457 
+shielding Lunar_swirls.txt 1 441 
+impart Lunar_swirls.txt 1 95 
+turbulent Lunar_swirls.txt 1 542 
+every Lunar_swirls.txt 2 195 204 
+effects Lunar_swirls.txt 1 461 
+they Lunar_swirls.txt 3 79 109 431 
+not Lunar_swirls.txt 4 111 177 203 382 
+during Lunar_swirls.txt 1 678 
+argues Lunar_swirls.txt 1 521 
+association Lunar_swirls.txt 1 153 
+prominent Lunar_swirls.txt 1 139 
+basin-antipode Lunar_swirls.txt 1 407 
+anomalies Lunar_swirls.txt 6 156 245 289 310 569 641 
+appearing Lunar_swirls.txt 1 44 
+links Lunar_swirls.txt 1 698 
+cometary Lunar_swirls.txt 2 518 598 
+edit Lunar_swirls.txt 4 157 257 696 699 
+fields Lunar_swirls.txt 1 633 
+identified Lunar_swirls.txt 1 102 
+specific Lunar_swirls.txt 1 115 
+this Lunar_swirls.txt 4 474 499 563 683 
+component Lunar_swirls.txt 1 662 
+crustal Lunar_swirls.txt 1 639 
+electrically Lunar_swirls.txt 1 651 
+proponents Lunar_swirls.txt 1 595 
+found Lunar_swirls.txt 1 30 
+characterized Lunar_swirls.txt 2 38 123 
+view Lunar_swirls.txt 2 14 22 
+enigmatic Lunar_swirls.txt 1 28 
+bright Lunar_swirls.txt 3 77 150 691 
+because Lunar_swirls.txt 2 233 430 
+often Lunar_swirls.txt 2 58 67 
+exposed Lunar_swirls.txt 3 448 479 549 
+creation Lunar_swirls.txt 1 285 
+terrain Lunar_swirls.txt 1 136 
+deflection Lunar_swirls.txt 1 466 
+electrostatic Lunar_swirls.txt 1 670 
+weathering Lunar_swirls.txt 1 464 
+are Lunar_swirls.txt 13 27 37 110 122 161 246 259 267 311 381 428 432 570 
+loops Lunar_swirls.txt 1 147 
+feldspathic Lunar_swirls.txt 1 657 
+scoured Lunar_swirls.txt 1 556 
+curvilinear Lunar_swirls.txt 1 64 
+transport Lunar_swirls.txt 1 627 
+surfaces Lunar_swirls.txt 1 481 
+shapes Lunar_swirls.txt 1 143 
+orbiter Lunar_swirls.txt 1 5 
+and/or Lunar_swirls.txt 1 367 
+draws Lunar_swirls.txt 1 404 
+appear Lunar_swirls.txt 2 80 137 
+for Lunar_swirls.txt 2 263 284 
+overlay Lunar_swirls.txt 1 82 
+currently Lunar_swirls.txt 1 238 
+wikipedia Lunar_swirls.txt 1 2 
+moon Lunar_swirls.txt 3 33 235 357 
+particles Lunar_swirls.txt 1 666 
+models Lunar_swirls.txt 3 256 262 283 
+does Lunar_swirls.txt 1 176 
+lunar Lunar_swirls.txt 9 0 3 25 84 105 159 222 271 668 
+above Lunar_swirls.txt 2 579 675 
+between Lunar_swirls.txt 2 75 637 
+looping Lunar_swirls.txt 1 692 
+coma Lunar_swirls.txt 1 591 
+across Lunar_swirls.txt 1 31 
+movement Lunar_swirls.txt 1 671 
+body Lunar_swirls.txt 1 174 
+core Lunar_swirls.txt 1 185 
+crossings Lunar_swirls.txt 1 680 
+after Lunar_swirls.txt 1 511 
+strongly Lunar_swirls.txt 1 368 
+continuing Lunar_swirls.txt 1 507 
+never Lunar_swirls.txt 1 180 
+weak Lunar_swirls.txt 2 351 631 
+flow Lunar_swirls.txt 1 543 
+craters Lunar_swirls.txt 1 90 
+lofted Lunar_swirls.txt 1 674 
+magnetism Lunar_swirls.txt 1 250 
+formation Lunar_swirls.txt 7 255 265 278 293 363 392 504 
+although Lunar_swirls.txt 1 294 
+active Lunar_swirls.txt 2 184 239 
+i.e Lunar_swirls.txt 1 47 
+strong Lunar_swirls.txt 2 125 567 
+by Lunar_swirls.txt 8 39 69 124 215 343 410 539 635 
+simpler Lunar_swirls.txt 1 142 
+on Lunar_swirls.txt 5 87 103 119 134 171 
+interaction Lunar_swirls.txt 1 636 
+silicate Lunar_swirls.txt 2 449 480 
+created Lunar_swirls.txt 1 634 
+identifiable Lunar_swirls.txt 1 209 
+of Lunar_swirls.txt 34 10 15 23 52 89 165 248 270 276 286 296 307 320 329 361 371 462 467 478 493 513 526 532 534 544 573 575 596 604 619 622 663 667 672 
+could Lunar_swirls.txt 3 324 647 681 
+space Lunar_swirls.txt 1 463 
+incomplete Lunar_swirls.txt 1 620 
+suggests Lunar_swirls.txt 1 501 
+s Lunar_swirls.txt 1 34 
+repel Lunar_swirls.txt 1 650 
+terminator Lunar_swirls.txt 1 679 
+plasma-induced Lunar_swirls.txt 1 398 
+selectively Lunar_swirls.txt 1 455 
+highland Lunar_swirls.txt 1 135 
+or Lunar_swirls.txt 3 148 616 649 
+gamma Lunar_swirls.txt 3 12 17 391 
+origin Lunar_swirls.txt 1 252 
+exhibit Lunar_swirls.txt 1 141 
+major Lunar_swirls.txt 1 611 
+topography Lunar_swirls.txt 1 98 
+features Lunar_swirls.txt 1 29 
+point Lunar_swirls.txt 1 301 
+basins Lunar_swirls.txt 2 318 612 
+material Lunar_swirls.txt 4 551 557 658 684 
+image Lunar_swirls.txt 1 9 
+young Lunar_swirls.txt 2 55 610 
+dust Lunar_swirls.txt 4 547 626 654 673 
+top-most Lunar_swirls.txt 1 536 
+references Lunar_swirls.txt 1 695 
+spots Lunar_swirls.txt 1 151 
+another Lunar_swirls.txt 2 13 21 
+heated Lunar_swirls.txt 1 578 
+associated Lunar_swirls.txt 3 112 199 566 
+thick Lunar_swirls.txt 1 366 
+cloud Lunar_swirls.txt 1 341 
+ringing Lunar_swirls.txt 1 416 
+collisions Lunar_swirls.txt 1 586 
+mare Lunar_swirls.txt 1 19 
+from Lunar_swirls.txt 3 338 434 459 
+temperature Lunar_swirls.txt 1 582 
+would Lunar_swirls.txt 1 336 
+remains Lunar_swirls.txt 1 253 
+leading Lunar_swirls.txt 1 261 
+top Lunar_swirls.txt 1 88 
+there Lunar_swirls.txt 2 258 266 
+kaguya Lunar_swirls.txt 1 225 
+three Lunar_swirls.txt 1 260 
+been Lunar_swirls.txt 4 101 375 424 454 
+generate Lunar_swirls.txt 1 190 
+their Lunar_swirls.txt 3 63 251 277 
+magnetized Lunar_swirls.txt 1 369 
+camera Lunar_swirls.txt 1 8 
+low Lunar_swirls.txt 1 70 
+soil Lunar_swirls.txt 1 669 
+finest Lunar_swirls.txt 1 665 
+inner Lunar_swirls.txt 1 484 
+basin Lunar_swirls.txt 4 345 362 372 386 
+sub-satellites Lunar_swirls.txt 1 221 
+anomaly Lunar_swirls.txt 5 201 206 400 422 516 
+deposits Lunar_swirls.txt 2 93 560 
+preserved Lunar_swirls.txt 1 456 
+function Lunar_swirls.txt 1 492 
+via Lunar_swirls.txt 1 465 
+prospector Lunar_swirls.txt 1 223 
+partly Lunar_swirls.txt 1 490 
+form Lunar_swirls.txt 1 689 
+that Lunar_swirls.txt 9 73 175 273 305 380 444 502 522 630 
+relevant Lunar_swirls.txt 1 290 
+forming Lunar_swirls.txt 1 346 
+observable Lunar_swirls.txt 1 97 
+gas Lunar_swirls.txt 2 545 585 
+comas Lunar_swirls.txt 1 541 
+but Lunar_swirls.txt 3 94 202 401 
+optical Lunar_swirls.txt 3 50 299 476 
+external Lunar_swirls.txt 1 697 
+solar Lunar_swirls.txt 6 436 439 468 485 495 644 
+placement Lunar_swirls.txt 1 512 
+impact-induced Lunar_swirls.txt 1 411 
+apollo Lunar_swirls.txt 1 217 
+with Lunar_swirls.txt 6 113 154 163 187 228 349 
+diffuse Lunar_swirls.txt 1 149 
+those Lunar_swirls.txt 1 133 
+must Lunar_swirls.txt 1 279 
+wide Lunar_swirls.txt 1 6 
+account Lunar_swirls.txt 1 282 
+cause Lunar_swirls.txt 1 682 
+15 Lunar_swirls.txt 1 218 
+16 Lunar_swirls.txt 1 220 
+these Lunar_swirls.txt 2 243 321 
+plasma Lunar_swirls.txt 2 340 646 
+hyper-velocity Lunar_swirls.txt 1 584 
+single Lunar_swirls.txt 1 146 
+discrete Lunar_swirls.txt 1 559 
+planet Lunar_swirls.txt 1 418 
+protected Lunar_swirls.txt 1 433 
+superposed Lunar_swirls.txt 1 86 
+many Lunar_swirls.txt 1 605 
+dynamo Lunar_swirls.txt 1 186 
+unusually Lunar_swirls.txt 1 365 
+reconnaissance Lunar_swirls.txt 1 4 
+coincidental Lunar_swirls.txt 1 615 
+result Lunar_swirls.txt 4 337 531 572 618 
+and Lunar_swirls.txt 14 57 91 107 128 140 178 219 224 413 546 552 587 642 688 
+accentuated Lunar_swirls.txt 1 68 
+coincident Lunar_swirls.txt 1 162 
+impacts Lunar_swirls.txt 1 592 
+patterns Lunar_swirls.txt 1 694 
+process Lunar_swirls.txt 1 508 
+characteristics Lunar_swirls.txt 3 51 269 300 
+is Lunar_swirls.txt 6 66 409 487 505 529 659 
+categories Lunar_swirls.txt 1 700 
+locations Lunar_swirls.txt 1 624 
+surface Lunar_swirls.txt 5 35 85 537 594 677 
+an Lunar_swirls.txt 6 183 198 208 330 364 393 
+high Lunar_swirls.txt 4 42 167 524 655 
+as Lunar_swirls.txt 4 145 335 388 589 
+at Lunar_swirls.txt 3 355 358 488 
+have Lunar_swirls.txt 3 100 181 453 
+in Lunar_swirls.txt 3 326 482 558 
+ingenii Lunar_swirls.txt 2 20 24 
+dominant Lunar_swirls.txt 1 661 
+began Lunar_swirls.txt 1 510 
+attract Lunar_swirls.txt 1 648 
+albedo Lunar_swirls.txt 5 43 71 126 525 656 
+contents Lunar_swirls.txt 1 152 
+relatively Lunar_swirls.txt 3 54 166 609 
+orbital Lunar_swirls.txt 1 211 
+bombardment Lunar_swirls.txt 2 471 498 
+strength Lunar_swirls.txt 1 170 
+angle Lunar_swirls.txt 1 7 
+formed Lunar_swirls.txt 1 429 
+no Lunar_swirls.txt 2 96 237 
+large Lunar_swirls.txt 1 316 
+whereas Lunar_swirls.txt 1 132 
+preferentially Lunar_swirls.txt 1 686 
+any Lunar_swirls.txt 1 274 
+regions Lunar_swirls.txt 5 72 164 227 247 323 
+field Lunar_swirls.txt 7 169 194 213 232 242 333 353 
+complex Lunar_swirls.txt 1 129 
+take Lunar_swirls.txt 1 280 
+which Lunar_swirls.txt 5 36 188 402 509 548 
+micro-impacts Lunar_swirls.txt 1 588 
+swirl Lunar_swirls.txt 7 196 210 264 292 503 623 693 
+redeposited Lunar_swirls.txt 1 553 
+several Lunar_swirls.txt 1 306 
+composition Lunar_swirls.txt 1 117 
+optically Lunar_swirls.txt 1 45 
+independent Lunar_swirls.txt 1 295 
+alternative Lunar_swirls.txt 1 394 
+regional Lunar_swirls.txt 1 244 
+electric Lunar_swirls.txt 1 632 
+may Lunar_swirls.txt 1 179 
+correlation Lunar_swirls.txt 1 408 
+upon Lunar_swirls.txt 1 405 
+mapping Lunar_swirls.txt 2 214 621 
+remanent Lunar_swirls.txt 1 249 
+ion Lunar_swirls.txt 2 470 497 
+generated Lunar_swirls.txt 1 342 
+invoked Lunar_swirls.txt 1 376 
+two Lunar_swirls.txt 1 268 
+waves Lunar_swirls.txt 1 415 
+contrasts Lunar_swirls.txt 1 127 
+such Lunar_swirls.txt 3 144 334 387 
+seismic Lunar_swirls.txt 1 414 
+model Lunar_swirls.txt 9 275 395 442 475 500 520 564 600 628 
+maria Lunar_swirls.txt 2 106 121 
+a Lunar_swirls.txt 12 41 53 60 114 172 229 339 350 385 397 491 506 
+younger Lunar_swirls.txt 1 315 
+highlands Lunar_swirls.txt 1 108 
+least Lunar_swirls.txt 1 489 
+observation Lunar_swirls.txt 1 304 
+accumulate Lunar_swirls.txt 1 687 
+reiner Lunar_swirls.txt 3 11 16 390 
+antipodal Lunar_swirls.txt 4 312 322 383 607 
+regolith Lunar_swirls.txt 2 56 538 
+near-surface Lunar_swirls.txt 1 576 
+curie Lunar_swirls.txt 1 581 
+materials Lunar_swirls.txt 2 450 577 
+deposit Lunar_swirls.txt 1 370 
+time Lunar_swirls.txt 2 360 458 
+fresh Lunar_swirls.txt 1 550 
+the Lunar_swirls.txt 52 32 49 76 83 104 120 158 216 234 287 297 303 308 314 327 344 356 359 389 406 417 420 426 435 438 445 460 483 494 514 517 523 527 530 535 540 554 565 571 580 590 593 597 602 617 625 638 643 660 664 676 690 
+charged Lunar_swirls.txt 1 652 
+having Lunar_swirls.txt 3 40 48 59 
+wind Lunar_swirls.txt 6 74 437 440 469 496 645 
+once Lunar_swirls.txt 1 419 

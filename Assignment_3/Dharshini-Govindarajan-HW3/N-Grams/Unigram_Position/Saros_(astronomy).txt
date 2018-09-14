@@ -1,0 +1,532 @@
+now Saros_(astronomy).txt 1 1510 
+partial Saros_(astronomy).txt 4 1077 1572 1632 1645 
+earthmoon Saros_(astronomy).txt 1 874 
+month Saros_(astronomy).txt 6 375 378 382 562 657 829 
+known Saros_(astronomy).txt 3 111 129 1016 
+row Saros_(astronomy).txt 1 1957 
+to Saros_(astronomy).txt 35 31 51 72 130 141 188 250 268 370 392 472 501 554 599 630 735 757 809 821 858 1113 1278 1285 1290 1352 1359 1369 1384 1424 1473 1479 1587 1604 1794 1922 
+nodes Saros_(astronomy).txt 3 534 584 1484 
+applied Saros_(astronomy).txt 1 140 
+returning Saros_(astronomy).txt 1 553 
+continues Saros_(astronomy).txt 1 249 
+every Saros_(astronomy).txt 1 586 
+exact Saros_(astronomy).txt 1 1122 
+condition Saros_(astronomy).txt 1 507 
+hipparchus Saros_(astronomy).txt 1 131 
+chaldean Saros_(astronomy).txt 1 117 
+says Saros_(astronomy).txt 1 165 
+three-dimensional Saros_(astronomy).txt 1 568 
+till Saros_(astronomy).txt 1 1301 
+second Saros_(astronomy).txt 1 1762 
+19,755.96 Saros_(astronomy).txt 1 1013 
+odd Saros_(astronomy).txt 2 301 1433 
+even Saros_(astronomy).txt 4 831 1042 1288 1448 
+what Saros_(astronomy).txt 2 69 109 
+sun Saros_(astronomy).txt 10 36 46 404 417 593 754 924 1079 1143 1440 
+11.321 Saros_(astronomy).txt 1 343 
+chaldeans Saros_(astronomy).txt 2 175 190 
+above Saros_(astronomy).txt 1 988 
+new Saros_(astronomy).txt 5 432 461 514 575 1784 
+3d Saros_(astronomy).txt 1 677 
+body Saros_(astronomy).txt 1 480 
+full Saros_(astronomy).txt 4 434 459 512 577 
+27.5545 Saros_(astronomy).txt 1 666 
+respectively Saros_(astronomy).txt 1 435 
+hours Saros_(astronomy).txt 4 26 911 1728 1755 
+active Saros_(astronomy).txt 2 1497 1512 
+path Saros_(astronomy).txt 4 323 1063 1092 1598 
+november Saros_(astronomy).txt 1 1175 
+table Saros_(astronomy).txt 1 1548 
+39 Saros_(astronomy).txt 1 1383 
+shift Saros_(astronomy).txt 1 933 
+leaves Saros_(astronomy).txt 1 1144 
+extremes Saros_(astronomy).txt 1 1365 
+negative Saros_(astronomy).txt 2 1286 1307 
+draconic Saros_(astronomy).txt 4 377 561 692 1125 
+makes Saros_(astronomy).txt 1 196 
+useful Saros_(astronomy).txt 1 355 
+visible Saros_(astronomy).txt 2 955 977 
+pliny Saros_(astronomy).txt 1 132 
+limb Saros_(astronomy).txt 3 1056 1864 1893 
+total Saros_(astronomy).txt 8 1399 1611 1621 1655 1696 1750 1906 1911 
+from Saros_(astronomy).txt 14 153 225 258 444 725 752 956 978 1357 1367 1382 1532 1742 1791 
+takes Saros_(astronomy).txt 1 1339 
+contains Saros_(astronomy).txt 1 893 
+two Saros_(astronomy).txt 4 533 545 620 949 
+next Saros_(astronomy).txt 2 972 1248 
+predict Saros_(astronomy).txt 1 32 
+inex Saros_(astronomy).txt 1 1226 
+therefore Saros_(astronomy).txt 1 830 
+6 Saros_(astronomy).txt 2 205 589 
+type Saros_(astronomy).txt 1 1426 
+minor Saros_(astronomy).txt 1 1801 
+separated Saros_(astronomy).txt 1 91 
+caesarea Saros_(astronomy).txt 1 231 
+inclined Saros_(astronomy).txt 1 500 
+occurred Saros_(astronomy).txt 2 1725 1752 
+visibility Saros_(astronomy).txt 5 931 1675 1703 1773 1789 
+visual Saros_(astronomy).txt 1 1951 
+terminates Saros_(astronomy).txt 1 1142 
+particular Saros_(astronomy).txt 1 1238 
+eccentricity Saros_(astronomy).txt 1 662 
+producing Saros_(astronomy).txt 1 449 
+must Saros_(astronomy).txt 2 397 412 
+1990 Saros_(astronomy).txt 1 1177 
+word Saros_(astronomy).txt 2 255 261 
+1994 Saros_(astronomy).txt 1 1213 
+hour Saros_(astronomy).txt 1 1129 
+this Saros_(astronomy).txt 13 424 506 783 925 1009 1167 1335 1547 1563 1635 1786 1917 1954 
+eclipse Saros_(astronomy).txt 50 44 65 75 143 307 391 408 423 572 618 648 771 778 863 903 921 967 973 994 1003 1048 1078 1165 1173 1205 1224 1235 1253 1304 1428 1476 1534 1564 1573 1612 1627 1633 1646 1678 1697 1721 1751 1763 1828 1839 1871 1880 1908 1913 1948 
+can Saros_(astronomy).txt 4 28 425 779 1517 
+following Saros_(astronomy).txt 3 1297 1618 1720 
+example Saros_(astronomy).txt 7 1182 1251 1537 1541 1806 1855 1952 
+history Saros_(astronomy).txt 1 101 
+suda Saros_(astronomy).txt 3 155 164 217 
+links Saros_(astronomy).txt 1 1968 
+calculation Saros_(astronomy).txt 1 278 
+numbers Saros_(astronomy).txt 5 304 1045 1283 1287 1516 
+counting Saros_(astronomy).txt 1 1521 
+occur Saros_(astronomy).txt 10 67 366 393 482 1623 1637 1651 1841 1882 1916 
+axis Saros_(astronomy).txt 1 869 
+information Saros_(astronomy).txt 1 214 
+end Saros_(astronomy).txt 3 1083 1501 1796 
+5.5 Saros_(astronomy).txt 3 1833 1875 1902 
+american Saros_(astronomy).txt 1 276 
+2220 Saros_(astronomy).txt 2 180 1641 
+astronomers Saros_(astronomy).txt 1 119 
+located Saros_(astronomy).txt 2 399 414 
+1691 Saros_(astronomy).txt 1 149 
+1756 Saros_(astronomy).txt 1 245 
+description Saros_(astronomy).txt 1 289 
+earth-sun-moon Saros_(astronomy).txt 1 702 
+southern Saros_(astronomy).txt 5 314 1055 1576 1863 1892 
+orbits Saros_(astronomy).txt 2 448 816 
+saroi Saros_(astronomy).txt 1 178 
+catalog Saros_(astronomy).txt 1 1535 
+stars Saros_(astronomy).txt 2 824 860 
+saros Saros_(astronomy).txt 61 0 4 40 84 94 98 114 137 167 195 281 302 329 331 387 621 647 674 680 732 773 802 846 866 884 906 993 1011 1020 1029 1043 1070 1072 1090 1118 1153 1159 1186 1192 1201 1239 1262 1265 1281 1308 1321 1350 1411 1417 1513 1530 1545 1560 1594 1659 1673 1691 1809 1812 1819 1837 
+date Saros_(astronomy).txt 1 768 
+such Saros_(astronomy).txt 1 309 
+a Saros_(astronomy).txt 47 10 57 62 77 83 85 97 156 169 172 332 406 421 488 511 563 606 670 775 797 810 845 852 865 877 898 905 1018 1076 1237 1244 1306 1349 1391 1543 1571 1672 1685 1804 1823 1835 1869 1878 1905 1910 1924 1950 
+short Saros_(astronomy).txt 1 1130 
+1280 Saros_(astronomy).txt 1 1663 
+third Saros_(astronomy).txt 2 940 1749 
+greek Saros_(astronomy).txt 3 138 254 1023 
+allow Saros_(astronomy).txt 1 1366 
+began Saros_(astronomy).txt 1 1566 
+indeed Saros_(astronomy).txt 1 193 
+over Saros_(astronomy).txt 1 1527 
+years Saros_(astronomy).txt 20 22 181 182 203 208 339 342 348 351 737 805 882 1228 1296 1344 1620 1664 1831 1873 1900 
+freeth Saros_(astronomy).txt 1 270 
+course Saros_(astronomy).txt 1 1268 
+131 Saros_(astronomy).txt 3 1562 1661 1693 
+through Saros_(astronomy).txt 2 312 549 
+136 Saros_(astronomy).txt 1 1813 
+mentioned Saros_(astronomy).txt 1 1420 
+still Saros_(astronomy).txt 1 975 
+its Saros_(astronomy).txt 3 1588 1701 1771 
+before Saros_(astronomy).txt 1 1271 
+perfect Saros_(astronomy).txt 1 811 
+1 Saros_(astronomy).txt 3 1161 1188 1219 
+26 Saros_(astronomy).txt 1 1256 
+le Saros_(astronomy).txt 1 236 
+20 Saros_(astronomy).txt 1 1231 
+termed Saros_(astronomy).txt 1 559 
+29 Saros_(astronomy).txt 1 1227 
+exhibits Saros_(astronomy).txt 1 876 
+categories Saros_(astronomy).txt 2 1970 1972 
+covered Saros_(astronomy).txt 1 1889 
+hidden Saros_(astronomy).txt 1 1971 
+might Saros_(astronomy).txt 1 974 
+earthsunmoon Saros_(astronomy).txt 1 838 
+return Saros_(astronomy).txt 1 50 
+edmond Saros_(astronomy).txt 1 146 
+1950 Saros_(astronomy).txt 2 1615 1699 
+half Saros_(astronomy).txt 2 81 1836 
+not Saros_(astronomy).txt 4 807 886 953 1120 
+rotation Saros_(astronomy).txt 1 871 
+reckoning Saros_(astronomy).txt 1 191 
+day Saros_(astronomy).txt 6 565 899 915 1000 1732 1759 
+viewers Saros_(astronomy).txt 2 1705 1775 
+articles Saros_(astronomy).txt 1 1336 
+february Saros_(astronomy).txt 1 1211 
+name Saros_(astronomy).txt 2 136 248 
+edit Saros_(astronomy).txt 8 102 290 1031 1538 1821 1964 1966 1969 
+each Saros_(astronomy).txt 14 327 386 643 862 901 1050 1068 1071 1088 1373 1468 1592 1677 1956 
+accounts Saros_(astronomy).txt 1 1940 
+went Saros_(astronomy).txt 1 1269 
+berossus Saros_(astronomy).txt 1 234 
+referred Saros_(astronomy).txt 2 71 1921 
+tilted Saros_(astronomy).txt 1 756 
+series Saros_(astronomy).txt 44 86 99 303 310 867 907 1030 1044 1051 1073 1141 1154 1160 1168 1187 1193 1202 1240 1249 1263 1266 1282 1322 1351 1374 1376 1393 1412 1418 1435 1450 1462 1469 1490 1498 1514 1546 1561 1565 1649 1660 1692 1724 1799 
+globe Saros_(astronomy).txt 1 946 
+related Saros_(astronomy).txt 1 369 
+18.59992 Saros_(astronomy).txt 1 881 
+fortnight Saros_(astronomy).txt 2 1937 1939 
+measure Saros_(astronomy).txt 1 170 
+happen Saros_(astronomy).txt 1 426 
+event Saros_(astronomy).txt 1 644 
+peaks Saros_(astronomy).txt 1 1470 
+periodicities Saros_(astronomy).txt 1 368 
+antikythera Saros_(astronomy).txt 1 287 
+occurs Saros_(astronomy).txt 4 508 585 908 1909 
+common Saros_(astronomy).txt 2 338 347 
+after Saros_(astronomy).txt 8 42 678 844 1233 1634 1822 1829 1904 
+earths Saros_(astronomy).txt 5 318 1355 1580 1606 1896 
+derived Saros_(astronomy).txt 2 221 1519 
+differ Saros_(astronomy).txt 1 1680 
+ascending Saros_(astronomy).txt 4 297 536 1110 1444 
+ecliptic Saros_(astronomy).txt 2 521 551 
+members Saros_(astronomy).txt 1 1347 
+242 Saros_(astronomy).txt 1 697 
+earliest Saros_(astronomy).txt 1 104 
+beginning Saros_(astronomy).txt 1 1146 
+backwards Saros_(astronomy).txt 1 1284 
+geometry Saros_(astronomy).txt 5 56 569 703 800 835 
+starts Saros_(astronomy).txt 2 1052 1074 
+days Saros_(astronomy).txt 16 19 24 336 344 353 456 667 742 827 891 1014 1232 1670 1834 1876 1903 
+times Saros_(astronomy).txt 1 359 
+turn Saros_(astronomy).txt 2 219 1024 
+length Saros_(astronomy).txt 1 739 
+plane Saros_(astronomy).txt 3 494 522 552 
+place Saros_(astronomy).txt 2 794 959 
+repeats Saros_(astronomy).txt 1 1790 
+south Saros_(astronomy).txt 3 476 1360 1746 
+first Saros_(astronomy).txt 6 306 1047 1080 1610 1631 1695 
+1226 Saros_(astronomy).txt 1 1341 
+number Saros_(astronomy).txt 8 173 265 689 813 889 1218 1309 1523 
+one Saros_(astronomy).txt 15 39 80 93 530 581 673 679 772 801 939 1128 1225 1480 1936 1959 
+occurrences Saros_(astronomy).txt 1 438 
+directly Saros_(astronomy).txt 1 222 
+between Saros_(astronomy).txt 8 400 415 633 1326 1340 1492 1815 1944 
+passes Saros_(astronomy).txt 2 311 548 
+given Saros_(astronomy).txt 9 300 766 991 1041 1333 1392 1406 1686 1824 
+2054 Saros_(astronomy).txt 1 1503 
+ordering Saros_(astronomy).txt 1 1459 
+system Saros_(astronomy).txt 2 839 875 
+approximately Saros_(astronomy).txt 4 13 17 52 1408 
+annular-total Saros_(astronomy).txt 1 1403 
+58.5 Saros_(astronomy).txt 1 1207 
+2 Saros_(astronomy).txt 1 1264 
+listed Saros_(astronomy).txt 1 1526 
+perfectly Saros_(astronomy).txt 1 385 
+final Saros_(astronomy).txt 1 1644 
+listen Saros_(astronomy).txt 1 8 
+shifted Saros_(astronomy).txt 4 325 1065 1097 1600 
+1367 Saros_(astronomy).txt 1 1311 
+way Saros_(astronomy).txt 1 943 
+mostly Saros_(astronomy).txt 1 1386 
+that Saros_(astronomy).txt 10 27 89 239 502 523 613 927 1116 1397 1842 
+season Saros_(astronomy).txt 1 765 
+completed Saros_(astronomy).txt 1 685 
+took Saros_(astronomy).txt 1 151 
+western Saros_(astronomy).txt 1 1778 
+somewhat Saros_(astronomy).txt 1 798 
+than Saros_(astronomy).txt 1 1760 
+11 Saros_(astronomy).txt 2 23 741 
+distance Saros_(astronomy).txt 3 632 724 751 
+13 Saros_(astronomy).txt 1 346 
+12 Saros_(astronomy).txt 2 184 210 
+determines Saros_(astronomy).txt 1 1463 
+14 Saros_(astronomy).txt 1 337 
+16 Saros_(astronomy).txt 1 1176 
+18 Saros_(astronomy).txt 3 21 202 736 
+seen Saros_(astronomy).txt 1 1741 
+halleys Saros_(astronomy).txt 1 240 
+r Saros_(astronomy).txt 1 6 
+20:44 Saros_(astronomy).txt 1 1717 
+historical Saros_(astronomy).txt 1 106 
+10.321 Saros_(astronomy).txt 1 352 
+gives Saros_(astronomy).txt 1 1549 
+minus Saros_(astronomy).txt 1 1229 
+result Saros_(astronomy).txt 1 443 
+and Saros_(astronomy).txt 43 37 48 61 133 171 204 320 379 403 418 436 446 460 602 627 636 693 698 700 715 721 755 790 947 1060 1087 1139 1196 1274 1329 1342 1494 1642 1709 1738 1745 1769 1783 1817 1832 1874 1901 1946 
+18.03 Saros_(astronomy).txt 1 804 
+plus Saros_(astronomy).txt 1 1935 
+julian Saros_(astronomy).txt 1 1179 
+westward Saros_(astronomy).txt 1 934 
+have Saros_(astronomy).txt 4 623 684 711 1377 
+sar Saros_(astronomy).txt 4 78 1820 1925 1960 
+apparently Saros_(astronomy).txt 1 256 
+calendar Saros_(astronomy).txt 1 1180 
+contents Saros_(astronomy).txt 1 100 
+complete Saros_(astronomy).txt 1 1320 
+built Saros_(astronomy).txt 1 284 
+1961 Saros_(astronomy).txt 1 1257 
+mechanism Saros_(astronomy).txt 1 288 
+also Saros_(astronomy).txt 4 604 651 1915 1963 
+take Saros_(astronomy).txt 1 793 
+which Saros_(astronomy).txt 6 200 232 361 1467 1471 1884 
+equaling Saros_(astronomy).txt 1 803 
+coincide Saros_(astronomy).txt 1 383 
+exeligmos Saros_(astronomy).txt 1 1022 
+111.5 Saros_(astronomy).txt 1 1928 
+though Saros_(astronomy).txt 1 832 
+who Saros_(astronomy).txt 1 150 
+chart Saros_(astronomy).txt 1 1955 
+falls Saros_(astronomy).txt 1 471 
+most Saros_(astronomy).txt 2 458 1375 
+72 Saros_(astronomy).txt 2 1380 1556 
+71 Saros_(astronomy).txt 1 1378 
+successive Saros_(astronomy).txt 6 328 546 902 1069 1089 1593 
+phase Saros_(astronomy).txt 1 714 
+america Saros_(astronomy).txt 2 1744 1747 
+zealand Saros_(astronomy).txt 1 1785 
+chronicle Saros_(astronomy).txt 1 227 
+later Saros_(astronomy).txt 6 128 774 912 1729 1756 1877 
+mechanical Saros_(astronomy).txt 1 277 
+then Saros_(astronomy).txt 1 1241 
+fact Saros_(astronomy).txt 1 1115 
+lexicon Saros_(astronomy).txt 1 158 
+southward Saros_(astronomy).txt 1 1106 
+discovered Saros_(astronomy).txt 1 105 
+9-year Saros_(astronomy).txt 1 1918 
+asia Saros_(astronomy).txt 1 1781 
+earth Saros_(astronomy).txt 12 47 402 411 468 505 635 727 745 817 961 1059 1867 
+just Saros_(astronomy).txt 1 1289 
+223 Saros_(astronomy).txt 2 14 696 
+only Saros_(astronomy).txt 2 427 509 
+8 Saros_(astronomy).txt 4 25 910 1727 1754 
+local Saros_(astronomy).txt 1 997 
+alternation Saros_(astronomy).txt 1 1943 
+penumbra Saros_(astronomy).txt 2 1859 1897 
+anomalistic Saros_(astronomy).txt 3 381 656 694 
+means Saros_(astronomy).txt 1 926 
+2707 Saros_(astronomy).txt 1 1653 
+27.32166 Saros_(astronomy).txt 1 826 
+designated Saros_(astronomy).txt 1 1156 
+kind Saros_(astronomy).txt 1 1438 
+120 Saros_(astronomy).txt 2 177 936 
+nearly Saros_(astronomy).txt 10 63 362 489 639 706 748 760 776 842 1006 
+during Saros_(astronomy).txt 3 457 782 1868 
+conjunction Saros_(astronomy).txt 1 596 
+29.53059 Saros_(astronomy).txt 1 455 
+precession Saros_(astronomy).txt 1 878 
+generally Saros_(astronomy).txt 1 1457 
+twice Saros_(astronomy).txt 1 616 
+predicted Saros_(astronomy).txt 1 781 
+fixed Saros_(astronomy).txt 1 823 
+traverse Saros_(astronomy).txt 1 1353 
+observer Saros_(astronomy).txt 1 1683 
+locale Saros_(astronomy).txt 1 1687 
+59 Saros_(astronomy).txt 1 1385 
+relative Saros_(astronomy).txt 2 55 834 
+see Saros_(astronomy).txt 3 1810 1953 1962 
+are Saros_(astronomy).txt 10 90 201 299 1040 1135 1190 1332 1421 1496 1509 
+close Saros_(astronomy).txt 2 734 1586 
+11th Saros_(astronomy).txt 1 161 
+best Saros_(astronomy).txt 3 1702 1740 1772 
+phases Saros_(astronomy).txt 1 442 
+wikipedia Saros_(astronomy).txt 1 2 
+sites Saros_(astronomy).txt 1 1536 
+moons Saros_(astronomy).txt 8 296 322 451 462 610 1037 1596 1858 
+progress Saros_(astronomy).txt 1 1416 
+europe Saros_(astronomy).txt 1 1708 
+extend Saros_(astronomy).txt 1 1279 
+era Saros_(astronomy).txt 1 1325 
+however Saros_(astronomy).txt 1 463 
+opposition Saros_(astronomy).txt 1 598 
+article Saros_(astronomy).txt 1 273 
+dates Saros_(astronomy).txt 2 1273 1551 
+last Saros_(astronomy).txt 2 122 1303 
+region Saros_(astronomy).txt 1 929 
+23 Saros_(astronomy).txt 1 1212 
+according Saros_(astronomy).txt 3 187 267 1423 
+s Saros_(astronomy).txt 2 5 7 
+comes Saros_(astronomy).txt 1 257 
+otherwise Saros_(astronomy).txt 1 224 
+among Saros_(astronomy).txt 1 174 
+point Saros_(astronomy).txt 1 1133 
+period Saros_(astronomy).txt 12 11 41 333 453 541 566 659 671 785 879 1531 1919 
+ce Saros_(astronomy).txt 1 1331 
+3000 Saros_(astronomy).txt 1 1330 
+i.e Saros_(astronomy).txt 1 207 
+tony Saros_(astronomy).txt 1 269 
+respect Saros_(astronomy).txt 3 820 857 1603 
+1427 Saros_(astronomy).txt 1 1569 
+addition Saros_(astronomy).txt 1 729 
+due Saros_(astronomy).txt 2 629 1112 
+4 Saros_(astronomy).txt 1 340 
+gentil Saros_(astronomy).txt 1 237 
+eastern Saros_(astronomy).txt 1 1707 
+finished Saros_(astronomy).txt 1 1170 
+external Saros_(astronomy).txt 1 1967 
+case Saros_(astronomy).txt 2 918 964 
+has Saros_(astronomy).txt 1 1169 
+these Saros_(astronomy).txt 5 440 1272 1364 1461 1515 
+straight Saros_(astronomy).txt 2 59 490 
+appearance Saros_(astronomy).txt 1 626 
+compilers Saros_(astronomy).txt 1 1163 
+will Saros_(astronomy).txt 20 66 365 683 704 710 746 840 849 932 951 1004 1394 1413 1500 1636 1650 1679 1840 1881 1914 
+near Saros_(astronomy).txt 10 58 294 517 580 605 1035 1101 1108 1442 1453 
+halley Saros_(astronomy).txt 1 147 
+eclipses Saros_(astronomy).txt 22 33 88 292 364 481 622 792 950 1033 1062 1134 1198 1292 1315 1371 1381 1389 1487 1507 1525 1558 1622 
+at Saros_(astronomy).txt 13 360 529 612 717 1053 1131 1404 1466 1574 1684 1716 1735 1766 
+orientation Saros_(astronomy).txt 1 763 
+century Saros_(astronomy).txt 1 162 
+almost Saros_(astronomy).txt 1 384 
+is Saros_(astronomy).txt 42 9 70 79 95 110 115 168 283 324 354 431 499 516 524 528 558 579 594 650 733 806 885 987 1015 1064 1096 1119 1183 1222 1243 1259 1276 1398 1441 1452 1477 1599 1662 1843 1887 1920 1958 
+thus Saros_(astronomy).txt 2 900 952 
+it Saros_(astronomy).txt 8 126 152 758 1242 1275 1338 1451 1926 
+surface Saros_(astronomy).txt 1 1356 
+equal Saros_(astronomy).txt 1 808 
+middle Saros_(astronomy).txt 1 1711 
+properties Saros_(astronomy).txt 1 1853 
+triple Saros_(astronomy).txt 1 1019 
+in Saros_(astronomy).txt 44 68 120 148 215 218 244 271 308 519 595 676 728 738 759 851 864 904 913 916 962 1184 1260 1294 1310 1334 1372 1390 1415 1432 1447 1502 1567 1591 1614 1628 1638 1652 1671 1706 1722 1730 1757 1776 1883 
+claimed Saros_(astronomy).txt 1 238 
+synodic Saros_(astronomy).txt 7 15 374 452 691 1208 1929 1933 
+if Saros_(astronomy).txt 3 192 1220 1856 
+orbital Saros_(astronomy).txt 1 1597 
+different Saros_(astronomy).txt 4 799 854 1191 1410 
+revolutions Saros_(astronomy).txt 1 818 
+make Saros_(astronomy).txt 1 179 
+same Saros_(astronomy).txt 13 54 556 625 641 713 719 723 750 762 764 958 980 1008 
+any Saros_(astronomy).txt 1 1405 
+member Saros_(astronomy).txt 1 1245 
+9 Saros_(astronomy).txt 3 1830 1872 1899 
+several Saros_(astronomy).txt 1 123 
+wheel Saros_(astronomy).txt 1 1027 
+used Saros_(astronomy).txt 2 30 252 
+centuries Saros_(astronomy).txt 1 124 
+closest Saros_(astronomy).txt 1 1478 
+single Saros_(astronomy).txt 1 1544 
+cycle Saros_(astronomy).txt 8 76 144 282 388 649 675 1028 1787 
+numbered Saros_(astronomy).txt 4 1422 1434 1449 1491 
+sidereal Saros_(astronomy).txt 1 828 
+roughly Saros_(astronomy).txt 1 686 
+edge Saros_(astronomy).txt 2 315 1577 
+position Saros_(astronomy).txt 1 855 
+the Saros_(astronomy).txt 186 3 35 45 53 103 113 121 135 142 154 160 163 166 189 194 213 216 226 247 253 259 264 280 286 295 305 313 317 321 330 358 373 376 380 395 401 410 416 429 450 464 467 473 478 484 493 496 504 520 526 532 535 540 550 555 560 567 574 583 592 600 609 624 631 634 640 646 655 658 661 681 701 708 712 718 722 726 731 744 749 753 761 767 822 833 837 847 859 868 873 883 894 914 917 923 928 942 945 948 957 963 969 971 979 985 989 996 1007 1026 1036 1046 1054 1058 1061 1082 1085 1091 1094 1102 1109 1114 1117 1140 1145 1148 1172 1203 1217 1247 1252 1280 1295 1302 1316 1319 1324 1346 1354 1425 1439 1443 1454 1458 1464 1482 1488 1522 1533 1550 1555 1575 1579 1583 1595 1605 1609 1617 1625 1630 1639 1643 1648 1654 1667 1674 1689 1694 1710 1719 1723 1731 1748 1758 1761 1777 1792 1795 1798 1857 1862 1866 1885 1891 1895 1938 1942 
+bodies Saros_(astronomy).txt 1 486 
+quoted Saros_(astronomy).txt 1 233 
+mid-eclipse Saros_(astronomy).txt 3 1714 1734 1765 
+being Saros_(astronomy).txt 1 638 
+hybrid Saros_(astronomy).txt 1 1402 
+12:43 Saros_(astronomy).txt 1 1767 
+assigned Saros_(astronomy).txt 1 1216 
+intervals Saros_(astronomy).txt 1 995 
+41 Saros_(astronomy).txt 1 1511 
+visualization Saros_(astronomy).txt 1 668 
+enters Saros_(astronomy).txt 1 1081 
+had Saros_(astronomy).txt 2 1700 1770 
+location Saros_(astronomy).txt 1 981 
+versa Saros_(astronomy).txt 2 1363 1850 
+usage Saros_(astronomy).txt 1 241 
+occurring Saros_(astronomy).txt 5 293 1034 1206 1293 1613 
+identical Saros_(astronomy).txt 5 64 363 707 777 843 
+australia Saros_(astronomy).txt 1 1782 
+around Saros_(astronomy).txt 1 944 
+4:47 Saros_(astronomy).txt 1 1736 
+possible Saros_(astronomy).txt 1 1138 
+corresponds Saros_(astronomy).txt 1 1472 
+descending Saros_(astronomy).txt 5 538 1038 1103 1455 1589 
+integer Saros_(astronomy).txt 5 653 688 812 888 1123 
+shadow Saros_(astronomy).txt 4 319 465 1581 1607 
+babylonian Saros_(astronomy).txt 1 260 
+1550 Saros_(astronomy).txt 1 1343 
+necessary Saros_(astronomy).txt 1 1277 
+northward Saros_(astronomy).txt 4 326 1066 1099 1601 
+either Saros_(astronomy).txt 3 394 1098 1437 
+arbitrary Saros_(astronomy).txt 1 1151 
+because Saros_(astronomy).txt 5 492 645 730 1665 1713 
+some Saros_(astronomy).txt 2 1132 1553 
+pacific Saros_(astronomy).txt 1 1779 
+252 Saros_(astronomy).txt 1 1619 
+117 Saros_(astronomy).txt 2 1493 1499 
+111 Saros_(astronomy).txt 1 1932 
+69 Saros_(astronomy).txt 1 1368 
+duration Saros_(astronomy).txt 1 628 
+6585.3211 Saros_(astronomy).txt 2 18 335 
+for Saros_(astronomy).txt 29 176 274 356 389 405 420 544 642 861 1181 1194 1199 1250 1313 1318 1345 1485 1505 1559 1616 1681 1688 1704 1774 1803 1807 1854 1941 1949 
+per Saros_(astronomy).txt 1 617 
+moon Saros_(astronomy).txt 19 38 49 396 419 430 470 515 527 578 601 637 682 709 848 970 986 1095 1584 1886 
+leap Saros_(astronomy).txt 2 341 350 
+2078 Saros_(astronomy).txt 1 1629 
+lunar Saros_(astronomy).txt 28 185 198 211 291 371 422 441 447 497 547 664 791 815 1197 1200 1204 1429 1483 1506 1557 1658 1690 1816 1825 1844 1879 1912 1947 
+guillaume Saros_(astronomy).txt 1 235 
+be Saros_(astronomy).txt 16 29 251 398 413 705 716 747 780 841 850 954 976 1005 1395 1414 1518 
+scientific Saros_(astronomy).txt 1 275 
+bc Saros_(astronomy).txt 5 125 1178 1214 1258 1312 
+predicting Saros_(astronomy).txt 1 357 
+annular Saros_(astronomy).txt 1 1400 
+relationship Saros_(astronomy).txt 1 1814 
+by Saros_(astronomy).txt 6 92 116 145 1162 1520 1890 
+earlier Saros_(astronomy).txt 1 1210 
+on Saros_(astronomy).txt 2 960 1270 
+about Saros_(astronomy).txt 10 740 786 909 935 938 1127 1230 1387 1726 1753 
+central Saros_(astronomy).txt 2 1396 1626 
+of Saros_(astronomy).txt 82 12 34 82 87 108 159 183 209 228 230 279 316 334 439 454 466 477 495 503 531 542 570 582 608 654 660 663 669 672 690 769 814 825 836 870 872 880 890 896 897 919 922 930 941 965 968 999 1001 1025 1049 1057 1084 1093 1124 1147 1164 1174 1236 1246 1254 1267 1348 1427 1436 1460 1481 1524 1542 1552 1554 1578 1647 1657 1666 1669 1676 1698 1788 1797 1846 1865 1894 
+months Saros_(astronomy).txt 10 16 186 199 206 212 590 1126 1209 1930 1934 
+eusebius Saros_(astronomy).txt 1 229 
+neo-babylonian Saros_(astronomy).txt 1 118 
+horizon Saros_(astronomy).txt 1 990 
+sru Saros_(astronomy).txt 1 262 
+slightly Saros_(astronomy).txt 1 853 
+or Saros_(astronomy).txt 24 20 223 345 409 433 469 475 513 518 537 576 588 597 615 937 1021 1105 1361 1379 1401 1430 1826 1848 1931 
+into Saros_(astronomy).txt 1 285 
+within Saros_(astronomy).txt 1 1323 
+three Saros_(astronomy).txt 4 367 485 992 1010 
+accommodate Saros_(astronomy).txt 1 1291 
+references Saros_(astronomy).txt 2 1337 1965 
+east Saros_(astronomy).txt 2 1712 1780 
+statistics Saros_(astronomy).txt 2 1166 1317 
+ptolemy Saros_(astronomy).txt 1 134 
+there Saros_(astronomy).txt 3 1189 1221 1508 
+long Saros_(astronomy).txt 1 983 
+start Saros_(astronomy).txt 1 1793 
+fraction Saros_(astronomy).txt 2 895 1668 
+was Saros_(astronomy).txt 9 127 139 220 242 1155 1215 1585 1715 1739 
+3600 Saros_(astronomy).txt 1 266 
+north Saros_(astronomy).txt 3 474 1358 1743 
+byzantine Saros_(astronomy).txt 1 157 
+form Saros_(astronomy).txt 1 487 
+but Saros_(astronomy).txt 4 246 795 892 1171 
+solar Saros_(astronomy).txt 20 407 445 789 1032 1152 1158 1185 1195 1261 1314 1431 1486 1808 1811 1818 1827 1847 1870 1907 1945 
+line Saros_(astronomy).txt 2 60 491 
+with Saros_(astronomy).txt 14 796 819 856 1067 1075 1305 1570 1602 1608 1624 1733 1764 1800 1851 
+222 Saros_(astronomy).txt 1 197 
+partially Saros_(astronomy).txt 2 1860 1888 
+october Saros_(astronomy).txt 1 1255 
+ut Saros_(astronomy).txt 3 1718 1737 1768 
+variations Saros_(astronomy).txt 1 1802 
+up Saros_(astronomy).txt 1 1300 
+18-year Saros_(astronomy).txt 2 784 1529 
+record Saros_(astronomy).txt 1 107 
+similar Saros_(astronomy).txt 2 1805 1852 
+called Saros_(astronomy).txt 1 96 
+instead Saros_(astronomy).txt 1 1845 
+ad Saros_(astronomy).txt 1 1568 
+156 Saros_(astronomy).txt 1 1495 
+likewise Saros_(astronomy).txt 1 1898 
+year Saros_(astronomy).txt 2 619 1640 
+covers Saros_(astronomy).txt 1 1861 
+an Saros_(astronomy).txt 21 43 74 272 390 571 652 687 770 887 920 966 1002 1121 1150 1223 1234 1475 1528 1540 1682 1838 
+as Saros_(astronomy).txt 9 73 112 982 984 1017 1157 1419 1539 1923 
+periods Saros_(astronomy).txt 1 695 
+lifetime Saros_(astronomy).txt 1 1656 
+incorrect Saros_(astronomy).txt 1 243 
+no Saros_(astronomy).txt 1 1136 
+whereas Saros_(astronomy).txt 2 1446 1504 
+when Saros_(astronomy).txt 10 428 483 510 525 573 591 1100 1107 1474 1582 
+43 Saros_(astronomy).txt 1 1388 
+40 Saros_(astronomy).txt 3 787 1409 1489 
+87 Saros_(astronomy).txt 1 1370 
+other Saros_(astronomy).txt 2 479 788 
+5 Saros_(astronomy).txt 2 349 587 
+node Saros_(astronomy).txt 13 298 539 557 607 720 1039 1086 1104 1111 1149 1445 1456 1590 
+repeat Saros_(astronomy).txt 1 437 
+239 Saros_(astronomy).txt 1 699 
+includes Saros_(astronomy).txt 1 1927 
+meaning Saros_(astronomy).txt 1 263 
+27.21222 Saros_(astronomy).txt 1 564 
+astronomy Saros_(astronomy).txt 1 1 
+longer Saros_(astronomy).txt 2 743 1137 
+vice Saros_(astronomy).txt 2 1362 1849 
+bce Saros_(astronomy).txt 2 1299 1328 
+interval Saros_(astronomy).txt 1 1012 
+orbit Saros_(astronomy).txt 4 372 498 611 665 
+coincidentally Saros_(astronomy).txt 1 603 
+2000 Saros_(astronomy).txt 2 1298 1327 
+apart Saros_(astronomy).txt 1 1961 
+time Saros_(astronomy).txt 5 543 614 998 1407 1465 

@@ -1,0 +1,438 @@
+arcminutes Astronomical_conjunction.txt 1 1471 
+all Astronomical_conjunction.txt 1 1500 
+caused Astronomical_conjunction.txt 1 166 
+venus-jupiter Astronomical_conjunction.txt 1 1688 
+spacecraft Astronomical_conjunction.txt 1 36 
+disk Astronomical_conjunction.txt 1 509 
+depend Astronomical_conjunction.txt 1 683 
+to Astronomical_conjunction.txt 19 75 86 179 190 382 452 598 789 830 853 916 932 969 1097 1307 1405 1498 1528 1544 
+810 Astronomical_conjunction.txt 1 1360 
+syzygy Astronomical_conjunction.txt 1 467 
+case Astronomical_conjunction.txt 2 250 465 
+very Astronomical_conjunction.txt 7 400 627 685 992 1320 1526 1733 
+continues Astronomical_conjunction.txt 1 74 
+none Astronomical_conjunction.txt 1 1298 
+every Astronomical_conjunction.txt 1 646 
+vlt Astronomical_conjunction.txt 1 403 
+vast Astronomical_conjunction.txt 1 371 
+went Astronomical_conjunction.txt 1 1647 
+list Astronomical_conjunction.txt 1 1812 
+large Astronomical_conjunction.txt 1 401 
+venus Astronomical_conjunction.txt 29 12 415 545 557 814 895 960 976 1045 1065 1072 1137 1170 1180 1202 1257 1375 1416 1449 1458 1485 1588 1612 1644 1662 1702 1715 1724 1748 
+smaller Astronomical_conjunction.txt 2 516 573 
+conjunctions Astronomical_conjunction.txt 14 135 184 327 701 1041 1141 1188 1301 1344 1387 1475 1652 1801 1814 
+perspective Astronomical_conjunction.txt 2 170 664 
+pass Astronomical_conjunction.txt 2 383 456 
+7th Astronomical_conjunction.txt 1 1781 
+even Astronomical_conjunction.txt 3 711 1000 1022 
+appear Astronomical_conjunction.txt 4 84 381 931 1032 
+sun Astronomical_conjunction.txt 26 100 536 551 594 597 622 751 759 778 791 843 864 877 1091 1132 1153 1200 1212 1220 1250 1271 1312 1331 1356 1402 1546 
+above Astronomical_conjunction.txt 1 14 
+new Astronomical_conjunction.txt 2 879 1222 
+body Astronomical_conjunction.txt 1 618 
+full Astronomical_conjunction.txt 2 1533 1550 
+degree Astronomical_conjunction.txt 1 1677 
+never Astronomical_conjunction.txt 1 720 
+vale Astronomical_conjunction.txt 1 1772 
+hours Astronomical_conjunction.txt 3 727 1598 1778 
+objects Astronomical_conjunction.txt 9 34 82 113 134 139 173 188 291 1623 
+separation Astronomical_conjunction.txt 2 127 1467 
+along Astronomical_conjunction.txt 2 410 1105 
+appears Astronomical_conjunction.txt 2 13 562 
+involved Astronomical_conjunction.txt 3 174 360 982 
+larger Astronomical_conjunction.txt 2 563 617 
+allows Astronomical_conjunction.txt 1 913 
+35 Astronomical_conjunction.txt 1 1102 
+usually Astronomical_conjunction.txt 1 48 
+involves Astronomical_conjunction.txt 1 669 
+reckoned Astronomical_conjunction.txt 1 1005 
+followed Astronomical_conjunction.txt 3 1178 1444 1719 
+merely Astronomical_conjunction.txt 1 258 
+visible Astronomical_conjunction.txt 7 508 645 1146 1229 1244 1392 1617 
+total Astronomical_conjunction.txt 1 1226 
+eye Astronomical_conjunction.txt 1 204 
+takes Astronomical_conjunction.txt 1 468 
+would Astronomical_conjunction.txt 6 1142 1241 1302 1388 1493 1552 
+two Astronomical_conjunction.txt 14 32 81 91 132 138 172 186 195 252 412 420 670 766 1018 
+few Astronomical_conjunction.txt 3 726 1381 1655 
+asteroid Astronomical_conjunction.txt 1 847 
+taken Astronomical_conjunction.txt 1 1027 
+until Astronomical_conjunction.txt 1 910 
+more Astronomical_conjunction.txt 4 153 245 629 723 
+1/3 Astronomical_conjunction.txt 1 1675 
+apparent Astronomical_conjunction.txt 3 108 126 164 
+occurred Astronomical_conjunction.txt 1 1591 
+visual Astronomical_conjunction.txt 1 994 
+particular Astronomical_conjunction.txt 2 249 808 
+known Astronomical_conjunction.txt 1 608 
+cases Astronomical_conjunction.txt 2 318 375 
+account Astronomical_conjunction.txt 1 1029 
+word Astronomical_conjunction.txt 1 121 
+hour Astronomical_conjunction.txt 2 225 268 
+this Astronomical_conjunction.txt 10 104 270 499 575 604 825 938 985 1039 1442 
+eclipse Astronomical_conjunction.txt 4 483 505 612 1228 
+longitude Astronomical_conjunction.txt 6 47 286 296 305 358 446 
+remain Astronomical_conjunction.txt 1 990 
+can Astronomical_conjunction.txt 2 198 827 
+9th Astronomical_conjunction.txt 1 1701 
+example Astronomical_conjunction.txt 2 485 581 
+links Astronomical_conjunction.txt 1 1822 
+december Astronomical_conjunction.txt 5 1062 1088 1120 1524 1594 
+involve Astronomical_conjunction.txt 1 136 
+sphere Astronomical_conjunction.txt 1 368 
+minimum Astronomical_conjunction.txt 1 125 
+attain Astronomical_conjunction.txt 1 423 
+ascension Astronomical_conjunction.txt 10 42 263 276 300 337 354 435 909 1015 1806 
+occur Astronomical_conjunction.txt 1 940 
+end Astronomical_conjunction.txt 1 1640 
+january Astronomical_conjunction.txt 2 1700 1780 
+1 Astronomical_conjunction.txt 3 219 1061 1593 
+far Astronomical_conjunction.txt 1 1571 
+opposite Astronomical_conjunction.txt 1 747 
+may Astronomical_conjunction.txt 14 220 949 989 1031 1316 1361 1406 1429 1441 1454 1463 1490 1581 1642 
+after Astronomical_conjunction.txt 2 955 1038 
+hence Astronomical_conjunction.txt 1 265 
+lay Astronomical_conjunction.txt 1 1325 
+date Astronomical_conjunction.txt 1 1410 
+such Astronomical_conjunction.txt 7 89 156 193 288 374 463 642 
+a Astronomical_conjunction.txt 50 7 28 96 102 119 152 158 160 209 332 431 442 464 466 503 527 539 554 610 636 658 661 718 725 735 770 844 884 886 1100 1114 1163 1225 1273 1319 1341 1377 1380 1432 1446 1472 1513 1574 1585 1649 1654 1669 1676 1708 1721 
+so Astronomical_conjunction.txt 1 1057 
+south Astronomical_conjunction.txt 2 386 1773 
+order Astronomical_conjunction.txt 2 1128 1481 
+astronomical Astronomical_conjunction.txt 5 5 33 54 133 671 
+closeness Astronomical_conjunction.txt 1 709 
+produced Astronomical_conjunction.txt 1 1224 
+through Astronomical_conjunction.txt 1 1648 
+differs Astronomical_conjunction.txt 1 721 
+its Astronomical_conjunction.txt 4 572 707 926 1799 
+astrology Astronomical_conjunction.txt 1 79 
+24 Astronomical_conjunction.txt 2 1295 1523 
+superior Astronomical_conjunction.txt 5 728 739 755 784 803 
+conjunction Astronomical_conjunction.txt 52 0 6 8 29 57 65 161 210 273 283 289 297 302 333 346 432 443 659 719 756 762 782 801 804 856 861 874 1043 1125 1172 1209 1214 1262 1288 1353 1369 1413 1433 1447 1514 1576 1586 1604 1671 1680 1689 1709 1718 1722 1753 1768 1787 
+20 Astronomical_conjunction.txt 1 1081 
+21 Astronomical_conjunction.txt 1 1580 
+vicinity Astronomical_conjunction.txt 2 1247 1328 
+actually Astronomical_conjunction.txt 1 177 
+degrees Astronomical_conjunction.txt 2 1103 1793 
+systems Astronomical_conjunction.txt 1 232 
+latitude Astronomical_conjunction.txt 1 440 
+weeks Astronomical_conjunction.txt 1 1382 
+2016 Astronomical_conjunction.txt 2 1582 1694 
+2011 Astronomical_conjunction.txt 1 221 
+2013 Astronomical_conjunction.txt 1 1636 
+then Astronomical_conjunction.txt 2 920 1183 
+evening Astronomical_conjunction.txt 3 953 1425 1738 
+band Astronomical_conjunction.txt 1 1101 
+february Astronomical_conjunction.txt 1 1160 
+they Astronomical_conjunction.txt 5 257 988 1030 1672 1756 
+front Astronomical_conjunction.txt 3 458 533 548 
+nor Astronomical_conjunction.txt 1 623 
+term Astronomical_conjunction.txt 1 282 
+edit Astronomical_conjunction.txt 22 208 392 657 731 882 1042 1085 1155 1255 1314 1415 1512 1584 1637 1659 1695 1741 1765 1809 1818 1820 1823 
+always Astronomical_conjunction.txt 2 83 891 
+drop Astronomical_conjunction.txt 1 905 
+each Astronomical_conjunction.txt 5 1264 1267 1290 1351 1371 
+entirely Astronomical_conjunction.txt 1 601 
+side Astronomical_conjunction.txt 2 748 775 
+referred Astronomical_conjunction.txt 1 1404 
+telescope Astronomical_conjunction.txt 1 402 
+series Astronomical_conjunction.txt 4 1165 1342 1473 1650 
+related Astronomical_conjunction.txt 1 120 
+entering Astronomical_conjunction.txt 1 961 
+year Astronomical_conjunction.txt 1 647 
+our Astronomical_conjunction.txt 1 230 
+dawn Astronomical_conjunction.txt 1 946 
+event Astronomical_conjunction.txt 5 480 500 524 667 1322 
+sunrise Astronomical_conjunction.txt 1 227 
+space Astronomical_conjunction.txt 1 183 
+7 Astronomical_conjunction.txt 1 1453 
+occurs Astronomical_conjunction.txt 3 30 341 763 
+resume Astronomical_conjunction.txt 1 925 
+ecliptic Astronomical_conjunction.txt 11 46 88 192 285 295 304 339 357 439 445 1107 
+completely Astronomical_conjunction.txt 1 570 
+definition Astronomical_conjunction.txt 1 826 
+overtake Astronomical_conjunction.txt 2 917 970 
+could Astronomical_conjunction.txt 1 238 
+days Astronomical_conjunction.txt 2 998 1656 
+times Astronomical_conjunction.txt 1 680 
+motion Astronomical_conjunction.txt 3 890 928 963 
+turn Astronomical_conjunction.txt 2 1196 1366 
+length Astronomical_conjunction.txt 1 340 
+place Astronomical_conjunction.txt 7 310 469 1190 1346 1487 1521 1578 
+consequence Astronomical_conjunction.txt 1 1115 
+frequent Astronomical_conjunction.txt 1 630 
+thereafter Astronomical_conjunction.txt 1 930 
+2018 Astronomical_conjunction.txt 1 1764 
+one Astronomical_conjunction.txt 7 145 180 376 448 471 567 839 
+another Astronomical_conjunction.txt 5 181 478 914 971 1456 
+reached Astronomical_conjunction.txt 7 1124 1171 1207 1261 1287 1352 1603 
+angular Astronomical_conjunction.txt 1 1466 
+mercury Astronomical_conjunction.txt 15 10 530 542 812 893 958 974 1133 1168 1201 1205 1256 1348 1643 1713 
+earths Astronomical_conjunction.txt 1 693 
+top Astronomical_conjunction.txt 1 1070 
+system Astronomical_conjunction.txt 2 143 150 
+approximately Astronomical_conjunction.txt 1 1674 
+their Astronomical_conjunction.txt 1 1465 
+that Astronomical_conjunction.txt 8 256 331 449 518 668 737 1728 1755 
+relative Astronomical_conjunction.txt 1 708 
+took Astronomical_conjunction.txt 5 1189 1345 1486 1520 1577 
+than Astronomical_conjunction.txt 3 517 564 724 
+wide Astronomical_conjunction.txt 1 1104 
+observatory Astronomical_conjunction.txt 2 22 404 
+14 Astronomical_conjunction.txt 2 1119 1489 
+u+260c Astronomical_conjunction.txt 1 61 
+matter Astronomical_conjunction.txt 1 350 
+2020 Astronomical_conjunction.txt 1 1808 
+were Astronomical_conjunction.txt 5 1367 1716 1732 1751 1785 
+crescent Astronomical_conjunction.txt 2 1053 1607 
+and Astronomical_conjunction.txt 56 11 62 95 101 151 213 235 264 301 416 495 543 592 681 729 802 813 929 975 983 1047 1066 1071 1092 1136 1169 1181 1186 1194 1203 1218 1232 1258 1266 1340 1349 1373 1418 1436 1450 1455 1459 1479 1484 1518 1535 1548 1589 1596 1645 1663 1703 1714 1725 1749 1783 
+modern Astronomical_conjunction.txt 1 71 
+locations Astronomical_conjunction.txt 2 1573 1620 
+13th Astronomical_conjunction.txt 1 1747 
+have Astronomical_conjunction.txt 9 37 259 292 1144 1242 1303 1390 1495 1553 
+seen Astronomical_conjunction.txt 15 115 200 240 673 733 793 820 836 866 1055 1076 1109 1280 1336 1769 
+any Astronomical_conjunction.txt 3 831 1505 1631 
+viewed Astronomical_conjunction.txt 1 18 
+lie Astronomical_conjunction.txt 2 768 1098 
+2017 Astronomical_conjunction.txt 1 1740 
+angle Astronomical_conjunction.txt 1 269 
+1962 Astronomical_conjunction.txt 2 1154 1161 
+majority Astronomical_conjunction.txt 1 372 
+causing Astronomical_conjunction.txt 1 595 
+take Astronomical_conjunction.txt 1 309 
+which Astronomical_conjunction.txt 2 615 815 
+worldwide Astronomical_conjunction.txt 1 1560 
+brazil Astronomical_conjunction.txt 1 1059 
+7-day Astronomical_conjunction.txt 1 1274 
+though Astronomical_conjunction.txt 1 1023 
+object Astronomical_conjunction.txt 6 146 155 472 513 522 561 
+most Astronomical_conjunction.txt 3 317 1138 1384 
+involving Astronomical_conjunction.txt 1 702 
+eight Astronomical_conjunction.txt 1 233 
+pair Astronomical_conjunction.txt 2 832 1789 
+darkness Astronomical_conjunction.txt 1 1503 
+appulse Astronomical_conjunction.txt 1 122 
+later Astronomical_conjunction.txt 1 1599 
+redirected Astronomical_conjunction.txt 1 3 
+normally Astronomical_conjunction.txt 1 308 
+fact Astronomical_conjunction.txt 1 105 
+planetary Astronomical_conjunction.txt 1 1670 
+phenomenon Astronomical_conjunction.txt 3 165 605 662 
+bright Astronomical_conjunction.txt 3 187 196 413 
+uranus Astronomical_conjunction.txt 1 1130 
+earth Astronomical_conjunction.txt 16 52 454 494 591 652 679 823 869 903 1112 1177 1283 1339 1395 1510 1635 
+nearer Astronomical_conjunction.txt 2 512 560 
+categories Astronomical_conjunction.txt 1 1824 
+northern Astronomical_conjunction.txt 2 24 1572 
+occultation Astronomical_conjunction.txt 5 579 584 634 1563 1610 
+only Astronomical_conjunction.txt 5 334 684 1469 1653 1791 
+over Astronomical_conjunction.txt 4 397 1116 1156 1376 
+inferior Astronomical_conjunction.txt 8 730 742 761 781 796 800 817 1208 
+do Astronomical_conjunction.txt 1 306 
+means Astronomical_conjunction.txt 1 255 
+nearly Astronomical_conjunction.txt 1 319 
+saturn Astronomical_conjunction.txt 9 1135 1187 1198 1350 1419 1437 1451 1482 1704 
+nicknamed Astronomical_conjunction.txt 1 1683 
+morning Astronomical_conjunction.txt 5 217 943 1698 1744 1762 
+naked Astronomical_conjunction.txt 1 203 
+18 Astronomical_conjunction.txt 1 1470 
+obscure Astronomical_conjunction.txt 1 571 
+view Astronomical_conjunction.txt 2 498 900 
+observer Astronomical_conjunction.txt 2 656 676 
+observed Astronomical_conjunction.txt 2 50 1174 
+see Astronomical_conjunction.txt 1 1816 
+are Astronomical_conjunction.txt 7 175 362 626 644 805 816 977 
+close Astronomical_conjunction.txt 14 85 109 178 189 207 363 993 1421 1527 1555 1625 1666 1734 1758 
+closer Astronomical_conjunction.txt 3 391 451 1033 
+said Astronomical_conjunction.txt 1 852 
+away Astronomical_conjunction.txt 1 934 
+wikipedia Astronomical_conjunction.txt 1 2 
+smallest Astronomical_conjunction.txt 1 1021 
+various Astronomical_conjunction.txt 1 649 
+between Astronomical_conjunction.txt 7 111 185 590 1016 1191 1215 1476 
+neither Astronomical_conjunction.txt 1 620 
+before Astronomical_conjunction.txt 3 226 945 1036 
+approach Astronomical_conjunction.txt 1 110 
+handwritten Astronomical_conjunction.txt 1 63 
+terms Astronomical_conjunction.txt 1 799 
+august Astronomical_conjunction.txt 3 1277 1296 1711 
+however Astronomical_conjunction.txt 7 277 324 418 631 824 1297 1383 
+quasiconjunction Astronomical_conjunction.txt 3 881 885 1003 
+27 Astronomical_conjunction.txt 1 1712 
+opposition Astronomical_conjunction.txt 2 788 1543 
+article Astronomical_conjunction.txt 1 1811 
+come Astronomical_conjunction.txt 1 1665 
+paranal Astronomical_conjunction.txt 3 21 243 406 
+both Astronomical_conjunction.txt 3 290 978 1600 
+reverse Astronomical_conjunction.txt 1 948 
+s Astronomical_conjunction.txt 1 399 
+retrograde Astronomical_conjunction.txt 2 889 962 
+comet Astronomical_conjunction.txt 1 849 
+passing Astronomical_conjunction.txt 2 206 390 
+disappears Astronomical_conjunction.txt 1 496 
+nearby Astronomical_conjunction.txt 1 1052 
+30th Astronomical_conjunction.txt 1 1661 
+point Astronomical_conjunction.txt 1 898 
+appeared Astronomical_conjunction.txt 5 1096 1420 1554 1624 1757 
+had Astronomical_conjunction.txt 1 1681 
+period Astronomical_conjunction.txt 5 1118 1158 1275 1359 1378 
+simply Astronomical_conjunction.txt 1 851 
+november Astronomical_conjunction.txt 1 1746 
+due Astronomical_conjunction.txt 1 1306 
+been Astronomical_conjunction.txt 6 1145 1243 1304 1391 1496 1682 
+mars Astronomical_conjunction.txt 15 212 1134 1185 1197 1259 1417 1435 1460 1483 1519 1540 1547 1565 1766 1782 
+4 Astronomical_conjunction.txt 1 1440 
+arises Astronomical_conjunction.txt 1 987 
+observable Astronomical_conjunction.txt 1 1305 
+observers Astronomical_conjunction.txt 3 169 689 1568 
+2015 Astronomical_conjunction.txt 3 1083 1658 1693 
+observe Astronomical_conjunction.txt 1 1499 
+external Astronomical_conjunction.txt 1 1821 
+chile Astronomical_conjunction.txt 2 25 244 
+former Astronomical_conjunction.txt 1 922 
+spain Astronomical_conjunction.txt 1 1079 
+applied Astronomical_conjunction.txt 1 829 
+main Astronomical_conjunction.txt 1 1810 
+these Astronomical_conjunction.txt 7 1140 1237 1292 1300 1362 1386 1501 
+single Astronomical_conjunction.txt 1 1506 
+will Astronomical_conjunction.txt 6 380 455 569 904 924 939 
+situation Astronomical_conjunction.txt 1 986 
+passes Astronomical_conjunction.txt 4 489 531 546 589 
+1899 Astronomical_conjunction.txt 3 1084 1089 1121 
+30 Astronomical_conjunction.txt 1 1692 
+almost Astronomical_conjunction.txt 1 912 
+is Astronomical_conjunction.txt 31 58 67 123 162 271 279 329 450 481 501 514 525 538 553 576 585 606 619 632 665 738 744 753 786 850 859 872 967 1004 1020 1026 
+it Astronomical_conjunction.txt 14 73 254 328 347 537 552 568 752 858 911 918 936 966 1492 
+surface Astronomical_conjunction.txt 1 694 
+commonly Astronomical_conjunction.txt 1 607 
+triple Astronomical_conjunction.txt 1 326 
+in Astronomical_conjunction.txt 73 23 26 59 70 78 140 147 182 215 247 274 284 298 303 316 335 352 356 369 393 433 444 457 462 532 547 614 754 769 779 787 807 855 860 873 883 888 907 941 951 991 1013 1086 1127 1162 1195 1230 1245 1251 1276 1315 1318 1326 1332 1357 1365 1368 1423 1427 1480 1502 1557 1569 1627 1668 1707 1717 1736 1752 1760 1786 1795 1804 
+disappear Astronomical_conjunction.txt 1 599 
+if Astronomical_conjunction.txt 6 351 419 470 486 506 740 
+same Astronomical_conjunction.txt 10 40 45 261 267 294 313 322 425 438 774 
+paulo Astronomical_conjunction.txt 1 1058 
+contents Astronomical_conjunction.txt 1 205 
+several Astronomical_conjunction.txt 4 641 997 1323 1597 
+events Astronomical_conjunction.txt 2 643 1167 
+used Astronomical_conjunction.txt 3 69 77 806 
+closest Astronomical_conjunction.txt 1 1800 
+dusk Astronomical_conjunction.txt 2 956 1075 
+upon Astronomical_conjunction.txt 1 365 
+companion Astronomical_conjunction.txt 1 574 
+shortly Astronomical_conjunction.txt 1 1035 
+indonesia Astronomical_conjunction.txt 1 1231 
+ocean Astronomical_conjunction.txt 1 1235 
+greatest Astronomical_conjunction.txt 1 699 
+position Astronomical_conjunction.txt 1 653 
+the Astronomical_conjunction.txt 162 15 20 39 44 53 64 87 93 99 112 117 124 129 141 148 168 171 191 202 216 236 248 260 266 281 293 312 321 343 359 366 370 378 388 394 407 424 428 437 447 453 460 475 479 487 491 507 511 520 523 535 550 559 565 587 593 596 616 621 624 639 655 678 688 692 696 703 713 715 746 750 758 765 773 777 783 790 795 798 810 822 838 842 863 868 870 876 897 902 921 942 947 952 980 1002 1009 1011 1017 1051 1090 1093 1106 1111 1117 1122 1131 1149 1152 1157 1176 1192 1199 1211 1213 1216 1219 1233 1246 1249 1252 1270 1282 1284 1308 1311 1327 1330 1333 1338 1355 1358 1394 1398 1401 1409 1412 1424 1477 1509 1516 1529 1532 1537 1545 1549 1558 1606 1614 1621 1628 1634 1639 1679 1684 1697 1729 1737 1743 1761 1776 1788 1796 
+bodies Astronomical_conjunction.txt 3 422 672 1293 
+left Astronomical_conjunction.txt 1 1046 
+just Astronomical_conjunction.txt 1 964 
+being Astronomical_conjunction.txt 1 698 
+when Astronomical_conjunction.txt 14 31 80 222 529 544 558 586 764 857 984 1024 1236 1464 1539 
+proximity Astronomical_conjunction.txt 1 995 
+not Astronomical_conjunction.txt 7 68 176 307 349 1143 1389 1494 
+distant Astronomical_conjunction.txt 1 154 
+farther Astronomical_conjunction.txt 3 521 566 840 
+unicode Astronomical_conjunction.txt 1 60 
+also Astronomical_conjunction.txt 4 280 1206 1286 1817 
+sky Astronomical_conjunction.txt 13 118 130 396 944 954 1253 1334 1426 1559 1629 1739 1763 1797 
+location Astronomical_conjunction.txt 3 690 1507 1632 
+apart Astronomical_conjunction.txt 3 1657 1678 1794 
+transit Astronomical_conjunction.txt 3 528 540 555 
+nasa Astronomical_conjunction.txt 1 1403 
+australia Astronomical_conjunction.txt 1 1774 
+possible Astronomical_conjunction.txt 2 330 1497 
+early Astronomical_conjunction.txt 3 1087 1428 1777 
+five Astronomical_conjunction.txt 2 228 1238 
+shadow Astronomical_conjunction.txt 2 476 492 
+occurring Astronomical_conjunction.txt 3 1007 1438 1566 
+separately Astronomical_conjunction.txt 3 1260 1268 1602 
+either Astronomical_conjunction.txt 4 38 137 600 892 
+night Astronomical_conjunction.txt 1 395 
+right Astronomical_conjunction.txt 11 41 262 275 299 336 353 434 908 1014 1073 1805 
+glare Astronomical_conjunction.txt 3 1150 1309 1399 
+often Astronomical_conjunction.txt 1 973 
+madrid Astronomical_conjunction.txt 1 1078 
+some Astronomical_conjunction.txt 2 1570 1619 
+back Astronomical_conjunction.txt 1 906 
+pacific Astronomical_conjunction.txt 1 1234 
+jupiter Astronomical_conjunction.txt 16 214 417 1048 1067 1069 1129 1182 1204 1347 1590 1646 1664 1726 1750 1767 1784 
+for Astronomical_conjunction.txt 7 56 484 700 712 809 996 1567 
+bottom Astronomical_conjunction.txt 1 1049 
+0.25 Astronomical_conjunction.txt 1 1792 
+companions Astronomical_conjunction.txt 1 414 
+moon Astronomical_conjunction.txt 26 16 94 237 408 488 588 625 640 704 714 871 880 1054 1064 1068 1123 1193 1217 1223 1285 1478 1517 1534 1551 1608 1615 
+does Astronomical_conjunction.txt 1 348 
+lunar Astronomical_conjunction.txt 1 504 
+eso Astronomical_conjunction.txt 1 398 
+cerro Astronomical_conjunction.txt 1 242 
+be Astronomical_conjunction.txt 5 76 199 239 828 854 
+morphett Astronomical_conjunction.txt 1 1771 
+june Astronomical_conjunction.txt 3 1082 1660 1691 
+notable Astronomical_conjunction.txt 1 1040 
+although Astronomical_conjunction.txt 1 1491 
+from Astronomical_conjunction.txt 26 4 19 51 241 497 648 734 794 821 837 841 867 896 935 1056 1077 1110 1175 1281 1337 1393 1400 1504 1618 1630 1770 
+occultations Astronomical_conjunction.txt 1 613 
+by Astronomical_conjunction.txt 9 167 638 674 722 1179 1184 1445 1613 1720 
+on Astronomical_conjunction.txt 24 116 128 651 677 687 691 745 772 1060 1080 1294 1439 1452 1461 1488 1508 1522 1579 1592 1633 1696 1710 1742 1775 
+about Astronomical_conjunction.txt 2 223 968 
+rare Astronomical_conjunction.txt 3 628 1164 1321 
+of Astronomical_conjunction.txt 66 9 131 211 218 229 251 345 373 377 387 430 459 477 493 510 519 534 541 549 556 582 635 654 663 706 717 749 776 833 899 901 979 1044 1139 1148 1151 1166 1248 1291 1299 1310 1329 1343 1379 1385 1397 1411 1434 1448 1457 1474 1515 1531 1564 1587 1611 1641 1651 1686 1690 1699 1723 1745 1779 1802 1813 
+slightly Astronomical_conjunction.txt 1 686 
+or Astronomical_conjunction.txt 15 35 43 98 144 338 355 385 436 602 846 848 894 959 999 1037 
+into Astronomical_conjunction.txt 3 474 490 1028 
+within Astronomical_conjunction.txt 2 1099 1272 
+three Astronomical_conjunction.txt 3 1363 1622 1730 
+because Astronomical_conjunction.txt 3 705 1147 1396 
+references Astronomical_conjunction.txt 1 1819 
+bethlehem Astronomical_conjunction.txt 1 1687 
+1987 Astronomical_conjunction.txt 2 1254 1278 
+there Astronomical_conjunction.txt 1 278 
+forward Astronomical_conjunction.txt 1 927 
+was Astronomical_conjunction.txt 5 1443 1468 1541 1616 1790 
+considerably Astronomical_conjunction.txt 1 515 
+north Astronomical_conjunction.txt 1 384 
+differences Astronomical_conjunction.txt 1 697 
+but Astronomical_conjunction.txt 3 315 710 919 
+solar Astronomical_conjunction.txt 5 142 149 231 611 1227 
+line Astronomical_conjunction.txt 1 771 
+with Astronomical_conjunction.txt 19 201 411 695 757 862 875 957 1050 1126 1210 1263 1269 1289 1354 1370 1374 1431 1561 1605 
+partially Astronomical_conjunction.txt 1 603 
+places Astronomical_conjunction.txt 1 650 
+planet Astronomical_conjunction.txt 12 97 103 637 736 743 785 797 845 887 915 923 972 
+similar Astronomical_conjunction.txt 1 1575 
+called Astronomical_conjunction.txt 4 272 502 526 577 
+distance Astronomical_conjunction.txt 1 1012 
+celestial Astronomical_conjunction.txt 2 367 421 
+an Astronomical_conjunction.txt 15 107 163 224 482 578 580 583 633 666 675 741 760 780 1562 1609 
+as Astronomical_conjunction.txt 21 17 49 90 114 157 194 609 660 732 792 819 835 865 965 1006 1108 1113 1173 1279 1335 1408 
+at Astronomical_conjunction.txt 16 287 311 320 325 342 405 427 441 878 1008 1074 1221 1536 1542 1638 1798 
+planets Astronomical_conjunction.txt 19 92 197 234 253 361 379 767 811 818 834 981 1019 1095 1240 1324 1364 1601 1731 1803 
+shines Astronomical_conjunction.txt 1 409 
+moves Astronomical_conjunction.txt 1 473 
+happen Astronomical_conjunction.txt 1 950 
+again Astronomical_conjunction.txt 1 937 
+46 Astronomical_conjunction.txt 1 1159 
+generally Astronomical_conjunction.txt 1 246 
+other Astronomical_conjunction.txt 4 389 461 1265 1372 
+5 Astronomical_conjunction.txt 1 1407 
+details Astronomical_conjunction.txt 1 682 
+10 Astronomical_conjunction.txt 1 1462 
+draw Astronomical_conjunction.txt 1 933 
+star Astronomical_conjunction.txt 2 159 1685 
+symbol Astronomical_conjunction.txt 2 55 66 
+2005 Astronomical_conjunction.txt 1 1807 
+naked-eye Astronomical_conjunction.txt 2 1094 1239 
+meaning Astronomical_conjunction.txt 2 1727 1754 
+astronomy Astronomical_conjunction.txt 4 1 27 72 1815 
+implies Astronomical_conjunction.txt 1 106 
+longer Astronomical_conjunction.txt 1 1001 
+came Astronomical_conjunction.txt 2 1673 1705 
+together Astronomical_conjunction.txt 9 364 1034 1422 1556 1626 1667 1706 1735 1759 
+2002 Astronomical_conjunction.txt 2 1414 1430 
+2000 Astronomical_conjunction.txt 2 1313 1317 
+declination Astronomical_conjunction.txt 2 426 1025 
+2007 Astronomical_conjunction.txt 2 1511 1525 
+time Astronomical_conjunction.txt 8 314 323 344 429 716 1010 1530 1538 
+2008 Astronomical_conjunction.txt 3 1063 1583 1595 

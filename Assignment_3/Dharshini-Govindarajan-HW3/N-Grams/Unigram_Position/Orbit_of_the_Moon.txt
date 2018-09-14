@@ -1,0 +1,815 @@
+all Orbit_of_the_Moon.txt 1 2631 
+measurements Orbit_of_the_Moon.txt 1 1551 
+issued Orbit_of_the_Moon.txt 1 1707 
+global Orbit_of_the_Moon.txt 1 2053 
+earthmoon Orbit_of_the_Moon.txt 9 1860 1905 2171 2280 2297 2885 3094 3151 3238 
+month Orbit_of_the_Moon.txt 20 27 41 768 1311 1331 1415 1442 1783 1785 1798 1824 1872 1893 1918 1943 1954 1961 1980 2555 3185 
+four Orbit_of_the_Moon.txt 1 2156 
+known Orbit_of_the_Moon.txt 2 1563 2612 
+quadrature Orbit_of_the_Moon.txt 1 369 
+looped Orbit_of_the_Moon.txt 1 3250 
+disk Orbit_of_the_Moon.txt 2 1246 1278 
+causes Orbit_of_the_Moon.txt 2 246 2295 
+looking Orbit_of_the_Moon.txt 1 3226 
+transferred Orbit_of_the_Moon.txt 1 2274 
+to Orbit_of_the_Moon.txt 76 18 32 76 90 139 165 272 285 318 333 366 391 515 529 548 563 566 573 583 595 608 623 642 661 731 818 945 1080 1121 1140 1231 1341 1381 1394 1434 1448 1529 1564 1647 1663 1685 1718 1752 1804 1813 1832 1879 1925 1984 2062 2126 2207 2275 2299 2422 2522 2534 2551 2553 2579 2669 2693 2696 2738 2749 2762 2776 2783 2833 2840 2864 2891 2947 2963 3002 3068 
+finally Orbit_of_the_Moon.txt 1 2796 
+347 Orbit_of_the_Moon.txt 1 884 
+elliptic Orbit_of_the_Moon.txt 1 222 
+civilization Orbit_of_the_Moon.txt 1 1562 
+syzygy Orbit_of_the_Moon.txt 1 344 
+nodes Orbit_of_the_Moon.txt 7 734 741 772 812 836 854 1203 
+worth Orbit_of_the_Moon.txt 2 2846 2869 
+earthand Orbit_of_the_Moon.txt 1 2529 
+consequently Orbit_of_the_Moon.txt 2 3171 3216 
+outside Orbit_of_the_Moon.txt 2 3177 3237 
+far Orbit_of_the_Moon.txt 3 2705 2733 2794 
+frequencies Orbit_of_the_Moon.txt 2 2428 2431 
+rise Orbit_of_the_Moon.txt 2 1317 2832 
+removing Orbit_of_the_Moon.txt 1 2581 
+mph Orbit_of_the_Moon.txt 1 104 
+geometrical Orbit_of_the_Moon.txt 1 1689 
+fingers Orbit_of_the_Moon.txt 1 2969 
+crosses Orbit_of_the_Moon.txt 4 749 754 1052 1214 
+every Orbit_of_the_Moon.txt 9 379 465 758 842 1091 1252 1284 1414 2330 
+difference Orbit_of_the_Moon.txt 1 947 
+categories Orbit_of_the_Moon.txt 2 3275 3277 
+entire Orbit_of_the_Moon.txt 1 3230 
+173.3 Orbit_of_the_Moon.txt 1 843 
+sunrises Orbit_of_the_Moon.txt 1 1007 
+solid Orbit_of_the_Moon.txt 1 2066 
+inscribed Orbit_of_the_Moon.txt 1 1589 
+revolution Orbit_of_the_Moon.txt 4 16 30 464 824 
+force Orbit_of_the_Moon.txt 1 1915 
+mi Orbit_of_the_Moon.txt 3 60 84 3111 
+consistent Orbit_of_the_Moon.txt 1 1568 
+direct Orbit_of_the_Moon.txt 1 484 
+270 Orbit_of_the_Moon.txt 1 361 
+zero Orbit_of_the_Moon.txt 4 312 588 1198 1201 
+perspective Orbit_of_the_Moon.txt 2 3053 3248 
+0.56 Orbit_of_the_Moon.txt 1 2379 
+goes Orbit_of_the_Moon.txt 1 3046 
+even Orbit_of_the_Moon.txt 2 718 1416 
+lesser Orbit_of_the_Moon.txt 1 2046 
+sun Orbit_of_the_Moon.txt 29 34 303 348 827 840 863 913 971 1000 1038 1057 1065 1213 1347 1419 1454 1517 1621 1868 1887 2043 2880 2890 2928 2982 3015 3076 3170 3262 
+section Orbit_of_the_Moon.txt 2 190 2882 
+axes Orbit_of_the_Moon.txt 4 434 2505 2939 2992 
+near Orbit_of_the_Moon.txt 5 587 603 1032 1040 2423 
+uniform Orbit_of_the_Moon.txt 1 2056 
+current Orbit_of_the_Moon.txt 2 2342 2413 
+axial Orbit_of_the_Moon.txt 3 501 2021 2314 
+poles Orbit_of_the_Moon.txt 3 957 1438 2860 
+above Orbit_of_the_Moon.txt 5 1002 1249 1281 1401 1484 
+new Orbit_of_the_Moon.txt 3 308 859 2003 
+falling Orbit_of_the_Moon.txt 1 607 
+movement Orbit_of_the_Moon.txt 2 270 3161 
+full Orbit_of_the_Moon.txt 5 323 857 1467 1630 2008 
+degree Orbit_of_the_Moon.txt 1 117 
+respectively Orbit_of_the_Moon.txt 1 460 
+never Orbit_of_the_Moon.txt 1 3080 
+here Orbit_of_the_Moon.txt 1 993 
+hundreds Orbit_of_the_Moon.txt 1 2357 
+behaviour Orbit_of_the_Moon.txt 1 1344 
+objects Orbit_of_the_Moon.txt 1 1728 
+separation Orbit_of_the_Moon.txt 1 1906 
+others Orbit_of_the_Moon.txt 1 2151 
+i.e Orbit_of_the_Moon.txt 2 432 2910 
+along Orbit_of_the_Moon.txt 2 792 2216 
+iraq Orbit_of_the_Moon.txt 1 1587 
+change Orbit_of_the_Moon.txt 2 438 2559 
+notably Orbit_of_the_Moon.txt 1 1840 
+great Orbit_of_the_Moon.txt 1 3235 
+38 Orbit_of_the_Moon.txt 1 2303 
+ahead Orbit_of_the_Moon.txt 1 2168 
+study Orbit_of_the_Moon.txt 2 203 1677 
+30 Orbit_of_the_Moon.txt 1 3077 
+allows Orbit_of_the_Moon.txt 3 2691 2781 2838 
+34 Orbit_of_the_Moon.txt 1 1374 
+amount Orbit_of_the_Moon.txt 2 2071 2191 
+4,600 Orbit_of_the_Moon.txt 1 57 
+warnings Orbit_of_the_Moon.txt 1 1705 
+draconic Orbit_of_the_Moon.txt 4 765 891 910 1917 
+makes Orbit_of_the_Moon.txt 1 461 
+millimetres Orbit_of_the_Moon.txt 1 2304 
+diameter Orbit_of_the_Moon.txt 3 112 446 2829 
+lengthen Orbit_of_the_Moon.txt 1 2552 
+happens Orbit_of_the_Moon.txt 1 3081 
+visible Orbit_of_the_Moon.txt 2 1369 1986 
+cassini Orbit_of_the_Moon.txt 1 678 
+clockwise Orbit_of_the_Moon.txt 1 814 
+use Orbit_of_the_Moon.txt 1 1658 
+from Orbit_of_the_Moon.txt 29 61 85 127 262 492 537 807 1138 1254 1287 1432 1575 1922 1951 1992 2234 2349 2446 2566 2767 2807 2905 2911 3008 3022 3050 3118 3233 3245 
+takes Orbit_of_the_Moon.txt 3 987 1803 1829 
+would Orbit_of_the_Moon.txt 8 552 618 628 2060 2457 2471 2501 2861 
+0 Orbit_of_the_Moon.txt 1 2001 
+distinct Orbit_of_the_Moon.txt 1 491 
+lengthened Orbit_of_the_Moon.txt 1 2391 
+two Orbit_of_the_Moon.txt 3 777 1412 1931 
+properties Orbit_of_the_Moon.txt 2 180 183 
+almost Orbit_of_the_Moon.txt 2 1411 2785 
+therefore Orbit_of_the_Moon.txt 1 705 
+centre Orbit_of_the_Moon.txt 12 997 1062 1242 1274 2285 2809 3101 3120 3125 3165 3173 3196 
+associated Orbit_of_the_Moon.txt 1 1791 
+theoretical Orbit_of_the_Moon.txt 1 521 
+minor Orbit_of_the_Moon.txt 3 943 1164 1173 
+more Orbit_of_the_Moon.txt 3 631 2438 3207 
+mm Orbit_of_the_Moon.txt 1 2371 
+diurnal Orbit_of_the_Moon.txt 2 2835 3145 
+comparison Orbit_of_the_Moon.txt 1 212 
+72.6 Orbit_of_the_Moon.txt 1 3113 
+inclined Orbit_of_the_Moon.txt 4 161 388 660 2748 
+apparent Orbit_of_the_Moon.txt 3 216 254 2606 
+rhythmites Orbit_of_the_Moon.txt 1 2348 
+visual Orbit_of_the_Moon.txt 1 1836 
+backwards Orbit_of_the_Moon.txt 1 3047 
+5.14 Orbit_of_the_Moon.txt 1 390 
+varying Orbit_of_the_Moon.txt 1 2109 
+eccentricity Orbit_of_the_Moon.txt 2 236 2648 
+90 Orbit_of_the_Moon.txt 3 359 1259 1292 
+cases Orbit_of_the_Moon.txt 1 339 
+aligned Orbit_of_the_Moon.txt 1 354 
+must Orbit_of_the_Moon.txt 1 1525 
+rotational Orbit_of_the_Moon.txt 6 634 682 721 2269 2672 2756 
+animals Orbit_of_the_Moon.txt 1 1531 
+hour Orbit_of_the_Moon.txt 1 123 
+latitude Orbit_of_the_Moon.txt 2 2788 2873 
+this Orbit_of_the_Moon.txt 33 150 189 412 557 612 669 873 887 903 909 1124 1131 1160 1338 1657 1838 1971 2112 2158 2291 2322 2456 2518 2633 2690 2723 2735 2773 2830 3029 3079 3124 3163 
+originally Orbit_of_the_Moon.txt 1 580 
+eclipse Orbit_of_the_Moon.txt 3 894 1024 1710 
+longitude Orbit_of_the_Moon.txt 4 1938 2700 2728 2849 
+values Orbit_of_the_Moon.txt 1 2414 
+can Orbit_of_the_Moon.txt 3 832 1366 2944 
+averages Orbit_of_the_Moon.txt 1 1845 
+example Orbit_of_the_Moon.txt 1 1020 
+history Orbit_of_the_Moon.txt 3 211 1547 1680 
+nearest Orbit_of_the_Moon.txt 1 452 
+references Orbit_of_the_Moon.txt 1 3270 
+moonrise Orbit_of_the_Moon.txt 2 1433 1435 
+synchronized Orbit_of_the_Moon.txt 1 2125 
+give Orbit_of_the_Moon.txt 1 3031 
+predict Orbit_of_the_Moon.txt 1 1700 
+0.5 Orbit_of_the_Moon.txt 1 2007 
+high Orbit_of_the_Moon.txt 3 2083 2146 2417 
+sphere Orbit_of_the_Moon.txt 1 121 
+minimum Orbit_of_the_Moon.txt 2 1157 1238 
+pulling Orbit_of_the_Moon.txt 1 2210 
+ascension Orbit_of_the_Moon.txt 1 1197 
+prograde Orbit_of_the_Moon.txt 1 11 
+present-day Orbit_of_the_Moon.txt 1 1586 
+conversely Orbit_of_the_Moon.txt 2 1142 2707 
+occur Orbit_of_the_Moon.txt 2 833 1010 
+axis Orbit_of_the_Moon.txt 5 443 635 683 722 2757 
+5.1 Orbit_of_the_Moon.txt 2 164 2754 
+respective Orbit_of_the_Moon.txt 1 778 
+winter Orbit_of_the_Moon.txt 1 1461 
+tilt Orbit_of_the_Moon.txt 2 1113 2022 
+means Orbit_of_the_Moon.txt 3 874 994 2311 
+differences Orbit_of_the_Moon.txt 1 1613 
+regions Orbit_of_the_Moon.txt 1 1538 
+varies Orbit_of_the_Moon.txt 4 1839 2135 2246 2658 
+pair Orbit_of_the_Moon.txt 1 2281 
+elliptical Orbit_of_the_Moon.txt 1 232 
+instead Orbit_of_the_Moon.txt 3 143 958 1355 
+if Orbit_of_the_Moon.txt 3 611 2049 2955 
+oceans Orbit_of_the_Moon.txt 1 2578 
+description Orbit_of_the_Moon.txt 1 2440 
+sir Orbit_of_the_Moon.txt 1 1746 
+may Orbit_of_the_Moon.txt 2 1670 2419 
+earlier Orbit_of_the_Moon.txt 3 539 558 1221 
+orbits Orbit_of_the_Moon.txt 7 7 2661 2921 2926 2977 2980 3037 
+produce Orbit_of_the_Moon.txt 1 567 
+such Orbit_of_the_Moon.txt 2 2152 3040 
+data Orbit_of_the_Moon.txt 3 1645 1669 1695 
+times Orbit_of_the_Moon.txt 3 1595 1711 2632 
+a Orbit_of_the_Moon.txt 48 25 39 96 108 116 209 543 568 664 781 796 1104 1163 1172 1215 1303 1323 1350 1361 1428 1440 1567 1738 1754 1874 1881 1959 1962 1965 1974 2045 2052 2069 2177 2189 2212 2262 2437 2449 2474 2554 2646 2650 2834 3041 3097 3234 3264 
+natural Orbit_of_the_Moon.txt 1 2426 
+light Orbit_of_the_Moon.txt 1 1507 
+elongation Orbit_of_the_Moon.txt 4 291 295 326 356 
+greek Orbit_of_the_Moon.txt 1 1713 
+so Orbit_of_the_Moon.txt 1 646 
+south Orbit_of_the_Moon.txt 6 931 1077 1263 1296 1408 1503 
+microseconds Orbit_of_the_Moon.txt 2 2329 2398 
+lined Orbit_of_the_Moon.txt 1 1185 
+longest Orbit_of_the_Moon.txt 1 445 
+six Orbit_of_the_Moon.txt 1 1425 
+interpretation Orbit_of_the_Moon.txt 1 1692 
+deform Orbit_of_the_Moon.txt 1 2063 
+radiation Orbit_of_the_Moon.txt 1 2573 
+over Orbit_of_the_Moon.txt 3 410 1582 2356 
+move Orbit_of_the_Moon.txt 1 813 
+vary Orbit_of_the_Moon.txt 1 1137 
+cross Orbit_of_the_Moon.txt 1 852 
+already Orbit_of_the_Moon.txt 1 2520 
+through Orbit_of_the_Moon.txt 2 597 2602 
+during Orbit_of_the_Moon.txt 3 1869 2769 3182 
+differs Orbit_of_the_Moon.txt 1 126 
+its Orbit_of_the_Moon.txt 32 111 135 147 297 451 497 643 656 693 823 1033 1156 1237 1269 1472 1864 2132 2323 2603 2679 2681 2686 2702 2712 2714 2719 2730 2968 3100 3144 3154 3191 
+before Orbit_of_the_Moon.txt 2 1708 2556 
+astronomers Orbit_of_the_Moon.txt 1 1714 
+near-side Orbit_of_the_Moon.txt 1 2259 
+20 Orbit_of_the_Moon.txt 2 1219 2402 
+thumb Orbit_of_the_Moon.txt 1 2957 
+fit Orbit_of_the_Moon.txt 1 901 
+23 Orbit_of_the_Moon.txt 1 2328 
+actually Orbit_of_the_Moon.txt 1 1367 
+attraction Orbit_of_the_Moon.txt 3 2027 2194 2245 
+degrees Orbit_of_the_Moon.txt 4 2698 2726 2845 2868 
+systems Orbit_of_the_Moon.txt 1 2886 
+2015 Orbit_of_the_Moon.txt 1 1177 
+2014 Orbit_of_the_Moon.txt 1 1998 
+weeks Orbit_of_the_Moon.txt 1 1413 
+main Orbit_of_the_Moon.txt 5 736 1087 1637 1772 2592 
+apogee Orbit_of_the_Moon.txt 3 221 459 2713 
+happened Orbit_of_the_Moon.txt 2 615 2521 
+babylonians Orbit_of_the_Moon.txt 2 1557 1683 
+introduce Orbit_of_the_Moon.txt 1 1719 
+9 Orbit_of_the_Moon.txt 1 1027 
+bulges Orbit_of_the_Moon.txt 1 2165 
+effects Orbit_of_the_Moon.txt 1 2558 
+they Orbit_of_the_Moon.txt 1 1697 
+half Orbit_of_the_Moon.txt 4 115 907 928 2410 
+not Orbit_of_the_Moon.txt 12 404 614 640 651 727 1316 1336 1699 1973 2116 2544 2666 
+rotation Orbit_of_the_Moon.txt 14 423 2107 2181 2222 2277 2294 2315 2542 2550 2620 2635 2682 2715 3146 
+now Orbit_of_the_Moon.txt 2 619 2567 
+day Orbit_of_the_Moon.txt 10 284 289 953 1253 1285 1309 1329 2149 2324 2390 
+shadows Orbit_of_the_Moon.txt 1 851 
+term Orbit_of_the_Moon.txt 1 2024 
+edit Orbit_of_the_Moon.txt 16 181 224 292 371 507 735 1086 1546 1552 1779 2014 2591 2881 3269 3271 3274 
+always Orbit_of_the_Moon.txt 5 716 2510 2527 2667 3221 
+classified Orbit_of_the_Moon.txt 1 1672 
+concave Orbit_of_the_Moon.txt 1 3244 
+right-hand Orbit_of_the_Moon.txt 1 2942 
+each Orbit_of_the_Moon.txt 9 122 990 1222 1310 1330 1870 2186 2512 3183 
+found Orbit_of_the_Moon.txt 1 1581 
+beneath Orbit_of_the_Moon.txt 1 2086 
+quarter Orbit_of_the_Moon.txt 2 2006 2011 
+side Orbit_of_the_Moon.txt 8 2093 2203 2232 2517 2526 2706 2734 2795 
+mean Orbit_of_the_Moon.txt 3 97 268 509 
+square Orbit_of_the_Moon.txt 1 2250 
+tilted Orbit_of_the_Moon.txt 1 175 
+stronger Orbit_of_the_Moon.txt 1 2256 
+related Orbit_of_the_Moon.txt 1 1983 
+slowdown Orbit_of_the_Moon.txt 1 2539 
+extended Orbit_of_the_Moon.txt 1 1652 
+year Orbit_of_the_Moon.txt 14 804 878 892 895 911 991 1211 1223 1843 1966 2306 2331 2375 2400 
+loops Orbit_of_the_Moon.txt 1 3086 
+happen Orbit_of_the_Moon.txt 1 2117 
+beyond Orbit_of_the_Moon.txt 1 2789 
+sunrise Orbit_of_the_Moon.txt 1 984 
+out Orbit_of_the_Moon.txt 1 699 
+space Orbit_of_the_Moon.txt 1 407 
+increase Orbit_of_the_Moon.txt 2 2300 2569 
+7 Orbit_of_the_Moon.txt 1 2786 
+millions Orbit_of_the_Moon.txt 1 2359 
+cause Orbit_of_the_Moon.txt 1 2036 
+twice Orbit_of_the_Moon.txt 1 3209 
+representations Orbit_of_the_Moon.txt 1 2994 
+theory Orbit_of_the_Moon.txt 3 207 1756 1776 
+passes Orbit_of_the_Moon.txt 1 1933 
+million Orbit_of_the_Moon.txt 3 2351 2386 2406 
+sheer Orbit_of_the_Moon.txt 1 1761 
+quite Orbit_of_the_Moon.txt 1 1446 
+ecliptic Orbit_of_the_Moon.txt 14 141 167 393 517 531 575 625 710 751 794 1054 1123 1937 2751 
+reason Orbit_of_the_Moon.txt 1 2853 
+2836 Orbit_of_the_Moon.txt 5 1107 1139 1141 1272 1293 
+rises Orbit_of_the_Moon.txt 1 1073 
+cycles Orbit_of_the_Moon.txt 1 2601 
+rearward Orbit_of_the_Moon.txt 1 3085 
+caused Orbit_of_the_Moon.txt 1 2576 
+could Orbit_of_the_Moon.txt 3 591 1698 3030 
+7140 Orbit_of_the_Moon.txt 1 1258 
+days Orbit_of_the_Moon.txt 20 24 38 471 760 844 885 962 969 977 989 1220 1354 1358 1445 1821 1848 1903 1970 2491 2494 
+27.2122 Orbit_of_the_Moon.txt 1 759 
+motion Orbit_of_the_Moon.txt 9 485 783 1642 1726 1735 1758 1769 2688 2721 
+length Orbit_of_the_Moon.txt 1 1957 
+plane Orbit_of_the_Moon.txt 13 142 155 159 168 173 431 499 518 532 645 654 695 2752 
+enough Orbit_of_the_Moon.txt 1 2547 
+hence Orbit_of_the_Moon.txt 2 1873 2664 
+wobbling Orbit_of_the_Moon.txt 1 2607 
+receding Orbit_of_the_Moon.txt 1 2445 
+frequent Orbit_of_the_Moon.txt 1 632 
+1000 Orbit_of_the_Moon.txt 1 1554 
+major Orbit_of_the_Moon.txt 2 442 1127 
+620 Orbit_of_the_Moon.txt 1 2350 
+moonthe Orbit_of_the_Moon.txt 1 2524 
+primary Orbit_of_the_Moon.txt 1 148 
+reaches Orbit_of_the_Moon.txt 4 1058 1103 1155 2711 
+one Orbit_of_the_Moon.txt 13 15 29 462 1308 1328 1806 2145 2770 2782 2827 2839 2844 2866 
+least Orbit_of_the_Moon.txt 2 1307 1327 
+6.688 Orbit_of_the_Moon.txt 1 668 
+slower Orbit_of_the_Moon.txt 1 2684 
+antarctic Orbit_of_the_Moon.txt 1 1537 
+173 Orbit_of_the_Moon.txt 1 976 
+angular Orbit_of_the_Moon.txt 7 251 269 298 2267 2309 2653 2953 
+size Orbit_of_the_Moon.txt 2 217 255 
+earths Orbit_of_the_Moon.txt 24 62 86 153 394 549 819 1101 1111 1153 1233 1396 2104 2180 2221 2266 2313 2541 2577 2750 2808 2858 3116 3172 3212 
+given Orbit_of_the_Moon.txt 1 1216 
+ancient Orbit_of_the_Moon.txt 1 1712 
+likely Orbit_of_the_Moon.txt 1 1709 
+barycentre Orbit_of_the_Moon.txt 3 49 279 2290 
+system Orbit_of_the_Moon.txt 5 1861 2998 3095 3152 3232 
+approximately Orbit_of_the_Moon.txt 4 110 2302 2327 2562 
+solstice Orbit_of_the_Moon.txt 1 1462 
+their Orbit_of_the_Moon.txt 7 48 1694 2283 2412 2504 2937 2990 
+180 Orbit_of_the_Moon.txt 2 328 698 
+perturbations Orbit_of_the_Moon.txt 2 201 397 
+observations Orbit_of_the_Moon.txt 4 1549 1572 1662 1765 
+passed Orbit_of_the_Moon.txt 1 1607 
+hundred Orbit_of_the_Moon.txt 2 2385 2405 
+gives Orbit_of_the_Moon.txt 1 2831 
+testbed Orbit_of_the_Moon.txt 1 1773 
+calculations Orbit_of_the_Moon.txt 1 2453 
+that Orbit_of_the_Moon.txt 25 134 145 345 524 579 875 995 1059 1179 1360 1532 1576 1604 1651 2028 2312 2355 2455 2465 2622 2974 3034 3043 3210 3251 
+latitudes Orbit_of_the_Moon.txt 3 1255 1288 1299 
+required Orbit_of_the_Moon.txt 1 1878 
+veers Orbit_of_the_Moon.txt 1 3174 
+western Orbit_of_the_Moon.txt 1 2731 
+somewhat Orbit_of_the_Moon.txt 1 2160 
+0.25first Orbit_of_the_Moon.txt 1 2005 
+occurring Orbit_of_the_Moon.txt 1 2545 
+completes Orbit_of_the_Moon.txt 2 14 3143 
+27.322 Orbit_of_the_Moon.txt 1 23 
+center Orbit_of_the_Moon.txt 3 51 63 87 
+10 Orbit_of_the_Moon.txt 2 562 596 
+12 Orbit_of_the_Moon.txt 1 2397 
+15 Orbit_of_the_Moon.txt 1 967 
+19 Orbit_of_the_Moon.txt 1 1209 
+18 Orbit_of_the_Moon.txt 1 988 
+require Orbit_of_the_Moon.txt 1 553 
+rate Orbit_of_the_Moon.txt 4 691 2368 2395 2418 
+recording Orbit_of_the_Moon.txt 1 1593 
+future Orbit_of_the_Moon.txt 2 1656 1701 
+were Orbit_of_the_Moon.txt 3 1558 1706 1715 
+toward Orbit_of_the_Moon.txt 1 2628 
+18.6 Orbit_of_the_Moon.txt 1 1092 
+and Orbit_of_the_Moon.txt 74 13 28 43 253 260 313 329 350 420 453 458 500 626 711 822 829 858 865 924 951 963 985 1008 1036 1072 1083 1100 1115 1152 1199 1407 1491 1524 1536 1550 1596 1600 1610 1616 1622 1643 1696 1720 1744 1784 1888 1899 1994 2020 2072 2089 2108 2319 2388 2429 2452 2468 2495 2499 2588 2663 2689 2722 2765 2877 2924 2930 2933 2983 2986 3016 3138 3176 3241 
+1.5 Orbit_of_the_Moon.txt 1 178 
+29.530 Orbit_of_the_Moon.txt 1 37 
+julian Orbit_of_the_Moon.txt 1 288 
+westward Orbit_of_the_Moon.txt 1 791 
+tide Orbit_of_the_Moon.txt 3 1913 2017 2147 
+suns Orbit_of_the_Moon.txt 3 2572 3052 3200 
+have Orbit_of_the_Moon.txt 7 592 1526 1565 1579 1686 2155 2575 
+seen Orbit_of_the_Moon.txt 1 3224 
+seem Orbit_of_the_Moon.txt 1 1684 
+ocean Orbit_of_the_Moon.txt 4 2054 2074 2110 2427 
+any Orbit_of_the_Moon.txt 2 305 1688 
+contents Orbit_of_the_Moon.txt 1 179 
+continents Orbit_of_the_Moon.txt 3 2103 2175 2346 
+acceleration Orbit_of_the_Moon.txt 3 2019 2435 2589 
+lie Orbit_of_the_Moon.txt 1 620 
+nights Orbit_of_the_Moon.txt 1 964 
+angle Orbit_of_the_Moon.txt 3 707 1095 1147 
+latter Orbit_of_the_Moon.txt 1 1945 
+able Orbit_of_the_Moon.txt 1 2863 
+gravity Orbit_of_the_Moon.txt 4 3103 3127 3167 3198 
+note Orbit_of_the_Moon.txt 1 1359 
+also Orbit_of_the_Moon.txt 9 416 848 1321 1781 2016 2433 2531 2747 3268 
+animation Orbit_of_the_Moon.txt 1 2595 
+build Orbit_of_the_Moon.txt 1 1648 
+which Orbit_of_the_Moon.txt 8 54 88 205 745 1578 2482 2780 2837 
+non-circular Orbit_of_the_Moon.txt 1 240 
+coincide Orbit_of_the_Moon.txt 1 855 
+2016 Orbit_of_the_Moon.txt 1 1028 
+towards Orbit_of_the_Moon.txt 2 259 2764 
+though Orbit_of_the_Moon.txt 4 719 1417 1977 2157 
+keeps Orbit_of_the_Moon.txt 1 2624 
+reach Orbit_of_the_Moon.txt 1 1833 
+evaporate Orbit_of_the_Moon.txt 1 2580 
+depths Orbit_of_the_Moon.txt 1 2111 
+most Orbit_of_the_Moon.txt 2 128 922 
+eight Orbit_of_the_Moon.txt 2 2697 2725 
+successive Orbit_of_the_Moon.txt 1 1932 
+phase Orbit_of_the_Moon.txt 3 701 1837 1988 
+seasons Orbit_of_the_Moon.txt 2 897 941 
+polaris Orbit_of_the_Moon.txt 1 2918 
+model Orbit_of_the_Moon.txt 2 1545 1741 
+equatorial Orbit_of_the_Moon.txt 3 154 172 1112 
+average Orbit_of_the_Moon.txt 6 73 235 1956 2367 2394 2640 
+later Orbit_of_the_Moon.txt 1 1145 
+flow Orbit_of_the_Moon.txt 1 2121 
+km Orbit_of_the_Moon.txt 4 58 82 2377 3109 
+face Orbit_of_the_Moon.txt 1 2627 
+perigees Orbit_of_the_Moon.txt 1 1898 
+points Orbit_of_the_Moon.txt 4 455 743 2084 2962 
+sunset Orbit_of_the_Moon.txt 1 986 
+velocity Orbit_of_the_Moon.txt 6 99 2654 2673 2954 3057 3071 
+left Orbit_of_the_Moon.txt 1 2732 
+sum Orbit_of_the_Moon.txt 1 1109 
+joining Orbit_of_the_Moon.txt 1 450 
+impression Orbit_of_the_Moon.txt 1 3033 
+show Orbit_of_the_Moon.txt 2 523 2354 
+definite Orbit_of_the_Moon.txt 1 2647 
+synchronous Orbit_of_the_Moon.txt 2 2619 2634 
+friction Orbit_of_the_Moon.txt 1 2587 
+longitudinal Orbit_of_the_Moon.txt 1 2740 
+discovered Orbit_of_the_Moon.txt 2 675 1634 
+radii Orbit_of_the_Moon.txt 2 94 2805 
+obliquity Orbit_of_the_Moon.txt 1 672 
+visualisation Orbit_of_the_Moon.txt 1 2114 
+earth Orbit_of_the_Moon.txt 50 8 42 71 93 197 266 351 467 610 788 816 864 968 1810 1885 1993 2033 2050 2067 2095 2131 2141 2205 2447 2467 2487 2500 2536 2629 2662 2768 2804 2828 2876 2897 2922 2925 2934 2978 2979 2987 3007 3028 3038 3062 3073 3106 3123 3137 3142 
+indicate Orbit_of_the_Moon.txt 1 2948 
+faces Orbit_of_the_Moon.txt 1 2528 
+sunsets Orbit_of_the_Moon.txt 1 1009 
+based Orbit_of_the_Moon.txt 1 1666 
+ellipsoid Orbit_of_the_Moon.txt 1 2080 
+true Orbit_of_the_Moon.txt 1 2638 
+less Orbit_of_the_Moon.txt 2 1256 1289 
+earth-moon Orbit_of_the_Moon.txt 2 278 2382 
+2,290 Orbit_of_the_Moon.txt 1 103 
+than Orbit_of_the_Moon.txt 6 1257 1290 1854 2685 2718 3208 
+sunearthmoon Orbit_of_the_Moon.txt 1 3231 
+only Orbit_of_the_Moon.txt 7 177 883 1286 2144 2339 2637 2801 
+achieve Orbit_of_the_Moon.txt 1 1880 
+first Orbit_of_the_Moon.txt 4 1560 1675 1717 1751 
+his Orbit_of_the_Moon.txt 1 1775 
+perigee Orbit_of_the_Moon.txt 3 220 457 2680 
+sagittarius Orbit_of_the_Moon.txt 1 1496 
+5.145 Orbit_of_the_Moon.txt 1 520 
+distance Orbit_of_the_Moon.txt 8 75 109 299 1991 2252 2298 2383 3236 
+moons Orbit_of_the_Moon.txt 30 157 171 194 215 250 294 375 385 426 441 487 747 1098 1117 1134 1150 1229 1245 1277 1390 1506 1641 1990 2128 2218 2643 2671 3089 3218 3258 
+apsidal Orbit_of_the_Moon.txt 3 372 418 488 
+evection Orbit_of_the_Moon.txt 1 1745 
+simplistic Orbit_of_the_Moon.txt 1 2113 
+nearly Orbit_of_the_Moon.txt 1 353 
+distinctly Orbit_of_the_Moon.txt 1 231 
+timing Orbit_of_the_Moon.txt 1 2134 
+determines Orbit_of_the_Moon.txt 2 849 1907 
+conjunction Orbit_of_the_Moon.txt 1 321 
+evolution Orbit_of_the_Moon.txt 2 536 2013 
+precession Orbit_of_the_Moon.txt 7 370 373 414 419 489 495 502 
+6124 Orbit_of_the_Moon.txt 1 1291 
+latitudinal Orbit_of_the_Moon.txt 1 2778 
+1820 Orbit_of_the_Moon.txt 3 1159 1240 1260 
+irregularities Orbit_of_the_Moon.txt 1 200 
+4,624 Orbit_of_the_Moon.txt 1 3108 
+common Orbit_of_the_Moon.txt 3 50 3001 3195 
+tablets Orbit_of_the_Moon.txt 1 1574 
+fixed Orbit_of_the_Moon.txt 3 405 728 1815 
+where Orbit_of_the_Moon.txt 1 1046 
+approximations Orbit_of_the_Moon.txt 1 192 
+anomalistic Orbit_of_the_Moon.txt 1 1892 
+view Orbit_of_the_Moon.txt 3 2841 3012 3026 
+reveals Orbit_of_the_Moon.txt 1 2724 
+set Orbit_of_the_Moon.txt 2 1337 3266 
+equinox Orbit_of_the_Moon.txt 1 1189 
+farthest Orbit_of_the_Moon.txt 1 454 
+observer Orbit_of_the_Moon.txt 4 264 275 786 2813 
+observes Orbit_of_the_Moon.txt 1 2818 
+maximum Orbit_of_the_Moon.txt 2 1105 1270 
+relative Orbit_of_the_Moon.txt 6 17 31 271 528 547 2133 
+see Orbit_of_the_Moon.txt 8 702 1780 2015 2432 2694 2784 2865 3267 
+arc Orbit_of_the_Moon.txt 1 1375 
+radius Orbit_of_the_Moon.txt 2 69 3117 
+are Orbit_of_the_Moon.txt 10 191 352 742 1204 1588 1787 1948 2166 2337 3083 
+sea Orbit_of_the_Moon.txt 1 2041 
+2.3 Orbit_of_the_Moon.txt 1 2563 
+close Orbit_of_the_Moon.txt 3 138 1447 1608 
+calendar Orbit_of_the_Moon.txt 2 1960 1979 
+seems Orbit_of_the_Moon.txt 1 2761 
+closer Orbit_of_the_Moon.txt 1 622 
+inversely Orbit_of_the_Moon.txt 1 2247 
+phases Orbit_of_the_Moon.txt 3 1996 2000 2604 
+said Orbit_of_the_Moon.txt 3 317 332 365 
+away Orbit_of_the_Moon.txt 3 261 2766 2806 
+currently Orbit_of_the_Moon.txt 1 2492 
+wikipedia Orbit_of_the_Moon.txt 1 4 
+3 Orbit_of_the_Moon.txt 1 65 
+between Orbit_of_the_Moon.txt 10 708 775 948 1096 1148 1614 1897 1930 2425 3132 
+geometric Orbit_of_the_Moon.txt 1 1740 
+365 Orbit_of_the_Moon.txt 1 1357 
+27.55 Orbit_of_the_Moon.txt 1 1902 
+however Orbit_of_the_Moon.txt 3 1681 2096 2537 
+observers Orbit_of_the_Moon.txt 1 2854 
+27 Orbit_of_the_Moon.txt 1 2493 
+opposition Orbit_of_the_Moon.txt 1 336 
+article Orbit_of_the_Moon.txt 3 737 1088 2593 
+configuration Orbit_of_the_Moon.txt 1 2343 
+valid Orbit_of_the_Moon.txt 1 2338 
+both Orbit_of_the_Moon.txt 7 338 1619 2064 2335 2408 2496 2856 
+climate Orbit_of_the_Moon.txt 1 1541 
+last Orbit_of_the_Moon.txt 1 1168 
+22 Orbit_of_the_Moon.txt 1 2370 
+many Orbit_of_the_Moon.txt 1 199 
+2,900 Orbit_of_the_Moon.txt 1 59 
+1722 Orbit_of_the_Moon.txt 1 680 
+385,000 Orbit_of_the_Moon.txt 1 81 
+figures Orbit_of_the_Moon.txt 1 2336 
+centres Orbit_of_the_Moon.txt 1 3134 
+retrograde Orbit_of_the_Moon.txt 1 782 
+passing Orbit_of_the_Moon.txt 1 602 
+7001131760000000000 Orbit_of_the_Moon.txt 1 281 
+experimental Orbit_of_the_Moon.txt 1 1668 
+considering Orbit_of_the_Moon.txt 1 3092 
+mechanics Orbit_of_the_Moon.txt 1 1759 
+point Orbit_of_the_Moon.txt 7 1042 1060 1191 1362 1474 3010 3024 
+sky Orbit_of_the_Moon.txt 3 1045 1194 1731 
+way Orbit_of_the_Moon.txt 1 3042 
+corresponds Orbit_of_the_Moon.txt 1 89 
+60 Orbit_of_the_Moon.txt 2 92 2803 
+pole Orbit_of_the_Moon.txt 8 1071 1078 1409 1490 1504 2791 2909 2967 
+path Orbit_of_the_Moon.txt 5 2874 2894 2899 3148 3181 
+respect Orbit_of_the_Moon.txt 3 730 1393 1812 
+writing Orbit_of_the_Moon.txt 1 1592 
+2200 Orbit_of_the_Moon.txt 1 2376 
+described Orbit_of_the_Moon.txt 2 187 1733 
+west Orbit_of_the_Moon.txt 1 1206 
+three Orbit_of_the_Moon.txt 3 869 1636 1946 
+been Orbit_of_the_Moon.txt 3 593 1527 1580 
+receded Orbit_of_the_Moon.txt 1 2364 
+tropical Orbit_of_the_Moon.txt 3 877 1441 1942 
+much Orbit_of_the_Moon.txt 3 621 630 2105 
+slowly Orbit_of_the_Moon.txt 2 475 2532 
+509 Orbit_of_the_Moon.txt 1 1120 
+territory Orbit_of_the_Moon.txt 1 1584 
+lengthens Orbit_of_the_Moon.txt 1 2325 
+direction Orbit_of_the_Moon.txt 7 12 439 479 2213 2914 2950 2973 
+lived Orbit_of_the_Moon.txt 1 1533 
+0.75last Orbit_of_the_Moon.txt 1 2010 
+eastern Orbit_of_the_Moon.txt 1 2703 
+dates Orbit_of_the_Moon.txt 1 1597 
+bulk Orbit_of_the_Moon.txt 1 2583 
+isaac Orbit_of_the_Moon.txt 1 1747 
+slowing Orbit_of_the_Moon.txt 1 2318 
+systematic Orbit_of_the_Moon.txt 1 1661 
+30.4 Orbit_of_the_Moon.txt 1 1969 
+spin Orbit_of_the_Moon.txt 1 821 
+hidden Orbit_of_the_Moon.txt 1 3276 
+present Orbit_of_the_Moon.txt 3 526 569 2416 
+case Orbit_of_the_Moon.txt 1 151 
+east Orbit_of_the_Moon.txt 2 287 300 
+atmospheric Orbit_of_the_Moon.txt 1 1382 
+external Orbit_of_the_Moon.txt 1 3272 
+these Orbit_of_the_Moon.txt 1 940 
+align Orbit_of_the_Moon.txt 2 837 867 
+value Orbit_of_the_Moon.txt 1 666 
+will Orbit_of_the_Moon.txt 12 972 980 1136 1247 1279 1301 1320 1465 1482 1498 2485 2574 
+while Orbit_of_the_Moon.txt 1 606 
+sunward Orbit_of_the_Moon.txt 1 3227 
+situation Orbit_of_the_Moon.txt 1 2561 
+eclipses Orbit_of_the_Moon.txt 5 627 831 850 1015 1703 
+moonsets Orbit_of_the_Moon.txt 1 1601 
+region Orbit_of_the_Moon.txt 1 3254 
+periods Orbit_of_the_Moon.txt 4 1638 1778 1790 1947 
+orientation Orbit_of_the_Moon.txt 2 399 2172 
+equator Orbit_of_the_Moon.txt 14 550 565 585 649 714 919 935 1048 1082 1102 1154 1234 1397 2816 
+is Orbit_of_the_Moon.txt 92 79 137 160 174 230 280 296 311 316 327 331 342 346 357 364 387 403 415 421 490 519 577 639 650 659 670 697 715 726 882 888 914 930 942 1001 1125 1161 1235 1267 1339 1372 1400 1420 1439 1455 1470 1478 1494 1508 1518 1799 1818 1825 1852 1877 1894 1900 1919 1939 1967 1972 1981 2034 2123 2143 2159 2255 2271 2316 2443 2530 2543 2611 2617 2636 2665 2677 2683 2716 2736 2746 2774 2800 3000 3065 3104 3157 3206 3220 3242 3252 3263 
+it Orbit_of_the_Moon.txt 24 257 310 330 473 551 576 590 662 789 929 979 1371 1469 1481 1493 1497 1802 1817 1828 2600 2623 2660 2999 3045 
+equal Orbit_of_the_Moon.txt 1 2668 
+itself Orbit_of_the_Moon.txt 2 483 505 
+in Orbit_of_the_Moon.txt 46 9 21 35 133 149 188 248 320 335 337 343 368 406 476 652 679 868 871 1043 1175 1192 1479 1495 1512 1534 1678 1729 1863 1997 2039 2075 2137 2211 2373 2473 2481 2488 2506 2618 2872 2971 2993 3039 3087 3153 3190 
+synodic Orbit_of_the_Moon.txt 4 40 1823 1850 3184 
+increased Orbit_of_the_Moon.txt 1 594 
+orbital Orbit_of_the_Moon.txt 16 98 158 382 413 430 498 644 694 1118 2687 2720 2893 2898 3056 3070 3180 
+binary Orbit_of_the_Moon.txt 1 3098 
+different Orbit_of_the_Moon.txt 2 1789 1950 
+develop Orbit_of_the_Moon.txt 1 1753 
+suggest Orbit_of_the_Moon.txt 1 2454 
+make Orbit_of_the_Moon.txt 2 1664 1805 
+locking Orbit_of_the_Moon.txt 1 2480 
+239,000 Orbit_of_the_Moon.txt 1 83 
+same Orbit_of_the_Moon.txt 11 478 690 756 1835 1936 2508 2516 2525 2626 2852 3247 
+viewed Orbit_of_the_Moon.txt 3 806 2904 3049 
+geographical Orbit_of_the_Moon.txt 1 2859 
+draconitic Orbit_of_the_Moon.txt 1 767 
+several Orbit_of_the_Moon.txt 1 1788 
+twelfth Orbit_of_the_Moon.txt 1 1963 
+higher Orbit_of_the_Moon.txt 2 1298 2450 
+fairly Orbit_of_the_Moon.txt 1 544 
+used Orbit_of_the_Moon.txt 3 1509 1644 2946 
+closest Orbit_of_the_Moon.txt 1 2206 
+eccentric Orbit_of_the_Moon.txt 1 2183 
+arctic Orbit_of_the_Moon.txt 2 1514 1535 
+refraction Orbit_of_the_Moon.txt 1 1383 
+effect Orbit_of_the_Moon.txt 5 872 938 2240 2254 3202 
+0.87 Orbit_of_the_Moon.txt 1 2372 
+8.85 Orbit_of_the_Moon.txt 2 380 466 
+strength Orbit_of_the_Moon.txt 1 1909 
+moving Orbit_of_the_Moon.txt 1 1205 
+arose Orbit_of_the_Moon.txt 1 533 
+resonance Orbit_of_the_Moon.txt 2 2424 2477 
+kept Orbit_of_the_Moon.txt 1 1566 
+sidereal Orbit_of_the_Moon.txt 6 26 1450 1797 1856 1871 1953 
+well Orbit_of_the_Moon.txt 1 1653 
+roughly Orbit_of_the_Moon.txt 2 841 2085 
+analysis Orbit_of_the_Moon.txt 1 1646 
+obviously Orbit_of_the_Moon.txt 1 936 
+thought Orbit_of_the_Moon.txt 1 578 
+1 Orbit_of_the_Moon.txt 2 2002 3063 
+precesses Orbit_of_the_Moon.txt 1 687 
+km/s Orbit_of_the_Moon.txt 3 102 3064 3078 
+sets Orbit_of_the_Moon.txt 1 1066 
+the Orbit_of_the_Moon.txt 379 2 5 10 19 33 44 68 74 77 105 119 124 140 152 156 166 170 182 185 193 202 214 225 228 239 243 249 267 277 286 293 302 314 325 340 347 362 374 384 392 398 401 422 425 429 433 436 440 444 448 456 477 481 486 493 508 512 516 525 530 564 574 581 584 598 604 609 616 624 633 637 647 653 671 681 685 689 706 709 712 720 724 732 740 746 750 752 755 764 769 773 776 793 808 811 826 835 839 862 876 880 890 896 899 912 917 926 933 937 946 955 970 996 999 1003 1012 1022 1029 1037 1041 1044 1047 1050 1053 1056 1061 1064 1068 1075 1081 1094 1097 1108 1116 1122 1133 1146 1149 1167 1181 1188 1190 1193 1202 1212 1225 1228 1232 1241 1244 1250 1265 1273 1276 1282 1313 1333 1342 1346 1364 1378 1386 1389 1395 1398 1402 1405 1418 1422 1430 1437 1449 1453 1456 1459 1463 1476 1485 1488 1502 1505 1513 1516 1520 1530 1540 1556 1559 1583 1594 1602 1605 1611 1620 1623 1626 1629 1635 1640 1655 1674 1682 1716 1725 1730 1750 1760 1767 1771 1793 1796 1800 1814 1822 1826 1830 1834 1842 1849 1855 1859 1867 1886 1889 1891 1895 1904 1908 1911 1916 1920 1928 1935 1941 1944 1952 1955 1978 1985 1989 2025 2029 2035 2040 2042 2058 2065 2073 2076 2082 2087 2091 2099 2102 2119 2127 2162 2170 2174 2182 2196 2199 2202 2208 2217 2225 2228 2231 2235 2238 2243 2249 2253 2258 2276 2279 2289 2296 2341 2345 2362 2381 2389 2415 2441 2469 2483 2497 2507 2515 2523 2535 2538 2549 2560 2568 2571 2582 2585 2597 2605 2609 2615 2625 2642 2652 2656 2670 2675 2709 2743 2755 2759 2790 2793 2798 2815 2819 2822 2851 2884 2889 2896 2901 2906 2912 2916 2919 2927 2931 2941 2949 2952 2956 2959 2964 2972 2975 2981 2984 2996 3004 3009 3014 3017 3020 3023 3032 3035 3051 3055 3059 3069 3075 3088 3093 3115 3119 3122 3130 3133 3136 3141 3147 3150 3160 3169 3178 3187 3194 3199 3204 3214 3217 3229 3246 3253 3257 3261 
+usual Orbit_of_the_Moon.txt 1 960 
+seasonal Orbit_of_the_Moon.txt 1 1343 
+planetesimals Orbit_of_the_Moon.txt 1 601 
+being Orbit_of_the_Moon.txt 1 2273 
+generally Orbit_of_the_Moon.txt 1 2124 
+newton Orbit_of_the_Moon.txt 1 1748 
+satellites Orbit_of_the_Moon.txt 1 129 
+shape Orbit_of_the_Moon.txt 2 223 2077 
+notional Orbit_of_the_Moon.txt 1 2163 
+human Orbit_of_the_Moon.txt 2 1561 1679 
+spinorbit Orbit_of_the_Moon.txt 1 2476 
+years Orbit_of_the_Moon.txt 11 381 468 800 1093 1144 2352 2361 2387 2407 2463 2565 
+rotates Orbit_of_the_Moon.txt 4 377 409 474 790 
+speed Orbit_of_the_Moon.txt 1 252 
+alignment Orbit_of_the_Moon.txt 1 1883 
+1.543 Orbit_of_the_Moon.txt 2 717 923 
+2327 Orbit_of_the_Moon.txt 1 1114 
+laterally Orbit_of_the_Moon.txt 1 2825 
+2,873 Orbit_of_the_Moon.txt 1 3110 
+had Orbit_of_the_Moon.txt 2 613 2051 
+sometimes Orbit_of_the_Moon.txt 1 3044 
+setting Orbit_of_the_Moon.txt 1 1617 
+4 Orbit_of_the_Moon.txt 1 66 
+has Orbit_of_the_Moon.txt 8 198 208 780 2044 2223 2237 2519 2645 
+momentum Orbit_of_the_Moon.txt 2 2270 2310 
+enclosed Orbit_of_the_Moon.txt 1 3255 
+13.176 Orbit_of_the_Moon.txt 1 282 
+cuneiform Orbit_of_the_Moon.txt 1 1591 
+march Orbit_of_the_Moon.txt 1 1026 
+around Orbit_of_the_Moon.txt 17 196 815 825 1011 1130 1625 1809 1846 1866 2130 2282 2503 2879 2888 3061 3168 3193 
+zooplankton Orbit_of_the_Moon.txt 1 1511 
+rebound Orbit_of_the_Moon.txt 1 2334 
+calendars Orbit_of_the_Moon.txt 1 1650 
+period Orbit_of_the_Moon.txt 13 797 904 1304 1324 1351 1431 1451 1577 1851 1857 1876 1976 2122 
+descending Orbit_of_the_Moon.txt 2 1034 1182 
+using Orbit_of_the_Moon.txt 1 1737 
+intersection Orbit_of_the_Moon.txt 1 774 
+ascending Orbit_of_the_Moon.txt 2 1923 1926 
+babylonian Orbit_of_the_Moon.txt 1 1632 
+rotate Orbit_of_the_Moon.txt 4 2502 2763 2935 2988 
+standstill Orbit_of_the_Moon.txt 6 1085 1090 1129 1166 1170 1174 
+helpful Orbit_of_the_Moon.txt 1 1528 
+excluding Orbit_of_the_Moon.txt 1 2332 
+epicycles Orbit_of_the_Moon.txt 1 1743 
+50 Orbit_of_the_Moon.txt 1 2461 
+facing Orbit_of_the_Moon.txt 1 2511 
+bulge Orbit_of_the_Moon.txt 5 2187 2200 2226 2229 2260 
+continue Orbit_of_the_Moon.txt 1 2458 
+either Orbit_of_the_Moon.txt 1 358 
+night Orbit_of_the_Moon.txt 2 950 2823 
+mathematical Orbit_of_the_Moon.txt 1 1722 
+right Orbit_of_the_Moon.txt 3 1196 2704 2960 
+humanitys Orbit_of_the_Moon.txt 1 1764 
+some Orbit_of_the_Moon.txt 2 2138 2264 
+3,232.6054 Orbit_of_the_Moon.txt 1 470 
+warmer Orbit_of_the_Moon.txt 1 1543 
+convex Orbit_of_the_Moon.txt 2 3222 3265 
+small Orbit_of_the_Moon.txt 3 2070 2190 3066 
+0.0549 Orbit_of_the_Moon.txt 1 238 
+29.53 Orbit_of_the_Moon.txt 1 1847 
+scale Orbit_of_the_Moon.txt 2 1544 2892 
+dimensions Orbit_of_the_Moon.txt 1 870 
+for Orbit_of_the_Moon.txt 14 784 905 925 975 1019 1410 1424 1522 2257 2340 2436 2459 2548 2850 
+opposite Orbit_of_the_Moon.txt 3 817 2092 2239 
+inside Orbit_of_the_Moon.txt 1 3175 
+per Orbit_of_the_Moon.txt 9 283 803 1210 2148 2305 2374 2384 2399 2404 
+moon Orbit_of_the_Moon.txt 75 3 6 45 78 106 125 229 309 315 324 341 349 363 482 504 605 617 638 686 725 753 860 866 881 900 1030 1051 1314 1334 1365 1399 1464 1477 1606 1624 1631 1831 1890 1995 1999 2004 2009 2030 2059 2088 2197 2209 2236 2363 2442 2470 2484 2498 2598 2610 2616 2657 2676 2710 2760 2799 2820 2878 2902 2920 2932 2976 2985 3021 3036 3060 3139 3188 3205 3215 
+does Orbit_of_the_Moon.txt 3 1315 1335 2115 
+lunar Orbit_of_the_Moon.txt 38 206 219 244 395 513 648 713 738 828 845 918 934 949 952 956 961 1005 1018 1069 1076 1084 1089 1128 1165 1169 1571 1649 1702 1734 1768 1777 1782 1794 1912 1975 1987 2744 2848 
+glacial Orbit_of_the_Moon.txt 1 2333 
+inclination Orbit_of_the_Moon.txt 14 383 506 510 527 546 555 570 582 847 1079 1119 1226 1266 1387 
+be Orbit_of_the_Moon.txt 19 319 334 367 629 973 981 1248 1280 1302 1322 1368 1466 1483 1499 1671 2420 2472 2862 2945 
+1.022 Orbit_of_the_Moon.txt 1 101 
+who Orbit_of_the_Moon.txt 1 2817 
+scientific Orbit_of_the_Moon.txt 1 1676 
+bc Orbit_of_the_Moon.txt 1 1555 
+clay Orbit_of_the_Moon.txt 1 1573 
+perpendicular Orbit_of_the_Moon.txt 1 641 
+anticlockwise Orbit_of_the_Moon.txt 3 2923 2929 2940 
+27.3 Orbit_of_the_Moon.txt 1 1444 
+27.2 Orbit_of_the_Moon.txt 1 1353 
+nowhere Orbit_of_the_Moon.txt 1 3243 
+although Orbit_of_the_Moon.txt 2 1704 2118 
+tidal Orbit_of_the_Moon.txt 11 535 2012 2018 2047 2120 2164 2347 2430 2434 2479 2586 
+imaginary Orbit_of_the_Moon.txt 1 274 
+by Orbit_of_the_Moon.txt 17 162 176 389 534 663 676 1207 1510 1609 1736 2068 2173 2326 2464 2753 2826 3256 
+wealth Orbit_of_the_Moon.txt 1 1762 
+on Orbit_of_the_Moon.txt 21 72 118 265 787 879 898 1363 1667 2032 2090 2140 2195 2201 2230 2639 2792 2936 2989 3129 3203 3213 
+about Orbit_of_the_Moon.txt 26 22 36 47 56 64 80 91 114 163 561 906 966 1208 1218 1373 1443 1553 1819 1901 1968 2409 2460 2489 2802 3074 3107 
+rare Orbit_of_the_Moon.txt 1 2161 
+carried Orbit_of_the_Moon.txt 2 2167 2224 
+of Orbit_of_the_Moon.txt 147 1 52 67 70 100 130 144 146 184 204 213 227 237 242 301 400 424 435 447 496 503 511 556 560 571 600 636 655 667 684 700 723 771 798 908 916 932 939 959 965 998 1014 1025 1049 1063 1106 1110 1158 1227 1239 1243 1271 1275 1305 1325 1345 1352 1356 1385 1388 1548 1570 1585 1598 1618 1628 1639 1659 1693 1724 1727 1742 1757 1763 1766 1774 1884 1910 1934 1958 1964 2037 2055 2078 2094 2098 2101 2169 2179 2185 2192 2204 2251 2265 2278 2286 2308 2321 2344 2358 2360 2369 2396 2411 2540 2570 2584 2596 2608 2655 2699 2701 2727 2729 2758 2787 2810 2847 2857 2870 2875 2883 2895 2900 2915 2951 2958 2995 3006 3011 3013 3019 3025 3027 3058 3072 3102 3114 3121 3126 3135 3149 3162 3166 3197 3211 3260 
+months Orbit_of_the_Moon.txt 2 1426 1523 
+remains Orbit_of_the_Moon.txt 1 3128 
+greatly Orbit_of_the_Moon.txt 1 2136 
+horizon Orbit_of_the_Moon.txt 9 1004 1251 1283 1379 1403 1423 1460 1486 1521 
+act Orbit_of_the_Moon.txt 1 2061 
+lacked Orbit_of_the_Moon.txt 1 1687 
+referred Orbit_of_the_Moon.txt 2 2737 2775 
+slightly Orbit_of_the_Moon.txt 3 1949 2214 2292 
+or Orbit_of_the_Moon.txt 17 113 360 469 766 801 893 1017 1262 1295 1690 2268 2378 2380 2401 2478 3112 3249 
+jacques Orbit_of_the_Moon.txt 1 677 
+considerations Orbit_of_the_Moon.txt 1 522 
+own Orbit_of_the_Moon.txt 3 820 2938 2991 
+18.60 Orbit_of_the_Moon.txt 1 799 
+presence Orbit_of_the_Moon.txt 1 2100 
+into Orbit_of_the_Moon.txt 3 902 1654 2448 
+within Orbit_of_the_Moon.txt 2 428 3105 
+predictions Orbit_of_the_Moon.txt 1 1665 
+due Orbit_of_the_Moon.txt 2 1380 2421 
+down Orbit_of_the_Moon.txt 1 982 
+lies Orbit_of_the_Moon.txt 1 55 
+because Orbit_of_the_Moon.txt 10 1384 1858 2097 2220 2242 2320 2641 2742 2797 3054 
+rising Orbit_of_the_Moon.txt 1 1615 
+happening Orbit_of_the_Moon.txt 1 2533 
+ellipse Orbit_of_the_Moon.txt 1 437 
+fast Orbit_of_the_Moon.txt 1 2546 
+additional Orbit_of_the_Moon.txt 2 2843 2867 
+ptolemy Orbit_of_the_Moon.txt 1 1732 
+nodal Orbit_of_the_Moon.txt 1 494 
+there Orbit_of_the_Moon.txt 5 1300 1319 1786 2142 3082 
+libration Orbit_of_the_Moon.txt 7 2590 2594 2614 2741 2779 2836 2871 
+long Orbit_of_the_Moon.txt 3 210 886 2023 
+conservation Orbit_of_the_Moon.txt 1 2307 
+stars Orbit_of_the_Moon.txt 4 20 733 1603 1816 
+forward Orbit_of_the_Moon.txt 2 2215 2227 
+analyze Orbit_of_the_Moon.txt 1 1721 
+was Orbit_of_the_Moon.txt 9 586 674 1031 1039 1171 1184 1542 1749 1770 
+9.3 Orbit_of_the_Moon.txt 1 1143 
+billion Orbit_of_the_Moon.txt 2 2462 2564 
+north Orbit_of_the_Moon.txt 9 810 915 1070 1261 1294 1406 1489 2907 2965 
+complete Orbit_of_the_Moon.txt 4 463 1755 1807 2771 
+form Orbit_of_the_Moon.txt 1 241 
+southampton Orbit_of_the_Moon.txt 1 2154 
+cassinis Orbit_of_the_Moon.txt 1 703 
+but Orbit_of_the_Moon.txt 9 408 589 658 696 920 1318 1348 1844 2241 
+solar Orbit_of_the_Moon.txt 8 830 1016 1023 2997 3090 3155 3179 3239 
+line Orbit_of_the_Moon.txt 2 770 3131 
+highest Orbit_of_the_Moon.txt 1 1473 
+with Orbit_of_the_Moon.txt 18 95 233 542 688 729 795 838 856 1187 1349 1392 1590 1792 1811 2081 2198 2248 2514 
+raising Orbit_of_the_Moon.txt 1 1914 
+faster Orbit_of_the_Moon.txt 3 2106 2293 2717 
+october Orbit_of_the_Moon.txt 1 1176 
+places Orbit_of_the_Moon.txt 1 2139 
+gravitational Orbit_of_the_Moon.txt 4 2026 2193 2244 3201 
+variations Orbit_of_the_Moon.txt 1 247 
+up Orbit_of_the_Moon.txt 5 974 992 1186 1500 2695 
+us Orbit_of_the_Moon.txt 1 2692 
+historically Orbit_of_the_Moon.txt 1 1982 
+planet Orbit_of_the_Moon.txt 1 3099 
+record Orbit_of_the_Moon.txt 1 1569 
+below Orbit_of_the_Moon.txt 4 1377 1421 1458 1519 
+exerts Orbit_of_the_Moon.txt 2 2031 2188 
+hand Orbit_of_the_Moon.txt 1 2961 
+planes Orbit_of_the_Moon.txt 1 779 
+similar Orbit_of_the_Moon.txt 2 1340 1882 
+called Orbit_of_the_Moon.txt 7 417 763 889 1126 1162 1940 2288 
+detailed Orbit_of_the_Moon.txt 2 1660 2439 
+result Orbit_of_the_Moon.txt 3 2178 2263 2651 
+celestial Orbit_of_the_Moon.txt 4 120 809 2908 2966 
+constant Orbit_of_the_Moon.txt 2 545 665 
+links Orbit_of_the_Moon.txt 1 3273 
+defined Orbit_of_the_Moon.txt 1 3158 
+minutes Orbit_of_the_Moon.txt 2 1376 2403 
+approximate Orbit_of_the_Moon.txt 1 2913 
+influence Orbit_of_the_Moon.txt 2 599 2048 
+covers Orbit_of_the_Moon.txt 1 107 
+an Orbit_of_the_Moon.txt 12 234 263 273 538 554 761 785 2079 2366 2393 2812 2842 
+as Orbit_of_the_Moon.txt 21 256 472 480 673 692 978 1673 2153 2176 2261 2599 2613 2649 2659 2739 2777 3096 3140 3159 3186 3223 
+gemini Orbit_of_the_Moon.txt 1 1480 
+well-defined Orbit_of_the_Moon.txt 1 1739 
+at Orbit_of_the_Moon.txt 31 218 276 304 307 322 744 921 954 1021 1067 1074 1178 1236 1268 1297 1306 1326 1404 1427 1436 1471 1487 1501 2301 2365 2392 2630 2678 2814 2855 3228 
+planets Orbit_of_the_Moon.txt 1 132 
+curl Orbit_of_the_Moon.txt 1 2970 
+moves Orbit_of_the_Moon.txt 4 258 1862 2824 3189 
+physical Orbit_of_the_Moon.txt 1 1691 
+mutual Orbit_of_the_Moon.txt 3 2284 2475 3164 
+compared Orbit_of_the_Moon.txt 2 944 3067 
+no Orbit_of_the_Moon.txt 1 3084 
+47 Orbit_of_the_Moon.txt 1 2490 
+whereas Orbit_of_the_Moon.txt 2 169 2150 
+when Orbit_of_the_Moon.txt 22 355 805 834 853 861 1055 1224 1264 1312 1332 1370 1452 1468 1475 1492 1515 1539 2674 2708 2903 3048 3225 
+depth Orbit_of_the_Moon.txt 1 2057 
+other Orbit_of_the_Moon.txt 4 131 927 2513 2557 
+5 Orbit_of_the_Moon.txt 1 572 
+trajectory Orbit_of_the_Moon.txt 4 2887 3005 3018 3219 
+node Orbit_of_the_Moon.txt 7 739 757 1035 1183 1217 1924 1927 
+polar Orbit_of_the_Moon.txt 2 983 1006 
+draw Orbit_of_the_Moon.txt 1 3003 
+27.32 Orbit_of_the_Moon.txt 1 1820 
+star Orbit_of_the_Moon.txt 1 2917 
+models Orbit_of_the_Moon.txt 1 1723 
+tides Orbit_of_the_Moon.txt 1 2038 
+gradually Orbit_of_the_Moon.txt 3 2272 2317 2444 
+meaning Orbit_of_the_Moon.txt 1 2621 
+throughout Orbit_of_the_Moon.txt 2 1841 2821 
+astronomy Orbit_of_the_Moon.txt 1 1633 
+moonrises Orbit_of_the_Moon.txt 1 1599 
+near-earth Orbit_of_the_Moon.txt 1 540 
+ago Orbit_of_the_Moon.txt 1 2353 
+furthest Orbit_of_the_Moon.txt 2 1457 2233 
+longer Orbit_of_the_Moon.txt 2 1853 1875 
+interval Orbit_of_the_Moon.txt 1 762 
+orbit Orbit_of_the_Moon.txt 38 0 46 136 186 195 226 245 376 386 396 402 427 449 514 541 559 657 748 846 1099 1151 1230 1391 1795 1808 1865 2129 2219 2451 2486 2644 2745 2772 3091 3156 3192 3240 3259 
+rule Orbit_of_the_Moon.txt 1 2943 
+2000 Orbit_of_the_Moon.txt 1 290 
+declination Orbit_of_the_Moon.txt 2 1135 1200 
+mass Orbit_of_the_Moon.txt 4 53 2184 2287 2811 
+time Orbit_of_the_Moon.txt 15 306 411 1013 1132 1180 1429 1612 1627 1801 1827 1896 1921 1929 2466 2509 
+laws Orbit_of_the_Moon.txt 1 704 
+having Orbit_of_the_Moon.txt 1 1195 
+19.3549 Orbit_of_the_Moon.txt 1 802 
+once Orbit_of_the_Moon.txt 1 378 

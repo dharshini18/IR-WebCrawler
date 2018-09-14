@@ -1,0 +1,222 @@
+holds Assyrian_eclipse.txt 1 390 
+consider Assyrian_eclipse.txt 1 111 
+hunger Assyrian_eclipse.txt 1 343 
+depends Assyrian_eclipse.txt 1 199 
+763 Assyrian_eclipse.txt 4 24 99 186 440 
+observed Assyrian_eclipse.txt 1 145 
+ninth Assyrian_eclipse.txt 1 40 
+interpreted Assyrian_eclipse.txt 1 69 
+hidden Assyrian_eclipse.txt 1 468 
+not Assyrian_eclipse.txt 3 149 179 220 
+relation Assyrian_eclipse.txt 1 372 
+mentioned Assyrian_eclipse.txt 1 192 
+par-sagale Assyrian_eclipse.txt 1 13 
+still Assyrian_eclipse.txt 1 310 
+before Assyrian_eclipse.txt 6 126 263 287 318 327 385 
+24 Assyrian_eclipse.txt 1 174 
+but Assyrian_eclipse.txt 1 226 
+candidate Assyrian_eclipse.txt 1 182 
+3527n Assyrian_eclipse.txt 1 461 
+graph Assyrian_eclipse.txt 1 197 
+seems Assyrian_eclipse.txt 1 335 
+coordinates Assyrian_eclipse.txt 1 460 
+better Assyrian_eclipse.txt 1 181 
+to Assyrian_eclipse.txt 5 77 301 336 373 413 
+only Assyrian_eclipse.txt 1 397 
+bur-saggile Assyrian_eclipse.txt 1 10 
+two Assyrian_eclipse.txt 3 285 368 415 
+has Assyrian_eclipse.txt 3 67 104 165 
+astronomical Assyrian_eclipse.txt 1 446 
+match Assyrian_eclipse.txt 1 90 
+assyrian Assyrian_eclipse.txt 4 0 4 33 124 
+43.267 Assyrian_eclipse.txt 1 466 
+mainstream Assyrian_eclipse.txt 1 209 
+lacking Assyrian_eclipse.txt 1 136 
+mid-nineteenth Assyrian_eclipse.txt 1 72 
+possible Assyrian_eclipse.txt 1 190 
+wikipedia Assyrian_eclipse.txt 1 2 
+nearly Assyrian_eclipse.txt 1 93 
+probably Assyrian_eclipse.txt 1 355 
+akallu Assyrian_eclipse.txt 1 61 
+during Assyrian_eclipse.txt 1 290 
+accepted Assyrian_eclipse.txt 1 107 
+exact Assyrian_eclipse.txt 1 121 
+day Assyrian_eclipse.txt 1 382 
+categories Assyrian_eclipse.txt 2 467 469 
+babylonian Assyrian_eclipse.txt 5 156 161 217 277 363 
+entire Assyrian_eclipse.txt 1 394 
+nisan Assyrian_eclipse.txt 1 353 
+edit Assyrian_eclipse.txt 4 158 454 456 459 
+with Assyrian_eclipse.txt 2 338 432 
+identified Assyrian_eclipse.txt 1 430 
+summary Assyrian_eclipse.txt 1 322 
+whether Assyrian_eclipse.txt 1 170 
+true Assyrian_eclipse.txt 1 391 
+second Assyrian_eclipse.txt 1 402 
+did Assyrian_eclipse.txt 1 400 
+539 Assyrian_eclipse.txt 1 245 
+view Assyrian_eclipse.txt 1 210 
+1989 Assyrian_eclipse.txt 1 346 
+equinox Assyrian_eclipse.txt 8 225 266 289 307 320 350 388 420 
+often Assyrian_eclipse.txt 1 261 
+reference Assyrian_eclipse.txt 2 76 118 
+appearance Assyrian_eclipse.txt 1 230 
+some Assyrian_eclipse.txt 2 167 367 
+chronology Assyrian_eclipse.txt 1 125 
+ashur-dan Assyrian_eclipse.txt 1 47 
+decided Assyrian_eclipse.txt 1 85 
+year Assyrian_eclipse.txt 10 41 207 218 240 254 278 316 364 376 412 
+calendar Assyrian_eclipse.txt 3 28 157 162 
+nabopolassar Assyrian_eclipse.txt 1 294 
+babylonia Assyrian_eclipse.txt 1 326 
+proleptic Assyrian_eclipse.txt 1 26 
+for Assyrian_eclipse.txt 3 119 188 392 
+crooked Assyrian_eclipse.txt 1 64 
+sun Assyrian_eclipse.txt 1 60 
+since Assyrian_eclipse.txt 2 70 109 
+crucial Assyrian_eclipse.txt 1 115 
+35.450n Assyrian_eclipse.txt 1 463 
+determined Assyrian_eclipse.txt 1 221 
+correctly Assyrian_eclipse.txt 1 431 
+between Assyrian_eclipse.txt 1 242 
+new Assyrian_eclipse.txt 4 239 253 315 380 
+ever Assyrian_eclipse.txt 1 108 
+shows Assyrian_eclipse.txt 1 247 
+belief Assyrian_eclipse.txt 1 269 
+bc Assyrian_eclipse.txt 8 25 100 130 177 187 246 296 441 
+were Assyrian_eclipse.txt 1 311 
+seventh Assyrian_eclipse.txt 2 128 395 
+however Assyrian_eclipse.txt 1 131 
+historians Assyrian_eclipse.txt 1 110 
+situation Assyrian_eclipse.txt 1 324 
+eponym Assyrian_eclipse.txt 2 34 425 
+from Assyrian_eclipse.txt 1 448 
+obscured Assyrian_eclipse.txt 1 66 
+beginning Assyrian_eclipse.txt 4 214 274 360 409 
+pur-sagale Assyrian_eclipse.txt 1 11 
+on Assyrian_eclipse.txt 4 21 169 200 352 
+dates Assyrian_eclipse.txt 3 122 241 250 
+weeks Assyrian_eclipse.txt 3 286 369 416 
+last Assyrian_eclipse.txt 1 329 
+of Assyrian_eclipse.txt 16 42 45 96 117 123 138 173 215 231 237 251 275 293 331 361 410 
+nineveh Assyrian_eclipse.txt 1 154 
+days Assyrian_eclipse.txt 1 304 
+controversy Assyrian_eclipse.txt 1 168 
+35.450 Assyrian_eclipse.txt 1 465 
+rawlinson Assyrian_eclipse.txt 1 84 
+or Assyrian_eclipse.txt 2 12 153 
+detailed Assyrian_eclipse.txt 1 235 
+assur Assyrian_eclipse.txt 1 152 
+although Assyrian_eclipse.txt 1 308 
+point Assyrian_eclipse.txt 1 116 
+assyria Assyrian_eclipse.txt 1 148 
+period Assyrian_eclipse.txt 1 451 
+aimed-for Assyrian_eclipse.txt 2 273 359 
+luni-solar Assyrian_eclipse.txt 1 206 
+references Assyrian_eclipse.txt 1 455 
+total Assyrian_eclipse.txt 2 94 434 
+600 Assyrian_eclipse.txt 1 399 
+necessarily Assyrian_eclipse.txt 1 150 
+assyrians Assyrian_eclipse.txt 1 203 
+ten Assyrian_eclipse.txt 1 303 
+likely Assyrian_eclipse.txt 2 37 89 
+730 Assyrian_eclipse.txt 1 357 
+observing Assyrian_eclipse.txt 2 223 228 
+there Assyrian_eclipse.txt 3 164 297 309 
+twisted Assyrian_eclipse.txt 1 63 
+been Assyrian_eclipse.txt 4 68 105 144 166 
+by Assyrian_eclipse.txt 3 222 227 444 
+their Assyrian_eclipse.txt 1 205 
+examination Assyrian_eclipse.txt 1 236 
+observations Assyrian_eclipse.txt 1 447 
+statement Assyrian_eclipse.txt 1 340 
+certain Assyrian_eclipse.txt 1 232 
+upwards Assyrian_eclipse.txt 1 370 
+was Assyrian_eclipse.txt 6 15 30 91 219 298 365 
+shifted Assyrian_eclipse.txt 2 255 366 
+that Assyrian_eclipse.txt 8 19 86 212 248 271 347 423 437 
+started Assyrian_eclipse.txt 1 204 
+occurred Assyrian_eclipse.txt 2 20 438 
+reign Assyrian_eclipse.txt 2 44 292 
+solar Assyrian_eclipse.txt 5 17 79 375 427 435 
+external Assyrian_eclipse.txt 1 457 
+1867 Assyrian_eclipse.txt 1 82 
+known Assyrian_eclipse.txt 1 7 
+iii Assyrian_eclipse.txt 1 48 
+than Assyrian_eclipse.txt 1 183 
+king Assyrian_eclipse.txt 1 46 
+15 Assyrian_eclipse.txt 4 22 97 184 354 
+shamash Assyrian_eclipse.txt 1 58 
+this Assyrian_eclipse.txt 4 102 112 198 389 
+eclipse Assyrian_eclipse.txt 10 1 5 14 18 80 95 172 191 428 436 
+reads Assyrian_eclipse.txt 1 54 
+record Assyrian_eclipse.txt 3 113 134 195 
+anywhere Assyrian_eclipse.txt 1 146 
+henry Assyrian_eclipse.txt 1 83 
+about Assyrian_eclipse.txt 3 284 302 414 
+vernal Assyrian_eclipse.txt 4 265 349 387 419 
+providing Assyrian_eclipse.txt 1 120 
+agree Assyrian_eclipse.txt 1 337 
+and Assyrian_eclipse.txt 4 53 101 244 344 
+bent Assyrian_eclipse.txt 1 62 
+figure Assyrian_eclipse.txt 1 421 
+century Assyrian_eclipse.txt 6 73 129 259 282 334 396 
+748 Assyrian_eclipse.txt 1 243 
+julian Assyrian_eclipse.txt 1 27 
+is Assyrian_eclipse.txt 7 51 135 178 211 270 429 442 
+in Assyrian_eclipse.txt 13 32 38 81 147 151 193 256 279 321 325 341 371 439 
+canon Assyrian_eclipse.txt 1 426 
+it Assyrian_eclipse.txt 3 29 141 260 
+constellations Assyrian_eclipse.txt 1 233 
+pushed Assyrian_eclipse.txt 1 406 
+as Assyrian_eclipse.txt 2 8 74 
+mul.apin Assyrian_eclipse.txt 1 342 
+have Assyrian_eclipse.txt 1 143 
+distorted Assyrian_eclipse.txt 1 65 
+phrase Assyrian_eclipse.txt 1 56 
+shift Assyrian_eclipse.txt 2 300 403 
+apparently Assyrian_eclipse.txt 1 163 
+occur Assyrian_eclipse.txt 1 404 
+contents Assyrian_eclipse.txt 1 155 
+around Assyrian_eclipse.txt 2 356 398 
+confirmed Assyrian_eclipse.txt 1 443 
+recorded Assyrian_eclipse.txt 1 31 
+4316e Assyrian_eclipse.txt 1 462 
+began Assyrian_eclipse.txt 2 262 317 
+bur-sagale Assyrian_eclipse.txt 1 9 
+when Assyrian_eclipse.txt 2 201 313 
+links Assyrian_eclipse.txt 1 458 
+same Assyrian_eclipse.txt 1 450 
+also Assyrian_eclipse.txt 3 6 160 453 
+625-605 Assyrian_eclipse.txt 1 295 
+other Assyrian_eclipse.txt 1 445 
+details Assyrian_eclipse.txt 1 137 
+widely Assyrian_eclipse.txt 1 106 
+43.267e Assyrian_eclipse.txt 1 464 
+used Assyrian_eclipse.txt 1 57 
+see Assyrian_eclipse.txt 3 159 196 452 
+may Assyrian_eclipse.txt 1 142 
+after Assyrian_eclipse.txt 2 305 417 
+june Assyrian_eclipse.txt 4 23 98 175 185 
+791 Assyrian_eclipse.txt 1 176 
+most Assyrian_eclipse.txt 2 36 88 
+fell Assyrian_eclipse.txt 3 283 351 383 
+lists Assyrian_eclipse.txt 1 35 
+date Assyrian_eclipse.txt 1 103 
+eighth Assyrian_eclipse.txt 3 258 281 333 
+101 Assyrian_eclipse.txt 1 238 
+a Assyrian_eclipse.txt 8 16 75 78 114 180 234 299 401 
+short Assyrian_eclipse.txt 1 52 
+shortly Assyrian_eclipse.txt 1 384 
+observation Assyrian_eclipse.txt 1 140 
+third Assyrian_eclipse.txt 1 330 
+average Assyrian_eclipse.txt 2 379 408 
+commonly-held Assyrian_eclipse.txt 1 268 
+which Assyrian_eclipse.txt 1 405 
+pingree Assyrian_eclipse.txt 1 345 
+so Assyrian_eclipse.txt 1 377 
+entry Assyrian_eclipse.txt 1 50 
+the Assyrian_eclipse.txt 51 3 39 43 49 55 59 71 87 92 127 132 139 171 189 194 202 208 213 216 224 229 249 252 257 264 267 272 276 280 288 291 306 314 319 323 328 332 339 348 358 362 374 378 386 393 407 411 418 424 433 449 
+years Assyrian_eclipse.txt 2 312 381 
+4b Assyrian_eclipse.txt 1 422 
+original Assyrian_eclipse.txt 1 133 

@@ -1,0 +1,488 @@
+forbidden Forbidden_line.txt 31 0 5 10 12 15 133 154 192 248 252 468 580 585 607 840 863 891 924 1009 1025 1093 1117 1143 1222 1240 1286 1300 1318 1374 1404 1418 
+lack Forbidden_line.txt 1 382 
+ta-180m Forbidden_line.txt 1 511 
+whose Forbidden_line.txt 1 124 
+certainly Forbidden_line.txt 1 239 
+gases Forbidden_line.txt 1 1153 
+to Forbidden_line.txt 25 67 173 194 276 279 340 420 561 564 663 689 766 824 861 872 899 927 982 1074 1077 1209 1289 1304 1362 1392 
+compensate Forbidden_line.txt 1 825 
+th Forbidden_line.txt 1 890 
+under Forbidden_line.txt 2 321 1186 
+magnetic Forbidden_line.txt 1 92 
+372.7 Forbidden_line.txt 1 1342 
+tauc Forbidden_line.txt 1 1135 
+very Forbidden_line.txt 2 935 1387 
+electron Forbidden_line.txt 4 708 786 799 1267 
+categories Forbidden_line.txt 2 1446 1448 
+level Forbidden_line.txt 1 88 
+large Forbidden_line.txt 1 1080 
+solid Forbidden_line.txt 1 1108 
+small Forbidden_line.txt 1 158 
+noted Forbidden_line.txt 2 908 1422 
+upper Forbidden_line.txt 1 1164 
+slower Forbidden_line.txt 1 592 
+occurrence Forbidden_line.txt 1 163 
+super-allowed Forbidden_line.txt 2 749 929 
+approximation Forbidden_line.txt 3 52 74 90 
+rate Forbidden_line.txt 4 106 360 491 593 
+further Forbidden_line.txt 1 1443 
+spectral Forbidden_line.txt 1 19 
+what Forbidden_line.txt 1 317 
+brackets Forbidden_line.txt 1 1426 
+giving Forbidden_line.txt 1 717 
+increasing Forbidden_line.txt 2 850 964 
+degree Forbidden_line.txt 3 471 845 962 
+respectively Forbidden_line.txt 1 906 
+residual Forbidden_line.txt 1 1279 
+here Forbidden_line.txt 1 659 
+atoms Forbidden_line.txt 6 31 1030 1049 1084 1178 1292 
+hours Forbidden_line.txt 1 148 
+along Forbidden_line.txt 1 397 
+change Forbidden_line.txt 9 393 417 478 502 598 768 902 905 1121 
+extreme Forbidden_line.txt 1 1163 
+involved Forbidden_line.txt 1 975 
+larger Forbidden_line.txt 1 479 
+allows Forbidden_line.txt 1 1386 
+commonly Forbidden_line.txt 1 1353 
+amount Forbidden_line.txt 1 406 
+resulting Forbidden_line.txt 1 1246 
+usually Forbidden_line.txt 1 269 
+658.4 Forbidden_line.txt 1 1327 
+placing Forbidden_line.txt 1 1424 
+changes Forbidden_line.txt 6 315 436 459 573 816 876 
+involves Forbidden_line.txt 1 126 
+via Forbidden_line.txt 4 227 234 246 286 
+useful Forbidden_line.txt 1 1038 
+ratios Forbidden_line.txt 1 771 
+654.8 Forbidden_line.txt 1 1325 
+highly Forbidden_line.txt 1 1243 
+visible Forbidden_line.txt 1 1251 
+neutrino Forbidden_line.txt 3 710 788 801 
+total Forbidden_line.txt 2 720 781 
+unit Forbidden_line.txt 9 200 310 410 431 464 475 526 601 821 
+plot Forbidden_line.txt 1 1136 
+permitted Forbidden_line.txt 3 214 229 287 
+from Forbidden_line.txt 5 4 521 678 1058 1092 
+proceed Forbidden_line.txt 3 588 634 677 
+would Forbidden_line.txt 1 620 
+0 Forbidden_line.txt 3 856 915 916 
+remains Forbidden_line.txt 1 737 
+21-cm Forbidden_line.txt 1 1375 
+lasing Forbidden_line.txt 1 1043 
+two Forbidden_line.txt 1 871 
+next Forbidden_line.txt 1 779 
+few Forbidden_line.txt 2 953 1177 
+therefore Forbidden_line.txt 2 132 221 
+type Forbidden_line.txt 4 745 757 811 1007 
+milliseconds Forbidden_line.txt 1 275 
+more Forbidden_line.txt 4 177 442 461 546 
+emission Forbidden_line.txt 10 25 141 604 619 743 747 813 1144 1249 1288 
+glass Forbidden_line.txt 1 1087 
+opposing Forbidden_line.txt 1 715 
+particular Forbidden_line.txt 1 44 
+known Forbidden_line.txt 2 466 500 
+cases Forbidden_line.txt 2 644 1278 
+iii Forbidden_line.txt 2 1346 1437 
+must Forbidden_line.txt 2 487 633 
+high Forbidden_line.txt 1 1106 
+account Forbidden_line.txt 1 1224 
+f Forbidden_line.txt 2 1094 1095 
+this Forbidden_line.txt 7 204 264 433 703 744 810 1005 
+values Forbidden_line.txt 2 949 954 
+can Forbidden_line.txt 6 225 260 298 328 1114 1130 
+following Forbidden_line.txt 1 943 
+making Forbidden_line.txt 1 1182 
+spontaneous Forbidden_line.txt 1 162 
+example Forbidden_line.txt 2 61 108 
+ions Forbidden_line.txt 1 1245 
+isomer Forbidden_line.txt 1 377 
+process Forbidden_line.txt 4 81 98 777 974 
+preserving Forbidden_line.txt 1 726 
+states Forbidden_line.txt 6 258 268 327 826 1070 1218 
+collision Forbidden_line.txt 1 1061 
+emitting Forbidden_line.txt 1 1212 
+allowed Forbidden_line.txt 8 41 49 100 216 320 405 597 809 
+hydrogen Forbidden_line.txt 2 1376 1390 
+occur Forbidden_line.txt 2 628 1290 
+rather Forbidden_line.txt 1 1220 
+species Forbidden_line.txt 1 1432 
+1 Forbidden_line.txt 10 408 430 463 481 525 600 798 823 895 897 
+instead Forbidden_line.txt 1 529 
+may Forbidden_line.txt 3 676 712 1173 
+after Forbidden_line.txt 1 742 
+such Forbidden_line.txt 10 70 185 325 415 617 638 1031 1046 1187 1265 
+derives Forbidden_line.txt 1 1088 
+a Forbidden_line.txt 44 9 18 36 43 63 86 103 127 157 181 191 195 223 228 247 282 375 384 416 422 427 517 531 542 591 613 679 682 690 694 718 767 774 794 820 913 977 1053 1079 1134 1176 1201 1213 1226 
+l-values Forbidden_line.txt 1 868 
+natural Forbidden_line.txt 1 532 
+light Forbidden_line.txt 4 27 79 118 143 
+spectra Forbidden_line.txt 1 1408 
+lines Forbidden_line.txt 4 1145 1319 1359 1405 
+so Forbidden_line.txt 2 241 527 
+keeps Forbidden_line.txt 1 1056 
+order Forbidden_line.txt 1 274 
+se Forbidden_line.txt 1 999 
+ultra-low Forbidden_line.txt 1 1235 
+over Forbidden_line.txt 2 145 1018 
+entity Forbidden_line.txt 1 188 
+held Forbidden_line.txt 1 1051 
+experiments Forbidden_line.txt 1 1001 
+lasers Forbidden_line.txt 1 1110 
+existence Forbidden_line.txt 1 373 
+cold Forbidden_line.txt 1 1388 
+its Forbidden_line.txt 2 514 1089 
+neodymium Forbidden_line.txt 3 1035 1085 1099 
+before Forbidden_line.txt 3 242 740 1291 
+regions Forbidden_line.txt 1 1372 
+outer Forbidden_line.txt 1 1158 
+symmetry Forbidden_line.txt 1 1119 
+decay Forbidden_line.txt 29 125 262 285 292 347 350 363 385 490 509 515 534 565 631 641 650 655 760 776 792 858 921 932 939 960 973 989 1010 1210 
+susceptible Forbidden_line.txt 1 765 
+systems Forbidden_line.txt 1 293 
+hidden Forbidden_line.txt 1 1447 
+centimetre Forbidden_line.txt 1 1181 
+then Forbidden_line.txt 1 1204 
+them Forbidden_line.txt 3 1037 1057 1072 
+greater Forbidden_line.txt 1 869 
+than Forbidden_line.txt 7 209 281 462 480 547 594 870 
+they Forbidden_line.txt 1 581 
+half Forbidden_line.txt 5 535 543 968 1016 1065 
+not Forbidden_line.txt 4 40 58 621 652 
+yr Forbidden_line.txt 1 1020 
+stabilize Forbidden_line.txt 1 1305 
+edit Forbidden_line.txt 8 348 351 656 1024 1142 1417 1442 1445 
+classified Forbidden_line.txt 1 661 
+l Forbidden_line.txt 4 665 855 889 956 
+accompanies Forbidden_line.txt 1 773 
+sufficiently Forbidden_line.txt 1 1283 
+magnitude Forbidden_line.txt 3 306 497 986 
+each Forbidden_line.txt 3 308 470 961 
+found Forbidden_line.txt 1 1004 
+referred Forbidden_line.txt 2 860 926 
+square Forbidden_line.txt 1 1425 
+another Forbidden_line.txt 1 636 
+gamma-ray Forbidden_line.txt 1 423 
+energy Forbidden_line.txt 2 197 1364 
+decays Forbidden_line.txt 4 568 658 673 675 
+quantum Forbidden_line.txt 2 409 1309 
+laboratory Forbidden_line.txt 2 995 1263 
+happen Forbidden_line.txt 1 83 
+transitions Forbidden_line.txt 14 137 151 253 288 469 626 892 1026 1096 1113 1223 1241 1301 1420 
+495.9 Forbidden_line.txt 1 1348 
+special Forbidden_line.txt 1 910 
+shown Forbidden_line.txt 1 1132 
+matrix Forbidden_line.txt 1 1054 
+space Forbidden_line.txt 3 1159 1170 1239 
+since Forbidden_line.txt 1 1216 
+semiconductor Forbidden_line.txt 1 1112 
+collisions Forbidden_line.txt 2 235 1184 
+accuracies Forbidden_line.txt 1 1315 
+occurs Forbidden_line.txt 2 245 506 
+favored Forbidden_line.txt 1 653 
+vacuum-ultraviolet Forbidden_line.txt 1 1252 
+reason Forbidden_line.txt 1 1199 
+dopants Forbidden_line.txt 1 1040 
+definition Forbidden_line.txt 1 203 
+interaction Forbidden_line.txt 1 77 
+g Forbidden_line.txt 1 997 
+e.g Forbidden_line.txt 3 91 233 1435 
+route Forbidden_line.txt 3 249 386 637 
+transition Forbidden_line.txt 9 13 37 193 213 230 244 702 815 917 
+electric-dipole Forbidden_line.txt 1 73 
+times Forbidden_line.txt 1 301 
+500.7 Forbidden_line.txt 1 1350 
+undergo Forbidden_line.txt 1 35 
+first Forbidden_line.txt 1 952 
+initial Forbidden_line.txt 1 731 
+probability Forbidden_line.txt 3 159 183 205 
+spinning Forbidden_line.txt 1 802 
+inhibits Forbidden_line.txt 1 489 
+specifically Forbidden_line.txt 1 853 
+quadrupole Forbidden_line.txt 1 96 
+carry Forbidden_line.txt 2 452 488 
+compared Forbidden_line.txt 1 278 
+precisely Forbidden_line.txt 1 178 
+angular Forbidden_line.txt 11 395 413 445 456 571 623 721 727 782 829 851 
+given Forbidden_line.txt 1 399 
+nebulae Forbidden_line.txt 1 1368 
+system Forbidden_line.txt 2 314 434 
+least Forbidden_line.txt 1 552 
+their Forbidden_line.txt 3 161 849 1068 
+2 Forbidden_line.txt 3 438 575 835 
+too Forbidden_line.txt 1 338 
+gamow-teller Forbidden_line.txt 1 814 
+percentage Forbidden_line.txt 1 1228 
+molecular Forbidden_line.txt 1 1431 
+stars Forbidden_line.txt 1 1411 
+that Forbidden_line.txt 13 38 55 184 210 259 391 482 522 528 751 763 772 1311 
+lists Forbidden_line.txt 1 945 
+de-excite Forbidden_line.txt 1 226 
+population Forbidden_line.txt 1 1081 
+begins Forbidden_line.txt 1 611 
+10 Forbidden_line.txt 5 520 538 548 555 1019 
+double Forbidden_line.txt 1 987 
+require Forbidden_line.txt 1 867 
+zero Forbidden_line.txt 3 685 697 724 
+erbium Forbidden_line.txt 1 1033 
+i Forbidden_line.txt 1 1400 
+are Forbidden_line.txt 20 152 254 447 465 579 582 660 764 839 842 893 1050 1219 1258 1282 1293 1302 1352 1360 1421 
+and Forbidden_line.txt 32 119 130 368 441 557 586 686 698 709 741 787 800 807 841 882 933 948 1034 1062 1101 1139 1154 1255 1271 1308 1326 1334 1337 1344 1349 1369 1401 
+spectrum Forbidden_line.txt 1 1128 
+unlikely Forbidden_line.txt 2 257 1185 
+have Forbidden_line.txt 5 270 341 1002 1146 1312 
+seen Forbidden_line.txt 1 1394 
+any Forbidden_line.txt 4 212 243 398 1198 
+contents Forbidden_line.txt 1 344 
+ray Forbidden_line.txt 1 486 
+conversion Forbidden_line.txt 1 647 
+mechanism Forbidden_line.txt 3 1 11 355 
+also Forbidden_line.txt 4 692 1003 1115 1395 
+internal Forbidden_line.txt 1 646 
+which Forbidden_line.txt 8 34 116 312 425 512 918 1055 1120 
+forbiddenness Forbidden_line.txt 4 297 473 847 965 
+even Forbidden_line.txt 4 332 687 699 733 
+relatively Forbidden_line.txt 2 256 584 
+electric Forbidden_line.txt 2 95 135 
+normal Forbidden_line.txt 1 596 
+molecule Forbidden_line.txt 2 170 1193 
+most Forbidden_line.txt 5 251 319 353 403 755 
+beta Forbidden_line.txt 12 640 649 654 657 674 759 775 791 931 938 972 988 
+microsecond Forbidden_line.txt 1 283 
+significant Forbidden_line.txt 1 1227 
+measured Forbidden_line.txt 1 343 
+glow Forbidden_line.txt 1 111 
+so-called Forbidden_line.txt 1 266 
+radioactive Forbidden_line.txt 2 291 346 
+redirected Forbidden_line.txt 1 3 
+charged Forbidden_line.txt 1 1244 
+physics Forbidden_line.txt 2 1023 1141 
+planetary Forbidden_line.txt 1 1367 
+atmosphere Forbidden_line.txt 1 1165 
+selection Forbidden_line.txt 5 45 219 323 865 885 
+particularly Forbidden_line.txt 1 1379 
+rings Forbidden_line.txt 1 1274 
+doped Forbidden_line.txt 1 1086 
+radio Forbidden_line.txt 1 1382 
+pump Forbidden_line.txt 1 1076 
+earth Forbidden_line.txt 2 1029 1168 
+nominally Forbidden_line.txt 1 153 
+state Forbidden_line.txt 9 123 176 198 224 390 615 732 1109 1203 
+should Forbidden_line.txt 1 164 
+only Forbidden_line.txt 4 255 261 583 1175 
+molecules Forbidden_line.txt 1 33 
+factor Forbidden_line.txt 2 518 978 
+8 Forbidden_line.txt 1 504 
+do Forbidden_line.txt 2 240 587 
+notation Forbidden_line.txt 1 1416 
+beam Forbidden_line.txt 1 1268 
+cannot Forbidden_line.txt 2 82 627 
+years Forbidden_line.txt 3 330 337 556 
+densities Forbidden_line.txt 2 1172 1281 
+h Forbidden_line.txt 1 1370 
+common Forbidden_line.txt 3 354 404 1221 
+x Forbidden_line.txt 1 554 
+where Forbidden_line.txt 4 65 648 894 1275 
+approximations Forbidden_line.txt 1 69 
+t-tauri Forbidden_line.txt 1 1410 
+nitrogen Forbidden_line.txt 1 1321 
+lifetimes Forbidden_line.txt 1 271 
+observed Forbidden_line.txt 5 563 992 1148 1260 1354 
+result Forbidden_line.txt 1 139 
+techniques Forbidden_line.txt 1 1299 
+nuclear Forbidden_line.txt 5 394 570 817 864 879 
+currently Forbidden_line.txt 1 1316 
+wikipedia Forbidden_line.txt 1 2 
+dipole Forbidden_line.txt 2 93 136 
+3 Forbidden_line.txt 4 439 553 576 836 
+reading Forbidden_line.txt 1 1444 
+conditions Forbidden_line.txt 1 1188 
+available Forbidden_line.txt 1 1317 
+emitted Forbidden_line.txt 7 450 484 669 711 789 833 1232 
+suppresses Forbidden_line.txt 1 513 
+however Forbidden_line.txt 1 602 
+ranked Forbidden_line.txt 1 843 
+isotopes Forbidden_line.txt 1 1013 
+both Forbidden_line.txt 2 878 1277 
+last Forbidden_line.txt 1 329 
+many Forbidden_line.txt 2 303 334 
+according Forbidden_line.txt 2 66 662 
+etc Forbidden_line.txt 2 578 838 
+s Forbidden_line.txt 3 1330 1402 1439 
+geochemical Forbidden_line.txt 1 1000 
+otherwise Forbidden_line.txt 1 232 
+corresponds Forbidden_line.txt 1 898 
+environments Forbidden_line.txt 1 1171 
+table Forbidden_line.txt 1 944 
+unusual Forbidden_line.txt 1 1090 
+stretch Forbidden_line.txt 1 299 
+create Forbidden_line.txt 1 1078 
+been Forbidden_line.txt 4 342 991 1147 1195 
+quickly Forbidden_line.txt 1 936 
+much Forbidden_line.txt 2 104 207 
+slowly Forbidden_line.txt 1 144 
+combined Forbidden_line.txt 1 795 
+phosphorescent Forbidden_line.txt 1 110 
+direction Forbidden_line.txt 2 400 806 
+photon Forbidden_line.txt 2 424 1215 
+bulk Forbidden_line.txt 1 1111 
+lives Forbidden_line.txt 1 1017 
+plasmas Forbidden_line.txt 2 1155 1357 
+spin Forbidden_line.txt 11 128 412 428 477 501 683 695 716 796 818 880 
+case Forbidden_line.txt 1 911 
+laser Forbidden_line.txt 1 1297 
+unlike Forbidden_line.txt 1 671 
+these Forbidden_line.txt 2 625 1358 
+value Forbidden_line.txt 1 666 
+n Forbidden_line.txt 1 1322 
+will Forbidden_line.txt 3 189 237 392 
+situation Forbidden_line.txt 1 64 
+balance Forbidden_line.txt 1 1365 
+almost Forbidden_line.txt 2 238 1207 
+is Forbidden_line.txt 28 17 39 48 57 99 109 131 140 156 180 206 318 381 418 605 651 704 748 753 793 808 859 922 925 940 1102 1206 1378 
+thus Forbidden_line.txt 3 369 558 725 
+it Forbidden_line.txt 5 236 540 752 1205 1385 
+ii Forbidden_line.txt 6 1323 1331 1340 1371 1403 1440 
+in Forbidden_line.txt 40 7 62 112 263 289 345 432 444 507 612 642 761 769 790 803 844 877 919 993 998 1011 1021 1027 1045 1052 1104 1133 1137 1149 1157 1161 1169 1238 1242 1247 1261 1276 1355 1406 1433 
+conserve Forbidden_line.txt 1 622 
+if Forbidden_line.txt 4 50 222 734 937 
+media Forbidden_line.txt 2 1044 1047 
+make Forbidden_line.txt 3 190 370 1036 
+radiation Forbidden_line.txt 3 670 719 834 
+same Forbidden_line.txt 1 805 
+orders Forbidden_line.txt 3 304 495 984 
+units Forbidden_line.txt 2 443 505 
+several Forbidden_line.txt 1 1012 
+higher Forbidden_line.txt 2 87 828 
+used Forbidden_line.txt 2 1103 1303 
+cubic Forbidden_line.txt 1 1180 
+absorb Forbidden_line.txt 1 117 
+ion Forbidden_line.txt 2 1269 1272 
+levels Forbidden_line.txt 1 295 
+lower Forbidden_line.txt 3 105 196 208 
+off Forbidden_line.txt 1 453 
+traps Forbidden_line.txt 1 1270 
+nevertheless Forbidden_line.txt 1 250 
+makes Forbidden_line.txt 1 1071 
+materials Forbidden_line.txt 1 115 
+the Forbidden_line.txt 61 51 72 76 80 97 113 138 150 218 273 313 322 352 359 372 379 388 402 449 454 483 498 508 595 609 664 668 707 730 735 754 778 785 804 832 857 884 888 909 942 946 951 967 971 994 1048 1063 1098 1122 1126 1162 1167 1230 1234 1248 1313 1363 1373 1396 1407 1428 
+usual Forbidden_line.txt 1 68 
+routinely Forbidden_line.txt 1 1259 
+less Forbidden_line.txt 1 280 
+storage Forbidden_line.txt 1 1273 
+clocks Forbidden_line.txt 2 1307 1310 
+atomic Forbidden_line.txt 7 29 166 366 1140 1183 1306 1429 
+momenta Forbidden_line.txt 1 830 
+yet Forbidden_line.txt 1 560 
+rapid Forbidden_line.txt 1 756 
+density Forbidden_line.txt 3 1152 1236 1415 
+absorption Forbidden_line.txt 2 23 1127 
+photons Forbidden_line.txt 3 451 1231 1257 
+4 Forbidden_line.txt 4 440 577 837 981 
+easy Forbidden_line.txt 1 1073 
+has Forbidden_line.txt 5 426 541 559 990 1194 
+excited Forbidden_line.txt 9 122 175 187 326 365 389 1069 1083 1196 
+momentum Forbidden_line.txt 10 396 414 446 457 572 624 722 728 783 852 
+around Forbidden_line.txt 1 1427 
+rules Forbidden_line.txt 4 220 324 866 886 
+possible Forbidden_line.txt 5 371 448 705 780 941 
+collisionally Forbidden_line.txt 1 1294 
+dark Forbidden_line.txt 1 114 
+increases Forbidden_line.txt 1 966 
+using Forbidden_line.txt 1 1296 
+solid-state Forbidden_line.txt 2 1022 1042 
+sulfur Forbidden_line.txt 1 1329 
+necessary Forbidden_line.txt 1 419 
+oxygen Forbidden_line.txt 1 1338 
+either Forbidden_line.txt 1 1156 
+soft Forbidden_line.txt 1 1253 
+parity Forbidden_line.txt 5 688 700 883 901 904 
+because Forbidden_line.txt 1 706 
+absolutely Forbidden_line.txt 2 606 923 
+some Forbidden_line.txt 2 290 643 
+de-excited Forbidden_line.txt 1 1295 
+multiple Forbidden_line.txt 1 294 
+for Forbidden_line.txt 17 60 75 211 284 307 333 356 378 387 887 930 950 1041 1197 1225 1285 1381 
+zero-spin Forbidden_line.txt 1 614 
+per Forbidden_line.txt 2 199 1179 
+be Forbidden_line.txt 8 171 562 713 873 1116 1131 1174 1393 
+power Forbidden_line.txt 1 1107 
+seconds Forbidden_line.txt 3 277 539 549 
+forbidden-line Forbidden_line.txt 1 1214 
+although Forbidden_line.txt 2 149 566 
+accompanied Forbidden_line.txt 1 874 
+by Forbidden_line.txt 21 28 42 134 202 217 302 311 401 492 516 629 635 819 848 875 976 1060 1118 1211 1233 1423 
+de-exciting Forbidden_line.txt 1 1059 
+on Forbidden_line.txt 1 272 
+about Forbidden_line.txt 2 493 980 
+rare Forbidden_line.txt 2 1006 1028 
+of Forbidden_line.txt 59 26 89 142 160 296 305 336 358 361 364 374 383 407 411 429 437 460 472 476 496 503 510 519 530 537 545 574 599 667 684 696 714 723 729 746 758 784 797 812 822 831 846 912 955 963 970 979 985 1008 1067 1082 1125 1166 1229 1250 1320 1366 1398 1409 
+o Forbidden_line.txt 4 1339 1345 1399 1436 
+involving Forbidden_line.txt 1 827 
+mean Forbidden_line.txt 1 1015 
+or Forbidden_line.txt 17 14 24 32 94 147 169 215 231 331 550 645 896 903 1160 1192 1430 1438 
+gamma Forbidden_line.txt 10 349 362 485 533 567 603 630 672 920 959 
+raised Forbidden_line.txt 1 172 
+proton/neutron Forbidden_line.txt 1 770 
+presence Forbidden_line.txt 1 1397 
+into Forbidden_line.txt 1 1200 
+within Forbidden_line.txt 1 1097 
+integral Forbidden_line.txt 1 435 
+functional Forbidden_line.txt 1 1123 
+billions Forbidden_line.txt 1 335 
+spin-zero Forbidden_line.txt 1 739 
+references Forbidden_line.txt 1 1441 
+additional Forbidden_line.txt 3 309 455 474 
+extremely Forbidden_line.txt 2 1105 1150 
+there Forbidden_line.txt 2 155 179 
+question Forbidden_line.txt 1 1434 
+long Forbidden_line.txt 2 339 1064 
+low Forbidden_line.txt 3 1151 1284 1413 
+way Forbidden_line.txt 1 265 
+astrophysics Forbidden_line.txt 1 1138 
+form Forbidden_line.txt 2 120 1124 
+metastable Forbidden_line.txt 1 376 
+but Forbidden_line.txt 6 47 84 101 458 589 632 
+neutral Forbidden_line.txt 1 1389 
+atom Forbidden_line.txt 3 168 1100 1191 
+implies Forbidden_line.txt 1 1412 
+line Forbidden_line.txt 6 6 16 20 1287 1377 1419 
+highest Forbidden_line.txt 2 499 1314 
+with Forbidden_line.txt 10 22 54 78 524 569 590 681 693 958 1014 
+made Forbidden_line.txt 1 59 
+j Forbidden_line.txt 2 881 947 
+flip Forbidden_line.txt 1 129 
+devices Forbidden_line.txt 1 1264 
+astrophysical Forbidden_line.txt 1 1356 
+fermi Forbidden_line.txt 2 701 914 
+spectroscopy Forbidden_line.txt 2 8 1298 
+minutes Forbidden_line.txt 1 146 
+emit Forbidden_line.txt 1 421 
+x-ray Forbidden_line.txt 2 1254 1256 
+associated Forbidden_line.txt 3 21 53 523 
+certain Forbidden_line.txt 3 182 1208 1262 
+life Forbidden_line.txt 5 300 536 544 969 1066 
+an Forbidden_line.txt 7 107 121 165 174 186 618 1190 
+as Forbidden_line.txt 13 71 467 616 639 862 907 928 957 1032 1039 1129 1266 1384 
+at Forbidden_line.txt 8 85 102 551 738 1324 1332 1341 1347 
+proceeds Forbidden_line.txt 1 934 
+meta-stable Forbidden_line.txt 3 267 1202 1217 
+beyond Forbidden_line.txt 1 316 
+nm Forbidden_line.txt 4 1328 1336 1343 1351 
+no Forbidden_line.txt 1 900 
+when Forbidden_line.txt 2 608 854 
+5 Forbidden_line.txt 2 494 983 
+optically Forbidden_line.txt 1 1075 
+gas Forbidden_line.txt 4 1237 1280 1391 1414 
+meaning Forbidden_line.txt 1 750 
+important Forbidden_line.txt 2 1361 1380 
+nucleus Forbidden_line.txt 6 167 380 610 680 691 736 
+suppression Forbidden_line.txt 1 357 
+astronomy Forbidden_line.txt 1 1383 
+coloration Forbidden_line.txt 1 1091 
+e Forbidden_line.txt 1 996 
+673.1 Forbidden_line.txt 1 1335 
+rule Forbidden_line.txt 2 46 56 
+time Forbidden_line.txt 1 201 
+nuclei Forbidden_line.txt 3 30 367 762 
+671.6 Forbidden_line.txt 1 1333 
+once Forbidden_line.txt 1 1189 

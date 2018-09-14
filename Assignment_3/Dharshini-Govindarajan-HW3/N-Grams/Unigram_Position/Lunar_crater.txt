@@ -1,0 +1,411 @@
+all Lunar_crater.txt 6 68 262 473 531 627 695 
+chain Lunar_crater.txt 1 863 
+illustrates Lunar_crater.txt 1 885 
+caused Lunar_crater.txt 1 295 
+lack Lunar_crater.txt 1 360 
+results Lunar_crater.txt 1 519 
+astronauts Lunar_crater.txt 2 778 805 
+spacecraft Lunar_crater.txt 2 240 644 
+copernicus Lunar_crater.txt 3 837 839 841 
+crater Lunar_crater.txt 17 6 8 14 19 24 41 47 80 426 479 537 616 830 847 855 872 891 
+to Lunar_crater.txt 13 96 112 127 159 305 313 419 568 595 619 634 659 663 
+program Lunar_crater.txt 2 287 657 
+include Lunar_crater.txt 1 626 
+moltke Lunar_crater.txt 1 46 
+asteroids Lunar_crater.txt 1 253 
+returned Lunar_crater.txt 1 418 
+categories Lunar_crater.txt 3 523 907 909 
+notes Lunar_crater.txt 1 903 
+large Lunar_crater.txt 2 385 563 
+red Lunar_crater.txt 1 880 
+small Lunar_crater.txt 3 403 574 734 
+290 Lunar_crater.txt 1 431 
+smaller Lunar_crater.txt 3 32 393 766 
+anderssons Lunar_crater.txt 1 622 
+crescent Lunar_crater.txt 1 229 
+situated Lunar_crater.txt 1 869 
+depression Lunar_crater.txt 1 462 
+waning Lunar_crater.txt 1 228 
+sun Lunar_crater.txt 1 225 
+scientists Lunar_crater.txt 2 662 705 
+new Lunar_crater.txt 3 278 338 613 
+leif Lunar_crater.txt 1 487 
+filled Lunar_crater.txt 1 463 
+here Lunar_crater.txt 1 10 
+water Lunar_crater.txt 2 100 362 
+believed Lunar_crater.txt 2 312 447 
+kilometers Lunar_crater.txt 2 547 636 
+galileo Lunar_crater.txt 2 84 101 
+november Lunar_crater.txt 1 120 
+galilei Lunar_crater.txt 1 85 
+convert Lunar_crater.txt 1 596 
+receive Lunar_crater.txt 1 745 
+30 Lunar_crater.txt 1 121 
+amount Lunar_crater.txt 1 575 
+resulting Lunar_crater.txt 1 461 
+action Lunar_crater.txt 1 205 
+opinion Lunar_crater.txt 2 129 157 
+diameter Lunar_crater.txt 3 437 548 638 
+named Lunar_crater.txt 8 696 702 761 801 814 829 851 890 
+via Lunar_crater.txt 1 341 
+retired Lunar_crater.txt 1 688 
+visible Lunar_crater.txt 1 304 
+names Lunar_crater.txt 7 689 726 748 774 789 821 858 
+marker Lunar_crater.txt 1 881 
+battista Lunar_crater.txt 1 714 
+use Lunar_crater.txt 1 660 
+eye Lunar_crater.txt 1 308 
+two Lunar_crater.txt 2 199 377 
+6 Lunar_crater.txt 2 806 809 
+taken Lunar_crater.txt 1 48 
+capital Lunar_crater.txt 1 833 
+more Lunar_crater.txt 1 402 
+convolutional Lunar_crater.txt 1 342 
+started Lunar_crater.txt 1 717 
+giovanni Lunar_crater.txt 1 713 
+wars Lunar_crater.txt 1 201 
+99 Lunar_crater.txt 1 529 
+known Lunar_crater.txt 1 190 
+95 Lunar_crater.txt 1 693 
+majority Lunar_crater.txt 1 812 
+word Lunar_crater.txt 3 79 89 861 
+this Lunar_crater.txt 2 709 795 
+mi Lunar_crater.txt 1 434 
+theories Lunar_crater.txt 1 174 
+can Lunar_crater.txt 1 34 
+following Lunar_crater.txt 1 476 
+example Lunar_crater.txt 3 740 836 865 
+deceased Lunar_crater.txt 3 704 776 791 
+history Lunar_crater.txt 1 76 
+impacts Lunar_crater.txt 3 74 458 515 
+sphere Lunar_crater.txt 1 139 
+swung Lunar_crater.txt 1 164 
+monitoring Lunar_crater.txt 1 286 
+feature Lunar_crater.txt 1 892 
+1 Lunar_crater.txt 1 30 
+located Lunar_crater.txt 1 438 
+map Lunar_crater.txt 1 664 
+landmark Lunar_crater.txt 1 22 
+blasting Lunar_crater.txt 1 179 
+after Lunar_crater.txt 4 703 762 802 852 
+lab Lunar_crater.txt 1 493 
+thalassoids Lunar_crater.txt 1 583 
+such Lunar_crater.txt 1 428 
+data Lunar_crater.txt 1 676 
+types Lunar_crater.txt 1 538 
+a Lunar_crater.txt 14 92 137 176 188 227 325 495 505 543 612 827 832 838 853 
+natural Lunar_crater.txt 1 21 
+greek Lunar_crater.txt 2 88 93 
+so Lunar_crater.txt 1 844 
+welteislehre Lunar_crater.txt 1 193 
+developed Lunar_crater.txt 2 194 345 
+over Lunar_crater.txt 1 168 
+years Lunar_crater.txt 1 379 
+through Lunar_crater.txt 1 213 
+same Lunar_crater.txt 1 243 
+perfect Lunar_crater.txt 1 138 
+late Lunar_crater.txt 1 107 
+microscopic Lunar_crater.txt 1 412 
+2018 Lunar_crater.txt 1 332 
+hidden Lunar_crater.txt 1 908 
+2013 Lunar_crater.txt 1 303 
+then Lunar_crater.txt 1 516 
+greater Lunar_crater.txt 1 630 
+accumulating Lunar_crater.txt 1 401 
+zooniverse Lunar_crater.txt 1 656 
+they Lunar_crater.txt 3 503 558 700 
+not Lunar_crater.txt 1 136 
+kilometres Lunar_crater.txt 1 432 
+name Lunar_crater.txt 2 154 825 
+edit Lunar_crater.txt 8 77 355 481 690 878 902 904 906 
+university Lunar_crater.txt 2 348 593 
+chuck Lunar_crater.txt 1 484 
+rocks Lunar_crater.txt 1 417 
+filling Lunar_crater.txt 1 579 
+found Lunar_crater.txt 3 374 409 415 
+side Lunar_crater.txt 2 42 896 
+telescope Lunar_crater.txt 2 105 216 
+constitute Lunar_crater.txt 1 692 
+beyond Lunar_crater.txt 1 542 
+special Lunar_crater.txt 1 737 
+living Lunar_crater.txt 1 804 
+network Lunar_crater.txt 1 344 
+robert Lunar_crater.txt 1 749 
+since Lunar_crater.txt 2 686 721 
+contained Lunar_crater.txt 2 395 404 
+1651 Lunar_crater.txt 1 720 
+forth Lunar_crater.txt 1 167 
+announced Lunar_crater.txt 1 353 
+meteoric Lunar_crater.txt 2 185 248 
+arizona Lunar_crater.txt 1 592 
+theory Lunar_crater.txt 1 189 
+older Lunar_crater.txt 1 398 
+formation Lunar_crater.txt 1 276 
+besides Lunar_crater.txt 1 794 
+beginning Lunar_crater.txt 1 584 
+explorers Lunar_crater.txt 1 708 
+american Lunar_crater.txt 2 777 810 
+unmanned Lunar_crater.txt 1 239 
+south Lunar_crater.txt 1 442 
+first Lunar_crater.txt 3 104 117 747 
+origin Lunar_crater.txt 2 161 259 
+major Lunar_crater.txt 1 876 
+features Lunar_crater.txt 2 477 698 
+striking Lunar_crater.txt 1 321 
+number Lunar_crater.txt 1 391 
+one Lunar_crater.txt 1 753 
+adopted Lunar_crater.txt 1 82 
+backyard Lunar_crater.txt 1 215 
+size Lunar_crater.txt 3 414 567 666 
+little Lunar_crater.txt 1 369 
+system Lunar_crater.txt 1 496 
+approximately Lunar_crater.txt 1 317 
+their Lunar_crater.txt 2 820 856 
+181 Lunar_crater.txt 1 433 
+scarborough Lunar_crater.txt 1 351 
+hundred Lunar_crater.txt 1 546 
+moscoviense Lunar_crater.txt 1 786 
+that Lunar_crater.txt 6 125 131 247 375 448 509 
+1919 Lunar_crater.txt 1 722 
+than Lunar_crater.txt 1 631 
+toronto Lunar_crater.txt 1 350 
+10 Lunar_crater.txt 1 51 
+b Lunar_crater.txt 2 184 840 
+classed Lunar_crater.txt 1 560 
+17 Lunar_crater.txt 1 302 
+andersson Lunar_crater.txt 2 488 600 
+database Lunar_crater.txt 2 603 617 
+project Lunar_crater.txt 2 236 653 
+determined Lunar_crater.txt 1 388 
+contrary Lunar_crater.txt 1 126 
+were Lunar_crater.txt 6 71 175 454 510 539 800 
+visited Lunar_crater.txt 1 741 
+cosmonauts Lunar_crater.txt 1 793 
+and Lunar_crater.txt 22 38 99 109 144 166 237 265 364 371 486 557 599 621 639 667 706 769 779 783 808 831 843 
+turned Lunar_crater.txt 1 110 
+locations Lunar_crater.txt 1 874 
+have Lunar_crater.txt 2 410 470 
+seen Lunar_crater.txt 2 26 36 
+contents Lunar_crater.txt 1 75 
+relatively Lunar_crater.txt 1 511 
+built Lunar_crater.txt 1 102 
+latter Lunar_crater.txt 1 148 
+zoo Lunar_crater.txt 1 652 
+mix Lunar_crater.txt 1 97 
+which Lunar_crater.txt 3 70 150 202 
+who Lunar_crater.txt 1 716 
+tyc Lunar_crater.txt 1 554 
+most Lunar_crater.txt 1 268 
+germany Lunar_crater.txt 1 196 
+letter Lunar_crater.txt 1 834 
+nadine Lunar_crater.txt 1 588 
+class Lunar_crater.txt 1 555 
+maria Lunar_crater.txt 2 453 569 
+kg Lunar_crater.txt 1 319 
+sometimes Lunar_crater.txt 1 581 
+accounted Lunar_crater.txt 1 526 
+redirected Lunar_crater.txt 1 3 
+wine Lunar_crater.txt 1 98 
+lpc Lunar_crater.txt 1 536 
+planetary Lunar_crater.txt 1 492 
+atmosphere Lunar_crater.txt 1 363 
+neural Lunar_crater.txt 1 343 
+discovered Lunar_crater.txt 1 124 
+earth Lunar_crater.txt 2 58 420 
+nevada Lunar_crater.txt 1 16 
+impact Lunar_crater.txt 11 55 186 249 251 285 298 310 501 533 615 628 
+giant Lunar_crater.txt 1 457 
+based Lunar_crater.txt 1 641 
+northern Lunar_crater.txt 1 591 
+louise Lunar_crater.txt 1 751 
+wood Lunar_crater.txt 3 485 598 620 
+eruptions Lunar_crater.txt 1 178 
+he Lunar_crater.txt 2 123 151 
+astronomical Lunar_crater.txt 1 732 
+his Lunar_crater.txt 1 103 
+moons Lunar_crater.txt 2 62 359 
+bear Lunar_crater.txt 2 772 787 
+competing Lunar_crater.txt 1 173 
+during Lunar_crater.txt 1 233 
+dr Lunar_crater.txt 2 587 607 
+barlow Lunar_crater.txt 2 589 608 
+naked Lunar_crater.txt 1 307 
+contain Lunar_crater.txt 1 859 
+implication Lunar_crater.txt 1 267 
+view Lunar_crater.txt 1 43 
+national Lunar_crater.txt 1 20 
+see Lunar_crater.txt 2 17 900 
+latin Lunar_crater.txt 1 857 
+are Lunar_crater.txt 7 54 373 559 580 701 817 849 
+subsequent Lunar_crater.txt 1 514 
+wikipedia Lunar_crater.txt 1 2 
+smallest Lunar_crater.txt 1 407 
+between Lunar_crater.txt 1 197 
+across Lunar_crater.txt 1 435 
+discovery Lunar_crater.txt 1 334 
+catena Lunar_crater.txt 2 862 866 
+jos Lunar_crater.txt 1 750 
+creating Lunar_crater.txt 2 206 611 
+however Lunar_crater.txt 2 444 683 
+craters Lunar_crater.txt 36 1 33 53 56 66 155 163 208 210 256 264 269 279 340 372 386 394 399 405 408 467 502 508 534 564 629 672 691 735 758 767 781 799 816 819 877 
+suggested Lunar_crater.txt 1 203 
+both Lunar_crater.txt 1 142 
+c Lunar_crater.txt 2 187 842 
+missions Lunar_crater.txt 2 744 764 
+many Lunar_crater.txt 5 65 449 671 765 780 
+equal Lunar_crater.txt 1 633 
+etc Lunar_crater.txt 1 752 
+s Lunar_crater.txt 1 59 
+comes Lunar_crater.txt 1 711 
+nearby Lunar_crater.txt 2 828 854 
+volcanic Lunar_crater.txt 2 13 177 
+basins Lunar_crater.txt 1 562 
+period Lunar_crater.txt 1 244 
+sampling Lunar_crater.txt 1 506 
+hers Lunar_crater.txt 1 624 
+pole Lunar_crater.txt 1 443 
+regulated Lunar_crater.txt 1 728 
+vessel Lunar_crater.txt 2 91 94 
+mare Lunar_crater.txt 1 785 
+union Lunar_crater.txt 1 733 
+been Lunar_crater.txt 2 411 687 
+interest Lunar_crater.txt 1 738 
+collected Lunar_crater.txt 1 232 
+general Lunar_crater.txt 1 128 
+formed Lunar_crater.txt 2 72 455 
+davy Lunar_crater.txt 2 867 873 
+an Lunar_crater.txt 3 218 297 316 
+riccioli Lunar_crater.txt 1 715 
+these Lunar_crater.txt 3 524 725 883 
+will Lunar_crater.txt 2 469 625 
+near Lunar_crater.txt 5 439 770 784 870 895 
+reconnaissance Lunar_crater.txt 1 681 
+larger Lunar_crater.txt 1 255 
+almost Lunar_crater.txt 2 67 261 
+characteristics Lunar_crater.txt 1 354 
+is Lunar_crater.txt 11 280 311 368 387 429 446 609 640 727 760 868 
+it Lunar_crater.txt 6 111 397 445 684 718 771 
+surface Lunar_crater.txt 3 63 323 649 
+meteoroid Lunar_crater.txt 1 320 
+in Lunar_crater.txt 17 15 37 106 181 195 282 330 380 413 416 436 482 566 585 637 719 796 
+disappear Lunar_crater.txt 1 556 
+began Lunar_crater.txt 1 594 
+lava Lunar_crater.txt 2 466 578 
+largest Lunar_crater.txt 1 425 
+plates Lunar_crater.txt 1 366 
+several Lunar_crater.txt 1 31 
+satellite Lunar_crater.txt 1 818 
+used Lunar_crater.txt 2 95 504 
+centuries Lunar_crater.txt 1 171 
+assignment Lunar_crater.txt 1 723 
+usually Lunar_crater.txt 2 699 850 
+tradition Lunar_crater.txt 1 710 
+1609 Lunar_crater.txt 2 108 122 
+1978 Lunar_crater.txt 1 483 
+well Lunar_crater.txt 1 274 
+km/h Lunar_crater.txt 1 329 
+1970 Lunar_crater.txt 1 797 
+without Lunar_crater.txt 1 571 
+cup-like Lunar_crater.txt 1 145 
+the Lunar_crater.txt 64 12 45 61 78 87 113 116 133 147 153 160 169 172 182 192 198 207 214 224 234 242 258 275 283 290 306 309 322 333 347 358 382 390 406 422 424 440 451 460 475 490 518 535 549 553 597 647 650 655 665 678 730 755 773 788 811 824 860 871 879 886 889 894 898 
+soviet Lunar_crater.txt 2 792 807 
+bodies Lunar_crater.txt 1 272 
+redirects Lunar_crater.txt 1 9 
+from Lunar_crater.txt 9 4 27 49 86 238 315 421 677 712 
+shape Lunar_crater.txt 1 668 
+human Lunar_crater.txt 1 746 
+impact-crater Lunar_crater.txt 1 602 
+speed Lunar_crater.txt 1 326 
+captured Lunar_crater.txt 1 212 
+7,000 Lunar_crater.txt 1 337 
+also Lunar_crater.txt 2 610 901 
+had Lunar_crater.txt 1 141 
+except Lunar_crater.txt 1 623 
+location Lunar_crater.txt 1 887 
+citizen Lunar_crater.txt 1 661 
+has Lunar_crater.txt 2 64 685 
+gave Lunar_crater.txt 1 152 
+march Lunar_crater.txt 2 301 331 
+around Lunar_crater.txt 2 39 336 
+format Lunar_crater.txt 1 606 
+devised Lunar_crater.txt 1 494 
+couple Lunar_crater.txt 1 544 
+possible Lunar_crater.txt 1 674 
+dark Lunar_crater.txt 1 577 
+five Lunar_crater.txt 2 521 635 
+world Lunar_crater.txt 1 200 
+follows Lunar_crater.txt 1 541 
+clementine Lunar_crater.txt 1 643 
+aimed Lunar_crater.txt 1 658 
+webb Lunar_crater.txt 2 23 40 
+twelve Lunar_crater.txt 2 798 803 
+exceed Lunar_crater.txt 1 376 
+because Lunar_crater.txt 1 356 
+creation Lunar_crater.txt 1 293 
+some Lunar_crater.txt 1 471 
+back Lunar_crater.txt 1 165 
+astronomer Lunar_crater.txt 1 220 
+images Lunar_crater.txt 2 645 884 
+orbiter Lunar_crater.txt 2 29 682 
+for Lunar_crater.txt 8 11 90 115 254 527 739 835 864 
+broad Lunar_crater.txt 1 522 
+recorded Lunar_crater.txt 2 292 299 
+moon Lunar_crater.txt 8 60 114 134 183 230 423 651 899 
+lunar Lunar_crater.txt 25 0 5 7 18 28 52 209 263 284 339 441 452 478 491 500 532 601 614 648 680 697 743 757 815 846 
+glacial Lunar_crater.txt 1 204 
+chains Lunar_crater.txt 1 848 
+be Lunar_crater.txt 2 35 314 
+depressions Lunar_crater.txt 1 146 
+scientific Lunar_crater.txt 1 156 
+90,000 Lunar_crater.txt 1 328 
+by Lunar_crater.txt 12 73 83 223 252 266 296 389 456 464 513 729 742 
+on Lunar_crater.txt 9 57 119 226 270 300 642 845 882 893 
+about Lunar_crater.txt 2 430 528 
+central Lunar_crater.txt 1 550 
+of Lunar_crater.txt 40 44 69 149 162 217 241 260 277 327 335 349 357 361 384 392 450 474 489 497 499 507 530 545 552 576 590 646 669 694 724 736 754 775 790 813 823 826 875 888 897 
+or Lunar_crater.txt 4 250 472 572 632 
+into Lunar_crater.txt 2 520 604 
+within Lunar_crater.txt 2 396 654 
+upwelling Lunar_crater.txt 1 465 
+references Lunar_crater.txt 1 905 
+categorization Lunar_crater.txt 2 480 498 
+unmodified Lunar_crater.txt 1 512 
+there Lunar_crater.txt 1 367 
+biggest Lunar_crater.txt 2 291 756 
+was Lunar_crater.txt 5 81 135 257 294 352 
+mountains Lunar_crater.txt 1 143 
+successfully Lunar_crater.txt 1 525 
+amateur Lunar_crater.txt 1 219 
+illuminated Lunar_crater.txt 1 222 
+conclusively Lunar_crater.txt 1 246 
+but Lunar_crater.txt 2 140 570 
+apollo Lunar_crater.txt 4 50 235 759 763 
+with Lunar_crater.txt 2 459 573 
+partially Lunar_crater.txt 1 221 
+consist Lunar_crater.txt 1 822 
+inside Lunar_crater.txt 2 768 782 
+similar Lunar_crater.txt 2 565 618 
+called Lunar_crater.txt 2 427 582 
+proved Lunar_crater.txt 1 245 
+tectonic Lunar_crater.txt 1 365 
+evidence Lunar_crater.txt 1 231 
+as Lunar_crater.txt 9 25 158 191 211 273 540 561 670 673 
+ensuing Lunar_crater.txt 1 170 
+at Lunar_crater.txt 4 130 288 324 346 
+generally Lunar_crater.txt 1 400 
+40 Lunar_crater.txt 1 318 
+grouped Lunar_crater.txt 1 517 
+other Lunar_crater.txt 2 271 707 
+digital Lunar_crater.txt 1 605 
+erosion Lunar_crater.txt 1 370 
+peak Lunar_crater.txt 1 551 
+studied Lunar_crater.txt 1 281 
+billion Lunar_crater.txt 1 378 
+using Lunar_crater.txt 1 675 
+typically Lunar_crater.txt 1 468 
+age Lunar_crater.txt 2 381 383 
+holes Lunar_crater.txt 1 180 
+nasa Lunar_crater.txt 2 289 679 
+time Lunar_crater.txt 2 118 132 
+international Lunar_crater.txt 1 731 
+2009 Lunar_crater.txt 1 586 

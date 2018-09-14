@@ -1,0 +1,296 @@
+secondly Magnetic_flux.txt 1 815 
+consider Magnetic_flux.txt 2 448 462 
+from Magnetic_flux.txt 1 492 
+volumes Magnetic_flux.txt 1 622 
+caused Magnetic_flux.txt 1 704 
+magnetic Magnetic_flux.txt 41 0 7 11 14 20 27 45 56 73 100 106 112 127 166 177 183 244 296 361 376 384 389 407 410 432 444 450 482 497 509 533 602 636 657 687 708 712 722 740 755 820 
+splitting Magnetic_flux.txt 1 117 
+four Magnetic_flux.txt 1 595 
+against Magnetic_flux.txt 1 799 
+indicates Magnetic_flux.txt 1 886 
+cambridge Magnetic_flux.txt 1 914 
+through Magnetic_flux.txt 23 32 49 108 168 246 262 282 306 314 322 379 392 452 484 535 604 659 685 714 724 758 822 877 
+voltage Magnetic_flux.txt 1 92 
+disk Magnetic_flux.txt 1 564 
+contexts Magnetic_flux.txt 1 267 
+calculate Magnetic_flux.txt 1 98 
+generator Magnetic_flux.txt 1 834 
+density Magnetic_flux.txt 2 16 412 
+electricity Magnetic_flux.txt 1 909 
+boundary Magnetic_flux.txt 4 524 577 674 813 
+to Magnetic_flux.txt 8 97 132 227 255 273 439 465 610 
+charge Magnetic_flux.txt 3 211 797 807 
+potential Magnetic_flux.txt 1 499 
+categories Magnetic_flux.txt 2 938 940 
+theorem Magnetic_flux.txt 1 504 
+hidden Magnetic_flux.txt 1 939 
+main Magnetic_flux.txt 3 580 743 849 
+over Magnetic_flux.txt 2 124 522 
+weber Magnetic_flux.txt 1 60 
+then Magnetic_flux.txt 4 140 172 473 488 
+cube Magnetic_flux.txt 1 562 
+analogy Magnetic_flux.txt 1 356 
+combination Magnetic_flux.txt 1 677 
+comparison Magnetic_flux.txt 1 844 
+press Magnetic_flux.txt 1 916 
+conductive Magnetic_flux.txt 1 762 
+monopoles Magnetic_flux.txt 2 637 891 
+example Magnetic_flux.txt 1 750 
+they Magnetic_flux.txt 1 344 
+not Magnetic_flux.txt 3 291 729 882 
+2nd Magnetic_flux.txt 1 929 
+net Magnetic_flux.txt 1 300 
+advanced Magnetic_flux.txt 1 351 
+formal Magnetic_flux.txt 1 142 
+illustrated Magnetic_flux.txt 1 690 
+emf Magnetic_flux.txt 1 790 
+d Magnetic_flux.txt 1 457 
+edit Magnetic_flux.txt 8 104 539 663 742 848 901 903 937 
+fields Magnetic_flux.txt 2 12 864 
+university Magnetic_flux.txt 1 915 
+978-0-07-161399-6 Magnetic_flux.txt 1 934 
+michael Magnetic_flux.txt 1 923 
+this Magnetic_flux.txt 8 3 180 238 250 288 626 826 885 
+vector Magnetic_flux.txt 5 191 204 222 396 498 
+contrast Magnetic_flux.txt 1 859 
+each Magnetic_flux.txt 2 151 194 
+small Magnetic_flux.txt 1 121 
+found Magnetic_flux.txt 1 641 
+where Magnetic_flux.txt 6 193 400 459 516 784 870 
+encloses Magnetic_flux.txt 1 620 
+right Magnetic_flux.txt 2 549 563 
+force Magnetic_flux.txt 5 208 219 670 768 802 
+often Magnetic_flux.txt 1 29 
+completely Magnetic_flux.txt 1 619 
+some Magnetic_flux.txt 3 247 266 540 
+around Magnetic_flux.txt 1 808 
+sign Magnetic_flux.txt 2 340 348 
+elementary Magnetic_flux.txt 1 232 
+see Magnetic_flux.txt 5 19 148 217 327 899 
+examples Magnetic_flux.txt 1 541 
+proportional Magnetic_flux.txt 1 254 
+carry Magnetic_flux.txt 2 337 345 
+electric Magnetic_flux.txt 7 702 772 839 846 851 863 890 
+surfaces Magnetic_flux.txt 2 544 548 
+coils Magnetic_flux.txt 2 84 96 
+what Magnetic_flux.txt 1 207 
+visualize Magnetic_flux.txt 2 228 237 
+for Magnetic_flux.txt 12 9 329 441 584 588 647 652 664 749 788 862 925 
+flux Magnetic_flux.txt 30 1 8 15 28 57 74 101 107 138 167 245 269 297 362 390 411 451 483 510 534 603 658 713 723 741 756 821 847 852 874 
+since Magnetic_flux.txt 1 220 
+wikipedia Magnetic_flux.txt 1 2 
+integration Magnetic_flux.txt 1 150 
+per Magnetic_flux.txt 1 795 
+fluxmeter Magnetic_flux.txt 1 80 
+current Magnetic_flux.txt 1 773 
+behind Magnetic_flux.txt 1 831 
+magnitude Magnetic_flux.txt 1 404 
+closed Magnetic_flux.txt 7 537 543 606 613 654 716 879 
+between Magnetic_flux.txt 1 430 
+denoted Magnetic_flux.txt 2 30 531 
+new Magnetic_flux.txt 1 917 
+electronics Magnetic_flux.txt 1 86 
+induced Magnetic_flux.txt 1 701 
+induction Magnetic_flux.txt 1 748 
+red Magnetic_flux.txt 1 579 
+measuring Magnetic_flux.txt 2 83 95 
+be Magnetic_flux.txt 8 130 133 271 274 466 474 513 730 
+we Magnetic_flux.txt 2 446 460 
+terms Magnetic_flux.txt 1 188 
+wb Magnetic_flux.txt 1 61 
+presence Magnetic_flux.txt 1 888 
+never Magnetic_flux.txt 1 639 
+component Magnetic_flux.txt 3 42 174 373 
+perpendicular Magnetic_flux.txt 1 438 
+free Magnetic_flux.txt 1 894 
+quite Magnetic_flux.txt 1 225 
+browne Magnetic_flux.txt 1 922 
+broken Magnetic_flux.txt 1 475 
+magnetism Magnetic_flux.txt 4 585 589 648 911 
+test Magnetic_flux.txt 1 806 
+gausss Magnetic_flux.txt 5 582 586 645 854 860 
+york Magnetic_flux.txt 1 918 
+although Magnetic_flux.txt 1 285 
+article Magnetic_flux.txt 3 4 581 744 
+along Magnetic_flux.txt 2 179 671 
+equations Magnetic_flux.txt 3 597 787 868 
+by Magnetic_flux.txt 5 691 705 781 837 856 
+change Magnetic_flux.txt 3 90 752 818 
+on Magnetic_flux.txt 2 116 153 
+about Magnetic_flux.txt 1 6 
+interaction Magnetic_flux.txt 1 184 
+boundarys Magnetic_flux.txt 1 680 
+maxwells Magnetic_flux.txt 2 596 867 
+of Magnetic_flux.txt 34 39 43 55 91 144 175 189 258 278 302 370 374 395 405 416 423 495 505 525 542 552 556 560 569 593 631 678 747 761 819 858 866 875 889 
+words Magnetic_flux.txt 1 644 
+equal Magnetic_flux.txt 1 609 
+experience Magnetic_flux.txt 1 213 
+minus Magnetic_flux.txt 1 318 
+motion Magnetic_flux.txt 1 681 
+s Magnetic_flux.txt 8 398 419 440 458 471 528 532 656 
+misleading Magnetic_flux.txt 1 287 
+purcell Magnetic_flux.txt 1 904 
+done Magnetic_flux.txt 1 798 
+usually Magnetic_flux.txt 1 76 
+distinction Magnetic_flux.txt 1 289 
+passing Magnetic_flux.txt 9 48 261 281 305 313 321 378 391 757 
+definition Magnetic_flux.txt 1 494 
+or Magnetic_flux.txt 2 31 896 
+first Magnetic_flux.txt 2 230 447 
+wire Magnetic_flux.txt 1 763 
+locally Magnetic_flux.txt 1 134 
+isbn Magnetic_flux.txt 2 920 933 
+firstly Magnetic_flux.txt 1 792 
+point Magnetic_flux.txt 4 152 170 195 216 
+precisely Magnetic_flux.txt 1 275 
+maxwell Magnetic_flux.txt 1 72 
+into Magnetic_flux.txt 2 120 476 
+integral Magnetic_flux.txt 4 38 369 491 519 
+number Magnetic_flux.txt 5 257 277 301 312 320 
+morin Magnetic_flux.txt 1 907 
+one Magnetic_flux.txt 3 234 316 592 
+square Magnetic_flux.txt 1 566 
+simplified Magnetic_flux.txt 1 251 
+been Magnetic_flux.txt 1 640 
+another Magnetic_flux.txt 1 865 
+coil Magnetic_flux.txt 1 840 
+summation Magnetic_flux.txt 1 143 
+associated Magnetic_flux.txt 2 157 201 
+total Magnetic_flux.txt 3 137 481 601 
+open Magnetic_flux.txt 5 547 661 666 726 824 
+volt-seconds Magnetic_flux.txt 1 65 
+unit Magnetic_flux.txt 4 54 69 415 796 
+technically Magnetic_flux.txt 1 286 
+are Magnetic_flux.txt 1 791 
+given Magnetic_flux.txt 1 780 
+three Magnetic_flux.txt 1 842 
+described Magnetic_flux.txt 1 186 
+would Magnetic_flux.txt 1 212 
+area Magnetic_flux.txt 4 397 422 455 835 
+always Magnetic_flux.txt 2 719 883 
+positive Magnetic_flux.txt 2 339 895 
+contains Magnetic_flux.txt 1 82 
+negative Magnetic_flux.txt 2 347 897 
+specifically Magnetic_flux.txt 1 24 
+tesla Magnetic_flux.txt 1 418 
+edward Magnetic_flux.txt 1 905 
+therefore Magnetic_flux.txt 1 770 
+statement Magnetic_flux.txt 1 651 
+h Magnetic_flux.txt 1 18 
+taken Magnetic_flux.txt 1 521 
+978-1-107-01402-2 Magnetic_flux.txt 1 921 
+more Magnetic_flux.txt 1 350 
+direction Magnetic_flux.txt 5 160 181 317 326 333 
+way Magnetic_flux.txt 1 857 
+relationship Magnetic_flux.txt 1 778 
+that Magnetic_flux.txt 14 50 87 205 215 263 283 294 307 309 599 618 635 872 892 
+cgs Magnetic_flux.txt 1 68 
+mcgraw-hill/schaum Magnetic_flux.txt 1 931 
+faradays Magnetic_flux.txt 2 745 782 
+hemisphere Magnetic_flux.txt 1 571 
+properly Magnetic_flux.txt 1 364 
+external Magnetic_flux.txt 1 935 
+varying Magnetic_flux.txt 1 443 
+line Magnetic_flux.txt 2 355 518 
+with Magnetic_flux.txt 8 78 158 202 240 623 682 841 845 
+also Magnetic_flux.txt 2 512 900 
+b Magnetic_flux.txt 4 13 47 401 689 
+determines Magnetic_flux.txt 1 206 
+f Magnetic_flux.txt 1 694 
+these Magnetic_flux.txt 1 145 
+science Magnetic_flux.txt 1 928 
+equation Magnetic_flux.txt 1 827 
+work Magnetic_flux.txt 1 794 
+zero Magnetic_flux.txt 4 611 720 731 884 
+will Magnetic_flux.txt 1 764 
+charges Magnetic_flux.txt 1 898 
+below Magnetic_flux.txt 1 328 
+infinitesimal Magnetic_flux.txt 2 454 477 
+can Magnetic_flux.txt 2 129 472 
+empirical Magnetic_flux.txt 1 633 
+evaluates Magnetic_flux.txt 1 88 
+edition Magnetic_flux.txt 2 913 930 
+called Magnetic_flux.txt 1 161 
+loop Magnetic_flux.txt 2 760 776 
+dropped Magnetic_flux.txt 1 358 
+and Magnetic_flux.txt 19 17 66 85 198 341 359 426 435 479 501 546 699 732 769 814 853 906 910 927 
+deciding Magnetic_flux.txt 1 330 
+references Magnetic_flux.txt 1 902 
+v Magnetic_flux.txt 1 684 
+constant Magnetic_flux.txt 3 135 387 467 
+defined Magnetic_flux.txt 4 272 365 514 836 
+holes Magnetic_flux.txt 1 625 
+is Magnetic_flux.txt 41 5 35 58 70 75 114 139 156 171 185 200 224 253 290 298 310 357 363 386 399 402 420 427 487 520 530 574 578 591 608 615 628 649 675 718 733 779 828 869 881 893 
+surface Magnetic_flux.txt 41 34 37 51 119 122 146 149 155 163 248 264 284 308 368 381 394 425 470 486 490 527 538 551 555 559 565 567 568 573 607 614 617 655 662 667 673 717 727 812 825 880 
+an Magnetic_flux.txt 9 453 660 665 725 734 766 771 832 838 
+states Magnetic_flux.txt 1 598 
+sphere Magnetic_flux.txt 1 554 
+as Magnetic_flux.txt 3 366 515 816 
+lorentz Magnetic_flux.txt 2 218 801 
+at Magnetic_flux.txt 2 214 229 
+have Magnetic_flux.txt 1 638 
+in Magnetic_flux.txt 19 22 62 93 187 196 231 249 265 315 323 331 342 349 642 696 737 753 774 803 
+need Magnetic_flux.txt 1 728 
+curl Magnetic_flux.txt 1 507 
+david Magnetic_flux.txt 1 908 
+any Magnetic_flux.txt 1 653 
+contents Magnetic_flux.txt 1 102 
+if Magnetic_flux.txt 1 382 
+angle Magnetic_flux.txt 1 429 
+no Magnetic_flux.txt 1 624 
+generic Magnetic_flux.txt 2 469 693 
+wb/m Magnetic_flux.txt 1 417 
+while Magnetic_flux.txt 1 710 
+note Magnetic_flux.txt 2 293 871 
+field Magnetic_flux.txt 24 21 46 113 128 178 192 223 239 241 259 279 303 335 354 377 385 408 433 445 464 688 695 703 709 
+articles Magnetic_flux.txt 2 850 936 
+other Magnetic_flux.txt 2 325 643 
+electrical Magnetic_flux.txt 1 833 
+which Magnetic_flux.txt 6 81 125 332 343 529 590 
+units Magnetic_flux.txt 1 64 
+instead Magnetic_flux.txt 1 236 
+difficult Magnetic_flux.txt 1 226 
+picture Magnetic_flux.txt 1 252 
+elements Magnetic_flux.txt 3 123 147 478 
+description Magnetic_flux.txt 1 103 
+surfacewhen Magnetic_flux.txt 1 110 
+normal Magnetic_flux.txt 4 41 164 372 437 
+may Magnetic_flux.txt 4 235 270 461 511 
+blue Magnetic_flux.txt 1 575 
+derived Magnetic_flux.txt 1 63 
+2013 Magnetic_flux.txt 1 919 
+3rd Magnetic_flux.txt 1 912 
+diagram Magnetic_flux.txt 1 698 
+consequence Magnetic_flux.txt 1 630 
+important Magnetic_flux.txt 2 292 735 
+moving Magnetic_flux.txt 3 210 804 811 
+two Magnetic_flux.txt 1 786 
+electromotive Magnetic_flux.txt 2 669 767 
+changing Magnetic_flux.txt 2 707 739 
+law Magnetic_flux.txt 8 583 587 627 646 746 783 855 861 
+measured Magnetic_flux.txt 1 77 
+2008 Magnetic_flux.txt 1 932 
+engineering Magnetic_flux.txt 1 926 
+electromagnetism Magnetic_flux.txt 2 25 738 
+a Magnetic_flux.txt 35 33 79 109 141 154 159 169 190 203 209 221 338 346 380 393 442 468 500 536 553 557 561 570 605 612 616 621 629 676 686 715 751 759 805 878 
+cause Magnetic_flux.txt 1 765 
+e Magnetic_flux.txt 1 876 
+observation Magnetic_flux.txt 1 634 
+possibly Magnetic_flux.txt 1 810 
+considered Magnetic_flux.txt 1 131 
+torus Magnetic_flux.txt 1 558 
+space Magnetic_flux.txt 1 197 
+lines Magnetic_flux.txt 6 242 260 280 304 336 434 
+element Magnetic_flux.txt 1 456 
+si Magnetic_flux.txt 1 53 
+principle Magnetic_flux.txt 1 830 
+fundamental Magnetic_flux.txt 1 503 
+time Magnetic_flux.txt 1 199 
+variablerelies Magnetic_flux.txt 1 115 
+velocity Magnetic_flux.txt 1 683 
+the Magnetic_flux.txt 89 10 26 36 40 44 52 59 67 71 89 94 99 105 111 118 126 136 162 165 173 176 182 243 256 268 276 295 299 311 319 324 334 353 360 367 371 375 383 388 403 406 409 414 421 424 428 431 436 449 463 480 485 489 493 496 502 506 508 517 523 526 572 576 594 600 632 650 668 672 679 692 697 700 706 711 721 754 775 777 785 789 793 800 809 817 823 829 873 887 
+quantity Magnetic_flux.txt 1 736 
+physics Magnetic_flux.txt 4 23 233 352 924 
+having Magnetic_flux.txt 1 413 
+turns Magnetic_flux.txt 1 843 
+left Magnetic_flux.txt 2 545 550 

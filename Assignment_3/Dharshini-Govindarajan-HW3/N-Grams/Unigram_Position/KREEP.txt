@@ -1,0 +1,249 @@
+intensity KREEP.txt 1 500 
+show KREEP.txt 1 462 
+percent KREEP.txt 1 107 
+kreep-rich KREEP.txt 1 319 
+mission KREEP.txt 1 368 
+ejecta KREEP.txt 1 474 
+years KREEP.txt 1 188 
+longevity KREEP.txt 1 498 
+orientale KREEP.txt 1 456 
+imbrium KREEP.txt 1 417 
+atomic KREEP.txt 1 28 
+earth KREEP.txt 2 183 203 
+its KREEP.txt 2 51 285 
+before KREEP.txt 1 366 
+impact KREEP.txt 1 46 
+25 KREEP.txt 1 117 
+certainly KREEP.txt 1 494 
+unique KREEP.txt 1 421 
+20 KREEP.txt 1 115 
+density KREEP.txt 1 287 
+with KREEP.txt 1 14 
+mantle KREEP.txt 4 267 332 448 486 
+had KREEP.txt 1 382 
+geological KREEP.txt 1 423 
+to KREEP.txt 8 89 116 133 168 208 260 263 280 
+pyroxene KREEP.txt 1 256 
+basaltic KREEP.txt 1 49 
+location KREEP.txt 1 16 
+rich KREEP.txt 1 359 
+struck KREEP.txt 1 181 
+has KREEP.txt 2 147 222 
+around KREEP.txt 1 201 
+far KREEP.txt 1 435 
+rock KREEP.txt 2 198 249 
+possible KREEP.txt 1 142 
+floated KREEP.txt 1 289 
+oxides KREEP.txt 1 114 
+possibly KREEP.txt 1 446 
+during KREEP.txt 1 74 
+now KREEP.txt 2 165 427 
+minerals KREEP.txt 1 251 
+categories KREEP.txt 2 518 520 
+enhancement KREEP.txt 1 476 
+processes KREEP.txt 1 337 
+on-board KREEP.txt 1 399 
+rocky KREEP.txt 1 174 
+edit KREEP.txt 6 98 144 365 512 514 517 
+rocks KREEP.txt 3 50 358 406 
+large KREEP.txt 2 194 227 
+p KREEP.txt 1 36 
+volcanism KREEP.txt 1 503 
+mapped KREEP.txt 1 8 
+found KREEP.txt 1 138 
+beneath KREEP.txt 1 389 
+olivine KREEP.txt 1 254 
+spectrometer KREEP.txt 1 398 
+rubidium KREEP.txt 1 122 
+kreep KREEP.txt 10 0 18 19 103 154 361 380 432 469 490 
+gamma-ray KREEP.txt 1 397 
+energy KREEP.txt 1 215 
+some KREEP.txt 1 44 
+concentrations KREEP.txt 2 3 137 
+namely KREEP.txt 1 82 
+nearside KREEP.txt 1 506 
+are KREEP.txt 3 68 297 407 
+enhanced KREEP.txt 1 57 
+procellarum KREEP.txt 3 413 431 489 
+little KREEP.txt 1 464 
+poleaitken KREEP.txt 1 460 
+south KREEP.txt 1 459 
+ultimately KREEP.txt 1 205 
+and/or KREEP.txt 1 484 
+for KREEP.txt 4 30 37 335 496 
+incompatible KREEP.txt 2 64 299 
+deeply KREEP.txt 1 441 
+measurements KREEP.txt 2 364 394 
+wikipedia KREEP.txt 1 1 
+per KREEP.txt 1 119 
+moon KREEP.txt 5 6 162 211 231 509 
+300 KREEP.txt 1 132 
+contained KREEP.txt 1 156 
+lunar KREEP.txt 9 10 45 240 266 349 362 370 372 422 
+between KREEP.txt 1 328 
+underneath KREEP.txt 1 410 
+kreep-containing KREEP.txt 1 405 
+ree KREEP.txt 1 32 
+be KREEP.txt 1 169 
+after KREEP.txt 1 268 
+rims KREEP.txt 1 472 
+acronym KREEP.txt 1 21 
+gathered KREEP.txt 1 206 
+million KREEP.txt 1 120 
+component KREEP.txt 1 42 
+thorium KREEP.txt 3 2 12 85 
+breccia KREEP.txt 1 47 
+however KREEP.txt 1 392 
+highly KREEP.txt 1 341 
+broken KREEP.txt 1 197 
+proceeded KREEP.txt 1 250 
+solid KREEP.txt 1 292 
+crust KREEP.txt 6 293 330 346 391 444 483 
+by KREEP.txt 2 9 108 
+deduced KREEP.txt 2 149 224 
+concentrated KREEP.txt 3 69 313 409 
+on KREEP.txt 2 4 504 
+about KREEP.txt 3 105 184 272 
+hidden KREEP.txt 1 519 
+of KREEP.txt 26 17 43 59 62 91 102 110 121 126 153 160 172 178 196 229 246 284 344 347 356 369 468 477 487 501 507 
+k KREEP.txt 2 26 94 
+hence KREEP.txt 1 294 
+commonly KREEP.txt 2 166 376 
+times KREEP.txt 1 135 
+amount KREEP.txt 1 195 
+plagioclase KREEP.txt 1 278 
+geochemical KREEP.txt 1 41 
+4.510 KREEP.txt 1 187 
+comes KREEP.txt 1 338 
+first KREEP.txt 1 327 
+origin KREEP.txt 3 143 152 159 
+letters KREEP.txt 1 25 
+ago KREEP.txt 1 189 
+presence KREEP.txt 2 90 355 
+basins KREEP.txt 1 434 
+material KREEP.txt 1 276 
+into KREEP.txt 3 199 314 442 
+within KREEP.txt 2 470 481 
+one KREEP.txt 1 106 
+because KREEP.txt 1 283 
+references KREEP.txt 1 513 
+primarily KREEP.txt 1 408 
+i.e KREEP.txt 1 300 
+dug KREEP.txt 1 440 
+heat-producing KREEP.txt 1 478 
+size KREEP.txt 1 177 
+mare KREEP.txt 4 416 452 455 502 
+given KREEP.txt 1 212 
+or KREEP.txt 2 465 473 
+from KREEP.txt 4 23 339 395 436 
+enhancements KREEP.txt 1 467 
+would KREEP.txt 3 219 232 309 
+crystallization KREEP.txt 2 76 245 
+due KREEP.txt 1 88 
+been KREEP.txt 5 148 223 234 311 383 
+prospector KREEP.txt 3 11 363 371 
+their KREEP.txt 1 471 
+low KREEP.txt 1 286 
+mars KREEP.txt 1 179 
+basin KREEP.txt 1 461 
+was KREEP.txt 4 271 321 324 375 
+threw KREEP.txt 1 192 
+billion KREEP.txt 1 186 
+only KREEP.txt 1 463 
+complete KREEP.txt 1 274 
+form KREEP.txt 2 209 264 
+that KREEP.txt 12 67 130 150 180 225 296 302 323 378 403 425 439 
+forming KREEP.txt 1 290 
+potassium KREEP.txt 3 31 87 111 
+formed KREEP.txt 3 238 322 384 
+heat KREEP.txt 1 79 
+external KREEP.txt 1 515 
+somewhat KREEP.txt 1 56 
+known KREEP.txt 1 428 
+evidence KREEP.txt 1 334 
+producing KREEP.txt 1 80 
+liquified KREEP.txt 1 235 
+those KREEP.txt 2 66 301 
+involve KREEP.txt 1 220 
+showed KREEP.txt 1 402 
+lanthanum KREEP.txt 1 129 
+this KREEP.txt 8 163 190 204 237 247 400 418 437 
+also KREEP.txt 1 511 
+magma KREEP.txt 4 75 241 316 320 
+terrane KREEP.txt 2 433 491 
+anorthositic KREEP.txt 2 277 342 
+solidification KREEP.txt 1 270 
+precipitated KREEP.txt 1 257 
+result KREEP.txt 1 171 
+and KREEP.txt 15 35 48 77 86 112 123 236 255 258 282 331 414 445 457 499 
+layer KREEP.txt 1 388 
+partition KREEP.txt 1 304 
+links KREEP.txt 1 516 
+almost KREEP.txt 1 493 
+is KREEP.txt 8 39 55 131 155 164 419 426 492 
+thus KREEP.txt 1 317 
+it KREEP.txt 4 146 221 288 374 
+an KREEP.txt 1 20 
+high KREEP.txt 1 214 
+collision KREEP.txt 2 191 218 
+as KREEP.txt 7 7 243 253 351 353 429 450 
+crisium KREEP.txt 1 453 
+sank KREEP.txt 1 259 
+have KREEP.txt 2 233 310 
+in KREEP.txt 6 70 139 157 305 360 385 
+concentration KREEP.txt 2 58 125 
+ocean KREEP.txt 1 242 
+usually KREEP.txt 2 298 303 
+contents KREEP.txt 1 95 
+4.5 KREEP.txt 1 185 
+these KREEP.txt 2 336 379 
+sandwiched KREEP.txt 1 325 
+built KREEP.txt 1 22 
+no KREEP.txt 1 466 
+began KREEP.txt 1 279 
+responsible KREEP.txt 1 495 
+uranium KREEP.txt 1 84 
+feature KREEP.txt 1 54 
+majority KREEP.txt 1 61 
+parts KREEP.txt 1 118 
+carbonaceous KREEP.txt 1 140 
+correlates KREEP.txt 1 13 
+widespread KREEP.txt 1 387 
+composition KREEP.txt 3 97 101 343 
+crystallize KREEP.txt 1 281 
+province KREEP.txt 2 424 438 
+rare-earth KREEP.txt 1 33 
+satellite KREEP.txt 2 373 401 
+elements KREEP.txt 5 34 65 81 295 480 
+see KREEP.txt 1 510 
+symbol KREEP.txt 1 29 
+object KREEP.txt 1 175 
+includes KREEP.txt 1 104 
+most KREEP.txt 1 52 
+75 KREEP.txt 1 273 
+oceanus KREEP.txt 1 412 
+significant KREEP.txt 1 53 
+phase KREEP.txt 2 73 308 
+such KREEP.txt 3 216 252 449 
+chondrites KREEP.txt 1 141 
+phosphorus KREEP.txt 2 38 113 
+a KREEP.txt 12 40 60 124 173 193 217 226 239 291 318 386 420 
+so-called KREEP.txt 1 63 
+highlands KREEP.txt 1 350 
+radioactive KREEP.txt 3 83 93 479 
+liquid KREEP.txt 3 72 248 307 
+bottom KREEP.txt 1 262 
+well KREEP.txt 1 352 
+orbit KREEP.txt 1 200 
+together KREEP.txt 1 207 
+element KREEP.txt 1 128 
+thought KREEP.txt 2 167 377 
+portion KREEP.txt 1 228 
+materials KREEP.txt 1 381 
+mass KREEP.txt 1 109 
+progressively KREEP.txt 1 312 
+350 KREEP.txt 1 134 
+at KREEP.txt 1 326 
+the KREEP.txt 54 5 15 24 27 71 78 92 99 127 136 151 158 161 170 176 182 202 210 213 230 244 261 265 269 275 306 315 329 333 340 345 348 354 357 367 390 393 396 404 411 415 430 443 447 451 454 458 475 482 485 488 497 505 508 
+indirectly KREEP.txt 1 145 
+typical KREEP.txt 2 96 100 

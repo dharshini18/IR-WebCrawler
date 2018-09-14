@@ -1,0 +1,427 @@
+all Hill_sphere.txt 1 469 
+earthmoon Hill_sphere.txt 1 791 
+eccentricity Hill_sphere.txt 2 357 378 
+centers Hill_sphere.txt 1 243 
+whose Hill_sphere.txt 1 1122 
+s/2001 Hill_sphere.txt 1 1170 
+to Hill_sphere.txt 18 26 74 112 144 210 223 423 644 707 710 785 788 908 946 1046 1071 1081 1120 
+stable Hill_sphere.txt 3 470 893 901 
+orbited Hill_sphere.txt 1 979 
+risk Hill_sphere.txt 1 458 
+categories Hill_sphere.txt 2 1271 1273 
+209458 Hill_sphere.txt 1 1184 
+large Hill_sphere.txt 3 45 923 938 
+1999 Hill_sphere.txt 1 1160 
+quick Hill_sphere.txt 1 731 
+smaller Hill_sphere.txt 5 166 336 368 565 1011 
+force Hill_sphere.txt 1 608 
+douard Hill_sphere.txt 1 196 
+oort Hill_sphere.txt 1 9 
+approximation Hill_sphere.txt 3 770 799 837 
+surrounding Hill_sphere.txt 1 42 
+second Hill_sphere.txt 4 254 286 518 769 
+compensates Hill_sphere.txt 1 1114 
+further Hill_sphere.txt 1 971 
+even Hill_sphere.txt 2 960 1204 
+sun Hill_sphere.txt 6 141 319 348 400 468 1112 
+above Hill_sphere.txt 5 632 653 717 749 994 
+expresses Hill_sphere.txt 1 500 
+body Hill_sphere.txt 11 49 167 177 255 316 337 346 369 570 606 1037 
+supporting Hill_sphere.txt 1 1060 
+extrasolar Hill_sphere.txt 2 1180 1208 
+5.9710 Hill_sphere.txt 1 396 
+french Hill_sphere.txt 1 194 
+water Hill_sphere.txt 1 1080 
+favourable Hill_sphere.txt 1 383 
+based Hill_sphere.txt 1 188 
+along Hill_sphere.txt 1 239 
+appears Hill_sphere.txt 1 899 
+104 Hill_sphere.txt 1 986 
+great Hill_sphere.txt 1 1108 
+larger Hill_sphere.txt 1 929 
+spheres Hill_sphere.txt 2 37 541 
+complicated Hill_sphere.txt 1 970 
+unit Hill_sphere.txt 1 413 
+plot Hill_sphere.txt 2 16 1249 
+from Hill_sphere.txt 9 173 440 589 727 742 925 940 1110 1132 
+would Hill_sphere.txt 6 95 110 292 305 1023 1068 
+two Hill_sphere.txt 3 44 246 540 
+pericenter Hill_sphere.txt 3 374 682 704 
+asteroid Hill_sphere.txt 3 1131 1134 1165 
+therefore Hill_sphere.txt 3 455 686 1227 
+6 Hill_sphere.txt 1 1075 
+more Hill_sphere.txt 6 152 175 959 969 1040 1073 
+0.775 Hill_sphere.txt 1 1105 
+1/3 Hill_sphere.txt 1 909 
+1/2 Hill_sphere.txt 1 907 
+becomes Hill_sphere.txt 2 389 648 
+keplerian Hill_sphere.txt 1 620 
+confused Hill_sphere.txt 1 212 
+mercury-crosser Hill_sphere.txt 1 1164 
+0.384 Hill_sphere.txt 1 437 
+cases Hill_sphere.txt 1 779 
+eccentricity-ignoring Hill_sphere.txt 1 492 
+must Hill_sphere.txt 3 82 481 1038 
+preponderance Hill_sphere.txt 1 949 
+10,000 Hill_sphere.txt 1 1225 
+this Hill_sphere.txt 8 199 388 499 798 808 858 943 1019 
+equation Hill_sphere.txt 2 633 750 
+work Hill_sphere.txt 2 191 816 
+centrifugal Hill_sphere.txt 1 555 
+can Hill_sphere.txt 5 494 548 634 849 1142 
+following Hill_sphere.txt 1 1247 
+example Hill_sphere.txt 3 222 393 695 
+links Hill_sphere.txt 1 1269 
+stated Hill_sphere.txt 1 652 
+purposes Hill_sphere.txt 1 688 
+respective Hill_sphere.txt 1 1240 
+sphere Hill_sphere.txt 27 1 52 92 101 138 157 161 208 228 275 303 365 417 447 480 511 740 833 857 890 1000 1017 1052 1140 1157 1189 1215 
+minimum Hill_sphere.txt 1 679 
+prograde Hill_sphere.txt 1 934 
+axis Hill_sphere.txt 1 354 
+needs Hill_sphere.txt 1 706 
+corot-7b Hill_sphere.txt 1 1210 
+rather Hill_sphere.txt 1 119 
+acts Hill_sphere.txt 1 264 
+astronomers Hill_sphere.txt 1 815 
+hot Hill_sphere.txt 1 1181 
+elliptical Hill_sphere.txt 1 666 
+circular Hill_sphere.txt 1 40 
+galactic Hill_sphere.txt 1 149 
+replacing Hill_sphere.txt 1 743 
+orbits Hill_sphere.txt 6 343 398 883 903 920 935 
+such Hill_sphere.txt 1 841 
+a Hill_sphere.txt 31 14 22 71 78 80 99 114 165 174 279 288 344 352 404 434 559 587 641 730 922 937 958 1016 1035 1063 1138 1163 1168 1178 1187 1213 
+remember Hill_sphere.txt 1 819 
+third Hill_sphere.txt 2 280 859 
+negligible Hill_sphere.txt 1 380 
+progressively Hill_sphere.txt 1 307 
+decreasing Hill_sphere.txt 1 1153 
+pulled Hill_sphere.txt 1 461 
+order Hill_sphere.txt 3 646 712 1045 
+typical Hill_sphere.txt 1 1179 
+approx Hill_sphere.txt 2 1201 1224 
+ceres Hill_sphere.txt 1 1149 
+astronomical Hill_sphere.txt 2 48 412 
+stability Hill_sphere.txt 4 387 690 829 917 
+through Hill_sphere.txt 2 640 874 
+still Hill_sphere.txt 1 1211 
+its Hill_sphere.txt 10 103 298 875 998 1049 1085 1107 1116 1197 1221 
+close-in Hill_sphere.txt 1 1207 
+regions Hill_sphere.txt 1 41 
+outer Hill_sphere.txt 1 65 
+fit Hill_sphere.txt 1 1047 
+masses Hill_sphere.txt 3 46 529 576 
+attraction Hill_sphere.txt 1 61 
+constitutes Hill_sphere.txt 1 70 
+hidden Hill_sphere.txt 1 1272 
+eventually Hill_sphere.txt 2 320 850 
+shuttle Hill_sphere.txt 2 982 1014 
+not Hill_sphere.txt 5 209 456 892 977 1237 
+represents Hill_sphere.txt 1 719 
+term Hill_sphere.txt 1 897 
+edit Hill_sphere.txt 7 330 830 973 1245 1265 1267 1270 
+l Hill_sphere.txt 3 234 236 726 
+found Hill_sphere.txt 1 550 
+two-body Hill_sphere.txt 1 23 
+approximates Hill_sphere.txt 1 158 
+beyond Hill_sphere.txt 1 276 
+out Hill_sphere.txt 2 422 854 
+dominates Hill_sphere.txt 1 59 
+space Hill_sphere.txt 1 981 
+lagrangian Hill_sphere.txt 2 232 724 
+george Hill_sphere.txt 1 185 
+particles Hill_sphere.txt 1 693 
+acting Hill_sphere.txt 1 557 
+hill Hill_sphere.txt 32 0 36 51 91 100 137 156 187 227 274 302 364 416 479 510 546 668 700 715 739 832 889 912 999 1051 1096 1124 1139 1156 1188 1214 1252 
+formula Hill_sphere.txt 2 327 493 
+shows Hill_sphere.txt 1 1250 
+written Hill_sphere.txt 1 637 
+million Hill_sphere.txt 5 408 426 438 1102 1128 
+geostationary Hill_sphere.txt 1 1065 
+semi-major Hill_sphere.txt 1 353 
+reason Hill_sphere.txt 1 200 
+zero-velocity Hill_sphere.txt 1 72 
+apocenter Hill_sphere.txt 1 674 
+shortest Hill_sphere.txt 1 257 
+retained Hill_sphere.txt 1 76 
+e.g Hill_sphere.txt 5 287 317 338 347 370 
+could Hill_sphere.txt 2 976 1230 
+times Hill_sphere.txt 3 532 1196 1220 
+turn Hill_sphere.txt 1 97 
+american Hill_sphere.txt 1 183 
+massive Hill_sphere.txt 1 176 
+hence Hill_sphere.txt 1 649 
+support Hill_sphere.txt 1 1082 
+first Hill_sphere.txt 1 523 
+perturb Hill_sphere.txt 1 851 
+primary Hill_sphere.txt 6 602 628 664 759 927 942 
+one Hill_sphere.txt 4 31 125 411 789 
+least Hill_sphere.txt 1 295 
+angular Hill_sphere.txt 1 621 
+size Hill_sphere.txt 2 271 1020 
+equating Hill_sphere.txt 1 552 
+earths Hill_sphere.txt 2 226 478 
+long Hill_sphere.txt 1 896 
+leading Hill_sphere.txt 2 645 711 
+0.01 Hill_sphere.txt 1 428 
+system Hill_sphere.txt 7 24 134 783 792 1090 1244 1262 
+approximately Hill_sphere.txt 1 376 
+roche Hill_sphere.txt 5 197 207 215 218 1241 
+their Hill_sphere.txt 2 766 1239 
+perturbations Hill_sphere.txt 1 172 
+calculations Hill_sphere.txt 1 880 
+which Hill_sphere.txt 3 57 237 639 
+bodys Hill_sphere.txt 1 519 
+low Hill_sphere.txt 1 1032 
+shell Hill_sphere.txt 1 66 
+way Hill_sphere.txt 1 732 
+that Hill_sphere.txt 18 68 86 93 108 259 277 572 580 611 630 655 776 868 882 900 1002 1141 1166 
+part Hill_sphere.txt 2 6 296 
+than Hill_sphere.txt 8 120 487 566 930 1012 1026 1042 1074 
+distance Hill_sphere.txt 11 109 278 405 435 574 588 705 721 924 939 1109 
+b Hill_sphere.txt 1 1185 
+effective Hill_sphere.txt 1 19 
+limiting Hill_sphere.txt 1 267 
+and Hill_sphere.txt 23 28 147 235 261 304 328 341 355 452 554 577 579 603 617 678 752 760 763 764 797 818 838 1021 
+1.5 Hill_sphere.txt 1 425 
+comfortably Hill_sphere.txt 1 443 
+have Hill_sphere.txt 6 83 98 482 978 1137 1231 
+need Hill_sphere.txt 1 1070 
+any Hill_sphere.txt 2 105 1031 
+contents Hill_sphere.txt 1 326 
+lie Hill_sphere.txt 1 238 
+convenient Hill_sphere.txt 1 811 
+latter Hill_sphere.txt 1 325 
+gravity Hill_sphere.txt 2 27 877 
+mix Hill_sphere.txt 1 961 
+potential Hill_sphere.txt 1 20 
+forces Hill_sphere.txt 3 312 556 840 
+so Hill_sphere.txt 2 262 965 
+object Hill_sphere.txt 4 106 281 853 860 
+reach Hill_sphere.txt 1 1143 
+most Hill_sphere.txt 3 382 778 804 
+eight Hill_sphere.txt 1 1195 
+known Hill_sphere.txt 1 204 
+kg Hill_sphere.txt 2 397 402 
+considered Hill_sphere.txt 1 709 
+average Hill_sphere.txt 1 755 
+km Hill_sphere.txt 13 409 427 439 993 1103 1129 1146 1175 1193 1203 1218 1226 1255 
+face Hill_sphere.txt 1 170 
+points Hill_sphere.txt 1 233 
+kw Hill_sphere.txt 1 1161 
+velocity Hill_sphere.txt 1 622 
+fact Hill_sphere.txt 2 775 1029 
+precise Hill_sphere.txt 1 153 
+planetary Hill_sphere.txt 2 814 824 
+show Hill_sphere.txt 1 881 
+ending Hill_sphere.txt 1 321 
+radii Hill_sphere.txt 2 767 825 
+relation Hill_sphere.txt 2 502 651 
+earth Hill_sphere.txt 10 339 371 392 395 419 441 451 474 996 1033 
+ratio Hill_sphere.txt 2 526 534 
+with Hill_sphere.txt 9 142 213 351 513 745 983 1093 1100 1152 
+explain Hill_sphere.txt 1 947 
+enough Hill_sphere.txt 1 866 
+should Hill_sphere.txt 1 861 
+only Hill_sphere.txt 4 835 905 1005 1069 
+factor Hill_sphere.txt 1 268 
+local Hill_sphere.txt 1 145 
+61,000 Hill_sphere.txt 1 1217 
+lobe Hill_sphere.txt 1 219 
+between Hill_sphere.txt 2 230 575 
+120 Hill_sphere.txt 1 1006 
+saturn Hill_sphere.txt 1 956 
+secondary Hill_sphere.txt 7 569 591 605 625 661 729 761 
+densities Hill_sphere.txt 1 756 
+1.9910 Hill_sphere.txt 1 401 
+where Hill_sphere.txt 4 612 675 751 988 
+gravitational Hill_sphere.txt 4 160 446 553 615 
+view Hill_sphere.txt 1 127 
+up Hill_sphere.txt 1 322 
+relative Hill_sphere.txt 1 1119 
+see Hill_sphere.txt 2 11 1263 
+radius Hill_sphere.txt 16 361 547 669 701 716 736 913 1009 1097 1125 1177 1190 1199 1216 1223 1253 
+are Hill_sphere.txt 5 38 753 765 891 968 
+close Hill_sphere.txt 2 787 1234 
+contour Hill_sphere.txt 1 15 
+wikipedia Hill_sphere.txt 1 2 
+tend Hill_sphere.txt 1 111 
+outside Hill_sphere.txt 1 300 
+smallest Hill_sphere.txt 1 1206 
+moons Hill_sphere.txt 4 431 952 964 1233 
+orbiting Hill_sphere.txt 3 323 567 585 
+limit Hill_sphere.txt 1 216 
+justified Hill_sphere.txt 1 772 
+notice Hill_sphere.txt 1 654 
+terms Hill_sphere.txt 2 154 504 
+however Hill_sphere.txt 2 955 1067 
+rapidly Hill_sphere.txt 1 1151 
+extent Hill_sphere.txt 1 130 
+20 Hill_sphere.txt 1 802 
+inertia Hill_sphere.txt 1 29 
+22 Hill_sphere.txt 1 1174 
+limits Hill_sphere.txt 1 1242 
+many Hill_sphere.txt 1 813 
+region Hill_sphere.txt 6 55 69 249 827 915 932 
+s Hill_sphere.txt 1 50 
+retrograde Hill_sphere.txt 2 919 951 
+expression Hill_sphere.txt 1 543 
+comes Hill_sphere.txt 1 741 
+cm Hill_sphere.txt 1 1007 
+point Hill_sphere.txt 2 32 725 
+simple Hill_sphere.txt 1 126 
+period Hill_sphere.txt 1 485 
+respect Hill_sphere.txt 1 143 
+belt Hill_sphere.txt 1 1135 
+estimating Hill_sphere.txt 1 734 
+due Hill_sphere.txt 1 25 
+much Hill_sphere.txt 2 564 1010 
+logarithmic Hill_sphere.txt 1 1248 
+direction Hill_sphere.txt 1 260 
+else Hill_sphere.txt 1 1054 
+external Hill_sphere.txt 1 1268 
+those Hill_sphere.txt 1 475 
+case Hill_sphere.txt 1 384 
+exception Hill_sphere.txt 1 796 
+has Hill_sphere.txt 4 957 1167 1186 1212 
+these Hill_sphere.txt 2 539 1228 
+retrograde/prograde Hill_sphere.txt 1 963 
+will Hill_sphere.txt 2 1056 1136 
+exist Hill_sphere.txt 1 904 
+balance Hill_sphere.txt 1 609 
+seven Hill_sphere.txt 1 488 
+yarkovsky Hill_sphere.txt 1 847 
+then Hill_sphere.txt 1 359 
+is Hill_sphere.txt 25 53 135 202 256 340 375 379 442 454 530 578 584 596 613 618 665 670 676 771 793 800 809 834 928 1098 
+thus Hill_sphere.txt 1 420 
+it Hill_sphere.txt 9 58 178 201 263 342 453 869 898 1055 
+surface Hill_sphere.txt 1 73 
+itself Hill_sphere.txt 2 124 1015 
+in Hill_sphere.txt 24 33 56 96 151 168 220 258 282 390 503 647 713 747 780 817 821 894 1008 1028 1030 1044 1176 1235 1254 
+if Hill_sphere.txt 2 331 656 
+orbital Hill_sphere.txt 2 386 484 
+radiation Hill_sphere.txt 1 843 
+shorter Hill_sphere.txt 1 486 
+largest Hill_sphere.txt 3 677 795 1095 
+units Hill_sphere.txt 1 822 
+independent Hill_sphere.txt 1 464 
+satellite Hill_sphere.txt 4 115 289 902 1066 
+149.6 Hill_sphere.txt 1 407 
+numerical Hill_sphere.txt 1 879 
+effect Hill_sphere.txt 1 848 
+000 Hill_sphere.txt 1 1145 
+six Hill_sphere.txt 1 1219 
+neptune Hill_sphere.txt 1 1099 
+thought Hill_sphere.txt 1 945 
+1 Hill_sphere.txt 2 1148 1172 
+incapable Hill_sphere.txt 1 1058 
+the Hill_sphere.txt 134 4 8 18 35 39 43 54 60 64 89 117 122 129 132 136 140 148 155 159 169 182 190 193 206 214 221 224 231 240 245 248 253 266 270 273 285 301 310 314 318 324 332 335 360 363 367 381 391 394 399 415 430 445 467 473 477 490 501 506 509 514 517 522 525 528 533 536 542 545 568 573 581 590 593 598 601 604 607 614 619 624 627 631 650 657 660 663 667 673 681 684 699 703 714 720 723 728 735 738 748 754 758 768 774 781 790 794 831 846 856 888 895 911 914 926 931 941 948 966 980 989 995 1013 1077 1088 1091 1094 1111 1133 1155 1205 1246 1251 1260 
+spend Hill_sphere.txt 1 293 
+bodies Hill_sphere.txt 3 247 762 1258 
+spherical Hill_sphere.txt 2 1036 1064 
+distances Hill_sphere.txt 1 820 
+just Hill_sphere.txt 1 886 
+being Hill_sphere.txt 1 460 
+satellites Hill_sphere.txt 5 63 471 698 807 1083 
+previous Hill_sphere.txt 1 491 
+saturns Hill_sphere.txt 1 806 
+hills Hill_sphere.txt 1 12 
+density Hill_sphere.txt 2 746 1078 
+reasons Hill_sphere.txt 1 967 
+extends Hill_sphere.txt 2 229 421 
+4 Hill_sphere.txt 1 1162 
+heavier Hill_sphere.txt 1 345 
+around Hill_sphere.txt 4 284 466 521 953 
+66391 Hill_sphere.txt 2 1159 1171 
+denser Hill_sphere.txt 1 1025 
+amply Hill_sphere.txt 1 1113 
+particle Hill_sphere.txt 3 561 583 595 
+follows Hill_sphere.txt 1 498 
+53 Hill_sphere.txt 1 1127 
+become Hill_sphere.txt 1 113 
+right Hill_sphere.txt 1 225 
+some Hill_sphere.txt 1 1257 
+astronomer Hill_sphere.txt 2 184 195 
+116 Hill_sphere.txt 1 1101 
+jupiter Hill_sphere.txt 4 291 954 1121 1182 
+examples Hill_sphere.txt 2 329 972 
+small Hill_sphere.txt 4 697 865 1117 1232 
+happens Hill_sphere.txt 1 784 
+593,000 Hill_sphere.txt 1 1192 
+dense Hill_sphere.txt 1 1041 
+for Hill_sphere.txt 14 3 198 269 385 418 544 687 694 777 803 918 933 1115 1147 
+moon Hill_sphere.txt 4 81 94 118 1169 
+connecting Hill_sphere.txt 1 600 
+cloud Hill_sphere.txt 2 10 13 
+assuming Hill_sphere.txt 1 629 
+re-stated Hill_sphere.txt 1 496 
+be Hill_sphere.txt 13 75 211 306 495 549 636 708 786 863 1024 1039 1057 1072 
+measures Hill_sphere.txt 2 1126 1173 
+300 Hill_sphere.txt 1 992 
+diminishing Hill_sphere.txt 1 1150 
+expansion Hill_sphere.txt 1 643 
+pressure Hill_sphere.txt 1 844 
+binomial Hill_sphere.txt 1 642 
+although Hill_sphere.txt 1 1236 
+tidal Hill_sphere.txt 1 311 
+by Hill_sphere.txt 5 77 181 309 551 773 
+on Hill_sphere.txt 3 189 558 597 
+about Hill_sphere.txt 4 424 626 662 1194 
+central Hill_sphere.txt 1 315 
+of Hill_sphere.txt 71 7 17 21 62 67 102 116 121 128 131 139 162 164 171 192 242 244 250 252 272 290 297 313 334 349 358 362 366 406 436 448 450 459 472 505 508 516 527 535 538 562 623 659 683 689 691 696 722 733 737 757 805 823 828 855 864 910 916 950 962 985 1018 1059 1076 1079 1084 1158 1191 1200 1256 1259 
+months Hill_sphere.txt 1 489 
+introduces Hill_sphere.txt 1 870 
+or Hill_sphere.txt 6 217 410 845 885 1053 1104 
+perturbed Hill_sphere.txt 1 308 
+own Hill_sphere.txt 5 104 876 1050 1086 1123 
+into Hill_sphere.txt 1 462 
+within Hill_sphere.txt 8 88 107 444 476 801 887 1087 1238 
+three Hill_sphere.txt 1 531 
+lies Hill_sphere.txt 1 87 
+because Hill_sphere.txt 2 812 997 
+references Hill_sphere.txt 1 1266 
+additional Hill_sphere.txt 1 872 
+altitude Hill_sphere.txt 1 1003 
+specifically Hill_sphere.txt 1 524 
+inner Hill_sphere.txt 1 5 
+stars Hill_sphere.txt 1 146 
+was Hill_sphere.txt 4 179 944 991 1004 
+volume Hill_sphere.txt 3 507 515 537 
+solar Hill_sphere.txt 5 133 782 1089 1243 1261 
+line Hill_sphere.txt 2 241 599 
+true Hill_sphere.txt 1 826 
+hd Hill_sphere.txt 1 1183 
+220 Hill_sphere.txt 1 1144 
+also Hill_sphere.txt 6 203 635 718 810 862 1264 
+71,000 Hill_sphere.txt 1 1202 
+inside Hill_sphere.txt 2 906 1048 
+maximum Hill_sphere.txt 1 671 
+planet Hill_sphere.txt 4 79 123 1092 1209 
+complications Hill_sphere.txt 1 873 
+calculated Hill_sphere.txt 1 372 
+detailed Hill_sphere.txt 1 878 
+constant Hill_sphere.txt 1 616 
+defined Hill_sphere.txt 1 180 
+influence Hill_sphere.txt 3 163 251 449 
+an Hill_sphere.txt 10 47 84 356 463 483 836 852 974 1061 1130 
+as Hill_sphere.txt 5 205 265 497 638 842 
+au Hill_sphere.txt 3 414 429 1106 
+at Hill_sphere.txt 14 30 294 373 403 433 457 586 672 680 702 884 921 936 1001 
+planets Hill_sphere.txt 2 90 1229 
+physical Hill_sphere.txt 2 1198 1222 
+compared Hill_sphere.txt 1 512 
+no Hill_sphere.txt 1 871 
+when Hill_sphere.txt 2 377 592 
+other Hill_sphere.txt 1 839 
+astronaut Hill_sphere.txt 1 975 
+test Hill_sphere.txt 4 560 582 594 692 
+william Hill_sphere.txt 1 186 
+nucleus Hill_sphere.txt 1 150 
+lead Hill_sphere.txt 2 1027 1043 
+assume Hill_sphere.txt 1 571 
+orbit Hill_sphere.txt 11 85 283 299 432 465 520 658 685 990 1034 1062 
+mass Hill_sphere.txt 9 333 350 563 744 867 984 1022 1118 1154 
+time Hill_sphere.txt 1 34 
+tonnes Hill_sphere.txt 1 987 
+requires Hill_sphere.txt 1 610 

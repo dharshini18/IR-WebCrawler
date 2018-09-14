@@ -1,0 +1,1448 @@
+halebopp Solar_System.txt 2 4051 4166 
+magnetic Solar_System.txt 11 3122 3129 3148 3175 3192 3198 3215 3221 3256 5045 5138 
+yellow Solar_System.txt 1 5751 
+aphelia Solar_System.txt 2 4695 5716 
+four Solar_System.txt 15 131 151 362 732 764 875 889 916 933 1023 3453 3501 3859 3933 4836 
+heliocentric Solar_System.txt 2 589 604 
+tenuous Solar_System.txt 1 3062 
+consists Solar_System.txt 3 871 3018 4564 
+oldest Solar_System.txt 1 2961 
+poorly Solar_System.txt 1 5244 
+whose Solar_System.txt 1 3994 
+attracted Solar_System.txt 1 2150 
+investigation Solar_System.txt 1 678 
+under Solar_System.txt 1 1420 
+lack Solar_System.txt 1 5194 
+regional Solar_System.txt 1 1798 
+every Solar_System.txt 3 4542 4549 5827 
+govern Solar_System.txt 1 649 
+vastly Solar_System.txt 1 2620 
+vast Solar_System.txt 2 110 3012 
+disturb Solar_System.txt 1 3090 
+debris Solar_System.txt 2 2330 4387 
+enclosing Solar_System.txt 1 4337 
+venus Solar_System.txt 10 136 977 1690 2228 3142 3446 3504 3556 3562 3565 
+methane Solar_System.txt 3 212 1469 3815 
+force Solar_System.txt 2 2424 5589 
+estimates Solar_System.txt 1 5636 
+surrounding Solar_System.txt 3 2105 2579 5625 
+likely Solar_System.txt 4 2032 3313 5122 5420 
+charted Solar_System.txt 1 865 
+estimated Solar_System.txt 3 4415 4459 5618 
+blue Solar_System.txt 1 3753 
+selected Solar_System.txt 2 1933 6638 
+above Solar_System.txt 1 849 
+new Solar_System.txt 1 5357 
+ever Solar_System.txt 1 2156 
+consisting Solar_System.txt 3 955 4394 6084 
+never Solar_System.txt 1 2332 
+here Solar_System.txt 3 4969 6437 6658 
+atoms Solar_System.txt 1 2959 
+reported Solar_System.txt 2 5078 5101 
+path Solar_System.txt 1 5849 
+100 Solar_System.txt 3 1868 3073 5775 
+logarithmic Solar_System.txt 1 4788 
+light-year Solar_System.txt 2 5525 6256 
+k Solar_System.txt 1 2634 
+0.33 Solar_System.txt 1 1693 
+diameter Solar_System.txt 10 1879 1883 1901 2123 2608 3704 4018 4302 4469 5768 
+divide Solar_System.txt 1 904 
+highly Solar_System.txt 4 1198 4077 4711 5286 
+brought Solar_System.txt 1 3321 
+visible Solar_System.txt 2 2836 4128 
+remnant Solar_System.txt 1 2466 
+cassini Solar_System.txt 1 5022 
+total Solar_System.txt 3 783 3708 4476 
+unit Solar_System.txt 1 1570 
+would Solar_System.txt 5 1873 1891 1910 2072 2220 
+arms Solar_System.txt 4 5789 5927 5933 5938 
+compositions Solar_System.txt 1 3461 
+therefore Solar_System.txt 1 5928 
+until Solar_System.txt 3 2414 2528 4931 
+sednas Solar_System.txt 2 5442 5461 
+populations Solar_System.txt 3 273 292 344 
+99 Solar_System.txt 2 741 3872 
+98 Solar_System.txt 1 1285 
+warm Solar_System.txt 1 2210 
+wikipedias Solar_System.txt 1 6682 
+90 Solar_System.txt 1 754 
+94 Solar_System.txt 1 5090 
+mountains Solar_System.txt 1 684 
+abundance Solar_System.txt 1 2908 
+1992 Solar_System.txt 1 4608 
+1997 Solar_System.txt 1 4054 
+mm Solar_System.txt 2 1898 1917 
+super-earth Solar_System.txt 1 6477 
+mi Solar_System.txt 2 1839 1859 
+temperatures Solar_System.txt 2 2799 3826 
+exceptions Solar_System.txt 2 855 1659 
+example Solar_System.txt 2 1689 1731 
+keplers Solar_System.txt 2 1092 1106 
+mooncomposed Solar_System.txt 1 4318 
+orion Solar_System.txt 1 491 
+caused Solar_System.txt 2 2087 6571 
+pre-solar Solar_System.txt 1 2080 
+end Solar_System.txt 2 2442 2556 
+travel Solar_System.txt 3 353 1079 1129 
+astronomers Solar_System.txt 5 901 3922 4725 4750 5347 
+how Solar_System.txt 3 2361 3276 5232 
+hot Solar_System.txt 2 2130 2662 
+classify Solar_System.txt 1 4752 
+after Solar_System.txt 2 381 4591 
+confirmed Solar_System.txt 2 6264 6276 
+diagram Solar_System.txt 2 5736 6428 
+law Solar_System.txt 1 1734 
+attempt Solar_System.txt 1 1768 
+third Solar_System.txt 1 4331 
+free-floating Solar_System.txt 1 6404 
+greek Solar_System.txt 1 580 
+decreasing Solar_System.txt 1 969 
+wind Solar_System.txt 13 402 436 2470 3006 3046 3141 3156 4822 4925 4936 4971 5062 5229 
+nasa-funded Solar_System.txt 1 5247 
+over Solar_System.txt 3 1152 3700 4462 
+6.6 Solar_System.txt 1 6347 
+sunneptune Solar_System.txt 1 1863 
+before Solar_System.txt 1 2951 
+10.5 Solar_System.txt 1 1713 
+50,000 Solar_System.txt 2 5521 5652 
+better Solar_System.txt 1 5729 
+400 Solar_System.txt 2 3888 4921 
+hidden Solar_System.txt 1 6686 
+then Solar_System.txt 1 1870 
+them Solar_System.txt 5 283 1036 2310 3228 4510 
+affected Solar_System.txt 5 1136 1333 5123 5340 6051 
+combination Solar_System.txt 1 1252 
+penetration Solar_System.txt 1 3268 
+effects Solar_System.txt 1 5578 
+they Solar_System.txt 14 306 1071 1078 1133 1485 1505 2171 3470 3619 3924 4046 4075 5216 6589 
+one Solar_System.txt 8 1050 1118 1612 2048 3634 3701 5782 5825 
+mechanicalcalled Solar_System.txt 1 1790 
+rocky Solar_System.txt 6 886 2224 3460 3612 6488 6501 
+brightness Solar_System.txt 1 2508 
+classified Solar_System.txt 3 3600 4032 4588 
+arrow Solar_System.txt 1 5752 
+each Solar_System.txt 5 384 1108 1948 2151 3911 
+side Solar_System.txt 1 5012 
+lasting Solar_System.txt 2 4137 4147 
+telescope Solar_System.txt 2 655 668 
+liquids Solar_System.txt 1 1491 
+contracting Solar_System.txt 1 2109 
+uninhabitable Solar_System.txt 1 2656 
+substantially Solar_System.txt 2 158 2878 
+high-temperature Solar_System.txt 1 6190 
+gradient Solar_System.txt 1 1309 
+crucial Solar_System.txt 1 2980 
+particles Solar_System.txt 7 407 1033 3039 3050 3202 3237 4930 
+newly Solar_System.txt 1 285 
+size Solar_System.txt 10 970 1603 2731 2770 3630 3857 4357 6498 6512 6640 
+centauri Solar_System.txt 5 6221 6229 6247 6269 6272 
+little Solar_System.txt 1 3419 
+ecliptic Solar_System.txt 7 229 803 811 1068 4516 4715 5874 
+formation Solar_System.txt 4 1996 2001 2495 3677 
+enormous Solar_System.txt 1 2823 
+created Solar_System.txt 4 1315 2474 3114 3345 
+cosmic Solar_System.txt 4 3239 3244 3292 5241 
+creates Solar_System.txt 1 413 
+moving Solar_System.txt 1 4898 
+neptunes Solar_System.txt 5 262 1546 4007 4679 5342 
+features Solar_System.txt 1 3522 
+render Solar_System.txt 1 2654 
+upwind Solar_System.txt 2 4956 5011 
+another Solar_System.txt 1 4733 
+mercury Solar_System.txt 14 90 135 980 1016 1701 2227 2652 3448 3554 3557 3560 5691 6464 6532 
+80100 Solar_System.txt 1 4951 
+top Solar_System.txt 1 3843 
+0.07 Solar_System.txt 1 1985 
+approximately Solar_System.txt 1 1692 
+plentiful Solar_System.txt 1 2297 
+intermediate Solar_System.txt 2 2855 6497 
+too Solar_System.txt 2 1989 5335 
+hypothetical Solar_System.txt 2 5474 5492 
+luhman Solar_System.txt 1 6343 
+bodys Solar_System.txt 2 1146 1159 
+collapse Solar_System.txt 2 102 2019 
+somewhat Solar_System.txt 1 3646 
+begins Solar_System.txt 2 4554 4805 
+distance Solar_System.txt 11 475 1147 1258 1561 1673 1864 3400 3792 4839 5018 6253 
+older Solar_System.txt 1 2922 
+enabled Solar_System.txt 1 676 
+second Solar_System.txt 2 3330 5433 
+matter Solar_System.txt 2 1276 1298 
+iron Solar_System.txt 2 1414 3491 
+haumea Solar_System.txt 3 4371 4629 4634 
+150,000,000 Solar_System.txt 1 1571 
+seen Solar_System.txt 3 3212 4052 6509 
+lule Solar_System.txt 1 1855 
+contents Solar_System.txt 1 502 
+dozen Solar_System.txt 1 295 
+forced Solar_System.txt 1 5033 
+strength Solar_System.txt 1 3252 
+releases Solar_System.txt 1 2821 
+metallic Solar_System.txt 2 2233 3614 
+causing Solar_System.txt 2 3097 3158 
+forces Solar_System.txt 2 4819 5623 
+transmit Solar_System.txt 1 5221 
+even Solar_System.txt 2 4490 6034 
+though Solar_System.txt 3 3274 4412 5424 
+object Solar_System.txt 11 1109 1684 1845 2720 5270 5282 5314 5370 5436 6406 6414 
+extending Solar_System.txt 2 5002 5153 
+phase Solar_System.txt 3 1462 1513 2438 
+metal Solar_System.txt 2 149 260 
+points Solar_System.txt 7 199 1346 1360 1410 1445 1478 2198 
+planetary Solar_System.txt 12 11 21 392 998 1027 1095 2494 2745 2987 3220 6449 6539 
+probe Solar_System.txt 1 5261 
+ending Solar_System.txt 1 2492 
+attempts Solar_System.txt 2 1718 6597 
+earth Solar_System.txt 27 137 554 632 650 976 1563 2229 2655 2733 2796 3444 3505 3551 3566 3569 3725 3893 3909 3947 4308 4364 4496 5231 5904 5961 6017 6514 
+7.8 Solar_System.txt 1 6299 
+explain Solar_System.txt 1 6599 
+completes Solar_System.txt 1 5824 
+do Solar_System.txt 3 3145 4044 5646 
+fluid Solar_System.txt 1 5126 
+25,000 Solar_System.txt 1 5802 
+despite Solar_System.txt 2 3705 5654 
+hourglass-shaped Solar_System.txt 1 6174 
+saturn Solar_System.txt 12 169 749 973 1291 1430 1703 2257 3407 3848 3883 3970 3973 
+infrequent Solar_System.txt 1 5571 
+bar Solar_System.txt 1 1949 
+fields Solar_System.txt 4 3149 3222 3749 5139 
+415 Solar_System.txt 1 5383 
+swept Solar_System.txt 1 2478 
+observed Solar_System.txt 1 3945 
+radius Solar_System.txt 9 1578 1601 1635 1968 1978 3391 5639 5677 6520 
+result Solar_System.txt 1 3153 
+arlanda Solar_System.txt 1 1833 
+away Solar_System.txt 9 1840 1860 2479 2710 3137 3164 6227 6319 6426 
+wikipedia Solar_System.txt 1 2 
+approach Solar_System.txt 2 1161 4047 
+shields Solar_System.txt 1 5236 
+361 Solar_System.txt 1 1812 
+we Solar_System.txt 1 2524 
+terms Solar_System.txt 2 1781 5393 
+extend Solar_System.txt 2 1794 4873 
+carbon Solar_System.txt 1 1474 
+hundreds Solar_System.txt 2 2159 3626 
+suggested Solar_System.txt 1 5029 
+contribution Solar_System.txt 1 1266 
+planetary-mass Solar_System.txt 1 6405 
+sednoid Solar_System.txt 1 5272 
+ganymede Solar_System.txt 1 1010 
+super-earths Solar_System.txt 2 6471 6527 
+250 Solar_System.txt 1 4021 
+three Solar_System.txt 2 3498 4543 
+been Solar_System.txt 9 308 1720 1740 2538 2979 4031 4669 5339 6665 
+quickly Solar_System.txt 1 1131 
+much Solar_System.txt 6 2589 3277 4274 4651 4997 5605 
+expected Solar_System.txt 2 2649 5209 
+entered Solar_System.txt 1 5086 
+dozens Solar_System.txt 1 4420 
+life Solar_System.txt 8 2467 2506 2561 5902 5967 6015 6033 6052 
+quantities Solar_System.txt 1 3179 
+lalande Solar_System.txt 1 6302 
+millionth Solar_System.txt 1 1613 
+reddish Solar_System.txt 1 5281 
+originate Solar_System.txt 3 4156 4170 4197 
+humanity Solar_System.txt 1 532 
+near Solar_System.txt 8 794 3021 3213 4614 5854 5913 5984 6117 
+thousandth Solar_System.txt 1 3721 
+is Solar_System.txt 117 5 26 116 389 427 437 461 487 711 843 927 1165 1177 1281 1374 1567 1582 1610 1623 1647 1666 1691 1704 1827 1847 1865 1972 1984 2042 2279 2351 2499 2515 2640 2648 2686 2741 2780 2840 2854 2899 2975 3106 3157 3278 3283 3360 3396 3410 3417 3552 3584 3668 3714 3729 3751 3767 3943 4207 4263 4284 4326 4382 4414 4427 4482 4654 4806 4834 4851 4870 4905 4949 4990 5032 5055 5066 5100 5121 5146 5208 5243 5278 5334 5411 5418 5447 5456 5490 5503 5538 5610 5617 5678 5756 5817 5833 5853 5894 5907 6080 6103 6113 6123 6130 6140 6157 6187 6195 6215 6223 6310 6328 6381 6410 6505 6631 
+it Solar_System.txt 44 39 447 728 825 1224 1381 2088 2113 2401 2514 2526 2639 2678 2816 2904 3311 3667 4037 4288 4402 4413 4426 4698 4723 4932 5031 5145 5180 5207 5291 5319 5349 5401 5410 5537 5649 5823 6112 6122 6139 6194 6387 6484 6600 
+ii Solar_System.txt 1 2924 
+in Solar_System.txt 85 117 128 335 417 489 606 666 788 836 985 1018 1037 1046 1206 1277 1311 1363 1424 1459 1463 1494 1497 1502 1508 1775 1785 1816 1852 1854 1878 2144 2165 2205 2208 2336 2368 2391 2503 2531 2681 2700 2802 2835 2893 2917 2934 3246 3269 3301 3629 3703 3785 3799 3926 4053 4157 4171 4353 4613 4790 5107 5198 5315 5354 5452 5676 5700 5758 5781 5858 5890 5897 5995 6053 6104 6132 6141 6163 6176 6257 6432 6456 6563 6605 6667 
+if Solar_System.txt 3 1861 6126 6138 
+containing Solar_System.txt 1 5773 
+suggest Solar_System.txt 1 3923 
+make Solar_System.txt 2 2887 3870 
+amount Solar_System.txt 1 2824 
+complex Solar_System.txt 1 6032 
+potentially Solar_System.txt 2 6011 6260 
+several Solar_System.txt 5 294 2033 2039 4251 6199 
+voyager Solar_System.txt 4 5072 5075 5098 5213 
+evolve Solar_System.txt 1 5969 
+numerical Solar_System.txt 1 1214 
+renaissance Solar_System.txt 1 552 
+400500 Solar_System.txt 1 5463 
+0.00001 Solar_System.txt 1 1591 
+fusion Solar_System.txt 5 2405 2574 2666 2693 2810 
+copernican Solar_System.txt 1 521 
+directly Solar_System.txt 2 41 51 
+materials Solar_System.txt 2 1356 1440 
+the Solar_System.txt 653 7 23 27 32 35 49 52 56 59 74 78 81 87 91 100 109 113 118 121 124 130 150 162 164 180 228 230 237 243 254 265 325 329 358 364 370 382 386 400 411 418 423 425 428 434 440 444 451 454 457 465 482 484 490 496 499 512 520 524 538 541 548 559 562 568 576 579 592 597 607 625 629 635 639 644 651 654 658 667 670 677 698 704 708 712 722 730 736 743 755 759 763 767 780 791 795 802 804 810 827 834 837 841 860 864 868 873 894 910 915 920 923 929 932 937 940 943 947 957 961 965 983 986 1014 1019 1022 1041 1060 1067 1069 1074 1076 1083 1090 1098 1103 1115 1123 1138 1149 1153 1163 1175 1181 1184 1201 1204 1207 1217 1220 1231 1234 1243 1246 1251 1260 1269 1275 1278 1296 1312 1322 1328 1350 1361 1364 1377 1388 1390 1393 1402 1425 1436 1460 1464 1498 1503 1509 1517 1520 1523 1534 1539 1560 1565 1577 1580 1588 1594 1602 1617 1620 1630 1642 1654 1660 1668 1670 1672 1678 1681 1686 1698 1732 1742 1745 1751 1754 1758 1771 1776 1800 1805 1810 1824 1842 1862 1871 1882 1888 1906 1921 1936 1940 1942 1952 1957 1967 1970 1977 1981 2005 2008 2017 2069 2074 2079 2092 2097 2104 2108 2134 2136 2166 2178 2189 2209 2216 2223 2242 2245 2253 2265 2268 2271 2289 2299 2305 2323 2340 2348 2355 2362 2385 2392 2395 2406 2419 2423 2430 2436 2450 2463 2472 2475 2480 2486 2493 2497 2517 2529 2532 2535 2555 2558 2565 2568 2580 2584 2594 2598 2610 2624 2627 2642 2645 2658 2667 2676 2682 2684 2692 2701 2722 2726 2730 2734 2750 2754 2763 2773 2776 2778 2781 2838 2851 2859 2865 2873 2891 2894 2897 2921 2935 2943 2952 2960 2982 2990 2994 3007 3011 3015 3025 3031 3044 3066 3079 3091 3100 3104 3107 3116 3119 3125 3139 3154 3183 3186 3188 3214 3217 3231 3241 3247 3251 3254 3264 3270 3280 3294 3296 3302 3308 3318 3327 3329 3350 3356 3361 3364 3368 3377 3380 3388 3390 3399 3402 3413 3429 3437 3452 3479 3500 3529 3548 3580 3587 3596 3649 3653 3665 3674 3684 3689 3707 3711 3726 3760 3764 3770 3777 3794 3796 3800 3819 3824 3858 3874 3879 3890 3948 3961 3988 4010 4023 4048 4084 4087 4100 4107 4130 4158 4172 4180 4185 4199 4231 4236 4239 4243 4266 4269 4278 4281 4317 4330 4334 4338 4341 4354 4379 4390 4410 4437 4475 4479 4493 4512 4515 4517 4525 4529 4551 4556 4561 4583 4592 4605 4641 4646 4658 4675 4691 4705 4714 4727 4736 4761 4765 4777 4780 4783 4794 4798 4820 4824 4827 4830 4841 4845 4849 4853 4856 4859 4863 4882 4890 4900 4903 4915 4935 4938 4941 4945 4954 4958 4966 4970 4986 5010 5039 5043 5047 5051 5053 5056 5060 5067 5082 5087 5095 5105 5110 5115 5119 5125 5131 5142 5150 5158 5162 5169 5177 5183 5188 5218 5234 5237 5263 5313 5324 5328 5352 5369 5396 5415 5432 5473 5487 5507 5516 5549 5557 5576 5584 5587 5592 5607 5613 5621 5638 5641 5659 5662 5666 5688 5693 5701 5707 5721 5725 5738 5742 5745 5753 5759 5778 5784 5792 5798 5807 5814 5836 5841 5844 5847 5855 5859 5862 5866 5870 5873 5883 5886 5891 5898 5914 5919 5925 5929 5955 5970 5977 5981 5985 5996 6004 6018 6022 6029 6036 6054 6066 6078 6081 6090 6096 6100 6105 6118 6127 6133 6142 6145 6153 6170 6177 6185 6196 6211 6213 6216 6242 6249 6274 6279 6281 6286 6289 6306 6323 6336 6341 6355 6364 6372 6378 6392 6401 6408 6433 6451 6461 6465 6479 6511 6566 6569 6576 6606 6622 6655 
+left Solar_System.txt 4 1084 1943 3441 5175 
+seasonal Solar_System.txt 1 686 
+just Solar_System.txt 1 4041 
+newton Solar_System.txt 1 616 
+rotated Solar_System.txt 1 2111 
+farther Solar_System.txt 7 1348 1661 1695 4879 5156 5440 5650 
+human Solar_System.txt 1 1780 
+yet Solar_System.txt 2 5428 5697 
+previous Solar_System.txt 1 2064 
+enters Solar_System.txt 1 4099 
+had Solar_System.txt 4 585 2948 4213 4604 
+has Solar_System.txt 13 1633 1739 2537 2905 4016 4029 5028 5249 5374 5427 5959 6388 6485 
+plasma Solar_System.txt 3 3041 5173 6191 
+expelled Solar_System.txt 1 6062 
+coalescing Solar_System.txt 1 2153 
+bands Solar_System.txt 1 1030 
+caps Solar_System.txt 1 696 
+unequivocally Solar_System.txt 1 5434 
+possibly Solar_System.txt 4 297 1264 3696 5528 
+disc-shaped Solar_System.txt 1 5484 
+occurring Solar_System.txt 1 2575 
+atmospheres Solar_System.txt 3 2318 3160 3509 
+melting Solar_System.txt 6 198 1345 1359 1409 1444 1477 
+cooler Solar_System.txt 2 2632 2881 
+225250 Solar_System.txt 1 5828 
+50 Solar_System.txt 3 2382 4407 4472 
+sparse Solar_System.txt 1 6166 
+arbitrary Solar_System.txt 1 3647 
+aristarchus Solar_System.txt 1 582 
+right Solar_System.txt 3 1091 1945 3443 
+old Solar_System.txt 1 4209 
+people Solar_System.txt 1 545 
+born Solar_System.txt 1 2968 
+jupiter Solar_System.txt 23 129 167 248 747 972 1238 1289 1428 1619 1709 1826 1980 2256 2276 3405 3592 3658 3688 3850 3881 3966 3969 6421 
+flatten Solar_System.txt 1 2116 
+long-period Solar_System.txt 4 468 4143 4162 5511 
+dense Solar_System.txt 3 2131 2719 3459 
+for Solar_System.txt 31 13 467 528 740 1226 1240 1405 1439 1575 1688 1730 2282 2354 2400 2449 2458 2664 2672 3223 3595 3918 4541 4548 5004 5205 5509 5637 5966 6014 6438 6639 
+bottom Solar_System.txt 1 3845 
+electromagnetic Solar_System.txt 1 2832 
+ice Solar_System.txt 7 188 695 1536 3618 3930 4323 4401 
+icy Solar_System.txt 6 899 1514 2284 3991 4111 5500 
+orbited Solar_System.txt 3 374 996 6329 
+core Solar_System.txt 7 2533 2566 2659 2683 2702 2804 6064 
+burn Solar_System.txt 1 2670 
+illustration Solar_System.txt 1 518 
+surround Solar_System.txt 1 5515 
+unexplored Solar_System.txt 1 4287 
+bound Solar_System.txt 1 29 
+lies Solar_System.txt 9 241 1382 1712 3300 4235 5168 5800 5875 5974 
+39.4 Solar_System.txt 1 4576 
+existed Solar_System.txt 1 2164 
+initial Solar_System.txt 1 2029 
+approximate Solar_System.txt 1 3853 
+conservation Solar_System.txt 1 2083 
+fraction Solar_System.txt 2 2240 2674 
+was Solar_System.txt 7 596 2031 2417 2509 3312 3343 6263 
+medium Solar_System.txt 17 420 446 2765 2999 3003 3027 3068 3127 3249 3282 4858 4902 4940 4960 5133 6083 6179 
+gaseous Solar_System.txt 2 1461 1512 
+form Solar_System.txt 9 2155 2207 2222 2739 2992 3113 3482 3495 5113 
+forming Solar_System.txt 1 4979 
+hemisphere Solar_System.txt 2 5152 5160 
+solar Solar_System.txt 102 0 24 70 92 231 401 435 485 513 542 709 760 781 869 912 925 948 966 987 1061 1208 1279 1313 1365 1395 1499 1759 1765 1777 1807 1922 1937 2006 2009 2075 2168 2191 2212 2243 2469 2518 2782 3005 3016 3045 3084 3140 3155 3232 3271 3304 3354 3358 3382 3603 3675 3758 3765 3802 3821 4061 4102 4200 4221 4270 4335 4343 4432 4784 4799 4821 4831 4924 5061 5137 5189 5228 5238 5517 5551 5608 5702 5746 5754 5837 5842 5887 5956 5971 6006 6037 6091 6101 6128 6379 6452 6467 6481 6567 6579 6635 6679 
+220 Solar_System.txt 1 5819 
+montage Solar_System.txt 1 3851 
+cosmos Solar_System.txt 1 593 
+150 Solar_System.txt 1 4702 
+hotter Solar_System.txt 3 2102 2845 2871 
+154 Solar_System.txt 1 6369 
+evidence Solar_System.txt 1 5020 
+ddos Solar_System.txt 1 5364 
+exist Solar_System.txt 2 472 2204 
+adversely Solar_System.txt 1 6050 
+ericsson Solar_System.txt 1 1814 
+physical Solar_System.txt 1 646 
+no Solar_System.txt 5 1736 3464 3467 4568 6506 
+whereas Solar_System.txt 12 812 1169 1501 1607 1641 1702 1792 1841 2877 2966 4161 6241 
+substances Solar_System.txt 3 194 1371 1515 
+generally Solar_System.txt 1 4080 
+red-dwarf Solar_System.txt 1 6357 
+models Solar_System.txt 2 1215 1767 
+coronal Solar_System.txt 2 3087 3167 
+billion Solar_System.txt 6 96 2013 2447 2456 2548 5776 
+faster Solar_System.txt 3 1077 2091 2112 
+governed Solar_System.txt 1 642 
+time Solar_System.txt 2 2564 2677 
+protostar Solar_System.txt 2 2132 2396 
+concept Solar_System.txt 3 539 2187 5252 
+focus Solar_System.txt 1 1119 
+typicalboth Solar_System.txt 1 6500 
+abundant Solar_System.txt 1 2327 
+layers Solar_System.txt 3 2596 2707 2737 
+zone Solar_System.txt 1 4332 
+ionise Solar_System.txt 1 4116 
+finally Solar_System.txt 1 5063 
+permanently Solar_System.txt 1 1052 
+brown Solar_System.txt 3 5310 5392 6338 
+consolidation Solar_System.txt 1 6555 
+exact Solar_System.txt 1 6623 
+cool Solar_System.txt 1 2280 
+clouds Solar_System.txt 4 351 691 2046 6087 
+level Solar_System.txt 1 3265 
+did Solar_System.txt 1 533 
+die Solar_System.txt 1 2950 
+10199 Solar_System.txt 1 4014 
+travels Solar_System.txt 2 1110 5181 
+team Solar_System.txt 1 5248 
+semi-major Solar_System.txt 2 1127 3997 
+orioncygnus Solar_System.txt 1 5793 
+upper Solar_System.txt 1 3205 
+revolution Solar_System.txt 2 5826 5832 
+stellar-wind Solar_System.txt 1 4907 
+substitute Solar_System.txt 1 1820 
+stands Solar_System.txt 1 6454 
+axes Solar_System.txt 2 1128 3998 
+current Solar_System.txt 7 1844 2375 2607 3009 3109 5863 6039 
+520 Solar_System.txt 1 5275 
+international Solar_System.txt 1 1834 
+dwarf Solar_System.txt 16 66 319 322 365 768 2180 2716 3743 4253 4424 4452 4772 5422 6245 6333 6367 
+g2-type Solar_System.txt 1 2842 
+understanding Solar_System.txt 1 619 
+water Solar_System.txt 3 209 1468 3812 
+groups Solar_System.txt 2 3756 4177 
+galileo Solar_System.txt 1 610 
+along Solar_System.txt 5 1111 1902 2576 3028 4759 
+carbonto Solar_System.txt 1 2762 
+appears Solar_System.txt 1 4289 
+change Solar_System.txt 2 3258 5733 
+sending Solar_System.txt 1 5259 
+environs Solar_System.txt 1 5979 
+25-foot Solar_System.txt 1 1830 
+hydrostatic Solar_System.txt 1 2415 
+usually Solar_System.txt 2 378 3637 
+resonance Solar_System.txt 2 4553 4569 
+studies Solar_System.txt 1 5686 
+storms Solar_System.txt 2 693 3099 
+merely Solar_System.txt 1 4732 
+marked Solar_System.txt 1 5748 
+rarely Solar_System.txt 1 5935 
+prove Solar_System.txt 1 4449 
+3,420 Solar_System.txt 1 5390 
+by Solar_System.txt 39 310 375 391 643 881 893 968 997 1026 1137 1222 1237 1316 1334 2063 2139 2786 3115 3138 3275 3315 3323 3346 4220 4674 4816 4914 5038 5124 5176 5341 5553 5570 5591 5644 5749 6058 6330 6647 
+coalesce Solar_System.txt 1 3681 
+today Solar_System.txt 2 2516 2527 
+tailing Solar_System.txt 1 5014 
+visual Solar_System.txt 1 6627 
+sphere Solar_System.txt 4 1598 1831 1853 4862 
+thousands Solar_System.txt 6 300 3695 4148 4295 4422 5673 
+gasso Solar_System.txt 1 6503 
+vega Solar_System.txt 1 5869 
+can Solar_System.txt 4 1210 1486 4520 5567 
+believed Solar_System.txt 1 553 
+making Solar_System.txt 1 2815 
+detached Solar_System.txt 4 5265 5269 5362 5435 
+gravitationally Solar_System.txt 3 28 729 2149 
+nearest Solar_System.txt 2 4781 6337 
+dedicated Solar_System.txt 1 5257 
+bubble-like Solar_System.txt 2 415 4891 
+stream Solar_System.txt 4 404 3036 3048 4927 
+expanding Solar_System.txt 1 2646 
+confused Solar_System.txt 1 3536 
+hydrogen Solar_System.txt 16 177 202 1286 1304 1452 1471 2052 2320 2390 2530 2573 2680 2812 2913 2929 3898 
+occur Solar_System.txt 1 2545 
+rays Solar_System.txt 3 3240 3245 5242 
+divided Solar_System.txt 1 4523 
+spreads Solar_System.txt 1 3051 
+1 Solar_System.txt 4 1568 5073 5099 5524 
+dominance Solar_System.txt 1 4869 
+map Solar_System.txt 1 3746 
+sungrazers Solar_System.txt 1 4182 
+explorer Solar_System.txt 1 5026 
+may Solar_System.txt 10 470 1788 2162 4196 4448 5367 5402 5696 5732 6048 
+overall Solar_System.txt 1 861 
+southern Solar_System.txt 1 5159 
+high-energy Solar_System.txt 1 3235 
+such Solar_System.txt 22 64 207 314 682 689 856 1411 1450 1737 1802 2338 3082 3477 3489 3523 3810 4164 4178 4442 5573 5656 5711 
+data Solar_System.txt 3 4456 5196 5223 
+grow Solar_System.txt 2 2250 2312 
+natural Solar_System.txt 3 376 1001 1043 
+08550714 Solar_System.txt 1 6412 
+so Solar_System.txt 3 2942 3263 5821 
+definitions Solar_System.txt 1 3648 
+typical Solar_System.txt 1 2043 
+shield Solar_System.txt 1 3230 
+gradual Solar_System.txt 1 626 
+mainly Solar_System.txt 7 175 1433 3372 3609 4319 4395 4429 
+years Solar_System.txt 13 97 2014 2384 2448 2457 2549 4142 4150 5306 5391 5632 5830 6057 
+stability Solar_System.txt 1 5965 
+course Solar_System.txt 1 1154 
+still Solar_System.txt 4 4285 4612 5611 5679 
+quaoar Solar_System.txt 2 4376 4444 
+close-in Solar_System.txt 1 6544 
+solitary Solar_System.txt 2 6365 6374 
+apex Solar_System.txt 1 5843 
+encompasses Solar_System.txt 1 4881 
+dwarfs Solar_System.txt 3 2886 6291 6339 
+main Solar_System.txt 27 506 1999 2643 2767 3000 3433 3558 3563 3567 3571 3576 3740 3835 3967 3971 3975 3979 3983 4055 4347 4621 4630 4637 4769 4887 5267 5467 
+100,000 Solar_System.txt 3 4463 5533 5771 
+half Solar_System.txt 2 2721 5458 
+not Solar_System.txt 11 534 1930 2249 2687 3146 3534 4807 5203 5647 6124 6664 
+sorted Solar_System.txt 1 6646 
+now Solar_System.txt 2 2551 2756 
+term Solar_System.txt 3 1438 3530 3949 
+name Solar_System.txt 1 1404 
+stockholm Solar_System.txt 1 1817 
+instabilities Solar_System.txt 1 5949 
+entirely Solar_System.txt 2 2539 5356 
+significantly Solar_System.txt 1 821 
+populated Solar_System.txt 1 3732 
+year Solar_System.txt 2 1157 5840 
+galactic Solar_System.txt 7 5585 5734 5808 5839 5884 5982 6023 
+ceti Solar_System.txt 1 6383 
+neighbourhood Solar_System.txt 1 6076 
+space Solar_System.txt 10 2491 2712 2830 3094 3166 4804 4912 5071 5201 5852 
+interference Solar_System.txt 1 3686 
+collisions Solar_System.txt 6 3316 3348 5575 6009 6553 6570 
+contained Solar_System.txt 1 127 
+exploding Solar_System.txt 1 2940 
+dioxide Solar_System.txt 1 1475 
+unmapped Solar_System.txt 1 5681 
+dominate Solar_System.txt 1 5620 
+varuna Solar_System.txt 1 4445 
+theory Solar_System.txt 1 1738 
+million Solar_System.txt 6 1974 1986 2383 3056 3426 5829 
+quite Solar_System.txt 1 6617 
+short-period Solar_System.txt 4 3781 4133 4151 4661 
+remainder Solar_System.txt 1 60 
+cellarius Solar_System.txt 1 516 
+motion Solar_System.txt 1 1096 
+place Solar_System.txt 1 5648 
+massive Solar_System.txt 5 160 2313 2688 2790 3907 
+first Solar_System.txt 7 598 2944 3295 4024 4552 4593 5353 
+omitted Solar_System.txt 1 6650 
+comprised Solar_System.txt 1 2236 
+gases Solar_System.txt 4 1435 1493 1549 6089 
+sun-like Solar_System.txt 2 6239 6375 
+comprises Solar_System.txt 1 1272 
+ring Solar_System.txt 3 3468 3941 4385 
+angular Solar_System.txt 3 1232 1247 2085 
+millions Solar_System.txt 1 3697 
+earths Solar_System.txt 10 798 850 1605 1608 1900 3128 3197 3204 3955 6430 
+given Solar_System.txt 1 5960 
+sheet Solar_System.txt 2 3010 3110 
+trillion Solar_System.txt 1 5499 
+2 Solar_System.txt 2 1229 5076 
+white Solar_System.txt 2 2715 6332 
+way Solar_System.txt 8 501 2896 5185 5594 5740 5761 5816 5893 
+mostly Solar_System.txt 8 192 249 278 885 898 1399 2050 2827 
+that Solar_System.txt 51 37 47 76 220 305 573 622 631 638 648 718 840 1034 1417 1543 1615 1904 2071 2291 2303 2331 2511 2752 2857 2863 3064 3226 3544 3678 3723 4211 4306 4315 4508 4536 5017 5030 5210 5289 5318 5459 5502 5545 5822 5923 5952 6045 6192 6327 6537 6547 
+continuous Solar_System.txt 1 3035 
+chariklo Solar_System.txt 1 4015 
+than Solar_System.txt 37 86 161 481 753 777 1013 1700 1895 1913 2103 2298 2591 2638 2872 2912 2920 2928 3398 3421 3550 3633 3719 3816 3887 4000 4006 4139 4277 4314 4471 4701 5157 5441 5651 6419 6531 6654 
+population Solar_System.txt 5 287 2901 2923 5358 5395 
+10 Solar_System.txt 8 1592 1614 1651 1849 2446 3336 4375 6420 
+effective Solar_System.txt 1 4864 
+16 Solar_System.txt 1 6344 
+were Solar_System.txt 6 1457 1506 2175 2295 2932 5546 
+gigantic Solar_System.txt 1 5285 
+and Solar_System.txt 210 9 20 34 68 138 148 168 178 185 203 211 247 259 268 281 328 333 348 367 396 504 509 564 614 637 663 669 694 702 726 748 772 814 829 888 919 979 1009 1017 1193 1257 1287 1290 1305 1318 1336 1380 1429 1446 1454 1473 1532 1538 1550 1558 1632 1677 1710 1787 1822 1899 1944 1954 1976 1997 2002 2036 2056 2128 2147 2182 2201 2218 2230 2259 2275 2301 2321 2325 2345 2360 2371 2387 2411 2477 2483 2583 2609 2653 2697 2775 2785 2800 2862 2870 2880 2914 2930 2939 3004 3086 3096 3143 3150 3170 3177 3194 3219 3250 3306 3342 3367 3375 3406 3447 3466 3485 3487 3492 3506 3519 3527 3555 3591 3606 3613 3640 3657 3661 3773 3779 3814 3839 3849 3855 3882 3894 3899 3902 3912 3957 3964 4004 4090 4115 4125 4250 4255 4272 4309 4322 4340 4366 4377 4406 4446 4504 4528 4572 4610 4619 4624 4628 4633 4717 4739 4802 4823 4880 4961 4975 4994 5023 5065 5074 5085 5091 5112 5227 5271 5303 5345 5385 5482 5513 5527 5566 5602 5665 5692 5803 5810 5911 5950 5999 6072 6149 6231 6301 6320 6326 6363 6490 6502 6515 6546 6574 6610 6641 6645 
+aurorae Solar_System.txt 1 3211 
+remained Solar_System.txt 1 1418 
+occupies Solar_System.txt 2 1590 3652 
+turned Solar_System.txt 1 1053 
+take Solar_System.txt 1 4509 
+interior Solar_System.txt 1 6459 
+200 Solar_System.txt 2 2126 4963 
+begin Solar_System.txt 1 2403 
+multiple Solar_System.txt 1 4502 
+radiates Solar_System.txt 2 3033 4918 
+boiling Solar_System.txt 1 2197 
+pair Solar_System.txt 2 6237 6250 
+radioactive Solar_System.txt 1 6069 
+considered Solar_System.txt 2 951 4852 
+average Solar_System.txt 1 5277 
+later Solar_System.txt 1 2969 
+implications Solar_System.txt 1 6013 
+heat Solar_System.txt 2 1317 1335 
+typically Solar_System.txt 2 4064 6548 
+laws Solar_System.txt 3 647 1093 1107 
+precise Solar_System.txt 1 4205 
+show Solar_System.txt 1 1750 
+synchronous Solar_System.txt 1 1047 
+discovered Solar_System.txt 6 286 4026 4599 5312 5451 5699 
+bright Solar_System.txt 2 5867 6313 
+uranus Solar_System.txt 9 184 974 1531 1717 2258 3847 3901 3974 3977 
+remnants Solar_System.txt 1 3672 
+fifth Solar_System.txt 1 4305 
+proportion Solar_System.txt 1 3807 
+3 Solar_System.txt 2 1876 1897 
+only Solar_System.txt 12 1227 2199 2235 2729 3939 4065 4303 4486 5457 5934 6396 6486 
+enriched Solar_System.txt 2 2757 2956 
+between Solar_System.txt 15 242 354 1674 1726 2270 2856 3401 3586 3655 3659 4404 5661 5690 5801 6510 
+cannot Solar_System.txt 1 5320 
+nearly Solar_System.txt 5 224 1187 1273 1294 6583 
+designates Solar_System.txt 2 3541 3952 
+secondary Solar_System.txt 1 990 
+summary Solar_System.txt 1 6628 
+naked Solar_System.txt 1 4131 
+predicted Solar_System.txt 1 1212 
+where Solar_System.txt 4 2094 2277 3207 6144 
+vision Solar_System.txt 1 5255 
+sdos Solar_System.txt 2 4687 4707 
+relative Solar_System.txt 2 1772 3856 
+permeates Solar_System.txt 1 3065 
+compounds Solar_System.txt 3 1406 2285 3829 
+ways Solar_System.txt 1 5786 
+boundaries Solar_System.txt 2 4813 5595 
+outside Solar_System.txt 4 3954 4198 4511 5976 
+radiated Solar_System.txt 1 2828 
+moons Solar_System.txt 8 82 380 664 770 1004 3465 3776 4368 
+across Solar_System.txt 4 1795 2035 4069 6184 
+august Solar_System.txt 1 5108 
+parent Solar_System.txt 2 1056 4190 
+hundredth Solar_System.txt 1 4492 
+jovian Solar_System.txt 1 3867 
+coma Solar_System.txt 2 4040 4119 
+article Solar_System.txt 22 4 507 2000 2768 3434 3559 3564 3568 3572 3577 3741 3968 3972 3976 3980 3984 4056 4348 4638 4770 4888 5468 
+cities Solar_System.txt 1 1796 
+reaction Solar_System.txt 1 2408 
+resides Solar_System.txt 1 5780 
+many Solar_System.txt 10 368 1190 3780 4175 4294 4435 4497 5015 6001 6543 
+region Solar_System.txt 19 416 954 2022 2070 3362 3395 3409 3762 3787 4229 4241 4283 4325 4734 4910 5660 5689 6143 6167 
+contract Solar_System.txt 1 2571 
+s Solar_System.txt 2 517 5212 
+comet Solar_System.txt 6 859 4034 4057 4098 4176 5713 
+nearby Solar_System.txt 2 5990 6308 
+period Solar_System.txt 1 5388 
+sampling Solar_System.txt 1 6633 
+60 Solar_System.txt 2 5881 6397 
+pole Solar_System.txt 1 852 
+destroyed Solar_System.txt 1 2176 
+collides Solar_System.txt 1 4933 
+west Solar_System.txt 1 5714 
+mark Solar_System.txt 1 2554 
+heliosphere Solar_System.txt 17 424 483 2476 3076 3092 3105 3218 4850 4886 4889 4892 4904 5052 5120 5235 5264 6079 
+combined Solar_System.txt 1 2468 
+mars Solar_System.txt 13 139 246 978 2231 2274 3144 3445 3507 3570 3573 3590 3656 3965 
+peaking Solar_System.txt 1 2834 
+direction Solar_System.txt 3 839 5845 5860 
+thousand Solar_System.txt 2 478 4877 
+formed Solar_System.txt 12 94 2011 2138 2261 2292 2304 2367 2753 2933 3314 4183 5404 
+pluto Solar_System.txt 6 332 4095 4249 4365 4618 4623 
+wake Solar_System.txt 1 5174 
+external Solar_System.txt 1 6674 
+those Solar_System.txt 6 45 1324 1369 3224 3542 3817 
+case Solar_System.txt 2 1020 6564 
+supernovae Solar_System.txt 3 5947 6047 6201 
+these Solar_System.txt 11 291 338 1727 2219 2293 2358 2958 3828 3919 6526 6662 
+refractory Solar_System.txt 2 3475 3611 
+ongoing Solar_System.txt 1 5685 
+freely Solar_System.txt 1 352 
+coolest Solar_System.txt 2 2637 2866 
+eventually Solar_System.txt 2 2221 2657 
+middle Solar_System.txt 1 550 
+bias Solar_System.txt 1 6604 
+helium Solar_System.txt 15 179 204 1288 1306 1453 2055 2322 2542 2582 2665 2671 2814 2915 2931 3900 
+binary Solar_System.txt 2 6342 6356 
+different Solar_System.txt 4 566 1762 2369 3645 
+develop Solar_System.txt 1 600 
+11.9 Solar_System.txt 1 6385 
+makemake Solar_System.txt 3 4370 4627 4632 
+theorized Solar_System.txt 1 4883 
+same Solar_System.txt 3 645 838 5920 
+events Solar_System.txt 2 3172 5572 
+closest Solar_System.txt 6 1160 6214 6275 6284 6373 6402 
+meteorological Solar_System.txt 1 687 
+driven Solar_System.txt 1 4218 
+constraining Solar_System.txt 1 5040 
+edges Solar_System.txt 1 1946 
+luyten Solar_System.txt 1 6359 
+11,400 Solar_System.txt 1 5305 
+perihelia Solar_System.txt 1 4689 
+titiusbode Solar_System.txt 1 1733 
+volcanoes Solar_System.txt 1 3528 
+roughly Solar_System.txt 24 476 1284 1384 1611 1880 2125 2522 2546 2603 3054 4522 4575 4835 4920 4950 4962 5444 5520 5918 6180 6316 6321 6389 6423 
+without Solar_System.txt 1 3737 
+aphelion Solar_System.txt 6 1180 1955 4092 5302 5381 5455 
+termination Solar_System.txt 2 4946 5083 
+model Solar_System.txt 2 1804 2350 
+bodies Solar_System.txt 14 72 372 735 1205 1934 2158 2185 3605 3993 4063 4434 5994 6075 6637 
+consisted Solar_System.txt 1 2049 
+being Solar_System.txt 7 61 143 157 173 190 995 3135 
+when Solar_System.txt 2 4045 4096 
+neon Solar_System.txt 1 1455 
+actions Solar_System.txt 1 3117 
+micrometeoroids Solar_System.txt 1 3641 
+speed Solar_System.txt 2 5812 5921 
+blow Solar_System.txt 1 3173 
+except Solar_System.txt 2 1087 3594 
+geological Solar_System.txt 1 680 
+4 Solar_System.txt 1 1851 
+heavier Solar_System.txt 5 2060 2695 2759 2911 2927 
+disrupt Solar_System.txt 1 5954 
+momentum Solar_System.txt 3 1233 1248 2086 
+ross Solar_System.txt 1 6368 
+around Solar_System.txt 6 634 790 2454 5165 5523 5717 
+outermost Solar_System.txt 2 182 944 
+crusts Solar_System.txt 1 3484 
+early Solar_System.txt 4 2167 2190 2502 4680 
+vacuum Solar_System.txt 1 3022 
+using Solar_System.txt 1 1213 
+accepted Solar_System.txt 1 1741 
+collective Solar_System.txt 1 1403 
+71,000 Solar_System.txt 1 1637 
+output Solar_System.txt 1 2586 
+stationary Solar_System.txt 1 557 
+titan Solar_System.txt 1 1008 
+imaged Solar_System.txt 1 6666 
+images Solar_System.txt 1 1743 
+divine Solar_System.txt 1 569 
+cavity Solar_System.txt 1 6175 
+21185 Solar_System.txt 1 6303 
+stops Solar_System.txt 1 3131 
+moon Solar_System.txt 2 383 4626 
+meteoroids Solar_System.txt 1 3639 
+912 Solar_System.txt 1 1856 
+notably Solar_System.txt 1 6659 
+leftover Solar_System.txt 2 2183 2329 
+comparison Solar_System.txt 4 1576 2771 4358 6442 
+of Solar_System.txt 282 44 73 103 112 123 146 176 193 245 257 274 279 288 299 301 357 363 369 385 394 405 443 453 498 511 519 530 540 561 583 591 620 628 653 660 672 679 707 721 742 758 779 797 863 867 872 884 897 939 946 956 964 982 992 1006 1021 1031 1040 1059 1094 1100 1155 1183 1203 1230 1242 1245 1253 1283 1303 1341 1355 1392 1400 1434 1519 1522 1530 1579 1593 1596 1604 1616 1636 1680 1747 1753 1757 1884 1905 1932 1935 1947 1956 1969 1979 2004 2020 2044 2051 2059 2066 2084 2096 2124 2160 2188 2226 2241 2273 2319 2357 2389 2394 2425 2462 2512 2534 2557 2567 2597 2618 2626 2675 2694 2725 2732 2749 2772 2811 2825 2858 2864 2890 2909 2937 2946 2985 2996 3014 3019 3037 3049 3118 3180 3185 3190 3243 3253 3266 3291 3373 3379 3392 3404 3474 3499 3589 3610 3627 3683 3687 3694 3698 3710 3722 3724 3747 3763 3808 3818 3873 3892 3897 3916 4019 4072 4086 4123 4149 4187 4215 4233 4238 4248 4259 4268 4293 4296 4307 4316 4320 4333 4359 4386 4396 4400 4423 4430 4436 4478 4495 4514 4537 4558 4565 4582 4594 4660 4678 4735 4764 4829 4848 4855 4866 4911 4928 4937 4957 5042 5050 5069 5114 5118 5128 5195 5253 5323 5377 5382 5389 5460 5472 5495 5543 5579 5606 5624 5640 5672 5674 5687 5737 5744 5769 5783 5846 5861 5865 5872 5879 5901 5924 5946 5964 5980 6021 6031 6061 6085 6088 6160 6198 6210 6238 6254 6391 6398 6429 6463 6496 6513 6516 6551 6556 6565 6578 6615 6620 6634 6643 
+wolf Solar_System.txt 1 6297 
+provisional Solar_System.txt 1 4606 
+perturbed Solar_System.txt 1 5569 
+image Solar_System.txt 2 1995 6441 
+accounts Solar_System.txt 1 1225 
+determine Solar_System.txt 1 1723 
+speculated Solar_System.txt 2 586 6044 
+vaporize Solar_System.txt 1 2651 
+area Solar_System.txt 4 2623 4237 5670 6159 
+there Solar_System.txt 6 853 4457 5682 6202 6504 6595 
+start Solar_System.txt 1 6541 
+low Solar_System.txt 2 1443 3754 
+stars Solar_System.txt 19 2040 2067 2847 2861 2867 2868 2882 2892 2925 2941 2947 2962 2967 5626 5777 5991 6206 6240 6282 
+bubble Solar_System.txt 4 4908 5036 6172 6186 
+complete Solar_System.txt 1 5308 
+enough Solar_System.txt 8 304 2281 2314 2399 2663 2689 2806 3511 
+two-thirds Solar_System.txt 1 1881 
+with Solar_System.txt 53 58 120 195 201 746 1049 1114 1125 1262 1343 1357 1407 1441 1599 1656 1903 2053 2121 2572 2758 2957 3029 3196 3326 3537 3616 3852 4193 4242 4363 4454 4467 4570 4760 4893 4934 5130 5149 5283 5437 5477 5556 5741 5766 6010 6028 6189 6415 6443 6518 6542 6602 6612 
+embedded Solar_System.txt 1 6131 
+tectonic Solar_System.txt 1 3520 
+certain Solar_System.txt 1 5206 
+describe Solar_System.txt 2 1097 4740 
+moved Solar_System.txt 1 574 
+an Solar_System.txt 18 618 1112 1142 2352 2717 2822 4091 4256 5355 5380 5386 5669 5877 6158 6164 6173 6413 6439 
+as Solar_System.txt 63 65 208 318 422 683 690 801 846 857 1376 1412 1451 1489 1526 1528 1555 1818 2041 2068 2078 2107 2339 2523 2743 2831 2884 3024 3043 3083 3151 3478 3490 3524 3601 3811 4033 4042 4165 4179 4226 4329 4443 4589 4744 4754 4985 5134 5136 5179 5215 5530 5532 5574 5657 5712 5724 5791 5835 5922 6068 6169 6508 6523 
+au Solar_System.txt 40 1386 1574 1584 1640 1649 1694 1706 1714 2127 3074 3337 3341 3423 3663 4003 4009 4408 4577 4580 4703 4793 4952 4964 5008 5093 5155 5167 5276 5295 5300 5379 5384 5446 5464 5522 5534 5634 5653 5675 5719 
+at Solar_System.txt 37 360 430 473 558 820 1117 1383 1744 1832 1918 2133 2427 2562 2592 2635 3053 3071 3286 4796 4919 4944 5058 5089 5164 5296 5301 5443 5462 5519 5876 5917 6035 6251 6294 6346 6384 6681 
+planets Solar_System.txt 79 57 67 134 142 153 156 183 215 256 320 323 359 366 388 640 662 700 738 766 769 805 828 879 891 918 935 963 984 1025 1058 1081 1086 1185 1235 1525 1890 1909 2137 2179 2181 2225 2247 2255 2294 2308 2334 2364 2777 2991 3225 3328 3366 3432 3439 3457 3503 3543 3772 3834 3838 3861 3864 3868 3935 3953 3963 4089 4254 4425 4453 5559 5599 6458 6489 6495 6545 6561 6581 6621 
+moves Solar_System.txt 2 633 6094 
+4.5 Solar_System.txt 1 1650 
+4.4 Solar_System.txt 1 6225 
+4.6 Solar_System.txt 1 95 
+4.3 Solar_System.txt 1 1705 
+field Solar_System.txt 8 3123 3130 3176 3193 3199 3257 5046 5616 
+nasa Solar_System.txt 1 5211 
+5 Solar_System.txt 3 1385 2547 3422 
+separate Solar_System.txt 2 908 4818 
+35,000 Solar_System.txt 1 6056 
+includes Solar_System.txt 2 914 3959 
+comet-like Solar_System.txt 2 3992 6074 
+downwind Solar_System.txt 2 4968 5019 
+included Solar_System.txt 1 6657 
+centaurs Solar_System.txt 5 347 3778 3982 3989 4753 
+doughnut-shaped Solar_System.txt 1 4244 
+mass Solar_System.txt 22 115 126 725 745 784 1223 1255 2098 2724 2794 3088 3168 3709 3875 3891 4311 4477 4494 6325 6394 6417 6557 
+cores Solar_System.txt 2 2936 3497 
+original Solar_System.txt 1 2723 
+migrated Solar_System.txt 1 2372 
+all Solar_System.txt 13 213 826 1057 1085 1274 1295 1422 1893 2459 3515 3932 5510 6538 
+since Solar_System.txt 1 936 
+consider Solar_System.txt 2 4726 5348 
+albion Solar_System.txt 1 4601 
+suns Solar_System.txt 15 731 1139 2464 2559 2852 2983 3080 3120 3255 4825 4860 5614 5848 6324 6393 
+asteroids Solar_System.txt 7 771 887 930 1192 3593 3631 4227 
+spacecraft Solar_System.txt 4 674 3733 5027 5214 
+disc Solar_System.txt 16 226 270 456 2106 2120 2143 2488 4258 4636 4640 4643 4685 4729 4742 4767 5326 
+follow Solar_System.txt 1 1197 
+causes Solar_System.txt 4 3307 4109 6554 6624 
+to Solar_System.txt 125 296 337 439 450 463 547 555 599 624 657 809 824 1066 1073 1122 1162 1250 1327 1480 1554 1564 1685 1722 1769 1867 1926 1951 1991 2089 2115 2154 2194 2215 2286 2311 2315 2373 2402 2441 2453 2541 2602 2650 2690 2807 2949 2977 2981 3070 3161 3285 3338 3387 3442 3450 3512 3547 3625 3670 3680 3716 3769 3789 3830 3844 3877 4106 4113 4129 4155 4169 4290 4389 4416 4421 4450 4460 4484 4535 4578 4597 4656 4667 4713 4722 4730 4779 4872 4875 4992 5079 5102 5141 5192 5230 5258 5262 5298 5307 5337 5350 5414 5429 5497 5505 5514 5529 5540 5619 5628 5882 5909 5941 5968 6115 6265 6278 6285 6377 6407 6447 6460 6535 6586 6598 
+tail Solar_System.txt 2 4122 5001 
+dominated Solar_System.txt 2 1236 4913 
+returning Solar_System.txt 1 2747 
+very Solar_System.txt 9 807 1064 2238 2251 3260 3730 4996 5419 5564 
+chiron Solar_System.txt 1 4028 
+perihelion Solar_System.txt 7 1168 1953 4082 5297 5333 5376 5439 
+reordering Solar_System.txt 1 590 
+pre Solar_System.txt 1 2465 
+17th Solar_System.txt 1 608 
+large Solar_System.txt 11 303 786 2025 2252 2317 2793 3775 4361 5280 6491 6524 
+small Solar_System.txt 14 69 398 877 1541 1784 1990 2057 2239 3602 4060 4297 4431 6243 6487 
+ten Solar_System.txt 2 6208 6352 
+rate Solar_System.txt 1 2409 
+invention Solar_System.txt 1 652 
+timescales Solar_System.txt 1 3262 
+samos Solar_System.txt 1 584 
+pass Solar_System.txt 2 3735 5217 
+further Solar_System.txt 7 480 661 2262 4275 4455 4652 5006 
+what Solar_System.txt 2 2513 2740 
+sun Solar_System.txt 91 8 33 50 79 119 412 636 713 792 835 842 874 1075 1104 1116 1124 1150 1164 1176 1218 1261 1270 1323 1329 1351 1389 1566 1581 1589 1618 1631 1655 1669 1687 1699 1821 1872 1941 1971 2217 2431 2451 2473 2498 2536 2569 2599 2611 2628 2647 2668 2685 2727 2766 2769 2774 2779 2839 2874 2898 3032 3187 3389 3430 3549 3666 3795 3880 4049 4108 4411 4706 4778 4842 4916 4955 4967 5096 5178 5416 5694 5722 5779 5799 5915 5930 6067 6212 6280 6287 6409 
+section Solar_System.txt 2 1749 6630 
+scientists Solar_System.txt 1 6042 
+method Solar_System.txt 1 6609 
+contrast Solar_System.txt 1 5645 
+component Solar_System.txt 2 706 2791 
+condenses Solar_System.txt 1 4974 
+i.e Solar_System.txt 1 3553 
+airport Solar_System.txt 1 1835 
+uncharted Solar_System.txt 1 5704 
+milky Solar_System.txt 9 500 2895 5184 5593 5739 5760 5785 5815 5892 
+action Solar_System.txt 1 5041 
+eye Solar_System.txt 1 4132 
+takes Solar_System.txt 2 5290 5304 
+distinct Solar_System.txt 1 953 
+contains Solar_System.txt 4 234 250 719 3692 
+two Solar_System.txt 11 83 165 181 339 1005 2455 3288 4140 4550 4817 5630 
+0.002 Solar_System.txt 1 778 
+minor Solar_System.txt 2 2184 3986 
+more Solar_System.txt 13 159 752 1130 1135 1332 2296 2849 2971 3718 3886 4700 4977 6677 
+flat Solar_System.txt 1 225 
+light-years Solar_System.txt 12 494 2034 5772 5805 6182 6209 6226 6318 6348 6353 6386 6425 
+ejected Solar_System.txt 3 2735 4670 5547 
+volatiles Solar_System.txt 4 206 1556 3809 4217 
+suffused Solar_System.txt 1 6188 
+known Solar_System.txt 23 421 724 800 1375 2077 2742 2883 3023 3042 3876 4012 4351 4984 5204 5709 5730 5790 5834 6125 6168 6403 6466 6480 
+producing Solar_System.txt 1 6008 
+hour Solar_System.txt 1 3059 
+remain Solar_System.txt 4 2287 2521 3831 6625 
+nine Solar_System.txt 2 5604 6473 
+history Solar_System.txt 2 531 5900 
+collision Solar_System.txt 1 4942 
+kreutz Solar_System.txt 1 4181 
+lacks Solar_System.txt 1 6470 
+terrestrial Solar_System.txt 10 141 255 765 917 1908 2246 2306 3365 3435 3454 
+huge Solar_System.txt 1 3178 
+5.2 Solar_System.txt 1 1624 
+5.5 Solar_System.txt 1 4002 
+5.9 Solar_System.txt 1 6295 
+worldsthe Solar_System.txt 1 4298 
+ft Solar_System.txt 1 1813 
+capture Solar_System.txt 1 2316 
+orbits Solar_System.txt 27 219 244 1099 1182 1200 1752 2272 2376 3403 3588 3995 4079 4085 4136 4146 4195 4206 4507 4533 4545 4617 4673 4708 5912 6248 6530 6577 
+plane Solar_System.txt 6 796 4267 4513 4716 5871 5885 
+a Solar_System.txt 115 104 223 284 403 414 474 477 588 601 714 882 952 1145 1158 1263 1307 1481 1597 1600 1634 1657 1662 1724 1828 1848 1885 1914 2021 2024 2118 2122 2129 2237 2433 2577 2614 2673 2714 2744 2817 2841 2900 2906 2986 3020 3034 3040 3061 3111 3152 3174 3418 3622 3720 3805 4017 4039 4066 4081 4097 4118 4120 4188 4301 4304 4310 4383 4468 4487 4491 4787 4876 4906 4909 4926 4980 4999 5005 5035 5172 5193 5246 5251 5254 5260 5279 5284 5375 5406 5421 5438 5478 5483 5491 5498 5580 5750 5762 5767 5895 5942 6230 6234 6252 6259 6312 6331 6416 6427 6476 6519 6549 6603 6616 6632 
+imagery Solar_System.txt 1 6644 
+ceres Solar_System.txt 5 327 3598 3739 3742 3745 
+rounded Solar_System.txt 1 309 
+developed Solar_System.txt 2 617 5250 
+mission Solar_System.txt 1 5256 
+thermal Solar_System.txt 1 2420 
+through Solar_System.txt 9 575 2377 3736 4899 5182 5405 5850 5932 6095 
+its Solar_System.txt 31 10 1156 1167 1170 1179 1675 1819 2504 2507 2606 2619 2636 2705 2788 2792 2803 3132 3208 4104 4110 4367 4811 4867 4894 4923 5332 5425 5454 5811 5905 6399 
+25 Solar_System.txt 1 1838 
+20 Solar_System.txt 1 3908 
+termed Solar_System.txt 2 379 5360 
+macrocosmica Solar_System.txt 1 526 
+late Solar_System.txt 1 549 
+systems Solar_System.txt 17 16 114 723 782 991 2783 3469 3676 5703 5838 5888 6038 6350 6445 6450 6540 6588 
+isaac Solar_System.txt 1 615 
+2,600 Solar_System.txt 1 2633 
+easily Solar_System.txt 1 3944 
+designation Solar_System.txt 1 4607 
+always Solar_System.txt 1 1458 
+found Solar_System.txt 1 1488 
+star-crowded Solar_System.txt 1 5978 
+referred Solar_System.txt 1 1553 
+reactions Solar_System.txt 1 2699 
+tilted Solar_System.txt 1 4264 
+generation Solar_System.txt 1 2945 
+energy Solar_System.txt 2 2585 2826 
+idea Solar_System.txt 1 630 
+beyond Solar_System.txt 14 261 282 928 959 1367 1545 2264 4094 4230 4697 5161 5600 6077 6478 
+dominates Solar_System.txt 2 727 1219 
+surrounded Solar_System.txt 2 880 892 
+sustain Solar_System.txt 1 2808 
+hill Solar_System.txt 1 4861 
+7 Solar_System.txt 1 6424 
+occurs Solar_System.txt 1 4943 
+inert Solar_System.txt 1 2581 
+members Solar_System.txt 1 4581 
+beginning Solar_System.txt 4 1746 2440 4854 5068 
+generate Solar_System.txt 1 3513 
+e.g Solar_System.txt 2 4539 5144 
+unmanned Solar_System.txt 1 673 
+perturb Solar_System.txt 1 5993 
+number Solar_System.txt 1 6619 
+ethereal Solar_System.txt 1 571 
+passes Solar_System.txt 1 5931 
+temperature Solar_System.txt 2 2407 2853 
+together Solar_System.txt 4 750 774 1548 3885 
+least Solar_System.txt 3 361 3072 3287 
+expand Solar_System.txt 1 2601 
+passed Solar_System.txt 1 5081 
+molecular Solar_System.txt 3 107 2026 2045 
+90377 Solar_System.txt 1 5273 
+relationship Solar_System.txt 1 1725 
+lightest Solar_System.txt 1 2324 
+part Solar_System.txt 1 5322 
+kind Solar_System.txt 1 4596 
+hundred Solar_System.txt 2 1483 4141 
+largely Solar_System.txt 4 1354 3473 4071 4286 
+determined Solar_System.txt 1 5431 
+toward Solar_System.txt 2 1054 4265 
+ages Solar_System.txt 1 551 
+substantial Solar_System.txt 1 3510 
+categorized Solar_System.txt 1 317 
+concentration Solar_System.txt 1 5945 
+lie Solar_System.txt 5 221 264 793 1063 1544 
+geomagnetic Solar_System.txt 1 3098 
+depending Solar_System.txt 1 3643 
+flares Solar_System.txt 1 3085 
+uncommonly Solar_System.txt 1 6483 
+towards Solar_System.txt 1 6065 
+most Solar_System.txt 16 529 544 785 830 981 1039 1171 1241 1529 1643 2095 2326 2789 4214 4505 4683 
+significant Solar_System.txt 1 1265 
+70 Solar_System.txt 1 2510 
+alpha Solar_System.txt 2 6220 6228 
+extremely Solar_System.txt 1 1442 
+sometimes Solar_System.txt 4 902 3865 4327 5359 
+km Solar_System.txt 12 1572 1586 1628 1638 1652 1837 1857 1975 1987 3427 4022 4473 
+barred Solar_System.txt 1 5763 
+charged Solar_System.txt 4 406 3038 3201 4929 
+physics Solar_System.txt 1 621 
+plutos Solar_System.txt 1 4838 
+golf Solar_System.txt 1 1886 
+scattered Solar_System.txt 12 269 455 4260 4635 4639 4642 4684 4728 4741 4745 4766 5325 
+find Solar_System.txt 1 6676 
+impact Solar_System.txt 1 3517 
+giant Solar_System.txt 14 105 155 737 890 934 1024 1524 1889 2254 2616 3771 3840 3863 3934 
+northern Solar_System.txt 1 5151 
+failed Solar_System.txt 1 3679 
+factor Solar_System.txt 1 5896 
+poles Solar_System.txt 1 3216 
+merged Solar_System.txt 1 2173 
+giants Solar_System.txt 5 172 189 1537 3931 6493 
+b Solar_System.txt 3 6232 6273 6335 
+valuable Solar_System.txt 1 5222 
+closely Solar_System.txt 1 6235 
+1.87 Solar_System.txt 1 5535 
+cubewanos Solar_System.txt 1 4590 
+fluff Solar_System.txt 1 6111 
+resolve Solar_System.txt 1 1992 
+transitional Solar_System.txt 1 4896 
+125,000 Solar_System.txt 1 5633 
+activity Solar_System.txt 1 3077 
+bars Solar_System.txt 1 1962 
+achieved Solar_System.txt 1 2418 
+disc-like Solar_System.txt 1 3289 
+collectively Solar_System.txt 1 3869 
+see Solar_System.txt 4 17 3075 5596 6670 
+migration Solar_System.txt 2 4682 5343 
+2.3 Solar_System.txt 1 3660 
+close Solar_System.txt 5 808 1065 2214 3386 5908 
+constellation Solar_System.txt 1 5856 
+arm Solar_System.txt 2 492 5794 
+currently Solar_System.txt 2 5706 6093 
+smallest Solar_System.txt 1 88 
+various Solar_System.txt 6 341 1495 1755 2378 4895 6086 
+orbiting Solar_System.txt 2 734 6267 
+probably Solar_System.txt 2 2037 3344 
+burned Solar_System.txt 1 2679 
+numerous Solar_System.txt 1 1540 
+sparsely Solar_System.txt 1 3731 
+craters Solar_System.txt 2 685 3518 
+incident Solar_System.txt 1 3738 
+tnos Solar_System.txt 1 4362 
+remaining Solar_System.txt 5 125 744 756 1297 2481 
+both Solar_System.txt 2 1988 3960 
+last Solar_System.txt 2 2444 6055 
+became Solar_System.txt 4 2100 2333 2397 2432 
+context Solar_System.txt 1 5735 
+point Solar_System.txt 6 429 1173 2269 2429 4795 5057 
+dwindle Solar_System.txt 1 2704 
+grain-sized Solar_System.txt 1 3642 
+belt Solar_System.txt 44 239 267 816 883 896 922 942 1195 1665 2342 2344 3320 3352 3370 3575 3579 3583 3651 3691 3713 3728 4160 4246 4280 4346 4350 4356 4381 4392 4440 4465 4481 4499 4519 4527 4563 4586 4648 4693 4738 4747 4757 5330 5664 
+fused Solar_System.txt 1 2062 
+create Solar_System.txt 1 3210 
+acceptance Solar_System.txt 1 627 
+due Solar_System.txt 4 1249 2193 3788 5191 
+johannes Solar_System.txt 1 612 
+galilei Solar_System.txt 1 611 
+collected Solar_System.txt 1 2099 
+partly Solar_System.txt 2 6601 6611 
+gas Solar_System.txt 5 171 2148 2482 4124 6492 
+gap Solar_System.txt 1 6507 
+understand Solar_System.txt 1 537 
+look Solar_System.txt 1 4993 
+grains Solar_System.txt 1 6071 
+solid Solar_System.txt 6 1419 1510 2206 2288 3797 3832 
+cosmic-ray Solar_System.txt 1 3267 
+30 Solar_System.txt 3 1648 4008 4405 
+century Solar_System.txt 1 609 
+itself Solar_System.txt 1 4560 
+triple Solar_System.txt 1 6217 
+bow Solar_System.txt 1 5170 
+belong Solar_System.txt 1 3925 
+virtually Solar_System.txt 1 5680 
+9 Solar_System.txt 1 5154 
+relatively Solar_System.txt 4 196 876 3385 6204 
+composition Solar_System.txt 2 703 1308 
+terrestrials Solar_System.txt 1 163 
+higher Solar_System.txt 3 2196 2907 3806 
+development Solar_System.txt 2 2984 6030 
+26,000 Solar_System.txt 1 493 
+levels Solar_System.txt 1 5226 
+uses Solar_System.txt 1 1809 
+332,900 Solar_System.txt 1 2795 
+recent Solar_System.txt 2 6046 6200 
+lower Solar_System.txt 3 1358 3825 5635 
+tugs Solar_System.txt 1 5988 
+congregated Solar_System.txt 1 2335 
+equalled Solar_System.txt 1 2422 
+edge Solar_System.txt 2 452 5117 
+comprise Solar_System.txt 3 775 1293 1516 
+distances Solar_System.txt 4 1557 1729 1924 1931 
+shape Solar_System.txt 3 5037 5111 5426 
+hercules Solar_System.txt 1 5857 
+zodiacal Solar_System.txt 2 3297 3309 
+15760 Solar_System.txt 1 4600 
+also Solar_System.txt 16 233 471 1300 3411 3783 4030 4710 4751 5366 5597 5684 5973 6026 6469 6525 6671 
+alternate Solar_System.txt 1 6440 
+source Solar_System.txt 3 466 4659 5508 
+location Solar_System.txt 4 5864 5889 6040 6431 
+exoplanet Solar_System.txt 2 6262 6277 
+heliopause Solar_System.txt 6 426 4844 5054 5106 5163 5219 
+lacking Solar_System.txt 1 6457 
+charon Solar_System.txt 2 4620 4625 
+7.5-metre Solar_System.txt 1 1829 
+projects Solar_System.txt 1 6684 
+vapour Solar_System.txt 1 1448 
+rotate Solar_System.txt 1 2090 
+shaped Solar_System.txt 2 4815 5148 
+valleys Solar_System.txt 1 3526 
+often Solar_System.txt 3 4127 4224 4719 
+creation Solar_System.txt 1 2356 
+some Solar_System.txt 13 1764 1782 2054 2748 3617 3921 4191 4360 4699 4724 4749 6041 6649 
+metres Solar_System.txt 2 1869 3624 
+understood Solar_System.txt 1 5245 
+ejections Solar_System.txt 2 3089 3169 
+3.3 Solar_System.txt 1 3662 
+3.8 Solar_System.txt 1 6521 
+gradually Solar_System.txt 1 3162 
+scale Solar_System.txt 7 1786 1803 1825 1920 1927 3451 4789 
+resonances Solar_System.txt 2 4530 4531 
+per Solar_System.txt 1 3058 
+behave Solar_System.txt 1 4995 
+funnels Solar_System.txt 1 3200 
+either Solar_System.txt 3 40 1507 2172 
+be Solar_System.txt 32 464 556 1211 1487 1789 1874 1892 1911 2588 2630 2661 2955 3535 3671 3717 4451 4461 4485 4521 4598 4657 4731 5321 5351 5430 5506 5541 5568 5698 6116 6266 6475 
+300 Solar_System.txt 1 6181 
+perpendicular Solar_System.txt 1 4721 
+tidal Solar_System.txt 1 5588 
+intense Solar_System.txt 1 6019 
+anything Solar_System.txt 1 4418 
+76 Solar_System.txt 1 5294 
+range Solar_System.txt 2 3620 4865 
+into Solar_System.txt 13 907 2117 2489 2711 2813 2829 3165 3203 4524 4671 5034 6003 6558 
+within Solar_System.txt 14 222 290 2023 2381 3103 3317 3349 3412 4083 4555 4690 5813 6207 6351 
+primarily Solar_System.txt 4 144 1301 3915 4399 
+protoplanets Solar_System.txt 1 2161 
+ellipse Solar_System.txt 1 1113 
+long Solar_System.txt 5 1961 3261 4121 5962 6613 
+mantles Solar_System.txt 1 3486 
+considerably Solar_System.txt 1 2631 
+elsewhere Solar_System.txt 1 6494 
+collapsed Solar_System.txt 1 2082 
+frost Solar_System.txt 3 1378 2266 3414 
+line Solar_System.txt 3 1379 2267 3415 
+consist Solar_System.txt 2 3895 4291 
+up Solar_System.txt 6 546 1479 2888 3871 4874 5496 
+planet Solar_System.txt 18 89 1015 1622 1645 1663 1983 3436 3532 3539 3561 3744 3841 3951 3987 4773 5423 5603 6472 
+exploration Solar_System.txt 2 505 510 
+orcus Solar_System.txt 2 4378 4447 
+similar Solar_System.txt 5 15 3171 3347 4388 5407 
+called Solar_System.txt 9 205 227 1000 1166 1178 3238 3638 3866 6270 
+113 Solar_System.txt 1 5450 
+defined Solar_System.txt 1 4809 
+stripped Solar_System.txt 1 3136 
+influence Solar_System.txt 2 4677 4833 
+metals Solar_System.txt 7 2200 2300 2916 2965 2997 3376 3488 
+single Solar_System.txt 1 4189 
+small-body Solar_System.txt 1 343 
+amounts Solar_System.txt 1 2058 
+dimmer Solar_System.txt 1 2879 
+nice Solar_System.txt 1 2349 
+elements Solar_System.txt 8 1342 2061 2234 2328 2696 2760 2910 2926 
+sunbut Solar_System.txt 1 2755 
+develops Solar_System.txt 1 4038 
+allowing Solar_System.txt 1 2309 
+structure Solar_System.txt 6 701 862 906 3102 4983 4989 
+ago Solar_System.txt 2 98 2015 
+furthest Solar_System.txt 1 5708 
+zooming Solar_System.txt 1 5186 
+95p Solar_System.txt 1 4035 
+orbit Solar_System.txt 23 38 48 77 263 789 799 833 1035 1144 1256 1547 1606 1676 1679 3654 3784 3878 3956 4232 4557 5288 5906 6462 
+2003 Solar_System.txt 1 5316 
+2000 Solar_System.txt 1 5371 
+neighbouring Solar_System.txt 1 6119 
+2007 Solar_System.txt 1 4373 
+far Solar_System.txt 8 2787 3905 4093 4312 4696 5412 5531 5943 
+having Solar_System.txt 2 4300 4567 
+once Solar_System.txt 1 4547 
+kilometre Solar_System.txt 1 3702 
+winds Solar_System.txt 1 4832 
+ammonia Solar_System.txt 3 210 1470 3813 
+copernicus Solar_System.txt 1 595 
+send Solar_System.txt 1 6000 
+outwards Solar_System.txt 3 409 3052 4653 
+include Solar_System.txt 2 324 5368 
+dramatically Solar_System.txt 1 4973 
+overlaps Solar_System.txt 1 4645 
+g2 Solar_System.txt 1 715 
+flinging Solar_System.txt 1 6059 
+minerals Solar_System.txt 2 3476 3615 
+categories Solar_System.txt 2 6685 6687 
+entire Solar_System.txt 2 3394 4282 
+positions Solar_System.txt 2 1202 2370 
+notes Solar_System.txt 1 6672 
+shock Solar_System.txt 3 4947 5084 5171 
+inward-scattered Solar_System.txt 1 4755 
+1660 Solar_System.txt 1 527 
+smaller Solar_System.txt 10 62 132 235 371 1126 1894 1912 3632 4313 6591 
+oort Solar_System.txt 14 458 2346 4173 4884 5398 5465 5469 5475 5488 5560 5642 5667 5726 5997 
+sulfide Solar_System.txt 1 1472 
+dynamics Solar_System.txt 1 5127 
+click Solar_System.txt 1 6436 
+726-8 Solar_System.txt 1 6360 
+bluntly Solar_System.txt 1 5147 
+trans-neptunian Solar_System.txt 4 275 330 4228 4240 
+volatile Solar_System.txt 3 1370 2283 4073 
+flowing Solar_System.txt 1 408 
+body Solar_System.txt 1 1958 
+led Solar_System.txt 3 623 656 6534 
+extrasolar Solar_System.txt 1 6444 
+respectively Solar_System.txt 2 1959 5097 
+categorically Solar_System.txt 1 565 
+growing Solar_System.txt 1 2500 
+objects Solar_System.txt 49 36 46 63 75 236 251 276 302 315 331 399 572 757 787 817 832 900 958 999 1101 1120 1196 1325 1347 1391 1542 1928 3378 3699 3798 4261 4352 4397 4441 4466 4500 4566 4664 4686 4743 4748 4758 5266 5363 5501 5562 5695 5710 6651 
+others Solar_System.txt 1 1793 
+great Solar_System.txt 3 2398 4384 4981 
+involved Solar_System.txt 1 1774 
+larger Solar_System.txt 9 85 1012 1671 2157 4438 5944 6073 6560 6653 
+leaving Solar_System.txt 2 2177 2713 
+suggests Solar_System.txt 1 6193 
+birthed Solar_System.txt 1 2038 
+residents Solar_System.txt 1 4763 
+composed Solar_System.txt 19 145 174 191 252 277 1282 1302 1340 1353 1398 1432 3371 3472 3608 3914 4070 4398 4428 5542 
+scales Solar_System.txt 3 1559 1763 1773 
+kuiper Solar_System.txt 27 266 815 895 941 1194 2343 3351 4159 4245 4279 4345 4349 4355 4380 4439 4464 4480 4498 4518 4585 4647 4692 4737 4746 4756 5329 5663 
+scaled Solar_System.txt 1 1866 
+oval Solar_System.txt 1 4982 
+cloud Solar_System.txt 28 108 459 2027 2030 2347 3299 3332 4174 4885 5399 5466 5470 5476 5481 5486 5489 5494 5561 5643 5668 5727 5998 6099 6108 6136 6148 6156 6162 
+use Solar_System.txt 1 671 
+andreas Solar_System.txt 1 515 
+from Solar_System.txt 58 99 410 433 495 523 567 848 1148 1174 1259 1267 1321 1349 1387 1562 1629 1653 1667 1697 1708 1716 1939 2016 2141 2439 2471 2485 2550 2993 3134 3182 3234 3334 3428 3440 3621 3664 3673 3793 3842 3946 4184 4409 4419 4574 4704 4776 4840 4953 4965 5021 5094 5240 5292 5548 5720 5806 5989 
+breakup Solar_System.txt 1 4186 
+next Solar_System.txt 2 1682 6283 
+ices Solar_System.txt 7 280 1466 1490 1551 2290 3917 4074 
+few Solar_System.txt 8 1482 1658 2964 3462 3623 4067 6205 6559 
+asteroid Solar_System.txt 15 238 326 921 2341 3319 3369 3574 3578 3582 3650 3690 3712 3727 3755 4391 
+luminosity Solar_System.txt 1 6400 
+on Solar_System.txt 19 587 697 1082 1089 1141 1761 1779 1993 2641 3078 3124 3259 3322 3644 4786 5009 5224 5903 6016 
+becomes Solar_System.txt 2 4976 5728 
+inclined Solar_System.txt 1 4712 
+780,000,000 Solar_System.txt 1 1627 
+sister Solar_System.txt 1 6683 
+opposing Solar_System.txt 1 441 
+informally Solar_System.txt 1 903 
+eccentricity Solar_System.txt 2 1966 6593 
+majority Solar_System.txt 4 111 122 1518 3013 
+account Solar_System.txt 2 739 1239 
+this Solar_System.txt 28 3 905 1748 1919 1994 2028 2047 2142 2428 2552 2563 2820 2972 3047 3191 3393 3408 3706 3786 4324 4843 4988 5394 5731 5831 5958 6533 6629 
+crossed Solar_System.txt 1 5104 
+thin Solar_System.txt 1 1029 
+sedna Solar_System.txt 5 1846 4372 5274 5417 5658 
+protoplanetary Solar_System.txt 3 1426 2119 2487 
+tau Solar_System.txt 1 6382 
+links Solar_System.txt 1 6675 
+process Solar_System.txt 2 2496 5408 
+0.3 Solar_System.txt 1 1916 
+0.2 Solar_System.txt 1 6255 
+0.7 Solar_System.txt 1 1973 
+pieces Solar_System.txt 1 6060 
+high Solar_System.txt 10 197 1344 1408 1447 1964 2805 2973 3752 6618 6668 
+230 Solar_System.txt 1 5166 
+six Solar_System.txt 1 356 
+regions Solar_System.txt 10 340 355 866 909 2337 2359 3290 4775 4897 5705 
+located Solar_System.txt 3 488 3585 5757 
+varies Solar_System.txt 2 1151 3273 
+elliptical Solar_System.txt 3 1143 1199 5287 
+47.7 Solar_System.txt 1 4579 
+circular Solar_System.txt 4 218 1188 5910 6584 
+tied Solar_System.txt 1 6236 
+low-eccentricity Solar_System.txt 1 4616 
+light Solar_System.txt 6 1319 1337 2837 3030 3310 5631 
+correspond Solar_System.txt 1 1950 
+940 Solar_System.txt 1 5299 
+or Solar_System.txt 22 42 536 570 1003 1415 1492 1511 1573 1664 1797 2174 3455 3463 3862 4374 4489 4546 5327 5583 5795 6109 6137 
+allow Solar_System.txt 1 3827 
+evolutionary Solar_System.txt 1 5899 
+produces Solar_System.txt 1 2798 
+astronomical Solar_System.txt 5 1437 1569 1625 2918 4791 
+move Solar_System.txt 2 2709 5563 
+meter Solar_System.txt 1 3635 
+including Solar_System.txt 3 345 762 931 
+galaxy Solar_System.txt 1 5765 
+superior Solar_System.txt 1 3950 
+outer Solar_System.txt 22 152 387 924 2363 2595 2706 2736 3757 3761 3801 3833 3837 3860 3962 4342 4812 4846 5048 5116 5480 5558 5787 
+masses Solar_System.txt 3 2797 3910 6422 
+primordial Solar_System.txt 1 4615 
+2016 Solar_System.txt 1 6258 
+ly Solar_System.txt 8 5526 5536 6183 6296 6300 6305 6362 6371 
+greater Solar_System.txt 5 822 2590 3791 3999 4470 
+material Solar_System.txt 4 2278 2751 3181 3195 
+counter-clockwise Solar_System.txt 1 845 
+flea Solar_System.txt 1 1915 
+rotation Solar_System.txt 1 1048 
+kilometres Solar_System.txt 3 3057 3628 4068 
+identified Solar_System.txt 1 321 
+70,000 Solar_System.txt 1 5718 
+references Solar_System.txt 1 6673 
+erratic Solar_System.txt 1 4672 
+prevailing Solar_System.txt 1 5140 
+globe Solar_System.txt 1 1815 
+700 Solar_System.txt 1 3425 
+product Solar_System.txt 1 6197 
+80 Solar_System.txt 1 6390 
+81 Solar_System.txt 1 5445 
+tenth Solar_System.txt 1 4488 
+84 Solar_System.txt 1 5092 
+out Solar_System.txt 11 449 1696 1707 1715 2263 3069 4219 4276 5187 5627 6455 
+category Solar_System.txt 1 3929 
+twice Solar_System.txt 2 4540 6322 
+red Solar_System.txt 6 2615 2885 3750 6244 6290 6366 
+interactions Solar_System.txt 6 2380 3209 3325 5129 5555 6614 
+interplanetary Solar_System.txt 7 349 2998 3002 3026 3067 3126 3281 
+scattered-disc Solar_System.txt 1 4663 
+bleed Solar_System.txt 1 3163 
+interaction Solar_System.txt 1 3189 
+110-metre Solar_System.txt 1 1811 
+determining Solar_System.txt 1 4203 
+could Solar_System.txt 9 1372 2203 2248 2365 2954 5953 5992 6025 6474 
+times Solar_System.txt 7 479 2605 3889 4837 4878 5016 6522 
+hence Solar_System.txt 1 1960 
+barnards Solar_System.txt 1 6292 
+south Solar_System.txt 1 5143 
+reaches Solar_System.txt 1 4273 
+condense Solar_System.txt 1 1373 
+improvements Solar_System.txt 1 665 
+precisely Solar_System.txt 1 4808 
+quality Solar_System.txt 2 6642 6669 
+ancient Solar_System.txt 1 2938 
+hyperbolic Solar_System.txt 1 4194 
+unknown Solar_System.txt 2 3279 5612 
+system Solar_System.txt 90 1 12 19 22 25 30 71 93 232 486 514 522 543 605 710 761 870 913 926 949 967 988 1062 1209 1221 1280 1314 1366 1396 1500 1760 1766 1778 1808 1923 1938 2007 2010 2076 2169 2192 2213 2519 2988 3017 3233 3272 3305 3355 3359 3383 3604 3759 3766 3803 3822 3942 4062 4103 4201 4271 4336 4344 4433 4785 4800 5190 5239 5518 5552 5609 5747 5755 5957 5972 6007 6092 6102 6129 6219 6345 6358 6380 6453 6468 6482 6568 6580 6636 6680 
+their Solar_System.txt 17 311 993 1055 1254 2195 2374 3159 3483 3496 3774 3790 3927 4204 4216 4595 6552 6572 
+accretion Solar_System.txt 2 2140 2995 
+shell Solar_System.txt 1 2578 
+explanation Solar_System.txt 1 2353 
+kelvins Solar_System.txt 1 1484 
+commence Solar_System.txt 1 2691 
+detection Solar_System.txt 1 6608 
+halleys Solar_System.txt 1 858 
+extraordinarily Solar_System.txt 1 2718 
+sweden Solar_System.txt 1 1806 
+are Solar_System.txt 70 55 84 140 154 170 187 272 293 316 373 641 806 818 854 950 971 1011 1045 1072 1134 1186 1299 1331 1339 1352 1397 1431 1552 1783 1925 1929 2848 2875 3384 3471 3545 3599 3607 3636 3884 3904 3913 3990 4059 4153 4167 4223 4458 4532 4587 4611 4665 4709 4718 4814 5077 5202 5683 5916 5939 6151 6203 6233 6288 6340 6354 6499 6582 6596 6652 
+1.5 Solar_System.txt 1 3055 
+tide Solar_System.txt 1 5586 
+kepler Solar_System.txt 1 613 
+unlikely Solar_System.txt 1 3715 
+have Solar_System.txt 35 216 307 675 989 1476 1719 2163 2366 2970 2978 3147 3227 3458 3508 3516 3936 3996 4076 4135 4145 4212 4501 4506 4668 4688 5080 5103 5338 5403 5715 6043 6049 6528 6590 6663 
+habitable Solar_System.txt 1 6261 
+linked Solar_System.txt 1 4534 
+viewed Solar_System.txt 1 847 
+angle Solar_System.txt 1 5878 
+gravity Solar_System.txt 5 313 1140 2426 3748 4826 
+outward Solar_System.txt 2 4681 5003 
+which Solar_System.txt 26 240 271 431 460 1007 1271 1292 1330 1368 1456 2145 2543 3416 3481 3494 3540 4262 4602 4644 4797 4917 4948 5059 5365 5373 6222 
+sirius Solar_System.txt 2 6311 6334 
+silicates Solar_System.txt 5 1413 2202 2302 3374 3480 
+asserts Solar_System.txt 1 5317 
+centre Solar_System.txt 8 560 2093 2135 2393 5809 5983 5986 6024 
+who Solar_System.txt 1 5311 
+eight Solar_System.txt 3 54 214 962 
+but Solar_System.txt 14 1189 1735 2170 2728 4202 4393 4474 4649 4694 5013 5723 6121 6395 6562 
+neptune Solar_System.txt 19 186 960 975 1088 1533 1646 1711 2260 3846 3903 3978 3981 4234 4538 4544 4559 4571 5601 6517 
+so-called Solar_System.txt 1 1535 
+radial-velocity Solar_System.txt 1 6607 
+face Solar_System.txt 1 1051 
+atmosphere Solar_System.txt 3 3063 3133 3206 
+rings Solar_System.txt 3 393 1028 3937 
+rotating Solar_System.txt 2 844 3121 
+principal Solar_System.txt 1 705 
+nearer Solar_System.txt 1 1683 
+should Solar_System.txt 1 3533 
+brighter Solar_System.txt 2 2501 2869 
+constituents Solar_System.txt 1 1756 
+partially Solar_System.txt 1 3229 
+local Solar_System.txt 9 5199 5796 6097 6106 6110 6134 6146 6154 6171 
+inferior Solar_System.txt 1 3538 
+equilibrium Solar_System.txt 1 2416 
+slows Solar_System.txt 1 4972 
+700,000 Solar_System.txt 1 1585 
+ones Solar_System.txt 1 6656 
+parlance Solar_System.txt 1 2919 
+spur Solar_System.txt 1 5797 
+areas Solar_System.txt 1 1799 
+following Solar_System.txt 2 1105 1823 
+evolution Solar_System.txt 2 1998 2003 
+densities Solar_System.txt 1 2801 
+conditions Solar_System.txt 2 1423 5197 
+comprising Solar_System.txt 3 31 751 3363 
+qb Solar_System.txt 1 4609 
+contain Solar_System.txt 3 2963 3804 4417 
+2060 Solar_System.txt 1 4027 
+discovery Solar_System.txt 4 503 508 659 938 
+generations Solar_System.txt 1 2065 
+unison Solar_System.txt 1 1038 
+predictive Solar_System.txt 1 603 
+farthest Solar_System.txt 2 1843 4774 
+exists Solar_System.txt 1 1310 
+catastrophic Solar_System.txt 1 6012 
+exerted Solar_System.txt 1 5590 
+turbulent Solar_System.txt 1 4978 
+luminous Solar_System.txt 1 2850 
+creating Solar_System.txt 3 3060 3093 4117 
+closer Solar_System.txt 6 1070 1121 1326 3546 5413 6529 
+phases Solar_System.txt 1 2461 
+interacting Solar_System.txt 1 6152 
+nuclear Solar_System.txt 2 2698 2809 
+nebula Solar_System.txt 7 1427 1465 1504 2081 2110 2244 2746 
+thermonuclear Solar_System.txt 1 2404 
+main-sequence Solar_System.txt 9 716 2434 2437 2505 2560 2818 2843 2846 6314 
+tens Solar_System.txt 3 298 3693 5671 
+boundary Solar_System.txt 4 1362 4847 5025 5049 
+ends Solar_System.txt 1 4801 
+interfere Solar_System.txt 1 6027 
+hypothesis Solar_System.txt 1 6536 
+nicolaus Solar_System.txt 1 594 
+undetermined Solar_System.txt 1 6626 
+observable Solar_System.txt 1 6434 
+sednoids Solar_System.txt 1 289 
+equal Solar_System.txt 1 438 
+heliospheric Solar_System.txt 2 3008 3108 
+passing Solar_System.txt 1 5581 
+0.00047 Solar_System.txt 1 1639 
+otherwise Solar_System.txt 1 6165 
+cm Solar_System.txt 2 1850 1877 
+harmonia Solar_System.txt 1 525 
+cr Solar_System.txt 1 5372 
+8.3 Solar_System.txt 1 6304 
+8.7 Solar_System.txt 1 6361 
+8.6 Solar_System.txt 1 6317 
+addition Solar_System.txt 1 336 
+slowly Solar_System.txt 1 5565 
+hottest Solar_System.txt 1 2860 
+mike Solar_System.txt 1 5309 
+nickel Solar_System.txt 2 1416 3493 
+overwhelmingly Solar_System.txt 2 3896 4292 
+angles Solar_System.txt 1 823 
+orreries Solar_System.txt 1 1791 
+present Solar_System.txt 1 2593 
+categorised Solar_System.txt 1 4225 
+vulcanoid Solar_System.txt 1 5598 
+ejection Solar_System.txt 1 6575 
+will Solar_System.txt 15 2443 2520 2544 2553 2570 2587 2600 2612 2629 2660 2669 2703 2708 2738 5220 
+encircled Solar_System.txt 1 390 
+2012 Solar_System.txt 3 5109 5448 5453 
+discoveries Solar_System.txt 1 5655 
+comets Solar_System.txt 21 346 469 773 813 1191 1268 3782 4043 4050 4058 4134 4144 4152 4163 4192 4210 4662 5000 5512 5544 6002 
+almost Solar_System.txt 3 217 1421 4720 
+thus Solar_System.txt 2 1587 3958 
+surface Solar_System.txt 6 2622 2625 3081 3184 3521 4112 
+vp Solar_System.txt 1 5449 
+orbital Solar_System.txt 4 1728 1965 5387 6592 
+proxima Solar_System.txt 3 6246 6268 6271 
+99.86 Solar_System.txt 1 720 
+began Solar_System.txt 1 2114 
+radiation Solar_System.txt 4 2833 5225 5951 6020 
+parts Solar_System.txt 1 945 
+donut-shaped Solar_System.txt 1 3581 
+schematic Solar_System.txt 1 5471 
+largest Solar_System.txt 12 53 166 733 1042 1621 1801 1982 3101 3597 4011 4299 6307 
+units Solar_System.txt 2 1626 4792 
+difficult Solar_System.txt 1 4208 
+ball Solar_System.txt 1 1887 
+eccentric Solar_System.txt 1 4078 
+dust Solar_System.txt 10 350 395 692 2146 2484 3293 3298 3331 4126 6070 
+frequently Solar_System.txt 1 819 
+warming Solar_System.txt 1 4222 
+destruction Solar_System.txt 1 6573 
+rift Solar_System.txt 1 3525 
+center Solar_System.txt 1 497 
+i Solar_System.txt 1 2902 
+colour Solar_System.txt 1 3854 
+well Solar_System.txt 4 1527 5135 5233 5975 
+thought Solar_System.txt 13 462 2976 3669 4154 4168 4483 4655 4666 4871 4991 5504 5539 6114 
+km/s Solar_System.txt 2 4922 5820 
+position Solar_System.txt 1 5743 
+359 Solar_System.txt 1 6298 
+spherical Solar_System.txt 2 5479 5493 
+jupiters Solar_System.txt 1 4001 
+routinely Solar_System.txt 1 3734 
+less Solar_System.txt 7 776 3397 3420 3906 4005 4138 6418 
+increasingly Solar_System.txt 1 2101 
+proximity Solar_System.txt 1 4105 
+satellites Solar_System.txt 5 377 1002 1044 1521 4503 
+distant Solar_System.txt 4 1172 1644 5336 5361 
+rest Solar_System.txt 1 1244 
+saturns Solar_System.txt 1 3940 
+density Solar_System.txt 3 2388 2412 3242 
+sky Solar_System.txt 1 577 
+mathematically Solar_System.txt 1 602 
+reasons Solar_System.txt 1 3920 
+extends Solar_System.txt 5 448 3333 4403 4573 4650 
+increased Solar_System.txt 2 2413 2621 
+articles Solar_System.txt 5 3001 3836 4622 4631 5268 
+260 Solar_System.txt 1 2604 
+know Solar_System.txt 1 2525 
+denser Solar_System.txt 1 6161 
+sublimate Solar_System.txt 1 4114 
+like Solar_System.txt 4 253 1467 2761 4998 
+sizes Solar_System.txt 1 3449 
+become Solar_System.txt 2 2073 2613 
+because Solar_System.txt 12 1132 2232 2617 2989 3682 3823 4036 4810 5331 5400 5936 6661 
+classical Solar_System.txt 3 4526 4562 4584 
+sequence Solar_System.txt 2 2644 6550 
+phenomena Solar_System.txt 2 681 688 
+convey Solar_System.txt 1 1770 
+home Solar_System.txt 4 3284 3768 4247 5940 
+4.568 Solar_System.txt 1 2012 
+philosopher Solar_System.txt 1 581 
+g-cloud Solar_System.txt 2 6120 6150 
+rock Solar_System.txt 4 147 258 1401 4321 
+centaur Solar_System.txt 3 3985 4013 4025 
+stellar Solar_System.txt 1 6063 
+pressure Solar_System.txt 8 432 442 1320 1338 1449 2386 2410 2421 
+although Solar_System.txt 5 578 1216 3938 5409 6594 
+described Solar_System.txt 1 4328 
+about Solar_System.txt 18 6 1102 1228 1875 1896 2445 3335 3339 3424 4020 5293 5629 5770 5774 5818 5880 6224 6678 
+rare Solar_System.txt 1 2876 
+universe Solar_System.txt 3 563 2953 6435 
+outward-scattered Solar_System.txt 1 4762 
+own Solar_System.txt 3 312 994 3928 
+previously Solar_System.txt 1 4603 
+0.0047 Solar_System.txt 1 1583 
+interstellar Solar_System.txt 25 106 419 445 2490 2764 3236 3248 4803 4857 4901 4939 4959 5024 5044 5070 5132 5200 5851 6082 6098 6107 6135 6147 6155 6178 
+weather Solar_System.txt 2 3095 3514 
+tiny Solar_System.txt 1 1032 
+artists Solar_System.txt 1 2186 
+spiral Solar_System.txt 5 3112 5764 5788 5926 5937 
+inner Solar_System.txt 24 133 878 911 1080 1394 2211 2307 3303 3353 3357 3381 3431 3438 3456 3502 3531 3820 4088 4101 4339 5397 5485 5550 6005 
+terminates Solar_System.txt 1 5064 
+9.7 Solar_System.txt 1 6370 
+north Solar_System.txt 1 851 
+overlapping Solar_System.txt 1 4257 
+567 Solar_System.txt 1 1858 
+volume Solar_System.txt 3 1595 1609 6648 
+he Solar_System.txt 1 5344 
+made Solar_System.txt 1 1721 
+wise Solar_System.txt 1 6411 
+places Solar_System.txt 1 1496 
+gravitational Solar_System.txt 13 101 2018 2379 3324 3685 4676 4868 5554 5577 5615 5622 5948 5987 
+converted Solar_System.txt 1 2540 
+limit Solar_System.txt 1 4828 
+recognize Solar_System.txt 1 535 
+eris Solar_System.txt 5 334 4369 4768 4771 6660 
+denote Solar_System.txt 1 1963 
+periods Solar_System.txt 1 5963 
+compared Solar_System.txt 4 200 2452 6446 6585 
+45 Solar_System.txt 1 5378 
+40 Solar_System.txt 3 1836 3340 5007 
+other Solar_System.txt 13 14 342 397 699 831 1907 2152 2460 4252 5346 6349 6448 6587 
+85 Solar_System.txt 1 2889 
+star Solar_System.txt 15 18 717 2435 2784 2819 2844 2903 4782 5582 5868 6218 6293 6309 6315 6376 
+metallicity Solar_System.txt 1 2974 
+28,000 Solar_System.txt 1 5804 
+indirectly Solar_System.txt 2 43 80 
+heliosheath Solar_System.txt 2 4987 5088 

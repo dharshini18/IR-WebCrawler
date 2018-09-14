@@ -1,0 +1,637 @@
+limited Omen.txt 1 603 
+similarity Omen.txt 1 1192 
+audire Omen.txt 1 246 
+bird-sign Omen.txt 1 838 
+asian Omen.txt 1 287 
+battle Omen.txt 1 896 
+oldest Omen.txt 1 256 
+decisions Omen.txt 1 686 
+looking Omen.txt 1 1320 
+passage Omen.txt 1 889 
+to Omen.txt 35 55 76 126 134 154 180 189 192 204 248 303 318 365 387 409 451 505 526 537 604 653 712 732 760 787 818 827 919 929 1016 1096 1163 1172 1370 1475 
+include Omen.txt 1 104 
+consul Omen.txt 3 1027 1079 1166 
+sent Omen.txt 1 665 
+philistines Omen.txt 1 560 
+placated Omen.txt 1 999 
+mid-nineteenth Omen.txt 1 24 
+prodigies Omen.txt 2 941 974 
+embark Omen.txt 1 1173 
+1493 Omen.txt 1 15 
+interpreting Omen.txt 1 357 
+persa Omen.txt 1 1187 
+animals Omen.txt 2 114 917 
+missionary Omen.txt 1 62 
+sgaw Omen.txt 1 28 
+clouds Omen.txt 1 39 
+did Omen.txt 2 178 541 
+proposals Omen.txt 1 933 
+1066 Omen.txt 1 1305 
+inauspicious Omen.txt 1 852 
+affect Omen.txt 1 1105 
+20th Omen.txt 1 296 
+sacrificial Omen.txt 2 121 331 
+crow Omen.txt 1 863 
+hepatoscopy Omen.txt 3 309 316 535 
+sign Omen.txt 2 1207 1435 
+go Omen.txt 1 1278 
+enclosed Omen.txt 1 1090 
+7th Omen.txt 1 349 
+substitute Omen.txt 3 390 405 426 
+auspices Omen.txt 1 908 
+even Omen.txt 1 723 
+what Omen.txt 1 182 
+hide Omen.txt 1 400 
+witnessed Omen.txt 1 1126 
+sun Omen.txt 1 36 
+near Omen.txt 3 252 264 491 
+election Omen.txt 1 1077 
+public Omen.txt 1 1059 
+above Omen.txt 1 533 
+new Omen.txt 1 892 
+officially Omen.txt 2 976 994 
+bird Omen.txt 1 635 
+full Omen.txt 1 1374 
+haruspices Omen.txt 1 909 
+notable Omen.txt 1 1382 
+men Omen.txt 1 1339 
+esarhaddon Omen.txt 2 289 374 
+superstition Omen.txt 1 1449 
+behaviour Omen.txt 1 873 
+favourable Omen.txt 2 844 868 
+represented Omen.txt 1 680 
+i.e Omen.txt 1 310 
+along Omen.txt 1 1363 
+change Omen.txt 1 85 
+bible Omen.txt 1 539 
+daughter Omen.txt 1 1182 
+unwillingness Omen.txt 1 781 
+studied Omen.txt 1 871 
+mirant Omen.txt 1 1313 
+reports Omen.txt 1 1248 
+stella Omen.txt 1 1314 
+aberrant Omen.txt 1 943 
+action Omen.txt 1 191 
+changes Omen.txt 1 206 
+thummim Omen.txt 2 551 582 
+danger Omen.txt 1 419 
+merely Omen.txt 1 1289 
+assyria Omen.txt 2 346 385 
+pereus Omen.txt 1 1209 
+marked Omen.txt 1 763 
+brought Omen.txt 1 708 
+aimed Omen.txt 2 697 1121 
+crisis Omen.txt 1 162 
+use Omen.txt 3 141 501 1145 
+from Omen.txt 9 11 99 267 584 592 666 739 779 986 
+would Omen.txt 7 139 164 183 382 399 423 1210 
+prophets Omen.txt 2 553 573 
+positive Omen.txt 1 764 
+century Omen.txt 4 25 297 350 595 
+only Omen.txt 2 1063 1291 
+call Omen.txt 1 1261 
+licinius Omen.txt 1 1252 
+more Omen.txt 1 218 
+horses Omen.txt 1 1032 
+throne Omen.txt 2 394 437 
+israel Omen.txt 2 522 527 
+hazor Omen.txt 1 516 
+lungs Omen.txt 1 913 
+boghazkoi Omen.txt 1 512 
+reign Omen.txt 1 372 
+particular Omen.txt 2 1112 1123 
+known Omen.txt 1 904 
+orator Omen.txt 1 1217 
+hold Omen.txt 1 1162 
+word Omen.txt 4 197 228 234 245 
+indicates Omen.txt 2 42 1459 
+this Omen.txt 6 56 259 482 598 1204 1485 
+eclipse Omen.txt 2 110 1346 
+cat Omen.txt 1 1463 
+debated Omen.txt 1 977 
+incidents Omen.txt 1 1116 
+learn Omen.txt 1 506 
+believed Omen.txt 4 75 91 417 1110 
+example Omen.txt 6 108 146 835 1396 1447 1483 
+history Omen.txt 1 1390 
+predict Omen.txt 2 181 654 
+accept Omen.txt 1 1158 
+states Omen.txt 1 1453 
+heard Omen.txt 5 677 1070 1128 1180 1271 
+sense Omen.txt 1 224 
+yet Omen.txt 1 1037 
+tapestry Omen.txt 2 1311 1336 
+lamb Omen.txt 1 122 
+united Omen.txt 1 1452 
+court Omen.txt 1 606 
+secured Omen.txt 1 1139 
+how Omen.txt 1 364 
+beware Omen.txt 1 1276 
+sacred Omen.txt 1 876 
+answer Omen.txt 3 168 173 543 
+plans Omen.txt 1 1107 
+may Omen.txt 3 239 1422 1436 
+sacrifice Omen.txt 2 918 1003 
+after Omen.txt 1 1411 
+averted Omen.txt 1 1143 
+blood Omen.txt 1 954 
+such Omen.txt 9 469 471 476 478 517 883 947 1130 1151 
+law Omen.txt 1 893 
+response Omen.txt 2 826 928 
+a Omen.txt 33 59 71 96 147 151 166 222 330 389 402 566 633 749 755 758 785 837 856 862 885 891 895 1014 1020 1073 1206 1234 1263 1331 1448 1461 1491 1501 
+natural Omen.txt 3 16 105 1047 
+omen Omen.txt 13 0 6 64 198 751 767 805 1154 1156 1160 1466 1493 1503 
+interrupted Omen.txt 1 1075 
+greek Omen.txt 1 770 
+18th Omen.txt 1 594 
+metonic Omen.txt 1 1348 
+geographic Omen.txt 1 1327 
+offal Omen.txt 1 797 
+augurs Omen.txt 4 651 812 869 902 
+unsolicited Omen.txt 1 1244 
+interpretation Omen.txt 2 1007 1432 
+over Omen.txt 1 421 
+interpreted Omen.txt 2 813 1438 
+entrails Omen.txt 2 328 915 
+through Omen.txt 1 546 
+same Omen.txt 1 1434 
+signs Omen.txt 2 734 990 
+unfavorable Omen.txt 1 176 
+its Omen.txt 2 124 796 
+before Omen.txt 3 554 878 1040 
+personal Omen.txt 1 1245 
+greeks Omen.txt 1 728 
+heron Omen.txt 1 756 
+differently Omen.txt 1 1439 
+hidden Omen.txt 1 1514 
+main Omen.txt 1 803 
+might Omen.txt 3 1104 1117 1269 
+coincidental Omen.txt 1 1290 
+then Omen.txt 2 475 992 
+them Omen.txt 5 448 678 1071 1129 1296 
+good Omen.txt 6 212 775 1417 1426 1478 1502 
+combination Omen.txt 1 854 
+therafter Omen.txt 1 1085 
+questions Omen.txt 1 829 
+practice Omen.txt 4 260 269 518 570 
+flew Omen.txt 1 649 
+they Omen.txt 15 129 138 163 177 307 334 381 416 422 528 564 657 674 736 746 
+half Omen.txt 2 274 454 
+not Omen.txt 2 542 602 
+antiquity Omen.txt 1 627 
+killed Omen.txt 1 1281 
+term Omen.txt 1 216 
+edit Omen.txt 7 254 621 802 1299 1420 1510 1512 
+advent Omen.txt 1 83 
+l Omen.txt 1 1167 
+found Omen.txt 2 510 520 
+bayeux Omen.txt 1 1310 
+luck Omen.txt 1 1469 
+cicero Omen.txt 2 1220 1284 
+england Omen.txt 1 1499 
+series Omen.txt 1 445 
+abnormal Omen.txt 1 111 
+expect Omen.txt 1 165 
+happen Omen.txt 1 184 
+beyond Omen.txt 1 494 
+special Omen.txt 1 730 
+out Omen.txt 1 488 
+unnatural Omen.txt 2 19 942 
+since Omen.txt 1 724 
+content Omen.txt 1 1120 
+method Omen.txt 1 144 
+millennium Omen.txt 2 278 458 
+expiation Omen.txt 1 1009 
+advice Omen.txt 1 985 
+shows Omen.txt 1 31 
+aemilius Omen.txt 1 1168 
+harold Omen.txt 1 1496 
+belief Omen.txt 2 483 568 
+story Omen.txt 1 1250 
+romans Omen.txt 1 1109 
+ancient Omen.txt 7 89 251 263 619 800 806 809 
+rain Omen.txt 1 955 
+put Omen.txt 1 388 
+ominous Omen.txt 4 229 1056 1260 1297 
+benefits Omen.txt 1 1138 
+phrases Omen.txt 1 1114 
+could Omen.txt 5 959 991 1054 1133 1294 
+positioning Omen.txt 1 691 
+terrible Omen.txt 1 368 
+times Omen.txt 3 90 160 726 
+american Omen.txt 1 61 
+threat Omen.txt 2 1015 1142 
+hence Omen.txt 1 208 
+syria Omen.txt 1 1257 
+think Omen.txt 1 1295 
+first Omen.txt 2 273 453 
+origin Omen.txt 2 30 231 
+consultations Omen.txt 1 900 
+dont Omen.txt 1 1277 
+manuscript Omen.txt 2 21 57 
+saros Omen.txt 1 1350 
+disregarded Omen.txt 1 1030 
+one Omen.txt 4 377 847 1394 1482 
+channels Omen.txt 1 715 
+diviners Omen.txt 3 133 352 504 
+another Omen.txt 1 742 
+carry Omen.txt 1 1118 
+message Omen.txt 1 98 
+sheep Omen.txt 3 152 332 499 
+city Omen.txt 1 586 
+given Omen.txt 1 1190 
+urim Omen.txt 2 549 580 
+unknown Omen.txt 1 236 
+threatening Omen.txt 1 989 
+system Omen.txt 1 831 
+their Omen.txt 8 100 157 572 690 830 1137 1141 1431 
+listed Omen.txt 1 532 
+statement Omen.txt 1 466 
+travelled Omen.txt 1 1087 
+final Omen.txt 1 556 
+foretelling Omen.txt 1 1238 
+observations Omen.txt 1 439 
+collapse Omen.txt 1 1033 
+that Omen.txt 13 73 92 563 597 961 1012 1103 1111 1184 1208 1228 1251 1460 
+tool Omen.txt 1 578 
+zeus Omen.txt 2 667 745 
+took Omen.txt 2 1203 1254 
+solar Omen.txt 1 1359 
+favorable Omen.txt 1 174 
+specialists Omen.txt 1 131 
+convinced Omen.txt 1 1227 
+royal Omen.txt 2 339 605 
+king Omen.txt 9 363 391 398 406 427 431 544 1178 1495 
+showed Omen.txt 2 562 596 
+halleys Omen.txt 2 1300 1487 
+future Omen.txt 4 79 187 656 1240 
+were Omen.txt 11 53 300 308 335 343 442 462 509 601 696 975 
+are Omen.txt 2 903 1319 
+and Omen.txt 54 18 41 115 117 188 280 290 306 314 321 333 360 395 414 428 460 470 477 493 515 550 569 574 576 581 643 668 684 695 721 765 776 791 846 861 914 931 970 978 996 1004 1008 1036 1052 1136 1196 1218 1225 1279 1352 1360 1369 1454 1479 
+livers Omen.txt 1 500 
+willingness Omen.txt 1 783 
+chickens Omen.txt 2 877 1035 
+disambiguation Omen.txt 1 7 
+accepit Omen.txt 1 1153 
+say Omen.txt 1 1183 
+himself Omen.txt 1 1224 
+advising Omen.txt 1 361 
+have Omen.txt 3 565 1376 1472 
+abnormalities Omen.txt 1 322 
+saw Omen.txt 5 659 675 737 1068 1285 
+any Omen.txt 2 956 1100 
+contents Omen.txt 1 250 
+lie Omen.txt 1 94 
+depending Omen.txt 1 1429 
+pursued Omen.txt 1 284 
+1966 Omen.txt 1 1332 
+cave Omen.txt 1 1273 
+also Omen.txt 9 65 140 608 658 773 870 1345 1471 1509 
+rome Omen.txt 2 801 807 
+take Omen.txt 2 190 410 
+which Omen.txt 5 673 958 1213 1268 1489 
+wonder Omen.txt 2 1322 1340 
+formulas Omen.txt 1 1150 
+added Omen.txt 1 54 
+opposite Omen.txt 1 692 
+victim Omen.txt 1 786 
+who Omen.txt 4 707 1067 1125 1405 
+paid Omen.txt 1 729 
+most Omen.txt 1 337 
+connected Omen.txt 1 241 
+strikes Omen.txt 1 1051 
+significant Omen.txt 1 1387 
+thunderclap Omen.txt 1 1074 
+services Omen.txt 1 340 
+vultures Omen.txt 1 738 
+the Omen.txt 127 12 23 35 37 43 78 82 88 120 127 132 186 196 205 215 227 230 233 243 255 262 272 276 286 295 324 327 348 358 362 367 371 379 393 396 404 411 418 425 429 436 438 452 456 473 480 490 503 507 530 538 559 585 590 593 617 629 640 644 650 655 670 681 685 688 705 709 717 727 740 752 761 769 780 789 793 814 820 823 840 849 853 859 865 872 888 907 911 921 924 938 962 968 981 997 1001 1006 1017 1026 1034 1058 1065 1159 1165 1191 1194 1197 1200 1216 1239 1249 1259 1292 1309 1324 1335 1342 1355 1365 1373 1398 1401 1407 1413 1433 1451 1506 
+arripuit Omen.txt 1 1155 
+especially Omen.txt 1 632 
+consequences Omen.txt 1 413 
+considered Omen.txt 4 747 1379 1424 1474 
+clear Omen.txt 1 930 
+later Omen.txt 2 467 486 
+dog Omen.txt 2 1186 1201 
+thunder Omen.txt 2 662 1053 
+left Omen.txt 3 741 841 866 
+attested Omen.txt 1 270 
+came Omen.txt 2 266 936 
+particularly Omen.txt 1 1049 
+phenomenon Omen.txt 1 72 
+categories Omen.txt 2 1513 1515 
+gaius Omen.txt 1 1028 
+with Omen.txt 9 95 156 226 242 558 571 984 1000 1364 
+state Omen.txt 3 794 1018 1061 
+paullus Omen.txt 1 1169 
+flights Omen.txt 1 815 
+black Omen.txt 1 1462 
+judged Omen.txt 1 774 
+signifying Omen.txt 1 81 
+credulous Omen.txt 1 1293 
+oionosomen Omen.txt 1 623 
+he Omen.txt 4 1086 1202 1214 1247 
+do Omen.txt 1 383 
+his Omen.txt 9 291 555 1031 1041 1076 1083 1106 1175 1181 
+means Omen.txt 2 1236 1316 
+681-669 Omen.txt 1 375 
+ones Omen.txt 1 1318 
+words Omen.txt 1 1113 
+despite Omen.txt 1 1258 
+during Omen.txt 2 347 370 
+societies Omen.txt 1 1393 
+countries Omen.txt 1 1456 
+approach Omen.txt 1 788 
+cry Omen.txt 1 753 
+irregularities Omen.txt 1 320 
+slaughtered Omen.txt 1 799 
+bad Omen.txt 10 45 214 750 777 1101 1419 1428 1468 1480 1492 
+predicted Omen.txt 1 1406 
+ascertain Omen.txt 1 819 
+mesopos Omen.txt 1 268 
+gospel Omen.txt 1 1402 
+explanations Omen.txt 1 50 
+saul Omen.txt 1 545 
+signify Omen.txt 1 960 
+disaster Omen.txt 2 194 1042 
+reference Omen.txt 1 203 
+national Omen.txt 1 1326 
+humans Omen.txt 2 116 722 
+observed Omen.txt 1 669 
+see Omen.txt 3 5 1344 1508 
+decided Omen.txt 1 979 
+result Omen.txt 1 481 
+greece Omen.txt 1 620 
+embarking Omen.txt 1 879 
+portent Omen.txt 1 67 
+nature Omen.txt 1 207 
+wikipedia Omen.txt 1 1 
+artificial Omen.txt 1 143 
+birds Omen.txt 2 641 817 
+isti Omen.txt 1 1312 
+3 Omen.txt 1 301 
+various Omen.txt 1 32 
+seers Omen.txt 1 772 
+between Omen.txt 1 716 
+import Omen.txt 1 971 
+astrology Omen.txt 2 1298 1358 
+presage Omen.txt 1 69 
+across Omen.txt 1 1457 
+europe Omen.txt 1 1458 
+latin Omen.txt 1 244 
+receivers Omen.txt 1 703 
+attention Omen.txt 1 731 
+religious Omen.txt 1 987 
+magi Omen.txt 1 1399 
+extent Omen.txt 1 1372 
+article Omen.txt 2 804 1333 
+carnivorous Omen.txt 1 630 
+trasimene Omen.txt 1 1045 
+suggested Omen.txt 1 1013 
+both Omen.txt 1 1477 
+reported Omen.txt 1 973 
+many Omen.txt 2 1108 1392 
+taking Omen.txt 1 906 
+according Omen.txt 1 536 
+against Omen.txt 1 1177 
+etc Omen.txt 1 40 
+roman Omen.txt 2 810 982 
+dated Omen.txt 2 449 588 
+comet Omen.txt 2 1301 1488 
+cauneas Omen.txt 1 1265 
+foreboding Omen.txt 1 223 
+2nd Omen.txt 2 277 457 
+karen Omen.txt 1 29 
+caunean Omen.txt 1 1266 
+kings Omen.txt 1 288 
+throughout Omen.txt 1 1389 
+unusual Omen.txt 1 945 
+capable Omen.txt 1 1230 
+west Omen.txt 1 265 
+mari Omen.txt 1 587 
+been Omen.txt 3 966 1378 1473 
+charisma Omen.txt 1 711 
+much Omen.txt 1 354 
+interpret Omen.txt 3 135 304 920 
+expected Omen.txt 1 408 
+territory Omen.txt 1 771 
+meeting Omen.txt 1 887 
+marcellus Omen.txt 1 1080 
+direction Omen.txt 2 647 671 
+offered Omen.txt 1 1233 
+enterprises Omen.txt 1 882 
+craft Omen.txt 1 508 
+liver Omen.txt 3 153 311 912 
+meteor Omen.txt 1 949 
+careful Omen.txt 1 637 
+case Omen.txt 1 474 
+these Omen.txt 10 47 102 136 179 461 733 897 1286 1317 1338 
+reliable Omen.txt 1 1235 
+appearance Omen.txt 3 325 1303 1366 
+will Omen.txt 4 432 683 821 922 
+while Omen.txt 2 403 836 
+behavior Omen.txt 1 118 
+promising Omen.txt 1 766 
+eclipses Omen.txt 1 1362 
+gave Omen.txt 1 1081 
+at Omen.txt 7 271 589 698 1043 1122 1323 1341 
+comets Omen.txt 3 1353 1368 1470 
+foretell Omen.txt 2 49 77 
+showers Omen.txt 1 950 
+played Omen.txt 1 609 
+is Omen.txt 12 70 74 199 217 235 317 420 472 479 1397 1464 1486 
+thus Omen.txt 1 561 
+it Omen.txt 7 238 281 648 748 1164 1232 1329 
+defeated Omen.txt 1 1212 
+ii Omen.txt 1 1497 
+examined Omen.txt 1 910 
+experts Omen.txt 1 988 
+in Omen.txt 31 34 51 87 159 185 221 261 294 338 345 384 511 521 613 626 672 768 808 825 927 937 1023 1088 1229 1304 1321 1330 1354 1391 1400 1450 
+hermaphrodite Omen.txt 1 951 
+everyday Omen.txt 1 614 
+if Omen.txt 1 468 
+binary Omen.txt 1 167 
+different Omen.txt 2 1441 1444 
+sensitive Omen.txt 1 702 
+things Omen.txt 1 380 
+s Omen.txt 1 1302 
+fig-seller Omen.txt 1 1264 
+matthew Omen.txt 1 1404 
+complex Omen.txt 1 833 
+angered Omen.txt 1 967 
+events Omen.txt 3 1048 1287 1388 
+used Omen.txt 3 220 336 529 
+appearances Omen.txt 2 33 48 
+births Omen.txt 4 20 112 952 1383 
+evil Omen.txt 1 412 
+devoid Omen.txt 1 201 
+uses Omen.txt 1 4 
+cycle Omen.txt 3 1347 1349 1351 
+auspicious Omen.txt 1 845 
+i Omen.txt 2 1157 1161 
+well Omen.txt 1 524 
+perseus Omen.txt 1 1179 
+nineteenth-century Omen.txt 1 60 
+practices Omen.txt 1 600 
+english Omen.txt 1 52 
+model Omen.txt 1 149 
+figs Omen.txt 1 1267 
+latest Omen.txt 1 591 
+217 Omen.txt 1 1024 
+being Omen.txt 2 209 699 
+gods Omen.txt 8 101 158 689 720 824 925 963 998 
+hands Omen.txt 1 1231 
+cries Omen.txt 1 642 
+human Omen.txt 1 693 
+yes Omen.txt 1 170 
+divination Omen.txt 1 312 
+death Omen.txt 1 1198 
+campaign Omen.txt 2 1176 1283 
+had Omen.txt 3 130 964 1188 
+except Omen.txt 1 534 
+source Omen.txt 1 257 
+crassus Omen.txt 1 1253 
+spread Omen.txt 1 487 
+east Omen.txt 2 253 492 
+ashurbanipal Omen.txt 1 293 
+raven Omen.txt 1 857 
+around Omen.txt 1 489 
+fate Omen.txt 1 369 
+vulture Omen.txt 1 631 
+execute Omen.txt 1 424 
+possibly Omen.txt 2 26 210 
+private Omen.txt 1 1131 
+birth Omen.txt 1 1408 
+world Omen.txt 1 718 
+expiated Omen.txt 1 995 
+accepted Omen.txt 1 1135 
+usually Omen.txt 2 200 843 
+dreams Omen.txt 2 547 575 
+formal Omen.txt 1 898 
+skeptical Omen.txt 1 1242 
+phenomena Omen.txt 3 17 106 946 
+lecanomancy Omen.txt 1 313 
+specific Omen.txt 2 828 932 
+rituals Omen.txt 1 1005 
+either Omen.txt 3 169 211 1425 
+clay Omen.txt 2 148 496 
+popular Omen.txt 1 344 
+become Omen.txt 1 713 
+names Omen.txt 1 1195 
+right Omen.txt 3 762 850 860 
+ugarit Omen.txt 1 513 
+methods Omen.txt 2 302 531 
+verbal Omen.txt 1 1149 
+people Omen.txt 3 86 618 1442 
+senate Omen.txt 1 983 
+countersigns Omen.txt 1 1147 
+conditional Omen.txt 1 465 
+some Omen.txt 3 446 934 1371 
+back Omen.txt 2 434 450 
+understood Omen.txt 1 700 
+litter Omen.txt 1 1091 
+examples Omen.txt 1 8 
+sight Omen.txt 1 1098 
+divine Omen.txt 4 97 682 710 899 
+for Omen.txt 13 2 107 145 258 401 502 834 1057 1064 1256 1446 1494 1504 
+literally Omen.txt 1 1315 
+avoid Omen.txt 3 193 366 1097 
+though Omen.txt 2 195 1221 
+recorded Omen.txt 2 443 1307 
+moon Omen.txt 2 38 1375 
+religion Omen.txt 1 811 
+individuals Omen.txt 1 1124 
+lunar Omen.txt 1 1361 
+be Omen.txt 10 240 433 993 1055 1134 1211 1270 1423 1437 1476 
+business Omen.txt 2 1022 1095 
+bc Omen.txt 6 279 298 351 376 459 1025 
+communicate Omen.txt 1 155 
+slaughter Omen.txt 1 128 
+translated Omen.txt 1 1328 
+confrontation Omen.txt 1 557 
+although Omen.txt 1 237 
+augur Omen.txt 1 1223 
+by Omen.txt 10 58 285 356 636 701 792 901 980 1144 1440 
+gained Omen.txt 1 353 
+on Omen.txt 14 123 323 392 435 839 848 858 864 880 1093 1174 1282 1308 1430 
+about Omen.txt 2 1171 1334 
+of Omen.txt 56 9 22 27 84 113 119 150 161 202 232 275 326 329 373 378 440 447 455 484 498 616 639 687 704 719 744 754 784 795 816 822 855 874 890 916 923 940 957 972 1010 1099 1146 1193 1199 1237 1243 1262 1357 1367 1381 1403 1409 1415 1467 1484 1498 
+homeric Omen.txt 1 725 
+or Omen.txt 25 68 171 175 213 548 552 646 661 676 757 782 894 944 953 1060 1062 1069 1115 1127 1140 1148 1385 1418 1427 1443 
+seeing Omen.txt 1 1412 
+letters Omen.txt 1 583 
+unfavourable Omen.txt 1 851 
+into Omen.txt 1 444 
+son Omen.txt 1 292 
+appropriate Omen.txt 1 1002 
+references Omen.txt 1 1511 
+primarily Omen.txt 1 44 
+often Omen.txt 3 80 219 1377 
+bethlehem Omen.txt 1 1416 
+her Omen.txt 1 1185 
+lake Omen.txt 1 1044 
+apparently Omen.txt 1 1226 
+there Omen.txt 1 299 
+intermediaries Omen.txt 1 714 
+way Omen.txt 2 125 645 
+cultures Omen.txt 1 1445 
+libanomancy Omen.txt 1 315 
+was Omen.txt 14 282 386 407 519 624 832 842 867 1019 1215 1241 1280 1306 1490 
+prophetic Omen.txt 2 634 1119 
+form Omen.txt 1 939 
+attempted Omen.txt 1 652 
+but Omen.txt 2 607 1500 
+somehow Omen.txt 1 965 
+hear Omen.txt 1 249 
+megiddo Omen.txt 1 514 
+eas Omen.txt 1 1275 
+candidacy Omen.txt 1 1084 
+true Omen.txt 2 397 430 
+observation Omen.txt 1 638 
+nuremberg Omen.txt 1 13 
+arranged Omen.txt 1 463 
+chronicle Omen.txt 1 14 
+up Omen.txt 1 1082 
+conqueror Omen.txt 1 1507 
+lightning Omen.txt 3 660 759 1050 
+similar Omen.txt 2 567 577 
+called Omen.txt 1 66 
+divinatory Omen.txt 1 599 
+flaminius Omen.txt 1 1029 
+deaths Omen.txt 1 1384 
+defined Omen.txt 1 625 
+certain Omen.txt 1 1046 
+influence Omen.txt 1 355 
+life Omen.txt 1 615 
+an Omen.txt 8 63 109 142 610 622 1089 1222 1465 
+as Omen.txt 15 225 464 523 579 628 663 884 905 948 1078 1152 1205 1272 1288 1337 
+omens Omen.txt 22 10 46 93 103 137 305 342 359 441 485 664 679 778 935 1011 1039 1102 1132 1246 1380 1421 1481 
+ship Omen.txt 1 1255 
+domesticated Omen.txt 1 875 
+again Omen.txt 1 926 
+compared Omen.txt 1 525 
+biblical Omen.txt 1 1395 
+no Omen.txt 1 172 
+when Omen.txt 7 415 495 735 798 1072 1092 1170 
+ne Omen.txt 1 1274 
+senatorial Omen.txt 1 886 
+field Omen.txt 1 1356 
+other Omen.txt 4 3 1038 1386 1455 
+role Omen.txt 1 612 
+astrological Omen.txt 1 341 
+altar Omen.txt 1 790 
+star Omen.txt 3 1325 1343 1414 
+models Omen.txt 1 497 
+symbol Omen.txt 1 743 
+time Omen.txt 1 706 
+endeavors Omen.txt 1 694 
+william Omen.txt 1 1505 
+meaning Omen.txt 2 247 969 
+important Omen.txt 3 611 881 1094 
+died Omen.txt 1 1189 
+statesman Omen.txt 1 1219 
+individual Omen.txt 1 1066 
+vigorously Omen.txt 1 283 
+observe Omen.txt 1 319 
+god Omen.txt 1 540 
+jesus Omen.txt 1 1410 
+serious Omen.txt 1 1021 

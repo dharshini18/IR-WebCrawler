@@ -1,0 +1,502 @@
+all Lake_Balaton.txt 1 813 
+surrounded Lake_Balaton.txt 2 220 876 
+balatonudvari Lake_Balaton.txt 1 973 
+adjective Lake_Balaton.txt 1 281 
+skate Lake_Balaton.txt 1 908 
+balatonfzf Lake_Balaton.txt 1 963 
+battle Lake_Balaton.txt 1 530 
+grape Lake_Balaton.txt 1 113 
+pleso Lake_Balaton.txt 1 157 
+young Lake_Balaton.txt 1 719 
+1945 Lake_Balaton.txt 2 513 553 
+to Lake_Balaton.txt 12 45 119 122 193 467 516 721 818 881 925 958 997 
+bike Lake_Balaton.txt 1 879 
+include Lake_Balaton.txt 2 824 936 
+town Lake_Balaton.txt 2 688 742 
+railways Lake_Balaton.txt 1 474 
+every Lake_Balaton.txt 1 353 
+categories Lake_Balaton.txt 2 1036 1038 
+17th Lake_Balaton.txt 1 300 
+cloudy Lake_Balaton.txt 1 372 
+large Lake_Balaton.txt 1 726 
+sand Lake_Balaton.txt 1 794 
+balatonlelle Lake_Balaton.txt 2 939 1011 
+attracting Lake_Balaton.txt 1 718 
+bicycle Lake_Balaton.txt 1 883 
+rvflp Lake_Balaton.txt 1 979 
+go Lake_Balaton.txt 1 904 
+ice-sail Lake_Balaton.txt 1 911 
+even Lake_Balaton.txt 1 907 
+swamps Lake_Balaton.txt 1 224 
+access Lake_Balaton.txt 1 817 
+19th Lake_Balaton.txt 2 104 459 
+jezero Lake_Balaton.txt 1 185 
+capital Lake_Balaton.txt 1 234 
+churches Lake_Balaton.txt 1 207 
+moravians Lake_Balaton.txt 1 257 
+balatonakarattya Lake_Balaton.txt 2 961 999 
+french Lake_Balaton.txt 1 291 
+water Lake_Balaton.txt 4 44 763 820 829 
+along Lake_Balaton.txt 1 225 
+extreme Lake_Balaton.txt 1 376 
+rvnyes Lake_Balaton.txt 1 972 
+loanword Lake_Balaton.txt 1 286 
+csopak Lake_Balaton.txt 1 967 
+larger Lake_Balaton.txt 1 491 
+airport Lake_Balaton.txt 1 921 
+resulting Lake_Balaton.txt 1 369 
+balatonalmdi Lake_Balaton.txt 2 937 964 
+residents Lake_Balaton.txt 1 619 
+makes Lake_Balaton.txt 2 774 797 
+named Lake_Balaton.txt 1 272 
+via Lake_Balaton.txt 1 290 
+1909 Lake_Balaton.txt 1 478 
+from Lake_Balaton.txt 5 179 754 956 995 1022 
+excursions Lake_Balaton.txt 1 607 
+working Lake_Balaton.txt 1 600 
+army Lake_Balaton.txt 3 541 546 562 
+destination Lake_Balaton.txt 1 597 
+visit Lake_Balaton.txt 2 468 628 
+two Lake_Balaton.txt 1 421 
+landowners Lake_Balaton.txt 1 107 
+few Lake_Balaton.txt 1 435 
+music Lake_Balaton.txt 1 703 
+6 Lake_Balaton.txt 1 548 
+until Lake_Balaton.txt 3 101 644 756 
+canalised Lake_Balaton.txt 1 50 
+separated Lake_Balaton.txt 2 639 878 
+flat Lake_Balaton.txt 1 78 
+almost Lake_Balaton.txt 1 874 
+on Lake_Balaton.txt 6 437 689 779 840 846 912 
+site Lake_Balaton.txt 2 696 731 
+berlin Lake_Balaton.txt 1 642 
+known Lake_Balaton.txt 5 64 82 135 240 716 
+znka Lake_Balaton.txt 1 976 
+1991 Lake_Balaton.txt 1 653 
+f Lake_Balaton.txt 1 772 
+fortified Lake_Balaton.txt 1 231 
+temperatures Lake_Balaton.txt 1 377 
+making Lake_Balaton.txt 1 629 
+fortress Lake_Balaton.txt 2 199 246 
+history Lake_Balaton.txt 1 425 
+links Lake_Balaton.txt 1 1034 
+numbers Lake_Balaton.txt 1 667 
+burgeoning Lake_Balaton.txt 1 124 
+end Lake_Balaton.txt 3 160 557 758 
+winter Lake_Balaton.txt 1 901 
+freezes Lake_Balaton.txt 2 381 917 
+1 Lake_Balaton.txt 1 334 
+ordinary Lake_Balaton.txt 1 599 
+if Lake_Balaton.txt 1 915 
+boltno Lake_Balaton.txt 1 182 
+map Lake_Balaton.txt 1 340 
+ft Lake_Balaton.txt 2 315 337 
+countryside Lake_Balaton.txt 1 836 
+sifok Lake_Balaton.txt 3 681 714 1004 
+after Lake_Balaton.txt 2 575 652 
+dietrich Lake_Balaton.txt 1 537 
+badacsonytrdemic Lake_Balaton.txt 1 985 
+coast Lake_Balaton.txt 1 843 
+a Lake_Balaton.txt 17 11 72 162 198 215 249 284 434 532 560 594 631 700 739 854 859 868 
+third Lake_Balaton.txt 1 545 
+microclimate Lake_Balaton.txt 1 385 
+greek Lake_Balaton.txt 1 285 
+si Lake_Balaton.txt 1 51 
+so Lake_Balaton.txt 1 275 
+pulled Lake_Balaton.txt 1 570 
+wine Lake_Balaton.txt 1 74 
+bathing Lake_Balaton.txt 2 741 775 
+noteworthy Lake_Balaton.txt 1 305 
+developed Lake_Balaton.txt 1 90 
+over Lake_Balaton.txt 1 918 
+years Lake_Balaton.txt 1 423 
+resorts Lake_Balaton.txt 3 93 676 807 
+pelso Lake_Balaton.txt 1 145 
+its Lake_Balaton.txt 4 67 84 413 725 
+regions Lake_Balaton.txt 1 32 
+23 Lake_Balaton.txt 1 361 
+late Lake_Balaton.txt 2 103 458 
+resort Lake_Balaton.txt 5 85 447 687 870 934 
+production Lake_Balaton.txt 1 414 
+hidden Lake_Balaton.txt 1 1037 
+holiday Lake_Balaton.txt 1 606 
+post-war Lake_Balaton.txt 1 484 
+pribina Lake_Balaton.txt 1 191 
+tourist Lake_Balaton.txt 4 34 596 751 822 
+wealthy Lake_Balaton.txt 1 96 
+not Lake_Balaton.txt 2 100 317 
+tourism Lake_Balaton.txt 3 480 672 884 
+frequented Lake_Balaton.txt 1 898 
+name Lake_Balaton.txt 3 128 150 260 
+balatonszepezd Lake_Balaton.txt 1 977 
+edit Lake_Balaton.txt 11 129 339 426 673 946 955 994 1027 1030 1032 1035 
+january Lake_Balaton.txt 1 196 
+rocks Lake_Balaton.txt 1 790 
+victory Lake_Balaton.txt 1 563 
+rock Lake_Balaton.txt 1 406 
+lower-paid Lake_Balaton.txt 1 669 
+references Lake_Balaton.txt 1 1031 
+referred Lake_Balaton.txt 1 515 
+szabadifrd Lake_Balaton.txt 1 1003 
+year Lake_Balaton.txt 1 354 
+substantially Lake_Balaton.txt 1 481 
+operation Lake_Balaton.txt 1 501 
+sandy Lake_Balaton.txt 1 810 
+out Lake_Balaton.txt 2 121 571 
+since Lake_Balaton.txt 3 279 417 705 
+balatonmriafrd Lake_Balaton.txt 1 1017 
+attracted Lake_Balaton.txt 1 613 
+red Lake_Balaton.txt 1 561 
+earlier Lake_Balaton.txt 1 180 
+wines Lake_Balaton.txt 1 416 
+southern Lake_Balaton.txt 2 79 691 
+romans Lake_Balaton.txt 1 148 
+extraordinary Lake_Balaton.txt 1 318 
+completely Lake_Balaton.txt 1 875 
+members Lake_Balaton.txt 1 610 
+bolto Lake_Balaton.txt 1 169 
+temperature Lake_Balaton.txt 1 764 
+freshwater Lake_Balaton.txt 1 12 
+district Lake_Balaton.txt 1 856 
+frhlingserwachen Lake_Balaton.txt 1 502 
+could Lake_Balaton.txt 1 626 
+days Lake_Balaton.txt 1 373 
+british Lake_Balaton.txt 1 524 
+times Lake_Balaton.txt 1 345 
+conducted Lake_Balaton.txt 1 504 
+place Lake_Balaton.txt 1 634 
+1970s Lake_Balaton.txt 1 591 
+castle Lake_Balaton.txt 1 232 
+facilitate Lake_Balaton.txt 1 882 
+south Lake_Balaton.txt 2 848 992 
+origin Lake_Balaton.txt 1 154 
+major Lake_Balaton.txt 4 73 494 595 675 
+attractions Lake_Balaton.txt 1 823 
+one Lake_Balaton.txt 1 29 
+another Lake_Balaton.txt 1 686 
+badacsonytomaj Lake_Balaton.txt 1 983 
+electronic Lake_Balaton.txt 1 702 
+destinations Lake_Balaton.txt 1 35 
+ancient Lake_Balaton.txt 1 344 
+ilyushin Lake_Balaton.txt 1 565 
+zala Lake_Balaton.txt 2 37 228 
+festival Lake_Balaton.txt 1 704 
+approximately Lake_Balaton.txt 1 358 
+their Lake_Balaton.txt 1 112 
+attack Lake_Balaton.txt 1 534 
+balatonszemes Lake_Balaton.txt 1 1010 
+aristocracy Lake_Balaton.txt 1 452 
+inflow Lake_Balaton.txt 1 42 
+collapse Lake_Balaton.txt 1 647 
+that Lake_Balaton.txt 6 238 269 287 306 461 795 
+season Lake_Balaton.txt 2 752 888 
+shallow Lake_Balaton.txt 1 278 
+szigliget Lake_Balaton.txt 1 986 
+alsrs Lake_Balaton.txt 1 965 
+than Lake_Balaton.txt 1 365 
+balatonszrsz Lake_Balaton.txt 1 1009 
+10 Lake_Balaton.txt 1 314 
+sailing Lake_Balaton.txt 1 825 
+16 Lake_Balaton.txt 1 551 
+dismantling Lake_Balaton.txt 1 656 
+historical Lake_Balaton.txt 2 740 855 
+blatelep Lake_Balaton.txt 1 1015 
+seuso Lake_Balaton.txt 1 429 
+and Lake_Balaton.txt 33 28 48 70 88 171 205 223 233 255 292 374 442 477 542 550 554 590 602 617 637 654 683 736 776 812 827 837 844 862 941 944 948 1024 
+vonyarcvashegy Lake_Balaton.txt 2 942 989 
+palace Lake_Balaton.txt 1 735 
+modern Lake_Balaton.txt 1 218 
+unlikely Lake_Balaton.txt 1 268 
+have Lake_Balaton.txt 4 444 568 808 815 
+saw Lake_Balaton.txt 1 660 
+contents Lake_Balaton.txt 1 127 
+mountain Lake_Balaton.txt 1 861 
+mountainous Lake_Balaton.txt 1 57 
+shore Lake_Balaton.txt 6 62 80 692 849 954 993 
+also Lake_Balaton.txt 7 304 390 612 627 796 897 1029 
+ideal Lake_Balaton.txt 1 394 
+build Lake_Balaton.txt 1 194 
+which Lake_Balaton.txt 3 331 743 773 
+indo-european Lake_Balaton.txt 1 152 
+villages Lake_Balaton.txt 2 945 949 
+sledge Lake_Balaton.txt 1 909 
+77 Lake_Balaton.txt 1 771 
+most Lake_Balaton.txt 4 366 782 799 928 
+class Lake_Balaton.txt 1 465 
+germans Lake_Balaton.txt 3 271 616 625 
+slovene Lake_Balaton.txt 1 183 
+especially Lake_Balaton.txt 1 603 
+average Lake_Balaton.txt 3 308 324 762 
+later Lake_Balaton.txt 2 164 582 
+steady Lake_Balaton.txt 1 664 
+srmellk Lake_Balaton.txt 1 919 
+traditional Lake_Balaton.txt 1 711 
+swamp Lake_Balaton.txt 2 178 245 
+attacking Lake_Balaton.txt 1 111 
+shot Lake_Balaton.txt 1 578 
+german Lake_Balaton.txt 5 5 259 296 495 533 
+hungary Lake_Balaton.txt 2 19 368 
+northern Lake_Balaton.txt 1 61 
+principality Lake_Balaton.txt 1 237 
+histories Lake_Balaton.txt 1 525 
+only Lake_Balaton.txt 3 54 455 931 
+gradual Lake_Balaton.txt 1 662 
+phylloxera Lake_Balaton.txt 1 110 
+local Lake_Balaton.txt 1 350 
+pelsodis Lake_Balaton.txt 1 143 
+borrowed Lake_Balaton.txt 1 289 
+his Lake_Balaton.txt 2 201 229 
+hungarian Lake_Balaton.txt 5 131 451 463 544 670 
+sst Lake_Balaton.txt 1 1002 
+winters Lake_Balaton.txt 1 383 
+foremost Lake_Balaton.txt 1 33 
+platt Lake_Balaton.txt 1 282 
+balatonrendes Lake_Balaton.txt 1 982 
+international Lake_Balaton.txt 1 920 
+during Lake_Balaton.txt 5 382 580 587 765 899 
+szepezdfrd Lake_Balaton.txt 1 978 
+consist Lake_Balaton.txt 1 786 
+silty Lake_Balaton.txt 1 793 
+common Lake_Balaton.txt 1 632 
+including Lake_Balaton.txt 1 440 
+river Lake_Balaton.txt 2 38 227 
+fishing Lake_Balaton.txt 1 826 
+1960s Lake_Balaton.txt 1 589 
+seat Lake_Balaton.txt 1 202 
+brahmhegy Lake_Balaton.txt 1 981 
+see Lake_Balaton.txt 2 330 1028 
+are Lake_Balaton.txt 1 680 
+visiting Lake_Balaton.txt 1 834 
+wikipedia Lake_Balaton.txt 1 2 
+balatonfkajr Lake_Balaton.txt 1 960 
+artificial Lake_Balaton.txt 1 809 
+mud Lake_Balaton.txt 1 177 
+unions Lake_Balaton.txt 1 659 
+classes Lake_Balaton.txt 1 126 
+between Lake_Balaton.txt 1 547 
+numerous Lake_Balaton.txt 1 710 
+europe Lake_Balaton.txt 1 27 
+zalavr Lake_Balaton.txt 1 219 
+august Lake_Balaton.txt 1 760 
+25 Lake_Balaton.txt 1 769 
+balatonvilgos Lake_Balaton.txt 1 1001 
+fonyd Lake_Balaton.txt 2 940 1013 
+bulgarians Lake_Balaton.txt 1 254 
+both Lake_Balaton.txt 2 65 251 
+climate Lake_Balaton.txt 2 338 399 
+grass Lake_Balaton.txt 1 789 
+last Lake_Balaton.txt 1 493 
+boto Lake_Balaton.txt 1 175 
+many Lake_Balaton.txt 3 523 614 806 
+region Lake_Balaton.txt 8 17 58 75 210 393 410 507 864 
+annual Lake_Balaton.txt 1 746 
+against Lake_Balaton.txt 1 252 
+badacsony Lake_Balaton.txt 2 857 984 
+s Lake_Balaton.txt 1 538 
+became Lake_Balaton.txt 2 239 593 
+receives Lake_Balaton.txt 1 357 
+volcanic Lake_Balaton.txt 2 405 860 
+cm Lake_Balaton.txt 1 360 
+wall Lake_Balaton.txt 1 643 
+subsidised Lake_Balaton.txt 1 605 
+cf Lake_Balaton.txt 2 155 322 
+hvz Lake_Balaton.txt 2 89 443 
+simply Lake_Balaton.txt 1 136 
+mediterranean-like Lake_Balaton.txt 1 398 
+balaton Lake_Balaton.txt 20 1 4 138 213 236 311 342 347 388 432 439 510 520 592 630 698 895 926 952 1023 
+proto-slavic Lake_Balaton.txt 1 181 
+union Lake_Balaton.txt 2 609 651 
+west Lake_Balaton.txt 3 624 959 998 
+been Lake_Balaton.txt 4 446 569 577 694 
+reduction Lake_Balaton.txt 1 665 
+outflow Lake_Balaton.txt 1 55 
+combined Lake_Balaton.txt 1 400 
+blatno Lake_Balaton.txt 1 184 
+extends Lake_Balaton.txt 1 753 
+entered Lake_Balaton.txt 1 293 
+territory Lake_Balaton.txt 1 216 
+meeting Lake_Balaton.txt 1 633 
+szntd Lake_Balaton.txt 1 1007 
+ice-fishing Lake_Balaton.txt 1 905 
+families Lake_Balaton.txt 1 636 
+1950s Lake_Balaton.txt 1 488 
+eastern Lake_Balaton.txt 1 622 
+thousand Lake_Balaton.txt 1 422 
+c Lake_Balaton.txt 1 770 
+1861 Lake_Balaton.txt 1 476 
+blatensk Lake_Balaton.txt 2 8 187 
+towns Lake_Balaton.txt 4 86 935 943 947 
+sound Lake_Balaton.txt 1 699 
+homes Lake_Balaton.txt 1 118 
+east Lake_Balaton.txt 3 615 957 996 
+air Lake_Balaton.txt 1 923 
+while Lake_Balaton.txt 2 76 433 
+replaced Lake_Balaton.txt 1 165 
+balatongyrk Lake_Balaton.txt 1 988 
+rent Lake_Balaton.txt 1 120 
+balatonarcs Lake_Balaton.txt 1 968 
+century Lake_Balaton.txt 3 105 301 460 
+lakeside Lake_Balaton.txt 1 869 
+soil Lake_Balaton.txt 1 403 
+is Lake_Balaton.txt 23 10 21 52 63 81 134 151 264 267 283 303 316 332 715 729 738 768 853 858 873 892 896 930 
+it Lake_Balaton.txt 9 20 98 139 266 302 453 611 722 916 
+surface Lake_Balaton.txt 1 380 
+ii Lake_Balaton.txt 1 500 
+middle Lake_Balaton.txt 2 125 464 
+in Lake_Balaton.txt 19 14 25 130 153 195 208 214 298 343 362 370 456 475 505 511 522 555 559 666 
+around Lake_Balaton.txt 2 386 677 
+containing Lake_Balaton.txt 1 404 
+began Lake_Balaton.txt 3 115 192 466 
+roman Lake_Balaton.txt 1 419 
+keszthely Lake_Balaton.txt 4 682 728 991 1025 
+largest Lake_Balaton.txt 2 23 41 
+several Lake_Balaton.txt 2 206 564 
+events Lake_Balaton.txt 1 713 
+gastronomic Lake_Balaton.txt 1 712 
+ball Lake_Balaton.txt 1 748 
+gallery Lake_Balaton.txt 1 1026 
+viticulture Lake_Balaton.txt 1 396 
+balatonberny Lake_Balaton.txt 1 1019 
+well Lake_Balaton.txt 3 230 832 866 
+roughly Lake_Balaton.txt 1 333 
+sinkhole Lake_Balaton.txt 1 158 
+panzer Lake_Balaton.txt 1 540 
+centres Lake_Balaton.txt 1 448 
+the Lake_Balaton.txt 94 15 22 31 36 40 46 49 53 56 60 77 95 102 123 132 147 149 167 209 226 253 256 258 262 270 273 280 294 299 307 320 323 327 349 355 378 384 392 397 402 409 418 450 457 462 469 471 483 487 492 506 518 527 529 543 556 573 581 585 588 621 641 646 649 655 658 661 674 678 690 695 730 733 745 749 757 761 766 780 784 792 801 804 819 835 841 847 850 871 886 890 893 900 913 
+soviet Lake_Balaton.txt 1 650 
+seasonal Lake_Balaton.txt 1 932 
+summer Lake_Balaton.txt 3 117 767 894 
+lacus Lake_Balaton.txt 1 142 
+less Lake_Balaton.txt 1 375 
+being Lake_Balaton.txt 2 277 514 
+offensive Lake_Balaton.txt 2 496 521 
+settlements Lake_Balaton.txt 1 436 
+wrecks Lake_Balaton.txt 1 567 
+blto Lake_Balaton.txt 1 173 
+polish Lake_Balaton.txt 1 174 
+prince Lake_Balaton.txt 1 190 
+balatonakali Lake_Balaton.txt 1 975 
+hills Lake_Balaton.txt 1 838 
+character Lake_Balaton.txt 1 69 
+lake Lake_Balaton.txt 25 0 3 13 24 47 133 163 212 263 274 346 387 431 438 470 509 519 574 679 781 805 872 891 914 951 
+balatonfenyves Lake_Balaton.txt 1 1016 
+spread Lake_Balaton.txt 1 427 
+bloc Lake_Balaton.txt 1 623 
+has Lake_Balaton.txt 4 389 407 693 708 
+march Lake_Balaton.txt 3 512 549 552 
+increased Lake_Balaton.txt 1 479 
+period Lake_Balaton.txt 1 420 
+early Lake_Balaton.txt 1 91 
+gyenesdis Lake_Balaton.txt 1 990 
+historic Lake_Balaton.txt 1 68 
+world Lake_Balaton.txt 1 498 
+precipitation Lake_Balaton.txt 2 352 364 
+paloznak Lake_Balaton.txt 1 966 
+transdanubian Lake_Balaton.txt 1 16 
+57 Lake_Balaton.txt 1 359 
+festetics Lake_Balaton.txt 1 734 
+jazero Lake_Balaton.txt 2 9 188 
+hosts Lake_Balaton.txt 1 744 
+either Lake_Balaton.txt 1 788 
+popular Lake_Balaton.txt 1 778 
+served Lake_Balaton.txt 1 247 
+plattensee Lake_Balaton.txt 2 6 265 
+because Lake_Balaton.txt 1 723 
+people Lake_Balaton.txt 1 720 
+czech Lake_Balaton.txt 2 156 170 
+balatonfldvr Lake_Balaton.txt 1 1008 
+fvenyes Lake_Balaton.txt 1 974 
+clubs Lake_Balaton.txt 1 727 
+service Lake_Balaton.txt 2 924 929 
+3.2 Lake_Balaton.txt 1 312 
+3.3 Lake_Balaton.txt 1 336 
+for Lake_Balaton.txt 14 66 83 94 261 276 319 395 412 449 598 604 608 635 717 
+bottom Lake_Balaton.txt 1 802 
+affects Lake_Balaton.txt 1 348 
+balatonederics Lake_Balaton.txt 1 987 
+provides Lake_Balaton.txt 2 39 922 
+wine-growing Lake_Balaton.txt 1 863 
+wineries Lake_Balaton.txt 1 839 
+aszf Lake_Balaton.txt 1 971 
+anna Lake_Balaton.txt 1 747 
+slavic Lake_Balaton.txt 2 168 189 
+power Lake_Balaton.txt 1 204 
+sixth Lake_Balaton.txt 1 539 
+notable Lake_Balaton.txt 2 411 701 
+lakes Lake_Balaton.txt 1 379 
+step Lake_Balaton.txt 1 816 
+hungarians Lake_Balaton.txt 1 601 
+although Lake_Balaton.txt 2 885 927 
+by Lake_Balaton.txt 7 109 146 166 221 535 640 877 
+beaches Lake_Balaton.txt 3 785 811 814 
+846 Lake_Balaton.txt 1 197 
+central Lake_Balaton.txt 1 26 
+visitors Lake_Balaton.txt 2 671 903 
+of Lake_Balaton.txt 34 18 30 43 59 161 203 211 217 235 310 326 341 367 415 428 473 486 497 508 526 572 584 620 648 657 668 697 724 732 759 783 787 800 803 
+months Lake_Balaton.txt 1 583 
+moosburg Lake_Balaton.txt 1 244 
+balatonboglr Lake_Balaton.txt 2 938 1012 
+sepp Lake_Balaton.txt 1 536 
+zamrdi Lake_Balaton.txt 2 685 1006 
+or Lake_Balaton.txt 5 144 243 791 906 910 
+swimming Lake_Balaton.txt 1 777 
+down Lake_Balaton.txt 1 579 
+slovak Lake_Balaton.txt 3 7 172 186 
+sports Lake_Balaton.txt 1 830 
+fonydalsblatelep Lake_Balaton.txt 1 1014 
+plkve Lake_Balaton.txt 1 980 
+blatnohrad Lake_Balaton.txt 1 242 
+area Lake_Balaton.txt 3 321 351 356 
+panorama Lake_Balaton.txt 1 1021 
+fenkpuszta Lake_Balaton.txt 1 1020 
+long Lake_Balaton.txt 1 445 
+1989 Lake_Balaton.txt 1 645 
+much Lake_Balaton.txt 1 490 
+resulted Lake_Balaton.txt 1 558 
+was Lake_Balaton.txt 7 99 140 288 454 489 503 531 
+war Lake_Balaton.txt 3 499 528 586 
+building Lake_Balaton.txt 1 116 
+north Lake_Balaton.txt 2 842 953 
+but Lake_Balaton.txt 3 97 482 663 
+peninsula Lake_Balaton.txt 1 852 
+szplak Lake_Balaton.txt 1 1005 
+construction Lake_Balaton.txt 1 472 
+tihany Lake_Balaton.txt 2 851 970 
+with Lake_Balaton.txt 1 401 
+made Lake_Balaton.txt 2 391 408 
+neusiedler Lake_Balaton.txt 1 329 
+balatonkeresztr Lake_Balaton.txt 1 1018 
+up Lake_Balaton.txt 1 798 
+ruined Lake_Balaton.txt 1 108 
+nightlife Lake_Balaton.txt 1 845 
+more Lake_Balaton.txt 2 363 371 
+called Lake_Balaton.txt 1 141 
+m Lake_Balaton.txt 2 313 335 
+hosted Lake_Balaton.txt 1 709 
+deep Lake_Balaton.txt 1 159 
+general Lake_Balaton.txt 1 295 
+as Lake_Balaton.txt 11 71 92 137 200 241 248 517 831 833 865 867 
+at Lake_Balaton.txt 2 430 889 
+lanes Lake_Balaton.txt 1 880 
+balatonkenese Lake_Balaton.txt 2 707 962 
+when Lake_Balaton.txt 2 106 902 
+forests Lake_Balaton.txt 1 222 
+other Lake_Balaton.txt 4 618 821 828 933 
+boom Lake_Balaton.txt 1 485 
+vocabulary Lake_Balaton.txt 1 297 
+june Lake_Balaton.txt 1 755 
+il-2 Lake_Balaton.txt 1 566 
+meaning Lake_Balaton.txt 1 176 
+peak Lake_Balaton.txt 2 750 887 
+friends Lake_Balaton.txt 1 638 
+ago Lake_Balaton.txt 1 424 
+bulwark Lake_Balaton.txt 1 250 
+balatonaliga Lake_Balaton.txt 1 1000 
+alongside Lake_Balaton.txt 1 950 
+vines Lake_Balaton.txt 1 114 
+balatonfred Lake_Balaton.txt 5 87 441 684 737 969 
+depth Lake_Balaton.txt 2 309 325 
+neighbouring Lake_Balaton.txt 1 328 
+2007 Lake_Balaton.txt 1 706 
+having Lake_Balaton.txt 1 576 
+external Lake_Balaton.txt 1 1033 

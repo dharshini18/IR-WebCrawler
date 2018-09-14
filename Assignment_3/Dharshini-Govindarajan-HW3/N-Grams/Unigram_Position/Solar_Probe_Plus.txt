@@ -1,0 +1,471 @@
+decelerate Solar_Probe_Plus.txt 1 448 
+concept Solar_Probe_Plus.txt 1 143 
+carboncarbon Solar_Probe_Plus.txt 1 590 
+suns Solar_Probe_Plus.txt 1 478 
+magnetic Solar_Probe_Plus.txt 1 480 
+spacecraft Solar_Probe_Plus.txt 14 46 97 125 373 431 461 600 620 622 698 715 757 773 901 
+heliocentric Solar_Probe_Plus.txt 3 414 840 847 
+battle Solar_Probe_Plus.txt 1 340 
+92 Solar_Probe_Plus.txt 1 1106 
+planet/solar Solar_Probe_Plus.txt 1 174 
+1,377 Solar_Probe_Plus.txt 1 603 
+honoring Solar_Probe_Plus.txt 1 132 
+refocus Solar_Probe_Plus.txt 1 272 
+technique Solar_Probe_Plus.txt 1 440 
+environment Solar_Probe_Plus.txt 1 767 
+to Solar_Probe_Plus.txt 35 47 58 102 113 190 271 302 331 341 403 428 449 462 512 518 545 595 687 708 726 760 770 838 866 898 931 956 997 1029 1056 1075 1105 1132 1140 1143 
+program Solar_Probe_Plus.txt 7 177 187 229 285 311 327 334 
+include Solar_Probe_Plus.txt 1 718 
+appointment Solar_Probe_Plus.txt 1 216 
+perihelion Solar_Probe_Plus.txt 4 517 851 907 947 
+2,511 Solar_Probe_Plus.txt 1 605 
+encounter Solar_Probe_Plus.txt 2 1025 1094 
+these Solar_Probe_Plus.txt 1 933 
+venus Solar_Probe_Plus.txt 16 443 511 720 962 982 987 1011 1023 1034 1044 1065 1082 1089 1111 1119 1122 
+upper Solar_Probe_Plus.txt 1 821 
+smaller Solar_Probe_Plus.txt 1 693 
+illustrating Solar_Probe_Plus.txt 1 422 
+198 Solar_Probe_Plus.txt 1 1006 
+direct Solar_Probe_Plus.txt 1 638 
+located Solar_Probe_Plus.txt 1 628 
+second Solar_Probe_Plus.txt 1 992 
+design Solar_Probe_Plus.txt 2 157 505 
+incrementally Solar_Probe_Plus.txt 1 513 
+further Solar_Probe_Plus.txt 1 835 
+dynamics Solar_Probe_Plus.txt 1 475 
+what Solar_Probe_Plus.txt 1 495 
+sun Solar_Probe_Plus.txt 15 54 76 391 421 524 554 642 689 734 762 765 798 858 958 1145 
+while Solar_Probe_Plus.txt 2 986 1088 
+current Solar_Probe_Plus.txt 1 887 
+520 Solar_Probe_Plus.txt 1 562 
+new Solar_Probe_Plus.txt 2 293 325 
+falling Solar_Probe_Plus.txt 1 261 
+seventh Solar_Probe_Plus.txt 1 1125 
+pluto Solar_Probe_Plus.txt 3 196 202 304 
+astrophysicist Solar_Probe_Plus.txt 1 382 
+focused Solar_Probe_Plus.txt 1 211 
+kilometers Solar_Probe_Plus.txt 1 65 
+102 Solar_Probe_Plus.txt 1 1058 
+extreme Solar_Probe_Plus.txt 1 548 
+makes Solar_Probe_Plus.txt 3 988 1085 1090 
+honor Solar_Probe_Plus.txt 1 380 
+named Solar_Probe_Plus.txt 1 127 
+formulated Solar_Probe_Plus.txt 1 178 
+secure Solar_Probe_Plus.txt 1 342 
+kuiper Solar_Probe_Plus.txt 3 198 203 305 
+replace Solar_Probe_Plus.txt 1 303 
+decrease Solar_Probe_Plus.txt 1 514 
+motor Solar_Probe_Plus.txt 1 829 
+total Solar_Probe_Plus.txt 1 737 
+plot Solar_Probe_Plus.txt 1 410 
+use Solar_Probe_Plus.txt 2 424 571 
+from Solar_Probe_Plus.txt 7 5 70 145 394 408 419 640 
+would Solar_Probe_Plus.txt 3 315 335 357 
+objectives Solar_Probe_Plus.txt 1 159 
+two Solar_Probe_Plus.txt 5 989 1003 1040 1096 1116 
+6 Solar_Probe_Plus.txt 1 532 
+until Solar_Probe_Plus.txt 1 913 
+more Solar_Probe_Plus.txt 1 1114 
+composite Solar_Probe_Plus.txt 1 591 
+brings Solar_Probe_Plus.txt 1 1101 
+apparent Solar_Probe_Plus.txt 2 387 405 
+occurred Solar_Probe_Plus.txt 1 348 
+mounted Solar_Probe_Plus.txt 1 613 
+96 Solar_Probe_Plus.txt 1 1077 
+fly Solar_Probe_Plus.txt 1 463 
+high Solar_Probe_Plus.txt 1 802 
+f Solar_Probe_Plus.txt 1 606 
+this Solar_Probe_Plus.txt 4 9 118 702 1024 
+science Solar_Probe_Plus.txt 1 742 
+originally Solar_Probe_Plus.txt 1 100 
+mi Solar_Probe_Plus.txt 1 537 
+temperatures Solar_Probe_Plus.txt 1 597 
+following Solar_Probe_Plus.txt 1 214 
+making Solar_Probe_Plus.txt 1 983 
+history Solar_Probe_Plus.txt 1 137 
+links Solar_Probe_Plus.txt 1 1152 
+cited Solar_Probe_Plus.txt 1 250 
+states Solar_Probe_Plus.txt 1 245 
+pumped-fluid Solar_Probe_Plus.txt 1 706 
+nears Solar_Probe_Plus.txt 1 906 
+237 Solar_Probe_Plus.txt 1 1061 
+united Solar_Probe_Plus.txt 1 244 
+provide Solar_Probe_Plus.txt 1 834 
+damage Solar_Probe_Plus.txt 1 777 
+how Solar_Probe_Plus.txt 1 483 
+fourth Solar_Probe_Plus.txt 1 1046 
+elliptical Solar_Probe_Plus.txt 3 730 791 970 
+shortens Solar_Probe_Plus.txt 2 996 1026 
+charging Solar_Probe_Plus.txt 1 774 
+administrator Solar_Probe_Plus.txt 2 221 248 
+plans Solar_Probe_Plus.txt 1 351 
+may Solar_Probe_Plus.txt 2 370 843 
+after Solar_Probe_Plus.txt 7 128 959 1000 1039 1060 1098 1112 
+orbits Solar_Probe_Plus.txt 7 740 985 1004 1041 1087 1115 1117 
+designed Solar_Probe_Plus.txt 3 93 544 594 
+date Solar_Probe_Plus.txt 1 108 
+president Solar_Probe_Plus.txt 1 235 
+a Solar_Probe_Plus.txt 20 42 123 129 146 251 254 328 337 573 654 662 691 736 812 846 862 973 1012 1016 1045 
+shortcomings Solar_Probe_Plus.txt 1 280 
+short Solar_Probe_Plus.txt 1 793 
+third Solar_Probe_Plus.txt 1 1013 
+corona Solar_Probe_Plus.txt 3 51 468 486 
+perform Solar_Probe_Plus.txt 1 938 
+accelerated Solar_Probe_Plus.txt 1 492 
+maintain Solar_Probe_Plus.txt 1 709 
+so Solar_Probe_Plus.txt 2 785 805 
+decreasing Solar_Probe_Plus.txt 1 1129 
+every Solar_Probe_Plus.txt 1 892 
+reinforced Solar_Probe_Plus.txt 1 589 
+order Solar_Probe_Plus.txt 1 930 
+wind Solar_Probe_Plus.txt 1 488 
+fastest Solar_Probe_Plus.txt 1 877 
+shield Solar_Probe_Plus.txt 3 578 608 682 
+112.5 Solar_Probe_Plus.txt 1 1037 
+over Solar_Probe_Plus.txt 1 722 
+mission Solar_Probe_Plus.txt 12 163 201 210 296 313 322 356 504 651 672 925 936 
+years Solar_Probe_Plus.txt 3 725 750 1097 
+130 Solar_Probe_Plus.txt 1 998 
+experiments Solar_Probe_Plus.txt 1 941 
+through Solar_Probe_Plus.txt 1 699 
+6.2 Solar_Probe_Plus.txt 1 63 
+astrobiology Solar_Probe_Plus.txt 1 209 
+its Solar_Probe_Plus.txt 14 259 345 404 417 451 515 729 839 916 1027 1054 1071 1102 1130 
+blocked Solar_Probe_Plus.txt 1 645 
+24 Solar_Probe_Plus.txt 1 739 
+three-sevenths Solar_Probe_Plus.txt 1 1079 
+outer Solar_Probe_Plus.txt 2 50 173 
+rescheduled Solar_Probe_Plus.txt 1 112 
+2018 Solar_Probe_Plus.txt 1 117 
+communication Solar_Probe_Plus.txt 1 783 
+2015 Solar_Probe_Plus.txt 1 105 
+2017 Solar_Probe_Plus.txt 1 371 
+eugene Solar_Probe_Plus.txt 2 134 383 
+eventually Solar_Probe_Plus.txt 2 298 316 
+within Solar_Probe_Plus.txt 1 59 
+frontiers Solar_Probe_Plus.txt 1 326 
+effects Solar_Probe_Plus.txt 1 775 
+half Solar_Probe_Plus.txt 1 1030 
+successor Solar_Probe_Plus.txt 1 330 
+2s Solar_Probe_Plus.txt 1 413 
+edit Solar_Probe_Plus.txt 9 138 386 713 920 928 946 1148 1150 1153 
+fully Solar_Probe_Plus.txt 1 644 
+university Solar_Probe_Plus.txt 1 89 
+side Solar_Probe_Plus.txt 1 617 
+heavy Solar_Probe_Plus.txt 1 815 
+development Solar_Probe_Plus.txt 1 276 
+energy Solar_Probe_Plus.txt 1 804 
+88 Solar_Probe_Plus.txt 1 1133 
+89 Solar_Probe_Plus.txt 1 1135 
+year Solar_Probe_Plus.txt 1 86 
+laboratory Solar_Probe_Plus.txt 1 92 
+thick Solar_Probe_Plus.txt 1 584 
+living Solar_Probe_Plus.txt 1 130 
+funding Solar_Probe_Plus.txt 1 343 
+space Solar_Probe_Plus.txt 1 21 
+since Solar_Probe_Plus.txt 1 110 
+research Solar_Probe_Plus.txt 1 274 
+particles Solar_Probe_Plus.txt 1 499 
+7 Solar_Probe_Plus.txt 1 749 
+electronics Solar_Probe_Plus.txt 1 781 
+cause Solar_Probe_Plus.txt 1 771 
+announced Solar_Probe_Plus.txt 1 80 
+conceived Solar_Probe_Plus.txt 1 151 
+timeline Solar_Probe_Plus.txt 1 945 
+million Solar_Probe_Plus.txt 4 64 68 533 536 
+interplanetary Solar_Probe_Plus.txt 1 830 
+launch Solar_Probe_Plus.txt 5 103 107 346 803 817 
+days Solar_Probe_Plus.txt 9 977 999 1007 1038 1059 1062 1078 1107 1136 
+times Solar_Probe_Plus.txt 3 563 794 882 
+place Solar_Probe_Plus.txt 2 746 1052 
+w Solar_Probe_Plus.txt 1 237 
+undergo Solar_Probe_Plus.txt 1 336 
+first Solar_Probe_Plus.txt 5 121 182 321 460 961 
+major Solar_Probe_Plus.txt 1 940 
+primary Solar_Probe_Plus.txt 2 647 663 
+reaches Solar_Probe_Plus.txt 1 915 
+one Solar_Probe_Plus.txt 1 166 
+array Solar_Probe_Plus.txt 4 661 665 695 704 
+george Solar_Probe_Plus.txt 1 236 
+size Solar_Probe_Plus.txt 2 388 406 
+passes Solar_Probe_Plus.txt 2 521 855 
+management Solar_Probe_Plus.txt 1 279 
+temperature Solar_Probe_Plus.txt 1 711 
+system Solar_Probe_Plus.txt 1 656 
+approximately Solar_Probe_Plus.txt 2 526 561 
+cooling Solar_Probe_Plus.txt 1 707 
+psps Solar_Probe_Plus.txt 1 953 
+eponymous Solar_Probe_Plus.txt 1 172 
+that Solar_Probe_Plus.txt 5 297 312 1032 1080 1109 
+part Solar_Probe_Plus.txt 1 233 
+deceleration Solar_Probe_Plus.txt 1 836 
+focusing Solar_Probe_Plus.txt 1 751 
+holder Solar_Probe_Plus.txt 1 889 
+than Solar_Probe_Plus.txt 1 1002 
+distance Solar_Probe_Plus.txt 1 418 
+horizons Solar_Probe_Plus.txt 1 294 
+see Solar_Probe_Plus.txt 2 26 1146 
+project Solar_Probe_Plus.txt 2 78 150 
+endure Solar_Probe_Plus.txt 1 546 
+were Solar_Probe_Plus.txt 1 188 
+powers Solar_Probe_Plus.txt 1 696 
+are Solar_Probe_Plus.txt 4 489 543 627 926 
+and Solar_Probe_Plus.txt 23 94 158 197 205 258 275 277 435 474 487 491 493 550 585 611 624 690 780 782 819 1070 1126 1137 
+addressing Solar_Probe_Plus.txt 1 278 
+star-48b Solar_Probe_Plus.txt 1 826 
+interruptions Solar_Probe_Plus.txt 1 784 
+need Solar_Probe_Plus.txt 1 252 
+seen Solar_Probe_Plus.txt 2 393 407 
+hexagonal Solar_Probe_Plus.txt 1 610 
+contents Solar_Probe_Plus.txt 1 136 
+built Solar_Probe_Plus.txt 1 95 
+agency Solar_Probe_Plus.txt 1 22 
+gravity Solar_Probe_Plus.txt 4 426 508 831 899 
+also Solar_Probe_Plus.txt 2 286 1147 
+entirety Solar_Probe_Plus.txt 1 225 
+take Solar_Probe_Plus.txt 1 745 
+which Solar_Probe_Plus.txt 6 98 314 347 592 842 871 
+opsp Solar_Probe_Plus.txt 4 176 228 310 333 
+200 Solar_Probe_Plus.txt 1 867 
+multiple Solar_Probe_Plus.txt 1 520 
+investigations Solar_Probe_Plus.txt 2 927 943 
+object Solar_Probe_Plus.txt 2 879 893 
+phase Solar_Probe_Plus.txt 1 743 
+class Solar_Probe_Plus.txt 1 816 
+in-situ Solar_Probe_Plus.txt 2 15 23 
+later Solar_Probe_Plus.txt 2 358 1008 
+request Solar_Probe_Plus.txt 1 240 
+repeated Solar_Probe_Plus.txt 1 507 
+km Solar_Probe_Plus.txt 1 534 
+velocity Solar_Probe_Plus.txt 2 415 863 
+physics Solar_Probe_Plus.txt 1 91 
+parker Solar_Probe_Plus.txt 10 0 29 135 140 376 384 399 444 455 501 
+probe Solar_Probe_Plus.txt 20 2 7 31 34 36 40 48 142 162 175 355 363 378 401 446 456 503 807 854 965 
+radii Solar_Probe_Plus.txt 2 62 529 
+uranus Solar_Probe_Plus.txt 1 436 
+earth Solar_Probe_Plus.txt 2 409 567 
+fifth Solar_Probe_Plus.txt 2 1068 1100 
+slow Solar_Probe_Plus.txt 1 909 
+based Solar_Probe_Plus.txt 1 823 
+outside Solar_Probe_Plus.txt 2 598 673 
+bush Solar_Probe_Plus.txt 2 238 266 
+achieve Solar_Probe_Plus.txt 3 519 861 932 
+predecessor Solar_Probe_Plus.txt 1 147 
+means Solar_Probe_Plus.txt 1 948 
+express Solar_Probe_Plus.txt 2 204 306 
+120 Solar_Probe_Plus.txt 1 869 
+nearly Solar_Probe_Plus.txt 1 723 
+during Solar_Probe_Plus.txt 2 683 747 
+saturn Solar_Probe_Plus.txt 1 434 
+secondary Solar_Probe_Plus.txt 2 694 703 
+processes Solar_Probe_Plus.txt 1 496 
+encounters Solar_Probe_Plus.txt 1 1010 
+shadow-shield Solar_Probe_Plus.txt 1 575 
+okeefe Solar_Probe_Plus.txt 2 219 249 
+miles Solar_Probe_Plus.txt 1 69 
+predicted Solar_Probe_Plus.txt 1 769 
+where Solar_Probe_Plus.txt 2 555 637 
+withstand Solar_Probe_Plus.txt 1 596 
+temporarily Solar_Probe_Plus.txt 1 873 
+relative Solar_Probe_Plus.txt 1 837 
+intensity Solar_Probe_Plus.txt 2 559 565 
+sean Solar_Probe_Plus.txt 1 218 
+close Solar_Probe_Plus.txt 2 685 1142 
+federal Solar_Probe_Plus.txt 1 246 
+wikipedia Solar_Probe_Plus.txt 1 3 
+centerpieces Solar_Probe_Plus.txt 1 169 
+behind Solar_Probe_Plus.txt 1 679 
+won Solar_Probe_Plus.txt 1 299 
+conceptual Solar_Probe_Plus.txt 1 329 
+approach Solar_Probe_Plus.txt 4 57 686 701 1141 
+shields Solar_Probe_Plus.txt 1 635 
+fly-by Solar_Probe_Plus.txt 2 963 993 
+europa Solar_Probe_Plus.txt 2 207 213 
+physicist Solar_Probe_Plus.txt 1 133 
+incident Solar_Probe_Plus.txt 1 557 
+article Solar_Probe_Plus.txt 1 10 
+originates Solar_Probe_Plus.txt 1 144 
+both Solar_Probe_Plus.txt 1 772 
+c Solar_Probe_Plus.txt 1 604 
+last Solar_Probe_Plus.txt 1 1127 
+missions Solar_Probe_Plus.txt 1 184 
+against Solar_Probe_Plus.txt 1 416 
+s Solar_Probe_Plus.txt 1 239 
+planned Solar_Probe_Plus.txt 3 43 189 944 
+operating Solar_Probe_Plus.txt 1 710 
+afterwards Solar_Probe_Plus.txt 1 912 
+cm Solar_Probe_Plus.txt 1 581 
+point Solar_Probe_Plus.txt 2 950 1017 
+overview Solar_Probe_Plus.txt 1 385 
+heliophysics Solar_Probe_Plus.txt 2 16 24 
+period Solar_Probe_Plus.txt 8 974 980 995 1028 1055 1072 1103 1131 
+administrations Solar_Probe_Plus.txt 1 267 
+belt Solar_Probe_Plus.txt 1 199 
+8.5 Solar_Probe_Plus.txt 1 527 
+3.85 Solar_Probe_Plus.txt 1 67 
+trajectory Solar_Probe_Plus.txt 3 712 716 800 
+political Solar_Probe_Plus.txt 1 339 
+three Solar_Probe_Plus.txt 4 183 881 984 1091 
+been Solar_Probe_Plus.txt 1 111 
+shortening Solar_Probe_Plus.txt 1 1053 
+much Solar_Probe_Plus.txt 1 692 
+systems Solar_Probe_Plus.txt 2 542 623 
+understand Solar_Probe_Plus.txt 1 482 
+external Solar_Probe_Plus.txt 1 1151 
+helios-b Solar_Probe_Plus.txt 1 890 
+former Solar_Probe_Plus.txt 1 309 
+those Solar_Probe_Plus.txt 1 748 
+applied Solar_Probe_Plus.txt 1 90 
+solid Solar_Probe_Plus.txt 1 827 
+budget Solar_Probe_Plus.txt 2 85 247 
+will Solar_Probe_Plus.txt 15 56 447 457 470 652 717 744 788 808 833 860 872 902 937 966 
+near Solar_Probe_Plus.txt 3 552 764 796 
+cancelled Solar_Probe_Plus.txt 1 231 
+reconnaissance Solar_Probe_Plus.txt 1 200 
+launched Solar_Probe_Plus.txt 2 318 810 
+periods Solar_Probe_Plus.txt 1 754 
+shortened Solar_Probe_Plus.txt 1 1074 
+seven Solar_Probe_Plus.txt 3 719 724 1086 
+then Solar_Probe_Plus.txt 2 908 1084 
+almost Solar_Probe_Plus.txt 2 880 1095 
+is Solar_Probe_Plus.txt 13 11 41 560 579 586 593 609 612 643 677 758 768 1073 
+it Solar_Probe_Plus.txt 12 55 469 859 875 905 914 1009 1042 1063 1083 1120 1139 
+surface Solar_Probe_Plus.txt 1 72 
+iv Solar_Probe_Plus.txt 1 814 
+dual Solar_Probe_Plus.txt 1 655 
+in Solar_Probe_Plus.txt 20 81 104 152 156 262 288 307 349 365 369 379 583 629 778 845 894 929 951 968 1019 
+orbital Solar_Probe_Plus.txt 1 516 
+lengthy Solar_Probe_Plus.txt 1 338 
+11.4 Solar_Probe_Plus.txt 1 580 
+make Solar_Probe_Plus.txt 1 874 
+radiation Solar_Probe_Plus.txt 4 549 639 766 776 
+same Solar_Probe_Plus.txt 2 439 1051 
+two-thirds Solar_Probe_Plus.txt 1 978 
+european Solar_Probe_Plus.txt 1 20 
+voyager Solar_Probe_Plus.txt 1 412 
+meets Solar_Probe_Plus.txt 3 1043 1064 1121 
+used Solar_Probe_Plus.txt 1 666 
+closest Solar_Probe_Plus.txt 3 700 759 955 
+assist Solar_Probe_Plus.txt 1 427 
+8.86 Solar_Probe_Plus.txt 1 60 
+uses Solar_Probe_Plus.txt 2 506 705 
+robotic Solar_Probe_Plus.txt 1 45 
+retracted Solar_Probe_Plus.txt 1 678 
+lower Solar_Probe_Plus.txt 1 450 
+spent Solar_Probe_Plus.txt 1 795 
+cancellation Solar_Probe_Plus.txt 2 282 291 
+person Solar_Probe_Plus.txt 1 131 
+materials Solar_Probe_Plus.txt 1 779 
+aphelion Solar_Probe_Plus.txt 1 917 
+km/s Solar_Probe_Plus.txt 1 868 
+the Solar_Probe_Plus.txt 113 13 19 49 53 71 75 77 82 96 106 114 120 139 153 160 168 171 181 186 192 195 206 215 224 227 242 265 281 284 289 295 300 308 320 324 332 353 361 366 372 390 395 398 420 423 430 438 453 459 465 472 477 484 500 523 540 547 553 556 564 570 576 599 607 615 619 621 630 634 641 646 650 668 671 680 684 688 697 714 733 741 753 756 761 763 786 797 799 806 825 853 857 876 886 900 921 924 935 949 952 957 960 964 979 991 994 1020 1050 1067 1092 1099 1124 1144 
+summer Solar_Probe_Plus.txt 1 115 
+rocket Solar_Probe_Plus.txt 1 828 
+less Solar_Probe_Plus.txt 1 1001 
+speed Solar_Probe_Plus.txt 1 848 
+spacecrafts Solar_Probe_Plus.txt 1 541 
+has Solar_Probe_Plus.txt 1 109 
+flybys Solar_Probe_Plus.txt 1 721 
+scheduled Solar_Probe_Plus.txt 1 101 
+around Solar_Probe_Plus.txt 2 732 856 
+early Solar_Probe_Plus.txt 1 367 
+photosphere Solar_Probe_Plus.txt 1 73 
+sun-facing Solar_Probe_Plus.txt 1 616 
+five Solar_Probe_Plus.txt 2 939 1113 
+using Solar_Probe_Plus.txt 1 437 
+shadow Solar_Probe_Plus.txt 2 636 681 
+highly Solar_Probe_Plus.txt 1 790 
+projects Solar_Probe_Plus.txt 1 260 
+like Solar_Probe_Plus.txt 1 891 
+manifest Solar_Probe_Plus.txt 1 359 
+renamed Solar_Probe_Plus.txt 1 375 
+served Solar_Probe_Plus.txt 1 164 
+competition Solar_Probe_Plus.txt 1 301 
+3.7 Solar_Probe_Plus.txt 1 535 
+jupiter Solar_Probe_Plus.txt 1 433 
+accelerate Solar_Probe_Plus.txt 3 429 497 903 
+mi/s Solar_Probe_Plus.txt 1 870 
+2010s Solar_Probe_Plus.txt 1 368 
+orbiter Solar_Probe_Plus.txt 6 17 25 28 149 194 208 
+for Solar_Probe_Plus.txt 11 18 241 253 269 344 352 649 667 735 1066 1123 
+7010373994676750000 Solar_Probe_Plus.txt 1 674 
+0.25 Solar_Probe_Plus.txt 1 675 
+be Solar_Probe_Plus.txt 7 191 317 458 653 789 809 967 
+scientific Solar_Probe_Plus.txt 2 625 918 
+power Solar_Probe_Plus.txt 1 648 
+sixth Solar_Probe_Plus.txt 1 1093 
+restructuring Solar_Probe_Plus.txt 1 255 
+assists Solar_Probe_Plus.txt 2 509 832 
+by Solar_Probe_Plus.txt 3 179 432 569 
+earlier Solar_Probe_Plus.txt 1 1018 
+stage Solar_Probe_Plus.txt 1 822 
+on Solar_Probe_Plus.txt 6 212 273 752 811 824 990 
+about Solar_Probe_Plus.txt 7 12 531 602 1036 1049 1057 1076 
+hidden Solar_Probe_Plus.txt 1 1155 
+central Solar_Probe_Plus.txt 1 631 
+hopkins Solar_Probe_Plus.txt 1 88 
+of Solar_Probe_Plus.txt 39 52 74 116 167 170 185 217 222 226 234 256 283 292 323 381 389 397 411 425 476 522 572 588 601 618 633 657 670 738 864 923 975 981 1022 1031 1033 1081 1110 1118 
+plus Solar_Probe_Plus.txt 3 8 37 364 
+or Solar_Probe_Plus.txt 6 38 66 530 942 1035 1134 
+photovoltaic Solar_Probe_Plus.txt 2 660 664 
+previously Solar_Probe_Plus.txt 1 32 
+instruments Solar_Probe_Plus.txt 1 626 
+into Solar_Probe_Plus.txt 1 464 
+johns Solar_Probe_Plus.txt 1 87 
+due Solar_Probe_Plus.txt 1 897 
+down Solar_Probe_Plus.txt 2 910 1104 
+references Solar_Probe_Plus.txt 1 1149 
+determine Solar_Probe_Plus.txt 2 471 494 
+heated Solar_Probe_Plus.txt 1 490 
+1990s Solar_Probe_Plus.txt 1 154 
+initial Solar_Probe_Plus.txt 1 290 
+fast Solar_Probe_Plus.txt 1 884 
+low Solar_Probe_Plus.txt 1 466 
+resulted Solar_Probe_Plus.txt 1 287 
+was Solar_Probe_Plus.txt 6 79 99 119 126 230 374 
+only Solar_Probe_Plus.txt 1 1005 
+vehicle Solar_Probe_Plus.txt 1 818 
+manmade Solar_Probe_Plus.txt 1 878 
+but Solar_Probe_Plus.txt 1 441 
+heat Solar_Probe_Plus.txt 1 551 
+goals Solar_Probe_Plus.txt 3 919 922 934 
+solar Solar_Probe_Plus.txt 26 1 6 27 30 33 35 39 61 141 148 161 193 354 362 377 400 445 454 467 485 502 528 558 574 577 658 
+delta Solar_Probe_Plus.txt 1 813 
+line Solar_Probe_Plus.txt 1 263 
+with Solar_Probe_Plus.txt 4 264 442 792 972 
+made Solar_Probe_Plus.txt 1 587 
+wish Solar_Probe_Plus.txt 1 268 
+up Solar_Probe_Plus.txt 1 865 
+record Solar_Probe_Plus.txt 2 849 888 
+panels Solar_Probe_Plus.txt 1 659 
+similar Solar_Probe_Plus.txt 1 155 
+150 Solar_Probe_Plus.txt 1 976 
+result Solar_Probe_Plus.txt 1 844 
+an Solar_Probe_Plus.txt 3 820 895 969 
+as Solar_Probe_Plus.txt 10 165 220 232 319 360 392 852 883 885 904 
+au Solar_Probe_Plus.txt 2 539 676 
+at Solar_Probe_Plus.txt 7 510 525 566 614 850 1015 1048 
+4.5 Solar_Probe_Plus.txt 1 582 
+again Solar_Probe_Plus.txt 1 911 
+compared Solar_Probe_Plus.txt 1 402 
+when Solar_Probe_Plus.txt 1 755 
+field Solar_Probe_Plus.txt 1 481 
+shrink Solar_Probe_Plus.txt 1 728 
+energetic Solar_Probe_Plus.txt 1 498 
+0.040 Solar_Probe_Plus.txt 1 538 
+categories Solar_Probe_Plus.txt 2 1154 1156 
+gradually Solar_Probe_Plus.txt 1 727 
+coronal Solar_Probe_Plus.txt 1 479 
+allowing Solar_Probe_Plus.txt 1 1138 
+redirected Solar_Probe_Plus.txt 1 4 
+structure Solar_Probe_Plus.txt 1 473 
+fiscal Solar_Probe_Plus.txt 1 83 
+two-fifths Solar_Probe_Plus.txt 1 1108 
+orbit Solar_Probe_Plus.txt 10 396 452 568 731 787 841 896 954 971 1021 
+2003 Solar_Probe_Plus.txt 1 243 
+portion Solar_Probe_Plus.txt 2 632 669 
+nasa Solar_Probe_Plus.txt 7 14 44 124 180 223 257 270 
+2006 Solar_Probe_Plus.txt 1 350 
+time Solar_Probe_Plus.txt 5 122 1014 1047 1069 1128 
+2009 Solar_Probe_Plus.txt 1 84 
+requires Solar_Probe_Plus.txt 1 801 

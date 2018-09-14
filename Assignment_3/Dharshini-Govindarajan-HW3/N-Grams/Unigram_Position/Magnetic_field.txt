@@ -1,0 +1,1439 @@
+limited Magnetic_field.txt 1 7364 
+magnetic Magnetic_field.txt 316 0 7 24 40 52 140 178 189 202 228 258 277 298 308 326 340 358 402 417 516 565 576 582 593 625 663 710 723 753 790 822 838 867 909 1058 1117 1137 1241 1351 1360 1374 1377 1401 1436 1440 1466 1504 1587 1604 1619 1646 1654 1674 1690 1722 1737 1743 1760 1770 1774 1791 1822 1833 1841 1850 1857 1885 1914 1974 1979 2004 2022 2031 2061 2074 2084 2157 2175 2202 2210 2218 2232 2247 2306 2335 2345 2386 2418 2432 2434 2442 2477 2510 2516 2525 2631 2636 2644 2663 2675 2704 2712 2757 2832 2855 2871 2905 2909 2924 2965 2968 3027 3042 3201 3211 3215 3232 3290 3338 3373 3377 3415 3423 3434 3440 3558 3588 3596 3633 3641 3652 3662 3674 3676 3702 3726 3746 3786 3801 3889 3941 3946 3986 4016 4018 4031 4039 4041 4075 4087 4100 4113 4136 4156 4187 4230 4240 4245 4254 4281 4340 4356 4490 4515 4549 4561 4606 4625 4638 4654 4668 4677 4701 4709 4717 4752 4802 4842 4979 5026 5064 5102 5114 5119 5212 5235 5250 5286 5299 5306 5348 5356 5360 5373 5411 5420 5431 5473 5478 5514 5625 5655 5676 5687 5701 5708 5747 5765 5773 5786 5804 5864 5869 5874 5878 5886 5898 5911 5923 5939 5960 6005 6031 6049 6075 6098 6102 6166 6175 6184 6194 6210 6217 6225 6272 6295 6307 6455 6478 6513 6655 6658 6768 6794 6836 6956 6986 7019 7027 7036 7074 7080 7111 7426 7430 7436 7442 7486 7490 7522 7555 7606 7613 7657 7667 7688 7696 7711 7749 7755 7761 7813 7895 7958 8002 8058 8081 8094 8115 8141 8146 8155 8167 8215 8260 8264 8276 8285 8295 8301 8304 8307 8320 8325 8330 8334 8345 8365 8388 8418 8425 8459 8497 8508 8520 8553 8582 8588 8591 8609 8626 8633 8641 8655 8687 8705 
+four Magnetic_field.txt 4 220 4470 7201 8289 
+relationships Magnetic_field.txt 1 6934 
+whose Magnetic_field.txt 2 4723 8427 
+calculate Magnetic_field.txt 5 4436 5133 6859 6948 8258 
+electricity Magnetic_field.txt 5 774 967 4475 6570 8563 
+under Magnetic_field.txt 2 6252 7409 
+lord Magnetic_field.txt 1 857 
+alternating Magnetic_field.txt 1 7807 
+every Magnetic_field.txt 1 1801 
+experimentally Magnetic_field.txt 2 531 1025 
+scholar Magnetic_field.txt 1 409 
+induction Magnetic_field.txt 7 783 809 824 887 1665 6448 7946 
+vector Magnetic_field.txt 25 73 166 839 1236 1249 1286 1814 2655 2937 3955 4321 4325 4365 5194 6510 6581 6629 6634 6810 6817 7075 7117 7129 7260 7270 
+force Magnetic_field.txt 75 28 45 216 236 551 734 738 830 986 1143 1171 1194 1215 1222 1256 1308 1319 1343 2353 2468 2491 2608 2618 3149 3155 3159 3190 3204 3223 3275 3281 3323 3389 3427 3559 3782 3834 3906 4036 4478 4496 4506 4519 4528 4540 4570 4576 4585 4612 4669 4710 4754 4762 4764 4796 4806 4818 4860 4874 4909 4919 4928 4937 4983 4993 5018 6086 6153 6559 6981 7001 7020 7991 8064 8223 
+compasses Magnetic_field.txt 1 1730 
+approximation Magnetic_field.txt 2 3551 7397 
+second Magnetic_field.txt 6 1532 3254 3268 3311 5825 6689 
+rigorous Magnetic_field.txt 1 2147 
+blue Magnetic_field.txt 1 6796 
+established Magnetic_field.txt 1 1050 
+errors Magnetic_field.txt 1 7367 
+fingers Magnetic_field.txt 2 4902 4973 
+supplied Magnetic_field.txt 1 7839 
+above Magnetic_field.txt 13 1993 3236 3969 5104 5167 5969 6070 6331 6353 6597 6748 6824 8569 
+new Magnetic_field.txt 1 2739 
+net Magnetic_field.txt 7 2344 2352 3274 3345 4495 5211 5429 
+increasing Magnetic_field.txt 1 3337 
+never Magnetic_field.txt 1 6602 
+here Magnetic_field.txt 7 1224 1741 3796 3891 7407 8164 8236 
+represented Magnetic_field.txt 4 70 1982 7256 7659 
+path Magnetic_field.txt 1 4644 
+100 Magnetic_field.txt 1 1636 
+obtained Magnetic_field.txt 1 2313 
+study Magnetic_field.txt 1 400 
+visualised Magnetic_field.txt 1 7700 
+changes Magnetic_field.txt 1 6773 
+slices Magnetic_field.txt 1 470 
+explained Magnetic_field.txt 1 961 
+highly Magnetic_field.txt 1 4442 
+brought Magnetic_field.txt 1 3607 
+visible Magnetic_field.txt 1 2048 
+circumvent Magnetic_field.txt 2 6861 6944 
+unit Magnetic_field.txt 11 934 1525 3456 4364 5216 5248 5257 5593 5995 7141 7153 
+re-factor Magnetic_field.txt 1 6871 
+constantthe Magnetic_field.txt 1 7715 
+negative Magnetic_field.txt 7 2558 3128 4924 5045 5500 6198 8136 
+noting Magnetic_field.txt 1 429 
+therefore Magnetic_field.txt 12 2539 2565 3029 3667 5228 5295 5426 5642 5679 5732 6118 8495 
+turin Magnetic_field.txt 1 8039 
+separated Magnetic_field.txt 6 547 1210 2451 2650 5645 8527 
+successful Magnetic_field.txt 2 561 676 
+motors Magnetic_field.txt 8 305 3683 6144 7772 7810 7914 7932 7947 
+correspondingly Magnetic_field.txt 1 1503 
+90 Magnetic_field.txt 1 7823 
+must Magnetic_field.txt 3 3050 5984 6910 
+mb Magnetic_field.txt 1 3480 
+1998 Magnetic_field.txt 1 1617 
+torques Magnetic_field.txt 1 2470 
+work Magnetic_field.txt 14 483 500 763 4682 4691 4713 4736 5890 5993 6025 6042 7096 7221 8021 
+mh Magnetic_field.txt 1 3855 
+theories Magnetic_field.txt 6 7384 7418 8670 8674 8677 8690 
+concepts Magnetic_field.txt 2 1936 1948 
+exceptions Magnetic_field.txt 1 8650 
+example Magnetic_field.txt 5 1958 2016 3351 3631 8500 
+nanotesla Magnetic_field.txt 1 1553 
+mnemonic Magnetic_field.txt 2 4949 5081 
+give Magnetic_field.txt 2 310 8649 
+relativistic Magnetic_field.txt 1 6967 
+10,000 Magnetic_field.txt 1 1550 
+attract Magnetic_field.txt 3 253 518 2120 
+end Magnetic_field.txt 4 2931 3025 8639 8661 
+carriers Magnetic_field.txt 3 315 8049 8130 
+machine Magnetic_field.txt 1 7943 
+how Magnetic_field.txt 9 467 891 5177 5198 5755 6047 6450 6587 6700 
+1750 Magnetic_field.txt 1 511 
+description Magnetic_field.txt 3 6564 7282 7405 
+earlier Magnetic_field.txt 1 398 
+sarov Magnetic_field.txt 1 1615 
+law Magnetic_field.txt 41 527 656 735 744 749 807 831 1223 1257 1344 2781 4055 4058 4311 4405 4424 4466 5381 5386 5538 5577 6084 6096 6133 6147 6236 6242 6270 6287 6318 6328 6352 6384 6442 6446 6560 6641 6687 6736 8180 8207 
+parallel Magnetic_field.txt 4 636 1863 2141 4651 
+summing Magnetic_field.txt 1 3577 
+fictitious Magnetic_field.txt 1 2700 
+enter Magnetic_field.txt 3 2979 3046 3062 
+wind Magnetic_field.txt 1 288 
+operations Magnetic_field.txt 1 1298 
+over Magnetic_field.txt 6 3085 4316 4411 5394 5464 5611 
+vary Magnetic_field.txt 1 7726 
+satisfies Magnetic_field.txt 1 1219 
+fit Magnetic_field.txt 1 1345 
+somewhere Magnetic_field.txt 2 3011 3016 
+nqva Magnetic_field.txt 1 4882 
+non-elementary Magnetic_field.txt 1 4716 
+hidden Magnetic_field.txt 1 8749 
+easier Magnetic_field.txt 1 7094 
+overcome Magnetic_field.txt 1 7862 
+eventually Magnetic_field.txt 1 1084 
+them Magnetic_field.txt 6 471 2316 3500 3567 3836 4011 
+band Magnetic_field.txt 1 2101 
+effects Magnetic_field.txt 3 130 1129 1700 
+they Magnetic_field.txt 10 1426 1896 2122 2177 2193 6738 6908 7644 8645 8647 
+represents Magnetic_field.txt 6 3953 5197 5542 6200 6586 6699 
+arrow Magnetic_field.txt 2 1811 4072 
+each Magnetic_field.txt 21 897 1412 1807 2144 2329 2482 2522 2718 2746 2749 2843 3187 3206 3307 3571 3582 3609 3716 6460 7265 7276 
+magnete Magnetic_field.txt 1 502 
+conductance Magnetic_field.txt 1 8191 
+magnets Magnetic_field.txt 37 240 257 390 392 456 692 1381 1748 2119 2161 2167 2206 2222 2243 2272 2310 2326 2473 2847 2877 3151 3157 3163 3176 3184 3198 3225 3357 3383 3542 3556 3562 3592 3605 3615 3658 3784 
+combining Magnetic_field.txt 1 5326 
+laboratory Magnetic_field.txt 1 1609 
+ring Magnetic_field.txt 1 2791 
+faradays Magnetic_field.txt 9 806 6083 6095 6132 6146 6241 6351 6445 6735 
+gradient Magnetic_field.txt 2 3446 3518 
+particles Magnetic_field.txt 10 193 383 1228 1704 4085 4112 4722 5153 7320 8600 
+magnetostatic Magnetic_field.txt 1 8312 
+foundation Magnetic_field.txt 1 608 
+linear Magnetic_field.txt 3 5942 6054 8162 
+given Magnetic_field.txt 16 56 1966 3048 3235 4579 5368 5424 5982 6030 6069 6330 6399 6499 6593 6707 6747 
+free Magnetic_field.txt 9 3648 5544 5588 5619 5637 5661 5696 6878 6883 
+standard Magnetic_field.txt 2 7230 7305 
+detecting Magnetic_field.txt 1 1759 
+hand Magnetic_field.txt 9 4060 4145 4892 4961 5062 5085 5089 6666 6931 
+created Magnetic_field.txt 5 32 237 558 4628 6052 
+starts Magnetic_field.txt 2 2548 6603 
+creates Magnetic_field.txt 2 3639 5900 
+incorporated Magnetic_field.txt 1 7296 
+moving Magnetic_field.txt 16 34 49 183 818 1072 1148 4045 4083 4089 4480 4532 4776 4789 5039 5047 6108 
+four-potential Magnetic_field.txt 1 7185 
+rank Magnetic_field.txt 1 5826 
+another Magnetic_field.txt 2 646 7010 
+categorize Magnetic_field.txt 1 5771 
+researched Magnetic_field.txt 1 8009 
+similarly Magnetic_field.txt 1 5605 
+top Magnetic_field.txt 1 7462 
+needed Magnetic_field.txt 4 5882 5998 6026 6043 
+too Magnetic_field.txt 1 3554 
+hypothetical Magnetic_field.txt 2 8584 8595 
+gilbert Magnetic_field.txt 4 477 2499 2505 2708 
+john Magnetic_field.txt 1 512 
+tool Magnetic_field.txt 1 2071 
+albert Magnetic_field.txt 2 1042 1086 
+begins Magnetic_field.txt 3 5415 5704 6667 
+distance Magnetic_field.txt 12 2260 2454 2654 3179 3457 3830 3848 4160 4176 4345 4385 8529 
+showed Magnetic_field.txt 3 634 685 1052 
+zero Magnetic_field.txt 5 3072 3544 3992 6627 8434 
+matter Magnetic_field.txt 1 466 
+interrelated Magnetic_field.txt 1 208 
+transformers Magnetic_field.txt 1 333 
+iron Magnetic_field.txt 8 248 427 1766 1987 2017 2080 2185 4219 
+1600 Magnetic_field.txt 1 498 
+sees Magnetic_field.txt 1 3313 
+disambiguation Magnetic_field.txt 1 9 
+modern Magnetic_field.txt 4 264 7236 7281 8662 
+torque Magnetic_field.txt 17 1369 1378 3202 3346 3589 3597 3642 3653 3677 3738 3749 3775 3826 3890 3930 3973 4008 
+manner Magnetic_field.txt 1 2487 
+seen Magnetic_field.txt 1 1740 
+contents Magnetic_field.txt 1 342 
+strength Magnetic_field.txt 15 66 1786 1830 1884 2244 2648 3171 3845 4153 4170 4269 4546 5433 7716 8359 
+latter Magnetic_field.txt 1 882 
+isolated Magnetic_field.txt 3 728 4685 6654 
+forces Magnetic_field.txt 13 222 309 2075 2085 2364 3329 3580 3762 3812 3818 4729 4745 7028 
+reversed Magnetic_field.txt 3 4921 5012 6800 
+circles Magnetic_field.txt 1 4119 
+though Magnetic_field.txt 9 611 1454 2008 2394 5121 5977 6057 6488 8546 
+object Magnetic_field.txt 2 1778 2733 
+extending Magnetic_field.txt 2 669 8198 
+phase Magnetic_field.txt 3 5774 7825 7880 
+coil Magnetic_field.txt 6 1677 4207 4279 6112 6127 6214 
+calculated Magnetic_field.txt 1 4359 
+partition Magnetic_field.txt 1 6977 
+flow Magnetic_field.txt 2 1893 4291 
+points Magnetic_field.txt 11 438 442 1745 2274 3112 3519 4913 4987 5279 5595 7549 
+principle Magnetic_field.txt 3 454 1782 7766 
+section Magnetic_field.txt 1 4825 
+dot Magnetic_field.txt 4 2805 3115 3476 3512 
+saying Magnetic_field.txt 1 6620 
+probe Magnetic_field.txt 1 1592 
+radio Magnetic_field.txt 1 1720 
+earth Magnetic_field.txt 5 273 366 492 7458 7586 
+proposed Magnetic_field.txt 2 694 852 
+situations Magnetic_field.txt 2 1178 4444 
+explain Magnetic_field.txt 1 8573 
+north/south Magnetic_field.txt 3 592 2728 7678 
+do Magnetic_field.txt 6 2136 4680 4690 4712 7692 8724 
+mixture Magnetic_field.txt 1 7023 
+gaussian-cgs Magnetic_field.txt 1 1536 
+de Magnetic_field.txt 3 412 501 529 
+fluid Magnetic_field.txt 1 1892 
+reversal Magnetic_field.txt 2 7739 7743 
+despite Magnetic_field.txt 1 8701 
+tips Magnetic_field.txt 1 8292 
+emf Magnetic_field.txt 1 6155 
+bar Magnetic_field.txt 4 21 1995 2294 7703 
+textbooks Magnetic_field.txt 1 1460 
+fields Magnetic_field.txt 34 85 179 203 206 229 259 299 327 403 868 910 1059 1691 2176 2387 2419 2856 3727 3747 4088 4101 4464 5870 6078 6456 6511 6535 6630 6635 6867 6957 7037 7112 7750 
+respond Magnetic_field.txt 3 5719 5757 6826 
+three-phase Magnetic_field.txt 3 7864 7904 7922 
+reference Magnetic_field.txt 4 1069 6998 7016 7047 
+emergent Magnetic_field.txt 1 1094 
+observed Magnetic_field.txt 1 8709 
+depends Magnetic_field.txt 5 1196 3168 3208 6045 8405 
+result Magnetic_field.txt 4 2359 3413 6710 8173 
+subject Magnetic_field.txt 1 3319 
+tensor Magnetic_field.txt 5 2156 5827 7041 7045 7207 
+multicoiled Magnetic_field.txt 1 7962 
+wikipedia Magnetic_field.txt 1 2 
+symmetric Magnetic_field.txt 1 4443 
+drawn Magnetic_field.txt 1 2281 
+solenoid Magnetic_field.txt 3 4177 4209 4453 
+terms Magnetic_field.txt 7 1366 1450 5533 5685 6875 7106 7160 
+wb Magnetic_field.txt 1 1511 
+nature Magnetic_field.txt 3 224 2376 8245 
+confusion Magnetic_field.txt 2 929 7577 
+weak Magnetic_field.txt 1 5741 
+however Magnetic_field.txt 5 1175 3288 5851 7408 7831 
+cos Magnetic_field.txt 1 3481 
+against Magnetic_field.txt 1 5891 
+ernst Magnetic_field.txt 1 812 
+basis Magnetic_field.txt 2 6137 8464 
+three Magnetic_field.txt 6 473 604 7262 7272 7870 7882 
+tiny Magnetic_field.txt 2 381 5328 
+quickly Magnetic_field.txt 1 1951 
+much Magnetic_field.txt 4 397 1629 7213 7288 
+interest Magnetic_field.txt 1 8663 
+expected Magnetic_field.txt 1 4779 
+correction Magnetic_field.txt 5 6267 6284 6315 6387 6439 
+repelled Magnetic_field.txt 1 2842 
+life Magnetic_field.txt 1 227 
+quantities Magnetic_field.txt 1 6937 
+spin Magnetic_field.txt 4 201 5149 8324 8718 
+applied Magnetic_field.txt 12 876 3940 5654 5722 5750 5764 5803 6321 6829 6835 8093 8224 
+exception Magnetic_field.txt 1 2957 
+n Magnetic_field.txt 3 3033 3765 4870 
+petrus Magnetic_field.txt 2 410 481 
+near Magnetic_field.txt 12 2228 2561 2583 2974 2980 3302 3608 5297 5304 5707 7460 7469 
+applies Magnetic_field.txt 1 6251 
+property Magnetic_field.txt 5 199 2914 6575 6637 6691 
+k Magnetic_field.txt 1 5584 
+is Magnetic_field.txt 254 26 31 69 77 101 111 122 134 169 290 334 493 579 586 697 803 825 1019 1139 1152 1226 1238 1245 1326 1349 1391 1396 1442 1468 1496 1506 1520 1528 1539 1547 1554 1563 1595 1610 1717 1779 1843 1862 1920 1968 2152 2239 2296 2342 2357 2414 2462 2496 2513 2540 2623 2639 2683 2696 2734 2766 2814 2878 2893 2898 2922 2934 3019 3075 3081 3093 3120 3135 3164 3191 3227 3260 3272 3282 3296 3318 3348 3443 3447 3461 3496 3503 3514 3537 3547 3563 3616 3647 3678 3691 3739 3777 3858 3874 3893 3935 3971 3979 3991 4171 4301 4306 4323 4338 4343 4358 4362 4383 4402 4410 4416 4425 4467 4542 4557 4571 4578 4583 4587 4595 4604 4613 4650 4670 4704 4725 4732 4740 4770 4785 4811 4838 4867 4879 4920 4999 5035 5137 5204 5207 5227 5252 5261 5323 5343 5390 5400 5453 5459 5471 5526 5539 5585 5615 5652 5665 5740 5749 5768 5798 5809 5881 5919 5925 5950 5955 6008 6016 6020 6051 6129 6148 6150 6164 6186 6189 6232 6258 6311 6320 6335 6348 6369 6389 6396 6406 6422 6427 6576 6616 6626 6638 6645 6677 6692 6714 6764 6786 6797 6803 6988 7053 7092 7145 7241 7255 7290 7295 7324 7399 7419 7459 7478 7492 7558 7583 7588 7615 7652 7681 7713 7763 7915 8089 8097 8106 8118 8153 8165 8174 8185 8189 8194 8211 8213 8220 8230 8240 8255 8336 8347 8367 8396 8420 8448 8462 8502 8544 8593 
+it Magnetic_field.txt 43 58 68 369 628 683 1130 1144 1151 1244 1370 2461 2695 2848 3012 3018 3226 3620 3892 4194 4629 4640 4687 4703 5178 5206 5440 5447 5450 6229 6395 6410 6522 7091 7215 7254 7535 7863 8117 8254 8501 8558 8570 8622 
+in Magnetic_field.txt 200 94 103 113 142 144 157 225 267 292 302 316 328 336 389 405 444 497 510 521 534 570 572 600 613 630 640 657 680 682 712 761 777 801 820 832 855 978 987 1001 1029 1044 1122 1156 1164 1176 1186 1273 1331 1356 1365 1386 1403 1462 1477 1492 1498 1508 1535 1541 1565 1570 1574 1577 1607 1614 1719 1781 1803 1816 1891 1894 2020 2038 2041 2076 2082 2275 2405 2484 2506 2528 2609 2629 2677 2727 2736 2863 3032 3117 3133 3145 3237 3326 3333 3394 3504 3629 3684 3820 3980 3998 4066 4117 4295 4330 4366 4371 4454 4488 4512 4533 4608 4635 4645 4657 4737 4797 4840 4856 4893 4903 4965 4974 5000 5280 5289 5316 5409 5475 5521 5532 5596 5684 5788 5817 5834 5868 5937 5987 6124 6212 6223 6400 6415 6430 6777 6788 6874 6903 7011 7082 7105 7113 7159 7178 7235 7310 7341 7390 7394 7480 7500 7518 7546 7674 7707 7734 7767 7776 7801 7827 7832 7853 7874 7897 7912 7973 7983 7992 8004 8012 8023 8029 8038 8055 8067 8071 8086 8131 8154 8176 8217 8244 8338 8487 8548 8556 8619 8664 8712 
+ia Magnetic_field.txt 2 2895 8447 
+if Magnetic_field.txt 14 2730 3003 3256 3287 3501 3598 3977 4835 5004 5422 5956 6897 7585 8644 
+confirmed Magnetic_field.txt 1 1026 
+patent Magnetic_field.txt 1 8017 
+make Magnetic_field.txt 3 1253 5158 6549 
+1819 Magnetic_field.txt 1 614 
+clearly Magnetic_field.txt 1 451 
+complex Magnetic_field.txt 2 5858 7331 
+several Magnetic_field.txt 1 1123 
+entitled Magnetic_field.txt 1 981 
+independent Magnetic_field.txt 3 4505 5616 5648 
+three-wire Magnetic_field.txt 1 7842 
+nikola Magnetic_field.txt 2 7796 7994 
+hysteresis Magnetic_field.txt 2 5865 5879 
+potentials Magnetic_field.txt 1 7163 
+hans Magnetic_field.txt 2 595 615 
+geist Magnetic_field.txt 1 599 
+kept Magnetic_field.txt 1 3731 
+spacetime Magnetic_field.txt 1 7066 
+materials Magnetic_field.txt 19 143 245 1437 2182 2433 2676 5515 5718 5756 5778 5915 5944 5961 5976 6035 6056 6825 8132 8715 
+the Magnetic_field.txt 699 75 88 95 129 137 151 165 172 187 214 219 272 281 286 313 320 323 337 353 365 378 399 416 420 431 453 486 540 559 564 641 654 662 686 707 717 737 747 752 766 771 833 837 849 874 881 899 907 931 937 943 970 1010 1015 1031 1055 1063 1080 1093 1113 1116 1128 1136 1142 1187 1193 1198 1204 1214 1217 1220 1227 1232 1235 1240 1248 1254 1260 1269 1274 1277 1280 1285 1296 1307 1318 1321 1341 1350 1354 1359 1368 1383 1400 1415 1420 1438 1464 1523 1545 1560 1582 1602 1618 1652 1689 1732 1735 1742 1773 1785 1790 1817 1820 1829 1832 1840 1846 1853 1856 1865 1872 1939 1959 1969 1973 1976 1984 2000 2009 2056 2092 2146 2153 2217 2229 2231 2242 2251 2259 2262 2265 2268 2276 2283 2286 2290 2305 2334 2339 2343 2355 2363 2366 2375 2395 2408 2438 2441 2467 2485 2489 2498 2532 2536 2543 2562 2573 2578 2584 2589 2599 2610 2613 2617 2620 2626 2630 2634 2662 2668 2679 2686 2699 2707 2743 2756 2775 2784 2795 2798 2804 2811 2816 2819 2822 2869 2887 2899 2902 2916 2986 2993 2996 3001 3041 3056 3063 3066 3079 3086 3114 3118 3158 3170 3178 3183 3189 3197 3203 3214 3218 3222 3231 3240 3261 3267 3280 3289 3293 3300 3310 3327 3331 3334 3364 3367 3397 3400 3411 3426 3445 3448 3451 3459 3475 3487 3490 3497 3505 3511 3517 3522 3557 3579 3614 3627 3632 3636 3644 3661 3712 3718 3722 3734 3736 3742 3778 3781 3785 3793 3804 3829 3833 3838 3843 3847 3850 3862 3875 3881 3887 3894 3899 3910 3913 3916 3929 3939 3945 3950 3954 3965 3981 3985 3988 3999 4013 4067 4070 4079 4105 4111 4131 4143 4152 4155 4162 4169 4175 4186 4190 4274 4278 4280 4309 4313 4317 4324 4331 4335 4339 4344 4347 4352 4355 4367 4372 4384 4387 4396 4399 4407 4417 4437 4545 4548 4551 4554 4560 4564 4567 4574 4584 4588 4592 4596 4600 4605 4610 4618 4621 4624 4647 4653 4659 4662 4667 4674 4676 4694 4708 4735 4743 4747 4751 4763 4798 4804 4816 4852 4857 4859 4873 4877 4883 4887 4890 4894 4897 4901 4904 4908 4911 4916 4918 4934 4952 4956 4959 4963 4966 4969 4972 4975 4978 4981 4985 4990 4992 5001 5006 5009 5014 5017 5020 5041 5049 5056 5060 5083 5097 5101 5110 5140 5148 5151 5160 5162 5182 5192 5210 5221 5234 5239 5246 5255 5269 5272 5281 5284 5298 5305 5314 5317 5321 5344 5347 5353 5369 5372 5375 5388 5401 5410 5457 5465 5472 5499 5504 5524 5529 5535 5543 5548 5552 5563 5567 5580 5586 5592 5597 5618 5624 5636 5639 5653 5660 5666 5672 5675 5681 5689 5700 5738 5746 5751 5759 5772 5789 5795 5802 5815 5820 5835 5892 5904 5910 5922 5938 5952 5968 5989 6010 6024 6041 6048 6058 6064 6072 6136 6151 6156 6165 6168 6171 6174 6197 6201 6221 6224 6271 6290 6338 6344 6363 6372 6375 6379 6382 6386 6392 6404 6419 6424 6431 6493 6528 6541 6546 6557 6573 6577 6622 6648 6660 6664 6682 6688 6694 6709 6712 6719 6722 6731 6740 6744 6749 6765 6877 6894 6898 6904 6914 6929 6945 6949 6961 6971 6976 6979 6994 7033 7043 7056 7108 7116 7121 7128 7162 7184 7188 7192 7200 7205 7209 7238 7278 7284 7304 7312 7315 7380 7395 7403 7413 7416 7445 7448 7453 7461 7464 7466 7470 7472 7488 7501 7507 7521 7524 7540 7544 7547 7559 7563 7593 7601 7604 7611 7620 7623 7632 7650 7666 7677 7695 7718 7721 7728 7740 7759 7768 7788 7856 7869 7893 7900 7903 7918 7925 7939 7942 7956 7964 7968 7974 7978 7986 7989 7997 8000 8010 8033 8047 8076 8080 8083 8092 8100 8103 8111 8124 8127 8166 8170 8186 8190 8195 8201 8204 8214 8218 8221 8226 8231 8234 8237 8249 8259 8270 8316 8329 8339 8343 8357 8361 8392 8399 8402 8407 8410 8413 8444 8453 8463 8466 8476 8484 8488 8492 8496 8507 8512 8524 8560 8574 8652 8681 8684 
+non-trivial Magnetic_field.txt 1 2254 
+left Magnetic_field.txt 3 2823 5050 5088 
+unified Magnetic_field.txt 1 8673 
+just Magnetic_field.txt 1 7143 
+newton Magnetic_field.txt 1 1531 
+proposes Magnetic_field.txt 1 7510 
+rotates Magnetic_field.txt 2 3622 7780 
+adding Magnetic_field.txt 1 2361 
+enters Magnetic_field.txt 1 3008 
+infinitely Magnetic_field.txt 1 4233 
+royal Magnetic_field.txt 1 8034 
+has Magnetic_field.txt 18 59 716 911 1131 2710 2750 2961 3013 4237 5427 5441 6515 7208 7669 8386 8430 8602 8707 
+plasma Magnetic_field.txt 1 2043 
+possible Magnetic_field.txt 1 7575 
+advanced Magnetic_field.txt 1 7083 
+apart Magnetic_field.txt 1 2716 
+articulated Magnetic_field.txt 1 452 
+standardization Magnetic_field.txt 1 7854 
+specific Magnetic_field.txt 1 3350 
+arbitrary Magnetic_field.txt 1 4413 
+right Magnetic_field.txt 10 2817 3757 4059 4144 4151 4891 4960 5042 5084 8317 
+381,968 Magnetic_field.txt 1 8018 
+escape Magnetic_field.txt 2 3108 5498 
+micromagnetism Magnetic_field.txt 1 8328 
+repelling Magnetic_field.txt 1 2479 
+for Magnetic_field.txt 53 3 79 128 816 906 1077 1295 1445 1451 1457 1486 1585 1590 1705 1957 2015 2270 2374 2417 2763 2782 3122 3129 3284 3541 3552 3780 3993 4164 4428 4440 4460 4869 4922 5022 5100 5365 5566 5913 5941 5974 6033 6053 6526 6642 6721 6932 7368 7663 8019 8248 8499 8699 
+bottom Magnetic_field.txt 1 7471 
+electromagnetic Magnetic_field.txt 14 215 349 782 1011 1021 2154 6436 6466 6980 7044 7206 7239 7285 7316 
+maricourt Magnetic_field.txt 1 413 
+core Magnetic_field.txt 2 4220 7506 
+nonuniform Magnetic_field.txt 1 3297 
+properties Magnetic_field.txt 3 6519 6538 6544 
+ferraris Magnetic_field.txt 2 8007 8025 
+would Magnetic_field.txt 7 1904 7599 7837 7849 8623 8636 8648 
+efforts Magnetic_field.txt 2 8696 8703 
+slightly Magnetic_field.txt 2 4390 6253 
+presence Magnetic_field.txt 3 138 4799 7525 
+maxwell Magnetic_field.txt 3 954 995 6425 
+rotations Magnetic_field.txt 1 3195 
+bound Magnetic_field.txt 12 5125 5135 5172 5337 5340 5402 5564 5673 5682 6844 6899 6950 
+two Magnetic_field.txt 28 80 437 740 866 908 2213 2371 2381 2384 2396 2445 2472 2642 3161 3328 3599 3603 3797 3994 5647 6516 6537 6542 7417 7819 8293 8299 8516 
+finely Magnetic_field.txt 1 468 
+neumann Magnetic_field.txt 1 813 
+class Magnetic_field.txt 1 8598 
+way Magnetic_field.txt 6 1276 2921 3396 4393 6291 7057 
+was Magnetic_field.txt 7 375 485 842 976 1099 2849 7793 
+medium Magnetic_field.txt 2 5600 5603 
+form Magnetic_field.txt 21 1104 1849 1956 2024 2148 2950 3140 4116 4205 4457 5332 6249 6257 6402 6421 6465 6495 6561 6939 7169 8177 
+needles Magnetic_field.txt 1 428 
+solar Magnetic_field.txt 1 287 
+true Magnetic_field.txt 1 2416 
+inside Magnetic_field.txt 12 16 1423 1433 2577 2588 2672 2690 2985 4189 4242 5117 8160 
+maximum Magnetic_field.txt 1 3464 
+devices Magnetic_field.txt 2 330 1648 
+more Magnetic_field.txt 12 1906 3037 3407 3530 3790 4391 5366 5442 5857 5979 6891 7299 
+proved Magnetic_field.txt 1 814 
+tesla Magnetic_field.txt 5 1522 1527 7797 7995 8014 
+exist Magnetic_field.txt 3 2715 5312 8646 
+distributions Magnetic_field.txt 1 6848 
+constructed Magnetic_field.txt 2 7385 7817 
+dotted Magnetic_field.txt 1 6791 
+no Magnetic_field.txt 13 465 2956 3101 3273 3972 4244 4494 4681 5491 5959 6653 8552 8704 
+when Magnetic_field.txt 11 407 784 1181 1323 4630 5107 5745 5921 6775 6780 7157 
+models Magnetic_field.txt 3 2373 2382 3917 
+faster Magnetic_field.txt 1 8486 
+coulomb Magnetic_field.txt 3 530 1533 2490 
+together Magnetic_field.txt 3 6443 6555 7181 
+time Magnetic_field.txt 3 4461 6339 7064 
+serious Magnetic_field.txt 1 7851 
+laws Magnetic_field.txt 1 1923 
+concept Magnetic_field.txt 5 2151 5183 7998 8011 8666 
+remarkable Magnetic_field.txt 1 7335 
+particular Magnetic_field.txt 1 2678 
+leads Magnetic_field.txt 4 3789 3853 5578 6061 
+displaying Magnetic_field.txt 1 2003 
+inverse Magnetic_field.txt 2 525 8475 
+depend Magnetic_field.txt 4 2257 4103 5559 5634 
+environment Magnetic_field.txt 1 1134 
+finally Magnetic_field.txt 2 647 1092 
+weakening Magnetic_field.txt 1 4193 
+analogous Magnetic_field.txt 4 2541 7054 7186 8628 
+circumstances Magnetic_field.txt 1 7412 
+advantage Magnetic_field.txt 2 1911 7210 
+orthogonal Magnetic_field.txt 1 7820 
+geometrical Magnetic_field.txt 1 7887 
+orientations Magnetic_field.txt 1 4005 
+perceived Magnetic_field.txt 2 7002 7008 
+presented Magnetic_field.txt 1 569 
+turns Magnetic_field.txt 2 3668 7966 
+magnet Magnetic_field.txt 56 22 425 495 1073 1996 2165 2230 2238 2263 2269 2291 2295 2340 2356 2579 2590 2693 2973 2987 2994 3010 3207 3245 3255 3269 3278 3295 3312 3332 3368 3393 3431 3523 3638 3645 3690 3934 3951 3976 4266 5226 5240 5315 5354 6107 7452 7477 7545 7568 7592 7598 7640 7704 7775 7954 8283 
+der Magnetic_field.txt 2 598 601 
+attracting Magnetic_field.txt 2 367 2481 
+prevent Magnetic_field.txt 1 928 
+dealing Magnetic_field.txt 1 5108 
+sign Magnetic_field.txt 4 5501 6199 6774 8125 
+fluxgate Magnetic_field.txt 1 1687 
+uniform Magnetic_field.txt 3 4239 4264 5225 
+current Magnetic_field.txt 51 622 704 759 2789 2861 2885 3714 3901 4064 4275 4287 4336 4397 4418 4483 4767 4810 4833 4899 4912 4943 4970 5058 5112 5126 5136 5145 5173 5335 5338 5341 5403 5545 5589 5683 5697 6123 6205 6761 6782 6847 6879 7808 8077 8187 8372 8376 8384 8411 8437 8493 
+axial Magnetic_field.txt 1 6809 
+goes Magnetic_field.txt 1 2793 
+international Magnetic_field.txt 1 96 
+re-factors Magnetic_field.txt 1 5680 
+clerk Magnetic_field.txt 1 953 
+french Magnetic_field.txt 1 408 
+magnetism Magnetic_field.txt 21 374 394 506 585 610 679 696 776 969 1925 2502 2764 2783 4477 5712 5716 5753 6572 6643 8565 8581 
+twentieth Magnetic_field.txt 1 1032 
+groups Magnetic_field.txt 1 5782 
+galileo Magnetic_field.txt 1 8006 
+along Magnetic_field.txt 2 2102 6539 
+appears Magnetic_field.txt 1 2741 
+change Magnetic_field.txt 5 3449 5903 6003 6222 6342 
+so-named Magnetic_field.txt 1 7616 
+andr-marie Magnetic_field.txt 1 632 
+studied Magnetic_field.txt 1 335 
+commonly Magnetic_field.txt 1 6398 
+poisson Magnetic_field.txt 1 556 
+usually Magnetic_field.txt 1 6490 
+navigation Magnetic_field.txt 1 293 
+useful Magnetic_field.txt 3 2464 3228 8504 
+uphill Magnetic_field.txt 1 3520 
+cgs Magnetic_field.txt 1 1578 
+opposes Magnetic_field.txt 1 6220 
+additive Magnetic_field.txt 1 6324 
+positive Magnetic_field.txt 7 2551 3121 3515 5037 5430 6359 8139 
+predictions Magnetic_field.txt 1 7347 
+associated Magnetic_field.txt 1 194 
+diagrams Magnetic_field.txt 1 7340 
+smeared Magnetic_field.txt 1 2520 
+conductor Magnetic_field.txt 9 819 1075 4124 4821 4837 4858 4878 7857 8053 
+south-seeking Magnetic_field.txt 1 7648 
+cases Magnetic_field.txt 5 2407 4739 5054 5819 6417 
+effort Magnetic_field.txt 1 7177 
+modified Magnetic_field.txt 2 4456 7219 
+can Magnetic_field.txt 32 725 1119 1208 1362 1878 1928 1949 2065 2086 2223 2311 2410 2723 4138 4432 4679 4688 4711 4944 5071 5128 5643 5931 5964 6243 6411 6943 7164 7216 7698 7815 8720 
+following Magnetic_field.txt 3 1275 1297 7955 
+figure Magnetic_field.txt 4 4149 4957 7651 8340 
+predict Magnetic_field.txt 1 8679 
+incremental Magnetic_field.txt 1 5990 
+performed Magnetic_field.txt 1 4741 
+allowed Magnetic_field.txt 2 3021 3617 
+fortunately Magnetic_field.txt 1 1203 
+divided Magnetic_field.txt 3 2735 5241 5780 
+1 Magnetic_field.txt 4 1518 1521 1548 5604 
+parameter Magnetic_field.txt 1 5813 
+map Magnetic_field.txt 1 1839 
+product Magnetic_field.txt 10 1234 3116 3477 3513 3922 3957 3990 6169 6819 8445 
+may Magnetic_field.txt 6 3341 4221 5822 5831 7006 7132 
+applications Magnetic_field.txt 1 8736 
+produce Magnetic_field.txt 12 1713 2171 2383 2456 2830 2907 4086 4095 5055 7333 7514 7520 
+date Magnetic_field.txt 2 2955 8711 
+such Magnetic_field.txt 33 246 331 1179 1212 1289 1291 1625 1937 2183 2420 2657 3298 4092 4125 4134 4445 5154 5806 5945 6036 6104 6125 6468 6628 6696 7085 7126 7777 7834 8133 8382 8442 8541 
+natural Magnetic_field.txt 1 2850 
+dynamical Magnetic_field.txt 1 1007 
+liquid Magnetic_field.txt 1 7503 
+q Magnetic_field.txt 12 1163 1173 1305 1310 2649 2660 3767 3772 4586 4829 4866 5470 
+si Magnetic_field.txt 7 932 1493 1524 1571 5247 5256 5522 
+so Magnetic_field.txt 15 67 1512 2403 2748 4215 4868 5550 5828 5927 6407 6673 7538 7781 7860 8643 
+definitions Magnetic_field.txt 3 1108 2214 7572 
+imagining Magnetic_field.txt 1 2090 
+controlledand Magnetic_field.txt 1 7945 
+displayed Magnetic_field.txt 1 2037 
+thomson Magnetic_field.txt 1 863 
+experiments Magnetic_field.txt 3 671 1155 7352 
+resultsthat Magnetic_field.txt 1 1348 
+non-zero Magnetic_field.txt 1 6678 
+supplemented Magnetic_field.txt 1 6912 
+1831 Magnetic_field.txt 1 778 
+thumb Magnetic_field.txt 2 4888 4964 
+curls Magnetic_field.txt 1 6702 
+vicinity Magnetic_field.txt 1 1188 
+decreases Magnetic_field.txt 1 4158 
+forms Magnetic_field.txt 4 6135 6611 6742 7183 
+main Magnetic_field.txt 26 345 1726 1768 2163 2208 3153 3594 4051 4525 4759 5189 5714 5872 6080 6093 6281 6504 6965 7078 7433 7752 7919 8043 8144 8318 8586 
+within Magnetic_field.txt 3 5627 5909 7534 
+thereby Magnetic_field.txt 1 3720 
+introduce Magnetic_field.txt 1 5181 
+identically Magnetic_field.txt 1 3071 
+not Magnetic_field.txt 20 726 2137 2429 2761 3020 3553 5311 5558 5633 5832 6397 6889 6989 7245 7257 7617 7693 7714 8537 8725 
+now Magnetic_field.txt 2 869 1335 
+hall Magnetic_field.txt 7 321 1679 5076 8040 8045 8101 8104 
+nor Magnetic_field.txt 3 2930 4300 8660 
+possess Magnetic_field.txt 1 8624 
+term Magnetic_field.txt 9 76 767 1439 1465 5752 6325 6334 6388 6426 
+name Magnetic_field.txt 1 8605 
+streaks Magnetic_field.txt 1 2049 
+james Magnetic_field.txt 1 952 
+arrows Magnetic_field.txt 2 1847 4081 
+amperes Magnetic_field.txt 6 106 1566 5385 5537 5576 6327 
+square Magnetic_field.txt 1 526 
+challenged Magnetic_field.txt 1 606 
+entering Magnetic_field.txt 1 5446 
+avoided Magnetic_field.txt 1 925 
+shown Magnetic_field.txt 2 844 4077 
+space Magnetic_field.txt 2 1804 7062 
+increase Magnetic_field.txt 1 3465 
+attracted Magnetic_field.txt 2 2840 3359 
+dominate Magnetic_field.txt 1 7924 
+correct Magnetic_field.txt 2 3794 5106 
+after Magnetic_field.txt 2 2503 2824 
+einsteinde Magnetic_field.txt 1 8467 
+theory Magnetic_field.txt 8 350 372 1008 6973 7301 7328 7509 8275 
+sideways Magnetic_field.txt 2 4539 8062 
+divergence Magnetic_field.txt 3 6578 6623 6676 
+possibility Magnetic_field.txt 1 8685 
+quite Magnetic_field.txt 2 2225 3165 
+complicated Magnetic_field.txt 5 2226 3166 3408 4096 8263 
+well-controlled Magnetic_field.txt 1 4229 
+diagram Magnetic_field.txt 2 6821 7465 
+motion Magnetic_field.txt 3 1261 4675 4724 
+turn Magnetic_field.txt 3 3619 7519 7984 
+place Magnetic_field.txt 3 1293 1355 1478 
+first Magnetic_field.txt 10 354 487 560 612 971 1783 3294 3628 5186 6574 
+electromotive Magnetic_field.txt 1 6152 
+flipping Magnetic_field.txt 2 2292 3721 
+one Magnetic_field.txt 20 217 351 469 645 1552 2912 3094 3244 3303 3612 3685 4468 6261 7004 7378 7576 7602 7916 8522 8608 
+directly Magnetic_field.txt 1 6062 
+array Magnetic_field.txt 1 3706 
+angular Magnetic_field.txt 2 8456 8578 
+size Magnetic_field.txt 2 3545 7858 
+earths Magnetic_field.txt 16 282 447 2060 3673 7429 7435 7441 7481 7484 7489 7505 7553 7656 7687 7708 7710 
+little Magnetic_field.txt 1 7176 
+antiparticles Magnetic_field.txt 1 7323 
+2 Magnetic_field.txt 1 5601 
+white Magnetic_field.txt 1 4071 
+frame Magnetic_field.txt 2 6996 7014 
+gives Magnetic_field.txt 1 3070 
+mostly Magnetic_field.txt 1 1461 
+that Magnetic_field.txt 114 30 373 430 455 491 515 539 619 635 695 787 815 923 1017 1049 1053 1083 1158 1201 1213 1339 1513 1716 1895 1921 2026 2052 2091 2170 2188 2404 2427 2518 2658 2681 2765 2792 2827 2837 2853 2873 2923 3045 3053 3061 3068 3095 3277 3356 3414 3462 3474 3646 3959 3996 4009 4102 4256 4260 4421 4458 4473 4541 4556 4627 4707 4773 4847 5023 5157 5219 5267 5290 5383 5406 5551 5628 5807 5829 5895 5928 5946 6179 6203 6219 6227 6292 6409 6520 6621 6650 6674 6697 6849 6923 7058 7127 7170 7190 7476 7511 7517 7539 7578 7584 7597 8087 8350 8443 8549 8557 8601 8654 8678 
+compass Magnetic_field.txt 5 296 1763 3666 7531 7548 
+continuous Magnetic_field.txt 1 1899 
+transverse Magnetic_field.txt 1 8057 
+released Magnetic_field.txt 1 5920 
+circulates Magnetic_field.txt 1 6704 
+representing Magnetic_field.txt 1 7444 
+than Magnetic_field.txt 4 5448 6893 7104 7402 
+10 Magnetic_field.txt 5 1600 1638 1640 3868 7362 
+accordance Magnetic_field.txt 1 522 
+transferred Magnetic_field.txt 1 3740 
+r Magnetic_field.txt 7 4342 4361 4370 4382 8210 8229 8239 
+were Magnetic_field.txt 4 395 945 991 2012 
+russia Magnetic_field.txt 1 1616 
+and Magnetic_field.txt 225 14 17 39 42 51 62 91 109 148 176 186 204 209 252 270 289 306 393 462 484 519 536 542 584 650 693 742 775 872 880 886 893 902 950 956 962 968 1013 1039 1057 1074 1110 1230 1243 1282 1290 1407 1431 1434 1455 1502 1573 1686 1751 1764 1787 1871 1900 1926 1932 2081 2105 2159 2186 2192 2198 2212 2255 2264 2350 2389 2437 2449 2469 2554 2673 2774 2800 2818 2834 2841 2978 3034 3127 3167 3172 3177 3180 3213 3247 3317 3340 3406 3458 3484 3492 3495 3516 3611 3698 3768 3799 3810 3816 3873 3879 3943 4020 4033 4047 4056 4108 4243 4270 4351 4360 4415 4431 4476 4482 4510 4563 4577 4602 4623 4656 4827 4900 4971 5008 5094 5147 5302 5359 5398 5417 5469 5513 5591 5621 5663 5698 5705 5731 5742 5767 5793 5844 5853 5901 6014 6039 6076 6097 6117 6134 6142 6163 6319 6347 6358 6433 6454 6462 6532 6571 6644 6668 6679 6726 6734 6763 6799 6833 6846 6853 6865 6882 6901 6918 6926 6952 6955 6985 7026 7035 7063 7067 7070 7089 7110 7120 7194 7232 7287 7321 7363 7423 7608 7634 7647 7689 7720 7757 7798 7803 7859 7876 7980 8078 8192 8228 8298 8327 8378 8404 8435 8458 8473 8494 8555 8564 8580 8675 8691 
+michell Magnetic_field.txt 1 513 
+topics Magnetic_field.txt 1 7084 
+locations Magnetic_field.txt 3 1798 3822 7665 
+auroras Magnetic_field.txt 1 2040 
+buried Magnetic_field.txt 1 7705 
+any Magnetic_field.txt 15 55 666 1860 2351 3047 3105 3375 4304 4412 5395 5495 5612 5907 6204 6890 
+conversion Magnetic_field.txt 1 1546 
+aside Magnetic_field.txt 1 153 
+note Magnetic_field.txt 2 3473 3958 
+sciences Magnetic_field.txt 1 8037 
+ideal Magnetic_field.txt 3 8344 8353 8417 
+potential Magnetic_field.txt 10 840 7076 7081 7099 7118 7123 7130 7138 7150 7202 
+take Magnetic_field.txt 1 1299 
+interior Magnetic_field.txt 2 7482 7709 
+coincide Magnetic_field.txt 1 7694 
+savart Magnetic_field.txt 1 652 
+switching Magnetic_field.txt 1 3711 
+formulas Magnetic_field.txt 2 5098 7332 
+begin Magnetic_field.txt 1 5296 
+multiple Magnetic_field.txt 1 4200 
+opposite Magnetic_field.txt 11 2624 2643 2684 3283 3285 3761 3800 3811 3817 5002 8519 
+pair Magnetic_field.txt 1 2752 
+especially Magnetic_field.txt 1 2227 
+considered Magnetic_field.txt 1 7589 
+average Magnetic_field.txt 1 5285 
+later Magnetic_field.txt 5 475 810 843 1003 7799 
+steady Magnetic_field.txt 3 758 4286 4429 
+drive Magnetic_field.txt 2 3681 6121 
+pores Magnetic_field.txt 1 388 
+feynman Magnetic_field.txt 1 7339 
+typically Magnetic_field.txt 2 5737 6412 
+quantity Magnetic_field.txt 3 1393 3452 8242 
+spaced Magnetic_field.txt 1 4202 
+non-dispersive Magnetic_field.txt 3 5914 5943 6055 
+show Magnetic_field.txt 1 1905 
+synchronous Magnetic_field.txt 1 7931 
+discovered Magnetic_field.txt 5 618 653 781 2826 2836 
+drawings Magnetic_field.txt 1 355 
+magnetometers Magnetic_field.txt 6 1658 1662 1681 1683 1685 1688 
+peregrinus Magnetic_field.txt 2 411 482 
+only Magnetic_field.txt 8 1672 3539 4689 5658 5670 5694 5744 8607 
+explicitly Magnetic_field.txt 2 490 538 
+black Magnetic_field.txt 1 6785 
+helix Magnetic_field.txt 1 4648 
+closed Magnetic_field.txt 11 2952 3087 3091 5396 5407 5461 5466 5484 5613 5629 6161 
+cannot Magnetic_field.txt 4 545 2714 5031 5971 
+neither Magnetic_field.txt 3 2928 4298 8658 
+reveal Magnetic_field.txt 1 1731 
+1825 Magnetic_field.txt 1 681 
+1824 Magnetic_field.txt 1 571 
+1820 Magnetic_field.txt 2 631 658 
+yield Magnetic_field.txt 1 3410 
+mapped Magnetic_field.txt 1 414 
+flemingss Magnetic_field.txt 1 5087 
+where Magnetic_field.txt 30 93 2896 3078 3444 3482 3857 3952 4312 4320 4354 4381 4406 4581 4872 4880 5387 5456 5540 5583 5650 5808 5949 6149 6418 6757 7868 8157 8183 8212 8391 
+ignored Magnetic_field.txt 2 2412 6414 
+subatomic Magnetic_field.txt 1 5152 
+magnetomotive Magnetic_field.txt 1 8222 
+relative Magnetic_field.txt 1 3185 
+simplerand Magnetic_field.txt 1 7214 
+fails Magnetic_field.txt 1 8571 
+ways Magnetic_field.txt 1 1125 
+outside Magnetic_field.txt 8 18 1435 2391 2674 4195 4247 5313 8342 
+between Magnetic_field.txt 30 552 739 773 865 948 2471 2492 3150 3156 3160 3224 3499 3783 3835 3849 3877 4346 5073 5092 5842 6012 6074 6916 6924 6935 7318 7415 8455 8562 8577 
+reading Magnetic_field.txt 1 8743 
+article Magnetic_field.txt 22 346 1727 1769 2164 3154 3595 4526 4760 5190 5715 5873 6081 6282 6505 6966 7079 7392 7434 8044 8145 8319 8587 
+come Magnetic_field.txt 2 2726 3031 
+many Magnetic_field.txt 6 1483 1922 2126 2406 5327 6139 
+region Magnetic_field.txt 10 3049 3054 3064 3099 5201 5220 5278 5291 5425 5489 
+according Magnetic_field.txt 1 6969 
+laplace Magnetic_field.txt 2 4761 4817 
+propagation Magnetic_field.txt 1 6434 
+s Magnetic_field.txt 6 3035 3089 3770 3870 5468 5482 
+concentrates Magnetic_field.txt 1 4185 
+expression Magnetic_field.txt 1 5981 
+comes Magnetic_field.txt 1 2801 
+nearby Magnetic_field.txt 2 48 1868 
+among Magnetic_field.txt 1 918 
+key Magnetic_field.txt 1 7765 
+frequency-independent Magnetic_field.txt 1 5951 
+pole Magnetic_field.txt 48 464 1750 1756 2201 2288 2435 2443 2523 2564 2575 2586 2601 2604 2622 2632 2647 2664 2740 2758 2813 2977 2983 2998 3233 3308 3766 3771 3787 3844 5301 5308 5412 5432 5438 7456 7468 7474 7487 7542 7556 7565 7595 7607 7614 8291 8610 8614 8618 
+moreover Magnetic_field.txt 1 7727 
+destroyed Magnetic_field.txt 1 5926 
+combines Magnetic_field.txt 2 7032 7191 
+mark Magnetic_field.txt 1 1806 
+combined Magnetic_field.txt 1 5066 
+conceptualized Magnetic_field.txt 1 7794 
+direction Magnetic_field.txt 40 61 643 1281 1334 1733 1788 1818 1854 1866 1977 2058 2277 2611 3181 3335 3460 3507 3983 4001 4014 4068 4132 4329 4368 4895 4905 4926 4935 4967 4976 5003 5015 5282 5598 5837 8073 8088 8393 8408 8490 
+wb/m Magnetic_field.txt 1 1519 
+formed Magnetic_field.txt 2 2640 4216 
+external Magnetic_field.txt 2 7789 8745 
+stems Magnetic_field.txt 1 8667 
+former Magnetic_field.txt 1 875 
+those Magnetic_field.txt 3 441 2422 4738 
+case Magnetic_field.txt 4 3779 4373 5790 7899 
+shaft Magnetic_field.txt 2 3697 3743 
+these Magnetic_field.txt 25 670 974 989 1347 1947 2348 2378 2380 2524 2904 3584 3814 5053 5074 5840 6487 6536 6886 6936 7050 7329 7512 7981 8689 8702 
+single Magnetic_field.txt 1 4864 
+cast Magnetic_field.txt 1 7166 
+orientation Magnetic_field.txt 4 2266 3173 3365 7733 
+then Magnetic_field.txt 14 629 859 1316 1805 2341 2605 3270 3510 3576 5013 5342 5439 5963 6755 
+determination Magnetic_field.txt 1 1270 
+twists Magnetic_field.txt 1 4010 
+technology Magnetic_field.txt 1 265 
+everyday Magnetic_field.txt 2 226 7411 
+movements Magnetic_field.txt 1 7513 
+different Magnetic_field.txt 13 1068 1428 1902 2385 3315 3322 3405 3821 3920 6254 6357 6958 7013 
+develop Magnetic_field.txt 2 1089 7970 
+media Magnetic_field.txt 1 1758 
+stressenergy Magnetic_field.txt 1 2155 
+same Magnetic_field.txt 20 152 642 1064 2486 3262 3412 3506 3805 3888 3914 3982 4000 4332 5021 5057 5836 5917 6962 8358 8489 
+physical Magnetic_field.txt 4 983 1421 2013 7383 
+visually Magnetic_field.txt 1 2036 
+wires Magnetic_field.txt 1 637 
+centuries Magnetic_field.txt 1 474 
+kelvin Magnetic_field.txt 2 858 924 
+changing Magnetic_field.txt 15 789 4700 5897 6090 6101 6209 6277 6294 6302 6452 6472 6477 6483 6533 7046 
+electromagnetism Magnetic_field.txt 4 1927 6071 6082 6968 
+threaded Magnetic_field.txt 2 384 387 
+charges Magnetic_field.txt 24 36 50 185 2494 2517 2526 2722 3802 4027 4046 4091 4294 4481 4748 4790 4855 4871 5626 5688 6672 6900 6951 8521 8554 
+roughly Magnetic_field.txt 1 7550 
+components Magnetic_field.txt 3 212 6987 7051 
+model Magnetic_field.txt 31 562 574 677 714 879 885 2436 2444 2466 2500 2508 2633 2665 2709 2759 2773 2787 2865 3234 3239 3403 3788 3884 5320 5413 7231 7306 8451 8506 8532 8543 
+charged Magnetic_field.txt 12 1149 1183 1264 1703 4084 4485 4522 4530 4632 4721 4997 7319 
+being Magnetic_field.txt 3 5935 6813 7212 
+superconductors Magnetic_field.txt 2 5852 6040 
+rest Magnetic_field.txt 1 1312 
+speed Magnetic_field.txt 2 4660 5007 
+photons Magnetic_field.txt 1 7344 
+lets Magnetic_field.txt 1 7938 
+4 Magnetic_field.txt 1 3867 
+versa Magnetic_field.txt 1 7610 
+extensive Magnetic_field.txt 1 8695 
+momentum Magnetic_field.txt 5 7069 7139 7193 8457 8579 
+grip Magnetic_field.txt 2 4061 4146 
+aspects Magnetic_field.txt 1 6959 
+around Magnetic_field.txt 11 665 1709 2521 2948 4120 4217 5695 5962 6159 6705 8310 
+sums Magnetic_field.txt 1 4315 
+early Magnetic_field.txt 1 7805 
+vacuum Magnetic_field.txt 3 146 1405 3863 
+using Magnetic_field.txt 15 294 426 1448 1664 1913 1934 4142 4958 6492 7199 7326 7818 8251 8268 8412 
+particle Magnetic_field.txt 23 1150 1160 1184 1202 1218 1265 1301 1322 2044 4486 4523 4531 4568 4593 4601 4622 4633 4663 4998 7198 7308 8596 8669 
+benefit Magnetic_field.txt 1 719 
+t Magnetic_field.txt 4 1501 1549 1601 1641 
+multiplicative Magnetic_field.txt 2 1416 2401 
+stationary Magnetic_field.txt 1 3637 
+reduced Magnetic_field.txt 1 8432 
+1850 Magnetic_field.txt 1 856 
+dc-voltage-fed Magnetic_field.txt 1 7934 
+1854 Magnetic_field.txt 1 603 
+exit Magnetic_field.txt 2 2971 3069 
+measuring Magnetic_field.txt 1 3865 
+nmr Magnetic_field.txt 1 1682 
+power Magnetic_field.txt 1 7928 
+equivalent Magnetic_field.txt 10 847 1124 1529 2297 3076 5454 5569 6618 6646 7571 
+notably Magnetic_field.txt 1 8671 
+gausss Magnetic_field.txt 3 2780 6640 6686 
+inherent Magnetic_field.txt 1 8575 
+comparison Magnetic_field.txt 1 10 
+conducting Magnetic_field.txt 1 6111 
+ferromagnetic Magnetic_field.txt 3 244 2077 2181 
+of Magnetic_field.txt 291 11 98 105 131 139 174 191 213 218 223 325 339 348 352 356 380 401 422 478 563 591 609 678 688 703 706 709 720 808 828 915 935 965 973 985 999 1009 1047 1062 1096 1161 1189 1200 1262 1271 1284 1302 1367 1479 1517 1526 1621 1644 1661 1692 1734 1776 1789 1797 1819 1831 1855 1867 1875 1912 1924 1941 1961 1972 1978 1986 2002 2050 2059 2118 2149 2180 2204 2215 2220 2234 2267 2278 2289 2308 2320 2324 2347 2360 2377 2501 2612 2646 2702 2745 2753 2884 2890 2901 2915 3058 3141 3174 3182 3196 3217 3243 3252 3266 3292 3304 3309 3336 3352 3366 3371 3399 3421 3450 3463 3466 3489 3526 3543 3583 3602 3613 3635 3707 3717 3724 3840 3949 3964 4015 4025 4069 4110 4129 4133 4154 4292 4349 4369 4374 4394 4469 4547 4553 4566 4591 4599 4620 4661 4746 4774 4788 4800 4822 4844 4854 4889 4896 4906 4915 4927 4936 4968 4977 5016 5052 5142 5150 5184 5202 5218 5223 5238 5249 5258 5268 5276 5283 5346 5371 5384 5477 5534 5555 5570 5609 5617 5686 5775 5791 5848 5906 5992 6004 6138 6170 6183 6240 6262 6341 6343 6378 6435 6447 6496 6545 6565 6579 6624 6711 6724 6727 6743 6752 6876 6940 6960 6974 6978 6997 7015 7024 7101 7107 7161 7196 7204 7211 7261 7271 7283 7307 7314 7348 7358 7373 7379 7425 7440 7447 7457 7463 7475 7504 7526 7543 7562 7566 7596 7619 7622 7628 7637 7655 7717 7723 7770 7855 7889 7902 7917 7941 7952 7960 7967 7977 7999 8036 8050 8113 8126 8151 8169 8233 8262 8273 8332 8351 8356 8390 8394 8401 8409 8465 8599 8686 
+oe Magnetic_field.txt 1 1576 
+discussed Magnetic_field.txt 3 6596 6823 8568 
+mixes Magnetic_field.txt 2 7049 7061 
+mutually Magnetic_field.txt 1 6451 
+act Magnetic_field.txt 1 4222 
+or Magnetic_field.txt 30 65 115 250 254 1476 1667 1799 1907 2480 2580 2591 2946 3360 3384 4208 4450 4719 4941 5043 6154 6604 6657 6703 7021 8138 8479 8597 8615 8638 8683 
+magnetars Magnetic_field.txt 2 1627 1631 
+accumulates Magnetic_field.txt 1 4299 
+newtons Magnetic_field.txt 1 116 
+accounts Magnetic_field.txt 1 4459 
+determine Magnetic_field.txt 2 1314 6023 
+einstein Magnetic_field.txt 2 1043 1087 
+elementary Magnetic_field.txt 3 192 2635 2870 
+technically Magnetic_field.txt 1 6801 
+area Magnetic_field.txt 8 2900 6172 6180 6368 6373 8380 8400 8428 
+strictly Magnetic_field.txt 2 3531 3538 
+there Magnetic_field.txt 13 1390 1481 2369 3134 3271 3970 5034 5957 6651 7625 7680 8287 8550 
+hertz Magnetic_field.txt 1 1024 
+start Magnetic_field.txt 3 2929 8637 8659 
+detectable Magnetic_field.txt 1 1718 
+complete Magnetic_field.txt 5 6563 6613 6750 6759 7300 
+with Magnetic_field.txt 41 160 195 523 930 1101 1329 1414 1762 1765 1809 1824 2055 3100 3626 3660 3672 3837 3898 4159 4267 4328 4492 4851 5067 5109 5490 6355 6444 6540 6556 6993 7097 7172 7175 7182 7222 7351 7787 7822 7844 8515 
+pull Magnetic_field.txt 1 242 
+circulation Magnetic_field.txt 2 379 6717 
+electromagnet Magnetic_field.txt 4 4053 4225 4236 4251 
+780,000 Magnetic_field.txt 1 7745 
+monopole Magnetic_field.txt 5 2966 8583 8589 8592 8706 
+agree Magnetic_field.txt 2 922 7350 
+strongly Magnetic_field.txt 1 5199 
+ac Magnetic_field.txt 2 7806 7829 
+ampres Magnetic_field.txt 12 733 743 829 884 4057 4404 4423 4465 6269 6286 6317 6441 
+certain Magnetic_field.txt 1 4441 
+describe Magnetic_field.txt 4 770 1259 1471 4474 
+deep Magnetic_field.txt 2 7479 7706 
+resultant Magnetic_field.txt 3 3737 5334 8084 
+loops Magnetic_field.txt 5 702 2862 4203 5146 5330 
+examine Magnetic_field.txt 1 3230 
+at Magnetic_field.txt 22 54 436 1288 1311 1353 1793 1800 1859 2549 2556 2797 2803 3263 4150 4303 5416 5419 5560 6606 6670 7264 7275 
+formulation Magnetic_field.txt 2 6239 7100 
+corresponding Magnetic_field.txt 3 3138 5434 6543 
+moves Magnetic_field.txt 4 1185 3330 4634 5507 
+incorrect Magnetic_field.txt 1 4733 
+again Magnetic_field.txt 2 3909 6486 
+rubber Magnetic_field.txt 1 2100 
+field Magnetic_field.txt 258 1 8 25 29 74 124 278 359 418 433 566 578 626 664 754 791 796 823 1012 1095 1118 1138 1167 1242 1250 1352 1361 1402 1441 1467 1562 1588 1605 1620 1647 1655 1675 1711 1723 1728 1738 1744 1761 1771 1775 1792 1823 1834 1842 1851 1858 1869 1876 1886 1915 1942 1962 1975 1980 2005 2010 2023 2029 2032 2062 2063 2093 2114 2127 2134 2158 2203 2219 2233 2307 2336 2346 2459 2512 2534 2538 2545 2568 2595 2615 2628 2669 2688 2809 2833 2911 2918 2926 2938 2940 2969 2989 3006 3043 3059 3106 3124 3131 3216 3242 3259 3291 3316 3339 3374 3378 3424 3441 3529 3634 3663 3675 3703 3755 3896 3942 3987 4017 4019 4032 4042 4076 4114 4137 4157 4188 4231 4241 4246 4255 4282 4357 4401 4439 4491 4500 4516 4536 4550 4562 4607 4626 4639 4655 4678 4696 4702 4753 4803 4843 4980 5027 5065 5070 5103 5120 5164 5195 5271 5275 5293 5350 5377 5444 5496 5506 5520 5641 5656 5668 5678 5691 5703 5724 5736 5748 5766 5805 5887 5894 5899 5912 5924 5940 6006 6050 6103 6116 6176 6211 6218 6226 6273 6279 6296 6300 6304 6308 6381 6474 6479 6485 6514 6548 6582 6600 6662 6769 6795 6832 6838 7240 7248 7253 7427 7431 7437 7443 7449 7491 7523 7528 7624 7658 7661 7668 7697 7712 7719 7756 7762 7779 7790 7814 7896 7910 7959 7976 8003 8059 8082 8095 8116 8197 8265 8277 8286 8308 8331 8536 8540 8634 8656 
+valid Magnetic_field.txt 3 992 3540 4427 
+5 Magnetic_field.txt 2 1596 1599 
+mathematics Magnetic_field.txt 1 8734 
+polar Magnetic_field.txt 1 2039 
+separate Magnetic_field.txt 2 3604 6983 
+symbol Magnetic_field.txt 4 1500 1510 1543 1559 
+includes Magnetic_field.txt 1 3962 
+important Magnetic_field.txt 7 291 1659 2913 6429 6517 7421 8149 
+included Magnetic_field.txt 1 3968 
+building Magnetic_field.txt 1 548 
+calls Magnetic_field.txt 1 1294 
+curve Magnetic_field.txt 1 2953 
+mass Magnetic_field.txt 1 7068 
+resolution Magnetic_field.txt 1 1903 
+original Magnetic_field.txt 1 6895 
+represent Magnetic_field.txt 3 1897 3486 6739 
+all Magnetic_field.txt 15 964 1346 2566 2593 2854 2876 3040 3963 4003 4082 5561 6509 6771 7388 8269 
+descartes Magnetic_field.txt 1 362 
+consider Magnetic_field.txt 1 4819 
+pointing Magnetic_field.txt 6 1815 3125 3132 4886 4962 8314 
+caused Magnetic_field.txt 2 376 3380 
+scalar Magnetic_field.txt 1 7122 
+gt Magnetic_field.txt 1 1637 
+research Magnetic_field.txt 2 8028 8714 
+causes Magnetic_field.txt 2 3758 7529 
+polarity Magnetic_field.txt 3 3723 4271 7621 
+subjected Magnetic_field.txt 1 3699 
+equivalence Magnetic_field.txt 1 687 
+to Magnetic_field.txt 202 126 136 171 446 488 504 588 691 699 769 845 848 877 883 896 927 1036 1088 1103 1252 1313 1388 1411 1470 1530 1635 1639 1650 1828 1838 1844 1848 1864 1882 1953 2028 2072 2109 2241 2285 2298 2399 2424 2465 2476 2531 2542 2625 2685 2815 2821 2846 2851 2859 2944 2949 2954 2958 3000 3014 3022 3077 3103 3186 3194 3200 3220 3229 3320 3438 3469 3618 3623 3649 3655 3669 3680 3693 3700 3733 3741 3756 3792 3828 3832 3854 3938 3944 4038 4044 4174 4204 4259 4398 4435 4544 4559 4616 4652 4673 4714 4720 4772 4814 4831 5040 5048 5082 5132 5139 5175 5180 5233 5266 5325 5331 5352 5382 5435 5455 5493 5510 5528 5579 5602 5659 5671 5720 5762 5770 5801 5860 5883 5889 5902 5999 6022 6027 6063 6088 6120 6178 6192 6268 6275 6285 6289 6316 6326 6337 6350 6371 6440 6458 6464 6523 6619 6647 6681 6812 6827 6851 6858 6860 6870 6947 6970 7055 7095 7187 7220 7243 7353 7494 7536 7676 7783 7861 7906 8032 8075 8079 8091 8109 8122 8178 8203 8225 8246 8257 8315 8349 8398 8433 8440 8505 8511 8572 8629 8651 8697 8710 
+straightforward Magnetic_field.txt 1 8256 
+very Magnetic_field.txt 1 3585 
+resistance Magnetic_field.txt 1 8247 
+difference Magnetic_field.txt 4 3325 7414 7826 7881 
+condition Magnetic_field.txt 1 5582 
+deficient Magnetic_field.txt 1 8545 
+large Magnetic_field.txt 3 1795 2322 3555 
+small Magnetic_field.txt 12 589 2236 2325 2653 2881 3162 3392 3430 3586 3933 6002 6408 
+abbreviated Magnetic_field.txt 1 939 
+haas Magnetic_field.txt 1 8468 
+rate Magnetic_field.txt 1 6340 
+design Magnetic_field.txt 1 3688 
+further Magnetic_field.txt 5 729 888 4002 8566 8742 
+what Magnetic_field.txt 1 802 
+nonlinear Magnetic_field.txt 1 5975 
+sum Magnetic_field.txt 2 173 5141 
+method Magnetic_field.txt 1 1837 
+full Magnetic_field.txt 1 6383 
+christian Magnetic_field.txt 2 596 616 
+component Magnetic_field.txt 4 4552 7673 7679 7685 
+cylindrical Magnetic_field.txt 3 20 4122 4235 
+strong Magnetic_field.txt 1 4228 
+equations Magnetic_field.txt 23 959 975 990 1000 2252 3147 4472 5575 5850 6264 6502 6507 6552 6554 6720 6746 6754 6873 6887 6896 6942 7156 7389 
+search Magnetic_field.txt 1 8698 
+demagnetizing Magnetic_field.txt 2 5519 5667 
+inspired Magnetic_field.txt 1 8694 
+allows Magnetic_field.txt 1 1268 
+experience Magnetic_field.txt 2 3808 8060 
+amount Magnetic_field.txt 1 5991 
+published Magnetic_field.txt 5 496 673 957 977 8026 
+via Magnetic_field.txt 1 4693 
+semiconductors Magnetic_field.txt 1 8135 
+pulls Magnetic_field.txt 1 3248 
+1905 Magnetic_field.txt 1 1048 
+establish Magnetic_field.txt 1 505 
+readily Magnetic_field.txt 1 3791 
+conventional Magnetic_field.txt 1 4898 
+electrostatics Magnetic_field.txt 1 1157 
+distinct Magnetic_field.txt 1 81 
+charge Magnetic_field.txt 36 314 711 724 1162 1304 2553 2560 2705 4106 4297 4504 4565 4590 4686 4777 4782 4828 4865 4925 4940 4986 5010 5038 5046 5474 6683 6766 6845 6884 7142 7154 8048 8069 8129 8627 8632 
+helps Magnetic_field.txt 2 5168 5179 
+substances Magnetic_field.txt 1 2078 
+operators Magnetic_field.txt 1 7274 
+varying Magnetic_field.txt 2 1673 4462 
+known Magnetic_field.txt 17 396 804 860 1153 1303 4099 4572 4950 6017 6130 6233 6312 6390 6907 7302 8098 8716 
+producing Magnetic_field.txt 2 5726 6840 
+monopoles Magnetic_field.txt 6 6659 8642 8688 8700 8722 8728 
+science Magnetic_field.txt 2 509 919 
+equation Magnetic_field.txt 13 3143 3472 3536 3795 3961 5572 5970 6019 6060 6068 6394 6498 6733 
+v Magnetic_field.txt 6 1225 1327 1330 3869 4594 8209 
+rsted Magnetic_field.txt 3 597 617 2825 
+history Magnetic_field.txt 2 343 347 
+pushes Magnetic_field.txt 1 3246 
+stated Magnetic_field.txt 3 514 537 1930 
+numbers Magnetic_field.txt 1 7263 
+sense Magnetic_field.txt 1 4333 
+axis Magnetic_field.txt 1 4649 
+information Magnetic_field.txt 3 311 3967 5367 
+rather Magnetic_field.txt 3 7103 7250 7330 
+circuit Magnetic_field.txt 5 8147 8219 8227 8235 8274 
+derived Magnetic_field.txt 3 731 890 5099 
+mapping Magnetic_field.txt 1 1772 
+waves Magnetic_field.txt 3 1721 6437 6467 
+verified Magnetic_field.txt 1 532 
+response Magnetic_field.txt 1 5739 
+a Magnetic_field.txt 316 19 23 27 44 60 63 72 123 145 158 161 196 235 295 317 357 423 460 494 508 575 624 757 788 817 821 826 913 979 1006 1147 1159 1170 1182 1190 1263 1292 1300 1337 1373 1392 1404 1424 1514 1557 1586 1608 1710 1747 1794 1813 1901 1918 1945 1965 1994 2021 2069 2096 2099 2106 2196 2199 2235 2279 2293 2318 2321 2358 2392 2400 2453 2509 2550 2557 2602 2607 2652 2691 2703 2731 2738 2751 2788 2807 2831 2879 2897 2908 2935 2939 2951 2972 3004 3009 3082 3090 3098 3111 3137 3253 3314 3321 3344 3349 3353 3388 3391 3429 3433 3439 3549 3640 3657 3665 3689 3694 3701 3751 3764 3769 3774 3825 3859 3871 3904 3923 3925 3932 3975 4007 4030 4035 4063 4074 4121 4127 4135 4179 4183 4197 4206 4213 4227 4238 4248 4253 4263 4285 4289 4363 4375 4389 4455 4489 4493 4503 4513 4521 4529 4534 4538 4631 4636 4642 4699 4715 4766 4775 4781 4786 4791 4795 4801 4808 4820 4826 4841 4863 4923 4939 4942 4948 4995 5025 5036 5044 5063 5113 5118 5130 5200 5224 5229 5253 5277 5333 5379 5391 5423 5428 5436 5460 5483 5488 5606 5776 5810 5824 5856 5885 5896 5978 6001 6029 6089 6100 6106 6110 6122 6126 6160 6208 6213 6216 6247 6276 6293 6301 6306 6356 6471 6476 6482 6512 6562 6580 6583 6584 6588 6592 6598 6607 6612 6698 6701 6706 6716 6778 6781 6789 6804 6816 7012 7018 7022 7039 7098 7119 7131 7136 7148 7168 7180 7197 7246 7251 7259 7269 7298 7334 7438 7451 7530 7567 7591 7638 7653 7670 7702 7735 7764 7773 7778 7811 7835 7841 7908 7953 7961 8030 8051 8056 8061 8068 8072 8114 8161 8241 8311 8333 8364 8371 8375 8381 8383 8387 8423 8429 8538 8542 8590 8594 8612 8616 8625 
+rank-2 Magnetic_field.txt 1 7040 
+negligible Magnetic_field.txt 1 7420 
+fundamental Magnetic_field.txt 4 197 221 933 6990 
+geographic Magnetic_field.txt 1 7454 
+developed Magnetic_field.txt 2 955 2866 
+ferromagnets Magnetic_field.txt 2 5854 6038 
+paper Magnetic_field.txt 5 980 1005 1046 1991 8031 
+through Magnetic_field.txt 13 319 386 1698 1944 1964 2992 3715 3903 4277 4403 6109 6366 7840 
+existence Magnetic_field.txt 1 8682 
+concentric Magnetic_field.txt 1 4118 
+its Magnetic_field.txt 24 275 1133 1324 1754 1825 1883 2246 2300 2975 2981 3210 3305 4268 5123 5243 6524 6675 6793 7629 7724 7785 8436 8474 8604 
+termed Magnetic_field.txt 1 1239 
+reluctance Magnetic_field.txt 2 8232 8238 
+microscopic Magnetic_field.txt 2 5760 6760 
+systems Magnetic_field.txt 3 7865 7923 7930 
+good Magnetic_field.txt 1 3550 
+schematic Magnetic_field.txt 1 8281 
+four-pole Magnetic_field.txt 1 8284 
+reflected Magnetic_field.txt 3 6776 6787 6798 
+easily Magnetic_field.txt 1 7218 
+always Magnetic_field.txt 6 457 2725 3030 4426 4614 4671 
+level Magnetic_field.txt 1 5761 
+right-hand Magnetic_field.txt 4 4884 4932 4953 8414 
+inequality Magnetic_field.txt 1 7848 
+found Magnetic_field.txt 2 786 2963 
+referred Magnetic_field.txt 2 4813 6191 
+quadrupole Magnetic_field.txt 1 8282 
+energy Magnetic_field.txt 10 5866 5875 5880 5918 5930 5953 6066 7071 7151 7195 
+gilberts Magnetic_field.txt 1 499 
+idea Magnetic_field.txt 1 2701 
+extended Magnetic_field.txt 1 1034 
+connect Magnetic_field.txt 1 1845 
+measurement Magnetic_field.txt 4 1111 1580 1589 5028 
+quantum Magnetic_field.txt 12 198 1040 1097 1105 7087 7223 7225 7233 7252 7273 7291 7404 
+operation Magnetic_field.txt 1 7769 
+perpetually Magnetic_field.txt 1 700 
+leave Magnetic_field.txt 2 3015 3052 
+since Magnetic_field.txt 7 2694 3039 3109 3279 3813 4780 5245 
+denotes Magnetic_field.txt 1 1231 
+sustain Magnetic_field.txt 1 6459 
+denoted Magnetic_field.txt 3 86 163 870 
+non-uniform Magnetic_field.txt 1 3376 
+induced Magnetic_field.txt 1 6228 
+occurs Magnetic_field.txt 1 5502 
+reason Magnetic_field.txt 2 900 5024 
+generate Magnetic_field.txt 2 4029 5884 
+definition Magnetic_field.txt 6 1267 3839 5370 6182 7561 7582 
+pairs Magnetic_field.txt 3 590 2729 3036 
+e.g Magnetic_field.txt 1 4508 
+w Magnetic_field.txt 1 5997 
+consequence Magnetic_field.txt 1 827 
+webers Magnetic_field.txt 1 1509 
+feel Magnetic_field.txt 2 4006 4034 
+relate Magnetic_field.txt 1 895 
+number Magnetic_field.txt 6 1796 1940 1960 2323 3057 3067 
+utilized Magnetic_field.txt 2 7800 7911 
+perturbation Magnetic_field.txt 1 7327 
+interact Magnetic_field.txt 1 6457 
+eddy Magnetic_field.txt 1 7971 
+180 Magnetic_field.txt 1 2303 
+statement Magnetic_field.txt 1 6649 
+relationship Magnetic_field.txt 4 772 6011 6073 6915 
+part Magnetic_field.txt 2 1061 6377 
+believe Magnetic_field.txt 1 942 
+b Magnetic_field.txt 71 12 90 110 147 168 873 894 903 1237 1272 1287 1338 1389 1406 1432 1452 1472 1495 1538 1593 2390 2808 2910 2917 2925 2933 2988 3005 3123 3130 3442 3454 3468 3479 3485 3493 3509 3528 3534 3895 3924 3926 4400 4438 4497 4535 4603 4846 4907 5095 5349 5702 5723 5735 5839 5843 5859 5947 6007 6015 6188 6527 6599 6625 6725 6802 6837 6854 6917 8158 8539 
+critically Magnetic_field.txt 1 6428 
+ohms Magnetic_field.txt 2 8179 8206 
+determined Magnetic_field.txt 4 3564 4140 4272 4946 
+toward Magnetic_field.txt 3 2598 4012 7552 
+exert Magnetic_field.txt 1 2095 
+electrodynamics Magnetic_field.txt 9 768 1035 1102 1106 6567 7102 7226 7234 7292 
+teslas Magnetic_field.txt 3 114 1499 4609 
+depleted Magnetic_field.txt 1 4302 
+orders Magnetic_field.txt 1 1643 
+geomagnetic Magnetic_field.txt 1 7738 
+u.s Magnetic_field.txt 1 8016 
+depending Magnetic_field.txt 2 1418 3362 
+also Magnetic_field.txt 25 450 760 1195 1397 1555 2035 2256 2779 3051 3136 3342 3807 3885 4931 5518 5877 6044 6806 6909 7229 7574 7682 8022 8323 8730 
+internal Magnetic_field.txt 1 6843 
+generalized Magnetic_field.txt 2 7137 7149 
+analogy Magnetic_field.txt 3 445 8200 8253 
+play Magnetic_field.txt 1 1757 
+towards Magnetic_field.txt 1 1746 
+electric Magnetic_field.txt 67 35 37 184 205 304 329 621 795 1056 1166 2425 2493 2544 2552 2559 2721 2769 2828 2838 2860 3385 3682 3713 4021 4026 4048 4293 4463 4499 4589 4695 4744 4832 5069 5893 6077 6085 6115 6143 6278 6299 6303 6345 6364 6380 6453 6473 6484 6534 6547 6661 6671 6830 6954 6984 7000 7025 7034 7109 7515 7809 7913 8196 8354 8362 8513 8631 
+reach Magnetic_field.txt 1 6028 
+most Magnetic_field.txt 9 231 921 5717 6416 7279 7381 7410 7664 7741 
+experiences Magnetic_field.txt 2 1169 4537 
+significant Magnetic_field.txt 1 7671 
+extremely Magnetic_field.txt 1 7355 
+unequal Magnetic_field.txt 1 7845 
+sometimes Magnetic_field.txt 3 1398 2463 8503 
+drifts Magnetic_field.txt 1 4487 
+traditional Magnetic_field.txt 1 7560 
+electrons Magnetic_field.txt 4 1707 4094 5156 8137 
+kt Magnetic_field.txt 1 1612 
+velocity Magnetic_field.txt 9 1199 1205 1229 1325 4107 4555 4598 4619 4853 
+physics Magnetic_field.txt 3 1463 7237 7309 
+spherical Magnetic_field.txt 1 424 
+1269 Magnetic_field.txt 1 406 
+particularly Magnetic_field.txt 3 266 2415 3192 
+phenomenon Magnetic_field.txt 3 800 6231 6963 
+relation Magnetic_field.txt 2 5091 5862 
+find Magnetic_field.txt 2 1336 8123 
+wraps Magnetic_field.txt 1 2947 
+dividing Magnetic_field.txt 1 3566 
+generators Magnetic_field.txt 2 307 6141 
+factor Magnetic_field.txt 1 5169 
+concisely Magnetic_field.txt 1 1933 
+jean-baptiste Magnetic_field.txt 1 648 
+merged Magnetic_field.txt 1 1100 
+his Magnetic_field.txt 8 371 674 997 1002 1045 7802 8020 8027 
+dominant Magnetic_field.txt 1 8128 
+dependent Magnetic_field.txt 2 1206 5812 
+feels Magnetic_field.txt 2 2606 4794 
+closely Magnetic_field.txt 2 83 4201 
+competing Magnetic_field.txt 1 2372 
+underlying Magnetic_field.txt 1 850 
+x Magnetic_field.txt 1 2799 
+repulsed Magnetic_field.txt 1 3361 
+set Magnetic_field.txt 3 972 998 6751 
+see Magnetic_field.txt 25 6 1071 1376 1429 1488 1642 2778 2964 3744 4148 4930 4955 5075 5176 5355 5517 5573 5863 5876 6685 6820 7228 7370 8322 8729 
+2.8 Magnetic_field.txt 1 1611 
+are Magnetic_field.txt 61 150 180 207 210 230 260 300 904 1060 1409 1427 1482 1628 1656 1696 1888 2034 2123 2168 2178 2253 2370 2397 2428 2519 2527 2857 3358 3404 3417 3606 3730 3819 3912 3918 3997 5011 5105 5779 5846 5958 6489 6530 6631 6652 6729 6756 6856 6868 6888 6906 7124 7345 7393 7573 7641 7645 7866 7872 8288 8551 
+outward Magnetic_field.txt 2 3113 6590 
+visualize Magnetic_field.txt 1 2073 
+currently Magnetic_field.txt 1 7360 
+dipole Magnetic_field.txt 22 1375 2045 2248 2637 2872 2888 3752 4718 5213 5287 5374 8313 8321 8335 8346 8355 8363 8366 8419 8426 8509 8514 
+classes Magnetic_field.txt 1 1660 
+various Magnetic_field.txt 1 1997 
+conditions Magnetic_field.txt 1 6255 
+available Magnetic_field.txt 1 8271 
+creating Magnetic_field.txt 1 3773 
+complementary Magnetic_field.txt 1 2754 
+maxwells Magnetic_field.txt 17 958 3146 4471 5574 6263 6266 6283 6314 6438 6501 6506 6551 6553 6753 6872 6941 7155 
+distinguish Magnetic_field.txt 2 5032 5072 
+both Magnetic_field.txt 19 211 303 459 732 1054 1487 2195 2671 3175 3250 3264 3937 4028 4617 5005 5051 5888 6569 8547 
+c Magnetic_field.txt 1 4502 
+reverse Magnetic_field.txt 1 7731 
+sensitive Magnetic_field.txt 1 3193 
+connection Magnetic_field.txt 2 8454 8576 
+pseudovectors Magnetic_field.txt 1 6772 
+experimental Magnetic_field.txt 1 7366 
+point Magnetic_field.txt 14 57 1802 1861 2570 2597 3026 4090 4305 5833 6594 6608 6708 7266 7277 
+simple Magnetic_field.txt 5 1780 1935 2271 3686 6933 
+superstring Magnetic_field.txt 1 8676 
+faraday Magnetic_field.txt 2 780 854 
+throughout Magnetic_field.txt 1 263 
+described Magnetic_field.txt 5 751 798 3907 4307 6491 
+create Magnetic_field.txt 3 2047 7892 7907 
+due Magnetic_field.txt 19 135 587 698 2423 2475 2858 3199 3437 4037 4043 4830 5138 5324 5351 5657 5669 6087 6274 6811 
+describes Magnetic_field.txt 2 5754 6449 
+generating Magnetic_field.txt 1 4226 
+precision Magnetic_field.txt 2 1583 7371 
+modelling Magnetic_field.txt 1 2315 
+else Magnetic_field.txt 2 3017 7289 
+1861 Magnetic_field.txt 2 949 988 
+1865 Magnetic_field.txt 2 951 1004 
+plasmas Magnetic_field.txt 1 2083 
+straight Magnetic_field.txt 1 2237 
+while Magnetic_field.txt 4 1447 2582 2616 4192 
+replaced Magnetic_field.txt 1 5966 
+behavior Magnetic_field.txt 1 5787 
+loop Magnetic_field.txt 25 2772 2786 2790 2883 2892 2903 3402 3883 3902 4184 4191 4414 4422 5319 5397 5408 5549 5693 6162 6614 6784 8373 8385 8403 8485 
+paramagnetism Magnetic_field.txt 1 5792 
+real Magnetic_field.txt 1 8424 
+vectors Magnetic_field.txt 2 3494 3995 
+century Magnetic_field.txt 1 1033 
+h-field Magnetic_field.txt 5 1384 2439 5512 5525 5536 
+encountered Magnetic_field.txt 1 233 
+itself Magnetic_field.txt 4 3625 3671 5030 7587 
+rotors Magnetic_field.txt 1 7950 
+pseudovector Magnetic_field.txt 1 6805 
+currents Magnetic_field.txt 29 38 639 690 741 2426 2770 2829 2839 3386 4022 4024 4049 4430 5364 5565 5620 5638 5662 5674 6531 6902 6953 7499 7516 7830 7846 7871 7972 7982 
+widely Magnetic_field.txt 1 261 
+grand Magnetic_field.txt 1 8672 
+higher Magnetic_field.txt 4 1630 3372 3422 3527 
+magnetometer Magnetic_field.txt 3 1666 1669 1678 
+used Magnetic_field.txt 18 78 262 301 905 1469 1649 2067 3679 4434 5769 5973 5986 6021 6423 6869 7867 8108 8119 
+pictorial Magnetic_field.txt 1 7336 
+flows Magnetic_field.txt 1 6589 
+moment Magnetic_field.txt 15 2211 2216 2249 2889 3212 3435 3947 5214 5236 5251 5288 8326 8389 8460 8498 
+uses Magnetic_field.txt 2 5 7422 
+recent Magnetic_field.txt 3 1459 7742 8713 
+picks Magnetic_field.txt 1 5622 
+1785 Magnetic_field.txt 1 535 
+shape Magnetic_field.txt 1 8278 
+atomic Magnetic_field.txt 2 5143 5363 
+alternative Magnetic_field.txt 3 1484 1836 5080 
+sidebar Magnetic_field.txt 1 1489 
+alignment Magnetic_field.txt 2 1985 7786 
+discipline Magnetic_field.txt 1 338 
+source Magnetic_field.txt 4 914 5345 6718 7446 
+location Magnetic_field.txt 5 1808 4348 4353 7631 7722 
+electromagnets Magnetic_field.txt 2 3708 3719 
+showing Magnetic_field.txt 1 364 
+windings Magnetic_field.txt 1 7936 
+rotate Magnetic_field.txt 2 3650 7537 
+d Magnetic_field.txt 10 2455 2656 2661 3110 4322 4350 4511 6866 6927 8530 
+follows Magnetic_field.txt 1 5378 
+flux Magnetic_field.txt 12 1505 1515 5479 6099 6167 6185 6195 6346 6365 8216 8250 8261 
+continue Magnetic_field.txt 1 2991 
+translated Magnetic_field.txt 1 1952 
+mathematical Magnetic_field.txt 3 1955 6518 6690 
+sketch Magnetic_field.txt 2 7439 7654 
+often Magnetic_field.txt 9 232 1135 3548 4705 4812 5799 6190 7093 8107 
+creation Magnetic_field.txt 1 6432 
+some Magnetic_field.txt 5 916 1332 1458 1622 5818 
+back Magnetic_field.txt 1 2999 
+understood Magnetic_field.txt 2 2088 7242 
+palm Magnetic_field.txt 2 4917 4991 
+examples Magnetic_field.txt 2 5847 7424 
+mirror Magnetic_field.txt 2 6779 6790 
+ozone Magnetic_field.txt 1 283 
+describing Magnetic_field.txt 1 736 
+per Magnetic_field.txt 10 107 117 119 1567 3455 5215 5263 5994 7140 7152 
+tends Magnetic_field.txt 2 3654 6119 
+either Magnetic_field.txt 3 2942 8611 8680 
+be Magnetic_field.txt 38 546 727 846 1120 1209 1363 1879 1929 1950 2066 2087 2224 2312 2411 4139 4433 4945 5129 5644 5823 5932 5965 5972 5985 6244 6413 6911 7007 7133 7165 7217 7244 7495 7600 7699 7816 7838 7944 
+run Magnetic_field.txt 1 2140 
+obscures Magnetic_field.txt 1 8559 
+perpendicular Magnetic_field.txt 8 2108 3831 4558 4615 4672 6376 8074 8397 
+relating Magnetic_field.txt 1 4395 
+by Magnetic_field.txt 64 33 71 87 164 182 238 360 377 581 756 853 1141 1983 2089 2125 2302 2314 2338 2431 2452 2515 2641 2651 2768 2867 3381 3565 3709 4078 4141 4262 4273 4284 4308 4420 4580 4698 4727 4742 4750 4947 5029 5242 5405 5481 5531 5547 5725 5967 6207 6815 6839 6913 7003 7009 7365 7497 7660 7795 7988 8267 8471 8481 8528 
+range Magnetic_field.txt 1 1632 
+gamma Magnetic_field.txt 1 1558 
+into Magnetic_field.txt 16 2794 3369 3419 3524 3568 4182 4199 5646 5781 6246 6982 7038 7065 7072 7167 7297 
+helical Magnetic_field.txt 2 382 4643 
+integral Magnetic_field.txt 16 1971 3080 3084 3119 4314 4409 5389 5393 5458 5463 5554 5608 6238 6401 6420 6745 
+encircling Magnetic_field.txt 2 627 794 
+frames Magnetic_field.txt 2 1070 7048 
+proportional Magnetic_field.txt 13 1410 1827 1881 2240 3827 3936 4173 4543 5800 6336 6370 6680 8090 
+measured Magnetic_field.txt 7 102 112 1497 1507 1540 1564 1697 
+question Magnetic_field.txt 1 1357 
+long Magnetic_field.txt 2 4234 4377 
+biot Magnetic_field.txt 1 649 
+an Magnetic_field.txt 42 524 620 793 1020 1165 1777 1810 1835 1910 2457 3024 3705 3753 4165 4218 4224 4232 4447 4451 4498 4684 4849 5068 5079 5721 5763 6114 6298 6323 6367 6808 6828 6834 6999 7354 7683 8148 8352 8379 8416 8534 8630 
+gauss Magnetic_field.txt 1 1542 
+properly Magnetic_field.txt 1 8368 
+link Magnetic_field.txt 1 8561 
+line Magnetic_field.txt 12 1712 1729 2053 2280 2941 3007 4326 4408 5392 5553 6601 6792 
+heinrich Magnetic_field.txt 1 1023 
+circuits Magnetic_field.txt 3 341 8142 8156 
+search-coil Magnetic_field.txt 1 1668 
+up Magnetic_field.txt 6 2054 2362 2875 3578 5159 6550 
+continuously Magnetic_field.txt 1 3710 
+similar Magnetic_field.txt 10 2845 4258 4771 5380 6288 6349 7883 8175 8243 8510 
+called Magnetic_field.txt 18 1399 1556 1657 1812 2245 2327 2497 3861 5336 5814 6632 6639 6693 6715 6730 6807 7042 7737 
+constant Magnetic_field.txt 8 1417 2402 3860 4290 4341 4665 5231 6360 
+defined Magnetic_field.txt 8 1121 1140 1246 1364 5166 5208 6814 7125 
+m Magnetic_field.txt 37 15 167 177 926 940 2250 2273 2301 2333 2535 2638 2659 2689 2894 3436 3453 3467 3478 3483 3491 3502 3533 3575 3841 3872 3880 3948 3978 5196 5237 5254 5260 5274 5730 5797 8395 8446 
+engineering Magnetic_field.txt 1 269 
+curl Magnetic_field.txt 3 6695 6713 6723 
+electrical Magnetic_field.txt 4 268 689 6140 7927 
+east/west Magnetic_field.txt 1 7684 
+explaining Magnetic_field.txt 1 721 
+generates Magnetic_field.txt 8 623 792 5122 6113 6297 6305 6475 6481 
+excitation Magnetic_field.txt 1 7940 
+problems Magnetic_field.txt 1 7852 
+william Magnetic_field.txt 3 476 862 2504 
+generated Magnetic_field.txt 6 755 2430 4283 4697 6158 6206 
+ago Magnetic_field.txt 1 7747 
+independently Magnetic_field.txt 1 8008 
+e Magnetic_field.txt 11 1168 1174 1315 2546 4501 6728 6831 6852 6925 8182 8193 
+vice Magnetic_field.txt 1 7609 
+holes Magnetic_field.txt 3 3102 5492 8140 
+opposing Magnetic_field.txt 3 2446 8294 8300 
+incomplete Magnetic_field.txt 1 994 
+far Magnetic_field.txt 1 7387 
+having Magnetic_field.txt 6 638 2330 3432 3572 7885 8374 
+once Magnetic_field.txt 1 6009 
+current-carrying Magnetic_field.txt 7 667 1191 4123 4180 4756 4792 8052 
+results Magnetic_field.txt 2 3911 8066 
+cobalt Magnetic_field.txt 1 249 
+illustrated Magnetic_field.txt 1 370 
+alternating-current Magnetic_field.txt 1 7771 
+simon Magnetic_field.txt 1 554 
+outwards Magnetic_field.txt 1 4988 
+include Magnetic_field.txt 2 1037 1663 
+random Magnetic_field.txt 1 947 
+wave Magnetic_field.txt 1 1022 
+categories Magnetic_field.txt 2 8748 8750 
+entire Magnetic_field.txt 1 5111 
+experiencing Magnetic_field.txt 1 3803 
+notes Magnetic_field.txt 1 8738 
+michael Magnetic_field.txt 1 779 
+fewer Magnetic_field.txt 1 1908 
+this Magnetic_field.txt 74 533 550 573 607 715 762 799 1027 1266 2150 2413 2495 2507 2864 2891 2920 2959 3074 3142 3238 3257 3324 3347 3395 3471 3535 3630 3651 3823 3852 3960 4211 4379 4569 4731 4836 5134 5171 5339 5452 5571 5916 5929 6018 6128 6181 6230 6237 6256 6309 6332 6497 6615 6636 6862 6938 7052 7114 7375 7391 7527 7557 7581 7791 7847 7898 8065 8096 8172 8199 8252 8450 8531 8665 
+hysteretic Magnetic_field.txt 1 6034 
+smaller Magnetic_field.txt 1 3569 
+natur Magnetic_field.txt 1 602 
+maintain Magnetic_field.txt 1 7784 
+ampre Magnetic_field.txt 4 633 672 730 764 
+enclosed Magnetic_field.txt 4 4419 5404 5480 5546 
+replicated Magnetic_field.txt 1 480 
+lenzs Magnetic_field.txt 1 6235 
+expressed Magnetic_field.txt 1 7158 
+experiment Magnetic_field.txt 2 1082 1594 
+poles Magnetic_field.txt 33 443 448 517 544 553 583 594 2117 2130 2447 2478 2645 2713 2755 3028 3251 3265 3286 3306 3601 3659 3729 3851 5361 5421 5709 6656 7636 7691 7725 7729 8297 8303 
+electromechanics Magnetic_field.txt 1 271 
+flowing Magnetic_field.txt 3 701 4065 4276 
+filings Magnetic_field.txt 3 1767 1988 2018 
+degree Magnetic_field.txt 1 7357 
+respectively Magnetic_field.txt 2 6737 7649 
+pushing Magnetic_field.txt 1 2142 
+objects Magnetic_field.txt 3 1624 1695 2169 
+let Magnetic_field.txt 2 3104 5494 
+separation Magnetic_field.txt 1 8070 
+others Magnetic_field.txt 3 941 7804 8692 
+larger Magnetic_field.txt 3 2309 3532 3561 
+metre Magnetic_field.txt 3 938 1534 1568 
+leaving Magnetic_field.txt 1 5449 
+suggests Magnetic_field.txt 1 8606 
+repel Magnetic_field.txt 4 255 520 644 2131 
+resulting Magnetic_field.txt 2 432 4982 
+constitutive Magnetic_field.txt 1 5849 
+biotsavart Magnetic_field.txt 4 655 748 4054 4310 
+makes Magnetic_field.txt 4 1340 2874 4848 7376 
+named Magnetic_field.txt 1 440 
+ampremaxwell Magnetic_field.txt 1 6732 
+b-fields Magnetic_field.txt 1 4040 
+names Magnetic_field.txt 1 1485 
+motor Magnetic_field.txt 1 3687 
+use Magnetic_field.txt 3 7933 7948 8150 
+from Magnetic_field.txt 22 154 285 1067 1154 1633 1753 2261 2282 2572 2717 2995 3065 3704 4161 4386 4989 5508 5599 6591 7580 8341 8668 
+remains Magnetic_field.txt 2 4664 5019 
+next Magnetic_field.txt 1 3732 
+ices Magnetic_field.txt 1 8719 
+process Magnetic_field.txt 2 834 7736 
+depicted Magnetic_field.txt 1 8337 
+historically Magnetic_field.txt 1 1443 
+formally Magnetic_field.txt 3 1456 3038 7029 
+on Magnetic_field.txt 63 46 243 419 549 982 1127 1132 1146 1197 1216 1309 1320 1372 1379 1419 1701 1990 2112 2143 2258 2354 2365 2619 2698 2742 3169 3205 3209 3249 3276 3363 3390 3428 3560 3581 3590 3643 3750 3763 3931 3974 4104 4479 4520 4683 4755 4765 4807 4862 4876 4910 4938 4984 4994 5059 5562 5635 5758 6046 6663 6928 8406 8640 
+becomes Magnetic_field.txt 1 4380 
+occurred Magnetic_field.txt 1 7744 
+carrying Magnetic_field.txt 3 4768 4783 6783 
+informally Magnetic_field.txt 1 1453 
+account Magnetic_field.txt 2 127 2762 
+f Magnetic_field.txt 3 1172 4507 4582 
+poissons Magnetic_field.txt 2 713 878 
+challenge Magnetic_field.txt 1 5131 
+anywhere Magnetic_field.txt 1 7533 
+crossed Magnetic_field.txt 1 435 
+meet Magnetic_field.txt 1 2138 
+reserved Magnetic_field.txt 1 1444 
+links Magnetic_field.txt 1 8746 
+0.1 Magnetic_field.txt 1 1634 
+high Magnetic_field.txt 1 7356 
+lorentz Magnetic_field.txt 11 1221 1255 1342 3905 4527 4575 4611 4805 6558 7990 8063 
+pulling Magnetic_field.txt 1 3521 
+something Magnetic_field.txt 1 1898 
+united Magnetic_field.txt 1 963 
+arrangement Magnetic_field.txt 1 7843 
+regions Magnetic_field.txt 5 3370 3420 3525 3570 3587 
+varies Magnetic_field.txt 1 6992 
+instead Magnetic_field.txt 4 705 6610 7203 7951 
+sin Magnetic_field.txt 2 3856 3927 
+tension Magnetic_field.txt 1 2097 
+collection Magnetic_field.txt 2 2319 4787 
+1888 Magnetic_field.txt 2 8013 8024 
+1887 Magnetic_field.txt 1 1030 
+1885 Magnetic_field.txt 1 8005 
+1882 Magnetic_field.txt 1 7993 
+light Magnetic_field.txt 3 1018 2051 6470 
+lines Magnetic_field.txt 42 434 984 1724 1852 1870 1877 1887 1909 1916 1943 1963 1981 2006 2011 2025 2030 2033 2064 2094 2115 2128 2135 2460 2569 2596 2810 2927 2970 2990 3044 3060 3107 3664 4115 5294 5445 5497 5692 7662 8309 8635 8657 
+correspond Magnetic_field.txt 1 2027 
+element Magnetic_field.txt 1 4327 
+produces Magnetic_field.txt 8 274 1371 2806 3824 4073 4252 6215 8533 
+a/m Magnetic_field.txt 1 1569 
+move Magnetic_field.txt 1 7985 
+meter Magnetic_field.txt 3 108 118 5264 
+interpreted Magnetic_field.txt 2 7134 7146 
+symbols Magnetic_field.txt 1 89 
+own Magnetic_field.txt 9 276 675 2173 2332 3574 5124 5728 5734 6842 
+including Magnetic_field.txt 2 6385 6568 
+looks Magnetic_field.txt 1 4257 
+mentioned Magnetic_field.txt 1 7406 
+outer Magnetic_field.txt 1 7502 
+relativity Magnetic_field.txt 9 1038 1051 1091 6975 7031 7060 7090 7174 7179 
+four-momentum Magnetic_field.txt 2 7073 7189 
+permanent Magnetic_field.txt 12 239 1380 2160 2166 2205 2221 2692 3382 3591 4265 7639 7774 
+degrees Magnetic_field.txt 4 2304 7824 7879 7891 
+covered Magnetic_field.txt 2 3144 6259 
+surrounds Magnetic_field.txt 2 3097 5487 
+material Magnetic_field.txt 14 159 318 1425 2393 5115 5161 5203 5230 5777 5811 5908 6905 8163 8171 
+front Magnetic_field.txt 1 6362 
+colchester Magnetic_field.txt 1 479 
+worlds Magnetic_field.txt 1 7926 
+edit Magnetic_field.txt 47 344 1112 1115 1385 1491 1581 1725 2162 2207 2440 2777 3152 3593 4023 4050 4484 4524 4758 4929 5096 5188 5516 5713 5871 6079 6092 6280 6503 6964 7077 7227 7428 7432 7751 8042 8143 8280 8306 8585 8731 8733 8735 8737 8739 8741 8744 8747 
+identified Magnetic_field.txt 1 7996 
+sufficiently Magnetic_field.txt 2 2880 4376 
+magnitude Magnetic_field.txt 9 64 1283 1645 1826 3488 4845 7313 7875 8112 
+references Magnetic_field.txt 1 8740 
+traces Magnetic_field.txt 1 4641 
+homogeneous Magnetic_field.txt 1 4514 
+barnett Magnetic_field.txt 1 8477 
+related Magnetic_field.txt 3 84 2530 5527 
+static Magnetic_field.txt 1 4637 
+measure Magnetic_field.txt 7 1279 1306 1317 1651 1671 1784 8110 
+relates Magnetic_field.txt 1 6521 
+special Magnetic_field.txt 5 1090 6972 7030 7059 7173 
+out Magnetic_field.txt 10 415 1211 2581 2592 2802 3126 4914 5170 5623 6361 
+ren Magnetic_field.txt 1 361 
+cause Magnetic_field.txt 3 3343 6000 7850 
+red Magnetic_field.txt 1 4080 
+interactions Magnetic_field.txt 2 2046 7317 
+clarifies Magnetic_field.txt 1 8452 
+promptly Magnetic_field.txt 1 3621 
+completely Magnetic_field.txt 4 1931 3096 3919 5486 
+franz Magnetic_field.txt 1 811 
+attoteslas Magnetic_field.txt 1 1597 
+interaction Magnetic_field.txt 2 324 7286 
+g Magnetic_field.txt 2 1544 1551 
+6982500000000000000 Magnetic_field.txt 1 1598 
+times Magnetic_field.txt 3 3846 6173 6374 
+counterpart Magnetic_field.txt 1 8202 
+length Magnetic_field.txt 8 936 2104 2111 4128 4167 4250 4319 4823 
+south Magnetic_field.txt 21 463 543 1749 2200 2284 2450 2585 2600 2621 2820 2982 2997 5300 5509 7467 7473 7594 7635 8302 8523 8617 
+observer Magnetic_field.txt 1 7005 
+system Magnetic_field.txt 3 97 7836 7905 
+relations Magnetic_field.txt 1 5841 
+their Magnetic_field.txt 17 200 1699 1954 2103 2110 2133 2172 2331 3573 3725 5727 5733 5785 6841 7322 7732 7828 
+academy Magnetic_field.txt 1 8035 
+completed Magnetic_field.txt 1 996 
+simulate Magnetic_field.txt 1 8721 
+solenoidal Magnetic_field.txt 2 2936 6633 
+steel Magnetic_field.txt 1 8290 
+inversely Magnetic_field.txt 1 4172 
+individual Magnetic_field.txt 1 2367 
+dynamo Magnetic_field.txt 1 7508 
+negatively Magnetic_field.txt 1 4996 
+distinguished Magnetic_field.txt 1 864 
+descriptions Magnetic_field.txt 1 8279 
+maxwellampre Magnetic_field.txt 1 6393 
+have Magnetic_field.txt 8 458 1999 2189 2194 3023 5855 7877 8693 
+need Magnetic_field.txt 1 6946 
+constrained Magnetic_field.txt 1 4726 
+linked Magnetic_field.txt 1 2124 
+viewed Magnetic_field.txt 1 1066 
+acceleration Magnetic_field.txt 1 4109 
+rotor Magnetic_field.txt 4 3735 7935 7969 7987 
+angle Magnetic_field.txt 3 3498 3876 4850 
+gravity Magnetic_field.txt 2 1591 4509 
+mechanism Magnetic_field.txt 1 851 
+instance Magnetic_field.txt 1 1706 
+sprinkled Magnetic_field.txt 1 1989 
+which Magnetic_field.txt 25 133 241 279 567 659 745 841 960 1395 1670 2042 2547 4296 4646 4658 5127 5631 6250 6480 6585 7294 7342 7398 7937 8461 
+techniques Magnetic_field.txt 1 8272 
+accuracy Magnetic_field.txt 1 7359 
+diamagnetism Magnetic_field.txt 1 5794 
+representation Magnetic_field.txt 3 1919 7115 7337 
+device Magnetic_field.txt 1 4214 
+intrinsic Magnetic_field.txt 1 188 
+why Magnetic_field.txt 3 722 6187 7921 
+so-called Magnetic_field.txt 1 7642 
+neighboring Magnetic_field.txt 1 2113 
+ampere Magnetic_field.txt 4 120 2835 2868 5262 
+away Magnetic_field.txt 2 1752 2571 
+fact Magnetic_field.txt 6 1016 1028 2529 2680 6202 6310 
+alternator Magnetic_field.txt 1 7758 
+rotating Magnetic_field.txt 15 297 1676 2299 3696 3745 7748 7754 7760 7812 7894 7909 7957 7975 8001 8483 
+purely Magnetic_field.txt 1 946 
+debate Magnetic_field.txt 1 917 
+subtracting Magnetic_field.txt 1 3055 
+nearer Magnetic_field.txt 1 7603 
+based Magnetic_field.txt 3 1126 2697 5783 
+attained Magnetic_field.txt 1 1584 
+local Magnetic_field.txt 6 1653 1702 1736 1821 1873 2057 
+astronomical Magnetic_field.txt 2 1623 1694 
+exchanged Magnetic_field.txt 1 7346 
+up/down Magnetic_field.txt 1 7672 
+120 Magnetic_field.txt 2 7878 7890 
+words Magnetic_field.txt 1 8621 
+years Magnetic_field.txt 1 7746 
+produced Magnetic_field.txt 9 181 580 1606 2337 2514 2767 2919 4261 7496 
+streamlines Magnetic_field.txt 1 1890 
+h Magnetic_field.txt 53 13 92 100 121 149 175 577 871 892 901 1394 1408 1430 1446 1480 1561 2388 2458 2511 2537 2567 2594 2614 2627 2670 2682 3241 3258 3301 3754 3806 3878 4518 5093 5163 5270 5556 5610 5640 5651 5664 5677 5690 5830 5845 5861 5948 6013 6864 6919 8152 8159 8535 
+differential Magnetic_field.txt 5 3139 5568 6248 6494 6741 
+shields Magnetic_field.txt 1 280 
+contain Magnetic_field.txt 1 8726 
+fixed Magnetic_field.txt 1 3692 
+grad Magnetic_field.txt 1 4517 
+6993400000000000000 Magnetic_field.txt 1 3866 
+enhances Magnetic_field.txt 1 4210 
+computed Magnetic_field.txt 1 7325 
+exists Magnetic_field.txt 1 5743 
+exerted Magnetic_field.txt 2 4861 4875 
+coils Magnetic_field.txt 2 7821 7884 
+wire Magnetic_field.txt 15 668 1192 4130 4163 4168 4181 4198 4318 4378 4388 4449 4757 4769 4784 4793 
+interacting Magnetic_field.txt 1 3897 
+state Magnetic_field.txt 2 489 6032 
+exerts Magnetic_field.txt 3 43 1145 3387 
+correctly Magnetic_field.txt 4 660 750 1258 2667 
+boundary Magnetic_field.txt 1 5581 
+observational Magnetic_field.txt 1 6995 
+ends Magnetic_field.txt 6 2555 5303 5418 5706 6605 6669 
+ability Magnetic_field.txt 1 7901 
+historians Magnetic_field.txt 1 920 
+1644 Magnetic_field.txt 1 363 
+freely Magnetic_field.txt 1 3695 
+equal Magnetic_field.txt 8 170 3759 3798 3809 3815 5232 7873 8517 
+hypothesize Magnetic_field.txt 1 2852 
+oersteds Magnetic_field.txt 1 1575 
+denis Magnetic_field.txt 1 555 
+deflected Magnetic_field.txt 1 4749 
+geometries Magnetic_field.txt 1 8266 
+addition Magnetic_field.txt 2 1387 7675 
+short-circuited Magnetic_field.txt 2 7949 7965 
+magnetized Magnetic_field.txt 3 2191 2732 5205 
+amperian Magnetic_field.txt 8 2771 2785 2882 3401 3882 3900 5318 5329 
+arises Magnetic_field.txt 1 7579 
+nickel Magnetic_field.txt 2 251 2187 
+angles Magnetic_field.txt 1 7888 
+general Magnetic_field.txt 7 3354 4392 5980 5988 6059 6892 8732 
+unlike Magnetic_field.txt 3 2116 5699 8360 
+align Magnetic_field.txt 3 3624 3656 3670 
+as Magnetic_field.txt 79 234 247 332 507 805 861 1180 1247 1473 1475 1626 1739 1917 1938 2007 2068 2184 2317 2421 2474 2488 2720 3299 3508 3776 3842 3984 4093 4126 4223 4334 4446 4573 4778 4815 4951 5155 5165 5209 5710 5838 5934 6037 6105 6131 6193 6234 6260 6313 6322 6329 6391 6469 6595 6822 6920 6922 7017 7086 7135 7144 7147 7258 7268 7303 7338 7450 7590 7686 7701 7782 8099 8120 8134 8370 8422 8567 8603 8717 
+choices Magnetic_field.txt 1 944 
+discoveries Magnetic_field.txt 1 605 
+layer Magnetic_field.txt 1 284 
+almost Magnetic_field.txt 1 472 
+squid Magnetic_field.txt 1 1684 
+thus Magnetic_field.txt 2 6463 7386 
+surface Magnetic_field.txt 15 421 1946 1967 1970 2744 3083 3088 3092 5462 5467 5485 5587 5607 5614 5630 
+helped Magnetic_field.txt 2 503 1085 
+vs Magnetic_field.txt 1 5362 
+claimed Magnetic_field.txt 1 4706 
+convection Magnetic_field.txt 1 7498 
+began Magnetic_field.txt 1 404 
+radiation Magnetic_field.txt 1 1715 
+cross Magnetic_field.txt 6 1233 3921 3956 3989 4824 6818 
+parts Magnetic_field.txt 2 385 5649 
+geographical Magnetic_field.txt 2 7630 7690 
+largest Magnetic_field.txt 1 1603 
+units Magnetic_field.txt 12 99 104 155 1109 1422 1490 1494 1537 1572 1579 5476 5523 
+finite Magnetic_field.txt 2 4249 8449 
+b-field Magnetic_field.txt 4 1114 2776 5530 6091 
+difficult Magnetic_field.txt 1 6857 
+practice Magnetic_field.txt 1 7833 
+infinity Magnetic_field.txt 2 2945 8441 
+upon Magnetic_field.txt 1 5784 
+effect Magnetic_field.txt 13 322 1680 2001 4212 5077 6405 7792 8041 8046 8102 8105 8469 8478 
+distinction Magnetic_field.txt 1 2409 
+infinite Magnetic_field.txt 3 4166 4448 4452 
+i Magnetic_field.txt 10 2886 4288 4337 4834 4881 5399 5541 8208 8377 8438 
+modeled Magnetic_field.txt 3 5933 8369 8421 
+well Magnetic_field.txt 5 1474 4098 5711 6921 8121 
+thought Magnetic_field.txt 2 1081 7493 
+command Magnetic_field.txt 1 1278 
+charles-augustin Magnetic_field.txt 1 528 
+bending Magnetic_field.txt 2 4178 4196 
+magnetization Magnetic_field.txt 23 132 162 2533 2687 5185 5187 5191 5193 5222 5259 5273 5292 5309 5322 5376 5414 5443 5505 5729 5796 5905 8472 8480 
+less Magnetic_field.txt 1 7400 
+moments Magnetic_field.txt 1 190 
+accurate Magnetic_field.txt 3 7280 7382 7401 
+half Magnetic_field.txt 1 2737 
+vniief Magnetic_field.txt 1 1613 
+sources Magnetic_field.txt 2 6525 6529 
+stored Magnetic_field.txt 2 5867 5936 
+distant Magnetic_field.txt 1 1693 
+voltage Magnetic_field.txt 2 6157 8085 
+predicts Magnetic_field.txt 3 661 2666 3886 
+macroscopic Magnetic_field.txt 2 4809 8205 
+rotation Magnetic_field.txt 2 8470 8482 
+density Magnetic_field.txt 13 1516 1874 2706 5590 5954 6067 6196 6684 6762 6767 6880 6885 8188 
+attracted/repelled Magnetic_field.txt 1 3418 
+supply Magnetic_field.txt 1 7929 
+mathematically Magnetic_field.txt 7 2932 3073 3425 3928 5451 6145 6617 
+reasons Magnetic_field.txt 1 7920 
+extends Magnetic_field.txt 1 2943 
+identical Magnetic_field.txt 3 2398 5265 8348 
+tests Magnetic_field.txt 1 7372 
+increased Magnetic_field.txt 1 8439 
+articles Magnetic_field.txt 4 2209 4052 6094 7753 
+increases Magnetic_field.txt 1 8491 
+necessary Magnetic_field.txt 1 1251 
+like Magnetic_field.txt 9 746 1889 2079 2098 2129 3600 3728 6508 6770 
+alternatively Magnetic_field.txt 1 1358 
+qualitative Magnetic_field.txt 2 2070 3966 
+sized Magnetic_field.txt 1 5144 
+page Magnetic_field.txt 1 2796 
+because Magnetic_field.txt 9 2121 2132 4666 4734 5503 6403 7618 7627 7643 
+qed Magnetic_field.txt 6 1107 7293 7311 7349 7374 7377 
+classical Magnetic_field.txt 4 966 6566 7247 7396 
+phenomena Magnetic_field.txt 3 1065 1998 2014 
+spiraling Magnetic_field.txt 1 1708 
+instantaneous Magnetic_field.txt 1 4597 
+does Magnetic_field.txt 4 2760 5310 5557 5632 
+dipoles Magnetic_field.txt 12 41 53 141 708 2328 2349 2368 2379 2906 3416 5357 8305 
+lodestones Magnetic_field.txt 1 368 
+demonstrated Magnetic_field.txt 1 1014 
+limitations Magnetic_field.txt 1 2711 
+pressure Magnetic_field.txt 1 2107 
+although Magnetic_field.txt 4 391 993 3915 7569 
+periodically Magnetic_field.txt 1 7730 
+simpler Magnetic_field.txt 1 6065 
+gained Magnetic_field.txt 1 8015 
+about Magnetic_field.txt 3 312 1079 7361 
+actual Magnetic_field.txt 1 8727 
+introduced Magnetic_field.txt 3 125 765 836 
+stator Magnetic_field.txt 2 7963 7979 
+been Magnetic_field.txt 5 912 2190 2962 8431 8708 
+additional Magnetic_field.txt 2 718 6333 
+north-seeking Magnetic_field.txt 1 7646 
+synchrotron Magnetic_field.txt 1 1714 
+north Magnetic_field.txt 27 461 541 1755 2197 2287 2448 2563 2574 2603 2812 2976 3002 5307 5437 5511 7455 7485 7541 7551 7554 7564 7605 7612 7633 8296 8526 8613 
+agrees Magnetic_field.txt 1 7171 
+but Magnetic_field.txt 20 82 156 2139 2724 2984 3409 3546 3760 4097 4730 5174 6354 6609 6855 6991 7249 7267 7626 8518 8723 
+volume Magnetic_field.txt 3 5217 5244 5996 
+he Magnetic_field.txt 8 439 449 568 684 785 797 835 889 
+made Magnetic_field.txt 2 1880 2179 
+flix Magnetic_field.txt 1 651 
+whether Magnetic_field.txt 4 2576 2587 3379 5033 
+j Magnetic_field.txt 4 6758 6881 8181 8184 
+placed Magnetic_field.txt 6 1992 2019 4839 5116 7532 8054 
+below Magnetic_field.txt 11 1382 2967 3148 3748 3908 5078 5358 5983 6265 6500 7483 
+converted Magnetic_field.txt 1 6245 
+17811840 Magnetic_field.txt 1 557 
+problem Magnetic_field.txt 2 1076 6863 
+piece Magnetic_field.txt 1 2747 
+mechanics Magnetic_field.txt 4 1041 1098 7088 7224 
+contribute Magnetic_field.txt 1 6850 
+permeability Magnetic_field.txt 4 3864 5816 5821 8168 
+mutual Magnetic_field.txt 1 7886 
+virtual Magnetic_field.txt 1 7343 
+other Magnetic_field.txt 24 4 47 256 898 1177 1333 1413 1449 2145 2483 2719 2844 3188 3219 3610 4004 4728 5061 6461 6665 6930 7570 8525 8620 
+details Magnetic_field.txt 3 1078 3398 7369 
+normal Magnetic_field.txt 2 5594 6177 
+repeat Magnetic_field.txt 1 1328 
+persistent Magnetic_field.txt 1 2174 
+rule Magnetic_field.txt 11 2960 3355 4062 4147 4885 4933 4954 5086 5090 8415 8653 
+portion Magnetic_field.txt 1 1207 
+understand Magnetic_field.txt 2 3221 3470 
+indirectly Magnetic_field.txt 1 4692 

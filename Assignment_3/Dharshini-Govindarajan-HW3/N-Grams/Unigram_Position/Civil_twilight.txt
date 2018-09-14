@@ -1,0 +1,761 @@
+all Civil_twilight.txt 3 1338 1506 1778 
+concept Civil_twilight.txt 1 672 
+consider Civil_twilight.txt 1 1470 
+suns Civil_twilight.txt 4 1859 2036 2112 2189 
+godhlivel Civil_twilight.txt 1 2597 
+adjective Civil_twilight.txt 1 328 
+go Civil_twilight.txt 3 1687 2093 2394 
+settlement Civil_twilight.txt 1 1905 
+discern Civil_twilight.txt 1 996 
+hunting Civil_twilight.txt 1 724 
+animal Civil_twilight.txt 2 2691 2703 
+painters Civil_twilight.txt 1 251 
+0 Civil_twilight.txt 1 69 
+does Civil_twilight.txt 2 1685 1698 
+petersburg Civil_twilight.txt 1 2362 
+under Civil_twilight.txt 2 586 1051 
+hinduism Civil_twilight.txt 2 2583 2589 
+lawmakers Civil_twilight.txt 1 668 
+include Civil_twilight.txt 2 704 1707 
+activities Civil_twilight.txt 1 618 
+84.561 Civil_twilight.txt 1 2443 
+consequently Civil_twilight.txt 1 2807 
+outside Civil_twilight.txt 1 2246 
+very Civil_twilight.txt 2 312 2229 
+could Civil_twilight.txt 1 2678 
+rise Civil_twilight.txt 1 1611 
+automobiles Civil_twilight.txt 1 711 
+every Civil_twilight.txt 1 1549 
+advised Civil_twilight.txt 1 2623 
+affect Civil_twilight.txt 1 749 
+difference Civil_twilight.txt 2 1639 1862 
+enter Civil_twilight.txt 1 2364 
+condition Civil_twilight.txt 1 1909 
+723343 Civil_twilight.txt 1 2433 
+entire Civil_twilight.txt 3 1472 1717 1873 
+daemonic Civil_twilight.txt 1 2665 
+eve Civil_twilight.txt 1 2828 
+large Civil_twilight.txt 1 1486 
+small Civil_twilight.txt 4 412 425 439 451 
+venus Civil_twilight.txt 1 649 
+stiffer Civil_twilight.txt 1 741 
+upper Civil_twilight.txt 1 130 
+approximately Civil_twilight.txt 2 1406 2319 
+occurrence Civil_twilight.txt 1 1515 
+faintest Civil_twilight.txt 1 1397 
+trails Civil_twilight.txt 1 459 
+penalties Civil_twilight.txt 1 742 
+encroachment Civil_twilight.txt 1 2815 
+vela Civil_twilight.txt 1 2634 
+zero Civil_twilight.txt 1 197 
+pass Civil_twilight.txt 1 2205 
+further Civil_twilight.txt 2 1896 2853 
+casual Civil_twilight.txt 1 1467 
+blue Civil_twilight.txt 2 96 258 
+established Civil_twilight.txt 2 381 467 
+disk Civil_twilight.txt 1 2190 
+appear Civil_twilight.txt 1 638 
+rate Civil_twilight.txt 1 1990 
+sun Civil_twilight.txt 28 66 77 110 166 185 205 373 496 520 698 803 820 839 858 883 917 1191 1212 1236 1251 1268 1287 1306 1609 1684 1794 1986 2064 
+initialisms Civil_twilight.txt 2 532 1089 
+while Civil_twilight.txt 2 631 2743 
+axial Civil_twilight.txt 1 2303 
+indian Civil_twilight.txt 1 1149 
+poles Civil_twilight.txt 3 2124 2157 2233 
+above Civil_twilight.txt 3 1612 2267 2389 
+illustrations Civil_twilight.txt 1 404 
+carpet Civil_twilight.txt 3 1952 1960 1968 
+movement Civil_twilight.txt 1 2114 
+collateral Civil_twilight.txt 1 327 
+christian Civil_twilight.txt 1 2519 
+respectively Civil_twilight.txt 1 568 
+never Civil_twilight.txt 1 1489 
+here Civil_twilight.txt 2 24 53 
+metaphorically Civil_twilight.txt 1 298 
+believed Civil_twilight.txt 1 2637 
+objects Civil_twilight.txt 4 230 608 956 1073 
+sink Civil_twilight.txt 1 1616 
+active Civil_twilight.txt 2 345 2641 
+i.e Civil_twilight.txt 4 538 547 1095 1104 
+november Civil_twilight.txt 1 1839 
+extreme Civil_twilight.txt 1 73 
+obtained Civil_twilight.txt 1 2671 
+33 Civil_twilight.txt 1 2077 
+items Civil_twilight.txt 1 1380 
+31 Civil_twilight.txt 1 1825 
+30 Civil_twilight.txt 1 1843 
+commonly Civil_twilight.txt 2 689 2559 
+prior Civil_twilight.txt 1 2513 
+military Civil_twilight.txt 4 530 1084 1113 1116 
+noticeably Civil_twilight.txt 1 2373 
+changes Civil_twilight.txt 2 1808 2043 
+king Civil_twilight.txt 1 2666 
+reckoned Civil_twilight.txt 1 2825 
+via Civil_twilight.txt 1 975 
+followed Civil_twilight.txt 2 581 901 
+lasts Civil_twilight.txt 2 1812 2410 
+visible Civil_twilight.txt 3 115 1047 1412 
+illumination Civil_twilight.txt 7 103 161 406 598 610 999 1060 
+crime Civil_twilight.txt 1 729 
+unit Civil_twilight.txt 1 1117 
+standing Civil_twilight.txt 1 1128 
+plot Civil_twilight.txt 3 1953 1961 1969 
+use Civil_twilight.txt 1 679 
+eye Civil_twilight.txt 4 603 988 1066 1403 
+would Civil_twilight.txt 2 1164 1469 
+to Civil_twilight.txt 52 58 80 153 217 245 254 299 318 337 358 375 552 554 604 733 756 953 995 1129 1141 1145 1454 1493 1508 1605 1655 1680 1773 1823 1841 1892 1906 2008 2040 2062 2079 2096 2117 2182 2231 2299 2413 2463 2478 2508 2514 2579 2631 2661 2731 2779 2841 
+wintertime Civil_twilight.txt 1 1739 
+faint Civil_twilight.txt 1 1378 
+two Civil_twilight.txt 1 2464 
+next Civil_twilight.txt 2 1657 1731 
+equator Civil_twilight.txt 3 1541 1974 2090 
+6 Civil_twilight.txt 4 498 522 822 841 
+skyglow Civil_twilight.txt 1 1436 
+type Civil_twilight.txt 1 1524 
+more Civil_twilight.txt 4 1617 1688 2029 2214 
+maghrib Civil_twilight.txt 1 2752 
+eruptions Civil_twilight.txt 1 2494 
+holy Civil_twilight.txt 2 2551 2564 
+statutes Civil_twilight.txt 1 677 
+apparent Civil_twilight.txt 3 645 1982 2113 
+lord Civil_twilight.txt 2 2650 2692 
+encountered Civil_twilight.txt 1 2223 
+must Civil_twilight.txt 2 712 950 
+town Civil_twilight.txt 4 413 426 440 452 
+high Civil_twilight.txt 3 74 284 2472 
+word Civil_twilight.txt 2 148 292 
+hour Civil_twilight.txt 4 97 259 1995 2617 
+this Civil_twilight.txt 12 6 160 1137 1577 1630 1753 1837 1876 1908 2032 2104 2625 
+launch Civil_twilight.txt 1 1165 
+sandhyavandanam Civil_twilight.txt 1 2610 
+itself Civil_twilight.txt 2 111 1818 
+renders Civil_twilight.txt 1 611 
+can Civil_twilight.txt 19 274 637 662 1028 1044 1342 1542 1676 1754 1869 2092 2127 2145 2235 2269 2290 2313 2349 2424 
+following Civil_twilight.txt 2 706 2491 
+puja Civil_twilight.txt 1 2612 
+example Civil_twilight.txt 4 311 1631 2537 2819 
+performed Civil_twilight.txt 2 2614 2668 
+nearest Civil_twilight.txt 1 390 
+subcategories Civil_twilight.txt 2 385 471 
+links Civil_twilight.txt 1 2857 
+do Civil_twilight.txt 2 2371 2392 
+confused Civil_twilight.txt 1 270 
+states Civil_twilight.txt 1 529 
+marathi Civil_twilight.txt 1 2595 
+something Civil_twilight.txt 1 302 
+occur Civil_twilight.txt 4 1635 1700 1755 2524 
+axis Civil_twilight.txt 1 2059 
+terrestrial Civil_twilight.txt 2 607 955 
+respective Civil_twilight.txt 1 2343 
+united Civil_twilight.txt 2 528 1718 
+end Civil_twilight.txt 6 309 543 563 937 1100 1455 
+5.5 Civil_twilight.txt 1 1760 
+january Civil_twilight.txt 1 1842 
+rather Civil_twilight.txt 1 692 
+tilt Civil_twilight.txt 1 2304 
+travel Civil_twilight.txt 1 1983 
+astronomers Civil_twilight.txt 1 1341 
+how Civil_twilight.txt 1 694 
+varies Civil_twilight.txt 1 2295 
+sacred Civil_twilight.txt 1 2587 
+instead Civil_twilight.txt 1 70 
+map Civil_twilight.txt 1 1518 
+may Civil_twilight.txt 8 315 748 1067 1118 1386 1439 1488 1821 
+after Civil_twilight.txt 9 260 683 969 1011 1020 1222 1355 2368 2469 
+islamic Civil_twilight.txt 1 2788 
+lighting Civil_twilight.txt 1 949 
+fars Civil_twilight.txt 1 776 
+date Civil_twilight.txt 2 1550 1629 
+such Civil_twilight.txt 5 177 676 1349 1375 1381 
+bmnt Civil_twilight.txt 2 1090 1120 
+winter Civil_twilight.txt 5 1775 1802 2160 2241 2417 
+a Civil_twilight.txt 20 276 411 424 438 450 680 753 1046 1115 1134 1787 1918 2021 2197 2399 2403 2664 2672 2696 2812 
+80 Civil_twilight.txt 1 2172 
+helsinki Civil_twilight.txt 1 2356 
+light Civil_twilight.txt 7 249 1010 1321 1329 1478 2477 2509 
+so Civil_twilight.txt 2 136 1695 
+oslo Civil_twilight.txt 1 2357 
+definitions Civil_twilight.txt 2 350 402 
+discussion Civil_twilight.txt 1 2786 
+preparing Civil_twilight.txt 1 2507 
+operations Civil_twilight.txt 2 1080 1114 
+godhoolivela Civil_twilight.txt 1 2600 
+closely Civil_twilight.txt 1 2654 
+produces Civil_twilight.txt 1 1745 
+astronomical Civil_twilight.txt 32 49 86 396 434 480 898 933 1172 1175 1180 1201 1223 1227 1240 1243 1278 1298 1339 1356 1366 1393 1417 1423 1426 1437 1450 1461 1555 1575 2153 2334 2446 
+midnight Civil_twilight.txt 7 1645 1704 2273 2294 2317 2354 2567 
+ramadan Civil_twilight.txt 1 2762 
+783343 Civil_twilight.txt 1 2438 
+years Civil_twilight.txt 1 1155 
+produced Civil_twilight.txt 1 124 
+held Civil_twilight.txt 1 2542 
+including Civil_twilight.txt 2 1715 2609 
+brahma Civil_twilight.txt 1 2675 
+mentioned Civil_twilight.txt 1 2385 
+its Civil_twilight.txt 4 72 218 308 1949 
+before Civil_twilight.txt 8 686 965 1015 1024 1226 1363 2466 2530 
+24 Civil_twilight.txt 3 1749 1846 1874 
+regions Civil_twilight.txt 4 1711 2139 2228 2287 
+23 Civil_twilight.txt 1 2132 
+late Civil_twilight.txt 2 1921 1926 
+absence Civil_twilight.txt 2 223 1057 
+permanent Civil_twilight.txt 1 1904 
+degrees Civil_twilight.txt 17 188 696 886 920 1194 1215 1538 1604 1620 1650 1665 1691 1761 1853 1867 1885 1993 
+categories Civil_twilight.txt 2 2859 2861 
+latitude Civil_twilight.txt 5 1763 1938 1957 1965 2045 
+weeks Civil_twilight.txt 4 1814 1894 2133 2238 
+observatory Civil_twilight.txt 1 1978 
+into Civil_twilight.txt 2 2365 2396 
+evening Civil_twilight.txt 28 82 199 289 506 544 565 583 658 829 847 866 926 932 939 958 1101 1221 1277 1295 1314 1360 1415 1425 1447 2529 2562 2744 2750 
+greater Civil_twilight.txt 1 1661 
+food Civil_twilight.txt 1 2620 
+incorrectly Civil_twilight.txt 1 56 
+they Civil_twilight.txt 4 661 1043 2370 2391 
+not Civil_twilight.txt 10 113 268 993 1232 1686 1699 1796 2393 2622 2679 
+determines Civil_twilight.txt 1 2724 
+twilight Civil_twilight.txt 111 0 5 19 22 30 32 50 54 87 94 98 122 149 174 200 215 236 266 290 293 322 330 354 387 389 394 397 409 422 435 473 475 478 481 484 488 508 537 546 560 567 576 585 591 667 675 763 787 793 831 899 905 934 941 947 960 1041 1063 1082 1094 1103 1173 1241 1279 1357 1367 1394 1427 1438 1451 1462 1504 1526 1544 1633 1675 1791 1868 1975 2017 2073 2126 2140 2154 2209 2234 2265 2268 2289 2324 2329 2335 2367 2398 2408 2423 2436 2441 2447 2452 2526 2585 2616 2658 2710 2717 2735 2745 2769 2800 2821 
+outlines Civil_twilight.txt 1 1070 
+nor Civil_twilight.txt 6 144 1615 2690 2702 2713 2805 
+shadows Civil_twilight.txt 1 225 
+easily Civil_twilight.txt 1 1343 
+february Civil_twilight.txt 1 1922 
+gets Civil_twilight.txt 1 2180 
+brightness Civil_twilight.txt 1 194 
+edit Civil_twilight.txt 27 353 407 485 788 790 871 1174 1179 1238 1516 1534 1658 1732 1848 1929 2451 2497 2499 2584 2716 2797 2845 2848 2850 2852 2855 2858 
+fully Civil_twilight.txt 1 1474 
+feast Civil_twilight.txt 1 2532 
+jurisprudence Civil_twilight.txt 1 2789 
+magnitude Civil_twilight.txt 2 646 1409 
+60.561 Civil_twilight.txt 1 2320 
+stockholm Civil_twilight.txt 1 2358 
+each Civil_twilight.txt 4 1523 1546 1751 1943 
+higher Civil_twilight.txt 1 1584 
+traces Civil_twilight.txt 1 997 
+side Civil_twilight.txt 2 2242 2481 
+lasting Civil_twilight.txt 3 1651 1844 2460 
+preceded Civil_twilight.txt 2 572 895 
+everyone Civil_twilight.txt 1 1132 
+england Civil_twilight.txt 1 2067 
+populated Civil_twilight.txt 1 1710 
+fish Civil_twilight.txt 1 339 
+approximates Civil_twilight.txt 1 592 
+owing Civil_twilight.txt 1 216 
+begun Civil_twilight.txt 1 1465 
+year Civil_twilight.txt 7 1553 1591 1942 2052 2087 2298 2300 
+dawn Civil_twilight.txt 26 37 52 540 570 621 796 868 873 967 982 1013 1017 1097 1169 1176 1181 1228 1244 1424 1556 1558 1561 2771 2778 2792 2795 
+beyond Civil_twilight.txt 1 1389 
+saturday Civil_twilight.txt 3 2552 2565 2832 
+sunrise Civil_twilight.txt 10 39 505 687 1004 1563 1681 2000 2414 2467 2554 
+canada Civil_twilight.txt 2 964 1913 
+shown Civil_twilight.txt 2 57 79 
+although Civil_twilight.txt 1 2355 
+restricted Civil_twilight.txt 1 726 
+since Civil_twilight.txt 1 1682 
+tallinn Civil_twilight.txt 1 2359 
+suffices Civil_twilight.txt 1 599 
+occurs Civil_twilight.txt 5 162 1579 1877 1916 1987 
+friday Civil_twilight.txt 1 2823 
+galaxies Civil_twilight.txt 1 1385 
+completely Civil_twilight.txt 2 142 145 
+brightest Civil_twilight.txt 3 476 633 651 
+holidays Civil_twilight.txt 1 2535 
+beginning Civil_twilight.txt 3 930 944 2776 
+universally Civil_twilight.txt 1 2727 
+definition Civil_twilight.txt 2 789 1237 
+silhouetted Civil_twilight.txt 1 231 
+e.g Civil_twilight.txt 2 1126 1819 
+geometry Civil_twilight.txt 1 352 
+rule Civil_twilight.txt 1 2839 
+latitudes Civil_twilight.txt 13 285 1521 1585 1600 1660 1706 1737 1780 1850 1882 2110 2307 2430 
+days Civil_twilight.txt 5 2165 2173 2533 2575 2843 
+times Civil_twilight.txt 2 1513 2765 
+motion Civil_twilight.txt 1 2037 
+turn Civil_twilight.txt 1 713 
+american Civil_twilight.txt 2 783 2500 
+footnotes Civil_twilight.txt 1 2851 
+pilots Civil_twilight.txt 1 751 
+invisible Civil_twilight.txt 1 1421 
+south Civil_twilight.txt 3 1668 1828 2176 
+first Civil_twilight.txt 2 1009 2571 
+major Civil_twilight.txt 2 2492 2531 
+already Civil_twilight.txt 1 1464 
+demonstrating Civil_twilight.txt 1 95 
+fourth-magnitude Civil_twilight.txt 1 1496 
+number Civil_twilight.txt 1 1931 
+reaches Civil_twilight.txt 3 186 207 521 
+one Civil_twilight.txt 6 1653 1727 1879 1900 2179 2645 
+well-known Civil_twilight.txt 1 1034 
+will Civil_twilight.txt 4 1410 2019 2074 2204 
+done Civil_twilight.txt 1 2742 
+sunlight Civil_twilight.txt 2 126 626 
+directly Civil_twilight.txt 2 114 2212 
+impossible Civil_twilight.txt 1 994 
+antarctic Civil_twilight.txt 3 1736 2138 2186 
+christianity Civil_twilight.txt 1 2498 
+quality Civil_twilight.txt 1 220 
+angular Civil_twilight.txt 3 1638 1860 2252 
+earths Civil_twilight.txt 3 138 2058 2302 
+little Civil_twilight.txt 1 2100 
+nebulae Civil_twilight.txt 1 1383 
+festival Civil_twilight.txt 1 2842 
+unknown Civil_twilight.txt 1 461 
+prayers Civil_twilight.txt 3 2729 2739 2751 
+airborne Civil_twilight.txt 1 462 
+vishnu Civil_twilight.txt 2 2651 2693 
+solstice Civil_twilight.txt 9 1597 1674 1776 1803 1951 2161 2277 2381 2418 
+their Civil_twilight.txt 4 324 715 2342 2387 
+station Civil_twilight.txt 1 1830 
+listed Civil_twilight.txt 1 780 
+saint Civil_twilight.txt 1 2361 
+white Civil_twilight.txt 1 2400 
+especially Civil_twilight.txt 1 1433 
+observations Civil_twilight.txt 3 1340 1345 1374 
+urban Civil_twilight.txt 1 1320 
+that Civil_twilight.txt 8 137 301 342 347 2024 2638 2676 2830 
+continuous Civil_twilight.txt 1 1946 
+483343 Civil_twilight.txt 1 2332 
+part Civil_twilight.txt 2 769 1151 
+sabbath Civil_twilight.txt 2 2827 2834 
+july Civil_twilight.txt 1 1824 
+than Civil_twilight.txt 10 693 1602 1618 1648 1662 1689 1865 2260 2382 2457 
+begins Civil_twilight.txt 6 489 509 794 832 1242 1280 
+observed Civil_twilight.txt 1 640 
+12 Civil_twilight.txt 7 805 860 885 919 1270 1289 1840 
+15 Civil_twilight.txt 1 1992 
+18 Civil_twilight.txt 10 187 208 1193 1214 1253 1308 1619 1649 1690 1866 
+require Civil_twilight.txt 2 752 1387 
+imply Civil_twilight.txt 1 300 
+limiting Civil_twilight.txt 1 1520 
+midtown Civil_twilight.txt 1 90 
+mojave Civil_twilight.txt 4 416 429 443 455 
+toward Civil_twilight.txt 1 2192 
+treated Civil_twilight.txt 2 735 2810 
+and Civil_twilight.txt 77 38 43 48 85 198 226 250 306 340 382 395 403 460 468 479 502 512 541 561 577 622 635 812 848 869 900 935 968 983 1018 1098 1109 1121 1148 1177 1225 1260 1296 1325 1354 1361 1364 1384 1419 1456 1507 1532 1562 1569 1643 1720 1729 1735 1767 1781 1889 1923 1939 2001 2011 2137 2170 2185 2226 2285 2330 2360 2442 2553 2568 2611 2670 2686 2763 2793 2829 2836 
+lowest Civil_twilight.txt 1 2306 
+false Civil_twilight.txt 1 2794 
+1.1 Civil_twilight.txt 1 770 
+twilights Civil_twilight.txt 4 193 2312 2348 2486 
+navigate Civil_twilight.txt 1 974 
+disambiguation Civil_twilight.txt 2 20 31 
+locations Civil_twilight.txt 2 1758 2384 
+auroras Civil_twilight.txt 2 272 1324 
+have Civil_twilight.txt 4 275 669 1490 2372 
+seen Civil_twilight.txt 1 2488 
+clearly Civil_twilight.txt 3 605 627 957 
+contents Civil_twilight.txt 1 349 
+complete Civil_twilight.txt 3 1696 1746 1810 
+strength Civil_twilight.txt 1 305 
+angle Civil_twilight.txt 6 362 2025 2033 2055 2199 2262 
+scriptures Civil_twilight.txt 1 2663 
+depending Civil_twilight.txt 1 2082 
+jurisdictions Civil_twilight.txt 1 745 
+lit Civil_twilight.txt 1 143 
+also Civil_twilight.txt 6 151 295 1578 2363 2783 2847 
+take Civil_twilight.txt 1 1029 
+analogy Civil_twilight.txt 1 287 
+suhoor Civil_twilight.txt 1 2754 
+circles Civil_twilight.txt 4 2187 2219 2249 2284 
+even Civil_twilight.txt 3 1448 1495 1701 
+begin Civil_twilight.txt 4 59 534 1091 2580 
+towards Civil_twilight.txt 1 1897 
+gdhiv Civil_twilight.txt 1 2593 
+centre Civil_twilight.txt 1 63 
+judaism Civil_twilight.txt 2 2796 2799 
+who Civil_twilight.txt 2 243 252 
+fajr Civil_twilight.txt 1 2740 
+most Civil_twilight.txt 6 344 616 688 1466 1581 2558 
+74 Civil_twilight.txt 1 2164 
+70 Civil_twilight.txt 1 1958 
+48.561 Civil_twilight.txt 1 2331 
+darkness Civil_twilight.txt 4 1697 1747 1811 2547 
+observation Civil_twilight.txt 1 1388 
+considered Civil_twilight.txt 3 1110 2578 2802 
+clear Civil_twilight.txt 1 587 
+sometimes Civil_twilight.txt 3 296 335 2627 
+nighttime Civil_twilight.txt 3 202 212 737 
+enshrined Civil_twilight.txt 1 670 
+sunset Civil_twilight.txt 13 42 511 684 1002 1568 1679 2002 2369 2412 2470 2549 2582 2780 
+48.5 Civil_twilight.txt 2 1537 1664 
+redirected Civil_twilight.txt 1 2 
+typically Civil_twilight.txt 2 678 2004 
+precise Civil_twilight.txt 1 2279 
+rating Civil_twilight.txt 1 755 
+atmosphere Civil_twilight.txt 4 107 131 135 2475 
+rarely Civil_twilight.txt 1 1744 
+insects Civil_twilight.txt 1 338 
+bright Civil_twilight.txt 1 234 
+planning Civil_twilight.txt 1 1112 
+hiranakashipa Civil_twilight.txt 2 2667 2708 
+participate Civil_twilight.txt 1 1076 
+earth Civil_twilight.txt 5 100 643 1714 2459 2490 
+darkest Civil_twilight.txt 1 482 
+ground Civil_twilight.txt 1 1072 
+northern Civil_twilight.txt 1 1724 
+true Civil_twilight.txt 2 2106 2791 
+51.5n Civil_twilight.txt 1 2068 
+should Civil_twilight.txt 1 267 
+only Civil_twilight.txt 5 1743 1756 1769 1903 2406 
+bmct Civil_twilight.txt 1 533 
+rituals Civil_twilight.txt 1 2608 
+circle Civil_twilight.txt 2 2257 2422 
+he Civil_twilight.txt 1 2677 
+local Civil_twilight.txt 4 2272 2293 2316 2352 
+oblique Civil_twilight.txt 2 2006 2030 
+11 Civil_twilight.txt 1 1822 
+goes Civil_twilight.txt 1 1901 
+distance Civil_twilight.txt 1 2253 
+vary Civil_twilight.txt 1 2075 
+truly Civil_twilight.txt 1 1510 
+cannot Civil_twilight.txt 4 973 1075 1610 1634 
+nearly Civil_twilight.txt 2 196 1337 
+lighter Civil_twilight.txt 1 2374 
+burglary Civil_twilight.txt 2 731 738 
+during Civil_twilight.txt 14 346 665 1036 1061 1353 1365 1527 2378 2525 2624 2642 2682 2709 2761 
+sky-gazers Civil_twilight.txt 1 647 
+geometric Civil_twilight.txt 16 62 369 492 516 799 816 835 854 879 913 1187 1208 1247 1264 1283 1302 
+gallery Civil_twilight.txt 1 2844 
+reading Civil_twilight.txt 1 2854 
+countries Civil_twilight.txt 2 1722 2344 
+morning Civil_twilight.txt 24 45 214 486 535 558 574 655 791 811 828 892 897 903 1092 1200 1239 1259 1276 1370 1459 2734 2738 2756 2768 
+naked Civil_twilight.txt 1 1402 
+twice Civil_twilight.txt 1 1545 
+an Civil_twilight.txt 2 2504 2784 
+through Civil_twilight.txt 6 2206 2271 2292 2315 2351 2426 
+fixed Civil_twilight.txt 1 681 
+where Civil_twilight.txt 5 1330 1914 2250 2288 2345 
+approaching Civil_twilight.txt 1 307 
+penance Civil_twilight.txt 1 2669 
+farthest Civil_twilight.txt 1 398 
+reference Civil_twilight.txt 1 1050 
+843343 Civil_twilight.txt 1 2444 
+around Civil_twilight.txt 3 1594 1801 2503 
+relative Civil_twilight.txt 1 374 
+see Civil_twilight.txt 7 18 28 644 663 954 2266 2846 
+are Civil_twilight.txt 12 343 379 465 550 1107 2318 2337 2487 2613 2640 2730 2741 
+sea Civil_twilight.txt 1 979 
+close Civil_twilight.txt 2 1772 2230 
+closer Civil_twilight.txt 2 1601 2181 
+practice Civil_twilight.txt 1 2520 
+said Civil_twilight.txt 1 317 
+543343 Civil_twilight.txt 1 2326 
+2025 Civil_twilight.txt 1 2102 
+federal Civil_twilight.txt 1 773 
+distinctive Civil_twilight.txt 1 219 
+away Civil_twilight.txt 1 1318 
+wikipedia Civil_twilight.txt 1 1 
+paschal Civil_twilight.txt 1 2511 
+artificial Civil_twilight.txt 2 612 948 
+benedictine Civil_twilight.txt 1 2501 
+enough Civil_twilight.txt 2 609 1335 
+various Civil_twilight.txt 3 2208 2311 2347 
+between Civil_twilight.txt 9 36 41 1530 1554 1567 1640 1726 2548 2790 
+affecting Civil_twilight.txt 1 2053 
+marks Civil_twilight.txt 1 928 
+neither Civil_twilight.txt 5 141 2687 2700 2711 2803 
+islam Civil_twilight.txt 2 2715 2721 
+conditions Civil_twilight.txt 4 180 589 1054 2091 
+360 Civil_twilight.txt 1 1996 
+europe Civil_twilight.txt 1 1725 
+ends Civil_twilight.txt 7 503 513 813 849 1261 1297 2766 
+extend Civil_twilight.txt 1 2425 
+eect Civil_twilight.txt 1 542 
+half-lion Civil_twilight.txt 1 2698 
+however Civil_twilight.txt 3 1371 1429 1598 
+aircraft Civil_twilight.txt 1 758 
+densely Civil_twilight.txt 1 1709 
+french Civil_twilight.txt 2 262 1147 
+distinguish Civil_twilight.txt 3 606 1045 1068 
+article Civil_twilight.txt 1 7 
+cities Civil_twilight.txt 2 1487 2340 
+nunavut Civil_twilight.txt 1 1912 
+paranal Civil_twilight.txt 1 1977 
+both Civil_twilight.txt 3 1162 1352 1362 
+dates Civil_twilight.txt 4 1588 1670 1771 1782 
+last Civil_twilight.txt 4 1677 1870 2146 2236 
+cow Civil_twilight.txt 1 2604 
+many Civil_twilight.txt 4 695 1587 1708 2607 
+taking Civil_twilight.txt 1 2213 
+hours Civil_twilight.txt 8 1750 1847 1875 1934 2149 2465 2545 2644 
+according Civil_twilight.txt 2 357 2660 
+against Civil_twilight.txt 2 232 2814 
+lheure Civil_twilight.txt 1 264 
+fasting Civil_twilight.txt 2 2760 2772 
+expression Civil_twilight.txt 1 263 
+finds Civil_twilight.txt 1 989 
+volcanic Civil_twilight.txt 1 2493 
+point Civil_twilight.txt 3 75 1005 1347 
+appeared Civil_twilight.txt 1 2694 
+sweet Civil_twilight.txt 1 248 
+period Civil_twilight.txt 5 682 747 1789 2018 2659 
+except Civil_twilight.txt 1 1592 
+nightfall Civil_twilight.txt 2 448 1019 
+pole Civil_twilight.txt 11 1607 1766 1817 1829 1832 1856 1888 1899 1944 2169 2177 
+respect Civil_twilight.txt 2 2039 2061 
+throughout Civil_twilight.txt 1 1589 
+headlights Civil_twilight.txt 1 716 
+hindu Civil_twilight.txt 1 2662 
+three Civil_twilight.txt 2 380 466 
+been Civil_twilight.txt 1 239 
+slowly Civil_twilight.txt 1 1809 
+treat Civil_twilight.txt 1 1119 
+mars Civil_twilight.txt 1 2454 
+celebration Civil_twilight.txt 1 2572 
+killed Civil_twilight.txt 1 2681 
+combatants Civil_twilight.txt 1 1160 
+life Civil_twilight.txt 1 2706 
+fire Civil_twilight.txt 1 2506 
+sunshine Civil_twilight.txt 3 1955 1963 1971 
+observers Civil_twilight.txt 7 1468 1480 1535 1582 2119 2194 2201 
+lives Civil_twilight.txt 1 325 
+external Civil_twilight.txt 1 2856 
+chile Civil_twilight.txt 1 1980 
+aviation Civil_twilight.txt 2 765 774 
+denote Civil_twilight.txt 1 154 
+diffuse Civil_twilight.txt 1 1379 
+those Civil_twilight.txt 3 1404 1434 1593 
+applied Civil_twilight.txt 1 336 
+half-man Civil_twilight.txt 1 2697 
+atmospheric Civil_twilight.txt 2 179 1053 
+these Civil_twilight.txt 3 1705 2336 2643 
+reliable Civil_twilight.txt 1 1030 
+appearance Civil_twilight.txt 2 228 278 
+air Civil_twilight.txt 1 784 
+17561763 Civil_twilight.txt 1 1158 
+near Civil_twilight.txt 6 1000 1671 1883 1948 2158 2274 
+applies Civil_twilight.txt 1 2840 
+irrespective Civil_twilight.txt 1 1498 
+at Civil_twilight.txt 49 51 68 88 92 283 504 510 595 619 623 942 978 980 1167 1416 1422 1505 1583 1599 1659 1702 1757 1777 1815 1826 1849 1881 1956 1964 1972 1976 1988 2005 2065 2088 2108 2122 2155 2166 2174 2196 2308 2376 2415 2429 2581 2615 2767 2770 
+seven Civil_twilight.txt 1 1154 
+almost Civil_twilight.txt 1 1441 
+is Civil_twilight.txt 73 8 33 55 67 78 101 112 118 123 140 150 167 195 294 303 331 334 355 364 497 571 580 699 725 732 766 804 821 840 859 874 884 894 908 918 1138 1182 1192 1203 1213 1231 1252 1269 1288 1307 1333 1795 1863 1910 2105 2115 2143 2151 2222 2258 2402 2455 2541 2569 2586 2591 2621 2629 2636 2653 2718 2736 2746 2773 2782 2801 2809 2824 
+prayer Civil_twilight.txt 1 2753 
+it Civil_twilight.txt 14 117 246 255 664 893 927 990 1622 1915 2590 2628 2635 2723 2808 
+surface Civil_twilight.txt 1 139 
+equal Civil_twilight.txt 1 182 
+good Civil_twilight.txt 1 1052 
+experience Civil_twilight.txt 3 1509 1835 1907 
+in Civil_twilight.txt 64 128 279 320 410 414 423 427 437 441 449 453 526 720 743 759 768 781 809 826 845 864 890 924 1077 1130 1198 1219 1257 1274 1293 1312 1315 1358 1368 1413 1430 1445 1457 1481 1485 1723 1733 1738 1920 1925 1979 2098 2134 2224 2227 2386 2473 2495 2518 2543 2560 2588 2594 2598 2601 2695 2720 2787 2798 
+if Civil_twilight.txt 2 992 2141 
+lighting-up Civil_twilight.txt 1 718 
+things Civil_twilight.txt 1 176 
+make Civil_twilight.txt 1 1344 
+indistinguishable Civil_twilight.txt 1 1442 
+same Civil_twilight.txt 2 1625 2838 
+any Civil_twilight.txt 4 1503 1628 2016 2144 
+widely Civil_twilight.txt 2 383 469 
+2030 Civil_twilight.txt 1 690 
+9 Civil_twilight.txt 3 1603 1852 1884 
+elevates Civil_twilight.txt 1 1646 
+several Civil_twilight.txt 3 1813 1893 2148 
+difficult Civil_twilight.txt 1 991 
+week Civil_twilight.txt 1 1919 
+used Civil_twilight.txt 5 152 297 551 952 1108 
+dusk Civil_twilight.txt 24 44 89 436 549 579 625 851 870 907 971 985 1022 1026 1106 1171 1178 1202 1224 1299 1418 1428 1571 1573 1576 
+arctic Civil_twilight.txt 3 1734 2136 2184 
+upon Civil_twilight.txt 1 2816 
+alert Civil_twilight.txt 1 1911 
+photographers Civil_twilight.txt 1 242 
+moment Civil_twilight.txt 4 876 910 1184 1205 
+traditionally Civil_twilight.txt 1 2576 
+uses Civil_twilight.txt 2 17 27 
+dust Civil_twilight.txt 2 2471 2605 
+opportunity Civil_twilight.txt 1 1492 
+early Civil_twilight.txt 1 2755 
+lower Civil_twilight.txt 3 106 134 2198 
+center Civil_twilight.txt 15 370 493 517 800 817 836 855 880 914 1188 1209 1248 1265 1284 1303 
+well Civil_twilight.txt 3 1087 1565 2047 
+78.561 Civil_twilight.txt 1 2437 
+position Civil_twilight.txt 3 366 1136 2280 
+the Civil_twilight.txt 248 10 13 34 61 65 76 102 105 109 120 129 133 147 155 163 165 169 171 173 184 190 192 204 210 222 227 233 257 261 280 291 321 326 359 365 368 372 376 391 400 415 428 442 454 491 495 500 515 519 524 527 531 555 562 593 601 629 632 642 650 654 671 697 701 705 721 728 746 760 772 778 782 798 802 807 810 815 819 824 827 834 838 843 846 853 857 862 865 875 878 882 888 891 909 912 916 922 925 929 936 943 976 986 1001 1007 1037 1056 1064 1088 1146 1153 1183 1186 1190 1196 1199 1204 1207 1211 1217 1220 1229 1235 1246 1250 1255 1258 1263 1267 1272 1275 1282 1286 1291 1294 1301 1305 1310 1313 1331 1359 1369 1390 1396 1401 1407 1414 1446 1458 1471 1491 1500 1528 1540 1552 1590 1595 1608 1613 1624 1637 1656 1672 1683 1693 1713 1716 1730 1740 1765 1774 1783 1793 1799 1805 1816 1834 1858 1872 1887 1895 1898 1902 1930 1937 1973 1981 1985 1989 2009 2012 2035 2041 2049 2054 2057 2063 2069 2084 2089 2111 2118 2123 2135 2156 2159 2167 2175 2183 2188 2193 2200 2207 2217 2232 2240 2244 2247 2251 2255 2261 2275 2278 2282 2286 2305 2310 2338 2346 2379 2416 2420 2474 2479 2483 2510 2528 2538 2544 2561 2570 2647 2657 2705 2747 2775 2820 2837 
+summer Civil_twilight.txt 6 1596 1673 1950 2225 2276 2380 
+redirects Civil_twilight.txt 1 23 
+outdoor Civil_twilight.txt 2 617 1079 
+less Civil_twilight.txt 4 1647 1864 2211 2259 
+being Civil_twilight.txt 3 181 2026 2577 
+generally Civil_twilight.txt 1 1484 
+sources Civil_twilight.txt 3 613 1327 1348 
+farther Civil_twilight.txt 1 164 
+human Civil_twilight.txt 5 602 987 1065 2689 2701 
+scattering Civil_twilight.txt 1 127 
+yet Civil_twilight.txt 1 1453 
+greenwich Civil_twilight.txt 1 2066 
+localities Civil_twilight.txt 1 1483 
+sky Civil_twilight.txt 5 235 282 1230 1332 1473 
+lake Civil_twilight.txt 1 962 
+day Civil_twilight.txt 13 1531 1547 1626 1654 1752 1880 1998 2095 2557 2683 2712 2804 2835 
+extends Civil_twilight.txt 1 1890 
+location Civil_twilight.txt 1 2203 
+has Civil_twilight.txt 6 237 1083 1452 1463 1833 1945 
+easter Civil_twilight.txt 5 2505 2515 2539 2556 2574 
+skies Civil_twilight.txt 2 1512 2375 
+obligatory Civil_twilight.txt 1 2728 
+kingdom Civil_twilight.txt 1 1719 
+crepuscular Civil_twilight.txt 1 332 
+elevation Civil_twilight.txt 2 361 1861 
+which Civil_twilight.txt 9 273 333 363 596 739 1131 2263 2309 2409 
+depends Civil_twilight.txt 1 1935 
+sailors Civil_twilight.txt 2 972 1027 
+72.561 Civil_twilight.txt 1 2432 
+showing Civil_twilight.txt 1 1519 
+sightings Civil_twilight.txt 1 1032 
+dark Civil_twilight.txt 4 146 1334 1475 1511 
+know Civil_twilight.txt 1 648 
+world Civil_twilight.txt 1 1517 
+accepted Civil_twilight.txt 2 384 470 
+heightened Civil_twilight.txt 1 1124 
+unnecessary Civil_twilight.txt 1 614 
+twenty-four-hour Civil_twilight.txt 1 2220 
+continue Civil_twilight.txt 4 2270 2291 2314 2350 
+either Civil_twilight.txt 3 1606 1855 2817 
+night Civil_twilight.txt 16 14 281 754 1444 1533 1728 1742 1785 2097 2377 2401 2404 2480 2685 2714 2806 
+popular Civil_twilight.txt 1 240 
+become Civil_twilight.txt 2 1411 1420 
+security Civil_twilight.txt 1 1125 
+because Civil_twilight.txt 6 116 660 1476 1636 2107 2390 
+old Civil_twilight.txt 1 313 
+often Civil_twilight.txt 1 2523 
+people Civil_twilight.txt 1 314 
+some Civil_twilight.txt 4 744 1316 1372 1482 
+back Civil_twilight.txt 1 1144 
+50 Civil_twilight.txt 1 1966 
+certain Civil_twilight.txt 1 2726 
+daylight Civil_twilight.txt 3 1933 1947 2221 
+examples Civil_twilight.txt 1 703 
+duration Civil_twilight.txt 3 1928 2014 2070 
+candle Civil_twilight.txt 1 2512 
+category Civil_twilight.txt 1 2388 
+narasimha Civil_twilight.txt 1 2652 
+scale Civil_twilight.txt 1 81 
+for Civil_twilight.txt 30 15 25 310 329 600 615 764 1049 1336 1580 1748 1845 1871 1878 1917 2028 2147 2162 2237 2322 2327 2333 2434 2439 2445 2461 2536 2749 2759 2818 
+literally Civil_twilight.txt 1 2603 
+noon Civil_twilight.txt 2 1642 2428 
+per Civil_twilight.txt 2 1994 1997 
+603343 Civil_twilight.txt 1 2321 
+religion Civil_twilight.txt 1 2496 
+critical Civil_twilight.txt 1 1373 
+amundsenscott Civil_twilight.txt 1 1827 
+dating Civil_twilight.txt 1 1143 
+asuras Civil_twilight.txt 1 2639 
+refer Civil_twilight.txt 3 244 253 553 
+be Civil_twilight.txt 10 269 316 319 734 951 1440 2020 2128 2680 2732 
+object Civil_twilight.txt 1 463 
+eating Civil_twilight.txt 1 2618 
+sixth Civil_twilight.txt 1 1408 
+view Civil_twilight.txt 2 1494 1543 
+perpendicular Civil_twilight.txt 1 2116 
+defensive Civil_twilight.txt 1 1135 
+losing Civil_twilight.txt 1 304 
+from Civil_twilight.txt 17 3 399 641 1319 1443 1652 1678 1820 1838 1886 2076 2094 2254 2297 2411 2674 2774 
+by Civil_twilight.txt 12 125 286 351 405 573 582 896 902 1127 1234 1400 2688 
+stage Civil_twilight.txt 1 1038 
+on Civil_twilight.txt 20 99 714 961 1161 1548 1586 1623 1627 1669 1770 1936 2083 2239 2448 2453 2458 2489 2527 2550 2555 
+about Civil_twilight.txt 4 9 1663 2163 2171 
+hidden Civil_twilight.txt 1 2860 
+actual Civil_twilight.txt 1 2013 
+attacks Civil_twilight.txt 1 1166 
+of Civil_twilight.txt 94 12 64 71 104 157 224 229 323 367 371 386 420 433 447 472 494 518 557 564 673 710 730 771 801 818 837 856 881 915 931 938 945 998 1006 1033 1039 1058 1071 1152 1157 1189 1210 1249 1266 1285 1304 1328 1346 1377 1392 1405 1477 1499 1502 1514 1522 1525 1539 1551 1632 1712 1762 1764 1790 1836 1854 1932 1941 1954 1962 1970 1984 1991 2015 2023 2034 2051 2056 2071 2086 2243 2281 2341 2482 2546 2563 2573 2619 2646 2649 2707 2777 2822 2831 
+bleue Civil_twilight.txt 1 265 
+meal Civil_twilight.txt 1 2757 
+recited Civil_twilight.txt 1 2733 
+carries Civil_twilight.txt 1 740 
+horizon Civil_twilight.txt 33 121 170 191 211 377 392 401 501 525 630 702 808 825 844 863 889 923 977 1008 1048 1197 1218 1256 1273 1292 1311 1614 1694 1800 2010 2042 2120 2195 
+referred Civil_twilight.txt 1 2630 
+slightly Civil_twilight.txt 1 2296 
+or Civil_twilight.txt 13 40 657 685 1003 1170 1559 1574 1667 2468 2534 2566 2596 2684 
+pollution Civil_twilight.txt 2 1322 1479 
+considerations Civil_twilight.txt 1 1085 
+angles Civil_twilight.txt 2 2007 2031 
+presence Civil_twilight.txt 1 1501 
+civil Civil_twilight.txt 35 4 21 29 46 83 93 388 408 474 483 487 507 536 539 545 548 559 566 569 578 590 620 624 666 674 762 1016 1021 1560 1570 2072 2125 2323 2407 2435 
+zones Civil_twilight.txt 1 2210 
+within Civil_twilight.txt 5 1536 1759 1851 2216 2419 
+due Civil_twilight.txt 1 1140 
+weather Civil_twilight.txt 1 588 
+references Civil_twilight.txt 1 2849 
+primarily Civil_twilight.txt 1 221 
+theoretically Civil_twilight.txt 1 1395 
+eent Civil_twilight.txt 2 1099 1122 
+ontario Civil_twilight.txt 1 963 
+there Civil_twilight.txt 6 378 464 1768 2142 2150 2781 
+long Civil_twilight.txt 5 238 418 431 445 2130 
+sides Civil_twilight.txt 1 1163 
+start Civil_twilight.txt 1 556 
+detectable Civil_twilight.txt 1 1399 
+low Civil_twilight.txt 1 2109 
+stars Civil_twilight.txt 5 634 1035 1351 1398 1497 
+war Civil_twilight.txt 2 1150 1156 
+assumes Civil_twilight.txt 1 1133 
+hindi Civil_twilight.txt 1 2599 
+function Civil_twilight.txt 1 2022 
+north Civil_twilight.txt 5 1666 1831 1959 1967 2168 
+illuminated Civil_twilight.txt 1 1233 
+form Civil_twilight.txt 1 2699 
+mammals Civil_twilight.txt 1 341 
+but Civil_twilight.txt 5 1014 1023 1074 1999 2121 
+monks Civil_twilight.txt 1 2502 
+observances Civil_twilight.txt 1 2522 
+illuminating Civil_twilight.txt 1 132 
+ended Civil_twilight.txt 1 2704 
+solar Civil_twilight.txt 8 360 597 1641 1644 1703 1806 2353 2427 
+safeguard Civil_twilight.txt 1 2813 
+with Civil_twilight.txt 13 241 271 288 457 1055 1123 1435 2038 2044 2060 2301 2405 2656 
+partially Civil_twilight.txt 1 1139 
+october Civil_twilight.txt 1 1927 
+tactics Civil_twilight.txt 1 1142 
+largest Civil_twilight.txt 1 2339 
+places Civil_twilight.txt 2 1317 1432 
+up Civil_twilight.txt 2 1891 2462 
+us Civil_twilight.txt 1 761 
+planet Civil_twilight.txt 2 652 2484 
+below Civil_twilight.txt 23 119 168 189 209 499 523 700 806 823 842 861 887 921 1195 1216 1254 1271 1290 1309 1621 1692 1798 2431 
+limit Civil_twilight.txt 2 594 1391 
+uk Civil_twilight.txt 1 722 
+telugu Civil_twilight.txt 1 2602 
+similar Civil_twilight.txt 2 277 2485 
+called Civil_twilight.txt 2 717 2592 
+scatters Civil_twilight.txt 1 2476 
+detailed Civil_twilight.txt 1 1078 
+associated Civil_twilight.txt 1 2655 
+defined Civil_twilight.txt 2 356 767 
+minutes Civil_twilight.txt 4 691 2078 2081 2103 
+general Civil_twilight.txt 1 1069 
+fly Civil_twilight.txt 1 757 
+as Civil_twilight.txt 26 178 247 256 639 653 736 777 1086 1350 1376 1382 1564 1566 1857 2046 2048 2099 2101 2129 2131 2178 2632 2722 2811 2826 2833 
+periods Civil_twilight.txt 2 156 707 
+planets Civil_twilight.txt 2 636 2450 
+nautical Civil_twilight.txt 39 47 84 393 421 477 575 584 786 792 795 830 850 867 872 904 906 940 946 959 966 970 981 984 1012 1025 1040 1062 1081 1093 1096 1102 1105 1168 1557 1572 2328 2366 2397 2440 
+moves Civil_twilight.txt 1 2191 
+happen Civil_twilight.txt 1 2003 
+defines Civil_twilight.txt 2 628 2264 
+again Civil_twilight.txt 2 206 1924 
+48 Civil_twilight.txt 1 2080 
+no Civil_twilight.txt 1 2152 
+drivers Civil_twilight.txt 1 709 
+when Civil_twilight.txt 32 60 108 159 183 203 490 514 708 723 727 750 797 814 833 852 877 911 1042 1111 1159 1185 1206 1245 1262 1281 1300 1449 1460 1792 1804 2725 2737 
+54.561 Civil_twilight.txt 1 2325 
+other Civil_twilight.txt 11 16 26 175 1059 1326 1431 1721 1779 2383 2449 2764 
+boon Civil_twilight.txt 1 2673 
+becomes Civil_twilight.txt 2 201 213 
+dimmer Civil_twilight.txt 1 172 
+asurasandhya Civil_twilight.txt 1 2633 
+avatars Civil_twilight.txt 1 2648 
+manhattan Civil_twilight.txt 1 91 
+polar Civil_twilight.txt 7 1741 1784 2218 2248 2256 2283 2421 
+star Civil_twilight.txt 4 458 656 659 1031 
+includes Civil_twilight.txt 1 1786 
+regulations Civil_twilight.txt 1 775 
+solstices Civil_twilight.txt 1 1529 
+important Civil_twilight.txt 2 2719 2785 
+earthly Civil_twilight.txt 1 2202 
+vigil Civil_twilight.txt 3 2516 2521 2540 
+desert Civil_twilight.txt 4 417 430 444 456 
+exposure Civil_twilight.txt 3 419 432 446 
+longer Civil_twilight.txt 2 2027 2456 
+daily Civil_twilight.txt 1 1788 
+moonlight Civil_twilight.txt 1 1323 
+declination Civil_twilight.txt 1 1807 
+mass Civil_twilight.txt 1 2517 
+almanac Civil_twilight.txt 1 785 
+time Civil_twilight.txt 14 11 35 158 348 719 779 1940 2050 2085 2215 2606 2626 2748 2758 
+far Civil_twilight.txt 2 1797 2395 
+equinoxes Civil_twilight.txt 1 2245 

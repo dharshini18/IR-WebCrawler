@@ -1,0 +1,815 @@
+limited Far_side_of_the_Moon.txt 1 1005 
+all Far_side_of_the_Moon.txt 2 1553 1570 
+code Far_side_of_the_Moon.txt 1 2170 
+caused Far_side_of_the_Moon.txt 2 710 1410 
+lack Far_side_of_the_Moon.txt 2 131 1735 
+results Far_side_of_the_Moon.txt 1 848 
+astronauts Far_side_of_the_Moon.txt 3 187 1714 2143 
+existing Far_side_of_the_Moon.txt 1 1691 
+alien Far_side_of_the_Moon.txt 1 2168 
+spacecraft Far_side_of_the_Moon.txt 4 388 495 1447 1593 
+consists Far_side_of_the_Moon.txt 1 906 
+settlement Far_side_of_the_Moon.txt 1 2109 
+transits Far_side_of_the_Moon.txt 1 529 
+equipment Far_side_of_the_Moon.txt 1 1903 
+zond Far_side_of_the_Moon.txt 2 1263 1335 
+producing Far_side_of_the_Moon.txt 1 1636 
+send Far_side_of_the_Moon.txt 2 387 1995 
+crater Far_side_of_the_Moon.txt 5 739 1035 1678 1846 1883 
+to Far_side_of_the_Moon.txt 42 146 192 202 257 306 368 386 402 410 486 489 604 619 732 769 1032 1057 1157 1448 1459 1492 1609 1654 1666 1694 1708 1749 1832 1866 1888 1989 1999 2073 2157 2180 2192 2225 2310 2331 2352 2368 2389 
+finally Far_side_of_the_Moon.txt 1 1927 
+basaltic Far_side_of_the_Moon.txt 1 954 
+under Far_side_of_the_Moon.txt 1 1992 
+atlas Far_side_of_the_Moon.txt 3 174 1197 1319 
+must Far_side_of_the_Moon.txt 3 1894 1916 1933 
+updated Far_side_of_the_Moon.txt 1 1368 
+shielding Far_side_of_the_Moon.txt 1 788 
+returned Far_side_of_the_Moon.txt 2 974 2038 
+far Far_side_of_the_Moon.txt 50 0 11 26 36 64 114 138 177 215 230 289 300 332 419 455 475 502 541 579 597 760 859 925 967 980 994 1015 1048 1064 1148 1175 1200 1275 1322 1349 1395 1451 1476 1500 1515 1670 1757 1793 1855 1890 1959 2068 2149 2252 2257 
+lro Far_side_of_the_Moon.txt 1 526 
+earthmoon Far_side_of_the_Moon.txt 1 1948 
+affect Far_side_of_the_Moon.txt 1 656 
+difference Far_side_of_the_Moon.txt 1 616 
+arecibo Far_side_of_the_Moon.txt 1 1833 
+elevations Far_side_of_the_Moon.txt 1 674 
+aggressively Far_side_of_the_Moon.txt 1 1660 
+targeting Far_side_of_the_Moon.txt 1 1675 
+did Far_side_of_the_Moon.txt 1 1143 
+fewer Far_side_of_the_Moon.txt 2 850 888 
+large Far_side_of_the_Moon.txt 3 225 559 2195 
+julius Far_side_of_the_Moon.txt 1 1101 
+sand Far_side_of_the_Moon.txt 1 1542 
+race Far_side_of_the_Moon.txt 1 2382 
+schmitts Far_side_of_the_Moon.txt 1 1680 
+small Far_side_of_the_Moon.txt 1 1820 
+speculation Far_side_of_the_Moon.txt 1 1059 
+astronaut Far_side_of_the_Moon.txt 1 1531 
+1:10 Far_side_of_the_Moon.txt 1 1371 
+added Far_side_of_the_Moon.txt 1 1732 
+the Far_side_of_the_Moon.txt 262 3 7 14 24 29 35 39 45 49 52 55 63 85 89 92 100 113 119 123 137 148 156 166 172 176 183 189 200 211 214 218 229 233 254 258 261 267 273 283 288 292 299 313 328 331 335 345 357 363 372 390 405 416 431 434 442 451 454 473 478 481 490 501 505 522 527 531 536 545 553 565 578 593 596 607 627 639 665 672 676 692 701 704 723 729 753 756 759 774 791 796 810 815 819 826 835 844 854 858 863 869 878 880 883 896 899 903 921 923 942 948 958 966 971 979 983 986 993 997 1001 1010 1014 1040 1044 1047 1074 1106 1110 1115 1125 1147 1154 1163 1169 1173 1184 1188 1190 1195 1199 1203 1208 1226 1231 1243 1248 1273 1309 1314 1318 1321 1325 1338 1347 1353 1356 1361 1379 1385 1394 1414 1426 1445 1450 1454 1466 1475 1481 1496 1499 1505 1509 1514 1525 1535 1537 1574 1596 1605 1612 1617 1620 1624 1630 1634 1644 1652 1657 1669 1673 1676 1690 1703 1713 1729 1738 1751 1755 1762 1781 1784 1792 1796 1804 1841 1851 1854 1858 1881 1889 1897 1908 1913 1922 1928 1931 1942 1947 1958 1981 1986 1990 2000 2004 2021 2032 2048 2051 2054 2061 2065 2067 2075 2081 2084 2092 2112 2148 2152 2183 2189 2198 2207 2221 2232 2236 2240 2243 2251 2255 2259 2286 2295 2304 2316 2321 2325 2337 2357 2360 2372 2380 
+smaller Far_side_of_the_Moon.txt 1 716 
+force Far_side_of_the_Moon.txt 2 2022 2350 
+consistent Far_side_of_the_Moon.txt 1 751 
+volcanically Far_side_of_the_Moon.txt 1 686 
+slowed Far_side_of_the_Moon.txt 1 252 
+spectrograph Far_side_of_the_Moon.txt 1 1772 
+situated Far_side_of_the_Moon.txt 1 1849 
+even Far_side_of_the_Moon.txt 3 861 1093 2174 
+material Far_side_of_the_Moon.txt 1 2116 
+stood Far_side_of_the_Moon.txt 1 209 
+sun Far_side_of_the_Moon.txt 1 432 
+selected Far_side_of_the_Moon.txt 1 1405 
+crust Far_side_of_the_Moon.txt 4 682 905 938 950 
+while Far_side_of_the_Moon.txt 3 398 499 644 
+thickness Far_side_of_the_Moon.txt 2 653 747 
+experiment Far_side_of_the_Moon.txt 1 2322 
+above Far_side_of_the_Moon.txt 1 1957 
+scientists Far_side_of_the_Moon.txt 1 1404 
+international Far_side_of_the_Moon.txt 1 1415 
+ever Far_side_of_the_Moon.txt 1 208 
+multitude Far_side_of_the_Moon.txt 1 71 
+can Far_side_of_the_Moon.txt 4 302 496 1068 1901 
+condensed Far_side_of_the_Moon.txt 1 915 
+full Far_side_of_the_Moon.txt 2 355 466 
+led Far_side_of_the_Moon.txt 1 731 
+never Far_side_of_the_Moon.txt 2 280 395 
+here Far_side_of_the_Moon.txt 1 951 
+hundreds Far_side_of_the_Moon.txt 1 1293 
+water Far_side_of_the_Moon.txt 1 577 
+ranger Far_side_of_the_Moon.txt 1 1440 
+helium-3 Far_side_of_the_Moon.txt 1 2079 
+china Far_side_of_the_Moon.txt 1 1739 
+kilometers Far_side_of_the_Moon.txt 2 1295 2017 
+active Far_side_of_the_Moon.txt 1 687 
+november Far_side_of_the_Moon.txt 1 1214 
+change Far_side_of_the_Moon.txt 1 1746 
+wait Far_side_of_the_Moon.txt 1 1610 
+obtained Far_side_of_the_Moon.txt 1 637 
+kids Far_side_of_the_Moon.txt 1 1545 
+receive Far_side_of_the_Moon.txt 1 421 
+study Far_side_of_the_Moon.txt 1 1993 
+tsiolkovskiy Far_side_of_the_Moon.txt 1 1679 
+bumps Far_side_of_the_Moon.txt 1 1562 
+commonly Far_side_of_the_Moon.txt 1 611 
+controversy Far_side_of_the_Moon.txt 1 1412 
+detonate Far_side_of_the_Moon.txt 1 2311 
+suggests Far_side_of_the_Moon.txt 1 876 
+survey Far_side_of_the_Moon.txt 1 1473 
+published Far_side_of_the_Moon.txt 3 171 1206 1328 
+geologist-astronaut Far_side_of_the_Moon.txt 1 1647 
+makes Far_side_of_the_Moon.txt 1 818 
+reactors Far_side_of_the_Moon.txt 1 2105 
+diameter Far_side_of_the_Moon.txt 1 1845 
+named Far_side_of_the_Moon.txt 2 1094 2171 
+useful Far_side_of_the_Moon.txt 2 325 1027 
+stray Far_side_of_the_Moon.txt 1 1868 
+aluminium Far_side_of_the_Moon.txt 1 912 
+visible Far_side_of_the_Moon.txt 9 142 281 317 338 544 764 852 1156 1305 
+names Far_side_of_the_Moon.txt 2 1406 1422 
+limb Far_side_of_the_Moon.txt 1 1012 
+total Far_side_of_the_Moon.txt 1 309 
+tools Far_side_of_the_Moon.txt 1 1776 
+heat-producing Far_side_of_the_Moon.txt 1 624 
+use Far_side_of_the_Moon.txt 2 1817 2099 
+from Far_side_of_the_Moon.txt 34 61 143 238 242 249 282 318 339 349 430 441 461 470 638 722 790 814 893 1022 1036 1153 1187 1242 1253 1283 1306 1334 1490 1800 1803 1870 2039 2060 2258 
+links Far_side_of_the_Moon.txt 1 2402 
+would Far_side_of_the_Moon.txt 8 235 945 961 1150 1864 1975 1994 2245 
+rico Far_side_of_the_Moon.txt 1 1836 
+contains Far_side_of_the_Moon.txt 1 671 
+two Far_side_of_the_Moon.txt 4 103 109 546 705 
+periodically Far_side_of_the_Moon.txt 1 1003 
+few Far_side_of_the_Moon.txt 2 77 588 
+program Far_side_of_the_Moon.txt 1 1486 
+therefore Far_side_of_the_Moon.txt 1 286 
+6 Far_side_of_the_Moon.txt 1 1215 
+until Far_side_of_the_Moon.txt 5 153 382 985 1098 1611 
+more Far_side_of_the_Moon.txt 1 763 
+flat Far_side_of_the_Moon.txt 1 78 
+lander Far_side_of_the_Moon.txt 2 1763 1998 
+conducting Far_side_of_the_Moon.txt 1 1909 
+site Far_side_of_the_Moon.txt 2 1665 2041 
+needed Far_side_of_the_Moon.txt 1 2370 
+particular Far_side_of_the_Moon.txt 1 1287 
+known Far_side_of_the_Moon.txt 3 43 444 991 
+encountered Far_side_of_the_Moon.txt 1 2175 
+95 Far_side_of_the_Moon.txt 1 1376 
+41,000 Far_side_of_the_Moon.txt 1 806 
+flares Far_side_of_the_Moon.txt 1 1926 
+word Far_side_of_the_Moon.txt 1 482 
+this Far_side_of_the_Moon.txt 16 194 392 401 615 727 766 817 1090 1409 1433 1789 2024 2040 2086 2115 2266 
+1:13 Far_side_of_the_Moon.txt 1 1234 
+der Far_side_of_the_Moon.txt 1 1104 
+when Far_side_of_the_Moon.txt 6 155 197 898 911 1117 1629 
+mi Far_side_of_the_Moon.txt 4 1088 1844 1956 2019 
+installing Far_side_of_the_Moon.txt 1 223 
+labeled Far_side_of_the_Moon.txt 1 1787 
+rim Far_side_of_the_Moon.txt 1 1863 
+thin Far_side_of_the_Moon.txt 1 681 
+believed Far_side_of_the_Moon.txt 1 2279 
+my Far_side_of_the_Moon.txt 1 1544 
+example Far_side_of_the_Moon.txt 3 512 1061 2284 
+battered Far_side_of_the_Moon.txt 1 583 
+control Far_side_of_the_Moon.txt 1 1642 
+impacts Far_side_of_the_Moon.txt 3 842 873 940 
+stated Far_side_of_the_Moon.txt 1 2214 
+cited Far_side_of_the_Moon.txt 1 2111 
+allowed Far_side_of_the_Moon.txt 2 1004 1614 
+sample Far_side_of_the_Moon.txt 1 2037 
+collision Far_side_of_the_Moon.txt 2 713 725 
+1,491 Far_side_of_the_Moon.txt 1 2018 
+numbers Far_side_of_the_Moon.txt 1 840 
+plagioclases Far_side_of_the_Moon.txt 1 909 
+analyzed Far_side_of_the_Moon.txt 1 2044 
+phrase Far_side_of_the_Moon.txt 1 359 
+spanning Far_side_of_the_Moon.txt 1 1083 
+risk Far_side_of_the_Moon.txt 1 1733 
+information Far_side_of_the_Moon.txt 1 2046 
+united Far_side_of_the_Moon.txt 2 2233 2361 
+rather Far_side_of_the_Moon.txt 4 129 377 736 785 
+feature Far_side_of_the_Moon.txt 2 1066 1097 
+1 Far_side_of_the_Moon.txt 1 591 
+maps Far_side_of_the_Moon.txt 1 636 
+occasionally Far_side_of_the_Moon.txt 2 141 337 
+astronomers Far_side_of_the_Moon.txt 4 220 567 1142 1819 
+mysteries Far_side_of_the_Moon.txt 1 2338 
+hoaxes Far_side_of_the_Moon.txt 1 2206 
+map Far_side_of_the_Moon.txt 1 1359 
+plans Far_side_of_the_Moon.txt 2 1727 1743 
+may Far_side_of_the_Moon.txt 2 707 749 
+after Far_side_of_the_Moon.txt 1 2371 
+containing Far_side_of_the_Moon.txt 1 1238 
+chiefs Far_side_of_the_Moon.txt 1 2219 
+mi-high Far_side_of_the_Moon.txt 1 1862 
+catalog Far_side_of_the_Moon.txt 2 1220 1339 
+newer Far_side_of_the_Moon.txt 1 874 
+oceanus Far_side_of_the_Moon.txt 1 689 
+date Far_side_of_the_Moon.txt 1 203 
+such Far_side_of_the_Moon.txt 1 647 
+revealed Far_side_of_the_Moon.txt 2 1289 2302 
+a Far_side_of_the_Moon.txt 49 70 224 465 582 620 680 712 715 738 741 771 787 823 936 1023 1034 1037 1063 1079 1096 1123 1219 1228 1541 1559 1684 1698 1768 1809 1824 1828 1877 1967 1970 1977 1996 2007 2013 2028 2036 2101 2118 2122 2194 2226 2312 2347 2363 2393 
+reappeared Far_side_of_the_Moon.txt 1 1646 
+highlands Far_side_of_the_Moon.txt 1 758 
+natural Far_side_of_the_Moon.txt 1 1825 
+moments Far_side_of_the_Moon.txt 1 1639 
+light Far_side_of_the_Moon.txt 3 133 375 428 
+aliens Far_side_of_the_Moon.txt 1 2176 
+provide Far_side_of_the_Moon.txt 1 1823 
+maintain Far_side_of_the_Moon.txt 1 1709 
+negligible Far_side_of_the_Moon.txt 1 821 
+american Far_side_of_the_Moon.txt 2 1482 2262 
+wind Far_side_of_the_Moon.txt 1 2063 
+operations Far_side_of_the_Moon.txt 1 1722 
+shield Far_side_of_the_Moon.txt 2 236 824 
+administration Far_side_of_the_Moon.txt 1 1742 
+over Far_side_of_the_Moon.txt 1 294 
+mission Far_side_of_the_Moon.txt 3 1528 1641 1748 
+own Far_side_of_the_Moon.txt 1 2308 
+through Far_side_of_the_Moon.txt 2 1071 1580 
+same Far_side_of_the_Moon.txt 3 262 870 1354 
+unobserved Far_side_of_the_Moon.txt 1 152 
+penetrate Far_side_of_the_Moon.txt 1 947 
+farquharlissajous Far_side_of_the_Moon.txt 1 1699 
+its Far_side_of_the_Moon.txt 4 540 1053 1552 1745 
+blocked Far_side_of_the_Moon.txt 1 498 
+sic Far_side_of_the_Moon.txt 1 864 
+26 Far_side_of_the_Moon.txt 1 1437 
+20 Far_side_of_the_Moon.txt 1 1258 
+located Far_side_of_the_Moon.txt 1 1951 
+accretionary Far_side_of_the_Moon.txt 1 734 
+presence Far_side_of_the_Moon.txt 1 2113 
+crew Far_side_of_the_Moon.txt 1 1571 
+late Far_side_of_the_Moon.txt 3 987 1760 2208 
+absence Far_side_of_the_Moon.txt 1 373 
+degrees Far_side_of_the_Moon.txt 2 803 808 
+2018 Far_side_of_the_Moon.txt 1 1761 
+covered Far_side_of_the_Moon.txt 2 556 600 
+weeks Far_side_of_the_Moon.txt 2 104 110 
+main Far_side_of_the_Moon.txt 1 1621 
+into Far_side_of_the_Moon.txt 2 1697 2031 
+overcome Far_side_of_the_Moon.txt 1 1896 
+them Far_side_of_the_Moon.txt 4 1179 1408 2161 2179 
+good Far_side_of_the_Moon.txt 3 1270 1810 2096 
+return Far_side_of_the_Moon.txt 1 1460 
+idiomatic Far_side_of_the_Moon.txt 1 358 
+largest Far_side_of_the_Moon.txt 1 86 
+sooner Far_side_of_the_Moon.txt 1 932 
+number Far_side_of_the_Moon.txt 1 871 
+transmissions Far_side_of_the_Moon.txt 1 1802 
+penetration Far_side_of_the_Moon.txt 1 2030 
+effects Far_side_of_the_Moon.txt 2 775 1923 
+they Far_side_of_the_Moon.txt 4 198 351 1288 2271 
+not Far_side_of_the_Moon.txt 7 366 449 662 684 1092 1144 2329 
+rotation Far_side_of_the_Moon.txt 1 256 
+now Far_side_of_the_Moon.txt 1 1340 
+1959 Far_side_of_the_Moon.txt 2 154 1162 
+halo Far_side_of_the_Moon.txt 1 1700 
+kilometres Far_side_of_the_Moon.txt 1 1086 
+edit Far_side_of_the_Moon.txt 8 246 514 970 1778 2130 2398 2400 2403 
+always Far_side_of_the_Moon.txt 2 58 265 
+62,800 Far_side_of_the_Moon.txt 1 1953 
+l Far_side_of_the_Moon.txt 1 1943 
+transmission Far_side_of_the_Moon.txt 1 1615 
+transmitted Far_side_of_the_Moon.txt 1 1265 
+25 Far_side_of_the_Moon.txt 1 1266 
+cratered Far_side_of_the_Moon.txt 1 585 
+each Far_side_of_the_Moon.txt 1 832 
+entirely Far_side_of_the_Moon.txt 1 543 
+difficult Far_side_of_the_Moon.txt 2 342 1031 
+side Far_side_of_the_Moon.txt 63 1 12 22 27 37 47 115 121 139 178 216 231 263 290 301 333 361 407 436 456 476 503 542 555 580 598 609 694 761 833 856 860 881 926 944 968 981 995 1016 1049 1065 1149 1155 1176 1201 1276 1323 1350 1396 1452 1477 1501 1516 1671 1758 1794 1856 1891 1960 2056 2069 2150 2253 
+square Far_side_of_the_Moon.txt 2 802 807 
+telescope Far_side_of_the_Moon.txt 4 227 1830 1879 1973 
+gamma-ray Far_side_of_the_Moon.txt 1 642 
+globe Far_side_of_the_Moon.txt 3 1124 1233 1370 
+related Far_side_of_the_Moon.txt 1 618 
+resolvable Far_side_of_the_Moon.txt 1 1180 
+resurfacing Far_side_of_the_Moon.txt 1 845 
+frequency Far_side_of_the_Moon.txt 1 1770 
+hemispheric Far_side_of_the_Moon.txt 1 742 
+expect Far_side_of_the_Moon.txt 1 1145 
+year Far_side_of_the_Moon.txt 2 1229 1355 
+82 Far_side_of_the_Moon.txt 2 150 1042 
+naming Far_side_of_the_Moon.txt 1 1429 
+event Far_side_of_the_Moon.txt 1 2010 
+special Far_side_of_the_Moon.txt 1 1685 
+out Far_side_of_the_Moon.txt 3 804 1599 2273 
+naked Far_side_of_the_Moon.txt 1 1310 
+funding Far_side_of_the_Moon.txt 1 1737 
+space Far_side_of_the_Moon.txt 8 162 509 1139 1401 1442 1741 1906 2381 
+robert Far_side_of_the_Moon.txt 1 2212 
+since Far_side_of_the_Moon.txt 2 564 1584 
+interference Far_side_of_the_Moon.txt 1 241 
+projected Far_side_of_the_Moon.txt 1 1121 
+research Far_side_of_the_Moon.txt 2 875 1775 
+7 Far_side_of_the_Moon.txt 1 1161 
+internet Far_side_of_the_Moon.txt 1 2190 
+newly Far_side_of_the_Moon.txt 1 1343 
+shielded Far_side_of_the_Moon.txt 3 1799 1920 2059 
+alleged Far_side_of_the_Moon.txt 2 2125 2139 
+state Far_side_of_the_Moon.txt 1 2287 
+confidence Far_side_of_the_Moon.txt 1 2355 
+little Far_side_of_the_Moon.txt 2 409 989 
+isotope Far_side_of_the_Moon.txt 1 2087 
+mapping Far_side_of_the_Moon.txt 1 1472 
+proponents Far_side_of_the_Moon.txt 1 2106 
+reason Far_side_of_the_Moon.txt 2 879 2119 
+base Far_side_of_the_Moon.txt 2 2124 2169 
+formation Far_side_of_the_Moon.txt 2 1826 2014 
+members Far_side_of_the_Moon.txt 1 1572 
+franz Far_side_of_the_Moon.txt 1 1102 
+earliest Far_side_of_the_Moon.txt 1 566 
+prospector Far_side_of_the_Moon.txt 1 641 
+definition Far_side_of_the_Moon.txt 2 245 1557 
+saha Far_side_of_the_Moon.txt 1 1882 
+created Far_side_of_the_Moon.txt 4 957 2012 2027 2328 
+backside Far_side_of_the_Moon.txt 1 1538 
+could Far_side_of_the_Moon.txt 2 654 2042 
+keep Far_side_of_the_Moon.txt 1 2158 
+length Far_side_of_the_Moon.txt 1 1297 
+hindering Far_side_of_the_Moon.txt 1 1026 
+unmanned Far_side_of_the_Moon.txt 1 1483 
+castle Far_side_of_the_Moon.txt 1 2196 
+secretary Far_side_of_the_Moon.txt 1 2209 
+onto Far_side_of_the_Moon.txt 2 1122 1656 
+think Far_side_of_the_Moon.txt 1 403 
+south Far_side_of_the_Moon.txt 3 93 667 2001 
+first Far_side_of_the_Moon.txt 11 173 190 972 1170 1196 1232 1357 1446 1467 1518 1752 
+major Far_side_of_the_Moon.txt 1 2008 
+features Far_side_of_the_Moon.txt 8 1008 1018 1224 1240 1345 1392 1431 1782 
+purport Far_side_of_the_Moon.txt 1 2191 
+reflected Far_side_of_the_Moon.txt 1 440 
+one Far_side_of_the_Moon.txt 4 83 321 610 1984 
+directly Far_side_of_the_Moon.txt 3 196 429 1520 
+spectrometer Far_side_of_the_Moon.txt 1 643 
+quality Far_side_of_the_Moon.txt 1 1271 
+theia Far_side_of_the_Moon.txt 1 724 
+officials Far_side_of_the_Moon.txt 2 2218 2293 
+service Far_side_of_the_Moon.txt 1 1625 
+their Far_side_of_the_Moon.txt 3 1716 2275 2307 
+unknown Far_side_of_the_Moon.txt 2 381 1051 
+system Far_side_of_the_Moon.txt 2 91 1949 
+unspecified Far_side_of_the_Moon.txt 1 2217 
+plains Far_side_of_the_Moon.txt 2 572 1302 
+2 Far_side_of_the_Moon.txt 1 1861 
+observations Far_side_of_the_Moon.txt 1 2260 
+final Far_side_of_the_Moon.txt 1 1506 
+eyes Far_side_of_the_Moon.txt 1 1523 
+allegedly Far_side_of_the_Moon.txt 1 2164 
+that Far_side_of_the_Moon.txt 23 57 404 492 570 700 719 748 795 831 877 956 1067 1146 1585 2011 2140 2202 2215 2242 2270 2280 2303 2365 
+terrain Far_side_of_the_Moon.txt 1 66 
+explanation Far_side_of_the_Moon.txt 1 613 
+circulated Far_side_of_the_Moon.txt 1 2187 
+took Far_side_of_the_Moon.txt 2 1168 2375 
+rejected Far_side_of_the_Moon.txt 1 1725 
+direct Far_side_of_the_Moon.txt 1 1601 
+released Far_side_of_the_Moon.txt 2 1246 1383 
+rectified Far_side_of_the_Moon.txt 1 1118 
+part Far_side_of_the_Moon.txt 2 1316 2319 
+module Far_side_of_the_Moon.txt 1 1626 
+july Far_side_of_the_Moon.txt 1 1257 
+than Far_side_of_the_Moon.txt 5 130 737 786 857 1281 
+center Far_side_of_the_Moon.txt 1 1852 
+unexpectedly Far_side_of_the_Moon.txt 1 1299 
+rugged Far_side_of_the_Moon.txt 1 68 
+showed Far_side_of_the_Moon.txt 1 978 
+16 Far_side_of_the_Moon.txt 1 34 
+18 Far_side_of_the_Moon.txt 1 135 
+likely Far_side_of_the_Moon.txt 1 830 
+project Far_side_of_the_Moon.txt 3 2323 2326 2395 
+states Far_side_of_the_Moon.txt 3 2201 2234 2362 
+protected Far_side_of_the_Moon.txt 1 1935 
+were Far_side_of_the_Moon.txt 14 188 384 573 1020 1055 1120 1192 1382 1397 1598 2155 2223 2272 2385 
+distinguished Far_side_of_the_Moon.txt 1 1223 
+1:5 Far_side_of_the_Moon.txt 1 1363 
+are Far_side_of_the_Moon.txt 3 1786 2071 2205 
+and Far_side_of_the_Moon.txt 31 75 418 651 678 746 782 913 916 933 952 1052 1194 1367 1413 1470 1563 1577 1587 1607 1719 1734 1773 1857 1905 2035 2128 2173 2235 2269 2342 2383 
+minds Far_side_of_the_Moon.txt 1 2276 
+remained Far_side_of_the_Moon.txt 2 151 1050 
+categories Far_side_of_the_Moon.txt 2 2404 2406 
+mind Far_side_of_the_Moon.txt 1 2289 
+lava-filled Far_side_of_the_Moon.txt 1 1677 
+conspiracy Far_side_of_the_Moon.txt 1 2132 
+have Far_side_of_the_Moon.txt 10 221 251 548 708 867 1546 2074 2110 2138 2163 
+seen Far_side_of_the_Moon.txt 10 304 397 460 534 813 1021 1070 1519 1568 2145 
+concentration Far_side_of_the_Moon.txt 2 622 2077 
+ufo Far_side_of_the_Moon.txt 1 2126 
+any Far_side_of_the_Moon.txt 1 1461 
+viewed Far_side_of_the_Moon.txt 1 469 
+relatively Far_side_of_the_Moon.txt 2 76 2089 
+mountain Far_side_of_the_Moon.txt 1 1038 
+1968 Far_side_of_the_Moon.txt 2 182 1530 
+dishes Far_side_of_the_Moon.txt 1 1915 
+1965 Far_side_of_the_Moon.txt 1 1259 
+1966 Far_side_of_the_Moon.txt 1 1491 
+1967 Far_side_of_the_Moon.txt 3 1137 1313 1493 
+1960 Far_side_of_the_Moon.txt 2 180 1216 
+1962 Far_side_of_the_Moon.txt 1 1438 
+also Far_side_of_the_Moon.txt 10 437 487 516 655 697 720 1917 1963 2345 2397 
+potential Far_side_of_the_Moon.txt 3 1777 1874 2097 
+which Far_side_of_the_Moon.txt 7 278 457 670 780 1077 1961 1974 
+academy Far_side_of_the_Moon.txt 2 168 1210 
+interior Far_side_of_the_Moon.txt 1 2049 
+so Far_side_of_the_Moon.txt 3 934 964 1706 
+moscow Far_side_of_the_Moon.txt 1 1330 
+silicates Far_side_of_the_Moon.txt 1 919 
+ironically Far_side_of_the_Moon.txt 1 2298 
+experienced Far_side_of_the_Moon.txt 1 927 
+multiple Far_side_of_the_Moon.txt 2 558 1590 
+though Far_side_of_the_Moon.txt 1 862 
+who Far_side_of_the_Moon.txt 3 1650 2177 2384 
+reach Far_side_of_the_Moon.txt 1 450 
+most Far_side_of_the_Moon.txt 2 276 1494 
+nasas Far_side_of_the_Moon.txt 1 1439 
+glimpses Far_side_of_the_Moon.txt 1 1006 
+landing Far_side_of_the_Moon.txt 2 1664 1753 
+claims Far_side_of_the_Moon.txt 1 2204 
+why Far_side_of_the_Moon.txt 1 664 
+maria Far_side_of_the_Moon.txt 6 80 560 589 602 959 2070 
+observation Far_side_of_the_Moon.txt 2 326 1028 
+considered Far_side_of_the_Moon.txt 2 1808 2265 
+average Far_side_of_the_Moon.txt 1 423 
+sometimes Far_side_of_the_Moon.txt 3 41 117 946 
+cover Far_side_of_the_Moon.txt 1 781 
+heat Far_side_of_the_Moon.txt 1 892 
+km Far_side_of_the_Moon.txt 2 1860 1954 
+face Far_side_of_the_Moon.txt 1 275 
+1,000 Far_side_of_the_Moon.txt 1 1085 
+sources Far_side_of_the_Moon.txt 1 1941 
+absurd Far_side_of_the_Moon.txt 1 2268 
+nuclear Far_side_of_the_Moon.txt 3 2227 2247 2313 
+calculates Far_side_of_the_Moon.txt 1 794 
+fact Far_side_of_the_Moon.txt 1 491 
+planetary Far_side_of_the_Moon.txt 1 2340 
+telescopes Far_side_of_the_Moon.txt 4 1815 1840 1887 1932 
+phenomenon Far_side_of_the_Moon.txt 1 269 
+show Far_side_of_the_Moon.txt 2 2193 2348 
+probe Far_side_of_the_Moon.txt 5 163 1165 1262 1443 1507 
+discovered Far_side_of_the_Moon.txt 3 1113 1344 1398 
+radio Far_side_of_the_Moon.txt 11 226 240 1602 1771 1801 1814 1878 1886 1914 1940 1972 
+carefully Far_side_of_the_Moon.txt 1 1919 
+earth Far_side_of_the_Moon.txt 25 62 144 243 250 284 319 340 350 443 462 471 532 792 797 820 886 894 1158 1189 1244 1307 1606 1805 2066 2093 
+soviets Far_side_of_the_Moon.txt 1 2244 
+fine Far_side_of_the_Moon.txt 2 1130 1898 
+thicker Far_side_of_the_Moon.txt 1 937 
+geography Far_side_of_the_Moon.txt 1 1785 
+impact Far_side_of_the_Moon.txt 8 73 730 889 1081 1449 1465 2009 2025 
+highest Far_side_of_the_Moon.txt 1 2076 
+based Far_side_of_the_Moon.txt 3 1250 1331 1688 
+just Far_side_of_the_Moon.txt 1 1558 
+true Far_side_of_the_Moon.txt 1 1107 
+explain Far_side_of_the_Moon.txt 1 663 
+behind Far_side_of_the_Moon.txt 2 1595 1633 
+failed Far_side_of_the_Moon.txt 1 1458 
+only Far_side_of_the_Moon.txt 4 463 590 799 2330 
+equipped Far_side_of_the_Moon.txt 1 1766 
+fuel Far_side_of_the_Moon.txt 1 2102 
+8 Far_side_of_the_Moon.txt 3 185 1527 1576 
+milton Far_side_of_the_Moon.txt 1 2135 
+astronomical Far_side_of_the_Moon.txt 1 1416 
+achieve Far_side_of_the_Moon.txt 1 1750 
+photographs Far_side_of_the_Moon.txt 2 1171 2186 
+do Far_side_of_the_Moon.txt 2 661 963 
+his Far_side_of_the_Moon.txt 1 1663 
+10 Far_side_of_the_Moon.txt 1 1579 
+beat Far_side_of_the_Moon.txt 1 1554 
+between Far_side_of_the_Moon.txt 2 703 2231 
+truly Far_side_of_the_Moon.txt 1 1468 
+line-of-sight Far_side_of_the_Moon.txt 1 1710 
+cannot Far_side_of_the_Moon.txt 2 352 458 
+nearly Far_side_of_the_Moon.txt 1 2015 
+distinctly Far_side_of_the_Moon.txt 1 549 
+during Far_side_of_the_Moon.txt 6 464 507 1524 1616 1715 2294 
+near-side Far_side_of_the_Moon.txt 1 628 
+17 Far_side_of_the_Moon.txt 1 1582 
+covering Far_side_of_the_Moon.txt 1 1181 
+larger-scale Far_side_of_the_Moon.txt 1 1839 
+boost Far_side_of_the_Moon.txt 2 2353 2364 
+bowl-shaped Far_side_of_the_Moon.txt 1 1821 
+answering Far_side_of_the_Moon.txt 1 2334 
+hemispheres Far_side_of_the_Moon.txt 2 547 706 
+erupt Far_side_of_the_Moon.txt 1 659 
+forces Far_side_of_the_Moon.txt 1 248 
+release Far_side_of_the_Moon.txt 1 953 
+including Far_side_of_the_Moon.txt 1 1341 
+obscure Far_side_of_the_Moon.txt 1 783 
+told Far_side_of_the_Moon.txt 2 2156 2178 
+where Far_side_of_the_Moon.txt 3 232 260 657 
+view Far_side_of_the_Moon.txt 3 193 520 1536 
+harrison Far_side_of_the_Moon.txt 1 1648 
+seas Far_side_of_the_Moon.txt 2 563 574 
+national Far_side_of_the_Moon.txt 1 1740 
+testing Far_side_of_the_Moon.txt 1 2249 
+humans Far_side_of_the_Moon.txt 2 191 383 
+1960s Far_side_of_the_Moon.txt 1 1116 
+observed Far_side_of_the_Moon.txt 1 354 
+see Far_side_of_the_Moon.txt 4 10 20 515 2396 
+defense Far_side_of_the_Moon.txt 1 2211 
+result Far_side_of_the_Moon.txt 1 772 
+procellarum Far_side_of_the_Moon.txt 1 690 
+cold Far_side_of_the_Moon.txt 1 2296 
+deploying Far_side_of_the_Moon.txt 1 1885 
+subject Far_side_of_the_Moon.txt 1 1056 
+pictures Far_side_of_the_Moon.txt 1 1267 
+away Far_side_of_the_Moon.txt 1 60 
+wikipedia Far_side_of_the_Moon.txt 1 5 
+materials Far_side_of_the_Moon.txt 1 1910 
+weapons Far_side_of_the_Moon.txt 1 2248 
+3 Far_side_of_the_Moon.txt 8 161 977 1167 1255 1264 1285 1336 1859 
+future Far_side_of_the_Moon.txt 1 1971 
+moons Far_side_of_the_Moon.txt 2 255 314 
+orbiting Far_side_of_the_Moon.txt 1 1871 
+exploration Far_side_of_the_Moon.txt 2 969 1140 
+before Far_side_of_the_Moon.txt 4 1138 1464 1643 1884 
+across Far_side_of_the_Moon.txt 2 530 2020 
+latin Far_side_of_the_Moon.txt 1 561 
+nature Far_side_of_the_Moon.txt 1 1108 
+originated Far_side_of_the_Moon.txt 1 721 
+however Far_side_of_the_Moon.txt 2 433 1019 
+craters Far_side_of_the_Moon.txt 8 74 87 765 784 851 890 1292 1822 
+densely Far_side_of_the_Moon.txt 1 584 
+basalts Far_side_of_the_Moon.txt 1 658 
+extent Far_side_of_the_Moon.txt 1 745 
+contamination Far_side_of_the_Moon.txt 1 1937 
+distinguish Far_side_of_the_Moon.txt 1 1033 
+suggested Far_side_of_the_Moon.txt 1 222 
+both Far_side_of_the_Moon.txt 3 97 415 865 
+mond Far_side_of_the_Moon.txt 1 1105 
+last Far_side_of_the_Moon.txt 1 1653 
+missions Far_side_of_the_Moon.txt 5 186 510 1583 1619 1988 
+39,000 Far_side_of_the_Moon.txt 1 1955 
+reported Far_side_of_the_Moon.txt 1 2165 
+many Far_side_of_the_Moon.txt 3 399 1389 1419 
+region Far_side_of_the_Moon.txt 1 195 
+equal Far_side_of_the_Moon.txt 2 425 839 
+against Far_side_of_the_Moon.txt 2 1921 1936 
+dscovr Far_side_of_the_Moon.txt 1 537 
+april Far_side_of_the_Moon.txt 1 1436 
+s Far_side_of_the_Moon.txt 1 159 
+became Far_side_of_the_Moon.txt 2 1444 1651 
+receives Far_side_of_the_Moon.txt 2 408 438 
+faces Far_side_of_the_Moon.txt 1 59 
+geochemical Far_side_of_the_Moon.txt 1 635 
+passing Far_side_of_the_Moon.txt 1 1594 
+whole Far_side_of_the_Moon.txt 1 474 
+grounds Far_side_of_the_Moon.txt 1 1730 
+vehicles Far_side_of_the_Moon.txt 1 1904 
+premise Far_side_of_the_Moon.txt 2 2241 2267 
+point Far_side_of_the_Moon.txt 4 259 1705 1945 1983 
+sky Far_side_of_the_Moon.txt 1 811 
+invisible Far_side_of_the_Moon.txt 2 1186 1241 
+62 Far_side_of_the_Moon.txt 1 1843 
+french-canadian Far_side_of_the_Moon.txt 1 8 
+lagrange Far_side_of_the_Moon.txt 1 1944 
+vessel Far_side_of_the_Moon.txt 1 1631 
+mare Far_side_of_the_Moon.txt 3 518 1075 1301 
+described Far_side_of_the_Moon.txt 1 1534 
+second Far_side_of_the_Moon.txt 1 1315 
+powered Far_side_of_the_Moon.txt 1 1717 
+union Far_side_of_the_Moon.txt 5 158 1387 1417 2238 2374 
+help Far_side_of_the_Moon.txt 2 1865 2332 
+due Far_side_of_the_Moon.txt 2 145 305 
+been Far_side_of_the_Moon.txt 6 396 632 698 709 1567 1964 
+much Far_side_of_the_Moon.txt 3 1058 1278 1838 
+combined Far_side_of_the_Moon.txt 1 917 
+expected Far_side_of_the_Moon.txt 1 2072 
+basin Far_side_of_the_Moon.txt 6 95 669 1082 1111 1126 2003 
+ufos Far_side_of_the_Moon.txt 1 2146 
+500 Far_side_of_the_Moon.txt 1 1222 
+location Far_side_of_the_Moon.txt 3 1811 1968 2005 
+engine Far_side_of_the_Moon.txt 1 1622 
+partly Far_side_of_the_Moon.txt 1 2058 
+1950s Far_side_of_the_Moon.txt 1 988 
+received Far_side_of_the_Moon.txt 2 838 868 
+farside Far_side_of_the_Moon.txt 2 666 757 
+concerning Far_side_of_the_Moon.txt 1 2047 
+formed Far_side_of_the_Moon.txt 3 902 910 935 
+2,400 Far_side_of_the_Moon.txt 1 2016 
+observers Far_side_of_the_Moon.txt 1 2263 
+craft Far_side_of_the_Moon.txt 1 1645 
+tense Far_side_of_the_Moon.txt 1 1638 
+external Far_side_of_the_Moon.txt 1 2401 
+puerto Far_side_of_the_Moon.txt 1 1835 
+hidden Far_side_of_the_Moon.txt 1 2405 
+those Far_side_of_the_Moon.txt 3 1282 1304 1421 
+developing Far_side_of_the_Moon.txt 1 2121 
+these Far_side_of_the_Moon.txt 6 571 660 930 1017 1726 2203 
+expanded Far_side_of_the_Moon.txt 1 485 
+appearance Far_side_of_the_Moon.txt 1 586 
+will Far_side_of_the_Moon.txt 1 1764 
+calcium Far_side_of_the_Moon.txt 1 914 
+near Far_side_of_the_Moon.txt 10 417 435 554 608 693 855 943 1009 1850 2055 
+reconnaissance Far_side_of_the_Moon.txt 1 524 
+earth--a Far_side_of_the_Moon.txt 1 268 
+launched Far_side_of_the_Moon.txt 2 1487 1696 
+layer Far_side_of_the_Moon.txt 1 743 
+played Far_side_of_the_Moon.txt 1 1547 
+almost Far_side_of_the_Moon.txt 2 424 1084 
+is Far_side_of_the_Moon.txt 23 51 67 116 140 264 279 285 316 341 472 599 617 829 891 1073 1078 1798 1807 1848 1880 1950 2057 2088 
+it Far_side_of_the_Moon.txt 12 81 165 237 695 828 1029 1217 1457 1565 1806 2281 2299 
+surface Far_side_of_the_Moon.txt 10 212 315 594 649 1045 1185 1381 1721 2034 2082 
+quiet Far_side_of_the_Moon.txt 1 2159 
+meteoroid Far_side_of_the_Moon.txt 1 939 
+eighteen Far_side_of_the_Moon.txt 1 1177 
+properties Far_side_of_the_Moon.txt 1 1054 
+experience Far_side_of_the_Moon.txt 1 102 
+in Far_side_of_the_Moon.txt 34 88 179 181 308 371 380 413 557 726 849 920 1103 1114 1129 1136 1247 1286 1296 1312 1329 1352 1384 1508 1529 1548 1640 1759 1788 1834 2103 2333 2339 2356 2379 
+leaving Far_side_of_the_Moon.txt 1 1418 
+different Far_side_of_the_Moon.txt 2 550 1152 
+descent Far_side_of_the_Moon.txt 1 1718 
+perform Far_side_of_the_Moon.txt 1 1976 
+began Far_side_of_the_Moon.txt 1 1141 
+locking Far_side_of_the_Moon.txt 1 272 
+lava Far_side_of_the_Moon.txt 3 778 847 955 
+data Far_side_of_the_Moon.txt 2 1333 1463 
+another Far_side_of_the_Moon.txt 3 324 1260 1873 
+parts Far_side_of_the_Moon.txt 2 297 329 
+lissajous Far_side_of_the_Moon.txt 1 1978 
+contents Far_side_of_the_Moon.txt 1 244 
+contaminate Far_side_of_the_Moon.txt 1 1902 
+incorrectly Far_side_of_the_Moon.txt 1 568 
+several Far_side_of_the_Moon.txt 2 1892 2216 
+higher Far_side_of_the_Moon.txt 1 621 
+satellite Far_side_of_the_Moon.txt 2 538 1687 
+used Far_side_of_the_Moon.txt 1 1911 
+comprehensive Far_side_of_the_Moon.txt 1 1469 
+appearances Far_side_of_the_Moon.txt 1 551 
+effect Far_side_of_the_Moon.txt 1 789 
+flows Far_side_of_the_Moon.txt 1 779 
+companion Far_side_of_the_Moon.txt 1 717 
+viewing Far_side_of_the_Moon.txt 1 347 
+000 Far_side_of_the_Moon.txt 5 1236 1364 1365 1372 1373 
+uses Far_side_of_the_Moon.txt 1 19 
+misconstrue Far_side_of_the_Moon.txt 1 400 
+intended Far_side_of_the_Moon.txt 1 2351 
+dust Far_side_of_the_Moon.txt 1 1900 
+angle Far_side_of_the_Moon.txt 2 348 1025 
+early Far_side_of_the_Moon.txt 1 2377 
+off Far_side_of_the_Moon.txt 1 2182 
+crustal Far_side_of_the_Moon.txt 1 652 
+weapon Far_side_of_the_Moon.txt 1 2314 
+thought Far_side_of_the_Moon.txt 4 569 768 2367 2386 
+contact Far_side_of_the_Moon.txt 1 1711 
+very Far_side_of_the_Moon.txt 1 1269 
+undertaken Far_side_of_the_Moon.txt 1 1479 
+model Far_side_of_the_Moon.txt 1 728 
+soviet Far_side_of_the_Moon.txt 9 157 167 1164 1261 1386 1400 1403 2237 2373 
+possesses Far_side_of_the_Moon.txt 1 679 
+lagrangian Far_side_of_the_Moon.txt 1 1982 
+proposed Far_side_of_the_Moon.txt 2 699 1965 
+being Far_side_of_the_Moon.txt 1 206 
+able Far_side_of_the_Moon.txt 1 385 
+domestic Far_side_of_the_Moon.txt 1 2354 
+tiros Far_side_of_the_Moon.txt 1 1692 
+satellites Far_side_of_the_Moon.txt 2 1693 1872 
+librations Far_side_of_the_Moon.txt 1 999 
+human Far_side_of_the_Moon.txt 2 205 1522 
+anders Far_side_of_the_Moon.txt 1 1533 
+followed Far_side_of_the_Moon.txt 1 107 
+yet Far_side_of_the_Moon.txt 1 1089 
+ban Far_side_of_the_Moon.txt 1 2229 
+candidate Far_side_of_the_Moon.txt 1 1875 
+sciences Far_side_of_the_Moon.txt 2 170 1212 
+had Far_side_of_the_Moon.txt 5 394 1608 1659 2144 2306 
+geological Far_side_of_the_Moon.txt 1 1774 
+astrogeology Far_side_of_the_Moon.txt 1 2343 
+mcnamara Far_side_of_the_Moon.txt 2 2213 2264 
+pile Far_side_of_the_Moon.txt 2 735 1543 
+4 Far_side_of_the_Moon.txt 4 801 1135 1441 1747 
+eye Far_side_of_the_Moon.txt 1 1311 
+5 Far_side_of_the_Moon.txt 1 1513 
+has Far_side_of_the_Moon.txt 13 82 207 484 581 631 696 762 837 887 1566 1962 2026 2095 
+remaining Far_side_of_the_Moon.txt 2 149 1041 
+photographed Far_side_of_the_Moon.txt 4 31 164 1128 1588 
+elevation Far_side_of_the_Moon.txt 1 650 
+around Far_side_of_the_Moon.txt 3 389 1702 1930 
+landscape Far_side_of_the_Moon.txt 3 1227 1351 1391 
+looks Far_side_of_the_Moon.txt 1 1539 
+possible Far_side_of_the_Moon.txt 1 239 
+dark Far_side_of_the_Moon.txt 10 21 46 120 126 360 369 378 406 480 483 
+fusion Far_side_of_the_Moon.txt 1 2104 
+unseen Far_side_of_the_Moon.txt 1 128 
+accepted Far_side_of_the_Moon.txt 1 612 
+prominent Far_side_of_the_Moon.txt 2 1080 1390 
+59 Far_side_of_the_Moon.txt 1 310 
+like Far_side_of_the_Moon.txt 2 1303 1540 
+cooler Far_side_of_the_Moon.txt 1 924 
+astro-capabilities Far_side_of_the_Moon.txt 1 2358 
+schmitt Far_side_of_the_Moon.txt 1 1649 
+facing Far_side_of_the_Moon.txt 2 266 885 
+communications Far_side_of_the_Moon.txt 2 1686 1869 
+continue Far_side_of_the_Moon.txt 1 2246 
+night Far_side_of_the_Moon.txt 1 112 
+stationary Far_side_of_the_Moon.txt 1 1829 
+because Far_side_of_the_Moon.txt 3 343 1791 2053 
+theorists Far_side_of_the_Moon.txt 1 2133 
+some Far_side_of_the_Moon.txt 12 296 1411 1550 1637 1779 2131 2141 2162 2185 2291 2335 2388 
+1906 Far_side_of_the_Moon.txt 1 1099 
+earthshine Far_side_of_the_Moon.txt 2 446 447 
+images Far_side_of_the_Moon.txt 3 1119 1191 1252 
+intact Far_side_of_the_Moon.txt 1 1423 
+conspiracies Far_side_of_the_Moon.txt 1 2129 
+provided Far_side_of_the_Moon.txt 1 1503 
+orbiter Far_side_of_the_Moon.txt 4 525 1134 1485 1512 
+rarely Far_side_of_the_Moon.txt 1 962 
+cooper Far_side_of_the_Moon.txt 1 2137 
+dimensions Far_side_of_the_Moon.txt 1 754 
+for Far_side_of_the_Moon.txt 20 6 17 511 562 614 825 1407 1549 1662 1744 1812 1816 1827 1837 1876 1912 1969 2045 2098 2120 
+moon Far_side_of_the_Moon.txt 48 4 15 25 30 40 50 56 101 124 201 219 234 293 336 364 391 467 479 506 528 677 718 816 827 836 884 900 984 998 1002 1204 1326 1362 1455 1597 1635 1658 1674 1797 1991 2052 2085 2123 2153 2184 2199 2256 2317 
+contributing Far_side_of_the_Moon.txt 1 740 
+does Far_side_of_the_Moon.txt 2 365 448 
+orbited Far_side_of_the_Moon.txt 1 199 
+lunar Far_side_of_the_Moon.txt 23 79 517 523 576 640 777 904 1011 1133 1174 1239 1274 1348 1380 1430 1484 1511 1591 1720 1756 1899 2033 2108 
+l2 Far_side_of_the_Moon.txt 1 1704 
+chains Far_side_of_the_Moon.txt 1 1290 
+demonstrated Far_side_of_the_Moon.txt 1 633 
+refer Far_side_of_the_Moon.txt 2 367 488 
+be Far_side_of_the_Moon.txt 17 303 353 459 497 750 770 1069 1151 1667 1695 1765 1895 1918 1934 2043 2369 2390 
+scientific Far_side_of_the_Moon.txt 1 1462 
+daedalus Far_side_of_the_Moon.txt 1 1847 
+obscures Far_side_of_the_Moon.txt 1 798 
+analysed Far_side_of_the_Moon.txt 1 1193 
+notably Far_side_of_the_Moon.txt 1 2134 
+step Far_side_of_the_Moon.txt 1 1655 
+although Far_side_of_the_Moon.txt 2 96 1456 
+tidal Far_side_of_the_Moon.txt 2 247 271 
+by Far_side_of_the_Moon.txt 23 32 108 521 535 601 634 711 846 975 1100 1132 1207 1399 1480 1488 1504 1521 1569 1589 1818 1938 2064 2387 
+on Far_side_of_the_Moon.txt 33 210 228 356 422 500 606 626 691 853 941 965 1013 1046 1159 1213 1251 1256 1332 1432 1435 1668 1689 1728 1754 2080 2091 2147 2188 2197 2239 2250 2315 2392 
+about Far_side_of_the_Moon.txt 6 134 800 992 1952 1980 2160 
+rare Far_side_of_the_Moon.txt 1 2090 
+working Far_side_of_the_Moon.txt 1 2391 
+of Far_side_of_the_Moon.txt 115 2 13 23 28 38 48 54 72 84 99 105 111 122 132 136 169 175 213 217 277 291 298 312 327 330 334 344 362 374 427 453 477 504 575 592 595 623 675 744 755 773 776 805 809 834 841 872 882 908 929 982 996 1000 1007 1043 1062 1109 1172 1178 1183 1198 1202 1211 1221 1225 1268 1272 1291 1294 1317 1320 1324 1346 1360 1378 1393 1420 1428 1453 1474 1495 1498 1561 1573 1600 1623 1672 1731 1736 1780 1783 1795 1853 1924 1946 1985 2006 2023 2050 2078 2083 2107 2114 2151 2210 2254 2261 2274 2285 2288 2290 2320 2336 2349 2359 
+range Far_side_of_the_Moon.txt 1 1039 
+or Far_side_of_the_Moon.txt 1 323 
+block Far_side_of_the_Moon.txt 1 1867 
+plan Far_side_of_the_Moon.txt 1 2309 
+seeing Far_side_of_the_Moon.txt 1 2166 
+thinner Far_side_of_the_Moon.txt 1 949 
+mantle Far_side_of_the_Moon.txt 1 922 
+communication Far_side_of_the_Moon.txt 2 493 1603 
+image Far_side_of_the_Moon.txt 2 973 1790 
+within Far_side_of_the_Moon.txt 1 2220 
+down Far_side_of_the_Moon.txt 1 253 
+luna Far_side_of_the_Moon.txt 6 160 976 1166 1254 1284 2172 
+ussr Far_side_of_the_Moon.txt 2 1209 1249 
+references Far_side_of_the_Moon.txt 1 2399 
+primarily Far_side_of_the_Moon.txt 1 907 
+pentagon Far_side_of_the_Moon.txt 3 2222 2292 2305 
+fired Far_side_of_the_Moon.txt 1 1628 
+poleaitken Far_side_of_the_Moon.txt 3 94 668 2002 
+area Far_side_of_the_Moon.txt 3 393 452 1929 
+a119 Far_side_of_the_Moon.txt 1 2324 
+assumed Far_side_of_the_Moon.txt 1 1425 
+placing Far_side_of_the_Moon.txt 1 1813 
+libration Far_side_of_the_Moon.txt 3 147 307 1072 
+sunlight Far_side_of_the_Moon.txt 3 106 412 439 
+figuratively Far_side_of_the_Moon.txt 1 42 
+low Far_side_of_the_Moon.txt 3 346 1024 1769 
+lot Far_side_of_the_Moon.txt 1 1560 
+series Far_side_of_the_Moon.txt 1 1510 
+probes Far_side_of_the_Moon.txt 2 1402 1592 
+was Far_side_of_the_Moon.txt 19 683 767 901 990 1091 1112 1127 1205 1245 1327 1478 1502 1517 1627 1632 2282 2300 2327 2366 
+war Far_side_of_the_Moon.txt 1 2297 
+opposed Far_side_of_the_Moon.txt 1 2224 
+lowest Far_side_of_the_Moon.txt 1 673 
+complete Far_side_of_the_Moon.txt 2 1358 1369 
+suits Far_side_of_the_Moon.txt 1 1907 
+differences Far_side_of_the_Moon.txt 2 513 702 
+but Far_side_of_the_Moon.txt 8 376 843 960 1298 2094 2154 2277 2344 
+administrators Far_side_of_the_Moon.txt 1 1724 
+hemisphere Far_side_of_the_Moon.txt 3 53 629 1434 
+solar Far_side_of_the_Moon.txt 3 90 1925 2062 
+orientale Far_side_of_the_Moon.txt 1 1076 
+apollo Far_side_of_the_Moon.txt 9 33 184 508 1526 1575 1578 1581 1618 2142 
+with Far_side_of_the_Moon.txt 15 69 125 494 539 552 587 714 752 918 1277 1308 1337 1604 1712 1767 
+featuring Far_side_of_the_Moon.txt 1 1375 
+he Far_side_of_the_Moon.txt 1 2278 
+october Far_side_of_the_Moon.txt 1 1160 
+sightings Far_side_of_the_Moon.txt 1 2127 
+up Far_side_of_the_Moon.txt 1 1555 
+31.2 Far_side_of_the_Moon.txt 1 605 
+lobbied Far_side_of_the_Moon.txt 1 1661 
+similar Far_side_of_the_Moon.txt 2 1831 2394 
+called Far_side_of_the_Moon.txt 3 118 270 287 
+detailed Far_side_of_the_Moon.txt 2 519 1471 
+later Far_side_of_the_Moon.txt 3 1230 1424 2301 
+proved Far_side_of_the_Moon.txt 1 1030 
+600 Far_side_of_the_Moon.txt 2 1087 1235 
+one-third Far_side_of_the_Moon.txt 1 1182 
+deep Far_side_of_the_Moon.txt 1 2029 
+an Far_side_of_the_Moon.txt 5 733 1060 2167 2283 2376 
+as Far_side_of_the_Moon.txt 20 44 370 379 445 468 533 630 648 685 688 812 822 1095 1388 1707 1966 2100 2117 2318 2346 
+at Far_side_of_the_Moon.txt 2 320 895 
+treaty Far_side_of_the_Moon.txt 1 2230 
+film Far_side_of_the_Moon.txt 2 9 16 
+compared Far_side_of_the_Moon.txt 1 603 
+no Far_side_of_the_Moon.txt 4 204 411 1300 1556 
+amounts Far_side_of_the_Moon.txt 1 426 
+percent Far_side_of_the_Moon.txt 2 311 1377 
+detail Far_side_of_the_Moon.txt 1 1131 
+reality Far_side_of_the_Moon.txt 1 414 
+sample-return Far_side_of_the_Moon.txt 1 1997 
+other Far_side_of_the_Moon.txt 4 18 274 645 1939 
+role Far_side_of_the_Moon.txt 1 1427 
+ambitious Far_side_of_the_Moon.txt 1 1681 
+better Far_side_of_the_Moon.txt 1 1279 
+test Far_side_of_the_Moon.txt 1 2228 
+proposal Far_side_of_the_Moon.txt 1 1682 
+elements Far_side_of_the_Moon.txt 2 625 931 
+4,000 Far_side_of_the_Moon.txt 1 1342 
+problems Far_side_of_the_Moon.txt 1 1893 
+stay Far_side_of_the_Moon.txt 1 2181 
+william Far_side_of_the_Moon.txt 2 1532 2136 
+meaning Far_side_of_the_Moon.txt 1 127 
+scale Far_side_of_the_Moon.txt 3 1237 1366 1374 
+coverage Far_side_of_the_Moon.txt 1 1497 
+included Far_side_of_the_Moon.txt 2 1218 1683 
+astronomy Far_side_of_the_Moon.txt 1 2341 
+sides Far_side_of_the_Moon.txt 4 65 98 420 866 
+100-kilometer Far_side_of_the_Moon.txt 1 1842 
+condensation Far_side_of_the_Moon.txt 1 928 
+lead Far_side_of_the_Moon.txt 1 2378 
+factors Far_side_of_the_Moon.txt 1 646 
+holes Far_side_of_the_Moon.txt 1 1564 
+orbit Far_side_of_the_Moon.txt 3 1613 1701 1979 
+nasa Far_side_of_the_Moon.txt 5 793 1489 1723 1987 2200 
+time Far_side_of_the_Moon.txt 5 295 322 897 1551 1586 
+resolution Far_side_of_the_Moon.txt 1 1280 

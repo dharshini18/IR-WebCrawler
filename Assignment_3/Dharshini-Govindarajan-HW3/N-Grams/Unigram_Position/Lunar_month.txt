@@ -1,0 +1,514 @@
+all Lunar_month.txt 3 305 1350 1549 
+syzygies Lunar_month.txt 1 41 
+customary Lunar_month.txt 1 731 
+suns Lunar_month.txt 1 1219 
+varying Lunar_month.txt 1 171 
+35.8 Lunar_month.txt 1 1279 
+earthmoon Lunar_month.txt 1 1227 
+month Lunar_month.txt 46 1 34 52 68 78 94 105 116 150 216 256 282 289 322 326 332 352 370 402 438 471 480 484 572 604 608 616 719 727 803 810 895 978 995 1001 1041 1054 1062 1065 1196 1266 1297 1303 1360 1395 1444 
+four Lunar_month.txt 1 263 
+7001273215820000000 Lunar_month.txt 1 783 
+7001275545510000000 Lunar_month.txt 1 902 
+transits Lunar_month.txt 1 1204 
+86,400 Lunar_month.txt 1 1487 
+whose Lunar_month.txt 1 937 
+depend Lunar_month.txt 1 946 
+calculate Lunar_month.txt 1 723 
+tt Lunar_month.txt 1 1469 
+young Lunar_month.txt 1 120 
+to Lunar_month.txt 36 190 219 329 382 412 414 489 514 543 580 594 598 695 722 732 740 766 768 775 874 876 989 1029 1031 1034 1036 1070 1075 1145 1255 1257 1312 1330 1339 1367 1398 
+analogous Lunar_month.txt 1 806 
+every Lunar_month.txt 2 1323 1390 
+difference Lunar_month.txt 2 63 1533 
+exact Lunar_month.txt 1 949 
+categories Lunar_month.txt 2 1577 1579 
+progression Lunar_month.txt 1 647 
+positions Lunar_month.txt 1 734 
+deals Lunar_month.txt 1 72 
+revolution Lunar_month.txt 2 887 1018 
+slower Lunar_month.txt 1 664 
+prediction Lunar_month.txt 1 932 
+approximation Lunar_month.txt 1 1453 
+rate Lunar_month.txt 2 658 684 
+crescent Lunar_month.txt 1 121 
+further Lunar_month.txt 1 579 
+sunodikos Lunar_month.txt 1 486 
+ecclesiastical Lunar_month.txt 1 181 
+waning Lunar_month.txt 1 157 
+sun Lunar_month.txt 13 132 500 519 545 567 592 637 650 991 1084 1404 1425 1566 
+while Lunar_month.txt 1 551 
+expressed Lunar_month.txt 2 1476 1497 
+international Lunar_month.txt 1 392 
+method Lunar_month.txt 1 60 
+full Lunar_month.txt 6 45 188 191 960 965 1375 
+annular Lunar_month.txt 1 945 
+following Lunar_month.txt 2 348 453 
+china Lunar_month.txt 1 450 
+others Lunar_month.txt 2 167 185 
+i.e Lunar_month.txt 2 492 1117 
+along Lunar_month.txt 1 756 
+eclipses Lunar_month.txt 1 934 
+change Lunar_month.txt 1 1457 
+extreme Lunar_month.txt 1 849 
+thirty Lunar_month.txt 1 224 
+3,233 Lunar_month.txt 1 865 
+30 Lunar_month.txt 1 203 
+usually Lunar_month.txt 1 327 
+draconic Lunar_month.txt 5 1040 1053 1068 1193 1296 
+diameter Lunar_month.txt 3 916 951 957 
+named Lunar_month.txt 1 232 
+regardless Lunar_month.txt 1 1346 
+egypt Lunar_month.txt 1 147 
+visible Lunar_month.txt 2 125 340 
+total Lunar_month.txt 1 943 
+use Lunar_month.txt 3 48 168 1510 
+from Lunar_month.txt 7 15 187 217 548 590 692 1540 
+takes Lunar_month.txt 7 409 609 761 870 1025 1252 1366 
+would Lunar_month.txt 1 1508 
+0 Lunar_month.txt 1 773 
+nine Lunar_month.txt 1 1020 
+two Lunar_month.txt 5 39 135 1108 1159 1202 
+live Lunar_month.txt 1 1076 
+therefore Lunar_month.txt 4 605 759 1022 1326 
+13.37 Lunar_month.txt 1 619 
+type Lunar_month.txt 2 436 926 
+until Lunar_month.txt 1 1414 
+more Lunar_month.txt 1 1480 
+formally Lunar_month.txt 1 284 
+becomes Lunar_month.txt 1 123 
+inclined Lunar_month.txt 1 1140 
+apparent Lunar_month.txt 4 20 915 950 956 
+5.14 Lunar_month.txt 1 1142 
+particular Lunar_month.txt 1 844 
+known Lunar_month.txt 5 26 226 398 800 1058 
+nodes Lunar_month.txt 5 1080 1128 1241 1282 1306 
+must Lunar_month.txt 1 575 
+crosses Lunar_month.txt 2 1113 1166 
+mythical Lunar_month.txt 1 1072 
+this Lunar_month.txt 12 70 435 496 522 751 795 838 888 922 925 1432 1472 
+eclipse Lunar_month.txt 3 724 1089 1094 
+longitude Lunar_month.txt 1 771 
+7001295305879810000 Lunar_month.txt 1 704 
+apoapsis Lunar_month.txt 1 666 
+calculation Lunar_month.txt 1 169 
+in Lunar_month.txt 35 29 84 95 109 141 145 205 207 213 251 276 365 444 451 477 495 562 628 682 843 863 1006 1019 1077 1135 1289 1308 1314 1420 1427 1471 1477 1498 1513 1546 
+india Lunar_month.txt 2 214 448 
+purposes Lunar_month.txt 1 308 
+sphere Lunar_month.txt 1 385 
+occur Lunar_month.txt 1 627 
+terrestrial Lunar_month.txt 1 1482 
+united Lunar_month.txt 1 278 
+rather Lunar_month.txt 1 825 
+divided Lunar_month.txt 2 222 456 
+1 Lunar_month.txt 1 1465 
+beat Lunar_month.txt 1 971 
+varies Lunar_month.txt 4 53 651 920 962 
+elliptical Lunar_month.txt 1 639 
+circular Lunar_month.txt 1 642 
+description Lunar_month.txt 1 91 
+may Lunar_month.txt 2 199 690 
+after Lunar_month.txt 4 128 233 568 984 
+southern Lunar_month.txt 1 1191 
+sophistication Lunar_month.txt 1 174 
+islamic Lunar_month.txt 1 143 
+apsis Lunar_month.txt 1 879 
+saros Lunar_month.txt 1 936 
+date Lunar_month.txt 2 230 248 
+law Lunar_month.txt 2 253 298 
+types Lunar_month.txt 3 319 349 1440 
+a Lunar_month.txt 29 32 77 90 93 254 266 400 415 490 493 570 577 629 827 999 1026 1052 1060 1071 1090 1136 1247 1264 1295 1301 1393 1411 1450 1532 
+amid Lunar_month.txt 1 779 
+dragon Lunar_month.txt 1 1073 
+greek Lunar_month.txt 1 485 
+si Lunar_month.txt 1 1488 
+so Lunar_month.txt 4 197 670 924 1449 
+progressively Lunar_month.txt 1 1530 
+definitions Lunar_month.txt 2 75 88 
+began Lunar_month.txt 1 151 
+j2000.0 Lunar_month.txt 1 1464 
+tithis Lunar_month.txt 1 228 
+interpretation Lunar_month.txt 1 311 
+astronomical Lunar_month.txt 1 1442 
+move Lunar_month.txt 2 576 595 
+mainly Lunar_month.txt 1 81 
+years Lunar_month.txt 6 868 1021 1294 1325 1492 1500 
+through Lunar_month.txt 4 10 1157 1208 1369 
+its Lunar_month.txt 7 11 563 1111 1126 1370 1421 1570 
+27.212 Lunar_month.txt 1 1270 
+before Lunar_month.txt 2 137 165 
+27 Lunar_month.txt 5 427 460 787 906 1273 
+28 Lunar_month.txt 2 260 462 
+29 Lunar_month.txt 2 201 709 
+complex Lunar_month.txt 1 1561 
+degrees Lunar_month.txt 1 172 
+weeks Lunar_month.txt 2 264 275 
+main Lunar_month.txt 1 62 
+apogee Lunar_month.txt 1 858 
+them Lunar_month.txt 1 478 
+evening Lunar_month.txt 2 127 139 
+return Lunar_month.txt 6 413 767 875 1030 1035 1256 
+significance Lunar_month.txt 1 83 
+precess Lunar_month.txt 1 1307 
+precession Lunar_month.txt 6 747 815 818 862 1046 1048 
+effects Lunar_month.txt 1 1563 
+they Lunar_month.txt 1 455 
+not Lunar_month.txt 4 641 841 1408 1447 
+rotation Lunar_month.txt 2 1322 1525 
+day Lunar_month.txt 3 154 246 468 
+term Lunar_month.txt 2 324 1543 
+name Lunar_month.txt 1 1067 
+edit Lunar_month.txt 10 108 315 371 481 728 811 1042 1345 1574 1576 
+january Lunar_month.txt 1 1466 
+identified Lunar_month.txt 1 472 
+unpredictable Lunar_month.txt 1 1524 
+each Lunar_month.txt 1 467 
+quarter Lunar_month.txt 2 1374 1377 
+mean Lunar_month.txt 2 1355 1556 
+approximates Lunar_month.txt 1 822 
+finish Lunar_month.txt 1 1410 
+year Lunar_month.txt 3 631 654 808 
+sunrise Lunar_month.txt 2 166 238 
+since Lunar_month.txt 3 601 632 1493 
+7 Lunar_month.txt 2 429 789 
+587 Lunar_month.txt 1 706 
+earlier Lunar_month.txt 1 1335 
+582 Lunar_month.txt 1 785 
+linear Lunar_month.txt 1 1452 
+passes Lunar_month.txt 1 1156 
+ascending Lunar_month.txt 1 1171 
+five Lunar_month.txt 1 1439 
+ecliptic Lunar_month.txt 5 758 770 1115 1147 1168 
+7001273216610000000 Lunar_month.txt 1 423 
+fixed Lunar_month.txt 3 388 781 842 
+e.g Lunar_month.txt 2 140 175 
+starts Lunar_month.txt 1 117 
+could Lunar_month.txt 1 159 
+days Lunar_month.txt 18 136 196 204 261 426 611 698 708 786 866 905 1272 1292 1382 1392 1485 1503 1511 
+motion Lunar_month.txt 2 1401 1571 
+length Lunar_month.txt 3 206 900 1356 
+plane Lunar_month.txt 5 1116 1137 1148 1169 1230 
+wobbling Lunar_month.txt 1 21 
+first Lunar_month.txt 3 124 363 1373 
+12.37 Lunar_month.txt 1 624 
+one Lunar_month.txt 7 133 465 886 1017 1321 1386 1507 
+utilized Lunar_month.txt 1 58 
+reached Lunar_month.txt 1 1417 
+precisely Lunar_month.txt 1 1481 
+angular Lunar_month.txt 4 588 657 683 1223 
+earths Lunar_month.txt 4 633 646 746 1399 
+little Lunar_month.txt 2 578 1027 
+ancient Lunar_month.txt 1 146 
+system Lunar_month.txt 1 1228 
+their Lunar_month.txt 1 1555 
+returns Lunar_month.txt 2 1329 1338 
+calculations Lunar_month.txt 1 1506 
+exerted Lunar_month.txt 1 1216 
+way Lunar_month.txt 1 454 
+middle-eastern Lunar_month.txt 1 111 
+that Lunar_month.txt 4 79 138 1138 1313 
+relative Lunar_month.txt 1 1430 
+exactly Lunar_month.txt 2 259 273 
+lists Lunar_month.txt 1 1434 
+somewhat Lunar_month.txt 1 1523 
+tithi Lunar_month.txt 2 235 241 
+27.321 Lunar_month.txt 2 424 784 
+specify Lunar_month.txt 1 733 
+begins Lunar_month.txt 1 69 
+distance Lunar_month.txt 1 589 
+13 Lunar_month.txt 1 908 
+12 Lunar_month.txt 2 269 711 
+18 Lunar_month.txt 1 910 
+depends Lunar_month.txt 1 534 
+lunations Lunar_month.txt 1 689 
+were Lunar_month.txt 1 362 
+calendric Lunar_month.txt 1 1505 
+1925 Lunar_month.txt 1 302 
+and Lunar_month.txt 20 112 292 303 359 449 501 520 640 663 816 857 896 940 976 1049 1081 1181 1378 1529 1567 
+29.530 Lunar_month.txt 1 705 
+ran Lunar_month.txt 1 271 
+julian Lunar_month.txt 1 1499 
+torque Lunar_month.txt 1 1215 
+westward Lunar_month.txt 1 1237 
+7001272122200000000 Lunar_month.txt 1 1269 
+seen Lunar_month.txt 3 14 163 547 
+apparently Lunar_month.txt 1 387 
+contents Lunar_month.txt 1 106 
+first-order Lunar_month.txt 1 1451 
+traditionally Lunar_month.txt 1 257 
+29.93 Lunar_month.txt 1 697 
+min Lunar_month.txt 5 432 714 792 911 1278 
+gravity Lunar_month.txt 1 1220 
+note Lunar_month.txt 1 1470 
+also Lunar_month.txt 4 813 1044 1057 1573 
+animation Lunar_month.txt 1 3 
+which Lunar_month.txt 7 55 968 985 1162 1238 1315 1520 
+opposite Lunar_month.txt 1 1310 
+reach Lunar_month.txt 1 581 
+most Lunar_month.txt 1 345 
+regular Lunar_month.txt 1 209 
+successive Lunar_month.txt 2 40 1203 
+measured Lunar_month.txt 1 1512 
+average Lunar_month.txt 6 506 701 899 1199 1362 1436 
+sometimes Lunar_month.txt 2 249 1056 
+points Lunar_month.txt 3 850 1109 1160 
+joining Lunar_month.txt 1 517 
+661 Lunar_month.txt 1 425 
+earth Lunar_month.txt 10 521 550 557 559 677 1016 1245 1320 1389 1528 
+nearer Lunar_month.txt 1 661 
+northern Lunar_month.txt 2 17 1178 
+than Lunar_month.txt 9 244 613 774 826 998 1033 1263 1300 1336 
+only Lunar_month.txt 1 1097 
+circle Lunar_month.txt 1 828 
+220 Lunar_month.txt 1 1271 
+meant Lunar_month.txt 1 258 
+perigee Lunar_month.txt 3 856 1004 1032 
+anomalistic Lunar_month.txt 4 809 894 977 994 
+means Lunar_month.txt 1 1239 
+contracts Lunar_month.txt 1 295 
+vary Lunar_month.txt 2 691 1552 
+secular Lunar_month.txt 1 1456 
+moons Lunar_month.txt 10 43 46 376 510 532 673 820 1164 1233 1285 
+apsidal Lunar_month.txt 2 817 861 
+affecting Lunar_month.txt 1 1569 
+nodical Lunar_month.txt 2 1064 1195 
+new Lunar_month.txt 4 42 67 583 1372 
+during Lunar_month.txt 3 652 885 1087 
+conjunction Lunar_month.txt 3 129 218 220 
+2.8016 Lunar_month.txt 1 715 
+h Lunar_month.txt 5 430 712 790 909 1276 
+common Lunar_month.txt 1 252 
+including Lunar_month.txt 1 89 
+cycles Lunar_month.txt 2 9 725 
+where Lunar_month.txt 4 1110 1173 1185 1423 
+equinox Lunar_month.txt 1 743 
+reference Lunar_month.txt 1 394 
+frame Lunar_month.txt 1 395 
+observed Lunar_month.txt 1 441 
+culture Lunar_month.txt 2 56 1349 
+see Lunar_month.txt 5 104 812 935 1043 1572 
+are Lunar_month.txt 3 80 317 1446 
+2.2 Lunar_month.txt 1 610 
+calendar Lunar_month.txt 4 144 178 183 288 
+phases Lunar_month.txt 4 12 341 529 1371 
+said Lunar_month.txt 1 1074 
+wikipedia Lunar_month.txt 1 2 
+synod Lunar_month.txt 1 491 
+continually Lunar_month.txt 1 1553 
+written Lunar_month.txt 1 294 
+between Lunar_month.txt 4 38 356 688 1201 
+orbiting Lunar_month.txt 3 555 1014 1319 
+probably Lunar_month.txt 1 1509 
+360 Lunar_month.txt 1 1288 
+latin Lunar_month.txt 1 421 
+however Lunar_month.txt 1 829 
+2930 Lunar_month.txt 1 1381 
+365.25 Lunar_month.txt 1 1502 
+gregorian Lunar_month.txt 1 630 
+extent Lunar_month.txt 1 938 
+article Lunar_month.txt 1 71 
+periapsis Lunar_month.txt 1 662 
+last Lunar_month.txt 1 1376 
+irregular Lunar_month.txt 1 211 
+s Lunar_month.txt 5 434 716 794 913 1280 
+long-term Lunar_month.txt 1 700 
+distinction Lunar_month.txt 1 355 
+18.6 Lunar_month.txt 2 1293 1324 
+among Lunar_month.txt 2 418 442 
+12:00 Lunar_month.txt 1 1468 
+point Lunar_month.txt 4 752 778 988 1419 
+deeds Lunar_month.txt 1 291 
+cf Lunar_month.txt 1 804 
+respect Lunar_month.txt 6 381 513 542 597 739 1144 
+prominent Lunar_month.txt 1 475 
+due Lunar_month.txt 1 1397 
+been Lunar_month.txt 1 440 
+tropical Lunar_month.txt 4 360 726 802 807 
+slowly Lunar_month.txt 1 755 
+27.554 Lunar_month.txt 1 903 
+meeting Lunar_month.txt 1 494 
+direction Lunar_month.txt 2 1009 1311 
+apsides Lunar_month.txt 2 855 987 
+hidden Lunar_month.txt 1 1578 
+case Lunar_month.txt 1 497 
+east Lunar_month.txt 1 447 
+ahead Lunar_month.txt 1 884 
+these Lunar_month.txt 5 680 1154 1445 1547 1550 
+appearance Lunar_month.txt 2 533 941 
+near Lunar_month.txt 3 665 1104 1123 
+replaced Lunar_month.txt 1 285 
+vernal Lunar_month.txt 1 742 
+property Lunar_month.txt 1 300 
+periods Lunar_month.txt 1 1551 
+orientation Lunar_month.txt 1 831 
+is Lunar_month.txt 37 25 35 221 231 242 335 397 405 504 523 554 560 638 659 669 703 720 730 799 840 891 969 996 1013 1055 1095 1101 1120 1139 1197 1261 1298 1318 1426 1458 1475 1491 
+thus Lunar_month.txt 3 265 617 655 
+it Lunar_month.txt 12 8 334 404 408 729 760 869 881 1251 1267 1337 1415 
+middle Lunar_month.txt 1 446 
+hebrew Lunar_month.txt 1 177 
+ephemeris Lunar_month.txt 2 1478 1535 
+synodic Lunar_month.txt 9 331 479 483 607 625 718 975 1359 1412 
+orbital Lunar_month.txt 3 1127 1400 1562 
+different Lunar_month.txt 1 99 
+lengths Lunar_month.txt 2 1344 1437 
+11.6 Lunar_month.txt 1 433 
+progressing Lunar_month.txt 1 561 
+same Lunar_month.txt 11 587 668 777 878 1008 1038 1210 1259 1332 1341 1429 
+shorter Lunar_month.txt 4 243 797 1262 1299 
+epoch Lunar_month.txt 2 1463 1495 
+parts Lunar_month.txt 1 225 
+29.18 Lunar_month.txt 1 694 
+draconitic Lunar_month.txt 1 1061 
+several Lunar_month.txt 1 318 
+european Lunar_month.txt 1 113 
+satellite Lunar_month.txt 1 1119 
+used Lunar_month.txt 1 721 
+8.85 Lunar_month.txt 1 867 
+cycle Lunar_month.txt 5 337 967 1343 1368 1413 
+sidereal Lunar_month.txt 10 358 369 401 571 615 620 1000 1265 1302 1394 
+1978 Lunar_month.txt 1 313 
+well Lunar_month.txt 2 833 980 
+contact Lunar_month.txt 1 267 
+precesses Lunar_month.txt 1 1287 
+y Lunar_month.txt 1 1490 
+position Lunar_month.txt 5 417 537 584 846 1431 
+the Lunar_month.txt 189 5 16 19 23 36 47 50 59 61 66 74 96 102 115 119 131 142 148 153 156 176 180 215 229 234 240 245 247 277 280 287 297 310 323 330 336 339 343 347 354 357 372 375 383 391 406 410 419 445 452 457 470 474 482 499 502 505 509 515 518 524 527 531 536 539 544 549 552 556 558 566 573 582 586 591 599 602 606 614 636 643 649 653 656 667 672 676 685 699 717 741 749 757 762 776 780 805 819 830 835 845 848 851 854 871 877 893 914 918 931 948 953 955 959 964 970 974 982 986 990 1003 1007 1011 1015 1023 1037 1066 1078 1083 1099 1107 1114 1118 1129 1132 1146 1149 1158 1163 1167 1170 1174 1177 1182 1186 1190 1192 1198 1206 1209 1214 1218 1222 1226 1229 1232 1240 1249 1253 1258 1281 1284 1305 1309 1316 1327 1331 1340 1348 1354 1358 1361 1364 1383 1403 1405 1418 1424 1428 1435 1455 1462 1494 1514 1522 1527 1541 1560 1565 
+bodies Lunar_month.txt 1 737 
+traditions Lunar_month.txt 1 114 
+just Lunar_month.txt 1 164 
+less Lunar_month.txt 1 764 
+being Lunar_month.txt 1 64 
+when Lunar_month.txt 4 65 118 155 1098 
+shape Lunar_month.txt 1 836 
+world Lunar_month.txt 1 103 
+rotates Lunar_month.txt 2 859 1236 
+speed Lunar_month.txt 1 644 
+yet Lunar_month.txt 2 184 1409 
+previous Lunar_month.txt 1 603 
+enters Lunar_month.txt 1 1176 
+sky Lunar_month.txt 1 458 
+except Lunar_month.txt 1 353 
+valid Lunar_month.txt 1 1460 
+relevance Lunar_month.txt 1 929 
+has Lunar_month.txt 6 57 439 882 897 927 1416 
+momentum Lunar_month.txt 1 1224 
+kingdom Lunar_month.txt 1 279 
+around Lunar_month.txt 9 101 565 635 648 675 1244 1388 1402 1554 
+calendars Lunar_month.txt 3 31 97 193 
+possible Lunar_month.txt 1 1096 
+period Lunar_month.txt 10 373 507 525 798 890 923 972 983 1051 1363 
+descending Lunar_month.txt 1 1183 
+integer Lunar_month.txt 1 195 
+apart Lunar_month.txt 1 1539 
+intersection Lunar_month.txt 1 1152 
+babylonian Lunar_month.txt 1 366 
+rotate Lunar_month.txt 1 1243 
+appearing Lunar_month.txt 1 593 
+d Lunar_month.txt 5 428 710 788 907 1274 
+mansions Lunar_month.txt 1 464 
+follows Lunar_month.txt 1 1521 
+either Lunar_month.txt 2 1105 1124 
+terminology Lunar_month.txt 1 314 
+pertaining Lunar_month.txt 1 488 
+because Lunar_month.txt 10 333 403 530 678 744 880 1002 1212 1304 1558 
+sequence Lunar_month.txt 1 212 
+981 Lunar_month.txt 1 707 
+some Lunar_month.txt 2 208 928 
+back Lunar_month.txt 2 754 1379 
+table Lunar_month.txt 2 1433 1473 
+duration Lunar_month.txt 2 702 939 
+provided Lunar_month.txt 1 1459 
+gradually Lunar_month.txt 2 1235 1242 
+scale Lunar_month.txt 1 1516 
+for Lunar_month.txt 10 86 268 272 290 304 466 671 930 1461 1504 
+shona Lunar_month.txt 1 110 
+legal Lunar_month.txt 1 307 
+moon Lunar_month.txt 32 6 24 122 158 189 192 344 411 503 540 553 574 763 872 919 954 961 966 1012 1024 1086 1100 1133 1175 1187 1207 1254 1317 1328 1365 1384 1406 
+does Lunar_month.txt 1 1407 
+lunar Lunar_month.txt 20 0 30 33 51 149 182 255 281 321 325 351 367 463 528 814 1045 1079 1093 1351 1443 
+t Lunar_month.txt 1 1538 
+be Lunar_month.txt 2 162 200 
+run Lunar_month.txt 1 186 
+seconds Lunar_month.txt 1 1489 
+jumps Lunar_month.txt 1 250 
+icrf Lunar_month.txt 1 396 
+27.3 Lunar_month.txt 1 1391 
+lasts Lunar_month.txt 1 1268 
+refers Lunar_month.txt 2 328 1069 
+by Lunar_month.txt 6 54 286 296 309 473 1217 
+on Lunar_month.txt 4 152 535 947 1221 
+about Lunar_month.txt 7 618 623 693 696 864 1141 1290 
+actual Lunar_month.txt 1 686 
+of Lunar_month.txt 59 4 22 49 76 82 92 98 170 173 299 320 338 342 346 350 374 386 437 469 498 508 526 538 645 679 735 745 748 772 837 847 853 901 917 933 952 958 973 1106 1125 1131 1151 1153 1205 1213 1225 1231 1283 1347 1357 1438 1441 1454 1486 1501 1517 1526 1559 1564 
+completing Lunar_month.txt 1 569 
+months Lunar_month.txt 6 198 270 361 621 626 1352 
+recognized Lunar_month.txt 1 364 
+act Lunar_month.txt 2 301 312 
+slightly Lunar_month.txt 2 796 1334 
+or Lunar_month.txt 14 44 134 179 202 210 262 461 944 1063 1085 1092 1103 1122 1194 
+33.2 Lunar_month.txt 1 912 
+into Lunar_month.txt 3 223 459 1189 
+accumulates Lunar_month.txt 1 1531 
+lies Lunar_month.txt 1 1134 
+references Lunar_month.txt 1 1575 
+nowadays Lunar_month.txt 1 390 
+ellipse Lunar_month.txt 1 824 
+nodal Lunar_month.txt 2 1047 1050 
+there Lunar_month.txt 1 316 
+libration Lunar_month.txt 1 28 
+long Lunar_month.txt 1 1542 
+stars Lunar_month.txt 5 389 420 476 600 782 
+6,798 Lunar_month.txt 1 1291 
+cultures Lunar_month.txt 2 100 443 
+was Lunar_month.txt 1 283 
+but Lunar_month.txt 2 622 1396 
+hemisphere Lunar_month.txt 2 18 1180 
+solar Lunar_month.txt 1 1091 
+line Lunar_month.txt 3 516 852 1150 
+with Lunar_month.txt 12 73 130 380 512 541 596 738 921 963 1143 1484 1534 
+eat Lunar_month.txt 1 1082 
+longer Lunar_month.txt 6 161 612 873 889 997 1028 
+count Lunar_month.txt 1 194 
+whether Lunar_month.txt 1 942 
+variations Lunar_month.txt 2 107 681 
+ruling Lunar_month.txt 1 236 
+planes Lunar_month.txt 1 1155 
+551 Lunar_month.txt 1 904 
+similar Lunar_month.txt 1 416 
+called Lunar_month.txt 2 892 1537 
+result Lunar_month.txt 1 1248 
+celestial Lunar_month.txt 4 384 393 736 1179 
+constant Lunar_month.txt 1 1448 
+defined Lunar_month.txt 1 379 
+universal Lunar_month.txt 1 1518 
+approximate Lunar_month.txt 1 1353 
+moved Lunar_month.txt 1 883 
+an Lunar_month.txt 5 769 823 898 993 1088 
+as Lunar_month.txt 16 7 13 27 227 239 378 399 546 801 832 834 979 981 1010 1059 1246 
+at Lunar_month.txt 5 126 237 1102 1121 1161 
+planets Lunar_month.txt 1 1568 
+moves Lunar_month.txt 3 753 1005 1188 
+again Lunar_month.txt 2 992 1380 
+4.7 Lunar_month.txt 1 793 
+48 Lunar_month.txt 1 274 
+no Lunar_month.txt 1 160 
+44 Lunar_month.txt 1 713 
+sidera Lunar_month.txt 1 422 
+43 Lunar_month.txt 2 431 791 
+other Lunar_month.txt 3 87 293 306 
+5 Lunar_month.txt 2 1275 1277 
+node Lunar_month.txt 5 1172 1184 1211 1260 1333 
+star Lunar_month.txt 2 1039 1342 
+completes Lunar_month.txt 1 1385 
+millennial Lunar_month.txt 1 1544 
+drift Lunar_month.txt 1 1545 
+meaning Lunar_month.txt 1 487 
+astronomy Lunar_month.txt 2 85 368 
+faster Lunar_month.txt 1 660 
+values Lunar_month.txt 2 1548 1557 
+interval Lunar_month.txt 1 1200 
+orbit Lunar_month.txt 14 377 511 564 634 674 821 839 1112 1130 1165 1234 1286 1387 1422 
+2000 Lunar_month.txt 2 1467 1496 
+time Lunar_month.txt 11 37 407 687 765 1250 1474 1479 1483 1515 1519 1536 
+having Lunar_month.txt 1 585 
+equinoxes Lunar_month.txt 1 750 
+once Lunar_month.txt 1 860 

@@ -1,0 +1,2047 @@
+limited Mikoyan-Gurevich_MiG-21.txt 6 504 953 1977 1990 2206 5470 
+four Mikoyan-Gurevich_MiG-21.txt 14 79 2344 2953 3503 3564 3696 4309 4346 4515 5279 5653 7417 7467 7493 
+fishbed Mikoyan-Gurevich_MiG-21.txt 3 11 344 1022 
+mirage Mikoyan-Gurevich_MiG-21.txt 14 434 4172 4216 4428 4621 4645 4802 4824 5740 5772 5874 5937 6040 6043 
+consists Mikoyan-Gurevich_MiG-21.txt 1 1716 
+oldest Mikoyan-Gurevich_MiG-21.txt 1 2719 
+assembled Mikoyan-Gurevich_MiG-21.txt 1 2712 
+ventral Mikoyan-Gurevich_MiG-21.txt 1 1895 
+1.18 Mikoyan-Gurevich_MiG-21.txt 1 1226 
+bays Mikoyan-Gurevich_MiG-21.txt 1 1657 
+under Mikoyan-Gurevich_MiG-21.txt 11 1145 1586 1665 1847 3018 5174 5217 5585 6715 6739 7104 
+risk Mikoyan-Gurevich_MiG-21.txt 1 669 
+connects Mikoyan-Gurevich_MiG-21.txt 1 1499 
+breguet Mikoyan-Gurevich_MiG-21.txt 1 2478 
+mig-21bis/um Mikoyan-Gurevich_MiG-21.txt 1 7696 
+rankins Mikoyan-Gurevich_MiG-21.txt 1 6026 
+school Mikoyan-Gurevich_MiG-21.txt 1 3367 
+strayed Mikoyan-Gurevich_MiG-21.txt 1 6112 
+cause Mikoyan-Gurevich_MiG-21.txt 2 1544 4115 
+red Mikoyan-Gurevich_MiG-21.txt 3 2596 3400 7551 
+dogfights Mikoyan-Gurevich_MiG-21.txt 1 2534 
+croatian Mikoyan-Gurevich_MiG-21.txt 6 6342 6410 6492 7568 7577 7585 
+mass-produced Mikoyan-Gurevich_MiG-21.txt 1 461 
+aeronautics Mikoyan-Gurevich_MiG-21.txt 1 1151 
+force Mikoyan-Gurevich_MiG-21.txt 57 361 1928 2061 2253 2420 2444 2472 2497 2502 2507 2613 2625 2640 2660 3208 3406 3657 3687 3724 3901 3931 4203 4206 4210 4303 5088 5235 5286 5492 5517 5628 5633 5739 5754 5771 6085 6110 6155 6188 6257 6510 6577 6896 6901 6919 7092 7135 7210 7289 7465 7491 7560 7566 7570 7640 7643 7650 
+maneuver Mikoyan-Gurevich_MiG-21.txt 1 5552 
+horn Mikoyan-Gurevich_MiG-21.txt 1 5616 
+tires Mikoyan-Gurevich_MiG-21.txt 2 1794 1811 
+second Mikoyan-Gurevich_MiG-21.txt 10 252 621 2160 3536 3763 4342 5188 6000 6176 6793 
+air Mikoyan-Gurevich_MiG-21.txt 105 360 489 678 890 1266 1279 1366 1393 1432 1477 1594 1607 1623 1639 1653 1927 2060 2252 2288 2309 2377 2419 2443 2471 2496 2501 2506 2612 2624 2639 2659 2742 3078 3178 3207 3271 3291 3374 3393 3405 3446 3463 3584 3614 3656 3686 3723 3824 3900 3930 4144 4202 4205 4209 4302 4306 4368 4407 4698 5038 5087 5215 5234 5285 5491 5516 5627 5632 5738 5753 5770 6084 6109 6154 6187 6256 6269 6282 6298 6320 6349 6359 6371 6427 6509 6576 6743 6895 6900 6918 7091 7134 7209 7217 7288 7464 7490 7559 7565 7569 7627 7639 7642 7649 7659 
+even Mikoyan-Gurevich_MiG-21.txt 1 2142 
+captain Mikoyan-Gurevich_MiG-21.txt 1 3061 
+thunder Mikoyan-Gurevich_MiG-21.txt 1 3327 
+predecessorled Mikoyan-Gurevich_MiG-21.txt 1 717 
+atlantique Mikoyan-Gurevich_MiG-21.txt 3 2424 2462 2479 
+above Mikoyan-Gurevich_MiG-21.txt 1 3942 
+new Mikoyan-Gurevich_MiG-21.txt 6 888 2525 3241 4949 7100 7151 
+ever Mikoyan-Gurevich_MiG-21.txt 1 3684 
+told Mikoyan-Gurevich_MiG-21.txt 1 2894 
+19601961 Mikoyan-Gurevich_MiG-21.txt 1 341 
+never Mikoyan-Gurevich_MiG-21.txt 1 2530 
+reported Mikoyan-Gurevich_MiG-21.txt 1 5332 
+china Mikoyan-Gurevich_MiG-21.txt 2 1922 2766 
+pursuit Mikoyan-Gurevich_MiG-21.txt 1 5962 
+active Mikoyan-Gurevich_MiG-21.txt 5 7050 7083 7188 7240 7247 
+103 Mikoyan-Gurevich_MiG-21.txt 1 4130 
+100 Mikoyan-Gurevich_MiG-21.txt 1 4384 
+mig-21pfms Mikoyan-Gurevich_MiG-21.txt 1 4872 
+study Mikoyan-Gurevich_MiG-21.txt 1 223 
+wafai Mikoyan-Gurevich_MiG-21.txt 1 7486 
+military Mikoyan-Gurevich_MiG-21.txt 5 914 985 2243 2367 5172 
+19661968 Mikoyan-Gurevich_MiG-21.txt 1 6618 
+diameter Mikoyan-Gurevich_MiG-21.txt 1 1800 
+ex-soviet Mikoyan-Gurevich_MiG-21.txt 1 7157 
+45 Mikoyan-Gurevich_MiG-21.txt 4 588 5010 5254 6232 
+replace Mikoyan-Gurevich_MiG-21.txt 1 879 
+brought Mikoyan-Gurevich_MiG-21.txt 2 3501 5324 
+slatina Mikoyan-Gurevich_MiG-21.txt 1 6297 
+total Mikoyan-Gurevich_MiG-21.txt 11 1025 1139 4503 4677 4708 4893 5798 6650 6700 6904 7193 
+unit Mikoyan-Gurevich_MiG-21.txt 5 2721 2737 2775 3529 7005 
+head-on Mikoyan-Gurevich_MiG-21.txt 1 3136 
+would Mikoyan-Gurevich_MiG-21.txt 10 199 207 558 874 2752 2769 3243 3596 4154 7453 
+army Mikoyan-Gurevich_MiG-21.txt 2 378 6334 
+hanoi Mikoyan-Gurevich_MiG-21.txt 3 3829 3916 3943 
+arms Mikoyan-Gurevich_MiG-21.txt 1 6447 
+el-gar Mikoyan-Gurevich_MiG-21.txt 1 7415 
+strike Mikoyan-Gurevich_MiG-21.txt 1 3027 
+type Mikoyan-Gurevich_MiG-21.txt 4 1784 2685 2803 7237 
+until Mikoyan-Gurevich_MiG-21.txt 6 871 4227 6015 7015 7078 7475 
+mcdonnell-douglas Mikoyan-Gurevich_MiG-21.txt 1 6820 
+925th Mikoyan-Gurevich_MiG-21.txt 1 2777 
+successful Mikoyan-Gurevich_MiG-21.txt 7 203 389 462 1890 3182 4577 7308 
+wars Mikoyan-Gurevich_MiG-21.txt 2 6178 6330 
+award Mikoyan-Gurevich_MiG-21.txt 1 7454 
+it Mikoyan-Gurevich_MiG-21.txt 34 30 86 97 238 279 401 660 829 855 968 977 2427 2680 2844 2903 2933 3000 4224 5160 5203 5261 5322 5348 5356 5360 5553 5888 5997 6016 6123 6689 6754 6873 7701 
+excellent Mikoyan-Gurevich_MiG-21.txt 1 770 
+90 Mikoyan-Gurevich_MiG-21.txt 1 3630 
+outdated Mikoyan-Gurevich_MiG-21.txt 1 4977 
+94 Mikoyan-Gurevich_MiG-21.txt 1 2804 
+me Mikoyan-Gurevich_MiG-21.txt 1 2926 
+1990 Mikoyan-Gurevich_MiG-21.txt 5 383 6647 7053 7088 7160 
+intake Mikoyan-Gurevich_MiG-21.txt 4 490 1280 1341 1433 
+1992 Mikoyan-Gurevich_MiG-21.txt 5 6246 6400 6406 6535 7016 
+locked Mikoyan-Gurevich_MiG-21.txt 1 1870 
+1994 Mikoyan-Gurevich_MiG-21.txt 1 7172 
+rights Mikoyan-Gurevich_MiG-21.txt 2 1955 5331 
+mm Mikoyan-Gurevich_MiG-21.txt 5 1798 1803 1816 2328 5224 
+mi Mikoyan-Gurevich_MiG-21.txt 1 736 
+mt Mikoyan-Gurevich_MiG-21.txt 1 723 
+era Mikoyan-Gurevich_MiG-21.txt 1 332 
+exceptions Mikoyan-Gurevich_MiG-21.txt 1 1092 
+example Mikoyan-Gurevich_MiG-21.txt 1 5791 
+cone Mikoyan-Gurevich_MiG-21.txt 8 486 1276 1286 1297 1315 1328 1342 1353 
+references Mikoyan-Gurevich_MiG-21.txt 1 7755 
+give Mikoyan-Gurevich_MiG-21.txt 1 831 
+india Mikoyan-Gurevich_MiG-21.txt 10 1154 1904 1911 1949 2025 2050 2228 2247 2399 7181 
+mig-21fls Mikoyan-Gurevich_MiG-21.txt 1 2317 
+mig-23 Mikoyan-Gurevich_MiG-21.txt 3 862 5297 6666 
+mig-21 Mikoyan-Gurevich_MiG-21.txt 93 1 5 84 149 198 210 320 365 375 385 525 673 765 881 894 1000 1113 1169 1184 1407 1715 1780 1909 1934 1962 1987 2007 2099 2191 2214 2236 2264 2381 2401 2466 2498 2632 2670 2822 2842 2890 2898 2931 2976 2979 3021 3043 3068 3193 3258 3438 3528 3645 3782 3857 3895 4048 4095 4159 4178 4183 4212 4234 4626 4670 5036 5149 5189 5304 5459 5540 5778 6030 6261 6393 6566 6853 6859 6907 7211 7250 7253 7279 7324 7394 7514 7534 7541 7544 7561 7586 7615 7622 
+authorities Mikoyan-Gurevich_MiG-21.txt 1 6128 
+mig-27 Mikoyan-Gurevich_MiG-21.txt 1 864 
+mig-29 Mikoyan-Gurevich_MiG-21.txt 2 873 6668 
+altitudes Mikoyan-Gurevich_MiG-21.txt 1 1542 
+ceremony Mikoyan-Gurevich_MiG-21.txt 2 5575 7231 
+end Mikoyan-Gurevich_MiG-21.txt 7 2338 3331 4414 4486 4494 4885 4914 
+provide Mikoyan-Gurevich_MiG-21.txt 1 3244 
+deagel.com Mikoyan-Gurevich_MiG-21.txt 1 7747 
+iiis Mikoyan-Gurevich_MiG-21.txt 1 6044 
+victories/kills Mikoyan-Gurevich_MiG-21.txt 1 7275 
+machine Mikoyan-Gurevich_MiG-21.txt 3 5128 5180 5225 
+far Mikoyan-Gurevich_MiG-21.txt 2 813 4937 
+widespread Mikoyan-Gurevich_MiG-21.txt 1 494 
+hillsboro Mikoyan-Gurevich_MiG-21.txt 1 7715 
+airbrake Mikoyan-Gurevich_MiG-21.txt 1 1900 
+lan Mikoyan-Gurevich_MiG-21.txt 2 2876 2893 
+after Mikoyan-Gurevich_MiG-21.txt 18 93 1419 1524 1828 2168 2184 2536 2708 3145 3315 3888 4574 5070 5278 5530 6136 6519 7579 
+damaged Mikoyan-Gurevich_MiG-21.txt 2 5031 6029 
+stratofortress Mikoyan-Gurevich_MiG-21.txt 4 3727 3828 3934 3939 
+lay Mikoyan-Gurevich_MiG-21.txt 1 3215 
+president Mikoyan-Gurevich_MiG-21.txt 1 3056 
+types Mikoyan-Gurevich_MiG-21.txt 2 892 6811 
+purchase Mikoyan-Gurevich_MiG-21.txt 1 1932 
+attempt Mikoyan-Gurevich_MiG-21.txt 1 6496 
+third Mikoyan-Gurevich_MiG-21.txt 2 1914 4354 
+occasions Mikoyan-Gurevich_MiG-21.txt 1 5639 
+mig-21rfmm Mikoyan-Gurevich_MiG-21.txt 1 6615 
+10,645 Mikoyan-Gurevich_MiG-21.txt 1 1027 
+maintain Mikoyan-Gurevich_MiG-21.txt 1 6693 
+green Mikoyan-Gurevich_MiG-21.txt 1 7557 
+enter Mikoyan-Gurevich_MiG-21.txt 1 1970 
+operate Mikoyan-Gurevich_MiG-21.txt 1 2755 
+wing Mikoyan-Gurevich_MiG-21.txt 7 768 924 1188 1244 1677 1838 2838 
+disengaging Mikoyan-Gurevich_MiG-21.txt 1 3993 
+operations Mikoyan-Gurevich_MiG-21.txt 2 5090 6478 
+executed Mikoyan-Gurevich_MiG-21.txt 1 6116 
+feedback Mikoyan-Gurevich_MiG-21.txt 1 2016 
+over Mikoyan-Gurevich_MiG-21.txt 22 78 1935 2111 2290 2543 2691 2969 3249 3289 3294 3579 3783 3915 3945 4959 5311 5780 5912 6059 6595 6880 7735 
+dc-3s Mikoyan-Gurevich_MiG-21.txt 1 5707 
+bombing Mikoyan-Gurevich_MiG-21.txt 3 4532 5563 6552 
+scoring Mikoyan-Gurevich_MiG-21.txt 2 3084 4442 
+expectations Mikoyan-Gurevich_MiG-21.txt 1 3218 
+destroyed Mikoyan-Gurevich_MiG-21.txt 17 2447 3967 4023 4321 4365 4372 4508 4623 4675 4713 4860 4908 5008 5667 5695 5889 6558 
+production Mikoyan-Gurevich_MiG-21.txt 4 122 274 972 1018 
+hidden Mikoyan-Gurevich_MiG-21.txt 1 7767 
+fin Mikoyan-Gurevich_MiG-21.txt 1 1726 
+easier Mikoyan-Gurevich_MiG-21.txt 1 6691 
+eventually Mikoyan-Gurevich_MiG-21.txt 1 3357 
+them Mikoyan-Gurevich_MiG-21.txt 6 3037 5942 6467 6500 7014 7455 
+prevented Mikoyan-Gurevich_MiG-21.txt 1 650 
+they Mikoyan-Gurevich_MiG-21.txt 14 1034 2713 2751 3628 4139 4153 4390 4612 4983 5346 5855 5948 5954 6773 
+silver Mikoyan-Gurevich_MiG-21.txt 1 3760 
+bosnia Mikoyan-Gurevich_MiG-21.txt 2 6365 6391 
+skybolt Mikoyan-Gurevich_MiG-21.txt 1 6168 
+victories Mikoyan-Gurevich_MiG-21.txt 5 2885 3046 3079 7320 7447 
+conflict Mikoyan-Gurevich_MiG-21.txt 2 2301 2527 
+each Mikoyan-Gurevich_MiG-21.txt 5 708 3594 4635 5675 7372 
+ghardabiya Mikoyan-Gurevich_MiG-21.txt 1 5500 
+side Mikoyan-Gurevich_MiG-21.txt 6 1461 1580 1587 1666 3595 4033 
+mean Mikoyan-Gurevich_MiG-21.txt 1 796 
+19681972 Mikoyan-Gurevich_MiG-21.txt 1 6622 
+angola Mikoyan-Gurevich_MiG-21.txt 6 5729 5744 5781 5801 6060 6130 
+long-running Mikoyan-Gurevich_MiG-21.txt 1 5746 
+combining Mikoyan-Gurevich_MiG-21.txt 1 392 
+navy Mikoyan-Gurevich_MiG-21.txt 3 2485 3212 3364 
+aids Mikoyan-Gurevich_MiG-21.txt 1 925 
+9,100 Mikoyan-Gurevich_MiG-21.txt 1 3948 
+stringed Mikoyan-Gurevich_MiG-21.txt 1 43 
+restricted Mikoyan-Gurevich_MiG-21.txt 1 957 
+smt Mikoyan-Gurevich_MiG-21.txt 1 725 
+crucial Mikoyan-Gurevich_MiG-21.txt 1 2282 
+trainers Mikoyan-Gurevich_MiG-21.txt 2 7140 7165 
+sukhoi Mikoyan-Gurevich_MiG-21.txt 2 190 347 
+got Mikoyan-Gurevich_MiG-21.txt 1 4636 
+newly Mikoyan-Gurevich_MiG-21.txt 1 6542 
+independence Mikoyan-Gurevich_MiG-21.txt 1 5799 
+19771978 Mikoyan-Gurevich_MiG-21.txt 1 6998 
+turning Mikoyan-Gurevich_MiG-21.txt 1 779 
+free Mikoyan-Gurevich_MiG-21.txt 1 5514 
+standard Mikoyan-Gurevich_MiG-21.txt 1 1011 
+244 Mikoyan-Gurevich_MiG-21.txt 1 3303 
+formation Mikoyan-Gurevich_MiG-21.txt 1 3977 
+struggle Mikoyan-Gurevich_MiG-21.txt 1 3443 
+batajnica Mikoyan-Gurevich_MiG-21.txt 2 6268 6319 
+mig-oboznachevnieto Mikoyan-Gurevich_MiG-21.txt 1 6969 
+storm Mikoyan-Gurevich_MiG-21.txt 1 6486 
+3.94 Mikoyan-Gurevich_MiG-21.txt 1 1771 
+created Mikoyan-Gurevich_MiG-21.txt 3 2729 2792 6543 
+starts Mikoyan-Gurevich_MiG-21.txt 1 1701 
+days Mikoyan-Gurevich_MiG-21.txt 3 3887 5185 5582 
+shipped Mikoyan-Gurevich_MiG-21.txt 1 5384 
+1970s Mikoyan-Gurevich_MiG-21.txt 2 2407 4196 
+perforated Mikoyan-Gurevich_MiG-21.txt 1 6024 
+uses Mikoyan-Gurevich_MiG-21.txt 2 1781 1793 
+speeds Mikoyan-Gurevich_MiG-21.txt 3 1291 1307 1322 
+nht Mikoyan-Gurevich_MiG-21.txt 2 2881 7352 
+featured Mikoyan-Gurevich_MiG-21.txt 1 262 
+another Mikoyan-Gurevich_MiG-21.txt 12 4036 4238 4583 4644 6585 6640 6733 6797 6992 7000 7154 7173 
+f-86 Mikoyan-Gurevich_MiG-21.txt 1 2355 
+170 Mikoyan-Gurevich_MiG-21.txt 1 2089 
+renovated Mikoyan-Gurevich_MiG-21.txt 1 7102 
+aleksotas Mikoyan-Gurevich_MiG-21.txt 1 367 
+657 Mikoyan-Gurevich_MiG-21.txt 1 1156 
+top Mikoyan-Gurevich_MiG-21.txt 1 1429 
+approximately Mikoyan-Gurevich_MiG-21.txt 1 75 
+mig-21f-13 Mikoyan-Gurevich_MiG-21.txt 6 1021 1171 1180 6189 6223 6582 
+rates Mikoyan-Gurevich_MiG-21.txt 1 6886 
+listed Mikoyan-Gurevich_MiG-21.txt 1 342 
+19661972 Mikoyan-Gurevich_MiG-21.txt 1 3051 
+probables Mikoyan-Gurevich_MiG-21.txt 1 4753 
+ceiling Mikoyan-Gurevich_MiG-21.txt 1 756 
+enhancing Mikoyan-Gurevich_MiG-21.txt 1 936 
+albert Mikoyan-Gurevich_MiG-21.txt 2 3776 3891 
+took Mikoyan-Gurevich_MiG-21.txt 5 2456 2542 3766 4005 7212 
+compressor Mikoyan-Gurevich_MiG-21.txt 2 682 1374 
+western Mikoyan-Gurevich_MiG-21.txt 6 1938 2297 2366 2524 5434 6758 
+somewhat Mikoyan-Gurevich_MiG-21.txt 4 596 613 711 5857 
+mig-21mf Mikoyan-Gurevich_MiG-21.txt 8 1117 3902 4568 5731 5841 5894 6229 7057 
+mig-21ma Mikoyan-Gurevich_MiG-21.txt 1 7656 
+target Mikoyan-Gurevich_MiG-21.txt 3 4004 4025 4080 
+enabled Mikoyan-Gurevich_MiG-21.txt 1 2246 
+likely Mikoyan-Gurevich_MiG-21.txt 3 5162 5205 5263 
+nations Mikoyan-Gurevich_MiG-21.txt 3 90 981 2395 
+project Mikoyan-Gurevich_MiG-21.txt 2 232 7726 
+flame Mikoyan-Gurevich_MiG-21.txt 1 2153 
+seater Mikoyan-Gurevich_MiG-21.txt 1 7646 
+minh Mikoyan-Gurevich_MiG-21.txt 1 3059 
+manned Mikoyan-Gurevich_MiG-21.txt 1 5762 
+e-150 Mikoyan-Gurevich_MiG-21.txt 1 454 
+modern Mikoyan-Gurevich_MiG-21.txt 4 1010 4271 4931 5138 
+seen Mikoyan-Gurevich_MiG-21.txt 3 1448 2664 5081 
+sounding Mikoyan-Gurevich_MiG-21.txt 1 7730 
+contents Mikoyan-Gurevich_MiG-21.txt 1 143 
+relatively Mikoyan-Gurevich_MiG-21.txt 2 411 2845 
+gorky Mikoyan-Gurevich_MiG-21.txt 4 1057 1066 1106 1125 
+surfaced Mikoyan-Gurevich_MiG-21.txt 1 5277 
+1968 Mikoyan-Gurevich_MiG-21.txt 2 3288 3335 
+1969 Mikoyan-Gurevich_MiG-21.txt 2 2768 3381 
+1964 Mikoyan-Gurevich_MiG-21.txt 4 1960 2733 4222 6244 
+1965 Mikoyan-Gurevich_MiG-21.txt 7 1997 2022 3285 3589 6609 6946 6990 
+1966 Mikoyan-Gurevich_MiG-21.txt 6 2119 2707 3191 3268 4230 7143 
+1967 Mikoyan-Gurevich_MiG-21.txt 2 4251 4297 
+1961 Mikoyan-Gurevich_MiG-21.txt 1 1924 
+1962 Mikoyan-Gurevich_MiG-21.txt 5 2512 6198 6207 6574 7027 
+1963 Mikoyan-Gurevich_MiG-21.txt 3 2049 6592 6911 
+causing Mikoyan-Gurevich_MiG-21.txt 1 659 
+forces Mikoyan-Gurevich_MiG-21.txt 11 1072 2541 2743 3272 4307 5600 5728 5765 6345 6350 7660 
+hatch Mikoyan-Gurevich_MiG-21.txt 1 1861 
+rp-21 Mikoyan-Gurevich_MiG-21.txt 1 2997 
+worsening Mikoyan-Gurevich_MiG-21.txt 1 746 
+blue Mikoyan-Gurevich_MiG-21.txt 1 7547 
+maiden Mikoyan-Gurevich_MiG-21.txt 2 95 282 
+though Mikoyan-Gurevich_MiG-21.txt 2 1089 4963 
+effective Mikoyan-Gurevich_MiG-21.txt 1 3030 
+mouth Mikoyan-Gurevich_MiG-21.txt 1 3707 
+phase Mikoyan-Gurevich_MiG-21.txt 1 4156 
+bisons Mikoyan-Gurevich_MiG-21.txt 1 2215 
+incomplete Mikoyan-Gurevich_MiG-21.txt 1 7434 
+consumed Mikoyan-Gurevich_MiG-21.txt 1 553 
+m Mikoyan-Gurevich_MiG-21.txt 13 1227 1235 1260 1568 1614 1630 1751 1756 1772 1778 3949 6710 7397 
+competitors Mikoyan-Gurevich_MiG-21.txt 1 1939 
+points Mikoyan-Gurevich_MiG-21.txt 2 1680 2292 
+mig-17s Mikoyan-Gurevich_MiG-21.txt 3 2756 3134 3487 
+ben-nun Mikoyan-Gurevich_MiG-21.txt 1 4628 
+came Mikoyan-Gurevich_MiG-21.txt 2 2335 3328 
+bomb Mikoyan-Gurevich_MiG-21.txt 3 2987 3041 5599 
+armament Mikoyan-Gurevich_MiG-21.txt 3 2943 6761 7751 
+multi-mission Mikoyan-Gurevich_MiG-21.txt 1 2992 
+nevada Mikoyan-Gurevich_MiG-21.txt 1 3408 
+hobson Mikoyan-Gurevich_MiG-21.txt 1 3054 
+layout Mikoyan-Gurevich_MiG-21.txt 3 438 482 619 
+guidance Mikoyan-Gurevich_MiG-21.txt 1 3097 
+lodge Mikoyan-Gurevich_MiG-21.txt 1 3663 
+exports Mikoyan-Gurevich_MiG-21.txt 1 948 
+352nd Mikoyan-Gurevich_MiG-21.txt 1 6290 
+cuanavale Mikoyan-Gurevich_MiG-21.txt 1 5826 
+preferred Mikoyan-Gurevich_MiG-21.txt 2 2832 2929 
+despite Mikoyan-Gurevich_MiG-21.txt 2 5811 6847 
+14 Mikoyan-Gurevich_MiG-21.txt 8 2103 2651 3200 4220 4228 4470 6104 6723 
+runs Mikoyan-Gurevich_MiG-21.txt 1 5109 
+on-board Mikoyan-Gurevich_MiG-21.txt 1 3231 
+countries Mikoyan-Gurevich_MiG-21.txt 2 77 951 
+guns Mikoyan-Gurevich_MiG-21.txt 4 5129 5132 5250 5352 
+kippur Mikoyan-Gurevich_MiG-21.txt 2 4729 4918 
+rival Mikoyan-Gurevich_MiG-21.txt 1 5604 
+insurgents Mikoyan-Gurevich_MiG-21.txt 2 5093 5803 
+stinger Mikoyan-Gurevich_MiG-21.txt 1 5810 
+squadron Mikoyan-Gurevich_MiG-21.txt 11 2595 2601 6288 6292 6305 6308 6311 6779 6798 6953 6978 
+circling Mikoyan-Gurevich_MiG-21.txt 1 3508 
+erroneous Mikoyan-Gurevich_MiG-21.txt 1 4092 
+swept Mikoyan-Gurevich_MiG-21.txt 1 263 
+1960s Mikoyan-Gurevich_MiG-21.txt 1 4195 
+decided Mikoyan-Gurevich_MiG-21.txt 1 4593 
+radius Mikoyan-Gurevich_MiG-21.txt 1 6021 
+b-52s Mikoyan-Gurevich_MiG-21.txt 1 4110 
+best Mikoyan-Gurevich_MiG-21.txt 1 3229 
+said Mikoyan-Gurevich_MiG-21.txt 1 4062 
+capacity Mikoyan-Gurevich_MiG-21.txt 2 698 714 
+wikipedia Mikoyan-Gurevich_MiG-21.txt 1 2 
+pressures Mikoyan-Gurevich_MiG-21.txt 1 1367 
+ogaden Mikoyan-Gurevich_MiG-21.txt 1 5622 
+oraos Mikoyan-Gurevich_MiG-21.txt 1 6505 
+however Mikoyan-Gurevich_MiG-21.txt 11 479 788 869 1538 1998 2076 2859 4668 4754 5443 5953 
+retirement Mikoyan-Gurevich_MiG-21.txt 1 7234 
+packages Mikoyan-Gurevich_MiG-21.txt 1 998 
+improve Mikoyan-Gurevich_MiG-21.txt 1 1734 
+faced Mikoyan-Gurevich_MiG-21.txt 2 970 4254 
+received Mikoyan-Gurevich_MiG-21.txt 13 2518 4930 6579 6902 6920 6951 6991 7006 7021 7035 7060 7093 7137 
+airflow Mikoyan-Gurevich_MiG-21.txt 1 1519 
+fault Mikoyan-Gurevich_MiG-21.txt 1 5527 
+against Mikoyan-Gurevich_MiG-21.txt 18 837 3126 3342 4449 4463 4476 4650 4735 4745 4898 4969 5091 5401 5457 5725 7429 7496 7506 
+coc Mikoyan-Gurevich_MiG-21.txt 1 3064 
+planned Mikoyan-Gurevich_MiG-21.txt 1 243 
+argue Mikoyan-Gurevich_MiG-21.txt 1 3980 
+libyan Mikoyan-Gurevich_MiG-21.txt 7 5402 5467 5475 5490 5515 5590 5613 
+83rd Mikoyan-Gurevich_MiG-21.txt 1 6293 
+height Mikoyan-Gurevich_MiG-21.txt 1 1560 
+252 Mikoyan-Gurevich_MiG-21.txt 1 2068 
+250 Mikoyan-Gurevich_MiG-21.txt 1 733 
+2204 Mikoyan-Gurevich_MiG-21.txt 1 5238 
+engines Mikoyan-Gurevich_MiG-21.txt 1 681 
+union Mikoyan-Gurevich_MiG-21.txt 9 29 877 1947 2242 2702 4544 4662 5795 6202 
+three Mikoyan-Gurevich_MiG-21.txt 20 1038 1288 1593 2824 3486 3975 4446 4512 4654 4806 4823 4874 5699 5705 5835 6099 6403 7163 7381 7424 
+been Mikoyan-Gurevich_MiG-21.txt 13 2080 2096 2728 3821 3941 4028 4106 5336 5560 5571 5595 6251 7244 
+quickly Mikoyan-Gurevich_MiG-21.txt 3 235 3384 3514 
+confident Mikoyan-Gurevich_MiG-21.txt 1 2965 
+much Mikoyan-Gurevich_MiG-21.txt 2 2375 2900 
+refurbished Mikoyan-Gurevich_MiG-21.txt 3 7002 7156 7581 
+basic Mikoyan-Gurevich_MiG-21.txt 1 437 
+entered Mikoyan-Gurevich_MiG-21.txt 2 6018 6455 
+duties Mikoyan-Gurevich_MiG-21.txt 1 868 
+eastern Mikoyan-Gurevich_MiG-21.txt 2 983 6760 
+uncommon Mikoyan-Gurevich_MiG-21.txt 1 6891 
+111 Mikoyan-Gurevich_MiG-21.txt 1 6702 
+personally Mikoyan-Gurevich_MiG-21.txt 1 2927 
+intakes Mikoyan-Gurevich_MiG-21.txt 1 182 
+aviation Mikoyan-Gurevich_MiG-21.txt 11 99 108 296 1175 3936 5057 6148 6304 7033 7044 7676 
+east Mikoyan-Gurevich_MiG-21.txt 4 4191 5256 5379 5568 
+tank Mikoyan-Gurevich_MiG-21.txt 4 618 671 1650 1897 
+oher Mikoyan-Gurevich_MiG-21.txt 1 7182 
+ground-controlled Mikoyan-Gurevich_MiG-21.txt 1 2676 
+nguy Mikoyan-Gurevich_MiG-21.txt 9 2879 7280 7328 7347 7350 7357 7361 7366 7374 
+n Mikoyan-Gurevich_MiG-21.txt 10 2633 2880 7281 7329 7348 7351 7358 7362 7367 7375 
+near Mikoyan-Gurevich_MiG-21.txt 5 3704 5251 5313 5502 5804 
+turbojet Mikoyan-Gurevich_MiG-21.txt 1 414 
+reconnaissance Mikoyan-Gurevich_MiG-21.txt 10 2480 5911 6931 6940 6967 6974 7018 7024 7065 7074 
+manpads Mikoyan-Gurevich_MiG-21.txt 4 5135 5247 5340 5359 
+launched Mikoyan-Gurevich_MiG-21.txt 1 3957 
+seven Mikoyan-Gurevich_MiG-21.txt 3 4330 6380 7342 
+afterburning Mikoyan-Gurevich_MiG-21.txt 1 413 
+5,765 Mikoyan-Gurevich_MiG-21.txt 1 1054 
+played Mikoyan-Gurevich_MiG-21.txt 3 1988 2280 3496 
+undercarriage Mikoyan-Gurevich_MiG-21.txt 2 1785 1869 
+is Mikoyan-Gurevich_MiG-21.txt 23 12 416 1196 1207 1213 1248 1271 1298 1359 1411 1425 1474 1488 1575 1641 1706 1912 2861 4061 5554 7303 7612 7718 
+mikoyan Mikoyan-Gurevich_MiG-21.txt 1 217 
+f-104s Mikoyan-Gurevich_MiG-21.txt 1 2346 
+conditioned Mikoyan-Gurevich_MiG-21.txt 1 1478 
+ii Mikoyan-Gurevich_MiG-21.txt 3 3423 3795 3953 
+brake Mikoyan-Gurevich_MiG-21.txt 2 1624 1640 
+experience Mikoyan-Gurevich_MiG-21.txt 1 2003 
+in Mikoyan-Gurevich_MiG-21.txt 191 26 107 212 229 303 306 333 397 583 590 601 664 846 851 900 942 947 1031 1037 1044 1056 1063 1105 1111 1121 1131 1136 1147 1177 1236 1264 1277 1369 1401 1555 1563 1799 1804 1871 1923 1959 1992 2038 2074 2098 2127 2170 2175 2284 2295 2311 2435 2439 2458 2499 2511 2522 2532 2554 2609 2688 2705 2767 2825 2936 2939 2958 3005 3014 3031 3047 3105 3176 3189 3253 3281 3444 3447 3461 3479 3561 3602 3695 3845 3877 3935 3973 4000 4012 4066 4083 4143 4146 4160 4188 4288 4308 4312 4325 4349 4357 4366 4405 4437 4547 4598 4643 4693 4997 5032 5067 5103 5120 5399 5461 5542 5565 5608 5635 5640 5713 5849 5939 5963 6092 6120 6197 6203 6217 6253 6337 6361 6373 6388 6399 6405 6421 6431 6436 6443 6477 6540 6573 6591 6608 6612 6617 6621 6628 6632 6637 6646 6656 6697 6791 6840 6855 6942 6944 6983 6989 6997 7010 7026 7029 7041 7052 7061 7129 7142 7146 7159 7161 7171 7190 7199 7246 7263 7301 7546 7550 7556 7572 7582 7588 7592 7663 7685 7688 7699 7714 
+if Mikoyan-Gurevich_MiG-21.txt 1 1643 
+confirmed Mikoyan-Gurevich_MiG-21.txt 17 3077 3473 3732 3807 4432 4444 4461 4471 4513 4739 4743 4896 4906 5016 5430 5880 7452 
+make Mikoyan-Gurevich_MiG-21.txt 2 1504 3110 
+rebellion Mikoyan-Gurevich_MiG-21.txt 1 5497 
+planform-view Mikoyan-Gurevich_MiG-21.txt 1 38 
+sabboura Mikoyan-Gurevich_MiG-21.txt 1 5252 
+mig-21bisd Mikoyan-Gurevich_MiG-21.txt 1 7578 
+mig-21bisk Mikoyan-Gurevich_MiG-21.txt 1 6233 
+several Mikoyan-Gurevich_MiG-21.txt 10 987 1936 2179 2394 3130 5581 5638 5696 7265 7441 
+wheel Mikoyan-Gurevich_MiG-21.txt 1 1852 
+benina Mikoyan-Gurevich_MiG-21.txt 2 5507 5533 
+126th Mikoyan-Gurevich_MiG-21.txt 1 6271 
+19741975 Mikoyan-Gurevich_MiG-21.txt 1 7062 
+slovenia Mikoyan-Gurevich_MiG-21.txt 1 6362 
+internal Mikoyan-Gurevich_MiG-21.txt 4 539 550 616 1878 
+vpafs Mikoyan-Gurevich_MiG-21.txt 1 3455 
+f-14s Mikoyan-Gurevich_MiG-21.txt 1 5429 
+programs Mikoyan-Gurevich_MiG-21.txt 3 955 2047 3411 
+1977 Mikoyan-Gurevich_MiG-21.txt 1 5413 
+1973 Mikoyan-Gurevich_MiG-21.txt 4 3593 4695 4788 4870 
+1972 Mikoyan-Gurevich_MiG-21.txt 9 2782 3449 3603 3652 3747 3771 3849 3884 4045 
+1971 Mikoyan-Gurevich_MiG-21.txt 2 2227 2303 
+1970 Mikoyan-Gurevich_MiG-21.txt 3 2086 4549 4562 
+claims Mikoyan-Gurevich_MiG-21.txt 2 4035 4763 
+the Mikoyan-Gurevich_MiG-21.txt 574 3 22 27 36 41 55 83 102 110 115 120 132 148 161 167 189 197 201 209 213 242 247 251 254 265 277 294 307 311 319 331 338 343 354 380 384 387 420 431 452 460 480 484 497 510 516 524 534 538 544 549 554 566 570 575 606 610 615 643 655 668 680 687 692 700 719 722 739 743 766 789 793 816 819 852 859 872 875 880 893 902 916 922 930 933 964 1005 1032 1070 1081 1087 1093 1101 1116 1127 1174 1183 1189 1193 1203 1210 1216 1239 1246 1265 1269 1278 1285 1296 1302 1314 1318 1327 1331 1336 1340 1349 1352 1362 1373 1376 1382 1389 1396 1402 1406 1408 1414 1417 1420 1428 1431 1437 1445 1450 1459 1465 1469 1472 1483 1485 1491 1495 1501 1509 1511 1514 1517 1526 1531 1536 1545 1558 1571 1573 1578 1582 1585 1589 1598 1603 1605 1621 1637 1644 1652 1656 1659 1664 1668 1672 1676 1685 1689 1695 1699 1711 1714 1728 1731 1737 1760 1779 1789 1807 1813 1817 1820 1826 1832 1837 1839 1845 1848 1850 1864 1872 1893 1899 1913 1925 1933 1943 1945 1961 1964 1973 1985 1993 1999 2006 2012 2014 2021 2031 2040 2077 2114 2129 2139 2178 2185 2189 2198 2212 2217 2232 2260 2263 2268 2271 2276 2278 2286 2296 2300 2302 2306 2312 2331 2333 2339 2369 2374 2380 2383 2388 2392 2405 2417 2436 2451 2461 2469 2483 2487 2500 2504 2523 2537 2544 2552 2579 2585 2590 2617 2621 2631 2636 2654 2669 2689 2694 2700 2722 2739 2758 2761 2776 2794 2797 2801 2821 2826 2833 2836 2841 2849 2854 2863 2897 2930 2944 2956 2978 2981 3006 3048 3070 3082 3087 3090 3103 3118 3133 3139 3143 3156 3163 3177 3184 3187 3192 3196 3205 3210 3220 3225 3228 3233 3250 3256 3269 3295 3310 3343 3350 3354 3359 3382 3391 3413 3419 3427 3437 3439 3442 3445 3454 3497 3502 3512 3516 3535 3568 3580 3583 3604 3616 3682 3693 3701 3705 3710 3730 3737 3739 3759 3762 3784 3799 3810 3817 3822 3846 3850 3860 3878 3906 3922 3938 3970 3974 4024 4031 4050 4067 4079 4086 4117 4120 4124 4127 4149 4158 4163 4182 4189 4194 4200 4211 4232 4269 4289 4292 4296 4300 4313 4341 4353 4367 4369 4378 4395 4406 4410 4413 4416 4420 4423 4453 4485 4488 4493 4496 4509 4534 4542 4647 4651 4660 4666 4686 4727 4770 4780 4784 4884 4887 4910 4913 4916 4921 4924 4940 4946 4953 4987 4998 5003 5035 5041 5046 5062 5076 5085 5097 5115 5118 5122 5142 5144 5265 5274 5283 5293 5326 5333 5362 5407 5418 5432 5448 5462 5473 5496 5513 5522 5557 5586 5589 5603 5611 5621 5655 5661 5665 5670 5714 5722 5751 5797 5822 5840 5843 5850 5884 5928 5936 5958 5976 5992 5999 6012 6049 6071 6077 6082 6137 6142 6166 6173 6200 6204 6209 6263 6323 6327 6331 6352 6355 6414 6429 6458 6469 6487 6541 6549 6560 6588 6596 6643 6665 6670 6675 6678 6681 6716 6752 6764 6787 6792 6807 6832 6851 6857 6868 6898 6912 6917 6938 6947 6971 6985 7068 7072 7089 7111 7115 7120 7133 7200 7203 7233 7236 7239 7278 7285 7295 7306 7323 7393 7426 7433 7462 7472 7481 7488 7512 7608 7635 7672 7686 7736 
+800 Mikoyan-Gurevich_MiG-21.txt 1 1797 
+musical Mikoyan-Gurevich_MiG-21.txt 1 44 
+8.5gs Mikoyan-Gurevich_MiG-21.txt 1 850 
+iiicjs Mikoyan-Gurevich_MiG-21.txt 1 4825 
+just Mikoyan-Gurevich_MiG-21.txt 3 1462 1670 3885 
+mirages Mikoyan-Gurevich_MiG-21.txt 5 4247 4616 5403 5903 6013 
+fighters Mikoyan-Gurevich_MiG-21.txt 17 66 74 158 329 839 967 2057 2994 3280 3570 3639 4429 6783 6838 6995 7058 7132 
+mig Mikoyan-Gurevich_MiG-21.txt 7 457 2056 3688 4108 4866 5994 6143 
+human Mikoyan-Gurevich_MiG-21.txt 1 5330 
+semi-monocoque Mikoyan-Gurevich_MiG-21.txt 1 1249 
+cross-border Mikoyan-Gurevich_MiG-21.txt 1 5775 
+m/mf Mikoyan-Gurevich_MiG-21.txt 1 706 
+r-73 Mikoyan-Gurevich_MiG-21.txt 1 6766 
+agile Mikoyan-Gurevich_MiG-21.txt 1 3346 
+regarded Mikoyan-Gurevich_MiG-21.txt 1 7304 
+had Mikoyan-Gurevich_MiG-21.txt 25 526 565 674 709 728 1453 2342 2371 2727 2904 3819 3940 4027 4391 4430 4929 5080 5124 5335 5559 5570 6017 6213 6250 6875 
+wings Mikoyan-Gurevich_MiG-21.txt 4 186 264 270 478 
+has Mikoyan-Gurevich_MiG-21.txt 9 1185 1287 1625 1740 1762 2051 2079 6874 7136 
+gave Mikoyan-Gurevich_MiG-21.txt 1 2856 
+dihedral Mikoyan-Gurevich_MiG-21.txt 1 1211 
+possible Mikoyan-Gurevich_MiG-21.txt 1 807 
+arab Mikoyan-Gurevich_MiG-21.txt 1 4305 
+possibly Mikoyan-Gurevich_MiG-21.txt 1 2204 
+descending Mikoyan-Gurevich_MiG-21.txt 1 5373 
+30 Mikoyan-Gurevich_MiG-21.txt 8 1041 4601 4895 5153 6881 7098 7695 7703 
+altitude Mikoyan-Gurevich_MiG-21.txt 3 761 3511 3844 
+unique Mikoyan-Gurevich_MiG-21.txt 1 7573 
+advanced Mikoyan-Gurevich_MiG-21.txt 1 966 
+54 Mikoyan-Gurevich_MiG-21.txt 1 3619 
+57 Mikoyan-Gurevich_MiG-21.txt 2 1197 1767 
+56 Mikoyan-Gurevich_MiG-21.txt 2 4460 6614 
+50 Mikoyan-Gurevich_MiG-21.txt 2 2173 6888 
+specific Mikoyan-Gurevich_MiG-21.txt 2 3861 7499 
+flaps Mikoyan-Gurevich_MiG-21.txt 1 1229 
+night Mikoyan-Gurevich_MiG-21.txt 3 3691 3879 4102 
+right Mikoyan-Gurevich_MiG-21.txt 4 1446 1460 1579 2535 
+old Mikoyan-Gurevich_MiG-21.txt 1 4941 
+deal Mikoyan-Gurevich_MiG-21.txt 2 1944 3837 
+successfully Mikoyan-Gurevich_MiG-21.txt 1 5397 
+northrop Mikoyan-Gurevich_MiG-21.txt 1 426 
+deflection Mikoyan-Gurevich_MiG-21.txt 2 1617 1633 
+for Mikoyan-Gurevich_MiG-21.txt 56 224 441 515 771 865 938 1069 1076 1084 1097 1100 1290 1306 1321 1355 1561 1658 1681 1708 1956 2008 2030 2172 2400 2556 2650 2673 2683 2925 3168 3779 3859 3921 4030 4439 4545 4769 4952 5329 5576 5796 6462 6473 6491 6648 6664 6669 6677 6720 6751 6930 7017 7232 7258 7498 7723 
+bottom Mikoyan-Gurevich_MiG-21.txt 2 1415 1729 
+cng Mikoyan-Gurevich_MiG-21.txt 1 7335 
+denied Mikoyan-Gurevich_MiG-21.txt 2 4523 4982 
+christmas Mikoyan-Gurevich_MiG-21.txt 1 3800 
+f/a-18e/f Mikoyan-Gurevich_MiG-21.txt 1 6824 
+serbian Mikoyan-Gurevich_MiG-21.txt 2 6426 7564 
+illustration Mikoyan-Gurevich_MiG-21.txt 1 352 
+defensive Mikoyan-Gurevich_MiG-21.txt 1 2009 
+losing Mikoyan-Gurevich_MiG-21.txt 3 4805 4830 4864 
+mig-21u-400/600 Mikoyan-Gurevich_MiG-21.txt 1 6611 
+super Mikoyan-Gurevich_MiG-21.txt 1 6825 
+properties Mikoyan-Gurevich_MiG-21.txt 1 3238 
+underpowered Mikoyan-Gurevich_MiG-21.txt 1 246 
+attacks Mikoyan-Gurevich_MiG-21.txt 6 3017 3117 3125 3137 4294 5106 
+delta-winged Mikoyan-Gurevich_MiG-21.txt 1 446 
+months Mikoyan-Gurevich_MiG-21.txt 1 5280 
+hostilities Mikoyan-Gurevich_MiG-21.txt 1 2334 
+o Mikoyan-Gurevich_MiG-21.txt 1 7356 
+plus Mikoyan-Gurevich_MiG-21.txt 4 4751 4842 6625 6639 
+127th Mikoyan-Gurevich_MiG-21.txt 1 6272 
+lacked Mikoyan-Gurevich_MiG-21.txt 1 2980 
+chengdu Mikoyan-Gurevich_MiG-21.txt 1 7609 
+civil Mikoyan-Gurevich_MiG-21.txt 6 5050 5064 5078 5476 5614 5747 
+down Mikoyan-Gurevich_MiG-21.txt 28 663 2476 3147 3216 3471 3522 3635 3648 3720 3867 4135 4175 4237 4244 4570 4588 4796 5194 5241 5307 5325 5349 5426 5452 5685 5998 6384 6395 
+ussr Mikoyan-Gurevich_MiG-21.txt 4 498 1033 1088 1102 
+sot Mikoyan-Gurevich_MiG-21.txt 1 7364 
+fuselage Mikoyan-Gurevich_MiG-21.txt 7 59 474 1247 1690 1700 1827 1846 
+formidable Mikoyan-Gurevich_MiG-21.txt 2 2251 2389 
+attrition Mikoyan-Gurevich_MiG-21.txt 4 4426 4456 4499 4537 
+cones Mikoyan-Gurevich_MiG-21.txt 1 5979 
+antiaircraft Mikoyan-Gurevich_MiG-21.txt 2 5131 5249 
+support Mikoyan-Gurevich_MiG-21.txt 2 867 2584 
+flying Mikoyan-Gurevich_MiG-21.txt 15 2814 2820 2886 2974 3843 3972 4566 4619 5832 7277 7322 7392 7522 7527 7734 
+width Mikoyan-Gurevich_MiG-21.txt 2 1257 1805 
+fought Mikoyan-Gurevich_MiG-21.txt 1 2531 
+tallied Mikoyan-Gurevich_MiG-21.txt 1 7416 
+crews Mikoyan-Gurevich_MiG-21.txt 2 4554 4674 
+resulted Mikoyan-Gurevich_MiG-21.txt 2 3560 4356 
+was Mikoyan-Gurevich_MiG-21.txt 66 31 152 233 239 245 276 386 402 439 531 552 645 806 856 895 1118 1129 1566 1880 2166 2428 2446 2648 2671 2746 2899 2934 2947 2963 3450 3646 3678 3757 3852 3992 4097 4184 4225 4235 4663 5030 5040 5150 5158 5161 5192 5204 5239 5262 5267 5305 5323 5357 5383 5932 6023 6124 6144 6221 6483 6494 6674 6690 6862 7124 7228 
+war Mikoyan-Gurevich_MiG-21.txt 52 117 1995 2013 2023 2188 2230 2274 2277 2304 2422 2438 2656 2795 3050 3089 3188 3356 3585 3818 4126 4181 4299 4418 4424 4454 4491 4497 4535 4730 4772 4785 4888 4919 4927 4990 5002 5048 5051 5065 5079 5410 5415 5420 5477 5615 5623 5748 5886 6141 6356 7474 7484 
+questionable Mikoyan-Gurevich_MiG-21.txt 1 657 
+head Mikoyan-Gurevich_MiG-21.txt 1 1457 
+form Mikoyan-Gurevich_MiG-21.txt 1 777 
+offer Mikoyan-Gurevich_MiG-21.txt 2 996 6661 
+attempted Mikoyan-Gurevich_MiG-21.txt 1 6086 
+landing Mikoyan-Gurevich_MiG-21.txt 8 1661 1791 1822 1867 2630 5168 5211 6119 
+26th Mikoyan-Gurevich_MiG-21.txt 2 6939 7073 
+failure Mikoyan-Gurevich_MiG-21.txt 1 1879 
+225 Mikoyan-Gurevich_MiG-21.txt 1 1163 
+224 Mikoyan-Gurevich_MiG-21.txt 1 6906 
+analyst Mikoyan-Gurevich_MiG-21.txt 1 2368 
+loss-exchange Mikoyan-Gurevich_MiG-21.txt 1 3340 
+strafing Mikoyan-Gurevich_MiG-21.txt 1 5108 
+versions Mikoyan-Gurevich_MiG-21.txt 6 61 69 1435 2764 6805 7605 
+inside Mikoyan-Gurevich_MiG-21.txt 1 1863 
+attached Mikoyan-Gurevich_MiG-21.txt 2 1412 1426 
+maximum Mikoyan-Gurevich_MiG-21.txt 3 1256 1303 1332 
+f-16am/bm Mikoyan-Gurevich_MiG-21.txt 1 6782 
+ejections Mikoyan-Gurevich_MiG-21.txt 1 1523 
+prematurely Mikoyan-Gurevich_MiG-21.txt 1 3162 
+serialed Mikoyan-Gurevich_MiG-21.txt 1 5237 
+nosewheel Mikoyan-Gurevich_MiG-21.txt 1 1894 
+155 Mikoyan-Gurevich_MiG-21.txt 1 735 
+moore Mikoyan-Gurevich_MiG-21.txt 2 3778 3892 
+israel Mikoyan-Gurevich_MiG-21.txt 14 4286 4344 4458 4500 4519 4522 4592 4704 4705 4731 4928 4981 7430 7497 
+evidence Mikoyan-Gurevich_MiG-21.txt 2 5272 5354 
+a1c Mikoyan-Gurevich_MiG-21.txt 1 3775 
+hama Mikoyan-Gurevich_MiG-21.txt 2 5258 5312 
+ship Mikoyan-Gurevich_MiG-21.txt 1 2704 
+stabilator Mikoyan-Gurevich_MiG-21.txt 2 1722 1761 
+constructed Mikoyan-Gurevich_MiG-21.txt 2 1074 1120 
+nh Mikoyan-Gurevich_MiG-21.txt 2 7331 7346 
+marking Mikoyan-Gurevich_MiG-21.txt 1 5733 
+f-15s Mikoyan-Gurevich_MiG-21.txt 1 4932 
+no Mikoyan-Gurevich_MiG-21.txt 3 4109 5082 5288 
+generally Mikoyan-Gurevich_MiG-21.txt 2 1065 3180 
+cambodia Mikoyan-Gurevich_MiG-21.txt 1 7169 
+ng Mikoyan-Gurevich_MiG-21.txt 3 7339 7341 7359 
+tin Mikoyan-Gurevich_MiG-21.txt 1 7368 
+republic Mikoyan-Gurevich_MiG-21.txt 3 2798 3024 6545 
+test Mikoyan-Gurevich_MiG-21.txt 3 2269 2592 2604 
+scored Mikoyan-Gurevich_MiG-21.txt 9 2884 2952 4337 4646 4719 7298 7409 7470 7503 
+picture Mikoyan-Gurevich_MiG-21.txt 1 5271 
+exported Mikoyan-Gurevich_MiG-21.txt 1 896 
+rolling Mikoyan-Gurevich_MiG-21.txt 1 3326 
+unlocking Mikoyan-Gurevich_MiG-21.txt 1 1859 
+died Mikoyan-Gurevich_MiG-21.txt 2 5366 5580 
+faster Mikoyan-Gurevich_MiG-21.txt 1 2901 
+landed Mikoyan-Gurevich_MiG-21.txt 2 5505 6031 
+loyal Mikoyan-Gurevich_MiG-21.txt 1 5601 
+vietnam Mikoyan-Gurevich_MiG-21.txt 17 2606 2610 2637 2655 2693 2784 2800 3049 3088 3299 3301 3355 3713 3815 3918 4125 7286 
+time Mikoyan-Gurevich_MiG-21.txt 6 759 2332 3700 4054 4482 4961 
+restored Mikoyan-Gurevich_MiG-21.txt 1 6145 
+managed Mikoyan-Gurevich_MiG-21.txt 1 3481 
+deliveries Mikoyan-Gurevich_MiG-21.txt 1 6593 
+snir Mikoyan-Gurevich_MiG-21.txt 1 4618 
+battle Mikoyan-Gurevich_MiG-21.txt 4 3107 4699 5039 5823 
+bomber Mikoyan-Gurevich_MiG-21.txt 1 5703 
+helicopter Mikoyan-Gurevich_MiG-21.txt 1 6398 
+mounted Mikoyan-Gurevich_MiG-21.txt 1 764 
+flash Mikoyan-Gurevich_MiG-21.txt 1 6479 
+0 Mikoyan-Gurevich_MiG-21.txt 1 1208 
+finally Mikoyan-Gurevich_MiG-21.txt 1 500 
+suffered Mikoyan-Gurevich_MiG-21.txt 3 4984 5287 5524 
+shoot Mikoyan-Gurevich_MiG-21.txt 1 4795 
+advantage Mikoyan-Gurevich_MiG-21.txt 1 3248 
+1993 Mikoyan-Gurevich_MiG-21.txt 2 6437 6657 
+f-105s Mikoyan-Gurevich_MiG-21.txt 2 3157 3201 
+mig-19 Mikoyan-Gurevich_MiG-21.txt 5 169 691 2774 3490 3833 
+tanks Mikoyan-Gurevich_MiG-21.txt 5 541 603 633 675 5952 
+1995 Mikoyan-Gurevich_MiG-21.txt 1 6518 
+mig-17 Mikoyan-Gurevich_MiG-21.txt 8 165 689 2736 2827 2834 2855 2888 3831 
+mig-15 Mikoyan-Gurevich_MiG-21.txt 2 163 688 
+perceived Mikoyan-Gurevich_MiG-21.txt 1 2865 
+921st Mikoyan-Gurevich_MiG-21.txt 5 2723 3072 3197 3907 4051 
+tricycle Mikoyan-Gurevich_MiG-21.txt 1 1783 
+did Mikoyan-Gurevich_MiG-21.txt 8 491 3165 3574 4773 4965 6131 6346 6659 
+12th Mikoyan-Gurevich_MiG-21.txt 1 6078 
+1996 Mikoyan-Gurevich_MiG-21.txt 1 6872 
+gun Mikoyan-Gurevich_MiG-21.txt 2 5181 5226 
+rf-4c Mikoyan-Gurevich_MiG-21.txt 1 3643 
+1999 Mikoyan-Gurevich_MiG-21.txt 4 2186 2434 2459 6550 
+loads Mikoyan-Gurevich_MiG-21.txt 1 3042 
+slower Mikoyan-Gurevich_MiG-21.txt 1 758 
+sign Mikoyan-Gurevich_MiG-21.txt 1 4689 
+cost Mikoyan-Gurevich_MiG-21.txt 1 744 
+takeoff Mikoyan-Gurevich_MiG-21.txt 3 364 1400 5531 
+targets Mikoyan-Gurevich_MiG-21.txt 1 5761 
+mig-21rfm Mikoyan-Gurevich_MiG-21.txt 1 6605 
+comparable Mikoyan-Gurevich_MiG-21.txt 1 418 
+current Mikoyan-Gurevich_MiG-21.txt 1 7543 
+somalia Mikoyan-Gurevich_MiG-21.txt 1 5690 
+shared Mikoyan-Gurevich_MiG-21.txt 1 7421 
+mig-21mf/mf-75 Mikoyan-Gurevich_MiG-21.txt 1 6631 
+explosion Mikoyan-Gurevich_MiG-21.txt 1 4068 
+french Mikoyan-Gurevich_MiG-21.txt 1 432 
+groups Mikoyan-Gurevich_MiG-21.txt 1 3028 
+kargil Mikoyan-Gurevich_MiG-21.txt 3 2187 2421 2437 
+along Mikoyan-Gurevich_MiG-21.txt 1 6161 
+appears Mikoyan-Gurevich_MiG-21.txt 1 4089 
+change Mikoyan-Gurevich_MiG-21.txt 1 5944 
+wait Mikoyan-Gurevich_MiG-21.txt 1 3167 
+unidentified Mikoyan-Gurevich_MiG-21.txt 1 4641 
+shift Mikoyan-Gurevich_MiG-21.txt 1 559 
+usually Mikoyan-Gurevich_MiG-21.txt 1 3132 
+airbase Mikoyan-Gurevich_MiG-21.txt 2 5173 5259 
+ngn Mikoyan-Gurevich_MiG-21.txt 1 7327 
+mimicked Mikoyan-Gurevich_MiG-21.txt 1 3436 
+absorbers Mikoyan-Gurevich_MiG-21.txt 1 1834 
+t-33 Mikoyan-Gurevich_MiG-21.txt 1 2557 
+ethiopian Mikoyan-Gurevich_MiG-21.txt 3 5626 5697 5708 
+marked Mikoyan-Gurevich_MiG-21.txt 1 2238 
+controls Mikoyan-Gurevich_MiG-21.txt 1 905 
+1st Mikoyan-Gurevich_MiG-21.txt 1 3665 
+cuito Mikoyan-Gurevich_MiG-21.txt 1 5825 
+handled Mikoyan-Gurevich_MiG-21.txt 1 5658 
+perished Mikoyan-Gurevich_MiG-21.txt 1 4065 
+positive Mikoyan-Gurevich_MiG-21.txt 1 2015 
+soko Mikoyan-Gurevich_MiG-21.txt 1 6503 
+bases Mikoyan-Gurevich_MiG-21.txt 2 6360 6372 
+syrians Mikoyan-Gurevich_MiG-21.txt 1 4510 
+today Mikoyan-Gurevich_MiG-21.txt 1 6745 
+high-speed Mikoyan-Gurevich_MiG-21.txt 3 1518 1522 3015 
+acceptable Mikoyan-Gurevich_MiG-21.txt 1 562 
+envelope Mikoyan-Gurevich_MiG-21.txt 1 935 
+oregon Mikoyan-Gurevich_MiG-21.txt 1 7716 
+nguyen Mikoyan-Gurevich_MiG-21.txt 2 3062 3786 
+attained Mikoyan-Gurevich_MiG-21.txt 3 2816 7268 7388 
+downing Mikoyan-Gurevich_MiG-21.txt 2 3032 3780 
+commissioned Mikoyan-Gurevich_MiG-21.txt 1 2785 
+avoiding Mikoyan-Gurevich_MiG-21.txt 1 5677 
+incidents Mikoyan-Gurevich_MiG-21.txt 1 2180 
+can Mikoyan-Gurevich_MiG-21.txt 5 594 1543 1853 2146 6755 
+9th Mikoyan-Gurevich_MiG-21.txt 1 6072 
+making Mikoyan-Gurevich_MiG-21.txt 1 569 
+pretoria Mikoyan-Gurevich_MiG-21.txt 1 6157 
+spy Mikoyan-Gurevich_MiG-21.txt 1 3642 
+december Mikoyan-Gurevich_MiG-21.txt 10 2157 3190 3267 3746 3770 3883 4044 6105 7221 7225 
+confused Mikoyan-Gurevich_MiG-21.txt 1 323 
+chiu Mikoyan-Gurevich_MiG-21.txt 3 2882 2922 7353 
+parachute Mikoyan-Gurevich_MiG-21.txt 1 1534 
+performed Mikoyan-Gurevich_MiG-21.txt 1 3135 
+235 Mikoyan-Gurevich_MiG-21.txt 1 802 
+razak Mikoyan-Gurevich_MiG-21.txt 1 7460 
+occur Mikoyan-Gurevich_MiG-21.txt 1 5044 
+dogfight Mikoyan-Gurevich_MiG-21.txt 1 5966 
+warplane Mikoyan-Gurevich_MiG-21.txt 1 5334 
+range Mikoyan-Gurevich_MiG-21.txt 5 529 731 2605 2667 5972 
+1 Mikoyan-Gurevich_MiG-21.txt 2 1263 3333 
+vital Mikoyan-Gurevich_MiG-21.txt 1 2291 
+fourth Mikoyan-Gurevich_MiG-21.txt 3 2787 4370 4648 
+crashes Mikoyan-Gurevich_MiG-21.txt 1 2125 
+marketability Mikoyan-Gurevich_MiG-21.txt 1 946 
+may Mikoyan-Gurevich_MiG-21.txt 7 2662 3265 3451 3491 3550 4015 4104 
+designated Mikoyan-Gurevich_MiG-21.txt 1 227 
+crashed Mikoyan-Gurevich_MiG-21.txt 3 2106 5529 5541 
+designed Mikoyan-Gurevich_MiG-21.txt 4 20 521 1002 2672 
+date Mikoyan-Gurevich_MiG-21.txt 1 4118 
+such Mikoyan-Gurevich_MiG-21.txt 6 187 751 1889 5140 5788 6762 
+data Mikoyan-Gurevich_MiG-21.txt 1 7744 
+supersonic Mikoyan-Gurevich_MiG-21.txt 7 14 104 168 1966 2162 2308 3420 
+piloted Mikoyan-Gurevich_MiG-21.txt 4 3660 5646 6002 6181 
+long-range Mikoyan-Gurevich_MiG-21.txt 1 2982 
+africas Mikoyan-Gurevich_MiG-21.txt 1 5878 
+variable-geometry Mikoyan-Gurevich_MiG-21.txt 1 861 
+sm Mikoyan-Gurevich_MiG-21.txt 1 7369 
+african Mikoyan-Gurevich_MiG-21.txt 5 5737 5769 5867 5923 6139 
+tbilisi Mikoyan-Gurevich_MiG-21.txt 4 1064 1079 1112 1137 
+typical Mikoyan-Gurevich_MiG-21.txt 1 911 
+air-defense Mikoyan-Gurevich_MiG-21.txt 1 5816 
+serving Mikoyan-Gurevich_MiG-21.txt 1 6412 
+lighter Mikoyan-Gurevich_MiG-21.txt 2 2850 3257 
+canberra Mikoyan-Gurevich_MiG-21.txt 2 5702 5908 
+mainly Mikoyan-Gurevich_MiG-21.txt 1 507 
+years Mikoyan-Gurevich_MiG-21.txt 3 2174 3697 6598 
+stability Mikoyan-Gurevich_MiG-21.txt 1 926 
+course Mikoyan-Gurevich_MiG-21.txt 5 3185 3581 4999 5945 6114 
+maneuvered Mikoyan-Gurevich_MiG-21.txt 1 5974 
+still Mikoyan-Gurevich_MiG-21.txt 1 87 
+variantsthough Mikoyan-Gurevich_MiG-21.txt 1 707 
+blocked Mikoyan-Gurevich_MiG-21.txt 1 1642 
+culmination Mikoyan-Gurevich_MiG-21.txt 1 3440 
+air-to-air Mikoyan-Gurevich_MiG-21.txt 10 2491 3338 3733 3764 3803 4326 4350 4766 5881 6489 
+group Mikoyan-Gurevich_MiG-21.txt 1 3532 
+thanh Mikoyan-Gurevich_MiG-21.txt 2 7326 7355 
+how Mikoyan-Gurevich_MiG-21.txt 1 5321 
+second-generation Mikoyan-Gurevich_MiG-21.txt 1 64 
+ethiopia Mikoyan-Gurevich_MiG-21.txt 1 5680 
+main Mikoyan-Gurevich_MiG-21.txt 5 1660 1790 1821 7531 7538 
+decades Mikoyan-Gurevich_MiG-21.txt 1 92 
+lancers Mikoyan-Gurevich_MiG-21.txt 1 6748 
+thereby Mikoyan-Gurevich_MiG-21.txt 1 658 
+civilian Mikoyan-Gurevich_MiG-21.txt 1 7667 
+100,000 Mikoyan-Gurevich_MiG-21.txt 1 6883 
+1955 Mikoyan-Gurevich_MiG-21.txt 1 287 
+records Mikoyan-Gurevich_MiG-21.txt 3 100 6376 7438 
+1956 Mikoyan-Gurevich_MiG-21.txt 1 305 
+markings Mikoyan-Gurevich_MiG-21.txt 3 2614 7256 7651 
+half Mikoyan-Gurevich_MiG-21.txt 3 642 2112 6794 
+not Mikoyan-Gurevich_MiG-21.txt 17 492 812 870 1881 2862 3166 3575 3806 3836 4226 4774 6010 6132 6347 6660 6890 7597 
+sorted Mikoyan-Gurevich_MiG-21.txt 1 7508 
+now Mikoyan-Gurevich_MiG-21.txt 1 128 
+killed Mikoyan-Gurevich_MiG-21.txt 4 2097 4658 5268 5368 
+maintaining Mikoyan-Gurevich_MiG-21.txt 1 6867 
+f-16s Mikoyan-Gurevich_MiG-21.txt 1 4934 
+escorting Mikoyan-Gurevich_MiG-21.txt 1 5904 
+name Mikoyan-Gurevich_MiG-21.txt 1 10 
+january Mikoyan-Gurevich_MiG-21.txt 2 3592 6945 
+drop Mikoyan-Gurevich_MiG-21.txt 1 3159 
+f-16a Mikoyan-Gurevich_MiG-21.txt 1 821 
+19721975 Mikoyan-Gurevich_MiG-21.txt 1 6633 
+unloaded Mikoyan-Gurevich_MiG-21.txt 1 2710 
+fired Mikoyan-Gurevich_MiG-21.txt 1 2915 
+ec Mikoyan-Gurevich_MiG-21.txt 1 6397 
+18th Mikoyan-Gurevich_MiG-21.txt 1 6948 
+persian Mikoyan-Gurevich_MiG-21.txt 1 7482 
+begun Mikoyan-Gurevich_MiG-21.txt 1 994 
+year Mikoyan-Gurevich_MiG-21.txt 1 5074 
+ultimately Mikoyan-Gurevich_MiG-21.txt 2 878 3597 
+opened Mikoyan-Gurevich_MiG-21.txt 1 5961 
+3rd Mikoyan-Gurevich_MiG-21.txt 1 7653 
+space Mikoyan-Gurevich_MiG-21.txt 3 513 7707 7712 
+neshers Mikoyan-Gurevich_MiG-21.txt 2 4813 4836 
+hamshu Mikoyan-Gurevich_MiG-21.txt 1 7408 
+exploding Mikoyan-Gurevich_MiG-21.txt 1 4011 
+statically Mikoyan-Gurevich_MiG-21.txt 1 572 
+suggesting Mikoyan-Gurevich_MiG-21.txt 1 5355 
+bison Mikoyan-Gurevich_MiG-21.txt 2 1910 2192 
+204th Mikoyan-Gurevich_MiG-21.txt 1 6264 
+eagle Mikoyan-Gurevich_MiG-21.txt 2 136 4275 
+earlier Mikoyan-Gurevich_MiG-21.txt 2 1753 5583 
+defenses Mikoyan-Gurevich_MiG-21.txt 2 6387 6428 
+siege Mikoyan-Gurevich_MiG-21.txt 2 5175 5218 
+million Mikoyan-Gurevich_MiG-21.txt 1 3317 
+vicious Mikoyan-Gurevich_MiG-21.txt 1 5965 
+california Mikoyan-Gurevich_MiG-21.txt 1 3377 
+rebel Mikoyan-Gurevich_MiG-21.txt 1 5764 
+besides Mikoyan-Gurevich_MiG-21.txt 1 7131 
+span Mikoyan-Gurevich_MiG-21.txt 1 1775 
+advance Mikoyan-Gurevich_MiG-21.txt 1 5940 
+training Mikoyan-Gurevich_MiG-21.txt 10 954 1984 2046 2403 3395 6074 6316 6571 7183 7259 
+recon Mikoyan-Gurevich_MiG-21.txt 1 6291 
+british Mikoyan-Gurevich_MiG-21.txt 1 2867 
+turn Mikoyan-Gurevich_MiG-21.txt 3 943 3480 6020 
+place Mikoyan-Gurevich_MiG-21.txt 4 2027 2457 3767 4041 
+massive Mikoyan-Gurevich_MiG-21.txt 1 3226 
+think Mikoyan-Gurevich_MiG-21.txt 1 4020 
+first Mikoyan-Gurevich_MiG-21.txt 22 266 290 388 1119 1403 1965 2307 2695 3683 3694 3740 3923 4213 4233 4314 5098 5145 5879 6174 6193 6580 6788 
+cubans Mikoyan-Gurevich_MiG-21.txt 1 5959 
+romania Mikoyan-Gurevich_MiG-21.txt 3 1179 6562 6845 
+initial Mikoyan-Gurevich_MiG-21.txt 1 847 
+surviving Mikoyan-Gurevich_MiG-21.txt 1 5671 
+mid-air Mikoyan-Gurevich_MiG-21.txt 1 4013 
+one Mikoyan-Gurevich_MiG-21.txt 27 334 1601 2351 2358 2365 2441 3112 3489 3625 3644 3968 4094 4361 4838 4865 5028 5482 5485 5641 5701 5982 6424 6482 6849 7141 7404 7420 
+specifically Mikoyan-Gurevich_MiG-21.txt 1 3875 
+directly Mikoyan-Gurevich_MiG-21.txt 2 2698 5990 
+carry Mikoyan-Gurevich_MiG-21.txt 2 628 6088 
+incompetently Mikoyan-Gurevich_MiG-21.txt 1 5659 
+size Mikoyan-Gurevich_MiG-21.txt 1 1814 
+given Mikoyan-Gurevich_MiG-21.txt 3 822 1357 2715 
+iai Mikoyan-Gurevich_MiG-21.txt 1 4812 
+iaf Mikoyan-Gurevich_MiG-21.txt 10 1908 1929 1974 1986 2000 2018 2218 2235 2287 2340 
+2 Mikoyan-Gurevich_MiG-21.txt 8 175 408 1214 3506 3962 4679 5536 6768 
+mostly Mikoyan-Gurevich_MiG-21.txt 1 7697 
+that Mikoyan-Gurevich_MiG-21.txt 17 241 797 1507 1795 2181 2896 2924 3224 3572 3699 3981 4101 4152 4231 4857 5001 6259 
+moscow Mikoyan-Gurevich_MiG-21.txt 4 1045 1073 1122 1132 
+continuous Mikoyan-Gurevich_MiG-21.txt 1 4531 
+single-seaters Mikoyan-Gurevich_MiG-21.txt 3 1068 1075 1108 
+thunderchief Mikoyan-Gurevich_MiG-21.txt 1 3026 
+thai Mikoyan-Gurevich_MiG-21.txt 1 3785 
+copy Mikoyan-Gurevich_MiG-21.txt 1 6165 
+than Mikoyan-Gurevich_MiG-21.txt 7 641 715 1324 2054 2088 2409 5072 
+11 Mikoyan-Gurevich_MiG-21.txt 4 2156 3076 3492 6626 
+10 Mikoyan-Gurevich_MiG-21.txt 4 3452 5229 5686 7174 
+13 Mikoyan-Gurevich_MiG-21.txt 3 2546 2810 3526 
+12 Mikoyan-Gurevich_MiG-21.txt 14 3278 3856 4473 4710 5299 6234 6581 6586 6619 6781 6921 6955 6993 7056 
+15 Mikoyan-Gurevich_MiG-21.txt 6 1442 3462 5018 5479 6986 7036 
+indo-pakistani Mikoyan-Gurevich_MiG-21.txt 1 1994 
+17 Mikoyan-Gurevich_MiG-21.txt 2 1107 5519 
+16 Mikoyan-Gurevich_MiG-21.txt 1 285 
+19 Mikoyan-Gurevich_MiG-21.txt 1 7031 
+18 Mikoyan-Gurevich_MiG-21.txt 4 3551 3745 6236 7224 
+were Mikoyan-Gurevich_MiG-21.txt 77 178 322 842 910 1029 1035 1091 1103 1109 1143 1164 2122 2265 2413 2517 2549 2568 2587 2714 2909 3029 3469 3476 3545 3633 3717 3805 4111 4133 4242 4265 4283 4331 4613 4657 4761 4881 4903 4936 5095 5317 5391 5424 5657 5710 5755 5782 5819 5845 5856 5914 5955 6057 6101 6262 6368 6382 6419 6460 6530 6557 6704 6709 6724 6737 6928 6935 6961 6979 7047 7059 7166 7177 7185 7197 7313 7680 
+russia Mikoyan-Gurevich_MiG-21.txt 2 1920 6658 
+and Mikoyan-Gurevich_MiG-21.txt 210 17 85 118 137 164 166 258 288 349 394 415 425 430 451 466 487 499 626 690 695 705 724 757 826 863 898 908 927 956 973 990 1016 1058 1078 1086 1095 1099 1114 1123 1126 1149 1159 1228 1254 1311 1371 1398 1452 1467 1476 1600 1615 1631 1705 1723 1746 1757 1773 1801 1831 1921 1954 1980 2034 2044 2092 2109 2120 2138 2152 2203 2257 2293 2357 2382 2423 2474 2515 2559 2562 2570 2578 2593 2711 2748 2788 2848 2877 2889 2902 2912 2918 2921 2942 2950 2985 3122 3138 3152 3209 3236 3319 3418 3488 3518 3544 3590 3608 3624 3627 3640 3692 3832 3865 4138 4166 4197 4207 4260 4276 4352 4360 4403 4408 4419 4445 4472 4514 4530 4552 4582 4629 4639 4659 4672 4703 4722 4800 4826 4837 4855 4920 4933 4996 5017 5027 5059 5107 5133 5195 5270 5389 5396 5404 5435 5438 5484 5504 5528 5664 5704 5718 5842 5931 5973 5995 6022 6038 6053 6076 6098 6115 6149 6175 6240 6273 6285 6289 6301 6314 6343 6364 6366 6390 6485 6536 6634 6667 6687 6711 6732 6759 6870 6963 6996 7012 7028 7046 7076 7101 7108 7148 7170 7332 7365 7373 7413 7419 7505 7637 
+sam Mikoyan-Gurevich_MiG-21.txt 4 4010 4553 4673 4846 
+premier Mikoyan-Gurevich_MiG-21.txt 1 7711 
+danacio Mikoyan-Gurevich_MiG-21.txt 1 5892 
+say Mikoyan-Gurevich_MiG-21.txt 1 5345 
+toperczer Mikoyan-Gurevich_MiG-21.txt 1 3055 
+turner Mikoyan-Gurevich_MiG-21.txt 1 3755 
+impacted Mikoyan-Gurevich_MiG-21.txt 1 5989 
+saw Mikoyan-Gurevich_MiG-21.txt 2 4789 5469 
+any Mikoyan-Gurevich_MiG-21.txt 6 776 2533 3203 3577 4114 4985 
+implosions Mikoyan-Gurevich_MiG-21.txt 1 672 
+equipment Mikoyan-Gurevich_MiG-21.txt 1 4558 
+potential Mikoyan-Gurevich_MiG-21.txt 1 506 
+take Mikoyan-Gurevich_MiG-21.txt 3 1548 5165 5208 
+performance Mikoyan-Gurevich_MiG-21.txt 4 749 817 2390 7750 
+201 Mikoyan-Gurevich_MiG-21.txt 1 3613 
+200 Mikoyan-Gurevich_MiG-21.txt 1 1802 
+maneuvering Mikoyan-Gurevich_MiG-21.txt 2 884 6521 
+incidence Mikoyan-Gurevich_MiG-21.txt 1 1206 
+rankin Mikoyan-Gurevich_MiG-21.txt 1 5970 
+ex-polish Mikoyan-Gurevich_MiG-21.txt 1 7698 
+stormed Mikoyan-Gurevich_MiG-21.txt 1 3515 
+pair Mikoyan-Gurevich_MiG-21.txt 1 3537 
+cc Mikoyan-Gurevich_MiG-21.txt 1 7283 
+mikoyans Mikoyan-Gurevich_MiG-21.txt 1 467 
+cuban Mikoyan-Gurevich_MiG-21.txt 4 5752 5827 5890 6083 
+especially Mikoyan-Gurevich_MiG-21.txt 1 3011 
+considered Mikoyan-Gurevich_MiG-21.txt 2 63 71 
+removed Mikoyan-Gurevich_MiG-21.txt 4 6980 7048 7081 7186 
+later Mikoyan-Gurevich_MiG-21.txt 8 68 820 1337 1434 2560 4266 5186 6923 
+30,000 Mikoyan-Gurevich_MiG-21.txt 1 3946 
+shot Mikoyan-Gurevich_MiG-21.txt 21 2475 3470 3521 3634 3647 3719 4134 4174 4236 4243 4569 4587 5193 5240 5306 5347 5425 5451 5684 6383 6394 
+show Mikoyan-Gurevich_MiG-21.txt 1 6377 
+delta Mikoyan-Gurevich_MiG-21.txt 5 269 767 923 1187 3433 
+contemporary Mikoyan-Gurevich_MiG-21.txt 2 838 2991 
+0.46 Mikoyan-Gurevich_MiG-21.txt 1 1629 
+liptovsk Mikoyan-Gurevich_MiG-21.txt 1 7664 
+ground Mikoyan-Gurevich_MiG-21.txt 19 866 1397 1537 2449 3099 4379 4396 4411 5116 5370 5715 5727 5760 5786 6170 6474 6512 6561 6721 
+upgrade Mikoyan-Gurevich_MiG-21.txt 1 997 
+gulf Mikoyan-Gurevich_MiG-21.txt 1 7483 
+maneuverable Mikoyan-Gurevich_MiG-21.txt 1 2847 
+romanian Mikoyan-Gurevich_MiG-21.txt 6 991 6565 6575 6682 6858 7558 
+behind Mikoyan-Gurevich_MiG-21.txt 5 1372 1651 1671 1919 5991 
+liberation Mikoyan-Gurevich_MiG-21.txt 1 2273 
+only Mikoyan-Gurevich_MiG-21.txt 8 587 1806 2773 3277 3731 6450 6488 6746 
+equipped Mikoyan-Gurevich_MiG-21.txt 2 2805 7118 
+1,678 Mikoyan-Gurevich_MiG-21.txt 1 1061 
+dissimilar Mikoyan-Gurevich_MiG-21.txt 1 3392 
+hungarian Mikoyan-Gurevich_MiG-21.txt 1 359 
+cannon Mikoyan-Gurevich_MiG-21.txt 2 2329 5897 
+samuel Mikoyan-Gurevich_MiG-21.txt 1 3754 
+f-4s Mikoyan-Gurevich_MiG-21.txt 9 3259 3468 3475 3504 3524 3534 3549 4604 5442 
+countered Mikoyan-Gurevich_MiG-21.txt 1 597 
+nearly Mikoyan-Gurevich_MiG-21.txt 1 3320 
+mig-21f-13s Mikoyan-Gurevich_MiG-21.txt 4 1142 2514 4402 6922 
+f-4e Mikoyan-Gurevich_MiG-21.txt 1 4841 
+soviet-flown Mikoyan-Gurevich_MiG-21.txt 1 4652 
+angolan Mikoyan-Gurevich_MiG-21.txt 1 6108 
+roger Mikoyan-Gurevich_MiG-21.txt 2 2869 3667 
+bombs Mikoyan-Gurevich_MiG-21.txt 1 3161 
+where Mikoyan-Gurevich_MiG-21.txt 3 4611 5260 6122 
+hinged Mikoyan-Gurevich_MiG-21.txt 2 1489 1576 
+bulgaria Mikoyan-Gurevich_MiG-21.txt 3 6892 7090 7629 
+kaunas Mikoyan-Gurevich_MiG-21.txt 1 373 
+mig-21pfm Mikoyan-Gurevich_MiG-21.txt 5 1484 1572 2802 6225 7591 
+j6 Mikoyan-Gurevich_MiG-21.txt 1 2763 
+janes Mikoyan-Gurevich_MiG-21.txt 1 336 
+seat Mikoyan-Gurevich_MiG-21.txt 1 1498 
+fishpot Mikoyan-Gurevich_MiG-21.txt 1 356 
+mig-21pfs Mikoyan-Gurevich_MiG-21.txt 4 4339 4404 4849 6956 
+israeli Mikoyan-Gurevich_MiG-21.txt 19 989 4171 4215 4246 4301 4450 4572 4584 4603 4680 4746 4758 4765 4811 4821 4899 5022 5025 5648 
+detect Mikoyan-Gurevich_MiG-21.txt 2 5864 6011 
+federal Mikoyan-Gurevich_MiG-21.txt 2 6544 7675 
+subsequent Mikoyan-Gurevich_MiG-21.txt 1 6422 
+representatives Mikoyan-Gurevich_MiG-21.txt 1 5593 
+weapons Mikoyan-Gurevich_MiG-21.txt 2 907 3366 
+3 Mikoyan-Gurevich_MiG-21.txt 6 2731 2780 3379 3519 3587 6555 
+bureau Mikoyan-Gurevich_MiG-21.txt 2 25 458 
+outclassed Mikoyan-Gurevich_MiG-21.txt 1 4267 
+between Mikoyan-Gurevich_MiG-21.txt 13 1308 2107 2118 2379 2916 3586 3606 4412 4701 4912 6036 6051 7634 
+mig-21umd Mikoyan-Gurevich_MiG-21.txt 1 7571 
+arrival Mikoyan-Gurevich_MiG-21.txt 1 2759 
+infrastructure Mikoyan-Gurevich_MiG-21.txt 1 2043 
+august Mikoyan-Gurevich_MiG-21.txt 5 382 2064 5154 6063 6516 
+vertical Mikoyan-Gurevich_MiG-21.txt 2 1719 1738 
+spare Mikoyan-Gurevich_MiG-21.txt 3 2576 6463 6662 
+tun Mikoyan-Gurevich_MiG-21.txt 3 3914 3956 4018 
+surge/seizure Mikoyan-Gurevich_MiG-21.txt 1 2151 
+jets Mikoyan-Gurevich_MiG-21.txt 3 5119 6696 6815 
+rapidly Mikoyan-Gurevich_MiG-21.txt 1 3172 
+un-confirmed Mikoyan-Gurevich_MiG-21.txt 1 7445 
+stages Mikoyan-Gurevich_MiG-21.txt 1 6325 
+missions Mikoyan-Gurevich_MiG-21.txt 2 2679 6476 
+libya Mikoyan-Gurevich_MiG-21.txt 1 5465 
+gireno Mikoyan-Gurevich_MiG-21.txt 1 372 
+many Mikoyan-Gurevich_MiG-21.txt 5 89 519 2828 4373 5111 
+region Mikoyan-Gurevich_MiG-21.txt 1 3708 
+hours Mikoyan-Gurevich_MiG-21.txt 1 6884 
+according Mikoyan-Gurevich_MiG-21.txt 4 2363 4755 4944 7670 
+prompted Mikoyan-Gurevich_MiG-21.txt 1 2024 
+s Mikoyan-Gurevich_MiG-21.txt 6 369 371 3826 3830 5745 7458 
+wheels Mikoyan-Gurevich_MiG-21.txt 1 1818 
+duty Mikoyan-Gurevich_MiG-21.txt 1 7241 
+pakistan Mikoyan-Gurevich_MiG-21.txt 1 2229 
+continuation Mikoyan-Gurevich_MiG-21.txt 1 154 
+period Mikoyan-Gurevich_MiG-21.txt 5 4483 4962 5464 6205 7201 
+60 Mikoyan-Gurevich_MiG-21.txt 4 76 1745 4141 4401 
+pole Mikoyan-Gurevich_MiG-21.txt 1 763 
+64 Mikoyan-Gurevich_MiG-21.txt 1 3458 
+65 Mikoyan-Gurevich_MiG-21.txt 1 4738 
+article Mikoyan-Gurevich_MiG-21.txt 2 7532 7539 
+68 Mikoyan-Gurevich_MiG-21.txt 1 6623 
+proved Mikoyan-Gurevich_MiG-21.txt 4 501 3001 3181 5719 
+ft/min Mikoyan-Gurevich_MiG-21.txt 1 805 
+better Mikoyan-Gurevich_MiG-21.txt 1 2857 
+al-nasr Mikoyan-Gurevich_MiG-21.txt 2 5310 5343 
+capable Mikoyan-Gurevich_MiG-21.txt 1 827 
+west Mikoyan-Gurevich_MiG-21.txt 1 308 
+mark Mikoyan-Gurevich_MiG-21.txt 1 3988 
+collided Mikoyan-Gurevich_MiG-21.txt 1 5673 
+combined Mikoyan-Gurevich_MiG-21.txt 1 471 
+1982 Mikoyan-Gurevich_MiG-21.txt 6 4925 4988 4995 5902 7162 7593 
+c-130 Mikoyan-Gurevich_MiG-21.txt 1 2361 
+ssgt Mikoyan-Gurevich_MiG-21.txt 1 3753 
+engine Mikoyan-Gurevich_MiG-21.txt 9 244 656 906 1270 1377 1390 1709 2130 2150 
+aviam Mikoyan-Gurevich_MiG-21.txt 1 4630 
+offered Mikoyan-Gurevich_MiG-21.txt 1 1948 
+tiger Mikoyan-Gurevich_MiG-21.txt 1 3422 
+external Mikoyan-Gurevich_MiG-21.txt 4 602 631 1648 7763 
+yugoslav Mikoyan-Gurevich_MiG-21.txt 4 6255 6329 6332 6528 
+former Mikoyan-Gurevich_MiG-21.txt 4 1693 1703 7548 7617 
+those Mikoyan-Gurevich_MiG-21.txt 4 325 3478 3839 3873 
+pilot Mikoyan-Gurevich_MiG-21.txt 16 825 958 1510 1515 1532 1556 1983 2045 2402 4565 4642 5266 5363 5546 5558 5578 
+case Mikoyan-Gurevich_MiG-21.txt 1 4085 
+resides Mikoyan-Gurevich_MiG-21.txt 1 6151 
+developing Mikoyan-Gurevich_MiG-21.txt 2 950 2240 
+these Mikoyan-Gurevich_MiG-21.txt 13 257 727 3173 3409 3802 4524 4760 4948 5390 6454 6694 6926 7097 
+swartkops Mikoyan-Gurevich_MiG-21.txt 1 6153 
+skyhawk Mikoyan-Gurevich_MiG-21.txt 1 3417 
+coupled Mikoyan-Gurevich_MiG-21.txt 1 3239 
+characteristics Mikoyan-Gurevich_MiG-21.txt 2 396 7749 
+engaged Mikoyan-Gurevich_MiG-21.txt 3 5630 5652 5915 
+middle Mikoyan-Gurevich_MiG-21.txt 3 1319 4190 5378 
+technology Mikoyan-Gurevich_MiG-21.txt 1 1953 
+different Mikoyan-Gurevich_MiG-21.txt 1 5130 
+missiles Mikoyan-Gurevich_MiG-21.txt 12 828 2907 2984 3520 3960 3983 4022 4076 4979 5388 5988 6772 
+author Mikoyan-Gurevich_MiG-21.txt 1 2868 
+same Mikoyan-Gurevich_MiG-21.txt 5 4481 4858 5463 6589 6644 
+aphid Mikoyan-Gurevich_MiG-21.txt 1 2490 
+helmed Mikoyan-Gurevich_MiG-21.txt 1 1110 
+paf Mikoyan-Gurevich_MiG-21.txt 5 2320 2345 2348 2352 2359 
+status Mikoyan-Gurevich_MiG-21.txt 4 2818 7270 7390 7457 
+soviet-era Mikoyan-Gurevich_MiG-21.txt 1 913 
+znamya Mikoyan-Gurevich_MiG-21.txt 1 1050 
+theater Mikoyan-Gurevich_MiG-21.txt 1 2298 
+largely Mikoyan-Gurevich_MiG-21.txt 1 5712 
+vpaf Mikoyan-Gurevich_MiG-21.txt 9 2628 3465 3617 3809 3897 4128 4150 7290 7311 
+without Mikoyan-Gurevich_MiG-21.txt 2 3202 6525 
+inability Mikoyan-Gurevich_MiG-21.txt 1 5862 
+model Mikoyan-Gurevich_MiG-21.txt 2 1283 1338 
+summer Mikoyan-Gurevich_MiG-21.txt 1 3847 
+gdr Mikoyan-Gurevich_MiG-21.txt 1 381 
+among Mikoyan-Gurevich_MiG-21.txt 1 5096 
+being Mikoyan-Gurevich_MiG-21.txt 9 578 2169 2414 2709 4586 5295 6180 6848 7580 
+when Mikoyan-Gurevich_MiG-21.txt 18 216 237 639 1493 2126 2314 2464 2871 2914 2973 3012 3453 3954 5887 6070 6844 7080 7451 
+uvd-2m Mikoyan-Gurevich_MiG-21.txt 1 1363 
+actions Mikoyan-Gurevich_MiG-21.txt 2 3790 6423 
+125th Mikoyan-Gurevich_MiG-21.txt 1 6286 
+violent Mikoyan-Gurevich_MiG-21.txt 1 648 
+kill Mikoyan-Gurevich_MiG-21.txt 17 2455 2968 3483 3600 3689 3748 3765 3772 3926 4037 4096 4122 4638 4649 5732 5882 7422 
+polish Mikoyan-Gurevich_MiG-21.txt 2 51 7648 
+speed Mikoyan-Gurevich_MiG-21.txt 5 787 1351 1358 2941 3235 
+46,250 Mikoyan-Gurevich_MiG-21.txt 1 804 
+captured Mikoyan-Gurevich_MiG-21.txt 1 7554 
+ngoc Mikoyan-Gurevich_MiG-21.txt 2 2875 2892 
+dariaus Mikoyan-Gurevich_MiG-21.txt 1 370 
+death Mikoyan-Gurevich_MiG-21.txt 1 1557 
+grounded Mikoyan-Gurevich_MiG-21.txt 2 2569 6863 
+seems Mikoyan-Gurevich_MiG-21.txt 2 2193 5361 
+airfield Mikoyan-Gurevich_MiG-21.txt 1 302 
+instrument Mikoyan-Gurevich_MiG-21.txt 1 45 
+anti-aircraft Mikoyan-Gurevich_MiG-21.txt 1 5351 
+bloc Mikoyan-Gurevich_MiG-21.txt 1 984 
+4 Mikoyan-Gurevich_MiG-21.txt 2 1261 5200 
+overview Mikoyan-Gurevich_MiG-21.txt 1 1906 
+role Mikoyan-Gurevich_MiG-21.txt 8 1991 2199 2207 2283 3498 5717 5852 6340 
+struck Mikoyan-Gurevich_MiG-21.txt 1 4304 
+trikora Mikoyan-Gurevich_MiG-21.txt 1 2521 
+skies Mikoyan-Gurevich_MiG-21.txt 2 2690 3296 
+scheduled Mikoyan-Gurevich_MiG-21.txt 1 2220 
+around Mikoyan-Gurevich_MiG-21.txt 1 4383 
+kills Mikoyan-Gurevich_MiG-21.txt 27 2652 2954 3734 3804 4336 4433 4448 4462 4475 4517 4718 4734 4744 4897 4968 5020 7300 7338 7343 7371 7379 7402 7412 7449 7469 7495 7502 
+admitting Mikoyan-Gurevich_MiG-21.txt 1 3308 
+dart Mikoyan-Gurevich_MiG-21.txt 1 3434 
+early Mikoyan-Gurevich_MiG-21.txt 10 60 214 260 316 1282 2406 3351 3448 6210 6324 
+using Mikoyan-Gurevich_MiG-21.txt 2 1365 5245 
+railroad Mikoyan-Gurevich_MiG-21.txt 1 3787 
+aiming Mikoyan-Gurevich_MiG-21.txt 1 4029 
+rear Mikoyan-Gurevich_MiG-21.txt 7 1181 1604 1622 1638 1696 3144 5978 
+india-soviet Mikoyan-Gurevich_MiG-21.txt 1 2241 
+serves Mikoyan-Gurevich_MiG-21.txt 1 88 
+superiority Mikoyan-Gurevich_MiG-21.txt 3 891 2289 6744 
+nose Mikoyan-Gurevich_MiG-21.txt 5 181 1383 1418 1840 1851 
+always Mikoyan-Gurevich_MiG-21.txt 2 2964 3820 
+twelve Mikoyan-Gurevich_MiG-21.txt 1 7309 
+nellis Mikoyan-Gurevich_MiG-21.txt 1 3404 
+mig-21-93 Mikoyan-Gurevich_MiG-21.txt 1 7740 
+lebanon Mikoyan-Gurevich_MiG-21.txt 2 4926 4989 
+pacific Mikoyan-Gurevich_MiG-21.txt 1 7737 
+l Mikoyan-Gurevich_MiG-21.txt 1 7354 
+aim-9 Mikoyan-Gurevich_MiG-21.txt 1 5679 
+provided Mikoyan-Gurevich_MiG-21.txt 2 7070 7109 
+starfighter Mikoyan-Gurevich_MiG-21.txt 3 424 2322 2385 
+tube Mikoyan-Gurevich_MiG-21.txt 3 1410 1424 1439 
+f-105 Mikoyan-Gurevich_MiG-21.txt 1 3025 
+f-104 Mikoyan-Gurevich_MiG-21.txt 3 423 2321 2384 
+f-106 Mikoyan-Gurevich_MiG-21.txt 1 3432 
+victory Mikoyan-Gurevich_MiG-21.txt 1 3742 
+4477th Mikoyan-Gurevich_MiG-21.txt 1 2591 
+assembly Mikoyan-Gurevich_MiG-21.txt 1 1958 
+manufactured Mikoyan-Gurevich_MiG-21.txt 2 1080 7604 
+ratios Mikoyan-Gurevich_MiG-21.txt 2 3341 3601 
+thailand Mikoyan-Gurevich_MiG-21.txt 1 3676 
+ov-10 Mikoyan-Gurevich_MiG-21.txt 1 2563 
+5121 Mikoyan-Gurevich_MiG-21.txt 1 3904 
+on Mikoyan-Gurevich_MiG-21.txt 73 180 273 284 363 1192 1215 1281 1335 1348 1378 1395 1458 1479 1577 1584 1663 1727 1752 1786 1892 2155 2730 2779 3219 3332 3378 3571 3649 3744 3768 3881 4042 4116 4219 4248 4377 4394 4409 4559 4589 4600 4779 4814 4852 4856 4867 4992 5152 5164 5197 5199 5207 5228 5298 5478 5518 5535 5561 5637 5734 5869 5899 5909 6061 6103 6511 6515 6559 7219 7223 7501 7614 7661 
+conducting Mikoyan-Gurevich_MiG-21.txt 2 5774 7720 
+ace Mikoyan-Gurevich_MiG-21.txt 5 2878 3085 7269 7389 7456 
+stations Mikoyan-Gurevich_MiG-21.txt 1 3108 
+of Mikoyan-Gurevich_MiG-21.txt 223 57 124 155 172 195 205 313 318 326 330 353 379 509 537 543 546 556 568 577 586 608 623 670 699 721 732 745 778 786 792 801 815 818 835 912 918 932 980 1026 1140 1153 1161 1205 1225 1233 1238 1258 1375 1381 1405 1416 1430 1464 1581 1588 1612 1619 1628 1635 1667 1675 1688 1698 1713 1717 1730 1744 1749 1766 1770 1776 1819 1888 1917 1942 1952 1982 1996 2063 2113 2141 2177 2200 2208 2216 2234 2262 2299 2387 2391 2468 2482 2575 2581 2620 2635 2686 2760 2799 2811 2840 2853 2966 2989 3008 3023 3086 3155 3186 3195 3297 3312 3353 3441 3499 3533 3538 3558 3582 3709 3848 3863 3872 3927 3969 4002 4069 4119 4162 4193 4295 4328 4386 4400 4415 4422 4425 4434 4455 4487 4495 4498 4504 4518 4536 4678 4709 4783 4792 4807 4832 4878 4886 4894 4915 4923 4955 5000 5021 5056 5075 5147 5257 5273 5320 5411 5512 5588 5592 5617 5624 5750 5800 5824 5983 6081 6195 6326 6354 6417 6445 6453 6499 6506 6546 6553 6587 6604 6642 6652 6680 6701 6706 6780 6795 6806 6812 6835 6850 6879 6905 6916 6925 6954 6958 7067 7096 7127 7194 7206 7235 7238 7260 7284 7436 7461 7487 7520 7525 7553 7600 7652 7657 
+serviceability Mikoyan-Gurevich_MiG-21.txt 1 6885 
+favorite Mikoyan-Gurevich_MiG-21.txt 1 979 
+acs Mikoyan-Gurevich_MiG-21.txt 1 7107 
+greatly Mikoyan-Gurevich_MiG-21.txt 1 1013 
+roaf Mikoyan-Gurevich_MiG-21.txt 3 6578 6671 6753 
+airfoil Mikoyan-Gurevich_MiG-21.txt 1 1202 
+sqn Mikoyan-Gurevich_MiG-21.txt 1 7655 
+skilled Mikoyan-Gurevich_MiG-21.txt 1 824 
+three-bomber Mikoyan-Gurevich_MiG-21.txt 1 3998 
+accounts Mikoyan-Gurevich_MiG-21.txt 1 5319 
+operator Mikoyan-Gurevich_MiG-21.txt 2 1916 5925 
+valuable Mikoyan-Gurevich_MiG-21.txt 1 2002 
+derna Mikoyan-Gurevich_MiG-21.txt 1 5566 
+performing Mikoyan-Gurevich_MiG-21.txt 1 5572 
+fast Mikoyan-Gurevich_MiG-21.txt 2 453 3121 
+pitot Mikoyan-Gurevich_MiG-21.txt 3 1409 1438 1456 
+downed Mikoyan-Gurevich_MiG-21.txt 10 3199 3304 3893 4348 4819 4873 5163 5206 5337 5792 
+there Mikoyan-Gurevich_MiG-21.txt 11 1090 1219 1241 1384 1591 5316 5981 6220 7227 7439 7679 
+start Mikoyan-Gurevich_MiG-21.txt 2 4421 4922 
+low Mikoyan-Gurevich_MiG-21.txt 4 696 971 1541 3510 
+continents Mikoyan-Gurevich_MiG-21.txt 1 80 
+a-4es Mikoyan-Gurevich_MiG-21.txt 1 4862 
+strikes Mikoyan-Gurevich_MiG-21.txt 1 5776 
+gunners Mikoyan-Gurevich_MiG-21.txt 1 3729 
+two-thirds Mikoyan-Gurevich_MiG-21.txt 1 3871 
+fighter Mikoyan-Gurevich_MiG-21.txt 29 16 151 393 405 429 464 1967 2032 2164 2210 2642 2720 2724 2790 2807 3073 3365 3908 5455 6073 6079 6303 6695 6914 6949 6987 7032 7043 7113 
+level Mikoyan-Gurevich_MiG-21.txt 1 1564 
+with Mikoyan-Gurevich_MiG-21.txt 59 160 183 268 324 409 476 483 677 808 921 952 1012 1198 1222 1230 1250 1391 1500 1812 1868 1885 1972 2323 2486 2796 2955 2995 3069 3096 3240 3246 3255 3386 3664 3838 3870 4556 4972 4976 5034 5110 5350 5674 5806 5895 6162 6413 6599 6684 6786 6802 7063 7106 7119 7254 7315 7403 7466 7492 
+buying Mikoyan-Gurevich_MiG-21.txt 1 982 
+19741980 Mikoyan-Gurevich_MiG-21.txt 1 7153 
+pull Mikoyan-Gurevich_MiG-21.txt 1 5550 
+prototype Mikoyan-Gurevich_MiG-21.txt 4 226 253 267 455 
+pula Mikoyan-Gurevich_MiG-21.txt 1 6313 
+f1cz Mikoyan-Gurevich_MiG-21.txt 1 5875 
+ab Mikoyan-Gurevich_MiG-21.txt 1 5501 
+czechoslovak Mikoyan-Gurevich_MiG-21.txt 1 1020 
+pinpointed Mikoyan-Gurevich_MiG-21.txt 1 5956 
+general Mikoyan-Gurevich_MiG-21.txt 5 138 2959 4277 5605 7748 
+as Mikoyan-Gurevich_MiG-21.txt 39 188 271 345 522 548 752 882 1048 1133 1135 1447 1940 2062 2431 2433 2661 2734 3370 3399 3424 3426 3669 3798 3990 4764 4907 5141 5789 5853 5947 6727 6763 6932 6965 7294 7305 7480 7607 7706 
+su-30mk2v Mikoyan-Gurevich_MiG-21.txt 1 4167 
+aces Mikoyan-Gurevich_MiG-21.txt 4 2815 7251 7523 7528 
+moves Mikoyan-Gurevich_MiG-21.txt 3 1316 1329 1343 
+syrian Mikoyan-Gurevich_MiG-21.txt 26 4204 4240 4359 4375 4506 4711 4781 4793 4817 4871 4889 4942 4957 5011 5049 5063 5077 5086 5092 5233 5284 5303 5327 7382 7395 7521 
+130th Mikoyan-Gurevich_MiG-21.txt 1 6302 
+yom Mikoyan-Gurevich_MiG-21.txt 2 4728 4917 
+storage Mikoyan-Gurevich_MiG-21.txt 1 7248 
+field Mikoyan-Gurevich_MiG-21.txt 1 2249 
+5 Mikoyan-Gurevich_MiG-21.txt 2 5900 6641 
+forcing Mikoyan-Gurevich_MiG-21.txt 2 3036 3153 
+poor Mikoyan-Gurevich_MiG-21.txt 3 535 3337 6093 
+congress Mikoyan-Gurevich_MiG-21.txt 1 5607 
+separate Mikoyan-Gurevich_MiG-21.txt 1 1552 
+eyks Mikoyan-Gurevich_MiG-21.txt 1 374 
+included Mikoyan-Gurevich_MiG-21.txt 1 448 
+cahama Mikoyan-Gurevich_MiG-21.txt 1 5913 
+building Mikoyan-Gurevich_MiG-21.txt 1 2039 
+bilateral Mikoyan-Gurevich_MiG-21.txt 1 7632 
+invest Mikoyan-Gurevich_MiG-21.txt 1 2036 
+ingestion Mikoyan-Gurevich_MiG-21.txt 1 2140 
+starting Mikoyan-Gurevich_MiG-21.txt 3 159 1569 5066 
+all Mikoyan-Gurevich_MiG-21.txt 6 337 747 2565 2937 4393 7423 
+sk-1 Mikoyan-Gurevich_MiG-21.txt 1 1496 
+chinese Mikoyan-Gurevich_MiG-21.txt 5 611 2256 5134 6164 7601 
+caused Mikoyan-Gurevich_MiG-21.txt 2 4017 4538 
+lack Mikoyan-Gurevich_MiG-21.txt 3 312 1981 2574 
+causes Mikoyan-Gurevich_MiG-21.txt 1 5376 
+to Mikoyan-Gurevich_MiG-21.txt 146 40 54 250 310 419 502 574 580 605 634 661 718 738 760 782 849 886 949 963 995 999 1003 1008 1268 1293 1301 1317 1330 1344 1387 1413 1427 1444 1482 1503 1529 1533 1535 1547 1551 1733 1876 1931 1969 1976 2026 2072 2124 2134 2148 2194 2221 2248 2254 2267 2336 2364 2551 2573 2589 2716 2754 3038 3109 3158 3214 3261 3266 3286 3309 3329 3361 3398 3482 3505 3680 3750 3774 3813 3854 3965 3985 4019 4038 4063 4090 4113 4319 4492 4527 4540 4594 4684 4688 4756 4777 4810 4835 4839 4844 4939 4945 5006 5043 5126 5137 5290 5393 5446 5509 5545 5598 5602 5682 5693 5758 5784 5814 5831 5834 5860 5863 5934 5943 6087 6208 6245 6370 6425 6501 6532 6692 6830 6865 6937 7071 7087 7110 7168 7180 7293 7386 7432 7479 7671 7727 
+tail Mikoyan-Gurevich_MiG-21.txt 5 920 1732 3728 3751 3889 
+program Mikoyan-Gurevich_MiG-21.txt 1 3402 
+egyptian Mikoyan-Gurevich_MiG-21.txt 12 4177 4201 4323 4435 4440 4464 4467 4528 4736 7489 7526 7590 
+very Mikoyan-Gurevich_MiG-21.txt 6 234 511 2132 2674 2910 2948 
+faa Mikoyan-Gurevich_MiG-21.txt 1 7678 
+condition Mikoyan-Gurevich_MiG-21.txt 1 592 
+squadrons Mikoyan-Gurevich_MiG-21.txt 3 6075 6080 6276 
+evaluation Mikoyan-Gurevich_MiG-21.txt 1 2594 
+list Mikoyan-Gurevich_MiG-21.txt 4 5055 7519 7524 7595 
+joined Mikoyan-Gurevich_MiG-21.txt 2 5495 6846 
+wso Mikoyan-Gurevich_MiG-21.txt 1 3671 
+large Mikoyan-Gurevich_MiG-21.txt 1 4697 
+small Mikoyan-Gurevich_MiG-21.txt 4 512 1243 1725 2144 
+a-4e Mikoyan-Gurevich_MiG-21.txt 3 4573 4799 4828 
+mig-21bis Mikoyan-Gurevich_MiG-21.txt 14 362 811 1096 1160 2657 5236 5483 5844 5920 6097 6111 6231 6897 7095 
+titled Mikoyan-Gurevich_MiG-21.txt 1 3390 
+ten Mikoyan-Gurevich_MiG-21.txt 1 6218 
+194 Mikoyan-Gurevich_MiG-21.txt 1 1141 
+rate Mikoyan-Gurevich_MiG-21.txt 2 800 6878 
+design Mikoyan-Gurevich_MiG-21.txt 5 24 222 348 357 1166 
+pass Mikoyan-Gurevich_MiG-21.txt 1 3113 
+further Mikoyan-Gurevich_MiG-21.txt 1 5567 
+what Mikoyan-Gurevich_MiG-21.txt 1 206 
+stood Mikoyan-Gurevich_MiG-21.txt 1 3611 
+opted Mikoyan-Gurevich_MiG-21.txt 1 1930 
+witnessed Mikoyan-Gurevich_MiG-21.txt 1 2305 
+favor Mikoyan-Gurevich_MiG-21.txt 1 4161 
+section Mikoyan-Gurevich_MiG-21.txt 2 1687 1697 
+brief Mikoyan-Gurevich_MiG-21.txt 1 5408 
+version Mikoyan-Gurevich_MiG-21.txt 4 1754 3389 4088 7066 
+abu Mikoyan-Gurevich_MiG-21.txt 2 5170 5213 
+19632000 Mikoyan-Gurevich_MiG-21.txt 1 7202 
+public Mikoyan-Gurevich_MiG-21.txt 1 291 
+full Mikoyan-Gurevich_MiG-21.txt 1 1950 
+jato Mikoyan-Gurevich_MiG-21.txt 1 1683 
+operating Mikoyan-Gurevich_MiG-21.txt 1 2005 
+iiicj Mikoyan-Gurevich_MiG-21.txt 2 4622 4803 
+civilians Mikoyan-Gurevich_MiG-21.txt 1 2094 
+directions Mikoyan-Gurevich_MiG-21.txt 1 3131 
+november Mikoyan-Gurevich_MiG-21.txt 5 3287 3334 4221 5230 5870 
+iraq Mikoyan-Gurevich_MiG-21.txt 1 2397 
+naval Mikoyan-Gurevich_MiG-21.txt 1 3373 
+ahead Mikoyan-Gurevich_MiG-21.txt 2 542 1463 
+losses Mikoyan-Gurevich_MiG-21.txt 13 3204 3263 3324 3578 4526 4667 4725 4768 4986 5289 5460 5779 5813 
+i-75 Mikoyan-Gurevich_MiG-21.txt 1 468 
+prior Mikoyan-Gurevich_MiG-21.txt 1 1481 
+airport Mikoyan-Gurevich_MiG-21.txt 3 368 5508 5534 
+extremes Mikoyan-Gurevich_MiG-21.txt 1 931 
+action Mikoyan-Gurevich_MiG-21.txt 2 5084 6490 
+trainer Mikoyan-Gurevich_MiG-21.txt 1 6731 
+followed Mikoyan-Gurevich_MiG-21.txt 2 3385 6583 
+africa Mikoyan-Gurevich_MiG-21.txt 1 5618 
+put Mikoyan-Gurevich_MiG-21.txt 2 2266 7245 
+regiment Mikoyan-Gurevich_MiG-21.txt 18 2725 2791 2808 3074 3909 6266 6279 6295 6915 6941 6950 6973 6988 7020 7034 7045 7075 7114 
+trained Mikoyan-Gurevich_MiG-21.txt 2 2415 3876 
+armed Mikoyan-Gurevich_MiG-21.txt 1 4975 
+migs Mikoyan-Gurevich_MiG-21.txt 16 2586 3104 3119 3164 3251 3314 3348 3513 3539 3620 4834 5656 5930 5977 6493 7704 
+iraqi Mikoyan-Gurevich_MiG-21.txt 8 2411 4208 4362 4848 5422 5436 5449 7463 
+interception Mikoyan-Gurevich_MiG-21.txt 1 2677 
+two Mikoyan-Gurevich_MiG-21.txt 32 1596 1682 2347 2465 2905 3410 3484 3493 3523 3548 3641 3715 3886 3958 4358 4443 4820 4831 4843 4861 5015 5024 5339 5644 5668 5919 5985 6416 6498 7007 7584 7645 
+6 Mikoyan-Gurevich_MiG-21.txt 4 4786 4993 5871 6228 
+taken Mikoyan-Gurevich_MiG-21.txt 2 4040 7125 
+achieving Mikoyan-Gurevich_MiG-21.txt 1 406 
+more Mikoyan-Gurevich_MiG-21.txt 16 640 965 1392 2028 2053 2087 2408 3345 4270 4374 4576 5071 6803 7008 7273 7318 
+bulgarian Mikoyan-Gurevich_MiG-21.txt 7 2658 6894 6899 7208 7621 7638 7641 
+modernization Mikoyan-Gurevich_MiG-21.txt 1 6679 
+ejected Mikoyan-Gurevich_MiG-21.txt 1 5364 
+operators Mikoyan-Gurevich_MiG-21.txt 10 1001 7515 7536 7542 7545 7549 7552 7599 7618 7668 
+instrumental Mikoyan-Gurevich_MiG-21.txt 2 5720 5820 
+flag Mikoyan-Gurevich_MiG-21.txt 1 3401 
+known Mikoyan-Gurevich_MiG-21.txt 10 1047 2071 2454 3369 3797 7249 7385 7468 7494 7606 
+2271 Mikoyan-Gurevich_MiG-21.txt 1 5159 
+factories Mikoyan-Gurevich_MiG-21.txt 1 1039 
+town Mikoyan-Gurevich_MiG-21.txt 1 5253 
+helped Mikoyan-Gurevich_MiG-21.txt 1 4683 
+mig-21us Mikoyan-Gurevich_MiG-21.txt 5 2516 3626 6242 6627 7145 
+intercepted Mikoyan-Gurevich_MiG-21.txt 2 2473 3530 
+nine Mikoyan-Gurevich_MiG-21.txt 1 7299 
+relocated Mikoyan-Gurevich_MiG-21.txt 1 6369 
+v Mikoyan-Gurevich_MiG-21.txt 1 7344 
+mig-21um Mikoyan-Gurevich_MiG-21.txt 8 5486 5523 6239 6636 7150 7164 7567 7647 
+specialized Mikoyan-Gurevich_MiG-21.txt 1 7023 
+history Mikoyan-Gurevich_MiG-21.txt 3 109 1902 3937 
+2.4-capable Mikoyan-Gurevich_MiG-21.txt 1 3429 
+f1 Mikoyan-Gurevich_MiG-21.txt 1 5741 
+f4 Mikoyan-Gurevich_MiG-21.txt 1 3221 
+challenging Mikoyan-Gurevich_MiG-21.txt 1 3003 
+missile-armed Mikoyan-Gurevich_MiG-21.txt 1 2627 
+rodriguez Mikoyan-Gurevich_MiG-21.txt 1 6008 
+states Mikoyan-Gurevich_MiG-21.txt 2 2623 7674 
+minimum Mikoyan-Gurevich_MiG-21.txt 2 1559 6833 
+protects Mikoyan-Gurevich_MiG-21.txt 1 1513 
+numbers Mikoyan-Gurevich_MiG-21.txt 1 1979 
+purchased Mikoyan-Gurevich_MiG-21.txt 5 2508 6191 6214 6439 6801 
+airplane Mikoyan-Gurevich_MiG-21.txt 2 1645 1669 
+third-generation Mikoyan-Gurevich_MiG-21.txt 1 72 
+information Mikoyan-Gurevich_MiG-21.txt 3 315 7500 7611 
+197778 Mikoyan-Gurevich_MiG-21.txt 1 5625 
+fr Mikoyan-Gurevich_MiG-21.txt 4 2745 2778 3198 4052 
+ft Mikoyan-Gurevich_MiG-21.txt 1 1262 
+b-52 Mikoyan-Gurevich_MiG-21.txt 7 3726 3738 3827 3868 3933 3995 4071 
+variant Mikoyan-Gurevich_MiG-21.txt 7 1404 1422 6590 6607 6645 6726 6736 
+plane Mikoyan-Gurevich_MiG-21.txt 4 571 2078 3976 6814 
+waves Mikoyan-Gurevich_MiG-21.txt 1 4311 
+response Mikoyan-Gurevich_MiG-21.txt 1 4599 
+a Mikoyan-Gurevich_MiG-21.txt 136 13 125 153 170 220 225 346 398 403 410 472 527 683 710 753 762 772 783 798 809 823 832 883 919 978 1009 1024 1138 1186 1199 1255 1345 1356 1505 1616 1632 1718 1721 1724 1741 1758 1763 1774 1782 1882 1886 1989 2143 2205 2209 2239 2250 2281 2319 2477 2598 2626 2735 2967 2970 2975 3002 3067 3148 3316 3336 3527 3531 3541 3654 3781 3896 3928 3994 3997 4006 4009 4047 4070 4502 4563 4567 4620 4624 4637 4676 4690 4696 4707 4790 4801 4892 5073 5148 5183 5187 5232 5246 5296 5302 5358 5525 5539 5549 5562 5577 5735 5837 5873 5921 5964 6004 6065 6095 6338 6392 6432 6564 6570 6649 6699 6718 6778 6903 6952 6966 7019 7064 7192 7207 7414 7459 7485 7620 7631 7725 
+short Mikoyan-Gurevich_MiG-21.txt 4 528 693 814 2675 
+k-13 Mikoyan-Gurevich_MiG-21.txt 1 4978 
+responsibility Mikoyan-Gurevich_MiG-21.txt 1 3920 
+eyeline Mikoyan-Gurevich_MiG-21.txt 1 1471 
+unita Mikoyan-Gurevich_MiG-21.txt 1 5802 
+129th Mikoyan-Gurevich_MiG-21.txt 2 6309 6315 
+help Mikoyan-Gurevich_MiG-21.txt 1 4546 
+moscows Mikoyan-Gurevich_MiG-21.txt 1 300 
+xuan Mikoyan-Gurevich_MiG-21.txt 1 4058 
+mission Mikoyan-Gurevich_MiG-21.txt 4 2687 3862 5564 6514 
+radar Mikoyan-Gurevich_MiG-21.txt 6 517 1849 2983 2999 3232 5924 
+through Mikoyan-Gurevich_MiG-21.txt 1 6407 
+al-duhur Mikoyan-Gurevich_MiG-21.txt 1 5171 
+suffer Mikoyan-Gurevich_MiG-21.txt 2 3262 3576 
+its Mikoyan-Gurevich_MiG-21.txt 20 58 94 281 289 436 716 840 945 1860 2059 2135 2324 2666 2990 2996 4749 5156 6134 6163 6192 
+24 Mikoyan-Gurevich_MiG-21.txt 2 3769 4956 
+25 Mikoyan-Gurevich_MiG-21.txt 4 4505 4590 6226 6238 
+26 Mikoyan-Gurevich_MiG-21.txt 6 3555 3882 4905 6734 6972 7022 
+27 Mikoyan-Gurevich_MiG-21.txt 3 4742 6635 7149 
+20 Mikoyan-Gurevich_MiG-21.txt 2 2513 6452 
+21 Mikoyan-Gurevich_MiG-21.txt 4 7 1053 3650 7042 
+22 Mikoyan-Gurevich_MiG-21.txt 2 2509 4560 
+23 Mikoyan-Gurevich_MiG-21.txt 2 2327 5421 
+jettison Mikoyan-Gurevich_MiG-21.txt 1 3039 
+28 Mikoyan-Gurevich_MiG-21.txt 2 1694 4043 
+29 Mikoyan-Gurevich_MiG-21.txt 2 4901 5439 
+late Mikoyan-Gurevich_MiG-21.txt 2 2432 4147 
+systems Mikoyan-Gurevich_MiG-21.txt 3 5817 6686 7713 
+good Mikoyan-Gurevich_MiG-21.txt 1 833 
+return Mikoyan-Gurevich_MiG-21.txt 2 3282 6135 
+anticipated Mikoyan-Gurevich_MiG-21.txt 1 2376 
+okb Mikoyan-Gurevich_MiG-21.txt 1 218 
+mf/mf-75 Mikoyan-Gurevich_MiG-21.txt 2 6712 6735 
+designation Mikoyan-Gurevich_MiG-21.txt 3 6719 6730 6742 
+fully Mikoyan-Gurevich_MiG-21.txt 1 1299 
+swept-back Mikoyan-Gurevich_MiG-21.txt 2 185 477 
+asher Mikoyan-Gurevich_MiG-21.txt 1 4617 
+namibia Mikoyan-Gurevich_MiG-21.txt 1 6121 
+draken Mikoyan-Gurevich_MiG-21.txt 1 7692 
+found Mikoyan-Gurevich_MiG-21.txt 1 272 
+referred Mikoyan-Gurevich_MiG-21.txt 3 3397 7292 7478 
+heavy Mikoyan-Gurevich_MiG-21.txt 3 2986 5127 5179 
+mansour Mikoyan-Gurevich_MiG-21.txt 1 7398 
+generation Mikoyan-Gurevich_MiG-21.txt 2 622 2161 
+house Mikoyan-Gurevich_MiG-21.txt 1 5591 
+positioned Mikoyan-Gurevich_MiG-21.txt 1 3102 
+modernized Mikoyan-Gurevich_MiG-21.txt 4 2190 6705 6714 6738 
+empennage Mikoyan-Gurevich_MiG-21.txt 1 1712 
+operation Mikoyan-Gurevich_MiG-21.txt 5 2075 2520 3325 3793 3951 
+beyond Mikoyan-Gurevich_MiG-21.txt 1 561 
+ye-1 Mikoyan-Gurevich_MiG-21.txt 1 228 
+ye-2 Mikoyan-Gurevich_MiG-21.txt 1 255 
+ye-4 Mikoyan-Gurevich_MiG-21.txt 1 278 
+since Mikoyan-Gurevich_MiG-21.txt 7 114 2048 2085 5045 5883 6129 6871 
+douglas Mikoyan-Gurevich_MiG-21.txt 6 134 3415 4256 4261 4273 5706 
+armaments Mikoyan-Gurevich_MiG-21.txt 1 1017 
+safety Mikoyan-Gurevich_MiG-21.txt 2 937 2083 
+7 Mikoyan-Gurevich_MiG-21.txt 6 3467 4249 4815 6241 6517 6610 
+19721980 Mikoyan-Gurevich_MiG-21.txt 1 6638 
+issue Mikoyan-Gurevich_MiG-21.txt 2 637 1884 
+ass Mikoyan-Gurevich_MiG-21.txt 1 3116 
+mmz Mikoyan-Gurevich_MiG-21.txt 1 1049 
+2280 Mikoyan-Gurevich_MiG-21.txt 1 5191 
+cockpit Mikoyan-Gurevich_MiG-21.txt 5 1170 1172 1451 1583 1865 
+base Mikoyan-Gurevich_MiG-21.txt 9 3407 5216 6156 6270 6283 6299 6321 7218 7628 
+backed Mikoyan-Gurevich_MiG-21.txt 1 2539 
+beginning Mikoyan-Gurevich_MiG-21.txt 3 4287 6353 6655 
+service Mikoyan-Gurevich_MiG-21.txt 12 755 1971 2171 5471 6456 6539 6856 6982 7051 7084 7128 7189 
+launch Mikoyan-Gurevich_MiG-21.txt 2 7708 7728 
+660x200 Mikoyan-Gurevich_MiG-21.txt 1 1815 
+american Mikoyan-Gurevich_MiG-21.txt 9 421 889 2354 3150 3607 5386 5808 7255 7261 
+threat Mikoyan-Gurevich_MiG-21.txt 1 3812 
+syria Mikoyan-Gurevich_MiG-21.txt 5 4397 4702 4715 4964 5013 
+pilots Mikoyan-Gurevich_MiG-21.txt 27 52 940 1470 2019 2091 2412 2647 2831 3010 3194 3858 3874 4551 4581 4656 4671 5493 5663 5672 5828 5938 6411 7262 7266 7312 7383 7442 
+exhibited Mikoyan-Gurevich_MiG-21.txt 1 2615 
+sidewinder Mikoyan-Gurevich_MiG-21.txt 1 5387 
+major Mikoyan-Gurevich_MiG-21.txt 5 1883 3662 3912 3955 5968 
+elbit Mikoyan-Gurevich_MiG-21.txt 1 6685 
+number Mikoyan-Gurevich_MiG-21.txt 5 171 1887 3903 6651 6834 
+feet Mikoyan-Gurevich_MiG-21.txt 1 3947 
+jet Mikoyan-Gurevich_MiG-21.txt 9 15 65 73 105 150 157 1968 2033 2163 
+leading Mikoyan-Gurevich_MiG-21.txt 1 1194 
+least Mikoyan-Gurevich_MiG-21.txt 4 2067 2102 5918 6379 
+paint Mikoyan-Gurevich_MiG-21.txt 1 7575 
+station Mikoyan-Gurevich_MiG-21.txt 1 3375 
+f-15 Mikoyan-Gurevich_MiG-21.txt 3 135 4274 5026 
+f-16 Mikoyan-Gurevich_MiG-21.txt 3 140 4279 6808 
+scheme Mikoyan-Gurevich_MiG-21.txt 1 7576 
+too Mikoyan-Gurevich_MiG-21.txt 2 1549 4081 
+shifted Mikoyan-Gurevich_MiG-21.txt 1 1436 
+erupted Mikoyan-Gurevich_MiG-21.txt 1 4700 
+interviewed Mikoyan-Gurevich_MiG-21.txt 1 2873 
+part Mikoyan-Gurevich_MiG-21.txt 3 1941 3352 5511 
+typhoon Mikoyan-Gurevich_MiG-21.txt 1 6829 
+favorable Mikoyan-Gurevich_MiG-21.txt 1 3599 
+observatory Mikoyan-Gurevich_MiG-21.txt 1 5328 
+iranian Mikoyan-Gurevich_MiG-21.txt 3 5428 5433 5454 
+mig-21fl Mikoyan-Gurevich_MiG-21.txt 2 1157 2165 
+determined Mikoyan-Gurevich_MiG-21.txt 1 240 
+2020 Mikoyan-Gurevich_MiG-21.txt 1 6785 
+taxis Mikoyan-Gurevich_MiG-21.txt 1 7623 
+lubango Mikoyan-Gurevich_MiG-21.txt 1 6034 
+mig-21p Mikoyan-Gurevich_MiG-21.txt 1 1421 
+mig-21r Mikoyan-Gurevich_MiG-21.txt 3 1094 6235 6620 
+mig-21s Mikoyan-Gurevich_MiG-21.txt 74 1284 1918 2041 2069 2104 2279 2341 2370 2393 2445 2452 2510 2529 2548 2567 2696 3140 3485 3494 3507 3623 3716 4137 4142 4241 4252 4332 4347 4363 4376 4389 4436 4441 4465 4468 4507 4607 4653 4712 4721 4737 4750 4880 4890 4902 4958 4974 5094 5395 5423 5440 5450 5468 5584 5709 5749 5818 6037 6056 6160 6196 6216 6336 6381 6404 6442 6529 6556 6683 6703 7302 7507 7684 7733 
+mig-21u Mikoyan-Gurevich_MiG-21.txt 3 1128 6237 7139 
+mig-21m Mikoyan-Gurevich_MiG-21.txt 4 1158 6227 6624 7037 
+orders Mikoyan-Gurevich_MiG-21.txt 1 2029 
+mig-21f Mikoyan-Gurevich_MiG-21.txt 4 701 1115 1808 2608 
+option Mikoyan-Gurevich_MiG-21.txt 1 7105 
+u.s Mikoyan-Gurevich_MiG-21.txt 15 2538 2553 2993 3206 3211 3270 3305 3472 3631 3655 3685 3722 3929 7636 7687 
+built Mikoyan-Gurevich_MiG-21.txt 7 1030 1067 1104 1130 1144 1155 2117 
+sela Mikoyan-Gurevich_MiG-21.txt 1 4631 
+923rd Mikoyan-Gurevich_MiG-21.txt 1 2744 
+also Mikoyan-Gurevich_MiG-21.txt 18 620 627 1046 2035 2429 3368 3796 4034 4185 4253 4850 5054 5691 6960 7178 7291 7518 7753 
+costs Mikoyan-Gurevich_MiG-21.txt 1 975 
+19691970 Mikoyan-Gurevich_MiG-21.txt 3 6629 7030 7147 
+added Mikoyan-Gurevich_MiG-21.txt 1 2588 
+electric Mikoyan-Gurevich_MiG-21.txt 1 5907 
+most Mikoyan-Gurevich_MiG-21.txt 5 202 1787 4757 5777 7307 
+74 Mikoyan-Gurevich_MiG-21.txt 1 6630 
+73 Mikoyan-Gurevich_MiG-21.txt 2 3637 4733 
+plan Mikoyan-Gurevich_MiG-21.txt 1 4595 
+sirte Mikoyan-Gurevich_MiG-21.txt 1 5503 
+defections Mikoyan-Gurevich_MiG-21.txt 1 6408 
+engagements Mikoyan-Gurevich_MiG-21.txt 1 7428 
+mach Mikoyan-Gurevich_MiG-21.txt 7 174 407 1294 1309 1312 1325 3428 
+sometimes Mikoyan-Gurevich_MiG-21.txt 4 1553 3396 6179 7477 
+km Mikoyan-Gurevich_MiG-21.txt 2 734 5255 
+clean Mikoyan-Gurevich_MiG-21.txt 1 591 
+latest Mikoyan-Gurevich_MiG-21.txt 1 853 
+uh-34d Mikoyan-Gurevich_MiG-21.txt 1 2558 
+particularly Mikoyan-Gurevich_MiG-21.txt 1 6066 
+tsagi Mikoyan-Gurevich_MiG-21.txt 1 1200 
+interceptors Mikoyan-Gurevich_MiG-21.txt 4 523 3095 3834 5854 
+sapfir Mikoyan-Gurevich_MiG-21.txt 1 2998 
+costing Mikoyan-Gurevich_MiG-21.txt 1 3563 
+access Mikoyan-Gurevich_MiG-21.txt 1 5125 
+fim-92 Mikoyan-Gurevich_MiG-21.txt 1 5809 
+parameters Mikoyan-Gurevich_MiG-21.txt 1 563 
+ground-attack Mikoyan-Gurevich_MiG-21.txt 1 6339 
+heavily Mikoyan-Gurevich_MiG-21.txt 1 2037 
+technologically Mikoyan-Gurevich_MiG-21.txt 1 961 
+failed Mikoyan-Gurevich_MiG-21.txt 1 3984 
+removable Mikoyan-Gurevich_MiG-21.txt 1 1707 
+117th Mikoyan-Gurevich_MiG-21.txt 1 6277 
+8 Mikoyan-Gurevich_MiG-21.txt 2 3591 4868 
+gills Mikoyan-Gurevich_MiG-21.txt 1 1386 
+proximity Mikoyan-Gurevich_MiG-21.txt 1 6014 
+dhuhur Mikoyan-Gurevich_MiG-21.txt 1 5214 
+boniface Mikoyan-Gurevich_MiG-21.txt 2 2870 2895 
+his Mikoyan-Gurevich_MiG-21.txt 9 3075 3670 3894 3982 4003 4021 4074 5984 6019 
+hit Mikoyan-Gurevich_MiG-21.txt 4 3546 3986 4007 4072 
+combat-loaded Mikoyan-Gurevich_MiG-21.txt 1 810 
+capsule Mikoyan-Gurevich_MiG-21.txt 3 1506 1512 1527 
+b Mikoyan-Gurevich_MiG-21.txt 2 6729 7407 
+longest Mikoyan-Gurevich_MiG-21.txt 1 121 
+closely Mikoyan-Gurevich_MiG-21.txt 1 4082 
+international Mikoyan-Gurevich_MiG-21.txt 1 7693 
+during Mikoyan-Gurevich_MiG-21.txt 44 293 1399 1521 2011 2020 2270 2275 2460 2519 2653 2793 3183 3349 3792 3816 3950 4123 4179 4291 4340 4452 4479 4533 4726 5061 5281 5406 5417 5472 5548 5610 5620 5721 5743 5821 6172 6322 6480 6548 6569 7152 7425 7471 7630 
+him Mikoyan-Gurevich_MiG-21.txt 1 3081 
+1.87 Mikoyan-Gurevich_MiG-21.txt 1 1234 
+enemy Mikoyan-Gurevich_MiG-21.txt 2 3347 5291 
+nicknamed Mikoyan-Gurevich_MiG-21.txt 1 33 
+mig-21f-13rs Mikoyan-Gurevich_MiG-21.txt 1 6933 
+mikoyan-gurevich Mikoyan-Gurevich_MiG-21.txt 7 0 4 23 7513 7533 7540 7742 
+927th Mikoyan-Gurevich_MiG-21.txt 1 2806 
+croatia Mikoyan-Gurevich_MiG-21.txt 5 6363 6389 6401 6438 6465 
+common Mikoyan-Gurevich_MiG-21.txt 1 6047 
+withdrawal Mikoyan-Gurevich_MiG-21.txt 1 2580 
+retracts Mikoyan-Gurevich_MiG-21.txt 1 1842 
+achieved Mikoyan-Gurevich_MiG-21.txt 1 5876 
+see Mikoyan-Gurevich_MiG-21.txt 5 493 5053 7511 7517 7752 
+are Mikoyan-Gurevich_MiG-21.txt 17 62 70 1220 1242 1385 1592 1655 1678 1796 2070 2219 6749 6889 7103 7117 7384 7440 
+close Mikoyan-Gurevich_MiG-21.txt 1 2133 
+2.6 Mikoyan-Gurevich_MiG-21.txt 1 1777 
+rafale-b/c/m Mikoyan-Gurevich_MiG-21.txt 1 6818 
+threats Mikoyan-Gurevich_MiG-21.txt 1 2259 
+probable Mikoyan-Gurevich_MiG-21.txt 6 4447 4474 4516 5019 7406 7448 
+guinea Mikoyan-Gurevich_MiG-21.txt 1 2526 
+currently Mikoyan-Gurevich_MiG-21.txt 2 6150 7719 
+won Mikoyan-Gurevich_MiG-21.txt 1 2373 
+various Mikoyan-Gurevich_MiG-21.txt 1 2646 
+conditions Mikoyan-Gurevich_MiG-21.txt 1 2961 
+available Mikoyan-Gurevich_MiG-21.txt 4 314 514 3230 7437 
+solo Mikoyan-Gurevich_MiG-21.txt 3 7401 7411 7418 
+initially Mikoyan-Gurevich_MiG-21.txt 1 6672 
+sold Mikoyan-Gurevich_MiG-21.txt 2 7167 7179 
+sole Mikoyan-Gurevich_MiG-21.txt 1 6470 
+incident Mikoyan-Gurevich_MiG-21.txt 3 2425 2463 5643 
+both Mikoyan-Gurevich_MiG-21.txt 11 131 256 1083 1379 2887 3789 4632 5839 6522 6757 7336 
+c Mikoyan-Gurevich_MiG-21.txt 5 1023 6568 6741 7363 7563 
+improved Mikoyan-Gurevich_MiG-21.txt 1 614 
+became Mikoyan-Gurevich_MiG-21.txt 5 101 1963 2681 5829 6045 
+context Mikoyan-Gurevich_MiG-21.txt 1 6676 
+experimental Mikoyan-Gurevich_MiG-21.txt 2 173 469 
+upgraded Mikoyan-Gurevich_MiG-21.txt 1 1014 
+republika Mikoyan-Gurevich_MiG-21.txt 1 6507 
+yards Mikoyan-Gurevich_MiG-21.txt 2 2920 3788 
+point Mikoyan-Gurevich_MiG-21.txt 2 576 1441 
+simple Mikoyan-Gurevich_MiG-21.txt 1 904 
+sweep Mikoyan-Gurevich_MiG-21.txt 3 1190 1742 1764 
+simply Mikoyan-Gurevich_MiG-21.txt 1 1858 
+unsuccessful Mikoyan-Gurevich_MiG-21.txt 1 5858 
+asserted Mikoyan-Gurevich_MiG-21.txt 1 2923 
+throughout Mikoyan-Gurevich_MiG-21.txt 1 6048 
+create Mikoyan-Gurevich_MiG-21.txt 2 2770 3362 
+30mm Mikoyan-Gurevich_MiG-21.txt 1 5896 
+due Mikoyan-Gurevich_MiG-21.txt 9 53 309 1875 1975 2572 5544 5859 6864 7431 
+citations Mikoyan-Gurevich_MiG-21.txt 1 7759 
+pf Mikoyan-Gurevich_MiG-21.txt 2 702 6606 
+maintenance Mikoyan-Gurevich_MiG-21.txt 4 974 1710 2042 2583 
+laos Mikoyan-Gurevich_MiG-21.txt 1 3711 
+instructing Mikoyan-Gurevich_MiG-21.txt 1 5941 
+alongside Mikoyan-Gurevich_MiG-21.txt 1 6468 
+flight Mikoyan-Gurevich_MiG-21.txt 10 96 283 665 934 1565 4791 7205 7264 7589 7721 
+1950s Mikoyan-Gurevich_MiG-21.txt 1 215 
+fire Mikoyan-Gurevich_MiG-21.txt 9 2450 4847 5182 5227 5292 5371 5787 5898 6434 
+39 Mikoyan-Gurevich_MiG-21.txt 1 7138 
+38 Mikoyan-Gurevich_MiG-21.txt 2 6602 7195 
+extensive Mikoyan-Gurevich_MiG-21.txt 1 5812 
+nanolaunch Mikoyan-Gurevich_MiG-21.txt 1 7724 
+reliable Mikoyan-Gurevich_MiG-21.txt 1 2913 
+batch Mikoyan-Gurevich_MiG-21.txt 2 6194 7123 
+jaysh Mikoyan-Gurevich_MiG-21.txt 2 5309 5342 
+while Mikoyan-Gurevich_MiG-21.txt 26 67 459 769 960 1209 1394 2004 2757 2819 3307 3567 4093 4466 4714 4804 4829 4863 5341 5372 5669 5689 6341 6457 7276 7321 7391 
+replaced Mikoyan-Gurevich_MiG-21.txt 2 857 6776 
+intercepts Mikoyan-Gurevich_MiG-21.txt 2 3022 4578 
+fleet Mikoyan-Gurevich_MiG-21.txt 2 2237 6861 
+f-5as Mikoyan-Gurevich_MiG-21.txt 3 5629 5645 5666 
+aa Mikoyan-Gurevich_MiG-21.txt 1 6386 
+r-60mk Mikoyan-Gurevich_MiG-21.txt 1 2488 
+mig-19s Mikoyan-Gurevich_MiG-21.txt 1 2762 
+owek Mikoyan-Gurevich_MiG-21.txt 1 47 
+encountered Mikoyan-Gurevich_MiG-21.txt 2 1520 4214 
+itself Mikoyan-Gurevich_MiG-21.txt 2 836 4457 
+ready Mikoyan-Gurevich_MiG-21.txt 1 5100 
+eksloatirani Mikoyan-Gurevich_MiG-21.txt 1 7077 
+convair Mikoyan-Gurevich_MiG-21.txt 1 3431 
+fast-climbing Mikoyan-Gurevich_MiG-21.txt 1 773 
+government Mikoyan-Gurevich_MiG-21.txt 1 2545 
+widely Mikoyan-Gurevich_MiG-21.txt 1 897 
+peoples Mikoyan-Gurevich_MiG-21.txt 5 377 2611 2638 6333 7287 
+9 Mikoyan-Gurevich_MiG-21.txt 1 6062 
+rtafb Mikoyan-Gurevich_MiG-21.txt 1 3675 
+higher Mikoyan-Gurevich_MiG-21.txt 1 1323 
+development Mikoyan-Gurevich_MiG-21.txt 4 144 204 505 720 
+mig-21sm Mikoyan-Gurevich_MiG-21.txt 1 740 
+used Mikoyan-Gurevich_MiG-21.txt 15 350 440 646 2430 3013 4186 5102 5398 5596 6335 6461 6466 6819 6964 7257 
+forced Mikoyan-Gurevich_MiG-21.txt 1 5996 
+man-portable Mikoyan-Gurevich_MiG-21.txt 1 5815 
+alert Mikoyan-Gurevich_MiG-21.txt 1 5935 
+flown Mikoyan-Gurevich_MiG-21.txt 6 82 2644 3910 4055 5487 6531 
+arrived Mikoyan-Gurevich_MiG-21.txt 2 2697 4555 
+19952002 Mikoyan-Gurevich_MiG-21.txt 1 6698 
+retracted Mikoyan-Gurevich_MiG-21.txt 1 1300 
+lower Mikoyan-Gurevich_MiG-21.txt 1 754 
+knh Mikoyan-Gurevich_MiG-21.txt 1 7360 
+261 Mikoyan-Gurevich_MiG-21.txt 1 6215 
+edge Mikoyan-Gurevich_MiG-21.txt 3 1195 1218 1674 
+eljava Mikoyan-Gurevich_MiG-21.txt 1 6281 
+shape Mikoyan-Gurevich_MiG-21.txt 2 56 475 
+hercules Mikoyan-Gurevich_MiG-21.txt 1 2362 
+plagued Mikoyan-Gurevich_MiG-21.txt 1 2081 
+fn-6 Mikoyan-Gurevich_MiG-21.txt 1 5143 
+retired Mikoyan-Gurevich_MiG-21.txt 1 2571 
+loading Mikoyan-Gurevich_MiG-21.txt 2 791 2839 
+advisers Mikoyan-Gurevich_MiG-21.txt 1 5649 
+ocean Mikoyan-Gurevich_MiG-21.txt 1 7738 
+exclusively Mikoyan-Gurevich_MiG-21.txt 1 5848 
+most-produced Mikoyan-Gurevich_MiG-21.txt 2 103 111 
+remaining Mikoyan-Gurevich_MiG-21.txt 4 2213 2566 6471 6527 
+indonesian Mikoyan-Gurevich_MiG-21.txt 4 2495 2505 2528 2547 
+march Mikoyan-Gurevich_MiG-21.txt 4 3380 5300 5480 5520 
+emergency Mikoyan-Gurevich_MiG-21.txt 2 1455 6118 
+f-5es Mikoyan-Gurevich_MiG-21.txt 1 5700 
+showing Mikoyan-Gurevich_MiG-21.txt 1 5117 
+falcon Mikoyan-Gurevich_MiG-21.txt 2 142 4281 
+bis Mikoyan-Gurevich_MiG-21.txt 1 1165 
+marrero Mikoyan-Gurevich_MiG-21.txt 1 6007 
+continue Mikoyan-Gurevich_MiG-21.txt 1 2753 
+unstable Mikoyan-Gurevich_MiG-21.txt 1 573 
+bucharest Mikoyan-Gurevich_MiG-21.txt 1 1178 
+often Mikoyan-Gurevich_MiG-21.txt 3 321 969 3123 
+brakes Mikoyan-Gurevich_MiG-21.txt 3 1595 1608 1654 
+some Mikoyan-Gurevich_MiG-21.txt 6 3154 4575 5385 6520 6924 6957 
+experienced Mikoyan-Gurevich_MiG-21.txt 2 2750 3009 
+examples Mikoyan-Gurevich_MiG-21.txt 2 7158 7175 
+3.8 Mikoyan-Gurevich_MiG-21.txt 1 1755 
+delivered Mikoyan-Gurevich_MiG-21.txt 1 2550 
+gradually Mikoyan-Gurevich_MiG-21.txt 1 4155 
+contacts Mikoyan-Gurevich_MiG-21.txt 1 6035 
+nvaf Mikoyan-Gurevich_MiG-21.txt 4 3071 3279 3851 7296 
+per Mikoyan-Gurevich_MiG-21.txt 1 6882 
+saaf Mikoyan-Gurevich_MiG-21.txt 2 5967 6039 
+either Mikoyan-Gurevich_MiG-21.txt 3 184 5244 5367 
+be Mikoyan-Gurevich_MiG-21.txt 10 200 595 1854 2073 2222 2663 3681 4091 6775 6800 
+run Mikoyan-Gurevich_MiG-21.txt 1 123 
+agreement Mikoyan-Gurevich_MiG-21.txt 1 4692 
+immediately Mikoyan-Gurevich_MiG-21.txt 1 5946 
+185th Mikoyan-Gurevich_MiG-21.txt 1 6306 
+become Mikoyan-Gurevich_MiG-21.txt 2 208 5510 
+locher Mikoyan-Gurevich_MiG-21.txt 1 3668 
+by Mikoyan-Gurevich_MiG-21.txt 77 21 50 130 533 598 858 1273 1361 1857 2082 2225 2330 2404 2416 2448 2645 2703 2866 3547 3653 3661 3721 3736 3808 3911 4046 4056 4073 4099 4136 4176 4199 4245 4268 4285 4338 4579 4615 4665 4720 4748 4883 4909 5176 5178 5219 5221 5242 5308 5338 5369 5427 5431 5441 5488 5647 5660 5763 5793 5916 5957 6003 6025 6126 6146 6182 6385 6409 6497 6534 6584 6777 6784 6842 7504 7509 7690 
+1,200 Mikoyan-Gurevich_MiG-21.txt 2 2055 2919 
+exaggerated Mikoyan-Gurevich_MiG-21.txt 1 4762 
+firing Mikoyan-Gurevich_MiG-21.txt 1 6526 
+ambush Mikoyan-Gurevich_MiG-21.txt 2 3106 4597 
+chi Mikoyan-Gurevich_MiG-21.txt 1 3058 
+idf Mikoyan-Gurevich_MiG-21.txt 8 4316 4427 4477 4798 4911 4947 4970 5004 
+bisd Mikoyan-Gurevich_MiG-21.txt 1 7587 
+72 Mikoyan-Gurevich_MiG-21.txt 1 7094 
+fleets Mikoyan-Gurevich_MiG-21.txt 1 6854 
+71 Mikoyan-Gurevich_MiG-21.txt 1 6708 
+into Mikoyan-Gurevich_MiG-21.txt 7 654 1825 1836 1844 2058 4608 5975 
+framed Mikoyan-Gurevich_MiG-21.txt 1 2851 
+six-day Mikoyan-Gurevich_MiG-21.txt 2 4298 4417 
+egyptiansyrianisraeli Mikoyan-Gurevich_MiG-21.txt 1 4168 
+slovak Mikoyan-Gurevich_MiG-21.txt 1 7658 
+reworked Mikoyan-Gurevich_MiG-21.txt 1 236 
+twin-barrelled Mikoyan-Gurevich_MiG-21.txt 1 2326 
+bangladesh Mikoyan-Gurevich_MiG-21.txt 1 2272 
+long Mikoyan-Gurevich_MiG-21.txt 1 1550 
+forward Mikoyan-Gurevich_MiG-21.txt 2 1333 1843 
+opens Mikoyan-Gurevich_MiG-21.txt 1 1528 
+fighter/bomber Mikoyan-Gurevich_MiG-21.txt 1 5851 
+registered Mikoyan-Gurevich_MiG-21.txt 1 5190 
+tally Mikoyan-Gurevich_MiG-21.txt 1 3605 
+newer Mikoyan-Gurevich_MiG-21.txt 3 860 2747 6804 
+congratulates Mikoyan-Gurevich_MiG-21.txt 1 3060 
+russian Mikoyan-Gurevich_MiG-21.txt 3 6 42 988 
+lower-skilled Mikoyan-Gurevich_MiG-21.txt 1 939 
+line Mikoyan-Gurevich_MiG-21.txt 1 2137 
+fishs Mikoyan-Gurevich_MiG-21.txt 1 3706 
+deployed Mikoyan-Gurevich_MiG-21.txt 3 5711 5757 5846 
+directed Mikoyan-Gurevich_MiG-21.txt 1 3853 
+mig-21ums Mikoyan-Gurevich_MiG-21.txt 1 7176 
+characteristic Mikoyan-Gurevich_MiG-21.txt 1 481 
+arriving Mikoyan-Gurevich_MiG-21.txt 1 6790 
+up Mikoyan-Gurevich_MiG-21.txt 8 647 1007 1292 1873 5136 5551 5833 5927 
+us Mikoyan-Gurevich_MiG-21.txt 3 3033 3127 3322 
+um Mikoyan-Gurevich_MiG-21.txt 1 6725 
+accustomed Mikoyan-Gurevich_MiG-21.txt 1 5830 
+planes Mikoyan-Gurevich_MiG-21.txt 2 3151 3610 
+fighter-bomber-aviation Mikoyan-Gurevich_MiG-21.txt 1 6307 
+similar Mikoyan-Gurevich_MiG-21.txt 2 327 473 
+calculated Mikoyan-Gurevich_MiG-21.txt 1 1360 
+hornet Mikoyan-Gurevich_MiG-21.txt 2 6822 6826 
+aerial Mikoyan-Gurevich_MiG-21.txt 8 3044 3741 3924 5083 5574 7274 7319 7446 
+flow Mikoyan-Gurevich_MiG-21.txt 1 1267 
+herzegovina Mikoyan-Gurevich_MiG-21.txt 1 6367 
+single Mikoyan-Gurevich_MiG-21.txt 2 399 6096 
+raciel Mikoyan-Gurevich_MiG-21.txt 1 6006 
+mig-21rs Mikoyan-Gurevich_MiG-21.txt 1 7025 
+phantom Mikoyan-Gurevich_MiG-21.txt 4 2972 3222 3659 4258 
+endurance Mikoyan-Gurevich_MiG-21.txt 2 585 694 
+low-powered Mikoyan-Gurevich_MiG-21.txt 1 412 
+accounted Mikoyan-Gurevich_MiG-21.txt 1 4951 
+retract Mikoyan-Gurevich_MiG-21.txt 2 1824 1835 
+mcdonnell Mikoyan-Gurevich_MiG-21.txt 3 133 4255 4272 
+f/a-18c/d Mikoyan-Gurevich_MiG-21.txt 1 6821 
+srpska Mikoyan-Gurevich_MiG-21.txt 1 6508 
+problems Mikoyan-Gurevich_MiG-21.txt 1 2084 
+militants Mikoyan-Gurevich_MiG-21.txt 1 5344 
+19731974 Mikoyan-Gurevich_MiG-21.txt 1 7427 
+sides Mikoyan-Gurevich_MiG-21.txt 2 1380 6523 
+e Mikoyan-Gurevich_MiG-21.txt 1 3777 
+required Mikoyan-Gurevich_MiG-21.txt 1 6839 
+attacking Mikoyan-Gurevich_MiG-21.txt 2 3864 5929 
+2000 Mikoyan-Gurevich_MiG-21.txt 3 7079 7130 7191 
+train Mikoyan-Gurevich_MiG-21.txt 1 3855 
+fitted Mikoyan-Gurevich_MiG-21.txt 1 5392 
+2004 Mikoyan-Gurevich_MiG-21.txt 1 6841 
+2008 Mikoyan-Gurevich_MiG-21.txt 1 7616 
+having Mikoyan-Gurevich_MiG-21.txt 1 4077 
+recorded Mikoyan-Gurevich_MiG-21.txt 4 5113 5151 5196 7399 
+extensively Mikoyan-Gurevich_MiG-21.txt 2 4187 5597 
+bait Mikoyan-Gurevich_MiG-21.txt 1 3500 
+mercenaries Mikoyan-Gurevich_MiG-21.txt 2 5651 6183 
+rebels Mikoyan-Gurevich_MiG-21.txt 4 5123 5177 5220 5243 
+vietnamese Mikoyan-Gurevich_MiG-21.txt 9 2741 2830 3092 3552 3569 3609 3899 4032 4087 
+rudder Mikoyan-Gurevich_MiG-21.txt 1 1759 
+anti-communist Mikoyan-Gurevich_MiG-21.txt 1 2540 
+atlas Mikoyan-Gurevich_MiG-21.txt 1 6147 
+include Mikoyan-Gurevich_MiG-21.txt 1 7598 
+fences Mikoyan-Gurevich_MiG-21.txt 1 1245 
+friendly Mikoyan-Gurevich_MiG-21.txt 2 4845 6433 
+124th Mikoyan-Gurevich_MiG-21.txt 1 6284 
+128th Mikoyan-Gurevich_MiG-21.txt 1 6274 
+seized Mikoyan-Gurevich_MiG-21.txt 1 6125 
+outside Mikoyan-Gurevich_MiG-21.txt 1 496 
+mid-1970s Mikoyan-Gurevich_MiG-21.txt 1 4290 
+wave Mikoyan-Gurevich_MiG-21.txt 4 4315 4343 4355 4371 
+continued Mikoyan-Gurevich_MiG-21.txt 3 3213 6537 6594 
+categories Mikoyan-Gurevich_MiG-21.txt 2 7766 7768 
+jettisoned Mikoyan-Gurevich_MiG-21.txt 1 5949 
+entire Mikoyan-Gurevich_MiG-21.txt 1 4771 
+magic Mikoyan-Gurevich_MiG-21.txt 2 5987 6767 
+positions Mikoyan-Gurevich_MiG-21.txt 1 1289 
+notes Mikoyan-Gurevich_MiG-21.txt 1 7757 
+shock Mikoyan-Gurevich_MiG-21.txt 2 485 1833 
+prototypes Mikoyan-Gurevich_MiG-21.txt 1 261 
+ceasefire Mikoyan-Gurevich_MiG-21.txt 1 4691 
+encloses Mikoyan-Gurevich_MiG-21.txt 1 1508 
+smaller Mikoyan-Gurevich_MiG-21.txt 1 3344 
+4324 Mikoyan-Gurevich_MiG-21.txt 1 2634 
+licensed Mikoyan-Gurevich_MiG-21.txt 1 7603 
+video Mikoyan-Gurevich_MiG-21.txt 3 5198 5269 5353 
+picked Mikoyan-Gurevich_MiG-21.txt 1 5926 
+dynamics Mikoyan-Gurevich_MiG-21.txt 2 139 4278 
+kafr Mikoyan-Gurevich_MiG-21.txt 1 5314 
+giving Mikoyan-Gurevich_MiG-21.txt 1 2285 
+indias Mikoyan-Gurevich_MiG-21.txt 1 2159 
+cell Mikoyan-Gurevich_MiG-21.txt 1 3999 
+19th Mikoyan-Gurevich_MiG-21.txt 2 6913 7112 
+indian Mikoyan-Gurevich_MiG-21.txt 6 1926 2090 2316 2418 2442 2470 
+then Mikoyan-Gurevich_MiG-21.txt 2 1124 3114 
+flowing Mikoyan-Gurevich_MiG-21.txt 1 653 
+aircrafts Mikoyan-Gurevich_MiG-21.txt 2 37 903 
+firms Mikoyan-Gurevich_MiG-21.txt 1 992 
+bird Mikoyan-Gurevich_MiG-21.txt 1 2145 
+exercise Mikoyan-Gurevich_MiG-21.txt 3 6091 6572 7633 
+led Mikoyan-Gurevich_MiG-21.txt 3 249 781 3358 
+exchange Mikoyan-Gurevich_MiG-21.txt 2 2555 4438 
+defector Mikoyan-Gurevich_MiG-21.txt 2 5489 6472 
+intercept Mikoyan-Gurevich_MiG-21.txt 2 3702 6502 
+phantoms Mikoyan-Gurevich_MiG-21.txt 5 3245 3517 3566 4100 4132 
+licence Mikoyan-Gurevich_MiG-21.txt 1 1146 
+resemblance Mikoyan-Gurevich_MiG-21.txt 1 39 
+fifteen Mikoyan-Gurevich_MiG-21.txt 1 4778 
+great Mikoyan-Gurevich_MiG-21.txt 1 3217 
+engage Mikoyan-Gurevich_MiG-21.txt 1 5767 
+thieus Mikoyan-Gurevich_MiG-21.txt 1 4107 
+technical Mikoyan-Gurevich_MiG-21.txt 1 5526 
+31 Mikoyan-Gurevich_MiG-21.txt 2 1060 7220 
+larger Mikoyan-Gurevich_MiG-21.txt 1 630 
+f-4es Mikoyan-Gurevich_MiG-21.txt 3 4634 4822 4875 
+36 Mikoyan-Gurevich_MiG-21.txt 4 3622 6224 6747 7001 
+35 Mikoyan-Gurevich_MiG-21.txt 2 1620 4399 
+mig-23s Mikoyan-Gurevich_MiG-21.txt 2 5405 6100 
+resulting Mikoyan-Gurevich_MiG-21.txt 3 582 1554 3460 
+climb Mikoyan-Gurevich_MiG-21.txt 2 799 2940 
+avionics Mikoyan-Gurevich_MiG-21.txt 2 909 1015 
+claim Mikoyan-Gurevich_MiG-21.txt 2 3598 4966 
+egypt Mikoyan-Gurevich_MiG-21.txt 5 4333 4381 4539 4740 5382 
+gordon Mikoyan-Gurevich_MiG-21.txt 1 7746 
+privately Mikoyan-Gurevich_MiG-21.txt 1 7682 
+iraniraq Mikoyan-Gurevich_MiG-21.txt 3 5414 5419 7473 
+use Mikoyan-Gurevich_MiG-21.txt 6 495 901 917 1810 6756 7705 
+from Mikoyan-Gurevich_MiG-21.txt 45 35 456 652 679 686 844 1368 1449 1516 1570 1862 2017 2665 2699 2765 3098 3129 3142 3264 3283 3905 3961 3996 4008 4049 4484 5114 5444 5499 5532 5980 6199 6206 6243 6358 6909 6976 6981 7049 7082 7085 7187 7214 7732 7745 
+usa Mikoyan-Gurevich_MiG-21.txt 1 7717 
+remains Mikoyan-Gurevich_MiG-21.txt 1 899 
+usn Mikoyan-Gurevich_MiG-21.txt 1 3360 
+next Mikoyan-Gurevich_MiG-21.txt 1 6597 
+few Mikoyan-Gurevich_MiG-21.txt 2 3149 5184 
+eagles Mikoyan-Gurevich_MiG-21.txt 1 2597 
+yugoslavian Mikoyan-Gurevich_MiG-21.txt 1 6186 
+pencil Mikoyan-Gurevich_MiG-21.txt 1 49 
+iis Mikoyan-Gurevich_MiG-21.txt 1 4259 
+started Mikoyan-Gurevich_MiG-21.txt 2 4991 5089 
+pfm Mikoyan-Gurevich_MiG-21.txt 2 703 6616 
+occurred Mikoyan-Gurevich_MiG-21.txt 6 2183 3293 3703 3743 3791 6069 
+visibility Mikoyan-Gurevich_MiG-21.txt 1 2858 
+missile Mikoyan-Gurevich_MiG-21.txt 3 2492 2946 3542 
+carrying Mikoyan-Gurevich_MiG-21.txt 1 599 
+israelis Mikoyan-Gurevich_MiG-21.txt 1 4687 
+tobruk Mikoyan-Gurevich_MiG-21.txt 1 5543 
+iii Mikoyan-Gurevich_MiG-21.txt 4 435 4173 4217 6771 
+1980s Mikoyan-Gurevich_MiG-21.txt 3 4198 6050 6211 
+account Mikoyan-Gurevich_MiG-21.txt 1 834 
+origins Mikoyan-Gurevich_MiG-21.txt 1 146 
+tushino Mikoyan-Gurevich_MiG-21.txt 1 301 
+this Mikoyan-Gurevich_MiG-21.txt 26 231 530 564 593 636 666 941 1423 2641 2684 2860 3677 4014 4053 4084 4103 4480 4853 4960 5037 6028 6673 6977 7004 7122 7594 
+840 Mikoyan-Gurevich_MiG-21.txt 1 2115 
+mig-21ub Mikoyan-Gurevich_MiG-21.txt 1 7644 
+stabilizer Mikoyan-Gurevich_MiG-21.txt 2 1720 1739 
+control Mikoyan-Gurevich_MiG-21.txt 5 581 928 1736 3020 5587 
+links Mikoyan-Gurevich_MiG-21.txt 1 7764 
+taz Mikoyan-Gurevich_MiG-21.txt 1 1059 
+promotional Mikoyan-Gurevich_MiG-21.txt 1 7574 
+high Mikoyan-Gurevich_MiG-21.txt 2 2837 4525 
+j-22 Mikoyan-Gurevich_MiG-21.txt 1 6504 
+1991 Mikoyan-Gurevich_MiG-21.txt 2 6984 7476 
+united Mikoyan-Gurevich_MiG-21.txt 2 2622 7673 
+destroying Mikoyan-Gurevich_MiG-21.txt 1 3276 
+six Mikoyan-Gurevich_MiG-21.txt 8 91 4239 4431 4489 4877 7099 7155 7370 
+slovenian Mikoyan-Gurevich_MiG-21.txt 1 6344 
+formations Mikoyan-Gurevich_MiG-21.txt 1 3128 
+attachment Mikoyan-Gurevich_MiG-21.txt 2 1440 1679 
+elliptical Mikoyan-Gurevich_MiG-21.txt 1 1252 
+aft Mikoyan-Gurevich_MiG-21.txt 1 1304 
+profile Mikoyan-Gurevich_MiG-21.txt 1 1253 
+specifications Mikoyan-Gurevich_MiG-21.txt 2 2938 7739 
+valdezs Mikoyan-Gurevich_MiG-21.txt 1 5893 
+bombers Mikoyan-Gurevich_MiG-21.txt 3 3840 3869 3971 
+boeing Mikoyan-Gurevich_MiG-21.txt 3 3725 3932 6823 
+twin-seaters Mikoyan-Gurevich_MiG-21.txt 1 1082 
+light Mikoyan-Gurevich_MiG-21.txt 1 790 
+counter Mikoyan-Gurevich_MiG-21.txt 3 635 887 2255 
+or Mikoyan-Gurevich_MiG-21.txt 17 46 192 1898 3035 5167 5210 5248 5374 5569 5650 5766 6042 6769 6809 6827 7272 7317 
+gci Mikoyan-Gurevich_MiG-21.txt 2 2678 3019 
+allow Mikoyan-Gurevich_MiG-21.txt 1 1530 
+luena Mikoyan-Gurevich_MiG-21.txt 1 5805 
+a/c Mikoyan-Gurevich_MiG-21.txt 1 7555 
+produced Mikoyan-Gurevich_MiG-21.txt 1 1036 
+jna Mikoyan-Gurevich_MiG-21.txt 1 6415 
+including Mikoyan-Gurevich_MiG-21.txt 3 2396 3621 3636 
+interceptor Mikoyan-Gurevich_MiG-21.txt 6 18 395 450 470 774 2202 
+superior Mikoyan-Gurevich_MiG-21.txt 2 2935 4938 
+inlet Mikoyan-Gurevich_MiG-21.txt 1 1275 
+guerrilla Mikoyan-Gurevich_MiG-21.txt 1 3174 
+lt Mikoyan-Gurevich_MiG-21.txt 1 3666 
+degrees Mikoyan-Gurevich_MiG-21.txt 1 1443 
+2015 Mikoyan-Gurevich_MiG-21.txt 3 4148 7222 7226 
+2014 Mikoyan-Gurevich_MiG-21.txt 4 5231 5538 5612 7583 
+2017 Mikoyan-Gurevich_MiG-21.txt 1 7700 
+2016 Mikoyan-Gurevich_MiG-21.txt 2 5301 6796 
+nabudah Mikoyan-Gurevich_MiG-21.txt 1 5315 
+2010 Mikoyan-Gurevich_MiG-21.txt 1 2108 
+2013 Mikoyan-Gurevich_MiG-21.txt 4 2065 2110 2158 7691 
+2012 Mikoyan-Gurevich_MiG-21.txt 4 5069 5155 5202 7689 
+designs Mikoyan-Gurevich_MiG-21.txt 4 177 445 915 5139 
+popularly Mikoyan-Gurevich_MiG-21.txt 1 32 
+crash Mikoyan-Gurevich_MiG-21.txt 1 5275 
+greater Mikoyan-Gurevich_MiG-21.txt 1 712 
+python Mikoyan-Gurevich_MiG-21.txt 1 6770 
+flew Mikoyan-Gurevich_MiG-21.txt 4 3066 3093 5498 6169 
+hands Mikoyan-Gurevich_MiG-21.txt 1 3007 
+front Mikoyan-Gurevich_MiG-21.txt 11 463 488 1237 1370 1492 1599 1606 1686 4001 4782 4854 
+day Mikoyan-Gurevich_MiG-21.txt 5 297 3573 4490 4859 5838 
+landings Mikoyan-Gurevich_MiG-21.txt 1 1891 
+kilometres Mikoyan-Gurevich_MiG-21.txt 1 3963 
+february Mikoyan-Gurevich_MiG-21.txt 3 2732 2781 3651 
+decommissioned Mikoyan-Gurevich_MiG-21.txt 1 2167 
+kpv Mikoyan-Gurevich_MiG-21.txt 1 5222 
+edit Mikoyan-Gurevich_MiG-21.txt 37 145 147 358 1019 1167 1903 1905 1907 2231 2426 2494 2607 3052 4170 5052 5381 5416 5466 5619 5730 6159 6185 6563 6893 7252 7530 7537 7619 7669 7710 7741 7754 7756 7758 7760 7762 7765 
+subcontinent Mikoyan-Gurevich_MiG-21.txt 1 2313 
+rockets Mikoyan-Gurevich_MiG-21.txt 2 1684 7731 
+pools Mikoyan-Gurevich_MiG-21.txt 1 959 
+autocannon Mikoyan-Gurevich_MiG-21.txt 1 6027 
+aa-8 Mikoyan-Gurevich_MiG-21.txt 1 2489 
+exacerbated Mikoyan-Gurevich_MiG-21.txt 1 532 
+serbia Mikoyan-Gurevich_MiG-21.txt 2 6374 6533 
+retaliation Mikoyan-Gurevich_MiG-21.txt 1 3169 
+thirteen Mikoyan-Gurevich_MiG-21.txt 1 6055 
+firepower Mikoyan-Gurevich_MiG-21.txt 1 3227 
+exceeded Mikoyan-Gurevich_MiG-21.txt 1 129 
+80 Mikoyan-Gurevich_MiG-21.txt 1 6248 
+87 Mikoyan-Gurevich_MiG-21.txt 1 1830 
+85 Mikoyan-Gurevich_MiG-21.txt 1 3313 
+dassault Mikoyan-Gurevich_MiG-21.txt 2 433 6817 
+converted Mikoyan-Gurevich_MiG-21.txt 2 6929 6962 
+ejecting Mikoyan-Gurevich_MiG-21.txt 2 1494 1539 
+f-6 Mikoyan-Gurevich_MiG-21.txt 1 2350 
+f-7 Mikoyan-Gurevich_MiG-21.txt 1 6167 
+f-4 Mikoyan-Gurevich_MiG-21.txt 7 2971 3565 3638 3658 4131 4257 5029 
+f-5 Mikoyan-Gurevich_MiG-21.txt 3 427 2561 3421 
+induction Mikoyan-Gurevich_MiG-21.txt 1 1978 
+announced Mikoyan-Gurevich_MiG-21.txt 1 4151 
+shut Mikoyan-Gurevich_MiG-21.txt 1 662 
+approached Mikoyan-Gurevich_MiG-21.txt 2 2398 4078 
+conflicts Mikoyan-Gurevich_MiG-21.txt 3 4169 4192 5380 
+sabre Mikoyan-Gurevich_MiG-21.txt 1 2356 
+s/sm Mikoyan-Gurevich_MiG-21.txt 1 704 
+1983 Mikoyan-Gurevich_MiG-21.txt 1 7086 
+rearward Mikoyan-Gurevich_MiG-21.txt 1 560 
+could Mikoyan-Gurevich_MiG-21.txt 4 795 830 3835 6009 
+area Mikoyan-Gurevich_MiG-21.txt 7 1224 1232 1611 1627 1748 1769 4610 
+ask Mikoyan-Gurevich_MiG-21.txt 1 4541 
+confrontations Mikoyan-Gurevich_MiG-21.txt 1 3254 
+ltd Mikoyan-Gurevich_MiG-21.txt 1 1152 
+lancer Mikoyan-Gurevich_MiG-21.txt 6 6567 6717 6728 6740 6860 7562 
+south Mikoyan-Gurevich_MiG-21.txt 6 5736 5768 5866 5877 5922 6138 
+0.76 Mikoyan-Gurevich_MiG-21.txt 1 1613 
+shenyang Mikoyan-Gurevich_MiG-21.txt 1 2349 
+owned Mikoyan-Gurevich_MiG-21.txt 1 7683 
+strategic Mikoyan-Gurevich_MiG-21.txt 1 3823 
+mai Mikoyan-Gurevich_MiG-21.txt 1 7333 
+congo Mikoyan-Gurevich_MiG-21.txt 2 6158 6177 
+dogfighter Mikoyan-Gurevich_MiG-21.txt 1 885 
+system Mikoyan-Gurevich_MiG-21.txt 1 1364 
+their Mikoyan-Gurevich_MiG-21.txt 19 2786 2817 3040 3094 3111 3160 3363 3387 3842 3987 4557 4808 4833 4879 4973 5394 5861 5950 6538 
+attack Mikoyan-Gurevich_MiG-21.txt 8 3543 3880 4310 5716 5759 6475 6513 6722 
+libyan-egyptian Mikoyan-Gurevich_MiG-21.txt 1 5409 
+f1s Mikoyan-Gurevich_MiG-21.txt 2 5773 6041 
+pakistani Mikoyan-Gurevich_MiG-21.txt 2 2258 2484 
+final Mikoyan-Gurevich_MiG-21.txt 1 5723 
+cabin Mikoyan-Gurevich_MiG-21.txt 2 1473 1486 
+benghazi Mikoyan-Gurevich_MiG-21.txt 1 5609 
+gear Mikoyan-Gurevich_MiG-21.txt 4 1662 1792 1823 1841 
+completed Mikoyan-Gurevich_MiG-21.txt 1 3457 
+pressurized Mikoyan-Gurevich_MiG-21.txt 2 676 1475 
+july Mikoyan-Gurevich_MiG-21.txt 6 304 4229 4591 4602 5068 5412 
+warfare Mikoyan-Gurevich_MiG-21.txt 1 3175 
+aggressor Mikoyan-Gurevich_MiG-21.txt 1 2600 
+submitted Mikoyan-Gurevich_MiG-21.txt 1 6936 
+september Mikoyan-Gurevich_MiG-21.txt 4 4694 5201 5537 6910 
+1.5 Mikoyan-Gurevich_MiG-21.txt 2 1295 1310 
+mikul Mikoyan-Gurevich_MiG-21.txt 1 7665 
+balalaika Mikoyan-Gurevich_MiG-21.txt 1 34 
+partnership Mikoyan-Gurevich_MiG-21.txt 1 2244 
+1.9 Mikoyan-Gurevich_MiG-21.txt 2 1313 1326 
+have Mikoyan-Gurevich_MiG-21.txt 23 81 503 993 1609 2095 2105 2182 2195 3966 4016 4039 4064 4105 4320 5007 5594 5683 5694 6348 7243 7267 7387 7444 
+border Mikoyan-Gurevich_MiG-21.txt 2 3714 6140 
+clearly Mikoyan-Gurevich_MiG-21.txt 1 2372 
+complete Mikoyan-Gurevich_MiG-21.txt 1 6831 
+acceleration Mikoyan-Gurevich_MiG-21.txt 1 3237 
+angle Mikoyan-Gurevich_MiG-21.txt 7 1191 1204 1212 1618 1634 1743 1765 
+able Mikoyan-Gurevich_MiG-21.txt 1 5933 
+gravity Mikoyan-Gurevich_MiG-21.txt 3 547 557 609 
+battles Mikoyan-Gurevich_MiG-21.txt 3 3292 3464 3615 
+gunner Mikoyan-Gurevich_MiG-21.txt 2 3752 3890 
+322 Mikoyan-Gurevich_MiG-21.txt 1 6653 
+instance Mikoyan-Gurevich_MiG-21.txt 1 335 
+which Mikoyan-Gurevich_MiG-21.txt 20 196 1162 2245 2440 2726 2908 3435 3559 4282 4329 4682 4935 5282 6418 6481 6707 6934 6959 7039 7450 
+korean Mikoyan-Gurevich_MiG-21.txt 3 116 5047 5885 
+combat Mikoyan-Gurevich_MiG-21.txt 20 112 126 780 2310 2378 2960 3045 3339 3394 3562 3925 4145 4327 4351 4767 5033 5099 5121 5400 5636 
+centre Mikoyan-Gurevich_MiG-21.txt 1 545 
+who Mikoyan-Gurevich_MiG-21.txt 10 2883 3065 3101 3495 3756 5494 5579 5960 7297 7443 
+udorn Mikoyan-Gurevich_MiG-21.txt 1 3674 
+eight Mikoyan-Gurevich_MiG-21.txt 5 3557 4322 4717 4752 7337 
+preliminary Mikoyan-Gurevich_MiG-21.txt 1 221 
+alarmed Mikoyan-Gurevich_MiG-21.txt 1 4664 
+placement Mikoyan-Gurevich_MiG-21.txt 1 536 
+request Mikoyan-Gurevich_MiG-21.txt 1 6133 
+1,000 Mikoyan-Gurevich_MiG-21.txt 2 2917 3321 
+s-12 Mikoyan-Gurevich_MiG-21.txt 1 1201 
+lazur Mikoyan-Gurevich_MiG-21.txt 1 7121 
+impression Mikoyan-Gurevich_MiG-21.txt 1 2864 
+mig-21pf Mikoyan-Gurevich_MiG-21.txt 4 1339 2629 6994 7743 
+r-60m Mikoyan-Gurevich_MiG-21.txt 1 6765 
+violation Mikoyan-Gurevich_MiG-21.txt 1 6444 
+rotating Mikoyan-Gurevich_MiG-21.txt 1 1829 
+bring Mikoyan-Gurevich_MiG-21.txt 1 1004 
+ignatievo Mikoyan-Gurevich_MiG-21.txt 2 7216 7626 
+based Mikoyan-Gurevich_MiG-21.txt 5 179 1347 3672 5264 7613 
+ngc Mikoyan-Gurevich_MiG-21.txt 3 7340 7345 7349 
+multirole Mikoyan-Gurevich_MiG-21.txt 2 6813 6837 
+credited Mikoyan-Gurevich_MiG-21.txt 2 2649 7314 
+tonopah Mikoyan-Gurevich_MiG-21.txt 1 2603 
+operational Mikoyan-Gurevich_MiG-21.txt 2 1901 6750 
+bombings Mikoyan-Gurevich_MiG-21.txt 2 3801 5104 
+inherited Mikoyan-Gurevich_MiG-21.txt 1 685 
+fuel Mikoyan-Gurevich_MiG-21.txt 11 540 551 600 617 632 644 651 697 713 1649 1896 
+employed Mikoyan-Gurevich_MiG-21.txt 1 3412 
+local Mikoyan-Gurevich_MiG-21.txt 2 1957 6127 
+inferior Mikoyan-Gurevich_MiG-21.txt 1 962 
+meant Mikoyan-Gurevich_MiG-21.txt 1 775 
+su-27sk Mikoyan-Gurevich_MiG-21.txt 1 4165 
+czechoslovakia Mikoyan-Gurevich_MiG-21.txt 1 1148 
+overall Mikoyan-Gurevich_MiG-21.txt 1 4380 
+120 Mikoyan-Gurevich_MiG-21.txt 1 2410 
+october Mikoyan-Gurevich_MiG-21.txt 5 4180 4787 4816 4869 5901 
+areas Mikoyan-Gurevich_MiG-21.txt 1 2294 
+numerous Mikoyan-Gurevich_MiG-21.txt 1 442 
+graf Mikoyan-Gurevich_MiG-21.txt 2 7215 7625 
+view Mikoyan-Gurevich_MiG-21.txt 2 1182 2176 
+acquired Mikoyan-Gurevich_MiG-21.txt 3 4284 6402 7694 
+catastrophic Mikoyan-Gurevich_MiG-21.txt 1 6067 
+national Mikoyan-Gurevich_MiG-21.txt 4 376 2618 5606 5794 
+topgun Mikoyan-Gurevich_MiG-21.txt 1 3371 
+avihu Mikoyan-Gurevich_MiG-21.txt 1 4627 
+operates Mikoyan-Gurevich_MiG-21.txt 2 2131 7702 
+yugoslavia Mikoyan-Gurevich_MiG-21.txt 5 6184 6190 6212 6547 6554 
+enhanced Mikoyan-Gurevich_MiG-21.txt 1 944 
+operated Mikoyan-Gurevich_MiG-21.txt 5 4851 6260 6999 7013 7040 
+afterburner Mikoyan-Gurevich_MiG-21.txt 1 2128 
+closer Mikoyan-Gurevich_MiG-21.txt 1 604 
+error Mikoyan-Gurevich_MiG-21.txt 1 5547 
+fighter-aviation Mikoyan-Gurevich_MiG-21.txt 6 6265 6275 6278 6287 6294 6310 
+vietnams Mikoyan-Gurevich_MiG-21.txt 3 2718 2772 2813 
+nature Mikoyan-Gurevich_MiG-21.txt 1 7435 
+hit-and-run Mikoyan-Gurevich_MiG-21.txt 1 3016 
+su-22m4 Mikoyan-Gurevich_MiG-21.txt 1 4164 
+difficulties Mikoyan-Gurevich_MiG-21.txt 1 6866 
+phased Mikoyan-Gurevich_MiG-21.txt 1 2223 
+closed Mikoyan-Gurevich_MiG-21.txt 1 5971 
+routine Mikoyan-Gurevich_MiG-21.txt 1 5910 
+linebacker Mikoyan-Gurevich_MiG-21.txt 2 3794 3952 
+ends Mikoyan-Gurevich_MiG-21.txt 1 1691 
+opening Mikoyan-Gurevich_MiG-21.txt 1 4293 
+5.32 Mikoyan-Gurevich_MiG-21.txt 1 1750 
+ailerons Mikoyan-Gurevich_MiG-21.txt 2 1221 1240 
+aircraft Mikoyan-Gurevich_MiG-21.txt 61 19 106 113 127 340 391 400 447 520 794 1006 1028 1043 1055 1062 1590 2116 2211 2467 2481 2564 2643 3034 3275 3306 3323 3456 3553 3632 4317 4324 4451 4478 4520 4529 4681 4747 4900 4950 4971 5023 5101 5456 5868 6001 6249 6357 6603 6654 6789 6869 6908 6927 6968 6975 7003 7009 7038 7184 7196 7242 
+attributed Mikoyan-Gurevich_MiG-21.txt 1 5783 
+april Mikoyan-Gurevich_MiG-21.txt 4 2706 3284 3588 4250 
+figures Mikoyan-Gurevich_MiG-21.txt 2 750 2668 
+tactical Mikoyan-Gurevich_MiG-21.txt 1 7654 
+canopy Mikoyan-Gurevich_MiG-21.txt 6 1466 1487 1502 1546 1574 2852 
+safely Mikoyan-Gurevich_MiG-21.txt 1 6032 
+sorties Mikoyan-Gurevich_MiG-21.txt 6 2010 3318 3459 3556 5836 6171 
+detailed Mikoyan-Gurevich_MiG-21.txt 1 6375 
+unclear Mikoyan-Gurevich_MiG-21.txt 1 5555 
+ambushed Mikoyan-Gurevich_MiG-21.txt 1 4614 
+m/s Mikoyan-Gurevich_MiG-21.txt 1 803 
+cf Mikoyan-Gurevich_MiG-21.txt 1 2823 
+j-7/f-7 Mikoyan-Gurevich_MiG-21.txt 1 7610 
+cz Mikoyan-Gurevich_MiG-21.txt 1 5742 
+johann Mikoyan-Gurevich_MiG-21.txt 1 5969 
+cs Mikoyan-Gurevich_MiG-21.txt 1 4218 
+videos Mikoyan-Gurevich_MiG-21.txt 1 5112 
+platform Mikoyan-Gurevich_MiG-21.txt 1 7709 
+yaw Mikoyan-Gurevich_MiG-21.txt 1 1735 
+copies Mikoyan-Gurevich_MiG-21.txt 1 7602 
+g-limits Mikoyan-Gurevich_MiG-21.txt 1 841 
+2019 Mikoyan-Gurevich_MiG-21.txt 1 2226 
+maneuvers Mikoyan-Gurevich_MiG-21.txt 1 649 
+finished Mikoyan-Gurevich_MiG-21.txt 1 219 
+accident Mikoyan-Gurevich_MiG-21.txt 3 6068 6435 6877 
+last Mikoyan-Gurevich_MiG-21.txt 4 2453 2789 5294 7204 
+an Mikoyan-Gurevich_MiG-21.txt 41 351 584 729 1223 1231 1251 1274 1454 1610 1626 1647 1747 1768 1877 2149 2201 2315 2337 3247 3330 4571 4596 4609 4640 4797 4827 4840 5573 5678 5790 5807 5905 6090 6107 6117 6396 6446 6495 6876 7054 7229 
+present Mikoyan-Gurevich_MiG-21.txt 1 2197 
+2011 Mikoyan-Gurevich_MiG-21.txt 4 5474 5481 5521 7666 
+ejection Mikoyan-Gurevich_MiG-21.txt 3 1497 1525 1562 
+appearance Mikoyan-Gurevich_MiG-21.txt 1 292 
+will Mikoyan-Gurevich_MiG-21.txt 2 6774 6799 
+country Mikoyan-Gurevich_MiG-21.txt 1 7510 
+piloting Mikoyan-Gurevich_MiG-21.txt 1 4633 
+at Mikoyan-Gurevich_MiG-21.txt 39 299 366 742 929 1173 1490 1540 1597 1602 1692 1702 2066 2101 2196 2602 2616 3372 3403 3509 3612 3673 3690 3698 3841 3944 5169 5212 5506 5917 6033 6152 6267 6280 6296 6312 6318 6351 6378 7624 
+manually Mikoyan-Gurevich_MiG-21.txt 1 1856 
+almost Mikoyan-Gurevich_MiG-21.txt 2 4392 5847 
+mig-21mfs Mikoyan-Gurevich_MiG-21.txt 8 4794 4818 4943 5012 5634 5654 5688 5698 
+mig-21mfr Mikoyan-Gurevich_MiG-21.txt 1 7069 
+thus Mikoyan-Gurevich_MiG-21.txt 2 417 1866 
+site Mikoyan-Gurevich_MiG-21.txt 1 5276 
+vn Mikoyan-Gurevich_MiG-21.txt 3 7282 7334 7376 
+hardware Mikoyan-Gurevich_MiG-21.txt 1 986 
+vu Mikoyan-Gurevich_MiG-21.txt 1 4057 
+lightweight Mikoyan-Gurevich_MiG-21.txt 1 404 
+claimed Mikoyan-Gurevich_MiG-21.txt 29 2318 2343 3302 3466 3629 3679 3718 3919 4098 4121 4129 4318 4334 4345 4364 4459 4469 4501 4511 4706 4716 4732 4741 4891 4904 5005 5014 5681 5692 
+az Mikoyan-Gurevich_MiG-21.txt 1 1040 
+began Mikoyan-Gurevich_MiG-21.txt 2 211 3260 
+administration Mikoyan-Gurevich_MiG-21.txt 1 7677 
+parts Mikoyan-Gurevich_MiG-21.txt 3 2577 6464 6663 
+largest Mikoyan-Gurevich_MiG-21.txt 2 1915 5042 
+units Mikoyan-Gurevich_MiG-21.txt 1 6258 
+difficult Mikoyan-Gurevich_MiG-21.txt 1 579 
+conflicting Mikoyan-Gurevich_MiG-21.txt 1 5318 
+phm Mikoyan-Gurevich_MiG-21.txt 2 3913 7325 
+reporting Mikoyan-Gurevich_MiG-21.txt 1 9 
+effect Mikoyan-Gurevich_MiG-21.txt 1 567 
+suborbital Mikoyan-Gurevich_MiG-21.txt 1 7729 
+frequently Mikoyan-Gurevich_MiG-21.txt 1 5756 
+destruction Mikoyan-Gurevich_MiG-21.txt 1 4954 
+off Mikoyan-Gurevich_MiG-21.txt 4 5166 5209 6113 7213 
+center Mikoyan-Gurevich_MiG-21.txt 3 555 607 6317 
+1954 Mikoyan-Gurevich_MiG-21.txt 1 230 
+i Mikoyan-Gurevich_MiG-21.txt 3 2928 2951 2962 
+indonesia Mikoyan-Gurevich_MiG-21.txt 1 2493 
+well Mikoyan-Gurevich_MiG-21.txt 2 1134 3425 
+fighting Mikoyan-Gurevich_MiG-21.txt 2 141 4280 
+pham Mikoyan-Gurevich_MiG-21.txt 2 2874 2891 
+command Mikoyan-Gurevich_MiG-21.txt 1 3825 
+english Mikoyan-Gurevich_MiG-21.txt 2 48 5906 
+position Mikoyan-Gurevich_MiG-21.txt 6 1305 1320 1334 1346 1354 1874 
+soviet Mikoyan-Gurevich_MiG-21.txt 23 28 156 176 295 328 390 444 624 876 1071 1946 2582 2701 4543 4550 4564 4580 4606 4625 4655 4661 4669 6201 
+1.24 Mikoyan-Gurevich_MiG-21.txt 1 1259 
+load Mikoyan-Gurevich_MiG-21.txt 1 2988 
+deltas Mikoyan-Gurevich_MiG-21.txt 1 194 
+newest Mikoyan-Gurevich_MiG-21.txt 1 6852 
+rocket Mikoyan-Gurevich_MiG-21.txt 1 5105 
+less Mikoyan-Gurevich_MiG-21.txt 2 2749 2846 
+increasingly Mikoyan-Gurevich_MiG-21.txt 1 6046 
+offensive Mikoyan-Gurevich_MiG-21.txt 1 5724 
+accurate Mikoyan-Gurevich_MiG-21.txt 4 2911 2949 3124 5785 
+sources Mikoyan-Gurevich_MiG-21.txt 4 3053 3979 4759 5437 
+r.550 Mikoyan-Gurevich_MiG-21.txt 1 5986 
+subsonic Mikoyan-Gurevich_MiG-21.txt 2 162 3414 
+rest Mikoyan-Gurevich_MiG-21.txt 2 6459 7116 
+atoll Mikoyan-Gurevich_MiG-21.txt 4 2906 2945 2957 3959 
+rapid Mikoyan-Gurevich_MiG-21.txt 1 784 
+bibliography Mikoyan-Gurevich_MiG-21.txt 1 7761 
+ngha Mikoyan-Gurevich_MiG-21.txt 1 7377 
+supply Mikoyan-Gurevich_MiG-21.txt 1 1388 
+capabilities Mikoyan-Gurevich_MiG-21.txt 1 2261 
+truda Mikoyan-Gurevich_MiG-21.txt 1 1051 
+lured Mikoyan-Gurevich_MiG-21.txt 1 4605 
+nato Mikoyan-Gurevich_MiG-21.txt 3 8 6551 6843 
+somali Mikoyan-Gurevich_MiG-21.txt 4 5631 5662 5687 5726 
+miramar Mikoyan-Gurevich_MiG-21.txt 1 3376 
+14.5 Mikoyan-Gurevich_MiG-21.txt 1 5223 
+tests Mikoyan-Gurevich_MiG-21.txt 1 7722 
+increased Mikoyan-Gurevich_MiG-21.txt 3 667 730 843 
+worlds Mikoyan-Gurevich_MiG-21.txt 1 339 
+haul Mikoyan-Gurevich_MiG-21.txt 1 3115 
+five Mikoyan-Gurevich_MiG-21.txt 11 3474 4335 4724 4776 4967 7144 7271 7316 7378 7400 7410 
+redesign Mikoyan-Gurevich_MiG-21.txt 1 248 
+variants Mikoyan-Gurevich_MiG-21.txt 14 275 612 625 726 848 854 1480 1788 1809 6219 6601 6713 7529 7535 
+268 Mikoyan-Gurevich_MiG-21.txt 1 3290 
+loss Mikoyan-Gurevich_MiG-21.txt 3 785 3311 5146 
+like Mikoyan-Gurevich_MiG-21.txt 2 518 6816 
+lost Mikoyan-Gurevich_MiG-21.txt 15 2123 3273 3477 3618 4112 4140 4382 4398 4882 6058 6102 6252 6420 6484 7198 
+123rd Mikoyan-Gurevich_MiG-21.txt 1 6300 
+28a Mikoyan-Gurevich_MiG-21.txt 1 1704 
+admitted Mikoyan-Gurevich_MiG-21.txt 1 4723 
+controllers Mikoyan-Gurevich_MiG-21.txt 1 3100 
+regulated Mikoyan-Gurevich_MiG-21.txt 1 1272 
+page Mikoyan-Gurevich_MiG-21.txt 1 7516 
+exceed Mikoyan-Gurevich_MiG-21.txt 1 4775 
+because Mikoyan-Gurevich_MiG-21.txt 6 508 2386 2738 2835 2932 6688 
+hindustan Mikoyan-Gurevich_MiG-21.txt 1 1150 
+shootdowns Mikoyan-Gurevich_MiG-21.txt 1 5058 
+export Mikoyan-Gurevich_MiG-21.txt 3 1077 1085 1098 
+110 Mikoyan-Gurevich_MiG-21.txt 2 1567 4388 
+gsh-23 Mikoyan-Gurevich_MiG-21.txt 1 2325 
+thieu Mikoyan-Gurevich_MiG-21.txt 2 4059 4060 
+lead Mikoyan-Gurevich_MiG-21.txt 2 2147 5993 
+does Mikoyan-Gurevich_MiG-21.txt 1 7596 
+assuming Mikoyan-Gurevich_MiG-21.txt 1 3223 
+su-9 Mikoyan-Gurevich_MiG-21.txt 2 355 449 
+su-7 Mikoyan-Gurevich_MiG-21.txt 2 191 465 
+usaf Mikoyan-Gurevich_MiG-21.txt 3 2599 3383 3430 
+expansion Mikoyan-Gurevich_MiG-21.txt 1 2233 
+lieutenant Mikoyan-Gurevich_MiG-21.txt 2 5891 6005 
+although Mikoyan-Gurevich_MiG-21.txt 4 2809 2977 4521 4980 
+lockheed Mikoyan-Gurevich_MiG-21.txt 2 422 2360 
+adversary Mikoyan-Gurevich_MiG-21.txt 1 3004 
+a-4 Mikoyan-Gurevich_MiG-21.txt 3 3416 4262 4585 
+gained Mikoyan-Gurevich_MiG-21.txt 1 2001 
+about Mikoyan-Gurevich_MiG-21.txt 5 4387 5009 6247 6440 6451 
+actual Mikoyan-Gurevich_MiG-21.txt 1 1350 
+freedom Mikoyan-Gurevich_MiG-21.txt 1 428 
+surge Mikoyan-Gurevich_MiG-21.txt 1 2136 
+carries Mikoyan-Gurevich_MiG-21.txt 1 1646 
+tailed Mikoyan-Gurevich_MiG-21.txt 1 193 
+introduced Mikoyan-Gurevich_MiG-21.txt 1 2052 
+own Mikoyan-Gurevich_MiG-21.txt 3 3388 4075 4809 
+previously Mikoyan-Gurevich_MiG-21.txt 1 119 
+21pfr Mikoyan-Gurevich_MiG-21.txt 1 6970 
+skyhawks Mikoyan-Gurevich_MiG-21.txt 1 4263 
+weather Mikoyan-Gurevich_MiG-21.txt 1 6094 
+registration Mikoyan-Gurevich_MiG-21.txt 1 5157 
+significantly Mikoyan-Gurevich_MiG-21.txt 1 629 
+1984 Mikoyan-Gurevich_MiG-21.txt 4 2121 6052 6064 7011 
+van Mikoyan-Gurevich_MiG-21.txt 1 3063 
+additional Mikoyan-Gurevich_MiG-21.txt 2 7055 7405 
+1980 Mikoyan-Gurevich_MiG-21.txt 1 5445 
+1981 Mikoyan-Gurevich_MiG-21.txt 1 5872 
+transfer Mikoyan-Gurevich_MiG-21.txt 1 1951 
+museum Mikoyan-Gurevich_MiG-21.txt 3 1176 2503 2619 
+1988 Mikoyan-Gurevich_MiG-21.txt 4 5447 6054 6106 6943 
+awarded Mikoyan-Gurevich_MiG-21.txt 3 3749 3758 3773 
+biggest Mikoyan-Gurevich_MiG-21.txt 1 3811 
+north Mikoyan-Gurevich_MiG-21.txt 15 2353 2692 2717 2740 2771 2783 2812 2829 3091 3298 3300 3712 3814 3898 3917 
+disengaged Mikoyan-Gurevich_MiG-21.txt 2 3171 6524 
+but Mikoyan-Gurevich_MiG-21.txt 9 741 3170 3252 3989 4223 4264 4876 5365 6449 
+lowered Mikoyan-Gurevich_MiG-21.txt 1 1855 
+ho Mikoyan-Gurevich_MiG-21.txt 1 3057 
+highest Mikoyan-Gurevich_MiG-21.txt 2 3083 3234 
+he Mikoyan-Gurevich_MiG-21.txt 3 2872 3991 4026 
+embargo Mikoyan-Gurevich_MiG-21.txt 1 6448 
+made Mikoyan-Gurevich_MiG-21.txt 9 98 280 976 2843 3080 3120 3540 3554 3735 
+tactics Mikoyan-Gurevich_MiG-21.txt 2 3179 3242 
+whether Mikoyan-Gurevich_MiG-21.txt 1 5556 
+official Mikoyan-Gurevich_MiG-21.txt 1 7230 
+below Mikoyan-Gurevich_MiG-21.txt 2 1468 6887 
+convince Mikoyan-Gurevich_MiG-21.txt 1 4685 
+7gs Mikoyan-Gurevich_MiG-21.txt 1 845 
+problem Mikoyan-Gurevich_MiG-21.txt 1 684 
+minutes Mikoyan-Gurevich_MiG-21.txt 1 589 
+display Mikoyan-Gurevich_MiG-21.txt 2 298 7662 
+low-flying Mikoyan-Gurevich_MiG-21.txt 1 5865 
+airmen Mikoyan-Gurevich_MiG-21.txt 1 7396 
+3,203 Mikoyan-Gurevich_MiG-21.txt 1 1042 
+shooting Mikoyan-Gurevich_MiG-21.txt 2 3146 3866 
+trailing Mikoyan-Gurevich_MiG-21.txt 2 1217 1673 
+gaz Mikoyan-Gurevich_MiG-21.txt 1 1052 
+renowned Mikoyan-Gurevich_MiG-21.txt 1 2682 
+compared Mikoyan-Gurevich_MiG-21.txt 1 737 
+lopsided Mikoyan-Gurevich_MiG-21.txt 1 5642 
+48 Mikoyan-Gurevich_MiG-21.txt 1 6836 
+49 Mikoyan-Gurevich_MiG-21.txt 1 5458 
+46 Mikoyan-Gurevich_MiG-21.txt 1 6230 
+47 Mikoyan-Gurevich_MiG-21.txt 1 3274 
+44 Mikoyan-Gurevich_MiG-21.txt 1 7681 
+attacked Mikoyan-Gurevich_MiG-21.txt 1 3141 
+claiming Mikoyan-Gurevich_MiG-21.txt 1 3964 
+43 Mikoyan-Gurevich_MiG-21.txt 1 5453 
+40 Mikoyan-Gurevich_MiG-21.txt 3 1636 2093 6441 
+41 Mikoyan-Gurevich_MiG-21.txt 1 6222 
+other Mikoyan-Gurevich_MiG-21.txt 12 259 443 748 1937 3978 5375 5377 5676 6430 6600 6810 7310 
+details Mikoyan-Gurevich_MiG-21.txt 1 317 
+out Mikoyan-Gurevich_MiG-21.txt 6 2154 2224 4157 4385 6089 7126 
+star Mikoyan-Gurevich_MiG-21.txt 1 3761 
+19651968 Mikoyan-Gurevich_MiG-21.txt 1 6613 
+june Mikoyan-Gurevich_MiG-21.txt 5 286 3525 4548 4561 4994 
+additionally Mikoyan-Gurevich_MiG-21.txt 2 638 7380 
+eurofighter Mikoyan-Gurevich_MiG-21.txt 1 6828 
+premodern Mikoyan-Gurevich_MiG-21.txt 1 1168 
+19911995 Mikoyan-Gurevich_MiG-21.txt 1 6328 
+auxiliary Mikoyan-Gurevich_MiG-21.txt 1 5951 
+hng Mikoyan-Gurevich_MiG-21.txt 1 7330 
+accidents Mikoyan-Gurevich_MiG-21.txt 3 2100 5060 6254 

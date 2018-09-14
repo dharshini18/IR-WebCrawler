@@ -1,0 +1,679 @@
+all Allais_effect.txt 1 666 
+partial Allais_effect.txt 1 741 
+suns Allais_effect.txt 1 179 
+global Allais_effect.txt 1 930 
+dynamic Allais_effect.txt 1 154 
+results Allais_effect.txt 2 192 1398 
+four Allais_effect.txt 1 878 
+per Allais_effect.txt 1 1218 
+controversial Allais_effect.txt 1 1031 
+winds Allais_effect.txt 1 1068 
+system Allais_effect.txt 1 1482 
+zone Allais_effect.txt 1 696 
+to Allais_effect.txt 34 4 17 35 88 196 352 368 771 823 829 844 849 858 897 909 957 991 1051 1118 1139 1173 1240 1290 1305 1317 1379 1390 1422 1479 1486 1498 1610 1622 1625 
+finally Allais_effect.txt 1 1035 
+caused Allais_effect.txt 1 477 
+conjecture Allais_effect.txt 1 1046 
+shielding Allais_effect.txt 1 173 
+mainstream Allais_effect.txt 1 1719 
+very Allais_effect.txt 1 724 
+michelsonmorley Allais_effect.txt 2 1349 1362 
+rotational Allais_effect.txt 1 429 
+summarized Allais_effect.txt 1 1657 
+emphasized Allais_effect.txt 1 152 
+difference Allais_effect.txt 2 1370 1384 
+categories Allais_effect.txt 2 1742 1744 
+leads Allais_effect.txt 1 1304 
+prize Allais_effect.txt 2 92 123 
+presented Allais_effect.txt 1 597 
+did Allais_effect.txt 1 1364 
+louis Allais_effect.txt 1 753 
+1999 Allais_effect.txt 3 29 817 1665 
+savrov Allais_effect.txt 1 357 
+team Allais_effect.txt 7 604 625 647 656 665 802 985 
+small Allais_effect.txt 1 1117 
+disused Allais_effect.txt 1 733 
+concluded Allais_effect.txt 2 347 1427 
+upper Allais_effect.txt 1 1063 
+work Allais_effect.txt 1 1660 
+century Allais_effect.txt 1 1553 
+oscillation Allais_effect.txt 4 66 226 434 1214 
+relativit Allais_effect.txt 1 1692 
+miller Allais_effect.txt 4 1358 1406 1452 1508 
+past Allais_effect.txt 1 1087 
+zero Allais_effect.txt 1 1368 
+concludes Allais_effect.txt 1 527 
+further Allais_effect.txt 1 981 
+universities Allais_effect.txt 1 866 
+appear Allais_effect.txt 1 990 
+giving Allais_effect.txt 1 1258 
+sun Allais_effect.txt 2 269 1572 
+current Allais_effect.txt 1 1644 
+lunisolar Allais_effect.txt 1 1270 
+experiment Allais_effect.txt 4 680 1350 1363 1438 
+scientists Allais_effect.txt 4 187 1167 1546 1720 
+international Allais_effect.txt 1 831 
+satisfy Allais_effect.txt 1 538 
+edited Allais_effect.txt 1 1704 
+degree Allais_effect.txt 1 1217 
+deduces Allais_effect.txt 1 1511 
+gathered Allais_effect.txt 1 971 
+never Allais_effect.txt 1 978 
+french Allais_effect.txt 3 28 83 126 
+hundreds Allais_effect.txt 1 632 
+hours Allais_effect.txt 1 1466 
+reported Allais_effect.txt 4 57 96 327 1440 
+china Allais_effect.txt 3 508 512 1154 
+kilometers Allais_effect.txt 1 634 
+i.e Allais_effect.txt 1 222 
+november Allais_effect.txt 1 387 
+invented Allais_effect.txt 1 115 
+observing Allais_effect.txt 1 933 
+change Allais_effect.txt 3 224 1210 1613 
+noticeable Allais_effect.txt 1 199 
+institute Allais_effect.txt 1 362 
+involved Allais_effect.txt 1 1168 
+study Allais_effect.txt 3 117 976 1003 
+30 Allais_effect.txt 3 77 1088 1579 
+miniature Allais_effect.txt 1 641 
+published Allais_effect.txt 4 980 1183 1682 1693 
+changes Allais_effect.txt 2 330 1015 
+win Allais_effect.txt 1 89 
+merely Allais_effect.txt 1 1137 
+peer Allais_effect.txt 1 575 
+austria Allais_effect.txt 1 872 
+weaker Allais_effect.txt 1 995 
+re-analyzing Allais_effect.txt 1 1433 
+anomalies Allais_effect.txt 5 524 561 717 959 998 
+allais Allais_effect.txt 25 0 9 19 32 81 151 212 371 534 582 846 861 939 1083 1121 1134 1177 1232 1342 1439 1488 1510 1603 1656 1730 
+total Allais_effect.txt 1 811 
+florence Allais_effect.txt 1 768 
+undergone Allais_effect.txt 1 573 
+from Allais_effect.txt 2 1128 1436 
+would Allais_effect.txt 2 1573 1620 
+remains Allais_effect.txt 1 531 
+positive Allais_effect.txt 1 191 
+give Allais_effect.txt 1 1366 
+two Allais_effect.txt 5 249 627 648 913 1145 
+by Allais_effect.txt 16 79 185 478 488 501 601 800 987 1037 1066 1299 1428 1432 1451 1502 1521 
+therefore Allais_effect.txt 1 1386 
+taken Allais_effect.txt 1 25 
+more Allais_effect.txt 2 1009 1099 
+diurnal Allais_effect.txt 1 403 
+1960 Allais_effect.txt 1 1630 
+8 Allais_effect.txt 3 1339 1374 1474 
+effort Allais_effect.txt 1 857 
+behalf Allais_effect.txt 1 1668 
+had Allais_effect.txt 1 818 
+1991 Allais_effect.txt 1 380 
+1990 Allais_effect.txt 1 784 
+1992 Allais_effect.txt 1 509 
+1995 Allais_effect.txt 1 511 
+1994 Allais_effect.txt 1 389 
+1997 Allais_effect.txt 3 513 1002 1684 
+this Allais_effect.txt 6 116 690 1023 1129 1383 1437 
+when Allais_effect.txt 2 1090 1533 
+eclipse Allais_effect.txt 24 30 52 74 105 233 241 256 341 376 385 445 590 618 685 743 762 780 795 813 938 1072 1158 1197 1236 
+modified Allais_effect.txt 1 354 
+axiom Allais_effect.txt 1 1655 
+erwin Allais_effect.txt 1 322 
+values Allais_effect.txt 1 1500 
+can Allais_effect.txt 1 474 
+claim Allais_effect.txt 1 398 
+dedicated Allais_effect.txt 1 365 
+finland Allais_effect.txt 1 804 
+links Allais_effect.txt 1 1740 
+stated Allais_effect.txt 1 889 
+discussed Allais_effect.txt 1 1108 
+0.3 Allais_effect.txt 1 1216 
+india Allais_effect.txt 1 510 
+confused Allais_effect.txt 1 6 
+high Allais_effect.txt 1 489 
+lorentz Allais_effect.txt 1 1531 
+yang Allais_effect.txt 1 989 
+terrestrial Allais_effect.txt 1 1319 
+needs Allais_effect.txt 1 351 
+united Allais_effect.txt 2 870 882 
+monitoring Allais_effect.txt 2 234 1151 
+rather Allais_effect.txt 1 1446 
+six Allais_effect.txt 1 1150 
+mildred Allais_effect.txt 1 325 
+1 Allais_effect.txt 2 621 746 
+located Allais_effect.txt 1 729 
+occasionally Allais_effect.txt 1 15 
+interview Allais_effect.txt 1 1172 
+instead Allais_effect.txt 1 464 
+widespread Allais_effect.txt 1 1100 
+memoir Allais_effect.txt 2 143 1666 
+de Allais_effect.txt 3 1680 1687 1690 
+after Allais_effect.txt 3 600 936 1722 
+spot Allais_effect.txt 1 1060 
+different Allais_effect.txt 3 502 637 922 
+wrong Allais_effect.txt 1 297 
+plane Allais_effect.txt 3 64 435 1215 
+considers Allais_effect.txt 1 1604 
+waves Allais_effect.txt 1 321 
+such Allais_effect.txt 3 543 1556 1642 
+law Allais_effect.txt 1 1478 
+data Allais_effect.txt 2 972 1435 
+a Allais_effect.txt 51 50 68 82 132 167 229 235 260 280 314 335 364 402 409 479 602 606 623 654 658 678 710 719 723 732 757 790 801 820 825 855 900 903 928 1008 1027 1112 1208 1241 1278 1306 1318 1335 1367 1400 1441 1462 1490 1601 1612 1696 
+short Allais_effect.txt 2 650 956 
+third Allais_effect.txt 2 664 1584 
+light Allais_effect.txt 7 706 725 1309 1460 1599 1618 1652 
+hypotheses Allais_effect.txt 1 250 
+luminiferous Allais_effect.txt 1 1225 
+so Allais_effect.txt 2 270 1563 
+correlation Allais_effect.txt 1 701 
+order Allais_effect.txt 2 848 1609 
+wind Allais_effect.txt 2 1336 1491 
+imagining Allais_effect.txt 1 1554 
+interpretation Allais_effect.txt 2 892 1346 
+september Allais_effect.txt 1 592 
+astronomical Allais_effect.txt 1 361 
+inconclusive Allais_effect.txt 1 748 
+meter Allais_effect.txt 1 1631 
+years Allais_effect.txt 1 1089 
+experiments Allais_effect.txt 10 163 424 458 497 751 942 1355 1395 1504 1727 
+through Allais_effect.txt 2 1292 1562 
+26 Allais_effect.txt 1 688 
+22 Allais_effect.txt 3 593 783 1161 
+23 Allais_effect.txt 1 1465 
+interesting Allais_effect.txt 1 417 
+relativity Allais_effect.txt 2 1591 1639 
+actually Allais_effect.txt 1 563 
+attraction Allais_effect.txt 2 266 273 
+detected Allais_effect.txt 2 669 798 
+jeverdan-rusu-antonescu Allais_effect.txt 2 217 584 
+argentina Allais_effect.txt 1 1203 
+main Allais_effect.txt 1 1223 
+might Allais_effect.txt 1 310 
+2010 Allais_effect.txt 2 1201 1726 
+then Allais_effect.txt 1 888 
+good Allais_effect.txt 1 821 
+100,000 Allais_effect.txt 1 1115 
+1954 Allais_effect.txt 1 78 
+slichter Allais_effect.txt 1 755 
+effects Allais_effect.txt 3 159 472 585 
+they Allais_effect.txt 4 713 1020 1073 1101 
+not Allais_effect.txt 8 3 395 537 572 1365 1408 1528 1714 
+rotation Allais_effect.txt 2 1330 1566 
+1959 Allais_effect.txt 3 109 121 142 
+nor Allais_effect.txt 1 487 
+mystery Allais_effect.txt 1 827 
+articles Allais_effect.txt 1 1224 
+february Allais_effect.txt 2 243 764 
+edit Allais_effect.txt 7 149 203 752 1222 1736 1738 1741 
+january Allais_effect.txt 1 687 
+possibilities Allais_effect.txt 2 899 914 
+turns Allais_effect.txt 1 1515 
+7.95 Allais_effect.txt 1 1493 
+went Allais_effect.txt 1 86 
+referred Allais_effect.txt 1 16 
+england Allais_effect.txt 1 876 
+invoked Allais_effect.txt 1 1421 
+related Allais_effect.txt 2 164 1239 
+society Allais_effect.txt 1 128 
+frequency Allais_effect.txt 1 490 
+year Allais_effect.txt 1 599 
+et Allais_effect.txt 1 208 
+irregularities Allais_effect.txt 1 1414 
+event Allais_effect.txt 1 854 
+special Allais_effect.txt 3 454 494 1590 
+out Allais_effect.txt 1 1103 
+inquired Allais_effect.txt 1 840 
+network Allais_effect.txt 1 931 
+space Allais_effect.txt 2 836 1282 
+robert Allais_effect.txt 1 1429 
+since Allais_effect.txt 3 1321 1582 1632 
+interference Allais_effect.txt 1 738 
+research Allais_effect.txt 2 138 165 
+increase Allais_effect.txt 2 427 788 
+similarly Allais_effect.txt 1 1393 
+7 Allais_effect.txt 1 344 
+dutch Allais_effect.txt 1 514 
+cause Allais_effect.txt 2 1425 1574 
+foundation Allais_effect.txt 1 139 
+theory Allais_effect.txt 4 350 1254 1541 1637 
+confidence Allais_effect.txt 1 1634 
+surveys Allais_effect.txt 1 519 
+besides Allais_effect.txt 1 160 
+temperature Allais_effect.txt 2 1014 1418 
+definition Allais_effect.txt 1 1627 
+enormous Allais_effect.txt 1 557 
+created Allais_effect.txt 1 1065 
+could Allais_effect.txt 4 283 300 394 1407 
+inexpensive Allais_effect.txt 1 553 
+flandern Allais_effect.txt 1 1044 
+motion Allais_effect.txt 2 407 1291 
+conducted Allais_effect.txt 1 184 
+due Allais_effect.txt 3 1050 1138 1389 
+hence Allais_effect.txt 1 1509 
+uses Allais_effect.txt 1 1646 
+first Allais_effect.txt 5 56 839 912 1001 1006 
+initial Allais_effect.txt 1 891 
+thereafter Allais_effect.txt 1 968 
+one Allais_effect.txt 2 1164 1619 
+another Allais_effect.txt 4 97 298 806 1267 
+carry Allais_effect.txt 1 1732 
+millers Allais_effect.txt 1 1394 
+open Allais_effect.txt 1 532 
+michelson Allais_effect.txt 1 1506 
+unexplained Allais_effect.txt 1 670 
+thorie Allais_effect.txt 1 1689 
+periodicity Allais_effect.txt 3 404 1271 1442 
+rejects Allais_effect.txt 1 1343 
+cooling Allais_effect.txt 1 1067 
+traction Allais_effect.txt 1 1717 
+their Allais_effect.txt 3 252 551 1000 
+confirming Allais_effect.txt 1 578 
+2 Allais_effect.txt 1 108 
+observations Allais_effect.txt 5 148 189 202 535 982 
+tom Allais_effect.txt 1 1042 
+majority Allais_effect.txt 1 1544 
+final Allais_effect.txt 1 945 
+too Allais_effect.txt 2 955 1116 
+sternberg Allais_effect.txt 1 360 
+that Allais_effect.txt 18 271 282 302 348 399 448 528 542 1022 1104 1131 1234 1244 1281 1512 1555 1564 1643 
+explanation Allais_effect.txt 6 299 1011 1024 1032 1260 1265 
+authors Allais_effect.txt 2 247 1005 
+inventing Allais_effect.txt 1 1534 
+july Allais_effect.txt 4 378 782 1160 1199 
+than Allais_effect.txt 2 999 1447 
+sidereal Allais_effect.txt 2 1444 1454 
+11 Allais_effect.txt 3 379 816 1200 
+kind Allais_effect.txt 1 452 
+b Allais_effect.txt 1 754 
+15 Allais_effect.txt 2 244 765 
+states Allais_effect.txt 2 871 1233 
+emirates Allais_effect.txt 1 884 
+aether Allais_effect.txt 11 1220 1226 1228 1294 1327 1487 1514 1523 1558 1674 1711 
+amplitude Allais_effect.txt 1 1471 
+were Allais_effect.txt 3 498 1147 1420 
+are Allais_effect.txt 1 562 
+and Allais_effect.txt 31 129 193 214 324 346 383 422 462 541 555 570 583 626 657 671 709 722 805 865 877 916 973 1041 1127 1144 1227 1351 1507 1526 1538 1685 
+duif Allais_effect.txt 1 517 
+measure Allais_effect.txt 1 1611 
+mine Allais_effect.txt 1 735 
+posited Allais_effect.txt 1 1007 
+have Allais_effect.txt 8 182 450 493 796 992 1076 1174 1621 
+allen Allais_effect.txt 1 326 
+any Allais_effect.txt 5 198 574 1185 1259 1381 
+contents Allais_effect.txt 1 146 
+relatively Allais_effect.txt 1 552 
+generalizes Allais_effect.txt 1 1485 
+genuine Allais_effect.txt 1 560 
+built Allais_effect.txt 1 363 
+academic Allais_effect.txt 1 1186 
+pursued Allais_effect.txt 1 547 
+able Allais_effect.txt 1 1378 
+1961 Allais_effect.txt 2 245 766 
+also Allais_effect.txt 4 284 467 714 1735 
+causing Allais_effect.txt 1 1016 
+which Allais_effect.txt 9 13 44 473 492 1287 1295 1483 1495 1587 
+worldwide Allais_effect.txt 1 856 
+induces Allais_effect.txt 1 1334 
+investigations Allais_effect.txt 1 544 
+collaboration Allais_effect.txt 1 832 
+who Allais_effect.txt 3 85 518 1045 
+most Allais_effect.txt 2 416 1373 
+gravitation Allais_effect.txt 2 1106 1256 
+germany Allais_effect.txt 1 873 
+amongst Allais_effect.txt 1 1718 
+significant Allais_effect.txt 3 469 700 1716 
+so-called Allais_effect.txt 1 216 
+observation Allais_effect.txt 4 98 253 579 952 
+considered Allais_effect.txt 1 312 
+sometimes Allais_effect.txt 1 46 
+implications Allais_effect.txt 1 558 
+gravimeter Allais_effect.txt 1 758 
+points Allais_effect.txt 1 896 
+dayton Allais_effect.txt 1 1357 
+azimuth Allais_effect.txt 1 1276 
+velocity Allais_effect.txt 1 430 
+nineteenth Allais_effect.txt 1 1552 
+salt Allais_effect.txt 1 734 
+calculates Allais_effect.txt 1 1489 
+planetary Allais_effect.txt 1 1300 
+atmosphere Allais_effect.txt 1 1064 
+currently Allais_effect.txt 1 1252 
+phenomenon Allais_effect.txt 1 281 
+disturbances Allais_effect.txt 1 674 
+earth Allais_effect.txt 5 276 309 1323 1561 1569 
+ground Allais_effect.txt 1 1017 
+based Allais_effect.txt 2 1012 1589 
+belomorsk Allais_effect.txt 1 808 
+earned Allais_effect.txt 1 118 
+romanian Allais_effect.txt 4 204 603 628 655 
+explain Allais_effect.txt 3 1119 1409 1423 
+distributed Allais_effect.txt 1 929 
+3 Allais_effect.txt 1 388 
+controls Allais_effect.txt 2 1097 1141 
+should Allais_effect.txt 1 545 
+failed Allais_effect.txt 2 195 770 
+screening Allais_effect.txt 2 261 294 
+factor Allais_effect.txt 1 1113 
+polymath Allais_effect.txt 1 84 
+partially Allais_effect.txt 1 1297 
+local Allais_effect.txt 1 904 
+over Allais_effect.txt 3 867 1399 1461 
+do Allais_effect.txt 1 536 
+his Allais_effect.txt 10 141 944 1262 1302 1535 1539 1658 1664 1673 1710 
+get Allais_effect.txt 1 1623 
+dependent Allais_effect.txt 1 1310 
+between Allais_effect.txt 2 702 863 
+tilting Allais_effect.txt 1 1018 
+lespace Allais_effect.txt 1 1681 
+yielded Allais_effect.txt 1 993 
+criticized Allais_effect.txt 1 940 
+famous Allais_effect.txt 1 1536 
+october Allais_effect.txt 1 107 
+negative Allais_effect.txt 1 750 
+report Allais_effect.txt 1 947 
+during Allais_effect.txt 21 26 49 71 102 231 238 254 338 373 443 504 586 615 681 739 759 777 793 1069 1125 1194 
+interpreted Allais_effect.txt 1 1387 
+dr Allais_effect.txt 1 355 
+him Allais_effect.txt 2 119 131 
+regarding Allais_effect.txt 1 251 
+precession Allais_effect.txt 3 61 1124 1209 
+countries Allais_effect.txt 1 869 
+teams Allais_effect.txt 4 503 629 668 676 
+jeverdan Allais_effect.txt 2 207 220 
+fixed Allais_effect.txt 1 1529 
+explanations Allais_effect.txt 1 540 
+wrote Allais_effect.txt 1 414 
+view Allais_effect.txt 1 549 
+apparatuses Allais_effect.txt 1 638 
+set Allais_effect.txt 1 499 
+hour Allais_effect.txt 1 1219 
+observer Allais_effect.txt 1 1320 
+maurice Allais_effect.txt 4 80 150 845 1231 
+respect Allais_effect.txt 1 1316 
+comparable Allais_effect.txt 1 1497 
+around Allais_effect.txt 1 1570 
+observed Allais_effect.txt 4 48 158 210 1175 
+see Allais_effect.txt 1 1734 
+legacy Allais_effect.txt 1 1701 
+result Allais_effect.txt 4 315 418 577 1180 
+brazil Allais_effect.txt 2 391 423 
+detect Allais_effect.txt 4 197 772 958 1380 
+subsequent Allais_effect.txt 1 1353 
+review Allais_effect.txt 1 576 
+laureate Allais_effect.txt 1 133 
+wikipedia Allais_effect.txt 1 2 
+sites Allais_effect.txt 2 879 1152 
+outside Allais_effect.txt 1 692 
+various Allais_effect.txt 2 186 456 
+use Allais_effect.txt 1 921 
+moons Allais_effect.txt 1 172 
+neither Allais_effect.txt 1 475 
+across Allais_effect.txt 1 1149 
+we Allais_effect.txt 2 449 915 
+august Allais_effect.txt 2 620 815 
+nature Allais_effect.txt 1 554 
+importance Allais_effect.txt 1 1094 
+physicist Allais_effect.txt 2 205 515 
+however Allais_effect.txt 2 413 935 
+hypothesis Allais_effect.txt 7 291 1221 1230 1303 1525 1675 1712 
+here Allais_effect.txt 1 1109 
+article Allais_effect.txt 1 567 
+ascribes Allais_effect.txt 1 1289 
+suggested Allais_effect.txt 1 1021 
+both Allais_effect.txt 1 728 
+minutes Allais_effect.txt 1 1468 
+postulate Allais_effect.txt 1 1585 
+galabert Allais_effect.txt 1 122 
+quantization Allais_effect.txt 1 607 
+s Allais_effect.txt 3 834 1345 1430 
+experimental Allais_effect.txt 4 147 842 1096 1659 
+pendulum Allais_effect.txt 17 23 70 113 230 237 337 367 411 433 614 661 712 721 792 1123 1191 1279 
+conclude Allais_effect.txt 2 1074 1130 
+seems Allais_effect.txt 1 447 
+excess Allais_effect.txt 1 1122 
+period Allais_effect.txt 6 227 333 787 950 1402 1463 
+inexplicable Allais_effect.txt 1 1246 
+observatories Allais_effect.txt 1 864 
+writing Allais_effect.txt 1 948 
+ether Allais_effect.txt 1 1540 
+torsion Allais_effect.txt 5 336 642 707 726 791 
+strong Allais_effect.txt 1 328 
+described Allais_effect.txt 1 1169 
+three Allais_effect.txt 2 667 898 
+been Allais_effect.txt 9 183 596 797 819 979 1034 1077 1182 1703 
+much Allais_effect.txt 2 954 994 
+anisotropic Allais_effect.txt 1 1285 
+anomaly Allais_effect.txt 5 1048 1107 1135 1243 1268 
+direction Allais_effect.txt 2 438 1314 
+flight Allais_effect.txt 1 837 
+foucault Allais_effect.txt 7 69 236 441 660 711 720 1190 
+observers Allais_effect.txt 1 919 
+observe Allais_effect.txt 1 396 
+external Allais_effect.txt 1 1739 
+systematic Allais_effect.txt 1 901 
+worked Allais_effect.txt 1 630 
+an Allais_effect.txt 14 59 232 255 773 830 1056 1082 1171 1188 1293 1470 1557 1575 1654 
+hidden Allais_effect.txt 1 1743 
+protocols Allais_effect.txt 1 843 
+ahead Allais_effect.txt 1 851 
+these Allais_effect.txt 2 496 1397 
+2011 Allais_effect.txt 2 747 1708 
+air Allais_effect.txt 1 1058 
+will Allais_effect.txt 1 920 
+while Allais_effect.txt 1 392 
+behavior Allais_effect.txt 3 39 610 704 
+error Allais_effect.txt 1 902 
+eclipses Allais_effect.txt 2 506 1126 
+balance Allais_effect.txt 1 727 
+unlikely Allais_effect.txt 1 1026 
+seven Allais_effect.txt 1 868 
+economics Allais_effect.txt 2 12 94 
+mexico Allais_effect.txt 2 382 421 
+characteristics Allais_effect.txt 1 1286 
+is Allais_effect.txt 17 14 45 277 296 401 425 1049 1110 1238 1245 1280 1296 1496 1527 1588 1592 1641 
+thus Allais_effect.txt 1 1341 
+it Allais_effect.txt 2 446 1605 
+regularity Allais_effect.txt 1 1382 
+purportedly Allais_effect.txt 1 47 
+dual Allais_effect.txt 1 679 
+in Allais_effect.txt 38 11 93 331 381 390 405 436 507 525 548 731 767 803 807 847 880 927 943 1061 1153 1170 1184 1202 1247 1272 1359 1600 1608 1614 1635 1661 1663 1676 1683 1694 1705 1707 1725 
+if Allais_effect.txt 2 289 559 
+shankland Allais_effect.txt 1 1431 
+confirmed Allais_effect.txt 1 564 
+italy Allais_effect.txt 2 769 874 
+metrology Allais_effect.txt 1 1645 
+author Allais_effect.txt 1 1040 
+problems Allais_effect.txt 1 1419 
+same Allais_effect.txt 3 675 699 1039 
+underground Allais_effect.txt 1 730 
+several Allais_effect.txt 1 917 
+evidence Allais_effect.txt 2 996 1206 
+independent Allais_effect.txt 2 640 649 
+used Allais_effect.txt 2 1193 1450 
+leonid Allais_effect.txt 1 356 
+effect Allais_effect.txt 23 1 20 33 54 101 169 200 213 218 221 262 295 372 442 455 481 862 905 1054 1084 1178 1237 1731 
+earth-moon Allais_effect.txt 1 1481 
+moving Allais_effect.txt 1 1313 
+opportunity Allais_effect.txt 1 822 
+titiusbode Allais_effect.txt 1 1477 
+shortly Allais_effect.txt 1 967 
+center Allais_effect.txt 1 838 
+framework Allais_effect.txt 1 1249 
+nevertheless Allais_effect.txt 1 1721 
+1970 Allais_effect.txt 1 345 
+thought Allais_effect.txt 1 1532 
+patterns Allais_effect.txt 1 495 
+without Allais_effect.txt 2 1257 1376 
+solve Allais_effect.txt 1 824 
+km/s Allais_effect.txt 5 1340 1375 1475 1494 1580 
+english Allais_effect.txt 2 1662 1706 
+coordinate Allais_effect.txt 1 850 
+the Allais_effect.txt 143 8 27 31 36 53 63 72 90 100 103 111 120 125 135 153 157 171 178 211 215 223 239 246 257 264 268 272 275 290 293 303 306 317 332 339 359 370 374 384 406 415 420 426 432 437 440 444 485 520 529 556 566 581 587 598 609 612 616 645 663 682 694 698 703 740 760 778 794 810 853 860 881 885 890 894 907 911 937 941 949 962 970 974 984 1004 1038 1047 1052 1062 1070 1086 1093 1105 1120 1132 1156 1166 1176 1195 1212 1235 1248 1251 1269 1275 1312 1322 1326 1329 1332 1348 1352 1361 1410 1413 1416 1424 1434 1457 1480 1499 1503 1513 1517 1522 1543 1548 1551 1560 1565 1568 1571 1583 1593 1596 1615 1626 1629 1633 1636 1649 1677 1729 
+bodies Allais_effect.txt 1 1301 
+left Allais_effect.txt 1 965 
+bending Allais_effect.txt 1 176 
+proposed Allais_effect.txt 2 1036 1520 
+being Allais_effect.txt 1 1377 
+photo Allais_effect.txt 1 24 
+vacuum Allais_effect.txt 1 1602 
+gravity Allais_effect.txt 3 137 145 307 
+clocks Allais_effect.txt 1 461 
+books Allais_effect.txt 1 1678 
+atomic Allais_effect.txt 1 460 
+speed Allais_effect.txt 6 1307 1369 1458 1597 1616 1650 
+yet Allais_effect.txt 2 1030 1709 
+death Allais_effect.txt 1 1724 
+corroborated Allais_effect.txt 1 1396 
+density Allais_effect.txt 1 1059 
+absorption Allais_effect.txt 1 174 
+point Allais_effect.txt 1 1102 
+character Allais_effect.txt 1 155 
+source Allais_effect.txt 1 1411 
+book Allais_effect.txt 1 1697 
+supervisor Allais_effect.txt 2 887 964 
+has Allais_effect.txt 7 571 595 977 1033 1181 1702 1713 
+transformation Allais_effect.txt 1 1537 
+gave Allais_effect.txt 1 190 
+australia Allais_effect.txt 1 875 
+march Allais_effect.txt 1 343 
+increased Allais_effect.txt 2 279 1057 
+possible Allais_effect.txt 2 168 1028 
+45-year Allais_effect.txt 1 826 
+arab Allais_effect.txt 1 883 
+five Allais_effect.txt 1 639 
+crossed Allais_effect.txt 1 1559 
+using Allais_effect.txt 5 110 459 718 756 1443 
+shadow Allais_effect.txt 1 695 
+unfounded Allais_effect.txt 1 1607 
+apart Allais_effect.txt 1 635 
+signal Allais_effect.txt 1 776 
+56 Allais_effect.txt 1 1467 
+admitted Allais_effect.txt 1 1253 
+detections Allais_effect.txt 1 1080 
+entrained Allais_effect.txt 1 1298 
+unexplored Allais_effect.txt 1 908 
+because Allais_effect.txt 1 533 
+some Allais_effect.txt 3 188 194 451 
+back Allais_effect.txt 1 1624 
+moreover Allais_effect.txt 1 961 
+daytime Allais_effect.txt 1 1453 
+for Allais_effect.txt 6 140 644 653 662 1155 1266 
+ukrainian Allais_effect.txt 2 624 646 
+recorded Allais_effect.txt 1 468 
+allaiss Allais_effect.txt 6 21 161 397 1264 1699 1723 
+moon Allais_effect.txt 2 258 1333 
+eliminate Allais_effect.txt 1 910 
+minimal Allais_effect.txt 1 737 
+measuring Allais_effect.txt 1 925 
+be Allais_effect.txt 7 5 285 301 311 353 476 546 
+particular Allais_effect.txt 1 1360 
+noise Allais_effect.txt 1 491 
+scientific Allais_effect.txt 1 1700 
+ball-borne Allais_effect.txt 1 651 
+june Allais_effect.txt 2 76 745 
+journal Allais_effect.txt 1 1187 
+annular Allais_effect.txt 2 588 683 
+conventional Allais_effect.txt 2 539 1010 
+pendulums Allais_effect.txt 5 41 466 652 1146 1213 
+although Allais_effect.txt 1 1163 
+found Allais_effect.txt 1 1501 
+saxl Allais_effect.txt 1 323 
+tidal Allais_effect.txt 1 480 
+refers Allais_effect.txt 1 34 
+self-published Allais_effect.txt 1 569 
+gained Allais_effect.txt 1 1715 
+on Allais_effect.txt 10 87 144 263 1013 1311 1586 1667 1698 1728 1733 
+about Allais_effect.txt 5 166 841 1111 1338 1473 
+stations Allais_effect.txt 1 934 
+of Allais_effect.txt 99 40 62 65 67 75 99 106 124 134 156 170 177 225 228 242 267 274 292 305 308 316 319 334 342 358 377 386 408 419 428 431 439 453 465 484 522 550 580 591 608 611 619 633 686 693 705 744 763 781 789 814 852 893 924 932 951 983 997 1055 1081 1092 1095 1114 1159 1165 1198 1207 1211 1250 1255 1261 1274 1277 1308 1331 1337 1347 1356 1403 1412 1456 1459 1464 1472 1492 1505 1545 1547 1550 1567 1578 1595 1598 1617 1628 1638 1648 1651 1669 
+consciousness Allais_effect.txt 1 1091 
+anomalous Allais_effect.txt 6 38 60 201 329 470 786 
+mutually Allais_effect.txt 1 672 
+eight Allais_effect.txt 1 1142 
+gravimeters Allais_effect.txt 4 43 463 486 1143 
+consequently Allais_effect.txt 1 1581 
+or Allais_effect.txt 6 42 175 219 482 749 906 
+own Allais_effect.txt 2 162 1263 
+civil Allais_effect.txt 1 1448 
+instruments Allais_effect.txt 1 926 
+marshall Allais_effect.txt 1 835 
+within Allais_effect.txt 2 1085 1325 
+balances Allais_effect.txt 2 643 708 
+ussr Allais_effect.txt 1 809 
+references Allais_effect.txt 1 1737 
+einstein Allais_effect.txt 1 1344 
+nobel Allais_effect.txt 1 91 
+nowadays Allais_effect.txt 1 1640 
+unambiguous Allais_effect.txt 1 1079 
+uncertainties Allais_effect.txt 1 1392 
+van Allais_effect.txt 1 1043 
+lanisotropie Allais_effect.txt 1 1679 
+there Allais_effect.txt 2 400 1075 
+question Allais_effect.txt 1 530 
+alleged Allais_effect.txt 1 37 
+long Allais_effect.txt 2 659 1401 
+stars Allais_effect.txt 1 1518 
+was Allais_effect.txt 8 55 568 953 1025 1098 1136 1192 1385 
+constancy Allais_effect.txt 2 1594 1647 
+evinces Allais_effect.txt 1 1283 
+registered Allais_effect.txt 1 715 
+but Allais_effect.txt 7 565 1019 1029 1328 1371 1405 1542 
+repeated Allais_effect.txt 1 677 
+properly Allais_effect.txt 1 960 
+solar Allais_effect.txt 17 51 73 104 240 340 375 505 589 617 684 742 761 779 812 1071 1157 1196 
+automated Allais_effect.txt 1 1189 
+paraconical Allais_effect.txt 5 22 112 366 410 613 
+with Allais_effect.txt 11 7 287 605 636 697 736 969 1204 1315 1469 1516 
+deployed Allais_effect.txt 1 1148 
+he Allais_effect.txt 7 95 114 393 412 1288 1484 1671 
+made Allais_effect.txt 2 130 248 
+applying Allais_effect.txt 1 1476 
+leffondrement Allais_effect.txt 1 1686 
+la Allais_effect.txt 2 1688 1691 
+gravitational Allais_effect.txt 9 180 265 320 349 471 523 775 1053 1242 
+variations Allais_effect.txt 1 1273 
+up Allais_effect.txt 1 500 
+us Allais_effect.txt 1 136 
+record Allais_effect.txt 1 895 
+exerts Allais_effect.txt 1 259 
+verification Allais_effect.txt 1 1354 
+similar Allais_effect.txt 1 716 
+detailed Allais_effect.txt 1 1672 
+associated Allais_effect.txt 1 774 
+certain Allais_effect.txt 1 1284 
+measurement Allais_effect.txt 1 1391 
+al Allais_effect.txt 1 209 
+general Allais_effect.txt 1 526 
+as Allais_effect.txt 9 18 58 313 1388 1426 1519 1530 1606 1653 
+at Allais_effect.txt 2 1372 1415 
+moves Allais_effect.txt 1 1324 
+paradox Allais_effect.txt 1 10 
+no Allais_effect.txt 4 785 1078 1179 1205 
+thanks Allais_effect.txt 1 828 
+end Allais_effect.txt 1 1549 
+field Allais_effect.txt 2 181 521 
+other Allais_effect.txt 2 457 918 
+test Allais_effect.txt 2 369 859 
+poor Allais_effect.txt 1 1140 
+kinds Allais_effect.txt 1 923 
+tides Allais_effect.txt 1 288 
+drift Allais_effect.txt 1 483 
+variation Allais_effect.txt 3 304 1455 1577 
+xin-she Allais_effect.txt 1 988 
+drag Allais_effect.txt 2 1229 1524 
+important Allais_effect.txt 1 1576 
+studied Allais_effect.txt 1 286 
+chris Allais_effect.txt 1 516 
+independently Allais_effect.txt 1 799 
+correlated Allais_effect.txt 1 673 
+lead Allais_effect.txt 3 886 963 986 
+gheorghe Allais_effect.txt 1 206 
+diffraction Allais_effect.txt 1 318 
+together Allais_effect.txt 1 631 
+original Allais_effect.txt 1 1133 
+nasa Allais_effect.txt 5 833 946 966 975 1670 
+2006 Allais_effect.txt 1 594 
+2004 Allais_effect.txt 1 1695 
+time Allais_effect.txt 5 691 1404 1417 1445 1449 
+2008 Allais_effect.txt 1 622 
+2009 Allais_effect.txt 2 689 1162 
+indirectly Allais_effect.txt 1 278 
+astronautical Allais_effect.txt 1 127 

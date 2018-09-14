@@ -1,0 +1,281 @@
+incorporate Long_focus_lens.txt 1 131 
+telescopes Long_focus_lens.txt 6 535 556 574 638 668 724 
+since Long_focus_lens.txt 3 191 637 696 
+shot Long_focus_lens.txt 1 253 
+they Long_focus_lens.txt 2 659 676 
+show Long_focus_lens.txt 3 221 662 693 
+being Long_focus_lens.txt 2 84 566 
+astronomical Long_focus_lens.txt 1 570 
+lack Long_focus_lens.txt 1 641 
+focus Long_focus_lens.txt 3 6 477 487 
+distortion Long_focus_lens.txt 1 283 
+afocal Long_focus_lens.txt 1 707 
+distant Long_focus_lens.txt 3 51 172 268 
+filters Long_focus_lens.txt 1 636 
+shake Long_focus_lens.txt 1 387 
+alternative Long_focus_lens.txt 1 277 
+still Long_focus_lens.txt 1 390 
+its Long_focus_lens.txt 1 44 
+captured Long_focus_lens.txt 1 552 
+compact Long_focus_lens.txt 1 700 
+machine Long_focus_lens.txt 1 584 
+group Long_focus_lens.txt 2 135 140 
+appears Long_focus_lens.txt 1 254 
+field Long_focus_lens.txt 3 332 666 685 
+tripod Long_focus_lens.txt 1 373 
+with Long_focus_lens.txt 5 55 93 208 216 371 
+regarded Long_focus_lens.txt 1 516 
+technique Long_focus_lens.txt 1 710 
+proportion Long_focus_lens.txt 1 312 
+blurring Long_focus_lens.txt 1 357 
+late Long_focus_lens.txt 1 698 
+to Long_focus_lens.txt 22 49 141 180 183 235 245 255 262 278 296 313 322 342 349 361 430 589 616 661 680 692 730 
+location Long_focus_lens.txt 3 199 206 269 
+bokeh Long_focus_lens.txt 1 363 
+has Long_focus_lens.txt 1 26 
+easier Long_focus_lens.txt 1 321 
+identical Long_focus_lens.txt 1 222 
+exhibited Long_focus_lens.txt 1 284 
+increased Long_focus_lens.txt 1 377 
+distance Long_focus_lens.txt 2 258 468 
+far Long_focus_lens.txt 1 228 
+photography Long_focus_lens.txt 5 17 391 544 582 708 
+blur Long_focus_lens.txt 1 323 
+preferred Long_focus_lens.txt 1 527 
+early Long_focus_lens.txt 1 562 
+effects Long_focus_lens.txt 1 155 
+background Long_focus_lens.txt 4 325 345 356 459 
+not Long_focus_lens.txt 2 188 678 
+using Long_focus_lens.txt 5 162 241 410 415 553 
+categories Long_focus_lens.txt 1 738 
+above Long_focus_lens.txt 1 406 
+like Long_focus_lens.txt 1 686 
+exaggerate Long_focus_lens.txt 1 488 
+edit Long_focus_lens.txt 6 159 392 425 539 735 737 
+always Long_focus_lens.txt 1 640 
+classified Long_focus_lens.txt 1 76 
+dolly Long_focus_lens.txt 1 496 
+50 Long_focus_lens.txt 1 505 
+microscopy Long_focus_lens.txt 1 588 
+large Long_focus_lens.txt 1 683 
+this Long_focus_lens.txt 4 176 340 355 490 
+common Long_focus_lens.txt 1 121 
+though Long_focus_lens.txt 1 521 
+each Long_focus_lens.txt 2 236 314 
+including Long_focus_lens.txt 1 557 
+where Long_focus_lens.txt 2 290 711 
+vision Long_focus_lens.txt 1 585 
+referred Long_focus_lens.txt 2 360 729 
+system Long_focus_lens.txt 1 621 
+because Long_focus_lens.txt 1 374 
+often Long_focus_lens.txt 3 359 369 428 
+weight Long_focus_lens.txt 1 378 
+picture Long_focus_lens.txt 1 720 
+pleasing Long_focus_lens.txt 1 531 
+around Long_focus_lens.txt 1 664 
+relative Long_focus_lens.txt 2 78 233 
+many Long_focus_lens.txt 1 653 
+invention Long_focus_lens.txt 1 542 
+design Long_focus_lens.txt 1 15 
+are Long_focus_lens.txt 6 63 167 368 575 669 677 
+measure Long_focus_lens.txt 1 36 
+images Long_focus_lens.txt 3 201 447 549 
+long-focus-lens Long_focus_lens.txt 1 252 
+best Long_focus_lens.txt 1 168 
+subject Long_focus_lens.txt 4 299 304 354 474 
+closer Long_focus_lens.txt 3 182 249 295 
+t-mount Long_focus_lens.txt 1 610 
+appear Long_focus_lens.txt 4 53 174 230 309 
+for Long_focus_lens.txt 11 113 170 439 495 509 528 533 600 619 643 672 
+19th Long_focus_lens.txt 1 547 
+tube Long_focus_lens.txt 1 605 
+long-focus Long_focus_lens.txt 12 0 11 19 66 124 157 163 165 218 537 578 587 
+wikipedia Long_focus_lens.txt 1 2 
+below Long_focus_lens.txt 1 448 
+expressed Long_focus_lens.txt 1 104 
+tend Long_focus_lens.txt 2 660 691 
+written Long_focus_lens.txt 1 109 
+vignetting Long_focus_lens.txt 1 663 
+use Long_focus_lens.txt 3 339 590 674 
+between Long_focus_lens.txt 2 259 469 
+diaphragms Long_focus_lens.txt 1 642 
+increasing Long_focus_lens.txt 1 57 
+sensor Long_focus_lens.txt 2 41 656 
+correct Long_focus_lens.txt 1 519 
+foreground Long_focus_lens.txt 1 452 
+perception Long_focus_lens.txt 1 481 
+nature Long_focus_lens.txt 1 581 
+formats Long_focus_lens.txt 1 657 
+diagonal Long_focus_lens.txt 1 35 
+however Long_focus_lens.txt 1 250 
+objects Long_focus_lens.txt 4 52 173 229 260 
+separate Long_focus_lens.txt 1 350 
+standard Long_focus_lens.txt 2 554 602 
+by Long_focus_lens.txt 6 77 240 247 285 364 631 
+digiscoping Long_focus_lens.txt 1 732 
+on Long_focus_lens.txt 4 110 398 436 466 
+photographers Long_focus_lens.txt 3 161 336 365 
+of Long_focus_lens.txt 19 13 37 70 96 123 146 156 197 281 302 311 331 375 385 394 417 482 500 543 
+adapter Long_focus_lens.txt 3 599 611 618 
+besides Long_focus_lens.txt 1 565 
+35 Long_focus_lens.txt 2 412 510 
+keep Long_focus_lens.txt 1 431 
+adjustment Long_focus_lens.txt 1 645 
+turn Long_focus_lens.txt 1 614 
+length Long_focus_lens.txt 8 29 61 80 101 145 153 288 508 
+produce Long_focus_lens.txt 1 681 
+place Long_focus_lens.txt 1 404 
+due Long_focus_lens.txt 1 261 
+receives Long_focus_lens.txt 1 43 
+photographer Long_focus_lens.txt 4 275 293 427 471 
+usually Long_focus_lens.txt 3 103 526 608 
+changes Long_focus_lens.txt 1 460 
+or Long_focus_lens.txt 2 40 635 
+lenses Long_focus_lens.txt 15 62 98 158 164 166 271 289 317 367 416 478 538 564 579 689 
+although Long_focus_lens.txt 1 450 
+image Long_focus_lens.txt 3 45 348 434 
+eyepiece Long_focus_lens.txt 2 606 725 
+zooms Long_focus_lens.txt 1 497 
+one Long_focus_lens.txt 2 69 207 
+telescope Long_focus_lens.txt 2 558 592 
+smaller Long_focus_lens.txt 1 651 
+done Long_focus_lens.txt 1 630 
+telephoto Long_focus_lens.txt 2 128 139 
+directly Long_focus_lens.txt 1 721 
+dependent Long_focus_lens.txt 1 465 
+1990s Long_focus_lens.txt 1 699 
+surveillance Long_focus_lens.txt 1 583 
+size Long_focus_lens.txt 5 234 424 435 457 461 
+given Long_focus_lens.txt 2 298 419 
+from Long_focus_lens.txt 6 4 203 265 352 401 540 
+cameras Long_focus_lens.txt 1 702 
+remains Long_focus_lens.txt 1 454 
+objectives Long_focus_lens.txt 1 559 
+century Long_focus_lens.txt 1 548 
+three Long_focus_lens.txt 1 71 
+long Long_focus_lens.txt 5 5 243 270 316 366 
+sports Long_focus_lens.txt 1 160 
+comparing Long_focus_lens.txt 1 238 
+magnification Long_focus_lens.txt 3 56 239 246 
+camera Long_focus_lens.txt 8 23 97 386 414 595 622 688 713 
+focal Long_focus_lens.txt 9 28 60 79 100 152 287 396 420 507 
+basic Long_focus_lens.txt 1 72 
+taken Long_focus_lens.txt 3 202 400 409 
+exposure Long_focus_lens.txt 2 628 632 
+type Long_focus_lens.txt 2 122 280 
+500 Long_focus_lens.txt 2 9 116 
+more Long_focus_lens.txt 3 267 326 530 
+function Long_focus_lens.txt 1 195 
+flat Long_focus_lens.txt 1 684 
+through Long_focus_lens.txt 1 722 
+that Long_focus_lens.txt 5 30 42 225 382 449 
+corrected Long_focus_lens.txt 1 679 
+but Long_focus_lens.txt 1 186 
+aperture Long_focus_lens.txt 1 644 
+photos Long_focus_lens.txt 1 407 
+visual Long_focus_lens.txt 1 673 
+observe Long_focus_lens.txt 1 443 
+controlling Long_focus_lens.txt 1 627 
+gain Long_focus_lens.txt 1 634 
+particular Long_focus_lens.txt 2 441 624 
+known Long_focus_lens.txt 2 136 169 
+photographic Long_focus_lens.txt 1 73 
+than Long_focus_lens.txt 3 33 150 652 
+wide Long_focus_lens.txt 1 210 
+photograph Long_focus_lens.txt 1 307 
+non-telephoto Long_focus_lens.txt 1 14 
+portions Long_focus_lens.txt 1 301 
+mm Long_focus_lens.txt 5 10 117 413 506 511 
+mount Long_focus_lens.txt 3 607 626 649 
+attached Long_focus_lens.txt 1 717 
+see Long_focus_lens.txt 1 733 
+value Long_focus_lens.txt 1 108 
+will Long_focus_lens.txt 2 220 337 
+near Long_focus_lens.txt 1 226 
+millimeter Long_focus_lens.txt 1 107 
+can Long_focus_lens.txt 1 308 
+were Long_focus_lens.txt 1 408 
+normally Long_focus_lens.txt 1 670 
+making Long_focus_lens.txt 1 171 
+attaches Long_focus_lens.txt 1 615 
+similar Long_focus_lens.txt 1 179 
+example Long_focus_lens.txt 1 114 
+perspective Long_focus_lens.txt 8 192 223 264 282 463 499 520 532 
+and Long_focus_lens.txt 9 88 213 227 379 472 484 586 655 690 
+photographs Long_focus_lens.txt 1 399 
+dedicated Long_focus_lens.txt 1 687 
+constant Long_focus_lens.txt 1 422 
+wide-angle Long_focus_lens.txt 1 90 
+give Long_focus_lens.txt 1 273 
+almost Long_focus_lens.txt 1 639 
+portraits Long_focus_lens.txt 1 534 
+is Long_focus_lens.txt 19 21 31 47 68 102 126 178 187 193 333 358 388 464 492 514 525 629 650 715 
+thus Long_focus_lens.txt 2 272 462 
+it Long_focus_lens.txt 4 46 320 351 489 
+an Long_focus_lens.txt 5 276 347 569 598 617 
+references Long_focus_lens.txt 1 736 
+as Long_focus_lens.txt 10 58 92 137 362 517 536 561 577 593 731 
+itself Long_focus_lens.txt 1 727 
+taking Long_focus_lens.txt 1 718 
+have Long_focus_lens.txt 2 550 703 
+in Long_focus_lens.txt 12 16 105 224 305 346 444 545 568 572 580 613 706 
+portrait Long_focus_lens.txt 1 563 
+been Long_focus_lens.txt 2 551 704 
+moves Long_focus_lens.txt 1 429 
+film Long_focus_lens.txt 4 39 438 512 654 
+physical Long_focus_lens.txt 1 144 
+different Long_focus_lens.txt 2 300 395 
+angle Long_focus_lens.txt 1 211 
+contents Long_focus_lens.txt 1 154 
+defocus Long_focus_lens.txt 1 343 
+solely Long_focus_lens.txt 1 196 
+make Long_focus_lens.txt 3 50 142 319 
+format Long_focus_lens.txt 1 513 
+when Long_focus_lens.txt 2 291 328 
+s Long_focus_lens.txt 1 623 
+same Long_focus_lens.txt 7 190 205 232 335 403 433 456 
+astrophotography Long_focus_lens.txt 1 573 
+shorter Long_focus_lens.txt 3 149 286 486 
+also Long_focus_lens.txt 4 318 493 728 734 
+other Long_focus_lens.txt 5 82 94 215 237 315 
+role Long_focus_lens.txt 1 571 
+special Long_focus_lens.txt 1 133 
+which Long_focus_lens.txt 3 25 130 612 
+digital Long_focus_lens.txt 1 701 
+inch Long_focus_lens.txt 2 604 648 
+out Long_focus_lens.txt 1 310 
+aberration Long_focus_lens.txt 1 695 
+even Long_focus_lens.txt 1 327 
+used Long_focus_lens.txt 6 48 64 370 494 567 705 
+conventionally Long_focus_lens.txt 1 515 
+normal Long_focus_lens.txt 2 86 503 
+object Long_focus_lens.txt 4 185 423 442 453 
+compress Long_focus_lens.txt 2 256 479 
+effect Long_focus_lens.txt 5 177 341 384 393 491 
+lens Long_focus_lens.txt 24 1 7 12 20 24 67 74 87 91 112 118 125 129 134 148 212 219 244 504 524 596 625 714 726 
+most Long_focus_lens.txt 1 120 
+viewing Long_focus_lens.txt 1 198 
+edges Long_focus_lens.txt 1 667 
+moving Long_focus_lens.txt 2 181 248 
+two Long_focus_lens.txt 2 83 200 
+intended Long_focus_lens.txt 1 671 
+comparison Long_focus_lens.txt 1 446 
+types Long_focus_lens.txt 2 75 95 
+stands Long_focus_lens.txt 1 294 
+a Long_focus_lens.txt 30 8 18 22 27 65 85 89 106 115 132 138 194 209 217 242 274 303 306 372 411 440 518 522 529 591 594 609 682 709 719 
+so-called Long_focus_lens.txt 1 502 
+longer Long_focus_lens.txt 4 32 59 476 523 
+adapted Long_focus_lens.txt 2 560 576 
+sometimes Long_focus_lens.txt 1 338 
+magnified Long_focus_lens.txt 3 54 175 389 
+lengths Long_focus_lens.txt 2 397 421 
+depth Long_focus_lens.txt 2 330 483 
+optical Long_focus_lens.txt 2 555 694 
+so Long_focus_lens.txt 2 658 675 
+1.25 Long_focus_lens.txt 2 603 647 
+time Long_focus_lens.txt 1 633 
+redirected Long_focus_lens.txt 1 3 
+the Long_focus_lens.txt 57 34 38 81 99 111 119 127 143 147 151 184 189 204 214 231 251 257 263 266 279 292 297 324 329 334 344 353 376 380 383 402 405 418 426 432 437 445 451 455 458 467 470 473 475 480 485 498 501 541 546 601 620 646 665 697 712 723 
+requires Long_focus_lens.txt 1 597 
+fact Long_focus_lens.txt 1 381 
+left Long_focus_lens.txt 1 716 

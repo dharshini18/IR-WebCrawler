@@ -1,0 +1,1450 @@
+limited The_Times.txt 1 1709 
+asian The_Times.txt 1 3847 
+votes The_Times.txt 1 3705 
+edward The_Times.txt 1 813 
+under The_Times.txt 5 39 779 1126 1234 1697 
+lord The_Times.txt 2 1202 1791 
+editorship The_Times.txt 3 628 781 1236 
+partys The_Times.txt 2 1617 3527 
+rise The_Times.txt 1 1069 
+every The_Times.txt 2 2380 2507 
+jacob The_Times.txt 1 1368 
+school The_Times.txt 1 2918 
+magnate The_Times.txt 4 1198 1689 1809 1817 
+18021852 The_Times.txt 1 778 
+commons The_Times.txt 1 1588 
+concise The_Times.txt 1 2605 
+miller The_Times.txt 3 3237 3241 3292 
+shut The_Times.txt 1 1717 
+second The_Times.txt 1 3803 
+street The_Times.txt 3 222 2055 3991 
+machines The_Times.txt 1 3261 
+profitability The_Times.txt 1 879 
+asia The_Times.txt 2 3843 3850 
+victims The_Times.txt 1 977 
+warmongering The_Times.txt 1 1428 
+new The_Times.txt 19 251 328 520 535 733 1956 2045 2057 2359 3219 3311 3331 3408 3435 3441 3468 3476 4025 4213 
+ever The_Times.txt 1 4253 
+pioneering The_Times.txt 2 653 1196 
+represented The_Times.txt 1 1019 
+affiliated The_Times.txt 1 2912 
+changed The_Times.txt 1 609 
+reports The_Times.txt 1 1419 
+military The_Times.txt 1 1489 
+adopting The_Times.txt 1 46 
+changes The_Times.txt 1 1951 
+digitised The_Times.txt 1 434 
+campaign The_Times.txt 1 3528 
+cylinder The_Times.txt 1 735 
+brought The_Times.txt 1 1695 
+linotype The_Times.txt 1 1974 
+tertiary The_Times.txt 1 4135 
+eighty-four The_Times.txt 1 4166 
+would The_Times.txt 2 577 1896 
+army The_Times.txt 2 909 1562 
+best-selling The_Times.txt 1 4094 
+arms The_Times.txt 2 1661 1874 
+morison The_Times.txt 4 302 3350 3370 3385 
+call The_Times.txt 1 1277 
+telegraph The_Times.txt 5 1079 3022 3046 3083 3158 
+bbcs The_Times.txt 1 2807 
+type The_Times.txt 1 3304 
+until The_Times.txt 4 961 2034 3300 3592 
+populations The_Times.txt 1 875 
+berlin The_Times.txt 1 1424 
+1990 The_Times.txt 1 2123 
+word The_Times.txt 2 606 2596 
+room The_Times.txt 1 1999 
+1997 The_Times.txt 2 3593 3636 
+1999 The_Times.txt 1 2829 
+advocacy The_Times.txt 1 1395 
+ms The_Times.txt 1 2172 
+mr The_Times.txt 1 2133 
+criticizing The_Times.txt 1 3355 
+example The_Times.txt 2 2582 3307 
+estate The_Times.txt 1 1382 
+india The_Times.txt 1 248 
+david The_Times.txt 2 2261 3782 
+guarantee The_Times.txt 1 1761 
+end The_Times.txt 3 492 933 2478 
+travel The_Times.txt 4 2738 4076 4095 4104 
+feature The_Times.txt 2 1666 2701 
+far The_Times.txt 2 715 1329 
+writers The_Times.txt 2 723 2786 
+widespread The_Times.txt 1 420 
+badly The_Times.txt 1 3360 
+highest-selling The_Times.txt 2 3105 3127 
+minority The_Times.txt 1 1008 
+beauty The_Times.txt 1 2777 
+replacing The_Times.txt 1 3914 
+after The_Times.txt 9 495 612 1501 1915 2438 2529 3043 3348 3420 
+law The_Times.txt 1 2337 
+types The_Times.txt 1 3233 
+attempt The_Times.txt 1 351 
+third The_Times.txt 2 1038 3647 
+fictional The_Times.txt 1 4196 
+greek The_Times.txt 1 1556 
+green The_Times.txt 1 2262 
+enter The_Times.txt 1 1225 
+order The_Times.txt 1 3719 
+fifa The_Times.txt 1 2672 
+office The_Times.txt 1 1095 
+over The_Times.txt 3 1307 1642 2077 
+london The_Times.txt 13 12 33 270 276 809 1432 2398 2417 3201 3831 3852 3992 4207 
+before The_Times.txt 5 2141 2153 2182 2551 3214 
+appeasement The_Times.txt 3 1398 1412 1436 
+fit The_Times.txt 1 2306 
+highlights The_Times.txt 1 2706 
+better The_Times.txt 1 716 
+production The_Times.txt 1 3442 
+weeks The_Times.txt 1 1857 
+then The_Times.txt 1 3587 
+them The_Times.txt 1 2152 
+prevented The_Times.txt 1 2342 
+unemployed The_Times.txt 1 514 
+they The_Times.txt 6 1295 1311 3228 3725 4050 4275 
+sixteen The_Times.txt 1 640 
+hertfordshire The_Times.txt 1 2365 
+astor The_Times.txt 3 1369 1375 1681 
+moneyed The_Times.txt 1 1651 
+fonts The_Times.txt 1 3469 
+slavery The_Times.txt 1 1036 
+each The_Times.txt 2 2569 2579 
+went The_Times.txt 1 503 
+bond The_Times.txt 3 4226 4232 4252 
+financial The_Times.txt 1 1122 
+series The_Times.txt 4 2406 3283 4227 4293 
+allan The_Times.txt 1 112 
+joined The_Times.txt 1 1487 
+literature The_Times.txt 4 685 3839 3848 3952 
+hosted The_Times.txt 1 3977 
+saturday The_Times.txt 4 28 2713 2717 2742 
+revisions The_Times.txt 1 3400 
+792,210 The_Times.txt 1 394 
+content The_Times.txt 2 2421 2858 
+daniel The_Times.txt 1 3761 
+foundation The_Times.txt 1 2982 
+free The_Times.txt 1 4026 
+created The_Times.txt 1 3333 
+onto The_Times.txt 2 772 2309 
+industrial The_Times.txt 1 1711 
+features The_Times.txt 7 2425 2535 2562 2617 2741 2766 4113 
+reintroduced The_Times.txt 2 1876 2524 
+primary The_Times.txt 1 1444 
+another The_Times.txt 1 1815 
+immensely The_Times.txt 1 915 
+rewritten The_Times.txt 1 1430 
+their The_Times.txt 2 1308 3869 
+historian The_Times.txt 2 109 1526 
+heights The_Times.txt 1 800 
+john The_Times.txt 7 467 775 789 939 1039 1367 1867 
+urban The_Times.txt 1 874 
+direct The_Times.txt 1 2014 
+begins The_Times.txt 1 2437 
+peril The_Times.txt 1 1273 
+classes The_Times.txt 2 1025 1652 
+historical The_Times.txt 1 430 
+solely The_Times.txt 1 2225 
+acquisition The_Times.txt 1 1854 
+1,708,006 The_Times.txt 1 3137 
+fashion The_Times.txt 1 2775 
+111,000 The_Times.txt 1 2963 
+disambiguation The_Times.txt 1 19 
+modern The_Times.txt 6 331 1344 1779 3251 3286 3322 
+mind The_Times.txt 1 2541 
+relaunched The_Times.txt 1 2730 
+contents The_Times.txt 1 445 
+affairs The_Times.txt 1 194 
+genuine The_Times.txt 1 1258 
+1966 The_Times.txt 3 1626 1658 4007 
+1967 The_Times.txt 2 105 1677 
+1963 The_Times.txt 1 1516 
+subjects The_Times.txt 1 2771 
+though The_Times.txt 2 2171 3650 
+wombles The_Times.txt 2 4257 4268 
+regular The_Times.txt 2 2534 2561 
+retaining The_Times.txt 1 3089 
+episode The_Times.txt 2 4288 4295 
+rotary The_Times.txt 1 862 
+reputation The_Times.txt 2 666 692 
+circulations The_Times.txt 1 3095 
+nineteenth The_Times.txt 1 950 
+voting The_Times.txt 1 3661 
+fleming The_Times.txt 2 4230 4239 
+radio The_Times.txt 1 2620 
+availability The_Times.txt 1 421 
+weekends The_Times.txt 1 2640 
+logographys The_Times.txt 1 562 
+chamberlain The_Times.txt 1 1416 
+do The_Times.txt 2 90 2878 
+endorsements The_Times.txt 1 3793 
+hussain The_Times.txt 1 2804 
+report The_Times.txt 1 930 
+du The_Times.txt 1 2577 
+infrequent The_Times.txt 1 1091 
+countries The_Times.txt 1 255 
+fields The_Times.txt 1 681 
+steam The_Times.txt 1 867 
+reference The_Times.txt 1 2146 
+decided The_Times.txt 2 516 569 
+result The_Times.txt 1 1591 
+disturbing The_Times.txt 1 1275 
+resigned The_Times.txt 2 1922 2071 
+best The_Times.txt 1 201 
+techniques The_Times.txt 1 3443 
+said The_Times.txt 1 558 
+wikipedia The_Times.txt 1 2 
+olympics The_Times.txt 1 2400 
+drawn The_Times.txt 1 3372 
+approach The_Times.txt 1 1097 
+glasgow The_Times.txt 1 2369 
+discovery The_Times.txt 1 1512 
+we The_Times.txt 1 830 
+terms The_Times.txt 2 3061 3741 
+incarnation The_Times.txt 1 2545 
+however The_Times.txt 4 1793 2013 3465 3539 
+souvenir The_Times.txt 1 2408 
+censorship The_Times.txt 1 2083 
+news The_Times.txt 16 76 82 152 658 1418 1630 1851 2185 2190 2332 2426 2441 2445 2872 3965 4112 
+ebbut The_Times.txt 1 1422 
+faced The_Times.txt 1 1121 
+cup The_Times.txt 1 2674 
+russia The_Times.txt 1 4242 
+hot-metal The_Times.txt 2 1973 3260 
+games The_Times.txt 2 2542 2669 
+asked The_Times.txt 1 4264 
+tone The_Times.txt 1 1541 
+appeared The_Times.txt 2 1784 3938 
+connection The_Times.txt 1 1189 
+tony The_Times.txt 1 3619 
+subscribing The_Times.txt 1 2914 
+conference The_Times.txt 1 3871 
+nadiya The_Times.txt 1 2803 
+basis The_Times.txt 1 3394 
+union The_Times.txt 3 1449 1510 1749 
+three The_Times.txt 3 543 1856 3560 
+been The_Times.txt 16 138 160 168 190 215 402 410 557 1640 1664 1889 2223 3471 3494 4046 4170 
+much The_Times.txt 2 130 694 
+interest The_Times.txt 1 1648 
+pro The_Times.txt 1 3488 
+website The_Times.txt 1 3981 
+life The_Times.txt 1 698 
+worker The_Times.txt 2 1611 1619 
+has The_Times.txt 14 137 179 189 401 409 2222 2267 2874 2974 3145 3493 3857 4138 4169 
+air The_Times.txt 1 2092 
+near The_Times.txt 2 2053 3274 
+aid The_Times.txt 1 975 
+launched The_Times.txt 2 3900 3910 
+seven The_Times.txt 1 2063 
+played The_Times.txt 1 4282 
+is The_Times.txt 21 5 22 225 264 280 288 439 2162 2173 2475 2509 2629 2679 2691 2845 2904 3960 4065 4083 4092 4200 
+it The_Times.txt 32 35 235 408 523 546 550 567 712 983 1030 1088 1131 1627 1696 1887 1895 2148 2516 2553 3279 3345 3520 3529 3553 3595 3637 3735 3800 3809 3834 4110 4129 
+ii The_Times.txt 2 1495 1606 
+in The_Times.txt 135 11 32 37 64 106 120 158 216 254 306 315 318 326 336 347 349 378 381 422 480 525 593 622 642 648 679 725 741 756 758 787 802 853 910 938 945 1047 1070 1124 1190 1204 1241 1267 1323 1326 1331 1365 1390 1407 1431 1456 1473 1515 1545 1552 1564 1581 1653 1657 1676 1757 1798 1825 1836 2049 2059 2075 2095 2100 2121 2176 2184 2187 2196 2213 2226 2312 2348 2364 2483 2631 2708 2731 2800 2943 2957 2983 2996 3008 3054 3060 3100 3109 3119 3139 3159 3175 3200 3243 3262 3314 3343 3413 3452 3583 3635 3641 3655 3699 3718 3740 3745 3750 3797 3853 3872 3901 3911 3920 3939 3956 3987 4031 4037 4107 4127 4133 4153 4156 4186 4216 4223 4240 4255 4286 
+timesonline.co.uk The_Times.txt 1 2838 
+if The_Times.txt 2 1297 1313 
+1814 The_Times.txt 1 726 
+1815 The_Times.txt 1 742 
+containing The_Times.txt 1 2463 
+1817 The_Times.txt 1 757 
+1813 The_Times.txt 1 3246 
+patent The_Times.txt 1 563 
+make The_Times.txt 2 1933 3598 
+demands The_Times.txt 1 1750 
+monarch The_Times.txt 1 1894 
+several The_Times.txt 2 1782 4183 
+entitled The_Times.txt 1 1270 
+independent The_Times.txt 2 1056 2340 
+everett The_Times.txt 2 940 1163 
+social The_Times.txt 3 839 2169 2467 
+kim The_Times.txt 1 1438 
+rex The_Times.txt 1 4193 
+1979 The_Times.txt 2 1731 1745 
+1978 The_Times.txt 1 1727 
+1974 The_Times.txt 1 3584 
+1972 The_Times.txt 1 3464 
+1971 The_Times.txt 1 4128 
+academic The_Times.txt 1 2915 
+greatest The_Times.txt 1 1265 
+the The_Times.txt 415 0 17 20 40 42 54 60 84 87 108 115 118 122 135 145 177 200 209 223 226 241 245 250 262 269 273 278 286 289 292 304 309 321 332 363 369 382 385 399 433 455 461 474 481 491 496 507 532 561 583 587 589 605 610 620 633 649 664 672 680 687 699 702 708 727 732 743 759 762 770 780 792 795 806 822 824 827 833 843 849 860 878 881 887 890 904 908 911 928 932 935 949 952 955 958 962 967 979 986 997 1010 1013 1017 1020 1023 1027 1037 1041 1049 1059 1061 1068 1073 1077 1081 1085 1093 1098 1119 1146 1152 1176 1185 1215 1221 1235 1239 1245 1248 1251 1263 1268 1271 1283 1286 1317 1332 1336 1342 1348 1351 1356 1359 1362 1372 1377 1380 1383 1391 1408 1435 1447 1454 1459 1464 1478 1482 1502 1508 1523 1538 1555 1560 1570 1579 1585 1595 1608 1612 1615 1632 1636 1650 1659 1668 1680 1684 1698 1702 1714 1718 1732 1740 1744 1762 1769 1776 1803 1823 1830 1838 1841 1853 1862 1872 1878 1892 1901 1908 1911 1926 1937 1953 1972 1980 1983 2002 2005 2035 2041 2069 2088 2108 2117 2124 2158 2166 2194 2206 2220 2233 2240 2256 2273 2296 2310 2317 2331 2336 2339 2353 2371 2383 2393 2397 2402 2411 2414 2423 2428 2432 2434 2439 2449 2454 2461 2472 2477 2480 2486 2490 2502 2510 2583 2607 2611 2624 2627 2632 2639 2654 2658 2671 2684 2687 2703 2709 2716 2720 2750 2763 2798 2808 2816 2819 2851 2882 2892 2895 2899 2922 2929 2946 2966 2972 2976 2988 2998 3011 3020 3026 3036 3044 3055 3058 3072 3081 3087 3091 3102 3104 3110 3123 3126 3140 3142 3151 3156 3162 3170 3181 3187 3195 3205 3210 3215 3217 3253 3309 3316 3320 3324 3327 3338 3356 3365 3379 3383 3393 3414 3423 3430 3445 3456 3467 3474 3483 3500 3505 3515 3525 3540 3544 3547 3555 3558 3567 3570 3574 3585 3589 3609 3613 3660 3669 3674 3682 3686 3692 3696 3700 3703 3715 3736 3751 3756 3777 3789 3819 3823 3828 3837 3842 3855 3887 3897 3915 3928 3932 3945 3958 3971 3979 3993 4000 4008 4017 4021 4034 4055 4062 4066 4071 4073 4087 4097 4101 4144 4157 4167 4173 4176 4187 4206 4224 4234 4245 4248 4256 4261 4266 4278 4280 4287 4291 
+pronouncements The_Times.txt 1 4192 
+quoted The_Times.txt 1 4185 
+resigning The_Times.txt 1 2106 
+previous The_Times.txt 2 1363 2544 
+regarded The_Times.txt 1 2252 
+royal The_Times.txt 2 1660 1873 
+friedrich The_Times.txt 1 739 
+spread The_Times.txt 1 2456 
+transformed The_Times.txt 1 4171 
+board The_Times.txt 2 969 2341 
+prison The_Times.txt 1 644 
+282,000 The_Times.txt 1 3006 
+editorials The_Times.txt 2 1205 1544 
+elders The_Times.txt 2 1253 1287 
+survival The_Times.txt 1 1763 
+unique The_Times.txt 1 2936 
+offices The_Times.txt 2 2058 3985 
+officer The_Times.txt 1 926 
+aaronovitch The_Times.txt 1 3783 
+people The_Times.txt 4 602 1001 1004 3875 
+election The_Times.txt 5 3518 3549 3612 3685 3697 
+for The_Times.txt 45 13 129 212 312 339 645 693 720 821 1092 1102 1278 1453 1470 1537 1720 2105 2138 2298 2382 2427 2581 3270 3358 3395 3401 3427 3437 3535 3546 3557 3565 3573 3608 3618 3668 3673 3679 3681 3691 3794 3805 3864 4147 4265 
+exposition The_Times.txt 1 1309 
+marketing The_Times.txt 1 1158 
+corn The_Times.txt 1 959 
+corp The_Times.txt 1 83 
+post The_Times.txt 1 1083 
+newspapers The_Times.txt 5 70 1669 1708 2868 3099 
+typeface The_Times.txt 6 297 3208 3294 3313 3323 3329 
+magazine The_Times.txt 9 2752 2765 3955 4029 4035 4077 4082 4096 4105 
+grown The_Times.txt 1 4139 
+ensure The_Times.txt 1 877 
+connected The_Times.txt 2 3754 3775 
+efforts The_Times.txt 1 654 
+presence The_Times.txt 2 2814 2826 
+civil The_Times.txt 2 1015 1461 
+maxwell The_Times.txt 1 1787 
+puzzle The_Times.txt 1 4210 
+obtaining The_Times.txt 1 1474 
+son The_Times.txt 3 631 774 1370 
+commuters The_Times.txt 1 359 
+394,448 The_Times.txt 1 3077 
+electorate The_Times.txt 1 998 
+often The_Times.txt 2 265 1107 
+communists The_Times.txt 1 1571 
+support The_Times.txt 5 1434 3564 3617 3690 3744 
+joseph The_Times.txt 1 776 
+editor The_Times.txt 8 484 755 1137 1218 1399 1532 1919 2995 
+way The_Times.txt 1 1333 
+editions The_Times.txt 3 614 2698 2865 
+was The_Times.txt 60 334 463 501 524 538 547 551 596 729 752 851 889 914 1031 1063 1089 1106 1132 1193 1402 1450 1468 1496 1513 1530 1534 1674 1756 1772 1797 1875 1913 1952 1986 2022 2028 2209 2304 2326 2517 2531 2554 2572 2931 3183 3266 3288 3295 3297 3346 3367 3425 3485 3521 3625 3899 3909 4106 4130 4247 
+war The_Times.txt 9 895 913 937 1016 1227 1462 1494 1503 1605 
+form The_Times.txt 3 1706 3711 3721 
+becoming The_Times.txt 1 3947 
+correspondents The_Times.txt 3 896 2244 2295 
+uncle The_Times.txt 1 4258 
+high-quality The_Times.txt 1 1475 
+tell The_Times.txt 1 3278 
+proved The_Times.txt 1 548 
+158 The_Times.txt 1 2282 
+wealthy The_Times.txt 1 1024 
+tournament The_Times.txt 1 2694 
+covers The_Times.txt 1 2410 
+britannicas The_Times.txt 1 1177 
+archive The_Times.txt 1 2902 
+merseyside The_Times.txt 1 2367 
+no The_Times.txt 3 2692 2697 3284 
+whereas The_Times.txt 1 1885 
+generally The_Times.txt 1 3247 
+handed The_Times.txt 1 625 
+negotiators The_Times.txt 1 1866 
+tim The_Times.txt 1 3763 
+role The_Times.txt 2 482 4285 
+digital The_Times.txt 3 2901 2968 3894 
+football The_Times.txt 2 2641 2646 
+weekend The_Times.txt 1 2736 
+died The_Times.txt 1 767 
+younger The_Times.txt 1 356 
+1803 The_Times.txt 1 623 
+faster The_Times.txt 1 539 
+potato The_Times.txt 1 981 
+normally The_Times.txt 1 2446 
+daily The_Times.txt 22 25 43 374 391 475 578 590 1078 1610 1618 2681 2710 2848 3003 3014 3021 3045 3069 3082 3107 3124 3131 
+time The_Times.txt 5 527 1883 2385 2989 3497 
+profits The_Times.txt 1 700 
+detective The_Times.txt 1 4197 
+switched The_Times.txt 2 343 2355 
+roy The_Times.txt 2 1517 1690 
+supplement The_Times.txt 7 2506 2612 2682 3924 3931 3935 3943 
+devoted The_Times.txt 1 2587 
+nineteen The_Times.txt 1 4165 
+1941 The_Times.txt 1 1520 
+father The_Times.txt 1 1046 
+editors The_Times.txt 2 210 3877 
+1944 The_Times.txt 1 1547 
+1945 The_Times.txt 1 3516 
+supported The_Times.txt 5 974 985 3554 3603 3638 
+sponsors The_Times.txt 2 3827 3836 
+did The_Times.txt 1 3530 
+18901911 The_Times.txt 1 1145 
+brother The_Times.txt 1 4190 
+bake The_Times.txt 1 2811 
+current The_Times.txt 1 48 
+international The_Times.txt 6 1852 2066 2191 2693 3916 3966 
+appeal The_Times.txt 1 353 
+supporting The_Times.txt 1 3579 
+heavily The_Times.txt 1 411 
+cengage The_Times.txt 1 443 
+henry The_Times.txt 2 529 1169 
+giles The_Times.txt 1 2791 
+along The_Times.txt 1 3821 
+change The_Times.txt 2 1927 3447 
+neville The_Times.txt 1 1415 
+financiers The_Times.txt 1 671 
+canadian The_Times.txt 1 1687 
+institute The_Times.txt 1 3826 
+usually The_Times.txt 1 1646 
+churchill The_Times.txt 1 1574 
+love The_Times.txt 1 4244 
+lending The_Times.txt 1 234 
+bloody The_Times.txt 1 1483 
+1st The_Times.txt 1 1373 
+crisis The_Times.txt 1 1747 
+market The_Times.txt 1 3129 
+handled The_Times.txt 1 169 
+working The_Times.txt 1 502 
+athens The_Times.txt 1 1553 
+france The_Times.txt 1 661 
+insider The_Times.txt 1 4115 
+surnames The_Times.txt 2 2154 2183 
+opposed The_Times.txt 1 954 
+scope The_Times.txt 1 283 
+australian The_Times.txt 2 1807 1816 
+acceptable The_Times.txt 1 2175 
+downing The_Times.txt 1 221 
+commissioned The_Times.txt 2 3326 3347 
+prophecy The_Times.txt 2 1321 1322 
+originally The_Times.txt 3 298 2830 3234 
+reviews The_Times.txt 1 2623 
+printing The_Times.txt 10 317 324 573 863 1629 1780 1975 2046 2243 2351 
+can The_Times.txt 1 3277 
+following The_Times.txt 4 1337 1967 2447 2977 
+detached The_Times.txt 1 3513 
+admired The_Times.txt 1 1469 
+months The_Times.txt 1 641 
+concocted The_Times.txt 1 1302 
+winston The_Times.txt 1 1573 
+agent The_Times.txt 1 1442 
+allowed The_Times.txt 1 1997 
+britannica The_Times.txt 1 1154 
+bankrupt The_Times.txt 1 504 
+1 The_Times.txt 8 51 470 597 616 1725 2217 2520 3285 
+sunday The_Times.txt 14 61 88 364 386 1703 1842 2006 2820 2896 3143 3157 3171 4074 4102 
+endorsement The_Times.txt 1 3601 
+economy The_Times.txt 1 3404 
+edinburgh The_Times.txt 1 3244 
+product The_Times.txt 1 4064 
+17852008 The_Times.txt 1 2903 
+may The_Times.txt 5 1231 1625 1965 2349 3160 
+produce The_Times.txt 1 579 
+such The_Times.txt 4 243 2772 3759 3780 
+tories The_Times.txt 2 3545 3701 
+johnson The_Times.txt 1 530 
+sr The_Times.txt 1 637 
+switch The_Times.txt 1 3459 
+so The_Times.txt 4 711 1298 1314 1328 
+constituents The_Times.txt 1 2259 
+years The_Times.txt 5 341 544 1917 3439 3551 
+ended The_Times.txt 2 1504 3698 
+argued The_Times.txt 1 1219 
+still The_Times.txt 2 1005 2023 
+1832 The_Times.txt 1 991 
+montgomerie The_Times.txt 1 3764 
+window The_Times.txt 1 2705 
+policy The_Times.txt 4 668 1437 2128 3816 
+mail The_Times.txt 1 3125 
+main The_Times.txt 7 2274 2481 2505 2608 3926 3998 4121 
+tory The_Times.txt 1 3489 
+views The_Times.txt 1 123 
+killer The_Times.txt 1 2593 
+touching The_Times.txt 1 2768 
+1951 The_Times.txt 1 4005 
+subscribers The_Times.txt 1 2964 
+half The_Times.txt 2 2012 2430 
+not The_Times.txt 9 91 552 1032 1090 2024 2879 3486 3531 3631 
+now The_Times.txt 4 1897 2163 2174 2841 
+1959 The_Times.txt 1 107 
+term The_Times.txt 1 3804 
+name The_Times.txt 4 49 233 635 3227 
+january The_Times.txt 6 52 471 598 617 2285 2732 
+flagship The_Times.txt 1 4063 
+square The_Times.txt 1 2048 
+significantly The_Times.txt 1 3147 
+year The_Times.txt 7 761 1338 1364 1723 2070 2799 3422 
+tried The_Times.txt 1 1820 
+living The_Times.txt 1 2139 
+jackson The_Times.txt 1 1184 
+space The_Times.txt 1 3406 
+carr The_Times.txt 3 1529 1533 1563 
+secessionists The_Times.txt 1 1028 
+million The_Times.txt 3 2935 2942 3013 
+obituaries The_Times.txt 1 2464 
+dispatches The_Times.txt 1 919 
+inevitable The_Times.txt 1 1514 
+listings The_Times.txt 3 2621 2747 2761 
+british The_Times.txt 15 8 24 925 1222 1488 1525 1561 1654 2065 2810 3040 3097 3130 3746 3824 
+discontinued The_Times.txt 1 2518 
+first The_Times.txt 10 227 584 891 2145 2384 2429 2440 3866 3937 4098 
+omitted The_Times.txt 1 604 
+one The_Times.txt 8 1621 1795 1946 2254 2650 3421 3537 4142 
+carrs The_Times.txt 1 1593 
+spanish The_Times.txt 1 1460 
+vote The_Times.txt 1 3534 
+open The_Times.txt 1 571 
+george The_Times.txt 1 4162 
+size The_Times.txt 1 346 
+city The_Times.txt 1 807 
+given The_Times.txt 1 1641 
+ian The_Times.txt 1 4229 
+sheet The_Times.txt 1 582 
+weekdays The_Times.txt 1 2495 
+2 The_Times.txt 3 2560 2887 4294 
+alfred The_Times.txt 1 1199 
+that The_Times.txt 14 232 526 537 549 1110 1220 1425 1601 1890 1899 2177 2335 4251 4274 
+ownership The_Times.txt 6 103 626 1700 1929 2329 2970 
+meddling The_Times.txt 1 2112 
+released The_Times.txt 1 3426 
+903,405 The_Times.txt 1 3052 
+than The_Times.txt 5 132 717 2277 2606 3150 
+population The_Times.txt 1 1011 
+11 The_Times.txt 1 2526 
+10 The_Times.txt 1 220 
+13 The_Times.txt 1 2203 
+12 The_Times.txt 2 1729 4296 
+14 The_Times.txt 1 1916 
+rival The_Times.txt 1 3019 
+typography The_Times.txt 1 536 
+eurosceptic The_Times.txt 1 3606 
+future The_Times.txt 1 4159 
+were The_Times.txt 12 95 704 815 1429 1736 1844 1906 2250 2729 2961 3229 3666 
+orwell The_Times.txt 1 4163 
+and The_Times.txt 121 56 86 98 141 153 163 249 284 358 415 424 540 564 627 670 686 707 768 784 804 812 819 840 846 883 971 995 1080 1100 1165 1181 1192 1209 1260 1305 1505 1521 1559 1578 1748 1767 1771 1790 1840 1869 1958 1964 1989 1994 2004 2026 2116 2168 2199 2330 2338 2366 2368 2401 2457 2469 2496 2557 2590 2599 2603 2615 2619 2622 2636 2645 2651 2663 2675 2702 2739 2748 2757 2776 2779 2782 2794 2802 2818 2833 2835 2850 2863 2894 2917 3057 3093 3122 3153 3169 3194 3238 3258 3362 3371 3403 3444 3503 3569 3677 3706 3767 3786 3841 3881 3953 3962 3967 3982 4006 4091 4109 4114 4137 4150 4263 
+topics The_Times.txt 1 2756 
+premier The_Times.txt 2 2643 2667 
+thadeus The_Times.txt 1 790 
+saw The_Times.txt 1 2080 
+any The_Times.txt 6 2278 3039 3203 3536 3599 4272 
+efficient The_Times.txt 1 554 
+ideas The_Times.txt 1 2749 
+note The_Times.txt 1 1319 
+equipment The_Times.txt 1 3272 
+emphasis The_Times.txt 1 188 
+online The_Times.txt 5 440 2813 2825 2898 3975 
+coincide The_Times.txt 1 2391 
+begin The_Times.txt 1 2452 
+printer The_Times.txt 1 764 
+norman The_Times.txt 1 1421 
+price The_Times.txt 2 1613 2488 
+printed The_Times.txt 5 335 647 730 2224 3361 
+successive The_Times.txt 1 3648 
+complaints The_Times.txt 1 508 
+pages The_Times.txt 2 2451 2585 
+especially The_Times.txt 2 659 801 
+average The_Times.txt 7 373 390 3002 3030 3068 3115 3135 
+later The_Times.txt 6 545 1201 1486 2836 3240 3552 
+sale The_Times.txt 3 2212 3004 3429 
+mrs The_Times.txt 1 2134 
+senior The_Times.txt 1 1499 
+laws The_Times.txt 1 960 
+precise The_Times.txt 1 542 
+german The_Times.txt 1 1397 
+finkelstein The_Times.txt 1 3762 
+elas The_Times.txt 1 1558 
+aggressive The_Times.txt 1 1156 
+title The_Times.txt 2 41 611 
+behind The_Times.txt 1 4290 
+only The_Times.txt 4 100 972 1794 4249 
+dispute The_Times.txt 2 1712 2037 
+assistant The_Times.txt 1 1531 
+nearly The_Times.txt 1 1721 
+hooper The_Times.txt 2 1164 1180 
+artist The_Times.txt 1 3377 
+photo-composition The_Times.txt 1 1995 
+1821 The_Times.txt 1 65 
+morning The_Times.txt 1 1082 
+where The_Times.txt 4 256 499 575 2689 
+bulgaria The_Times.txt 1 4259 
+declared The_Times.txt 2 3615 3688 
+1920 The_Times.txt 1 1232 
+1922 The_Times.txt 1 1366 
+stanley The_Times.txt 2 301 3349 
+sport The_Times.txt 2 2473 2735 
+page The_Times.txt 8 453 1634 1638 2170 2238 2276 2311 2381 
+subsequent The_Times.txt 2 2156 3559 
+review The_Times.txt 5 2743 3996 4003 4016 4020 
+3 The_Times.txt 2 1624 3417 
+between The_Times.txt 5 1175 1519 1554 1961 4004 
+reading The_Times.txt 2 927 4303 
+26 The_Times.txt 2 2387 3678 
+wednesday The_Times.txt 1 2580 
+article The_Times.txt 9 4 837 1580 2086 2291 3354 3927 3999 4122 
+according The_Times.txt 2 2287 3657 
+enabling The_Times.txt 1 2370 
+s The_Times.txt 6 2504 3084 3621 4164 4191 4195 
+columnist The_Times.txt 1 2568 
+rankings The_Times.txt 1 4152 
+reluctantly The_Times.txt 1 973 
+lardent The_Times.txt 2 3336 3375 
+comes The_Times.txt 1 1316 
+among The_Times.txt 2 667 3096 
+period The_Times.txt 3 384 3056 3141 
+learning The_Times.txt 1 444 
+liberal The_Times.txt 3 3571 3675 3716 
+arts The_Times.txt 3 688 2614 2744 
+mark The_Times.txt 1 1935 
+practised The_Times.txt 1 1411 
+featuring The_Times.txt 1 2512 
+constantinople The_Times.txt 1 1343 
+external The_Times.txt 1 4305 
+hidden The_Times.txt 1 4309 
+those The_Times.txt 2 1406 4219 
+445,737 The_Times.txt 1 3168 
+these The_Times.txt 4 257 1292 1303 2727 
+notoriety The_Times.txt 1 1389 
+editorial The_Times.txt 8 93 155 968 1243 1360 1594 2346 3984 
+newspaper The_Times.txt 22 9 30 228 263 279 588 892 1197 1455 1912 2195 2633 3042 3108 3132 3457 3541 3687 3739 3856 4088 4281 
+investigating The_Times.txt 1 2327 
+landslide The_Times.txt 1 3629 
+middle The_Times.txt 1 3128 
+technology The_Times.txt 1 1957 
+different The_Times.txt 1 2567 
+pay The_Times.txt 2 714 2886 
+same The_Times.txt 4 383 634 760 1699 
+speech The_Times.txt 1 1583 
+struggling The_Times.txt 1 1737 
+document The_Times.txt 1 1259 
+events The_Times.txt 2 125 947 
+week The_Times.txt 1 2889 
+director The_Times.txt 1 3305 
+persons The_Times.txt 1 2140 
+eureka The_Times.txt 1 4030 
+crimean The_Times.txt 2 912 936 
+trains The_Times.txt 1 868 
+researchers The_Times.txt 1 416 
+cheltenham The_Times.txt 1 3838 
+being The_Times.txt 3 513 1620 3359 
+when The_Times.txt 9 528 1339 1511 1548 1910 2040 3252 3594 3643 
+219 The_Times.txt 1 340 
+imprint The_Times.txt 1 4058 
+touch The_Times.txt 1 218 
+691,283 The_Times.txt 1 3032 
+guides The_Times.txt 1 4116 
+weekly The_Times.txt 2 2856 3951 
+low-tech The_Times.txt 1 316 
+euros The_Times.txt 1 2677 
+rose The_Times.txt 1 797 
+favouring The_Times.txt 1 1026 
+4 The_Times.txt 1 458 
+kingdom The_Times.txt 1 3112 
+defected The_Times.txt 1 1506 
+zion The_Times.txt 2 1255 1289 
+around The_Times.txt 3 240 2962 3245 
+read The_Times.txt 3 2891 4254 4260 
+papers The_Times.txt 8 239 665 763 905 2118 2257 3207 4222 
+early The_Times.txt 2 697 857 
+earnest The_Times.txt 1 172 
+preference The_Times.txt 1 4217 
+confined The_Times.txt 1 2164 
+world The_Times.txt 9 242 1226 1493 1604 2444 2673 4072 4151 4160 
+postal The_Times.txt 2 2246 2302 
+endorsed The_Times.txt 2 1244 3801 
+reduced The_Times.txt 3 993 2010 3653 
+debut The_Times.txt 1 3412 
+jews The_Times.txt 1 1262 
+exposed The_Times.txt 1 1350 
+competition The_Times.txt 2 709 1071 
+energetic The_Times.txt 1 1136 
+legal The_Times.txt 1 1173 
+conservative The_Times.txt 3 3526 3670 3757 
+pioneer The_Times.txt 1 4132 
+critical The_Times.txt 1 3523 
+severed The_Times.txt 1 1187 
+londons The_Times.txt 1 127 
+assembly The_Times.txt 1 1301 
+business The_Times.txt 4 521 771 1741 2450 
+notable The_Times.txt 3 2788 3874 3879 
+notably The_Times.txt 3 1076 1414 3867 
+1932 The_Times.txt 2 3301 3419 
+1931 The_Times.txt 1 3344 
+comparison The_Times.txt 1 3009 
+central The_Times.txt 1 4284 
+steam-driven The_Times.txt 2 734 861 
+of The_Times.txt 146 75 110 117 124 126 144 148 174 203 247 275 281 291 303 376 393 398 418 432 454 483 493 506 509 586 632 682 695 701 748 782 794 808 848 859 873 880 931 934 948 957 964 978 990 1009 1022 1035 1237 1250 1254 1285 1288 1320 1334 1347 1361 1371 1388 1396 1427 1463 1481 1542 1587 1592 1603 1614 1647 1667 1679 1764 1778 1858 1891 1900 1903 1925 1928 1947 1955 2016 2038 2068 2084 2090 2129 2242 2255 2263 2300 2319 2352 2396 2404 2407 2416 2431 2479 2489 2657 2683 2699 2719 2725 2797 2806 2866 2952 2990 3005 3016 3031 3038 3051 3062 3071 3116 3136 3167 3173 3190 3198 3202 3204 3232 3308 3341 3382 3405 3416 3473 3499 3524 3663 3742 3846 3896 4059 4070 4089 4100 4143 4161 4175 4204 4220 
+whence The_Times.txt 1 1315 
+supervised The_Times.txt 1 3368 
+full-rate The_Times.txt 1 3063 
+opinion/comment The_Times.txt 1 2435 
+concentrations The_Times.txt 1 872 
+or The_Times.txt 6 272 722 1054 2135 2784 3490 
+road The_Times.txt 1 2052 
+libel The_Times.txt 1 646 
+decreased The_Times.txt 1 2925 
+references The_Times.txt 2 2157 4300 
+there The_Times.txt 8 2571 2678 2690 2695 2839 2859 2960 3771 
+totalitarian The_Times.txt 1 4177 
+paywall The_Times.txt 1 2930 
+start The_Times.txt 1 2395 
+mondays The_Times.txt 1 2635 
+fisk The_Times.txt 1 2062 
+thundered The_Times.txt 1 831 
+complete The_Times.txt 1 429 
+amongst The_Times.txt 2 805 4277 
+antiquated The_Times.txt 1 3364 
+with The_Times.txt 28 170 196 219 308 478 907 917 1150 1393 1405 1443 1569 1861 1969 2113 2316 2376 2392 2443 2913 3086 3433 3651 3714 3822 3970 3973 4243 
+october The_Times.txt 5 2527 2958 3418 4032 4038 
+circulation The_Times.txt 8 375 392 747 845 3050 3070 3149 3166 
+1850s The_Times.txt 1 1060 
+jamaican The_Times.txt 1 511 
+strongly The_Times.txt 1 1539 
+gone The_Times.txt 1 1330 
+contributors The_Times.txt 1 2789 
+moved The_Times.txt 1 2043 
+sales The_Times.txt 2 3015 3064 
+an The_Times.txt 25 139 171 197 350 372 389 395 580 836 1135 1242 1710 2031 2759 2824 3001 3029 3114 3134 3306 3353 3376 3387 3730 3892 
+britain The_Times.txt 3 150 204 595 
+at The_Times.txt 16 165 1880 2001 2361 2476 2831 2837 2847 2854 2987 3337 3514 3849 3868 3904 4211 
+file The_Times.txt 1 431 
+politics The_Times.txt 2 683 803 
+film The_Times.txt 2 3825 3832 
+again The_Times.txt 2 3640 3695 
+istanbul The_Times.txt 1 1345 
+5 The_Times.txt 2 1833 2548 
+borne The_Times.txt 1 231 
+magazine-like The_Times.txt 1 2857 
+2004 The_Times.txt 5 348 2205 2219 3453 3656 
+oneill The_Times.txt 1 1871 
+includes The_Times.txt 2 2661 4111 
+important The_Times.txt 3 142 192 1950 
+included The_Times.txt 1 2630 
+coren The_Times.txt 1 2792 
+readership The_Times.txt 4 2951 2985 3179 3665 
+websites The_Times.txt 2 2843 2923 
+original The_Times.txt 1 3475 
+all The_Times.txt 2 2638 3466 
+caused The_Times.txt 1 3455 
+month The_Times.txt 1 2939 
+founded The_Times.txt 4 63 96 464 1914 
+ceased The_Times.txt 1 2126 
+tv The_Times.txt 2 2618 2746 
+anti-semitic The_Times.txt 1 1246 
+removal The_Times.txt 1 2299 
+prefixes The_Times.txt 1 2137 
+to The_Times.txt 91 27 183 199 205 229 236 267 344 352 355 437 449 517 565 570 619 629 655 689 798 855 869 893 897 921 976 1002 1065 1096 1109 1116 1172 1433 1446 1507 1575 1584 1643 1649 1686 1705 1716 1728 1738 1743 1760 1774 1801 1821 1877 1932 1978 2008 2029 2056 2111 2150 2165 2288 2305 2358 2373 2390 2418 2588 2881 2885 2890 2910 2921 2940 2965 3010 3076 3080 3185 3249 3450 3458 3543 3597 3658 3710 3720 3728 3755 3776 3944 4140 4218 4269 
+1930s The_Times.txt 2 1392 1466 
+protocols The_Times.txt 4 1249 1284 1293 1352 
+appointment The_Times.txt 1 2993 
+very The_Times.txt 2 705 4289 
+puzzles The_Times.txt 3 2538 2589 2598 
+frederic The_Times.txt 1 1139 
+candid The_Times.txt 1 1417 
+logography The_Times.txt 1 533 
+t2 The_Times.txt 1 2556 
+sautoy The_Times.txt 1 2578 
+large The_Times.txt 2 706 3633 
+small The_Times.txt 2 1007 1644 
+titles The_Times.txt 3 259 1766 2132 
+design The_Times.txt 3 3265 3397 3424 
+further The_Times.txt 1 4302 
+what The_Times.txt 4 1290 1299 2078 3296 
+2544 The_Times.txt 1 3192 
+sun The_Times.txt 1 3103 
+section The_Times.txt 7 2178 2436 2442 2468 2474 2539 2712 
+version The_Times.txt 1 3976 
+learned The_Times.txt 1 1252 
+public The_Times.txt 3 193 361 2916 
+contrast The_Times.txt 1 3101 
+full The_Times.txt 5 1804 2142 2245 2301 2377 
+iran The_Times.txt 1 2091 
+thetimes.co.uk The_Times.txt 1 2844 
+november The_Times.txt 6 319 1730 2188 2218 3024 3798 
+publisher The_Times.txt 1 466 
+1841 The_Times.txt 1 788 
+1847 The_Times.txt 1 1048 
+supplements The_Times.txt 3 2714 2726 2728 
+advertising The_Times.txt 3 581 1167 3380 
+published The_Times.txt 7 67 403 1206 2248 2271 3963 4010 
+via The_Times.txt 2 866 2907 
+followed The_Times.txt 3 1855 2459 3562 
+family The_Times.txt 1 1682 
+1946 The_Times.txt 1 1522 
+ask The_Times.txt 1 1101 
+aimed The_Times.txt 1 2846 
+1908 The_Times.txt 3 1191 3263 3315 
+extinction The_Times.txt 1 1123 
+1902 The_Times.txt 1 3940 
+select The_Times.txt 1 2321 
+literary The_Times.txt 3 3923 3930 3934 
+eye The_Times.txt 1 198 
+editorialsof The_Times.txt 1 4181 
+contains The_Times.txt 2 2613 2722 
+two The_Times.txt 5 816 1178 2653 2842 3088 
+mori The_Times.txt 1 3659 
+6 The_Times.txt 2 405 2230 
+more The_Times.txt 8 131 354 541 1053 2159 2269 2307 2604 
+re-elected The_Times.txt 1 3626 
+readers The_Times.txt 7 357 2849 2876 2911 2954 3193 3199 
+company The_Times.txt 2 498 1865 
+atlas The_Times.txt 1 4069 
+broke The_Times.txt 1 1550 
+particular The_Times.txt 1 899 
+known The_Times.txt 3 1536 1599 2280 
+producing The_Times.txt 1 2193 
+respected The_Times.txt 1 4146 
+science The_Times.txt 6 684 3995 4002 4015 4019 4028 
+coalition The_Times.txt 2 3582 3713 
+remain The_Times.txt 1 2030 
+history The_Times.txt 2 446 3747 
+stated The_Times.txt 1 2334 
+share The_Times.txt 1 92 
+numbers The_Times.txt 1 3197 
+sense The_Times.txt 1 173 
+condemn The_Times.txt 1 1576 
+information The_Times.txt 1 721 
+court The_Times.txt 3 1814 2167 2466 
+stayed The_Times.txt 1 3432 
+occasionally The_Times.txt 1 3791 
+plans The_Times.txt 1 1304 
+authentic The_Times.txt 1 1296 
+malevolent The_Times.txt 1 1300 
+a The_Times.txt 64 7 23 73 133 327 367 428 510 519 534 572 746 923 1006 1033 1257 1274 1354 1386 1440 1451 1565 1582 1590 1665 1722 1753 1758 1799 2313 2405 2465 2537 2566 2573 2600 2680 2723 2950 3049 3146 3165 3176 3225 3230 3291 3495 3508 3533 3580 3628 3646 3652 3712 3722 3802 3861 3906 3942 3948 4011 4024 4131 4283 
+register The_Times.txt 4 45 477 592 2462 
+responsibility The_Times.txt 1 175 
+media The_Times.txt 3 1808 2328 3862 
+solidly The_Times.txt 1 3591 
+nevins The_Times.txt 1 113 
+september The_Times.txt 3 2204 2549 3902 
+developed The_Times.txt 2 299 737 
+fraser The_Times.txt 2 811 1128 
+paper The_Times.txt 20 59 178 435 728 850 882 1050 1384 1685 1719 1938 2109 2221 2372 2433 2482 3484 3586 3898 4250 
+committee The_Times.txt 1 2322 
+committed The_Times.txt 1 1773 
+suffer The_Times.txt 1 1066 
+its The_Times.txt 34 47 57 151 154 184 186 313 419 425 691 696 718 856 884 1188 1394 1672 2127 2236 2289 2419 2533 2543 2981 3017 3271 3411 3616 3664 3689 3974 3983 4148 4180 
+style The_Times.txt 1 2161 
+rapidly The_Times.txt 1 870 
+21 The_Times.txt 1 2934 
+solving The_Times.txt 1 4205 
+29 The_Times.txt 2 1208 3672 
+late The_Times.txt 1 1465 
+founders The_Times.txt 1 1042 
+inquiry The_Times.txt 1 1279 
+food The_Times.txt 2 2778 2793 
+reigning The_Times.txt 1 1893 
+inception The_Times.txt 1 1673 
+marcus The_Times.txt 1 2576 
+always The_Times.txt 1 603 
+found The_Times.txt 2 3184 4276 
+referred The_Times.txt 2 266 3248 
+pro-israel The_Times.txt 1 2119 
+sterling The_Times.txt 1 814 
+england The_Times.txt 2 34 922 
+house The_Times.txt 8 574 1586 1902 2047 2318 3844 3851 3989 
+energy The_Times.txt 1 1746 
+insurance The_Times.txt 1 497 
+really The_Times.txt 1 3223 
+funding The_Times.txt 1 1775 
+robert The_Times.txt 3 1786 1812 2061 
+since The_Times.txt 12 71 104 404 1671 1982 2216 2827 2869 2928 2980 3463 4048 
+print The_Times.txt 5 1970 1979 1998 2883 3907 
+issue The_Times.txt 2 3415 4099 
+drink The_Times.txt 2 2780 2795 
+reason The_Times.txt 1 2297 
+outsells The_Times.txt 1 3155 
+members The_Times.txt 1 1678 
+backed The_Times.txt 1 3588 
+teach The_Times.txt 1 3865 
+beginning The_Times.txt 2 724 1064 
+bartholomew The_Times.txt 1 4057 
+owners The_Times.txt 2 1179 2979 
+american The_Times.txt 4 396 1014 1157 4221 
+w The_Times.txt 1 901 
+castle The_Times.txt 1 2264 
+fallen The_Times.txt 1 3075 
+co-operates The_Times.txt 1 3968 
+number The_Times.txt 2 963 3189 
+typefaces The_Times.txt 1 3212 
+northcliffe The_Times.txt 2 1203 1381 
+fiction The_Times.txt 1 4154 
+miss The_Times.txt 1 2136 
+introduction The_Times.txt 3 1777 1954 3216 
+leading The_Times.txt 2 1572 2290 
+passed The_Times.txt 1 769 
+selling The_Times.txt 1 1151 
+part The_Times.txt 4 143 854 1324 1327 
+convinced The_Times.txt 1 966 
+1914 The_Times.txt 2 1212 3957 
+obama The_Times.txt 1 3807 
+double The_Times.txt 1 1441 
+uncanny The_Times.txt 1 1318 
+treated The_Times.txt 1 195 
+fights The_Times.txt 1 1174 
+gale The_Times.txt 2 442 2908 
+retracted The_Times.txt 1 1358 
+majority The_Times.txt 2 3654 3732 
+labour The_Times.txt 5 3622 3639 3644 3680 3778 
+build The_Times.txt 2 663 690 
+added The_Times.txt 1 2413 
+koenig The_Times.txt 1 740 
+measures The_Times.txt 1 1960 
+most The_Times.txt 6 166 1413 1949 3704 3737 4145 
+significant The_Times.txt 1 677 
+sometimes The_Times.txt 1 3154 
+cover The_Times.txt 3 898 1832 2487 
+446,164 The_Times.txt 1 377 
+traditional The_Times.txt 1 3018 
+philby The_Times.txt 2 1439 1467 
+thomas The_Times.txt 1 750 
+summer The_Times.txt 1 2688 
+fond The_Times.txt 1 4203 
+celebrities The_Times.txt 1 2774 
+carefully The_Times.txt 1 161 
+headlines The_Times.txt 1 325 
+font The_Times.txt 5 329 3366 3389 3460 3478 
+completion The_Times.txt 1 1924 
+wolfe The_Times.txt 1 4199 
+northern The_Times.txt 1 2214 
+bfi The_Times.txt 1 3830 
+writer The_Times.txt 1 2796 
+distributed The_Times.txt 1 3919 
+unhappy The_Times.txt 1 600 
+failed The_Times.txt 1 3727 
+bastion The_Times.txt 1 3498 
+8 The_Times.txt 1 1230 
+columns The_Times.txt 5 185 2515 2564 2753 2767 
+his The_Times.txt 21 488 630 652 773 785 918 1045 1143 1166 1471 1543 1692 1934 1944 1948 2085 2103 2114 3396 3814 4212 
+methods The_Times.txt 2 1159 1781 
+courage The_Times.txt 1 1472 
+5,000 The_Times.txt 1 749 
+closely The_Times.txt 2 1403 3969 
+during The_Times.txt 8 1012 1084 1142 1458 1492 1600 2670 2686 
+him The_Times.txt 3 1577 2343 4271 
+left-wing The_Times.txt 1 1524 
+common The_Times.txt 1 102 
+activity The_Times.txt 1 2642 
+wrote The_Times.txt 2 1281 2099 
+set The_Times.txt 1 518 
+achieved The_Times.txt 2 2025 3645 
+intelligence The_Times.txt 2 1104 1490 
+see The_Times.txt 2 16 4297 
+individual The_Times.txt 1 3604 
+are The_Times.txt 15 66 260 1291 1294 1310 2458 2586 2696 2707 2840 2860 3753 3772 4051 4184 
+close The_Times.txt 1 217 
+2.7 The_Times.txt 1 2941 
+declined The_Times.txt 1 3596 
+currently The_Times.txt 1 4052 
+libraries The_Times.txt 2 423 2919 
+crossword The_Times.txt 3 2601 2610 4209 
+unions The_Times.txt 2 1863 1971 
+various The_Times.txt 4 2513 2755 2770 3211 
+numerous The_Times.txt 1 237 
+corruption The_Times.txt 1 994 
+sold The_Times.txt 5 1683 3028 3113 3133 4084 
+both The_Times.txt 4 1765 2197 2867 3566 
+wapping The_Times.txt 3 2036 2060 2357 
+influential The_Times.txt 1 916 
+legibility The_Times.txt 2 314 3402 
+foreign The_Times.txt 4 1094 2073 3795 3815 
+roman The_Times.txt 7 296 3220 3312 3332 3409 3436 3477 
+became The_Times.txt 3 1148 1597 2492 
+whole The_Times.txt 1 187 
+bell The_Times.txt 1 1141 
+reasons The_Times.txt 1 2104 
+acted The_Times.txt 1 3859 
+allegiance The_Times.txt 2 1445 3480 
+pamphlet The_Times.txt 1 1276 
+simply The_Times.txt 1 2785 
+scottish The_Times.txt 2 2655 2666 
+described The_Times.txt 3 3510 4201 4237 
+publishing The_Times.txt 1 1688 
+monthly The_Times.txt 2 4027 4081 
+political The_Times.txt 5 146 841 2082 3479 3743 
+due The_Times.txt 3 1171 1742 2110 
+geoffrey The_Times.txt 1 1400 
+dropping The_Times.txt 1 2239 
+ireland The_Times.txt 3 2215 3889 3921 
+meeting The_Times.txt 1 2315 
+treatment The_Times.txt 1 208 
+flight The_Times.txt 1 2093 
+plants The_Times.txt 1 2360 
+bill The_Times.txt 2 989 1870 
+elections The_Times.txt 3 3561 3577 3796 
+expressly The_Times.txt 1 3578 
+while The_Times.txt 1 176 
+replaced The_Times.txt 1 1990 
+evaluating The_Times.txt 1 4134 
+fleet The_Times.txt 1 2054 
+guide The_Times.txt 2 206 2762 
+century The_Times.txt 4 134 951 1087 1985 
+pompous/satirical The_Times.txt 1 825 
+reads The_Times.txt 1 4233 
+itself The_Times.txt 1 78 
+barnes The_Times.txt 2 751 783 
+widely The_Times.txt 1 293 
+products The_Times.txt 1 2969 
+conflict The_Times.txt 1 1484 
+higher The_Times.txt 3 3148 4118 4124 
+used The_Times.txt 7 294 412 674 1977 3213 3298 3386 
+comprehensive The_Times.txt 1 4068 
+blair The_Times.txt 1 3620 
+uses The_Times.txt 1 15 
+nickname The_Times.txt 1 826 
+fabrication The_Times.txt 1 1247 
+dystopian The_Times.txt 1 4158 
+older The_Times.txt 1 3388 
+redesigned The_Times.txt 1 2235 
+spent The_Times.txt 1 639 
+analysis The_Times.txt 1 2664 
+1788 The_Times.txt 3 53 460 618 
+1784 The_Times.txt 1 494 
+1785 The_Times.txt 5 38 448 472 599 2984 
+using The_Times.txt 5 360 1155 2130 3256 3319 
+delane The_Times.txt 1 791 
+also The_Times.txt 8 1233 1656 2660 2861 3773 3810 3835 4298 
+advertisements The_Times.txt 1 1645 
+exercising The_Times.txt 1 2345 
+barack The_Times.txt 1 3806 
+input The_Times.txt 3 1993 2015 2021 
+reverted The_Times.txt 1 3542 
+march The_Times.txt 5 1962 2521 2828 3066 3120 
+format The_Times.txt 3 338 2228 3446 
+big The_Times.txt 1 4189 
+advocate The_Times.txt 1 3532 
+enthusiastically The_Times.txt 1 984 
+2,069,809 The_Times.txt 1 3117 
+game The_Times.txt 4 2625 2628 2659 2685 
+formal The_Times.txt 2 2160 3226 
+separately The_Times.txt 3 3949 4012 4085 
+communications The_Times.txt 1 2324 
+arthur The_Times.txt 1 1127 
+popular The_Times.txt 1 261 
+saturdays The_Times.txt 1 2499 
+some The_Times.txt 2 181 3748 
+back The_Times.txt 2 920 2584 
+litter The_Times.txt 1 4279 
+sponsorships The_Times.txt 1 3817 
+400,000 The_Times.txt 1 1000 
+per The_Times.txt 4 2888 2938 2955 3034 
+minimal The_Times.txt 1 710 
+be The_Times.txt 4 1898 2009 2374 4141 
+run The_Times.txt 1 1739 
+anecdotes The_Times.txt 1 2787 
+peculiarly The_Times.txt 1 3512 
+agreement The_Times.txt 1 1968 
+bookreflecting The_Times.txt 1 4188 
+by The_Times.txt 36 68 81 300 413 465 490 738 1112 1134 1161 1195 1420 1848 1864 1939 1991 2011 2018 2283 2460 2565 2575 2926 3023 3065 3236 3268 3334 3369 3373 3563 3627 3964 4054 4228 4238 
+russell The_Times.txt 2 903 3788 
+775,188 The_Times.txt 1 3174 
+wickham The_Times.txt 1 1213 
+750,000 The_Times.txt 1 2953 
+into The_Times.txt 2 1498 4172 
+integral The_Times.txt 1 140 
+primarily The_Times.txt 1 3605 
+contributor The_Times.txt 1 2281 
+sports The_Times.txt 1 2711 
+plantin The_Times.txt 1 3391 
+bargaining The_Times.txt 1 1860 
+long The_Times.txt 3 213 2251 3496 
+1.50 The_Times.txt 1 2497 
+sections The_Times.txt 1 2186 
+jewish The_Times.txt 1 1272 
+serif The_Times.txt 1 3328 
+subsidiary The_Times.txt 1 74 
+rhatigan The_Times.txt 1 3303 
+up The_Times.txt 3 436 522 3299 
+lords The_Times.txt 1 2320 
+uk The_Times.txt 2 77 2873 
+rowland The_Times.txt 1 1789 
+called The_Times.txt 3 1261 2540 2555 
+associated The_Times.txt 1 1149 
+influence The_Times.txt 3 793 847 886 
+haxton The_Times.txt 1 1170 
+1895 The_Times.txt 1 4049 
+rupert The_Times.txt 2 1810 1849 
+1890 The_Times.txt 3 450 1115 1125 
+monotype The_Times.txt 6 310 3257 3269 3282 3321 3342 
+polygon The_Times.txt 1 2597 
+peace The_Times.txt 1 943 
+department The_Times.txt 1 3381 
+users The_Times.txt 1 2937 
+sided The_Times.txt 1 1568 
+visits The_Times.txt 1 2920 
+william The_Times.txt 1 1920 
+structure The_Times.txt 1 147 
+viscount The_Times.txt 1 1374 
+hanover The_Times.txt 1 1904 
+sudoku The_Times.txt 2 2592 2594 
+independently The_Times.txt 1 97 
+e The_Times.txt 1 1527 
+rescued The_Times.txt 1 1133 
+required The_Times.txt 1 2875 
+remit The_Times.txt 1 1806 
+2003 The_Times.txt 2 2189 4108 
+2001 The_Times.txt 1 3610 
+2006 The_Times.txt 2 320 407 
+2007 The_Times.txt 1 2314 
+thunderer The_Times.txt 1 828 
+2005 The_Times.txt 5 2232 2550 2801 3025 3642 
+2008 The_Times.txt 2 2286 2350 
+2009 The_Times.txt 4 2733 2945 3177 4033 
+having The_Times.txt 1 3709 
+once The_Times.txt 1 3694 
+ellias The_Times.txt 1 608 
+results The_Times.txt 1 2662 
+grays The_Times.txt 1 2050 
+contributions The_Times.txt 1 675 
+compact The_Times.txt 1 345 
+graves The_Times.txt 1 1341 
+whig The_Times.txt 1 3491 
+send The_Times.txt 1 894 
+intensive The_Times.txt 1 1859 
+quarterly The_Times.txt 1 4014 
+suite The_Times.txt 1 3231 
+author/solicitor The_Times.txt 1 2260 
+include The_Times.txt 3 2536 2563 2790 
+resources The_Times.txt 1 1770 
+continues The_Times.txt 1 2149 
+remade The_Times.txt 1 3267 
+continued The_Times.txt 1 1051 
+categories The_Times.txt 2 4308 4310 
+positions The_Times.txt 1 1500 
+leader The_Times.txt 2 1269 1567 
+harpercollins The_Times.txt 1 4060 
+noted The_Times.txt 1 817 
+concluded The_Times.txt 1 944 
+demonstrations The_Times.txt 1 965 
+makers The_Times.txt 1 669 
+victor The_Times.txt 2 3335 3374 
+index The_Times.txt 1 427 
+shooting-down The_Times.txt 1 2089 
+the-times.co.uk The_Times.txt 1 2832 
+expressed The_Times.txt 1 3811 
+19th The_Times.txt 2 1086 1984 
+collins The_Times.txt 2 3785 4056 
+impact The_Times.txt 1 3870 
+stance The_Times.txt 2 2120 3509 
+respectively The_Times.txt 1 3090 
+commercial The_Times.txt 1 3428 
+growing The_Times.txt 2 871 885 
+invented The_Times.txt 1 531 
+great The_Times.txt 5 149 594 799 987 2809 
+single-stroke The_Times.txt 1 2020 
+31 The_Times.txt 2 1210 2284 
+survey The_Times.txt 1 3180 
+weekday The_Times.txt 2 2207 2570 
+makes The_Times.txt 2 3734 3792 
+holmes The_Times.txt 1 1813 
+named The_Times.txt 1 3390 
+addresses The_Times.txt 2 2247 2303 
+danger The_Times.txt 1 1266 
+win The_Times.txt 1 3649 
+names The_Times.txt 1 2143 
+columnists The_Times.txt 3 3749 3774 3880 
+use The_Times.txt 2 566 2151 
+from The_Times.txt 27 441 457 660 676 829 999 1058 1067 1072 1379 1423 1477 1724 1827 1846 2044 2107 2211 2292 2344 2356 2665 2933 3378 3448 4086 4241 
+remains The_Times.txt 1 366 
+next The_Times.txt 2 3548 3575 
+december The_Times.txt 4 379 459 1546 1726 
+simpler The_Times.txt 1 2602 
+historically The_Times.txt 1 3482 
+gained The_Times.txt 2 820 1385 
+journalists The_Times.txt 3 818 2019 3882 
+on The_Times.txt 32 50 191 469 615 731 838 1207 1229 1623 1631 1907 1936 2087 2144 2155 2202 2229 2272 2323 2379 2386 2453 2494 2498 2519 2525 2547 2634 2754 2769 3290 3978 
+started The_Times.txt 3 3318 4023 4126 
+sister The_Times.txt 1 58 
+appointed The_Times.txt 1 753 
+had The_Times.txt 22 101 371 388 486 556 638 745 1639 1663 1768 1818 1888 2268 2823 2949 2975 3000 3048 3074 3164 3351 3726 
+this The_Times.txt 10 3 207 1882 1996 2027 2448 2700 3264 3733 4079 
+publications The_Times.txt 1 3885 
+meet The_Times.txt 1 1802 
+didnt The_Times.txt 1 3222 
+1.40 The_Times.txt 1 2493 
+control The_Times.txt 1 2347 
+links The_Times.txt 1 4306 
+process The_Times.txt 1 1976 
+fulfillment The_Times.txt 1 1335 
+sought The_Times.txt 1 1752 
+overtly The_Times.txt 1 3487 
+united The_Times.txt 1 3111 
+varied The_Times.txt 1 3738 
+sic The_Times.txt 1 3221 
+establishment The_Times.txt 1 3502 
+pennington The_Times.txt 1 3990 
+abc1 The_Times.txt 1 3191 
+lines The_Times.txt 1 1480 
+940 The_Times.txt 1 613 
+chief The_Times.txt 1 1217 
+tenure The_Times.txt 1 1144 
+800,000 The_Times.txt 1 1003 
+produced The_Times.txt 3 2375 4047 4053 
+including The_Times.txt 2 1785 2737 
+looks The_Times.txt 1 3280 
+superior The_Times.txt 1 1108 
+2015 The_Times.txt 1 3903 
+2014 The_Times.txt 2 3067 3121 
+2017 The_Times.txt 3 3161 3873 3913 
+2016 The_Times.txt 2 380 2485 
+2011 The_Times.txt 1 2959 
+2010 The_Times.txt 5 438 2522 2528 2871 3683 
+2013 The_Times.txt 1 1835 
+2012 The_Times.txt 4 2389 2399 3799 4039 
+originator The_Times.txt 1 290 
+popularly The_Times.txt 1 1598 
+dan The_Times.txt 1 3302 
+practice The_Times.txt 1 2241 
+164-page The_Times.txt 1 4080 
+stout The_Times.txt 1 4194 
+broadsheet The_Times.txt 5 337 368 2198 2208 3449 
+front The_Times.txt 5 452 1479 1633 1637 2409 
+day The_Times.txt 4 835 2508 2956 3035 
+successor The_Times.txt 1 786 
+worlds The_Times.txt 1 1264 
+rothermere The_Times.txt 1 1792 
+edit The_Times.txt 29 447 451 1118 1829 2422 2501 2626 2715 2815 2971 2986 3209 3481 3818 3876 3878 3883 3886 3891 3925 3997 4042 4078 4120 4155 4299 4301 4304 4307 
+warned The_Times.txt 1 1426 
+morris The_Times.txt 1 2265 
+suitors The_Times.txt 1 1783 
+paid-for The_Times.txt 2 3950 4013 
+related The_Times.txt 2 2470 3884 
+society The_Times.txt 2 1655 3954 
+books The_Times.txt 1 2745 
+measure The_Times.txt 2 1387 2033 
+our The_Times.txt 1 2293 
+87 The_Times.txt 1 2927 
+out The_Times.txt 3 832 1551 1988 
+tabloid The_Times.txt 4 2200 2227 3106 3451 
+entertainment The_Times.txt 1 2760 
+wholly The_Times.txt 1 79 
+harold The_Times.txt 2 1941 2991 
+york The_Times.txt 2 252 4214 
+conservatives The_Times.txt 4 3556 3568 3590 3693 
+conflicts The_Times.txt 1 900 
+philip The_Times.txt 2 1340 3784 
+organ The_Times.txt 1 4174 
+resumed The_Times.txt 1 1628 
+could The_Times.txt 1 713 
+1981 The_Times.txt 6 72 1117 1828 1837 1963 2997 
+horace The_Times.txt 1 1162 
+times The_Times.txt 131 1 18 21 55 62 69 85 89 119 136 167 224 246 253 271 274 287 295 305 322 330 333 365 370 387 400 456 462 621 650 673 703 744 796 823 888 953 1018 1062 1099 1120 1147 1186 1240 1349 1357 1378 1566 1596 1704 1707 1824 1831 1839 1843 1981 2003 2007 2042 2064 2125 2234 2354 2412 2424 2491 2503 2559 2609 2721 2751 2764 2817 2821 2893 2897 2900 2967 2973 2999 3027 3073 3144 3152 3163 3172 3182 3218 3254 3310 3317 3325 3330 3357 3384 3407 3431 3434 3462 3506 3614 3752 3790 3820 3829 3888 3922 3929 3933 3946 3972 3980 3988 3994 4001 4009 4018 4022 4040 4043 4067 4075 4103 4117 4123 4168 4208 4235 4246 4262 4292 
+allied The_Times.txt 1 1404 
+suffix The_Times.txt 1 2415 
+evans The_Times.txt 2 1942 2992 
+owned The_Times.txt 2 80 3961 
+quality The_Times.txt 3 3041 3098 3206 
+playlist The_Times.txt 1 2758 
+management The_Times.txt 3 1715 1735 1751 
+publication The_Times.txt 1 585 
+festival The_Times.txt 3 3833 3840 3845 
+adopted The_Times.txt 1 3507 
+forgery The_Times.txt 2 1312 1355 
+655 The_Times.txt 1 2094 
+interests The_Times.txt 1 202 
+523,048 The_Times.txt 1 3085 
+encyclopdia The_Times.txt 1 1153 
+july The_Times.txt 4 1211 2096 2388 2870 
+elite The_Times.txt 1 128 
+ipad The_Times.txt 1 2862 
+moberly The_Times.txt 1 1140 
+grandson The_Times.txt 1 1043 
+steed The_Times.txt 3 1214 1238 1280 
+providing The_Times.txt 1 2855 
+1.4 The_Times.txt 1 3012 
+kenken The_Times.txt 1 2595 
+buy The_Times.txt 1 1822 
+have The_Times.txt 12 99 157 164 211 230 2822 2924 3186 3224 3454 3470 4045 
+newgate The_Times.txt 1 643 
+montgomery The_Times.txt 1 1183 
+issuing The_Times.txt 1 2403 
+which The_Times.txt 9 992 1105 1662 2325 2552 3047 3287 3624 4182 
+trivia The_Times.txt 1 182 
+centre The_Times.txt 1 2455 
+collaboration The_Times.txt 1 307 
+who The_Times.txt 4 1410 1755 1905 2877 
+intentions The_Times.txt 1 3662 
+courtesy The_Times.txt 1 2131 
+eight The_Times.txt 1 2978 
+masthead The_Times.txt 3 1670 1879 2420 
+databases The_Times.txt 1 2909 
+wounded The_Times.txt 1 924 
+parris The_Times.txt 1 3766 
+painting The_Times.txt 1 942 
+uefa The_Times.txt 1 2676 
+mi6 The_Times.txt 1 1491 
+text The_Times.txt 1 2017 
+charles The_Times.txt 1 1138 
+bring The_Times.txt 1 4270 
+democrats The_Times.txt 2 3676 3717 
+supporter The_Times.txt 1 1034 
+staff The_Times.txt 2 94 2000 
+based The_Times.txt 5 10 31 852 3289 3986 
+winner The_Times.txt 1 2805 
+should The_Times.txt 1 1224 
+candidates The_Times.txt 1 3607 
+communist The_Times.txt 2 1557 1616 
+succeeded The_Times.txt 1 1044 
+overall The_Times.txt 1 3731 
+thetimes.ie The_Times.txt 1 3905 
+buyer The_Times.txt 2 1754 1796 
+thomson The_Times.txt 6 1518 1691 1693 1733 1805 1847 
+threepenny The_Times.txt 1 1609 
+shaping The_Times.txt 1 121 
+pro-soviet The_Times.txt 1 1540 
+h The_Times.txt 2 902 1528 
+contain The_Times.txt 1 2591 
+view The_Times.txt 1 1021 
+national The_Times.txt 4 29 282 3178 4149 
+edition The_Times.txt 8 397 2656 2718 2884 3890 3895 3908 3917 
+computer The_Times.txt 1 1992 
+reform The_Times.txt 2 842 988 
+typographically The_Times.txt 1 3363 
+written The_Times.txt 1 3352 
+phased The_Times.txt 1 1987 
+closed The_Times.txt 1 4036 
+millais The_Times.txt 1 941 
+bought The_Times.txt 4 560 1194 1376 1845 
+publishers The_Times.txt 1 4061 
+importance The_Times.txt 1 116 
+efficiency The_Times.txt 1 1959 
+job The_Times.txt 1 489 
+key The_Times.txt 1 2258 
+tls The_Times.txt 2 3936 3959 
+pembrokeshire The_Times.txt 1 2266 
+freely The_Times.txt 1 2905 
+taking The_Times.txt 1 3702 
+fulfilled The_Times.txt 1 1325 
+april The_Times.txt 2 2484 2944 
+figures The_Times.txt 1 678 
+rees-mogg The_Times.txt 1 1921 
+otherwise The_Times.txt 1 970 
+comment The_Times.txt 1 156 
+detailed The_Times.txt 1 426 
+co The_Times.txt 1 3239 
+subscribe The_Times.txt 1 2880 
+withdrawn The_Times.txt 1 2210 
+addition The_Times.txt 1 3854 
+copies The_Times.txt 7 3007 3033 3053 3078 3118 3138 4273 
+richards The_Times.txt 2 3242 3293 
+atlases The_Times.txt 2 4041 4044 
+league The_Times.txt 5 2644 2647 2649 2652 2668 
+coordinated The_Times.txt 1 162 
+general The_Times.txt 5 159 754 3517 3611 3684 
+harmsworth The_Times.txt 1 1200 
+spain The_Times.txt 1 1457 
+homes The_Times.txt 1 2781 
+abandoned The_Times.txt 1 1675 
+as The_Times.txt 35 244 268 473 553 555 1052 1256 1353 1589 1607 1701 1918 1943 2072 2081 2179 2181 2253 2734 2773 2994 3250 3273 3275 3392 3511 3632 3634 3724 3760 3781 3860 3941 4202 4236 
+promoted The_Times.txt 1 1497 
+discontinuation The_Times.txt 1 2530 
+periods The_Times.txt 1 214 
+britains The_Times.txt 1 4093 
+nero The_Times.txt 1 4198 
+site The_Times.txt 2 2853 2948 
+helped The_Times.txt 2 662 876 
+partner The_Times.txt 1 3863 
+began The_Times.txt 6 36 323 1931 2192 2546 3255 
+cross The_Times.txt 1 2363 
+matthew The_Times.txt 1 3765 
+largest The_Times.txt 1 3196 
+party The_Times.txt 7 3538 3572 3600 3671 3758 3779 4179 
+android The_Times.txt 1 2864 
+material The_Times.txt 1 2471 
+reporting The_Times.txt 1 1476 
+upon The_Times.txt 1 1923 
+scholars The_Times.txt 1 414 
+correspondent The_Times.txt 4 906 1346 1452 2074 
+off The_Times.txt 1 2812 
+i The_Times.txt 2 1228 3276 
+colour The_Times.txt 1 2378 
+well The_Times.txt 2 1535 2180 
+fighting The_Times.txt 1 1549 
+con-lib The_Times.txt 1 3581 
+english The_Times.txt 2 3339 3501 
+position The_Times.txt 2 1759 1800 
+soviet The_Times.txt 2 1448 1509 
+less The_Times.txt 1 1055 
+increasingly The_Times.txt 1 3522 
+executive The_Times.txt 1 1168 
+obtain The_Times.txt 1 656 
+sources The_Times.txt 1 1114 
+interim The_Times.txt 1 2032 
+seats The_Times.txt 1 3707 
+adoption The_Times.txt 1 858 
+increased The_Times.txt 2 844 996 
+government The_Times.txt 3 1409 3623 3723 
+famine The_Times.txt 1 982 
+five The_Times.txt 3 3461 3550 3576 
+press The_Times.txt 3 736 864 1075 
+variants The_Times.txt 1 3472 
+like The_Times.txt 1 3281 
+lost The_Times.txt 1 487 
+sizes The_Times.txt 1 2201 
+journalism The_Times.txt 1 111 
+admitted The_Times.txt 1 180 
+lawson The_Times.txt 2 766 777 
+journalist The_Times.txt 1 2067 
+james The_Times.txt 3 765 4225 4231 
+waltham The_Times.txt 1 2362 
+replacement The_Times.txt 1 1945 
+accessible The_Times.txt 1 2906 
+because The_Times.txt 3 417 505 601 
+championship The_Times.txt 1 2648 
+home The_Times.txt 1 4215 
+empire The_Times.txt 2 1223 3504 
+peter The_Times.txt 1 810 
+timesonline The_Times.txt 1 2947 
+transport The_Times.txt 1 362 
+hurricane The_Times.txt 1 512 
+murdoch The_Times.txt 3 1811 1930 2333 
+analysed The_Times.txt 1 114 
+ridley The_Times.txt 1 3769 
+conveyed The_Times.txt 1 1111 
+murdochs The_Times.txt 1 1850 
+although The_Times.txt 4 277 3519 3630 3808 
+stage The_Times.txt 1 1602 
+throne The_Times.txt 1 1909 
+about The_Times.txt 5 6 1282 1881 2102 3813 
+lifestyle The_Times.txt 3 2514 2616 2740 
+column The_Times.txt 1 2574 
+introduced The_Times.txt 2 1160 2932 
+own The_Times.txt 1 2294 
+letters The_Times.txt 5 2237 2249 2270 2275 2308 
+previously The_Times.txt 6 1635 1819 1886 2558 3858 3918 
+times2 The_Times.txt 2 2500 2511 
+criticised The_Times.txt 1 2532 
+tiny The_Times.txt 1 1788 
+thesundaytimes.co.uk The_Times.txt 1 2852 
+prompted The_Times.txt 1 1713 
+1986 The_Times.txt 1 2039 
+1982 The_Times.txt 1 1966 
+1980 The_Times.txt 1 1826 
+rivals The_Times.txt 1 719 
+transfer The_Times.txt 1 2704 
+1988 The_Times.txt 2 2076 2097 
+continental The_Times.txt 2 657 1103 
+appointing The_Times.txt 1 1940 
+timess The_Times.txt 2 929 1216 
+but The_Times.txt 14 342 651 1029 1057 1130 1884 2147 2523 3398 3440 3492 3602 3708 3770 
+gain The_Times.txt 1 3729 
+highest The_Times.txt 3 3059 3094 3188 
+he The_Times.txt 6 500 568 576 1485 2079 2098 
+made The_Times.txt 3 3235 3399 3410 
+official The_Times.txt 2 1113 2394 
+record The_Times.txt 1 4090 
+stories The_Times.txt 1 2115 
+ruling The_Times.txt 1 4178 
+gloated The_Times.txt 1 1306 
+distribution The_Times.txt 2 285 865 
+walter The_Times.txt 10 468 479 485 515 559 624 636 1040 1129 1182 
+irish The_Times.txt 2 980 3893 
+reservations The_Times.txt 1 3812 
+universal The_Times.txt 4 44 476 591 607 
+penny The_Times.txt 2 1074 1622 
+inn The_Times.txt 1 2051 
+jenni The_Times.txt 1 3787 
+collier The_Times.txt 1 1868 
+dawson The_Times.txt 1 1401 
+education The_Times.txt 3 4119 4125 4136 
+second-highest The_Times.txt 2 3037 3092 
+compared The_Times.txt 1 3079 
+variety The_Times.txt 1 2724 
+corporation The_Times.txt 3 311 1694 1734 
+detail The_Times.txt 1 2101 
+40 The_Times.txt 2 3438 3667 
+other The_Times.txt 8 14 238 258 834 946 2279 3259 4267 
+details The_Times.txt 1 2637 
+branch The_Times.txt 1 3340 
+monday The_Times.txt 1 26 
+june The_Times.txt 5 406 1834 2122 2231 3912 
+matt The_Times.txt 1 3768 
+repeal The_Times.txt 1 956 
+sunday-times.co.uk The_Times.txt 1 2834 
+gardens The_Times.txt 1 2783 

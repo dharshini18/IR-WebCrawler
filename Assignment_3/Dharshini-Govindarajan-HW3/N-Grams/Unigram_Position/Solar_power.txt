@@ -1,0 +1,1854 @@
+limited Solar_power.txt 5 726 1523 3223 3328 3344 
+todays Solar_power.txt 1 5329 
+saves Solar_power.txt 1 6009 
+four Solar_power.txt 2 1674 6755 
+facilities Solar_power.txt 3 1347 3959 5418 
+consists Solar_power.txt 2 854 2969 
+kassel Solar_power.txt 1 5598 
+eligible Solar_power.txt 1 3961 
+electricity Solar_power.txt 67 9 131 188 251 346 357 378 550 774 849 1054 1583 1664 1673 1695 1904 1913 2116 2132 2185 2195 2270 2281 2324 2343 2676 2701 2714 2813 2884 3055 3067 3130 3144 3165 3174 3228 3268 3443 3447 3595 3630 3653 3802 3880 3930 4425 4544 4628 4631 4701 4731 4830 5056 5063 5084 5090 5110 5464 6138 6148 6326 6428 6532 7060 7073 7228 
+segments Solar_power.txt 1 2591 
+under Solar_power.txt 9 322 1683 1942 3451 3793 4075 5247 5692 6786 
+alternating Solar_power.txt 1 623 
+risk Solar_power.txt 1 2779 
+rise Solar_power.txt 1 4726 
+every Solar_power.txt 1 3926 
+lignite Solar_power.txt 2 7026 7043 
+affect Solar_power.txt 1 3153 
+0.753.5 Solar_power.txt 1 6279 
+companies Solar_power.txt 5 2776 2784 2850 3552 5290 
+commons Solar_power.txt 1 7335 
+ps10 Solar_power.txt 2 59 1126 
+0.25/kwh Solar_power.txt 1 2719 
+estimates Solar_power.txt 1 6029 
+direct Solar_power.txt 2 601 3026 
+watt-peak Solar_power.txt 1 2311 
+estimated Solar_power.txt 10 1272 2175 2366 2630 2653 6075 6243 6254 6462 7139 
+machines Solar_power.txt 1 3320 
+even Solar_power.txt 4 2350 3375 3838 4019 
+profitability Solar_power.txt 1 3275 
+asia Solar_power.txt 2 1502 2981 
+fossil Solar_power.txt 5 446 2441 2807 5322 5766 
+new Solar_power.txt 7 1237 2087 2167 3726 4122 4205 6108 
+net Solar_power.txt 8 3571 3573 3589 3619 3670 3803 4421 5071 
+increasing Solar_power.txt 4 414 1259 1609 3215 
+connected Solar_power.txt 2 635 668 
+mechanisms Solar_power.txt 1 3421 
+hundreds Solar_power.txt 1 272 
+reported Solar_power.txt 2 2547 7173 
+china Solar_power.txt 9 313 364 1504 1566 1599 1806 2649 4010 7320 
+usd/watt Solar_power.txt 1 581 
+100 Solar_power.txt 3 2613 4621 7151 
+105 Solar_power.txt 1 6012 
+obtained Solar_power.txt 1 3152 
+0.39 Solar_power.txt 1 4316 
+study Solar_power.txt 3 6527 6586 7244 
+economics Solar_power.txt 2 1976 3155 
+tolerating Solar_power.txt 1 3545 
+credit Solar_power.txt 2 5081 5088 
+analysts Solar_power.txt 1 1708 
+permit Solar_power.txt 1 717 
+california Solar_power.txt 14 245 927 1750 1975 2092 2705 3828 4236 4287 4290 4344 4827 6771 6781 
+suitable Solar_power.txt 1 4878 
+changes Solar_power.txt 1 3627 
+appropriately Solar_power.txt 1 5145 
+wikimedia Solar_power.txt 1 7334 
+replace Solar_power.txt 2 112 5391 
+brought Solar_power.txt 2 1311 2070 
+total Solar_power.txt 4 376 1554 4784 5923 
+unit Solar_power.txt 3 93 2285 6426 
+would Solar_power.txt 9 335 350 361 1217 5274 5949 6098 6120 6168 
+negative Solar_power.txt 1 4837 
+call Solar_power.txt 1 3688 
+redox Solar_power.txt 1 5487 
+averaging Solar_power.txt 1 4338 
+type Solar_power.txt 2 6399 6508 
+until Solar_power.txt 1 1989 
+successful Solar_power.txt 2 4038 4150 
+99 Solar_power.txt 1 5043 
+life-cycle Solar_power.txt 8 5796 5910 6031 6455 7005 7035 7052 7219 
+91 Solar_power.txt 1 6714 
+90 Solar_power.txt 1 2423 
+hold Solar_power.txt 1 2021 
+tariff Solar_power.txt 7 2212 3578 3796 4073 4167 4404 5075 
+must Solar_power.txt 3 3585 4580 4716 
+subsity Solar_power.txt 1 3881 
+1994 Solar_power.txt 1 4043 
+cheapest Solar_power.txt 1 3952 
+work Solar_power.txt 1 553 
+roof Solar_power.txt 2 1240 4256 
+mw Solar_power.txt 14 226 306 1172 1641 1744 1784 1839 1869 1876 1883 1960 4401 4479 5754 
+temperatures Solar_power.txt 1 4995 
+install Solar_power.txt 3 2392 3250 5309 
+example Solar_power.txt 4 1078 3063 4824 5009 
+stagnated Solar_power.txt 1 1248 
+give Solar_power.txt 3 1061 3986 5077 
+organized Solar_power.txt 1 2362 
+550 Solar_power.txt 2 1743 1764 
+sunrays Solar_power.txt 1 7194 
+end Solar_power.txt 8 1562 1633 1723 2623 4048 4143 4366 6169 
+provide Solar_power.txt 8 405 914 3302 3322 4452 4486 5030 5611 
+how Solar_power.txt 3 3053 3254 4656 
+hot Solar_power.txt 3 2957 3288 4189 
+toxic Solar_power.txt 1 6921 
+regional Solar_power.txt 1 5664 
+earlier Solar_power.txt 1 2853 
+modest Solar_power.txt 1 4337 
+lay Solar_power.txt 1 5928 
+microgram/kwh Solar_power.txt 2 7042 7049 
+law Solar_power.txt 1 1979 
+types Solar_power.txt 1 5491 
+purchase Solar_power.txt 4 2096 2403 2770 3906 
+effective Solar_power.txt 1 4977 
+facilitate Solar_power.txt 1 3364 
+homeowners Solar_power.txt 1 3648 
+stand-alone Solar_power.txt 1 714 
+greek Solar_power.txt 2 4224 4253 
+complexity Solar_power.txt 1 3824 
+maintain Solar_power.txt 1 6336 
+green Solar_power.txt 1 4384 
+decreasing Solar_power.txt 1 6221 
+687 Solar_power.txt 1 6618 
+operate Solar_power.txt 2 5691 6706 
+order Solar_power.txt 1 4131 
+wind Solar_power.txt 11 2252 2466 2788 4569 5127 5504 5606 5889 6474 7237 7261 
+operations Solar_power.txt 7 718 2162 6454 6460 6482 6540 6606 
+over Solar_power.txt 18 1044 1517 1905 2422 3536 3681 3692 3740 3767 4060 4097 4154 4414 4505 5115 5321 6386 7002 
+6.2 Solar_power.txt 1 7044 
+12.5 Solar_power.txt 1 1592 
+japan Solar_power.txt 6 1339 1355 1506 2707 4013 4051 
+before Solar_power.txt 1 6175 
+fit Solar_power.txt 7 3749 4095 4203 4225 4300 4308 4314 
+50,000 Solar_power.txt 1 1176 
+better Solar_power.txt 2 1117 3845 
+production Solar_power.txt 9 379 2068 3616 3888 5417 5783 6204 6214 6986 
+hidden Solar_power.txt 1 7337 
+then Solar_power.txt 5 645 767 834 4898 5649 
+them Solar_power.txt 3 2022 3283 4248 
+combination Solar_power.txt 5 144 2249 3426 4797 5502 
+utility-scale Solar_power.txt 7 267 1405 2168 2529 2646 6459 7276 
+break Solar_power.txt 1 2349 
+they Solar_power.txt 8 2472 3760 3941 4981 5085 5221 5399 6850 
+payback Solar_power.txt 6 3047 6180 6183 6217 6237 6305 
+silver Solar_power.txt 1 530 
+bank Solar_power.txt 1 2629 
+1.00 Solar_power.txt 1 2657 
+hydroelectricity Solar_power.txt 4 4528 4852 4884 6143 
+each Solar_power.txt 5 3675 4128 5516 5524 5552 
+recirculating Solar_power.txt 1 6895 
+side Solar_power.txt 1 4805 
+377 Solar_power.txt 1 1838 
+890 Solar_power.txt 1 6557 
+schemes Solar_power.txt 1 1115 
+financial Solar_power.txt 5 2200 3352 3470 3754 4001 
+durability Solar_power.txt 1 3547 
+392 Solar_power.txt 1 225 
+used Solar_power.txt 26 183 810 835 976 1005 1012 3186 3424 4548 4597 5007 5052 5179 5183 5327 5358 5461 5478 5975 6750 6894 6936 6961 7066 7120 7149 
+trading Solar_power.txt 1 5102 
+combining Solar_power.txt 1 5650 
+laboratory Solar_power.txt 2 6023 6592 
+collector Solar_power.txt 1 738 
+2050enough Solar_power.txt 1 1667 
+high-temperature Solar_power.txt 1 4970 
+driving Solar_power.txt 1 2757 
+diesel Solar_power.txt 1 2809 
+semiconductor Solar_power.txt 1 6938 
+encourage Solar_power.txt 2 2203 4133 
+adapt Solar_power.txt 1 4561 
+millions Solar_power.txt 1 265 
+independence Solar_power.txt 1 3409 
+dishwashers Solar_power.txt 1 3315 
+linear Solar_power.txt 6 796 857 884 943 1007 1112 
+voltages Solar_power.txt 1 621 
+free Solar_power.txt 2 2395 4284 
+standard Solar_power.txt 2 3629 4377 
+curtailment Solar_power.txt 1 3225 
+formation Solar_power.txt 1 1344 
+enormous Solar_power.txt 1 5316 
+created Solar_power.txt 2 568 2198 
+1940s Solar_power.txt 1 559 
+inexpensive Solar_power.txt 1 284 
+days Solar_power.txt 2 1199 4897 
+silicon Solar_power.txt 4 570 6263 6292 7096 
+1970s Solar_power.txt 1 6886 
+moving Solar_power.txt 1 4588 
+onto Solar_power.txt 3 741 863 961 
+industrial Solar_power.txt 1 4105 
+primary Solar_power.txt 1 115 
+unspecified Solar_power.txt 1 6809 
+another Solar_power.txt 1 6297 
+clarity Solar_power.txt 1 3987 
+170 Solar_power.txt 1 5993 
+2050 Solar_power.txt 2 328 1698 
+rated Solar_power.txt 1 4503 
+service Solar_power.txt 2 3701 3746 
+cooling Solar_power.txt 12 4683 6548 6571 6601 6695 6721 6752 6818 6820 6838 6868 6899 
+approximately Solar_power.txt 1 5992 
+needed Solar_power.txt 1 5160 
+rates Solar_power.txt 1 4270 
+percentage Solar_power.txt 2 1580 2229 
+ranging Solar_power.txt 1 3711 
+serve Solar_power.txt 1 5434 
+wastes Solar_power.txt 1 3227 
+predictable Solar_power.txt 2 4636 4774 
+distance Solar_power.txt 2 437 1955 
+target Solar_power.txt 1 3891 
+zero Solar_power.txt 1 6990 
+nations Solar_power.txt 2 392 419 
+project Solar_power.txt 3 1857 5712 6777 
+solely Solar_power.txt 1 182 
+ran Solar_power.txt 1 4036 
+longyangxia Solar_power.txt 2 307 1798 
+gonghe Solar_power.txt 1 1803 
+manner Solar_power.txt 1 2418 
+seen Solar_power.txt 1 1952 
+1970 Solar_power.txt 1 1361 
+contents Solar_power.txt 1 387 
+relatively Solar_power.txt 2 4212 6967 
+implemented Solar_power.txt 1 3404 
+4,500 Solar_power.txt 1 1670 
+biogas Solar_power.txt 1 5607 
+luxury Solar_power.txt 1 2468 
+solar-thermal Solar_power.txt 1 4186 
+acquire Solar_power.txt 1 2226 
+2.90 Solar_power.txt 1 2641 
+troughs Solar_power.txt 1 7291 
+2.99 Solar_power.txt 1 2122 
+eliminates Solar_power.txt 1 5988 
+involving Solar_power.txt 1 1624 
+germany Solar_power.txt 11 1358 3065 3189 3206 3837 4011 4090 4246 4534 4826 5751 
+phase Solar_power.txt 2 5755 5934 
+zealand Solar_power.txt 1 6109 
+calculated Solar_power.txt 1 3050 
+m Solar_power.txt 3 5025 7256 7305 
+points Solar_power.txt 1 881 
+tech Solar_power.txt 1 3411 
+principle Solar_power.txt 2 3947 4108 
+consumer Solar_power.txt 3 3606 3609 3759 
+consumes Solar_power.txt 2 6477 6646 
+came Solar_power.txt 1 6593 
+gas-fired Solar_power.txt 1 5846 
+supplied Solar_power.txt 1 3603 
+earth Solar_power.txt 1 3017 
+nevada Solar_power.txt 3 930 936 6640 
+availability Solar_power.txt 2 1260 4629 
+heliostats Solar_power.txt 1 1092 
+overwhelming Solar_power.txt 1 4541 
+implementation Solar_power.txt 1 7233 
+accelerate Solar_power.txt 1 1411 
+rich Solar_power.txt 1 2471 
+do Solar_power.txt 2 2886 3113 
+above Solar_power.txt 2 3383 3718 
+10 Solar_power.txt 4 2873 4266 4400 6379 
+fluid Solar_power.txt 3 825 893 966 
+25,000 Solar_power.txt 1 1175 
+despite Solar_power.txt 1 5377 
+report Solar_power.txt 5 2517 3641 6680 6691 6734 
+pearson Solar_power.txt 1 562 
+countries Solar_power.txt 9 677 702 1513 1626 2727 3848 4007 4220 4323 
+public Solar_power.txt 1 5706 
+bad Solar_power.txt 1 4907 
+gigafactory Solar_power.txt 1 5422 
+respond Solar_power.txt 1 4763 
+roadmap Solar_power.txt 1 2513 
+observed Solar_power.txt 1 3010 
+depends Solar_power.txt 1 2906 
+result Solar_power.txt 2 2382 3784 
+best Solar_power.txt 3 788 916 3686 
+techniques Solar_power.txt 5 808 5140 5675 6362 6978 
+said Solar_power.txt 2 2429 2450 
+capacity Solar_power.txt 15 398 1170 1556 1611 1654 1997 2316 2331 3213 3523 4058 4362 4504 4697 4989 
+away Solar_power.txt 1 5566 
+wikipedia Solar_power.txt 1 2 
+artificial Solar_power.txt 3 5625 5668 5714 
+discovery Solar_power.txt 1 517 
+we Solar_power.txt 1 2451 
+rolled Solar_power.txt 2 3680 5114 
+component Solar_power.txt 2 5556 6939 
+however Solar_power.txt 8 1243 2542 3103 3270 4564 4926 5384 7157 
+carbon Solar_power.txt 5 5652 5867 5939 5952 6000 
+ranges Solar_power.txt 1 2582 
+climate Solar_power.txt 1 2921 
+day/night Solar_power.txt 1 4651 
+country Solar_power.txt 3 435 1157 6131 
+conclusions Solar_power.txt 1 6596 
+heating Solar_power.txt 1 3294 
+against Solar_power.txt 1 2493 
+kwh/m2/year Solar_power.txt 2 6068 6093 
+0.30.9 Solar_power.txt 1 6999 
+sodiumsulfur Solar_power.txt 1 5484 
+receiver Solar_power.txt 3 865 873 1099 
+exceeds Solar_power.txt 2 3797 5228 
+ernst Solar_power.txt 1 504 
+expense Solar_power.txt 1 4947 
+lenses Solar_power.txt 2 150 758 
+libyan Solar_power.txt 1 3006 
+kwh Solar_power.txt 10 1994 2298 2322 3071 3694 3928 4318 4413 5814 7001 
+kwp Solar_power.txt 2 3078 3091 
+initiative Solar_power.txt 3 2545 2561 4292 
+loaded Solar_power.txt 1 2733 
+250 Solar_power.txt 1 6874 
+conference Solar_power.txt 1 2357 
+three Solar_power.txt 6 42 1940 2758 3419 5763 6760 
+been Solar_power.txt 9 2387 3009 3185 4148 4833 6220 7056 7148 7213 
+quickly Solar_power.txt 1 4744 
+subsidy Solar_power.txt 1 3493 
+96 Solar_power.txt 1 2050 
+much Solar_power.txt 7 979 2548 2990 3054 4657 6198 7030 
+expected Solar_power.txt 4 2820 4152 5408 6364 
+dots Solar_power.txt 1 106 
+dry Solar_power.txt 3 6694 6751 6803 
+life Solar_power.txt 2 5883 5924 
+kilowatt-hour Solar_power.txt 4 2108 2125 3792 5813 
+eastern Solar_power.txt 2 2999 5750 
+sunshine Solar_power.txt 2 1336 2948 
+locations Solar_power.txt 2 2923 3970 
+chile Solar_power.txt 1 1527 
+has Solar_power.txt 22 252 261 968 1498 1544 2365 2386 2428 2546 3008 3195 3832 4147 4268 4817 5320 5508 6219 6483 6910 6925 7055 
+tank Solar_power.txt 1 5027 
+2040 Solar_power.txt 1 4782 
+lessen Solar_power.txt 1 4169 
+economies Solar_power.txt 2 3393 5411 
+csp-capacity Solar_power.txt 1 1638 
+near Solar_power.txt 3 933 5396 6769 
+balance Solar_power.txt 2 5155 6402 
+seven Solar_power.txt 1 3101 
+mexico Solar_power.txt 1 1530 
+equator Solar_power.txt 1 5569 
+is Solar_power.txt 88 5 73 123 229 280 303 476 690 826 833 874 888 896 1076 1741 1797 1849 1892 2274 2292 2437 2677 2688 2819 2916 3049 3056 3123 3131 3139 3145 3166 3236 3362 3381 3483 3507 3597 3610 3777 3816 3844 3892 3903 3920 4113 4124 4162 4282 4336 4483 4547 4552 4585 4602 4610 4632 4647 4664 4678 4840 4880 4901 5006 5159 5240 5254 5303 5544 5560 5618 5823 5980 6191 6201 6307 6322 6340 6461 6654 6667 6880 6914 6935 6966 7040 7138 7159 
+it Solar_power.txt 16 1270 2048 2385 3584 3646 3782 3940 4584 4594 5017 5253 5312 5627 6934 7054 7137 
+in Solar_power.txt 186 37 54 65 221 236 240 300 311 319 363 498 518 532 557 573 675 681 692 700 744 818 926 991 1013 1073 1171 1207 1241 1249 1254 1268 1278 1331 1338 1348 1374 1391 1437 1480 1598 1643 1677 1706 1714 1747 1775 1794 1802 1834 1845 1885 1953 1970 1991 2001 2057 2067 2079 2098 2110 2118 2171 2239 2294 2375 2396 2410 2416 2419 2443 2478 2497 2506 2553 2568 2592 2596 2626 2637 2648 2692 2704 2708 2722 2750 2796 2798 2827 2839 2877 2903 2930 2938 2975 3037 3064 3098 3104 3156 3187 3202 3205 3425 3502 3562 3588 3636 3725 3785 3827 3846 3882 3946 3966 4055 4063 4083 4089 4130 4157 4204 4259 4285 4325 4350 4390 4532 4616 4644 4665 4672 4685 4699 4722 4795 4820 4825 4856 4906 4969 5022 5044 5200 5205 5328 5359 5394 5424 5440 5563 5578 5621 5638 5700 5749 5803 5835 5907 5929 5941 5963 5967 5969 6025 6229 6233 6250 6281 6375 6662 6669 6746 6778 6790 6863 6930 6940 6952 6962 6979 7050 7083 7091 7165 7251 7318 
+if Solar_power.txt 4 3932 5307 5817 7059 
+grown Solar_power.txt 1 262 
+overstated Solar_power.txt 1 7214 
+hong Solar_power.txt 1 38 
+make Solar_power.txt 2 2153 5655 
+cumulative Solar_power.txt 2 1570 1637 
+complex Solar_power.txt 2 1787 1969 
+potentially Solar_power.txt 3 4611 5829 7238 
+several Solar_power.txt 3 1485 5197 5289 
+0.26 Solar_power.txt 1 7268 
+european Solar_power.txt 1 1495 
+independent Solar_power.txt 1 3530 
+peaks Solar_power.txt 2 6150 6157 
+subsystems Solar_power.txt 1 5557 
+hand Solar_power.txt 1 6499 
+bloomberg Solar_power.txt 1 2086 
+cycle Solar_power.txt 5 4922 4928 5845 5884 5925 
+1979 Solar_power.txt 1 1298 
+programs Solar_power.txt 3 1323 2213 5076 
+settled Solar_power.txt 1 5124 
+1974 Solar_power.txt 1 1269 
+1973 Solar_power.txt 1 1294 
+ocean Solar_power.txt 1 2256 
+practices Solar_power.txt 1 3687 
+claims Solar_power.txt 1 7210 
+the Solar_power.txt 435 40 55 58 66 103 113 124 176 195 222 224 230 237 241 247 254 264 292 294 301 304 314 344 352 486 489 499 501 513 520 538 552 558 569 590 608 627 654 660 670 769 787 791 794 799 803 813 829 868 872 879 883 894 900 915 923 969 992 1000 1020 1039 1062 1068 1125 1164 1200 1208 1224 1250 1255 1258 1293 1308 1326 1332 1335 1343 1349 1375 1379 1392 1426 1438 1441 1454 1462 1518 1537 1561 1568 1577 1593 1632 1645 1679 1715 1722 1736 1763 1770 1776 1782 1788 1795 1835 1837 1850 1863 1870 1887 1893 1901 1948 1954 1958 1980 2002 2005 2013 2016 2018 2033 2038 2058 2157 2172 2181 2190 2204 2271 2284 2288 2307 2336 2339 2345 2348 2355 2411 2470 2479 2499 2511 2518 2559 2569 2588 2593 2597 2622 2638 2668 2672 2683 2710 2725 2731 2744 2764 2817 2843 2855 2878 2898 2913 2922 2931 2960 2965 2989 3005 3013 3043 3046 3060 3092 3107 3121 3127 3129 3142 3147 3154 3159 3170 3218 3257 3259 3331 3354 3373 3377 3388 3392 3401 3430 3435 3440 3442 3449 3469 3474 3480 3486 3491 3499 3508 3521 3525 3540 3591 3594 3598 3601 3605 3608 3613 3642 3662 3683 3734 3753 3758 3762 3775 3780 3788 3798 3807 3810 3814 3817 3820 3823 3840 3874 3877 3895 3899 3918 3933 3944 3951 3956 3967 3973 4015 4023 4025 4047 4053 4065 4069 4076 4092 4094 4099 4104 4107 4110 4119 4134 4142 4145 4166 4170 4199 4209 4221 4252 4289 4312 4330 4351 4358 4365 4369 4383 4388 4402 4424 4430 4433 4448 4464 4477 4494 4506 4514 4540 4725 4751 4773 4899 4921 4933 4941 4946 5011 5068 5083 5093 5096 5104 5135 5157 5187 5206 5217 5236 5248 5299 5315 5334 5343 5355 5388 5395 5421 5426 5455 5467 5470 5501 5509 5512 5519 5531 5535 5554 5568 5587 5595 5629 5701 5705 5729 5745 5752 5758 5782 5785 5795 5804 5836 5882 5903 5908 5930 5935 5942 5965 5973 5989 6006 6018 6027 6039 6044 6048 6083 6094 6107 6113 6117 6125 6130 6181 6192 6209 6216 6224 6230 6235 6303 6308 6323 6330 6337 6342 6345 6369 6376 6407 6411 6421 6436 6497 6501 6535 6566 6588 6632 6639 6649 6671 6675 6689 6740 6747 6754 6759 6764 6773 6791 6837 6842 6858 6864 6885 6887 6915 6926 6953 6957 6981 7003 7012 7018 7021 7069 7084 7092 7098 7104 7108 7118 7166 7192 7209 7231 7243 7247 7283 7296 
+investments Solar_power.txt 1 2361 
+left Solar_power.txt 1 3739 
+seasonal Solar_power.txt 2 5561 5576 
+just Solar_power.txt 3 373 2121 4326 
+photo Solar_power.txt 1 527 
+financially Solar_power.txt 1 4249 
+identify Solar_power.txt 1 2579 
+mechanism Solar_power.txt 3 1448 3871 3884 
+li-ion Solar_power.txt 1 5427 
+plug-in Solar_power.txt 1 5430 
+catalytic Solar_power.txt 1 5688 
+had Solar_power.txt 1 7299 
+countrys Solar_power.txt 1 6126 
+inefficiencies Solar_power.txt 1 4938 
+save Solar_power.txt 1 3080 
+andasol Solar_power.txt 2 1871 4515 
+municipal Solar_power.txt 1 2258 
+possible Solar_power.txt 1 5256 
+opa Solar_power.txt 2 4373 4431 
+background Solar_power.txt 1 67 
+highly Solar_power.txt 1 2598 
+county Solar_power.txt 4 1749 1804 1974 6780 
+58 Solar_power.txt 1 6730 
+50 Solar_power.txt 1 1069 
+specific Solar_power.txt 1 4987 
+night Solar_power.txt 4 720 4606 4904 5181 
+security Solar_power.txt 2 1471 5720 
+cooled Solar_power.txt 1 1287 
+schematics Solar_power.txt 1 461 
+people Solar_power.txt 1 5308 
+fresnel Solar_power.txt 3 797 944 1008 
+36 Solar_power.txt 1 7112 
+meters Solar_power.txt 1 3631 
+cdte Solar_power.txt 1 6941 
+for Solar_power.txt 92 13 74 189 611 658 836 1461 1484 1987 2009 2046 2053 2104 2120 2166 2352 2389 2394 2398 2525 2532 2587 2603 2632 2645 2700 2715 2741 2780 2865 2949 3062 3162 3238 3305 3360 3689 3707 3853 3868 3922 3925 4003 4188 4232 4262 4301 4309 4393 4619 4823 5008 5033 5082 5184 5196 5203 5479 5523 5573 5589 5709 5838 6034 6053 6061 6112 6261 6269 6290 6453 6458 6469 6552 6559 6573 6597 6610 6615 6620 6624 6629 6846 6856 6948 7017 7121 7150 7163 7224 7260 7281 
+electromagnetic Solar_power.txt 1 5636 
+daytime Solar_power.txt 1 4682 
+buffer Solar_power.txt 1 6946 
+expires Solar_power.txt 1 4324 
+530 Solar_power.txt 1 6578 
+24-hour Solar_power.txt 2 848 1909 
+manufacturing Solar_power.txt 3 5943 7019 7085 
+permitted Solar_power.txt 1 5246 
+plug Solar_power.txt 2 5260 5292 
+months Solar_power.txt 1 5764 
+costs Solar_power.txt 12 2014 2152 2165 2238 2631 2644 2699 3149 4140 4279 4943 5376 
+plus Solar_power.txt 1 4940 
+islands Solar_power.txt 1 2803 
+efforts Solar_power.txt 1 1341 
+automatically Solar_power.txt 1 3640 
+raised Solar_power.txt 1 6912 
+facility Solar_power.txt 3 1843 4531 6768 
+low-cost Solar_power.txt 2 3303 4983 
+administer Solar_power.txt 1 3498 
+kwh/kw Solar_power.txt 1 3076 
+reducing Solar_power.txt 1 4695 
+methods Solar_power.txt 1 5682 
+east Solar_power.txt 1 2983 
+ps20 Solar_power.txt 2 61 1131 
+oecd Solar_power.txt 3 2726 2745 2879 
+initial Solar_power.txt 1 3366 
+sunlight Solar_power.txt 10 129 162 727 740 766 831 960 1002 1052 1738 
+fraction Solar_power.txt 1 5133 
+resulted Solar_power.txt 1 4082 
+150,000 Solar_power.txt 1 1180 
+was Solar_power.txt 23 381 493 508 1210 1271 1492 1769 1779 2718 2735 2793 4096 4427 5760 6043 6242 6253 6549 6563 6607 6697 7258 7285 
+therefore Solar_power.txt 1 5545 
+lowest Solar_power.txt 2 6422 7259 
+medium Solar_power.txt 3 4304 4979 5580 
+offering Solar_power.txt 1 4293 
+offer Solar_power.txt 3 3553 4226 4378 
+becoming Solar_power.txt 1 282 
+heat Solar_power.txt 5 771 3296 4988 4993 7190 
+solar Solar_power.txt 185 0 11 17 20 27 30 44 51 62 79 101 119 121 140 146 201 215 233 250 258 268 278 309 329 333 349 359 370 396 423 432 449 470 491 571 577 632 729 734 749 755 804 921 931 1022 1043 1083 1127 1132 1152 1154 1160 1168 1187 1193 1196 1204 1229 1246 1290 1316 1401 1490 1590 1601 1628 1652 1688 1719 1739 1758 1767 1785 1800 1808 1815 1821 1827 1841 1853 1865 1872 1879 1934 1961 1968 1984 2010 2039 2055 2102 2114 2160 2169 2193 2207 2251 2314 2353 2359 2435 2464 2484 2514 2716 2774 2858 2896 2901 2908 2927 3024 3044 3251 3309 3340 3460 3860 3878 3958 3993 4255 4291 4525 4538 4566 4600 4630 4646 4662 4677 4689 4730 4746 4790 4811 4839 4859 4886 4953 4956 4965 5012 5129 5295 5319 5506 5540 5558 5590 5605 5635 5733 5770 5800 5818 5821 5947 5955 5978 5983 6035 6045 6055 6118 6155 6166 6415 6441 6472 6490 6543 6633 6641 6766 6775 6942 7155 7176 7203 7235 7277 7293 7316 7331 
+225 Solar_power.txt 1 3081 
+carbon-capture Solar_power.txt 1 6517 
+arrays Solar_power.txt 1 644 
+inside Solar_power.txt 1 636 
+devices Solar_power.txt 2 5439 5948 
+3.5 Solar_power.txt 1 6259 
+solars Solar_power.txt 1 5896 
+panels Solar_power.txt 5 80 5786 5979 5984 7064 
+examples Solar_power.txt 1 1136 
+150 Solar_power.txt 3 1868 1875 1882 
+adopt Solar_power.txt 1 2277 
+3.50 Solar_power.txt 1 2586 
+3.1 Solar_power.txt 1 7041 
+trip Solar_power.txt 1 4937 
+constructed Solar_power.txt 1 494 
+no Solar_power.txt 5 2140 2457 3626 6479 7160 
+whereas Solar_power.txt 2 78 6154 
+when Solar_power.txt 8 3137 3246 3742 4838 5095 5126 5226 5238 
+role Solar_power.txt 1 5215 
+developers Solar_power.txt 1 3994 
+roll Solar_power.txt 1 3691 
+phoenix Solar_power.txt 1 6087 
+solana Solar_power.txt 1 4480 
+utilities Solar_power.txt 3 2223 3487 4688 
+fell Solar_power.txt 1 6277 
+invested Solar_power.txt 1 6313 
+authorities Solar_power.txt 2 3431 3781 
+discharge Solar_power.txt 1 5371 
+reorganization Solar_power.txt 1 1303 
+longer Solar_power.txt 2 1056 2458 
+salt Solar_power.txt 3 4449 4522 5495 
+modules Solar_power.txt 10 637 638 2017 2143 6965 7022 7070 7097 7156 7312 
+together Solar_power.txt 2 641 7103 
+swathes Solar_power.txt 1 2972 
+time Solar_power.txt 12 3048 3537 3657 3772 4638 4761 5456 6184 6193 6218 6238 6306 
+roi Solar_power.txt 1 6350 
+measurements Solar_power.txt 1 3022 
+chain Solar_power.txt 1 2766 
+global Solar_power.txt 7 1422 1651 1663 1694 2961 3029 5711 
+focus Solar_power.txt 2 157 816 
+segs Solar_power.txt 2 924 1965 
+leads Solar_power.txt 2 5787 7028 
+supplement Solar_power.txt 1 403 
+abundant Solar_power.txt 1 2695 
+75,000 Solar_power.txt 1 1177 
+95 Solar_power.txt 2 5452 6716 
+megawatts Solar_power.txt 1 274 
+environment Solar_power.txt 1 6114 
+charge Solar_power.txt 1 5223 
+810 Solar_power.txt 1 6550 
+daryl Solar_power.txt 1 566 
+fritts Solar_power.txt 2 497 1222 
+southwest Solar_power.txt 1 2980 
+2.50/watt Solar_power.txt 1 3566 
+advantage Solar_power.txt 4 970 1889 5318 5510 
+choice Solar_power.txt 1 4295 
+tanks Solar_power.txt 3 3291 4450 4519 
+little Solar_power.txt 2 6122 6451 
+governments Solar_power.txt 1 2196 
+1700 Solar_power.txt 2 3090 6067 
+perceived Solar_power.txt 1 3786 
+clouds Solar_power.txt 1 2944 
+level Solar_power.txt 2 1468 1622 
+1996 Solar_power.txt 1 1386 
+hawaii Solar_power.txt 3 2445 2800 4829 
+standards Solar_power.txt 1 2217 
+loads Solar_power.txt 2 3312 5194 
+round Solar_power.txt 1 4936 
+greenhouse Solar_power.txt 2 5793 6127 
+unexpected Solar_power.txt 1 2778 
+893 Solar_power.txt 1 5857 
+cost Solar_power.txt 25 248 579 1977 2000 2007 2026 2049 2158 2182 2191 2268 2279 2287 2341 2673 2712 2734 2754 2856 3088 3094 3378 3436 3482 4342 
+penetrated Solar_power.txt 1 2599 
+barstow Solar_power.txt 1 6770 
+oxide Solar_power.txt 1 536 
+current Solar_power.txt 10 174 295 484 602 624 1482 1789 2503 4276 6991 
+goes Solar_power.txt 1 4466 
+international Solar_power.txt 5 315 1646 2356 2519 4032 
+falling Solar_power.txt 1 1371 
+boost Solar_power.txt 1 2066 
+wet-cooling Solar_power.txt 2 6444 6494 
+filled Solar_power.txt 1 889 
+transportation Solar_power.txt 2 5933 5945 
+lange Solar_power.txt 1 524 
+french Solar_power.txt 1 4222 
+water Solar_power.txt 28 3289 4190 4861 4890 4911 5643 6015 6413 6423 6438 6452 6456 6480 6486 6523 6537 6568 6603 6652 6666 6685 6709 6725 6824 6830 6839 6843 6853 
+address Solar_power.txt 1 5717 
+alone Solar_power.txt 2 3858 5046 
+along Solar_power.txt 3 867 878 907 
+alto Solar_power.txt 1 2091 
+gigawatts Solar_power.txt 1 7152 
+precursor Solar_power.txt 1 4381 
+bos Solar_power.txt 1 6405 
+wherever Solar_power.txt 1 672 
+usually Solar_power.txt 6 615 2941 3622 4553 4758 5195 
+lighthouses Solar_power.txt 1 698 
+regardless Solar_power.txt 1 2233 
+extra Solar_power.txt 1 3481 
+retires Solar_power.txt 1 3939 
+operational Solar_power.txt 1 6567 
+crisis Solar_power.txt 1 1300 
+market Solar_power.txt 4 2590 2601 3870 6232 
+open-pit Solar_power.txt 1 5740 
+russell Solar_power.txt 1 555 
+working Solar_power.txt 3 824 892 965 
+intensively Solar_power.txt 1 5402 
+chapin Solar_power.txt 1 567 
+france Solar_power.txt 2 4192 4238 
+scenarios Solar_power.txt 1 4624 
+theoretical Solar_power.txt 1 1579 
+commissioner Solar_power.txt 1 6111 
+towers Solar_power.txt 7 64 1104 1941 6572 6602 6900 7294 
+india Solar_power.txt 4 366 1528 2444 2651 
+cases Solar_power.txt 4 3038 3106 4822 5202 
+trackers Solar_power.txt 1 7317 
+car Solar_power.txt 1 5468 
+afternoons Solar_power.txt 1 6160 
+modified Solar_power.txt 1 5340 
+exaggerated Solar_power.txt 1 7216 
+printing Solar_power.txt 1 7123 
+can Solar_power.txt 27 974 988 1010 1105 2244 2946 3221 3261 3301 3321 3621 3720 3963 4460 4470 4560 4595 4743 4767 4862 4923 4929 4991 5064 5141 5222 6987 
+growing Solar_power.txt 2 382 1510 
+making Solar_power.txt 2 4208 4247 
+metal Solar_power.txt 1 6923 
+reflector Solar_power.txt 3 798 859 895 
+figure Solar_power.txt 1 2072 
+mirrors Solar_power.txt 5 152 760 957 973 983 
+subsidies Solar_power.txt 9 2483 2492 2838 3429 3468 3513 4041 4298 6358 
+confused Solar_power.txt 1 25 
+1980s Solar_power.txt 3 223 1377 1836 
+hydrogen Solar_power.txt 3 2262 5583 5646 
+occur Solar_power.txt 1 5526 
+parliamentary Solar_power.txt 1 6110 
+requirements Solar_power.txt 2 4476 5286 
+winter Solar_power.txt 2 4686 6152 
+secured Solar_power.txt 1 2101 
+1 Solar_power.txt 8 374 545 2310 2319 5423 5756 6805 6808 
+pilot-tested Solar_power.txt 1 5599 
+parameter Solar_power.txt 1 6042 
+economy Solar_power.txt 1 1261 
+product Solar_power.txt 1 2337 
+may Solar_power.txt 8 3276 3342 3494 3783 4959 5433 6520 7211 
+use Solar_power.txt 20 149 452 613 628 686 768 949 1925 2139 2205 2806 4960 5169 5630 6414 6449 6822 6916 7013 7223 
+southern Solar_power.txt 2 2978 6071 
+applications Solar_power.txt 2 193 694 
+produce Solar_power.txt 3 2812 5086 5645 
+designed Solar_power.txt 1 4484 
+improving Solar_power.txt 2 1427 6213 
+such Solar_power.txt 14 695 713 1324 2209 2702 3313 3558 4967 5276 5419 5539 5581 5657 6897 
+data Solar_power.txt 1 2084 
+grow Solar_power.txt 3 1607 3372 5153 
+natural Solar_power.txt 7 1420 4713 4740 6581 6630 7046 7262 
+vanadium Solar_power.txt 1 5486 
+whenever Solar_power.txt 1 4583 
+a/mwh Solar_power.txt 2 7257 7306 
+africas Solar_power.txt 1 2998 
+switch Solar_power.txt 1 5936 
+ghg Solar_power.txt 4 6032 6050 6076 6095 
+so Solar_power.txt 1 4457 
+typical Solar_power.txt 2 2006 6069 
+refund Solar_power.txt 1 3432 
+serving Solar_power.txt 1 3901 
+canberra Solar_power.txt 1 1074 
+e/kwh Solar_power.txt 2 6081 6106 
+kong Solar_power.txt 1 39 
+course Solar_power.txt 1 4507 
+1%-efficient Solar_power.txt 1 1232 
+solder Solar_power.txt 2 7099 7167 
+birds Solar_power.txt 1 7186 
+tendency Solar_power.txt 1 6927 
+emits Solar_power.txt 1 5849 
+conjunction Solar_power.txt 1 4857 
+rooftop Solar_power.txt 7 36 210 1227 1400 2608 2635 7265 
+thumb Solar_power.txt 1 2303 
+methanol Solar_power.txt 1 5659 
+forms Solar_power.txt 2 4692 5149 
+offers Solar_power.txt 1 3565 
+2400 Solar_power.txt 1 6092 
+policy Solar_power.txt 2 1447 5707 
+decreased Solar_power.txt 1 5831 
+main Solar_power.txt 8 458 731 1729 1811 2662 3349 3500 4438 
+uptake Solar_power.txt 1 6164 
+texas Solar_power.txt 1 3563 
+finance Solar_power.txt 1 2089 
+disparate Solar_power.txt 1 6028 
+100,000 Solar_power.txt 1 1178 
+1954 Solar_power.txt 1 574 
+half Solar_power.txt 2 2498 2868 
+not Solar_power.txt 12 22 1522 2887 3057 3114 4603 4881 5245 5283 5773 6341 7199 
+now Solar_power.txt 4 1353 2474 4598 5671 
+provision Solar_power.txt 1 3278 
+killed Solar_power.txt 1 7182 
+matched Solar_power.txt 1 4680 
+down Solar_power.txt 3 2073 4467 4721 
+term Solar_power.txt 2 2401 5575 
+stabilize Solar_power.txt 1 5186 
+load-following Solar_power.txt 1 5612 
+fossil-based Solar_power.txt 1 2131 
+entirely Solar_power.txt 2 1284 7089 
+weighted Solar_power.txt 1 5841 
+honduras Solar_power.txt 1 1575 
+significantly Solar_power.txt 3 3167 3382 4671 
+sunlights Solar_power.txt 1 609 
+year Solar_power.txt 6 1548 2326 3083 4129 4510 5534 
+eu Solar_power.txt 1 4322 
+small-scale Solar_power.txt 2 3367 5360 
+canada Solar_power.txt 2 1526 4374 
+space Solar_power.txt 1 996 
+furthermore Solar_power.txt 1 4281 
+increase Solar_power.txt 1 3287 
+dioxide Solar_power.txt 2 5653 6001 
+suggesting Solar_power.txt 1 5570 
+after Solar_power.txt 1 4463 
+cars Solar_power.txt 1 5432 
+million Solar_power.txt 1 1712 
+incentives Solar_power.txt 7 2201 3183 3348 3353 3850 4002 4345 
+20 Solar_power.txt 2 4340 4931 
+advantages Solar_power.txt 1 1040 
+besides Solar_power.txt 1 3284 
+golmud Solar_power.txt 1 7319 
+fixed Solar_power.txt 2 1459 4407 
+ministry Solar_power.txt 1 4030 
+impose Solar_power.txt 1 2218 
+place Solar_power.txt 3 533 3015 6980 
+510 Solar_power.txt 1 6969 
+first Solar_power.txt 9 41 219 490 1226 1757 1832 2794 4070 4389 
+constantly Solar_power.txt 1 6222 
+one Solar_power.txt 9 453 932 1711 3077 3581 5962 6642 6878 6907 
+soaring Solar_power.txt 1 1475 
+gases Solar_power.txt 1 5794 
+directly Solar_power.txt 1 133 
+array Solar_power.txt 5 33 591 1088 1230 4539 
+needsand Solar_power.txt 1 4191 
+engineer Solar_power.txt 2 522 2833 
+city Solar_power.txt 3 935 1239 5746 
+given Solar_power.txt 3 4434 4667 7250 
+subtropics Solar_power.txt 1 2935 
+2 Solar_power.txt 2 2321 6288 
+returns Solar_power.txt 1 6840 
+biopolymers Solar_power.txt 1 5656 
+national Solar_power.txt 6 3407 5250 5662 6020 6147 6589 
+gives Solar_power.txt 1 1450 
+mining Solar_power.txt 1 5741 
+that Solar_power.txt 44 71 321 479 860 971 985 1215 1273 1449 1650 1682 1710 1751 2029 2041 2071 2100 2222 2367 2430 2804 4179 4458 4576 5270 5306 5511 5690 6038 6116 6534 6638 6693 6699 6738 6828 6909 6924 7058 7101 7140 7174 7230 7246 
+continuous Solar_power.txt 1 4627 
+accurately Solar_power.txt 1 3633 
+released Solar_power.txt 2 4867 6004 
+eliminated Solar_power.txt 1 7090 
+than Solar_power.txt 22 544 981 1111 1121 1627 2135 2682 2867 2951 3100 3169 4151 4245 4321 4399 5242 5551 5895 6565 6825 6877 6902 
+11 Solar_power.txt 4 340 1660 1703 6247 
+wide Solar_power.txt 1 780 
+12 Solar_power.txt 2 2378 6465 
+15 Solar_power.txt 2 5833 6783 
+14 Solar_power.txt 1 7288 
+17 Solar_power.txt 1 2187 
+16 Solar_power.txt 2 338 1699 
+18 Solar_power.txt 1 7304 
+require Solar_power.txt 2 3277 4793 
+future Solar_power.txt 8 3974 4171 4352 4620 5207 5397 5437 5837 
+were Solar_power.txt 11 180 218 1283 1831 2414 2652 5921 6758 6798 6802 7065 
+photosynthesis Solar_power.txt 3 5626 5669 5715 
+seri Solar_power.txt 1 1352 
+and Solar_power.txt 193 60 88 153 191 266 331 339 348 365 565 582 657 721 761 802 815 832 887 928 984 1055 1116 1130 1143 1158 1262 1266 1297 1310 1334 1357 1362 1398 1419 1425 1456 1472 1505 1507 1514 1536 1553 1574 1623 1702 1877 2037 2062 2109 2133 2142 2163 2186 2304 2344 2421 2447 2465 2528 2595 2605 2650 2697 2706 2746 2777 2787 2801 2814 2872 2915 2920 2934 2945 2984 2995 3072 3084 3111 3116 3133 3150 3190 3234 3242 3253 3274 3318 3347 3414 3459 3528 3544 3548 3607 3617 3639 3644 3649 3830 3894 3938 3962 3991 3997 4014 4018 4034 4159 4214 4223 4239 4303 4306 4329 4387 4442 4468 4556 4568 4618 4635 4642 4653 4720 4727 4739 4755 4766 4828 4905 4990 5073 5120 5128 5199 5230 5261 5293 5348 5372 5374 5380 5404 5473 5485 5496 5505 5533 5548 5608 5663 5686 5721 5869 5874 5890 5905 5932 5944 6008 6144 6146 6205 6249 6266 6294 6335 6360 6406 6430 6518 6556 6626 6705 6772 6807 6849 6944 6971 6975 7023 7025 7045 7125 7132 7206 7236 7264 7270 7273 7287 7292 
+solarex Solar_power.txt 1 5961 
+san Solar_power.txt 1 1972 
+investors Solar_power.txt 2 2374 2390 
+turned Solar_power.txt 1 421 
+argument Solar_power.txt 1 3501 
+deutsche Solar_power.txt 1 2628 
+any Solar_power.txt 8 920 2027 2128 2248 4666 5121 5776 6506 
+conversion Solar_power.txt 3 125 617 1109 
+form Solar_power.txt 4 643 2129 2959 6954 
+efficient Solar_power.txt 1 4453 
+manufacturers Solar_power.txt 2 1595 2790 
+note Solar_power.txt 1 70 
+equipment Solar_power.txt 2 4816 6338 
+potential Solar_power.txt 2 99 5389 
+take Solar_power.txt 1 4759 
+coincide Solar_power.txt 1 3115 
+atop Solar_power.txt 1 1100 
+200 Solar_power.txt 1 5872 
+begin Solar_power.txt 2 3370 4924 
+incentivizes Solar_power.txt 1 3176 
+multiple Solar_power.txt 1 631 
+normal Solar_power.txt 1 3027 
+track Solar_power.txt 1 812 
+price Solar_power.txt 15 1460 2581 2684 3160 3171 3592 3602 3789 3799 3811 3821 3875 4101 4106 4408 
+paid Solar_power.txt 6 3161 3515 3706 3732 3790 3812 
+falls Solar_power.txt 2 3472 3756 
+america Solar_power.txt 3 1282 2997 4392 
+annum Solar_power.txt 1 386 
+especially Solar_power.txt 3 95 674 1503 
+considered Solar_power.txt 1 3245 
+average Solar_power.txt 3 68 5450 6285 
+later Solar_power.txt 2 1676 5178 
+ways Solar_power.txt 1 6682 
+senior Solar_power.txt 1 5698 
+typically Solar_power.txt 2 1915 2144 
+surplus Solar_power.txt 2 5123 5175 
+show Solar_power.txt 1 107 
+german Solar_power.txt 7 502 521 2600 4066 4077 4111 4210 
+cheap Solar_power.txt 1 5687 
+fifty Solar_power.txt 1 2405 
+0.49 Solar_power.txt 1 7269 
+scarce Solar_power.txt 2 1220 6668 
+0.42 Solar_power.txt 1 4410 
+ratio Solar_power.txt 1 6324 
+3 Solar_power.txt 1 1926 
+deployments Solar_power.txt 1 1479 
+only Solar_power.txt 7 1274 3326 3580 4768 6473 6513 6873 
+black Solar_power.txt 1 105 
+parabolic Solar_power.txt 12 737 792 852 858 885 911 956 982 1026 1058 1966 7290 
+contracts Solar_power.txt 3 4123 4206 4850 
+expectation Solar_power.txt 1 1214 
+cannot Solar_power.txt 1 5098 
+nearly Solar_power.txt 1 1612 
+hedge Solar_power.txt 1 3998 
+installed Solar_power.txt 12 394 1223 1555 2313 2415 3211 3526 3567 3965 4056 4156 4363 
+water-consumption Solar_power.txt 1 6503 
+median Solar_power.txt 2 6536 6859 
+yield Solar_power.txt 1 3535 
+predicted Solar_power.txt 5 1649 1709 2736 2834 2851 
+mapped Solar_power.txt 1 3033 
+where Solar_power.txt 7 3248 3376 3809 4593 4876 4920 6665 
+relative Solar_power.txt 2 1432 3148 
+ga/mwhr Solar_power.txt 1 6551 
+concern Solar_power.txt 1 5305 
+federal Solar_power.txt 1 1327 
+subsequent Solar_power.txt 1 6690 
+review Solar_power.txt 1 5267 
+representatives Solar_power.txt 1 938 
+materials Solar_power.txt 1 5689 
+behind Solar_power.txt 2 4109 4871 
+between Solar_power.txt 3 1360 3232 3615 
+reading Solar_power.txt 1 7327 
+across Solar_power.txt 3 3485 4006 4020 
+vertical Solar_power.txt 1 2761 
+25 Solar_power.txt 1 2146 
+approvals Solar_power.txt 1 3826 
+screen Solar_power.txt 1 7122 
+concentrate Solar_power.txt 3 765 959 1094 
+analyzed Solar_power.txt 1 5825 
+article Solar_power.txt 9 4 459 732 1730 1812 2663 3350 5268 5909 
+concentrated Solar_power.txt 15 43 139 145 214 332 728 733 748 754 830 1159 1600 4955 7175 7193 
+reaction Solar_power.txt 1 4723 
+786 Solar_power.txt 1 6613 
+installation Solar_power.txt 8 228 1999 2504 2551 3087 3258 3438 4278 
+22 Solar_power.txt 1 5807 
+implementing Solar_power.txt 1 4949 
+many Solar_power.txt 9 390 663 950 1921 3105 3157 5660 6392 6811 
+region Solar_power.txt 1 2905 
+according Solar_power.txt 3 2082 3018 6353 
+contract Solar_power.txt 3 3454 3983 4118 
+s Solar_power.txt 2 2831 6273 
+concentrates Solar_power.txt 2 739 861 
+among Solar_power.txt 5 509 786 1065 6420 6435 
+period Solar_power.txt 3 1910 3770 4416 
+werner Solar_power.txt 1 505 
+learning Solar_power.txt 1 1982 
+68 Solar_power.txt 2 2075 5024 
+moreover Solar_power.txt 2 3179 7117 
+combines Solar_power.txt 1 1024 
+mounting Solar_power.txt 1 4163 
+combined Solar_power.txt 2 5601 5844 
+prototype Solar_power.txt 1 539 
+renewables Solar_power.txt 3 325 1451 1686 
+engine Solar_power.txt 1 1032 
+631 Solar_power.txt 1 6394 
+enable Solar_power.txt 1 5275 
+bernardino Solar_power.txt 1 1973 
+offered Solar_power.txt 1 3852 
+nrel Solar_power.txt 4 1354 6024 6073 6736 
+geothermal Solar_power.txt 3 2257 5876 6145 
+careful Solar_power.txt 1 5271 
+former Solar_power.txt 1 5739 
+those Solar_power.txt 1 510 
+paying Solar_power.txt 1 3943 
+developing Solar_power.txt 2 701 1315 
+these Solar_power.txt 10 575 682 821 2753 2956 4973 5078 5148 6275 7008 
+policies Solar_power.txt 3 1306 3359 3402 
+meter-years Solar_power.txt 1 7253 
+cigs Solar_power.txt 1 6950 
+metric Solar_power.txt 1 7143 
+equal Solar_power.txt 1 2678 
+middle Solar_power.txt 1 2982 
+converts Solar_power.txt 1 480 
+technology Solar_power.txt 11 286 922 941 1081 1139 1174 1190 2512 5357 5593 6696 
+different Solar_power.txt 4 2589 3021 3656 5528 
+develop Solar_power.txt 1 5674 
+pay Solar_power.txt 1 2371 
+wiring Solar_power.txt 1 2023 
+same Solar_power.txt 5 993 3599 3818 6084 6343 
+prevented Solar_power.txt 1 3833 
+buys Solar_power.txt 2 3445 3935 
+once-through Solar_power.txt 3 6817 6867 6903 
+status Solar_power.txt 1 1483 
+oil Solar_power.txt 3 1295 1372 1418 
+sahara Solar_power.txt 1 3000 
+srec Solar_power.txt 3 3924 3937 3982 
+drives Solar_power.txt 1 1035 
+driven Solar_power.txt 2 1211 1493 
+wired Solar_power.txt 1 640 
+footprint Solar_power.txt 3 7249 7284 7298 
+renewable Solar_power.txt 19 289 441 2215 2231 2460 3461 3861 3886 3907 3953 4078 4395 4573 4622 5615 6021 6140 6173 6590 
+tracking Solar_power.txt 5 154 762 906 1090 1113 
+intermittent Solar_power.txt 3 4648 4748 4787 
+euro-cts Solar_power.txt 1 1992 
+without Solar_power.txt 5 2482 2491 2837 3224 4703 
+termination Solar_power.txt 1 3699 
+reward Solar_power.txt 1 3761 
+dimension Solar_power.txt 1 3256 
+researchers Solar_power.txt 3 560 5699 6074 
+charged Solar_power.txt 1 3822 
+summer Solar_power.txt 2 4674 6159 
+210 Solar_power.txt 1 6583 
+being Solar_power.txt 6 276 4747 5401 5824 5830 6003 
+579 Solar_power.txt 1 1783 
+grid-storage Solar_power.txt 1 5185 
+bi-directional Solar_power.txt 1 3587 
+renewed Solar_power.txt 1 1312 
+generator Solar_power.txt 1 1038 
+4 Solar_power.txt 1 6749 
+extensive Solar_power.txt 1 2971 
+scheduled Solar_power.txt 3 4347 4472 4770 
+propped Solar_power.txt 1 83 
+psh Solar_power.txt 1 4529 
+around Solar_power.txt 5 1163 1307 2334 2640 2847 
+virginia Solar_power.txt 1 5968 
+early Solar_power.txt 8 576 1198 1201 1251 1376 1389 1439 4182 
+department Solar_power.txt 1 6676 
+inflation Solar_power.txt 1 2047 
+grid Solar_power.txt 35 671 1455 2034 2660 2664 2666 2686 2785 2791 2823 2835 2863 2883 3061 3128 3143 3192 3200 3219 3384 3399 3663 3801 4436 4443 4704 4799 5070 5094 5105 5136 5158 5189 5219 5237 
+using Solar_power.txt 10 10 134 138 175 485 529 1231 3661 6082 7289 
+vehicle-to-grid Solar_power.txt 1 5442 
+unsubsidised Solar_power.txt 1 2434 
+heightened Solar_power.txt 1 6655 
+pounds Solar_power.txt 2 5994 5998 
+reduces Solar_power.txt 1 7239 
+annually Solar_power.txt 1 5125 
+either Solar_power.txt 3 132 1014 3703 
+output Solar_power.txt 5 4459 4469 4579 5032 5144 
+tower Solar_power.txt 5 806 1085 1102 6554 6617 
+reduced Solar_power.txt 1 6100 
+japanese Solar_power.txt 1 4026 
+microgram Solar_power.txt 1 7000 
+2010s Solar_power.txt 1 1390 
+geesthacht Solar_power.txt 1 4533 
+generates Solar_power.txt 2 2317 6133 
+provided Solar_power.txt 4 372 4462 5091 5414 
+crystalline Solar_power.txt 3 6262 6291 7095 
+pre-sell Solar_power.txt 1 3996 
+tube Solar_power.txt 2 743 876 
+critical Solar_power.txt 2 5718 6041 
+power Solar_power.txt 134 1 45 52 63 120 122 141 147 216 234 269 298 334 371 397 433 450 467 595 604 652 706 715 730 735 750 805 837 1084 1103 1128 1133 1155 1161 1169 1188 1291 1407 1602 1689 1720 1727 1734 1745 1773 1792 1809 1817 1822 1829 1842 1855 1866 1873 1880 1923 2011 2103 2161 2208 2232 2354 2402 2436 2461 2485 2495 2687 2769 2775 2782 2859 2902 3252 3310 3341 3534 3543 3635 4371 4567 4570 4663 4735 4812 4845 4860 4887 4954 4957 4999 5014 5060 5137 5152 5471 5536 5542 5559 5602 5613 5735 5771 5801 5847 5855 5861 5878 5892 5940 6177 6188 6416 6432 6442 6447 6475 6491 6511 6544 6553 6598 6744 6761 6767 6814 6861 6891 7016 7081 7177 7204 7301 7332 
+industrialized Solar_power.txt 1 391 
+credits Solar_power.txt 8 3695 3697 3724 3730 3741 3863 4000 5111 
+1931 Solar_power.txt 1 519 
+thailand Solar_power.txt 1 1535 
+refers Solar_power.txt 1 3805 
+on Solar_power.txt 36 34 427 1096 1235 1321 1453 2306 2358 2907 3016 3052 3330 3336 3612 3842 4138 4173 4777 4895 5156 5216 5298 5667 5713 5738 5816 6124 6151 6158 6311 6318 6348 6397 6496 6681 7313 
+central Solar_power.txt 1 1098 
+steam-driven Solar_power.txt 1 777 
+of Solar_power.txt 286 8 16 48 100 126 161 187 244 249 256 273 343 356 368 375 416 454 462 515 534 546 554 585 592 629 687 725 782 820 855 882 919 939 955 995 999 1041 1050 1079 1089 1137 1148 1151 1167 1186 1203 1245 1257 1264 1280 1304 1345 1365 1381 1395 1430 1443 1469 1477 1489 1512 1542 1563 1581 1631 1634 1661 1672 1693 1724 1732 1760 1814 1890 1903 1930 1957 2015 2130 2156 2159 2180 2183 2189 2192 2206 2230 2234 2250 2269 2280 2286 2296 2302 2312 2323 2333 2338 2342 2407 2432 2469 2510 2537 2571 2583 2610 2624 2674 2685 2713 2724 2743 2763 2768 2816 2842 2857 2869 2874 2900 2970 2973 2993 3023 3039 3042 3069 3074 3089 3109 3120 3172 3199 3210 3279 3308 3339 3357 3379 3394 3416 3434 3437 3439 3504 3510 3520 3524 3531 3542 3593 3693 3700 3764 3771 3800 3825 3876 3929 3976 4031 4040 4049 4086 4121 4202 4271 4273 4296 4315 4341 4357 4360 4367 4397 4409 4417 4447 4489 4501 4508 4520 4543 4639 4658 4693 4729 4783 4798 4810 4844 4932 4948 4952 5003 5041 5107 5134 5150 5342 5412 5429 5451 5454 5492 5503 5530 5538 5553 5594 5597 5624 5631 5683 5695 5728 5747 5757 5784 5791 5799 5806 5840 5887 5898 5913 5946 5972 5991 5995 5999 6014 6030 6047 6066 6070 6078 6091 6104 6136 6165 6186 6208 6226 6239 6286 6325 6366 6371 6378 6400 6403 6410 6427 6505 6509 6531 6541 6651 6677 6739 6782 6794 6836 6889 6917 6955 6959 6998 7007 7014 7020 7033 7072 7094 7107 7114 7130 7145 7153 7185 7208 7221 7227 7234 
+industry Solar_power.txt 5 2273 3374 3389 4035 4135 
+discussed Solar_power.txt 1 5906 
+generated Solar_power.txt 6 1463 1588 2115 2291 3879 6327 
+practical Solar_power.txt 1 612 
+acp Solar_power.txt 2 3917 3945 
+stand Solar_power.txt 2 3857 5045 
+act Solar_power.txt 2 4080 4386 
+tariffs Solar_power.txt 6 1445 3479 3506 3748 3752 4195 
+baseload Solar_power.txt 1 4848 
+or Solar_power.txt 39 142 151 404 472 597 622 699 704 759 839 1016 1286 1659 2225 2263 2680 2720 3118 3266 3298 3705 3717 3889 3909 3916 4102 4299 4803 4866 5584 5648 5820 5865 6315 6580 6788 6819 7181 7215 
+burning Solar_power.txt 2 5990 7075 
+variable Solar_power.txt 3 4572 4634 5151 
+harness Solar_power.txt 1 288 
+references Solar_power.txt 1 7324 
+heated Solar_power.txt 2 827 1285 
+insolation Solar_power.txt 10 69 2040 2309 2346 3073 4244 6046 6060 6065 6090 
+technically Solar_power.txt 2 3898 5255 
+area Solar_power.txt 3 94 109 160 
+1.24/w Solar_power.txt 1 2620 
+desert Solar_power.txt 5 243 1737 1848 3001 3007 
+greenhouse-gas Solar_power.txt 2 5797 5911 
+low Solar_power.txt 5 2655 2939 4918 5369 5938 
+lot Solar_power.txt 1 4843 
+media Solar_power.txt 2 7170 7328 
+enough Solar_power.txt 2 5028 6384 
+positioned Solar_power.txt 2 866 877 
+technologies Solar_power.txt 16 389 456 784 1067 1124 1205 1247 1317 1436 2266 5326 5769 6215 6272 6993 7308 
+promote Solar_power.txt 1 3406 
+with Solar_power.txt 59 26 57 118 271 607 678 890 964 1029 1417 1565 1938 1947 2127 2440 2694 2924 3066 3085 3207 3264 3292 3295 3325 3466 3477 3625 3669 3750 4059 4153 4184 4813 4858 4997 5038 5057 5103 5651 5827 5866 6064 6089 6283 6363 6419 6434 6443 6493 6516 6546 6570 6600 6816 6866 6972 7267 7279 7303 
+1020 Solar_power.txt 1 2335 
+wholesale Solar_power.txt 3 2095 3713 3735 
+emissions Solar_power.txt 17 3418 5778 5798 5912 5926 5953 6033 6051 6077 6096 6129 6983 6997 7009 7032 7037 7078 
+36,350 Solar_power.txt 1 6870 
+ohl Solar_power.txt 1 556 
+ac Solar_power.txt 2 625 659 
+vehicles Solar_power.txt 1 5446 
+pollution-related Solar_power.txt 1 7240 
+certain Solar_power.txt 4 619 693 2228 6949 
+general Solar_power.txt 1 2829 
+as Solar_power.txt 55 184 246 367 696 711 1325 1402 1404 1630 1759 2210 2283 2299 2380 2431 2536 2654 2656 2703 2880 2882 2986 2988 3004 3314 3427 3517 3559 3600 3664 3719 3737 3819 4354 4874 4968 5147 5161 5220 5398 5420 5435 5582 5658 5897 5900 6197 6200 6244 6344 6793 6898 6937 6945 7135 
+reliability Solar_power.txt 1 5368 
+at Solar_power.txt 27 85 96 383 653 719 722 1560 1917 2453 2670 3134 3455 3654 3708 3733 4091 4275 4364 4432 4605 4903 4994 5180 5527 6086 6763 7333 
+lifetime Solar_power.txt 3 1057 5379 6206 
+film Solar_power.txt 1 6271 
+again Solar_power.txt 2 1412 4925 
+hybrid Solar_power.txt 4 1140 5541 6719 6806 
+field Solar_power.txt 2 5623 5702 
+5 Solar_power.txt 3 1919 1928 4327 
+flat-panel Solar_power.txt 1 6470 
+evenings Solar_power.txt 1 6153 
+poor Solar_power.txt 1 3546 
+coherence Solar_power.txt 1 5681 
+congress Solar_power.txt 1 6673 
+separate Solar_power.txt 1 3180 
+shiftable Solar_power.txt 1 3311 
+includes Solar_power.txt 2 4536 6417 
+important Solar_power.txt 2 4613 5214 
+peak Solar_power.txt 5 1912 4675 4687 5193 5520 
+included Solar_power.txt 2 1342 3197 
+epbb Solar_power.txt 1 4332 
+megawatt Solar_power.txt 1 1765 
+building Solar_power.txt 1 4233 
+remote Solar_power.txt 2 204 440 
+curve Solar_power.txt 1 1983 
+landfill Solar_power.txt 1 2254 
+starting Solar_power.txt 2 1206 2475 
+strings Solar_power.txt 1 7106 
+cpv Solar_power.txt 1 7311 
+irradiance Solar_power.txt 6 2897 2909 2928 3025 3028 3031 
+all Solar_power.txt 14 819 1279 1516 1884 1939 3119 3957 4343 4423 4577 5280 5284 5918 5971 
+caused Solar_power.txt 2 1301 4818 
+splitting Solar_power.txt 1 5642 
+month Solar_power.txt 4 3676 3685 5117 5119 
+dish Solar_power.txt 6 801 1023 1028 1059 1072 1122 
+follow Solar_power.txt 3 899 4745 4772 
+to Solar_power.txt 184 23 111 156 203 287 402 408 422 424 444 618 642 647 669 764 772 811 847 898 958 1003 1093 1314 1385 1388 1410 1414 1433 1465 1473 1501 1508 1524 1551 1606 1616 1668 1895 1907 1927 2020 2074 2083 2147 2176 2202 2276 2320 2329 2377 2391 2476 2489 2557 2566 2573 2585 2612 2616 2679 2737 2747 2811 2821 3011 3019 3249 3255 3363 3369 3371 3386 3390 3397 3405 3497 3555 3569 3604 3628 3651 3682 3714 3806 3836 3856 3872 3905 3980 3985 3988 3995 4044 4126 4132 4136 4141 4164 4168 4218 4265 4348 4382 4429 4473 4485 4496 4523 4562 4592 4625 4650 4681 4724 4750 4762 4764 4771 4792 4835 4888 4891 4916 4935 4945 4963 5018 5029 5035 5053 5067 5118 5172 5176 5257 5278 5365 5390 5410 5462 5469 5610 5633 5644 5654 5673 5716 5744 5775 5788 5808 5832 5917 5937 5976 6011 6059 6101 6195 6212 6246 6255 6258 6278 6302 6333 6354 6380 6389 6463 6594 6679 6683 6703 6715 6729 6841 6928 6995 7029 7067 7188 7201 7330 
+program Solar_power.txt 3 1330 1337 4379 
+tj Solar_power.txt 1 5021 
+safety Solar_power.txt 1 5285 
+traditionally Solar_power.txt 1 5051 
+case Solar_power.txt 3 3808 5708 7093 
+premium Solar_power.txt 1 4229 
+returned Solar_power.txt 2 3097 6310 
+very Solar_power.txt 3 2064 4854 6450 
+7.9 Solar_power.txt 1 7280 
+fall Solar_power.txt 2 2738 4728 
+difference Solar_power.txt 2 3614 3643 
+washing Solar_power.txt 1 3319 
+frequency/phase Solar_power.txt 1 662 
+list Solar_power.txt 2 1731 1813 
+large Solar_power.txt 11 159 679 1015 1859 2065 4310 4808 5416 5661 6163 7183 
+adjust Solar_power.txt 1 5142 
+small Solar_power.txt 8 104 165 190 2606 2633 4302 5132 6968 
+20th Solar_power.txt 1 1252 
+programme Solar_power.txt 3 4039 4146 4257 
+198 Solar_power.txt 1 6627 
+ten Solar_power.txt 1 2952 
+20-year Solar_power.txt 1 4115 
+rate Solar_power.txt 7 3458 3710 3716 3736 3776 4117 4435 
+design Solar_power.txt 1 5273 
+pass Solar_power.txt 1 4137 
+further Solar_power.txt 2 5950 7326 
+investment Solar_power.txt 12 1470 3428 3467 3492 3512 3843 4297 4334 4794 5373 6319 6349 
+what Solar_power.txt 1 6398 
+imported Solar_power.txt 1 429 
+consumers Solar_power.txt 1 4174 
+sun Solar_power.txt 6 293 814 901 2696 2962 4465 
+version Solar_power.txt 1 5341 
+certificates Solar_power.txt 1 3463 
+method Solar_power.txt 1 5002 
+full Solar_power.txt 1 5031 
+installations Solar_power.txt 6 360 1364 1571 4088 4187 4263 
+overstatement Solar_power.txt 1 3541 
+hours Solar_power.txt 6 904 1929 2953 4488 5037 5204 
+operating Solar_power.txt 2 5521 6742 
+excess Solar_power.txt 6 3696 3722 3729 5055 5062 5109 
+directions Solar_power.txt 1 3638 
+november Solar_power.txt 1 1761 
+900 Solar_power.txt 1 3075 
+leveling Solar_power.txt 1 5191 
+compliance Solar_power.txt 1 3914 
+allows Solar_power.txt 4 439 845 3647 4493 
+amount Solar_power.txt 4 994 4359 5790 6958 
+published Solar_power.txt 2 2523 5901 
+via Solar_power.txt 1 4912 
+followed Solar_power.txt 1 7274 
+africa Solar_power.txt 3 1532 2977 2979 
+2000s Solar_power.txt 1 1440 
+conventional Solar_power.txt 8 409 587 776 2494 4851 4998 5344 6507 
+850 Solar_power.txt 2 305 6647 
+senftenberg Solar_power.txt 2 5730 5748 
+twh Solar_power.txt 1 1671 
+contains Solar_power.txt 2 7110 7128 
+petroleum Solar_power.txt 1 1267 
+two Solar_power.txt 7 455 962 5013 5489 5513 5555 5957 
+dispatching Solar_power.txt 1 1902 
+6 Solar_power.txt 1 6797 
+taken Solar_power.txt 2 3140 4582 
+markets Solar_power.txt 4 680 2535 3158 3984 
+more Solar_power.txt 16 90 986 998 1017 2689 2866 2950 3897 4149 4243 4250 4554 5546 6701 6823 6829 
+flat Solar_power.txt 2 972 4116 
+israel Solar_power.txt 2 1529 4012 
+swansons Solar_power.txt 1 1978 
+operators Solar_power.txt 1 2786 
+emission Solar_power.txt 2 5885 6976 
+surface Solar_power.txt 1 77 
+known Solar_power.txt 3 789 3003 4834 
+factories Solar_power.txt 1 5958 
+none Solar_power.txt 1 4196 
+dry-cooled Solar_power.txt 1 6756 
+sent Solar_power.txt 1 5066 
+strategies Solar_power.txt 1 1319 
+impacts Solar_power.txt 2 5726 7242 
+states Solar_power.txt 8 1351 1539 2004 2241 2413 2845 4017 4021 
+climates Solar_power.txt 1 5565 
+numbers Solar_power.txt 1 7184 
+purchased Solar_power.txt 1 3058 
+arise Solar_power.txt 1 7010 
+salts Solar_power.txt 2 4972 4974 
+axis Solar_power.txt 2 910 7315 
+influenced Solar_power.txt 1 2917 
+g/kwh Solar_power.txt 6 5834 5852 5858 5864 5873 5881 
+rather Solar_power.txt 1 6901 
+surpassed Solar_power.txt 1 1780 
+400599 Solar_power.txt 1 5851 
+csp Solar_power.txt 22 46 751 1066 1114 1195 1603 1705 1823 1860 1891 1922 4516 6611 6616 6644 6657 6688 6712 6743 6784 6826 7282 
+plant Solar_power.txt 20 235 1129 1134 1746 1774 1856 4495 4517 4736 4915 5603 5736 5759 5848 5856 5862 5879 6512 6645 6862 
+cadmium Solar_power.txt 7 6918 6960 6982 6996 7034 7036 7077 
+coal-fired Solar_power.txt 2 5860 7300 
+horizontal Solar_power.txt 2 76 3030 
+concentrating Solar_power.txt 9 232 783 1006 1027 1807 1820 6440 6489 6542 
+a Solar_power.txt 119 29 35 75 143 158 164 185 199 463 469 477 526 593 736 742 779 823 851 856 864 875 891 908 1025 1030 1082 1097 1101 1236 1302 1446 1458 1466 1474 1509 1620 1742 1908 2054 2063 2094 2219 2227 2300 2330 2381 2399 2454 2467 2904 2954 3229 3327 3452 3456 3518 3576 3655 3665 3709 3743 3768 3794 3869 3885 3911 4037 4114 4227 4294 4307 4355 4380 4406 4415 4509 4537 4659 4673 4842 4869 4872 4877 4892 4913 4917 4985 5080 5131 5174 5259 5265 5304 5339 5436 5441 5493 5497 5571 5579 5600 5693 5710 5732 5843 5859 5875 5985 6062 6162 6187 6484 6525 6584 6718 6732 6920 7051 7217 
+coal Solar_power.txt 13 1216 1265 4711 4753 5996 6577 6621 6860 7015 7024 7039 7076 7080 
+fundamental Solar_power.txt 1 7161 
+11.5 Solar_power.txt 1 6267 
+geographic Solar_power.txt 1 6408 
+eroi Solar_power.txt 1 6320 
+reservoir Solar_power.txt 3 4870 4894 4919 
+developed Solar_power.txt 6 220 418 525 676 1833 5403 
+soon Solar_power.txt 1 1218 
+trade Solar_power.txt 1 4033 
+held Solar_power.txt 1 4864 
+thermal Solar_power.txt 13 756 842 1197 1816 1828 1854 1898 1931 2194 4454 4511 4961 5819 
+already Solar_power.txt 2 2438 6132 
+through Solar_power.txt 8 626 2889 2912 4028 4589 6832 6882 7011 
+turbine Solar_power.txt 1 2789 
+its Solar_power.txt 12 323 745 1610 1684 2507 3532 4029 4376 4502 4608 5023 6137 
+24 Solar_power.txt 1 6741 
+controllable Solar_power.txt 2 3267 3323 
+27 Solar_power.txt 1 1692 
+rapidly Solar_power.txt 4 281 1369 1608 5164 
+taxpayer Solar_power.txt 1 3475 
+gerald Solar_power.txt 1 561 
+selenium Solar_power.txt 2 540 1233 
+late Solar_power.txt 1 2729 
+systems Solar_power.txt 49 148 155 260 589 666 685 716 763 822 913 1060 1141 1292 1367 1964 2138 2369 2409 2531 2609 2636 2647 4235 4305 4311 5000 5048 5079 5167 5277 5296 5332 5363 5482 5543 6228 6241 6265 6296 6373 6445 6495 6753 6757 6800 6804 6834 6896 6904 
+might Solar_power.txt 1 2030 
+grid-connected Solar_power.txt 5 257 464 683 4786 5058 
+good Solar_power.txt 1 3230 
+return Solar_power.txt 5 2397 3841 4272 6317 6347 
+food Solar_power.txt 1 6932 
+accumulate Solar_power.txt 1 6929 
+association Solar_power.txt 1 6636 
+easily Solar_power.txt 1 2690 
+fully Solar_power.txt 1 2732 
+capability Solar_power.txt 1 1120 
+found Solar_power.txt 5 5269 6037 6115 6533 7245 
+heavy Solar_power.txt 1 6922 
+generation Solar_power.txt 18 7 838 850 1665 1696 2783 3110 3233 4694 4707 4785 4815 4849 5139 5227 5243 5537 6156 
+energy Solar_power.txt 78 12 18 21 91 102 116 127 290 316 410 442 688 840 1118 1299 1305 1435 1647 1962 2088 2236 2290 2516 2520 3045 3122 3138 3345 3408 3462 3561 3862 3887 3908 3954 4079 4385 4440 4444 4455 4490 4512 4526 4574 4601 4609 4623 4705 4801 4900 4934 4966 5004 5234 5382 5591 5637 5719 5914 5919 5974 6022 6179 6182 6199 6231 6236 6304 6309 6312 6316 6331 6356 6385 6591 6634 6678 6776 
+reduce Solar_power.txt 6 425 5314 5951 6684 6708 6724 
+quantum Solar_power.txt 1 5680 
+operation Solar_power.txt 2 5780 6207 
+beyond Solar_power.txt 1 4780 
+since Solar_power.txt 10 1191 1499 1911 2383 3955 4550 4599 5444 6223 6884 
+projected Solar_power.txt 3 318 1662 1681 
+research Solar_power.txt 3 1346 5617 5665 
+1.70 Solar_power.txt 1 2584 
+7 Solar_power.txt 1 6801 
+solnova Solar_power.txt 2 50 1864 
+issue Solar_power.txt 3 4614 6650 6908 
+occurs Solar_power.txt 1 1916 
+foreground Solar_power.txt 1 56 
+offsets Solar_power.txt 1 5089 
+timeline Solar_power.txt 1 1150 
+effect Solar_power.txt 5 178 488 3329 3335 7197 
+beginning Solar_power.txt 1 2275 
+generate Solar_power.txt 6 773 1669 2224 3652 4497 6196 
+e.g Solar_power.txt 1 3188 
+2014-published Solar_power.txt 1 7218 
+twenty Solar_power.txt 1 4418 
+fallen Solar_power.txt 1 253 
+feed Solar_power.txt 1 5231 
+copper Solar_power.txt 2 535 7105 
+major Solar_power.txt 1 2534 
+eroei Solar_power.txt 2 6314 6370 
+number Solar_power.txt 5 255 415 1476 1511 3763 
+linking Solar_power.txt 1 5604 
+done Solar_power.txt 1 3624 
+passes Solar_power.txt 1 6831 
+differ Solar_power.txt 1 4005 
+fuller Solar_power.txt 1 564 
+utilization Solar_power.txt 1 1329 
+introduction Solar_power.txt 1 6225 
+small-system Solar_power.txt 1 4313 
+intense Solar_power.txt 1 7189 
+regulation Solar_power.txt 1 3194 
+station Solar_power.txt 8 53 299 1793 1867 1874 1881 4482 5015 
+store Solar_power.txt 6 4524 4964 5019 5054 5173 5634 
+shifted Solar_power.txt 1 1500 
+selling Solar_power.txt 1 5291 
+pump Solar_power.txt 1 4889 
+latitudes Solar_power.txt 2 98 2940 
+park Solar_power.txt 2 310 1801 
+part Solar_power.txt 3 1956 3433 5727 
+albeit Solar_power.txt 1 1618 
+grew Solar_power.txt 1 1368 
+determines Solar_power.txt 1 2347 
+865 Solar_power.txt 1 6608 
+genesis Solar_power.txt 1 6774 
+2020 Solar_power.txt 1 1990 
+recovered Solar_power.txt 1 4902 
+deciding Solar_power.txt 1 3247 
+mountain Solar_power.txt 1 1950 
+u.s Solar_power.txt 5 1716 2550 2563 2594 2639 
+built Solar_power.txt 2 277 5959 
+depending Solar_power.txt 5 2305 4353 4776 5815 6396 
+self Solar_power.txt 10 3035 3040 3177 3181 3216 3240 3285 3306 3337 5370 
+also Solar_power.txt 12 752 1146 1604 1825 2214 2895 3002 3196 4535 5619 6431 7323 
+labour Solar_power.txt 1 2025 
+square Solar_power.txt 1 7252 
+build Solar_power.txt 2 6334 6704 
+play Solar_power.txt 3 5212 5262 5294 
+added Solar_power.txt 1 710 
+electric Solar_power.txt 11 173 483 1037 1935 2830 3293 3551 4668 5251 5431 6510 
+reach Solar_power.txt 4 1656 2748 2822 3398 
+medium-sized Solar_power.txt 1 192 
+most Solar_power.txt 13 358 1569 2136 2155 2240 2723 2742 2815 3968 5445 6040 6835 7006 
+significant Solar_power.txt 1 395 
+undertaken Solar_power.txt 1 5620 
+services Solar_power.txt 1 3281 
+seasons Solar_power.txt 1 4643 
+approved Solar_power.txt 1 4288 
+3050 Solar_power.txt 1 4242 
+78 Solar_power.txt 2 1572 5753 
+g/m Solar_power.txt 1 6970 
+sometimes Solar_power.txt 1 7133 
+traditional Solar_power.txt 2 2781 4558 
+kw Solar_power.txt 3 1070 2614 4267 
+rechargeable Solar_power.txt 2 5170 5476 
+tubes Solar_power.txt 1 963 
+technical Solar_power.txt 1 5281 
+lying Solar_power.txt 1 2937 
+particularly Solar_power.txt 2 4615 5562 
+cdn Solar_power.txt 1 4411 
+favour Solar_power.txt 1 3503 
+businesses Solar_power.txt 1 3650 
+cds Solar_power.txt 1 6956 
+fine Solar_power.txt 1 3912 
+impact Solar_power.txt 1 6123 
+giant Solar_power.txt 1 3666 
+bipv Solar_power.txt 1 3854 
+northern Solar_power.txt 2 1971 2976 
+front Solar_power.txt 1 7124 
+distributed Solar_power.txt 3 3484 4394 5480 
+generators Solar_power.txt 3 707 4559 6174 
+factor Solar_power.txt 3 918 2332 6097 
+iea Solar_power.txt 1 2522 
+8 Solar_power.txt 2 2376 6245 
+boulder Solar_power.txt 1 934 
+capital Solar_power.txt 1 2151 
+sunny Solar_power.txt 3 2111 2840 4896 
+cheaper Solar_power.txt 3 980 2134 2681 
+closely Solar_power.txt 1 6300 
+1015 Solar_power.txt 1 4274 
+1.80 Solar_power.txt 1 2572 
+selenide Solar_power.txt 1 531 
+molten Solar_power.txt 3 4521 4971 5494 
+californias Solar_power.txt 1 1846 
+stirling Solar_power.txt 5 800 1021 1031 1042 1123 
+125,000 Solar_power.txt 1 1179 
+common Solar_power.txt 1 5324 
+river Solar_power.txt 1 4879 
+body Solar_power.txt 1 6844 
+set Solar_power.txt 3 3778 3873 3893 
+achieved Solar_power.txt 2 2246 2691 
+lifetimes Solar_power.txt 2 6365 6388 
+see Solar_power.txt 7 19 431 1145 2539 2894 4732 7322 
+are Solar_power.txt 51 81 275 634 639 667 708 790 809 937 946 978 1047 1135 1596 2174 2452 2459 2473 2756 3032 3272 3403 3422 3514 3529 3673 3679 3702 3731 3738 3851 3960 4346 4571 4975 4982 5050 5112 5130 5163 5288 5353 5400 5407 5447 5670 5802 5893 6056 6374 6659 
+close Solar_power.txt 2 5034 5743 
+declined Solar_power.txt 1 2615 
+zhengrong Solar_power.txt 1 2427 
+currently Solar_power.txt 1 5354 
+various Solar_power.txt 4 807 2199 6529 7225 
+intensities Solar_power.txt 2 6504 6524 
+conditions Solar_power.txt 1 5697 
+europe Solar_power.txt 4 1481 1988 6072 6274 
+korea Solar_power.txt 1 1534 
+initially Solar_power.txt 1 181 
+sold Solar_power.txt 5 2117 2293 3132 3163 4428 
+attention Solar_power.txt 1 1313 
+incident Solar_power.txt 1 547 
+both Solar_power.txt 3 1396 3637 4565 
+improved Solar_power.txt 2 3263 5677 
+tipping Solar_power.txt 1 2455 
+annual Solar_power.txt 4 1582 2926 3723 3728 
+connection Solar_power.txt 1 2035 
+long-term Solar_power.txt 1 3981 
+let Solar_power.txt 1 5463 
+whole Solar_power.txt 1 7004 
+load Solar_power.txt 4 1943 3900 4733 4765 
+consume Solar_power.txt 1 6851 
+point Solar_power.txt 4 747 2351 2456 2669 
+battery Solar_power.txt 5 3668 5325 5338 5346 5499 
+recycling Solar_power.txt 1 6974 
+corresponds Solar_power.txt 1 2328 
+regulated Solar_power.txt 1 5336 
+expensive Solar_power.txt 5 428 3273 4555 5209 6702 
+belt Solar_power.txt 2 2963 2968 
+decline Solar_power.txt 1 2558 
+atmosphere Solar_power.txt 1 6007 
+pv Solar_power.txt 58 136 211 259 279 466 475 588 598 665 684 1194 1431 1478 1491 1591 1629 1653 1701 1981 1985 2272 2315 2368 2530 2717 3164 3212 3351 3361 3380 3446 3859 4057 4087 4361 5047 5166 5263 5331 5362 5481 5507 5822 6036 6054 6119 6167 6227 6240 6264 6293 6372 6471 6964 6992 7202 7266 7278 
+monthly Solar_power.txt 1 6017 
+political Solar_power.txt 2 3355 4160 
+due Solar_power.txt 7 1413 4649 4749 5364 5409 6211 7187 
+pb Solar_power.txt 3 7116 7131 7146 
+wet/dry Solar_power.txt 1 6720 
+reduction Solar_power.txt 1 3415 
+maintenance Solar_power.txt 4 2036 2164 3549 5375 
+pm Solar_power.txt 1 1920 
+generating Solar_power.txt 6 1936 1963 4481 4841 6189 6383 
+gas Solar_power.txt 9 1421 2255 4714 4741 6128 6582 6631 7047 7263 
+39 Solar_power.txt 1 5036 
+demand Solar_power.txt 7 1914 4475 4563 4804 5100 5229 5239 
+prices Solar_power.txt 15 1373 2505 2524 2552 2555 2565 2602 2885 3068 3151 3990 4831 5162 5406 6357 
+plants Solar_power.txt 29 217 451 925 1019 1824 1861 1924 2170 4742 4757 4958 6178 6418 6433 6448 6492 6515 6545 6555 6561 6599 6658 6745 6762 6815 6892 7178 7205 7302 
+thermoelectric Solar_power.txt 1 6813 
+solid Solar_power.txt 1 2259 
+33 Solar_power.txt 1 384 
+while Solar_power.txt 5 412 3476 3490 3677 4737 
+real Solar_power.txt 1 2480 
+century Solar_power.txt 1 1253 
+cents Solar_power.txt 3 2076 2106 2123 
+inverters Solar_power.txt 2 630 2024 
+calculator Solar_power.txt 1 196 
+stations Solar_power.txt 7 270 1408 1728 1735 1810 1818 1830 
+fossil-fueled Solar_power.txt 1 6176 
+italy Solar_power.txt 5 2446 3191 3831 4177 4240 
+government Solar_power.txt 3 2220 4027 4067 
+shorter Solar_power.txt 1 5378 
+9 Solar_power.txt 2 2178 7286 
+higher Solar_power.txt 6 1048 1107 5241 6522 6564 7031 
+development Solar_power.txt 5 1142 1202 1244 1394 6789 
+strips Solar_power.txt 1 953 
+lie Solar_power.txt 1 2929 
+levels Solar_power.txt 2 2755 4951 
+uses Solar_power.txt 8 15 757 1086 1752 4518 4885 6848 6869 
+purpose Solar_power.txt 1 3356 
+focal Solar_power.txt 3 746 870 880 
+recent Solar_power.txt 1 5266 
+0.59 Solar_power.txt 1 7271 
+lower Solar_power.txt 8 1621 2549 3168 4139 5381 5405 5894 6485 
+older Solar_power.txt 1 6812 
+nameplate Solar_power.txt 1 3522 
+analysis Solar_power.txt 2 7053 7220 
+competitive Solar_power.txt 2 2126 2439 
+circling Solar_power.txt 1 2964 
+world Solar_power.txt 12 114 238 302 1165 1309 1519 1777 1796 2481 2500 2966 4054 
+alternative Solar_power.txt 2 407 3913 
+0.15/kwh Solar_power.txt 1 2740 
+majority Solar_power.txt 2 4542 6888 
+scenario Solar_power.txt 2 326 1687 
+alternate Solar_power.txt 1 4331 
+guaranteed Solar_power.txt 2 3457 4405 
+source Solar_power.txt 2 186 355 
+internal Solar_power.txt 1 4269 
+location Solar_power.txt 4 2042 2893 4641 6409 
+electricitylead Solar_power.txt 1 1464 
+remaining Solar_power.txt 1 5122 
+thin-film Solar_power.txt 2 1753 6963 
+customers Solar_power.txt 3 2871 2876 3557 
+australia Solar_power.txt 4 1075 1525 2985 4009 
+march Solar_power.txt 1 6795 
+demands Solar_power.txt 1 4684 
+big Solar_power.txt 1 1071 
+displace Solar_power.txt 1 445 
+672 Solar_power.txt 1 6622 
+projects Solar_power.txt 3 4396 5666 6785 
+ponds Solar_power.txt 1 6821 
+success Solar_power.txt 1 4183 
+thermal-to-electricity Solar_power.txt 1 1108 
+often Solar_power.txt 4 709 3423 6660 6911 
+obliged Solar_power.txt 1 3904 
+creation Solar_power.txt 1 3413 
+some Solar_power.txt 11 3117 3203 3550 3847 4796 4821 5789 5850 5871 7169 7207 
+back Solar_power.txt 5 2372 3125 4865 5474 7126 
+3.7 Solar_power.txt 1 2105 
+trends Solar_power.txt 1 2760 
+economic Solar_power.txt 5 1428 1995 3969 6298 6346 
+pricing Solar_power.txt 1 3346 
+palo Solar_power.txt 1 2090 
+mirror Solar_power.txt 2 886 952 
+scale Solar_power.txt 2 3395 5413 
+contacts Solar_power.txt 1 7127 
+northern/southern Solar_power.txt 1 5564 
+though Solar_power.txt 3 3839 4207 5282 
+integration Solar_power.txt 2 2762 4437 
+per Solar_power.txt 21 92 385 1547 1993 2051 2077 2107 2124 2325 2575 2618 2642 2658 3082 3791 4317 4412 5812 6425 6467 7254 
+efficiencies Solar_power.txt 1 584 
+epia Solar_power.txt 1 2364 
+sunshot Solar_power.txt 2 2544 2560 
+be Solar_power.txt 40 24 351 362 975 989 1004 1011 1587 2031 2177 2245 2487 2567 2861 3012 3096 3222 3244 3262 3343 3495 3586 3623 3721 3964 4461 4471 4581 4596 4717 4769 4863 5065 5177 5460 6099 6256 6464 6988 7088 
+300 Solar_power.txt 1 5997 
+303 Solar_power.txt 1 1558 
+agreement Solar_power.txt 2 2097 2404 
+rebates Solar_power.txt 2 3465 3554 
+bp Solar_power.txt 1 5954 
+oil-fired Solar_power.txt 1 5854 
+sunniest Solar_power.txt 1 3014 
+by Solar_power.txt 54 198 207 327 434 495 828 905 1156 1173 1189 1212 1288 1494 1589 1666 1697 1721 1756 1781 2247 2363 2424 2501 2621 2728 2773 2825 2846 2892 2918 3214 3779 3813 4046 4587 4637 4909 5010 5190 5415 5641 5902 5960 5982 6329 6587 6687 6711 6713 6727 6735 6854 7062 7275 
+von Solar_power.txt 1 506 
+usa Solar_power.txt 1 6088 
+1gw Solar_power.txt 1 4155 
+gal/mwhr Solar_power.txt 11 6558 6576 6579 6609 6614 6619 6623 6628 6648 6871 6875 
+range Solar_power.txt 5 781 1951 2570 5805 6377 
+megawatt-hour Solar_power.txt 2 6468 7255 
+3,425 Solar_power.txt 1 1640 
+pollution Solar_power.txt 1 5792 
+into Solar_power.txt 11 130 163 171 263 399 482 549 1053 3126 5235 6005 
+within Solar_power.txt 2 4022 5762 
+watt Solar_power.txt 6 2052 2078 2576 2619 2643 2659 
+primarily Solar_power.txt 2 5927 6142 
+proportional Solar_power.txt 1 6058 
+uncertainties Solar_power.txt 1 3971 
+ontario Solar_power.txt 1 4370 
+long Solar_power.txt 5 436 2400 2881 3769 5574 
+ppas Solar_power.txt 1 2772 
+pumped-storage Solar_power.txt 2 4527 4883 
+manufacture Solar_power.txt 2 5977 7068 
+adjusting Solar_power.txt 1 2045 
+915994 Solar_power.txt 1 5863 
+line Solar_power.txt 1 871 
+considerable Solar_power.txt 1 4760 
+directed Solar_power.txt 1 6674 
+0.55/kwh Solar_power.txt 1 4231 
+up Solar_power.txt 10 84 846 1906 2154 2611 3568 4264 4719 6010 6170 
+us Solar_power.txt 11 1333 2173 2818 4024 5249 6019 6672 6748 6792 6865 6890 
+cis Solar_power.txt 1 6295 
+similar Solar_power.txt 3 2580 5916 6595 
+called Solar_power.txt 2 753 1826 
+sunnier Solar_power.txt 1 2751 
+storing Solar_power.txt 2 4607 5108 
+constant Solar_power.txt 1 5547 
+flow Solar_power.txt 2 5465 5498 
+single Solar_power.txt 2 200 909 
+defines Solar_power.txt 1 1457 
+amounts Solar_power.txt 2 3209 4809 
+electrical Solar_power.txt 4 2289 5069 5188 5218 
+3.29 Solar_power.txt 1 2574 
+users Solar_power.txt 2 3332 4144 
+meaning Solar_power.txt 3 4575 6161 6827 
+allowing Solar_power.txt 3 997 1900 5016 
+reflectors Solar_power.txt 5 869 945 987 1009 1091 
+land Solar_power.txt 4 108 2028 2974 7222 
+required Solar_power.txt 5 110 2032 4875 6194 6332 
+turbines Solar_power.txt 1 778 
+2003 Solar_power.txt 1 4045 
+2000 Solar_power.txt 2 1550 6234 
+nasa Solar_power.txt 1 3020 
+2006 Solar_power.txt 6 1192 2384 4158 4286 4368 6251 
+2007 Solar_power.txt 4 1181 2420 2828 6670 
+2004 Solar_power.txt 3 1615 4050 4064 
+far Solar_power.txt 1 4319 
+2008 Solar_power.txt 1 2709 
+2009 Solar_power.txt 2 2425 4261 
+requires Solar_power.txt 2 616 3579 
+having Solar_power.txt 2 1567 1576 
+gw Solar_power.txt 4 1559 1573 1658 4062 
+code Solar_power.txt 1 5252 
+resistance Solar_power.txt 1 3299 
+existing Solar_power.txt 2 4814 4847 
+go Solar_power.txt 2 4718 4836 
+15,000 Solar_power.txt 1 3570 
+issues Solar_power.txt 4 1416 4819 5724 6906 
+compact Solar_power.txt 3 795 942 1018 
+arid Solar_power.txt 2 2932 6663 
+maryland Solar_power.txt 1 5964 
+include Solar_power.txt 4 1862 2012 5333 5483 
+resources Solar_power.txt 2 443 6141 
+mainstream Solar_power.txt 1 388 
+electron Solar_power.txt 1 5684 
+trough Solar_power.txt 7 793 853 912 1967 6560 6612 6643 
+evaporation Solar_power.txt 2 6855 6883 
+continued Solar_power.txt 1 2556 
+categories Solar_power.txt 2 7336 7338 
+transmission Solar_power.txt 2 438 4590 
+fewer Solar_power.txt 1 1625 
+noted Solar_power.txt 4 6637 6692 6737 7057 
+concluded Solar_power.txt 1 7229 
+smaller Solar_power.txt 1 2991 
+biomass Solar_power.txt 3 2253 4712 4754 
+replicated Solar_power.txt 1 4198 
+3x Solar_power.txt 1 4098 
+enjoyed Solar_power.txt 1 4180 
+cell Solar_power.txt 7 202 471 474 492 528 572 2265 
+floatovoltaics Solar_power.txt 1 7321 
+feed-in Solar_power.txt 14 1444 2211 3201 3220 3478 3505 3577 3747 3751 3795 4072 4194 4403 5074 
+extresol Solar_power.txt 1 1878 
+led Solar_power.txt 2 3979 4052 
+respectively Solar_power.txt 5 342 5500 5826 7272 7295 
+commercial Solar_power.txt 8 213 1399 1819 2408 2527 2607 2875 4277 
+desired Solar_power.txt 3 620 655 661 
+focused Solar_power.txt 1 1320 
+1.44 Solar_power.txt 1 5020 
+deserts Solar_power.txt 3 2936 2958 2992 
+convert Solar_power.txt 1 169 
+38 Solar_power.txt 1 4499 
+receive Solar_power.txt 3 89 2044 2947 
+32 Solar_power.txt 2 6102 6728 
+30 Solar_power.txt 2 6367 6381 
+calvin Solar_power.txt 1 563 
+resulting Solar_power.txt 1 770 
+involves Solar_power.txt 1 5628 
+clark Solar_power.txt 1 1949 
+private Solar_power.txt 1 1276 
+surpluses Solar_power.txt 1 3678 
+decrease Solar_power.txt 5 2888 4127 4165 4201 4349 
+apply Solar_power.txt 1 7200 
+fed Solar_power.txt 1 3124 
+from Solar_power.txt 32 128 194 291 775 1383 1549 1614 1619 1700 1704 2085 3059 3141 3282 3448 3658 3712 4042 4708 4868 5092 5116 5466 5567 5614 6002 6139 6984 7038 7074 7079 7191 
+consumption Solar_power.txt 30 347 448 3036 3041 3112 3178 3182 3217 3235 3241 3269 3286 3307 3324 3338 3618 3659 3890 6016 6424 6439 6457 6487 6538 6569 6604 6653 6686 6710 6726 
+few Solar_power.txt 1 2943 
+circumstances Solar_power.txt 1 4779 
+themselves Solar_power.txt 1 6391 
+hydro Solar_power.txt 1 5888 
+solarpark Solar_power.txt 1 5731 
+comparison Solar_power.txt 1 5839 
+started Solar_power.txt 1 1605 
+rare Solar_power.txt 1 5201 
+billed Solar_power.txt 2 3611 3674 
+customer Solar_power.txt 2 3488 3744 
+mid-1970s Solar_power.txt 1 2059 
+integrating Solar_power.txt 2 4807 5676 
+this Solar_power.txt 27 3 72 516 614 940 967 1080 1138 1778 2327 2417 2967 3883 3936 3948 4492 4530 4927 4939 5001 5087 5622 5828 6252 6339 6562 7195 
+challenge Solar_power.txt 1 4661 
+averaged Solar_power.txt 1 1545 
+reproduce Solar_power.txt 1 6390 
+thin Solar_power.txt 2 951 6270 
+meet Solar_power.txt 3 4474 5099 5279 
+averages Solar_power.txt 1 5842 
+institute Solar_power.txt 1 5588 
+control Solar_power.txt 1 6977 
+process Solar_power.txt 2 2060 7086 
+0.2 Solar_power.txt 1 7048 
+tax Solar_power.txt 1 4283 
+high Solar_power.txt 13 97 324 1467 1685 2698 3208 3239 3410 4228 4893 4950 4986 5367 
+effectively Solar_power.txt 2 3660 5101 
+assumptions Solar_power.txt 1 6085 
+microinverter Solar_power.txt 1 5264 
+united Solar_power.txt 6 1350 1538 2003 2412 2844 4016 
+six Solar_power.txt 2 1275 4487 
+gco Solar_power.txt 1 6080 
+regions Solar_power.txt 3 1515 2752 3204 
+located Solar_power.txt 5 239 1597 1844 5737 6661 
+varies Solar_power.txt 3 2911 4670 6352 
+instead Solar_power.txt 3 954 5106 7071 
+farm Solar_power.txt 2 1740 1768 
+tied Solar_power.txt 1 646 
+dc Solar_power.txt 1 603 
+1884 Solar_power.txt 1 1242 
+efficiently Solar_power.txt 2 844 1896 
+light Solar_power.txt 7 170 481 548 817 862 1095 5678 
+lines Solar_power.txt 2 4591 5472 
+chief Solar_power.txt 1 2832 
+allow Solar_power.txt 3 3387 3867 3992 
+alloy Solar_power.txt 1 7168 
+subsequently Solar_power.txt 1 4175 
+divided Solar_power.txt 1 6328 
+0.10/kwh Solar_power.txt 1 2749 
+producer Solar_power.txt 2 3450 3919 
+produces Solar_power.txt 2 600 651 
+tropics Solar_power.txt 1 2933 
+photovoltaic Solar_power.txt 27 31 167 177 297 473 487 594 1045 1228 1328 1366 1406 1726 1733 1772 1791 1996 2137 2184 2360 2515 2675 5059 5734 6429 6446 7063 
+meter Solar_power.txt 1 3582 
+produced Solar_power.txt 7 3596 3766 3931 4426 4545 5981 7061 
+including Solar_power.txt 2 1520 4008 
+during Solar_power.txt 8 902 1944 5224 5779 6203 6481 6539 6605 
+converting Solar_power.txt 1 1051 
+industries Solar_power.txt 1 6635 
+chemical Solar_power.txt 1 5639 
+1880s Solar_power.txt 1 500 
+latitude Solar_power.txt 1 2919 
+2014 Solar_power.txt 7 320 1678 1762 1946 2508 2554 2625 
+2016 Solar_power.txt 6 369 1564 1725 2081 2099 2119 
+2011 Solar_power.txt 3 2730 5899 6585 
+2010 Solar_power.txt 3 1182 1644 2890 
+2013 Solar_power.txt 8 1183 1552 1617 1635 2538 2799 6282 6526 
+2012 Solar_power.txt 1 2433 
+fossil-fuel Solar_power.txt 1 6514 
+dam Solar_power.txt 3 308 1799 4873 
+material Solar_power.txt 2 6401 7100 
+mandate Solar_power.txt 1 2221 
+satellites Solar_power.txt 1 697 
+day Solar_power.txt 4 2914 2955 4640 5532 
+worlds Solar_power.txt 3 353 1225 1851 
+february Solar_power.txt 2 1945 2080 
+university Solar_power.txt 1 5596 
+unpredictable Solar_power.txt 1 4654 
+traces Solar_power.txt 1 7129 
+3,000 Solar_power.txt 1 1657 
+programmed Solar_power.txt 2 4125 4200 
+related Solar_power.txt 2 6301 7329 
+measure Solar_power.txt 2 3634 6299 
+inverter Solar_power.txt 1 649 
+80 Solar_power.txt 1 6134 
+special Solar_power.txt 1 4660 
+out Solar_power.txt 2 3516 5192 
+valve Solar_power.txt 1 5335 
+lead-acid Solar_power.txt 3 5337 5351 5392 
+integrated Solar_power.txt 1 4234 
+fluctuates Solar_power.txt 2 606 5549 
+8x Solar_power.txt 1 4103 
+york Solar_power.txt 1 1238 
+additional Solar_power.txt 3 705 3849 5154 
+interaction Solar_power.txt 1 3193 
+g Solar_power.txt 2 5811 6103 
+sustainability Solar_power.txt 1 5723 
+gallons Solar_power.txt 2 6013 6466 
+could Solar_power.txt 8 1586 1655 1690 5211 5459 6707 6723 7087 
+times Solar_power.txt 5 724 3136 5522 5529 6393 
+retail Solar_power.txt 2 3715 4100 
+austin Solar_power.txt 1 3560 
+south Solar_power.txt 3 1531 1533 2996 
+there Solar_power.txt 3 5287 5302 7158 
+qinghai Solar_power.txt 2 312 1805 
+metering Solar_power.txt 9 3572 3574 3590 3620 3671 3804 4422 5072 6361 
+date Solar_power.txt 1 2854 
+improvements Solar_power.txt 1 2061 
+reached Solar_power.txt 4 583 1557 1639 2795 
+quality Solar_power.txt 1 3511 
+management Solar_power.txt 1 4806 
+system Solar_power.txt 25 32 212 468 596 599 1937 2564 3093 3441 3527 3949 4074 4112 4702 5061 5097 5272 5443 5525 5987 6190 6210 6404 6412 6722 
+adopted Solar_power.txt 1 4258 
+priority Solar_power.txt 1 1452 
+their Solar_power.txt 15 400 2373 3334 3556 3989 3999 4696 5143 5232 5310 5366 5457 5922 6387 6833 
+completed Solar_power.txt 1 5761 
+csp-plants Solar_power.txt 1 947 
+leadacid Solar_power.txt 1 5345 
+environmental Solar_power.txt 3 5722 5725 7241 
+srecs Solar_power.txt 4 3464 3864 3866 3977 
+reproductions Solar_power.txt 1 6395 
+harmonizing Solar_power.txt 1 6026 
+1-kilowatt Solar_power.txt 1 5986 
+inversely Solar_power.txt 1 6057 
+mojave Solar_power.txt 2 242 1847 
+1.5 Solar_power.txt 1 6257 
+1.1 Solar_power.txt 1 4061 
+off-grid Solar_power.txt 2 209 4617 
+have Solar_power.txt 24 393 420 1718 2069 2197 2942 3184 3978 4197 4241 4626 4832 4984 5258 5387 5703 6121 6500 6521 6893 7147 7172 7179 7212 
+need Solar_power.txt 2 5572 7162 
+angle Solar_power.txt 1 87 
+agency Solar_power.txt 4 317 1648 1680 2521 
+able Solar_power.txt 1 2488 
+incentive Solar_power.txt 5 1322 3358 3420 4211 4335 
+instance Solar_power.txt 1 6857 
+concerns Solar_power.txt 2 1424 6913 
+which Solar_power.txt 19 605 650 948 977 1033 1585 2671 2910 3175 3226 3564 3632 4081 4280 4451 5970 6321 6351 6476 
+1.36 Solar_power.txt 1 2617 
+worldwide Solar_power.txt 7 345 377 1184 1487 1540 1636 4546 
+fuels Solar_power.txt 4 430 2442 4710 5323 
+who Solar_power.txt 1 511 
+harmful Solar_power.txt 1 5777 
+combustion Solar_power.txt 1 7027 
+eight Solar_power.txt 1 2533 
+high-temp Solar_power.txt 1 5877 
+device Solar_power.txt 1 478 
+spains Solar_power.txt 1 49 
+payment Solar_power.txt 1 3915 
+ivanpah Solar_power.txt 4 227 1840 1933 6765 
+face Solar_power.txt 2 1256 3910 
+1,000 Solar_power.txt 2 3927 7142 
+normally Solar_power.txt 3 82 1034 5113 
+emerging Solar_power.txt 2 2759 7307 
+hydrostorage Solar_power.txt 1 5609 
+cdte-modules Solar_power.txt 1 1754 
+charles Solar_power.txt 2 496 1221 
+parked Solar_power.txt 1 5448 
+industrialist Solar_power.txt 1 503 
+portfolio Solar_power.txt 1 2216 
+principal Solar_power.txt 1 1888 
+trying Solar_power.txt 1 5672 
+based Solar_power.txt 2 3051 5768 
+credited Solar_power.txt 1 3921 
+hydroelectric Solar_power.txt 4 2261 4738 4914 5586 
+should Solar_power.txt 1 3243 
+bases Solar_power.txt 1 3489 
+fuel Solar_power.txt 7 447 2141 2264 2808 2810 5647 5767 
+local Solar_power.txt 4 2308 2340 4778 6355 
+achieve Solar_power.txt 2 1106 3391 
+bonds Solar_power.txt 1 5640 
+beam Solar_power.txt 1 166 
+fraunhoferise Solar_power.txt 1 1359 
+joins Solar_power.txt 1 7102 
+entity Solar_power.txt 1 3902 
+multiyear Solar_power.txt 1 3453 
+areas Solar_power.txt 2 2693 5742 
+following Solar_power.txt 3 551 3684 4734 
+luminosity Solar_power.txt 1 28 
+topaz Solar_power.txt 1 1766 
+gram Solar_power.txt 1 5810 
+shi Solar_power.txt 1 2426 
+cycles Solar_power.txt 1 4652 
+available Solar_power.txt 10 673 1001 4578 4586 4604 4882 5297 6359 6698 6845 
+exists Solar_power.txt 1 785 
+frame Solar_power.txt 1 2019 
+module Solar_power.txt 2 2056 6985 
+edition Solar_power.txt 1 2509 
+intensity Solar_power.txt 3 610 5886 6488 
+greece Solar_power.txt 2 4178 4237 
+heaters Solar_power.txt 1 3300 
+nuclear Solar_power.txt 5 4715 4756 5891 6574 6625 
+tend Solar_power.txt 1 4791 
+bruno Solar_power.txt 1 523 
+complement Solar_power.txt 1 5515 
+bought Solar_power.txt 2 3146 3173 
+comparable Solar_power.txt 1 3834 
+explosive Solar_power.txt 1 4084 
+ability Solar_power.txt 1 1894 
+importance Solar_power.txt 1 514 
+deliver Solar_power.txt 1 4992 
+efficiency Solar_power.txt 4 1049 1064 1110 5040 
+job Solar_power.txt 1 3412 
+photovoltaics Solar_power.txt 11 135 179 330 457 460 1149 1382 1543 2393 4004 7310 
+key Solar_power.txt 1 3237 
+optional Solar_power.txt 1 691 
+declining Solar_power.txt 1 5165 
+deficits Solar_power.txt 1 3672 
+figures Solar_power.txt 1 6276 
+dryers Solar_power.txt 1 3317 
+jersey Solar_power.txt 1 3727 
+otherwise Solar_power.txt 1 2805 
+rps Solar_power.txt 1 2242 
+co Solar_power.txt 2 3417 6105 
+environments Solar_power.txt 1 6664 
+cd Solar_power.txt 2 6919 7134 
+table Solar_power.txt 1 2540 
+overpayment Solar_power.txt 1 3787 
+land-use Solar_power.txt 2 917 7248 
+powered Solar_power.txt 2 197 206 
+addition Solar_power.txt 2 4645 5425 
+agreements Solar_power.txt 1 2771 
+waste Solar_power.txt 1 2260 
+releasing Solar_power.txt 1 4910 
+essentially Solar_power.txt 1 6478 
+2015 Solar_power.txt 7 1707 2502 2627 2826 2848 6733 6796 
+last Solar_power.txt 1 2145 
+an Solar_power.txt 24 86 172 208 283 406 413 648 1036 1077 1087 1213 2852 3086 3365 3923 4181 4612 4700 4976 5039 5213 5449 5853 6284 
+spain Solar_power.txt 5 1886 2448 2797 3829 4176 
+homes Solar_power.txt 3 205 1277 1713 
+atmospheric Solar_power.txt 1 5696 
+unlike Solar_power.txt 3 3575 4420 5765 
+value Solar_power.txt 2 3975 4120 
+will Solar_power.txt 8 1717 2043 2370 2486 2860 3079 3095 5313 
+owns Solar_power.txt 1 5956 
+eur Solar_power.txt 1 4230 
+supply Solar_power.txt 5 117 1415 1691 2765 5592 
+layer Solar_power.txt 1 6947 
+almost Solar_power.txt 1 6989 
+thus Solar_power.txt 3 2150 3538 6382 
+site Solar_power.txt 2 6049 6063 
+encouragement Solar_power.txt 1 3509 
+levelized Solar_power.txt 3 2267 2278 2711 
+comparing Solar_power.txt 1 6528 
+vs Solar_power.txt 1 1998 
+dual Solar_power.txt 1 7314 
+4.56 Solar_power.txt 1 586 
+capture Solar_power.txt 2 5679 5868 
+productivity Solar_power.txt 2 2891 2899 
+perhaps Solar_power.txt 1 4339 
+began Solar_power.txt 2 1409 4375 
+adverse Solar_power.txt 1 7196 
+parts Solar_power.txt 1 2841 
+largest Solar_power.txt 8 231 296 354 1594 1771 1790 1852 7297 
+units Solar_power.txt 2 47 2295 
+origination Solar_power.txt 1 2767 
+injured Solar_power.txt 1 7180 
+upon Solar_power.txt 3 3473 3698 3757 
+interconnections Solar_power.txt 1 4800 
+forecasts Solar_power.txt 1 1642 
+nickelcadmium Solar_power.txt 1 5347 
+warming Solar_power.txt 1 1423 
+back-ups Solar_power.txt 1 712 
+modeled Solar_power.txt 1 2562 
+well Solar_power.txt 5 1403 2987 4679 4855 7136 
+lcoe Solar_power.txt 2 1986 2282 
+procurement Solar_power.txt 1 2237 
+displacing Solar_power.txt 2 4846 6171 
+354 Solar_power.txt 1 1959 
+position Solar_power.txt 1 1429 
+less Solar_power.txt 12 417 543 2721 3099 4213 4215 4320 4398 5208 5550 6852 6876 
+increasingly Solar_power.txt 1 5168 
+storage Solar_power.txt 25 689 841 843 1119 1899 1932 3290 3304 3667 4441 4445 4456 4491 4513 4551 4706 4802 4962 4978 5005 5026 5438 5577 5870 6519 
+domestic Solar_power.txt 2 4185 4254 
+sources Solar_power.txt 13 411 2462 2496 2578 4788 5514 5616 5915 5920 6530 7171 7226 7325 
+batteries Solar_power.txt 15 703 3265 3271 5049 5171 5182 5210 5350 5352 5386 5393 5428 5458 5477 5488 
+stored Solar_power.txt 2 4709 5233 
+voltage Solar_power.txt 1 656 
+years Solar_power.txt 13 1486 1675 2149 2379 3102 4328 4419 6248 6260 6268 6280 6289 6368 
+web Solar_power.txt 1 5300 
+density Solar_power.txt 1 5383 
+residential Solar_power.txt 9 465 664 1397 2526 2604 2634 2870 4333 5361 
+large-scale Solar_power.txt 3 2113 4071 7232 
+add Solar_power.txt 2 1897 4944 
+adoption Solar_power.txt 1 1442 
+attractive Solar_power.txt 2 4216 4251 
+wet Solar_power.txt 2 6547 6799 
+usage Solar_power.txt 3 1584 6149 7082 
+280 Solar_power.txt 1 4478 
+riverside Solar_power.txt 2 1748 6779 
+match Solar_power.txt 2 3231 3260 
+286 Solar_power.txt 1 580 
+increased Solar_power.txt 1 2235 
+articles Solar_power.txt 1 4439 
+nedo Solar_power.txt 1 1356 
+siemens Solar_power.txt 1 507 
+burden Solar_power.txt 3 3471 3755 4172 
+deployment Solar_power.txt 7 1144 1162 1166 1185 1318 1496 3368 
+immediately Solar_power.txt 1 4549 
+nanotechnology Solar_power.txt 1 5632 
+prominent Solar_power.txt 1 5490 
+dubai Solar_power.txt 1 2112 
+necessary Solar_power.txt 1 3396 
+like Solar_power.txt 2 2463 4789 
+lost Solar_power.txt 2 3704 6881 
+alternatively Solar_power.txt 1 3865 
+perpetual Solar_power.txt 1 3690 
+displaces Solar_power.txt 1 4690 
+lose Solar_power.txt 1 4930 
+become Solar_power.txt 1 1219 
+works Solar_power.txt 1 4853 
+mid-1990s Solar_power.txt 2 1387 1393 
+parity Solar_power.txt 9 2661 2665 2667 2792 2824 2836 2864 3385 3400 
+because Solar_power.txt 6 3645 3774 4557 4980 5518 6656 
+grids Solar_power.txt 1 401 
+tumble Solar_power.txt 1 3316 
+concentrator Solar_power.txt 1 7309 
+authority Solar_power.txt 1 4372 
+daylight Solar_power.txt 1 903 
+growth Solar_power.txt 6 1147 1380 1488 1541 3835 4085 
+proper Solar_power.txt 1 6973 
+home Solar_power.txt 1 5330 
+employment Solar_power.txt 1 5317 
+lead Solar_power.txt 4 5774 6994 7115 7164 
+0.25 Solar_power.txt 1 3070 
+avoid Solar_power.txt 1 3942 
+rewarding Solar_power.txt 1 3539 
+does Solar_power.txt 3 2543 5772 7198 
+moderated Solar_power.txt 1 1378 
+economical Solar_power.txt 1 2388 
+chains Solar_power.txt 1 6933 
+limitations Solar_power.txt 1 3198 
+epbt Solar_power.txt 1 6185 
+pressure Solar_power.txt 1 4161 
+tenfold Solar_power.txt 1 1613 
+inherently Solar_power.txt 1 4633 
+although Solar_power.txt 4 537 5244 6700 6810 
+paste Solar_power.txt 1 7119 
+simpler Solar_power.txt 1 3496 
+about Solar_power.txt 11 6 337 1918 2318 3972 4498 4781 5042 6287 7111 7141 
+accionas Solar_power.txt 1 929 
+actual Solar_power.txt 1 3533 
+dependence Solar_power.txt 1 426 
+recognized Solar_power.txt 1 512 
+compatible Solar_power.txt 1 4996 
+introduced Solar_power.txt 2 4068 4193 
+outset Solar_power.txt 1 4093 
+own Solar_power.txt 1 5311 
+functional Solar_power.txt 1 1289 
+weather Solar_power.txt 3 4655 4752 4908 
+kilowatt-hours Solar_power.txt 2 2297 3765 
+91122 Solar_power.txt 1 5880 
+utility Solar_power.txt 7 1263 3444 3815 3896 3934 4669 4676 
+1984 Solar_power.txt 1 1384 
+1983 Solar_power.txt 1 1363 
+transfer Solar_power.txt 1 5685 
+terminates Solar_power.txt 1 3745 
+function Solar_power.txt 2 3519 4356 
+north Solar_power.txt 3 1281 2994 4391 
+1860s Solar_power.txt 1 1209 
+but Solar_power.txt 11 380 1370 1497 1521 3333 3583 3773 5146 5301 5781 6872 
+construction Solar_power.txt 4 4446 4942 5931 6787 
+goals Solar_power.txt 1 2243 
+delivers Solar_power.txt 1 3950 
+highest Solar_power.txt 5 1063 1578 2925 6437 6502 
+he Solar_power.txt 1 2449 
+embargo Solar_power.txt 1 1296 
+made Solar_power.txt 3 897 1755 5704 
+cells Solar_power.txt 10 168 541 578 633 1046 1153 1234 6943 6951 7109 
+signed Solar_power.txt 1 2093 
+placed Solar_power.txt 1 990 
+below Solar_power.txt 4 2541 2739 2862 3034 
+converted Solar_power.txt 1 542 
+720 Solar_power.txt 1 6575 
+pumped Solar_power.txt 1 5585 
+minutes Solar_power.txt 1 5198 
+patterns Solar_power.txt 1 3108 
+contribute Solar_power.txt 1 336 
+c-si Solar_power.txt 1 7154 
+consumed Solar_power.txt 1 6202 
+periods Solar_power.txt 1 5225 
+compared Solar_power.txt 2 3855 4217 
+variety Solar_power.txt 1 5694 
+46 Solar_power.txt 1 5809 
+45 Solar_power.txt 1 6079 
+percent Solar_power.txt 11 341 2179 2188 2406 4500 5453 6135 6717 6731 6879 7113 
+40 Solar_power.txt 2 1546 2148 
+other Solar_power.txt 20 14 723 1340 1434 1858 2577 2802 2849 3135 3280 4219 4691 5138 5475 5517 5966 6172 6498 6847 6905 
+predominant Solar_power.txt 1 5356 
+star Solar_power.txt 1 1786 
+june Solar_power.txt 1 4260 
+variation Solar_power.txt 1 4775 
+ecological Solar_power.txt 1 6931 
+pumps Solar_power.txt 1 3297 
+lithium-ion Solar_power.txt 2 5349 5385 
+low-carbon Solar_power.txt 1 285 
+ipcc Solar_power.txt 1 5904 
+factors Solar_power.txt 3 2008 4698 6052 
+rule Solar_power.txt 1 2301 
+compete Solar_power.txt 2 2477 2490 
+tonnes Solar_power.txt 1 7144 
+indirectly Solar_power.txt 1 137 

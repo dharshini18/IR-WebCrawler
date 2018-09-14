@@ -1,0 +1,272 @@
+operations Solar_telescope.txt 1 102 
+wavelengths Solar_telescope.txt 2 39 442 
+atmosphere Solar_telescope.txt 1 462 
+solar Solar_telescope.txt 24 0 6 21 33 59 62 98 106 115 135 167 209 234 284 384 414 417 424 432 445 464 470 540 553 
+less Solar_telescope.txt 1 76 
+being Solar_telescope.txt 1 400 
+astronomical Solar_telescope.txt 1 85 
+degrades Solar_telescope.txt 1 161 
+canary Solar_telescope.txt 1 18 
+infrared Solar_telescope.txt 1 441 
+atst Solar_telescope.txt 3 117 239 351 
+paper Solar_telescope.txt 1 508 
+through Solar_telescope.txt 1 196 
+filters Solar_telescope.txt 2 91 511 
+turbulence Solar_telescope.txt 2 159 278 
+types Solar_telescope.txt 1 427 
+95 Solar_telescope.txt 1 516 
+causes Solar_telescope.txt 1 158 
+ground Solar_telescope.txt 1 151 
+redirect Solar_telescope.txt 1 515 
+hydrogen-alpha Solar_telescope.txt 2 475 526 
+position Solar_telescope.txt 1 389 
+system Solar_telescope.txt 1 477 
+photoheliograph Solar_telescope.txt 1 56 
+la Solar_telescope.txt 1 14 
+absorption Solar_telescope.txt 1 459 
+sky Solar_telescope.txt 1 382 
+outside Solar_telescope.txt 2 44 368 
+2.5 Solar_telescope.txt 1 244 
+blocking Solar_telescope.txt 1 510 
+elements Solar_telescope.txt 1 290 
+to Solar_telescope.txt 19 29 68 123 129 164 190 194 262 269 274 311 316 358 403 457 489 499 525 536 
+only Solar_telescope.txt 3 122 261 397 
+systems Solar_telescope.txt 2 498 528 
+photon-starved Solar_telescope.txt 1 101 
+equipped Solar_telescope.txt 1 472 
+include Solar_telescope.txt 1 53 
+over Solar_telescope.txt 1 328 
+achieve Solar_telescope.txt 1 69 
+worse Solar_telescope.txt 1 144 
+far Solar_telescope.txt 1 43 
+integral Solar_telescope.txt 1 228 
+de Solar_telescope.txt 1 10 
+stop Solar_telescope.txt 2 225 258 
+possible Solar_telescope.txt 2 72 325 
+induce Solar_telescope.txt 1 275 
+framework Solar_telescope.txt 1 189 
+meter Solar_telescope.txt 1 330 
+vacuum Solar_telescope.txt 2 308 342 
+not Solar_telescope.txt 7 42 121 260 273 297 324 451 
+during Solar_telescope.txt 1 138 
+difference Solar_telescope.txt 2 335 362 
+day Solar_telescope.txt 1 140 
+advanced Solar_telescope.txt 1 113 
+cool Solar_telescope.txt 1 271 
+painted Solar_telescope.txt 1 178 
+phenomena Solar_telescope.txt 1 446 
+edit Solar_telescope.txt 7 61 419 430 466 558 560 563 
+always Solar_telescope.txt 1 298 
+list Solar_telescope.txt 1 422 
+large Solar_telescope.txt 2 66 346 
+spectrohelioscopes Solar_telescope.txt 1 533 
+diagram Solar_telescope.txt 1 546 
+european Solar_telescope.txt 1 105 
+optics Solar_telescope.txt 1 65 
+because Solar_telescope.txt 3 134 149 371 
+telescope Solar_telescope.txt 13 1 7 22 27 107 116 154 183 301 320 370 415 471 
+some Solar_telescope.txt 1 383 
+obsolete Solar_telescope.txt 1 48 
+observed Solar_telescope.txt 1 449 
+roque Solar_telescope.txt 1 9 
+see Solar_telescope.txt 2 420 556 
+used Solar_telescope.txt 2 28 488 
+design Solar_telescope.txt 1 232 
+are Solar_telescope.txt 6 169 177 386 391 485 542 
+pass Solar_telescope.txt 1 195 
+home Solar_telescope.txt 1 531 
+wedges Solar_telescope.txt 1 513 
+special Solar_telescope.txt 1 25 
+eyepiece Solar_telescope.txt 1 523 
+another Solar_telescope.txt 1 208 
+travels Solar_telescope.txt 1 374 
+herschel Solar_telescope.txt 2 512 549 
+est Solar_telescope.txt 2 108 349 
+for Solar_telescope.txt 6 50 78 146 220 236 326 
+sun Solar_telescope.txt 6 32 51 373 406 492 502 
+tube Solar_telescope.txt 1 343 
+selected Solar_telescope.txt 1 416 
+wikipedia Solar_telescope.txt 1 2 
+near Solar_telescope.txt 1 440 
+increase Solar_telescope.txt 2 124 130 
+track Solar_telescope.txt 1 404 
+enough Solar_telescope.txt 2 67 272 
+eliminate Solar_telescope.txt 1 312 
+dutch Solar_telescope.txt 2 181 299 
+moving Solar_telescope.txt 1 398 
+across Solar_telescope.txt 1 380 
+contrast Solar_telescope.txt 1 535 
+be Solar_telescope.txt 1 448 
+everything Solar_telescope.txt 1 495 
+recently Solar_telescope.txt 1 88 
+power Solar_telescope.txt 2 82 133 
+heliograph Solar_telescope.txt 1 54 
+however Solar_telescope.txt 2 87 321 
+dome Solar_telescope.txt 2 282 357 
+pressure Solar_telescope.txt 1 334 
+tightly-focused Solar_telescope.txt 1 218 
+operating Solar_telescope.txt 1 305 
+although Solar_telescope.txt 1 296 
+active Solar_telescope.txt 1 353 
+path Solar_telescope.txt 1 379 
+therefore Solar_telescope.txt 1 347 
+telescopes Solar_telescope.txt 18 34 52 60 63 86 99 136 148 168 205 235 281 385 418 425 465 538 541 
+temperature Solar_telescope.txt 1 361 
+both Solar_telescope.txt 1 103 
+fixed Solar_telescope.txt 2 378 387 
+of Solar_telescope.txt 16 83 230 233 249 254 340 355 409 423 428 460 468 481 506 517 547 
+larger Solar_telescope.txt 1 119 
+reason Solar_telescope.txt 1 222 
+motion Solar_telescope.txt 1 314 
+amateurs Solar_telescope.txt 1 493 
+usually Solar_telescope.txt 3 35 170 543 
+islands Solar_telescope.txt 1 19 
+narrow Solar_telescope.txt 1 377 
+or Solar_telescope.txt 2 41 309 
+peak Solar_telescope.txt 1 247 
+load Solar_telescope.txt 2 242 266 
+seeing Solar_telescope.txt 1 141 
+heliostat Solar_telescope.txt 1 402 
+simple Solar_telescope.txt 1 497 
+narrower Solar_telescope.txt 1 90 
+one Solar_telescope.txt 1 407 
+visible Solar_telescope.txt 2 46 437 
+smaller Solar_telescope.txt 1 545 
+references Solar_telescope.txt 1 559 
+names Solar_telescope.txt 1 49 
+framerates Solar_telescope.txt 1 94 
+heated Solar_telescope.txt 1 156 
+observatories Solar_telescope.txt 2 285 433 
+open Solar_telescope.txt 3 182 188 300 
+between Solar_telescope.txt 1 363 
+methods Solar_telescope.txt 2 487 555 
+earths Solar_telescope.txt 1 454 
+use Solar_telescope.txt 1 494 
+long Solar_telescope.txt 1 293 
+from Solar_telescope.txt 3 452 496 521 
+additional Solar_telescope.txt 1 277 
+there Solar_telescope.txt 1 484 
+due Solar_telescope.txt 2 315 456 
+sunlight Solar_telescope.txt 1 219 
+by Solar_telescope.txt 1 216 
+los Solar_telescope.txt 1 11 
+cooling Solar_telescope.txt 2 202 354 
+window Solar_telescope.txt 1 339 
+focal Solar_telescope.txt 1 294 
+survive Solar_telescope.txt 1 263 
+white Solar_telescope.txt 2 179 507 
+structures Solar_telescope.txt 1 176 
+filter Solar_telescope.txt 2 476 527 
+too Solar_telescope.txt 1 345 
+main Solar_telescope.txt 2 206 288 
+entrance Solar_telescope.txt 1 338 
+amateur Solar_telescope.txt 4 463 469 482 539 
+complete Solar_telescope.txt 1 198 
+upcoming Solar_telescope.txt 1 238 
+on Solar_telescope.txt 4 172 186 375 503 
+towers Solar_telescope.txt 1 173 
+becomes Solar_telescope.txt 1 344 
+problem Solar_telescope.txt 1 211 
+but Solar_telescope.txt 4 75 127 267 443 
+viewing Solar_telescope.txt 1 554 
+heat Solar_telescope.txt 5 214 224 241 257 265 
+observe Solar_telescope.txt 3 30 434 490 
+mw/m Solar_telescope.txt 1 245 
+external Solar_telescope.txt 1 561 
+newer Solar_telescope.txt 1 89 
+optical Solar_telescope.txt 1 289 
+with Solar_telescope.txt 5 38 246 291 395 473 
+than Solar_telescope.txt 1 145 
+albeit Solar_telescope.txt 1 450 
+observatory Solar_telescope.txt 1 13 
+this Solar_telescope.txt 5 166 221 264 322 410 
+inside Solar_telescope.txt 3 279 318 366 
+uv Solar_telescope.txt 1 438 
+up Solar_telescope.txt 1 524 
+air Solar_telescope.txt 2 313 365 
+project Solar_telescope.txt 1 500 
+remain Solar_telescope.txt 1 270 
+limit Solar_telescope.txt 1 74 
+can Solar_telescope.txt 1 447 
+many Solar_telescope.txt 1 486 
+field Solar_telescope.txt 1 480 
+muchachos Solar_telescope.txt 1 12 
+piece Solar_telescope.txt 1 505 
+powers Solar_telescope.txt 1 248 
+example Solar_telescope.txt 2 408 467 
+buried Solar_telescope.txt 1 393 
+and Solar_telescope.txt 12 55 92 160 174 200 302 350 367 390 439 529 551 
+wedge Solar_telescope.txt 1 550 
+associated Solar_telescope.txt 1 80 
+links Solar_telescope.txt 1 562 
+diffraction Solar_telescope.txt 1 73 
+is Solar_telescope.txt 10 23 142 155 184 212 226 243 259 323 411 
+mirror Solar_telescope.txt 1 207 
+spectrum Solar_telescope.txt 1 47 
+surface Solar_telescope.txt 1 455 
+an Solar_telescope.txt 2 187 227 
+as Solar_telescope.txt 2 109 111 
+1-m Solar_telescope.txt 1 5 
+at Solar_telescope.txt 4 8 331 336 436 
+have Solar_telescope.txt 4 95 118 287 352 
+in Solar_telescope.txt 6 16 40 306 388 478 534 
+need Solar_telescope.txt 1 64 
+convection Solar_telescope.txt 1 317 
+technology Solar_telescope.txt 1 114 
+any Solar_telescope.txt 1 276 
+contents Solar_telescope.txt 1 57 
+around Solar_telescope.txt 2 152 203 
+swedish Solar_telescope.txt 1 4 
+paths Solar_telescope.txt 1 304 
+built Solar_telescope.txt 3 171 185 532 
+provide Solar_telescope.txt 1 201 
+helium Solar_telescope.txt 1 310 
+generally Solar_telescope.txt 1 143 
+1 Solar_telescope.txt 1 329 
+also Solar_telescope.txt 5 96 128 268 421 557 
+night-time Solar_telescope.txt 1 147 
+other Solar_telescope.txt 4 84 426 444 552 
+best Solar_telescope.txt 1 71 
+which Solar_telescope.txt 3 157 332 514 
+underground Solar_telescope.txt 1 394 
+kw Solar_telescope.txt 1 251 
+light-collecting Solar_telescope.txt 2 81 132 
+higher Solar_telescope.txt 1 93 
+optically Solar_telescope.txt 1 435 
+even Solar_telescope.txt 1 530 
+towards Solar_telescope.txt 1 100 
+allow Solar_telescope.txt 1 191 
+may Solar_telescope.txt 1 286 
+mcmath-pierce Solar_telescope.txt 1 413 
+categories Solar_telescope.txt 1 564 
+much Solar_telescope.txt 1 544 
+driven Solar_telescope.txt 1 97 
+most Solar_telescope.txt 1 431 
+generated Solar_telescope.txt 1 215 
+detect Solar_telescope.txt 1 36 
+palma Solar_telescope.txt 1 15 
+purpose Solar_telescope.txt 1 26 
+telescope-specific Solar_telescope.txt 1 210 
+such Solar_telescope.txt 1 255 
+astronomy Solar_telescope.txt 1 483 
+structure Solar_telescope.txt 1 199 
+goal Solar_telescope.txt 1 253 
+a Solar_telescope.txt 10 20 24 223 256 307 376 401 474 504 548 
+observation Solar_telescope.txt 1 429 
+minimize Solar_telescope.txt 1 359 
+light Solar_telescope.txt 4 37 303 509 519 
+apertures Solar_telescope.txt 2 120 327 
+sometimes Solar_telescope.txt 1 392 
+well Solar_telescope.txt 1 110 
+lengths Solar_telescope.txt 1 295 
+11.4 Solar_telescope.txt 1 250 
+part Solar_telescope.txt 2 229 399 
+so Solar_telescope.txt 1 77 
+alleviate Solar_telescope.txt 1 165 
+very Solar_telescope.txt 1 292 
+professional Solar_telescope.txt 3 58 283 537 
+the Solar_telescope.txt 48 3 17 31 45 70 79 104 112 125 131 139 150 153 162 175 180 192 197 204 213 217 231 237 240 252 280 319 333 337 341 348 356 360 364 369 372 381 396 405 412 453 458 461 479 491 501 518 522 
+operate Solar_telescope.txt 1 137 
+resolution Solar_telescope.txt 2 126 163 
+away Solar_telescope.txt 1 520 
+wind Solar_telescope.txt 1 193 

@@ -1,0 +1,354 @@
+arcminutes Apparent_diameter.txt 1 586 
+suns Apparent_diameter.txt 1 722 
+four Apparent_diameter.txt 1 547 
+disk Apparent_diameter.txt 1 562 
+whose Apparent_diameter.txt 2 112 170 
+patches Apparent_diameter.txt 1 819 
+to Apparent_diameter.txt 24 75 84 116 153 179 198 215 277 334 495 630 687 737 749 756 869 924 926 939 944 960 982 988 1019 
+every Apparent_diameter.txt 1 905 
+difference Apparent_diameter.txt 1 195 
+categories Apparent_diameter.txt 2 1130 1132 
+illustrated Apparent_diameter.txt 1 593 
+large Apparent_diameter.txt 2 23 728 
+these Apparent_diameter.txt 2 325 384 
+vector Apparent_diameter.txt 1 119 
+small Apparent_diameter.txt 2 330 1059 
+shows Apparent_diameter.txt 2 472 572 
+optics Apparent_diameter.txt 1 47 
+estimates Apparent_diameter.txt 1 263 
+measurable Apparent_diameter.txt 1 969 
+approximation Apparent_diameter.txt 1 242 
+second Apparent_diameter.txt 1 911 
+perspective Apparent_diameter.txt 1 873 
+even Apparent_diameter.txt 1 784 
+appear Apparent_diameter.txt 2 923 1039 
+sun Apparent_diameter.txt 11 402 427 448 491 578 601 623 654 680 711 734 
+expressed Apparent_diameter.txt 1 378 
+above Apparent_diameter.txt 2 450 594 
+body Apparent_diameter.txt 2 761 1091 
+subdivided Apparent_diameter.txt 1 866 
+full Apparent_diameter.txt 4 559 744 782 875 
+degree Apparent_diameter.txt 2 345 882 
+equals Apparent_diameter.txt 3 90 173 355 
+pluto Apparent_diameter.txt 1 786 
+objects Apparent_diameter.txt 7 234 305 385 858 990 1028 1033 
+tangent Apparent_diameter.txt 1 210 
+galilean Apparent_diameter.txt 1 548 
+103 Apparent_diameter.txt 1 510 
+appears Apparent_diameter.txt 1 28 
+obtained Apparent_diameter.txt 2 162 269 
+32 Apparent_diameter.txt 1 585 
+larger Apparent_diameter.txt 3 789 806 818 
+diameter Apparent_diameter.txt 44 1 6 9 13 58 94 105 108 142 148 172 187 247 266 292 314 366 372 389 396 424 444 465 488 556 576 598 613 633 651 670 690 708 723 752 764 971 977 986 1002 1050 1052 1055 1066 
+useful Apparent_diameter.txt 1 816 
+illumination Apparent_diameter.txt 3 1074 1078 1116 
+cloud Apparent_diameter.txt 1 1061 
+use Apparent_diameter.txt 2 226 287 
+eye Apparent_diameter.txt 1 70 
+links Apparent_diameter.txt 1 1128 
+would Apparent_diameter.txt 2 775 922 
+two Apparent_diameter.txt 1 1047 
+camera Apparent_diameter.txt 1 72 
+therefore Apparent_diameter.txt 2 363 864 
+6 Apparent_diameter.txt 1 641 
+aperture Apparent_diameter.txt 1 52 
+minor Apparent_diameter.txt 1 1054 
+on Apparent_diameter.txt 3 528 566 916 
+apparent Apparent_diameter.txt 8 5 12 15 82 203 541 807 1065 
+visual Apparent_diameter.txt 2 43 1064 
+5.15 Apparent_diameter.txt 1 534 
+known Apparent_diameter.txt 2 953 965 
+must Apparent_diameter.txt 1 73 
+hour Apparent_diameter.txt 1 906 
+this Apparent_diameter.txt 4 470 522 537 871 
+can Apparent_diameter.txt 6 59 131 188 896 979 1015 
+of Apparent_diameter.txt 66 33 53 63 80 102 109 123 128 149 182 205 221 254 264 303 311 343 367 390 397 407 419 425 431 438 446 457 463 466 476 486 489 500 509 514 543 557 577 599 607 635 652 661 692 709 718 754 765 820 825 832 839 853 859 919 1007 1010 1049 1067 1073 1077 1084 1088 1105 1115 1120 
+example Apparent_diameter.txt 4 520 828 1057 1098 
+figure Apparent_diameter.txt 1 286 
+expanding Apparent_diameter.txt 1 998 
+sphere Apparent_diameter.txt 4 25 184 207 223 
+orion Apparent_diameter.txt 1 826 
+rather Apparent_diameter.txt 1 319 
+get Apparent_diameter.txt 1 496 
+1 Apparent_diameter.txt 5 259 391 408 413 469 
+how Apparent_diameter.txt 1 22 
+opposite Apparent_diameter.txt 1 86 
+arc-second Apparent_diameter.txt 1 930 
+may Apparent_diameter.txt 2 267 950 
+max Apparent_diameter.txt 1 517 
+diagram Apparent_diameter.txt 1 98 
+plane Apparent_diameter.txt 1 113 
+such Apparent_diameter.txt 2 995 1034 
+a Apparent_diameter.txt 28 24 30 54 110 167 206 278 347 375 405 429 458 461 497 507 664 697 699 759 763 804 912 952 961 968 1063 1089 1094 
+elongation Apparent_diameter.txt 1 553 
+cosmology Apparent_diameter.txt 1 1026 
+so Apparent_diameter.txt 5 352 637 694 758 1012 
+definitions Apparent_diameter.txt 1 1009 
+holds Apparent_diameter.txt 1 243 
+noteworthy Apparent_diameter.txt 1 477 
+vary Apparent_diameter.txt 1 747 
+through Apparent_diameter.txt 2 67 797 
+its Apparent_diameter.txt 4 209 546 615 730 
+20 Apparent_diameter.txt 2 256 1069 
+monitor Apparent_diameter.txt 1 530 
+estimating Apparent_diameter.txt 1 245 
+degrees Apparent_diameter.txt 6 351 591 814 838 863 904 
+400 Apparent_diameter.txt 1 725 
+2017 Apparent_diameter.txt 1 569 
+finer Apparent_diameter.txt 1 845 
+them Apparent_diameter.txt 1 336 
+half Apparent_diameter.txt 1 91 
+brightness Apparent_diameter.txt 2 770 779 
+edit Apparent_diameter.txt 8 97 251 290 1029 1075 1124 1126 1129 
+fully Apparent_diameter.txt 1 279 
+radians Apparent_diameter.txt 1 165 
+radian Apparent_diameter.txt 2 348 354 
+found Apparent_diameter.txt 1 190 
+side Apparent_diameter.txt 2 79 87 
+mean Apparent_diameter.txt 1 417 
+telescope Apparent_diameter.txt 1 801 
+250,000 Apparent_diameter.txt 3 604 658 675 
+700 Apparent_diameter.txt 1 757 
+displacement Apparent_diameter.txt 1 118 
+inverted Apparent_diameter.txt 1 981 
+measurement Apparent_diameter.txt 1 20 
+our Apparent_diameter.txt 1 997 
+shown Apparent_diameter.txt 1 283 
+space Apparent_diameter.txt 2 800 994 
+since Apparent_diameter.txt 2 239 324 
+formula Apparent_diameter.txt 5 96 101 136 193 978 
+centauri Apparent_diameter.txt 2 663 696 
+galaxies Apparent_diameter.txt 2 854 1036 
+given Apparent_diameter.txt 6 31 308 382 449 1046 1095 
+subtended Apparent_diameter.txt 1 295 
+put Apparent_diameter.txt 1 870 
+nebulas Apparent_diameter.txt 1 1038 
+hubble Apparent_diameter.txt 1 799 
+e.g Apparent_diameter.txt 1 796 
+unilluminated Apparent_diameter.txt 1 1086 
+times Apparent_diameter.txt 10 511 605 619 626 642 659 676 683 726 739 
+motion Apparent_diameter.txt 1 892 
+length Apparent_diameter.txt 1 932 
+major Apparent_diameter.txt 1 1051 
+450 Apparent_diameter.txt 1 755 
+one Apparent_diameter.txt 6 78 344 353 432 929 1006 
+directly Apparent_diameter.txt 1 940 
+angular Apparent_diameter.txt 40 0 8 10 19 51 57 88 93 104 107 141 186 246 265 291 313 326 365 388 395 423 443 474 487 575 597 632 650 689 707 751 810 840 851 900 970 976 985 1001 1082 
+size Apparent_diameter.txt 7 11 16 808 841 852 901 955 
+earths Apparent_diameter.txt 2 398 420 
+little Apparent_diameter.txt 1 700 
+nebulae Apparent_diameter.txt 1 855 
+0.03 Apparent_diameter.txt 2 435 445 
+approximately Apparent_diameter.txt 3 452 584 902 
+their Apparent_diameter.txt 3 312 321 564 
+180 Apparent_diameter.txt 1 350 
+2 Apparent_diameter.txt 1 411 
+which Apparent_diameter.txt 4 68 138 212 358 
+that Apparent_diameter.txt 10 201 235 437 456 573 606 660 717 973 1013 
+part Apparent_diameter.txt 1 1087 
+than Apparent_diameter.txt 3 218 320 790 
+wide Apparent_diameter.txt 1 527 
+15 Apparent_diameter.txt 2 903 908 
+result Apparent_diameter.txt 1 161 
+and Apparent_diameter.txt 21 45 125 143 144 150 159 174 258 346 436 493 545 614 671 729 767 967 1037 1042 1053 1108 
+defect Apparent_diameter.txt 3 1072 1076 1114 
+500,000 Apparent_diameter.txt 2 618 738 
+talking Apparent_diameter.txt 1 848 
+have Apparent_diameter.txt 4 158 386 776 951 
+need Apparent_diameter.txt 1 843 
+seen Apparent_diameter.txt 4 316 481 580 1092 
+contents Apparent_diameter.txt 1 95 
+relatively Apparent_diameter.txt 1 237 
+angle Apparent_diameter.txt 6 44 66 294 648 705 774 
+also Apparent_diameter.txt 3 656 732 1123 
+non-euclidean Apparent_diameter.txt 1 993 
+non-circular Apparent_diameter.txt 2 1027 1041 
+sirius Apparent_diameter.txt 3 608 609 638 
+though Apparent_diameter.txt 1 785 
+object Apparent_diameter.txt 9 155 169 298 369 946 949 963 1022 1101 
+arcsecond Apparent_diameter.txt 2 340 392 
+75 Apparent_diameter.txt 1 1110 
+significant Apparent_diameter.txt 1 231 
+representation Apparent_diameter.txt 1 499 
+alpha Apparent_diameter.txt 2 662 695 
+measured Apparent_diameter.txt 2 812 898 
+calculated Apparent_diameter.txt 1 133 
+cover Apparent_diameter.txt 1 835 
+face Apparent_diameter.txt 1 918 
+points Apparent_diameter.txt 1 211 
+redirected Apparent_diameter.txt 1 3 
+typically Apparent_diameter.txt 3 329 937 1045 
+fact Apparent_diameter.txt 1 200 
+bright Apparent_diameter.txt 4 628 644 685 741 
+ceres Apparent_diameter.txt 2 791 802 
+earth Apparent_diameter.txt 7 318 440 468 484 582 795 879 
+ratio Apparent_diameter.txt 3 634 691 753 
+with Apparent_diameter.txt 4 370 554 762 964 
+brighter Apparent_diameter.txt 1 701 
+only Apparent_diameter.txt 2 230 1005 
+arcseconds Apparent_diameter.txt 5 338 357 362 380 588 
+circle Apparent_diameter.txt 6 27 83 111 130 518 523 
+10 Apparent_diameter.txt 5 255 567 625 636 1118 
+between Apparent_diameter.txt 1 120 
+during Apparent_diameter.txt 1 563 
+conjunction Apparent_diameter.txt 1 565 
+yield Apparent_diameter.txt 1 983 
+twice Apparent_diameter.txt 1 611 
+410 Apparent_diameter.txt 1 682 
+common Apparent_diameter.txt 1 333 
+3,600*180 Apparent_diameter.txt 1 356 
+where Apparent_diameter.txt 1 175 
+vision Apparent_diameter.txt 1 37 
+view Apparent_diameter.txt 4 34 124 503 531 
+observer Apparent_diameter.txt 2 217 1096 
+physically Apparent_diameter.txt 1 788 
+1920 Apparent_diameter.txt 1 587 
+see Apparent_diameter.txt 2 1023 1122 
+arc Apparent_diameter.txt 3 885 1106 1121 
+radius Apparent_diameter.txt 2 89 418 
+are Apparent_diameter.txt 9 145 208 213 236 306 328 815 865 1043 
+close Apparent_diameter.txt 1 238 
+constellation Apparent_diameter.txt 1 824 
+arm Apparent_diameter.txt 1 281 
+closer Apparent_diameter.txt 2 214 962 
+said Apparent_diameter.txt 1 129 
+away Apparent_diameter.txt 1 536 
+wikipedia Apparent_diameter.txt 1 2 
+3 Apparent_diameter.txt 1 1070 
+moons Apparent_diameter.txt 2 549 891 
+across Apparent_diameter.txt 2 893 1107 
+we Apparent_diameter.txt 2 157 842 
+terms Apparent_diameter.txt 1 310 
+many Apparent_diameter.txt 1 1030 
+april Apparent_diameter.txt 1 568 
+s Apparent_diameter.txt 1 561 
+figures Apparent_diameter.txt 1 746 
+distinction Apparent_diameter.txt 1 228 
+small-angle Apparent_diameter.txt 1 241 
+cm Apparent_diameter.txt 1 526 
+point Apparent_diameter.txt 2 32 122 
+callisto Apparent_diameter.txt 1 550 
+table Apparent_diameter.txt 2 471 571 
+belt Apparent_diameter.txt 1 834 
+three Apparent_diameter.txt 1 830 
+pc Apparent_diameter.txt 1 409 
+much Apparent_diameter.txt 4 621 678 805 844 
+light-year Apparent_diameter.txt 1 433 
+corresponding Apparent_diameter.txt 3 629 686 748 
+painted Apparent_diameter.txt 1 915 
+external Apparent_diameter.txt 1 1127 
+angles Apparent_diameter.txt 2 253 276 
+hidden Apparent_diameter.txt 1 1131 
+present Apparent_diameter.txt 1 335 
+case Apparent_diameter.txt 1 974 
+look Apparent_diameter.txt 1 76 
+solid Apparent_diameter.txt 3 647 704 773 
+while Apparent_diameter.txt 1 809 
+30 Apparent_diameter.txt 1 884 
+is Apparent_diameter.txt 40 17 40 49 114 139 163 176 196 229 332 341 349 359 381 410 415 434 451 524 583 602 617 624 639 655 674 681 698 712 724 735 787 880 936 958 1004 1079 1102 1109 1117 
+thus Apparent_diameter.txt 3 393 595 1044 
+it Apparent_diameter.txt 7 39 48 331 532 665 935 957 
+in Apparent_diameter.txt 18 35 46 137 164 284 288 299 309 337 379 813 822 872 899 931 933 972 992 
+if Apparent_diameter.txt 2 521 1099 
+different Apparent_diameter.txt 1 1017 
+perhaps Apparent_diameter.txt 1 956 
+same Apparent_diameter.txt 6 454 669 715 769 778 1021 
+viewed Apparent_diameter.txt 3 403 793 877 
+units Apparent_diameter.txt 1 846 
+several Apparent_diameter.txt 1 1008 
+difficult Apparent_diameter.txt 1 938 
+extended Apparent_diameter.txt 1 280 
+hand Apparent_diameter.txt 3 250 262 273 
+edges Apparent_diameter.txt 1 204 
+roughly Apparent_diameter.txt 1 640 
+thought Apparent_diameter.txt 1 62 
+person Apparent_diameter.txt 1 459 
+the Apparent_diameter.txt 101 7 36 42 50 56 65 85 92 100 103 106 117 121 126 135 140 146 151 154 160 177 180 183 185 192 194 199 202 216 219 222 227 240 272 285 293 301 364 394 401 416 422 426 439 442 447 453 464 467 473 483 490 501 504 512 515 540 555 558 570 574 596 600 612 622 649 653 668 672 679 706 710 714 719 721 733 743 768 777 781 798 823 829 833 850 860 874 890 894 917 920 942 948 975 984 1000 1020 1058 1080 1085 1113 
+bodies Apparent_diameter.txt 1 479 
+spherical Apparent_diameter.txt 2 168 233 
+distances Apparent_diameter.txt 1 1018 
+photo Apparent_diameter.txt 1 538 
+distant Apparent_diameter.txt 1 989 
+0.0003 Apparent_diameter.txt 1 441 
+sciences Apparent_diameter.txt 1 38 
+percent Apparent_diameter.txt 1 1111 
+sky Apparent_diameter.txt 4 821 862 895 1032 
+5 Apparent_diameter.txt 4 257 525 1068 1071 
+has Apparent_diameter.txt 4 610 666 803 1062 
+around Apparent_diameter.txt 1 400 
+using Apparent_diameter.txt 2 134 248 
+0.53 Apparent_diameter.txt 1 590 
+rotate Apparent_diameter.txt 1 74 
+d Apparent_diameter.txt 2 373 377 
+sizes Apparent_diameter.txt 6 302 323 475 502 542 811 
+follows Apparent_diameter.txt 1 868 
+alternatively Apparent_diameter.txt 1 60 
+right Apparent_diameter.txt 1 275 
+often Apparent_diameter.txt 1 307 
+jupiter Apparent_diameter.txt 1 544 
+describing Apparent_diameter.txt 1 21 
+for Apparent_diameter.txt 11 99 166 224 232 244 260 519 817 827 1056 1097 
+centre Apparent_diameter.txt 3 127 181 220 
+per Apparent_diameter.txt 4 645 702 771 910 
+moon Apparent_diameter.txt 8 492 516 560 720 745 783 876 921 
+206,265 Apparent_diameter.txt 1 361 
+unit Apparent_diameter.txt 3 646 703 772 
+be Apparent_diameter.txt 8 61 132 189 268 897 927 980 1016 
+measures Apparent_diameter.txt 2 1025 1048 
+seconds Apparent_diameter.txt 2 1104 1119 
+night Apparent_diameter.txt 1 861 
+perpendicular Apparent_diameter.txt 1 115 
+from Apparent_diameter.txt 11 4 29 77 317 404 428 482 533 581 794 878 
+by Apparent_diameter.txt 5 191 270 296 383 1093 
+comparison Apparent_diameter.txt 1 485 
+about Apparent_diameter.txt 9 360 603 657 667 713 836 849 881 928 
+actual Apparent_diameter.txt 3 147 171 322 
+one-mile-long Apparent_diameter.txt 1 913 
+universe Apparent_diameter.txt 1 999 
+practical Apparent_diameter.txt 1 225 
+or Apparent_diameter.txt 8 14 26 71 589 856 883 887 907 
+image Apparent_diameter.txt 1 505 
+due Apparent_diameter.txt 1 197 
+references Apparent_diameter.txt 1 1125 
+your Apparent_diameter.txt 1 529 
+diameters Apparent_diameter.txt 1 327 
+2.54 Apparent_diameter.txt 1 766 
+there Apparent_diameter.txt 1 1014 
+approximate Apparent_diameter.txt 1 252 
+1/3600th Apparent_diameter.txt 1 342 
+width Apparent_diameter.txt 2 513 1083 
+stars Apparent_diameter.txt 1 831 
+illuminated Apparent_diameter.txt 1 1112 
+but Apparent_diameter.txt 1 947 
+magellanic Apparent_diameter.txt 1 1060 
+line Apparent_diameter.txt 1 914 
+true Apparent_diameter.txt 1 498 
+maximum Apparent_diameter.txt 2 552 1081 
+us Apparent_diameter.txt 1 925 
+200,000 Apparent_diameter.txt 2 693 736 
+similar Apparent_diameter.txt 1 959 
+called Apparent_diameter.txt 1 41 
+distance Apparent_diameter.txt 16 152 178 376 406 430 462 508 616 673 731 943 966 987 1003 1011 1024 
+celestial Apparent_diameter.txt 4 304 478 760 1090 
+arc-seconds Apparent_diameter.txt 2 889 909 
+minutes Apparent_diameter.txt 1 886 
+measure Apparent_diameter.txt 1 941 
+deep Apparent_diameter.txt 1 1031 
+an Apparent_diameter.txt 12 18 69 81 297 339 368 387 631 688 750 945 1100 
+as Apparent_diameter.txt 22 64 282 315 412 455 480 592 620 627 643 677 684 716 727 740 742 780 867 991 996 1035 1040 
+au Apparent_diameter.txt 1 414 
+at Apparent_diameter.txt 5 274 374 460 506 551 
+planets Apparent_diameter.txt 1 494 
+physical Apparent_diameter.txt 2 371 954 
+4.5 Apparent_diameter.txt 1 837 
+outstretched Apparent_diameter.txt 2 249 261 
+when Apparent_diameter.txt 4 156 579 792 847 
+40 Apparent_diameter.txt 1 1103 
+other Apparent_diameter.txt 1 857 
+compares Apparent_diameter.txt 1 539 
+holding Apparent_diameter.txt 1 271 
+m Apparent_diameter.txt 1 535 
+lens Apparent_diameter.txt 1 55 
+astronomy Apparent_diameter.txt 3 289 300 934 
+1800 Apparent_diameter.txt 1 888 
+orbit Apparent_diameter.txt 2 399 421 

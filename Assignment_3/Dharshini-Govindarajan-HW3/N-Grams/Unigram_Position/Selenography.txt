@@ -1,0 +1,752 @@
+limited Selenography.txt 1 1633 
+all Selenography.txt 5 397 599 1384 1448 1663 
+concept Selenography.txt 2 43 640 
+selenography Selenography.txt 7 0 16 71 163 185 255 396 
+global Selenography.txt 1 588 
+four Selenography.txt 1 372 
+spacecraft Selenography.txt 4 128 511 583 1642 
+heliocentric Selenography.txt 1 1015 
+francesco Selenography.txt 1 1081 
+oldest Selenography.txt 1 656 
+religious Selenography.txt 1 814 
+poorly Selenography.txt 1 141 
+devoted Selenography.txt 1 1389 
+copernicus Selenography.txt 2 1011 1401 
+glimpse Selenography.txt 1 495 
+frigoris Selenography.txt 1 1212 
+graph Selenography.txt 1 195 
+crater Selenography.txt 14 155 1701 1717 1745 1830 1837 1848 1866 1978 1981 1988 2000 2041 2047 
+to Selenography.txt 37 51 65 166 178 321 339 423 468 516 521 535 548 678 712 914 924 930 1051 1053 1131 1176 1390 1417 1507 1528 1612 1634 1761 1774 1834 1844 1854 1862 1880 1939 1964 1975 
+masculine Selenography.txt 1 1748 
+atlas Selenography.txt 2 890 1325 
+include Selenography.txt 1 1136 
+sent Selenography.txt 2 478 603 
+andrees Selenography.txt 1 2063 
+updated Selenography.txt 1 1622 
+random Selenography.txt 1 1822 
+advantage Selenography.txt 1 1871 
+geology Selenography.txt 1 20 
+far Selenography.txt 6 119 220 485 1409 1645 1949 
+1791 Selenography.txt 1 1569 
+oceans Selenography.txt 1 845 
+mare Selenography.txt 7 1188 1191 1195 1204 1207 1211 1427 
+seemingly Selenography.txt 1 1818 
+closeup Selenography.txt 1 638 
+riccioli Selenography.txt 3 971 1164 1393 
+exact Selenography.txt 1 149 
+categories Selenography.txt 2 2098 2100 
+hookes Selenography.txt 1 872 
+clouds Selenography.txt 1 1206 
+scholar Selenography.txt 1 976 
+banished Selenography.txt 1 1407 
+notes Selenography.txt 1 2091 
+list Selenography.txt 3 1272 1281 2074 
+imbrium Selenography.txt 1 1205 
+capital Selenography.txt 1 1936 
+large Selenography.txt 2 367 1742 
+julius Selenography.txt 1 1349 
+small Selenography.txt 1 688 
+1665 Selenography.txt 1 874 
+leonardo Selenography.txt 1 681 
+20th Selenography.txt 1 463 
+work Selenography.txt 6 779 882 937 956 1022 1050 
+titled Selenography.txt 1 883 
+direct Selenography.txt 1 402 
+past Selenography.txt 1 861 
+elegant Selenography.txt 1 1498 
+second Selenography.txt 1 1160 
+invention Selenography.txt 1 731 
+sterilitatis Selenography.txt 1 1249 
+medieval Selenography.txt 1 1368 
+established Selenography.txt 1 1594 
+harriot Selenography.txt 1 743 
+richard Selenography.txt 1 2068 
+clock Selenography.txt 1 2011 
+giving Selenography.txt 1 490 
+sun Selenography.txt 1 1794 
+section Selenography.txt 1 1112 
+poles Selenography.txt 1 146 
+scientists Selenography.txt 2 1639 1660 
+illustrations Selenography.txt 1 1065 
+new Selenography.txt 2 1519 1630 
+era Selenography.txt 1 133 
+giambattista Selenography.txt 1 970 
+subdivided Selenography.txt 1 2003 
+full Selenography.txt 2 1280 1995 
+1651 Selenography.txt 1 988 
+here Selenography.txt 1 1408 
+ranges Selenography.txt 2 101 801 
+ranger Selenography.txt 1 510 
+24-hour Selenography.txt 1 2010 
+kilometers Selenography.txt 1 161 
+galileo Selenography.txt 3 745 1009 1404 
+teacher Selenography.txt 1 1076 
+galilei Selenography.txt 1 746 
+depended Selenography.txt 1 1786 
+obtained Selenography.txt 2 125 584 
+360 Selenography.txt 1 1996 
+selenographia Selenography.txt 2 884 950 
+impacted Selenography.txt 1 525 
+study Selenography.txt 5 7 74 253 469 866 
+1840 Selenography.txt 1 406 
+plato Selenography.txt 1 1324 
+extremes Selenography.txt 1 1375 
+resulting Selenography.txt 1 2034 
+published Selenography.txt 5 366 377 717 986 1560 
+usually Selenography.txt 1 1713 
+engineers Selenography.txt 1 1662 
+named Selenography.txt 4 1299 1399 1657 1675 
+topography Selenography.txt 2 593 624 
+followed Selenography.txt 2 272 386 
+historically-notable Selenography.txt 1 2076 
+micrographia Selenography.txt 1 873 
+saints Selenography.txt 2 830 1434 
+vii Selenography.txt 1 1380 
+meath Selenography.txt 1 671 
+replace Selenography.txt 1 1529 
+brought Selenography.txt 1 465 
+visible Selenography.txt 3 320 623 1093 
+names Selenography.txt 26 711 808 819 827 841 851 902 917 1167 1217 1231 1236 1259 1318 1338 1432 1462 1484 1520 1547 1611 1636 1665 1746 1875 1963 
+illumination Selenography.txt 1 1791 
+passage Selenography.txt 1 666 
+readily Selenography.txt 1 1516 
+use Selenography.txt 2 1315 1488 
+from Selenography.txt 13 26 188 539 870 1103 1319 1339 1367 1410 1460 1792 1883 2061 
+links Selenography.txt 1 2096 
+would Selenography.txt 4 336 1135 1817 1831 
+oclock Selenography.txt 1 2026 
+two Selenography.txt 2 441 1145 
+survive Selenography.txt 1 1052 
+associated Selenography.txt 3 1722 1843 1864 
+historically Selenography.txt 1 84 
+today Selenography.txt 2 162 1489 
+more Selenography.txt 3 62 311 466 
+introducing Selenography.txt 1 421 
+formally Selenography.txt 2 1593 1930 
+started Selenography.txt 1 354 
+taruntius Selenography.txt 1 1353 
+democritus Selenography.txt 1 227 
+novum Selenography.txt 3 984 1069 1479 
+langren Selenography.txt 4 775 897 1444 1534 
+particular Selenography.txt 1 1001 
+known Selenography.txt 2 657 929 
+cases Selenography.txt 2 1814 1827 
+aligned Selenography.txt 1 1121 
+iii Selenography.txt 1 1313 
+high Selenography.txt 1 112 
+word Selenography.txt 1 184 
+hour Selenography.txt 1 2013 
+this Selenography.txt 6 2 39 106 387 936 1867 
+science Selenography.txt 1 182 
+originally Selenography.txt 2 1690 1765 
+when Selenography.txt 8 111 226 251 274 351 407 1886 1944 
+remain Selenography.txt 2 140 1485 
+regions Selenography.txt 3 136 1263 1372 
+can Selenography.txt 1 216 
+v Selenography.txt 2 1334 1378 
+believed Selenography.txt 1 228 
+making Selenography.txt 1 355 
+deceased Selenography.txt 1 1638 
+history Selenography.txt 3 68 199 1180 
+civilizations Selenography.txt 1 935 
+reflector Selenography.txt 1 413 
+impacts Selenography.txt 1 70 
+process Selenography.txt 2 1769 1909 
+states Selenography.txt 1 507 
+effectively Selenography.txt 1 1580 
+dropped Selenography.txt 1 1457 
+orbits Selenography.txt 1 1020 
+terrestrial Selenography.txt 1 904 
+united Selenography.txt 1 506 
+end Selenography.txt 1 246 
+rather Selenography.txt 1 1780 
+feature Selenography.txt 1 1859 
+until-then Selenography.txt 1 498 
+write Selenography.txt 1 197 
+very Selenography.txt 3 288 433 446 
+astronomers Selenography.txt 4 338 853 944 1538 
+significance Selenography.txt 1 1779 
+instead Selenography.txt 1 899 
+vitae Selenography.txt 1 1256 
+1750 Selenography.txt 1 324 
+map Selenography.txt 7 368 589 647 785 1360 1564 2057 
+de Selenography.txt 1 723 
+j.w Selenography.txt 1 408 
+handatlas Selenography.txt 1 2065 
+earlier Selenography.txt 1 444 
+derived Selenography.txt 1 187 
+mapping Selenography.txt 4 10 92 346 641 
+oceanus Selenography.txt 1 613 
+date Selenography.txt 1 2087 
+such Selenography.txt 2 1322 1347 
+appealed Selenography.txt 1 1505 
+1881 Selenography.txt 1 2066 
+a Selenography.txt 41 41 66 168 391 411 415 456 665 687 700 713 720 767 811 865 910 959 972 990 1014 1073 1089 1118 1279 1414 1421 1561 1601 1699 1707 1734 1766 1824 1835 1959 1979 2009 2019 2023 2040 2073 
+nectaris Selenography.txt 1 1428 
+natural Selenography.txt 1 503 
+meticulous Selenography.txt 1 356 
+counter Selenography.txt 1 998 
+st Selenography.txt 1 1459 
+greek Selenography.txt 2 190 934 
+18th Selenography.txt 1 300 
+so Selenography.txt 1 1503 
+first Selenography.txt 12 263 285 329 365 428 481 494 586 753 783 888 1148 
+order Selenography.txt 2 1777 2084 
+michel Selenography.txt 1 772 
+archimedes Selenography.txt 1 1327 
+rounded Selenography.txt 1 63 
+hieronymus Selenography.txt 1 1292 
+astronomical Selenography.txt 3 425 460 1919 
+compass Selenography.txt 1 1124 
+soon Selenography.txt 2 271 291 
+years Selenography.txt 1 443 
+produced Selenography.txt 3 327 414 879 
+course Selenography.txt 2 1807 1893 
+mathematicians Selenography.txt 1 854 
+through Selenography.txt 3 766 1105 1735 
+ancients Selenography.txt 1 1412 
+argued Selenography.txt 1 1003 
+deity Selenography.txt 1 192 
+its Selenography.txt 1 278 
+warren Selenography.txt 1 35 
+24 Selenography.txt 2 2006 2037 
+1 Selenography.txt 3 561 629 2025 
+style Selenography.txt 2 1102 1502 
+outer Selenography.txt 1 1374 
+1834 Selenography.txt 1 379 
+maps Selenography.txt 7 1270 1285 1456 1885 1946 2055 2078 
+haphazard Selenography.txt 1 1768 
+coordinates Selenography.txt 1 334 
+better Selenography.txt 3 293 449 610 
+promontories Selenography.txt 1 835 
+writers Selenography.txt 1 1364 
+2014 Selenography.txt 1 630 
+hidden Selenography.txt 1 2099 
+main Selenography.txt 7 1750 1836 1865 1878 1977 1987 2046 
+sterility Selenography.txt 1 1247 
+northwest Selenography.txt 1 1111 
+then Selenography.txt 1 2002 
+reformation Selenography.txt 1 999 
+views Selenography.txt 2 995 1006 
+material Selenography.txt 1 1026 
+effects Selenography.txt 1 1171 
+they Selenography.txt 4 445 524 1306 1720 
+half Selenography.txt 1 1357 
+not Selenography.txt 4 213 243 287 1842 
+1959 Selenography.txt 1 474 
+day Selenography.txt 2 25 1811 
+represents Selenography.txt 1 40 
+name Selenography.txt 1 1079 
+ii Selenography.txt 1 1311 
+edit Selenography.txt 8 200 646 1681 2056 2090 2092 2094 2097 
+traced Selenography.txt 1 218 
+identified Selenography.txt 1 1703 
+nubium Selenography.txt 1 1208 
+weather Selenography.txt 1 1173 
+each Selenography.txt 1 2012 
+subdiscipline Selenography.txt 1 169 
+european Selenography.txt 1 943 
+side Selenography.txt 5 486 500 1646 1856 1950 
+referred Selenography.txt 1 177 
+sketches Selenography.txt 1 691 
+lie Selenography.txt 1 1832 
+telescope Selenography.txt 5 276 440 734 768 1800 
+tacitus Selenography.txt 1 1351 
+scheme Selenography.txt 5 963 1143 1524 1579 1591 
+idea Selenography.txt 1 208 
+begun Selenography.txt 1 282 
+our Selenography.txt 1 502 
+naming Selenography.txt 8 94 643 757 1142 1578 1590 1911 1927 
+peaks Selenography.txt 1 799 
+album Selenography.txt 2 14 17 
+space Selenography.txt 2 132 1677 
+robert Selenography.txt 1 871 
+surrounded Selenography.txt 1 1698 
+research Selenography.txt 1 461 
+liveliness Selenography.txt 1 1254 
+contained Selenography.txt 2 1023 1397 
+priest Selenography.txt 1 974 
+newly Selenography.txt 1 1653 
+1879 Selenography.txt 1 38 
+model Selenography.txt 1 1016 
+after Selenography.txt 3 1473 1640 1658 
+favored Selenography.txt 1 1013 
+midpoint Selenography.txt 1 1860 
+standard Selenography.txt 3 954 1584 1610 
+beginning Selenography.txt 1 2021 
+explorers Selenography.txt 1 1678 
+publication Selenography.txt 2 1475 2086 
+optics Selenography.txt 1 295 
+could Selenography.txt 2 1730 1803 
+place Selenography.txt 1 916 
+serenity Selenography.txt 1 1190 
+south Selenography.txt 2 1133 2043 
+33302790 Selenography.txt 1 679 
+major Selenography.txt 1 1700 
+features Selenography.txt 20 59 80 105 153 341 363 716 759 805 905 1153 1274 1398 1549 1615 1655 1890 1913 1929 1966 
+mappers Selenography.txt 1 1541 
+450 Selenography.txt 1 224 
+omitted Selenography.txt 3 1739 1882 2033 
+caloris Selenography.txt 1 1252 
+number Selenography.txt 3 689 1422 1825 
+smaller Selenography.txt 1 1714 
+done Selenography.txt 1 400 
+nova Selenography.txt 1 728 
+vote Selenography.txt 1 1602 
+thinkers Selenography.txt 1 1509 
+quality Selenography.txt 1 435 
+size Selenography.txt 1 375 
+earths Selenography.txt 1 762 
+given Selenography.txt 8 807 839 849 1215 1229 1430 1990 2049 
+ancient Selenography.txt 6 618 631 635 926 1320 1344 
+annotated Selenography.txt 1 686 
+system Selenography.txt 6 1059 1467 1491 1585 1617 1684 
+approximately Selenography.txt 1 223 
+tradition Selenography.txt 1 1441 
+their Selenography.txt 3 915 1216 1783 
+1500 Selenography.txt 1 696 
+2 Selenography.txt 1 564 
+observations Selenography.txt 2 269 357 
+convention Selenography.txt 1 1933 
+iau Selenography.txt 4 1605 1625 1671 1921 
+gilbert Selenography.txt 2 260 698 
+hundred Selenography.txt 1 442 
+ricciolis Selenography.txt 4 1058 1466 1576 1589 
+recreations Selenography.txt 1 29 
+numbered Selenography.txt 1 1098 
+draper Selenography.txt 1 409 
+that Selenography.txt 11 56 209 229 283 310 335 606 809 912 1012 1697 
+1919 Selenography.txt 1 1923 
+allgemeiner Selenography.txt 1 2064 
+somewhat Selenography.txt 1 1767 
+corresponded Selenography.txt 1 913 
+than Selenography.txt 3 312 1715 1781 
+character Selenography.txt 1 815 
+selenetopographische Selenography.txt 1 1288 
+photograph Selenography.txt 1 536 
+perfectly Selenography.txt 2 214 1018 
+last Selenography.txt 1 1395 
+showed Selenography.txt 1 55 
+rival Selenography.txt 1 881 
+moon#terra Selenography.txt 1 1277 
+nevertheless Selenography.txt 1 134 
+historical Selenography.txt 3 42 1170 2053 
+were Selenography.txt 41 124 231 281 286 307 399 431 607 739 769 806 838 848 907 1070 1183 1198 1214 1228 1233 1243 1298 1307 1314 1337 1361 1388 1406 1429 1447 1632 1656 1674 1702 1712 1721 1747 1752 1771 1901 2032 
+toward Selenography.txt 2 1328 1354 
+posthumously Selenography.txt 1 718 
+and Selenography.txt 57 78 93 102 118 147 194 234 273 358 514 533 541 546 551 563 642 685 748 797 800 825 834 844 855 862 898 933 948 975 1010 1033 1113 1134 1138 1156 1158 1172 1193 1209 1253 1312 1326 1335 1352 1365 1370 1403 1480 1495 1499 1535 1539 1621 1661 1942 2030 2079 
+1973 Selenography.txt 1 565 
+modern Selenography.txt 1 962 
+locations Selenography.txt 1 150 
+kepler Selenography.txt 1 1402 
+manner Selenography.txt 1 911 
+have Selenography.txt 1 1666 
+seen Selenography.txt 1 765 
+1970 Selenography.txt 1 562 
+contents Selenography.txt 1 198 
+hevelius Selenography.txt 5 653 878 891 939 1536 
+mountain Selenography.txt 2 100 798 
+1968 Selenography.txt 1 547 
+1965 Selenography.txt 1 515 
+1966 Selenography.txt 3 532 545 1957 
+1967 Selenography.txt 1 534 
+gravity Selenography.txt 1 626 
+also Selenography.txt 7 19 202 1199 1396 1515 1868 2089 
+caesar Selenography.txt 1 1350 
+take Selenography.txt 2 517 549 
+which Selenography.txt 8 172 708 885 1305 1608 1719 1802 1839 
+adopted Selenography.txt 3 900 1472 1931 
+opposite Selenography.txt 1 1234 
+who Selenography.txt 3 385 977 1559 
+depths Selenography.txt 1 156 
+most Selenography.txt 2 175 1551 
+connected Selenography.txt 1 1449 
+sheets Selenography.txt 1 373 
+philosophia Selenography.txt 1 727 
+measured Selenography.txt 1 308 
+selenology Selenography.txt 1 171 
+grave Selenography.txt 1 667 
+maria Selenography.txt 3 98 795 837 
+philosophers Selenography.txt 1 1366 
+observation Selenography.txt 2 403 1801 
+viii Selenography.txt 2 1106 1387 
+considered Selenography.txt 3 165 781 1497 
+later Selenography.txt 4 54 1455 1537 1619 
+m Selenography.txt 1 2052 
+km Selenography.txt 1 569 
+often-used Selenography.txt 1 1577 
+selenographists Selenography.txt 1 89 
+gesture Selenography.txt 1 1416 
+knowth Selenography.txt 1 669 
+typically Selenography.txt 1 1772 
+came Selenography.txt 1 1527 
+thomas Selenography.txt 1 742 
+particularly Selenography.txt 1 921 
+o Selenography.txt 1 2031 
+lay Selenography.txt 1 1130 
+charles Selenography.txt 1 749 
+multispectral Selenography.txt 1 597 
+discovered Selenography.txt 1 1654 
+attempts Selenography.txt 1 755 
+drawings Selenography.txt 2 280 735 
+earth Selenography.txt 1 920 
+principal Selenography.txt 1 86 
+capes Selenography.txt 1 833 
+based Selenography.txt 5 266 1027 1087 1300 1967 
+knowledge Selenography.txt 1 1029 
+northern Selenography.txt 1 980 
+true Selenography.txt 1 784 
+florent Selenography.txt 1 773 
+storms Selenography.txt 1 617 
+only Selenography.txt 2 1045 2036 
+circle Selenography.txt 1 1997 
+he Selenography.txt 2 709 1002 
+over Selenography.txt 3 958 1805 1891 
+photographs Selenography.txt 3 482 518 605 
+his Selenography.txt 3 778 982 1477 
+means Selenography.txt 1 1705 
+compiled Selenography.txt 1 261 
+photography Selenography.txt 2 422 453 
+between Selenography.txt 4 512 531 544 1225 
+da Selenography.txt 1 682 
+clavius Selenography.txt 1 1137 
+made Selenography.txt 7 277 684 699 740 770 1581 1820 
+distinctly Selenography.txt 1 812 
+mondo Selenography.txt 1 724 
+during Selenography.txt 3 129 996 1626 
+is Selenography.txt 8 4 72 164 174 186 780 1057 2072 
+areas Selenography.txt 1 1224 
+following Selenography.txt 4 729 1439 1521 2071 
+chronological Selenography.txt 1 2083 
+fecunditatis Selenography.txt 1 1196 
+h Selenography.txt 1 33 
+traversed Selenography.txt 1 566 
+common Selenography.txt 1 1487 
+mapped Selenography.txt 1 908 
+fertility Selenography.txt 1 1194 
+16th Selenography.txt 1 705 
+ignored Selenography.txt 1 892 
+set Selenography.txt 1 331 
+reference Selenography.txt 2 955 1025 
+seas Selenography.txt 6 843 1157 1185 1201 1227 1240 
+grimaldi Selenography.txt 1 1082 
+1960s Selenography.txt 1 1628 
+relative Selenography.txt 1 1974 
+see Selenography.txt 5 15 18 201 1271 2088 
+defense Selenography.txt 1 991 
+are Selenography.txt 4 60 157 1264 1725 
+greece Selenography.txt 1 1321 
+procellarum Selenography.txt 1 614 
+cold Selenography.txt 1 1210 
+concern Selenography.txt 1 87 
+closer Selenography.txt 1 1833 
+served Selenography.txt 1 951 
+subsequent Selenography.txt 2 1114 1664 
+wikipedia Selenography.txt 1 1 
+3 Selenography.txt 1 477 
+various Selenography.txt 3 104 793 1169 
+moons Selenography.txt 1 592 
+orbiting Selenography.txt 1 127 
+drawn Selenography.txt 1 1071 
+nostro Selenography.txt 1 725 
+conditions Selenography.txt 1 1174 
+15th Selenography.txt 1 249 
+europe Selenography.txt 1 1369 
+comparable Selenography.txt 1 1230 
+latin Selenography.txt 2 840 1220 
+dozen Selenography.txt 1 714 
+however Selenography.txt 4 240 1043 1257 1446 
+craters Selenography.txt 22 99 796 824 847 1140 1163 1297 1424 1465 1673 1680 1688 1696 1711 1729 1751 1755 1763 1775 1879 1900 1941 
+selene Selenography.txt 1 193 
+article Selenography.txt 1 3 
+1645 Selenography.txt 1 777 
+1647 Selenography.txt 2 654 876 
+improved Selenography.txt 1 296 
+missions Selenography.txt 2 50 602 
+influential Selenography.txt 1 941 
+many Selenography.txt 7 152 802 1294 1481 1650 1813 1896 
+termed Selenography.txt 1 1753 
+nomenclature Selenography.txt 10 894 966 1062 1084 1469 1531 1544 1588 1599 1683 
+against Selenography.txt 1 1004 
+roman Selenography.txt 4 932 1101 1345 1937 
+became Selenography.txt 4 292 347 448 1954 
+dated Selenography.txt 1 677 
+context Selenography.txt 1 634 
+designations Selenography.txt 1 1631 
+highland Selenography.txt 1 1262 
+eponym Selenography.txt 1 1904 
+crisium Selenography.txt 1 1189 
+among Selenography.txt 2 942 1553 
+had Selenography.txt 4 454 810 1144 1869 
+others Selenography.txt 1 270 
+period Selenography.txt 6 818 947 1032 1056 1341 1512 
+hollow Selenography.txt 1 235 
+directions Selenography.txt 1 1125 
+johann Selenography.txt 6 325 352 381 1291 1557 1693 
+simply Selenography.txt 1 180 
+carbon Selenography.txt 1 676 
+respect Selenography.txt 1 923 
+throughout Selenography.txt 1 1179 
+late Selenography.txt 1 704 
+proceeded Selenography.txt 1 1116 
+publishing Selenography.txt 1 390 
+union Selenography.txt 1 1920 
+political Selenography.txt 1 1415 
+due Selenography.txt 3 64 1983 2042 
+been Selenography.txt 1 1667 
+quickly Selenography.txt 1 447 
+johannes Selenography.txt 2 652 877 
+commission Selenography.txt 1 1925 
+much Selenography.txt 1 61 
+change Selenography.txt 1 1804 
+ireland Selenography.txt 1 672 
+location Selenography.txt 2 1784 1973 
+jesuit Selenography.txt 3 973 1038 1075 
+enable Selenography.txt 1 337 
+vinci Selenography.txt 1 683 
+formed Selenography.txt 2 886 1109 
+tycho Selenography.txt 1 1139 
+observers Selenography.txt 2 322 1907 
+photos Selenography.txt 1 550 
+finished Selenography.txt 1 110 
+external Selenography.txt 1 2095 
+systematic Selenography.txt 1 348 
+instant Selenography.txt 1 523 
+an Selenography.txt 1 1903 
+present Selenography.txt 2 863 1055 
+andree Selenography.txt 1 2069 
+uncertain Selenography.txt 1 158 
+these Selenography.txt 10 601 906 1213 1258 1405 1445 1464 1554 1709 1928 
+reliable Selenography.txt 1 330 
+expanded Selenography.txt 1 1620 
+appearance Selenography.txt 2 48 279 
+rectangular Selenography.txt 1 621 
+surveyors Selenography.txt 1 543 
+near Selenography.txt 3 117 144 587 
+teachers Selenography.txt 1 1039 
+located Selenography.txt 1 1982 
+photographed Selenography.txt 1 1643 
+launched Selenography.txt 1 508 
+periods Selenography.txt 1 864 
+century Selenography.txt 5 250 301 464 706 960 
+almost Selenography.txt 1 567 
+vi Selenography.txt 3 1129 1336 1379 
+von Selenography.txt 1 383 
+thus Selenography.txt 6 420 1126 1181 1241 1525 2039 
+it Selenography.txt 7 241 790 1504 1513 1526 1582 1840 
+surface Selenography.txt 10 47 58 77 318 527 557 573 580 715 1095 
+iv Selenography.txt 1 1333 
+serenitatis Selenography.txt 1 1192 
+middle Selenography.txt 1 1330 
+itself Selenography.txt 1 173 
+attributed Selenography.txt 1 1175 
+in Selenography.txt 36 30 297 323 349 374 378 473 664 668 702 707 719 776 875 909 979 987 1000 1066 1099 1117 1218 1286 1304 1331 1450 1486 1501 1568 1606 1776 1812 1823 1922 2035 2082 
+arabic Selenography.txt 1 1371 
+italy Selenography.txt 1 981 
+began Selenography.txt 1 256 
+scientifically Selenography.txt 1 1493 
+atlases Selenography.txt 1 2080 
+same Selenography.txt 1 1523 
+poetic Selenography.txt 1 1500 
+parts Selenography.txt 1 2007 
+almagestum Selenography.txt 3 983 1068 1478 
+sublunari Selenography.txt 1 726 
+widely Selenography.txt 3 1035 1471 1506 
+devised Selenography.txt 3 968 1086 1691 
+proved Selenography.txt 1 940 
+several Selenography.txt 1 160 
+entitled Selenography.txt 1 393 
+satellite Selenography.txt 8 504 1679 1687 1762 1829 1899 1965 1980 
+used Selenography.txt 5 1036 1149 1165 1237 1267 
+grail Selenography.txt 1 625 
+closest Selenography.txt 1 1861 
+catholic Selenography.txt 6 813 821 829 994 1419 1437 
+assignment Selenography.txt 1 1757 
+scheiner Selenography.txt 1 750 
+rain Selenography.txt 1 1203 
+running Selenography.txt 1 2015 
+robotic Selenography.txt 1 49 
+angle Selenography.txt 3 1789 1970 2014 
+scholars Selenography.txt 2 858 1363 
+recent Selenography.txt 1 1269 
+1609 Selenography.txt 2 744 747 
+rift Selenography.txt 3 619 632 636 
+task Selenography.txt 1 107 
+largely Selenography.txt 1 109 
+i Selenography.txt 6 196 1104 1108 1310 1738 2029 
+1603 Selenography.txt 1 258 
+well Selenography.txt 2 595 1382 
+ocean Selenography.txt 1 615 
+extensible Selenography.txt 1 1517 
+components Selenography.txt 1 1146 
+b.c Selenography.txt 1 680 
+the Selenography.txt 224 6 12 22 27 45 52 57 73 76 82 85 91 96 116 122 130 138 145 148 183 189 205 207 210 238 245 248 262 275 298 302 305 316 328 343 361 364 370 394 418 424 429 439 462 471 480 484 488 491 493 497 505 509 522 526 528 537 542 555 558 571 578 581 585 591 644 649 655 660 673 693 703 730 733 737 752 758 761 782 787 792 804 817 826 832 836 850 860 868 880 887 893 901 919 925 931 946 949 953 961 993 997 1005 1021 1031 1041 1044 1049 1054 1063 1067 1078 1083 1092 1100 1110 1123 1127 1132 1141 1147 1151 1159 1162 1166 1177 1184 1200 1219 1222 1226 1235 1239 1244 1261 1276 1287 1296 1302 1329 1340 1343 1355 1359 1373 1394 1411 1418 1426 1431 1436 1440 1458 1461 1474 1483 1490 1508 1511 1522 1530 1543 1550 1566 1570 1583 1596 1604 1616 1624 1627 1635 1644 1648 1652 1670 1682 1695 1716 1728 1741 1749 1756 1759 1788 1793 1796 1799 1806 1809 1815 1828 1846 1851 1855 1858 1863 1870 1874 1877 1884 1888 1892 1898 1908 1917 1924 1932 1948 1952 1962 1969 1972 1976 1986 1991 1994 1999 2027 2045 2050 2059 2062 2070 
+soviet Selenography.txt 2 1641 1659 
+drawing Selenography.txt 2 265 701 
+precedence Selenography.txt 1 1785 
+increasingly Selenography.txt 1 609 
+mdler Selenography.txt 3 384 1694 1849 
+accurate Selenography.txt 1 289 
+1961 Selenography.txt 1 513 
+assigned Selenography.txt 6 1668 1732 1773 1902 1961 2018 
+rachels Selenography.txt 1 13 
+identify Selenography.txt 2 1845 1940 
+librations Selenography.txt 1 303 
+aspect Selenography.txt 2 1047 1452 
+world Selenography.txt 3 426 492 927 
+patronymic Selenography.txt 2 1754 1847 
+portrayed Selenography.txt 1 791 
+exceptions Selenography.txt 1 1727 
+majority Selenography.txt 1 1743 
+1779 Selenography.txt 1 350 
+ewen Selenography.txt 1 1958 
+book Selenography.txt 2 28 392 
+adoption Selenography.txt 1 1574 
+circular Selenography.txt 1 1019 
+samples Selenography.txt 1 1282 
+espoused Selenography.txt 1 1007 
+gave Selenography.txt 2 710 1609 
+selenotopografisches Selenography.txt 1 1571 
+march Selenography.txt 1 405 
+around Selenography.txt 3 257 695 1425 
+advances Selenography.txt 1 467 
+showing Selenography.txt 1 309 
+early Selenography.txt 2 131 299 
+royalty Selenography.txt 1 822 
+unseen Selenography.txt 1 499 
+using Selenography.txt 3 410 816 1935 
+highly Selenography.txt 1 1562 
+d Selenography.txt 3 34 36 37 
+county Selenography.txt 1 670 
+like Selenography.txt 3 154 437 2008 
+identifying Selenography.txt 3 1686 1852 1887 
+50 Selenography.txt 2 313 568 
+become Selenography.txt 1 455 
+soft Selenography.txt 1 552 
+clementine Selenography.txt 1 582 
+valleys Selenography.txt 5 236 620 633 637 1943 
+often Selenography.txt 1 176 
+church Selenography.txt 2 1420 1438 
+some Selenography.txt 4 135 1451 1672 1726 
+back Selenography.txt 3 221 479 604 
+imaged Selenography.txt 1 142 
+images Selenography.txt 4 114 430 576 598 
+empire Selenography.txt 1 1346 
+clockwise Selenography.txt 2 1119 2016 
+for Selenography.txt 14 11 823 831 957 1150 1161 1238 1260 1278 1317 1400 1676 1685 1926 
+bottom Selenography.txt 1 1356 
+broad Selenography.txt 1 1152 
+measurements Selenography.txt 2 359 398 
+fragmente Selenography.txt 1 1289 
+moon Selenography.txt 30 23 53 83 123 139 206 211 239 306 344 345 371 419 472 489 538 612 645 650 661 694 738 763 788 869 1178 1567 1649 1953 2060 
+lunar Selenography.txt 31 9 24 46 97 181 191 264 317 333 362 452 529 556 572 579 794 889 965 1061 1064 1094 1284 1540 1587 1598 1614 1810 1906 1912 2054 2077 
+whitaker Selenography.txt 1 1960 
+locate Selenography.txt 1 340 
+be Selenography.txt 5 167 217 1731 1819 1881 
+scientific Selenography.txt 1 1024 
+bc Selenography.txt 1 225 
+notable Selenography.txt 2 857 1552 
+illustration Selenography.txt 1 658 
+1935 Selenography.txt 1 1607 
+found Selenography.txt 2 663 1308 
+by Selenography.txt 27 32 126 159 380 389 401 450 651 741 771 969 1008 1037 1072 1077 1290 1600 1623 1669 1692 1704 1782 1905 1916 1956 2067 2085 
+meyer Selenography.txt 1 326 
+on Selenography.txt 12 237 267 342 554 918 1028 1088 1268 1275 1301 1787 1968 
+about Selenography.txt 2 5 1998 
+identifier Selenography.txt 1 1992 
+of Selenography.txt 115 8 21 44 69 75 81 88 95 115 121 137 151 170 204 247 254 304 315 332 360 369 417 432 459 470 483 487 496 501 570 577 590 600 608 616 648 659 690 692 732 736 760 786 803 820 828 842 852 859 867 895 903 938 945 964 992 1030 1040 1048 1060 1080 1091 1154 1168 1186 1202 1246 1273 1283 1295 1342 1358 1376 1385 1392 1423 1433 1435 1442 1463 1468 1476 1482 1510 1532 1548 1565 1575 1586 1603 1637 1647 1651 1706 1744 1758 1778 1790 1798 1808 1826 1857 1872 1876 1894 1897 1910 1934 1947 1951 1971 1985 2044 2058 2075 
+recognized Selenography.txt 1 457 
+tomb Selenography.txt 1 674 
+lofty Selenography.txt 1 232 
+schrter Selenography.txt 3 353 1293 1558 
+allowing Selenography.txt 1 1873 
+lands Selenography.txt 1 1245 
+letters Selenography.txt 6 1733 1760 1770 1938 2028 2038 
+significant Selenography.txt 1 1046 
+assignments Selenography.txt 1 1816 
+into Selenography.txt 2 1096 2005 
+obtaining Selenography.txt 1 574 
+down Selenography.txt 1 520 
+luna Selenography.txt 1 476 
+right Selenography.txt 1 519 
+references Selenography.txt 1 2093 
+primarily Selenography.txt 1 1316 
+artists Selenography.txt 1 639 
+lunokhods Selenography.txt 1 560 
+van Selenography.txt 4 774 896 1443 1533 
+additional Selenography.txt 1 1546 
+assumed Selenography.txt 1 1915 
+there Selenography.txt 5 230 1182 1197 1242 1724 
+available Selenography.txt 1 1955 
+long Selenography.txt 1 67 
+continental Selenography.txt 1 1223 
+letter Selenography.txt 4 1708 1853 2020 2051 
+was Selenography.txt 27 90 108 212 242 319 376 662 675 967 985 1034 1085 1470 1492 1496 1514 1556 1592 1618 1689 1764 1841 1914 1989 2001 2017 2048 
+mountains Selenography.txt 1 233 
+north Selenography.txt 1 1984 
+russias Selenography.txt 1 475 
+form Selenography.txt 1 1221 
+fragmenten Selenography.txt 1 1572 
+but Selenography.txt 5 290 436 1232 1629 1723 
+volume Selenography.txt 1 721 
+heat Selenography.txt 1 1250 
+orbiters Selenography.txt 1 530 
+russian Selenography.txt 1 559 
+subsidiary Selenography.txt 2 1710 1889 
+octant Selenography.txt 4 1107 1128 1303 1386 
+with Selenography.txt 11 438 922 1017 1122 1453 1518 1545 1718 1737 1838 2022 
+heinrich Selenography.txt 1 382 
+especially Selenography.txt 1 143 
+october Selenography.txt 1 628 
+arranged Selenography.txt 1 2081 
+smooth Selenography.txt 1 215 
+up Selenography.txt 1 388 
+until Selenography.txt 2 244 404 
+international Selenography.txt 1 1918 
+placed Selenography.txt 2 1362 1850 
+exploration Selenography.txt 1 203 
+minor Selenography.txt 1 846 
+suitable Selenography.txt 1 1945 
+z Selenography.txt 2 1736 1993 
+five-inch Selenography.txt 1 412 
+called Selenography.txt 1 722 
+detailed Selenography.txt 2 575 1563 
+1614 Selenography.txt 1 751 
+600 Selenography.txt 1 1613 
+contributors Selenography.txt 1 1555 
+inclusive Selenography.txt 1 1494 
+universal Selenography.txt 1 395 
+direction Selenography.txt 1 1120 
+fellow Selenography.txt 1 1074 
+as Selenography.txt 18 179 219 222 294 594 596 764 789 928 952 989 1323 1348 1381 1383 1413 1595 1740 
+lived Selenography.txt 1 978 
+at Selenography.txt 6 284 427 756 1795 1821 2024 
+gradients Selenography.txt 1 627 
+1890 Selenography.txt 1 451 
+physical Selenography.txt 1 79 
+no Selenography.txt 1 1265 
+doctrinal Selenography.txt 1 1597 
+percent Selenography.txt 1 314 
+octants Selenography.txt 5 1097 1115 1309 1332 1377 
+other Selenography.txt 2 103 856 
+branch Selenography.txt 1 458 
+contemporaries Selenography.txt 1 1391 
+poor Selenography.txt 1 434 
+naked-eye Selenography.txt 1 268 
+terra Selenography.txt 3 1248 1251 1255 
+william Selenography.txt 2 259 697 
+crises Selenography.txt 1 1187 
+astronomy Selenography.txt 2 31 1454 
+sides Selenography.txt 1 120 
+structure Selenography.txt 1 622 
+schrters Selenography.txt 1 1573 
+land Selenography.txt 2 553 1155 
+subdivision Selenography.txt 1 1090 
+longer Selenography.txt 1 1266 
+daguerreotype Selenography.txt 1 416 
+orbit Selenography.txt 1 540 
+time Selenography.txt 3 1042 1797 1895 
+serious Selenography.txt 2 252 754 
+evenly Selenography.txt 1 2004 
+resolution Selenography.txt 2 113 611 
+augmented Selenography.txt 1 1542 

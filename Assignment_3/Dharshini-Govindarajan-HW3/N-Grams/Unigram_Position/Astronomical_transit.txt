@@ -1,0 +1,280 @@
+precise Astronomical_transit.txt 1 514 
+planetary Astronomical_transit.txt 4 424 429 461 658 
+circumference Astronomical_transit.txt 2 489 499 
+phenomenon Astronomical_transit.txt 1 100 
+being Astronomical_transit.txt 1 169 
+rings Astronomical_transit.txt 1 291 
+astronomical Astronomical_transit.txt 3 5 96 533 
+move Astronomical_transit.txt 1 109 
+earthmoon Astronomical_transit.txt 1 89 
+years Astronomical_transit.txt 1 391 
+four Astronomical_transit.txt 2 346 485 
+not Astronomical_transit.txt 1 168 
+spacecraft Astronomical_transit.txt 1 272 
+distant Astronomical_transit.txt 3 190 204 453 
+planets Astronomical_transit.txt 3 234 252 396 
+earth Astronomical_transit.txt 7 78 146 167 257 327 589 668 
+disk Astronomical_transit.txt 2 496 506 
+transits Astronomical_transit.txt 6 259 265 274 406 425 430 
+cases Astronomical_transit.txt 4 179 192 344 435 
+captured Astronomical_transit.txt 1 58 
+halfway Astronomical_transit.txt 1 572 
+culmination Astronomical_transit.txt 1 31 
+transiting Astronomical_transit.txt 5 140 418 466 635 650 
+touches Astronomical_transit.txt 1 497 
+27 Astronomical_transit.txt 1 359 
+outer Astronomical_transit.txt 1 251 
+21 Astronomical_transit.txt 1 622 
+also Astronomical_transit.txt 2 297 670 
+satellites Astronomical_transit.txt 1 317 
+occulted Astronomical_transit.txt 1 288 
+observe Astronomical_transit.txt 1 612 
+centers Astronomical_transit.txt 1 562 
+passage Astronomical_transit.txt 3 12 23 34 
+spacecrafts Astronomical_transit.txt 1 65 
+to Astronomical_transit.txt 11 108 163 178 300 333 354 420 528 569 583 611 
+only Astronomical_transit.txt 1 231 
+other Astronomical_transit.txt 1 571 
+hd Astronomical_transit.txt 1 412 
+alignment Astronomical_transit.txt 1 615 
+2014 Astronomical_transit.txt 2 479 641 
+circle Astronomical_transit.txt 2 493 503 
+has Astronomical_transit.txt 2 397 660 
+accurate Astronomical_transit.txt 1 526 
+over Astronomical_transit.txt 1 27 
+inferior Astronomical_transit.txt 1 233 
+first Astronomical_transit.txt 2 416 655 
+viking Astronomical_transit.txt 1 599 
+probe Astronomical_transit.txt 2 281 626 
+greater Astronomical_transit.txt 1 86 
+year Astronomical_transit.txt 1 605 
+term Astronomical_transit.txt 1 295 
+ultraviolet Astronomical_transit.txt 1 66 
+rover Astronomical_transit.txt 2 474 644 
+background Astronomical_transit.txt 1 284 
+front Astronomical_transit.txt 2 18 441 
+during Astronomical_transit.txt 2 59 480 
+shadow Astronomical_transit.txt 1 151 
+saturn Astronomical_transit.txt 4 293 381 388 630 
+categories Astronomical_transit.txt 2 677 679 
+discovered Astronomical_transit.txt 1 422 
+february Astronomical_transit.txt 1 148 
+primaries Astronomical_transit.txt 1 411 
+appearing Astronomical_transit.txt 1 107 
+called Astronomical_transit.txt 1 458 
+edit Astronomical_transit.txt 7 135 426 464 578 671 673 676 
+positions Astronomical_transit.txt 1 531 
+notes Astronomical_transit.txt 1 672 
+determine Astronomical_transit.txt 1 529 
+large Astronomical_transit.txt 2 502 504 
+callisto Astronomical_transit.txt 1 321 
+each Astronomical_transit.txt 2 517 570 
+small Astronomical_transit.txt 3 119 492 494 
+through Astronomical_transit.txt 1 573 
+venus Astronomical_transit.txt 5 238 246 370 386 634 
+where Astronomical_transit.txt 3 180 193 345 
+view Astronomical_transit.txt 1 42 
+measuring Astronomical_transit.txt 1 512 
+smaller Astronomical_transit.txt 3 72 186 449 
+telescope Astronomical_transit.txt 1 45 
+observer Astronomical_transit.txt 2 127 224 
+titan Astronomical_transit.txt 1 275 
+some Astronomical_transit.txt 1 129 
+satellite Astronomical_transit.txt 1 306 
+around Astronomical_transit.txt 1 629 
+up Astronomical_transit.txt 2 336 350 
+observed Astronomical_transit.txt 3 631 646 662 
+see Astronomical_transit.txt 4 30 47 239 669 
+jupiter Astronomical_transit.txt 4 141 158 267 323 
+are Astronomical_transit.txt 5 206 343 348 484 567 
+pass Astronomical_transit.txt 1 439 
+happen Astronomical_transit.txt 2 230 537 
+event Astronomical_transit.txt 1 456 
+eyepiece Astronomical_transit.txt 1 46 
+instance Astronomical_transit.txt 1 312 
+for Astronomical_transit.txt 3 21 32 311 
+contacts Astronomical_transit.txt 3 463 486 536 
+ways Astronomical_transit.txt 1 527 
+sun Astronomical_transit.txt 8 57 165 227 261 366 468 637 652 
+extrasolar Astronomical_transit.txt 1 395 
+wikipedia Astronomical_transit.txt 1 2 
+moon Astronomical_transit.txt 1 69 
+3 Astronomical_transit.txt 2 478 639 
+does Astronomical_transit.txt 1 75 
+lunar Astronomical_transit.txt 1 53 
+between Astronomical_transit.txt 1 221 
+three Astronomical_transit.txt 1 331 
+across Astronomical_transit.txt 6 38 110 266 307 322 407 
+discovery Astronomical_transit.txt 1 393 
+body Astronomical_transit.txt 7 16 26 106 116 495 505 666 
+be Astronomical_transit.txt 4 298 334 421 617 
+europa Astronomical_transit.txt 1 319 
+parent Astronomical_transit.txt 1 309 
+nearer Astronomical_transit.txt 3 182 195 446 
+june Astronomical_transit.txt 3 360 477 640 
+notable Astronomical_transit.txt 1 576 
+however Astronomical_transit.txt 1 247 
+possibility Astronomical_transit.txt 1 402 
+stellar Astronomical_transit.txt 1 410 
+completely Astronomical_transit.txt 1 200 
+imaging Astronomical_transit.txt 1 67 
+separation Astronomical_transit.txt 1 82 
+209458b Astronomical_transit.txt 1 413 
+article Astronomical_transit.txt 2 8 428 
+detecting Astronomical_transit.txt 1 404 
+refers Astronomical_transit.txt 1 177 
+occultations Astronomical_transit.txt 2 209 432 
+by Astronomical_transit.txt 5 125 270 278 289 471 
+hiding Astronomical_transit.txt 1 117 
+definition Astronomical_transit.txt 1 134 
+about Astronomical_transit.txt 1 10 
+planned Astronomical_transit.txt 1 582 
+rare Astronomical_transit.txt 2 342 434 
+missions Astronomical_transit.txt 2 580 600 
+of Astronomical_transit.txt 35 13 19 24 35 41 43 55 61 101 113 121 138 157 212 218 241 245 292 304 314 378 385 394 403 442 490 500 516 519 523 532 544 556 563 588 
+fifth Astronomical_transit.txt 1 551 
+larger Astronomical_transit.txt 1 198 
+simulation Astronomical_transit.txt 1 137 
+motion Astronomical_transit.txt 2 217 303 
+due Astronomical_transit.txt 1 162 
+1984 Astronomical_transit.txt 1 596 
+slightly Astronomical_transit.txt 1 161 
+or Astronomical_transit.txt 1 95 
+involves Astronomical_transit.txt 1 215 
+galilean Astronomical_transit.txt 1 316 
+transited Astronomical_transit.txt 1 364 
+named Astronomical_transit.txt 1 552 
+own Astronomical_transit.txt 1 409 
+besides Astronomical_transit.txt 1 667 
+point Astronomical_transit.txt 4 132 510 518 553 
+previously Astronomical_transit.txt 1 606 
+had Astronomical_transit.txt 1 601 
+transit Astronomical_transit.txt 19 0 6 49 54 94 97 176 214 240 244 329 377 384 462 482 558 575 587 659 
+ganymede Astronomical_transit.txt 1 320 
+one Astronomical_transit.txt 8 14 104 210 313 352 436 454 522 
+visible Astronomical_transit.txt 1 590 
+because Astronomical_transit.txt 1 79 
+been Astronomical_transit.txt 2 602 661 
+another Astronomical_transit.txt 3 20 114 443 
+cassini Astronomical_transit.txt 2 271 280 
+will Astronomical_transit.txt 1 616 
+next Astronomical_transit.txt 1 609 
+mercury Astronomical_transit.txt 6 236 242 363 379 465 649 
+terminated Astronomical_transit.txt 1 603 
+little Astronomical_transit.txt 1 285 
+from Astronomical_transit.txt 10 4 77 144 250 326 369 380 387 591 663 
+leading Astronomical_transit.txt 1 159 
+hidden Astronomical_transit.txt 1 678 
+there Astronomical_transit.txt 1 483 
+1586 Astronomical_transit.txt 1 361 
+spacecraftmoon Astronomical_transit.txt 1 81 
+least Astronomical_transit.txt 1 103 
+appears Astronomical_transit.txt 4 70 184 197 448 
+their Astronomical_transit.txt 2 405 408 
+much Astronomical_transit.txt 1 71 
+observations Astronomical_transit.txt 1 577 
+interest Astronomical_transit.txt 1 399 
+mars Astronomical_transit.txt 4 255 476 592 643 
+was Astronomical_transit.txt 2 83 521 
+historically Astronomical_transit.txt 1 511 
+cassinihuygens Astronomical_transit.txt 1 625 
+more Astronomical_transit.txt 4 189 203 341 452 
+considerably Astronomical_transit.txt 1 185 
+on Astronomical_transit.txt 7 154 262 358 475 593 620 638 
+dione Astronomical_transit.txt 1 273 
+apparent Astronomical_transit.txt 1 561 
+occurred Astronomical_transit.txt 1 357 
+prometheus Astronomical_transit.txt 1 286 
+part Astronomical_transit.txt 1 120 
+external Astronomical_transit.txt 1 674 
+particular Astronomical_transit.txt 1 130 
+known Astronomical_transit.txt 1 207 
+consequently Astronomical_transit.txt 1 607 
+line Astronomical_transit.txt 2 173 340 
+with Astronomical_transit.txt 2 232 585 
+than Astronomical_transit.txt 4 73 87 187 450 
+present Astronomical_transit.txt 1 356 
+11 Astronomical_transit.txt 1 594 
+distance Astronomical_transit.txt 1 90 
+b Astronomical_transit.txt 1 64 
+word Astronomical_transit.txt 1 175 
+this Astronomical_transit.txt 2 7 228 
+namely Astronomical_transit.txt 1 235 
+meridian Astronomical_transit.txt 1 29 
+planet Astronomical_transit.txt 8 220 310 419 437 447 546 633 648 
+can Astronomical_transit.txt 3 229 296 438 
+transitting Astronomical_transit.txt 1 547 
+were Astronomical_transit.txt 1 581 
+following Astronomical_transit.txt 1 540 
+2012 Astronomical_transit.txt 1 623 
+example Astronomical_transit.txt 1 211 
+and Astronomical_transit.txt 8 166 199 225 237 243 382 431 597 
+nearest Astronomical_transit.txt 1 568 
+celestial Astronomical_transit.txt 4 15 105 115 665 
+hides Astronomical_transit.txt 1 201 
+links Astronomical_transit.txt 1 675 
+december Astronomical_transit.txt 1 621 
+is Astronomical_transit.txt 7 9 98 152 287 414 457 554 
+describe Astronomical_transit.txt 1 301 
+it Astronomical_transit.txt 2 74 122 
+surface Astronomical_transit.txt 1 156 
+an Astronomical_transit.txt 2 126 614 
+as Astronomical_transit.txt 11 123 142 208 248 254 268 276 324 367 375 469 
+itself Astronomical_transit.txt 1 258 
+at Astronomical_transit.txt 4 102 128 371 507 
+io Astronomical_transit.txt 4 139 160 264 318 
+in Astronomical_transit.txt 13 17 91 147 170 282 337 389 400 433 440 538 618 627 
+seen Astronomical_transit.txt 9 76 124 143 153 249 269 277 325 368 
+times Astronomical_transit.txt 1 85 
+contents Astronomical_transit.txt 1 133 
+if Astronomical_transit.txt 1 444 
+terrestrial Astronomical_transit.txt 1 223 
+mutual Astronomical_transit.txt 2 423 460 
+calibration Astronomical_transit.txt 1 60 
+media Astronomical_transit.txt 1 51 
+that Astronomical_transit.txt 1 555 
+when Astronomical_transit.txt 3 362 487 559 
+same Astronomical_transit.txt 2 172 373 
+field Astronomical_transit.txt 1 40 
+animation Astronomical_transit.txt 1 543 
+viewed Astronomical_transit.txt 1 470 
+main Astronomical_transit.txt 1 427 
+coincide Astronomical_transit.txt 1 584 
+several Astronomical_transit.txt 1 84 
+greatest Astronomical_transit.txt 1 557 
+play Astronomical_transit.txt 1 50 
+used Astronomical_transit.txt 1 299 
+star Astronomical_transit.txt 3 37 48 549 
+closest Astronomical_transit.txt 1 353 
+may Astronomical_transit.txt 1 595 
+object Astronomical_transit.txt 4 183 191 196 205 
+ios Astronomical_transit.txt 1 150 
+marking Astronomical_transit.txt 1 653 
+most Astronomical_transit.txt 1 525 
+two Astronomical_transit.txt 1 565 
+curiosity Astronomical_transit.txt 2 473 645 
+occasion Astronomical_transit.txt 1 263 
+such Astronomical_transit.txt 3 253 417 613 
+astronomy Astronomical_transit.txt 2 1 92 
+opportunity Astronomical_transit.txt 1 610 
+excited Astronomical_transit.txt 1 398 
+single Astronomical_transit.txt 2 339 509 
+recent Astronomical_transit.txt 1 390 
+a Astronomical_transit.txt 24 25 28 36 44 52 93 118 136 213 219 222 305 328 338 376 383 459 481 508 545 550 604 657 664 
+vantage Astronomical_transit.txt 1 131 
+stereo Astronomical_transit.txt 1 63 
+lined Astronomical_transit.txt 2 335 349 
+requires Astronomical_transit.txt 1 330 
+no Astronomical_transit.txt 1 579 
+orbit Astronomical_transit.txt 1 628 
+2084 Astronomical_transit.txt 1 619 
+face Astronomical_transit.txt 1 112 
+contact Astronomical_transit.txt 1 520 
+artistic Astronomical_transit.txt 1 542 
+time Astronomical_transit.txt 3 374 515 656 
+redirected Astronomical_transit.txt 1 3 
+the Astronomical_transit.txt 64 11 22 33 39 56 62 68 80 88 99 111 145 155 164 171 174 181 188 194 202 216 226 256 260 279 283 290 294 302 315 351 355 365 372 392 401 415 445 451 455 467 472 488 491 498 501 513 524 530 535 539 560 564 574 586 598 608 624 632 636 642 647 651 654 
+2009 Astronomical_transit.txt 1 149 
+its Astronomical_transit.txt 2 308 548 
+order Astronomical_transit.txt 1 541 
+bodies Astronomical_transit.txt 4 332 347 534 566 

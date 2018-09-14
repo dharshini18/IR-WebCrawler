@@ -1,0 +1,150 @@
+code Bibcode.txt 5 41 88 114 199 289 
+facto Bibcode.txt 1 62 
+developed Bibcode.txt 1 45 
+astronomical Bibcode.txt 1 27 
+four Bibcode.txt 1 275 
+compact Bibcode.txt 1 22 
+field Bibcode.txt 1 282 
+late Bibcode.txt 1 240 
+to Bibcode.txt 9 6 8 30 46 174 179 183 255 261 
+adoption Bibcode.txt 1 36 
+systems Bibcode.txt 1 29 
+has Bibcode.txt 2 89 97 
+remaining Bibcode.txt 1 274 
+indicating Bibcode.txt 1 115 
+greater Bibcode.txt 1 213 
+format Bibcode.txt 1 85 
+de Bibcode.txt 1 61 
+yyyyjjjjjvvvvmppppa Bibcode.txt 1 100 
+now Bibcode.txt 1 66 
+continued Bibcode.txt 1 217 
+categories Bibcode.txt 1 296 
+articles Bibcode.txt 1 10 
+term Bibcode.txt 1 83 
+name Bibcode.txt 1 166 
+edit Bibcode.txt 5 37 86 284 293 295 
+fields Bibcode.txt 2 177 181 
+l Bibcode.txt 1 146 
+follows Bibcode.txt 1 245 
+done Bibcode.txt 1 192 
+fixed Bibcode.txt 2 91 185 
+where Bibcode.txt 3 101 116 140 
+page Bibcode.txt 5 155 209 211 230 281 
+right Bibcode.txt 1 195 
+reference Bibcode.txt 5 40 109 118 127 142 
+some Bibcode.txt 1 285 
+yyyy Bibcode.txt 1 102 
+see Bibcode.txt 2 11 291 
+used Bibcode.txt 6 24 48 67 173 232 278 
+are Bibcode.txt 6 172 216 242 259 277 290 
+year Bibcode.txt 1 106 
+out Bibcode.txt 1 182 
+01 Bibcode.txt 1 265 
+for Bibcode.txt 5 2 70 147 196 204 
+extragalactic Bibcode.txt 1 54 
+ned Bibcode.txt 1 56 
+since Bibcode.txt 1 238 
+wikipedia Bibcode.txt 2 1 4 
+template Bibcode.txt 1 5 
+simbad Bibcode.txt 1 50 
+issue Bibcode.txt 1 257 
+four-digit Bibcode.txt 1 105 
+be Bibcode.txt 1 47 
+bibliographic Bibcode.txt 1 39 
+journal Bibcode.txt 2 126 139 
+standard Bibcode.txt 1 63 
+if Bibcode.txt 1 187 
+lower-case Bibcode.txt 1 263 
+article Bibcode.txt 2 224 252 
+by Bibcode.txt 3 25 72 233 
+digits Bibcode.txt 2 249 276 
+on Bibcode.txt 2 193 201 
+identifier Bibcode.txt 1 23 
+last Bibcode.txt 1 165 
+e.g Bibcode.txt 1 145 
+column Bibcode.txt 2 221 271 
+of Bibcode.txt 9 93 107 124 137 163 167 229 250 287 
+nasa/ipac Bibcode.txt 1 53 
+etc Bibcode.txt 1 267 
+length Bibcode.txt 2 92 186 
+became Bibcode.txt 1 59 
+published Bibcode.txt 2 120 144 
+first Bibcode.txt 3 161 169 247 
+uniquely Bibcode.txt 1 31 
+and Bibcode.txt 10 51 64 80 96 110 157 178 200 208 268 
+letters Bibcode.txt 1 149 
+letter Bibcode.txt 2 162 264 
+into Bibcode.txt 1 270 
+prefer Bibcode.txt 1 81 
+number Bibcode.txt 5 132 156 207 210 258 
+two Bibcode.txt 1 248 
+references Bibcode.txt 2 34 294 
+lieu Bibcode.txt 1 228 
+1990s Bibcode.txt 1 241 
+publication Bibcode.txt 1 198 
+examples Bibcode.txt 2 283 286 
+inserted Bibcode.txt 1 269 
+system Bibcode.txt 1 77 
+their Bibcode.txt 1 184 
+template:bibcode Bibcode.txt 1 12 
+too Bibcode.txt 1 188 
+astrophysics Bibcode.txt 1 75 
+was Bibcode.txt 3 43 119 143 
+more Bibcode.txt 1 68 
+pppp Bibcode.txt 1 151 
+form Bibcode.txt 1 99 
+but Bibcode.txt 1 57 
+volume Bibcode.txt 2 131 206 
+link Bibcode.txt 1 7 
+review Bibcode.txt 1 236 
+known Bibcode.txt 1 16 
+than Bibcode.txt 1 214 
+specify Bibcode.txt 1 32 
+case Bibcode.txt 1 123 
+9999 Bibcode.txt 1 215 
+19 Bibcode.txt 1 94 
+originally Bibcode.txt 1 44 
+converted Bibcode.txt 1 260 
+publications Bibcode.txt 1 237 
+gives Bibcode.txt 1 152 
+treated Bibcode.txt 1 243 
+example Bibcode.txt 1 71 
+numbers Bibcode.txt 3 212 226 231 
+bibcoded Bibcode.txt 1 9 
+is Bibcode.txt 7 20 65 103 112 129 159 191 
+jjjjj Bibcode.txt 1 111 
+it Bibcode.txt 1 58 
+indicates Bibcode.txt 1 134 
+as Bibcode.txt 2 17 244 
+refcode Bibcode.txt 2 19 42 
+periods Bibcode.txt 1 171 
+in Bibcode.txt 5 49 121 218 227 279 
+corresponding Bibcode.txt 1 254 
+6-digit Bibcode.txt 1 223 
+contents Bibcode.txt 1 35 
+fill Bibcode.txt 1 175 
+bibcode Bibcode.txt 3 0 14 84 
+author Bibcode.txt 1 170 
+vvvv Bibcode.txt 1 128 
+id Bibcode.txt 2 225 253 
+also Bibcode.txt 2 15 292 
+pad Bibcode.txt 1 180 
+widely Bibcode.txt 1 69 
+several Bibcode.txt 1 26 
+literature Bibcode.txt 1 33 
+coined Bibcode.txt 1 79 
+who Bibcode.txt 1 78 
+unused Bibcode.txt 1 176 
+characters Bibcode.txt 1 95 
+data Bibcode.txt 2 28 76 
+a Bibcode.txt 9 21 60 90 113 125 148 158 262 266 
+padding Bibcode.txt 1 190 
+short Bibcode.txt 1 189 
+physical Bibcode.txt 1 235 
+database Bibcode.txt 1 55 
+m Bibcode.txt 3 133 220 272 
+nasa Bibcode.txt 1 74 
+the Bibcode.txt 35 3 13 18 38 52 73 82 87 98 104 108 117 122 130 135 138 141 153 160 164 168 194 197 202 205 219 222 234 239 246 251 256 273 280 288 
+starting Bibcode.txt 1 154 
+section Bibcode.txt 2 136 150 
+left Bibcode.txt 1 203 

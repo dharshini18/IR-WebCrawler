@@ -1,0 +1,1336 @@
+droplets Temperature.txt 1 4982 
+limited Temperature.txt 1 7716 
+all Temperature.txt 15 128 222 231 2402 2427 3260 3571 3817 4141 4338 5090 6125 6203 6539 7004 
+1853 Temperature.txt 1 2243 
+partial Temperature.txt 3 2838 2890 4462 
+ceases Temperature.txt 1 5099 
+melts Temperature.txt 1 5030 
+hint Temperature.txt 1 6034 
+forbidden Temperature.txt 1 7570 
+particular Temperature.txt 9 1374 1450 2226 2333 2793 3640 3666 3699 3927 
+r Temperature.txt 1 6016 
+resistance Temperature.txt 2 1241 1270 
+existing Temperature.txt 1 6470 
+four Temperature.txt 3 1655 1666 2048 
+ceased Temperature.txt 1 6391 
+concept Temperature.txt 1 5626 
+entropy Temperature.txt 21 1077 2813 2848 2858 2894 4448 4470 4487 6624 6644 6820 6851 6871 7272 7292 7299 7327 7822 7875 7890 7911 
+ice Temperature.txt 4 4029 5000 5029 7521 
+consists Temperature.txt 1 1664 
+customary Temperature.txt 2 4317 5312 
+contributions Temperature.txt 1 1256 
+reasoning Temperature.txt 1 902 
+relationships Temperature.txt 2 5975 6915 
+particles Temperature.txt 23 130 141 196 1400 3245 3255 3273 3362 3397 3410 3576 5096 5433 5570 5598 5614 5653 5661 5764 5805 5884 6229 7389 
+hold Temperature.txt 1 6316 
+depend Temperature.txt 1 5833 
+referring Temperature.txt 1 2351 
+universe Temperature.txt 2 6647 6843 
+boltzmanns Temperature.txt 1 3304 
+physically-possible Temperature.txt 1 492 
+stably Temperature.txt 1 610 
+vs Temperature.txt 1 5955 
+extrapolate Temperature.txt 1 6168 
+shall Temperature.txt 1 3905 
+intensive Temperature.txt 6 2652 2661 2725 2740 2770 3209 
+0 Temperature.txt 15 158 329 483 510 531 572 4870 4959 4990 5079 5213 7146 7160 7177 7564 
+1930s Temperature.txt 1 4313 
+those Temperature.txt 2 926 2329 
+under Temperature.txt 4 2374 4586 5844 7442 
+thermodynamic-related Temperature.txt 1 4918 
+microscopically Temperature.txt 1 3590 
+include Temperature.txt 3 221 4569 6487 
+presentation Temperature.txt 1 2932 
+evenly Temperature.txt 1 7841 
+virtuous Temperature.txt 1 2485 
+force Temperature.txt 3 4046 4105 6193 
+adiabatic Temperature.txt 4 1724 1834 1909 2020 
+provides Temperature.txt 8 2480 2493 2530 3230 5464 5724 6118 6912 
+virtue Temperature.txt 1 7780 
+1990 Temperature.txt 1 4747 
+very Temperature.txt 7 758 2757 3321 4962 5307 6782 7764 
+implicitly Temperature.txt 1 2471 
+translations Temperature.txt 1 3449 
+conditions Temperature.txt 3 2376 3016 4588 
+choice Temperature.txt 2 1485 1501 
+toss Temperature.txt 3 6675 6681 6702 
+denoted Temperature.txt 3 75 156 2150 
+electron Temperature.txt 1 7708 
+every Temperature.txt 5 1258 3043 3731 6674 6680 
+transient Temperature.txt 1 7667 
+allowed Temperature.txt 1 3366 
+approximate Temperature.txt 2 7646 7659 
+experimentally Temperature.txt 2 3544 7789 
+difference Temperature.txt 5 3763 5006 5170 5201 6925 
+capillary Temperature.txt 1 745 
+condition Temperature.txt 1 1895 
+cool Temperature.txt 1 3565 
+switches Temperature.txt 1 7922 
+clouds Temperature.txt 1 4986 
+plancks Temperature.txt 1 1180 
+vibrational Temperature.txt 4 3444 3480 5666 5888 
+level Temperature.txt 2 2942 4979 
+turns Temperature.txt 2 7899 7929 
+either Temperature.txt 3 6635 6673 7666 
+permits Temperature.txt 1 4400 
+standards Temperature.txt 1 966 
+large Temperature.txt 3 1684 5759 6783 
+these Temperature.txt 5 836 3984 5207 5821 6998 
+settle Temperature.txt 1 1843 
+8.314 Temperature.txt 1 6018 
+discrete Temperature.txt 1 7724 
+gabriel Temperature.txt 1 4774 
+small Temperature.txt 2 3010 7422 
+radio Temperature.txt 1 7793 
+path Temperature.txt 1 6357 
+tosses Temperature.txt 5 6663 6695 6711 6767 6787 
+otherwise Temperature.txt 1 6347 
+fermidirac Temperature.txt 1 1337 
+approximately Temperature.txt 2 5681 7621 
+says Temperature.txt 1 3814 
+three-dimensional Temperature.txt 1 1138 
+disciplines Temperature.txt 1 4919 
+requirements Temperature.txt 1 5768 
+among Temperature.txt 1 7843 
+direct Temperature.txt 2 885 6287 
+sign Temperature.txt 1 7223 
+approximation Temperature.txt 1 3023 
+prevails Temperature.txt 3 2976 3141 3185 
+second Temperature.txt 11 564 1951 2476 2525 4411 6575 6579 6586 6617 6626 7043 
+equipartition Temperature.txt 3 3275 6300 7783 
+substituting Temperature.txt 1 7127 
+rigorous Temperature.txt 2 219 5447 
+further Temperature.txt 2 7953 8060 
+spontaneously Temperature.txt 1 3768 
+unlikely Temperature.txt 1 6807 
+linear Temperature.txt 1 3887 
+spectral Temperature.txt 1 1152 
+what Temperature.txt 1 6216 
+rate Temperature.txt 1 7323 
+statistics Temperature.txt 1 7373 
+section Temperature.txt 1 6593 
+lead Temperature.txt 1 2508 
+contributed Temperature.txt 1 856 
+near Temperature.txt 1 823 
+expressed Temperature.txt 3 2414 4369 6599 
+cell Temperature.txt 3 2592 3027 3044 
+version Temperature.txt 3 2420 4330 4381 
+above Temperature.txt 3 774 2902 2963 
+scientists Temperature.txt 1 4844 
+international Temperature.txt 6 99 378 534 4743 4932 5034 
+net Temperature.txt 2 2570 6640 
+ground Temperature.txt 3 5127 7806 7844 
+ever Temperature.txt 1 7189 
+consisting Temperature.txt 1 7032 
+can Temperature.txt 32 894 905 1002 1042 1141 1197 1276 1520 1784 2560 2719 3156 3190 3530 3915 3966 4069 4181 4227 5406 5911 6082 6127 6554 6649 6725 6744 7049 7119 7358 7555 7730 
+body Temperature.txt 45 38 1140 1166 1215 1627 1645 1675 1709 1712 1721 1798 1811 1866 1899 1915 1959 1990 2025 2067 2082 2106 2116 2631 2646 2682 2796 2852 2999 3047 3058 3188 3201 4220 4263 4282 4539 4547 4560 4567 4633 7583 7628 7656 7684 7699 
+postulates Temperature.txt 2 4335 4511 
+condensed Temperature.txt 1 5706 
+led Temperature.txt 1 324 
+notions Temperature.txt 1 4230 
+degree Temperature.txt 8 362 406 1479 3284 4711 5009 5192 7939 
+exchange Temperature.txt 3 1716 7419 7777 
+respectively Temperature.txt 3 2139 2151 6990 
+v Temperature.txt 5 2823 2829 2872 2878 5980 
+component Temperature.txt 3 7625 7641 7692 
+abstractly Temperature.txt 1 3726 
+here Temperature.txt 2 1768 1778 
+atoms Temperature.txt 5 203 1282 3439 5859 6197 
+water Temperature.txt 18 338 352 436 522 561 600 634 643 796 1516 2598 4704 4969 5058 5061 5138 5179 5239 
+mev Temperature.txt 1 5372 
+operating Temperature.txt 2 7007 7020 
+inversion Temperature.txt 2 7800 7977 
+fulfill Temperature.txt 1 5766 
+represented Temperature.txt 2 2290 3725 
+ratio Temperature.txt 4 2512 2690 4594 7456 
+100 Temperature.txt 7 345 361 4971 6709 7151 7158 7167 
+belize Temperature.txt 1 4826 
+equations Temperature.txt 1 2959 
+appears Temperature.txt 1 4459 
+change Temperature.txt 16 4023 4037 4043 4061 4095 4097 4102 4580 4585 4606 4611 4623 4627 4650 6637 7250 
+varying Temperature.txt 1 3196 
+obtained Temperature.txt 4 5913 7190 7399 7441 
+notably Temperature.txt 1 4883 
+1848 Temperature.txt 2 2184 2206 
+suitably Temperature.txt 1 3849 
+rests Temperature.txt 3 2251 2439 2454 
+32 Temperature.txt 2 439 5242 
+k Temperature.txt 28 91 159 460 484 511 530 573 2609 3298 3302 3347 4871 4944 5032 5080 5143 5212 5214 5219 5354 5377 6023 6256 7147 7161 7178 7545 7565 
+changed Temperature.txt 1 1692 
+allows Temperature.txt 3 2615 6065 7449 
+terminals Temperature.txt 1 1208 
+commonly Temperature.txt 3 68 429 4983 
+significantly Temperature.txt 1 6801 
+maxwellboltzmann Temperature.txt 2 1308 6221 
+amount Temperature.txt 3 1832 3502 4670 
+resulting Temperature.txt 1 6899 
+negative Temperature.txt 16 7222 7487 7492 7507 7616 7645 7738 7786 7900 7924 7930 7946 7962 7982 8011 8030 
+published Temperature.txt 1 2182 
+usually Temperature.txt 1 3001 
+military Temperature.txt 1 4891 
+suitable Temperature.txt 6 1037 4224 4239 6514 6547 7792 
+changes Temperature.txt 3 2098 4548 4562 
+honor Temperature.txt 1 463 
+involves Temperature.txt 1 3519 
+composed Temperature.txt 2 1814 3241 
+once Temperature.txt 1 7854 
+phase-change Temperature.txt 1 827 
+useful Temperature.txt 4 759 810 1557 5719 
+myanmar Temperature.txt 1 4827 
+scales Temperature.txt 25 61 70 267 275 698 705 716 721 763 913 918 960 1460 1492 3807 4407 4752 4761 4818 4898 5040 5208 5544 6499 7498 
+distributed Temperature.txt 1 7842 
+natural Temperature.txt 5 234 1029 4475 5497 6857 
+outcomes Temperature.txt 1 6703 
+brought Temperature.txt 1 8014 
+decrease Temperature.txt 1 7853 
+translational Temperature.txt 8 185 3307 3330 3464 5092 5664 5880 6206 
+limb Temperature.txt 3 1937 1952 1983 
+total Temperature.txt 1 627 
+establish Temperature.txt 1 4364 
+unit Temperature.txt 10 94 458 543 3084 3090 3107 3114 4690 4694 4927 
+readily Temperature.txt 1 2259 
+eq.10 Temperature.txt 1 7349 
+partitioned Temperature.txt 1 5793 
+use Temperature.txt 9 453 819 898 1335 1858 4796 4893 4953 6139 
+additive Temperature.txt 1 422 
+links Temperature.txt 1 8064 
+working Temperature.txt 16 1626 1644 1674 1708 1720 1865 1898 1914 1958 1989 2024 2066 2081 2105 2496 4916 
+to Temperature.txt 158 325 487 655 688 858 963 1025 1118 1160 1229 1236 1243 1417 1483 1506 1546 1558 1576 1601 1617 1632 1704 1706 1715 1793 1842 1857 1890 1924 1926 1977 1997 1999 2036 2068 2079 2109 2171 2264 2275 2310 2352 2366 2509 2563 2573 2576 2602 2618 2621 2667 2677 2722 2737 2763 2836 2846 2888 2897 2912 2916 2919 2948 3021 3054 3065 3100 3127 3146 3160 3214 3353 3367 3380 3458 3484 3495 3564 3568 3658 3686 3712 3715 3773 3860 3884 3950 3971 4147 4318 4320 4352 4426 4535 4601 4683 4699 4709 4780 4813 4952 4964 5241 5248 5285 5313 5351 5374 5391 5422 5457 5546 5728 5765 5784 5798 5807 5963 6067 6138 6143 6152 6167 6169 6284 6359 6372 6400 6438 6486 6504 6512 6610 6775 6790 6813 6845 6849 6872 6923 6981 7270 7330 7378 7385 7478 7485 7503 7532 7563 7735 7852 7867 7893 7916 7923 8005 8033 
+remains Temperature.txt 2 4074 5114 
+positive Temperature.txt 8 1091 2540 3964 7603 7658 7999 8022 8035 
+contains Temperature.txt 1 5130 
+single Temperature.txt 3 3437 4420 7114 
+two Temperature.txt 23 278 1207 1360 1488 1676 1739 2301 2330 2692 2697 2749 2776 3745 3838 3848 3867 3882 4150 5044 6346 6414 6834 7034 
+adequacy Temperature.txt 1 910 
+classically Temperature.txt 1 137 
+sample Temperature.txt 1 3423 
+until Temperature.txt 1 3777 
+qcd Temperature.txt 1 5359 
+associated Temperature.txt 4 3478 5118 5852 6194 
+techniques Temperature.txt 1 7795 
+selects Temperature.txt 1 4415 
+historically Temperature.txt 3 56 700 5385 
+today Temperature.txt 1 1061 
+judged Temperature.txt 1 870 
+black-body Temperature.txt 1 1155 
+resistor Temperature.txt 3 1196 1205 1234 
+manifold Temperature.txt 6 3730 3743 3998 4395 6474 6495 
+formally Temperature.txt 2 7914 7944 
+substances Temperature.txt 2 1734 6319 
+successful Temperature.txt 1 1327 
+1851 Temperature.txt 1 2248 
+factor Temperature.txt 2 4430 5542 
+reversibly Temperature.txt 1 1963 
+tested Temperature.txt 1 1786 
+reversible Temperature.txt 5 1908 2019 2052 7005 7247 
+rigid Temperature.txt 1 6355 
+basically Temperature.txt 1 7579 
+informally Temperature.txt 1 78 
+known Temperature.txt 3 1169 1272 2112 
+90 Temperature.txt 1 6746 
+aligned Temperature.txt 1 1578 
+must Temperature.txt 5 1760 4144 6520 7025 7067 
+extrapolated Temperature.txt 1 5962 
+high Temperature.txt 3 1123 5308 6935 
+account Temperature.txt 2 3220 5729 
+rotational Temperature.txt 4 3442 3482 5674 5890 
+1995 Temperature.txt 1 7202 
+viewed Temperature.txt 1 2389 
+f Temperature.txt 12 84 172 440 445 516 5243 5250 7074 7086 7089 7092 7534 
+this Temperature.txt 65 2 904 1047 1073 1167 1220 1330 1500 1756 1783 1872 1874 1883 2045 2249 2409 2447 2473 2505 2518 2537 2542 2616 2743 2782 2954 3039 3203 3222 3540 3587 3877 3960 3999 4163 4197 4243 4291 4496 5002 5147 5233 5642 5712 5934 6028 6071 6286 6435 6648 6685 6874 7048 7065 7174 7230 7252 7267 7474 7541 7594 7609 7749 7919 7935 
+science Temperature.txt 3 235 240 5516 
+equation Temperature.txt 5 2904 7128 7132 7211 7281 
+work Temperature.txt 24 1725 1731 1836 1945 1948 1976 1979 2009 2012 2039 2042 2063 2070 2120 2124 2177 2190 2571 2578 6880 6904 6917 6951 6965 
+oscillator Temperature.txt 1 5722 
+6 Temperature.txt 1 7282 
+measures Temperature.txt 2 3644 4726 
+labeled Temperature.txt 2 1767 1777 
+incremental Temperature.txt 1 290 
+values Temperature.txt 1 3968 
+temperatures Temperature.txt 13 828 1316 1765 2160 2515 3323 4989 5309 5364 6986 6999 7660 8012 
+kiloelectronvolts Temperature.txt 1 5324 
+freedom Temperature.txt 10 1481 3286 3316 3435 5802 5824 5896 7348 7768 7941 
+following Temperature.txt 2 5151 5276 
+making Temperature.txt 2 2585 2635 
+averages Temperature.txt 1 5481 
+example Temperature.txt 11 733 773 830 2728 3064 3795 4608 4698 6657 7519 7688 
+attain Temperature.txt 1 7731 
+ions Temperature.txt 1 3250 
+radiance Temperature.txt 1 1153 
+isochoric Temperature.txt 1 1835 
+physicists Temperature.txt 1 3793 
+figure Temperature.txt 1 6182 
+stated Temperature.txt 6 2239 2396 2503 4328 6485 6825 
+process Temperature.txt 4 987 3516 6631 7248 
+thermally Temperature.txt 1 4342 
+boseeinstein Temperature.txt 1 1184 
+sense Temperature.txt 11 1386 1847 2215 2519 2568 3062 3099 3126 3145 3589 3911 
+neglected Temperature.txt 1 4071 
+purposes Temperature.txt 2 4842 5152 
+now Temperature.txt 2 6218 7120 
+states Temperature.txt 21 224 428 1623 1736 4134 4174 4800 4832 5225 5484 5490 5762 6005 6277 6628 7002 7720 7803 7820 7847 7865 
+indicates Temperature.txt 4 1222 1391 7224 7245 
+celsius Temperature.txt 17 73 168 298 407 1463 1587 4712 4724 4834 4849 4861 4897 4955 5010 5039 5195 5289 
+caused Temperature.txt 1 6190 
+recognized Temperature.txt 1 5986 
+magnitudes Temperature.txt 1 288 
+times Temperature.txt 2 1499 5637 
+conversely Temperature.txt 1 4084 
+species Temperature.txt 2 3253 3258 
+absolute Temperature.txt 49 120 153 477 495 506 575 1084 1349 1358 1387 1468 1567 2157 2179 2212 2523 2605 2624 2908 3537 3545 3558 3569 3605 4213 4422 4457 4482 4500 4513 4875 5047 5073 5172 5266 5964 6039 6056 6072 6145 6170 6562 7504 7537 7548 7598 7617 7746 7988 
+information Temperature.txt 1 2481 
+respective Temperature.txt 4 1687 2325 3843 6395 
+united Temperature.txt 4 427 4799 4831 5224 
+well-founded Temperature.txt 1 1313 
+winter Temperature.txt 1 4728 
+provide Temperature.txt 5 964 1142 1199 6505 6555 
+hydrogen Temperature.txt 1 5069 
+divided Temperature.txt 5 3005 4645 6102 6262 6952 
+holds Temperature.txt 4 1321 2318 6048 6303 
+whence Temperature.txt 1 4431 
+freezes Temperature.txt 1 437 
+1 Temperature.txt 8 1772 1931 2142 2905 5008 5016 5163 5348 
+far Temperature.txt 1 4767 
+hot Temperature.txt 2 47 6477 
+writers Temperature.txt 1 3652 
+thermodynamics Temperature.txt 41 502 669 862 928 1054 1072 1105 1422 2131 2201 2349 2426 2445 2460 2479 2528 2614 2696 2791 2934 2957 2997 3813 3922 4251 4300 4325 4414 4510 5459 5777 6337 6344 6410 6578 6582 6589 6605 6620 7173 7576 
+fourth Temperature.txt 1 1711 
+non-decreasing Temperature.txt 1 6329 
+ordinary Temperature.txt 2 888 7480 
+explains Temperature.txt 2 3263 5937 
+ensemble Temperature.txt 3 5589 5744 7440 
+classify Temperature.txt 1 689 
+obeys Temperature.txt 1 1302 
+map Temperature.txt 1 3739 
+product Temperature.txt 1 5340 
+thermometric Temperature.txt 5 812 892 1797 1810 1828 
+undergoing Temperature.txt 2 4019 4057 
+singular Temperature.txt 1 582 
+may Temperature.txt 14 685 1727 2147 2387 3630 3723 4810 5500 5654 5791 6466 7619 7642 8002 
+thermodynamic Temperature.txt 52 7 475 548 653 975 1350 1543 1595 1651 2159 2437 2451 2514 2533 2626 2656 2974 2985 3014 3050 3139 3170 3178 3183 3553 3680 3826 3845 3982 4013 4067 4123 4132 4178 4214 4289 4301 4309 4434 4454 4456 4852 5383 5398 5755 5814 6462 7367 7551 7590 7638 7947 
+oscillators Temperature.txt 2 5581 5811 
+diathermal Temperature.txt 2 2428 2780 
+minimum Temperature.txt 3 135 4494 7181 
+treatments Temperature.txt 1 5451 
+collection Temperature.txt 1 5594 
+violates Temperature.txt 1 7168 
+applications Temperature.txt 2 4803 4947 
+such Temperature.txt 24 200 264 762 794 1461 1658 1859 2173 2716 3025 3246 3427 4024 4058 4332 4383 4688 4920 5520 6058 6464 6533 7661 7690 
+law Temperature.txt 45 1103 1114 1173 1181 1185 1218 1305 1320 1420 2129 2199 2347 2424 2443 2458 2477 2526 2612 2789 3811 3932 4323 4334 4385 4399 4412 4508 5941 5969 6004 6064 6177 6276 6335 6342 6408 6483 6576 6580 6587 6603 6618 6627 7171 7574 
+meaningful Temperature.txt 1 5752 
+engineering Temperature.txt 3 4878 4900 5260 
+a Temperature.txt 257 18 43 54 134 144 179 198 320 367 401 474 540 563 581 596 602 677 737 743 780 814 821 872 990 999 1013 1090 1176 1213 1248 1288 1303 1312 1385 1407 1424 1431 1449 1517 1525 1530 1613 1619 1648 1659 1700 1804 1816 1820 1860 1877 1907 1920 1993 2244 2271 2286 2292 2295 2306 2314 2341 2370 2391 2418 2591 2668 2680 2689 2707 2723 2730 2756 2764 2779 2809 2861 2931 2939 2998 3026 3033 3081 3087 3134 3152 3163 3187 3194 3217 3231 3257 3288 3334 3339 3421 3487 3500 3507 3512 3524 3566 3617 3620 3623 3626 3634 3665 3676 3695 3698 3703 3717 3728 3761 3886 3909 3939 3947 3979 3988 4001 4017 4020 4031 4055 4059 4085 4090 4117 4210 4238 4245 4257 4262 4267 4281 4284 4294 4321 4333 4367 4371 4375 4377 4384 4390 4393 4419 4442 4450 4493 4538 4667 4689 4722 4727 4777 4783 4814 4911 5004 5015 5065 5330 5369 5410 5435 5465 5540 5561 5565 5575 5587 5593 5601 5625 5635 5687 5725 5813 5902 5922 5927 6096 6111 6131 6140 6155 6210 6247 6295 6327 6354 6380 6422 6454 6461 6472 6491 6506 6518 6522 6556 6639 6659 6664 6689 6741 6781 6814 6886 6890 6919 7017 7110 7113 7116 7135 7192 7236 7246 7284 7296 7303 7343 7392 7421 7432 7506 7523 7557 7582 7614 7624 7627 7640 7644 7662 7678 7691 7694 7698 7715 7723 7737 7785 7798 7834 7857 7883 7945 7978 7981 7994 8018 8021 
+physical Temperature.txt 13 44 258 728 889 901 953 1107 2254 2410 3985 4520 5494 6356 
+liquid Temperature.txt 3 619 4981 6156 
+whenever Temperature.txt 1 2356 
+departure Temperature.txt 1 4065 
+q Temperature.txt 11 2152 2154 4644 6937 6946 6974 6975 6977 6979 6991 6992 
+rather Temperature.txt 2 1486 7991 
+si Temperature.txt 3 103 538 4936 
+18th Temperature.txt 1 4771 
+so Temperature.txt 17 343 399 1032 1403 1634 1683 1745 1932 2169 2490 3041 3317 4062 4199 4864 6502 6847 
+series Temperature.txt 1 6660 
+fundamental Temperature.txt 9 112 129 974 4002 5493 5569 5928 7345 7366 
+definitions Temperature.txt 3 220 2967 4402 
+subsequently Temperature.txt 1 384 
+operate Temperature.txt 1 2564 
+order Temperature.txt 3 1841 5367 7861 
+typical Temperature.txt 1 4723 
+our Temperature.txt 1 6032 
+restriction Temperature.txt 1 1878 
+least Temperature.txt 2 4202 4765 
+interpretation Temperature.txt 1 5644 
+fahrenheits Temperature.txt 1 4791 
+reservoir Temperature.txt 13 1732 1929 1949 1980 2002 2013 2043 2071 2125 2141 2145 2579 2639 
+laboratory Temperature.txt 1 5411 
+developed Temperature.txt 4 318 4786 5921 5995 
+over Temperature.txt 2 801 1036 
+single/double-occupancy Temperature.txt 2 7433 7466 
+vary Temperature.txt 1 3157 
+definitive Temperature.txt 1 2231 
+entity Temperature.txt 1 3637 
+produced Temperature.txt 1 1192 
+held Temperature.txt 1 3674 
+thermal Temperature.txt 23 15 125 1751 2298 2353 2552 3748 3781 3790 3934 3942 3973 4347 5132 5646 5786 5789 5849 6384 6419 6430 6894 7416 
+experiments Temperature.txt 1 1328 
+including Temperature.txt 3 236 2323 5485 
+4 Temperature.txt 1 7129 
+motions Temperature.txt 4 191 3445 5881 5891 
+stretching Temperature.txt 1 6475 
+spontaneous Temperature.txt 1 6363 
+cold Temperature.txt 2 49 6479 
+still Temperature.txt 6 142 1057 3599 4228 4794 5254 
+its Temperature.txt 37 326 480 497 585 826 831 1026 1083 1240 1365 1381 1549 1625 1825 2801 2812 2857 2864 3497 3575 3736 3957 4039 4051 4072 4111 4474 4636 4866 4974 5126 5568 5638 5858 7306 7585 7633 
+do Temperature.txt 1 7775 
+before Temperature.txt 3 2193 5988 6158 
+perfect Temperature.txt 2 1070 5678 
+chemical Temperature.txt 3 4570 4626 5259 
+limbs Temperature.txt 2 1656 2049 
+measuring Temperature.txt 1 4841 
+symmetry Temperature.txt 1 6212 
+chosen Temperature.txt 5 282 1439 1744 1826 7122 
+microstates Temperature.txt 2 5591 5741 
+varies Temperature.txt 1 3683 
+decreases Temperature.txt 2 4110 7892 
+re-statement Temperature.txt 1 2392 
+better Temperature.txt 2 4993 5726 
+civil Temperature.txt 1 4889 
+absence Temperature.txt 1 1392 
+permanent Temperature.txt 1 2765 
+degrees Temperature.txt 13 79 285 293 341 498 1459 3314 3433 5800 5822 5894 7346 7766 
+centigrade Temperature.txt 2 80 368 
+derivative Temperature.txt 4 2839 2891 4463 7908 
+energies Temperature.txt 2 5650 7932 
+main Temperature.txt 5 1669 6339 6584 7490 8042 
+defining Temperature.txt 1 7352 
+setting Temperature.txt 1 1510 
+then Temperature.txt 16 806 1273 2148 2155 2831 2880 3028 3048 4182 4200 4270 4628 5336 5347 6425 7898 
+them Temperature.txt 5 690 1678 3759 4557 6376 
+good Temperature.txt 4 3022 3061 3144 3422 
+affected Temperature.txt 1 261 
+gibbs Temperature.txt 1 2936 
+views Temperature.txt 1 4386 
+matches Temperature.txt 1 6560 
+components Temperature.txt 2 5796 7653 
+axiomatics Temperature.txt 1 4303 
+thermometers Temperature.txt 11 842 879 971 3852 3883 4007 4143 4188 4758 4808 6126 
+blend Temperature.txt 1 5067 
+gasliquidsolid Temperature.txt 1 1512 
+band Temperature.txt 1 1251 
+have Temperature.txt 24 1323 1406 1430 2603 2640 2751 2761 3403 3431 3506 3716 3873 3885 3967 4209 4353 5452 6398 6521 7026 7556 7643 7657 7714 
+tails Temperature.txt 5 6684 6740 6750 6759 6795 
+effects Temperature.txt 2 253 3326 
+they Temperature.txt 20 418 807 934 944 1041 1405 1747 1759 3364 3440 3580 3778 3816 3872 4157 4568 5101 6378 6426 7729 
+half Temperature.txt 1 5631 
+not Temperature.txt 29 1068 1089 1324 1691 1749 2549 2983 2988 3167 3391 3690 3879 4121 4166 4176 4208 4255 4265 4287 4363 6110 6136 6315 6444 7501 7631 7751 7776 7985 
+singularity Temperature.txt 1 7884 
+framed Temperature.txt 1 1605 
+implies Temperature.txt 2 7056 7175 
+day Temperature.txt 1 4729 
+possess Temperature.txt 1 143 
+minimalist Temperature.txt 1 4329 
+carathodory Temperature.txt 1 2277 
+several Temperature.txt 2 2279 5388 
+oxygen Temperature.txt 2 3429 5071 
+situation Temperature.txt 1 7664 
+edit Temperature.txt 34 256 268 657 674 717 914 1352 1593 2654 2977 3216 3614 3828 4125 4260 4304 4524 4721 4924 5274 5293 5380 5901 6338 6583 7336 7374 7489 8041 8050 8054 8059 8062 8065 
+calibrating Temperature.txt 1 965 
+routinely Temperature.txt 1 5362 
+carnot Temperature.txt 8 991 1614 1660 1852 1886 2053 2192 6909 
+extremely Temperature.txt 1 6806 
+vibrations Temperature.txt 2 28 5856 
+each Temperature.txt 7 1638 1801 2357 3282 4582 6417 6433 
+found Temperature.txt 3 1278 3799 5875 
+side Temperature.txt 2 7072 7209 
+characterized Temperature.txt 1 2056 
+mean Temperature.txt 5 33 5056 5549 5605 5691 
+homogeneous Temperature.txt 4 2989 3031 3710 4451 
+reactions Temperature.txt 1 4571 
+605 Temperature.txt 1 5353 
+successively Temperature.txt 1 1792 
+another Temperature.txt 3 1755 2556 2678 
+noble Temperature.txt 1 5950 
+density Temperature.txt 2 3082 3103 
+energy Temperature.txt 71 147 187 629 1696 1717 1966 1972 2007 2028 2033 2060 2086 2135 2467 2803 2843 2866 2900 3132 3296 3332 3358 3466 3477 3493 3522 3529 3602 4438 4466 4533 5119 5122 5133 5317 5327 5428 5507 5551 5606 5611 5624 5694 5704 5780 5787 5790 5832 5839 5850 5873 6204 6208 6242 6280 6293 6333 6366 6895 6898 7307 7331 7473 7681 7728 7778 7810 7951 7969 7996 8024 
+liquids Temperature.txt 1 5618 
+displacement Temperature.txt 2 1172 3931 
+contracting Temperature.txt 1 2004 
+used Temperature.txt 12 69 302 840 852 962 1044 1566 2620 4837 5231 5255 7517 
+intrinsic Temperature.txt 1 4476 
+measurement Temperature.txt 11 65 651 1128 1146 1186 1203 1314 4720 4741 4754 5514 
+quantum Temperature.txt 11 150 223 932 3325 3595 5443 5489 5731 7393 7437 7704 
+assumption Temperature.txt 1 2255 
+operation Temperature.txt 1 1849 
+beyond Temperature.txt 1 880 
+eq Temperature.txt 1 7356 
+few Temperature.txt 2 5370 7388 
+special Temperature.txt 2 2925 6296 
+description Temperature.txt 9 152 3593 5399 5421 5495 5554 5715 5727 7706 
+principles Temperature.txt 1 7363 
+deals Temperature.txt 3 2944 5299 6622 
+shown Temperature.txt 2 6179 6840 
+dominates Temperature.txt 1 6796 
+container Temperature.txt 1 6097 
+p Temperature.txt 1 5978 
+quality Temperature.txt 4 3621 3629 3654 3821 
+since Temperature.txt 6 370 4311 6148 7057 7162 7901 
+squared Temperature.txt 1 5640 
+denotes Temperature.txt 1 3303 
+increase Temperature.txt 12 790 800 3454 3460 3485 3496 4572 4575 4614 4684 6641 7325 
+specifications Temperature.txt 1 4888 
+acting Temperature.txt 2 4048 4107 
+medicine Temperature.txt 1 241 
+heating Temperature.txt 2 3450 3470 
+cause Temperature.txt 2 3473 7797 
+occurs Temperature.txt 3 508 527 3785 
+achieving Temperature.txt 1 7856 
+shows Temperature.txt 2 5278 7879 
+foundation Temperature.txt 2 3227 5379 
+customarily Temperature.txt 1 4327 
+theory Temperature.txt 13 214 930 3212 3229 3279 3613 5414 5898 5917 5924 5935 5991 6185 
+interactions Temperature.txt 1 5843 
+easily Temperature.txt 1 6529 
+timeline Temperature.txt 1 4736 
+rmer Temperature.txt 1 4790 
+given Temperature.txt 8 1249 2681 3839 3850 3868 4219 7313 7408 
+standard Temperature.txt 2 1526 5055 
+reason Temperature.txt 2 1108 1378 
+base Temperature.txt 2 113 882 
+proportionality Temperature.txt 2 5541 6288 
+put Temperature.txt 2 6929 6956 
+intermediate Temperature.txt 1 1807 
+rises Temperature.txt 2 4053 4634 
+upon Temperature.txt 2 4907 7815 
+wall Temperature.txt 8 1701 1921 1994 2272 2307 2709 2732 2781 
+compression Temperature.txt 2 1910 2021 
+definition Temperature.txt 23 1588 1596 1884 2237 2250 2269 2435 2449 2474 2506 2543 2617 2903 4358 4417 5148 5747 6449 6508 7286 7332 7381 7595 
+hotness Temperature.txt 15 3649 3656 3682 3719 3722 3742 3832 3914 3992 4234 4394 6459 6465 6494 6526 
+g Temperature.txt 9 7081 7083 7095 7097 7099 7101 7103 7105 7108 
+argument Temperature.txt 1 6213 
+starts Temperature.txt 2 1800 2937 
+could Temperature.txt 1 6753 
+bodys Temperature.txt 1 4654 
+involve Temperature.txt 1 5306 
+feasible Temperature.txt 1 952 
+motion Temperature.txt 10 126 1396 3308 3573 5093 5113 5430 5608 5647 5667 
+length Temperature.txt 1 735 
+place Temperature.txt 3 3685 3687 3700 
+nist Temperature.txt 1 7204 
+w Temperature.txt 1 6962 
+transfer Temperature.txt 9 1694 2920 2950 3784 4534 6364 6389 6830 6983 
+moving Temperature.txt 2 3290 3336 
+undergo Temperature.txt 1 3441 
+support Temperature.txt 1 4229 
+first Temperature.txt 11 469 568 1936 2128 2198 2457 6033 6884 7059 7170 7896 
+origin Temperature.txt 1 4477 
+cetera Temperature.txt 1 6761 
+initial Temperature.txt 1 1894 
+probability Temperature.txt 5 5424 5699 6222 6236 6655 
+striking Temperature.txt 1 6198 
+notes Temperature.txt 1 8051 
+consideration Temperature.txt 1 5845 
+variables Temperature.txt 9 1689 2322 2327 2694 2771 2822 2871 5404 6397 
+number Temperature.txt 12 1771 1781 1930 2294 4373 5819 6010 6266 6764 6770 6784 7717 
+reaches Temperature.txt 2 133 6161 
+one Temperature.txt 33 108 405 415 660 824 1362 1471 1478 1670 1754 1766 2555 2567 2586 2672 4203 4218 4223 4693 4706 4710 5183 5191 5361 6066 6091 6099 6403 6670 6699 7031 7036 7510 
+progresses Temperature.txt 1 6812 
+smaller Temperature.txt 1 7559 
+done Temperature.txt 3 1837 2121 6966 
+long Temperature.txt 3 2758 5987 6157 
+directly Temperature.txt 9 723 921 1023 1158 1227 1334 2928 5503 6282 
+monatomic Temperature.txt 5 3513 5677 5869 5948 6248 
+reached Temperature.txt 1 1902 
+precisely Temperature.txt 3 5078 5162 5186 
+open Temperature.txt 1 2947 
+non-absolute Temperature.txt 1 4233 
+size Temperature.txt 1 3011 
+mercury Temperature.txt 3 740 779 4781 
+differ Temperature.txt 2 276 419 
+non-deformation Temperature.txt 4 1688 2101 2282 2326 
+heads Temperature.txt 5 6678 6736 6747 6756 6792 
+temperature Temperature.txt 220 0 13 31 34 39 41 50 60 96 106 118 177 227 255 263 266 273 274 305 402 456 478 493 504 549 555 590 641 656 658 672 682 697 720 751 771 789 799 917 959 976 1000 1027 1038 1087 1124 1145 1162 1202 1231 1275 1415 1426 1568 1598 1808 2180 2438 2452 2489 2534 2606 2627 2643 2649 2658 2746 2833 2885 2909 2969 2970 3034 3105 3112 3150 3155 3189 3206 3215 3235 3342 3456 3498 3554 3559 3615 3641 3721 3733 3754 3762 3806 3822 3876 3937 4005 4052 4073 4112 4113 4138 4162 4215 4236 4252 4274 4356 4365 4388 4409 4423 4435 4458 4501 4577 4616 4630 4649 4686 4696 4702 4719 4730 4738 4744 4751 4753 4760 4804 4817 4840 4846 4853 4929 5005 5026 5087 5280 5315 5334 5346 5384 5395 5461 5499 5545 5599 5685 5734 5749 5836 5906 5931 5956 5982 6043 6051 6069 6079 6147 6160 6285 6290 6325 6440 6452 6511 6557 6597 6612 6827 6869 6882 6936 6945 7066 7115 7117 7143 7183 7188 7288 7310 7320 7340 7355 7370 7383 7397 7453 7476 7481 7488 7493 7497 7508 7525 7542 7552 7558 7577 7618 7647 7739 7754 7761 7787 7877 7902 7913 7948 7963 7983 8000 8023 8031 8036 8040 8047 
+table Temperature.txt 1 5277 
+moles Temperature.txt 1 6012 
+together Temperature.txt 1 6352 
+0.01 Temperature.txt 2 5145 5220 
+system Temperature.txt 51 100 199 379 535 2288 2372 3094 3118 3340 3374 3418 3525 3534 3567 3772 3776 4018 4033 4056 4078 4092 4452 4490 4521 4933 5525 5566 5585 5815 6424 6463 6548 6667 6743 6810 6858 6932 6959 7194 7229 7275 7297 7423 7434 7467 7696 7813 7828 7972 7979 8019 
+mercury-in-glass Temperature.txt 2 760 781 
+fahrenheit Temperature.txt 9 82 175 432 1465 1581 4775 4913 5227 5271 
+their Temperature.txt 13 881 907 1291 1298 1686 3842 3890 3902 4011 4130 5663 5673 5863 
+cooling Temperature.txt 1 3518 
+2 Temperature.txt 8 1782 2003 2146 2960 3300 3349 6758 7133 
+j Temperature.txt 1 6021 
+fermions Temperature.txt 1 7425 
+statement Temperature.txt 5 2343 2783 3990 6404 6436 
+convention Temperature.txt 1 1503 
+ordered Temperature.txt 5 3996 6666 6691 6777 7831 
+hundred Temperature.txt 1 5371 
+naturally Temperature.txt 1 6811 
+gives Temperature.txt 5 1311 6030 7134 7219 7283 
+shifted Temperature.txt 1 4912 
+equipartitioning Temperature.txt 2 3475 5830 
+converting Temperature.txt 1 6893 
+fraction Temperature.txt 1 6734 
+relationship Temperature.txt 6 6029 6867 6875 6877 7136 7231 
+that Temperature.txt 95 344 400 1040 1110 1223 1333 1343 1364 1380 1389 1404 1435 1508 1548 1561 1636 1685 1746 1758 1799 1818 1900 1933 2115 2170 2174 2208 2216 2256 2313 2332 2482 2494 2498 2531 2545 2733 3078 3165 3200 3281 3318 3388 3395 3398 3411 3643 3694 3705 3800 3815 3834 3871 3898 3969 3991 4064 4140 4156 4170 4185 4337 4512 4809 4865 5182 5305 5405 5543 5563 5825 5925 6035 6187 6202 6235 6278 6324 6412 6559 6629 6687 6724 6826 6841 6863 7003 7126 7153 7176 7629 7676 7713 7769 7796 
+pascals Temperature.txt 1 6089 
+johnson Temperature.txt 1 1263 
+explanation Temperature.txt 4 1178 3233 5393 5437 
+exactly Temperature.txt 1 1115 
+zeroth Temperature.txt 13 2346 2423 2442 2611 2788 3810 4322 4398 6334 6341 6407 6482 6602 
+cancel Temperature.txt 1 7068 
+required Temperature.txt 1 4682 
+part Temperature.txt 1 5164 
+constituent Temperature.txt 3 194 1399 3360 
+kev Temperature.txt 1 5325 
+than Temperature.txt 15 1457 1487 1774 3436 3511 3638 4279 7157 7166 7429 7560 7745 7934 7987 7997 
+population Temperature.txt 4 7799 7816 7956 7976 
+set-up Temperature.txt 1 2046 
+observed Temperature.txt 3 4648 5944 5973 
+kind Temperature.txt 6 848 1332 1873 2227 2408 4583 
+perfectly Temperature.txt 2 6665 6690 
+determines Temperature.txt 2 5697 5735 
+third Temperature.txt 7 1102 1419 1982 2371 4507 6423 7573 
+17 Temperature.txt 1 4732 
+cyclic Temperature.txt 1 986 
+require Temperature.txt 3 3491 3880 3897 
+older Temperature.txt 1 701 
+zero Temperature.txt 36 121 154 284 327 481 496 507 576 1085 1126 1382 1412 1414 1474 3538 3546 3570 3606 3972 4483 4514 4876 5048 5074 5173 5965 6040 6146 6162 6171 7259 7505 7747 7894 7965 7989 
+limiting Temperature.txt 1 1408 
+matter Temperature.txt 18 132 226 1402 2229 2922 2952 3018 3598 4246 4295 5098 5123 5360 5474 5572 5707 6133 6360 
+future Temperature.txt 1 1348 
+amplitude Temperature.txt 1 25 
+were Temperature.txt 2 3562 6598 
+outcome Temperature.txt 1 6800 
+derived Temperature.txt 1 7360 
+greater Temperature.txt 4 3508 3913 7156 7165 
+descriptions Temperature.txt 1 5533 
+and Temperature.txt 164 48 62 85 170 204 242 286 398 441 517 542 588 591 609 620 693 752 805 903 931 942 955 1016 1055 1125 1174 1182 1209 1235 1242 1260 1290 1442 1464 1735 1830 1846 1943 1962 2005 2072 2126 2143 2153 2162 2362 2380 2557 2760 2819 2868 2923 2943 2961 2987 3003 3032 3202 3249 3383 3400 3443 3481 3579 3646 3668 3708 3797 3923 4006 4041 4100 4195 4221 4235 4447 4529 4553 4578 4624 4635 4739 4748 4759 4782 4829 4851 4885 4890 4896 4970 5038 5049 5070 5081 5100 5115 5129 5144 5174 5197 5217 5244 5286 5345 5434 5442 5448 5460 5475 5488 5518 5530 5582 5680 5708 5720 5889 5919 5942 5981 5984 5998 6015 6201 6267 6291 6302 6392 6478 6496 6527 6737 6748 6757 6793 6797 6836 6870 6881 6905 6938 6978 6988 7023 7039 7041 7046 7152 7217 7293 7417 7447 7463 7592 7611 7709 7721 7774 7845 7897 7921 8001 8052 
+lowest Temperature.txt 2 4499 7187 
+sees Temperature.txt 2 1956 1987 
+behavior Temperature.txt 2 5472 7881 
+generality Temperature.txt 1 1881 
+christensen Temperature.txt 1 4789 
+disambiguation Temperature.txt 1 14 
+modern Temperature.txt 3 1498 4756 5523 
+spectrum Temperature.txt 5 1131 1189 1296 3376 3959 
+98 Temperature.txt 1 6755 
+correspond Temperature.txt 1 6980 
+say Temperature.txt 1 3066 
+alike Temperature.txt 1 3261 
+increment Temperature.txt 5 403 413 652 5018 5272 
+20 Temperature.txt 1 7196 
+occupation Temperature.txt 2 5738 7462 
+null Temperature.txt 4 3549 4479 4867 5204 
+any Temperature.txt 13 2225 2495 3639 3837 3847 4217 4222 4489 4519 6630 6856 7256 7264 
+contents Temperature.txt 1 252 
+first-order Temperature.txt 1 4021 
+u.s Temperature.txt 3 4882 4904 5263 
+depending Temperature.txt 2 623 4549 
+efficient Temperature.txt 1 7015 
+convenient Temperature.txt 6 687 768 1805 1856 4951 6113 
+governs Temperature.txt 1 6828 
+able Temperature.txt 1 1714 
+ideas Temperature.txt 1 2280 
+thorough Temperature.txt 1 3219 
+contact Temperature.txt 5 2354 2705 2754 3749 8016 
+single-particle Temperature.txt 1 7372 
+also Temperature.txt 24 270 1198 1540 1862 2350 2413 2453 2529 2815 3472 3556 4293 4526 4735 4892 4905 5382 5696 5782 5892 5936 6428 6608 8049 
+empirically Temperature.txt 6 692 714 718 846 877 969 
+internal Temperature.txt 14 628 2802 2842 2865 2899 3131 3521 4437 4465 6279 6292 6332 7589 7637 
+generalized Temperature.txt 4 7369 7396 7452 7475 
+which Temperature.txt 42 105 123 323 435 855 998 1094 1310 1318 1519 2233 2516 2599 2710 3174 3861 4148 4191 4340 4485 4858 4958 5028 5059 5089 5328 5417 6124 6387 6553 6621 6672 6708 6852 7055 7198 7276 7499 7529 7568 7740 7849 
+thermometer Temperature.txt 11 55 761 782 822 1065 4226 4725 4778 6077 6117 6142 
+performance Temperature.txt 1 6902 
+coincide Temperature.txt 1 488 
+canonical Temperature.txt 1 7439 
+switching Temperature.txt 1 4779 
+even Temperature.txt 4 3603 4276 7384 7427 
+begin Temperature.txt 1 7866 
+continuous Temperature.txt 1 1620 
+multiple Temperature.txt 1 6722 
+asserts Temperature.txt 1 3280 
+axiomatic Temperature.txt 2 4306 5455 
+though Temperature.txt 3 417 3539 4175 
+who Temperature.txt 1 468 
+reach Temperature.txt 2 2367 6379 
+systems Temperature.txt 17 2303 2331 2360 2378 2917 2946 3239 3746 5512 5887 6415 6731 6778 6835 7344 7386 7712 
+mixed Temperature.txt 1 6730 
+boiling Temperature.txt 4 349 776 4975 5246 
+boltzmann Temperature.txt 5 5343 5538 5920 6214 6254 
+combustion Temperature.txt 1 4922 
+connected Temperature.txt 6 1918 1991 2304 2703 4343 6351 
+printed Temperature.txt 1 2241 
+comparing Temperature.txt 1 3836 
+device Temperature.txt 3 1611 6114 6891 
+alpha Temperature.txt 1 22 
+comparison Temperature.txt 1 4749 
+measured Temperature.txt 11 52 1294 2095 3382 3402 4665 4806 5408 5502 6053 6530 
+model Temperature.txt 5 4505 5109 5562 5723 5772 
+idealized Temperature.txt 2 940 1610 
+relates Temperature.txt 1 5418 
+electronvolts Temperature.txt 1 5321 
+especially Temperature.txt 2 849 925 
+considered Temperature.txt 4 1889 2701 4440 6885 
+average Temperature.txt 8 184 3294 3329 3356 3385 3463 6240 7459 
+partition Temperature.txt 1 612 
+steady Temperature.txt 8 2766 3677 3707 4118 4173 4258 4268 4285 
+drive Temperature.txt 1 7677 
+dimension Temperature.txt 1 5332 
+federal Temperature.txt 1 4887 
+points Temperature.txt 3 393 5046 5205 
+electrons Temperature.txt 2 202 1284 
+principle Temperature.txt 2 2395 3611 
+mechanical Temperature.txt 6 151 5643 5714 5732 6897 7705 
+combinations Temperature.txt 3 6723 6773 6789 
+velocity Temperature.txt 3 3406 5658 6227 
+nineteenth Temperature.txt 1 712 
+justify Temperature.txt 1 3987 
+physics Temperature.txt 7 237 876 3831 5292 5298 5441 5463 
+notion Temperature.txt 2 4136 4272 
+fact Temperature.txt 3 1429 7185 8008 
+quantity Temperature.txt 8 45 1093 3088 3110 4368 4597 4640 4691 
+slope Temperature.txt 2 7887 7928 
+noise-power Temperature.txt 3 1191 1225 1253 
+permeable Temperature.txt 7 1702 1922 1995 2262 2273 2308 2735 
+j/kg Temperature.txt 1 4718 
+particularly Temperature.txt 2 5709 6112 
+phenomenon Temperature.txt 1 1528 
+show Temperature.txt 1 1031 
+violation Temperature.txt 1 1099 
+definite Temperature.txt 2 1432 3910 
+random Temperature.txt 1 190 
+4186 Temperature.txt 1 4714 
+purely Temperature.txt 3 5449 5713 5879 
+relation Temperature.txt 8 1823 2317 2335 3888 3900 6524 7353 7368 
+supplied Temperature.txt 2 2575 4080 
+goes Temperature.txt 3 4762 7484 7915 
+kelvins Temperature.txt 4 1535 2175 6060 6081 
+earth Temperature.txt 1 239 
+imagined Temperature.txt 3 1616 1631 2562 
+find Temperature.txt 1 6873 
+principal Temperature.txt 1 663 
+completion Temperature.txt 1 1905 
+based Temperature.txt 22 206 695 704 715 719 847 878 912 916 920 958 970 982 1004 2187 3236 5268 5400 5438 5559 5971 7341 
+ensembles Temperature.txt 3 5760 7403 7407 
+spite Temperature.txt 1 834 
+conduction Temperature.txt 1 3787 
+irreversible Temperature.txt 1 2996 
+unchanging Temperature.txt 1 6402 
+specified Temperature.txt 2 4587 5066 
+3 Temperature.txt 2 2962 3346 
+calibrated Temperature.txt 3 57 4812 6129 
+like Temperature.txt 1 7390 
+surroundings Temperature.txt 1 4552 
+only Temperature.txt 22 624 766 1477 1703 1722 1923 1996 2263 2274 2309 2565 2736 3663 4336 4541 5751 6047 6304 6698 6972 7050 7763 
+explicitly Temperature.txt 1 2446 
+black Temperature.txt 2 1139 1165 
+helix Temperature.txt 1 23 
+molecules Temperature.txt 6 205 1280 3248 3426 3469 5861 
+indeed Temperature.txt 2 1553 7743 
+attained Temperature.txt 1 4517 
+constant Temperature.txt 12 3305 3949 4075 4472 4618 4658 5344 5539 6027 6106 6255 6261 
+local Temperature.txt 7 2971 2973 3049 3138 3177 3182 3197 
+equilibrium Temperature.txt 35 1652 1752 2299 2355 2368 2385 2553 2975 2986 3015 3051 3140 3171 3179 3184 3681 3782 3827 3983 4014 4068 4124 4133 4179 4290 4302 4310 4348 4455 5864 6385 6420 6431 7591 7639 
+exchanged Temperature.txt 1 1967 
+11 Temperature.txt 1 5352 
+ocean Temperature.txt 1 5057 
+rankine Temperature.txt 3 1573 4909 5252 
+establishes Temperature.txt 3 2483 5181 5199 
+means Temperature.txt 4 1757 2312 3833 6686 
+dependent Temperature.txt 2 748 1444 
+50/50 Temperature.txt 1 6804 
+express Temperature.txt 1 5314 
+freezing Temperature.txt 4 335 519 4966 5236 
+preferred Temperature.txt 2 2342 4421 
+obtain Temperature.txt 1 7736 
+analyzes Temperature.txt 1 5564 
+cannot Temperature.txt 2 3541 4515 
+nearly Temperature.txt 3 1033 1301 3709 
+words Temperature.txt 1 2401 
+invariant Temperature.txt 1 589 
+boils Temperature.txt 1 442 
+during Temperature.txt 2 1050 1934 
+procedures Temperature.txt 1 2930 
+conversion Temperature.txt 2 5273 5281 
+disordered Temperature.txt 2 6728 6742 
+adiabatically Temperature.txt 1 1961 
+processes Temperature.txt 2 259 4242 
+reading Temperature.txt 1 8061 
+equilibria Temperature.txt 1 3846 
+upper Temperature.txt 3 7725 7819 7864 
+fields Temperature.txt 6 232 4047 4106 4879 4901 5257 
+differential Temperature.txt 1 2669 
+fixes Temperature.txt 1 5154 
+comprising Temperature.txt 1 5097 
+throughout Temperature.txt 1 3056 
+redefined Temperature.txt 1 386 
+common Temperature.txt 2 304 2708 
+eventually Temperature.txt 1 6377 
+through Temperature.txt 8 501 1699 1723 1992 2096 3266 3474 7682 
+meter Temperature.txt 1 6101 
+fixed Temperature.txt 8 597 605 645 1014 1472 1764 1806 6544 
+where Temperature.txt 11 3301 3324 6006 6252 6732 6961 7107 7220 7242 7298 7468 
+wrote Temperature.txt 1 2203 
+atomic Temperature.txt 1 5471 
+conversions Temperature.txt 1 5284 
+coefficient Temperature.txt 1 2670 
+requirement Temperature.txt 2 2502 4164 
+set Temperature.txt 4 5576 6692 6700 6706 
+statistical Temperature.txt 10 5440 5462 5480 5556 5588 5737 5771 7334 7337 7410 
+reference Temperature.txt 3 565 569 2108 
+achieved Temperature.txt 4 1346 3543 7200 7790 
+physically Temperature.txt 1 4379 
+orthodicity Temperature.txt 1 7448 
+exerted Temperature.txt 1 1011 
+subtracting Temperature.txt 1 7205 
+exists Temperature.txt 3 1570 3035 3993 
+transferred Temperature.txt 10 1974 2029 2035 2061 2087 2136 2468 4600 4643 8027 
+relative Temperature.txt 2 1458 1491 
+kilogram Temperature.txt 1 4717 
+see Temperature.txt 7 12 269 4525 4734 5381 5996 8048 
+individual Temperature.txt 1 6196 
+are Temperature.txt 53 71 260 499 699 764 808 843 919 945 961 1285 1293 1654 1679 1690 1748 1870 2055 2094 2167 2258 2382 2430 2582 2699 2772 2964 2981 3019 3365 3401 3750 3779 3802 4158 4171 4563 5041 5102 5387 5534 5826 6350 6416 6427 6543 6721 6735 7013 7500 7569 7770 7840 
+sea Temperature.txt 1 4978 
+existence Temperature.txt 2 6489 7234 
+zero-point Temperature.txt 5 146 3601 5112 5121 7513 
+kinetic Temperature.txt 25 186 213 929 3211 3228 3278 3295 3331 3357 3465 5413 5550 5610 5623 5649 5693 5779 5872 5897 5916 5923 5990 6184 6207 6241 
+exhibits Temperature.txt 1 7943 
+reproduced Temperature.txt 1 1523 
+ergodicity Temperature.txt 1 7446 
+phases Temperature.txt 1 617 
+said Temperature.txt 3 3053 4351 8004 
+capacity Temperature.txt 7 3510 4523 4528 4591 4656 4663 5946 
+ways Temperature.txt 1 279 
+speed Temperature.txt 2 5639 6271 
+wikipedia Temperature.txt 1 1 
+tend Temperature.txt 2 3970 6151 
+wiens Temperature.txt 2 1171 3930 
+state Temperature.txt 30 583 1649 2283 2296 2321 2767 2821 2870 3624 3660 3678 3704 4119 4259 4269 4286 4544 5128 6381 6396 6531 6815 7237 7253 7265 7587 7635 7807 7858 7960 
+interrelated Temperature.txt 1 5535 
+various Temperature.txt 3 59 3252 4561 
+closed Temperature.txt 6 2017 2287 2302 2918 4032 4091 
+between Temperature.txt 21 1824 2300 2319 3758 3889 3901 5171 5202 5976 6289 6476 6525 6833 6868 6878 6926 7008 7021 7037 7044 7420 
+reproducible Temperature.txt 1 554 
+progress Temperature.txt 2 322 6846 
+subscript Temperature.txt 1 7244 
+bailyn Temperature.txt 1 2416 
+approach Temperature.txt 3 654 3213 5456 
+discovery Temperature.txt 1 860 
+available Temperature.txt 2 2260 5827 
+comparable Temperature.txt 1 949 
+terms Temperature.txt 7 388 1607 2657 6614 6653 7141 7290 
+historical Temperature.txt 3 209 321 636 
+extend Temperature.txt 2 906 7379 
+nature Temperature.txt 1 5304 
+importance Temperature.txt 1 1060 
+emitted Temperature.txt 1 1286 
+physicist Temperature.txt 1 467 
+however Temperature.txt 8 1067 1545 3597 5111 5508 6166 7540 7748 
+efficiency Temperature.txt 7 6948 6970 7029 7139 7149 7154 7164 
+regime Temperature.txt 1 8032 
+removing Temperature.txt 1 3520 
+diathermic Temperature.txt 1 2731 
+referenced Temperature.txt 1 7502 
+article Temperature.txt 5 3 6340 6585 7491 8043 
+understanding Temperature.txt 3 5467 5904 5929 
+come Temperature.txt 1 6712 
+inertia Temperature.txt 1 5671 
+7000831445980000000 Temperature.txt 1 6017 
+isotopes Temperature.txt 1 5072 
+both Temperature.txt 4 353 4785 5486 7566 
+c Temperature.txt 18 77 165 300 330 346 513 532 4660 4733 4873 4960 4972 4991 5083 5146 5216 5221 7528 
+numerically Temperature.txt 1 7742 
+always Temperature.txt 2 3963 7602 
+many Temperature.txt 6 257 450 3243 3804 4404 4877 
+region Temperature.txt 2 5840 8037 
+annual Temperature.txt 1 32 
+equal Temperature.txt 7 1255 2666 2773 2835 2887 4708 7562 
+contract Temperature.txt 1 797 
+agree Temperature.txt 2 3858 4145 
+fulfilled Temperature.txt 1 3020 
+joules Temperature.txt 1 4715 
+s Temperature.txt 13 2361 2363 2373 2379 2381 2814 2828 2859 2875 2876 3077 7239 7300 
+present Temperature.txt 2 2434 2448 
+receives Temperature.txt 1 4034 
+hypothesis Temperature.txt 1 7444 
+adapted Temperature.txt 1 4776 
+experimental Temperature.txt 4 1527 2929 3792 3830 
+quantum-mechanical Temperature.txt 1 5580 
+arbitrarily Temperature.txt 1 1438 
+detailed Temperature.txt 1 2268 
+relevant Temperature.txt 2 2769 6541 
+prepared Temperature.txt 1 5063 
+point Temperature.txt 36 281 328 336 350 482 520 559 566 570 579 640 777 1473 1514 1518 1559 1639 2596 3135 3153 3159 3161 3550 4480 4868 4967 4976 4998 5052 5136 5177 5237 5247 7872 7920 7936 
+simple Temperature.txt 2 727 884 
+had Temperature.txt 1 3917 
+others Temperature.txt 1 7773 
+band-width Temperature.txt 1 1246 
+corresponds Temperature.txt 5 4961 5240 5350 6922 7269 
+except Temperature.txt 3 3319 4015 4824 
+galileo Temperature.txt 1 3796 
+maintained Temperature.txt 1 7672 
+simply Temperature.txt 1 1454 
+coordinates Temperature.txt 1 6542 
+maximize Temperature.txt 1 6850 
+scottish Temperature.txt 1 466 
+vessel Temperature.txt 1 603 
+respect Temperature.txt 5 2676 2845 2896 4468 7329 
+actually Temperature.txt 1 2965 
+along Temperature.txt 1 593 
+speak Temperature.txt 3 3101 3128 3147 
+considering Temperature.txt 1 7401 
+described Temperature.txt 5 138 2798 2854 4502 7278 
+raise Temperature.txt 1 4700 
+puts Temperature.txt 1 1095 
+basis Temperature.txt 4 755 873 6122 6572 
+addition Temperature.txt 1 5446 
+three Temperature.txt 3 614 3313 5958 
+been Temperature.txt 5 385 1326 1437 2752 6823 
+slowly Temperature.txt 2 1635 4063 
+interest Temperature.txt 3 2633 2648 7686 
+likewise Temperature.txt 1 2849 
+expected Temperature.txt 2 6854 6862 
+microscopic Temperature.txt 12 195 1394 3232 3244 3272 3361 5436 5483 5532 5548 5553 5746 
+monotonic Temperature.txt 4 1822 3908 6328 6523 
+deduced Temperature.txt 1 6215 
+hardly Temperature.txt 2 809 1876 
+dynamically Temperature.txt 1 622 
+derives Temperature.txt 1 5476 
+define Temperature.txt 3 1618 6439 6611 
+engine Temperature.txt 7 993 1615 1663 6888 6911 6921 7019 
+dry Temperature.txt 1 7520 
+life Temperature.txt 1 251 
+contribute Temperature.txt 1 5893 
+corresponding Temperature.txt 1 6774 
+deeper Temperature.txt 1 5466 
+restrictions Temperature.txt 1 837 
+quantities Temperature.txt 2 114 664 
+gas Temperature.txt 30 1008 1021 1064 1081 1097 1113 3489 3514 5432 5870 5910 5940 5960 5968 6003 6014 6026 6063 6076 6094 6105 6116 6141 6176 6233 6250 6260 6275 6312 6552 
+new Temperature.txt 1 7285 
+readings Temperature.txt 3 3856 3893 3904 
+bulk Temperature.txt 2 3371 3415 
+substance Temperature.txt 2 2497 4672 
+determination Temperature.txt 1 2463 
+external Temperature.txt 4 4045 4104 7674 8063 
+plasmas Temperature.txt 1 5621 
+general Temperature.txt 2 3670 5817 
+spin Temperature.txt 4 7695 7711 7802 7938 
+hidden Temperature.txt 1 8067 
+boiling-point Temperature.txt 1 832 
+case Temperature.txt 7 1221 2744 3394 3693 6297 7053 7414 
+commerce Temperature.txt 1 5519 
+atmospheric Temperature.txt 3 356 448 525 
+reciprocal Temperature.txt 2 2882 7317 
+solid Temperature.txt 1 621 
+reliable Temperature.txt 1 7610 
+contradiction Temperature.txt 1 7607 
+empirical Temperature.txt 19 315 696 864 1796 1827 3805 3851 4142 4187 4225 4232 4387 4406 5403 5974 6451 6510 6516 7496 
+value Temperature.txt 6 1238 1267 1434 1532 1551 7836 
+n Temperature.txt 7 2824 2830 2873 2879 6007 7426 7483 
+will Temperature.txt 9 1344 2507 3344 3471 3490 3505 3857 6632 8025 
+while Temperature.txt 5 702 3136 4126 4396 7648 
+reliably Temperature.txt 2 553 1522 
+freely Temperature.txt 2 3289 3335 
+well-defined Temperature.txt 1 3718 
+property Temperature.txt 4 8 1447 3198 7125 
+study Temperature.txt 5 667 2991 4248 4297 5357 
+postulating Temperature.txt 1 2178 
+identical Temperature.txt 1 2375 
+seven Temperature.txt 1 111 
+uncertainty Temperature.txt 1 3610 
+impracticable Temperature.txt 1 784 
+century Temperature.txt 2 713 4772 
+exceptionally Temperature.txt 1 6546 
+is Temperature.txt 214 4 42 51 92 107 119 155 178 228 301 313 365 408 473 485 580 644 659 676 747 753 783 816 978 1005 1022 1056 1066 1074 1088 1109 1157 1168 1210 1226 1261 1271 1356 1363 1368 1379 1383 1443 1453 1476 1504 1539 1552 1556 1585 1599 1604 1630 1646 1671 1713 1855 1875 1888 1916 2016 2289 2336 2364 2404 2412 2520 2539 2572 2600 2659 2665 2729 2734 2745 2784 2797 2834 2853 2886 2910 3000 3030 3040 3052 3166 3176 3204 3207 3223 3351 3390 3424 3535 3547 3616 3647 3689 3701 3706 3862 3944 3962 3975 4000 4079 4152 4165 4192 4198 4244 4264 4292 4439 4481 4491 4497 4540 4592 4612 4652 4664 4676 4793 4805 4836 4859 4869 4937 4949 4973 4992 5011 5022 5060 5075 5085 5124 5139 5229 5264 5311 5335 5558 5600 5630 5686 5716 5750 5781 5851 5874 5970 6008 6024 6037 6052 6109 6135 6164 6189 6205 6217 6251 6257 6268 6281 6294 6322 6326 6362 6411 6453 6484 6549 6568 6607 6697 6853 6861 6865 6883 6889 6949 6963 7061 7077 7109 7150 7179 7258 7261 7302 7312 7321 7350 7376 7398 7470 7509 7530 7543 7578 7601 7630 7665 7671 7693 7733 7741 7750 7788 7903 7984 
+drawbacks Temperature.txt 1 868 
+thus Temperature.txt 8 2432 2684 3180 3486 6272 6808 6859 7016 
+it Temperature.txt 70 312 317 364 382 471 472 684 850 1390 1452 1555 1603 1726 1839 1854 1941 2037 2185 2217 2386 2492 2664 2683 2914 3029 3037 3059 3079 3096 3123 3142 3262 3350 3389 3504 3561 3645 3688 3714 3895 4050 4109 4180 4314 4940 4948 5084 5153 5180 5198 5310 5695 6046 6108 6134 6163 6313 6321 6442 6501 6606 6752 6821 6837 6860 7375 7600 7732 7850 7992 
+glass-walled Temperature.txt 1 744 
+according Temperature.txt 1 1416 
+middle Temperature.txt 2 709 7215 
+itself Temperature.txt 2 4361 6446 
+properties Temperature.txt 11 729 890 938 1035 1372 2113 2223 2715 3925 5478 6595 
+attributed Temperature.txt 1 5797 
+triple Temperature.txt 8 558 578 639 1513 2595 5051 5135 5176 
+in Temperature.txt 173 58 76 97 104 131 148 197 230 277 307 376 387 462 601 665 707 742 833 1098 1179 1211 1247 1347 1384 1388 1428 1490 1497 1606 1647 1657 1750 1840 2099 2183 2204 2213 2242 2247 2266 2383 2399 2504 2517 2536 2551 2566 2655 2695 2753 2774 2792 2953 2984 3024 3162 3168 3173 3186 3199 3338 3413 3452 3455 3461 3586 3591 3664 3669 3675 3697 3702 3747 3780 3825 3841 3981 4010 4038 4044 4103 4116 4122 4129 4172 4177 4249 4256 4266 4283 4288 4298 4346 4453 4565 4615 4795 4797 4819 4880 4902 4917 4930 4957 4985 5001 5106 5125 5165 5222 5256 5261 5318 5355 5409 5445 5491 5504 5509 5555 5616 5641 5656 5669 5676 5682 5705 5710 5753 5773 5812 5816 5866 5877 5885 5907 5932 6080 6088 6095 6180 6230 6305 6386 6418 6429 6590 6613 6634 6642 6652 6658 6671 6707 6727 6900 7140 7184 7191 7201 7289 7391 7409 7412 7584 7593 7604 7632 7668 7702 7811 7974 8007 
+protein Temperature.txt 1 21 
+technology Temperature.txt 2 4742 5517 
+everyday Temperature.txt 1 4946 
+if Temperature.txt 14 1265 1279 2569 3012 3038 3363 3560 4196 4436 4609 4661 6049 6413 7054 
+result Temperature.txt 2 6633 6726 
+different Temperature.txt 6 1763 4186 4405 5331 5959 6802 
+suggests Temperature.txt 1 7232 
+perhaps Temperature.txt 1 1342 
+radiation Temperature.txt 6 1134 1156 3791 3935 3943 3974 
+same Temperature.txt 16 410 1331 2407 2511 2642 3405 3753 3820 3875 4161 4355 5013 5188 6715 7010 7028 
+orders Temperature.txt 1 8044 
+parts Temperature.txt 1 5167 
+arguments Temperature.txt 1 924 
+widely Temperature.txt 2 1565 5230 
+grand Temperature.txt 1 7438 
+units Temperature.txt 12 63 102 291 381 537 648 4923 4935 5319 5498 5505 5527 
+4598 Temperature.txt 1 6019 
+finite Temperature.txt 2 145 7436 
+higher Temperature.txt 3 7860 7933 7995 
+development Temperature.txt 3 210 1052 2955 
+independent Temperature.txt 3 1369 5795 7062 
+sophisticated Temperature.txt 1 6211 
+material Temperature.txt 13 815 996 1289 1817 1861 3627 3662 3696 5597 5652 6519 7554 7757 
+infinity Temperature.txt 3 7486 7917 7925 
+context Temperature.txt 1 5775 
+cubic Temperature.txt 1 6100 
+kelvin Temperature.txt 29 87 90 162 375 396 416 455 546 980 1354 1425 1495 1537 1584 1591 1602 2202 2913 4707 4856 4895 4939 5017 5037 5159 5184 6563 6566 7538 
+numerical Temperature.txt 9 1433 1531 1550 2580 3854 3891 3903 6455 6498 
+disagree Temperature.txt 1 4189 
+effect Temperature.txt 1 1212 
+flows Temperature.txt 1 3767 
+hand Temperature.txt 3 3122 6719 7208 
+high-tech Temperature.txt 1 4884 
+nk Temperature.txt 1 7197 
+uses Temperature.txt 2 11 430 
+arose Temperature.txt 1 706 
+tradition Temperature.txt 1 1441 
+expand Temperature.txt 2 787 1960 
+cycle Temperature.txt 14 1621 1629 1642 1661 1853 1887 1940 1955 1986 2015 2054 2559 6968 7257 
+indefinitely Temperature.txt 1 3803 
+safe Temperature.txt 2 4167 4278 
+motionless Temperature.txt 1 140 
+modes Temperature.txt 3 3483 5675 5809 
+largely Temperature.txt 1 749 
+nevertheless Temperature.txt 4 863 1423 3808 4216 
+settled Temperature.txt 3 2583 2762 6399 
+variety Temperature.txt 2 678 4815 
+well Temperature.txt 6 245 3447 4183 4211 4668 7825 
+walls Temperature.txt 4 2261 2429 4555 6200 
+analysis Temperature.txt 1 6906 
+without Temperature.txt 5 4036 4042 4093 4096 4101 
+solids Temperature.txt 3 5617 5711 5847 
+materials Temperature.txt 11 731 786 793 813 893 943 956 1375 1451 1869 3928 
+allow Temperature.txt 1 3713 
+comes Temperature.txt 2 6676 6682 
+diatomic Temperature.txt 1 3488 
+sets Temperature.txt 1 2234 
+asymptotically Temperature.txt 1 7966 
+position Temperature.txt 1 5865 
+the Temperature.txt 595 6 24 27 36 66 72 81 86 89 93 98 110 115 124 149 161 167 174 183 189 193 208 212 280 287 295 297 310 334 348 360 371 374 377 390 395 409 426 431 454 465 490 503 518 533 545 552 557 567 577 626 631 638 650 662 666 708 711 734 754 757 775 845 859 972 979 1006 1009 1051 1062 1076 1096 1101 1106 1111 1119 1130 1148 1161 1164 1183 1188 1204 1216 1224 1230 1233 1237 1244 1252 1266 1269 1274 1295 1307 1319 1336 1353 1371 1376 1398 1418 1446 1494 1511 1536 1542 1572 1580 1590 1594 1628 1641 1643 1662 1668 1673 1707 1710 1719 1730 1733 1738 1770 1775 1780 1789 1809 1831 1844 1851 1864 1880 1885 1897 1904 1913 1927 1935 1939 1947 1950 1954 1957 1978 1981 1985 1988 2000 2011 2014 2023 2041 2047 2051 2065 2069 2076 2080 2083 2091 2097 2100 2104 2110 2117 2123 2127 2132 2156 2165 2189 2194 2197 2214 2222 2236 2253 2281 2320 2324 2345 2359 2377 2394 2400 2406 2422 2433 2441 2456 2462 2475 2484 2488 2501 2510 2524 2532 2546 2558 2577 2588 2594 2610 2623 2636 2641 2645 2686 2739 2748 2768 2775 2787 2795 2832 2837 2841 2847 2851 2881 2884 2889 2893 2898 2901 2907 2949 2958 3046 3057 3068 3074 3093 3117 3120 3130 3149 3254 3267 3271 3274 3306 3310 3328 3355 3370 3373 3375 3384 3393 3396 3404 3409 3414 3417 3462 3468 3476 3515 3533 3548 3552 3592 3609 3628 3653 3659 3692 3741 3752 3770 3774 3809 3819 3863 3866 3874 3881 3899 3936 3951 3954 4026 4077 4135 4153 4160 4193 4205 4271 4312 4326 4354 4397 4401 4410 4416 4433 4445 4461 4469 4486 4498 4504 4506 4546 4551 4554 4559 4566 4589 4593 4596 4602 4605 4610 4629 4632 4639 4647 4653 4673 4677 4680 4685 4701 4769 4798 4822 4830 4833 4848 4855 4860 4881 4894 4903 4908 4925 4931 4938 4942 4954 4965 4996 5012 5020 5025 5036 5050 5086 5095 5107 5120 5134 5150 5155 5158 5169 5175 5187 5194 5200 5203 5223 5226 5235 5245 5251 5262 5270 5275 5279 5288 5294 5326 5339 5342 5356 5366 5392 5396 5412 5419 5423 5427 5470 5492 5510 5522 5528 5531 5537 5547 5552 5584 5604 5613 5622 5632 5648 5657 5660 5670 5690 5698 5703 5721 5736 5740 5743 5745 5754 5767 5770 5774 5778 5788 5799 5804 5808 5818 5829 5835 5838 5842 5848 5855 5871 5878 5883 5915 5938 5943 5966 5989 6001 6009 6025 6042 6050 6061 6075 6078 6086 6104 6115 6149 6159 6174 6181 6183 6192 6199 6220 6226 6239 6253 6258 6264 6269 6273 6299 6306 6370 6373 6393 6406 6448 6458 6481 6488 6550 6561 6565 6571 6574 6591 6601 6616 6625 6643 6646 6705 6714 6717 6738 6763 6769 6788 6809 6829 6842 6876 6901 6908 6913 6916 6924 6927 6931 6934 6939 6943 6947 6950 6954 6958 6964 6969 6985 7009 7027 7042 7052 7058 7070 7079 7124 7138 7148 7169 7180 7186 7206 7214 7221 7228 7233 7243 7249 7271 7274 7309 7316 7319 7322 7351 7362 7365 7380 7395 7413 7435 7443 7451 7455 7458 7465 7471 7479 7495 7512 7515 7536 7547 7572 7649 7652 7655 7683 7703 7752 7756 7760 7782 7805 7809 7812 7818 7821 7827 7838 7863 7871 7876 7880 7886 7889 7904 7907 7910 7912 7927 7937 7950 7958 7961 7968 7971 7975 8029 8034 
+chemistry Temperature.txt 1 238 
+stating Temperature.txt 2 2800 2856 
+bodies Temperature.txt 19 1667 2698 2750 2777 2980 3673 3824 3840 3869 4009 4115 4128 4151 4169 4206 4254 4339 6349 6394 
+left Temperature.txt 1 1482 
+spherical Temperature.txt 1 3438 
+reside Temperature.txt 1 5655 
+212 Temperature.txt 2 444 5249 
+just Temperature.txt 2 2238 6839 
+less Temperature.txt 8 948 1455 1564 4277 5718 7428 7744 7830 
+being Temperature.txt 9 331 571 1466 1973 2034 3240 3259 5161 5210 
+generally Temperature.txt 1 839 
+accurate Temperature.txt 2 1144 1201 
+newton Temperature.txt 1 3798 
+sub-zero Temperature.txt 1 4988 
+named Temperature.txt 1 461 
+rest Temperature.txt 4 3585 5105 6739 7650 
+isolated Temperature.txt 2 6348 7771 
+underlying Temperature.txt 1 7364 
+cease Temperature.txt 1 3578 
+thermometry Temperature.txt 4 865 1046 1340 6517 
+using Temperature.txt 8 551 4755 4847 4854 5496 6074 6173 6209 
+facts Temperature.txt 1 3986 
+spatially Temperature.txt 2 3002 3195 
+alternative Temperature.txt 1 2966 
+macroscopic Temperature.txt 8 3238 3264 5402 5420 5477 5529 7193 7753 
+yet Temperature.txt 1 1325 
+previous Temperature.txt 1 6592 
+plots Temperature.txt 1 5952 
+engines Temperature.txt 1 7006 
+accepted Temperature.txt 1 973 
+bibliography Temperature.txt 1 8055 
+vibration Temperature.txt 1 16 
+regarded Temperature.txt 3 2337 3192 3632 
+alternate Temperature.txt 1 1563 
+character Temperature.txt 3 1367 2486 4003 
+ideal Temperature.txt 22 985 995 1007 1020 1034 1063 1080 1112 1137 5868 5909 5939 5967 6002 6062 6175 6232 6249 6259 6274 6311 6551 
+exclusively Temperature.txt 2 5876 7869 
+273.16 Temperature.txt 6 647 1534 2608 5142 5166 5218 
+273.15 Temperature.txt 9 164 425 512 529 4872 5031 5082 5211 5215 
+other Temperature.txt 12 10 1377 1776 2637 2820 2869 3121 4899 5886 6434 6540 6718 
+treatment Temperature.txt 1 4307 
+samples Temperature.txt 1 5961 
+theorem Temperature.txt 4 3276 6301 7001 7784 
+necessarily Temperature.txt 2 3392 3691 
+input Temperature.txt 1 3494 
+extensive Temperature.txt 6 2673 2693 2806 2817 3069 3075 
+has Temperature.txt 25 383 866 1175 1206 1254 1436 1819 2685 2711 2924 3080 3292 3312 3379 3600 3735 4315 4941 5116 5185 5329 6390 6822 7522 7993 
+plasma Temperature.txt 2 5291 5297 
+excited Temperature.txt 2 7846 7959 
+emphasis Temperature.txt 1 2926 
+real Temperature.txt 3 2293 2978 4372 
+publication Temperature.txt 1 2232 
+aspects Temperature.txt 1 248 
+around Temperature.txt 2 35 7255 
+depends Temperature.txt 1 6971 
+loss Temperature.txt 1 4086 
+read Temperature.txt 2 1116 2246 
+complies Temperature.txt 1 2499 
+cited Temperature.txt 1 8057 
+results Temperature.txt 1 3451 
+possible Temperature.txt 14 2419 3352 3425 3563 4564 6137 6165 6609 6704 6772 7182 7377 7719 7734 
+early Temperature.txt 1 4770 
+increases Temperature.txt 8 29 4638 6768 6779 7814 7823 7952 7973 
+one-to-one Temperature.txt 1 3738 
+makes Temperature.txt 4 3060 3097 3124 3143 
+so-called Temperature.txt 1 7615 
+mol Temperature.txt 1 6022 
+confined Temperature.txt 1 741 
+world Temperature.txt 4 37 311 2979 4823 
+apart Temperature.txt 1 3671 
+unique Temperature.txt 3 587 4424 6492 
+vapour Temperature.txt 1 618 
+melting Temperature.txt 2 4027 4997 
+necessary Temperature.txt 2 6914 7262 
+particle Temperature.txt 7 3291 3311 3337 5636 5692 6245 7418 
+standardization Temperature.txt 1 372 
+should Temperature.txt 4 1742 1812 4349 6993 
+velocities Temperature.txt 3 1292 1299 3378 
+quantum-mechanically Temperature.txt 1 5110 
+temporally Temperature.txt 1 3004 
+predominate Temperature.txt 1 3327 
+specific Temperature.txt 7 803 1409 2713 2717 2724 4674 7765 
+informative Temperature.txt 1 4380 
+true Temperature.txt 1 6323 
+yields Temperature.txt 1 5926 
+t Temperature.txt 34 2161 2163 3299 3343 3348 4651 5983 6987 6989 7022 7024 7038 7040 7045 7047 7064 7075 7076 7082 7084 7087 7088 7090 7091 7093 7094 7096 7098 7100 7102 7104 7106 7145 7311 
+autonomically Temperature.txt 1 608 
+arbitrary Temperature.txt 5 1456 1484 1554 2630 4428 
+become Temperature.txt 2 4316 6401 
+disorder Temperature.txt 1 6818 
+essential Temperature.txt 1 6120 
+spins Temperature.txt 1 7839 
+mathematical Temperature.txt 4 2316 2334 3989 5450 
+because Temperature.txt 12 358 1075 1147 1867 2541 2663 3205 3607 4980 6045 6976 7885 
+often Temperature.txt 5 1300 2700 2982 4950 5717 
+classical Temperature.txt 16 1395 2995 3013 3268 3283 3572 3588 5091 5108 5397 5458 5487 5578 5596 5628 6307 
+formulas Temperature.txt 1 5282 
+78.5 Temperature.txt 1 7527 
+some Temperature.txt 9 792 802 1028 2712 3651 6528 6733 6866 6995 
+back Temperature.txt 2 4763 7130 
+50 Temperature.txt 2 6791 6794 
+global Temperature.txt 1 3169 
+calculated Temperature.txt 2 3386 5337 
+et Temperature.txt 1 6760 
+warmer Temperature.txt 1 3771 
+serves Temperature.txt 1 5149 
+escape Temperature.txt 2 3368 3399 
+9 Temperature.txt 1 7357 
+5 Temperature.txt 1 7212 
+reasons Temperature.txt 2 637 1361 
+provided Temperature.txt 1 5453 
+scale Temperature.txt 69 74 83 88 163 169 176 271 296 299 316 369 397 433 457 479 541 673 683 977 981 1001 1351 1355 1469 1496 1538 1544 1569 1574 1582 1592 2210 3555 3642 3734 3855 3892 4376 4429 4745 4784 4792 4835 4850 4857 4862 4910 4914 4956 5003 5021 5196 5228 5234 5253 5267 5290 6044 6057 6073 6456 6558 6564 6567 7118 7516 7539 7549 7599 
+describing Temperature.txt 1 5469 
+dimensions Temperature.txt 1 2687 
+for Temperature.txt 79 9 303 544 595 635 732 772 829 853 874 967 989 1045 1071 1219 1317 1339 1359 1413 1493 1863 2461 2472 2679 2742 2755 2778 2990 3017 3036 3042 3063 3794 3823 3829 3978 4008 4016 4054 4114 4127 4168 4237 4247 4253 4280 4296 4305 4581 4607 4666 4697 4801 4825 4838 4945 5283 5515 5730 5758 5828 5846 5957 6225 6317 6457 6515 6656 6688 6780 6892 7137 7144 7263 7287 7295 7518 7581 7623 
+cavity Temperature.txt 1 3980 
+electromagnetic Temperature.txt 2 1133 5303 
+tube Temperature.txt 1 746 
+measurements Temperature.txt 4 306 452 725 886 
+109.3 Temperature.txt 1 7533 
+carnots Temperature.txt 1 7000 
+per Temperature.txt 7 3083 3089 3106 3113 4716 6244 6967 
+considers Temperature.txt 1 5583 
+flow Temperature.txt 1 7679 
+sublimation Temperature.txt 1 7524 
+semi-definite Temperature.txt 1 1092 
+does Temperature.txt 9 1427 1944 3764 3878 3896 4207 4362 6314 6443 
+connecting Temperature.txt 1 1788 
+expressing Temperature.txt 2 46 7450 
+tends Temperature.txt 2 6844 7477 
+liberia Temperature.txt 1 4828 
+closely Temperature.txt 1 4963 
+configuration-space Temperature.txt 1 7406 
+refer Temperature.txt 1 4319 
+re-calibrated Temperature.txt 1 896 
+be Temperature.txt 58 686 895 1003 1043 1277 1345 1507 1521 1577 1728 1743 1761 1785 1813 2149 2172 2388 2550 2561 2574 2619 2720 3191 3345 3381 3531 3542 3582 3631 3724 3906 3916 4070 4184 4345 4350 4516 4811 5407 5501 5792 5912 6083 6128 6467 6513 6650 6669 6745 6754 6994 7051 7121 7359 7620 8003 8006 8026 
+biology Temperature.txt 1 243 
+noise Temperature.txt 2 1245 1264 
+run Temperature.txt 1 1633 
+scientific Temperature.txt 3 451 4757 5389 
+boyles Temperature.txt 1 5997 
+infinitely Temperature.txt 1 1122 
+equivalent Temperature.txt 4 391 2431 5373 7531 
+agreement Temperature.txt 1 5035 
+chart Temperature.txt 1 4391 
+paper Temperature.txt 2 2207 2245 
+pressure Temperature.txt 14 357 449 526 592 1010 1127 4574 4637 4740 5954 5977 6087 6188 6535 
+imperfectly Temperature.txt 1 6776 
+although Temperature.txt 4 136 4495 6107 6320 
+offset Temperature.txt 3 423 4863 5023 
+from Temperature.txt 41 1135 1257 1287 1892 1911 2010 2040 2064 2075 2090 2140 2144 3158 3369 3387 3523 3672 3684 3769 3929 4066 4089 4537 4558 5287 5333 5479 5914 6234 6369 6803 6918 7213 7227 7333 7361 7371 7454 7772 7804 8028 
+therefore Temperature.txt 2 7722 7942 
+refers Temperature.txt 3 1117 2915 3657 
+by Temperature.txt 60 262 319 333 420 550 897 1012 1193 1440 1693 1787 1903 1919 2018 2057 2305 2338 2397 2415 2584 2634 2704 2799 2855 2935 2992 3499 3650 3786 3789 3946 4357 4360 4503 4518 4646 4692 4705 4787 5024 5033 5043 5468 5536 6103 6123 6172 6191 6263 6353 6445 6600 6953 7241 7314 7400 7571 7673 7779 7954 
+after Temperature.txt 1 7848 
+rearranging Temperature.txt 2 7218 7280 
+on Temperature.txt 53 160 166 173 207 294 394 434 625 724 750 922 936 983 997 1445 1838 1946 2122 2188 2252 2440 2455 2927 3119 3237 3994 4049 4108 4374 4392 4550 5193 5232 5269 5401 5439 5560 5834 5972 6041 6054 6070 6471 6500 6570 6716 6973 7069 7342 7494 7535 7546 7596 
+about Temperature.txt 4 5 4190 5375 5862 
+would Temperature.txt 4 3577 3581 4344 6668 
+locality Temperature.txt 1 3667 
+most Temperature.txt 11 67 247 308 785 838 1868 4820 4839 4843 5683 6318 
+column Temperature.txt 1 738 
+of Temperature.txt 453 17 20 26 64 95 101 109 127 182 188 192 211 215 225 233 249 254 272 289 309 337 351 359 373 380 389 404 414 424 464 505 521 536 556 560 599 604 630 633 642 649 661 668 671 679 681 710 726 730 736 739 756 770 778 817 825 835 844 861 887 891 899 909 927 939 1018 1053 1058 1078 1086 1100 1104 1121 1129 1132 1150 1154 1163 1187 1190 1232 1239 1268 1297 1315 1329 1370 1373 1393 1397 1401 1411 1421 1448 1480 1502 1509 1515 1533 1589 1597 1608 1622 1624 1640 1650 1665 1677 1695 1737 1815 1833 1848 1850 1871 1879 1882 1896 1906 1938 1953 1984 2022 2050 2059 2085 2103 2114 2119 2130 2134 2164 2191 2196 2200 2221 2224 2228 2270 2285 2297 2328 2344 2348 2358 2393 2405 2421 2425 2436 2444 2450 2459 2464 2466 2478 2487 2513 2527 2587 2597 2607 2613 2628 2632 2647 2671 2688 2691 2790 2811 2840 2863 2883 2892 2906 2921 2933 2951 2956 2968 2994 3009 3045 3067 3073 3092 3102 3104 3111 3116 3129 3148 3221 3234 3242 3251 3256 3270 3277 3285 3287 3297 3309 3315 3333 3359 3372 3377 3416 3434 3467 3517 3551 3574 3594 3608 3619 3622 3625 3655 3661 3679 3812 3865 3912 3919 3921 3924 3926 3933 3938 3941 3953 3956 4004 4028 4087 4098 4137 4149 4204 4231 4241 4273 4308 4324 4331 4382 4403 4408 4413 4418 4444 4449 4464 4488 4509 4545 4573 4576 4584 4595 4598 4604 4631 4641 4671 4679 4687 4695 4703 4731 4737 4746 4750 4816 4821 4928 4934 4968 4999 5007 5053 5068 5094 5137 5157 5168 5178 5206 5238 5258 5296 5302 5320 5341 5358 5365 5368 5394 5415 5426 5429 5431 5473 5482 5506 5513 5526 5571 5577 5590 5595 5603 5607 5612 5627 5634 5645 5651 5659 5662 5672 5689 5702 5739 5742 5748 5761 5769 5776 5801 5803 5810 5820 5823 5831 5841 5857 5882 5895 5899 5905 5930 5947 5953 5992 6011 6013 6090 6093 6098 6228 6246 6298 6309 6331 6336 6343 6365 6375 6382 6405 6409 6460 6490 6497 6509 6573 6577 6581 6588 6596 6604 6615 6619 6645 6654 6661 6693 6701 6710 6765 6771 6785 6816 6831 6855 6903 6907 6997 7033 7063 7078 7112 7142 7172 7210 7235 7251 7273 7291 7305 7318 7324 7326 7347 7354 7382 7387 7405 7415 7424 7445 7457 7461 7464 7514 7526 7550 7567 7575 7588 7608 7626 7636 7651 7654 7680 7685 7689 7707 7718 7727 7755 7762 7767 7781 7801 7817 7859 7873 7882 7888 7906 7909 7940 7957 7970 8039 8045 8056 
+ranges Temperature.txt 2 769 1039 
+factors Temperature.txt 1 7675 
+o Temperature.txt 1 3430 
+practical Temperature.txt 5 841 968 1059 5511 6132 
+mutually Temperature.txt 1 615 
+range Temperature.txt 3 804 908 4240 
+greatly Temperature.txt 1 857 
+cycles Temperature.txt 1 7035 
+one-dimensional Temperature.txt 4 1214 3729 3997 6473 
+i.e Temperature.txt 4 3503 5837 7085 7315 
+referred Temperature.txt 2 2721 5783 
+consequently Temperature.txt 1 3154 
+or Temperature.txt 39 292 476 514 547 947 1281 1283 2158 2522 2625 3072 3086 3109 3720 3788 3870 4155 4478 4536 4874 5323 5573 5579 5620 5665 5668 5763 5806 5860 5949 6536 6638 6679 6729 6751 6819 6960 7561 7670 
+bath Temperature.txt 1 3940 
+equally Temperature.txt 1 7014 
+own Temperature.txt 6 586 3737 4012 4131 7586 7634 
+latent Temperature.txt 1 4082 
+follows Temperature.txt 1 7701 
+previously Temperature.txt 3 2111 6824 7279 
+maxwell Temperature.txt 2 2398 5918 
+into Temperature.txt 12 613 3007 3740 5567 5574 5794 6154 6896 6930 6957 7131 8015 
+within Temperature.txt 2 767 7697 
+obtaining Temperature.txt 1 6798 
+attains Temperature.txt 1 7833 
+due Temperature.txt 3 1600 2911 3457 
+phase Temperature.txt 5 4022 4060 4094 4579 4622 
+right Temperature.txt 2 7071 7207 
+references Temperature.txt 2 8053 8058 
+primarily Temperature.txt 1 5853 
+accepting Temperature.txt 1 2006 
+proportional Temperature.txt 6 180 1024 1159 1228 3945 6283 
+non-equilibrium Temperature.txt 3 4250 4299 7663 
+conceptually Temperature.txt 1 3006 
+initially Temperature.txt 2 1917 3976 
+theoretically Temperature.txt 6 694 703 911 915 957 1069 
+methods Temperature.txt 1 2993 
+remain Temperature.txt 1 3412 
+rely Temperature.txt 3 722 935 4906 
+coin Temperature.txt 4 6662 6694 6766 6786 
+fill Temperature.txt 1 7868 
+additional Temperature.txt 1 340 
+buchdahl Temperature.txt 1 2339 
+segment Temperature.txt 1 19 
+strictly Temperature.txt 2 1821 3907 
+there Temperature.txt 14 675 1322 1475 1653 1912 2257 3175 3801 5386 6036 6361 6696 6720 6864 
+condense Temperature.txt 1 6153 
+gases Temperature.txt 11 216 1030 5416 5619 5679 5684 5900 5933 5951 5993 6150 
+start Temperature.txt 1 1891 
+again Temperature.txt 1 7855 
+encounters Temperature.txt 1 5363 
+low Temperature.txt 2 3322 6944 
+way Temperature.txt 1 2538 
+colder Temperature.txt 3 3775 6374 7986 
+self-determining Temperature.txt 1 611 
+was Temperature.txt 15 347 851 1048 1901 2181 2186 2211 2218 2240 5985 5994 6838 7195 7199 7277 
+assumes Temperature.txt 1 6186 
+vienna Temperature.txt 1 5054 
+function Temperature.txt 17 2810 2862 4443 5701 6224 6238 6330 6996 7060 7111 7238 7254 7266 7268 7304 7878 7891 
+root-mean-square Temperature.txt 1 6270 
+medium Temperature.txt 1 3164 
+complete Temperature.txt 4 3584 5104 6447 6507 
+form Temperature.txt 1 7080 
+enough Temperature.txt 1 3711 
+phenomena Temperature.txt 3 3265 5301 5733 
+basic Temperature.txt 2 3612 4926 
+but Temperature.txt 17 217 791 1341 1970 2032 3095 3172 3419 3894 3965 4120 4359 5019 6441 7758 7832 7990 
+idea Temperature.txt 1 2411 
+volume Temperature.txt 12 606 1015 3085 3108 4040 4099 4446 4473 4619 4659 5979 6537 
+heat Temperature.txt 60 992 1410 1681 1698 1705 1740 1790 1925 1928 1969 1998 2001 2031 2074 2077 2089 2092 2138 2265 2276 2311 2403 2470 2547 2589 2638 2738 3509 3756 3766 3783 4035 4083 4088 4522 4527 4543 4590 4599 4642 4655 4662 4675 4681 5945 6368 6388 6832 6879 6887 6910 6920 6928 6940 6955 6982 7011 7018 7225 7294 
+magnitude Temperature.txt 4 4603 5156 5189 8046 
+coldest Temperature.txt 2 116 491 
+avogadro Temperature.txt 1 6265 
+removed Temperature.txt 1 3532 
+with Temperature.txt 50 30 53 339 489 584 594 788 798 950 1470 1579 1586 1718 1753 1769 1779 1964 2026 2044 2107 2369 2500 2554 2675 2706 2825 2844 2874 2895 2945 3341 3479 3853 4081 4467 4620 4807 5064 5300 5854 6195 6421 6432 6623 7123 7328 7431 7791 7980 8017 
+helps Temperature.txt 1 6437 
+charless Temperature.txt 1 5999 
+begins Temperature.txt 1 7851 
+made Temperature.txt 3 1505 1575 2365 
+sea-level Temperature.txt 3 355 447 524 
+understood Temperature.txt 1 6651 
+whether Temperature.txt 1 5615 
+cells Temperature.txt 1 3008 
+non-scientific Temperature.txt 1 4802 
+maximum Temperature.txt 5 1151 3955 6817 7835 7874 
+devices Temperature.txt 2 941 954 
+theoretical Temperature.txt 11 117 875 900 923 937 1177 1304 3226 5378 5903 6121 
+below Temperature.txt 3 3224 7159 7511 
+frequency Temperature.txt 7 1149 1250 1259 3952 3958 3961 7794 
+limit Temperature.txt 4 1120 5756 6308 7726 
+approaches Temperature.txt 2 5390 7964 
+demonstrate Temperature.txt 1 1547 
+distribution Temperature.txt 7 1309 1338 3407 5425 5700 6223 6237 
+more Temperature.txt 10 218 946 1971 2940 3218 3432 3492 3528 3635 4378 
+called Temperature.txt 17 366 494 1262 1306 1357 1541 1571 1612 1672 1680 1729 2786 3557 3648 4432 5609 6219 
+inverse Temperature.txt 1 7905 
+examples Temperature.txt 1 8038 
+mechanics Temperature.txt 9 933 3269 3596 5444 5557 5629 7335 7338 7411 
+instead Temperature.txt 2 7404 7759 
+his Temperature.txt 4 2205 2209 2230 2267 
+sometimes Temperature.txt 3 2785 3420 6480 
+hotter Temperature.txt 6 1773 3864 4154 4194 6371 8009 
+up Temperature.txt 4 4425 6677 6683 6713 
+defined Temperature.txt 23 332 342 470 486 500 2168 2219 2491 2535 2601 3977 4212 4669 4994 5042 5076 5140 6084 6468 6569 7240 7580 7622 
+certain Temperature.txt 3 2315 3501 6594 
+universal Temperature.txt 3 2521 3948 6493 
+measure Temperature.txt 11 181 2622 3354 3618 3818 4678 4845 5602 5688 6068 6144 
+an Temperature.txt 49 314 412 421 607 984 994 1019 1079 1136 1143 1194 1200 1467 1562 1609 1794 1893 2604 2629 2651 2660 2727 2805 2816 3208 3293 3453 3459 3995 4427 4532 4613 5117 5265 5454 5867 5908 6038 6055 6119 6231 6310 6450 6545 6799 7163 7597 7605 7687 
+continued Temperature.txt 1 7955 
+separating Temperature.txt 1 4556 
+as Temperature.txt 95 139 157 201 244 246 265 283 411 562 691 795 811 820 871 883 1170 1462 1489 1524 1583 1697 1968 1975 2008 2030 2038 2062 2073 2088 2137 2291 2340 2390 2417 2469 2644 2650 2702 2808 2860 3193 3247 3408 3428 3446 3448 3633 3727 3859 4025 4030 4076 4146 4366 4370 4389 4441 4460 4542 4766 4768 4921 4995 5014 5077 5141 5160 5190 5209 5316 5338 5521 5586 5592 5785 6059 6085 6130 6178 6367 6469 6503 6534 6762 6848 7030 7260 7700 7808 7824 7826 7862 7926 7949 7967 
+reservoirs Temperature.txt 9 1682 1741 1791 2078 2093 2166 2548 2590 7012 
+at Temperature.txt 49 122 354 438 443 446 509 523 528 574 646 1082 1529 1637 1762 1803 2593 2938 3133 3151 3225 3320 3536 3583 3604 3751 4159 4201 4471 4484 4492 4617 4657 4764 4977 4987 5027 5088 5103 6933 6942 6984 7203 7870 7895 7918 7931 7998 8010 8020 
+formulation Temperature.txt 1 2195 
+exist Temperature.txt 2 3765 4984 
+permeability Temperature.txt 2 2714 2718 
+prevail Temperature.txt 1 3055 
+mole Temperature.txt 1 6092 
+metric Temperature.txt 1 5524 
+defines Temperature.txt 2 539 7339 
+specially Temperature.txt 1 5062 
+impermeable Temperature.txt 1 6358 
+mutual Temperature.txt 2 2384 6383 
+ev Temperature.txt 2 5322 5349 
+us Temperature.txt 2 4886 6031 
+48 Temperature.txt 1 6020 
+no Temperature.txt 12 818 1965 2027 3098 3125 3527 3755 4621 4625 5131 6636 7553 
+amounts Temperature.txt 5 2058 2084 2118 2133 2465 
+fixing Temperature.txt 2 392 5045 
+ejected Temperature.txt 2 6941 7226 
+when Temperature.txt 21 869 2747 2794 2850 2972 3137 3181 3526 3744 3760 3835 4261 4341 4531 4773 4915 6345 6538 7482 7837 8013 
+envisaged Temperature.txt 1 988 
+field Temperature.txt 1 5295 
+nuclear Temperature.txt 1 7710 
+valid Temperature.txt 3 765 3732 7612 
+electrical Temperature.txt 1 1195 
+details Temperature.txt 1 2581 
+becomes Temperature.txt 4 4275 6805 7155 7829 
+u Temperature.txt 6 2804 2826 2827 2867 2877 3071 
+out Temperature.txt 2 1560 2235 
+contacting Temperature.txt 1 616 
+10 Temperature.txt 3 5376 6749 7430 
+apparent Temperature.txt 1 7606 
+kinds Temperature.txt 2 670 680 
+separate Temperature.txt 1 3844 
+bose-einstein Temperature.txt 1 1217 
+symbol Temperature.txt 2 459 4943 
+categories Temperature.txt 2 8066 8068 
+variation Temperature.txt 1 40 
+includes Temperature.txt 1 2278 
+ole Temperature.txt 1 4788 
+meaning Temperature.txt 2 5757 7073 
+important Temperature.txt 2 229 1049 
+variable Temperature.txt 14 1829 2102 2284 2653 2662 2674 2726 2741 2807 2818 3070 3076 3210 6532 
+transfers Temperature.txt 1 3757 
+formal Temperature.txt 1 1366 
+459.67 Temperature.txt 2 171 515 
+structure Temperature.txt 1 1845 
+194.6 Temperature.txt 1 7544 
+independently Temperature.txt 2 2220 3918 
+e Temperature.txt 4 6243 7301 7308 7469 
+auxiliary Temperature.txt 1 1795 
+calorimetry Temperature.txt 3 854 3920 4530 
+practically Temperature.txt 1 951 
+requires Temperature.txt 3 2544 4139 4713 
+interval Temperature.txt 1 363 
+daily Temperature.txt 1 250 
+portion Temperature.txt 1 7216 
+rule Temperature.txt 1 7613 
+mass Temperature.txt 6 598 632 1017 3091 3115 5633 
+dot Temperature.txt 1 7394 
+time Temperature.txt 5 1802 2759 7402 7460 7669 
+abstract Temperature.txt 2 2941 3636 
+serious Temperature.txt 1 867 
+laws Temperature.txt 1 6000 
+expands Temperature.txt 1 1942 
+original Temperature.txt 1 2176 
+fermi Temperature.txt 1 7472 

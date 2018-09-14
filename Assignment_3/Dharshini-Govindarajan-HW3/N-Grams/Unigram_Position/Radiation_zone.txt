@@ -1,0 +1,181 @@
+being Radiation_zone.txt 1 351 
+thermonuclear Radiation_zone.txt 1 272 
+over Radiation_zone.txt 1 118 
+scattered Radiation_zone.txt 1 81 
+results Radiation_zone.txt 1 226 
+years Radiation_zone.txt 1 103 
+thermal Radiation_zone.txt 1 40 
+through Radiation_zone.txt 2 48 270 
+transporting Radiation_zone.txt 2 211 244 
+before Radiation_zone.txt 1 76 
+layers Radiation_zone.txt 1 234 
+slow Radiation_zone.txt 1 229 
+outer Radiation_zone.txt 1 410 
+zone Radiation_zone.txt 19 1 13 15 51 64 117 145 149 309 325 331 340 365 373 382 412 425 436 440 
+density Radiation_zone.txt 1 175 
+conduction Radiation_zone.txt 1 41 
+photons Radiation_zone.txt 2 59 69 
+overlying Radiation_zone.txt 2 329 368 
+to Radiation_zone.txt 5 87 113 135 312 421 
+only Radiation_zone.txt 1 72 
+monotonically Radiation_zone.txt 1 342 
+location Radiation_zone.txt 1 282 
+convective Radiation_zone.txt 2 301 381 
+suns Radiation_zone.txt 2 406 417 
+main Radiation_zone.txt 3 257 262 291 
+plasma Radiation_zone.txt 1 125 
+do Radiation_zone.txt 2 92 304 
+around Radiation_zone.txt 2 318 347 
+thereby Radiation_zone.txt 1 246 
+means Radiation_zone.txt 1 35 
+fusion Radiation_zone.txt 1 273 
+they Radiation_zone.txt 3 77 91 303 
+not Radiation_zone.txt 1 305 
+categories Radiation_zone.txt 1 458 
+starsthose Radiation_zone.txt 1 264 
+particle Radiation_zone.txt 1 84 
+edit Radiation_zone.txt 4 260 392 454 457 
+luminosity Radiation_zone.txt 2 180 218 
+notes Radiation_zone.txt 1 451 
+gradientthe Radiation_zone.txt 1 152 
+leave Radiation_zone.txt 1 114 
+flux Radiation_zone.txt 1 191 
+t Radiation_zone.txt 1 156 
+become Radiation_zone.txt 1 253 
+entirely Radiation_zone.txt 2 300 353 
+where Radiation_zone.txt 3 26 166 235 
+referred Radiation_zone.txt 1 420 
+primarily Radiation_zone.txt 1 29 
+sequence Radiation_zone.txt 3 258 263 292 
+energy Radiation_zone.txt 6 27 46 212 232 245 269 
+l Radiation_zone.txt 2 176 192 
+zones Radiation_zone.txt 1 255 
+depends Radiation_zone.txt 1 286 
+radius Radiation_zone.txt 4 161 336 407 418 
+are Radiation_zone.txt 5 78 200 267 299 441 
+wavelength Radiation_zone.txt 1 89 
+travels Radiation_zone.txt 1 47 
+gradually Radiation_zone.txt 1 85 
+dense Radiation_zone.txt 1 67 
+for Radiation_zone.txt 3 94 104 261 
+factors Radiation_zone.txt 1 202 
+gradient Radiation_zone.txt 2 224 251 
+sun Radiation_zone.txt 5 10 112 391 395 450 
+wikipedia Radiation_zone.txt 1 2 
+below Radiation_zone.txt 1 294 
+stefanboltzmann Radiation_zone.txt 1 184 
+above Radiation_zone.txt 1 355 
+between Radiation_zone.txt 1 398 
+increasing Radiation_zone.txt 1 383 
+cause Radiation_zone.txt 1 220 
+core Radiation_zone.txt 7 109 133 278 321 360 401 428 
+masses Radiation_zone.txt 4 298 315 350 358 
+creating Radiation_zone.txt 1 247 
+million Radiation_zone.txt 2 129 137 
+illustration Radiation_zone.txt 1 4 
+stellar Radiation_zone.txt 1 320 
+reason Radiation_zone.txt 1 96 
+base Radiation_zone.txt 1 141 
+shifting Radiation_zone.txt 1 86 
+although Radiation_zone.txt 1 426 
+by Radiation_zone.txt 6 34 44 82 165 332 443 
+change Radiation_zone.txt 1 153 
+temperature Radiation_zone.txt 5 122 151 155 223 250 
+on Radiation_zone.txt 1 287 
+about Radiation_zone.txt 1 295 
+toward Radiation_zone.txt 1 31 
+of Radiation_zone.txt 20 5 8 22 36 55 101 110 123 142 160 197 231 274 283 337 377 387 404 415 448 
+region Radiation_zone.txt 6 18 317 361 369 397 433 
+0.71 Radiation_zone.txt 1 414 
+171,000 Radiation_zone.txt 1 102 
+range Radiation_zone.txt 1 120 
+hence Radiation_zone.txt 1 186 
+or Radiation_zone.txt 3 16 80 216 
+gamma Radiation_zone.txt 1 105 
+presence Radiation_zone.txt 1 280 
+within Radiation_zone.txt 2 193 379 
+down Radiation_zone.txt 1 134 
+references Radiation_zone.txt 1 453 
+another Radiation_zone.txt 2 83 446 
+given Radiation_zone.txt 2 164 195 
+from Radiation_zone.txt 5 107 127 227 310 327 
+takes Radiation_zone.txt 1 98 
+radiative Radiation_zone.txt 11 14 17 37 148 207 241 284 308 339 354 432 
+stars Radiation_zone.txt 6 24 259 265 289 293 346 
+0.3 Radiation_zone.txt 2 296 311 
+more Radiation_zone.txt 1 238 
+function Radiation_zone.txt 1 159 
+generating Radiation_zone.txt 1 268 
+form Radiation_zone.txt 1 54 
+that Radiation_zone.txt 2 68 266 
+becomes Radiation_zone.txt 1 362 
+part Radiation_zone.txt 1 447 
+external Radiation_zone.txt 1 455 
+solar Radiation_zone.txt 5 297 314 349 357 400 
+separated Radiation_zone.txt 1 326 
+with Radiation_zone.txt 4 343 345 374 384 
+than Radiation_zone.txt 2 43 240 
+those Radiation_zone.txt 1 233 
+diffusion Radiation_zone.txt 3 38 208 242 
+distance Radiation_zone.txt 1 75 
+15 Radiation_zone.txt 1 128 
+this Radiation_zone.txt 2 95 119 
+also Radiation_zone.txt 1 430 
+will Radiation_zone.txt 1 252 
+matter Radiation_zone.txt 2 60 174 
+near Radiation_zone.txt 1 131 
+r Radiation_zone.txt 4 162 167 171 177 
+can Radiation_zone.txt 2 70 219 
+determining Radiation_zone.txt 1 204 
+drops Radiation_zone.txt 1 126 
+k Radiation_zone.txt 2 130 138 
+and Radiation_zone.txt 8 39 181 189 281 366 408 437 452 
+1.5 Radiation_zone.txt 1 136 
+layer Radiation_zone.txt 2 21 196 
+constant Radiation_zone.txt 1 185 
+have Radiation_zone.txt 1 306 
+1.2 Radiation_zone.txt 3 313 348 356 
+almost Radiation_zone.txt 1 352 
+is Radiation_zone.txt 14 19 28 65 163 168 172 178 182 209 237 322 370 419 429 
+0.2 Radiation_zone.txt 1 403 
+it Radiation_zone.txt 1 97 
+an Radiation_zone.txt 2 3 99 
+high Radiation_zone.txt 3 214 217 222 
+as Radiation_zone.txt 4 58 90 157 422 
+at Radiation_zone.txt 6 139 210 243 276 402 413 
+exterior Radiation_zone.txt 1 33 
+in Radiation_zone.txt 6 52 61 146 154 203 393 
+convection Radiation_zone.txt 8 45 144 236 254 330 364 411 435 
+hydrogen Radiation_zone.txt 1 275 
+contents Radiation_zone.txt 1 256 
+rays Radiation_zone.txt 1 106 
+tachocline Radiation_zone.txt 2 334 445 
+rather Radiation_zone.txt 1 42 
+travel Radiation_zone.txt 1 71 
+radiation Radiation_zone.txt 11 0 12 50 57 63 116 190 324 372 424 439 
+amount Radiation_zone.txt 1 376 
+regions Radiation_zone.txt 1 285 
+how Radiation_zone.txt 1 205 
+absorbed Radiation_zone.txt 1 79 
+which Radiation_zone.txt 1 225 
+interior Radiation_zone.txt 1 25 
+mass Radiation_zone.txt 4 290 344 378 386 
+opacity Radiation_zone.txt 3 170 188 215 
+links Radiation_zone.txt 1 456 
+star Radiation_zone.txt 2 199 389 
+transported Radiation_zone.txt 1 30 
+meaning Radiation_zone.txt 1 302 
+important Radiation_zone.txt 1 201 
+structure Radiation_zone.txt 1 7 
+a Radiation_zone.txt 18 11 20 23 62 73 147 158 194 198 213 221 228 248 307 323 363 371 431 
+lower Radiation_zone.txt 1 249 
+short Radiation_zone.txt 1 74 
+longer Radiation_zone.txt 1 88 
+effective Radiation_zone.txt 2 206 239 
+average Radiation_zone.txt 1 100 
+flow Radiation_zone.txt 1 230 
+increases Radiation_zone.txt 1 341 
+so Radiation_zone.txt 2 66 93 
+electromagnetic Radiation_zone.txt 1 56 
+the Radiation_zone.txt 48 6 9 32 49 53 108 111 115 121 124 132 140 143 150 169 173 179 183 187 271 277 279 288 316 319 328 333 335 338 359 367 375 380 385 388 390 394 396 399 405 409 416 423 427 434 438 444 449 
+divided Radiation_zone.txt 1 442 

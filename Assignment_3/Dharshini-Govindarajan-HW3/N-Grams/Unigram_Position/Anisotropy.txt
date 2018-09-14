@@ -1,0 +1,603 @@
+irradiance Anisotropy.txt 1 1431 
+managed Anisotropy.txt 1 604 
+caused Anisotropy.txt 1 437 
+magnetic Anisotropy.txt 4 262 298 485 497 
+brownian Anisotropy.txt 1 1285 
+results Anisotropy.txt 2 843 889 
+leads Anisotropy.txt 1 725 
+tensile Anisotropy.txt 1 69 
+rock-forming Anisotropy.txt 1 897 
+displaying Anisotropy.txt 1 398 
+causes Anisotropy.txt 1 301 
+layers Anisotropy.txt 3 670 716 771 
+etching Anisotropy.txt 4 1184 1191 1238 1259 
+technique Anisotropy.txt 1 1274 
+environment Anisotropy.txt 1 366 
+to Anisotropy.txt 38 44 89 154 210 259 274 306 330 385 446 479 540 610 628 668 726 786 797 811 846 870 873 893 966 1036 1065 1099 1128 1197 1226 1234 1242 1247 1302 1319 1330 1358 1405 
+silicon Anisotropy.txt 1 1261 
+applied Anisotropy.txt 2 261 297 
+geology Anisotropy.txt 1 681 
+far Anisotropy.txt 1 147 
+electron Anisotropy.txt 3 276 283 293 
+orientations Anisotropy.txt 2 380 1160 
+refractive Anisotropy.txt 1 66 
+vastly Anisotropy.txt 1 1066 
+difference Anisotropy.txt 3 52 876 1352 
+pyramid-like Anisotropy.txt 1 1264 
+minerals Anisotropy.txt 2 898 907 
+categories Anisotropy.txt 2 1522 1524 
+anisotropy Anisotropy.txt 26 0 14 75 313 337 423 457 478 486 631 649 684 694 737 755 778 905 927 996 1028 1169 1220 1280 1355 1411 1483 
+steeply Anisotropy.txt 1 150 
+p Anisotropy.txt 3 19 26 1461 
+sand Anisotropy.txt 1 819 
+woods Anisotropy.txt 1 1147 
+optics Anisotropy.txt 1 639 
+smaller Anisotropy.txt 3 218 240 707 
+core Anisotropy.txt 1 766 
+likely Anisotropy.txt 1 1301 
+fiber Anisotropy.txt 3 1297 1321 1364 
+hyperechoic Anisotropy.txt 1 959 
+wmap Anisotropy.txt 1 2 
+bilinear Anisotropy.txt 1 163 
+index Anisotropy.txt 1 67 
+filtration Anisotropy.txt 2 225 249 
+appear Anisotropy.txt 2 958 971 
+axes Anisotropy.txt 3 57 468 678 
+crust Anisotropy.txt 1 762 
+experiment Anisotropy.txt 1 432 
+fluorophore Anisotropy.txt 1 346 
+conduct Anisotropy.txt 1 568 
+net Anisotropy.txt 2 1425 1430 
+method Anisotropy.txt 1 135 
+movement Anisotropy.txt 3 440 1311 1345 
+textures Anisotropy.txt 2 142 187 
+behavior Anisotropy.txt 1 1013 
+v Anisotropy.txt 1 1447 
+water Anisotropy.txt 4 548 1288 1293 1333 
+reported Anisotropy.txt 1 416 
+let Anisotropy.txt 2 1437 1460 
+berkeley Anisotropy.txt 1 415 
+directions Anisotropy.txt 2 41 1074 
+along Anisotropy.txt 5 55 91 543 655 1089 
+change Anisotropy.txt 1 307 
+calculate Anisotropy.txt 1 1406 
+rigorously Anisotropy.txt 1 1171 
+shift Anisotropy.txt 3 267 305 436 
+larger Anisotropy.txt 1 233 
+commonly Anisotropy.txt 2 590 1211 
+preferentially Anisotropy.txt 1 1252 
+resulting Anisotropy.txt 2 242 940 
+constitutive Anisotropy.txt 1 1179 
+formation Anisotropy.txt 1 835 
+changes Anisotropy.txt 1 114 
+involves Anisotropy.txt 1 1276 
+macromolecule Anisotropy.txt 1 336 
+planar Anisotropy.txt 2 1464 1506 
+total Anisotropy.txt 3 1395 1469 1503 
+use Anisotropy.txt 1 475 
+from Anisotropy.txt 11 178 315 321 411 615 791 1380 1399 1453 1471 1492 
+would Anisotropy.txt 1 1016 
+reactive Anisotropy.txt 1 1189 
+distinct Anisotropy.txt 1 770 
+brdf Anisotropy.txt 3 1379 1439 1491 
+two Anisotropy.txt 1 1327 
+by Anisotropy.txt 2 188 438 
+sand-bearing Anisotropy.txt 1 822 
+opposed Anisotropy.txt 1 43 
+taken Anisotropy.txt 1 884 
+more Anisotropy.txt 8 194 247 375 589 1101 1300 1314 1349 
+emission Anisotropy.txt 1 353 
+geophysics Anisotropy.txt 1 679 
+must Anisotropy.txt 1 882 
+sample Anisotropy.txt 1 1156 
+account Anisotropy.txt 2 171 886 
+this Anisotropy.txt 10 269 291 404 723 800 839 980 1111 1351 1390 
+science Anisotropy.txt 2 992 999 
+can Anisotropy.txt 13 47 180 199 673 741 775 970 981 1032 1063 1105 1239 1413 
+universe Anisotropy.txt 1 449 
+example Anisotropy.txt 6 73 488 917 1015 1146 1436 
+radiance Anisotropy.txt 1 1376 
+links Anisotropy.txt 1 1520 
+calculation Anisotropy.txt 1 1422 
+thermally Anisotropy.txt 1 603 
+high Anisotropy.txt 3 282 826 1205 
+obliquely Anisotropy.txt 1 979 
+occur Anisotropy.txt 1 490 
+axis Anisotropy.txt 4 546 647 654 662 
+information Anisotropy.txt 1 744 
+provide Anisotropy.txt 1 742 
+orthogonal Anisotropy.txt 2 384 1329 
+formations Anisotropy.txt 1 768 
+regions Anisotropy.txt 2 230 237 
+located Anisotropy.txt 2 378 1295 
+lamp Anisotropy.txt 1 397 
+low Anisotropy.txt 1 828 
+reject Anisotropy.txt 1 613 
+map Anisotropy.txt 1 1361 
+may Anisotropy.txt 3 489 506 890 
+plane-polarized Anisotropy.txt 1 325 
+applications Anisotropy.txt 1 1410 
+coming Anisotropy.txt 1 79 
+stringers Anisotropy.txt 1 1052 
+such Anisotropy.txt 9 161 510 635 665 676 945 1077 1117 1186 
+horizontal Anisotropy.txt 2 392 878 
+data Anisotropy.txt 1 740 
+parallel Anisotropy.txt 3 381 785 1318 
+a Anisotropy.txt 38 22 51 59 81 134 174 204 214 335 355 362 395 492 502 517 530 571 703 720 727 787 798 930 938 983 1001 1006 1122 1204 1249 1360 1381 1402 1433 1454 1487 1493 1499 
+imagery Anisotropy.txt 1 358 
+liquid Anisotropy.txt 3 525 532 559 
+light Anisotropy.txt 4 78 326 629 641 
+fibers Anisotropy.txt 1 957 
+trilinear Anisotropy.txt 1 165 
+rather Anisotropy.txt 1 1323 
+so Anisotropy.txt 2 226 494 
+order Anisotropy.txt 2 538 701 
+interpretation Anisotropy.txt 1 986 
+help Anisotropy.txt 1 847 
+produces Anisotropy.txt 1 1263 
+indeed Anisotropy.txt 1 752 
+over Anisotropy.txt 1 1253 
+move Anisotropy.txt 1 1313 
+vary Anisotropy.txt 1 1135 
+youngs Anisotropy.txt 1 1021 
+produced Anisotropy.txt 2 1041 1056 
+brain Anisotropy.txt 2 1292 1341 
+through Anisotropy.txt 2 80 1173 
+its Anisotropy.txt 4 92 121 496 1133 
+chemical Anisotropy.txt 4 205 266 304 1244 
+group Anisotropy.txt 1 1176 
+directional Anisotropy.txt 3 522 728 1003 
+mantle Anisotropy.txt 1 763 
+blurring Anisotropy.txt 1 185 
+detected Anisotropy.txt 1 758 
+microscopic Anisotropy.txt 1 1201 
+systems Anisotropy.txt 1 272 
+garnet Anisotropy.txt 1 923 
+hidden Anisotropy.txt 1 1523 
+easier Anisotropy.txt 1 88 
+split Anisotropy.txt 1 90 
+greater Anisotropy.txt 1 244 
+thereby Anisotropy.txt 1 1428 
+material Anisotropy.txt 7 704 774 991 998 1046 1132 1251 
+scene Anisotropy.txt 4 1401 1434 1473 1504 
+effects Anisotropy.txt 2 198 735 
+they Anisotropy.txt 3 1104 1306 1312 
+not Anisotropy.txt 2 168 1386 
+man-made Anisotropy.txt 1 365 
+structural Anisotropy.txt 2 537 554 
+represents Anisotropy.txt 1 1467 
+term Anisotropy.txt 1 477 
+edit Anisotropy.txt 14 101 104 203 359 394 682 926 995 1182 1267 1375 1516 1518 1521 
+university Anisotropy.txt 1 412 
+each Anisotropy.txt 1 541 
+sedimentary Anisotropy.txt 1 773 
+domain Anisotropy.txt 1 373 
+globe Anisotropy.txt 1 519 
+abnormal Anisotropy.txt 1 292 
+displacement Anisotropy.txt 1 343 
+oil Anisotropy.txt 2 808 849 
+sands Anisotropy.txt 1 815 
+measure Anisotropy.txt 2 838 1500 
+into Anisotropy.txt 2 170 885 
+wavelength Anisotropy.txt 1 711 
+out Anisotropy.txt 1 232 
+etchants Anisotropy.txt 1 1245 
+velvet Anisotropy.txt 1 129 
+restricted Anisotropy.txt 2 1308 1344 
+since Anisotropy.txt 1 1305 
+hydraulic Anisotropy.txt 1 855 
+denotes Anisotropy.txt 2 1443 1448 
+particles Anisotropy.txt 3 212 234 241 
+impart Anisotropy.txt 1 1227 
+electronics Anisotropy.txt 1 620 
+evaluation Anisotropy.txt 1 836 
+occurs Anisotropy.txt 1 348 
+doppler Anisotropy.txt 1 435 
+koh Anisotropy.txt 1 1258 
+birefringence Anisotropy.txt 1 637 
+derived Anisotropy.txt 1 1415 
+galaxies Anisotropy.txt 1 466 
+reason Anisotropy.txt 1 865 
+abnormally Anisotropy.txt 1 281 
+california Anisotropy.txt 1 414 
+imaging Anisotropy.txt 2 936 1270 
+e.g Anisotropy.txt 5 329 712 784 795 1257 
+geometry Anisotropy.txt 1 1512 
+cosmic Anisotropy.txt 3 11 425 456 
+filter Anisotropy.txt 4 207 211 215 231 
+isotropic Anisotropy.txt 5 575 920 1102 1131 1387 
+crystallographic Anisotropy.txt 1 1255 
+features Anisotropy.txt 4 706 1202 1209 1223 
+symmetry Anisotropy.txt 2 664 1175 
+distal Anisotropy.txt 1 236 
+reflected Anisotropy.txt 1 1398 
+one Anisotropy.txt 2 192 782 
+well-known Anisotropy.txt 1 931 
+simplified Anisotropy.txt 1 1127 
+another Anisotropy.txt 3 83 196 794 
+feldspar Anisotropy.txt 1 904 
+immensely Anisotropy.txt 1 1419 
+quality Anisotropy.txt 1 140 
+angular Anisotropy.txt 1 342 
+earths Anisotropy.txt 1 761 
+microfabrication Anisotropy.txt 2 1181 1195 
+practitioners Anisotropy.txt 1 990 
+needed Anisotropy.txt 1 1225 
+ordering Anisotropy.txt 1 555 
+system Anisotropy.txt 1 288 
+their Anisotropy.txt 5 265 418 431 913 1310 
+calculations Anisotropy.txt 1 1392 
+molecular Anisotropy.txt 1 545 
+structures Anisotropy.txt 1 1265 
+inner Anisotropy.txt 1 765 
+enhancing Anisotropy.txt 1 137 
+that Anisotropy.txt 12 145 227 347 495 512 520 573 576 594 792 1275 1509 
+brains Anisotropy.txt 1 1368 
+transverse Anisotropy.txt 1 1073 
+optical Anisotropy.txt 4 630 677 914 1229 
+mems Anisotropy.txt 1 1214 
+than Anisotropy.txt 5 94 195 708 1092 1324 
+diffusion Anisotropy.txt 1 1268 
+relative Anisotropy.txt 1 539 
+cracks Anisotropy.txt 1 714 
+determines Anisotropy.txt 1 264 
+measured Anisotropy.txt 3 54 1138 1157 
+scenes Anisotropy.txt 1 1418 
+matter Anisotropy.txt 1 450 
+r Anisotropy.txt 2 18 25 
+polarizer Anisotropy.txt 1 82 
+result Anisotropy.txt 1 181 
+exhibit Anisotropy.txt 4 633 776 1011 1107 
+polycrystalline Anisotropy.txt 1 1030 
+resistivity Anisotropy.txt 2 827 834 
+tracts Anisotropy.txt 2 1298 1365 
+medical Anisotropy.txt 2 924 934 
+say Anisotropy.txt 2 1497 1513 
+have Anisotropy.txt 5 674 719 825 832 1342 
+quasars Anisotropy.txt 1 473 
+any Anisotropy.txt 1 1400 
+viewed Anisotropy.txt 1 177 
+strength Anisotropy.txt 2 70 1148 
+angle Anisotropy.txt 2 173 950 
+efficient Anisotropy.txt 1 248 
+gravity Anisotropy.txt 1 389 
+polarization Anisotropy.txt 1 317 
+also Anisotropy.txt 6 459 507 929 1033 1240 1515 
+take Anisotropy.txt 1 169 
+which Anisotropy.txt 8 35 86 179 551 592 656 1062 1466 
+deep-drawing Anisotropy.txt 1 1119 
+conductivity Anisotropy.txt 4 68 780 829 856 
+aliasing Anisotropy.txt 1 183 
+multiple Anisotropy.txt 1 675 
+normal Anisotropy.txt 3 123 531 667 
+shale Anisotropy.txt 1 821 
+most Anisotropy.txt 3 895 909 1009 
+significant Anisotropy.txt 2 753 1108 
+tract Anisotropy.txt 1 1322 
+device Anisotropy.txt 1 1236 
+extremely Anisotropy.txt 1 6 
+tendon Anisotropy.txt 2 956 968 
+mineral Anisotropy.txt 1 921 
+sensing Anisotropy.txt 1 1409 
+calculated Anisotropy.txt 1 314 
+sometimes Anisotropy.txt 1 1106 
+flow Anisotropy.txt 1 869 
+pores Anisotropy.txt 1 715 
+mri Anisotropy.txt 1 1273 
+mechanical Anisotropy.txt 1 63 
+dispersed Anisotropy.txt 1 1335 
+typically Anisotropy.txt 1 599 
+quantity Anisotropy.txt 1 1404 
+particularly Anisotropy.txt 1 368 
+phenomenon Anisotropy.txt 1 407 
+show Anisotropy.txt 1 508 
+detection Anisotropy.txt 1 419 
+random Anisotropy.txt 1 1283 
+bright Anisotropy.txt 1 960 
+spaces Anisotropy.txt 1 220 
+relation Anisotropy.txt 1 1180 
+earth Anisotropy.txt 2 443 751 
+find Anisotropy.txt 1 848 
+indicator Anisotropy.txt 1 697 
+ratio Anisotropy.txt 1 1207 
+knowledge Anisotropy.txt 1 1480 
+conduction Anisotropy.txt 1 587 
+much Anisotropy.txt 1 1087 
+texture Anisotropy.txt 2 1038 1054 
+increasingly Anisotropy.txt 2 217 238 
+wood Anisotropy.txt 3 85 1079 1120 
+molecules Anisotropy.txt 5 279 558 1289 1294 1334 
+do Anisotropy.txt 1 167 
+dominant Anisotropy.txt 1 721 
+therefore Anisotropy.txt 1 1347 
+dependent Anisotropy.txt 1 34 
+fractional Anisotropy.txt 2 1279 1354 
+preferred Anisotropy.txt 1 503 
+shales Anisotropy.txt 1 831 
+fibre-reinforced Anisotropy.txt 1 1081 
+during Anisotropy.txt 1 1042 
+reveal Anisotropy.txt 1 339 
+processes Anisotropy.txt 3 746 1116 1196 
+continuum Anisotropy.txt 1 1165 
+fields Anisotropy.txt 2 98 1377 
+motion Anisotropy.txt 2 1284 1286 
+remove Anisotropy.txt 1 239 
+common Anisotropy.txt 1 896 
+though Anisotropy.txt 1 1103 
+contain Anisotropy.txt 1 552 
+including Anisotropy.txt 1 901 
+where Anisotropy.txt 3 705 1218 1441 
+view Anisotropy.txt 1 158 
+aspect Anisotropy.txt 1 1206 
+observed Anisotropy.txt 1 303 
+see Anisotropy.txt 2 1378 1514 
+computer Anisotropy.txt 2 102 109 
+are Anisotropy.txt 15 146 367 561 621 626 844 899 1055 1083 1170 1192 1210 1299 1307 1384 
+hydrocarbon Anisotropy.txt 2 813 823 
+techniques Anisotropy.txt 2 160 1185 
+surfaces Anisotropy.txt 1 144 
+exploited Anisotropy.txt 1 1357 
+tensor Anisotropy.txt 1 1269 
+subsequent Anisotropy.txt 1 352 
+away Anisotropy.txt 1 148 
+wikipedia Anisotropy.txt 1 1 
+tend Anisotropy.txt 1 1098 
+between Anisotropy.txt 2 349 877 
+simplifying Anisotropy.txt 1 1420 
+geometric Anisotropy.txt 2 122 596 
+across Anisotropy.txt 1 1093 
+transducer Anisotropy.txt 3 953 963 976 
+echogenicity Anisotropy.txt 1 941 
+vertical Anisotropy.txt 2 390 880 
+nature Anisotropy.txt 2 400 1389 
+subject Anisotropy.txt 1 892 
+incident Anisotropy.txt 2 1444 1511 
+inclusions Anisotropy.txt 1 718 
+tendons Anisotropy.txt 1 947 
+modeling Anisotropy.txt 1 597 
+behaviour Anisotropy.txt 1 1110 
+desired Anisotropy.txt 1 1228 
+many Anisotropy.txt 1 624 
+against Anisotropy.txt 2 95 1141 
+display Anisotropy.txt 1 1348 
+etc Anisotropy.txt 1 71 
+s Anisotropy.txt 2 16 23 
+grain Anisotropy.txt 2 93 1144 
+context Anisotropy.txt 1 270 
+otherwise Anisotropy.txt 1 887 
+load Anisotropy.txt 1 1027 
+and Anisotropy.txt 29 149 164 235 246 300 351 391 469 612 632 680 747 764 807 820 841 850 879 903 993 1072 1080 1096 1149 1168 1215 1346 1446 1459 
+filtering Anisotropy.txt 2 131 166 
+point Anisotropy.txt 1 156 
+sequences Anisotropy.txt 1 817 
+respect Anisotropy.txt 3 153 258 445 
+crystalline Anisotropy.txt 1 669 
+100 Anisotropy.txt 1 1262 
+described Anisotropy.txt 1 1172 
+instrument Anisotropy.txt 1 1458 
+create Anisotropy.txt 2 1198 1359 
+radiative Anisotropy.txt 1 1373 
+due Anisotropy.txt 1 1035 
+been Anisotropy.txt 2 460 757 
+microfluidic Anisotropy.txt 1 1216 
+cosine Anisotropy.txt 1 422 
+interest Anisotropy.txt 2 100 1477 
+anisotropic Anisotropy.txt 19 112 130 206 271 369 524 564 591 623 627 861 900 1012 1085 1109 1124 1183 1237 1304 
+reflective Anisotropy.txt 1 1382 
+pi Anisotropy.txt 1 287 
+angled Anisotropy.txt 2 151 978 
+direction Anisotropy.txt 11 193 223 387 504 692 783 1025 1059 1445 1450 1496 
+tissues Anisotropy.txt 1 944 
+photon Anisotropy.txt 1 356 
+deep Anisotropy.txt 1 1188 
+angles Anisotropy.txt 1 471 
+graphics Anisotropy.txt 2 103 110 
+plasmas Anisotropy.txt 2 402 505 
+hardness Anisotropy.txt 1 1150 
+case Anisotropy.txt 3 127 405 1049 
+atmospheric Anisotropy.txt 1 1372 
+unlike Anisotropy.txt 1 547 
+these Anisotropy.txt 3 197 644 1208 
+appearance Anisotropy.txt 1 116 
+engineering Anisotropy.txt 1 994 
+n Anisotropy.txt 2 15 21 
+conductivity/resistivity Anisotropy.txt 1 840 
+reliably Anisotropy.txt 1 910 
+error Anisotropy.txt 2 894 987 
+property Anisotropy.txt 4 30 801 932 1008 
+reflectance Anisotropy.txt 3 1426 1470 1505 
+layer Anisotropy.txt 2 788 799 
+changed Anisotropy.txt 1 955 
+orientation Anisotropy.txt 3 254 372 581 
+is Anisotropy.txt 36 28 76 84 87 125 133 176 213 327 499 521 574 577 588 605 650 658 685 695 789 802 859 908 922 928 954 964 977 1000 1112 1121 1151 1224 1271 1356 1475 
+it Anisotropy.txt 6 46 96 118 1094 1331 1474 
+surface Anisotropy.txt 3 113 175 1383 
+in Anisotropy.txt 55 9 39 58 105 115 182 191 221 243 250 268 308 370 403 424 429 462 491 501 514 570 619 643 702 738 749 759 781 793 804 816 852 906 912 933 997 1029 1047 1057 1069 1115 1158 1161 1194 1213 1290 1296 1309 1315 1325 1336 1353 1366 1388 1407 
+if Anisotropy.txt 1 1452 
+different Anisotropy.txt 8 37 40 56 790 939 1067 1152 1159 
+propagation Anisotropy.txt 1 642 
+media Anisotropy.txt 1 645 
+radiation Anisotropy.txt 3 13 428 455 
+wavespeed Anisotropy.txt 2 690 732 
+same Anisotropy.txt 2 864 1155 
+albedo Anisotropy.txt 2 1465 1507 
+contents Anisotropy.txt 1 97 
+widely Anisotropy.txt 1 1136 
+difficult Anisotropy.txt 1 1403 
+independent Anisotropy.txt 1 578 
+satellite Anisotropy.txt 1 1455 
+used Anisotropy.txt 8 209 328 609 803 845 1193 1212 1246 
+chloroform Anisotropy.txt 1 550 
+ion Anisotropy.txt 1 1190 
+viewing Anisotropy.txt 2 1449 1495 
+liquids Anisotropy.txt 1 565 
+single Anisotropy.txt 1 1494 
+lower Anisotropy.txt 1 833 
+older Anisotropy.txt 1 159 
+1977 Anisotropy.txt 1 430 
+acoustics Anisotropy.txt 1 925 
+polarisation Anisotropy.txt 1 470 
+well Anisotropy.txt 1 1199 
+groundwater Anisotropy.txt 1 868 
+patterns Anisotropy.txt 1 1039 
+materials Anisotropy.txt 11 60 484 567 601 608 672 1002 1010 1031 1076 1166 
+very Anisotropy.txt 1 1084 
+the Anisotropy.txt 95 5 10 29 77 106 126 138 155 172 222 228 253 260 275 286 296 302 311 316 332 340 345 371 386 399 406 421 434 439 442 447 451 454 463 476 527 544 557 583 607 616 653 686 709 734 750 760 805 842 854 863 875 888 949 952 962 967 975 1018 1024 1045 1048 1058 1070 1090 1142 1154 1162 1174 1178 1219 1222 1235 1278 1282 1291 1316 1320 1326 1337 1340 1363 1367 1370 1394 1421 1424 1429 1438 1463 1468 1472 1482 1490 1502 
+chemistry Anisotropy.txt 1 202 
+filamentation Anisotropy.txt 2 409 509 
+dimension Anisotropy.txt 1 1317 
+aquifers Anisotropy.txt 1 858 
+less Anisotropy.txt 1 1343 
+being Anisotropy.txt 4 32 602 1086 1397 
+rest Anisotropy.txt 1 1338 
+seen Anisotropy.txt 3 461 513 911 
+shape Anisotropy.txt 1 333 
+identify Anisotropy.txt 1 812 
+proximal Anisotropy.txt 1 229 
+rotates Anisotropy.txt 1 119 
+rotation Anisotropy.txt 1 467 
+alignment Anisotropy.txt 3 464 722 724 
+oriented Anisotropy.txt 1 500 
+interstitial Anisotropy.txt 1 219 
+density Anisotropy.txt 2 284 294 
+absorption Anisotropy.txt 1 350 
+geological Anisotropy.txt 1 767 
+source Anisotropy.txt 4 452 585 618 984 
+samples Anisotropy.txt 1 322 
+has Anisotropy.txt 4 458 526 534 756 
+plasma Anisotropy.txt 3 396 493 518 
+excited Anisotropy.txt 1 323 
+fluidity Anisotropy.txt 1 528 
+around Anisotropy.txt 1 582 
+measurement Anisotropy.txt 1 1488 
+early Anisotropy.txt 1 448 
+makes Anisotropy.txt 1 1391 
+background Anisotropy.txt 2 12 427 
+gravity-bound Anisotropy.txt 1 363 
+like Anisotropy.txt 1 285 
+modulus Anisotropy.txt 1 1022 
+isotropy Anisotropy.txt 4 45 657 1167 1350 
+lightning Anisotropy.txt 1 515 
+specific Anisotropy.txt 2 1417 1510 
+yields Anisotropy.txt 1 1498 
+t Anisotropy.txt 2 17 24 
+composites Anisotropy.txt 1 1082 
+soft Anisotropy.txt 1 943 
+reduced Anisotropy.txt 1 201 
+inexperienced Anisotropy.txt 1 989 
+benzene Anisotropy.txt 1 290 
+because Anisotropy.txt 1 1478 
+often Anisotropy.txt 5 622 860 1040 1126 1385 
+some Anisotropy.txt 3 566 671 1075 
+growth Anisotropy.txt 1 1143 
+examples Anisotropy.txt 1 562 
+images Anisotropy.txt 1 360 
+transversely Anisotropy.txt 1 1130 
+anisotropies Anisotropy.txt 1 8 
+describing Anisotropy.txt 1 937 
+dimensions Anisotropy.txt 1 1328 
+for Anisotropy.txt 8 487 862 988 1145 1153 1416 1435 1508 
+stronger Anisotropy.txt 1 1088 
+affects Anisotropy.txt 1 295 
+measurements Anisotropy.txt 1 338 
+microwave Anisotropy.txt 1 426 
+demonstrated Anisotropy.txt 1 433 
+refer Anisotropy.txt 2 273 1241 
+measuring Anisotropy.txt 2 733 1277 
+be Anisotropy.txt 13 48 200 883 891 982 1017 1034 1100 1129 1303 1414 1440 1462 
+nmr Anisotropy.txt 1 251 
+hypoechoic Anisotropy.txt 1 972 
+real-world Anisotropy.txt 1 357 
+perpendicular Anisotropy.txt 2 796 965 
+broken Anisotropy.txt 1 659 
+wells Anisotropy.txt 2 853 874 
+absorbance Anisotropy.txt 1 65 
+manufacturing Anisotropy.txt 1 1043 
+properties Anisotropy.txt 9 38 64 318 482 634 915 1068 1134 1233 
+on Anisotropy.txt 2 143 1023 
+about Anisotropy.txt 3 120 417 745 
+of Anisotropy.txt 69 4 31 74 99 108 136 141 157 186 224 255 278 289 319 334 344 354 361 388 401 408 413 420 441 453 465 472 483 529 556 563 579 598 648 663 688 698 730 736 772 818 857 918 942 951 985 1005 1020 1026 1044 1050 1053 1060 1164 1177 1221 1260 1281 1287 1339 1362 1369 1393 1423 1432 1476 1481 1489 1501 
+industry Anisotropy.txt 1 810 
+dependence Anisotropy.txt 2 1004 1019 
+range Anisotropy.txt 1 700 
+or Anisotropy.txt 13 62 184 364 383 516 549 660 717 872 1140 1231 1427 1456 
+mechanics Anisotropy.txt 1 1163 
+mineralogy Anisotropy.txt 1 748 
+instruments Anisotropy.txt 1 837 
+image Anisotropy.txt 3 3 139 376 
+elasticity Anisotropy.txt 1 731 
+ultrasound Anisotropy.txt 1 935 
+references Anisotropy.txt 1 1517 
+tiny Anisotropy.txt 1 7 
+determine Anisotropy.txt 1 331 
+reducing Anisotropy.txt 1 189 
+i Anisotropy.txt 3 20 27 1442 
+transfer Anisotropy.txt 2 611 1374 
+long Anisotropy.txt 1 699 
+describes Anisotropy.txt 1 640 
+physicists Anisotropy.txt 2 410 474 
+way Anisotropy.txt 1 572 
+etch Anisotropy.txt 1 1248 
+energy Anisotropy.txt 1 1396 
+naturally Anisotropy.txt 1 1123 
+function Anisotropy.txt 1 1484 
+alloys Anisotropy.txt 1 1097 
+grain/fibre Anisotropy.txt 1 1091 
+drains Anisotropy.txt 1 871 
+but Anisotropy.txt 3 533 969 1125 
+heat Anisotropy.txt 5 569 584 586 614 617 
+direction-dependent Anisotropy.txt 1 481 
+remote Anisotropy.txt 1 1408 
+with Anisotropy.txt 14 128 152 216 257 280 324 374 382 444 691 769 1139 1203 1479 
+especially Anisotropy.txt 1 1113 
+devices Anisotropy.txt 1 1217 
+lead Anisotropy.txt 1 1064 
+crystal Anisotropy.txt 1 638 
+exploration Anisotropy.txt 1 809 
+spectroscopy Anisotropy.txt 2 252 310 
+planes Anisotropy.txt 1 1256 
+distribution Anisotropy.txt 1 277 
+average Anisotropy.txt 2 341 536 
+darker Anisotropy.txt 1 973 
+detailed Anisotropy.txt 1 595 
+bearing Anisotropy.txt 1 814 
+af Anisotropy.txt 1 132 
+defined Anisotropy.txt 4 49 651 1200 1486 
+certain Anisotropy.txt 4 1037 1243 1250 1254 
+describe Anisotropy.txt 1 480 
+metals Anisotropy.txt 1 1095 
+an Anisotropy.txt 11 72 111 523 535 646 661 696 916 919 1014 1272 
+as Anisotropy.txt 16 42 50 117 124 162 208 511 636 652 666 946 1078 1118 1187 1451 1485 
+diverse Anisotropy.txt 1 600 
+at Anisotropy.txt 1 379 
+crystals Anisotropy.txt 3 560 625 713 
+permeability Anisotropy.txt 1 881 
+physical Anisotropy.txt 3 61 1007 1232 
+functions Anisotropy.txt 1 1412 
+no Anisotropy.txt 1 553 
+whereas Anisotropy.txt 2 830 1332 
+when Anisotropy.txt 6 53 866 948 961 974 1137 
+detail Anisotropy.txt 1 190 
+field Anisotropy.txt 4 107 263 299 498 
+other Anisotropy.txt 2 542 1457 
+electrical Anisotropy.txt 3 777 779 1230 
+spatial Anisotropy.txt 1 580 
+quartz Anisotropy.txt 1 902 
+calculating Anisotropy.txt 1 867 
+gas Anisotropy.txt 2 806 851 
+directionally Anisotropy.txt 1 33 
+variation Anisotropy.txt 2 687 729 
+flow-through Anisotropy.txt 1 245 
+important Anisotropy.txt 2 743 1114 
+individual Anisotropy.txt 1 1371 
+rolling Anisotropy.txt 3 1051 1061 1071 
+neuroscience Anisotropy.txt 1 1266 
+seismic Anisotropy.txt 6 683 689 693 710 739 754 
+structure Anisotropy.txt 1 377 
+implies Anisotropy.txt 2 36 593 
+assets Anisotropy.txt 1 824 
+fluorescence Anisotropy.txt 3 309 312 320 
+physics Anisotropy.txt 1 393 
+required Anisotropy.txt 1 606 
+nuclei Anisotropy.txt 1 256 
+external Anisotropy.txt 1 1519 

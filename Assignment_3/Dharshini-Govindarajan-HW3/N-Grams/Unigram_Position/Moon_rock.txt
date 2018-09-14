@@ -1,0 +1,675 @@
+represent Moon_rock.txt 4 682 817 1091 1231 
+all Moon_rock.txt 4 349 1162 1215 1546 
+none Moon_rock.txt 1 139 
+astronauts Moon_rock.txt 2 1511 1663 
+zircons Moon_rock.txt 1 999 
+spacecraft Moon_rock.txt 2 117 526 
+an94-96 Moon_rock.txt 1 723 
+ga Moon_rock.txt 3 777 829 1011 
+consists Moon_rock.txt 3 645 784 877 
+oldest Moon_rock.txt 1 267 
+4.3-4.1 Moon_rock.txt 1 828 
+compose Moon_rock.txt 1 598 
+technique Moon_rock.txt 1 237 
+cruces Moon_rock.txt 1 1348 
+crater Moon_rock.txt 2 239 1124 
+to Moon_rock.txt 28 66 95 221 247 335 375 409 411 435 438 445 455 502 511 513 530 536 681 925 1050 1078 1081 1199 1262 1359 1482 1561 1584 
+basaltic Moon_rock.txt 2 213 243 
+olivine Moon_rock.txt 2 8 788 
+suite Moon_rock.txt 18 605 608 612 644 669 752 780 783 835 863 876 903 919 928 983 986 1020 1023 
+hammers Moon_rock.txt 1 398 
+include Moon_rock.txt 2 936 1652 
+presentation Moon_rock.txt 2 1470 1630 
+monzodiorites Moon_rock.txt 1 938 
+returned Moon_rock.txt 4 69 118 549 1301 
+preserved Moon_rock.txt 1 1239 
+geology Moon_rock.txt 1 286 
+very Moon_rock.txt 5 344 482 1225 1286 1520 
+end Moon_rock.txt 1 1491 
+mg Moon_rock.txt 2 560 782 
+stolen Moon_rock.txt 5 1399 1639 1676 1684 1718 
+fall Moon_rock.txt 2 137 292 
+calcic Moon_rock.txt 5 653 661 713 761 813 
+vlt Moon_rock.txt 1 346 
+categories Moon_rock.txt 3 296 1734 1736 
+molar Moon_rock.txt 1 718 
+presented Moon_rock.txt 1 1604 
+valley Moon_rock.txt 1 1531 
+brecciation Moon_rock.txt 1 1182 
+standards Moon_rock.txt 1 716 
+large Moon_rock.txt 5 448 1097 1127 1253 1276 
+anorthosites Moon_rock.txt 2 765 880 
+small Moon_rock.txt 2 534 553 
+round Moon_rock.txt 1 827 
+glassy Moon_rock.txt 4 1074 1088 1115 1190 
+kreep Moon_rock.txt 1 852 
+be Moon_rock.txt 2 456 1501 
+contentfor Moon_rock.txt 1 871 
+190 Moon_rock.txt 1 152 
+3.16 Moon_rock.txt 1 207 
+displays Moon_rock.txt 1 1460 
+picked Moon_rock.txt 1 1517 
+estimated Moon_rock.txt 1 1416 
+targets Moon_rock.txt 1 1706 
+what Moon_rock.txt 2 1499 1525 
+abundant Moon_rock.txt 2 706 1138 
+appear Moon_rock.txt 1 454 
+richard Moon_rock.txt 1 1467 
+witnessed Moon_rock.txt 1 140 
+crust Moon_rock.txt 2 453 823 
+melt Moon_rock.txt 5 699 1076 1093 1120 1198 
+volatile Moon_rock.txt 1 743 
+above Moon_rock.txt 1 1205 
+scientists Moon_rock.txt 1 256 
+new Moon_rock.txt 1 1349 
+method Moon_rock.txt 1 773 
+contrast Moon_rock.txt 3 265 444 746 
+breccia Moon_rock.txt 1 1080 
+youngest Moon_rock.txt 1 242 
+meteorites Moon_rock.txt 4 99 130 164 1442 
+anorthite Moon_rock.txt 2 466 719 
+u-pb Moon_rock.txt 1 996 
+groups Moon_rock.txt 1 601 
+others Moon_rock.txt 1 1034 
+rakes Moon_rock.txt 1 399 
+extreme Moon_rock.txt 2 727 978 
+difficulty Moon_rock.txt 1 1697 
+oman Moon_rock.txt 1 187 
+k Moon_rock.txt 2 736 1288 
+30 Moon_rock.txt 1 134 
+discoveries Moon_rock.txt 1 1642 
+prior Moon_rock.txt 1 408 
+priceless Moon_rock.txt 1 1385 
+composed Moon_rock.txt 3 457 624 1534 
+mg/fe Moon_rock.txt 2 755 797 
+named Moon_rock.txt 2 1246 1659 
+although Moon_rock.txt 3 988 1043 1443 
+africa Moon_rock.txt 1 185 
+private Moon_rock.txt 1 1450 
+young Moon_rock.txt 1 1563 
+brought Moon_rock.txt 1 1475 
+total Moon_rock.txt 2 148 540 
+tools Moon_rock.txt 2 396 1372 
+from Moon_rock.txt 18 52 64 85 191 205 216 230 271 441 555 696 1000 1004 1073 1118 1400 1545 1648 
+handled Moon_rock.txt 1 1367 
+would Moon_rock.txt 1 1500 
+distinct Moon_rock.txt 2 330 600 
+two Moon_rock.txt 1 294 
+few Moon_rock.txt 1 1102 
+program Moon_rock.txt 1 1508 
+glass-rich Moon_rock.txt 1 1079 
+4.1-4.4 Moon_rock.txt 1 1010 
+reflects Moon_rock.txt 1 725 
+more Moon_rock.txt 6 126 132 705 898 1012 1700 
+an86-93 Moon_rock.txt 1 814 
+rich Moon_rock.txt 1 853 
+ejected Moon_rock.txt 1 83 
+basalt Moon_rock.txt 5 9 1217 1223 1237 1289 
+volatiles Moon_rock.txt 1 355 
+glass Moon_rock.txt 2 1158 1197 
+flag Moon_rock.txt 1 1619 
+90 Moon_rock.txt 2 652 787 
+mounted Moon_rock.txt 1 1610 
+sample Moon_rock.txt 9 424 431 493 573 1057 1318 1403 1459 1572 
+1993 Moon_rock.txt 1 551 
+indicates Moon_rock.txt 1 912 
+this Moon_rock.txt 4 724 751 834 1567 
+when Moon_rock.txt 1 1227 
+zircon Moon_rock.txt 1 955 
+labeled Moon_rock.txt 1 1571 
+values Moon_rock.txt 1 474 
+anorthositic Moon_rock.txt 1 658 
+believed Moon_rock.txt 1 246 
+example Moon_rock.txt 1 1271 
+history Moon_rock.txt 1 1179 
+president Moon_rock.txt 2 1466 1574 
+granophyres Moon_rock.txt 1 940 
+impacts Moon_rock.txt 2 621 1208 
+cited Moon_rock.txt 1 1727 
+pieces Moon_rock.txt 1 1172 
+high Moon_rock.txt 6 461 472 483 796 869 1287 
+titanium Moon_rock.txt 2 337 486 
+documenting Moon_rock.txt 1 1176 
+counting Moon_rock.txt 1 240 
+terrestrial Moon_rock.txt 3 715 965 1263 
+court Moon_rock.txt 1 1413 
+sphere Moon_rock.txt 1 1609 
+cratering Moon_rock.txt 1 90 
+six Moon_rock.txt 1 102 
+links Moon_rock.txt 1 1732 
+regions Moon_rock.txt 1 182 
+building Moon_rock.txt 2 574 1404 
+94-96 Moon_rock.txt 1 722 
+derived Moon_rock.txt 2 215 229 
+containing Moon_rock.txt 1 1390 
+collection Moon_rock.txt 2 410 1339 
+reflect Moon_rock.txt 1 1141 
+welds Moon_rock.txt 1 1160 
+date Moon_rock.txt 1 997 
+such Moon_rock.txt 1 1248 
+javanite Moon_rock.txt 1 1065 
+las Moon_rock.txt 1 1347 
+a Moon_rock.txt 19 147 393 428 538 804 851 913 994 1031 1053 1060 1152 1177 1275 1337 1388 1519 1558 1612 
+highlands Moon_rock.txt 6 232 302 566 597 677 822 
+succeeded Moon_rock.txt 1 520 
+resemble Moon_rock.txt 1 1188 
+regolith Moon_rock.txt 3 317 1082 1186 
+element Moon_rock.txt 4 384 842 859 906 
+so Moon_rock.txt 1 1219 
+subsequently Moon_rock.txt 1 93 
+encased Moon_rock.txt 1 1605 
+typical Moon_rock.txt 1 1523 
+houston Moon_rock.txt 1 1329 
+theft Moon_rock.txt 1 1708 
+over Moon_rock.txt 1 151 
+mission Moon_rock.txt 2 1306 1668 
+ejecta Moon_rock.txt 1 1134 
+years Moon_rock.txt 5 209 225 253 280 1554 
+course Moon_rock.txt 2 37 1378 
+including Moon_rock.txt 1 397 
+nitrogen Moon_rock.txt 1 1358 
+still Moon_rock.txt 1 811 
+its Moon_rock.txt 1 868 
+1 Moon_rock.txt 1 1424 
+group Moon_rock.txt 1 674 
+interesting Moon_rock.txt 1 831 
+crew Moon_rock.txt 1 13 
+condition Moon_rock.txt 1 414 
+cernan Moon_rock.txt 1 1513 
+hidden Moon_rock.txt 1 1735 
+main Moon_rock.txt 5 284 295 1308 1456 1682 
+image Moon_rock.txt 1 1719 
+texas Moon_rock.txt 1 1330 
+eugene Moon_rock.txt 1 1512 
+then Moon_rock.txt 1 427 
+them Moon_rock.txt 3 440 1201 1361 
+return Moon_rock.txt 2 434 533 
+recipients Moon_rock.txt 1 1618 
+obtaining Moon_rock.txt 1 1699 
+material Moon_rock.txt 4 33 547 1397 1432 
+framework Moon_rock.txt 1 708 
+they Moon_rock.txt 10 201 417 420 519 941 968 1100 1250 1259 1365 
+flotation Moon_rock.txt 1 684 
+not Moon_rock.txt 2 258 1132 
+now Moon_rock.txt 1 1634 
+possess Moon_rock.txt 1 259 
+landings Moon_rock.txt 2 63 506 
+oxygen Moon_rock.txt 1 385 
+edit Moon_rock.txt 14 46 189 283 495 568 1242 1298 1455 1643 1681 1721 1724 1726 1733 
+135 Moon_rock.txt 2 1483 1585 
+flown Moon_rock.txt 1 1623 
+rocks Moon_rock.txt 32 48 80 190 228 270 291 316 351 366 371 377 389 459 567 593 816 873 934 973 1002 1024 1077 1089 1314 1354 1374 1436 1454 1632 1680 1688 1702 
+capability Moon_rock.txt 1 529 
+rock Moon_rock.txt 11 1 18 21 23 580 650 1300 1474 1522 1568 1583 
+found Moon_rock.txt 6 26 298 419 1040 1067 1228 
+honduras Moon_rock.txt 1 1461 
+series Moon_rock.txt 1 331 
+tektites Moon_rock.txt 2 1039 1066 
+related Moon_rock.txt 1 374 
+constitute Moon_rock.txt 1 1252 
+sands Moon_rock.txt 1 1343 
+2002 Moon_rock.txt 1 1387 
+laboratory Moon_rock.txt 1 1319 
+special Moon_rock.txt 3 429 1371 1559 
+container Moon_rock.txt 1 432 
+matrix Moon_rock.txt 1 1153 
+space Moon_rock.txt 2 586 1326 
+scoops Moon_rock.txt 1 400 
+furthermore Moon_rock.txt 1 475 
+content Moon_rock.txt 3 338 843 1294 
+may Moon_rock.txt 3 959 991 1136 
+frequently Moon_rock.txt 1 1251 
+volcanism Moon_rock.txt 2 1218 1238 
+granites Moon_rock.txt 2 930 1037 
+lithology Moon_rock.txt 1 1107 
+million Moon_rock.txt 1 1425 
+crystallization Moon_rock.txt 1 980 
+free Moon_rock.txt 1 1362 
+extraordinary Moon_rock.txt 1 1292 
+completely Moon_rock.txt 1 358 
+formation Moon_rock.txt 1 634 
+sitting Moon_rock.txt 1 1150 
+earliest Moon_rock.txt 1 1233 
+remainder Moon_rock.txt 1 173 
+compositions Moon_rock.txt 4 763 808 894 962 
+g Moon_rock.txt 1 1428 
+e.g Moon_rock.txt 1 167 
+iron-rich Moon_rock.txt 1 899 
+curation Moon_rock.txt 1 1295 
+noted Moon_rock.txt 1 1204 
+levels Moon_rock.txt 1 484 
+aboard Moon_rock.txt 1 1624 
+1970s Moon_rock.txt 2 78 509 
+unmanned Moon_rock.txt 2 74 492 
+442,500 Moon_rock.txt 1 565 
+frequent Moon_rock.txt 1 1705 
+major Moon_rock.txt 1 858 
+researcher Moon_rock.txt 1 1029 
+third Moon_rock.txt 1 1494 
+sodic Moon_rock.txt 1 883 
+primary Moon_rock.txt 1 591 
+one Moon_rock.txt 2 544 1051 
+smaller Moon_rock.txt 1 1338 
+feldspar Moon_rock.txt 3 949 958 966 
+earths Moon_rock.txt 2 29 376 
+little Moon_rock.txt 1 1194 
+heads Moon_rock.txt 1 1587 
+70017 Moon_rock.txt 1 1573 
+together Moon_rock.txt 2 1163 1202 
+cooling Moon_rock.txt 1 1183 
+their Moon_rock.txt 5 336 379 515 1493 1691 
+returns Moon_rock.txt 1 494 
+moisture Moon_rock.txt 1 1364 
+white Moon_rock.txt 1 1342 
+circa Moon_rock.txt 1 775 
+structures Moon_rock.txt 1 1099 
+genesis Moon_rock.txt 1 1299 
+recovered Moon_rock.txt 1 1408 
+that Moon_rock.txt 12 24 81 757 809 837 935 1062 1090 1095 1121 1140 1159 
+olivine-plagioclase Moon_rock.txt 1 790 
+minute Moon_rock.txt 1 1391 
+direct Moon_rock.txt 1 333 
+environmental Moon_rock.txt 1 430 
+regards Moon_rock.txt 1 369 
+4.44 Moon_rock.txt 1 223 
+representing Moon_rock.txt 1 131 
+than Moon_rock.txt 4 127 133 543 900 
+11 Moon_rock.txt 2 1479 1667 
+age-dating Moon_rock.txt 1 236 
+john Moon_rock.txt 1 1030 
+15 Moon_rock.txt 2 16 1305 
+liquid Moon_rock.txt 1 989 
+17 Moon_rock.txt 2 1510 1626 
+16 Moon_rock.txt 1 557 
+require Moon_rock.txt 1 848 
+older Moon_rock.txt 1 1174 
+measured Moon_rock.txt 1 196 
+final Moon_rock.txt 1 1496 
+ansmet Moon_rock.txt 1 168 
+states Moon_rock.txt 2 1488 1594 
+iron Moon_rock.txt 1 473 
+were Moon_rock.txt 13 82 113 157 390 406 418 421 561 1407 1597 1603 1646 1717 
+and Moon_rock.txt 45 79 92 186 277 304 343 356 402 426 532 585 609 635 678 741 791 803 846 888 895 939 953 967 1003 1021 1033 1125 1184 1296 1395 1447 1485 1495 1498 1514 1541 1556 1590 1655 1673 1677 1685 1695 1709 1711 
+manned Moon_rock.txt 2 61 504 
+1.2 Moon_rock.txt 1 251 
+1973 Moon_rock.txt 1 1600 
+ages Moon_rock.txt 2 268 1008 
+antarctica Moon_rock.txt 1 166 
+depleted Moon_rock.txt 1 353 
+have Moon_rock.txt 15 141 194 248 470 481 753 766 960 1007 1193 1266 1291 1527 1703 1713 
+events Moon_rock.txt 2 91 138 
+1970 Moon_rock.txt 1 1464 
+apparently Moon_rock.txt 1 974 
+any Moon_rock.txt 1 964 
+contents Moon_rock.txt 4 44 720 860 907 
+relatively Moon_rock.txt 4 471 795 882 932 
+u.s Moon_rock.txt 1 1593 
+1969 Moon_rock.txt 1 65 
+trapped Moon_rock.txt 1 697 
+12013 Moon_rock.txt 1 1058 
+minerals Moon_rock.txt 6 362 749 802 897 910 1645 
+also Moon_rock.txt 6 323 911 992 1336 1622 1723 
+internal Moon_rock.txt 1 771 
+326 Moon_rock.txt 1 120 
+which Moon_rock.txt 4 416 1108 1615 1620 
+plutonic Moon_rock.txt 1 315 
+200 Moon_rock.txt 1 559 
+play Moon_rock.txt 1 993 
+trace Moon_rock.txt 2 841 905 
+jsc Moon_rock.txt 1 576 
+most Moon_rock.txt 5 170 405 629 672 1351 
+but Moon_rock.txt 6 255 500 518 1131 1192 1265 
+sheets Moon_rock.txt 1 1094 
+phase Moon_rock.txt 1 1234 
+an70-85 Moon_rock.txt 1 885 
+extremely Moon_rock.txt 1 712 
+taurus-littrow Moon_rock.txt 1 1533 
+maria Moon_rock.txt 3 219 308 1258 
+so-called Moon_rock.txt 2 865 1284 
+vitrophyres Moon_rock.txt 1 1085 
+isotopic Moon_rock.txt 1 380 
+mineral Moon_rock.txt 2 465 1155 
+entrain Moon_rock.txt 1 1126 
+goodwill Moon_rock.txt 1 1452 
+considered Moon_rock.txt 1 1384 
+later Moon_rock.txt 2 818 1570 
+inferred Moon_rock.txt 1 680 
+tongs Moon_rock.txt 1 401 
+intrusions Moon_rock.txt 1 819 
+plaque Moon_rock.txt 2 1462 1614 
+tubes Moon_rock.txt 1 404 
+show Moon_rock.txt 1 1274 
+discovered Moon_rock.txt 3 158 176 1647 
+relation Moon_rock.txt 1 334 
+inconsistent Moon_rock.txt 1 759 
+earth Moon_rock.txt 12 50 96 145 273 365 437 447 537 1042 1069 1566 1694 
+availability Moon_rock.txt 1 1297 
+impact Moon_rock.txt 7 639 1092 1098 1114 1119 1181 1185 
+based Moon_rock.txt 1 233 
+northern Moon_rock.txt 1 184 
+protoliths Moon_rock.txt 1 321 
+plagioclase-clinopyroxene-orthopyroxene Moon_rock.txt 1 890 
+distributed Moon_rock.txt 1 1598 
+here Moon_rock.txt 1 1528 
+failed Moon_rock.txt 1 501 
+only Moon_rock.txt 1 1368 
+wood Moon_rock.txt 1 1613 
+eruptions Moon_rock.txt 1 244 
+equilibrium Moon_rock.txt 1 849 
+do Moon_rock.txt 1 257 
+10 Moon_rock.txt 1 1429 
+moonwalk Moon_rock.txt 2 1497 1504 
+fractional Moon_rock.txt 1 979 
+dc Moon_rock.txt 1 590 
+b Moon_rock.txt 1 1324 
+negative Moon_rock.txt 1 1277 
+closely Moon_rock.txt 2 373 1063 
+despite Moon_rock.txt 1 855 
+gifts Moon_rock.txt 2 1481 1596 
+during Moon_rock.txt 4 35 100 1376 1411 
+post-date Moon_rock.txt 1 632 
+target Moon_rock.txt 2 1106 1148 
+low-ti Moon_rock.txt 2 341 345 
+countries Moon_rock.txt 1 1484 
+igneous Moon_rock.txt 1 592 
+teams Moon_rock.txt 1 161 
+okeefe Moon_rock.txt 1 1032 
+common Moon_rock.txt 4 324 363 657 673 
+contain Moon_rock.txt 2 1101 1137 
+380.96 Moon_rock.txt 1 109 
+aspect Moon_rock.txt 1 832 
+national Moon_rock.txt 1 583 
+1960s Moon_rock.txt 1 1027 
+see Moon_rock.txt 2 6 1722 
+are Moon_rock.txt 21 245 274 322 352 357 372 622 758 810 931 969 1086 1171 1224 1245 1260 1355 1366 1382 1445 1633 
+alkalis Moon_rock.txt 1 734 
+rarity Moon_rock.txt 1 1692 
+gabbronorites Moon_rock.txt 1 889 
+arm Moon_rock.txt 1 1669 
+techniques Moon_rock.txt 1 200 
+diorites Moon_rock.txt 1 937 
+phases Moon_rock.txt 1 694 
+placed Moon_rock.txt 1 422 
+currently Moon_rock.txt 1 1383 
+wikipedia Moon_rock.txt 1 2 
+state Moon_rock.txt 1 1589 
+between Moon_rock.txt 1 275 
+probably Moon_rock.txt 1 1544 
+we Moon_rock.txt 1 1526 
+weighing Moon_rock.txt 2 108 558 
+parent Moon_rock.txt 1 915 
+missing Moon_rock.txt 3 1678 1686 1715 
+sold Moon_rock.txt 2 562 1446 
+basalts Moon_rock.txt 12 326 340 342 347 469 480 631 1241 1244 1264 1273 1282 
+contamination Moon_rock.txt 1 442 
+dedication Moon_rock.txt 1 1560 
+lb Moon_rock.txt 2 112 155 
+come Moon_rock.txt 2 51 327 
+lithologies Moon_rock.txt 2 627 1145 
+protect Moon_rock.txt 1 439 
+last Moon_rock.txt 1 1503 
+missions Moon_rock.txt 1 105 
+many Moon_rock.txt 7 1044 1267 1536 1539 1542 1627 1712 
+region Moon_rock.txt 1 1149 
+according Moon_rock.txt 1 1049 
+foreign Moon_rock.txt 1 1586 
+s Moon_rock.txt 1 1290 
+dated Moon_rock.txt 1 768 
+highland Moon_rock.txt 1 626 
+traded Moon_rock.txt 1 1448 
+col Moon_rock.txt 1 1674 
+among Moon_rock.txt 1 1449 
+basins Moon_rock.txt 1 640 
+cumulates Moon_rock.txt 1 685 
+anorthosite Moon_rock.txt 5 604 643 651 668 825 
+spans Moon_rock.txt 1 920 
+article Moon_rock.txt 3 285 1457 1683 
+mafic Moon_rock.txt 5 314 693 748 801 896 
+expensive Moon_rock.txt 1 1444 
+mare Moon_rock.txt 11 325 468 479 630 1216 1222 1236 1240 1243 1272 1281 
+unusual Moon_rock.txt 1 961 
+strong Moon_rock.txt 1 1670 
+union Moon_rock.txt 1 498 
+three Moon_rock.txt 9 53 71 115 329 523 552 599 1644 1662 
+been Moon_rock.txt 6 142 175 195 767 1638 1704 
+immense Moon_rock.txt 1 619 
+combined Moon_rock.txt 1 539 
+tranquillityite Moon_rock.txt 1 1654 
+collected Moon_rock.txt 7 10 34 56 114 143 391 1375 
+troctolites Moon_rock.txt 1 789 
+basin Moon_rock.txt 1 633 
+anomaly Moon_rock.txt 1 1279 
+refuted Moon_rock.txt 1 1046 
+kilograms Moon_rock.txt 2 110 153 
+formed Moon_rock.txt 2 615 695 
+al Moon_rock.txt 1 1671 
+bulk Moon_rock.txt 1 731 
+vitrophyre Moon_rock.txt 1 1075 
+external Moon_rock.txt 1 1731 
+general Moon_rock.txt 1 1729 
+those Moon_rock.txt 3 55 297 305 
+case Moon_rock.txt 1 1414 
+ilmenite Moon_rock.txt 1 491 
+unlike Moon_rock.txt 1 963 
+these Moon_rock.txt 13 262 638 815 909 972 1001 1047 1169 1211 1229 1420 1595 1651 
+value Moon_rock.txt 1 1418 
+air Moon_rock.txt 1 584 
+pre-date Moon_rock.txt 1 1213 
+refractory Moon_rock.txt 1 857 
+near Moon_rock.txt 1 1489 
+melted Moon_rock.txt 2 1111 1133 
+gave Moon_rock.txt 1 1469 
+study Moon_rock.txt 1 1052 
+plagioclase-orthopyroxene Moon_rock.txt 1 887 
+dominantly Moon_rock.txt 3 312 623 1087 
+mexico Moon_rock.txt 1 1350 
+almost Moon_rock.txt 3 348 646 1214 
+is Moon_rock.txt 10 22 25 670 679 711 836 864 1109 1315 1335 
+it Moon_rock.txt 2 1135 1161 
+surface Moon_rock.txt 1 88 
+soils Moon_rock.txt 1 1006 
+in Moon_rock.txt 42 76 165 179 203 264 299 306 328 332 354 360 364 367 378 415 443 487 507 521 550 571 588 594 675 733 745 750 799 1025 1146 1151 1168 1328 1346 1357 1386 1409 1437 1463 1529 1599 1606 
+norites Moon_rock.txt 1 886 
+pyroxferroite Moon_rock.txt 1 1656 
+bags Moon_rock.txt 1 425 
+different Moon_rock.txt 1 135 
+develop Moon_rock.txt 1 514 
+perhaps Moon_rock.txt 1 1551 
+11.5 Moon_rock.txt 1 122 
+make Moon_rock.txt 1 503 
+same Moon_rock.txt 1 1016 
+linked Moon_rock.txt 1 1035 
+parts Moon_rock.txt 1 1547 
+vandalism Moon_rock.txt 1 1710 
+fill Moon_rock.txt 2 637 1096 
+terrae Moon_rock.txt 2 303 310 
+safe Moon_rock.txt 2 1332 1389 
+lyndon Moon_rock.txt 1 1323 
+basin-forming Moon_rock.txt 2 620 1207 
+uses Moon_rock.txt 1 5 
+robotic Moon_rock.txt 1 524 
+composition Moon_rock.txt 2 282 381 
+keep Moon_rock.txt 1 1360 
+moonrock Moon_rock.txt 1 7 
+weld Moon_rock.txt 1 1200 
+center Moon_rock.txt 1 1327 
+largely Moon_rock.txt 3 616 636 1110 
+no Moon_rock.txt 1 1196 
+well Moon_rock.txt 1 738 
+1972 Moon_rock.txt 1 67 
+analysis Moon_rock.txt 1 838 
+ocean Moon_rock.txt 1 690 
+drin Moon_rock.txt 1 1672 
+claims Moon_rock.txt 1 1048 
+the Moon_rock.txt 109 12 28 36 42 58 77 86 101 172 180 192 212 217 231 235 241 266 272 288 300 307 309 383 386 413 436 446 451 464 467 478 488 496 508 528 582 595 602 606 610 618 641 649 666 671 676 687 704 709 726 730 747 770 778 800 821 840 856 861 874 901 904 917 926 956 977 1015 1018 1026 1084 1105 1113 1123 1142 1147 1166 1189 1206 1232 1256 1283 1303 1307 1311 1316 1322 1353 1377 1401 1405 1412 1417 1438 1490 1502 1506 1530 1549 1562 1577 1582 1591 1601 1617 1629 1649 1661 1665 1696 
+chemistry Moon_rock.txt 1 1061 
+soviet Moon_rock.txt 2 72 497 
+researchers Moon_rock.txt 1 1045 
+responsible Moon_rock.txt 1 1209 
+rocket Moon_rock.txt 1 517 
+less Moon_rock.txt 3 542 656 1014 
+generally Moon_rock.txt 1 812 
+harrison Moon_rock.txt 1 1515 
+kreep-rich Moon_rock.txt 1 914 
+keeping Moon_rock.txt 1 1333 
+sources Moon_rock.txt 2 45 54 
+stored Moon_rock.txt 2 1340 1356 
+human Moon_rock.txt 1 39 
+radiometric Moon_rock.txt 1 198 
+839.87 Moon_rock.txt 1 111 
+mafics Moon_rock.txt 1 951 
+interstitial Moon_rock.txt 2 692 698 
+had Moon_rock.txt 1 1621 
+ba-rich Moon_rock.txt 1 971 
+exclusively Moon_rock.txt 1 647 
+meteorite Moon_rock.txt 1 136 
+pyroxene Moon_rock.txt 3 665 847 952 
+ferroan Moon_rock.txt 5 603 642 667 764 824 
+samples Moon_rock.txt 10 68 107 125 214 260 535 1392 1406 1421 1471 
+has Moon_rock.txt 1 1059 
+285 Moon_rock.txt 1 1427 
+photographed Moon_rock.txt 1 407 
+lacking Moon_rock.txt 1 359 
+crushed Moon_rock.txt 1 1130 
+rafted Moon_rock.txt 1 701 
+using Moon_rock.txt 3 392 769 1370 
+lost Moon_rock.txt 1 1641 
+sizes Moon_rock.txt 1 1540 
+schmitt Moon_rock.txt 1 1516 
+50 Moon_rock.txt 2 1486 1592 
+alkali Moon_rock.txt 10 611 862 870 875 879 918 948 957 985 1022 
+collect Moon_rock.txt 1 531 
+plagioclase-pyroxene Moon_rock.txt 1 793 
+because Moon_rock.txt 4 628 866 1249 1689 
+old Moon_rock.txt 4 210 226 281 1555 
+often Moon_rock.txt 1 970 
+collectors Moon_rock.txt 2 178 1451 
+people Moon_rock.txt 1 1564 
+some Moon_rock.txt 4 156 368 476 1164 
+searching Moon_rock.txt 1 162 
+magma Moon_rock.txt 3 689 854 916 
+quartz Moon_rock.txt 1 944 
+3.8 Moon_rock.txt 1 276 
+shapes Moon_rock.txt 1 1543 
+slice Moon_rock.txt 1 577 
+europium Moon_rock.txt 1 1278 
+for Moon_rock.txt 13 3 163 211 227 433 563 1210 1270 1310 1331 1426 1636 1660 
+dunites Moon_rock.txt 1 786 
+moon Moon_rock.txt 23 0 17 30 43 47 193 289 290 388 579 732 872 1313 1373 1435 1453 1473 1550 1631 1650 1679 1687 1701 
+depletion Moon_rock.txt 1 728 
+exit Moon_rock.txt 1 1122 
+lunar Moon_rock.txt 28 20 32 62 87 98 129 218 301 350 370 452 505 572 596 613 688 929 1005 1036 1056 1070 1257 1317 1380 1394 1402 1441 1458 
+420 Moon_rock.txt 1 154 
+fragments Moon_rock.txt 5 554 1156 1537 1580 1602 
+dating Moon_rock.txt 2 188 199 
+core Moon_rock.txt 1 403 
+scientific Moon_rock.txt 1 160 
+repository Moon_rock.txt 1 1309 
+300 Moon_rock.txt 1 128 
+orthoclase Moon_rock.txt 1 946 
+processing Moon_rock.txt 1 569 
+ratios Moon_rock.txt 2 756 798 
+transported Moon_rock.txt 1 1434 
+by Moon_rock.txt 13 11 57 70 89 159 177 197 617 714 976 1112 1302 1477 
+breccias Moon_rock.txt 10 318 614 1071 1083 1116 1170 1175 1187 1191 1212 
+on Moon_rock.txt 9 27 49 144 234 1041 1068 1611 1664 1693 
+about Moon_rock.txt 4 206 222 250 1423 
+rare Moon_rock.txt 4 933 950 954 1226 
+of Moon_rock.txt 75 14 38 41 124 150 171 183 238 261 269 287 313 382 395 450 458 463 477 485 490 541 546 578 625 648 686 721 729 785 806 833 839 844 867 878 908 943 981 998 1009 1055 1104 1129 1144 1154 1165 1173 1180 1221 1235 1255 1352 1363 1379 1393 1419 1431 1440 1472 1492 1505 1524 1532 1535 1538 1548 1553 1565 1579 1581 1588 1628 1690 1698 1707 
+clasts Moon_rock.txt 5 1103 1139 1167 1220 1230 
+range Moon_rock.txt 5 202 805 923 1072 1143 
+important Moon_rock.txt 1 1268 
+plus Moon_rock.txt 1 1157 
+oz Moon_rock.txt 2 123 1430 
+concentrations Moon_rock.txt 1 462 
+or Moon_rock.txt 10 19 31 700 781 947 984 1013 1195 1640 1716 
+nixon Moon_rock.txt 2 1468 1575 
+significant Moon_rock.txt 1 1521 
+facility Moon_rock.txt 3 570 1320 1345 
+lavas Moon_rock.txt 1 263 
+into Moon_rock.txt 2 293 820 
+gabbros Moon_rock.txt 1 792 
+washington Moon_rock.txt 1 589 
+billions Moon_rock.txt 1 1552 
+due Moon_rock.txt 1 510 
+luna Moon_rock.txt 4 73 116 525 556 
+references Moon_rock.txt 3 1725 1728 1730 
+gabbro Moon_rock.txt 1 659 
+plagioclase Moon_rock.txt 11 654 662 683 707 710 762 807 845 884 893 945 
+museum Moon_rock.txt 1 587 
+there Moon_rock.txt 1 1334 
+gallery Moon_rock.txt 1 1720 
+low Moon_rock.txt 1 754 
+high-ti Moon_rock.txt 1 339 
+was Moon_rock.txt 4 548 1398 1569 1658 
+naturally Moon_rock.txt 2 84 1433 
+ago Moon_rock.txt 1 254 
+form Moon_rock.txt 4 489 975 1117 1439 
+attempted Moon_rock.txt 1 499 
+potassium Moon_rock.txt 1 1293 
+differences Moon_rock.txt 1 1269 
+lins Moon_rock.txt 1 1675 
+landing Moon_rock.txt 2 104 522 
+back Moon_rock.txt 1 1476 
+failure Moon_rock.txt 1 512 
+repeated Moon_rock.txt 1 1178 
+apollo Moon_rock.txt 11 15 60 103 387 1304 1312 1478 1507 1509 1625 1666 
+with Moon_rock.txt 17 119 146 169 319 460 527 655 663 691 703 717 760 794 850 881 891 1038 
+grams Moon_rock.txt 1 121 
+made Moon_rock.txt 1 1557 
+portions Moon_rock.txt 2 449 1254 
+immiscibility Moon_rock.txt 1 990 
+consist Moon_rock.txt 2 311 942 
+inside Moon_rock.txt 1 423 
+up Moon_rock.txt 2 220 1518 
+us Moon_rock.txt 4 59 564 1465 1487 
+record Moon_rock.txt 1 412 
+martian Moon_rock.txt 1 1396 
+exploration Moon_rock.txt 2 40 1381 
+minor Moon_rock.txt 1 664 
+vhk Moon_rock.txt 1 1285 
+distribution Moon_rock.txt 1 1578 
+similar Moon_rock.txt 4 320 892 924 1261 
+gone Moon_rock.txt 1 1714 
+ordered Moon_rock.txt 1 1576 
+probes Moon_rock.txt 1 75 
+certain Moon_rock.txt 1 1280 
+magnesian Moon_rock.txt 6 607 779 902 927 982 1019 
+2,415 Moon_rock.txt 1 106 
+an Moon_rock.txt 3 830 921 1607 
+as Moon_rock.txt 7 97 737 739 1017 1203 1247 1480 
+at Moon_rock.txt 7 575 581 774 826 1321 1341 1422 
+70-80 Moon_rock.txt 1 660 
+4.4 Moon_rock.txt 1 776 
+variety Moon_rock.txt 1 394 
+na Moon_rock.txt 1 735 
+water Moon_rock.txt 1 740 
+other Moon_rock.txt 2 4 742 
+role Moon_rock.txt 1 995 
+unaccounted Moon_rock.txt 1 1635 
+test Moon_rock.txt 1 1344 
+acrylic Moon_rock.txt 1 1608 
+hydrated Moon_rock.txt 1 361 
+johnson Moon_rock.txt 1 1325 
+elements Moon_rock.txt 1 744 
+occurred Moon_rock.txt 1 249 
+4.28 Moon_rock.txt 1 278 
+fell Moon_rock.txt 1 94 
+isochron Moon_rock.txt 1 772 
+included Moon_rock.txt 1 1616 
+desert Moon_rock.txt 1 181 
+upwards Moon_rock.txt 1 702 
+billion Moon_rock.txt 4 208 224 252 279 
+age Moon_rock.txt 2 204 922 
+armalcolite Moon_rock.txt 2 1653 1657 
+kilogram Moon_rock.txt 1 545 
+indirectly Moon_rock.txt 1 1369 
+magmas Moon_rock.txt 1 987 
+2003 Moon_rock.txt 1 1410 
+portion Moon_rock.txt 1 1054 
+nasa Moon_rock.txt 2 1028 1415 
+mass Moon_rock.txt 1 149 
+volumes Moon_rock.txt 1 1128 
+resembles Moon_rock.txt 1 1064 
+n1 Moon_rock.txt 1 516 
+having Moon_rock.txt 2 174 1637 

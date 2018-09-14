@@ -1,0 +1,547 @@
+impression Space_probe.txt 1 890 
+asteroids Space_probe.txt 2 123 799 
+spacecraft Space_probe.txt 5 31 363 683 1113 1243 
+giotto Space_probe.txt 1 730 
+follow Space_probe.txt 1 237 
+flyby Space_probe.txt 2 56 1306 
+layers Space_probe.txt 1 1049 
+nasda Space_probe.txt 1 637 
+technique Space_probe.txt 1 223 
+crater Space_probe.txt 2 523 547 
+to Space_probe.txt 48 107 119 158 162 192 236 255 272 304 316 337 364 373 379 400 427 469 497 499 511 572 584 590 638 658 674 736 774 785 816 859 867 873 930 997 1022 1035 1039 1080 1101 1114 1145 1220 1223 1244 1278 1294 1354 
+landers Space_probe.txt 1 686 
+sent Space_probe.txt 2 303 654 
+geology Space_probe.txt 1 464 
+very Space_probe.txt 1 225 
+plutocharon Space_probe.txt 1 1234 
+ultraviolet Space_probe.txt 1 724 
+continued Space_probe.txt 1 496 
+vast Space_probe.txt 1 877 
+transmission Space_probe.txt 1 439 
+list Space_probe.txt 2 69 77 
+venus Space_probe.txt 3 351 371 697 
+aeronautics Space_probe.txt 1 915 
+ringed Space_probe.txt 1 1153 
+japanese Space_probe.txt 2 707 720 
+past Space_probe.txt 1 470 
+surrounding Space_probe.txt 1 1028 
+likely Space_probe.txt 1 148 
+traveling Space_probe.txt 1 949 
+further Space_probe.txt 2 41 1408 
+functioning Space_probe.txt 1 1007 
+will Space_probe.txt 2 147 1350 
+sun Space_probe.txt 3 156 957 984 
+scientists Space_probe.txt 2 1019 1034 
+international Space_probe.txt 2 608 648 
+method Space_probe.txt 1 169 
+multitude Space_probe.txt 1 1380 
+dwarf Space_probe.txt 1 1261 
+communicate Space_probe.txt 1 512 
+pluto Space_probe.txt 1 1224 
+water Space_probe.txt 1 471 
+china Space_probe.txt 1 98 
+kilometers Space_probe.txt 2 849 981 
+active Space_probe.txt 2 71 79 
+along Space_probe.txt 3 151 1150 1316 
+fifteen Space_probe.txt 1 127 
+change Space_probe.txt 2 1287 1290 
+ukraine Space_probe.txt 1 90 
+study Space_probe.txt 1 1146 
+amount Space_probe.txt 1 232 
+studies Space_probe.txt 1 675 
+named Space_probe.txt 1 534 
+useful Space_probe.txt 1 1387 
+extra Space_probe.txt 1 264 
+requiring Space_probe.txt 1 229 
+transit Space_probe.txt 1 197 
+visible Space_probe.txt 1 1369 
+cassini Space_probe.txt 1 1174 
+traversing Space_probe.txt 1 540 
+from Space_probe.txt 12 291 376 545 756 765 787 852 947 951 982 1020 1170 
+links Space_probe.txt 1 1412 
+visit Space_probe.txt 3 1081 1245 1298 
+two Space_probe.txt 3 681 798 862 
+asteroid Space_probe.txt 3 778 789 1308 
+taken Space_probe.txt 1 1045 
+until Space_probe.txt 1 502 
+more Space_probe.txt 4 175 184 194 561 
+lander Space_probe.txt 2 424 1164 
+successful Space_probe.txt 2 322 447 
+sister Space_probe.txt 1 1324 
+it Space_probe.txt 17 150 301 328 345 349 602 652 722 901 907 920 1089 1095 1107 1120 1230 1389 
+landed Space_probe.txt 2 482 1185 
+90 Space_probe.txt 1 432 
+isas Space_probe.txt 1 633 
+fly Space_probe.txt 1 860 
+high Space_probe.txt 2 199 206 
+1997 Space_probe.txt 1 1169 
+this Space_probe.txt 2 588 706 
+originally Space_probe.txt 1 642 
+4179 Space_probe.txt 1 1309 
+vega Space_probe.txt 1 679 
+can Space_probe.txt 3 182 209 1385 
+making Space_probe.txt 1 906 
+performed Space_probe.txt 1 212 
+dedicated Space_probe.txt 1 582 
+longest-lasting Space_probe.txt 1 909 
+december Space_probe.txt 2 23 420 
+india Space_probe.txt 1 100 
+sample Space_probe.txt 4 288 753 762 782 
+dropped Space_probe.txt 1 685 
+allowed Space_probe.txt 2 1018 1033 
+human-made Space_probe.txt 1 945 
+terrestrial Space_probe.txt 1 265 
+hohmann Space_probe.txt 1 172 
+united Space_probe.txt 1 92 
+12,593lb Space_probe.txt 1 1141 
+focused Space_probe.txt 1 1367 
+provide Space_probe.txt 1 931 
+travel Space_probe.txt 1 52 
+1 Space_probe.txt 12 295 880 883 892 941 973 990 1002 1168 1181 1330 1337 
+non-us Space_probe.txt 1 712 
+fourth Space_probe.txt 1 1110 
+67p/churyumov-gerasimenko Space_probe.txt 1 807 
+instead Space_probe.txt 1 39 
+explores Space_probe.txt 1 40 
+explorer Space_probe.txt 1 650 
+may Space_probe.txt 4 48 188 329 503 
+after Space_probe.txt 5 434 436 535 539 1209 
+designed Space_probe.txt 1 1144 
+such Space_probe.txt 2 178 202 
+data Space_probe.txt 1 375 
+a Space_probe.txt 30 3 25 29 45 76 120 137 171 222 230 238 529 549 585 643 665 672 718 738 766 802 844 894 959 1006 1013 1139 1248 1305 1379 
+close-up Space_probe.txt 1 743 
+attempt Space_probe.txt 1 498 
+imagers Space_probe.txt 1 1359 
+maintain Space_probe.txt 1 401 
+enter Space_probe.txt 2 65 998 
+began Space_probe.txt 1 425 
+wind Space_probe.txt 1 752 
+ceres Space_probe.txt 2 1263 1269 
+september Space_probe.txt 3 898 969 1196 
+2005 Space_probe.txt 1 1194 
+over Space_probe.txt 1 548 
+mission Space_probe.txt 4 271 616 910 1078 
+years Space_probe.txt 3 564 1126 1212 
+ended Space_probe.txt 1 518 
+through Space_probe.txt 2 53 597 
+penetrate Space_probe.txt 1 737 
+japan Space_probe.txt 1 97 
+still Space_probe.txt 1 904 
+its Space_probe.txt 8 145 385 536 594 746 837 1152 1323 
+before Space_probe.txt 1 698 
+24 Space_probe.txt 1 504 
+rosetta Space_probe.txt 2 790 793 
+26 Space_probe.txt 1 555 
+outer Space_probe.txt 1 43 
+21 Space_probe.txt 1 543 
+22 Space_probe.txt 1 493 
+23 Space_probe.txt 1 827 
+vicinity Space_probe.txt 1 142 
+2018 Space_probe.txt 1 1134 
+2015 Space_probe.txt 2 1239 1266 
+2014 Space_probe.txt 1 810 
+2017 Space_probe.txt 2 1198 1273 
+2016 Space_probe.txt 2 24 556 
+2011 Space_probe.txt 4 505 527 1257 1286 
+2010 Space_probe.txt 1 494 
+2013 Space_probe.txt 1 971 
+2012 Space_probe.txt 2 988 1017 
+them Space_probe.txt 1 1353 
+return Space_probe.txt 5 289 754 763 783 1352 
+sakigake Space_probe.txt 1 704 
+flew Space_probe.txt 2 796 1231 
+interstellar Space_probe.txt 3 66 999 1334 
+733-kilogram Space_probe.txt 1 895 
+they Space_probe.txt 3 187 475 684 
+not Space_probe.txt 3 34 1004 1351 
+man-made Space_probe.txt 1 253 
+now Space_probe.txt 4 87 624 634 1332 
+1959 Space_probe.txt 1 282 
+transmitter Space_probe.txt 1 839 
+edit Space_probe.txt 41 135 248 251 269 285 296 313 320 355 383 414 445 454 579 641 680 705 717 731 749 760 771 780 791 813 856 881 1064 1136 1217 1241 1275 1289 1315 1360 1400 1403 1405 1407 1410 1413 
+january Space_probe.txt 5 554 826 1132 1192 1227 
+ussr Space_probe.txt 1 86 
+stopped Space_probe.txt 2 440 488 
+each Space_probe.txt 1 477 
+side Space_probe.txt 1 276 
+constraints Space_probe.txt 1 875 
+de-orbited Space_probe.txt 1 1202 
+series Space_probe.txt 1 651 
+entering Space_probe.txt 1 1252 
+rovers Space_probe.txt 2 458 569 
+wavelength Space_probe.txt 1 725 
+80 Space_probe.txt 1 850 
+beyond Space_probe.txt 2 1059 1311 
+intended Space_probe.txt 1 571 
+network Space_probe.txt 1 244 
+space Space_probe.txt 23 0 16 18 26 44 46 55 67 82 335 398 611 626 629 734 794 917 1000 1142 1214 1325 1363 1375 
+since Space_probe.txt 1 1010 
+lagrangian Space_probe.txt 1 1301 
+specifications Space_probe.txt 1 1382 
+7 Space_probe.txt 2 354 358 
+sensor Space_probe.txt 1 1009 
+integrated Space_probe.txt 1 635 
+announced Space_probe.txt 1 508 
+canaveral Space_probe.txt 1 1172 
+interplanetary Space_probe.txt 5 54 133 242 615 714 
+imaging Space_probe.txt 1 1365 
+launch Space_probe.txt 1 786 
+flare Space_probe.txt 1 1015 
+massive Space_probe.txt 1 607 
+first Space_probe.txt 29 252 270 286 297 314 321 334 362 397 415 446 581 606 661 689 711 733 750 761 772 781 814 857 865 928 993 1218 1242 1276 
+number Space_probe.txt 1 121 
+another Space_probe.txt 6 164 326 342 369 404 694 
+reached Space_probe.txt 1 350 
+mercury Space_probe.txt 1 317 
+earths Space_probe.txt 1 160 
+little Space_probe.txt 1 226 
+unknown Space_probe.txt 1 442 
+system Space_probe.txt 9 73 115 601 888 1119 1154 1235 1314 1357 
+approximately Space_probe.txt 1 126 
+their Space_probe.txt 2 699 1348 
+2 Space_probe.txt 8 421 1063 1066 1093 1288 1291 1328 1339 
+observations Space_probe.txt 2 663 726 
+genesis Space_probe.txt 1 748 
+that Space_probe.txt 3 32 509 1347 
+completed Space_probe.txt 1 1090 
+july Space_probe.txt 3 1180 1237 1255 
+than Space_probe.txt 3 562 963 1043 
+11 Space_probe.txt 2 855 1321 
+10 Space_probe.txt 5 309 312 812 824 1319 
+13 Space_probe.txt 2 391 541 
+observatory Space_probe.txt 1 645 
+15 Space_probe.txt 1 1197 
+14 Space_probe.txt 2 1193 1238 
+16 Space_probe.txt 2 284 1256 
+19 Space_probe.txt 2 979 1228 
+require Space_probe.txt 1 189 
+halleys Space_probe.txt 3 591 677 702 
+states Space_probe.txt 1 93 
+were Space_probe.txt 4 476 570 820 870 
+visited Space_probe.txt 2 921 1103 
+mariner Space_probe.txt 3 311 381 393 
+russia Space_probe.txt 1 88 
+and Space_probe.txt 32 15 89 99 110 124 372 452 460 463 465 481 631 687 741 800 804 864 876 916 923 925 955 1086 1127 1155 1183 1203 1246 1303 1322 1338 1395 
+gathering Space_probe.txt 1 1397 
+neptune Space_probe.txt 1 1087 
+modern Space_probe.txt 1 217 
+measure Space_probe.txt 2 1023 1036 
+spectrum Space_probe.txt 1 1370 
+analysis Space_probe.txt 1 324 
+have Space_probe.txt 6 101 330 1102 1115 1340 1378 
+any Space_probe.txt 2 262 964 
+contents Space_probe.txt 1 132 
+relatively Space_probe.txt 1 960 
+u.s Space_probe.txt 1 913 
+russian/french Space_probe.txt 1 682 
+agency Space_probe.txt 2 627 630 
+also Space_probe.txt 3 331 604 1402 
+without Space_probe.txt 1 1280 
+take Space_probe.txt 2 149 742 
+which Space_probe.txt 1 1088 
+transmit Space_probe.txt 1 374 
+new Space_probe.txt 1 1215 
+electric Space_probe.txt 1 834 
+though Space_probe.txt 1 186 
+object Space_probe.txt 3 254 946 996 
+reach Space_probe.txt 1 163 
+victoria Space_probe.txt 1 546 
+landing Space_probe.txt 3 408 417 435 
+gallery Space_probe.txt 1 1399 
+probes Space_probe.txt 9 19 74 80 106 247 612 618 1076 1376 
+km Space_probe.txt 1 544 
+rendezvous Space_probe.txt 2 700 803 
+velocity Space_probe.txt 1 1345 
+typically Space_probe.txt 1 1377 
+planetary Space_probe.txt 1 62 
+atmosphere Space_probe.txt 1 1208 
+probe Space_probe.txt 38 1 6 27 47 138 191 290 315 336 359 399 708 715 721 735 755 764 773 784 795 815 842 858 866 896 929 966 1100 1143 1159 1175 1200 1219 1277 1326 1335 1358 1364 
+venera Space_probe.txt 3 318 353 357 
+radio Space_probe.txt 2 818 838 
+uranus Space_probe.txt 1 1085 
+earth Space_probe.txt 6 37 144 380 853 948 954 
+impact Space_probe.txt 1 338 
+giant Space_probe.txt 1 1148 
+operational Space_probe.txt 4 20 131 905 1123 
+only Space_probe.txt 3 210 574 1099 
+8 Space_probe.txt 1 1285 
+huygens Space_probe.txt 3 407 1165 1184 
+giants Space_probe.txt 2 1084 1106 
+cassinihuygens Space_probe.txt 2 1135 1137 
+distance Space_probe.txt 2 845 878 
+moons Space_probe.txt 3 111 936 1156 
+photograph Space_probe.txt 1 273 
+made Space_probe.txt 3 723 801 995 
+198586 Space_probe.txt 1 595 
+telescope/cameras Space_probe.txt 1 1366 
+during Space_probe.txt 1 593 
+saturn Space_probe.txt 4 868 924 1149 1177 
+h Space_probe.txt 1 8 
+horizons Space_probe.txt 1 1216 
+miles Space_probe.txt 2 542 978 
+three-year Space_probe.txt 1 550 
+activity Space_probe.txt 1 472 
+view Space_probe.txt 1 885 
+farthest Space_probe.txt 1 944 
+achieved Space_probe.txt 1 1342 
+national Space_probe.txt 2 13 914 
+see Space_probe.txt 2 68 1401 
+are Space_probe.txt 1 129 
+close Space_probe.txt 1 662 
+best Space_probe.txt 1 1392 
+techniques Space_probe.txt 1 177 
+propulsion Space_probe.txt 2 218 227 
+away Space_probe.txt 1 950 
+currently Space_probe.txt 4 130 903 1097 1267 
+wikipedia Space_probe.txt 1 2 
+non-soviet Space_probe.txt 1 713 
+3 Space_probe.txt 3 268 413 430 
+simplest Space_probe.txt 1 167 
+orbiting Space_probe.txt 1 1268 
+limit Space_probe.txt 1 1394 
+burned Space_probe.txt 1 1204 
+reading Space_probe.txt 1 1409 
+approach Space_probe.txt 1 49 
+arrival Space_probe.txt 1 386 
+august Space_probe.txt 4 526 986 1072 1284 
+25 Space_probe.txt 1 987 
+agencies Space_probe.txt 1 83 
+clues Space_probe.txt 1 468 
+coma Space_probe.txt 1 740 
+20 Space_probe.txt 4 437 1073 1133 1211 
+prelude Space_probe.txt 1 673 
+both Space_probe.txt 2 952 1341 
+last Space_probe.txt 1 573 
+missions Space_probe.txt 3 128 201 583 
+limits Space_probe.txt 1 215 
+called Space_probe.txt 1 531 
+s Space_probe.txt 1 884 
+became Space_probe.txt 2 395 991 
+planned Space_probe.txt 1 4 
+comet Space_probe.txt 9 586 592 666 667 678 703 729 767 806 
+unclear Space_probe.txt 1 347 
+point Space_probe.txt 2 533 1302 
+reasons Space_probe.txt 1 443 
+period Space_probe.txt 1 551 
+concluding Space_probe.txt 1 1054 
+twin Space_probe.txt 1 538 
+november Space_probe.txt 3 308 390 809 
+japans Space_probe.txt 1 632 
+light Space_probe.txt 1 1396 
+second Space_probe.txt 1 719 
+lunokhod Space_probe.txt 1 294 
+trajectory Space_probe.txt 2 146 239 
+three Space_probe.txt 1 575 
+been Space_probe.txt 2 332 1122 
+much Space_probe.txt 1 1041 
+mars Space_probe.txt 8 388 412 419 429 450 456 474 566 
+entered Space_probe.txt 2 1176 1258 
+in-place Space_probe.txt 1 323 
+systems Space_probe.txt 1 1373 
+giacobinizinner Space_probe.txt 1 668 
+gas Space_probe.txt 1 1147 
+hayabusa Space_probe.txt 1 779 
+craft Space_probe.txt 2 1030 1056 
+external Space_probe.txt 1 1411 
+spirit Space_probe.txt 4 451 459 487 532 
+those Space_probe.txt 1 204 
+case Space_probe.txt 1 589 
+these Space_probe.txt 1 938 
+plasma Space_probe.txt 3 1008 1027 1038 
+air Space_probe.txt 1 14 
+slingshots Space_probe.txt 2 181 221 
+near Space_probe.txt 1 769 
+halley Space_probe.txt 1 577 
+launched Space_probe.txt 10 105 280 478 620 897 1068 1161 1222 1225 1283 
+comets Space_probe.txt 2 125 739 
+jpl Space_probe.txt 1 495 
+almost Space_probe.txt 1 1210 
+is Space_probe.txt 11 28 170 235 346 893 902 942 974 1096 1108 1331 
+thus Space_probe.txt 1 1053 
+site Space_probe.txt 1 409 
+surface Space_probe.txt 4 266 340 352 462 
+in Space_probe.txt 15 11 102 196 281 479 483 587 646 669 808 1016 1046 1206 1213 1264 
+heliopause Space_probe.txt 1 1061 
+make Space_probe.txt 2 659 1304 
+administration Space_probe.txt 1 918 
+complex Space_probe.txt 1 176 
+largest Space_probe.txt 1 1189 
+9 Space_probe.txt 4 250 382 394 525 
+several Space_probe.txt 1 108 
+european Space_probe.txt 2 95 628 
+voyager Space_probe.txt 12 879 882 891 940 972 989 1001 1062 1065 1327 1329 1336 
+trajectories Space_probe.txt 2 134 1349 
+upon Space_probe.txt 1 384 
+arrived Space_probe.txt 1 520 
+robotic Space_probe.txt 2 30 287 
+aggregate Space_probe.txt 1 104 
+opportunity Space_probe.txt 4 453 461 519 557 
+1977 Space_probe.txt 2 900 1074 
+changes Space_probe.txt 1 208 
+1974 Space_probe.txt 1 5 
+well Space_probe.txt 1 117 
+1971 Space_probe.txt 2 392 422 
+1970 Space_probe.txt 1 310 
+contact Space_probe.txt 1 501 
+landmark Space_probe.txt 1 530 
+the Space_probe.txt 74 12 36 50 81 85 91 94 103 113 141 155 159 166 190 214 241 259 274 278 292 305 333 339 356 361 396 406 423 428 455 514 568 580 598 605 622 647 660 710 728 732 792 831 841 908 912 927 935 943 953 956 983 992 1026 1029 1031 1037 1047 1055 1060 1075 1082 1098 1104 1109 1117 1157 1173 1199 1233 1296 1312 1355 1391 
+soviet Space_probe.txt 1 623 
+spend Space_probe.txt 1 193 
+bodies Space_probe.txt 1 63 
+left Space_probe.txt 2 140 1116 
+endeavour Space_probe.txt 1 522 
+sunearth Space_probe.txt 1 1299 
+transmitting Space_probe.txt 1 426 
+sources Space_probe.txt 1 1406 
+atomic Space_probe.txt 1 1281 
+human Space_probe.txt 1 994 
+cape Space_probe.txt 1 1171 
+october Space_probe.txt 2 1092 1167 
+speed Space_probe.txt 1 962 
+coordination Space_probe.txt 1 609 
+rover Space_probe.txt 4 298 448 516 537 
+saturns Space_probe.txt 2 1188 1207 
+had Space_probe.txt 3 517 1005 1057 
+battery Space_probe.txt 1 1282 
+4 Space_probe.txt 2 319 1250 
+shoemaker Space_probe.txt 1 770 
+has Space_probe.txt 4 139 558 1003 1121 
+balloons Space_probe.txt 2 688 691 
+march Space_probe.txt 1 492 
+around Space_probe.txt 3 154 403 1260 
+february Space_probe.txt 1 1272 
+early Space_probe.txt 1 1265 
+vibrations Space_probe.txt 2 1024 1032 
+five Space_probe.txt 1 1112 
+denser Space_probe.txt 1 1042 
+using Space_probe.txt 2 219 224 
+loss Space_probe.txt 1 832 
+tail Space_probe.txt 1 768 
+lost Space_probe.txt 2 821 871 
+toutatis Space_probe.txt 1 1310 
+communications Space_probe.txt 2 819 869 
+vesta Space_probe.txt 1 1251 
+soft Space_probe.txt 3 256 366 416 
+twelve Space_probe.txt 1 563 
+because Space_probe.txt 2 829 1388 
+successfully Space_probe.txt 1 365 
+some Space_probe.txt 2 198 245 
+back Space_probe.txt 1 378 
+stardust Space_probe.txt 1 759 
+examples Space_probe.txt 1 1361 
+escape Space_probe.txt 1 1344 
+images Space_probe.txt 2 744 933 
+transport Space_probe.txt 1 243 
+orbiter Space_probe.txt 1 431 
+primary Space_probe.txt 1 1077 
+for Space_probe.txt 6 75 441 467 560 836 1124 
+measurements Space_probe.txt 1 1044 
+ice Space_probe.txt 3 640 1083 1105 
+moon Space_probe.txt 8 51 260 279 293 300 306 1190 1297 
+pioneer Space_probe.txt 6 7 811 823 854 1318 1320 
+does Space_probe.txt 1 33 
+orbited Space_probe.txt 1 805 
+esa Space_probe.txt 1 1163 
+l2 Space_probe.txt 1 1300 
+inclination Space_probe.txt 1 207 
+regain Space_probe.txt 1 500 
+be Space_probe.txt 5 183 211 1040 1221 1386 
+power Space_probe.txt 2 835 874 
+protoplanet Space_probe.txt 1 1249 
+seconds Space_probe.txt 2 433 438 
+l1 Space_probe.txt 1 758 
+notable Space_probe.txt 1 246 
+broken Space_probe.txt 1 1058 
+although Space_probe.txt 2 344 567 
+by Space_probe.txt 5 621 797 861 1069 1232 
+constrains Space_probe.txt 1 1390 
+on Space_probe.txt 32 9 60 240 258 299 307 368 389 410 418 449 473 489 524 565 613 693 776 825 985 1071 1091 1166 1179 1186 1191 1195 1226 1236 1254 1368 1374 
+about Space_probe.txt 1 975 
+hidden Space_probe.txt 1 1415 
+of Space_probe.txt 34 22 70 78 84 112 122 143 216 233 277 325 341 553 610 664 676 727 745 830 833 846 886 911 934 937 968 1025 1050 1111 1131 1271 1307 1362 1381 
+months Space_probe.txt 2 576 1129 
+practical Space_probe.txt 1 168 
+union Space_probe.txt 1 96 
+efforts Space_probe.txt 1 510 
+or Space_probe.txt 3 58 64 261 
+communication Space_probe.txt 1 485 
+into Space_probe.txt 2 42 655 
+within Space_probe.txt 1 213 
+sol Space_probe.txt 1 490 
+due Space_probe.txt 1 872 
+luna Space_probe.txt 3 249 267 283 
+weather Space_probe.txt 1 690 
+references Space_probe.txt 1 1404 
+artists Space_probe.txt 1 889 
+armada Space_probe.txt 1 578 
+1985 Space_probe.txt 1 670 
+1980 Space_probe.txt 1 1011 
+area Space_probe.txt 1 1398 
+transfer Space_probe.txt 1 173 
+museum Space_probe.txt 1 17 
+there Space_probe.txt 1 377 
+sojourner Space_probe.txt 1 444 
+specifically Space_probe.txt 1 619 
+1989 Space_probe.txt 1 1094 
+heliosphere Space_probe.txt 1 1052 
+inner Space_probe.txt 1 599 
+was Space_probe.txt 12 302 360 603 653 709 926 1067 1079 1138 1160 1201 1292 
+titan Space_probe.txt 2 411 1187 
+5,712kg Space_probe.txt 1 1140 
+forming Space_probe.txt 1 1372 
+but Space_probe.txt 4 38 228 1012 1383 
+aperture Space_probe.txt 1 1384 
+solar Space_probe.txt 12 72 114 600 644 656 751 887 1014 1118 1313 1343 1356 
+russian Space_probe.txt 1 625 
+with Space_probe.txt 11 205 486 513 617 636 701 822 840 1151 1162 1317 
+considerable Space_probe.txt 1 231 
+deployed Space_probe.txt 2 692 1293 
+2210 Space_probe.txt 1 491 
+whether Space_probe.txt 1 348 
+gravitational Space_probe.txt 2 180 220 
+up Space_probe.txt 1 1205 
+planet Space_probe.txt 7 165 327 343 370 405 695 1262 
+exploration Space_probe.txt 1 457 
+jupiter Space_probe.txt 3 817 922 1279 
+similar Space_probe.txt 1 157 
+display Space_probe.txt 1 10 
+detailed Space_probe.txt 1 932 
+orbit Space_probe.txt 12 35 57 153 161 174 402 657 1178 1247 1253 1259 1295 
+an Space_probe.txt 5 152 614 777 788 1333 
+as Space_probe.txt 10 21 116 118 179 203 552 671 967 1130 1270 
+au Space_probe.txt 1 851 
+at Space_probe.txt 6 387 521 528 696 843 958 
+planets Space_probe.txt 3 109 863 939 
+our Space_probe.txt 1 1051 
+suisei Space_probe.txt 1 716 
+dawn Space_probe.txt 1 1240 
+delta-v Space_probe.txt 1 200 
+image Space_probe.txt 1 1371 
+when Space_probe.txt 1 506 
+40 Space_probe.txt 1 1125 
+other Space_probe.txt 3 61 263 965 
+5 Space_probe.txt 2 899 1128 
+fuel-efficient Space_probe.txt 1 185 
+juno Space_probe.txt 1 1274 
+jaxa Space_probe.txt 1 639 
+time Space_probe.txt 2 195 234 
+categories Space_probe.txt 2 1414 1416 
+sun-earth Space_probe.txt 2 649 757 
+meaning Space_probe.txt 1 1346 
+journey Space_probe.txt 1 596 
+nucleus Space_probe.txt 1 747 
+unresponsive Space_probe.txt 1 515 
+billion Space_probe.txt 3 848 977 980 
+land Space_probe.txt 4 59 257 367 775 
+faster Space_probe.txt 1 961 
+diffraction Space_probe.txt 1 1393 
+lasted Space_probe.txt 1 559 
+2003 Space_probe.txt 2 480 828 
+nasa Space_probe.txt 5 507 919 1021 1070 1158 
+2006 Space_probe.txt 1 1229 
+2004 Space_probe.txt 2 484 1182 
+searched Space_probe.txt 1 466 
+far Space_probe.txt 2 275 1048 
+12 Space_probe.txt 3 847 970 976 
+once Space_probe.txt 1 136 

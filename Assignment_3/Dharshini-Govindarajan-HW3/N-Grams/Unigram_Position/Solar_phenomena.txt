@@ -1,0 +1,1120 @@
+magnetically Solar_phenomena.txt 3 42 1922 3724 
+irradiance Solar_phenomena.txt 9 1356 1361 1362 1379 1397 1438 1453 1971 3735 
+all Solar_phenomena.txt 4 113 126 756 2706 
+measurements Solar_phenomena.txt 1 3731 
+oxygenation Solar_phenomena.txt 1 221 
+chinese Solar_phenomena.txt 1 269 
+illustrates Solar_phenomena.txt 1 2175 
+suns Solar_phenomena.txt 15 89 131 155 225 498 780 799 1006 1207 1234 1630 1832 2224 2263 3645 
+magnetic Solar_phenomena.txt 30 94 106 450 910 1041 1050 1060 1067 1101 1134 1186 1542 1838 1934 1955 2036 2165 2172 2182 2752 2840 2847 2862 2868 2937 3168 3283 3646 3650 3666 
+global Solar_phenomena.txt 2 1128 2181 
+angstroms Solar_phenomena.txt 1 32 
+yellow Solar_phenomena.txt 2 608 635 
+facilities Solar_phenomena.txt 1 956 
+spacecraft Solar_phenomena.txt 2 1353 1573 
+per Solar_phenomena.txt 4 1366 1407 2137 2296 
+consists Solar_phenomena.txt 5 445 500 520 1644 2228 
+disk Solar_phenomena.txt 1 565 
+fusing Solar_phenomena.txt 1 680 
+high-altitude Solar_phenomena.txt 1 2592 
+relationships Solar_phenomena.txt 1 1885 
+increase Solar_phenomena.txt 5 2805 2850 2879 2892 3086 
+gases Solar_phenomena.txt 1 1800 
+zone Solar_phenomena.txt 2 2685 2739 
+disturbances Solar_phenomena.txt 4 177 197 2531 3000 
+cycling Solar_phenomena.txt 1 3386 
+to Solar_phenomena.txt 48 118 136 267 349 402 513 728 741 855 1056 1176 1222 1352 1411 1464 1483 1506 1554 1572 1628 1664 1762 1785 1861 2005 2062 2078 2081 2160 2314 2413 2477 2503 2510 2590 2595 2690 2699 2740 2870 2914 3223 3244 3323 3361 3439 3505 3678 
+must Solar_phenomena.txt 2 2086 3635 
+compensate Solar_phenomena.txt 1 2006 
+outwards Solar_phenomena.txt 1 1637 
+excluded Solar_phenomena.txt 1 3273 
+caused Solar_phenomena.txt 7 1897 1908 2529 2658 2830 3041 3075 
+generating Solar_phenomena.txt 1 2403 
+include Solar_phenomena.txt 2 1522 2989 
+associcated Solar_phenomena.txt 1 1022 
+ionizing Solar_phenomena.txt 1 2417 
+g2 Solar_phenomena.txt 1 648 
+far Solar_phenomena.txt 2 3044 3532 
+aurora Solar_phenomena.txt 6 163 1158 2437 2619 2623 2626 
+induce Solar_phenomena.txt 2 1133 3172 
+wave Solar_phenomena.txt 2 58 2836 
+perihelion Solar_phenomena.txt 1 725 
+ultraviolet Solar_phenomena.txt 1 854 
+astronauts Solar_phenomena.txt 2 1355 1575 
+geomagnetically Solar_phenomena.txt 4 2995 3117 3123 3126 
+hodgson Solar_phenomena.txt 1 3609 
+affect Solar_phenomena.txt 2 206 3139 
+reading Solar_phenomena.txt 1 3757 
+condition Solar_phenomena.txt 1 2456 
+common Solar_phenomena.txt 4 2960 2974 3185 3265 
+influenced Solar_phenomena.txt 1 3373 
+induced Solar_phenomena.txt 5 2996 3026 3118 3124 3127 
+clouds Solar_phenomena.txt 3 1274 1286 2538 
+scholar Solar_phenomena.txt 1 3482 
+g-type Solar_phenomena.txt 1 593 
+level Solar_phenomena.txt 1 3134 
+eruptive Solar_phenomena.txt 2 870 1028 
+supports Solar_phenomena.txt 1 754 
+cme Solar_phenomena.txt 8 901 1046 1091 1130 1517 2422 2916 2955 
+granulation Solar_phenomena.txt 2 366 3594 
+list Solar_phenomena.txt 1 2522 
+30-45 Solar_phenomena.txt 1 2061 
+fewer Solar_phenomena.txt 1 1958 
+occurs Solar_phenomena.txt 1 1493 
+large Solar_phenomena.txt 7 547 1111 1607 2382 2651 2786 3160 
+insights Solar_phenomena.txt 1 3716 
+launches Solar_phenomena.txt 1 1146 
+inscribed Solar_phenomena.txt 1 252 
+shows Solar_phenomena.txt 1 3338 
+1940s Solar_phenomena.txt 1 2022 
+20th Solar_phenomena.txt 1 372 
+1128 Solar_phenomena.txt 1 294 
+upper Solar_phenomena.txt 5 156 1418 2225 3096 3231 
+strongly Solar_phenomena.txt 1 1309 
+smaller Solar_phenomena.txt 1 105 
+mid Solar_phenomena.txt 1 3348 
+be Solar_phenomena.txt 15 341 403 1177 1264 1381 1763 2079 2087 2379 2511 2588 2912 3327 3636 3679 
+prominence Solar_phenomena.txt 9 298 1596 1600 1604 1669 1683 1708 1734 1769 
+prediction Solar_phenomena.txt 1 811 
+d Solar_phenomena.txt 1 3070 
+past Solar_phenomena.txt 1 3335 
+surrounding Solar_phenomena.txt 1 2469 
+likely Solar_phenomena.txt 1 233 
+invention Solar_phenomena.txt 4 310 395 3488 3671 
+video Solar_phenomena.txt 2 886 1601 
+displays Solar_phenomena.txt 2 166 3013 
+further Solar_phenomena.txt 2 2520 3756 
+dynamics Solar_phenomena.txt 1 8 
+estimated Solar_phenomena.txt 1 1720 
+aeronomy Solar_phenomena.txt 1 2516 
+spectral Solar_phenomena.txt 2 599 645 
+established Solar_phenomena.txt 2 986 3539 
+sunspots Solar_phenomena.txt 20 75 264 1802 1820 1824 1825 1887 1899 1949 1959 1998 2015 2029 2112 2121 3473 3476 3507 3514 3653 
+wide Solar_phenomena.txt 1 2692 
+sun Solar_phenomena.txt 27 48 409 413 418 427 531 590 666 688 705 740 803 921 1372 1446 1466 1501 1508 1615 1739 2534 2556 3499 3585 3622 3685 3713 
+sum Solar_phenomena.txt 1 111 
+interactions Solar_phenomena.txt 1 2878 
+near Solar_phenomena.txt 4 84 100 917 1313 
+cross-cycle Solar_phenomena.txt 1 1451 
+current Solar_phenomena.txt 1 2895 
+300 Solar_phenomena.txt 1 1983 
+19th Solar_phenomena.txt 1 772 
+experiment Solar_phenomena.txt 1 3740 
+poles Solar_phenomena.txt 3 2704 2763 2790 
+above Solar_phenomena.txt 1 913 
+scientists Solar_phenomena.txt 2 774 1880 
+new Solar_phenomena.txt 1 383 
+net Solar_phenomena.txt 1 1927 
+originate Solar_phenomena.txt 1 1000 
+steel Solar_phenomena.txt 1 3201 
+shocks Solar_phenomena.txt 1 1518 
+polarity Solar_phenomena.txt 2 2037 3661 
+compresses Solar_phenomena.txt 1 2855 
+full Solar_phenomena.txt 2 406 3682 
+led Solar_phenomena.txt 1 348 
+dwarf Solar_phenomena.txt 1 609 
+shuttle Solar_phenomena.txt 1 2447 
+gathered Solar_phenomena.txt 2 554 3528 
+component Solar_phenomena.txt 1 143 
+sunspot Solar_phenomena.txt 14 290 813 1010 1854 1972 2003 2077 2115 2547 2953 3209 3529 3542 3549 
+understanding Solar_phenomena.txt 3 318 788 3702 
+ionization Solar_phenomena.txt 1 1546 
+5778 Solar_phenomena.txt 1 655 
+spaceborne Solar_phenomena.txt 1 2583 
+109 Solar_phenomena.txt 1 463 
+twentieth Solar_phenomena.txt 2 3434 3707 
+groups Solar_phenomena.txt 3 1855 2004 2116 
+kilometers Solar_phenomena.txt 2 1714 1812 
+active Solar_phenomena.txt 5 1002 1916 1923 2546 3725 
+along Solar_phenomena.txt 1 938 
+strong Solar_phenomena.txt 1 93 
+observing Solar_phenomena.txt 2 3497 3711 
+appears Solar_phenomena.txt 2 634 1744 
+change Solar_phenomena.txt 3 818 2071 3421 
+deduced Solar_phenomena.txt 1 3659 
+g2v Solar_phenomena.txt 1 596 
+stellar Solar_phenomena.txt 1 1305 
+great Solar_phenomena.txt 1 220 
+involved Solar_phenomena.txt 1 1564 
+k Solar_phenomena.txt 3 656 2305 2333 
+studied Solar_phenomena.txt 3 404 2467 3680 
+1845 Solar_phenomena.txt 2 357 3578 
+precede Solar_phenomena.txt 1 2420 
+credit Solar_phenomena.txt 1 423 
+resulting Solar_phenomena.txt 1 957 
+launched Solar_phenomena.txt 1 3746 
+millionths Solar_phenomena.txt 1 2102 
+usually Solar_phenomena.txt 2 2030 2236 
+tailward Solar_phenomena.txt 1 2207 
+maunder Solar_phenomena.txt 2 1963 3519 
+changes Solar_phenomena.txt 8 272 1172 1188 1452 2178 3375 3383 3394 
+diameter Solar_phenomena.txt 4 455 1159 1175 2092 
+via Solar_phenomena.txt 1 679 
+followed Solar_phenomena.txt 2 1265 2204 
+modulates Solar_phenomena.txt 1 846 
+moreton Solar_phenomena.txt 1 1035 
+thin Solar_phenomena.txt 1 2398 
+highly Solar_phenomena.txt 1 1321 
+brought Solar_phenomena.txt 1 1070 
+visible Solar_phenomena.txt 5 612 1654 2080 2105 2118 
+anomalies Solar_phenomena.txt 1 796 
+limb Solar_phenomena.txt 1 1212 
+total Solar_phenomena.txt 5 110 486 1233 1395 3733 
+causal Solar_phenomena.txt 1 982 
+cloud Solar_phenomena.txt 2 549 2838 
+conventional Solar_phenomena.txt 1 1425 
+from Solar_phenomena.txt 26 153 333 538 629 703 724 738 853 1001 1163 1253 1444 1613 1704 1782 2060 2119 2158 2222 2474 2486 2545 2552 2701 2932 3274 
+impacts Solar_phenomena.txt 2 1092 1131 
+bernard Solar_phenomena.txt 1 3668 
+distinct Solar_phenomena.txt 1 2485 
+carrington Solar_phenomena.txt 3 2617 3605 3615 
+thermosphere Solar_phenomena.txt 2 2481 2674 
+arching Solar_phenomena.txt 1 1796 
+two Solar_phenomena.txt 2 1064 1293 
+properties Solar_phenomena.txt 1 335 
+chaotic Solar_phenomena.txt 1 98 
+ionization/plasma Solar_phenomena.txt 1 3066 
+6 Solar_phenomena.txt 2 1223 2691 
+radar Solar_phenomena.txt 1 3005 
+reconnection Solar_phenomena.txt 3 1042 1051 1135 
+metric Solar_phenomena.txt 1 693 
+0.001 Solar_phenomena.txt 1 1179 
+more Solar_phenomena.txt 9 1249 1786 2018 2348 2362 2793 2959 2973 3264 
+conductor Solar_phenomena.txt 2 3146 3189 
+fast-moving Solar_phenomena.txt 1 2383 
+occurred Solar_phenomena.txt 1 2608 
+disruption Solar_phenomena.txt 2 2569 3007 
+heliosphere Solar_phenomena.txt 1 2402 
+informally Solar_phenomena.txt 1 604 
+known Solar_phenomena.txt 6 1303 1328 1988 2605 2614 2681 
+given Solar_phenomena.txt 1 1055 
+disabling Solar_phenomena.txt 1 2578 
+circle Solar_phenomena.txt 1 2652 
+had Solar_phenomena.txt 3 775 2016 3695 
+1991 Solar_phenomena.txt 1 2450 
+tnt Solar_phenomena.txt 1 1244 
+mf Solar_phenomena.txt 1 3099 
+f Solar_phenomena.txt 1 660 
+this Solar_phenomena.txt 11 11 733 752 787 828 1072 1118 1145 1749 1985 2069 
+decay Solar_phenomena.txt 1 3246 
+mi Solar_phenomena.txt 4 461 715 1726 2099 
+longitude Solar_phenomena.txt 1 2257 
+remain Solar_phenomena.txt 1 801 
+itself Solar_phenomena.txt 1 1117 
+can Solar_phenomena.txt 16 178 211 945 1132 1317 1336 1521 1538 1578 1804 2130 2260 2378 2557 3192 3326 
+v Solar_phenomena.txt 1 662 
+example Solar_phenomena.txt 2 2433 3718 
+history Solar_phenomena.txt 1 3444 
+ions Solar_phenomena.txt 4 1277 1528 1531 2773 
+modulation Solar_phenomena.txt 1 3719 
+stream Solar_phenomena.txt 4 149 2218 2243 2921 
+0.3 Solar_phenomena.txt 1 1901 
+high Solar_phenomena.txt 7 1646 2268 2638 2671 2919 3065 3102 
+indicates Solar_phenomena.txt 2 649 663 
+minimum Solar_phenomena.txt 3 1964 2978 3520 
+allowed Solar_phenomena.txt 3 314 399 3675 
+present-day Solar_phenomena.txt 1 795 
+hydrogen Solar_phenomena.txt 3 502 681 696 
+spe Solar_phenomena.txt 1 1489 
+thomas Solar_phenomena.txt 1 3500 
+charged Solar_phenomena.txt 2 2666 2719 
+terrestrial Solar_phenomena.txt 2 838 2487 
+huge Solar_phenomena.txt 1 1793 
+rays Solar_phenomena.txt 2 1413 3270 
+end Solar_phenomena.txt 1 234 
+rather Solar_phenomena.txt 2 1560 3261 
+conversely Solar_phenomena.txt 1 1950 
+travel Solar_phenomena.txt 2 2131 2760 
+lyots Solar_phenomena.txt 1 3669 
+feature Solar_phenomena.txt 2 931 1610 
+occur Solar_phenomena.txt 1 2677 
+1 Solar_phenomena.txt 2 708 3600 
+located Solar_phenomena.txt 1 431 
+hot Solar_phenomena.txt 2 447 579 
+astronomers Solar_phenomena.txt 1 3495 
+influences Solar_phenomena.txt 2 835 858 
+sid Solar_phenomena.txt 2 3061 3081 
+instead Solar_phenomena.txt 1 1740 
+whose Solar_phenomena.txt 1 3693 
+filament Solar_phenomena.txt 2 1755 1766 
+coronagraph Solar_phenomena.txt 2 398 3674 
+experience Solar_phenomena.txt 1 3159 
+sabine Solar_phenomena.txt 1 3558 
+galactic Solar_phenomena.txt 1 3268 
+description Solar_phenomena.txt 1 279 
+information Solar_phenomena.txt 1 2521 
+may Solar_phenomena.txt 9 20 1263 1380 1693 1814 1965 2449 2587 2911 
+after Solar_phenomena.txt 4 1294 1390 2065 3486 
+damaged Solar_phenomena.txt 1 3203 
+hazard Solar_phenomena.txt 1 1571 
+fluid Solar_phenomena.txt 1 3637 
+produce Solar_phenomena.txt 2 1318 2558 
+richard Solar_phenomena.txt 1 3603 
+records Solar_phenomena.txt 1 3466 
+waves Solar_phenomena.txt 4 1033 1036 2395 2405 
+such Solar_phenomena.txt 8 62 214 1008 1525 1960 2506 3188 3195 
+law Solar_phenomena.txt 1 2074 
+data Solar_phenomena.txt 1 1161 
+types Solar_phenomena.txt 1 872 
+a Solar_phenomena.txt 85 28 81 97 140 148 229 296 380 429 454 543 546 592 607 671 792 885 897 903 1077 1090 1121 1127 1195 1199 1229 1267 1290 1330 1345 1400 1424 1431 1440 1485 1510 1568 1585 1603 1606 1623 1673 1682 1706 1733 1753 1760 1765 1768 2010 2076 2133 2188 2190 2206 2217 2290 2300 2307 2311 2322 2328 2361 2628 2650 2679 2733 2819 2823 2832 2909 2915 2918 2933 3020 3057 3077 3084 3108 3130 3331 3416 3540 3566 3612 
+natural Solar_phenomena.txt 3 37 164 2629 
+dynamical Solar_phenomena.txt 1 2177 
+correlate Solar_phenomena.txt 1 1966 
+light Solar_phenomena.txt 6 26 165 642 736 1655 2630 
+sq Solar_phenomena.txt 1 2098 
+lines Solar_phenomena.txt 2 1062 2212 
+interrupted Solar_phenomena.txt 1 2380 
+corona Solar_phenomena.txt 9 283 401 916 1282 1640 1643 2316 3471 3677 
+south Solar_phenomena.txt 1 3045 
+he Solar_phenomena.txt 1 3538 
+accelerated Solar_phenomena.txt 2 1503 2767 
+so Solar_phenomena.txt 1 1773 
+speeds Solar_phenomena.txt 1 1780 
+every Solar_phenomena.txt 2 926 934 
+800,000 Solar_phenomena.txt 1 1723 
+scintillation Solar_phenomena.txt 1 3006 
+divided Solar_phenomena.txt 1 2274 
+wind Solar_phenomena.txt 27 56 147 908 1327 2143 2148 2156 2202 2215 2272 2279 2284 2288 2320 2342 2356 2359 2377 2464 2664 2723 2749 2811 2834 2853 2930 3288 
+typical Solar_phenomena.txt 2 1707 2323 
+produces Solar_phenomena.txt 1 922 
+september Solar_phenomena.txt 2 2610 3601 
+astronomical Solar_phenomena.txt 2 709 1435 
+move Solar_phenomena.txt 1 2127 
+midnight Solar_phenomena.txt 1 1140 
+soon Solar_phenomena.txt 1 3485 
+years Solar_phenomena.txt 7 536 827 1984 2028 3337 3351 3357 
+produced Solar_phenomena.txt 2 1369 3228 
+course Solar_phenomena.txt 1 2186 
+including Solar_phenomena.txt 5 54 524 2461 2472 2573 
+aurorae Solar_phenomena.txt 3 2601 3042 3516 
+penetrate Solar_phenomena.txt 1 1539 
+still Solar_phenomena.txt 1 790 
+ejects Solar_phenomena.txt 1 1273 
+its Solar_phenomena.txt 10 420 469 587 611 650 677 685 2755 3425 3665 
+hze Solar_phenomena.txt 1 1530 
+regions Solar_phenomena.txt 6 1003 1917 2367 2548 2643 3726 
+outer Solar_phenomena.txt 2 44 3633 
+tsi Solar_phenomena.txt 3 1398 1429 3736 
+joules Solar_phenomena.txt 1 1225 
+varies Solar_phenomena.txt 2 719 2246 
+decreases Solar_phenomena.txt 2 1896 2950 
+actually Solar_phenomena.txt 1 626 
+forms Solar_phenomena.txt 5 53 972 1017 1684 2649 
+production Solar_phenomena.txt 5 3216 3294 3319 3342 3371 
+projection Solar_phenomena.txt 1 1761 
+persist Solar_phenomena.txt 2 1694 1946 
+latitude Solar_phenomena.txt 3 2056 2639 2694 
+protons Solar_phenomena.txt 7 1147 1497 1559 1566 1577 2233 2410 
+weeks Solar_phenomena.txt 1 1696 
+main Solar_phenomena.txt 17 411 807 878 1191 1358 1470 1593 1822 2145 2428 2621 2815 3052 3121 3405 3417 3446 
+image Solar_phenomena.txt 3 12 24 415 
+2013 Solar_phenomena.txt 1 22 
+eventually Solar_phenomena.txt 1 582 
+within Solar_phenomena.txt 6 40 129 545 1581 2457 3387 
+babylonians Solar_phenomena.txt 2 251 3464 
+matches Solar_phenomena.txt 1 2336 
+similar Solar_phenomena.txt 3 1297 1553 1661 
+anchored Solar_phenomena.txt 1 1627 
+largest Solar_phenomena.txt 1 1716 
+1817 Solar_phenomena.txt 1 3525 
+break Solar_phenomena.txt 1 1701 
+flash Solar_phenomena.txt 1 1201 
+transmissions Solar_phenomena.txt 1 948 
+hale Solar_phenomena.txt 2 3642 3654 
+effects Solar_phenomena.txt 2 1536 2423 
+they Solar_phenomena.txt 10 1155 1262 1316 1537 1776 2126 2140 2392 2656 2765 
+hundred Solar_phenomena.txt 2 1674 2135 
+satellites Solar_phenomena.txt 3 951 2580 3709 
+x1.2 Solar_phenomena.txt 1 15 
+separately Solar_phenomena.txt 1 3607 
+day Solar_phenomena.txt 3 927 1291 1691 
+kilometres Solar_phenomena.txt 4 459 1724 2096 2295 
+term Solar_phenomena.txt 2 2495 3367 
+name Solar_phenomena.txt 1 1054 
+oxygen Solar_phenomena.txt 1 525 
+brightness Solar_phenomena.txt 1 1203 
+edit Solar_phenomena.txt 26 410 806 873 877 1160 1190 1357 1469 1592 1821 2144 2424 2427 2519 2620 2814 3051 3120 3208 3404 3445 3751 3753 3755 3758 3761 
+january Solar_phenomena.txt 1 727 
+radiant Solar_phenomena.txt 1 1938 
+gautier Solar_phenomena.txt 1 3560 
+composition Solar_phenomena.txt 3 782 1663 2308 
+oppositely Solar_phenomena.txt 2 1065 1086 
+transmission Solar_phenomena.txt 2 954 3179 
+bursts Solar_phenomena.txt 2 61 2384 
+each Solar_phenomena.txt 3 697 1237 2052 
+rising Solar_phenomena.txt 1 912 
+ellery Solar_phenomena.txt 1 3641 
+side Solar_phenomena.txt 1 1141 
+referred Solar_phenomena.txt 2 117 135 
+few Solar_phenomena.txt 1 2134 
+square Solar_phenomena.txt 1 2095 
+transforming Solar_phenomena.txt 1 3248 
+telescope Solar_phenomena.txt 1 313 
+weight Solar_phenomena.txt 1 3258 
+series Solar_phenomena.txt 1 889 
+energy Solar_phenomena.txt 14 60 678 750 786 1081 1218 1227 1235 1250 1860 1874 2269 2778 2873 
+700 Solar_phenomena.txt 1 2101 
+related Solar_phenomena.txt 3 241 3222 3453 
+inverted Solar_phenomena.txt 1 3214 
+frequency Solar_phenomena.txt 4 860 2944 3098 3103 
+increases Solar_phenomena.txt 2 1905 2948 
+high-voltage Solar_phenomena.txt 1 3204 
+measure Solar_phenomena.txt 3 1401 1426 3555 
+ionosphere Solar_phenomena.txt 6 200 1549 2479 2900 3074 3158 
+wavelength Solar_phenomena.txt 1 29 
+operation Solar_phenomena.txt 1 3142 
+event Solar_phenomena.txt 7 222 1296 1333 1468 1474 1488 2618 
+standard Solar_phenomena.txt 1 3554 
+travels Solar_phenomena.txt 1 737 
+network Solar_phenomena.txt 1 1925 
+part Solar_phenomena.txt 1 2512 
+space Solar_phenomena.txt 17 138 175 836 1284 1311 1384 1515 1742 2425 2430 2435 2446 2451 2482 2980 3136 3149 
+since Solar_phenomena.txt 3 246 2020 3459 
+induces Solar_phenomena.txt 1 3241 
+george Solar_phenomena.txt 1 3640 
+particles Solar_phenomena.txt 11 1323 1335 1476 1495 1533 2245 2259 2408 2668 2720 2756 
+collisions Solar_phenomena.txt 1 2770 
+7 Solar_phenomena.txt 1 2064 
+daguerreotypy Solar_phenomena.txt 1 347 
+cause Solar_phenomena.txt 7 179 1534 1545 2393 2600 3002 3193 
+arctic Solar_phenomena.txt 2 172 2640 
+red Solar_phenomena.txt 1 230 
+chemically Solar_phenomena.txt 1 492 
+achievements Solar_phenomena.txt 1 3700 
+doppler Solar_phenomena.txt 1 1166 
+found Solar_phenomena.txt 2 2013 3565 
+million Solar_phenomena.txt 1 692 
+interplanetary Solar_phenomena.txt 3 1514 2388 2905 
+unexplained Solar_phenomena.txt 1 802 
+isotope Solar_phenomena.txt 1 3252 
+drives Solar_phenomena.txt 2 763 2908 
+abnormally Solar_phenomena.txt 1 3064 
+formation Solar_phenomena.txt 1 1750 
+trends Solar_phenomena.txt 1 3368 
+radiating Solar_phenomena.txt 2 1833 1877 
+earliest Solar_phenomena.txt 2 260 289 
+telescopes Solar_phenomena.txt 2 389 3490 
+pairs Solar_phenomena.txt 1 2033 
+interaction Solar_phenomena.txt 2 2168 2923 
+biosphere Solar_phenomena.txt 1 3389 
+flare Solar_phenomena.txt 8 18 1194 1197 1272 1511 2542 3079 3614 
+could Solar_phenomena.txt 1 340 
+cosmic Solar_phenomena.txt 2 3234 3269 
+days Solar_phenomena.txt 2 936 1817 
+interplanetar Solar_phenomena.txt 1 2171 
+times Solar_phenomena.txt 6 464 476 515 1248 1675 1968 
+massive Solar_phenomena.txt 2 904 960 
+conductors Solar_phenomena.txt 1 3177 
+undergo Solar_phenomena.txt 1 3245 
+shoemakerlevy Solar_phenomena.txt 1 1258 
+frequent Solar_phenomena.txt 3 1014 2019 2794 
+first Solar_phenomena.txt 7 277 321 351 2141 3504 3582 3610 
+origin Solar_phenomena.txt 1 944 
+major Solar_phenomena.txt 4 141 315 1586 3699 
+620 Solar_phenomena.txt 1 691 
+acrim1 Solar_phenomena.txt 1 3739 
+periodically Solar_phenomena.txt 1 819 
+powerful Solar_phenomena.txt 2 995 1774 
+number Solar_phenomena.txt 8 381 793 1980 1992 1996 2001 3543 3550 
+one Solar_phenomena.txt 2 933 1434 
+inhibits Solar_phenomena.txt 1 1840 
+long Solar_phenomena.txt 3 1727 3144 3366 
+directly Solar_phenomena.txt 1 1461 
+changing Solar_phenomena.txt 1 1103 
+antarctic Solar_phenomena.txt 2 174 2642 
+0.05 Solar_phenomena.txt 1 1907 
+michelson Solar_phenomena.txt 1 1165 
+earths Solar_phenomena.txt 22 192 207 631 700 764 1094 1100 1137 1152 1339 1388 1417 1479 1541 2164 2731 2751 2828 2846 2867 3167 3378 
+little Solar_phenomena.txt 1 776 
+radio-wave Solar_phenomena.txt 1 3088 
+temperature Solar_phenomena.txt 6 652 1647 1879 2249 2301 2329 
+become Solar_phenomena.txt 1 1502 
+interact Solar_phenomena.txt 1 1477 
+sep Solar_phenomena.txt 1 2993 
+system Solar_phenomena.txt 5 438 491 573 2460 3277 
+approximately Solar_phenomena.txt 4 474 654 707 2110 
+heights Solar_phenomena.txt 1 1806 
+their Solar_phenomena.txt 1 2267 
+ionospheric Solar_phenomena.txt 5 196 2999 3049 3055 3059 
+2 Solar_phenomena.txt 2 355 3576 
+rates Solar_phenomena.txt 1 3626 
+observations Solar_phenomena.txt 3 323 2039 3530 
+storm Solar_phenomena.txt 10 1123 1347 1492 2607 2735 2813 2818 2821 2910 3023 
+white Solar_phenomena.txt 1 627 
+perfectly Solar_phenomena.txt 1 442 
+ranging Solar_phenomena.txt 1 1781 
+gps Solar_phenomena.txt 1 2574 
+originating Solar_phenomena.txt 1 2931 
+pipelines Solar_phenomena.txt 1 3183 
+collapse Solar_phenomena.txt 1 541 
+mostly Solar_phenomena.txt 5 507 1162 1496 2230 2409 
+that Solar_phenomena.txt 29 91 103 465 477 566 664 1558 1665 1775 1803 1851 1912 2014 2174 2309 2419 2504 2648 2842 2907 3001 3028 3090 3339 3430 3551 3620 3631 3663 
+latitudes Solar_phenomena.txt 3 2742 3017 3629 
+relative Solar_phenomena.txt 3 2049 3322 3541 
+lamont Solar_phenomena.txt 1 3563 
+released Solar_phenomena.txt 3 152 1252 2221 
+shock Solar_phenomena.txt 2 2394 2835 
+manifestation Solar_phenomena.txt 1 3131 
+july Solar_phenomena.txt 1 731 
+surged Solar_phenomena.txt 1 377 
+than Solar_phenomena.txt 11 1182 1251 1561 1679 1746 1787 1948 2023 2352 3018 3262 
+traps Solar_phenomena.txt 1 2754 
+11 Solar_phenomena.txt 1 826 
+10 Solar_phenomena.txt 6 472 1224 2240 2304 2332 2698 
+colleagues Solar_phenomena.txt 1 3657 
+observatory Solar_phenomena.txt 1 9 
+14 Solar_phenomena.txt 2 21 3260 
+19 Solar_phenomena.txt 1 747 
+tree Solar_phenomena.txt 1 3317 
+second Solar_phenomena.txt 4 698 1238 2138 2297 
+telecommunications Solar_phenomena.txt 1 3115 
+glowing Solar_phenomena.txt 1 1799 
+matter Solar_phenomena.txt 2 553 1778 
+autumn Solar_phenomena.txt 1 2716 
+determined Solar_phenomena.txt 1 342 
+disrupted Solar_phenomena.txt 1 3029 
+iron Solar_phenomena.txt 1 529 
+were Solar_phenomena.txt 2 385 2508 
+dynamo Solar_phenomena.txt 2 83 99 
+timescales Solar_phenomena.txt 1 1686 
+interacts Solar_phenomena.txt 2 2843 2864 
+toward Solar_phenomena.txt 3 1151 2761 2768 
+photosynthesis Solar_phenomena.txt 1 761 
+quebec Solar_phenomena.txt 1 3039 
+and Solar_phenomena.txt 114 74 96 173 194 218 240 253 295 367 444 449 468 528 580 601 661 674 762 766 783 834 840 857 867 909 949 952 961 1034 1047 1109 1124 1148 1278 1348 1354 1393 1450 1529 1544 1574 1590 1635 1677 1692 1703 1767 1842 1866 1871 1888 1945 1957 1999 2045 2047 2123 2129 2232 2239 2250 2254 2280 2306 2334 2347 2368 2374 2406 2411 2480 2492 2561 2576 2581 2594 2612 2641 2665 2695 2715 2721 2774 2795 2858 2890 2899 2949 3004 3011 3040 3100 3106 3157 3181 3202 3303 3315 3329 3353 3381 3409 3452 3472 3515 3561 3572 3580 3596 3606 3616 3630 3648 3655 
+1.5 Solar_phenomena.txt 1 2238 
+clip Solar_phenomena.txt 1 1602 
+150,000,000 Solar_phenomena.txt 1 712 
+categories Solar_phenomena.txt 2 3762 3764 
+ages Solar_phenomena.txt 2 217 3402 
+spectrum Solar_phenomena.txt 1 623 
+500,000 Solar_phenomena.txt 1 1725 
+auroral Solar_phenomena.txt 4 1555 2684 2738 3012 
+auroras Solar_phenomena.txt 4 2676 2743 2783 2791 
+stratosphere Solar_phenomena.txt 1 2493 
+medium Solar_phenomena.txt 2 2906 3097 
+buried Solar_phenomena.txt 1 3182 
+have Solar_phenomena.txt 4 243 992 3440 3455 
+close Solar_phenomena.txt 2 1505 2312 
+concentration Solar_phenomena.txt 1 3297 
+contents Solar_phenomena.txt 1 408 
+relatively Solar_phenomena.txt 1 1827 
+geomagnetic Solar_phenomena.txt 15 189 1122 1346 2560 2598 2703 2734 2812 2817 2820 2946 2986 3022 3379 3573 
+false-color Solar_phenomena.txt 1 414 
+built Solar_phenomena.txt 1 386 
+climate Solar_phenomena.txt 6 208 765 841 3403 3410 3420 
+responsible Solar_phenomena.txt 2 160 1044 
+gravity Solar_phenomena.txt 1 2264 
+1610 Solar_phenomena.txt 1 3509 
+also Solar_phenomena.txt 6 205 845 1037 1987 3164 3750 
+movement Solar_phenomena.txt 1 2881 
+causing Solar_phenomena.txt 1 2566 
+take Solar_phenomena.txt 1 51 
+which Solar_phenomena.txt 7 334 1213 1649 2686 2759 3138 3162 
+photosphere Solar_phenomena.txt 4 1634 1835 1845 1863 
+17th-century Solar_phenomena.txt 1 3479 
+bombardment Solar_phenomena.txt 1 3236 
+vegetation Solar_phenomena.txt 1 3399 
+circles Solar_phenomena.txt 1 2787 
+blue Solar_phenomena.txt 2 641 3211 
+play Solar_phenomena.txt 2 883 1597 
+multiple Solar_phenomena.txt 1 1535 
+electric Solar_phenomena.txt 5 2888 2894 3030 3152 3178 
+though Solar_phenomena.txt 1 716 
+reach Solar_phenomena.txt 3 1288 1579 1805 
+most Solar_phenomena.txt 14 550 615 668 976 987 994 998 1457 2535 2603 2675 2710 3034 3092 
+93,000,000 Solar_phenomena.txt 1 714 
+significant Solar_phenomena.txt 3 1569 2604 3442 
+phase Solar_phenomena.txt 1 2802 
+america Solar_phenomena.txt 1 379 
+measured Solar_phenomena.txt 3 1382 1976 3328 
+class Solar_phenomena.txt 3 16 600 646 
+damage Solar_phenomena.txt 1 950 
+appear Solar_phenomena.txt 4 969 2031 2142 3438 
+especially Solar_phenomena.txt 2 2468 2635 
+chronicle Solar_phenomena.txt 1 306 
+environmental Solar_phenomena.txt 1 2455 
+stretching Solar_phenomena.txt 1 2208 
+average Solar_phenomena.txt 2 734 822 
+later Solar_phenomena.txt 2 3658 3706 
+flow Solar_phenomena.txt 3 1858 1870 2198 
+km Solar_phenomena.txt 2 713 2090 
+1,000 Solar_phenomena.txt 1 3356 
+points Solar_phenomena.txt 1 1460 
+electrons Solar_phenomena.txt 5 1149 1276 1562 2231 2412 
+soho Solar_phenomena.txt 1 1170 
+warming Solar_phenomena.txt 1 3429 
+velocity Solar_phenomena.txt 2 2291 2324 
+left Solar_phenomena.txt 1 2159 
+typically Solar_phenomena.txt 3 1287 1672 2688 
+assisted Solar_phenomena.txt 2 359 3587 
+laws Solar_phenomena.txt 1 3662 
+atmosphere Solar_phenomena.txt 10 157 339 1153 1419 2226 2443 2673 2728 2776 3232 
+particularly Solar_phenomena.txt 1 3390 
+phenomenon Solar_phenomena.txt 2 1129 2624 
+show Solar_phenomena.txt 2 25 1171 
+german Solar_phenomena.txt 1 3480 
+thermonuclear Solar_phenomena.txt 1 584 
+17th Solar_phenomena.txt 1 1893 
+discovered Solar_phenomena.txt 1 3619 
+elevate Solar_phenomena.txt 1 1875 
+bright Solar_phenomena.txt 2 1608 1924 
+radio Solar_phenomena.txt 3 57 947 3003 
+ray Solar_phenomena.txt 1 3235 
+earth Solar_phenomena.txt 18 183 237 467 479 519 722 742 759 1116 1289 1315 1455 1580 2120 2151 2441 2471 2769 
+longer Solar_phenomena.txt 1 1947 
+ground Solar_phenomena.txt 3 1113 3025 3133 
+impact Solar_phenomena.txt 2 1255 1337 
+giant Solar_phenomena.txt 1 231 
+slow Solar_phenomena.txt 5 2277 2286 2340 2358 2375 
+based Solar_phenomena.txt 1 597 
+knowledge Solar_phenomena.txt 1 777 
+icmes Solar_phenomena.txt 1 2391 
+hf Solar_phenomena.txt 1 3104 
+explain Solar_phenomena.txt 1 212 
+storms Solar_phenomena.txt 12 181 190 2518 2525 2527 2563 2586 2599 2947 2957 2971 2987 
+3 Solar_phenomena.txt 1 2689 
+brighter Solar_phenomena.txt 2 1849 2796 
+only Solar_phenomena.txt 1 3691 
+wood Solar_phenomena.txt 2 3314 3325 
+notes Solar_phenomena.txt 1 3752 
+eruptions Solar_phenomena.txt 1 71 
+jesuit Solar_phenomena.txt 1 3481 
+8 Solar_phenomena.txt 2 745 2331 
+constant Solar_phenomena.txt 1 1422 
+partially Solar_phenomena.txt 1 3272 
+thousands Solar_phenomena.txt 2 1712 1810 
+over Solar_phenomena.txt 11 820 1205 1246 1685 1710 1722 1801 2107 2252 2255 3422 
+columns Solar_phenomena.txt 1 1797 
+photographs Solar_phenomena.txt 1 353 
+do Solar_phenomena.txt 3 990 997 1650 
+his Solar_phenomena.txt 1 3656 
+reconstruction Solar_phenomena.txt 1 3332 
+400 Solar_phenomena.txt 1 2294 
+distance Solar_phenomena.txt 5 702 718 735 1432 1443 
+photography Solar_phenomena.txt 2 358 3586 
+chromosphere Solar_phenomena.txt 1 1668 
+designated Solar_phenomena.txt 1 605 
+particle Solar_phenomena.txt 1 2992 
+mission Solar_phenomena.txt 1 3745 
+25,000 Solar_phenomena.txt 1 1247 
+ones Solar_phenomena.txt 1 996 
+rest Solar_phenomena.txt 2 505 560 
+compass Solar_phenomena.txt 2 1107 3009 
+report Solar_phenomena.txt 1 262 
+during Solar_phenomena.txt 10 1509 1929 2797 2961 2975 3148 3300 3305 3346 3517 
+vividly Solar_phenomena.txt 1 2711 
+interpreted Solar_phenomena.txt 1 1215 
+1,392,684 Solar_phenomena.txt 1 458 
+troposphere Solar_phenomena.txt 1 2491 
+nearly Solar_phenomena.txt 1 2335 
+areas Solar_phenomena.txt 2 1829 1850 
+reveal Solar_phenomena.txt 1 2040 
+1.41.6 Solar_phenomena.txt 1 2303 
+spots Solar_phenomena.txt 1 2058 
+covering Solar_phenomena.txt 1 2093 
+fields Solar_phenomena.txt 7 95 451 911 1068 1088 2889 3284 
+fizeau Solar_phenomena.txt 1 3579 
+twice Solar_phenomena.txt 1 2344 
+predicted Solar_phenomena.txt 1 255 
+activity Solar_phenomena.txt 16 4 239 975 1020 1187 1839 1935 1956 1973 3225 3291 3365 3408 3413 3451 3574 
+release Solar_phenomena.txt 3 1079 1219 2777 
+through Solar_phenomena.txt 2 1280 2882 
+cycles Solar_phenomena.txt 2 2109 2800 
+where Solar_phenomena.txt 3 1154 1836 2764 
+latitudinal Solar_phenomena.txt 1 2070 
+irradiation Solar_phenomena.txt 1 833 
+temporarily Solar_phenomena.txt 1 1097 
+nitrogen Solar_phenomena.txt 2 3239 3243 
+burst Solar_phenomena.txt 1 905 
+declines Solar_phenomena.txt 1 2059 
+turbulent Solar_phenomena.txt 2 421 2366 
+maximum Solar_phenomena.txt 3 2068 2964 3744 
+observed Solar_phenomena.txt 4 1204 2444 2696 3611 
+opposite Solar_phenomena.txt 1 2035 
+intensity Solar_phenomena.txt 3 204 2351 2807 
+radius Solar_phenomena.txt 1 1731 
+are Solar_phenomena.txt 28 35 78 1027 1069 1302 1563 1567 1626 1772 1826 1847 1902 1913 1943 2117 2528 2657 2724 2744 2766 2792 2958 2972 2983 3129 3184 3271 3372 
+enhanced Solar_phenomena.txt 2 1932 2197 
+magnetotail Solar_phenomena.txt 1 1138 
+sunspot-blocked Solar_phenomena.txt 1 1873 
+geologic Solar_phenomena.txt 1 3423 
+outward Solar_phenomena.txt 2 1612 3280 
+considered Solar_phenomena.txt 1 2509 
+regularly Solar_phenomena.txt 1 3457 
+record Solar_phenomena.txt 2 1718 3210 
+speed Solar_phenomena.txt 2 2251 2920 
+illustration Solar_phenomena.txt 1 3474 
+wikipedia Solar_phenomena.txt 1 2 
+label Solar_phenomena.txt 1 647 
+main-sequence Solar_phenomena.txt 2 594 672 
+future Solar_phenomena.txt 1 226 
+between Solar_phenomena.txt 5 1886 2237 2771 3400 3568 
+orbiting Solar_phenomena.txt 1 564 
+drawn Solar_phenomena.txt 1 3477 
+previous Solar_phenomena.txt 1 2026 
+conditions Solar_phenomena.txt 1 2473 
+deforms Solar_phenomena.txt 1 1098 
+discovery Solar_phenomena.txt 1 2448 
+faculae Solar_phenomena.txt 3 1846 1911 1942 
+recently Solar_phenomena.txt 1 769 
+august Solar_phenomena.txt 1 895 
+extend Solar_phenomena.txt 1 1636 
+nature Solar_phenomena.txt 1 3651 
+emitted Solar_phenomena.txt 1 1498 
+weak Solar_phenomena.txt 2 988 2936 
+yellow-green Solar_phenomena.txt 1 619 
+incident Solar_phenomena.txt 1 1414 
+outages Solar_phenomena.txt 2 964 2568 
+recent Solar_phenomena.txt 2 2108 3324 
+article Solar_phenomena.txt 16 412 808 879 1192 1359 1471 1594 1823 2146 2429 2622 2816 3053 3122 3406 3447 
+atoms Solar_phenomena.txt 1 1279 
+both Solar_phenomena.txt 6 1764 1867 1909 1994 2371 2877 
+c Solar_phenomena.txt 9 273 658 3213 3220 3293 3296 3312 3341 3604 
+providing Solar_phenomena.txt 1 3714 
+last Solar_phenomena.txt 1 1815 
+many Solar_phenomena.txt 5 52 815 1711 2757 3715 
+region Solar_phenomena.txt 4 544 2924 2934 3071 
+density Solar_phenomena.txt 2 2248 3067 
+heating Solar_phenomena.txt 1 73 
+against Solar_phenomena.txt 1 1737 
+emit Solar_phenomena.txt 1 1652 
+april Solar_phenomena.txt 2 356 3577 
+s Solar_phenomena.txt 4 6 1616 2152 2442 
+became Solar_phenomena.txt 3 567 577 3552 
+streams Solar_phenomena.txt 1 1319 
+dated Solar_phenomena.txt 1 3330 
+comet Solar_phenomena.txt 1 1257 
+technology Solar_phenomena.txt 1 2584 
+magnetosphere Solar_phenomena.txt 15 193 1095 1144 1340 1480 2153 2195 2476 2732 2829 2857 2876 2884 2898 3156 
+1.69 Solar_phenomena.txt 1 511 
+yearly Solar_phenomena.txt 1 2043 
+minima Solar_phenomena.txt 3 930 2044 3307 
+extent Solar_phenomena.txt 1 3397 
+large-scale Solar_phenomena.txt 1 2369 
+5,505 Solar_phenomena.txt 1 657 
+cmes Solar_phenomena.txt 7 925 937 993 1705 2389 2543 2804 
+sweep Solar_phenomena.txt 1 3281 
+proton Solar_phenomena.txt 6 1332 1467 1473 1487 1491 2562 
+50,000 Solar_phenomena.txt 1 2089 
+tons Solar_phenomena.txt 1 694 
+right Solar_phenomena.txt 1 2161 
+carbon Solar_phenomena.txt 3 526 3254 3385 
+observatories Solar_phenomena.txt 1 384 
+250 Solar_phenomena.txt 1 2298 
+throughout Solar_phenomena.txt 1 3033 
+100 Solar_phenomena.txt 1 2111 
+unusual Solar_phenomena.txt 1 3251 
+described Solar_phenomena.txt 3 300 3467 3664 
+sprers Solar_phenomena.txt 1 2073 
+instrument Solar_phenomena.txt 1 1168 
+addition Solar_phenomena.txt 1 3360 
+pipeline Solar_phenomena.txt 1 3200 
+radiative Solar_phenomena.txt 1 1405 
+three Solar_phenomena.txt 2 494 924 
+been Solar_phenomena.txt 8 244 985 1975 2017 3415 3441 3456 3696 
+fuses Solar_phenomena.txt 1 689 
+330,000 Solar_phenomena.txt 1 475 
+interest Solar_phenomena.txt 1 374 
+systems Solar_phenomena.txt 4 2575 3116 3147 3190 
+life Solar_phenomena.txt 2 235 757 
+counting Solar_phenomena.txt 1 3316 
+kilograms Solar_phenomena.txt 1 473 
+longitudes Solar_phenomena.txt 1 2707 
+interrupts Solar_phenomena.txt 1 3111 
+formed Solar_phenomena.txt 1 532 
+dates Solar_phenomena.txt 1 265 
+hales Solar_phenomena.txt 1 3660 
+foucault Solar_phenomena.txt 1 3581 
+observers Solar_phenomena.txt 1 3510 
+observe Solar_phenomena.txt 1 3506 
+external Solar_phenomena.txt 1 3759 
+different Solar_phenomena.txt 2 3625 3628 
+decreased Solar_phenomena.txt 1 3354 
+aviation Solar_phenomena.txt 1 2593 
+extant Solar_phenomena.txt 2 261 278 
+160 Solar_phenomena.txt 1 1240 
+hidden Solar_phenomena.txt 1 3763 
+present Solar_phenomena.txt 1 1349 
+blackouts Solar_phenomena.txt 1 2572 
+20 Solar_phenomena.txt 1 2700 
+has Solar_phenomena.txt 7 453 984 1974 2289 2321 2360 3414 
+atmospheric Solar_phenomena.txt 4 638 1391 3238 3295 
+rudolf Solar_phenomena.txt 1 3526 
+developing Solar_phenomena.txt 1 791 
+these Solar_phenomena.txt 10 49 76 209 1285 1334 1532 2258 2772 2988 3170 
+disrupt Solar_phenomena.txt 1 946 
+ejection Solar_phenomena.txt 5 68 876 882 900 1270 
+968 Solar_phenomena.txt 1 286 
+2010 Solar_phenomena.txt 1 896 
+will Solar_phenomena.txt 1 232 
+while Solar_phenomena.txt 9 223 258 287 343 503 558 1641 2969 3411 
+texas Solar_phenomena.txt 1 3047 
+behavior Solar_phenomena.txt 1 800 
+au Solar_phenomena.txt 1 1437 
+eclipses Solar_phenomena.txt 3 257 3469 3598 
+balance Solar_phenomena.txt 1 569 
+study Solar_phenomena.txt 3 362 2012 3590 
+loop Solar_phenomena.txt 1 1624 
+periods Solar_phenomena.txt 2 1930 1951 
+rings Solar_phenomena.txt 1 3318 
+layer Solar_phenomena.txt 1 3634 
+30 Solar_phenomena.txt 1 1582 
+showers Solar_phenomena.txt 1 2415 
+century Solar_phenomena.txt 6 249 373 773 1894 3435 3708 
+almost Solar_phenomena.txt 2 441 755 
+molecular Solar_phenomena.txt 1 548 
+is Solar_phenomena.txt 52 116 134 144 159 428 440 506 591 603 614 625 670 706 789 902 1043 1052 1074 1119 1126 1198 1214 1363 1399 1423 1439 1456 1552 1605 1671 1735 1751 1757 1864 1936 2203 2216 2273 2310 2343 2453 2466 2484 2613 2627 2687 2822 3062 3091 3221 3227 3298 
+190708 Solar_phenomena.txt 1 3639 
+thus Solar_phenomena.txt 2 675 3247 
+it Solar_phenomena.txt 13 158 439 452 602 624 633 1096 1125 1743 1756 2085 2227 2465 
+surface Solar_phenomena.txt 13 102 422 632 651 1007 1208 1389 1617 1631 1834 1878 2942 3694 
+equal Solar_phenomena.txt 1 512 
+sudden Solar_phenomena.txt 7 195 1078 1200 3048 3054 3058 3085 
+contract Solar_phenomena.txt 1 2124 
+in Solar_phenomena.txt 92 46 167 170 191 198 202 285 293 301 303 317 324 330 360 370 375 378 405 555 586 617 643 684 726 730 743 797 894 958 1083 1115 1136 1173 1299 1324 1341 1373 1383 1513 1547 1619 1632 1662 1891 2024 2042 2048 2091 2167 2184 2247 2350 2396 2439 2609 2632 2636 2644 2678 2693 2779 2785 2851 2893 2896 2903 3068 3083 3087 3094 3154 3165 3175 3229 3285 3313 3359 3363 3369 3376 3384 3395 3427 3432 3491 3508 3524 3588 3638 3681 3704 3747 
+convection Solar_phenomena.txt 1 1841 
+athanasius Solar_phenomena.txt 1 3483 
+helium Solar_phenomena.txt 3 508 683 1527 
+currents Solar_phenomena.txt 8 1114 2997 3027 3119 3125 3128 3153 3173 
+increased Solar_phenomena.txt 5 1937 2872 2887 3197 3289 
+result Solar_phenomena.txt 1 3109 
+intense Solar_phenomena.txt 5 616 1458 1837 2559 2801 
+99.86 Solar_phenomena.txt 1 483 
+photospheres Solar_phenomena.txt 1 2338 
+cools Solar_phenomena.txt 1 1843 
+media Solar_phenomena.txt 2 884 1598 
+began Solar_phenomena.txt 6 329 1881 3431 3496 3523 3710 
+radiation Solar_phenomena.txt 6 613 852 1350 1378 1570 2418 
+speculating Solar_phenomena.txt 1 1882 
+compact Solar_phenomena.txt 1 2114 
+complex Solar_phenomena.txt 1 2363 
+potentially Solar_phenomena.txt 1 959 
+viewed Solar_phenomena.txt 1 1736 
+schematic Solar_phenomena.txt 1 2149 
+contain Solar_phenomena.txt 1 1657 
+9 Solar_phenomena.txt 1 1259 
+several Solar_phenomena.txt 1 2979 
+events Solar_phenomena.txt 7 213 242 1520 1556 2994 3151 3454 
+emanating Solar_phenomena.txt 1 2544 
+higher Solar_phenomena.txt 2 3304 3345 
+cir Solar_phenomena.txt 1 2926 
+satellite Solar_phenomena.txt 1 3730 
+used Solar_phenomena.txt 1 2498 
+temporary Solar_phenomena.txt 2 2191 2824 
+see Solar_phenomena.txt 1 3749 
+prominences Solar_phenomena.txt 10 365 1029 1589 1625 1656 1700 1771 1791 1813 3593 
+driver Solar_phenomena.txt 1 3418 
+effect Solar_phenomena.txt 4 124 1184 1551 1928 
+flows Solar_phenomena.txt 1 2157 
+1150 Solar_phenomena.txt 1 2027 
+driven Solar_phenomena.txt 2 2885 2956 
+uses Solar_phenomena.txt 1 1993 
+frequently Solar_phenomena.txt 1 1021 
+energetic Solar_phenomena.txt 4 1322 1565 1576 2991 
+expand Solar_phenomena.txt 1 2122 
+cycle Solar_phenomena.txt 12 805 810 814 830 844 1449 2053 2954 2968 3537 3571 3647 
+energized Solar_phenomena.txt 1 3024 
+dark Solar_phenomena.txt 1 1828 
+lower Solar_phenomena.txt 6 1953 1970 2741 3016 3101 3299 
+center Solar_phenomena.txt 3 86 434 557 
+zrich Solar_phenomena.txt 2 1991 3548 
+harriot Solar_phenomena.txt 1 3501 
+navigation Solar_phenomena.txt 1 3010 
+well Solar_phenomena.txt 2 187 1919 
+roughly Solar_phenomena.txt 1 1728 
+physics Solar_phenomena.txt 1 2514 
+patterns Solar_phenomena.txt 1 2041 
+severe Solar_phenomena.txt 1 3093 
+aphelion Solar_phenomena.txt 1 729 
+km/s Solar_phenomena.txt 3 1784 1789 2327 
+organization Solar_phenomena.txt 1 2370 
+the Solar_phenomena.txt 283 14 23 36 41 47 85 88 101 109 122 130 145 154 162 168 171 199 219 224 247 259 268 276 281 288 304 309 312 320 325 331 337 344 350 361 371 391 393 397 400 417 426 433 436 485 489 497 504 509 516 530 539 552 556 559 568 571 574 589 618 622 630 644 665 687 699 704 717 721 739 749 771 779 798 842 847 859 888 914 920 1005 1053 1057 1084 1093 1099 1104 1139 1143 1157 1164 1183 1206 1210 1232 1254 1271 1281 1295 1314 1325 1338 1342 1364 1371 1374 1387 1403 1412 1416 1420 1445 1447 1465 1500 1507 1519 1540 1548 1550 1614 1620 1629 1633 1639 1642 1667 1715 1729 1738 1747 1831 1844 1857 1862 1868 1872 1876 1892 1921 1926 1962 1978 1990 1995 2000 2021 2025 2055 2066 2082 2104 2154 2176 2180 2185 2194 2200 2210 2213 2223 2242 2262 2270 2276 2281 2285 2315 2317 2337 2339 2353 2357 2372 2397 2401 2421 2440 2454 2458 2462 2470 2475 2478 2490 2494 2500 2533 2555 2602 2616 2633 2637 2645 2654 2660 2670 2683 2702 2713 2718 2727 2730 2737 2747 2750 2762 2775 2780 2789 2798 2806 2809 2827 2845 2849 2856 2859 2866 2875 2883 2897 2901 2904 2928 2940 2943 2952 2962 2966 2976 3036 3069 3073 3080 3095 3140 3155 3166 3215 3230 3242 3263 3275 3279 3286 3310 3334 3340 3347 3377 3388 3396 3428 3433 3460 3463 3470 3487 3492 3498 3503 3512 3518 3535 3545 3553 3569 3584 3589 3621 3632 3644 3649 3673 3676 3684 3688 3690 3705 3712 3738 3742 
+800 Solar_phenomena.txt 1 274 
+drawing Solar_phenomena.txt 1 291 
+maxima Solar_phenomena.txt 3 919 2046 3302 
+spherical Solar_phenomena.txt 1 443 
+interferes Solar_phenomena.txt 1 3113 
+cir-driven Solar_phenomena.txt 1 2970 
+less Solar_phenomena.txt 2 1181 2550 
+increasingly Solar_phenomena.txt 1 578 
+generally Solar_phenomena.txt 2 1900 1906 
+neon Solar_phenomena.txt 1 527 
+novgorod Solar_phenomena.txt 1 308 
+quarters Solar_phenomena.txt 1 495 
+not Solar_phenomena.txt 5 991 1482 1651 2497 3437 
+shape Solar_phenomena.txt 1 1621 
+stored Solar_phenomena.txt 1 1082 
+atomic Solar_phenomena.txt 1 3257 
+human Solar_phenomena.txt 2 2083 2596 
+using Solar_phenomena.txt 1 1977 
+n Solar_phenomena.txt 1 3240 
+rotates Solar_phenomena.txt 1 3623 
+scattering Solar_phenomena.txt 2 639 1394 
+captured Solar_phenomena.txt 2 10 3311 
+1800s Solar_phenomena.txt 1 332 
+disturbance Solar_phenomena.txt 6 2189 2825 2902 3050 3056 3060 
+7,000 Solar_phenomena.txt 1 3350 
+flares Solar_phenomena.txt 11 65 863 941 979 989 1015 1049 1189 1306 1308 1587 
+absorption Solar_phenomena.txt 2 1392 3089 
+and/or Solar_phenomena.txt 1 2837 
+sky Solar_phenomena.txt 2 169 2634 
+except Solar_phenomena.txt 1 1557 
+winds Solar_phenomena.txt 1 2861 
+confirmed Solar_phenomena.txt 2 3511 3728 
+source Solar_phenomena.txt 1 784 
+other Solar_phenomena.txt 9 868 943 971 1016 1300 1523 1790 2582 3698 
+extends Solar_phenomena.txt 1 1709 
+location Solar_phenomena.txt 1 2050 
+australis Solar_phenomena.txt 1 2438 
+inducing Solar_phenomena.txt 1 1110 
+role Solar_phenomena.txt 1 3426 
+heavier Solar_phenomena.txt 1 522 
+plasma Solar_phenomena.txt 10 151 448 1648 1660 1670 1681 2220 2386 2399 2880 
+remaining Solar_phenomena.txt 1 510 
+match Solar_phenomena.txt 1 2313 
+photographed Solar_phenomena.txt 1 3583 
+resolved Solar_phenomena.txt 1 3697 
+radiocarbon Solar_phenomena.txt 2 3219 3321 
+gustav Solar_phenomena.txt 1 3617 
+around Solar_phenomena.txt 8 390 462 1853 2063 2653 2712 2788 3556 
+advances Solar_phenomena.txt 1 316 
+showing Solar_phenomena.txt 1 419 
+kev Solar_phenomena.txt 1 2241 
+results Solar_phenomena.txt 1 3082 
+possible Solar_phenomena.txt 2 1758 1884 
+early Solar_phenomena.txt 3 369 3465 3493 
+possibly Solar_phenomena.txt 1 254 
+fusion Solar_phenomena.txt 1 585 
+sprer Solar_phenomena.txt 1 3618 
+five Solar_phenomena.txt 1 935 
+background Solar_phenomena.txt 1 1748 
+denser Solar_phenomena.txt 1 1678 
+world Solar_phenomena.txt 1 392 
+apart Solar_phenomena.txt 1 1702 
+carbon-14 Solar_phenomena.txt 4 3207 3218 3226 3370 
+occurring Solar_phenomena.txt 1 39 
+atmospheres Solar_phenomena.txt 1 45 
+10,000 Solar_phenomena.txt 1 3336 
+appearing Solar_phenomena.txt 1 2784 
+like Solar_phenomena.txt 1 667 
+865,374 Solar_phenomena.txt 1 460 
+sizes Solar_phenomena.txt 1 1481 
+cooler Solar_phenomena.txt 2 1659 1676 
+follows Solar_phenomena.txt 1 2072 
+collective Solar_phenomena.txt 1 123 
+pole Solar_phenomena.txt 1 2655 
+accelerating Solar_phenomena.txt 1 2407 
+manifest Solar_phenomena.txt 1 3163 
+facing Solar_phenomena.txt 1 1462 
+flux Solar_phenomena.txt 2 59 848 
+tsunami Solar_phenomena.txt 1 1040 
+either Solar_phenomena.txt 1 1504 
+rearrangement Solar_phenomena.txt 2 1058 1073 
+output Solar_phenomena.txt 2 1236 1940 
+downward Solar_phenomena.txt 1 1150 
+prior Solar_phenomena.txt 1 2502 
+reduces Solar_phenomena.txt 1 3292 
+holocene Solar_phenomena.txt 1 3349 
+province Solar_phenomena.txt 1 3037 
+5,600 Solar_phenomena.txt 1 514 
+because Solar_phenomena.txt 5 610 636 1941 2265 3267 
+often Solar_phenomena.txt 6 968 1618 2536 2551 2709 3110 
+grids Solar_phenomena.txt 1 3180 
+less-frequent Solar_phenomena.txt 1 3513 
+spring Solar_phenomena.txt 1 2714 
+1.989 Solar_phenomena.txt 1 471 
+creation Solar_phenomena.txt 1 345 
+phenomena Solar_phenomena.txt 10 1 34 38 50 77 817 871 1298 2507 2982 
+back Solar_phenomena.txt 2 266 3533 
+daylight Solar_phenomena.txt 2 407 3683 
+ejections Solar_phenomena.txt 5 866 893 967 999 1026 
+jupiter Solar_phenomena.txt 1 1261 
+examples Solar_phenomena.txt 1 3186 
+band Solar_phenomena.txt 1 2680 
+escape Solar_phenomena.txt 1 2261 
+mi/s Solar_phenomena.txt 1 2299 
+imager Solar_phenomena.txt 1 1167 
+disrupting Solar_phenomena.txt 1 184 
+dimming Solar_phenomena.txt 1 1031 
+1859 Solar_phenomena.txt 2 2611 3602 
+scale Solar_phenomena.txt 1 1484 
+9,941 Solar_phenomena.txt 1 659 
+for Solar_phenomena.txt 10 161 481 1045 1695 1759 1816 1981 2007 2075 3717 
+communications Solar_phenomena.txt 2 185 2571 
+affects Solar_phenomena.txt 1 831 
+1852 Solar_phenomena.txt 1 3557 
+normal Solar_phenomena.txt 5 1410 1463 1869 3019 3141 
+recorded Solar_phenomena.txt 2 245 3458 
+ice Solar_phenomena.txt 2 216 3401 
+4.567 Solar_phenomena.txt 1 534 
+co-rotating Solar_phenomena.txt 1 2922 
+does Solar_phenomena.txt 1 3436 
+unit Solar_phenomena.txt 4 710 1367 1408 1436 
+magnetospheric Solar_phenomena.txt 1 2667 
+measuring Solar_phenomena.txt 1 3309 
+core Solar_phenomena.txt 2 588 686 
+transformers Solar_phenomena.txt 1 3206 
+power Solar_phenomena.txt 6 963 1365 1406 2567 3031 3205 
+seconds Solar_phenomena.txt 1 748 
+sixth Solar_phenomena.txt 1 1230 
+equivalent Solar_phenomena.txt 1 1245 
+304 Solar_phenomena.txt 1 31 
+expansion Solar_phenomena.txt 1 227 
+770,000,000 Solar_phenomena.txt 1 2097 
+notably Solar_phenomena.txt 1 977 
+pressure Solar_phenomena.txt 1 2854 
+1931 Solar_phenomena.txt 2 394 3670 
+display Solar_phenomena.txt 1 2631 
+relationship Solar_phenomena.txt 1 983 
+references Solar_phenomena.txt 1 3754 
+accompanied Solar_phenomena.txt 1 1075 
+filaments Solar_phenomena.txt 1 1591 
+eye Solar_phenomena.txt 1 2084 
+r Solar_phenomena.txt 1 3608 
+by Solar_phenomena.txt 26 80 760 1266 1370 1499 1516 1898 1910 2196 2205 2381 2445 2530 2659 2729 2831 2886 3076 3278 3308 3374 3382 3478 3723 3729 3737 
+von Solar_phenomena.txt 1 3562 
+on Solar_phenomena.txt 18 19 182 236 354 598 758 1004 1169 1415 1454 1717 1830 1883 2532 2939 3575 3599 3741 
+about Solar_phenomena.txt 16 457 493 533 690 711 744 825 923 932 1178 1228 1688 1982 2088 2128 2293 
+central Solar_phenomena.txt 1 575 
+extending Solar_phenomena.txt 1 1611 
+of Solar_phenomena.txt 149 13 30 87 112 125 150 263 271 280 307 311 336 346 363 382 396 416 435 446 456 466 478 484 488 496 501 518 521 542 551 570 621 637 640 653 695 751 778 785 794 812 824 849 861 887 890 906 942 973 1018 1059 1080 1106 1142 1185 1202 1220 1226 1231 1243 1256 1275 1320 1344 1376 1402 1427 1433 1442 1584 1622 1645 1666 1687 1713 1741 1798 1807 1809 1811 1859 1931 1952 1969 1997 2002 2057 2103 2150 2163 2179 2187 2193 2199 2209 2219 2229 2244 2266 2292 2302 2325 2330 2385 2400 2416 2434 2489 2513 2523 2565 2579 2647 2662 2758 2782 2808 2826 2839 2927 2935 2945 2965 3008 3035 3038 3072 3135 3143 3187 3199 3217 3237 3253 3259 3282 3320 3333 3398 3419 3462 3475 3489 3591 3652 3672 3703 3720 3732 
+months Solar_phenomena.txt 2 1698 1819 
+ranges Solar_phenomena.txt 1 3105 
+simulation Solar_phenomena.txt 1 2162 
+wolf Solar_phenomena.txt 4 1979 3527 3546 3559 
+spaceflight Solar_phenomena.txt 1 2597 
+kircher Solar_phenomena.txt 1 3484 
+mean Solar_phenomena.txt 2 701 1428 
+slightly Solar_phenomena.txt 1 1848 
+or Solar_phenomena.txt 20 69 1209 1239 1292 1385 1490 1512 1697 1795 1818 2100 2113 2390 2515 2549 2570 2917 2925 3112 3547 
+peak Solar_phenomena.txt 1 1588 
+2,000,000,000 Solar_phenomena.txt 1 2094 
+into Solar_phenomena.txt 9 228 562 682 1283 1638 2275 2726 2874 3249 
+helical Solar_phenomena.txt 1 82 
+due Solar_phenomena.txt 1 2913 
+included Solar_phenomena.txt 1 3701 
+weather Solar_phenomena.txt 16 139 142 176 767 837 839 1312 2426 2431 2436 2452 2483 2488 2981 3137 3150 
+accounts Solar_phenomena.txt 1 480 
+heated Solar_phenomena.txt 1 43 
+1990s Solar_phenomena.txt 2 2501 3689 
+capable Solar_phenomena.txt 1 2564 
+17551766 Solar_phenomena.txt 1 3536 
+fast Solar_phenomena.txt 4 2282 2318 2354 2373 
+compression Solar_phenomena.txt 1 2192 
+1980 Solar_phenomena.txt 1 3748 
+area Solar_phenomena.txt 3 1368 1409 2106 
+transfer Solar_phenomena.txt 1 2871 
+altitude Solar_phenomena.txt 1 2672 
+hazards Solar_phenomena.txt 1 1351 
+sunlight Solar_phenomena.txt 1 753 
+1989 Solar_phenomena.txt 1 3021 
+short-wavelength Solar_phenomena.txt 1 850 
+much Solar_phenomena.txt 5 1180 1653 1658 3015 3344 
+gic Solar_phenomena.txt 3 2998 3174 3191 
+stars Solar_phenomena.txt 2 669 1301 
+astrophysics Solar_phenomena.txt 1 376 
+was Solar_phenomena.txt 9 284 292 299 1719 2496 3343 3502 3686 3727 
+function Solar_phenomena.txt 1 1441 
+billion Solar_phenomena.txt 2 535 1241 
+corrosion Solar_phenomena.txt 1 3198 
+750 Solar_phenomena.txt 1 2326 
+gaseous Solar_phenomena.txt 1 1609 
+form Solar_phenomena.txt 8 1156 1343 1375 1792 1852 2414 2646 2781 
+energies Solar_phenomena.txt 1 2235 
+some Solar_phenomena.txt 3 482 1699 1770 
+hazardous Solar_phenomena.txt 1 2589 
+independently Solar_phenomena.txt 1 3564 
+but Solar_phenomena.txt 3 628 980 2708 
+needles Solar_phenomena.txt 1 1108 
+link Solar_phenomena.txt 1 3567 
+solar Solar_phenomena.txt 126 0 3 7 17 33 55 64 70 114 120 127 146 180 203 238 256 282 297 327 338 352 364 388 437 490 572 804 809 816 829 832 843 851 862 869 907 915 918 929 940 974 978 1019 1039 1048 1174 1193 1196 1211 1307 1326 1331 1360 1396 1404 1421 1448 1472 1475 1486 1595 1599 1730 1754 1889 1933 1939 1954 2067 2147 2155 2170 2201 2214 2256 2271 2278 2283 2287 2319 2341 2355 2376 2459 2463 2517 2524 2526 2541 2585 2606 2663 2722 2748 2799 2810 2833 2852 2860 2929 2941 2963 2967 2977 2990 3078 3224 3276 3287 3290 3301 3306 3364 3407 3412 3448 3450 3468 3521 3570 3592 3597 3613 3721 3734 3743 
+larger Solar_phenomena.txt 1 1944 
+russian Solar_phenomena.txt 1 305 
+line Solar_phenomena.txt 1 955 
+sdo Solar_phenomena.txt 1 425 
+with Solar_phenomena.txt 27 27 387 939 970 1013 1023 1076 1260 1478 1904 1915 1967 2034 2169 2234 2365 2540 2669 2746 2844 2865 2951 2985 3114 3212 3255 3393 
+groupings Solar_phenomena.txt 1 1011 
+directed Solar_phenomena.txt 3 1066 1087 2725 
+temporary/permanent Solar_phenomena.txt 1 2577 
+eject Solar_phenomena.txt 1 1777 
+gravitational Solar_phenomena.txt 2 132 540 
+1185 Solar_phenomena.txt 1 302 
+variations Solar_phenomena.txt 7 128 201 210 2009 3161 3171 3362 
+up Solar_phenomena.txt 1 1221 
+until Solar_phenomena.txt 3 2499 3355 3687 
+1600s Solar_phenomena.txt 2 326 3494 
+those Solar_phenomena.txt 1 3391 
+spectroscopy Solar_phenomena.txt 3 328 368 3595 
+observation Solar_phenomena.txt 2 3443 3449 
+fluctuations Solar_phenomena.txt 2 108 115 
+distribution Solar_phenomena.txt 1 3032 
+spectrometry Solar_phenomena.txt 1 3522 
+minutes Solar_phenomena.txt 2 746 1583 
+called Solar_phenomena.txt 4 1038 1120 1752 2387 
+x-ray Solar_phenomena.txt 1 856 
+darker Solar_phenomena.txt 1 1745 
+detailed Solar_phenomena.txt 2 322 2038 
+associated Solar_phenomena.txt 6 1012 1914 2539 2745 2984 3392 
+600 Solar_phenomena.txt 1 1783 
+links Solar_phenomena.txt 1 3760 
+high-latitude Solar_phenomena.txt 1 2591 
+measurement Solar_phenomena.txt 1 2008 
+influence Solar_phenomena.txt 1 1310 
+direction Solar_phenomena.txt 1 1105 
+an Solar_phenomena.txt 10 563 821 1217 1689 2432 2625 2891 3063 3250 3256 
+loops Solar_phenomena.txt 1 1794 
+as Solar_phenomena.txt 32 63 119 137 186 188 215 606 720 768 770 1009 1216 1304 1329 1526 1856 1918 1920 1961 1989 2032 2051 2125 2345 2615 2682 3043 3046 3107 3196 3531 3534 
+megatons Solar_phenomena.txt 1 1242 
+at Solar_phenomena.txt 14 432 732 1386 1430 1459 1721 1779 2132 2697 2705 3014 3132 3624 3627 
+formulation Solar_phenomena.txt 1 3544 
+moves Solar_phenomena.txt 1 723 
+proceeds Solar_phenomena.txt 1 2054 
+physical Solar_phenomena.txt 1 781 
+re-established Solar_phenomena.txt 1 1865 
+no Solar_phenomena.txt 1 981 
+index Solar_phenomena.txt 1 1986 
+whereas Solar_phenomena.txt 1 928 
+when Solar_phenomena.txt 7 1063 1089 1494 1732 2139 2803 3233 
+field Solar_phenomena.txt 18 107 133 1061 1102 1543 2166 2173 2183 2211 2753 2841 2848 2863 2869 2938 3169 3380 3667 
+book Solar_phenomena.txt 1 270 
+electrical Solar_phenomena.txt 3 953 1112 3145 
+meters Solar_phenomena.txt 1 2136 
+elements Solar_phenomena.txt 1 523 
+star Solar_phenomena.txt 4 430 595 673 3692 
+generates Solar_phenomena.txt 3 92 104 676 
+time Solar_phenomena.txt 4 2253 2505 3424 3461 
+problems Solar_phenomena.txt 1 3194 
+long-lasting Solar_phenomena.txt 1 962 
+variation Solar_phenomena.txt 1 121 
+generated Solar_phenomena.txt 1 79 
+coronal Solar_phenomena.txt 15 66 72 864 874 880 891 898 965 1024 1030 1032 1268 1680 2537 2553 
+flattened Solar_phenomena.txt 1 561 
+allowing Solar_phenomena.txt 1 319 
+earthly Solar_phenomena.txt 2 1690 3176 
+variable Solar_phenomena.txt 1 2349 
+dense Solar_phenomena.txt 2 581 2346 
+structure Solar_phenomena.txt 1 2364 
+ago Solar_phenomena.txt 3 537 3352 3358 
+collision Solar_phenomena.txt 1 2661 
+correlated Solar_phenomena.txt 1 1903 
+hundreds Solar_phenomena.txt 1 1808 
+bce Solar_phenomena.txt 2 250 275 
+interval Solar_phenomena.txt 1 823 
+holes Solar_phenomena.txt 1 2554 
+together Solar_phenomena.txt 1 1071 
+uncovered Solar_phenomena.txt 1 3643 
+2003 Solar_phenomena.txt 1 2011 
+portion Solar_phenomena.txt 1 620 
+nasa Solar_phenomena.txt 2 5 424 
+mass Solar_phenomena.txt 15 67 90 470 487 499 517 576 865 875 881 892 899 966 1025 1269 
+equinoxes Solar_phenomena.txt 1 2717 
+1000 Solar_phenomena.txt 1 1788 
+electromagnetic Solar_phenomena.txt 2 1377 2404 
+luminosity Solar_phenomena.txt 3 1890 1895 3722 
+nuclei Solar_phenomena.txt 1 1524 
+12 Solar_phenomena.txt 1 3266 
+expands Solar_phenomena.txt 1 2736 
+original Solar_phenomena.txt 1 1085 
+initiating Solar_phenomena.txt 1 583 
+8th Solar_phenomena.txt 1 248 

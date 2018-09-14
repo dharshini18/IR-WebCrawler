@@ -1,0 +1,301 @@
+distances Diameter.txt 2 368 507 
+all Diameter.txt 5 118 204 367 400 506 
+chord Diameter.txt 3 70 230 540 
+metron Diameter.txt 1 290 
+being Diameter.txt 1 130 
+global Diameter.txt 1 523 
+scattered Diameter.txt 2 347 459 
+rotating Diameter.txt 1 183 
+shape Diameter.txt 1 138 
+through Diameter.txt 4 49 232 288 543 
+unicode Diameter.txt 2 618 696 
+using Diameter.txt 2 182 710 
+codomain Diameter.txt 2 395 442 
+uniform Diameter.txt 1 553 
+hypercube Diameter.txt 1 342 
+its Diameter.txt 2 162 479 
+whose Diameter.txt 1 56 
+metric Diameter.txt 1 356 
+compose Diameter.txt 2 712 718 
+autocad Diameter.txt 1 578 
+unix-like Diameter.txt 1 707 
+assigning Diameter.txt 1 430 
+riemannian Diameter.txt 1 524 
+solid Diameter.txt 1 454 
+character Diameter.txt 2 640 664 
+except Diameter.txt 1 555 
+to Diameter.txt 13 9 113 146 161 170 249 261 421 435 439 445 581 609 
+only Diameter.txt 1 308 
+valid Diameter.txt 3 78 309 328 
+black Diameter.txt 1 19 
+systems Diameter.txt 1 709 
+usage Diameter.txt 1 88 
+circle Diameter.txt 8 14 41 54 61 73 122 284 561 
+has Diameter.txt 1 563 
+wasysym Diameter.txt 1 766 
+real Diameter.txt 1 401 
+do Diameter.txt 1 674 
+them Diameter.txt 1 258 
+sense Diameter.txt 1 101 
+correctly Diameter.txt 1 669 
+geology Diameter.txt 1 490 
+average Diameter.txt 1 804 
+microsoft Diameter.txt 1 737 
+corresponds Diameter.txt 1 438 
+conjugate Diameter.txt 1 240 
+longest Diameter.txt 2 69 266 
+they Diameter.txt 1 317 
+not Diameter.txt 6 8 550 580 667 675 732 
+cyan Diameter.txt 1 23 
+parlance Diameter.txt 1 484 
+categories Diameter.txt 2 812 814 
+calipers Diameter.txt 1 184 
+oslash Diameter.txt 1 701 
+symbols Diameter.txt 1 661 
+8960 Diameter.txt 1 627 
+d Diameter.txt 5 21 298 389 444 719 
+cases Diameter.txt 1 320 
+edit Diameter.txt 4 302 569 809 811 
+notes Diameter.txt 1 810 
+differential Diameter.txt 1 516 
+dia Diameter.txt 3 286 296 297 
+shapes Diameter.txt 1 315 
+twice Diameter.txt 1 131 
+t Diameter.txt 1 649 
+rock Diameter.txt 1 493 
+small Diameter.txt 2 612 685 
+found Diameter.txt 1 657 
+where Diameter.txt 1 653 
+terminology Diameter.txt 1 220 
+subset Diameter.txt 3 353 375 381 
+upper Diameter.txt 1 361 
+abbreviated Diameter.txt 1 295 
+because Diameter.txt 2 117 203 
+vowel Diameter.txt 1 787 
+often Diameter.txt 2 168 294 
+sequence Diameter.txt 1 717 
+acquired Diameter.txt 1 744 
+uppercase Diameter.txt 1 781 
+some Diameter.txt 1 418 
+sign Diameter.txt 3 570 575 625 
+see Diameter.txt 3 5 788 807 
+cmd Diameter.txt 1 648 
+radius Diameter.txt 2 24 133 
+are Diameter.txt 5 76 200 307 318 549 
+convex Diameter.txt 4 137 314 335 480 
+lesion Diameter.txt 1 487 
+scandinavian Diameter.txt 1 586 
+special Diameter.txt 2 319 428 
+category Diameter.txt 1 662 
+palette Diameter.txt 1 641 
+opened Diameter.txt 1 644 
+for Diameter.txt 10 2 79 135 185 215 238 310 329 452 601 
+space Diameter.txt 2 357 464 
+2300 Diameter.txt 1 747 
+section Diameter.txt 1 534 
+opposite Diameter.txt 1 157 
+wikipedia Diameter.txt 1 1 
+non-convex Diameter.txt 1 337 
+include Diameter.txt 1 676 
+smallest Diameter.txt 1 173 
+reuleaux Diameter.txt 1 194 
+above Diameter.txt 1 306 
+between Diameter.txt 3 155 369 508 
+invariant Diameter.txt 1 525 
+boundary Diameter.txt 1 163 
+size Diameter.txt 1 606 
+across Diameter.txt 1 287 
+red Diameter.txt 1 27 
+be Diameter.txt 13 10 65 147 153 171 179 446 582 636 656 704 743 758 
+latin Diameter.txt 2 611 684 
+slashed Diameter.txt 1 790 
+n-dimensional Diameter.txt 1 462 
+diameters Diameter.txt 3 119 241 548 
+hull Diameter.txt 1 481 
+however Diameter.txt 2 316 670 
+here Diameter.txt 1 392 
+standard Diameter.txt 1 219 
+if Diameter.txt 2 377 385 
+applications Diameter.txt 1 652 
+display Diameter.txt 1 668 
+tangent Diameter.txt 3 160 209 247 
+key Diameter.txt 1 713 
+refers Diameter.txt 1 112 
+by Diameter.txt 4 645 714 725 745 
+obtained Diameter.txt 2 705 759 
+both Diameter.txt 2 74 176 
+c Diameter.txt 1 17 
+property Diameter.txt 1 244 
+u+2300 Diameter.txt 1 623 
+geometry Diameter.txt 3 36 517 528 
+of Diameter.txt 36 39 52 71 82 91 104 120 188 207 225 235 255 257 282 321 332 346 351 354 363 366 371 399 408 443 449 458 467 478 496 502 505 510 531 552 559 
+taking Diameter.txt 1 440 
+equal Diameter.txt 1 434 
+o Diameter.txt 5 32 614 687 728 731 
+example Diameter.txt 1 239 
+spheres Diameter.txt 1 312 
+length Diameter.txt 3 90 128 554 
+important Diameter.txt 1 522 
+negative Diameter.txt 1 416 
+conics Diameter.txt 1 545 
+operating Diameter.txt 1 708 
+passing Diameter.txt 1 231 
+definition Diameter.txt 1 325 
+generalizations Diameter.txt 1 301 
+or Diameter.txt 10 30 123 299 336 343 456 470 488 592 599 
+macintosh Diameter.txt 2 631 724 
+origin Diameter.txt 1 31 
+diameter Diameter.txt 33 0 6 20 38 81 93 98 106 110 143 199 224 267 275 281 350 383 407 433 466 477 495 519 530 567 602 624 633 740 755 763 769 795 
+major Diameter.txt 1 271 
+via Diameter.txt 1 638 
+apple Diameter.txt 1 630 
+durchmesserzeichen Diameter.txt 1 798 
+durchschnittszeichen Diameter.txt 1 806 
+prefer Diameter.txt 1 420 
+bound Diameter.txt 1 362 
+one Diameter.txt 3 102 256 264 
+dimensional Diameter.txt 1 334 
+equals Diameter.txt 1 415 
+set Diameter.txt 11 345 365 398 411 425 448 457 471 504 590 776 
+pairs Diameter.txt 3 206 370 509 
+ellipse Diameter.txt 4 217 227 237 251 
+diametros Diameter.txt 1 280 
+passes Diameter.txt 2 48 542 
+given Diameter.txt 1 305 
+necessarily Diameter.txt 1 551 
+from Diameter.txt 7 278 285 576 764 773 778 784 
+0 Diameter.txt 3 436 566 735 
+distinct Diameter.txt 1 772 
+hidden Diameter.txt 1 813 
+two Diameter.txt 1 156 
+least Diameter.txt 1 360 
+248 Diameter.txt 1 700 
+width Diameter.txt 3 166 190 197 
+treat Diameter.txt 1 422 
+italic Diameter.txt 1 780 
+typing Diameter.txt 1 746 
+technical Diameter.txt 2 573 660 
+entered Diameter.txt 1 637 
+is Diameter.txt 26 42 94 144 167 221 228 259 268 276 293 327 358 379 384 390 472 499 520 535 603 620 643 690 697 771 799 
+empty Diameter.txt 4 410 424 589 775 
+more Diameter.txt 2 86 323 
+function Diameter.txt 1 388 
+html Diameter.txt 2 626 699 
+that Diameter.txt 5 47 151 245 326 405 
+quantities Diameter.txt 1 177 
+concerning Diameter.txt 2 485 491 
+formed Diameter.txt 1 154 
+circumference Diameter.txt 1 16 
+it Diameter.txt 7 62 292 431 619 654 677 702 
+u+00f8 Diameter.txt 1 698 
+authors Diameter.txt 1 419 
+eccentricity Diameter.txt 1 564 
+e Diameter.txt 1 565 
+line Diameter.txt 3 45 115 248 
+general Diameter.txt 1 324 
+with Diameter.txt 6 12 15 584 615 688 760 
+than Diameter.txt 1 108 
+case Diameter.txt 3 413 429 558 
+distance Diameter.txt 4 150 175 214 387 
+kind Diameter.txt 1 331 
+endpoint Diameter.txt 1 254 
+word Diameter.txt 2 274 738 
+this Diameter.txt 4 100 129 403 642 
+straight Diameter.txt 1 44 
+package Diameter.txt 1 767 
+stroke Diameter.txt 2 616 689 
+n Diameter.txt 1 333 
+will Diameter.txt 1 665 
+euclidean Diameter.txt 1 463 
+r Diameter.txt 3 25 134 396 
+can Diameter.txt 8 63 152 178 635 655 703 742 757 
+many Diameter.txt 2 672 679 
+design Diameter.txt 1 608 
+german Diameter.txt 2 793 797 
+endpoints Diameter.txt 1 57 
+similar Diameter.txt 1 604 
+called Diameter.txt 2 96 269 
+supremum Diameter.txt 1 501 
+numbers Diameter.txt 1 402 
+and Diameter.txt 10 28 55 164 198 289 313 607 721 748 783 
+opt Diameter.txt 2 647 727 
+constant Diameter.txt 1 189 
+medical Diameter.txt 1 483 
+then Diameter.txt 1 749 
+defined Diameter.txt 5 66 145 169 537 621 
+curve Diameter.txt 1 187 
+disambiguation Diameter.txt 1 7 
+modern Diameter.txt 1 87 
+measure Diameter.txt 1 291 
+confused Diameter.txt 2 11 583 
+an Diameter.txt 9 216 226 497 521 577 629 691 779 803 
+sphere Diameter.txt 2 84 124 
+as Diameter.txt 9 67 192 340 393 426 475 538 622 802 
+itself Diameter.txt 1 116 
+at Diameter.txt 1 252 
+have Diameter.txt 3 125 211 242 
+in Diameter.txt 28 18 22 26 33 35 85 99 139 373 461 482 489 512 515 526 556 571 605 617 650 658 678 695 706 716 736 752 792 
+triangle Diameter.txt 1 195 
+magenta Diameter.txt 1 34 
+nonnegative Diameter.txt 1 450 
+any Diameter.txt 5 43 229 330 453 539 
+contents Diameter.txt 1 300 
+axis Diameter.txt 1 272 
+lie Diameter.txt 1 58 
+different Diameter.txt 1 222 
+fonts Diameter.txt 1 673 
+since Diameter.txt 1 671 
+zero Diameter.txt 1 791 
+demeter Diameter.txt 1 13 
+rather Diameter.txt 1 107 
+pressing Diameter.txt 4 646 715 726 750 
+same Diameter.txt 4 127 202 213 474 
+alt+x Diameter.txt 1 751 
+also Diameter.txt 6 64 77 95 789 800 808 
+other Diameter.txt 2 3 263 
+viewed Diameter.txt 1 391 
+which Diameter.txt 5 111 437 541 562 694 
+largest Diameter.txt 1 149 
+command Diameter.txt 1 762 
+reals Diameter.txt 1 451 
+speaks Diameter.txt 1 103 
+acceptable Diameter.txt 1 692 
+nordic Diameter.txt 1 786 
+circles Diameter.txt 1 311 
+phi Diameter.txt 2 596 782 
+used Diameter.txt 1 801 
+infinity Diameter.txt 1 417 
+centre Diameter.txt 2 29 546 
+symbol Diameter.txt 10 568 591 598 634 741 756 770 777 796 805 
+object Diameter.txt 5 338 455 469 498 514 
+derived Diameter.txt 1 277 
+substitute Diameter.txt 1 693 
+most Diameter.txt 1 651 
+plane Diameter.txt 2 141 527 
+uses Diameter.txt 1 4 
+letter Diameter.txt 6 587 595 613 682 686 730 
+conic Diameter.txt 1 533 
+variable Diameter.txt 1 600 
+such Diameter.txt 5 174 191 205 339 547 
+on Diameter.txt 3 59 628 722 
+segment Diameter.txt 1 46 
+parallel Diameter.txt 3 158 208 260 
+efficiently Diameter.txt 1 181 
+a Diameter.txt 27 37 40 83 92 109 121 136 186 223 246 283 322 341 344 352 355 378 414 427 432 486 492 529 532 572 711 723 
+latex Diameter.txt 1 753 
+implies Diameter.txt 1 404 
+center Diameter.txt 2 51 234 
+i Diameter.txt 1 720 
+calculated Diameter.txt 1 180 
+sometimes Diameter.txt 1 666 
+lines Diameter.txt 2 159 210 
+drawing Diameter.txt 2 574 579 
+greek Diameter.txt 2 279 594 
+number Diameter.txt 1 734 
+points Diameter.txt 4 348 372 460 511 
+so Diameter.txt 1 376 
+situations Diameter.txt 1 680 
+definitions Diameter.txt 2 75 304 
+the Diameter.txt 79 50 53 60 68 72 80 89 97 105 114 126 132 140 142 148 165 172 193 196 201 212 218 233 236 243 250 253 262 265 270 273 303 349 359 364 374 380 382 386 397 406 409 412 423 441 447 465 468 473 476 494 500 503 513 518 544 557 560 585 588 593 597 610 632 639 659 663 681 683 729 733 739 754 761 765 768 774 785 794 
+typically Diameter.txt 1 536 
+having Diameter.txt 1 394 

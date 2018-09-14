@@ -1,0 +1,743 @@
+all Eclipse.txt 2 1757 1922 
+concept Eclipse.txt 1 2822 
+partial Eclipse.txt 9 280 639 666 1319 1453 1731 2425 2852 2861 
+chinese Eclipse.txt 1 1942 
+suns Eclipse.txt 3 1356 1512 2447 
+results Eclipse.txt 1 999 
+earthmoon Eclipse.txt 2 163 1038 
+month Eclipse.txt 2 322 358 
+four Eclipse.txt 3 700 1173 2094 
+spacecraft Eclipse.txt 1 91 
+disc Eclipse.txt 4 737 751 781 2448 
+broader Eclipse.txt 1 1991 
+consists Eclipse.txt 1 2643 
+disk Eclipse.txt 1 613 
+transits Eclipse.txt 6 2117 2428 2582 2587 2618 2629 
+griffin Eclipse.txt 1 1882 
+calculate Eclipse.txt 1 2322 
+technique Eclipse.txt 1 2384 
+1.384 Eclipse.txt 1 840 
+passage Eclipse.txt 1 2807 
+to Eclipse.txt 55 127 158 417 455 457 460 462 477 554 740 763 828 839 1094 1114 1132 1174 1184 1346 1376 1397 1444 1488 1570 1583 1604 1620 1682 1699 1711 1795 1930 1957 1985 1989 2125 2194 2198 2204 2231 2260 2284 2321 2377 2395 2444 2537 2569 2612 2686 2717 2744 2749 2766 2795 
+finally Eclipse.txt 1 776 
+under Eclipse.txt 1 1418 
+syzygy Eclipse.txt 2 79 82 
+nodes Eclipse.txt 3 1068 1140 1145 
+include Eclipse.txt 1 1560 
+cone-shaped Eclipse.txt 1 801 
+later Eclipse.txt 1 2167 
+verb Eclipse.txt 2 451 475 
+every Eclipse.txt 8 321 330 338 357 1009 2308 2372 2789 
+difference Eclipse.txt 3 2349 2364 2375 
+categories Eclipse.txt 2 2918 2920 
+entire Eclipse.txt 2 382 1672 
+progression Eclipse.txt 2 1224 1597 
+prefix Eclipse.txt 1 467 
+large Eclipse.txt 2 2095 2437 
+1999 Eclipse.txt 1 15 
+venus Eclipse.txt 3 2551 2559 2589 
+shows Eclipse.txt 1 1332 
+booksellers Eclipse.txt 1 2001 
+configurations Eclipse.txt 1 630 
+smaller Eclipse.txt 1 791 
+century Eclipse.txt 3 1909 2586 2610 
+consistent Eclipse.txt 1 1916 
+2125 Eclipse.txt 1 2628 
+second Eclipse.txt 2 521 746 
+6,585.3 Eclipse.txt 1 1010 
+pass Eclipse.txt 4 63 1755 2109 2687 
+even Eclipse.txt 2 916 1760 
+antumbra Eclipse.txt 5 483 490 494 663 719 
+rate Eclipse.txt 2 1469 1963 
+opaque Eclipse.txt 1 498 
+sun Eclipse.txt 23 253 287 298 705 1056 1077 1142 1261 1309 1399 1501 1548 1573 1586 1656 2062 2179 2286 2576 2843 2854 2867 2879 
+sum Eclipse.txt 1 2719 
+analogously Eclipse.txt 1 712 
+axial Eclipse.txt 2 2100 2268 
+new Eclipse.txt 1 339 
+body Eclipse.txt 4 57 62 445 2826 
+full Eclipse.txt 2 331 1641 
+led Eclipse.txt 1 2536 
+dwarf Eclipse.txt 1 2017 
+hundreds Eclipse.txt 1 2470 
+lep Eclipse.txt 1 476 
+objects Eclipse.txt 8 74 508 549 605 619 736 818 2548 
+galilean Eclipse.txt 1 2140 
+along Eclipse.txt 4 23 1413 1438 2290 
+observing Eclipse.txt 1 2355 
+1670s Eclipse.txt 1 2155 
+deduced Eclipse.txt 1 2182 
+involved Eclipse.txt 1 606 
+leaves Eclipse.txt 1 777 
+larger Eclipse.txt 5 502 846 1460 2115 2128 
+reason Eclipse.txt 1 1676 
+scatter Eclipse.txt 1 1798 
+amount Eclipse.txt 1 528 
+resulting Eclipse.txt 2 562 1314 
+usually Eclipse.txt 1 1704 
+narrow Eclipse.txt 1 1416 
+changes Eclipse.txt 1 1959 
+diameter Eclipse.txt 2 691 1357 
+via Eclipse.txt 1 2012 
+transit Eclipse.txt 7 117 1534 2402 2407 2570 2870 2882 
+visible Eclipse.txt 2 1031 1624 
+decrease Eclipse.txt 2 1994 2745 
+cassini Eclipse.txt 2 1579 2392 
+limb Eclipse.txt 1 25 
+illumination Eclipse.txt 3 912 1786 1805 
+total Eclipse.txt 14 9 276 393 634 644 1282 1366 1382 1424 1484 1519 1742 1752 1763 
+1901 Eclipse.txt 1 1193 
+use Eclipse.txt 1 1900 
+from Eclipse.txt 36 81 380 415 427 449 469 516 588 692 825 1032 1045 1100 1172 1234 1246 1275 1335 1515 1543 1602 1654 1669 1687 1707 1906 2065 2196 2405 2410 2451 2491 2498 2724 2873 2885 
+takes Eclipse.txt 1 964 
+would Eclipse.txt 4 317 324 352 2337 
+surroundings Eclipse.txt 1 559 
+cloudtops Eclipse.txt 1 2135 
+faint Eclipse.txt 2 910 1785 
+two Eclipse.txt 11 99 239 507 1067 1137 1164 1558 1612 2288 2645 2753 
+next Eclipse.txt 2 419 2615 
+totality Eclipse.txt 5 12 918 1412 1606 1702 
+taken Eclipse.txt 1 2050 
+black Eclipse.txt 2 1340 2054 
+type Eclipse.txt 4 266 356 1263 2697 
+until Eclipse.txt 1 1473 
+diagrams Eclipse.txt 1 1975 
+more Eclipse.txt 5 1680 1796 2104 2634 2798 
+separated Eclipse.txt 2 972 2593 
+giovanni Eclipse.txt 1 2390 
+apparent Eclipse.txt 3 283 690 1504 
+occurred Eclipse.txt 3 1874 1982 2528 
+site Eclipse.txt 1 2518 
+visual Eclipse.txt 1 2784 
+particular Eclipse.txt 3 400 575 993 
+known Eclipse.txt 3 76 596 2152 
+central Eclipse.txt 1 2864 
+cases Eclipse.txt 1 225 
+aligned Eclipse.txt 3 103 1147 2674 
+circumstances Eclipse.txt 1 1422 
+1990 Eclipse.txt 1 2532 
+crosses Eclipse.txt 6 137 254 1726 1735 1746 2279 
+hour Eclipse.txt 2 1714 2373 
+this Eclipse.txt 16 69 592 686 896 935 979 1019 1368 1636 1675 1987 2201 2383 2669 2779 2802 
+science Eclipse.txt 1 2010 
+eclipse Eclipse.txt 75 0 6 10 17 35 85 105 122 132 144 236 269 328 336 351 394 599 610 623 642 645 656 667 678 871 902 926 954 959 962 1008 1074 1153 1186 1217 1222 1228 1251 1266 1284 1318 1349 1367 1385 1426 1454 1486 1493 1521 1531 1571 1584 1590 1595 1601 1660 1662 1686 1693 1765 1850 1872 1891 1903 2303 2336 2361 2847 2849 2851 2853 2858 2860 2863 2866 
+longitude Eclipse.txt 3 2325 2343 2367 
+anywhere Eclipse.txt 1 1706 
+nine Eclipse.txt 1 2800 
+can Eclipse.txt 23 20 97 155 204 377 411 513 863 887 1071 1081 1124 1157 1170 1407 1427 1435 1455 1496 1549 1666 1852 2683 
+abandon Eclipse.txt 1 456 
+making Eclipse.txt 1 2102 
+example Eclipse.txt 4 166 899 2252 2388 
+links Eclipse.txt 1 2916 
+downfall Eclipse.txt 1 438 
+december Eclipse.txt 2 2622 2626 
+abandonment Eclipse.txt 1 436 
+involve Eclipse.txt 1 2090 
+sphere Eclipse.txt 1 1063 
+cross-section Eclipse.txt 1 602 
+caused Eclipse.txt 3 2187 2804 2827 
+taking Eclipse.txt 1 1696 
+broadsides Eclipse.txt 1 2003 
+phrase Eclipse.txt 1 1818 
+darkening Eclipse.txt 1 441 
+feasible Eclipse.txt 1 1913 
+occur Eclipse.txt 10 1072 1082 1125 1158 1322 1627 2118 2222 2590 2620 
+axis Eclipse.txt 2 543 851 
+information Eclipse.txt 1 1988 
+respective Eclipse.txt 1 2441 
+tilt Eclipse.txt 2 2101 2269 
+divided Eclipse.txt 1 625 
+1 Eclipse.txt 2 931 1231 
+very Eclipse.txt 2 928 2672 
+fourth Eclipse.txt 1 770 
+movements Eclipse.txt 1 2656 
+circular Eclipse.txt 2 347 2131 
+may Eclipse.txt 1 709 
+derived Eclipse.txt 2 426 448 
+orbits Eclipse.txt 2 344 2237 
+diagram Eclipse.txt 1 1044 
+produce Eclipse.txt 3 206 632 2205 
+saros Eclipse.txt 2 997 1191 
+date Eclipse.txt 1 1948 
+such Eclipse.txt 6 159 589 1188 1827 2344 2525 
+types Eclipse.txt 3 1718 2841 2892 
+a Eclipse.txt 85 78 90 93 116 130 142 167 179 191 200 326 334 372 392 407 443 464 501 511 537 567 581 590 633 635 643 665 676 869 909 969 974 992 1001 1004 1013 1022 1041 1089 1149 1160 1178 1190 1210 1226 1249 1281 1365 1414 1423 1439 1452 1468 1483 1491 1518 1533 1599 1616 1640 1658 1684 1688 1691 1762 1784 1790 1813 1861 1870 1885 1912 1931 1938 1990 2042 2098 2341 2522 2609 2639 2662 2696 2771 2783 
+noun Eclipse.txt 1 431 
+third Eclipse.txt 2 758 1102 
+occasions Eclipse.txt 1 2479 
+light Eclipse.txt 10 503 530 744 756 768 779 1799 1811 2193 2213 
+greek Eclipse.txt 2 430 1920 
+so Eclipse.txt 3 102 560 1803 
+3340 Eclipse.txt 1 1895 
+travel Eclipse.txt 1 2195 
+wavelengths Eclipse.txt 1 1802 
+john Eclipse.txt 1 2834 
+astronomical Eclipse.txt 3 38 44 609 
+move Eclipse.txt 1 764 
+years Eclipse.txt 5 1017 1952 2301 2310 2599 
+through Eclipse.txt 7 519 566 573 1632 1756 1775 2110 
+motions Eclipse.txt 2 984 1926 
+its Eclipse.txt 8 177 187 215 1339 1503 2047 2434 2510 
+astrology Eclipse.txt 1 2013 
+2.867 Eclipse.txt 1 2790 
+astronomers Eclipse.txt 2 1899 1970 
+27 Eclipse.txt 1 2272 
+how Eclipse.txt 1 1977 
+occulted Eclipse.txt 1 1313 
+decreases Eclipse.txt 1 2794 
+marss Eclipse.txt 1 727 
+better Eclipse.txt 1 1941 
+covered Eclipse.txt 1 1360 
+hidden Eclipse.txt 4 114 119 1096 2919 
+main Eclipse.txt 6 485 957 1219 1592 2400 2502 
+decades Eclipse.txt 1 414 
+then Eclipse.txt 2 315 348 
+greater Eclipse.txt 1 1372 
+combination Eclipse.txt 1 465 
+2.1 Eclipse.txt 1 2787 
+nightside Eclipse.txt 1 383 
+records Eclipse.txt 6 1840 1860 1869 1889 1904 1944 
+they Eclipse.txt 1 1085 
+half Eclipse.txt 1 384 
+not Eclipse.txt 7 371 1021 1301 1345 1487 1770 2464 
+shadows Eclipse.txt 1 2132 
+term Eclipse.txt 3 84 121 424 
+edit Eclipse.txt 17 422 484 956 1040 1218 1591 1839 2019 2022 2399 2501 2552 2638 2840 2842 2914 2917 
+always Eclipse.txt 1 1371 
+l Eclipse.txt 2 797 836 
+magnitude Eclipse.txt 4 1350 1386 2785 2793 
+each Eclipse.txt 11 242 273 313 319 349 555 1330 2472 2585 2601 2691 
+crossing Eclipse.txt 1 722 
+found Eclipse.txt 1 1823 
+entirely Eclipse.txt 2 782 1747 
+higher Eclipse.txt 1 2233 
+side Eclipse.txt 2 1650 2176 
+mean Eclipse.txt 1 1925 
+tilted Eclipse.txt 2 1111 2257 
+ek Eclipse.txt 2 468 471 
+series Eclipse.txt 2 970 2523 
+frequency Eclipse.txt 1 2121 
+applicable Eclipse.txt 1 685 
+used Eclipse.txt 8 88 126 711 1854 1956 2203 2320 2386 
+entering Eclipse.txt 1 726 
+year Eclipse.txt 4 243 1150 1180 2474 
+happen Eclipse.txt 3 233 318 2605 
+beyond Eclipse.txt 1 161 
+event Eclipse.txt 7 39 374 409 594 1267 1280 2006 
+special Eclipse.txt 1 224 
+out Eclipse.txt 2 472 765 
+shown Eclipse.txt 1 1608 
+shadowing Eclipse.txt 1 593 
+space Eclipse.txt 5 510 570 1540 2068 2667 
+since Eclipse.txt 1 1847 
+projected Eclipse.txt 1 1059 
+etymology Eclipse.txt 1 421 
+7 Eclipse.txt 1 1430 
+heavenly Eclipse.txt 1 444 
+occurs Eclipse.txt 6 41 646 732 897 1252 1285 
+red Eclipse.txt 2 27 1814 
+common Eclipse.txt 6 373 1681 2124 2635 2651 2663 
+passes Eclipse.txt 3 1256 1631 2731 
+spot Eclipse.txt 2 1341 2055 
+rmer Eclipse.txt 1 2181 
+million Eclipse.txt 1 1939 
+envelop Eclipse.txt 1 865 
+little Eclipse.txt 1 1014 
+standard Eclipse.txt 1 2342 
+ecliptic Eclipse.txt 1 1122 
+completely Eclipse.txt 4 113 753 864 1771 
+estimate Eclipse.txt 1 2208 
+advance Eclipse.txt 1 1465 
+hubble Eclipse.txt 1 2052 
+cycles Eclipse.txt 2 955 1187 
+language Eclipse.txt 1 1868 
+e.g Eclipse.txt 1 717 
+geometry Eclipse.txt 1 1481 
+starts Eclipse.txt 2 739 762 
+could Eclipse.txt 1 2350 
+days Eclipse.txt 3 1011 1026 2791 
+times Eclipse.txt 4 240 701 1168 1849 
+length Eclipse.txt 1 796 
+plane Eclipse.txt 12 210 246 257 311 1106 1117 2244 2256 2263 2275 2665 2670 
+place Eclipse.txt 1 965 
+hence Eclipse.txt 1 856 
+uses Eclipse.txt 1 4 
+frequent Eclipse.txt 1 2105 
+first Eclipse.txt 7 518 730 738 1611 2207 2539 2761 
+there Eclipse.txt 7 323 1169 1196 1208 1715 2475 2577 
+1223 Eclipse.txt 1 1878 
+striking Eclipse.txt 1 2089 
+symbolic Eclipse.txt 1 1042 
+number Eclipse.txt 1 1024 
+reaches Eclipse.txt 1 92 
+one Eclipse.txt 7 175 399 416 1093 1377 1935 2729 
+another Eclipse.txt 4 56 61 198 1098 
+impossible Eclipse.txt 1 2555 
+angular Eclipse.txt 1 1392 
+size Eclipse.txt 1 1505 
+mercury Eclipse.txt 4 2549 2557 2584 2631 
+earths Eclipse.txt 14 139 151 249 404 689 1479 1545 1634 1729 1739 1750 1777 1962 2381 
+given Eclipse.txt 2 804 1689 
+ancient Eclipse.txt 2 429 1848 
+needed Eclipse.txt 1 2191 
+extrinsic Eclipse.txt 1 2699 
+system Eclipse.txt 10 164 203 1039 2642 2702 2714 2741 2765 2773 2781 
+approximately Eclipse.txt 1 929 
+deimos Eclipse.txt 4 721 2481 2880 2884 
+their Eclipse.txt 5 558 2148 2232 2440 2650 
+returns Eclipse.txt 1 2748 
+positing Eclipse.txt 1 1897 
+perfectly Eclipse.txt 2 346 1498 
+gives Eclipse.txt 1 2365 
+hue Eclipse.txt 1 1815 
+fraction Eclipse.txt 1 1353 
+mostly Eclipse.txt 1 1905 
+that Eclipse.txt 14 40 270 368 410 631 702 1358 1406 1441 1884 2159 2183 2647 2823 
+season Eclipse.txt 3 237 274 1154 
+explanation Eclipse.txt 1 1917 
+accurately Eclipse.txt 2 2145 2354 
+required Eclipse.txt 1 1615 
+part Eclipse.txt 1 1936 
+predictable Eclipse.txt 1 2146 
+favorable Eclipse.txt 1 1421 
+corresponded Eclipse.txt 1 2376 
+constituent Eclipse.txt 1 216 
+representing Eclipse.txt 1 1342 
+than Eclipse.txt 8 792 847 1373 1542 1555 2168 2607 2799 
+10 Eclipse.txt 4 841 854 2419 2623 
+13 Eclipse.txt 1 2581 
+b Eclipse.txt 1 637 
+15 Eclipse.txt 2 2309 2378 
+ugaritic Eclipse.txt 1 1867 
+18 Eclipse.txt 1 1016 
+depends Eclipse.txt 3 281 936 1268 
+r Eclipse.txt 3 807 814 821 
+historical Eclipse.txt 3 1837 1859 1943 
+were Eclipse.txt 5 306 345 1971 2151 2162 
+impinge Eclipse.txt 1 741 
+sec Eclipse.txt 1 934 
+algol Eclipse.txt 1 2770 
+2117 Eclipse.txt 1 2624 
+russia Eclipse.txt 1 1236 
+are Eclipse.txt 19 370 550 611 684 971 1086 1146 1197 1209 1402 1716 1835 2429 2463 2476 2554 2578 2632 2755 
+and Eclipse.txt 46 8 66 228 288 299 320 333 341 365 473 482 489 493 557 638 664 682 769 820 946 1057 1079 1144 1155 1194 1381 1434 1576 1741 1782 1914 1953 1979 1993 2016 2037 2046 2077 2082 2097 2241 2497 2531 2550 2558 2625 
+1.6 Eclipse.txt 1 2259 
+delay Eclipse.txt 1 2185 
+viewer Eclipse.txt 2 68 1325 
+neptune Eclipse.txt 3 2041 2078 2908 
+disambiguation Eclipse.txt 2 7 11 
+measure Eclipse.txt 1 1958 
+km/h Eclipse.txt 1 1472 
+13th Eclipse.txt 1 1908 
+have Eclipse.txt 6 1844 1954 2079 2488 2561 2566 
+seen Eclipse.txt 6 22 2064 2413 2450 2685 2743 
+any Eclipse.txt 3 398 506 574 
+viewed Eclipse.txt 7 379 587 1099 1233 1410 1437 1514 
+relatively Eclipse.txt 2 1403 1415 
+lie Eclipse.txt 1 2660 
+angle Eclipse.txt 1 948 
+1969 Eclipse.txt 1 1575 
+latter Eclipse.txt 1 523 
+umbral Eclipse.txt 1 858 
+umbra Eclipse.txt 12 480 487 491 653 681 895 1291 1299 1463 1740 1751 1781 
+instance Eclipse.txt 1 994 
+umbras Eclipse.txt 1 800 
+which Eclipse.txt 10 433 446 453 843 950 998 1181 1873 2092 2560 
+finding Eclipse.txt 1 1921 
+non-circular Eclipse.txt 1 366 
+1,700 Eclipse.txt 1 1471 
+stone Eclipse.txt 1 1886 
+commonplace Eclipse.txt 1 2468 
+centre Eclipse.txt 2 1337 2652 
+track Eclipse.txt 2 1417 1440 
+object Eclipse.txt 6 45 499 524 789 831 875 
+reach Eclipse.txt 1 1302 
+most Eclipse.txt 3 124 1420 2088 
+involving Eclipse.txt 1 1075 
+eight Eclipse.txt 1 2598 
+printed Eclipse.txt 1 2002 
+successive Eclipse.txt 1 1027 
+pair Eclipse.txt 3 2602 2616 2814 
+icon Eclipse.txt 1 1331 
+equatorial Eclipse.txt 1 2262 
+consequences Eclipse.txt 1 1998 
+average Eclipse.txt 2 835 2580 
+sometimes Eclipse.txt 1 1497 
+cover Eclipse.txt 2 1499 2445 
+km Eclipse.txt 4 842 855 932 1446 
+order Eclipse.txt 1 1984 
+points Eclipse.txt 2 1538 2289 
+sunset Eclipse.txt 1 1791 
+eklep Eclipse.txt 1 452 
+typically Eclipse.txt 2 547 600 
+fact Eclipse.txt 1 1524 
+atmosphere Eclipse.txt 3 878 1778 1793 
+particularly Eclipse.txt 1 391 
+probe Eclipse.txt 2 1580 2069 
+brief Eclipse.txt 1 1404 
+discovered Eclipse.txt 2 2158 2768 
+radii Eclipse.txt 1 2443 
+uranus Eclipse.txt 3 2036 2076 2904 
+argues Eclipse.txt 1 1883 
+earth Eclipse.txt 24 264 295 305 387 833 862 920 945 1050 1078 1120 1143 1248 1277 1288 1307 1517 1569 1653 2200 2328 2473 2845 2855 
+fear Eclipse.txt 1 1995 
+giant Eclipse.txt 1 2072 
+ratio Eclipse.txt 1 1389 
+parameters Eclipse.txt 1 2545 
+front Eclipse.txt 4 1258 2689 2733 2816 
+occultation Eclipse.txt 2 112 1526 
+enough Eclipse.txt 1 2438 
+semimajor Eclipse.txt 1 850 
+only Eclipse.txt 14 232 571 679 1083 1126 1311 1408 1638 1727 2221 2278 2305 2424 2465 
+kleipsis Eclipse.txt 1 432 
+8 Eclipse.txt 1 2627 
+local Eclipse.txt 1 2357 
+over Eclipse.txt 3 1015 1712 1950 
+giants Eclipse.txt 2 2021 2219 
+penumbra Eclipse.txt 8 481 488 492 674 683 728 1329 1730 
+anomalistic Eclipse.txt 1 1928 
+viewpoint Eclipse.txt 1 694 
+means Eclipse.txt 2 434 454 
+moons Eclipse.txt 15 135 178 260 301 849 1066 1295 1462 2081 2096 2129 2141 2435 2460 2563 
+12 Eclipse.txt 1 1566 
+nearly Eclipse.txt 5 699 1087 1507 1670 2271 
+closely Eclipse.txt 1 2673 
+timing Eclipse.txt 1 2312 
+during Eclipse.txt 16 13 234 272 621 675 868 900 924 1151 1159 1278 1490 1639 1761 2153 2226 
+saturn Eclipse.txt 7 1582 2032 2059 2075 2265 2298 2900 
+chronological Eclipse.txt 1 1856 
+17 Eclipse.txt 1 2165 
+luminosity Eclipse.txt 6 883 2709 2722 2738 2747 2829 
+twice Eclipse.txt 1 1148 
+ruddy Eclipse.txt 1 911 
+shots Eclipse.txt 1 1240 
+fixed Eclipse.txt 1 582 
+where Eclipse.txt 4 95 806 1069 1451 
+view Eclipse.txt 2 1047 1334 
+temporarily Eclipse.txt 1 47 
+computed Eclipse.txt 1 2352 
+observer Eclipse.txt 5 649 659 670 2370 2680 
+up Eclipse.txt 1 1443 
+observed Eclipse.txt 8 1245 1457 1536 1567 1581 1668 2339 2568 
+see Eclipse.txt 4 5 2023 2126 2838 
+individual Eclipse.txt 1 2726 
+radius Eclipse.txt 2 810 819 
+result Eclipse.txt 2 108 2694 
+close Eclipse.txt 1 1131 
+calendar Eclipse.txt 1 1179 
+constellation Eclipse.txt 1 2776 
+august Eclipse.txt 1 1230 
+phases Eclipse.txt 1 1759 
+occults Eclipse.txt 1 2060 
+1600s Eclipse.txt 1 1968 
+wikipedia Eclipse.txt 1 1 
+behind Eclipse.txt 1 1097 
+various Eclipse.txt 1 1185 
+between Eclipse.txt 5 64 1192 1239 2235 2529 
+neither Eclipse.txt 1 2432 
+across Eclipse.txt 1 2571 
+wide Eclipse.txt 1 1447 
+knowing Eclipse.txt 1 2330 
+terms Eclipse.txt 1 708 
+creating Eclipse.txt 1 536 
+right Eclipse.txt 1 1603 
+emitted Eclipse.txt 1 532 
+however Eclipse.txt 6 153 879 1448 1766 2564 2788 
+jovian Eclipse.txt 1 2315 
+saturns Eclipse.txt 2 2261 2291 
+article Eclipse.txt 6 486 958 1220 1593 2401 2503 
+pluto Eclipse.txt 4 2500 2507 2508 2912 
+ios Eclipse.txt 1 2057 
+both Eclipse.txt 7 307 343 1379 2492 2547 2565 2658 
+c Eclipse.txt 1 640 
+last Eclipse.txt 2 772 1428 
+repeating Eclipse.txt 1 989 
+many Eclipse.txt 3 413 2080 2520 
+region Eclipse.txt 5 538 568 579 616 1450 
+disseminate Eclipse.txt 1 1986 
+hours Eclipse.txt 2 1698 2801 
+equal Eclipse.txt 4 838 1375 2120 2716 
+called Eclipse.txt 1 2703 
+became Eclipse.txt 1 2144 
+passing Eclipse.txt 4 51 181 193 572 
+whole Eclipse.txt 1 1023 
+point Eclipse.txt 1 401 
+sweep Eclipse.txt 1 565 
+respect Eclipse.txt 2 553 1113 
+250 Eclipse.txt 1 1445 
+earthproducing Eclipse.txt 1 908 
+november Eclipse.txt 1 1893 
+publishing Eclipse.txt 1 1972 
+three Eclipse.txt 7 72 627 1242 1717 1758 1923 2217 
+been Eclipse.txt 4 1845 1955 2489 2567 
+much Eclipse.txt 5 845 1459 1679 1787 2633 
+ireland Eclipse.txt 1 1888 
+mars Eclipse.txt 14 723 2398 2406 2411 2416 2423 2462 2496 2869 2874 2878 2881 2886 2890 
+expected Eclipse.txt 2 2169 2332 
+1679 Eclipse.txt 1 2394 
+gas Eclipse.txt 3 2020 2071 2218 
+dates Eclipse.txt 1 1851 
+observers Eclipse.txt 2 220 2324 
+observe Eclipse.txt 2 98 1683 
+external Eclipse.txt 1 2915 
+repetition Eclipse.txt 1 1002 
+spin Eclipse.txt 1 1965 
+former Eclipse.txt 1 535 
+has Eclipse.txt 6 876 1812 2093 2253 2266 2782 
+unlike Eclipse.txt 1 1657 
+these Eclipse.txt 9 231 548 1136 1167 1614 2107 2160 2533 2828 
+straight Eclipse.txt 1 1090 
+eclipsed Eclipse.txt 2 1551 2483 
+value Eclipse.txt 1 1369 
+will Eclipse.txt 5 525 564 1029 1464 2619 
+cast Eclipse.txt 4 173 185 495 923 
+while Eclipse.txt 2 1527 1880 
+eclipses Eclipse.txt 50 207 230 316 369 376 390 716 967 1028 1070 1123 1156 1176 1202 1207 1214 1321 1383 1401 1626 1721 1754 1834 1843 1947 1981 2000 2026 2030 2034 2039 2086 2103 2137 2220 2317 2427 2457 2487 2505 2521 2527 2553 2876 2888 2894 2898 2902 2906 2910 
+2100 Eclipse.txt 1 1195 
+31 Eclipse.txt 1 1432 
+periods Eclipse.txt 1 2225 
+seven Eclipse.txt 3 1175 1201 1213 
+30 Eclipse.txt 2 1709 1894 
+eastward Eclipse.txt 1 1466 
+equator Eclipse.txt 1 2382 
+averaging Eclipse.txt 1 1705 
+is Eclipse.txt 59 36 46 75 86 106 123 360 406 425 447 595 624 650 660 671 687 698 748 790 803 808 815 822 837 844 952 995 1020 1110 1130 1241 1310 1326 1351 1359 1370 1387 1442 1458 1506 1522 1532 1607 1646 1678 1769 1821 2056 2123 2299 2304 2436 2482 2515 2671 2695 2715 2742 2803 
+thus Eclipse.txt 2 1816 2083 
+it Eclipse.txt 11 65 96 154 359 761 775 951 1474 1677 2122 2156 
+surface Eclipse.txt 7 140 405 1304 1480 1546 2453 2494 
+according Eclipse.txt 2 1183 2611 
+itself Eclipse.txt 1 1703 
+cone Eclipse.txt 1 859 
+io Eclipse.txt 1 2049 
+in Eclipse.txt 37 26 308 509 577 607 713 949 968 1000 1088 1177 1203 1215 1257 1315 1378 1411 1523 1539 1574 1587 1789 1824 1865 1887 1937 1960 1983 2393 2591 2666 2688 2732 2758 2774 2815 2836 
+casting Eclipse.txt 1 2130 
+martian Eclipse.txt 1 2486 
+synodic Eclipse.txt 1 1927 
+if Eclipse.txt 4 208 290 342 872 
+orbital Eclipse.txt 11 983 1043 1105 1116 2149 2243 2255 2274 2295 2442 2664 
+binary Eclipse.txt 5 201 2640 2706 2713 2763 
+different Eclipse.txt 1 1033 
+member Eclipse.txt 1 2811 
+make Eclipse.txt 1 1621 
+same Eclipse.txt 4 310 355 707 1509 
+shorter Eclipse.txt 1 1801 
+parts Eclipse.txt 2 628 1034 
+contents Eclipse.txt 1 420 
+largest Eclipse.txt 1 2512 
+draconitic Eclipse.txt 1 1929 
+several Eclipse.txt 1 1697 
+events Eclipse.txt 6 160 1405 1829 2161 2535 2604 
+european Eclipse.txt 1 1969 
+cassinihuygens Eclipse.txt 1 2067 
+satellite Eclipse.txt 1 2316 
+extended Eclipse.txt 1 515 
+prominences Eclipse.txt 1 19 
+upon Eclipse.txt 3 1060 2133 2326 
+moving Eclipse.txt 3 169 551 953 
+frequently Eclipse.txt 1 2084 
+opportunity Eclipse.txt 1 2417 
+cycle Eclipse.txt 2 960 963 
+kept Eclipse.txt 1 1846 
+center Eclipse.txt 1 1053 
+blood Eclipse.txt 1 1819 
+classical-era Eclipse.txt 1 1898 
+well Eclipse.txt 1 29 
+roughly Eclipse.txt 1 612 
+perseus Eclipse.txt 1 2777 
+patterns Eclipse.txt 1 991 
+contact Eclipse.txt 4 731 747 759 773 
+b.c Eclipse.txt 2 1879 1896 
+position Eclipse.txt 2 94 221 
+the Eclipse.txt 277 14 24 53 67 83 107 120 134 138 146 150 162 171 183 195 209 212 219 223 238 245 248 252 256 259 263 265 286 291 294 297 300 304 309 354 363 381 386 403 418 423 428 435 437 440 450 517 520 522 534 542 545 561 578 601 604 615 648 652 658 662 669 673 680 693 696 704 706 718 729 734 743 750 755 767 778 787 793 795 799 809 812 816 823 826 829 848 857 861 866 873 882 885 891 894 904 907 914 921 938 941 944 947 982 986 996 1036 1046 1049 1052 1055 1061 1065 1076 1101 1104 1108 1115 1119 1121 1128 1133 1139 1141 1198 1223 1237 1247 1254 1260 1262 1270 1273 1276 1279 1287 1290 1294 1298 1303 1306 1308 1324 1328 1333 1336 1343 1348 1352 1355 1362 1384 1388 1391 1395 1398 1419 1449 1461 1478 1494 1500 1508 1511 1516 1544 1547 1556 1562 1568 1572 1578 1585 1596 1610 1622 1629 1633 1644 1648 1652 1655 1664 1724 1728 1733 1738 1744 1749 1767 1776 1780 1792 1804 1807 1817 1866 1907 1919 1961 1967 1997 2005 2009 2053 2061 2066 2070 2087 2111 2114 2127 2136 2139 2154 2174 2178 2184 2189 2199 2206 2210 2215 2227 2236 2239 2242 2246 2248 2273 2280 2285 2294 2311 2314 2327 2331 2347 2356 2360 2362 2366 2369 2380 2415 2446 2452 2455 2459 2493 2517 2538 2543 2572 2575 2614 2655 2676 2681 2693 2707 2718 2721 2725 2735 2737 2740 2746 2752 2760 2775 2792 2806 2809 2813 2818 2821 
+binaries Eclipse.txt 1 2637 
+bodies Eclipse.txt 5 101 785 987 1553 2108 
+left Eclipse.txt 1 1605 
+spherical Eclipse.txt 1 784 
+jupiters Eclipse.txt 1 2134 
+less Eclipse.txt 1 2606 
+being Eclipse.txt 1 531 
+when Eclipse.txt 35 42 89 133 145 244 647 657 668 733 749 760 774 786 966 981 1084 1127 1253 1286 1297 1323 1513 1535 1561 1577 1628 1643 1723 1732 1743 2170 2334 2480 2668 2728 
+accurate Eclipse.txt 1 2540 
+1783 Eclipse.txt 1 2837 
+crew Eclipse.txt 1 1563 
+sources Eclipse.txt 1 780 
+cease Eclipse.txt 1 461 
+using Eclipse.txt 1 2008 
+3.844 Eclipse.txt 1 853 
+paul Eclipse.txt 1 1881 
+speed Eclipse.txt 1 2211 
+alignment Eclipse.txt 2 70 2759 
+rover Eclipse.txt 1 2418 
+enters Eclipse.txt 1 1779 
+greenwich Eclipse.txt 1 2346 
+tablet Eclipse.txt 1 1864 
+also Eclipse.txt 8 87 156 205 2024 2319 2477 2516 2839 
+mathematically Eclipse.txt 1 1915 
+source Eclipse.txt 3 504 745 757 
+location Eclipse.txt 5 576 591 939 1690 2677 
+extensive Eclipse.txt 1 31 
+apart Eclipse.txt 1 80 
+photographed Eclipse.txt 1 2490 
+march Eclipse.txt 2 1876 2420 
+around Eclipse.txt 8 251 262 296 303 541 1166 2379 2649 
+showing Eclipse.txt 1 1064 
+possible Eclipse.txt 3 2306 2430 2466 
+harmonic Eclipse.txt 1 990 
+dark Eclipse.txt 1 1772 
+charon Eclipse.txt 1 2514 
+world Eclipse.txt 1 1037 
+shadow Eclipse.txt 16 54 136 152 172 184 196 540 563 620 802 922 942 1296 1635 2058 2112 
+intersection Eclipse.txt 1 1134 
+occurring Eclipse.txt 3 396 2163 2471 
+re-map Eclipse.txt 1 2396 
+d Eclipse.txt 1 2391 
+excluding Eclipse.txt 1 1204 
+sizes Eclipse.txt 2 284 1393 
+shaped Eclipse.txt 1 614 
+audience Eclipse.txt 1 1992 
+either Eclipse.txt 4 49 110 129 2007 
+clay Eclipse.txt 1 1863 
+refracted Eclipse.txt 3 889 1774 1810 
+because Eclipse.txt 7 361 688 1018 1103 1502 2371 2431 
+often Eclipse.txt 2 125 1822 
+picture Eclipse.txt 1 2043 
+titan Eclipse.txt 2 2250 2277 
+some Eclipse.txt 2 527 880 
+back Eclipse.txt 2 1832 1949 
+preposition Eclipse.txt 1 470 
+3.4 Eclipse.txt 1 2796 
+elements Eclipse.txt 1 2150 
+jupiter Eclipse.txt 8 2028 2045 2074 2091 2143 2171 2197 2896 
+examples Eclipse.txt 1 1559 
+sight Eclipse.txt 1 2283 
+images Eclipse.txt 1 1613 
+happens Eclipse.txt 3 271 980 1637 
+scale Eclipse.txt 2 1347 1489 
+describing Eclipse.txt 1 714 
+for Eclipse.txt 17 2 165 222 505 580 783 832 898 1364 1429 1674 1855 1918 2192 2251 2387 2797 
+non-planar Eclipse.txt 1 364 
+measurements Eclipse.txt 1 2541 
+recorded Eclipse.txt 1 1836 
+per Eclipse.txt 1 933 
+moon Eclipse.txt 38 147 180 192 199 289 332 340 697 867 905 915 1058 1080 1109 1129 1255 1274 1344 1363 1396 1495 1557 1630 1642 1645 1665 1725 1734 1745 1768 1808 1820 2048 2240 2249 2513 2844 2856 
+does Eclipse.txt 1 1300 
+lunar Eclipse.txt 23 143 229 327 375 677 870 1007 1206 1589 1594 1600 1625 1685 1692 1720 1753 1764 1828 1924 1978 2857 2862 2865 
+provides Eclipse.txt 2 1783 1911 
+tends Eclipse.txt 1 1794 
+period Eclipse.txt 2 1161 2296 
+dating Eclipse.txt 1 1857 
+refer Eclipse.txt 1 157 
+be Eclipse.txt 21 21 325 353 378 478 514 710 888 1030 1095 1171 1409 1436 1456 1550 1667 1853 2338 2351 2684 2767 
+goodricke Eclipse.txt 1 2835 
+bc Eclipse.txt 1 1910 
+seconds Eclipse.txt 1 1433 
+annular Eclipse.txt 7 277 636 655 1317 1380 1529 2848 
+host Eclipse.txt 1 188 
+lasts Eclipse.txt 1 1694 
+filaments Eclipse.txt 1 33 
+sun-moon Eclipse.txt 1 629 
+obscured Eclipse.txt 1 48 
+by Eclipse.txt 25 50 59 174 186 496 533 805 906 973 1361 1552 1809 1966 2051 2142 2188 2329 2353 2389 2414 2461 2484 2594 2805 2833 
+on Eclipse.txt 32 282 402 742 834 919 937 943 1229 1269 1647 1875 1892 2027 2031 2035 2040 2173 2214 2422 2506 2556 2579 2621 2630 2661 2877 2889 2895 2899 2903 2907 2911 
+about Eclipse.txt 6 1163 1708 1934 2164 2258 2307 
+rare Eclipse.txt 2 408 2478 
+face Eclipse.txt 1 2573 
+of Eclipse.txt 127 55 71 109 176 197 211 214 226 241 247 258 267 285 293 362 385 442 466 474 529 539 544 569 584 603 617 695 703 720 766 798 811 852 860 881 884 893 903 913 940 977 985 1003 1025 1035 1048 1107 1118 1135 1162 1200 1212 1225 1259 1264 1272 1293 1305 1338 1354 1390 1394 1470 1482 1564 1598 1651 1663 1719 1806 1826 1841 1858 1901 1933 1945 1964 1996 1999 2044 2113 2138 2177 2209 2212 2238 2245 2270 2276 2282 2297 2313 2359 2368 2374 2403 2408 2433 2454 2458 2495 2519 2524 2542 2546 2574 2583 2588 2597 2603 2617 2644 2653 2657 2678 2690 2698 2710 2720 2734 2739 2786 2808 2812 2817 2871 2883 
+months Eclipse.txt 1 1165 
+introduced Eclipse.txt 1 2832 
+or Eclipse.txt 14 58 115 141 190 279 439 459 724 771 1006 1012 1374 1940 2011 
+block Eclipse.txt 1 526 
+into Eclipse.txt 9 52 149 170 182 194 626 890 1737 1748 
+within Eclipse.txt 4 651 661 672 754 
+due Eclipse.txt 1 2230 
+occulting Eclipse.txt 5 500 788 817 830 874 
+references Eclipse.txt 1 2913 
+novosibirsk Eclipse.txt 1 1235 
+pairs Eclipse.txt 1 2592 
+france Eclipse.txt 1 2397 
+inclination Eclipse.txt 1 2234 
+ole Eclipse.txt 1 2180 
+descriptions Eclipse.txt 1 1825 
+1985 Eclipse.txt 1 2530 
+span Eclipse.txt 1 412 
+phobos Eclipse.txt 6 725 2404 2409 2485 2868 2872 
+sunlight Eclipse.txt 1 1773 
+contributions Eclipse.txt 1 2723 
+low Eclipse.txt 1 2099 
+stars Eclipse.txt 6 217 2646 2659 2682 2727 2754 
+was Eclipse.txt 8 2157 2172 2186 2202 2318 2385 2769 2831 
+complete Eclipse.txt 1 1700 
+form Eclipse.txt 1 988 
+proportionately Eclipse.txt 1 2511 
+differences Eclipse.txt 1 367 
+but Eclipse.txt 4 388 2264 2467 2600 
+volume Eclipse.txt 1 892 
+hemisphere Eclipse.txt 1 1673 
+solar Eclipse.txt 42 16 18 131 227 268 335 350 389 641 1005 1216 1221 1227 1250 1265 1283 1320 1400 1425 1485 1492 1520 1530 1659 1842 1871 1946 1980 2025 2029 2033 2038 2426 2504 2846 2875 2887 2893 2897 2901 2905 2909 
+line Eclipse.txt 4 512 546 1091 2281 
+apollo Eclipse.txt 1 1565 
+with Eclipse.txt 13 255 312 552 1054 1112 1609 1701 1800 1974 2119 2469 2509 2675 
+partially Eclipse.txt 3 118 1312 1736 
+absent Eclipse.txt 1 479 
+darken Eclipse.txt 1 458 
+whether Eclipse.txt 1 275 
+inside Eclipse.txt 1 1327 
+variations Eclipse.txt 1 2830 
+maximum Eclipse.txt 3 1199 1211 2708 
+planet Eclipse.txt 5 168 189 2116 2247 2456 
+record Eclipse.txt 1 1838 
+books Eclipse.txt 1 1973 
+planes Eclipse.txt 1 1138 
+minutes Eclipse.txt 4 1243 1431 1710 2166 
+display Eclipse.txt 1 2085 
+distance Eclipse.txt 2 824 1271 
+strongly Eclipse.txt 1 1797 
+penumbral Eclipse.txt 3 1205 1722 2859 
+celestial Eclipse.txt 3 73 100 1062 
+intersects Eclipse.txt 3 218 1289 1477 
+certain Eclipse.txt 2 975 2224 
+describe Eclipse.txt 1 128 
+an Eclipse.txt 35 34 37 43 104 111 235 497 598 608 618 622 654 877 901 925 961 1073 1152 1316 1525 1528 1661 1671 1713 1890 2254 2267 2302 2323 2335 2595 2679 2704 2711 2824 
+as Eclipse.txt 18 28 30 77 395 586 597 1189 1244 1510 1788 1830 1833 2063 2106 2293 2345 2412 2449 
+exist Eclipse.txt 1 463 
+at Eclipse.txt 12 329 337 397 917 930 1051 1467 1537 2223 2287 2340 2439 
+planets Eclipse.txt 4 2015 2018 2073 2228 
+babylonian Eclipse.txt 1 1902 
+moves Eclipse.txt 3 148 752 927 
+syrian Eclipse.txt 1 1862 
+physical Eclipse.txt 1 2544 
+mutual Eclipse.txt 1 2526 
+brighter Eclipse.txt 1 2819 
+no Eclipse.txt 3 1475 2562 2756 
+hybrid Eclipse.txt 2 278 2850 
+other Eclipse.txt 11 3 314 556 715 1541 1554 2014 2216 2692 2736 2891 
+5 Eclipse.txt 1 1877 
+details Eclipse.txt 1 1623 
+normal Eclipse.txt 1 2750 
+dimmer Eclipse.txt 1 2810 
+mass Eclipse.txt 1 2654 
+explaining Eclipse.txt 2 1976 2004 
+repeat Eclipse.txt 1 1182 
+star Eclipse.txt 12 202 794 813 827 886 2641 2701 2730 2764 2772 2780 2820 
+4,000 Eclipse.txt 1 1951 
+precision Eclipse.txt 1 1932 
+coronal Eclipse.txt 1 32 
+allowing Eclipse.txt 1 1092 
+variable Eclipse.txt 1 2700 
+29.7 Eclipse.txt 1 2300 
+exposure Eclipse.txt 1 1618 
+longer Eclipse.txt 4 1476 1617 1695 2757 
+normally Eclipse.txt 1 2778 
+interval Eclipse.txt 3 583 976 2596 
+orbit Eclipse.txt 9 213 250 261 292 302 2229 2292 2499 2648 
+daily Eclipse.txt 1 2534 
+portion Eclipse.txt 1 1292 
+nasa Eclipse.txt 1 2613 
+2006 Eclipse.txt 1 1588 
+2004 Eclipse.txt 1 2421 
+time Eclipse.txt 9 585 978 1238 1619 2190 2333 2348 2358 2363 
+far Eclipse.txt 3 1649 1831 2175 
+2008 Eclipse.txt 1 1232 
+once Eclipse.txt 3 2147 2608 2751 
+having Eclipse.txt 1 60 
+eclipsing Eclipse.txt 6 735 2636 2705 2712 2762 2825 

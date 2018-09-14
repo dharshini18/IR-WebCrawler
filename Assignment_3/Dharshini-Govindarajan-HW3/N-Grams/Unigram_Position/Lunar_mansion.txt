@@ -1,0 +1,387 @@
+all Lunar_mansion.txt 1 258 
+concept Lunar_mansion.txt 1 180 
+chinese Lunar_mansion.txt 6 143 168 318 329 334 398 
+month Lunar_mansion.txt 4 65 68 309 367 
+four Lunar_mansion.txt 4 173 387 801 915 
+code Lunar_mansion.txt 1 868 
+asian Lunar_mansion.txt 1 337 
+mansion Lunar_mansion.txt 3 1 5 792 
+pointing Lunar_mansion.txt 1 268 
+segments Lunar_mansion.txt 2 52 83 
+passage Lunar_mansion.txt 1 113 
+to Lunar_mansion.txt 17 54 80 94 176 187 225 261 350 435 472 548 585 640 659 727 762 840 
+rhythm Lunar_mansion.txt 1 779 
+egyptian Lunar_mansion.txt 2 150 293 
+categories Lunar_mansion.txt 2 927 929 
+daksha Lunar_mansion.txt 1 473 
+magic Lunar_mansion.txt 1 294 
+transmission Lunar_mansion.txt 1 263 
+notes Lunar_mansion.txt 2 285 720 
+list Lunar_mansion.txt 3 211 244 492 
+sign Lunar_mansion.txt 2 161 797 
+alphanumeric Lunar_mansion.txt 1 867 
+charted Lunar_mansion.txt 1 77 
+established Lunar_mansion.txt 1 275 
+appear Lunar_mansion.txt 1 204 
+sun Lunar_mansion.txt 1 371 
+indian Lunar_mansion.txt 4 403 417 525 541 
+above Lunar_mansion.txt 3 684 701 724 
+28-mansion Lunar_mansion.txt 1 288 
+movement Lunar_mansion.txt 1 360 
+guardian Lunar_mansion.txt 1 768 
+groups Lunar_mansion.txt 2 170 174 
+phoenician Lunar_mansion.txt 1 834 
+i.e Lunar_mansion.txt 1 795 
+respect Lunar_mansion.txt 1 79 
+36 Lunar_mansion.txt 1 147 
+usually Lunar_mansion.txt 1 424 
+shatapatha Lunar_mansion.txt 1 506 
+via Lunar_mansion.txt 1 292 
+lasts Lunar_mansion.txt 1 69 
+numerology Lunar_mansion.txt 3 711 744 784 
+names Lunar_mansion.txt 2 247 432 
+use Lunar_mansion.txt 1 156 
+from Lunar_mansion.txt 4 445 539 694 829 
+alchandri Lunar_mansion.txt 1 236 
+distinct Lunar_mansion.txt 1 552 
+confounded Lunar_mansion.txt 1 227 
+two Lunar_mansion.txt 2 389 392 
+few Lunar_mansion.txt 1 902 
+therefore Lunar_mansion.txt 2 565 838 
+angels Lunar_mansion.txt 1 760 
+more Lunar_mansion.txt 2 572 616 
+manzil Lunar_mansion.txt 2 555 563 
+tester Lunar_mansion.txt 2 200 248 
+known Lunar_mansion.txt 3 254 716 749 
+keeping Lunar_mansion.txt 1 109 
+animals Lunar_mansion.txt 1 394 
+this Lunar_mansion.txt 1 853 
+nawaa Lunar_mansion.txt 1 579 
+believes Lunar_mansion.txt 1 249 
+values Lunar_mansion.txt 2 906 919 
+can Lunar_mansion.txt 2 344 656 
+following Lunar_mansion.txt 3 600 667 704 
+example Lunar_mansion.txt 1 126 
+history Lunar_mansion.txt 1 195 
+links Lunar_mansion.txt 1 925 
+hebrew Lunar_mansion.txt 2 850 871 
+india Lunar_mansion.txt 1 257 
+numbers Lunar_mansion.txt 1 860 
+station Lunar_mansion.txt 1 15 
+needs Lunar_mansion.txt 1 883 
+rather Lunar_mansion.txt 1 368 
+divided Lunar_mansion.txt 3 47 597 605 
+1 Lunar_mansion.txt 1 735 
+astrologically Lunar_mansion.txt 1 124 
+explains Lunar_mansion.txt 1 201 
+singular Lunar_mansion.txt 1 554 
+derived Lunar_mansion.txt 2 291 538 
+tied Lunar_mansion.txt 1 584 
+reflect Lunar_mansion.txt 1 358 
+islamic Lunar_mansion.txt 2 731 757 
+such Lunar_mansion.txt 2 400 847 
+derives Lunar_mansion.txt 1 828 
+a Lunar_mansion.txt 18 3 7 14 66 194 241 365 373 446 491 578 586 602 622 651 670 695 901 
+effective Lunar_mansion.txt 1 106 
+6th Lunar_mansion.txt 1 280 
+nakshatra Lunar_mansion.txt 2 408 542 
+malaku Lunar_mansion.txt 1 810 
+greek Lunar_mansion.txt 3 246 265 874 
+order Lunar_mansion.txt 5 824 831 842 854 913 
+gematria Lunar_mansion.txt 1 872 
+astronomical Lunar_mansion.txt 1 510 
+move Lunar_mansion.txt 1 549 
+vary Lunar_mansion.txt 1 92 
+symbols Lunar_mansion.txt 1 388 
+xi Lunar_mansion.txt 1 331 
+through Lunar_mansion.txt 4 18 264 364 550 
+its Lunar_mansion.txt 2 24 98 
+astrology Lunar_mansion.txt 4 153 198 207 526 
+unlucky Lunar_mansion.txt 1 304 
+27 Lunar_mansion.txt 2 49 426 
+jim Lunar_mansion.txt 1 199 
+28 Lunar_mansion.txt 7 51 140 326 356 429 494 551 
+forms Lunar_mansion.txt 1 384 
+hidden Lunar_mansion.txt 1 928 
+main Lunar_mansion.txt 2 321 406 
+then Lunar_mansion.txt 1 575 
+them Lunar_mansion.txt 1 514 
+babylonians Lunar_mansion.txt 1 272 
+haly Lunar_mansion.txt 1 238 
+legendary Lunar_mansion.txt 1 393 
+not Lunar_mansion.txt 4 42 155 224 634 
+uttering Lunar_mansion.txt 1 898 
+one Lunar_mansion.txt 3 58 570 615 
+day Lunar_mansion.txt 1 61 
+possess Lunar_mansion.txt 1 864 
+name Lunar_mansion.txt 1 879 
+edit Lunar_mansion.txt 5 320 405 529 923 926 
+always Lunar_mansion.txt 2 43 635 
+chandra Lunar_mansion.txt 1 478 
+each Lunar_mansion.txt 5 60 159 441 562 608 
+found Lunar_mansion.txt 1 496 
+lasting Lunar_mansion.txt 1 564 
+house Lunar_mansion.txt 2 17 556 
+related Lunar_mansion.txt 2 175 434 
+persian Lunar_mansion.txt 1 916 
+year Lunar_mansion.txt 4 375 561 603 697 
+out Lunar_mansion.txt 1 269 
+hellenistic Lunar_mansion.txt 1 206 
+god Lunar_mansion.txt 1 481 
+since Lunar_mansion.txt 1 84 
+atharvaveda Lunar_mansion.txt 1 499 
+astral Lunar_mansion.txt 1 383 
+plural Lunar_mansion.txt 1 580 
+passes Lunar_mansion.txt 1 22 
+ecliptic Lunar_mansion.txt 2 11 450 
+anwaa Lunar_mansion.txt 4 581 607 648 674 
+hemerologies Lunar_mansion.txt 1 312 
+days Lunar_mansion.txt 4 72 305 569 692 
+jibrl Lunar_mansion.txt 1 806 
+first Lunar_mansion.txt 1 509 
+origin Lunar_mansion.txt 1 191 
+mkl Lunar_mansion.txt 1 807 
+manazilu Lunar_mansion.txt 1 789 
+number Lunar_mansion.txt 1 425 
+rank Lunar_mansion.txt 1 763 
+linking Lunar_mansion.txt 1 297 
+precisely Lunar_mansion.txt 1 451 
+earths Lunar_mansion.txt 1 95 
+given Lunar_mansion.txt 3 89 587 891 
+ancient Lunar_mansion.txt 1 31 
+start Lunar_mansion.txt 1 444 
+system Lunar_mansion.txt 8 38 107 169 535 543 715 748 788 
+their Lunar_mansion.txt 4 36 377 431 676 
+2 Lunar_mansion.txt 3 163 691 754 
+scheme Lunar_mansion.txt 1 289 
+final Lunar_mansion.txt 1 378 
+speaking Lunar_mansion.txt 1 799 
+way Lunar_mansion.txt 1 639 
+that Lunar_mansion.txt 7 202 250 270 286 512 688 773 
+lists Lunar_mansion.txt 4 234 259 300 513 
+rsh-b Lunar_mansion.txt 1 330 
+part Lunar_mansion.txt 1 34 
+western Lunar_mansion.txt 3 152 197 352 
+alphabets Lunar_mansion.txt 1 846 
+than Lunar_mansion.txt 1 369 
+eastwards Lunar_mansion.txt 1 460 
+13 Lunar_mansion.txt 1 568 
+accordance Lunar_mansion.txt 1 726 
+chitr Lunar_mansion.txt 1 457 
+were Lunar_mansion.txt 6 253 475 574 583 619 631 
+fengshui Lunar_mansion.txt 1 402 
+and Lunar_mansion.txt 19 145 222 237 240 303 313 335 391 430 458 502 629 675 733 793 809 836 863 873 
+angel Lunar_mansion.txt 3 769 772 878 
+constellations Lunar_mansion.txt 3 439 630 641 
+manner Lunar_mansion.txt 1 601 
+have Lunar_mansion.txt 1 118 
+seen Lunar_mansion.txt 1 547 
+seem Lunar_mansion.txt 1 260 
+theology Lunar_mansion.txt 1 734 
+orders Lunar_mansion.txt 1 816 
+contents Lunar_mansion.txt 1 317 
+general Lunar_mansion.txt 1 40 
+lit Lunar_mansion.txt 1 413 
+also Lunar_mansion.txt 4 284 503 702 857 
+which Lunar_mansion.txt 5 19 536 582 610 618 
+asterisms Lunar_mansion.txt 1 495 
+opposite Lunar_mansion.txt 1 452 
+track Lunar_mansion.txt 1 110 
+amal Lunar_mansion.txt 1 756 
+resonates Lunar_mansion.txt 1 739 
+most Lunar_mansion.txt 1 437 
+regular Lunar_mansion.txt 1 652 
+connected Lunar_mansion.txt 1 636 
+seasons Lunar_mansion.txt 2 115 178 
+segment Lunar_mansion.txt 1 8 
+l-maut Lunar_mansion.txt 1 811 
+considered Lunar_mansion.txt 2 186 346 
+sometimes Lunar_mansion.txt 2 428 632 
+traditional Lunar_mansion.txt 4 397 485 532 729 
+points Lunar_mansion.txt 1 661 
+sector Lunar_mansion.txt 1 442 
+text Lunar_mansion.txt 1 511 
+earth Lunar_mansion.txt 1 27 
+based Lunar_mansion.txt 2 489 896 
+betray Lunar_mansion.txt 1 262 
+archangels Lunar_mansion.txt 1 802 
+groupings Lunar_mansion.txt 1 277 
+his Lunar_mansion.txt 1 193 
+dominant Lunar_mansion.txt 1 623 
+lucky Lunar_mansion.txt 1 302 
+words Lunar_mansion.txt 1 592 
+during Lunar_mansion.txt 1 557 
+isrfl Lunar_mansion.txt 1 808 
+though Lunar_mansion.txt 3 41 251 267 
+coptic Lunar_mansion.txt 1 243 
+fixed Lunar_mansion.txt 4 56 82 213 660 
+view Lunar_mansion.txt 1 758 
+lettering Lunar_mansion.txt 1 827 
+relative Lunar_mansion.txt 1 53 
+culture Lunar_mansion.txt 2 133 399 
+are Lunar_mansion.txt 12 104 185 332 415 433 488 521 685 690 856 907 920 
+calendar Lunar_mansion.txt 3 37 665 681 
+constellation Lunar_mansion.txt 2 626 794 
+transliteration Lunar_mansion.txt 1 888 
+pattern Lunar_mansion.txt 2 589 595 
+wikipedia Lunar_mansion.txt 1 2 
+3 Lunar_mansion.txt 2 165 813 
+various Lunar_mansion.txt 1 116 
+tyre Lunar_mansion.txt 1 231 
+moons Lunar_mansion.txt 2 74 86 
+islam Lunar_mansion.txt 1 804 
+consonants Lunar_mansion.txt 1 900 
+notice Lunar_mansion.txt 1 687 
+phoenician-derived Lunar_mansion.txt 1 845 
+missing Lunar_mansion.txt 1 693 
+gregorian Lunar_mansion.txt 2 664 680 
+article Lunar_mansion.txt 2 322 407 
+dates Lunar_mansion.txt 1 683 
+astrologer Lunar_mansion.txt 1 223 
+ilm Lunar_mansion.txt 2 718 751 
+according Lunar_mansion.txt 1 93 
+attributed Lunar_mansion.txt 1 471 
+yearly Lunar_mansion.txt 1 594 
+l-qamar Lunar_mansion.txt 1 790 
+point Lunar_mansion.txt 1 447 
+nakshatras Lunar_mansion.txt 4 130 410 469 483 
+moreover Lunar_mansion.txt 1 645 
+prominent Lunar_mansion.txt 1 438 
+hindu Lunar_mansion.txt 2 132 463 
+poet Lunar_mansion.txt 1 221 
+2nd-century Lunar_mansion.txt 1 210 
+twenty-eight Lunar_mansion.txt 1 323 
+corresponding Lunar_mansion.txt 1 776 
+nkatras Lunar_mansion.txt 1 412 
+external Lunar_mansion.txt 1 924 
+an Lunar_mansion.txt 2 105 881 
+those Lunar_mansion.txt 2 81 877 
+has Lunar_mansion.txt 1 706 
+these Lunar_mansion.txt 2 627 918 
+value Lunar_mansion.txt 2 709 742 
+will Lunar_mansion.txt 1 91 
+mythology Lunar_mansion.txt 1 464 
+19.7 Lunar_mansion.txt 1 501 
+century Lunar_mansion.txt 1 281 
+is Lunar_mansion.txt 10 6 46 76 470 515 669 770 805 837 892 
+in Lunar_mansion.txt 29 23 39 97 190 192 205 208 215 255 372 376 396 440 461 497 504 530 590 598 637 642 698 710 725 743 783 803 852 909 
+arabic Lunar_mansion.txt 7 135 233 527 533 737 777 887 
+different Lunar_mansion.txt 1 908 
+isopsephy Lunar_mansion.txt 1 875 
+develop Lunar_mansion.txt 1 459 
+alphabet Lunar_mansion.txt 5 738 778 782 835 851 
+decans Lunar_mansion.txt 1 148 
+same Lunar_mansion.txt 1 866 
+parts Lunar_mansion.txt 1 523 
+breakdown Lunar_mansion.txt 1 671 
+numerals Lunar_mansion.txt 1 862 
+used Lunar_mansion.txt 5 29 119 825 858 921 
+closest Lunar_mansion.txt 1 894 
+numerical Lunar_mansion.txt 1 905 
+upon Lunar_mansion.txt 2 886 897 
+bhartiya Lunar_mansion.txt 1 486 
+cycle Lunar_mansion.txt 1 654 
+sidereal Lunar_mansion.txt 2 67 366 
+ul-adad Lunar_mansion.txt 1 719 
+well Lunar_mansion.txt 1 274 
+abjad Lunar_mansion.txt 6 714 747 787 823 861 912 
+sets Lunar_mansion.txt 1 120 
+position Lunar_mansion.txt 4 75 87 96 677 
+the Lunar_mansion.txt 95 10 20 44 55 63 73 85 101 112 127 134 139 146 167 177 179 182 209 216 220 232 271 279 287 296 299 307 311 315 325 333 340 348 351 355 359 362 370 382 386 409 416 420 436 449 453 465 468 479 482 498 505 508 516 519 531 540 544 558 593 599 643 647 663 666 673 679 682 699 703 713 722 736 740 746 755 765 771 775 781 786 800 814 818 821 830 833 841 849 865 890 893 899 904 910 
+brahmana Lunar_mansion.txt 1 507 
+they Lunar_mansion.txt 8 203 252 343 380 423 443 474 655 
+sources Lunar_mansion.txt 1 266 
+alternative Lunar_mansion.txt 1 911 
+alphabetical Lunar_mansion.txt 3 708 741 815 
+had Lunar_mansion.txt 1 273 
+katarchai Lunar_mansion.txt 1 217 
+source Lunar_mansion.txt 1 884 
+4 Lunar_mansion.txt 1 876 
+sanskrit Lunar_mansion.txt 1 456 
+east Lunar_mansion.txt 1 336 
+real Lunar_mansion.txt 1 390 
+around Lunar_mansion.txt 1 26 
+jyotisha Lunar_mansion.txt 2 128 518 
+rules Lunar_mansion.txt 1 774 
+wives Lunar_mansion.txt 1 476 
+arab Lunar_mansion.txt 1 730 
+babylonian Lunar_mansion.txt 1 189 
+mansions Lunar_mansion.txt 16 103 123 141 157 166 171 184 319 324 328 342 357 404 422 520 528 
+follows Lunar_mansion.txt 1 817 
+often Lunar_mansion.txt 2 12 28 
+classical Lunar_mansion.txt 1 462 
+sequence Lunar_mansion.txt 1 819 
+creation Lunar_mansion.txt 1 466 
+some Lunar_mansion.txt 1 638 
+table Lunar_mansion.txt 3 668 700 723 
+embodied Lunar_mansion.txt 1 381 
+for Lunar_mansion.txt 6 59 108 125 566 826 914 
+normal Lunar_mansion.txt 1 559 
+moon Lunar_mansion.txt 4 21 363 480 545 
+does Lunar_mansion.txt 1 154 
+lunar Lunar_mansion.txt 12 0 4 64 102 122 183 276 308 327 341 421 791 
+be Lunar_mansion.txt 4 188 226 345 657 
+azrl Lunar_mansion.txt 1 812 
+bc Lunar_mansion.txt 1 282 
+vedic Lunar_mansion.txt 1 256 
+equivalent Lunar_mansion.txt 2 349 761 
+27.3 Lunar_mansion.txt 1 71 
+although Lunar_mansion.txt 1 354 
+by Lunar_mansion.txt 5 30 218 235 278 295 
+stage Lunar_mansion.txt 1 90 
+on Lunar_mansion.txt 5 448 490 650 662 678 
+about Lunar_mansion.txt 2 70 567 
+of Lunar_mansion.txt 39 9 35 62 111 114 121 131 142 149 181 196 212 230 298 301 306 339 361 385 419 467 477 484 493 524 609 614 672 712 721 745 759 764 780 785 820 832 843 903 
+cipher Lunar_mansion.txt 1 869 
+or Lunar_mansion.txt 7 16 50 164 411 571 625 767 
+own Lunar_mansion.txt 1 99 
+letters Lunar_mansion.txt 3 705 855 917 
+into Lunar_mansion.txt 4 48 172 577 606 
+vedanga Lunar_mansion.txt 1 517 
+weather Lunar_mansion.txt 1 588 
+references Lunar_mansion.txt 1 922 
+there Lunar_mansion.txt 1 689 
+approximate Lunar_mansion.txt 1 686 
+strict Lunar_mansion.txt 1 728 
+pronunciation Lunar_mansion.txt 1 895 
+stars Lunar_mansion.txt 4 57 214 414 628 
+cultures Lunar_mansion.txt 2 32 117 
+was Lunar_mansion.txt 6 290 537 546 596 604 611 
+form Lunar_mansion.txt 3 338 379 418 
+but Lunar_mansion.txt 4 158 427 633 889 
+solar Lunar_mansion.txt 4 374 560 653 696 
+spica Lunar_mansion.txt 1 455 
+with Lunar_mansion.txt 7 78 228 245 310 314 621 880 
+he Lunar_mansion.txt 1 283 
+made Lunar_mansion.txt 1 612 
+up Lunar_mansion.txt 1 613 
+ul Lunar_mansion.txt 1 752 
+maximus Lunar_mansion.txt 2 219 229 
+zodiac Lunar_mansion.txt 6 45 160 316 353 644 796 
+manzils Lunar_mansion.txt 1 136 
+similar Lunar_mansion.txt 2 242 839 
+called Lunar_mansion.txt 1 13 
+associated Lunar_mansion.txt 1 620 
+al-qamar Lunar_mansion.txt 1 138 
+citation Lunar_mansion.txt 1 885 
+covers Lunar_mansion.txt 1 162 
+watcher Lunar_mansion.txt 1 766 
+as Lunar_mansion.txt 9 33 347 401 646 717 750 848 859 870 
+at Lunar_mansion.txt 1 88 
+av Lunar_mansion.txt 1 500 
+abenragel Lunar_mansion.txt 1 239 
+no Lunar_mansion.txt 1 707 
+generally Lunar_mansion.txt 1 798 
+grouped Lunar_mansion.txt 1 576 
+other Lunar_mansion.txt 2 591 844 
+astrological Lunar_mansion.txt 2 129 534 
+repeat Lunar_mansion.txt 1 649 
+star Lunar_mansion.txt 2 454 624 
+asterisk Lunar_mansion.txt 1 882 
+important Lunar_mansion.txt 2 395 522 
+astronomy Lunar_mansion.txt 4 144 151 487 732 
+correlated Lunar_mansion.txt 1 658 
+orbit Lunar_mansion.txt 2 25 100 
+manazil Lunar_mansion.txt 4 137 553 573 617 
+adad Lunar_mansion.txt 1 753 
+original Lunar_mansion.txt 1 822 

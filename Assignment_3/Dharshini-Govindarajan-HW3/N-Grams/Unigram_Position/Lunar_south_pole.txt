@@ -1,0 +1,496 @@
+caused Lunar_south_pole.txt 1 1378 
+magnetic Lunar_south_pole.txt 5 1054 1230 1261 1352 1416 
+global Lunar_south_pole.txt 1 1155 
+spacecraft Lunar_south_pole.txt 1 327 
+crater Lunar_south_pole.txt 3 301 599 896 
+environment Lunar_south_pole.txt 1 462 
+to Lunar_south_pole.txt 42 45 139 178 222 240 305 424 458 482 543 547 560 568 595 614 650 671 686 700 735 764 771 813 859 870 881 908 915 938 991 1032 1118 1143 1235 1272 1298 1319 1337 1345 1375 1396 1410 
+permanently Lunar_south_pole.txt 2 56 506 
+elliptic Lunar_south_pole.txt 1 197 
+under Lunar_south_pole.txt 1 690 
+include Lunar_south_pole.txt 1 310 
+dramatically Lunar_south_pole.txt 1 834 
+resources Lunar_south_pole.txt 2 423 522 
+far Lunar_south_pole.txt 1 133 
+connects Lunar_south_pole.txt 1 593 
+lro Lunar_south_pole.txt 3 393 429 478 
+stays Lunar_south_pole.txt 1 1161 
+minerals Lunar_south_pole.txt 1 517 
+categories Lunar_south_pole.txt 2 1432 1434 
+did Lunar_south_pole.txt 1 1383 
+large Lunar_south_pole.txt 1 535 
+pole-aitken Lunar_south_pole.txt 1 236 
+occurrence Lunar_south_pole.txt 1 51 
+findings Lunar_south_pole.txt 1 1391 
+10m Lunar_south_pole.txt 1 651 
+second Lunar_south_pole.txt 1 903 
+dynamics Lunar_south_pole.txt 1 1055 
+blue Lunar_south_pole.txt 2 864 899 
+90s Lunar_south_pole.txt 1 140 
+what Lunar_south_pole.txt 1 1256 
+darkness Lunar_south_pole.txt 2 205 667 
+sun Lunar_south_pole.txt 1 969 
+crust Lunar_south_pole.txt 2 1251 1371 
+indias Lunar_south_pole.txt 1 902 
+experiment Lunar_south_pole.txt 1 435 
+poles Lunar_south_pole.txt 2 64 1153 
+above Lunar_south_pole.txt 2 648 652 
+scientists Lunar_south_pole.txt 7 46 413 556 577 600 682 1115 
+new Lunar_south_pole.txt 1 848 
+ground Lunar_south_pole.txt 2 649 653 
+ever Lunar_south_pole.txt 1 936 
+temperatures Lunar_south_pole.txt 1 1198 
+revealing Lunar_south_pole.txt 1 847 
+deemed Lunar_south_pole.txt 1 578 
+led Lunar_south_pole.txt 1 1142 
+degree Lunar_south_pole.txt 1 1218 
+never Lunar_south_pole.txt 1 209 
+understanding Lunar_south_pole.txt 1 837 
+water Lunar_south_pole.txt 8 35 53 365 387 485 564 1087 1095 
+meteorites Lunar_south_pole.txt 1 1103 
+possibility Lunar_south_pole.txt 1 1208 
+november Lunar_south_pole.txt 1 804 
+appears Lunar_south_pole.txt 1 239 
+precursor Lunar_south_pole.txt 1 768 
+shift Lunar_south_pole.txt 1 167 
+30 Lunar_south_pole.txt 1 691 
+commonly Lunar_south_pole.txt 1 436 
+amount Lunar_south_pole.txt 4 363 1035 1237 1340 
+suitable Lunar_south_pole.txt 1 499 
+studies Lunar_south_pole.txt 1 341 
+station.the Lunar_south_pole.txt 1 428 
+comets Lunar_south_pole.txt 1 1102 
+private Lunar_south_pole.txt 1 752 
+soft-land Lunar_south_pole.txt 1 916 
+illumination Lunar_south_pole.txt 3 950 965 993 
+use Lunar_south_pole.txt 2 687 701 
+from Lunar_south_pole.txt 10 157 192 328 379 646 967 987 1101 1110 1420 
+would Lunar_south_pole.txt 5 519 710 730 879 1215 
+iced Lunar_south_pole.txt 1 1089 
+remains Lunar_south_pole.txt 1 76 
+contains Lunar_south_pole.txt 4 201 217 227 254 
+two Lunar_south_pole.txt 1 1139 
+explorers Lunar_south_pole.txt 1 525 
+haworth Lunar_south_pole.txt 1 316 
+lander Lunar_south_pole.txt 2 901 918 
+successful Lunar_south_pole.txt 1 930 
+cabeus Lunar_south_pole.txt 3 319 367 377 
+company Lunar_south_pole.txt 1 757 
+occurred Lunar_south_pole.txt 1 1419 
+known Lunar_south_pole.txt 2 437 1258 
+sample Lunar_south_pole.txt 1 1113 
+rotational Lunar_south_pole.txt 2 171 293 
+this Lunar_south_pole.txt 8 166 409 624 705 832 878 1254 1339 
+originally Lunar_south_pole.txt 1 1100 
+created Lunar_south_pole.txt 1 1023 
+protons Lunar_south_pole.txt 1 1014 
+can Lunar_south_pole.txt 3 468 997 1093 
+drill Lunar_south_pole.txt 1 821 
+history Lunar_south_pole.txt 1 844 
+nearest Lunar_south_pole.txt 1 304 
+links Lunar_south_pole.txt 1 1430 
+thermally Lunar_south_pole.txt 1 273 
+chandrayaan Lunar_south_pole.txt 1 356 
+high Lunar_south_pole.txt 1 982 
+spa Lunar_south_pole.txt 2 1283 1347 
+hydrogen Lunar_south_pole.txt 1 1029 
+axis Lunar_south_pole.txt 3 172 187 294 
+chandrayaan-2 Lunar_south_pole.txt 2 906 931 
+provide Lunar_south_pole.txt 2 544 615 
+regions Lunar_south_pole.txt 1 1058 
+located Lunar_south_pole.txt 1 126 
+varies Lunar_south_pole.txt 1 1016 
+vital Lunar_south_pole.txt 1 521 
+map Lunar_south_pole.txt 1 326 
+crowdfunding Lunar_south_pole.txt 1 861 
+may Lunar_south_pole.txt 1 683 
+earlier Lunar_south_pole.txt 1 759 
+spot Lunar_south_pole.txt 1 582 
+mapping Lunar_south_pole.txt 1 404 
+reflect Lunar_south_pole.txt 1 999 
+crashed Lunar_south_pole.txt 1 372 
+explored Lunar_south_pole.txt 1 332 
+designed Lunar_south_pole.txt 1 457 
+waves Lunar_south_pole.txt 3 689 703 709 
+such Lunar_south_pole.txt 3 103 232 256 
+data Lunar_south_pole.txt 2 28 625 
+a Lunar_south_pole.txt 21 14 110 143 361 395 426 431 500 502 609 679 751 766 797 868 882 889 892 917 940 1207 
+attempt Lunar_south_pole.txt 2 812 914 
+light Lunar_south_pole.txt 1 1189 
+nobile Lunar_south_pole.txt 1 317 
+fundamental Lunar_south_pole.txt 1 246 
+theorized Lunar_south_pole.txt 1 1318 
+wind Lunar_south_pole.txt 2 1001 1106 
+longest Lunar_south_pole.txt 1 663 
+remnants Lunar_south_pole.txt 1 1274 
+help Lunar_south_pole.txt 1 412 
+mission Lunar_south_pole.txt 11 359 370 396 410 753 794 801 856 869 905 937 
+years Lunar_south_pole.txt 1 164 
+thermal Lunar_south_pole.txt 4 461 1169 1175 1184 
+experiments Lunar_south_pole.txt 1 1111 
+cold Lunar_south_pole.txt 9 106 1067 1070 1091 1121 1133 1197 1201 1239 
+still Lunar_south_pole.txt 2 1335 1355 
+its Lunar_south_pole.txt 3 842 992 995 
+but Lunar_south_pole.txt 2 1330 1358 
+maps Lunar_south_pole.txt 2 1297 1401 
+detected Lunar_south_pole.txt 1 1361 
+permanent Lunar_south_pole.txt 3 204 220 427 
+degrees Lunar_south_pole.txt 2 156 191 
+2018 Lunar_south_pole.txt 1 912 
+inconsistencies Lunar_south_pole.txt 1 1398 
+2014 Lunar_south_pole.txt 1 805 
+hidden Lunar_south_pole.txt 1 1433 
+2016 Lunar_south_pole.txt 1 761 
+then Lunar_south_pole.txt 1 820 
+greater Lunar_south_pole.txt 1 70 
+they Lunar_south_pole.txt 3 1046 1363 1406 
+not Lunar_south_pole.txt 7 99 726 1216 1325 1360 1384 1408 
+92.27 Lunar_south_pole.txt 1 637 
+edit Lunar_south_pole.txt 11 120 283 321 740 949 951 1069 1232 1426 1428 1431 
+magnitude Lunar_south_pole.txt 1 1413 
+found Lunar_south_pole.txt 6 266 360 381 632 1130 1222 
+side Lunar_south_pole.txt 1 134 
+series Lunar_south_pole.txt 1 883 
+energy Lunar_south_pole.txt 2 546 756 
+investigated Lunar_south_pole.txt 1 443 
+begun Lunar_south_pole.txt 1 400 
+changed Lunar_south_pole.txt 1 169 
+special Lunar_south_pole.txt 1 43 
+lola Lunar_south_pole.txt 2 602 988 
+space Lunar_south_pole.txt 2 696 963 
+since Lunar_south_pole.txt 1 1213 
+kickstarter Lunar_south_pole.txt 1 863 
+contained Lunar_south_pole.txt 1 384 
+induced Lunar_south_pole.txt 1 1107 
+announced Lunar_south_pole.txt 1 802 
+given Lunar_south_pole.txt 1 1190 
+95.65 Lunar_south_pole.txt 1 638 
+base Lunar_south_pole.txt 1 130 
+formation Lunar_south_pole.txt 1 846 
+beginning Lunar_south_pole.txt 1 570 
+prospector Lunar_south_pole.txt 1 350 
+lcross Lunar_south_pole.txt 2 358 369 
+launch Lunar_south_pole.txt 1 909 
+could Lunar_south_pole.txt 7 488 512 540 833 1205 1354 1364 
+days Lunar_south_pole.txt 1 673 
+conducted Lunar_south_pole.txt 2 343 1293 
+plane Lunar_south_pole.txt 1 194 
+place Lunar_south_pole.txt 4 576 680 694 734 
+unmanned Lunar_south_pole.txt 1 799 
+south Lunar_south_pole.txt 36 1 5 18 39 66 90 123 151 199 225 235 252 270 285 308 323 338 407 418 451 465 496 629 676 718 747 790 818 872 893 923 946 954 976 1081 1225 
+first Lunar_south_pole.txt 1 935 
+origin Lunar_south_pole.txt 1 865 
+already Lunar_south_pole.txt 1 399 
+features Lunar_south_pole.txt 1 247 
+reflected Lunar_south_pole.txt 2 470 1034 
+reaches Lunar_south_pole.txt 1 210 
+one Lunar_south_pole.txt 4 242 575 795 957 
+sunlight Lunar_south_pole.txt 6 97 177 208 223 635 1183 
+another Lunar_south_pole.txt 1 1380 
+between Lunar_south_pole.txt 1 1399 
+earths Lunar_south_pole.txt 1 713 
+properties Lunar_south_pole.txt 3 448 1181 1387 
+temperature Lunar_south_pole.txt 1 27 
+their Lunar_south_pole.txt 1 898 
+system Lunar_south_pole.txt 3 117 574 854 
+least Lunar_south_pole.txt 1 824 
+indicate Lunar_south_pole.txt 1 29 
+however Lunar_south_pole.txt 1 1311 
+observations Lunar_south_pole.txt 1 1287 
+ranging Lunar_south_pole.txt 2 275 645 
+too Lunar_south_pole.txt 1 1366 
+shifted Lunar_south_pole.txt 1 154 
+that Lunar_south_pole.txt 22 75 83 96 108 382 397 592 633 661 724 964 1015 1038 1098 1120 1263 1278 1304 1316 1382 1402 1418 
+continuous Lunar_south_pole.txt 1 664 
+regards Lunar_south_pole.txt 1 1344 
+focusing Lunar_south_pole.txt 1 1148 
+kelvins Lunar_south_pole.txt 1 281 
+than Lunar_south_pole.txt 3 82 263 760 
+center Lunar_south_pole.txt 1 129 
+distance Lunar_south_pole.txt 1 144 
+16 Lunar_south_pole.txt 1 1008 
+shackleton Lunar_south_pole.txt 4 300 594 755 762 
+2024 Lunar_south_pole.txt 1 809 
+future Lunar_south_pole.txt 5 524 584 739 741 1212 
+contrary Lunar_south_pole.txt 1 213 
+iron Lunar_south_pole.txt 7 1108 1277 1295 1303 1315 1342 1349 
+were Lunar_south_pole.txt 11 342 631 668 1099 1116 1292 1334 1359 1392 1403 1407 
+and Lunar_south_pole.txt 29 26 141 230 318 355 378 401 446 473 486 515 539 563 722 729 773 778 788 806 826 845 919 1052 1088 1096 1104 1112 1188 1405 
+locations Lunar_south_pole.txt 2 626 779 
+have Lunar_south_pole.txt 5 331 425 978 1012 1022 
+concentration Lunar_south_pole.txt 2 1301 1313 
+20m Lunar_south_pole.txt 1 825 
+any Lunar_south_pole.txt 1 264 
+contents Lunar_south_pole.txt 1 118 
+mountain Lunar_south_pole.txt 2 265 527 
+british-led Lunar_south_pole.txt 1 798 
+geologic Lunar_south_pole.txt 1 843 
+mappings Lunar_south_pole.txt 2 1329 1374 
+trapped Lunar_south_pole.txt 1 490 
+able Lunar_south_pole.txt 6 481 559 685 699 1117 1409 
+ideas Lunar_south_pole.txt 1 1333 
+metallic Lunar_south_pole.txt 1 1386 
+also Lunar_south_pole.txt 6 216 998 1047 1128 1243 1425 
+intends Lunar_south_pole.txt 1 763 
+internal Lunar_south_pole.txt 2 474 1186 
+impactor,the Lunar_south_pole.txt 1 1348 
+which Lunar_south_pole.txt 5 238 260 442 518 607 
+play Lunar_south_pole.txt 1 12 
+reach Lunar_south_pole.txt 2 100 179 
+most Lunar_south_pole.txt 1 245 
+nasas Lunar_south_pole.txt 2 357 368 
+hydroxyl Lunar_south_pole.txt 1 1126 
+significant Lunar_south_pole.txt 1 362 
+device Lunar_south_pole.txt 1 610 
+the Lunar_south_pole.txt 133 17 21 30 37 49 62 65 73 85 88 101 114 121 128 132 136 149 170 174 182 186 193 196 198 207 212 214 224 234 244 249 251 269 292 296 306 333 336 345 374 388 405 416 444 450 454 460 464 477 492 494 505 510 526 530 554 569 572 590 596 621 628 640 655 662 674 708 716 745 775 781 786 816 836 839 851 855 871 922 927 934 943 952 959 968 974 1033 1041 1044 1049 1053 1057 1064 1075 1079 1135 1144 1151 1159 1168 1172 1193 1196 1200 1210 1220 1224 1228 1236 1247 1250 1260 1266 1269 1273 1282 1286 1289 1300 1308 1312 1322 1328 1346 1351 1369 1373 1390 1397 1400 1412 1415 1421 
+topographic Lunar_south_pole.txt 1 618 
+average Lunar_south_pole.txt 2 278 1007 
+compounds Lunar_south_pole.txt 1 1140 
+metal Lunar_south_pole.txt 1 1276 
+heat Lunar_south_pole.txt 1 1187 
+km Lunar_south_pole.txt 1 148 
+detection Lunar_south_pole.txt 1 1158 
+scattered Lunar_south_pole.txt 1 1182 
+infrared Lunar_south_pole.txt 2 475 1157 
+discovered Lunar_south_pole.txt 2 660 1241 
+planning Lunar_south_pole.txt 1 867 
+radio Lunar_south_pole.txt 4 688 702 714 737 
+melt Lunar_south_pole.txt 1 1217 
+earth Lunar_south_pole.txt 3 268 728 1194 
+geography Lunar_south_pole.txt 1 119 
+based Lunar_south_pole.txt 2 642 1017 
+3 Lunar_south_pole.txt 1 670 
+only Lunar_south_pole.txt 3 669 960 1165 
+postulated Lunar_south_pole.txt 1 50 
+do Lunar_south_pole.txt 1 1123 
+founding Lunar_south_pole.txt 1 1145 
+fossil Lunar_south_pole.txt 2 111 562 
+atoms Lunar_south_pole.txt 5 1005 1011 1021 1030 1062 
+de Lunar_south_pole.txt 2 311 597 
+watch Lunar_south_pole.txt 1 459 
+yielded Lunar_south_pole.txt 1 634 
+nearly Lunar_south_pole.txt 1 385 
+areas Lunar_south_pole.txt 5 58 180 202 218 1245 
+reveal Lunar_south_pole.txt 1 1048 
+embedded Lunar_south_pole.txt 1 1306 
+countries Lunar_south_pole.txt 1 330 
+contain Lunar_south_pole.txt 4 109 513 1094 1124 
+sustainable Lunar_south_pole.txt 1 422 
+where Lunar_south_pole.txt 6 24 158 206 484 681 1249 
+view Lunar_south_pole.txt 1 15 
+exists Lunar_south_pole.txt 3 1039 1244 1264 
+terrain Lunar_south_pole.txt 1 985 
+observed Lunar_south_pole.txt 1 980 
+see Lunar_south_pole.txt 2 414 1424 
+are Lunar_south_pole.txt 6 93 105 532 725 1072 1177 
+sverdrup Lunar_south_pole.txt 1 313 
+optimum Lunar_south_pole.txt 1 782 
+project Lunar_south_pole.txt 1 736 
+detect Lunar_south_pole.txt 5 469 483 1338 1376 1411 
+attempting Lunar_south_pole.txt 1 858 
+currently Lunar_south_pole.txt 1 403 
+wikipedia Lunar_south_pole.txt 1 3 
+enough Lunar_south_pole.txt 1 421 
+moons Lunar_south_pole.txt 7 840 944 1065 1290 1309 1370 1422 
+2020 Lunar_south_pole.txt 1 877 
+boundary Lunar_south_pole.txt 1 1051 
+conditions Lunar_south_pole.txt 3 966 972 994 
+discovery Lunar_south_pole.txt 1 1136 
+terms Lunar_south_pole.txt 1 1084 
+emplaced Lunar_south_pole.txt 1 1280 
+nature Lunar_south_pole.txt 1 776 
+re-radiation Lunar_south_pole.txt 1 1185 
+interfere Lunar_south_pole.txt 1 711 
+clues Lunar_south_pole.txt 1 849 
+craters Lunar_south_pole.txt 6 92 104 229 282 303 792 
+improve Lunar_south_pole.txt 1 835 
+missions Lunar_south_pole.txt 3 586 885 1147 
+many Lunar_south_pole.txt 1 228 
+region Lunar_south_pole.txt 8 7 287 325 334 749 874 895 925 
+april Lunar_south_pole.txt 1 911 
+involve Lunar_south_pole.txt 1 1385 
+planned Lunar_south_pole.txt 2 742 807 
+behaviors Lunar_south_pole.txt 1 1176 
+basins Lunar_south_pole.txt 2 231 723 
+colony Lunar_south_pole.txt 1 890 
+delivering Lunar_south_pole.txt 1 1203 
+deposits Lunar_south_pole.txt 1 1090 
+pole Lunar_south_pole.txt 31 2 19 40 67 87 91 124 152 200 215 226 253 271 309 339 408 419 452 466 497 531 630 677 719 791 819 947 955 977 1082 1226 
+250270 Lunar_south_pole.txt 1 280 
+gerlache Lunar_south_pole.txt 2 312 598 
+addition Lunar_south_pole.txt 3 990 1234 1389 
+due Lunar_south_pole.txt 3 1031 1271 1395 
+been Lunar_south_pole.txt 4 698 979 1013 1129 
+reduction Lunar_south_pole.txt 1 1109 
+much Lunar_south_pole.txt 1 80 
+interest Lunar_south_pole.txt 2 44 71 
+basin Lunar_south_pole.txt 2 237 1323 
+anomaly Lunar_south_pole.txt 2 1262 1381 
+location Lunar_south_pole.txt 1 1019 
+controlled Lunar_south_pole.txt 1 1178 
+readings Lunar_south_pole.txt 1 1114 
+deep Lunar_south_pole.txt 2 829 1367 
+spin Lunar_south_pole.txt 1 188 
+extensive Lunar_south_pole.txt 1 340 
+present Lunar_south_pole.txt 2 1326 1357 
+diviner Lunar_south_pole.txt 5 291 432 439 455 479 
+laser Lunar_south_pole.txt 1 605 
+these Lunar_south_pole.txt 8 971 1010 1020 1060 1132 1138 1163 1174 
+will Lunar_south_pole.txt 5 411 557 811 913 932 
+near Lunar_south_pole.txt 3 529 1211 1223 
+behavior Lunar_south_pole.txt 1 1170 
+reconnaissance Lunar_south_pole.txt 2 352 390 
+discoveries Lunar_south_pole.txt 1 948 
+at Lunar_south_pole.txt 6 84 276 654 785 823 973 
+reflectance Lunar_south_pole.txt 1 25 
+larger Lunar_south_pole.txt 1 81 
+is Lunar_south_pole.txt 21 41 68 79 125 189 261 272 394 402 456 498 589 678 796 857 866 956 1252 1255 1257 1305 
+it Lunar_south_pole.txt 7 60 159 383 467 658 810 1214 
+surface Lunar_south_pole.txt 11 34 453 493 996 1042 1066 1231 1267 1291 1310 1423 
+characterize Lunar_south_pole.txt 1 774 
+in Lunar_south_pole.txt 22 55 77 95 366 695 803 875 891 921 962 989 1083 1131 1162 1199 1209 1233 1307 1321 1327 1368 1388 
+if Lunar_south_pole.txt 2 415 929 
+media Lunar_south_pole.txt 1 13 
+radiation Lunar_south_pole.txt 2 445 472 
+same Lunar_south_pole.txt 1 656 
+benign Lunar_south_pole.txt 1 274 
+80s Lunar_south_pole.txt 1 138 
+several Lunar_south_pole.txt 1 329 
+composition Lunar_south_pole.txt 2 777 841 
+used Lunar_south_pole.txt 4 542 601 611 1404 
+peaks Lunar_south_pole.txt 1 528 
+basin-forming Lunar_south_pole.txt 1 1284 
+robotic Lunar_south_pole.txt 1 767 
+faustini Lunar_south_pole.txt 1 315 
+off Lunar_south_pole.txt 1 1191 
+traps Lunar_south_pole.txt 9 107 1068 1071 1092 1122 1134 1164 1202 1240 
+floor Lunar_south_pole.txt 1 375 
+model Lunar_south_pole.txt 1 619 
+shadowed Lunar_south_pole.txt 3 57 185 507 
+taller Lunar_south_pole.txt 1 262 
+accurate Lunar_south_pole.txt 1 617 
+identify Lunar_south_pole.txt 1 772 
+rover Lunar_south_pole.txt 3 770 920 941 
+equipment Lunar_south_pole.txt 1 887 
+had Lunar_south_pole.txt 1 430 
+ideal Lunar_south_pole.txt 2 581 733 
+signals Lunar_south_pole.txt 2 715 738 
+causing Lunar_south_pole.txt 1 1350 
+deliberately Lunar_south_pole.txt 1 371 
+board Lunar_south_pole.txt 1 441 
+samples Lunar_south_pole.txt 2 380 565 
+shoemaker Lunar_south_pole.txt 1 314 
+has Lunar_south_pole.txt 8 153 168 398 420 697 720 1127 1141 
+plasma Lunar_south_pole.txt 1 1037 
+scheduled Lunar_south_pole.txt 1 907 
+around Lunar_south_pole.txt 2 59 335 
+thermophysical Lunar_south_pole.txt 2 447 1180 
+showing Lunar_south_pole.txt 1 23 
+possible Lunar_south_pole.txt 3 31 1086 1336 
+early Lunar_south_pole.txt 2 115 852 
+possibly Lunar_south_pole.txt 1 827 
+using Lunar_south_pole.txt 4 897 981 1154 1294 
+shadow Lunar_south_pole.txt 1 78 
+unique Lunar_south_pole.txt 1 94 
+88.5 Lunar_south_pole.txt 1 190 
+impactor Lunar_south_pole.txt 1 1285 
+facing Lunar_south_pole.txt 1 727 
+flux Lunar_south_pole.txt 1 1026 
+clementine Lunar_south_pole.txt 2 11 348 
+unexplored Lunar_south_pole.txt 1 945 
+because Lunar_south_pole.txt 4 47 72 707 1166 
+plausible Lunar_south_pole.txt 1 1332 
+some Lunar_south_pole.txt 1 1073 
+back Lunar_south_pole.txt 1 567 
+imaged Lunar_south_pole.txt 2 9 289 
+perspected Lunar_south_pole.txt 1 1296 
+orbiter Lunar_south_pole.txt 4 347 353 391 604 
+scale Lunar_south_pole.txt 1 1156 
+for Lunar_south_pole.txt 8 501 523 534 583 636 808 888 1372 
+bottom Lunar_south_pole.txt 1 102 
+ice Lunar_south_pole.txt 9 36 54 487 514 783 1097 1125 1160 1204 
+moon Lunar_south_pole.txt 17 22 137 175 183 250 297 511 555 622 800 900 928 1045 1173 1229 1248 1270 
+does Lunar_south_pole.txt 1 98 
+connecting Lunar_south_pole.txt 1 587 
+lunar Lunar_south_pole.txt 32 0 4 38 63 89 122 150 284 307 322 337 346 349 351 389 406 417 433 495 503 603 675 717 746 789 793 817 904 953 975 1080 1152 
+1250 Lunar_south_pole.txt 1 147 
+dating Lunar_south_pole.txt 1 566 
+locate Lunar_south_pole.txt 1 1299 
+be Lunar_south_pole.txt 12 241 489 520 541 558 684 731 933 1206 1320 1356 1365 
+radiometer Lunar_south_pole.txt 1 434 
+notable Lunar_south_pole.txt 1 302 
+2m Lunar_south_pole.txt 1 647 
+altimeter Lunar_south_pole.txt 1 606 
+by Lunar_south_pole.txt 9 10 290 344 612 754 1179 1192 1281 1379 
+on Lunar_south_pole.txt 20 127 211 267 440 491 509 553 627 643 815 862 910 942 1006 1018 1040 1063 1078 1150 1265 
+about Lunar_south_pole.txt 3 146 850 876 
+proven Lunar_south_pole.txt 1 1393 
+of Lunar_south_pole.txt 59 16 20 33 42 48 52 61 69 113 131 135 145 163 173 181 195 203 243 248 279 295 364 376 449 463 537 571 620 639 666 704 744 780 838 884 926 958 1009 1027 1036 1043 1059 1074 1085 1137 1146 1167 1171 1219 1227 1238 1246 1268 1275 1288 1302 1314 1341 1414 
+concentrations Lunar_south_pole.txt 1 784 
+or Lunar_south_pole.txt 2 392 1377 
+allowing Lunar_south_pole.txt 1 176 
+presence Lunar_south_pole.txt 1 32 
+previously Lunar_south_pole.txt 2 160 184 
+into Lunar_south_pole.txt 1 373 
+within Lunar_south_pole.txt 2 299 1056 
+integral Lunar_south_pole.txt 1 1025 
+billions Lunar_south_pole.txt 1 162 
+down Lunar_south_pole.txt 1 822 
+lies Lunar_south_pole.txt 1 298 
+references Lunar_south_pole.txt 1 1427 
+primarily Lunar_south_pole.txt 1 1149 
+ridge Lunar_south_pole.txt 2 588 591 
+area Lunar_south_pole.txt 1 74 
+altitude Lunar_south_pole.txt 1 644 
+there Lunar_south_pole.txt 1 1242 
+kaguya Lunar_south_pole.txt 1 354 
+magnetized Lunar_south_pole.txt 1 1253 
+spots Lunar_south_pole.txt 2 657 961 
+slopes Lunar_south_pole.txt 1 1221 
+analyze Lunar_south_pole.txt 1 561 
+was Lunar_south_pole.txt 7 161 480 608 659 1279 1317 1324 
+hz Lunar_south_pole.txt 1 692 
+mountains Lunar_south_pole.txt 2 255 721 
+north Lunar_south_pole.txt 2 86 787 
+illuminated Lunar_south_pole.txt 1 533 
+epsilon Lunar_south_pole.txt 1 258 
+landing Lunar_south_pole.txt 2 585 886 
+neutral Lunar_south_pole.txt 2 1004 1061 
+gain Lunar_south_pole.txt 1 860 
+solar Lunar_south_pole.txt 7 116 471 545 573 853 1000 1105 
+line Lunar_south_pole.txt 1 1050 
+with Lunar_south_pole.txt 6 219 550 623 712 1195 1343 
+outpost Lunar_south_pole.txt 3 504 549 552 
+places Lunar_south_pole.txt 2 508 1077 
+record Lunar_south_pole.txt 1 112 
+frequency Lunar_south_pole.txt 1 706 
+exploration Lunar_south_pole.txt 3 320 743 769 
+emissions Lunar_south_pole.txt 1 476 
+fluctuations Lunar_south_pole.txt 2 1353 1417 
+inadequate Lunar_south_pole.txt 1 1394 
+covers Lunar_south_pole.txt 1 142 
+an Lunar_south_pole.txt 7 277 548 551 580 616 732 1024 
+as Lunar_south_pole.txt 11 8 233 257 288 438 579 828 830 1002 1259 1362 
+exist Lunar_south_pole.txt 1 970 
+periods Lunar_south_pole.txt 2 536 665 
+no Lunar_south_pole.txt 2 693 758 
+other Lunar_south_pole.txt 2 516 1331 
+5 Lunar_south_pole.txt 3 155 386 672 
+digital Lunar_south_pole.txt 1 984 
+polar Lunar_south_pole.txt 7 6 286 324 748 873 894 924 
+energetic Lunar_south_pole.txt 1 1003 
+backscattered Lunar_south_pole.txt 1 1028 
+models Lunar_south_pole.txt 1 986 
+100m Lunar_south_pole.txt 1 831 
+includes Lunar_south_pole.txt 1 750 
+important Lunar_south_pole.txt 1 1076 
+peak Lunar_south_pole.txt 1 259 
+exposure Lunar_south_pole.txt 1 221 
+ago Lunar_south_pole.txt 1 165 
+land Lunar_south_pole.txt 3 765 814 939 
+lead Lunar_south_pole.txt 1 880 
+confirm Lunar_south_pole.txt 1 1119 
+nasa Lunar_south_pole.txt 1 613 
+time Lunar_south_pole.txt 2 538 641 
+resolution Lunar_south_pole.txt 1 983 
+external Lunar_south_pole.txt 1 1429 

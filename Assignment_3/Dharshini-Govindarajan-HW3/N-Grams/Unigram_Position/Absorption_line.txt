@@ -1,0 +1,496 @@
+atom-specific Absorption_line.txt 1 411 
+all Absorption_line.txt 4 690 711 731 1040 
+pointing Absorption_line.txt 1 65 
+results Absorption_line.txt 1 944 
+broader Absorption_line.txt 2 1053 1402 
+depend Absorption_line.txt 1 451 
+environment Absorption_line.txt 1 1137 
+to Absorption_line.txt 37 62 120 130 143 214 273 284 319 353 402 416 464 529 588 598 727 814 820 825 830 845 852 859 871 896 914 958 1013 1172 1192 1219 1283 1323 1327 1359 1383 1461 
+under Absorption_line.txt 2 17 1556 
+include Absorption_line.txt 2 649 655 
+far Absorption_line.txt 1 890 
+frequencies Absorption_line.txt 2 114 771 
+electron Absorption_line.txt 1 235 
+experimentally Absorption_line.txt 1 955 
+exact Absorption_line.txt 1 500 
+categories Absorption_line.txt 3 811 1585 1587 
+rotating Absorption_line.txt 1 1373 
+level Absorption_line.txt 1 590 
+notes Absorption_line.txt 1 1578 
+large Absorption_line.txt 2 934 1207 
+discrete Absorption_line.txt 1 173 
+small Absorption_line.txt 2 836 843 
+force Absorption_line.txt 1 1114 
+direct Absorption_line.txt 1 22 
+rate Absorption_line.txt 1 1398 
+pass Absorption_line.txt 2 336 428 
+further Absorption_line.txt 1 1582 
+air Absorption_line.txt 1 16 
+spectral Absorption_line.txt 18 0 83 115 181 289 407 448 495 535 669 691 741 764 861 1034 1055 1422 1569 
+sun Absorption_line.txt 1 74 
+sum Absorption_line.txt 1 262 
+uniform Absorption_line.txt 1 94 
+cerium Absorption_line.txt 1 447 
+numeral Absorption_line.txt 1 597 
+contrast Absorption_line.txt 1 364 
+body Absorption_line.txt 2 1339 1374 
+even Absorption_line.txt 2 1470 1559 
+here Absorption_line.txt 1 38 
+atoms Absorption_line.txt 8 122 136 193 615 625 709 732 979 
+ionization Absorption_line.txt 1 592 
+others Absorption_line.txt 2 1139 1491 
+directions Absorption_line.txt 1 362 
+path Absorption_line.txt 1 870 
+along Absorption_line.txt 1 1343 
+strong Absorption_line.txt 1 534 
+change Absorption_line.txt 1 217 
+great Absorption_line.txt 1 1281 
+involved Absorption_line.txt 1 512 
+k Absorption_line.txt 1 553 
+amount Absorption_line.txt 1 211 
+resulting Absorption_line.txt 3 98 1349 1555 
+usually Absorption_line.txt 4 192 233 648 842 
+narrow Absorption_line.txt 3 107 347 396 
+changes Absorption_line.txt 1 858 
+projection Absorption_line.txt 1 1332 
+highly Absorption_line.txt 1 410 
+visible Absorption_line.txt 2 26 539 
+illumination Absorption_line.txt 1 19 
+from Absorption_line.txt 16 4 99 330 373 386 526 561 576 789 857 878 883 891 1058 1138 1370 
+would Absorption_line.txt 1 155 
+contains Absorption_line.txt 1 744 
+two Absorption_line.txt 2 809 1095 
+therefore Absorption_line.txt 1 1141 
+type Absorption_line.txt 2 304 312 
+more Absorption_line.txt 1 645 
+emission Absorption_line.txt 7 9 100 297 321 367 403 940 
+particular Absorption_line.txt 1 1231 
+known Absorption_line.txt 1 1564 
+cases Absorption_line.txt 2 582 1097 
+hold Absorption_line.txt 1 833 
+this Absorption_line.txt 11 47 52 231 737 799 941 1061 1100 1147 1243 1304 
+originally Absorption_line.txt 1 689 
+can Absorption_line.txt 10 127 413 493 519 953 964 1161 1235 1483 1549 
+spontaneous Absorption_line.txt 1 915 
+example Absorption_line.txt 5 634 1367 1406 1512 1540 
+process Absorption_line.txt 3 921 1186 1305 
+sharp Absorption_line.txt 1 700 
+hydrogen Absorption_line.txt 1 673 
+species Absorption_line.txt 1 579 
+respective Absorption_line.txt 1 679 
+rays Absorption_line.txt 1 531 
+thallium Absorption_line.txt 1 445 
+auger Absorption_line.txt 1 920 
+divided Absorption_line.txt 1 807 
+regions Absorption_line.txt 1 887 
+very Absorption_line.txt 1 1472 
+hot Absorption_line.txt 2 332 375 
+if Absorption_line.txt 1 1333 
+profile Absorption_line.txt 7 949 1069 1424 1435 1466 1500 1528 
+may Absorption_line.txt 8 291 654 786 805 855 876 1104 1278 
+thermodynamic Absorption_line.txt 1 848 
+produce Absorption_line.txt 1 494 
+fe Absorption_line.txt 1 635 
+waves Absorption_line.txt 1 528 
+such Absorption_line.txt 4 442 551 681 1375 
+types Absorption_line.txt 2 160 1197 
+a Absorption_line.txt 60 57 79 82 86 106 177 189 201 205 216 258 288 331 338 346 365 374 383 387 395 546 555 595 656 719 745 763 768 773 779 835 884 928 933 938 981 989 1037 1067 1123 1134 1144 1163 1169 1185 1206 1230 1260 1285 1318 1328 1371 1377 1413 1462 1502 1513 1526 1552 1561 
+short Absorption_line.txt 1 929 
+natural Absorption_line.txt 2 900 951 
+light Absorption_line.txt 6 23 104 344 393 427 1474 
+spectra Absorption_line.txt 1 163 
+lines Absorption_line.txt 22 10 12 14 40 116 175 182 408 449 496 518 536 570 575 584 661 667 670 692 726 750 1570 
+element Absorption_line.txt 2 604 841 
+cascade Absorption_line.txt 1 259 
+ionized Absorption_line.txt 3 563 624 643 
+so Absorption_line.txt 6 27 459 605 629 631 1280 
+allow Absorption_line.txt 1 215 
+z-pinch Absorption_line.txt 1 1414 
+imploding Absorption_line.txt 1 1409 
+saturated Absorption_line.txt 1 1437 
+indeed Absorption_line.txt 1 1271 
+over Absorption_line.txt 4 345 394 767 1205 
+vary Absorption_line.txt 1 515 
+produced Absorption_line.txt 2 327 370 
+thermal Absorption_line.txt 2 970 1517 
+through Absorption_line.txt 3 337 429 1241 
+atom-photon Absorption_line.txt 1 491 
+affect Absorption_line.txt 1 1085 
+cold Absorption_line.txt 2 339 388 
+linewidth Absorption_line.txt 1 781 
+its Absorption_line.txt 6 285 316 784 790 869 926 
+chemical Absorption_line.txt 4 419 467 603 1572 
+decay Absorption_line.txt 2 917 962 
+energies Absorption_line.txt 1 265 
+lamp Absorption_line.txt 2 170 179 
+detected Absorption_line.txt 1 378 
+hidden Absorption_line.txt 1 1586 
+main Absorption_line.txt 1 974 
+macroscopic Absorption_line.txt 1 1311 
+then Absorption_line.txt 1 242 
+greater Absorption_line.txt 2 1261 1396 
+combination Absorption_line.txt 4 716 1038 1489 1514 
+material Absorption_line.txt 5 314 340 357 376 406 
+band Absorption_line.txt 1 663 
+effects Absorption_line.txt 6 831 898 1177 1194 1477 1543 
+they Absorption_line.txt 1 460 
+not Absorption_line.txt 4 25 32 772 1536 
+rotation Absorption_line.txt 1 1400 
+day Absorption_line.txt 1 81 
+represents Absorption_line.txt 1 640 
+term Absorption_line.txt 2 1125 1148 
+finite Absorption_line.txt 1 1329 
+designation Absorption_line.txt 4 550 600 611 664 
+edit Absorption_line.txt 18 164 533 762 899 902 973 1078 1119 1195 1225 1314 1417 1478 1574 1577 1579 1581 1584 
+always Absorption_line.txt 1 1537 
+classified Absorption_line.txt 2 694 1107 
+each Absorption_line.txt 5 892 993 1479 1493 1509 
+found Absorption_line.txt 1 729 
+lorentzian Absorption_line.txt 1 948 
+directly Absorption_line.txt 1 33 
+series Absorption_line.txt 9 680 685 688 696 699 701 704 706 752 
+energy Absorption_line.txt 5 213 220 275 927 935 
+gaussian Absorption_line.txt 1 1068 
+used Absorption_line.txt 6 119 142 415 434 463 1150 
+inhomogeneous Absorption_line.txt 3 1117 1120 1179 
+frequency Absorption_line.txt 7 108 252 348 397 509 775 1146 
+combining Absorption_line.txt 1 880 
+quantum Absorption_line.txt 1 190 
+wavelength Absorption_line.txt 3 652 793 1247 
+travels Absorption_line.txt 1 1240 
+space Absorption_line.txt 3 1210 1234 1242 
+since Absorption_line.txt 1 1032 
+suborbitals Absorption_line.txt 1 757 
+particles Absorption_line.txt 3 506 1083 1131 
+nominal Absorption_line.txt 1 791 
+denoted Absorption_line.txt 1 617 
+formula Absorption_line.txt 1 720 
+cause Absorption_line.txt 1 1284 
+occurs Absorption_line.txt 3 1101 1425 1469 
+red Absorption_line.txt 1 998 
+doppler Absorption_line.txt 7 971 976 1003 1312 1324 1518 1547 
+mechanisms Absorption_line.txt 3 488 1482 1534 
+self-absorption Absorption_line.txt 1 1310 
+reason Absorption_line.txt 1 738 
+rises Absorption_line.txt 2 1448 1453 
+interaction Absorption_line.txt 3 187 492 502 
+times Absorption_line.txt 1 642 
+moving Absorption_line.txt 1 1319 
+probability Absorption_line.txt 1 1263 
+number Absorption_line.txt 3 621 658 885 
+one Absorption_line.txt 1 278 
+another Absorption_line.txt 2 320 1405 
+impossible Absorption_line.txt 1 158 
+given Absorption_line.txt 1 1170 
+temperature Absorption_line.txt 3 317 1019 1048 
+width Absorption_line.txt 2 1357 1361 
+leading Absorption_line.txt 1 1460 
+system Absorption_line.txt 3 191 224 282 
+broadened Absorption_line.txt 3 1251 1353 1381 
+their Absorption_line.txt 2 485 678 
+returns Absorption_line.txt 1 283 
+rates Absorption_line.txt 1 963 
+molecular Absorption_line.txt 2 148 666 
+shifted Absorption_line.txt 1 788 
+shell Absorption_line.txt 1 1411 
+that Absorption_line.txt 8 28 475 606 632 721 961 1059 1216 
+continuous Absorption_line.txt 3 7 96 165 
+part Absorption_line.txt 1 540 
+somewhat Absorption_line.txt 1 60 
+than Absorption_line.txt 6 490 1212 1264 1300 1442 1455 
+relative Absorption_line.txt 2 318 1012 
+isolation Absorption_line.txt 1 1486 
+intensity Absorption_line.txt 4 342 391 1291 1447 
+limiting Absorption_line.txt 1 1096 
+intensities Absorption_line.txt 2 1441 1475 
+iron Absorption_line.txt 1 644 
+were Absorption_line.txt 3 437 693 753 
+result Absorption_line.txt 4 185 856 877 1202 
+and Absorption_line.txt 29 36 43 95 123 137 139 147 152 172 200 315 358 412 446 471 517 628 653 702 713 760 801 817 937 1070 1140 1158 1520 1544 
+spectrum Absorption_line.txt 9 8 55 97 166 174 334 385 525 543 
+manner Absorption_line.txt 1 1554 
+have Absorption_line.txt 6 545 675 932 988 1259 1340 
+any Absorption_line.txt 1 422 
+contents Absorption_line.txt 1 159 
+depending Absorption_line.txt 2 497 1005 
+self Absorption_line.txt 1 1286 
+mid Absorption_line.txt 1 171 
+mechanism Absorption_line.txt 1 1510 
+also Absorption_line.txt 7 450 608 674 875 1105 1307 1576 
+absorbed Absorption_line.txt 2 241 279 
+which Absorption_line.txt 7 154 303 832 888 983 1099 1289 
+detector Absorption_line.txt 1 37 
+stoichiometry Absorption_line.txt 1 1159 
+blue Absorption_line.txt 1 58 
+multiple Absorption_line.txt 1 574 
+though Absorption_line.txt 1 565 
+393.366 Absorption_line.txt 1 558 
+eight Absorption_line.txt 1 641 
+especially Absorption_line.txt 1 1151 
+calculated Absorption_line.txt 1 749 
+later Absorption_line.txt 1 754 
+principle Absorption_line.txt 3 698 717 905 
+redirected Absorption_line.txt 1 3 
+typically Absorption_line.txt 1 431 
+called Absorption_line.txt 2 1187 1309 
+emerging Absorption_line.txt 1 560 
+rayleigh Absorption_line.txt 1 44 
+random Absorption_line.txt 1 361 
+discovered Absorption_line.txt 1 438 
+bright Absorption_line.txt 2 89 366 
+radio Absorption_line.txt 1 527 
+impact Absorption_line.txt 1 1522 
+wings.therefore Absorption_line.txt 1 1445 
+3 Absorption_line.txt 1 69 
+only Absorption_line.txt 1 957 
+molecules Absorption_line.txt 4 124 138 196 504 
+emitting Absorption_line.txt 5 840 985 1130 1221 1338 
+local Absorption_line.txt 7 815 826 847 897 1136 1166 1218 
+equilibrium Absorption_line.txt 1 849 
+means Absorption_line.txt 2 441 481 
+designated Absorption_line.txt 1 586 
+line-of-sight Absorption_line.txt 2 1330 1385 
+cannot Absorption_line.txt 1 476 
+reversal Absorption_line.txt 1 1287 
+collisional Absorption_line.txt 2 1542 1562 
+blends Absorption_line.txt 1 572 
+traverses Absorption_line.txt 1 868 
+distant Absorption_line.txt 1 1372 
+where Absorption_line.txt 2 260 1154 
+nist Absorption_line.txt 1 740 
+observer Absorption_line.txt 2 873 1015 
+rydberg-ritz Absorption_line.txt 1 715 
+observed Absorption_line.txt 4 293 308 521 1498 
+depends Absorption_line.txt 2 309 1245 
+individual Absorption_line.txt 1 1091 
+are Absorption_line.txt 17 117 140 183 377 409 461 571 585 616 795 889 984 1094 1132 1200 1217 1535 
+enhanced Absorption_line.txt 1 969 
+close Absorption_line.txt 1 61 
+subject Absorption_line.txt 1 1322 
+surfaces Absorption_line.txt 1 1155 
+ritz Absorption_line.txt 1 748 
+pattern Absorption_line.txt 1 724 
+wikipedia Absorption_line.txt 1 2 
+motional Absorption_line.txt 2 1188 1546 
+boundaries Absorption_line.txt 1 1157 
+state Absorption_line.txt 3 221 287 912 
+between Absorption_line.txt 2 34 188 
+off-resonant Absorption_line.txt 1 1444 
+reading Absorption_line.txt 1 1583 
+conditions Absorption_line.txt 9 455 487 816 822 827 854 1204 1215 1558 
+across Absorption_line.txt 2 522 708 
+nature Absorption_line.txt 1 1110 
+emitted Absorption_line.txt 8 269 995 1043 1057 1088 1228 1316 1369 
+however Absorption_line.txt 1 1529 
+spectroscopic Absorption_line.txt 1 440 
+orbitals Absorption_line.txt 1 237 
+extent Absorption_line.txt 1 960 
+analyzed Absorption_line.txt 1 478 
+article Absorption_line.txt 1 975 
+suppressed Absorption_line.txt 1 967 
+many Absorption_line.txt 1 668 
+region Absorption_line.txt 2 837 1208 
+uncertainty Absorption_line.txt 3 904 924 936 
+nomenclature Absorption_line.txt 1 532 
+emit Absorption_line.txt 1 1142 
+assure Absorption_line.txt 1 846 
+roman Absorption_line.txt 3 596 620 638 
+grain Absorption_line.txt 1 1156 
+designations Absorption_line.txt 2 647 676 
+nearby Absorption_line.txt 2 113 1082 
+unshifted Absorption_line.txt 1 947 
+point Absorption_line.txt 1 1232 
+reasons Absorption_line.txt 2 797 804 
+ca Absorption_line.txt 3 564 607 612 
+environments Absorption_line.txt 1 1167 
+simply Absorption_line.txt 1 1213 
+incandescent Absorption_line.txt 1 169 
+i.e Absorption_line.txt 2 73 776 
+wider Absorption_line.txt 1 1024 
+broadening Absorption_line.txt 30 759 800 812 818 823 850 894 901 942 952 972 977 1062 1077 1103 1118 1121 1127 1180 1190 1199 1224 1313 1416 1419 1463 1468 1519 1524 1533 
+described Absorption_line.txt 1 1065 
+lyman Absorption_line.txt 1 684 
+capable Absorption_line.txt 1 424 
+addition Absorption_line.txt 1 783 
+west Absorption_line.txt 1 77 
+create Absorption_line.txt 1 1162 
+radiative Absorption_line.txt 4 916 1415 1418 1467 
+due Absorption_line.txt 12 352 401 813 819 824 829 851 895 913 1191 1326 1382 
+much Absorption_line.txt 1 1439 
+combined Absorption_line.txt 1 1476 
+collected Absorption_line.txt 1 133 
+pm Absorption_line.txt 1 72 
+rather Absorption_line.txt 1 1211 
+gas Absorption_line.txt 8 30 432 458 982 1022 1031 1051 1060 
+coherent Absorption_line.txt 1 1553 
+an Absorption_line.txt 11 92 168 229 234 296 300 323 910 946 1090 1408 
+diffuse Absorption_line.txt 1 703 
+case Absorption_line.txt 1 227 
+has Absorption_line.txt 3 207 609 778 
+these Absorption_line.txt 5 125 705 751 803 1481 
+single Absorption_line.txt 3 202 505 774 
+profiles Absorption_line.txt 1 1507 
+spontaneously Absorption_line.txt 1 246 
+will Absorption_line.txt 9 244 270 514 931 987 996 1084 1351 1379 
+near Absorption_line.txt 1 1274 
+shift Absorption_line.txt 4 761 802 1075 1325 
+ix Absorption_line.txt 2 636 637 
+is Absorption_line.txt 28 31 49 53 85 232 240 307 326 350 369 399 433 718 828 1036 1064 1072 1122 1149 1181 1250 1298 1306 1321 1407 1436 1495 1501 
+thus Absorption_line.txt 1 141 
+it Absorption_line.txt 6 243 430 777 867 874 1239 
+according Absorption_line.txt 1 587 
+ii Absorption_line.txt 2 613 627 
+in Absorption_line.txt 32 41 75 91 105 218 225 249 257 360 379 537 580 730 782 834 945 980 1029 1133 1174 1233 1288 1301 1387 1412 1430 1450 1457 1485 1488 1551 1560 
+helium Absorption_line.txt 1 444 
+increased Absorption_line.txt 1 400 
+different Absorption_line.txt 6 578 1135 1145 1334 1341 1531 
+etc Absorption_line.txt 1 507 
+radiation Absorption_line.txt 8 865 882 986 1044 1087 1227 1315 1368 
+same Absorption_line.txt 1 251 
+shifts Absorption_line.txt 1 1548 
+parts Absorption_line.txt 1 1335 
+widely Absorption_line.txt 2 462 516 
+9 Absorption_line.txt 1 639 
+several Absorption_line.txt 3 435 577 796 
+composition Absorption_line.txt 2 420 468 
+higher Absorption_line.txt 2 1017 1046 
+independent Absorption_line.txt 2 1496 1538 
+extended Absorption_line.txt 2 821 853 
+see Absorption_line.txt 1 1575 
+upon Absorption_line.txt 1 1214 
+effect Absorption_line.txt 5 943 1004 1063 1494 1568 
+liquids Absorption_line.txt 1 1175 
+changing Absorption_line.txt 1 236 
+lower Absorption_line.txt 1 1440 
+center Absorption_line.txt 6 785 1258 1277 1294 1432 1459 
+database Absorption_line.txt 1 743 
+i Absorption_line.txt 1 622 
+variety Absorption_line.txt 1 1164 
+well Absorption_line.txt 1 483 
+blue"-shifted Absorption_line.txt 1 1000 
+solids Absorption_line.txt 1 1153 
+components Absorption_line.txt 1 149 
+the Absorption_line.txt 127 21 29 50 54 63 76 112 131 145 184 209 219 223 226 238 250 254 261 264 267 274 277 281 311 341 356 380 390 405 418 453 457 466 499 508 511 523 538 542 568 583 589 599 602 610 619 650 683 714 723 734 739 839 860 864 872 879 903 907 919 923 950 959 978 1002 1007 1010 1014 1016 1018 1021 1023 1025 1030 1033 1042 1045 1047 1050 1052 1054 1079 1086 1109 1112 1176 1201 1220 1248 1253 1256 1265 1268 1272 1275 1290 1293 1296 1302 1337 1344 1348 1355 1360 1363 1384 1393 1395 1397 1401 1403 1421 1427 1431 1434 1443 1451 1458 1465 1497 1505 1516 1521 1530 1541 1545 1566 
+otherwise Absorption_line.txt 2 93 156 
+bodies Absorption_line.txt 1 474 
+velocities Absorption_line.txt 3 992 1028 1342 
+less Absorption_line.txt 1 1299 
+re-emitted Absorption_line.txt 1 247 
+identify Absorption_line.txt 3 121 144 417 
+atomic Absorption_line.txt 4 146 198 660 672 
+predicts Absorption_line.txt 1 722 
+multiplet Absorption_line.txt 1 657 
+scattering Absorption_line.txt 1 45 
+convolution Absorption_line.txt 1 1503 
+letting Absorption_line.txt 1 426 
+adding Absorption_line.txt 1 594 
+absorption Absorption_line.txt 12 5 11 13 102 301 324 354 1244 1423 1429 1449 1456 
+photons Absorption_line.txt 6 268 329 372 513 1254 1266 
+sky Absorption_line.txt 1 59 
+dicke Absorption_line.txt 1 1567 
+sometimes Absorption_line.txt 3 195 1182 1308 
+source Absorption_line.txt 7 24 35 51 322 335 389 1320 
+extends Absorption_line.txt 1 766 
+4 Absorption_line.txt 1 71 
+east Absorption_line.txt 1 66 
+plasma Absorption_line.txt 1 1410 
+excited Absorption_line.txt 1 911 
+re-emission Absorption_line.txt 1 359 
+around Absorption_line.txt 2 68 838 
+dark Absorption_line.txt 1 87 
+voigt Absorption_line.txt 1 1527 
+unique Absorption_line.txt 1 547 
+wings Absorption_line.txt 3 1270 1303 1452 
+particle Absorption_line.txt 2 1092 1222 
+follows Absorption_line.txt 1 1116 
+fingerprints Absorption_line.txt 2 126 134 
+yields Absorption_line.txt 1 1525 
+either Absorption_line.txt 2 248 294 
+reduced Absorption_line.txt 2 351 1183 
+right Absorption_line.txt 1 210 
+often Absorption_line.txt 2 118 544 
+some Absorption_line.txt 3 566 1129 1557 
+sight Absorption_line.txt 1 1347 
+altered Absorption_line.txt 1 956 
+indirect Absorption_line.txt 1 18 
+nonzero Absorption_line.txt 1 780 
+for Absorption_line.txt 14 15 554 633 659 665 736 747 798 1126 1152 1168 1366 1511 1539 
+bottom Absorption_line.txt 1 180 
+electromagnetic Absorption_line.txt 2 524 1226 
+opposite Absorption_line.txt 1 1390 
+equal Absorption_line.txt 1 272 
+assuming Absorption_line.txt 2 280 1492 
+be Absorption_line.txt 19 128 157 245 271 292 414 477 520 728 787 806 954 965 997 1106 1236 1279 1352 1380 
+pressure Absorption_line.txt 3 1076 1102 1523 
+fluorescent Absorption_line.txt 1 178 
+by Absorption_line.txt 13 355 363 404 439 479 593 1001 1066 1089 1098 1108 1184 1317 
+on Absorption_line.txt 8 78 310 452 498 630 1006 1246 1389 
+about Absorption_line.txt 1 208 
+central Absorption_line.txt 1 792 
+column Absorption_line.txt 1 746 
+of Absorption_line.txt 69 46 56 103 135 150 161 167 176 186 212 222 228 263 266 276 305 313 343 382 392 421 425 456 469 510 541 567 573 591 601 671 697 710 725 733 770 863 881 886 909 925 991 1009 1020 1027 1039 1041 1049 1081 1111 1165 1178 1198 1203 1209 1295 1336 1346 1362 1392 1399 1420 1433 1464 1480 1504 1508 1515 1571 
+range Absorption_line.txt 4 109 349 398 769 
+horizon Absorption_line.txt 1 64 
+act Absorption_line.txt 2 1484 1550 
+or Absorption_line.txt 12 70 88 101 197 256 299 662 686 918 968 999 1487 
+gamma Absorption_line.txt 1 530 
+presence Absorption_line.txt 2 381 1080 
+previously Absorption_line.txt 1 132 
+into Absorption_line.txt 2 695 808 
+within Absorption_line.txt 1 677 
+perturbing Absorption_line.txt 1 1113 
+because Absorption_line.txt 3 1128 1252 1426 
+references Absorption_line.txt 1 1580 
+determine Absorption_line.txt 1 465 
+proportional Absorption_line.txt 1 1358 
+reabsorbed Absorption_line.txt 1 1237 
+there Absorption_line.txt 3 794 1071 1093 
+sunlight Absorption_line.txt 2 42 48 
+occupy Absorption_line.txt 1 1173 
+low Absorption_line.txt 1 1473 
+stars Absorption_line.txt 2 151 470 
+medium Absorption_line.txt 1 423 
+enough Absorption_line.txt 1 844 
+fraunhofer Absorption_line.txt 3 39 548 569 
+but Absorption_line.txt 1 194 
+neutral Absorption_line.txt 1 614 
+atom Absorption_line.txt 3 230 1011 1171 
+line Absorption_line.txt 31 1 6 84 90 162 290 298 302 306 325 368 549 556 651 742 758 765 1035 1056 1249 1257 1269 1276 1297 1345 1350 1356 1404 1499 1506 1532 
+with Absorption_line.txt 9 20 111 503 618 626 756 922 1354 1490 
+variations Absorption_line.txt 2 1160 1386 
+distribution Absorption_line.txt 4 862 990 1026 1365 
+clear Absorption_line.txt 1 80 
+detailed Absorption_line.txt 1 646 
+celestial Absorption_line.txt 1 473 
+associated Absorption_line.txt 2 755 1074 
+certain Absorption_line.txt 1 1196 
+singly Absorption_line.txt 2 562 623 
+general Absorption_line.txt 2 810 1124 
+balmer Absorption_line.txt 1 687 
+as Absorption_line.txt 14 253 295 443 482 484 552 682 866 1115 1238 1282 1376 1446 1565 
+exist Absorption_line.txt 1 707 
+at Absorption_line.txt 9 67 557 1143 1229 1255 1267 1292 1438 1471 
+planets Absorption_line.txt 1 153 
+relates Absorption_line.txt 1 906 
+lifetime Absorption_line.txt 2 908 930 
+physical Absorption_line.txt 3 454 486 501 
+compared Absorption_line.txt 2 110 129 
+nm Absorption_line.txt 1 559 
+no Absorption_line.txt 1 1073 
+when Absorption_line.txt 3 204 328 371 
+narrowing Absorption_line.txt 2 1189 1563 
+other Absorption_line.txt 5 472 480 489 581 893 
+artificially Absorption_line.txt 1 966 
+opacity Absorption_line.txt 1 1223 
+elements Absorption_line.txt 4 436 712 735 1573 
+star Absorption_line.txt 2 1378 1394 
+photon Absorption_line.txt 4 203 206 239 994 
+non-local Absorption_line.txt 1 1193 
+velocity Absorption_line.txt 4 1008 1331 1364 1388 
+on-resonance Absorption_line.txt 1 1428 
+sides Absorption_line.txt 1 1391 
+reabsorption Absorption_line.txt 2 1262 1273 
+faster Absorption_line.txt 1 1454 
+broad Absorption_line.txt 3 333 384 939 
+nuclei Absorption_line.txt 1 199 
+original Absorption_line.txt 2 255 286 

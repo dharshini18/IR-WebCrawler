@@ -1,0 +1,455 @@
+remastered Earthshine.txt 1 1310 
+all Earthshine.txt 3 92 539 706 
+suns Earthshine.txt 1 444 
+global Earthshine.txt 3 422 537 601 
+results Earthshine.txt 2 151 507 
+spacecraft Earthshine.txt 1 41 
+optical Earthshine.txt 1 1137 
+certainly Earthshine.txt 1 1251 
+show Earthshine.txt 2 497 508 
+saturnshine Earthshine.txt 1 11 
+to Earthshine.txt 29 24 27 50 185 305 316 394 399 407 420 496 536 542 615 826 845 958 971 1007 1044 1058 1108 1147 1202 1217 1241 1255 1269 1275 
+program Earthshine.txt 1 929 
+under Earthshine.txt 1 997 
+advantage Earthshine.txt 1 1102 
+very Earthshine.txt 2 865 1046 
+oceans Earthshine.txt 1 428 
+lifeson Earthshine.txt 1 1314 
+categories Earthshine.txt 2 1320 1322 
+entire Earthshine.txt 1 321 
+clouds Earthshine.txt 4 447 540 548 808 
+exits Earthshine.txt 1 789 
+harbor Earthshine.txt 1 963 
+large Earthshine.txt 1 812 
+these Earthshine.txt 2 1023 1177 
+venus Earthshine.txt 1 488 
+leonardo Earthshine.txt 2 237 362 
+methane Earthshine.txt 1 986 
+glassy Earthshine.txt 1 816 
+trails Earthshine.txt 1 1309 
+direct Earthshine.txt 1 198 
+measurably Earthshine.txt 1 586 
+crescent Earthshine.txt 4 137 243 277 915 
+even Earthshine.txt 1 192 
+waning Earthshine.txt 1 276 
+sun Earthshine.txt 7 58 347 649 656 675 722 857 
+while Earthshine.txt 5 348 562 581 1142 1245 
+current Earthshine.txt 1 411 
+scientists Earthshine.txt 1 924 
+new Earthshine.txt 5 140 228 270 283 710 
+net Earthshine.txt 2 551 566 
+increasing Earthshine.txt 1 587 
+contrast Earthshine.txt 2 23 1054 
+body Earthshine.txt 1 105 
+full Earthshine.txt 2 667 688 
+lee Earthshine.txt 1 1313 
+extrasolar Earthshine.txt 2 1152 1230 
+water Earthshine.txt 2 806 983 
+others Earthshine.txt 1 563 
+directions Earthshine.txt 3 642 660 707 
+path Earthshine.txt 1 784 
+appears Earthshine.txt 4 315 474 691 744 
+interpret Earthshine.txt 1 1270 
+search Earthshine.txt 3 910 1129 1160 
+study Earthshine.txt 3 1002 1132 1148 
+spheres Earthshine.txt 3 762 802 817 
+preferentially Earthshine.txt 3 628 672 778 
+studies Earthshine.txt 1 490 
+named Earthshine.txt 1 995 
+via Earthshine.txt 1 1261 
+explained Earthshine.txt 1 365 
+visible Earthshine.txt 5 26 125 210 328 467 
+cassini Earthshine.txt 3 178 863 908 
+limb Earthshine.txt 1 66 
+illumination Earthshine.txt 1 84 
+cloud Earthshine.txt 3 423 501 513 
+readily Earthshine.txt 1 261 
+use Earthshine.txt 1 967 
+eye Earthshine.txt 1 30 
+links Earthshine.txt 1 1318 
+would Earthshine.txt 5 699 752 950 966 1232 
+remains Earthshine.txt 1 603 
+peart Earthshine.txt 1 1316 
+faint Earthshine.txt 4 163 866 1032 1038 
+camera Earthshine.txt 1 46 
+music Earthshine.txt 1 1312 
+therefore Earthshine.txt 2 690 1117 
+until Earthshine.txt 1 266 
+reflects Earthshine.txt 3 438 573 670 
+more Earthshine.txt 2 557 574 
+advance Earthshine.txt 1 1291 
+pursuing Earthshine.txt 1 1121 
+particular Earthshine.txt 2 176 1200 
+known Earthshine.txt 2 219 1289 
+easiest Earthshine.txt 1 1253 
+1994 Earthshine.txt 1 43 
+1997 Earthshine.txt 2 518 524 
+this Earthshine.txt 6 12 150 527 897 999 1078 
+challenge Earthshine.txt 1 1021 
+specializes Earthshine.txt 1 931 
+anywhere Earthshine.txt 1 439 
+can Earthshine.txt 3 493 868 1206 
+drops Earthshine.txt 1 831 
+planetshine Earthshine.txt 6 0 18 80 113 165 205 
+example Earthshine.txt 2 111 662 
+performed Earthshine.txt 1 1181 
+impacts Earthshine.txt 1 837 
+sphere Earthshine.txt 2 775 787 
+numbers Earthshine.txt 1 813 
+terrestrial Earthshine.txt 10 912 936 944 1051 1082 1094 1123 1133 1143 1156 
+rather Earthshine.txt 3 638 1035 1168 
+feature Earthshine.txt 4 1213 1225 1273 1286 
+astronomers Earthshine.txt 2 1179 1197 
+how Earthshine.txt 2 469 498 
+varies Earthshine.txt 1 503 
+if Earthshine.txt 2 643 700 
+after Earthshine.txt 1 268 
+diagram Earthshine.txt 1 203 
+reradiated Earthshine.txt 1 1167 
+retroreflected Earthshine.txt 2 716 736 
+data Earthshine.txt 1 417 
+a Earthshine.txt 24 89 162 269 337 425 509 520 550 565 773 783 883 943 992 1037 1045 1050 1109 1113 1122 1211 1222 1242 1271 
+realized Earthshine.txt 1 375 
+light Earthshine.txt 17 164 357 388 434 445 622 645 671 703 776 952 977 1004 1150 1164 1192 1227 
+bathed Earthshine.txt 1 160 
+so Earthshine.txt 2 451 580 
+vapor Earthshine.txt 1 1308 
+wavelengths Earthshine.txt 1 1141 
+help Earthshine.txt 1 408 
+over Earthshine.txt 4 62 504 590 919 
+retroreflective Earthshine.txt 1 755 
+mission Earthshine.txt 3 948 994 1126 
+produced Earthshine.txt 2 760 835 
+6.5 Earthshine.txt 1 510 
+through Earthshine.txt 1 336 
+its Earthshine.txt 2 664 1059 
+before Earthshine.txt 2 265 842 
+saturn Earthshine.txt 4 5 70 182 852 
+interesting Earthshine.txt 1 1235 
+hidden Earthshine.txt 1 1321 
+might Earthshine.txt 1 1238 
+2013 Earthshine.txt 1 1311 
+then Earthshine.txt 1 735 
+them Earthshine.txt 1 625 
+dim Earthshine.txt 2 21 83 
+material Earthshine.txt 1 765 
+effects Earthshine.txt 1 756 
+they Earthshine.txt 6 194 555 560 577 823 961 
+not Earthshine.txt 3 196 1026 1288 
+transparent Earthshine.txt 2 764 774 
+oxygen Earthshine.txt 1 984 
+brightness Earthshine.txt 1 144 
+edit Earthshine.txt 7 202 606 849 914 1301 1303 1319 
+fully Earthshine.txt 1 291 
+ashen Earthshine.txt 1 223 
+trap Earthshine.txt 2 556 578 
+rock Earthshine.txt 1 834 
+found Earthshine.txt 1 819 
+difficult Earthshine.txt 1 1268 
+side Earthshine.txt 7 99 129 155 215 308 314 875 
+telescope Earthshine.txt 3 338 969 1116 
+retroreflection Earthshine.txt 3 605 621 758 
+measurement Earthshine.txt 1 1205 
+wavelength Earthshine.txt 1 1282 
+ring Earthshine.txt 1 885 
+album Earthshine.txt 1 1307 
+space Earthshine.txt 2 179 989 
+since Earthshine.txt 3 1185 1236 1280 
+research Earthshine.txt 1 532 
+increase Earthshine.txt 1 522 
+red Earthshine.txt 2 1209 1247 
+reason Earthshine.txt 1 1079 
+backed Earthshine.txt 1 939 
+detecting Earthshine.txt 1 1036 
+orb Earthshine.txt 1 322 
+reflect Earthshine.txt 5 197 382 429 448 561 
+diffused Earthshine.txt 1 702 
+launch Earthshine.txt 1 941 
+dip Earthshine.txt 1 511 
+could Earthshine.txt 2 962 1265 
+onto Earthshine.txt 2 887 891 
+features Earthshine.txt 1 1298 
+reflected Earthshine.txt 12 87 208 301 358 390 627 652 779 881 953 978 1193 
+smaller Earthshine.txt 1 1110 
+approximately Earthshine.txt 1 1063 
+directly Earthshine.txt 2 343 1256 
+navigator Earthshine.txt 1 928 
+size Earthshine.txt 1 1115 
+mercury Earthshine.txt 1 73 
+earths Earthshine.txt 2 500 583 
+given Earthshine.txt 2 477 1114 
+temperature Earthshine.txt 1 602 
+similarly Earthshine.txt 1 708 
+system Earthshine.txt 2 174 886 
+least Earthshine.txt 1 431 
+their Earthshine.txt 1 570 
+cooling Earthshine.txt 1 567 
+1506 Earthshine.txt 1 255 
+too Earthshine.txt 1 20 
+molecular Earthshine.txt 1 1296 
+observations Earthshine.txt 2 1184 1263 
+way Earthshine.txt 1 1254 
+trapped Earthshine.txt 1 595 
+part Earthshine.txt 3 94 248 453 
+shortly Earthshine.txt 2 264 267 
+than Earthshine.txt 6 559 576 639 697 750 1169 
+detection Earthshine.txt 2 934 1220 
+observatory Earthshine.txt 1 923 
+determines Earthshine.txt 1 468 
+aims Earthshine.txt 1 1146 
+preparation Earthshine.txt 1 1175 
+toward Earthshine.txt 6 654 673 677 720 724 741 
+and Earthshine.txt 24 67 72 109 256 319 379 397 446 461 517 519 525 610 657 676 734 780 840 917 985 1081 1131 1138 1155 
+gathering Earthshine.txt 1 1027 
+have Earthshine.txt 7 549 564 614 827 938 1180 1198 
+seen Earthshine.txt 5 335 694 747 858 870 
+any Earthshine.txt 2 101 476 
+contents Earthshine.txt 1 200 
+illuminated Earthshine.txt 2 344 355 
+angle Earthshine.txt 1 1111 
+that Earthshine.txt 6 376 1040 1103 1127 1165 1214 
+lit Earthshine.txt 4 9 33 54 292 
+also Earthshine.txt 6 116 167 218 1001 1120 1300 
+edge Earthshine.txt 2 1210 1248 
+which Earthshine.txt 11 122 463 623 634 680 713 727 788 795 838 930 
+spectral Earthshine.txt 4 1212 1224 1285 1297 
+solidified Earthshine.txt 1 841 
+paid Earthshine.txt 1 1199 
+most Earthshine.txt 5 107 124 260 1019 1293 
+but Earthshine.txt 1 1034 
+preliminary Earthshine.txt 1 506 
+phase Earthshine.txt 3 135 278 665 
+extremely Earthshine.txt 2 1042 1267 
+glow Earthshine.txt 2 224 317 
+tpf Earthshine.txt 2 947 949 
+especially Earthshine.txt 1 533 
+implications Earthshine.txt 1 529 
+traditional Earthshine.txt 1 1015 
+regards Earthshine.txt 1 535 
+redirected Earthshine.txt 1 2 
+typically Earthshine.txt 1 149 
+signatures Earthshine.txt 1 1010 
+particularly Earthshine.txt 1 1234 
+phenomenon Earthshine.txt 1 367 
+lyrics Earthshine.txt 1 1315 
+leicester Earthshine.txt 1 252 
+probe Earthshine.txt 1 180 
+scattered Earthshine.txt 1 1170 
+infrared Earthshine.txt 6 1069 1076 1090 1099 1140 1163 
+bright Earthshine.txt 3 340 470 1047 
+earth Earthshine.txt 19 131 287 288 304 361 378 393 401 415 456 608 679 696 719 743 749 800 1196 1260 
+ratio Earthshine.txt 1 1055 
+written Earthshine.txt 1 253 
+brighter Earthshine.txt 2 692 746 
+factor Earthshine.txt 1 427 
+darwin Earthshine.txt 3 996 1080 1154 
+astronomical Earthshine.txt 1 1016 
+do Earthshine.txt 1 195 
+his Earthshine.txt 1 250 
+means Earthshine.txt 1 596 
+familiar Earthshine.txt 1 110 
+moons Earthshine.txt 5 64 191 222 472 893 
+overall Earthshine.txt 1 598 
+da Earthshine.txt 2 238 363 
+nearly Earthshine.txt 2 139 290 
+during Earthshine.txt 2 272 484 
+lunar-prospecting Earthshine.txt 1 39 
+conjunction Earthshine.txt 1 485 
+falling Earthshine.txt 1 843 
+molten Earthshine.txt 1 833 
+thermal Earthshine.txt 3 1068 1089 1162 
+investigate Earthshine.txt 1 959 
+including Earthshine.txt 1 982 
+where Earthshine.txt 1 457 
+16th Earthshine.txt 1 371 
+reveals Earthshine.txt 1 47 
+observed Earthshine.txt 3 108 169 900 
+see Earthshine.txt 1 1299 
+are Earthshine.txt 4 418 803 818 824 
+enhanced Earthshine.txt 1 15 
+close Earthshine.txt 1 1043 
+arm Earthshine.txt 1 236 
+detect Earthshine.txt 4 951 1008 1207 1257 
+finder-c Earthshine.txt 2 1125 1145 
+wikipedia Earthshine.txt 1 1 
+finder-i Earthshine.txt 2 1084 1158 
+behind Earthshine.txt 1 860 
+between Earthshine.txt 3 254 515 523 
+orbiting Earthshine.txt 2 103 956 
+encounters Earthshine.txt 1 772 
+attention Earthshine.txt 1 1201 
+however Earthshine.txt 2 546 1091 
+spectroscopic Earthshine.txt 1 1189 
+extent Earthshine.txt 1 617 
+come Earthshine.txt 1 637 
+paranal Earthshine.txt 1 922 
+both Earthshine.txt 1 377 
+climate Earthshine.txt 2 426 531 
+missions Earthshine.txt 2 1024 1178 
+many Earthshine.txt 2 902 1014 
+region Earthshine.txt 1 341 
+uncertainty Earthshine.txt 1 589 
+s Earthshine.txt 9 6 45 59 183 213 240 873 921 927 
+comes Earthshine.txt 1 646 
+otherwise Earthshine.txt 1 97 
+unclear Earthshine.txt 1 604 
+corresponds Earthshine.txt 1 1107 
+consideration Earthshine.txt 1 998 
+unaided Earthshine.txt 1 29 
+three Earthshine.txt 1 75 
+been Earthshine.txt 4 168 715 828 899 
+earthlight Earthshine.txt 2 118 209 
+much Earthshine.txt 1 745 
+mars Earthshine.txt 1 71 
+entered Earthshine.txt 1 797 
+dots Earthshine.txt 1 76 
+direction Earthshine.txt 4 632 686 733 793 
+corresponding Earthshine.txt 1 521 
+vinci Earthshine.txt 2 239 364 
+observable Earthshine.txt 1 262 
+droplets Earthshine.txt 1 804 
+formed Earthshine.txt 1 829 
+photos Earthshine.txt 1 905 
+external Earthshine.txt 1 1317 
+plants Earthshine.txt 1 1218 
+atmospheric Earthshine.txt 1 143 
+look Earthshine.txt 1 972 
+unlike Earthshine.txt 2 1013 1292 
+solid Earthshine.txt 1 815 
+will Earthshine.txt 4 1000 1085 1128 1159 
+near Earthshine.txt 2 709 1139 
+eclipses Earthshine.txt 1 855 
+property Earthshine.txt 1 619 
+1510 Earthshine.txt 1 257 
+life-marks Earthshine.txt 1 974 
+century Earthshine.txt 1 372 
+almost Earthshine.txt 3 683 730 1250 
+characteristics Earthshine.txt 1 1190 
+is Earthshine.txt 37 13 19 81 114 123 136 207 217 259 282 289 300 326 342 354 389 405 459 466 585 626 651 666 681 728 759 777 877 880 1025 1041 1062 1119 1166 1215 1249 1287 
+it Earthshine.txt 14 216 458 635 650 698 701 751 771 790 796 854 965 1237 1264 
+surface Earthshine.txt 3 769 822 847 
+in Earthshine.txt 27 42 152 161 171 175 234 368 512 630 640 658 682 705 729 782 791 807 901 932 975 1066 1073 1087 1096 1174 1226 1290 
+increased Earthshine.txt 2 544 571 
+radiation Earthshine.txt 1 575 
+amount Earthshine.txt 2 432 592 
+same Earthshine.txt 3 386 685 732 
+albedo Earthshine.txt 4 412 545 572 584 
+another Earthshine.txt 1 1278 
+viewed Earthshine.txt 2 285 295 
+european Earthshine.txt 1 988 
+used Earthshine.txt 4 181 406 419 495 
+effect Earthshine.txt 3 553 568 599 
+warming Earthshine.txt 2 538 552 
+early Earthshine.txt 1 370 
+lower Earthshine.txt 1 78 
+off Earthshine.txt 3 331 359 481 
+roughly Earthshine.txt 1 435 
+thought Earthshine.txt 1 825 
+without Earthshine.txt 2 141 753 
+pandora Earthshine.txt 1 872 
+the Earthshine.txt 124 17 28 31 38 52 57 63 68 74 82 96 104 106 120 127 133 142 146 153 157 172 177 189 221 227 231 273 280 297 303 306 310 312 320 324 332 339 346 349 352 360 366 369 380 385 392 395 400 410 414 416 430 443 452 455 464 471 482 499 582 588 591 597 607 618 631 644 648 655 668 674 678 684 687 718 721 725 731 739 742 754 757 767 786 792 799 801 810 821 846 856 862 888 892 895 904 907 933 940 976 980 987 1003 1009 1018 1031 1053 1067 1074 1088 1097 1101 1104 1136 1149 1172 1188 1195 1208 1219 1246 1252 1281 1284 
+nearby Earthshine.txt 1 659 
+bodies Earthshine.txt 1 613 
+left Earthshine.txt 3 51 79 489 
+agency Earthshine.txt 1 990 
+being Earthshine.txt 1 159 
+rest Earthshine.txt 1 350 
+atomic Earthshine.txt 1 1294 
+captured Earthshine.txt 1 36 
+photons Earthshine.txt 1 1029 
+sky Earthshine.txt 1 148 
+has Earthshine.txt 8 166 528 636 714 898 991 1100 1187 
+finder Earthshine.txt 1 946 
+around Earthshine.txt 1 449 
+dark Earthshine.txt 4 65 98 154 874 
+using Earthshine.txt 1 1135 
+advanced Earthshine.txt 1 968 
+light-harvesting Earthshine.txt 1 1243 
+50 Earthshine.txt 1 450 
+night Earthshine.txt 4 128 214 307 313 
+clementine Earthshine.txt 2 40 44 
+refracted Earthshine.txt 1 781 
+sketch Earthshine.txt 1 241 
+right Earthshine.txt 1 49 
+glare Earthshine.txt 1 60 
+some Earthshine.txt 3 547 611 616 
+back Earthshine.txt 4 398 629 653 844 
+earthshine Earthshine.txt 21 4 35 56 115 201 206 246 258 329 403 404 473 479 492 712 918 1183 1186 1204 1262 1305 
+orbiter Earthshine.txt 2 864 909 
+for Earthshine.txt 12 530 661 911 973 1022 1049 1077 1093 1112 1130 1161 1176 
+daytime Earthshine.txt 2 147 460 
+moon Earthshine.txt 29 7 32 53 102 121 158 212 229 233 244 271 281 298 311 325 333 353 381 396 465 483 609 669 689 711 726 740 811 916 
+lunar Earthshine.txt 1 134 
+ringshine Earthshine.txt 4 848 850 867 876 
+eso Earthshine.txt 1 920 
+be Earthshine.txt 6 25 494 869 1233 1239 1266 
+faintly Earthshine.txt 1 318 
+host Earthshine.txt 1 1060 
+references Earthshine.txt 1 1302 
+from Earthshine.txt 25 3 48 88 126 263 286 296 302 391 440 462 633 647 695 748 794 830 859 861 906 979 1005 1030 1228 1306 
+by Earthshine.txt 16 10 22 34 37 55 85 345 356 717 738 761 836 882 954 1171 1194 
+shine Earthshine.txt 1 184 
+on Earthshine.txt 11 119 211 600 766 798 809 820 851 871 1259 1277 
+of Earthshine.txt 35 91 95 100 112 130 145 156 188 204 242 249 309 323 351 413 433 442 454 491 593 620 763 805 814 832 894 903 935 942 1011 1056 1151 1191 1221 1283 
+cooled Earthshine.txt 1 839 
+or Earthshine.txt 8 93 138 225 275 723 890 1070 1295 
+image Earthshine.txt 1 186 
+within Earthshine.txt 1 785 
+due Earthshine.txt 3 1216 1240 1274 
+because Earthshine.txt 2 554 569 
+rising Earthshine.txt 1 61 
+determine Earthshine.txt 1 409 
+old Earthshine.txt 1 232 
+iapetus Earthshine.txt 1 8 
+1985 Earthshine.txt 1 516 
+her Earthshine.txt 1 235 
+sunlight Earthshine.txt 5 86 199 299 383 879 
+stars Earthshine.txt 2 957 1061 
+analyze Earthshine.txt 1 421 
+elsewhere Earthshine.txt 1 170 
+enough Earthshine.txt 1 1028 
+strikes Earthshine.txt 1 624 
+searching Earthshine.txt 1 1092 
+heat Earthshine.txt 3 558 579 594 
+solar Earthshine.txt 1 173 
+technologies Earthshine.txt 1 970 
+with Earthshine.txt 4 230 245 486 534 
+he Earthshine.txt 1 374 
+1025 Earthshine.txt 1 441 
+challenges Earthshine.txt 1 1017 
+rush Earthshine.txt 1 1304 
+portions Earthshine.txt 1 187 
+whether Earthshine.txt 2 960 1203 
+up Earthshine.txt 1 293 
+planet Earthshine.txt 16 90 487 889 896 945 1033 1039 1052 1057 1083 1124 1144 1157 1173 1231 1279 
+limit Earthshine.txt 1 1106 
+similar Earthshine.txt 3 993 1223 1272 
+called Earthshine.txt 1 117 
+detailed Earthshine.txt 1 1182 
+cover Earthshine.txt 3 424 502 514 
+contribute Earthshine.txt 1 541 
+life Earthshine.txt 4 964 1012 1258 1276 
+an Earthshine.txt 3 14 543 1229 
+as Earthshine.txt 8 220 226 247 284 294 334 402 853 
+at Earthshine.txt 4 77 384 475 925 
+planets Earthshine.txt 11 69 190 884 913 937 955 981 1006 1095 1134 1153 
+reflecting Earthshine.txt 3 330 480 768 
+work Earthshine.txt 1 1086 
+again Earthshine.txt 1 737 
+dimly Earthshine.txt 1 327 
+codex Earthshine.txt 1 251 
+when Earthshine.txt 8 132 193 279 373 663 693 770 878 
+other Earthshine.txt 2 612 641 
+optical/near Earthshine.txt 2 1075 1098 
+10 Earthshine.txt 5 436 1064 1065 1071 1072 
+picture Earthshine.txt 1 16 
+star Earthshine.txt 1 1048 
+uniformly Earthshine.txt 1 704 
+land Earthshine.txt 1 437 
+organism Earthshine.txt 1 1244 
+diffraction Earthshine.txt 1 1105 
+2003 Earthshine.txt 1 526 
+waxing Earthshine.txt 1 274 
+nasa Earthshine.txt 2 926 1118 
+time Earthshine.txt 3 387 478 505 
+serious Earthshine.txt 1 1020 

@@ -1,0 +1,239 @@
+saturated Doppler_broadening.txt 1 109 
+reactor Doppler_broadening.txt 1 534 
+caused Doppler_broadening.txt 1 19 
+broaden Doppler_broadening.txt 3 241 465 543 
+move Doppler_broadening.txt 1 153 
+obtain Doppler_broadening.txt 1 303 
+rest Doppler_broadening.txt 2 196 281 
+thermal Doppler_broadening.txt 8 64 70 147 180 309 373 430 548 
+atomic Doppler_broadening.txt 2 4 127 
+turbulence Doppler_broadening.txt 1 417 
+radiation Doppler_broadening.txt 1 159 
+speed Doppler_broadening.txt 1 210 
+find Doppler_broadening.txt 1 121 
+causes Doppler_broadening.txt 2 149 400 
+finally Doppler_broadening.txt 1 456 
+caveats Doppler_broadening.txt 1 365 
+also Doppler_broadening.txt 6 112 287 464 485 518 629 
+absorption Doppler_broadening.txt 6 110 498 540 565 574 581 
+reactivity Doppler_broadening.txt 1 600 
+passive Doppler_broadening.txt 1 606 
+to Doppler_broadening.txt 20 15 68 120 134 152 163 240 254 276 283 410 426 478 488 506 545 556 591 611 615 
+only Doppler_broadening.txt 1 79 
+reactors Doppler_broadening.txt 4 529 589 618 627 
+molecules Doppler_broadening.txt 1 28 
+developed Doppler_broadening.txt 1 416 
+fuel Doppler_broadening.txt 2 535 552 
+emitting Doppler_broadening.txt 4 33 91 107 327 
+has Doppler_broadening.txt 3 503 517 568 
+plasma Doppler_broadening.txt 1 370 
+density Doppler_broadening.txt 1 475 
+macroscopic Doppler_broadening.txt 1 440 
+then Doppler_broadening.txt 3 75 260 337 
+dominant Doppler_broadening.txt 1 623 
+advantage Doppler_broadening.txt 1 593 
+very Doppler_broadening.txt 1 424 
+frequencies Doppler_broadening.txt 1 266 
+express Doppler_broadening.txt 1 288 
+interstellar Doppler_broadening.txt 1 512 
+increases Doppler_broadening.txt 1 603 
+half Doppler_broadening.txt 1 360 
+immediately Doppler_broadening.txt 1 346 
+categories Doppler_broadening.txt 1 633 
+doppler-free Doppler_broadening.txt 1 115 
+neutrons Doppler_broadening.txt 1 558 
+clouds Doppler_broadening.txt 1 514 
+particle Doppler_broadening.txt 3 151 328 473 
+edit Doppler_broadening.txt 4 145 366 630 632 
+fully Doppler_broadening.txt 1 415 
+velocities Doppler_broadening.txt 4 24 30 181 441 
+shape Doppler_broadening.txt 1 561 
+large Doppler_broadening.txt 1 437 
+sufficiently Doppler_broadening.txt 1 471 
+indication Doppler_broadening.txt 1 392 
+references Doppler_broadening.txt 1 631 
+difficult Doppler_broadening.txt 1 425 
+where Doppler_broadening.txt 3 189 268 321 
+towards Doppler_broadening.txt 3 154 204 272 
+approaching Doppler_broadening.txt 1 448 
+deviation Doppler_broadening.txt 1 355 
+determine Doppler_broadening.txt 2 489 507 
+observer Doppler_broadening.txt 4 156 206 226 274 
+generally Doppler_broadening.txt 1 423 
+turbulent Doppler_broadening.txt 1 411 
+gaussian Doppler_broadening.txt 1 350 
+up Doppler_broadening.txt 1 537 
+observed Doppler_broadening.txt 3 192 243 397 
+depends Doppler_broadening.txt 1 78 
+frequency Doppler_broadening.txt 8 82 124 166 174 186 193 197 282 
+design Doppler_broadening.txt 1 523 
+result Doppler_broadening.txt 3 35 570 586 
+sight Doppler_broadening.txt 1 259 
+measure Doppler_broadening.txt 1 608 
+wavelength Doppler_broadening.txt 1 295 
+spectral Doppler_broadening.txt 3 12 85 385 
+material Doppler_broadening.txt 1 398 
+disk Doppler_broadening.txt 1 455 
+for Doppler_broadening.txt 7 101 178 381 393 407 413 468 
+factors Doppler_broadening.txt 1 461 
+fwhm Doppler_broadening.txt 1 362 
+away Doppler_broadening.txt 2 172 223 
+since Doppler_broadening.txt 1 213 
+wikipedia Doppler_broadening.txt 1 2 
+fission Doppler_broadening.txt 1 583 
+its Doppler_broadening.txt 1 497 
+particles Doppler_broadening.txt 4 34 74 92 250 
+safety Doppler_broadening.txt 1 607 
+tends Doppler_broadening.txt 1 610 
+net Doppler_broadening.txt 1 236 
+cause Doppler_broadening.txt 1 433 
+minimal Doppler_broadening.txt 1 142 
+can Doppler_broadening.txt 6 98 117 286 339 463 484 
+body Doppler_broadening.txt 2 108 234 
+be Doppler_broadening.txt 9 99 118 161 176 188 239 435 486 612 
+we Doppler_broadening.txt 4 285 302 338 345 
+doppler Doppler_broadening.txt 13 0 6 17 38 57 65 139 183 310 374 482 515 595 
+terms Doppler_broadening.txt 1 292 
+creating Doppler_broadening.txt 1 604 
+mechanisms Doppler_broadening.txt 1 621 
+emitted Doppler_broadening.txt 1 158 
+component Doppler_broadening.txt 1 253 
+atoms Doppler_broadening.txt 2 26 553 
+water Doppler_broadening.txt 1 625 
+distinguish Doppler_broadening.txt 1 427 
+rapidly Doppler_broadening.txt 1 452 
+along Doppler_broadening.txt 1 255 
+standard Doppler_broadening.txt 1 354 
+likelihood Doppler_broadening.txt 1 579 
+by Doppler_broadening.txt 2 20 317 
+on Doppler_broadening.txt 1 80 
+derivation Doppler_broadening.txt 1 144 
+applications Doppler_broadening.txt 1 363 
+of Doppler_broadening.txt 34 11 23 25 31 43 72 83 89 105 125 201 211 218 231 249 258 264 279 293 307 325 378 384 396 401 439 450 493 511 550 562 571 580 594 
+could Doppler_broadening.txt 1 434 
+transition Doppler_broadening.txt 1 128 
+motion Doppler_broadening.txt 4 71 148 412 549 
+range Doppler_broadening.txt 1 438 
+resulting Doppler_broadening.txt 3 50 419 442 
+cooled Doppler_broadening.txt 2 617 626 
+receding Doppler_broadening.txt 1 446 
+expression Doppler_broadening.txt 1 342 
+or Doppler_broadening.txt 1 27 
+speeds Doppler_broadening.txt 1 219 
+relevant Doppler_broadening.txt 1 614 
+maxwell Doppler_broadening.txt 1 319 
+number Doppler_broadening.txt 1 474 
+one Doppler_broadening.txt 2 377 431 
+down Doppler_broadening.txt 1 133 
+spinning Doppler_broadening.txt 1 453 
+decrease Doppler_broadening.txt 1 598 
+been Doppler_broadening.txt 2 504 519 
+another Doppler_broadening.txt 1 432 
+consideration Doppler_broadening.txt 1 524 
+respect Doppler_broadening.txt 1 555 
+reducing Doppler_broadening.txt 2 572 577 
+are Doppler_broadening.txt 2 458 622 
+broadening Doppler_broadening.txt 15 1 7 10 48 66 77 140 290 311 375 383 481 483 516 596 
+given Doppler_broadening.txt 3 316 496 559 
+from Doppler_broadening.txt 3 224 428 444 
+temperature Doppler_broadening.txt 6 95 104 331 395 527 602 
+width Doppler_broadening.txt 1 358 
+recalling Doppler_broadening.txt 1 296 
+there Doppler_broadening.txt 2 214 457 
+due Doppler_broadening.txt 4 14 67 409 544 
+stark Doppler_broadening.txt 1 480 
+emitter Doppler_broadening.txt 2 170 203 
+their Doppler_broadening.txt 2 94 599 
+cooling Doppler_broadening.txt 1 130 
+accretion Doppler_broadening.txt 1 454 
+therefore Doppler_broadening.txt 2 97 284 
+fraction Doppler_broadening.txt 1 248 
+recognize Doppler_broadening.txt 1 347 
+gives Doppler_broadening.txt 1 390 
+shifted Doppler_broadening.txt 1 162 
+corresponding Doppler_broadening.txt 2 262 275 
+both Doppler_broadening.txt 1 220 
+with Doppler_broadening.txt 3 251 352 554 
+relative Doppler_broadening.txt 1 547 
+gas Doppler_broadening.txt 3 495 513 616 
+volume Doppler_broadening.txt 1 229 
+lowered Doppler_broadening.txt 1 177 
+particular Doppler_broadening.txt 2 60 501 
+known Doppler_broadening.txt 2 54 113 
+line Doppler_broadening.txt 6 47 51 86 244 257 420 
+true Doppler_broadening.txt 1 123 
+explanations Doppler_broadening.txt 1 380 
+case Doppler_broadening.txt 2 61 306 
+high Doppler_broadening.txt 2 472 526 
+portions Doppler_broadening.txt 1 449 
+full Doppler_broadening.txt 1 357 
+this Doppler_broadening.txt 5 49 341 502 567 609 
+e.g Doppler_broadening.txt 1 443 
+maximum Doppler_broadening.txt 1 361 
+will Doppler_broadening.txt 6 160 175 187 238 542 597 
+limit Doppler_broadening.txt 1 301 
+temperatures Doppler_broadening.txt 1 135 
+spectroscopy Doppler_broadening.txt 2 111 116 
+shift Doppler_broadening.txt 2 184 278 
+distribution Doppler_broadening.txt 7 22 217 263 314 320 492 510 
+toward Doppler_broadening.txt 1 221 
+example Doppler_broadening.txt 2 408 469 
+inferring Doppler_broadening.txt 1 102 
+and Doppler_broadening.txt 11 93 96 207 222 332 356 364 369 387 447 582 
+constant Doppler_broadening.txt 1 336 
+likewise Doppler_broadening.txt 1 167 
+is Doppler_broadening.txt 20 8 45 53 62 141 190 194 198 208 215 246 267 269 315 322 329 333 376 422 587 
+spectrum Doppler_broadening.txt 3 499 541 566 
+an Doppler_broadening.txt 3 106 126 391 
+sample Doppler_broadening.txt 1 132 
+as Doppler_broadening.txt 9 55 114 343 348 388 521 532 601 619 
+exist Doppler_broadening.txt 1 405 
+at Doppler_broadening.txt 2 136 359 
+in Doppler_broadening.txt 12 3 36 185 227 291 298 304 367 500 525 530 624 
+moves Doppler_broadening.txt 1 171 
+distributions Doppler_broadening.txt 1 403 
+any Doppler_broadening.txt 1 228 
+contents Doppler_broadening.txt 1 143 
+if Doppler_broadening.txt 1 245 
+different Doppler_broadening.txt 2 29 37 
+end Doppler_broadening.txt 1 585 
+cumulative Doppler_broadening.txt 1 41 
+when Doppler_broadening.txt 2 146 168 
+cross Doppler_broadening.txt 1 575 
+shifts Doppler_broadening.txt 1 39 
+that Doppler_broadening.txt 2 297 588 
+other Doppler_broadening.txt 3 399 460 620 
+take Doppler_broadening.txt 1 592 
+which Doppler_broadening.txt 4 44 137 344 462 
+heats Doppler_broadening.txt 1 536 
+non-relativistic Doppler_broadening.txt 2 179 300 
+neutron Doppler_broadening.txt 3 539 564 573 
+higher Doppler_broadening.txt 1 165 
+profile Doppler_broadening.txt 4 52 58 351 421 
+used Doppler_broadening.txt 5 100 119 487 505 520 
+see Doppler_broadening.txt 1 628 
+though Doppler_broadening.txt 1 406 
+may Doppler_broadening.txt 2 404 476 
+effect Doppler_broadening.txt 3 18 42 237 
+simplify Doppler_broadening.txt 1 340 
+boltzmann Doppler_broadening.txt 1 335 
+designed Doppler_broadening.txt 1 590 
+significant Doppler_broadening.txt 1 479 
+such Doppler_broadening.txt 1 389 
+astronomy Doppler_broadening.txt 1 368 
+a Doppler_broadening.txt 16 21 56 59 131 150 164 216 256 349 414 436 451 470 494 522 605 
+lead Doppler_broadening.txt 1 477 
+radiating Doppler_broadening.txt 1 233 
+light Doppler_broadening.txt 1 212 
+many Doppler_broadening.txt 1 459 
+lines Doppler_broadening.txt 3 13 386 467 
+element Doppler_broadening.txt 1 230 
+more Doppler_broadening.txt 1 613 
+without Doppler_broadening.txt 1 129 
+mass Doppler_broadening.txt 2 88 324 
+principle Doppler_broadening.txt 1 531 
+nuclear Doppler_broadening.txt 1 528 
+velocity Doppler_broadening.txt 7 200 252 271 313 402 491 509 
+the Doppler_broadening.txt 70 9 16 32 40 46 63 69 73 76 81 84 87 90 103 122 138 155 157 169 173 182 191 195 199 202 205 209 225 232 235 242 247 261 265 270 273 277 280 289 294 299 305 308 312 318 323 326 330 334 353 372 379 382 394 418 429 445 466 490 508 533 538 546 551 557 560 563 569 578 584 
+physics Doppler_broadening.txt 2 5 371 
+section Doppler_broadening.txt 1 576 

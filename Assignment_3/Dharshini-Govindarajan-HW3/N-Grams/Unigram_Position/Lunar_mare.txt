@@ -1,0 +1,410 @@
+all Lunar_mare.txt 1 690 
+concept Lunar_mare.txt 1 387 
+global Lunar_mare.txt 2 394 747 
+abundances Lunar_mare.txt 2 779 794 
+ga Lunar_mare.txt 4 270 282 284 304 
+follow Lunar_mare.txt 1 197 
+abundant Lunar_mare.txt 1 777 
+certainly Lunar_mare.txt 1 576 
+uneven Lunar_mare.txt 2 616 680 
+technique Lunar_mare.txt 1 257 
+young Lunar_mare.txt 1 481 
+crater Lunar_mare.txt 2 259 277 
+to Lunar_mare.txt 18 70 150 268 296 354 429 434 442 447 456 557 578 677 703 739 783 864 881 
+basaltic Lunar_mare.txt 2 25 307 
+very Lunar_mare.txt 1 103 
+closeup Lunar_mare.txt 1 385 
+difference Lunar_mare.txt 1 826 
+vlt Lunar_mare.txt 1 731 
+categories Lunar_mare.txt 2 887 889 
+longevity Lunar_mare.txt 1 580 
+commons Lunar_mare.txt 1 886 
+large Lunar_mare.txt 3 23 104 524 
+p Lunar_mare.txt 1 823 
+shows Lunar_mare.txt 1 756 
+smaller Lunar_mare.txt 4 99 135 627 644 
+kreep Lunar_mare.txt 5 538 561 572 591 808 
+sub-earth Lunar_mare.txt 1 459 
+direct Lunar_mare.txt 1 251 
+3.16 Lunar_mare.txt 1 267 
+enhancement Lunar_mare.txt 1 565 
+further Lunar_mare.txt 2 704 873 
+rectangular Lunar_mare.txt 1 368 
+tranquillitatis Lunar_mare.txt 1 175 
+appear Lunar_mare.txt 2 68 295 
+crust Lunar_mare.txt 3 657 666 673 
+terrane Lunar_mare.txt 2 562 573 
+scientists Lunar_mare.txt 1 604 
+international Lunar_mare.txt 1 224 
+increasing Lunar_mare.txt 1 427 
+can Lunar_mare.txt 1 780 
+justification Lunar_mare.txt 1 229 
+youngest Lunar_mare.txt 2 273 319 
+insularum Lunar_mare.txt 1 155 
+cylindrical Lunar_mare.txt 1 423 
+groups Lunar_mare.txt 1 735 
+invented Lunar_mare.txt 1 702 
+appears Lunar_mare.txt 1 521 
+obtained Lunar_mare.txt 2 400 514 
+smythii Lunar_mare.txt 1 180 
+study Lunar_mare.txt 1 612 
+published Lunar_mare.txt 1 610 
+topography Lunar_mare.txt 1 371 
+projection Lunar_mare.txt 1 424 
+classification Lunar_mare.txt 1 688 
+proportion Lunar_mare.txt 1 525 
+visible Lunar_mare.txt 2 87 370 
+names Lunar_mare.txt 2 123 146 
+from Lunar_mare.txt 9 88 265 276 401 431 440 444 515 751 
+links Lunar_mare.txt 1 877 
+0 Lunar_mare.txt 2 461 464 
+distinct Lunar_mare.txt 1 741 
+prospector Lunar_mare.txt 1 518 
+few Lunar_mare.txt 3 91 306 633 
+ree Lunar_mare.txt 1 820 
+rich Lunar_mare.txt 1 813 
+occurred Lunar_mare.txt 2 310 620 
+broke Lunar_mare.txt 1 663 
+known Lunar_mare.txt 1 356 
+90 Lunar_mare.txt 2 445 448 
+frigoris Lunar_mare.txt 1 161 
+producing Lunar_mare.txt 1 532 
+ahsphaug Lunar_mare.txt 1 606 
+this Lunar_mare.txt 3 198 595 640 
+longitude Lunar_mare.txt 1 426 
+dubbed Lunar_mare.txt 1 38 
+debated Lunar_mare.txt 1 506 
+thin Lunar_mare.txt 1 675 
+impacts Lunar_mare.txt 1 662 
+states Lunar_mare.txt 2 169 189 
+collision Lunar_mare.txt 1 642 
+ingenii Lunar_mare.txt 1 173 
+counting Lunar_mare.txt 2 260 278 
+terrestrial Lunar_mare.txt 4 687 791 828 861 
+end Lunar_mare.txt 1 767 
+1 Lunar_mare.txt 3 283 285 375 
+located Lunar_mare.txt 2 495 540 
+astronomers Lunar_mare.txt 1 45 
+map Lunar_mare.txt 1 396 
+singular Lunar_mare.txt 1 17 
+after Lunar_mare.txt 1 636 
+tholeiitic Lunar_mare.txt 1 696 
+oceanus Lunar_mare.txt 5 115 324 349 360 545 
+water Lunar_mare.txt 1 837 
+data Lunar_mare.txt 2 513 750 
+near-total Lunar_mare.txt 1 834 
+a Lunar_mare.txt 10 60 393 422 523 551 611 632 760 800 824 
+highlands Lunar_mare.txt 2 58 418 
+correspond Lunar_mare.txt 1 353 
+element Lunar_mare.txt 1 723 
+decreasing Lunar_mare.txt 1 439 
+australe Lunar_mare.txt 1 164 
+astronomical Lunar_mare.txt 1 225 
+mission Lunar_mare.txt 3 404 519 754 
+years Lunar_mare.txt 2 287 635 
+through Lunar_mare.txt 1 664 
+same Lunar_mare.txt 1 141 
+still Lunar_mare.txt 1 504 
+its Lunar_mare.txt 1 637 
+before Lunar_mare.txt 1 183 
+regions Lunar_mare.txt 3 407 415 543 
+near-side Lunar_mare.txt 1 498 
+group Lunar_mare.txt 1 802 
+hydrogen-bearing Lunar_mare.txt 1 850 
+minerals Lunar_mare.txt 1 851 
+absence Lunar_mare.txt 1 835 
+production Lunar_mare.txt 1 568 
+marsh Lunar_mare.txt 1 127 
+latitude Lunar_mare.txt 1 438 
+2014 Lunar_mare.txt 2 377 486 
+hidden Lunar_mare.txt 1 888 
+2011 Lunar_mare.txt 1 602 
+into Lunar_mare.txt 3 339 648 716 
+them Lunar_mare.txt 1 48 
+rift Lunar_mare.txt 3 366 379 383 
+they Lunar_mare.txt 2 36 52 
+not Lunar_mare.txt 4 196 352 598 848 
+now Lunar_mare.txt 2 555 755 
+name Lunar_mare.txt 1 211 
+edit Lunar_mare.txt 7 239 392 685 870 872 875 878 
+classified Lunar_mare.txt 1 694 
+found Lunar_mare.txt 2 322 585 
+side Lunar_mare.txt 4 86 96 314 660 
+referred Lunar_mare.txt 1 556 
+schemes Lunar_mare.txt 1 689 
+proposing Lunar_mare.txt 1 613 
+series Lunar_mare.txt 1 718 
+related Lunar_mare.txt 2 577 880 
+special Lunar_mare.txt 1 801 
+flowed Lunar_mare.txt 1 338 
+volcanism Lunar_mare.txt 2 483 584 
+million Lunar_mare.txt 1 634 
+reason Lunar_mare.txt 1 488 
+abnormally Lunar_mare.txt 1 812 
+formation Lunar_mare.txt 1 638 
+members Lunar_mare.txt 1 768 
+early Lunar_mare.txt 1 44 
+compositions Lunar_mare.txt 1 65 
+iron-rich Lunar_mare.txt 1 64 
+hence Lunar_mare.txt 1 67 
+major Lunar_mare.txt 3 6 722 825 
+features Lunar_mare.txt 2 120 152 
+one Lunar_mare.txt 2 114 659 
+another Lunar_mare.txt 1 626 
+ancient Lunar_mare.txt 4 33 365 378 382 
+their Lunar_mare.txt 2 63 721 
+leading Lunar_mare.txt 1 676 
+top Lunar_mare.txt 1 441 
+least Lunar_mare.txt 1 776 
+plains Lunar_mare.txt 1 26 
+180 Lunar_mare.txt 2 432 435 
+erupted Lunar_mare.txt 2 298 335 
+final Lunar_mare.txt 1 185 
+moscoviense Lunar_mare.txt 1 202 
+mostly Lunar_mare.txt 2 83 101 
+that Lunar_mare.txt 9 187 230 309 489 522 614 757 770 857 
+moscow Lunar_mare.txt 1 231 
+expanse Lunar_mare.txt 1 345 
+released Lunar_mare.txt 1 668 
+than Lunar_mare.txt 3 56 136 797 
+population Lunar_mare.txt 1 707 
+jutzi Lunar_mare.txt 1 609 
+15 Lunar_mare.txt 1 784 
+16 Lunar_mare.txt 1 78 
+see Lunar_mare.txt 1 868 
+i Lunar_mare.txt 1 16 
+determined Lunar_mare.txt 2 248 275 
+were Lunar_mare.txt 3 37 181 736 
+result Lunar_mare.txt 1 61 
+and Lunar_mare.txt 20 8 66 128 143 178 194 209 254 302 437 463 547 581 607 667 729 769 821 829 855 
+1.2 Lunar_mare.txt 1 281 
+ages Lunar_mare.txt 4 238 241 263 274 
+have Lunar_mare.txt 5 139 246 297 700 793 
+phyllosilicates Lunar_mare.txt 1 856 
+albedo Lunar_mare.txt 1 395 
+contents Lunar_mare.txt 1 237 
+gravity Lunar_mare.txt 1 373 
+mechanism Lunar_mare.txt 1 588 
+predominantly Lunar_mare.txt 1 494 
+also Lunar_mare.txt 2 112 869 
+which Lunar_mare.txt 2 590 810 
+province Lunar_mare.txt 1 554 
+established Lunar_mare.txt 1 182 
+who Lunar_mare.txt 1 46 
+reach Lunar_mare.txt 1 781 
+most Lunar_mare.txt 2 575 790 
+maria Lunar_mare.txt 10 7 13 39 75 92 137 148 411 619 683 
+spumans Lunar_mare.txt 1 157 
+sensing Lunar_mare.txt 1 749 
+cover Lunar_mare.txt 1 76 
+hemisphere Lunar_mare.txt 1 499 
+traditional Lunar_mare.txt 1 107 
+pattern Lunar_mare.txt 1 199 
+planetary Lunar_mare.txt 1 603 
+metamorphism Lunar_mare.txt 1 867 
+mistook Lunar_mare.txt 1 47 
+agreed Lunar_mare.txt 1 599 
+discovered Lunar_mare.txt 1 204 
+imbrium Lunar_mare.txt 2 154 549 
+earth Lunar_mare.txt 4 28 89 631 818 
+impact Lunar_mare.txt 2 341 357 
+based Lunar_mare.txt 3 511 719 742 
+storms Lunar_mare.txt 1 364 
+3 Lunar_mare.txt 2 208 301 
+only Lunar_mare.txt 2 220 670 
+eruptions Lunar_mare.txt 2 35 308 
+do Lunar_mare.txt 2 195 847 
+moons Lunar_mare.txt 2 528 656 
+12 Lunar_mare.txt 1 484 
+lighter Lunar_mare.txt 1 414 
+sinus Lunar_mare.txt 1 129 
+low-ti Lunar_mare.txt 1 727 
+continuum Lunar_mare.txt 1 761 
+alteration Lunar_mare.txt 1 865 
+bay Lunar_mare.txt 1 130 
+naked Lunar_mare.txt 1 72 
+common Lunar_mare.txt 2 469 859 
+contain Lunar_mare.txt 1 849 
+where Lunar_mare.txt 1 671 
+vaporum Lunar_mare.txt 1 159 
+seas Lunar_mare.txt 3 42 51 883 
+observed Lunar_mare.txt 1 679 
+intensity Lunar_mare.txt 1 582 
+nearside Lunar_mare.txt 2 4 328 
+cognitum Lunar_mare.txt 1 166 
+are Lunar_mare.txt 16 22 53 97 134 279 315 321 408 416 467 493 693 713 774 811 858 
+sea Lunar_mare.txt 2 151 162 
+procellarum Lunar_mare.txt 7 160 325 350 361 546 560 571 
+subsequent Lunar_mare.txt 1 661 
+wikipedia Lunar_mare.txt 1 2 
+state Lunar_mare.txt 1 234 
+r Lunar_mare.txt 2 15 20 
+between Lunar_mare.txt 3 299 765 827 
+reading Lunar_mare.txt 1 874 
+latin Lunar_mare.txt 1 40 
+nature Lunar_mare.txt 1 142 
+craters Lunar_mare.txt 2 9 105 
+wt Lunar_mare.txt 2 785 799 
+rare Lunar_mare.txt 1 817 
+basalts Lunar_mare.txt 20 245 294 333 391 477 492 692 710 712 726 728 732 788 792 805 809 831 844 846 862 
+concentrated Lunar_mare.txt 1 593 
+both Lunar_mare.txt 1 249 
+last Lunar_mare.txt 1 132 
+humorum Lunar_mare.txt 1 153 
+many Lunar_mare.txt 2 330 468 
+region Lunar_mare.txt 1 596 
+nomenclature Lunar_mare.txt 2 108 186 
+s Lunar_mare.txt 2 29 449 
+became Lunar_mare.txt 1 592 
+grail Lunar_mare.txt 1 372 
+geochemical Lunar_mare.txt 1 553 
+attributes Lunar_mare.txt 1 163 
+crisium Lunar_mare.txt 1 172 
+volcanic Lunar_mare.txt 2 34 347 
+point Lunar_mare.txt 1 460 
+basins Lunar_mare.txt 1 342 
+corresponds Lunar_mare.txt 1 455 
+community Lunar_mare.txt 1 510 
+mare Lunar_mare.txt 13 1 18 176 179 201 244 293 390 476 491 691 711 787 
+union Lunar_mare.txt 2 217 226 
+three Lunar_mare.txt 2 133 717 
+been Lunar_mare.txt 2 247 701 
+collided Lunar_mare.txt 1 624 
+much Lunar_mare.txt 2 98 795 
+reflective Lunar_mare.txt 1 55 
+basin Lunar_mare.txt 2 358 550 
+mind Lunar_mare.txt 3 171 191 236 
+concerning Lunar_mare.txt 1 471 
+formed Lunar_mare.txt 1 31 
+external Lunar_mare.txt 1 876 
+these Lunar_mare.txt 2 734 766 
+n Lunar_mare.txt 2 446 462 
+humboldtianum Lunar_mare.txt 1 177 
+while Lunar_mare.txt 3 329 563 733 
+k Lunar_mare.txt 1 816 
+at Lunar_mare.txt 1 884 
+characteristics Lunar_mare.txt 1 144 
+is Lunar_mare.txt 9 232 421 503 539 574 597 759 806 832 
+it Lunar_mare.txt 2 218 520 
+surface Lunar_mare.txt 2 82 650 
+serenitatis Lunar_mare.txt 1 174 
+in Lunar_mare.txt 9 102 534 566 601 639 814 838 841 860 
+media Lunar_mare.txt 1 879 
+lava Lunar_mare.txt 1 669 
+any Lunar_mare.txt 2 355 839 
+inventory Lunar_mare.txt 1 529 
+largest Lunar_mare.txt 1 344 
+units Lunar_mare.txt 1 348 
+composition Lunar_mare.txt 1 684 
+residing Lunar_mare.txt 1 100 
+context Lunar_mare.txt 1 381 
+upon Lunar_mare.txt 1 600 
+flows Lunar_mare.txt 1 320 
+nubium Lunar_mare.txt 1 156 
+center Lunar_mare.txt 1 451 
+nevertheless Lunar_mare.txt 1 289 
+well Lunar_mare.txt 1 118 
+palus Lunar_mare.txt 1 126 
+ocean Lunar_mare.txt 2 116 362 
+thought Lunar_mare.txt 1 738 
+the Lunar_mare.txt 78 11 57 71 74 80 85 90 94 106 110 122 131 140 145 184 206 210 215 223 228 233 240 243 256 261 272 290 305 312 318 327 332 343 398 402 405 409 413 417 419 450 453 457 472 487 490 497 501 508 516 527 535 542 548 559 564 570 579 587 615 622 630 643 649 652 655 665 672 678 706 744 752 771 775 807 833 842 853 
+chemistry Lunar_mare.txt 1 724 
+soviet Lunar_mare.txt 1 216 
+high-titanium Lunar_mare.txt 1 772 
+left Lunar_mare.txt 1 428 
+lacus Lunar_mare.txt 1 124 
+proposed Lunar_mare.txt 1 213 
+less Lunar_mare.txt 2 54 796 
+being Lunar_mare.txt 1 505 
+when Lunar_mare.txt 1 200 
+labeled Lunar_mare.txt 1 10 
+subclassifications Lunar_mare.txt 1 699 
+radiometric Lunar_mare.txt 2 252 262 
+accepted Lunar_mare.txt 2 193 221 
+majority Lunar_mare.txt 1 291 
+lake Lunar_mare.txt 1 125 
+thickening Lunar_mare.txt 1 654 
+4 Lunar_mare.txt 1 798 
+samples Lunar_mare.txt 1 746 
+wikimedia Lunar_mare.txt 1 885 
+crushed Lunar_mare.txt 1 647 
+dark Lunar_mare.txt 3 24 69 406 
+using Lunar_mare.txt 1 686 
+unique Lunar_mare.txt 1 552 
+like Lunar_mare.txt 1 852 
+specific Lunar_mare.txt 1 698 
+either Lunar_mare.txt 1 334 
+martin Lunar_mare.txt 1 608 
+clementine Lunar_mare.txt 2 403 753 
+valleys Lunar_mare.txt 3 367 380 384 
+old Lunar_mare.txt 2 288 316 
+3.5 Lunar_mare.txt 1 303 
+for Lunar_mare.txt 4 41 49 109 786 
+bottom Lunar_mare.txt 1 443 
+moon Lunar_mare.txt 10 30 111 359 399 478 502 623 628 645 653 
+does Lunar_mare.txt 1 351 
+lunar Lunar_mare.txt 13 0 3 12 81 410 482 517 709 804 830 843 845 882 
+dating Lunar_mare.txt 1 253 
+refer Lunar_mare.txt 1 149 
+be Lunar_mare.txt 1 740 
+scientific Lunar_mare.txt 1 509 
+references Lunar_mare.txt 1 871 
+eye Lunar_mare.txt 1 73 
+by Lunar_mare.txt 9 32 43 205 214 222 250 255 507 589 
+on Lunar_mare.txt 10 27 84 93 311 326 496 512 658 720 743 
+about Lunar_mare.txt 4 77 266 280 300 
+actual Lunar_mare.txt 1 50 
+of Lunar_mare.txt 32 62 79 147 170 188 190 235 242 258 292 331 346 363 389 397 452 475 480 500 526 530 537 544 583 618 629 651 682 708 762 803 836 
+range Lunar_mare.txt 1 264 
+concentrations Lunar_mare.txt 2 764 773 
+mean Lunar_mare.txt 1 458 
+or Lunar_mare.txt 3 168 337 866 
+image Lunar_mare.txt 2 420 454 
+within Lunar_mare.txt 5 323 336 541 569 594 
+due Lunar_mare.txt 1 863 
+titanium Lunar_mare.txt 1 763 
+luna Lunar_mare.txt 1 207 
+because Lunar_mare.txt 1 621 
+amphiboles Lunar_mare.txt 1 854 
+artists Lunar_mare.txt 1 386 
+there Lunar_mare.txt 3 466 586 758 
+marginis Lunar_mare.txt 1 167 
+high-ti Lunar_mare.txt 1 725 
+was Lunar_mare.txt 6 192 203 212 219 646 674 
+low-impact Lunar_mare.txt 1 641 
+form Lunar_mare.txt 2 536 840 
+potassium Lunar_mare.txt 1 815 
+but Lunar_mare.txt 2 138 697 
+heat Lunar_mare.txt 2 531 567 
+orientale Lunar_mare.txt 1 165 
+remote Lunar_mare.txt 1 748 
+apollo Lunar_mare.txt 1 745 
+with Lunar_mare.txt 5 5 121 227 425 625 
+low-lying Lunar_mare.txt 1 340 
+october Lunar_mare.txt 2 376 485 
+up Lunar_mare.txt 1 782 
+distribution Lunar_mare.txt 4 388 474 617 681 
+m Lunar_mare.txt 2 14 19 
+describe Lunar_mare.txt 1 705 
+evidence Lunar_mare.txt 1 479 
+as Lunar_mare.txt 5 59 117 119 558 695 
+right Lunar_mare.txt 1 430 
+erik Lunar_mare.txt 1 605 
+gradients Lunar_mare.txt 1 374 
+4.2 Lunar_mare.txt 1 269 
+whereas Lunar_mare.txt 4 271 317 412 789 
+generally Lunar_mare.txt 1 714 
+grouped Lunar_mare.txt 1 715 
+tio Lunar_mare.txt 1 778 
+spatial Lunar_mare.txt 1 473 
+misconceptions Lunar_mare.txt 1 470 
+very-low-ti Lunar_mare.txt 1 730 
+elements Lunar_mare.txt 2 533 819 
+undarum Lunar_mare.txt 1 158 
+includes Lunar_mare.txt 1 113 
+structure Lunar_mare.txt 1 369 
+phosphorus Lunar_mare.txt 1 822 
+billion Lunar_mare.txt 1 286 
+e Lunar_mare.txt 4 21 433 436 465 
+far Lunar_mare.txt 2 95 313 
+once Lunar_mare.txt 1 737 

@@ -1,0 +1,695 @@
+represent Helioseismology.txt 1 1061 
+all Helioseismology.txt 5 176 557 695 753 1386 
+two-dimensional Helioseismology.txt 2 945 1697 
+caused Helioseismology.txt 3 82 209 960 
+magnetic Helioseismology.txt 2 1246 1822 
+global Helioseismology.txt 8 163 383 388 703 882 1497 1682 1856 
+results Helioseismology.txt 2 1171 1973 
+indicates Helioseismology.txt 1 1280 
+follow Helioseismology.txt 1 668 
+asteroseismology Helioseismology.txt 5 105 1526 1530 1551 1618 
+causes Helioseismology.txt 1 56 
+layers Helioseismology.txt 1 1399 
+whose Helioseismology.txt 1 1562 
+inverse Helioseismology.txt 1 1079 
+zone Helioseismology.txt 2 628 1287 
+convectively-stable Helioseismology.txt 1 605 
+granular Helioseismology.txt 1 980 
+to Helioseismology.txt 47 101 151 187 197 305 368 472 498 588 603 659 664 746 838 869 888 921 996 1003 1046 1070 1077 1128 1193 1224 1227 1274 1290 1350 1365 1436 1438 1457 1515 1541 1557 1621 1739 1793 1811 1825 1833 1843 1868 1879 1935 2052 
+suns Helioseismology.txt 12 96 121 154 168 182 263 278 373 1058 1083 1152 1821 
+analogous Helioseismology.txt 1 658 
+characterised Helioseismology.txt 1 490 
+amplitudes Helioseismology.txt 1 633 
+broadly Helioseismology.txt 1 1583 
+very Helioseismology.txt 1 697 
+frequencies Helioseismology.txt 10 572 862 1100 1123 1322 1331 1714 1738 1764 1817 
+1993 Helioseismology.txt 1 1040 
+summarized Helioseismology.txt 1 1888 
+resonant Helioseismology.txt 1 169 
+difference Helioseismology.txt 2 1119 1594 
+continued Helioseismology.txt 1 2018 
+categories Helioseismology.txt 3 520 2076 2078 
+prize Helioseismology.txt 1 247 
+cause Helioseismology.txt 1 1999 
+1996 Helioseismology.txt 1 1891 
+joined Helioseismology.txt 1 2022 
+damped Helioseismology.txt 3 91 895 1568 
+discrete Helioseismology.txt 1 1063 
+demonstrated Helioseismology.txt 1 1198 
+inversions Helioseismology.txt 5 1149 1195 1197 1951 1997 
+outer Helioseismology.txt 1 1571 
+degeneracy Helioseismology.txt 1 1327 
+upper Helioseismology.txt 1 1637 
+force Helioseismology.txt 2 547 609 
+three-dimensional Helioseismology.txt 1 1969 
+oscillation Helioseismology.txt 6 412 468 759 1059 1815 1857 
+be Helioseismology.txt 15 208 218 306 511 928 966 1126 1363 1390 1409 1602 1641 1681 1782 1866 
+consistent Helioseismology.txt 1 268 
+approximation Helioseismology.txt 2 666 890 
+higher-order Helioseismology.txt 1 259 
+perspective Helioseismology.txt 1 1496 
+dynamics Helioseismology.txt 4 72 1087 1251 2028 
+superceded Helioseismology.txt 1 1173 
+blue Helioseismology.txt 1 429 
+developed Helioseismology.txt 2 1748 1790 
+rate Helioseismology.txt 2 1342 1369 
+sun Helioseismology.txt 27 55 75 146 205 342 693 710 767 1094 1117 1238 1307 1345 1355 1372 1377 1402 1423 1448 1481 1533 1686 1746 1801 1836 1863 2037 
+axes Helioseismology.txt 1 723 
+contributed Helioseismology.txt 1 186 
+while Helioseismology.txt 1 119 
+quasi-periodic Helioseismology.txt 1 1661 
+poles Helioseismology.txt 1 1421 
+inferences Helioseismology.txt 2 565 1048 
+above Helioseismology.txt 1 453 
+scientists Helioseismology.txt 3 150 1076 1674 
+new Helioseismology.txt 3 1786 1955 1986 
+principal Helioseismology.txt 1 1593 
+splittings Helioseismology.txt 1 1335 
+full Helioseismology.txt 1 1179 
+evanescent Helioseismology.txt 1 624 
+degree Helioseismology.txt 7 14 699 807 857 1626 1629 1772 
+respectively Helioseismology.txt 1 108 
+component Helioseismology.txt 1 309 
+helioseismologists Helioseismology.txt 2 367 934 
+agreement Helioseismology.txt 2 1944 1991 
+water Helioseismology.txt 1 663 
+l20 Helioseismology.txt 1 15 
+operating Helioseismology.txt 1 403 
+inversion Helioseismology.txt 3 1053 1632 1789 
+separation Helioseismology.txt 2 285 1213 
+based Helioseismology.txt 1 1966 
+self-gravitating Helioseismology.txt 1 481 
+equations Helioseismology.txt 1 1182 
+logarithmic Helioseismology.txt 1 826 
+passbands Helioseismology.txt 1 726 
+solid Helioseismology.txt 1 1484 
+zones Helioseismology.txt 1 1573 
+restrictive Helioseismology.txt 1 1646 
+study Helioseismology.txt 6 67 152 369 1543 1559 1623 
+allows Helioseismology.txt 1 1075 
+article Helioseismology.txt 2 1464 1529 
+hydrostatic Helioseismology.txt 1 484 
+amount Helioseismology.txt 1 1395 
+principally Helioseismology.txt 1 81 
+linearised Helioseismology.txt 1 1164 
+fourier Helioseismology.txt 2 886 929 
+studies Helioseismology.txt 5 110 166 175 378 1522 
+ground Helioseismology.txt 1 2060 
+replace Helioseismology.txt 1 1228 
+brought Helioseismology.txt 1 1876 
+visible Helioseismology.txt 2 843 1867 
+neutrino Helioseismology.txt 5 201 227 233 239 1928 
+standing Helioseismology.txt 1 541 
+use Helioseismology.txt 1 1177 
+space-based Helioseismology.txt 1 2013 
+flaws Helioseismology.txt 1 211 
+links Helioseismology.txt 1 2068 
+would Helioseismology.txt 4 1318 1389 1692 1864 
+weighted-averages Helioseismology.txt 1 1338 
+distinct Helioseismology.txt 1 332 
+two Helioseismology.txt 2 496 519 
+nobel Helioseismology.txt 1 246 
+almost Helioseismology.txt 1 1619 
+therefore Helioseismology.txt 2 630 1487 
+until Helioseismology.txt 1 1718 
+more Helioseismology.txt 4 449 842 1634 1645 
+separated Helioseismology.txt 2 161 517 
+under Helioseismology.txt 1 506 
+envelope Helioseismology.txt 1 292 
+discrepancy Helioseismology.txt 1 2002 
+known Helioseismology.txt 6 298 1142 1301 1549 1574 2007 
+producing Helioseismology.txt 1 1914 
+must Helioseismology.txt 2 216 964 
+abundance Helioseismology.txt 1 2011 
+1980s Helioseismology.txt 1 1752 
+mid-1970s Helioseismology.txt 1 135 
+rotational Helioseismology.txt 3 1334 1382 1441 
+granulation Helioseismology.txt 4 752 853 962 1006 
+this Helioseismology.txt 7 932 963 1074 1326 1616 1630 1897 
+science Helioseismology.txt 1 1895 
+oscillator Helioseismology.txt 1 897 
+remain Helioseismology.txt 1 1478 
+lorentz Helioseismology.txt 1 909 
+values Helioseismology.txt 1 1980 
+can Helioseismology.txt 6 510 927 1124 1362 1408 1639 
+making Helioseismology.txt 1 1644 
+averages Helioseismology.txt 2 1103 1140 
+example Helioseismology.txt 1 1374 
+history Helioseismology.txt 1 1648 
+references Helioseismology.txt 1 2065 
+downdrafts Helioseismology.txt 1 999 
+sense Helioseismology.txt 1 1519 
+geoseismology Helioseismology.txt 3 1461 1501 1516 
+high Helioseismology.txt 1 698 
+weighting Helioseismology.txt 1 1136 
+assumptions Helioseismology.txt 2 508 1647 
+numbers Helioseismology.txt 2 493 501 
+employs Helioseismology.txt 1 1041 
+allowed Helioseismology.txt 2 252 366 
+interpreted Helioseismology.txt 1 471 
+lacks Helioseismology.txt 1 1482 
+monitoring Helioseismology.txt 2 339 2035 
+rather Helioseismology.txt 1 551 
+magazine Helioseismology.txt 1 1896 
+virgo/spm Helioseismology.txt 2 729 781 
+1 Helioseismology.txt 2 575 1266 
+instead Helioseismology.txt 1 217 
+f-modes Helioseismology.txt 1 652 
+profile Helioseismology.txt 5 281 1235 1299 1452 1798 
+144 Helioseismology.txt 1 812 
+duvalls Helioseismology.txt 2 1157 1162 
+coined Helioseismology.txt 1 1030 
+southern Helioseismology.txt 1 356 
+confirmed Helioseismology.txt 1 1704 
+diagram Helioseismology.txt 1 416 
+non-rotating Helioseismology.txt 1 1430 
+waves Helioseismology.txt 7 49 85 178 543 656 660 1491 
+end Helioseismology.txt 1 1804 
+horizontal Helioseismology.txt 2 685 988 
+law Helioseismology.txt 3 672 1158 1163 
+data Helioseismology.txt 12 700 712 776 815 880 912 1052 1241 1359 1494 1916 2057 
+types Helioseismology.txt 1 409 
+a Helioseismology.txt 37 4 35 57 188 219 283 287 307 331 414 418 426 435 478 525 794 799 870 894 903 908 923 936 944 1008 1062 1089 1166 1428 1450 1483 1535 1660 1668 1723 1753 1890 
+third Helioseismology.txt 1 526 
+spectra Helioseismology.txt 1 1699 
+correspond Helioseismology.txt 1 497 
+element Helioseismology.txt 1 1960 
+chief Helioseismology.txt 1 876 
+cannot Helioseismology.txt 2 1488 1601 
+so Helioseismology.txt 1 1016 
+speeds Helioseismology.txt 1 1406 
+allow Helioseismology.txt 2 149 1936 
+subsequently Helioseismology.txt 1 1703 
+operate Helioseismology.txt 1 2053 
+order Helioseismology.txt 3 11 18 474 
+3/4 Helioseismology.txt 1 1270 
+operations Helioseismology.txt 2 1904 2041 
+unsolved Helioseismology.txt 1 2004 
+saturated Helioseismology.txt 1 828 
+closely Helioseismology.txt 2 1539 1555 
+produces Helioseismology.txt 1 1007 
+essence Helioseismology.txt 1 540 
+over Helioseismology.txt 5 354 361 375 405 916 
+vary Helioseismology.txt 1 1818 
+entity Helioseismology.txt 1 333 
+produced Helioseismology.txt 1 750 
+through Helioseismology.txt 3 76 116 327 
+helioseismologyit Helioseismology.txt 1 328 
+differs Helioseismology.txt 1 1499 
+still Helioseismology.txt 1 1640 
+its Helioseismology.txt 3 77 1071 2040 
+before Helioseismology.txt 1 969 
+observational Helioseismology.txt 1 1051 
+hundredth Helioseismology.txt 1 831 
+derive Helioseismology.txt 1 1439 
+group Helioseismology.txt 2 391 1859 
+relativity Helioseismology.txt 1 271 
+detected Helioseismology.txt 2 125 642 
+degrees Helioseismology.txt 1 582 
+harmonics Helioseismology.txt 1 505 
+2015 Helioseismology.txt 1 245 
+hidden Helioseismology.txt 1 2077 
+main Helioseismology.txt 2 1463 1528 
+decades Helioseismology.txt 1 376 
+2010 Helioseismology.txt 1 2024 
+shear Helioseismology.txt 1 1490 
+then Helioseismology.txt 3 489 1125 1385 
+them Helioseismology.txt 2 1001 1229 
+good Helioseismology.txt 2 665 889 
+ground-based Helioseismology.txt 2 2045 2073 
+disrupted Helioseismology.txt 1 1953 
+they Helioseismology.txt 4 579 618 622 667 
+not Helioseismology.txt 5 207 457 465 1716 1830 
+rotation Helioseismology.txt 8 280 1230 1234 1298 1323 1341 1368 1451 
+now Helioseismology.txt 2 297 1189 
+term Helioseismology.txt 1 1029 
+name Helioseismology.txt 2 556 621 
+edit Helioseismology.txt 20 413 535 594 653 702 705 1026 1054 1056 1146 1231 1460 1462 1527 1649 2064 2066 2069 2072 2075 
+always Helioseismology.txt 1 1865 
+identified Helioseismology.txt 1 1783 
+l4 Helioseismology.txt 1 792 
+vibrations Helioseismology.txt 1 476 
+mode Helioseismology.txt 9 7 487 861 892 1099 1122 1713 1737 1816 
+radial Helioseismology.txt 4 10 31 586 1776 
+acoustic Helioseismology.txt 2 62 444 
+entirely Helioseismology.txt 1 1620 
+heavy Helioseismology.txt 1 1959 
+mdi Helioseismology.txt 1 818 
+telescope Helioseismology.txt 1 384 
+formulate Helioseismology.txt 1 1078 
+rigidly-rotating Helioseismology.txt 1 288 
+displacement Helioseismology.txt 1 32 
+related Helioseismology.txt 2 1540 1556 
+breakthrough Helioseismology.txt 1 1755 
+frequency Helioseismology.txt 5 446 677 906 950 1383 
+begun Helioseismology.txt 1 1842 
+doug Helioseismology.txt 1 1034 
+quantum Helioseismology.txt 1 500 
+wavelength Helioseismology.txt 1 63 
+differ Helioseismology.txt 1 1332 
+special Helioseismology.txt 2 527 1892 
+out Helioseismology.txt 2 968 1615 
+category Helioseismology.txt 1 528 
+ultimately Helioseismology.txt 1 230 
+network Helioseismology.txt 4 390 398 1853 1858 
+since Helioseismology.txt 1 2039 
+douglas Helioseismology.txt 1 1729 
+increase Helioseismology.txt 2 42 59 
+dominated Helioseismology.txt 2 848 956 
+issue Helioseismology.txt 1 1893 
+integrated Helioseismology.txt 1 915 
+red Helioseismology.txt 1 748 
+shows Helioseismology.txt 3 22 29 442 
+theory Helioseismology.txt 1 1581 
+perfectly Helioseismology.txt 1 1309 
+given Helioseismology.txt 2 1088 1357 
+standard Helioseismology.txt 4 36 419 1191 1946 
+base Helioseismology.txt 2 320 1282 
+notably Helioseismology.txt 1 2047 
+telescopes Helioseismology.txt 1 1847 
+benefits Helioseismology.txt 1 335 
+e.g Helioseismology.txt 1 1848 
+could Helioseismology.txt 3 148 206 1781 
+days Helioseismology.txt 1 813 
+motion Helioseismology.txt 1 587 
+lindsey Helioseismology.txt 1 1033 
+aboard Helioseismology.txt 4 715 783 820 1248 
+1970s Helioseismology.txt 1 1710 
+hence Helioseismology.txt 1 554 
+onto Helioseismology.txt 1 864 
+south Helioseismology.txt 1 352 
+first Helioseismology.txt 8 124 273 345 473 965 1148 1479 1653 
+major Helioseismology.txt 1 1754 
+features Helioseismology.txt 1 1455 
+number Helioseismology.txt 1 189 
+one Helioseismology.txt 2 830 1871 
+quadrupole Helioseismology.txt 1 257 
+angular Helioseismology.txt 7 13 581 676 806 856 1628 1771 
+3mhz Helioseismology.txt 1 762 
+reference Helioseismology.txt 3 1090 1112 1167 
+start Helioseismology.txt 1 1901 
+introduction Helioseismology.txt 1 1055 
+least Helioseismology.txt 1 1870 
+their Helioseismology.txt 3 117 620 1570 
+intermediate Helioseismology.txt 1 1770 
+observations Helioseismology.txt 10 348 360 740 1066 1706 1759 1808 1875 1933 2014 
+calculations Helioseismology.txt 1 275 
+hundred Helioseismology.txt 1 590 
+structures Helioseismology.txt 1 1134 
+low Helioseismology.txt 2 1625 1768 
+shifted Helioseismology.txt 1 1975 
+way Helioseismology.txt 3 933 1192 1273 
+mostly Helioseismology.txt 1 987 
+that Helioseismology.txt 20 40 86 136 140 513 561 600 926 975 1067 1176 1203 1336 1427 1446 1520 1596 1677 1689 1813 
+tool Helioseismology.txt 1 877 
+continuous Helioseismology.txt 3 338 1072 2056 
+braun Helioseismology.txt 1 1035 
+g-mode Helioseismology.txt 1 427 
+too Helioseismology.txt 1 2061 
+somewhat Helioseismology.txt 1 1511 
+jrgen Helioseismology.txt 1 1726 
+than Helioseismology.txt 4 552 1013 1265 1419 
+center Helioseismology.txt 1 52 
+relative Helioseismology.txt 1 1002 
+observatory Helioseismology.txt 5 720 788 1252 1910 2029 
+sectors Helioseismology.txt 1 1609 
+showed Helioseismology.txt 1 282 
+zero Helioseismology.txt 1 584 
+classes Helioseismology.txt 1 1588 
+were Helioseismology.txt 8 123 1154 1172 1204 1308 1652 1702 1715 
+dynamo Helioseismology.txt 1 313 
+providing Helioseismology.txt 1 2054 
+and Helioseismology.txt 46 16 71 90 147 171 215 258 290 302 393 452 462 524 576 612 629 682 718 780 786 827 1036 1086 1114 1159 1187 1221 1245 1328 1356 1486 1567 1607 1663 1687 1728 1769 1854 1881 1908 1930 1949 1995 2005 2019 2049 
+modern Helioseismology.txt 1 158 
+spectrum Helioseismology.txt 6 707 736 764 803 938 947 
+antarctica Helioseismology.txt 1 1761 
+have Helioseismology.txt 10 365 401 425 434 631 640 646 772 1319 2017 
+uninterrupted Helioseismology.txt 2 347 1874 
+seen Helioseismology.txt 1 1410 
+saw Helioseismology.txt 1 1922 
+clearly Helioseismology.txt 1 756 
+contents Helioseismology.txt 1 408 
+complete Helioseismology.txt 1 1524 
+relationship Helioseismology.txt 1 1456 
+studying Helioseismology.txt 1 1503 
+latter Helioseismology.txt 2 495 1018 
+trapped Helioseismology.txt 1 458 
+able Helioseismology.txt 1 1832 
+gravity Helioseismology.txt 7 591 595 615 650 655 681 688 
+note Helioseismology.txt 1 39 
+also Helioseismology.txt 5 251 1565 1809 2033 2063 
+potential Helioseismology.txt 2 265 1733 
+take Helioseismology.txt 1 619 
+which Helioseismology.txt 16 106 165 174 266 343 400 454 617 899 1267 1288 1296 1774 1861 1912 2031 
+interior Helioseismology.txt 7 28 156 522 568 606 1084 1742 
+coincide Helioseismology.txt 1 1291 
+oscillators Helioseismology.txt 1 1577 
+towards Helioseismology.txt 3 1217 1802 1977 
+multiple Helioseismology.txt 2 362 1939 
+centre Helioseismology.txt 1 1220 
+most Helioseismology.txt 3 194 336 1554 
+regular Helioseismology.txt 1 800 
+measured Helioseismology.txt 1 1717 
+model Helioseismology.txt 6 38 421 1091 1113 1169 1431 
+so-called Helioseismology.txt 1 225 
+clear Helioseismology.txt 3 795 865 1694 
+later Helioseismology.txt 3 1160 1721 1974 
+coincides Helioseismology.txt 1 317 
+inferred Helioseismology.txt 2 326 1239 
+traditional Helioseismology.txt 1 1979 
+soho Helioseismology.txt 4 821 1911 2016 2020 
+analogy Helioseismology.txt 1 1470 
+velocity Helioseismology.txt 3 739 1015 1665 
+coincided Helioseismology.txt 1 1898 
+physics Helioseismology.txt 2 223 249 
+wavenumber Helioseismology.txt 1 686 
+precise Helioseismology.txt 1 450 
+golf Helioseismology.txt 2 742 779 
+show Helioseismology.txt 5 198 731 757 793 1812 
+helioseismologya Helioseismology.txt 1 1028 
+charles Helioseismology.txt 1 1032 
+converge Helioseismology.txt 1 863 
+purely Helioseismology.txt 1 585 
+earth Helioseismology.txt 1 113 
+rough Helioseismology.txt 1 284 
+networks Helioseismology.txt 3 385 1845 2046 
+decade Helioseismology.txt 1 1807 
+make Helioseismology.txt 2 839 1047 
+linked Helioseismology.txt 1 1762 
+with Helioseismology.txt 14 9 269 318 346 571 798 1292 1313 1379 1453 1471 1667 1819 1899 
+state Helioseismology.txt 1 1883 
+brighter Helioseismology.txt 1 1606 
+only Helioseismology.txt 2 132 1504 
+gradual Helioseismology.txt 1 1212 
+local Helioseismology.txt 4 172 1024 1027 1507 
+equilibrium Helioseismology.txt 1 485 
+do Helioseismology.txt 1 464 
+dominant Helioseismology.txt 1 545 
+p-mode Helioseismology.txt 2 8 436 
+fluid Helioseismology.txt 1 482 
+preferred Helioseismology.txt 1 1020 
+line-of-sight Helioseismology.txt 3 738 1014 1664 
+datasets Helioseismology.txt 1 755 
+nearly Helioseismology.txt 2 732 2055 
+lighter Helioseismology.txt 1 1222 
+comb-like Helioseismology.txt 1 796 
+high-quality Helioseismology.txt 1 1915 
+years Helioseismology.txt 3 407 1720 1921 
+geo Helioseismology.txt 2 102 1472 
+fields Helioseismology.txt 1 1459 
+bison Helioseismology.txt 2 399 2048 
+predicted Helioseismology.txt 2 200 1688 
+though Helioseismology.txt 1 1971 
+activity Helioseismology.txt 2 1823 1941 
+distant Helioseismology.txt 1 1599 
+cycles Helioseismology.txt 2 364 1942 
+where Helioseismology.txt 6 423 431 673 769 1259 1414 
+set Helioseismology.txt 2 1064 1180 
+computed Helioseismology.txt 3 33 447 810 
+n14 Helioseismology.txt 1 12 
+achieved Helioseismology.txt 1 1642 
+1960s Helioseismology.txt 2 129 1658 
+observed Helioseismology.txt 2 690 1654 
+intensity Helioseismology.txt 2 1012 1662 
+individual Helioseismology.txt 4 638 860 1712 1736 
+radius Helioseismology.txt 1 1255 
+are Helioseismology.txt 27 80 87 107 267 379 456 470 516 538 562 569 597 601 623 657 694 743 978 986 1068 1101 1141 1188 1262 1337 1348 1564 
+content Helioseismology.txt 1 1961 
+close Helioseismology.txt 1 1434 
+closer Helioseismology.txt 1 1512 
+pattern Helioseismology.txt 1 797 
+wikipedia Helioseismology.txt 1 1 
+dipole Helioseismology.txt 1 432 
+zonealso Helioseismology.txt 1 325 
+symmetric Helioseismology.txt 1 480 
+enough Helioseismology.txt 3 1358 1426 1435 
+between Helioseismology.txt 5 573 1000 1107 1945 1992 
+propagated Helioseismology.txt 1 143 
+boundary Helioseismology.txt 2 294 1294 
+approach Helioseismology.txt 1 50 
+discovery Helioseismology.txt 1 237 
+abundances Helioseismology.txt 1 1987 
+spacing Helioseismology.txt 1 801 
+however Helioseismology.txt 1 1324 
+rapidly Helioseismology.txt 1 1749 
+implementing Helioseismology.txt 1 1208 
+key Helioseismology.txt 1 308 
+20 Helioseismology.txt 1 406 
+suggested Helioseismology.txt 1 1731 
+limits Helioseismology.txt 1 1638 
+desired Helioseismology.txt 1 918 
+minutes Helioseismology.txt 1 1673 
+region Helioseismology.txt 1 846 
+sensitive Helioseismology.txt 3 745 1069 1349 
+heliospheric Helioseismology.txt 3 719 787 1909 
+experimental Helioseismology.txt 1 236 
+groups Helioseismology.txt 1 1840 
+had Helioseismology.txt 1 1841 
+harmonic Helioseismology.txt 5 26 896 920 942 1613 
+pole Helioseismology.txt 1 353 
+m16 Helioseismology.txt 1 19 
+cancel Helioseismology.txt 1 1614 
+observatories Helioseismology.txt 1 1023 
+buoyancy Helioseismology.txt 2 553 611 
+throughout Helioseismology.txt 4 144 1343 1370 1384 
+kernels Helioseismology.txt 2 1144 1442 
+instrument Helioseismology.txt 2 730 819 
+addition Helioseismology.txt 3 359 1785 2044 
+three Helioseismology.txt 2 492 725 
+tiny Helioseismology.txt 1 632 
+much Helioseismology.txt 1 1633 
+slowly Helioseismology.txt 1 1425 
+azimuthal Helioseismology.txt 2 17 1315 
+certain Helioseismology.txt 1 1264 
+combine Helioseismology.txt 1 935 
+low-frequency Helioseismology.txt 1 845 
+settling Helioseismology.txt 1 1210 
+corresponding Helioseismology.txt 3 24 58 868 
+modelling Helioseismology.txt 1 451 
+orange Helioseismology.txt 1 438 
+observe Helioseismology.txt 1 1834 
+external Helioseismology.txt 1 2067 
+spirit Helioseismology.txt 1 1514 
+sound Helioseismology.txt 4 47 84 542 1796 
+heavier Helioseismology.txt 1 1215 
+being Helioseismology.txt 1 1831 
+these Helioseismology.txt 6 79 377 507 1139 1170 1360 
+might Helioseismology.txt 1 1680 
+single Helioseismology.txt 1 924 
+near Helioseismology.txt 2 94 350 
+overcome Helioseismology.txt 1 1826 
+jefferies Helioseismology.txt 1 1038 
+real Helioseismology.txt 1 1116 
+layer Helioseismology.txt 1 295 
+equator Helioseismology.txt 1 1416 
+is Helioseismology.txt 27 65 99 160 296 303 329 488 548 610 674 678 683 825 847 884 893 907 913 955 1019 1509 1534 1538 1553 1582 1595 2006 
+thus Helioseismology.txt 2 613 1510 
+it Helioseismology.txt 6 98 130 137 315 509 1521 
+surface Helioseismology.txt 13 21 97 183 530 636 649 654 680 687 985 1226 1413 1485 
+in Helioseismology.txt 35 43 60 126 133 212 358 371 459 483 539 625 835 881 931 1011 1039 1097 1120 1132 1200 1396 1513 1517 1546 1598 1655 1696 1705 1707 1750 1784 1889 1982 2023 2043 
+claimed Helioseismology.txt 1 648 
+convection Helioseismology.txt 5 93 324 627 1286 1572 
+if Helioseismology.txt 2 1305 1375 
+different Helioseismology.txt 6 1043 1314 1346 1351 1398 1405 
+propagation Helioseismology.txt 1 415 
+began Helioseismology.txt 5 344 1810 1913 1934 2042 
+same Helioseismology.txt 7 670 734 973 1321 1381 1394 1585 
+orders Helioseismology.txt 2 1316 1777 
+parts Helioseismology.txt 1 1352 
+split Helioseismology.txt 1 1391 
+filtered Helioseismology.txt 1 967 
+several Helioseismology.txt 6 589 1042 1454 1475 1719 1839 
+infer Helioseismology.txt 4 1129 1366 1740 1794 
+difficult Helioseismology.txt 1 1635 
+satellite Helioseismology.txt 1 2070 
+used Helioseismology.txt 4 563 1127 1364 1981 
+see Helioseismology.txt 1 2062 
+flows Helioseismology.txt 1 981 
+driven Helioseismology.txt 2 89 1566 
+usually Helioseismology.txt 1 914 
+m Helioseismology.txt 1 1317 
+cycle Helioseismology.txt 1 1824 
+lower Helioseismology.txt 1 949 
+narrow Helioseismology.txt 1 998 
+modes Helioseismology.txt 29 170 433 455 469 531 533 537 592 596 599 651 689 760 771 791 841 874 977 1060 1312 1330 1347 1388 1506 1627 1683 1691 1766 1780 
+changes Helioseismology.txt 2 370 1300 
+colour Helioseismology.txt 1 823 
+roughly Helioseismology.txt 1 316 
+analysis Helioseismology.txt 4 701 1044 1495 1937 
+thought Helioseismology.txt 1 304 
+centres Helioseismology.txt 1 991 
+the Helioseismology.txt 224 20 23 27 30 41 44 51 54 61 66 69 74 95 109 112 120 127 134 141 145 153 157 167 177 181 193 199 204 224 235 244 256 262 272 277 293 300 311 319 322 341 351 355 372 387 394 439 443 460 494 499 503 514 544 549 555 558 567 604 607 626 635 669 675 679 684 692 709 716 724 728 733 737 747 754 758 766 770 778 784 789 817 822 832 836 840 844 850 855 859 875 885 900 917 948 953 958 972 976 983 990 993 997 1004 1017 1050 1057 1082 1093 1095 1098 1105 1108 1111 1115 1118 1121 1130 1133 1135 1147 1151 1178 1184 1190 1196 1211 1218 1225 1232 1237 1243 1249 1253 1260 1272 1275 1277 1281 1284 1293 1297 1303 1306 1311 1320 1329 1340 1344 1354 1367 1371 1376 1380 1387 1393 1401 1412 1415 1420 1422 1440 1447 1480 1493 1518 1523 1532 1542 1558 1579 1584 1592 1605 1611 1622 1656 1678 1685 1690 1700 1708 1732 1741 1745 1751 1763 1775 1779 1795 1800 1803 1806 1814 1820 1827 1835 1849 1855 1862 1877 1882 1885 1900 1906 1919 1923 1926 1931 1943 1958 1963 1972 1978 1983 1985 1990 1993 1998 2001 2009 2026 2036 2059 
+millihertz Helioseismology.txt 1 578 
+researchers Helioseismology.txt 1 1792 
+realised Helioseismology.txt 2 139 1676 
+spherical Helioseismology.txt 7 25 504 919 941 1310 1429 1612 
+summer Helioseismology.txt 1 357 
+less Helioseismology.txt 2 744 1263 
+moments Helioseismology.txt 1 260 
+accurate Helioseismology.txt 1 253 
+rotated Helioseismology.txt 1 1378 
+obtain Helioseismology.txt 1 922 
+mid Helioseismology.txt 1 1709 
+underlying Helioseismology.txt 1 1580 
+birmingham Helioseismology.txt 2 395 1850 
+spherically Helioseismology.txt 1 479 
+rotates Helioseismology.txt 2 1417 1424 
+speed Helioseismology.txt 2 45 1797 
+helioseismology Helioseismology.txt 18 0 64 164 173 184 250 334 704 883 1025 1443 1466 1498 1508 1537 1552 1747 1918 
+character Helioseismology.txt 2 428 437 
+roughly-speaking Helioseismology.txt 1 463 
+internal Helioseismology.txt 2 279 1233 
+transformed Helioseismology.txt 1 930 
+has Helioseismology.txt 5 185 1256 1444 1449 2032 
+resolved Helioseismology.txt 3 231 911 1603 
+around Helioseismology.txt 3 761 768 1269 
+showing Helioseismology.txt 1 422 
+possible Helioseismology.txt 1 381 
+period Helioseismology.txt 1 1669 
+early Helioseismology.txt 2 128 1657 
+photosphere Helioseismology.txt 1 1965 
+increases Helioseismology.txt 1 858 
+makes Helioseismology.txt 1 1631 
+confined Helioseismology.txt 1 602 
+using Helioseismology.txt 7 34 711 775 1156 1161 1240 1735 
+rotate Helioseismology.txt 1 1403 
+p-modes Helioseismology.txt 2 534 570 
+like Helioseismology.txt 1 386 
+particle Helioseismology.txt 1 222 
+double-logarithmic Helioseismology.txt 1 722 
+signal Helioseismology.txt 3 837 851 1010 
+serves Helioseismology.txt 1 1432 
+g-modes Helioseismology.txt 2 593 639 
+flux Helioseismology.txt 1 202 
+detections Helioseismology.txt 1 645 
+continue Helioseismology.txt 1 2051 
+night Helioseismology.txt 1 1838 
+reduced Helioseismology.txt 1 1206 
+because Helioseismology.txt 2 1531 1604 
+methods Helioseismology.txt 2 1045 1787 
+sequence Helioseismology.txt 1 871 
+back Helioseismology.txt 1 1976 
+born Helioseismology.txt 1 1468 
+oscillations Helioseismology.txt 22 78 118 122 142 234 240 389 397 424 515 523 560 809 954 1005 1186 1545 1563 1597 1651 1679 1852 
+imager Helioseismology.txt 1 1247 
+indirect Helioseismology.txt 1 644 
+happens Helioseismology.txt 2 1268 1289 
+gradually Helioseismology.txt 1 1675 
+scale Helioseismology.txt 1 824 
+describing Helioseismology.txt 1 1183 
+for Helioseismology.txt 15 248 310 404 417 564 811 878 898 939 1021 1081 1373 1586 1765 1917 
+breakthroughs Helioseismology.txt 1 192 
+measurements Helioseismology.txt 3 254 1261 1956 
+resonate Helioseismology.txt 1 466 
+propagating Helioseismology.txt 1 179 
+restoring Helioseismology.txt 2 546 608 
+core Helioseismology.txt 2 289 1276 
+noise Helioseismology.txt 1 749 
+scientific Helioseismology.txt 1 191 
+power Helioseismology.txt 10 706 735 763 774 802 834 901 937 946 1698 
+each Helioseismology.txt 4 486 867 891 940 
+notable Helioseismology.txt 1 195 
+analysed Helioseismology.txt 1 979 
+illustration Helioseismology.txt 1 2 
+stellar Helioseismology.txt 2 213 1185 
+pressure Helioseismology.txt 4 6 532 536 550 
+although Helioseismology.txt 2 314 1711 
+assemble Helioseismology.txt 1 1844 
+from Helioseismology.txt 20 203 337 349 448 583 616 713 741 777 816 989 1049 1242 1469 1492 1500 1760 1773 1860 2058 
+analyses Helioseismology.txt 1 1175 
+by Helioseismology.txt 22 83 92 210 232 243 382 491 751 849 957 961 1031 1174 1207 1333 1392 1502 1569 1643 1954 2015 2025 
+analysing Helioseismology.txt 1 879 
+on Helioseismology.txt 4 661 691 721 1967 
+about Helioseismology.txt 4 566 574 1165 1671 
+of Helioseismology.txt 69 3 46 53 68 73 111 190 221 238 255 261 276 321 340 410 477 502 521 529 696 708 727 765 804 814 852 872 905 952 992 1065 1092 1104 1110 1138 1150 1181 1214 1236 1271 1283 1339 1353 1400 1544 1560 1589 1610 1624 1670 1684 1734 1744 1767 1778 1788 1799 1805 1829 1846 1884 1894 1902 1905 1925 1938 1957 1962 2000 
+recognized Helioseismology.txt 1 242 
+remains Helioseismology.txt 1 2003 
+range Helioseismology.txt 1 951 
+greatly Helioseismology.txt 1 1205 
+stuart Helioseismology.txt 1 1037 
+or Helioseismology.txt 4 104 114 430 970 
+allowing Helioseismology.txt 1 1791 
+timeseries Helioseismology.txt 1 925 
+instruments Helioseismology.txt 4 714 782 2071 2074 
+into Helioseismology.txt 4 162 286 518 943 
+lower-frequency Helioseismology.txt 1 598 
+weighted Helioseismology.txt 1 1102 
+rising Helioseismology.txt 1 994 
+been Helioseismology.txt 5 402 641 647 1257 2034 
+1990s Helioseismology.txt 1 1984 
+conceptually Helioseismology.txt 1 330 
+significantly Helioseismology.txt 1 1988 
+span Helioseismology.txt 1 580 
+support Helioseismology.txt 1 1489 
+truncated Helioseismology.txt 1 1258 
+transform Helioseismology.txt 1 887 
+long Helioseismology.txt 2 1873 1932 
+gough Helioseismology.txt 1 1730 
+dispersion Helioseismology.txt 1 671 
+low-degree Helioseismology.txt 1 790 
+restricts Helioseismology.txt 1 1617 
+inner Helioseismology.txt 1 1254 
+stars Helioseismology.txt 4 115 1548 1561 1600 
+subsequent Helioseismology.txt 1 1920 
+was Helioseismology.txt 10 131 138 196 229 241 1467 1756 1887 1952 2021 
+function Helioseismology.txt 2 904 910 
+medium Helioseismology.txt 1 805 
+granules Helioseismology.txt 1 995 
+form Helioseismology.txt 1 1693 
+differences Helioseismology.txt 6 1096 1106 1131 1199 1361 1477 
+but Helioseismology.txt 4 643 1474 1578 1636 
+solar Helioseismology.txt 29 5 37 226 312 323 363 396 411 420 467 559 717 785 808 984 1168 1201 1219 1250 1285 1650 1851 1907 1927 1940 1947 1964 2010 2027 
+line Helioseismology.txt 2 441 1279 
+sdo Helioseismology.txt 1 2030 
+differentially-rotating Helioseismology.txt 1 291 
+made Helioseismology.txt 3 380 1155 1757 
+compute Helioseismology.txt 1 1194 
+gravitational Helioseismology.txt 2 264 1209 
+variations Helioseismology.txt 1 959 
+maximum Helioseismology.txt 2 773 833 
+wavefield Helioseismology.txt 1 1525 
+maturity Helioseismology.txt 1 1880 
+continuously Helioseismology.txt 2 88 2038 
+problem Helioseismology.txt 5 220 228 1828 1929 2012 
+similar Helioseismology.txt 2 100 1724 
+darker Helioseismology.txt 1 1608 
+detailed Helioseismology.txt 1 1968 
+gong Helioseismology.txt 2 392 2050 
+stronger Helioseismology.txt 1 1009 
+deep Helioseismology.txt 2 155 662 
+general Helioseismology.txt 1 270 
+as Helioseismology.txt 13 48 299 475 854 902 1143 1302 1407 1433 1550 1575 1659 2008 
+at Helioseismology.txt 11 180 634 829 971 982 1295 1404 1411 1722 1837 1869 
+helioseismic Helioseismology.txt 5 274 1022 1244 1950 1996 
+functions Helioseismology.txt 1 1137 
+tachocline Helioseismology.txt 2 301 1304 
+no Helioseismology.txt 1 637 
+dashed Helioseismology.txt 2 440 1278 
+when Helioseismology.txt 1 1758 
+reality Helioseismology.txt 2 1397 1437 
+field Helioseismology.txt 3 159 1878 1886 
+other Helioseismology.txt 3 1458 1547 1587 
+5 Helioseismology.txt 2 577 1672 
+normal Helioseismology.txt 2 1505 1903 
+node Helioseismology.txt 1 1872 
+elements Helioseismology.txt 2 1216 1223 
+star Helioseismology.txt 3 461 1536 1591 
+models Helioseismology.txt 5 214 1202 1948 1970 1994 
+problems Helioseismology.txt 1 1080 
+shown Helioseismology.txt 2 512 1445 
+variation Helioseismology.txt 1 1666 
+important Helioseismology.txt 1 1476 
+seismology Helioseismology.txt 3 103 1465 1473 
+ridges Helioseismology.txt 3 866 1695 1701 
+solar-like Helioseismology.txt 1 1576 
+variable Helioseismology.txt 1 1590 
+cut-off Helioseismology.txt 1 445 
+low-order Helioseismology.txt 1 873 
+structure Helioseismology.txt 8 70 374 1073 1085 1109 1145 1153 1743 
+worsened Helioseismology.txt 1 1989 
+breaks Helioseismology.txt 1 1325 
+faster Helioseismology.txt 1 1418 
+christensen-dalsgaard Helioseismology.txt 1 1727 
+time Helioseismology.txt 2 974 1725 
+resolution Helioseismology.txt 1 1924 
+indirectly Helioseismology.txt 1 614 

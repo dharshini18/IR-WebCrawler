@@ -1,0 +1,1165 @@
+gw National_Grid_(Great_Britain).txt 10 1123 1359 1390 1496 1502 1553 1560 1588 2058 2063 
+secondly National_Grid_(Great_Britain).txt 1 930 
+all National_Grid_(Great_Britain).txt 6 473 1094 2768 3396 3621 3783 
+code National_Grid_(Great_Britain).txt 3 1037 1045 2650 
+detriment National_Grid_(Great_Britain).txt 1 3395 
+diesel National_Grid_(Great_Britain).txt 1 2144 
+lack National_Grid_(Great_Britain).txt 2 2676 2706 
+alternatives National_Grid_(Great_Britain).txt 1 889 
+existing National_Grid_(Great_Britain).txt 1 816 
+prices National_Grid_(Great_Britain).txt 1 3877 
+farms National_Grid_(Great_Britain).txt 1 3225 
+invariably National_Grid_(Great_Britain).txt 1 1079 
+causes National_Grid_(Great_Britain).txt 1 1877 
+subtly National_Grid_(Great_Britain).txt 1 3657 
+mws National_Grid_(Great_Britain).txt 1 705 
+equipment National_Grid_(Great_Britain).txt 1 1115 
+1948 National_Grid_(Great_Britain).txt 1 1174 
+1949 National_Grid_(Great_Britain).txt 1 563 
+referring National_Grid_(Great_Britain).txt 1 1051 
+zone National_Grid_(Great_Britain).txt 1 2569 
+electricity National_Grid_(Great_Britain).txt 29 68 138 235 354 365 385 502 552 560 566 626 861 1058 1166 1171 1257 1476 1771 1802 1861 1956 2288 2432 2479 2521 2722 2835 2845 3876 
+1947 National_Grid_(Great_Britain).txt 1 554 
+to National_Grid_(Great_Britain).txt 108 79 104 120 156 162 196 275 326 345 519 536 569 593 629 656 713 776 788 806 829 845 878 926 959 976 1011 1023 1026 1052 1130 1137 1156 1175 1259 1324 1329 1343 1372 1385 1387 1402 1434 1441 1463 1482 1492 1526 1534 1540 1543 1581 1611 1634 1637 1645 1669 1675 1697 1946 2021 2026 2032 2075 2115 2133 2234 2265 2283 2286 2289 2316 2419 2454 2517 2636 2675 2679 2705 2709 2815 2863 2871 2886 2995 2997 3042 3079 3160 3162 3203 3211 3236 3244 3271 3571 3612 3635 3647 3698 3721 3743 3754 3769 3778 3782 3813 3836 3885 
+must National_Grid_(Great_Britain).txt 4 2294 2537 3453 3588 
+nominal National_Grid_(Great_Britain).txt 1 2694 
+assets National_Grid_(Great_Britain).txt 2 2892 2924 
+catherines National_Grid_(Great_Britain).txt 1 1727 
+under National_Grid_(Great_Britain).txt 4 1748 3075 3273 3727 
+lord National_Grid_(Great_Britain).txt 1 340 
+include National_Grid_(Great_Britain).txt 1 1489 
+worth National_Grid_(Great_Britain).txt 1 527 
+alternating National_Grid_(Great_Britain).txt 1 1147 
+paying National_Grid_(Great_Britain).txt 2 2324 3883 
+indoor National_Grid_(Great_Britain).txt 1 992 
+street National_Grid_(Great_Britain).txt 1 2804 
+risk National_Grid_(Great_Britain).txt 1 3812 
+advantage National_Grid_(Great_Britain).txt 1 717 
+very National_Grid_(Great_Britain).txt 3 834 3625 3629 
+cheap National_Grid_(Great_Britain).txt 1 725 
+regional National_Grid_(Great_Britain).txt 2 456 474 
+21,000/mw National_Grid_(Great_Britain).txt 1 2004 
+balancing National_Grid_(Great_Britain).txt 1 1641 
+high-voltage National_Grid_(Great_Britain).txt 3 51 259 1308 
+fall National_Grid_(Great_Britain).txt 1 2531 
+subterranean National_Grid_(Great_Britain).txt 1 2807 
+continued National_Grid_(Great_Britain).txt 2 325 810 
+egginton National_Grid_(Great_Britain).txt 1 669 
+categories National_Grid_(Great_Britain).txt 3 2437 3900 3902 
+issued National_Grid_(Great_Britain).txt 1 3856 
+friskier National_Grid_(Great_Britain).txt 1 3345 
+cable National_Grid_(Great_Britain).txt 1 1525 
+presented National_Grid_(Great_Britain).txt 1 655 
+transmission National_Grid_(Great_Britain).txt 22 54 581 638 689 772 1059 1436 1479 1755 1772 1778 2087 2101 2160 2211 2242 2291 2310 2653 2723 2738 2817 
+cause National_Grid_(Great_Britain).txt 2 2766 3135 
+notes National_Grid_(Great_Britain).txt 1 2232 
+unusual National_Grid_(Great_Britain).txt 1 3143 
+solution National_Grid_(Great_Britain).txt 2 825 872 
+large National_Grid_(Great_Britain).txt 2 2124 3630 
+delivered National_Grid_(Great_Britain).txt 1 2183 
+trips National_Grid_(Great_Britain).txt 2 3130 3495 
+49.2 National_Grid_(Great_Britain).txt 4 3204 3212 3283 3546 
+small National_Grid_(Great_Britain).txt 3 331 3373 3626 
+comprise National_Grid_(Great_Britain).txt 1 1907 
+drop National_Grid_(Great_Britain).txt 2 3089 3374 
+unauthorised National_Grid_(Great_Britain).txt 1 466 
+programme National_Grid_(Great_Britain).txt 1 962 
+smaller National_Grid_(Great_Britain).txt 2 3341 3413 
+force National_Grid_(Great_Britain).txt 1 3504 
+ten National_Grid_(Great_Britain).txt 2 1936 2543 
+consistent National_Grid_(Great_Britain).txt 2 857 1749 
+tec National_Grid_(Great_Britain).txt 4 2313 2326 2351 2375 
+blitz National_Grid_(Great_Britain).txt 1 530 
+prediction National_Grid_(Great_Britain).txt 1 1614 
+licensed National_Grid_(Great_Britain).txt 2 1955 2296 
+second National_Grid_(Great_Britain).txt 5 1564 1665 1667 3034 3137 
+cost National_Grid_(Great_Britain).txt 1 2118 
+design National_Grid_(Great_Britain).txt 3 697 952 981 
+275 National_Grid_(Great_Britain).txt 5 575 579 817 851 920 
+nget National_Grid_(Great_Britain).txt 4 1774 1808 2306 2334 
+maximum-capacity National_Grid_(Great_Britain).txt 1 2340 
+trent National_Grid_(Great_Britain).txt 1 760 
+further National_Grid_(Great_Britain).txt 6 871 1253 3406 3409 3814 3894 
+estimated National_Grid_(Great_Britain).txt 2 848 2048 
+investment National_Grid_(Great_Britain).txt 1 2042 
+machines National_Grid_(Great_Britain).txt 1 751 
+even National_Grid_(Great_Britain).txt 1 3297 
+established National_Grid_(Great_Britain).txt 2 254 1636 
+what National_Grid_(Great_Britain).txt 1 3093 
+errors National_Grid_(Great_Britain).txt 1 1615 
+essence National_Grid_(Great_Britain).txt 1 2914 
+consumers National_Grid_(Great_Britain).txt 3 1843 2430 3367 
+giving National_Grid_(Great_Britain).txt 1 1629 
+transpire National_Grid_(Great_Britain).txt 1 2936 
+section National_Grid_(Great_Britain).txt 1 996 
+while National_Grid_(Great_Britain).txt 2 263 3288 
+supplied National_Grid_(Great_Britain).txt 2 1172 1196 
+availability National_Grid_(Great_Britain).txt 2 2739 2832 
+current National_Grid_(Great_Britain).txt 2 1148 3442 
+seconds National_Grid_(Great_Britain).txt 2 3432 3520 
+19th National_Grid_(Great_Britain).txt 1 250 
+issues National_Grid_(Great_Britain).txt 4 2751 2873 3045 3410 
+supplier National_Grid_(Great_Britain).txt 3 1957 2606 3737 
+new National_Grid_(Great_Britain).txt 5 709 1410 1421 1442 2923 
+net National_Grid_(Great_Britain).txt 2 1173 2394 
+increasing National_Grid_(Great_Britain).txt 1 1869 
+satisfy National_Grid_(Great_Britain).txt 1 80 
+8,760 National_Grid_(Great_Britain).txt 1 1230 
+agreement National_Grid_(Great_Britain).txt 1 2304 
+full National_Grid_(Great_Britain).txt 1 2371 
+led National_Grid_(Great_Britain).txt 1 623 
+whose National_Grid_(Great_Britain).txt 1 2446 
+error National_Grid_(Great_Britain).txt 2 2964 3020 
+weir National_Grid_(Great_Britain).txt 2 341 357 
+water National_Grid_(Great_Britain).txt 1 733 
+fix National_Grid_(Great_Britain).txt 1 2955 
+protection National_Grid_(Great_Britain).txt 2 2967 3835 
+operating National_Grid_(Great_Britain).txt 3 449 489 1761 
+excess National_Grid_(Great_Britain).txt 1 1067 
+demand-side National_Grid_(Great_Britain).txt 1 3728 
+consideration National_Grid_(Great_Britain).txt 1 875 
+november National_Grid_(Great_Britain).txt 4 1896 2509 3847 3852 
+standard National_Grid_(Great_Britain).txt 3 2695 3444 3501 
+non-half-hourly National_Grid_(Great_Britain).txt 1 2442 
+stresses National_Grid_(Great_Britain).txt 1 1865 
+great National_Grid_(Great_Britain).txt 4 2 13 26 57 
+balance National_Grid_(Great_Britain).txt 1 3180 
+zones National_Grid_(Great_Britain).txt 1 1822 
+spite National_Grid_(Great_Britain).txt 1 3327 
+ahead National_Grid_(Great_Britain).txt 1 441 
+technical National_Grid_(Great_Britain).txt 1 831 
+incidents National_Grid_(Great_Britain).txt 3 2631 3807 3845 
+study National_Grid_(Great_Britain).txt 3 633 649 678 
+losses National_Grid_(Great_Britain).txt 8 1232 1243 1254 1271 1286 1316 1346 1439 
+commonly National_Grid_(Great_Britain).txt 1 2083 
+excursion National_Grid_(Great_Britain).txt 1 3296 
+survey National_Grid_(Great_Britain).txt 2 19 30 
+negative National_Grid_(Great_Britain).txt 1 2381 
+encourage National_Grid_(Great_Britain).txt 1 2131 
+usually National_Grid_(Great_Britain).txt 1 1944 
+plc National_Grid_(Great_Britain).txt 5 39 160 171 222 1773 
+2008/9 National_Grid_(Great_Britain).txt 1 2266 
+via National_Grid_(Great_Britain).txt 2 1557 1752 
+followed National_Grid_(Great_Britain).txt 1 3603 
+clark National_Grid_(Great_Britain).txt 1 667 
+extra National_Grid_(Great_Britain).txt 1 1677 
+problematic National_Grid_(Great_Britain).txt 1 3315 
+supergrid National_Grid_(Great_Britain).txt 10 1029 1047 1083 2645 2831 3187 3246 3637 3684 3787 
+seven National_Grid_(Great_Britain).txt 1 1188 
+erected National_Grid_(Great_Britain).txt 1 427 
+megawatt National_Grid_(Great_Britain).txt 1 3175 
+frequency-response National_Grid_(Great_Britain).txt 1 1642 
+apply National_Grid_(Great_Britain).txt 1 3642 
+total National_Grid_(Great_Britain).txt 9 604 1192 1264 1285 2164 2179 2193 2614 3615 
+market National_Grid_(Great_Britain).txt 1 1632 
+1901 National_Grid_(Great_Britain).txt 1 305 
+use National_Grid_(Great_Britain).txt 7 276 327 463 1160 1780 2089 3648 
+fee National_Grid_(Great_Britain).txt 2 1967 2114 
+from National_Grid_(Great_Britain).txt 17 511 540 774 784 803 1004 1021 1128 1185 1237 1360 1367 1716 1926 1991 3165 3797 
+figure National_Grid_(Great_Britain).txt 3 2217 2226 2736 
+working National_Grid_(Great_Britain).txt 2 266 2545 
+bernard National_Grid_(Great_Britain).txt 1 2230 
+remains National_Grid_(Great_Britain).txt 1 223 
+breakup National_Grid_(Great_Britain).txt 1 134 
+twh National_Grid_(Great_Britain).txt 1 1218 
+two National_Grid_(Great_Britain).txt 8 178 912 1916 2262 2436 2853 3098 3129 
+france National_Grid_(Great_Britain).txt 3 106 1494 1567 
+few National_Grid_(Great_Britain).txt 3 1625 3431 3519 
+inflation National_Grid_(Great_Britain).txt 1 2264 
+overhead National_Grid_(Great_Britain).txt 2 413 2825 
+therefore National_Grid_(Great_Britain).txt 5 1078 1322 2481 2570 3390 
+6 National_Grid_(Great_Britain).txt 1 1486 
+taken National_Grid_(Great_Britain).txt 3 720 1184 3695 
+546 National_Grid_(Great_Britain).txt 2 3669 3756 
+receipts National_Grid_(Great_Britain).txt 1 2168 
+longannet National_Grid_(Great_Britain).txt 1 3104 
+terawatt-hours National_Grid_(Great_Britain).txt 1 2200 
+more National_Grid_(Great_Britain).txt 4 839 3010 3227 3428 
+separated National_Grid_(Great_Britain).txt 2 1925 2539 
+relay National_Grid_(Great_Britain).txt 2 2968 3023 
+incentive National_Grid_(Great_Britain).txt 1 2029 
+successful National_Grid_(Great_Britain).txt 1 468 
+company National_Grid_(Great_Britain).txt 4 35 159 1103 1327 
+factor National_Grid_(Great_Britain).txt 1 1225 
+bgb National_Grid_(Great_Britain).txt 1 1961 
+site National_Grid_(Great_Britain).txt 1 2730 
+lodge National_Grid_(Great_Britain).txt 1 1728 
+commissioned National_Grid_(Great_Britain).txt 1 1000 
+disconnection National_Grid_(Great_Britain).txt 2 3607 3803 
+known National_Grid_(Great_Britain).txt 2 2085 2512 
+actual National_Grid_(Great_Britain).txt 2 2641 2779 
+cases National_Grid_(Great_Britain).txt 1 2378 
+92 National_Grid_(Great_Britain).txt 1 3229 
+tariff National_Grid_(Great_Britain).txt 3 1827 2566 2629 
+circumstances National_Grid_(Great_Britain).txt 1 1659 
+customer National_Grid_(Great_Britain).txt 5 2495 2553 2575 3712 3716 
+1990 National_Grid_(Great_Britain).txt 2 142 2848 
+none National_Grid_(Great_Britain).txt 1 3680 
+left National_Grid_(Great_Britain).txt 1 2944 
+hour National_Grid_(Great_Britain).txt 1 2260 
+permits National_Grid_(Great_Britain).txt 1 3598 
+this National_Grid_(Great_Britain).txt 27 5 277 302 854 1085 1141 1381 1400 1622 1847 2014 2064 2094 2139 2272 2335 2406 2729 2746 2811 2928 3289 3324 3402 3548 3593 3720 
+i National_Grid_(Great_Britain).txt 1 2253 
+work National_Grid_(Great_Britain).txt 2 435 953 
+london National_Grid_(Great_Britain).txt 3 2577 2906 2911 
+dramatically National_Grid_(Great_Britain).txt 1 3879 
+mw National_Grid_(Great_Britain).txt 19 608 750 802 1507 1515 1523 2172 2349 2361 2373 2581 3153 3164 3199 3222 3230 3530 3670 3757 
+anywhere National_Grid_(Great_Britain).txt 1 70 
+nine National_Grid_(Great_Britain).txt 2 520 2712 
+can National_Grid_(Great_Britain).txt 2 76 2207 
+following National_Grid_(Great_Britain).txt 2 464 1181 
+meet National_Grid_(Great_Britain).txt 1 960 
+compulsory National_Grid_(Great_Britain).txt 2 3590 3606 
+britned National_Grid_(Great_Britain).txt 2 125 1503 
+example National_Grid_(Great_Britain).txt 2 764 1420 
+history National_Grid_(Great_Britain).txt 1 233 
+control National_Grid_(Great_Britain).txt 6 1700 1720 3437 3484 3592 3789 
+relative National_Grid_(Great_Britain).txt 1 1481 
+references National_Grid_(Great_Britain).txt 1 3892 
+months National_Grid_(Great_Britain).txt 1 2951 
+links National_Grid_(Great_Britain).txt 2 577 3898 
+give National_Grid_(Great_Britain).txt 1 2224 
+nemo National_Grid_(Great_Britain).txt 1 1549 
+one National_Grid_(Great_Britain).txt 6 181 982 2214 2867 3120 3794 
+transpired National_Grid_(Great_Britain).txt 1 2958 
+states National_Grid_(Great_Britain).txt 2 272 3450 
+reserves National_Grid_(Great_Britain).txt 2 1643 1693 
+caused National_Grid_(Great_Britain).txt 1 2412 
+estimating National_Grid_(Great_Britain).txt 1 2155 
+point National_Grid_(Great_Britain).txt 3 2687 3220 3403 
+allowed National_Grid_(Great_Britain).txt 1 2285 
+sought National_Grid_(Great_Britain).txt 1 874 
+made National_Grid_(Great_Britain).txt 2 910 2209 
+occur National_Grid_(Great_Britain).txt 1 2710 
+simple National_Grid_(Great_Britain).txt 1 2733 
+needs National_Grid_(Great_Britain).txt 1 639 
+united National_Grid_(Great_Britain).txt 2 271 281 
+end National_Grid_(Great_Britain).txt 1 247 
+winter National_Grid_(Great_Britain).txt 1 1983 
+falls National_Grid_(Great_Britain).txt 2 3513 3581 
+provide National_Grid_(Great_Britain).txt 1 1676 
+imminent National_Grid_(Great_Britain).txt 1 3790 
+plans National_Grid_(Great_Britain).txt 1 1539 
+means National_Grid_(Great_Britain).txt 1 2017 
+sudden National_Grid_(Great_Britain).txt 3 1617 3081 3173 
+ofgem National_Grid_(Great_Britain).txt 1 2833 
+2,500 National_Grid_(Great_Britain).txt 1 3886 
+1 National_Grid_(Great_Britain).txt 4 1501 1652 2057 2580 
+located National_Grid_(Great_Britain).txt 1 1724 
+varies National_Grid_(Great_Britain).txt 1 2482 
+adjacent National_Grid_(Great_Britain).txt 1 1464 
+messrs National_Grid_(Great_Britain).txt 1 663 
+sse National_Grid_(Great_Britain).txt 1 218 
+megawatt-hour National_Grid_(Great_Britain).txt 1 3888 
+eastwest National_Grid_(Great_Britain).txt 1 1516 
+if National_Grid_(Great_Britain).txt 3 2162 3511 3596 
+secures National_Grid_(Great_Britain).txt 2 3146 3192 
+j.s National_Grid_(Great_Britain).txt 1 671 
+edinburgh National_Grid_(Great_Britain).txt 1 429 
+plant National_Grid_(Great_Britain).txt 2 3251 3868 
+rise National_Grid_(Great_Britain).txt 1 3161 
+description National_Grid_(Great_Britain).txt 1 1163 
+06/07 National_Grid_(Great_Britain).txt 1 2236 
+may National_Grid_(Great_Britain).txt 2 3029 3038 
+after National_Grid_(Great_Britain).txt 1 3216 
+southern National_Grid_(Great_Britain).txt 1 183 
+mapping National_Grid_(Great_Britain).txt 1 23 
+wrong National_Grid_(Great_Britain).txt 1 3440 
+whilst National_Grid_(Great_Britain).txt 2 3206 3542 
+designed National_Grid_(Great_Britain).txt 2 592 3508 
+midlands National_Grid_(Great_Britain).txt 1 805 
+such National_Grid_(Great_Britain).txt 7 792 1958 2146 2798 3138 3248 3383 
+grow National_Grid_(Great_Britain).txt 1 1386 
+engineering National_Grid_(Great_Britain).txt 1 971 
+j.l National_Grid_(Great_Britain).txt 1 668 
+a National_Grid_(Great_Britain).txt 80 89 209 328 342 372 453 491 515 597 632 653 722 762 823 870 880 894 905 948 1016 1263 1563 1624 1664 1682 1739 1825 1857 1901 1965 2016 2190 2204 2225 2302 2339 2345 2356 2388 2415 2456 2463 2485 2492 2551 2574 2579 2605 2623 2715 2732 2898 2938 2953 2962 2966 2975 2987 3053 3060 3080 3087 3139 3170 3172 3286 3329 3340 3344 3430 3459 3473 3518 3536 3550 3569 3613 3624 3667 3780 
+short National_Grid_(Great_Britain).txt 3 469 1607 3287 
+third National_Grid_(Great_Britain).txt 1 2796 
+sp National_Grid_(Great_Britain).txt 1 206 
+lines National_Grid_(Great_Britain).txt 4 840 922 2665 2818 
+st National_Grid_(Great_Britain).txt 1 1726 
+coal National_Grid_(Great_Britain).txt 1 1202 
+equally National_Grid_(Great_Britain).txt 1 1198 
+so National_Grid_(Great_Britain).txt 2 2417 2773 
+enter National_Grid_(Great_Britain).txt 1 2300 
+279 National_Grid_(Great_Britain).txt 1 3529 
+every National_Grid_(Great_Britain).txt 2 2466 2620 
+affecting National_Grid_(Great_Britain).txt 3 2752 2901 3412 
+order National_Grid_(Great_Britain).txt 2 958 2282 
+wind National_Grid_(Great_Britain).txt 1 3224 
+typical National_Grid_(Great_Britain).txt 1 763 
+350twh National_Grid_(Great_Britain).txt 1 2245 
+fife National_Grid_(Great_Britain).txt 1 3106 
+distributors National_Grid_(Great_Britain).txt 1 2846 
+september National_Grid_(Great_Britain).txt 2 439 645 
+developed National_Grid_(Great_Britain).txt 1 310 
+over National_Grid_(Great_Britain).txt 4 1892 2396 2400 2622 
+vary National_Grid_(Great_Britain).txt 1 1986 
+consulting National_Grid_(Great_Britain).txt 1 290 
+meter National_Grid_(Great_Britain).txt 2 2458 2464 
+installed National_Grid_(Great_Britain).txt 1 706 
+132 National_Grid_(Great_Britain).txt 1 399 
+paper National_Grid_(Great_Britain).txt 1 654 
+through National_Grid_(Great_Britain).txt 3 1775 2802 3661 
+cuts National_Grid_(Great_Britain).txt 6 2634 2703 2782 2855 3864 3872 
+nottinghamshire National_Grid_(Great_Britain).txt 1 755 
+its National_Grid_(Great_Britain).txt 7 526 587 648 1417 2023 2077 3798 
+perfect National_Grid_(Great_Britain).txt 1 3387 
+20 National_Grid_(Great_Britain).txt 2 1450 3766 
+fast-acting National_Grid_(Great_Britain).txt 1 3559 
+exact National_Grid_(Great_Britain).txt 1 1984 
+gridiron National_Grid_(Great_Britain).txt 1 374 
+29 National_Grid_(Great_Britain).txt 1 481 
+comprises National_Grid_(Great_Britain).txt 1 2664 
+yorkshire National_Grid_(Great_Britain).txt 1 244 
+parallelling National_Grid_(Great_Britain).txt 1 471 
+production National_Grid_(Great_Britain).txt 2 1167 1483 
+systems National_Grid_(Great_Britain).txt 4 819 1648 1754 2757 
+400 National_Grid_(Great_Britain).txt 7 40 881 906 927 938 990 1012 
+policy National_Grid_(Great_Britain).txt 1 865 
+wales National_Grid_(Great_Britain).txt 8 75 154 533 1107 1112 1132 1585 2663 
+2017 National_Grid_(Great_Britain).txt 1 1140 
+main National_Grid_(Great_Britain).txt 3 913 1595 2067 
+norway National_Grid_(Great_Britain).txt 1 1551 
+setting National_Grid_(Great_Britain).txt 2 2969 3024 
+2013 National_Grid_(Great_Britain).txt 1 1117 
+happened National_Grid_(Great_Britain).txt 1 3094 
+ngets National_Grid_(Great_Britain).txt 1 2727 
+then National_Grid_(Great_Britain).txt 3 497 2203 3741 
+non National_Grid_(Great_Britain).txt 1 1146 
+sindlesham National_Grid_(Great_Britain).txt 1 1729 
+affected National_Grid_(Great_Britain).txt 2 1415 3764 
+greater National_Grid_(Great_Britain).txt 2 1431 1451 
+than National_Grid_(Great_Britain).txt 4 1453 3228 3241 3429 
+prevented National_Grid_(Great_Britain).txt 1 3028 
+relationship National_Grid_(Great_Britain).txt 1 3126 
+sundon National_Grid_(Great_Britain).txt 1 1022 
+nhh National_Grid_(Great_Britain).txt 2 2444 2599 
+anticipated National_Grid_(Great_Britain).txt 3 603 795 1384 
+course National_Grid_(Great_Britain).txt 1 2402 
+1950 National_Grid_(Great_Britain).txt 1 590 
+they National_Grid_(Great_Britain).txt 2 3452 3506 
+beis National_Grid_(Great_Britain).txt 1 2298 
+inception National_Grid_(Great_Britain).txt 1 588 
+now National_Grid_(Great_Britain).txt 2 168 3694 
+provision National_Grid_(Great_Britain).txt 1 1610 
+50,000 National_Grid_(Great_Britain).txt 1 2171 
+bank National_Grid_(Great_Britain).txt 1 295 
+represents National_Grid_(Great_Britain).txt 1 2407 
+term National_Grid_(Great_Britain).txt 3 470 1608 1640 
+netherlands National_Grid_(Great_Britain).txt 2 124 1500 
+viewed National_Grid_(Great_Britain).txt 1 3334 
+edit National_Grid_(Great_Britain).txt 22 234 1164 1179 1233 1349 1457 1594 1704 1757 1880 2161 2280 2429 2632 2877 3032 3846 3849 3891 3893 3896 3899 
+always National_Grid_(Great_Britain).txt 1 2530 
+times National_Grid_(Great_Britain).txt 2 1691 2484 
+level National_Grid_(Great_Britain).txt 3 1478 2735 3325 
+moyle National_Grid_(Great_Britain).txt 2 112 1509 
+did National_Grid_(Great_Britain).txt 3 737 2935 3133 
+each National_Grid_(Great_Britain).txt 7 197 1686 1823 1931 1952 1954 2686 
+accounts National_Grid_(Great_Britain).txt 1 2238 
+higher National_Grid_(Great_Britain).txt 2 1836 2808 
+side National_Grid_(Great_Britain).txt 1 1309 
+referred National_Grid_(Great_Britain).txt 1 1945 
+england National_Grid_(Great_Britain).txt 9 72 121 152 1105 1110 1371 1447 1535 2661 
+fired National_Grid_(Great_Britain).txt 2 1203 1206 
+ej National_Grid_(Great_Britain).txt 2 1220 2202 
+generation National_Grid_(Great_Britain).txt 17 786 1411 1678 1829 2278 2329 2678 2708 2872 3044 3182 3247 3449 3533 3560 3703 3815 
+series National_Grid_(Great_Britain).txt 1 454 
+energy National_Grid_(Great_Britain).txt 3 207 1210 2684 
+g/59 National_Grid_(Great_Britain).txt 1 3502 
+principles National_Grid_(Great_Britain).txt 1 256 
+related National_Grid_(Great_Britain).txt 2 2885 3041 
+group National_Grid_(Great_Britain).txt 1 1683 
+burton National_Grid_(Great_Britain).txt 3 745 989 1025 
+frequency National_Grid_(Great_Britain).txt 22 1592 1650 3092 3201 3208 3262 3280 3295 3321 3350 3359 3377 3421 3464 3466 3512 3541 3566 3580 3746 3834 3838 
+connect National_Grid_(Great_Britain).txt 1 1582 
+entering National_Grid_(Great_Britain).txt 1 1301 
+exceeded National_Grid_(Great_Britain).txt 1 616 
+annually National_Grid_(Great_Britain).txt 1 1806 
+operation National_Grid_(Great_Britain).txt 4 146 936 1628 3831 
+synchronised National_Grid_(Great_Britain).txt 1 393 
+event National_Grid_(Great_Britain).txt 1 3331 
+britain National_Grid_(Great_Britain).txt 5 3 14 27 58 3366 
+out National_Grid_(Great_Britain).txt 4 631 2059 3481 3524 
+hacker National_Grid_(Great_Britain).txt 1 1750 
+network National_Grid_(Great_Britain).txt 10 55 1177 1779 1996 2088 3067 3073 3586 3678 3825 
+factors National_Grid_(Great_Britain).txt 1 1699 
+since National_Grid_(Great_Britain).txt 1 2847 
+naturethat National_Grid_(Great_Britain).txt 1 1813 
+projected National_Grid_(Great_Britain).txt 1 700 
+infeed National_Grid_(Great_Britain).txt 1 3156 
+mains National_Grid_(Great_Britain).txt 1 2805 
+acting National_Grid_(Great_Britain).txt 1 1687 
+miles National_Grid_(Great_Britain).txt 1 409 
+rare National_Grid_(Great_Britain).txt 1 2692 
+issue National_Grid_(Great_Britain).txt 2 1034 3779 
+integrated National_Grid_(Great_Britain).txt 1 314 
+shut National_Grid_(Great_Britain).txt 1 3112 
+million National_Grid_(Great_Britain).txt 2 516 521 
+voltages National_Grid_(Great_Britain).txt 2 1065 1279 
+interconnections National_Grid_(Great_Britain).txt 2 103 460 
+five National_Grid_(Great_Britain).txt 1 3117 
+carried National_Grid_(Great_Britain).txt 1 2244 
+241 National_Grid_(Great_Britain).txt 1 1018 
+usual National_Grid_(Great_Britain).txt 1 3303 
+estimate National_Grid_(Great_Britain).txt 1 2206 
+beginning National_Grid_(Great_Britain).txt 1 1014 
+additional National_Grid_(Great_Britain).txt 1 1864 
+2014 National_Grid_(Great_Britain).txt 2 1392 3166 
+definition National_Grid_(Great_Britain).txt 1 1091 
+half-hours National_Grid_(Great_Britain).txt 5 1894 1906 1918 1939 1979 
+g National_Grid_(Great_Britain).txt 2 3275 3445 
+created National_Grid_(Great_Britain).txt 4 378 382 406 557 
+could National_Grid_(Great_Britain).txt 6 718 923 940 3025 3332 3818 
+impose National_Grid_(Great_Britain).txt 1 2027 
+days National_Grid_(Great_Britain).txt 2 1937 2546 
+british National_Grid_(Great_Britain).txt 6 337 559 565 1041 1057 1071 
+keep National_Grid_(Great_Britain).txt 1 1646 
+turn National_Grid_(Great_Britain).txt 1 2792 
+e.s National_Grid_(Great_Britain).txt 1 664 
+place National_Grid_(Great_Britain).txt 1 3057 
+target National_Grid_(Great_Britain).txt 1 3358 
+blackout National_Grid_(Great_Britain).txt 1 2912 
+fallen National_Grid_(Great_Britain).txt 1 3468 
+south National_Grid_(Great_Britain).txt 6 532 1374 1403 1426 1846 2000 
+first National_Grid_(Great_Britain).txt 11 200 274 392 423 974 995 1144 2879 2981 3095 3132 
+major National_Grid_(Great_Britain).txt 4 63 1145 2630 2816 
+already National_Grid_(Great_Britain).txt 2 615 1159 
+simply National_Grid_(Great_Britain).txt 1 2555 
+number National_Grid_(Great_Britain).txt 5 500 2180 2194 3474 3627 
+owned National_Grid_(Great_Britain).txt 2 202 1098 
+linking National_Grid_(Great_Britain).txt 1 415 
+date National_Grid_(Great_Britain).txt 2 3483 3526 
+done National_Grid_(Great_Britain).txt 1 2142 
+long National_Grid_(Great_Britain).txt 1 2099 
+another National_Grid_(Great_Britain).txt 2 3121 3528 
+fees National_Grid_(Great_Britain).txt 1 2277 
+carry National_Grid_(Great_Britain).txt 1 630 
+2012m National_Grid_(Great_Britain).txt 1 2250 
+divided National_Grid_(Great_Britain).txt 2 1818 2176 
+size National_Grid_(Great_Britain).txt 1 1178 
+59/2 National_Grid_(Great_Britain).txt 2 3276 3446 
+given National_Grid_(Great_Britain).txt 1 877 
+necessarily National_Grid_(Great_Britain).txt 1 2931 
+centrica National_Grid_(Great_Britain).txt 1 1960 
+service National_Grid_(Great_Britain).txt 1 1600 
+uks National_Grid_(Great_Britain).txt 1 391 
+system National_Grid_(Great_Britain).txt 36 225 278 316 376 493 582 600 690 773 908 1060 1073 1332 1437 1746 1765 1782 1790 1868 1891 1911 1921 1927 2045 2091 2188 2292 2322 2654 3014 3091 3239 3342 3376 3745 3809 
+least National_Grid_(Great_Britain).txt 2 1935 2542 
+response National_Grid_(Great_Britain).txt 3 1593 1690 3729 
+their National_Grid_(Great_Britain).txt 8 2392 2499 2556 2568 2613 3381 3659 3736 
+cooling National_Grid_(Great_Britain).txt 1 732 
+station National_Grid_(Great_Britain).txt 1 297 
+rates National_Grid_(Great_Britain).txt 1 2470 
+renewable National_Grid_(Great_Britain).txt 1 1200 
+passed National_Grid_(Great_Britain).txt 1 155 
+hundred National_Grid_(Great_Britain).txt 1 2716 
+man National_Grid_(Great_Britain).txt 4 116 119 1530 1533 
+final National_Grid_(Great_Britain).txt 1 3614 
+1,510 National_Grid_(Great_Britain).txt 1 3174 
+booth National_Grid_(Great_Britain).txt 1 665 
+urban National_Grid_(Great_Britain).txt 1 239 
+inefficient National_Grid_(Great_Britain).txt 1 351 
+mostly National_Grid_(Great_Britain).txt 3 412 712 3759 
+that National_Grid_(Great_Britain).txt 17 67 371 934 1038 1061 1853 2049 2765 2860 2937 2959 3097 3219 3320 3451 3486 3578 
+estimates National_Grid_(Great_Britain).txt 1 2222 
+completed National_Grid_(Great_Britain).txt 2 437 643 
+proving National_Grid_(Great_Britain).txt 1 2398 
+lower National_Grid_(Great_Britain).txt 3 1671 2102 3304 
+6.4 National_Grid_(Great_Britain).txt 1 1293 
+part National_Grid_(Great_Britain).txt 2 595 2824 
+western National_Grid_(Great_Britain).txt 2 1125 1575 
+off National_Grid_(Great_Britain).txt 1 3689 
+july National_Grid_(Great_Britain).txt 1 432 
+1912 National_Grid_(Great_Britain).txt 1 308 
+institution National_Grid_(Great_Britain).txt 1 658 
+acceptable National_Grid_(Great_Britain).txt 1 3294 
+11 National_Grid_(Great_Britain).txt 1 1358 
+wide National_Grid_(Great_Britain).txt 1 90 
+scheme National_Grid_(Great_Britain).txt 2 886 951 
+14 National_Grid_(Great_Britain).txt 2 431 2844 
+150-mile National_Grid_(Great_Britain).txt 1 1017 
+rate National_Grid_(Great_Britain).txt 2 2358 3258 
+5710 National_Grid_(Great_Britain).txt 1 1231 
+regulator National_Grid_(Great_Britain).txt 1 2836 
+charges National_Grid_(Great_Britain).txt 15 1784 1985 2024 2051 2081 2092 2111 2130 2279 2428 2473 2490 2549 2594 2596 
+future National_Grid_(Great_Britain).txt 3 637 898 1572 
+supposed National_Grid_(Great_Britain).txt 1 3270 
+were National_Grid_(Great_Britain).txt 5 711 2861 3439 3507 3687 
+reassuring National_Grid_(Great_Britain).txt 1 3336 
+pre-arranged National_Grid_(Great_Britain).txt 1 3076 
+1925 National_Grid_(Great_Britain).txt 1 335 
+and National_Grid_(Great_Britain).txt 70 62 65 74 126 145 153 167 184 187 203 214 306 352 360 434 444 542 647 670 728 812 883 929 956 1075 1106 1108 1111 1204 1294 1369 1407 1448 1466 1510 1568 1584 1591 1616 1707 1798 1809 1830 1842 1862 1897 1914 1930 2025 2079 2123 2213 2299 2441 2510 2536 2618 2662 2670 2740 2884 3016 3040 3107 3183 3226 3309 3433 3509 3705 
+shifted National_Grid_(Great_Britain).txt 1 767 
+sees National_Grid_(Great_Britain).txt 1 3347 
+battersea National_Grid_(Great_Britain).txt 1 541 
+1.3 National_Grid_(Great_Britain).txt 2 1219 2201 
+well National_Grid_(Great_Britain).txt 1 3400 
+partnership National_Grid_(Great_Britain).txt 1 291 
+measure National_Grid_(Great_Britain).txt 1 2720 
+spent National_Grid_(Great_Britain).txt 1 3012 
+operated National_Grid_(Great_Britain).txt 1 2655 
+say National_Grid_(Great_Britain).txt 4 2061 2169 2198 2267 
+750 National_Grid_(Great_Britain).txt 1 2173 
+rocof National_Grid_(Great_Britain).txt 1 3263 
+have National_Grid_(Great_Britain).txt 10 842 2455 2850 3026 3291 3313 3370 3391 3398 3819 
+close National_Grid_(Great_Britain).txt 1 2418 
+need National_Grid_(Great_Britain).txt 1 2040 
+recover National_Grid_(Great_Britain).txt 1 2022 
+any National_Grid_(Great_Britain).txt 1 1314 
+contents National_Grid_(Great_Britain).txt 1 232 
+nikola National_Grid_(Great_Britain).txt 1 252 
+1968 National_Grid_(Great_Britain).txt 1 946 
+built National_Grid_(Great_Britain).txt 1 1580 
+able National_Grid_(Great_Britain).txt 1 3742 
+depending National_Grid_(Great_Britain).txt 1 1987 
+efficient National_Grid_(Great_Britain).txt 1 419 
+1965 National_Grid_(Great_Britain).txt 4 943 964 1003 1005 
+responsible National_Grid_(Great_Britain).txt 3 1604 2764 3052 
+1960 National_Grid_(Great_Britain).txt 3 618 635 646 
+severe National_Grid_(Great_Britain).txt 1 3088 
+1962 National_Grid_(Great_Britain).txt 1 674 
+also National_Grid_(Great_Britain).txt 11 101 556 1520 2084 2110 2149 2223 2273 2308 2957 3890 
+night-time National_Grid_(Great_Britain).txt 1 478 
+causing National_Grid_(Great_Britain).txt 2 1262 3086 
+interconnection National_Grid_(Great_Britain).txt 2 775 1477 
+which National_Grid_(Great_Britain).txt 21 369 387 555 892 998 1722 1923 2071 2307 2459 2472 2659 2759 2819 2970 3047 3059 3338 3651 3791 3817 
+performance National_Grid_(Great_Britain).txt 2 2719 2842 
+coincide National_Grid_(Great_Britain).txt 1 739 
+many National_Grid_(Great_Britain).txt 2 838 2950 
+200 National_Grid_(Great_Britain).txt 1 1069 
+multiple National_Grid_(Great_Britain).txt 1 3867 
+electric National_Grid_(Great_Britain).txt 2 52 260 
+though National_Grid_(Great_Britain).txt 2 1154 3298 
+iceland National_Grid_(Great_Britain).txt 1 1569 
+english National_Grid_(Great_Britain).txt 1 1706 
+paid National_Grid_(Great_Britain).txt 1 2387 
+took National_Grid_(Great_Britain).txt 2 2992 3056 
+most National_Grid_(Great_Britain).txt 6 418 1032 2783 2823 3142 3799 
+75 National_Grid_(Great_Britain).txt 1 2360 
+connected National_Grid_(Great_Britain).txt 10 87 193 1063 1276 1280 1462 3235 3243 3633 3685 
+72 National_Grid_(Great_Britain).txt 1 1227 
+significant National_Grid_(Great_Britain).txt 2 1252 2963 
+entry National_Grid_(Great_Britain).txt 1 2311 
+services National_Grid_(Great_Britain).txt 3 1590 1680 1685 
+interconnectors National_Grid_(Great_Britain).txt 2 195 1456 
+oil National_Grid_(Great_Britain).txt 2 2940 2984 
+comparison National_Grid_(Great_Britain).txt 1 2829 
+measured National_Grid_(Great_Britain).txt 1 1884 
+winters National_Grid_(Great_Britain).txt 1 2713 
+2 National_Grid_(Great_Britain).txt 1 1495 
+reimbursement National_Grid_(Great_Britain).txt 1 3726 
+coalfield National_Grid_(Great_Britain).txt 1 756 
+levied National_Grid_(Great_Britain).txt 2 2475 2597 
+reduces National_Grid_(Great_Britain).txt 1 3658 
+considered National_Grid_(Great_Britain).txt 1 675 
+average National_Grid_(Great_Britain).txt 8 1223 1353 1887 2006 2557 2582 2777 3748 
+later National_Grid_(Great_Britain).txt 1 161 
+flow National_Grid_(Great_Britain).txt 6 1138 1348 1355 1382 1404 1859 
+km National_Grid_(Great_Britain).txt 1 1019 
+low-voltage-connected National_Grid_(Great_Britain).txt 1 3760 
+accounted National_Grid_(Great_Britain).txt 1 1323 
+kw National_Grid_(Great_Britain).txt 1 2259 
+kv National_Grid_(Great_Britain).txt 16 41 400 576 580 818 852 882 885 907 921 928 939 950 991 1013 1070 
+undersea National_Grid_(Great_Britain).txt 2 102 1124 
+15,000/mw National_Grid_(Great_Britain).txt 1 2013 
+48.8 National_Grid_(Great_Britain).txt 1 3583 
+30,000 National_Grid_(Great_Britain).txt 1 607 
+consumer National_Grid_(Great_Britain).txt 2 1261 3394 
+levying National_Grid_(Great_Britain).txt 1 1776 
+fact National_Grid_(Great_Britain).txt 3 1852 3317 3319 
+reserve National_Grid_(Great_Britain).txt 4 1589 1599 1679 3563 
+particularly National_Grid_(Great_Britain).txt 1 1366 
+surplus National_Grid_(Great_Britain).txt 1 723 
+restore National_Grid_(Great_Britain).txt 1 3744 
+lay National_Grid_(Great_Britain).txt 1 1541 
+charles National_Grid_(Great_Britain).txt 1 284 
+synchronous National_Grid_(Great_Britain).txt 1 92 
+favour National_Grid_(Great_Britain).txt 1 903 
+planning National_Grid_(Great_Britain).txt 1 3015 
+7.7 National_Grid_(Great_Britain).txt 1 1269 
+industrialist National_Grid_(Great_Britain).txt 1 344 
+sustained National_Grid_(Great_Britain).txt 1 3462 
+interruptions National_Grid_(Great_Britain).txt 1 2789 
+longer National_Grid_(Great_Britain).txt 1 1639 
+networks National_Grid_(Great_Britain).txt 3 208 333 2122 
+staff National_Grid_(Great_Britain).txt 1 1077 
+nominally National_Grid_(Great_Britain).txt 1 94 
+near-instantaneous National_Grid_(Great_Britain).txt 1 3195 
+upgrade National_Grid_(Great_Britain).txt 1 570 
+based National_Grid_(Great_Britain).txt 2 2390 2497 
+northern National_Grid_(Great_Britain).txt 7 105 109 191 1370 1454 1493 1504 
+ngc National_Grid_(Great_Britain).txt 3 2240 2243 2255 
+directly National_Grid_(Great_Britain).txt 3 3242 3634 3683 
+situations National_Grid_(Great_Britain).txt 1 736 
+specified National_Grid_(Great_Britain).txt 1 3510 
+commence National_Grid_(Great_Britain).txt 1 941 
+entities National_Grid_(Great_Britain).txt 1 180 
+only National_Grid_(Great_Britain).txt 5 2353 2851 2978 3147 3191 
+generators National_Grid_(Great_Britain).txt 12 1797 1838 2120 2145 2147 2275 2293 2314 2385 3414 3436 3477 
+17,520 National_Grid_(Great_Britain).txt 1 2483 
+captures National_Grid_(Great_Britain).txt 1 1093 
+fuel National_Grid_(Great_Britain).txt 1 727 
+adequate National_Grid_(Great_Britain).txt 1 729 
+b National_Grid_(Great_Britain).txt 1 3109 
+do National_Grid_(Great_Britain).txt 1 3272 
+preservation National_Grid_(Great_Britain).txt 1 867 
+his National_Grid_(Great_Britain).txt 1 293 
+exceptional National_Grid_(Great_Britain).txt 1 1658 
+contracts National_Grid_(Great_Britain).txt 2 1633 3730 
+connections National_Grid_(Great_Britain).txt 1 1488 
+between National_Grid_(Great_Britain).txt 5 1795 1895 2508 2616 3127 
+overall National_Grid_(Great_Britain).txt 2 1242 2718 
+coast National_Grid_(Great_Britain).txt 1 1427 
+crude National_Grid_(Great_Britain).txt 1 2205 
+122 National_Grid_(Great_Britain).txt 1 417 
+transco National_Grid_(Great_Britain).txt 1 166 
+fastest National_Grid_(Great_Britain).txt 1 506 
+words National_Grid_(Great_Britain).txt 1 2344 
+supplies National_Grid_(Great_Britain).txt 1 730 
+report National_Grid_(Great_Britain).txt 1 641 
+during National_Grid_(Great_Britain).txt 8 528 1976 2362 2501 2559 2584 3771 3805 
+years National_Grid_(Great_Britain).txt 1 2263 
+untreated National_Grid_(Great_Britain).txt 1 2945 
+areas National_Grid_(Great_Britain).txt 2 787 1872 
+infrequent National_Grid_(Great_Britain).txt 1 3155 
+runs National_Grid_(Great_Britain).txt 1 2399 
+embedded National_Grid_(Great_Britain).txt 4 3233 3448 3476 3532 
+12.2 National_Grid_(Great_Britain).txt 1 1298 
+denmark National_Grid_(Great_Britain).txt 1 1556 
+uprated National_Grid_(Great_Britain).txt 1 925 
+sum National_Grid_(Great_Britain).txt 2 2389 2611 
+imposed National_Grid_(Great_Britain).txt 1 1972 
+cheshire National_Grid_(Great_Britain).txt 1 45 
+predicted National_Grid_(Great_Britain).txt 1 612 
+wholesale National_Grid_(Great_Britain).txt 1 3875 
+x National_Grid_(Great_Britain).txt 1 748 
+river National_Grid_(Great_Britain).txt 1 759 
+where National_Grid_(Great_Britain).txt 2 716 3714 
+february National_Grid_(Great_Britain).txt 2 1898 2511 
+available National_Grid_(Great_Britain).txt 1 3558 
+set National_Grid_(Great_Britain).txt 3 388 1805 2332 
+mandatory National_Grid_(Great_Britain).txt 1 3842 
+three-phase National_Grid_(Great_Britain).txt 1 258 
+excursions National_Grid_(Great_Britain).txt 1 3351 
+national National_Grid_(Great_Britain).txt 38 0 20 31 37 47 149 157 164 169 220 373 492 598 1101 1246 1597 1601 1712 1718 1763 1769 2019 2072 2153 2657 2760 2858 2864 2890 2893 2990 3048 3189 3690 3732 3738 3774 3854 
+99.99979 National_Grid_(Great_Britain).txt 1 2748 
+maximum National_Grid_(Great_Britain).txt 1 2357 
+1920 National_Grid_(Great_Britain).txt 1 518 
+see National_Grid_(Great_Britain).txt 4 28 36 2909 3889 
+decided National_Grid_(Great_Britain).txt 1 568 
+are National_Grid_(Great_Britain).txt 35 100 1062 1183 1235 1248 1251 1287 1321 1538 1661 1681 1694 1714 1766 1793 1804 1810 1835 1924 1943 2082 2148 2380 2386 2433 2452 2474 2496 2554 2602 2690 2790 2820 3478 3632 
+1926 National_Grid_(Great_Britain).txt 2 368 380 
+1928 National_Grid_(Great_Britain).txt 1 433 
+2.2 National_Grid_(Great_Britain).txt 2 1122 1587 
+news National_Grid_(Great_Britain).txt 1 2916 
+2.6 National_Grid_(Great_Britain).txt 1 1289 
+august National_Grid_(Great_Britain).txt 2 2874 2908 
+practice National_Grid_(Great_Britain).txt 1 1089 
+still National_Grid_(Great_Britain).txt 2 2366 3479 
+capacity National_Grid_(Great_Britain).txt 9 707 1194 1412 1423 1444 1480 1484 2312 3085 
+voluntary National_Grid_(Great_Britain).txt 1 3862 
+nuclear National_Grid_(Great_Britain).txt 1 1201 
+away National_Grid_(Great_Britain).txt 1 3796 
+currently National_Grid_(Great_Britain).txt 3 1856 1874 3145 
+wikipedia National_Grid_(Great_Britain).txt 1 4 
+275,000 National_Grid_(Great_Britain).txt 1 2668 
+implicated National_Grid_(Great_Britain).txt 1 2896 
+case National_Grid_(Great_Britain).txt 2 2880 3035 
+state National_Grid_(Great_Britain).txt 1 3577 
+arguable National_Grid_(Great_Britain).txt 1 3005 
+cross-channel National_Grid_(Great_Britain).txt 2 108 1498 
+viking National_Grid_(Great_Britain).txt 1 1561 
+limit National_Grid_(Great_Britain).txt 2 3158 3305 
+sited National_Grid_(Great_Britain).txt 2 715 752 
+reading National_Grid_(Great_Britain).txt 2 2465 3895 
+across National_Grid_(Great_Britain).txt 1 1378 
+360 National_Grid_(Great_Britain).txt 2 1217 2199 
+europe National_Grid_(Great_Britain).txt 1 318 
+multiplied National_Grid_(Great_Britain).txt 2 2563 2625 
+notice National_Grid_(Great_Britain).txt 1 3859 
+infrastructure National_Grid_(Great_Britain).txt 2 1097 2642 
+direct-current National_Grid_(Great_Britain).txt 1 1490 
+nationwide National_Grid_(Great_Britain).txt 1 394 
+nature National_Grid_(Great_Britain).txt 1 2519 
+tariffs National_Grid_(Great_Britain).txt 4 1803 1834 2331 2383 
+sold National_Grid_(Great_Britain).txt 1 2197 
+million/year National_Grid_(Great_Britain).txt 1 2174 
+however National_Grid_(Great_Britain).txt 7 219 324 826 1270 2229 3411 3472 
+rapidly National_Grid_(Great_Britain).txt 1 3602 
+efficiency National_Grid_(Great_Britain).txt 1 1408 
+incident National_Grid_(Great_Britain).txt 4 2876 3002 3031 3773 
+cut National_Grid_(Great_Britain).txt 5 2134 2900 2977 3055 3688 
+under-investment National_Grid_(Great_Britain).txt 1 2921 
+breakdowns National_Grid_(Great_Britain).txt 1 3869 
+article National_Grid_(Great_Britain).txt 2 6 1596 
+distribution National_Grid_(Great_Britain).txt 11 262 1258 1265 2104 2121 2756 2788 3072 3238 3585 3677 
+half-hour National_Grid_(Great_Britain).txt 2 1909 2503 
+substation National_Grid_(Great_Britain).txt 1 993 
+both National_Grid_(Great_Britain).txt 1 879 
+accused National_Grid_(Great_Britain).txt 1 2918 
+limits National_Grid_(Great_Britain).txt 1 3843 
+money National_Grid_(Great_Britain).txt 1 3011 
+country National_Grid_(Great_Britain).txt 4 323 1816 2010 2426 
+annual National_Grid_(Great_Britain).txt 3 1209 2113 2237 
+hours National_Grid_(Great_Britain).txt 1 1626 
+3.610 National_Grid_(Great_Britain).txt 1 1229 
+contract National_Grid_(Great_Britain).txt 1 970 
+foreign National_Grid_(Great_Britain).txt 1 1157 
+april National_Grid_(Great_Britain).txt 1 1950 
+s National_Grid_(Great_Britain).txt 1 864 
+became National_Grid_(Great_Britain).txt 1 2971 
+figures National_Grid_(Great_Britain).txt 3 1182 1234 2839 
+nationalised National_Grid_(Great_Britain).txt 1 549 
+context National_Grid_(Great_Britain).txt 1 1086 
+whole National_Grid_(Great_Britain).txt 2 229 2009 
+asked National_Grid_(Great_Britain).txt 1 339 
+load National_Grid_(Great_Britain).txt 7 621 742 790 1224 1970 2054 2135 
+1.4 National_Grid_(Great_Britain).txt 2 1552 1559 
+relevant National_Grid_(Great_Britain).txt 1 2628 
+supply National_Grid_(Great_Britain).txt 13 332 355 366 375 599 2287 2395 2680 2699 2743 3382 3655 3753 
+reasons National_Grid_(Great_Britain).txt 1 914 
+kwh National_Grid_(Great_Britain).txt 2 2158 2270 
+unexpectedly National_Grid_(Great_Britain).txt 1 3114 
+top-ups National_Grid_(Great_Britain).txt 1 2948 
+irish National_Grid_(Great_Britain).txt 1 1467 
+except National_Grid_(Great_Britain).txt 2 1656 2946 
+60 National_Grid_(Great_Britain).txt 2 2770 3617 
+maintained National_Grid_(Great_Britain).txt 2 204 3840 
+grants National_Grid_(Great_Britain).txt 1 2309 
+differ National_Grid_(Great_Britain).txt 1 1272 
+shutdown National_Grid_(Great_Britain).txt 1 3062 
+scottish National_Grid_(Great_Britain).txt 1 212 
+associated National_Grid_(Great_Britain).txt 1 1398 
+250 National_Grid_(Great_Britain).txt 1 1506 
+actually National_Grid_(Great_Britain).txt 1 2869 
+100 National_Grid_(Great_Britain).txt 2 2348 2372 
+simpler National_Grid_(Great_Britain).txt 1 2604 
+speak National_Grid_(Great_Britain).txt 1 1080 
+protective National_Grid_(Great_Britain).txt 1 3061 
+described National_Grid_(Great_Britain).txt 2 651 1736 
+source National_Grid_(Great_Britain).txt 2 1169 2068 
+addition National_Grid_(Great_Britain).txt 1 828 
+west National_Grid_(Great_Britain).txt 5 243 744 988 1024 2001 
+remained National_Grid_(Great_Britain).txt 2 3386 3423 
+three National_Grid_(Great_Britain).txt 9 512 1698 1893 1905 1978 2397 2502 2527 2586 
+been National_Grid_(Great_Britain).txt 9 843 2852 2943 3027 3292 3314 3392 3399 3708 
+defined National_Grid_(Great_Britain).txt 2 1049 2646 
+secret National_Grid_(Great_Britain).txt 1 1740 
+much National_Grid_(Great_Britain).txt 1 2603 
+change National_Grid_(Great_Britain).txt 2 3177 3260 
+ireland National_Grid_(Great_Britain).txt 5 110 130 1505 1513 3337 
+eirgrid National_Grid_(Great_Britain).txt 1 131 
+expected National_Grid_(Great_Britain).txt 1 1136 
+500 National_Grid_(Great_Britain).txt 4 749 884 949 1514 
+4 National_Grid_(Great_Britain).txt 2 747 3851 
+website National_Grid_(Great_Britain).txt 1 2728 
+generating National_Grid_(Great_Britain).txt 11 139 627 862 1193 1326 1422 1443 1609 2187 3084 3457 
+contribute National_Grid_(Great_Britain).txt 2 1342 2315 
+partly National_Grid_(Great_Britain).txt 1 1009 
+substations National_Grid_(Great_Britain).txt 1 64 
+sites National_Grid_(Great_Britain).txt 2 3704 3713 
+sufficient National_Grid_(Great_Britain).txt 2 895 2683 
+mclellan National_Grid_(Great_Britain).txt 1 289 
+bulk National_Grid_(Great_Britain).txt 1 781 
+2015 National_Grid_(Great_Britain).txt 3 1744 3848 3853 
+ensuring National_Grid_(Great_Britain).txt 1 66 
+representative National_Grid_(Great_Britain).txt 1 1849 
+demand National_Grid_(Great_Britain).txt 31 81 605 613 683 1613 1673 1870 1876 1879 1882 1888 1912 1922 1928 1942 2423 2427 2448 2500 2507 2522 2558 2583 3184 3591 3660 3672 3706 3763 3788 3802 
+49.5 National_Grid_(Great_Britain).txt 4 3307 3353 3425 3515 
+general National_Grid_(Great_Britain).txt 1 1833 
+developments National_Grid_(Great_Britain).txt 1 766 
+hidden National_Grid_(Great_Britain).txt 1 3901 
+those National_Grid_(Great_Britain).txt 3 1053 1977 3711 
+ordnance National_Grid_(Great_Britain).txt 2 18 29 
+15,000/mwyear National_Grid_(Great_Britain).txt 1 2170 
+tnuos National_Grid_(Great_Britain).txt 9 1783 2093 2165 2330 2382 2489 2548 2593 2595 
+disconnected National_Grid_(Great_Britain).txt 2 3675 3828 
+workmen National_Grid_(Great_Britain).txt 1 2800 
+these National_Grid_(Great_Britain).txt 16 708 735 765 984 1660 1692 1904 1938 2050 2080 2128 2384 2477 2785 2998 3806 
+operational National_Grid_(Great_Britain).txt 1 1076 
+suffolk National_Grid_(Great_Britain).txt 1 3111 
+prominence National_Grid_(Great_Britain).txt 1 2859 
+budget National_Grid_(Great_Britain).txt 1 446 
+remaining National_Grid_(Great_Britain).txt 1 3557 
+near National_Grid_(Great_Britain).txt 3 298 428 757 
+warning National_Grid_(Great_Britain).txt 3 3781 3801 3804 
+pending National_Grid_(Great_Britain).txt 1 2952 
+fault National_Grid_(Great_Britain).txt 3 836 2794 2982 
+gave National_Grid_(Great_Britain).txt 1 893 
+margin National_Grid_(Great_Britain).txt 1 896 
+engineers National_Grid_(Great_Britain).txt 2 479 661 
+1980-2017 National_Grid_(Great_Britain).txt 1 1170 
+concurrently National_Grid_(Great_Britain).txt 1 978 
+30 National_Grid_(Great_Britain).txt 1 2467 
+britains National_Grid_(Great_Britain).txt 2 350 3100 
+century National_Grid_(Great_Britain).txt 1 251 
+almost National_Grid_(Great_Britain).txt 1 2767 
+is National_Grid_(Great_Britain).txt 48 7 49 86 201 650 761 1048 1142 1195 1215 1304 1351 1413 1461 1519 1578 1603 1723 1734 1747 1814 1817 1848 1855 1883 1963 2003 2011 2015 2047 2065 2095 2105 2140 2175 2336 2449 2607 2700 2724 2750 2762 3004 3141 3269 3487 3792 3839 
+it National_Grid_(Great_Britain).txt 18 447 524 931 965 1733 1971 2002 2046 2681 2749 2934 2956 3003 3217 3268 3299 3493 3543 
+according National_Grid_(Great_Britain).txt 2 1696 2233 
+examined National_Grid_(Great_Britain).txt 1 821 
+against National_Grid_(Great_Britain).txt 2 3148 3193 
+in National_Grid_(Great_Britain).txt 102 12 25 44 56 71 141 151 172 237 241 269 279 304 317 334 438 450 498 507 517 522 562 589 634 644 652 673 676 695 699 797 827 902 942 957 1001 1030 1066 1084 1088 1104 1109 1116 1139 1212 1244 1255 1317 1336 1445 1570 1657 1725 1731 1812 1832 1839 1844 1871 1900 1949 1998 2043 2189 2251 2281 2342 2376 2410 2460 2523 2532 2576 2592 2647 2660 2688 2711 2714 2791 2882 2897 2907 2913 2922 2965 2974 3021 3037 3058 3090 3105 3110 3178 3316 3326 3365 3375 3503 3609 3723 3821 
+48.792 National_Grid_(Great_Britain).txt 1 3572 
+return National_Grid_(Great_Britain).txt 1 3724 
+metered National_Grid_(Great_Britain).txt 5 1305 2439 2443 2494 2600 
+around National_Grid_(Great_Britain).txt 2 1216 2219 
+result National_Grid_(Great_Britain).txt 6 362 3171 3460 3537 3570 3668 
+different National_Grid_(Great_Britain).txt 4 1278 1689 1821 1826 
+erroneously National_Grid_(Great_Britain).txt 1 3494 
+thereby National_Grid_(Great_Britain).txt 1 2037 
+etc National_Grid_(Great_Britain).txt 1 1962 
+untoward National_Grid_(Great_Britain).txt 1 3407 
+pay National_Grid_(Great_Britain).txt 1 2590 
+began National_Grid_(Great_Britain).txt 1 448 
+connection National_Grid_(Great_Britain).txt 4 2276 2303 3277 3443 
+linked National_Grid_(Great_Britain).txt 1 2862 
+adverse National_Grid_(Great_Britain).txt 1 3176 
+parts National_Grid_(Great_Britain).txt 4 1054 1709 3064 3822 
+split National_Grid_(Great_Britain).txt 3 176 1794 2434 
+largest National_Grid_(Great_Britain).txt 2 313 3101 
+units National_Grid_(Great_Britain).txt 2 2182 2196 
+resulting National_Grid_(Great_Britain).txt 2 698 2973 
+attack National_Grid_(Great_Britain).txt 1 1751 
+isle National_Grid_(Great_Britain).txt 4 114 117 1528 1531 
+european National_Grid_(Great_Britain).txt 1 1465 
+separately National_Grid_(Great_Britain).txt 1 2107 
+2008-9 National_Grid_(Great_Britain).txt 1 2745 
+used National_Grid_(Great_Britain).txt 5 78 1092 1211 1662 2151 
+receives National_Grid_(Great_Britain).txt 1 2256 
+again National_Grid_(Great_Britain).txt 1 1236 
+welsh National_Grid_(Great_Britain).txt 1 1708 
+published National_Grid_(Great_Britain).txt 2 2725 2838 
+upon National_Grid_(Great_Britain).txt 1 300 
+effect National_Grid_(Great_Britain).txt 3 686 2461 2989 
+possible National_Grid_(Great_Britain).txt 1 824 
+sys National_Grid_(Great_Britain).txt 2 1191 1240 
+running National_Grid_(Great_Britain).txt 3 95 397 2320 
+levels National_Grid_(Great_Britain).txt 1 837 
+uses National_Grid_(Great_Britain).txt 1 2074 
+arose National_Grid_(Great_Britain).txt 1 3415 
+ownership National_Grid_(Great_Britain).txt 1 144 
+triad National_Grid_(Great_Britain).txt 8 1878 1881 2129 2167 2515 2528 2561 2587 
+measures National_Grid_(Great_Britain).txt 2 3641 3697 
+asking National_Grid_(Great_Britain).txt 1 3860 
+consulted National_Grid_(Great_Britain).txt 1 358 
+recent National_Grid_(Great_Britain).txt 1 1033 
+energized National_Grid_(Great_Britain).txt 1 2666 
+tyne National_Grid_(Great_Britain).txt 1 301 
+volts National_Grid_(Great_Britain).txt 2 2669 2672 
+suppliers National_Grid_(Great_Britain).txt 1 2480 
+patchwork National_Grid_(Great_Britain).txt 1 329 
+neptune National_Grid_(Great_Britain).txt 1 294 
+roughly National_Grid_(Great_Britain).txt 1 1197 
+non-leap National_Grid_(Great_Britain).txt 1 2486 
+1970 National_Grid_(Great_Britain).txt 2 610 798 
+exceedingly National_Grid_(Great_Britain).txt 1 2691 
+failures National_Grid_(Great_Britain).txt 1 1618 
+solve National_Grid_(Great_Britain).txt 1 346 
+greatest National_Grid_(Great_Britain).txt 1 2506 
+centres National_Grid_(Great_Britain).txt 2 743 791 
+firstly National_Grid_(Great_Britain).txt 1 915 
+easing National_Grid_(Great_Britain).txt 1 2038 
+the National_Grid_(Great_Britain).txt 272 9 16 34 46 50 83 113 123 127 133 136 143 148 174 188 199 215 224 228 246 249 255 270 273 280 287 312 319 322 336 347 361 364 379 383 390 403 416 422 465 477 486 494 499 505 508 529 546 551 558 564 571 578 584 611 619 624 640 657 677 681 685 688 692 741 754 758 768 771 777 785 789 794 804 807 815 830 847 859 888 900 916 919 935 961 969 973 980 987 994 1006 1028 1031 1036 1040 1043 1046 1056 1082 1090 1096 1100 1118 1121 1143 1152 1180 1186 1213 1238 1245 1260 1284 1302 1307 1311 1318 1325 1330 1333 1337 1344 1361 1364 1373 1376 1379 1395 1405 1425 1458 1487 1499 1521 1527 1545 1558 1571 1573 1647 1672 1702 1705 1711 1717 1745 1758 1762 1786 1789 1791 1796 1799 1815 1840 1845 1851 1863 1867 1886 1890 1908 1915 1969 1974 1981 1989 1992 1995 1999 2005 2008 2039 2044 2066 2108 2117 2163 2178 2185 2192 2216 2235 2290 2317 2321 2328 2363 2370 2401 2404 2408 2420 2425 2469 2488 2514 2518 2524 2526 2533 2547 2560 2565 2585 2610 2627 2640 2644 2648 2652 2693 2717 2753 2769 2793 2803 2822 2834 2841 2878 2887 2926 2980 2983 3001 3018 3022 3033 3066 3071 3128 3131 3136 3149 3154 3179 3186 3194 3200 3207 3237 3245 3254 3257 3274 3279 3302 3318 3372 3416 3420 3441 3499 3523 3539 3553 3565 3574 3605 3636 3663 3682 3715 3747 3755 3772 3786 3808 3824 3830 3881 
+submarine National_Grid_(Great_Britain).txt 1 1471 
+north-south National_Grid_(Great_Britain).txt 1 1858 
+charged National_Grid_(Great_Britain).txt 5 1964 2106 2337 2368 2608 
+upgraded National_Grid_(Great_Britain).txt 1 1010 
+routinely National_Grid_(Great_Britain).txt 1 2150 
+just National_Grid_(Great_Britain).txt 4 3215 3266 3363 3793 
+2,0003,000 National_Grid_(Great_Britain).txt 1 704 
+being National_Grid_(Great_Britain).txt 6 1579 1738 3264 3339 3360 3826 
+scotland National_Grid_(Great_Britain).txt 8 73 173 186 192 1129 1368 1455 1583 
+domestic National_Grid_(Great_Britain).txt 2 2780 3762 
+obtain National_Grid_(Great_Britain).txt 1 846 
+rest National_Grid_(Great_Britain).txt 1 320 
+quarters National_Grid_(Great_Britain).txt 1 513 
+not National_Grid_(Great_Britain).txt 13 738 856 1328 1341 2763 2813 2930 3051 3134 3312 3369 3454 3488 
+cease National_Grid_(Great_Britain).txt 1 3456 
+voltage National_Grid_(Great_Britain).txt 12 1283 1292 1297 2098 2103 2755 2787 2809 3385 3600 3649 3664 
+human National_Grid_(Great_Britain).txt 1 3019 
+using National_Grid_(Great_Britain).txt 2 2143 3480 
+forrest National_Grid_(Great_Britain).txt 1 672 
+previous National_Grid_(Great_Britain).txt 2 1982 3500 
+adding National_Grid_(Great_Britain).txt 1 574 
+transformer National_Grid_(Great_Britain).txt 4 1313 1320 1339 2939 
+rapid National_Grid_(Great_Britain).txt 2 620 693 
+generator National_Grid_(Great_Britain).txt 6 696 1312 1319 1338 2346 2416 
+majority National_Grid_(Great_Britain).txt 1 917 
+rose National_Grid_(Great_Britain).txt 1 3878 
+onward National_Grid_(Great_Britain).txt 1 1256 
+had National_Grid_(Great_Britain).txt 9 309 2942 2986 3404 3422 3555 3692 3707 3776 
+recommended National_Grid_(Great_Britain).txt 1 370 
+day National_Grid_(Great_Britain).txt 1 2621 
+westinghouse National_Grid_(Great_Britain).txt 1 268 
+internal National_Grid_(Great_Britain).txt 1 1574 
+board National_Grid_(Great_Britain).txt 4 140 386 628 863 
+republic National_Grid_(Great_Britain).txt 2 128 1511 
+has National_Grid_(Great_Britain).txt 5 1428 2837 3343 3467 3717 
+maintenance National_Grid_(Great_Britain).txt 1 3017 
+enact National_Grid_(Great_Britain).txt 1 3589 
+emphasis National_Grid_(Great_Britain).txt 1 769 
+kingdom National_Grid_(Great_Britain).txt 1 282 
+customers National_Grid_(Great_Britain).txt 8 1275 2445 2478 2601 3623 3631 3653 3686 
+consumption National_Grid_(Great_Britain).txt 3 1831 2034 2615 
+aspects National_Grid_(Great_Britain).txt 2 2999 3379 
+increased National_Grid_(Great_Britain).txt 1 682 
+emergency National_Grid_(Great_Britain).txt 2 462 3858 
+government National_Grid_(Great_Britain).txt 1 338 
+rules National_Grid_(Great_Britain).txt 3 3077 3278 3576 
+advances National_Grid_(Great_Britain).txt 1 694 
+co-ordinates National_Grid_(Great_Britain).txt 1 24 
+low-grade National_Grid_(Great_Britain).txt 1 726 
+drilling National_Grid_(Great_Britain).txt 1 2801 
+early National_Grid_(Great_Britain).txt 1 2534 
+fulham National_Grid_(Great_Britain).txt 1 543 
+grid National_Grid_(Great_Britain).txt 64 1 11 21 32 38 48 85 93 150 158 165 170 175 221 231 396 404 424 487 547 572 1007 1042 1044 1102 1149 1162 1247 1303 1331 1345 1380 1460 1598 1602 1703 1713 1719 1764 1770 1975 2020 2073 2109 2154 2649 2658 2761 2865 2894 2919 2991 3049 3144 3190 3346 3554 3575 3691 3733 3739 3775 3855 3882 
+newcastle National_Grid_(Great_Britain).txt 1 299 
+belgium National_Grid_(Great_Britain).txt 1 1548 
+world National_Grid_(Great_Britain).txt 1 509 
+replace National_Grid_(Great_Britain).txt 1 537 
+projects National_Grid_(Great_Britain).txt 2 975 985 
+meaning National_Grid_(Great_Britain).txt 1 3234 
+loss National_Grid_(Great_Britain).txt 10 1266 1335 1397 3082 3140 3150 3157 3196 3751 3816 
+effectiveness National_Grid_(Great_Britain).txt 3 1406 1432 1452 
+necessary National_Grid_(Great_Britain).txt 1 967 
+d National_Grid_(Great_Britain).txt 1 666 
+lost National_Grid_(Great_Britain).txt 1 538 
+should National_Grid_(Great_Britain).txt 1 3594 
+57 National_Grid_(Great_Britain).txt 1 2062 
+50 National_Grid_(Great_Britain).txt 4 97 401 1654 3361 
+yearly National_Grid_(Great_Britain).txt 1 1966 
+sized National_Grid_(Great_Britain).txt 1 1695 
+communications National_Grid_(Great_Britain).txt 1 3770 
+true National_Grid_(Great_Britain).txt 1 2932 
+serious National_Grid_(Great_Britain).txt 1 3800 
+either National_Grid_(Great_Britain).txt 4 890 1670 2637 3006 
+400,000 National_Grid_(Great_Britain).txt 1 2671 
+periods National_Grid_(Great_Britain).txt 5 2138 2504 2529 2562 2588 
+become National_Grid_(Great_Britain).txt 2 163 1027 
+tower National_Grid_(Great_Britain).txt 1 425 
+reduced National_Grid_(Great_Britain).txt 3 1435 2052 3709 
+function National_Grid_(Great_Britain).txt 1 779 
+1320 National_Grid_(Great_Britain).txt 2 3152 3198 
+because National_Grid_(Great_Britain).txt 6 1393 3188 3419 3434 3521 3865 
+often National_Grid_(Great_Britain).txt 1 2141 
+pudsey National_Grid_(Great_Britain).txt 1 242 
+obliged National_Grid_(Great_Britain).txt 1 2453 
+some National_Grid_(Great_Britain).txt 6 800 2377 2915 2993 3043 3435 
+authority National_Grid_(Great_Britain).txt 2 561 567 
+growth National_Grid_(Great_Britain).txt 2 495 622 
+distribution-connected National_Grid_(Great_Britain).txt 1 3622 
+recovery National_Grid_(Great_Britain).txt 1 3310 
+0.2p/kwh National_Grid_(Great_Britain).txt 2 2220 2228 
+proper National_Grid_(Great_Britain).txt 1 2954 
+home National_Grid_(Great_Britain).txt 1 808 
+zonal National_Grid_(Great_Britain).txt 1 1811 
+volunteered National_Grid_(Great_Britain).txt 1 3718 
+users National_Grid_(Great_Britain).txt 7 503 1787 1800 2031 2126 2132 3784 
+industrial National_Grid_(Great_Britain).txt 1 2125 
+provided National_Grid_(Great_Britain).txt 1 534 
+wokingham National_Grid_(Great_Britain).txt 1 1730 
+primary National_Grid_(Great_Britain).txt 1 778 
+for National_Grid_(Great_Britain).txt 50 15 22 33 182 190 227 267 461 897 911 947 963 968 972 1274 1419 1605 1631 1828 1837 1968 2007 2018 2041 2096 2239 2246 2325 2369 2491 2550 2567 2609 2701 2721 2744 2758 2821 2828 2947 2949 3046 3285 3427 3447 3517 3638 3719 3725 3861 
+sufficiently National_Grid_(Great_Britain).txt 1 2450 
+leak National_Grid_(Great_Britain).txt 2 2941 2985 
+decision National_Grid_(Great_Britain).txt 1 901 
+centre National_Grid_(Great_Britain).txt 3 1721 1993 2421 
+per National_Grid_(Great_Britain).txt 9 2157 2258 2269 2774 2903 3355 3498 3618 3887 
+triads National_Grid_(Great_Britain).txt 1 1948 
+does National_Grid_(Great_Britain).txt 2 1340 2812 
+connecting National_Grid_(Great_Britain).txt 2 59 2127 
+be National_Grid_(Great_Britain).txt 12 77 377 714 719 924 1635 2208 2284 2295 2367 2538 3333 
+who National_Grid_(Great_Britain).txt 1 2352 
+run National_Grid_(Great_Britain).txt 1 977 
+pylons National_Grid_(Great_Britain).txt 2 236 2827 
+power National_Grid_(Great_Britain).txt 35 10 42 53 60 213 261 296 315 420 535 544 701 782 1072 1135 1207 1300 1315 1334 1347 1354 1396 1438 1472 1620 2633 2702 2781 2854 2899 2976 3054 3102 3863 3871 
+schedule National_Grid_(Great_Britain).txt 1 443 
+dropped National_Grid_(Great_Britain).txt 1 3202 
+problems National_Grid_(Great_Britain).txt 1 2638 
+hvdc National_Grid_(Great_Britain).txt 7 107 111 1126 1161 1497 1508 1576 
+expansion National_Grid_(Great_Britain).txt 1 899 
+6,000 National_Grid_(Great_Britain).txt 1 801 
+1933 National_Grid_(Great_Britain).txt 2 440 451 
+step National_Grid_(Great_Britain).txt 1 3795 
+1937 National_Grid_(Great_Britain).txt 1 483 
+occurred National_Grid_(Great_Britain).txt 2 3408 3873 
+although National_Grid_(Great_Britain).txt 3 1087 1241 2866 
+output National_Grid_(Great_Britain).txt 2 539 3700 
+16:00 National_Grid_(Great_Britain).txt 1 2617 
+1938 National_Grid_(Great_Britain).txt 2 485 523 
+by National_Grid_(Great_Britain).txt 39 194 205 217 307 476 484 496 550 573 609 617 662 1099 1168 1199 1391 1416 1470 1666 1768 1807 1933 2055 2152 2177 2184 2297 2323 2333 2413 2540 2564 2626 2656 3070 3604 3676 3693 3829 
+counties National_Grid_(Great_Britain).txt 1 809 
+takes National_Grid_(Great_Britain).txt 1 2462 
+demand-response National_Grid_(Great_Britain).txt 1 3562 
+on National_Grid_(Great_Britain).txt 30 132 430 445 480 687 770 1424 1663 1785 1866 1889 1973 1988 2030 2338 2391 2476 2498 2598 2639 2726 2737 2776 2826 2840 3013 3185 3253 3654 3850 
+about National_Grid_(Great_Britain).txt 10 8 1268 1288 1357 1388 1429 1449 2012 2056 3348 
+central National_Grid_(Great_Britain).txt 5 137 185 384 625 860 
+would National_Grid_(Great_Britain).txt 8 841 2365 2589 3290 3311 3368 3389 3397 
+extension National_Grid_(Great_Britain).txt 1 813 
+stations National_Grid_(Great_Britain).txt 8 61 421 545 702 710 1208 1621 3103 
+of National_Grid_(Great_Britain).txt 151 115 118 129 135 147 211 248 257 286 321 330 349 410 442 455 472 501 514 586 596 606 636 659 691 703 721 724 731 780 799 814 833 866 868 891 904 918 983 997 1035 1055 1068 1081 1095 1120 1226 1267 1310 1356 1363 1375 1394 1409 1485 1512 1529 1532 1627 1653 1684 1701 1710 1743 1760 1777 1781 1788 1801 1850 1860 1873 1910 1919 1940 1951 1980 1994 2060 2069 2090 2119 2159 2181 2195 2210 2218 2227 2249 2319 2350 2359 2374 2403 2422 2424 2431 2505 2520 2572 2612 2643 2677 2696 2698 2707 2742 2778 2784 2795 2843 2856 2889 2905 2920 3000 3063 3065 3083 3099 3119 3151 3181 3197 3223 3231 3256 3259 3261 3306 3328 3380 3461 3475 3482 3522 3525 3531 3538 3608 3616 3620 3628 3671 3681 3750 3752 3758 3785 3823 3832 3866 
+industry National_Grid_(Great_Britain).txt 1 356 
+basis National_Grid_(Great_Britain).txt 3 1668 2341 3255 
+location National_Grid_(Great_Britain).txt 2 1418 1741 
+costs National_Grid_(Great_Britain).txt 8 1756 1759 1792 2078 2156 2212 2318 2411 
+statement National_Grid_(Great_Britain).txt 1 1190 
+ensure National_Grid_(Great_Britain).txt 1 3837 
+act National_Grid_(Great_Britain).txt 4 367 381 553 1644 
+i.e National_Grid_(Great_Britain).txt 1 1228 
+slightly National_Grid_(Great_Britain).txt 1 3665 
+or National_Grid_(Great_Britain).txt 8 1674 2166 2673 2772 2806 3214 3561 3734 
+automatically National_Grid_(Great_Britain).txt 2 3674 3827 
+software National_Grid_(Great_Britain).txt 2 3485 3527 
+19:00 National_Grid_(Great_Britain).txt 1 2619 
+merz National_Grid_(Great_Britain).txt 3 285 288 359 
+real National_Grid_(Great_Britain).txt 1 2988 
+nsn National_Grid_(Great_Britain).txt 1 1554 
+keeps National_Grid_(Great_Britain).txt 1 3652 
+into National_Grid_(Great_Britain).txt 5 177 311 1820 2301 2435 
+within National_Grid_(Great_Britain).txt 5 1151 1651 1688 3116 3841 
+definitely National_Grid_(Great_Britain).txt 1 3124 
+due National_Grid_(Great_Britain).txt 8 1433 2516 2635 2674 2704 2870 3078 3159 
+down National_Grid_(Great_Britain).txt 1 3113 
+nothing National_Grid_(Great_Britain).txt 1 3405 
+rising National_Grid_(Great_Britain).txt 1 510 
+cent National_Grid_(Great_Britain).txt 2 2904 3619 
+parties National_Grid_(Great_Britain).txt 1 2797 
+operator National_Grid_(Great_Britain).txt 1 226 
+financial National_Grid_(Great_Britain).txt 1 1902 
+reducing National_Grid_(Great_Britain).txt 1 3662 
+significantly National_Grid_(Great_Britain).txt 2 1273 1414 
+glaswegian National_Grid_(Great_Britain).txt 1 343 
+undertaken National_Grid_(Great_Britain).txt 1 3069 
+computer National_Grid_(Great_Britain).txt 1 1753 
+grids National_Grid_(Great_Britain).txt 5 457 475 1158 1469 2891 
+her National_Grid_(Great_Britain).txt 1 3357 
+area National_Grid_(Great_Britain).txt 2 91 240 
+transfer National_Grid_(Great_Britain).txt 1 796 
+there National_Grid_(Great_Britain).txt 13 99 1250 1350 1518 1537 1854 2379 2849 2960 3122 3167 3388 3643 
+reduction National_Grid_(Great_Britain).txt 3 2409 3601 3650 
+hertz National_Grid_(Great_Britain).txt 1 98 
+noticed National_Grid_(Great_Britain).txt 1 3371 
+start National_Grid_(Great_Britain).txt 1 3595 
+compliant National_Grid_(Great_Britain).txt 1 3489 
+dropping National_Grid_(Great_Britain).txt 1 3210 
+increase National_Grid_(Great_Britain).txt 1 3699 
+low National_Grid_(Great_Britain).txt 7 1249 1296 2754 2786 3463 3540 3833 
+way National_Grid_(Great_Britain).txt 1 3007 
+resulted National_Grid_(Great_Britain).txt 1 3820 
+amenities National_Grid_(Great_Britain).txt 1 869 
+was National_Grid_(Great_Britain).txt 47 265 283 363 405 426 436 488 504 548 591 614 642 684 820 855 873 876 909 932 954 966 986 999 1008 1383 2747 2868 2881 2895 2929 2961 3036 3050 3068 3096 3123 3168 3209 3300 3418 3544 3549 3644 3673 3740 3765 3810 
+admit National_Grid_(Great_Britain).txt 1 2996 
+hz National_Grid_(Great_Britain).txt 14 402 1655 3205 3213 3284 3308 3354 3362 3426 3471 3516 3547 3573 3584 
+fragmented National_Grid_(Great_Britain).txt 1 353 
+medium National_Grid_(Great_Britain).txt 1 1291 
+north National_Grid_(Great_Britain).txt 5 1131 1362 1401 1446 1841 
+elsewhere National_Grid_(Great_Britain).txt 1 82 
+form National_Grid_(Great_Britain).txt 1 594 
+governs National_Grid_(Great_Britain).txt 1 1039 
+minimise National_Grid_(Great_Britain).txt 1 2033 
+interconnects National_Grid_(Great_Britain).txt 1 1155 
+but National_Grid_(Great_Britain).txt 7 467 734 1997 2271 2933 3656 3874 
+hh National_Grid_(Great_Britain).txt 4 2440 2457 2493 2552 
+construction National_Grid_(Great_Britain).txt 1 1119 
+link National_Grid_(Great_Britain).txt 8 1127 1150 1544 1550 1555 1562 1565 1577 
+recouped National_Grid_(Great_Britain).txt 1 1767 
+subsidiary National_Grid_(Great_Britain).txt 1 210 
+line National_Grid_(Great_Britain).txt 2 43 1020 
+highest National_Grid_(Great_Britain).txt 1 1920 
+with National_Grid_(Great_Britain).txt 28 407 458 601 680 740 746 858 945 979 1015 1134 1221 1399 1547 1566 1824 2261 2305 2347 2578 2682 2830 3009 3490 3599 3731 3735 3880 
+he National_Grid_(Great_Britain).txt 1 264 
+october National_Grid_(Great_Britain).txt 1 482 
+evident National_Grid_(Great_Britain).txt 1 2972 
+contracting National_Grid_(Great_Britain).txt 1 1606 
+whether National_Grid_(Great_Britain).txt 1 3008 
+19,430 National_Grid_(Great_Britain).txt 1 2591 
+up National_Grid_(Great_Britain).txt 4 389 1819 3611 3884 
+reinforcement National_Grid_(Great_Britain).txt 1 811 
+until National_Grid_(Great_Britain).txt 1 3465 
+below National_Grid_(Great_Britain).txt 6 3301 3352 3424 3469 3514 3582 
+stories National_Grid_(Great_Britain).txt 1 2917 
+minor National_Grid_(Great_Britain).txt 1 3844 
+uk National_Grid_(Great_Britain).txt 13 17 84 230 1153 1165 1214 1365 1377 1459 1546 2186 2241 2525 
+0.71p National_Grid_(Great_Britain).txt 1 2268 
+problem National_Grid_(Great_Britain).txt 4 348 832 3417 3551 
+stages National_Grid_(Great_Britain).txt 1 3610 
+minutes National_Grid_(Great_Britain).txt 4 2468 2771 3118 3767 
+clear National_Grid_(Great_Britain).txt 1 2544 
+settings National_Grid_(Great_Britain).txt 1 3438 
+distance National_Grid_(Great_Britain).txt 2 1990 2100 
+quigg National_Grid_(Great_Britain).txt 1 2231 
+ac National_Grid_(Great_Britain).txt 3 395 1524 1649 
+sometimes National_Grid_(Great_Britain).txt 1 1735 
+proved National_Grid_(Great_Britain).txt 1 525 
+security National_Grid_(Great_Britain).txt 1 2697 
+inclusive National_Grid_(Great_Britain).txt 1 1899 
+tesla National_Grid_(Great_Britain).txt 1 253 
+cover National_Grid_(Great_Britain).txt 4 1612 1638 2076 2116 
+year National_Grid_(Great_Britain).txt 10 1189 1903 1953 2191 2364 2405 2487 2624 2775 3356 
+condition National_Grid_(Great_Britain).txt 1 2888 
+covers National_Grid_(Great_Britain).txt 1 1623 
+an National_Grid_(Great_Britain).txt 10 238 602 1222 1352 1475 2028 2112 2247 3293 3857 
+duration National_Grid_(Great_Britain).txt 1 3749 
+as National_Grid_(Great_Britain).txt 33 88 452 490 793 822 853 887 1050 1737 1742 1885 1947 1959 2086 2513 2571 2651 2799 3169 3249 3267 3335 3364 3384 3458 3492 3497 3535 3552 3568 3579 3666 3768 
+reliability National_Grid_(Great_Britain).txt 1 2741 
+evening National_Grid_(Great_Britain).txt 1 2535 
+at National_Grid_(Great_Britain).txt 34 96 245 292 398 583 753 850 937 1064 1277 1281 1290 1295 1306 1474 1586 1619 1934 2035 2136 2327 2355 2471 2541 2667 2685 2925 3282 3323 3401 3545 3701 3710 3811 
+controlled National_Grid_(Great_Britain).txt 1 1715 
+cables National_Grid_(Great_Britain).txt 6 411 414 1473 1491 1542 2810 
+happen National_Grid_(Great_Britain).txt 2 2814 3722 
+sizewell National_Grid_(Great_Britain).txt 1 3108 
+high National_Grid_(Great_Britain).txt 8 835 1282 1875 2097 2451 2734 2857 3265 
+compared National_Grid_(Great_Britain).txt 2 944 1440 
+berkshire National_Grid_(Great_Britain).txt 1 1732 
+no National_Grid_(Great_Britain).txt 6 1113 3125 3393 3556 3645 3870 
+47 National_Grid_(Great_Britain).txt 1 3470 
+when National_Grid_(Great_Britain).txt 3 531 2979 3505 
+40 National_Grid_(Great_Britain).txt 2 1522 3221 
+envisaged National_Grid_(Great_Britain).txt 1 933 
+started National_Grid_(Great_Britain).txt 2 955 1133 
+half-hourly National_Grid_(Great_Britain).txt 1 2438 
+other National_Grid_(Great_Britain).txt 13 189 198 216 1114 1917 1932 2221 2343 3232 3378 3640 3696 3702 
+electrical National_Grid_(Great_Britain).txt 2 660 1468 
+stabilised National_Grid_(Great_Britain).txt 2 3281 3322 
+beyond-design-basis National_Grid_(Great_Britain).txt 1 3330 
+income National_Grid_(Great_Britain).txt 2 2070 2248 
+tripped National_Grid_(Great_Britain).txt 3 3115 3252 3534 
+operators National_Grid_(Great_Britain).txt 3 3074 3587 3679 
+10 National_Grid_(Great_Britain).txt 2 2902 3349 
+g59/2 National_Grid_(Great_Britain).txt 1 3491 
+trip National_Grid_(Great_Britain).txt 1 3455 
+4,000 National_Grid_(Great_Britain).txt 1 408 
+separate National_Grid_(Great_Britain).txt 1 179 
+e.g National_Grid_(Great_Britain).txt 1 3761 
+gas National_Grid_(Great_Britain).txt 1 1205 
+2005 National_Grid_(Great_Britain).txt 2 1187 1239 
+june National_Grid_(Great_Britain).txt 1 1002 
+includes National_Grid_(Great_Britain).txt 2 2274 2731 
+generated National_Grid_(Great_Britain).txt 3 69 1299 2354 
+fell National_Grid_(Great_Britain).txt 1 3567 
+peak National_Grid_(Great_Britain).txt 8 1913 1929 1941 2036 2053 2137 2393 2447 
+planners National_Grid_(Great_Britain).txt 1 1074 
+transfers National_Grid_(Great_Britain).txt 2 783 849 
+0.66p National_Grid_(Great_Britain).txt 1 2257 
+gets National_Grid_(Great_Britain).txt 1 2215 
+opened National_Grid_(Great_Britain).txt 1 303 
+e National_Grid_(Great_Britain).txt 1 2254 
+auxiliary National_Grid_(Great_Britain).txt 1 459 
+margins National_Grid_(Great_Britain).txt 1 3564 
+1800 National_Grid_(Great_Britain).txt 1 3163 
+required National_Grid_(Great_Britain).txt 1 844 
+rather National_Grid_(Great_Britain).txt 1 3240 
+together National_Grid_(Great_Britain).txt 1 679 
+them National_Grid_(Great_Britain).txt 2 3496 3639 
+landfill National_Grid_(Great_Britain).txt 1 3250 
+2003 National_Grid_(Great_Britain).txt 3 2875 2883 2910 
+2007 National_Grid_(Great_Britain).txt 2 2252 2573 
+time National_Grid_(Great_Britain).txt 8 585 1630 2689 2927 2994 3597 3646 3777 
+reached National_Grid_(Great_Britain).txt 1 3218 
+interconnector National_Grid_(Great_Britain).txt 3 122 1517 1536 
+2008 National_Grid_(Great_Britain).txt 3 1176 3030 3039 
+12 National_Grid_(Great_Britain).txt 2 1389 1430 
+having National_Grid_(Great_Britain).txt 1 2414 
+external National_Grid_(Great_Britain).txt 1 3897 

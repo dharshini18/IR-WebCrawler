@@ -1,0 +1,16 @@
+Task3C - StopList Generation
+
+Reference - https://nlp.stanford.edu/IR-book/html/htmledition/dropping-common-terms-stop-words-1.html
+
+Considering that there are a plethora of words for each n-gram, I decides to choose a stoplist of size
+100-200 for unigram, 200-300 for bigram and 100-200 for trigrams.
+
+After generating the stop words I manually examined the lists and eliminated a few words that could be
+closely realted to the content or could be a word that might yeild effective results to a query.
+Eg - Numbers that depict time/occurance of event/temperature, words depicting celestial occurances, complex words that
+are not used while speaking.
+
+Stop lists are usually identified while querying (Identifying words that are of little value in helping select documents.
+Since in this process, the stop words were to be generated from the indexes of each n-grams, I chose a moderate cutoff value
+that would not reduce the effectiveness of retreival when queried. Also, manually identifying words that are relevant to the
+domain of the documents helped on preserving a few words that could have been discarded as stop words by the program.

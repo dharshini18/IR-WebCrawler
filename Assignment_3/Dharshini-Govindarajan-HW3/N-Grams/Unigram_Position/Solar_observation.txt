@@ -1,0 +1,1196 @@
+magnetically Solar_observation.txt 1 2613 
+irradiance Solar_observation.txt 5 2629 2676 2698 2785 2820 
+all Solar_observation.txt 4 460 920 970 3201 
+measurements Solar_observation.txt 6 2539 2603 2624 2677 2699 2902 
+systematic Solar_observation.txt 1 2449 
+chinese Solar_observation.txt 4 212 260 348 359 
+switched Solar_observation.txt 1 2439 
+suns Solar_observation.txt 4 1666 1715 1759 2292 
+magnetic Solar_observation.txt 13 1490 1526 1547 1906 1912 1950 1970 1991 2399 2418 2432 2453 2774 
+lack Solar_observation.txt 1 1005 
+thomas Solar_observation.txt 1 678 
+month Solar_observation.txt 3 1434 1436 2237 
+facilities Solar_observation.txt 1 2564 
+spacecraft Solar_observation.txt 2 2568 2593 
+disc Solar_observation.txt 1 2389 
+comments Solar_observation.txt 1 346 
+oso Solar_observation.txt 1 2576 
+disk Solar_observation.txt 4 473 499 708 2326 
+transits Solar_observation.txt 1 415 
+polarity Solar_observation.txt 3 1503 2405 2433 
+whose Solar_observation.txt 1 2833 
+21st Solar_observation.txt 1 2844 
+patches Solar_observation.txt 1 1803 
+1942 Solar_observation.txt 1 2495 
+graph Solar_observation.txt 2 1403 1514 
+april Solar_observation.txt 1 1592 
+father Solar_observation.txt 1 756 
+young Solar_observation.txt 2 1628 1741 
+including Solar_observation.txt 1 2215 
+created Solar_observation.txt 1 2511 
+to Solar_observation.txt 60 18 44 90 105 210 226 300 470 559 624 700 714 754 806 839 914 940 973 984 1017 1027 1131 1177 1215 1226 1238 1280 1437 1493 1700 1720 1893 1925 2147 2165 2179 2197 2225 2238 2255 2261 2317 2330 2366 2445 2459 2497 2709 2755 2771 2789 2874 2925 2931 2973 2984 3011 3095 3124 3140 
+edward Solar_observation.txt 4 956 1314 1389 1960 
+spain Solar_observation.txt 1 1659 
+caused Solar_observation.txt 1 1993 
+hermann Solar_observation.txt 1 1734 
+200 Solar_observation.txt 1 3041 
+813 Solar_observation.txt 1 384 
+passed Solar_observation.txt 1 2382 
+updated Solar_observation.txt 2 1453 1569 
+berkowski Solar_observation.txt 1 1650 
+1990 Solar_observation.txt 1 3156 
+very Solar_observation.txt 1 612 
+peaks Solar_observation.txt 1 85 
+1794 Solar_observation.txt 1 648 
+gloomy Solar_observation.txt 1 613 
+ultraviolet Solar_observation.txt 1 1069 
+affect Solar_observation.txt 1 2033 
+difference Solar_observation.txt 1 1756 
+continued Solar_observation.txt 4 797 2666 2889 2972 
+feeble Solar_observation.txt 1 484 
+categories Solar_observation.txt 2 3210 3212 
+1700 Solar_observation.txt 1 982 
+dim Solar_observation.txt 1 482 
+impetus Solar_observation.txt 1 2555 
+pronounced Solar_observation.txt 1 2960 
+17th Solar_observation.txt 3 641 803 1286 
+scholar Solar_observation.txt 1 291 
+12th Solar_observation.txt 1 405 
+sedimentary Solar_observation.txt 1 80 
+granulation Solar_observation.txt 1 1623 
+list Solar_observation.txt 1 2572 
+cosmogenic Solar_observation.txt 1 2766 
+large Solar_observation.txt 5 313 371 2024 2491 2547 
+scheiners Solar_observation.txt 1 767 
+team Solar_observation.txt 3 1470 1657 2164 
+radio Solar_observation.txt 6 2472 2478 2502 2504 2734 2801 
+noted Solar_observation.txt 3 258 1015 1359 
+20th Solar_observation.txt 3 794 2055 2063 
+concluded Solar_observation.txt 1 324 
+1129 Solar_observation.txt 1 388 
+averaged Solar_observation.txt 1 1549 
+slower Solar_observation.txt 1 1765 
+18161893 Solar_observation.txt 1 1166 
+trend Solar_observation.txt 1 2815 
+appearance Solar_observation.txt 1 623 
+spectroheliograph Solar_observation.txt 3 2336 2349 2365 
+ritter Solar_observation.txt 1 1074 
+direct Solar_observation.txt 3 40 2321 2675 
+understanding Solar_observation.txt 3 986 2290 2842 
+modified Solar_observation.txt 1 2364 
+past Solar_observation.txt 1 150 
+surrounding Solar_observation.txt 2 865 1310 
+second Solar_observation.txt 1 1348 
+invention Solar_observation.txt 1 2308 
+design Solar_observation.txt 1 734 
+displays Solar_observation.txt 2 1878 1996 
+subtle Solar_observation.txt 1 2618 
+estimated Solar_observation.txt 1 2873 
+shining Solar_observation.txt 1 490 
+even Solar_observation.txt 3 1483 2951 2990 
+established Solar_observation.txt 3 1230 1518 2190 
+what Solar_observation.txt 1 813 
+helioscope Solar_observation.txt 1 730 
+sunspots Solar_observation.txt 33 207 401 646 667 713 764 771 779 788 811 860 883 927 945 969 1163 1194 1270 1305 1419 1486 1558 1602 1696 1710 1801 1812 1980 2396 2421 2435 2963 2983 
+wolfs Solar_observation.txt 1 1278 
+deliberate Solar_observation.txt 2 28 337 
+sun Solar_observation.txt 23 12 233 241 476 567 608 619 662 853 901 911 961 1298 1342 1407 1531 1583 1895 2173 2825 2896 2942 2971 
+assisted Solar_observation.txt 1 1616 
+reaching Solar_observation.txt 1 3130 
+contributed Solar_observation.txt 1 2601 
+near Solar_observation.txt 1 3075 
+thickness Solar_observation.txt 1 88 
+19th Solar_observation.txt 2 832 1050 
+version Solar_observation.txt 1 1448 
+reconstruction Solar_observation.txt 2 161 1172 
+scientists Solar_observation.txt 3 1130 2250 3172 
+international Solar_observation.txt 1 2558 
+ground Solar_observation.txt 1 2749 
+millennial-scale Solar_observation.txt 1 2278 
+can Solar_observation.txt 1 2744 
+full Solar_observation.txt 1 2334 
+led Solar_observation.txt 1 2496 
+nustar Solar_observation.txt 1 2599 
+respectively Solar_observation.txt 1 1791 
+39-month Solar_observation.txt 1 2219 
+mei Solar_observation.txt 2 236 245 
+sunspot Solar_observation.txt 36 126 163 279 314 338 364 372 385 506 520 835 844 977 1023 1185 1235 1257 1363 1443 1511 2025 2385 2452 2725 2798 2897 2917 2933 2992 3007 3034 3061 3098 3108 3148 3163 
+french Solar_observation.txt 1 1595 
+hundreds Solar_observation.txt 1 68 
+reported Solar_observation.txt 2 1828 1900 
+explore Solar_observation.txt 1 2148 
+jonas Solar_observation.txt 1 1144 
+twentieth Solar_observation.txt 2 54 1400 
+others Solar_observation.txt 1 2590 
+galileo Solar_observation.txt 3 709 735 765 
+november Solar_observation.txt 2 2858 3117 
+invented Solar_observation.txt 1 2347 
+observing Solar_observation.txt 4 327 724 1800 2692 
+2007 Solar_observation.txt 1 2930 
+change Solar_observation.txt 1 1049 
+extreme Solar_observation.txt 2 2482 2950 
+reversals Solar_observation.txt 1 1504 
+babcock Solar_observation.txt 1 1475 
+great Solar_observation.txt 1 1990 
+1848 Solar_observation.txt 2 1232 1290 
+1843 Solar_observation.txt 1 1205 
+study Solar_observation.txt 2 798 1619 
+changed Solar_observation.txt 2 912 963 
+1845 Solar_observation.txt 2 847 1593 
+periods Solar_observation.txt 2 2209 2480 
+spheres Solar_observation.txt 2 564 926 
+zeeman Solar_observation.txt 1 2375 
+periodic Solar_observation.txt 2 841 2262 
+published Solar_observation.txt 1 688 
+narrow Solar_observation.txt 1 488 
+changes Solar_observation.txt 3 215 2167 2799 
+1913 Solar_observation.txt 1 2957 
+plotted Solar_observation.txt 1 1423 
+emerge Solar_observation.txt 1 2985 
+named Solar_observation.txt 1 1110 
+followed Solar_observation.txt 2 49 3051 
+campaign Solar_observation.txt 1 2561 
+transit Solar_observation.txt 1 329 
+explained Solar_observation.txt 1 2038 
+70 Solar_observation.txt 1 3142 
+visible Solar_observation.txt 3 317 1561 1611 
+weaker Solar_observation.txt 1 1489 
+2000s Solar_observation.txt 1 2914 
+1908 Solar_observation.txt 1 2360 
+cassini Solar_observation.txt 1 1046 
+limb Solar_observation.txt 1 1607 
+1904 Solar_observation.txt 1 2091 
+total Solar_observation.txt 5 438 1842 2302 2627 2783 
+seventeenth Solar_observation.txt 1 1179 
+1900 Solar_observation.txt 1 2144 
+balfour Solar_observation.txt 1 1936 
+interest Solar_observation.txt 2 2065 2099 
+from Solar_observation.txt 17 199 341 554 628 879 964 1025 1127 1698 1911 1947 2201 2274 2441 2747 2929 3161 
+would Solar_observation.txt 4 129 246 3036 3192 
+physics Solar_observation.txt 1 2040 
+carrington Solar_observation.txt 4 1355 1685 1798 2003 
+two Solar_observation.txt 1 562 
+east-west Solar_observation.txt 1 2415 
+properties Solar_observation.txt 1 1119 
+few Solar_observation.txt 1 1823 
+live Solar_observation.txt 1 635 
+camera Solar_observation.txt 1 697 
+overhead Solar_observation.txt 1 1926 
+telegraph Solar_observation.txt 1 2000 
+those Solar_observation.txt 1 2997 
+then Solar_observation.txt 2 1814 2991 
+taken Solar_observation.txt 1 1646 
+radar Solar_observation.txt 1 2487 
+until Solar_observation.txt 3 792 2282 2827 
+today Solar_observation.txt 1 109 
+more Solar_observation.txt 4 103 1712 2617 2959 
+british Solar_observation.txt 1 1957 
+diurnal Solar_observation.txt 1 136 
+nimbus Solar_observation.txt 1 2658 
+1851 Solar_observation.txt 1 1648 
+occurred Solar_observation.txt 4 66 121 1786 3085 
+mercurys Solar_observation.txt 1 775 
+glass Solar_observation.txt 1 1097 
+visual Solar_observation.txt 1 2884 
+opposing Solar_observation.txt 2 2232 2239 
+secular Solar_observation.txt 1 2268 
+surface Solar_observation.txt 5 781 1311 1417 1480 2834 
+varying Solar_observation.txt 1 1246 
+known Solar_observation.txt 4 516 825 1031 1251 
+90 Solar_observation.txt 1 3101 
+cases Solar_observation.txt 1 2467 
+must Solar_observation.txt 1 1729 
+abundance Solar_observation.txt 1 2764 
+flares Solar_observation.txt 1 2515 
+ace Solar_observation.txt 1 2584 
+hour Solar_observation.txt 1 451 
+1996 Solar_observation.txt 1 582 
+this Solar_observation.txt 14 128 985 1048 1373 1421 1446 1488 1500 1743 1825 1920 2390 2448 3162 
+mean Solar_observation.txt 2 3107 3134 
+work Solar_observation.txt 4 745 955 1241 2409 
+eclipse Solar_observation.txt 3 439 605 1844 
+complement Solar_observation.txt 1 2198 
+regions Solar_observation.txt 3 1762 1767 2615 
+era Solar_observation.txt 1 38 
+erb Solar_observation.txt 1 2653 
+henry Solar_observation.txt 3 545 848 1292 
+accrued Solar_observation.txt 1 753 
+latitudes Solar_observation.txt 3 1564 1709 1888 
+history Solar_observation.txt 2 1183 1218 
+claim Solar_observation.txt 1 769 
+compare Solar_observation.txt 1 1239 
+prehistory Solar_observation.txt 1 57 
+links Solar_observation.txt 1 3208 
+process Solar_observation.txt 2 1431 1527 
+december Solar_observation.txt 3 436 551 3087 
+cited Solar_observation.txt 1 577 
+india Solar_observation.txt 1 2117 
+discovery Solar_observation.txt 2 2355 2499 
+high Solar_observation.txt 1 1887 
+proxy Solar_observation.txt 2 2742 2759 
+minimum Solar_observation.txt 7 829 1035 2928 2955 3026 3069 3084 
+numbers Solar_observation.txt 1 1186 
+allowed Solar_observation.txt 3 158 837 2327 
+station Solar_observation.txt 1 2193 
+darkening Solar_observation.txt 2 248 1608 
+hydrogen Solar_observation.txt 1 2372 
+12192 Solar_observation.txt 1 3150 
+axis Solar_observation.txt 1 666 
+available Solar_observation.txt 1 2680 
+tsi Solar_observation.txt 1 2630 
+varied Solar_observation.txt 1 1669 
+helden Solar_observation.txt 1 581 
+rather Solar_observation.txt 2 270 946 
+divided Solar_observation.txt 1 1409 
+means Solar_observation.txt 1 2228 
+feature Solar_observation.txt 1 1856 
+astronomers Solar_observation.txt 5 263 360 682 715 1244 
+long-term Solar_observation.txt 2 2267 2814 
+attachment Solar_observation.txt 1 2316 
+fourth Solar_observation.txt 1 450 
+instead Solar_observation.txt 1 3059 
+schwabe Solar_observation.txt 2 1151 1201 
+strong Solar_observation.txt 1 2412 
+establishment Solar_observation.txt 1 2110 
+aurora Solar_observation.txt 2 2042 2046 
+modulations Solar_observation.txt 1 2644 
+1699 Solar_observation.txt 1 934 
+map Solar_observation.txt 1 651 
+sabine Solar_observation.txt 2 1315 1961 
+plato Solar_observation.txt 1 295 
+description Solar_observation.txt 3 399 690 1834 
+yohkoh Solar_observation.txt 1 2582 
+modulation Solar_observation.txt 1 2607 
+broad Solar_observation.txt 1 2509 
+after Solar_observation.txt 3 1056 1113 1435 
+southern Solar_observation.txt 1 3121 
+different Solar_observation.txt 1 1243 
+diagram Solar_observation.txt 5 1385 1441 1445 1539 1565 
+produce Solar_observation.txt 1 1438 
+1889 Solar_observation.txt 1 1946 
+waves Solar_observation.txt 1 2505 
+such Solar_observation.txt 6 1037 2229 2251 2594 2756 2761 
+law Solar_observation.txt 1 2463 
+revealed Solar_observation.txt 4 83 145 937 2479 
+1882 Solar_observation.txt 1 1939 
+polarities Solar_observation.txt 1 2419 
+1755 Solar_observation.txt 1 1227 
+a Solar_observation.txt 66 146 160 227 235 278 312 328 353 370 398 428 481 487 492 502 505 519 689 702 855 941 965 974 1007 1096 1217 1233 1263 1300 1325 1426 1439 1465 1496 1524 1533 1627 1631 1754 1779 1809 1822 1833 1836 1905 1983 1989 2009 2023 2191 2236 2312 2363 2384 2411 2490 2508 2513 2545 2688 2813 2926 2953 3053 3097 3131 
+attempt Solar_observation.txt 1 1214 
+third Solar_observation.txt 1 531 
+whenever Solar_observation.txt 1 2377 
+onto Solar_observation.txt 1 1299 
+spectra Solar_observation.txt 1 2370 
+lines Solar_observation.txt 3 1087 1106 1112 
+corona Solar_observation.txt 4 423 1009 2293 2329 
+exhibited Solar_observation.txt 1 2373 
+greek Solar_observation.txt 1 290 
+18th Solar_observation.txt 1 643 
+so Solar_observation.txt 1 110 
+charlemagne Solar_observation.txt 1 379 
+correlation Solar_observation.txt 1 2696 
+stewart Solar_observation.txt 1 1937 
+order Solar_observation.txt 1 1495 
+wind Solar_observation.txt 1 2054 
+frisian Solar_observation.txt 1 681 
+operations Solar_observation.txt 1 2001 
+saturated Solar_observation.txt 1 2864 
+september Solar_observation.txt 1 1794 
+over Solar_observation.txt 6 890 1529 1550 1914 2383 2780 
+vary Solar_observation.txt 2 1721 2790 
+mission Solar_observation.txt 2 2581 2639 
+embers Solar_observation.txt 1 636 
+years Solar_observation.txt 5 34 72 123 167 2988 
+produced Solar_observation.txt 1 2876 
+course Solar_observation.txt 1 1916 
+through Solar_observation.txt 3 1095 1159 2975 
+horns Solar_observation.txt 1 630 
+japan Solar_observation.txt 1 2140 
+still Solar_observation.txt 3 2591 3023 3066 
+its Solar_observation.txt 11 14 629 665 1726 1764 2199 3014 3025 3068 3076 3079 
+tendency Solar_observation.txt 1 2413 
+before Solar_observation.txt 2 1266 2018 
+perfect Solar_observation.txt 1 924 
+hampered Solar_observation.txt 1 800 
+27 Solar_observation.txt 1 2207 
+group Solar_observation.txt 4 1457 1573 1810 2981 
+probability Solar_observation.txt 1 1965 
+22 Solar_observation.txt 1 435 
+la Solar_observation.txt 1 1655 
+picard Solar_observation.txt 1 1042 
+acrim1 Solar_observation.txt 1 2633 
+28 Solar_observation.txt 2 357 1673 
+vicinity Solar_observation.txt 1 2021 
+decreases Solar_observation.txt 1 1697 
+him Solar_observation.txt 1 1114 
+late Solar_observation.txt 1 673 
+absence Solar_observation.txt 1 989 
+parts Solar_observation.txt 1 2104 
+400 Solar_observation.txt 1 1181 
+latitude Solar_observation.txt 3 1538 1692 1723 
+covered Solar_observation.txt 1 456 
+hidden Solar_observation.txt 1 3211 
+areas Solar_observation.txt 1 866 
+2011 Solar_observation.txt 3 3045 3118 3188 
+image Solar_observation.txt 1 1295 
+2013 Solar_observation.txt 1 3104 
+ngstrm Solar_observation.txt 1 1145 
+eventually Solar_observation.txt 2 752 1923 
+them Solar_observation.txt 2 198 1128 
+evening Solar_observation.txt 2 561 601 
+greater Solar_observation.txt 2 112 125 
+babylonians Solar_observation.txt 1 185 
+color-coded Solar_observation.txt 1 1427 
+largest Solar_observation.txt 2 2980 3153 
+number Solar_observation.txt 8 809 943 1192 1236 1258 1978 3099 3109 
+band Solar_observation.txt 1 489 
+1930s Solar_observation.txt 2 2095 2284 
+detected Solar_observation.txt 1 2206 
+hale Solar_observation.txt 3 2213 2342 2361 
+effects Solar_observation.txt 2 1868 2619 
+they Solar_observation.txt 6 191 897 1108 1688 2174 2189 
+half Solar_observation.txt 2 1349 1464 
+satellites Solar_observation.txt 5 51 2516 2519 2671 2693 
+rotation Solar_observation.txt 4 1553 1660 1667 1716 
+now Solar_observation.txt 3 815 1250 2456 
+day Solar_observation.txt 3 454 1919 2017 
+developments Solar_observation.txt 1 2822 
+successor Solar_observation.txt 1 299 
+layering Solar_observation.txt 1 132 
+february Solar_observation.txt 1 3128 
+several Solar_observation.txt 2 2781 2987 
+brightness Solar_observation.txt 1 2779 
+edit Solar_observation.txt 21 58 170 645 1052 1055 1148 1581 1661 1770 2057 2059 2281 2337 2474 2517 2674 2823 2846 3204 3206 3209 
+classified Solar_observation.txt 1 3165 
+advent Solar_observation.txt 1 2247 
+identified Solar_observation.txt 1 791 
+gautier Solar_observation.txt 1 1318 
+infer Solar_observation.txt 3 840 2266 2772 
+weather Solar_observation.txt 3 1769 2155 2226 
+25 Solar_observation.txt 2 1671 3191 
+reasonable Solar_observation.txt 1 2708 
+rock Solar_observation.txt 1 81 
+found Solar_observation.txt 1 1324 
+repeating Solar_observation.txt 1 84 
+coronagraph Solar_observation.txt 2 2280 2311 
+cme Solar_observation.txt 1 1861 
+referred Solar_observation.txt 1 2458 
+calama Solar_observation.txt 1 2195 
+1870 Solar_observation.txt 1 1634 
+hales Solar_observation.txt 2 2407 2469 
+series Solar_observation.txt 1 2577 
+idea Solar_observation.txt 1 659 
+related Solar_observation.txt 1 174 
+used Solar_observation.txt 4 221 696 2362 2770 
+static Solar_observation.txt 1 2483 
+connect Solar_observation.txt 1 2256 
+phrases Solar_observation.txt 1 220 
+year Solar_observation.txt 6 532 542 1182 2560 2969 3044 
+ionosphere Solar_observation.txt 1 1932 
+telescopy Solar_observation.txt 1 699 
+happen Solar_observation.txt 1 3199 
+saturday Solar_observation.txt 1 549 
+out Solar_observation.txt 4 632 1170 2319 2552 
+widely Solar_observation.txt 1 1840 
+shown Solar_observation.txt 1 1719 
+occurrence Solar_observation.txt 1 1968 
+1717 Solar_observation.txt 1 1028 
+1716 Solar_observation.txt 1 1267 
+1715 Solar_observation.txt 1 1018 
+space Solar_observation.txt 3 1461 1577 1768 
+robert Solar_observation.txt 1 1139 
+since Solar_observation.txt 4 180 2731 2750 3155 
+projected Solar_observation.txt 1 1293 
+research Solar_observation.txt 2 1337 3183 
+particles Solar_observation.txt 1 2541 
+may Solar_observation.txt 4 2805 2816 2919 3103 
+giordano Solar_observation.txt 1 652 
+messenger Solar_observation.txt 1 2596 
+7 Solar_observation.txt 2 2216 2659 
+dner Solar_observation.txt 1 1746 
+wilson Solar_observation.txt 2 2086 2203 
+1650 Solar_observation.txt 1 932 
+languish Solar_observation.txt 1 2974 
+forth Solar_observation.txt 1 465 
+achievements Solar_observation.txt 1 2840 
+harold Solar_observation.txt 1 1472 
+earlier Solar_observation.txt 1 2714 
+dunn Solar_observation.txt 1 650 
+interactions Solar_observation.txt 1 1339 
+effect Solar_observation.txt 3 1609 1921 2376 
+romans Solar_observation.txt 1 538 
+2009 Solar_observation.txt 2 2932 2977 
+reason Solar_observation.txt 1 1276 
+california Solar_observation.txt 1 2089 
+brightest Solar_observation.txt 1 462 
+trends Solar_observation.txt 2 2234 2244 
+millenia Solar_observation.txt 1 2782 
+estimate Solar_observation.txt 1 2710 
+earliest Solar_observation.txt 3 203 333 515 
+remainder Solar_observation.txt 1 23 
+telescopes Solar_observation.txt 3 45 2077 2530 
+advance Solar_observation.txt 1 1132 
+pairs Solar_observation.txt 1 2406 
+interaction Solar_observation.txt 1 1986 
+erupted Solar_observation.txt 1 3160 
+telescopically Solar_observation.txt 1 671 
+where Solar_observation.txt 1 242 
+could Solar_observation.txt 4 119 1124 2032 2296 
+area Solar_observation.txt 2 1820 2379 
+days Solar_observation.txt 2 320 1674 
+horace Solar_observation.txt 1 1474 
+david Solar_observation.txt 2 685 1135 
+turn Solar_observation.txt 1 2120 
+american Solar_observation.txt 1 2338 
+holographic Solar_observation.txt 1 2882 
+obscura Solar_observation.txt 1 698 
+signature Solar_observation.txt 1 1556 
+rudolf Solar_observation.txt 2 1164 1206 
+fractional Solar_observation.txt 1 1416 
+first Solar_observation.txt 12 274 417 669 1196 1336 1386 1494 1588 1629 1772 2393 2910 
+1128 Solar_observation.txt 1 524 
+major Solar_observation.txt 2 1958 2839 
+initial Solar_observation.txt 1 37 
+features Solar_observation.txt 1 782 
+surviving Solar_observation.txt 1 334 
+christoph Solar_observation.txt 1 719 
+wollaston Solar_observation.txt 1 1083 
+numerological Solar_observation.txt 1 200 
+father-and-son Solar_observation.txt 1 1469 
+powerful Solar_observation.txt 1 2849 
+unlit Solar_observation.txt 1 479 
+one Solar_observation.txt 1 2442 
+daguerrotypes Solar_observation.txt 1 1614 
+symmetry Solar_observation.txt 1 2424 
+long Solar_observation.txt 1 1883 
+another Solar_observation.txt 2 583 2741 
+1871 Solar_observation.txt 1 1733 
+force Solar_observation.txt 1 3182 
+noticed Solar_observation.txt 2 1084 1873 
+george Solar_observation.txt 2 1898 2340 
+millions Solar_observation.txt 1 70 
+mercury Solar_observation.txt 1 331 
+earths Solar_observation.txt 1 2154 
+little Solar_observation.txt 1 2285 
+ancient Solar_observation.txt 1 289 
+temperature Solar_observation.txt 1 2241 
+october Solar_observation.txt 1 3146 
+indicate Solar_observation.txt 1 2886 
+introduction Solar_observation.txt 1 2476 
+data Solar_observation.txt 5 60 1223 1952 2200 2760 
+historian Solar_observation.txt 1 430 
+system Solar_observation.txt 2 27 896 
+their Solar_observation.txt 2 904 1613 
+2 Solar_observation.txt 1 1591 
+observations Solar_observation.txt 11 169 255 365 409 796 994 1161 1517 1862 2726 2885 
+storm Solar_observation.txt 3 1992 2007 3170 
+john Solar_observation.txt 5 392 511 526 568 574 
+18 Solar_observation.txt 1 1846 
+physicists Solar_observation.txt 2 1116 1596 
+jean-alfred Solar_observation.txt 1 1317 
+urban Solar_observation.txt 1 2240 
+growth Solar_observation.txt 1 2260 
+stars Solar_observation.txt 2 463 615 
+glow Solar_observation.txt 1 485 
+that Solar_observation.txt 42 36 62 96 111 315 660 751 770 778 859 899 909 919 959 1085 1118 1304 1477 1487 1499 1519 1690 1706 1725 1819 1857 1901 1963 2012 2028 2368 2395 2430 2506 2727 2743 2793 2916 2968 3031 3159 3189 
+wavelength Solar_observation.txt 1 2739 
+estimates Solar_observation.txt 1 1663 
+relative Solar_observation.txt 1 1234 
+needle Solar_observation.txt 1 1903 
+albert Solar_observation.txt 1 579 
+lamont Solar_observation.txt 1 1322 
+prediction Solar_observation.txt 1 3003 
+astrophysics Solar_observation.txt 1 2067 
+part Solar_observation.txt 1 2907 
+western Solar_observation.txt 1 281 
+somewhat Solar_observation.txt 1 633 
+inventing Solar_observation.txt 1 2177 
+july Solar_observation.txt 1 1847 
+102 Solar_observation.txt 1 3136 
+than Solar_observation.txt 7 108 271 864 871 947 1308 3048 
+11 Solar_observation.txt 1 2867 
+king Solar_observation.txt 1 544 
+13 Solar_observation.txt 1 2217 
+observatory Solar_observation.txt 8 1951 2087 2098 2115 2138 2158 2204 3177 
+17 Solar_observation.txt 1 304 
+cyclic Solar_observation.txt 1 1188 
+1880s Solar_observation.txt 1 1752 
+marshall Solar_observation.txt 2 1460 1576 
+1978 Solar_observation.txt 1 2662 
+tree Solar_observation.txt 2 143 2259 
+likely Solar_observation.txt 1 2778 
+recording Solar_observation.txt 1 363 
+determined Solar_observation.txt 4 858 1126 1303 1678 
+contrary Solar_observation.txt 1 913 
+disrupted Solar_observation.txt 1 1998 
+historical Solar_observation.txt 2 1171 1210 
+were Solar_observation.txt 25 256 361 410 616 668 772 780 789 877 923 928 993 998 1109 1134 1271 1306 1637 1872 1890 2074 2082 2397 2645 2935 
+hyde Solar_observation.txt 1 1082 
+visualized Solar_observation.txt 1 1377 
+solar-terrestrial Solar_observation.txt 1 1985 
+are Solar_observation.txt 4 1408 1610 2687 2794 
+and Solar_observation.txt 91 13 16 21 115 173 195 234 244 261 296 298 395 459 466 478 480 483 614 627 642 654 680 684 736 757 849 857 903 906 933 1043 1067 1107 1142 1204 1248 1302 1319 1331 1343 1356 1392 1413 1429 1451 1473 1498 1567 1599 1624 1672 1686 1705 1724 1736 1763 1774 1782 1789 1816 1933 1940 1956 1997 2050 2071 2078 2092 2130 2153 2162 2218 2242 2265 2429 2531 2542 2562 2586 2598 2616 2669 2686 2700 2776 2863 2883 2898 3040 3089 3179 
+sao Solar_observation.txt 2 2159 2187 
+aurorae Solar_observation.txt 1 996 
+remained Solar_observation.txt 1 2994 
+modern Solar_observation.txt 3 1447 1773 1860 
+worcester Solar_observation.txt 5 394 513 528 570 576 
+emperors Solar_observation.txt 1 269 
+kepler Solar_observation.txt 1 656 
+astrophysical Solar_observation.txt 1 2157 
+have Solar_observation.txt 14 65 120 137 157 176 1882 2527 2573 2600 2678 2768 2875 3073 3125 
+seen Solar_observation.txt 3 230 238 617 
+1 Solar_observation.txt 1 1793 
+saw Solar_observation.txt 1 1802 
+clearly Solar_observation.txt 2 1560 1775 
+contents Solar_observation.txt 1 56 
+hevelius Solar_observation.txt 1 1040 
+instrumentation Solar_observation.txt 1 2854 
+geomagnetic Solar_observation.txt 1 1332 
+1860 Solar_observation.txt 3 1652 1790 1848 
+built Solar_observation.txt 1 2075 
+150 Solar_observation.txt 1 3039 
+general Solar_observation.txt 1 1959 
+studying Solar_observation.txt 1 10 
+latter Solar_observation.txt 2 302 2906 
+thermopile Solar_observation.txt 1 856 
+1612 Solar_observation.txt 1 768 
+1613 Solar_observation.txt 1 760 
+1610 Solar_observation.txt 2 674 2732 
+1611 Solar_observation.txt 1 693 
+also Solar_observation.txt 9 138 411 1014 1229 1288 1638 1827 2100 3203 
+rome Solar_observation.txt 1 717 
+declined Solar_observation.txt 1 3139 
+which Solar_observation.txt 7 440 968 997 1269 1813 2351 2401 
+attempted Solar_observation.txt 1 2254 
+new Solar_observation.txt 1 2927 
+korean Solar_observation.txt 1 262 
+bolometric Solar_observation.txt 1 2610 
+mit Solar_observation.txt 1 2345 
+transparent Solar_observation.txt 1 2754 
+butterfly Solar_observation.txt 3 1384 1444 1555 
+spectral Solar_observation.txt 1 2900 
+experienced Solar_observation.txt 1 442 
+multiple Solar_observation.txt 2 2072 2691 
+electric Solar_observation.txt 1 1927 
+trace Solar_observation.txt 1 2585 
+comings Solar_observation.txt 1 905 
+weakness Solar_observation.txt 1 3081 
+who Solar_observation.txt 2 687 916 
+vortices Solar_observation.txt 1 2358 
+skylab Solar_observation.txt 1 2544 
+swiss Solar_observation.txt 1 1167 
+nasas Solar_observation.txt 1 3001 
+eight Solar_observation.txt 1 319 
+but Solar_observation.txt 4 971 1874 1889 3016 
+significant Solar_observation.txt 1 2887 
+successive Solar_observation.txt 1 1551 
+america Solar_observation.txt 1 2070 
+measured Solar_observation.txt 1 2746 
+jean Solar_observation.txt 2 1041 1044 
+3050 Solar_observation.txt 1 3046 
+darkness Solar_observation.txt 1 455 
+so-called Solar_observation.txt 1 1383 
+cause Solar_observation.txt 1 1676 
+observation Solar_observation.txt 8 1 4 30 41 339 585 1749 2664 
+chronicle Solar_observation.txt 3 572 596 638 
+demonstrating Solar_observation.txt 3 1982 2027 3078 
+einsteinturm Solar_observation.txt 1 2125 
+clear Solar_observation.txt 1 275 
+later Solar_observation.txt 9 402 876 935 1029 1102 1261 1467 2183 2646 
+cover Solar_observation.txt 1 2507 
+hemisphere Solar_observation.txt 3 2438 3114 3122 
+looked Solar_observation.txt 1 2222 
+ways Solar_observation.txt 1 2792 
+bodies Solar_observation.txt 1 922 
+subsequent Solar_observation.txt 2 2408 3137 
+nineteenth Solar_observation.txt 1 1352 
+basically Solar_observation.txt 1 2398 
+obscuration Solar_observation.txt 1 250 
+came Solar_observation.txt 1 631 
+dou Solar_observation.txt 2 228 243 
+planetary Solar_observation.txt 1 414 
+atmosphere Solar_observation.txt 3 99 1123 2752 
+germany Solar_observation.txt 1 2127 
+show Solar_observation.txt 1 2367 
+german Solar_observation.txt 1 1153 
+wikipedia Solar_observation.txt 1 2 
+detection Solar_observation.txt 1 1058 
+charles Solar_observation.txt 2 1626 1740 
+infrared Solar_observation.txt 1 2899 
+discovered Solar_observation.txt 3 1104 1155 1689 
+bright Solar_observation.txt 1 1806 
+relation Solar_observation.txt 1 17 
+drawings Solar_observation.txt 1 1852 
+faster Solar_observation.txt 1 1760 
+earth Solar_observation.txt 7 20 101 458 1345 1973 2035 2521 
+thicker Solar_observation.txt 1 116 
+decade Solar_observation.txt 1 2911 
+make Solar_observation.txt 1 2706 
+based Solar_observation.txt 2 251 344 
+northern Solar_observation.txt 1 3112 
+storms Solar_observation.txt 1 1971 
+outside Solar_observation.txt 1 1484 
+should Solar_observation.txt 1 3072 
+bernard Solar_observation.txt 1 2305 
+only Solar_observation.txt 4 1225 2297 2831 2956 
+experiment Solar_observation.txt 2 2634 2654 
+black Solar_observation.txt 1 563 
+deployed Solar_observation.txt 1 2528 
+24s Solar_observation.txt 1 3083 
+8 Solar_observation.txt 1 550 
+circle Solar_observation.txt 1 493 
+thousands Solar_observation.txt 1 32 
+x28 Solar_observation.txt 1 2881 
+regularly Solar_observation.txt 6 178 257 362 1452 1568 1909 
+peaked Solar_observation.txt 2 3115 3126 
+his Solar_observation.txt 4 732 1222 2048 2163 
+get Solar_observation.txt 1 701 
+air Solar_observation.txt 1 3181 
+photography Solar_observation.txt 2 1580 1615 
+samuel Solar_observation.txt 3 649 1149 1199 
+fluid Solar_observation.txt 1 1731 
+chronologies Solar_observation.txt 1 2279 
+grew Solar_observation.txt 3 2068 2101 2551 
+mention Solar_observation.txt 2 276 419 
+compass Solar_observation.txt 1 1907 
+report Solar_observation.txt 1 205 
+during Solar_observation.txt 9 122 801 812 1010 1702 2235 2300 2489 2681 
+installed Solar_observation.txt 1 2083 
+neither Solar_observation.txt 1 738 
+alexander Solar_observation.txt 1 850 
+infrequent Solar_observation.txt 1 2301 
+bar Solar_observation.txt 1 1428 
+showed Solar_observation.txt 5 898 908 1476 1753 1962 
+covering Solar_observation.txt 1 165 
+english...on Solar_observation.txt 1 548 
+1826 Solar_observation.txt 1 1203 
+vied Solar_observation.txt 1 747 
+isotopes Solar_observation.txt 1 2767 
+morning Solar_observation.txt 1 556 
+predicted Solar_observation.txt 6 197 2051 2796 3030 3094 3186 
+activity Solar_observation.txt 15 127 164 172 386 824 845 1024 1175 1333 1364 2705 2712 2775 2888 2918 
+scott Solar_observation.txt 1 1394 
+peak Solar_observation.txt 1 3132 
+cycles Solar_observation.txt 10 64 152 842 978 992 1283 2214 2685 2715 3000 
+explanations Solar_observation.txt 1 135 
+sediment Solar_observation.txt 1 117 
+wrote Solar_observation.txt 1 432 
+view Solar_observation.txt 2 704 2381 
+composite Solar_observation.txt 1 2689 
+irradiation Solar_observation.txt 1 107 
+1185 Solar_observation.txt 1 592 
+variability Solar_observation.txt 1 2269 
+undergoes Solar_observation.txt 1 1502 
+national Solar_observation.txt 2 2137 3175 
+maximum Solar_observation.txt 7 2580 2638 3015 3035 3055 3077 3092 
+observed Solar_observation.txt 11 311 374 670 851 878 1197 1273 1885 2015 2851 3154 
+opposite Solar_observation.txt 1 2404 
+see Solar_observation.txt 4 471 1402 1513 3202 
+individual Solar_observation.txt 1 2605 
+1924 Solar_observation.txt 1 2129 
+migration Solar_observation.txt 1 1361 
+progress Solar_observation.txt 1 2286 
+inaccurate Solar_observation.txt 1 2810 
+best Solar_observation.txt 1 1376 
+herschel Solar_observation.txt 1 1064 
+detect Solar_observation.txt 1 2166 
+record Solar_observation.txt 4 335 517 1211 2723 
+brewster Solar_observation.txt 1 1136 
+pattern Solar_observation.txt 1 1374 
+rings Solar_observation.txt 1 144 
+dipole Solar_observation.txt 2 1497 1501 
+artificial Solar_observation.txt 1 2045 
+benedictine Solar_observation.txt 1 308 
+catalogue Solar_observation.txt 1 355 
+r Solar_observation.txt 1 1830 
+various Solar_observation.txt 1 2534 
+bruno Solar_observation.txt 1 653 
+correctly Solar_observation.txt 1 2004 
+between Solar_observation.txt 9 931 1202 1327 1340 1670 1757 2150 2697 3038 
+probably Solar_observation.txt 1 722 
+364 Solar_observation.txt 1 342 
+across Solar_observation.txt 2 1818 2425 
+schuster Solar_observation.txt 1 1944 
+faculae Solar_observation.txt 1 882 
+observational Solar_observation.txt 2 948 2549 
+creating Solar_observation.txt 1 2044 
+extend Solar_observation.txt 1 1281 
+nature Solar_observation.txt 1 892 
+importance Solar_observation.txt 1 886 
+component Solar_observation.txt 1 1543 
+screen Solar_observation.txt 1 1301 
+emitted Solar_observation.txt 1 861 
+weak Solar_observation.txt 1 3054 
+however Solar_observation.txt 4 133 321 407 2694 
+averroes Solar_observation.txt 1 396 
+spectroscopic Solar_observation.txt 1 1748 
+recent Solar_observation.txt 1 2999 
+outer Solar_observation.txt 1 1727 
+leo Solar_observation.txt 2 426 500 
+suggested Solar_observation.txt 4 657 958 1262 2915 
+c Solar_observation.txt 3 216 1684 1797 
+improved Solar_observation.txt 1 729 
+10.7 Solar_observation.txt 1 2737 
+x3.1-class Solar_observation.txt 1 3168 
+minutes Solar_observation.txt 2 1824 2868 
+1724 Solar_observation.txt 1 1897 
+annual Solar_observation.txt 1 131 
+monk Solar_observation.txt 1 309 
+against Solar_observation.txt 1 565 
+birkeland Solar_observation.txt 1 2037 
+sensitive Solar_observation.txt 1 104 
+s Solar_observation.txt 3 380 954 1747 
+became Solar_observation.txt 3 620 1030 3151 
+dated Solar_observation.txt 1 154 
+context Solar_observation.txt 1 254 
+nils Solar_observation.txt 1 1745 
+magnetosphere Solar_observation.txt 1 1934 
+whole Solar_observation.txt 1 1534 
+among Solar_observation.txt 2 2588 2718 
+dominique Solar_observation.txt 1 1045 
+fields Solar_observation.txt 2 2454 2543 
+cm Solar_observation.txt 1 2738 
+unfolding Solar_observation.txt 1 1528 
+appeared Solar_observation.txt 4 553 1088 2402 2989 
+each Solar_observation.txt 3 1703 1918 2437 
+period Solar_observation.txt 6 820 966 1020 1265 1508 1668 
+active Solar_observation.txt 1 2614 
+johann Solar_observation.txt 2 1072 1320 
+simply Solar_observation.txt 1 2468 
+deflected Solar_observation.txt 1 1910 
+observatories Solar_observation.txt 3 2058 2073 2081 
+endeavor Solar_observation.txt 1 8 
+undergraduate Solar_observation.txt 1 2346 
+19:29 Solar_observation.txt 1 2861 
+turkey Solar_observation.txt 1 447 
+better Solar_observation.txt 1 703 
+most Solar_observation.txt 4 1642 1695 2716 2848 
+light Solar_observation.txt 3 1807 1881 2322 
+described Solar_observation.txt 4 192 390 590 1776 
+fabricius Solar_observation.txt 3 686 695 744 
+dimmed Solar_observation.txt 1 1815 
+monthly Solar_observation.txt 2 3106 3133 
+due Solar_observation.txt 1 805 
+been Solar_observation.txt 12 139 177 711 723 1884 2679 2729 2769 2787 2836 2872 3074 
+appears Solar_observation.txt 1 3123 
+johannes Solar_observation.txt 3 655 683 1039 
+whom Solar_observation.txt 1 740 
+magnetized Solar_observation.txt 1 1482 
+heliosphere Solar_observation.txt 1 2526 
+slowly Solar_observation.txt 1 1713 
+zrich Solar_observation.txt 1 1256 
+expected Solar_observation.txt 1 3010 
+walter Solar_observation.txt 1 1390 
+refuted Solar_observation.txt 1 766 
+1645 Solar_observation.txt 1 1026 
+lyots Solar_observation.txt 1 2306 
+glock Solar_observation.txt 1 2253 
+corresponding Solar_observation.txt 1 89 
+73 Solar_observation.txt 1 2945 
+dates Solar_observation.txt 2 208 340 
+connections Solar_observation.txt 2 2149 2224 
+spectrum Solar_observation.txt 1 1092 
+observers Solar_observation.txt 1 1036 
+gan Solar_observation.txt 1 350 
+constantinople Solar_observation.txt 1 444 
+external Solar_observation.txt 1 3207 
+chile Solar_observation.txt 1 2196 
+2014 Solar_observation.txt 3 3129 3144 3147 
+last Solar_observation.txt 1 2683 
+extant Solar_observation.txt 1 204 
+auroral Solar_observation.txt 2 1880 1995 
+modern-day Solar_observation.txt 1 445 
+hodgson Solar_observation.txt 1 1831 
+novel Solar_observation.txt 1 1984 
+polar Solar_observation.txt 1 1766 
+varves Solar_observation.txt 1 77 
+spot-free Solar_observation.txt 1 2944 
+these Solar_observation.txt 4 408 1516 2719 2803 
+might Solar_observation.txt 1 3197 
+mount Solar_observation.txt 2 2085 2202 
+ejection Solar_observation.txt 1 1785 
+968 Solar_observation.txt 1 437 
+2010 Solar_observation.txt 2 3020 3064 
+dendrochronologically Solar_observation.txt 1 153 
+brilliant Solar_observation.txt 1 1994 
+while Solar_observation.txt 3 718 1799 3119 
+harmonic Solar_observation.txt 1 2208 
+behavior Solar_observation.txt 1 15 
+many Solar_observation.txt 5 1851 1864 2466 2518 2589 
+exist Solar_observation.txt 1 2817 
+eclipses Solar_observation.txt 4 194 1012 1636 2304 
+photographed Solar_observation.txt 2 1585 1639 
+region Solar_observation.txt 1 2869 
+launched Solar_observation.txt 2 2640 2655 
+abbot Solar_observation.txt 2 2161 2185 
+layer Solar_observation.txt 2 87 1728 
+studied Solar_observation.txt 2 1208 2332 
+planets Solar_observation.txt 1 773 
+vogel Solar_observation.txt 1 1735 
+century Solar_observation.txt 16 55 189 406 795 804 833 1051 1180 1287 1353 1401 1466 2056 2064 2123 2845 
+equator Solar_observation.txt 2 1368 2428 
+is Solar_observation.txt 17 5 94 229 237 814 1375 1422 1432 1449 1481 1492 1523 1559 1832 2455 2721 2753 
+thus Solar_observation.txt 4 1718 1981 2079 2777 
+it Solar_observation.txt 7 93 467 609 2295 2707 3021 3071 
+adelmus Solar_observation.txt 2 310 322 
+nso Solar_observation.txt 1 3178 
+vs Solar_observation.txt 1 1536 
+attributed Solar_observation.txt 1 1924 
+in Solar_observation.txt 107 46 52 78 86 186 222 231 239 280 352 366 382 387 403 443 491 507 523 529 539 578 591 593 599 622 647 672 691 716 759 761 843 846 887 967 980 1065 1078 1089 1212 1231 1268 1289 1346 1378 1397 1612 1617 1633 1647 1651 1658 1680 1732 1750 1787 1850 1896 1930 1938 1945 1953 1987 2019 2047 2061 2066 2069 2088 2090 2093 2102 2116 2126 2128 2141 2168 2258 2270 2277 2333 2359 2403 2420 2436 2465 2494 2520 2524 2537 2569 2641 2648 2661 2791 2818 2904 2939 3017 3019 3027 3063 3110 3116 3127 3145 3187 
+claimed Solar_observation.txt 1 2788 
+aspects Solar_observation.txt 1 786 
+property Solar_observation.txt 1 2450 
+situ Solar_observation.txt 1 2538 
+currents Solar_observation.txt 1 1928 
+if Solar_observation.txt 2 73 2553 
+result Solar_observation.txt 1 2808 
+confirmed Solar_observation.txt 5 1047 1742 1941 2621 2647 
+1817 Solar_observation.txt 1 1079 
+credit Solar_observation.txt 1 750 
+suggest Solar_observation.txt 1 61 
+began Solar_observation.txt 5 31 1077 2146 2175 2855 
+radiation Solar_observation.txt 8 863 875 1061 1070 2170 2182 2611 2757 
+diaconus Solar_observation.txt 2 427 501 
+same Solar_observation.txt 2 1002 1507 
+linked Solar_observation.txt 1 1892 
+shifts Solar_observation.txt 1 2804 
+wilhelm Solar_observation.txt 2 1073 1140 
+mcmath-hulbert Solar_observation.txt 1 2097 
+viewed Solar_observation.txt 3 1094 1841 2299 
+twenty-eighth Solar_observation.txt 1 541 
+incorrectly Solar_observation.txt 1 323 
+constructed Solar_observation.txt 3 1387 1450 1566 
+events Solar_observation.txt 2 175 2031 
+higher Solar_observation.txt 2 870 1708 
+independent Solar_observation.txt 1 3171 
+satellite Solar_observation.txt 5 2623 2660 2663 2811 2853 
+literature Solar_observation.txt 1 282 
+centuries Solar_observation.txt 2 644 1865 
+measurement Solar_observation.txt 1 2672 
+prominences Solar_observation.txt 2 589 1622 
+scheiner Solar_observation.txt 2 720 737 
+upon Solar_observation.txt 1 951 
+sprer Solar_observation.txt 4 953 1260 1357 1687 
+1990s Solar_observation.txt 1 2829 
+then-sufficient Solar_observation.txt 1 834 
+levels Solar_observation.txt 2 2934 2993 
+student Solar_observation.txt 1 293 
+louis Solar_observation.txt 1 1597 
+11,400 Solar_observation.txt 1 166 
+cycle Solar_observation.txt 13 92 1147 1158 1330 1371 1512 1522 1704 2444 3049 3062 3082 3190 
+dark Solar_observation.txt 1 1086 
+maunder Solar_observation.txt 5 828 957 1034 1391 1396 
+shortly Solar_observation.txt 1 1737 
+center Solar_observation.txt 2 1463 1579 
+records Solar_observation.txt 2 369 836 
+harriot Solar_observation.txt 1 679 
+no Solar_observation.txt 1 2962 
+well Solar_observation.txt 2 1604 2995 
+analysis Solar_observation.txt 3 141 936 1948 
+patterns Solar_observation.txt 1 2220 
+de Solar_observation.txt 2 351 1654 
+edge Solar_observation.txt 1 496 
+chronicles Solar_observation.txt 1 509 
+english Solar_observation.txt 1 676 
+lothar Solar_observation.txt 1 534 
+the Solar_observation.txt 232 6 11 19 22 25 47 53 91 97 181 184 187 202 211 219 223 232 240 253 265 268 273 288 301 332 376 404 416 421 434 449 453 457 461 472 475 495 498 508 514 530 537 540 547 555 560 566 571 594 600 607 618 625 658 661 694 706 725 743 749 755 784 793 802 807 827 831 852 867 880 888 891 894 900 910 938 960 988 1001 1004 1019 1033 1057 1090 1105 1121 1156 1178 1187 1191 1209 1240 1253 1275 1282 1285 1297 1309 1328 1335 1341 1344 1347 1351 1360 1366 1370 1379 1382 1398 1406 1414 1430 1442 1455 1468 1478 1506 1510 1520 1530 1541 1545 1554 1571 1582 1587 1606 1618 1641 1665 1675 1691 1694 1714 1751 1758 1771 1839 1866 1894 1902 1915 1931 1964 1967 1977 2006 2016 2020 2034 2039 2052 2062 2094 2106 2109 2112 2119 2122 2124 2131 2136 2169 2172 2211 2246 2271 2283 2291 2310 2320 2324 2328 2348 2354 2369 2374 2378 2387 2392 2426 2431 2446 2461 2475 2498 2525 2554 2557 2563 2575 2578 2626 2632 2636 2643 2649 2652 2657 2682 2695 2722 2748 2751 2763 2807 2824 2828 2830 2847 2891 2895 2905 2909 2913 2941 2948 2970 2979 3006 3032 3043 3060 3090 3105 3111 3120 3152 3157 3174 3180 
+800 Solar_observation.txt 1 217 
+807 Solar_observation.txt 1 307 
+drawing Solar_observation.txt 2 503 521 
+researchers Solar_observation.txt 2 838 2145 
+proposed Solar_observation.txt 1 140 
+less Solar_observation.txt 1 862 
+increasingly Solar_observation.txt 1 1805 
+halenicholson Solar_observation.txt 1 2462 
+rotated Solar_observation.txt 2 663 902 
+novgorod Solar_observation.txt 2 598 640 
+assigned Solar_observation.txt 1 2160 
+not Solar_observation.txt 6 74 790 1875 1891 2795 3198 
+40 Solar_observation.txt 1 1699 
+daylight Solar_observation.txt 1 2335 
+anders Solar_observation.txt 1 1143 
+commonly Solar_observation.txt 1 2457 
+useful Solar_observation.txt 1 1643 
+alternative Solar_observation.txt 1 134 
+reality Solar_observation.txt 1 3018 
+theophrastus Solar_observation.txt 1 292 
+afrl Solar_observation.txt 1 3185 
+adding Solar_observation.txt 1 983 
+spatiotemporal Solar_observation.txt 1 1525 
+death Solar_observation.txt 1 381 
+equipment Solar_observation.txt 1 1247 
+mid-december Solar_observation.txt 1 2976 
+percent Solar_observation.txt 2 2946 2966 
+had Solar_observation.txt 7 710 721 884 917 962 2014 2835 
+deposits Solar_observation.txt 1 118 
+17891875 Solar_observation.txt 1 1152 
+precambrian Solar_observation.txt 1 79 
+noise Solar_observation.txt 1 2485 
+other Solar_observation.txt 9 1115 2103 2567 2592 2670 2701 2758 2821 2838 
+4 Solar_observation.txt 1 2857 
+emissions Solar_observation.txt 2 2735 2802 
+273-month Solar_observation.txt 1 2212 
+sparking Solar_observation.txt 1 1334 
+alignment Solar_observation.txt 1 2416 
+has Solar_observation.txt 4 82 2728 2786 2871 
+flowing Solar_observation.txt 1 1929 
+gave Solar_observation.txt 1 42 
+resolved Solar_observation.txt 1 2837 
+radiocarbon Solar_observation.txt 1 155 
+gustav Solar_observation.txt 3 952 1137 1259 
+march Solar_observation.txt 1 305 
+around Solar_observation.txt 9 283 494 1312 2143 3042 3057 3086 3102 3141 
+vertically Solar_observation.txt 1 1424 
+rules Solar_observation.txt 1 201 
+showing Solar_observation.txt 2 712 777 
+results Solar_observation.txt 1 2650 
+possible Solar_observation.txt 2 95 469 
+smithsonian Solar_observation.txt 1 2156 
+corresponds Solar_observation.txt 1 1858 
+early Solar_observation.txt 7 98 168 584 1399 1644 1662 2060 
+possibly Solar_observation.txt 2 196 2923 
+monthly-averaged Solar_observation.txt 1 1415 
+provide Solar_observation.txt 1 2740 
+presume Solar_observation.txt 1 130 
+goings Solar_observation.txt 1 907 
+using Solar_observation.txt 2 727 1245 
+progresses Solar_observation.txt 1 1372 
+precipitation Solar_observation.txt 1 2243 
+richard Solar_observation.txt 4 1354 1683 1796 2002 
+melting Solar_observation.txt 1 114 
+phenomena Solar_observation.txt 1 2400 
+rotate Solar_observation.txt 1 1711 
+like Solar_observation.txt 2 486 634 
+cooler Solar_observation.txt 1 1307 
+latitudinal Solar_observation.txt 1 1411 
+specific Solar_observation.txt 1 2029 
+flux Solar_observation.txt 1 2879 
+arthur Solar_observation.txt 1 1943 
+indication Solar_observation.txt 1 2394 
+lapses Solar_observation.txt 1 949 
+tower Solar_observation.txt 1 2133 
+prior Solar_observation.txt 1 1016 
+reduced Solar_observation.txt 2 942 3195 
+right Solar_observation.txt 1 557 
+inability Solar_observation.txt 1 1279 
+infra-red Solar_observation.txt 1 1060 
+30 Solar_observation.txt 1 1755 
+some Solar_observation.txt 1 885 
+back Solar_observation.txt 2 209 1176 
+bunsen Solar_observation.txt 1 1141 
+global Solar_observation.txt 1 1999 
+calculated Solar_observation.txt 1 1420 
+astronomer Solar_observation.txt 6 349 677 1154 1168 1955 2339 
+towards Solar_observation.txt 1 1365 
+mirror Solar_observation.txt 1 2423 
+images Solar_observation.txt 2 1404 1645 
+kinds Solar_observation.txt 1 2535 
+matching Solar_observation.txt 1 2231 
+70-year Solar_observation.txt 1 1264 
+1858 Solar_observation.txt 1 1681 
+provided Solar_observation.txt 1 397 
+rarely Solar_observation.txt 2 929 1272 
+dendrochronology Solar_observation.txt 1 2249 
+for Solar_observation.txt 16 67 159 318 748 1277 1586 1863 2223 2414 2434 2536 2713 2866 2952 2964 2986 
+stronger Solar_observation.txt 1 3047 
+establish Solar_observation.txt 1 1216 
+1852 Solar_observation.txt 2 1313 1954 
+flare Solar_observation.txt 5 1781 1838 2011 2850 3158 
+recorded Solar_observation.txt 3 179 930 2730 
+shone Solar_observation.txt 1 464 
+moon Solar_observation.txt 1 626 
+bursts Solar_observation.txt 2 2473 2503 
+glacial Solar_observation.txt 1 113 
+three Solar_observation.txt 1 2684 
+demonstrated Solar_observation.txt 1 2410 
+measuring Solar_observation.txt 1 76 
+be Solar_observation.txt 10 247 1125 1730 2298 2331 2745 2806 2921 3012 3193 
+knew Solar_observation.txt 1 741 
+scientific Solar_observation.txt 1 7 
+bc Solar_observation.txt 5 190 218 285 343 358 
+300 Solar_observation.txt 1 284 
+reach Solar_observation.txt 2 3037 3096 
+radial Solar_observation.txt 1 1542 
+notable Solar_observation.txt 2 1129 2546 
+unusual Solar_observation.txt 1 3080 
+disappeared Solar_observation.txt 1 972 
+time-series Solar_observation.txt 1 1440 
+1931 Solar_observation.txt 1 2307 
+1930 Solar_observation.txt 1 2142 
+although Solar_observation.txt 1 783 
+by Solar_observation.txt 37 50 259 287 347 356 391 425 525 675 830 1062 1071 1198 1388 1454 1570 1594 1649 1653 1682 1722 1739 1829 1935 1942 2043 2176 2227 2512 2604 2612 2622 2631 2667 2797 2852 3052 
+von Solar_observation.txt 2 1100 1321 
+kodaikanal Solar_observation.txt 1 2113 
+on Solar_observation.txt 16 100 252 303 345 664 763 1590 1792 1845 1972 2289 2386 2635 2656 2856 2890 
+about Solar_observation.txt 1 981 
+ellery Solar_observation.txt 1 2341 
+carried Solar_observation.txt 1 1169 
+world Solar_observation.txt 1 2107 
+getting Solar_observation.txt 1 611 
+of Solar_observation.txt 135 9 24 33 39 69 71 142 149 162 183 206 214 267 277 294 330 336 378 393 400 420 433 452 474 497 504 510 512 518 527 533 536 543 546 569 573 575 587 597 606 639 705 731 739 742 787 810 821 869 874 893 944 976 987 990 995 1006 1021 1059 1068 1120 1162 1173 1184 1190 1193 1219 1242 1296 1350 1362 1381 1405 1418 1471 1485 1540 1544 1557 1620 1664 1778 1804 1811 1835 1869 1879 1904 1917 1949 1966 1969 1979 2022 2041 2105 2111 2121 2139 2171 2248 2309 2323 2356 2371 2380 2417 2451 2477 2481 2500 2533 2540 2556 2565 2608 2625 2651 2690 2703 2724 2765 2809 2843 2880 2894 2908 2912 2947 2967 2982 2998 3100 3135 3173 
+months Solar_observation.txt 1 3138 
+anomalous Solar_observation.txt 1 1855 
+recognized Solar_observation.txt 1 816 
+side Solar_observation.txt 1 2893 
+important Solar_observation.txt 1 2717 
+wolf Solar_observation.txt 4 1165 1207 1254 1316 
+greatly Solar_observation.txt 1 3194 
+concentrations Solar_observation.txt 1 156 
+connected Solar_observation.txt 1 2005 
+captured Solar_observation.txt 1 1630 
+emperor Solar_observation.txt 1 535 
+or Solar_observation.txt 7 249 1255 2464 2484 2523 2800 3196 
+block Solar_observation.txt 1 2318 
+2022 Solar_observation.txt 1 3058 
+own Solar_observation.txt 1 733 
+letters Solar_observation.txt 1 762 
+earthly Solar_observation.txt 1 1867 
+facility Solar_observation.txt 1 2550 
+orientation Solar_observation.txt 1 2440 
+instruments Solar_observation.txt 4 2178 2532 2606 2865 
+into Solar_observation.txt 3 1284 1338 1410 
+within Solar_observation.txt 3 1808 1821 2210 
+annie Solar_observation.txt 1 1393 
+son Solar_observation.txt 1 758 
+included Solar_observation.txt 2 2574 2841 
+rues Solar_observation.txt 1 1656 
+fizeau Solar_observation.txt 1 1598 
+prominence Solar_observation.txt 1 1632 
+next Solar_observation.txt 3 2447 3033 3091 
+telescope Solar_observation.txt 2 2134 2313 
+unambiguous Solar_observation.txt 1 418 
+23 Solar_observation.txt 1 3050 
+proxies Solar_observation.txt 3 2673 2702 2720 
+van Solar_observation.txt 1 580 
+1980 Solar_observation.txt 1 2642 
+renewal Solar_observation.txt 1 975 
+unchanging Solar_observation.txt 1 925 
+there Solar_observation.txt 2 552 602 
+lon Solar_observation.txt 1 1600 
+spots Solar_observation.txt 1 726 
+imperial Solar_observation.txt 1 368 
+joseph Solar_observation.txt 2 1099 1291 
+low Solar_observation.txt 4 808 822 1022 1563 
+way Solar_observation.txt 1 43 
+resulted Solar_observation.txt 1 1849 
+translate Solar_observation.txt 1 225 
+was Solar_observation.txt 33 102 286 316 326 373 389 424 468 522 586 610 799 1013 1195 1584 1677 1717 1908 1922 1974 2186 2287 2391 2620 2665 2826 2943 2958 3009 3022 3065 3093 3164 
+leading Solar_observation.txt 1 2924 
+building Solar_observation.txt 1 950 
+head Solar_observation.txt 1 2188 
+north Solar_observation.txt 1 1913 
+byzantine Solar_observation.txt 1 429 
+form Solar_observation.txt 1 1380 
+equatorial Solar_observation.txt 1 1761 
+fraunhofer Solar_observation.txt 2 1101 1111 
+laboratory Solar_observation.txt 2 2049 3184 
+kristian Solar_observation.txt 1 2036 
+extended Solar_observation.txt 3 819 1160 1224 
+repeated Solar_observation.txt 1 1433 
+link Solar_observation.txt 1 1326 
+solar Solar_observation.txt 81 0 3 26 29 63 106 151 171 193 422 588 707 823 881 895 991 1008 1011 1053 1075 1091 1122 1146 1157 1174 1220 1329 1367 1456 1479 1521 1537 1546 1552 1572 1621 1635 1780 1837 1843 1870 2010 2030 2053 2076 2080 2114 2132 2151 2181 2192 2233 2263 2272 2303 2325 2357 2388 2427 2443 2471 2492 2501 2514 2529 2548 2579 2602 2609 2628 2637 2704 2711 2733 2773 2784 2819 2954 3113 3169 3176 
+russian Solar_observation.txt 2 595 637 
+line Solar_observation.txt 1 2901 
+sdo Solar_observation.txt 1 2587 
+with Solar_observation.txt 14 124 854 1505 1640 1693 1859 1976 2008 2108 2245 2314 2350 2422 2961 
+dull Solar_observation.txt 1 477 
+heinrich Solar_observation.txt 2 1150 1200 
+he Solar_observation.txt 8 325 431 441 1228 2013 2205 2221 2352 
+count Solar_observation.txt 1 3008 
+absent Solar_observation.txt 1 999 
+made Solar_observation.txt 3 2288 2353 2903 
+understood Solar_observation.txt 1 1876 
+inside Solar_observation.txt 1 774 
+official Solar_observation.txt 1 367 
+variations Solar_observation.txt 4 1221 2152 2264 2276 
+up Solar_observation.txt 1 558 
+1600s Solar_observation.txt 1 48 
+below Solar_observation.txt 3 1515 2937 2996 
+taught Solar_observation.txt 1 918 
+fermi Solar_observation.txt 1 2597 
+acrim-3 Solar_observation.txt 1 2668 
+spectroscopy Solar_observation.txt 3 1054 1133 1625 
+problem Solar_observation.txt 1 939 
+spectrometry Solar_observation.txt 1 1076 
+similar Solar_observation.txt 2 621 2275 
+average Solar_observation.txt 2 872 2938 
+x-ray Solar_observation.txt 1 2878 
+detailed Solar_observation.txt 1 147 
+dill Solar_observation.txt 1 1395 
+celestial Solar_observation.txt 1 921 
+constant Solar_observation.txt 1 2273 
+ad Solar_observation.txt 2 306 383 
+utc Solar_observation.txt 1 2862 
+measure Solar_observation.txt 1 2180 
+moved Solar_observation.txt 1 1817 
+strips Solar_observation.txt 1 1412 
+an Solar_observation.txt 11 604 728 818 1213 1294 1854 2315 2344 2570 2877 3167 
+behest Solar_observation.txt 1 266 
+as Solar_observation.txt 22 413 603 817 826 1032 1038 1252 1274 1369 1425 1509 1532 1603 1605 2230 2252 2294 2343 2460 2595 2762 3166 
+ar Solar_observation.txt 1 3149 
+geophysical Solar_observation.txt 1 2559 
+at Solar_observation.txt 22 264 375 448 1000 1458 1562 1574 1707 1886 2084 2096 2118 2135 2194 2736 2860 3004 3013 3024 3056 3067 3200 
+aristotle Solar_observation.txt 2 297 915 
+formulation Solar_observation.txt 1 1237 
+flight Solar_observation.txt 2 1462 1578 
+graham Solar_observation.txt 1 1899 
+physical Solar_observation.txt 1 785 
+again Solar_observation.txt 1 2920 
+spectroscopically Solar_observation.txt 1 1744 
+istanbul Solar_observation.txt 1 446 
+calibration Solar_observation.txt 1 2812 
+amounts Solar_observation.txt 1 873 
+references Solar_observation.txt 1 3205 
+discerned Solar_observation.txt 1 1117 
+when Solar_observation.txt 5 1080 1093 2184 2978 3070 
+futilely Solar_observation.txt 1 746 
+event Solar_observation.txt 2 1826 2493 
+field Solar_observation.txt 2 1491 1548 
+prism Solar_observation.txt 1 1098 
+book Solar_observation.txt 2 213 224 
+5 Solar_observation.txt 1 1701 
+2010/2011 Solar_observation.txt 1 3005 
+2006 Solar_observation.txt 2 3002 3028 
+85 Solar_observation.txt 1 2965 
+jamming Solar_observation.txt 1 2488 
+misinterpreted Solar_observation.txt 1 412 
+soho Solar_observation.txt 1 2583 
+picture Solar_observation.txt 1 148 
+star Solar_observation.txt 2 354 2832 
+1859 Solar_observation.txt 3 1788 1795 1988 
+e.g Solar_observation.txt 1 1877 
+thereafter Solar_observation.txt 1 1738 
+june Solar_observation.txt 2 692 3143 
+kirchhoff Solar_observation.txt 1 1138 
+variation Solar_observation.txt 3 1189 1871 2257 
+emission Solar_observation.txt 1 868 
+william Solar_observation.txt 2 1063 1081 
+coronal Solar_observation.txt 1 1783 
+disappearing Solar_observation.txt 1 2922 
+accounts Solar_observation.txt 1 1777 
+stratigraphic Solar_observation.txt 1 59 
+486 Solar_observation.txt 1 2870 
+depicting Solar_observation.txt 1 1853 
+foucault Solar_observation.txt 1 1601 
+ago Solar_observation.txt 1 35 
+severe Solar_observation.txt 1 2486 
+independently Solar_observation.txt 5 272 1103 1323 1358 1679 
+correlated Solar_observation.txt 1 1975 
+methodologies Solar_observation.txt 1 1249 
+longer Solar_observation.txt 1 75 
+1800 Solar_observation.txt 1 1066 
+starting Solar_observation.txt 1 979 
+groupthus Solar_observation.txt 1 2026 
+orbit Solar_observation.txt 2 776 2522 
+waveband Solar_observation.txt 1 2510 
+2003 Solar_observation.txt 1 2859 
+nasa Solar_observation.txt 4 1459 1575 2566 3029 
+mass Solar_observation.txt 1 1784 
+incomplete Solar_observation.txt 1 2571 
+time Solar_observation.txt 6 182 377 1003 1535 1589 2949 
+far Solar_observation.txt 2 2892 2936 
+2008 Solar_observation.txt 2 2940 3088 
+laws Solar_observation.txt 1 2470 
+debate Solar_observation.txt 1 889 
+8th Solar_observation.txt 1 188 

@@ -1,0 +1,495 @@
+atom-specific Spectral_line.txt 1 407 
+all Spectral_line.txt 4 686 707 727 1036 
+pointing Spectral_line.txt 1 61 
+results Spectral_line.txt 1 940 
+broader Spectral_line.txt 2 1049 1398 
+depend Spectral_line.txt 1 447 
+environment Spectral_line.txt 1 1133 
+to Spectral_line.txt 37 58 116 126 139 210 269 280 315 349 398 412 460 525 584 594 723 810 816 821 826 841 848 855 867 892 910 954 1009 1168 1188 1215 1279 1319 1323 1355 1379 1457 
+under Spectral_line.txt 2 13 1552 
+include Spectral_line.txt 2 645 651 
+far Spectral_line.txt 1 886 
+frequencies Spectral_line.txt 2 110 767 
+electron Spectral_line.txt 1 231 
+experimentally Spectral_line.txt 1 951 
+exact Spectral_line.txt 1 496 
+categories Spectral_line.txt 3 807 1581 1583 
+rotating Spectral_line.txt 1 1369 
+level Spectral_line.txt 1 586 
+notes Spectral_line.txt 1 1574 
+large Spectral_line.txt 2 930 1203 
+discrete Spectral_line.txt 1 169 
+small Spectral_line.txt 2 832 839 
+force Spectral_line.txt 1 1110 
+direct Spectral_line.txt 1 18 
+rate Spectral_line.txt 1 1394 
+pass Spectral_line.txt 2 332 424 
+further Spectral_line.txt 1 1578 
+air Spectral_line.txt 1 12 
+spectral Spectral_line.txt 18 0 79 111 177 285 403 444 491 531 665 687 737 760 857 1030 1051 1418 1565 
+sun Spectral_line.txt 1 70 
+sum Spectral_line.txt 1 258 
+uniform Spectral_line.txt 1 90 
+cerium Spectral_line.txt 1 443 
+numeral Spectral_line.txt 1 593 
+contrast Spectral_line.txt 1 360 
+body Spectral_line.txt 2 1335 1370 
+even Spectral_line.txt 2 1466 1555 
+here Spectral_line.txt 1 34 
+atoms Spectral_line.txt 8 118 132 189 611 621 705 728 975 
+ionization Spectral_line.txt 1 588 
+others Spectral_line.txt 2 1135 1487 
+directions Spectral_line.txt 1 358 
+path Spectral_line.txt 1 866 
+along Spectral_line.txt 1 1339 
+strong Spectral_line.txt 1 530 
+change Spectral_line.txt 1 213 
+great Spectral_line.txt 1 1277 
+involved Spectral_line.txt 1 508 
+k Spectral_line.txt 1 549 
+amount Spectral_line.txt 1 207 
+resulting Spectral_line.txt 3 94 1345 1551 
+usually Spectral_line.txt 4 188 229 644 838 
+narrow Spectral_line.txt 3 103 343 392 
+changes Spectral_line.txt 1 854 
+projection Spectral_line.txt 1 1328 
+highly Spectral_line.txt 1 406 
+visible Spectral_line.txt 2 22 535 
+illumination Spectral_line.txt 1 15 
+from Spectral_line.txt 15 95 326 369 382 522 557 572 785 853 874 879 887 1054 1134 1366 
+would Spectral_line.txt 1 151 
+contains Spectral_line.txt 1 740 
+two Spectral_line.txt 2 805 1091 
+therefore Spectral_line.txt 1 1137 
+type Spectral_line.txt 2 300 308 
+more Spectral_line.txt 1 641 
+emission Spectral_line.txt 7 5 96 293 317 363 399 936 
+particular Spectral_line.txt 1 1227 
+known Spectral_line.txt 1 1560 
+cases Spectral_line.txt 2 578 1093 
+hold Spectral_line.txt 1 829 
+this Spectral_line.txt 11 43 48 227 733 795 937 1057 1096 1143 1239 1300 
+originally Spectral_line.txt 1 685 
+can Spectral_line.txt 10 123 409 489 515 949 960 1157 1231 1479 1545 
+spontaneous Spectral_line.txt 1 911 
+example Spectral_line.txt 5 630 1363 1402 1508 1536 
+process Spectral_line.txt 3 917 1182 1301 
+sharp Spectral_line.txt 1 696 
+hydrogen Spectral_line.txt 1 669 
+species Spectral_line.txt 1 575 
+respective Spectral_line.txt 1 675 
+rays Spectral_line.txt 1 527 
+thallium Spectral_line.txt 1 441 
+auger Spectral_line.txt 1 916 
+divided Spectral_line.txt 1 803 
+regions Spectral_line.txt 1 883 
+very Spectral_line.txt 1 1468 
+hot Spectral_line.txt 2 328 371 
+if Spectral_line.txt 1 1329 
+profile Spectral_line.txt 7 945 1065 1420 1431 1462 1496 1524 
+may Spectral_line.txt 8 287 650 782 801 851 872 1100 1274 
+thermodynamic Spectral_line.txt 1 844 
+produce Spectral_line.txt 1 490 
+fe Spectral_line.txt 1 631 
+waves Spectral_line.txt 1 524 
+such Spectral_line.txt 4 438 547 677 1371 
+types Spectral_line.txt 2 156 1193 
+a Spectral_line.txt 60 53 75 78 82 102 173 185 197 201 212 254 284 327 334 342 361 370 379 383 391 542 551 591 652 715 741 759 764 769 775 831 880 924 929 934 977 985 1033 1063 1119 1130 1140 1159 1165 1181 1202 1226 1256 1281 1314 1324 1367 1373 1409 1458 1498 1509 1522 1548 1557 
+short Spectral_line.txt 1 925 
+natural Spectral_line.txt 2 896 947 
+light Spectral_line.txt 6 19 100 340 389 423 1470 
+spectra Spectral_line.txt 1 159 
+lines Spectral_line.txt 22 6 8 10 36 112 171 178 404 445 492 514 532 566 571 580 657 663 666 688 722 746 1566 
+element Spectral_line.txt 2 600 837 
+cascade Spectral_line.txt 1 255 
+ionized Spectral_line.txt 3 559 620 639 
+so Spectral_line.txt 6 23 455 601 625 627 1276 
+allow Spectral_line.txt 1 211 
+z-pinch Spectral_line.txt 1 1410 
+imploding Spectral_line.txt 1 1405 
+saturated Spectral_line.txt 1 1433 
+indeed Spectral_line.txt 1 1267 
+over Spectral_line.txt 4 341 390 763 1201 
+vary Spectral_line.txt 1 511 
+produced Spectral_line.txt 2 323 366 
+thermal Spectral_line.txt 2 966 1513 
+through Spectral_line.txt 3 333 425 1237 
+atom-photon Spectral_line.txt 1 487 
+affect Spectral_line.txt 1 1081 
+cold Spectral_line.txt 2 335 384 
+linewidth Spectral_line.txt 1 777 
+its Spectral_line.txt 6 281 312 780 786 865 922 
+chemical Spectral_line.txt 4 415 463 599 1568 
+decay Spectral_line.txt 2 913 958 
+energies Spectral_line.txt 1 261 
+lamp Spectral_line.txt 2 166 175 
+detected Spectral_line.txt 1 374 
+hidden Spectral_line.txt 1 1582 
+main Spectral_line.txt 1 970 
+macroscopic Spectral_line.txt 1 1307 
+then Spectral_line.txt 1 238 
+greater Spectral_line.txt 2 1257 1392 
+combination Spectral_line.txt 4 712 1034 1485 1510 
+material Spectral_line.txt 5 310 336 353 372 402 
+band Spectral_line.txt 1 659 
+effects Spectral_line.txt 6 827 894 1173 1190 1473 1539 
+they Spectral_line.txt 1 456 
+not Spectral_line.txt 4 21 28 768 1532 
+rotation Spectral_line.txt 1 1396 
+day Spectral_line.txt 1 77 
+represents Spectral_line.txt 1 636 
+term Spectral_line.txt 2 1121 1144 
+finite Spectral_line.txt 1 1325 
+designation Spectral_line.txt 4 546 596 607 660 
+edit Spectral_line.txt 18 160 529 758 895 898 969 1074 1115 1191 1221 1310 1413 1474 1570 1573 1575 1577 1580 
+always Spectral_line.txt 1 1533 
+classified Spectral_line.txt 2 690 1103 
+each Spectral_line.txt 5 888 989 1475 1489 1505 
+found Spectral_line.txt 1 725 
+lorentzian Spectral_line.txt 1 944 
+directly Spectral_line.txt 1 29 
+series Spectral_line.txt 9 676 681 684 692 695 697 700 702 748 
+energy Spectral_line.txt 5 209 216 271 923 931 
+gaussian Spectral_line.txt 1 1064 
+used Spectral_line.txt 6 115 138 411 430 459 1146 
+inhomogeneous Spectral_line.txt 3 1113 1116 1175 
+frequency Spectral_line.txt 7 104 248 344 393 505 771 1142 
+combining Spectral_line.txt 1 876 
+quantum Spectral_line.txt 1 186 
+wavelength Spectral_line.txt 3 648 789 1243 
+travels Spectral_line.txt 1 1236 
+space Spectral_line.txt 3 1206 1230 1238 
+since Spectral_line.txt 1 1028 
+suborbitals Spectral_line.txt 1 753 
+particles Spectral_line.txt 3 502 1079 1127 
+nominal Spectral_line.txt 1 787 
+denoted Spectral_line.txt 1 613 
+formula Spectral_line.txt 1 716 
+cause Spectral_line.txt 1 1280 
+occurs Spectral_line.txt 3 1097 1421 1465 
+red Spectral_line.txt 1 994 
+doppler Spectral_line.txt 7 967 972 999 1308 1320 1514 1543 
+mechanisms Spectral_line.txt 3 484 1478 1530 
+self-absorption Spectral_line.txt 1 1306 
+reason Spectral_line.txt 1 734 
+rises Spectral_line.txt 2 1444 1449 
+interaction Spectral_line.txt 3 183 488 498 
+times Spectral_line.txt 1 638 
+moving Spectral_line.txt 1 1315 
+probability Spectral_line.txt 1 1259 
+number Spectral_line.txt 3 617 654 881 
+one Spectral_line.txt 1 274 
+another Spectral_line.txt 2 316 1401 
+impossible Spectral_line.txt 1 154 
+given Spectral_line.txt 1 1166 
+temperature Spectral_line.txt 3 313 1015 1044 
+width Spectral_line.txt 2 1353 1357 
+leading Spectral_line.txt 1 1456 
+system Spectral_line.txt 3 187 220 278 
+broadened Spectral_line.txt 3 1247 1349 1377 
+their Spectral_line.txt 2 481 674 
+returns Spectral_line.txt 1 279 
+rates Spectral_line.txt 1 959 
+molecular Spectral_line.txt 2 144 662 
+shifted Spectral_line.txt 1 784 
+shell Spectral_line.txt 1 1407 
+that Spectral_line.txt 8 24 471 602 628 717 957 1055 1212 
+continuous Spectral_line.txt 3 3 92 161 
+part Spectral_line.txt 1 536 
+somewhat Spectral_line.txt 1 56 
+than Spectral_line.txt 6 486 1208 1260 1296 1438 1451 
+relative Spectral_line.txt 2 314 1008 
+isolation Spectral_line.txt 1 1482 
+intensity Spectral_line.txt 4 338 387 1287 1443 
+limiting Spectral_line.txt 1 1092 
+intensities Spectral_line.txt 2 1437 1471 
+iron Spectral_line.txt 1 640 
+were Spectral_line.txt 3 433 689 749 
+result Spectral_line.txt 4 181 852 873 1198 
+and Spectral_line.txt 29 32 39 91 119 133 135 143 148 168 196 311 354 408 442 467 513 624 649 698 709 756 797 813 933 1066 1136 1154 1516 1540 
+spectrum Spectral_line.txt 9 4 51 93 162 170 330 381 521 539 
+manner Spectral_line.txt 1 1550 
+have Spectral_line.txt 6 541 671 928 984 1255 1336 
+any Spectral_line.txt 1 418 
+contents Spectral_line.txt 1 155 
+depending Spectral_line.txt 2 493 1001 
+self Spectral_line.txt 1 1282 
+mid Spectral_line.txt 1 167 
+mechanism Spectral_line.txt 1 1506 
+also Spectral_line.txt 7 446 604 670 871 1101 1303 1572 
+absorbed Spectral_line.txt 2 237 275 
+which Spectral_line.txt 7 150 299 828 884 979 1095 1285 
+detector Spectral_line.txt 1 33 
+stoichiometry Spectral_line.txt 1 1155 
+blue Spectral_line.txt 1 54 
+multiple Spectral_line.txt 1 570 
+though Spectral_line.txt 1 561 
+393.366 Spectral_line.txt 1 554 
+eight Spectral_line.txt 1 637 
+especially Spectral_line.txt 1 1147 
+calculated Spectral_line.txt 1 745 
+later Spectral_line.txt 1 750 
+principle Spectral_line.txt 3 694 713 901 
+velocity Spectral_line.txt 4 1004 1327 1360 1384 
+typically Spectral_line.txt 1 427 
+called Spectral_line.txt 2 1183 1305 
+emerging Spectral_line.txt 1 556 
+rayleigh Spectral_line.txt 1 40 
+random Spectral_line.txt 1 357 
+discovered Spectral_line.txt 1 434 
+bright Spectral_line.txt 2 85 362 
+radio Spectral_line.txt 1 523 
+impact Spectral_line.txt 1 1518 
+wings.therefore Spectral_line.txt 1 1441 
+3 Spectral_line.txt 1 65 
+only Spectral_line.txt 1 953 
+molecules Spectral_line.txt 4 120 134 192 500 
+emitting Spectral_line.txt 5 836 981 1126 1217 1334 
+local Spectral_line.txt 7 811 822 843 893 1132 1162 1214 
+equilibrium Spectral_line.txt 1 845 
+means Spectral_line.txt 2 437 477 
+designated Spectral_line.txt 1 582 
+line-of-sight Spectral_line.txt 2 1326 1381 
+cannot Spectral_line.txt 1 472 
+reversal Spectral_line.txt 1 1283 
+collisional Spectral_line.txt 2 1538 1558 
+blends Spectral_line.txt 1 568 
+traverses Spectral_line.txt 1 864 
+distant Spectral_line.txt 1 1368 
+where Spectral_line.txt 2 256 1150 
+nist Spectral_line.txt 1 736 
+observer Spectral_line.txt 2 869 1011 
+rydberg-ritz Spectral_line.txt 1 711 
+observed Spectral_line.txt 4 289 304 517 1494 
+depends Spectral_line.txt 2 305 1241 
+individual Spectral_line.txt 1 1087 
+are Spectral_line.txt 17 113 136 179 373 405 457 567 581 612 791 885 980 1090 1128 1196 1213 1531 
+enhanced Spectral_line.txt 1 965 
+close Spectral_line.txt 1 57 
+subject Spectral_line.txt 1 1318 
+surfaces Spectral_line.txt 1 1151 
+ritz Spectral_line.txt 1 744 
+pattern Spectral_line.txt 1 720 
+wikipedia Spectral_line.txt 1 2 
+motional Spectral_line.txt 2 1184 1542 
+boundaries Spectral_line.txt 1 1153 
+state Spectral_line.txt 3 217 283 908 
+between Spectral_line.txt 2 30 184 
+off-resonant Spectral_line.txt 1 1440 
+reading Spectral_line.txt 1 1579 
+conditions Spectral_line.txt 9 451 483 812 818 823 850 1200 1211 1554 
+across Spectral_line.txt 2 518 704 
+nature Spectral_line.txt 1 1106 
+emitted Spectral_line.txt 8 265 991 1039 1053 1084 1224 1312 1365 
+however Spectral_line.txt 1 1525 
+spectroscopic Spectral_line.txt 1 436 
+orbitals Spectral_line.txt 1 233 
+extent Spectral_line.txt 1 956 
+analyzed Spectral_line.txt 1 474 
+article Spectral_line.txt 1 971 
+suppressed Spectral_line.txt 1 963 
+many Spectral_line.txt 1 664 
+region Spectral_line.txt 2 833 1204 
+uncertainty Spectral_line.txt 3 900 920 932 
+nomenclature Spectral_line.txt 1 528 
+emit Spectral_line.txt 1 1138 
+assure Spectral_line.txt 1 842 
+roman Spectral_line.txt 3 592 616 634 
+grain Spectral_line.txt 1 1152 
+designations Spectral_line.txt 2 643 672 
+nearby Spectral_line.txt 2 109 1078 
+unshifted Spectral_line.txt 1 943 
+point Spectral_line.txt 1 1228 
+reasons Spectral_line.txt 2 793 800 
+ca Spectral_line.txt 3 560 603 608 
+environments Spectral_line.txt 1 1163 
+simply Spectral_line.txt 1 1209 
+incandescent Spectral_line.txt 1 165 
+i.e Spectral_line.txt 2 69 772 
+wider Spectral_line.txt 1 1020 
+broadening Spectral_line.txt 30 755 796 808 814 819 846 890 897 938 948 968 973 1058 1073 1099 1114 1117 1123 1176 1186 1195 1220 1309 1412 1415 1459 1464 1515 1520 1529 
+described Spectral_line.txt 1 1061 
+lyman Spectral_line.txt 1 680 
+capable Spectral_line.txt 1 420 
+addition Spectral_line.txt 1 779 
+west Spectral_line.txt 1 73 
+create Spectral_line.txt 1 1158 
+radiative Spectral_line.txt 4 912 1411 1414 1463 
+due Spectral_line.txt 12 348 397 809 815 820 825 847 891 909 1187 1322 1378 
+much Spectral_line.txt 1 1435 
+combined Spectral_line.txt 1 1472 
+collected Spectral_line.txt 1 129 
+pm Spectral_line.txt 1 68 
+rather Spectral_line.txt 1 1207 
+gas Spectral_line.txt 8 26 428 454 978 1018 1027 1047 1056 
+coherent Spectral_line.txt 1 1549 
+an Spectral_line.txt 11 88 164 225 230 292 296 319 906 942 1086 1404 
+diffuse Spectral_line.txt 1 699 
+case Spectral_line.txt 1 223 
+has Spectral_line.txt 3 203 605 774 
+these Spectral_line.txt 5 121 701 747 799 1477 
+single Spectral_line.txt 3 198 501 770 
+profiles Spectral_line.txt 1 1503 
+spontaneously Spectral_line.txt 1 242 
+will Spectral_line.txt 9 240 266 510 927 983 992 1080 1347 1375 
+near Spectral_line.txt 1 1270 
+shift Spectral_line.txt 4 757 798 1071 1321 
+ix Spectral_line.txt 2 632 633 
+is Spectral_line.txt 28 27 45 49 81 228 236 303 322 346 365 395 429 714 824 1032 1060 1068 1118 1145 1177 1246 1294 1302 1317 1403 1432 1491 1497 
+thus Spectral_line.txt 1 137 
+it Spectral_line.txt 6 239 426 773 863 870 1235 
+according Spectral_line.txt 1 583 
+ii Spectral_line.txt 2 609 623 
+in Spectral_line.txt 32 37 71 87 101 214 221 245 253 356 375 533 576 726 778 830 941 976 1025 1129 1170 1229 1284 1297 1383 1408 1426 1446 1453 1481 1484 1547 1556 
+helium Spectral_line.txt 1 440 
+increased Spectral_line.txt 1 396 
+different Spectral_line.txt 6 574 1131 1141 1330 1337 1527 
+etc Spectral_line.txt 1 503 
+radiation Spectral_line.txt 8 861 878 982 1040 1083 1223 1311 1364 
+same Spectral_line.txt 1 247 
+shifts Spectral_line.txt 1 1544 
+parts Spectral_line.txt 1 1331 
+widely Spectral_line.txt 2 458 512 
+9 Spectral_line.txt 1 635 
+several Spectral_line.txt 3 431 573 792 
+composition Spectral_line.txt 2 416 464 
+higher Spectral_line.txt 2 1013 1042 
+independent Spectral_line.txt 2 1492 1534 
+extended Spectral_line.txt 2 817 849 
+see Spectral_line.txt 1 1571 
+upon Spectral_line.txt 1 1210 
+effect Spectral_line.txt 5 939 1000 1059 1490 1564 
+liquids Spectral_line.txt 1 1171 
+changing Spectral_line.txt 1 232 
+lower Spectral_line.txt 1 1436 
+center Spectral_line.txt 6 781 1254 1273 1290 1428 1455 
+database Spectral_line.txt 1 739 
+i Spectral_line.txt 1 618 
+variety Spectral_line.txt 1 1160 
+well Spectral_line.txt 1 479 
+blue"-shifted Spectral_line.txt 1 996 
+solids Spectral_line.txt 1 1149 
+components Spectral_line.txt 1 145 
+the Spectral_line.txt 127 17 25 46 50 59 72 108 127 141 180 205 215 219 222 234 246 250 257 260 263 270 273 277 307 337 352 376 386 401 414 449 453 462 495 504 507 519 534 538 564 579 585 595 598 606 615 646 679 710 719 730 735 835 856 860 868 875 899 903 915 919 946 955 974 998 1003 1006 1010 1012 1014 1017 1019 1021 1026 1029 1038 1041 1043 1046 1048 1050 1075 1082 1105 1108 1172 1197 1216 1244 1249 1252 1261 1264 1268 1271 1286 1289 1292 1298 1333 1340 1344 1351 1356 1359 1380 1389 1391 1393 1397 1399 1417 1423 1427 1430 1439 1447 1454 1461 1493 1501 1512 1517 1526 1537 1541 1562 
+otherwise Spectral_line.txt 2 89 152 
+bodies Spectral_line.txt 1 470 
+velocities Spectral_line.txt 3 988 1024 1338 
+less Spectral_line.txt 1 1295 
+re-emitted Spectral_line.txt 1 243 
+identify Spectral_line.txt 3 117 140 413 
+atomic Spectral_line.txt 4 142 194 656 668 
+predicts Spectral_line.txt 1 718 
+multiplet Spectral_line.txt 1 653 
+scattering Spectral_line.txt 1 41 
+convolution Spectral_line.txt 1 1499 
+letting Spectral_line.txt 1 422 
+adding Spectral_line.txt 1 590 
+absorption Spectral_line.txt 11 7 9 98 297 320 350 1240 1419 1425 1445 1452 
+photons Spectral_line.txt 6 264 325 368 509 1250 1262 
+sky Spectral_line.txt 1 55 
+dicke Spectral_line.txt 1 1563 
+sometimes Spectral_line.txt 3 191 1178 1304 
+source Spectral_line.txt 7 20 31 47 318 331 385 1316 
+extends Spectral_line.txt 1 762 
+4 Spectral_line.txt 1 67 
+east Spectral_line.txt 1 62 
+plasma Spectral_line.txt 1 1406 
+excited Spectral_line.txt 1 907 
+re-emission Spectral_line.txt 1 355 
+around Spectral_line.txt 2 64 834 
+dark Spectral_line.txt 1 83 
+voigt Spectral_line.txt 1 1523 
+unique Spectral_line.txt 1 543 
+wings Spectral_line.txt 3 1266 1299 1448 
+particle Spectral_line.txt 2 1088 1218 
+follows Spectral_line.txt 1 1112 
+fingerprints Spectral_line.txt 2 122 130 
+yields Spectral_line.txt 1 1521 
+either Spectral_line.txt 2 244 290 
+reduced Spectral_line.txt 2 347 1179 
+right Spectral_line.txt 1 206 
+often Spectral_line.txt 2 114 540 
+some Spectral_line.txt 3 562 1125 1553 
+sight Spectral_line.txt 1 1343 
+altered Spectral_line.txt 1 952 
+indirect Spectral_line.txt 1 14 
+nonzero Spectral_line.txt 1 776 
+for Spectral_line.txt 14 11 550 629 655 661 732 743 794 1122 1148 1164 1362 1507 1535 
+bottom Spectral_line.txt 1 176 
+electromagnetic Spectral_line.txt 2 520 1222 
+opposite Spectral_line.txt 1 1386 
+equal Spectral_line.txt 1 268 
+assuming Spectral_line.txt 2 276 1488 
+be Spectral_line.txt 19 124 153 241 267 288 410 473 516 724 783 802 950 961 993 1102 1232 1275 1348 1376 
+pressure Spectral_line.txt 3 1072 1098 1519 
+fluorescent Spectral_line.txt 1 174 
+by Spectral_line.txt 13 351 359 400 435 475 589 997 1062 1085 1094 1104 1180 1313 
+on Spectral_line.txt 8 74 306 448 494 626 1002 1242 1385 
+about Spectral_line.txt 1 204 
+central Spectral_line.txt 1 788 
+column Spectral_line.txt 1 742 
+of Spectral_line.txt 69 42 52 99 131 146 157 163 172 182 208 218 224 259 262 272 301 309 339 378 388 417 421 452 465 506 537 563 569 587 597 667 693 706 721 729 766 859 877 882 905 921 987 1005 1016 1023 1035 1037 1045 1077 1107 1161 1174 1194 1199 1205 1291 1332 1342 1358 1388 1395 1416 1429 1460 1476 1500 1504 1511 1567 
+range Spectral_line.txt 4 105 345 394 765 
+horizon Spectral_line.txt 1 60 
+act Spectral_line.txt 2 1480 1546 
+or Spectral_line.txt 12 66 84 97 193 252 295 658 682 914 964 995 1483 
+gamma Spectral_line.txt 1 526 
+presence Spectral_line.txt 2 377 1076 
+previously Spectral_line.txt 1 128 
+into Spectral_line.txt 2 691 804 
+within Spectral_line.txt 1 673 
+perturbing Spectral_line.txt 1 1109 
+because Spectral_line.txt 3 1124 1248 1422 
+references Spectral_line.txt 1 1576 
+determine Spectral_line.txt 1 461 
+proportional Spectral_line.txt 1 1354 
+reabsorbed Spectral_line.txt 1 1233 
+there Spectral_line.txt 3 790 1067 1089 
+sunlight Spectral_line.txt 2 38 44 
+occupy Spectral_line.txt 1 1169 
+low Spectral_line.txt 1 1469 
+stars Spectral_line.txt 2 147 466 
+medium Spectral_line.txt 1 419 
+enough Spectral_line.txt 1 840 
+fraunhofer Spectral_line.txt 3 35 544 565 
+but Spectral_line.txt 1 190 
+neutral Spectral_line.txt 1 610 
+atom Spectral_line.txt 3 226 1007 1167 
+line Spectral_line.txt 30 1 80 86 158 286 294 298 302 321 364 545 552 647 738 754 761 1031 1052 1245 1253 1265 1272 1293 1341 1346 1352 1400 1495 1502 1528 
+with Spectral_line.txt 9 16 107 499 614 622 752 918 1350 1486 
+variations Spectral_line.txt 2 1156 1382 
+distribution Spectral_line.txt 4 858 986 1022 1361 
+clear Spectral_line.txt 1 76 
+detailed Spectral_line.txt 1 642 
+celestial Spectral_line.txt 1 469 
+associated Spectral_line.txt 2 751 1070 
+certain Spectral_line.txt 1 1192 
+singly Spectral_line.txt 2 558 619 
+general Spectral_line.txt 2 806 1120 
+balmer Spectral_line.txt 1 683 
+as Spectral_line.txt 14 249 291 439 478 480 548 678 862 1111 1234 1278 1372 1442 1561 
+exist Spectral_line.txt 1 703 
+at Spectral_line.txt 9 63 553 1139 1225 1251 1263 1288 1434 1467 
+planets Spectral_line.txt 1 149 
+relates Spectral_line.txt 1 902 
+lifetime Spectral_line.txt 2 904 926 
+physical Spectral_line.txt 3 450 482 497 
+compared Spectral_line.txt 2 106 125 
+nm Spectral_line.txt 1 555 
+no Spectral_line.txt 1 1069 
+when Spectral_line.txt 3 200 324 367 
+narrowing Spectral_line.txt 2 1185 1559 
+other Spectral_line.txt 5 468 476 485 577 889 
+artificially Spectral_line.txt 1 962 
+opacity Spectral_line.txt 1 1219 
+elements Spectral_line.txt 4 432 708 731 1569 
+star Spectral_line.txt 2 1374 1390 
+photon Spectral_line.txt 4 199 202 235 990 
+non-local Spectral_line.txt 1 1189 
+on-resonance Spectral_line.txt 1 1424 
+sides Spectral_line.txt 1 1387 
+reabsorption Spectral_line.txt 2 1258 1269 
+faster Spectral_line.txt 1 1450 
+broad Spectral_line.txt 3 329 380 935 
+nuclei Spectral_line.txt 1 195 
+original Spectral_line.txt 2 251 282 

@@ -1,0 +1,2158 @@
+writings Thales.txt 3 558 7850 7998 
+four Thales.txt 1 206 
+controversial Thales.txt 3 5324 5849 8573 
+oldest Thales.txt 2 4623 5352 
+saved Thales.txt 2 3165 3229 
+whose Thales.txt 2 434 8369 
+calculate Thales.txt 5 178 2620 2752 5457 5999 
+granting Thales.txt 1 3878 
+electricity Thales.txt 1 7275 
+plutarch Thales.txt 4 497 1817 5138 7690 
+schnabel Thales.txt 1 6422 
+heraclitus Thales.txt 2 3330 6492 
+under Thales.txt 5 1127 3122 3384 3579 3819 
+worth Thales.txt 2 5202 7816 
+merchant Thales.txt 1 1606 
+conjecture Thales.txt 1 3273 
+rise Thales.txt 8 2463 2502 2512 2562 2586 2598 2647 7035 
+every Thales.txt 2 3443 3449 
+upstream Thales.txt 1 1191 
+school Thales.txt 7 6446 6601 7222 7227 7239 8758 8776 
+prize Thales.txt 1 1735 
+naturalist Thales.txt 1 6749 
+viable Thales.txt 1 4738 
+corpora Thales.txt 1 6790 
+force Thales.txt 1 663 
+approximation Thales.txt 1 6038 
+second Thales.txt 12 468 891 2259 2740 2806 5296 5821 6376 6923 7684 8001 8155 
+subordinate Thales.txt 1 4439 
+sterile Thales.txt 1 3590 
+even Thales.txt 11 3259 4634 5780 6334 7598 7829 8153 8261 8586 8669 8801 
+established Thales.txt 3 352 1581 6851 
+errors Thales.txt 2 5929 8199 
+jaeger Thales.txt 1 8839 
+asia Thales.txt 1 38 
+children Thales.txt 2 527 1593 
+above Thales.txt 1 1046 
+eudemus Thales.txt 9 2699 2872 4678 4713 4811 4981 4996 6150 8677 
+new Thales.txt 7 935 6645 6684 6695 7046 7059 7067 
+ever Thales.txt 3 3958 5537 6686 
+told Thales.txt 4 500 979 2375 5177 
+agreement Thales.txt 1 7825 
+notions Thales.txt 2 2951 6482 
+never Thales.txt 1 471 
+kindred Thales.txt 1 3793 
+equals Thales.txt 4 2959 2962 2966 2969 
+drew Thales.txt 3 2917 3335 3949 
+atoms Thales.txt 1 2211 
+reported Thales.txt 4 152 1425 2701 3005 
+protection Thales.txt 1 3821 
+path Thales.txt 1 4504 
+100 Thales.txt 1 1825 
+interpret Thales.txt 1 7613 
+neopythagoreanism Thales.txt 1 4143 
+substance Thales.txt 15 145 170 3024 3120 3195 3227 3341 3997 4416 4459 4483 6808 6837 7146 7251 
+elaborate Thales.txt 1 4123 
+changed Thales.txt 2 4153 4205 
+reports Thales.txt 1 446 
+anchor Thales.txt 1 7994 
+military Thales.txt 1 1444 
+settled Thales.txt 1 1007 
+fathered Thales.txt 1 453 
+diameter Thales.txt 4 2857 2885 4901 5166 
+swearing Thales.txt 1 1116 
+divide Thales.txt 1 7629 
+campaign Thales.txt 1 1561 
+explained Thales.txt 1 1895 
+brought Thales.txt 1 6643 
+remnant Thales.txt 1 993 
+pre-existence Thales.txt 1 4612 
+total Thales.txt 2 1625 4478 
+experimentation Thales.txt 1 4772 
+rationalist Thales.txt 1 8497 
+would Thales.txt 19 878 893 1521 1998 2616 2922 3540 3825 3870 3906 3965 6044 6107 6778 7192 7489 7901 7917 8600 
+army Thales.txt 4 959 1185 1263 3758 
+anaxagoras Thales.txt 1 8303 
+potters Thales.txt 1 7990 
+therefore Thales.txt 1 7300 
+type Thales.txt 1 3171 
+until Thales.txt 3 1513 3591 6373 
+fractions Thales.txt 2 2569 2574 
+whatsoever Thales.txt 2 5203 7817 
+holy Thales.txt 1 7434 
+populations Thales.txt 1 4347 
+clearly Thales.txt 1 5264 
+brings Thales.txt 2 3483 3524 
+democritus Thales.txt 2 298 427 
+dogma Thales.txt 1 3426 
+93 Thales.txt 2 2605 2627 
+hold Thales.txt 5 3055 3826 4073 4394 6423 
+must Thales.txt 11 1532 2436 3317 4227 4335 4398 5918 6179 6194 6219 6227 
+word Thales.txt 3 2013 4134 5755 
+room Thales.txt 1 2328 
+thales Thales.txt 188 0 6 11 13 89 153 174 209 234 260 276 303 343 371 393 428 449 505 513 540 584 611 620 650 674 715 732 776 808 837 860 907 1060 1088 1165 1273 1365 1434 1484 1495 1546 1564 1696 1708 1751 1761 1839 1867 1894 1916 1937 1938 1951 1959 1981 2262 2272 2355 2614 2664 2685 2812 2815 2819 2834 2841 2908 2934 2979 3006 3046 3077 3166 3243 3276 3292 3304 3313 3334 3352 3379 3392 3425 3453 3488 3511 3548 3599 3676 3717 3769 3836 3864 3869 3940 3956 4013 4027 4071 4096 4111 4146 4167 4207 4368 4407 4442 4518 4608 4658 4707 4752 4763 4786 4801 4815 4882 4888 4918 4984 5017 5026 5051 5077 5086 5187 5213 5231 5257 5382 5439 5449 5559 5610 5666 5678 5720 5854 5957 6050 6069 6138 6178 6223 6336 6484 6517 6582 6628 6655 6725 6745 6800 6963 6992 7026 7043 7102 7274 7290 7311 7324 7331 7348 7384 7562 7567 7634 7714 7774 7895 7930 8015 8111 8123 8272 8294 8311 8328 8346 8358 8381 8539 8545 8695 8783 8791 8815 
+work Thales.txt 10 1830 3002 3883 4725 7873 8370 8382 8397 8711 8736 
+eclipse Thales.txt 11 375 1041 1065 1554 1626 1755 5459 5516 5619 5658 5673 
+entertained Thales.txt 1 83 
+theories Thales.txt 4 114 1840 5760 6211 
+dubbed Thales.txt 1 8485 
+era Thales.txt 5 5955 7389 7670 7929 8121 
+determining Thales.txt 2 3848 5980 
+example Thales.txt 9 1882 2178 2290 2542 2582 6854 6994 7977 8052 
+indicated Thales.txt 1 1976 
+cited Thales.txt 2 2711 8233 
+honey Thales.txt 1 3979 
+indicates Thales.txt 3 1818 2445 8715 
+plautus Thales.txt 1 7687 
+present-day Thales.txt 2 40 2492 
+cites Thales.txt 2 5076 5503 
+end Thales.txt 2 2726 4474 
+turn Thales.txt 1 3342 
+travel Thales.txt 2 6176 7335 
+astronomers Thales.txt 1 5596 
+how Thales.txt 8 731 3211 3887 4070 5028 5437 6300 6724 
+hot Thales.txt 1 3261 
+writers Thales.txt 8 324 4365 6512 7263 7878 7894 8004 8229 
+significance Thales.txt 1 4020 
+boats Thales.txt 1 3722 
+ordinary Thales.txt 2 1596 4345 
+oceans Thales.txt 1 3367 
+transforming Thales.txt 1 3125 
+earlier Thales.txt 5 499 5597 7964 8045 8425 
+confirmed Thales.txt 1 8633 
+less Thales.txt 6 5848 7859 8188 8626 8670 8679 
+wrong Thales.txt 1 8202 
+saros Thales.txt 2 5465 5557 
+teos Thales.txt 1 1383 
+third Thales.txt 2 2746 8158 
+attracts Thales.txt 1 4191 
+lands Thales.txt 1 6073 
+hypotheses Thales.txt 2 116 1875 
+greek Thales.txt 22 20 30 65 440 1990 2162 3418 3746 4687 4745 5081 5234 5259 5266 5353 5595 6144 6473 6867 7297 7571 8020 
+maintain Thales.txt 2 3541 8554 
+ultimate Thales.txt 1 144 
+things Thales.txt 23 1941 2057 2306 2322 2337 3137 3160 3237 3254 3389 3433 3610 3621 4017 4331 4372 4529 4541 4649 6890 6922 6948 7471 
+first Thales.txt 31 61 75 194 214 637 873 881 896 996 1487 1804 2040 2161 2223 2267 2674 2976 3109 4384 4392 4686 4744 4818 4891 4925 4978 5054 5080 6910 7401 7672 
+order Thales.txt 1 8088 
+wine Thales.txt 2 3695 3974 
+over Thales.txt 3 1011 2652 5227 
+thesis Thales.txt 1 2987 
+innovative Thales.txt 1 2277 
+hecataeus Thales.txt 1 8362 
+before Thales.txt 10 1316 1847 2321 4664 4672 5498 6679 7599 7637 7716 
+surviving Thales.txt 3 8108 8334 8660 
+fit Thales.txt 2 5919 5941 
+personal Thales.txt 1 847 
+writing Thales.txt 9 253 269 572 3371 5339 6672 7649 7664 7753 
+better Thales.txt 1 7960 
+production Thales.txt 1 2198 
+400 Thales.txt 1 5530 
+hidden Thales.txt 1 8910 
+c.e Thales.txt 2 7654 7663 
+then Thales.txt 11 320 443 934 1159 2125 3027 4577 6282 8219 8232 8283 
+them Thales.txt 18 660 788 1248 1367 1848 1896 2330 3461 3661 5487 6121 6246 7265 7368 7921 8148 8238 8686 
+enrich Thales.txt 1 816 
+peoples Thales.txt 1 1003 
+emigrated Thales.txt 1 1496 
+they Thales.txt 17 833 2202 2921 2931 3129 4334 4512 4885 5938 6094 6274 6788 7104 7247 7600 7751 8242 
+shadows Thales.txt 2 687 2390 
+represents Thales.txt 1 7044 
+several Thales.txt 4 529 712 1642 7776 
+eusebius Thales.txt 1 7689 
+l Thales.txt 4 17 5242 5794 6496 
+each Thales.txt 2 7259 8178 
+went Thales.txt 1 1697 
+berossus Thales.txt 1 6434 
+side Thales.txt 1 5014 
+lasting Thales.txt 1 4085 
+doxographers Thales.txt 1 8064 
+preceded Thales.txt 1 2663 
+independent Thales.txt 1 4611 
+principles Thales.txt 3 2045 2054 4856 
+phoenicians Thales.txt 2 318 3704 
+taught Thales.txt 2 3380 6520 
+magnets Thales.txt 1 1967 
+anacharsis Thales.txt 1 7983 
+conjectures Thales.txt 1 3034 
+god Thales.txt 9 3560 3593 3797 4468 4532 4614 4620 4655 6999 
+tales Thales.txt 1 6067 
+crucial Thales.txt 1 5909 
+laid Thales.txt 2 3059 6215 
+millennium Thales.txt 2 5822 7667 
+conjectured Thales.txt 1 3241 
+heavenly Thales.txt 2 5763 5837 
+got Thales.txt 1 1183 
+foundation Thales.txt 1 7533 
+customarily Thales.txt 1 1587 
+barrier Thales.txt 1 3768 
+pre-socratics Thales.txt 2 7181 8413 
+little Thales.txt 2 4500 6414 
+free Thales.txt 2 1361 6974 
+inscribe Thales.txt 1 5056 
+assures Thales.txt 1 4521 
+attributions Thales.txt 1 8206 
+whereupon Thales.txt 1 5063 
+egyptians Thales.txt 11 2566 2612 2916 5049 5703 5817 5829 5865 5972 5996 6097 
+nietzsche Thales.txt 1 6855 
+anthropomorphic Thales.txt 1 1862 
+created Thales.txt 4 1471 3263 4539 4653 
+ritual Thales.txt 2 3778 3811 
+tempting Thales.txt 1 1538 
+arrived Thales.txt 1 6715 
+already Thales.txt 5 1072 5818 6653 8603 8647 
+chronologically Thales.txt 2 2102 2167 
+hearsay Thales.txt 1 8823 
+croesus Thales.txt 8 948 1076 1129 1232 1313 1338 1443 1558 
+atomists Thales.txt 1 2214 
+channels Thales.txt 1 1206 
+philosophical Thales.txt 4 2982 7063 7341 8266 
+anaximenes Thales.txt 4 3404 6489 6585 7730 
+relations Thales.txt 1 5309 
+another Thales.txt 4 767 1085 4969 5584 
+dominating Thales.txt 1 4436 
+historian Thales.txt 11 285 3570 5240 5325 5504 5717 5867 5944 6494 6621 7623 
+heights Thales.txt 1 180 
+needed Thales.txt 1 1151 
+too Thales.txt 3 483 495 952 
+non-divine Thales.txt 1 4489 
+corpus Thales.txt 1 6313 
+legs Thales.txt 1 2409 
+hippias Thales.txt 1 8565 
+stuff...water Thales.txt 1 4047 
+took Thales.txt 3 1351 5542 7153 
+wisdom Thales.txt 3 1339 1690 8098 
+western Thales.txt 3 78 2268 7302 
+somewhat Thales.txt 1 951 
+peculiar Thales.txt 1 6481 
+begins Thales.txt 1 7096 
+distance Thales.txt 5 185 2763 2811 3720 5032 
+guild Thales.txt 1 6539 
+showed Thales.txt 2 1264 5027 
+likely Thales.txt 5 1071 3350 5885 8671 8680 
+duris Thales.txt 1 296 
+matter Thales.txt 20 165 1924 1954 1975 1978 2050 2062 2067 2240 2680 3013 3065 3284 4277 4309 4327 4596 6816 8478 8532 
+historical Thales.txt 4 2905 5201 7596 7815 
+powers Thales.txt 1 7464 
+iamblichus Thales.txt 1 7692 
+sees Thales.txt 1 7455 
+ran Thales.txt 1 1207 
+disambiguation Thales.txt 1 12 
+modern Thales.txt 9 369 2247 2546 5790 6985 7607 8482 8499 8522 
+mind Thales.txt 10 2154 4307 4418 4435 4453 4481 4517 4535 4546 4581 
+formula Thales.txt 2 6018 6024 
+manner Thales.txt 1 4952 
+seen Thales.txt 4 3308 3872 3908 3927 
+seem Thales.txt 3 3968 8338 8601 
+tells Thales.txt 4 1270 1464 6673 6913 
+contents Thales.txt 1 225 
+affairs Thales.txt 1 7952 
+concrete Thales.txt 1 7506 
+latter Thales.txt 2 7771 8070 
+responsible Thales.txt 1 8738 
+isolated Thales.txt 1 7098 
+subjects Thales.txt 2 1312 6103 
+forces Thales.txt 1 3829 
+circles Thales.txt 1 2856 
+depersonify Thales.txt 1 4450 
+though Thales.txt 5 3052 4455 4947 4985 8487 
+object Thales.txt 6 1647 1994 2112 2201 3163 3200 
+regular Thales.txt 1 6563 
+philosophic Thales.txt 3 6538 7184 8305 
+observation Thales.txt 2 1805 4771 
+45-degree Thales.txt 1 2412 
+calculated Thales.txt 1 1784 
+camp Thales.txt 1 1213 
+flow Thales.txt 1 1197 
+points Thales.txt 15 2341 3647 3673 3937 4082 5244 5445 5575 5797 6466 7819 7885 8100 8208 8629 
+principle Thales.txt 12 158 2059 2077 2090 2977 3017 3135 3282 3386 4270 4490 4526 
+enterprise Thales.txt 1 843 
+section Thales.txt 2 5902 8770 
+came Thales.txt 4 1577 1705 5237 5886 
+saying Thales.txt 2 391 2219 
+aquatic Thales.txt 1 3670 
+josephus Thales.txt 2 5712 7691 
+sage Thales.txt 2 1086 1488 
+attempts Thales.txt 1 7055 
+stepping Thales.txt 1 7072 
+sundial Thales.txt 1 5778 
+earth Thales.txt 8 1901 1911 2185 3316 3347 3355 4162 4566 
+divinity Thales.txt 1 4139 
+quoted Thales.txt 2 670 2544 
+newtonian-style Thales.txt 1 2310 
+explain Thales.txt 6 100 774 1870 6570 6968 7449 
+mens Thales.txt 1 4582 
+colonists Thales.txt 1 617 
+546 Thales.txt 1 25 
+rich Thales.txt 1 3684 
+monuments Thales.txt 1 6082 
+predecessor Thales.txt 2 4705 4739 
+do Thales.txt 7 913 2082 2193 2209 2845 6291 8009 
+dl Thales.txt 1 2377 
+mixture Thales.txt 1 6500 
+de Thales.txt 1 1932 
+fluid Thales.txt 1 4046 
+preferred Thales.txt 1 8134 
+hypothesizing Thales.txt 1 1898 
+deliberative Thales.txt 1 1377 
+altogether Thales.txt 1 5660 
+report Thales.txt 2 1503 7314 
+stoa Thales.txt 1 1455 
+fields Thales.txt 2 4569 6525 
+twice Thales.txt 1 1732 
+411 Thales.txt 1 1934 
+analytical Thales.txt 1 6319 
+womb Thales.txt 1 6887 
+explanations Thales.txt 4 150 1852 7353 7365 
+priene Thales.txt 1 7934 
+erroneous Thales.txt 1 8291 
+reference Thales.txt 3 1857 2547 2710 
+emergent Thales.txt 1 7013 
+observed Thales.txt 2 2912 6971 
+result Thales.txt 2 1890 4475 
+techniques Thales.txt 1 4769 
+euclids Thales.txt 1 5299 
+said Thales.txt 5 2292 2698 4388 4920 6440 
+wikipedia Thales.txt 1 3 
+symmetric Thales.txt 1 5924 
+approach Thales.txt 2 7159 7234 
+360 Thales.txt 1 6395 
+discovery Thales.txt 3 221 2877 5160 
+indecisive Thales.txt 1 1226 
+we Thales.txt 16 1520 1531 1541 2615 3182 5125 5220 5343 5427 5434 6323 6531 7002 7615 8010 8144 
+men Thales.txt 4 1148 7899 7945 8463 
+terms Thales.txt 3 1101 1401 7544 
+nature Thales.txt 12 129 160 163 1512 1989 3010 3019 3148 3619 6772 7355 7481 
+physiologist Thales.txt 1 6766 
+however Thales.txt 10 325 1398 1492 4406 4444 4495 5322 5476 6955 7210 
+extent Thales.txt 1 6455 
+received Thales.txt 2 1399 1565 
+essentially Thales.txt 2 6272 7943 
+aristotles Thales.txt 8 3184 3272 8279 8376 8416 8467 8605 8673 
+paralyzing Thales.txt 1 1228 
+papyrus Thales.txt 2 2485 2508 
+against Thales.txt 4 925 1135 1562 6508 
+participating Thales.txt 1 3808 
+games Thales.txt 1 416 
+iron Thales.txt 2 656 1969 
+receives Thales.txt 1 5388 
+faces Thales.txt 1 5936 
+distinction Thales.txt 2 4305 4317 
+asked Thales.txt 5 507 857 1985 3197 4247 
+2nd Thales.txt 1 256 
+foray Thales.txt 1 841 
+proceeded Thales.txt 2 3028 4497 
+basis Thales.txt 1 7201 
+union Thales.txt 1 7286 
+mythological Thales.txt 1 149 
+three Thales.txt 3 2720 6908 8886 
+been Thales.txt 14 223 1299 2438 4400 4703 4710 4923 5454 5469 6205 6229 6691 6714 7194 
+cyrus Thales.txt 5 1128 1322 1333 1403 1563 
+much Thales.txt 2 1518 8722 
+interest Thales.txt 2 7575 8520 
+expected Thales.txt 1 5500 
+collections Thales.txt 1 6661 
+superhuman Thales.txt 1 8097 
+derives Thales.txt 1 7131 
+life Thales.txt 8 226 344 909 1980 3888 4272 7590 8696 
+embryonically Thales.txt 1 6943 
+cotangent Thales.txt 3 2467 2538 2622 
+concerning Thales.txt 3 5212 7143 8691 
+doubts Thales.txt 1 8260 
+applied Thales.txt 3 201 4147 4169 
+contemplated Thales.txt 1 3770 
+phyein Thales.txt 1 2007 
+originate Thales.txt 2 4294 8270 
+air Thales.txt 3 2186 3344 3412 
+apocryphal Thales.txt 1 6248 
+suppose Thales.txt 1 2549 
+flooding Thales.txt 2 3737 6214 
+syros Thales.txt 1 589 
+procedure Thales.txt 2 6280 6304 
+seven Thales.txt 6 49 230 1067 1468 1529 7906 
+pyramid Thales.txt 4 2432 2554 5926 6008 
+played Thales.txt 1 7947 
+deities Thales.txt 1 3629 
+is Thales.txt 137 69 90 192 212 657 978 1094 1374 1500 1649 1799 1912 1925 2016 2021 2030 2060 2063 2071 2074 2093 2119 2128 2131 2133 2217 2220 2244 2257 2263 2300 2308 2332 2364 2374 2410 2470 2555 2584 2591 2599 2648 2678 2719 2741 2776 2809 2881 3101 3115 3131 3142 3177 3202 3224 3228 3255 3262 3285 3297 3307 3323 3429 3435 3438 3514 3587 4093 4112 4261 4524 4533 4681 4720 4736 4750 4803 4897 4919 5170 5223 5262 5323 5330 5394 5450 5560 5567 5713 5757 5858 5890 6281 6349 6359 6439 6463 6554 6638 6697 6721 6804 6817 6819 6827 6881 6891 6905 6944 7027 7065 7085 7090 7199 7241 7391 7425 7428 7438 7494 7509 7823 7869 8032 8049 8371 8504 8518 8525 8571 8666 8699 8707 8720 8727 8737 8817 
+it Thales.txt 71 481 493 1057 1108 1199 1328 1449 1571 1692 1713 1997 2029 2100 2141 2147 2176 2207 2303 3056 3108 3114 3123 3141 3176 3203 3270 3294 3348 3363 3370 3437 3505 3596 3761 3814 3935 3948 4120 4179 4280 4283 4456 4651 4719 5289 5340 5397 5593 6545 6553 6826 6892 6904 6912 6925 6940 7095 7390 7456 7459 7476 7523 8374 8385 8473 8491 8502 8524 8542 8547 8816 
+defeated Thales.txt 1 1315 
+characterize Thales.txt 1 6632 
+in Thales.txt 178 37 42 63 77 86 127 172 238 270 288 359 543 645 709 744 753 780 810 920 939 980 1037 1051 1073 1140 1220 1287 1384 1407 1460 1472 1559 1583 1613 1630 1656 1664 1671 1820 1834 2000 2031 2046 2113 2153 2155 2179 2253 2309 2369 2376 2491 2518 2529 2545 2587 2637 2704 2835 2850 2870 3000 3078 3126 3179 3208 3325 3494 3543 3582 3690 3723 3809 3959 3973 4001 4023 4138 4300 4303 4377 4385 4422 4552 4556 4635 4712 4757 4837 4845 4863 4871 4948 4997 5057 5068 5174 5265 5268 5278 5294 5314 5375 5586 5652 5819 5921 5930 5953 6059 6071 6143 6160 6169 6230 6325 6447 6458 6513 6523 6578 6599 6608 6634 6677 6682 6841 6856 6859 6928 6939 6972 6983 7015 7040 7071 7087 7169 7228 7350 7354 7358 7369 7406 7504 7543 7550 7570 7617 7650 7659 7764 7802 7888 7950 7996 8019 8024 8038 8068 8087 8106 8126 8147 8200 8271 8273 8286 8388 8398 8438 8464 8506 8637 8731 8755 8767 8812 
+disappear Thales.txt 1 2195 
+if Thales.txt 12 859 1540 2116 2946 3198 4231 4252 4330 5623 6552 6941 8541 
+containing Thales.txt 2 1928 1956 
+descent Thales.txt 1 282 
+suggest Thales.txt 1 714 
+make Thales.txt 4 2327 2928 4381 5250 
+metaphysics Thales.txt 2 2999 3079 
+imbues Thales.txt 1 4275 
+wheel Thales.txt 1 7991 
+fairly Thales.txt 1 1573 
+nil Thales.txt 1 8668 
+d.r Thales.txt 2 5945 7624 
+hand Thales.txt 3 6776 7152 8163 
+marched Thales.txt 2 1139 1233 
+cycle Thales.txt 5 5462 5553 5585 5615 5681 
+shortly Thales.txt 1 5497 
+changes Thales.txt 1 3201 
+possessed Thales.txt 2 5697 5711 
+greatest Thales.txt 1 2299 
+qualities Thales.txt 3 3127 3235 6978 
+mother Thales.txt 1 475 
+claims Thales.txt 2 5719 5782 
+the Thales.txt 651 48 60 64 74 95 101 104 121 139 156 162 179 184 189 193 213 239 244 247 255 264 271 283 292 305 314 340 360 373 384 396 401 415 464 467 520 547 565 569 613 629 632 636 662 676 683 686 694 742 750 757 770 876 880 890 895 915 918 921 926 930 937 955 965 971 974 976 982 988 995 1009 1012 1016 1028 1030 1038 1043 1053 1066 1092 1099 1103 1109 1120 1125 1133 1136 1141 1156 1174 1177 1184 1196 1203 1205 1212 1214 1223 1255 1261 1282 1294 1317 1344 1357 1385 1389 1404 1421 1437 1453 1457 1467 1473 1486 1489 1528 1537 1553 1560 1595 1610 1628 1641 1653 1698 1702 1721 1734 1738 1744 1753 1764 1771 1785 1788 1791 1794 1803 1807 1812 1815 1831 1859 1889 1900 1910 1948 1963 1970 1988 1993 2017 2025 2037 2044 2047 2052 2079 2086 2117 2148 2160 2197 2200 2210 2213 2222 2229 2266 2298 2313 2317 2372 2383 2386 2392 2420 2423 2428 2431 2451 2456 2459 2462 2468 2472 2483 2496 2507 2532 2537 2550 2559 2565 2571 2576 2581 2585 2589 2597 2611 2621 2644 2656 2660 2673 2687 2692 2737 2745 2749 2753 2756 2759 2765 2770 2774 2780 2786 2796 2805 2810 2855 2861 2867 2876 2887 2915 2924 3001 3009 3015 3074 3084 3132 3158 3162 3167 3187 3192 3204 3220 3222 3226 3236 3250 3260 3265 3280 3315 3354 3359 3366 3385 3397 3400 3413 3430 3466 3469 3479 3485 3517 3526 3531 3567 3585 3618 3625 3628 3635 3643 3654 3657 3682 3691 3700 3703 3707 3714 3719 3724 3736 3739 3750 3753 3771 3781 3791 3796 3799 3804 3820 3828 3845 3849 3854 3857 3885 3899 3943 3991 4005 4018 4024 4048 4084 4088 4117 4127 4132 4173 4194 4214 4222 4225 4241 4244 4266 4269 4276 4284 4290 4298 4304 4344 4349 4383 4391 4395 4423 4426 4430 4438 4458 4470 4473 4485 4509 4515 4525 4544 4557 4567 4571 4585 4588 4610 4622 4636 4641 4644 4665 4685 4724 4726 4741 4747 4768 4780 4783 4817 4841 4854 4890 4895 4900 4902 4905 4908 4912 4916 4924 4933 4936 4939 4949 4955 4970 4986 4992 5005 5022 5031 5048 5053 5079 5091 5094 5105 5123 5135 5141 5147 5150 5156 5159 5162 5175 5208 5215 5218 5233 5269 5295 5315 5334 5347 5351 5379 5384 5391 5398 5424 5431 5464 5472 5474 5491 5494 5499 5526 5535 5543 5552 5572 5618 5625 5628 5654 5657 5663 5668 5680 5683 5688 5702 5705 5714 5726 5729 5733 5739 5742 5745 5747 5754 5762 5765 5768 5771 5800 5803 5811 5816 5820 5823 5833 5836 5851 5859 5873 5876 5912 5915 5931 5935 5951 5954 5967 5971 5976 5981 5995 6001 6004 6013 6026 6052 6077 6092 6127 6131 6147 6189 6210 6239 6242 6263 6269 6279 6301 6326 6346 6375 6380 6387 6392 6425 6459 6469 6480 6509 6542 6550 6572 6574 6579 6593 6609 6705 6708 6717 6740 6757 6768 6774 6792 6805 6812 6839 6860 6864 6877 6882 6886 6917 6945 6969 6973 6977 6979 6984 7005 7008 7017 7024 7028 7041 7058 7115 7118 7128 7134 7139 7150 7175 7231 7250 7278 7359 7370 7387 7400 7407 7413 7423 7431 7441 7444 7450 7452 7484 7498 7501 7520 7532 7541 7551 7585 7630 7651 7660 7671 7683 7703 7710 7721 7724 7765 7770 7803 7827 7831 7861 7872 7875 7882 7889 7892 7897 7905 7951 7963 7986 7989 7993 7997 8000 8012 8017 8044 8054 8069 8073 8107 8120 8124 8222 8265 8287 8295 8308 8321 8409 8412 8432 8450 8453 8465 8475 8515 8529 8576 8582 8590 8607 8638 8650 8655 8662 8687 8692 8713 8728 8732 8740 8743 8753 8756 8768 8774 8805 8843 8847 8855 8865 8875 8883 8891 
+possesses Thales.txt 1 8058 
+left Thales.txt 2 556 7848 
+just Thales.txt 4 718 2139 5436 7195 
+athletic Thales.txt 1 3777 
+gods Thales.txt 7 1863 1945 3614 4376 4472 7462 7554 
+assigned Thales.txt 1 7919 
+quotes Thales.txt 4 383 580 4876 8778 
+alexandria Thales.txt 1 7701 
+transforms Thales.txt 1 7117 
+human Thales.txt 1 6647 
+facts Thales.txt 2 6573 7834 
+yet Thales.txt 2 868 5779 
+previous Thales.txt 1 4632 
+adding Thales.txt 1 8180 
+polos Thales.txt 2 5740 5756 
+lydians Thales.txt 4 983 1017 1110 1295 
+classification Thales.txt 2 6734 7126 
+instance Thales.txt 2 6535 6587 
+regarded Thales.txt 1 57 
+had Thales.txt 32 498 653 777 838 856 867 910 944 961 1005 1018 1061 1164 1329 1684 2152 3561 4446 4496 4764 4807 6046 6085 6202 6233 6335 6457 7291 7910 8350 8469 8646 
+evidences Thales.txt 1 8761 
+n Thales.txt 1 5869 
+corollaries Thales.txt 1 207 
+beloved Thales.txt 1 3963 
+pointing Thales.txt 1 4098 
+has Thales.txt 10 222 576 772 1297 2316 3476 4776 6615 6713 8869 
+espoused Thales.txt 1 8546 
+contemporarys Thales.txt 1 4061 
+gave Thales.txt 1 1176 
+professional Thales.txt 1 8316 
+posed Thales.txt 1 4609 
+possible Thales.txt 3 1200 5228 6988 
+unequivocally Thales.txt 1 3004 
+possibly Thales.txt 2 5291 5695 
+cultural Thales.txt 1 7068 
+symmachia Thales.txt 1 1289 
+background Thales.txt 1 338 
+shadow Thales.txt 3 2397 2425 5118 
+cnidus Thales.txt 1 4676 
+advanced Thales.txt 3 3049 5962 6521 
+d Thales.txt 3 5192 5418 7810 
+melting Thales.txt 1 3993 
+59 Thales.txt 1 2479 
+58 Thales.txt 1 2478 
+zeal Thales.txt 1 4379 
+57 Thales.txt 1 2477 
+56 Thales.txt 1 2476 
+53 Thales.txt 1 2653 
+specific Thales.txt 1 2126 
+prologue Thales.txt 1 8733 
+aimed Thales.txt 1 1868 
+right Thales.txt 5 2360 2404 2413 2790 5172 
+dead Thales.txt 1 4245 
+born Thales.txt 3 237 262 2022 
+commonplace Thales.txt 1 4050 
+differentiate Thales.txt 2 7469 7479 
+emissaries Thales.txt 1 1240 
+pleiades Thales.txt 1 1816 
+rhind Thales.txt 1 2484 
+for Thales.txt 62 7 92 533 763 954 1033 1591 1779 1881 2177 2275 2289 2302 2329 2499 2511 2515 2580 2610 2716 3140 3499 3598 3729 3735 3776 3803 4012 4135 4193 4410 4627 4650 4782 5018 5406 5513 5670 5896 5979 6019 6025 6034 6111 6586 6853 6895 6907 6993 7202 7249 7352 7723 7976 7984 8112 8198 8217 8672 8682 8739 8807 
+fourth Thales.txt 3 8074 8160 8651 
+purple Thales.txt 1 3711 
+creative Thales.txt 2 3605 4080 
+everything Thales.txt 5 136 3102 3408 3667 4386 
+shell-fish Thales.txt 1 3701 
+milesioi Thales.txt 1 7267 
+meanings Thales.txt 1 3097 
+predicting Thales.txt 2 756 5514 
+disappeared Thales.txt 1 8648 
+discount Thales.txt 1 784 
+chapter Thales.txt 1 1637 
+surround Thales.txt 1 3369 
+anima Thales.txt 1 1933 
+eight Thales.txt 1 8788 
+primitive Thales.txt 1 6470 
+presence Thales.txt 1 1971 
+son Thales.txt 3 306 455 1723 
+down Thales.txt 3 2990 7603 8871 
+respectable Thales.txt 1 6123 
+beings Thales.txt 1 4626 
+datable Thales.txt 1 356 
+coastal Thales.txt 1 968 
+often Thales.txt 6 1849 2543 4682 7720 8419 8797 
+existed Thales.txt 6 4629 5517 6616 6654 8535 8636 
+altitude Thales.txt 2 2731 2797 
+hapanta Thales.txt 1 2295 
+class Thales.txt 1 1585 
+accordingly Thales.txt 1 4360 
+virgil Thales.txt 1 4553 
+way Thales.txt 15 1459 2003 2018 2115 4501 4637 5377 6636 7408 7453 7485 7499 7511 7538 7552 
+resulted Thales.txt 1 6681 
+hylomorphism Thales.txt 1 8486 
+was Thales.txt 101 27 45 166 235 261 304 482 494 623 626 635 716 813 861 950 1077 1089 1153 1225 1314 1334 1485 1547 1556 1572 1600 1693 1827 1917 1987 2273 2283 2398 2448 2534 2672 2984 3020 3409 3489 3512 3549 3602 3622 3662 3668 3677 3840 3945 3999 4121 4131 4254 4311 4340 4390 4408 4421 4429 4476 4621 4643 4652 4816 4889 4977 4989 5052 5087 5362 5369 5440 5630 5813 5825 5839 5862 5959 6057 6139 6154 6188 6271 6296 6401 6675 6847 6964 7224 7307 7759 7840 7855 8298 8375 8386 8443 8492 8557 8594 8880 
+war Thales.txt 2 986 1031 
+alexandrian Thales.txt 1 6132 
+questionable Thales.txt 1 5432 
+form Thales.txt 7 1369 2048 2070 3067 7507 8480 8534 
+ford Thales.txt 2 1202 3760 
+heat Thales.txt 1 411 
+solar Thales.txt 6 374 1064 1754 5483 5515 5672 
+alliance Thales.txt 1 1303 
+true Thales.txt 1 7086 
+admiration Thales.txt 1 7577 
+versions Thales.txt 1 729 
+ancestral Thales.txt 1 3792 
+tell Thales.txt 1 4834 
+considered Thales.txt 1 3391 
+lays Thales.txt 1 7531 
+inquiring Thales.txt 1 7049 
+trigonometry Thales.txt 2 2493 2677 
+originating Thales.txt 4 157 3016 3281 3302 
+proved Thales.txt 2 3515 4777 
+sticks Thales.txt 1 2722 
+wetness Thales.txt 2 3655 4094 
+evidence Thales.txt 3 4781 6261 6361 
+elof Thales.txt 1 6996 
+exist Thales.txt 2 6250 8262 
+fashioned Thales.txt 1 8881 
+floating Thales.txt 1 3324 
+whatness Thales.txt 1 4092 
+ionian Thales.txt 12 1371 1390 1409 3772 3805 7163 7168 7204 7221 8747 8757 8775 
+dealer Thales.txt 1 3689 
+triangles Thales.txt 5 2358 2361 2804 5008 5991 
+physical Thales.txt 1 8440 
+radically Thales.txt 1 7495 
+no Thales.txt 18 557 571 1331 3501 4238 4255 4262 4341 4737 5376 5510 6259 6297 6360 7200 7225 7814 7824 
+right-angled Thales.txt 1 5061 
+whereas Thales.txt 1 889 
+generally Thales.txt 4 1955 3298 6639 8494 
+reality Thales.txt 1 8274 
+interested Thales.txt 2 6058 6688 
+role Thales.txt 1 548 
+absurd Thales.txt 1 6874 
+eternity Thales.txt 1 4617 
+picture Thales.txt 3 8013 8849 8867 
+superposition Thales.txt 1 4773 
+palms Thales.txt 3 2514 2528 2595 
+anatolia Thales.txt 2 924 969 
+juices Thales.txt 1 3980 
+hylozoist Thales.txt 1 1919 
+fell Thales.txt 1 1747 
+objectify Thales.txt 1 4452 
+occasion Thales.txt 1 5157 
+authorities Thales.txt 1 7828 
+aware Thales.txt 1 627 
+hyades Thales.txt 1 1808 
+died Thales.txt 2 394 4660 
+immemorial Thales.txt 1 6099 
+together Thales.txt 3 1292 4189 5942 
+time Thales.txt 9 1162 4025 4666 5847 6148 6270 6381 7111 8606 
+serious Thales.txt 1 6899 
+concepts Thales.txt 1 6522 
+varying Thales.txt 1 7797 
+souls Thales.txt 4 654 1929 1957 4337 
+leads Thales.txt 2 6731 8832 
+battle Thales.txt 4 1050 1054 1093 1224 
+aetius Thales.txt 1 7688 
+mill Thales.txt 1 700 
+rectangles Thales.txt 1 5992 
+milk Thales.txt 1 3977 
+tenable Thales.txt 1 5363 
+discern Thales.txt 1 4031 
+certainly Thales.txt 1 3698 
+amplification Thales.txt 1 7594 
+praises Thales.txt 1 7979 
+simple Thales.txt 1 5986 
+contemplating Thales.txt 1 3248 
+passage Thales.txt 4 2158 2995 3085 4910 
+environment Thales.txt 1 3865 
+answered Thales.txt 1 514 
+finally Thales.txt 2 6936 7114 
+civilization Thales.txt 2 79 6079 
+favourite Thales.txt 1 8051 
+discovering Thales.txt 1 5667 
+811 Thales.txt 1 3082 
+division Thales.txt 3 5801 6390 8741 
+federation Thales.txt 1 3818 
+choice Thales.txt 1 3545 
+advised Thales.txt 3 1281 1366 7332 
+exact Thales.txt 2 1100 5748 
+hipparchus Thales.txt 2 5599 6383 
+staples Thales.txt 1 3692 
+chaldean Thales.txt 1 3554 
+level Thales.txt 1 2743 
+did Thales.txt 11 517 1435 1506 1616 4292 4351 5477 5534 6625 6786 8543 
+die Thales.txt 1 4251 
+ox Thales.txt 2 5067 5154 
+travels Thales.txt 1 6070 
+p Thales.txt 2 3533 6421 
+couched Thales.txt 1 7367 
+cooke Thales.txt 3 5243 5286 5318 
+inscribed Thales.txt 1 2849 
+speculation Thales.txt 1 4730 
+round Thales.txt 1 1699 
+talked Thales.txt 1 4513 
+says Thales.txt 8 1363 3174 4519 4982 5020 5042 6186 6404 
+contrasting Thales.txt 1 7871 
+prediction Thales.txt 4 740 799 1104 5629 
+literature Thales.txt 2 6129 6409 
+colin Thales.txt 1 4694 
+roof Thales.txt 2 5895 5916 
+scarcity Thales.txt 1 5209 
+examyas Thales.txt 2 308 1725 
+port Thales.txt 1 3686 
+troops Thales.txt 1 1252 
+bc Thales.txt 18 26 246 258 267 274 380 405 1481 1760 6378 6386 6451 7639 7718 8008 8076 8641 8653 
+agrees Thales.txt 2 5947 6041 
+current Thales.txt 1 5759 
+goes Thales.txt 4 2734 4831 5639 7112 
+1016 Thales.txt 1 3534 
+honour Thales.txt 2 5392 5399 
+henry Thales.txt 1 4601 
+understanding Thales.txt 1 2282 
+water Thales.txt 28 171 1904 2189 2973 3025 3178 3278 3296 3329 3360 3381 3428 3547 3569 3586 3600 3765 3839 3896 3915 3967 4014 4022 4075 4160 4523 4543 6880 
+hermetic Thales.txt 1 6128 
+magnetism Thales.txt 1 665 
+alone Thales.txt 1 6569 
+pastoral Thales.txt 1 3831 
+along Thales.txt 1 4502 
+appears Thales.txt 1 4547 
+change Thales.txt 3 3190 3216 4176 
+arcadia Thales.txt 1 1669 
+brilliant Thales.txt 1 6502 
+studied Thales.txt 2 6789 7257 
+timings Thales.txt 1 1792 
+hearsay....it Thales.txt 1 8599 
+cappadocia Thales.txt 1 1221 
+navigation Thales.txt 2 1780 3731 
+genuinely Thales.txt 1 3301 
+emerge Thales.txt 1 7021 
+useful Thales.txt 3 829 1775 8505 
+merely Thales.txt 1 2094 
+logical Thales.txt 2 5404 6719 
+logically Thales.txt 2 2104 6311 
+wealth Thales.txt 2 871 4008 
+working Thales.txt 1 8005 
+prove Thales.txt 2 820 2939 
+tears Thales.txt 2 3873 4043 
+tightly Thales.txt 1 5943 
+intense Thales.txt 1 7574 
+live Thales.txt 1 4281 
+olympian Thales.txt 1 3645 
+mid-620s Thales.txt 1 245 
+olympiad Thales.txt 1 403 
+cooperated Thales.txt 1 7108 
+theoretical Thales.txt 2 2284 7037 
+afford Thales.txt 1 1609 
+subsistence Thales.txt 1 3850 
+olive Thales.txt 4 699 703 737 751 
+logos Thales.txt 4 7410 7437 7487 7508 
+sphere Thales.txt 2 5773 5838 
+cleobuline Thales.txt 1 433 
+cybisthon Thales.txt 1 458 
+soul Thales.txt 2 4267 4323 
+cleobulina Thales.txt 1 310 
+districts Thales.txt 1 1396 
+can Thales.txt 4 3212 5428 5523 6588 
+stature Thales.txt 1 5380 
+believed Thales.txt 6 3490 3786 4302 4369 4804 5568 
+making Thales.txt 1 1198 
+numbers Thales.txt 3 2523 6277 6294 
+claim Thales.txt 3 5676 5860 6108 
+figure Thales.txt 2 6142 8095 
+lodestone Thales.txt 4 633 3944 4181 4223 
+smyrna Thales.txt 1 7697 
+confused Thales.txt 1 6959 
+forerunners Thales.txt 1 8772 
+pointedly Thales.txt 1 5866 
+halys Thales.txt 4 1056 1158 1439 3755 
+dedicates Thales.txt 1 1726 
+occur Thales.txt 1 1908 
+divided Thales.txt 2 2601 2625 
+means Thales.txt 2 2669 3886 
+vital Thales.txt 1 3741 
+pure Thales.txt 2 5634 6075 
+speaks Thales.txt 1 4103 
+armies Thales.txt 1 1216 
+140 Thales.txt 1 2556 
+information Thales.txt 3 8109 8184 8803 
+may Thales.txt 9 377 1757 3047 3069 3454 5290 7255 8243 8253 
+sacrifice Thales.txt 1 5151 
+mythos Thales.txt 2 7412 7427 
+produce Thales.txt 2 6665 8254 
+date Thales.txt 2 1526 1539 
+such Thales.txt 21 1622 2952 3916 4158 4692 5145 5190 5197 5416 5792 5989 6125 6321 6486 7100 7226 7646 7737 7808 8065 8359 
+heroes Thales.txt 1 1865 
+data Thales.txt 1 5110 
+grow Thales.txt 1 2009 
+man Thales.txt 7 479 491 1603 7064 7328 7446 8056 
+waerden Thales.txt 1 5329 
+poseidon Thales.txt 2 3795 3823 
+natural Thales.txt 7 109 1854 1871 1878 4354 6742 8399 
+whenever Thales.txt 1 2914 
+6th Thales.txt 1 7661 
+futures Thales.txt 1 888 
+explicit Thales.txt 2 5280 6285 
+yielding Thales.txt 1 2320 
+cosmology Thales.txt 1 2972 
+tale Thales.txt 1 6243 
+sagacity Thales.txt 1 1451 
+cannot Thales.txt 2 5927 7003 
+so Thales.txt 12 1192 1335 1691 1995 3756 4164 4234 5624 6333 6927 8141 8654 
+idiosyncratic Thales.txt 1 1851 
+acts Thales.txt 1 3594 
+constituents Thales.txt 1 2174 
+mainly Thales.txt 2 911 8503 
+years Thales.txt 10 530 1035 2668 4663 4671 4799 5531 7746 7789 8326 
+course Thales.txt 1 3751 
+tablets Thales.txt 1 5317 
+still Thales.txt 4 2521 4004 6828 8681 
+tendency Thales.txt 1 4448 
+constituted Thales.txt 1 3382 
+limbs Thales.txt 1 4586 
+group Thales.txt 1 8002 
+organisation Thales.txt 1 6564 
+archonship Thales.txt 1 1474 
+main Thales.txt 4 2817 2821 7283 8688 
+qualifies Thales.txt 1 4753 
+influences Thales.txt 3 3535 5204 5229 
+babylonians Thales.txt 10 5473 5475 5536 5573 5603 5706 5746 5831 5968 6014 
+indigenous Thales.txt 1 437 
+answer Thales.txt 2 3223 6712 
+qualified Thales.txt 1 6780 
+try Thales.txt 2 6118 6630 
+wealthy Thales.txt 2 1580 3679 
+not Thales.txt 41 346 518 717 814 1095 1284 1308 1507 1608 1617 2083 2165 2194 3576 4293 4318 4465 5249 5478 5601 5636 5694 5840 5940 6341 6626 6676 6957 7180 7468 7478 7514 7549 7852 8152 8337 8383 8493 8511 8526 8721 
+epithets Thales.txt 1 6743 
+now Thales.txt 6 1130 1360 1416 5102 5390 8372 
+widespread Thales.txt 2 7760 8490 
+nor Thales.txt 4 1097 5533 5704 5707 
+possess Thales.txt 1 5221 
+term Thales.txt 1 7129 
+equality Thales.txt 1 5006 
+name Thales.txt 3 466 6560 8714 
+boodin Thales.txt 2 6997 7010 
+entirely Thales.txt 2 5357 8597 
+cicero Thales.txt 1 4520 
+doctrine Thales.txt 1 6577 
+persian Thales.txt 1 1262 
+how...the Thales.txt 1 8062 
+begun Thales.txt 1 3562 
+year Thales.txt 5 265 766 1789 5812 7644 
+adduced Thales.txt 1 3493 
+ultimately Thales.txt 3 3669 4312 7132 
+accomplish Thales.txt 1 2252 
+space Thales.txt 2 2301 2311 
+greeks Thales.txt 11 1431 1739 1843 4299 5727 5952 6093 6364 6426 6865 7965 
+furthermore Thales.txt 2 7475 7522 
+looking Thales.txt 3 2634 4409 7381 
+attracted Thales.txt 1 658 
+contained Thales.txt 3 1979 6938 8798 
+rational Thales.txt 2 1874 7081 
+roger Thales.txt 1 5241 
+divinities Thales.txt 1 4359 
+after Thales.txt 15 755 1514 1731 3474 4800 5108 5238 7642 7668 7790 8006 8237 8327 8685 8790 
+mercantile Thales.txt 1 3806 
+theory Thales.txt 7 4089 5512 5540 6706 6738 8476 8530 
+electrified Thales.txt 1 4186 
+possibility Thales.txt 1 3636 
+quite Thales.txt 2 3095 6820 
+dependencies Thales.txt 1 1123 
+husserl Thales.txt 1 7054 
+thelidae Thales.txt 1 315 
+advance Thales.txt 1 781 
+language Thales.txt 2 6929 7371 
+snell Thales.txt 1 8553 
+corroborating Thales.txt 1 6260 
+thing Thales.txt 4 2020 3444 3450 4219 
+massive Thales.txt 1 6081 
+invitation Thales.txt 1 1170 
+1000 Thales.txt 1 2667 
+origin Thales.txt 8 1949 2124 3431 6110 6884 6919 7435 8845 
+intuition Thales.txt 1 6503 
+625 Thales.txt 1 266 
+624 Thales.txt 1 23 
+coming Thales.txt 1 8236 
+one Thales.txt 29 46 447 585 598 745 1657 1920 2725 2732 2838 2859 2937 2947 3150 3154 3218 3638 4044 4968 5013 5522 6208 6533 6818 6950 7316 7398 8137 8729 
+specifically Thales.txt 1 7382 
+directly Thales.txt 1 8277 
+open Thales.txt 2 3634 7592 
+size Thales.txt 1 956 
+city Thales.txt 2 240 1318 
+given Thales.txt 4 1019 1680 1694 8299 
+necessarily Thales.txt 2 2166 5037 
+solstice Thales.txt 1 566 
+tragic Thales.txt 1 6861 
+gives Thales.txt 1 6031 
+that Thales.txt 200 155 302 322 392 420 448 469 480 492 515 554 561 775 807 825 1059 1272 1346 1364 1373 1426 1433 1466 1483 1494 1504 1545 1575 1648 1659 1674 1819 1876 1886 1899 1906 1923 1996 2043 2130 2150 2221 2243 2367 2380 2434 2446 2635 2643 2670 2878 2886 2897 2913 2930 2936 2940 3014 3088 3098 3103 3128 3138 3144 3175 3225 3242 3249 3258 3291 3333 3351 3368 3378 3407 3427 3434 3436 3439 3497 3500 3542 3556 3558 3608 3637 3649 3666 3675 3705 3824 3835 3838 3868 3909 3939 3942 3955 3998 4011 4074 4090 4100 4129 4152 4212 4232 4273 4353 4367 4370 4419 4503 4522 4531 4534 4607 4619 4640 4699 4722 4733 4758 4762 4836 4887 4894 4935 4962 5021 5043 5085 5161 5236 5246 5288 5310 5342 5350 5361 5393 5426 5447 5509 5577 5609 5622 5677 5718 5725 5799 5853 5872 5875 5917 5948 6042 6066 6136 6157 6165 6197 6362 6424 6468 6516 6540 6549 6559 6694 6761 6799 6814 6835 6879 7089 7315 7330 7393 7426 7643 7758 7821 7887 7915 8142 8210 8213 8415 8434 8517 8528 8555 8581 8602 8631 8735 8794 8831 8868 
+continuous Thales.txt 2 6604 7528 
+expanse Thales.txt 1 3327 
+copy Thales.txt 1 4809 
+representing Thales.txt 1 8575 
+than Thales.txt 16 1149 1884 3153 3642 3763 5186 5598 5850 7357 7375 7411 7914 7970 8043 8114 8567 
+thal Thales.txt 1 4130 
+apollonius Thales.txt 1 6332 
+12 Thales.txt 2 1412 5736 
+effective Thales.txt 1 7197 
+require Thales.txt 1 2495 
+hyle Thales.txt 1 2064 
+r Thales.txt 4 4695 5193 5419 7811 
+were Thales.txt 33 430 933 984 991 1069 1122 1359 1418 1470 1888 2051 2225 2526 2932 3089 4233 4332 4356 4373 4457 6168 6305 7161 7179 7591 7601 7733 7752 7940 7958 8231 8455 8610 
+counselor Thales.txt 1 1278 
+oath Thales.txt 1 1119 
+and Thales.txt 244 33 67 84 103 106 111 115 161 183 297 309 311 333 365 406 424 426 432 439 451 487 506 567 597 634 692 701 759 785 885 901 1111 1138 1181 1238 1244 1340 1350 1417 1482 1536 1555 1615 1704 1710 1769 1790 1796 1809 1836 1844 1864 1905 2069 2188 2344 2349 2359 2362 2480 2501 2504 2513 2558 2613 2633 2727 2751 2761 2788 2792 2853 2896 2965 3066 3105 3111 3134 3191 3257 3267 3305 3346 3365 3419 3422 3446 3528 3589 3604 3615 3630 3696 3745 3748 3785 3844 3851 3856 3866 3875 3884 3903 3920 3929 3975 3978 3981 4003 4034 4038 4042 4051 4079 4144 4182 4213 4224 4230 4243 4278 4308 4322 4328 4362 4464 4530 4538 4565 4570 4576 4580 4591 4669 4677 4774 4823 4852 4929 4972 5012 5115 5137 5214 5232 5277 5565 5583 5600 5690 5741 5808 5830 5832 5969 5983 6021 6061 6080 6088 6106 6119 6253 6265 6278 6307 6331 6379 6397 6410 6412 6475 6491 6504 6519 6544 6584 6629 6651 6707 6748 6755 6885 6906 6935 7000 7077 7107 7157 7245 7254 7299 7329 7342 7463 7472 7474 7482 7527 7536 7548 7555 7576 7595 7626 7640 7655 7679 7705 7729 7761 7780 7801 7864 7896 7938 7957 7968 7974 7992 8028 8040 8085 8131 8171 8204 8239 8403 8452 8479 8498 8533 8540 8644 8676 8678 8697 8748 8759 8764 8793 8824 8837 8853 
+gathering Thales.txt 2 3775 5109 
+remained Thales.txt 2 511 1406 
+pro Thales.txt 1 2098 
+say Thales.txt 4 553 560 3130 4886 
+rent Thales.txt 1 787 
+distorted Thales.txt 1 8420 
+saw Thales.txt 2 3837 4208 
+any Thales.txt 11 3508 4942 5200 5251 5539 6363 7188 7229 7849 8081 8343 
+offering Thales.txt 2 590 601 
+ideas Thales.txt 6 3075 3402 6116 6477 7863 8620 
+note Thales.txt 1 2906 
+ideal Thales.txt 2 7092 7116 
+animation Thales.txt 2 4285 4461 
+take Thales.txt 1 6898 
+objective Thales.txt 1 809 
+innovator Thales.txt 2 551 7029 
+channel Thales.txt 1 3859 
+200 Thales.txt 1 8325 
+begin Thales.txt 1 6871 
+sure Thales.txt 1 2929 
+opposite Thales.txt 1 4973 
+price Thales.txt 1 793 
+knew Thales.txt 1 5975 
+algebraic Thales.txt 1 5308 
+formulae Thales.txt 1 5978 
+democratic Thales.txt 1 3817 
+especially Thales.txt 3 5970 6356 8766 
+arche Thales.txt 5 1991 2061 2073 2106 2118 
+later Thales.txt 14 284 531 3090 3373 3401 3537 5532 7605 7883 7923 8063 8127 8214 8863 
+slaves Thales.txt 1 3902 
+redirected Thales.txt 1 4 
+abraham Thales.txt 1 3571 
+salt Thales.txt 1 3919 
+affirmed Thales.txt 1 4606 
+slope Thales.txt 1 2466 
+discovered Thales.txt 6 4849 4979 5355 5679 6518 6834 
+fletcher Thales.txt 2 4696 4731 
+aggressive Thales.txt 1 953 
+dry-goods Thales.txt 1 4035 
+life--e.g Thales.txt 1 7837 
+fifth Thales.txt 3 272 8162 8591 
+ground Thales.txt 1 2738 
+laertius Thales.txt 2 287 673 
+ratio Thales.txt 1 2457 
+title Thales.txt 1 4742 
+written Thales.txt 4 3502 7602 8454 8562 
+only Thales.txt 15 2053 4319 4498 4748 5364 5389 5715 6427 6589 6848 6942 6965 7515 7995 8613 
+wood Thales.txt 1 2065 
+epitomators Thales.txt 1 8129 
+subjugated Thales.txt 1 1419 
+predict Thales.txt 2 5482 5617 
+get Thales.txt 1 2629 
+callimachus Thales.txt 1 1663 
+hailed Thales.txt 3 4683 7903 7941 
+nearly Thales.txt 1 7665 
+dye Thales.txt 1 3708 
+secondary Thales.txt 1 8689 
+milesian Thales.txt 5 1722 3532 7238 7726 7842 
+priest Thales.txt 2 1570 6437 
+milet Thales.txt 1 41 
+predicted Thales.txt 4 372 1062 1552 1752 
+where Thales.txt 3 2058 4110 8047 
+vision Thales.txt 1 3989 
+attached Thales.txt 1 8618 
+fable Thales.txt 1 6934 
+euclid Thales.txt 2 4673 6329 
+professed Thales.txt 1 8474 
+concern Thales.txt 1 8806 
+appear Thales.txt 1 5293 
+invoked Thales.txt 1 1850 
+ways Thales.txt 2 2371 7420 
+subsequent Thales.txt 1 8228 
+review Thales.txt 1 592 
+outside Thales.txt 1 5842 
+john Thales.txt 4 6526 6995 7706 8404 
+between Thales.txt 9 682 4211 4240 4306 4320 4326 7415 7470 7480 
+geometric Thales.txt 1 5303 
+reading Thales.txt 1 8904 
+across Thales.txt 2 1186 7123 
+wouldve Thales.txt 2 3926 4709 
+arrival Thales.txt 1 6980 
+notice Thales.txt 1 6900 
+vertical Thales.txt 4 2898 2925 2942 4971 
+persians Thales.txt 4 931 1126 1137 1422 
+planes Thales.txt 1 2343 
+dome Thales.txt 1 5764 
+revealed Thales.txt 1 8437 
+article Thales.txt 2 2818 2822 
+cities Thales.txt 3 972 1391 1413 
+come Thales.txt 4 945 6221 8312 8870 
+concentrated Thales.txt 2 7429 7439 
+dates Thales.txt 1 341 
+philosophically Thales.txt 1 7246 
+astrologer Thales.txt 1 1745 
+many Thales.txt 5 53 544 4850 4858 7345 
+region Thales.txt 3 938 1010 8466 
+according Thales.txt 8 362 421 647 666 1982 2706 2902 4599 
+nile Thales.txt 2 3740 6213 
+1721 Thales.txt 1 3083 
+tour Thales.txt 1 1612 
+life-sustaining Thales.txt 1 3918 
+decimals Thales.txt 1 2577 
+comes Thales.txt 6 2005 2142 2989 4787 7609 8149 
+yearly Thales.txt 1 3773 
+among Thales.txt 7 5143 5217 5331 5966 7681 7708 7826 
+period Thales.txt 1 6133 
+dispatch Thales.txt 1 1250 
+60 Thales.txt 1 2481 
+maintained Thales.txt 1 3607 
+werner Thales.txt 1 8838 
+assertions Thales.txt 1 6510 
+magno Thales.txt 1 4597 
+moreover Thales.txt 2 1594 7750 
+extinct Thales.txt 1 8373 
+ptolemys Thales.txt 1 5279 
+considers Thales.txt 1 3863 
+turkey Thales.txt 1 43 
+sensible Thales.txt 1 7526 
+enunciated Thales.txt 1 4932 
+analogies Thales.txt 1 6506 
+west Thales.txt 1 7042 
+concede Thales.txt 1 7211 
+distinguishing Thales.txt 1 7619 
+combined Thales.txt 1 4058 
+judging Thales.txt 1 8331 
+borders Thales.txt 1 7125 
+hardly Thales.txt 1 6617 
+abstract Thales.txt 2 7521 7546 
+edmund Thales.txt 1 7053 
+wants Thales.txt 1 7447 
+direction Thales.txt 1 1142 
+educated Thales.txt 1 8462 
+thousand Thales.txt 1 4798 
+polytheism Thales.txt 1 4424 
+external Thales.txt 1 8906 
+extant Thales.txt 2 1829 3513 
+spirit Thales.txt 1 4559 
+those Thales.txt 8 2191 5120 5332 7636 7641 7880 8235 8683 
+case Thales.txt 2 3210 4865 
+lawgivers Thales.txt 1 7967 
+these Thales.txt 9 1534 2607 6072 6293 6524 6659 7416 7731 8275 
+single Thales.txt 6 143 168 512 3022 3996 6597 
+cast Thales.txt 2 688 5121 
+rhodes Thales.txt 2 4680 5074 
+situation Thales.txt 1 5529 
+endured Thales.txt 1 1032 
+unsatisfactory Thales.txt 1 5528 
+coupled Thales.txt 1 7981 
+soil Thales.txt 1 4037 
+rubbing Thales.txt 1 4188 
+engaged Thales.txt 2 85 1217 
+pregiven Thales.txt 1 7075 
+pressing Thales.txt 1 1259 
+fame Thales.txt 1 1275 
+worry Thales.txt 1 525 
+agitates Thales.txt 1 4587 
+different Thales.txt 11 728 2519 3096 3207 3234 6660 6842 7496 7912 8247 8251 
+develop Thales.txt 1 5538 
+bowl Thales.txt 1 1677 
+s Thales.txt 2 2998 5868 
+same Thales.txt 9 465 1490 2087 2497 2688 3205 6840 7722 8296 
+inquiry Thales.txt 2 7038 7082 
+document Thales.txt 1 2490 
+events Thales.txt 1 357 
+3.1605--a Thales.txt 1 6036 
+status Thales.txt 2 1173 7569 
+noble Thales.txt 1 1620 
+oil Thales.txt 1 3976 
+centuries Thales.txt 2 3372 8789 
+assist Thales.txt 1 1441 
+dreyer Thales.txt 1 5649 
+persons Thales.txt 3 3882 6689 7473 
+diversion Thales.txt 1 1190 
+conquered Thales.txt 1 962 
+changing Thales.txt 1 3749 
+tradition Thales.txt 14 66 6163 6605 6678 6852 7076 7757 8046 8224 8289 8448 8569 8583 8617 
+academics Thales.txt 2 7177 8754 
+roughly Thales.txt 3 351 3396 7735 
+athenian Thales.txt 2 616 7176 
+without Thales.txt 3 4203 4630 4723 
+childlike Thales.txt 1 6505 
+very Thales.txt 4 4431 5527 6413 8489 
+bodies Thales.txt 2 3894 6791 
+being Thales.txt 8 2864 3164 4204 4868 4907 5181 7985 8225 
+when Thales.txt 13 794 1260 1279 1909 2394 2907 3522 4185 4246 4963 5892 7443 8263 
+topos Thales.txt 2 2294 2307 
+slime Thales.txt 1 3345 
+actions Thales.txt 1 4355 
+reputable Thales.txt 1 6822 
+theophrastus Thales.txt 2 7680 8675 
+statesmen Thales.txt 1 7969 
+presumption Thales.txt 1 2354 
+death Thales.txt 4 409 7792 8329 8792 
+diogenes Thales.txt 21 286 381 417 442 578 672 1268 1462 1631 3374 4101 4603 5132 5179 7147 7213 7693 8700 8719 8777 8785 
+thinking Thales.txt 6 1960 2042 3063 3288 7513 8022 
+seems Thales.txt 3 1058 3349 6869 
+except Thales.txt 1 6156 
+verse Thales.txt 1 1835 
+recopied Thales.txt 1 8172 
+treatment Thales.txt 1 8297 
+extensive Thales.txt 1 8446 
+dicks Thales.txt 18 5194 5420 5502 5550 5604 5661 5946 6039 6134 6465 7625 7812 7818 7884 8099 8207 8579 8836 
+around Thales.txt 7 243 1208 4661 6374 6449 7430 7440 
+fulfillment Thales.txt 1 5626 
+ruler Thales.txt 1 1306 
+pamphila Thales.txt 1 5041 
+early Thales.txt 11 484 1842 6783 7140 7312 7893 8537 8588 8608 8744 8878 
+traffic Thales.txt 1 3972 
+world Thales.txt 9 102 3658 3855 4642 6986 7424 7451 7492 7542 
+accepted Thales.txt 3 2948 3299 8220 
+babylonian Thales.txt 12 3552 3583 5372 5442 5511 5784 5856 6266 6388 6408 6431 6436 
+vertically Thales.txt 1 2735 
+fortune Thales.txt 1 1025 
+isosceles Thales.txt 4 2892 4943 5881 5906 
+scholastics Thales.txt 1 8483 
+either Thales.txt 6 452 2101 3149 3209 7162 7734 
+recalls Thales.txt 1 3713 
+heiberg Thales.txt 1 6497 
+twelve Thales.txt 1 5806 
+aristophanes Thales.txt 1 7678 
+titan Thales.txt 1 4578 
+astronomer Thales.txt 1 34 
+snatched Thales.txt 1 4113 
+spiritus Thales.txt 1 4561 
+duration Thales.txt 1 1786 
+divine Thales.txt 2 3603 4078 
+thinks Thales.txt 1 1922 
+provided Thales.txt 2 1588 8194 
+thals Thales.txt 1 21 
+mercenaries Thales.txt 1 1237 
+pioneer Thales.txt 1 8018 
+zhmud Thales.txt 1 5795 
+lucid Thales.txt 1 4572 
+measuring Thales.txt 3 3718 5275 6245 
+considering Thales.txt 1 8264 
+scientific Thales.txt 5 87 4987 6566 6823 8021 
+power Thales.txt 4 928 947 4215 4287 
+sixth Thales.txt 2 1039 8639 
+equivalent Thales.txt 2 3398 5305 
+notably Thales.txt 1 55 
+credits Thales.txt 1 1661 
+pluralism Thales.txt 1 2180 
+arithmetical Thales.txt 1 6273 
+refers Thales.txt 1 7235 
+cotangents Thales.txt 2 2494 2641 
+on Thales.txt 52 138 564 568 595 606 1107 1354 1456 1527 1903 1953 1962 2159 2618 3036 3073 3274 3361 3780 3893 4126 4443 4832 5155 5164 5230 5256 5383 5783 6049 6091 6212 6753 6773 6802 7113 7149 7271 7295 7301 7461 7525 7713 7773 7830 7860 8078 8110 8250 8559 8598 8771 
+of Thales.txt 394 1 14 47 51 97 135 141 147 159 164 181 186 232 241 251 291 307 331 334 342 376 386 388 398 463 522 549 588 628 631 643 664 678 685 741 769 800 845 875 887 899 903 917 923 929 957 964 967 973 994 998 1000 1014 1024 1042 1055 1083 1102 1124 1143 1211 1319 1387 1411 1428 1475 1511 1550 1627 1634 1644 1668 1700 1724 1756 1766 1787 1793 1806 1814 1853 1861 1891 1936 1944 1950 1965 1972 1974 1992 2027 2036 2049 2055 2091 2175 2184 2199 2212 2231 2241 2279 2319 2385 2416 2422 2430 2458 2464 2474 2482 2552 2561 2573 2640 2646 2681 2694 2729 2758 2767 2772 2779 2783 2833 2890 3011 3018 3033 3076 3136 3161 3169 3172 3186 3189 3194 3252 3283 3328 3387 3403 3411 3417 3432 3441 3468 3481 3496 3504 3530 3546 3613 3620 3627 3656 3660 3681 3687 3693 3702 3709 3716 3721 3738 3752 3783 3794 3798 3822 3830 3853 3860 3895 3901 3961 3990 4007 4021 4026 4063 4087 4104 4175 4196 4216 4271 4348 4375 4417 4425 4433 4460 4480 4491 4506 4527 4574 4613 4624 4638 4647 4667 4675 4679 4717 4743 4770 4785 4810 4857 4881 4904 4911 4941 4994 5000 5007 5033 5073 5093 5100 5128 5149 5152 5158 5167 5210 5253 5271 5274 5282 5298 5336 5381 5400 5408 5490 5493 5545 5581 5613 5627 5633 5656 5665 5682 5731 5750 5753 5767 5770 5802 5835 5843 5879 5914 5934 5956 5964 5985 6003 6006 6028 6035 6068 6083 6101 6113 6130 6149 6191 6209 6244 6251 6299 6303 6314 6328 6365 6382 6391 6461 6472 6483 6501 6536 6541 6561 6565 6576 6581 6595 6612 6622 6662 6744 6771 6795 6807 6844 6863 6888 6901 6920 6931 6953 6976 6981 7019 7030 7033 7036 7048 7093 7120 7186 7252 7268 7280 7285 7310 7317 7372 7376 7379 7399 7409 7421 7433 7500 7512 7534 7539 7545 7553 7559 7566 7657 7696 7700 7747 7767 7778 7796 7799 7805 7813 7835 7874 7881 7891 7908 7933 7936 7953 7988 7999 8003 8014 8053 8072 8083 8096 8122 8167 8183 8185 8258 8307 8310 8319 8354 8408 8411 8424 8477 8519 8531 8657 8664 8694 8703 8723 8742 8773 8814 8822 8827 8846 8850 8874 8877 8894 
+theorems Thales.txt 3 2813 2832 6347 
+mixes Thales.txt 1 4592 
+practical Thales.txt 3 2288 2370 7944 
+hieroglyphics Thales.txt 1 6371 
+stand Thales.txt 1 3577 
+act Thales.txt 3 4174 4221 4289 
+luck Thales.txt 1 5635 
+or Thales.txt 42 457 459 835 1395 1604 2066 2103 2323 2454 2604 2631 3151 3206 3232 3506 3553 3897 4163 4286 4451 5258 5774 5937 6620 6736 6933 7164 7205 7378 7740 7843 7851 7857 8138 8159 8161 8187 8458 8621 8625 8800 8885 
+amber Thales.txt 2 4183 4226 
+referenced Thales.txt 1 1877 
+fertile Thales.txt 1 8196 
+spreading Thales.txt 1 2324 
+involvement Thales.txt 1 916 
+determine Thales.txt 2 2801 5429 
+elementary Thales.txt 1 2836 
+lastly Thales.txt 1 6530 
+your Thales.txt 1 2730 
+loc Thales.txt 1 2378 
+area Thales.txt 1 6027 
+strictly Thales.txt 1 7155 
+there Thales.txt 24 1499 1826 2525 2829 3145 3213 4235 4253 4260 4700 4735 5222 5958 6199 6206 6295 6338 6355 6358 6614 7198 7223 7822 8442 
+stars Thales.txt 1 4579 
+cultures Thales.txt 1 5974 
+fish Thales.txt 1 3928 
+secreted Thales.txt 1 3706 
+foist Thales.txt 1 8077 
+regard Thales.txt 1 8025 
+philosophers Thales.txt 14 124 293 1636 2038 2224 4445 6729 7141 7160 7346 7727 7975 8705 8745 
+survived Thales.txt 1 577 
+unreliable Thales.txt 1 8799 
+trying Thales.txt 3 2226 6966 7611 
+with Thales.txt 51 727 914 987 1132 1145 1166 1293 1310 1343 1557 1619 1718 1802 1810 1856 2024 2196 2406 2450 2744 2846 3094 3303 4059 4095 4295 4594 5423 5642 5674 5685 6009 6238 6258 6284 6292 6318 6602 6767 6872 6876 6960 7097 7109 7145 7258 7866 7879 7982 8177 8623 
+handsome Thales.txt 1 6830 
+commonality Thales.txt 1 4210 
+applying Thales.txt 1 4840 
+historicity Thales.txt 1 5655 
+dependents Thales.txt 1 1243 
+beliefs Thales.txt 1 4137 
+gone Thales.txt 1 6181 
+celestial Thales.txt 1 5772 
+ad Thales.txt 1 1824 
+intercept Thales.txt 3 2823 2868 5106 
+certain Thales.txt 5 1574 5307 6102 6153 8211 
+general Thales.txt 5 2950 4301 4413 4870 6389 
+as Thales.txt 116 59 73 130 277 328 366 390 476 488 615 1075 1193 1222 1276 1301 1519 1623 1776 2041 2076 2204 2208 2238 2265 2285 2287 2570 2623 2700 2840 2858 2953 2974 3279 3295 3300 3309 3356 3766 3877 3917 3947 4159 4192 4268 4297 4343 4454 4548 4554 4684 4693 4734 4754 4958 4980 5078 5104 5146 5191 5365 5367 5417 5521 5556 5793 5910 5990 6126 6166 6184 6225 6262 6287 6322 6487 6592 6641 6669 6671 6781 6785 7051 7061 7101 7110 7142 7196 7215 7217 7266 7325 7397 7647 7738 7809 7904 7942 7966 7971 8016 8066 8093 8290 8360 8365 8367 8391 8427 8501 8536 8538 8587 8589 8712 8858 
+reliability Thales.txt 1 7558 
+archai Thales.txt 2 2149 2205 
+at Thales.txt 31 395 782 790 985 1091 1218 1266 1382 1477 1716 1781 2039 2391 2433 2471 2696 2724 3117 4765 4938 5035 5518 5845 6268 6701 6716 7190 7383 8154 8157 8842 
+politics Thales.txt 1 905 
+mover Thales.txt 1 4198 
+incorrect Thales.txt 1 6017 
+bisected Thales.txt 2 2882 4898 
+lartius Thales.txt 16 382 418 579 1269 1463 1632 1639 1660 3375 4102 4604 5133 5180 7148 7694 8701 
+elemental Thales.txt 1 3846 
+field Thales.txt 4 4759 6460 6685 8197 
+sexagesimal Thales.txt 2 5272 6399 
+neighbouring Thales.txt 1 940 
+mathematics Thales.txt 8 173 5373 5857 5965 6060 6474 6649 8027 
+you Thales.txt 4 2714 2747 2799 3238 
+endeavors Thales.txt 1 1445 
+includes Thales.txt 2 7674 7686 
+deriving Thales.txt 2 131 205 
+accounts Thales.txt 1 8813 
+building Thales.txt 1 5893 
+remote Thales.txt 1 281 
+calls Thales.txt 1 6498 
+mass Thales.txt 1 4590 
+dyes Thales.txt 1 3982 
+oral Thales.txt 5 7586 7756 8447 8451 8568 
+original Thales.txt 1 8829 
+equinoxes Thales.txt 1 1795 
+represent Thales.txt 1 326 
+all Thales.txt 34 120 300 749 1701 1737 1940 2056 2233 2305 2415 2713 2941 2954 3012 3253 3388 3609 3971 4016 4091 4371 4437 4528 4540 4616 4625 4648 6571 6815 6889 6921 6947 7191 8461 
+founder Thales.txt 1 3168 
+caused Thales.txt 1 4357 
+lack Thales.txt 1 8826 
+follow Thales.txt 1 2351 
+expressions Thales.txt 1 3518 
+disk Thales.txt 1 3321 
+religious Thales.txt 1 3774 
+reasoning Thales.txt 1 200 
+referring Thales.txt 2 4507 7218 
+hieronymus Thales.txt 4 668 5072 5083 5129 
+to Thales.txt 240 81 99 177 197 202 208 217 313 363 410 422 485 524 574 586 591 599 602 638 641 648 659 667 815 819 821 831 850 869 912 936 946 1020 1027 1179 1194 1201 1229 1241 1246 1249 1253 1285 1368 1379 1440 1497 1523 1543 1650 1652 1662 1681 1695 1707 1714 1728 1838 1858 1869 1958 1983 2008 2011 2097 2099 2108 2121 2135 2169 2227 2251 2326 2400 2440 2461 2539 2619 2628 2658 2675 2690 2707 2769 2800 2844 2874 2903 2927 2961 2991 3029 3040 3044 3219 3394 3399 3464 3491 3616 3623 3664 3742 3787 3812 3880 3951 3969 3983 3987 4030 4055 4068 4083 4114 4150 4154 4172 4199 4220 4288 4313 4315 4380 4393 4403 4449 4487 4508 4600 4706 4740 4788 4805 4819 4821 4826 4833 4839 4860 4892 4921 4926 4930 5016 5029 5055 5070 5089 5119 5140 5183 5207 5306 5345 5396 5452 5456 5467 5481 5555 5562 5569 5594 5602 5616 5687 5815 5827 5950 6096 6117 6172 6175 6182 6203 6234 6256 6288 6290 6351 6441 6453 6555 6631 6646 6658 6664 6722 6727 6732 6832 6870 6897 6967 6991 7056 7212 7219 7236 7334 7336 7338 7363 7448 7582 7593 7612 7787 7920 7926 7962 8026 8034 8079 8089 8119 8135 8150 8175 8269 8293 8302 8339 8342 8352 8379 8394 8514 8521 8614 8634 8661 8717 8734 8782 8819 8840 8872 8890 
+lawmakers Thales.txt 1 1621 
+activities Thales.txt 1 545 
+returned Thales.txt 1 7362 
+egyptian Thales.txt 7 1569 2452 2488 3743 6109 6264 6370 
+far Thales.txt 4 1146 6670 7216 7959 
+plausibility Thales.txt 3 7800 8189 8627 
+floated Thales.txt 1 3364 
+fabricated Thales.txt 1 8802 
+medicine Thales.txt 1 6652 
+verb Thales.txt 1 2314 
+fall Thales.txt 1 6699 
+difference Thales.txt 4 4239 4256 4263 7414 
+heaven Thales.txt 2 4115 4564 
+list Thales.txt 1 4879 
+study Thales.txt 1 4829 
+correct Thales.txt 1 5977 
+past Thales.txt 1 7009 
+further Thales.txt 5 3672 5640 7339 8103 8903 
+babylonia Thales.txt 2 5722 8039 
+what Thales.txt 13 832 1986 2028 2215 2246 2363 2583 6289 6454 6693 7084 7614 8143 
+stood Thales.txt 2 3383 7395 
+sun Thales.txt 4 1044 1629 4118 5684 
+sum Thales.txt 1 2572 
+eminent Thales.txt 2 1635 8704 
+version Thales.txt 7 502 746 768 874 892 1658 5176 
+scientists Thales.txt 2 2163 2248 
+learned Thales.txt 1 6428 
+method Thales.txt 7 2689 4149 4171 4867 5023 5040 6709 
+contrast Thales.txt 1 5922 
+movement Thales.txt 2 1973 7060 
+full Thales.txt 3 1943 3612 4374 
+iran Thales.txt 1 1144 
+mesopotamian Thales.txt 3 5254 5283 5337 
+leaping Thales.txt 1 7122 
+answers Thales.txt 1 6698 
+i.e Thales.txt 2 117 1927 
+ascriptions Thales.txt 3 7777 8203 8292 
+legend Thales.txt 2 7620 8811 
+inspired Thales.txt 1 3663 
+allows Thales.txt 1 2798 
+qualify Thales.txt 1 7264 
+experience Thales.txt 1 3239 
+prior Thales.txt 2 2095 2168 
+social Thales.txt 1 4019 
+action Thales.txt 2 1332 4492 
+successors Thales.txt 3 4862 5710 6485 
+options Thales.txt 1 904 
+via Thales.txt 1 1873 
+followed Thales.txt 4 125 3456 7347 7578 
+family Thales.txt 3 337 534 1582 
+put Thales.txt 1 849 
+pythagorean Thales.txt 1 2827 
+1908 Thales.txt 1 7282 
+pliny Thales.txt 2 5134 7702 
+establish Thales.txt 1 3465 
+takes Thales.txt 1 5421 
+distinct Thales.txt 1 8471 
+contains Thales.txt 2 3086 5302 
+two Thales.txt 13 581 1215 2080 2407 2784 2831 2918 4964 5010 6703 7417 8779 8884 
+comparing Thales.txt 1 5116 
+taken Thales.txt 3 1330 2120 3922 
+ionians Thales.txt 4 919 975 1358 8609 
+circle...which Thales.txt 1 6030 
+minor Thales.txt 2 39 1768 
+more Thales.txt 17 1258 2365 2683 3152 4412 4869 4873 4880 4950 5961 6429 7242 7319 7405 7418 7876 8139 
+flat Thales.txt 1 3320 
+israel Thales.txt 1 711 
+door Thales.txt 1 4486 
+miletus Thales.txt 14 2 15 36 242 332 754 1326 1397 1415 1461 1498 1551 6161 7269 
+substances Thales.txt 2 2230 6796 
+company Thales.txt 1 605 
+stick Thales.txt 2 2733 2760 
+particular Thales.txt 2 765 7618 
+known Thales.txt 20 80 195 215 348 883 898 1096 2274 2839 4054 4402 4928 5103 5370 5814 5826 6155 7763 7961 8459 
+none Thales.txt 1 3659 
+science Thales.txt 6 118 3093 5637 6411 8500 8523 
+der Thales.txt 1 5328 
+syntaxis Thales.txt 1 5590 
+dew Thales.txt 1 4136 
+remain Thales.txt 1 2203 
+bias Thales.txt 1 7932 
+railroading Thales.txt 1 7281 
+abandon Thales.txt 1 5346 
+popular Thales.txt 2 7233 8616 
+spontaneous Thales.txt 1 4064 
+history Thales.txt 7 646 4716 4999 6145 6417 7303 8876 
+beautiful Thales.txt 1 4646 
+civilizations Thales.txt 1 1846 
+cosmological Thales.txt 1 2986 
+states Thales.txt 11 321 419 966 1670 3332 3377 3807 3861 6843 7956 8580 
+eidos Thales.txt 1 2072 
+attain Thales.txt 1 870 
+sense Thales.txt 3 7020 7172 7230 
+biography Thales.txt 1 3421 
+axis Thales.txt 1 5769 
+influenced Thales.txt 4 1080 3550 5438 5863 
+respective Thales.txt 1 7955 
+goal Thales.txt 1 8378 
+rather Thales.txt 8 1883 3762 5185 7356 7374 8042 8113 8566 
+breaking Thales.txt 1 93 
+dismissed Thales.txt 1 1235 
+58th Thales.txt 1 402 
+sacred Thales.txt 1 1458 
+reject Thales.txt 1 1533 
+chorei Thales.txt 2 2297 2315 
+explains Thales.txt 2 806 7458 
+neoplatonism Thales.txt 1 4145 
+incorporated Thales.txt 1 8285 
+advice Thales.txt 1 1353 
+blood Thales.txt 3 1118 3876 4040 
+waves Thales.txt 1 1915 
+geometrical Thales.txt 2 5987 6316 
+capernaum Thales.txt 1 710 
+a Thales.txt 175 28 133 142 167 219 278 329 335 354 454 477 690 719 723 725 760 764 783 791 801 846 942 992 1049 1117 1189 1277 1288 1290 1305 1375 1502 1509 1525 1548 1579 1584 1601 1605 1749 1777 1918 2019 2089 2144 2239 2258 2339 2403 2411 2465 2530 2553 2638 2649 2679 2739 2777 2789 2847 2851 2879 2904 2975 2994 3021 3031 3215 3319 3559 3592 3678 3767 3816 3841 3881 3988 3995 4105 4108 4197 4209 4217 4316 4414 4447 4467 4477 4488 4499 4549 4631 4704 4755 4791 4797 4808 5058 5060 5098 5165 5168 5171 5224 5403 5461 5614 5631 5671 5775 5894 5897 5900 5923 5960 6007 6010 6023 6029 6032 6086 6122 6140 6162 6170 6310 6435 6445 6499 6537 6562 6596 6600 6603 6618 6666 6683 6765 6821 6829 6836 6989 7045 7066 7080 7154 7170 7183 7237 7292 7308 7326 7486 7491 7510 7666 7743 7841 7844 7911 8050 8094 8102 8195 8315 8392 8428 8470 8560 8572 8709 8724 8825 8859 8862 
+read Thales.txt 3 7004 8146 8457 
+excerptors Thales.txt 1 8130 
+shore Thales.txt 1 190 
+fundamental Thales.txt 2 4045 7833 
+geographic Thales.txt 1 7156 
+replied Thales.txt 1 4258 
+iambics Thales.txt 1 1666 
+developed Thales.txt 2 5402 6164 
+trade Thales.txt 1 3747 
+held Thales.txt 12 3277 3293 3406 3557 3779 3941 5084 5451 5466 5561 6350 8268 
+isnt Thales.txt 1 5908 
+scientist Thales.txt 1 2269 
+through Thales.txt 9 2993 3631 3898 4032 4036 4180 4584 4915 5131 
+existence Thales.txt 3 140 630 1074 
+490 Thales.txt 2 2594 2600 
+its Thales.txt 9 2001 2441 2762 2884 3119 5117 5911 7505 7537 
+didyma Thales.txt 1 1717 
+28 Thales.txt 2 378 1758 
+actually Thales.txt 3 4466 8133 8145 
+late Thales.txt 3 496 6514 8844 
+disclosed Thales.txt 1 4853 
+cross Thales.txt 1 5901 
+might Thales.txt 1 1773 
+ally Thales.txt 1 1309 
+good Thales.txt 4 761 803 1687 6037 
+return Thales.txt 1 6990 
+geographical Thales.txt 1 5546 
+food Thales.txt 1 3931 
+universality Thales.txt 1 6667 
+intus Thales.txt 1 4562 
+socially Thales.txt 1 7244 
+traveled Thales.txt 1 6337 
+association Thales.txt 1 4086 
+instructions Thales.txt 1 6286 
+growing Thales.txt 1 927 
+megiston Thales.txt 1 2293 
+mathematician Thales.txt 5 32 4688 4746 4779 5082 
+characterizes Thales.txt 1 2034 
+cosmogonies Thales.txt 1 3458 
+transmission Thales.txt 1 8201 
+stopped Thales.txt 1 1154 
+found Thales.txt 2 675 6548 
+notes Thales.txt 5 5287 5319 5605 6760 8899 
+referred Thales.txt 1 5554 
+generation Thales.txt 2 4065 4639 
+hundred Thales.txt 1 7745 
+energy Thales.txt 1 4329 
+reduce Thales.txt 1 1195 
+idea Thales.txt 10 521 3051 4062 4291 5335 5425 5834 5874 6598 8857 
+pteria Thales.txt 1 1219 
+bychkov Thales.txt 1 5870 
+really Thales.txt 2 2218 6893 
+matter-and-formist Thales.txt 1 3312 
+dominates Thales.txt 2 2110 2146 
+cilicia Thales.txt 1 7658 
+since Thales.txt 5 2312 2524 6137 6200 6687 
+acting Thales.txt 1 3565 
+7 Thales.txt 2 2527 2535 
+apollodorus Thales.txt 2 250 387 
+induced Thales.txt 1 4028 
+issue Thales.txt 3 1013 1256 5422 
+pythagoras Thales.txt 4 4668 5184 6252 7322 
+belief Thales.txt 5 4339 4396 4551 5349 5360 
+reason Thales.txt 1 2260 
+base Thales.txt 8 2473 2503 2551 2888 4940 5877 5932 6012 
+ask Thales.txt 2 1247 6723 
+earliest Thales.txt 1 7711 
+beginning Thales.txt 1 4558 
+medes Thales.txt 5 989 1029 1112 1121 1134 
+revolutionary Thales.txt 1 3842 
+definition Thales.txt 1 3193 
+devoid Thales.txt 1 6930 
+uncertainly Thales.txt 1 7022 
+exhibited Thales.txt 1 6478 
+connotation Thales.txt 1 2318 
+relate Thales.txt 1 5608 
+number Thales.txt 2 3032 8082 
+antiquity Thales.txt 4 3694 6124 6515 8128 
+well-known Thales.txt 1 2157 
+elder Thales.txt 2 5136 7704 
+done Thales.txt 2 1685 6236 
+construct Thales.txt 1 8860 
+1870 Thales.txt 1 3414 
+thinkers Thales.txt 5 3539 3652 7298 7402 7973 
+story Thales.txt 11 726 771 877 977 1491 2373 2444 5130 5148 5659 5664 
+leading Thales.txt 2 3985 7948 
+5th Thales.txt 1 7652 
+least Thales.txt 1 6702 
+pinned Thales.txt 1 2723 
+station Thales.txt 1 7287 
+seafaring Thales.txt 1 1602 
+statement Thales.txt 1 3290 
+scheme Thales.txt 1 7214 
+observations Thales.txt 3 3039 5285 5489 
+elaboration Thales.txt 1 6594 
+zeus Thales.txt 2 4428 4511 
+immediate Thales.txt 2 5709 8892 
+discover Thales.txt 1 3624 
+favorable Thales.txt 1 1400 
+gnomon Thales.txt 2 5743 5824 
+authors Thales.txt 4 7924 8125 8248 8356 
+norms Thales.txt 1 7119 
+believe Thales.txt 4 1432 1544 4352 7305 
+peaked Thales.txt 1 796 
+king Thales.txt 3 943 1175 1442 
+kind Thales.txt 1 7047 
+b Thales.txt 3 2132 2138 8552 
+iranian Thales.txt 1 1002 
+single-much Thales.txt 1 7858 
+instruction Thales.txt 1 1566 
+thinker Thales.txt 2 7488 7503 
+i Thales.txt 1 18 
+determined Thales.txt 1 367 
+contrary Thales.txt 2 830 5385 
+supposed Thales.txt 2 2134 8033 
+toward Thales.txt 2 6309 8431 
+traveling Thales.txt 1 6255 
+picked Thales.txt 1 6353 
+pre-existing Thales.txt 1 3568 
+concludes Thales.txt 3 3834 4010 5691 
+simplicius Thales.txt 1 7656 
+constructions Thales.txt 1 5304 
+moist Thales.txt 2 3256 3340 
+square Thales.txt 2 5925 6011 
+generalized Thales.txt 1 6315 
+analogy Thales.txt 1 5810 
+play Thales.txt 1 6975 
+added Thales.txt 2 2960 6656 
+quote Thales.txt 1 3181 
+most Thales.txt 18 54 323 963 1070 1427 1654 1686 2035 2980 4049 4645 6053 6741 6797 7232 7606 7832 8304 
+75 Thales.txt 1 2632 
+significant Thales.txt 1 8387 
+70 Thales.txt 2 2592 2624 
+nothing Thales.txt 4 5368 6152 6308 6406 
+measured Thales.txt 2 2382 2426 
+admitted Thales.txt 2 4721 6534 
+78 Thales.txt 1 399 
+chronicle Thales.txt 2 385 7564 
+clear Thales.txt 2 7392 8527 
+sometimes Thales.txt 1 1298 
+traditional Thales.txt 2 5348 8848 
+ineradicable Thales.txt 1 6089 
+physics Thales.txt 1 2255 
+joining Thales.txt 1 5641 
+particularly Thales.txt 2 802 8023 
+gold Thales.txt 1 3921 
+relation Thales.txt 2 5321 5686 
+find Thales.txt 3 2642 5030 6324 
+occupation Thales.txt 1 622 
+causality Thales.txt 1 2127 
+dividing Thales.txt 1 5732 
+writes Thales.txt 1 6998 
+writer Thales.txt 3 249 4993 8179 
+assertion Thales.txt 2 3470 3498 
+factor Thales.txt 1 3847 
+circle Thales.txt 6 2852 2880 4896 5059 5169 6393 
+ordained Thales.txt 1 3789 
+his Thales.txt 64 289 408 461 474 537 593 607 798 822 840 958 1172 1236 1242 1311 1341 1352 1429 1515 1665 1672 1689 1821 2156 2276 2281 2395 2401 2985 3037 3061 3245 3286 3289 3336 3544 3962 4060 4148 4170 4766 4861 4866 4998 5113 5386 5587 5708 5751 6733 6857 7340 7579 7589 7669 7748 7791 7836 8191 8333 8395 8422 8439 8795 
+triangle Thales.txt 8 2405 2414 2848 2893 4944 5062 5882 5907 
+express Thales.txt 1 8377 
+famous Thales.txt 3 864 2981 7320 
+3/4 Thales.txt 1 2630 
+during Thales.txt 4 254 400 7386 8882 
+him Thales.txt 26 58 126 327 508 575 604 851 1167 1180 1349 1682 2875 3478 3986 4029 4056 4296 4382 5239 6633 6764 7333 7980 8080 8091 8585 
+alexander Thales.txt 1 8320 
+deductive Thales.txt 1 199 
+roles Thales.txt 1 7949 
+sacrificed Thales.txt 1 5065 
+sojourn Thales.txt 2 608 6611 
+common Thales.txt 1 3858 
+activity Thales.txt 1 6567 
+x Thales.txt 1 2596 
+river Thales.txt 4 1157 1204 1438 3754 
+pre-platonic Thales.txt 1 8561 
+wrote Thales.txt 8 563 1931 4796 4814 5724 6866 8324 8786 
+approaching Thales.txt 1 4178 
+set Thales.txt 1 6443 
+equinox Thales.txt 1 570 
+achieved Thales.txt 1 733 
+ousia Thales.txt 1 6754 
+culture Thales.txt 3 6432 7483 7572 
+see Thales.txt 10 10 228 1742 2825 3183 3966 4069 4141 5524 8896 
+individual Thales.txt 4 76 196 216 854 
+migration Thales.txt 1 999 
+sea Thales.txt 5 1782 2697 3800 3964 5036 
+walking-stick Thales.txt 1 5114 
+constellation Thales.txt 1 1772 
+dicaearchus Thales.txt 1 8067 
+learnt Thales.txt 6 5045 5728 5855 6196 6343 8036 
+burnet Thales.txt 1 6527 
+rejecting Thales.txt 1 5653 
+various Thales.txt 2 1355 8619 
+probably Thales.txt 3 236 4107 8349 
+gathered Thales.txt 1 3933 
+creating Thales.txt 1 3726 
+initially Thales.txt 1 1961 
+prelude Thales.txt 1 8393 
+relying Thales.txt 2 8249 8558 
+floats Thales.txt 1 1902 
+league Thales.txt 1 1410 
+c Thales.txt 4 22 24 1823 6384 
+last Thales.txt 1 3118 
+secrets Thales.txt 1 3626 
+sardis Thales.txt 3 1254 1267 1320 
+roman Thales.txt 3 707 3420 4550 
+became Thales.txt 2 1257 8284 
+whole Thales.txt 3 4589 8856 8866 
+finds Thales.txt 1 1448 
+point Thales.txt 3 2766 4697 7185 
+delphinian Thales.txt 1 1729 
+whatever Thales.txt 1 1171 
+contemporaneous Thales.txt 1 7736 
+expensive Thales.txt 2 1646 1676 
+described Thales.txt 5 275 1763 2264 4954 6283 
+stamp Thales.txt 3 2026 6801 8472 
+political Thales.txt 2 908 1516 
+due Thales.txt 5 5139 5206 5395 7581 8818 
+whom Thales.txt 2 218 6051 
+lived Thales.txt 3 6159 7741 7783 
+douris Thales.txt 1 425 
+paronomasia Thales.txt 1 4124 
+fire Thales.txt 1 2187 
+citizen Thales.txt 2 1597 3680 
+gar Thales.txt 1 2296 
+else Thales.txt 1 4202 
+lives Thales.txt 4 290 1633 3268 8702 
+demand Thales.txt 1 795 
+presses Thales.txt 2 752 779 
+advocating Thales.txt 1 5333 
+look Thales.txt 1 8841 
+straight Thales.txt 4 2721 2955 4913 4965 
+tip Thales.txt 1 5766 
+empirical Thales.txt 1 4874 
+corpore Thales.txt 1 4598 
+technical Thales.txt 1 8060 
+while Thales.txt 10 413 1423 3271 3459 3650 4689 5448 6198 7436 8548 
+eclipses Thales.txt 1 5484 
+characteristically Thales.txt 1 2137 
+guide Thales.txt 1 1778 
+credence Thales.txt 1 3043 
+century Thales.txt 11 257 273 6377 7653 7662 8075 8174 8176 8592 8640 8652 
+demoi Thales.txt 1 1394 
+encountered Thales.txt 1 5313 
+itself Thales.txt 12 2032 3452 3601 3952 3984 4002 4177 4206 4593 7088 8389 8513 
+commonly Thales.txt 1 8456 
+facade Thales.txt 1 7284 
+lengths Thales.txt 1 684 
+elevated Thales.txt 1 7568 
+rules Thales.txt 1 6302 
+widely Thales.txt 2 4401 6177 
+grand Thales.txt 1 1611 
+higher Thales.txt 1 1589 
+development Thales.txt 2 3503 6575 
+used Thales.txt 9 175 2366 2686 5564 5841 6015 6022 6275 7167 
+moment Thales.txt 2 2393 2435 
+uses Thales.txt 3 9 2509 3521 
+infused Thales.txt 1 4583 
+justifiable Thales.txt 1 7243 
+older Thales.txt 1 490 
+makes Thales.txt 2 4279 5579 
+obviously Thales.txt 1 8164 
+person Thales.txt 2 691 4510 
+solids Thales.txt 1 2345 
+b.l Thales.txt 1 5326 
+b.c Thales.txt 2 5520 8593 
+stating Thales.txt 1 4618 
+know Thales.txt 2 7616 8061 
+distances Thales.txt 2 2348 2693 
+pack-animals Thales.txt 1 3904 
+judgments Thales.txt 1 8417 
+using Thales.txt 5 148 5097 5112 5460 8115 
+cut Thales.txt 1 4967 
+also Thales.txt 22 229 722 1078 1501 1743 1762 2826 2865 3376 4142 4168 4190 4325 4420 5075 5292 5998 6040 7174 7519 8444 8897 
+source Thales.txt 2 4006 8690 
+parents Thales.txt 1 429 
+testimonies Thales.txt 1 5144 
+theorem Thales.txt 13 210 2816 2820 2824 2828 2842 2863 2869 4934 4961 5004 5099 5107 
+548545 Thales.txt 1 404 
+remaining Thales.txt 1 3121 
+build Thales.txt 1 8090 
+fabulously Thales.txt 1 3683 
+valueless Thales.txt 1 4000 
+aggregation Thales.txt 1 6845 
+dissension Thales.txt 1 7608 
+matters Thales.txt 1 1356 
+lost Thales.txt 1 4714 
+shaped Thales.txt 1 4537 
+follows Thales.txt 2 5341 7062 
+consensus Thales.txt 1 8578 
+individuals Thales.txt 1 7099 
+translated Thales.txt 1 2075 
+mathematical Thales.txt 5 220 2489 4883 5589 7343 
+methods Thales.txt 1 370 
+creation Thales.txt 4 884 900 3563 7001 
+some Thales.txt 25 552 1021 2114 2949 3042 3071 3147 4387 4690 4864 5188 5414 5789 6112 6418 6635 7208 7261 7304 7645 7806 8059 8549 8787 8833 
+back Thales.txt 3 1706 4825 7073 
+understood Thales.txt 2 2356 6591 
+b6 Thales.txt 1 3081 
+270 Thales.txt 1 6450 
+mycale Thales.txt 1 3784 
+sight Thales.txt 3 2748 2773 3960 
+pythagoreans Thales.txt 1 6543 
+oil...he Thales.txt 1 3697 
+per Thales.txt 1 4462 
+religion Thales.txt 4 596 3555 3584 7380 
+behave Thales.txt 1 1999 
+innovation Thales.txt 1 4342 
+fragments Thales.txt 1 8410 
+dating Thales.txt 1 705 
+inimical Thales.txt 1 1026 
+be Thales.txt 30 639 828 894 1380 1393 1679 1774 2014 2122 2136 3146 3214 3318 3395 3640 3788 3912 4077 4228 4237 4404 5903 6173 6547 6556 6590 6958 7902 7918 8244 
+run Thales.txt 4 2460 2500 2516 2590 
+anecdotes Thales.txt 3 713 5198 7795 
+300 Thales.txt 1 4670 
+perpendicular Thales.txt 1 2505 
+stem Thales.txt 2 5570 8276 
+step Thales.txt 1 6720 
+by Thales.txt 73 113 204 280 353 368 661 671 680 689 693 739 852 1081 1155 1169 1187 1321 1337 1420 1688 1897 1914 2347 2388 2602 2626 2665 2702 2802 2883 3092 3247 3269 3510 3516 3551 3564 3790 4116 4187 4358 4654 4793 4899 4983 4991 5024 5096 5111 5122 5178 5358 5441 5788 5809 5864 6146 6217 6479 6558 7922 8227 8234 8246 8300 8345 8421 8460 8496 8564 8604 8642 8649 
+handled Thales.txt 1 3699 
+anything Thales.txt 2 6344 7784 
+lifeless Thales.txt 1 3588 
+grouping Thales.txt 1 7189 
+seeing Thales.txt 3 3339 3764 7422 
+into Thales.txt 20 842 1008 1748 2736 3112 3343 3447 3815 3994 4161 5412 5548 5735 5805 6394 6700 7083 7635 8221 8746 
+within Thales.txt 4 2206 2334 4560 7742 
+athens Thales.txt 5 252 389 610 1084 1478 
+primarily Thales.txt 1 8708 
+impressed Thales.txt 1 1336 
+whims Thales.txt 1 1893 
+ptolemy Thales.txt 1 5578 
+question Thales.txt 3 4727 4749 5195 
+long Thales.txt 3 5366 6610 8769 
+intermediaries Thales.txt 1 8140 
+cybisthus Thales.txt 2 456 539 
+forward Thales.txt 2 3484 3525 
+himself Thales.txt 8 542 817 1447 3057 4097 4778 4848 8436 
+an Thales.txt 48 489 550 698 702 736 853 862 1040 1302 1370 1408 1568 1645 1675 1828 2105 2111 2123 2486 2541 2793 2891 3199 3310 3326 3733 3757 4122 5066 5153 5458 5880 5905 6016 6047 6098 6711 6782 6850 6873 7012 7091 7203 7220 7573 7755 8255 8445 
+great Thales.txt 3 4516 4595 8322 
+archaic Thales.txt 1 4951 
+lydia Thales.txt 1 941 
+line Thales.txt 2 2771 4914 
+considerable Thales.txt 1 8762 
+nuremberg Thales.txt 1 7563 
+characteristic Thales.txt 2 2002 2522 
+stumbling Thales.txt 1 8429 
+up Thales.txt 7 1265 2636 3578 6354 6444 7079 8092 
+us Thales.txt 11 1271 1465 2992 4067 4789 4835 6674 6896 6914 8151 8873 
+cit Thales.txt 1 2379 
+z Thales.txt 1 19 
+similar Thales.txt 5 2357 2419 2803 4959 6247 
+called Thales.txt 6 2866 3477 3802 5463 6557 6763 
+defined Thales.txt 1 4265 
+likewise Thales.txt 2 6224 6372 
+influence Thales.txt 7 5255 5338 5544 5785 7270 7294 7385 
+metals Thales.txt 1 3950 
+engineering Thales.txt 2 618 624 
+1892 Thales.txt 1 6528 
+defines Thales.txt 1 7011 
+peace Thales.txt 1 1114 
+kirk Thales.txt 2 2708 8402 
+reputation Thales.txt 3 4656 7580 7913 
+explaining Thales.txt 3 108 128 7540 
+draw Thales.txt 1 3970 
+elements Thales.txt 3 2192 4995 5300 
+wrongly Thales.txt 1 6737 
+calculating Thales.txt 1 1811 
+lend Thales.txt 3 3041 6120 8512 
+homericus Thales.txt 1 3331 
+sided Thales.txt 1 1131 
+problems Thales.txt 1 2475 
+meaning Thales.txt 3 2088 5749 6769 
+sides Thales.txt 2 1210 1231 
+structure Thales.txt 1 5405 
+e Thales.txt 2 16 5648 
+disarray Thales.txt 1 8763 
+practically Thales.txt 1 2684 
+age Thales.txt 5 397 6367 6862 8663 8864 
+notion Thales.txt 1 6875 
+implied Thales.txt 1 2129 
+largely Thales.txt 1 8611 
+fresh Thales.txt 1 1251 
+themselvesa Thales.txt 1 5359 
+having Thales.txt 9 523 2843 2854 5009 5044 5401 5409 5899 6642 
+once Thales.txt 2 6710 8488 
+proposition Thales.txt 2 6878 6903 
+broader Thales.txt 1 7171 
+go Thales.txt 3 1651 2617 4820 
+moon Thales.txt 1 5495 
+seqed Thales.txt 1 2455 
+birthplace Thales.txt 1 6190 
+deterministic Thales.txt 1 6961 
+young Thales.txt 2 478 7327 
+citing Thales.txt 1 8828 
+include Thales.txt 2 5761 7794 
+sent Thales.txt 2 1239 1712 
+confirmation Thales.txt 1 3495 
+materialist Thales.txt 1 6747 
+gnatura Thales.txt 1 2015 
+wave Thales.txt 1 997 
+telling Thales.txt 1 473 
+minerals Thales.txt 1 3910 
+categories Thales.txt 3 6704 8909 8911 
+materialism Thales.txt 4 6954 6962 7014 7034 
+harbor Thales.txt 1 3725 
+positions Thales.txt 1 8267 
+marry Thales.txt 1 486 
+f Thales.txt 1 5645 
+fewer Thales.txt 1 1147 
+anxious Thales.txt 1 532 
+leveler Thales.txt 1 3843 
+noted Thales.txt 2 3424 6529 
+concluded Thales.txt 1 2935 
+xenophanes Thales.txt 2 6490 8645 
+mediterranean Thales.txt 1 4350 
+rivers Thales.txt 1 3924 
+enclosed Thales.txt 1 2794 
+insertion Thales.txt 1 2768 
+nephew Thales.txt 2 462 538 
+fabrication Thales.txt 1 7597 
+doctrines Thales.txt 3 3527 8212 8441 
+business Thales.txt 2 696 3852 
+giving Thales.txt 3 3732 3889 4282 
+expressed Thales.txt 1 2567 
+access Thales.txt 2 8341 8351 
+proffer Thales.txt 1 3030 
+ursa Thales.txt 1 1767 
+body Thales.txt 2 1378 4321 
+focuses Thales.txt 1 7524 
+personification Thales.txt 1 4432 
+leg Thales.txt 3 2795 2807 2860 
+respectively Thales.txt 1 441 
+cubits Thales.txt 5 2510 2557 2588 2593 2606 
+following Thales.txt 3 797 7584 8684 
+objects Thales.txt 7 110 2171 2181 2235 4151 4157 7018 
+others Thales.txt 10 559 1405 4859 4872 7272 7361 7682 7709 7939 8368 
+phoenician Thales.txt 3 279 4133 7845 
+invented Thales.txt 1 8216 
+convert Thales.txt 1 3813 
+engage Thales.txt 1 1286 
+receive Thales.txt 1 5126 
+involved Thales.txt 1 541 
+30 Thales.txt 1 4662 
+contradiction Thales.txt 1 8765 
+resulting Thales.txt 1 2517 
+opinion Thales.txt 2 2682 7804 
+herodotus Thales.txt 17 268 295 364 423 981 1362 1424 5606 5675 5723 5781 6185 6218 6403 7675 7739 8361 
+involves Thales.txt 1 5038 
+composed Thales.txt 4 1833 2183 2237 3410 
+named Thales.txt 1 4711 
+egypt Thales.txt 12 1614 2910 4822 4846 5888 6084 6183 6187 6231 6257 7337 8041 
+damasius Thales.txt 1 1476 
+names Thales.txt 2 435 8612 
+use Thales.txt 17 96 198 886 902 2278 2540 2659 5270 5281 5479 5580 5612 5752 6369 8136 8166 8821 
+from Thales.txt 68 5 35 94 132 188 583 609 706 735 1402 1567 1578 1736 2006 2107 2143 2352 2427 2755 2764 2968 2996 3099 3106 3155 3217 3264 3338 3358 3914 3923 3934 4441 4482 4542 4615 4790 4877 5047 5430 5471 5488 5525 5571 5744 5887 6222 6433 6511 7007 7023 7074 7133 7182 7277 7497 7610 7621 7754 7785 8173 8190 8278 8313 8332 8810 8861 8888 
+remains Thales.txt 1 6838 
+next Thales.txt 1 6718 
+few Thales.txt 3 355 2650 7744 
+examination Thales.txt 1 3581 
+themselves Thales.txt 2 1880 7144 
+historically Thales.txt 4 71 669 882 897 
+sort Thales.txt 2 6952 7032 
+grandest Thales.txt 1 3644 
+comparison Thales.txt 1 681 
+becomes Thales.txt 2 3110 4728 
+unbridged Thales.txt 1 1160 
+harvest Thales.txt 3 738 762 804 
+depiction Thales.txt 1 3185 
+account Thales.txt 1 5549 
+mythical Thales.txt 4 7445 7465 7502 7556 
+consort Thales.txt 1 1618 
+this Thales.txt 45 501 644 812 872 1063 1161 1296 1719 1727 1977 2335 2353 2443 2717 3050 3170 3180 3574 3632 3810 4057 4338 4828 4960 5003 5039 5320 5374 5582 5698 5846 5889 6020 6043 6366 6456 6902 6951 7031 7530 7583 8165 8570 8706 8820 
+challenge Thales.txt 1 848 
+stroke Thales.txt 2 412 5632 
+dedication...thales Thales.txt 1 1720 
+didnt Thales.txt 2 3054 4250 
+proof Thales.txt 1 5411 
+borrowed Thales.txt 1 5470 
+reserved Thales.txt 1 778 
+anaximanders Thales.txt 1 7318 
+links Thales.txt 2 5662 8907 
+seked Thales.txt 8 2453 2469 2533 2564 2661 2754 2775 2787 
+pieces Thales.txt 1 8182 
+high Thales.txt 1 792 
+something Thales.txt 8 2092 4201 4411 6237 6644 6657 6696 6915 
+sought Thales.txt 2 3463 7248 
+native Thales.txt 2 330 1549 
+united Thales.txt 1 4015 
+holds Thales.txt 9 2304 3573 3867 3954 4732 4761 5871 6065 6135 
+clement Thales.txt 1 7699 
+evidently Thales.txt 1 8595 
+solidifying Thales.txt 1 3357 
+located Thales.txt 1 1381 
+instead Thales.txt 4 107 146 1866 4505 
+intelligent Thales.txt 2 863 8055 
+watery Thales.txt 1 4568 
+plato Thales.txt 5 6254 7676 7978 8363 8889 
+frustum Thales.txt 1 6005 
+philosophy Thales.txt 16 88 826 3173 3482 6613 6623 6858 6868 7373 7535 8309 8400 8426 8468 8852 8879 
+physis Thales.txt 2 2004 6756 
+dc Thales.txt 1 7289 
+halted Thales.txt 1 1048 
+ethnic Thales.txt 1 7158 
+solon Thales.txt 5 503 600 1082 1624 7931 
+light Thales.txt 1 3072 
+lines Thales.txt 3 2342 2920 4966 
+element Thales.txt 1 3133 
+commodities Thales.txt 1 3890 
+encyclopedia Thales.txt 1 6759 
+asserts Thales.txt 1 1493 
+pyramids Thales.txt 8 182 679 695 2387 2424 5095 5124 6240 
+subsequently Thales.txt 2 1006 1324 
+martini Thales.txt 1 5646 
+archimedes Thales.txt 1 6330 
+astronomical Thales.txt 2 5284 6476 
+move Thales.txt 2 1968 4200 
+interpreted Thales.txt 1 1300 
+sperm Thales.txt 1 4039 
+mathematicians Thales.txt 2 5235 5354 
+own Thales.txt 9 2396 3038 3062 3287 6115 7928 8192 8280 8396 
+including Thales.txt 3 970 6104 7173 
+mentioned Thales.txt 2 358 1045 
+trapezoids Thales.txt 1 5993 
+ships Thales.txt 3 187 2695 5034 
+accredited Thales.txt 1 5182 
+winning Thales.txt 1 1733 
+degrees Thales.txt 3 2654 6396 7798 
+asking Thales.txt 1 6692 
+primal Thales.txt 2 6883 6918 
+latitude Thales.txt 2 5492 5547 
+image Thales.txt 1 6932 
+originator Thales.txt 2 3480 7987 
+greater Thales.txt 3 3641 8186 8624 
+descendants Thales.txt 1 6794 
+material Thales.txt 6 169 2068 2234 3023 4053 8659 
+ship Thales.txt 2 2750 3730 
+mention Thales.txt 3 5252 6298 6627 
+hands Thales.txt 1 6580 
+day Thales.txt 4 1822 5734 5804 7769 
+profound Thales.txt 4 6087 7293 7419 7972 
+edit Thales.txt 26 227 339 619 697 906 1452 1741 1841 2271 2814 2978 3536 4140 4657 5205 6607 6739 7039 7127 7273 7561 8898 8900 8902 8905 8908 
+concave Thales.txt 1 5777 
+luna Thales.txt 1 4575 
+truth Thales.txt 3 3467 7094 8433 
+persia Thales.txt 1 3832 
+references Thales.txt 2 294 8901 
+identifies Thales.txt 1 612 
+doing Thales.txt 1 811 
+globe Thales.txt 1 4573 
+700 Thales.txt 1 7786 
+related Thales.txt 3 2010 2096 2346 
+constitute Thales.txt 1 879 
+society Thales.txt 1 7121 
+books Thales.txt 1 8335 
+measure Thales.txt 4 2691 2778 2923 5090 
+separating Thales.txt 1 8808 
+relates Thales.txt 2 1640 5508 
+agriculture Thales.txt 1 3744 
+out Thales.txt 21 789 2325 3060 3440 3648 3674 3938 4099 4698 5245 5446 5576 5798 6216 6467 7396 7820 7886 8101 8209 8630 
+category Thales.txt 2 7673 7685 
+194-120 Thales.txt 1 6385 
+sufficed Thales.txt 1 2609 
+oriental Thales.txt 1 3685 
+cause Thales.txt 3 4633 4903 5669 
+achievements Thales.txt 4 4884 7865 8086 8622 
+585 Thales.txt 2 379 1759 
+582 Thales.txt 1 1480 
+dictionary Thales.txt 1 3416 
+argumentation Thales.txt 3 7442 7529 7547 
+maintains Thales.txt 1 5621 
+surely Thales.txt 1 6207 
+miletus...a Thales.txt 1 3688 
+ridge Thales.txt 1 5913 
+allies Thales.txt 1 1245 
+geometry Thales.txt 17 176 203 2270 2280 2837 4718 5001 5046 5101 5260 5356 5407 5413 6105 6192 6267 6462 
+bouleuterion Thales.txt 1 1376 
+could Thales.txt 15 786 827 1607 2938 3639 3759 3911 4072 4076 4236 4701 5693 5997 6340 6368 
+thales...were Thales.txt 1 8218 
+times Thales.txt 3 708 2536 4427 
+length Thales.txt 1 2421 
+hence Thales.txt 3 3471 6809 8804 
+ionia Thales.txt 1 1388 
+ionic Thales.txt 1 1454 
+powerful Thales.txt 1 4052 
+a7-8 Thales.txt 1 1935 
+spontaneously Thales.txt 1 1047 
+improvements Thales.txt 1 3728 
+reached Thales.txt 1 3244 
+precisely Thales.txt 2 2085 5920 
+ancient Thales.txt 12 248 1001 2487 4346 4364 5716 6054 6078 7262 7631 7877 8116 
+unknown Thales.txt 2 5758 6402 
+system Thales.txt 2 5273 6400 
+adopted Thales.txt 4 460 536 3091 8495 
+their Thales.txt 11 1592 2170 2389 2568 4378 6114 6398 6416 7768 7927 7954 
+intermediate Thales.txt 1 8168 
+travelled Thales.txt 1 3891 
+j.l Thales.txt 1 5647 
+explanation Thales.txt 1 3734 
+exactly Thales.txt 3 347 2245 5904 
+studies Thales.txt 1 7344 
+genuineness Thales.txt 1 8259 
+reflecting Thales.txt 1 6849 
+riches Thales.txt 1 734 
+defense Thales.txt 1 922 
+biographical Thales.txt 2 8223 8710 
+visited Thales.txt 4 504 2909 5721 7323 
+sculpture Thales.txt 1 7276 
+distinguished Thales.txt 2 336 7138 
+are Thales.txt 36 317 345 350 436 1098 1542 1942 2164 2173 2182 2236 2249 2418 2578 2830 2894 2900 2944 2957 2963 2970 3139 3611 4945 4975 5311 5786 5883 6074 6746 6751 6949 7105 7719 7775 8418 
+false Thales.txt 1 4405 
+have Thales.txt 45 82 1524 2084 2338 2437 3048 3455 3492 3871 3907 4336 4399 4702 4806 4922 4927 4931 5199 5344 5435 5453 5468 5563 5696 5928 6045 6180 6195 6204 6220 6228 6235 6342 6352 6442 6532 6690 6779 6833 7193 7256 8035 8340 8484 8635 
+need Thales.txt 1 2715 
+demonstration Thales.txt 1 4988 
+intersecting Thales.txt 1 2919 
+viewed Thales.txt 1 3353 
+catholic Thales.txt 1 6758 
+angle Thales.txt 6 2560 2645 2781 2791 5163 5173 
+pupils Thales.txt 3 7321 8674 8893 
+able Thales.txt 3 5088 5455 6174 
+1.39 Thales.txt 1 1638 
+320 Thales.txt 3 7638 7717 8007 
+bisection Thales.txt 1 4906 
+which Thales.txt 44 1586 2145 2232 2256 2331 2417 2662 2808 2988 3068 3100 3107 3113 3156 3322 3362 3442 3448 3487 3519 4184 4274 4310 4397 4536 5025 5301 5541 5558 5566 5700 6493 6668 6730 6750 7016 7240 7793 7867 7916 8030 8282 8481 8615 
+divert Thales.txt 1 1436 
+1.35 Thales.txt 1 4605 
+posits Thales.txt 1 1947 
+unless Thales.txt 1 1598 
+allow Thales.txt 1 4066 
+centre Thales.txt 1 4917 
+who Thales.txt 29 299 316 855 932 949 990 1004 1323 1683 1746 1921 3405 4659 4708 4795 5507 5796 6438 6624 7137 7178 7403 7782 7900 7946 8057 8230 8323 8730 
+connected Thales.txt 1 640 
+why Thales.txt 6 509 858 2261 3045 3275 4248 
+doxographical Thales.txt 1 8288 
+subtracted Thales.txt 1 2967 
+metaphysical Thales.txt 1 8507 
+pittacus Thales.txt 1 7935 
+1,000 Thales.txt 1 7788 
+se Thales.txt 1 4463 
+mechanical Thales.txt 1 3727 
+businessman Thales.txt 1 724 
+fact Thales.txt 5 1964 2242 4128 7622 8809 
+unimpeded Thales.txt 1 4909 
+impression Thales.txt 2 6090 8257 
+chances Thales.txt 1 8656 
+supported Thales.txt 1 7106 
+bring Thales.txt 1 4824 
+argues Thales.txt 1 6507 
+soldiers Thales.txt 1 1023 
+feat Thales.txt 2 2718 6831 
+debate Thales.txt 1 5226 
+principal Thales.txt 1 621 
+o Thales.txt 2 5505 5650 
+based Thales.txt 8 137 1106 3035 4125 6752 7070 7460 8596 
+knowledge Thales.txt 11 642 2368 2728 2782 3633 4842 5699 6100 6317 6663 8193 
+credited Thales.txt 1 7870 
+should Thales.txt 3 1392 1678 6956 
+euclidem Thales.txt 1 2705 
+indeed Thales.txt 1 3507 
+watching Thales.txt 1 414 
+familiar Thales.txt 1 2449 
+ones Thales.txt 1 5219 
+words Thales.txt 3 2081 3087 6327 
+arranged Thales.txt 1 6312 
+doubtful Thales.txt 1 1450 
+areas Thales.txt 1 5982 
+processes Thales.txt 1 1879 
+substrate Thales.txt 1 7025 
+married Thales.txt 3 450 472 7856 
+processed Thales.txt 1 3913 
+cycles Thales.txt 1 5480 
+generations Thales.txt 2 7604 8887 
+view Thales.txt 5 6813 7187 7493 8423 8854 
+computed Thales.txt 1 5486 
+exists Thales.txt 1 3104 
+national Thales.txt 1 7124 
+fictitious Thales.txt 1 8205 
+scholastic Thales.txt 1 3538 
+greece Thales.txt 6 52 233 4827 5844 7766 7909 
+acquires Thales.txt 1 3231 
+closer Thales.txt 3 3580 7925 8118 
+attempting Thales.txt 1 2250 
+nuclear Thales.txt 1 2254 
+illusory Thales.txt 1 8256 
+milesians Thales.txt 4 614 824 1283 6167 
+genius Thales.txt 1 5387 
+state Thales.txt 4 1372 4366 5963 6471 
+supernatural Thales.txt 3 1892 7360 7364 
+correctly Thales.txt 1 6000 
+progress Thales.txt 3 1052 7279 8430 
+neither Thales.txt 1 5701 
+bought Thales.txt 1 748 
+ability Thales.txt 2 2657 4195 
+opening Thales.txt 1 4484 
+physicist Thales.txt 1 6784 
+spared Thales.txt 2 1325 1348 
+hypothesis Thales.txt 4 154 3007 6551 6824 
+historians Thales.txt 10 4691 5189 5415 5644 5791 6419 7628 7807 8550 8834 
+configuration Thales.txt 1 7069 
+interpretations Thales.txt 2 6606 8281 
+deductionhe Thales.txt 1 4775 
+career Thales.txt 2 1517 8698 
+taking Thales.txt 2 546 7078 
+equal Thales.txt 15 2399 2408 2439 2895 2901 2933 2945 2958 2964 2971 4946 4956 4976 5015 5884 
+attributed Thales.txt 7 224 573 1801 1837 2873 6095 8781 
+agree Thales.txt 3 301 6056 6798 
+etc Thales.txt 2 5994 8364 
+manifestations Thales.txt 1 4440 
+figures Thales.txt 2 2608 5988 
+syzygy Thales.txt 1 5501 
+attributes Thales.txt 3 407 5002 5592 
+passing Thales.txt 1 7749 
+otherwise Thales.txt 2 70 8760 
+carian Thales.txt 1 438 
+conclude Thales.txt 1 3665 
+removal Thales.txt 1 4479 
+table Thales.txt 1 2639 
+600 Thales.txt 1 5519 
+poem Thales.txt 1 4106 
+addition Thales.txt 3 2871 4838 5069 
+tutor Thales.txt 1 8318 
+copied Thales.txt 2 8170 8226 
+mytilene Thales.txt 1 7937 
+define Thales.txt 2 2228 2676 
+arises Thales.txt 2 3445 8105 
+diversity Thales.txt 1 5216 
+both Thales.txt 5 1209 1230 5828 5973 8449 
+sufficient Thales.txt 1 2579 
+cos Thales.txt 1 6448 
+assert Thales.txt 1 8414 
+angles Thales.txt 14 2350 2785 2889 2899 2926 2943 2956 4937 4957 4974 5011 5276 5878 5933 
+improved Thales.txt 1 4990 
+fellow Thales.txt 2 823 1430 
+present Thales.txt 3 1090 7490 8380 
+unlike Thales.txt 1 3460 
+compilers Thales.txt 3 7781 8132 8407 
+value Thales.txt 2 3879 6033 
+will Thales.txt 5 1673 1860 5939 6546 6568 
+mythology Thales.txt 2 98 3423 
+fielding Thales.txt 1 4602 
+discoveries Thales.txt 1 8084 
+primacy Thales.txt 1 4784 
+neugebauer Thales.txt 2 5506 5651 
+uncertainty Thales.txt 1 6982 
+examines Thales.txt 1 5551 
+almost Thales.txt 3 119 6405 8667 
+thus Thales.txt 2 6241 8240 
+hardware Thales.txt 1 4033 
+bathycles Thales.txt 1 1667 
+capture Thales.txt 1 7057 
+russell Thales.txt 2 6811 6846 
+perhaps Thales.txt 2 1168 4119 
+connection Thales.txt 1 1342 
+unity Thales.txt 4 134 6806 6970 7207 
+parts Thales.txt 2 5737 5807 
+digging Thales.txt 1 1188 
+units Thales.txt 1 2498 
+conflicting Thales.txt 1 445 
+practice Thales.txt 1 5730 
+practitioner Thales.txt 1 4756 
+again Thales.txt 2 1709 2023 
+upon Thales.txt 2 3566 3595 
+effect Thales.txt 1 6048 
+cubit Thales.txt 1 2531 
+student Thales.txt 2 1510 6770 
+frequently Thales.txt 1 5312 
+scholars Thales.txt 1 7209 
+keep Thales.txt 1 603 
+off Thales.txt 1 3827 
+center Thales.txt 2 1386 2429 
+nevertheless Thales.txt 1 528 
+well Thales.txt 6 1750 2286 4555 7052 7762 8366 
+fighting Thales.txt 1 1291 
+thought Thales.txt 14 259 651 834 1770 1939 1952 3314 4166 4494 6648 6803 6946 7404 7466 
+command Thales.txt 1 4767 
+english Thales.txt 1 8406 
+position Thales.txt 8 1765 1813 2340 2983 3393 5852 6171 8574 
+spherical Thales.txt 1 5776 
+heavily Thales.txt 1 1079 
+half Thales.txt 1 8071 
+obtain Thales.txt 1 8011 
+sources Thales.txt 16 361 5211 5433 5443 6055 7313 7560 7632 7712 7732 7772 8117 8169 8252 8796 8830 
+underlying Thales.txt 1 4855 
+tzetzes Thales.txt 1 7707 
+rocked Thales.txt 1 1913 
+pre-socratic Thales.txt 6 29 123 7130 7388 8658 8851 
+reasons Thales.txt 2 3486 6909 
+other Thales.txt 22 8 122 1845 2862 3159 3221 3651 3930 4156 4363 4471 4875 5643 6728 6775 7151 7260 7296 7627 7725 7898 8355 
+wet Thales.txt 1 3266 
+earthquakes Thales.txt 2 1887 1907 
+raven Thales.txt 2 2709 8405 
+cuneiform Thales.txt 1 5316 
+myth Thales.txt 2 6076 7377 
+eudoxus Thales.txt 1 4674 
+five Thales.txt 1 1034 
+community Thales.txt 1 7050 
+resolves Thales.txt 1 3451 
+press Thales.txt 1 704 
+immediately Thales.txt 2 1115 3473 
+height Thales.txt 6 677 2384 2402 2442 2757 5092 
+prominent Thales.txt 1 6141 
+necessary Thales.txt 2 3143 6894 
+like Thales.txt 6 519 1522 4469 6420 8551 8835 
+excluding Thales.txt 1 1414 
+alternatively Thales.txt 1 836 
+sages Thales.txt 8 50 231 1068 1345 1469 1530 1703 7907 
+loses Thales.txt 1 3233 
+become Thales.txt 3 1508 3157 4155 
+works Thales.txt 5 2548 7890 8344 8353 8632 
+italian Thales.txt 3 7165 7206 8749 
+shed Thales.txt 1 3070 
+because Thales.txt 14 655 844 1327 1966 2140 4259 5891 6357 6911 6924 6937 7565 8241 8384 
+pherecydes Thales.txt 1 587 
+classical Thales.txt 1 4493 
+983 Thales.txt 1 3080 
+belonged Thales.txt 1 312 
+phenomena Thales.txt 4 112 1855 1872 7253 
+searching Thales.txt 1 7351 
+alive Thales.txt 4 1926 3946 4229 4333 
+promontory Thales.txt 1 3782 
+stuffs Thales.txt 1 3932 
+home Thales.txt 2 1234 5898 
+proofs Thales.txt 2 3529 6320 
+scythian Thales.txt 1 1022 
+contested Thales.txt 2 5787 6464 
+lead Thales.txt 2 4314 7349 
+philosopher Thales.txt 8 31 62 720 865 6619 7135 8317 8725 
+does Thales.txt 9 1307 3575 5248 5607 6926 7467 7477 8336 8510 
+assuming Thales.txt 1 1885 
+lodestones Thales.txt 1 652 
+medieval Thales.txt 1 6793 
+although Thales.txt 1 8347 
+analyses Thales.txt 2 8306 8508 
+feldman Thales.txt 8 3572 3646 3712 3833 3862 3936 4009 4081 
+refuge Thales.txt 1 1015 
+individualism Thales.txt 1 7517 
+gained Thales.txt 2 1274 4844 
+about Thales.txt 20 263 526 1479 2666 3008 3064 4514 5371 5738 6345 6407 6415 6430 6916 7516 7588 7633 8037 8357 8584 
+actual Thales.txt 2 6276 7862 
+propositions Thales.txt 1 4851 
+extension Thales.txt 2 2333 2336 
+universe Thales.txt 3 105 3992 7006 
+recognized Thales.txt 4 72 91 3653 6640 
+bertrand Thales.txt 1 6810 
+sweat Thales.txt 3 3874 3900 4041 
+introduced Thales.txt 1 5410 
+rendered Thales.txt 1 3116 
+letters Thales.txt 2 582 8780 
+satire Thales.txt 1 4109 
+washington Thales.txt 1 7288 
+5.25 Thales.txt 2 2563 2603 
+weather Thales.txt 2 743 758 
+mere Thales.txt 1 4729 
+proclus Thales.txt 7 2703 4794 4813 4878 5071 5247 7648 
+van Thales.txt 1 5327 
+additional Thales.txt 1 8181 
+geoffrey Thales.txt 1 8401 
+apuleius Thales.txt 1 7698 
+incipient Thales.txt 1 3311 
+imperial Thales.txt 1 3710 
+diminishes Thales.txt 1 5378 
+but Thales.txt 35 349 721 818 1036 1105 1227 1304 2078 2172 2190 2506 2520 2575 3124 3230 3597 4324 4802 5261 5485 5591 5620 6063 6151 6452 6680 6825 7103 7366 7518 8156 8390 8509 8750 8784 
+volume Thales.txt 1 6002 
+repeated Thales.txt 1 8245 
+delivers Thales.txt 1 444 
+apollo Thales.txt 2 1715 1730 
+he Thales.txt 86 44 68 191 211 319 470 510 516 535 555 562 625 747 866 960 1150 1152 1163 1182 1280 1347 1446 1505 1576 1599 1711 1783 1798 2291 2381 2447 2671 2911 3196 3306 3462 3475 3523 3606 3671 3801 3905 3925 3953 4165 4249 4257 4389 4628 4760 4830 4843 4847 4953 5019 5050 5064 5444 5574 5638 5692 5861 6064 6158 6193 6201 6226 6232 6339 6348 6637 6777 7166 7394 7454 7457 7839 7847 7854 7868 8031 8048 8348 8628 8726 8751 
+made Thales.txt 7 839 1113 2742 5496 5611 6306 6987 
+wise Thales.txt 1 1655 
+places Thales.txt 1 8752 
+whether Thales.txt 9 1087 2655 3892 4751 5196 7838 7846 7853 8544 
+j Thales.txt 1 6495 
+variations Thales.txt 2 5127 5142 
+record Thales.txt 1 8563 
+below Thales.txt 1 2712 
+stories Thales.txt 7 1535 1643 3715 6249 7432 7557 7587 
+anaximander Thales.txt 5 6488 6583 7306 7728 8643 
+demonstrate Thales.txt 1 4893 
+problem Thales.txt 3 1178 3188 8104 
+minutes Thales.txt 1 2651 
+strengthens Thales.txt 1 4563 
+supreme Thales.txt 1 4434 
+rightly Thales.txt 1 6735 
+universal Thales.txt 2 4415 4545 
+recounts Thales.txt 1 730 
+examyes Thales.txt 1 431 
+aristotle Thales.txt 34 56 151 649 773 805 1930 1946 1984 2033 2151 2216 2997 3003 3026 3053 3058 3240 3390 3472 3520 4264 4361 6762 6787 7136 7677 8301 8314 8330 8435 8556 8665 8718 8895 
+our Thales.txt 1 2012 
+commentators Thales.txt 2 7779 8215 
+education Thales.txt 1 1590 
+compared Thales.txt 2 5949 8716 
+theon Thales.txt 1 7695 
+detail Thales.txt 1 8516 
+scholarly Thales.txt 2 5225 8577 
+book Thales.txt 8 594 3415 3509 4715 4792 4812 5297 5588 
+compares Thales.txt 1 6726 
+details Thales.txt 1 8693 
+conclusion Thales.txt 2 3246 3337 
+living Thales.txt 4 3957 4218 4242 7715 
+nourishment Thales.txt 1 3251 
+shown Thales.txt 1 5263 
+solstices Thales.txt 2 1797 5689 
+additionally Thales.txt 1 1800 
+astronomy Thales.txt 6 1740 1832 5267 6062 6650 8029 
+rule Thales.txt 1 2109 
+pupil Thales.txt 1 7309 
+volumes Thales.txt 1 5984 
+orphic Thales.txt 1 3457 
+understand Thales.txt 1 3617 

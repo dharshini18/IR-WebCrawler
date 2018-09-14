@@ -1,0 +1,982 @@
+slope In-situ.txt 1 1275 
+all In-situ.txt 3 1193 1590 1874 
+concept In-situ.txt 3 1561 1689 2844 
+partial In-situ.txt 1 1540 
+chinese In-situ.txt 1 2260 
+magnetic In-situ.txt 1 2890 
+existing In-situ.txt 3 1251 1274 1285 
+facilities In-situ.txt 1 2602 
+legal In-situ.txt 1 2139 
+computation In-situ.txt 1 1630 
+skin In-situ.txt 1 2472 
+simulators In-situ.txt 1 2578 
+moon In-situ.txt 1 2839 
+layers In-situ.txt 2 394 416 
+nanogels In-situ.txt 2 1008 2606 
+preserves In-situ.txt 1 1951 
+referring In-situ.txt 1 1810 
+technique In-situ.txt 1 2655 
+environment In-situ.txt 4 878 1954 2047 2871 
+to In-situ.txt 90 7 43 60 137 181 210 288 302 395 438 481 523 535 564 624 634 646 677 691 744 835 861 871 879 899 939 1051 1092 1122 1206 1214 1232 1347 1352 1369 1371 1374 1392 1405 1419 1435 1508 1524 1565 1567 1631 1650 1682 1711 1721 1756 1767 1792 1811 1827 1836 1853 1917 1935 1956 1985 2008 2031 2044 2080 2090 2101 2125 2132 2207 2238 2268 2321 2396 2498 2568 2579 2652 2660 2668 2679 2687 2730 2760 2828 2864 2907 2924 2938 2970 
+compensate In-situ.txt 1 862 
+tj In-situ.txt 1 17 
+present In-situ.txt 2 1219 2442 
+supplies In-situ.txt 1 2821 
+under In-situ.txt 6 788 1921 1929 1943 2197 2934 
+alberta In-situ.txt 1 2743 
+include In-situ.txt 1 998 
+resources In-situ.txt 2 915 2109 
+parcel In-situ.txt 1 1782 
+very In-situ.txt 1 2739 
+cadaver In-situ.txt 1 2515 
+electron In-situ.txt 1 1965 
+updates In-situ.txt 1 1543 
+word In-situ.txt 1 1515 
+difference In-situ.txt 1 1729 
+bringing In-situ.txt 2 1628 2664 
+condition In-situ.txt 3 1286 2324 2374 
+governments In-situ.txt 1 2196 
+entire In-situ.txt 1 1581 
+baking In-situ.txt 1 2922 
+quantitatively In-situ.txt 1 838 
+called In-situ.txt 1 1535 
+altering In-situ.txt 1 112 
+cause In-situ.txt 1 2955 
+inflexible In-situ.txt 1 1183 
+large In-situ.txt 1 1451 
+item In-situ.txt 2 347 356 
+convenience In-situ.txt 1 993 
+re-grant In-situ.txt 1 2178 
+radio In-situ.txt 1 2750 
+loads In-situ.txt 1 1302 
+unaware In-situ.txt 1 1607 
+servers In-situ.txt 1 1566 
+work In-situ.txt 7 149 378 483 495 525 1157 2710 
+booty In-situ.txt 1 349 
+radiosonde In-situ.txt 1 1779 
+direct In-situ.txt 2 1770 2842 
+literature In-situ.txt 2 2313 2316 
+filled In-situ.txt 2 1264 1290 
+past In-situ.txt 1 352 
+invaded In-situ.txt 1 2451 
+cost In-situ.txt 3 1835 1845 1849 
+design In-situ.txt 3 1653 1658 1669 
+displays In-situ.txt 1 1517 
+earth In-situ.txt 2 1690 1700 
+further In-situ.txt 2 239 376 
+air In-situ.txt 2 1784 2809 
+what In-situ.txt 3 2271 2273 2309 
+appear In-situ.txt 1 2503 
+assistance In-situ.txt 1 2958 
+cooking In-situ.txt 1 2105 
+crust In-situ.txt 1 2697 
+near In-situ.txt 1 1222 
+uniform In-situ.txt 1 420 
+cell In-situ.txt 4 765 781 819 1927 
+public In-situ.txt 3 2198 2337 2383 
+waiting In-situ.txt 1 1851 
+vehicle In-situ.txt 2 2833 2973 
+reconstruction In-situ.txt 1 2054 
+scientists In-situ.txt 1 275 
+new In-situ.txt 2 1576 2175 
+nataea In-situ.txt 1 665 
+petra In-situ.txt 1 452 
+slabs In-situ.txt 1 1131 
+body In-situ.txt 3 2468 2540 2553 
+supporting In-situ.txt 1 1300 
+dwarf In-situ.txt 1 616 
+exchange In-situ.txt 1 2158 
+interrupting In-situ.txt 1 1326 
+commercial In-situ.txt 1 2794 
+here In-situ.txt 1 2119 
+water In-situ.txt 4 1308 1742 2658 2667 
+desired In-situ.txt 1 2558 
+deposition In-situ.txt 1 194 
+upgrade In-situ.txt 1 1383 
+studio In-situ.txt 1 545 
+web In-situ.txt 3 1552 1555 1573 
+situation In-situ.txt 1 1829 
+alone In-situ.txt 1 820 
+i.e In-situ.txt 3 687 1928 2222 
+buy In-situ.txt 1 2312 
+obtained In-situ.txt 1 1768 
+tunneling In-situ.txt 1 2060 
+healthy In-situ.txt 1 2506 
+economics In-situ.txt 2 1801 1804 
+allows In-situ.txt 1 1521 
+dissolve In-situ.txt 1 2661 
+prior In-situ.txt 1 1710 
+amount In-situ.txt 1 1431 
+products In-situ.txt 1 1896 
+advertising In-situ.txt 2 1655 1660 
+situations In-situ.txt 1 964 
+usually In-situ.txt 4 1165 1247 1611 1819 
+proof In-situ.txt 1 1687 
+reactors In-situ.txt 2 1068 1081 
+involves In-situ.txt 2 1248 2159 
+looted In-situ.txt 1 342 
+examining In-situ.txt 1 779 
+tasks In-situ.txt 1 1610 
+extra In-situ.txt 1 1430 
+while In-situ.txt 5 1376 1395 2767 2804 2931 
+erected In-situ.txt 4 581 2332 2352 2380 
+visible In-situ.txt 1 2056 
+archaeological In-situ.txt 2 331 393 
+appliances In-situ.txt 1 2549 
+infiltrating In-situ.txt 1 1307 
+off-site In-situ.txt 1 944 
+experimentation In-situ.txt 5 807 851 868 891 910 
+endangered In-situ.txt 1 928 
+use In-situ.txt 1 2716 
+perfusion In-situ.txt 1 789 
+takes In-situ.txt 2 66 498 
+working In-situ.txt 1 816 
+remains In-situ.txt 1 308 
+petroleum In-situ.txt 2 2673 2726 
+physics In-situ.txt 3 81 2022 2026 
+properties In-situ.txt 1 1298 
+live In-situ.txt 1 661 
+approach In-situ.txt 1 2906 
+opposed In-situ.txt 4 938 1791 1934 2089 
+memory In-situ.txt 1 1433 
+taken In-situ.txt 3 94 733 1240 
+type In-situ.txt 2 2478 2722 
+historically In-situ.txt 1 341 
+today In-situ.txt 1 2375 
+more In-situ.txt 4 512 747 1145 1823 
+flat In-situ.txt 1 1270 
+substances In-situ.txt 1 2942 
+stone In-situ.txt 4 1881 2327 2344 2360 
+site In-situ.txt 14 45 53 295 367 491 502 531 1101 1125 1225 1245 1995 2020 2115 
+tested In-situ.txt 1 131 
+train In-situ.txt 1 2580 
+particular In-situ.txt 2 1500 1971 
+medical In-situ.txt 1 2563 
+potential In-situ.txt 4 1930 1947 1949 1972 
+weathering In-situ.txt 2 1725 1744 
+must In-situ.txt 2 129 1185 
+high In-situ.txt 1 2575 
+account In-situ.txt 2 500 514 
+animals In-situ.txt 2 408 704 
+languages In-situ.txt 1 2257 
+this In-situ.txt 14 165 453 728 754 795 864 976 1227 1533 1677 1932 2462 2477 2736 
+science In-situ.txt 4 762 766 1312 1316 
+originally In-situ.txt 2 2331 2358 
+created In-situ.txt 2 528 541 
+modified In-situ.txt 1 1289 
+electrochemistry In-situ.txt 2 1908 1911 
+remain In-situ.txt 2 386 2555 
+anywhere In-situ.txt 1 2465 
+can In-situ.txt 12 233 273 520 767 1177 1503 1983 2463 2481 2511 2527 2800 
+making In-situ.txt 1 1467 
+example In-situ.txt 19 76 278 410 778 1063 1129 1334 1472 1512 1546 1714 2049 2151 2254 2292 2297 2329 2509 2784 
+performed In-situ.txt 4 1059 1505 1942 1997 
+control In-situ.txt 4 1931 1948 1950 2218 
+compare In-situ.txt 1 1105 
+needing In-situ.txt 1 1346 
+nursing In-situ.txt 1 2542 
+links In-situ.txt 1 382 
+process In-situ.txt 1 924 
+confused In-situ.txt 1 9 
+sample In-situ.txt 2 1239 2041 
+indicates In-situ.txt 1 319 
+orion In-situ.txt 1 2831 
+something In-situ.txt 1 769 
+unanticipated In-situ.txt 1 157 
+allowed In-situ.txt 2 869 892 
+interpreted In-situ.txt 1 2252 
+phrase In-situ.txt 4 39 755 1210 1913 
+simulation In-situ.txt 2 2564 2600 
+species In-situ.txt 3 664 932 982 
+tumor In-situ.txt 3 2445 2459 2480 
+respective In-situ.txt 1 1774 
+recovery In-situ.txt 2 2650 2680 
+liver In-situ.txt 2 2522 2532 
+rather In-situ.txt 6 538 649 1465 1636 2596 2776 
+describes In-situ.txt 2 1705 2545 
+get In-situ.txt 1 1854 
+globular In-situ.txt 1 588 
+occur In-situ.txt 1 872 
+chemical In-situ.txt 3 948 967 1045 
+how In-situ.txt 1 1450 
+numerous In-situ.txt 1 963 
+animal In-situ.txt 1 931 
+optimal In-situ.txt 1 2560 
+if In-situ.txt 4 1428 1513 2242 2785 
+plant In-situ.txt 2 929 1053 
+plans In-situ.txt 1 2827 
+may In-situ.txt 16 87 148 155 335 368 379 790 977 1069 1132 1201 1211 1338 2235 2817 2944 
+after In-situ.txt 1 576 
+mapping In-situ.txt 1 305 
+lab In-situ.txt 1 844 
+sophistication In-situ.txt 1 1411 
+diagram In-situ.txt 1 2424 
+applications In-situ.txt 2 1030 2628 
+callback In-situ.txt 1 1617 
+designed In-situ.txt 1 1188 
+loss-of-function In-situ.txt 2 1041 2639 
+remediation In-situ.txt 2 1979 1991 
+such In-situ.txt 14 79 447 750 763 1455 1737 1776 1795 1905 2258 2469 2588 2824 2878 
+horizontal In-situ.txt 1 422 
+law In-situ.txt 2 2136 2200 
+data In-situ.txt 9 1460 1542 1577 1592 1621 1625 1633 1647 2035 
+types In-situ.txt 2 280 1875 
+a In-situ.txt 72 22 37 91 143 293 351 354 412 482 489 494 511 524 551 571 584 653 780 783 821 1017 1117 1190 1223 1242 1269 1331 1335 1342 1360 1362 1377 1446 1499 1514 1529 1551 1569 1572 1616 1679 1686 1734 1778 1781 1817 1820 1901 1987 1993 2032 2040 2058 2085 2091 2120 2169 2174 2186 2214 2323 2334 2369 2433 2444 2514 2615 2780 2793 2894 2972 2980 
+natural In-situ.txt 8 405 840 859 904 935 1706 1821 2002 
+varieties In-situ.txt 1 2701 
+effective In-situ.txt 1 2217 
+backup In-situ.txt 1 1337 
+processor In-situ.txt 1 1516 
+provide In-situ.txt 3 274 1016 2614 
+persons In-situ.txt 1 2134 
+maintain In-situ.txt 1 1957 
+so In-situ.txt 3 1254 1840 2952 
+deposit In-situ.txt 1 298 
+allow In-situ.txt 2 1365 1385 
+archaeology In-situ.txt 2 169 177 
+wind In-situ.txt 3 1739 1789 2888 
+labour-intensive In-situ.txt 1 1146 
+operations In-situ.txt 1 1054 
+7x7 In-situ.txt 1 2052 
+oncology In-situ.txt 1 2431 
+interpretation In-situ.txt 2 212 240 
+help In-situ.txt 1 380 
+repair In-situ.txt 2 2966 2971 
+over In-situ.txt 2 1341 2219 
+basement In-situ.txt 3 2414 2422 2454 
+displayed In-situ.txt 1 537 
+mission In-situ.txt 1 2843 
+installed In-situ.txt 2 507 548 
+radar In-situ.txt 1 1798 
+experiments In-situ.txt 5 827 1920 1939 2075 2082 
+through In-situ.txt 1 1769 
+agricultural In-situ.txt 1 1895 
+fidelity In-situ.txt 1 2576 
+still In-situ.txt 4 202 369 1282 1399 
+its In-situ.txt 8 190 372 934 1284 2147 2288 2371 2772 
+galaxy In-situ.txt 1 593 
+contaminated In-situ.txt 1 2012 
+sciences In-situ.txt 4 1693 1701 1763 2860 
+outgassing In-situ.txt 1 2956 
+located In-situ.txt 2 1635 2488 
+platform In-situ.txt 2 1019 2617 
+window In-situ.txt 1 1510 
+html In-situ.txt 1 1586 
+biomedical In-situ.txt 4 658 672 1005 2604 
+persist In-situ.txt 1 1309 
+clusters In-situ.txt 1 590 
+hidden In-situ.txt 1 2988 
+might In-situ.txt 2 602 609 
+image In-situ.txt 3 1519 1523 1531 
+wh-elements In-situ.txt 1 2264 
+happened In-situ.txt 1 1379 
+then In-situ.txt 3 234 547 1120 
+them In-situ.txt 1 1470 
+diseases In-situ.txt 2 1043 2641 
+material In-situ.txt 4 1256 1707 1757 2367 
+reagent In-situ.txt 1 1001 
+walls In-situ.txt 1 2951 
+abdominal In-situ.txt 1 2517 
+they In-situ.txt 7 312 642 854 1180 2502 2932 2953 
+not In-situ.txt 20 6 32 186 247 258 325 370 418 732 741 797 811 856 1444 1899 2123 2304 2346 2411 2448 
+resource In-situ.txt 1 1822 
+now In-situ.txt 1 614 
+volatile In-situ.txt 1 2941 
+bread In-situ.txt 1 2295 
+term In-situ.txt 8 432 519 560 1277 1494 1662 2202 2961 
+several In-situ.txt 1 2700 
+steam-assisted In-situ.txt 1 2733 
+edit In-situ.txt 29 121 170 475 583 660 950 1084 1313 1656 1694 1802 1909 1980 2023 2072 2095 2137 2228 2314 2393 2643 2675 2748 2811 2898 2916 2959 2984 2986 
+fully In-situ.txt 1 1195 
+settings In-situ.txt 1 2595 
+proteins In-situ.txt 2 1026 2624 
+normally In-situ.txt 1 1606 
+reloading In-situ.txt 1 1579 
+did In-situ.txt 1 2310 
+exiled In-situ.txt 1 2211 
+each In-situ.txt 1 146 
+found In-situ.txt 2 721 727 
+quarries In-situ.txt 1 1882 
+mean In-situ.txt 2 768 1627 
+individually In-situ.txt 1 145 
+burial In-situ.txt 1 294 
+england In-situ.txt 1 2391 
+directly In-situ.txt 1 1462 
+dichotomy In-situ.txt 1 882 
+doing In-situ.txt 1 1936 
+bitumen In-situ.txt 1 2692 
+hong In-situ.txt 1 2153 
+product In-situ.txt 3 1818 1839 1859 
+dedicated In-situ.txt 1 2599 
+oil In-situ.txt 4 1870 2690 2714 2744 
+sands In-situ.txt 2 2715 2745 
+ex In-situ.txt 3 940 1937 2009 
+measurement In-situ.txt 1 92 
+our In-situ.txt 1 592 
+operation In-situ.txt 2 1320 2778 
+beyond In-situ.txt 1 2452 
+event In-situ.txt 2 63 2118 
+special In-situ.txt 3 159 693 1203 
+out In-situ.txt 6 253 269 734 991 1097 1259 
+living In-situ.txt 1 703 
+cadavers In-situ.txt 1 2539 
+psychology In-situ.txt 2 2071 2074 
+space In-situ.txt 5 1622 1652 2813 2832 2859 
+colossi In-situ.txt 1 465 
+interference In-situ.txt 1 151 
+factory In-situ.txt 1 1118 
+particles In-situ.txt 1 2884 
+rf In-situ.txt 2 2746 2752 
+investigation In-situ.txt 1 794 
+medicine In-situ.txt 3 1037 2392 2635 
+newly In-situ.txt 1 327 
+interphasial In-situ.txt 1 1976 
+occurs In-situ.txt 3 686 1324 1745 
+architecture In-situ.txt 1 1086 
+performing In-situ.txt 1 1918 
+essential In-situ.txt 1 1955 
+galaxies In-situ.txt 2 601 617 
+standard In-situ.txt 1 2773 
+ajax In-situ.txt 2 1539 1558 
+carried In-situ.txt 1 1096 
+formation In-situ.txt 1 628 
+execute In-situ.txt 1 1436 
+element In-situ.txt 1 2234 
+mars In-situ.txt 1 2841 
+ore In-situ.txt 1 2662 
+compositions In-situ.txt 1 906 
+care In-situ.txt 1 2586 
+advance In-situ.txt 1 1198 
+training In-situ.txt 1 2601 
+perform In-situ.txt 1 1353 
+benefits In-situ.txt 1 884 
+e.g In-situ.txt 1 550 
+could In-situ.txt 1 1891 
+synthesized In-situ.txt 1 970 
+excavated In-situ.txt 1 2015 
+british In-situ.txt 1 2387 
+times In-situ.txt 1 473 
+counterpart In-situ.txt 1 2290 
+vaccination In-situ.txt 2 1034 2632 
+conducted In-situ.txt 1 857 
+person In-situ.txt 1 2121 
+place In-situ.txt 14 59 67 100 136 192 345 446 683 1061 1073 1464 1488 1814 2976 
+massive In-situ.txt 1 600 
+onto In-situ.txt 1 1671 
+exhibited In-situ.txt 1 509 
+first In-situ.txt 1 833 
+origin In-situ.txt 1 361 
+grammatical In-situ.txt 1 2283 
+industrial In-situ.txt 2 1052 1067 
+saving In-situ.txt 1 1169 
+vitro In-situ.txt 5 776 826 829 850 898 
+one In-situ.txt 5 540 1261 1322 2510 2526 
+production In-situ.txt 3 2674 2727 2853 
+quicker In-situ.txt 1 1167 
+done In-situ.txt 2 979 2083 
+occurrences In-situ.txt 1 841 
+another In-situ.txt 5 344 745 1266 1509 1545 
+illustrating In-situ.txt 1 1685 
+array In-situ.txt 1 1486 
+open In-situ.txt 1 2512 
+earths In-situ.txt 1 2696 
+given In-situ.txt 1 1243 
+ancient In-situ.txt 3 171 440 472 
+their In-situ.txt 1 2557 
+unknown In-situ.txt 1 387 
+provenance In-situ.txt 1 373 
+system In-situ.txt 11 144 1332 1344 1350 1368 1388 1397 1414 2769 2797 2930 
+comes In-situ.txt 1 2131 
+intermediate In-situ.txt 1 770 
+observations In-situ.txt 1 699 
+on-site In-situ.txt 1 920 
+farming In-situ.txt 1 430 
+structures In-situ.txt 2 2266 2500 
+photographing In-situ.txt 1 306 
+store In-situ.txt 1 1837 
+lease In-situ.txt 1 2167 
+urban In-situ.txt 2 2896 2900 
+mining In-situ.txt 2 2642 2654 
+way In-situ.txt 2 90 1640 
+collection In-situ.txt 1 2036 
+that In-situ.txt 36 40 95 184 214 245 321 339 383 442 458 493 567 641 707 853 1057 1106 1255 1323 1441 1498 1731 1841 1884 1897 1940 1970 2110 2189 2302 2377 2438 2533 2554 2872 2943 
+insitu In-situ.txt 1 11 
+exactly In-situ.txt 3 681 717 723 
+accurately In-situ.txt 1 2801 
+artifact In-situ.txt 6 183 204 215 232 244 272 
+viewing In-situ.txt 2 2338 2499 
+environmental In-situ.txt 2 905 1978 
+part In-situ.txt 1 2364 
+manipulation In-situ.txt 1 2038 
+than In-situ.txt 6 539 650 1466 1637 2597 2777 
+professionals In-situ.txt 1 2573 
+john In-situ.txt 3 2269 2293 2311 
+double In-situ.txt 1 1959 
+distinguishes In-situ.txt 2 454 1280 
+recording In-situ.txt 1 304 
+matter In-situ.txt 1 1449 
+patients In-situ.txt 1 2552 
+absence In-situ.txt 1 1945 
+contrary In-situ.txt 1 2007 
+were In-situ.txt 2 459 855 
+providing In-situ.txt 1 259 
+sculpture In-situ.txt 4 441 552 558 566 
+adsorbed In-situ.txt 1 2948 
+and In-situ.txt 51 68 216 241 256 281 461 546 657 671 712 722 774 787 837 947 985 1002 1022 1038 1087 1119 1147 1155 1160 1184 1263 1306 1520 1559 1654 1659 1691 1698 1726 1871 1878 1894 1963 1999 2016 2066 2213 2404 2519 2559 2593 2620 2636 2663 2869 2908 
+bridge In-situ.txt 1 880 
+coalesced In-situ.txt 1 901 
+look In-situ.txt 1 2528 
+italicized In-situ.txt 1 33 
+measure In-situ.txt 1 2802 
+locations In-situ.txt 2 282 1676 
+affirmative In-situ.txt 1 2289 
+raw In-situ.txt 1 1103 
+electrochemical In-situ.txt 3 1919 1926 1953 
+have In-situ.txt 6 603 610 635 2261 2356 2447 
+qualitatively In-situ.txt 1 836 
+need In-situ.txt 2 1404 1900 
+aged In-situ.txt 1 1064 
+any In-situ.txt 3 1595 1828 2546 
+contents In-situ.txt 1 119 
+depending In-situ.txt 2 1408 2483 
+convenient In-situ.txt 1 748 
+editing In-situ.txt 1 1538 
+firmware In-situ.txt 1 1389 
+upgrading In-situ.txt 2 2903 2911 
+isolated In-situ.txt 2 988 2531 
+mechanism In-situ.txt 1 1618 
+contact In-situ.txt 1 1771 
+also In-situ.txt 10 390 521 622 919 943 1136 1182 1212 1751 2983 
+materials In-situ.txt 2 1104 1152 
+absorbed In-situ.txt 1 2946 
+take In-situ.txt 2 1148 1348 
+forces In-situ.txt 1 406 
+reactions In-situ.txt 1 1967 
+donor In-situ.txt 1 803 
+subject In-situ.txt 1 1775 
+tool In-situ.txt 1 1681 
+normal In-situ.txt 3 1328 1603 2505 
+object In-situ.txt 3 323 338 2284 
+wells In-situ.txt 1 1873 
+steam In-situ.txt 1 2718 
+anatomy In-situ.txt 1 2494 
+most In-situ.txt 2 2339 2720 
+site-specific In-situ.txt 1 516 
+carcinoma In-situ.txt 2 2429 2434 
+accepting In-situ.txt 1 1303 
+cleared In-situ.txt 1 426 
+expired In-situ.txt 1 2166 
+model In-situ.txt 1 1587 
+in-situ In-situ.txt 2 5 2902 
+broadcast In-situ.txt 1 2795 
+chemistry In-situ.txt 3 82 946 952 
+mineral In-situ.txt 1 1877 
+considered In-situ.txt 1 252 
+calculated In-situ.txt 1 1196 
+drive In-situ.txt 1 2939 
+order In-situ.txt 1 2937 
+traditional In-situ.txt 1 1643 
+construction In-situ.txt 4 1093 1109 1246 1292 
+clean In-situ.txt 1 1988 
+pictures In-situ.txt 2 2340 2349 
+redirected In-situ.txt 1 3 
+organism In-situ.txt 3 709 739 876 
+detective In-situ.txt 1 377 
+phenomenon In-situ.txt 2 102 680 
+detection In-situ.txt 1 2881 
+sagd In-situ.txt 1 2732 
+syntax In-situ.txt 1 2232 
+discovered In-situ.txt 4 248 290 314 2461 
+attempts In-situ.txt 1 834 
+planning In-situ.txt 2 2897 2901 
+relation In-situ.txt 1 1720 
+malignant In-situ.txt 1 2439 
+superimposing In-situ.txt 1 1666 
+find In-situ.txt 2 334 366 
+geography In-situ.txt 1 1697 
+completion In-situ.txt 1 1614 
+cast-in-place In-situ.txt 1 1137 
+removed In-situ.txt 3 1078 2490 2536 
+based In-situ.txt 1 2846 
+simulating In-situ.txt 1 2000 
+cataloging In-situ.txt 1 303 
+hypothesized In-situ.txt 1 633 
+only In-situ.txt 2 320 1843 
+going In-situ.txt 2 1507 2124 
+money In-situ.txt 2 1170 1856 
+fuel In-situ.txt 2 2835 2852 
+employed In-situ.txt 1 563 
+photographs In-situ.txt 2 701 1672 
+do In-situ.txt 3 1898 2410 2419 
+mixture In-situ.txt 1 960 
+means In-situ.txt 9 50 676 706 729 956 1497 1664 2437 2969 
+designing In-situ.txt 1 1490 
+out-of-pocket In-situ.txt 1 1834 
+cheaper In-situ.txt 1 1154 
+famous In-situ.txt 1 2343 
+cannot In-situ.txt 2 986 2954 
+breast In-situ.txt 1 2473 
+words In-situ.txt 1 197 
+international In-situ.txt 1 2199 
+during In-situ.txt 1 1291 
+kong In-situ.txt 1 2154 
+procedures In-situ.txt 1 1056 
+gem In-situ.txt 1 1879 
+reveal In-situ.txt 1 371 
+processes In-situ.txt 4 975 1709 1749 2003 
+on-board In-situ.txt 1 127 
+organ In-situ.txt 1 785 
+sacrificed In-situ.txt 1 805 
+fields In-situ.txt 1 78 
+tumors In-situ.txt 5 2398 2403 2406 2409 2418 
+generally In-situ.txt 1 1824 
+method In-situ.txt 4 1015 2033 2613 2909 
+microscope In-situ.txt 1 2061 
+common In-situ.txt 2 822 2721 
+release In-situ.txt 2 1023 2621 
+uncover In-situ.txt 1 381 
+where In-situ.txt 15 64 415 532 684 724 1632 1646 1830 1889 1986 2011 2249 2457 2485 2977 
+require In-situ.txt 1 1202 
+view In-situ.txt 1 2520 
+scanning In-situ.txt 1 2059 
+art In-situ.txt 7 474 477 485 497 517 527 2103 
+questions In-situ.txt 1 2255 
+edited In-situ.txt 1 1526 
+station In-situ.txt 1 2806 
+testing In-situ.txt 2 168 870 
+humans In-situ.txt 1 404 
+operates In-situ.txt 1 1458 
+observed In-situ.txt 2 645 711 
+culture In-situ.txt 2 220 266 
+see In-situ.txt 3 515 2307 2982 
+computer In-situ.txt 2 1311 1315 
+injecting In-situ.txt 1 2657 
+are In-situ.txt 21 313 417 632 643 962 969 1058 1114 1143 1153 1164 1181 1218 1750 1941 2111 2345 2400 2441 2699 2933 
+sea In-situ.txt 1 662 
+categories In-situ.txt 2 2987 2989 
+surgery In-situ.txt 1 2492 
+2.0 In-situ.txt 1 1556 
+best In-situ.txt 1 2711 
+techniques In-situ.txt 4 1142 1163 2681 2705 
+project In-situ.txt 1 1224 
+practice In-situ.txt 2 2570 2583 
+said In-situ.txt 2 1418 2237 
+arguably In-situ.txt 1 1589 
+user In-situ.txt 2 1491 1501 
+currently In-situ.txt 1 644 
+wikipedia In-situ.txt 1 2 
+label In-situ.txt 1 316 
+state In-situ.txt 3 1235 1329 1604 
+future In-situ.txt 1 2812 
+various In-situ.txt 2 974 2765 
+between In-situ.txt 3 771 1724 2209 
+crude In-situ.txt 1 2689 
+sorts In-situ.txt 1 1481 
+previous In-situ.txt 1 2826 
+conditions In-situ.txt 2 115 1923 
+sold In-situ.txt 1 1862 
+therapies In-situ.txt 2 1039 2637 
+bought In-situ.txt 2 2270 2294 
+available In-situ.txt 3 163 1373 2112 
+comparable In-situ.txt 1 2267 
+latin In-situ.txt 1 38 
+creating In-situ.txt 1 1268 
+adrenochrome In-situ.txt 1 1003 
+premises In-situ.txt 1 56 
+interfaces In-situ.txt 1 1492 
+however In-situ.txt 1 267 
+courtyard In-situ.txt 1 2335 
+aircraft In-situ.txt 1 128 
+aquarium In-situ.txt 1 753 
+analyzed In-situ.txt 1 2067 
+both In-situ.txt 1 887 
+defunct In-situ.txt 1 615 
+accident In-situ.txt 1 402 
+restaurant In-situ.txt 2 2127 2130 
+many In-situ.txt 1 72 
+region In-situ.txt 1 1977 
+museum In-situ.txt 1 2388 
+heating In-situ.txt 1 2925 
+foreign In-situ.txt 1 360 
+prefabricated In-situ.txt 3 1108 1139 1162 
+s In-situ.txt 4 16 21 27 2516 
+objects In-situ.txt 1 1461 
+context In-situ.txt 4 255 271 1358 1554 
+geochemical In-situ.txt 1 1748 
+operating In-situ.txt 3 1387 1922 2591 
+requests In-situ.txt 1 1564 
+whole In-situ.txt 1 784 
+experimental In-situ.txt 3 2021 2025 2070 
+otherwise In-situ.txt 2 358 384 
+upgraded In-situ.txt 1 1394 
+among In-situ.txt 1 831 
+statues In-situ.txt 1 457 
+cancer In-situ.txt 2 1032 2630 
+wall In-situ.txt 1 2370 
+invasive In-situ.txt 2 2405 2417 
+environments In-situ.txt 2 860 2587 
+distinguish In-situ.txt 1 2208 
+simply In-situ.txt 1 990 
+constant In-situ.txt 1 1447 
+regenerative In-situ.txt 2 1036 2634 
+expensive In-situ.txt 1 1179 
+described In-situ.txt 1 1753 
+rdbms In-situ.txt 1 1644 
+tremendous In-situ.txt 2 1029 2627 
+create In-situ.txt 1 156 
+locally In-situ.txt 1 51 
+due In-situ.txt 1 1205 
+been In-situ.txt 9 187 229 326 580 611 636 742 2357 2535 
+extraction In-situ.txt 1 2672 
+genetic In-situ.txt 3 914 1042 2640 
+much In-situ.txt 1 1166 
+regenerated In-situ.txt 1 1071 
+clinical In-situ.txt 2 2572 2582 
+in-place In-situ.txt 1 1426 
+systems In-situ.txt 3 110 1645 2754 
+field In-situ.txt 4 2086 2192 2870 2891 
+controlled In-situ.txt 1 894 
+reaction In-situ.txt 2 959 2856 
+formed In-situ.txt 3 222 604 637 
+gas In-situ.txt 1 1872 
+adaptable In-situ.txt 1 1161 
+finished In-situ.txt 1 1199 
+external In-situ.txt 1 2046 
+wattmeter In-situ.txt 2 2789 2799 
+former In-situ.txt 1 997 
+those In-situ.txt 3 597 1215 2081 
+case In-situ.txt 2 697 1228 
+handling In-situ.txt 1 1204 
+atmospheric In-situ.txt 2 1692 1762 
+remote In-situ.txt 1 1793 
+contexts In-situ.txt 2 74 2140 
+engineering In-situ.txt 6 659 673 949 1006 1046 1083 
+n In-situ.txt 3 15 20 26 
+find-site In-situ.txt 1 227 
+theoretical In-situ.txt 1 1668 
+wild In-situ.txt 1 716 
+aid In-situ.txt 1 1683 
+mound In-situ.txt 1 414 
+designate In-situ.txt 1 1233 
+carved In-situ.txt 4 444 460 553 569 
+layer In-situ.txt 1 1960 
+underground In-situ.txt 2 1304 2659 
+file In-situ.txt 1 1336 
+eventually In-situ.txt 2 845 1861 
+soil In-situ.txt 6 1252 1281 1288 1297 2006 2013 
+is In-situ.txt 64 36 69 93 96 103 162 199 208 246 251 389 435 506 534 561 568 804 922 983 1095 1158 1230 1257 1321 1417 1439 1442 1474 1534 1544 1598 1605 1634 1648 1678 1717 1807 1832 1846 1860 1933 1996 2014 2055 2064 2122 2143 2205 2244 2251 2303 2319 2376 2379 2487 2728 2737 2757 2770 2790 2807 2845 2875 2904 
+cleaned In-situ.txt 1 2017 
+thus In-situ.txt 1 329 
+it In-situ.txt 30 49 65 107 198 223 388 455 505 533 685 690 705 719 725 730 809 1027 1229 1407 1825 1890 2063 2243 2250 2351 2354 2378 2486 2625 2978 
+surface In-situ.txt 4 297 1253 2053 2670 
+exchanging In-situ.txt 1 2162 
+tissue In-situ.txt 1 2474 
+in In-situ.txt 207 0 13 34 47 58 71 77 85 97 122 132 135 166 174 176 178 195 206 249 284 299 309 317 332 364 411 424 433 445 471 476 478 503 542 554 556 591 598 605 618 620 625 629 638 648 667 669 674 682 695 714 756 760 772 775 792 799 825 828 842 849 858 866 873 889 897 908 911 916 933 951 953 957 965 971 973 1004 1012 1044 1047 1060 1066 1072 1074 1085 1089 1110 1116 1134 1140 1197 1226 1265 1278 1283 1295 1314 1318 1356 1381 1422 1463 1476 1487 1489 1495 1536 1548 1550 1599 1619 1623 1642 1657 1684 1695 1702 1715 1719 1746 1758 1760 1764 1803 1805 1813 1865 1910 1914 1973 1981 2004 2024 2027 2068 2073 2076 2084 2096 2098 2138 2141 2152 2155 2190 2203 2225 2229 2240 2246 2256 2262 2274 2278 2287 2305 2315 2317 2333 2347 2372 2389 2394 2401 2407 2427 2430 2435 2466 2493 2495 2504 2523 2541 2543 2556 2562 2565 2584 2598 2603 2610 2644 2648 2676 2703 2712 2724 2741 2749 2755 2771 2779 2787 2792 2822 2850 2857 2861 2877 2885 2899 2917 2920 2936 2962 2967 
+protein In-situ.txt 2 1007 2605 
+corey-chaykovsky In-situ.txt 1 1000 
+technology In-situ.txt 2 2915 2919 
+situ In-situ.txt 92 1 14 86 133 167 175 179 207 250 285 300 318 333 365 434 479 555 606 621 626 668 675 757 793 890 917 941 954 972 1013 1048 1075 1090 1135 1141 1279 1319 1382 1423 1477 1496 1537 1549 1600 1624 1703 1716 1747 1759 1765 1806 1866 1915 1938 1982 2010 2028 2069 2077 2099 2142 2156 2204 2226 2241 2263 2306 2318 2348 2373 2402 2408 2428 2436 2496 2524 2544 2566 2611 2645 2649 2677 2704 2725 2756 2788 2823 2851 2862 2921 2963 2968 
+different In-situ.txt 3 73 654 2108 
+hohokam In-situ.txt 1 172 
+grant In-situ.txt 1 2176 
+perhaps In-situ.txt 2 746 1401 
+same In-situ.txt 4 99 814 2181 2276 
+benign In-situ.txt 1 2397 
+parts In-situ.txt 2 1176 2926 
+pad In-situ.txt 1 1271 
+units In-situ.txt 1 1200 
+physical In-situ.txt 2 1696 1902 
+magnetometer In-situ.txt 1 2895 
+satellite In-situ.txt 1 2874 
+used In-situ.txt 12 70 437 759 1231 1718 1808 2145 2206 2320 2759 2791 2964 
+snail In-situ.txt 1 663 
+heapsort In-situ.txt 1 1473 
+action In-situ.txt 1 1502 
+running In-situ.txt 2 1343 1400 
+moving In-situ.txt 1 689 
+purpose In-situ.txt 1 399 
+distinction In-situ.txt 1 1723 
+frequently In-situ.txt 2 562 573 
+opportunity In-situ.txt 1 1848 
+indefinitely In-situ.txt 1 1310 
+task In-situ.txt 1 1597 
+off In-situ.txt 2 2019 2940 
+scenario In-situ.txt 1 823 
+database In-situ.txt 2 1361 1367 
+i In-situ.txt 1 28 
+traded In-situ.txt 1 355 
+well In-situ.txt 1 595 
+london In-situ.txt 1 2390 
+concrete In-situ.txt 1 1130 
+without In-situ.txt 10 105 688 1076 1325 1345 1402 1506 1527 1578 2042 
+does In-situ.txt 1 1443 
+components In-situ.txt 2 1113 2766 
+english In-situ.txt 2 35 2300 
+position In-situ.txt 5 48 311 2248 2277 2561 
+the In-situ.txt 162 55 89 98 101 113 117 123 211 219 231 264 268 310 315 322 363 431 449 464 501 518 530 543 559 577 587 607 639 679 696 708 715 736 738 802 813 818 832 843 846 874 881 893 903 923 958 981 996 999 1011 1080 1099 1123 1151 1156 1209 1234 1250 1276 1293 1296 1327 1349 1354 1357 1366 1396 1403 1410 1413 1429 1437 1452 1482 1493 1522 1560 1580 1584 1602 1629 1638 1661 1665 1699 1722 1728 1761 1773 1812 1838 1842 1847 1858 1912 1925 1944 1952 1958 1964 1974 2001 2005 2050 2102 2107 2114 2117 2126 2129 2133 2160 2163 2180 2191 2201 2220 2223 2247 2275 2279 2282 2325 2342 2359 2386 2413 2421 2453 2458 2467 2471 2521 2538 2551 2569 2609 2653 2665 2669 2695 2707 2713 2719 2742 2762 2768 2798 2805 2830 2838 2840 2849 2858 2867 2873 2880 2886 2928 2950 2960 2975 
+nearby In-situ.txt 1 153 
+sensing In-situ.txt 1 1794 
+bodies In-situ.txt 1 2507 
+restore In-situ.txt 3 1355 1363 1378 
+anemometer In-situ.txt 1 1787 
+excessive In-situ.txt 1 1207 
+background In-situ.txt 2 1596 1609 
+sentence In-situ.txt 1 2280 
+being In-situ.txt 3 205 1077 1730 
+storage In-situ.txt 6 1021 1815 1844 1867 1903 2619 
+accurate In-situ.txt 1 261 
+settlements In-situ.txt 1 2913 
+rest In-situ.txt 1 608 
+gravity In-situ.txt 1 2734 
+satellites In-situ.txt 1 1800 
+rooms In-situ.txt 1 2592 
+human In-situ.txt 1 307 
+world In-situ.txt 1 1675 
+protecting In-situ.txt 1 926 
+scaffolds In-situ.txt 1 575 
+yet In-situ.txt 1 287 
+timber In-situ.txt 1 1883 
+breakdown In-situ.txt 1 2981 
+reboot In-situ.txt 1 1406 
+cut In-situ.txt 1 1258 
+equipment In-situ.txt 3 126 154 161 
+informal In-situ.txt 1 2912 
+had In-situ.txt 1 740 
+hay In-situ.txt 1 1907 
+labour In-situ.txt 1 1172 
+location In-situ.txt 2 749 2763 
+input In-situ.txt 1 1453 
+has In-situ.txt 9 185 228 324 579 1028 1885 2534 2626 2979 
+photographed In-situ.txt 2 666 713 
+real In-situ.txt 1 1674 
+aspects In-situ.txt 1 895 
+which In-situ.txt 11 221 468 504 630 966 1094 1111 1217 1480 2682 2709 
+government In-situ.txt 4 2161 2212 2215 2224 
+linguistics In-situ.txt 2 2227 2230 
+big In-situ.txt 1 1620 
+possible In-situ.txt 1 391 
+early In-situ.txt 1 1585 
+grid In-situ.txt 1 1191 
+electrode/electrolyte In-situ.txt 1 1975 
+aerospace In-situ.txt 2 120 124 
+vacuum In-situ.txt 4 2914 2918 2929 2935 
+using In-situ.txt 5 1102 1998 2057 2574 2854 
+replace In-situ.txt 1 1568 
+membrane In-situ.txt 3 2415 2423 2455 
+occurring In-situ.txt 3 104 1755 1968 
+vertically In-situ.txt 1 2381 
+sorting In-situ.txt 1 1478 
+like In-situ.txt 2 463 1641 
+particle In-situ.txt 1 2868 
+space-related In-situ.txt 1 2810 
+piece In-situ.txt 3 147 2170 2182 
+translates In-situ.txt 1 41 
+notified In-situ.txt 1 1612 
+continue In-situ.txt 1 1370 
+unstable In-situ.txt 1 984 
+t In-situ.txt 2 23 29 
+drainage In-situ.txt 1 2735 
+popular In-situ.txt 1 2740 
+become In-situ.txt 1 900 
+mode In-situ.txt 2 2775 2782 
+stationary In-situ.txt 1 200 
+page In-situ.txt 3 1541 1574 1582 
+wh-movement In-situ.txt 1 2308 
+therapeutic In-situ.txt 2 1025 2623 
+exceed In-situ.txt 1 1445 
+because In-situ.txt 1 980 
+often In-situ.txt 9 31 436 1049 1144 1186 1752 2144 2482 2758 
+habitat In-situ.txt 1 936 
+ui/ux In-situ.txt 1 1553 
+some In-situ.txt 1 692 
+examples In-situ.txt 2 994 1863 
+apply In-situ.txt 1 2683 
+home In-situ.txt 1 2135 
+intact In-situ.txt 2 786 1962 
+transport In-situ.txt 2 1712 1735 
+energetic In-situ.txt 1 2883 
+pronounced In-situ.txt 1 2245 
+dimensions In-situ.txt 1 1208 
+for In-situ.txt 37 75 164 237 392 409 429 488 510 777 824 863 1020 1031 1040 1062 1126 1128 1299 1333 1471 1511 1713 2048 2146 2150 2253 2291 2328 2336 2432 2508 2581 2618 2629 2638 2671 2783 
+confirm In-situ.txt 1 138 
+cavity In-situ.txt 1 2518 
+literally In-situ.txt 1 42 
+ones In-situ.txt 1 2708 
+measurements In-situ.txt 2 2865 2892 
+recorded In-situ.txt 1 230 
+mines In-situ.txt 1 1880 
+ice In-situ.txt 1 1740 
+polluted In-situ.txt 1 1994 
+everything In-situ.txt 1 139 
+critical In-situ.txt 1 209 
+invade In-situ.txt 2 2412 2420 
+o1 In-situ.txt 1 1440 
+refer In-situ.txt 3 522 1213 1984 
+measuring In-situ.txt 2 1780 1788 
+be In-situ.txt 30 8 130 235 289 336 396 536 647 791 798 812 978 987 1070 1133 1178 1187 1339 1372 1393 1420 1504 1525 1869 1892 2236 2239 2286 2489 2945 
+biology In-situ.txt 3 84 656 670 
+minable In-situ.txt 1 2836 
+assembly In-situ.txt 1 1127 
+leaching In-situ.txt 1 2646 
+power In-situ.txt 2 2803 2829 
+prepared In-situ.txt 1 2065 
+terraforming In-situ.txt 1 2816 
+host In-situ.txt 1 490 
+architectural In-situ.txt 1 557 
+from In-situ.txt 14 4 108 152 189 343 456 574 613 652 1079 1241 1287 2537 2893 
+refers In-situ.txt 18 180 301 480 623 1050 1091 1766 1826 1916 2030 2079 2100 2497 2567 2651 2678 2863 2923 
+dictated In-situ.txt 1 1588 
+by In-situ.txt 7 401 403 806 1010 1615 2491 2608 
+on In-situ.txt 19 44 52 54 398 570 1171 1189 1272 1409 1459 1613 2382 2484 2550 2808 2819 2837 2848 2949 
+limitation In-situ.txt 1 847 
+territory In-situ.txt 1 2221 
+would In-situ.txt 9 385 796 810 1364 1384 1626 1868 2285 2355 
+of In-situ.txt 79 116 193 213 218 254 263 270 279 283 348 350 359 466 484 496 526 586 698 702 735 848 883 896 907 913 925 992 995 1024 1236 1260 1330 1359 1412 1432 1469 1484 1547 1562 1571 1608 1667 1673 1688 1783 1816 1850 1864 1876 1924 1946 1992 2034 2039 2104 2116 2168 2171 2183 2188 2193 2195 2298 2341 2350 2365 2425 2456 2479 2571 2622 2656 2702 2723 2764 2866 2882 2910 2927 
+industry In-situ.txt 1 125 
+costs In-situ.txt 1 1173 
+factory-made In-situ.txt 1 1175 
+addition In-situ.txt 1 2395 
+referred In-situ.txt 1 2729 
+consequently In-situ.txt 2 217 362 
+or In-situ.txt 46 19 25 46 57 83 111 134 296 357 400 407 421 423 427 451 492 508 700 877 930 989 1055 1138 1221 1390 1425 1594 1708 1741 1785 1799 1990 2037 2165 2177 2185 2450 2475 2525 2548 2647 2685 2691 2815 2889 2947 
+road In-situ.txt 1 2957 
+heavy In-situ.txt 1 2688 
+intermediates In-situ.txt 1 968 
+facility In-situ.txt 1 1904 
+civil In-situ.txt 1 1082 
+into In-situ.txt 1 499 
+within In-situ.txt 2 782 2368 
+obtaining In-situ.txt 1 2820 
+copies In-situ.txt 1 1468 
+down In-situ.txt 1 1351 
+gastronomy In-situ.txt 2 2094 2097 
+weather In-situ.txt 1 1797 
+lung In-situ.txt 1 2476 
+primarily In-situ.txt 1 2847 
+artists In-situ.txt 1 544 
+computational In-situ.txt 1 1651 
+reservoirs In-situ.txt 1 2693 
+your In-situ.txt 1 1855 
+reworked In-situ.txt 1 397 
+beneath In-situ.txt 1 2694 
+rely In-situ.txt 1 2818 
+transmission In-situ.txt 4 2747 2753 2774 2796 
+devices In-situ.txt 1 2547 
+area In-situ.txt 3 737 1262 1267 
+artifacts In-situ.txt 2 226 286 
+transfer In-situ.txt 1 1966 
+unmodified In-situ.txt 1 1238 
+there In-situ.txt 4 961 1831 2399 2698 
+catalysts In-situ.txt 1 1065 
+specifically In-situ.txt 2 487 2231 
+polymerization In-situ.txt 2 1014 2612 
+conservation In-situ.txt 6 238 912 918 921 942 945 
+editor In-situ.txt 1 1532 
+fraction In-situ.txt 1 585 
+literal In-situ.txt 1 2148 
+metastasized In-situ.txt 1 2449 
+analyze In-situ.txt 1 839 
+was In-situ.txt 13 340 443 469 710 720 726 731 830 852 1398 2330 2361 2460 
+war In-situ.txt 1 353 
+launching In-situ.txt 1 1528 
+therefore In-situ.txt 1 1168 
+excavating In-situ.txt 1 292 
+medium In-situ.txt 2 694 1736 
+elsewhere In-situ.txt 2 549 2018 
+wh-element In-situ.txt 1 2301 
+becoming In-situ.txt 1 2738 
+differences In-situ.txt 1 1294 
+tilled In-situ.txt 1 428 
+but In-situ.txt 8 150 374 808 1150 1174 2128 2446 2706 
+heat In-situ.txt 2 2684 2717 
+properly In-situ.txt 1 141 
+solar In-situ.txt 1 2887 
+methodologies In-situ.txt 1 888 
+patient In-situ.txt 2 2577 2585 
+migrating In-situ.txt 1 651 
+with In-situ.txt 17 10 276 375 817 886 902 1107 1192 1575 1772 2106 2173 2179 2216 2265 2272 2834 
+versatile In-situ.txt 3 1018 1159 2616 
+assets In-situ.txt 1 1216 
+made In-situ.txt 4 486 1009 1115 2607 
+embedded In-situ.txt 1 2876 
+cells In-situ.txt 1 2440 
+up In-situ.txt 2 1989 2513 
+vivo In-situ.txt 4 773 800 867 909 
+tell In-situ.txt 1 413 
+planet In-situ.txt 1 627 
+harvested In-situ.txt 1 1893 
+solvents In-situ.txt 1 2686 
+frequency In-situ.txt 1 2751 
+exploration In-situ.txt 1 2814 
+problem In-situ.txt 1 865 
+isolating In-situ.txt 1 106 
+display In-situ.txt 2 242 2384 
+recognition In-situ.txt 1 2194 
+detailed In-situ.txt 1 513 
+required In-situ.txt 1 1434 
+associated In-situ.txt 2 265 885 
+describe In-situ.txt 6 61 88 439 565 2322 2761 
+moved In-situ.txt 7 188 236 328 462 470 743 1649 
+an In-situ.txt 34 62 182 203 225 243 260 277 330 337 346 752 927 1237 1273 1317 1380 1386 1415 1421 1456 1475 1485 1518 1786 1887 2045 2210 2233 2296 2299 2426 2530 2786 2905 
+examine In-situ.txt 1 678 
+asynchronous In-situ.txt 2 1563 1591 
+at In-situ.txt 8 529 1098 1220 1969 2113 2385 2529 2974 
+planets In-situ.txt 1 631 
+laboratory In-situ.txt 2 761 2092 
+happen In-situ.txt 1 2464 
+as In-situ.txt 33 80 142 257 448 594 596 718 751 764 801 815 937 1583 1601 1738 1754 1777 1790 1796 1906 2088 2259 2281 2353 2363 2443 2470 2501 2589 2731 2825 2879 2965 
+inc In-situ.txt 1 12 
+functions In-situ.txt 1 140 
+arrowhead In-situ.txt 1 173 
+no In-situ.txt 2 1448 1833 
+references In-situ.txt 1 2985 
+whereas In-situ.txt 2 1743 2416 
+when In-situ.txt 5 291 758 1809 1857 2062 
+treatment In-situ.txt 2 1033 2631 
+memnon In-situ.txt 1 467 
+application In-situ.txt 1 1391 
+other In-situ.txt 5 109 196 599 1639 2594 
+details In-situ.txt 1 1194 
+test In-situ.txt 3 118 160 2781 
+uranium-impregnated In-situ.txt 1 2666 
+erosion In-situ.txt 2 1727 1732 
+picture In-situ.txt 1 262 
+si111 In-situ.txt 1 2051 
+elements In-situ.txt 2 1483 1670 
+star In-situ.txt 1 589 
+users In-situ.txt 1 1375 
+separate In-situ.txt 1 1530 
+setting In-situ.txt 2 2087 2093 
+problems In-situ.txt 1 158 
+utilities In-situ.txt 1 1305 
+transported In-situ.txt 1 1121 
+meaning In-situ.txt 2 201 2149 
+sabatier In-situ.txt 1 2855 
+rosetta In-situ.txt 1 2326 
+pre-visualization In-situ.txt 1 1680 
+included In-situ.txt 1 1557 
+transfers In-situ.txt 1 1593 
+astronomy In-situ.txt 2 582 619 
+structure In-situ.txt 1 1961 
+exposure In-situ.txt 1 2043 
+building In-situ.txt 8 572 578 1088 1100 1112 1124 1301 2366 
+land In-situ.txt 4 425 2157 2172 2184 
+sphinx In-situ.txt 1 450 
+longer In-situ.txt 2 1149 1852 
+algorithm In-situ.txt 6 1416 1424 1427 1438 1457 1479 
+typically In-situ.txt 7 419 955 1454 1663 1704 2029 2078 
+age In-situ.txt 1 1888 
+grading In-situ.txt 1 1249 
+wards In-situ.txt 1 2590 
+orbit In-situ.txt 2 640 655 
+uncovered In-situ.txt 1 2362 
+portion In-situ.txt 2 1570 2187 
+stockpile In-situ.txt 1 1244 
+u In-situ.txt 3 18 24 30 
+diagnosis In-situ.txt 2 1035 2633 
+reached In-situ.txt 1 1886 
+accreted In-situ.txt 1 612 
+requires In-situ.txt 1 1733 
+original In-situ.txt 4 114 191 875 2164 
+restored In-situ.txt 1 1340 
+once In-situ.txt 1 224 

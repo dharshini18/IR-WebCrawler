@@ -1,0 +1,1049 @@
+all Lunar_water.txt 1 700 
+evidence Lunar_water.txt 10 4 145 202 257 822 834 984 1822 2065 2251 
+asteroids Lunar_water.txt 3 404 3088 3209 
+results Lunar_water.txt 4 727 1065 1409 1947 
+astronauts Lunar_water.txt 1 789 
+mantle Lunar_water.txt 1 2364 
+antennas Lunar_water.txt 1 1039 
+spacecraft Lunar_water.txt 4 1356 1454 1668 2096 
+debris Lunar_water.txt 2 1693 2114 
+ice Lunar_water.txt 31 88 206 723 751 981 987 1096 1212 1251 1390 1421 1443 1520 1573 1701 1882 1904 1926 2002 2028 2038 2257 2269 2302 2496 2619 2775 2781 2996 3047 3069 
+dish Lunar_water.txt 1 1038 
+flyby Lunar_water.txt 1 1467 
+retention Lunar_water.txt 1 593 
+whose Lunar_water.txt 1 643 
+21st Lunar_water.txt 1 1343 
+0.00012 Lunar_water.txt 1 945 
+failed Lunar_water.txt 1 1513 
+young Lunar_water.txt 2 25 1399 
+crater Lunar_water.txt 12 27 326 1287 1641 1679 1980 2087 2283 2298 2675 2678 2880 
+environment Lunar_water.txt 1 1891 
+to Lunar_water.txt 60 76 136 169 176 334 339 373 391 471 539 646 793 809 920 1014 1079 1093 1139 1162 1179 1185 1223 1233 1386 1514 1545 1577 1646 1817 1860 1899 1917 1931 2084 2105 2126 2170 2209 2230 2291 2375 2393 2400 2464 2636 2652 2766 2779 2802 2813 2842 2875 2891 2917 2991 3000 3052 3122 3197 3228 
+panel-equipped Lunar_water.txt 1 3022 
+19-month Lunar_water.txt 1 1484 
+permanently Lunar_water.txt 9 93 362 975 1215 1445 1522 1849 2669 2767 
+depending Lunar_water.txt 1 2718 
+stable Lunar_water.txt 1 2707 
+atlas Lunar_water.txt 1 2078 
+include Lunar_water.txt 1 2210 
+indicating Lunar_water.txt 1 1207 
+brown Lunar_water.txt 1 774 
+conjecture Lunar_water.txt 1 2949 
+lack Lunar_water.txt 1 572 
+returned Lunar_water.txt 2 188 919 
+very Lunar_water.txt 2 24 2643 
+role Lunar_water.txt 1 2931 
+akhmanova Lunar_water.txt 1 888 
+lro Lunar_water.txt 2 2045 2240 
+splitting Lunar_water.txt 1 2624 
+oxides Lunar_water.txt 2 2461 3056 
+appropriation Lunar_water.txt 1 3143 
+laser Lunar_water.txt 1 2277 
+drinking Lunar_water.txt 1 3005 
+particulates Lunar_water.txt 1 2215 
+arecibo Lunar_water.txt 2 1372 1434 
+minerals Lunar_water.txt 9 138 423 709 1234 2460 2473 2530 2756 2915 
+categories Lunar_water.txt 2 3257 3259 
+entire Lunar_water.txt 1 665 
+indicate Lunar_water.txt 1 1405 
+provide Lunar_water.txt 3 2063 3001 3072 
+level Lunar_water.txt 1 951 
+did Lunar_water.txt 2 1310 2247 
+cause Lunar_water.txt 1 1902 
+companies Lunar_water.txt 1 3186 
+large Lunar_water.txt 5 1037 1797 2253 2955 2994 
+1999 Lunar_water.txt 2 1271 1342 
+11:31 Lunar_water.txt 1 2089 
+announced Lunar_water.txt 2 1707 1730 
+1998 Lunar_water.txt 1 1157 
+small Lunar_water.txt 3 2020 2266 2466 
+markov Lunar_water.txt 1 893 
+chemically Lunar_water.txt 5 120 130 1231 1815 2450 
+20th Lunar_water.txt 1 745 
+programme Lunar_water.txt 1 1474 
+upper Lunar_water.txt 3 1628 2074 2363 
+vernadsky Lunar_water.txt 1 896 
+approximately Lunar_water.txt 1 2348 
+says Lunar_water.txt 1 692 
+findings Lunar_water.txt 1 1952 
+alsep Lunar_water.txt 1 847 
+mi Lunar_water.txt 4 244 1120 1145 1268 
+consistent Lunar_water.txt 3 1055 1949 1991 
+estimates Lunar_water.txt 1 1097 
+direct Lunar_water.txt 3 3 833 2899 
+likely Lunar_water.txt 2 1576 2263 
+timescales Lunar_water.txt 1 396 
+0.240.72 Lunar_water.txt 1 1266 
+further Lunar_water.txt 4 1459 2064 2196 2518 
+estimated Lunar_water.txt 5 376 1246 1863 1922 1934 
+investment Lunar_water.txt 1 3216 
+spectral Lunar_water.txt 3 1314 1593 2149 
+transfer Lunar_water.txt 1 2938 
+what Lunar_water.txt 4 337 2157 2892 2896 
+trapping Lunar_water.txt 4 2607 2792 2815 2867 
+sun Lunar_water.txt 2 1612 2844 
+while Lunar_water.txt 3 1972 2365 2826 
+indias Lunar_water.txt 1 235 
+find Lunar_water.txt 1 2988 
+access Lunar_water.txt 1 2394 
+liberated Lunar_water.txt 1 1303 
+axial Lunar_water.txt 1 2645 
+indian Lunar_water.txt 2 503 1667 
+poles Lunar_water.txt 5 99 210 1126 1202 2662 
+above Lunar_water.txt 4 111 269 955 2686 
+scientists Lunar_water.txt 4 80 669 886 1244 
+international Lunar_water.txt 1 3233 
+slabs Lunar_water.txt 1 2254 
+thin Lunar_water.txt 2 107 267 
+friday Lunar_water.txt 1 1621 
+chinas Lunar_water.txt 1 1555 
+exchange Lunar_water.txt 1 2901 
+respectively Lunar_water.txt 1 1127 
+gathered Lunar_water.txt 1 264 
+never Lunar_water.txt 2 2663 2684 
+component Lunar_water.txt 1 3043 
+colaprete Lunar_water.txt 1 2202 
+atoms Lunar_water.txt 2 2455 2511 
+water Lunar_water.txt 89 1 7 48 50 58 66 87 100 115 143 166 197 205 259 284 301 386 431 455 512 542 675 698 779 824 836 862 910 932 980 986 1211 1250 1300 1317 1324 1363 1442 1519 1574 1648 1700 1713 1728 1751 1925 1965 1973 2001 2067 2110 2152 2173 2185 2229 2256 2260 2313 2410 2416 2469 2481 2485 2495 2522 2561 2595 2616 2618 2695 2733 2744 2790 2807 2817 2825 2831 2851 2871 2926 2937 2958 2974 2995 3003 3011 3046 3104 3116 
+reported Lunar_water.txt 6 185 350 494 1837 2136 2310 
+them Lunar_water.txt 1 2402 
+free Lunar_water.txt 4 142 204 2615 2732 
+groups Lunar_water.txt 3 2479 2500 2570 
+kilometers Lunar_water.txt 1 2383 
+november Lunar_water.txt 5 226 297 1663 1689 2132 
+principle Lunar_water.txt 1 2862 
+appears Lunar_water.txt 3 338 558 2208 
+change Lunar_water.txt 1 1556 
+dry Lunar_water.txt 1 812 
+search Lunar_water.txt 2 425 2035 
+institute Lunar_water.txt 1 897 
+impacted Lunar_water.txt 1 1677 
+study Lunar_water.txt 3 816 914 1546 
+generator Lunar_water.txt 1 3029 
+stipulates Lunar_water.txt 1 3221 
+example Lunar_water.txt 1 2673 
+eventually Lunar_water.txt 1 2697 
+suggests Lunar_water.txt 3 147 588 2289 
+amount Lunar_water.txt 3 313 1165 1923 
+chemical Lunar_water.txt 2 2163 2537 
+definitively Lunar_water.txt 1 912 
+published Lunar_water.txt 1 903 
+action Lunar_water.txt 1 2749 
+military Lunar_water.txt 1 998 
+shaded Lunar_water.txt 1 1523 
+uniquely Lunar_water.txt 1 1876 
+redesignated Lunar_water.txt 1 1456 
+followed Lunar_water.txt 1 2091 
+private Lunar_water.txt 2 3182 3185 
+brought Lunar_water.txt 1 2782 
+aimed Lunar_water.txt 1 656 
+cassini Lunar_water.txt 1 1830 
+inorganic Lunar_water.txt 1 2181 
+sunlit Lunar_water.txt 1 579 
+reactions Lunar_water.txt 1 2576 
+cloud Lunar_water.txt 1 2115 
+orientation Lunar_water.txt 1 2724 
+resources Lunar_water.txt 4 3138 3162 3200 3226 
+from Lunar_water.txt 22 37 213 234 322 728 994 1238 1307 1398 1410 1415 1492 1610 1781 1823 1935 2144 2172 2620 2979 3157 3205 
+impacts Lunar_water.txt 1 2785 
+would Lunar_water.txt 7 1301 1404 2611 2860 2962 2981 3070 
+analytic Lunar_water.txt 1 901 
+selenological Lunar_water.txt 1 2368 
+stated Lunar_water.txt 1 2204 
+two Lunar_water.txt 4 972 2418 2567 2582 
+telescopes Lunar_water.txt 1 1309 
+0.1 Lunar_water.txt 2 196 931 
+camera Lunar_water.txt 1 469 
+examination Lunar_water.txt 1 2279 
+20:31 Lunar_water.txt 1 1686 
+m3 Lunar_water.txt 1 1786 
+then Lunar_water.txt 1 2634 
+taken Lunar_water.txt 1 1584 
+survive Lunar_water.txt 1 90 
+is Lunar_water.txt 22 49 52 68 150 167 550 599 688 1252 1575 1874 1929 1989 2168 2261 2299 2355 2604 2833 2943 3151 3227 
+space-faring Lunar_water.txt 1 3247 
+more Lunar_water.txt 4 359 1318 1846 3064 
+altitudinal Lunar_water.txt 2 15 253 
+mini-sar Lunar_water.txt 2 353 1840 
+eruptions Lunar_water.txt 1 2344 
+ejected Lunar_water.txt 1 1397 
+composite Lunar_water.txt 1 958 
+cabeus Lunar_water.txt 2 1639 2086 
+company Lunar_water.txt 1 3191 
+volatiles Lunar_water.txt 1 622 
+site Lunar_water.txt 2 881 2245 
+glass Lunar_water.txt 2 829 2325 
+needed Lunar_water.txt 1 2125 
+known Lunar_water.txt 1 1004 
+2,550 Lunar_water.txt 1 1113 
+pieces Lunar_water.txt 2 2026 2267 
+harvest Lunar_water.txt 1 3062 
+must Lunar_water.txt 3 1886 1905 2490 
+abundance Lunar_water.txt 3 586 1182 3084 
+high Lunar_water.txt 4 562 1509 1872 1896 
+account Lunar_water.txt 1 1889 
+locked Lunar_water.txt 1 706 
+1994 Lunar_water.txt 1 993 
+this Lunar_water.txt 17 149 330 466 576 790 1403 1720 1763 1819 1919 1987 2193 2353 2370 2483 2584 3236 
+science Lunar_water.txt 3 492 1736 1884 
+when Lunar_water.txt 1 2442 
+protons Lunar_water.txt 4 416 2445 2507 2583 
+suggestive Lunar_water.txt 1 1361 
+can Lunar_water.txt 2 125 1495 
+v Lunar_water.txt 1 2079 
+chief Lunar_water.txt 1 2198 
+latitudes Lunar_water.txt 1 563 
+history Lunar_water.txt 2 741 3078 
+ions Lunar_water.txt 3 415 864 2444 
+kenneth Lunar_water.txt 1 767 
+give Lunar_water.txt 1 1918 
+process Lunar_water.txt 2 603 2760 
+chemically-bound Lunar_water.txt 1 2184 
+confused Lunar_water.txt 1 2493 
+days Lunar_water.txt 1 974 
+sample Lunar_water.txt 3 200 2319 2380 
+celsius Lunar_water.txt 1 2692 
+arise Lunar_water.txt 1 3176 
+exclude Lunar_water.txt 1 1438 
+times Lunar_water.txt 1 954 
+hydrogen Lunar_water.txt 15 73 223 414 1167 1181 1194 1416 1425 1462 1795 2443 2630 2976 3017 3042 
+occur Lunar_water.txt 1 2441 
+salts Lunar_water.txt 1 2182 
+axis Lunar_water.txt 2 2651 2728 
+information Lunar_water.txt 1 3074 
+chandrayaan-1 Lunar_water.txt 11 13 236 282 356 509 642 1669 1748 1789 1843 1958 
+end Lunar_water.txt 2 649 1274 
+5.6 Lunar_water.txt 1 2232 
+rather Lunar_water.txt 2 139 1059 
+tilt Lunar_water.txt 1 2646 
+comfort Lunar_water.txt 1 2374 
+feature Lunar_water.txt 2 549 577 
+self-ionization Lunar_water.txt 1 2924 
+oxygen-bearing Lunar_water.txt 1 422 
+regions Lunar_water.txt 6 1021 1175 1971 2683 2738 2855 
+hot Lunar_water.txt 1 2812 
+carrier Lunar_water.txt 1 2080 
+615-1410 Lunar_water.txt 1 2311 
+pure Lunar_water.txt 4 342 1908 2000 2218 
+significance Lunar_water.txt 1 1070 
+instead Lunar_water.txt 1 1392 
+near-polar Lunar_water.txt 1 1380 
+profile Lunar_water.txt 1 19 
+map Lunar_water.txt 1 662 
+plant Lunar_water.txt 1 3007 
+2.83.0 Lunar_water.txt 1 521 
+blocks Lunar_water.txt 1 719 
+may Lunar_water.txt 7 331 387 608 2062 2304 2440 3108 
+waters Lunar_water.txt 1 445 
+after Lunar_water.txt 2 1724 2138 
+mapping Lunar_water.txt 1 1473 
+crashed Lunar_water.txt 2 1284 1656 
+united Lunar_water.txt 2 996 3126 
+waves Lunar_water.txt 2 1017 1032 
+spectrometer Lunar_water.txt 4 584 633 871 1161 
+data Lunar_water.txt 10 581 587 1237 1332 1360 1435 1779 1944 2130 2142 
+a Lunar_water.txt 36 23 214 238 311 323 462 553 618 647 690 735 795 814 857 904 907 949 982 1159 1483 1616 1912 2004 2057 2211 2221 2404 2536 2572 2587 2759 2856 2876 2930 2948 3027 
+diffusion Lunar_water.txt 2 2906 2922 
+short Lunar_water.txt 2 2848 2857 
+liquid Lunar_water.txt 2 57 3002 
+famous Lunar_water.txt 1 2322 
+sq Lunar_water.txt 2 1119 1144 
+spectra Lunar_water.txt 1 263 
+regolith Lunar_water.txt 4 617 1171 2033 2275 
+so Lunar_water.txt 3 2258 2391 2516 
+encompassing Lunar_water.txt 1 1131 
+darkened Lunar_water.txt 2 363 1850 
+green Lunar_water.txt 1 1597 
+ultimate Lunar_water.txt 1 3170 
+allow Lunar_water.txt 1 2814 
+correlation Lunar_water.txt 1 574 
+1000 Lunar_water.txt 1 177 
+order Lunar_water.txt 2 1261 1544 
+wind Lunar_water.txt 4 420 2449 2753 2805 
+nearly Lunar_water.txt 1 1999 
+origin Lunar_water.txt 1 2329 
+interpretation Lunar_water.txt 1 1431 
+september Lunar_water.txt 6 274 490 1480 1704 1732 1773 
+indeed Lunar_water.txt 2 151 2797 
+over Lunar_water.txt 5 157 394 689 971 1796 
+inconclusive Lunar_water.txt 4 201 1067 1331 1358 
+mission Lunar_water.txt 10 644 731 1277 1336 1485 1536 1938 2047 2199 2335 
+murray Lunar_water.txt 1 771 
+interpreted Lunar_water.txt 2 1205 3153 
+produced Lunar_water.txt 5 409 1333 1357 2745 2873 
+radar Lunar_water.txt 4 1008 1075 1374 1382 
+paper Lunar_water.txt 1 905 
+through Lunar_water.txt 5 12 485 2758 3177 3210 
+ratified Lunar_water.txt 1 3241 
+signs Lunar_water.txt 1 1517 
+existence Lunar_water.txt 2 1322 1793 
+cold Lunar_water.txt 5 92 611 2768 2837 2877 
+chace Lunar_water.txt 2 17 255 
+its Lunar_water.txt 10 246 305 1012 1276 1471 1535 1782 1901 2077 2627 
+before Lunar_water.txt 3 1653 1718 1754 
+24 Lunar_water.txt 4 193 489 928 1733 
+1 Lunar_water.txt 1 1557 
+group Lunar_water.txt 4 123 316 1813 2164 
+surviving Lunar_water.txt 1 2887 
+22 Lunar_water.txt 1 2292 
+continued Lunar_water.txt 1 2039 
+organisation Lunar_water.txt 1 506 
+mineralogy Lunar_water.txt 9 44 279 498 628 1588 1743 1757 1784 1961 
+29 Lunar_water.txt 1 651 
+decreases Lunar_water.txt 1 2591 
+actually Lunar_water.txt 1 2159 
+forms Lunar_water.txt 2 129 1418 
+subsurface Lunar_water.txt 1 1692 
+detected Lunar_water.txt 9 104 283 310 511 517 1034 1192 1976 2160 
+permanent Lunar_water.txt 3 480 1086 1149 
+degrees Lunar_water.txt 1 1108 
+persist Lunar_water.txt 2 60 2735 
+total Lunar_water.txt 2 1100 1255 
+covered Lunar_water.txt 1 2300 
+hidden Lunar_water.txt 1 3258 
+team Lunar_water.txt 1 1885 
+decades Lunar_water.txt 1 678 
+2010 Lunar_water.txt 2 347 1834 
+split Lunar_water.txt 1 3015 
+theorized Lunar_water.txt 1 2436 
+orange Lunar_water.txt 1 2324 
+motivated Lunar_water.txt 1 437 
+adjacent Lunar_water.txt 1 2568 
+reveal Lunar_water.txt 1 1312 
+questions Lunar_water.txt 1 3111 
+material Lunar_water.txt 2 319 2194 
+beads Lunar_water.txt 1 830 
+flew Lunar_water.txt 1 2098 
+billions Lunar_water.txt 1 2715 
+they Lunar_water.txt 2 679 3201 
+not Lunar_water.txt 12 704 1311 1437 1766 1875 1990 2014 2248 2491 2839 3132 3239 
+now Lunar_water.txt 2 681 1455 
+shadows Lunar_water.txt 1 483 
+kilometres Lunar_water.txt 4 242 1115 1142 1265 
+chandras Lunar_water.txt 2 14 252 
+rocky Lunar_water.txt 1 1061 
+oxygen Lunar_water.txt 8 2454 2510 2579 2632 2978 3019 3032 3065 
+brightness Lunar_water.txt 1 1600 
+edit Lunar_water.txt 13 457 744 747 1345 2412 2414 2608 2730 2951 3096 3251 3253 3256 
+countries Lunar_water.txt 1 3156 
+repositories Lunar_water.txt 1 676 
+organics Lunar_water.txt 1 1428 
+rocks Lunar_water.txt 1 1396 
+realistic Lunar_water.txt 1 482 
+bursts Lunar_water.txt 1 860 
+proton Lunar_water.txt 3 2599 2900 2904 
+definitive Lunar_water.txt 1 2223 
+rock Lunar_water.txt 2 784 819 
+found Lunar_water.txt 3 781 1579 2225 
+side Lunar_water.txt 2 30 852 
+occurrences Lunar_water.txt 1 1894 
+watery Lunar_water.txt 1 739 
+square Lunar_water.txt 2 1114 1141 
+primarily Lunar_water.txt 1 1414 
+fairly Lunar_water.txt 1 911 
+series Lunar_water.txt 1 858 
+energy Lunar_water.txt 1 3190 
+related Lunar_water.txt 1 121 
+constitute Lunar_water.txt 1 2586 
+used Lunar_water.txt 3 1011 1078 3051 
+measure Lunar_water.txt 2 1163 1496 
+into Lunar_water.txt 8 1018 1285 1539 1637 1888 2099 2626 3016 
+wavelength Lunar_water.txt 1 947 
+thick Lunar_water.txt 2 1916 1996 
+out Lunar_water.txt 4 1487 2016 2056 3054 
+given Lunar_water.txt 1 2845 
+network Lunar_water.txt 1 1044 
+space Lunar_water.txt 7 78 307 504 1043 2637 2918 3129 
+since Lunar_water.txt 2 82 2972 
+unknown Lunar_water.txt 2 2796 2945 
+research Lunar_water.txt 1 505 
+content Lunar_water.txt 1 1550 
+attracted Lunar_water.txt 1 433 
+contained Lunar_water.txt 2 195 929 
+investigation Lunar_water.txt 1 1003 
+7 Lunar_water.txt 1 855 
+conjectured Lunar_water.txt 1 85 
+suggesting Lunar_water.txt 1 218 
+supports Lunar_water.txt 1 1820 
+occurs Lunar_water.txt 1 2809 
+red Lunar_water.txt 1 1614 
+shows Lunar_water.txt 4 477 1591 1598 1615 
+earlier Lunar_water.txt 1 1821 
+written Lunar_water.txt 1 2547 
+million Lunar_water.txt 4 180 378 1190 1865 
+hauri Lunar_water.txt 1 2307 
+possibility Lunar_water.txt 3 673 749 1440 
+diagnostic Lunar_water.txt 1 1877 
+ecliptic Lunar_water.txt 1 2654 
+completely Lunar_water.txt 1 811 
+formation Lunar_water.txt 2 591 2558 
+imaging Lunar_water.txt 2 632 1511 
+early Lunar_water.txt 1 3091 
+sensors Lunar_water.txt 1 1512 
+rises Lunar_water.txt 1 2685 
+beginning Lunar_water.txt 1 460 
+prospector Lunar_water.txt 5 1153 1242 1280 1412 1941 
+presently Lunar_water.txt 1 2944 
+thrown Lunar_water.txt 1 320 
+lcross Lunar_water.txt 6 306 1643 1986 2046 2095 2243 
+silicate Lunar_water.txt 1 532 
+question Lunar_water.txt 1 3174 
+could Lunar_water.txt 13 89 978 1219 1257 2175 2517 2544 2585 2703 2927 2997 3012 3048 
+full-frame Lunar_water.txt 1 463 
+feasible Lunar_water.txt 1 452 
+produce Lunar_water.txt 1 2465 
+aboard Lunar_water.txt 2 1788 1825 
+signature Lunar_water.txt 4 1315 1594 1920 2150 
+hence Lunar_water.txt 1 1089 
+onto Lunar_water.txt 2 1658 2527 
+south Lunar_water.txt 10 324 474 963 1024 1125 1201 1291 1527 1683 2287 
+first Lunar_water.txt 4 660 760 832 1565 
+feed Lunar_water.txt 1 609 
+major Lunar_water.txt 1 3246 
+frozen Lunar_water.txt 1 2705 
+features Lunar_water.txt 2 519 535 
+probability Lunar_water.txt 3 2593 2865 2885 
+striking Lunar_water.txt 1 2426 
+radical Lunar_water.txt 1 1229 
+reflected Lunar_water.txt 2 294 1607 
+one Lunar_water.txt 3 635 2560 2578 
+expensive Lunar_water.txt 1 2984 
+floors Lunar_water.txt 1 754 
+sunlight Lunar_water.txt 3 71 295 2666 
+another Lunar_water.txt 1 1465 
+habitation Lunar_water.txt 2 451 2970 
+mp3 Lunar_water.txt 1 1963 
+array Lunar_water.txt 1 737 
+payload Lunar_water.txt 2 277 1741 
+affords Lunar_water.txt 1 2372 
+170 Lunar_water.txt 1 2691 
+microprobe Lunar_water.txt 1 2407 
+earths Lunar_water.txt 1 2362 
+little Lunar_water.txt 1 2373 
+long Lunar_water.txt 1 2710 
+temperature Lunar_water.txt 1 2680 
+74220 Lunar_water.txt 1 2320 
+their Lunar_water.txt 4 913 1069 3195 3211 
+revealed Lunar_water.txt 1 821 
+trillion Lunar_water.txt 1 382 
+system Lunar_water.txt 1 3094 
+least Lunar_water.txt 1 1911 
+water-bearing Lunar_water.txt 3 335 402 2421 
+returns Lunar_water.txt 1 1383 
+detectable Lunar_water.txt 1 1297 
+observations Lunar_water.txt 7 217 743 1306 1348 1369 1491 2060 
+650 Lunar_water.txt 1 261 
+confirmatory Lunar_water.txt 1 1460 
+cost-effective Lunar_water.txt 1 2971 
+majority Lunar_water.txt 1 801 
+cycle Lunar_water.txt 1 2411 
+too Lunar_water.txt 2 2605 2811 
+passed Lunar_water.txt 1 1338 
+that Lunar_water.txt 36 34 51 86 148 186 351 370 495 557 589 684 916 1083 1135 1247 1296 1376 1406 1494 1676 1694 1708 1778 1838 1857 2061 2097 2137 2205 2297 2358 2395 2437 2696 3168 3222 
+et Lunar_water.txt 1 2308 
+radars Lunar_water.txt 1 1871 
+soh Lunar_water.txt 1 2501 
+took Lunar_water.txt 2 1563 2397 
+immediate Lunar_water.txt 1 2118 
+released Lunar_water.txt 2 233 1670 
+part Lunar_water.txt 1 1469 
+constituent Lunar_water.txt 1 2628 
+july Lunar_water.txt 1 1270 
+than Lunar_water.txt 5 140 360 1060 1420 1847 
+11 Lunar_water.txt 1 638 
+10 Lunar_water.txt 3 175 953 2021 
+13 Lunar_water.txt 2 1263 2133 
+b Lunar_water.txt 1 889 
+14 Lunar_water.txt 4 846 879 1664 1688 
+showed Lunar_water.txt 2 915 1375 
+breathable Lunar_water.txt 1 3031 
+18 Lunar_water.txt 2 225 2050 
+1978 Lunar_water.txt 2 182 884 
+see Lunar_water.txt 3 2671 2920 3249 
+shackleton Lunar_water.txt 4 1678 2282 2674 3189 
+limiting Lunar_water.txt 1 2588 
+states Lunar_water.txt 1 997 
+future Lunar_water.txt 1 2986 
+supposed Lunar_water.txt 1 2539 
+were Lunar_water.txt 9 780 865 1033 1066 1077 1204 1328 1413 2340 
+normally Lunar_water.txt 1 2612 
+video Lunar_water.txt 1 467 
+providing Lunar_water.txt 2 658 3030 
+usefulness Lunar_water.txt 1 446 
+and Lunar_water.txt 63 65 118 134 144 289 405 436 476 564 592 596 613 716 772 799 891 900 1049 1068 1088 1112 1117 1124 1183 1191 1200 1240 1532 1613 1807 1829 1909 1982 2103 2190 2246 2387 2423 2429 2590 2631 2667 2676 2693 2706 2763 2771 2819 2888 2894 2903 2923 2946 2977 3006 3009 3018 3061 3082 3087 3117 3150 3215 
+1.5 Lunar_water.txt 1 2656 
+1.3 Lunar_water.txt 1 381 
+lines Lunar_water.txt 1 292 
+few Lunar_water.txt 1 2005 
+1972 Lunar_water.txt 1 2337 
+5,400 Lunar_water.txt 1 1143 
+already Lunar_water.txt 1 3193 
+analysis Lunar_water.txt 4 2139 2197 2224 3066 
+have Lunar_water.txt 5 81 388 1090 1245 2882 
+seen Lunar_water.txt 3 551 936 2122 
+concentration Lunar_water.txt 3 2189 2227 2354 
+any Lunar_water.txt 9 1516 2250 2614 2665 2694 2742 2780 2794 3243 
+viewed Lunar_water.txt 1 40 
+ray Lunar_water.txt 1 1489 
+bombardment Lunar_water.txt 1 400 
+form Lunar_water.txt 1 1810 
+cascade Lunar_water.txt 1 2573 
+transmitter Lunar_water.txt 1 1013 
+latter Lunar_water.txt 1 2439 
+trapped Lunar_water.txt 5 826 1213 1424 2470 2890 
+able Lunar_water.txt 1 1178 
+1961 Lunar_water.txt 1 763 
+mechanism Lunar_water.txt 2 2788 2934 
+stability Lunar_water.txt 1 2721 
+equipment Lunar_water.txt 1 46 
+potential Lunar_water.txt 3 1092 2419 2480 
+take Lunar_water.txt 1 1887 
+which Lunar_water.txt 5 309 1337 2167 2179 2633 
+schematically Lunar_water.txt 1 2546 
+mip Lunar_water.txt 3 1675 1710 1749 
+detector Lunar_water.txt 1 850 
+silicates Lunar_water.txt 1 2462 
+blue Lunar_water.txt 1 1590 
+play Lunar_water.txt 2 458 2929 
+towards Lunar_water.txt 1 2939 
+relatively Lunar_water.txt 1 1907 
+electric Lunar_water.txt 1 3023 
+trace Lunar_water.txt 2 172 776 
+investigations Lunar_water.txt 1 2987 
+bruce Lunar_water.txt 1 769 
+who Lunar_water.txt 2 3113 3118 
+molecule Lunar_water.txt 1 2562 
+most Lunar_water.txt 2 2262 3164 
+impacting Lunar_water.txt 1 421 
+hydroxyl Lunar_water.txt 10 122 290 315 540 1228 1812 2165 2478 2498 2569 
+significant Lunar_water.txt 2 312 1208 
+successive Lunar_water.txt 1 2575 
+measured Lunar_water.txt 1 1605 
+probes Lunar_water.txt 3 251 1508 1831 
+in-situ Lunar_water.txt 1 3161 
+vapor Lunar_water.txt 5 67 837 863 1974 2111 
+mineral Lunar_water.txt 3 661 1617 2488 
+87.5 Lunar_water.txt 1 1107 
+sensing Lunar_water.txt 1 1983 
+calculated Lunar_water.txt 1 168 
+later Lunar_water.txt 1 2222 
+m Lunar_water.txt 9 500 516 522 580 630 654 887 892 944 
+treaty Lunar_water.txt 3 3130 3219 3237 
+researchers Lunar_water.txt 1 766 
+nuclear Lunar_water.txt 1 3028 
+typically Lunar_water.txt 1 537 
+came Lunar_water.txt 2 645 991 
+50 Lunar_water.txt 1 1187 
+planetary Lunar_water.txt 1 1373 
+atmosphere Lunar_water.txt 2 11 268 
+particularly Lunar_water.txt 1 2993 
+show Lunar_water.txt 1 22 
+detection Lunar_water.txt 2 908 950 
+probe Lunar_water.txt 11 194 231 308 926 970 1000 1154 1281 1477 1644 1674 
+scattered Lunar_water.txt 1 711 
+infrared Lunar_water.txt 2 938 1608 
+discovered Lunar_water.txt 5 358 1712 1750 1845 1964 
+radio Lunar_water.txt 1 1016 
+melt Lunar_water.txt 1 2315 
+threshold Lunar_water.txt 1 957 
+earth Lunar_water.txt 4 38 921 1046 2980 
+debate Lunar_water.txt 1 687 
+colonists Lunar_water.txt 1 2378 
+crashing Lunar_water.txt 1 1538 
+impact Lunar_water.txt 9 230 250 1355 1453 1673 1719 1828 2085 3077 
+highest Lunar_water.txt 1 2884 
+based Lunar_water.txt 1 1235 
+proposed Lunar_water.txt 1 983 
+true Lunar_water.txt 1 1402 
+plume Lunar_water.txt 5 1549 1652 2102 2120 2147 
+distributed Lunar_water.txt 1 555 
+such Lunar_water.txt 4 534 1422 2743 3187 
+should Lunar_water.txt 1 2881 
+hypothesized Lunar_water.txt 2 372 1859 
+ground-based Lunar_water.txt 1 1308 
+experiment Lunar_water.txt 2 851 1009 
+releasing Lunar_water.txt 1 1691 
+molecules Lunar_water.txt 8 101 825 1426 1966 2186 2523 2852 2872 
+factor Lunar_water.txt 2 2589 2966 
+fuel Lunar_water.txt 1 3040 
+employed Lunar_water.txt 1 1158 
+hope Lunar_water.txt 1 1295 
+photographs Lunar_water.txt 1 1567 
+do Lunar_water.txt 1 1436 
+cassinihuygens Lunar_water.txt 1 1335 
+wide Lunar_water.txt 1 736 
+beam Lunar_water.txt 1 1015 
+watson Lunar_water.txt 1 768 
+cannot Lunar_water.txt 2 59 2734 
+ejecta Lunar_water.txt 5 1548 1651 2101 2146 2207 
+words Lunar_water.txt 1 2870 
+report Lunar_water.txt 1 691 
+during Lunar_water.txt 4 245 1464 2331 2342 
+onboard Lunar_water.txt 3 281 1957 2053 
+years Lunar_water.txt 3 2351 2399 2717 
+areas Lunar_water.txt 8 478 977 1082 1104 1571 1798 2770 2838 
+mapper Lunar_water.txt 9 45 280 499 629 1589 1744 1758 1785 1962 
+processes Lunar_water.txt 1 607 
+17 Lunar_water.txt 1 2334 
+ended Lunar_water.txt 2 1534 2698 
+feldspathic Lunar_water.txt 1 568 
+h Lunar_water.txt 5 116 585 597 2508 2524 
+oxide Lunar_water.txt 4 2514 2529 2542 2555 
+remove Lunar_water.txt 1 3202 
+naked Lunar_water.txt 1 2911 
+scientist Lunar_water.txt 1 2200 
+contain Lunar_water.txt 2 374 1861 
+where Lunar_water.txt 3 1572 2551 2806 
+dementev Lunar_water.txt 1 890 
+declared Lunar_water.txt 1 1777 
+harrison Lunar_water.txt 1 773 
+plane Lunar_water.txt 1 2655 
+national Lunar_water.txt 1 3180 
+hypothetical Lunar_water.txt 2 2787 3098 
+terrain Lunar_water.txt 1 1133 
+comparable Lunar_water.txt 2 1930 2356 
+1960s Lunar_water.txt 1 84 
+observed Lunar_water.txt 2 866 2241 
+2.9 Lunar_water.txt 1 2233 
+computer Lunar_water.txt 1 1129 
+are Lunar_water.txt 14 102 371 536 680 732 1084 1110 1858 1948 2180 2390 2668 2810 3192 
+enhanced Lunar_water.txt 1 1193 
+close Lunar_water.txt 1 2874 
+precursors Lunar_water.txt 1 2482 
+nations Lunar_water.txt 3 3127 3149 3248 
+surfaces Lunar_water.txt 1 2799 
+2011 Lunar_water.txt 1 2305 
+detect Lunar_water.txt 5 1515 1647 2106 2249 2401 
+containing Lunar_water.txt 1 2183 
+subsequent Lunar_water.txt 1 1128 
+away Lunar_water.txt 1 36 
+nature Lunar_water.txt 1 2188 
+wikipedia Lunar_water.txt 1 2 
+3 Lunar_water.txt 1 943 
+geochemistry Lunar_water.txt 1 899 
+various Lunar_water.txt 1 1500 
+moons Lunar_water.txt 13 63 98 161 271 367 962 1290 1504 1801 1854 1969 2649 2727 
+sorts Lunar_water.txt 1 701 
+discovery Lunar_water.txt 4 456 1726 1764 3099 
+spectrometers Lunar_water.txt 1 1824 
+abundances Lunar_water.txt 1 1498 
+explosive Lunar_water.txt 1 2343 
+august Lunar_water.txt 1 652 
+right Lunar_water.txt 2 3121 3196 
+25 Lunar_water.txt 2 1703 1774 
+originated Lunar_water.txt 1 2381 
+1,030 Lunar_water.txt 1 1111 
+attention Lunar_water.txt 1 435 
+however Lunar_water.txt 6 79 813 1304 2156 2638 3163 
+evaporation Lunar_water.txt 1 2762 
+craters Lunar_water.txt 11 95 364 569 758 1217 1400 1447 1524 1851 2659 2702 
+spectroscopic Lunar_water.txt 2 1305 1359 
+smashed Lunar_water.txt 1 1636 
+inclusions Lunar_water.txt 3 2316 2339 2389 
+no Lunar_water.txt 2 2117 2827 
+water-ice Lunar_water.txt 4 344 385 1869 2220 
+contamination Lunar_water.txt 1 798 
+analyzed Lunar_water.txt 1 1696 
+outer Lunar_water.txt 2 77 3128 
+suggested Lunar_water.txt 2 761 1134 
+suprathermal Lunar_water.txt 1 848 
+c Lunar_water.txt 1 770 
+missions Lunar_water.txt 1 441 
+many Lunar_water.txt 1 2382 
+region Lunar_water.txt 1 965 
+density Lunar_water.txt 1 2600 
+attributed Lunar_water.txt 2 333 538 
+agree Lunar_water.txt 1 3167 
+etc Lunar_water.txt 1 2463 
+s Lunar_water.txt 3 507 1942 2552 
+chandrayaan-1s Lunar_water.txt 1 42 
+long-term Lunar_water.txt 1 449 
+comet Lunar_water.txt 1 2784 
+albeit Lunar_water.txt 1 1803 
+detailed Lunar_water.txt 1 1566 
+flies Lunar_water.txt 1 470 
+volcanic Lunar_water.txt 2 828 2328 
+extent Lunar_water.txt 2 1101 2893 
+cm Lunar_water.txt 1 2022 
+point Lunar_water.txt 1 2942 
+whipple Lunar_water.txt 1 2677 
+harbour Lunar_water.txt 2 979 1094 
+height Lunar_water.txt 1 239 
+pole Lunar_water.txt 8 369 475 1025 1292 1528 1684 1856 2288 
+lattices Lunar_water.txt 1 2475 
+governed Lunar_water.txt 1 3230 
+mineral-bound Lunar_water.txt 1 2484 
+crystalline Lunar_water.txt 2 343 2219 
+100 Lunar_water.txt 2 241 2688 
+cu Lunar_water.txt 1 1267 
+japans Lunar_water.txt 2 1475 1506 
+state-of-the-art Lunar_water.txt 1 2405 
+raise Lunar_water.txt 1 3109 
+instrument Lunar_water.txt 4 869 1787 2238 2408 
+addition Lunar_water.txt 1 2778 
+claiming Lunar_water.txt 2 906 3158 
+due Lunar_water.txt 1 1222 
+been Lunar_water.txt 5 389 1072 2154 2435 3240 
+quickly Lunar_water.txt 1 74 
+confident Lunar_water.txt 1 683 
+increase Lunar_water.txt 1 2863 
+production Lunar_water.txt 6 606 2413 2432 2596 2808 2832 
+interpret Lunar_water.txt 1 1900 
+interest Lunar_water.txt 1 2369 
+collected Lunar_water.txt 2 786 2330 
+combine Lunar_water.txt 1 2451 
+important Lunar_water.txt 1 2965 
+questioned Lunar_water.txt 1 1073 
+obtained Lunar_water.txt 2 842 2143 
+reaction Lunar_water.txt 1 2505 
+quantities Lunar_water.txt 4 1298 2956 2990 3102 
+400 Lunar_water.txt 1 1116 
+exposed Lunar_water.txt 3 2801 2841 2916 
+39 Lunar_water.txt 1 2398 
+anthony Lunar_water.txt 1 2201 
+latitude Lunar_water.txt 1 1109 
+whatever Lunar_water.txt 1 3199 
+suspicions Lunar_water.txt 1 1319 
+suspected Lunar_water.txt 1 2169 
+an Lunar_water.txt 10 328 375 600 631 1002 1057 1136 1862 2964 3232 
+spin Lunar_water.txt 1 2650 
+present Lunar_water.txt 5 53 1253 1928 2264 2456 
+case Lunar_water.txt 1 153 
+landing Lunar_water.txt 2 880 2244 
+being Lunar_water.txt 1 2889 
+these Lunar_water.txt 6 20 1031 1052 1203 2682 2701 
+might Lunar_water.txt 3 1146 1391 2757 
+premature Lunar_water.txt 1 648 
+specifically Lunar_water.txt 1 3220 
+will Lunar_water.txt 1 3175 
+receive Lunar_water.txt 1 2664 
+near Lunar_water.txt 10 341 365 520 838 876 1172 1288 1852 2217 2660 
+ongoing Lunar_water.txt 1 601 
+owns Lunar_water.txt 1 3114 
+reconnaissance Lunar_water.txt 2 1633 2043 
+balance Lunar_water.txt 1 2534 
+k Lunar_water.txt 1 2689 
+launched Lunar_water.txt 4 1155 1478 1559 2048 
+erik Lunar_water.txt 1 2306 
+comets Lunar_water.txt 3 403 2422 3086 
+layer Lunar_water.txt 1 108 
+0.000110.00012 Lunar_water.txt 1 523 
+century Lunar_water.txt 2 746 1344 
+soil Lunar_water.txt 3 1818 2326 3060 
+metric Lunar_water.txt 2 379 1866 
+it Lunar_water.txt 12 183 348 1176 1533 1654 1771 1835 2012 2396 2433 2625 3124 
+surface Lunar_water.txt 31 64 114 162 272 288 527 667 715 805 875 1062 1249 1505 1542 1603 1661 1802 2010 2295 2386 2489 2499 2515 2531 2543 2556 2602 2623 2905 2912 2921 
+stations Lunar_water.txt 1 3025 
+unit Lunar_water.txt 1 2603 
+itself Lunar_water.txt 1 1657 
+experts Lunar_water.txt 1 3166 
+magma Lunar_water.txt 1 2360 
+in Lunar_water.txt 80 8 91 105 128 154 163 181 260 265 273 293 296 317 345 410 447 465 524 578 695 699 708 718 752 762 782 827 882 937 946 992 1001 1085 1148 1156 1168 1214 1269 1293 1341 1346 1367 1417 1444 1448 1479 1521 1543 1560 1649 1804 1808 1967 2024 2030 2112 2271 2301 2303 2314 2317 2336 2361 2430 2446 2457 2471 2521 2681 2700 2736 2777 2835 2853 2861 2868 2932 2967 3057 3089 
+claimed Lunar_water.txt 1 1385 
+decades-long Lunar_water.txt 1 686 
+activity Lunar_water.txt 1 3183 
+situ Lunar_water.txt 2 411 2431 
+if Lunar_water.txt 5 1248 1401 2597 2793 2985 
+result Lunar_water.txt 1 796 
+exploitation Lunar_water.txt 2 3135 3223 
+confirmed Lunar_water.txt 3 1770 1791 2155 
+descent Lunar_water.txt 1 248 
+would-be Lunar_water.txt 1 2376 
+perhaps Lunar_water.txt 2 2714 2776 
+media Lunar_water.txt 1 459 
+make Lunar_water.txt 1 614 
+radiation Lunar_water.txt 3 1609 2610 2821 
+hydroxylated Lunar_water.txt 1 2487 
+sent Lunar_water.txt 1 1780 
+parts Lunar_water.txt 2 178 1188 
+potentially Lunar_water.txt 2 717 1927 
+contents Lunar_water.txt 1 453 
+widely Lunar_water.txt 1 554 
+peoples Lunar_water.txt 1 1552 
+9 Lunar_water.txt 2 1622 2070 
+several Lunar_water.txt 3 438 486 566 
+composition Lunar_water.txt 2 16 254 
+neutron Lunar_water.txt 4 583 1160 1408 1943 
+difficult Lunar_water.txt 1 2392 
+evolve Lunar_water.txt 1 484 
+satellite Lunar_water.txt 1 1984 
+chandrayaan Lunar_water.txt 1 730 
+cubic Lunar_water.txt 1 1264 
+bistatic Lunar_water.txt 1 1007 
+faces Lunar_water.txt 1 35 
+possible Lunar_water.txt 1 2409 
+ion Lunar_water.txt 2 849 2406 
+uses Lunar_water.txt 1 2950 
+ownership Lunar_water.txt 2 3095 3159 
+re-confirmed Lunar_water.txt 1 300 
+oxyhydroxide Lunar_water.txt 1 2914 
+recent Lunar_water.txt 2 439 1951 
+lros Lunar_water.txt 2 2052 2276 
+shortly Lunar_water.txt 1 2092 
+traps Lunar_water.txt 1 612 
+largely Lunar_water.txt 1 442 
+nevertheless Lunar_water.txt 1 1429 
+1976 Lunar_water.txt 1 924 
+polarisation Lunar_water.txt 1 1050 
+well Lunar_water.txt 1 3034 
+spent Lunar_water.txt 1 1627 
+1971 Lunar_water.txt 1 856 
+directly Lunar_water.txt 3 2800 2840 2907 
+materials Lunar_water.txt 2 336 544 
+14,000 Lunar_water.txt 1 1140 
+components Lunar_water.txt 1 3037 
+echoes Lunar_water.txt 2 1029 1053 
+the Lunar_water.txt 247 9 29 32 55 62 83 97 106 112 119 152 160 190 208 219 228 249 266 270 286 318 352 366 392 398 413 418 424 427 468 472 496 502 514 526 529 546 548 570 590 615 626 637 659 664 672 685 693 713 726 729 748 753 800 803 831 839 844 868 873 877 895 917 923 956 961 989 995 1006 1019 1023 1027 1036 1041 1047 1064 1081 1091 1099 1122 1151 1164 1169 1173 1197 1224 1227 1254 1260 1273 1278 1289 1294 1313 1321 1326 1339 1350 1353 1365 1371 1379 1407 1430 1433 1439 1497 1503 1526 1530 1540 1547 1551 1564 1582 1586 1592 1599 1602 1611 1626 1638 1642 1650 1659 1666 1671 1681 1709 1715 1725 1739 1760 1792 1800 1809 1826 1839 1853 1870 1883 1890 1893 1903 1921 1932 1936 1946 1959 1968 1993 2008 2017 2032 2034 2072 2094 2100 2107 2113 2128 2141 2145 2148 2162 2187 2206 2226 2236 2242 2259 2273 2281 2285 2294 2321 2332 2338 2346 2379 2385 2388 2427 2438 2447 2453 2458 2472 2497 2504 2528 2532 2541 2554 2557 2564 2592 2598 2621 2641 2648 2653 2661 2679 2720 2723 2726 2740 2748 2751 2786 2803 2836 2843 2846 2864 2883 2910 2933 2936 2940 2952 2960 2989 3010 3036 3041 3045 3055 3058 3076 3080 3083 3090 3097 3106 3115 3120 3125 3134 3142 3145 3169 3173 3206 3217 3245 
+chemistry Lunar_water.txt 1 902 
+soviet Lunar_water.txt 3 191 885 925 
+high-titanium Lunar_water.txt 1 2323 
+bodies Lunar_water.txt 2 533 2425 
+shadowed Lunar_water.txt 6 94 976 1103 1216 1446 2670 
+just Lunar_water.txt 2 705 1717 
+less Lunar_water.txt 1 2830 
+increasingly Lunar_water.txt 1 682 
+generally Lunar_water.txt 2 807 3152 
+accumulate Lunar_water.txt 1 2772 
+identify Lunar_water.txt 1 1080 
+transporting Lunar_water.txt 1 2973 
+human Lunar_water.txt 1 624 
+periods Lunar_water.txt 1 2711 
+october Lunar_water.txt 3 1561 1623 2069 
+prevent Lunar_water.txt 2 3133 3141 
+captured Lunar_water.txt 1 966 
+previous Lunar_water.txt 1 1937 
+announcement Lunar_water.txt 3 1721 1761 2371 
+candidate Lunar_water.txt 1 619 
+also Lunar_water.txt 12 103 126 733 1220 1655 2176 2822 2928 3013 3049 3071 3250 
+absorption Lunar_water.txt 4 291 518 556 939 
+had Lunar_water.txt 6 357 510 670 1711 1844 2153 
+deposits Lunar_water.txt 1 1997 
+geological Lunar_water.txt 1 395 
+signals Lunar_water.txt 1 740 
+source Lunar_water.txt 1 620 
+pyroxene Lunar_water.txt 1 1619 
+other Lunar_water.txt 4 1419 1954 2424 2869 
+deliberately Lunar_water.txt 1 1283 
+board Lunar_water.txt 4 355 641 1747 1842 
+samples Lunar_water.txt 4 187 785 820 918 
+republic Lunar_water.txt 1 1553 
+shoemaker Lunar_water.txt 1 1286 
+has Lunar_water.txt 8 432 697 1071 2203 2417 2434 3119 3238 
+precedents Lunar_water.txt 1 3178 
+usable Lunar_water.txt 1 3101 
+march Lunar_water.txt 3 346 854 1833 
+around Lunar_water.txt 1 1525 
+spectacular Lunar_water.txt 1 2119 
+represents Lunar_water.txt 1 2553 
+couple Lunar_water.txt 1 1913 
+decomposed Lunar_water.txt 1 69 
+february Lunar_water.txt 1 883 
+dark Lunar_water.txt 2 1020 2878 
+rocket Lunar_water.txt 2 2081 3039 
+indicative Lunar_water.txt 1 1388 
+roughness Lunar_water.txt 1 1880 
+vacuum Lunar_water.txt 1 2919 
+shadow Lunar_water.txt 3 481 1087 1150 
+decomposes Lunar_water.txt 1 2824 
+occurring Lunar_water.txt 1 2908 
+epoxi Lunar_water.txt 1 1457 
+lost Lunar_water.txt 1 75 
+hydroxides Lunar_water.txt 1 135 
+cooler Lunar_water.txt 1 561 
+follows Lunar_water.txt 1 2549 
+signal Lunar_water.txt 1 1898 
+pounds Lunar_water.txt 1 383 
+extremely Lunar_water.txt 1 2709 
+62 Lunar_water.txt 1 243 
+benefit Lunar_water.txt 1 3204 
+either Lunar_water.txt 1 1879 
+rearrangement Lunar_water.txt 1 2538 
+output Lunar_water.txt 1 18 
+clementine Lunar_water.txt 5 969 999 1010 1239 1381 
+accessible Lunar_water.txt 1 2512 
+because Lunar_water.txt 2 443 2639 
+discrete Lunar_water.txt 1 2025 
+980 Lunar_water.txt 1 1118 
+some Lunar_water.txt 4 1377 1569 2657 3184 
+impactor Lunar_water.txt 1 329 
+3.7 Lunar_water.txt 1 2349 
+strongest Lunar_water.txt 1 559 
+meters Lunar_water.txt 2 1915 2006 
+mixed Lunar_water.txt 2 2029 2270 
+escape Lunar_water.txt 1 2635 
+images Lunar_water.txt 1 21 
+transport Lunar_water.txt 3 2729 2791 2858 
+3.9 Lunar_water.txt 1 2023 
+delivered Lunar_water.txt 1 390 
+orbiter Lunar_water.txt 4 1558 1634 1790 2044 
+and/or Lunar_water.txt 2 541 3203 
+altimeters Lunar_water.txt 1 2278 
+for Lunar_water.txt 11 426 531 623 677 1121 1482 1697 2036 2672 2708 3004 
+measurements Lunar_water.txt 2 1076 1463 
+recorded Lunar_water.txt 1 256 
+per Lunar_water.txt 3 179 1189 2601 
+moon Lunar_water.txt 42 10 33 43 56 229 278 287 303 393 464 497 515 530 547 627 694 840 990 1028 1327 1340 1351 1366 1531 1583 1587 1672 1716 1742 1753 1756 1783 1960 2347 2428 2741 2961 3081 3107 3146 3207 3218 
+meteoroids Lunar_water.txt 1 406 
+icy Lunar_water.txt 1 1058 
+magnitude Lunar_water.txt 1 1048 
+lunar Lunar_water.txt 54 0 6 26 47 113 137 209 430 440 450 454 473 616 666 668 757 783 804 818 874 973 1095 1152 1170 1198 1241 1279 1411 1466 1472 1541 1632 1640 1660 1682 1940 1979 2009 2037 2042 2274 2286 2318 2377 2415 2459 2622 2755 2798 2969 3059 3068 3137 3225 
+mined Lunar_water.txt 1 2999 
+nasas Lunar_water.txt 6 968 1451 1631 1755 1978 2041 
+be Lunar_water.txt 25 332 340 794 810 1147 1221 1258 1302 1387 1393 1578 1906 2171 2177 2231 2492 2519 2545 2963 2982 2992 2998 3014 3050 3229 
+scientific Lunar_water.txt 1 3073 
+power Lunar_water.txt 1 3024 
+slight Lunar_water.txt 1 2644 
+centaur Lunar_water.txt 1 2073 
+although Lunar_water.txt 4 775 1945 2116 2731 
+exploit Lunar_water.txt 1 3123 
+by Lunar_water.txt 34 41 70 189 198 327 397 412 764 787 843 867 922 933 967 1035 1330 1334 1352 1537 1585 1606 1735 1738 1977 2093 2234 2503 2747 2783 2816 3020 3147 3231 3242 
+stage Lunar_water.txt 2 1629 2075 
+on Lunar_water.txt 39 28 54 224 285 302 354 488 501 513 525 545 640 650 853 988 1045 1236 1325 1364 1502 1620 1662 1687 1702 1714 1731 1746 1752 1772 1832 1841 2068 2131 2239 2345 2719 2754 2959 3105 
+about Lunar_water.txt 8 930 942 952 1320 2687 2690 3075 3112 
+asserting Lunar_water.txt 1 3194 
+carried Lunar_water.txt 3 1486 1745 2055 
+origins Lunar_water.txt 1 2420 
+oh Lunar_water.txt 5 124 595 1230 1814 2166 
+of Lunar_water.txt 156 5 31 109 159 174 203 216 221 240 258 314 384 401 417 429 444 479 528 573 575 594 621 636 663 674 702 722 738 742 750 755 778 797 802 817 823 835 859 861 894 898 909 960 985 1022 1026 1030 1040 1051 1098 1102 1106 1166 1210 1226 1259 1262 1275 1299 1316 1323 1349 1362 1378 1389 1432 1441 1470 1499 1518 1529 1554 1568 1581 1595 1601 1630 1680 1699 1727 1762 1794 1799 1811 1868 1878 1892 1895 1914 1924 1939 1953 1995 1998 2007 2019 2027 2059 2066 2076 2109 2140 2151 2192 2213 2216 2228 2252 2255 2268 2280 2293 2296 2327 2359 2366 2468 2506 2535 2559 2566 2574 2577 2594 2640 2647 2712 2716 2722 2725 2739 2750 2761 2789 2850 2866 2886 2913 2925 2935 2954 2957 3038 3044 3067 3079 3085 3100 3103 3136 3144 3160 3172 3179 3224 3244 
+months Lunar_water.txt 1 487 
+discussed Lunar_water.txt 1 671 
+location Lunar_water.txt 1 1184 
+o Lunar_water.txt 4 117 598 605 2525 
+inner Lunar_water.txt 1 3092 
+remains Lunar_water.txt 2 2795 2947 
+magazine Lunar_water.txt 2 493 1737 
+regular Lunar_water.txt 1 399 
+surficial Lunar_water.txt 1 602 
+concentrations Lunar_water.txt 4 156 173 1195 1806 
+or Lunar_water.txt 15 407 720 1427 1881 1985 2476 2486 2550 2571 2617 2828 2975 3026 3181 3208 
+gamma Lunar_water.txt 1 1488 
+own Lunar_water.txt 2 3198 3212 
+prohibitively Lunar_water.txt 1 2983 
+sheets Lunar_water.txt 1 721 
+presence Lunar_water.txt 9 220 428 1225 1698 1994 2018 2108 2565 2953 
+previously Lunar_water.txt 1 1384 
+instruments Lunar_water.txt 3 639 1956 2054 
+image Lunar_water.txt 2 959 1580 
+within Lunar_water.txt 2 1186 2003 
+bound Lunar_water.txt 5 131 222 1232 1461 1816 
+ppm Lunar_water.txt 1 2312 
+rendering Lunar_water.txt 2 448 2968 
+luna Lunar_water.txt 2 192 927 
+hydroxide Lunar_water.txt 1 1596 
+references Lunar_water.txt 1 3252 
+determine Lunar_water.txt 1 1180 
+strip Lunar_water.txt 1 2613 
+effort Lunar_water.txt 1 3213 
+accumulated Lunar_water.txt 1 212 
+range Lunar_water.txt 1 2212 
+risk Lunar_water.txt 1 3214 
+remain Lunar_water.txt 1 2704 
+additional Lunar_water.txt 1 1132 
+area Lunar_water.txt 1 1137 
+assumed Lunar_water.txt 2 792 808 
+there Lunar_water.txt 2 2746 2773 
+oh/h Lunar_water.txt 1 604 
+gases Lunar_water.txt 1 110 
+launcher Lunar_water.txt 1 1635 
+does Lunar_water.txt 3 2013 3131 3140 
+much Lunar_water.txt 2 158 2829 
+low Lunar_water.txt 3 155 1805 2606 
+earth-based Lunar_water.txt 1 1074 
+formed Lunar_water.txt 2 2341 2502 
+analyze Lunar_water.txt 1 2127 
+was Lunar_water.txt 24 184 211 232 349 634 655 759 791 806 841 1054 1177 1282 1695 1722 1729 1765 1836 1975 2082 2121 2124 2158 2161 
+ago Lunar_water.txt 1 2352 
+only Lunar_water.txt 1 2642 
+north Lunar_water.txt 4 368 1123 1199 1855 
+illuminated Lunar_water.txt 2 2737 2854 
+offering Lunar_water.txt 1 734 
+quantity Lunar_water.txt 2 1256 1933 
+attempted Lunar_water.txt 2 1645 2104 
+but Lunar_water.txt 8 710 1063 1218 1759 2011 2174 3139 3235 
+expected Lunar_water.txt 2 2834 2847 
+isro Lunar_water.txt 2 508 1706 
+solar Lunar_water.txt 8 419 2448 2609 2752 2804 2820 3021 3093 
+atom Lunar_water.txt 1 2580 
+coldest Lunar_water.txt 1 2941 
+apollo Lunar_water.txt 4 788 845 878 2333 
+with Lunar_water.txt 18 72 304 461 582 1056 1370 1395 1950 1992 2031 2040 2272 2357 2403 2452 2494 2509 2581 
+considerable Lunar_water.txt 2 434 2367 
+broken-up Lunar_water.txt 1 714 
+observation Lunar_water.txt 2 1981 1988 
+directed Lunar_water.txt 1 2083 
+utc Lunar_water.txt 1 2090 
+made Lunar_water.txt 3 1458 1723 1767 
+places Lunar_water.txt 1 703 
+kaguya Lunar_water.txt 2 1476 1507 
+up Lunar_water.txt 5 321 707 1138 2290 2699 
+barring Lunar_water.txt 1 3155 
+until Lunar_water.txt 1 1768 
+crystal Lunar_water.txt 1 2474 
+below Lunar_water.txt 1 2384 
+converted Lunar_water.txt 1 2520 
+exploration Lunar_water.txt 1 625 
+spectroscopy Lunar_water.txt 1 940 
+continuously Lunar_water.txt 2 408 2823 
+distribution Lunar_water.txt 1 2191 
+spectrometry Lunar_water.txt 2 1490 2129 
+even Lunar_water.txt 1 3063 
+called Lunar_water.txt 1 1618 
+distance Lunar_water.txt 1 2859 
+strongly Lunar_water.txt 1 146 
+bearing Lunar_water.txt 1 543 
+associated Lunar_water.txt 1 1394 
+600 Lunar_water.txt 2 377 1864 
+links Lunar_water.txt 1 3255 
+migrate Lunar_water.txt 1 2765 
+al Lunar_water.txt 1 2309 
+deep Lunar_water.txt 5 1042 1354 1452 1827 2658 
+general Lunar_water.txt 1 571 
+as Lunar_water.txt 19 39 132 141 552 935 1005 1206 1423 1468 1604 1625 2265 2477 2548 2774 3033 3035 3154 3188 
+propagation Lunar_water.txt 1 3008 
+exist Lunar_water.txt 2 127 170 
+at Lunar_water.txt 22 61 96 171 207 237 560 565 657 724 872 941 948 1196 1272 1685 1910 2088 2284 2513 2540 2895 2909 
+simulations Lunar_water.txt 1 1130 
+lifetime Lunar_water.txt 1 2849 
+mini-rf Lunar_water.txt 1 2237 
+regime Lunar_water.txt 1 3234 
+variety Lunar_water.txt 2 215 2058 
+amounts Lunar_water.txt 3 777 1209 2467 
+hydrates Lunar_water.txt 2 133 2178 
+40 Lunar_water.txt 2 361 1848 
+caltech Lunar_water.txt 1 765 
+poleward Lunar_water.txt 1 1105 
+spatial Lunar_water.txt 1 2897 
+test Lunar_water.txt 1 3171 
+2006 Lunar_water.txt 1 1368 
+25-minute Lunar_water.txt 1 247 
+2007 Lunar_water.txt 2 1481 1562 
+polar Lunar_water.txt 9 325 610 756 964 1174 1570 1970 2769 2879 
+draw Lunar_water.txt 1 3053 
+elements Lunar_water.txt 2 1501 2629 
+fine-grained Lunar_water.txt 1 2214 
+protolysis Lunar_water.txt 1 2902 
+time Lunar_water.txt 2 2123 2713 
+june Lunar_water.txt 2 1449 2049 
+generated Lunar_water.txt 1 1329 
+scale Lunar_water.txt 1 2898 
+tonnes Lunar_water.txt 2 380 1867 
+throughout Lunar_water.txt 1 712 
+cpr Lunar_water.txt 2 1873 1897 
+legal Lunar_water.txt 2 3110 3165 
+billion Lunar_water.txt 1 2350 
+condensation Lunar_water.txt 2 2764 2818 
+individual Lunar_water.txt 1 3148 
+requires Lunar_water.txt 2 2195 2563 
+adsorbed Lunar_water.txt 2 165 2526 
+orbit Lunar_water.txt 1 1493 
+rule Lunar_water.txt 1 2015 
+depth Lunar_water.txt 1 725 
+nasa Lunar_water.txt 8 276 299 1243 1740 1769 1776 1955 2135 
+mass Lunar_water.txt 6 199 262 870 934 2235 2533 
+fact Lunar_water.txt 2 164 696 
+2005 Lunar_water.txt 1 1347 
+fresh Lunar_water.txt 1 567 
+2008 Lunar_water.txt 4 227 815 1665 1690 
+2009 Lunar_water.txt 12 275 298 491 653 1450 1624 1705 1734 1775 2051 2071 2134 
+resolution Lunar_water.txt 1 1510 
+external Lunar_water.txt 1 3254 

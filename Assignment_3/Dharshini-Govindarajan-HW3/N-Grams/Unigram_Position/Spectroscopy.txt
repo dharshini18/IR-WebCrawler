@@ -1,0 +1,494 @@
+concept Spectroscopy.txt 1 57 
+magnetic Spectroscopy.txt 1 1291 
+sub-disciplines Spectroscopy.txt 1 701 
+leads Spectroscopy.txt 2 1028 1164 
+microwave Spectroscopy.txt 3 998 1083 1091 
+broader Spectroscopy.txt 1 1196 
+excite Spectroscopy.txt 2 181 561 
+technique Spectroscopy.txt 1 1398 
+to Spectroscopy.txt 35 49 61 108 110 125 135 150 180 198 253 309 341 432 507 651 844 851 867 878 885 934 968 1029 1054 1079 1131 1140 1165 1203 1220 1276 1349 1357 1390 1406 
+analogous Spectroscopy.txt 1 450 
+include Spectroscopy.txt 7 62 188 669 766 793 985 1013 
+very Spectroscopy.txt 1 1322 
+frequencies Spectroscopy.txt 1 169 
+rise Spectroscopy.txt 1 860 
+electron Spectroscopy.txt 3 865 1055 1058 
+ultraviolet Spectroscopy.txt 3 836 983 1119 
+fall Spectroscopy.txt 1 862 
+resonant Spectroscopy.txt 4 373 402 530 562 
+difference Spectroscopy.txt 1 495 
+categories Spectroscopy.txt 2 1426 1428 
+plancks Spectroscopy.txt 1 513 
+notes Spectroscopy.txt 1 1419 
+large Spectroscopy.txt 2 393 1323 
+p Spectroscopy.txt 2 19 25 
+optics Spectroscopy.txt 1 1341 
+millimeter-wave Spectroscopy.txt 1 1085 
+application Spectroscopy.txt 2 157 820 
+direct Spectroscopy.txt 1 156 
+spectrograph Spectroscopy.txt 2 692 1319 
+further Spectroscopy.txt 1 966 
+attributable Spectroscopy.txt 1 877 
+spectral Spectroscopy.txt 13 130 141 194 435 439 575 594 616 636 644 847 1086 1231 
+appear Spectroscopy.txt 1 650 
+selected Spectroscopy.txt 1 191 
+espresso Spectroscopy.txt 1 691 
+new Spectroscopy.txt 1 916 
+led Spectroscopy.txt 2 967 1130 
+concepts Spectroscopy.txt 1 364 
+atoms Spectroscopy.txt 9 295 317 566 813 869 888 1025 1155 1208 
+objects Spectroscopy.txt 1 351 
+represented Spectroscopy.txt 1 80 
+i.e Spectroscopy.txt 1 1195 
+observing Spectroscopy.txt 1 919 
+obtained Spectroscopy.txt 1 1052 
+involved Spectroscopy.txt 1 738 
+k Spectroscopy.txt 2 20 24 
+studied Spectroscopy.txt 3 765 1105 1115 
+allows Spectroscopy.txt 2 899 1295 
+experience Spectroscopy.txt 1 392 
+resonance Spectroscopy.txt 5 369 418 451 581 1060 
+studies Spectroscopy.txt 4 250 799 1126 1261 
+blackbody Spectroscopy.txt 2 266 1199 
+named Spectroscopy.txt 1 665 
+via Spectroscopy.txt 1 468 
+classification Spectroscopy.txt 1 677 
+explained Spectroscopy.txt 2 623 956 
+neutrons Spectroscopy.txt 2 539 1257 
+visible Spectroscopy.txt 4 45 834 981 1117 
+planck Spectroscopy.txt 1 262 
+plot Spectroscopy.txt 3 86 405 421 
+use Spectroscopy.txt 1 173 
+from Spectroscopy.txt 1 863 
+distinct Spectroscopy.txt 6 872 893 1194 1230 1267 1280 
+played Spectroscopy.txt 1 1403 
+two Spectroscopy.txt 4 456 482 498 583 
+generate Spectroscopy.txt 1 199 
+therefore Spectroscopy.txt 4 558 896 1039 1177 
+type Spectroscopy.txt 4 424 722 734 794 
+historically Spectroscopy.txt 1 38 
+more Spectroscopy.txt 1 1393 
+separated Spectroscopy.txt 3 640 1273 1288 
+emission Spectroscopy.txt 7 83 168 830 921 987 993 1006 
+absorptions Spectroscopy.txt 1 839 
+particular Spectroscopy.txt 1 619 
+cases Spectroscopy.txt 1 635 
+high Spectroscopy.txt 3 663 1180 1185 
+rotational Spectroscopy.txt 1 1088 
+word Spectroscopy.txt 1 1347 
+this Spectroscopy.txt 5 224 420 758 1184 1294 
+can Spectroscopy.txt 9 147 306 559 646 716 775 1050 1228 1284 
+paints Spectroscopy.txt 1 187 
+example Spectroscopy.txt 1 14 
+history Spectroscopy.txt 3 1325 1329 1333 
+heart Spectroscopy.txt 1 687 
+weaker Spectroscopy.txt 1 1191 
+links Spectroscopy.txt 1 1424 
+implementations Spectroscopy.txt 4 706 713 975 1312 
+involve Spectroscopy.txt 1 833 
+collision Spectroscopy.txt 1 174 
+sharp Spectroscopy.txt 1 672 
+hydrogen Spectroscopy.txt 4 615 631 946 963 
+lamb Spectroscopy.txt 1 958 
+information Spectroscopy.txt 1 314 
+distinguishable Spectroscopy.txt 1 642 
+feature Spectroscopy.txt 1 222 
+arrangement Spectroscopy.txt 1 1236 
+chemical Spectroscopy.txt 2 189 344 
+pure Spectroscopy.txt 1 1225 
+oscillatory Spectroscopy.txt 1 470 
+continues Spectroscopy.txt 1 1405 
+huge Spectroscopy.txt 1 682 
+max Spectroscopy.txt 1 261 
+after Spectroscopy.txt 1 938 
+applications Spectroscopy.txt 3 744 1310 1313 
+lighting Spectroscopy.txt 1 153 
+designed Spectroscopy.txt 1 801 
+such Spectroscopy.txt 5 352 382 464 474 535 
+data Spectroscopy.txt 1 77 
+response Spectroscopy.txt 2 89 522 
+types Spectroscopy.txt 7 727 761 772 810 1034 1300 1303 
+a Spectroscopy.txt 36 10 53 69 85 93 117 155 204 218 231 237 302 368 404 413 434 442 453 476 503 517 541 572 580 653 681 695 906 941 1179 1212 1290 1317 1372 1392 1408 
+light Spectroscopy.txt 5 5 46 837 1360 1368 
+spectra Spectroscopy.txt 15 285 300 305 338 564 874 894 922 1012 1041 1049 1080 1190 1245 1279 
+lines Spectroscopy.txt 8 440 576 637 645 668 848 925 937 
+so Spectroscopy.txt 2 516 802 
+fundamental Spectroscopy.txt 1 675 
+dispersing Spectroscopy.txt 1 7 
+crystallographic Spectroscopy.txt 1 1260 
+order Spectroscopy.txt 1 197 
+developed Spectroscopy.txt 1 823 
+astronomical Spectroscopy.txt 1 350 
+uves Spectroscopy.txt 1 1315 
+thermal Spectroscopy.txt 1 1205 
+experiments Spectroscopy.txt 1 1342 
+through Spectroscopy.txt 2 41 1371 
+nitrogen Spectroscopy.txt 3 212 215 229 
+kinetic Spectroscopy.txt 1 550 
+excitations Spectroscopy.txt 1 1113 
+its Spectroscopy.txt 4 50 72 371 508 
+regions Spectroscopy.txt 1 1087 
+outer Spectroscopy.txt 1 855 
+ultra-precise Spectroscopy.txt 1 690 
+forms Spectroscopy.txt 1 1163 
+systems Spectroscopy.txt 3 381 386 448 
+isaac Spectroscopy.txt 1 1338 
+hidden Spectroscopy.txt 1 1427 
+main Spectroscopy.txt 1 1327 
+then Spectroscopy.txt 1 1400 
+them Spectroscopy.txt 1 598 
+combination Spectroscopy.txt 2 1023 1153 
+matches Spectroscopy.txt 1 492 
+material Spectroscopy.txt 3 790 796 1213 
+they Spectroscopy.txt 2 397 859 
+edit Spectroscopy.txt 17 101 359 680 726 771 797 814 1021 1151 1263 1301 1314 1326 1418 1420 1422 1425 
+radiant Spectroscopy.txt 1 805 
+classified Spectroscopy.txt 1 718 
+sufficiently Spectroscopy.txt 1 696 
+vibrations Spectroscopy.txt 1 1095 
+each Spectroscopy.txt 2 577 703 
+acoustic Spectroscopy.txt 1 1214 
+characterized Spectroscopy.txt 1 378 
+referred Spectroscopy.txt 4 134 431 843 933 
+telescope Spectroscopy.txt 1 1324 
+series Spectroscopy.txt 5 573 591 617 666 676 
+energy Spectroscopy.txt 16 67 473 488 494 501 533 551 660 725 737 759 764 787 806 1268 1287 
+related Spectroscopy.txt 2 149 506 
+frequency Spectroscopy.txt 11 75 98 374 403 410 419 509 525 531 556 756 
+measurement Spectroscopy.txt 2 112 131 
+quantum Spectroscopy.txt 8 257 446 457 585 612 627 953 972 
+wavelength Spectroscopy.txt 5 51 73 96 120 554 
+transitions Spectroscopy.txt 4 853 984 1044 1232 
+quantify Spectroscopy.txt 1 313 
+robert Spectroscopy.txt 1 910 
+since Spectroscopy.txt 1 1399 
+research Spectroscopy.txt 1 332 
+particles Spectroscopy.txt 1 534 
+dioxide Spectroscopy.txt 3 213 216 230 
+induced Spectroscopy.txt 1 999 
+red Spectroscopy.txt 1 220 
+theory Spectroscopy.txt 1 358 
+interactions Spectroscopy.txt 2 563 792 
+telescopes Spectroscopy.txt 1 333 
+interaction Spectroscopy.txt 5 32 64 741 770 784 
+transition Spectroscopy.txt 1 655 
+high-resolution Spectroscopy.txt 1 1318 
+first Spectroscopy.txt 4 377 621 819 1136 
+synonymous Spectroscopy.txt 1 1094 
+one Spectroscopy.txt 6 360 423 462 578 600 864 
+relations Spectroscopy.txt 1 547 
+another Spectroscopy.txt 1 868 
+drove Spectroscopy.txt 1 606 
+electronic Spectroscopy.txt 3 852 1066 1112 
+dispersive Spectroscopy.txt 1 1385 
+properties Spectroscopy.txt 1 348 
+temperature Spectroscopy.txt 1 355 
+spectrophotometers Spectroscopy.txt 1 138 
+introduction Spectroscopy.txt 1 100 
+revealed Spectroscopy.txt 1 1364 
+system Spectroscopy.txt 2 463 521 
+vibrate Spectroscopy.txt 1 388 
+their Spectroscopy.txt 8 193 354 401 549 553 920 939 1286 
+observations Spectroscopy.txt 1 144 
+passed Spectroscopy.txt 1 1370 
+white Spectroscopy.txt 3 4 1359 1367 
+molecular Spectroscopy.txt 6 207 1048 1061 1063 1128 1244 
+gives Spectroscopy.txt 1 225 
+shell Spectroscopy.txt 2 856 883 
+x-rays Spectroscopy.txt 1 1254 
+relationship Spectroscopy.txt 1 543 
+that Spectroscopy.txt 11 210 241 387 605 699 803 875 1270 1355 1362 1387 
+centered Spectroscopy.txt 1 415 
+explanation Spectroscopy.txt 5 264 271 280 588 943 
+albert Spectroscopy.txt 1 268 
+representing Spectroscopy.txt 1 579 
+oscillate Spectroscopy.txt 1 390 
+relative Spectroscopy.txt 1 1097 
+enabled Spectroscopy.txt 1 1388 
+see Spectroscopy.txt 1 1416 
+matter Spectroscopy.txt 2 34 812 
+states Spectroscopy.txt 15 460 483 499 586 661 887 1037 1047 1057 1067 1171 1173 1183 1269 1283 
+determined Spectroscopy.txt 1 748 
+flame Spectroscopy.txt 1 986 
+amplitude Spectroscopy.txt 2 394 407 
+were Spectroscopy.txt 3 251 376 599 
+distinguished Spectroscopy.txt 3 731 778 1307 
+result Spectroscopy.txt 1 303 
+and Spectroscopy.txt 65 35 103 121 162 186 202 223 259 276 284 291 296 312 318 326 346 356 370 437 515 538 552 555 557 567 592 609 641 649 674 714 788 828 835 840 861 895 903 912 932 955 982 1002 1016 1038 1065 1076 1084 1090 1103 1109 1118 1138 1148 1176 1192 1209 1215 1233 1274 1293 1361 1395 1404 1414 
+raman Spectroscopy.txt 1 1110 
+electrodynamics Spectroscopy.txt 1 973 
+modern Spectroscopy.txt 1 974 
+spectrum Spectroscopy.txt 9 84 208 426 518 746 931 947 964 1348 
+have Spectroscopy.txt 12 166 298 334 412 441 540 871 892 1178 1229 1266 1285 
+any Spectroscopy.txt 1 63 
+contents Spectroscopy.txt 1 99 
+ray Spectroscopy.txt 1 1278 
+analyzers Spectroscopy.txt 1 142 
+studying Spectroscopy.txt 2 980 1010 
+xrf Spectroscopy.txt 1 1019 
+also Spectroscopy.txt 9 322 560 647 776 870 1237 1252 1265 1417 
+which Spectroscopy.txt 1 965 
+play Spectroscopy.txt 1 1407 
+broglie Spectroscopy.txt 1 546 
+though Spectroscopy.txt 1 1227 
+inks Spectroscopy.txt 1 184 
+most Spectroscopy.txt 2 331 438 
+regular Spectroscopy.txt 1 1247 
+significant Spectroscopy.txt 1 1409 
+measured Spectroscopy.txt 1 337 
+model Spectroscopy.txt 1 628 
+glow Spectroscopy.txt 1 995 
+later Spectroscopy.txt 1 55 
+electrons Spectroscopy.txt 5 176 537 857 884 1255 
+mechanical Spectroscopy.txt 5 380 385 447 458 1216 
+velocity Spectroscopy.txt 1 357 
+dispersed Spectroscopy.txt 1 47 
+typically Spectroscopy.txt 1 1077 
+precise Spectroscopy.txt 1 1394 
+phenomenon Spectroscopy.txt 1 240 
+discoverer Spectroscopy.txt 1 940 
+rayleigh Spectroscopy.txt 1 234 
+contributed Spectroscopy.txt 1 1139 
+infrared Spectroscopy.txt 1 1108 
+discovered Spectroscopy.txt 1 915 
+colors Spectroscopy.txt 3 170 201 1354 
+earth Spectroscopy.txt 1 330 
+principal Spectroscopy.txt 1 671 
+spectrographs Spectroscopy.txt 2 139 335 
+molecules Spectroscopy.txt 7 297 319 568 1020 1027 1157 1210 
+identification Spectroscopy.txt 1 902 
+spectrography Spectroscopy.txt 1 104 
+de Spectroscopy.txt 1 545 
+photoelectric Spectroscopy.txt 1 274 
+during Spectroscopy.txt 1 1374 
+aes Spectroscopy.txt 1 832 
+paramagnetic Spectroscopy.txt 1 1059 
+analytical Spectroscopy.txt 1 292 
+where Spectroscopy.txt 1 511 
+bunsen Spectroscopy.txt 1 911 
+motions Spectroscopy.txt 4 1071 1098 1206 1222 
+observed Spectroscopy.txt 3 927 960 1243 
+intensity Spectroscopy.txt 2 115 754 
+arc Spectroscopy.txt 1 1005 
+are Spectroscopy.txt 22 78 105 122 133 339 398 638 730 800 849 876 926 1069 1093 1096 1104 1114 1174 1218 1271 1306 1363 
+techniques Spectroscopy.txt 3 710 715 1008 
+instance Spectroscopy.txt 1 1198 
+detect Spectroscopy.txt 1 310 
+compounds Spectroscopy.txt 1 190 
+ways Spectroscopy.txt 1 721 
+subsequent Spectroscopy.txt 1 1142 
+wikipedia Spectroscopy.txt 1 1 
+enough Spectroscopy.txt 1 664 
+r Spectroscopy.txt 1 22 
+various Spectroscopy.txt 1 712 
+between Spectroscopy.txt 6 33 496 548 582 785 1045 
+nuclear Spectroscopy.txt 1 1281 
+numerous Spectroscopy.txt 2 705 1175 
+spectrometers Spectroscopy.txt 2 137 1386 
+comparable Spectroscopy.txt 1 542 
+terms Spectroscopy.txt 1 106 
+aas Spectroscopy.txt 1 827 
+nature Spectroscopy.txt 2 767 781 
+originated Spectroscopy.txt 1 40 
+enigmas Spectroscopy.txt 1 604 
+spectroscopic Spectroscopy.txt 6 76 128 238 249 709 798 
+article Spectroscopy.txt 1 1328 
+spark Spectroscopy.txt 1 1003 
+both Spectroscopy.txt 1 1107 
+many Spectroscopy.txt 2 700 743 
+vibration Spectroscopy.txt 1 1064 
+according Spectroscopy.txt 1 48 
+s Spectroscopy.txt 6 18 23 263 270 279 1340 
+experimental Spectroscopy.txt 3 127 603 1382 
+color Spectroscopy.txt 3 146 233 245 
+constant Spectroscopy.txt 1 514 
+source Spectroscopy.txt 2 471 491 
+acceptance Spectroscopy.txt 1 610 
+radiative Spectroscopy.txt 4 66 724 736 763 
+due Spectroscopy.txt 4 850 1053 1202 1219 
+interest Spectroscopy.txt 1 91 
+corresponding Spectroscopy.txt 1 372 
+maser Spectroscopy.txt 1 1137 
+gas Spectroscopy.txt 1 179 
+external Spectroscopy.txt 1 1423 
+rutherford-bohr Spectroscopy.txt 1 626 
+spin Spectroscopy.txt 2 1056 1282 
+diffuse Spectroscopy.txt 1 673 
+applied Spectroscopy.txt 1 1345 
+laser Spectroscopy.txt 1 1146 
+these Spectroscopy.txt 7 182 304 590 791 838 1046 1172 
+expanded Spectroscopy.txt 1 59 
+appearance Spectroscopy.txt 1 444 
+as Spectroscopy.txt 17 68 92 116 136 301 353 383 433 465 475 536 845 858 935 1121 1123 1223 
+air Spectroscopy.txt 1 226 
+will Spectroscopy.txt 3 391 411 526 
+shift Spectroscopy.txt 1 959 
+study Spectroscopy.txt 2 29 43 
+coupled Spectroscopy.txt 1 990 
+characteristics Spectroscopy.txt 1 195 
+is Spectroscopy.txt 19 12 27 154 209 236 287 321 367 422 452 484 505 512 662 694 747 1201 1316 1369 
+it Spectroscopy.txt 1 8 
+encountered Spectroscopy.txt 1 206 
+vs Spectroscopy.txt 2 408 523 
+commonly Spectroscopy.txt 1 205 
+in Spectroscopy.txt 17 196 289 324 365 379 445 618 633 719 739 742 752 928 961 1081 1127 1411 
+interacts Spectroscopy.txt 1 807 
+if Spectroscopy.txt 1 656 
+different Spectroscopy.txt 2 584 890 
+began Spectroscopy.txt 1 1336 
+radiation Spectroscopy.txt 4 37 114 267 1200 
+widely Spectroscopy.txt 1 1272 
+several Spectroscopy.txt 1 720 
+composition Spectroscopy.txt 2 345 909 
+development Spectroscopy.txt 5 255 608 970 1133 1143 
+noble Spectroscopy.txt 1 164 
+responses Spectroscopy.txt 1 1217 
+used Spectroscopy.txt 6 107 124 288 308 323 340 
+comprehensive Spectroscopy.txt 1 942 
+effect Spectroscopy.txt 2 275 1240 
+driven Spectroscopy.txt 1 399 
+quantitation Spectroscopy.txt 1 904 
+i Spectroscopy.txt 1 26 
+changes Spectroscopy.txt 1 751 
+16661672 Spectroscopy.txt 1 1343 
+well Spectroscopy.txt 3 639 1122 1224 
+analysis Spectroscopy.txt 1 2 
+bohr Spectroscopy.txt 1 278 
+patterns Spectroscopy.txt 1 595 
+materials Spectroscopy.txt 1 1150 
+quantitative Spectroscopy.txt 1 1396 
+the Spectroscopy.txt 82 28 31 42 56 88 111 178 244 247 254 273 316 336 343 362 417 428 449 478 481 487 490 493 497 500 520 529 544 587 593 602 607 614 625 630 657 670 686 689 711 733 740 745 753 760 769 780 783 786 789 804 818 879 901 929 945 957 962 969 1022 1030 1043 1073 1082 1100 1132 1135 1141 1145 1152 1166 1189 1204 1234 1242 1246 1321 1332 1346 1351 1366 1375 
+chemistry Spectroscopy.txt 2 293 1412 
+sensing Spectroscopy.txt 1 328 
+less Spectroscopy.txt 1 1193 
+newton Spectroscopy.txt 2 1339 1344 
+neon Spectroscopy.txt 3 152 161 171 
+identify Spectroscopy.txt 1 311 
+atomic Spectroscopy.txt 12 159 282 815 824 829 846 897 923 977 992 1074 1101 
+scattering Spectroscopy.txt 2 235 239 
+1800s Spectroscopy.txt 1 1377 
+density Spectroscopy.txt 3 658 1181 1186 
+absorption Spectroscopy.txt 3 221 825 924 
+sky Spectroscopy.txt 1 248 
+reddish-brown Spectroscopy.txt 1 232 
+hues Spectroscopy.txt 1 203 
+combine Spectroscopy.txt 1 1356 
+samples Spectroscopy.txt 1 907 
+grating Spectroscopy.txt 1 684 
+has Spectroscopy.txt 3 217 1238 1402 
+plasma Spectroscopy.txt 2 991 1000 
+excited Spectroscopy.txt 1 886 
+gustav Spectroscopy.txt 1 913 
+advances Spectroscopy.txt 1 1383 
+early Spectroscopy.txt 2 950 1376 
+makes Spectroscopy.txt 1 1188 
+using Spectroscopy.txt 1 1116 
+unique Spectroscopy.txt 3 299 1033 1040 
+success Spectroscopy.txt 1 951 
+collective Spectroscopy.txt 2 1070 1221 
+niels Spectroscopy.txt 1 277 
+specific Spectroscopy.txt 4 200 708 809 1309 
+t Spectroscopy.txt 1 21 
+become Spectroscopy.txt 1 1391 
+stationary Spectroscopy.txt 1 459 
+because Spectroscopy.txt 1 294 
+often Spectroscopy.txt 6 79 123 430 569 842 1187 
+successfully Spectroscopy.txt 1 622 
+some Spectroscopy.txt 1 634 
+strongest Spectroscopy.txt 1 485 
+scatters Spectroscopy.txt 1 1253 
+oscillations Spectroscopy.txt 1 395 
+extended Spectroscopy.txt 2 1149 1162 
+for Spectroscopy.txt 8 192 243 900 979 1009 1197 1259 1296 
+broad Spectroscopy.txt 1 697 
+overlap Spectroscopy.txt 1 648 
+polluted Spectroscopy.txt 1 227 
+lattice Spectroscopy.txt 1 1248 
+allowing Spectroscopy.txt 1 1258 
+refer Spectroscopy.txt 1 109 
+measuring Spectroscopy.txt 1 750 
+be Spectroscopy.txt 6 148 307 652 717 777 1051 
+nmr Spectroscopy.txt 1 1297 
+scientific Spectroscopy.txt 1 1397 
+pendulums Spectroscopy.txt 1 384 
+lamps Spectroscopy.txt 1 172 
+references Spectroscopy.txt 1 1421 
+by Spectroscopy.txt 12 6 52 81 510 624 732 749 779 918 1106 1289 1308 
+von Spectroscopy.txt 1 1379 
+on Spectroscopy.txt 3 329 1241 1320 
+about Spectroscopy.txt 1 315 
+central Spectroscopy.txt 2 252 363 
+of Spectroscopy.txt 78 3 15 30 44 71 87 90 95 113 119 145 158 175 211 246 256 265 272 281 349 361 406 425 455 461 472 480 489 502 519 565 571 574 589 601 611 629 659 667 678 688 707 723 728 735 757 762 768 773 782 795 811 821 854 881 889 905 944 952 971 976 1024 1032 1035 1042 1072 1099 1134 1144 1154 1168 1182 1207 1250 1304 1330 1334 1353 
+greatly Spectroscopy.txt 1 60 
+or Spectroscopy.txt 11 74 97 140 389 532 755 1004 1156 1160 1256 1311 
+gamma Spectroscopy.txt 1 1277 
+electromagnetic Spectroscopy.txt 1 36 
+into Spectroscopy.txt 2 1026 1158 
+within Spectroscopy.txt 1 1211 
+rotations Spectroscopy.txt 2 1062 1068 
+accounts Spectroscopy.txt 1 242 
+determine Spectroscopy.txt 1 342 
+einstein Spectroscopy.txt 1 269 
+methods Spectroscopy.txt 2 129 679 
+additional Spectroscopy.txt 1 1169 
+gases Spectroscopy.txt 1 165 
+joseph Spectroscopy.txt 1 1378 
+inner Spectroscopy.txt 1 882 
+was Spectroscopy.txt 4 58 620 817 948 
+function Spectroscopy.txt 3 70 94 118 
+creation Spectroscopy.txt 2 1031 1167 
+gaseous Spectroscopy.txt 1 214 
+form Spectroscopy.txt 1 1358 
+fraunhofer Spectroscopy.txt 2 936 1380 
+but Spectroscopy.txt 1 643 
+solar Spectroscopy.txt 1 930 
+atom Spectroscopy.txt 2 467 632 
+line Spectroscopy.txt 1 436 
+with Spectroscopy.txt 10 9 65 177 228 427 597 704 808 1337 1384 
+made Spectroscopy.txt 1 1381 
+consist Spectroscopy.txt 1 570 
+characteristic Spectroscopy.txt 2 167 219 
+devices Spectroscopy.txt 1 132 
+lead Spectroscopy.txt 2 1078 1275 
+crystal Spectroscopy.txt 1 1235 
+emissions Spectroscopy.txt 2 183 841 
+spectroscopy Spectroscopy.txt 37 0 16 17 39 102 151 160 286 320 366 693 729 774 816 822 826 831 898 978 988 994 997 1001 1007 1015 1089 1092 1111 1120 1125 1129 1298 1305 1331 1335 1389 1401 
+similar Spectroscopy.txt 1 443 
+x-ray Spectroscopy.txt 4 873 1011 1014 1017 
+mechanics Spectroscopy.txt 3 258 613 954 
+associated Spectroscopy.txt 1 596 
+describe Spectroscopy.txt 2 126 1350 
+an Spectroscopy.txt 6 13 82 466 469 949 1239 
+single Spectroscopy.txt 1 654 
+exist Spectroscopy.txt 1 702 
+at Spectroscopy.txt 4 400 416 528 685 
+crystals Spectroscopy.txt 4 1147 1159 1226 1251 
+physical Spectroscopy.txt 2 290 347 
+rainbow Spectroscopy.txt 1 1352 
+inductively Spectroscopy.txt 1 989 
+when Spectroscopy.txt 3 396 486 1365 
+elemental Spectroscopy.txt 1 908 
+field Spectroscopy.txt 2 698 1292 
+prism Spectroscopy.txt 3 11 54 1373 
+other Spectroscopy.txt 4 163 1161 1299 1302 
+role Spectroscopy.txt 1 1410 
+elements Spectroscopy.txt 2 891 917 
+energetic Spectroscopy.txt 2 1036 1170 
+excitation Spectroscopy.txt 2 409 880 
+photon Spectroscopy.txt 3 477 504 524 
+kirchhoff Spectroscopy.txt 1 914 
+peak Spectroscopy.txt 3 414 429 527 
+included Spectroscopy.txt 1 260 
+discharge Spectroscopy.txt 1 996 
+astronomy Spectroscopy.txt 2 325 1415 
+structure Spectroscopy.txt 2 283 1249 
+remote Spectroscopy.txt 1 327 
+coupling Spectroscopy.txt 2 454 479 
+fluorescence Spectroscopy.txt 2 1018 1124 
+physics Spectroscopy.txt 1 1413 
+diffraction Spectroscopy.txt 1 683 
+orbit Spectroscopy.txt 1 866 
+daily Spectroscopy.txt 1 143 
+resonances Spectroscopy.txt 1 375 
+dyes Spectroscopy.txt 1 185 
+nuclei Spectroscopy.txt 4 1075 1102 1262 1264 

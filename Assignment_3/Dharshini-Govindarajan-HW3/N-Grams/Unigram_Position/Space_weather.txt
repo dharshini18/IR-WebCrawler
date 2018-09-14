@@ -1,0 +1,1407 @@
+limited Space_weather.txt 1 4169 
+todays Space_weather.txt 1 708 
+magnetic Space_weather.txt 32 121 127 165 185 206 464 491 727 2218 2273 2328 2335 2350 2363 2465 2475 2484 2681 2871 2873 2883 2895 2924 2930 2956 2962 2972 3424 3435 3445 3646 4033 
+four Space_weather.txt 1 2954 
+whose Space_weather.txt 1 3953 
+electricity Space_weather.txt 1 2296 
+edward Space_weather.txt 1 175 
+under Space_weather.txt 1 1332 
+shielding Space_weather.txt 1 1358 
+risk Space_weather.txt 4 706 2027 2320 4770 
+aurora Space_weather.txt 5 3 257 261 445 770 
+rise Space_weather.txt 1 1177 
+distort Space_weather.txt 1 1615 
+every Space_weather.txt 1 1560 
+affect Space_weather.txt 2 248 3711 
+disturb Space_weather.txt 1 1776 
+companies Space_weather.txt 3 698 2317 4457 
+eps/hepad Space_weather.txt 1 4049 
+enhance Space_weather.txt 1 1774 
+force Space_weather.txt 1 3149 
+diverting Space_weather.txt 1 1813 
+guidelines Space_weather.txt 1 2011 
+direct Space_weather.txt 2 520 1115 
+surrounding Space_weather.txt 1 37 
+equatorward Space_weather.txt 1 3130 
+estimated Space_weather.txt 1 1818 
+even Space_weather.txt 1 2302 
+above Space_weather.txt 4 1829 1902 2100 3743 
+new Space_weather.txt 1 3456 
+increasing Space_weather.txt 1 1178 
+seeks Space_weather.txt 1 4781 
+lithosphere Space_weather.txt 1 2229 
+kp/ap Space_weather.txt 3 2996 3049 3059 
+sunspot Space_weather.txt 4 240 2539 2707 3227 
+hundreds Space_weather.txt 3 1602 2153 2432 
+reported Space_weather.txt 4 115 885 2838 3138 
+mev Space_weather.txt 1 4064 
+path Space_weather.txt 2 1216 1955 
+obtained Space_weather.txt 2 439 2802 
+study Space_weather.txt 2 1011 3208 
+changed Space_weather.txt 1 3789 
+reports Space_weather.txt 1 4668 
+military Space_weather.txt 2 333 611 
+electric-power Space_weather.txt 1 2286 
+changes Space_weather.txt 8 937 1029 1596 2352 2578 2584 2677 2913 
+explained Space_weather.txt 1 253 
+highly Space_weather.txt 2 1963 3528 
+neutrons Space_weather.txt 1 3308 
+visible Space_weather.txt 4 1411 2524 2720 2728 
+total Space_weather.txt 3 1363 2736 3334 
+would Space_weather.txt 7 1156 1375 4545 4559 4579 4713 4734 
+nine Space_weather.txt 1 2292 
+overhead Space_weather.txt 1 141 
+telegraph Space_weather.txt 1 215 
+distortions Space_weather.txt 1 4029 
+assessment Space_weather.txt 2 650 2375 
+1000 Space_weather.txt 1 3377 
+expose Space_weather.txt 1 414 
+mwd Space_weather.txt 1 2472 
+curvature Space_weather.txt 1 1657 
+real-time Space_weather.txt 4 2131 2474 2889 4829 
+90 Space_weather.txt 1 3367 
+1991 Space_weather.txt 2 9 3896 
+locked Space_weather.txt 1 1495 
+1994 Space_weather.txt 1 3778 
+1997 Space_weather.txt 1 3816 
+1998 Space_weather.txt 2 3780 3783 
+work Space_weather.txt 1 4527 
+iridium Space_weather.txt 4 1189 1206 1696 2170 
+climatology Space_weather.txt 2 2213 2916 
+example Space_weather.txt 4 879 1531 2549 4496 
+indicates Space_weather.txt 3 1012 3051 3113 
+altitudes Space_weather.txt 2 1045 2099 
+provide Space_weather.txt 6 358 1357 2203 2888 3958 4459 
+travel Space_weather.txt 2 420 1420 
+damage Space_weather.txt 4 388 826 907 2253 
+machine Space_weather.txt 1 1271 
+how Space_weather.txt 2 3420 4188 
+charging Space_weather.txt 3 910 964 1015 
+lag Space_weather.txt 1 3096 
+types Space_weather.txt 1 2178 
+attempt Space_weather.txt 1 4173 
+effective Space_weather.txt 1 2031 
+application-related Space_weather.txt 1 2656 
+enter Space_weather.txt 1 1864 
+operate Space_weather.txt 1 400 
+scintillation Space_weather.txt 2 761 1439 
+wind Space_weather.txt 15 33 269 506 536 723 734 3693 3707 3723 3758 3770 3776 3785 3810 3825 
+operations Space_weather.txt 2 216 2901 
+interpretation Space_weather.txt 1 2345 
+over Space_weather.txt 10 129 1149 1158 1599 1809 1931 2683 3039 3344 4191 
+persons Space_weather.txt 1 2057 
+vastly Space_weather.txt 1 4261 
+before Space_weather.txt 1 233 
+10.7 Space_weather.txt 1 2773 
+imf Space_weather.txt 1 729 
+crew Space_weather.txt 1 417 
+better Space_weather.txt 1 629 
+production Space_weather.txt 2 2392 2402 
+hidden Space_weather.txt 1 4838 
+eventually Space_weather.txt 2 138 1072 
+them Space_weather.txt 2 1739 2185 
+affected Space_weather.txt 3 342 608 2332 
+combination Space_weather.txt 1 4420 
+safe Space_weather.txt 2 1366 1946 
+band Space_weather.txt 4 1457 1476 1627 1637 
+effects Space_weather.txt 6 89 840 902 1260 2268 2980 
+they Space_weather.txt 6 399 794 824 2077 3557 4198 
+brightness Space_weather.txt 1 2744 
+l Space_weather.txt 4 3735 3773 3798 3813 
+each Space_weather.txt 1 133 
+side Space_weather.txt 2 2724 3232 
+development Space_weather.txt 4 3466 4272 4336 4427 
+telescope Space_weather.txt 1 3143 
+series Space_weather.txt 6 3486 3612 3973 3978 3981 3985 
+principles Space_weather.txt 1 4393 
+laboratory Space_weather.txt 1 264 
+network Space_weather.txt 2 3144 3190 
+driving Space_weather.txt 1 2244 
+dst Space_weather.txt 2 2917 2982 
+vessels Space_weather.txt 1 1707 
+particles Space_weather.txt 10 486 805 914 983 1855 1863 1872 1888 1912 3281 
+encourage Space_weather.txt 4 4546 4560 4580 4714 
+foundation Space_weather.txt 1 4294 
+surveys Space_weather.txt 1 2329 
+standard Space_weather.txt 1 2823 
+formation Space_weather.txt 2 2590 4571 
+estimate Space_weather.txt 1 2921 
+created Space_weather.txt 4 309 2701 3002 4755 
+iss Space_weather.txt 2 1315 1356 
+cosmic Space_weather.txt 6 1850 2580 3256 3265 3294 3315 
+days Space_weather.txt 4 1153 1571 2688 3101 
+disturbed Space_weather.txt 5 1422 1469 1484 1517 1579 
+ats Space_weather.txt 2 3611 3633 
+1970s Space_weather.txt 1 540 
+suvi Space_weather.txt 1 4084 
+user Space_weather.txt 2 618 631 
+features Space_weather.txt 1 4135 
+primary Space_weather.txt 2 3592 3954 
+relations Space_weather.txt 1 3506 
+another Space_weather.txt 3 314 2591 4405 
+electronic Space_weather.txt 1 925 
+service Space_weather.txt 1 4467 
+top Space_weather.txt 2 1875 3372 
+approximately Space_weather.txt 3 2789 3366 3376 
+0.05 Space_weather.txt 1 4007 
+needed Space_weather.txt 1 4719 
+observations Space_weather.txt 1 3244 
+genesis Space_weather.txt 1 109 
+damaging Space_weather.txt 1 406 
+collapse Space_weather.txt 1 2282 
+tool Space_weather.txt 1 1550 
+distance Space_weather.txt 2 410 1600 
+target Space_weather.txt 1 2422 
+showed Space_weather.txt 1 177 
+project Space_weather.txt 1 3193 
+enables Space_weather.txt 1 2468 
+manned Space_weather.txt 1 1307 
+disseminated Space_weather.txt 1 2817 
+modern Space_weather.txt 1 3620 
+spectrum Space_weather.txt 3 2532 2759 3906 
+manner Space_weather.txt 1 1403 
+emphasizing Space_weather.txt 1 34 
+contents Space_weather.txt 1 82 
+ray Space_weather.txt 2 1851 2581 
+strength Space_weather.txt 2 510 4776 
+1969 Space_weather.txt 1 512 
+causing Space_weather.txt 1 1171 
+payloads Space_weather.txt 1 3641 
+surges Space_weather.txt 1 407 
+mitigate Space_weather.txt 2 2024 2312 
+consumers Space_weather.txt 1 4450 
+medical Space_weather.txt 1 1269 
+disruptions Space_weather.txt 1 4699 
+came Space_weather.txt 3 75 337 560 
+d-layer Space_weather.txt 1 1779 
+subtly Space_weather.txt 1 2600 
+radii Space_weather.txt 2 3688 3742 
+radio Space_weather.txt 20 273 299 301 395 764 1398 1427 1442 1452 1471 1619 1622 1766 2699 2775 2830 3134 3141 3154 3462 
+earth Space_weather.txt 14 39 188 250 1037 1660 2731 3539 3552 3684 3687 3737 3741 3793 4122 
+implementation Space_weather.txt 2 645 675 
+3-hour Space_weather.txt 1 3018 
+do Space_weather.txt 1 1709 
+10 Space_weather.txt 2 1582 2849 
+stop Space_weather.txt 1 2455 
+fluid Space_weather.txt 1 4368 
+12 Space_weather.txt 1 3073 
+onboard Space_weather.txt 1 828 
+on-board Space_weather.txt 1 2134 
+countries Space_weather.txt 1 3414 
+fields Space_weather.txt 3 2216 2224 3425 
+method Space_weather.txt 2 1675 2449 
+earthward Space_weather.txt 1 2942 
+erroneous Space_weather.txt 2 934 997 
+goes-r Space_weather.txt 1 4070 
+observer Space_weather.txt 1 2732 
+testing Space_weather.txt 1 4338 
+zones Space_weather.txt 2 3081 3128 
+depends Space_weather.txt 2 1286 1447 
+electrostatic Space_weather.txt 1 970 
+allegedly Space_weather.txt 1 2560 
+result Space_weather.txt 1 4501 
+corrupt Space_weather.txt 1 1523 
+latchup Space_weather.txt 1 962 
+hydrocarbon Space_weather.txt 1 2391 
+techniques Space_weather.txt 2 3457 4356 
+away Space_weather.txt 1 3536 
+wikipedia Space_weather.txt 1 2 
+artificial Space_weather.txt 1 260 
+360 Space_weather.txt 1 3407 
+discovery Space_weather.txt 2 7 296 
+goes-7 Space_weather.txt 1 3927 
+extend Space_weather.txt 3 1112 1301 4104 
+however Space_weather.txt 3 2127 2533 2617 
+outages Space_weather.txt 1 1565 
+modeling Space_weather.txt 6 4298 4306 4315 4320 4355 4408 
+career-impacting Space_weather.txt 1 1982 
+linkage Space_weather.txt 3 2535 2570 2619 
+maneuvers Space_weather.txt 1 1134 
+climate Space_weather.txt 5 2544 2565 2606 2625 4115 
+demanded Space_weather.txt 1 576 
+protection Space_weather.txt 1 2018 
+receiver Space_weather.txt 1 1488 
+magnetosphere Space_weather.txt 6 44 149 555 798 1848 3713 
+equations Space_weather.txt 1 4160 
+three Space_weather.txt 2 3100 3567 
+been Space_weather.txt 11 104 1232 2021 2107 2137 2546 2628 2814 2898 3240 4279 
+commission Space_weather.txt 1 2015 
+trigger Space_weather.txt 1 800 
+interest Space_weather.txt 1 327 
+aviation Space_weather.txt 6 1543 1555 1804 1839 1845 1950 
+diverted Space_weather.txt 1 1957 
+commerce Space_weather.txt 1 354 
+air Space_weather.txt 2 2325 3148 
+employ Space_weather.txt 1 4202 
+near Space_weather.txt 3 2473 3078 3733 
+balance Space_weather.txt 2 2610 4400 
+k Space_weather.txt 2 3020 3036 
+launched Space_weather.txt 5 1087 3512 3523 3855 4129 
+equator Space_weather.txt 3 1589 2931 2973 
+is Space_weather.txt 56 12 51 599 687 703 718 965 987 1016 1267 1325 1421 1429 1545 1557 1817 1916 1956 2181 2450 2461 2515 2576 2593 2637 2670 2710 2778 2788 2800 2809 2852 2919 2949 2984 2999 3021 3060 3067 3083 3092 3172 3338 3349 3397 3416 3438 3829 3866 3956 4119 4136 4260 4330 4364 4416 
+it Space_weather.txt 4 1556 2453 3681 4780 
+in Space_weather.txt 104 42 71 79 111 145 153 160 168 202 234 262 291 322 328 375 408 447 460 472 493 511 537 563 642 647 651 658 669 677 886 927 940 949 1024 1035 1088 1204 1235 1278 1400 1406 1454 1473 1597 1624 1729 1800 1825 1837 1843 1918 2049 2074 2225 2288 2355 2365 2522 2579 2585 2596 2678 2702 2719 2748 2845 2899 2914 3076 3296 3354 3401 3412 3461 3465 3513 3524 3553 3566 3819 3863 3899 3939 4004 4055 4130 4184 4254 4273 4349 4360 4371 4373 4394 4399 4409 4443 4502 4536 4584 4594 4669 4723 4790 
+interacts Space_weather.txt 1 3163 
+if Space_weather.txt 2 984 1226 
+confirmed Space_weather.txt 1 156 
+potentially Space_weather.txt 1 4735 
+descend Space_weather.txt 1 3283 
+satellite Space_weather.txt 13 356 477 498 1126 1185 2171 3610 3624 3627 3948 3971 4118 4127 
+nio Space_weather.txt 1 2613 
+nia Space_weather.txt 1 2615 
+cycle Space_weather.txt 1 2540 
+maunder Space_weather.txt 1 2551 
+1978 Space_weather.txt 1 3760 
+1974 Space_weather.txt 1 4017 
+1973 Space_weather.txt 1 3701 
+the Space_weather.txt 376 22 27 31 35 38 43 54 58 64 72 80 88 117 130 146 179 182 192 221 231 235 249 254 267 270 295 323 326 363 368 394 427 444 463 474 479 489 496 504 518 523 528 534 538 550 554 556 564 568 590 593 604 607 615 634 682 713 721 725 732 753 797 836 853 882 890 895 917 920 924 930 953 959 966 977 1006 1017 1031 1048 1051 1054 1060 1064 1068 1082 1089 1095 1106 1116 1125 1139 1163 1169 1172 1179 1183 1188 1195 1209 1215 1224 1244 1247 1257 1262 1265 1280 1283 1288 1293 1297 1304 1311 1317 1321 1327 1346 1362 1369 1387 1395 1401 1414 1423 1435 1445 1449 1455 1474 1497 1532 1540 1578 1588 1625 1635 1641 1644 1656 1659 1662 1667 1673 1690 1712 1730 1777 1810 1847 1865 1874 1877 1893 1913 1932 1945 1952 1959 2013 2028 2064 2075 2093 2113 2118 2125 2140 2164 2167 2173 2204 2207 2212 2226 2272 2280 2284 2297 2348 2360 2366 2440 2445 2502 2507 2519 2523 2529 2537 2542 2550 2569 2586 2597 2605 2609 2624 2651 2660 2679 2691 2694 2703 2706 2711 2716 2723 2726 2733 2743 2746 2749 2757 2785 2792 2804 2821 2828 2855 2923 2928 2944 2947 2971 2981 2989 3004 3022 3026 3033 3048 3079 3088 3110 3114 3126 3132 3140 3146 3153 3165 3169 3180 3187 3196 3199 3202 3207 3214 3221 3230 3234 3246 3252 3259 3269 3285 3291 3297 3325 3342 3350 3361 3364 3371 3374 3387 3433 3441 3444 3449 3454 3482 3489 3493 3497 3503 3519 3531 3538 3548 3551 3561 3569 3577 3583 3586 3602 3607 3619 3632 3652 3656 3671 3676 3683 3691 3705 3712 3718 3734 3744 3756 3763 3768 3772 3784 3792 3797 3800 3808 3812 3823 3827 3835 3842 3844 3884 3887 3893 3900 3904 3921 3933 3967 3976 3979 3983 3986 3997 4000 4028 4031 4056 4069 4077 4087 4094 4105 4112 4151 4180 4232 4235 4238 4241 4244 4256 4274 4284 4291 4295 4301 4309 4317 4324 4335 4362 4389 4430 4434 4469 4486 4512 4515 4526 4529 4538 4554 4570 4715 4725 4750 4756 4786 4797 
+just Space_weather.txt 1 2941 
+post-event Space_weather.txt 1 2893 
+human Space_weather.txt 3 574 1245 1251 
+yet Space_weather.txt 1 4229 
+monitored Space_weather.txt 6 848 2671 3398 3755 3807 3840 
+had Space_weather.txt 4 229 1208 1231 3643 
+spacecrafts Space_weather.txt 3 944 978 1055 
+board Space_weather.txt 1 2116 
+has Space_weather.txt 11 1256 2136 2151 2545 2626 2648 2813 3238 3806 3857 4278 
+plasma Space_weather.txt 3 735 3161 3450 
+designate Space_weather.txt 1 4635 
+bands Space_weather.txt 1 4006 
+possible Space_weather.txt 2 2298 4225 
+shortwave Space_weather.txt 1 1636 
+replace Space_weather.txt 1 4076 
+advanced Space_weather.txt 1 3802 
+brought Space_weather.txt 1 1697 
+cooler Space_weather.txt 1 2564 
+50 Space_weather.txt 3 2047 3012 4060 
+specific Space_weather.txt 1 244 
+security Space_weather.txt 1 4779 
+geophysical Space_weather.txt 4 429 2322 2857 3484 
+people Space_weather.txt 1 2294 
+mesosphere Space_weather.txt 1 1866 
+meters Space_weather.txt 1 2434 
+gyroscopic Space_weather.txt 1 2448 
+occupationally Space_weather.txt 1 2055 
+for Space_weather.txt 42 85 707 878 1368 1530 1551 1676 1706 1721 1996 2053 2063 2145 2382 2394 2457 2548 2568 2640 2644 2892 2902 2993 3106 3175 3598 3650 3665 3694 3875 3910 3960 4220 4303 4311 4333 4342 4347 4495 4507 4720 4772 
+flux Space_weather.txt 8 1347 2582 2599 2776 2795 2808 2847 3998 
+electromagnetic Space_weather.txt 1 2531 
+orbited Space_weather.txt 1 3682 
+particular Space_weather.txt 1 1120 
+satellite-based Space_weather.txt 1 3471 
+facility Space_weather.txt 1 4332 
+uncontrolled Space_weather.txt 1 2245 
+down Space_weather.txt 2 1302 4108 
+1990s Space_weather.txt 2 81 565 
+earth-orbit Space_weather.txt 1 3530 
+methods Space_weather.txt 2 1699 4423 
+support Space_weather.txt 1 4590 
+flying Space_weather.txt 2 1828 1901 
+acswa Space_weather.txt 3 4535 4762 4766 
+way Space_weather.txt 1 2236 
+resulted Space_weather.txt 1 3938 
+probes Space_weather.txt 2 3522 3572 
+was Space_weather.txt 15 68 123 137 189 636 664 1672 2269 3675 3726 3731 3775 3788 3854 3908 
+medium Space_weather.txt 1 1415 
+nairas Space_weather.txt 1 2199 
+conclusively Space_weather.txt 1 2630 
+failure Space_weather.txt 1 833 
+heat Space_weather.txt 1 1167 
+solar Space_weather.txt 52 28 32 225 245 268 289 298 312 505 535 714 722 733 803 813 856 1765 1771 1853 2520 2530 2758 2762 2766 2793 2846 3142 3159 3167 3183 3222 3332 3516 3562 3599 3692 3706 3722 3757 3769 3809 3824 3836 3848 3859 3873 3905 3922 3936 4002 4081 4814 
+portions Space_weather.txt 2 2527 2755 
+economic Space_weather.txt 11 2384 2395 4521 4542 4548 4576 4646 4662 4683 4698 4775 
+cosmos Space_weather.txt 2 1192 1218 
+long-distance Space_weather.txt 1 1618 
+sometime Space_weather.txt 1 4066 
+simulations Space_weather.txt 1 4149 
+ship Space_weather.txt 1 1678 
+trip Space_weather.txt 1 2255 
+physical Space_weather.txt 3 739 4163 4396 
+nm Space_weather.txt 2 4010 4015 
+eventual Space_weather.txt 1 2174 
+no Space_weather.txt 3 2044 4226 4616 
+tip Space_weather.txt 1 2608 
+balfour Space_weather.txt 1 151 
+wellhead Space_weather.txt 1 2415 
+non-fluid Space_weather.txt 1 4375 
+models Space_weather.txt 13 2190 4143 4147 4155 4166 4194 4205 4215 4249 4253 4341 4346 4463 
+mid-latitude Space_weather.txt 2 1923 3009 
+coronal Space_weather.txt 5 778 809 2769 3428 4140 
+authorities Space_weather.txt 1 1951 
+discharge Space_weather.txt 1 990 
+bottom Space_weather.txt 1 4242 
+together Space_weather.txt 1 3556 
+time Space_weather.txt 4 23 3403 3872 4192 
+push Space_weather.txt 1 1577 
+concept Space_weather.txt 3 635 1388 4516 
+chain Space_weather.txt 1 2264 
+armas Space_weather.txt 2 2148 2150 
+global Space_weather.txt 5 214 353 369 2188 3188 
+focus Space_weather.txt 1 601 
+skin Space_weather.txt 1 918 
+21st Space_weather.txt 1 4435 
+depend Space_weather.txt 1 339 
+zone Space_weather.txt 7 4523 4544 4578 4648 4664 4685 4712 
+1942 Space_weather.txt 1 292 
+1947 Space_weather.txt 1 2820 
+environment Space_weather.txt 12 1841 2095 2209 3300 3499 3653 4154 4183 4233 4305 4363 4390 
+charge Space_weather.txt 2 971 986 
+permanently Space_weather.txt 1 2009 
+ship-borne Space_weather.txt 1 2327 
+protective Space_weather.txt 1 2256 
+frequencies Space_weather.txt 1 3389 
+1995 Space_weather.txt 1 3864 
+evaded Space_weather.txt 1 1223 
+level Space_weather.txt 5 1947 2674 3290 3311 3944 
+did Space_weather.txt 1 4199 
+standards Space_weather.txt 1 2309 
+penticton Space_weather.txt 1 2834 
+birkeland Space_weather.txt 1 252 
+upper Space_weather.txt 1 2082 
+injun-5 Space_weather.txt 1 513 
+oscillation Space_weather.txt 1 3189 
+measurable Space_weather.txt 1 1897 
+cost Space_weather.txt 1 1820 
+adds Space_weather.txt 1 1166 
+sunspots Space_weather.txt 4 195 2559 2714 2739 
+current Space_weather.txt 1 2938 
+goes Space_weather.txt 5 3625 3926 3972 3987 4073 
+international Space_weather.txt 5 428 1312 2010 2014 4633 
+water Space_weather.txt 1 1405 
+twentieth Space_weather.txt 1 319 
+groups Space_weather.txt 1 3228 
+kilometers Space_weather.txt 1 2411 
+along Space_weather.txt 1 566 
+change Space_weather.txt 2 1148 2926 
+passengers Space_weather.txt 2 415 1824 
+brilliant Space_weather.txt 1 209 
+planetary-wide Space_weather.txt 1 3045 
+suggestion Space_weather.txt 2 2567 2592 
+triad Space_weather.txt 1 541 
+studies Space_weather.txt 1 2910 
+useful Space_weather.txt 1 3909 
+purchases Space_weather.txt 1 4603 
+handled Space_weather.txt 1 4378 
+msv Space_weather.txt 3 2040 2048 2060 
+thermosphere Space_weather.txt 4 46 1069 1170 1173 
+predictions Space_weather.txt 1 3963 
+by Space_weather.txt 47 6 150 157 258 310 343 488 533 672 720 731 808 980 1005 1350 1444 1467 1515 1539 1559 1640 1764 1768 1781 1949 2109 2333 2675 2689 2697 2827 2854 2867 2878 2988 3139 3204 3242 3304 3324 3385 3391 3410 3440 3540 3728 4568 
+kristian Space_weather.txt 1 251 
+acceptable Space_weather.txt 1 1328 
+visual Space_weather.txt 1 3243 
+commissioned Space_weather.txt 1 2318 
+cases Space_weather.txt 2 929 952 
+fly Space_weather.txt 1 1930 
+cism Space_weather.txt 1 4316 
+aircrafts Space_weather.txt 1 1953 
+can Space_weather.txt 35 384 404 795 825 861 994 1108 1144 1348 1360 1432 1462 1512 1526 1566 1576 1591 1614 1652 1726 1985 1991 2003 2221 2233 2330 2454 2477 2490 3178 3225 3301 4228 4696 4799 
+trans Space_weather.txt 1 1790 
+predict Space_weather.txt 2 4187 4231 
+235 Space_weather.txt 1 3740 
+occur Space_weather.txt 4 1157 1753 1987 3273 
+rays Space_weather.txt 4 3257 3266 3295 3316 
+monitoring Space_weather.txt 7 2863 3305 3386 3679 3724 3822 3826 
+quasi-logarithmic Space_weather.txt 1 3023 
+1 Space_weather.txt 2 500 2059 
+vital Space_weather.txt 1 350 
+explorer Space_weather.txt 3 475 515 3804 
+influenced Space_weather.txt 1 719 
+may Space_weather.txt 3 8 1489 2425 
+exosphere Space_weather.txt 2 48 1071 
+applications Space_weather.txt 7 380 2645 3109 3608 3668 3965 4551 
+explored Space_weather.txt 1 3479 
+improving Space_weather.txt 1 4343 
+such Space_weather.txt 11 1133 1309 1372 1418 1694 1814 2341 2664 2764 3426 3604 
+revealed Space_weather.txt 1 274 
+long-range Space_weather.txt 1 767 
+ghz Space_weather.txt 1 1481 
+inform Space_weather.txt 1 2909 
+accelerated Space_weather.txt 1 807 
+cannot Space_weather.txt 1 3838 
+so Space_weather.txt 1 2200 
+serving Space_weather.txt 1 4446 
+course Space_weather.txt 1 131 
+statistical Space_weather.txt 2 2026 4412 
+26,200 Space_weather.txt 1 1905 
+group Space_weather.txt 1 3191 
+monitor Space_weather.txt 2 3255 3767 
+acknowledge Space_weather.txt 1 700 
+presence Space_weather.txt 1 3292 
+vicinity Space_weather.txt 1 236 
+forms Space_weather.txt 1 1984 
+platform Space_weather.txt 1 3680 
+gem Space_weather.txt 1 4288 
+coordinated Space_weather.txt 2 579 4319 
+a.k.a Space_weather.txt 2 514 1067 
+main Space_weather.txt 3 1238 3868 4810 
+decades Space_weather.txt 3 1093 2903 4277 
+100,000 Space_weather.txt 1 1822 
+shatter Space_weather.txt 1 1879 
+drilling Space_weather.txt 5 2406 2456 2471 2482 2497 
+not Space_weather.txt 9 96 1490 1710 2071 2087 2627 2810 2975 4200 
+now Space_weather.txt 1 699 
+1959 Space_weather.txt 1 495 
+1958 Space_weather.txt 1 473 
+term Space_weather.txt 2 65 557 
+january Space_weather.txt 1 494 
+advent Space_weather.txt 1 1691 
+bursts Space_weather.txt 4 300 1767 3136 3155 
+el Space_weather.txt 1 2612 
+square Space_weather.txt 1 3359 
+significantly Space_weather.txt 1 1527 
+revised Space_weather.txt 4 655 661 674 2319 
+plant Space_weather.txt 1 1275 
+astrophysical Space_weather.txt 1 2831 
+entering Space_weather.txt 1 2506 
+year Space_weather.txt 6 430 1160 2042 2052 2062 3544 
+galactic Space_weather.txt 1 3262 
+ev Space_weather.txt 1 4111 
+monitors Space_weather.txt 3 3194 3250 3928 
+canada Space_weather.txt 2 2289 2836 
+space Space_weather.txt 96 0 10 16 36 49 66 91 317 329 344 381 401 435 558 586 596 684 692 701 716 744 791 821 849 866 875 900 1019 1236 1279 1313 1318 1338 1370 1390 1519 1562 1573 1723 1749 1798 1937 2487 2512 2572 2621 2635 2668 2861 2915 3107 3299 3422 3480 3498 3666 3832 3879 3914 3929 3961 4037 4114 4125 4145 4152 4181 4247 4267 4304 4313 4327 4350 4425 4444 4451 4460 4489 4519 4532 4556 4566 4574 4585 4595 4644 4660 4681 4707 4726 4742 4752 4759 4768 4791 4830 
+lagrangian Space_weather.txt 1 3738 
+increase Space_weather.txt 2 1109 1349 
+emerged Space_weather.txt 1 4440 
+sensor Space_weather.txt 4 3648 3993 4043 4096 
+correct Space_weather.txt 1 2481 
+maneuver Space_weather.txt 1 1212 
+after Space_weather.txt 2 3781 4067 
+million Space_weather.txt 2 2293 3748 
+complicated Space_weather.txt 1 2263 
+1227.6 Space_weather.txt 1 1508 
+geoelectric Space_weather.txt 1 2223 
+marine Space_weather.txt 1 1121 
+advance Space_weather.txt 1 4137 
+isee-3 Space_weather.txt 1 3729 
+flare Space_weather.txt 3 226 313 3160 
+british Space_weather.txt 1 172 
+routes Space_weather.txt 2 426 1793 
+altitude Space_weather.txt 5 1110 1305 1907 3369 3379 
+first Space_weather.txt 8 69 501 519 2876 3490 3672 4392 4431 
+one Space_weather.txt 9 679 938 2566 3008 3357 3545 3669 4088 4404 
+directly Space_weather.txt 3 502 863 4201 
+carry Space_weather.txt 1 1711 
+ring Space_weather.txt 1 2935 
+george Space_weather.txt 1 113 
+size Space_weather.txt 1 2423 
+earths Space_weather.txt 13 59 490 529 776 1065 1083 2227 2543 2680 2929 3434 4032 4245 
+given Space_weather.txt 1 3346 
+mostly Space_weather.txt 2 2158 4455 
+that Space_weather.txt 39 116 178 227 243 275 443 544 570 691 1013 1154 1341 1359 1404 1511 1522 1708 1732 1752 1889 2111 2248 2577 2594 3102 3162 3177 3274 3451 3615 3662 3710 4128 4255 4441 4458 4505 4738 4793 
+continuous Space_weather.txt 2 2900 3721 
+released Space_weather.txt 1 668 
+than Space_weather.txt 5 1921 2046 2211 3406 4209 
+ground-induced Space_weather.txt 1 2214 
+wide Space_weather.txt 3 377 471 1533 
+13 Space_weather.txt 1 3040 
+preventing Space_weather.txt 1 1740 
+15 Space_weather.txt 2 456 832 
+require Space_weather.txt 3 1135 1806 4600 
+legacy Space_weather.txt 1 4739 
+were Space_weather.txt 8 93 2875 3487 3606 3616 3659 3663 4195 
+solar-terrestrial Space_weather.txt 2 200 3505 
+and Space_weather.txt 152 18 47 62 74 148 155 171 212 265 334 413 416 466 507 553 581 610 617 627 653 724 749 760 766 771 781 799 834 846 908 922 1002 1043 1059 1070 1080 1176 1191 1220 1292 1316 1431 1507 1590 1607 1715 1745 1775 1780 1784 1852 1868 1882 1895 1924 1981 2058 2086 2162 2258 2267 2326 2379 2390 2396 2400 2436 2486 2509 2525 2541 2573 2607 2623 2643 2696 2735 2753 2760 2768 2787 2806 2816 2837 2870 2940 2960 2986 3030 3037 3055 3077 3082 3150 3185 3198 3216 3261 3287 3399 3518 3547 3564 3582 3628 3642 3689 3714 3753 3794 3849 3856 3878 3882 3907 3913 3946 3964 3982 4011 4046 4053 4091 4093 4124 4172 4271 4308 4337 4344 4353 4382 4449 4466 4474 4558 4588 4598 4610 4613 4627 4630 4641 4650 4657 4676 4694 4700 4709 4717 4729 4777 
+turned Space_weather.txt 1 637 
+auroral Space_weather.txt 8 100 210 449 551 1744 3057 3080 3127 
+stratosphere Space_weather.txt 3 63 1867 2510 
+distorted Space_weather.txt 3 1430 1464 1514 
+allen Space_weather.txt 4 481 755 3521 3571 
+equipment Space_weather.txt 2 1714 2388 
+take Space_weather.txt 2 4167 4206 
+interior Space_weather.txt 1 3200 
+multiple Space_weather.txt 1 4422 
+normal Space_weather.txt 1 1333 
+track Space_weather.txt 1 4651 
+compress Space_weather.txt 1 796 
+falls Space_weather.txt 1 1076 
+pair Space_weather.txt 1 3509 
+magnetohydrodynamics Space_weather.txt 1 4359 
+especially Space_weather.txt 1 423 
+average Space_weather.txt 2 2037 3034 
+later Space_weather.txt 2 2123 4214 
+soho Space_weather.txt 3 3852 3865 4090 
+typically Space_weather.txt 1 1833 
+precise Space_weather.txt 2 1136 1199 
+show Space_weather.txt 1 689 
+friction Space_weather.txt 1 1052 
+far-reaching Space_weather.txt 1 4688 
+discovered Space_weather.txt 2 478 2877 
+spaces Space_weather.txt 1 571 
+magnetometers Space_weather.txt 1 2869 
+data Space_weather.txt 23 167 438 542 625 2114 2119 2165 2183 2344 2476 2485 2665 2858 2864 2887 2907 2952 2991 3874 3917 3959 4170 4462 
+ground Space_weather.txt 14 1381 1645 2004 2126 2168 2242 2673 2805 2885 3253 3289 3310 3843 3943 
+storms Space_weather.txt 10 186 748 802 1789 2340 2342 2874 3054 3581 4815 
+enough Space_weather.txt 1 985 
+only Space_weather.txt 2 1674 2426 
+awareness Space_weather.txt 1 2891 
+ssn Space_weather.txt 1 2709 
+radiations Space_weather.txt 1 1294 
+geo Space_weather.txt 1 3614 
+12-day Space_weather.txt 1 3698 
+held Space_weather.txt 1 3447 
+assimilate Space_weather.txt 1 2184 
+summary Space_weather.txt 1 4784 
+miles Space_weather.txt 1 3752 
+predicted Space_weather.txt 1 266 
+where Space_weather.txt 3 2117 4615 4674 
+burst Space_weather.txt 1 1345 
+connections Space_weather.txt 1 2243 
+detect Space_weather.txt 1 3226 
+federal Space_weather.txt 2 1542 1803 
+forecast Space_weather.txt 1 4832 
+3 Space_weather.txt 2 1480 1628 
+between Space_weather.txt 10 549 623 1053 1187 2536 2571 2611 2620 2958 3585 
+reading Space_weather.txt 1 4824 
+across Space_weather.txt 1 2435 
+schuster Space_weather.txt 1 159 
+infrastructure Space_weather.txt 1 4774 
+jm Space_weather.txt 1 2850 
+article Space_weather.txt 2 1239 4811 
+spark Space_weather.txt 1 991 
+originates Space_weather.txt 1 3452 
+missions Space_weather.txt 1 3593 
+many Space_weather.txt 13 86 868 1085 1927 1979 2410 3380 3413 3629 3654 3947 4222 4497 
+region Space_weather.txt 2 453 1934 
+s Space_weather.txt 1 4732 
+ccmc Space_weather.txt 1 4322 
+among Space_weather.txt 3 3488 3601 4133 
+forecasting Space_weather.txt 1 4730 
+cancer Space_weather.txt 4 1974 1983 1989 2001 
+non-conducting Space_weather.txt 1 974 
+cmes Space_weather.txt 2 2772 3186 
+period Space_weather.txt 3 2555 2967 3019 
+exploit Space_weather.txt 1 2663 
+500 Space_weather.txt 1 4063 
+yohkoh Space_weather.txt 2 3888 3919 
+direction Space_weather.txt 3 2483 3442 3470 
+external Space_weather.txt 1 4826 
+stems Space_weather.txt 1 4524 
+those Space_weather.txt 1 2358 
+pilot Space_weather.txt 2 1999 2006 
+sound Space_weather.txt 1 3210 
+developing Space_weather.txt 1 4550 
+these Space_weather.txt 10 389 1612 1870 1911 2177 3674 4165 4204 4493 4499 
+single Space_weather.txt 3 946 2051 2414 
+compile Space_weather.txt 1 3558 
+1724 Space_weather.txt 1 112 
+then Space_weather.txt 2 2121 4383 
+engaged Space_weather.txt 1 4442 
+ambient Space_weather.txt 1 3166 
+technology Space_weather.txt 2 3609 4492 
+verified Space_weather.txt 1 3241 
+same Space_weather.txt 2 1258 1402 
+events Space_weather.txt 8 246 1521 1575 1725 1751 2616 3328 4808 
+oil Space_weather.txt 1 2399 
+centuries Space_weather.txt 2 87 2905 
+meteorological Space_weather.txt 1 4252 
+driver Space_weather.txt 1 819 
+devoid Space_weather.txt 1 2557 
+severe Space_weather.txt 1 283 
+without Space_weather.txt 1 2295 
+components Space_weather.txt 1 926 
+termination Space_weather.txt 1 1380 
+model Space_weather.txt 3 4227 4269 4287 
+researchers Space_weather.txt 1 4476 
+charged Space_weather.txt 1 1862 
+gdp Space_weather.txt 1 4514 
+when Space_weather.txt 4 1413 1935 3125 3264 
+noaa Space_weather.txt 2 3152 4121 
+aspect Space_weather.txt 1 315 
+guides Space_weather.txt 1 1849 
+heuristic Space_weather.txt 1 4196 
+death Space_weather.txt 1 1972 
+helioseismology Space_weather.txt 1 3206 
+boreholes Space_weather.txt 1 2444 
+aeronomy Space_weather.txt 1 19 
+except Space_weather.txt 1 3119 
+disrupt Space_weather.txt 1 1755 
+real Space_weather.txt 2 705 3402 
+around Space_weather.txt 1 1655 
+geospace Space_weather.txt 1 4285 
+early Space_weather.txt 3 539 3657 4193 
+grid Space_weather.txt 2 2251 2287 
+using Space_weather.txt 1 3205 
+924,000 Space_weather.txt 1 3751 
+particle Space_weather.txt 4 3637 4047 4095 4370 
+maintained Space_weather.txt 1 3409 
+exposed Space_weather.txt 2 1909 2056 
+astronomer Space_weather.txt 1 170 
+images Space_weather.txt 1 3861 
+imager Space_weather.txt 2 3924 4020 
+users Space_weather.txt 2 690 4480 
+1859 Space_weather.txt 1 203 
+dimensions Space_weather.txt 1 3568 
+1852 Space_weather.txt 1 169 
+recorded Space_weather.txt 1 3084 
+critical Space_weather.txt 2 1705 1718 
+propagating Space_weather.txt 1 3212 
+measuring Space_weather.txt 1 3458 
+destroys Space_weather.txt 1 955 
+transformers Space_weather.txt 1 2254 
+scientific Space_weather.txt 3 2641 2646 4473 
+business Space_weather.txt 3 696 4582 4592 
+seconds Space_weather.txt 1 2686 
+kyoto Space_weather.txt 1 2995 
+communicate Space_weather.txt 1 1689 
+1932 Space_weather.txt 1 3063 
+on Space_weather.txt 30 187 340 424 527 573 603 903 972 976 1004 1022 1181 1243 1287 1448 2016 2115 2124 2159 2715 2722 2951 3220 3229 3251 3925 4089 4737 4746 4802 
+conducting Space_weather.txt 1 2228 
+ace Space_weather.txt 1 3805 
+stations Space_weather.txt 2 2968 3408 
+of Space_weather.txt 162 15 57 90 99 119 132 164 181 184 194 237 256 272 277 297 316 352 367 379 418 454 484 522 592 606 681 738 752 762 790 820 838 881 919 942 958 968 1033 1063 1078 1092 1152 1197 1201 1214 1217 1241 1249 1264 1282 1290 1306 1323 1352 1389 1437 1440 1585 1601 1603 1611 1658 1664 1692 1700 1737 1876 2034 2038 2084 2092 2130 2154 2176 2179 2194 2206 2265 2275 2283 2300 2359 2376 2386 2407 2433 2439 2442 2496 2504 2528 2558 2588 2604 2634 2653 2685 2693 2713 2725 2738 2745 2756 2781 2881 2911 2922 2936 2943 3025 3035 3097 3116 3201 3209 3233 3278 3293 3314 3341 3352 3363 3373 3419 3443 3475 3495 3510 3655 3670 3673 3696 3720 3870 3903 3974 4030 4059 4072 4139 4150 4158 4179 4237 4243 4258 4266 4283 4290 4339 4421 4433 4488 4498 4511 4517 4528 4540 4572 4604 4785 4813 
+industry Space_weather.txt 1 4764 
+airline Space_weather.txt 1 1792 
+act Space_weather.txt 1 4731 
+backup Space_weather.txt 1 1719 
+or Space_weather.txt 18 280 387 391 812 936 1123 1161 1276 1426 1679 1684 2008 3750 4177 4185 4401 4413 4418 
+instruments Space_weather.txt 4 2110 3597 3658 3952 
+image Space_weather.txt 2 1425 4083 
+insolation Space_weather.txt 1 2521 
+energization Space_weather.txt 1 751 
+area Space_weather.txt 3 1534 2368 2737 
+strict Space_weather.txt 1 2419 
+low Space_weather.txt 3 981 1036 1608 
+recommends Space_weather.txt 1 2030 
+complete Space_weather.txt 1 2281 
+societal Space_weather.txt 2 4503 4703 
+sophisticated Space_weather.txt 1 4212 
+correlated Space_weather.txt 3 190 2561 2790 
+two-thirds Space_weather.txt 1 3695 
+promote Space_weather.txt 1 4621 
+with Space_weather.txt 25 21 191 223 386 393 397 567 743 1130 2043 2250 2650 2659 2791 3094 3158 3164 3268 3432 3492 3590 3951 4079 4100 4403 
+october Space_weather.txt 3 854 891 3934 
+emissions Space_weather.txt 1 2783 
+define Space_weather.txt 1 630 
+5-year Space_weather.txt 1 2036 
+strongly Space_weather.txt 1 3421 
+gong Space_weather.txt 2 3192 3224 
+ae Space_weather.txt 3 3065 3090 3111 
+describe Space_weather.txt 3 4162 4175 4388 
+deep Space_weather.txt 2 1891 4113 
+an Space_weather.txt 24 448 639 644 649 817 933 969 996 1146 1343 1373 2081 2301 2374 2383 2459 2730 2920 3000 3038 3991 4018 4710 4763 
+ap Space_weather.txt 1 3031 
+as Space_weather.txt 22 332 793 823 1310 1547 1634 1695 1716 2080 2201 2765 3218 3427 3639 4221 4224 4281 4366 4477 4479 4643 4659 
+geosynchronous Space_weather.txt 2 1025 2945 
+at Space_weather.txt 24 106 775 1503 1605 1743 1758 1873 1922 2096 2672 2833 2842 2927 2939 3007 3072 3085 3309 3613 3685 3771 3811 3890 4323 
+lifetime Space_weather.txt 2 1113 1329 
+gradients Space_weather.txt 1 1595 
+drivers Space_weather.txt 2 789 2603 
+igy Space_weather.txt 2 431 441 
+field Space_weather.txt 13 492 525 728 2336 2351 2364 2682 2925 3436 3446 3469 3647 4034 
+nasa Space_weather.txt 4 2141 3801 3846 4325 
+5 Space_weather.txt 1 467 
+polar Space_weather.txt 7 425 1580 1746 1791 1857 1919 1933 
+nowcast Space_weather.txt 1 2193 
+drift Space_weather.txt 1 3535 
+includes Space_weather.txt 2 1342 4472 
+important Space_weather.txt 3 788 818 3830 
+failures Space_weather.txt 2 860 884 
+pool Space_weather.txt 1 1409 
+1575.42 Space_weather.txt 1 1504 
+groupthus Space_weather.txt 1 241 
+having Space_weather.txt 1 1198 
+mass Space_weather.txt 5 779 810 2770 3429 4141 
+atoms Space_weather.txt 1 1881 
+starting Space_weather.txt 1 4065 
+represent Space_weather.txt 1 3044 
+all Space_weather.txt 4 1202 1823 1899 4176 
+groundwork Space_weather.txt 1 4673 
+caused Space_weather.txt 2 208 2279 
+spacecraft Space_weather.txt 37 829 842 859 904 909 921 963 1007 1014 1023 1027 1034 1075 1086 1132 1182 1308 1392 3248 3393 3477 3491 3501 3511 3534 3589 3605 3634 3661 3765 3786 3853 3889 3950 3975 3988 4074 
+disk Space_weather.txt 2 4003 4041 
+causes Space_weather.txt 3 932 1940 2266 
+content Space_weather.txt 1 3336 
+11-year Space_weather.txt 1 2538 
+rf Space_weather.txt 2 2782 2798 
+to Space_weather.txt 105 140 294 338 421 457 468 600 613 620 628 666 688 865 872 999 1041 1047 1097 1102 1111 1114 1127 1168 1174 1211 1253 1303 1459 1479 1493 1496 1570 1583 1629 1688 1797 1819 1856 1910 1943 1967 1976 2023 2166 2182 2202 2307 2311 2357 2421 2431 2462 2480 2492 2518 2562 2662 2687 2729 2742 2761 2904 2908 2933 2970 2978 3011 3043 3099 3145 3151 3182 3282 3288 3330 3370 3467 3618 3702 3761 3766 3779 3790 3817 3821 3831 3897 3957 4008 4013 4036 4062 4086 4103 4109 4161 4174 4186 4218 4240 4387 4552 4565 4632 4782 
+program Space_weather.txt 5 588 598 686 2149 4289 
+health Space_weather.txt 1 1965 
+activities Space_weather.txt 3 4481 4563 4649 
+sub-surface Space_weather.txt 1 2361 
+far Space_weather.txt 2 1681 3231 
+induce Space_weather.txt 1 2222 
+ultraviolet Space_weather.txt 1 2751 
+list Space_weather.txt 1 4812 
+large Space_weather.txt 4 239 288 1593 3320 
+small Space_weather.txt 4 1100 1748 3312 4456 
+lifestyle-degrading Space_weather.txt 1 1980 
+20th Space_weather.txt 2 324 1668 
+tec Space_weather.txt 5 1782 3337 3348 3381 3396 
+past Space_weather.txt 2 1090 4275 
+displays Space_weather.txt 2 98 211 
+pass Space_weather.txt 1 3796 
+further Space_weather.txt 1 4823 
+investment Space_weather.txt 2 4583 4718 
+richard Space_weather.txt 1 217 
+sun Space_weather.txt 14 2695 2727 2747 2786 3203 3215 3235 3260 3326 3455 3736 3828 3894 4239 
+section Space_weather.txt 1 957 
+public Space_weather.txt 2 2066 3089 
+component Space_weather.txt 2 877 4102 
+hours Space_weather.txt 1 2458 
+i.e Space_weather.txt 2 1057 4197 
+observing Space_weather.txt 3 2676 2690 2698 
+loss-of-life Space_weather.txt 1 4701 
+inspired Space_weather.txt 3 1385 3883 3920 
+allows Space_weather.txt 1 2381 
+experience Space_weather.txt 1 1834 
+amount Space_weather.txt 4 1322 2503 2587 4257 
+social Space_weather.txt 1 4675 
+action Space_weather.txt 2 640 662 
+followed Space_weather.txt 2 671 3727 
+transit Space_weather.txt 1 1482 
+analyzing Space_weather.txt 1 3496 
+sensors Space_weather.txt 2 3638 4048 
+forbush Space_weather.txt 1 3941 
+archived Space_weather.txt 2 2853 2987 
+distinct Space_weather.txt 1 52 
+two Space_weather.txt 8 896 3098 3388 3532 3587 4005 4276 4296 
+unrecognizable Space_weather.txt 1 1434 
+more Space_weather.txt 7 578 869 1162 2045 2303 3405 4211 
+emission Space_weather.txt 1 2799 
+varying Space_weather.txt 1 24 
+known Space_weather.txt 1 1633 
+evolves Space_weather.txt 1 4190 
+science Space_weather.txt 1 4293 
+could Space_weather.txt 3 247 1221 4686 
+resources Space_weather.txt 1 4208 
+evolved Space_weather.txt 1 2649 
+pre-exists Space_weather.txt 1 4620 
+history Space_weather.txt 1 83 
+ions Space_weather.txt 1 4052 
+impacts Space_weather.txt 3 4487 4504 4678 
+collision Space_weather.txt 3 1129 1186 1229 
+minimum Space_weather.txt 1 2552 
+terrestrial Space_weather.txt 4 55 361 2499 2574 
+information Space_weather.txt 5 359 1137 1428 3559 3575 
+needs Space_weather.txt 2 605 633 
+goal Space_weather.txt 1 2175 
+rather Space_weather.txt 1 2210 
+occasionally Space_weather.txt 1 3795 
+sabine Space_weather.txt 1 176 
+ft Space_weather.txt 1 2104 
+intended Space_weather.txt 1 2310 
+orbits Space_weather.txt 3 1032 1105 3699 
+waves Space_weather.txt 7 302 785 1399 1419 1649 3211 3463 
+horizontal Space_weather.txt 1 2405 
+a Space_weather.txt 100 13 120 198 204 224 238 287 305 311 349 376 451 577 654 660 673 704 736 874 943 950 956 973 989 1009 1073 1099 1119 1141 1150 1159 1227 1250 1268 1272 1336 1407 1441 1468 1483 1487 1516 1548 1650 1677 1685 1717 1815 1936 1988 1997 2000 2005 2035 2050 2088 2128 2413 2428 2464 2553 2563 2618 2779 2840 2934 2965 2998 3017 3027 3095 3121 3276 3339 3345 3355 3417 3473 3527 3867 3940 4024 4039 4080 4101 4120 4168 4263 4331 4358 4367 4380 4411 4419 4437 4508 4518 4573 4680 4783 
+fundamental Space_weather.txt 1 2860 
+stewart Space_weather.txt 1 152 
+help Space_weather.txt 1 2491 
+developed Space_weather.txt 2 2022 2138 
+mission Space_weather.txt 3 1379 3494 3886 
+distortion Space_weather.txt 1 1438 
+disabled Space_weather.txt 1 1558 
+radar Space_weather.txt 2 284 768 
+through Space_weather.txt 6 916 1416 2139 2169 2241 3213 
+satellite-to-ground Space_weather.txt 1 763 
+radiation Space_weather.txt 23 422 485 756 906 911 931 954 1255 1266 1277 1299 1840 1898 1941 1969 2067 2094 2132 2143 2189 2197 2208 3578 
+its Space_weather.txt 5 509 3104 3554 3697 4134 
+25 Space_weather.txt 1 458 
+20 Space_weather.txt 2 469 2039 
+21 Space_weather.txt 1 2959 
+22 Space_weather.txt 1 3542 
+29 Space_weather.txt 1 4748 
+detected Space_weather.txt 2 1001 3303 
+systems Space_weather.txt 6 336 341 357 575 1382 1693 
+uhf Space_weather.txt 1 1475 
+number Space_weather.txt 5 193 2708 2712 2734 3351 
+framework Space_weather.txt 1 583 
+communities Space_weather.txt 2 612 619 
+association Space_weather.txt 5 4534 4744 4761 4765 4798 
+easily Space_weather.txt 1 2801 
+capability Space_weather.txt 2 1210 4619 
+found Space_weather.txt 1 4801 
+notes Space_weather.txt 1 4819 
+bends Space_weather.txt 2 1397 1410 
+generation Space_weather.txt 1 4071 
+energy Space_weather.txt 10 913 982 1295 1861 1887 2505 3280 3307 4057 4106 
+connect Space_weather.txt 1 614 
+measurement Space_weather.txt 3 2469 2780 2880 
+non-pregnant Space_weather.txt 1 2054 
+operation Space_weather.txt 1 2252 
+beyond Space_weather.txt 2 1465 1661 
+event Space_weather.txt 6 290 947 1340 1374 1564 1939 
+navigational Space_weather.txt 1 3645 
+since Space_weather.txt 9 1643 2156 2452 2796 2819 3704 4016 4022 4044 
+research Space_weather.txt 15 433 580 602 616 2160 2642 3476 3660 3877 3912 4270 4340 4562 4716 4728 
+safety Space_weather.txt 2 2147 2437 
+flowed Space_weather.txt 1 548 
+induced Space_weather.txt 1 773 
+occurs Space_weather.txt 1 992 
+belief Space_weather.txt 1 569 
+base Space_weather.txt 2 1686 3362 
+earliest Space_weather.txt 1 3603 
+beginning Space_weather.txt 1 3862 
+e.g Space_weather.txt 2 830 2191 
+positioning Space_weather.txt 1 370 
+accumulation Space_weather.txt 1 967 
+american Space_weather.txt 4 1553 4530 4740 4757 
+f10.7 Space_weather.txt 2 2777 2851 
+major Space_weather.txt 7 173 1337 1561 1572 1787 3122 4297 
+probability Space_weather.txt 1 180 
+prevent Space_weather.txt 1 4697 
+reflected Space_weather.txt 1 1639 
+feet Space_weather.txt 2 1831 1906 
+done Space_weather.txt 3 2108 2638 4280 
+fluxes Space_weather.txt 2 3313 3321 
+occurrence Space_weather.txt 2 183 2299 
+passes Space_weather.txt 1 915 
+differ Space_weather.txt 1 4250 
+introduction Space_weather.txt 1 271 
+leading Space_weather.txt 1 3546 
+interact Space_weather.txt 1 3267 
+ionospheric Space_weather.txt 4 758 1594 1778 2979 
+station Space_weather.txt 2 1314 1687 
+storm Space_weather.txt 11 207 222 894 1143 1165 2219 2274 2305 2371 2377 3124 
+gps Space_weather.txt 6 372 1500 1524 1616 3392 3395 
+relationship Space_weather.txt 2 3584 4415 
+trapped Space_weather.txt 1 487 
+needle Space_weather.txt 1 118 
+immediate Space_weather.txt 1 1378 
+prediction Space_weather.txt 4 1230 3881 3916 4352 
+part Space_weather.txt 6 351 680 1801 4178 4282 4510 
+observatory Space_weather.txt 7 166 2832 3015 3485 3507 3851 4116 
+determined Space_weather.txt 1 3439 
+risks Space_weather.txt 3 2314 4555 4704 
+single-event Space_weather.txt 1 961 
+toward Space_weather.txt 2 1587 4485 
+treated Space_weather.txt 2 2079 4365 
+orders Space_weather.txt 1 1351 
+paths Space_weather.txt 1 2409 
+geomagnetic Space_weather.txt 18 747 801 893 1142 1164 1788 2339 2370 3005 3014 3041 3046 3053 3070 3074 3117 3123 3580 
+u.s Space_weather.txt 10 2076 3147 4581 4591 4601 4605 4622 4636 4652 4689 
+built Space_weather.txt 5 4606 4623 4637 4653 4690 
+flares Space_weather.txt 5 814 1772 2767 3184 3333 
+build Space_weather.txt 1 4736 
+towards Space_weather.txt 2 1081 1118 
+electric Space_weather.txt 7 142 524 546 2215 2238 2246 2937 
+warnings Space_weather.txt 1 2372 
+measures Space_weather.txt 2 3996 4027 
+most Space_weather.txt 4 897 928 1960 2446 
+nasas Space_weather.txt 1 2192 
+plan Space_weather.txt 5 641 646 657 663 676 
+significant Space_weather.txt 4 1961 1993 4264 4509 
+70 Space_weather.txt 1 883 
+services Space_weather.txt 7 4587 4597 4614 4631 4640 4656 4693 
+measured Space_weather.txt 2 508 2815 
+equatorial Space_weather.txt 1 1925 
+soviet Space_weather.txt 1 497 
+sometimes Space_weather.txt 1 2259 
+cover Space_weather.txt 1 304 
+km Space_weather.txt 6 1604 1904 2102 3368 3378 3749 
+kp Space_weather.txt 1 3029 
+electrons Space_weather.txt 2 3353 4054 
+physics Space_weather.txt 4 17 255 4203 4217 
+sector Space_weather.txt 2 4439 4471 
+particularly Space_weather.txt 1 1795 
+disturbances Space_weather.txt 5 759 3047 3071 3709 4500 
+businesses Space_weather.txt 1 709 
+acceptability Space_weather.txt 1 2085 
+find Space_weather.txt 1 2234 
+impact Space_weather.txt 3 572 1528 1995 
+geomagnetically Space_weather.txt 1 772 
+distributed Space_weather.txt 1 3400 
+flights Space_weather.txt 1 2155 
+8 Space_weather.txt 2 1903 2101 
+circle Space_weather.txt 1 3791 
+accurate Space_weather.txt 2 2369 2447 
+his Space_weather.txt 1 263 
+compiled Space_weather.txt 2 2985 3068 
+re-purposed Space_weather.txt 1 3664 
+b Space_weather.txt 1 4369 
+preparing Space_weather.txt 1 4345 
+compass Space_weather.txt 1 122 
+during Space_weather.txt 15 286 440 852 889 1335 1666 1786 2271 2338 2964 3016 3120 3327 3932 4429 
+common Space_weather.txt 2 77 898 
+activity Space_weather.txt 6 857 2220 2763 3176 3937 4549 
+set Space_weather.txt 2 1948 4171 
+art Space_weather.txt 1 1384 
+sep Space_weather.txt 2 806 1344 
+see Space_weather.txt 1 4816 
+are Space_weather.txt 35 348 373 741 786 815 870 905 1638 1762 1794 1908 2070 2078 2120 2353 2418 2740 2825 2865 2974 3032 3137 3156 3317 3322 3383 3464 4148 4300 4377 4385 4398 4454 4482 4794 
+precursors Space_weather.txt 2 3181 3617 
+shower Space_weather.txt 1 3277 
+orbiting Space_weather.txt 1 3483 
+conditions Space_weather.txt 5 25 41 851 1334 3931 
+available Space_weather.txt 4 1233 3061 3093 4795 
+recently Space_weather.txt 1 3239 
+creating Space_weather.txt 2 259 1884 
+aircraft Space_weather.txt 8 419 1680 1827 1900 1929 2098 2135 2161 
+disturbance Space_weather.txt 3 2884 3006 3058 
+both Space_weather.txt 6 1610 2639 3052 3195 3876 3911 
+c Space_weather.txt 1 4391 
+dscovr Space_weather.txt 1 4117 
+sensitive Space_weather.txt 1 1796 
+long-term Space_weather.txt 2 1977 2912 
+whole Space_weather.txt 2 4001 4040 
+reentry Space_weather.txt 1 1117 
+point Space_weather.txt 4 3739 3774 3799 3814 
+reasons Space_weather.txt 1 2398 
+acted Space_weather.txt 1 1003 
+community Space_weather.txt 3 632 4318 4754 
+observatories Space_weather.txt 6 2872 2896 2957 3042 3075 3133 
+expensive Space_weather.txt 1 2451 
+described Space_weather.txt 1 4417 
+enhancements Space_weather.txt 2 1783 3945 
+create Space_weather.txt 3 621 1727 1896 
+due Space_weather.txt 6 1046 1975 2420 2932 2977 4035 
+threaten Space_weather.txt 1 835 
+flight Space_weather.txt 4 1812 1816 1954 4328 
+1950s Space_weather.txt 1 73 
+fire Space_weather.txt 1 1098 
+gas Space_weather.txt 1 2401 
+lives Space_weather.txt 1 837 
+resulting Space_weather.txt 1 4705 
+reliable Space_weather.txt 1 1807 
+expanded Space_weather.txt 3 331 2658 4547 
+empirical Space_weather.txt 1 4414 
+technical Space_weather.txt 1 4788 
+while Space_weather.txt 5 1859 1958 2315 2470 2655 
+reliably Space_weather.txt 1 4230 
+error Space_weather.txt 1 2498 
+scheduled Space_weather.txt 1 665 
+century Space_weather.txt 4 320 325 1669 4436 
+currents Space_weather.txt 4 143 547 774 2247 
+csem Space_weather.txt 1 4307 
+products Space_weather.txt 8 4465 4589 4599 4612 4629 4642 4658 4695 
+composition Space_weather.txt 1 3803 
+neutron Space_weather.txt 1 3249 
+one-hour Space_weather.txt 1 2966 
+magnetometer Space_weather.txt 2 2886 4025 
+used Space_weather.txt 6 70 374 1546 2479 2976 3649 
+26,000 Space_weather.txt 2 1830 2103 
+flown Space_weather.txt 1 2152 
+uses Space_weather.txt 1 1501 
+purpose Space_weather.txt 2 591 3955 
+recent Space_weather.txt 2 1010 3500 
+lower Space_weather.txt 4 1042 1044 1886 3279 
+luminescence Space_weather.txt 1 455 
+crustal Space_weather.txt 1 2362 
+navigation Space_weather.txt 1 1549 
+analysis Space_weather.txt 2 163 2894 
+b.c Space_weather.txt 1 2835 
+intervals Space_weather.txt 1 3087 
+atomic Space_weather.txt 1 3271 
+world Space_weather.txt 2 2822 2990 
+alternative Space_weather.txt 1 2460 
+also Space_weather.txt 6 787 816 1632 1646 1986 4817 
+signals Space_weather.txt 12 364 396 765 769 1393 1453 1472 1502 1525 1617 1620 1735 
+source Space_weather.txt 2 1263 3869 
+location Space_weather.txt 1 3347 
+input Space_weather.txt 1 4259 
+march Space_weather.txt 1 2276 
+couple Space_weather.txt 3 1091 1151 3431 
+australis Space_weather.txt 1 4 
+aerospace Space_weather.txt 1 2146 
+bit Space_weather.txt 1 939 
+d Space_weather.txt 1 4406 
+signal Space_weather.txt 4 935 998 1450 1651 
+space-weather-related Space_weather.txt 1 2349 
+communications Space_weather.txt 6 346 1671 1701 1742 1757 1761 
+arthur Space_weather.txt 1 158 
+mathematical Space_weather.txt 1 4159 
+often Space_weather.txt 1 2403 
+some Space_weather.txt 4 858 1835 2534 3588 
+understood Space_weather.txt 1 97 
+ejections Space_weather.txt 5 780 811 2771 3430 4142 
+sight Space_weather.txt 1 1665 
+70-year Space_weather.txt 1 2554 
+affects Space_weather.txt 1 694 
+measurements Space_weather.txt 6 2091 2133 2144 2180 2824 3382 
+per Space_weather.txt 3 2041 2061 3543 
+innovation Space_weather.txt 8 4522 4543 4577 4593 4647 4663 4684 4711 
+be Space_weather.txt 16 667 862 1000 1463 1491 1513 1653 2331 2427 2478 3179 3302 3839 4098 4687 4800 
+300 Space_weather.txt 2 1460 1477 
+icrp Space_weather.txt 2 2019 2029 
+intense Space_weather.txt 1 2304 
+range Space_weather.txt 4 308 1567 4058 4107 
+credible Space_weather.txt 1 1228 
+into Space_weather.txt 11 76 434 561 638 923 1892 2186 2237 3284 3515 3526 
+within Space_weather.txt 8 26 712 1326 1355 1365 3448 4379 4666 
+primarily Space_weather.txt 1 4483 
+impressed Space_weather.txt 1 526 
+long Space_weather.txt 2 103 409 
+memory Space_weather.txt 1 941 
+newer Space_weather.txt 1 1713 
+line Space_weather.txt 1 1663 
+observation Space_weather.txt 7 521 2631 2633 2647 2657 3600 4123 
+directed Space_weather.txt 1 4484 
+mid-latitudes Space_weather.txt 1 1759 
+us Space_weather.txt 3 584 594 1541 
+exploration Space_weather.txt 1 2323 
+suitable Space_weather.txt 1 4617 
+continuously Space_weather.txt 4 2818 3174 3319 3754 
+similar Space_weather.txt 2 2354 4085 
+x-ray Space_weather.txt 6 1270 2754 3901 3923 3992 4019 
+units Space_weather.txt 1 2848 
+associated Space_weather.txt 5 742 783 3157 4611 4628 
+sxi Space_weather.txt 2 4021 4078 
+influence Space_weather.txt 1 2601 
+duration Space_weather.txt 1 2380 
+engineering Space_weather.txt 2 2072 4475 
+warning Space_weather.txt 1 4138 
+reservoirs Space_weather.txt 1 2424 
+graham Space_weather.txt 1 114 
+occasional Space_weather.txt 1 2882 
+application Space_weather.txt 2 582 4354 
+infra-red Space_weather.txt 1 2526 
+energetic Space_weather.txt 4 804 1854 1871 3331 
+provided Space_weather.txt 3 2866 3858 4672 
+problems Space_weather.txt 1 2346 
+regulations Space_weather.txt 1 1805 
+drag Space_weather.txt 2 1058 1180 
+reinsurance Space_weather.txt 1 2316 
+land Space_weather.txt 1 1683 
+required Space_weather.txt 1 1377 
+orbit Space_weather.txt 11 1026 1028 1038 1079 1140 1147 1205 2946 3517 3555 3787 
+2002 Space_weather.txt 1 648 
+2003 Space_weather.txt 3 855 887 892 
+2000 Space_weather.txt 1 643 
+2001 Space_weather.txt 1 3898 
+2006 Space_weather.txt 3 652 3514 3703 
+2004 Space_weather.txt 2 4023 4045 
+geophysics Space_weather.txt 1 2389 
+2009 Space_weather.txt 1 1184 
+noon Space_weather.txt 1 2844 
+once Space_weather.txt 1 2839 
+resistance Space_weather.txt 1 1049 
+astronauts Space_weather.txt 1 839 
+existing Space_weather.txt 1 2602 
+broader Space_weather.txt 1 4561 
+contributions Space_weather.txt 1 4665 
+centers Space_weather.txt 2 626 4299 
+concerned Space_weather.txt 1 20 
+radiological Space_weather.txt 1 2017 
+include Space_weather.txt 5 1971 3502 3966 4357 4494 
+sent Space_weather.txt 1 2163 
+ionizing Space_weather.txt 2 1254 2196 
+presently Space_weather.txt 1 3394 
+wave Space_weather.txt 2 1443 1623 
+electron Space_weather.txt 1 3335 
+categories Space_weather.txt 2 4837 4839 
+entire Space_weather.txt 1 1811 
+transmission Space_weather.txt 1 411 
+meteosat Space_weather.txt 1 3984 
+shock Space_weather.txt 1 784 
+smaller Space_weather.txt 1 4262 
+universities Space_weather.txt 1 4569 
+index Space_weather.txt 10 2918 2948 2983 2997 3001 3028 3050 3066 3091 3112 
+power Space_weather.txt 2 1274 2239 
+cell Space_weather.txt 2 4372 4381 
+poles Space_weather.txt 1 465 
+flowing Space_weather.txt 1 144 
+body Space_weather.txt 2 1246 1252 
+led Space_weather.txt 2 293 2306 
+degree Space_weather.txt 2 1281 1436 
+notable Space_weather.txt 1 4807 
+commercial Space_weather.txt 21 335 609 1554 1826 1844 1928 1998 2097 4424 4438 4448 4470 4531 4607 4624 4638 4654 4691 4741 4751 4758 
+leo Space_weather.txt 3 1039 1074 3891 
+objects Space_weather.txt 1 1203 
+others Space_weather.txt 1 1722 
+extreme Space_weather.txt 2 278 2750 
+great Space_weather.txt 1 205 
+33 Space_weather.txt 3 1190 1207 2961 
+30 Space_weather.txt 4 1458 1584 1630 4110 
+35 Space_weather.txt 1 3686 
+leaving Space_weather.txt 1 2291 
+survey Space_weather.txt 3 2367 2387 2466 
+involves Space_weather.txt 1 2404 
+manage Space_weather.txt 2 1103 4553 
+private Space_weather.txt 1 697 
+decrease Space_weather.txt 1 3942 
+anomalies Space_weather.txt 1 3949 
+oval Space_weather.txt 2 450 552 
+cloud Space_weather.txt 1 2589 
+use Space_weather.txt 5 2385 2463 4156 4216 4348 
+from Space_weather.txt 42 53 126 162 365 462 1050 1386 1568 1682 1770 1973 2012 2412 2511 2784 2803 2953 3003 3062 3069 3131 3245 3258 3360 3404 3453 3537 3700 3759 3777 3815 3841 3895 3918 3999 4234 4251 4525 4679 4702 4706 4796 
+remains Space_weather.txt 1 1704 
+carrington Space_weather.txt 1 218 
+next Space_weather.txt 1 3764 
+few Space_weather.txt 2 951 2429 
+historically Space_weather.txt 1 2106 
+reflects Space_weather.txt 1 1647 
+occurred Space_weather.txt 3 282 446 888 
+account Space_weather.txt 2 4219 4506 
+this Space_weather.txt 11 135 993 1838 2025 2262 2797 2811 3236 3437 4541 4721 
+scatter Space_weather.txt 1 1733 
+0.8 Space_weather.txt 1 4014 
+links Space_weather.txt 3 2172 4827 4835 
+providers Space_weather.txt 1 4453 
+0.1 Space_weather.txt 1 4012 
+geoeffectiveness Space_weather.txt 1 3415 
+0.4 Space_weather.txt 1 4009 
+built-up Space_weather.txt 1 988 
+high Space_weather.txt 5 107 530 912 1860 3306 
+nasa-esa Space_weather.txt 1 3504 
+regions Space_weather.txt 3 483 1920 1926 
+elliptical Space_weather.txt 1 3529 
+instead Space_weather.txt 1 1736 
+establishment Space_weather.txt 1 4539 
+ever-present Space_weather.txt 1 1298 
+demonstrating Space_weather.txt 2 197 242 
+requirements Space_weather.txt 1 2417 
+1882 Space_weather.txt 1 154 
+light Space_weather.txt 4 101 1412 1424 2721 
+lines Space_weather.txt 1 412 
+swimming Space_weather.txt 1 1408 
+meter Space_weather.txt 1 3358 
+produced Space_weather.txt 1 3323 
+including Space_weather.txt 4 30 40 746 2373 
+galaxy Space_weather.txt 1 831 
+outer Space_weather.txt 1 1061 
+decay Space_weather.txt 1 1040 
+permanent Space_weather.txt 2 452 545 
+degrees Space_weather.txt 2 459 470 
+communication Space_weather.txt 2 1808 3630 
+latitude Space_weather.txt 6 461 531 1586 1609 2963 3013 
+derivative Space_weather.txt 1 4464 
+euv Space_weather.txt 8 2598 2752 2794 2807 3837 3860 4042 4082 
+2011 Space_weather.txt 1 670 
+2010 Space_weather.txt 2 659 4749 
+2013 Space_weather.txt 1 2157 
+2012 Space_weather.txt 2 678 3525 
+crash Space_weather.txt 1 1225 
+greater Space_weather.txt 1 1917 
+descendants Space_weather.txt 1 4213 
+material Space_weather.txt 1 975 
+disrupted Space_weather.txt 2 213 1763 
+satellites Space_weather.txt 4 347 366 390 3631 
+rotation Space_weather.txt 1 3460 
+day Space_weather.txt 3 134 232 2841 
+february Space_weather.txt 1 4131 
+edit Space_weather.txt 31 84 110 321 589 711 841 844 1030 1237 1383 1394 1621 1846 2217 2324 2393 2501 2632 2667 3472 4144 4428 4745 4809 4818 4820 4822 4825 4828 4833 4836 
+magnitude Space_weather.txt 3 1353 2356 2378 
+l2 Space_weather.txt 1 1510 
+l1 Space_weather.txt 1 1506 
+related Space_weather.txt 3 2741 3329 4564 
+society Space_weather.txt 1 1529 
+frequency Space_weather.txt 3 307 1451 1499 
+static Space_weather.txt 1 279 
+measure Space_weather.txt 4 3340 3418 3468 4051 
+ionosphere Space_weather.txt 16 45 147 532 1396 1446 1470 1485 1518 1581 1642 1731 3343 3365 3375 3715 4246 
+irregularities Space_weather.txt 2 1728 1785 
+out Space_weather.txt 2 1077 1213 
+waas Space_weather.txt 1 1537 
+situational Space_weather.txt 1 2890 
+electronics Space_weather.txt 4 827 843 945 960 
+cause Space_weather.txt 8 405 995 1145 1592 2260 2343 2583 3275 
+integrated Space_weather.txt 1 4312 
+interactions Space_weather.txt 2 3272 4376 
+interplanetary Space_weather.txt 2 726 3678 
+geostationary Space_weather.txt 2 3621 3968 
+clarify Space_weather.txt 1 2493 
+regulatory Space_weather.txt 1 2089 
+van Space_weather.txt 4 480 754 3520 3570 
+interaction Space_weather.txt 1 201 
+latitudes Space_weather.txt 3 108 1747 1858 
+keep Space_weather.txt 2 1361 1494 
+counterpart Space_weather.txt 1 3024 
+length Space_weather.txt 1 1289 
+relays Space_weather.txt 1 2257 
+1889 Space_weather.txt 1 161 
+geomagnetism Space_weather.txt 1 2994 
+strategic Space_weather.txt 1 656 
+noticed Space_weather.txt 1 94 
+unknown Space_weather.txt 1 2494 
+system Space_weather.txt 7 29 371 715 1536 1720 2129 2198 
+ripples Space_weather.txt 1 3219 
+their Space_weather.txt 7 695 782 1104 2235 3644 4210 4803 
+x-rays Space_weather.txt 1 1769 
+ground-based Space_weather.txt 5 437 2666 2868 2879 2955 
+near-real Space_weather.txt 1 3871 
+environmental Space_weather.txt 5 3623 3636 3970 4286 4677 
+reflecting Space_weather.txt 1 1738 
+observed Space_weather.txt 8 5 105 230 503 3173 3217 3690 3892 
+providing Space_weather.txt 1 2906 
+1.5 Space_weather.txt 1 3747 
+1-minute Space_weather.txt 1 3086 
+suns Space_weather.txt 3 2704 2717 3170 
+unlikely Space_weather.txt 1 1964 
+have Space_weather.txt 12 102 873 1094 1222 1376 1992 2020 2105 2897 3478 3594 3989 
+agency Space_weather.txt 1 4667 
+able Space_weather.txt 1 1492 
+mid Space_weather.txt 1 1606 
+which Space_weather.txt 14 303 398 1417 1773 2278 2467 3730 3995 4026 4050 4361 4374 4395 4410 
+photosphere Space_weather.txt 2 2718 3171 
+xrs Space_weather.txt 1 3994 
+accuracy Space_weather.txt 1 2416 
+2016 Space_weather.txt 1 4724 
+hydro-qubec Space_weather.txt 1 2285 
+http://www.acswa.us Space_weather.txt 1 4806 
+harmful Space_weather.txt 3 1259 1284 1885 
+connected Space_weather.txt 2 220 4386 
+stereo Space_weather.txt 5 3247 3508 3533 3885 4092 
+consequences Space_weather.txt 1 1966 
+spaceflight Space_weather.txt 1 1242 
+atmosphere Space_weather.txt 9 60 1066 1878 1894 2705 3168 3270 3286 3565 
+trivial Space_weather.txt 1 2516 
+decade Space_weather.txt 1 4432 
+partners Space_weather.txt 1 4634 
+based Space_weather.txt 1 2950 
+knowledge Space_weather.txt 2 1200 2654 
+operational Space_weather.txt 4 624 2308 3622 3969 
+molecules Space_weather.txt 1 1883 
+local Space_weather.txt 1 2843 
+equilibrium Space_weather.txt 1 4402 
+regularly Space_weather.txt 1 124 
+joint Space_weather.txt 1 3845 
+coordinating Space_weather.txt 1 4334 
+penetrate Space_weather.txt 1 1890 
+areas Space_weather.txt 1 1354 
+processes Space_weather.txt 2 4164 4397 
+belts Space_weather.txt 4 482 757 1300 3579 
+processed Space_weather.txt 1 2122 
+temporarily Space_weather.txt 2 2007 2290 
+national Space_weather.txt 8 585 595 683 2856 4292 4513 4773 4778 
+differentials Space_weather.txt 1 2232 
+humans Space_weather.txt 2 1234 1842 
+intensity Space_weather.txt 1 3115 
+computer Space_weather.txt 1 1008 
+operated Space_weather.txt 1 1538 
+goddard Space_weather.txt 1 4326 
+closer Space_weather.txt 1 2969 
+record Space_weather.txt 2 2112 3573 
+nuclear Space_weather.txt 1 1273 
+state Space_weather.txt 1 2652 
+correctly Space_weather.txt 1 219 
+tens Space_weather.txt 1 2430 
+ability Space_weather.txt 3 1096 2661 3237 
+importance Space_weather.txt 1 1196 
+agencies Space_weather.txt 2 3411 4447 
+interfere Space_weather.txt 3 385 392 2249 
+kev Space_weather.txt 1 4061 
+vhf Space_weather.txt 1 1456 
+limits Space_weather.txt 5 1367 2033 2069 2073 3103 
+career Space_weather.txt 1 1994 
+la Space_weather.txt 1 2614 
+attributed Space_weather.txt 2 139 864 
+april Space_weather.txt 2 3782 4747 
+heliospheric Space_weather.txt 1 3850 
+otherwise Space_weather.txt 1 1155 
+detailed Space_weather.txt 1 3574 
+cm Space_weather.txt 1 2774 
+physics-based Space_weather.txt 1 2187 
+deflected Space_weather.txt 1 125 
+addition Space_weather.txt 1 3820 
+poes Space_weather.txt 1 3977 
+corresponding Space_weather.txt 1 2230 
+route Space_weather.txt 1 1124 
+2015 Space_weather.txt 4 4068 4132 4537 4670 
+semi-static Space_weather.txt 1 4407 
+assessments Space_weather.txt 1 2321 
+general Space_weather.txt 2 174 2065 
+present Space_weather.txt 2 3318 3818 
+blackouts Space_weather.txt 1 2261 
+novel Space_weather.txt 1 199 
+atmospheric Space_weather.txt 3 1880 1968 2195 
+value Space_weather.txt 1 2812 
+promotes Space_weather.txt 1 4767 
+will Space_weather.txt 3 1832 4075 4097 
+layer Space_weather.txt 1 1062 
+almost Space_weather.txt 1 2556 
+thus Space_weather.txt 1 196 
+site Space_weather.txt 2 1122 4805 
+surface Space_weather.txt 10 777 979 1056 1084 2692 3197 3223 3563 3745 4236 
+hardware Space_weather.txt 5 4608 4625 4639 4655 4692 
+claimed Space_weather.txt 1 2547 
+administration Space_weather.txt 1 1544 
+adverse Space_weather.txt 1 899 
+shuttle Space_weather.txt 2 1319 1371 
+induction-hazard Space_weather.txt 1 2313 
+imp-8 Space_weather.txt 3 3677 3716 3725 
+upon Space_weather.txt 1 4491 
+effect Space_weather.txt 4 136 1021 1240 1285 
+forecasts Space_weather.txt 1 2489 
+frequently Space_weather.txt 1 1754 
+expand Space_weather.txt 2 1175 3129 
+center Space_weather.txt 6 2859 2992 4302 4310 4321 4329 
+i Space_weather.txt 1 476 
+well Space_weather.txt 2 2408 4478 
+thought Space_weather.txt 1 871 
+sets Space_weather.txt 1 4157 
+sensing Space_weather.txt 1 3651 
+rocket Space_weather.txt 2 1101 1107 
+less Space_weather.txt 1 4207 
+proximity Space_weather.txt 1 2441 
+dose Space_weather.txt 4 1364 1914 2032 2068 
+sources Space_weather.txt 2 2495 3263 
+voltage Space_weather.txt 1 2231 
+coordination Space_weather.txt 1 622 
+web Space_weather.txt 1 4804 
+rapid Space_weather.txt 1 2334 
+bibliography Space_weather.txt 1 4821 
+density Space_weather.txt 2 1296 1598 
+onward Space_weather.txt 1 3064 
+capabilities Space_weather.txt 1 4789 
+usage Space_weather.txt 2 78 562 
+substorms Space_weather.txt 3 750 3056 3118 
+increased Space_weather.txt 1 432 
+government Space_weather.txt 2 4602 4618 
+success Space_weather.txt 1 4722 
+jamming Space_weather.txt 1 285 
+hr1561 Space_weather.txt 1 4671 
+mhz Space_weather.txt 5 1461 1478 1505 1509 1631 
+goes-12 Space_weather.txt 1 847 
+goes-11 Space_weather.txt 1 845 
+become Space_weather.txt 1 1433 
+troposphere Space_weather.txt 3 61 1869 2508 
+2251 Space_weather.txt 2 1193 1219 
+exceed Space_weather.txt 1 1944 
+because Space_weather.txt 4 1802 2347 2438 3834 
+grids Space_weather.txt 1 2240 
+phenomena Space_weather.txt 6 383 403 710 740 2514 4223 
+faraday Space_weather.txt 1 3459 
+recognition Space_weather.txt 1 1466 
+broad Space_weather.txt 2 306 4787 
+avoid Space_weather.txt 1 1128 
+esa Space_weather.txt 1 3847 
+transmitted Space_weather.txt 2 1654 3390 
+demonstrated Space_weather.txt 6 442 543 1194 2270 2629 3717 
+noise Space_weather.txt 3 281 2700 3135 
+host Space_weather.txt 1 3474 
+about Space_weather.txt 7 360 1138 1821 3541 3560 3576 3746 
+carried Space_weather.txt 4 730 3595 3635 3990 
+column Space_weather.txt 1 3356 
+carries Space_weather.txt 1 3708 
+carrier Space_weather.txt 1 1498 
+dominion Space_weather.txt 1 2829 
+software Space_weather.txt 2 4609 4626 
+luna Space_weather.txt 1 499 
+weather Space_weather.txt 90 1 11 50 56 67 92 318 330 345 355 362 382 402 436 559 587 597 685 693 702 717 745 792 822 850 867 876 901 1020 1339 1391 1520 1563 1574 1724 1750 1799 1938 2205 2488 2500 2513 2575 2622 2636 2669 2862 3108 3423 3481 3626 3667 3833 3880 3915 3930 3962 4038 4126 4146 4153 4182 4189 4248 4268 4314 4351 4426 4445 4452 4461 4490 4520 4533 4557 4567 4575 4586 4596 4645 4661 4682 4708 4727 4743 4753 4760 4769 4792 4831 
+utility Space_weather.txt 2 3105 3719 
+1982 Space_weather.txt 1 3762 
+1989 Space_weather.txt 2 2277 3935 
+mitigation Space_weather.txt 1 4771 
+exposure Space_weather.txt 9 1248 1291 1324 1330 1836 1915 1942 1970 1978 
+2817 Space_weather.txt 1 4733 
+north Space_weather.txt 2 128 1552 
+but Space_weather.txt 5 95 1320 1486 1702 1962 
+automated Space_weather.txt 1 2142 
+hf Space_weather.txt 8 1626 1648 1670 1703 1734 1741 1756 1760 
+he Space_weather.txt 1 228 
+made Space_weather.txt 3 517 2826 3384 
+whether Space_weather.txt 1 1261 
+cells Space_weather.txt 1 4384 
+variations Space_weather.txt 2 2337 2595 
+placed Space_weather.txt 1 3732 
+limit Space_weather.txt 3 1331 2083 2090 
+distribution Space_weather.txt 1 4468 
+minutes Space_weather.txt 1 1569 
+dmsp Space_weather.txt 1 3980 
+upsets Space_weather.txt 1 948 
+periods Space_weather.txt 2 276 2684 
+trailing Space_weather.txt 1 3550 
+compared Space_weather.txt 1 2517 
+variety Space_weather.txt 2 378 737 
+46 Space_weather.txt 1 880 
+40 Space_weather.txt 2 516 3010 
+other Space_weather.txt 7 1131 1698 2397 2443 3549 3591 4834 
+branch Space_weather.txt 1 14 
+predominant Space_weather.txt 1 1018 
+augmentation Space_weather.txt 1 1535 
+near-earth Space_weather.txt 1 3298 
+auxiliary Space_weather.txt 2 3596 3640 
+factors Space_weather.txt 1 1613 
+portion Space_weather.txt 2 3902 4265 
+diagnosis Space_weather.txt 2 1990 2002 
+indirectly Space_weather.txt 1 3254 
+augmented Space_weather.txt 1 4099 

@@ -1,0 +1,954 @@
+droplets Thermal_conduction.txt 1 3265 
+all Thermal_conduction.txt 10 50 1073 1091 1219 1804 1838 1899 2703 3941 3953 
+concept Thermal_conduction.txt 2 3194 3349 
+partial Thermal_conduction.txt 1 1074 
+consider Thermal_conduction.txt 1 2750 
+caused Thermal_conduction.txt 1 892 
+varying Thermal_conduction.txt 1 1948 
+rod Thermal_conduction.txt 1 1199 
+resistance Thermal_conduction.txt 13 680 688 695 701 705 717 2156 2677 2681 2839 2898 2982 3870 
+existing Thermal_conduction.txt 1 681 
+leads Thermal_conduction.txt 1 2304 
+consists Thermal_conduction.txt 1 2135 
+follow Thermal_conduction.txt 1 2118 
+covalent Thermal_conduction.txt 1 814 
+relationships Thermal_conduction.txt 1 516 
+increase Thermal_conduction.txt 1 1606 
+depend Thermal_conduction.txt 1 2778 
+referring Thermal_conduction.txt 2 1347 3608 
+austenite Thermal_conduction.txt 1 3429 
+subjected Thermal_conduction.txt 1 1648 
+one-dimensional Thermal_conduction.txt 1 2583 
+nose Thermal_conduction.txt 1 3447 
+intensive Thermal_conduction.txt 1 2818 
+to Thermal_conduction.txt 83 117 133 152 268 432 463 472 520 537 593 613 625 672 696 739 802 813 910 926 975 982 1021 1080 1100 1121 1230 1239 1246 1292 1348 1404 1500 1589 1649 1772 1874 2075 2084 2225 2305 2325 2359 2367 2373 2471 2714 2740 2749 2763 2773 2889 2903 2989 3067 3076 3116 3241 3322 3332 3376 3401 3406 3430 3437 3443 3468 3488 3491 3497 3505 3609 3627 3643 3717 3726 3733 3753 3757 3873 3901 3920 4017 4069 
+finally Thermal_conduction.txt 1 1679 
+does Thermal_conduction.txt 5 1067 1182 1604 1740 3692 
+helps Thermal_conduction.txt 1 519 
+under Thermal_conduction.txt 1 3801 
+microscopically Thermal_conduction.txt 1 25 
+include Thermal_conduction.txt 1 29 
+passed Thermal_conduction.txt 2 3863 3978 
+case Thermal_conduction.txt 3 1549 2025 2559 
+comparatively Thermal_conduction.txt 1 2157 
+very Thermal_conduction.txt 3 2011 2307 3434 
+desirable Thermal_conduction.txt 1 3423 
+continues Thermal_conduction.txt 1 1479 
+wave Thermal_conduction.txt 2 2281 2319 
+electron Thermal_conduction.txt 2 763 830 
+every Thermal_conduction.txt 1 3188 
+stays Thermal_conduction.txt 1 1686 
+difference Thermal_conduction.txt 3 78 985 2952 
+exact Thermal_conduction.txt 2 1290 1924 
+condition Thermal_conduction.txt 1 1820 
+cool Thermal_conduction.txt 2 2060 2693 
+entire Thermal_conduction.txt 1 1557 
+reciprocal Thermal_conduction.txt 2 2673 2894 
+sensor Thermal_conduction.txt 1 3907 
+solution Thermal_conduction.txt 2 3141 3204 
+fewer Thermal_conduction.txt 1 546 
+resistor Thermal_conduction.txt 2 2144 2165 
+large Thermal_conduction.txt 1 539 
+these Thermal_conduction.txt 4 347 427 1435 3768 
+adjust Thermal_conduction.txt 1 3407 
+conductances Thermal_conduction.txt 1 2912 
+small Thermal_conduction.txt 2 2536 3264 
+shows Thermal_conduction.txt 1 2462 
+equation Thermal_conduction.txt 11 370 1315 1935 2202 2228 2619 2653 2968 3050 3160 3326 
+application Thermal_conduction.txt 2 1965 3553 
+coordinate Thermal_conduction.txt 1 3219 
+thin Thermal_conduction.txt 3 2755 2767 2790 
+exposed Thermal_conduction.txt 1 3752 
+dealing Thermal_conduction.txt 2 2723 2788 
+direct Thermal_conduction.txt 2 109 1223 
+pulse Thermal_conduction.txt 1 2230 
+rate Thermal_conduction.txt 4 61 2350 2639 2975 
+further Thermal_conduction.txt 2 1071 1186 
+air Thermal_conduction.txt 1 2331 
+log-mean Thermal_conduction.txt 1 2995 
+expressions Thermal_conduction.txt 1 1927 
+machines Thermal_conduction.txt 1 1960 
+approached Thermal_conduction.txt 3 170 1698 1823 
+even Thermal_conduction.txt 1 709 
+will Thermal_conduction.txt 2 3895 4011 
+plays Thermal_conduction.txt 2 1253 2160 
+appear Thermal_conduction.txt 1 1358 
+section Thermal_conduction.txt 1 1196 
+while Thermal_conduction.txt 2 2440 2521 
+melt Thermal_conduction.txt 1 3766 
+thickness Thermal_conduction.txt 1 969 
+current Thermal_conduction.txt 6 477 861 901 1224 1271 2927 
+above Thermal_conduction.txt 2 2617 3041 
+conduct Thermal_conduction.txt 2 859 3671 
+new Thermal_conduction.txt 9 1386 1410 1427 1431 1528 1622 1667 1693 1704 
+falling Thermal_conduction.txt 1 1138 
+increasing Thermal_conduction.txt 2 588 635 
+method Thermal_conduction.txt 2 1979 3261 
+contrast Thermal_conduction.txt 1 188 
+movement Thermal_conduction.txt 1 18 
+coefficient Thermal_conduction.txt 5 949 3091 3166 3366 3539 
+layers Thermal_conduction.txt 3 2687 2704 2719 
+interfacial Thermal_conduction.txt 1 686 
+exchange Thermal_conduction.txt 1 1022 
+passage Thermal_conduction.txt 1 3601 
+never Thermal_conduction.txt 2 1506 1879 
+equals Thermal_conduction.txt 1 1448 
+jointly Thermal_conduction.txt 1 41 
+understanding Thermal_conduction.txt 2 714 3196 
+following Thermal_conduction.txt 1 2729 
+objects Thermal_conduction.txt 3 27 499 1957 
+operating Thermal_conduction.txt 1 1574 
+sink Thermal_conduction.txt 4 1389 1403 1708 1856 
+eutectic Thermal_conduction.txt 1 3449 
+represented Thermal_conduction.txt 2 2561 3367 
+i.e Thermal_conduction.txt 2 1954 3119 
+along Thermal_conduction.txt 3 1179 1209 1675 
+non-interacting Thermal_conduction.txt 1 568 
+equations Thermal_conduction.txt 1 2805 
+appears Thermal_conduction.txt 1 1566 
+change Thermal_conduction.txt 10 1069 1184 1362 1405 1422 1438 1463 1733 1773 1795 
+sensory Thermal_conduction.txt 1 3830 
+convert Thermal_conduction.txt 1 3421 
+arrive Thermal_conduction.txt 1 2603 
+k Thermal_conduction.txt 4 950 954 2664 2863 
+allows Thermal_conduction.txt 1 3599 
+vibrating Thermal_conduction.txt 1 410 
+contradiction Thermal_conduction.txt 1 2205 
+scatter Thermal_conduction.txt 1 483 
+spheres Thermal_conduction.txt 1 569 
+amount Thermal_conduction.txt 4 1110 1122 2399 2489 
+resulting Thermal_conduction.txt 2 3963 4004 
+usually Thermal_conduction.txt 4 342 793 2732 3524 
+fourier Thermal_conduction.txt 7 2201 2227 2343 3222 3234 3472 3508 
+changes Thermal_conduction.txt 6 1322 1377 1481 1489 2099 3871 
+involves Thermal_conduction.txt 1 1980 
+via Thermal_conduction.txt 1 108 
+spatially Thermal_conduction.txt 1 205 
+suddenly Thermal_conduction.txt 1 1392 
+belongs Thermal_conduction.txt 1 3626 
+decrease Thermal_conduction.txt 1 1608 
+total Thermal_conduction.txt 2 2600 2710 
+linearly Thermal_conduction.txt 1 1206 
+derivatives Thermal_conduction.txt 2 1075 1092 
+conventional Thermal_conduction.txt 1 355 
+from Thermal_conduction.txt 21 114 126 299 461 563 590 622 703 1012 1585 1653 1784 2737 2842 2940 3158 3485 3510 3530 3540 3888 
+takes Thermal_conduction.txt 4 47 1828 2294 3464 
+would Thermal_conduction.txt 2 1134 2236 
+distinct Thermal_conduction.txt 1 298 
+termed Thermal_conduction.txt 1 1338 
+two Thermal_conduction.txt 11 70 83 664 722 2387 2630 3181 3596 3615 3983 3994 
+by Thermal_conduction.txt 29 12 192 212 228 238 293 302 445 525 754 761 783 893 1278 1974 2280 2286 2562 2592 2680 2720 2901 3087 3152 3227 3269 3534 3844 4035 
+0.1 Thermal_conduction.txt 2 3111 3134 
+sample Thermal_conduction.txt 3 3905 3973 4023 
+approach Thermal_conduction.txt 1 1939 
+opposed Thermal_conduction.txt 1 812 
+h Thermal_conduction.txt 1 3167 
+length Thermal_conduction.txt 3 2851 2868 2948 
+type Thermal_conduction.txt 2 1416 3339 
+until Thermal_conduction.txt 1 1803 
+more Thermal_conduction.txt 4 173 343 1908 2288 
+separated Thermal_conduction.txt 1 204 
+conductor Thermal_conduction.txt 2 882 3700 
+correct Thermal_conduction.txt 1 3526 
+becomes Thermal_conduction.txt 2 3162 4000 
+conducting Thermal_conduction.txt 3 1065 1917 2686 
+glass Thermal_conduction.txt 1 3741 
+interaction Thermal_conduction.txt 1 895 
+rigid Thermal_conduction.txt 1 567 
+particular Thermal_conduction.txt 1 933 
+known Thermal_conduction.txt 7 42 942 2313 2341 3816 3820 4045 
+cases Thermal_conduction.txt 3 1235 1251 2147 
+analogous Thermal_conduction.txt 3 909 2888 2902 
+must Thermal_conduction.txt 2 3653 3670 
+states Thermal_conduction.txt 1 2346 
+1994 Thermal_conduction.txt 1 3579 
+integrating Thermal_conduction.txt 1 2593 
+this Thermal_conduction.txt 41 281 384 534 628 668 699 799 1128 1203 1415 1465 1548 1577 1611 1627 1683 1793 1819 1851 1882 2024 2081 2303 2384 2516 2558 2642 2766 2992 3069 3095 3183 3338 3373 3439 3541 3620 3812 3841 3892 4026 
+originally Thermal_conduction.txt 1 101 
+four Thermal_conduction.txt 1 3852 
+theories Thermal_conduction.txt 1 1968 
+values Thermal_conduction.txt 1 1089 
+can Thermal_conduction.txt 22 560 1227 1275 2003 2031 2382 2534 2667 2794 2812 2883 2937 3011 3149 3155 3205 3369 3420 3545 3824 3916 4032 
+diathermal Thermal_conduction.txt 4 3589 3610 3722 3749 
+those Thermal_conduction.txt 1 2116 
+mediums Thermal_conduction.txt 1 999 
+example Thermal_conduction.txt 12 122 1150 1304 1525 1630 1636 1735 2111 2223 3415 3647 3739 
+numbers Thermal_conduction.txt 1 3460 
+control Thermal_conduction.txt 1 3492 
+transition Thermal_conduction.txt 1 3658 
+links Thermal_conduction.txt 1 4079 
+stated Thermal_conduction.txt 3 2670 2886 3587 
+process Thermal_conduction.txt 7 1628 1852 1890 2072 3282 3389 3405 
+relativistic Thermal_conduction.txt 2 2169 2175 
+purposes Thermal_conduction.txt 1 1841 
+fouriers Thermal_conduction.txt 9 2332 2438 2448 2457 2577 2609 2665 2881 2967 
+high Thermal_conduction.txt 4 1725 2029 2154 2308 
+sphere Thermal_conduction.txt 1 3028 
+dropped Thermal_conduction.txt 1 1757 
+sense Thermal_conduction.txt 1 3780 
+standard Thermal_conduction.txt 2 3532 3802 
+indifferent Thermal_conduction.txt 1 3725 
+conversely Thermal_conduction.txt 1 3706 
+occur Thermal_conduction.txt 1 1374 
+information Thermal_conduction.txt 1 2245 
+end Thermal_conduction.txt 5 1158 1646 1742 1849 1887 
+rather Thermal_conduction.txt 3 1747 1885 2284 
+hydrogen Thermal_conduction.txt 1 4064 
+bonds Thermal_conduction.txt 2 810 817 
+range Thermal_conduction.txt 2 2540 3482 
+machine Thermal_conduction.txt 1 1558 
+far Thermal_conduction.txt 1 2086 
+hot Thermal_conduction.txt 3 1160 1753 2691 
+occasionally Thermal_conduction.txt 1 1986 
+disappear Thermal_conduction.txt 1 1806 
+adjacent Thermal_conduction.txt 1 448 
+significance Thermal_conduction.txt 1 727 
+chapman-enskog Thermal_conduction.txt 1 573 
+instead Thermal_conduction.txt 1 1190 
+exponentially Thermal_conduction.txt 2 1699 1824 
+profile Thermal_conduction.txt 5 3144 3245 3286 3301 3329 
+product Thermal_conduction.txt 2 2473 3436 
+select Thermal_conduction.txt 1 3498 
+coming Thermal_conduction.txt 1 1125 
+may Thermal_conduction.txt 11 202 610 1082 1153 1372 1474 1721 1930 1990 3585 3636 
+warm Thermal_conduction.txt 1 2058 
+after Thermal_conduction.txt 7 627 1052 1165 1359 1439 1609 1702 
+derived Thermal_conduction.txt 3 562 1011 3157 
+containing Thermal_conduction.txt 1 3851 
+lump Thermal_conduction.txt 1 2042 
+diagram Thermal_conduction.txt 1 3453 
+applications Thermal_conduction.txt 3 2576 3252 3831 
+produce Thermal_conduction.txt 1 2826 
+waves Thermal_conduction.txt 2 59 2302 
+such Thermal_conduction.txt 14 604 883 1234 1250 1281 1306 1691 1876 2056 2113 2146 3659 3832 3865 
+law Thermal_conduction.txt 23 2120 2333 2336 2345 2385 2430 2439 2442 2449 2458 2578 2610 2643 2666 2836 2882 2891 2905 3555 3565 3584 3625 3712 
+parallel Thermal_conduction.txt 2 1288 2917 
+a Thermal_conduction.txt 120 22 73 115 118 137 156 213 229 351 372 378 466 474 494 544 594 653 674 677 690 833 879 905 915 932 968 972 976 980 983 990 1009 1016 1147 1151 1166 1307 1366 1382 1385 1409 1426 1508 1521 1527 1650 1666 1671 1692 1703 1713 1752 1761 1775 1843 1877 1920 2041 2046 2105 2137 2143 2179 2229 2271 2306 2355 2407 2410 2434 2495 2513 2526 2538 2563 2623 2696 2706 2725 2743 2827 2853 2870 3002 3015 3020 3032 3037 3063 3105 3139 3209 3211 3243 3260 3273 3279 3313 3347 3385 3411 3422 3433 3531 3547 3588 3592 3656 3720 3744 3748 3754 3758 3779 3809 3815 3859 3925 3928 3965 
+undergo Thermal_conduction.txt 2 3278 3655 
+liquid Thermal_conduction.txt 2 3548 3759 
+spraying Thermal_conduction.txt 1 3362 
+whenever Thermal_conduction.txt 1 3858 
+light Thermal_conduction.txt 1 2253 
+corrode Thermal_conduction.txt 1 3764 
+q Thermal_conduction.txt 2 962 2698 
+si Thermal_conduction.txt 2 2504 2614 
+so Thermal_conduction.txt 7 290 469 1050 1131 1727 2721 3685 
+fundamental Thermal_conduction.txt 1 3348 
+representation Thermal_conduction.txt 1 2800 
+integrated Thermal_conduction.txt 1 2621 
+acts Thermal_conduction.txt 1 3746 
+produces Thermal_conduction.txt 1 3042 
+constituents Thermal_conduction.txt 1 4020 
+over Thermal_conduction.txt 11 164 1560 1621 1656 1718 1801 1836 2537 2597 3864 3979 
+move Thermal_conduction.txt 1 457 
+vary Thermal_conduction.txt 1 1583 
+soon Thermal_conduction.txt 2 1568 1643 
+outer Thermal_conduction.txt 1 2957 
+ended Thermal_conduction.txt 1 1470 
+thermal Thermal_conduction.txt 56 0 3 98 167 193 218 335 361 501 639 678 687 697 700 716 733 797 823 867 939 952 987 1006 1023 1140 1241 1282 1300 1334 1552 1949 2008 2048 2133 2155 2309 2460 2475 2507 2523 2551 2981 3044 3250 3361 3364 3676 3787 3791 3795 3835 3876 3912 4038 4046 4057 
+including Thermal_conduction.txt 3 54 2502 2612 
+nitrogen Thermal_conduction.txt 2 4054 4072 
+differs Thermal_conduction.txt 1 702 
+kinetic Thermal_conduction.txt 5 37 388 423 564 574 
+still Thermal_conduction.txt 2 849 1722 
+its Thermal_conduction.txt 9 732 1019 1026 2052 2582 2718 2776 3426 3644 
+before Thermal_conduction.txt 1 618 
+perfect Thermal_conduction.txt 1 712 
+regions Thermal_conduction.txt 4 1995 2057 2098 2694 
+rapidly Thermal_conduction.txt 3 407 825 3310 
+decay Thermal_conduction.txt 1 163 
+energies Thermal_conduction.txt 2 391 426 
+relativity Thermal_conduction.txt 3 2189 2210 2264 
+varies Thermal_conduction.txt 7 1205 2529 2554 2569 3342 3374 3474 
+decreases Thermal_conduction.txt 1 3236 
+writing Thermal_conduction.txt 1 2656 
+forms Thermal_conduction.txt 2 2389 2644 
+absence Thermal_conduction.txt 1 145 
+complex Thermal_conduction.txt 3 1909 1956 2780 
+microscopic Thermal_conduction.txt 5 13 36 303 373 422 
+systems Thermal_conduction.txt 4 1274 1906 1914 2114 
+hidden Thermal_conduction.txt 1 4082 
+main Thermal_conduction.txt 2 1312 3047 
+defining Thermal_conduction.txt 1 3773 
+high-conductance Thermal_conduction.txt 1 2791 
+then Thermal_conduction.txt 6 1503 1685 1923 2973 3946 3996 
+them Thermal_conduction.txt 2 524 3605 
+good Thermal_conduction.txt 3 794 880 3703 
+greater Thermal_conduction.txt 3 505 2013 3132 
+combination Thermal_conduction.txt 2 214 240 
+material Thermal_conduction.txt 15 231 308 322 359 991 2044 2356 2527 2625 3113 3378 3413 3467 3649 3691 
+collide Thermal_conduction.txt 4 285 452 481 614 
+number Thermal_conduction.txt 11 3073 3084 3107 3130 3223 3230 3235 3473 3509 3523 3543 
+framework Thermal_conduction.txt 1 2262 
+walls Thermal_conduction.txt 3 3611 3619 3635 
+they Thermal_conduction.txt 4 619 1371 3761 3781 
+not Thermal_conduction.txt 15 284 317 471 1068 1130 1183 1437 1732 1741 2518 3641 3654 3683 3693 3763 
+wheatstone Thermal_conduction.txt 5 3849 3890 3943 3967 3998 
+bath Thermal_conduction.txt 1 3732 
+matched Thermal_conduction.txt 1 3857 
+easily Thermal_conduction.txt 1 318 
+term Thermal_conduction.txt 1 1342 
+finite Thermal_conduction.txt 1 1866 
+edit Thermal_conduction.txt 24 366 1030 1311 2171 2267 2334 2452 2591 2655 2801 2930 2998 3046 3054 3253 3256 3381 3558 3790 3794 3908 4075 4077 4080 
+always Thermal_conduction.txt 1 2519 
+drop Thermal_conduction.txt 2 655 3518 
+l Thermal_conduction.txt 1 970 
+establishing Thermal_conduction.txt 1 1610 
+vibrations Thermal_conduction.txt 2 242 785 
+transmitted Thermal_conduction.txt 1 963 
+mode Thermal_conduction.txt 1 1332 
+each Thermal_conduction.txt 2 616 1456 
+quenching Thermal_conduction.txt 8 3263 3380 3383 3417 3480 3494 3500 3513 
+references Thermal_conduction.txt 1 4076 
+entirely Thermal_conduction.txt 2 782 1807 
+difficult Thermal_conduction.txt 1 2772 
+disorganized Thermal_conduction.txt 2 35 467 
+bond Thermal_conduction.txt 1 807 
+homogeneous Thermal_conduction.txt 1 2624 
+significantly Thermal_conduction.txt 1 738 
+generation Thermal_conduction.txt 1 1488 
+colder Thermal_conduction.txt 1 119 
+energy Thermal_conduction.txt 18 11 40 45 64 150 223 404 522 750 798 824 856 1024 1141 1335 2401 2427 2491 
+liquids Thermal_conduction.txt 2 56 264 
+gaussian Thermal_conduction.txt 1 3324 
+used Thermal_conduction.txt 5 2580 2733 3827 3919 4050 
+conductance Thermal_conduction.txt 14 641 2088 2654 2661 2675 2711 2716 2752 2804 2824 2841 2862 2880 2896 
+oil Thermal_conduction.txt 2 1759 1817 
+connect Thermal_conduction.txt 1 3614 
+entering Thermal_conduction.txt 1 1113 
+measure Thermal_conduction.txt 3 691 1017 3921 
+quantum Thermal_conduction.txt 2 2265 2272 
+special Thermal_conduction.txt 1 2188 
+out Thermal_conduction.txt 3 1126 1452 2405 
+network Thermal_conduction.txt 3 510 1308 3866 
+driving Thermal_conduction.txt 2 149 1045 
+space Thermal_conduction.txt 6 1081 1208 1499 1600 1689 2102 
+gradient Thermal_conduction.txt 9 80 1176 1674 1684 1696 2362 2375 2482 3123 
+quantify Thermal_conduction.txt 2 927 2774 
+since Thermal_conduction.txt 1 3454 
+unknown Thermal_conduction.txt 1 4029 
+particles Thermal_conduction.txt 5 16 309 417 913 3277 
+collisions Thermal_conduction.txt 7 14 244 250 257 270 306 547 
+mediated Thermal_conduction.txt 1 237 
+non-uniform Thermal_conduction.txt 1 2567 
+cause Thermal_conduction.txt 1 1626 
+occurs Thermal_conduction.txt 5 349 376 1750 1880 2279 
+chemically Thermal_conduction.txt 1 808 
+creating Thermal_conduction.txt 1 3432 
+working Thermal_conduction.txt 2 3839 3933 
+turning Thermal_conduction.txt 1 1532 
+theory Thermal_conduction.txt 6 565 575 1826 2173 2186 2208 
+barrier Thermal_conduction.txt 2 2744 2765 
+mechanisms Thermal_conduction.txt 1 1958 
+differ Thermal_conduction.txt 1 3456 
+free Thermal_conduction.txt 2 259 762 
+quite Thermal_conduction.txt 1 2797 
+admits Thermal_conduction.txt 1 2213 
+peculiarities Thermal_conduction.txt 1 3638 
+complicated Thermal_conduction.txt 1 1945 
+x Thermal_conduction.txt 3 2587 2849 2866 
+remainder Thermal_conduction.txt 1 2149 
+wall Thermal_conduction.txt 5 2958 3590 3652 3723 3750 
+semi-transparent Thermal_conduction.txt 1 324 
+backwards Thermal_conduction.txt 1 458 
+derivation Thermal_conduction.txt 1 2649 
+g Thermal_conduction.txt 1 2860 
+e.g Thermal_conduction.txt 2 787 2935 
+geometry Thermal_conduction.txt 1 2628 
+could Thermal_conduction.txt 1 751 
+shells Thermal_conduction.txt 2 2929 2934 
+motion Thermal_conduction.txt 4 278 395 2283 2320 
+conducted Thermal_conduction.txt 2 66 125 
+atomically Thermal_conduction.txt 1 711 
+place Thermal_conduction.txt 4 48 1327 1502 2296 
+diffuses Thermal_conduction.txt 1 405 
+circuit Thermal_conduction.txt 3 2134 2168 4010 
+leading Thermal_conduction.txt 1 2019 
+barriers Thermal_conduction.txt 1 2792 
+moving Thermal_conduction.txt 2 230 408 
+ionic Thermal_conduction.txt 1 816 
+origin Thermal_conduction.txt 1 2235 
+copper Thermal_conduction.txt 4 788 885 1632 1754 
+initial Thermal_conduction.txt 1 3289 
+forwards Thermal_conduction.txt 1 460 
+conform Thermal_conduction.txt 1 3642 
+hotplate Thermal_conduction.txt 1 128 
+viscosity Thermal_conduction.txt 1 2785 
+primary Thermal_conduction.txt 1 726 
+reaches Thermal_conduction.txt 2 1507 1572 
+one Thermal_conduction.txt 11 287 345 623 1157 1645 1976 2738 3544 3559 3697 3980 
+aggregate Thermal_conduction.txt 1 2053 
+simplified Thermal_conduction.txt 1 1993 
+long Thermal_conduction.txt 1 1728 
+another Thermal_conduction.txt 6 288 626 1341 2741 3705 3707 
+reached Thermal_conduction.txt 2 1173 1811 
+fluxes Thermal_conduction.txt 1 2425 
+causing Thermal_conduction.txt 2 1397 1537 
+given Thermal_conduction.txt 5 352 1195 2679 2900 3721 
+perturbation Thermal_conduction.txt 1 1411 
+temperature Thermal_conduction.txt 49 77 79 161 171 584 654 984 1001 1043 1061 1077 1094 1133 1192 1204 1252 1351 1364 1376 1413 1512 1575 1605 1652 1673 1763 1766 1797 1814 2065 2094 2365 2481 2531 2634 2951 3122 3143 3215 3244 3290 3316 3328 3395 3481 3517 3666 3807 3949 
+automobile Thermal_conduction.txt 3 1546 1594 1603 
+interact Thermal_conduction.txt 1 414 
+behaves Thermal_conduction.txt 3 3081 3114 3137 
+non-steady-state Thermal_conduction.txt 1 1356 
+system Thermal_conduction.txt 10 1421 1445 1460 1505 1518 2080 2152 3080 3103 3136 
+their Thermal_conduction.txt 8 276 421 2068 2085 2096 3458 3869 4037 
+cooling Thermal_conduction.txt 11 2122 2125 2432 3118 3255 3258 3281 3309 3341 3345 3404 
+rates Thermal_conduction.txt 1 2423 
+too Thermal_conduction.txt 2 1491 3695 
+statement Thermal_conduction.txt 2 3560 3621 
+molecular Thermal_conduction.txt 1 1004 
+gives Thermal_conduction.txt 1 2635 
+shell Thermal_conduction.txt 3 3004 3022 3039 
+biot Thermal_conduction.txt 8 3072 3083 3106 3129 3229 3459 3522 3542 
+that Thermal_conduction.txt 30 28 386 597 605 805 821 993 1039 1051 1434 1739 1911 2015 2117 2181 2199 2347 2374 2463 2492 2759 2991 3350 3581 3598 3612 3639 3686 3714 4070 
+zeroth Thermal_conduction.txt 5 3554 3564 3583 3624 3711 
+technique Thermal_conduction.txt 1 4027 
+time-dependence Thermal_conduction.txt 1 1349 
+than Thermal_conduction.txt 7 344 1910 2014 2249 2285 3110 3133 
+diffusion Thermal_conduction.txt 8 103 255 272 304 764 911 2292 3325 
+relative Thermal_conduction.txt 3 431 3214 3516 
+transferred Thermal_conduction.txt 3 97 444 1260 
+modelled Thermal_conduction.txt 1 1277 
+matter Thermal_conduction.txt 2 53 3694 
+r Thermal_conduction.txt 2 2678 2899 
+contrary Thermal_conduction.txt 1 154 
+were Thermal_conduction.txt 1 1129 
+toward Thermal_conduction.txt 1 1425 
+treated Thermal_conduction.txt 2 2034 2511 
+result Thermal_conduction.txt 2 675 1383 
+and Thermal_conduction.txt 78 17 32 38 58 85 166 182 217 243 249 253 256 263 271 289 305 310 338 389 412 424 459 482 528 570 637 865 868 899 1003 1159 1202 1258 1286 1453 1516 1561 1682 1787 1840 1928 2103 2366 2412 2477 2692 2697 2784 2840 2852 2869 2911 2915 2925 2949 2956 2971 2984 3008 3097 3171 3190 3220 3295 3297 3298 3317 3335 3496 3519 3632 3680 3806 3881 3956 3985 4002 4065 
+bridge Thermal_conduction.txt 5 3850 3891 3944 3968 3999 
+resistivity Thermal_conduction.txt 1 2848 
+symmetries Thermal_conduction.txt 1 3783 
+generality Thermal_conduction.txt 1 3645 
+quench Thermal_conduction.txt 2 3444 3469 
+splat Thermal_conduction.txt 4 3254 3257 3308 3344 
+formula Thermal_conduction.txt 3 2730 2845 3096 
+manner Thermal_conduction.txt 2 3017 3034 
+have Thermal_conduction.txt 5 818 874 1087 2858 3637 
+concentration Thermal_conduction.txt 1 3923 
+any Thermal_conduction.txt 8 1070 1096 1114 1185 1194 1317 1326 3799 
+contents Thermal_conduction.txt 1 364 
+relatively Thermal_conduction.txt 1 512 
+paths Thermal_conduction.txt 1 2018 
+rearranged Thermal_conduction.txt 1 2972 
+zero Thermal_conduction.txt 2 1085 1104 
+trapped Thermal_conduction.txt 1 1145 
+solids Thermal_conduction.txt 4 55 234 507 864 
+mechanism Thermal_conduction.txt 1 2290 
+metallic Thermal_conduction.txt 2 809 835 
+note Thermal_conduction.txt 1 2990 
+sciences Thermal_conduction.txt 1 328 
+find Thermal_conduction.txt 1 3546 
+internal Thermal_conduction.txt 8 10 44 222 403 1486 1859 2942 3006 
+take Thermal_conduction.txt 2 1240 1501 
+which Thermal_conduction.txt 18 63 93 201 931 1014 1320 1670 1864 2007 2256 2276 2377 2394 2417 3161 3224 3668 3734 
+thermometer Thermal_conduction.txt 1 3745 
+negligible Thermal_conduction.txt 1 3121 
+subject Thermal_conduction.txt 1 3715 
+200 Thermal_conduction.txt 1 3489 
+unless Thermal_conduction.txt 1 320 
+electric Thermal_conduction.txt 6 131 476 860 900 1270 2926 
+normal Thermal_conduction.txt 2 974 2300 
+object Thermal_conduction.txt 11 1066 1118 1330 1355 1370 1380 1396 1536 1770 1800 1998 
+reach Thermal_conduction.txt 2 1665 1875 
+most Thermal_conduction.txt 8 487 838 872 1941 1955 2191 4048 4060 
+steady-state Thermal_conduction.txt 10 1028 1345 1472 1573 1580 1637 1668 1744 1904 1913 
+experiences Thermal_conduction.txt 1 1639 
+amongst Thermal_conduction.txt 1 3771 
+significant Thermal_conduction.txt 4 488 2064 2539 2798 
+formulae Thermal_conduction.txt 1 2822 
+phase Thermal_conduction.txt 7 1000 1554 1565 1616 1716 3409 3657 
+colliding Thermal_conduction.txt 1 26 
+measured Thermal_conduction.txt 2 3099 3169 
+model Thermal_conduction.txt 2 2039 2180 
+so-called Thermal_conduction.txt 1 3563 
+especially Thermal_conduction.txt 2 529 3617 
+considered Thermal_conduction.txt 4 380 438 3062 3679 
+calculated Thermal_conduction.txt 3 2939 3013 3226 
+sometimes Thermal_conduction.txt 3 339 2747 2795 
+metal Thermal_conduction.txt 4 828 1786 3379 3382 
+instrument Thermal_conduction.txt 1 3842 
+accounted Thermal_conduction.txt 1 401 
+electrons Thermal_conduction.txt 6 20 33 260 456 820 857 
+principle Thermal_conduction.txt 2 3845 3910 
+mechanical Thermal_conduction.txt 1 2273 
+typically Thermal_conduction.txt 2 1690 2553 
+pipes Thermal_conduction.txt 1 2936 
+quantity Thermal_conduction.txt 4 959 1010 2828 3811 
+insulators Thermal_conduction.txt 2 773 775 
+phenomenon Thermal_conduction.txt 2 669 2274 
+gold Thermal_conduction.txt 1 790 
+show Thermal_conduction.txt 1 2062 
+stove Thermal_conduction.txt 1 132 
+random Thermal_conduction.txt 1 277 
+evaporation Thermal_conduction.txt 1 3661 
+purely Thermal_conduction.txt 1 1298 
+determine Thermal_conduction.txt 2 3242 3506 
+solutions Thermal_conduction.txt 1 1929 
+analogue Thermal_conduction.txt 1 2446 
+uniform Thermal_conduction.txt 1 174 
+networks Thermal_conduction.txt 2 1279 1294 
+impact Thermal_conduction.txt 1 756 
+categories Thermal_conduction.txt 2 4081 4083 
+ratio Thermal_conduction.txt 1 878 
+conduction Thermal_conduction.txt 58 1 4 46 99 104 176 216 235 265 301 375 446 484 503 552 647 903 948 1029 1033 1038 1047 1108 1171 1218 1226 1310 1340 1346 1468 1473 1539 1553 1615 1638 1641 1715 1738 1745 1749 1873 1897 1905 1988 2091 2170 2177 2266 2339 2461 2736 2931 3000 3045 3251 3575 3788 3796 
+situations Thermal_conduction.txt 1 1357 
+writes Thermal_conduction.txt 1 3580 
+proportion Thermal_conduction.txt 1 3424 
+written Thermal_conduction.txt 2 2806 3371 
+should Thermal_conduction.txt 1 2825 
+surroundings Thermal_conduction.txt 1 1027 
+only Thermal_conduction.txt 2 632 3675 
+molecules Thermal_conduction.txt 6 30 246 274 413 451 606 
+local Thermal_conduction.txt 2 2465 2480 
+achieve Thermal_conduction.txt 1 3438 
+equilibrium Thermal_conduction.txt 6 168 1428 1440 1495 1581 3677 
+do Thermal_conduction.txt 5 283 1436 1731 3640 3762 
+mixture Thermal_conduction.txt 2 3930 3976 
+dissimilar Thermal_conduction.txt 1 3971 
+means Thermal_conduction.txt 3 385 489 550 
+dependent Thermal_conduction.txt 1 996 
+flowing Thermal_conduction.txt 1 2402 
+fluid Thermal_conduction.txt 6 831 916 924 2739 2758 2770 
+next Thermal_conduction.txt 1 2762 
+effusivity Thermal_conduction.txt 1 1007 
+negative Thermal_conduction.txt 2 2361 2479 
+during Thermal_conduction.txt 6 275 1316 2070 2089 2123 2129 
+ttt Thermal_conduction.txt 2 3397 3452 
+net Thermal_conduction.txt 2 3885 4005 
+molten Thermal_conduction.txt 1 3267 
+processes Thermal_conduction.txt 2 333 348 
+bar Thermal_conduction.txt 5 1152 1181 1633 1664 1677 
+densities Thermal_conduction.txt 1 555 
+fields Thermal_conduction.txt 1 1352 
+differential Thermal_conduction.txt 5 2414 2450 2454 2595 2618 
+consisting Thermal_conduction.txt 1 2050 
+w/m Thermal_conduction.txt 1 2663 
+whether Thermal_conduction.txt 1 3751 
+common Thermal_conduction.txt 2 2545 4061 
+analytical Thermal_conduction.txt 2 1925 1938 
+through Thermal_conduction.txt 12 92 183 826 843 862 967 2354 2376 2494 2742 2932 3001 
+fixed Thermal_conduction.txt 2 514 3810 
+where Thermal_conduction.txt 9 920 2501 2611 2641 2657 2846 2859 2876 2985 
+inside Thermal_conduction.txt 3 1378 1458 1662 
+body Thermal_conduction.txt 10 23 120 157 185 379 398 437 1918 2408 3126 
+set Thermal_conduction.txt 3 1680 3981 3992 
+exists Thermal_conduction.txt 1 708 
+physically Thermal_conduction.txt 1 2258 
+generally Thermal_conduction.txt 2 2528 3484 
+ends Thermal_conduction.txt 1 3311 
+around Thermal_conduction.txt 1 3939 
+maximum Thermal_conduction.txt 1 3293 
+observed Thermal_conduction.txt 3 319 658 741 
+see Thermal_conduction.txt 5 367 1297 1933 3040 4073 
+computer Thermal_conduction.txt 1 1975 
+radius Thermal_conduction.txt 5 2943 2946 2996 3007 3010 
+are Thermal_conduction.txt 18 399 531 792 922 1048 1102 1490 1865 2115 2699 2918 3238 3528 3770 3782 3856 3960 4067 
+close Thermal_conduction.txt 1 513 
+cold Thermal_conduction.txt 2 1155 3274 
+analog Thermal_conduction.txt 3 1245 1268 2436 
+conductivity Thermal_conduction.txt 26 362 557 579 585 630 940 945 953 988 1013 2009 2030 2159 2310 2476 2508 2524 2552 2865 3688 3792 3836 3877 3913 4039 4058 
+surfaces Thermal_conduction.txt 2 665 685 
+phases Thermal_conduction.txt 1 51 
+said Thermal_conduction.txt 1 671 
+capacity Thermal_conduction.txt 1 2055 
+tensor Thermal_conduction.txt 1 2565 
+ohms Thermal_conduction.txt 4 2441 2835 2890 2904 
+phonons Thermal_conduction.txt 2 252 311 
+speed Thermal_conduction.txt 3 2216 2243 2251 
+wikipedia Thermal_conduction.txt 1 2 
+partition Thermal_conduction.txt 2 2708 2727 
+state Thermal_conduction.txt 16 1032 1107 1167 1170 1217 1273 1509 1523 1564 1578 1612 1695 1871 1878 2383 3315 
+determined Thermal_conduction.txt 2 3086 3151 
+between Thermal_conduction.txt 20 69 81 159 199 226 497 517 523 541 548 648 662 682 721 2629 2689 2953 3180 3595 3604 
+conductive Thermal_conduction.txt 6 90 533 834 863 2097 3618 
+boundary Thermal_conduction.txt 2 1367 3306 
+bailyn Thermal_conduction.txt 2 3578 3606 
+conditions Thermal_conduction.txt 5 1432 1624 2781 3307 3803 
+across Thermal_conduction.txt 2 2067 2095 
+hence Thermal_conduction.txt 1 3957 
+we Thermal_conduction.txt 5 2381 2395 2418 2602 2857 
+terms Thermal_conduction.txt 5 2808 2816 3146 3247 3391 
+ability Thermal_conduction.txt 1 1020 
+nature Thermal_conduction.txt 1 3728 
+interfaces Thermal_conduction.txt 3 694 713 735 
+second-order Thermal_conduction.txt 1 2564 
+combining Thermal_conduction.txt 1 2909 
+however Thermal_conduction.txt 2 1940 3969 
+analyzer Thermal_conduction.txt 2 3793 3837 
+here Thermal_conduction.txt 1 1764 
+extent Thermal_conduction.txt 1 2069 
+interface Thermal_conduction.txt 7 661 720 3051 3060 3179 3189 3201 
+article Thermal_conduction.txt 2 1313 3048 
+atoms Thermal_conduction.txt 6 31 411 449 518 542 549 
+problem Thermal_conduction.txt 1 3070 
+both Thermal_conduction.txt 1 2922 
+c Thermal_conduction.txt 2 3487 3490 
+last Thermal_conduction.txt 1 2194 
+reverse Thermal_conduction.txt 1 2128 
+desired Thermal_conduction.txt 1 3512 
+many Thermal_conduction.txt 2 2574 4028 
+region Thermal_conduction.txt 4 1115 1148 2022 2027 
+vibration Thermal_conduction.txt 2 526 770 
+equal Thermal_conduction.txt 2 1120 2470 
+propagation Thermal_conduction.txt 4 248 2218 2246 2327 
+s Thermal_conduction.txt 1 2344 
+cylindrical Thermal_conduction.txt 4 2928 2933 3021 3038 
+figures Thermal_conduction.txt 1 3527 
+context Thermal_conduction.txt 1 282 
+distinction Thermal_conduction.txt 1 314 
+whole Thermal_conduction.txt 1 2411 
+photons Thermal_conduction.txt 2 279 480 
+capacitor Thermal_conduction.txt 1 2139 
+solving Thermal_conduction.txt 1 3030 
+tough Thermal_conduction.txt 1 3435 
+necessary Thermal_conduction.txt 2 3442 3504 
+point Thermal_conduction.txt 5 596 629 1097 1457 1598 
+simple Thermal_conduction.txt 5 1921 2047 2106 2138 2575 
+overview Thermal_conduction.txt 1 365 
+sound Thermal_conduction.txt 4 2269 2301 2316 2329 
+period Thermal_conduction.txt 2 1318 1846 
+analyzed Thermal_conduction.txt 1 3207 
+cross-sectional Thermal_conduction.txt 2 2855 2872 
+non Thermal_conduction.txt 2 1344 1903 
+hotter Thermal_conduction.txt 1 116 
+second Thermal_conduction.txt 2 2268 2315 
+platinum Thermal_conduction.txt 1 789 
+inadmissible Thermal_conduction.txt 1 2259 
+basis Thermal_conduction.txt 1 2646 
+temperature-or-heat Thermal_conduction.txt 1 1705 
+locally Thermal_conduction.txt 1 2428 
+due Thermal_conduction.txt 6 267 536 801 981 2083 3872 
+been Thermal_conduction.txt 2 1710 3352 
+much Thermal_conduction.txt 3 1844 2012 3696 
+interest Thermal_conduction.txt 1 1789 
+certain Thermal_conduction.txt 2 3829 3860 
+expected Thermal_conduction.txt 1 612 
+important Thermal_conduction.txt 4 2748 2988 3075 3193 
+engine Thermal_conduction.txt 3 1542 1571 1587 
+direction Thermal_conduction.txt 3 973 1211 2588 
+restrictions Thermal_conduction.txt 1 3719 
+quantities Thermal_conduction.txt 1 428 
+transferring Thermal_conduction.txt 1 418 
+gas Thermal_conduction.txt 19 545 602 609 3755 3800 3818 3822 3861 3904 3906 3926 3936 3972 3975 3988 4024 4030 4043 4052 
+bulk Thermal_conduction.txt 2 394 434 
+shapes Thermal_conduction.txt 1 1946 
+understand Thermal_conduction.txt 1 3077 
+external Thermal_conduction.txt 6 148 1483 1623 2945 3009 4078 
+angles Thermal_conduction.txt 1 2372 
+bulb Thermal_conduction.txt 1 3742 
+equilibration Thermal_conduction.txt 1 1054 
+present Thermal_conduction.txt 2 850 3938 
+applied Thermal_conduction.txt 2 1229 2970 
+look Thermal_conduction.txt 2 2396 2419 
+exponential Thermal_conduction.txt 1 2107 
+solid Thermal_conduction.txt 6 495 498 649 836 845 906 
+engineering Thermal_conduction.txt 2 327 1962 
+value Thermal_conduction.txt 1 3184 
+spontaneously Thermal_conduction.txt 1 112 
+employ Thermal_conduction.txt 1 937 
+near Thermal_conduction.txt 1 1399 
+situation Thermal_conduction.txt 3 353 919 1883 
+property Thermal_conduction.txt 4 360 992 3797 3813 
+study Thermal_conduction.txt 2 644 730 
+engineers Thermal_conduction.txt 1 936 
+cylinder Thermal_conduction.txt 1 2964 
+orientation Thermal_conduction.txt 1 2556 
+century Thermal_conduction.txt 1 2195 
+almost Thermal_conduction.txt 1 781 
+characteristics Thermal_conduction.txt 2 2777 3774 
+is Thermal_conduction.txt 136 5 65 72 96 124 169 180 197 208 224 236 266 296 315 323 363 443 485 504 535 603 642 656 670 689 724 779 800 848 891 907 955 989 994 1008 1015 1034 1119 1172 1237 1266 1337 1343 1469 1540 1559 1620 1647 1678 1697 1717 1756 1782 1821 1835 1868 1891 1894 1907 1969 2010 2082 2178 2182 2203 2247 2257 2270 2312 2323 2357 2433 2443 2469 2487 2509 2517 2560 2579 2659 2676 2682 2712 2731 2746 2771 2847 2850 2854 2861 2864 2867 2871 2878 2897 2965 2969 2979 2983 2987 2993 3029 3061 3074 3085 3092 3098 3131 3168 3185 3191 3225 3259 3318 3346 3384 3399 3441 3483 3503 3568 3591 3607 3678 3682 3701 3713 3724 3736 3808 3843 3862 3937 3950 3977 4053 
+thus Thermal_conduction.txt 1 1072 
+it Thermal_conduction.txt 18 142 707 1236 1827 1834 2196 2212 2311 2745 2793 2986 3398 3440 3463 3502 3669 3735 3767 
+surface Thermal_conduction.txt 6 624 977 2601 2960 3024 3275 
+heating Thermal_conduction.txt 1 2130 
+comparing Thermal_conduction.txt 1 4036 
+unit Thermal_conduction.txt 3 1262 2496 2499 
+itself Thermal_conduction.txt 1 186 
+indifferences Thermal_conduction.txt 1 3769 
+in Thermal_conduction.txt 106 49 139 143 175 187 189 220 233 261 280 325 350 465 500 506 543 651 666 728 758 766 772 774 917 951 964 971 1063 1105 1146 1207 1215 1233 1249 1284 1287 1289 1319 1323 1353 1363 1406 1423 1482 1498 1514 1520 1544 1547 1576 1599 1634 1669 1688 1791 1825 1832 1842 1881 1961 2023 2035 2101 2108 2140 2145 2166 2204 2254 2275 2299 2330 2363 2386 2393 2416 2547 2557 2566 2581 2585 2662 2705 2807 2815 2913 2916 3014 3031 3094 3100 3145 3170 3195 3246 3312 3320 3357 3390 3457 3475 3477 3778 3927 3952 3964 
+convection Thermal_conduction.txt 2 221 337 
+endpoints Thermal_conduction.txt 1 2631 
+helium Thermal_conduction.txt 1 4066 
+1-d Thermal_conduction.txt 1 2627 
+currents Thermal_conduction.txt 2 925 1232 
+if Thermal_conduction.txt 9 1127 1476 1480 1915 1994 3101 3127 3934 3970 
+binary Thermal_conduction.txt 1 3929 
+different Thermal_conduction.txt 2 1651 3186 
+thereby Thermal_conduction.txt 1 3882 
+etc Thermal_conduction.txt 1 791 
+media Thermal_conduction.txt 1 3501 
+radiation Thermal_conduction.txt 4 194 219 295 336 
+connection Thermal_conduction.txt 1 3594 
+same Thermal_conduction.txt 7 877 1813 2701 2920 3935 3948 3958 
+shorter Thermal_conduction.txt 1 1845 
+read Thermal_conduction.txt 1 3529 
+discourse Thermal_conduction.txt 1 3631 
+parts Thermal_conduction.txt 2 1591 1860 
+newtonian Thermal_conduction.txt 1 3117 
+mixtures Thermal_conduction.txt 1 3823 
+transient Thermal_conduction.txt 16 1309 1339 1467 1522 1538 1551 1614 1640 1714 1737 1987 2090 2124 3043 3064 3386 
+several Thermal_conduction.txt 2 455 2685 
+tapped Thermal_conduction.txt 1 1143 
+higher Thermal_conduction.txt 1 2087 
+independent Thermal_conduction.txt 1 2831 
+ball Thermal_conduction.txt 3 1755 1809 1863 
+infinity Thermal_conduction.txt 1 2240 
+lie Thermal_conduction.txt 1 2688 
+numerical Thermal_conduction.txt 1 1972 
+upon Thermal_conduction.txt 1 2779 
+flows Thermal_conduction.txt 3 113 2380 2493 
+conductors Thermal_conduction.txt 1 795 
+infinite Thermal_conduction.txt 2 1829 2215 
+changing Thermal_conduction.txt 1 3883 
+reference Thermal_conduction.txt 5 3817 3821 3987 4042 4051 
+suitable Thermal_conduction.txt 5 3412 3499 3550 3698 3718 
+whose Thermal_conduction.txt 1 3854 
+database Thermal_conduction.txt 2 3900 4016 
+adapted Thermal_conduction.txt 1 3353 
+well Thermal_conduction.txt 1 889 
+fusion Thermal_conduction.txt 1 3663 
+analysis Thermal_conduction.txt 2 1901 1973 
+directly Thermal_conduction.txt 2 908 3569 
+materials Thermal_conduction.txt 9 723 745 2546 2549 2568 2599 3182 3268 3455 
+y Thermal_conduction.txt 1 3218 
+position Thermal_conduction.txt 1 3334 
+the Thermal_conduction.txt 301 6 24 60 76 82 86 89 94 127 134 144 153 177 184 195 239 269 313 321 326 332 354 358 387 393 397 433 436 486 509 538 556 578 598 601 608 643 660 663 683 715 719 729 740 744 746 776 803 827 829 840 844 855 866 876 894 918 928 938 944 958 998 1035 1042 1046 1056 1064 1109 1132 1162 1174 1180 1191 1198 1210 1220 1244 1254 1267 1331 1400 1420 1430 1444 1449 1459 1494 1504 1517 1550 1556 1562 1570 1586 1593 1602 1613 1631 1635 1654 1658 1663 1676 1765 1769 1780 1785 1788 1799 1808 1812 1816 1848 1858 1862 1886 1889 1900 1916 1937 1952 1964 1981 1997 2021 2026 2036 2071 2076 2079 2093 2127 2131 2148 2151 2161 2164 2167 2172 2185 2193 2200 2207 2226 2234 2242 2250 2261 2287 2295 2318 2326 2335 2348 2360 2364 2368 2378 2390 2398 2413 2421 2444 2453 2464 2472 2478 2483 2488 2503 2506 2522 2532 2550 2586 2594 2598 2605 2613 2616 2636 2645 2648 2651 2660 2672 2690 2700 2709 2715 2728 2751 2754 2764 2802 2821 2843 2879 2893 2906 2919 2941 2944 2947 2950 2954 2959 2963 2974 2980 2994 2999 3023 3027 3055 3071 3079 3082 3088 3102 3112 3125 3128 3135 3142 3153 3159 3163 3173 3202 3217 3221 3228 3233 3276 3284 3292 3299 3305 3323 3327 3333 3358 3363 3377 3393 3403 3408 3446 3451 3461 3466 3471 3479 3493 3507 3511 3515 3520 3525 3536 3552 3562 3572 3582 3600 3623 3648 3651 3665 3687 3690 3710 3727 3730 3740 3772 3834 3838 3848 3874 3879 3884 3889 3899 3903 3909 3922 3940 3942 3947 3954 3986 3990 3997 4003 4009 4015 4019 4022 4056 
+bodies Thermal_conduction.txt 8 71 84 160 200 227 650 3597 3616 
+usual Thermal_conduction.txt 1 2289 
+spherical Thermal_conduction.txt 2 2997 3003 
+less Thermal_conduction.txt 4 532 551 853 3109 
+being Thermal_conduction.txt 4 382 429 440 1999 
+resistive Thermal_conduction.txt 1 1299 
+diffusivity Thermal_conduction.txt 1 3365 
+rest Thermal_conduction.txt 1 2077 
+shape Thermal_conduction.txt 2 1922 1953 
+relevant Thermal_conduction.txt 1 3521 
+identify Thermal_conduction.txt 2 3902 4018 
+voltage Thermal_conduction.txt 4 1257 3886 3893 4006 
+aspect Thermal_conduction.txt 1 3708 
+turbulence Thermal_conduction.txt 1 2783 
+commonly Thermal_conduction.txt 1 4049 
+conductivity.the Thermal_conduction.txt 1 4047 
+macroscopic Thermal_conduction.txt 1 475 
+previous Thermal_conduction.txt 1 2803 
+rapid Thermal_conduction.txt 2 1492 3270 
+density Thermal_conduction.txt 5 599 638 1002 2468 2486 
+practice Thermal_conduction.txt 2 1833 3476 
+ease Thermal_conduction.txt 1 929 
+except Thermal_conduction.txt 1 4063 
+exclusively Thermal_conduction.txt 1 3613 
+mathematically Thermal_conduction.txt 1 1818 
+signals Thermal_conduction.txt 1 2221 
+source Thermal_conduction.txt 5 151 1387 1401 1529 1706 
+potential Thermal_conduction.txt 3 39 390 425 
+location Thermal_conduction.txt 1 2572 
+samples Thermal_conduction.txt 1 4031 
+role Thermal_conduction.txt 2 1255 2162 
+extensive Thermal_conduction.txt 1 2810 
+has Thermal_conduction.txt 6 1709 1810 1919 3104 3213 3351 
+transformation Thermal_conduction.txt 1 3396 
+analogy Thermal_conduction.txt 1 1291 
+represents Thermal_conduction.txt 1 3172 
+rules Thermal_conduction.txt 1 2907 
+possible Thermal_conduction.txt 4 207 1238 1932 3400 
+increases Thermal_conduction.txt 4 582 586 631 3231 
+five Thermal_conduction.txt 1 3239 
+vacuum Thermal_conduction.txt 2 591 2255 
+using Thermal_conduction.txt 3 566 572 4025 
+imposed Thermal_conduction.txt 1 1361 
+like Thermal_conduction.txt 2 2282 2834 
+according Thermal_conduction.txt 3 2224 3115 3375 
+conducts Thermal_conduction.txt 3 837 887 935 
+maintained Thermal_conduction.txt 2 3951 3962 
+separately Thermal_conduction.txt 1 400 
+flux Thermal_conduction.txt 6 778 842 847 898 2467 2485 
+true Thermal_conduction.txt 1 2520 
+continue Thermal_conduction.txt 2 1475 1723 
+steps Thermal_conduction.txt 1 3240 
+t Thermal_conduction.txt 2 966 986 
+popular Thermal_conduction.txt 1 1977 
+analyzing Thermal_conduction.txt 1 1792 
+stationary Thermal_conduction.txt 3 383 441 2761 
+cooled Thermal_conduction.txt 1 2002 
+mathematical Thermal_conduction.txt 1 1926 
+because Thermal_conduction.txt 6 508 1943 2211 2317 2695 2775 
+often Thermal_conduction.txt 8 198 316 657 736 1942 1963 2032 2510 
+discrete Thermal_conduction.txt 1 2435 
+some Thermal_conduction.txt 2 419 2544 
+identified Thermal_conduction.txt 2 2005 4034 
+urgent Thermal_conduction.txt 1 3684 
+respect Thermal_conduction.txt 3 1079 1099 3331 
+altered Thermal_conduction.txt 1 3875 
+practical Thermal_conduction.txt 1 3355 
+transport Thermal_conduction.txt 1 292 
+happens Thermal_conduction.txt 3 1040 1417 1466 
+provided Thermal_conduction.txt 2 1433 3760 
+scale Thermal_conduction.txt 1 374 
+focused Thermal_conduction.txt 1 3570 
+dimensions Thermal_conduction.txt 1 2830 
+for Thermal_conduction.txt 37 121 357 402 1149 1302 1493 1555 1629 1837 1936 2006 2016 2190 2222 2543 2573 2622 2647 2702 2734 2823 2837 2874 2908 2921 3019 3036 3262 3288 3303 3354 3414 3465 3551 3646 3738 3828 
+bottom Thermal_conduction.txt 1 135 
+electromagnetic Thermal_conduction.txt 1 294 
+though Thermal_conduction.txt 1 2515 
+fluids Thermal_conduction.txt 2 527 759 
+per Thermal_conduction.txt 2 1261 2498 
+thermoelectricity Thermal_conduction.txt 1 890 
+critical Thermal_conduction.txt 1 595 
+contact Thermal_conduction.txt 9 110 140 502 640 652 667 679 704 3271 
+saucepan Thermal_conduction.txt 1 138 
+content Thermal_conduction.txt 1 3427 
+either Thermal_conduction.txt 1 1083 
+be Thermal_conduction.txt 32 203 561 611 673 752 1084 1135 1154 1228 1276 1931 1991 2004 2033 2237 2535 2669 2796 2813 2885 2938 3012 3150 3156 3206 3370 3586 3826 3896 3918 4012 4033 
+power Thermal_conduction.txt 2 1265 1726 
+problems Thermal_conduction.txt 1 1989 
+equivalent Thermal_conduction.txt 2 2132 2388 
+thermodynamics Thermal_conduction.txt 2 3557 3567 
+use Thermal_conduction.txt 2 1982 3356 
+pressure Thermal_conduction.txt 4 589 636 2298 3805 
+although Thermal_conduction.txt 1 1471 
+output Thermal_conduction.txt 3 3887 3894 4007 
+filaments Thermal_conduction.txt 7 3853 3868 3880 3945 3955 3984 3995 
+additive Thermal_conduction.txt 1 2683 
+properties Thermal_conduction.txt 5 87 734 742 2811 2819 
+on Thermal_conduction.txt 6 371 997 1533 3571 3847 3989 
+about Thermal_conduction.txt 1 875 
+actual Thermal_conduction.txt 1 3633 
+carried Thermal_conduction.txt 2 225 780 
+instantaneously Thermal_conduction.txt 1 2241 
+of Thermal_conduction.txt 191 8 15 19 52 75 88 106 129 136 146 210 215 241 245 247 251 254 258 273 307 334 346 392 396 420 435 490 511 558 576 580 600 607 645 676 692 725 731 743 749 796 832 839 854 871 896 912 960 978 1018 1037 1059 1076 1093 1111 1116 1123 1168 1177 1197 1212 1222 1256 1269 1280 1295 1305 1333 1350 1368 1384 1390 1412 1414 1496 1510 1526 1530 1579 1592 1617 1660 1736 1777 1796 1850 1861 1888 1902 1912 1944 1966 1983 1996 2043 2051 2078 2112 2121 2136 2150 2163 2174 2187 2192 2209 2217 2219 2231 2244 2252 2263 2291 2297 2321 2328 2337 2351 2400 2406 2426 2431 2437 2447 2456 2459 2474 2490 2525 2541 2608 2626 2650 2674 2717 2753 2757 2769 2782 2809 2817 2832 2895 2962 2976 3026 3108 3147 3175 3248 3266 3337 3340 3360 3392 3410 3418 3425 3428 3450 3556 3561 3566 3574 3576 3602 3622 3650 3689 3709 3729 3743 3775 3784 3798 3804 3814 3840 3867 3878 3911 3914 3924 3931 3982 3993 4008 4021 4044 4059 4071 
+based Thermal_conduction.txt 1 3846 
+recognized Thermal_conduction.txt 1 2198 
+inner Thermal_conduction.txt 1 2955 
+compatible Thermal_conduction.txt 1 2183 
+remains Thermal_conduction.txt 3 1200 1519 2760 
+carries Thermal_conduction.txt 1 852 
+carrier Thermal_conduction.txt 1 232 
+greatly Thermal_conduction.txt 1 1584 
+connected Thermal_conduction.txt 1 3737 
+introduced Thermal_conduction.txt 3 1393 1711 3093 
+slightly Thermal_conduction.txt 1 633 
+or Thermal_conduction.txt 32 158 409 450 453 478 496 760 768 815 947 1086 1137 1144 1388 1402 1485 1607 1707 1959 2001 2059 2126 2404 2424 2892 3448 3470 3662 3756 3765 3819 3974 
+martensite Thermal_conduction.txt 1 3431 
+instruments Thermal_conduction.txt 1 3789 
+into Thermal_conduction.txt 4 1443 1758 2020 2403 
+within Thermal_conduction.txt 17 21 155 181 377 493 904 914 1328 1394 1419 1534 1601 1768 1798 1951 2260 3124 
+integral Thermal_conduction.txt 3 2391 2589 2606 
+steady Thermal_conduction.txt 9 1031 1106 1169 1216 1272 1563 1694 1870 3314 
+charts Thermal_conduction.txt 1 1985 
+lies Thermal_conduction.txt 1 1790 
+appropriate Thermal_conduction.txt 1 3416 
+newtons Thermal_conduction.txt 2 2119 2429 
+rising Thermal_conduction.txt 1 1136 
+primarily Thermal_conduction.txt 2 753 995 
+heated Thermal_conduction.txt 1 2000 
+balanced Thermal_conduction.txt 1 3966 
+proportional Thermal_conduction.txt 1 2358 
+refined Thermal_conduction.txt 1 571 
+conceptually Thermal_conduction.txt 1 297 
+resistors Thermal_conduction.txt 1 1296 
+elastic Thermal_conduction.txt 1 755 
+area Thermal_conduction.txt 7 979 2369 2497 2856 2873 2961 3025 
+multilayer Thermal_conduction.txt 2 2707 2726 
+transfer Thermal_conduction.txt 27 7 34 105 191 196 209 330 341 492 521 620 748 822 1214 1619 2278 2353 2978 3053 3057 3090 3165 3174 3388 3538 3777 3786 
+unchanging Thermal_conduction.txt 1 1511 
+there Thermal_conduction.txt 4 921 1867 1893 3237 
+approximate Thermal_conduction.txt 1 1967 
+gases Thermal_conduction.txt 9 57 262 530 559 577 581 3915 3932 4062 
+intensive-property Thermal_conduction.txt 1 2799 
+capacitance Thermal_conduction.txt 2 2038 2049 
+low Thermal_conduction.txt 3 554 1762 2158 
+way Thermal_conduction.txt 2 468 804 
+series Thermal_conduction.txt 5 1285 2141 2914 3140 3203 
+analyze Thermal_conduction.txt 1 3068 
+was Thermal_conduction.txt 3 100 1142 2197 
+therefore Thermal_conduction.txt 2 2092 3825 
+function Thermal_conduction.txt 3 74 1776 3154 
+considerably Thermal_conduction.txt 1 1992 
+medium Thermal_conduction.txt 3 91 934 3549 
+form Thermal_conduction.txt 12 473 1036 2392 2415 2451 2455 2584 2590 2596 2607 3321 3359 
+becoming Thermal_conduction.txt 1 172 
+differences Thermal_conduction.txt 2 162 1044 
+but Thermal_conduction.txt 12 312 851 1090 1164 1595 1746 1831 1857 1884 2061 2786 3673 
+idea Thermal_conduction.txt 1 3573 
+idealized Thermal_conduction.txt 1 3629 
+anisotropic Thermal_conduction.txt 1 2548 
+heat Thermal_conduction.txt 81 9 68 95 107 111 123 178 190 211 291 300 329 369 442 491 621 646 777 841 888 897 902 961 1112 1124 1213 1231 1259 1264 1314 1391 1441 1450 1477 1487 1531 1618 1719 1781 1855 1872 1896 1934 2017 2054 2176 2220 2232 2277 2293 2322 2338 2352 2379 2466 2484 2637 2652 2735 2875 2923 2977 3049 3052 3056 3065 3089 3164 3176 3197 3285 3300 3387 3537 3577 3603 3672 3699 3731 3776 3785 
+related Thermal_conduction.txt 1 2713 
+atom Thermal_conduction.txt 2 462 464 
+removed Thermal_conduction.txt 1 1783 
+with Thermal_conduction.txt 39 141 286 415 583 587 615 634 930 1025 1078 1098 1375 1429 1700 1743 1853 1947 2028 2045 2142 2153 2184 2206 2530 2555 2570 2724 2789 2829 3005 3120 3208 3272 3283 3330 3343 3898 4014 4040 
+faster Thermal_conduction.txt 1 2248 
+also Thermal_conduction.txt 14 206 368 858 886 941 1373 1625 1822 2340 2668 2884 3917 3961 4074 
+cylinders Thermal_conduction.txt 1 1588 
+circuits Thermal_conduction.txt 1 1301 
+characteristic Thermal_conduction.txt 1 3280 
+free-moving Thermal_conduction.txt 1 819 
+up Thermal_conduction.txt 2 592 1681 
+theoretical Thermal_conduction.txt 1 3630 
+inter-molecular Thermal_conduction.txt 1 747 
+how Thermal_conduction.txt 1 3078 
+distribution Thermal_conduction.txt 2 1058 1513 
+similar Thermal_conduction.txt 5 2324 3016 3033 3319 4068 
+called Thermal_conduction.txt 1 102 
+distance Thermal_conduction.txt 2 540 2833 
+intents Thermal_conduction.txt 1 1839 
+units Thermal_conduction.txt 2 2505 2615 
+constant Thermal_conduction.txt 7 946 1049 1201 1672 1687 2514 2633 
+600 Thermal_conduction.txt 1 3486 
+defined Thermal_conduction.txt 2 430 956 
+flow Thermal_conduction.txt 12 179 698 1336 1442 1451 1478 1720 2422 2638 2924 3066 3198 
+contribute Thermal_conduction.txt 1 737 
+graphical Thermal_conduction.txt 1 1978 
+metals Thermal_conduction.txt 4 767 786 806 873 
+an Thermal_conduction.txt 24 130 147 693 1053 1117 1303 1329 1354 1360 1369 1379 1395 1524 1535 1541 1545 1734 2110 2214 3059 3178 3192 3200 3628 
+as Thermal_conduction.txt 53 43 67 381 406 439 454 470 479 706 757 765 771 811 884 943 957 1139 1187 1243 1381 1567 1569 1642 1644 1729 1774 1779 1815 2040 2073 2104 2314 2342 2409 2512 2640 2671 2887 3018 3035 3138 3216 3232 3291 3304 3368 3372 3660 3702 3704 3747 3833 4055 
+lumped Thermal_conduction.txt 1 2037 
+right Thermal_conduction.txt 1 2371 
+at Thermal_conduction.txt 35 62 553 659 710 718 1095 1156 1161 1193 1325 1365 1455 1596 1724 1760 1847 1898 2233 2239 2370 2397 2420 2604 2632 3058 3177 3187 3199 3287 3294 3296 3302 3445 3664 3667 
+steel Thermal_conduction.txt 2 3419 3478 
+gradients Thermal_conduction.txt 1 1805 
+proceeds Thermal_conduction.txt 1 1189 
+film Thermal_conduction.txt 2 2756 2768 
+physical Thermal_conduction.txt 2 3593 3634 
+again Thermal_conduction.txt 2 1447 3716 
+compared Thermal_conduction.txt 1 2074 
+ideally Thermal_conduction.txt 1 2820 
+no Thermal_conduction.txt 8 923 1461 1597 1748 1854 1869 1895 2063 
+when Thermal_conduction.txt 12 447 1041 1408 1712 1751 1892 2620 2684 2722 2787 2966 3674 
+resistances Thermal_conduction.txt 6 1242 1248 1283 2910 3855 3959 
+field Thermal_conduction.txt 3 1062 1659 1767 
+other Thermal_conduction.txt 6 617 1163 1590 1655 3991 4041 
+electrical Thermal_conduction.txt 8 869 881 1225 1247 1293 2445 2838 2844 
+heisler Thermal_conduction.txt 1 1984 
+spatial Thermal_conduction.txt 5 515 1057 1175 1794 2571 
+u Thermal_conduction.txt 2 2658 2877 
+contacting Thermal_conduction.txt 1 684 
+unbalanced Thermal_conduction.txt 1 4001 
+nonzero Thermal_conduction.txt 1 1088 
+calculating Thermal_conduction.txt 1 3535 
+temperatures Thermal_conduction.txt 12 1060 1178 1321 1398 1418 1454 1484 1497 1582 1661 1730 2542 
+manipulate Thermal_conduction.txt 1 3402 
+symbol Thermal_conduction.txt 1 356 
+felt Thermal_conduction.txt 1 2238 
+uniformly Thermal_conduction.txt 2 1103 2100 
+variation Thermal_conduction.txt 2 2066 2533 
+includes Thermal_conduction.txt 1 331 
+reformulated Thermal_conduction.txt 1 2814 
+bonding Thermal_conduction.txt 1 1005 
+and/or Thermal_conduction.txt 1 1971 
+correlated Thermal_conduction.txt 2 3897 4013 
+longer Thermal_conduction.txt 1 1462 
+required Thermal_conduction.txt 1 1970 
+nomogram Thermal_conduction.txt 3 3210 3212 3533 
+phonon Thermal_conduction.txt 3 769 784 846 
+neighbouring Thermal_conduction.txt 1 416 
+mass Thermal_conduction.txt 1 340 
+begins Thermal_conduction.txt 1 1771 
+time Thermal_conduction.txt 26 165 965 1055 1101 1188 1263 1324 1407 1424 1515 1657 1701 1778 1802 1830 2109 2349 2500 3148 3249 3336 3394 3462 3495 3514 3681 
+conductivities Thermal_conduction.txt 2 870 1950 
+laws Thermal_conduction.txt 1 1221 
+starting Thermal_conduction.txt 1 1543 
+once Thermal_conduction.txt 2 1446 1464 

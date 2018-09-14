@@ -1,0 +1,69 @@
+and Stellar_atmosphere.txt 2 31 73 
+atmosphere Stellar_atmosphere.txt 2 1 13 
+pinkish Stellar_atmosphere.txt 1 71 
+phenomenon Stellar_atmosphere.txt 1 84 
+tufted Stellar_atmosphere.txt 1 80 
+photo Stellar_atmosphere.txt 1 3 
+is Stellar_atmosphere.txt 4 14 35 53 76 
+it Stellar_atmosphere.txt 1 34 
+observed Stellar_atmosphere.txt 1 60 
+visible Stellar_atmosphere.txt 1 95 
+as Stellar_atmosphere.txt 2 68 78 
+arc Stellar_atmosphere.txt 1 72 
+in Stellar_atmosphere.txt 2 5 85 
+seen Stellar_atmosphere.txt 1 77 
+convection Stellar_atmosphere.txt 1 32 
+radiation Stellar_atmosphere.txt 1 29 
+its Stellar_atmosphere.txt 2 56 74 
+layers Stellar_atmosphere.txt 1 59 
+giant Stellar_atmosphere.txt 1 93 
+total Stellar_atmosphere.txt 1 45 
+outer Stellar_atmosphere.txt 1 16 
+zone Stellar_atmosphere.txt 2 30 33 
+distinct Stellar_atmosphere.txt 1 41 
+sun Stellar_atmosphere.txt 1 52 
+divided Stellar_atmosphere.txt 1 36 
+wikipedia Stellar_atmosphere.txt 1 2 
+same Stellar_atmosphere.txt 1 83 
+france Stellar_atmosphere.txt 1 6 
+regions Stellar_atmosphere.txt 1 39 
+also Stellar_atmosphere.txt 1 97 
+other Stellar_atmosphere.txt 1 58 
+notes Stellar_atmosphere.txt 1 99 
+above Stellar_atmosphere.txt 1 25 
+suns Stellar_atmosphere.txt 1 64 
+taken Stellar_atmosphere.txt 1 4 
+several Stellar_atmosphere.txt 1 38 
+into Stellar_atmosphere.txt 1 37 
+can Stellar_atmosphere.txt 1 88 
+revealing Stellar_atmosphere.txt 1 55 
+core Stellar_atmosphere.txt 1 28 
+briefly Stellar_atmosphere.txt 1 67 
+star Stellar_atmosphere.txt 1 23 
+stars Stellar_atmosphere.txt 1 94 
+chromosphere Stellar_atmosphere.txt 2 65 91 
+categories Stellar_atmosphere.txt 1 101 
+volume Stellar_atmosphere.txt 1 20 
+photosphere Stellar_atmosphere.txt 1 49 
+solar Stellar_atmosphere.txt 1 46 
+during Stellar_atmosphere.txt 3 7 43 61 
+obscured Stellar_atmosphere.txt 1 54 
+appears Stellar_atmosphere.txt 1 66 
+halo Stellar_atmosphere.txt 1 81 
+character Stellar_atmosphere.txt 1 42 
+a Stellar_atmosphere.txt 4 22 44 69 79 
+stellar Stellar_atmosphere.txt 3 0 12 27 
+1999 Stellar_atmosphere.txt 1 9 
+of Stellar_atmosphere.txt 5 18 21 40 50 92 
+region Stellar_atmosphere.txt 1 17 
+eclipse Stellar_atmosphere.txt 3 10 47 62 
+see Stellar_atmosphere.txt 1 96 
+corona Stellar_atmosphere.txt 1 75 
+edit Stellar_atmosphere.txt 2 98 100 
+thin Stellar_atmosphere.txt 1 70 
+atmospheres Stellar_atmosphere.txt 1 57 
+the Stellar_atmosphere.txt 10 8 11 15 19 26 48 51 63 82 90 
+binaries Stellar_atmosphere.txt 1 87 
+make Stellar_atmosphere.txt 1 89 
+lying Stellar_atmosphere.txt 1 24 
+eclipsing Stellar_atmosphere.txt 1 86 

@@ -1,0 +1,716 @@
+writings Pinhole_camera.txt 1 88 
+partial Pinhole_camera.txt 2 2015 2054 
+chinese Pinhole_camera.txt 2 86 1045 
+real-time Pinhole_camera.txt 1 496 
+results Pinhole_camera.txt 2 1347 1557 
+cheung Pinhole_camera.txt 1 1050 
+compact Pinhole_camera.txt 1 942 
+whose Pinhole_camera.txt 1 946 
+etching Pinhole_camera.txt 1 1217 
+zone Pinhole_camera.txt 2 1702 1707 
+graph Pinhole_camera.txt 2 1464 1619 
+technique Pinhole_camera.txt 1 332 
+fergusons Pinhole_camera.txt 1 303 
+geometric-optics Pinhole_camera.txt 1 1593 
+maintaining Pinhole_camera.txt 1 979 
+to Pinhole_camera.txt 43 134 141 161 168 328 340 385 470 506 536 547 579 606 648 659 685 785 819 867 883 1030 1039 1057 1149 1235 1260 1270 1322 1340 1360 1418 1509 1563 1595 1699 1791 1813 1856 1897 1908 1920 1932 1960 
+finally Pinhole_camera.txt 1 426 
+compensate Pinhole_camera.txt 1 1887 
+kinetoscope Pinhole_camera.txt 1 424 
+case Pinhole_camera.txt 3 1696 2051 2061 
+wave Pinhole_camera.txt 1 1151 
+minute Pinhole_camera.txt 1 1443 
+basics Pinhole_camera.txt 1 588 
+17th Pinhole_camera.txt 1 193 
+magia Pinhole_camera.txt 1 154 
+occurs Pinhole_camera.txt 2 1157 1392 
+try Pinhole_camera.txt 2 329 1031 
+mm Pinhole_camera.txt 6 944 1356 1364 1375 1833 1839 
+sand Pinhole_camera.txt 1 1258 
+small Pinhole_camera.txt 6 29 766 1135 1601 2026 2047 
+9651039 Pinhole_camera.txt 1 125 
+optics Pinhole_camera.txt 3 298 315 1572 
+round Pinhole_camera.txt 1 1196 
+prevent Pinhole_camera.txt 1 686 
+smaller Pinhole_camera.txt 4 1062 1098 1628 1927 
+findings Pinhole_camera.txt 1 462 
+thin Pinhole_camera.txt 2 775 1207 
+direct Pinhole_camera.txt 1 991 
+hobbyist Pinhole_camera.txt 1 1220 
+higher-order Pinhole_camera.txt 1 1200 
+perspective Pinhole_camera.txt 1 666 
+jozef Pinhole_camera.txt 1 1295 
+further Pinhole_camera.txt 3 208 243 2074 
+virupaksha Pinhole_camera.txt 1 117 
+drinks Pinhole_camera.txt 1 1249 
+edison Pinhole_camera.txt 1 354 
+opaque Pinhole_camera.txt 1 1958 
+sun Pinhole_camera.txt 2 553 2038 
+thickness Pinhole_camera.txt 2 1166 1263 
+seconds Pinhole_camera.txt 3 1777 1882 1918 
+19th Pinhole_camera.txt 1 232 
+experiment Pinhole_camera.txt 1 585 
+goes Pinhole_camera.txt 1 1107 
+blur Pinhole_camera.txt 1 1401 
+supplies Pinhole_camera.txt 1 692 
+method Pinhole_camera.txt 2 1233 1284 
+movement Pinhole_camera.txt 1 550 
+giambattista Pinhole_camera.txt 1 146 
+focuses Pinhole_camera.txt 2 1640 1675 
+pinhole Pinhole_camera.txt 73 0 4 7 22 72 106 188 248 256 331 486 523 538 544 567 591 620 631 642 676 693 711 721 755 808 815 834 854 885 907 922 939 958 1032 1041 1053 1099 1132 1193 1277 1289 1304 1313 1321 1362 1448 1455 1471 1491 1497 1523 1544 1567 1585 1599 1625 1639 1659 1674 1691 1693 1721 1729 1758 1812 1825 1835 1862 1940 1965 1984 2008 2019 
+chose Pinhole_camera.txt 1 469 
+applies Pinhole_camera.txt 2 1573 1605 
+commercial Pinhole_camera.txt 1 996 
+hours Pinhole_camera.txt 1 1925 
+cylindrical Pinhole_camera.txt 3 370 663 800 
+let Pinhole_camera.txt 1 580 
+100 Pinhole_camera.txt 2 1849 1851 
+cardboard Pinhole_camera.txt 1 743 
+teacher Pinhole_camera.txt 1 1507 
+box Pinhole_camera.txt 8 26 53 223 718 791 798 1764 1797 
+box-type Pinhole_camera.txt 1 240 
+noticeable Pinhole_camera.txt 1 1780 
+suitably Pinhole_camera.txt 1 1280 
+involved Pinhole_camera.txt 1 363 
+study Pinhole_camera.txt 1 135 
+changed Pinhole_camera.txt 1 869 
+allows Pinhole_camera.txt 2 859 1013 
+approaches Pinhole_camera.txt 1 1164 
+35 Pinhole_camera.txt 1 943 
+taped Pinhole_camera.txt 2 735 784 
+throughput Pinhole_camera.txt 1 1992 
+published Pinhole_camera.txt 1 1501 
+usually Pinhole_camera.txt 1 2003 
+narrow Pinhole_camera.txt 1 914 
+plotted Pinhole_camera.txt 1 1559 
+diameter Pinhole_camera.txt 10 767 1160 1290 1314 1366 1372 1498 1730 1822 1834 
+reclaimed Pinhole_camera.txt 1 1245 
+requiring Pinhole_camera.txt 2 1929 2004 
+black-and-white Pinhole_camera.txt 1 1333 
+aluminium Pinhole_camera.txt 1 1248 
+1970s Pinhole_camera.txt 1 1483 
+lenticular Pinhole_camera.txt 1 478 
+extraneous Pinhole_camera.txt 1 1792 
+duck Pinhole_camera.txt 1 1047 
+illumination Pinhole_camera.txt 1 1900 
+select Pinhole_camera.txt 1 308 
+are Pinhole_camera.txt 6 82 597 604 1558 1996 2001 
+charge-coupled Pinhole_camera.txt 1 595 
+use Pinhole_camera.txt 8 169 181 289 542 961 986 1008 1256 
+from Pinhole_camera.txt 12 35 108 615 905 1215 1246 1320 1415 1740 1761 1810 1916 
+links Pinhole_camera.txt 1 2072 
+sharper Pinhole_camera.txt 2 1066 1112 
+aristotelian Pinhole_camera.txt 1 94 
+two Pinhole_camera.txt 1 1520 
+properties Pinhole_camera.txt 1 1152 
+leaks Pinhole_camera.txt 1 688 
+camera Pinhole_camera.txt 35 1 5 8 12 59 65 69 196 226 241 245 279 436 487 621 624 632 677 712 809 816 866 878 936 1449 1456 1472 1492 1759 1796 1802 1829 1863 1941 2020 
+reciprocity Pinhole_camera.txt 1 1868 
+aperture Pinhole_camera.txt 7 20 41 539 1080 1417 1423 1972 
+tape Pinhole_camera.txt 1 746 
+type Pinhole_camera.txt 1 561 
+more Pinhole_camera.txt 1 515 
+flat Pinhole_camera.txt 1 2040 
+flap Pinhole_camera.txt 2 741 1955 
+0.5 Pinhole_camera.txt 1 1832 
+550 Pinhole_camera.txt 2 1342 1554 
+basically Pinhole_camera.txt 2 235 1381 
+particular Pinhole_camera.txt 2 703 941 
+known Pinhole_camera.txt 3 56 80 253 
+90 Pinhole_camera.txt 1 1189 
+hole Pinhole_camera.txt 7 30 794 1064 1106 1136 1163 1180 
+must Pinhole_camera.txt 2 985 1886 
+include Pinhole_camera.txt 1 617 
+f Pinhole_camera.txt 6 1315 1654 1667 1724 1733 1850 
+this Pinhole_camera.txt 9 170 560 780 858 1357 1384 1670 1695 2045 
+work Pinhole_camera.txt 1 1231 
+eclipse Pinhole_camera.txt 4 2017 2044 2055 2065 
+pinholes Pinhole_camera.txt 8 475 655 993 1213 1224 1928 1990 2027 
+can Pinhole_camera.txt 14 638 695 713 748 836 855 924 954 997 1138 1221 1250 1913 2022 
+learn Pinhole_camera.txt 1 582 
+example Pinhole_camera.txt 2 1439 1827 
+history Pinhole_camera.txt 1 63 
+figure Pinhole_camera.txt 1 1562 
+flaring Pinhole_camera.txt 1 1781 
+india Pinhole_camera.txt 1 121 
+purposes Pinhole_camera.txt 1 578 
+high Pinhole_camera.txt 1 1227 
+effectively Pinhole_camera.txt 2 23 1023 
+minimum Pinhole_camera.txt 1 1272 
+sense Pinhole_camera.txt 1 1714 
+abney Pinhole_camera.txt 1 323 
+times Pinhole_camera.txt 1 1580 
+occur Pinhole_camera.txt 1 2024 
+sir Pinhole_camera.txt 1 316 
+educational Pinhole_camera.txt 1 577 
+curving Pinhole_camera.txt 1 668 
+end Pinhole_camera.txt 2 724 739 
+divided Pinhole_camera.txt 2 1525 1532 
+means Pinhole_camera.txt 1 1398 
+pinhole-to-film Pinhole_camera.txt 1 1350 
+1 Pinhole_camera.txt 2 1353 1876 
+instead Pinhole_camera.txt 1 185 
+tinfoil Pinhole_camera.txt 1 773 
+description Pinhole_camera.txt 2 254 273 
+information Pinhole_camera.txt 1 244 
+may Pinhole_camera.txt 6 488 756 803 1803 1948 1978 
+after Pinhole_camera.txt 1 466 
+minimized Pinhole_camera.txt 1 1649 
+plane Pinhole_camera.txt 6 671 1124 1324 1421 1663 1816 
+value Pinhole_camera.txt 2 1709 1737 
+1887 Pinhole_camera.txt 1 361 
+such Pinhole_camera.txt 2 644 1411 
+response Pinhole_camera.txt 1 1893 
+a Pinhole_camera.txt 94 3 6 10 14 18 21 24 28 36 75 101 158 172 183 187 199 202 211 216 222 278 285 369 446 455 485 492 519 540 555 674 702 716 720 726 740 745 752 762 770 793 799 807 840 889 896 911 918 934 938 970 987 1010 1027 1044 1058 1097 1101 1144 1219 1238 1276 1279 1283 1303 1335 1349 1361 1441 1447 1450 1454 1463 1474 1494 1502 1511 1700 1705 1713 1752 1757 1762 1828 1831 1837 1861 1939 1943 1954 1973 2014 2018 2053 
+natural Pinhole_camera.txt 3 76 1716 2007 
+effective Pinhole_camera.txt 2 814 873 
+light Pinhole_camera.txt 14 34 139 687 826 1154 1183 1330 1338 1429 1551 1642 1677 1793 1991 
+so Pinhole_camera.txt 3 846 1025 1734 
+wavelengths Pinhole_camera.txt 1 1426 
+produces Pinhole_camera.txt 1 2046 
+developed Pinhole_camera.txt 2 209 228 
+over Pinhole_camera.txt 1 554 
+soon Pinhole_camera.txt 1 419 
+produced Pinhole_camera.txt 1 1212 
+paper Pinhole_camera.txt 7 166 511 530 732 1259 1768 1884 
+through Pinhole_camera.txt 4 39 769 796 1108 
+differs Pinhole_camera.txt 1 1738 
+existence Pinhole_camera.txt 1 114 
+still Pinhole_camera.txt 2 112 1222 
+its Pinhole_camera.txt 2 706 1946 
+before Pinhole_camera.txt 1 1273 
+25 Pinhole_camera.txt 1 1355 
+20 Pinhole_camera.txt 1 1442 
+la Pinhole_camera.txt 1 464 
+blurring Pinhole_camera.txt 1 1391 
+microscopic Pinhole_camera.txt 2 364 415 
+encounter Pinhole_camera.txt 1 1867 
+main Pinhole_camera.txt 1 1969 
+image Pinhole_camera.txt 18 46 73 164 483 509 610 1068 1074 1094 1113 1123 1147 1299 1323 1400 1479 1788 1937 
+then Pinhole_camera.txt 1 783 
+safe Pinhole_camera.txt 1 500 
+cover Pinhole_camera.txt 1 1961 
+metering Pinhole_camera.txt 1 1014 
+effects Pinhole_camera.txt 2 1142 1202 
+dickson Pinhole_camera.txt 1 344 
+optimal Pinhole_camera.txt 1 1288 
+not Pinhole_camera.txt 2 1386 1403 
+now Pinhole_camera.txt 1 1621 
+developments Pinhole_camera.txt 1 614 
+term Pinhole_camera.txt 1 292 
+several Pinhole_camera.txt 1 1924 
+2s Pinhole_camera.txt 1 1462 
+edit Pinhole_camera.txt 15 64 67 250 338 481 634 673 1055 1751 1968 2010 2068 2070 2073 2076 
+james Pinhole_camera.txt 1 302 
+porta Pinhole_camera.txt 1 148 
+sufficiently Pinhole_camera.txt 1 1226 
+roast Pinhole_camera.txt 1 1046 
+found Pinhole_camera.txt 3 83 259 300 
+side Pinhole_camera.txt 2 33 50 
+mean Pinhole_camera.txt 1 1387 
+700 Pinhole_camera.txt 1 109 
+idea Pinhole_camera.txt 1 276 
+related Pinhole_camera.txt 2 608 690 
+inverted Pinhole_camera.txt 1 45 
+pin-point Pinhole_camera.txt 2 365 416 
+used Pinhole_camera.txt 8 129 498 517 570 599 750 999 1038 
+entering Pinhole_camera.txt 3 825 1184 1794 
+exceeded Pinhole_camera.txt 1 1874 
+wavelength Pinhole_camera.txt 3 1328 1336 1548 
+special Pinhole_camera.txt 1 636 
+out Pinhole_camera.txt 1 1359 
+large Pinhole_camera.txt 2 1569 1858 
+reused Pinhole_camera.txt 1 956 
+container Pinhole_camera.txt 1 802 
+factors Pinhole_camera.txt 1 1410 
+cameras Pinhole_camera.txt 9 592 609 643 694 835 923 945 1042 1985 
+manually Pinhole_camera.txt 1 1950 
+projected Pinhole_camera.txt 5 490 1073 1093 1117 1906 
+increase Pinhole_camera.txt 1 975 
+replacing Pinhole_camera.txt 2 476 929 
+50/0.5 Pinhole_camera.txt 1 1847 
+formula Pinhole_camera.txt 2 1309 1615 
+cause Pinhole_camera.txt 1 1199 
+sliding Pinhole_camera.txt 1 841 
+stereoscope Pinhole_camera.txt 1 265 
+linear Pinhole_camera.txt 1 1892 
+mechanisms Pinhole_camera.txt 1 968 
+given Pinhole_camera.txt 2 1610 1665 
+free Pinhole_camera.txt 1 1024 
+standard Pinhole_camera.txt 1 1332 
+recordings Pinhole_camera.txt 1 392 
+imaging Pinhole_camera.txt 1 1815 
+uncover Pinhole_camera.txt 1 1963 
+estimate Pinhole_camera.txt 1 1742 
+wanted Pinhole_camera.txt 1 384 
+enormous Pinhole_camera.txt 1 974 
+e.g Pinhole_camera.txt 1 1043 
+dubbed Pinhole_camera.txt 1 441 
+david Pinhole_camera.txt 1 269 
+motion Pinhole_camera.txt 1 1432 
+length Pinhole_camera.txt 9 1318 1478 1531 1653 1672 1718 1771 1819 1841 
+produce Pinhole_camera.txt 3 1139 1223 1933 
+place Pinhole_camera.txt 2 359 1001 
+wrote Pinhole_camera.txt 1 149 
+petzval Pinhole_camera.txt 2 1296 1744 
+home-made Pinhole_camera.txt 1 675 
+onto Pinhole_camera.txt 3 165 491 827 
+top Pinhole_camera.txt 1 1769 
+first Pinhole_camera.txt 4 214 252 346 1292 
+there Pinhole_camera.txt 1 1778 
+light-tight Pinhole_camera.txt 2 717 790 
+features Pinhole_camera.txt 1 637 
+variables Pinhole_camera.txt 1 1522 
+scene Pinhole_camera.txt 1 37 
+one Pinhole_camera.txt 6 32 287 723 984 1232 1885 
+industrially Pinhole_camera.txt 1 1211 
+enlarged Pinhole_camera.txt 1 413 
+telephoto Pinhole_camera.txt 1 912 
+quality Pinhole_camera.txt 1 1228 
+between Pinhole_camera.txt 3 849 1089 1657 
+size Pinhole_camera.txt 7 373 1054 1077 1129 1305 1424 1936 
+passes Pinhole_camera.txt 1 38 
+little Pinhole_camera.txt 1 217 
+sheet Pinhole_camera.txt 2 779 1239 
+hydrant Pinhole_camera.txt 1 1754 
+lens Pinhole_camera.txt 7 15 184 200 447 931 947 1004 
+system Pinhole_camera.txt 1 1977 
+construct Pinhole_camera.txt 1 1040 
+plastic Pinhole_camera.txt 1 684 
+their Pinhole_camera.txt 1 379 
+2 Pinhole_camera.txt 1 1732 
+frankes Pinhole_camera.txt 1 618 
+wrapped Pinhole_camera.txt 1 681 
+circa Pinhole_camera.txt 2 89 96 
+exposures Pinhole_camera.txt 4 1864 1904 1905 1931 
+shell Pinhole_camera.txt 1 371 
+way Pinhole_camera.txt 1 1029 
+mostly Pinhole_camera.txt 1 133 
+that Pinhole_camera.txt 5 206 437 1104 1388 1399 
+1/100 Pinhole_camera.txt 1 1083 
+non-focusing Pinhole_camera.txt 1 1974 
+needle Pinhole_camera.txt 2 764 1282 
+took Pinhole_camera.txt 1 358 
+optical Pinhole_camera.txt 3 77 1390 1976 
+corresponded Pinhole_camera.txt 1 377 
+photographic Pinhole_camera.txt 10 225 407 526 529 710 731 829 1230 1767 1911 
+than Pinhole_camera.txt 1 1188 
+inventor Pinhole_camera.txt 2 268 341 
+distance Pinhole_camera.txt 9 848 1088 1319 1351 1406 1414 1480 1656 1809 
+photograph Pinhole_camera.txt 1 1451 
+perfectly Pinhole_camera.txt 1 1195 
+double Pinhole_camera.txt 1 650 
+hampi Pinhole_camera.txt 1 120 
+typically Pinhole_camera.txt 2 1552 1914 
+likely Pinhole_camera.txt 1 1789 
+recording Pinhole_camera.txt 1 396 
+determined Pinhole_camera.txt 1 1306 
+were Pinhole_camera.txt 3 324 412 418 
+1925 Pinhole_camera.txt 1 458 
+and Pinhole_camera.txt 44 42 92 140 167 219 282 314 319 334 355 362 402 459 584 625 689 725 852 870 895 917 948 965 1015 1019 1021 1091 1143 1203 1325 1431 1499 1515 1529 1545 1570 1602 1620 1644 1660 1679 1836 1962 1993 
+1.5 Pinhole_camera.txt 1 1579 
+modern Pinhole_camera.txt 1 1909 
+winding Pinhole_camera.txt 1 967 
+have Pinhole_camera.txt 3 951 1036 1843 
+seen Pinhole_camera.txt 1 1590 
+camerasmaintaining Pinhole_camera.txt 1 959 
+demonstration Pinhole_camera.txt 1 103 
+any Pinhole_camera.txt 1 821 
+contents Pinhole_camera.txt 1 62 
+angle Pinhole_camera.txt 3 861 891 915 
+built Pinhole_camera.txt 1 640 
+once Pinhole_camera.txt 1 1870 
+also Pinhole_camera.txt 5 575 871 925 1589 2067 
+subjects Pinhole_camera.txt 1 309 
+take Pinhole_camera.txt 2 649 660 
+which Pinhole_camera.txt 2 54 1171 
+attempted Pinhole_camera.txt 1 1293 
+interior Pinhole_camera.txt 1 811 
+crispest Pinhole_camera.txt 1 1298 
+lectures Pinhole_camera.txt 1 306 
+multiple Pinhole_camera.txt 3 654 1983 1999 
+trace Pinhole_camera.txt 1 507 
+opposite Pinhole_camera.txt 2 49 535 
+sewing Pinhole_camera.txt 1 763 
+phonograph Pinhole_camera.txt 1 380 
+far-field Pinhole_camera.txt 1 1613 
+hydrostatics Pinhole_camera.txt 1 312 
+significant Pinhole_camera.txt 1 1140 
+device Pinhole_camera.txt 1 213 
+extremely Pinhole_camera.txt 2 1134 1206 
+observation Pinhole_camera.txt 1 501 
+failure Pinhole_camera.txt 1 1869 
+mobile Pinhole_camera.txt 1 212 
+clear Pinhole_camera.txt 2 397 1146 
+sometimes Pinhole_camera.txt 2 598 2023 
+metal Pinhole_camera.txt 1 1244 
+artistic Pinhole_camera.txt 1 572 
+physics Pinhole_camera.txt 1 1506 
+away Pinhole_camera.txt 1 904 
+fitted Pinhole_camera.txt 1 444 
+quantity Pinhole_camera.txt 1 1535 
+thomas Pinhole_camera.txt 1 353 
+selection Pinhole_camera.txt 1 1051 
+phenomenon Pinhole_camera.txt 2 78 2009 
+intensity Pinhole_camera.txt 1 1898 
+rings Pinhole_camera.txt 1 2058 
+pinhead Pinhole_camera.txt 1 627 
+focusing Pinhole_camera.txt 1 949 
+relation Pinhole_camera.txt 1 1723 
+shoe Pinhole_camera.txt 1 1763 
+carefully Pinhole_camera.txt 1 1274 
+ccds Pinhole_camera.txt 1 594 
+fine Pinhole_camera.txt 1 1257 
+emulsion Pinhole_camera.txt 1 408 
+categories Pinhole_camera.txt 1 2077 
+ratio Pinhole_camera.txt 1 875 
+dividing Pinhole_camera.txt 1 1807 
+holder Pinhole_camera.txt 1 843 
+should Pinhole_camera.txt 2 1081 1344 
+only Pinhole_camera.txt 1 284 
+black Pinhole_camera.txt 2 683 818 
+circle Pinhole_camera.txt 1 1118 
+photographs Pinhole_camera.txt 2 366 417 
+plate Pinhole_camera.txt 1 1703 
+his Pinhole_camera.txt 5 153 356 461 472 1556 
+above Pinhole_camera.txt 1 1745 
+notation Pinhole_camera.txt 1 1854 
+wide Pinhole_camera.txt 1 890 
+spurious Pinhole_camera.txt 1 1586 
+f-stop Pinhole_camera.txt 1 874 
+photography Pinhole_camera.txt 11 249 257 336 453 524 545 563 568 590 633 1033 
+de Pinhole_camera.txt 1 321 
+watch Pinhole_camera.txt 1 143 
+film/paper Pinhole_camera.txt 1 1896 
+shown Pinhole_camera.txt 1 1616 
+during Pinhole_camera.txt 1 2042 
+conjunction Pinhole_camera.txt 1 1987 
+exhibiting Pinhole_camera.txt 1 454 
+aluminum Pinhole_camera.txt 2 776 1254 
+pneumatics Pinhole_camera.txt 1 313 
+lengthy Pinhole_camera.txt 1 1944 
+yield Pinhole_camera.txt 1 1345 
+irregularities Pinhole_camera.txt 1 1198 
+optimally Pinhole_camera.txt 1 1075 
+experiments Pinhole_camera.txt 3 337 347 473 
+common Pinhole_camera.txt 1 541 
+including Pinhole_camera.txt 1 271 
+naturalis Pinhole_camera.txt 1 155 
+tent Pinhole_camera.txt 1 218 
+where Pinhole_camera.txt 2 1310 1537 
+obscura Pinhole_camera.txt 6 60 66 70 197 242 246 
+view Pinhole_camera.txt 3 863 894 916 
+f-number Pinhole_camera.txt 5 977 1748 1799 1845 1859 
+tree Pinhole_camera.txt 1 2030 
+sensitivity Pinhole_camera.txt 1 1995 
+deconvolution Pinhole_camera.txt 1 2006 
+0.332 Pinhole_camera.txt 1 1374 
+depends Pinhole_camera.txt 1 1402 
+computer Pinhole_camera.txt 1 2005 
+radius Pinhole_camera.txt 4 1524 1541 1582 1688 
+descriptions Pinhole_camera.txt 1 81 
+operated Pinhole_camera.txt 1 1951 
+optimum Pinhole_camera.txt 2 1346 1728 
+best Pinhole_camera.txt 1 1192 
+creating Pinhole_camera.txt 1 1275 
+closer Pinhole_camera.txt 1 882 
+project Pinhole_camera.txt 1 162 
+detect Pinhole_camera.txt 1 607 
+brewster Pinhole_camera.txt 1 270 
+pictures Pinhole_camera.txt 5 351 398 411 430 661 
+light-proof Pinhole_camera.txt 1 25 
+wikipedia Pinhole_camera.txt 1 2 
+materials Pinhole_camera.txt 1 1035 
+behind Pinhole_camera.txt 1 792 
+simplest Pinhole_camera.txt 1 707 
+geometric Pinhole_camera.txt 1 1571 
+reading Pinhole_camera.txt 1 2075 
+crookes Pinhole_camera.txt 1 318 
+ability Pinhole_camera.txt 2 647 658 
+nature Pinhole_camera.txt 2 137 465 
+confusion Pinhole_camera.txt 1 1120 
+screen Pinhole_camera.txt 4 479 494 521 833 
+subject Pinhole_camera.txt 1 1435 
+however Pinhole_camera.txt 3 175 1137 1998 
+yellow-green Pinhole_camera.txt 1 1341 
+article Pinhole_camera.txt 1 1970 
+estanave Pinhole_camera.txt 1 449 
+limits Pinhole_camera.txt 1 1096 
+region Pinhole_camera.txt 1 1631 
+according Pinhole_camera.txt 1 339 
+0.236 Pinhole_camera.txt 1 1363 
+became Pinhole_camera.txt 1 201 
+context Pinhole_camera.txt 1 296 
+safely Pinhole_camera.txt 1 142 
+lenses Pinhole_camera.txt 1 281 
+adjusted Pinhole_camera.txt 1 857 
+cm Pinhole_camera.txt 1 1369 
+point Pinhole_camera.txt 1 1060 
+reasons Pinhole_camera.txt 1 573 
+period Pinhole_camera.txt 1 557 
+hollow Pinhole_camera.txt 1 2057 
+adaptation Pinhole_camera.txt 1 237 
+drilled Pinhole_camera.txt 1 760 
+ad Pinhole_camera.txt 2 100 110 
+unusual Pinhole_camera.txt 1 1034 
+publishing Pinhole_camera.txt 1 460 
+second Pinhole_camera.txt 1 1877 
+source Pinhole_camera.txt 1 1430 
+celluloid Pinhole_camera.txt 1 432 
+create Pinhole_camera.txt 1 2033 
+due Pinhole_camera.txt 3 1148 1790 1855 
+tiny Pinhole_camera.txt 1 19 
+much Pinhole_camera.txt 1 1922 
+degrees Pinhole_camera.txt 1 1190 
+500 Pinhole_camera.txt 1 90 
+obtained Pinhole_camera.txt 1 1301 
+enable Pinhole_camera.txt 1 1510 
+corresponding Pinhole_camera.txt 1 1339 
+fire Pinhole_camera.txt 1 1753 
+sunshine Pinhole_camera.txt 1 992 
+requires Pinhole_camera.txt 1 1942 
+crescents Pinhole_camera.txt 1 2048 
+corner Pinhole_camera.txt 1 1785 
+external Pinhole_camera.txt 1 2071 
+sound Pinhole_camera.txt 1 391 
+laser Pinhole_camera.txt 1 1216 
+abandoned Pinhole_camera.txt 1 420 
+developing Pinhole_camera.txt 1 691 
+single Pinhole_camera.txt 1 1706 
+slr Pinhole_camera.txt 2 1007 1012 
+will Pinhole_camera.txt 5 886 908 1109 1865 2032 
+while Pinhole_camera.txt 1 978 
+error Pinhole_camera.txt 1 1020 
+aid Pinhole_camera.txt 2 174 205 
+eclipses Pinhole_camera.txt 2 145 504 
+vignetting Pinhole_camera.txt 1 1156 
+della Pinhole_camera.txt 1 147 
+cylinder Pinhole_camera.txt 2 376 381 
+kinetograph Pinhole_camera.txt 1 442 
+century Pinhole_camera.txt 2 194 233 
+characteristics Pinhole_camera.txt 1 629 
+is Pinhole_camera.txt 37 9 55 74 111 258 514 546 564 569 782 817 1022 1026 1125 1173 1194 1234 1300 1312 1316 1326 1373 1380 1539 1546 1568 1577 1588 1600 1609 1626 1648 1664 1683 1697 1711 1779 
+thus Pinhole_camera.txt 1 1994 
+it Pinhole_camera.txt 4 513 616 1090 1172 
+surface Pinhole_camera.txt 2 534 1103 
+punched Pinhole_camera.txt 2 758 1174 
+in Pinhole_camera.txt 48 31 84 113 119 130 150 152 191 215 221 230 260 294 301 310 395 421 457 463 662 682 705 722 888 910 933 940 976 990 1000 1111 1170 1204 1365 1481 1504 1560 1591 1617 1629 1694 1712 1782 1852 1891 1986 2049 2059 
+increased Pinhole_camera.txt 1 1997 
+result Pinhole_camera.txt 5 456 887 909 971 1110 
+capture Pinhole_camera.txt 1 548 
+damaged Pinhole_camera.txt 1 953 
+since Pinhole_camera.txt 1 1197 
+trial Pinhole_camera.txt 1 1018 
+lengths Pinhole_camera.txt 1 1517 
+s Pinhole_camera.txt 5 1536 1538 1668 1710 1725 
+same Pinhole_camera.txt 4 178 981 1128 1935 
+surveillance Pinhole_camera.txt 1 601 
+shorter Pinhole_camera.txt 1 897 
+inch Pinhole_camera.txt 1 1354 
+constructed Pinhole_camera.txt 2 838 927 
+composition Pinhole_camera.txt 1 1016 
+difficult Pinhole_camera.txt 1 605 
+breakdown Pinhole_camera.txt 1 1890 
+experimented Pinhole_camera.txt 1 450 
+strips Pinhole_camera.txt 1 434 
+see Pinhole_camera.txt 1 2066 
+effect Pinhole_camera.txt 4 61 107 127 2021 
+photographers Pinhole_camera.txt 1 327 
+viewing Pinhole_camera.txt 2 497 832 
+moving Pinhole_camera.txt 5 350 388 429 879 900 
+purpose Pinhole_camera.txt 1 704 
+infinite Pinhole_camera.txt 2 1382 1394 
+light-sensitive Pinhole_camera.txt 1 1910 
+hinge Pinhole_camera.txt 1 747 
+focal Pinhole_camera.txt 9 1317 1477 1516 1530 1652 1671 1717 1818 1840 
+pupils Pinhole_camera.txt 1 581 
+dark Pinhole_camera.txt 1 131 
+reflection Pinhole_camera.txt 1 822 
+older Pinhole_camera.txt 1 288 
+variety Pinhole_camera.txt 1 1512 
+wedged Pinhole_camera.txt 1 733 
+thought Pinhole_camera.txt 1 1980 
+without Pinhole_camera.txt 3 13 280 518 
+experimental Pinhole_camera.txt 1 1736 
+the Pinhole_camera.txt 187 40 48 52 58 68 85 93 105 116 126 136 163 177 180 192 195 224 231 239 251 261 264 272 275 291 295 330 345 372 375 387 403 406 410 414 423 435 439 477 482 508 533 537 549 552 587 622 626 646 657 669 679 699 709 737 754 786 789 797 810 824 828 847 850 853 860 865 872 877 880 884 901 906 930 960 963 973 980 1003 1061 1063 1065 1067 1070 1072 1076 1079 1087 1092 1105 1116 1122 1127 1131 1150 1159 1162 1165 1168 1176 1179 1182 1191 1262 1265 1268 1271 1287 1297 1308 1327 1370 1376 1393 1413 1416 1419 1422 1425 1428 1434 1466 1470 1482 1486 1490 1505 1534 1540 1543 1547 1550 1561 1564 1566 1574 1581 1584 1592 1596 1598 1606 1612 1618 1624 1630 1638 1641 1645 1651 1655 1658 1661 1673 1676 1680 1687 1690 1692 1708 1715 1720 1722 1735 1741 1747 1770 1773 1783 1787 1795 1798 1801 1808 1811 1814 1817 1821 1824 1857 1889 1895 1934 1964 2037 2050 2060 
+drawing Pinhole_camera.txt 2 173 204 
+researchers Pinhole_camera.txt 1 357 
+left Pinhole_camera.txt 2 680 1565 
+spherical Pinhole_camera.txt 1 665 
+they Pinhole_camera.txt 2 383 603 
+less Pinhole_camera.txt 2 1085 1145 
+when Pinhole_camera.txt 2 409 1650 
+young Pinhole_camera.txt 1 1484 
+rooms Pinhole_camera.txt 1 132 
+speed Pinhole_camera.txt 1 401 
+adding Pinhole_camera.txt 1 1989 
+cut Pinhole_camera.txt 1 795 
+farther Pinhole_camera.txt 1 903 
+photographer Pinhole_camera.txt 1 700 
+surfaces Pinhole_camera.txt 1 2041 
+simple Pinhole_camera.txt 1 11 
+book Pinhole_camera.txt 2 263 305 
+combine Pinhole_camera.txt 1 386 
+projects Pinhole_camera.txt 1 43 
+usage Pinhole_camera.txt 1 480 
+coded Pinhole_camera.txt 2 1966 1971 
+has Pinhole_camera.txt 1 1873 
+photographed Pinhole_camera.txt 1 1755 
+pin-hole Pinhole_camera.txt 2 286 293 
+around Pinhole_camera.txt 1 360 
+wiveleslie Pinhole_camera.txt 1 322 
+early Pinhole_camera.txt 4 79 229 247 326 
+increases Pinhole_camera.txt 1 1622 
+five Pinhole_camera.txt 1 1917 
+30 Pinhole_camera.txt 1 1881 
+using Pinhole_camera.txt 6 157 653 761 1302 1457 1902 
+bit Pinhole_camera.txt 1 768 
+translucent Pinhole_camera.txt 2 493 520 
+coarseness Pinhole_camera.txt 1 404 
+d Pinhole_camera.txt 2 1311 1731 
+kennedy Pinhole_camera.txt 1 343 
+1558 Pinhole_camera.txt 1 151 
+arose Pinhole_camera.txt 1 394 
+pinspeck Pinhole_camera.txt 1 623 
+50 Pinhole_camera.txt 1 1838 
+shutter Pinhole_camera.txt 3 753 964 1947 
+benefit Pinhole_camera.txt 1 1214 
+continue Pinhole_camera.txt 1 471 
+yields Pinhole_camera.txt 1 1726 
+martin Pinhole_camera.txt 1 1049 
+popular Pinhole_camera.txt 2 203 1028 
+leaves Pinhole_camera.txt 1 2031 
+works Pinhole_camera.txt 1 1358 
+obstruct Pinhole_camera.txt 1 1181 
+because Pinhole_camera.txt 4 602 1115 1175 1938 
+often Pinhole_camera.txt 2 516 1866 
+exposed Pinhole_camera.txt 1 1765 
+fresnel Pinhole_camera.txt 2 1636 1701 
+scottish Pinhole_camera.txt 1 267 
+back Pinhole_camera.txt 1 845 
+calculated Pinhole_camera.txt 1 1805 
+convex Pinhole_camera.txt 1 159 
+images Pinhole_camera.txt 6 389 440 651 2000 2012 2035 
+tutorial Pinhole_camera.txt 1 1503 
+sized Pinhole_camera.txt 1 1281 
+for Pinhole_camera.txt 15 495 499 522 571 576 600 701 1229 1331 1348 1367 1826 1878 1883 1888 
+phenomenal Pinhole_camera.txt 1 400 
+avoid Pinhole_camera.txt 1 820 
+centre Pinhole_camera.txt 1 1266 
+recorded Pinhole_camera.txt 1 438 
+1856 Pinhole_camera.txt 1 262 
+does Pinhole_camera.txt 1 1385 
+temple Pinhole_camera.txt 1 118 
+be Pinhole_camera.txt 16 489 639 696 749 757 804 837 856 868 926 955 998 1082 1804 1949 1979 
+object Pinhole_camera.txt 1 1405 
+assembly Pinhole_camera.txt 2 932 950 
+bc Pinhole_camera.txt 2 91 98 
+300 Pinhole_camera.txt 1 97 
+equivalent Pinhole_camera.txt 1 1698 
+annular Pinhole_camera.txt 1 2064 
+conventional Pinhole_camera.txt 2 935 1853 
+1930 Pinhole_camera.txt 1 467 
+bottom-right Pinhole_camera.txt 1 1784 
+2/3 Pinhole_camera.txt 1 1685 
+by Pinhole_camera.txt 20 266 352 652 667 698 928 1017 1048 1294 1307 1526 1533 1611 1666 1756 1806 1820 1901 1988 2029 
+on Pinhole_camera.txt 13 47 307 368 431 510 532 678 1005 1404 1408 1766 1907 2039 
+about Pinhole_camera.txt 7 156 176 583 1553 1578 1684 1875 
+would Pinhole_camera.txt 1 1842 
+anything Pinhole_camera.txt 1 1186 
+of Pinhole_camera.txt 85 51 104 138 182 186 238 255 274 290 297 374 405 484 502 543 551 558 562 589 630 715 728 742 772 788 812 823 862 864 876 893 962 972 1002 1052 1078 1086 1119 1153 1161 1167 1178 1209 1225 1240 1264 1267 1285 1329 1337 1352 1378 1396 1427 1433 1440 1461 1465 1469 1476 1489 1496 1513 1542 1549 1583 1632 1686 1689 1719 1743 1772 1786 1800 1823 1846 1860 1894 1899 1957 1981 2013 2036 2052 2062 
+oatmeal Pinhole_camera.txt 1 801 
+practical Pinhole_camera.txt 1 102 
+widefield Pinhole_camera.txt 1 619 
+introduced Pinhole_camera.txt 2 190 427 
+slightly Pinhole_camera.txt 3 1643 1678 1739 
+or Pinhole_camera.txt 24 71 505 528 613 656 664 730 734 759 765 774 777 831 844 913 995 1084 1243 1251 1436 1635 1848 1880 2056 
+thinner Pinhole_camera.txt 1 1102 
+material Pinhole_camera.txt 5 830 1169 1210 1269 1959 
+into Pinhole_camera.txt 4 210 641 736 806 
+within Pinhole_camera.txt 1 1095 
+integral Pinhole_camera.txt 2 335 452 
+appropriate Pinhole_camera.txt 1 1371 
+right Pinhole_camera.txt 1 1597 
+references Pinhole_camera.txt 1 2069 
+been Pinhole_camera.txt 2 952 1037 
+range Pinhole_camera.txt 1 1915 
+diameters Pinhole_camera.txt 1 1514 
+fast Pinhole_camera.txt 1 988 
+measured Pinhole_camera.txt 1 1485 
+mozi Pinhole_camera.txt 1 87 
+long Pinhole_camera.txt 1 556 
+start Pinhole_camera.txt 1 1236 
+homemade Pinhole_camera.txt 1 994 
+exposure Pinhole_camera.txt 9 898 920 982 1444 1459 1750 1774 1871 1945 
+was Pinhole_camera.txt 9 128 189 207 234 299 425 443 1291 1775 
+naturally Pinhole_camera.txt 1 2025 
+function Pinhole_camera.txt 2 1475 1495 
+form Pinhole_camera.txt 1 708 
+fraunhofer Pinhole_camera.txt 1 1603 
+forming Pinhole_camera.txt 1 611 
+but Pinhole_camera.txt 7 16 512 574 1069 1218 1383 1407 
+reduce Pinhole_camera.txt 1 1261 
+coded-aperture Pinhole_camera.txt 1 1975 
+taken Pinhole_camera.txt 2 1445 1452 
+construction Pinhole_camera.txt 1 672 
+solar Pinhole_camera.txt 3 144 503 2016 
+with Pinhole_camera.txt 29 17 27 123 198 283 378 390 399 428 445 451 474 525 586 593 719 744 839 937 1009 1100 1237 1278 1446 1453 1704 1830 1926 1953 
+he Pinhole_camera.txt 2 468 1518 
+directed Pinhole_camera.txt 1 348 
+made Pinhole_camera.txt 4 805 1627 1760 1956 
+consist Pinhole_camera.txt 1 714 
+inside Pinhole_camera.txt 1 787 
+up Pinhole_camera.txt 2 1056 1919 
+devices Pinhole_camera.txt 2 596 612 
+placed Pinhole_camera.txt 2 367 531 
+limit Pinhole_camera.txt 8 1468 1488 1528 1576 1594 1608 1647 1682 
+piece Pinhole_camera.txt 4 727 771 781 1208 
+called Pinhole_camera.txt 1 565 
+mechanics Pinhole_camera.txt 1 311 
+later Pinhole_camera.txt 2 220 1500 
+600 Pinhole_camera.txt 1 99 
+shim Pinhole_camera.txt 1 1242 
+defined Pinhole_camera.txt 1 1519 
+certain Pinhole_camera.txt 1 1059 
+mirror Pinhole_camera.txt 2 160 628 
+an Pinhole_camera.txt 13 44 236 813 1006 1133 1205 1247 1438 1458 1727 1844 2043 2063 
+as Pinhole_camera.txt 19 57 171 227 277 382 645 751 957 969 1130 1158 1412 1473 1493 1623 1921 1923 1952 1982 
+replica Pinhole_camera.txt 2 2011 2034 
+at Pinhole_camera.txt 5 115 349 1121 1185 1669 
+partly Pinhole_camera.txt 1 1508 
+film Pinhole_camera.txt 16 333 433 527 670 729 842 851 881 902 966 989 1334 1420 1662 1879 1912 
+1893 Pinhole_camera.txt 1 422 
+nm Pinhole_camera.txt 2 1343 1555 
+no Pinhole_camera.txt 1 1389 
+handmade Pinhole_camera.txt 1 697 
+40 Pinhole_camera.txt 1 1776 
+field Pinhole_camera.txt 3 892 1379 1397 
+tin Pinhole_camera.txt 1 1252 
+other Pinhole_camera.txt 5 325 635 738 1187 1409 
+5 Pinhole_camera.txt 1 1368 
+alhazen Pinhole_camera.txt 1 124 
+digital Pinhole_camera.txt 1 1011 
+dimmer Pinhole_camera.txt 1 1071 
+formed Pinhole_camera.txt 2 2002 2028 
+calculating Pinhole_camera.txt 2 1286 1746 
+problems Pinhole_camera.txt 2 95 393 
+canvas Pinhole_camera.txt 1 1437 
+william Pinhole_camera.txt 3 317 320 342 
+foil Pinhole_camera.txt 2 1253 1255 
+additionally Pinhole_camera.txt 1 1155 
+brass Pinhole_camera.txt 2 778 1241 
+sides Pinhole_camera.txt 1 1177 
+eugne Pinhole_camera.txt 1 448 
+longer Pinhole_camera.txt 3 919 1903 1930 
+practically Pinhole_camera.txt 1 1126 
+resolution Pinhole_camera.txt 9 1114 1467 1487 1527 1575 1587 1607 1646 1681 
+apertures Pinhole_camera.txt 1 1967 
+required Pinhole_camera.txt 1 1749 
+diffraction Pinhole_camera.txt 6 1141 1201 1604 1614 1634 1637 
+depth Pinhole_camera.txt 2 1377 1395 
+1764 Pinhole_camera.txt 1 304 
+time Pinhole_camera.txt 7 179 559 899 921 983 1460 1872 
+solargraphy Pinhole_camera.txt 1 566 
+near-field Pinhole_camera.txt 1 1633 
+starting Pinhole_camera.txt 1 122 
+normalized Pinhole_camera.txt 1 1521 

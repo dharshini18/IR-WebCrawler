@@ -1,0 +1,181 @@
+atmosphere Solar_transition_region.txt 2 69 106 
+phenomenon Solar_transition_region.txt 1 232 
+ceases Solar_transition_region.txt 1 200 
+being Solar_transition_region.txt 1 275 
+radiation Solar_transition_region.txt 2 149 156 
+magnetic Solar_transition_region.txt 2 52 369 
+images Solar_transition_region.txt 1 325 
+evaporation Solar_transition_region.txt 1 259 
+bright Solar_transition_region.txt 3 28 41 49 
+ionize Solar_transition_region.txt 1 194 
+consists Solar_transition_region.txt 1 308 
+its Solar_transition_region.txt 1 142 
+causes Solar_transition_region.txt 1 190 
+reduced Solar_transition_region.txt 1 282 
+rapidly Solar_transition_region.txt 2 219 286 
+catastrophe Solar_transition_region.txt 3 237 292 316 
+field Solar_transition_region.txt 1 370 
+fuv-dark Solar_transition_region.txt 1 350 
+to Solar_transition_region.txt 12 160 193 201 204 220 244 247 255 262 277 293 302 
+only Solar_transition_region.txt 1 135 
+critical Solar_transition_region.txt 1 115 
+black Solar_transition_region.txt 1 154 
+categories Solar_transition_region.txt 2 379 381 
+analogous Solar_transition_region.txt 1 243 
+thousands Solar_transition_region.txt 1 183 
+over Solar_transition_region.txt 1 30 
+equilibrium Solar_transition_region.txt 1 176 
+fuv Solar_transition_region.txt 2 324 338 
+around Solar_transition_region.txt 3 43 294 313 
+very Solar_transition_region.txt 2 150 285 
+familiar Solar_transition_region.txt 1 265 
+couple Solar_transition_region.txt 1 202 
+material Solar_transition_region.txt 6 125 146 279 284 310 360 
+dark Solar_transition_region.txt 2 15 336 
+ionized Solar_transition_region.txt 1 137 
+ultraviolet Solar_transition_region.txt 1 85 
+nearly Solar_transition_region.txt 2 212 221 
+not Solar_transition_region.txt 1 210 
+using Solar_transition_region.txt 1 80 
+condition Solar_transition_region.txt 1 166 
+cool Solar_transition_region.txt 1 127 
+continuum Solar_transition_region.txt 2 164 207 
+edit Solar_transition_region.txt 3 373 375 378 
+fully Solar_transition_region.txt 1 195 
+spacecraft Solar_transition_region.txt 1 329 
+large Solar_transition_region.txt 1 48 
+unrelated Solar_transition_region.txt 1 96 
+physicists Solar_transition_region.txt 1 253 
+refer Solar_transition_region.txt 1 254 
+where Solar_transition_region.txt 1 174 
+chromosphere Solar_transition_region.txt 2 72 173 
+because Solar_transition_region.txt 2 89 111 
+direct Solar_transition_region.txt 1 158 
+past Solar_transition_region.txt 1 289 
+see Solar_transition_region.txt 1 371 
+are Solar_transition_region.txt 1 51 
+loops Solar_transition_region.txt 1 53 
+wavelength Solar_transition_region.txt 1 7 
+transitions Solar_transition_region.txt 1 99 
+said Solar_transition_region.txt 1 301 
+space Solar_transition_region.txt 1 79 
+sun Solar_transition_region.txt 3 35 67 342 
+wikipedia Solar_transition_region.txt 1 3 
+enough Solar_transition_region.txt 1 128 
+fog Solar_transition_region.txt 1 29 
+above Solar_transition_region.txt 1 334 
+between Solar_transition_region.txt 1 70 
+tens Solar_transition_region.txt 1 181 
+thin Solar_transition_region.txt 1 40 
+body Solar_transition_region.txt 1 155 
+condensed Solar_transition_region.txt 2 304 359 
+retains Solar_transition_region.txt 1 139 
+jumps Solar_transition_region.txt 1 217 
+million Solar_transition_region.txt 1 223 
+ionization Solar_transition_region.txt 1 108 
+formation Solar_transition_region.txt 1 119 
+i.e Solar_transition_region.txt 1 138 
+coupling Solar_transition_region.txt 1 159 
+by Solar_transition_region.txt 3 148 260 367 
+both Solar_transition_region.txt 1 153 
+of Solar_transition_region.txt 16 9 33 65 94 103 117 120 141 171 182 184 227 273 309 340 358 
+region Solar_transition_region.txt 6 2 22 61 64 307 319 
+transition Solar_transition_region.txt 6 1 21 60 242 306 318 
+steam Solar_transition_region.txt 1 249 
+s Solar_transition_region.txt 1 68 
+coronal Solar_transition_region.txt 2 278 365 
+slightly Solar_transition_region.txt 2 187 281 
+or Solar_transition_region.txt 1 312 
+via Solar_transition_region.txt 1 152 
+features Solar_transition_region.txt 1 351 
+point Solar_transition_region.txt 1 198 
+image Solar_transition_region.txt 1 8 
+within Solar_transition_region.txt 1 132 
+one Solar_transition_region.txt 3 140 222 295 
+down Solar_transition_region.txt 1 288 
+visible Solar_transition_region.txt 3 24 77 321 
+references Solar_transition_region.txt 1 374 
+suspended Solar_transition_region.txt 1 363 
+radiate Solar_transition_region.txt 1 211 
+from Solar_transition_region.txt 2 78 326 
+temperature Solar_transition_region.txt 6 177 216 226 236 291 315 
+lyman Solar_transition_region.txt 2 163 206 
+top Solar_transition_region.txt 1 170 
+faint Solar_transition_region.txt 1 332 
+two Solar_transition_region.txt 1 143 
+telescopes Solar_transition_region.txt 1 81 
+few Solar_transition_region.txt 1 180 
+low Solar_transition_region.txt 1 27 
+hundred Solar_transition_region.txt 1 296 
+structures Solar_transition_region.txt 1 50 
+more Solar_transition_region.txt 2 188 264 
+that Solar_transition_region.txt 3 82 129 361 
+nimbus Solar_transition_region.txt 3 42 333 347 
+thousand Solar_transition_region.txt 1 297 
+but Solar_transition_region.txt 1 97 
+site Solar_transition_region.txt 1 93 
+heat Solar_transition_region.txt 2 189 274 
+part Solar_transition_region.txt 1 116 
+external Solar_transition_region.txt 1 376 
+solar Solar_transition_region.txt 9 0 11 56 59 105 124 229 252 354 
+surrounds Solar_transition_region.txt 1 349 
+kelvins Solar_transition_region.txt 1 185 
+with Solar_transition_region.txt 2 13 267 
+hidden Solar_transition_region.txt 1 380 
+partially Solar_transition_region.txt 1 136 
+applied Solar_transition_region.txt 1 276 
+applying Solar_transition_region.txt 1 186 
+consist Solar_transition_region.txt 1 357 
+this Solar_transition_region.txt 3 165 231 314 
+prominence Solar_transition_region.txt 2 16 45 
+up Solar_transition_region.txt 1 218 
+can Solar_transition_region.txt 1 83 
+called Solar_transition_region.txt 1 234 
+and Solar_transition_region.txt 7 36 73 157 208 238 299 343 
+19.5 Solar_transition_region.txt 1 5 
+links Solar_transition_region.txt 1 377 
+process Solar_transition_region.txt 2 257 266 
+likewise Solar_transition_region.txt 1 269 
+is Solar_transition_region.txt 16 23 62 76 87 91 109 113 126 134 178 233 239 280 300 320 362 
+in Solar_transition_region.txt 5 54 100 250 322 337 
+it Solar_transition_region.txt 6 75 86 90 112 133 199 
+surface Solar_transition_region.txt 2 32 339 
+effectively Solar_transition_region.txt 2 151 214 
+as Solar_transition_region.txt 6 25 38 213 258 330 353 
+itself Solar_transition_region.txt 1 46 
+at Solar_transition_region.txt 5 17 168 196 311 364 
+have Solar_transition_region.txt 1 303 
+sense Solar_transition_region.txt 1 84 
+helium Solar_transition_region.txt 4 107 131 162 192 
+if Solar_transition_region.txt 1 270 
+nm Solar_transition_region.txt 1 6 
+cools Solar_transition_region.txt 2 147 287 
+perhaps Solar_transition_region.txt 1 37 
+altitudes Solar_transition_region.txt 1 366 
+make Solar_transition_region.txt 1 248 
+holds Solar_transition_region.txt 1 167 
+when Solar_transition_region.txt 1 123 
+amount Solar_transition_region.txt 1 272 
+also Solar_transition_region.txt 2 348 372 
+which Solar_transition_region.txt 2 197 356 
+several Solar_transition_region.txt 1 95 
+trace Solar_transition_region.txt 2 4 328 
+kelvin Solar_transition_region.txt 2 224 298 
+prominences Solar_transition_region.txt 1 355 
+far-ultraviolet Solar_transition_region.txt 1 323 
+boiling Solar_transition_region.txt 1 245 
+important Solar_transition_region.txt 3 88 98 110 
+water Solar_transition_region.txt 2 246 268 
+phase Solar_transition_region.txt 1 241 
+such Solar_transition_region.txt 1 352 
+a Solar_transition_region.txt 8 14 26 39 63 114 179 240 331 
+lower Solar_transition_region.txt 1 18 
+center Solar_transition_region.txt 1 19 
+well Solar_transition_region.txt 1 203 
+corona Solar_transition_region.txt 6 12 57 74 122 230 345 
+electrons Solar_transition_region.txt 1 144 
+does Solar_transition_region.txt 1 209 
+analogy Solar_transition_region.txt 1 261 
+the Solar_transition_region.txt 40 10 20 31 34 44 47 55 58 66 71 92 101 104 118 121 130 145 161 169 172 175 191 205 215 225 228 235 256 263 271 283 290 305 317 327 335 341 344 346 368 
+physics Solar_transition_region.txt 1 102 
+fact Solar_transition_region.txt 1 251 

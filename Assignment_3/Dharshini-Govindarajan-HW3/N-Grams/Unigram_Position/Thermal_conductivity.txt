@@ -1,0 +1,990 @@
+nanocomposites Thermal_conductivity.txt 1 3197 
+limited Thermal_conductivity.txt 5 293 1878 1912 2034 4105 
+monte Thermal_conductivity.txt 1 3108 
+arrives Thermal_conductivity.txt 1 3044 
+sharply Thermal_conductivity.txt 1 1228 
+melts Thermal_conductivity.txt 1 1385 
+consolidated Thermal_conductivity.txt 1 366 
+magnetic Thermal_conductivity.txt 2 1612 1618 
+ceramic Thermal_conductivity.txt 1 1635 
+resistance Thermal_conductivity.txt 17 207 253 520 692 780 785 787 801 840 846 878 909 918 946 957 3002 3025 
+four Thermal_conductivity.txt 1 2670 
+ice Thermal_conductivity.txt 1 1375 
+skin Thermal_conductivity.txt 1 1722 
+expressions Thermal_conductivity.txt 3 1819 3445 3449 
+denotes Thermal_conductivity.txt 1 2658 
+wiedemannfranz Thermal_conductivity.txt 2 1177 1539 
+consider Thermal_conductivity.txt 1 3691 
+whose Thermal_conductivity.txt 2 2621 3179 
+inverse Thermal_conductivity.txt 1 688 
+depend Thermal_conductivity.txt 2 105 3240 
+zone Thermal_conductivity.txt 2 2887 2937 
+one-dimensional Thermal_conductivity.txt 1 3546 
+interactions Thermal_conductivity.txt 1 3701 
+containing Thermal_conductivity.txt 1 3422 
+to Thermal_conductivity.txt 76 24 182 214 261 282 420 424 480 565 634 699 778 794 890 947 986 1037 1088 1111 1172 1186 1248 1275 1328 1349 1354 1386 1419 1537 1571 1599 1689 1760 1781 1917 1923 2052 2083 2152 2180 2362 2398 2547 2773 2904 2914 2916 2921 2949 2964 2974 3003 3041 3073 3100 3112 3153 3161 3164 3192 3224 3257 3308 3316 3400 3416 3426 3450 3459 3465 3529 3635 3754 3773 4073 4114 
+charge Thermal_conductivity.txt 2 2129 3234 
+those Thermal_conductivity.txt 1 2491 
+caused Thermal_conductivity.txt 1 2121 
+analogous Thermal_conductivity.txt 2 260 698 
+include Thermal_conductivity.txt 2 1682 2718 
+dramatically Thermal_conductivity.txt 1 1712 
+straightforward Thermal_conductivity.txt 1 337 
+outside Thermal_conductivity.txt 2 1091 2883 
+very Thermal_conductivity.txt 2 1334 4126 
+frequencies Thermal_conductivity.txt 2 2061 2072 
+tends Thermal_conductivity.txt 1 4113 
+amorphous Thermal_conductivity.txt 1 1859 
+wave Thermal_conductivity.txt 7 1954 2020 2382 2812 2822 2924 2993 
+inhibiting Thermal_conductivity.txt 1 1713 
+electron Thermal_conductivity.txt 3 3282 3286 3299 
+additional Thermal_conductivity.txt 1 2115 
+sensitivity Thermal_conductivity.txt 1 3252 
+stays Thermal_conductivity.txt 2 1215 2541 
+difference Thermal_conductivity.txt 6 664 1046 1132 3651 3802 3849 
+exact Thermal_conductivity.txt 3 2286 2345 2360 
+conserved Thermal_conductivity.txt 3 2891 2944 3017 
+molar Thermal_conductivity.txt 2 3919 3928 
+dominate Thermal_conductivity.txt 1 2096 
+53795386 Thermal_conductivity.txt 1 2302 
+level Thermal_conductivity.txt 1 1813 
+anisotropy Thermal_conductivity.txt 3 50 1400 1504 
+1996 Thermal_conductivity.txt 1 3272 
+list Thermal_conductivity.txt 3 8 379 410 
+klemens Thermal_conductivity.txt 1 2283 
+correct Thermal_conductivity.txt 1 1818 
+large Thermal_conductivity.txt 3 1670 2869 4090 
+solid Thermal_conductivity.txt 1 1348 
+vector Thermal_conductivity.txt 5 2796 2813 2834 2925 2994 
+phase Thermal_conductivity.txt 4 1338 1345 1977 3130 
+small Thermal_conductivity.txt 4 2048 2158 3653 4134 
+biological Thermal_conductivity.txt 1 1701 
+equation Thermal_conductivity.txt 11 2511 2590 2599 2648 2663 3083 3322 3402 3408 3412 3452 
+clothes Thermal_conductivity.txt 1 1699 
+concluded Thermal_conductivity.txt 1 2257 
+prevent Thermal_conductivity.txt 1 1676 
+smaller Thermal_conductivity.txt 1 1238 
+excited Thermal_conductivity.txt 1 2873 
+feathers Thermal_conductivity.txt 1 1707 
+direct Thermal_conductivity.txt 1 3536 
+sign Thermal_conductivity.txt 1 3510 
+approximation Thermal_conductivity.txt 4 2556 2595 3051 3088 
+rate Thermal_conductivity.txt 3 60 644 3643 
+design Thermal_conductivity.txt 2 857 882 
+value Thermal_conductivity.txt 4 563 811 2440 2569 
+further Thermal_conductivity.txt 2 3154 4152 
+0.56 Thermal_conductivity.txt 1 1393 
+n Thermal_conductivity.txt 4 2435 2441 2472 3777 
+carlo Thermal_conductivity.txt 1 3109 
+even Thermal_conductivity.txt 1 2367 
+what Thermal_conductivity.txt 1 913 
+sub Thermal_conductivity.txt 1 973 
+moments Thermal_conductivity.txt 1 3380 
+section Thermal_conductivity.txt 4 573 3676 3950 3961 
+axes Thermal_conductivity.txt 1 1417 
+while Thermal_conductivity.txt 1 3218 
+expressed Thermal_conductivity.txt 2 150 501 
+thickness Thermal_conductivity.txt 5 233 512 600 621 738 
+current Thermal_conductivity.txt 2 1550 2445 
+goes Thermal_conductivity.txt 1 3458 
+conduct Thermal_conductivity.txt 1 25 
+international Thermal_conductivity.txt 1 125 
+net Thermal_conductivity.txt 2 2997 3740 
+increasing Thermal_conductivity.txt 3 1203 2259 2315 
+temperatures Thermal_conductivity.txt 14 401 1220 1286 1298 1310 1313 1336 2336 2687 2799 3028 3614 4014 4099 
+coefficient Thermal_conductivity.txt 4 719 759 1065 3399 
+dichlorodifluoromethane Thermal_conductivity.txt 1 1741 
+sinks Thermal_conductivity.txt 1 944 
+degree Thermal_conductivity.txt 1 1141 
+respectively Thermal_conductivity.txt 2 3267 3623 
+component Thermal_conductivity.txt 2 899 958 
+atoms Thermal_conductivity.txt 7 1604 1834 2318 3126 3668 3727 3736 
+water Thermal_conductivity.txt 2 1389 1718 
+tracks Thermal_conductivity.txt 1 1533 
+protection Thermal_conductivity.txt 1 1497 
+operating Thermal_conductivity.txt 1 400 
+sink Thermal_conductivity.txt 4 85 867 922 961 
+relaxation Thermal_conductivity.txt 10 1938 1958 1968 1990 2036 2311 2554 2593 3086 3265 
+i.e Thermal_conductivity.txt 3 486 808 2128 
+along Thermal_conductivity.txt 6 981 1414 1424 1447 1454 1461 
+equations Thermal_conductivity.txt 4 572 2364 2672 3469 
+imperfections Thermal_conductivity.txt 1 4050 
+change Thermal_conductivity.txt 6 329 1075 1232 1346 1360 1368 
+monatomic Thermal_conductivity.txt 1 3982 
+substance Thermal_conductivity.txt 1 1107 
+rigorously Thermal_conductivity.txt 1 3931 
+32 Thermal_conductivity.txt 1 1451 
+k Thermal_conductivity.txt 24 16 140 506 540 617 632 675 1260 1263 1381 1395 1446 1453 1803 2689 2801 3481 3519 3654 3827 3894 3971 4077 4132 
+polystyrene Thermal_conductivity.txt 2 466 1686 
+reason Thermal_conductivity.txt 1 3248 
+35 Thermal_conductivity.txt 1 1444 
+scatter Thermal_conductivity.txt 1 3165 
+amount Thermal_conductivity.txt 4 3232 3495 3554 3784 
+calculations Thermal_conductivity.txt 1 3865 
+resulting Thermal_conductivity.txt 1 3008 
+usually Thermal_conductivity.txt 4 352 500 1237 3078 
+complicated Thermal_conductivity.txt 1 2343 
+chang Thermal_conductivity.txt 1 1897 
+suitable Thermal_conductivity.txt 1 290 
+makes Thermal_conductivity.txt 2 199 333 
+involves Thermal_conductivity.txt 1 859 
+transmittance Thermal_conductivity.txt 3 211 966 972 
+diameter Thermal_conductivity.txt 1 2933 
+via Thermal_conductivity.txt 1 1610 
+useful Thermal_conductivity.txt 1 320 
+scales Thermal_conductivity.txt 1 1919 
+7436-7439 Thermal_conductivity.txt 1 3275 
+increased Thermal_conductivity.txt 1 1573 
+highly Thermal_conductivity.txt 1 1582 
+conditions Thermal_conductivity.txt 3 2517 2579 2603 
+decrease Thermal_conductivity.txt 2 2068 4115 
+coatings Thermal_conductivity.txt 1 1636 
+total Thermal_conductivity.txt 4 845 956 2189 2521 
+u-values Thermal_conductivity.txt 1 228 
+unit Thermal_conductivity.txt 14 591 652 662 727 731 1069 1126 1129 2182 2276 2321 3503 3810 3912 
+use Thermal_conductivity.txt 5 189 200 437 580 3101 
+additive Thermal_conductivity.txt 1 828 
+astm Thermal_conductivity.txt 1 636 
+working Thermal_conductivity.txt 1 873 
+0 Thermal_conductivity.txt 3 1383 1397 3520 
+motivate Thermal_conductivity.txt 1 3679 
+two Thermal_conductivity.txt 7 835 1211 1841 2169 2416 2463 3854 
+properties Thermal_conductivity.txt 1 301 
+process Thermal_conductivity.txt 2 2840 2894 
+sample Thermal_conductivity.txt 1 3336 
+going Thermal_conductivity.txt 2 3728 3737 
+therefore Thermal_conductivity.txt 13 545 1661 2108 2149 2537 2701 2742 2771 2851 2945 3035 3461 4135 
+6 Thermal_conductivity.txt 1 852 
+d Thermal_conductivity.txt 2 3571 3573 
+conservation Thermal_conductivity.txt 1 2804 
+type Thermal_conductivity.txt 1 2043 
+until Thermal_conductivity.txt 1 2069 
+more Thermal_conductivity.txt 5 569 2561 2571 3212 3930 
+lowering Thermal_conductivity.txt 1 809 
+one-dimension Thermal_conductivity.txt 1 3880 
+diamond Thermal_conductivity.txt 2 1591 1791 
+1/3 Thermal_conductivity.txt 1 3872 
+substances Thermal_conductivity.txt 2 1403 2087 
+composite Thermal_conductivity.txt 2 1006 1501 
+freedom Thermal_conductivity.txt 1 2194 
+c168-15 Thermal_conductivity.txt 1 637 
+glass Thermal_conductivity.txt 2 1904 2085 
+transient Thermal_conductivity.txt 1 313 
+well-engineered Thermal_conductivity.txt 1 348 
+particular Thermal_conductivity.txt 6 517 597 684 737 2385 2475 
+known Thermal_conductivity.txt 7 715 762 1003 1624 2410 2856 3057 
+93 Thermal_conductivity.txt 1 3273 
+hold Thermal_conductivity.txt 2 1566 2715 
+effort Thermal_conductivity.txt 1 479 
+anharmonic Thermal_conductivity.txt 3 2340 2419 2691 
+must Thermal_conductivity.txt 1 949 
+states Thermal_conductivity.txt 5 2512 2558 3210 3263 3302 
+animals Thermal_conductivity.txt 1 1721 
+f Thermal_conductivity.txt 2 175 678 
+this Thermal_conductivity.txt 18 332 1364 1874 2042 2232 2304 2513 2662 2971 3054 3168 3244 3533 3675 3830 3993 4025 4069 
+science Thermal_conductivity.txt 1 389 
+setup Thermal_conductivity.txt 1 350 
+regions Thermal_conductivity.txt 1 2488 
+values Thermal_conductivity.txt 3 6 370 373 
+can Thermal_conductivity.txt 17 527 887 1409 1792 2162 2255 2442 2467 2608 2843 2862 3022 3294 3602 3655 3904 4141 
+v Thermal_conductivity.txt 10 704 709 1946 1982 1987 2454 3782 3926 3979 3988 
+following Thermal_conductivity.txt 10 885 1175 2451 2589 2647 3050 3321 3352 3407 3444 
+making Thermal_conductivity.txt 1 3048 
+drops Thermal_conductivity.txt 1 3315 
+example Thermal_conductivity.txt 3 896 1362 1433 
+atoms/primitive Thermal_conductivity.txt 1 2275 
+links Thermal_conductivity.txt 1 4156 
+stated Thermal_conductivity.txt 2 2448 2644 
+calculation Thermal_conductivity.txt 1 883 
+thermally Thermal_conductivity.txt 2 1588 3580 
+in Thermal_conductivity.txt 80 31 40 61 68 83 123 134 151 164 171 187 190 222 257 265 315 387 408 449 471 475 477 502 590 606 630 726 744 754 766 824 874 993 1040 1057 1090 1118 1165 1190 1195 1229 1233 1270 1369 1421 1528 1580 1656 1775 1857 2035 2092 2288 2319 2334 2348 2449 2473 2534 2645 2735 3089 3116 3303 3471 3482 3511 3544 3576 3587 3660 3674 3686 3766 3806 3875 3939 4024 4068 4118 
+0.5 Thermal_conductivity.txt 2 911 952 
+purposes Thermal_conductivity.txt 1 489 
+fouriers Thermal_conductivity.txt 1 35 
+high Thermal_conductivity.txt 17 71 77 399 427 441 1281 1309 1732 1756 1762 2335 2738 3027 3527 4007 4096 4127 
+collision Thermal_conductivity.txt 1 3948 
+purity Thermal_conductivity.txt 1 1787 
+sense Thermal_conductivity.txt 2 551 768 
+isotopically Thermal_conductivity.txt 1 1789 
+hydrogen Thermal_conductivity.txt 2 1727 4003 
+occur Thermal_conductivity.txt 4 823 2864 2917 3074 
+absolute Thermal_conductivity.txt 2 1188 1222 
+end Thermal_conductivity.txt 3 1137 3618 3622 
+decaying Thermal_conductivity.txt 1 2919 
+carriers Thermal_conductivity.txt 3 1577 3229 3390 
+rather Thermal_conductivity.txt 1 3222 
+divided Thermal_conductivity.txt 1 355 
+means Thermal_conductivity.txt 1 3012 
+chemical Thermal_conductivity.txt 1 1337 
+how Thermal_conductivity.txt 1 1833 
+varies Thermal_conductivity.txt 1 1475 
+thermodynamics Thermal_conductivity.txt 1 3543 
+pure Thermal_conductivity.txt 4 1196 1251 1790 4081 
+atoms/unit Thermal_conductivity.txt 1 2208 
+axis Thermal_conductivity.txt 1 1428 
+parameter Thermal_conductivity.txt 1 3480 
+deteriorate Thermal_conductivity.txt 1 2390 
+buildings Thermal_conductivity.txt 1 1085 
+ft Thermal_conductivity.txt 2 174 677 
+may Thermal_conductivity.txt 5 104 772 1359 1512 2828 
+warm Thermal_conductivity.txt 1 1698 
+space Thermal_conductivity.txt 1 1494 
+confirmed Thermal_conductivity.txt 1 1892 
+applications Thermal_conductivity.txt 1 86 
+plane Thermal_conductivity.txt 1 2381 
+deviates Thermal_conductivity.txt 2 2436 2565 
+waves Thermal_conductivity.txt 3 1853 1972 1981 
+temperature-dependent Thermal_conductivity.txt 1 4060 
+such Thermal_conductivity.txt 10 203 444 464 1023 1404 1703 1725 1737 4083 4137 
+law Thermal_conductivity.txt 5 36 1178 1540 3060 3541 
+response Thermal_conductivity.txt 1 1087 
+types Thermal_conductivity.txt 1 358 
+a Thermal_conductivity.txt 102 22 45 58 102 219 255 258 278 292 308 347 510 514 594 612 619 651 655 661 702 708 713 730 734 792 839 854 869 898 907 968 979 1021 1025 1029 1035 1044 1062 1080 1084 1106 1123 1254 1341 1344 1425 1431 1638 1669 1750 1754 1794 1828 1850 1952 1974 2109 2133 2242 2249 2266 2380 2384 2403 2443 2474 2505 2553 2665 2831 2902 2923 2955 2996 3001 3037 3094 3246 3280 3340 3355 3526 3530 3535 3550 3561 3565 3579 3595 3672 3692 3704 3720 3731 3763 3838 3937 3940 3981 4000 4006 4078 
+short Thermal_conductivity.txt 1 3118 
+natural Thermal_conductivity.txt 1 1700 
+third Thermal_conductivity.txt 1 969 
+light Thermal_conductivity.txt 2 1723 2045 
+q Thermal_conductivity.txt 12 2207 2224 2240 2780 2810 2819 2820 2870 2879 2881 2926 3548 
+si Thermal_conductivity.txt 1 129 
+so Thermal_conductivity.txt 16 3152 3516 3575 3790 3804 3829 3873 3914 3951 3966 3992 4057 4075 4091 4109 4128 
+progressively Thermal_conductivity.txt 1 2391 
+correlation Thermal_conductivity.txt 2 1558 1944 
+definitions Thermal_conductivity.txt 4 426 490 534 547 
+subsequently Thermal_conductivity.txt 1 2081 
+brillouin Thermal_conductivity.txt 3 2089 2886 2936 
+integrated Thermal_conductivity.txt 1 3604 
+bracketed Thermal_conductivity.txt 1 3420 
+produces Thermal_conductivity.txt 1 900 
+mainly Thermal_conductivity.txt 2 1273 4019 
+primitive Thermal_conductivity.txt 1 2204 
+cross Thermal_conductivity.txt 3 3760 3949 3960 
+thermal Thermal_conductivity.txt 120 0 4 10 12 42 65 72 78 91 96 99 111 115 120 130 144 167 184 216 252 273 284 300 375 381 383 412 442 462 495 498 519 525 538 554 581 615 640 680 691 693 752 764 784 786 800 806 821 877 908 917 945 971 976 998 1007 1018 1053 1077 1086 1095 1100 1149 1157 1179 1213 1225 1241 1256 1301 1319 1357 1370 1376 1390 1399 1412 1436 1473 1496 1523 1530 1562 1621 1640 1733 1744 1757 1797 1821 1825 1847 2004 2155 2291 2332 2423 2428 2444 2582 2606 2703 2743 3006 3024 3075 3114 3157 3202 3213 3255 3287 3313 3327 3476 3684 4008 4093 4111 4145 
+experiments Thermal_conductivity.txt 1 1895 
+including Thermal_conductivity.txt 1 244 
+differs Thermal_conductivity.txt 2 2489 2782 
+cold Thermal_conductivity.txt 4 1484 3216 3621 3717 
+its Thermal_conductivity.txt 9 602 740 810 1136 1600 1761 2387 2567 2572 
+industries Thermal_conductivity.txt 1 195 
+25 Thermal_conductivity.txt 1 935 
+clo Thermal_conductivity.txt 1 249 
+group Thermal_conductivity.txt 2 1949 2141 
+m/s Thermal_conductivity.txt 1 3823 
+directional Thermal_conductivity.txt 1 1943 
+chosen Thermal_conductivity.txt 1 3515 
+hot Thermal_conductivity.txt 3 3205 3617 3712 
+decreases Thermal_conductivity.txt 5 1201 1227 1321 2278 2313 
+writing Thermal_conductivity.txt 1 3053 
+better Thermal_conductivity.txt 1 1460 
+absence Thermal_conductivity.txt 1 1658 
+degrees Thermal_conductivity.txt 1 2192 
+systems Thermal_conductivity.txt 1 2683 
+insulator Thermal_conductivity.txt 1 1596 
+hidden Thermal_conductivity.txt 1 4159 
+main Thermal_conductivity.txt 3 271 377 782 
+split Thermal_conductivity.txt 1 2164 
+then Thermal_conductivity.txt 6 937 950 963 1956 2324 3645 
+non Thermal_conductivity.txt 1 1406 
+good Thermal_conductivity.txt 1 1654 
+affected Thermal_conductivity.txt 1 3141 
+greater Thermal_conductivity.txt 7 1976 1985 2002 2104 2110 2243 3251 
+integral Thermal_conductivity.txt 1 3639 
+material Thermal_conductivity.txt 17 23 103 220 256 326 388 425 515 656 771 793 1022 1036 1052 1104 1342 3305 
+regarding Thermal_conductivity.txt 1 2016 
+introduce Thermal_conductivity.txt 2 3162 3636 
+scaling Thermal_conductivity.txt 1 2325 
+shuttle Thermal_conductivity.txt 1 1495 
+effects Thermal_conductivity.txt 3 1710 2341 2420 
+they Thermal_conductivity.txt 2 826 2102 
+half Thermal_conductivity.txt 1 2930 
+not Thermal_conductivity.txt 11 328 1293 1513 1547 1565 2353 2694 2714 2942 3016 3239 
+now Thermal_conductivity.txt 1 3429 
+hexafluoride Thermal_conductivity.txt 1 1749 
+silver Thermal_conductivity.txt 3 454 1585 4086 
+dielectric Thermal_conductivity.txt 2 1862 2295 
+possess Thermal_conductivity.txt 1 2950 
+term Thermal_conductivity.txt 3 970 1010 3421 
+finite Thermal_conductivity.txt 1 3009 
+dirac Thermal_conductivity.txt 1 3437 
+p.g Thermal_conductivity.txt 1 2282 
+meter-kelvin Thermal_conductivity.txt 1 137 
+edit Thermal_conductivity.txt 25 122 270 371 491 576 781 967 1016 1144 1151 1339 1401 1527 1614 1630 1788 1809 1854 3204 3470 3666 4149 4151 4154 4157 
+always Thermal_conductivity.txt 2 3518 3523 
+l Thermal_conductivity.txt 8 148 159 622 628 3625 3857 4088 4129 
+sufficiently Thermal_conductivity.txt 1 2868 
+right-hand Thermal_conductivity.txt 1 3818 
+vibrations Thermal_conductivity.txt 2 1277 1869 
+mode Thermal_conductivity.txt 2 1876 2161 
+each Thermal_conductivity.txt 4 286 837 2159 2674 
+acoustic Thermal_conductivity.txt 2 1884 2218 
+side Thermal_conductivity.txt 3 3710 3716 3819 
+mean Thermal_conductivity.txt 16 562 1289 1908 1928 1993 2631 2652 2697 2980 3031 3779 3860 3933 4028 4039 4101 
+heavy Thermal_conductivity.txt 1 1483 
+square Thermal_conductivity.txt 1 1071 
+significantly Thermal_conductivity.txt 2 1295 1795 
+exhaust Thermal_conductivity.txt 1 1631 
+generation Thermal_conductivity.txt 1 429 
+series Thermal_conductivity.txt 1 825 
+energy Thermal_conductivity.txt 20 428 1554 2105 2457 2806 2838 2849 2906 2951 2960 3209 3214 3226 3243 3258 3388 3722 3733 3743 3786 
+reduce Thermal_conductivity.txt 2 1642 3155 
+r-value Thermal_conductivity.txt 1 206 
+related Thermal_conductivity.txt 4 181 213 395 423 
+carry Thermal_conductivity.txt 3 3147 3211 3237 
+conductance Thermal_conductivity.txt 15 463 526 575 582 624 641 681 696 707 807 977 999 1008 1563 2744 
+frequency Thermal_conductivity.txt 4 2025 2058 2066 2076 
+measurement Thermal_conductivity.txt 2 269 275 
+nanoparticles/structures Thermal_conductivity.txt 1 3200 
+wavelength Thermal_conductivity.txt 5 2023 2031 3119 3137 3145 
+special Thermal_conductivity.txt 1 2506 
+out Thermal_conductivity.txt 1 2494 
+shown Thermal_conductivity.txt 1 407 
+exchangers Thermal_conductivity.txt 1 451 
+exponential Thermal_conductivity.txt 1 2985 
+factors Thermal_conductivity.txt 1 1143 
+gradient Thermal_conductivity.txt 5 1524 3333 3508 3569 3707 
+electronic Thermal_conductivity.txt 4 3201 3254 3312 3326 
+since Thermal_conductivity.txt 1 1970 
+rev Thermal_conductivity.txt 1 2299 
+detailed Thermal_conductivity.txt 1 3863 
+research Thermal_conductivity.txt 1 390 
+particles Thermal_conductivity.txt 3 2049 3695 3758 
+collisions Thermal_conductivity.txt 1 3855 
+7 Thermal_conductivity.txt 1 2301 
+denoted Thermal_conductivity.txt 1 15 
+formula Thermal_conductivity.txt 2 886 3046 
+electronics Thermal_conductivity.txt 2 391 432 
+induced Thermal_conductivity.txt 1 659 
+cause Thermal_conductivity.txt 2 2468 3023 
+occurs Thermal_conductivity.txt 2 56 1373 
+shows Thermal_conductivity.txt 1 3996 
+numerical Thermal_conductivity.txt 2 3839 3869 
+branches Thermal_conductivity.txt 2 2172 2231 
+written Thermal_conductivity.txt 1 3350 
+derived Thermal_conductivity.txt 1 2284 
+electrically Thermal_conductivity.txt 1 1583 
+mechanisms Thermal_conductivity.txt 1 2464 
+given Thermal_conductivity.txt 8 511 870 1426 2909 3646 3886 3943 3990 
+free Thermal_conductivity.txt 15 1173 1290 1909 1929 1994 2632 2653 2698 2981 3032 3861 3934 4022 4040 4102 
+effect Thermal_conductivity.txt 3 1145 1153 1628 
+approaches Thermal_conductivity.txt 1 1843 
+carried Thermal_conductivity.txt 1 4018 
+proportionality Thermal_conductivity.txt 1 2287 
+x Thermal_conductivity.txt 4 3368 3385 3463 3574 
+estimate Thermal_conductivity.txt 1 891 
+generate Thermal_conductivity.txt 1 2965 
+btu/h Thermal_conductivity.txt 1 676 
+watts Thermal_conductivity.txt 2 135 1067 
+interaction Thermal_conductivity.txt 1 2692 
+elastic Thermal_conductivity.txt 3 1868 1881 2039 
+g Thermal_conductivity.txt 1 2835 
+could Thermal_conductivity.txt 2 2118 2376 
+times Thermal_conductivity.txt 1 1192 
+motion Thermal_conductivity.txt 2 2366 2372 
+length Thermal_conductivity.txt 9 158 1127 1918 1939 1959 1991 2037 3181 3628 
+atomically Thermal_conductivity.txt 1 1823 
+isotropic Thermal_conductivity.txt 2 2682 3473 
+w Thermal_conductivity.txt 5 138 508 631 902 1801 
+assumed Thermal_conductivity.txt 2 2519 2585 
+consequence Thermal_conductivity.txt 1 3537 
+copper Thermal_conductivity.txt 3 446 448 4085 
+simplifies Thermal_conductivity.txt 1 880 
+probability Thermal_conductivity.txt 3 2900 2969 3069 
+upper Thermal_conductivity.txt 1 3709 
+number Thermal_conductivity.txt 13 279 1671 2190 2202 2244 2273 2316 2434 2478 2526 2540 2564 3756 
+one Thermal_conductivity.txt 9 609 747 1119 1140 2166 2635 3043 3159 3293 
+pnas Thermal_conductivity.txt 1 3271 
+done Thermal_conductivity.txt 1 2306 
+defects Thermal_conductivity.txt 3 1332 1888 2725 
+directly Thermal_conductivity.txt 1 1934 
+umklapp Thermal_conductivity.txt 1 2858 
+insulation Thermal_conductivity.txt 6 97 224 393 488 1784 4146 
+array Thermal_conductivity.txt 1 1602 
+quality Thermal_conductivity.txt 3 1282 2739 2755 
+passes Thermal_conductivity.txt 2 589 725 
+differ Thermal_conductivity.txt 2 605 743 
+long Thermal_conductivity.txt 3 2030 3136 3144 
+temperature Thermal_conductivity.txt 44 107 163 305 323 544 557 607 663 745 926 933 1045 1074 1092 1134 1147 1155 1189 1204 1245 1249 1318 1442 2531 2612 2627 2640 2760 2976 3038 3065 3507 3528 3532 3568 3650 3706 3801 3848 3964 3968 4036 4053 4117 
+their Thermal_conductivity.txt 5 1783 2150 2289 3242 3291 
+interact Thermal_conductivity.txt 1 1838 
+micheline Thermal_conductivity.txt 1 2279 
+nonmetals Thermal_conductivity.txt 3 1164 1271 1304 
+system Thermal_conductivity.txt 6 126 1498 1632 1829 1837 1851 
+approximately Thermal_conductivity.txt 4 1184 1216 1306 1532 
+needed Thermal_conductivity.txt 2 353 2963 
+gas-filled Thermal_conductivity.txt 1 1673 
+2 Thermal_conductivity.txt 1 1259 
+rates Thermal_conductivity.txt 1 430 
+listed Thermal_conductivity.txt 1 548 
+composing Thermal_conductivity.txt 1 1835 
+show Thermal_conductivity.txt 1 3866 
+molecular Thermal_conductivity.txt 1 3105 
+structures Thermal_conductivity.txt 4 1502 2235 3163 3178 
+tog Thermal_conductivity.txt 1 246 
+gives Thermal_conductivity.txt 1 3888 
+fraction Thermal_conductivity.txt 2 2957 3149 
+that Thermal_conductivity.txt 34 346 516 588 683 724 769 1116 1372 1480 2139 2187 2234 2258 2309 2466 2481 2492 2559 2637 2678 2927 2961 3013 3185 3235 3277 3296 3415 3433 3456 3517 3661 3759 3867 
+exactly Thermal_conductivity.txt 1 1515 
+transverse Thermal_conductivity.txt 2 1980 2170 
+alumina Thermal_conductivity.txt 1 468 
+a-axis Thermal_conductivity.txt 1 1456 
+kelvins Thermal_conductivity.txt 2 1076 1191 
+than Thermal_conductivity.txt 9 67 1464 1590 1770 1979 1986 3184 3215 3734 
+coefficients Thermal_conductivity.txt 1 3348 
+ceramics Thermal_conductivity.txt 1 1905 
+steel Thermal_conductivity.txt 1 4140 
+10 Thermal_conductivity.txt 5 1262 1921 1924 2688 2800 
+b Thermal_conductivity.txt 1 2300 
+determines Thermal_conductivity.txt 1 2638 
+unfortunately Thermal_conductivity.txt 1 530 
+mahan Thermal_conductivity.txt 1 3268 
+double Thermal_conductivity.txt 1 1778 
+require Thermal_conductivity.txt 1 435 
+n-process Thermal_conductivity.txt 1 2898 
+see Thermal_conductivity.txt 6 7 447 570 3414 3455 4147 
+limiting Thermal_conductivity.txt 1 3095 
+r Thermal_conductivity.txt 1 226 
+assume Thermal_conductivity.txt 1 3432 
+were Thermal_conductivity.txt 3 1891 1911 2080 
+h Thermal_conductivity.txt 6 3549 3552 3591 3750 3768 3812 
+result Thermal_conductivity.txt 2 2666 3607 
+and Thermal_conductivity.txt 93 87 162 193 208 227 247 302 312 394 453 467 521 599 620 669 695 705 817 905 930 959 988 1000 1128 1163 1205 1239 1261 1441 1450 1499 1561 1649 1684 1692 1706 1728 1740 1766 1860 1898 1903 1988 2107 2148 2168 2239 2248 2281 2323 2355 2425 2536 2580 2600 2657 2676 2684 2700 2753 2769 2781 2807 2818 2861 2880 2892 3000 3005 3034 3052 3061 3135 3143 3198 3264 3269 3354 3501 3505 3566 3610 3619 3624 3702 3713 3798 3815 3898 3925 3958 4047 4130 
+resistivity Thermal_conductivity.txt 3 116 499 2704 
+j/s Thermal_conductivity.txt 2 3814 3828 
+1.0 Thermal_conductivity.txt 1 964 
+particle/m Thermal_conductivity.txt 1 3822 
+1973 Thermal_conductivity.txt 1 2303 
+spectrum Thermal_conductivity.txt 1 2404 
+randomly Thermal_conductivity.txt 1 3670 
+already Thermal_conductivity.txt 1 3832 
+electrochemical Thermal_conductivity.txt 1 3331 
+have Thermal_conductivity.txt 15 1253 1481 1731 1742 1793 1973 2103 2397 2905 2922 2948 3284 3425 3730 4005 
+seen Thermal_conductivity.txt 2 774 2186 
+1 Thermal_conductivity.txt 1 2225 
+bohr Thermal_conductivity.txt 1 3357 
+slab Thermal_conductivity.txt 1 1124 
+dynamics Thermal_conductivity.txt 1 3106 
+contents Thermal_conductivity.txt 1 117 
+relatively Thermal_conductivity.txt 1 1755 
+paths Thermal_conductivity.txt 1 1910 
+constructions Thermal_conductivity.txt 1 518 
+zero Thermal_conductivity.txt 7 1223 2528 3317 3338 3418 3428 3460 
+depending Thermal_conductivity.txt 1 297 
+convenient Thermal_conductivity.txt 1 3634 
+ideas Thermal_conductivity.txt 1 2253 
+admittance Thermal_conductivity.txt 5 765 1015 1019 1054 1078 
+polarization Thermal_conductivity.txt 1 2171 
+also Thermal_conductivity.txt 11 712 761 1552 2119 2542 2829 2844 2855 3770 3995 4148 
+internal Thermal_conductivity.txt 2 1914 2126 
+generalized Thermal_conductivity.txt 1 2082 
+which Thermal_conductivity.txt 16 178 250 1592 1675 2262 2408 2557 2711 2953 3042 3090 3176 3751 4034 4051 4067 
+performance Thermal_conductivity.txt 1 893 
+techniques Thermal_conductivity.txt 2 314 318 
+accuracy Thermal_conductivity.txt 1 2388 
+formulas Thermal_conductivity.txt 1 3395 
+insulated Thermal_conductivity.txt 2 1776 3581 
+unless Thermal_conductivity.txt 1 2875 
+electric Thermal_conductivity.txt 1 1549 
+opposite Thermal_conductivity.txt 3 603 741 1048 
+molecule Thermal_conductivity.txt 1 3938 
+impurities Thermal_conductivity.txt 2 4046 4124 
+most Thermal_conductivity.txt 2 361 2417 
+steady-state Thermal_conductivity.txt 3 311 317 2602 
+significant Thermal_conductivity.txt 2 2956 3148 
+watt Thermal_conductivity.txt 1 505 
+comparison Thermal_conductivity.txt 1 3877 
+measured Thermal_conductivity.txt 5 133 170 629 992 1056 
+model Thermal_conductivity.txt 1 3808 
+ka Thermal_conductivity.txt 1 627 
+isotopic Thermal_conductivity.txt 1 1786 
+especially Thermal_conductivity.txt 1 397 
+considered Thermal_conductivity.txt 2 417 567 
+neighboring Thermal_conductivity.txt 1 2487 
+calculated Thermal_conductivity.txt 2 529 625 
+sometimes Thermal_conductivity.txt 1 1002 
+steady Thermal_conductivity.txt 5 338 646 2515 2577 3589 
+argon Thermal_conductivity.txt 1 1765 
+phonons Thermal_conductivity.txt 24 1278 1611 1873 1885 1998 2015 2028 2091 2356 2407 2461 2480 2496 2504 2722 2827 2866 2947 2967 3120 3138 3146 3167 4108 
+orderly Thermal_conductivity.txt 1 1601 
+heating Thermal_conductivity.txt 1 1643 
+electrons Thermal_conductivity.txt 6 1174 1545 3206 3217 3236 4023 
+velocity Thermal_conductivity.txt 8 1950 1978 2021 2142 2459 3781 4029 4033 
+normally Thermal_conductivity.txt 1 1121 
+sum Thermal_conductivity.txt 1 2877 
+fact Thermal_conductivity.txt 1 3767 
+quantity Thermal_conductivity.txt 4 585 721 1113 4061 
+selection Thermal_conductivity.txt 1 861 
+insulators Thermal_conductivity.txt 2 1655 1702 
+rayleigh Thermal_conductivity.txt 1 2040 
+u-value Thermal_conductivity.txt 2 210 1011 
+delta Thermal_conductivity.txt 2 3438 3467 
+scattered Thermal_conductivity.txt 1 3123 
+longitudinal Thermal_conductivity.txt 4 1971 1997 2014 2167 
+roufosse Thermal_conductivity.txt 1 2280 
+euckens Thermal_conductivity.txt 1 3059 
+substituting Thermal_conductivity.txt 2 3392 3447 
+cell Thermal_conductivity.txt 3 2209 2277 2322 
+slow Thermal_conductivity.txt 1 481 
+based Thermal_conductivity.txt 3 1438 3110 3289 
+parameters Thermal_conductivity.txt 2 2327 3690 
+conduction Thermal_conductivity.txt 3 39 816 2100 
+state Thermal_conductivity.txt 6 339 647 2370 2516 2578 3590 
+negligible Thermal_conductivity.txt 1 3697 
+should Thermal_conductivity.txt 2 415 3769 
+analytic Thermal_conductivity.txt 1 3102 
+only Thermal_conductivity.txt 10 1548 2212 2430 2462 2707 2789 2863 3018 3837 4059 
+wood Thermal_conductivity.txt 1 1457 
+factor Thermal_conductivity.txt 6 2268 2636 3096 3840 3870 3893 
+quasimomentum Thermal_conductivity.txt 3 2776 2808 2940 
+sulfur Thermal_conductivity.txt 1 1748 
+local Thermal_conductivity.txt 1 2581 
+achieve Thermal_conductivity.txt 1 1708 
+equilibrium Thermal_conductivity.txt 3 2439 2568 2583 
+plate Thermal_conductivity.txt 3 595 613 735 
+above Thermal_conductivity.txt 1 3887 
+get Thermal_conductivity.txt 3 2587 3405 3442 
+dependent Thermal_conductivity.txt 1 230 
+liquid Thermal_conductivity.txt 3 1350 1353 1388 
+express Thermal_conductivity.txt 1 251 
+p Thermal_conductivity.txt 4 2199 2223 2238 3462 
+furnaces Thermal_conductivity.txt 1 476 
+methods Thermal_conductivity.txt 1 3111 
+conductive Thermal_conductivity.txt 3 1584 1589 1607 
+125 Thermal_conductivity.txt 1 928 
+closely Thermal_conductivity.txt 1 180 
+new Thermal_conductivity.txt 1 2966 
+15 Thermal_conductivity.txt 1 3274 
+styrofoam Thermal_conductivity.txt 1 1691 
+processes Thermal_conductivity.txt 8 1941 2620 2709 2717 2842 2853 2860 3021 
+calc.200,000 Thermal_conductivity.txt 1 1806 
+bar Thermal_conductivity.txt 3 356 3582 3631 
+showed Thermal_conductivity.txt 1 3276 
+fields Thermal_conductivity.txt 2 396 1619 
+summary Thermal_conductivity.txt 1 755 
+w/m Thermal_conductivity.txt 5 674 1380 1394 1445 1452 
+common Thermal_conductivity.txt 3 188 362 855 
+contain Thermal_conductivity.txt 1 2241 
+through Thermal_conductivity.txt 8 593 650 729 834 1122 2228 3560 3671 
+where Thermal_conductivity.txt 18 398 894 1471 1906 1963 2453 2649 2809 3323 3353 3366 3384 3434 3490 3608 3856 3915 3945 
+inside Thermal_conductivity.txt 2 2498 3334 
+w/c Thermal_conductivity.txt 1 635 
+alloyed Thermal_conductivity.txt 1 3129 
+btu Thermal_conductivity.txt 1 172 
+body Thermal_conductivity.txt 1 667 
+achieved Thermal_conductivity.txt 2 403 3170 
+undergoes Thermal_conductivity.txt 1 1343 
+mechanism Thermal_conductivity.txt 1 3175 
+glasses Thermal_conductivity.txt 1 1902 
+ends Thermal_conductivity.txt 1 3586 
+packet Thermal_conductivity.txt 1 1955 
+up Thermal_conductivity.txt 1 3738 
+resist Thermal_conductivity.txt 1 795 
+depends Thermal_conductivity.txt 3 542 2624 2745 
+radius Thermal_conductivity.txt 1 3358 
+are Thermal_conductivity.txt 37 80 93 179 186 229 277 319 402 406 469 532 697 827 1478 1652 1772 1815 1840 2214 2226 2357 2421 2518 2584 2821 2854 2872 3121 3139 3196 3349 3363 3378 3612 3963 4052 4133 
+all Thermal_conductivity.txt 2 3874 3876 
+close Thermal_conductivity.txt 1 3307 
+kinetic Thermal_conductivity.txt 2 3664 3864 
+conductivity Thermal_conductivity.txt 81 1 5 13 43 66 73 79 92 100 112 121 131 145 168 185 217 274 285 376 384 443 496 539 555 616 694 701 1096 1101 1150 1158 1168 1180 1194 1200 1214 1226 1235 1242 1257 1269 1302 1320 1358 1371 1377 1391 1437 1474 1526 1531 1535 1622 1641 1734 1745 1758 1798 1822 1826 1848 2005 2156 2292 2333 2429 2607 3076 3115 3158 3203 3220 3256 3288 3314 3328 3477 3685 4009 4094 4112 
+surfaces Thermal_conductivity.txt 1 668 
+capacity Thermal_conductivity.txt 9 1326 1764 2661 3794 3901 3910 3921 3954 4065 
+tensor Thermal_conductivity.txt 1 46 
+ways Thermal_conductivity.txt 2 281 3191 
+speed Thermal_conductivity.txt 1 2012 
+wikipedia Thermal_conductivity.txt 1 2 
+importance Thermal_conductivity.txt 1 1574 
+3 Thermal_conductivity.txt 5 842 848 850 2196 2222 
+determined Thermal_conductivity.txt 7 1831 2009 2610 2706 2764 3973 4043 
+various Thermal_conductivity.txt 1 357 
+between Thermal_conductivity.txt 6 310 665 1135 1258 1559 3853 
+non-metals Thermal_conductivity.txt 1 1581 
+boundary Thermal_conductivity.txt 1 1915 
+reading Thermal_conductivity.txt 1 4153 
+approach Thermal_conductivity.txt 2 1221 3098 
+across Thermal_conductivity.txt 1 1465 
+boltzmann Thermal_conductivity.txt 4 2510 2598 2912 3082 
+we Thermal_conductivity.txt 7 2586 3404 3413 3431 3454 3677 3845 
+terms Thermal_conductivity.txt 6 32 152 537 3424 3441 3687 
+ability Thermal_conductivity.txt 2 790 1033 
+vertical Thermal_conductivity.txt 1 3705 
+missing Thermal_conductivity.txt 1 3842 
+co-efficient Thermal_conductivity.txt 2 1093 1098 
+commercial Thermal_conductivity.txt 1 1901 
+interfaces Thermal_conductivity.txt 1 3195 
+points Thermal_conductivity.txt 2 2179 2882 
+however Thermal_conductivity.txt 3 638 1218 1555 
+incident Thermal_conductivity.txt 1 2816 
+windows Thermal_conductivity.txt 1 1780 
+interface Thermal_conductivity.txt 1 3173 
+article Thermal_conductivity.txt 4 272 378 783 2290 
+distribution Thermal_conductivity.txt 4 2111 2913 3227 3373 
+improve Thermal_conductivity.txt 1 1782 
+both Thermal_conductivity.txt 2 1858 3962 
+c Thermal_conductivity.txt 10 929 936 941 1384 1398 1805 3797 3916 3957 4066 
+reverse Thermal_conductivity.txt 1 2845 
+many Thermal_conductivity.txt 3 1250 1662 2084 
+region Thermal_conductivity.txt 3 2476 2485 2501 
+decay Thermal_conductivity.txt 3 2414 2497 2549 
+equal Thermal_conductivity.txt 1 1110 
+sensitive Thermal_conductivity.txt 1 1646 
+involve Thermal_conductivity.txt 1 2830 
+grain Thermal_conductivity.txt 1 1463 
+faces Thermal_conductivity.txt 3 604 742 1138 
+distinction Thermal_conductivity.txt 1 309 
+contribution Thermal_conductivity.txt 1 2151 
+expression Thermal_conductivity.txt 9 2330 2452 3485 3513 3601 3681 3881 3890 3994 
+experimental Thermal_conductivity.txt 3 349 369 372 
+otherwise Thermal_conductivity.txt 2 559 2939 
+exhibit Thermal_conductivity.txt 1 1410 
+cm Thermal_conductivity.txt 2 1922 1925 
+large-scale Thermal_conductivity.txt 1 1677 
+simple Thermal_conductivity.txt 2 1817 3663 
+effective Thermal_conductivity.txt 1 1937 
+cf Thermal_conductivity.txt 1 2269 
+simply Thermal_conductivity.txt 1 1666 
+right Thermal_conductivity.txt 1 3835 
+path Thermal_conductivity.txt 12 1291 1930 1995 2633 2654 2699 2982 3033 3862 3935 4041 4103 
+associated Thermal_conductivity.txt 2 1933 2215 
+crystalline Thermal_conductivity.txt 1 1861 
+100 Thermal_conductivity.txt 2 901 940 
+second Thermal_conductivity.txt 6 1120 3500 3540 3559 3745 3765 
+acoustical Thermal_conductivity.txt 1 2094 
+pq Thermal_conductivity.txt 1 2197 
+described Thermal_conductivity.txt 5 2264 2378 2400 2551 3079 
+raise Thermal_conductivity.txt 1 813 
+c/w Thermal_conductivity.txt 7 843 849 851 853 912 953 965 
+lattice Thermal_conductivity.txt 11 1276 1852 1872 1887 2134 2154 2178 2795 2833 2992 3156 
+due Thermal_conductivity.txt 10 419 985 1171 1274 1327 1418 1570 1598 1759 2546 
+been Thermal_conductivity.txt 1 1932 
+much Thermal_conductivity.txt 3 1975 1984 2001 
+stainless Thermal_conductivity.txt 1 4139 
+combined Thermal_conductivity.txt 1 3906 
+interest Thermal_conductivity.txt 1 2630 
+likewise Thermal_conductivity.txt 1 237 
+microscopic Thermal_conductivity.txt 1 3689 
+originates Thermal_conductivity.txt 2 2615 3062 
+low-frequency Thermal_conductivity.txt 1 2027 
+direction Thermal_conductivity.txt 4 1477 1508 1520 2847 
+describe Thermal_conductivity.txt 1 3113 
+resultant Thermal_conductivity.txt 1 2826 
+hard-core Thermal_conductivity.txt 1 3700 
+gas Thermal_conductivity.txt 8 1355 1752 3667 3693 3726 3852 3941 3983 
+implied Thermal_conductivity.txt 1 2138 
+representative Thermal_conductivity.txt 1 561 
+general Thermal_conductivity.txt 4 41 316 578 1557 
+diffuse Thermal_conductivity.txt 2 2482 2493 
+present Thermal_conductivity.txt 2 1506 3132 
+case Thermal_conductivity.txt 7 2351 2736 3547 3577 3662 4026 4070 
+exception Thermal_conductivity.txt 1 1747 
+fur Thermal_conductivity.txt 1 1705 
+reciprocal Thermal_conductivity.txt 8 109 493 523 750 804 2794 2832 2991 
+these Thermal_conductivity.txt 15 288 414 536 1681 1889 2144 2211 2252 2716 2841 2852 2946 3166 3194 3448 
+extruded Thermal_conductivity.txt 1 1685 
+expanded Thermal_conductivity.txt 1 1683 
+as Thermal_conductivity.txt 47 95 204 445 465 642 673 716 763 775 997 1004 1024 1061 1219 1322 1405 1518 1541 1625 1690 1695 1697 1704 1726 1738 1962 2101 2271 2347 2411 2447 2643 2779 2857 3010 3058 3339 3343 3351 3365 3521 3598 3658 3907 4055 4084 4138 
+evaluated Thermal_conductivity.txt 1 29 
+air Thermal_conductivity.txt 3 1648 1716 1771 
+will Thermal_conductivity.txt 6 812 1999 2006 2032 2067 3678 
+complexity Thermal_conductivity.txt 2 2261 2267 
+near Thermal_conductivity.txt 1 1719 
+suppose Thermal_conductivity.txt 1 923 
+freely Thermal_conductivity.txt 1 1542 
+property Thermal_conductivity.txt 4 20 47 53 524 
+taking Thermal_conductivity.txt 1 3319 
+u-process Thermal_conductivity.txt 2 2915 3072 
+aluminium Thermal_conductivity.txt 1 452 
+larger Thermal_conductivity.txt 1 2237 
+orientation Thermal_conductivity.txt 1 1440 
+almost Thermal_conductivity.txt 1 2075 
+characteristics Thermal_conductivity.txt 1 1785 
+is Thermal_conductivity.txt 139 18 28 44 113 132 146 169 289 307 345 351 359 385 497 556 583 626 686 711 751 760 788 802 847 914 927 934 939 962 991 1001 1012 1028 1055 1108 1159 1169 1183 1236 1272 1292 1305 1430 1505 1586 1593 1606 1623 1830 1864 1877 1947 1960 1965 1983 2050 2074 2137 2146 2157 2185 2195 2200 2263 2342 2352 2409 2455 2527 2532 2550 2634 2650 2664 2705 2763 2770 2777 2788 2811 2890 2895 2908 2928 2954 2962 2972 3015 3056 3077 3093 3099 3131 3169 3182 3221 3245 3306 3324 3337 3369 3386 3435 3478 3491 3514 3534 3570 3592 3596 3626 3633 3644 3652 3711 3719 3746 3752 3813 3821 3831 3841 3858 3871 3917 3942 3946 3972 3989 4017 4030 4035 4042 4062 4071 4089 4095 4104 4125 
+thus Thermal_conductivity.txt 6 829 1206 1240 1299 2003 2759 
+it Thermal_conductivity.txt 12 27 990 1466 1605 2136 2184 2254 2787 3011 3457 3632 3820 
+surface Thermal_conductivity.txt 4 2731 2758 3562 3673 
+according Thermal_conductivity.txt 1 1536 
+eigensolutions Thermal_conductivity.txt 1 2361 
+pressing Thermal_conductivity.txt 1 1485 
+ambient Thermal_conductivity.txt 2 932 948 
+convection Thermal_conductivity.txt 5 987 1629 1660 1678 1714 
+helium Thermal_conductivity.txt 2 1729 4004 
+if Thermal_conductivity.txt 8 897 1945 2368 3127 3297 3430 3594 3648 
+different Thermal_conductivity.txt 4 1160 1411 1415 1842 
+j/k Thermal_conductivity.txt 1 3824 
+combining Thermal_conductivity.txt 1 2668 
+make Thermal_conductivity.txt 1 550 
+radiation Thermal_conductivity.txt 1 989 
+s Thermal_conductivity.txt 1 3367 
+same Thermal_conductivity.txt 4 995 1059 1517 2500 
+textile Thermal_conductivity.txt 2 194 239 
+popularly Thermal_conductivity.txt 1 1687 
+complex Thermal_conductivity.txt 1 2294 
+arguments Thermal_conductivity.txt 1 2079 
+widely Thermal_conductivity.txt 1 81 
+phenomenology Thermal_conductivity.txt 1 2176 
+units Thermal_conductivity.txt 10 118 128 166 177 202 243 672 875 996 1060 
+dimensionless Thermal_conductivity.txt 2 3360 3371 
+several Thermal_conductivity.txt 2 242 404 
+higher Thermal_conductivity.txt 7 1297 1796 2060 2798 3208 3732 4098 
+development Thermal_conductivity.txt 1 2395 
+independent Thermal_conductivity.txt 5 558 2077 3965 4037 4054 
+used Thermal_conductivity.txt 11 82 94 221 264 364 470 889 1014 1491 1774 4143 
+cubic Thermal_conductivity.txt 2 1407 2680 
+kelvin Thermal_conductivity.txt 2 610 748 
+thermal-conductivity Thermal_conductivity.txt 1 3638 
+differing Thermal_conductivity.txt 1 533 
+flows Thermal_conductivity.txt 2 832 3524 
+hand Thermal_conductivity.txt 2 458 1267 
+insulating Thermal_conductivity.txt 1 1663 
+moving Thermal_conductivity.txt 2 1543 3669 
+single Thermal_conductivity.txt 1 2740 
+lower Thermal_conductivity.txt 2 59 3715 
+fourier Thermal_conductivity.txt 1 3484 
+modes Thermal_conductivity.txt 4 2117 2145 2219 2247 
+largely Thermal_conductivity.txt 1 2008 
+i Thermal_conductivity.txt 4 3362 3377 3423 3440 
+krypton Thermal_conductivity.txt 1 1767 
+variety Thermal_conductivity.txt 1 2618 
+well Thermal_conductivity.txt 4 1314 1696 3599 4056 
+roughly Thermal_conductivity.txt 1 2929 
+analysis Thermal_conductivity.txt 2 336 3292 
+without Thermal_conductivity.txt 1 1942 
+non-conserving Thermal_conductivity.txt 1 3020 
+solids Thermal_conductivity.txt 3 368 1863 3117 
+materials Thermal_conductivity.txt 14 62 69 75 88 296 405 439 459 1470 1487 1490 1569 1664 3278 
+components Thermal_conductivity.txt 3 836 1633 1647 
+the Thermal_conductivity.txt 321 19 34 49 52 98 108 124 141 154 183 191 196 205 209 215 232 235 238 245 248 262 266 299 303 322 325 334 343 354 360 409 421 436 456 482 492 522 546 553 571 584 623 666 671 679 687 690 720 749 756 767 770 789 796 803 814 844 860 881 884 892 915 920 924 931 942 975 994 1005 1009 1017 1032 1041 1051 1058 1097 1103 1112 1131 1152 1176 1187 1198 1207 1210 1212 1224 1231 1265 1287 1300 1316 1324 1356 1367 1448 1455 1462 1472 1489 1493 1507 1516 1519 1522 1538 1556 1572 1615 1626 1657 1811 1824 1836 1846 1871 1880 1894 1907 1926 1936 1948 1957 1966 1989 2011 2017 2053 2057 2062 2065 2093 2097 2123 2140 2153 2175 2181 2188 2201 2217 2220 2229 2272 2285 2310 2320 2326 2329 2349 2363 2369 2374 2412 2415 2422 2426 2432 2438 2450 2456 2477 2484 2499 2509 2520 2530 2538 2560 2562 2570 2588 2592 2597 2604 2611 2617 2626 2639 2646 2651 2659 2669 2690 2696 2702 2719 2727 2730 2733 2747 2751 2754 2757 2766 2803 2815 2825 2837 2846 2876 2885 2888 2893 2899 2911 2918 2932 2935 2968 2979 2987 2990 3030 3049 3064 3068 3071 3081 3085 3225 3231 3250 3298 3304 3309 3311 3320 3325 3330 3335 3346 3356 3359 3370 3375 3379 3382 3387 3393 3397 3401 3406 3410 3419 3436 3443 3451 3475 3479 3483 3487 3492 3506 3509 3512 3539 3545 3553 3567 3585 3588 3600 3606 3613 3616 3620 3627 3630 3637 3640 3649 3683 3708 3714 3725 3735 3739 3747 3755 3761 3774 3778 3783 3792 3809 3817 3834 3847 3851 3859 3868 3879 3883 3892 3895 3899 3908 3918 3927 3932 3947 3952 3959 3967 3975 4015 4021 4027 4031 4038 4045 4048 4058 4063 4092 4100 4107 4110 4120 4123 
+nearby Thermal_conductivity.txt 1 1645 
+dimension Thermal_conductivity.txt 2 142 3836 
+99.999 Thermal_conductivity.txt 1 1804 
+less Thermal_conductivity.txt 3 955 1587 3140 
+being Thermal_conductivity.txt 1 1139 
+generally Thermal_conductivity.txt 2 1458 1653 
+starting Thermal_conductivity.txt 1 3341 
+mid Thermal_conductivity.txt 2 3134 3142 
+product Thermal_conductivity.txt 3 225 236 1208 
+atomic Thermal_conductivity.txt 2 1812 3985 
+scattering Thermal_conductivity.txt 12 1330 1882 1916 2041 2046 2073 2090 2720 2728 2897 3092 3174 
+previous Thermal_conductivity.txt 3 2671 3394 3411 
+density Thermal_conductivity.txt 5 3261 3300 3776 3897 4121 
+derivate Thermal_conductivity.txt 1 2523 
+point Thermal_conductivity.txt 2 2135 3342 
+except Thermal_conductivity.txt 2 1279 3583 
+realize Thermal_conductivity.txt 1 3193 
+signals Thermal_conductivity.txt 1 342 
+source Thermal_conductivity.txt 1 872 
+q-conservation Thermal_conductivity.txt 1 2712 
+treatment Thermal_conductivity.txt 1 2346 
+versa Thermal_conductivity.txt 1 819 
+2.18 Thermal_conductivity.txt 1 1379 
+has Thermal_conductivity.txt 9 241 564 906 1753 1931 2983 3036 3160 3464 
+righi-leduc Thermal_conductivity.txt 1 1627 
+remaining Thermal_conductivity.txt 1 2221 
+momentum Thermal_conductivity.txt 4 2785 2889 3014 3019 
+take Thermal_conductivity.txt 1 3846 
+insensitive Thermal_conductivity.txt 1 3223 
+fiber-reinforced Thermal_conductivity.txt 1 1500 
+c-axis Thermal_conductivity.txt 1 1449 
+possible Thermal_conductivity.txt 2 2354 3190 
+admitting Thermal_conductivity.txt 1 776 
+harmonic Thermal_conductivity.txt 1 2350 
+increases Thermal_conductivity.txt 2 1243 2575 
+denser Thermal_conductivity.txt 1 1769 
+using Thermal_conductivity.txt 2 2088 2591 
+disadvantage Thermal_conductivity.txt 1 344 
+glazing Thermal_conductivity.txt 1 1777 
+r-values Thermal_conductivity.txt 1 263 
+particle Thermal_conductivity.txt 8 3775 3780 3789 3796 3825 3896 3903 3956 
+sofo Thermal_conductivity.txt 1 3270 
+signal Thermal_conductivity.txt 1 335 
+conducts Thermal_conductivity.txt 2 1117 1459 
+sized Thermal_conductivity.txt 1 865 
+flux Thermal_conductivity.txt 2 3489 3494 
+t Thermal_conductivity.txt 15 149 161 938 1964 2774 2802 3029 3040 3572 3609 3611 3803 3844 3976 4074 
+integrals Thermal_conductivity.txt 2 3361 3376 
+arbitrary Thermal_conductivity.txt 1 2793 
+downward Thermal_conductivity.txt 1 3721 
+valence Thermal_conductivity.txt 1 1544 
+reduced Thermal_conductivity.txt 3 1294 2250 3285 
+velocities Thermal_conductivity.txt 1 2114 
+often Thermal_conductivity.txt 5 14 541 1013 1246 1773 
+some Thermal_conductivity.txt 3 1402 3189 3799 
+proportionally Thermal_conductivity.txt 1 1247 
+certain Thermal_conductivity.txt 1 3281 
+meters Thermal_conductivity.txt 1 1072 
+examples Thermal_conductivity.txt 2 1468 1679 
+debye Thermal_conductivity.txt 2 1317 2959 
+transport Thermal_conductivity.txt 9 1856 1875 2458 2839 2850 3007 3347 3372 3398 
+another Thermal_conductivity.txt 1 3097 
+specific Thermal_conductivity.txt 1 2767 
+dense Thermal_conductivity.txt 2 1735 1751 
+dimensions Thermal_conductivity.txt 2 155 2749 
+for Thermal_conductivity.txt 44 3 37 291 365 487 509 535 568 577 611 868 895 1161 1280 1492 1567 1578 1820 1844 1940 2059 2331 2596 2614 2623 2642 2655 2679 2710 2970 3070 3249 3396 3403 3453 3486 3682 3843 3882 3891 3980 4010 4080 4144 
+fourth Thermal_conductivity.txt 1 2054 
+affects Thermal_conductivity.txt 1 1083 
+normal Thermal_conductivity.txt 2 2784 2896 
+per Thermal_conductivity.txt 14 136 504 1068 1073 3499 3502 3558 3744 3764 3788 3795 3902 3911 3955 
+does Thermal_conductivity.txt 6 327 1323 1564 2693 2713 3238 
+expressing Thermal_conductivity.txt 1 48 
+assuming Thermal_conductivity.txt 2 2308 2601 
+be Thermal_conductivity.txt 26 416 528 566 773 888 951 1366 1514 2000 2007 2033 2120 2163 2256 2377 2399 2609 2943 3417 3427 3466 3603 3656 3771 3905 4142 
+scientific Thermal_conductivity.txt 1 579 
+power Thermal_conductivity.txt 3 1066 2055 2063 
+equivalent Thermal_conductivity.txt 1 633 
+rock Thermal_conductivity.txt 1 367 
+notable Thermal_conductivity.txt 1 1432 
+undergone Thermal_conductivity.txt 1 1482 
+expansion Thermal_conductivity.txt 1 2424 
+step Thermal_conductivity.txt 1 3345 
+3p Thermal_conductivity.txt 1 2213 
+although Thermal_conductivity.txt 1 212 
+paned Thermal_conductivity.txt 1 1779 
+from Thermal_conductivity.txt 19 1331 1347 1352 2047 2210 2251 2437 2486 2490 2566 2616 2708 2729 2783 3045 3063 3207 3409 3525 
+by Thermal_conductivity.txt 34 608 660 746 1667 1711 1832 1865 1879 1893 1913 2010 2038 2122 2173 2265 2307 2401 2723 2765 2910 3047 3080 3124 3171 3318 3391 3446 3647 3944 3974 3991 4020 4044 4106 
+on Thermal_conductivity.txt 17 106 231 298 455 543 1047 1148 1156 1264 1439 1620 1900 2022 2625 2746 3241 3290 
+would Thermal_conductivity.txt 4 1365 2389 2396 2941 
+origins Thermal_conductivity.txt 1 1808 
+of Thermal_conductivity.txt 173 9 21 33 51 63 70 76 89 101 110 119 127 143 153 201 218 234 254 280 287 295 324 374 380 411 438 484 494 513 586 596 614 645 654 682 689 722 733 736 791 798 805 841 862 876 903 910 919 978 1020 1031 1034 1043 1050 1079 1094 1099 1102 1105 1114 1125 1133 1146 1154 1181 1209 1303 1363 1378 1392 1434 1469 1509 1521 1575 1603 1608 1617 1644 1659 1672 1680 1715 1827 1849 1867 1870 1883 1896 1920 1951 1996 2013 2019 2029 2044 2056 2064 2112 2125 2143 2177 2191 2193 2203 2245 2274 2293 2317 2328 2339 2365 2371 2373 2405 2460 2471 2479 2508 2524 2619 2629 2667 2721 2732 2737 2750 2756 2762 2805 2814 2824 2848 2878 2884 2901 2931 2934 2952 2958 2978 2989 3067 3150 3186 3228 3233 3253 3260 3262 3301 3381 3389 3496 3538 3542 3555 3578 3629 3688 3694 3696 3742 3757 3785 3811 3816 3833 3850 3936 3970 3978 4122 
+industry Thermal_conductivity.txt 3 198 240 268 
+dependence Thermal_conductivity.txt 9 2018 2613 2641 2761 2977 3039 3259 3969 3977 
+dependency Thermal_conductivity.txt 2 3055 3066 
+range Thermal_conductivity.txt 2 294 2628 
+carrier Thermal_conductivity.txt 1 1329 
+greatly Thermal_conductivity.txt 1 879 
+pockets Thermal_conductivity.txt 1 1674 
+delta-function Thermal_conductivity.txt 1 3310 
+referred Thermal_conductivity.txt 1 1688 
+consequently Thermal_conductivity.txt 1 4131 
+or Thermal_conductivity.txt 15 17 433 474 657 954 1351 1717 1992 2024 2130 2495 2681 2726 3104 3107 
+accommodated Thermal_conductivity.txt 1 2227 
+extrapolating Thermal_conductivity.txt 1 2174 
+presence Thermal_conductivity.txt 3 1042 2124 2988 
+into Thermal_conductivity.txt 3 2165 2483 2502 
+within Thermal_conductivity.txt 3 431 2791 3703 
+numerically Thermal_conductivity.txt 1 1109 
+backscattering Thermal_conductivity.txt 1 2999 
+predictions Thermal_conductivity.txt 1 1890 
+down Thermal_conductivity.txt 1 3729 
+device Thermal_conductivity.txt 1 363 
+appropriate Thermal_conductivity.txt 1 864 
+because Thermal_conductivity.txt 7 2344 2529 2786 2874 2938 3230 3724 
+references Thermal_conductivity.txt 1 4150 
+primarily Thermal_conductivity.txt 2 30 1170 
+proportional Thermal_conductivity.txt 7 1185 2051 2772 2973 3753 3772 4072 
+consecutively Thermal_conductivity.txt 1 833 
+next Thermal_conductivity.txt 1 3344 
+physical Thermal_conductivity.txt 2 1807 3247 
+kelvin-meters Thermal_conductivity.txt 1 503 
+uncertainties Thermal_conductivity.txt 1 422 
+fabric Thermal_conductivity.txt 2 1027 1082 
+laminated Thermal_conductivity.txt 1 1486 
+area Thermal_conductivity.txt 9 598 618 653 732 1070 1130 3504 3564 3762 
+transfer Thermal_conductivity.txt 7 55 718 758 984 1038 1064 1546 
+there Thermal_conductivity.txt 7 276 306 531 710 1814 1839 3718 
+knowing Thermal_conductivity.txt 1 2677 
+approximate Thermal_conductivity.txt 1 418 
+gases Thermal_conductivity.txt 5 1651 1724 1736 1768 3998 
+imperial Thermal_conductivity.txt 1 165 
+dispersion Thermal_conductivity.txt 2 2026 2106 
+accordingly Thermal_conductivity.txt 1 2337 
+influencing Thermal_conductivity.txt 1 1142 
+low Thermal_conductivity.txt 13 64 90 461 1285 1312 1335 1639 1743 2147 2686 3531 4001 4013 
+way Thermal_conductivity.txt 3 259 974 1866 
+flowing Thermal_conductivity.txt 2 3498 3557 
+was Thermal_conductivity.txt 1 2305 
+eg Thermal_conductivity.txt 1 1799 
+etc Thermal_conductivity.txt 1 4087 
+function Thermal_conductivity.txt 5 1665 3374 3383 3439 3468 
+jones Thermal_conductivity.txt 1 1899 
+alloys Thermal_conductivity.txt 3 1230 4119 4136 
+medium Thermal_conductivity.txt 2 304 3474 
+arise Thermal_conductivity.txt 1 2446 
+form Thermal_conductivity.txt 3 1387 2507 2986 
+hr Thermal_conductivity.txt 1 173 
+forming Thermal_conductivity.txt 1 2086 
+differences Thermal_conductivity.txt 1 1420 
+but Thermal_conductivity.txt 3 1551 1597 3133 
+volume Thermal_conductivity.txt 4 3698 3913 3924 3929 
+taken Thermal_conductivity.txt 1 3657 
+heat Thermal_conductivity.txt 53 26 38 54 84 450 485 587 648 717 723 757 777 799 815 831 866 871 904 921 943 960 983 1039 1063 1115 1167 1268 1325 1510 1553 1579 1609 1763 1855 2099 2660 2768 3151 3488 3493 3497 3522 3556 3641 3748 3793 3884 3900 3909 3920 3953 4016 4064 
+construction Thermal_conductivity.txt 6 192 197 267 473 658 685 
+atom Thermal_conductivity.txt 1 3188 
+e Thermal_conductivity.txt 1 2907 
+optical Thermal_conductivity.txt 3 2116 2230 2246 
+highest Thermal_conductivity.txt 1 2071 
+with Thermal_conductivity.txt 32 330 440 460 838 982 1202 1244 1443 1476 1634 1935 2206 2216 2236 2314 2379 2392 2552 2673 2867 2975 3084 3279 3551 3563 3605 3791 3878 3984 3999 4076 4116 
+longer Thermal_conductivity.txt 2 2359 3183 
+embedded Thermal_conductivity.txt 1 3199 
+characteristic Thermal_conductivity.txt 3 1967 3180 3800 
+cells Thermal_conductivity.txt 2 2183 2205 
+maximum Thermal_conductivity.txt 2 916 925 
+crystal Thermal_conductivity.txt 9 1416 1427 2260 2375 2724 2734 2741 2752 4049 
+below Thermal_conductivity.txt 3 549 574 1315 
+fermi Thermal_conductivity.txt 1 4032 
+sapphire Thermal_conductivity.txt 1 1429 
+demonstrate Thermal_conductivity.txt 1 3295 
+problem Thermal_conductivity.txt 1 858 
+similar Thermal_conductivity.txt 2 1709 2078 
+called Thermal_conductivity.txt 1 114 
+strongly Thermal_conductivity.txt 1 3122 
+constant Thermal_conductivity.txt 10 341 1217 1307 2533 2543 3593 3597 3659 3923 4079 
+significance Thermal_conductivity.txt 1 2622 
+introducing Thermal_conductivity.txt 2 2402 3172 
+defined Thermal_conductivity.txt 5 1961 2270 2778 2790 3364 
+flow Thermal_conductivity.txt 10 483 649 779 797 1511 3642 3723 3741 3749 3885 
+measure Thermal_conductivity.txt 3 283 714 1030 
+influence Thermal_conductivity.txt 2 1616 2695 
+metals Thermal_conductivity.txt 9 1162 1166 1182 1197 1252 1479 1529 4011 4082 
+an Thermal_conductivity.txt 14 223 478 560 863 1361 1594 1720 1746 2792 2984 3128 3472 3680 3889 
+engineering Thermal_conductivity.txt 1 856 
+exist Thermal_conductivity.txt 1 2465 
+at Thermal_conductivity.txt 23 57 1284 1296 1308 1311 1333 1382 1396 1810 1886 2070 2132 2297 2383 2576 2685 2797 3026 3584 3615 3922 4012 4097 
+our Thermal_conductivity.txt 1 3807 
+crystals Thermal_conductivity.txt 3 1283 1408 2296 
+aerogel Thermal_conductivity.txt 1 1694 
+cables Thermal_conductivity.txt 1 1488 
+defines Thermal_conductivity.txt 2 639 670 
+no Thermal_conductivity.txt 2 1816 2358 
+when Thermal_conductivity.txt 14 321 552 601 739 820 830 1340 1374 1503 2198 2431 2514 2865 3329 
+resistances Thermal_conductivity.txt 1 822 
+field Thermal_conductivity.txt 1 1613 
+other Thermal_conductivity.txt 9 176 457 1266 1467 1568 1650 2406 2503 2675 
+electrical Thermal_conductivity.txt 10 700 706 1193 1199 1234 1525 1534 1560 1595 3219 
+branch Thermal_conductivity.txt 1 2095 
+u Thermal_conductivity.txt 1 2859 
+potential Thermal_conductivity.txt 1 3332 
+picture Thermal_conductivity.txt 1 3665 
+phys Thermal_conductivity.txt 1 2298 
+calculating Thermal_conductivity.txt 1 1845 
+models Thermal_conductivity.txt 1 3103 
+why Thermal_conductivity.txt 1 3997 
+xenon Thermal_conductivity.txt 1 1739 
+categories Thermal_conductivity.txt 2 4158 4160 
+m Thermal_conductivity.txt 8 139 147 157 507 703 1802 3826 3987 
+variation Thermal_conductivity.txt 4 1089 2470 2545 2574 
+transported Thermal_conductivity.txt 1 3787 
+important Thermal_conductivity.txt 2 386 2418 
+peak Thermal_conductivity.txt 1 1255 
+41,000 Thermal_conductivity.txt 1 1800 
+vectors Thermal_conductivity.txt 2 2823 2871 
+variable Thermal_conductivity.txt 1 1435 
+describing Thermal_conductivity.txt 1 2338 
+sides Thermal_conductivity.txt 1 1049 
+structure Thermal_conductivity.txt 3 980 2127 3283 
+impurity Thermal_conductivity.txt 2 3125 3187 
+building Thermal_conductivity.txt 4 392 472 1026 1081 
+implies Thermal_conductivity.txt 3 340 2233 2995 
+coupling Thermal_conductivity.txt 1 1423 
+vice Thermal_conductivity.txt 1 818 
+complicating Thermal_conductivity.txt 1 2836 
+typically Thermal_conductivity.txt 1 1730 
+insulance Thermal_conductivity.txt 1 753 
+turbines Thermal_conductivity.txt 1 434 
+governed Thermal_conductivity.txt 1 3699 
+phonon Thermal_conductivity.txt 24 1288 1422 1576 1927 1953 2098 2113 2160 2413 2427 2433 2525 2539 2548 2563 2605 2656 2775 2817 2903 2920 2998 3004 3091 
+correspondingly Thermal_conductivity.txt 1 74 
+mass Thermal_conductivity.txt 4 156 2131 3986 4002 
+time Thermal_conductivity.txt 19 160 331 592 643 728 1969 2312 2386 2393 2394 2469 2522 2535 2544 2555 2573 2594 3087 3266 
+far Thermal_conductivity.txt 1 3805 
+conductivities Thermal_conductivity.txt 4 11 382 413 1413 
+silica Thermal_conductivity.txt 1 1693 
+requires Thermal_conductivity.txt 1 3177 
+having Thermal_conductivity.txt 2 1637 1668 
+external Thermal_conductivity.txt 2 2748 4155 

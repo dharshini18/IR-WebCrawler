@@ -1,0 +1,639 @@
+secondly Coronal_loop.txt 1 769 
+all Coronal_loop.txt 3 82 1369 1647 
+measurements Coronal_loop.txt 1 1356 
+managed Coronal_loop.txt 1 1294 
+chain Coronal_loop.txt 1 1323 
+limited Coronal_loop.txt 1 917 
+magnetic Coronal_loop.txt 10 71 115 151 191 218 419 504 534 619 1642 
+heii Coronal_loop.txt 1 1414 
+dynamic Coronal_loop.txt 5 482 511 629 1627 1664 
+spectrograms Coronal_loop.txt 1 878 
+existing Coronal_loop.txt 2 333 346 
+four Coronal_loop.txt 2 1079 1403 
+smex Coronal_loop.txt 1 1456 
+disk Coronal_loop.txt 1 1682 
+contributions Coronal_loop.txt 1 553 
+polarity Coronal_loop.txt 1 72 
+11-year Coronal_loop.txt 1 1240 
+1946 Coronal_loop.txt 1 875 
+intensive Coronal_loop.txt 1 718 
+to Coronal_loop.txt 43 12 21 83 238 242 273 416 450 519 643 645 655 665 680 698 730 775 846 902 934 938 981 991 1043 1141 1155 1169 1226 1230 1236 1273 1319 1331 1397 1417 1425 1484 1511 1529 1545 1570 1586 1619 
+present Coronal_loop.txt 1 421 
+stable Coronal_loop.txt 2 641 1269 
+resounding Coronal_loop.txt 1 1232 
+global Coronal_loop.txt 1 1557 
+returned Coronal_loop.txt 1 905 
+far Coronal_loop.txt 1 279 
+esa Coronal_loop.txt 1 1302 
+ultraviolet Coronal_loop.txt 3 1349 1355 1363 
+categories Coronal_loop.txt 3 369 1727 1729 
+cool Coronal_loop.txt 1 343 
+over-dense Coronal_loop.txt 1 741 
+hawaii Coronal_loop.txt 1 838 
+large Coronal_loop.txt 1 1314 
+revolutionised Coronal_loop.txt 1 1047 
+small Coronal_loop.txt 3 396 1454 1459 
+typified Coronal_loop.txt 1 959 
+force Coronal_loop.txt 2 1208 1444 
+195 Coronal_loop.txt 3 1408 1593 1610 
+direct Coronal_loop.txt 1 109 
+second Coronal_loop.txt 1 1535 
+video Coronal_loop.txt 1 45 
+protrude Coronal_loop.txt 1 706 
+skylab Coronal_loop.txt 1 949 
+sunspots Coronal_loop.txt 3 80 145 178 
+sun Coronal_loop.txt 12 19 64 102 446 461 472 498 1013 1247 1264 1280 1563 
+above Coronal_loop.txt 1 1650 
+chromosphere Coronal_loop.txt 3 311 676 748 
+new Coronal_loop.txt 2 955 1631 
+mlso Coronal_loop.txt 1 836 
+filled Coronal_loop.txt 1 568 
+can Coronal_loop.txt 4 126 211 573 756 
+body Coronal_loop.txt 3 120 228 251 
+here Coronal_loop.txt 1 86 
+active Coronal_loop.txt 6 380 388 422 475 477 507 
+consideration Coronal_loop.txt 1 791 
+along Coronal_loop.txt 1 329 
+diagnostic Coronal_loop.txt 1 1344 
+observing Coronal_loop.txt 3 1065 1124 1658 
+extreme Coronal_loop.txt 1 1348 
+1540 Coronal_loop.txt 1 1691 
+study Coronal_loop.txt 2 694 1374 
+allows Coronal_loop.txt 1 46 
+anchor Coronal_loop.txt 1 292 
+launched Coronal_loop.txt 3 951 1437 1636 
+makes Coronal_loop.txt 1 462 
+coronal Coronal_loop.txt 44 0 5 15 36 65 87 124 139 209 215 263 306 321 376 412 429 432 536 540 550 561 577 587 632 688 714 724 732 752 758 764 767 772 797 806 1126 1176 1343 1388 1433 1551 1578 1625 1667 
+campaign Coronal_loop.txt 2 957 1565 
+scales Coronal_loop.txt 2 207 261 
+highly Coronal_loop.txt 6 104 510 622 1547 1655 1663 
+total Coronal_loop.txt 1 428 
+environment Coronal_loop.txt 1 1519 
+fed Coronal_loop.txt 1 702 
+space-based Coronal_loop.txt 1 856 
+from Coronal_loop.txt 15 248 662 674 746 900 989 1028 1070 1109 1174 1204 1281 1297 1324 1441 
+wealth Coronal_loop.txt 1 994 
+usa Coronal_loop.txt 2 1112 1212 
+remains Coronal_loop.txt 1 634 
+only Coronal_loop.txt 1 965 
+intense Coronal_loop.txt 2 418 693 
+utilizes Coronal_loop.txt 1 1581 
+therefore Coronal_loop.txt 2 658 784 
+fexii Coronal_loop.txt 2 1409 1594 
+inner Coronal_loop.txt 1 1399 
+means Coronal_loop.txt 1 605 
+more Coronal_loop.txt 2 23 1306 
+flat Coronal_loop.txt 1 1701 
+successful Coronal_loop.txt 2 911 1656 
+becomes Coronal_loop.txt 1 584 
+emission Coronal_loop.txt 1 1004 
+0.254.0 Coronal_loop.txt 1 1135 
+transient Coronal_loop.txt 1 485 
+rigid Coronal_loop.txt 1 290 
+particular Coronal_loop.txt 2 1117 1605 
+known Coronal_loop.txt 5 341 352 362 449 754 
+19621975 Coronal_loop.txt 1 926 
+must Coronal_loop.txt 3 566 639 789 
+1991 Coronal_loop.txt 1 1034 
+flares Coronal_loop.txt 2 410 1076 
+1995 Coronal_loop.txt 1 1203 
+this Coronal_loop.txt 12 10 43 137 580 604 683 793 800 962 1313 1521 1564 
+1998 Coronal_loop.txt 1 1440 
+originally Coronal_loop.txt 1 1214 
+eclipse Coronal_loop.txt 1 840 
+mk Coronal_loop.txt 5 338 350 360 669 1160 
+flight Coronal_loop.txt 1 1452 
+temperatures Coronal_loop.txt 4 328 335 715 1420 
+making Coronal_loop.txt 1 1163 
+example Coronal_loop.txt 2 546 1670 
+history Coronal_loop.txt 1 815 
+compare Coronal_loop.txt 1 1170 
+pushes Coronal_loop.txt 1 153 
+give Coronal_loop.txt 2 271 1512 
+december Coronal_loop.txt 2 1040 1202 
+high Coronal_loop.txt 4 297 316 1531 1694 
+altitudes Coronal_loop.txt 1 768 
+drained Coronal_loop.txt 1 744 
+provide Coronal_loop.txt 1 31 
+holds Coronal_loop.txt 1 300 
+eit Coronal_loop.txt 3 1352 1382 1391 
+regions Coronal_loop.txt 7 383 389 423 443 478 501 508 
+located Coronal_loop.txt 1 438 
+hot Coronal_loop.txt 1 364 
+elliptical Coronal_loop.txt 1 1063 
+flow Coronal_loop.txt 1 1674 
+coronagraph Coronal_loop.txt 1 1364 
+explorer Coronal_loop.txt 2 1434 1455 
+undergoing Coronal_loop.txt 1 717 
+after Coronal_loop.txt 1 716 
+containing Coronal_loop.txt 1 1305 
+diagram Coronal_loop.txt 2 184 197 
+produce Coronal_loop.txt 2 399 424 
+designed Coronal_loop.txt 1 1318 
+such Coronal_loop.txt 3 829 893 1073 
+data Coronal_loop.txt 3 909 996 1172 
+a Coronal_loop.txt 32 32 48 108 183 214 289 324 493 544 548 554 560 576 590 635 776 802 812 860 954 966 986 993 1027 1105 1146 1238 1249 1268 1285 1463 1473 
+short Coronal_loop.txt 2 672 869 
+eclipsing Coronal_loop.txt 1 1278 
+lines Coronal_loop.txt 1 437 
+corona Coronal_loop.txt 16 96 201 259 282 319 526 611 648 682 844 1330 1380 1400 1428 1501 1646 
+complexity Coronal_loop.txt 1 53 
+media Coronal_loop.txt 3 4 8 42 
+516 Coronal_loop.txt 1 1677 
+wind Coronal_loop.txt 3 276 458 1334 
+typical Coronal_loop.txt 1 35 
+operations Coronal_loop.txt 1 1054 
+wavelengths Coronal_loop.txt 2 373 1182 
+september Coronal_loop.txt 1 1637 
+over Coronal_loop.txt 3 193 667 670 
+multi-wavelength Coronal_loop.txt 1 956 
+mainly Coronal_loop.txt 1 906 
+mission Coronal_loop.txt 5 963 975 1223 1316 1710 
+years Coronal_loop.txt 1 1221 
+whilst Coronal_loop.txt 1 1553 
+through Coronal_loop.txt 6 154 225 252 309 811 1396 
+filters Coronal_loop.txt 1 1582 
+during Coronal_loop.txt 2 922 1520 
+japan Coronal_loop.txt 1 1110 
+its Coronal_loop.txt 2 1051 1231 
+before Coronal_loop.txt 1 571 
+24 Coronal_loop.txt 1 1159 
+1 Coronal_loop.txt 5 337 349 359 668 1533 
+how Coronal_loop.txt 1 14 
+temporal Coronal_loop.txt 2 1147 1537 
+platform Coronal_loop.txt 1 1168 
+detected Coronal_loop.txt 1 1698 
+8.66 Coronal_loop.txt 1 1466 
+hidden Coronal_loop.txt 1 1728 
+euv Coronal_loop.txt 4 881 941 1181 1419 
+then Coronal_loop.txt 2 946 1503 
+anchored Coronal_loop.txt 2 285 697 
+evolution Coronal_loop.txt 3 187 862 1573 
+band Coronal_loop.txt 3 1088 1404 1613 
+they Coronal_loop.txt 3 234 695 1616 
+1952 Coronal_loop.txt 1 877 
+not Coronal_loop.txt 1 558 
+linking Coronal_loop.txt 1 67 
+1959 Coronal_loop.txt 1 901 
+day Coronal_loop.txt 1 1006 
+mystery Coronal_loop.txt 1 636 
+kilometres Coronal_loop.txt 1 1291 
+edit Coronal_loop.txt 9 182 375 543 818 820 1007 1629 1723 1726 
+filling Coronal_loop.txt 2 628 740 
+rockets Coronal_loop.txt 1 894 
+l1 Coronal_loop.txt 1 1257 
+found Coronal_loop.txt 2 143 1715 
+energization Coronal_loop.txt 1 804 
+populated Coronal_loop.txt 1 529 
+series Coronal_loop.txt 1 929 
+energy Coronal_loop.txt 3 247 431 552 
+hard Coronal_loop.txt 1 1098 
+idea Coronal_loop.txt 1 721 
+constitute Coronal_loop.txt 1 559 
+used Coronal_loop.txt 2 1370 1385 
+year Coronal_loop.txt 1 967 
+loops Coronal_loop.txt 27 6 16 37 66 88 106 125 140 210 264 307 322 332 344 355 365 377 537 588 689 742 765 1127 1177 1579 1626 1668 
+our Coronal_loop.txt 1 60 
+beyond Coronal_loop.txt 1 358 
+out Coronal_loop.txt 1 1506 
+network Coronal_loop.txt 1 1424 
+space Coronal_loop.txt 4 1030 1300 1451 1651 
+lagrangian Coronal_loop.txt 1 1255 
+looking Coronal_loop.txt 1 795 
+bragg Coronal_loop.txt 1 1082 
+extensively Coronal_loop.txt 2 1371 1386 
+protruding Coronal_loop.txt 1 229 
+canaveral Coronal_loop.txt 1 1206 
+million Coronal_loop.txt 1 1290 
+mechanisms Coronal_loop.txt 2 638 799 
+contrast Coronal_loop.txt 1 163 
+reason Coronal_loop.txt 2 138 687 
+base Coronal_loop.txt 1 1445 
+imaging Coronal_loop.txt 1 1350 
+beginning Coronal_loop.txt 1 866 
+telescopes Coronal_loop.txt 1 828 
+enormous Coronal_loop.txt 1 76 
+exposing Coronal_loop.txt 1 157 
+launch Coronal_loop.txt 3 1023 1193 1481 
+could Coronal_loop.txt 1 1502 
+transition Coronal_loop.txt 10 98 203 254 313 678 709 1377 1394 1430 1497 
+florida Coronal_loop.txt 1 1211 
+success Coronal_loop.txt 1 1233 
+british Coronal_loop.txt 1 896 
+length Coronal_loop.txt 1 1469 
+place Coronal_loop.txt 1 305 
+transfer Coronal_loop.txt 1 245 
+consequence Coronal_loop.txt 1 110 
+first Coronal_loop.txt 2 979 1254 
+origin Coronal_loop.txt 1 787 
+major Coronal_loop.txt 1 1185 
+features Coronal_loop.txt 2 181 1140 
+powerful Coronal_loop.txt 1 653 
+one Coronal_loop.txt 1 194 
+spots Coronal_loop.txt 1 176 
+directly Coronal_loop.txt 2 128 745 
+spectrometer Coronal_loop.txt 7 908 944 1084 1089 1345 1365 1703 
+radiate Coronal_loop.txt 1 370 
+open Coronal_loop.txt 3 267 435 531 
+payload Coronal_loop.txt 1 921 
+171 Coronal_loop.txt 3 1406 1591 1609 
+passes Coronal_loop.txt 2 1405 1614 
+footpoints Coronal_loop.txt 2 148 303 
+temperature Coronal_loop.txt 1 1161 
+structured Coronal_loop.txt 1 105 
+twisted Coronal_loop.txt 1 113 
+approximately Coronal_loop.txt 1 1288 
+their Coronal_loop.txt 2 147 330 
+station Coronal_loop.txt 1 1209 
+observations Coronal_loop.txt 12 522 770 817 841 857 887 945 1049 1390 1494 1672 1687 
+structures Coronal_loop.txt 4 237 505 601 1552 
+gives Coronal_loop.txt 1 171 
+x-rays Coronal_loop.txt 1 1132 
+ground-based Coronal_loop.txt 1 827 
+vandenberg Coronal_loop.txt 1 1442 
+part Coronal_loop.txt 1 1447 
+fuzzy Coronal_loop.txt 1 24 
+than Coronal_loop.txt 2 476 1308 
+population Coronal_loop.txt 1 122 
+wide Coronal_loop.txt 2 325 1087 
+observatory Coronal_loop.txt 5 835 932 980 1199 1633 
+15 Coronal_loop.txt 1 1539 
+14 Coronal_loop.txt 1 1039 
+1978 Coronal_loop.txt 1 903 
+board Coronal_loop.txt 2 1340 1706 
+modelled Coronal_loop.txt 1 545 
+rarity Coronal_loop.txt 1 591 
+project Coronal_loop.txt 2 308 1457 
+future Coronal_loop.txt 1 960 
+were Coronal_loop.txt 5 888 915 936 1102 1714 
+observatorys Coronal_loop.txt 1 1568 
+solely Coronal_loop.txt 1 728 
+and Coronal_loop.txt 50 79 97 167 202 256 277 283 312 356 381 404 411 447 484 490 506 532 538 612 631 652 657 677 711 760 805 839 876 882 920 942 952 968 1067 1096 1113 1197 1265 1303 1311 1361 1379 1412 1432 1499 1536 1601 1611 1662 1683 
+1.5 Coronal_loop.txt 1 1289 
+1973 Coronal_loop.txt 1 948 
+mind Coronal_loop.txt 1 582 
+12001200px Coronal_loop.txt 1 1474 
+have Coronal_loop.txt 5 323 823 858 1653 1696 
+seen Coronal_loop.txt 1 85 
+linked Coronal_loop.txt 2 129 810 
+contents Coronal_loop.txt 1 179 
+ray Coronal_loop.txt 1 1068 
+that Coronal_loop.txt 8 270 521 586 608 722 755 958 1583 
+1960 Coronal_loop.txt 1 891 
+consortium Coronal_loop.txt 1 1106 
+mechanism Coronal_loop.txt 5 607 625 734 753 814 
+predominantly Coronal_loop.txt 1 439 
+note Coronal_loop.txt 1 520 
+also Coronal_loop.txt 2 320 904 
+ideal Coronal_loop.txt 2 236 1166 
+full-disk Coronal_loop.txt 1 1008 
+take Coronal_loop.txt 1 394 
+which Coronal_loop.txt 2 976 1367 
+interior Coronal_loop.txt 2 170 1327 
+detector Coronal_loop.txt 1 1476 
+play Coronal_loop.txt 3 3 7 41 
+fcs Coronal_loop.txt 1 1704 
+populate Coronal_loop.txt 1 378 
+opposite Coronal_loop.txt 1 70 
+track Coronal_loop.txt 1 1571 
+compress Coronal_loop.txt 1 757 
+extending Coronal_loop.txt 1 315 
+steady-state Coronal_loop.txt 1 1575 
+nasas Coronal_loop.txt 1 1449 
+ccd Coronal_loop.txt 1 1475 
+phase Coronal_loop.txt 2 1489 1523 
+measured Coronal_loop.txt 1 879 
+radiating Coronal_loop.txt 1 1178 
+clear Coronal_loop.txt 1 585 
+m Coronal_loop.txt 1 1467 
+points Coronal_loop.txt 1 488 
+soho Coronal_loop.txt 10 1200 1213 1235 1243 1272 1275 1292 1335 1510 1554 
+physics Coronal_loop.txt 2 865 1189 
+came Coronal_loop.txt 1 1190 
+impression Coronal_loop.txt 1 173 
+atmosphere Coronal_loop.txt 3 30 233 855 
+phenomenon Coronal_loop.txt 1 808 
+show Coronal_loop.txt 1 34 
+able Coronal_loop.txt 2 937 1544 
+bright Coronal_loop.txt 1 487 
+cds Coronal_loop.txt 1 1346 
+earth Coronal_loop.txt 4 853 1060 1266 1283 
+decade Coronal_loop.txt 1 1052 
+slow Coronal_loop.txt 1 1250 
+6000 Coronal_loop.txt 1 663 
+line-tied Coronal_loop.txt 1 291 
+enough Coronal_loop.txt 2 642 654 
+operational Coronal_loop.txt 1 1217 
+flights Coronal_loop.txt 1 873 
+attained Coronal_loop.txt 1 889 
+uvcs Coronal_loop.txt 1 1366 
+distance Coronal_loop.txt 2 673 1286 
+scientists Coronal_loop.txt 2 1108 1296 
+watch Coronal_loop.txt 1 9 
+joint Coronal_loop.txt 1 1685 
+12 Coronal_loop.txt 1 1337 
+timing Coronal_loop.txt 1 1478 
+upflows Coronal_loop.txt 1 773 
+conjunction Coronal_loop.txt 1 1508 
+areas Coronal_loop.txt 3 25 68 397 
+processes Coronal_loop.txt 2 483 1665 
+threading Coronal_loop.txt 1 224 
+common Coronal_loop.txt 1 813 
+activity Coronal_loop.txt 2 55 403 
+including Coronal_loop.txt 1 1341 
+fixed Coronal_loop.txt 1 220 
+where Coronal_loop.txt 4 205 295 1258 1711 
+view Coronal_loop.txt 1 1515 
+fexv Coronal_loop.txt 2 1411 1596 
+exists Coronal_loop.txt 1 499 
+maximum Coronal_loop.txt 3 974 1493 1709 
+observed Coronal_loop.txt 3 38 213 1131 
+see Coronal_loop.txt 1 13 
+arc Coronal_loop.txt 2 1143 1534 
+are Coronal_loop.txt 20 81 107 141 235 339 351 361 405 434 448 509 589 602 690 696 701 1368 1584 1607 1617 
+operated Coronal_loop.txt 1 1103 
+2.5 Coronal_loop.txt 1 1142 
+ability Coronal_loop.txt 1 1569 
+detect Coronal_loop.txt 1 1688 
+1216 Coronal_loop.txt 1 1597 
+movie Coronal_loop.txt 1 11 
+superseded Coronal_loop.txt 1 970 
+wikipedia Coronal_loop.txt 1 2 
+continually Coronal_loop.txt 2 1244 1277 
+behind Coronal_loop.txt 1 626 
+x-ray-emitting Coronal_loop.txt 1 1125 
+closed Coronal_loop.txt 5 503 533 555 564 618 
+between Coronal_loop.txt 2 164 1262 
+orbiting Coronal_loop.txt 2 930 1460 
+across Coronal_loop.txt 1 999 
+civ Coronal_loop.txt 1 1600 
+observational Coronal_loop.txt 1 1167 
+ends Coronal_loop.txt 1 223 
+explosive Coronal_loop.txt 1 514 
+august Coronal_loop.txt 1 1033 
+parent Coronal_loop.txt 1 61 
+targeted Coronal_loop.txt 1 691 
+emitted Coronal_loop.txt 2 1358 1622 
+however Coronal_loop.txt 1 563 
+strides Coronal_loop.txt 1 822 
+jets Coronal_loop.txt 1 491 
+kev Coronal_loop.txt 1 1136 
+goddard Coronal_loop.txt 1 1450 
+both Coronal_loop.txt 3 222 379 1309 
+planned Coronal_loop.txt 1 1483 
+last Coronal_loop.txt 1 982 
+missions Coronal_loop.txt 3 899 914 1652 
+many Coronal_loop.txt 3 206 260 821 
+region Coronal_loop.txt 10 99 204 255 314 679 710 1378 1395 1431 1498 
+seven-minute Coronal_loop.txt 1 870 
+quiet Coronal_loop.txt 4 382 460 471 497 
+nanoflares Coronal_loop.txt 1 489 
+sensitive Coronal_loop.txt 3 1154 1585 1618 
+s Coronal_loop.txt 1 854 
+became Coronal_loop.txt 1 977 
+utilising Coronal_loop.txt 1 1402 
+faces Coronal_loop.txt 1 1245 
+whole Coronal_loop.txt 2 525 1001 
+very Coronal_loop.txt 3 686 916 1693 
+cm Coronal_loop.txt 1 1465 
+point Coronal_loop.txt 2 774 1256 
+battery Coronal_loop.txt 1 1044 
+period Coronal_loop.txt 1 924 
+community Coronal_loop.txt 1 1018 
+probing Coronal_loop.txt 1 1421 
+observatories Coronal_loop.txt 1 961 
+strong Coronal_loop.txt 1 1659 
+lyman Coronal_loop.txt 1 883 
+instrument Coronal_loop.txt 4 1122 1130 1383 1461 
+due Coronal_loop.txt 4 415 1042 1229 1528 
+been Coronal_loop.txt 4 824 1543 1654 1697 
+heliosphere Coronal_loop.txt 1 284 
+interest Coronal_loop.txt 2 1118 1606 
+basic Coronal_loop.txt 2 91 885 
+collected Coronal_loop.txt 1 1173 
+empty Coronal_loop.txt 1 603 
+2001 Coronal_loop.txt 1 1041 
+yohkoh Coronal_loop.txt 4 1025 1055 1077 1312 
+corresponding Coronal_loop.txt 1 1416 
+observe Coronal_loop.txt 3 239 1237 1640 
+understand Coronal_loop.txt 1 243 
+external Coronal_loop.txt 2 298 1724 
+obscuring Coronal_loop.txt 1 849 
+an Coronal_loop.txt 4 1062 1165 1216 1513 
+2006 Coronal_loop.txt 1 1638 
+those Coronal_loop.txt 2 345 357 
+cassegrain Coronal_loop.txt 1 1470 
+million-degree Coronal_loop.txt 1 1012 
+look Coronal_loop.txt 2 50 1320 
+these Coronal_loop.txt 2 103 367 
+air Coronal_loop.txt 2 1207 1443 
+will Coronal_loop.txt 1 1639 
+sxt Coronal_loop.txt 4 1095 1121 1129 1152 
+balance Coronal_loop.txt 1 1261 
+k Coronal_loop.txt 1 664 
+loop Coronal_loop.txt 7 1 216 302 551 562 578 1389 
+is Coronal_loop.txt 18 135 217 293 479 517 527 621 684 727 735 743 750 783 801 1119 1276 1293 1384 
+chromospheric Coronal_loop.txt 7 614 650 704 777 785 803 1423 
+it Coronal_loop.txt 7 134 516 572 583 762 1035 1164 
+surface Coronal_loop.txt 5 59 387 393 469 595 
+heating Coronal_loop.txt 8 430 541 633 719 725 733 798 807 
+in Coronal_loop.txt 30 26 73 286 304 440 500 581 786 837 874 918 947 1032 1050 1061 1133 1157 1179 1187 1201 1210 1372 1387 1438 1507 1589 1657 1666 1679 1716 
+feed Coronal_loop.txt 2 646 761 
+capture Coronal_loop.txt 1 1546 
+different Coronal_loop.txt 3 368 372 1418 
+fieldline Coronal_loop.txt 1 556 
+april Coronal_loop.txt 1 1439 
+lengths Coronal_loop.txt 1 331 
+suggest Coronal_loop.txt 2 523 1673 
+began Coronal_loop.txt 1 953 
+radiation Coronal_loop.txt 3 1359 1588 1621 
+sunbeam Coronal_loop.txt 1 1057 
+heliospheric Coronal_loop.txt 1 1198 
+hxt Coronal_loop.txt 1 1101 
+events Coronal_loop.txt 2 486 515 
+european Coronal_loop.txt 1 1299 
+satellite Coronal_loop.txt 1 928 
+extended Coronal_loop.txt 2 940 1225 
+prominences Coronal_loop.txt 1 78 
+closed-flux Coronal_loop.txt 1 600 
+effect Coronal_loop.txt 1 850 
+flows Coronal_loop.txt 4 630 1628 1661 1689 
+two Coronal_loop.txt 1 1220 
+mosaic Coronal_loop.txt 1 1009 
+cycle Coronal_loop.txt 5 133 196 988 1242 1527 
+lower Coronal_loop.txt 5 28 95 1427 1500 1558 
+center Coronal_loop.txt 1 1453 
+possibly Coronal_loop.txt 1 809 
+1600 Coronal_loop.txt 1 1602 
+no Coronal_loop.txt 1 751 
+well Coronal_loop.txt 1 666 
+km/s Coronal_loop.txt 3 1678 1692 1721 
+firstly Coronal_loop.txt 1 737 
+position Coronal_loop.txt 1 1270 
+the Coronal_loop.txt 153 18 22 27 52 58 63 74 90 94 101 112 118 121 131 149 155 158 162 165 168 172 186 189 199 226 231 244 249 253 258 274 281 287 296 301 310 318 385 391 400 407 417 427 441 445 452 455 459 464 467 470 496 524 539 593 597 606 610 617 624 637 647 660 671 675 681 685 699 708 720 723 738 747 781 831 843 848 852 868 895 912 923 927 972 978 983 1000 1011 1016 1022 1059 1081 1086 1091 1097 1111 1114 1120 1128 1134 1158 1180 1183 1192 1195 1222 1246 1253 1259 1263 1279 1282 1298 1322 1325 1328 1332 1342 1347 1353 1362 1373 1376 1381 1393 1398 1422 1426 1429 1458 1477 1480 1487 1491 1496 1517 1525 1530 1556 1562 1567 1572 1590 1608 1620 1630 1641 1645 1649 1680 1700 1707 1717 
+agency Coronal_loop.txt 1 1301 
+rocket Coronal_loop.txt 3 872 898 913 
+less Coronal_loop.txt 1 474 
+when Coronal_loop.txt 2 240 794 
+rest Coronal_loop.txt 1 465 
+sources Coronal_loop.txt 1 512 
+rocked Coronal_loop.txt 1 1020 
+cape Coronal_loop.txt 1 1205 
+majority Coronal_loop.txt 3 401 598 984 
+hinode Coronal_loop.txt 1 1634 
+had Coronal_loop.txt 1 1215 
+source Coronal_loop.txt 3 408 453 778 
+other Coronal_loop.txt 1 1684 
+location Coronal_loop.txt 1 374 
+has Coronal_loop.txt 3 1336 1462 1542 
+plasma Coronal_loop.txt 15 160 299 570 615 627 651 661 705 739 759 780 782 1156 1660 1712 
+284 Coronal_loop.txt 3 1410 1595 1612 
+focal Coronal_loop.txt 1 1468 
+nasa Coronal_loop.txt 1 1304 
+oso-1 Coronal_loop.txt 1 933 
+march Coronal_loop.txt 1 1227 
+around Coronal_loop.txt 2 348 1252 
+showing Coronal_loop.txt 1 185 
+oso-8 Coronal_loop.txt 1 935 
+dark Coronal_loop.txt 1 175 
+photosphere Coronal_loop.txt 5 75 156 166 288 700 
+using Coronal_loop.txt 1 892 
+0.52 Coronal_loop.txt 1 1150 
+coincide Coronal_loop.txt 1 1485 
+massively Coronal_loop.txt 1 528 
+occurring Coronal_loop.txt 1 56 
+1550 Coronal_loop.txt 1 1599 
+necessary Coronal_loop.txt 1 861 
+wbs Coronal_loop.txt 1 1090 
+lost Coronal_loop.txt 1 1037 
+cooler Coronal_loop.txt 1 159 
+velocities Coronal_loop.txt 3 1675 1695 1713 
+flux Coronal_loop.txt 7 116 152 192 219 268 565 620 
+continue Coronal_loop.txt 1 644 
+become Coronal_loop.txt 1 859 
+soft Coronal_loop.txt 1 1092 
+awash Coronal_loop.txt 1 480 
+often Coronal_loop.txt 2 142 406 
+picture Coronal_loop.txt 1 1560 
+some Coronal_loop.txt 1 731 
+ejections Coronal_loop.txt 1 414 
+accelerate Coronal_loop.txt 1 656 
+escape Coronal_loop.txt 1 847 
+images Coronal_loop.txt 2 1392 1549 
+trace Coronal_loop.txt 7 40 1015 1175 1310 1435 1541 1580 
+for Coronal_loop.txt 6 136 692 863 1123 1271 1669 
+demonstrates Coronal_loop.txt 1 1566 
+centre Coronal_loop.txt 1 1031 
+injects Coronal_loop.txt 1 613 
+does Coronal_loop.txt 1 557 
+orbited Coronal_loop.txt 1 1058 
+high-definition Coronal_loop.txt 1 49 
+provides Coronal_loop.txt 2 1267 1555 
+be Coronal_loop.txt 9 84 127 212 451 567 574 640 790 1504 
+seconds Coronal_loop.txt 3 1144 1151 1540 
+reach Coronal_loop.txt 1 278 
+each Coronal_loop.txt 1 1415 
+304 Coronal_loop.txt 1 1413 
+1991present Coronal_loop.txt 1 1005 
+step Coronal_loop.txt 1 1186 
+although Coronal_loop.txt 2 473 910 
+solar-b Coronal_loop.txt 1 1635 
+exciting Coronal_loop.txt 1 1522 
+by Coronal_loop.txt 13 39 530 703 826 890 971 1014 1021 1104 1295 1401 1623 1699 
+on Coronal_loop.txt 7 17 57 390 592 1038 1339 1705 
+carried Coronal_loop.txt 2 1078 1505 
+of Coronal_loop.txt 60 54 69 93 100 111 123 174 188 198 208 246 262 327 384 402 409 426 444 454 466 502 513 547 599 771 779 792 816 842 851 925 985 995 1003 1010 1024 1053 1107 1116 1149 1194 1219 1287 1357 1375 1448 1479 1490 1495 1516 1524 1550 1561 1574 1604 1644 1648 1676 1690 1719 
+sumer Coronal_loop.txt 2 1360 1671 
+range Coronal_loop.txt 5 1002 1137 1162 1603 1718 
+misleading Coronal_loop.txt 1 736 
+feix Coronal_loop.txt 2 1407 1592 
+or Coronal_loop.txt 3 177 1056 1576 
+localised Coronal_loop.txt 1 623 
+fieldlines Coronal_loop.txt 1 535 
+instruments Coronal_loop.txt 3 1080 1307 1338 
+into Coronal_loop.txt 8 230 257 280 317 616 707 763 796 
+within Coronal_loop.txt 1 117 
+upwelling Coronal_loop.txt 1 150 
+dazzling Coronal_loop.txt 1 33 
+down Coronal_loop.txt 1 729 
+rising Coronal_loop.txt 1 1488 
+accumulated Coronal_loop.txt 1 998 
+next Coronal_loop.txt 2 20 1184 
+unprecedented Coronal_loop.txt 1 1514 
+telescope Coronal_loop.txt 4 1094 1100 1351 1471 
+4060 Coronal_loop.txt 1 1720 
+loa Coronal_loop.txt 1 833 
+1980 Coronal_loop.txt 1 990 
+assumed Coronal_loop.txt 1 294 
+there Coronal_loop.txt 2 749 788 
+fast Coronal_loop.txt 1 456 
+1989 Coronal_loop.txt 1 992 
+low Coronal_loop.txt 1 200 
+way Coronal_loop.txt 1 272 
+was Coronal_loop.txt 10 950 969 997 1019 1036 1153 1224 1317 1436 1482 
+naturally Coronal_loop.txt 1 366 
+complete Coronal_loop.txt 1 1239 
+form Coronal_loop.txt 1 89 
+phenomena Coronal_loop.txt 1 1072 
+but Coronal_loop.txt 3 398 845 1046 
+30160 Coronal_loop.txt 1 1464 
+failure Coronal_loop.txt 1 1045 
+heat Coronal_loop.txt 1 659 
+hi Coronal_loop.txt 1 1598 
+quiescent Coronal_loop.txt 3 549 1577 1624 
+gain Coronal_loop.txt 1 939 
+solar Coronal_loop.txt 42 29 77 114 119 132 169 190 195 227 232 250 275 386 392 457 468 594 834 864 880 931 973 987 1017 1026 1071 1075 1139 1188 1196 1241 1315 1326 1329 1333 1354 1492 1518 1526 1632 1681 1708 
+trying Coronal_loop.txt 1 241 
+with Coronal_loop.txt 12 130 144 481 569 579 649 867 1145 1171 1472 1486 1509 
+made Coronal_loop.txt 1 825 
+gravitational Coronal_loop.txt 1 1260 
+up Coronal_loop.txt 2 395 463 
+us Coronal_loop.txt 1 47 
+skylark Coronal_loop.txt 1 897 
+crystal Coronal_loop.txt 2 1083 1702 
+below Coronal_loop.txt 2 161 336 
+emissions Coronal_loop.txt 2 884 1069 
+uk Coronal_loop.txt 1 1115 
+problem Coronal_loop.txt 2 542 726 
+called Coronal_loop.txt 1 575 
+x-ray Coronal_loop.txt 7 886 907 943 1048 1066 1093 1099 
+detailed Coronal_loop.txt 1 1548 
+links Coronal_loop.txt 1 1725 
+resolving Coronal_loop.txt 1 1138 
+orbit Coronal_loop.txt 3 1064 1251 1274 
+19461975 Coronal_loop.txt 1 819 
+general Coronal_loop.txt 1 494 
+82 Coronal_loop.txt 1 425 
+as Coronal_loop.txt 9 342 353 363 492 596 830 1074 1446 1615 
+exist Coronal_loop.txt 2 265 712 
+at Coronal_loop.txt 11 51 146 221 334 347 371 713 766 1191 1284 1321 
+lifetime Coronal_loop.txt 2 919 1218 
+physical Coronal_loop.txt 1 180 
+kagoshima Coronal_loop.txt 1 1029 
+variety Coronal_loop.txt 1 326 
+references Coronal_loop.txt 1 1722 
+generally Coronal_loop.txt 1 340 
+field Coronal_loop.txt 2 420 436 
+neighbouring Coronal_loop.txt 1 266 
+holding Coronal_loop.txt 1 1248 
+spatial Coronal_loop.txt 1 1532 
+mass Coronal_loop.txt 1 413 
+aerobee Coronal_loop.txt 1 871 
+2007 Coronal_loop.txt 1 1228 
+polar Coronal_loop.txt 1 442 
+star Coronal_loop.txt 1 62 
+important Coronal_loop.txt 1 518 
+allowing Coronal_loop.txt 1 1234 
+sumer/trace Coronal_loop.txt 1 1686 
+structure Coronal_loop.txt 2 92 1643 
+tubes Coronal_loop.txt 1 269 
+holes Coronal_loop.txt 1 433 
+lasted Coronal_loop.txt 1 964 
+rule Coronal_loop.txt 1 495 
+warm Coronal_loop.txt 1 354 
+heats Coronal_loop.txt 1 609 
+4k Coronal_loop.txt 1 44 
+electromagnetic Coronal_loop.txt 1 1587 
+bcs Coronal_loop.txt 1 1085 
+resolution Coronal_loop.txt 3 1148 1538 1559 
+mauna Coronal_loop.txt 1 832 

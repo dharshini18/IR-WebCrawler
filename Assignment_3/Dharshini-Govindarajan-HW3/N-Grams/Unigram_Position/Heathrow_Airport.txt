@@ -1,0 +1,1530 @@
+limited Heathrow_Airport.txt 7 142 164 1714 4165 5192 5211 5520 
+four Heathrow_Airport.txt 12 111 629 680 1050 1139 1165 1432 1662 3763 4519 4712 5123 
+facilities Heathrow_Airport.txt 5 615 1884 1939 2931 4144 
+controversial Heathrow_Airport.txt 1 4973 
+consists Heathrow_Airport.txt 2 3482 4193 
+oldest Heathrow_Airport.txt 1 2785 
+votes Heathrow_Airport.txt 1 5444 
+paris Heathrow_Airport.txt 2 3400 4075 
+voted Heathrow_Airport.txt 2 1913 3531 
+under Heathrow_Airport.txt 7 336 2632 2638 3641 3650 4445 4715 
+egll Heathrow_Airport.txt 1 27 
+worth Heathrow_Airport.txt 1 4840 
+ex-pat Heathrow_Airport.txt 1 3367 
+chapel Heathrow_Airport.txt 2 609 935 
+eurowings Heathrow_Airport.txt 2 2250 2643 
+announced Heathrow_Airport.txt 6 1635 1669 4924 5011 5072 5607 
+290 Heathrow_Airport.txt 1 5713 
+heathrow/gatwick Heathrow_Airport.txt 1 5632 
+bicycle Heathrow_Airport.txt 3 4799 4805 4813 
+direct Heathrow_Airport.txt 1 2897 
+feasibility Heathrow_Airport.txt 1 5649 
+second Heathrow_Airport.txt 3 40 3508 5321 
+implemented Heathrow_Airport.txt 1 3787 
+established Heathrow_Airport.txt 3 199 1209 5159 
+minimize Heathrow_Airport.txt 1 1195 
+selected Heathrow_Airport.txt 1 2176 
+asia Heathrow_Airport.txt 2 2884 3235 
+new Heathrow_Airport.txt 22 723 1820 2029 2207 2252 2723 2942 2978 3101 3259 3266 3735 3749 3815 3830 3931 4097 4125 5053 5149 5350 5538 
+increasing Heathrow_Airport.txt 4 216 1940 1990 5590 
+officially Heathrow_Airport.txt 1 2531 
+consisting Heathrow_Airport.txt 1 972 
+told Heathrow_Airport.txt 1 5393 
+tie-up Heathrow_Airport.txt 1 1952 
+garuda Heathrow_Airport.txt 3 2266 3095 3175 
+27l Heathrow_Airport.txt 2 251 1319 
+campusthis Heathrow_Airport.txt 1 4292 
+here Heathrow_Airport.txt 1 7 
+met Heathrow_Airport.txt 1 4976 
+27r Heathrow_Airport.txt 1 1317 
+china Heathrow_Airport.txt 2 168 2718 
+100 Heathrow_Airport.txt 1 3587 
+105 Heathrow_Airport.txt 1 2943 
+luggage Heathrow_Airport.txt 1 4525 
+items Heathrow_Airport.txt 1 2203 
+changed Heathrow_Airport.txt 1 5089 
+camborne Heathrow_Airport.txt 1 1035 
+military Heathrow_Airport.txt 1 535 
+divide Heathrow_Airport.txt 1 5120 
+bovingdon Heathrow_Airport.txt 1 1054 
+45 Heathrow_Airport.txt 1 3211 
+replace Heathrow_Airport.txt 1 5749 
+atrium Heathrow_Airport.txt 1 3039 
+total Heathrow_Airport.txt 4 76 2818 4041 5113 
+unit Heathrow_Airport.txt 1 2131 
+would Heathrow_Airport.txt 12 781 1639 2055 2068 2109 5014 5352 5420 5432 5449 5554 5663 
+army Heathrow_Airport.txt 1 2138 
+negative Heathrow_Airport.txt 1 5383 
+schiphol Heathrow_Airport.txt 1 4082 
+m4 Heathrow_Airport.txt 3 4604 4628 4721 
+noting Heathrow_Airport.txt 1 4841 
+therefore Heathrow_Airport.txt 1 1507 
+until Heathrow_Airport.txt 7 1548 1605 1683 1716 3433 3939 5436 
+separated Heathrow_Airport.txt 1 324 
+98 Heathrow_Airport.txt 1 1977 
+90 Heathrow_Airport.txt 1 1946 
+93 Heathrow_Airport.txt 1 698 
+hold Heathrow_Airport.txt 2 1090 1108 
+95 Heathrow_Airport.txt 1 4545 
+waterloo Heathrow_Airport.txt 1 5577 
+1991 Heathrow_Airport.txt 1 1755 
+hounslow Heathrow_Airport.txt 1 305 
+room Heathrow_Airport.txt 6 922 925 963 1984 2188 3875 
+unaffiliated Heathrow_Airport.txt 4 2274 2308 3106 3198 
+rights Heathrow_Airport.txt 1 1761 
+1998 Heathrow_Airport.txt 1 4258 
+mi Heathrow_Airport.txt 3 124 256 1183 
+roof Heathrow_Airport.txt 3 2640 2908 3643 
+piers Heathrow_Airport.txt 1 3253 
+household Heathrow_Airport.txt 1 2144 
+walkways Heathrow_Airport.txt 1 2938 
+india Heathrow_Airport.txt 2 3833 3898 
+taxiway Heathrow_Airport.txt 2 848 1362 
+walsh Heathrow_Airport.txt 2 2091 3392 
+end Heathrow_Airport.txt 3 266 3312 4601 
+carriers Heathrow_Airport.txt 5 2879 3107 3189 3199 3908 
+provide Heathrow_Airport.txt 1 5128 
+travel Heathrow_Airport.txt 1 5599 
+how Heathrow_Airport.txt 1 1583 
+adjacent Heathrow_Airport.txt 1 940 
+gate Heathrow_Airport.txt 1 871 
+eastwest Heathrow_Airport.txt 4 107 358 806 814 
+lam Heathrow_Airport.txt 1 1059 
+elizabeth Heathrow_Airport.txt 2 2340 3322 
+after Heathrow_Airport.txt 7 2174 3331 3405 4072 5063 5326 5440 
+destined Heathrow_Airport.txt 1 1041 
+parallel Heathrow_Airport.txt 5 106 803 4285 4713 5715 
+chilled Heathrow_Airport.txt 1 2605 
+third Heathrow_Airport.txt 9 228 2100 4937 5020 5075 5282 5308 5372 5426 
+communities Heathrow_Airport.txt 1 4990 
+baggage Heathrow_Airport.txt 1 3260 
+davies Heathrow_Airport.txt 4 210 5177 5226 5397 
+enter Heathrow_Airport.txt 1 3361 
+operate Heathrow_Airport.txt 8 1282 1781 2648 2958 3284 3935 3963 4328 
+wind Heathrow_Airport.txt 3 373 788 1328 
+operations Heathrow_Airport.txt 6 613 1241 2033 2505 3408 3457 
+office Heathrow_Airport.txt 6 4151 4158 4222 4235 4253 5736 
+over Heathrow_Airport.txt 13 366 652 726 1047 1217 1264 1527 1976 2220 2391 2659 3427 4780 
+bedfont Heathrow_Airport.txt 1 315 
+6.5 Heathrow_Airport.txt 1 1618 
+london Heathrow_Airport.txt 26 22 34 102 176 249 262 269 352 370 392 405 411 416 570 1105 1265 1567 2902 3969 4402 5034 5042 5386 5576 5734 5740 
+mayor Heathrow_Airport.txt 3 5032 5387 5732 
+before Heathrow_Airport.txt 6 427 1131 2345 2582 4244 5358 
+personal Heathrow_Airport.txt 2 3723 4479 
+crew Heathrow_Airport.txt 2 979 4186 
+weeks Heathrow_Airport.txt 2 2675 3404 
+then Heathrow_Airport.txt 3 1153 5035 5213 
+them Heathrow_Airport.txt 2 2019 5121 
+effects Heathrow_Airport.txt 1 1198 
+they Heathrow_Airport.txt 3 4459 5013 5126 
+hertfordshire Heathrow_Airport.txt 1 1057 
+vidal Heathrow_Airport.txt 1 2548 
+each Heathrow_Airport.txt 10 927 1072 1324 1658 4363 4515 4736 4768 5127 5262 
+reached Heathrow_Airport.txt 1 1901 
+network Heathrow_Airport.txt 2 2362 3668 
+long-haul Heathrow_Airport.txt 1 2875 
+city Heathrow_Airport.txt 3 393 412 5729 
+free Heathrow_Airport.txt 7 909 4394 4431 4442 4472 4793 4812 
+gaulle Heathrow_Airport.txt 2 4051 4078 
+widespread Heathrow_Airport.txt 1 4978 
+superjumbo Heathrow_Airport.txt 1 2954 
+long-stay Heathrow_Airport.txt 2 3710 4660 
+priorities Heathrow_Airport.txt 2 4586 5622 
+incorporated Heathrow_Airport.txt 1 833 
+uses Heathrow_Airport.txt 2 10 3078 
+organize Heathrow_Airport.txt 1 953 
+features Heathrow_Airport.txt 1 3034 
+forecourts Heathrow_Airport.txt 1 4667 
+primary Heathrow_Airport.txt 3 180 187 666 
+featured Heathrow_Airport.txt 1 3658 
+hoon Heathrow_Airport.txt 1 4923 
+another Heathrow_Airport.txt 2 3618 5095 
+runways Heathrow_Airport.txt 15 108 356 744 780 795 804 815 828 1280 1316 1973 2049 3308 5110 5132 
+rated Heathrow_Airport.txt 1 1412 
+renovated Heathrow_Airport.txt 1 3252 
+service Heathrow_Airport.txt 1 2899 
+motorised Heathrow_Airport.txt 1 4744 
+top Heathrow_Airport.txt 1 5706 
+master Heathrow_Airport.txt 1 4576 
+john Heathrow_Airport.txt 1 4099 
+a30 Heathrow_Airport.txt 1 4644 
+villages Heathrow_Airport.txt 1 293 
+serve Heathrow_Airport.txt 1 3747 
+took Heathrow_Airport.txt 3 2390 5038 5068 
+western Heathrow_Airport.txt 1 3311 
+kept Heathrow_Airport.txt 1 5769 
+abandoning Heathrow_Airport.txt 1 5611 
+boarding Heathrow_Airport.txt 2 2447 3384 
+distance Heathrow_Airport.txt 1 4361 
+roles Heathrow_Airport.txt 1 1367 
+germanwings Heathrow_Airport.txt 1 3844 
+heathwick Heathrow_Airport.txt 2 5638 5683 
+preparation Heathrow_Airport.txt 2 2761 3869 
+minus Heathrow_Airport.txt 2 1603 1680 
+acquisition Heathrow_Airport.txt 1 2373 
+etihad Heathrow_Airport.txt 1 3275 
+ran Heathrow_Airport.txt 2 499 1440 
+disambiguation Heathrow_Airport.txt 2 13 16 
+seen Heathrow_Airport.txt 2 832 2685 
+seem Heathrow_Airport.txt 1 5760 
+contents Heathrow_Airport.txt 1 239 
+1968 Heathrow_Airport.txt 2 2334 2917 
+1969 Heathrow_Airport.txt 1 2344 
+lambourne Heathrow_Airport.txt 1 1058 
+1966 Heathrow_Airport.txt 1 580 
+cope Heathrow_Airport.txt 1 3676 
+1961 Heathrow_Airport.txt 1 2869 
+situated Heathrow_Airport.txt 1 3126 
+night-time Heathrow_Airport.txt 1 1397 
+completed Heathrow_Airport.txt 4 2572 2948 2998 3853 
+tunnels Heathrow_Airport.txt 4 4714 4734 4749 4787 
+object Heathrow_Airport.txt 1 2170 
+extending Heathrow_Airport.txt 1 5313 
+regular Heathrow_Airport.txt 3 2959 3285 3964 
+letter Heathrow_Airport.txt 1 998 
+phase Heathrow_Airport.txt 4 3811 3880 5501 5503 
+zealand Heathrow_Airport.txt 1 2724 
+calculated Heathrow_Airport.txt 1 1677 
+m Heathrow_Airport.txt 3 2793 3050 3159 
+twickenham Heathrow_Airport.txt 1 338 
+treaty Heathrow_Airport.txt 2 1735 1737 
+points Heathrow_Airport.txt 2 1053 1130 
+came Heathrow_Airport.txt 1 1839 
+advisory Heathrow_Airport.txt 1 5207 
+departing Heathrow_Airport.txt 3 1295 2487 3396 
+queen Heathrow_Airport.txt 2 2339 3321 
+nominated Heathrow_Airport.txt 1 1377 
+ending Heathrow_Airport.txt 1 4028 
+liberty Heathrow_Airport.txt 1 4114 
+7.5 Heathrow_Airport.txt 1 1656 
+availability Heathrow_Airport.txt 1 4546 
+ock Heathrow_Airport.txt 1 1069 
+northeast Heathrow_Airport.txt 1 1099 
+just Heathrow_Airport.txt 3 1524 4682 4874 
+delays Heathrow_Airport.txt 3 1384 1877 1967 
+easterly Heathrow_Airport.txt 1 1336 
+wide Heathrow_Airport.txt 1 4739 
+air Heathrow_Airport.txt 17 822 1142 1718 1860 2264 2714 2717 2722 3093 3178 3278 3832 3897 3914 3987 4958 4996 
+de Heathrow_Airport.txt 3 156 4050 4077 
+13 Heathrow_Airport.txt 1 2867 
+criticized Heathrow_Airport.txt 1 1870 
+25,000 Heathrow_Airport.txt 1 1520 
+asiana Heathrow_Airport.txt 1 2725 
+report Heathrow_Airport.txt 4 5299 5328 5362 5380 
+du Heathrow_Airport.txt 1 160 
+runs Heathrow_Airport.txt 1 4284 
+bas Heathrow_Airport.txt 1 2382 
+countries Heathrow_Airport.txt 2 661 1731 
+baa Heathrow_Airport.txt 3 4164 5578 5606 
+secretary Heathrow_Airport.txt 2 4918 5526 
+testing Heathrow_Airport.txt 2 2581 3421 
+zones Heathrow_Airport.txt 2 1439 1465 
+result Heathrow_Airport.txt 1 1499 
+resigned Heathrow_Airport.txt 1 5227 
+best Heathrow_Airport.txt 1 3534 
+subject Heathrow_Airport.txt 2 1402 5094 
+oceanic Heathrow_Airport.txt 1 2864 
+capacity Heathrow_Airport.txt 12 217 1944 1980 2072 2113 2759 3576 4760 5030 5046 5100 5163 
+terimal Heathrow_Airport.txt 1 2749 
+wikipedia Heathrow_Airport.txt 1 2 
+members,some Heathrow_Airport.txt 1 2411 
+approach Heathrow_Airport.txt 10 247 362 633 1147 1160 1192 1213 1260 1309 1449 
+extend Heathrow_Airport.txt 1 5108 
+however Heathrow_Airport.txt 4 1483 1925 3448 5428 
+paddington Heathrow_Airport.txt 1 4318 
+southeast Heathrow_Airport.txt 2 1100 5166 
+add Heathrow_Airport.txt 1 5584 
+travellers Heathrow_Airport.txt 1 701 
+improve Heathrow_Airport.txt 3 3006 3013 3222 
+received Heathrow_Airport.txt 2 1475 1517 
+reported Heathrow_Airport.txt 1 5086 
+country Heathrow_Airport.txt 1 494 
+merging Heathrow_Airport.txt 2 1161 3916 
+union Heathrow_Airport.txt 1 1833 
+three Heathrow_Airport.txt 5 747 1525 5148 5265 5304 
+been Heathrow_Airport.txt 14 892 1572 1869 2148 2454 2507 2557 3673 4581 4765 4789 5243 5338 5467 
+subsidy Heathrow_Airport.txt 1 5619 
+commission Heathrow_Airport.txt 8 202 205 225 5156 5171 5239 5276 5295 
+much Heathrow_Airport.txt 2 522 1584 
+expected Heathrow_Airport.txt 1 4983 
+board Heathrow_Airport.txt 1 5208 
+eastern Heathrow_Airport.txt 1 2888 
+transatlantic Heathrow_Airport.txt 1 2678 
+aviation Heathrow_Airport.txt 3 1568 1578 2129 
+applied Heathrow_Airport.txt 1 1959 
+exception Heathrow_Airport.txt 5 2278 3074 3173 3828 3946 
+has Heathrow_Airport.txt 27 104 679 796 800 891 906 966 1571 1868 1933 1982 2043 2095 2146 2226 3045 3154 3201 3550 3571 3672 3700 4416 4788 5242 5398 5465 
+n Heathrow_Airport.txt 1 1002 
+employ Heathrow_Airport.txt 1 5188 
+near Heathrow_Airport.txt 1 263 
+procedure Heathrow_Airport.txt 1 1965 
+metropolitan Heathrow_Airport.txt 3 284 2134 4127 
+is Heathrow_Airport.txt 48 28 38 127 137 178 254 279 289 323 348 363 374 379 395 479 649 664 672 722 858 918 1073 1083 1187 1208 1215 1320 1329 1338 1692 1708 1953 2008 2124 2429 2618 3067 3125 3140 3164 3716 3999 4166 4293 4398 4623 4689 4839 
+dumped Heathrow_Airport.txt 1 5399 
+it Heathrow_Airport.txt 30 81 528 567 678 1484 1505 1549 1585 2007 2549 2586 2787 2811 2918 3057 3200 3208 3334 3416 3466 3520 3570 4287 4838 5070 5216 5241 5609 5750 5768 
+ii Heathrow_Airport.txt 4 553 1734 2341 3323 
+in Heathrow_Airport.txt 128 33 43 54 62 72 79 193 221 236 327 435 526 572 579 620 625 659 696 712 719 736 738 746 752 763 926 929 936 960 1003 1010 1017 1024 1031 1056 1060 1065 1070 1087 1150 1251 1283 1422 1471 1490 1512 1523 1565 1594 1628 1630 1664 1754 1799 1817 1871 1906 1908 1921 1931 1955 2004 2050 2185 2215 2333 2342 2379 2424 2440 2478 2573 2671 2743 2760 2768 2779 2807 2827 2834 2916 2921 2939 2999 3055 3121 3538 3659 3680 3730 3776 3798 3818 3836 3849 3868 3909 3919 3942 4031 4038 4040 4070 4095 4141 4168 4223 4254 4256 4483 4571 4818 4861 4913 4960 4967 5055 5142 5164 5186 5300 5344 5510 5515 5603 5639 5698 5743 
+if Heathrow_Airport.txt 2 1119 1326 
+grown Heathrow_Airport.txt 1 797 
+confirmed Heathrow_Airport.txt 3 5333 5417 5493 
+descent Heathrow_Airport.txt 1 1191 
+saw Heathrow_Airport.txt 1 3789 
+make Heathrow_Airport.txt 2 3874 5459 
+complex Heathrow_Airport.txt 2 2570 3781 
+split Heathrow_Airport.txt 1 3925 
+european Heathrow_Airport.txt 3 1832 2361 4065 
+perimeter Heathrow_Airport.txt 1 4268 
+independent Heathrow_Airport.txt 1 204 
+satellite Heathrow_Airport.txt 3 2589 3493 3509 
+rail Heathrow_Airport.txt 6 5539 5552 5633 5653 5661 5692 
+hand Heathrow_Airport.txt 1 2183 
+photographers Heathrow_Airport.txt 1 975 
+cycle Heathrow_Airport.txt 2 4762 4847 
+shortly Heathrow_Airport.txt 1 1846 
+whereby Heathrow_Airport.txt 2 1286 2053 
+rescinded Heathrow_Airport.txt 1 1358 
+1970 Heathrow_Airport.txt 1 2922 
+savings Heathrow_Airport.txt 1 3648 
+claims Heathrow_Airport.txt 1 4543 
+the Heathrow_Airport.txt 387 39 44 59 68 73 125 179 186 196 200 224 233 264 268 283 287 292 301 309 312 320 330 337 342 346 367 372 376 380 383 404 425 428 448 454 502 508 515 539 544 546 556 561 581 584 594 602 607 632 662 665 702 713 715 739 753 759 764 767 771 775 787 791 812 817 821 826 835 842 846 852 859 862 866 876 889 942 951 961 964 982 989 1004 1011 1018 1025 1032 1081 1088 1097 1104 1138 1155 1164 1196 1257 1262 1268 1273 1298 1308 1313 1327 1331 1343 1348 1353 1356 1366 1376 1409 1425 1457 1464 1472 1501 1528 1538 1566 1576 1591 1622 1633 1637 1660 1667 1686 1695 1701 1723 1730 1736 1752 1775 1785 1791 1796 1809 1815 1827 1831 1866 1894 1899 1910 1914 1926 1941 1963 1989 1997 2025 2036 2046 2064 2070 2103 2106 2122 2125 2128 2133 2137 2143 2151 2165 2189 2206 2224 2231 2251 2277 2289 2313 2352 2372 2398 2404 2459 2475 2496 2527 2534 2553 2560 2565 2568 2630 2650 2652 2672 2682 2696 2738 2755 2763 2770 2776 2783 2825 2830 2838 2863 2881 2893 2904 2907 2910 2924 2934 2941 2951 2965 2974 2991 2994 3073 3128 3131 3136 3148 3152 3168 3172 3272 3304 3310 3314 3337 3357 3377 3387 3394 3402 3414 3451 3463 3467 3480 3497 3507 3517 3539 3544 3609 3612 3633 3646 3651 3666 3670 3678 3688 3691 3698 3719 3731 3739 3743 3771 3808 3814 3827 3877 3904 3945 3960 4000 4025 4035 4062 4105 4124 4130 4134 4139 4146 4149 4156 4169 4188 4231 4245 4249 4260 4263 4266 4290 4295 4330 4429 4437 4446 4453 4493 4526 4536 4541 4556 4572 4599 4603 4617 4626 4635 4643 4665 4684 4686 4690 4707 4716 4720 4725 4731 4746 4761 4785 4792 4810 4829 4849 4877 4916 4920 4926 4930 4950 4955 4961 4982 5001 5005 5016 5027 5031 5039 5048 5056 5064 5074 5093 5102 5145 5154 5165 5169 5180 5187 5237 5256 5264 5278 5286 5292 5294 5306 5331 5345 5360 5379 5407 5415 5445 5470 5483 5497 5506 5525 5551 5556 5564 5568 5581 5591 5601 5612 5615 5642 5648 5671 5684 5695 5717 5731 5744 5758 
+left Heathrow_Airport.txt 1 3865 
+proposed Heathrow_Airport.txt 3 2044 2097 5468 
+photo Heathrow_Airport.txt 1 420 
+assigned Heathrow_Airport.txt 2 3023 3767 
+identify Heathrow_Airport.txt 1 5249 
+followed Heathrow_Airport.txt 2 2709 4949 
+yet Heathrow_Airport.txt 1 3605 
+daviess Heathrow_Airport.txt 1 5275 
+had Heathrow_Airport.txt 9 554 742 2453 2556 2788 2842 2895 4219 5337 
+5s Heathrow_Airport.txt 1 4835 
+spread Heathrow_Airport.txt 1 1462 
+bnn Heathrow_Airport.txt 1 1055 
+east Heathrow_Airport.txt 9 310 503 541 1012 1263 2269 3098 3182 3610 
+5c Heathrow_Airport.txt 1 646 
+possible Heathrow_Airport.txt 1 3806 
+apart Heathrow_Airport.txt 1 1184 
+generated Heathrow_Airport.txt 1 1227 
+55 Heathrow_Airport.txt 1 1890 
+56 Heathrow_Airport.txt 1 5689 
+arrivals Heathrow_Airport.txt 1 2928 
+52 Heathrow_Airport.txt 1 2609 
+renamed Heathrow_Airport.txt 2 576 2913 
+offices Heathrow_Airport.txt 2 2846 4204 
+night Heathrow_Airport.txt 2 1204 1426 
+security Heathrow_Airport.txt 7 2118 2130 2157 3014 3223 3373 4885 
+towards Heathrow_Airport.txt 1 1256 
+right Heathrow_Airport.txt 1 1792 
+old Heathrow_Airport.txt 1 943 
+deal Heathrow_Airport.txt 1 3652 
+people Heathrow_Airport.txt 4 1306 1541 3503 5594 
+1,340-space Heathrow_Airport.txt 1 2593 
+hs2 Heathrow_Airport.txt 3 5487 5509 5631 
+malaysia Heathrow_Airport.txt 5 2281 2301 3081 3190 3279 
+election Heathrow_Airport.txt 1 5004 
+for Heathrow_Airport.txt 49 8 182 190 215 533 538 583 675 707 794 873 1042 1239 1420 1480 1657 1672 1874 1985 2010 2028 2355 2364 2407 2432 2762 2874 2877 3393 3516 3577 3655 3713 3870 3876 4024 4401 4743 4753 4911 5097 5151 5341 5499 5508 5529 5623 5644 5739 
+heathrow Heathrow_Airport.txt 101 0 3 12 17 23 37 93 132 177 231 250 253 322 333 394 409 422 432 451 473 482 486 496 517 577 628 635 647 732 741 798 904 1043 1146 1219 1400 1516 1558 1673 1691 1698 1721 1750 1865 1880 1981 2040 2092 2327 2353 2524 2628 2856 3117 3149 3297 3315 3459 3640 3740 3751 3970 3998 4033 4060 4090 4153 4160 4192 4206 4209 4239 4314 4332 4373 4378 4381 4386 4447 4622 4666 4679 4722 4905 4933 5062 5103 5312 5318 5357 5376 5419 5452 5460 5474 5518 5542 5549 5624 5658 5728 
+yorks Heathrow_Airport.txt 1 4098 
+9.28 Heathrow_Airport.txt 1 1625 
+newspapers Heathrow_Airport.txt 1 984 
+104,100 Heathrow_Airport.txt 1 3063 
+ensure Heathrow_Airport.txt 1 4458 
+shared Heathrow_Airport.txt 1 3750 
+formerly Heathrow_Airport.txt 3 2234 4163 5193 
+facility Heathrow_Airport.txt 1 4694 
+civil Heathrow_Airport.txt 2 565 1577 
+bound Heathrow_Airport.txt 2 537 706 
+bath Heathrow_Airport.txt 1 4281 
+accommodate Heathrow_Airport.txt 4 1889 2950 3210 3271 
+lies Heathrow_Airport.txt 3 94 3302 4265 
+capped Heathrow_Airport.txt 1 1600 
+amsterdam Heathrow_Airport.txt 1 4080 
+reducing Heathrow_Airport.txt 2 1394 1966 
+initial Heathrow_Airport.txt 1 997 
+virgin Heathrow_Airport.txt 6 191 676 1770 2236 2261 3020 
+gic Heathrow_Airport.txt 3 162 5190 5209 
+queens Heathrow_Airport.txt 3 2535 2566 2839 
+was Heathrow_Airport.txt 54 471 490 529 548 575 586 1224 1244 1485 1550 1599 1726 1772 1811 1824 1912 2209 2336 2351 2402 2474 2537 2550 2571 2782 2798 2832 2919 2947 2997 3022 3318 3364 3380 3438 3530 3786 4034 4061 4104 4236 4971 5071 5078 5101 5158 5172 5185 5212 5329 5363 5381 5492 5610 
+war Heathrow_Airport.txt 1 552 
+head Heathrow_Airport.txt 5 4150 4157 4221 4234 4252 
+form Heathrow_Airport.txt 2 1515 5664 
+landing Heathrow_Airport.txt 9 361 1235 1344 1388 1546 1595 1689 1704 2015 
+2017/18 Heathrow_Airport.txt 1 5439 
+true Heathrow_Airport.txt 1 4400 
+versions Heathrow_Airport.txt 1 810 
+tell Heathrow_Airport.txt 1 4452 
+long-distance Heathrow_Airport.txt 1 534 
+passenger Heathrow_Airport.txt 17 48 65 77 681 720 761 1598 1627 2005 3359 3681 3764 3958 3966 3982 3996 4042 
+liberal Heathrow_Airport.txt 1 5008 
+covers Heathrow_Airport.txt 2 118 3563 
+prayer Heathrow_Airport.txt 2 921 962 
+closureto Heathrow_Airport.txt 1 5748 
+no Heathrow_Airport.txt 3 1339 4549 5335 
+not Heathrow_Airport.txt 7 1508 4425 4461 4676 4844 5353 5433 
+generally Heathrow_Airport.txt 2 1281 5382 
+handed Heathrow_Airport.txt 1 1216 
+holding Heathrow_Airport.txt 2 153 1093 
+transfers Heathrow_Airport.txt 1 4365 
+billion Heathrow_Airport.txt 1 3479 
+concorde Heathrow_Airport.txt 3 623 887 4612 
+governed Heathrow_Airport.txt 1 1728 
+time Heathrow_Airport.txt 7 384 461 545 2892 4230 4921 5181 
+anglican Heathrow_Airport.txt 1 907 
+coach Heathrow_Airport.txt 1 4322 
+corps Heathrow_Airport.txt 1 971 
+global Heathrow_Airport.txt 1 3446 
+drop-off Heathrow_Airport.txt 3 2980 4650 4669 
+llc Heathrow_Airport.txt 1 154 
+medium-haul Heathrow_Airport.txt 1 2395 
+zone Heathrow_Airport.txt 2 3031 4433 
+1946 Heathrow_Airport.txt 1 573 
+1944 Heathrow_Airport.txt 1 527 
+charge Heathrow_Airport.txt 6 1587 1596 1638 1675 4396 4444 
+southwest Heathrow_Airport.txt 2 1102 5290 
+supported Heathrow_Airport.txt 1 4929 
+presented Heathrow_Airport.txt 1 3381 
+proposals Heathrow_Airport.txt 2 5150 5266 
+democrat Heathrow_Airport.txt 2 5009 5066 
+greenhouse Heathrow_Airport.txt 1 4984 
+prevent Heathrow_Airport.txt 1 5015 
+baku Heathrow_Airport.txt 1 2494 
+cost Heathrow_Airport.txt 3 1687 3476 3647 
+cargo Heathrow_Airport.txt 5 689 3137 3150 3972 4068 
+stands Heathrow_Airport.txt 4 3267 3515 3574 3620 
+t2b Heathrow_Airport.txt 1 2591 
+current Heathrow_Airport.txt 4 1514 2075 4250 5557 
+international Heathrow_Airport.txt 18 31 47 53 144 700 2314 2377 2384 3470 4007 4011 4014 4018 4102 4115 4216 5206 5462 
+principal Heathrow_Airport.txt 1 5222 
+transportation Heathrow_Airport.txt 1 4511 
+guardian Heathrow_Airport.txt 1 872 
+muslim Heathrow_Airport.txt 1 913 
+water Heathrow_Airport.txt 1 2606 
+congestion Heathrow_Airport.txt 2 3011 3220 
+along Heathrow_Airport.txt 9 109 385 492 501 770 2246 2836 3839 4270 
+change Heathrow_Airport.txt 1 4418 
+passengers Heathrow_Airport.txt 23 87 695 729 1892 1897 1948 2168 2192 2585 2805 2822 3007 3061 3580 3715 4047 4094 4111 4121 4450 4466 4488 5720 
+incoming Heathrow_Airport.txt 1 1200 
+04:30 Heathrow_Airport.txt 1 3375 
+trial Heathrow_Airport.txt 3 1435 1502 2214 
+simultaneous Heathrow_Airport.txt 1 5134 
+usually Heathrow_Airport.txt 2 364 1045 
+departures Heathrow_Airport.txt 3 2520 2873 3918 
+chaired Heathrow_Airport.txt 2 206 5173 
+marked Heathrow_Airport.txt 1 2495 
+should Heathrow_Airport.txt 3 1506 4451 5583 
+market Heathrow_Airport.txt 2 465 1569 
+hotels Heathrow_Airport.txt 1 4306 
+undergone Heathrow_Airport.txt 1 3202 
+handled Heathrow_Airport.txt 2 82 3058 
+by Heathrow_Airport.txt 57 46 51 64 75 131 139 147 207 291 304 329 543 588 651 894 1000 1075 1537 1575 1615 1644 1653 1678 1694 1711 1729 1826 2338 2381 2450 2544 2559 2620 2710 2973 3147 3320 3386 3411 3441 3500 3721 3800 3859 3995 4067 4172 4297 4372 4616 4678 4709 4934 5174 5272 5570 5751 
+slough Heathrow_Airport.txt 1 326 
+today Heathrow_Airport.txt 1 5218 
+high-speed Heathrow_Airport.txt 2 5652 5691 
+entrance Heathrow_Airport.txt 2 860 4597 
+maximise Heathrow_Airport.txt 1 3645 
+commissioned Heathrow_Airport.txt 1 5741 
+fly Heathrow_Airport.txt 2 1748 2626 
+tokyo Heathrow_Airport.txt 1 4021 
+car Heathrow_Airport.txt 13 856 2594 3705 3711 4275 4495 4567 4595 4662 4674 4692 4702 4819 
+originally Heathrow_Airport.txt 3 1738 1886 4751 
+modified Heathrow_Airport.txt 1 4766 
+incidents Heathrow_Airport.txt 3 4863 4886 4889 
+can Heathrow_Airport.txt 3 829 1586 4514 
+following Heathrow_Airport.txt 6 1661 2218 3621 3770 3807 3961 
+making Heathrow_Airport.txt 1 3465 
+caa Heathrow_Airport.txt 4 1580 1634 1668 1696 
+boris Heathrow_Airport.txt 2 5036 5388 
+dedicated Heathrow_Airport.txt 4 3026 3513 3684 4473 
+months Heathrow_Airport.txt 3 1526 2579 4027 
+figure Heathrow_Airport.txt 1 2197 
+december Heathrow_Airport.txt 3 1442 4029 5301 
+allowed Heathrow_Airport.txt 7 1374 1641 1739 1779 2057 4845 5422 
+capsules Heathrow_Airport.txt 1 4537 
+conurbation Heathrow_Airport.txt 2 368 1106 
+winter Heathrow_Airport.txt 1 5437 
+bmis Heathrow_Airport.txt 1 2392 
+1 Heathrow_Airport.txt 21 478 1606 1649 2322 2329 2331 2350 2401 2422 2452 2480 2706 2750 3525 3812 3867 4199 4821 4859 5366 5502 
+fourth Heathrow_Airport.txt 1 4063 
+plus Heathrow_Airport.txt 2 1617 1655 
+five-year Heathrow_Airport.txt 1 4575 
+skytrax Heathrow_Airport.txt 1 3532 
+may Heathrow_Airport.txt 3 2204 3604 3628 
+haneda Heathrow_Airport.txt 1 4022 
+southern Heathrow_Airport.txt 3 3132 3307 4600 
+motorway Heathrow_Airport.txt 5 332 3685 4605 4629 4637 
+membership Heathrow_Airport.txt 1 1804 
+7,200 Heathrow_Airport.txt 1 4939 
+designed Heathrow_Airport.txt 5 587 593 1887 2543 2799 
+such Heathrow_Airport.txt 2 1995 5625 
+hannover Heathrow_Airport.txt 1 2489 
+branches Heathrow_Airport.txt 1 3736 
+johnson Heathrow_Airport.txt 2 5037 5389 
+sq Heathrow_Airport.txt 6 123 2795 3052 3161 3558 3568 
+st Heathrow_Airport.txt 2 611 932 
+so Heathrow_Airport.txt 4 1236 3793 4551 5124 
+african Heathrow_Airport.txt 1 2733 
+take-offs Heathrow_Airport.txt 1 5135 
+masterplan Heathrow_Airport.txt 1 582 
+exclusive Heathrow_Airport.txt 1 3352 
+serving Heathrow_Airport.txt 3 403 980 4336 
+estuary Heathrow_Airport.txt 1 5058 
+mainly Heathrow_Airport.txt 1 4803 
+years Heathrow_Airport.txt 6 875 1663 1873 2810 3330 5081 
+ended Heathrow_Airport.txt 1 555 
+cartoon-style Heathrow_Airport.txt 1 2196 
+still Heathrow_Airport.txt 2 830 4777 
+police Heathrow_Airport.txt 1 2135 
+internationally Heathrow_Airport.txt 1 4003 
+forecourt Heathrow_Airport.txt 2 2972 3216 
+policy Heathrow_Airport.txt 1 2636 
+main Heathrow_Airport.txt 15 1051 1140 2325 2405 2522 2569 2854 3115 3295 3486 3498 3545 4850 4901 5636 
+prime Heathrow_Airport.txt 1 5408 
+thereby Heathrow_Airport.txt 1 1266 
+09r Heathrow_Airport.txt 1 1347 
+1955 Heathrow_Airport.txt 1 2780 
+dpt Heathrow_Airport.txt 1 157 
+09l Heathrow_Airport.txt 2 637 1341 
+half Heathrow_Airport.txt 1 1534 
+arriving Heathrow_Airport.txt 3 709 1287 2492 
+now Heathrow_Airport.txt 8 480 799 851 1357 2162 2241 3165 3934 
+hall Heathrow_Airport.txt 1 483 
+icelandair Heathrow_Airport.txt 2 2255 2646 
+name Heathrow_Airport.txt 1 458 
+january Heathrow_Airport.txt 2 4881 4914 
+drop Heathrow_Airport.txt 1 1814 
+check-in Heathrow_Airport.txt 3 3027 3249 5725 
+noisiest Heathrow_Airport.txt 1 1410 
+square Heathrow_Airport.txt 3 120 3555 3565 
+significantly Heathrow_Airport.txt 3 1228 2110 5585 
+populated Heathrow_Airport.txt 1 1276 
+shortlisting Heathrow_Airport.txt 1 5303 
+owing Heathrow_Airport.txt 1 4299 
+year Heathrow_Airport.txt 4 1620 1950 2079 5448 
+eu Heathrow_Airport.txt 1 1803 
+et Heathrow_Airport.txt 1 158 
+intended Heathrow_Airport.txt 1 3004 
+canada Heathrow_Airport.txt 1 2715 
+citing Heathrow_Airport.txt 1 5614 
+opened Heathrow_Airport.txt 11 568 2332 2348 2439 2538 2774 2861 3120 3319 3335 4482 
+space Heathrow_Airport.txt 1 3703 
+qc Heathrow_Airport.txt 1 1413 
+increase Heathrow_Airport.txt 11 90 1593 1643 2003 2021 2035 2069 2111 2758 3679 4758 
+shows Heathrow_Airport.txt 1 4133 
+cars Heathrow_Airport.txt 2 4774 4781 
+million Heathrow_Airport.txt 12 86 694 728 1891 1905 1947 2804 2816 2821 2944 3060 3579 
+seventh Heathrow_Airport.txt 1 69 
+accommodation Heathrow_Airport.txt 1 3638 
+card Heathrow_Airport.txt 1 4409 
+training Heathrow_Airport.txt 1 3424 
+british Heathrow_Airport.txt 21 183 641 669 885 1741 2087 2317 2356 2375 2388 2472 2503 3344 3388 3442 3622 4183 4232 4867 4907 4927 
+routed Heathrow_Airport.txt 1 1046 
+place Heathrow_Airport.txt 2 950 1956 
+routes Heathrow_Airport.txt 7 1312 1784 2371 2876 4088 4137 4806 
+discontinued Heathrow_Airport.txt 1 4790 
+first Heathrow_Airport.txt 5 2673 2697 2936 3358 3395 
+flying Heathrow_Airport.txt 2 655 730 
+one Heathrow_Airport.txt 14 396 977 1048 1136 1292 2486 2491 2639 3642 4196 4229 4415 5219 5390 
+submit Heathrow_Airport.txt 1 2180 
+directly Heathrow_Airport.txt 1 365 
+spanish Heathrow_Airport.txt 1 2545 
+carry Heathrow_Airport.txt 1 4516 
+open Heathrow_Airport.txt 1 1821 
+size Heathrow_Airport.txt 1 3600 
+airbus Heathrow_Airport.txt 6 900 1998 2952 2966 3273 3518 
+interchange Heathrow_Airport.txt 1 4836 
+little Heathrow_Airport.txt 2 1983 2238 
+04:00 Heathrow_Airport.txt 1 1408 
+2,934,554 Heathrow_Airport.txt 1 4110 
+uks Heathrow_Airport.txt 2 2935 5672 
+1a Heathrow_Airport.txt 1 4823 
+cooling Heathrow_Airport.txt 1 2601 
+2 Heathrow_Airport.txt 26 684 2230 2437 2461 2471 2515 2518 2526 2563 2617 2703 2773 3144 3817 3848 3881 3884 3911 3953 4224 4338 4355 4562 4855 5486 5504 
+draft Heathrow_Airport.txt 1 4573 
+white Heathrow_Airport.txt 1 4952 
+hub Heathrow_Airport.txt 7 181 667 3447 5104 5454 5475 5681 
+that Heathrow_Airport.txt 23 117 149 278 460 1487 1504 1636 2555 3226 4178 4513 4925 5012 5041 5073 5125 5245 5267 5334 5348 5418 5580 5608 
+continuous Heathrow_Airport.txt 2 1190 4302 
+released Heathrow_Airport.txt 1 5296 
+short Heathrow_Airport.txt 2 4658 4875 
+than Heathrow_Airport.txt 6 1233 1519 3586 4048 4056 5060 
+10 Heathrow_Airport.txt 1 2665 
+television Heathrow_Airport.txt 1 986 
+12 Heathrow_Airport.txt 1 4026 
+15 Heathrow_Airport.txt 1 3697 
+14 Heathrow_Airport.txt 5 95 255 3325 3695 4045 
+17 Heathrow_Airport.txt 2 2612 4880 
+16 Heathrow_Airport.txt 1 3619 
+19 Heathrow_Airport.txt 1 3329 
+require Heathrow_Airport.txt 1 3637 
+future Heathrow_Airport.txt 3 2115 4891 4956 
+were Heathrow_Airport.txt 17 430 463 699 705 1461 1535 1885 2415 3003 3262 3268 3409 3460 4569 4750 5085 5268 
+and Heathrow_Airport.txt 176 4 14 67 103 129 171 185 298 303 306 316 353 391 410 467 484 504 574 597 606 671 687 733 766 845 849 865 914 923 954 976 985 1067 1101 1112 1259 1294 1310 1318 1346 1385 1407 1415 1503 1555 1570 1652 1697 1722 1745 1757 1765 1805 1830 1838 1858 1876 1968 2061 2167 2240 2254 2271 2283 2303 2306 2319 2335 2360 2363 2394 2463 2490 2512 2564 2576 2599 2611 2614 2645 2707 2716 2735 2781 2797 2885 2956 2982 3012 3038 3054 3083 3103 3139 3145 3163 3180 3192 3195 3221 3236 3254 3257 3264 3281 3306 3317 3343 3346 3422 3491 3575 3589 3597 3696 3742 3843 3929 3955 3975 3986 3991 4020 4053 4079 4197 4212 4280 4321 4326 4339 4341 4349 4356 4369 4380 4388 4391 4492 4523 4530 4548 4563 4640 4642 4651 4657 4659 4724 4740 4755 4822 4827 4831 4856 4864 4884 4893 4897 4942 4963 4995 5007 5119 5136 5201 5319 5347 5369 5442 5575 5620 5630 5657 5719 5737 
+armored Heathrow_Airport.txt 1 2140 
+locations Heathrow_Airport.txt 1 2658 
+534,470 Heathrow_Airport.txt 1 2794 
+borough Heathrow_Airport.txt 1 270 
+occupied Heathrow_Airport.txt 2 893 2558 
+any Heathrow_Airport.txt 1 5019 
+speedbird Heathrow_Airport.txt 1 4242 
+undergrounds Heathrow_Airport.txt 1 3744 
+consortium Heathrow_Airport.txt 1 145 
+potential Heathrow_Airport.txt 1 5471 
+take Heathrow_Airport.txt 3 949 2059 4769 
+green Heathrow_Airport.txt 1 285 
+channel Heathrow_Airport.txt 1 5394 
+track Heathrow_Airport.txt 1 4535 
+decreasing Heathrow_Airport.txt 1 5139 
+falls Heathrow_Airport.txt 1 334 
+complaints Heathrow_Airport.txt 2 1522 2219 
+cleared Heathrow_Airport.txt 1 1133 
+aerodrome Heathrow_Airport.txt 1 443 
+considered Heathrow_Airport.txt 1 5271 
+later Heathrow_Airport.txt 2 3894 5082 
+a380 Heathrow_Airport.txt 8 901 1999 2953 2967 3274 3286 3519 4619 
+link Heathrow_Airport.txt 6 5481 5540 5553 5634 5654 5662 
+senior Heathrow_Airport.txt 1 5391 
+walking Heathrow_Airport.txt 1 4360 
+show Heathrow_Airport.txt 1 5762 
+birds-eye Heathrow_Airport.txt 3 2852 3113 3293 
+slot Heathrow_Airport.txt 1 1547 
+upgrade Heathrow_Airport.txt 1 3205 
+12.80 Heathrow_Airport.txt 1 1647 
+proportion Heathrow_Airport.txt 1 5592 
+3 Heathrow_Airport.txt 25 727 1604 2257 2296 2420 2511 2721 2767 2848 2851 2858 2860 2915 2963 3044 3066 3146 3187 3921 3928 3938 4340 4357 4564 4857 
+only Heathrow_Airport.txt 7 408 801 1740 1971 2664 4670 5726 
+going Heathrow_Airport.txt 1 4122 
+alternation Heathrow_Airport.txt 2 1223 1340 
+designated Heathrow_Airport.txt 2 280 3594 
+aim Heathrow_Airport.txt 1 5588 
+cannot Heathrow_Airport.txt 1 1417 
+20142019 Heathrow_Airport.txt 1 4574 
+closure Heathrow_Airport.txt 2 2498 2764 
+busiest Heathrow_Airport.txt 9 41 60 70 716 4002 4036 4064 4087 4136 
+miles Heathrow_Airport.txt 3 96 1179 5710 
+where Heathrow_Airport.txt 3 476 946 2201 
+up Heathrow_Airport.txt 4 2813 3616 4501 4517 
+us Heathrow_Airport.txt 3 1753 1849 1856 
+parking Heathrow_Airport.txt 1 4814 
+1929 Heathrow_Airport.txt 1 436 
+review Heathrow_Airport.txt 1 5161 
+north-west Heathrow_Airport.txt 2 5307 5373 
+behind Heathrow_Airport.txt 1 4004 
+recognisable Heathrow_Airport.txt 1 4688 
+between Heathrow_Airport.txt 12 731 1109 1405 1720 3303 3693 3926 3989 4385 4476 4489 5655 
+reading Heathrow_Airport.txt 1 5574 
+originated Heathrow_Airport.txt 1 434 
+piccadilly Heathrow_Airport.txt 1 3745 
+densely Heathrow_Airport.txt 1 1275 
+awards Heathrow_Airport.txt 1 3543 
+article Heathrow_Airport.txt 7 2326 2523 2855 3116 3296 4902 5637 
+jfk Heathrow_Airport.txt 1 734 
+reaction Heathrow_Airport.txt 1 5377 
+many Heathrow_Airport.txt 5 874 2082 3790 4324 4698 
+according Heathrow_Airport.txt 2 1878 2085 
+s Heathrow_Airport.txt 2 1016 5735 
+railway Heathrow_Airport.txt 4 5453 5463 5476 5488 
+1,135,390 Heathrow_Airport.txt 1 3160 
+nearby Heathrow_Airport.txt 1 4627 
+afterwards Heathrow_Airport.txt 1 1847 
+overview Heathrow_Airport.txt 1 3978 
+period Heathrow_Airport.txt 2 1428 2662 
+60 Heathrow_Airport.txt 1 3572 
+poo Heathrow_Airport.txt 1 5405 
+associated Heathrow_Airport.txt 1 1089 
+no-fly Heathrow_Airport.txt 1 1473 
+howard Heathrow_Airport.txt 5 209 5176 5225 5274 5396 
+west Heathrow_Airport.txt 10 99 259 321 350 377 442 1026 1258 1332 5566 
+airlines Heathrow_Airport.txt 42 654 1588 1707 1764 1767 1778 1850 1853 1855 2012 2030 2270 2282 2288 2302 2315 2385 2631 2653 2677 2694 2726 2728 2731 2740 3082 3099 3102 3183 3191 3212 3280 3471 3791 3825 3864 3887 3932 3954 3962 4214 4217 
+four-story Heathrow_Airport.txt 1 3485 
+combined Heathrow_Airport.txt 1 3634 
+helicopter Heathrow_Airport.txt 1 2898 
+500 Heathrow_Airport.txt 1 3428 
+concentrated Heathrow_Airport.txt 1 1448 
+direction Heathrow_Airport.txt 1 789 
+enable Heathrow_Airport.txt 2 2018 3207 
+lanes Heathrow_Airport.txt 2 4738 4763 
+bmi Heathrow_Airport.txt 1 2378 
+external Heathrow_Airport.txt 1 5785 
+former Heathrow_Airport.txt 1 847 
+these Heathrow_Airport.txt 8 807 1092 1120 1783 3001 4701 5228 5250 
+co-ordination Heathrow_Airport.txt 1 1713 
+cancelled Heathrow_Airport.txt 2 3432 5079 
+longford Heathrow_Airport.txt 1 297 
+shops Heathrow_Airport.txt 2 2610 3588 
+invited Heathrow_Airport.txt 1 5253 
+coupled Heathrow_Airport.txt 1 3418 
+middle Heathrow_Airport.txt 4 765 2268 3097 3181 
+kenya Heathrow_Airport.txt 1 3369 
+technology Heathrow_Airport.txt 1 4558 
+movements Heathrow_Airport.txt 3 1038 2077 3985 
+different Heathrow_Airport.txt 1 750 
+develop Heathrow_Airport.txt 2 560 5536 
+same Heathrow_Airport.txt 3 1539 2065 4557 
+paa Heathrow_Airport.txt 1 1756 
+respite Heathrow_Airport.txt 1 1476 
+bermuda Heathrow_Airport.txt 2 1733 1786 
+550,000 Heathrow_Airport.txt 1 2084 
+pan Heathrow_Airport.txt 1 1743 
+extended Heathrow_Airport.txt 3 809 3248 3674 
+see Heathrow_Airport.txt 3 11 2114 5774 
+singapore Heathrow_Airport.txt 1 5200 
+driver Heathrow_Airport.txt 1 4454 
+allocation Heathrow_Airport.txt 1 1702 
+running Heathrow_Airport.txt 1 805 
+edges Heathrow_Airport.txt 1 506 
+passing Heathrow_Airport.txt 1 5721 
+largely Heathrow_Airport.txt 1 491 
+60,000 Heathrow_Airport.txt 1 3564 
+roughly Heathrow_Airport.txt 1 500 
+relief Heathrow_Airport.txt 1 1438 
+trains Heathrow_Airport.txt 2 4375 5702 
+model Heathrow_Airport.txt 4 882 896 4610 4621 
+bodies Heathrow_Airport.txt 1 2193 
+charged Heathrow_Airport.txt 1 4462 
+taxi Heathrow_Airport.txt 2 1395 4587 
+summer Heathrow_Airport.txt 1 1529 
+being Heathrow_Airport.txt 6 1132 2175 2430 2465 4426 4796 
+when Heathrow_Airport.txt 9 371 1080 1221 1234 1333 3993 4405 4410 5252 
+unofficial Heathrow_Airport.txt 1 870 
+foot Heathrow_Airport.txt 1 1117 
+polish Heathrow_Airport.txt 1 2730 
+speed Heathrow_Airport.txt 3 4499 5485 5707 
+weekly Heathrow_Airport.txt 1 1468 
+application Heathrow_Airport.txt 1 5523 
+rental Heathrow_Airport.txt 1 4276 
+favouring Heathrow_Airport.txt 1 5047 
+airfield Heathrow_Airport.txt 3 440 547 4264 
+pile Heathrow_Airport.txt 1 5403 
+4 Heathrow_Airport.txt 21 2227 2298 2540 2691 2708 3089 3109 3112 3119 3124 3230 3902 3930 4348 4368 4390 4414 4639 4647 4826 5395 
+extensive Heathrow_Airport.txt 1 855 
+skies Heathrow_Airport.txt 1 1822 
+scheduled Heathrow_Airport.txt 3 401 1419 3965 
+around Heathrow_Airport.txt 4 988 1533 2802 3669 
+early Heathrow_Airport.txt 1 3837 
+inflation Heathrow_Airport.txt 4 1602 1616 1654 1679 
+traffic Heathrow_Airport.txt 16 49 66 78 1143 1172 1719 2112 3010 3219 3974 3997 4043 4069 4084 4745 4759 
+preference Heathrow_Airport.txt 1 1238 
+using Heathrow_Airport.txt 5 1898 2045 2964 4406 5595 
+ruled Heathrow_Airport.txt 1 5339 
+heightened Heathrow_Airport.txt 1 2156 
+kennedy Heathrow_Airport.txt 1 4101 
+collective Heathrow_Airport.txt 1 5678 
+serves Heathrow_Airport.txt 1 2299 
+annually Heathrow_Airport.txt 4 1893 2806 3581 4129 
+either Heathrow_Airport.txt 1 5284 
+fully Heathrow_Airport.txt 1 3522 
+served Heathrow_Airport.txt 2 2235 4180 
+tower Heathrow_Airport.txt 4 605 640 945 1220 
+alternated Heathrow_Airport.txt 1 1467 
+alinda Heathrow_Airport.txt 1 165 
+airside Heathrow_Airport.txt 1 4468 
+conservative Heathrow_Airport.txt 2 5006 5392 
+provider Heathrow_Airport.txt 1 4542 
+willie Heathrow_Airport.txt 2 2090 3391 
+business Heathrow_Airport.txt 6 3635 3714 4190 4201 4226 4494 
+airways Heathrow_Airport.txt 28 184 642 670 886 1742 1857 2088 2285 2305 2318 2357 2389 2473 2504 2713 2734 3085 3194 3276 3283 3345 3389 3443 3623 4184 4233 4868 4908 
+sixth Heathrow_Airport.txt 2 4001 4944 
+authorisation Heathrow_Airport.txt 1 5534 
+on Heathrow_Airport.txt 38 114 246 273 444 631 1210 1231 1272 1375 1782 1834 1842 1937 2063 2499 2539 2552 2689 2744 2866 2906 3062 3324 3339 3376 3453 3524 3854 4532 4539 4879 4954 4988 5092 5365 5406 5411 5479 
+central Heathrow_Airport.txt 9 101 261 510 598 617 2519 2901 4333 4387 
+stations Heathrow_Airport.txt 2 987 4345 
+747-400 Heathrow_Airport.txt 1 245 
+of Heathrow_Airport.txt 165 100 260 267 271 276 282 294 351 369 382 397 421 447 450 507 514 610 668 691 755 774 778 786 811 825 838 841 854 868 878 883 897 973 992 1049 1103 1137 1171 1189 1199 1270 1315 1355 1436 1500 1530 1659 1688 1703 1777 1793 1795 1896 1928 1978 1992 2038 2105 2121 2127 2132 2142 2155 2279 2367 2374 2445 2458 2469 2483 2580 2666 2765 2791 2819 2909 2926 2969 2976 2993 3017 3041 3048 3075 3130 3157 3174 3313 3354 3450 3469 3477 3483 3553 3598 3611 3733 3737 3759 3773 3783 3810 3813 3829 3879 3882 3923 3947 3981 4152 4159 4194 4205 4247 4262 4273 4304 4362 4395 4428 4443 4500 4602 4611 4773 4809 4833 4876 4904 4932 4957 4981 5018 5026 5033 5050 5115 5167 5182 5189 5199 5204 5220 5232 5260 5263 5280 5291 5404 5438 5473 5505 5527 5559 5567 5589 5593 5617 5650 5666 5708 5733 5746 5757 5767 
+favorite Heathrow_Airport.txt 1 1917 
+meaning Heathrow_Airport.txt 1 1469 
+acl Heathrow_Airport.txt 1 1715 
+ferrovial Heathrow_Airport.txt 1 148 
+airline Heathrow_Airport.txt 4 2291 2698 2844 3801 
+mixed Heathrow_Airport.txt 1 2051 
+or Heathrow_Airport.txt 10 708 2027 3912 4376 4630 5022 5289 5679 5724 5765 
+road Heathrow_Airport.txt 11 497 1008 1015 1022 1029 1036 4269 4282 4632 4645 4727 
+pick-up Heathrow_Airport.txt 1 4652 
+essex Heathrow_Airport.txt 1 1061 
+references Heathrow_Airport.txt 1 5779 
+strip Heathrow_Airport.txt 1 4296 
+operator Heathrow_Airport.txt 1 2477 
+area Heathrow_Airport.txt 18 340 406 512 518 599 619 1001 2521 2790 2981 3028 3047 3156 3250 3552 4128 4439 5755 
+strictly Heathrow_Airport.txt 1 1727 
+there Heathrow_Airport.txt 14 462 469 470 917 1337 1430 2607 2670 4117 4507 4648 4671 4696 4801 
+start Heathrow_Airport.txt 1 2032 
+lot Heathrow_Airport.txt 1 2729 
+complete Heathrow_Airport.txt 2 2987 5255 
+lane Heathrow_Airport.txt 2 495 4772 
+technologies Heathrow_Airport.txt 1 1960 
+with Heathrow_Airport.txt 36 110 341 386 400 725 758 1456 1790 1957 1970 2198 2247 2276 2663 2837 2923 2988 3072 3171 3213 3251 3382 3413 3419 3625 3677 3826 3840 3944 4044 4109 4471 4791 4977 5469 5701 
+october Heathrow_Airport.txt 4 237 2745 3856 5413 
+arranged Heathrow_Airport.txt 1 745 
+emissions Heathrow_Airport.txt 1 4986 
+required Heathrow_Airport.txt 3 792 1551 2178 
+multi-story Heathrow_Airport.txt 1 3704 
+certain Heathrow_Airport.txt 1 958 
+moved Heathrow_Airport.txt 3 2654 3461 3835 
+general Heathrow_Airport.txt 2 1964 5003 
+examine Heathrow_Airport.txt 1 212 
+at Heathrow_Airport.txt 49 218 230 459 627 644 749 957 1115 1127 1145 1203 1322 1399 1601 1690 1975 2150 2164 2418 2686 2754 2890 3309 3374 3458 3474 3639 3892 3951 3968 4138 4228 4241 4317 4346 4419 4497 4592 4598 4654 4824 4919 5179 5311 5317 5323 5356 5375 5704 
+orchards Heathrow_Airport.txt 1 468 
+lifetime Heathrow_Airport.txt 1 2829 
+mover Heathrow_Airport.txt 1 3504 
+moves Heathrow_Airport.txt 2 3785 3891 
+stansted Heathrow_Airport.txt 2 388 1556 
+4.6 Heathrow_Airport.txt 1 1180 
+istanbul Heathrow_Airport.txt 1 4057 
+49,654 Heathrow_Airport.txt 1 2792 
+storage Heathrow_Airport.txt 1 626 
+field Heathrow_Airport.txt 1 776 
+5 Heathrow_Airport.txt 24 622 686 1930 2311 2347 2513 2688 3080 3289 3292 3299 3301 3363 3437 3529 3753 3775 4350 4370 4392 4491 4641 5544 5764 
+thames Heathrow_Airport.txt 1 5057 
+you Heathrow_Airport.txt 1 4842 
+includes Heathrow_Airport.txt 3 151 2587 3512 
+a4 Heathrow_Airport.txt 2 4631 4726 
+included Heathrow_Airport.txt 2 2933 4570 
+guildford Heathrow_Airport.txt 1 5573 
+building Heathrow_Airport.txt 14 2098 2567 2778 2831 2840 2912 2929 2996 3488 3547 3593 4177 4935 4946 
+remote Heathrow_Airport.txt 1 4566 
+bilateral Heathrow_Airport.txt 2 1732 1787 
+qantas Heathrow_Airport.txt 2 243 2957 
+battery-powered Heathrow_Airport.txt 1 4529 
+hillingdon Heathrow_Airport.txt 1 272 
+hugely Heathrow_Airport.txt 1 3780 
+original Heathrow_Airport.txt 7 595 603 818 827 2561 2657 2771 
+all Heathrow_Airport.txt 11 824 981 2621 2711 3100 3821 3863 3917 4593 4655 4664 
+surrounded Heathrow_Airport.txt 1 290 
+flybe Heathrow_Airport.txt 3 2253 2644 3948 
+caused Heathrow_Airport.txt 1 3426 
+off-road Heathrow_Airport.txt 1 4804 
+lack Heathrow_Airport.txt 1 5558 
+children Heathrow_Airport.txt 1 4522 
+tv Heathrow_Airport.txt 1 978 
+to Heathrow_Airport.txt 165 211 248 300 308 311 319 531 559 634 656 685 861 931 941 1096 1135 1157 1194 1218 1248 1291 1297 1300 1305 1352 1364 1368 1380 1386 1391 1403 1444 1552 1582 1589 1611 1624 1642 1646 1674 1706 1747 1751 1762 1774 1780 1801 1813 1864 1879 1888 1945 1961 2013 2017 2020 2031 2034 2058 2080 2086 2102 2171 2179 2181 2435 2488 2509 2584 2603 2680 2699 2741 2757 2800 2814 2870 2880 2900 2949 2990 3005 3069 3127 3135 3142 3167 3196 3206 3209 3217 3228 3245 3270 3336 3360 3399 3430 3462 3496 3601 3608 3617 3644 3675 3690 3718 3795 3846 3873 3903 4123 4259 4286 4300 4366 4412 4417 4457 4486 4502 4518 4554 4559 4565 4584 4706 4728 4757 4767 4784 4807 4828 4846 4852 5000 5087 5107 5111 5153 5160 5235 5248 5254 5269 5285 5378 5423 5458 5482 5494 5524 5532 5535 5541 5545 5563 5572 5586 5598 5600 5628 5669 5716 5761 
+appointment Heathrow_Airport.txt 2 5184 5234 
+parcel Heathrow_Airport.txt 1 275 
+very Heathrow_Airport.txt 1 521 
+mph Heathrow_Airport.txt 1 4506 
+icao Heathrow_Airport.txt 1 26 
+list Heathrow_Airport.txt 1 1776 
+large Heathrow_Airport.txt 4 2984 3036 4331 5753 
+small Heathrow_Airport.txt 2 439 4510 
+conflicted Heathrow_Airport.txt 1 1789 
+programme Heathrow_Airport.txt 1 3782 
+ten Heathrow_Airport.txt 1 1540 
+short-haul Heathrow_Airport.txt 1 2393 
+nearing Heathrow_Airport.txt 1 549 
+rate Heathrow_Airport.txt 1 4547 
+pass Heathrow_Airport.txt 1 3385 
+further Heathrow_Airport.txt 6 1301 1544 3592 3889 4673 5023 
+investment Heathrow_Airport.txt 3 169 3664 5197 
+2,200-metre Heathrow_Airport.txt 1 4938 
+public Heathrow_Airport.txt 5 3338 4309 4965 5560 5596 
+full Heathrow_Airport.txt 4 1123 2158 5130 5361 
+christian Heathrow_Airport.txt 1 947 
+beacon Heathrow_Airport.txt 1 1079 
+operating Heathrow_Airport.txt 4 188 1974 2668 5029 
+november Heathrow_Airport.txt 3 2574 2868 4968 
+search Heathrow_Airport.txt 1 2184 
+experience Heathrow_Airport.txt 1 3008 
+prior Heathrow_Airport.txt 1 4999 
+airport Heathrow_Airport.txt 82 1 18 32 42 61 71 126 133 288 347 423 433 455 524 562 566 571 578 585 648 663 735 905 965 1082 1559 1699 1712 1867 1881 1900 1911 2026 2041 2093 2107 2123 2152 2166 2225 2894 3535 3542 3671 3971 4008 4012 4015 4019 4023 4037 4052 4059 4066 4074 4081 4091 4103 4116 4140 4154 4161 4207 4210 4240 4291 4305 4438 4680 4685 4906 5045 5054 5146 5162 5293 5325 5342 5519 5569 5602 5659 
+published Heathrow_Airport.txt 2 5330 5364 
+options Heathrow_Airport.txt 4 214 4700 5305 5336 
+via Heathrow_Airport.txt 1 4625 
+depart Heathrow_Airport.txt 1 1255 
+buses Heathrow_Airport.txt 4 4325 4435 4475 4711 
+transit Heathrow_Airport.txt 3 3505 3725 4465 
+africa Heathrow_Airport.txt 1 3238 
+qc/16 Heathrow_Airport.txt 1 1416 
+twa Heathrow_Airport.txt 2 1746 1758 
+takes Heathrow_Airport.txt 1 456 
+destination Heathrow_Airport.txt 2 718 4456 
+two Heathrow_Airport.txt 20 105 777 802 813 1279 1972 2048 2481 3265 3403 3492 4198 4521 4732 4737 4747 5080 5129 5673 5696 
+almost Heathrow_Airport.txt 1 823 
+6 Heathrow_Airport.txt 1 2946 
+taken Heathrow_Airport.txt 2 1510 5435 
+minor Heathrow_Airport.txt 1 3890 
+more Heathrow_Airport.txt 9 1128 1229 1518 1986 3585 3708 4046 4055 5044 
+company Heathrow_Airport.txt 2 2845 3349 
+owners Heathrow_Airport.txt 1 5223 
+landed Heathrow_Airport.txt 1 4873 
+known Heathrow_Airport.txt 5 20 2532 3029 5194 5547 
+co-location Heathrow_Airport.txt 1 2635 
+take-off Heathrow_Airport.txt 1 4912 
+hour Heathrow_Airport.txt 1 5712 
+ohare Heathrow_Airport.txt 2 1920 4017 
+coalition Heathrow_Airport.txt 1 5067 
+tw6 Heathrow_Airport.txt 1 344 
+history Heathrow_Airport.txt 1 417 
+stated Heathrow_Airport.txt 2 530 5579 
+g-conc Heathrow_Airport.txt 1 888 
+states Heathrow_Airport.txt 3 1725 1829 2883 
+numbers Heathrow_Airport.txt 4 721 2006 3682 3983 
+chicagos Heathrow_Airport.txt 1 4016 
+sikh Heathrow_Airport.txt 1 915 
+information Heathrow_Airport.txt 1 1545 
+needs Heathrow_Airport.txt 1 5043 
+rather Heathrow_Airport.txt 1 5059 
+demolition Heathrow_Airport.txt 1 3872 
+surpassed Heathrow_Airport.txt 1 50 
+occasionally Heathrow_Airport.txt 2 1371 2147 
+ft Heathrow_Airport.txt 6 2796 3053 3162 3559 3569 4940 
+plans Heathrow_Airport.txt 6 4553 4894 5498 5507 5742 5759 
+coming Heathrow_Airport.txt 1 3233 
+a Heathrow_Airport.txt 103 29 83 88 115 227 242 274 438 472 481 485 493 520 564 673 688 756 879 884 895 919 1076 1168 1237 1434 1494 1498 1562 1670 1807 1819 1902 1922 1951 2099 2182 2186 2195 2213 2365 2443 2588 2592 2600 2660 2817 2896 2977 2983 3032 3035 3104 3203 3242 3258 3365 3383 3475 3484 3490 3549 3591 3630 3653 3683 3701 3707 3722 3748 3779 3850 3893 3924 4176 4182 4463 4498 4533 4544 4608 4770 4936 4943 4964 4972 5112 5202 5281 5320 5349 5371 5425 5429 5456 5480 5537 5651 5667 5677 5687 5705 5752 5771 
+imagery Heathrow_Airport.txt 1 2208 
+register Heathrow_Airport.txt 1 5259 
+departure Heathrow_Airport.txt 5 1232 1311 1349 1378 3255 
+hatton Heathrow_Airport.txt 2 307 4420 
+lhr Heathrow_Airport.txt 3 5 15 25 
+help Heathrow_Airport.txt 1 1381 
+september Heathrow_Airport.txt 2 194 2216 
+installed Heathrow_Airport.txt 1 3263 
+held Heathrow_Airport.txt 2 1126 1561 
+paper Heathrow_Airport.txt 1 4953 
+through Heathrow_Airport.txt 4 2824 3372 4848 5722 
+its Heathrow_Airport.txt 24 355 457 779 967 1211 1513 1802 2074 2368 2427 2808 2828 3024 3332 3347 3406 3445 3871 3940 4220 4301 5205 5297 5587 
+25 Heathrow_Airport.txt 3 3454 4505 5412 
+27 Heathrow_Airport.txt 1 3340 
+20 Heathrow_Airport.txt 1 4135 
+21 Heathrow_Airport.txt 1 4509 
+22 Heathrow_Airport.txt 3 2746 3855 4054 
+23 Heathrow_Airport.txt 4 97 257 4634 4730 
+29 Heathrow_Airport.txt 1 2500 
+late Heathrow_Airport.txt 1 5640 
+systems Heathrow_Airport.txt 1 3417 
+3,200,000 Heathrow_Airport.txt 1 3557 
+travelling Heathrow_Airport.txt 2 4411 5703 
+seeking Heathrow_Airport.txt 1 5531 
+ceo Heathrow_Airport.txt 2 2089 3390 
+underground Heathrow_Airport.txt 3 938 3502 4403 
+inception Heathrow_Airport.txt 1 3333 
+always Heathrow_Airport.txt 1 782 
+accommodated Heathrow_Airport.txt 1 2812 
+england Heathrow_Airport.txt 1 5168 
+house Heathrow_Airport.txt 2 487 4243 
+energy Heathrow_Airport.txt 1 2597 
+reduce Heathrow_Airport.txt 4 1302 1382 3009 3218 
+bromley Heathrow_Airport.txt 1 1066 
+connect Heathrow_Airport.txt 3 4382 4560 4719 
+operation Heathrow_Airport.txt 1 1421 
+event Heathrow_Airport.txt 1 5745 
+assignments Heathrow_Airport.txt 1 3756 
+since Heathrow_Airport.txt 4 902 3632 4580 4614 
+hill Heathrow_Airport.txt 1 1063 
+7 Heathrow_Airport.txt 1 704 
+housed Heathrow_Airport.txt 1 2843 
+houses Heathrow_Airport.txt 4 2242 2258 2312 4203 
+terminals Heathrow_Airport.txt 28 113 429 511 596 682 2222 2228 2510 2705 3143 3415 3765 3799 3927 4337 4347 4354 4389 4477 4561 4594 4633 4638 4656 4708 4729 4811 4854 
+base Heathrow_Airport.txt 4 189 674 2354 2406 
+members Heathrow_Airport.txt 8 2245 2260 2275 2309 2414 2624 3071 3091 
+backed Heathrow_Airport.txt 2 226 5370 
+southend Heathrow_Airport.txt 1 390 
+earliest Heathrow_Airport.txt 1 5446 
+generate Heathrow_Airport.txt 1 2604 
+pairs Heathrow_Airport.txt 1 748 
+retained Heathrow_Airport.txt 1 2466 
+e.g Heathrow_Airport.txt 6 1006 1013 1020 1027 1034 3896 
+american Heathrow_Airport.txt 1 1766 
+w Heathrow_Airport.txt 1 1023 
+consequence Heathrow_Airport.txt 1 1808 
+major Heathrow_Airport.txt 2 30 983 
+consultations Heathrow_Airport.txt 1 5441 
+number Heathrow_Airport.txt 3 1895 2037 2444 
+linking Heathrow_Airport.txt 2 5627 5694 
+feet Heathrow_Airport.txt 2 1111 1114 
+airborne Heathrow_Airport.txt 1 1383 
+fees Heathrow_Airport.txt 1 1676 
+leading Heathrow_Airport.txt 1 5083 
+180 Heathrow_Airport.txt 1 5709 
+least Heathrow_Airport.txt 1 1916 
+regulation Heathrow_Airport.txt 1 1542 
+station Heathrow_Airport.txt 6 2602 3754 4319 4335 4424 5477 
+passed Heathrow_Airport.txt 2 2823 3371 
+185 Heathrow_Airport.txt 1 657 
+scheme Heathrow_Airport.txt 4 174 4449 5582 5685 
+four-kilometre Heathrow_Airport.txt 1 4534 
+relieved Heathrow_Airport.txt 1 1934 
+park Heathrow_Airport.txt 4 2595 3706 3712 4496 
+part Heathrow_Airport.txt 7 281 2457 2468 3016 4427 5665 5766 
+inaugurated Heathrow_Airport.txt 1 2337 
+center Heathrow_Airport.txt 1 2598 
+b Heathrow_Airport.txt 1 3562 
+newall Heathrow_Airport.txt 1 1007 
+aims Heathrow_Airport.txt 1 5106 
+scandinavian Heathrow_Airport.txt 1 4213 
+charges Heathrow_Airport.txt 1 1613 
+determined Heathrow_Airport.txt 1 1693 
+emirates Heathrow_Airport.txt 3 899 2955 4618 
+taxis Heathrow_Airport.txt 1 4589 
+scanners Heathrow_Airport.txt 2 2160 2190 
+alongside Heathrow_Airport.txt 1 1918 
+pedestrian Heathrow_Airport.txt 1 4782 
+option Heathrow_Airport.txt 1 5310 
+sell Heathrow_Airport.txt 1 1553 
+paths Heathrow_Airport.txt 2 1451 1459 
+built Heathrow_Airport.txt 8 431 2455 2551 3269 3473 3607 5355 5478 
+majority Heathrow_Airport.txt 1 381 
+internal Heathrow_Airport.txt 1 994 
+build Heathrow_Airport.txt 1 5424 
+taxiways Heathrow_Airport.txt 1 839 
+added Heathrow_Airport.txt 2 1773 2932 
+15:00 Heathrow_Airport.txt 1 1323 
+most Heathrow_Airport.txt 10 991 1274 2307 2408 3197 3224 3661 4106 4272 4687 
+plan Heathrow_Airport.txt 5 3665 4577 5457 5491 5668 
+significant Heathrow_Airport.txt 1 1495 
+70 Heathrow_Airport.txt 1 1904 
+services Heathrow_Airport.txt 7 402 948 1863 2023 4384 4404 4795 
+approved Heathrow_Airport.txt 1 235 
+oyster Heathrow_Airport.txt 1 4408 
+sometimes Heathrow_Airport.txt 1 1173 
+km Heathrow_Airport.txt 4 98 258 1181 5690 
+overcrowding Heathrow_Airport.txt 1 1875 
+surrey Heathrow_Airport.txt 1 1071 
+particularly Heathrow_Airport.txt 2 1202 5384 
+gates Heathrow_Airport.txt 1 2448 
+commissions Heathrow_Airport.txt 1 5258 
+minimizing Heathrow_Airport.txt 1 1267 
+relation Heathrow_Airport.txt 1 1800 
+freight Heathrow_Airport.txt 1 3988 
+impact Heathrow_Airport.txt 2 1269 4987 
+northern Heathrow_Airport.txt 5 843 3305 4174 4267 4717 
+merger Heathrow_Airport.txt 2 3452 3624 
+failed Heathrow_Airport.txt 1 5247 
+flights Heathrow_Airport.txt 14 1398 1987 2039 2482 2667 2679 2960 3064 3225 3232 3244 3287 3429 3967 
+8 Heathrow_Airport.txt 2 1414 2815 
+policing Heathrow_Airport.txt 1 2120 
+dominant Heathrow_Airport.txt 1 1563 
+express Heathrow_Airport.txt 4 3741 4315 4374 4379 
+compass Heathrow_Airport.txt 2 4147 4170 
+during Heathrow_Airport.txt 4 1242 1424 2153 3401 
+luton Heathrow_Airport.txt 1 389 
+six-month Heathrow_Airport.txt 1 2661 
+croatia Heathrow_Airport.txt 1 2727 
+restaurants Heathrow_Airport.txt 2 2615 3590 
+bars Heathrow_Airport.txt 1 2613 
+set Heathrow_Airport.txt 1 1481 
+316 Heathrow_Airport.txt 1 2820 
+2.9 Heathrow_Airport.txt 1 1182 
+are Heathrow_Airport.txt 37 413 808 996 1044 1125 1289 1335 1373 1401 1431 2161 2177 2464 2608 3231 3766 4118 4278 4358 4371 4393 4440 4460 4469 4508 4528 4590 4649 4668 4672 4697 4704 4735 4741 4802 4816 4843 
+close Heathrow_Airport.txt 1 1175 
+locals Heathrow_Airport.txt 1 4298 
+project Heathrow_Airport.txt 2 3019 5613 
+2025 Heathrow_Airport.txt 1 5451 
+various Heathrow_Airport.txt 1 213 
+heathrows Heathrow_Airport.txt 13 638 692 869 993 1278 1883 3660 3762 4173 4274 5099 5221 5747 
+architect Heathrow_Airport.txt 1 2546 
+available Heathrow_Airport.txt 3 4591 4817 5562 
+europa Heathrow_Airport.txt 1 2777 
+initially Heathrow_Airport.txt 1 2211 
+sold Heathrow_Airport.txt 1 1759 
+fgp Heathrow_Airport.txt 1 140 
+aircraft Heathrow_Airport.txt 24 536 630 643 1040 1085 1107 1124 1156 1162 1201 1207 1226 1254 1288 1296 1389 1411 1478 1994 2054 3514 3573 3984 4909 
+ranked Heathrow_Airport.txt 1 3994 
+opposition Heathrow_Airport.txt 1 4979 
+both Heathrow_Airport.txt 3 3738 5109 5500 
+c Heathrow_Airport.txt 3 1030 3511 3603 
+last Heathrow_Airport.txt 2 2476 2739 
+annual Heathrow_Airport.txt 3 1592 3540 4083 
+foreign Heathrow_Airport.txt 1 2878 
+became Heathrow_Airport.txt 3 2695 3521 3728 
+vault Heathrow_Airport.txt 1 939 
+whole Heathrow_Airport.txt 1 516 
+upgraded Heathrow_Airport.txt 1 3215 
+swanwick Heathrow_Airport.txt 1 1151 
+point Heathrow_Airport.txt 1 3895 
+address Heathrow_Airport.txt 1 5555 
+regulated Heathrow_Airport.txt 1 1574 
+church Heathrow_Airport.txt 1 910 
+23:00 Heathrow_Airport.txt 1 1406 
+slots Heathrow_Airport.txt 2 1705 2016 
+throughout Heathrow_Airport.txt 1 4436 
+belt Heathrow_Airport.txt 1 286 
+due Heathrow_Airport.txt 2 1351 4583 
+citations Heathrow_Airport.txt 1 5781 
+hexagram Heathrow_Airport.txt 2 757 819 
+flight Heathrow_Airport.txt 6 1037 1450 2872 3397 4185 4869 
+1950s Heathrow_Airport.txt 2 426 740 
+counselling Heathrow_Airport.txt 1 924 
+gas Heathrow_Airport.txt 1 4985 
+12.27 Heathrow_Airport.txt 1 119 
+demand Heathrow_Airport.txt 1 4540 
+caisse Heathrow_Airport.txt 1 155 
+expanded Heathrow_Airport.txt 1 2920 
+deferred Heathrow_Airport.txt 1 4582 
+while Heathrow_Airport.txt 4 318 1769 3560 5138 
+replaced Heathrow_Airport.txt 1 4613 
+3,800 Heathrow_Airport.txt 1 3702 
+guide Heathrow_Airport.txt 1 1154 
+redevelopment Heathrow_Airport.txt 1 2968 
+kingdom Heathrow_Airport.txt 2 36 1798 
+30 Heathrow_Airport.txt 5 785 1835 1843 3578 3860 
+portugal Heathrow_Airport.txt 1 2737 
+parischarles Heathrow_Airport.txt 1 4049 
+19.8 Heathrow_Airport.txt 1 3059 
+itself Heathrow_Airport.txt 2 136 4211 
+vor Heathrow_Airport.txt 1 1077 
+alliances Heathrow_Airport.txt 1 2634 
+waterside Heathrow_Airport.txt 1 4248 
+government Heathrow_Airport.txt 9 198 234 557 4928 5196 5332 5416 5443 5618 
+radio-navigational Heathrow_Airport.txt 1 1078 
+development Heathrow_Airport.txt 4 513 2462 2751 3980 
+used Heathrow_Airport.txt 9 650 1466 2163 2431 2449 2619 3440 4742 4797 
+lie Heathrow_Airport.txt 2 314 1095 
+levels Heathrow_Airport.txt 1 5141 
+moving Heathrow_Airport.txt 2 2937 3899 
+freeflow Heathrow_Airport.txt 1 4448 
+recent Heathrow_Airport.txt 2 1872 3662 
+older Heathrow_Airport.txt 1 768 
+edge Heathrow_Airport.txt 1 773 
+chaplains Heathrow_Airport.txt 2 916 952 
+shape Heathrow_Airport.txt 1 754 
+intervals Heathrow_Airport.txt 1 1118 
+world Heathrow_Airport.txt 8 45 74 551 990 3541 4189 4200 4225 
+also Heathrow_Airport.txt 12 19 150 1954 2096 2292 2403 2416 2647 4342 4399 5466 5775 
+exclusively Heathrow_Airport.txt 1 3439 
+gibberd Heathrow_Airport.txt 1 591 
+location Heathrow_Airport.txt 1 240 
+remaining Heathrow_Airport.txt 2 703 4467 
+march Heathrow_Airport.txt 10 1445 1631 1844 3326 3341 3434 3455 3760 3777 5511 
+big Heathrow_Airport.txt 1 1064 
+showing Heathrow_Airport.txt 2 2200 4607 
+d Heathrow_Airport.txt 2 3596 3657 
+follows Heathrow_Airport.txt 1 3769 
+continue Heathrow_Airport.txt 1 2753 
+popular Heathrow_Airport.txt 1 4107 
+harmondsworth Heathrow_Airport.txt 2 296 4255 
+walrus Heathrow_Airport.txt 1 1028 
+spring Heathrow_Airport.txt 1 3732 
+some Heathrow_Airport.txt 7 1488 1935 2002 3328 3885 4808 5756 
+metres Heathrow_Airport.txt 3 3556 3566 5118 
+experienced Heathrow_Airport.txt 1 1493 
+3.1 Heathrow_Airport.txt 1 89 
+qatar Heathrow_Airport.txt 6 152 2284 2304 3084 3193 3282 
+scale Heathrow_Airport.txt 3 881 4609 4620 
+decision Heathrow_Airport.txt 3 4948 4974 5431 
+per Heathrow_Airport.txt 6 1597 1619 1626 1949 2078 5711 
+newark Heathrow_Airport.txt 1 4113 
+connecting Heathrow_Airport.txt 1 5571 
+stanwell Heathrow_Airport.txt 1 317 
+be Heathrow_Airport.txt 19 532 783 831 1369 1418 1509 1640 2056 2205 3431 3606 3796 5270 5354 5421 5434 5450 5495 5546 
+run Heathrow_Airport.txt 4 357 4531 4538 4677 
+ba Heathrow_Airport.txt 2 2358 4251 
+continuing Heathrow_Airport.txt 1 1682 
+agreement Heathrow_Airport.txt 4 1360 1788 1816 1823 
+quota Heathrow_Airport.txt 1 1427 
+concealed Heathrow_Airport.txt 1 2202 
+lounges Heathrow_Airport.txt 1 3256 
+optimize Heathrow_Airport.txt 1 1962 
+hidden Heathrow_Airport.txt 1 5789 
+cranford Heathrow_Airport.txt 2 299 1359 
+plaza Heathrow_Airport.txt 2 2986 4837 
+pollution Heathrow_Airport.txt 2 1969 4997 
+gatwick Heathrow_Airport.txt 4 387 1554 5324 5656 
+into Heathrow_Airport.txt 7 834 1167 1452 1840 2701 5122 5676 
+within Heathrow_Airport.txt 4 414 784 4238 4359 
+rapid Heathrow_Airport.txt 2 3724 4480 
+78.0 Heathrow_Airport.txt 1 85 
+statistics Heathrow_Airport.txt 2 3976 4085 
+long Heathrow_Airport.txt 1 2369 
+consultation Heathrow_Airport.txt 1 4966 
+forward Heathrow_Airport.txt 1 1511 
+23:3006:00 Heathrow_Airport.txt 1 1429 
+jewish Heathrow_Airport.txt 1 912 
+immigration Heathrow_Airport.txt 1 5723 
+atlantic Heathrow_Airport.txt 6 192 677 1771 2237 2262 3021 
+newer Heathrow_Airport.txt 1 2446 
+delta Heathrow_Airport.txt 5 1859 2263 3092 3177 3913 
+line Heathrow_Airport.txt 3 3746 4303 5489 
+considerable Heathrow_Airport.txt 1 1185 
+deployed Heathrow_Airport.txt 1 2149 
+daylight Heathrow_Airport.txt 1 1243 
+biggin Heathrow_Airport.txt 1 1062 
+uk Heathrow_Airport.txt 6 197 219 714 1810 3366 4962 
+similar Heathrow_Airport.txt 1 3599 
+ordered Heathrow_Airport.txt 1 1812 
+adults Heathrow_Airport.txt 1 4520 
+defined Heathrow_Airport.txt 2 1074 1453 
+single Heathrow_Airport.txt 3 717 1169 4771 
+nautical Heathrow_Airport.txt 1 1178 
+four-lane Heathrow_Airport.txt 1 2979 
+berkshire Heathrow_Airport.txt 1 328 
+ockham Heathrow_Airport.txt 1 1068 
+200m Heathrow_Airport.txt 1 3204 
+grouped Heathrow_Airport.txt 1 3797 
+coded Heathrow_Airport.txt 1 999 
+department Heathrow_Airport.txt 1 5643 
+aprons Heathrow_Airport.txt 1 850 
+provided Heathrow_Airport.txt 2 4441 4470 
+problems Heathrow_Airport.txt 2 2684 3412 
+iberias Heathrow_Airport.txt 1 3456 
+allowing Heathrow_Airport.txt 1 5133 
+650,000 Heathrow_Airport.txt 1 3567 
+oneworld Heathrow_Airport.txt 3 2259 3070 3188 
+topco Heathrow_Airport.txt 1 141 
+land Heathrow_Airport.txt 4 277 445 1590 2062 
+e Heathrow_Airport.txt 1 1009 
+pedestrians Heathrow_Airport.txt 1 4754 
+vehicles Heathrow_Airport.txt 1 2141 
+orbit Heathrow_Airport.txt 1 1086 
+2003 Heathrow_Airport.txt 3 1608 1610 4951 
+2006 Heathrow_Airport.txt 1 2940 
+2007 Heathrow_Airport.txt 6 1612 1629 1837 1909 3000 4969 
+2004 Heathrow_Airport.txt 1 1818 
+far Heathrow_Airport.txt 4 540 2887 3804 4552 
+2008 Heathrow_Airport.txt 11 903 1632 1651 1717 1845 1932 3327 3342 3778 4615 4882 
+2009 Heathrow_Airport.txt 2 4915 5517 
+once Heathrow_Airport.txt 2 1205 5727 
+existing Heathrow_Airport.txt 5 1458 2011 2047 3613 5315 
+farms Heathrow_Airport.txt 1 464 
+airliners Heathrow_Airport.txt 1 360 
+go Heathrow_Airport.txt 1 3227 
+15,000 Heathrow_Airport.txt 1 1113 
+75,711,130 Heathrow_Airport.txt 1 4093 
+nippon Heathrow_Airport.txt 1 2712 
+relocated Heathrow_Airport.txt 2 2508 3845 
+confirmation Heathrow_Airport.txt 1 5231 
+outside Heathrow_Airport.txt 3 4289 4683 5496 
+continues Heathrow_Airport.txt 1 1247 
+continued Heathrow_Airport.txt 1 558 
+categories Heathrow_Airport.txt 2 5788 5790 
+positions Heathrow_Airport.txt 1 5229 
+notes Heathrow_Airport.txt 1 5777 
+this Heathrow_Airport.txt 17 488 1249 1252 2067 2484 2891 3018 3355 3627 3788 4397 4423 4947 4970 5327 5490 5660 
+concluded Heathrow_Airport.txt 1 1486 
+smaller Heathrow_Airport.txt 2 4748 4786 
+crossrail Heathrow_Airport.txt 1 5629 
+universities Heathrow_Airport.txt 1 172 
+power Heathrow_Airport.txt 1 5069 
+chicago Heathrow_Airport.txt 1 1919 
+3s Heathrow_Airport.txt 1 2971 
+access Heathrow_Airport.txt 4 863 4307 4783 4853 
+waiting Heathrow_Airport.txt 1 618 
+capital Heathrow_Airport.txt 4 166 2287 3663 4010 
+body Heathrow_Airport.txt 1 2159 
+completion Heathrow_Airport.txt 2 550 4246 
+led Heathrow_Airport.txt 1 146 
+exchange Heathrow_Airport.txt 1 5464 
+respectively Heathrow_Airport.txt 1 1768 
+skyteam Heathrow_Airport.txt 3 2300 3090 3169 
+busy Heathrow_Airport.txt 1 1084 
+luis Heathrow_Airport.txt 1 2547 
+fifteen Heathrow_Airport.txt 1 5699 
+great Heathrow_Airport.txt 1 441 
+38 Heathrow_Airport.txt 1 4870 
+involved Heathrow_Airport.txt 1 5277 
+larger Heathrow_Airport.txt 3 523 1993 4733 
+survey Heathrow_Airport.txt 1 1924 
+residents Heathrow_Airport.txt 2 1470 1489 
+multi-storey Heathrow_Airport.txt 1 4661 
+private Heathrow_Airport.txt 4 163 2187 5191 5210 
+4.74 Heathrow_Airport.txt 1 122 
+tap Heathrow_Airport.txt 1 2736 
+use Heathrow_Airport.txt 8 1186 1314 1991 2173 3087 3185 3353 4555 
+fee Heathrow_Airport.txt 1 1623 
+from Heathrow_Airport.txt 37 91 325 375 424 452 710 816 820 1163 1261 1330 1441 1477 1609 1648 1749 2024 2073 2294 2397 2493 2627 2649 2655 2669 2704 2719 2748 2903 2961 3234 3368 3900 3936 4329 4343 5385 
+stream Heathrow_Airport.txt 1 1170 
+remains Heathrow_Airport.txt 2 1342 5217 
+ministers Heathrow_Airport.txt 1 5409 
+next Heathrow_Airport.txt 1 3134 
+few Heathrow_Airport.txt 4 2272 2366 3105 3243 
+uss Heathrow_Airport.txt 1 175 
+expanding Heathrow_Airport.txt 2 5061 5098 
+started Heathrow_Airport.txt 1 1862 
+train Heathrow_Airport.txt 3 4312 4316 4383 
+harlington Heathrow_Airport.txt 1 295 
+f Heathrow_Airport.txt 1 4100 
+tunnel Heathrow_Airport.txt 3 864 3151 4851 
+control Heathrow_Airport.txt 5 604 639 944 1148 1214 
+beijing Heathrow_Airport.txt 2 2286 4009 
+reserved Heathrow_Airport.txt 1 4752 
+links Heathrow_Airport.txt 2 3687 5786 
+process Heathrow_Airport.txt 1 3852 
+built-up Heathrow_Airport.txt 1 5754 
+high Heathrow_Airport.txt 1 5484 
+his Heathrow_Airport.txt 2 5183 5233 
+interdenominational Heathrow_Airport.txt 1 934 
+junctions Heathrow_Airport.txt 1 3694 
+sir Heathrow_Airport.txt 5 208 589 5175 5224 5273 
+united Heathrow_Airport.txt 8 35 1724 1763 1797 1828 2676 2693 2882 
+six Heathrow_Airport.txt 5 398 743 974 2578 2674 
+hampshire Heathrow_Airport.txt 1 1152 
+located Heathrow_Airport.txt 3 349 4167 4237 
+responsibility Heathrow_Airport.txt 1 2126 
+instead Heathrow_Airport.txt 2 3922 4798 
+establishment Heathrow_Airport.txt 1 1794 
+fare Heathrow_Airport.txt 2 4432 4464 
+buildings Heathrow_Airport.txt 3 600 3494 4195 
+iata Heathrow_Airport.txt 1 24 
+farm Heathrow_Airport.txt 1 474 
+boeing Heathrow_Airport.txt 1 244 
+lines Heathrow_Airport.txt 5 1861 2265 3094 3179 3915 
+ba302 Heathrow_Airport.txt 1 3398 
+allow Heathrow_Airport.txt 2 1365 2001 
+airtrack Heathrow_Airport.txt 2 5513 5550 
+holds Heathrow_Airport.txt 3 1121 1141 1166 
+move Heathrow_Airport.txt 4 2637 2700 2742 3792 
+whilst Heathrow_Airport.txt 2 1685 4422 
+own Heathrow_Airport.txt 2 968 3025 
+including Heathrow_Airport.txt 4 601 1851 2139 4112 
+lingus Heathrow_Airport.txt 3 2249 2642 3842 
+300,000 Heathrow_Airport.txt 1 3554 
+permanent Heathrow_Airport.txt 1 760 
+2019 Heathrow_Airport.txt 3 1684 2769 3943 
+2015 Heathrow_Airport.txt 10 223 2426 2502 3862 4030 4032 4862 5359 5368 5512 
+2014 Heathrow_Airport.txt 10 55 697 2442 2542 2692 2747 3537 3820 3857 3992 
+2017 Heathrow_Airport.txt 3 80 3761 3838 
+2016 Heathrow_Airport.txt 6 92 238 1531 4096 4142 5414 
+2011 Heathrow_Airport.txt 7 2217 3056 3527 3734 4485 5605 5641 
+2010 Heathrow_Airport.txt 2 2835 5002 
+2013 Heathrow_Airport.txt 8 737 1446 1666 2575 3042 4071 5144 5302 
+2012 Heathrow_Airport.txt 6 195 1443 1907 2380 3435 5214 
+crash Heathrow_Airport.txt 1 4872 
+greater Heathrow_Airport.txt 1 415 
+material Heathrow_Airport.txt 1 5024 
+disrupted Heathrow_Airport.txt 1 3410 
+front Heathrow_Airport.txt 1 2992 
+day Heathrow_Airport.txt 3 1250 1325 3378 
+landings Heathrow_Airport.txt 3 1334 1372 5137 
+worlds Heathrow_Airport.txt 2 1915 3533 
+airports Heathrow_Airport.txt 15 201 220 399 1557 1942 2071 2528 2784 5028 5155 5170 5238 5257 5675 5697 
+edit Heathrow_Airport.txt 45 241 418 614 616 1039 1543 2119 2223 2324 2516 2849 3110 3290 3757 3957 3959 3973 3977 3979 4086 4089 4145 4308 4311 4313 4323 4353 4588 4596 4800 4866 4887 4890 4895 4900 5455 5514 5635 5730 5776 5778 5780 5782 5784 5787 
+mode Heathrow_Airport.txt 3 1253 1285 2052 
+beneath Heathrow_Airport.txt 1 1307 
+parties Heathrow_Airport.txt 1 5010 
+98,962 Heathrow_Airport.txt 1 3049 
+80 Heathrow_Airport.txt 1 653 
+84 Heathrow_Airport.txt 1 660 
+out Heathrow_Airport.txt 3 1463 1710 5340 
+35-mile Heathrow_Airport.txt 1 5688 
+73.4 Heathrow_Airport.txt 1 693 
+red Heathrow_Airport.txt 1 2239 
+york Heathrow_Airport.txt 2 724 4126 
+conservatives Heathrow_Airport.txt 1 5084 
+segregated Heathrow_Airport.txt 1 1284 
+dubbed Heathrow_Airport.txt 1 5682 
+m25 Heathrow_Airport.txt 4 331 3692 4636 5718 
+route Heathrow_Airport.txt 2 4108 5693 
+times Heathrow_Airport.txt 2 959 1396 
+length Heathrow_Airport.txt 3 793 5114 5131 
+south Heathrow_Airport.txt 8 265 313 505 1019 2732 3129 4832 5565 
+swapped Heathrow_Airport.txt 1 1321 
+owned Heathrow_Airport.txt 2 128 138 
+improvements Heathrow_Airport.txt 1 3002 
+owner Heathrow_Airport.txt 1 2383 
+qubec Heathrow_Airport.txt 1 161 
+destinations Heathrow_Airport.txt 4 658 2396 2889 3956 
+privacy Heathrow_Airport.txt 1 2221 
+superannuation Heathrow_Airport.txt 1 173 
+system Heathrow_Airport.txt 4 837 3261 3506 3726 
+priority Heathrow_Airport.txt 2 3631 4779 
+their Heathrow_Airport.txt 10 1158 1392 1760 1979 2022 2172 2656 4455 4524 5090 
+final Heathrow_Airport.txt 4 1159 1212 2809 5430 
+interests Heathrow_Airport.txt 2 5251 5261 
+1,065,220 Heathrow_Airport.txt 1 3051 
+reversed Heathrow_Airport.txt 1 1370 
+environmental Heathrow_Airport.txt 1 1197 
+july Heathrow_Airport.txt 4 222 5143 5367 5516 
+480,000 Heathrow_Airport.txt 1 2076 
+observed Heathrow_Airport.txt 1 5244 
+geoff Heathrow_Airport.txt 1 4922 
+submitted Heathrow_Airport.txt 2 5147 5521 
+providing Heathrow_Airport.txt 1 3615 
+sculpture Heathrow_Airport.txt 1 3037 
+1.2 Heathrow_Airport.txt 1 2803 
+1.3 Heathrow_Airport.txt 1 1681 
+unavailability Heathrow_Airport.txt 1 5616 
+have Heathrow_Airport.txt 6 2506 3351 4579 4764 4778 5088 
+linked Heathrow_Airport.txt 1 3495 
+catholic Heathrow_Airport.txt 1 908 
+studying Heathrow_Airport.txt 1 5647 
+parks Heathrow_Airport.txt 7 857 4568 4663 4675 4693 4703 4820 
+concerns Heathrow_Airport.txt 1 4998 
+demolished Heathrow_Airport.txt 2 2833 3941 
+2.5 Heathrow_Airport.txt 1 1177 
+which Heathrow_Airport.txt 26 135 232 378 453 498 1246 1447 1460 2108 2438 2625 2841 3033 3077 3086 3184 3425 3727 3834 3949 4271 4283 4871 4975 5105 5157 
+korean Heathrow_Airport.txt 1 3277 
+techniques Heathrow_Airport.txt 1 1193 
+conservative-liberal Heathrow_Airport.txt 1 5065 
+centre Heathrow_Airport.txt 8 1033 4148 4171 4187 4191 4202 4227 5773 
+who Heathrow_Airport.txt 4 592 2169 3370 5178 
+connected Heathrow_Airport.txt 3 3141 3717 4705 
+nuisance Heathrow_Airport.txt 1 1304 
+placement Heathrow_Airport.txt 1 159 
+frederick Heathrow_Airport.txt 1 590 
+1,000 Heathrow_Airport.txt 1 1116 
+charles Heathrow_Airport.txt 1 4076 
+hamlet Heathrow_Airport.txt 2 449 489 
+south-east Heathrow_Airport.txt 2 446 5346 
+postcode Heathrow_Airport.txt 2 339 343 
+utter Heathrow_Airport.txt 1 5401 
+staff Heathrow_Airport.txt 1 3423 
+redirect Heathrow_Airport.txt 1 6 
+partners Heathrow_Airport.txt 1 167 
+based Heathrow_Airport.txt 3 1149 2417 4279 
+operational Heathrow_Airport.txt 3 112 3523 3729 
+terminal Heathrow_Airport.txt 111 477 621 645 690 762 769 928 1393 1929 1938 1943 2229 2233 2256 2295 2297 2310 2321 2328 2330 2346 2349 2399 2400 2419 2421 2436 2451 2460 2470 2479 2497 2514 2517 2525 2530 2536 2562 2616 2651 2687 2702 2720 2756 2766 2772 2786 2826 2847 2850 2857 2859 2865 2911 2914 2962 2970 2995 3043 3065 3079 3088 3108 3111 3118 3123 3138 3153 3186 3229 3288 3291 3298 3300 3356 3362 3436 3464 3481 3487 3499 3528 3536 3546 3689 3699 3720 3752 3755 3774 3784 3816 3847 3866 3883 3901 3910 3920 3937 3952 4367 4413 4490 4646 4825 4834 4858 4898 4945 5543 5763 
+local Heathrow_Airport.txt 2 4434 4989 
+meant Heathrow_Airport.txt 1 2387 
+handle Heathrow_Airport.txt 2 2801 2871 
+spur Heathrow_Airport.txt 3 3686 4606 4723 
+areas Heathrow_Airport.txt 6 1094 1277 1454 1474 1492 4653 
+aer Heathrow_Airport.txt 3 2248 2641 3841 
+shopping Heathrow_Airport.txt 1 5772 
+105,481 Heathrow_Airport.txt 1 3158 
+processed Heathrow_Airport.txt 1 4092 
+view Heathrow_Airport.txt 3 2853 3114 3294 
+europe Heathrow_Airport.txt 3 63 3246 4039 
+prayers Heathrow_Airport.txt 1 956 
+national Heathrow_Airport.txt 1 4691 
+operates Heathrow_Airport.txt 2 2293 3950 
+legacy Heathrow_Airport.txt 1 1354 
+operated Heathrow_Airport.txt 1 130 
+closer Heathrow_Airport.txt 1 1390 
+consolidating Heathrow_Airport.txt 1 2629 
+disbenefit Heathrow_Airport.txt 1 1496 
+state Heathrow_Airport.txt 1 5528 
+phased Heathrow_Airport.txt 1 3851 
+closed Heathrow_Airport.txt 3 2323 2423 4860 
+tripadvisor Heathrow_Airport.txt 1 1923 
+opening Heathrow_Airport.txt 7 1927 2583 2683 3407 3772 3809 5447 
+agencies Heathrow_Airport.txt 1 4277 
+group Heathrow_Airport.txt 4 2316 2386 3472 4218 
+restrictions Heathrow_Airport.txt 1 1404 
+limits Heathrow_Airport.txt 1 1433 
+taking Heathrow_Airport.txt 1 1621 
+minds Heathrow_Airport.txt 1 5091 
+display Heathrow_Airport.txt 1 2191 
+april Heathrow_Airport.txt 7 1607 1650 1665 1836 2343 4484 5604 
+canopy Heathrow_Airport.txt 1 2989 
+table Heathrow_Airport.txt 1 4131 
+allocated Heathrow_Airport.txt 1 1290 
+midland Heathrow_Airport.txt 1 2376 
+addition Heathrow_Airport.txt 4 930 1423 2925 2975 
+hindu Heathrow_Airport.txt 1 911 
+indicators Heathrow_Airport.txt 1 2199 
+proposal Heathrow_Airport.txt 3 1671 3654 5096 
+am Heathrow_Airport.txt 1 1744 
+angles Heathrow_Airport.txt 1 751 
+atlanta Heathrow_Airport.txt 1 4006 
+an Heathrow_Airport.txt 22 143 203 359 898 937 1206 2433 2596 2789 2927 3046 3155 3214 3247 3501 3551 4407 5051 5314 5400 5461 5522 
+present Heathrow_Airport.txt 2 509 836 
+runway Heathrow_Airport.txt 26 229 252 636 844 1222 1293 1345 1350 1379 2066 2101 3133 4175 4718 4878 4896 4941 5021 5076 5283 5309 5316 5322 5351 5374 5427 
+as Heathrow_Airport.txt 46 21 56 58 345 354 437 519 563 569 790 1174 1176 1497 1581 1806 1996 2081 2083 2194 2212 2456 2467 2533 2775 2862 3015 3030 3040 3239 3241 3444 3582 3584 3758 3768 3794 3803 3805 4181 4991 4993 5195 5215 5548 5626 5770 
+queuing Heathrow_Airport.txt 1 4910 
+will Heathrow_Airport.txt 4 2000 2752 3636 3933 
+pending Heathrow_Airport.txt 1 1361 
+ultra Heathrow_Airport.txt 1 4478 
+westerly Heathrow_Airport.txt 1 1240 
+resident Heathrow_Airport.txt 1 969 
+site Heathrow_Airport.txt 8 116 853 867 890 2428 2554 3316 3614 
+partner Heathrow_Airport.txt 1 3348 
+began Heathrow_Airport.txt 2 525 5646 
+cross Heathrow_Airport.txt 1 4421 
+member Heathrow_Airport.txt 3 3824 3831 5203 
+northwest Heathrow_Airport.txt 3 1098 1852 5288 
+shuttle Heathrow_Airport.txt 2 4487 4710 
+terrorism Heathrow_Airport.txt 1 4883 
+difficult Heathrow_Airport.txt 1 2009 
+reporting Heathrow_Airport.txt 1 1052 
+upon Heathrow_Airport.txt 1 5230 
+effect Heathrow_Airport.txt 1 1841 
+coaches Heathrow_Airport.txt 1 4327 
+numbered Heathrow_Airport.txt 1 683 
+off Heathrow_Airport.txt 1 2060 
+4.3 Heathrow_Airport.txt 1 3478 
+indonesia Heathrow_Airport.txt 3 2267 3096 3176 
+well Heathrow_Airport.txt 4 57 3240 3583 4992 
+km/h Heathrow_Airport.txt 2 4504 5714 
+patterns Heathrow_Airport.txt 1 1091 
+position Heathrow_Airport.txt 3 1387 1564 5040 
+atatrk Heathrow_Airport.txt 1 4058 
+newest Heathrow_Airport.txt 3 2232 2290 2529 
+heavily Heathrow_Airport.txt 1 1573 
+domestic Heathrow_Airport.txt 1 2359 
+obtain Heathrow_Airport.txt 1 2014 
+nicknamed Heathrow_Airport.txt 1 4294 
+interim Heathrow_Airport.txt 1 5298 
+distant Heathrow_Airport.txt 2 1129 3709 
+virtual Heathrow_Airport.txt 1 5680 
+bicycles Heathrow_Airport.txt 2 4756 4776 
+bibliography Heathrow_Airport.txt 1 5783 
+7,000 Heathrow_Airport.txt 2 1110 5117 
+onward Heathrow_Airport.txt 1 1134 
+concourse Heathrow_Airport.txt 7 3489 3510 3548 3561 3595 3602 3656 
+combine Heathrow_Airport.txt 1 5670 
+aerial Heathrow_Airport.txt 1 419 
+increased Heathrow_Airport.txt 1 1614 
+kilometres Heathrow_Airport.txt 1 121 
+elmdon Heathrow_Airport.txt 1 1014 
+haul Heathrow_Airport.txt 1 2370 
+desk Heathrow_Airport.txt 1 5410 
+press Heathrow_Airport.txt 1 970 
+pier Heathrow_Airport.txt 2 2590 2945 
+dubai Heathrow_Airport.txt 2 52 4013 
+iberia Heathrow_Airport.txt 5 2280 2320 3076 3350 3626 
+georges Heathrow_Airport.txt 2 612 933 
+hartsfieldjackson Heathrow_Airport.txt 1 4005 
+controllers Heathrow_Airport.txt 1 1144 
+become Heathrow_Airport.txt 2 1122 3629 
+works Heathrow_Airport.txt 1 1363 
+accessible Heathrow_Airport.txt 1 4624 
+because Heathrow_Airport.txt 2 3449 4980 
+underwent Heathrow_Airport.txt 1 2577 
+authority Heathrow_Airport.txt 1 1579 
+g-boab Heathrow_Airport.txt 1 624 
+home Heathrow_Airport.txt 4 877 3068 3166 3468 
+transport Heathrow_Airport.txt 11 3667 4310 4352 4481 4917 4959 5530 5561 5597 5645 5738 
+lead Heathrow_Airport.txt 2 955 5236 
+steaming Heathrow_Airport.txt 1 5402 
+avoid Heathrow_Airport.txt 1 2681 
+pedestrianised Heathrow_Airport.txt 1 2985 
+noise Heathrow_Airport.txt 8 1230 1271 1303 1437 1479 1521 4994 5140 
+expansion Heathrow_Airport.txt 9 2116 4892 4899 4903 4931 5025 5077 5152 5343 
+pressure Heathrow_Airport.txt 1 1936 
+although Heathrow_Airport.txt 6 407 1988 2136 4695 4775 5240 
+entirely Heathrow_Airport.txt 2 335 5052 
+about Heathrow_Airport.txt 3 475 4119 5116 
+actual Heathrow_Airport.txt 1 4430 
+carried Heathrow_Airport.txt 1 1709 
+extension Heathrow_Airport.txt 1 2434 
+holdings Heathrow_Airport.txt 10 134 1560 1700 1882 2042 2094 4155 4162 4208 4681 
+23.5 Heathrow_Airport.txt 1 1645 
+carrier Heathrow_Airport.txt 1 2485 
+insufficient Heathrow_Airport.txt 1 3420 
+introduced Heathrow_Airport.txt 3 1225 1245 2210 
+alliance Heathrow_Airport.txt 8 2244 2410 2413 2623 3170 3802 3823 3907 
+previously Heathrow_Airport.txt 2 4179 4215 
+stratford Heathrow_Airport.txt 1 1021 
+roads Heathrow_Airport.txt 1 995 
+1986 Heathrow_Airport.txt 2 3122 3990 
+additional Heathrow_Airport.txt 1 1848 
+transfer Heathrow_Airport.txt 1 4474 
+continental Heathrow_Airport.txt 1 1854 
+inter-terminal Heathrow_Airport.txt 1 4351 
+biggest Heathrow_Airport.txt 1 5674 
+north Heathrow_Airport.txt 9 302 772 840 1005 2104 3237 4261 4830 5287 
+bus Heathrow_Airport.txt 5 4320 4334 4344 4377 4794 
+but Heathrow_Airport.txt 4 542 1532 4288 4578 
+construction Heathrow_Airport.txt 5 3878 5017 5049 5279 5472 
+gain Heathrow_Airport.txt 1 5533 
+mclaren Heathrow_Airport.txt 1 1958 
+he Heathrow_Airport.txt 2 3379 5246 
+made Heathrow_Airport.txt 3 1188 1536 3888 
+places Heathrow_Airport.txt 2 711 4815 
+signed Heathrow_Airport.txt 1 1825 
+record Heathrow_Airport.txt 2 84 1903 
+below Heathrow_Airport.txt 2 2117 4132 
+minutes Heathrow_Airport.txt 1 5700 
+4,000,000 Heathrow_Airport.txt 1 4120 
+periods Heathrow_Airport.txt 2 1482 2154 
+cavalry Heathrow_Airport.txt 1 2145 
+compared Heathrow_Airport.txt 1 1455 
+corporation Heathrow_Airport.txt 2 170 5198 
+multi-faith Heathrow_Airport.txt 2 608 920 
+40 Heathrow_Airport.txt 2 880 4503 
+envisaged Heathrow_Airport.txt 1 3649 
+other Heathrow_Airport.txt 14 9 1299 1491 2273 2886 2930 3886 3905 4143 4364 4585 4699 4888 5621 
+envisages Heathrow_Airport.txt 1 5686 
+star Heathrow_Airport.txt 7 2243 2409 2412 2622 2633 3822 3906 
+june Heathrow_Airport.txt 9 2425 2441 2501 2541 2690 3526 3819 3861 4257 
+additionally Heathrow_Airport.txt 1 3858 
+frankfurt Heathrow_Airport.txt 1 4073 
+accidents Heathrow_Airport.txt 2 4550 4865 
+pods Heathrow_Airport.txt 2 4512 4527 
+gardens Heathrow_Airport.txt 2 466 2905 

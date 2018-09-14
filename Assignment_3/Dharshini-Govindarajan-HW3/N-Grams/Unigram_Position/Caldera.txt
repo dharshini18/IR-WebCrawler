@@ -1,0 +1,700 @@
+all Caldera.txt 4 1310 1378 1449 1625 
+mineralization Caldera.txt 1 434 
+maximum Caldera.txt 1 1390 
+pinatubo Caldera.txt 1 637 
+spacecraft Caldera.txt 2 1265 1801 
+debris Caldera.txt 1 698 
+ice Caldera.txt 1 1016 
+tectonics Caldera.txt 2 1287 1683 
+morphology Caldera.txt 1 1523 
+causes Caldera.txt 2 544 1696 
+ash-flow Caldera.txt 1 1567 
+feeding Caldera.txt 1 1064 
+catastrophe Caldera.txt 1 813 
+april Caldera.txt 1 1162 
+overlying Caldera.txt 1 542 
+crater Caldera.txt 3 90 1147 1181 
+to Caldera.txt 25 79 184 330 393 440 520 548 694 802 833 836 1190 1218 1302 1337 1385 1414 1433 1475 1480 1506 1533 1561 1602 1758 
+basaltic Caldera.txt 1 1487 
+preserved Caldera.txt 1 1426 
+breach Caldera.txt 1 1229 
+samosir Caldera.txt 1 263 
+far Caldera.txt 1 1554 
+continues Caldera.txt 1 574 
+olympus Caldera.txt 1 1641 
+cataclysmic Caldera.txt 1 405 
+bottleneck Caldera.txt 1 810 
+continued Caldera.txt 1 874 
+categories Caldera.txt 2 1842 1844 
+northwestern Caldera.txt 1 458 
+notes Caldera.txt 1 1835 
+list Caldera.txt 1 1821 
+hawaii Caldera.txt 1 1055 
+large Caldera.txt 10 22 37 284 655 723 1096 1496 1712 1733 1770 
+solid Caldera.txt 1 1755 
+small Caldera.txt 1 627 
+venus Caldera.txt 7 1271 1325 1370 1671 1677 1685 1704 
+20th Caldera.txt 1 125 
+smaller Caldera.txt 1 1368 
+ten Caldera.txt 1 837 
+direct Caldera.txt 1 844 
+second Caldera.txt 1 1045 
+harpending Caldera.txt 1 824 
+further Caldera.txt 5 476 565 1571 1673 1745 
+depression Caldera.txt 2 25 73 
+even Caldera.txt 5 615 626 659 863 891 
+what Caldera.txt 1 1603 
+cooking Caldera.txt 1 147 
+crust Caldera.txt 2 51 1515 
+while Caldera.txt 1 1806 
+300 Caldera.txt 1 1185 
+experiment Caldera.txt 1 219 
+520 Caldera.txt 1 1658 
+above Caldera.txt 3 52 338 374 
+contributes Caldera.txt 1 1289 
+filled Caldera.txt 4 227 491 1014 1155 
+can Caldera.txt 4 725 1114 1220 1225 
+explosion Caldera.txt 1 110 
+lithosphere Caldera.txt 1 1694 
+respectively Caldera.txt 1 1040 
+henry Caldera.txt 1 823 
+hundreds Caldera.txt 2 428 613 
+meteorites Caldera.txt 1 1447 
+kilometers Caldera.txt 5 82 433 619 1409 1819 
+active Caldera.txt 2 1043 1791 
+100 Caldera.txt 1 241 
+caldera-like Caldera.txt 1 1536 
+extreme Caldera.txt 1 1439 
+box Caldera.txt 1 226 
+buch Caldera.txt 1 174 
+noticeable Caldera.txt 1 648 
+pressure Caldera.txt 1 525 
+30 Caldera.txt 1 246 
+completely Caldera.txt 1 1546 
+fracture Caldera.txt 3 343 377 391 
+leaving Caldera.txt 1 70 
+saint Caldera.txt 1 967 
+neoarchean Caldera.txt 1 465 
+published Caldera.txt 1 177 
+resonance Caldera.txt 1 1767 
+dre Caldera.txt 3 684 712 755 
+diameter Caldera.txt 7 84 1323 1332 1355 1362 1656 1723 
+suddenly Caldera.txt 1 1182 
+erupting Caldera.txt 1 1804 
+emptied Caldera.txt 2 67 326 
+texts Caldera.txt 1 151 
+galpagos Caldera.txt 1 988 
+empties Caldera.txt 1 382 
+compton-belkovich Caldera.txt 1 1549 
+outer Caldera.txt 1 1398 
+total Caldera.txt 1 422 
+landscape Caldera.txt 1 203 
+use Caldera.txt 1 1260 
+ore Caldera.txt 1 443 
+from Caldera.txt 4 77 140 1383 1719 
+off-loading Caldera.txt 1 540 
+distinct Caldera.txt 1 937 
+contains Caldera.txt 1 1592 
+visit Caldera.txt 1 183 
+two Caldera.txt 2 695 1584 
+universally Caldera.txt 1 1530 
+few Caldera.txt 2 1407 1457 
+therefore Caldera.txt 1 508 
+6 Caldera.txt 1 1344 
+taken Caldera.txt 1 1503 
+type Caldera.txt 1 96 
+is Caldera.txt 35 20 56 93 101 156 266 323 328 452 483 489 592 842 849 853 869 1067 1070 1078 1093 1300 1307 1326 1335 1343 1348 1365 1405 1559 1581 1644 1680 1687 1752 1788 
+more Caldera.txt 5 815 1116 1629 1645 1728 
+rich Caldera.txt 2 442 484 
+ejected Caldera.txt 1 324 
+occurred Caldera.txt 2 119 1248 
+known Caldera.txt 10 115 365 439 760 773 895 1109 1148 1244 1532 
+rare Caldera.txt 1 1539 
+1991 Caldera.txt 1 639 
+archipelago Caldera.txt 1 989 
+none Caldera.txt 1 1281 
+word Caldera.txt 1 138 
+this Caldera.txt 5 748 796 1187 1516 1695 
+local Caldera.txt 1 644 
+mi Caldera.txt 2 243 248 
+nine Caldera.txt 1 1803 
+era Caldera.txt 1 466 
+island Caldera.txt 6 237 261 985 1053 1127 1173 
+following Caldera.txt 1 28 
+runion Caldera.txt 1 1175 
+example Caldera.txt 2 14 1793 
+memoirs Caldera.txt 1 179 
+links Caldera.txt 1 1840 
+process Caldera.txt 1 1212 
+india Caldera.txt 1 876 
+high Caldera.txt 3 505 524 1727 
+volcanology Caldera.txt 3 1573 1675 1747 
+dropped Caldera.txt 2 1139 1183 
+occur Caldera.txt 3 398 410 1221 
+ecological Caldera.txt 1 716 
+information Caldera.txt 4 477 1572 1674 1746 
+strongest Caldera.txt 1 884 
+winter Caldera.txt 1 793 
+drained Caldera.txt 1 1094 
+rather Caldera.txt 2 107 1099 
+six Caldera.txt 1 1668 
+feature Caldera.txt 1 92 
+oligocene Caldera.txt 1 960 
+species Caldera.txt 2 830 867 
+1 Caldera.txt 1 1797 
+located Caldera.txt 1 1005 
+varies Caldera.txt 1 1318 
+flank Caldera.txt 1 1207 
+animal Caldera.txt 1 859 
+circular Caldera.txt 1 342 
+may Caldera.txt 13 372 397 409 426 568 580 611 640 657 886 944 1214 1501 
+after Caldera.txt 2 877 1461 
+southern Caldera.txt 2 1022 1206 
+floor Caldera.txt 2 1138 1177 
+such Caldera.txt 5 590 630 942 949 1032 
+1883 Caldera.txt 1 634 
+las Caldera.txt 1 193 
+a Caldera.txt 45 18 21 32 44 71 89 95 256 264 283 301 312 340 403 417 504 516 587 606 623 647 686 722 791 808 917 1059 1074 1086 1129 1157 1200 1216 1228 1277 1354 1389 1406 1415 1507 1518 1525 1563 1593 1655 
+short Caldera.txt 1 45 
+st Caldera.txt 1 703 
+edifice Caldera.txt 1 337 
+allow Caldera.txt 1 1215 
+keeps Caldera.txt 1 1776 
+triggering Caldera.txt 1 552 
+nearly Caldera.txt 1 1448 
+helens Caldera.txt 1 704 
+resurgent Caldera.txt 2 257 588 
+shield Caldera.txt 5 1034 1526 1597 1713 1734 
+reservoir Caldera.txt 2 35 1509 
+over Caldera.txt 2 43 562 
+vary Caldera.txt 1 1382 
+canary Caldera.txt 1 186 
+years Caldera.txt 8 470 669 746 769 781 924 1460 1468 
+through Caldera.txt 6 103 1199 1227 1258 1427 1692 
+jorde Caldera.txt 1 821 
+during Caldera.txt 5 294 463 958 974 1160 
+mentioned Caldera.txt 1 1786 
+europa Caldera.txt 1 1772 
+its Caldera.txt 2 883 1777 
+environmentally Caldera.txt 1 865 
+24 Caldera.txt 1 1725 
+25 Caldera.txt 1 779 
+rapidly Caldera.txt 1 550 
+fissure Caldera.txt 1 314 
+la Caldera.txt 4 211 306 897 1169 
+hot Caldera.txt 1 1615 
+actually Caldera.txt 2 94 1443 
+forms Caldera.txt 2 27 1517 
+detected Caldera.txt 1 1802 
+complex Caldera.txt 1 1551 
+vents Caldera.txt 1 371 
+argentina Caldera.txt 1 1013 
+secondary Caldera.txt 1 369 
+into Caldera.txt 2 64 164 
+non-explosive Caldera.txt 1 1000 
+then Caldera.txt 2 61 205 
+greater Caldera.txt 1 660 
+flour Caldera.txt 1 229 
+material Caldera.txt 3 543 621 677 
+effects Caldera.txt 2 661 717 
+base Caldera.txt 2 1494 1512 
+not Caldera.txt 2 510 1545 
+nested Caldera.txt 1 1669 
+structural Caldera.txt 1 47 
+worlds Caldera.txt 3 253 448 1284 
+term Caldera.txt 2 154 160 
+edit Caldera.txt 17 136 215 435 475 739 1002 1236 1393 1570 1672 1744 1825 1831 1834 1836 1838 1841 
+drop Caldera.txt 1 649 
+rocks Caldera.txt 1 500 
+mode Caldera.txt 1 1342 
+rock Caldera.txt 2 682 1403 
+volcano Caldera.txt 10 131 277 302 387 750 1018 1088 1210 1527 1636 
+beneath Caldera.txt 1 275 
+side Caldera.txt 1 1555 
+square Caldera.txt 1 432 
+weight Caldera.txt 1 333 
+series Caldera.txt 2 418 1594 
+fish Caldera.txt 1 910 
+habitation Caldera.txt 1 873 
+80 Caldera.txt 3 1386 1702 1730 
+323 Caldera.txt 1 1660 
+event Caldera.txt 1 625 
+out Caldera.txt 1 915 
+canada Caldera.txt 1 460 
+since Caldera.txt 2 120 1237 
+etymology Caldera.txt 1 135 
+dominated Caldera.txt 1 1620 
+halemaumau Caldera.txt 1 1150 
+evacuation Caldera.txt 1 30 
+induced Caldera.txt 1 794 
+correct Caldera.txt 1 850 
+theory Caldera.txt 3 814 848 881 
+found Caldera.txt 1 946 
+timeline Caldera.txt 1 12 
+million Caldera.txt 6 469 768 780 923 1459 1467 
+chiles Caldera.txt 1 1026 
+approaches Caldera.txt 1 532 
+loa Caldera.txt 1 1039 
+formation Caldera.txt 2 17 214 
+ash Caldera.txt 1 561 
+afterward Caldera.txt 1 1469 
+enormous Caldera.txt 1 1697 
+times Caldera.txt 1 1648 
+place Caldera.txt 3 1453 1490 1504 
+massive Caldera.txt 2 72 1486 
+unmanned Caldera.txt 1 1264 
+first Caldera.txt 2 190 1456 
+origin Caldera.txt 1 221 
+major Caldera.txt 2 919 1585 
+there Caldera.txt 4 841 852 868 1679 
+caldera-forming Caldera.txt 2 116 628 
+one Caldera.txt 4 78 250 445 1627 
+dominating Caldera.txt 1 201 
+long Caldera.txt 1 244 
+another Caldera.txt 1 1211 
+spanish Caldera.txt 1 141 
+ring Caldera.txt 5 345 354 367 376 390 
+palma Caldera.txt 1 212 
+size Caldera.txt 2 1317 1718 
+earths Caldera.txt 1 1294 
+temperature Caldera.txt 1 651 
+system Caldera.txt 3 315 1257 1640 
+approximately Caldera.txt 2 834 1290 
+sumatra Caldera.txt 1 239 
+2 Caldera.txt 1 1800 
+erupted Caldera.txt 6 42 570 666 705 973 1198 
+hundred Caldera.txt 2 1408 1458 
+structures Caldera.txt 1 1537 
+shell Caldera.txt 1 1399 
+collapse Caldera.txt 6 106 265 394 396 1130 1630 
+discovered Caldera.txt 1 1269 
+that Caldera.txt 11 26 424 790 827 846 871 1213 1245 1404 1599 1715 
+serve Caldera.txt 1 356 
+took Caldera.txt 2 1452 1489 
+volcanically Caldera.txt 1 1790 
+released Caldera.txt 3 672 709 751 
+part Caldera.txt 1 688 
+than Caldera.txt 7 108 1082 1100 1118 1369 1646 1729 
+population Caldera.txt 2 801 809 
+begins Caldera.txt 1 392 
+calderas Caldera.txt 21 255 437 451 656 893 933 1001 1057 1106 1112 1120 1232 1235 1371 1529 1631 1670 1738 1814 1824 1830 
+photograph Caldera.txt 1 978 
+1979 Caldera.txt 1 1810 
+likely Caldera.txt 2 1349 1609 
+were Caldera.txt 2 1430 1444 
+result Caldera.txt 8 281 401 415 517 641 1075 1437 1612 
+and Caldera.txt 29 105 143 204 245 497 507 558 646 770 822 851 962 1037 1044 1089 1113 1252 1263 1275 1340 1381 1429 1588 1608 1624 1724 1764 1773 1798 
+1.6 Caldera.txt 1 1384 
+fashion Caldera.txt 1 1061 
+san Caldera.txt 2 902 952 
+1.2 Caldera.txt 1 710 
+considerably Caldera.txt 1 1319 
+disambiguation Caldera.txt 1 7 
+pliocene Caldera.txt 1 963 
+1.8 Caldera.txt 1 767 
+caadas Caldera.txt 1 194 
+substantial Caldera.txt 1 687 
+have Caldera.txt 10 118 658 825 934 1285 1423 1434 1502 1626 1736 
+stanley Caldera.txt 1 787 
+close Caldera.txt 1 1336 
+seen Caldera.txt 2 593 727 
+galn Caldera.txt 1 596 
+saw Caldera.txt 1 191 
+emptying Caldera.txt 1 270 
+contents Caldera.txt 1 134 
+mountain Caldera.txt 2 969 1666 
+1968 Caldera.txt 1 1132 
+form Caldera.txt 7 373 585 885 1056 1115 1219 1534 
+trapped Caldera.txt 2 522 546 
+able Caldera.txt 1 1474 
+hotspot Caldera.txt 1 1303 
+also Caldera.txt 7 157 293 364 1108 1499 1827 1833 
+villarica Caldera.txt 1 1029 
+animation Caldera.txt 1 216 
+which Caldera.txt 10 362 461 1069 1151 1195 1288 1411 1451 1643 1775 
+province Caldera.txt 1 1591 
+150400 Caldera.txt 1 1720 
+though Caldera.txt 1 1315 
+iceland Caldera.txt 1 133 
+350 Caldera.txt 1 1140 
+viscosity Caldera.txt 1 506 
+290 Caldera.txt 1 1357 
+most Caldera.txt 2 127 1042 
+connected Caldera.txt 1 313 
+significant Caldera.txt 1 643 
+comparison Caldera.txt 1 700 
+measured Caldera.txt 1 679 
+radioactive Caldera.txt 1 1484 
+especially Caldera.txt 1 896 
+neighboring Caldera.txt 1 1769 
+landsat Caldera.txt 1 230 
+sometimes Caldera.txt 2 86 278 
+flow Caldera.txt 1 511 
+km Caldera.txt 13 675 711 754 1328 1339 1345 1358 1367 1387 1659 1721 1726 1741 
+1,000 Caldera.txt 1 674 
+points Caldera.txt 1 928 
+intrusions Caldera.txt 1 361 
+elysium Caldera.txt 1 1589 
+2,00020,000 Caldera.txt 1 804 
+silica-rich Caldera.txt 1 501 
+planetary Caldera.txt 2 1313 1379 
+german Caldera.txt 1 170 
+fournaise Caldera.txt 2 307 1170 
+mineralized Caldera.txt 1 450 
+garita Caldera.txt 1 898 
+74,000 Caldera.txt 1 745 
+paterae Caldera.txt 1 1347 
+earth Caldera.txt 4 537 1048 1373 1607 
+analogue Caldera.txt 1 218 
+ground Caldera.txt 1 59 
+impact Caldera.txt 2 112 1497 
+giant Caldera.txt 1 1596 
+extraterrestrial Caldera.txt 1 1234 
+conduction Caldera.txt 1 1691 
+everest Caldera.txt 1 1653 
+only Caldera.txt 1 113 
+smallest Caldera.txt 1 1376 
+geologist Caldera.txt 1 171 
+eruptions Caldera.txt 7 296 420 474 629 889 1488 1500 
+klauea Caldera.txt 1 1036 
+partially Caldera.txt 1 66 
+thousands Caldera.txt 2 430 616 
+oblique Caldera.txt 1 990 
+fernandina Caldera.txt 2 984 1126 
+plate Caldera.txt 2 1286 1682 
+his Caldera.txt 2 178 181 
+wide Caldera.txt 2 249 563 
+mainly Caldera.txt 1 1688 
+de Caldera.txt 3 208 305 1168 
+ejecta Caldera.txt 2 714 757 
+20142015 Caldera.txt 1 319 
+areas Caldera.txt 1 564 
+spots Caldera.txt 1 1616 
+covering Caldera.txt 1 685 
+igneous Caldera.txt 1 499 
+generally Caldera.txt 1 1491 
+tenerife Caldera.txt 1 197 
+erupt Caldera.txt 1 612 
+volcanism Caldera.txt 3 1246 1266 1304 
+quaternary Caldera.txt 1 764 
+activity Caldera.txt 4 573 1296 1441 1578 
+including Caldera.txt 1 819 
+5,000-km Caldera.txt 1 909 
+where Caldera.txt 3 188 907 1528 
+1960s Caldera.txt 1 1240 
+sturgeon Caldera.txt 1 454 
+see Caldera.txt 8 5 288 303 316 811 1605 1826 1832 
+are Caldera.txt 14 41 363 438 894 1049 1107 1374 1531 1538 1544 1600 1610 1619 1711 
+explosive Caldera.txt 7 285 472 478 553 774 1102 1119 
+surfaces Caldera.txt 1 1618 
+subsequent Caldera.txt 1 602 
+parque Caldera.txt 1 1027 
+wikipedia Caldera.txt 1 1 
+tend Caldera.txt 1 519 
+enough Caldera.txt 1 321 
+unable Caldera.txt 1 329 
+category:calderas Caldera.txt 1 1828 
+moons Caldera.txt 3 1253 1471 1771 
+tens Caldera.txt 1 1817 
+across Caldera.txt 2 1742 1820 
+we Caldera.txt 1 1604 
+latin Caldera.txt 1 144 
+recently Caldera.txt 2 128 816 
+molten Caldera.txt 1 1223 
+dome Caldera.txt 3 258 589 1519 
+however Caldera.txt 1 840 
+km/62 Caldera.txt 1 242 
+proterozoic Caldera.txt 1 976 
+article Caldera.txt 1 741 
+craters Caldera.txt 2 1419 1498 
+blasted Caldera.txt 1 914 
+concentrated Caldera.txt 1 1582 
+both Caldera.txt 1 1050 
+stages Caldera.txt 1 412 
+last Caldera.txt 3 665 766 778 
+fault Caldera.txt 2 346 360 
+rhyolite Caldera.txt 1 496 
+decay Caldera.txt 1 1482 
+attributed Caldera.txt 2 1189 1301 
+etc Caldera.txt 1 600 
+s Caldera.txt 1 10 
+mons Caldera.txt 1 1642 
+passing Caldera.txt 1 1807 
+anthropologist Caldera.txt 1 786 
+comes Caldera.txt 1 139 
+vent Caldera.txt 1 1201 
+volcanic Caldera.txt 12 223 286 336 370 560 572 792 1295 1440 1550 1577 1823 
+appeared Caldera.txt 1 935 
+pot Caldera.txt 1 148 
+ganymede Caldera.txt 1 1774 
+period Caldera.txt 1 765 
+america Caldera.txt 1 691 
+deposits Caldera.txt 1 444 
+60 Caldera.txt 2 1291 1740 
+canyon Caldera.txt 1 911 
+manned Caldera.txt 1 1262 
+68 Caldera.txt 1 1327 
+crystalline Caldera.txt 1 1402 
+turkey Caldera.txt 1 999 
+late Caldera.txt 1 784 
+provinces Caldera.txt 1 1586 
+described Caldera.txt 1 87 
+miocene Caldera.txt 1 961 
+km/19 Caldera.txt 1 247 
+due Caldera.txt 4 1413 1479 1505 1757 
+been Caldera.txt 5 1154 1243 1268 1424 1435 
+feeders Caldera.txt 1 358 
+much Caldera.txt 1 1079 
+ignimbrite Caldera.txt 1 494 
+mars Caldera.txt 6 1272 1364 1569 1575 1580 1632 
+dozens Caldera.txt 1 80 
+500 Caldera.txt 1 1466 
+uplifted Caldera.txt 1 582 
+eastern Caldera.txt 1 998 
+thousand Caldera.txt 1 838 
+formed Caldera.txt 7 102 259 462 957 1412 1445 1464 
+mauna Caldera.txt 1 1038 
+chile Caldera.txt 1 1008 
+clusters Caldera.txt 2 938 943 
+evidence Caldera.txt 3 845 855 870 
+hidden Caldera.txt 1 1843 
+caldaria Caldera.txt 1 145 
+main Caldera.txt 2 740 1180 
+brarbunga Caldera.txt 2 130 317 
+unlike Caldera.txt 1 1781 
+these Caldera.txt 4 1065 1283 1312 1732 
+mount Caldera.txt 4 8 636 702 1652 
+single Caldera.txt 3 404 624 918 
+unusually Caldera.txt 1 1751 
+sollipulli Caldera.txt 1 1003 
+near Caldera.txt 1 1009 
+melted Caldera.txt 1 1478 
+many Caldera.txt 2 1707 1813 
+dykes Caldera.txt 1 368 
+periods Caldera.txt 1 964 
+seven Caldera.txt 1 114 
+larger Caldera.txt 1 892 
+century Caldera.txt 1 126 
+averaging Caldera.txt 1 1739 
+von Caldera.txt 1 173 
+thus Caldera.txt 1 551 
+it Caldera.txt 6 100 339 408 671 708 1241 
+surface Caldera.txt 4 60 76 534 1705 
+rim Caldera.txt 1 1233 
+io Caldera.txt 8 1276 1334 1743 1749 1750 1787 1808 1811 
+in Caldera.txt 45 83 132 149 225 290 308 311 318 411 457 485 492 583 622 633 638 642 650 680 692 706 728 736 782 807 864 875 882 900 916 929 936 947 986 1006 1020 1058 1131 1254 1454 1583 1637 1717 1722 1809 
+sits Caldera.txt 1 1019 
+if Caldera.txt 4 320 480 571 1222 
+orbital Caldera.txt 1 1766 
+1815 Caldera.txt 2 182 291 
+different Caldera.txt 1 1060 
+sensitive Caldera.txt 1 866 
+border Caldera.txt 1 1011 
+juan Caldera.txt 2 903 953 
+lava Caldera.txt 6 566 1097 1158 1224 1622 1698 
+any Caldera.txt 2 857 1782 
+parts Caldera.txt 1 1134 
+largest Caldera.txt 6 254 759 772 1046 1351 1635 
+resulting Caldera.txt 2 806 1105 
+several Caldera.txt 1 817 
+events Caldera.txt 1 1103 
+tvashtar Caldera.txt 1 1346 
+voyager Caldera.txt 2 1796 1799 
+satellite Caldera.txt 2 977 1278 
+used Caldera.txt 1 158 
+same Caldera.txt 1 1522 
+cubic Caldera.txt 1 618 
+eccentric Caldera.txt 1 1780 
+ios Caldera.txt 1 1765 
+flows Caldera.txt 4 567 1098 1623 1699 
+decompress Caldera.txt 1 549 
+uses Caldera.txt 1 4 
+destruction Caldera.txt 2 554 645 
+lower Caldera.txt 1 1202 
+center Caldera.txt 2 384 576 
+intrusion Caldera.txt 1 603 
+volcanoes Caldera.txt 7 1031 1035 1066 1598 1714 1735 1805 
+indonesia Caldera.txt 2 240 737 
+well Caldera.txt 1 1425 
+roughly Caldera.txt 1 341 
+sinkhole Caldera.txt 1 98 
+thought Caldera.txt 2 1432 1560 
+edge Caldera.txt 1 350 
+flexing Caldera.txt 1 1756 
+english Caldera.txt 1 153 
+the Caldera.txt 144 29 50 53 58 65 75 91 121 124 137 152 159 165 169 185 192 202 206 236 252 260 269 272 276 280 298 325 332 335 344 349 352 375 379 383 386 389 395 400 414 421 447 453 464 481 487 527 530 533 536 538 545 556 575 578 584 653 715 719 729 732 758 763 771 777 783 799 828 847 878 880 901 908 939 951 959 966 975 980 987 1010 1017 1021 1041 1052 1062 1076 1083 1090 1104 1123 1136 1161 1166 1172 1176 1179 1191 1205 1209 1231 1238 1255 1259 1273 1293 1297 1316 1320 1329 1341 1350 1359 1375 1391 1394 1418 1421 1436 1455 1462 1470 1481 1493 1511 1514 1521 1541 1548 1553 1557 1576 1611 1617 1634 1638 1649 1662 1665 1693 1709 1759 1784 1794 
+bodies Caldera.txt 2 1314 1380 
+they Caldera.txt 1 1543 
+proposed Caldera.txt 2 789 826 
+less Caldera.txt 1 1080 
+being Caldera.txt 1 1197 
+photo Caldera.txt 1 992 
+remnants Caldera.txt 1 940 
+toba Caldera.txt 6 234 598 734 738 743 812 
+human Caldera.txt 3 800 829 872 
+rhyolitic Caldera.txt 3 609 932 1087 
+rapid Caldera.txt 2 539 1416 
+instance Caldera.txt 1 1122 
+thick Caldera.txt 1 1410 
+taburiente Caldera.txt 1 209 
+lake Caldera.txt 7 233 455 597 733 742 997 1159 
+geological Caldera.txt 2 166 930 
+nacional Caldera.txt 1 1028 
+has Caldera.txt 10 503 1144 1152 1242 1247 1267 1396 1633 1667 1812 
+nasa Caldera.txt 1 1795 
+indonesian Caldera.txt 1 749 
+around Caldera.txt 3 348 652 1465 
+easily Caldera.txt 1 512 
+showing Caldera.txt 1 220 
+early Caldera.txt 1 1239 
+possibly Caldera.txt 2 1520 1565 
+five Caldera.txt 1 835 
+world Caldera.txt 1 654 
+height Caldera.txt 1 1650 
+like Caldera.txt 2 24 513 
+ambrose Caldera.txt 1 788 
+subsidence Caldera.txt 2 104 1111 
+lost Caldera.txt 2 57 1689 
+external Caldera.txt 1 1839 
+chamber Caldera.txt 8 34 55 69 274 327 353 381 1092 
+individuals Caldera.txt 1 805 
+mazama Caldera.txt 1 9 
+become Caldera.txt 1 521 
+downward Caldera.txt 1 63 
+reduced Caldera.txt 2 798 832 
+because Caldera.txt 1 1678 
+often Caldera.txt 2 490 1153 
+geneticists Caldera.txt 1 818 
+underwent Caldera.txt 1 1128 
+creation Caldera.txt 1 1417 
+some Caldera.txt 5 150 436 667 927 1030 
+metres Caldera.txt 1 696 
+magma Caldera.txt 19 33 40 54 68 273 322 380 482 502 528 531 557 605 1063 1077 1084 1091 1194 1508 
+meters Caldera.txt 1 1141 
+escape Caldera.txt 1 1226 
+low-density Caldera.txt 1 1401 
+absent Caldera.txt 1 1547 
+gradually Caldera.txt 1 1117 
+extinction Caldera.txt 1 862 
+dense Caldera.txt 1 681 
+vocabulary Caldera.txt 1 167 
+for Caldera.txt 7 2 49 359 856 1121 1701 1792 
+nemrut Caldera.txt 1 994 
+extensively Caldera.txt 1 1477 
+montaa Caldera.txt 1 199 
+moon Caldera.txt 7 1274 1392 1395 1422 1463 1542 1558 
+does Caldera.txt 1 509 
+cerro Caldera.txt 1 595 
+francois Caldera.txt 1 968 
+fractures Caldera.txt 1 355 
+be Caldera.txt 8 427 569 581 726 887 945 1476 1562 
+decline Caldera.txt 1 860 
+krakatoa Caldera.txt 1 632 
+eruption Caldera.txt 12 11 287 406 479 720 735 761 775 797 879 920 1164 
+equivalent Caldera.txt 1 683 
+each Caldera.txt 1 1590 
+effusive Caldera.txt 1 295 
+host Caldera.txt 1 441 
+although Caldera.txt 2 85 1535 
+flanks Caldera.txt 1 299 
+tidal Caldera.txt 1 1760 
+27.8 Caldera.txt 1 922 
+leopold Caldera.txt 1 172 
+by Caldera.txt 12 168 268 601 699 795 1095 1101 1156 1446 1621 1690 1754 
+on Caldera.txt 21 196 210 235 297 983 1047 1051 1171 1204 1230 1249 1270 1309 1324 1333 1363 1372 1540 1552 1606 1684 
+about Caldera.txt 7 467 673 744 752 803 921 1184 
+tharsis Caldera.txt 1 1587 
+central Caldera.txt 1 1007 
+of Caldera.txt 86 15 31 39 81 97 123 180 217 222 232 238 251 262 271 282 300 334 351 385 402 416 419 431 446 535 541 555 577 586 604 617 620 676 689 697 713 718 721 731 756 905 941 955 971 979 993 1054 1085 1135 1165 1174 1178 1193 1208 1261 1279 1282 1292 1311 1356 1377 1400 1420 1438 1450 1483 1495 1513 1524 1556 1574 1579 1595 1613 1651 1657 1664 1676 1703 1708 1731 1748 1762 1783 1818 1822 
+meaning Caldera.txt 1 146 
+range Caldera.txt 2 970 1716 
+islands Caldera.txt 1 187 
+introduced Caldera.txt 1 163 
+slightly Caldera.txt 1 1779 
+or Caldera.txt 10 111 310 407 429 608 614 635 861 965 1628 
+tambora Caldera.txt 1 289 
+colorado Caldera.txt 2 906 956 
+mantle Caldera.txt 2 1472 1614 
+spreading Caldera.txt 1 559 
+within Caldera.txt 5 388 526 762 776 1025 
+cauldron Caldera.txt 2 23 155 
+three Caldera.txt 1 1647 
+down Caldera.txt 1 1203 
+references Caldera.txt 1 1837 
+heated Caldera.txt 1 1753 
+1990s Caldera.txt 1 785 
+diameters Caldera.txt 1 1816 
+ontario Caldera.txt 1 459 
+van Caldera.txt 1 996 
+1980 Caldera.txt 1 707 
+area Caldera.txt 2 423 1706 
+support Caldera.txt 2 48 331 
+people Caldera.txt 1 839 
+gases Caldera.txt 2 518 547 
+start Caldera.txt 1 122 
+inner Caldera.txt 1 1146 
+viscous Caldera.txt 1 1081 
+was Caldera.txt 6 162 831 913 1188 1196 1473 
+piton Caldera.txt 2 304 1167 
+mountains Caldera.txt 4 904 954 1024 1710 
+north Caldera.txt 1 690 
+triggered Caldera.txt 1 267 
+forming Caldera.txt 1 890 
+atop Caldera.txt 1 1125 
+but Caldera.txt 2 292 1442 
+heat Caldera.txt 1 1686 
+solar Caldera.txt 2 1256 1639 
+andes Caldera.txt 1 1023 
+with Caldera.txt 9 198 228 493 1012 1015 1353 1654 1768 1815 
+collapses Caldera.txt 3 62 117 425 
+he Caldera.txt 2 176 189 
+lynn Caldera.txt 1 820 
+2,800 Caldera.txt 1 753 
+places Caldera.txt 1 948 
+up Caldera.txt 1 693 
+record Caldera.txt 1 730 
+continuously Caldera.txt 1 1789 
+jupiter Caldera.txt 2 1280 1763 
+silicic Caldera.txt 1 607 
+similar Caldera.txt 2 1308 1601 
+average Caldera.txt 3 1321 1330 1360 
+aerial Caldera.txt 1 991 
+m Caldera.txt 1 1186 
+influence Caldera.txt 1 1761 
+an Caldera.txt 5 13 109 1145 1397 1566 
+as Caldera.txt 18 88 99 279 357 366 378 399 413 515 591 631 678 950 1033 1073 1110 1149 1388 
+at Caldera.txt 7 74 129 523 594 926 1492 1510 
+planets Caldera.txt 2 1251 1785 
+accounting Caldera.txt 1 1700 
+withdrawal Caldera.txt 1 1192 
+incorrect Caldera.txt 1 888 
+48 Caldera.txt 1 1366 
+no Caldera.txt 3 843 854 1681 
+image Caldera.txt 1 231 
+when Caldera.txt 6 36 175 529 662 701 1133 
+40 Caldera.txt 2 1299 1338 
+other Caldera.txt 5 3 498 858 1250 1298 
+tuff Caldera.txt 2 495 912 
+erosion Caldera.txt 1 1829 
+poor Caldera.txt 1 1072 
+elements Caldera.txt 1 1485 
+2,700 Caldera.txt 1 468 
+teide Caldera.txt 1 200 
+missouri Caldera.txt 1 972 
+basalt Caldera.txt 2 514 1068 
+develops Caldera.txt 1 347 
+yellowstone Caldera.txt 2 599 663 
+650,000 Caldera.txt 1 668 
+best-preserved Caldera.txt 1 449 
+caldera Caldera.txt 32 0 6 16 19 142 161 195 207 213 224 456 473 488 579 610 664 724 899 982 995 1004 1124 1137 1143 1217 1305 1322 1331 1352 1361 1564 1568 
+structure Caldera.txt 1 1306 
+ago Caldera.txt 4 471 670 747 925 
+miles Caldera.txt 1 1661 
+orbit Caldera.txt 1 1778 
+kilauea Caldera.txt 1 1142 
+summit Caldera.txt 3 981 1663 1737 
+2007 Caldera.txt 2 309 1163 
+volumes Caldera.txt 1 38 
+time Caldera.txt 3 46 931 1428 
+silica Caldera.txt 2 486 1071 
+once Caldera.txt 1 1431 

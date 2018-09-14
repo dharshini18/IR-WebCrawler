@@ -1,0 +1,229 @@
+planetary Heliophysics.txt 3 253 304 410 
+directorate Heliophysics.txt 2 237 407 
+endeavour Heliophysics.txt 1 223 
+siscoes Heliophysics.txt 2 208 229 
+hybrid Heliophysics.txt 1 354 
+magnetic Heliophysics.txt 1 307 
+mission Heliophysics.txt 2 236 406 
+four Heliophysics.txt 1 401 
+prefix Heliophysics.txt 1 43 
+including Heliophysics.txt 1 269 
+earth Heliophysics.txt 2 25 408 
+still Heliophysics.txt 1 372 
+its Heliophysics.txt 1 98 
+magnetospheres Heliophysics.txt 2 256 305 
+layers Heliophysics.txt 1 75 
+helio Heliophysics.txt 1 44 
+unique Heliophysics.txt 1 353 
+field Heliophysics.txt 1 308 
+true Heliophysics.txt 1 220 
+concerned Heliophysics.txt 1 70 
+had Heliophysics.txt 1 132 
+to Heliophysics.txt 15 28 53 97 110 135 170 188 215 238 313 324 338 340 375 419 
+only Heliophysics.txt 1 57 
+explicitly Heliophysics.txt 1 94 
+usage Heliophysics.txt 1 91 
+hidden Heliophysics.txt 1 467 
+has Heliophysics.txt 2 113 442 
+plasma Heliophysics.txt 1 284 
+division Heliophysics.txt 2 427 434 
+21st Heliophysics.txt 1 154 
+around Heliophysics.txt 1 179 
+means Heliophysics.txt 2 37 49 
+showing Heliophysics.txt 1 18 
+early Heliophysics.txt 2 66 151 
+effects Heliophysics.txt 1 302 
+closely Heliophysics.txt 1 322 
+international Heliophysics.txt 1 449 
+not Heliophysics.txt 1 214 
+affect Heliophysics.txt 1 334 
+now Heliophysics.txt 2 85 395 
+dr Heliophysics.txt 1 164 
+heliophysical Heliophysics.txt 1 450 
+categories Heliophysics.txt 2 466 468 
+atmospheres Heliophysics.txt 2 254 392 
+entire Heliophysics.txt 1 106 
+term Heliophysics.txt 4 35 160 225 440 
+name Heliophysics.txt 2 397 422 
+excluding Heliophysics.txt 1 200 
+edit Heliophysics.txt 3 460 462 465 
+university Heliophysics.txt 1 169 
+shock Heliophysics.txt 1 190 
+heliosphysics Heliophysics.txt 1 21 
+comprising Heliophysics.txt 1 359 
+specific Heliophysics.txt 1 374 
+contain Heliophysics.txt 1 216 
+subdiscipline Heliophysics.txt 1 148 
+where Heliophysics.txt 1 191 
+view Heliophysics.txt 1 209 
+set Heliophysics.txt 1 366 
+disciplines Heliophysics.txt 1 268 
+attic Heliophysics.txt 1 46 
+phenomena Heliophysics.txt 1 332 
+direct Heliophysics.txt 1 125 
+presentation Heliophysics.txt 1 347 
+connections Heliophysics.txt 2 426 433 
+heliology Heliophysics.txt 1 150 
+see Heliophysics.txt 1 458 
+used Heliophysics.txt 3 56 115 418 
+year Heliophysics.txt 1 451 
+naming Heliophysics.txt 1 447 
+beyond Heliophysics.txt 1 182 
+out Heliophysics.txt 2 27 187 
+what Heliophysics.txt 1 83 
+interacting Heliophysics.txt 1 383 
+space Heliophysics.txt 3 178 286 328 
+sun Heliophysics.txt 5 41 50 107 181 312 
+since Heliophysics.txt 1 119 
+wikipedia Heliophysics.txt 1 1 
+moon Heliophysics.txt 1 33 
+current Heliophysics.txt 1 2 
+include Heliophysics.txt 1 171 
+between Heliophysics.txt 1 355 
+nuclear Heliophysics.txt 1 282 
+before Heliophysics.txt 1 429 
+encounters Heliophysics.txt 1 195 
+body Heliophysics.txt 1 361 
+discipline Heliophysics.txt 1 212 
+condensed Heliophysics.txt 1 205 
+one Heliophysics.txt 1 399 
+recently Heliophysics.txt 1 63 
+timeline Heliophysics.txt 1 457 
+magnetized Heliophysics.txt 2 295 376 
+superficial Heliophysics.txt 1 74 
+french Heliophysics.txt 1 129 
+quite Heliophysics.txt 1 62 
+notably Heliophysics.txt 1 252 
+objects Heliophysics.txt 1 247 
+although Heliophysics.txt 1 207 
+hliophysique Heliophysics.txt 1 130 
+configuration Heliophysics.txt 1 309 
+appears Heliophysics.txt 2 52 213 
+stellar Heliophysics.txt 1 273 
+interaction Heliophysics.txt 1 293 
+missions Heliophysics.txt 2 8 22 
+extension Heliophysics.txt 1 318 
+simplify Heliophysics.txt 1 420 
+of Heliophysics.txt 22 13 31 39 76 104 149 158 167 174 210 218 222 242 281 319 327 362 367 398 400 423 438 
+study Heliophysics.txt 3 14 241 326 
+undiscovered Heliophysics.txt 1 373 
+sun--solar-system Heliophysics.txt 1 425 
+commonly Heliophysics.txt 1 87 
+times Heliophysics.txt 1 67 
+propagation Heliophysics.txt 1 299 
+became Heliophysics.txt 1 146 
+principally Heliophysics.txt 1 71 
+distinction Heliophysics.txt 1 138 
+introduced Heliophysics.txt 1 134 
+consequently Heliophysics.txt 1 337 
+magnetospheric Heliophysics.txt 1 289 
+encompasses Heliophysics.txt 1 349 
+heliophysics Heliophysics.txt 11 0 5 36 68 264 320 348 393 412 441 454 
+within Heliophysics.txt 1 403 
+synonymous Heliophysics.txt 1 81 
+interstellar Heliophysics.txt 2 197 262 
+system Heliophysics.txt 1 6 
+weather Heliophysics.txt 1 329 
+references Heliophysics.txt 1 461 
+adopted Heliophysics.txt 2 227 445 
+solaire Heliophysics.txt 1 141 
+george Heliophysics.txt 1 165 
+conference Heliophysics.txt 1 346 
+combines Heliophysics.txt 1 265 
+from Heliophysics.txt 7 23 45 108 127 139 310 343 
+1981 Heliophysics.txt 1 96 
+interact Heliophysics.txt 1 249 
+approximate Heliophysics.txt 1 11 
+been Heliophysics.txt 4 55 114 133 444 
+by Heliophysics.txt 2 163 232 
+siscoe Heliophysics.txt 2 166 342 
+their Heliophysics.txt 2 10 391 
+literal Heliophysics.txt 1 99 
+heliosphere Heliophysics.txt 3 176 244 382 
+astrophysics Heliophysics.txt 2 358 414 
+bodies Heliophysics.txt 2 206 389 
+themselves Heliophysics.txt 1 385 
+plasmas Heliophysics.txt 1 377 
+was Heliophysics.txt 7 69 80 92 123 161 226 417 
+until Heliophysics.txt 1 61 
+more Heliophysics.txt 1 86 
+medium Heliophysics.txt 2 198 263 
+neutrals Heliophysics.txt 1 379 
+mostly Heliophysics.txt 1 371 
+that Heliophysics.txt 5 59 117 248 333 430 
+lawsperhaps Heliophysics.txt 1 370 
+denoting Heliophysics.txt 1 101 
+but Heliophysics.txt 1 199 
+environmental Heliophysics.txt 1 350 
+paradigms Heliophysics.txt 1 368 
+external Heliophysics.txt 1 463 
+solar Heliophysics.txt 9 89 142 193 258 270 291 297 300 306 
+translation Heliophysics.txt 1 126 
+general Heliophysics.txt 2 276 369 
+with Heliophysics.txt 6 72 82 250 294 384 387 
+divisions Heliophysics.txt 1 402 
+observatory Heliophysics.txt 1 7 
+gravitating Heliophysics.txt 1 388 
+science Heliophysics.txt 5 235 351 405 409 411 
+meteorology Heliophysics.txt 1 356 
+near Heliophysics.txt 1 24 
+future Heliophysics.txt 1 4 
+2007-2008 Heliophysics.txt 1 453 
+climatology Heliophysics.txt 1 339 
+called Heliophysics.txt 1 88 
+and Heliophysics.txt 20 3 51 79 112 203 245 255 260 272 277 288 330 336 357 364 378 386 390 413 428 
+program Heliophysics.txt 1 456 
+planets Heliophysics.txt 2 202 296 
+links Heliophysics.txt 1 464 
+century Heliophysics.txt 1 155 
+itmost Heliophysics.txt 1 251 
+boston Heliophysics.txt 1 168 
+is Heliophysics.txt 3 84 321 394 
+in Heliophysics.txt 12 9 58 64 95 116 152 185 228 275 380 446 452 
+thus Heliophysics.txt 1 145 
+it Heliophysics.txt 3 122 144 335 
+denote Heliophysics.txt 1 239 
+as Heliophysics.txt 1 120 
+have Heliophysics.txt 1 54 
+sense Heliophysics.txt 3 60 118 231 
+flight Heliophysics.txt 1 455 
+activity Heliophysics.txt 1 301 
+heliopause Heliophysics.txt 1 315 
+realm Heliophysics.txt 1 221 
+provide Heliophysics.txt 1 136 
+media Heliophysics.txt 1 16 
+physique Heliophysics.txt 1 140 
+regions Heliophysics.txt 1 12 
+also Heliophysics.txt 3 278 443 459 
+other Heliophysics.txt 2 204 267 
+which Heliophysics.txt 1 131 
+several Heliophysics.txt 2 266 279 
+play Heliophysics.txt 1 15 
+extended Heliophysics.txt 2 93 162 
+star Heliophysics.txt 1 78 
+hlios Heliophysics.txt 1 48 
+quote Heliophysics.txt 1 341 
+use Heliophysics.txt 1 437 
+tied Heliophysics.txt 1 323 
+most Heliophysics.txt 1 217 
+meaning Heliophysics.txt 2 100 157 
+nasas Heliophysics.txt 2 404 435 
+such Heliophysics.txt 1 121 
+on Heliophysics.txt 1 303 
+data Heliophysics.txt 1 363 
+recent Heliophysics.txt 2 317 345 
+a Heliophysics.txt 7 124 137 147 344 352 360 365 
+branches Heliophysics.txt 1 280 
+center Heliophysics.txt 1 109 
+restricted Heliophysics.txt 2 230 436 
+orbit Heliophysics.txt 2 26 30 
+corona Heliophysics.txt 3 111 184 259 
+greek Heliophysics.txt 1 47 
+nasa Heliophysics.txt 2 20 234 
+principle Heliophysics.txt 1 186 
+movie Heliophysics.txt 1 17 
+sun-earth Heliophysics.txt 1 432 
+title Heliophysics.txt 1 416 
+the Heliophysics.txt 46 19 29 32 34 40 42 65 73 77 102 105 128 153 156 159 172 175 177 180 183 189 192 196 201 211 219 224 233 240 243 246 257 261 311 314 316 325 331 381 396 415 421 424 431 439 448 
+physics Heliophysics.txt 11 38 90 103 143 173 271 274 283 285 287 290 
+wind Heliophysics.txt 3 194 292 298 

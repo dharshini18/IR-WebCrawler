@@ -1,0 +1,266 @@
+6,798.383 Lunar_node.txt 1 188 
+5.14 Lunar_node.txt 1 401 
+extremes Lunar_node.txt 2 389 473 
+suns Lunar_node.txt 1 19 
+astronomical Lunar_node.txt 1 318 
+comparatively Lunar_node.txt 1 544 
+datum Lunar_node.txt 1 609 
+cauda Lunar_node.txt 1 341 
+years Lunar_node.txt 2 187 221 
+symbols Lunar_node.txt 1 272 
+apian Lunar_node.txt 1 278 
+through Lunar_node.txt 1 102 
+during Lunar_node.txt 3 444 542 599 
+world Lunar_node.txt 1 295 
+earth Lunar_node.txt 1 439 
+vernal Lunar_node.txt 1 460 
+transits Lunar_node.txt 1 508 
+its Lunar_node.txt 5 244 314 346 487 500 
+astrology Lunar_node.txt 1 375 
+culmination Lunar_node.txt 1 498 
+25 Lunar_node.txt 1 154 
+enters Lunar_node.txt 1 77 
+based Lunar_node.txt 1 377 
+northern Lunar_node.txt 3 64 470 488 
+tidal Lunar_node.txt 1 608 
+location Lunar_node.txt 2 584 596 
+passage Lunar_node.txt 2 98 117 
+to Lunar_node.txt 7 215 305 402 411 426 434 620 
+only Lunar_node.txt 1 87 
+analogy Lunar_node.txt 1 330 
+4 Lunar_node.txt 1 536 
+moonset Lunar_node.txt 1 484 
+potentially Lunar_node.txt 1 518 
+nodes Lunar_node.txt 8 5 29 33 91 170 284 560 627 
+has Lunar_node.txt 3 486 499 561 
+meridian Lunar_node.txt 1 510 
+caesareum Lunar_node.txt 1 281 
+count Lunar_node.txt 1 619 
+over Lunar_node.txt 1 535 
+around Lunar_node.txt 2 173 236 
+sightings Lunar_node.txt 1 513 
+precess Lunar_node.txt 1 172 
+rotational Lunar_node.txt 1 436 
+descending Lunar_node.txt 4 69 332 368 383 
+caput Lunar_node.txt 1 310 
+not Lunar_node.txt 1 194 
+ascending-node Lunar_node.txt 1 247 
+noaa Lunar_node.txt 1 575 
+day Lunar_node.txt 1 598 
+categories Lunar_node.txt 2 636 638 
+areas Lunar_node.txt 1 292 
+inversion Lunar_node.txt 1 350 
+tail Lunar_node.txt 1 340 
+standstill Lunar_node.txt 1 394 
+edit Lunar_node.txt 6 273 390 554 630 632 635 
+either Lunar_node.txt 2 139 156 
+each Lunar_node.txt 1 597 
+small Lunar_node.txt 1 563 
+fixed Lunar_node.txt 1 217 
+where Lunar_node.txt 3 10 58 74 
+referred Lunar_node.txt 1 304 
+revolution Lunar_node.txt 1 178 
+equinox Lunar_node.txt 1 461 
+reference Lunar_node.txt 1 210 
+frame Lunar_node.txt 1 208 
+1st Lunar_node.txt 1 231 
+southern-most Lunar_node.txt 1 490 
+maximum Lunar_node.txt 1 467 
+relative Lunar_node.txt 1 214 
+see Lunar_node.txt 2 391 628 
+23.44 Lunar_node.txt 1 425 
+are Lunar_node.txt 3 6 30 285 
+year Lunar_node.txt 2 253 261 
+peter Lunar_node.txt 1 277 
+pleiades Lunar_node.txt 1 530 
+18.599525 Lunar_node.txt 1 220 
+for Lunar_node.txt 2 266 322 
+space Lunar_node.txt 1 167 
+highest Lunar_node.txt 1 503 
+since Lunar_node.txt 1 158 
+wikipedia Lunar_node.txt 1 2 
+while Lunar_node.txt 3 67 110 141 
+18.6-year Lunar_node.txt 2 446 622 
+moon Lunar_node.txt 16 36 48 60 76 85 101 109 122 131 150 164 241 407 496 517 527 
+tides Lunar_node.txt 2 553 567 
+brief Lunar_node.txt 1 545 
+lunar Lunar_node.txt 10 0 4 28 90 112 124 169 393 559 626 
+goes Lunar_node.txt 1 265 
+moons Lunar_node.txt 4 12 396 455 463 
+new Lunar_node.txt 3 108 149 516 
+occurs Lunar_node.txt 2 95 114 
+body Lunar_node.txt 1 507 
+be Lunar_node.txt 1 409 
+full Lunar_node.txt 2 121 130 
+whose Lunar_node.txt 1 430 
+tantra Lunar_node.txt 1 381 
+perpendicular Lunar_node.txt 1 433 
+ascending Lunar_node.txt 6 53 245 301 355 361 451 
+water Lunar_node.txt 1 580 
+ecliptic Lunar_node.txt 10 17 51 65 80 136 175 404 419 421 540 
+gregorian Lunar_node.txt 1 260 
+path Lunar_node.txt 2 14 22 
+occultations Lunar_node.txt 1 524 
+by Lunar_node.txt 4 287 327 525 585 
+on Lunar_node.txt 7 23 229 254 378 492 552 565 
+about Lunar_node.txt 5 258 400 412 424 474 
+38 Lunar_node.txt 1 135 
+1540 Lunar_node.txt 1 282 
+kalachakra Lunar_node.txt 1 380 
+of Lunar_node.txt 20 34 46 99 138 155 162 209 226 293 351 353 417 438 453 514 528 538 557 589 624 
+completing Lunar_node.txt 1 176 
+tibetan Lunar_node.txt 1 374 
+days Lunar_node.txt 2 189 234 
+against Lunar_node.txt 1 205 
+times Lunar_node.txt 1 522 
+length Lunar_node.txt 1 197 
+involving Lunar_node.txt 1 83 
+horizon Lunar_node.txt 1 494 
+hindu Lunar_node.txt 1 358 
+0.94901 Lunar_node.txt 1 259 
+draconic Lunar_node.txt 2 181 252 
+mean Lunar_node.txt 1 577 
+or Lunar_node.txt 7 54 70 182 312 343 415 483 
+south Lunar_node.txt 2 71 416 
+first Lunar_node.txt 1 512 
+yearly Lunar_node.txt 1 21 
+descending-node Lunar_node.txt 1 267 
+named Lunar_node.txt 1 386 
+into Lunar_node.txt 1 62 
+within Lunar_node.txt 2 133 152 
+period Lunar_node.txt 6 184 448 546 550 603 614 
+reaches Lunar_node.txt 1 465 
+one Lunar_node.txt 2 177 251 
+determines Lunar_node.txt 1 576 
+texts Lunar_node.txt 1 299 
+references Lunar_node.txt 1 631 
+names Lunar_node.txt 2 270 289 
+icrs Lunar_node.txt 1 213 
+administration Lunar_node.txt 1 574 
+full-year Lunar_node.txt 1 618 
+earths Lunar_node.txt 1 566 
+ancient Lunar_node.txt 1 297 
+from Lunar_node.txt 1 476 
+recur Lunar_node.txt 1 249 
+nodal Lunar_node.txt 3 183 447 549 
+altitude Lunar_node.txt 1 504 
+two Lunar_node.txt 3 8 40 223 
+their Lunar_node.txt 1 520 
+therefore Lunar_node.txt 1 480 
+stars Lunar_node.txt 1 218 
+recorded Lunar_node.txt 1 593 
+19-year Lunar_node.txt 2 601 612 
+was Lunar_node.txt 1 242 
+national Lunar_node.txt 2 570 607 
+low Lunar_node.txt 1 579 
+lowest Lunar_node.txt 2 501 591 
+head Lunar_node.txt 2 309 326 
+north Lunar_node.txt 3 55 414 537 
+that Lunar_node.txt 4 37 191 352 595 
+inclined Lunar_node.txt 2 399 423 
+apparent Lunar_node.txt 1 20 
+occurred Lunar_node.txt 1 235 
+31st Lunar_node.txt 1 233 
+hemisphere Lunar_node.txt 2 66 81 
+kalagni Lunar_node.txt 1 387 
+external Lunar_node.txt 1 633 
+solar Lunar_node.txt 3 93 143 224 
+astrological Lunar_node.txt 1 320 
+known Lunar_node.txt 2 336 604 
+18.612958 Lunar_node.txt 1 186 
+july Lunar_node.txt 1 227 
+dragons Lunar_node.txt 2 308 339 
+with Lunar_node.txt 3 106 119 458 
+hidden Lunar_node.txt 1 637 
+28.6 Lunar_node.txt 1 475 
+partially Lunar_node.txt 1 376 
+11 Lunar_node.txt 1 134 
+crosses Lunar_node.txt 2 15 49 
+atmospheric Lunar_node.txt 1 573 
+17 Lunar_node.txt 1 153 
+cluster Lunar_node.txt 1 532 
+this Lunar_node.txt 1 192 
+inertial Lunar_node.txt 1 207 
+eclipse Lunar_node.txt 4 94 113 125 144 
+up Lunar_node.txt 1 410 
+longitude Lunar_node.txt 1 137 
+precession Lunar_node.txt 1 556 
+recording Lunar_node.txt 2 602 613 
+catabibazon Lunar_node.txt 1 344 
+near Lunar_node.txt 1 88 
+azimuth Lunar_node.txt 1 485 
+can Lunar_node.txt 1 408 
+draconis Lunar_node.txt 2 311 342 
+eclipses Lunar_node.txt 4 82 225 248 268 
+called Lunar_node.txt 4 179 286 364 371 
+result Lunar_node.txt 1 442 
+and Lunar_node.txt 12 232 262 271 319 345 366 468 471 489 502 511 572 
+nearest Lunar_node.txt 1 617 
+celestial Lunar_node.txt 3 25 428 478 
+moonrise Lunar_node.txt 1 482 
+have Lunar_node.txt 1 519 
+links Lunar_node.txt 1 634 
+equator Lunar_node.txt 2 429 479 
+averaging Lunar_node.txt 1 586 
+is Lunar_node.txt 20 38 57 73 132 151 193 219 257 303 316 334 348 363 370 385 398 422 432 534 615 
+an Lunar_node.txt 1 206 
+tide Lunar_node.txt 1 592 
+sphere Lunar_node.txt 1 26 
+as Lunar_node.txt 6 198 212 306 337 440 605 
+minimum Lunar_node.txt 1 469 
+at Lunar_node.txt 5 42 243 497 582 594 
+rahu Lunar_node.txt 1 365 
+in Lunar_node.txt 7 166 185 276 290 296 357 373 
+moves Lunar_node.txt 1 61 
+occur Lunar_node.txt 4 86 127 146 541 
+contents Lunar_node.txt 1 269 
+if Lunar_node.txt 2 128 147 
+orbital Lunar_node.txt 3 13 32 160 
+different Lunar_node.txt 2 288 291 
+u.s Lunar_node.txt 1 569 
+astronomicum Lunar_node.txt 1 280 
+when Lunar_node.txt 5 96 115 239 449 505 
+s Lunar_node.txt 2 279 325 
+same Lunar_node.txt 4 196 202 264 329 
+anabibazon Lunar_node.txt 1 313 
+note Lunar_node.txt 1 190 
+also Lunar_node.txt 4 171 335 392 629 
+epoch Lunar_node.txt 1 610 
+declination Lunar_node.txt 2 388 464 
+5 Lunar_node.txt 1 413 
+which Lunar_node.txt 3 43 256 533 
+mllw Lunar_node.txt 1 581 
+axis Lunar_node.txt 1 437 
+european Lunar_node.txt 1 298 
+node Lunar_node.txt 14 1 56 72 104 140 157 246 302 333 356 362 369 384 452 
+star Lunar_node.txt 1 531 
+oceanic Lunar_node.txt 1 571 
+may Lunar_node.txt 2 126 145 
+symbol Lunar_node.txt 3 315 321 347 
+after Lunar_node.txt 1 250 
+southern Lunar_node.txt 2 79 472 
+effect Lunar_node.txt 2 551 564 
+hence Lunar_node.txt 1 405 
+plane Lunar_node.txt 2 161 431 
+saros Lunar_node.txt 1 200 
+ketu Lunar_node.txt 1 372 
+such Lunar_node.txt 1 211 
+astronomy Lunar_node.txt 1 359 
+measured Lunar_node.txt 1 204 
+cycle Lunar_node.txt 2 203 623 
+a Lunar_node.txt 13 92 103 111 123 142 180 199 441 466 543 562 583 600 
+lower Lunar_node.txt 1 578 
+average Lunar_node.txt 1 255 
+coincides Lunar_node.txt 3 105 118 457 
+orbit Lunar_node.txt 3 45 397 456 
+dragon Lunar_node.txt 2 275 324 
+height Lunar_node.txt 1 588 
+2000 Lunar_node.txt 1 228 
+points Lunar_node.txt 3 9 41 491 
+precesses Lunar_node.txt 1 165 
+time Lunar_node.txt 1 238 
+every Lunar_node.txt 1 548 
+the Lunar_node.txt 88 3 7 11 16 18 24 27 31 35 39 44 47 50 52 59 63 68 75 78 84 89 97 100 107 116 120 129 148 159 163 168 174 195 201 216 222 230 237 240 263 274 283 294 300 307 317 323 328 331 338 349 354 360 367 379 382 395 403 406 418 420 427 435 445 450 454 459 462 477 481 493 495 506 509 515 526 529 539 555 558 568 587 590 606 611 616 621 625 
+latest Lunar_node.txt 1 521 
+furthermore Lunar_node.txt 1 523 
+once Lunar_node.txt 2 443 547 

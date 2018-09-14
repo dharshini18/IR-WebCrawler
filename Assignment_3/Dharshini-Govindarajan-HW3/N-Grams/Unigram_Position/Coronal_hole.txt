@@ -1,0 +1,229 @@
+atmosphere Coronal_hole.txt 1 161 
+minima Coronal_hole.txt 1 374 
+suns Coronal_hole.txt 3 36 198 331 
+magnetic Coronal_hole.txt 4 53 211 264 314 
+move Coronal_hole.txt 1 192 
+mission Coronal_hole.txt 1 155 
+sources Coronal_hole.txt 1 380 
+radio Coronal_hole.txt 1 119 
+farther Coronal_hole.txt 2 236 444 
+research Coronal_hole.txt 1 132 
+speed Coronal_hole.txt 1 299 
+24 Coronal_hole.txt 1 473 
+increase Coronal_hole.txt 1 230 
+disturbance Coronal_hole.txt 1 442 
+density Coronal_hole.txt 1 101 
+disturbances Coronal_hole.txt 2 384 451 
+storms Coronal_hole.txt 2 389 406 
+decreases Coronal_hole.txt 1 208 
+recurrence Coronal_hole.txt 1 437 
+to Coronal_hole.txt 10 68 80 97 162 196 283 310 353 420 434 
+permanent Coronal_hole.txt 1 250 
+thinness Coronal_hole.txt 1 351 
+categories Coronal_hole.txt 2 488 490 
+sydney Coronal_hole.txt 1 116 
+gradual Coronal_hole.txt 1 396 
+hidden Coronal_hole.txt 1 489 
+has Coronal_hole.txt 1 17 
+plasma Coronal_hole.txt 1 19 
+over Coronal_hole.txt 2 398 469 
+do Coronal_hole.txt 2 84 274 
+easily Coronal_hole.txt 1 364 
+very Coronal_hole.txt 2 65 348 
+there Coronal_hole.txt 2 23 248 
+possible Coronal_hole.txt 1 433 
+primary Coronal_hole.txt 1 379 
+early Coronal_hole.txt 1 144 
+they Coronal_hole.txt 2 83 129 
+fall Coronal_hole.txt 2 86 276 
+not Coronal_hole.txt 4 48 85 275 402 
+during Coronal_hole.txt 2 200 372 
+usually Coronal_hole.txt 1 414 
+minute Coronal_hole.txt 1 479 
+areas Coronal_hole.txt 2 6 59 
+reveal Coronal_hole.txt 1 163 
+reading Coronal_hole.txt 1 486 
+densities Coronal_hole.txt 1 337 
+course Coronal_hole.txt 1 471 
+edit Coronal_hole.txt 8 111 171 290 371 453 482 484 487 
+fields Coronal_hole.txt 2 54 212 
+cme Coronal_hole.txt 1 449 
+generally Coronal_hole.txt 1 293 
+flown Coronal_hole.txt 1 157 
+twice Coronal_hole.txt 1 301 
+found Coronal_hole.txt 1 148 
+where Coronal_hole.txt 1 7 
+spotted Coronal_hole.txt 1 141 
+because Coronal_hole.txt 2 22 44 
+telescope Coronal_hole.txt 1 120 
+often Coronal_hole.txt 1 432 
+colder Coronal_hole.txt 1 13 
+energy Coronal_hole.txt 2 26 73 
+some Coronal_hole.txt 1 131 
+back Coronal_hole.txt 2 87 277 
+1960s Coronal_hole.txt 1 114 
+rate Coronal_hole.txt 1 94 
+ejections Coronal_hole.txt 1 411 
+are Coronal_hole.txt 9 5 32 39 64 249 327 347 377 401 
+escape Coronal_hole.txt 2 91 284 
+images Coronal_hole.txt 2 123 452 
+further Coronal_hole.txt 1 485 
+out Coronal_hole.txt 1 135 
+closer Coronal_hole.txt 2 193 195 
+what Coronal_hole.txt 2 128 268 
+disk Coronal_hole.txt 1 456 
+appear Coronal_hole.txt 2 81 221 
+for Coronal_hole.txt 2 427 448 
+space Coronal_hole.txt 2 369 382 
+sun Coronal_hole.txt 6 9 51 184 215 242 261 
+away Coronal_hole.txt 1 57 
+since Coronal_hole.txt 2 324 357 
+wikipedia Coronal_hole.txt 1 2 
+per Coronal_hole.txt 1 478 
+uniform Coronal_hole.txt 1 49 
+particles Coronal_hole.txt 2 90 358 
+enough Coronal_hole.txt 1 96 
+poles Coronal_hole.txt 4 199 225 239 258 
+above Coronal_hole.txt 1 158 
+chromosphere Coronal_hole.txt 1 361 
+new Coronal_hole.txt 2 218 224 
+contributes Coronal_hole.txt 1 352 
+cause Coronal_hole.txt 1 77 
+shows Coronal_hole.txt 2 267 465 
+escaping Coronal_hole.txt 1 305 
+visualization Coronal_hole.txt 1 464 
+hours Coronal_hole.txt 2 399 474 
+although Coronal_hole.txt 1 124 
+heads Coronal_hole.txt 1 185 
+along Coronal_hole.txt 1 312 
+telescopes Coronal_hole.txt 1 151 
+on Coronal_hole.txt 3 213 253 368 
+great Coronal_hole.txt 1 95 
+last Coronal_hole.txt 1 426 
+reverse Coronal_hole.txt 1 216 
+most Coronal_hole.txt 1 341 
+of Coronal_hole.txt 10 34 72 166 205 259 342 381 438 441 472 
+months Coronal_hole.txt 1 429 
+through Coronal_hole.txt 2 319 366 
+significantly Coronal_hole.txt 1 443 
+s Coronal_hole.txt 1 10 
+levels Coronal_hole.txt 2 29 71 
+1970s Coronal_hole.txt 1 145 
+hence Coronal_hole.txt 1 14 
+advance Coronal_hole.txt 1 446 
+darker Coronal_hole.txt 1 15 
+south Coronal_hole.txt 1 257 
+first Coronal_hole.txt 2 109 140 
+this Coronal_hole.txt 3 350 439 463 
+unclear Coronal_hole.txt 1 127 
+afterwards Coronal_hole.txt 1 217 
+can Coronal_hole.txt 2 362 425 
+within Coronal_hole.txt 1 359 
+cmes Coronal_hole.txt 1 412 
+number Coronal_hole.txt 2 204 234 
+proton Coronal_hole.txt 1 388 
+weather Coronal_hole.txt 2 370 383 
+references Coronal_hole.txt 1 483 
+discharge Coronal_hole.txt 1 294 
+open Coronal_hole.txt 1 313 
+size Coronal_hole.txt 2 174 232 
+earths Coronal_hole.txt 1 160 
+from Coronal_hole.txt 3 58 237 391 
+temperature Coronal_hole.txt 1 104 
+area Coronal_hole.txt 2 107 323 
+create Coronal_hole.txt 1 98 
+contains Coronal_hole.txt 1 52 
+due Coronal_hole.txt 2 67 419 
+by Coronal_hole.txt 1 408 
+much Coronal_hole.txt 1 335 
+influence Coronal_hole.txt 1 367 
+was Coronal_hole.txt 1 126 
+until Coronal_hole.txt 1 209 
+more Coronal_hole.txt 1 363 
+field Coronal_hole.txt 3 265 272 315 
+originating Coronal_hole.txt 1 390 
+onset Coronal_hole.txt 1 418 
+north Coronal_hole.txt 1 255 
+lines-image Coronal_hole.txt 1 266 
+that Coronal_hole.txt 6 55 63 106 136 317 333 
+constantly Coronal_hole.txt 1 40 
+gas Coronal_hole.txt 2 28 75 
+took Coronal_hole.txt 1 121 
+part Coronal_hole.txt 1 33 
+related Coronal_hole.txt 1 450 
+solar Coronal_hole.txt 13 89 169 180 187 201 245 281 288 295 306 355 373 455 
+known Coronal_hole.txt 1 309 
+hole Coronal_hole.txt 6 1 173 263 322 460 468 
+with Coronal_hole.txt 2 178 457 
+than Coronal_hole.txt 3 20 340 447 
+population Coronal_hole.txt 1 176 
+these Coronal_hole.txt 2 146 345 
+type Coronal_hole.txt 1 440 
+sampled Coronal_hole.txt 1 475 
+maximum Coronal_hole.txt 2 188 202 
+near Coronal_hole.txt 1 222 
+sudden Coronal_hole.txt 1 417 
+thin Coronal_hole.txt 2 66 349 
+reshaping Coronal_hole.txt 1 43 
+were Coronal_hole.txt 4 130 139 147 156 
+about Coronal_hole.txt 2 300 476 
+toward Coronal_hole.txt 2 186 244 
+discoveries Coronal_hole.txt 1 110 
+x-ray Coronal_hole.txt 2 122 150 
+at Coronal_hole.txt 2 92 297 
+and Coronal_hole.txt 15 16 27 38 42 74 102 175 194 233 256 278 287 338 387 400 
+then Coronal_hole.txt 1 229 
+predict Coronal_hole.txt 1 435 
+lines Coronal_hole.txt 2 273 316 
+is Coronal_hole.txt 5 12 24 47 308 431 
+pass Coronal_hole.txt 1 318 
+thus Coronal_hole.txt 1 88 
+it Coronal_hole.txt 2 125 430 
+as Coronal_hole.txt 4 182 240 403 405 
+minimum Coronal_hole.txt 1 246 
+caused Coronal_hole.txt 1 407 
+lower-density Coronal_hole.txt 1 18 
+have Coronal_hole.txt 3 334 394 415 
+in Coronal_hole.txt 8 60 105 112 142 152 231 329 445 
+moves Coronal_hole.txt 1 243 
+contents Coronal_hole.txt 1 108 
+again Coronal_hole.txt 1 247 
+geomagnetic Coronal_hole.txt 1 386 
+media Coronal_hole.txt 1 462 
+travel Coronal_hole.txt 1 311 
+when Coronal_hole.txt 3 82 149 270 
+cross Coronal_hole.txt 1 118 
+regions Coronal_hole.txt 2 328 346 
+also Coronal_hole.txt 2 133 481 
+which Coronal_hole.txt 2 76 413 
+instead Coronal_hole.txt 1 279 
+several Coronal_hole.txt 1 428 
+happens Coronal_hole.txt 1 269 
+play Coronal_hole.txt 1 461 
+see Coronal_hole.txt 1 480 
+temperatures Coronal_hole.txt 1 339 
+skylab Coronal_hole.txt 1 154 
+extending Coronal_hole.txt 1 235 
+coronal Coronal_hole.txt 22 0 3 30 78 137 172 190 206 219 227 251 262 285 291 321 325 375 392 409 423 459 467 
+chris Coronal_hole.txt 1 117 
+changing Coronal_hole.txt 1 41 
+arch Coronal_hole.txt 1 56 
+structure Coronal_hole.txt 1 165 
+cycle Coronal_hole.txt 2 170 181 
+a Coronal_hole.txt 7 93 99 298 395 416 458 466 
+break Coronal_hole.txt 1 365 
+lower Coronal_hole.txt 5 25 70 100 103 336 
+average Coronal_hole.txt 2 21 303 
+holes Coronal_hole.txt 15 4 31 79 138 191 207 220 228 252 286 292 326 376 393 424 
+correspond Coronal_hole.txt 1 177 
+corona Coronal_hole.txt 7 11 37 46 62 168 332 344 
+severe Coronal_hole.txt 1 404 
+points Coronal_hole.txt 1 134 
+mass Coronal_hole.txt 1 410 
+fact Coronal_hole.txt 1 422 
+allow Coronal_hole.txt 1 280 
+the Coronal_hole.txt 39 8 35 45 50 61 69 113 115 143 153 159 164 167 179 183 189 197 203 210 214 223 226 238 241 254 260 271 302 304 320 330 343 354 360 378 421 436 454 470 
+typically Coronal_hole.txt 1 385 
+commencement Coronal_hole.txt 1 397 
+wind Coronal_hole.txt 5 282 289 296 307 356 
+once Coronal_hole.txt 1 477 

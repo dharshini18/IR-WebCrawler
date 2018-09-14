@@ -1,0 +1,193 @@
+Comparision between Lucene and BM25
+-------------------------------------
+Lucene provides a mechanism to index the documents faster than the BM25 algorithm. Whereas when it comes to the relevance of documents,
+BM25 takes into consideration the Length and average length of the document coupled with the relevance of the document in terms of the query
+parameters. Lucene however considers relevance to be directly realted to the occurance of query terms in the documents.
+
+Comparing the top 5 results of both the search engine,
+The results in Lucene are more focussed on the occurance of the query words in the documents
+The results in BM25 are based on relevance of the documents realted to the query words
+
+Query1 - dark eclipse moon
+
+QueryID Q0 DocumentID LuceneScore SystemName
+---------------------------------------------------
+1 Q0 Dark_moon.txt 0.3858934 ApacheLucene
+1 Q0 Magnitude_of_an_eclipse.txt 0.32708377 ApacheLucene
+1 Q0 Magnitude_of_eclipse.txt 0.3246628 ApacheLucene
+1 Q0 Solar_eclipse_of_May_3,_1715.txt 0.31480572 ApacheLucene
+1 Q0 List_of_solar_eclipses_visible_from_China.txt 0.29988247 ApacheLucene
+
+QueryID Q0 DocumentID Rank BM25Score SystemName
+---------------------------------------------------
+1 Q0 Naked_eye.txt 1 3.0460078366671253 BM25RankingAlgorithm
+1 Q0 Dark_moon.txt 2 3.0143295114539406 BM25RankingAlgorithm
+1 Q0 List_of_unsolved_problems_in_physics.txt 3 2.8769349909530693 BM25RankingAlgorithm
+1 Q0 Supra-arcade_downflows.txt 4 2.7148081140038696 BM25RankingAlgorithm
+1 Q0 Lunar_terminator.txt 5 2.7033039879759895 BM25RankingAlgorithm
+
+Query2 - forecast 
+
+QueryID Q0 DocumentID LuceneScore SystemName
+---------------------------------------------------
+2 Q0 Space_weather.txt 0.15881142 ApacheLucene
+2 Q0 Solar_eclipse_of_September_4,_2100.txt 0.12943321 ApacheLucene
+2 Q0 Skylab.txt 0.11068767 ApacheLucene
+2 Q0 Digital8.txt 0.09716863 ApacheLucene
+2 Q0 Solar_minimum.txt 0.08089576 ApacheLucene
+
+
+QueryID Q0 DocumentID Rank BM25Score SystemName
+---------------------------------------------------
+2 Q0 Solar_eclipse_of_September_4,_2100.txt 1 10.182296773034718 BM25RankingAlgorithm
+2 Q0 Solar_minimum.txt 2 8.586841674782562 BM25RankingAlgorithm
+2 Q0 Elongation_(astronomy).txt 3 7.887349413584369 BM25RankingAlgorithm
+2 Q0 Space_weather.txt 4 6.611319901825718 BM25RankingAlgorithm
+2 Q0 Radio_Television_of_Serbia.txt 5 5.411435651009183 BM25RankingAlgorithm
+
+Query3 - total eclipse solar
+
+QueryID Q0 DocumentID LuceneScore SystemName
+---------------------------------------------------
+3 Q0 Solar_Saros_126.txt 0.5623293 ApacheLucene
+3 Q0 Solar_Saros_136.txt 0.50576806 ApacheLucene
+3 Q0 Solar_Saros_145.txt 0.50311744 ApacheLucene
+3 Q0 Solar_Saros_146.txt 0.4899093 ApacheLucene
+3 Q0 Solar_eclipse_of_June_25,_2150.txt 0.48904866 ApacheLucene
+
+QueryID Q0 DocumentID Rank BM25Score SystemName
+---------------------------------------------------
+3 Q0 Space.txt 1 0.0 BM25RankingAlgorithm
+3 Q0 List_of_lunar_deities.txt 2 0.0 BM25RankingAlgorithm
+3 Q0 Bibcode.txt 3 0.0 BM25RankingAlgorithm
+3 Q0 Lake_Balaton.txt 4 0.0 BM25RankingAlgorithm
+3 Q0 Long_focus_lens.txt 5 0.0 BM25RankingAlgorithm
+
+Query4 - japan continental airline
+
+QueryID Q0 DocumentID LuceneScore SystemName
+---------------------------------------------------
+4 Q0 Aeroflot.txt 0.17223589 ApacheLucene
+4 Q0 Solar_eclipse_of_July_22,_2009.txt 0.1028048 ApacheLucene
+4 Q0 Concorde.txt 0.0947005 ApacheLucene
+4 Q0 France.txt 0.09258257 ApacheLucene
+4 Q0 Synchronous_grid_of_Continental_Europe.txt 0.08029078 ApacheLucene
+
+QueryID Q0 DocumentID Rank BM25Score SystemName
+---------------------------------------------------
+4 Q0 National_Diet_Library.txt 1 19.192348301081523 BM25RankingAlgorithm
+4 Q0 Hinode.txt 2 17.965251517975677 BM25RankingAlgorithm
+4 Q0 Yohkoh.txt 3 16.18446805806935 BM25RankingAlgorithm
+4 Q0 Solar_eclipse_of_August_9,_1896.txt 4 15.259876606635736 BM25RankingAlgorithm
+4 Q0 Solar_eclipse_of_June_26,_1824.txt 5 15.194009933883223 BM25RankingAlgorithm
+
+Query5 - japan continental airlines
+
+QueryID Q0 DocumentID LuceneScore SystemName
+---------------------------------------------------
+5 Q0 Solar_eclipse_of_July_22,_2009.txt 0.26863003 ApacheLucene
+5 Q0 Heathrow_Airport.txt 0.20148015 ApacheLucene
+5 Q0 Concorde.txt 0.18234213 ApacheLucene
+5 Q0 Aeroflot.txt 0.1670125 ApacheLucene
+
+QueryID Q0 DocumentID Rank BM25Score SystemName
+---------------------------------------------------
+5 Q0 National_Diet_Library.txt 1 19.192348301081523 BM25RankingAlgorithm
+5 Q0 Hinode.txt 2 17.965251517975677 BM25RankingAlgorithm
+5 Q0 Yohkoh.txt 3 16.18446805806935 BM25RankingAlgorithm
+5 Q0 Solar_eclipse_of_August_9,_1896.txt 4 15.259876606635736 BM25RankingAlgorithm
+5 Q0 Solar_eclipse_of_June_26,_1824.txt 5 15.194009933883223 BM25RankingAlgorithm
+
+Query6 - solar eclipse fiction
+
+QueryID Q0 DocumentID LuceneScore SystemName
+---------------------------------------------------
+6 Q0 Solar_eclipses_in_fiction.txt 0.37006995 ApacheLucene
+6 Q0 Gravitational_shielding.txt 0.15276462 ApacheLucene
+6 Q0 Solar_Saros_126.txt 0.13929054 ApacheLucene
+6 Q0 Halys_River.txt 0.13826409 ApacheLucene
+6 Q0 Solar_eclipse_of_October_14,_2042.txt 0.12981421 ApacheLucene
+
+QueryID Q0 DocumentID Rank BM25Score SystemName
+---------------------------------------------------
+6 Q0 Moon_in_fiction.txt 1 6.6896007833033915 BM25RankingAlgorithm
+6 Q0 Total_penumbral_lunar_eclipse.txt 2 6.686010665736831 BM25RankingAlgorithm
+6 Q0 Eclipse_of_the_Sun_(film).txt 3 6.45626624636774 BM25RankingAlgorithm
+6 Q0 Penumbra.txt 4 5.700403566539379 BM25RankingAlgorithm
+6 Q0 Umbra.txt 5 5.700403566539379 BM25RankingAlgorithm
+
+Query7 - 2017 solar eclipse
+
+QueryID Q0 DocumentID LuceneScore SystemName
+---------------------------------------------------
+7 Q0 Solar_Saros_126.txt 0.48845905 ApacheLucene
+7 Q0 Solar_eclipse_of_October_14,_2042.txt 0.4552278 ApacheLucene
+7 Q0 Solar_eclipse_of_June_28,_1889.txt 0.45148283 ApacheLucene
+7 Q0 Solar_eclipse_of_April_16,_1874.txt 0.44150376 ApacheLucene
+7 Q0 Solar_eclipse_of_August_9,_1896.txt 0.44150376 ApacheLucene
+
+QueryID Q0 DocumentID Rank BM25Score SystemName
+---------------------------------------------------
+7 Q0 Cassini%E2%80%93Huygens.txt 1 2.0263062757202968 BM25RankingAlgorithm
+7 Q0 IMDb.txt 2 1.5022437760615261 BM25RankingAlgorithm
+7 Q0 YouTube.txt 3 1.5015842149286465 BM25RankingAlgorithm
+7 Q0 Goonhilly_Satellite_Earth_Station.txt 4 1.413686349821001 BM25RankingAlgorithm
+7 Q0 France.txt 5 1.3898040567093009 BM25RankingAlgorithm
+
+Query8 - total eclipse lyrics
+
+QueryID Q0 DocumentID LuceneScore SystemName
+---------------------------------------------------
+8 Q0 Solar_eclipse_of_July_10,_1972.txt 0.3648916 ApacheLucene
+8 Q0 R%C3%A2mnicu_V%C3%A2lcea.txt 0.1922989 ApacheLucene
+8 Q0 Blue_moon.txt 0.123569876 ApacheLucene
+8 Q0 Solar_Saros_136.txt 0.112526886 ApacheLucene
+8 Q0 Solar_Saros_126.txt 0.11195974 ApacheLucene
+
+QueryID Q0 DocumentID Rank BM25Score SystemName
+---------------------------------------------------
+8 Q0 Mursili%27s_eclipse.txt 1 9.766212793956793 BM25RankingAlgorithm
+8 Q0 Eclipse_season.txt 2 9.68202790718012 BM25RankingAlgorithm
+8 Q0 Eclipse_cycle.txt 3 9.676175778322358 BM25RankingAlgorithm
+8 Q0 Magnitude_of_an_eclipse.txt 4 9.671953431190344 BM25RankingAlgorithm
+8 Q0 Solar_eclipse_of_January_15,_2010.txt 5 9.669529677922029 BM25RankingAlgorithm
+
+Query9 - nordic marine animals
+
+QueryID Q0 DocumentID LuceneScore SystemName
+---------------------------------------------------
+9 Q0 Bay_of_Bengal.txt 0.1282118 ApacheLucene
+9 Q0 Quebec.txt 0.08757741 ApacheLucene
+9 Q0 Germany.txt 0.08589593 ApacheLucene
+9 Q0 Black_Sea.txt 0.07691777 ApacheLucene
+9 Q0 Synchronous_grid_of_Continental_Europe.txt 0.0695125 ApacheLucene
+
+QueryID Q0 DocumentID Rank BM25Score SystemName
+---------------------------------------------------
+9 Q0 Synchronous_grid_of_Continental_Europe.txt 1 20.502890743705336 BM25RankingAlgorithm
+9 Q0 Diameter.txt 2 14.249874409150484 BM25RankingAlgorithm
+9 Q0 Indian_Ocean.txt 3 11.1098186560742 BM25RankingAlgorithm
+9 Q0 Bay_of_Bengal.txt 4 10.062323210523482 BM25RankingAlgorithm
+9 Q0 Supernatural.txt 5 7.78511768419034 BM25RankingAlgorithm
+
+Query10 -  volcanic eruptions tornadoes eruption tornado
+
+QueryID Q0 DocumentID LuceneScore SystemName
+---------------------------------------------------
+10 Q0 Natural_phenomenon.txt 0.2749774 ApacheLucene
+10 Q0 Caldera.txt 0.2512487 ApacheLucene
+10 Q0 Blue_moon.txt 0.075924784 ApacheLucene
+10 Q0 Lunar_mare.txt 0.06177286 ApacheLucene
+10 Q0 Earth.txt 0.05727476 ApacheLucene
+
+QueryID Q0 DocumentID Rank BM25Score SystemName
+---------------------------------------------------
+10 Q0 Caldera.txt 1 43.800807711276136 BM25RankingAlgorithm
+10 Q0 Natural_phenomenon.txt 2 36.28767181747011 BM25RankingAlgorithm
+10 Q0 Lunar_soil.txt 3 36.10217884887282 BM25RankingAlgorithm
+10 Q0 Lunar_mare.txt 4 35.57357951552175 BM25RankingAlgorithm
+10 Q0 Lake_Balaton.txt 5 34.49515362989252 BM25RankingAlgorithm
+
+
+
+

@@ -1,0 +1,103 @@
+magnetic Geographical_pole.txt 6 31 35 44 49 135 141 
+move Geographical_pole.txt 1 165 
+years Geographical_pole.txt 1 175 
+rotating Geographical_pole.txt 1 63 
+earth Geographical_pole.txt 2 81 130 
+its Geographical_pole.txt 3 72 77 155 
+also Geographical_pole.txt 3 28 139 208 
+coordinates Geographical_pole.txt 1 182 
+degrees Geographical_pole.txt 2 101 114 
+hidden Geographical_pole.txt 1 213 
+has Geographical_pole.txt 1 124 
+over Geographical_pole.txt 1 170 
+showing Geographical_pole.txt 2 17 29 
+every Geographical_pole.txt 1 122 
+they Geographical_pole.txt 1 87 
+rotation Geographical_pole.txt 4 13 38 75 147 
+exact Geographical_pole.txt 1 179 
+categories Geographical_pole.txt 2 212 214 
+possess Geographical_pole.txt 1 140 
+like Geographical_pole.txt 1 128 
+edit Geographical_pole.txt 2 209 211 
+either Geographical_pole.txt 1 56 
+become Geographical_pole.txt 1 196 
+fixed Geographical_pole.txt 1 192 
+where Geographical_pole.txt 2 71 199 
+mean Geographical_pole.txt 1 148 
+cartography Geographical_pole.txt 1 177 
+metres Geographical_pole.txt 1 169 
+see Geographical_pole.txt 2 6 207 
+b1 Geographical_pole.txt 1 51 
+b2 Geographical_pole.txt 1 46 
+wander Geographical_pole.txt 1 152 
+blue Geographical_pole.txt 1 40 
+planet Geographical_pole.txt 3 65 67 123 
+for Geographical_pole.txt 2 3 163 
+wikipedia Geographical_pole.txt 1 2 
+poles Geographical_pole.txt 7 86 126 142 151 162 188 194 
+intersect Geographical_pole.txt 1 206 
+body Geographical_pole.txt 2 64 132 
+dwarf Geographical_pole.txt 1 66 
+by Geographical_pole.txt 1 166 
+on Geographical_pole.txt 2 61 154 
+great Geographical_pole.txt 1 202 
+of Geographical_pole.txt 7 12 37 57 74 172 186 204 
+called Geographical_pole.txt 1 90 
+s Geographical_pole.txt 1 82 
+usually Geographical_pole.txt 1 89 
+slightly Geographical_pole.txt 1 153 
+south Geographical_pole.txt 5 24 48 85 96 161 
+one Geographical_pole.txt 2 98 103 
+pole Geographical_pole.txt 9 1 7 21 26 45 50 54 94 97 
+references Geographical_pole.txt 1 210 
+earths Geographical_pole.txt 1 158 
+from Geographical_pole.txt 2 105 119 
+unchanging Geographical_pole.txt 1 181 
+two Geographical_pole.txt 1 59 
+few Geographical_pole.txt 2 168 174 
+perturbations Geographical_pole.txt 1 143 
+taken Geographical_pole.txt 1 190 
+bodys Geographical_pole.txt 4 92 107 146 201 
+is Geographical_pole.txt 1 55 
+direction Geographical_pole.txt 2 104 118 
+north Geographical_pole.txt 5 19 43 83 93 159 
+that Geographical_pole.txt 2 91 149 
+locations Geographical_pole.txt 1 185 
+90 Geographical_pole.txt 2 100 113 
+with Geographical_pole.txt 1 80 
+sphere...etc Geographical_pole.txt 1 70 
+b Geographical_pole.txt 1 39 
+averaged Geographical_pole.txt 1 184 
+longitude Geographical_pole.txt 1 205 
+will Geographical_pole.txt 1 138 
+example Geographical_pole.txt 1 164 
+are Geographical_pole.txt 2 88 189 
+and Geographical_pole.txt 11 16 23 33 41 47 84 95 109 160 180 195 
+intersects Geographical_pole.txt 1 76 
+equator Geographical_pole.txt 2 108 121 
+disambiguation Geographical_pole.txt 1 8 
+it Geographical_pole.txt 1 137 
+surface Geographical_pole.txt 2 78 156 
+as Geographical_pole.txt 3 79 176 191 
+periods Geographical_pole.txt 1 171 
+in Geographical_pole.txt 3 102 115 144 
+if Geographical_pole.txt 1 127 
+cartographic Geographical_pole.txt 1 193 
+field Geographical_pole.txt 2 32 136 
+other Geographical_pole.txt 2 4 111 
+geographical Geographical_pole.txt 8 0 10 20 25 53 125 150 187 
+axis Geographical_pole.txt 3 11 36 73 
+circles Geographical_pole.txt 1 203 
+satellite Geographical_pole.txt 1 69 
+generates Geographical_pole.txt 1 133 
+opposite Geographical_pole.txt 1 117 
+a1 Geographical_pole.txt 1 22 
+a2 Geographical_pole.txt 1 27 
+uses Geographical_pole.txt 1 5 
+a Geographical_pole.txt 10 9 14 30 52 62 131 134 145 167 173 
+natural Geographical_pole.txt 1 68 
+points Geographical_pole.txt 2 60 198 
+green Geographical_pole.txt 1 15 
+the Geographical_pole.txt 13 18 34 42 58 106 110 116 120 129 157 183 197 200 
+requires Geographical_pole.txt 1 178 
+lying Geographical_pole.txt 2 99 112 

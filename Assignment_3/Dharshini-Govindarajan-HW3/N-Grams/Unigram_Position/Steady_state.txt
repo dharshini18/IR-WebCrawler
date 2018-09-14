@@ -1,0 +1,444 @@
+all Steady_state.txt 3 549 575 712 
+concept Steady_state.txt 2 86 1220 
+partial Steady_state.txt 1 57 
+consider Steady_state.txt 1 501 
+dynamic Steady_state.txt 8 274 278 321 481 913 1059 1147 1238 
+adjustment Steady_state.txt 1 1240 
+cases Steady_state.txt 1 496 
+depend Steady_state.txt 1 1156 
+electricity Steady_state.txt 2 197 216 
+subjected Steady_state.txt 1 838 
+swan Steady_state.txt 1 391 
+steadily Steady_state.txt 1 1099 
+environment Steady_state.txt 1 1202 
+to Steady_state.txt 28 61 143 299 500 509 513 561 568 581 761 809 825 831 833 839 894 896 921 942 1008 1023 1030 1046 1097 1109 1205 1213 1215 
+stable Steady_state.txt 5 365 369 372 1144 1208 
+stabilizing Steady_state.txt 1 654 
+alternating Steady_state.txt 1 788 
+applied Steady_state.txt 1 1108 
+continues Steady_state.txt 1 512 
+amplitudea Steady_state.txt 1 517 
+difference Steady_state.txt 3 76 141 261 
+condition Steady_state.txt 3 432 521 1210 
+entire Steady_state.txt 1 566 
+level Steady_state.txt 1 636 
+transmission Steady_state.txt 1 969 
+solution Steady_state.txt 1 473 
+large Steady_state.txt 2 958 995 
+discrete Steady_state.txt 1 69 
+small Steady_state.txt 4 479 922 1051 1067 
+loads Steady_state.txt 1 1074 
+optics Steady_state.txt 2 1248 1252 
+accumulation Steady_state.txt 1 726 
+force Steady_state.txt 2 1093 1106 
+equation#stability Steady_state.txt 1 262 
+rate Steady_state.txt 3 291 632 741 
+design Steady_state.txt 2 458 492 
+investment Steady_state.txt 1 398 
+theory Steady_state.txt 1 12 
+apparatus Steady_state.txt 1 716 
+clock Steady_state.txt 1 1135 
+current Steady_state.txt 1 789 
+capital Steady_state.txt 1 401 
+stabilizes Steady_state.txt 1 642 
+method Steady_state.txt 1 785 
+filled Steady_state.txt 1 222 
+never Steady_state.txt 1 506 
+component Steady_state.txt 1 489 
+equals Steady_state.txt 2 402 694 
+water Steady_state.txt 5 624 635 675 691 699 
+operating Steady_state.txt 1 929 
+path Steady_state.txt 1 748 
+physiology Steady_state.txt 1 1178 
+change Steady_state.txt 1 562 
+balance Steady_state.txt 1 594 
+involved Steady_state.txt 1 328 
+study Steady_state.txt 2 984 1021 
+settles Steady_state.txt 1 507 
+vibrating Steady_state.txt 1 1130 
+periodic Steady_state.txt 2 471 1105 
+published Steady_state.txt 1 1234 
+usually Steady_state.txt 2 902 974 
+changes Steady_state.txt 4 236 721 925 1006 
+involves Steady_state.txt 1 982 
+diameter Steady_state.txt 1 666 
+useful Steady_state.txt 1 499 
+buses Steady_state.txt 1 954 
+analyzing Steady_state.txt 1 787 
+standing Steady_state.txt 1 1190 
+from Steady_state.txt 5 253 759 1175 1184 1222 
+consumption Steady_state.txt 1 373 
+remains Steady_state.txt 2 66 83 
+two Steady_state.txt 2 282 953 
+by Steady_state.txt 2 848 1230 
+therefore Steady_state.txt 1 486 
+type Steady_state.txt 1 1142 
+until Steady_state.txt 1 162 
+more Steady_state.txt 2 270 284 
+initiated Steady_state.txt 1 171 
+started Steady_state.txt 1 169 
+under Steady_state.txt 2 1049 1055 
+envelope Steady_state.txt 1 503 
+transient Steady_state.txt 7 180 229 911 980 1019 1123 1153 
+basically Steady_state.txt 1 934 
+particular Steady_state.txt 1 97 
+known Steady_state.txt 1 1062 
+hole Steady_state.txt 1 670 
+must Steady_state.txt 2 585 723 
+states Steady_state.txt 1 130 
+this Steady_state.txt 5 46 172 932 1091 1125 
+remain Steady_state.txt 5 135 375 717 743 765 
+values Steady_state.txt 1 945 
+can Steady_state.txt 6 296 680 686 880 1086 1138 
+following Steady_state.txt 3 989 993 1034 
+example Steady_state.txt 3 139 187 259 
+sinusoidal Steady_state.txt 1 779 
+compare Steady_state.txt 1 592 
+tap Steady_state.txt 1 612 
+synchronized Steady_state.txt 1 864 
+process Steady_state.txt 4 17 38 493 708 
+topic Steady_state.txt 1 455 
+synchronism Steady_state.txt 1 854 
+occur Steady_state.txt 3 287 412 1069 
+drained Steady_state.txt 1 220 
+machine Steady_state.txt 2 805 1002 
+flowrate Steady_state.txt 1 673 
+plus Steady_state.txt 1 697 
+economy Steady_state.txt 5 341 345 348 352 406 
+specifications Steady_state.txt 1 459 
+thermodynamic Steady_state.txt 1 755 
+after Steady_state.txt 3 165 619 1119 
+dc Steady_state.txt 1 798 
+applications Steady_state.txt 1 333 
+such Steady_state.txt 3 293 601 1132 
+a Steady_state.txt 58 13 16 20 88 103 107 156 179 194 199 204 210 217 226 240 265 269 277 294 302 305 310 318 342 350 357 359 368 414 434 476 541 545 579 587 602 608 620 683 704 784 822 829 840 861 866 990 994 1031 1043 1104 1110 1134 1168 1196 1207 1216 1256 
+lines Steady_state.txt 1 970 
+trevor Steady_state.txt 1 390 
+element Steady_state.txt 1 751 
+greek Steady_state.txt 1 1185 
+maintain Steady_state.txt 2 1047 1206 
+so Steady_state.txt 3 67 84 633 
+operate Steady_state.txt 1 852 
+solow Steady_state.txt 1 388 
+restricted Steady_state.txt 1 920 
+gradual Steady_state.txt 1 924 
+over Steady_state.txt 1 731 
+move Steady_state.txt 1 514 
+vary Steady_state.txt 1 758 
+stability Steady_state.txt 11 818 820 886 905 914 917 981 1020 1048 1060 1065 
+course Steady_state.txt 1 651 
+through Steady_state.txt 6 193 198 589 701 749 1121 
+mentioned Steady_state.txt 1 843 
+still Steady_state.txt 1 1191 
+its Steady_state.txt 4 232 811 834 1200 
+before Steady_state.txt 1 844 
+chemical Steady_state.txt 2 522 539 
+solving Steady_state.txt 1 797 
+systems Steady_state.txt 5 11 125 155 462 1131 
+derivative Steady_state.txt 1 58 
+hidden Steady_state.txt 1 1268 
+main Steady_state.txt 5 337 420 525 774 1180 
+then Steady_state.txt 1 110 
+them Steady_state.txt 2 563 871 
+return Steady_state.txt 2 832 895 
+effects Steady_state.txt 1 442 
+not Steady_state.txt 4 160 314 330 956 
+strive Steady_state.txt 1 560 
+articles Steady_state.txt 1 526 
+name Steady_state.txt 1 1057 
+edit Steady_state.txt 10 334 336 419 524 773 1102 1179 1249 1264 1266 
+identified Steady_state.txt 1 177 
+mode Steady_state.txt 1 1260 
+each Steady_state.txt 2 78 750 
+regulation Steady_state.txt 1 1242 
+homogeneous Steady_state.txt 1 144 
+generation Steady_state.txt 1 1076 
+energy Steady_state.txt 1 730 
+used Steady_state.txt 1 1212 
+frequency Steady_state.txt 1 874 
+happen Steady_state.txt 1 1139 
+out Steady_state.txt 2 628 700 
+living Steady_state.txt 1 1217 
+network Steady_state.txt 2 200 437 
+p Steady_state.txt 1 52 
+electronic Steady_state.txt 1 461 
+robert Steady_state.txt 1 387 
+since Steady_state.txt 1 677 
+increase Steady_state.txt 1 1098 
+may Steady_state.txt 5 313 411 757 1092 1170 
+nominal Steady_state.txt 1 944 
+electronics Steady_state.txt 4 418 424 426 778 
+occurs Steady_state.txt 3 280 395 439 
+fiber Steady_state.txt 2 1247 1251 
+linear Steady_state.txt 2 140 260 
+mechanisms Steady_state.txt 1 1243 
+voltages Steady_state.txt 1 940 
+warm-up Steady_state.txt 1 184 
+beginning Steady_state.txt 1 1177 
+derivation Steady_state.txt 1 148 
+created Steady_state.txt 1 1229 
+could Steady_state.txt 1 201 
+length Steady_state.txt 1 1150 
+circuit Steady_state.txt 1 435 
+indispensable Steady_state.txt 1 488 
+first Steady_state.txt 1 75 
+major Steady_state.txt 1 991 
+initial Steady_state.txt 3 173 1159 1166 
+variables Steady_state.txt 4 25 28 551 577 
+reaches Steady_state.txt 1 407 
+one Steady_state.txt 2 250 595 
+done Steady_state.txt 1 975 
+reached Steady_state.txt 1 688 
+open Steady_state.txt 1 613 
+size Steady_state.txt 2 366 661 
+city Steady_state.txt 1 358 
+given Steady_state.txt 3 464 769 1164 
+necessarily Steady_state.txt 1 315 
+system Steady_state.txt 32 14 35 55 104 117 167 227 248 295 306 567 580 591 603 645 754 808 823 830 860 885 893 904 928 988 1045 1082 1112 1148 1163 1169 1197 
+their Steady_state.txt 1 943 
+returns Steady_state.txt 1 1029 
+too Steady_state.txt 1 957 
+motionlessness Steady_state.txt 1 510 
+that Steady_state.txt 15 48 73 128 251 307 355 374 438 505 559 851 949 1198 1223 1227 
+continuous Steady_state.txt 2 44 1050 
+hmoios Steady_state.txt 1 1186 
+than Steady_state.txt 1 273 
+population Steady_state.txt 1 370 
+kind Steady_state.txt 1 518 
+see Steady_state.txt 4 6 137 257 1262 
+future Steady_state.txt 1 122 
+and Steady_state.txt 22 65 82 100 292 371 389 404 530 537 627 643 671 876 912 923 959 968 1075 1188 1203 1233 1241 
+unchanged Steady_state.txt 1 766 
+categorized Steady_state.txt 1 907 
+close Steady_state.txt 1 941 
+any Steady_state.txt 2 768 1141 
+contents Steady_state.txt 1 332 
+acceleration Steady_state.txt 1 1010 
+rotor Steady_state.txt 2 1013 1095 
+angle Steady_state.txt 3 1005 1028 1096 
+zero Steady_state.txt 2 64 81 
+also Steady_state.txt 4 475 947 1061 1263 
+internal Steady_state.txt 1 1201 
+which Steady_state.txt 3 29 410 548 
+objective Steady_state.txt 1 1016 
+multiple Steady_state.txt 1 1237 
+reach Steady_state.txt 1 1116 
+steady-state Steady_state.txt 4 469 472 483 520 
+phase Steady_state.txt 2 877 950 
+the Steady_state.txt 85 24 31 34 37 54 56 74 85 111 116 121 126 147 150 166 189 254 289 326 362 382 392 405 441 468 491 590 597 605 611 616 623 630 634 637 644 652 656 660 663 665 668 672 678 690 695 698 702 732 737 746 753 792 800 819 826 856 859 883 888 891 927 938 962 965 983 986 998 1001 1012 1015 1018 1026 1035 1038 1040 1056 1094 1149 1152 1158 1162 1176 1193 1219 
+clearance Steady_state.txt 1 1036 
+synonym Steady_state.txt 1 1257 
+especially Steady_state.txt 1 349 
+flow Steady_state.txt 7 190 212 588 707 740 747 978 
+points Steady_state.txt 1 713 
+mechanical Steady_state.txt 2 1100 1111 
+typically Steady_state.txt 2 1115 1211 
+came Steady_state.txt 1 1221 
+alternator Steady_state.txt 1 1000 
+disturbances Steady_state.txt 2 1052 1068 
+random Steady_state.txt 2 1071 1084 
+synchronous Steady_state.txt 2 849 999 
+spite Steady_state.txt 1 555 
+claude Steady_state.txt 1 1231 
+bernard Steady_state.txt 1 1232 
+going Steady_state.txt 1 1120 
+generators Steady_state.txt 1 850 
+equilibrium Steady_state.txt 7 275 279 322 409 431 1239 1259 
+means Steady_state.txt 2 47 72 
+between Steady_state.txt 1 952 
+fluid Steady_state.txt 4 192 214 224 235 
+during Steady_state.txt 1 413 
+processes Steady_state.txt 3 286 327 558 
+fields Steady_state.txt 1 95 
+whether Steady_state.txt 1 1025 
+ascertain Steady_state.txt 1 1024 
+where Steady_state.txt 1 689 
+achieved Steady_state.txt 1 161 
+catastrophic Steady_state.txt 1 1088 
+national Steady_state.txt 1 351 
+observed Steady_state.txt 2 113 1128 
+depends Steady_state.txt 1 658 
+are Steady_state.txt 8 39 329 445 463 552 919 955 973 
+recently Steady_state.txt 1 112 
+techniques Steady_state.txt 1 794 
+said Steady_state.txt 1 298 
+capacity Steady_state.txt 1 380 
+stsis Steady_state.txt 1 1189 
+wikipedia Steady_state.txt 1 2 
+state Steady_state.txt 45 1 8 22 27 90 109 152 158 181 206 230 242 256 267 304 312 319 340 344 394 423 428 450 528 532 543 550 572 576 638 649 685 706 777 781 813 817 836 898 910 916 1118 1154 1174 1254 
+various Steady_state.txt 1 129 
+simplest Steady_state.txt 1 598 
+conditions Steady_state.txt 4 710 930 1160 1167 
+checks Steady_state.txt 1 972 
+we Steady_state.txt 3 879 933 946 
+terms Steady_state.txt 1 466 
+ability Steady_state.txt 4 801 827 889 1041 
+restricting Steady_state.txt 1 937 
+concentrate Steady_state.txt 1 935 
+article Steady_state.txt 4 338 421 775 1181 
+tub Steady_state.txt 3 657 664 679 
+small-signal Steady_state.txt 1 1064 
+both Steady_state.txt 1 869 
+many Steady_state.txt 3 94 154 457 
+region Steady_state.txt 1 360 
+load Steady_state.txt 2 1004 1027 
+regulates Steady_state.txt 1 1199 
+pendulum Steady_state.txt 1 1136 
+point Steady_state.txt 3 760 762 770 
+asymptotically Steady_state.txt 1 245 
+period Steady_state.txt 3 185 415 734 
+i.e Steady_state.txt 1 573 
+respect Steady_state.txt 1 60 
+synchronicity Steady_state.txt 1 901 
+equation#conversion Steady_state.txt 1 142 
+interest Steady_state.txt 1 736 
+featuring Steady_state.txt 1 367 
+disambiguation Steady_state.txt 1 9 
+define Steady_state.txt 2 30 882 
+overloading Steady_state.txt 1 963 
+determination Steady_state.txt 1 451 
+angles Steady_state.txt 1 951 
+an Steady_state.txt 9 246 347 430 453 487 565 715 803 1079 
+those Steady_state.txt 1 50 
+case Steady_state.txt 1 606 
+shaft Steady_state.txt 1 1014 
+tank Steady_state.txt 1 218 
+stochastic Steady_state.txt 1 124 
+these Steady_state.txt 3 971 1066 1083 
+as Steady_state.txt 9 178 440 719 795 842 887 1063 1090 1133 
+value Steady_state.txt 1 1033 
+will Steady_state.txt 7 118 131 134 742 764 1114 1155 
+while Steady_state.txt 2 188 276 
+ongoing Steady_state.txt 1 557 
+behavior Steady_state.txt 3 32 114 1124 
+depreciation Steady_state.txt 1 403 
+situation Steady_state.txt 3 174 272 546 
+bathtub Steady_state.txt 1 609 
+interconnected Steady_state.txt 1 1080 
+economics Steady_state.txt 2 99 335 
+have Steady_state.txt 1 872 
+eventually Steady_state.txt 1 682 
+characteristics Steady_state.txt 1 470 
+is Steady_state.txt 33 18 63 80 105 159 168 175 209 225 243 249 268 308 346 429 452 474 485 498 544 604 646 783 814 846 863 906 1022 1053 1107 1126 1192 1255 
+thus Steady_state.txt 1 881 
+it Steady_state.txt 3 71 497 1113 
+sudden Steady_state.txt 1 1009 
+in Steady_state.txt 39 10 19 41 43 68 93 96 106 123 153 203 228 263 301 309 317 381 399 425 465 494 534 547 554 626 676 693 714 745 853 926 931 997 1073 1078 1129 1172 1235 1250 
+property Steady_state.txt 2 79 1194 
+if Steady_state.txt 2 23 102 
+make Steady_state.txt 1 1244 
+same Steady_state.txt 5 290 631 738 793 873 
+prerequisite Steady_state.txt 1 477 
+investigated Steady_state.txt 1 1054 
+flows Steady_state.txt 1 625 
+levels Steady_state.txt 1 1077 
+uses Steady_state.txt 1 5 
+interieur Steady_state.txt 1 1226 
+drain Steady_state.txt 1 703 
+studies Steady_state.txt 2 918 979 
+analysis Steady_state.txt 2 484 782 
+approached Steady_state.txt 1 244 
+without Steady_state.txt 2 615 899 
+model Steady_state.txt 1 385 
+chemistry Steady_state.txt 3 264 529 535 
+being Steady_state.txt 2 219 640 
+rest Steady_state.txt 1 857 
+voltage Steady_state.txt 1 875 
+using Steady_state.txt 2 791 976 
+homeostasis Steady_state.txt 3 1182 1183 1245 
+disturbance Steady_state.txt 4 841 992 996 1039 
+generator Steady_state.txt 1 862 
+equipment Steady_state.txt 1 967 
+thermodynamics Steady_state.txt 2 98 536 
+original/previous Steady_state.txt 1 812 
+relevance Steady_state.txt 1 92 
+has Steady_state.txt 1 91 
+flowing Steady_state.txt 1 692 
+possible Steady_state.txt 1 1246 
+possibly Steady_state.txt 1 354 
+world Steady_state.txt 1 363 
+signal Steady_state.txt 1 480 
+continue Steady_state.txt 1 119 
+unstable Steady_state.txt 1 247 
+because Steady_state.txt 4 207 231 323 456 
+often Steady_state.txt 3 176 239 1127 
+sequence Steady_state.txt 1 878 
+some Steady_state.txt 4 163 324 495 1122 
+economic Steady_state.txt 2 383 408 
+examples Steady_state.txt 1 599 
+gross Steady_state.txt 1 397 
+for Steady_state.txt 13 3 49 138 146 186 258 478 564 574 786 796 961 1258 
+bottom Steady_state.txt 1 617 
+tube Steady_state.txt 1 195 
+exit Steady_state.txt 1 669 
+tends Steady_state.txt 1 1204 
+refer Steady_state.txt 1 1214 
+regain Steady_state.txt 1 810 
+be Steady_state.txt 11 132 202 297 300 316 569 582 586 687 724 1171 
+power Steady_state.txt 11 807 845 884 892 903 966 977 987 1003 1044 1081 
+semi-stable Steady_state.txt 1 1146 
+losing Steady_state.txt 1 900 
+refers Steady_state.txt 1 824 
+properties Steady_state.txt 2 51 756 
+plug Steady_state.txt 1 618 
+on Steady_state.txt 3 659 936 1157 
+of Steady_state.txt 51 33 53 77 87 115 149 191 213 234 320 325 356 364 386 416 433 443 460 467 490 519 556 578 596 600 607 650 662 667 674 727 735 752 802 821 828 858 870 890 964 985 1011 1017 1037 1042 1058 1143 1151 1161 1195 1224 
+probabilities Steady_state.txt 1 127 
+ensure Steady_state.txt 1 948 
+transients Steady_state.txt 1 444 
+or Steady_state.txt 14 15 36 170 183 196 215 221 283 361 377 436 729 806 1145 
+into Steady_state.txt 2 120 908 
+steady Steady_state.txt 37 0 7 21 89 108 151 157 205 241 255 266 303 311 339 343 393 422 427 449 527 531 542 571 648 684 705 776 780 816 835 897 909 915 1032 1117 1173 1253 
+due Steady_state.txt 2 1007 1070 
+down Steady_state.txt 1 508 
+references Steady_state.txt 1 1265 
+milieu Steady_state.txt 1 1225 
+unchanging Steady_state.txt 1 40 
+there Steady_state.txt 3 208 584 722 
+was Steady_state.txt 1 1228 
+form Steady_state.txt 1 145 
+bus Steady_state.txt 2 867 939 
+but Steady_state.txt 5 353 511 614 763 1137 
+volume Steady_state.txt 3 233 641 653 
+failure Steady_state.txt 1 1089 
+repeated Steady_state.txt 1 133 
+overflow Steady_state.txt 2 681 696 
+with Steady_state.txt 7 59 223 237 610 855 865 1140 
+circuits Steady_state.txt 2 790 799 
+inside Steady_state.txt 1 655 
+variations Steady_state.txt 1 1085 
+lead Steady_state.txt 1 1087 
+below Steady_state.txt 1 378 
+growth Steady_state.txt 2 384 417 
+fluctuations Steady_state.txt 1 1072 
+distribution Steady_state.txt 1 1261 
+similar Steady_state.txt 1 1187 
+called Steady_state.txt 2 26 815 
+diverges Steady_state.txt 1 252 
+constant Steady_state.txt 9 136 211 502 516 553 583 718 744 1209 
+certain Steady_state.txt 2 621 1165 
+start-up Steady_state.txt 1 182 
+general Steady_state.txt 1 271 
+engineering Steady_state.txt 5 101 523 540 772 1101 
+at Steady_state.txt 8 288 376 515 570 629 647 711 767 
+modeling Steady_state.txt 1 482 
+check Steady_state.txt 1 960 
+physical Steady_state.txt 1 400 
+vibrationvibration Steady_state.txt 1 504 
+no Steady_state.txt 2 446 725 
+biochemistry Steady_state.txt 1 533 
+when Steady_state.txt 5 281 396 837 868 1103 
+other Steady_state.txt 2 4 538 
+electrical Steady_state.txt 2 771 804 
+reversible Steady_state.txt 2 285 331 
+categories Steady_state.txt 2 1267 1269 
+generated Steady_state.txt 1 847 
+important Steady_state.txt 2 448 454 
+variable Steady_state.txt 1 639 
+longer Steady_state.txt 1 447 
+organism Steady_state.txt 1 1218 
+carrying Steady_state.txt 1 379 
+mass Steady_state.txt 3 593 728 739 
+time Steady_state.txt 9 42 45 62 70 164 238 622 720 733 
+1865 Steady_state.txt 1 1236 
+requires Steady_state.txt 1 709 
